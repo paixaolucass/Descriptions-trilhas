@@ -1,6 +1,6 @@
 Cálculo interno: [5 blocos] / [20 parágrafos totais] / [860 palavras estimadas] / [860 ÷ 200 = 5 minutos]
 
-# Double Diamond: o processo de criação universal aplicado com inteligência artificial
+# Texto, imagem, vídeo, música e código: criando projetos inteiros com as IAs
 
 **Tempo estimado de leitura:** 5 minutos
 

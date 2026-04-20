@@ -1,6 +1,6 @@
 Cálculo interno: [5 blocos] / [17 parágrafos totais] / [920 palavras estimadas] / [920 ÷ 200 = 5 minutos]
 
-# Meta-aprendizagem: a técnica dos professores para dominar qualquer ferramenta
+# O passo a passo para dominar QUALQUER IA sem se perder
 
 **Tempo estimado de leitura:** 5 minutos
 

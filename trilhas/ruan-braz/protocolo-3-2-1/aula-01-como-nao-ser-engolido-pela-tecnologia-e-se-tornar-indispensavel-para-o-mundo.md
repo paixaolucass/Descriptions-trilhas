@@ -1,6 +1,6 @@
 Cálculo interno: [5 blocos] / [16 parágrafos totais] / [885 palavras estimadas] / [885 ÷ 200 = 5 minutos]
 
-# O futuro pertence a quem orquestra ideias
+# Como não ser engolido pela tecnologia e se tornar indispensável para o mundo
 
 **Tempo estimado de leitura:** 5 minutos
 

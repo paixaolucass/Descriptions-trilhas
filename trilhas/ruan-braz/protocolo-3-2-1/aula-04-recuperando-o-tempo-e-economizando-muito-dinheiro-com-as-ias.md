@@ -1,6 +1,6 @@
 Cálculo interno: [6 blocos] / [18 parágrafos totais] / [890 palavras estimadas] / [890 ÷ 200 = 5 minutos]
 
-# Tour por ferramentas de IA: texto, imagem, vídeo, música e código
+# Recuperando o tempo e economizando muito dinheiro com as IAs
 
 **Tempo estimado de leitura:** 5 minutos
 

@@ -1,6 +1,6 @@
 Cálculo interno: [2 blocos] / [10 parágrafos totais] / [500 palavras estimadas] / [500 ÷ 200 = 3 minutos]
 
-# O modelo de negócio das IAs e como aprender com a documentação oficial
+# Para onde o mundo está indo e como chegar lá primeiro
 
 **Tempo estimado de leitura:** 3 minutos
 
