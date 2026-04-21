@@ -1,10 +1,16 @@
-[6 blocos] / [24 parágrafos totais] / [420 palavras estimadas] / [420 ÷ 200 = 2,1 minutos]
+Cálculo interno: [6 blocos] / [24 parágrafos totais] / [420 palavras estimadas] / [420 ÷ 200 = 2 minutos]
 
 # Roteiro e Storyboard: teoria
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você estrutura o processo completo de criação narrativa para vídeo com IA, da ideia inicial ao storyboard, aplicando metodologias como 5W2H e o conceito de identidade para garantir consistência em personagens, ambientes e artefatos.
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Estruturar o processo completo de criação narrativa para vídeo com IA, da ideia ao storyboard
+- Aplicar o método 5W2H para desenvolver one-pagers de personagem e ambiente com consistência
+- Reconhecer por que identidade visual deve ser definida antes da geração para manter coerência entre frames
 
 ## O processo criativo completo
 
@@ -14,20 +20,20 @@ A geração de vídeo começa muito antes de abrir qualquer ferramenta. O proces
 2. **Roteiro de concept:** roteiros iniciais para testar a ideia, não para produção final
 3. **Painel de referências:** imagens e vídeos existentes que capturam o visual e o sentimento desejados
 4. **Painel de concepts:** primeiras gerações com IA para visualizar personagens, ambientes e artefatos
-5. **Processo de decisão e seleção:** escolha do que continua e do que sai
-6. **One-pagers:** documentos de identidade para cada personagem, lugar e artefato
+5. **Processo de decisão e seleção:** escolha do que continua e do que sai da narrativa
+6. **One-pagers:** documentos de identidade para cada personagem, lugar e artefato relevante
 7. **Roteiro de produção:** sequência de shots com diálogos, se houver
 8. **Storyboard:** a história contada só com imagens antes de gerar os vídeos
 
 ## Identidade como fundamento da consistência
 
-"Identidade" vem do latim "idem" (o mesmo). Identidade é o que permanece.
+"Identidade" vem do latim "idem" — o mesmo. Identidade é o que permanece ao longo do tempo.
 
-Antes de gerar vídeos de forma consistente, você precisa ter decidido o que não muda: as características visuais do personagem, a paleta do ambiente, o estilo de iluminação. Sem essa decisão, cada geração é um personagem diferente.
+Antes de gerar vídeos de forma consistente, você precisa ter decidido o que não muda: as características visuais do personagem, a paleta do ambiente, o estilo de iluminação. Sem essa decisão documentada em um one-pager, cada geração produz um personagem diferente.
 
 ## O método 5W2H para narrativas
 
-Ferramenta simples para desenvolver one-pagers e cenas:
+Ferramenta simples para desenvolver one-pagers e estruturar cenas com clareza:
 
 - **What:** o que acontece
 - **Why:** por que acontece
@@ -39,13 +45,13 @@ Ferramenta simples para desenvolver one-pagers e cenas:
 
 ## Ferramentas de roteiro
 
-- **SudoWrite:** focado em escritores e narrativas longas
+- **SudoWrite:** focado em escritores e narrativas longas com recursos de world building e personagens
 - **Jasper:** focado em marketing e conteúdo comercial
 - **Google Docs:** referência simples para quem quer processo sem fricção de ferramenta nova
 
 ## Por que storyboard antes do vídeo
 
-Contar a história com imagens primeiro valida a narrativa sem gastar créditos de geração de vídeo. Image-to-video a partir de um storyboard bem construído produz resultados muito superiores ao text-to-video direto.
+Contar a história com imagens primeiro valida a narrativa sem gastar créditos de geração de vídeo. Image-to-video a partir de um storyboard bem construído produz resultados muito superiores ao text-to-video direto, porque a IA tem ancoragem visual em cada cena.
 
 ## Coloque em prática
 

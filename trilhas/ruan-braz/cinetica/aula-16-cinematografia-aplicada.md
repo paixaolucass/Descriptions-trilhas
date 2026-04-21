@@ -1,42 +1,58 @@
-[5 blocos] / [21 parágrafos totais] / [370 palavras estimadas] / [370 ÷ 200 = 1,9 minutos]
+Cálculo interno: [6 blocos] / [24 parágrafos totais] / [420 palavras estimadas] / [420 ÷ 200 = 2 minutos]
 
 # Cinematografia aplicada
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você aplica o vocabulário técnico da cinematografia diretamente nos prompts de vídeo com IA, reconhecendo os tipos de plano, ângulos e movimentos que os modelos Sora, Kling e Runway foram treinados a executar.
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Aplicar o vocabulário técnico da cinematografia diretamente nos prompts de vídeo com IA
+- Identificar tipos de plano, ângulos, movimentos de câmera e técnicas de iluminação que os modelos de IA foram treinados a executar
+- Reconhecer como a escolha da lente e da temperatura de cor altera a estética do vídeo gerado
 
 ## Por que vocabulário é precisão
 
-Os modelos de IA de vídeo foram treinados em linguagem cinematográfica real: roteiros, decoupages e descrições técnicas de filmes. Quando você usa os termos corretos no prompt, a IA reconhece padrões treinados e produz resultados muito mais precisos.
+Modelos como Sora, Kling e Runway foram treinados com roteiros de cinema e metadados de lentes reais. Quando você usa o jargão técnico correto no prompt, a IA reconhece padrões treinados e produz resultados muito mais precisos.
 
 Usar "câmera chegando perto" é vago. Usar "dolly in slow" ativa um padrão específico que o modelo já aprendeu.
 
-## Tipos de plano por sigla
+## Tipos de plano
 
-| Sigla | Nome | Uso típico |
-|-------|------|------------|
-| ECU | Extreme Close-Up | Detalhe de olho, boca, objeto pequeno |
-| CU | Close-Up | Rosto inteiro, expressão emocional |
-| MCU | Medium Close-Up | Cabeça e ombros |
-| MS | Medium Shot | Da cintura para cima |
-| Full | Full Shot | Corpo inteiro do sujeito |
-| Wide | Wide Shot | Sujeito e ambiente ao redor |
-| Establishing | Establishing Shot | Apresentação do ambiente completo |
-| Bird Eye | Bird's Eye View | Câmera diretamente acima, vista de cima |
-| Dutch Angle | Dutch Angle | Câmera inclinada, tensão e desorientação |
-| Over Shoulder | Over the Shoulder | Câmera atrás de um personagem olhando para outro |
-| POV | Point of View | A câmera é o olho do personagem |
+- **ECU (Extreme Close-Up):** detalhe de olho, boca ou objeto pequeno
+- **CU (Close-Up):** rosto inteiro, expressão emocional
+- **MCU (Medium Close-Up):** cabeça e ombros
+- **MS (Medium Shot):** da cintura para cima
+- **Full Shot:** corpo inteiro do sujeito
+- **Wide Shot:** sujeito e ambiente ao redor
+- **Establishing Shot:** apresentação completa do ambiente
+- **Bird's Eye View:** câmera diretamente acima
+- **Dutch Angle:** câmera inclinada para tensão e desorientação
+- **Over the Shoulder:** câmera atrás de um personagem olhando para outro
+- **POV (Point of View):** a câmera é o olho do personagem
 
-## Como usar na prática
+## Movimentos de câmera e seus riscos
 
-O tipo de plano vai sempre no início do prompt, antes do sujeito. Isso respeita o peso semântico das primeiras posições que vimos na aula de prompts básicos.
+- **Static Shot:** baixo risco de alucinação
+- **Slow Dolly In / Dolly Out:** risco baixo, cria tensão ou abertura de cena
+- **Pan Left / Pan Right:** risco baixo, movimento horizontal
+- **Tracking Shot:** risco médio, acompanha o sujeito em movimento
+- **Orbit Shot:** risco alto — a IA precisa imaginar partes do objeto não visíveis, o que gera artefatos com frequência
 
-Exemplo: "ECU of a woman's eyes, filled with tears, soft backlight, cinematic depth of field."
+## Lentes e temperatura de cor
+
+Cada distância focal cria uma estética diferente: 14mm distorce o ambiente, 35mm é neutro e narrativo, 85mm é o clássico de retrato cinematográfico, lentes anamórficas criam lens flares horizontais característicos.
+
+A temperatura de cor em Kelvin define o clima emocional: 2.000K é luz de vela, 5.600K é luz do dia equilibrada, 8.000K é azul frio neo-noir.
+
+## Técnicas de iluminação
+
+Rembrandt Light, Butterfly, Three-Point Light, Volumetric/God Rays, Negative Fill e Gobo são termos que a IA responde com precisão por terem sido parte do treinamento com material cinematográfico real.
 
 ## Coloque em prática
 
-Escolha 3 planos diferentes da tabela e crie um prompt para cada um com o mesmo sujeito e ambiente. Gere os três e observe como o tipo de plano altera completamente a narrativa visual da mesma cena.
+Escolha 3 planos diferentes da lista acima e crie um prompt para cada um com o mesmo sujeito e ambiente. Gere os três e observe como o tipo de plano altera completamente a narrativa visual da mesma cena.
 
 ---
 

@@ -1,37 +1,40 @@
-[5 blocos] / [17 parágrafos totais] / [290 palavras estimadas] / [290 ÷ 200 = 1,5 minutos]
+Cálculo interno: 5 blocos / 16 parágrafos totais / 300 palavras estimadas / 300 ÷ 200 = 2 minutos
 
 # Iluminação e atmosfera
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você aplica vocabulário de iluminação para guiar gerações com IA e distingue como a luz opera em modelos de difusão em relação a renderização física em softwares como V-Ray.
+## Objetivos de aprendizado
 
-## Como a IA gera luz
+Ao final desta aula, você será capaz de:
 
-A IA não simula física de luz. Ela gera pixels estatisticamente consistentes com padrões de iluminação vistos no treinamento.
+- Aplicar vocabulário técnico de iluminação para guiar gerações com IA
+- Identificar como diferentes tipos de luz afetam a atmosfera e a mensagem da imagem
+- Executar testes de isolamento de variável para mapear o impacto de cada termo de iluminação
 
-Não há raios de luz, reflexo calculado ou sombra projetada com lógica física. O que existe é uma aproximação estatística que imita o resultado visual dessas propriedades.
+## Como a IA processa iluminação
 
-## Por que vocabulário de iluminação importa
+A IA não simula física de luz. Ela gera pixels estatisticamente consistentes com padrões de iluminação presentes nos dados de treinamento. Não existem raios de luz calculados, reflexos físicos ou sombras projetadas com lógica real. O que existe é uma aproximação estatística que imita o resultado visual dessas propriedades com base em bilhões de imagens.
 
-Porque é a forma de acessar esses padrões no espaço latente do modelo. Escrever "chiaroscuro" ou "rembrandt lighting" ativa padrões específicos de contraste e direção de luz que o modelo aprendeu com imagens históricas e fotográficas.
+Isso significa que escrever "chiaroscuro" ou "Rembrandt lighting" no prompt acessa padrões específicos que o modelo aprendeu de imagens históricas e fotográficas. O vocabulário é a chave de acesso a esses padrões.
 
-## Termos de iluminação essenciais
+## Termos de iluminação apresentados na aula
 
-- **Chiaroscuro:** alto contraste entre luz e sombra; origem na pintura clássica
-- **Rembrandt lighting:** triângulo de luz característico no rosto; referência fotográfica
-- **Golden hour:** luz quente e lateral do final de tarde
-- **Rim lighting:** contraluz que cria borda iluminada no objeto
-- **Flat lighting:** iluminação difusa sem sombras pronunciadas; comum em produto e editorial
-- **Dramatic lighting:** iluminação de alto impacto emocional com fontes direcionais
+A aula apresenta um material com testes e variações de iluminação produzidos pela equipe da Overlens. Os principais termos trabalhados incluem tipos e direções de luz, temperaturas de cor, condições de ambiente e referências fotográficas de iluminação de estúdio.
 
-## Metodologia de isolamento de variável
+Termos como Golden Hour, Rim Lighting, Soft Box, Hard Light, Flat Lighting, Dramatic Lighting, Backlight e suas variações produzem resultados muito diferentes mesmo quando todo o restante do prompt permanece idêntico.
 
-Para aprender o impacto de cada termo de iluminação, gere a mesma cena trocando apenas o termo de iluminação. Mantenha todos os outros parâmetros idênticos e observe a diferença.
+## A metodologia de isolamento de variável
+
+Para aprender o impacto real de cada termo de iluminação, a equipe da Overlens usa uma abordagem científica: gerar a mesma cena trocando apenas um elemento por vez, documentar os resultados e construir uma biblioteca pessoal de referências. Esse processo transforma tentativa e erro em conhecimento replicável.
+
+## Iluminação como mensagem
+
+A escolha da iluminação comunica antes da leitura consciente da imagem. Luz quente e lateral sugere acolhimento. Alto contraste sugere tensão ou dramaticidade. Luz difusa sem sombras comunica clareza e objetividade. Saber isso permite usar a iluminação como instrumento de direção emocional, não apenas como recurso estético.
 
 ## Coloque em prática
 
-Escolha um objeto e gere a mesma imagem com cinco termos de iluminação diferentes. Documente os resultados e monte uma referência pessoal de como cada termo se traduz visualmente.
+Escolha um objeto qualquer e gere a mesma imagem com cinco termos de iluminação diferentes. Mantenha todos os outros parâmetros idênticos. Documente os resultados e monte uma referência pessoal de como cada termo se traduz visualmente nos modelos que você usa.
 
 ---
 

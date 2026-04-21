@@ -1,42 +1,40 @@
-[5 blocos] / [18 parágrafos totais] / [300 palavras estimadas] / [300 ÷ 200 = 1,5 minutos]
+Cálculo interno: 5 blocos / 16 parágrafos totais / 290 palavras estimadas / 290 ÷ 200 = 1 minuto
 
 # Lista de hubs e referências
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 1 minuto
 
-Nesta aula, você distingue hub de modelo, identifica os principais hubs do ecossistema de IA visual e aplica critérios para escolher entre acesso via hub ou via API.
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Distinguir hub de modelo no ecossistema de IA visual
+- Identificar os principais hubs disponíveis e suas diferenças de posicionamento
+- Aplicar critérios para decidir entre acesso via hub ou via API direta
 
 ## Hub versus modelo
 
-Um **modelo** é o sistema de IA responsável pela geração: FLUX, Stable Diffusion, DALL-E. Um **hub** é a plataforma que agrega múltiplos modelos em uma interface única, geralmente com planos de assinatura e sem necessidade de configurar APIs.
+Um **modelo** é o sistema de IA responsável pela geração: Seedream, NanoBanana, Flux. Um **hub** é a plataforma que agrega múltiplos modelos em uma interface única, geralmente com planos de assinatura e sem necessidade de configurar APIs. Usar um hub é mais prático; usar API direta oferece mais controle e custo potencialmente menor em volume.
 
-Usar um hub é mais prático. Usar API direta oferece mais controle e custo potencialmente menor em volume.
+## Os hubs apresentados na aula
 
-## Hubs recomendados
+**Freepik:** hub de maior custo-benefício para acesso a múltiplos modelos. Inclui NanoBanana, Seedream, Magnific e ferramentas de edição em uma única assinatura. Recomendado como ponto de entrada para a maioria dos profissionais criativos.
 
-**Freepik:** melhor custo-benefício para acesso a múltiplos modelos. Recomendado como ponto de entrada para a maioria dos profissionais criativos.
+**Runway:** posicionado de forma mais premium para produção audiovisual. Reúne ferramentas de geração de imagem e vídeo com foco em fluxos criativos profissionais. Referência importante para acompanhar lançamentos e campanhas de criadores.
 
-**Runway:** especializado em geração de vídeo e imagem com foco em fluxos profissionais de produção audiovisual.
+**Adobe Firefly:** integrado ao ecossistema Adobe. Permite acesso a modelos variados, incluindo NanoBanana e GPT, dentro de um canvas similar ao Canva. Mais útil para quem já assina o pacote Adobe.
 
-**Adobe Firefly:** integrado ao ecossistema Adobe, ideal para quem já usa Photoshop e Lightroom no dia a dia.
+**Leonardo AI:** hub com vários modelos e interface reformulada. Funciona bem para exploração e testes de estilos diferentes.
 
-**Leonardo AI:** plataforma com modelos variados, boa para exploração e experimentação de estilos diferentes.
+**CREA:** hub com opções gratuitas para quem quer experimentar sem custo inicial.
 
-## Como usar leaderboards
+## A lógica da API
 
-HuggingFace, LitterBoard e Arena AI publicam comparações atualizadas de modelos por tipo de tarefa.
-
-Antes de adotar uma nova ferramenta, consultar um leaderboard evita decisões baseadas apenas em marketing ou hype.
-
-## API versus hub
-
-Hub: setup rápido, custo previsível por crédito ou assinatura, sem necessidade técnica.
-
-API: requer integração técnica, mas permite automação, personalização de parâmetros e escala de volume com custo por token.
+API é quando você conecta o modelo diretamente ao seu software. O hub intermediário cobra uma margem sobre o uso. Trabalhar com API direta reduz esse custo, mas exige nível técnico mais avançado, configuração de ambiente e gestão de tokens.
 
 ## Coloque em prática
 
-Acesse o Freepik e experimente pelo menos dois modelos diferentes para a mesma imagem. Compare os resultados e identifique qual modelo se aproxima mais do estilo que você precisa para projetos reais.
+Acesse o Freepik e experimente pelo menos dois modelos diferentes para gerar a mesma imagem. Compare os resultados e anote qual modelo se aproxima mais do estilo que você precisa para projetos reais. Use essa comparação para orientar sua escolha de ferramenta principal.
 
 ---
 

@@ -1,38 +1,42 @@
-[5 blocos] / [17 parágrafos totais] / [290 palavras estimadas] / [290 ÷ 200 = 1,5 minutos]
+Cálculo interno: 5 blocos / 17 parágrafos totais / 310 palavras estimadas / 310 ÷ 200 = 2 minutos
 
 # IA na prática com fotografia
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você aplica o Freepik Spaces para construção de fluxos de geração em canvas nodal, executa consistência de personagens em diferentes contextos e estrutura fotografia de produto a partir de sketches.
+## Objetivos de aprendizado
 
-## Freepik Spaces
+Ao final desta aula, você será capaz de:
 
-O Freepik Spaces é um canvas nodal para produção de imagens com IA. Em vez de gerar uma imagem por vez, ele permite construir fluxos visuais encadeados: a saída de uma geração alimenta a entrada da próxima.
+- Executar o fluxo completo de fotografia com IA usando imagens reais como referência de identidade
+- Aplicar o Seedream e o NanoBanana para gerar fotografias consistentes a partir de mood board e referências pessoais
+- Reconhecer como repertório e processo determinam a qualidade do resultado acima de qualquer ferramenta
 
-Isso é particularmente útil em projetos com múltiplas variações de um mesmo conceito visual.
+## O fluxo completo de fotografia com IA
 
-## Consistência de personagens em fotografia
+A aula fecha o processo iniciado nas aulas de briefing e mood board com a execução prática: usar as referências coletadas, as fotos reais do sujeito e as imagens do mood board para gerar fotografias com IA que mantenham consistência de identidade visual.
 
-Para manter um personagem fotograficamente consistente em diferentes cenários e figurinos, o fluxo combina referências de rosto e corpo como input, seed fixada e prompts que variam apenas os elementos do contexto.
+O processo começa com a preparação das imagens de referência: fotografias do sujeito em diferentes ângulos e iluminações, exportadas na maior resolução possível. Qualidade da referência de entrada determina qualidade do resultado.
 
-A qualidade das referências de entrada é o fator mais crítico. Uma referência imprecisa resulta em variações que perdem consistência.
+## Usando o Seedream para fotografias
 
-## Fotografia de produto a partir de sketches
+A aula mostra a geração no Seedream usando a imagem do sujeito como referência de identidade e uma imagem do mood board como referência de estilo. O modelo combina as duas referências para produzir uma fotografia que preserva a fisionomia real enquanto aplica a atmosfera e iluminação do mood board.
 
-O fluxo de sketch para fotografia de produto permite ao designer definir a composição, o ângulo e o ambiente do produto antes de qualquer geração. A IA então executa o render respeitando as decisões já tomadas.
+## Ajustes e iterações
 
-Esse fluxo elimina a aleatoriedade da geração pura e garante que as decisões de design sejam preservadas no resultado final.
+O primeiro resultado raramente é o final. A aula demonstra como identificar o que funcionou (composição, atmosfera, iluminação) e o que precisa de ajuste (expressão, ângulo, elementos indesejados), e como usar essa análise para refinar o prompt ou as referências na próxima iteração.
 
-## Repertório acima de ferramentas
+## Pós-processamento da fotografia gerada
 
-A conclusão central desta aula, e da trilha, é que o diferencial profissional está no repertório acumulado, não na ferramenta mais recente.
+Após a geração, o fluxo inclui enhance para naturalizar textura de pele (Enhancor ou ferramenta equivalente), upscale para aumentar resolução e edição no Photoshop para ajustes finais de cor e composição. A imagem gerada raramente está pronta sem alguma etapa de pós-produção.
 
-Quem tem referências, processo e intenção criativa consegue resultados consistentes em qualquer ferramenta. Quem depende da ferramenta fica refém de cada atualização do mercado.
+## A conclusão da trilha
+
+O diferencial profissional está no repertório acumulado, não na ferramenta mais recente. Quem tem referências, processo e intenção criativa gera resultados consistentes em qualquer ferramenta. Quem depende da ferramenta fica refém de cada atualização do mercado. Esse é o argumento central de toda a trilha Spectrum.
 
 ## Coloque em prática
 
-Crie um fluxo no Freepik Spaces com pelo menos três nós encadeados. Documente o resultado e identifique onde o processo ganhou eficiência em relação à geração sequencial isolada.
+Execute o fluxo completo de fotografia com IA: monte o mood board, prepare as referências pessoais, gere a primeira versão, analise o resultado, refine e aplique pós-processamento. Documente cada etapa e compare o resultado final com a primeira geração bruta.
 
 ---
 

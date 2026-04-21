@@ -1,30 +1,36 @@
-[4 blocos] / [13 parágrafos totais] / [230 palavras estimadas] / [230 ÷ 200 = 1,2 minutos]
+Cálculo interno: 4 blocos / 13 parágrafos totais / 260 palavras estimadas / 260 ÷ 200 = 1 minuto
 
 # Para quem é esta trilha
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 1 minuto
 
-Nesta aula, você identifica os quatro perfis de profissional para quem a trilha Spectrum foi construída e reconhece em qual deles você se posiciona hoje.
+## Objetivos de aprendizado
 
-## Os quatro perfis
+Ao final desta aula, você será capaz de:
 
-**Operantes:** profissionais que já produzem conteúdo visual e querem incorporar IA ao fluxo existente sem perder qualidade ou identidade.
+- Identificar os quatro perfis de profissional para quem a trilha Spectrum foi construída
+- Reconhecer em qual perfil você se posiciona hoje
+- Distinguir as características e objetivos de cada nível de desenvolvimento
 
-**Convergentes:** pessoas de áreas adjacentes (marketing, produto, UX) que precisam de autonomia visual sem depender de um designer em todo projeto.
+## Os quatro perfis da Overlens
 
-**Emergentes:** iniciantes que querem entrar no mercado criativo com IA como acelerador desde o começo da trajetória.
+A trilha organiza seus membros em quatro níveis: operantes, convergentes, emergentes e nexialistas. Cada nível representa um estágio diferente de maturidade criativa e de relação com as ferramentas de IA.
 
-**Nexialistas:** profissionais multidisciplinares que articulam diversas ferramentas e precisam que IA visual se integre a um sistema maior de produção.
+**Operantes** são pessoas que executam bem tutoriais e seguem metodologias, mas ainda têm dificuldade de criar com autonomia sem um passo a passo. Este curso parte do básico especialmente para elas.
 
-## Por que o perfil importa
+**Convergentes** já possuem uma metodologia própria de criação, mas ainda navegam como se o mercado fosse o de 2020. O curso ajuda esse perfil a integrar IA em seus processos estabelecidos.
 
-A trilha foi estruturada para atender os quatro perfis ao mesmo tempo. Mas saber onde você se posiciona ajuda a priorizar os módulos com mais impacto direto para o seu contexto atual.
+**Emergentes** já experimentaram geração de imagens com IA por conta própria. Estão acima da média, mas buscam consistência e profundidade maiores.
 
-O caminho de quem está começando é diferente do caminho de quem já produz em escala.
+**Nexialistas** pensam de forma sistêmica e conectam múltiplas áreas. Para eles, o curso oferece uma visão mais ampla do que é possível com IA visual integrada a agentes e fluxos automatizados.
+
+## O que este curso não é
+
+Este curso não é para quem busca fórmulas mágicas, quem acredita que toda IA gera imagem igual ou quem nega o impacto da IA no mercado criativo.
 
 ## Coloque em prática
 
-Identifique seu perfil principal. Escreva em uma frase o que você quer conseguir fazer ao final da trilha. Esse objetivo vai calibrar suas escolhas ao longo dos módulos.
+Identifique seu perfil atual e escreva em uma frase o que você quer conseguir fazer ao final desta trilha. Esse objetivo vai orientar suas escolhas em cada módulo.
 
 ---
 

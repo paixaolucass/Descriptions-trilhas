@@ -1,26 +1,32 @@
-[4 blocos] / [11 parágrafos totais] / [200 palavras estimadas] / [200 ÷ 200 = 1,0 minuto]
+Cálculo interno: 4 blocos / 12 parágrafos totais / 240 palavras estimadas / 240 ÷ 200 = 1 minuto
 
 # Introdução
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 1 minuto
 
-Nesta aula, você identifica a proposta da trilha Spectrum, o cenário atual de adoção de IA visual e por que dominar geração de imagens depende de repertório e processo, não apenas de ferramenta.
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Identificar o cenário atual de adoção de inteligência artificial pela população global
+- Reconhecer por que dominar IA visual representa uma vantagem competitiva real
+- Distinguir os níveis de uso de IA, do gratuito ao uso como infraestrutura de código
 
 ## O gap de adoção
 
-Dados atuais mostram que 84% das pessoas ainda não usam IA no trabalho. Dos que usam, apenas 0,04% utilizam recursos avançados com consistência e intenção.
+Dados apresentados na aula mostram que aproximadamente 84% das pessoas nunca usaram IA para produzir. Apenas 0,3% paga por alguma ferramenta de IA e somente 0,04% utiliza IA como infraestrutura de código. Esse abismo de adoção cria uma oportunidade enorme para quem decide se preparar agora.
 
-Esse gap não é técnico. É de repertório, processo e clareza criativa.
+## A metáfora dos superpoderes digitais
 
-## A metáfora dos superpoderes
+Dominar código e IA no mundo digital é comparado a modificar as leis da física no mundo real. Quem aprende a modelar esses sistemas opera em um nível completamente diferente dos demais. A mesma tecnologia disponível a governos e grandes corporações está acessível na tela do seu computador com poucos cliques.
 
-A trilha parte de uma comparação direta: quem domina IA visual consegue resultados que parecem fora do alcance dos demais, assim como personagens de ficção científica operam em outro nível de capacidade.
+## Por que a Overlens criou esta trilha
 
-A diferença está em quem sabe usar a ferramenta com propósito, não em quem tem acesso a ela.
+O objetivo central é resolver o básico primeiro: gerar imagens, vídeos, música e aplicativos com IA. Isso hoje equivale a saber usar Excel ou Google Docs. Quem domina esse nível já está à frente de 99,96% da população.
 
 ## Coloque em prática
 
-Mapeie onde você está hoje: você usa IA visual? Com que frequência? Para quê? Essa autoanálise orienta como você vai aproveitar cada módulo da trilha.
+Faça um inventário honesto: quais ferramentas de IA você usa hoje e com qual profundidade? Anote sua resposta e use ela como ponto de partida para medir sua evolução ao longo da trilha.
 
 ---
 

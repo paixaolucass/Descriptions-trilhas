@@ -1,42 +1,42 @@
-[6 blocos] / [20 parágrafos totais] / [330 palavras estimadas] / [330 ÷ 200 = 1,7 minutos]
+Cálculo interno: 6 blocos / 19 parágrafos totais / 330 palavras estimadas / 330 ÷ 200 = 2 minutos
 
 # Moodboard para fotografia
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você estrutura um mood board fotográfico a partir do briefing do cliente, aplica o painel semântico com Etos, Pathos e Logos e executa a montagem de referências no Pinterest.
+## Objetivos de aprendizado
 
-## O briefing como ponto de partida
+Ao final desta aula, você será capaz de:
 
-Antes de montar qualquer painel visual, o briefing precisa estar claro: quem é o cliente, qual é o público, qual é o objetivo da fotografia e em qual canal ela vai ser usada.
+- Estruturar um mood board fotográfico a partir de palavras-chave extraídas do briefing
+- Aplicar o Pinterest como plataforma de curadoria de referências fotográficas
+- Executar a montagem de painéis no Figma separando referências de figurino, cenário e composição
 
-Sem essas respostas, o mood board é construído no vazio.
+## Do briefing ao mood board
 
-## Etos, Pathos e Logos como estrutura semântica
+A aula continua o processo iniciado na aula anterior. Com o briefing enriquecido pela IA e a lista de palavras-chave já estruturada, o passo seguinte é transformar esse vocabulário em referências visuais. O mood board é a ponte entre o texto do briefing e a linguagem visual que vai guiar a geração.
 
-O painel semântico organiza as referências em três dimensões:
+## A curadoria de referências fotográficas
 
-**Etos:** referências que comunicam credibilidade, autoridade e confiança. O que a marca quer que o público acredite sobre ela.
+A aula mostra o Pinterest como ambiente de busca de referências, usando as palavras-chave extraídas do briefing para encontrar imagens de iluminação, ângulo, composição, ambiente e figurino. A busca é feita por camadas: primeiro referências de estilo geral, depois de iluminação específica, depois de ambiente e cenário.
 
-**Pathos:** referências que evocam emoção, conexão e identificação. Como a marca quer que o público se sinta.
+A seleção é intencional: não se trata de salvar tudo que aparece, mas de identificar o que comunica exatamente a mensagem mapeada no painel semântico.
 
-**Logos:** referências que transmitem razão, lógica e argumento. O que a marca quer que o público pense ou decida.
+## Dois painéis separados: figurino e fotografia
 
-Montar referências nas três dimensões garante que o mood board não seja apenas esteticamente coerente, mas comunicativamente completo.
+A Overlens organiza os mood boards fotográficos em dois painéis distintos. O painel de figurino concentra referências de roupas, acessórios e estética de vestimenta. O painel de fotografia concentra referências de composição, iluminação, ângulo e atmosfera. Essa separação evita que a IA misture elementos dos dois painéis de forma não intencional.
 
-## Personalização com MBTI
+## Montagem no Figma
 
-Para projetos de fotografia de pessoa física (influenciadores, profissionais liberais), o uso de testes de personalidade como o MBTI ajuda a calibrar o tom visual com o perfil real do cliente.
+As referências selecionadas são organizadas no Figma para criar coerência visual entre elas. A ferramenta permite posicionar, agrupar e comparar as imagens antes de usá-las como referência de geração. O processo não precisa ser perfeito: a Overlens também usa o "lugar feio", que é o espaço de exploração sem julgamento antes de selecionar o que fica.
 
-Um perfil introvertido pede composições diferentes de um perfil extrovertido, mesmo que o objetivo final seja o mesmo.
+## Cuidados com referências de pessoas
 
-## Montagem no Pinterest
-
-O Pinterest é recomendado como plataforma de curadoria de referências. O fluxo recomendado é criar um quadro privado por projeto, com ao menos 15 a 20 imagens organizadas por camada semântica.
+A aula faz um alerta prático: ao selecionar referências fotográficas de outras pessoas, a IA pode capturar traços físicos dessas pessoas e misturá-los com o rosto de quem está sendo fotografado. Por isso, é importante distinguir referências de composição e iluminação de referências de fisionomia.
 
 ## Coloque em prática
 
-Escolha um cliente real ou fictício, conduza um briefing básico e monte um mood board com 15 referências organizadas pelas três camadas: Etos, Pathos e Logos.
+Usando as palavras-chave do briefing fotográfico que você montou na aula anterior, crie dois painéis no Figma: um de figurino e um de fotografia. Use o Pinterest para coletar pelo menos 12 referências no total, distribuídas entre os dois painéis.
 
 ---
 

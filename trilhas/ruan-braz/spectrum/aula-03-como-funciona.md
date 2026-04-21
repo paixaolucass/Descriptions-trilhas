@@ -1,32 +1,36 @@
-[4 blocos] / [14 parágrafos totais] / [240 palavras estimadas] / [240 ÷ 200 = 1,2 minutos]
+Cálculo interno: 5 blocos / 15 parágrafos totais / 300 palavras estimadas / 300 ÷ 200 = 2 minutos
 
-# Como funciona
+# O que é e como funciona a geração de imagens com IA
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você distingue como modelos de difusão operam em relação a LLMs e identifica por que a geração de imagens com IA é um processo estatístico, não um ato de criação consciente.
+## Objetivos de aprendizado
 
-## Difusão versus LLMs
+Ao final desta aula, você será capaz de:
 
-Modelos de linguagem (LLMs) geram texto token a token, prevendo a sequência mais provável. Modelos de difusão operam de forma diferente: partem de ruído e reduzem esse ruído progressivamente até formar uma imagem coerente com o prompt.
+- Distinguir como modelos de difusão funcionam em relação a LLMs
+- Identificar por que a geração de imagens é um processo estatístico baseado em padrões
+- Reconhecer os vetores como representação matemática que a IA usa para processar imagens
 
-São arquiteturas distintas, com lógicas distintas de geração.
+## LLM versus modelo de difusão
 
-## Vetores e espaço latente
+Modelos de linguagem (LLMs) como ChatGPT, Claude e Gemini são modelos preditivos que analisam cada palavra de um prompt e devolvem o output estatisticamente mais provável. Já os modelos de difusão operam de forma diferente: eles aprendem desconstruindo imagens em ruído e depois reconstruindo esse ruído progressivamente até chegar a uma imagem coerente com o input recebido.
 
-A IA não "vê" imagens como humanos veem. Ela trabalha com representações matemáticas chamadas vetores, que mapeiam conceitos visuais em um espaço numérico de alta dimensão.
+## O processo de aprendizado da IA
 
-Quando você escreve um prompt, está navegando esse espaço. A imagem gerada é o ponto mais provável nesse espaço dado o conjunto de instruções fornecido.
+Durante o treinamento, a IA recebe milhões de imagens e vai removendo pixels progressivamente, como um processo de destruição e reconstrução. Repetindo esse ciclo trilhões de vezes, ela começa a identificar padrões. Quando os pixels se organizam de determinada maneira, ela aprende que aquilo é uma orelha, depois um felino, depois um gato. Com isso, ela conecta padrões visuais a palavras, criando rótulos.
 
-## Estatística, não magia
+## O papel dos vetores
 
-A geração de imagens com IA não é criatividade. É interpolação estatística sobre um corpus de imagens e descrições.
+Para a IA, cada pixel é um número com várias dimensões, e esses números carregam a posição, a relação com os pixels vizinhos e os padrões do conjunto. Esse conjunto de números é chamado de vetor. Toda imagem, palavra e artefato digital tem um vetor, e a IA usa esses vetores para identificar padrões e gerar novas imagens.
 
-Isso tem implicações práticas: resultados genéricos surgem de prompts vagos. Resultados específicos exigem vocabulário preciso, referências claras e iteração deliberada.
+## Por que a teoria importa na prática
+
+Saber que a IA funciona estatisticamente ajuda a entender por que ela falha. Erros como mãos com dedos extras ou olhos distorcidos acontecem porque são padrões menos frequentes nos dados de treinamento. Quem entende isso toma decisões melhores de prompt e de revisão do resultado.
 
 ## Coloque em prática
 
-Gere a mesma imagem com três prompts de complexidade crescente. Observe como o nível de especificidade do prompt afeta o controle sobre o resultado final.
+Gere uma imagem simples com um prompt de uma linha. Depois adicione detalhes específicos de textura, iluminação e ângulo. Compare os dois resultados e observe como a especificidade do prompt afeta o controle sobre o output.
 
 ---
 

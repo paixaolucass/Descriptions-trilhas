@@ -1,36 +1,38 @@
-[5 blocos] / [16 parágrafos totais] / [270 palavras estimadas] / [270 ÷ 200 = 1,4 minutos]
+Cálculo interno: 5 blocos / 15 parágrafos totais / 280 palavras estimadas / 280 ÷ 200 = 1 minuto
 
 # Como trabalhamos dentro da Overlens
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 1 minuto
 
-Nesta aula, você reconhece o fluxo de gestão de projetos visuais da Overlens usando ClickUp, identifica os pontos de controle de qualidade e aplica a lógica de colaboração estruturada em time criativo.
+## Objetivos de aprendizado
 
-## O ClickUp como sistema central
+Ao final desta aula, você será capaz de:
 
-Na Overlens, o ClickUp é o hub de gestão de todos os projetos de produção visual. Cada projeto tem um espaço dedicado com tarefas, responsáveis, prazos e status definidos.
+- Reconhecer o fluxo de gestão de projetos visuais da Overlens usando ClickUp
+- Identificar os pontos de controle de qualidade no processo de produção
+- Aplicar a lógica de process management em produção de imagens com IA em time ou individualmente
 
-Isso elimina a dependência de comunicação por mensagem para rastrear o andamento das entregas.
+## O Freepik Space como hub de criação
 
-## Estrutura de um projeto visual
+A aula mostra o processo completo de produção da Overlens: desde o uso do Freepik Space para construir fluxos visuais encadeados (Text to Image, Image to Image e variações de modelo), passando pela geração de referências de figurino e personagem no Seedream, até a aplicação do processo de capas das trilhas que combinam briefing, divergência, convergência e seleção.
 
-Um projeto típico passa por etapas fixas: briefing recebido, pesquisa e referências, geração de conceitos, seleção, refinamento, validação com cliente e entrega final.
+## Capas das trilhas como estudo de caso
 
-Cada etapa tem um responsável e um critério claro de conclusão antes de avançar para a próxima.
+O processo de construção das capas da Overlens é apresentado em detalhe: conceito e objetivo, divergência com coleta de referências, geração de imagens com IA, convergência para selecionar as melhores, e teste da capa dentro do ambiente real da plataforma com as outras capas para avaliar harmonia visual. A validação não é estética: é verificação de aderência ao conceito de cada trilha.
 
-## Pontos de controle de qualidade
+## O ClickUp como sistema de gestão
 
-Antes de qualquer entrega ao cliente, há pelo menos um ponto de revisão interna. O revisor avalia se o resultado atende ao briefing original e se o padrão técnico (resolução, formato, safe zones) está correto.
+Na Overlens, o ClickUp organiza a produção visual em um kanban com etapas definidas: fila de análise, fila de execução, execução em andamento, revisão e tarefa concluída. Cada item tem um responsável e critério claro de avanço. Quando a revisão reprova, o item volta para execução com as novas instruções.
 
-Esse checkpoint evita retrabalho após entrega e protege a reputação do trabalho.
+Esse sistema elimina a dependência de comunicação informal para rastrear entregas e evita que projetos fiquem perdidos entre etapas.
 
-## Colaboração em time
+## Processo não é burocracia
 
-Quando mais de uma pessoa trabalha no mesmo projeto, o ClickUp define quem é responsável por cada etapa. A sobreposição de tarefas sem clareza de responsável é a principal causa de retrabalho em times criativos.
+A aula reforça que processo não desacelera a criação: ele libera a criação de decisões que já foram tomadas. Quando o universo visual, o briefing e os templates estão definidos, cada nova peça produzida é apenas a aplicação dessas decisões.
 
 ## Coloque em prática
 
-Monte um fluxo no ClickUp (ou em qualquer ferramenta de kanban) para um projeto visual real ou simulado. Defina as etapas, o responsável por cada uma e o critério de conclusão antes de avançar.
+Monte um kanban simples para gerenciar sua próxima produção de imagens com IA: briefing, geração, seleção, revisão e entrega. Defina o critério de passagem para cada etapa antes de começar.
 
 ---
 

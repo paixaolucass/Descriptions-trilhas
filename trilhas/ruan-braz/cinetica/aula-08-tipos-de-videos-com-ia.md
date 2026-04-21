@@ -1,34 +1,44 @@
-[5 blocos] / [18 parágrafos totais] / [310 palavras estimadas] / [310 ÷ 200 = 1,6 minutos]
+Cálculo interno: [5 blocos] / [18 parágrafos totais] / [320 palavras estimadas] / [320 ÷ 200 = 2 minutos]
 
 # Tipos de vídeos com IA
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você distingue os três grandes tipos de vídeo geráveis com IA, identifica as ferramentas associadas a cada um e reconhece qual formato se aplica a cada objetivo de produção.
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Distinguir os três grandes tipos de vídeo geráveis com IA e suas características técnicas
+- Identificar as ferramentas e casos de uso associados a cada formato
+- Reconhecer qual tipo de vídeo se aplica a cada objetivo de produção
 
 ## Tipo 1: Vídeo 2D padrão
 
 O formato mais comum e o mais suportado pelos modelos atuais. Inclui narrativas, comerciais, clipes musicais, conteúdo para redes sociais e vídeos educacionais.
 
+Características: duração de alta qualidade entre 8 e 20 segundos; consistência de personagem requer referência externa; física muito complexa ainda gera artefatos.
+
 Ferramentas principais: Kling, Runway, Sora, Pika, Luma, Seedance.
+
+Custo mensal estimado: de 0 a 500 reais, dependendo do volume e da qualidade necessária.
 
 ## Tipo 2: Vídeo 360°
 
-Formato imersivo que envolve o espectador em todas as direções. Exige modelos específicos e ferramentas especializadas.
+Formato imersivo que envolve o espectador em todas as direções. Muito utilizado em tour virtual de imóveis, treinamentos de realidade virtual, visualizações de arquitetura e experiências em eventos.
 
-O Google Genie é uma das referências nesse segmento. A visualização requer dispositivos compatíveis ou navegadores com suporte a vídeo esférico.
+Nenhum modelo de texto para vídeo mainstream gera 360° nativo. É necessário usar modelos específicos como o Google Genie. O custo de produção e visualização é mais alto por envolver muito mais imagens do que o 2D. A visualização com headset de VR amplifica a experiência, mas não é obrigatória.
 
-Uma abordagem acessível é usar o navegador Opera com VPN para acessar plataformas que disponibilizam esse formato de forma gratuita para testes.
+## Tipo 3: Avatares e lip sync
 
-## Tipo 3: Avatares interativos
+Vídeos de apresentadores digitais que falam e reagem. Muito usado em cursos online, e-learning, treinamento de equipes e atendimento automatizado.
 
-Vídeos de personagens digitais que respondem a comandos ou simulam conversas em tempo real. Muito usado em treinamentos corporativos, atendimento automatizado e conteúdo educacional.
+Ferramentas principais: Synthesia e HeyGen. Emoções muito complexas como choro e raiva extrema ainda não são convincentes. A personalização de avatar requer planos premium, e a licença de voz e imagem exige atenção às restrições de uso comercial.
 
-Ferramentas principais: Synthesia e Videoesque. A diferença está na licença de uso e nas características de personalização do avatar.
+Custo mensal estimado: de 100 a 180 reais, dependendo do uso.
 
 ## Como escolher o formato certo
 
-O critério principal é o objetivo de uso, não a preferência estética. Vídeo 2D padrão cobre a maioria dos casos. 360° é indicado para experiências imersivas. Avatares interativos resolvem comunicação em escala sem presença humana.
+O critério principal é o objetivo de uso, não a preferência estética. Vídeo 2D padrão cobre a maioria dos casos. 360° é indicado para experiências imersivas específicas. Avatares resolvem comunicação em escala sem presença humana.
 
 ## Coloque em prática
 

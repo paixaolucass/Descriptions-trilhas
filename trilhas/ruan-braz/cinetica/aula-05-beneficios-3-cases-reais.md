@@ -1,32 +1,32 @@
-[5 blocos] / [18 parágrafos totais] / [310 palavras estimadas] / [310 ÷ 200 = 1,6 minutos]
+Cálculo interno: [5 blocos] / [18 parágrafos totais] / [330 palavras estimadas] / [330 ÷ 200 = 2 minutos]
 
 # Benefícios: 3 cases reais
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você aplica os conceitos de geração de vídeo com IA a três cenários reais e distintos, identificando os ganhos concretos que cada perfil de usuário obteve ao adotar a tecnologia.
+## Objetivos de aprendizado
 
-## Case 1: Educação com avatares
+Ao final desta aula, você será capaz de:
 
-O Professor Carlos usava gravações presenciais para produzir aulas. Após adotar IA de vídeo com avatares digitais, reduziu em 75% o tempo de produção de cada aula.
+- Identificar os ganhos concretos que diferentes perfis obtêm ao adotar geração de vídeo com IA
+- Reconhecer o padrão comum entre os cases: remoção de gargalos de produção, não substituição do trabalho humano
+- Aplicar o raciocínio dos cases ao seu próprio contexto profissional
 
-O impacto: mais conteúdo entregue sem aumento de custo, com liberdade para gravar em qualquer horário sem precisar de estúdio ou iluminação especial.
+## Case 1: Professor de inglês com avatar digital
 
-## Case 2: Moda e conversão
+Carlos queria um curso online para vender na Hotmart, mas travava na hora de gravar: sem câmera boa, timidez e horas de edição para um vídeo de 5 minutos. A solução foi contratar uma plataforma de avatar (Synthesia ou HeyGen), escrever os roteiros e usar um avatar realista para apresentar o conteúdo. Resultado: zero reais com equipamento, três semanas para concluir o curso e vendas realizadas sem precisar aparecer em câmera.
 
-Mariana trabalhava com moda e precisava demonstrar produtos em uso. Com geração de vídeo com IA, substituiu parte das produções fotográficas por vídeos gerados.
+## Case 2: Dona de boutique e Reels de moda
 
-O resultado: aumento de 30% na taxa de conversão nas peças que usavam vídeo gerado com IA, comparado às que usavam apenas imagem estática.
+Mariana precisava postar Reels diários com looks, mas provar roupas, gravar, editar e adicionar legendas consumia mais tempo do que gerir a loja. Com ferramentas como Runway e Pika Labs, ela passou a tirar fotos simples das roupas no cabide e gerar vídeos dinâmicos com modelos, transições e fundos personalizados. Resultado: redução de 4 horas para 1 hora de trabalho de conteúdo e crescimento no engajamento e nas vendas.
 
-## Case 3: Imóveis e tours virtuais
+## Case 3: Corretor de imóveis com vídeos profissionais
 
-Roberto atuava no mercado imobiliário e precisava apresentar imóveis de forma atrativa. Com IA de vídeo, criou tours virtuais de propriedades sem precisar deslocar equipes de filmagem.
-
-O diferencial: capacidade de apresentar imóveis em qualquer estágio de construção com visualizações realistas antes da entrega.
+Roberto captava muitos imóveis, mas os proprietários exigiam vídeos de alta qualidade e contratar um videomaker para cada imóvel era inviável. Com o celular, CapCut com IA, Descript e narração por voiceover gerado por IA, ele entregou vídeos profissionais com narração personalizada e ambientes limpos digitalmente — sem saber editar vídeo.
 
 ## O padrão nos três cases
 
-Nos três cenários, o ganho não veio de substituir o trabalho humano, mas de remover gargalos de produção. A IA assumiu as partes repetitivas, técnicas e caras, liberando o profissional para o que requer julgamento e criatividade.
+Em todos os cenários, o ganho não veio de substituir o trabalho humano, mas de remover gargalos de produção. A IA assumiu as partes repetitivas, técnicas e caras, liberando o profissional para o que requer julgamento e criatividade.
 
 ## Coloque em prática
 

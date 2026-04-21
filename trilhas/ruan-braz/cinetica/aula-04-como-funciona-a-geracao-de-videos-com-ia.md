@@ -1,36 +1,42 @@
-[5 blocos] / [20 parágrafos totais] / [360 palavras estimadas] / [360 ÷ 200 = 1,8 minutos]
+Cálculo interno: [5 blocos] / [20 parágrafos totais] / [380 palavras estimadas] / [380 ÷ 200 = 2 minutos]
 
 # Como funciona a geração de vídeos com IA
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você distingue os mecanismos técnicos por trás da geração de vídeo com IA: desde os modelos de difusão até os conceitos de interpolação, optical flow e física simulada que tornam o movimento possível.
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Identificar os mecanismos técnicos que diferenciam a geração de vídeo da geração de imagens
+- Reconhecer o papel do espaço latente e da interpolação de frames no processo de geração
+- Aplicar o conceito de FPS e duração ideal para otimizar seu fluxo de trabalho
 
 ## Modelos de difusão e espaço latente
 
-A geração de vídeo começa no mesmo princípio das imagens: modelos de difusão que aprendem a reconstruir padrões visuais a partir de ruído. A diferença está na dimensão temporal.
+A geração de vídeo começa no mesmo princípio das imagens: modelos de difusão que aprendem a reconstruir padrões visuais a partir de ruído. O modelo começa com ruído gaussiano e vai "escavando" a imagem iterativamente até chegar ao resultado final.
 
-Um vídeo não é uma sequência de imagens independentes. A IA precisa manter coerência entre quadros, o que exige mecanismos adicionais.
+A diferença está no espaço latente: ao invés de trabalhar diretamente em alta resolução, a IA opera em uma representação comprimida da imagem. Uma imagem de 512x512 pixels tem cerca de 786 mil números. No espaço latente, isso é condensado em aproximadamente 16 mil números — dezenas de vezes mais eficiente.
 
 ## Os conceitos que definem o movimento
 
-**Interpolação de frames:** a IA preenche os quadros intermediários entre dois estados visuais, criando a ilusão de movimento contínuo.
+**Interpolação de frames:** a IA não gera todos os frames individualmente. Ela gera frames-chave e preenche os intermediários combinando frames entre si, criando a ilusão de movimento contínuo.
 
-**Optical flow:** algoritmo que detecta como objetos se movem entre frames e usa esse fluxo para guiar a geração dos próximos quadros.
+**Optical flow:** algoritmo que detecta como objetos se movem entre frames, usando esse fluxo para guiar a geração dos próximos quadros com coerência física.
 
-**Física simulada:** a IA aprende padrões de como líquidos, tecidos e objetos se comportam no mundo real e aplica esses padrões na geração.
+**Física simulada:** tecidos, líquidos, pele e partículas precisam se comportar de acordo com padrões físicos que a IA aprendeu. Isso é mais exigente do que em imagens estáticas.
 
-**Consistência temporal:** a maior diferença entre gerar imagens e vídeos. Cada frame precisa ser coerente com o anterior, o que multiplica a complexidade computacional.
+**Consistência temporal:** cada frame precisa ser coerente com o anterior e o próximo. Isso multiplica a complexidade computacional do vídeo em relação à imagem.
 
-## FPS e duração
+## FPS e duração ideal
 
-A taxa de frames por segundo (FPS) define a fluidez do vídeo. Modelos diferentes trabalham com FPS diferentes, e isso afeta diretamente a qualidade percebida do movimento.
+A taxa de frames por segundo (FPS) define a fluidez do vídeo. 24 FPS é o padrão cinema; 30 FPS oferece mais fluidez; 60 FPS é mais fluido ainda. Cada segundo a 24 FPS são 24 frames a serem gerados e mantidos coerentes.
 
-A duração ideal para a maioria dos modelos atuais fica entre 8 e 20 segundos. Vídeos mais longos aumentam drasticamente o custo computacional e a chance de inconsistências.
+A duração ideal para a maioria dos modelos atuais fica entre 8 e 20 segundos. Gerar em resolução menor primeiro e depois fazer upscale é mais eficiente do que gerar direto em 4K.
 
 ## Coloque em prática
 
-Gere um vídeo curto de teste em qualquer ferramenta de IA de vídeo. Observe especificamente o movimento: identifique onde a física simulada parece convincente e onde ela falha. Esse exercício de leitura crítica vai acelerar sua evolução como prompt engineer de vídeo.
+Gere um vídeo curto de teste em qualquer ferramenta de IA de vídeo. Observe especificamente o movimento: identifique onde a física simulada parece convincente e onde ela falha. Esse exercício de leitura crítica vai acelerar sua evolução como criador de vídeos com IA.
 
 ---
 

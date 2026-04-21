@@ -1,38 +1,38 @@
-[5 blocos] / [18 parágrafos totais] / [300 palavras estimadas] / [300 ÷ 200 = 1,5 minutos]
+Cálculo interno: 5 blocos / 16 parágrafos totais / 290 palavras estimadas / 290 ÷ 200 = 1 minuto
 
-# Ferramentas de edição
+# Ferramentas de edição de imagens
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 1 minuto
 
-Nesta aula, você identifica as principais ferramentas de edição de imagens com IA, distingue os fluxos de modo rápido e modo artesanal e aplica o Photoshop como hub central de pós-produção.
+## Objetivos de aprendizado
 
-## Midjourney como editor
+Ao final desta aula, você será capaz de:
 
-Além da geração, o Midjourney oferece recursos de edição nativos: zoom out para expansão de enquadramento, pan para deslocamento lateral, e remix para variar elementos específicos de uma imagem já gerada.
+- Identificar as principais ferramentas de edição de imagens com IA disponíveis no mercado
+- Distinguir o fluxo rápido do fluxo artesanal de edição
+- Reconhecer quando aplicar Photoshop, Lightroom e os editores nativos das ferramentas de geração
 
-Esses recursos permitem iterar sobre um resultado sem partir do zero.
+## Edição dentro da própria ferramenta de geração
 
-## Photoshop como hub de edição
+O Midjourney permite editar diretamente as imagens geradas com recursos como Zoom Out (expansão de enquadramento), Pan (deslocamento lateral), Remix (variação de elementos específicos) e Upscale (aumento de resolução com mais detalhes). Para um fluxo rápido, esses recursos eliminam a necessidade de exportar para um editor externo.
 
-O Photoshop é a ferramenta recomendada para pós-produção de imagens geradas com IA. Com o Firefly integrado, é possível remover elementos, expandir bordas, substituir fundos e ajustar composições diretamente na interface já familiar.
+O NanoBanana permite edição pontual por regiões da imagem: apagar elementos, trocar roupas, substituir fundos, tudo descrito por prompt. Essa edição regional é uma das funcionalidades mais úteis para ajustes precisos sem precisar regenerar a imagem inteira.
 
-A vantagem é o controle por camadas: cada ajuste fica isolado e pode ser revertido sem comprometer o resultado anterior.
+## Photoshop como hub de pós-produção
 
-## Lightroom para ajustes de imagem
+Para imagens que precisam de um nível maior de controle, o Photoshop continua sendo a ferramenta mais completa. Com o Firefly integrado, é possível expandir bordas, remover elementos e substituir fundos diretamente na interface. A vantagem do Photoshop é o trabalho por camadas: cada ajuste fica isolado e pode ser revertido sem comprometer o resultado anterior.
 
-Para correção de cor, contraste, exposição e acabamento fotográfico, o Lightroom é o complemento direto do Photoshop. O fluxo mais comum é gerar no modelo de IA, importar no Lightroom para ajuste fotográfico e finalizar no Photoshop para composição.
+## Lightroom para ajuste fotográfico
 
-## Adobe Firefly
+Para correção de cor, contraste, exposição e acabamento fotográfico, o Lightroom é o complemento natural. O Freepik também oferece ferramentas de melhoria de imagem dentro da sua plataforma para quem não assina Adobe.
 
-Firefly é o modelo de IA generativa integrado ao ecossistema Adobe. Funciona dentro do Photoshop e permite expansão generativa, preenchimento inteligente e substituição de elementos por texto.
+## Dois fluxos de trabalho
 
-## Modo rápido versus modo artesanal
-
-Modo rápido: geração e edição mínima para entregas de alto volume. Modo artesanal: iteração detalhada, pós-produção cuidadosa, controle de cada elemento. A escolha depende do tipo de entrega, não da preferência pessoal.
+O fluxo rápido usa os editores nativos da própria ferramenta de geração e é ideal para alta frequência de entregas. O fluxo artesanal usa Photoshop e Lightroom para refinamento detalhado quando a imagem vai para materiais de destaque. A escolha entre os dois depende do destino e da importância da peça dentro do projeto.
 
 ## Coloque em prática
 
-Pegue uma imagem gerada com IA e aplique pelo menos um ajuste em cada etapa: Midjourney para variação, Lightroom para cor e Photoshop para composição final.
+Pegue uma imagem gerada com IA que ainda não passou por edição. Aplique pelo menos um ajuste em cada nível: edição nativa dentro da ferramenta de geração, correção de cor no Lightroom ou equivalente, e composição final no Photoshop ou editor de camadas.
 
 ---
 

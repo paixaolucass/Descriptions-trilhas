@@ -1,38 +1,36 @@
-[5 blocos] / [18 parágrafos totais] / [300 palavras estimadas] / [300 ÷ 200 = 1,5 minutos]
+Cálculo interno: 5 blocos / 16 parágrafos totais / 290 palavras estimadas / 290 ÷ 200 = 1 minuto
 
 # Gerando posts para redes sociais
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 1 minuto
 
-Nesta aula, você aplica o fluxo de geração de imagens para redes sociais com respeito às safe zones do Instagram, usa templates no Figma e estrutura um kanban no ClickUp para produção em lote.
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Aplicar o fluxo de geração de imagens para redes sociais com respeito às safe zones do Instagram
+- Estruturar templates no Figma para garantir consistência e velocidade na produção de conteúdo
+- Executar a geração diretamente dentro do Figma usando modelos de IA integrados
+
+## Geração de imagens dentro do Figma
+
+A aula mostra como gerar imagens diretamente em shapes criados no Figma, usando modelos como NanoBanana e GPT integrados à interface. Isso elimina a necessidade de exportar e reimportar imagens entre ferramentas durante a produção de conteúdo em volume.
 
 ## Safe zones do Instagram
 
-O Instagram aplica zonas de corte nas bordas superiores e inferiores dos posts no feed e nos stories. Elementos importantes como texto, rosto ou produto colocados nessas áreas podem ser cortados dependendo do dispositivo ou formato de exibição.
+O Instagram aplica zonas de corte nas bordas superiores e inferiores dos posts no feed e nos stories. Elementos importantes colocados nessas áreas podem ser cortados dependendo do dispositivo. A Overlens criou templates com as safe zones demarcadas manualmente para cada formato, garantindo que imagens e textos gerados sejam posicionados dentro das áreas seguras.
 
-Gerar imagens sem considerar as safe zones é um erro que compromete a entrega final.
+## Templates de conteúdo no Figma
 
-## Templates no Figma
+A aula apresenta os templates de conteúdo da Overlens: estruturas de tipografia, layouts de advertising, templates de stories e feed, e variações com e sem texto sobreposto. Cada template define proporções, margens, áreas seguras e posição de elementos de marca. Com os templates prontos, a produção de cada novo post se torna apenas uma questão de trocar o conteúdo dentro da estrutura.
 
-Criar templates no Figma com as safe zones demarcadas garante que cada imagem gerada seja posicionada e ajustada dentro de uma grade consistente.
+## Geração em lote para alta frequência
 
-O template centraliza as decisões de formato: proporção, margens, área segura para texto e posição de elementos de marca.
-
-## Geração em lote
-
-Para produção de alto volume, o fluxo eficiente é gerar múltiplas variações em uma única sessão, selecionar as aprovadas e montar os posts com os templates já preparados.
-
-Gerar uma por uma sem sistema é o caminho para inconsistência e retrabalho.
-
-## ClickUp para gestão do fluxo
-
-O ClickUp é usado como kanban de produção de conteúdo visual. Cada post passa por etapas definidas: briefing, geração, seleção, ajuste, aprovação e publicação.
-
-Ter o fluxo mapeado evita que itens fiquem perdidos entre etapas e facilita a colaboração quando há mais de uma pessoa no processo.
+Para produção de alto volume, o fluxo eficiente é gerar múltiplas variações em uma única sessão usando o Freepik Space ou o Figma, selecionar as aprovadas e montar os posts com os templates já preparados. Gerar uma por uma sem sistema é o caminho para inconsistência e retrabalho.
 
 ## Coloque em prática
 
-Monte um template no Figma com as safe zones do Instagram para pelo menos dois formatos (feed quadrado e story). Gere cinco imagens, posicione nos templates e avalie quais precisam de ajuste.
+Monte um template no Figma com as safe zones demarcadas para pelo menos dois formatos do Instagram (feed e story). Gere cinco imagens, posicione nos templates e avalie quais precisam de ajuste antes de publicar.
 
 ---
 

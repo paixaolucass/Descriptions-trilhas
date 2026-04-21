@@ -1,37 +1,47 @@
-[5 blocos] / [18 parágrafos totais] / [300 palavras estimadas] / [300 ÷ 200 = 1,5 minutos]
+Cálculo interno: [5 blocos] / [18 parágrafos totais] / [310 palavras estimadas] / [310 ÷ 200 = 2 minutos]
 
 # Elementos de um bom vídeo
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você identifica os elementos que separam um vídeo gerado com IA de qualidade de um resultado mediano, e aplica uma tabela comparativa para escolher o tipo de vídeo mais adequado ao seu objetivo.
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Identificar os elementos que separam um vídeo gerado com IA de qualidade de um resultado mediano
+- Distinguir os pontos fortes e as limitações de cada tipo de vídeo com IA
+- Aplicar critérios objetivos para avaliar a qualidade de um vídeo gerado antes de publicar ou entregar
 
 ## O que define qualidade em vídeo gerado com IA
 
 Qualidade não é só resolução. Os elementos que realmente fazem diferença são:
 
 - **Coerência temporal:** o sujeito e o ambiente permanecem consistentes ao longo dos frames
-- **Movimento plausível:** a física do movimento corresponde ao que se espera do objeto ou pessoa
+- **Movimento plausível:** a física do movimento corresponde ao que se espera do objeto ou pessoa na cena
 - **Iluminação estável:** a fonte de luz não muda de direção ou intensidade de forma aleatória entre frames
-- **Ausência de artefatos:** sem distorções faciais, duplicações de membros ou texturas que "flutuam"
+- **Ausência de artefatos:** sem distorções faciais, duplicações de membros, texturas que "flutuam" ou objetos que somem e reaparecem
 
-## Tabela comparativa por tipo de vídeo
+## Comparativo por tipo de vídeo
 
-Cada tipo de vídeo tem características distintas que determinam onde ele funciona melhor:
+**Vídeo 2D padrão**
+- Ponto forte: versatilidade e amplo suporte de ferramentas
+- Limitação principal: consistência de personagem em movimentos físicos complexos
 
-| Tipo | Ponto forte | Limitação principal |
-|------|-------------|---------------------|
-| 2D padrão | Versatilidade, suporte amplo de ferramentas | Consistência de personagem em movimentos complexos |
-| 360° | Imersão total, experiência diferenciada | Requer hardware/software específico para visualização |
-| Avatar interativo | Comunicação em escala, personalização de voz | Menos expressivo em situações narrativas complexas |
+**Vídeo 360°**
+- Ponto forte: imersão total, experiência diferenciada para eventos e treinamentos
+- Limitação principal: requer hardware e software específico; custo de produção mais alto
 
-## Como usar essa tabela
+**Avatar interativo**
+- Ponto forte: comunicação em escala, personalização de voz e presença digital
+- Limitação principal: menos expressivo em situações narrativas complexas; emoções extremas não são convincentes
 
-Antes de gerar, defina o critério mais importante para o seu projeto. Se o objetivo é impacto emocional em narrativa, o 2D padrão com boa cinematografia entrega mais. Se é escala de comunicação corporativa, avatares são mais eficientes.
+## Regra de ouro para avaliação
+
+Antes de publicar qualquer vídeo gerado com IA, assista com atenção específica aos pontos de falha mais comuns: mãos, olhos, transições de movimento e continuidade de textura. Identificar o problema na curadoria é mais eficiente do que descobrí-lo depois de publicado.
 
 ## Coloque em prática
 
-Escolha um projeto real ou hipotético e preencha a tabela para ele: qual tipo de vídeo resolve melhor o objetivo, qual é o ponto forte que você vai explorar e qual limitação você precisa contornar?
+Escolha um projeto real ou hipotético e avalie qual tipo de vídeo resolve melhor o objetivo: anote o ponto forte que você vai explorar e a limitação que precisará contornar com estratégia de prompt ou referência.
 
 ---
 

@@ -1,41 +1,48 @@
-[5 blocos] / [20 parágrafos totais] / [340 palavras estimadas] / [340 ÷ 200 = 1,7 minutos]
+Cálculo interno: [5 blocos] / [20 parágrafos totais] / [360 palavras estimadas] / [360 ÷ 200 = 2 minutos]
 
 # Estruturas avançadas de prompt
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você aplica estruturas avançadas de prompt para vídeo, incluindo presets de câmera do Runway, movimentos cinematográficos específicos e o conceito de malha espacial geométrica para controle de profundidade.
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Aplicar estruturas avançadas de prompt incluindo malha espacial geométrica e negative prompt
+- Distinguir o papel de câmera e movimento como fundação matemática da cena no prompt
+- Executar o framework de 6 camadas com a precisão que separa resultados amadores de profissionais
 
 ## O axioma global da estrutura
 
-Há uma regra que governa todos os prompts avançados: a clareza de intenção supera a quantidade de informação. Um prompt enxuto e preciso supera um prompt longo e ambíguo em qualidade de resultado.
+Há uma regra adotada globalmente por profissionais que utilizam IA em produções de alto nível: câmera e movimento no início absoluto do prompt funcionam como o alicerce matemático da cena. A direção da câmera define a perspectiva e o fluxo óptico antes de qualquer outro elemento.
 
-A complexidade deve estar na especificidade dos elementos, não no volume de palavras.
+Essa estrutura não é uma sugestão pessoal — é validada pelas próprias empresas que criam as ferramentas e por quem usa IA em produções cinematográficas reais.
 
-## Presets de câmera do Runway
+## As 6 camadas do framework avançado
 
-O Runway oferece presets de movimento que funcionam como instruções cinematográficas diretas:
+**1. Câmera e movimento:** define a malha geométrica espacial — perspectiva, composição e fluxo óptico ao longo do tempo.
 
-- **Pan left / Pan right:** movimento horizontal da câmera mantendo posição fixa
-- **Handheld shake:** tremido sutil que simula câmera na mão, efeito de documentário
-- **Tracking shot:** câmera que acompanha o movimento do sujeito
-- **Dolly in slow:** avanço lento da câmera em direção ao sujeito, cria tensão e proximidade
+**2. Sujeito e atributos:** quem ou o quê está na cena, com características visuais específicas e âncoras de identidade.
 
-Usar o nome correto do preset elimina ambiguidade e produz resultados consistentes.
+**3. Ação única:** o que acontece — uma ação principal, não uma sequência. Múltiplas ações simultâneas colapsa a atenção da IA.
+
+**4. Ambiente e contexto:** onde a cena acontece, com detalhes de cenário que não competem com a ação principal.
+
+**5. Luz e atmosfera:** tipo, direção e temperatura de cor da iluminação.
+
+**6. Estilo e referência:** estética, paleta, referência cinematográfica ou negativo de estilo.
 
 ## Malha espacial geométrica
 
-Conceito avançado de decomposição do frame em zonas espaciais (frente, meio, fundo) para controlar onde cada elemento da cena se posiciona e como interage com a câmera.
+Conceito avançado de decomposição do frame em zonas (frente, meio, fundo) para controlar onde cada elemento da cena se posiciona e como interage com a câmera. Aplicado em prompts de alta precisão, permite instruir a IA sobre profundidade de campo e composição sem depender só do texto.
 
-Aplicado em prompts de alta precisão, permite instruir a IA sobre profundidade de campo e composição sem depender só do prompt textual.
+## Negative prompt como filtro cirúrgico
 
-## Negative prompt
-
-O negative prompt instrui o modelo sobre o que não gerar. Usado corretamente, elimina artefatos específicos (brilho excessivo, distorções de rosto, movimentos mecânicos) sem precisar descrever longamente o que você quer.
+O negative prompt instrui o modelo sobre o que não gerar. Usado corretamente, elimina artefatos específicos (brilho excessivo, distorções de rosto, movimentos mecânicos) sem precisar reescrever o prompt inteiro. É mais eficiente resolver na geração do que em pós-produção.
 
 ## Coloque em prática
 
-Escolha um dos presets de câmera do Runway e construa um prompt completo usando os 6 elementos do framework da aula anterior mais o preset. Gere e analise se o movimento correspondeu à intenção.
+Escolha um conceito de vídeo e construa o prompt completo seguindo as 6 camadas na ordem correta. Adicione um negative prompt com pelo menos dois artefatos que você quer evitar. Gere e avalie se a estrutura melhorou o controle sobre o resultado.
 
 ---
 

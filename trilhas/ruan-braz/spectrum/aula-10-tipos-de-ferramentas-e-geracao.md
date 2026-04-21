@@ -1,43 +1,46 @@
-[6 blocos] / [22 parágrafos totais] / [360 palavras estimadas] / [360 ÷ 200 = 1,8 minutos]
+Cálculo interno: 6 blocos / 20 parágrafos totais / 370 palavras estimadas / 370 ÷ 200 = 2 minutos
 
-# Tipos de ferramentas e geração
+# Tipos de ferramentas e ferramentas de geração de imagens
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você distingue as quatro categorias de ferramentas de geração de imagens com IA, identifica as principais opções do mercado e aplica critérios para escolher onde gerar conforme o objetivo do projeto.
+## Objetivos de aprendizado
 
-## As quatro categorias
+Ao final desta aula, você será capaz de:
 
-**Text to Image (T2I):** geração a partir de texto. O prompt é o único insumo. Ideal para exploração conceitual e prototipagem rápida.
+- Distinguir os principais tipos de ferramentas de IA para geração de imagens
+- Identificar as ferramentas recomendadas para cada contexto e nível de uso
+- Aplicar leaderboards de IA para manter-se atualizado sobre os melhores modelos do momento
 
-**Image to Image (I2I):** usa uma imagem de referência como base e modifica a partir de instruções textuais. Mantém estrutura e proporciona controle sobre composição.
+## Os tipos de ferramentas
 
-**Híbrido:** combina T2I e I2I no mesmo fluxo. Permite partir de um conceito e refinar com referências visuais progressivamente.
+O ecossistema de IA para imagens se divide em categorias funcionais.
 
-**Multimodal:** aceita múltiplos tipos de input simultaneamente (texto, imagem, sketch, áudio). Ferramentas mais avançadas do ecossistema atual.
+**Modelos de geração (Text-to-Image e Image-to-Image):** recebem texto ou imagem como input e entregam uma imagem como output. Exemplos: NanoBanana, Seedream, Flux, Midjourney.
 
-## Ferramentas recomendadas
+**Modelos multimodais:** permitem gerar texto, imagem, vídeo e música a partir da mesma interface. Exemplos: Gemini, ChatGPT com Sora, Grok. Custo-benefício elevado para quem precisa de múltiplas modalidades.
 
-- **Gemini + Freepik:** hub recomendado como ponto de entrada; custo-benefício elevado e integração com múltiplos modelos
-- **NanoBanana:** alternativa acessível com bom desempenho para fluxos rápidos
-- **Midjourney:** referência em qualidade estética, especialmente para conceitos artísticos
-- **FLUX:** forte em realismo e controle de estilo
-- **Ideogram:** destaque em geração de texto dentro de imagens
-- **Adobe Firefly:** integrado ao ecossistema Adobe; útil para quem já usa Photoshop e Lightroom
+**Chatbots assistenciais:** assistentes configuráveis que ajudam a criar prompts, briefings e variações de conteúdo. O Photoshoot da Overlens é um exemplo, com mais de 200 mil conversas no Brasil.
 
-## Como avaliar novos modelos
+**Hubs de ferramentas:** plataformas que agregam múltiplos modelos em uma única interface e assinatura. Exemplos: Freepik, Runway, Leonardo, Firefly. Permitem trocar de modelo sem sair da plataforma.
 
-Leaderboards como HuggingFace, LitterBoard e Arena AI comparam modelos em tempo real por categoria de tarefa.
+## Ferramentas recomendadas para começar
 
-Usar esses rankings evita adotar ferramentas por hype sem verificar desempenho real.
+Para quem está começando com foco em imagem e custo-benefício, o Gemini oferece texto, imagem, vídeo e música em uma única assinatura. Para quem prioriza o estúdio de imagens, o Freepik reúne os principais modelos, incluindo NanoBanana e Seedream, em uma única interface com créditos compartilhados.
+
+O Midjourney continua sendo usado pela Overlens pela conveniência de gerar, animar e fazer upscale de imagens no mesmo ambiente. O Seedream tem se destacado em testes internos pela qualidade das imagens geradas.
 
 ## Hub versus modelo
 
-Hub é a interface que agrega múltiplos modelos. Modelo é o sistema de geração em si. Freepik, por exemplo, é um hub que permite acesso a vários modelos sem precisar gerenciar APIs separadas.
+Hub é a plataforma que agrega modelos. Modelo é o sistema de geração em si. Usar um hub como Freepik significa pagar uma assinatura e ter acesso a vários modelos sem gerenciar APIs separadas. Usar a API diretamente oferece custo menor por token e mais controle, mas exige um nível técnico mais avançado.
+
+## Como acompanhar os melhores modelos
+
+Leaderboards como LitterBoard Image AI Gen e Arena AI apresentam rankings em tempo real com base em votos de usuários que comparam imagens sem saber qual modelo as gerou. São referências úteis para validar intuições sem depender só de hype de marketing.
 
 ## Coloque em prática
 
-Escolha uma das ferramentas listadas que você ainda não usou. Gere a mesma imagem nela e compare com uma ferramenta que já usa. Avalie qualidade, controle e velocidade de cada uma.
+Escolha uma ferramenta que você ainda não testou dentre as apresentadas. Gere a mesma imagem nela e compare com uma ferramenta que você já usa. Avalie qualidade, controle e velocidade de cada uma antes de decidir adotar.
 
 ---
 

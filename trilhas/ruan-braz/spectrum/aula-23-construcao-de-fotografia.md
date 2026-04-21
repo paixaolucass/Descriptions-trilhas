@@ -1,36 +1,38 @@
-[5 blocos] / [18 parágrafos totais] / [300 palavras estimadas] / [300 ÷ 200 = 1,5 minutos]
+Cálculo interno: 5 blocos / 16 parágrafos totais / 300 palavras estimadas / 300 ÷ 200 = 2 minutos
 
 # Construção de fotografia
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você aplica princípios clássicos de composição fotográfica para construir imagens com IA e executa o fluxo de retoque com Photoshop e Lightroom.
+## Objetivos de aprendizado
 
-## Regra dos terços
+Ao final desta aula, você será capaz de:
 
-A regra dos terços divide o enquadramento em uma grade de 3x3. Posicionar os elementos principais nas interseções dessa grade cria composições mais equilibradas e com maior tensão visual do que centralizar tudo.
+- Estruturar um briefing fotográfico com dados de personalidade, posicionamento e universo visual
+- Aplicar painel semântico com vocabulário de etos, pathos e logos para orientar a geração de imagens
+- Executar o fluxo de briefing enriquecido com IA para chegar a palavras-chave fotográficas precisas
 
-Quando aplicada em prompts de IA, descrever o posicionamento dos elementos usando essa lógica melhora o controle sobre a composição gerada.
+## O briefing como primeiro passo da fotografia
 
-## Regra dos ímpares
+A aula parte da comparação com o processo de um fotógrafo profissional: antes de qualquer sessão, ele conduz uma reunião para entender o objetivo, o público e o posicionamento de quem vai ser fotografado. Esse mesmo processo se aplica à fotografia gerada com IA.
 
-Grupos de elementos em número ímpar (3, 5, 7) criam composições mais dinâmicas e naturais do que grupos pares. Isso se aplica a objetos, pessoas e pontos de foco dentro do enquadramento.
+O briefing montado na aula inclui objetivo do projeto, posicionamento de marca pessoal, identidade visual (paleta, elementos recorrentes, cenário), e qual percepção se quer transmitir.
 
-A IA tende a gerar grupos pares por padrão. Especificar número ímpar no prompt corrige esse comportamento.
+## Enriquecendo o briefing com IA
 
-## Chiaroscuro na fotografia
+A aula mostra o fluxo de usar o Gemini para enriquecer o briefing já estruturado, solicitando análise semiótica como especialista em fotografia. O resultado é uma análise que conecta os elementos do briefing (estante de livros, camisa preta, iluminação controlada) aos conceitos de etos, pathos e logos de forma estruturada.
 
-O chiaroscuro, técnica originada na pintura clássica, aplica contraste extremo entre luz e sombra para criar profundidade e dramaticidade. Na fotografia com IA, referenciar o termo ativa padrões de iluminação direcional e sombras pronunciadas.
+## O painel semântico em formato de tabela
 
-## Retoque com Photoshop e Lightroom
+O painel semântico gerado pela IA organiza cada signo visual em uma tabela com coluna de signo, elemento visual de referência e mensagem transmitida. Cada elemento (pose corporal, iluminação, paleta, vestimenta) é conectado a um dos três eixos retóricos: autoridade, conexão emocional ou argumento lógico.
 
-O fluxo recomendado após a geração é: importar no Lightroom para ajuste de exposição, cor e contraste, e finalizar no Photoshop para remoção de artefatos, ajustes localizados e composição de elementos adicionais.
+## De palavras-chave a prompt fotográfico
 
-Ferramentas de IA dentro do Photoshop, como o Firefly, aceleraram etapas que antes exigiam horas de retoque manual.
+A etapa final do briefing é gerar uma lista de palavras-chave de estilo fotográfico, iluminação, ambiente e vestimenta a partir de todo o material construído. Essa lista serve diretamente como vocabulário para os prompts de geração das imagens finais, garantindo que cada palavra no prompt tenha origem em uma decisão estratégica, não em tentativa e erro.
 
 ## Coloque em prática
 
-Gere uma fotografia usando ao menos dois dos princípios apresentados (regra dos terços, dos ímpares ou chiaroscuro). Aplique um ciclo completo de retoque no Lightroom e Photoshop e compare com a imagem original gerada.
+Monte um briefing fotográfico para você mesmo ou para um cliente. Use um LLM para enriquecê-lo com análise semiótica. Extraia uma lista de palavras-chave fotográficas e use essa lista como base para seu primeiro prompt de geração.
 
 ---
 

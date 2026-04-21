@@ -1,26 +1,32 @@
-[5 blocos] / [20 parágrafos totais] / [340 palavras estimadas] / [340 ÷ 200 = 1,7 minutos]
+Cálculo interno: [5 blocos] / [20 parágrafos totais] / [360 palavras estimadas] / [360 ÷ 200 = 2 minutos]
 
 # Roteiro e Storyboard: prática
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você executa o fluxo completo de geração de storyboard com IA, passando da imagem de referência à geração paralela de múltiplos frames e à animação dos shots em sequência.
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Executar o fluxo completo de geração de storyboard com IA, da imagem de referência à sequência animada
+- Aplicar agentes em paralelização para gerar múltiplos frames de storyboard simultaneamente
+- Distinguir o fluxo manual (Freepik, ferramenta a ferramenta) do fluxo avançado (agentes com API)
 
 ## O fluxo na prática
 
-**Passo 1 - Storyboard de referência:** a partir de um storyboard visual (pode ser uma imagem encontrada ou gerada), você extrai os enquadramentos e ângulos de cada cena.
+**Passo 1 - Storyboard de referência:** a partir de um storyboard visual (encontrado ou gerado), você extrai os enquadramentos e ângulos de cada cena. Esse material define o "o que" antes de qualquer geração.
 
-**Passo 2 - Geração paralela com agentes:** usando agentes de IA instalados localmente, você gera todas as imagens do storyboard em paralelo. Cada agente executa uma cena, reduzindo o tempo total drasticamente.
+**Passo 2 - Geração paralela com agentes:** usando agentes de IA instalados localmente (Claude Code com API do Seedream), você gera todos os frames do storyboard em paralelo. Cada agente executa uma cena — 9 frames podem ser gerados ao mesmo tempo.
 
-**Passo 3 - Validação das imagens:** antes de animar, você verifica se o personagem e o ambiente mantiveram consistência entre os frames. Ajustes são feitos no prompt antes de gerar os vídeos.
+**Passo 3 - Validação das imagens:** antes de animar, você verifica se o personagem e o ambiente mantiveram consistência entre os frames. O agente pode fazer esse QA automaticamente, identificando variações de estilo, iluminação e identidade visual.
 
-**Passo 4 - Image-to-video:** cada imagem do storyboard vira o first frame de um shot animado. A IA anima a partir da referência, mantendo muito mais coerência do que text-to-video.
+**Passo 4 - Image-to-video:** cada imagem do storyboard vira o first frame de um shot animado. A IA anima a partir da referência, produzindo muito mais coerência do que text-to-video.
 
 **Passo 5 - Montagem:** os shots gerados são reunidos em sequência com CapCut, Premiere ou Remotion.
 
-## API Seedream para imagens
+## API Seedream para imagens em escala
 
-A API do Seedream (ByteDance) é uma opção eficiente para geração de imagens em escala, usada na demonstração desta aula para gerar os 9 frames do storyboard simultaneamente via agentes paralelos.
+A API do Seedream (ByteDance) é uma opção eficiente para geração de imagens em escala, com os primeiros 200 créditos disponíveis gratuitamente após cadastro. Permite gerar em 4K com o mesmo custo de resoluções menores, e pode ser acessada via agentes para paralelização.
 
 ## Alternativa manual com Freepik
 
@@ -28,7 +34,7 @@ Para quem ainda não trabalha com agentes e APIs, o Freepik Space permite fazer 
 
 ## O que muda com agentes
 
-O fluxo com agentes não elimina o processo criativo humano. Ele elimina a parte repetitiva da execução, liberando tempo para ajustes criativos e decisões narrativas.
+O fluxo com agentes não elimina o processo criativo humano. Ele elimina a parte repetitiva da execução, liberando tempo para ajustes criativos e decisões narrativas — o que realmente requer julgamento humano.
 
 ## Coloque em prática
 
