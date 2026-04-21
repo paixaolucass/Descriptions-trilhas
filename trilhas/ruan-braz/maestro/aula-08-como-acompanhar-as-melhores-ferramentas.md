@@ -1,39 +1,55 @@
-[5 blocos] / [18 parágrafos totais] / [300 palavras estimadas] / [300 ÷ 200 = 1,5 minutos]
+Cálculo interno: [5 blocos] / [19 parágrafos totais] / [430 palavras estimadas] / [430 ÷ 200 = 2 minutos]
 
 # Como acompanhar as melhores ferramentas
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você estrutura um sistema para se manter atualizado no mercado de ferramentas de música com IA e aplica 9 critérios objetivos para avaliar e selecionar as ferramentas certas para o seu fluxo.
+## Objetivos de aprendizado
 
-## Como pesquisar o estado da arte
+Ao final desta aula, você será capaz de:
 
-A metodologia indicada é usar o Gemini Deep Research com pedidos de 400+ fontes sobre o assunto. O resultado é um documento organizado com o panorama atual das ferramentas, pesquisas e tendências.
+- Aplicar o método Deep Research do Gemini para gerar um relatório Estado da Arte sobre ferramentas musicais
+- Identificar os canais e agregadores para acompanhar novidades do mercado
+- Reconhecer os critérios objetivos para avaliar e selecionar ferramentas de IA musical
 
-Esse documento é chamado de "Estado da Arte" e serve como referência para decisões de ferramenta.
+## Observe os passos, não as palavras
 
-## Onde acompanhar as novidades
+O instrutor abre a aula com um provérbio: não escute o conselho dos sábios, observe seus passos. O ponto não é quais ferramentas ele usa hoje. É o processo que ele usa para descobrir quais ferramentas merecem atenção.
 
-- **Comunidades no Discord e Reddit** das principais ferramentas (Suno, Udio): onde usuários compartilham testes e descobertas antes de chegarem ao mainstream
-- **Agregadores de IA** (Futurepedia, Darien's AI): catálogos atualizados de ferramentas por categoria
-- **Newsletters especializadas** em IA e música
-- **Criadores de conteúdo** que testam ferramentas de forma sistemática
+Ferramentas atualizam rápido. O que está na lista desta aula pode já ter mudado quando você estiver assistindo. O que não muda é o método para se manter atualizado.
 
-## Os 9 critérios de avaliação
+## O método: Gemini Deep Research
 
-1. Qualidade e fidelidade do áudio
-2. Realismo vocal e dicção
-3. Aderência ao prompt
-4. Suporte a estruturas musicais (verso, refrão, ponte)
-5. Separação de stems
-6. Clareza sobre licenciamento e direitos autorais
-7. Presença de marca d'água (SynthID ou equivalente)
-8. Custo-benefício por geração
-9. Experiência de uso da plataforma
+O processo documentado na aula: abrir o Gemini, acessar a função Deep Research, fazer um pedido aprofundado sobre ferramentas, técnicas e melhores práticas de produção musical com IA, incluindo comunidades, Reddit e opiniões de especialistas.
+
+No modo Pro, o Gemini pesquisa mais de 400 fontes e entrega um relatório analítico completo. O resultado é transformado em Google Docs e usado como referência de Estado da Arte. O instrutor disponibiliza o relatório gerado para esta trilha como material complementar.
+
+## Onde acompanhar novidades
+
+- **Agregadores de IA** como Futurepedia: catálogos organizados por categoria com filtro para música
+- **Comunidades no Discord e Reddit** das principais ferramentas: Suno, Udio, Singularity
+- **Newsletters especializadas** em IA e produção musical
+- **Criadores de conteúdo** com foco sistemático em ferramentas
+
+## Critérios para avaliar ferramentas
+
+O instrutor apresenta os critérios que ele usa para decidir se uma ferramenta merece atenção:
+
+- Qualidade e fidelidade do áudio
+- Realismo vocal e dicção
+- Aderência ao prompt: o quanto a IA segue exatamente o que foi pedido
+- Suporte a estruturas musicais (verso, refrão, ponte)
+- Separação de stems
+- Clareza sobre licenciamento e uso comercial
+- Presença de marca d'água de áudio (SynthID e equivalentes)
+- Custo-benefício por geração e opção gratuita para testes
+- Qualidade da experiência de uso
+
+A dica de ouro do instrutor: não assine contratos longos com nenhuma ferramenta. O mercado muda rápido, e quem mantém assinaturas mensais tem flexibilidade para trocar sem perda.
 
 ## Coloque em prática
 
-Escolha duas ferramentas de geração de música e avalie cada uma nos 9 critérios acima com nota de 1 a 5. Use o resultado para decidir qual merece seu investimento de tempo e dinheiro neste momento.
+Abra o Gemini, acesse o Deep Research e peça um relatório sobre as melhores ferramentas de produção musical com IA. Inclua no pedido: comunidades, Reddit, artigos e opiniões de especialistas. Salve o resultado como seu documento Estado da Arte pessoal e use como referência ao longo da trilha.
 
 ---
 

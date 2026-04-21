@@ -1,37 +1,44 @@
-[4 blocos] / [16 parágrafos totais] / [280 palavras estimadas] / [280 ÷ 200 = 1,4 minutos]
+Cálculo interno: [5 blocos] / [16 parágrafos totais] / [410 palavras estimadas] / [410 ÷ 200 = 3 minutos]
 
 # Testes e amostragens
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 3 minutos
 
-Nesta aula, você aplica a lógica de iteração criativa na geração de música com IA, reconhecendo que resultados publicáveis surgem de muitos testes descartados, não de tentativas únicas.
+## Objetivos de aprendizado
 
-## A realidade por trás do resultado
+Ao final desta aula, você será capaz de:
 
-A primeira música publicada pelo instrutor, "Futuro é Agora", passou por centenas de versões antes de chegar ao resultado final. A pasta de descartes contém mais material do que a pasta de publicações.
+- Reconhecer o volume de tentativas descartadas como parte natural do processo criativo com IA
+- Identificar como o upload de gravações próprias amplia o controle sobre o resultado gerado
+- Distinguir o que aparece publicado do que fica no descarte ao longo de um projeto musical
 
-Isso não é falha de processo. É o processo.
+## O trabalho real desde 2024
 
-## Como o fluxo de criação funciona
+O instrutor apresenta músicas criadas desde o início de 2024 como registro do processo real de trabalho com IA musical. O objetivo não é mostrar resultado final polido, mas evidenciar o que um ciclo real de produção se parece: muitas tentativas, a maior parte descartada.
 
-A colaboração com IA não é "digitar e publicar". O fluxo real é:
+Essa abertura serve como calibração de expectativa. O que você vê publicado não representa o que foi gerado primeiro. Representa o que sobreviveu à curadoria.
 
-1. Capturar a ideia inicial (melodia no celular, letra rascunhada, referência de referência)
-2. Gerar múltiplas versões com IA
-3. Selecionar o que funciona
-4. Refinar em novas rodadas até chegar na versão publicável
+## "Futuro é Agora" e o processo de descarte
 
-O instrutor usa memos de voz no celular para registrar ideias melódicas no momento em que surgem, construindo um banco pessoal de sementes criativas.
+A música "Futuro é Agora" é apresentada como exemplo concreto. O que chegou ao público foi o teste número 3. Os outros estão no lixo, junto com centenas de outras versões de outros projetos.
 
-## IA como colaboradora, não autora
+Não existe atalho para esse processo. A IA gera variações; o julgamento de qual variação serve é humano. Quanto mais refinado o repertório de quem julga, mais rápida é a curadoria e mais consistente o resultado.
 
-Na prática desta aula: as letras foram escritas manualmente. A IA ajudou com rimas específicas, escolha de palavras e ajustes de ritmo.
+## Variedade de estilos
 
-A intenção, a mensagem e a direção criativa vieram do humano. A IA acelerou a execução.
+O instrutor demonstra músicas em diferentes gêneros: MPB, pagode, bossa nova, entre outros. A variação de estilo não é coincidência. É resultado de pesquisa e intenção deliberada de explorar o que a ferramenta consegue entregar em cada território sonoro.
+
+Cada estilo exige um vocabulário de prompt diferente. Explorar estilos variados expande o repertório prático de quem está aprendendo.
+
+## Upload de instrumentos próprios
+
+Uma das funcionalidades demonstradas é o upload de gravações próprias. O instrutor mostra como gravar um violão em casa e enviar para a ferramenta, que constrói uma composição completa em cima do instrumento gravado.
+
+Essa funcionalidade muda a natureza da geração: em vez de partir do zero com texto, você oferece um ponto de partida sonoro real. O resultado tende a ter mais identidade pessoal do que uma geração puramente por prompt.
 
 ## Coloque em prática
 
-Gere três versões diferentes de um mesmo conceito musical. Descarte duas e refine a melhor. Repita o ciclo uma vez. Observe como a qualidade muda entre a primeira versão e a terceira rodada de refinamento.
+Crie uma pasta no seu projeto e separe o que você considera publicável do que vai para o descarte. Ao final de três sessões de geração, revise o lixo: quantas tentativas foram necessárias para chegar ao que você aprovaria? Esse número é seu ponto de partida para medir evolução.
 
 ---
 

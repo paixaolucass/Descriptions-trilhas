@@ -1,39 +1,42 @@
-[4 blocos] / [14 parágrafos totais] / [240 palavras estimadas] / [240 ÷ 200 = 1,2 minutos]
+Cálculo interno: [4 blocos] / [15 parágrafos totais] / [310 palavras estimadas] / [310 ÷ 200 = 2 minutos]
 
 # Conclusão Maestro
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você reconhece o que foi construído ao longo da trilha e aplica uma visão integradora sobre o papel da música no contexto de um profissional criativo completo.
+## Objetivos de aprendizado
 
-## O que a trilha entregou
+Ao final desta aula, você será capaz de:
 
-Ao final da Maestro, você passou por:
+- Reconhecer o que foi construído ao longo da trilha como fundamentos duráveis
+- Identificar por que o profissional criativo atual precisa dominar múltiplas linguagens de expressão
+- Aplicar uma visão integradora entre música, imagem, vídeo e texto na sua produção
 
-- Como a IA aprende e gera música
-- Os elementos fundamentais de uma composição
-- As limitações reais e os mitos do setor
-- As ferramentas de geração, edição e masterização
-- A estrutura de prompts eficazes
-- O processo de distribuição em plataformas
+## O que foi entregue na trilha
 
-Mais importante do que qualquer ferramenta: você aprendeu o processo. E processo não fica desatualizado.
+O instrutor é direto sobre a escolha pedagógica da Maestro: ele poderia ter passado a trilha inteira clicando no Suno. Optou por não fazer isso.
 
-## Por que ser multimídia importa
+O caminho percorrido foi mais longo e mais valioso: como a IA aprende e gera música, os fundamentos de composição, os mitos e limitações reais do setor, o ecossistema de ferramentas por categoria, a estrutura de prompts eficazes e o processo de distribuição. Cada etapa construiu fundamento, não apenas familiaridade com botões.
 
-O profissional criativo de referência hoje não é especialista em um único meio. Ele articula imagem, vídeo, texto e música com fluência.
+Fundamentos não ficam desatualizados quando uma ferramenta muda de interface.
 
-Cada camada que você domina amplia a sua capacidade de expressar e comunicar. Música não é só trilha sonora. É atmosfera, ritmo narrativo e impacto emocional.
+## O profissional multimídia
+
+A trilha de música é uma das mais negligenciadas pelos alunos. Muitos a pulam achando que não é a área deles.
+
+O argumento do instrutor é o contrário: os profissionais criativos de referência hoje não são especialistas em um único meio. Eles articulam imagem, vídeo, texto e música com fluência. Cada linguagem que você domina expande sua capacidade de expressar e comunicar.
+
+Música não é apenas trilha sonora. É atmosfera, ritmo narrativo e impacto emocional. No final, o papel de qualquer profissional criativo é transmitir uma mensagem. A música é uma das formas mais diretas de fazer isso.
 
 ## A mensagem final
 
 A IA é o instrumento. Você é o maestro.
 
-O que determina a qualidade do resultado não é a ferramenta mais cara ou o prompt mais longo. É a clareza da intenção, o repertório acumulado e a disposição para iterar até chegar no resultado certo.
+O que determina a qualidade do resultado não é a ferramenta mais cara ou o prompt mais longo. É a clareza da intenção, o repertório acumulado e a disposição para iterar até chegar no resultado que você estava buscando.
 
 ## Coloque em prática
 
-Crie e publique uma música. Não precisa ser perfeita. O objetivo é percorrer o ciclo completo: ideia, geração, refinamento, masterização e publicação.
+Crie e publique uma música. Não precisa ser perfeita. O objetivo é percorrer o ciclo completo: ideia, geração, refinamento, masterização e publicação. A perfeição vem com a prática do ciclo inteiro, não com o adiamento do primeiro lançamento.
 
 ---
 

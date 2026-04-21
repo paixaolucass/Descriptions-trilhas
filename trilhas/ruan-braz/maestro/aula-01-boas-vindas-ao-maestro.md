@@ -1,32 +1,50 @@
-[4 blocos] / [15 parágrafos totais] / [270 palavras estimadas] / [270 ÷ 200 = 1,4 minutos]
+Cálculo interno: [6 blocos] / [18 parágrafos totais] / [480 palavras estimadas] / [480 ÷ 200 = 3 minutos]
 
 # Boas-vindas ao Maestro
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 3 minutos
 
-Nesta aula, você identifica a proposta da trilha Maestro, a metodologia de aprendizado adotada e por que dominar os fundamentos da música com IA vale mais do que saber usar uma ferramenta específica.
+## Objetivos de aprendizado
 
-## A abordagem da trilha
+Ao final desta aula, você será capaz de:
 
-O instrutor não é músico profissional. É um autodidarta com forte capacidade de pesquisa e metacognição, que aprendeu música para criar suas próprias composições.
+- Identificar a proposta pedagógica da trilha e por que ela começa pelos fundamentos antes das ferramentas
+- Distinguir aprender a ferramenta de aprender o processo
+- Reconhecer a metodologia bottom-up e o que ela significa na prática
 
-Essa perspectiva define o tom da trilha: você não precisa de formação musical para gerar música com IA. Mas precisa dominar o processo.
+## O instrutor e o ponto de partida
 
-## Metodologia bottom-up
+Ruan Braz não é músico de profissão. É um autodidata com forte capacidade de metacognição e habilidades de aprendizado independente que aprendeu produção musical para tirar ideias da cabeça e colocá-las no mundo.
 
-A trilha segue uma progressão deliberada: começa pelos fundamentos antes de avançar para ferramentas e técnicas. Essa ordem não é arbitrária.
+Essa posição define o tom da trilha: você não precisa de formação musical para gerar música com IA. Mas precisa de processo, repertório e intenção criativa.
 
-Quem aprende ferramenta primeiro fica dependente da ferramenta. Quem aprende o fundamento consegue usar qualquer ferramenta e adaptar quando o mercado muda.
+## Meta-aprendizagem como metodologia
 
-## O que diferencia no mercado
+A trilha usa uma abordagem chamada meta-aprendizagem: enquanto o instrutor ensina o conteúdo, mostra também como aprendeu aquele conteúdo. O objetivo é que o aluno saia com a habilidade de aprender sozinho, não apenas com o resultado de um aprendizado específico.
 
-A maioria das pessoas que usa IA para música segue tutoriais: copia configurações, repete prompts de outros. O resultado é genérico.
+Essa escolha foi deliberada. Ferramentas mudam. Quem aprendeu apenas a ferramenta fica dependente dela. Quem aprendeu o processo consegue se adaptar a qualquer nova versão, plataforma ou tecnologia.
 
-O diferencial real está em ter repertório, processo e intenção criativa. A IA é o instrumento. Quem dirige é você.
+## A abordagem bottom-up
+
+A progressão da trilha segue uma lógica clara: fundamentos primeiro, ferramentas depois. Essa ordem não é arbitrária.
+
+Quem aprende ferramenta antes de aprender fundamentos começa rápido mas trava quando algo muda. Quem aprende fundamentos primeiro começa mais devagar mas acelera com consistência e consegue fazer coisas que outras pessoas não conseguem explicar.
+
+## O diferencial no mercado
+
+A maioria das pessoas que usa IA para música aprende tutoriais: copia configurações, repete prompts de outros. O resultado é genérico e intercambiável.
+
+O diferencial real está em três elementos que a trilha vai construir: repertório musical acumulado, processo de trabalho estruturado, e intenção criativa clara. A IA é o instrumento. Quem dirige é você.
+
+## Demonstração inicial com o Suno
+
+Para contextualizar o que é possível antes de entrar nos fundamentos, o instrutor demonstra algumas criações feitas com o Suno. O objetivo é reduzir a ansiedade de quem quer ver resultado prático antes de mergulhar na teoria.
+
+A demonstração não é o foco da aula. É um ponto de ancoragem para o aluno saber para onde o curso está indo.
 
 ## Coloque em prática
 
-Antes de avançar, defina em uma frase o que você quer fazer com geração de música com IA. Esse objetivo vai orientar todas as suas escolhas ao longo da trilha.
+Defina em uma frase o que você quer fazer com geração de música com IA. Não precisa ser uma meta sofisticada: pode ser criar trilha sonora para vídeos, explorar composição pessoal ou entender o processo para trabalhar com clientes. Esse objetivo vai orientar suas escolhas ao longo de toda a trilha.
 
 ---
 

@@ -1,58 +1,53 @@
-[6 blocos] / [25 parágrafos totais] / [420 palavras estimadas] / [420 ÷ 200 = 2,1 minutos]
+Cálculo interno: [6 blocos] / [24 parágrafos totais] / [480 palavras estimadas] / [480 ÷ 200 = 2 minutos]
 
 # Prompts básicos e boas práticas para música
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você estrutura prompts eficazes para geração de música com IA usando o template de 4 blocos do Método Maestro e aplica conceitos avançados de controle como gravity wells, exclusion tags e vocabulário de articulação.
+## Objetivos de aprendizado
+
+Ao final desta aula, você será capaz de:
+
+- Distinguir a diferença entre prompt de texto corrido e prompt por tags para geração musical
+- Aplicar o template de 4 blocos do Método Maestro para estruturar prompts eficazes
+- Reconhecer o papel do repertório musical como base para escrever bons prompts
+- Identificar como a estrutura narrativa e o leitmotiv se aplicam à composição com IA
+
+## O foco desta trilha é o Suno
+
+A aula começa com clareza de escopo: este não é um curso avançado de produção musical. Não há abertura de DAW, não há ferramentas complexas. O foco é o Suno, que serve bem para iniciantes e intermediários, e permite baixar MIDI para quem quiser evoluir para ambientes mais avançados.
 
 ## Por que prompts de música são diferentes
 
-Diferente de prompts de texto ou imagem, a IA musical responde melhor a tags estruturadas do que a texto corrido.
+Em IA musical, texto corrido causa problemas. Escrever "uma música rock misturada com eletrônico" pode fazer a IA colocar essa frase na letra da música. O modelo responde melhor a tags estruturadas: "synthwave, heterotech house".
 
-Escrever "uma música rock misturada com eletrônico" coloca essa descrição na letra. Escrever "synthwave, heterotech house" ativa os padrões corretos no modelo.
+A precisão das tags define a qualidade da geração. Quem tem repertório musical escreve prompts melhores porque sabe nomear o que quer.
 
-## O template de 4 blocos (ordem importa)
+## O template de 4 blocos: Método Maestro
 
-**Bloco 1 - Gênero/Formato:** define o centro de gravidade da música. Ex.: "deep house, baroque, ambient"
+O instrutor apresenta a estrutura de prompt mais usada por profissionais. A ordem dos blocos importa:
 
-**Bloco 2 - Voz:** especifica timbre, gênero e estilo de entrega. Ex.: "female vocal, whispered, airy"
+**Bloco 1 — Gênero e formato:** define o centro de gravidade da música. Exemplos: "deep house", "baroque piece", "ambient".
 
-**Bloco 3 - Clima/Mood:** direção emocional usando adjetivos e referências musicais. Ex.: "bold happy, dissonant, euphoric"
+**Bloco 2 — Voz:** orienta o motor de síntese sobre timbre, gênero do cantor e estilo de entrega. Exemplos: "female vocal", "whispered", "airy".
 
-**Bloco 4 - Instrumentação:** timbres e instrumentos específicos. Ex.: "synth drums, rolling bass line, piano chords"
+**Bloco 3 — Clima e emoção:** direção emocional usando adjetivos. Exemplos: "triumphant", "melancholic", "euphoric".
 
-## Gravity wells
+**Bloco 4 — Instrumentação:** timbres e instrumentos específicos. Exemplos: "synth drums", "rolling bass line", "piano chords".
 
-Certas tags têm alto poder de atração semântica. "Emo" puxa automaticamente para piano, pop e estrutura emocional. "Lo-fi" puxa para bateria lenta e ambiente de estudo.
+## A música conta uma história com ou sem letra
 
-Escolha as tags com atenção ao campo semântico que elas ativam.
+O instrutor usa a trilha sonora do Senhor dos Anéis como referência: quando está no Shire, a música transmite inocência. Quando entra a Sociedade do Anel, ela transmite esperança. Instrumentos contam histórias sem uma palavra.
 
-## Exclusion tags
+Essa lógica se aplica à composição com IA: você estrutura o arco narrativo da música da mesma forma que estrutura o arco de uma história. O leitmotiv, o motivo condutor que volta ao longo da composição, é o que cria identidade e memória emocional no ouvinte.
 
-Use o campo de exclusão para impedir elementos indesejados sem precisar descrevê-los no prompt principal. Ex.: excluir "música ao vivo, palmas, ruído de plateia".
+## Repertório é o primeiro passo
 
-## Vocabulário de articulação
-
-Dominar esses termos aumenta a precisão do prompt:
-
-- **Legato / Staccato:** notas conectadas vs. destacadas
-- **Pizzicato:** cordas tocadas com dedo, não com arco
-- **Tremolo:** vibração rápida de nota
-- **Glissando / Scoop:** deslize entre notas
-- **Crescendo / Decrescendo:** aumento ou diminuição gradual de volume
-
-## Controles de dinâmica
-
-Pianissimo (muito suave) até fortissimo (muito alto). Usar esses termos no prompt direciona a intensidade da geração ao longo da faixa.
-
-## Estrutura narrativa
-
-Para músicas com letra, use marcadores de seção: `[intro]`, `[verse 1]`, `[pre-chorus]`, `[chorus]`, `[bridge]`, `[outro]`. Isso dá à IA uma estrutura narrativa clara para distribuir o conteúdo.
+Bom prompt é de quem tem repertório. O instrutor recomenda estudar compositores de trilhas sonoras: Ludwig Göransson, Hans Zimmer e John Williams. Cada um é referência em contar histórias com música.
 
 ## Coloque em prática
 
-Escreva um prompt usando os 4 blocos para um gênero que você quer explorar. Gere a música, identifique qual bloco contribuiu mais para o resultado e refine os outros nas próximas versões.
+Escreva um prompt usando os 4 blocos para um gênero que você quer explorar. Gere a música, identifique qual bloco teve mais impacto no resultado e refine os outros nas próximas versões. Itere com intenção.
 
 ---
 

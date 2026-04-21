@@ -1,51 +1,52 @@
-[5 blocos] / [20 parágrafos totais] / [340 palavras estimadas] / [340 ÷ 200 = 1,7 minutos]
+Cálculo interno: [6 blocos] / [22 parágrafos totais] / [490 palavras estimadas] / [490 ÷ 200 = 2 minutos]
 
 # Tipos de ferramentas musicais
 
-## O que você vai aprender
+**Tempo estimado de leitura:** 2 minutos
 
-Nesta aula, você distingue as 5 categorias de ferramentas do ecossistema de produção musical com IA e identifica as recomendações práticas para cada etapa do fluxo, do iniciante ao profissional.
+## Objetivos de aprendizado
 
-## Categoria 1: Geração
+Ao final desta aula, você será capaz de:
 
-Ferramentas que criam música a partir de texto ou parâmetros.
+- Identificar as 5 categorias do ecossistema de ferramentas de produção musical com IA
+- Distinguir o papel de cada ferramenta por etapa do fluxo de produção
+- Reconhecer as recomendações do instrutor para cada perfil de uso
 
-- **Suno AI:** referência para a maioria dos fluxos; integra com DAWs, exporta MIDI e tem separação de stems no plano Studio
-- **Udio:** melhor realismo vocal e maior flexibilidade estrutural
-- **Google Gemini Producer:** emergente, menos especializado, mas evoluindo rapidamente
+## Categoria 1: Geração musical
+
+Ferramentas que criam música completa a partir de texto ou parâmetros.
+
+O instrutor apresenta o Suno como sua escolha principal: integra com DAWs, exporta MIDI, permite separação de stems no plano Studio e suporta upload de instrumentos gravados. No plano pago, o estúdio do Suno oferece um nível de controle que justifica o investimento.
+
+O Udio é o concorrente direto do Suno, com melhor realismo vocal e arranjo mais flexível. Ambos têm versão gratuita para testes. O Google também entrou nesse espaço com o Producer AI, disponível no Google Labs, que usa o modelo Lyria para gerar música com estrutura de verso, refrão e ponte.
 
 ## Categoria 2: Separação de stems e edição profunda
 
-- **Suno Studio:** nova funcionalidade de separação de stems integrada à geração
-- **Moises App:** startup brasileira com 65M+ usuários; referência em separação de faixas e AI Studio para arranjos colaborativos
-- **Kits.ai:** clonagem e transformação de voz
-- **ElevenLabs:** voz para dublagem e narração
+Ferramentas especializadas em isolar instrumentos de uma faixa existente.
 
-## Categoria 3: Síntese e instrumentos virtuais
+O Suno Studio agora inclui separação de stems nativamente. Ao extrair todos os stems de uma música, o produtor obtém vocal, back vocal, bateria, baixo, guitarra, teclado, sintetizadores e outros instrumentos em faixas separadas.
 
-Ferramentas avançadas como Synthesizer V, Melodyne e Auto-Tune Pro para quem trabalha com DAW completa e quer controle total sobre síntese e afinação.
+O Moises App é uma startup brasileira que foi uma das primeiras a fazer separação de stems com IA. Além da separação, oferece um AI Studio para arranjos colaborativos.
 
-## Categoria 4: Mixagem e EQ
+## Categoria 3: Síntese vocal e conversão
 
-Plugins profissionais (iZotope, Waves, Sonible) para quem quer produção de estúdio. Requerem DAW e conhecimento técnico.
+Ferramentas para trabalhar especificamente com voz: Kits.ai para clonagem e transformação, e ElevenLabs para dublagem, narração e criação de personas sintéticas. O instrutor recomenda o ElevenLabs como o mais robusto dessa categoria.
 
-## Categoria 5: Masterização com IA
+## Categoria 4: Mixagem e masterização
 
-- **Landr:** recomendação principal. Acessível, eficaz e usado por grandes gravadoras. Faz a masterização automaticamente com IA.
+Para quem trabalha com DAW completa: plugins profissionais como iZotope Neutron, Waves e Sonible para mixagem. Para masterização, o Landr é a recomendação principal: acessível, eficaz e usado por grandes gravadoras. Você sobe a faixa e ele entrega a versão masterizada automaticamente.
 
-## Recomendações por perfil
+## Categoria 5: DAWs
 
-| Necessidade | Ferramenta |
-|-------------|------------|
-| Geração | Suno AI |
-| Separação de stems | Moises ou Suno Studio |
-| Voz | ElevenLabs ou Kits.ai |
-| Masterização | Landr |
-| DAW | Ableton Live (pago) ou Audacity (gratuito) |
+O Ableton Live é a DAW favorita do instrutor. Tem 12 dias de teste gratuito. Para quem está começando sem investimento, o Audacity é uma alternativa gratuita com capacidade real de produção.
+
+## A escolha do instrutor
+
+Por categoria: Suno AI para geração, Moises ou Suno Studio para stems, ElevenLabs para voz, Landr para masterização e Ableton para DAW. Para iniciantes, o Suno resolve geração, edição e separação de stems em um único lugar.
 
 ## Coloque em prática
 
-Mapeie em qual categoria você tem maior lacuna hoje. Escolha a ferramenta recomendada para essa categoria e faça um teste real com um projeto seu.
+Identifique em qual categoria você tem maior lacuna hoje. Escolha a ferramenta recomendada para essa etapa e faça um teste com um projeto real. Avance de uma categoria de cada vez.
 
 ---
 
