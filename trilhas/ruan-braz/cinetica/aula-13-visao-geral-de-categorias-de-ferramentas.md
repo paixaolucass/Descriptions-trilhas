@@ -4,7 +4,7 @@
 
 ## O que você vai aprender
 
-Nesta aula, você mapeia as 9 categorias de ferramentas que compõem o ecossistema de produção de vídeo com IA e reconhece por que profissionais avançados trabalham com múltiplos modelos em paralelo.
+Nesta aula, você identifica as 9 categorias de ferramentas que compõem o ecossistema de produção de vídeo com IA e reconhece por que profissionais avançados trabalham com múltiplos modelos em paralelo.
 
 ## As 9 categorias do ecossistema
 

@@ -4,7 +4,7 @@
 
 ## O que você vai aprender
 
-Nesta aula, você recebe a apresentação completa da trilha Cínetica e a metodologia que guia todo o aprendizado. A trilha está dividida em cinco módulos: Fundamentos, Ferramentas, Prompt, Técnica e Oficina, cada um construindo sobre o anterior de forma sistêmica.
+Nesta aula, você identifica a estrutura completa da trilha Cínetica e a metodologia que guia todo o aprendizado. A trilha está dividida em cinco módulos: Fundamentos, Ferramentas, Prompt, Técnica e Oficina, cada um construindo sobre o anterior de forma sistêmica.
 
 ## Estrutura da trilha
 
