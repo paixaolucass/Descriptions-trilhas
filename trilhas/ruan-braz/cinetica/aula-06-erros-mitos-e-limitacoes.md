@@ -17,7 +17,7 @@ A IA não executa uma lista de instruções em ordem. Ela interpreta o prompt co
 **Mito 1: "Quanto mais detalhes no prompt, melhor o resultado."**
 Detalhes em excesso podem se contradizer. Especificidade cirúrgica funciona melhor do que volume de informação.
 
-**Mito 2: "A IA vai entender exatamente o que eu quero."**
+**Mito 2: "A IA vai interpretar exatamente o que eu quero."**
 A IA gera o que é estatisticamente mais provável dado o prompt. Se você não domina a linguagem da ferramenta, ela vai "adivinhar" diferente do que você imaginou.
 
 **Mito 3: "Basta tentar várias vezes até sair certo."**
