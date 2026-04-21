@@ -76,3 +76,5 @@ Escolha uma área em que você já tem repertório consolidado.
 Crie um prompt para uma IA usando uma metáfora ou analogia desse campo de conhecimento.
 
 Compare o resultado com prompts simples que você já usou e observe a diferença na profundidade das respostas obtidas.
+
+*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

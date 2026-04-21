@@ -138,3 +138,5 @@ Responda o "por que": anote o motivo real pelo qual você quer aprender essa hab
 Responda o "o que": liste o que precisa aprender dentro dessa habilidade e mapeie por onde começar, separando conceitos, fatos e procedimentos.
 
 Amanhã de manhã, antes de rever qualquer material desta aula, esforce-se para lembrar o que aprendeu sem consultar nada.
+
+*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

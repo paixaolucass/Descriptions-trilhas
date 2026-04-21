@@ -62,3 +62,5 @@ Acesse uma das ferramentas apresentadas nesta aula que ainda não conhece.
 Explore a interface por conta própria antes de buscar tutoriais.
 
 Pergunte à própria IA quais são os fundamentos e as melhores práticas para usar aquela ferramenta.
+
+*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

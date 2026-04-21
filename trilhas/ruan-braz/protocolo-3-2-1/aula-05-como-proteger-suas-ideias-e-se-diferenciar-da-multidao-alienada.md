@@ -66,3 +66,5 @@ Envie ao ChatGPT o prompt demonstrado nesta aula, adaptado para a área que voc�
 Após receber os fatos, peça que a IA o ajude a compreender os conceitos, não apenas listá-los.
 
 Acesse o mapa guiado das IAs e os playbooks disponíveis abaixo do vídeo e aplique o método ali.
+
+*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

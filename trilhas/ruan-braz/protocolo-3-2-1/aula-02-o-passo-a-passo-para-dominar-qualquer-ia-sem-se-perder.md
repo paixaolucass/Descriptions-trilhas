@@ -74,3 +74,5 @@ Antes de buscar qualquer tutorial, pergunte a uma IA quais são os fundamentos d
 Com a resposta em mãos, separe o que são fatos, o que são conceitos e o que são procedimentos.
 
 Comece pelo estudo dos conceitos antes de ir para os procedimentos.
+
+*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*
