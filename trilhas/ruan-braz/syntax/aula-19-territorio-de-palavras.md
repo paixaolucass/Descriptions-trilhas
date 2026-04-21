@@ -1,4 +1,4 @@
-[6 blocos] / [30 parágrafos totais] / [1400 palavras estimadas] / [1400 ÷ 200 = 7 minutos]
+Cálculo interno: [6 blocos] / [30 parágrafos totais] / [1400 palavras estimadas] / [1400 ÷ 200 = 7 minutos]
 
 # Território de palavras
 

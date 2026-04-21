@@ -1,4 +1,4 @@
-[5 blocos] / [20 parágrafos totais] / [860 palavras estimadas] / [860 ÷ 200 = 5 minutos]
+Cálculo interno: [5 blocos] / [20 parágrafos totais] / [860 palavras estimadas] / [860 ÷ 200 = 5 minutos]
 
 # Texto, imagem, vídeo, música e código: criando projetos inteiros com as IAs
 

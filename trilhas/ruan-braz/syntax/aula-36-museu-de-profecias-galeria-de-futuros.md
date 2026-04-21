@@ -1,4 +1,4 @@
-[3 blocos] / [12 parágrafos totais] / [550 palavras estimadas] / [550 ÷ 200 = 3 minutos]
+Cálculo interno: [3 blocos] / [12 parágrafos totais] / [550 palavras estimadas] / [550 ÷ 200 = 3 minutos]
 
 # Museu de Profecias: Galeria de Futuros
 

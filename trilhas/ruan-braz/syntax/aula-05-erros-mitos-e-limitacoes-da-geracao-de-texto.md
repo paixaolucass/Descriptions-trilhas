@@ -1,4 +1,4 @@
-[7 blocos] / [35 parágrafos totais] / [1600 palavras estimadas] / [1600 ÷ 200 = 8 minutos]
+Cálculo interno: [7 blocos] / [35 parágrafos totais] / [1600 palavras estimadas] / [1600 ÷ 200 = 8 minutos]
 
 # Erros, mitos e limitações da geração de texto
 

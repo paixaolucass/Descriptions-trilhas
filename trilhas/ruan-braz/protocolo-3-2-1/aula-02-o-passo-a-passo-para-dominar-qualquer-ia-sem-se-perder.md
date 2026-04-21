@@ -1,4 +1,4 @@
-[5 blocos] / [17 parágrafos totais] / [920 palavras estimadas] / [920 ÷ 200 = 5 minutos]
+Cálculo interno: [5 blocos] / [17 parágrafos totais] / [920 palavras estimadas] / [920 ÷ 200 = 5 minutos]
 
 # O passo a passo para dominar QUALQUER IA sem se perder
 

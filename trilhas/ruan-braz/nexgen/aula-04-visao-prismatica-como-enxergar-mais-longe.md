@@ -1,4 +1,4 @@
-[10 blocos] / [48 parágrafos totais] / [2400 palavras estimadas] / [2400 ÷ 200 = 12 minutos]
+Cálculo interno: [10 blocos] / [48 parágrafos totais] / [2400 palavras estimadas] / [2400 ÷ 200 = 12 minutos]
 
 # Visão prismática: como enxergar mais longe
 

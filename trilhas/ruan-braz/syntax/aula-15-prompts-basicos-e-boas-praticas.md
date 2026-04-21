@@ -1,4 +1,4 @@
-[6 blocos] / [28 parágrafos totais] / [1300 palavras estimadas] / [1300 ÷ 200 = 7 minutos]
+Cálculo interno: [6 blocos] / [28 parágrafos totais] / [1300 palavras estimadas] / [1300 ÷ 200 = 7 minutos]
 
 # Prompts básicos e boas práticas
 

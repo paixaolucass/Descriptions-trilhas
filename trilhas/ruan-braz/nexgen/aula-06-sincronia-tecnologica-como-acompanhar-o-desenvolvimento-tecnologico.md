@@ -1,4 +1,4 @@
-[10 blocos] / [52 parágrafos totais] / [2600 palavras estimadas] / [2600 ÷ 200 = 13 minutos]
+Cálculo interno: [10 blocos] / [52 parágrafos totais] / [2600 palavras estimadas] / [2600 ÷ 200 = 13 minutos]
 
 # Sincronia tecnológica: como acompanhar o desenvolvimento tecnológico
 

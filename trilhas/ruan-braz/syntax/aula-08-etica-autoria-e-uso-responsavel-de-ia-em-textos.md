@@ -1,4 +1,4 @@
-[4 blocos] / [22 parágrafos totais] / [950 palavras estimadas] / [950 ÷ 200 = 5 minutos]
+Cálculo interno: [4 blocos] / [22 parágrafos totais] / [950 palavras estimadas] / [950 ÷ 200 = 5 minutos]
 
 # Ética, autoria e uso responsável de IA em textos
 

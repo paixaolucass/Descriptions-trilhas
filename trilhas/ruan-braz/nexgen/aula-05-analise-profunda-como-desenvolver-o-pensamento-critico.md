@@ -1,4 +1,4 @@
-[8 blocos] / [46 parágrafos totais] / [2500 palavras estimadas] / [2500 ÷ 200 = 13 minutos]
+Cálculo interno: [8 blocos] / [46 parágrafos totais] / [2500 palavras estimadas] / [2500 ÷ 200 = 13 minutos]
 
 # Análise profunda: como desenvolver o pensamento crítico
 

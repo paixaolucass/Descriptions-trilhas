@@ -1,4 +1,4 @@
-[7 blocos] / [35 parágrafos totais] / [1500 palavras estimadas] / [1500 ÷ 200 = 7 minutos]
+Cálculo interno: [7 blocos] / [35 parágrafos totais] / [1500 palavras estimadas] / [1500 ÷ 200 = 7 minutos]
 
 # Estruturas avançadas de prompt para texto
 

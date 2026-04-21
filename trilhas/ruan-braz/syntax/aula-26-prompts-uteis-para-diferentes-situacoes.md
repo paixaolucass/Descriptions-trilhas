@@ -1,4 +1,4 @@
-[5 blocos] / [21 parágrafos totais] / [950 palavras estimadas] / [950 ÷ 200 = 5 minutos]
+Cálculo interno: [5 blocos] / [21 parágrafos totais] / [950 palavras estimadas] / [950 ÷ 200 = 5 minutos]
 
 # Prompts úteis para diferentes situações
 

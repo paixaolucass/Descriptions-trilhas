@@ -1,4 +1,4 @@
-[2 blocos] / [10 parágrafos totais] / [350 palavras estimadas] / [350 ÷ 200 = 2 minutos]
+Cálculo interno: [2 blocos] / [10 parágrafos totais] / [350 palavras estimadas] / [350 ÷ 200 = 2 minutos]
 
 # Criando seu primeiro texto em 5 minutos
 

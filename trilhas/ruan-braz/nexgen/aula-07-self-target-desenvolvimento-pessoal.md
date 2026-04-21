@@ -1,4 +1,4 @@
-[8 blocos] / [42 parágrafos totais] / [2100 palavras estimadas] / [2100 ÷ 200 = 11 minutos]
+Cálculo interno: [8 blocos] / [42 parágrafos totais] / [2100 palavras estimadas] / [2100 ÷ 200 = 11 minutos]
 
 # Self-target: desenvolvimento pessoal
 

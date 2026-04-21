@@ -1,4 +1,4 @@
-[5 blocos] / [22 parágrafos totais] / [950 palavras estimadas] / [950 ÷ 200 = 5 minutos]
+Cálculo interno: [5 blocos] / [22 parágrafos totais] / [950 palavras estimadas] / [950 ÷ 200 = 5 minutos]
 
 # Estilo, ritmo e tom de voz
 

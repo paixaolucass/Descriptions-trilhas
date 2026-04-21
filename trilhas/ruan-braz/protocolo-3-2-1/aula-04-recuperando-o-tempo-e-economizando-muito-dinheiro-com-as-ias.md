@@ -1,4 +1,4 @@
-[6 blocos] / [18 parágrafos totais] / [890 palavras estimadas] / [890 ÷ 200 = 5 minutos]
+Cálculo interno: [6 blocos] / [18 parágrafos totais] / [890 palavras estimadas] / [890 ÷ 200 = 5 minutos]
 
 # Recuperando o tempo e economizando muito dinheiro com as IAs
 

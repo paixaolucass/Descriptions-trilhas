@@ -1,4 +1,4 @@
-[5 blocos] / [25 parágrafos totais] / [1100 palavras estimadas] / [1100 ÷ 200 = 6 minutos]
+Cálculo interno: [5 blocos] / [25 parágrafos totais] / [1100 palavras estimadas] / [1100 ÷ 200 = 6 minutos]
 
 # Ferramentas para roteiros e storytelling
 

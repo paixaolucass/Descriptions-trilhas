@@ -1,4 +1,4 @@
-[3 blocos] / [13 parágrafos totais] / [550 palavras estimadas] / [550 ÷ 200 = 3 minutos]
+Cálculo interno: [3 blocos] / [13 parágrafos totais] / [550 palavras estimadas] / [550 ÷ 200 = 3 minutos]
 
 # Para quem é esta trilha
 

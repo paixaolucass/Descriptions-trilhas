@@ -1,4 +1,4 @@
-[5 blocos] / [16 parágrafos totais] / [885 palavras estimadas] / [885 ÷ 200 = 5 minutos]
+Cálculo interno: [5 blocos] / [16 parágrafos totais] / [885 palavras estimadas] / [885 ÷ 200 = 5 minutos]
 
 # Como não ser engolido pela tecnologia e se tornar indispensável para o mundo
 

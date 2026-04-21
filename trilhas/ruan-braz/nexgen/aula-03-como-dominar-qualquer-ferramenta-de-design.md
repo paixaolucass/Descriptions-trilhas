@@ -1,4 +1,4 @@
-[10 blocos] / [54 parágrafos totais] / [3200 palavras estimadas] / [3200 ÷ 200 = 16 minutos]
+Cálculo interno: [10 blocos] / [54 parágrafos totais] / [3200 palavras estimadas] / [3200 ÷ 200 = 16 minutos]
 
 # Como dominar qualquer ferramenta de design
 

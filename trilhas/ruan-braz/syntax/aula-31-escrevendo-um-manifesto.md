@@ -1,4 +1,4 @@
-[5 blocos] / [23 parágrafos totais] / [1050 palavras estimadas] / [1050 ÷ 200 = 5 minutos]
+Cálculo interno: [5 blocos] / [23 parágrafos totais] / [1050 palavras estimadas] / [1050 ÷ 200 = 5 minutos]
 
 # Escrevendo um manifesto
 

@@ -1,4 +1,4 @@
-[9 blocos] / [52 parágrafos totais] / [3300 palavras estimadas] / [3300 ÷ 200 = 17 minutos]
+Cálculo interno: [9 blocos] / [52 parágrafos totais] / [3300 palavras estimadas] / [3300 ÷ 200 = 17 minutos]
 
 # As 7 habilidades de conexão do nexialista
 

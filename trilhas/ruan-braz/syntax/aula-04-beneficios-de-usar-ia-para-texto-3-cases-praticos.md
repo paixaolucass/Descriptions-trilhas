@@ -1,4 +1,4 @@
-[4 blocos] / [20 parágrafos totais] / [900 palavras estimadas] / [900 ÷ 200 = 5 minutos]
+Cálculo interno: [4 blocos] / [20 parágrafos totais] / [900 palavras estimadas] / [900 ÷ 200 = 5 minutos]
 
 # Benefícios de usar IA para texto: 3 cases práticos
 

@@ -1,4 +1,4 @@
-[4 blocos] / [20 parágrafos totais] / [900 palavras estimadas] / [900 ÷ 200 = 5 minutos]
+Cálculo interno: [4 blocos] / [20 parágrafos totais] / [900 palavras estimadas] / [900 ÷ 200 = 5 minutos]
 
 # Como acompanhar as melhores ferramentas de texto
 

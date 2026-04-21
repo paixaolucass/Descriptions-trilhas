@@ -1,4 +1,4 @@
-[2 blocos] / [10 parágrafos totais] / [500 palavras estimadas] / [500 ÷ 200 = 3 minutos]
+Cálculo interno: [2 blocos] / [10 parágrafos totais] / [500 palavras estimadas] / [500 ÷ 200 = 3 minutos]
 
 # Para onde o mundo está indo e como chegar lá primeiro
 

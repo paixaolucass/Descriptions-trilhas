@@ -1,4 +1,4 @@
-[4 blocos] / [18 parágrafos totais] / [850 palavras estimadas] / [850 ÷ 200 = 5 minutos]
+Cálculo interno: [4 blocos] / [18 parágrafos totais] / [850 palavras estimadas] / [850 ÷ 200 = 5 minutos]
 
 # O que é e como funciona a geração de textos com IA
 

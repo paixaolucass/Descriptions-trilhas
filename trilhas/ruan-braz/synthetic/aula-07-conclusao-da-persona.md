@@ -1,4 +1,4 @@
-[3 blocos] / [14 parágrafos totais] / [600 palavras estimadas] / [600 ÷ 200 = 3 minutos]
+Cálculo interno: [3 blocos] / [14 parágrafos totais] / [600 palavras estimadas] / [600 ÷ 200 = 3 minutos]
 
 # Conclusão da persona
 

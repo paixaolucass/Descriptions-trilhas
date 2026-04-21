@@ -1,4 +1,4 @@
-[4 blocos] / [19 parágrafos totais] / [800 palavras estimadas] / [800 ÷ 200 = 4 minutos]
+Cálculo interno: [4 blocos] / [19 parágrafos totais] / [800 palavras estimadas] / [800 ÷ 200 = 4 minutos]
 
 # Como proteger suas ideias e se diferenciar da multidão alienada
 

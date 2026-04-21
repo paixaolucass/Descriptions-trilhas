@@ -1,4 +1,4 @@
-[11 blocos] / [55 parágrafos totais] / [2700 palavras estimadas] / [2700 ÷ 200 = 14 minutos]
+Cálculo interno: [11 blocos] / [55 parágrafos totais] / [2700 palavras estimadas] / [2700 ÷ 200 = 14 minutos]
 
 # Meta-aprendizado: como aprender qualquer coisa mais rápido
 
