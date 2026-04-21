@@ -16,9 +16,9 @@ Ao final desta aula, você será capaz de:
 
 A trilha Cínetica está dividida em cinco módulos que se constroem progressivamente: Fundamentos, Ferramentas, Prompt, Técnica e Oficina. Cada módulo aprofunda o anterior para que você domine o processo completo de geração de vídeo com IA.
 
-O objetivo não é ensinar a clicar em botões. É que você entenda os fundamentos para aplicá-los em qualquer ferramenta, agora e no futuro.
+O objetivo não é ensinar a clicar em botões. É que você domine os fundamentos para aplicá-los em qualquer ferramenta, agora e no futuro.
 
-## O que você vai aprender na trilha
+## Conteúdo da trilha
 
 - Como funcionam os modelos de geração de vídeo com IA
 - Quais ferramentas do mercado global usar em cada situação (Kling, VEL, Runway, Sora, Hilo)

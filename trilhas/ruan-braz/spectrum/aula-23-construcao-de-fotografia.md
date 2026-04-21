@@ -14,7 +14,7 @@ Ao final desta aula, você será capaz de:
 
 ## O briefing como primeiro passo da fotografia
 
-A aula parte da comparação com o processo de um fotógrafo profissional: antes de qualquer sessão, ele conduz uma reunião para entender o objetivo, o público e o posicionamento de quem vai ser fotografado. Esse mesmo processo se aplica à fotografia gerada com IA.
+A aula parte da comparação com o processo de um fotógrafo profissional: antes de qualquer sessão, ele conduz uma reunião para mapear o objetivo, o público e o posicionamento de quem vai ser fotografado. Esse mesmo processo se aplica à fotografia gerada com IA.
 
 O briefing montado na aula inclui objetivo do projeto, posicionamento de marca pessoal, identidade visual (paleta, elementos recorrentes, cenário), e qual percepção se quer transmitir.
 

@@ -44,7 +44,7 @@ A demonstração não é o foco da aula. É um ponto de ancoragem para o aluno s
 
 ## Coloque em prática
 
-Defina em uma frase o que você quer fazer com geração de música com IA. Não precisa ser uma meta sofisticada: pode ser criar trilha sonora para vídeos, explorar composição pessoal ou entender o processo para trabalhar com clientes. Esse objetivo vai orientar suas escolhas ao longo de toda a trilha.
+Defina em uma frase o que você quer fazer com geração de música com IA. Não precisa ser uma meta sofisticada: pode ser criar trilha sonora para vídeos, explorar composição pessoal ou aplicar o processo para trabalhar com clientes. Esse objetivo vai orientar suas escolhas ao longo de toda a trilha.
 
 ---
 

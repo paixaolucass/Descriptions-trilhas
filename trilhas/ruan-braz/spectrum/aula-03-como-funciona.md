@@ -26,7 +26,7 @@ Para a IA, cada pixel é um número com várias dimensões, e esses números car
 
 ## Por que a teoria importa na prática
 
-Saber que a IA funciona estatisticamente ajuda a entender por que ela falha. Erros como mãos com dedos extras ou olhos distorcidos acontecem porque são padrões menos frequentes nos dados de treinamento. Quem entende isso toma decisões melhores de prompt e de revisão do resultado.
+Saber que a IA funciona estatisticamente deixa claro por que ela falha. Erros como mãos com dedos extras ou olhos distorcidos acontecem porque são padrões menos frequentes nos dados de treinamento. Quem reconhece isso toma decisões melhores de prompt e de revisão do resultado.
 
 ## Coloque em prática
 
