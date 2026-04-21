@@ -1,4 +1,4 @@
-Cálculo interno: [5 blocos] / [23 parágrafos totais] / [1050 palavras estimadas] / [1050 ÷ 200 = 5 minutos]
+[5 blocos] / [23 parágrafos totais] / [1050 palavras estimadas] / [1050 ÷ 200 = 5 minutos]
 
 # Escrevendo um manifesto
 
@@ -16,7 +16,7 @@ Ao final desta aula, você será capaz de:
 
 Um manifesto não é um texto sobre o que você faz. É um texto sobre o que você acredita, contra o que você se posiciona e para onde você aponta. A diferença entre um manifesto e uma declaração de missão é que o manifesto tem atrito. Ele escolhe um inimigo simbólico, propõe uma ruptura e convoca quem lê a encarar a realidade de forma diferente.
 
-Começar escrevendo é o erro mais comum. Quem escreve antes de entender a estrutura de manifestos que funcionam produz um texto que se parece com manifesto por fora mas não carrega o peso que o formato exige por dentro. O processo apresentado nesta aula começa pela arqueologia, não pela escrita.
+Começar escrevendo é o erro mais comum. Quem escreve antes de interpretar a estrutura de manifestos que funcionam produz um texto que se parece com manifesto por fora mas não carrega o peso que o formato exige por dentro. O processo apresentado nesta aula começa pela arqueologia, não pela escrita.
 
 ## Etapa 1: arqueologia
 

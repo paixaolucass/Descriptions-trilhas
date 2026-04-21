@@ -1,4 +1,4 @@
-Cálculo interno: [6 blocos] / [28 parágrafos totais] / [1300 palavras estimadas] / [1300 ÷ 200 = 7 minutos]
+[6 blocos] / [28 parágrafos totais] / [1300 palavras estimadas] / [1300 ÷ 200 = 7 minutos]
 
 # Prompts básicos e boas práticas
 
@@ -44,7 +44,7 @@ Sem critérios, o prompt é genérico. E o resultado da IA vai ser genérico tam
 
 O quarto erro é misturar a etapa de rascunho com a entrega final. Um único prompt raramente produz o texto que você quer, e esperar isso é a receita para a frustração.
 
-O processo funciona melhor em camadas: primeiro gerar variações, coletar ideias e frases que chamam atenção, montar isso no Google Docs, e depois levar o material acumulado para um novo chat, pedindo revisão e refinamento. A IA é repetível, quando você ensina uma vez o que quer, ela replica. O trabalho da primeira vez é fazer ela entender os critérios.
+O processo funciona melhor em camadas: primeiro gerar variações, coletar ideias e frases que chamam atenção, montar isso no Google Docs, e depois levar o material acumulado para um novo chat, pedindo revisão e refinamento. A IA é repetível, quando você ensina uma vez o que quer, ela replica. O trabalho da primeira vez é fazer ela interpretar os critérios.
 
 ## Como usar IA para aprender antes de criar
 

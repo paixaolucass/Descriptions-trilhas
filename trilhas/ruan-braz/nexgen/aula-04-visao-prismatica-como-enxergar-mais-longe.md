@@ -1,4 +1,4 @@
-Cálculo interno: [10 blocos] / [48 parágrafos totais] / [2400 palavras estimadas] / [2400 ÷ 200 = 12 minutos]
+[10 blocos] / [48 parágrafos totais] / [2400 palavras estimadas] / [2400 ÷ 200 = 12 minutos]
 
 # Visão prismática: como enxergar mais longe
 
@@ -19,7 +19,7 @@ O professor abre a aula com a frase de Isaac Newton: se vi longe, foi por estar 
 
 O nome Overlens nasce diretamente dessa habilidade. Overlens significa superlente ou sobre as lentes: a lente que consegue colocar todas as outras, a que vê por perspectivas diferentes. O símbolo da escola tem um prisma na base. O professor mostra o objeto físico durante a aula e explica o experimento de Newton: ao se trancar em uma sala escura, fazer um furo em uma tábua e deixar apenas um feixe de luz entrar, Newton percebeu que o prisma não gerava a luz do arco-íris. Ele a dividia.
 
-Antes de Newton, as pessoas acreditavam que o prisma era um objeto mágico capaz de criar luz. Depois, entendeu-se que ele revela o que já estava ali, separando a luz branca em todas as suas cores. Essa é a analogia central: a visão prismática divide uma realidade aparentemente simples em múltiplas perspectivas, cada uma revelando algo que estava oculto. Também pode funcionar ao contrário: você reúne várias perspectivas para chegar mais perto do que é completo.
+Antes de Newton, as pessoas acreditavam que o prisma era um objeto mágico capaz de criar luz. Depois, interpretou-se que ele revela o que já estava ali, separando a luz branca em todas as suas cores. Essa é a analogia central: a visão prismática divide uma realidade aparentemente simples em múltiplas perspectivas, cada uma revelando algo que estava oculto. Também pode funcionar ao contrário: você reúne várias perspectivas para chegar mais perto do que é completo.
 
 ## A primeira camada: chegar mais longe pela rua já pavimentada
 
@@ -39,9 +39,9 @@ O professor diferencia arte e design: a arte vive no terreno da expressão indiv
 
 ## Como desenvolver a visão prismática
 
-Desenvolver essa habilidade começa com repertório. Consumir arte, literatura, cinema, música: qualquer coisa que permita enxergar o mundo pelos olhos de outras pessoas. O segundo caminho é tornar-se mais observador, prestar atenção nas pessoas ao redor. O professor afirma que os melhores designers, escritores, cineastas e empreendedores que conheceu têm em comum entender sobre pessoas.
+Desenvolver essa habilidade começa com repertório. Consumir arte, literatura, cinema, música: qualquer coisa que permita enxergar o mundo pelos olhos de outras pessoas. O segundo caminho é tornar-se mais observador, prestar atenção nas pessoas ao redor. O professor afirma que os melhores designers, escritores, cineastas e empreendedores que mapeou têm em comum interpretar sobre pessoas.
 
-Ele conta que, aos 17 anos, ficou obcecado com vídeos sobre conspirações e conteúdo que despertava curiosidade sobre o lado sombrio das coisas. Em algum momento, sua mãe percebeu que ele estava diferente e alertou: filho, cuidado com as coisas que você coloca dentro da sua cabeça, porque aquilo vai ficar lá. Na época, como adolescente, ele não entendeu. Muito tempo depois percebeu que a mensagem estava certa: o que você absorve influencia como você enxerga o mundo, e como você enxerga o mundo influencia como você se comporta, e o comportamento gera consequências.
+Ele conta que, aos 17 anos, ficou obcecado com vídeos sobre conspirações e conteúdo que despertava curiosidade sobre o lado sombrio das coisas. Em algum momento, sua mãe percebeu que ele estava diferente e alertou: filho, cuidado com as coisas que você coloca dentro da sua cabeça, porque aquilo vai ficar lá. Na época, como adolescente, ele não interpretou. Muito tempo depois percebeu que a mensagem estava certa: o que você absorve influencia como você enxerga o mundo, e como você enxerga o mundo influencia como você se comporta, e o comportamento gera consequências.
 
 Outro exemplo que o professor traz da própria vida: ao perceber, nos 18 ou 19 anos, como o conteúdo que ele consumia influenciava a maneira como enxergava as mulheres, começou a observar a relação entre o que absorvia e a visão de mundo que construía. Não é controle externo sobre o que acontece na vida, mas controle interno sobre as lentes que você escolhe guardar.
 

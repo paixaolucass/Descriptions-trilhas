@@ -1,4 +1,4 @@
-Cálculo interno: [5 blocos] / [22 parágrafos totais] / [1000 palavras estimadas] / [1000 ÷ 200 = 5 minutos]
+[5 blocos] / [22 parágrafos totais] / [1000 palavras estimadas] / [1000 ÷ 200 = 5 minutos]
 
 # Escrevendo um roteiro de anúncio
 
@@ -14,7 +14,7 @@ Ao final desta aula, você será capaz de:
 
 ## Por que a maioria dos anúncios falha antes de começar
 
-O problema mais comum em anúncios não está na escrita. Está na premissa. Um anúncio que tenta convencer alguém que ainda não sabe que tem o problema vai gastar todo o espaço disponível em um leitor que não está pronto para ser convencido. Um anúncio que usa storytelling indireto com alguém que já conhece a solução e quer apenas a oferta desperdiça o tempo de quem já decidiu comprar.
+O problema mais comum em anúncios não está na escrita. Está na premissa. Um anúncio que tenta convencer alguém que ainda não sabe que tem o problema vai gastar todo o espaço disponível em um leitor que não está pronto para ser convencido. Um anúncio que usa storytelling indireto com alguém que já mapeia a solução e quer apenas a oferta desperdiça o tempo de quem já decidiu comprar.
 
 A curva de consciência de Eugene Schwartz resolve esse problema. Antes de escrever uma única linha, é preciso saber em qual ponto da curva o público está.
 
@@ -26,9 +26,9 @@ A curva tem cinco níveis que descrevem o estado mental do potencial comprador e
 
 **Problem aware:** o leitor sabe que tem o problema mas não sabe que existe solução. Abordagem: espelhamento da dor, mostrar que a situação que o leitor vive tem nome e que outros a reconhecem também.
 
-**Solution aware:** o leitor sabe que existem soluções mas não conhece a sua. Abordagem: virada perceptiva, mostrar por que a sua solução resolve de uma forma que as alternativas não conseguem.
+**Solution aware:** o leitor sabe que existem soluções mas não mapeia a sua. Abordagem: virada perceptiva, mostrar por que a sua solução resolve de uma forma que as alternativas não conseguem.
 
-**Product aware:** o leitor conhece a sua solução mas ainda não decidiu. Abordagem: diferencial específico e prova, o que te separa das outras opções disponíveis.
+**Product aware:** o leitor mapeia a sua solução mas ainda não decidiu. Abordagem: diferencial específico e prova, o que te separa das outras opções disponíveis.
 
 **Most aware:** o leitor já decidiu e precisa apenas de um incentivo para agir agora. Abordagem: oferta direta com clareza máxima.
 

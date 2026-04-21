@@ -1,4 +1,4 @@
-Cálculo interno: [4 blocos] / [19 parágrafos totais] / [850 palavras estimadas] / [850 ÷ 200 = 4 minutos]
+[4 blocos] / [19 parágrafos totais] / [850 palavras estimadas] / [850 ÷ 200 = 4 minutos]
 
 # Buyer persona
 
@@ -14,7 +14,7 @@ Ao final desta aula, você será capaz de:
 
 ## Público versus persona: a diferença que muda a comunicação
 
-Pesquisa de público entrega dados em massa: 68% homens, 31% mulheres, 47% entre 25 e 32 anos. Esses números descrevem um grupo grande e servem para entender o tamanho do mercado. Mas quando chega a hora de escrever um anúncio, gravar um vídeo ou montar uma oferta, dados em massa não ajudam a escolher a palavra certa.
+Pesquisa de público entrega dados em massa: 68% homens, 31% mulheres, 47% entre 25 e 32 anos. Esses números descrevem um grupo grande e servem para interpretar o tamanho do mercado. Mas quando chega a hora de escrever um anúncio, gravar um vídeo ou montar uma oferta, dados em massa não ajudam a escolher a palavra certa.
 
 É aí que entra a buyer persona. Buyer significa comprador. A buyer persona é um recorte específico dentro do público amplo: um personagem fictício com desafios concretos, linguagem própria, rotina definida e dores que a comunicação precisa tocar para funcionar. Quando uma campanha parece estar falando diretamente com você, é porque existe uma persona bem construída por trás do texto.
 

@@ -1,4 +1,4 @@
-Cálculo interno: [4 blocos] / [18 parágrafos totais] / [800 palavras estimadas] / [800 ÷ 200 = 4 minutos]
+[4 blocos] / [18 parágrafos totais] / [800 palavras estimadas] / [800 ÷ 200 = 4 minutos]
 
 # Reescrita e edição: do rascunho ao texto refinado
 
@@ -26,7 +26,7 @@ Nessa camada, a pergunta não é "esse parágrafo está bem escrito?". A pergunt
 
 ## Camada 2: clareza
 
-A segunda camada entra na frase. Aqui o critério é legibilidade: o leitor entende o que cada frase diz sem precisar reler? A ideia chega completa em uma leitura?
+A segunda camada entra na frase. Aqui o critério é legibilidade: o leitor interpreta o que cada frase diz sem precisar reler? A ideia chega completa em uma leitura?
 
 O professor apresenta um exemplo de transformação nessa camada. A frase "Visando a otimização dos processos internos da organização para aumento de eficiência operacional" vira "Novas ferramentas não são luxo, são tração." A segunda não é apenas mais curta. Ela é mais direta, mais ativa e carrega mais força. Clareza não é simplicidade, é precisão.
 
@@ -46,7 +46,7 @@ Um texto todo em frases longas entorpece o leitor. Um texto todo em frases curta
 
 O prompt de edição descrito na aula instrui a IA a percorrer as quatro camadas em sequência, sempre com diagnóstico antes de correção. A instrução explícita é: na primeira passagem, apenas identifique o problema. Na segunda, apresente a versão corrigida com a explicação de por que a mudança resolve o que foi diagnosticado.
 
-Separar diagnóstico e correção tem um efeito prático importante: o usuário entende o que estava errado e passa a evitar o mesmo problema nos textos seguintes. Aceitar uma correção sem entender o diagnóstico é consertar o sintoma sem tratar a causa.
+Separar diagnóstico e correção tem um efeito prático importante: o usuário interpreta o que estava errado e passa a evitar o mesmo problema nos textos seguintes. Aceitar uma correção sem interpretar o diagnóstico é consertar o sintoma sem tratar a causa.
 
 ## O erro mais comum na edição
 

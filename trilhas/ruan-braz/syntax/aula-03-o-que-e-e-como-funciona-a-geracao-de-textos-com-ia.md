@@ -1,4 +1,4 @@
-Cálculo interno: [4 blocos] / [18 parágrafos totais] / [850 palavras estimadas] / [850 ÷ 200 = 5 minutos]
+[4 blocos] / [18 parágrafos totais] / [850 palavras estimadas] / [850 ÷ 200 = 5 minutos]
 
 # O que é e como funciona a geração de textos com IA
 
@@ -16,13 +16,13 @@ Ao final desta aula, você será capaz de:
 
 Ruan Braz abre a aula com o que precisa ficar claro antes de qualquer técnica: modelos como ChatGPT, Claude, Gemini e Grok não pensam como seres humanos, não raciocinam como seres humanos e não sentem como seres humanos. Eles são modelos de probabilidade. Cada palavra que você envia é triturada em números, transformada em vetores, e a IA utiliza trilhões de parâmetros desenvolvidos no treinamento para encontrar estatisticamente a resposta mais provável para o que você enviou.
 
-O professor introduz dois termos que aparecem ao longo de toda a trilha: input, a informação que você envia, e output, a informação que a IA devolve. Esses conceitos parecem simples, mas têm implicação direta na qualidade do resultado. A IA não lê o texto como você lê. Ela não sente o texto. Ela não compreende com o repertório que você tem. Ela relaciona os números gerados a partir da sua mensagem com todos os pesos que acumulou no treinamento e devolve o que estatisticamente parece mais adequado.
+O professor introduz dois termos que aparecem ao longo de toda a trilha: input, a informação que você envia, e output, a informação que a IA devolve. Esses conceitos parecem simples, mas têm implicação direta na qualidade do resultado. A IA não lê o texto como você lê. Ela não sente o texto. Ela não processa com o repertório que você tem. Ela relaciona os números gerados a partir da sua mensagem com todos os pesos que acumulou no treinamento e devolve o que estatisticamente parece mais adequado.
 
 ## A IA como espelho
 
 A consequência prática disso é direta: a IA é um espelho do seu próprio raciocínio. Se a informação que você envia está confusa, ela vai amplificar a sua confusão, muitas vezes devolvendo uma confusão organizada. Na maioria das vezes, ela não vai avisar que você errou. Ela vai tentar amplificar o que você trouxe.
 
-Isso muda a lógica de como usar a ferramenta. O resultado não depende principalmente da capacidade da IA. Depende do quão claro está o seu próprio pensamento antes de mandar o input. Entender esse funcionamento básico tem uma consequência prática imediata: cada palavra, cada espaço, cada vírgula que você coloca numa mensagem tem um peso específico no que ela devolve. Trocar uma palavra por outra pode mudar o resultado. Não porque a IA é imprevisível, mas porque ela é precisa em amplificar exatamente o que recebe.
+Isso muda a lógica de como usar a ferramenta. O resultado não depende principalmente da capacidade da IA. Depende do quão claro está o seu próprio pensamento antes de mandar o input. Interpretar esse funcionamento básico tem uma consequência prática imediata: cada palavra, cada espaço, cada vírgula que você coloca numa mensagem tem um peso específico no que ela devolve. Trocar uma palavra por outra pode mudar o resultado. Não porque a IA é imprevisível, mas porque ela é precisa em amplificar exatamente o que recebe.
 
 ## Os três motivos pelos quais a IA entrega resultados fracos
 
@@ -36,9 +36,9 @@ O terceiro são dados maltratados. Se o material enviado tem informações mal o
 
 ## Sintaxe é colaboração, não delegação
 
-O professor encerra com o conceito que orienta toda a trilha. Sintaxe não é sobre mandar um prompt e deixar a IA escrever tudo. É sobre colaborar: escrever, editar, pedir para escrever de novo, somar o texto gerado com o seu próprio, entender estrutura, ritmo e tom.
+O professor encerra com o conceito que orienta toda a trilha. Sintaxe não é sobre mandar um prompt e deixar a IA escrever tudo. É sobre colaborar: escrever, editar, pedir para escrever de novo, somar o texto gerado com o seu próprio, interpretar estrutura, ritmo e tom.
 
-O benefício duplo disso é que quanto mais você entende sobre a estrutura de um bom texto, melhores ficam os seus textos escritos à mão. E quanto mais você entende esses elementos, melhor fica o que a IA traz para você. A clareza na cabeça de quem escreve é o que separa um resultado mediano de um resultado acima da média.
+O benefício duplo disso é que quanto mais você interpreta sobre a estrutura de um bom texto, melhores ficam os seus textos escritos à mão. E quanto mais você interpreta esses elementos, melhor fica o que a IA traz para você. A clareza na cabeça de quem escreve é o que separa um resultado mediano de um resultado acima da média.
 
 ## Coloque em prática
 

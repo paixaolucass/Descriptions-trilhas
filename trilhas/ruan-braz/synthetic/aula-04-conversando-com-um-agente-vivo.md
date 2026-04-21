@@ -1,4 +1,4 @@
-Cálculo interno: [4 blocos] / [17 parágrafos totais] / [750 palavras estimadas] / [750 ÷ 200 = 4 minutos]
+[4 blocos] / [17 parágrafos totais] / [750 palavras estimadas] / [750 ÷ 200 = 4 minutos]
 
 # Conversando com um agente vivo
 

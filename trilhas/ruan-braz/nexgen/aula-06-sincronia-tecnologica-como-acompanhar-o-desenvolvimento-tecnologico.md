@@ -1,4 +1,4 @@
-Cálculo interno: [10 blocos] / [52 parágrafos totais] / [2600 palavras estimadas] / [2600 ÷ 200 = 13 minutos]
+[10 blocos] / [52 parágrafos totais] / [2600 palavras estimadas] / [2600 ÷ 200 = 13 minutos]
 
 # Sincronia tecnológica: como acompanhar o desenvolvimento tecnológico
 
@@ -19,7 +19,7 @@ O professor abre a aula com uma citação que atribui ao escritor Low Slang: a t
 
 O contexto que ele apresenta conecta à aula anterior sobre meta-aprendizado: a polarização de habilidades está em curso. Há pessoas que acumulam muitas habilidades distintas e usam a tecnologia como amplificador do que já sabem. E há pessoas que, por terem acesso fácil à automação, não se desenvolvem e ficam progressivamente menos úteis. A tecnologia não resolve esse problema: ela acelera a divisão. A questão é de qual lado você vai estar.
 
-Para contextualizar o ritmo desse avanço, o professor traça uma linha histórica. O conceito de inteligência artificial remonta a 1950, quando Alan Turing publicou um artigo seminal sobre o tema. Durante décadas, ficou restrito a laboratórios e acadêmicos. O professor usa uma analogia direta: a inteligência artificial de hoje está para o mundo assim como a internet estava nos anos 2000. Quem entendeu o que a internet se tornaria antes dos outros teve vantagem. Quem entende agora o que a IA se tornará está na mesma posição.
+Para contextualizar o ritmo desse avanço, o professor traça uma linha histórica. O conceito de inteligência artificial remonta a 1950, quando Alan Turing publicou um artigo seminal sobre o tema. Durante décadas, ficou restrito a laboratórios e acadêmicos. O professor usa uma analogia direta: a inteligência artificial de hoje está para o mundo assim como a internet estava nos anos 2000. Quem interpretou o que a internet se tornaria antes dos outros teve vantagem. Quem interpreta agora o que a IA se tornará está na mesma posição.
 
 ## A resistência histórica à tecnologia
 
@@ -53,7 +53,7 @@ Outros riscos que o professor enumera: desigualdade digital crescente, dependên
 
 A contrapartida do ceticismo é igualmente honesta. O professor usa a analogia das duas cidades para mostrar o custo da resistência.
 
-Imagine uma cidade conhecida pela qualidade dos seus tapetes artesanais. Um inventor chega oferecendo uma máquina capaz de produzir tapetes com qualidade equivalente, muito mais rápido e por um custo muito menor. A cidade rejeita o inventor, quebra a máquina, expulsa o homem. Ele vai para a cidade vizinha, mais pobre, sem tradição, que aceita a tecnologia com entusiasmo. Com o tempo, essa cidade produz tapetes de qualidade comparável, em escala, a preço menor. A cidade tradicional empobrece e desaparece da história. A cidade que adotou a tecnologia prospera.
+Imagine uma cidade mapeada pela qualidade dos seus tapetes artesanais. Um inventor chega oferecendo uma máquina capaz de produzir tapetes com qualidade equivalente, muito mais rápido e por um custo muito menor. A cidade rejeita o inventor, quebra a máquina, expulsa o homem. Ele vai para a cidade vizinha, mais pobre, sem tradição, que aceita a tecnologia com entusiasmo. Com o tempo, essa cidade produz tapetes de qualidade comparável, em escala, a preço menor. A cidade tradicional empobrece e desaparece da história. A cidade que adotou a tecnologia prospera.
 
 O professor conecta essa analogia ao presente imediato: o designer que recusa a inteligência artificial compete contra designers que a usam. Esses concorrentes produzem mais, com mais qualidade, em menos tempo, por um custo menor. A pergunta que ele coloca: por que o cliente vai escolher quem resiste?
 

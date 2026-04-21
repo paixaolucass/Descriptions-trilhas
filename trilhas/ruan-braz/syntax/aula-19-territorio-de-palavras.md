@@ -1,4 +1,4 @@
-Cálculo interno: [6 blocos] / [30 parágrafos totais] / [1400 palavras estimadas] / [1400 ÷ 200 = 7 minutos]
+[6 blocos] / [30 parágrafos totais] / [1400 palavras estimadas] / [1400 ÷ 200 = 7 minutos]
 
 # Território de palavras
 
@@ -18,7 +18,7 @@ Território de palavras é uma das ferramentas mais poderosas para criar identid
 
 O erro mais comum é confundir território de palavras com uma tabela de palavras favoritas. Isso seria raso demais. Território de palavras é identidade verbal sistematizada. Ele define o que a linguística chama de léxico, a estrutura e a lógica de linguagem de uma pessoa.
 
-A linguagem diz muito sobre quem fala: a identidade, com quem a pessoa se comunica melhor, de onde ela veio. O território de palavras abraça e sistematiza esse vocabulário. Para entender mais a fundo os fundamentos de como seres humanos produzem sentido, emissor, receptor, mensagem e meio, a recomendação é a trilha Signals da Overlens, que ensina semiótica: o estudo de signos e do processo de interpretação.
+A linguagem diz muito sobre quem fala: a identidade, com quem a pessoa se comunica melhor, de onde ela veio. O território de palavras abraça e sistematiza esse vocabulário. Para interpretar mais a fundo os fundamentos de como seres humanos produzem sentido, emissor, receptor, mensagem e meio, a recomendação é a trilha Signals da Overlens, que ensina semiótica: o estudo de signos e do processo de interpretação.
 
 ## Identidade e repetição
 

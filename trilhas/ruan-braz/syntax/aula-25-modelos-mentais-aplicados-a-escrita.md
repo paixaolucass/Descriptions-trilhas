@@ -1,4 +1,4 @@
-Cálculo interno: [6 blocos] / [26 parágrafos totais] / [1100 palavras estimadas] / [1100 ÷ 200 = 6 minutos]
+[6 blocos] / [26 parágrafos totais] / [1100 palavras estimadas] / [1100 ÷ 200 = 6 minutos]
 
 # Modelos mentais aplicados à escrita
 

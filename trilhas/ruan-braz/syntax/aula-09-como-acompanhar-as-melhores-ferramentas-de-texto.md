@@ -1,4 +1,4 @@
-Cálculo interno: [4 blocos] / [20 parágrafos totais] / [900 palavras estimadas] / [900 ÷ 200 = 5 minutos]
+[4 blocos] / [20 parágrafos totais] / [900 palavras estimadas] / [900 ÷ 200 = 5 minutos]
 
 # Como acompanhar as melhores ferramentas de texto
 
@@ -24,11 +24,11 @@ Existem princípios para se orientar nesse ecossistema. A aula apresenta o princ
 
 O primeiro critério para avaliar qualquer ferramenta nova é o tamanho e a solidez da empresa por trás dela. De onde ela veio? Qual o volume de investimento que ela possui? Tem base para competir com as maiores do mundo, ou é provável que seja comprada e absorvida por elas?
 
-Quando se entende a estrutura do ecossistema, fica mais fácil saber para onde está indo a atenção, o desenvolvimento e a inovação, e seguir esse movimento em vez de correr atrás de cada nova ferramenta.
+Quando se interpreta a estrutura do ecossistema, fica mais fácil saber para onde está indo a atenção, o desenvolvimento e a inovação, e seguir esse movimento em vez de correr atrás de cada nova ferramenta.
 
 O professor narra a história do ecossistema de LLMs para ilustrar o ponto. O Google liderava o avanço em inteligência artificial antes de 2019. De pesquisas internas do Google surge o conceito de Transformer, que serviu de base para o que viria depois. Da OpenAI, fundada por pessoas influenciadas por esse contexto, incluindo Sam Altman e, inicialmente, Elon Musk, nasce o ChatGPT. Da OpenAI, um grupo sai e funda a Anthropic, que cria o Claude. Elon Musk, que já havia saído da OpenAI, compra o Twitter pelos dados e cria o Grok. O Google, depois do fracasso do Bard, desenvolve e lança o Gemini. A China entra com o DeepSeek, que referencia o ChatGPT como base.
 
-A conclusão que o professor extrai: quase tudo vem da mesma fonte. Entender essa fonte é o caminho mais direto para se orientar no mercado.
+A conclusão que o professor extrai: quase tudo vem da mesma fonte. Interpretar essa fonte é o caminho mais direto para se orientar no mercado.
 
 ## Ir direto na fonte
 
@@ -40,7 +40,7 @@ O professor cita uma frase que sintetiza essa lógica: não escute o conselho do
 
 O professor distingue dois níveis no mercado. Os modelos base, as LLMs, são desenvolvidos pelas grandes empresas: OpenAI, Anthropic, Google, xAI, NVIDIA, entre outras. Esses modelos têm seu uso vendido como API para empresas menores, que criam interfaces e aplicações específicas por cima deles.
 
-Quando alguém aprende a usar uma interface nova, a tentação é sair pulando de ferramenta em ferramenta. Mas quando se entende que a maioria das interfaces usa os mesmos modelos base configurados de formas diferentes, a lógica muda: melhor ir direto na fonte e aprender a usar bem do que se dispersar em superfícies.
+Quando alguém aprende a usar uma interface nova, a tentação é sair pulando de ferramenta em ferramenta. Mas quando se interpreta que a maioria das interfaces usa os mesmos modelos base configurados de formas diferentes, a lógica muda: melhor ir direto na fonte e aprender a usar bem do que se dispersar em superfícies.
 
 Para quem trabalha em nível introdutório, saber utilizar bem qualquer uma das ferramentas principais já é suficiente. A maioria converge para um nível de resultado parecido para a maior parte dos usos. Para quem vai a um nível mais avançado, engenharia de prompt, integração via API, uso técnico de diferentes modelos, o professor indica trilhas específicas dentro da plataforma.
 

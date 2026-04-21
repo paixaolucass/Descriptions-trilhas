@@ -1,4 +1,4 @@
-Cálculo interno: [4 blocos] / [19 parágrafos totais] / [800 palavras estimadas] / [800 ÷ 200 = 4 minutos]
+[4 blocos] / [19 parágrafos totais] / [800 palavras estimadas] / [800 ÷ 200 = 4 minutos]
 
 # Como proteger suas ideias e se diferenciar da multidão alienada
 
@@ -9,7 +9,7 @@ Cálculo interno: [4 blocos] / [19 parágrafos totais] / [800 palavras estimadas
 Ao final desta aula, você será capaz de:
 
 - Aplicar a abordagem bottom-up com fatos, conceitos e procedimentos diretamente no ChatGPT
-- Distinguir entre memorizar um fato e compreender um conceito na prática
+- Distinguir entre memorizar um fato e processar um conceito na prática
 - Estruturar um prompt que orienta a IA a ensinar de forma progressiva e personalizada
 - Reconhecer como o mesmo método se aplica para aprender qualquer ferramenta de IA
 
@@ -39,7 +39,7 @@ Na sequência, o ChatGPT apresentou os conceitos fundamentais da área. Os conce
 - **Treinamento vs. inferência:** treinamento significa ensinar um modelo com dados; inferência significa usar um modelo já treinado para gerar um resultado.
 - **Prompt:** comando ou entrada dada a um modelo generativo. Exemplo: "escreva uma música triste."
 
-O desafio com conceitos é que a leitura pode levar à memorização superficial em vez de compreensão real. Para resolver isso, o professor envia um segundo prompt: "Conceitos precisam ser compreendidos. É diferente de fatos que podem simplesmente ser memorizados. Dito isso, me ajude a compreender estes conceitos." O ChatGPT então responde com uma abordagem diferente: explicações claras, analogias, exemplos práticos e perguntas de reforço.
+O desafio com conceitos é que a leitura pode levar à memorização superficial em vez de compreensão real. Para resolver isso, o professor envia um segundo prompt: "Conceitos precisam ser processados. É diferente de fatos que podem simplesmente ser memorizados. Dito isso, me ajude a processar estes conceitos." O ChatGPT então responde com uma abordagem diferente: explicações claras, analogias, exemplos práticos e perguntas de reforço.
 
 Para Machine Learning, a IA usa a seguinte analogia: imagine ensinar uma criança a reconhecer gatos. Você mostra várias fotos e diz "isso é um gato." Depois de muitos exemplos, a criança começa a perceber sozinha os padrões. Isso é Machine Learning: aprender com exemplos, não com regras escritas à mão. O exemplo real: mostrar 10 mil imagens de cães e gatos para o algoritmo, que aprende os padrões visuais de cada classe e, ao ver uma imagem nova, identifica se é cão ou gato. A pergunta de reforço proposta foi: "Como um sistema poderia reconhecer algo sem ser programado diretamente para isso?" A resposta: pelo Machine Learning, dando exemplos e deixando o sistema identificar os padrões.
 
@@ -63,7 +63,7 @@ O professor encerra com a distinção entre ensinar a clicar em botões e ensina
 
 Envie ao ChatGPT o prompt demonstrado nesta aula, adaptado para a área que você quer aprender agora.
 
-Após receber os fatos, peça que a IA o ajude a compreender os conceitos, não apenas listá-los.
+Após receber os fatos, peça que a IA o ajude a processar os conceitos, não apenas listá-los.
 
 Acesse o mapa guiado das IAs e os playbooks disponíveis abaixo do vídeo e aplique o método ali.
 

@@ -1,4 +1,4 @@
-Cálculo interno: [8 blocos] / [42 parágrafos totais] / [2100 palavras estimadas] / [2100 ÷ 200 = 11 minutos]
+[8 blocos] / [42 parágrafos totais] / [2100 palavras estimadas] / [2100 ÷ 200 = 11 minutos]
 
 # Self-target: desenvolvimento pessoal
 
@@ -8,7 +8,7 @@ Cálculo interno: [8 blocos] / [42 parágrafos totais] / [2100 palavras estimada
 
 Ao final desta aula, você será capaz de:
 
-- Compreender por que a identidade é o ponto de partida para qualquer resultado profissional e por que ignorá-la compromete todo o restante
+- Reconhecer por que a identidade é o ponto de partida para qualquer resultado profissional e por que ignorá-la compromete todo o restante
 - Distinguir a diferença entre focar no resultado e focar na identidade e como essa distinção muda a maneira de construir hábitos
 - Reconhecer como crenças se formam, como elas limitam ou impulsionam a ação, e como é possível reescrevê-las por meio de provas acumuladas
 - Aplicar os dois primeiros passos do processo de autodesenvolvimento para construir uma identidade alinhada com o tipo de designer que você quer ser
@@ -54,7 +54,7 @@ Aristóteles chegou à mesma conclusão dois mil anos antes: nós somos aquilo q
 
 Essa definição muda a forma de enxergar o problema. Se você nunca conseguiu clientes, esse padrão não faz parte da sua identidade. Se você nunca foi tratado como profissional, é porque a postura profissional ainda não se tornou algo que você faz repetidamente. Não é uma questão de competência técnica. É uma questão de identidade ainda não construída.
 
-O professor cita uma frase do antagonista do filme John Wick 4 para reforçar o ponto: o jeito como você faz uma coisa é como você faz tudo. Se você é cuidadoso, vai tentar fazer tudo cuidadoso. Se é desleixado, o desleixo vai aparecer em vários lugares ao mesmo tempo. Isso é identidade operando de forma invisível. Ela está sempre presente, moldando cada ação, mesmo quando não é reconhecida conscientemente.
+O professor cita uma frase do antagonista do filme John Wick 4 para reforçar o ponto: o jeito como você faz uma coisa é como você faz tudo. Se você é cuidadoso, vai tentar fazer tudo cuidadoso. Se é desleixado, o desleixo vai aparecer em vários lugares ao mesmo tempo. Isso é identidade operando de forma invisível. Ela está sempre presente, moldando cada ação, mesmo quando não é remapeada conscientemente.
 
 ## Crenças: como se formam e como se reescrevem
 

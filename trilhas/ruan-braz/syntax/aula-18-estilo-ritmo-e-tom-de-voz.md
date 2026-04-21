@@ -1,4 +1,4 @@
-Cálculo interno: [5 blocos] / [22 parágrafos totais] / [950 palavras estimadas] / [950 ÷ 200 = 5 minutos]
+[5 blocos] / [22 parágrafos totais] / [950 palavras estimadas] / [950 ÷ 200 = 5 minutos]
 
 # Estilo, ritmo e tom de voz
 
@@ -52,7 +52,7 @@ A maioria acha que o leitor lê com os olhos. Mas o leitor lê com um ouvido int
 
 A aula apresenta o método para dominar os três elementos antes de cada prompt:
 
-**Intenção (objetivo):** o que a pessoa deve entender, sentir ou fazer ao terminar o texto?
+**Intenção (objetivo):** o que a pessoa deve interpretar, sentir ou fazer ao terminar o texto?
 
 **Estilo (ferramenta):** escolher o estilo que entrega a intenção. Didático para explicar, analítico para convencer, manifesto para mobilizar. O critério é qual formato carrega o objetivo definido.
 

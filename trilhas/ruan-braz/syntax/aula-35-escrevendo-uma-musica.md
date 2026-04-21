@@ -1,4 +1,4 @@
-Cálculo interno: [4 blocos] / [19 parágrafos totais] / [850 palavras estimadas] / [850 ÷ 200 = 4 minutos]
+[4 blocos] / [19 parágrafos totais] / [850 palavras estimadas] / [850 ÷ 200 = 4 minutos]
 
 # Escrevendo uma música
 
@@ -32,7 +32,7 @@ A segunda etapa distribui o conteúdo emocional pela estrutura clássica de comp
 
 Cada parte tem uma função diferente na jornada emocional do ouvinte. O refrão não é repetição por convenção: é o momento de maior intensidade e clareza, a frase que vai permanecer na memória. A ponte existe para mudar a perspectiva antes do fechamento, não para repetir o que já foi dito.
 
-Essa não é a única estrutura possível. É um ponto de partida funcional que pode ser quebrado depois que o compositor entende o que cada parte faz.
+Essa não é a única estrutura possível. É um ponto de partida funcional que pode ser quebrado depois que o compositor interpreta o que cada parte faz.
 
 ## Etapa 3: desenvolvimento lírico
 

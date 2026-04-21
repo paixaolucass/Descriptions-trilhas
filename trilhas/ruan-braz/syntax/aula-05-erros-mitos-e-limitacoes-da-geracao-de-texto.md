@@ -1,4 +1,4 @@
-Cálculo interno: [7 blocos] / [35 parágrafos totais] / [1600 palavras estimadas] / [1600 ÷ 200 = 8 minutos]
+[7 blocos] / [35 parágrafos totais] / [1600 palavras estimadas] / [1600 ÷ 200 = 8 minutos]
 
 # Erros, mitos e limitações da geração de texto
 
@@ -10,7 +10,7 @@ Ao final desta aula, você será capaz de:
 
 - Identificar os três erros mais comuns de quem começa a usar IA para escrever e como evitá-los
 - Desmistificar três crenças populares sobre a relação entre IA e escrita que distorcem expectativas e resultados
-- Reconhecer as três limitações técnicas e estruturais dos modelos de linguagem que todo escritor precisa conhecer
+- Reconhecer as três limitações técnicas e estruturais dos modelos de linguagem que todo escritor precisa mapear
 
 ## O botão mágico
 
@@ -18,7 +18,7 @@ O primeiro erro é o mais comum: tratar a IA como um botão mágico. A lógica �
 
 Quando o contexto enviado é insuficiente, o resultado é previsível: um texto genérico. A IA não tem como saber o que você não disse. Ela opera com o que recebe e produz a resposta mais provável para aquele input. Quanto menos contexto, mais genérico o output. Essa não é uma falha da ferramenta, é uma consequência direta da forma como ela funciona.
 
-A solução passa por entender que a qualidade do resultado começa antes de abrir qualquer ferramenta. O trabalho de clareza é anterior ao prompt.
+A solução passa por interpretar que a qualidade do resultado começa antes de abrir qualquer ferramenta. O trabalho de clareza é anterior ao prompt.
 
 ## Delegar decisões
 
@@ -48,7 +48,7 @@ O texto que vale alguma coisa começa com alguém que tem algo a dizer. A IA pod
 
 O segundo mito é mais sedutor: com a IA, qualquer pessoa vai produzir textos extraordinários, independentemente do repertório ou da experiência. Basta pedir bem.
 
-O problema é que o resultado gerado pela IA é função direta do que você consegue pedir. E o que você consegue pedir é função do seu repertório: o que você leu, o que você escreveu, o que você entende sobre estrutura, tom, ritmo e intenção. Quem não tem esse repertório tende a fazer perguntas genéricas e receber respostas genéricas.
+O problema é que o resultado gerado pela IA é função direta do que você consegue pedir. E o que você consegue pedir é função do seu repertório: o que você leu, o que você escreveu, o que você interpreta sobre estrutura, tom, ritmo e intenção. Quem não tem esse repertório tende a fazer perguntas genéricas e receber respostas genéricas.
 
 O resultado prático é que textos produzidos com IA por pessoas sem repertório tendem a se parecer uns com os outros. A IA nivela o piso, mas o teto continua sendo determinado por quem escreve. Repertório não é substituível.
 

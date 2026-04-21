@@ -1,4 +1,4 @@
-Cálculo interno: [4 blocos] / [18 parágrafos totais] / [800 palavras estimadas] / [800 ÷ 200 = 4 minutos]
+[4 blocos] / [18 parágrafos totais] / [800 palavras estimadas] / [800 ÷ 200 = 4 minutos]
 
 # Boas-vindas à Personas Sintéticas
 
@@ -44,7 +44,7 @@ A trilha Synthetic existe porque a próxima etapa depois de criar uma persona be
 
 O que era ficção científica até pouco tempo atrás, ter uma conversa com um personagem sintético baseado em dados reais de um público, é possível hoje com ferramentas gratuitas ou de baixo custo. A qualidade ainda tem imperfeições visíveis, mas a velocidade de evolução é alta.
 
-Entender o conceito de persona antes de usar as ferramentas é o que separa quem usa tecnologia com intenção de quem usa por curiosidade sem resultado. A persona sintética é tão boa quanto a persona textual que a alimenta.
+Dominar o conceito de persona antes de usar as ferramentas é o que separa quem usa tecnologia com intenção de quem usa por curiosidade sem resultado. A persona sintética é tão boa quanto a persona textual que a alimenta.
 
 ## Coloque em prática
 

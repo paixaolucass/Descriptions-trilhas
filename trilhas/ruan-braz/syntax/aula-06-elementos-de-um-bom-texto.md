@@ -1,4 +1,4 @@
-Cálculo interno: [5 blocos] / [25 parágrafos totais] / [1100 palavras estimadas] / [1100 ÷ 200 = 6 minutos]
+[5 blocos] / [25 parágrafos totais] / [1100 palavras estimadas] / [1100 ÷ 200 = 6 minutos]
 
 # Elementos de um bom texto
 
@@ -32,7 +32,7 @@ Escrever pensando em apenas uma dessas camadas não é escrever errado. Mas o te
 
 ## Elemento 1: clareza
 
-Clareza é reduzir o esforço do leitor para entender o texto. Não é simplificar o pensamento, é tirar as barreiras cognitivas que tornam a leitura mais lenta.
+Clareza é reduzir o esforço do leitor para interpretar o texto. Não é simplificar o pensamento, é tirar as barreiras cognitivas que tornam a leitura mais lenta.
 
 O exemplo do que a IA entrega quando tenta parecer inteligente: "Visando a otimização de processos, a solução implementa melhorias substanciais no fluxo de trabalho." Parece um gerador de lero-lero. Parece um robô de terno falando.
 
@@ -50,7 +50,7 @@ O cérebro é egoísta por natureza. Somos focados em nossas próprias vidas. O 
 
 Exemplo genérico: "A criatividade é uma habilidade fundamental para o desenvolvimento humano no século XXI." Pode ser verdade, mas não conecta. Não tem nada a ver com quem está lendo.
 
-O mesmo conteúdo com relevância: "Sabe aquela ideia genial que você teve no banho e esqueceu de anotar? É disso que vamos falar." A conexão com uma pessoa específica é imediata. Entender com quem você está falando é o que torna a relevância possível.
+O mesmo conteúdo com relevância: "Sabe aquela ideia genial que você teve no banho e esqueceu de anotar? É disso que vamos falar." A conexão com uma pessoa específica é imediata. Identificar com quem você está falando é o que torna a relevância possível.
 
 ## Elemento 4: coerência
 
@@ -76,7 +76,7 @@ Com precisão: "O prazo terminava em uma hora, o estômago dele gelou e as mãos
 
 Humanidade não é ser fofo ou escrever como se fosse para uma criança. É ser imperfeito. É ser real. É tirar a mecânica do texto polido demais que acaba gerando desconfiança.
 
-Um texto com humanidade permite que a personalidade apareça. Mostra que tem alguém ali que entende a dor de quem está lendo. É o elemento mais difícil de replicar para a IA e o que mais diferencia um texto de um texto.
+Um texto com humanidade permite que a personalidade apareça. Mostra que tem alguém ali que interpreta a dor de quem está lendo. É o elemento mais difícil de replicar para a IA e o que mais diferencia um texto de um texto.
 
 ## Os três filtros do editor
 

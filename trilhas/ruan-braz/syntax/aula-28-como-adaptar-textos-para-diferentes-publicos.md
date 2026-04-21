@@ -1,4 +1,4 @@
-Cálculo interno: [4 blocos] / [19 parágrafos totais] / [850 palavras estimadas] / [850 ÷ 200 = 4 minutos]
+[4 blocos] / [19 parágrafos totais] / [850 palavras estimadas] / [850 ÷ 200 = 4 minutos]
 
 # Como adaptar textos para diferentes públicos
 
@@ -28,7 +28,7 @@ A metáfora usada na aula é a lente fotográfica. A cena é a mesma, a mensagem
 
 ## Framework de quatro etapas
 
-**Etapa 1, diagnóstico:** antes de adaptar, entender. Quem é o leitor, o que ele já sabe, o que ele quer saber, quais são as suas objeções prováveis, qual é o contexto em que ele vai ler. Sem esse mapeamento, a adaptação é chute.
+**Etapa 1, diagnóstico:** antes de adaptar, interpretar. Quem é o leitor, o que ele já sabe, o que ele quer saber, quais são as suas objeções prováveis, qual é o contexto em que ele vai ler. Sem esse mapeamento, a adaptação é chute.
 
 **Etapa 2, temperatura:** definir o ponto na escala frio, neutro, quente. Frio é formal, técnico, impessoal. Quente é próximo, coloquial, emocional. Neutro equilibra os dois. A temperatura errada para o público certo produz distância ou excesso de intimidade, e os dois afastam.
 
@@ -40,7 +40,7 @@ A metáfora usada na aula é a lente fotográfica. A cena é a mesma, a mensagem
 
 Com o diagnóstico feito, o prompt instrui a IA a adaptar o texto em uma das três dimensões ou nas três ao mesmo tempo. O resultado não é aceito como final: é tratado como rascunho de adaptação que passa pelo mesmo processo de edição descrito na aula anterior.
 
-A IA consegue gerar variações de adaptação rapidamente porque o ajuste de tom, vocabulário e estilo envolve padrões que ela processa bem. O que ela não consegue fazer sozinha é o diagnóstico do público, que depende de contexto real que o autor conhece e a IA não tem.
+A IA consegue gerar variações de adaptação rapidamente porque o ajuste de tom, vocabulário e estilo envolve padrões que ela processa bem. O que ela não consegue fazer sozinha é o diagnóstico do público, que depende de contexto real que o autor mapeia e a IA não tem.
 
 ## O erro de ego
 

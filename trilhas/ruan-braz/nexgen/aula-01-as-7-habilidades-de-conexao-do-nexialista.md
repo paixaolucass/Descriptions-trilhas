@@ -1,4 +1,4 @@
-Cálculo interno: [9 blocos] / [52 parágrafos totais] / [3300 palavras estimadas] / [3300 ÷ 200 = 17 minutos]
+[9 blocos] / [52 parágrafos totais] / [3300 palavras estimadas] / [3300 ÷ 200 = 17 minutos]
 
 # As 7 habilidades de conexão do nexialista
 
@@ -67,7 +67,7 @@ O professor cita o livro "12 Regras para a Vida", de Jordan Peterson, e uma pass
 
 Para que haja pensamento no sentido real, é preciso confrontar a própria ideia dentro da cabeça, questionar a si mesmo. Pensamento crítico não é só criticar o que todo mundo fala: é produzir um resultado, uma conclusão, uma decisão. É exatamente isso que falta na maioria das pessoas que "acham que estão pensando" mas na verdade estão apenas reagindo a pensamentos aleatórios que chegam na cabeça.
 
-Um detalhe fisiológico importante: pensar cansa. O pensamento real gasta glicose, que é energia. É por isso que a maioria das pessoas evita pensar de verdade. A resistência ao esforço cognitivo é literal e biológica. Saber isso é importante para entender por que é tão comum a preguiça de confrontar as próprias ideias.
+Um detalhe fisiológico importante: pensar cansa. O pensamento real gasta glicose, que é energia. É por isso que a maioria das pessoas evita pensar de verdade. A resistência ao esforço cognitivo é literal e biológica. Saber isso é importante para interpretar por que é tão comum a preguiça de confrontar as próprias ideias.
 
 Para quem quer ser nexialista, o pensamento crítico é essencial: sem ele, não é possível avaliar nada com qualidade, construir raciocínios sólidos ou tomar boas decisões sobre para onde conectar esforço e recursos.
 
@@ -91,11 +91,11 @@ Potencial de sinergia é a capacidade de colaborar com outras pessoas e organiza
 
 O professor usa a metáfora do jogador de xadrez: ele está em um plano diferente das peças, olha de cima e consegue planejar a execução com mais clareza. Mas o jogador de xadrez não consegue jogar sem as peças. A analogia serve para a visão estratégica elevada, mas na vida real o nexialista trabalha junto com as outras pessoas, não as controla.
 
-Um ponto importante: o professor escolheu chamar essa habilidade de "potencial de sinergia" e não de "liderança". Isso porque uma pessoa introvertida também pode desenvolver sinergia. Não é obrigatório assumir papel de líder para ter esse potencial. Nexialistas podem ser excelentes líderes, mas não precisam ser. O que importa é a capacidade de olhar os pontos fortes de todos, incluindo os próprios, e entender o "lugar de potência" de cada pessoa.
+Um ponto importante: o professor escolheu chamar essa habilidade de "potencial de sinergia" e não de "liderança". Isso porque uma pessoa introvertida também pode desenvolver sinergia. Não é obrigatório assumir papel de líder para ter esse potencial. Nexialistas podem ser excelentes líderes, mas não precisam ser. O que importa é a capacidade de olhar os pontos fortes de todos, incluindo os próprios, e interpretar o "lugar de potência" de cada pessoa.
 
 O professor conta uma história sobre Fred Gelli, fundador da Tatch Design, que estava correndo no Jardim Botânico, no Rio de Janeiro. Ele se aproximou de uma árvore enorme, colocou a mão nela e falou que essa árvore estava no seu lugar de potência. Depois foi até uma palmeira: também no seu lugar de potência. Depois até uma lagartinha: também. E fez uma reflexão: a natureza não questiona o lugar de potência. Todo animal nasce sabendo o seu papel. A lagarta sabe ser lagarta. O peixe sabe ser peixe. A árvore sabe ser árvore e contribui para o ecossistema sem tentar fazer o papel da lagarta. Existe um único animal que se perde no meio do caminho e não sabe o seu lugar de potência: o ser humano.
 
-Potencial de sinergia é entender o próprio lugar de potência, entender o lugar de potência das outras pessoas, e colaborar para realizar algo muito melhor do que qualquer um faria sozinho. Ninguém constrói nada grande sozinho.
+Potencial de sinergia é interpretar o próprio lugar de potência, interpretar o lugar de potência das outras pessoas, e colaborar para realizar algo muito melhor do que qualquer um faria sozinho. Ninguém constrói nada grande sozinho.
 
 ## Habilidade 6: Criatividade
 
@@ -105,7 +105,7 @@ Uma ideia muito comum é que a criatividade é exclusiva de artistas e profissio
 
 ## Habilidade 7: Self-target
 
-Self-target vem do inglês: self = a si mesmo, target = alvo. "Mirar em si mesmo." Se você não se conhece, não sabe seus pontos fortes, não sabe seus pontos fracos, não sabe seu lugar de potência, isso vai atrapalhar diretamente o potencial de sinergia. Mas o problema vai além disso: quem não se conhece não pode se desenvolver.
+Self-target vem do inglês: self = a si mesmo, target = alvo. "Mirar em si mesmo." Se você não se mapeia, não sabe seus pontos fortes, não sabe seus pontos fracos, não sabe seu lugar de potência, isso vai atrapalhar diretamente o potencial de sinergia. Mas o problema vai além disso: quem não se mapeia não pode se desenvolver.
 
 Autoconhecimento é uma das habilidades mais negligenciadas. O professor mostra um caderninho que escreveu em 2015, que chamou de "Meu Livro, Minha Marca". Nele, escreveu como se enxergava, perguntou para outras pessoas como elas o enxergavam, e listou suas fraquezas e pontos a melhorar. Dois que ele cita: comunicação e concentração. Ao longo dos anos, trabalhou para desenvolver esses dois pontos.
 

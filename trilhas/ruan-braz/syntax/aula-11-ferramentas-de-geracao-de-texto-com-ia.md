@@ -1,4 +1,4 @@
-Cálculo interno: [6 blocos] / [30 parágrafos totais] / [1400 palavras estimadas] / [1400 ÷ 200 = 7 minutos]
+[6 blocos] / [30 parágrafos totais] / [1400 palavras estimadas] / [1400 ÷ 200 = 7 minutos]
 
 # Ferramentas de geração de texto com IA
 
@@ -40,7 +40,7 @@ A partir daqui, a aula apresenta ferramentas que usam os modelos das cinco princ
 
 ## Ferramentas para escritores
 
-**SudoWrite** é apresentado como a ferramenta mais diferente da lista, e a que mais surpreendeu o professor quando a conheceu. A proposta não é campanha, é a arte da escrita. O SudoWrite organiza capítulos, mantém bibliotecas de referências e citações, ajuda a controlar o ritmo do texto, acelerando ou desacelerando conforme necessário, e colabora com o escritor em tempo real enquanto o texto é construído. Para quem quer escrever um livro, um artigo longo ou qualquer obra com estrutura complexa, é uma ferramenta que muda o fluxo de trabalho.
+**SudoWrite** é apresentado como a ferramenta mais diferente da lista, e a que mais surpreendeu o professor quando a mapeou. A proposta não é campanha, é a arte da escrita. O SudoWrite organiza capítulos, mantém bibliotecas de referências e citações, ajuda a controlar o ritmo do texto, acelerando ou desacelerando conforme necessário, e colabora com o escritor em tempo real enquanto o texto é construído. Para quem quer escrever um livro, um artigo longo ou qualquer obra com estrutura complexa, é uma ferramenta que muda o fluxo de trabalho.
 
 **Novel Crafter** tem uma proposta similar ao SudoWrite, com algumas diferenças de interface e estrutura. Inclui recursos como character sheets, fichas detalhadas de personagens salvas para consulta durante a escrita, timeline e organização por capítulos. Tem uma área de planejamento, escrita, chat com a IA e revisão, tudo dentro da mesma plataforma. É especialmente indicado para quem trabalha com narrativas longas e personagens recorrentes.
 

@@ -1,4 +1,4 @@
-Cálculo interno: [3 blocos] / [14 parágrafos totais] / [600 palavras estimadas] / [600 ÷ 200 = 3 minutos]
+[3 blocos] / [14 parágrafos totais] / [600 palavras estimadas] / [600 ÷ 200 = 3 minutos]
 
 # Conclusão da persona
 
@@ -30,7 +30,7 @@ O professor menciona que Claude Code, Codex e Gemini Code são caminhos viáveis
 
 Uma advertência direta encerra a aula: as ferramentas mudam rápido. O que foi demonstrado no curso pode ter evoluído significativamente quando o aluno estiver assistindo. O HeyGen pode ter novos recursos. O Runway pode ter mudado de interface. O Character.ai pode ter sido atualizado.
 
-O que não muda é o princípio: persona bem documentada produz agente sintético coerente. Ferramenta muda. Método de construção de persona permanece. Quem entendeu como montar a ficha, preencher o mapa de empatia e estruturar as instruções vai conseguir usar qualquer ferramenta nova que surgir porque entende o que ela precisa receber para funcionar.
+O que não muda é o princípio: persona bem documentada produz agente sintético coerente. Ferramenta muda. Método de construção de persona permanece. Quem interpretou como montar a ficha, preencher o mapa de empatia e estruturar as instruções vai conseguir usar qualquer ferramenta nova que surgir porque interpreta o que ela precisa receber para funcionar.
 
 ## Recapitulação das ferramentas
 

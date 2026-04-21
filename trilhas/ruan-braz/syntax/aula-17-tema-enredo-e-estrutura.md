@@ -1,4 +1,4 @@
-Cálculo interno: [5 blocos] / [25 parágrafos totais] / [1100 palavras estimadas] / [1100 ÷ 200 = 6 minutos]
+[5 blocos] / [25 parágrafos totais] / [1100 palavras estimadas] / [1100 ÷ 200 = 6 minutos]
 
 # Tema, enredo e estrutura
 
@@ -16,7 +16,7 @@ Ao final desta aula, você será capaz de:
 
 A aula começa com uma pergunta: por que tantas histórias começam com potencial e acabam fazendo o leitor se perguntar "e daí?"
 
-A resposta está em três confusões recorrentes: assunto com tema, sequência com enredo, e ordem com estrutura. Parecem apenas diferenças de nomenclatura, mas cada uma delas tem consequências diretas. Sem uma fundação clara, a narrativa fica dispersa e as pessoas saem sem entender o que deveriam ter sentido.
+A resposta está em três confusões recorrentes: assunto com tema, sequência com enredo, e ordem com estrutura. Parecem apenas diferenças de nomenclatura, mas cada uma delas tem consequências diretas. Sem uma fundação clara, a narrativa fica dispersa e as pessoas saem sem interpretar o que deveriam ter sentido.
 
 Qualquer narrativa, um post de LinkedIn, um manifesto, um case de branding, precisa de três pilares para ficar de pé.
 
@@ -44,7 +44,7 @@ Um ponto crítico: o prompt de estrutura exige que o tema e o enredo já estejam
 
 ## O erro mais comum: começar pela estrutura
 
-O maior problema das histórias ruins é que as pessoas decidem começar pela estrutura. Pensam: "quero escrever uma história com a Jornada do Herói." Mas sem saber qual é o tema, sem ter clareza sobre a verdade humana em jogo, sem entender qual é o grande desafio do protagonista, a história fica artificial.
+O maior problema das histórias ruins é que as pessoas decidem começar pela estrutura. Pensam: "quero escrever uma história com a Jornada do Herói." Mas sem saber qual é o tema, sem ter clareza sobre a verdade humana em jogo, sem interpretar qual é o grande desafio do protagonista, a história fica artificial.
 
 Começar pela estrutura sem tema é construir um prédio sem fundação. Você acaba obrigando a história a caber no molde. O resultado parece forçado. O tema vem sempre antes da estrutura.
 

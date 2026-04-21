@@ -1,4 +1,4 @@
-Cálculo interno: [2 blocos] / [8 parágrafos totais] / [350 palavras estimadas] / [350 ÷ 200 = 2 minutos]
+[2 blocos] / [8 parágrafos totais] / [350 palavras estimadas] / [350 ÷ 200 = 2 minutos]
 
 # Boas-vindas à Syntax
 

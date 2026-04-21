@@ -1,4 +1,4 @@
-Cálculo interno: [2 blocos] / [8 parágrafos totais] / [350 palavras estimadas] / [350 ÷ 200 = 2 minutos]
+[2 blocos] / [8 parágrafos totais] / [350 palavras estimadas] / [350 ÷ 200 = 2 minutos]
 
 # Exemplo de um trailer manifesto
 
@@ -21,7 +21,7 @@ Esse percurso, do manifesto escrito para o trailer visual, mostra como um texto 
 
 O trailer da Overlens 2025 é filosófico e provocativo. Trata de criação, tecnologia e liberdade. O tom não é de apresentação de produto: é de posicionamento de visão de mundo. Quem assiste ao trailer sem ter lido o manifesto não recebe informação, recebe uma sensação e uma pergunta.
 
-Esse efeito é o teste de um trailer manifesto bem construído: ele não explica, ele instiga. A explicação fica para o manifesto. O trailer existe para criar a tensão que vai levar quem assistiu a querer entender mais.
+Esse efeito é o teste de um trailer manifesto bem construído: ele não explica, ele instiga. A explicação fica para o manifesto. O trailer existe para criar a tensão que vai levar quem assistiu a querer interpretar mais.
 
 ## Coloque em prática
 

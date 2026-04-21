@@ -1,4 +1,4 @@
-Cálculo interno: [8 blocos] / [46 parágrafos totais] / [2500 palavras estimadas] / [2500 ÷ 200 = 13 minutos]
+[8 blocos] / [46 parágrafos totais] / [2500 palavras estimadas] / [2500 ÷ 200 = 13 minutos]
 
 # Análise profunda: como desenvolver o pensamento crítico
 
@@ -33,7 +33,7 @@ Três pilares estruturam a análise profunda. O primeiro é contextualizar as in
 
 O ceticismo que o professor defende não é o ceticismo extremo, aquele de não acreditar em nada. Quem é extremamente cético perde sutilezas e detalhes que emergem da disposição de buscar. O ceticismo ponderado, associado ao que Aristóteles chamava de justa medida, é não aceitar nada de imediato como verdade e decidir averiguar antes de concluir.
 
-O método científico começa com a observação: identificar um fenômeno ou problema. O professor cita Newton, que atribuía suas descobertas mais à observação atenta do que a genialidade matemática. O segundo passo é a pesquisa, que pode ser quantitativa, baseada em quantidade de dados para aumentar a validade estatística, ou qualitativa, baseada na profundidade das informações em contextos específicos. O professor conecta isso ao branding: onde uma marca é construída não são os pontos de contato, mas a mente das pessoas. Se a gestão de marca acontece na mente das pessoas, pesquisar significa entender o que está dentro das cabeças delas.
+O método científico começa com a observação: identificar um fenômeno ou problema. O professor cita Newton, que atribuía suas descobertas mais à observação atenta do que a genialidade matemática. O segundo passo é a pesquisa, que pode ser quantitativa, baseada em quantidade de dados para aumentar a validade estatística, ou qualitativa, baseada na profundidade das informações em contextos específicos. O professor conecta isso ao branding: onde uma marca é construída não são os pontos de contato, mas a mente das pessoas. Se a gestão de marca acontece na mente das pessoas, pesquisar significa interpretar o que está dentro das cabeças delas.
 
 O terceiro passo é a hipótese, que o professor define com precisão: uma explicação testável. É aqui que a ciência mora. Você formula uma hipótese quando a afirmação pode ser testada ou refutada. A seguir vem o experimento, depois a análise dos dados para verificar se suportam ou refutam a hipótese, e por último a conclusão, que pode gerar novas hipóteses. O professor indica que o ChatGPT pode ser usado para mapear metodologias científicas aplicáveis a projetos de design.
 
@@ -77,7 +77,7 @@ Falácias são erros que chegam de fora, em argumentos que outros constroem. Vie
 
 O professor encerra o conteúdo central voltando à estrutura de Aristóteles: ethos, pathos, logos. A ordem importa e não pode ser invertida. Ethos é a credibilidade da pessoa que fala. Pathos é como o interlocutor se sente em relação a ela. Logos é a razão e o argumento lógico. Você pode ter o argumento mais sólido do mundo. Se o ethos estiver destruído ou o pathos for negativo, o logos não chega a ser ouvido.
 
-Para o designer, isso tem implicação direta na apresentação de projetos. Antes de apresentar a lógica de uma decisão, é preciso que o cliente confie em quem está falando e se sinta bem no contexto da conversa. O ad hominem é justamente o ataque ao ethos. Quem entende essa estrutura deixa de ser apenas um executante e passa a ser alguém capaz de conduzir a percepção de valor do próprio trabalho.
+Para o designer, isso tem implicação direta na apresentação de projetos. Antes de apresentar a lógica de uma decisão, é preciso que o cliente confie em quem está falando e se sinta bem no contexto da conversa. O ad hominem é justamente o ataque ao ethos. Quem interpreta essa estrutura deixa de ser apenas um executante e passa a ser alguém capaz de conduzir a percepção de valor do próprio trabalho.
 
 ## Coloque em prática
 

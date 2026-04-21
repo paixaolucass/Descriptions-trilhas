@@ -1,4 +1,4 @@
-Cálculo interno: [5 blocos] / [25 parágrafos totais] / [1100 palavras estimadas] / [1100 ÷ 200 = 6 minutos]
+[5 blocos] / [25 parágrafos totais] / [1100 palavras estimadas] / [1100 ÷ 200 = 6 minutos]
 
 # Ferramentas de suporte: organização, pesquisa e coleta de referências
 
@@ -40,7 +40,7 @@ Ao final desta aula, você será capaz de:
 
 **Google Arts & Culture** é a ferramenta de suporte que o professor mais recomenda com entusiasmo. É o maior museu digital do mundo, mais de 14 mil artistas catalogados, com busca por artista, movimento artístico e timeline histórica. O professor revela que é uma das fontes de onde a Overlens tira repertório de arte para a produção.
 
-A conexão com texto é direta: texto é arte. Ampliar o repertório com arte de diferentes épocas e movimentos alimenta a escrita com referências que vão além do que circula nas redes sociais e nos conteúdos de marketing. Quem ainda não conhece o Google Arts & Culture tem o equivalente a um acesso gratuito ao maior museu do mundo.
+A conexão com texto é direta: texto é arte. Ampliar o repertório com arte de diferentes épocas e movimentos alimenta a escrita com referências que vão além do que circula nas redes sociais e nos conteúdos de marketing. Quem ainda não mapeia o Google Arts & Culture tem o equivalente a um acesso gratuito ao maior museu do mundo.
 
 ## Ferramentas para escritores de textos longos
 

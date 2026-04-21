@@ -1,4 +1,4 @@
-Cálculo interno: [6 blocos] / [28 parágrafos totais] / [1300 palavras estimadas] / [1300 ÷ 200 = 7 minutos]
+[6 blocos] / [28 parágrafos totais] / [1300 palavras estimadas] / [1300 ÷ 200 = 7 minutos]
 
 # Figuras de linguagem
 
@@ -16,7 +16,7 @@ Ao final desta aula, você será capaz de:
 
 Textos que realmente funcionam, um discurso histórico ou um anúncio da Apple, têm algo em comum: alteram a percepção de realidade sem alterar os fatos. Isso não é mágica, é engenharia. Essa engenharia tem um nome: figuras de linguagem.
 
-A aula não trata figuras de linguagem como lista escolar para decorar. As figuras são ferramentas que operam em três camadas na cabeça do leitor: o significado (o que ele entende), a intensidade (o que ele sente) e a memória (o que ele vai lembrar). O cérebro lê com base em previsão e padrões, e cada grupo de figuras atua em uma camada cognitiva diferente.
+A aula não trata figuras de linguagem como lista escolar para decorar. As figuras são ferramentas que operam em três camadas na cabeça do leitor: o significado (o que ele interpreta), a intensidade (o que ele sente) e a memória (o que ele vai lembrar). O cérebro lê com base em previsão e padrões, e cada grupo de figuras atua em uma camada cognitiva diferente.
 
 ## Grupo 1, Figuras de palavra: imaginabilidade
 
@@ -68,7 +68,7 @@ O framework para escolher com precisão:
 
 1. **Definir o efeito desejado:** tornar concreto → figuras de palavra; gerar tensão ou reflexão → figuras de pensamento; controlar ritmo e foco → figuras de sintaxe; fixar na memória → figuras de som.
 2. **Escolher uma figura específica:** não pedir à IA para "ser criativa", pedir que use "uma anáfora para dar mais ritmo ao meu texto."
-3. **Testar o impacto cognitivo:** a figura ajudou a entender mais rápido ou travou a leitura?
+3. **Testar o impacto cognitivo:** a figura ajudou a interpretar mais rápido ou travou a leitura?
 4. **Ajustar e cortar:** figuras são como tempero. A dose certa realça; o excesso estraga.
 
 ## Coloque em prática

@@ -1,4 +1,4 @@
-Cálculo interno: [5 blocos] / [22 parágrafos totais] / [1000 palavras estimadas] / [1000 ÷ 200 = 5 minutos]
+[5 blocos] / [22 parágrafos totais] / [1000 palavras estimadas] / [1000 ÷ 200 = 5 minutos]
 
 # Referências culturais
 
@@ -40,7 +40,7 @@ Referências também podem funcionar como filtro intencional de público. O livr
 
 Para decidir quando uma referência deve entrar ou sair de um texto, a aula apresenta o método HACK.
 
-**R, Relevância:** o público conhece essa referência? Ela é pertinente para esse público? Se não for, ela está servindo apenas para parecer mais intelectual. Corta. A exceção é quando o objetivo é ensinar sobre a referência em si.
+**R, Relevância:** o público mapeia essa referência? Ela é pertinente para esse público? Se não for, ela está servindo apenas para parecer mais intelectual. Corta. A exceção é quando o objetivo é ensinar sobre a referência em si.
 
 **A, Ação:** o que essa referência faz no texto? Ela compara, ilustra, sintetiza ou evidencia uma lógica específica? Se não executa nenhuma dessas funções, é ruído desnecessário. Corta também.
 

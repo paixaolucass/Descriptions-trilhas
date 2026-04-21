@@ -20,7 +20,7 @@ Vocabulário rico e específico posiciona essa coordenada com maior exatidão. V
 
 ## Repertório como diferencial
 
-A qualidade do prompt depende diretamente do repertório visual de quem escreve. Quem conhece estilos, técnicas, escolas artísticas, iluminações e referências tem muito mais controle sobre o que a ferramenta vai gerar.
+A qualidade do prompt depende diretamente do repertório visual de quem escreve. Quem domina estilos, técnicas, escolas artísticas, iluminações e referências tem muito mais controle sobre o que a ferramenta vai gerar.
 
 Desenvolver esse repertório é um processo contínuo. Desenhar, estudar referências visuais e analisar imagens treina a inteligência visual que alimenta prompts melhores.
 

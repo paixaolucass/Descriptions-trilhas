@@ -1,4 +1,4 @@
-Cálculo interno: [5 blocos] / [22 parágrafos totais] / [1000 palavras estimadas] / [1000 ÷ 200 = 5 minutos]
+[5 blocos] / [22 parágrafos totais] / [1000 palavras estimadas] / [1000 ÷ 200 = 5 minutos]
 
 # Quando usar cada tipo de texto em um projeto
 
@@ -26,9 +26,9 @@ Antes de escolher o tipo de texto, a aula apresenta três variáveis que determi
 
 **Estágio do processo:** a comunicação está gerando consciência, construindo credibilidade, ativando decisão ou mantendo relacionamento? Cada estágio pede um tipo diferente.
 
-**Tipo de ação esperada:** o leitor deve entender, sentir, decidir ou executar? A ação esperada define a estrutura interna do texto, não apenas o tom.
+**Tipo de ação esperada:** o leitor deve interpretar, sentir, decidir ou executar? A ação esperada define a estrutura interna do texto, não apenas o tom.
 
-**Nível de incerteza:** o leitor já sabe que tem o problema? Já conhece soluções? Já conhece a sua solução? Quanto mais ciente o leitor, mais direto pode ser o texto. Quanto menos ciente, mais contexto e narrativa são necessários.
+**Nível de incerteza:** o leitor já sabe que tem o problema? Já mapeia soluções? Já mapeia a sua solução? Quanto mais ciente o leitor, mais direto pode ser o texto. Quanto menos ciente, mais contexto e narrativa são necessários.
 
 ## Mapa de tipos por função
 

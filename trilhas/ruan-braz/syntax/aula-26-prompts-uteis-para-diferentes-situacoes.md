@@ -1,4 +1,4 @@
-Cálculo interno: [5 blocos] / [21 parágrafos totais] / [950 palavras estimadas] / [950 ÷ 200 = 5 minutos]
+[5 blocos] / [21 parágrafos totais] / [950 palavras estimadas] / [950 ÷ 200 = 5 minutos]
 
 # Prompts úteis para diferentes situações
 
@@ -36,7 +36,7 @@ O prompt instrui explicitamente: "Antes de responder, liste os pressupostos da a
 
 O terceiro tipo resolve o problema da voz genérica. A instrução pede que o mesmo conteúdo seja gerado em três registros distintos: analítico, manifesto e metafórico.
 
-A diferença entre os registros não é só de tom. O registro analítico organiza dados e conclui. O registro manifesto toma posição e convoca. O registro metafórico usa imagens para fazer o leitor sentir antes de entender. Gerar os três e comparar revela qual registro serve melhor à intenção do texto.
+A diferença entre os registros não é só de tom. O registro analítico organiza dados e conclui. O registro manifesto toma posição e convoca. O registro metafórico usa imagens para fazer o leitor sentir antes de interpretar. Gerar os três e comparar revela qual registro serve melhor à intenção do texto.
 
 ## Tipo 4: criatividade sobre restrição
 
@@ -48,7 +48,7 @@ Exemplos de restrição produtiva: "Escreva sem usar o verbo ser", "Explique em 
 
 O quinto tipo transforma a IA em editor de duas fases. Na primeira fase, o prompt instrui a IA a fazer uma revisão cega: identificar o que está fraco sem ainda sugerir correções. Na segunda fase, o prompt pede o diagnóstico editorial: explicar por que cada trecho falha e apresentar a versão corrigida.
 
-Separar as fases é importante. Quando o diagnóstico e a correção chegam juntos, o usuário aceita a sugestão sem entender o problema. Quando chegam separados, o usuário aprende a enxergar o problema e passa a corrigi-lo sozinho nas próximas versões.
+Separar as fases é importante. Quando o diagnóstico e a correção chegam juntos, o usuário aceita a sugestão sem interpretar o problema. Quando chegam separados, o usuário aprende a enxergar o problema e passa a corrigi-lo sozinho nas próximas versões.
 
 ## Tipo 6: audiência e teste
 

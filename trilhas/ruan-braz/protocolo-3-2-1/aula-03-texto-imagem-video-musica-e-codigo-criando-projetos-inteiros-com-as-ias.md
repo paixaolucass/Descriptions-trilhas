@@ -1,4 +1,4 @@
-Cálculo interno: [5 blocos] / [20 parágrafos totais] / [860 palavras estimadas] / [860 ÷ 200 = 5 minutos]
+[5 blocos] / [20 parágrafos totais] / [860 palavras estimadas] / [860 ÷ 200 = 5 minutos]
 
 # Texto, imagem, vídeo, música e código: criando projetos inteiros com as IAs
 
@@ -21,13 +21,13 @@ O processo é composto por quatro etapas e pode ser aplicado a qualquer tipo de 
 
 ## Fase 1: Descoberta
 
-Na fase de Descoberta, o objetivo é expandir o horizonte do projeto. Antes de criar, é preciso entender o que torna algo bom naquela área: quais são os fundamentos, as referências, as possibilidades. A IA pode ser usada desde esse primeiro passo para acelerar essa expansão.
+Na fase de Descoberta, o objetivo é expandir o horizonte do projeto. Antes de criar, é preciso interpretar o que torna algo bom naquela área: quais são os fundamentos, as referências, as possibilidades. A IA pode ser usada desde esse primeiro passo para acelerar essa expansão.
 
 Para ilustrar, o professor usa o exemplo de escrever um manifesto. O primeiro passo é abrir o ChatGPT e pedir que ele organize quais são os principais fatos, conceitos e procedimentos para escrever um manifesto. O professor também criou um projeto dentro do ChatGPT chamado "Manifesto da Overlens" para trabalhar de forma organizada. O resultado foi uma estrutura com fatos e funções de um manifesto, conceitos fundamentais e procedimentos da escrita, incluindo um passo a passo para executar o projeto. O professor nota que pesquisas que antes levavam dias para reunir as melhores abordagens de um projeto agora são feitas em minutos.
 
 Como alternativa, o professor apresenta o Perplexity: um hub de IAs que reúne os principais modelos de LLM em um só lugar. Na interface do Perplexity é possível escolher entre modelos como Sonar, Claude, Gemini, GPT-5, O3 e Grok para enviar o mesmo prompt e obter a busca a partir de diferentes fontes e modelos.
 
-Depois de entender os fundamentos, a segunda parte da Descoberta é reunir referências. Para um manifesto, isso significa criar um swipe file com manifestos parecidos. Para uma imagem ou vídeo, um mood board. Para uma música, uma playlist. Para um aplicativo, uma lista de referências de aplicativos que inspiram. O professor demonstra pedindo ao ChatGPT que busque manifestos relacionados a futurismo, design e criação. O resultado incluiu o Manifesto Futurista e outras referências que podem servir de base. O objetivo não é copiar essas referências, mas entender como pessoas que fizeram bem o que você quer fazer abordaram o problema.
+Depois de interpretar os fundamentos, a segunda parte da Descoberta é reunir referências. Para um manifesto, isso significa criar um swipe file com manifestos parecidos. Para uma imagem ou vídeo, um mood board. Para uma música, uma playlist. Para um aplicativo, uma lista de referências de aplicativos que inspiram. O professor demonstra pedindo ao ChatGPT que busque manifestos relacionados a futurismo, design e criação. O resultado incluiu o Manifesto Futurista e outras referências que podem servir de base. O objetivo não é copiar essas referências, mas interpretar como pessoas que fizeram bem o que você quer fazer abordaram o problema.
 
 ## Fase 2: Definição
 

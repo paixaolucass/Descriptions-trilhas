@@ -1,4 +1,4 @@
-Cálculo interno: [6 blocos] / [18 parágrafos totais] / [890 palavras estimadas] / [890 ÷ 200 = 5 minutos]
+[6 blocos] / [18 parágrafos totais] / [890 palavras estimadas] / [890 ÷ 200 = 5 minutos]
 
 # Recuperando o tempo e economizando muito dinheiro com as IAs
 
@@ -57,7 +57,7 @@ A plataforma conta com uma galeria de projetos criados pela comunidade, organiza
 
 ## Coloque em prática
 
-Acesse uma das ferramentas apresentadas nesta aula que ainda não conhece.
+Acesse uma das ferramentas apresentadas nesta aula que ainda não mapeia.
 
 Explore a interface por conta própria antes de buscar tutoriais.
 

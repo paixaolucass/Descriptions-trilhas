@@ -1,4 +1,4 @@
-Cálculo interno: [4 blocos] / [18 parágrafos totais] / [800 palavras estimadas] / [800 ÷ 200 = 4 minutos]
+[4 blocos] / [18 parágrafos totais] / [800 palavras estimadas] / [800 ÷ 200 = 4 minutos]
 
 # Criando microtextos
 
@@ -20,7 +20,7 @@ Na prática, microtexto aparece em chamadas de botão, legendas de post, headlin
 
 ## Os quatro pilares
 
-**Pilar 1, quebra de expectativa:** o leitor processa automaticamente os padrões que já conhece. Quando o texto entrega o esperado, o cérebro não registra. A quebra de expectativa força o processamento consciente. Não é sobre ser criativo por ser, é sobre não ser previsível onde o previsível seria ignorado.
+**Pilar 1, quebra de expectativa:** o leitor processa automaticamente os padrões que já mapeia. Quando o texto entrega o esperado, o cérebro não registra. A quebra de expectativa força o processamento consciente. Não é sobre ser criativo por ser, é sobre não ser previsível onde o previsível seria ignorado.
 
 **Pilar 2, atenção direcionada:** o princípio é a aversão à perda. O cérebro responde com mais intensidade ao que pode perder do que ao que pode ganhar. Microtextos eficientes usam esse princípio para direcionar a atenção: em vez de descrever o que o leitor ganha, descrevem o que o leitor deixa de ter enquanto não age.
 

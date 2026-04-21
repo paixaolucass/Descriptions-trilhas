@@ -1,4 +1,4 @@
-Cálculo interno: [4 blocos] / [22 parágrafos totais] / [950 palavras estimadas] / [950 ÷ 200 = 5 minutos]
+[4 blocos] / [22 parágrafos totais] / [950 palavras estimadas] / [950 ÷ 200 = 5 minutos]
 
 # Ética, autoria e uso responsável de IA em textos
 
@@ -14,7 +14,7 @@ Ao final desta aula, você será capaz de:
 
 ## O texto tem poder
 
-A aula abre com uma afirmação direta: ética significa entender que suas ações têm consequências no mundo e na vida de outras pessoas. O professor reconhece que pode parecer exagerado conectar ética à produção de textos, mas é exatamente esse raciocínio que a aula questiona.
+A aula abre com uma afirmação direta: ética significa interpretar que suas ações têm consequências no mundo e na vida de outras pessoas. O professor reconhece que pode parecer exagerado conectar ética à produção de textos, mas é exatamente esse raciocínio que a aula questiona.
 
 Um texto tem poder imenso para mudar nações inteiras. Bons textos podem edificar pessoas e guiá-las para conquistas reais. Textos ruins podem destruir vidas, enganar, desorientar. E com ferramentas de IA que permitem gerar conteúdo convincente em velocidade nunca vista, a responsabilidade de quem escreve aumenta, não diminui.
 
