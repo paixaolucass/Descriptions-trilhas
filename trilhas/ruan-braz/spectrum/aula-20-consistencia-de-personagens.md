@@ -1,36 +1,36 @@
-Cálculo interno: 5 blocos / 15 parágrafos totais / 280 palavras estimadas / 280 ÷ 200 = 1 minuto
+Cálculo interno: 38 blocos / 8 parágrafos / 400 palavras estimadas / 400 ÷ 200 = 2 minutos
 
 # Consistência de personagens
 
-**Tempo estimado de leitura:** 1 minuto
+**Tempo estimado de leitura:** 2 minutos
 
 ## Objetivos de aprendizado
 
 Ao final desta aula, você será capaz de:
 
-- Aplicar o fluxo de mood board, seed e referências para gerar personagens com consistência visual entre imagens
-- Identificar por que a qualidade das referências afeta diretamente a precisão da geração
-- Executar variações de pose e cenário mantendo identidade visual coerente do personagem
+- Aplicar o fluxo de mood board com seed no Mid-Journey para gerar ilustrações com consistência visual
+- Reconhecer por que a qualidade das referências impacta diretamente a precisão da geração
+- Executar o processo de derivação de imagens a partir de uma base de referências consolidada
 
-## O desafio da consistência
+## O processo de ilustração segue o mesmo princípio das capas
 
-Gerar o mesmo personagem com aparência coerente entre imagens diferentes é um dos problemas centrais da produção com IA. Sem um método, cada geração produz variações que inviabilizam uso em narrativas, campanhas ou séries de conteúdo. A Overlens resolve isso com um fluxo estruturado que combina mood board, seed e referências de qualidade.
+A aula mostra que o processo de trabalho com ilustrações na Overlens segue uma lógica semelhante ao processo de capas: mood board, variações e seleção. A diferença está na especificidade do conteúdo e na forma como as referências são usadas no Mid-Journey.
 
-## O fluxo da Overlens para consistência de personagens
+O ponto de partida é o mood board. Depois que ele está construído, a Thaís posiciona as imagens de referência diretamente no mood do Mid-Journey. Isso gera um seed: um número que representa o ponto de partida daquela geração específica. E esse seed é o que garante que todas as imagens geradas a partir dali vão ter coerência visual entre si, preservando atmosfera, estilo e paleta.
 
-A aula mostra o processo completo: montar um mood board com referências de aparência, estilo, expressão e paleta para o personagem; gerar imagens iniciais e identificar qual resultado se aproxima mais do desejado; recuperar a seed da geração aprovada e usá-la como âncora para as próximas iterações; e variar o prompt apenas nos elementos que precisam mudar, como pose, cenário e expressão, mantendo a seed e os descritores de aparência fixos.
+## Usando o seed como âncora de consistência
 
-## A importância da qualidade das referências
+A informação prática mais importante da aula é esta: qualquer pessoa que pegar esse mesmo seed e usá-lo no Mid-Journey vai gerar imagens iguais às que formaram o mood board original. O seed é reproduzível. Isso significa que você pode compartilhar um processo visual com um colega ou com um cliente passando apenas o número do seed e as referências usadas.
 
-Referências de baixa resolução ou com características visuais imprecisas produzem resultados inconsistentes. A IA aprende os padrões do que recebe. Selecionar referências com cuidado, em alta resolução e com características visuais claras, melhora diretamente a precisão e a consistência da geração. Imagens do próprio personagem já geradas anteriormente são as melhores referências para as próximas gerações.
+O processo na prática: pesquisa, coleta de referências com coerência, construção de universo visual, e só então geração. Quando esse trabalho de preparação é feito direito, a geração fica muito mais precisa. Você chega exatamente onde quer, sem dificuldade, com tranquilidade.
 
-## Usando o Freepik Space para consistência
+## Cuidado com a qualidade das referências
 
-A aula mostra como o Freepik Space permite conectar múltiplas referências em um fluxo visual, derivar variações do mesmo personagem e trocar de modelo de IA sem perder a referência. A Overlens usa o Seedream extensamente para esse tipo de trabalho pela consistência que ele produz entre gerações.
+Uma referência de baixa qualidade, mal fotografada, com sombra ruim, resolução baixa, vai ser replicada pela IA. Se você sobe uma imagem com problemas, o modelo tende a incorporar esses mesmos problemas no resultado. Para geração de ilustrações com consistência, as referências precisam ser de qualidade, com características visuais claras.
 
 ## Coloque em prática
 
-Crie um personagem usando o fluxo descrito: mood board, geração inicial, seed, variações. Gere pelo menos três imagens em poses diferentes mantendo a consistência visual. Compare esse resultado com uma geração sem seed e sem referências.
+Monte um mood board de ilustração com pelo menos dez referências que compartilhem uma atmosfera visual coerente. Posicione-as no Mid-Journey, gere a partir delas e anote o seed da geração que mais se aproximou do que você queria. Use esse seed em pelo menos duas gerações adicionais com variações de prompt e observe o quanto a consistência visual se mantém.
 
 ---
 

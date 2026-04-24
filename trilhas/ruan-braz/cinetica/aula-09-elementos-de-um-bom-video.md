@@ -1,6 +1,6 @@
 Cálculo interno: [7 blocos] / [26 parágrafos totais] / [1780 palavras estimadas] / [1780 ÷ 200 = 9 minutos]
 
-ATENÇÃO EDITORIAL: O arquivo SRT da aula 9 contém a transcrição da aula 8 (Tipos de vídeos). O conteúdo abaixo foi extraído do SRT disponível. Solicitar nova transcrição do vídeo original da aula 9 antes de publicar.
+> **ALERTA EDITORIAL:** O SRT da aula 9 contém a transcrição da aula 8 (Tipos de vídeos com IA). O conteúdo abaixo foi extraído do SRT disponível e adaptado para o tema desta aula. **Substituir pela transcrição correta do vídeo original da aula 9 antes de publicar.**
 
 # Elementos de um bom vídeo
 
