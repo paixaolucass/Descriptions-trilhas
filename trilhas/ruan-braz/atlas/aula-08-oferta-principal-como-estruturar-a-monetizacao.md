@@ -1,8 +1,8 @@
-Cálculo interno: 12 blocos / 38 parágrafos totais / 4400 palavras estimadas / 4400 ÷ 200 = 22 minutos
+Cálculo interno: 9 blocos / 30 parágrafos totais / 4000 palavras estimadas / 4000 ÷ 200 = 20 minutos
 
 # Oferta Principal: Como Estruturar a Monetização
 
-**Tempo estimado de leitura:** 22 minutos
+**Tempo estimado de leitura:** 20 minutos
 
 ## Objetivos de aprendizado
 
@@ -85,14 +85,6 @@ Os add-ons surgem organicamente ao longo dessa jornada. À medida que o cliente 
 
 ---
 
-## Diversificação de portfólio de serviços
-
-Ruan explica que o que está sendo construído aqui vai muito além de uma simples tabela de preços. Trata-se de uma estratégia de diversificação de portfólio de serviços, em que cada camada de produto alimenta a próxima dentro de um fluxo coerente. Quando um estúdio tem diversificação de portfólio bem estruturada, ele não depende de um único tipo de serviço sendo vendido para sobreviver. As diferentes fontes de receita operam em paralelo, o que torna o negócio mais resiliente a variações sazonais ou a mudanças no comportamento de compra dos clientes.
-
-Essa estratégia também resolve um problema clássico de agências e estúdios criativos: a receita imprevisível todo mês. Quando o único serviço oferecido é um projeto pontual, o estúdio precisa prospectar do zero a cada mês para recompor o faturamento. Com um portfólio estruturado em três camadas, parte do faturamento já está garantida pelos clientes em andamento, e o esforço de prospecção serve para alimentar o topo do funil com novos clientes que serão desenvolvidos ao longo do tempo.
-
----
-
 ## Perfil ideal de cliente: quem paga isso?
 
 Com a estrutura de oferta definida, a pergunta seguinte é: quem são as pessoas que topam pagar R$5.000 pelo serviço de entrada e R$25.000 pelo serviço premium? Ruan aponta que essa pergunta só pode ser respondida com precisão depois que o escopo de soluções está claro. Não é possível definir o cliente ideal sem antes saber exatamente o que será entregue. Por isso, o exercício de definição do Perfil Ideal de Cliente (ICP) vem em sequência direta à construção do portfólio.
@@ -118,16 +110,6 @@ O serviço de entrada, na arquitetura proposta, deve ser aquele que entrega ao c
 Aqui está a lógica que sustenta o tíquete de R$5.000: o cliente recebe clareza operacional, documentação de posicionamento e um sistema de produção pronto para ser ativado. É algo percebido como muito mais valioso do que o tempo gasto para criar justifica, especialmente porque, depois que o fundador monta sua própria estrutura-base, a personalização para cada novo cliente demanda uma fração do tempo que levou a primeira vez.
 
 O serviço premium vai mais fundo: inclui todo o livro de Growth, a documentação completa de marketing, personas detalhadas, processos de governança e uma estrutura de orquestração de equipe alinhada com os objetivos do negócio do cliente. Dependendo do escopo, esse serviço pode ser executado ao longo de seis meses, com um investimento de R$60.000 ou mais, variando conforme o tamanho da empresa e a profundidade do trabalho envolvido.
-
----
-
-## Cadência de crescimento e fluxo de entrega
-
-Ruan projeta visualmente o crescimento da carteira de clientes ao longo dos três primeiros meses de operação. No primeiro mês, quatro clientes novos. No segundo mês, mais quatro clientes novos. No terceiro mês, mais quatro. Ao final do trimestre, o estúdio está com doze clientes ativos, sendo que alguns já estão em processo de upsell para o serviço premium.
-
-Essa cadência exige um fluxo de entrega bem definido. O fundador precisa dividir seu tempo entre atender os clientes novos que estão iniciando o serviço de entrada e os clientes mais antigos que estão em fase de upsell ou de entregas complementares. Sem esse fluxo desenhado, a operação fica sobrecarregada e o fundador volta a ser o gargalo que estava tentando evitar.
-
-O papel do SDR ou do executivo de vendas é fundamental aqui: enquanto a equipe de vendas trabalha para fechar os quatro novos clientes do mês, o fundador pode se concentrar na qualidade da entrega e no aprofundamento do relacionamento com os clientes em andamento. Esse é o modelo que permite crescer sem sacrificar a reputação ou a vida pessoal.
 
 ---
 

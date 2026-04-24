@@ -1,8 +1,8 @@
-Cálculo interno: 9 blocos / 38 parágrafos totais / 4500 palavras estimadas / 4500 ÷ 200 = 22 minutos
+Cálculo interno: 7 blocos / 30 parágrafos totais / 4000 palavras estimadas / 4000 ÷ 200 = 20 minutos
 
 # Contexto de Mercado e Futuro da Economia Criativa
 
-**Tempo estimado de leitura:** 22 minutos
+**Tempo estimado de leitura:** 20 minutos
 
 ## Objetivos de aprendizado
 
@@ -141,20 +141,6 @@ O conceito que Ruan nomeia para sintetizar esse posicionamento é o de criadores
 
 ---
 
-## Para onde o negócio não vai: modelos em declínio
-
-Antes de escolher o mercado e o modelo de negócio, Ruan faz o exercício oposto: definir onde não vai. Essa é uma decisão tão estratégica quanto escolher onde entrar.
-
-O modelo de pirâmide de execução está em declínio. Agências, estúdios e escritórios de criação que ainda operam com estagiários fazendo o trabalho chato enquanto a diretoria faz a parte legal vão ter cada vez mais dificuldade de justificar o preço cobrado, porque a IA executa a base mais rápido, mais barato e sem os erros típicos de pessoas em início de carreira.
-
-Os modelos baseados em volume sem estratégia também estão em declínio. Vender muitas peças, muitos posts, muitos vídeos sem nenhum sistema de identidade verbal e posicionamento é o caminho mais rápido para queimar a reputação do cliente e perder o contrato.
-
-Os modelos baseados em dependência de ferramentas específicas, em que o diferencial do profissional é dominar um software e não um processo de pensamento, são os mais vulneráveis. As ferramentas mudam. Os princípios e a capacidade de raciocínio estratégico permanecem.
-
-A direção que a aula aponta para o estúdio de criação que vai durar além de 2026 é a seguinte: focar em infraestrutura, documentação, processos replicáveis e habilidades nexialistas. Nexialismo é o conceito central da Overlens para nomear a capacidade de conectar diferentes campos de conhecimento, usar ferramentas sem ser dependente delas e transformar ideias em realidades concretas.
-
----
-
 ## A tese de mercado: criadores silenciosos e infraestrutura
 
 A tese de mercado construída ao longo desta aula pode ser resumida em dois eixos.
@@ -175,11 +161,7 @@ Com base na estrutura de análise apresentada nesta aula, execute os seguintes p
 
 - **Faça o diagnóstico das suas tarefas.** Liste todas as tarefas que você executa regularmente no seu trabalho. Separe as que são repetitivas e operacionais das que exigem julgamento, curadoria ou criação estratégica. Calcule a proporção: pelo menos 22% das suas tarefas repetitivas já estão sendo delegadas para tecnologia?
 
-- **Identifique um caso de uso de IA mal feita no seu mercado.** Procure exemplos reais de conteúdo, campanhas ou materiais gerados com IA de forma amadora no segmento em que você quer atuar. Documente o que está errado e como você faria diferente.
-
 - **Escreva sua primeira versão das primeiras inferências.** Usando o modelo da aula, anote: qual é a resposta invisível que o mercado está fazendo (infraestrutura), quais são os dois maiores riscos que você observa, e qual é o diferencial que você pode oferecer com base nos dados analisados.
-
-- **Defina para onde você não vai.** Antes de escolher seu nicho, liste os modelos de negócio que você descarta e explique o motivo de cada descarte com base nos dados analisados, não em opinião pessoal.
 
 Esse conjunto de exercícios constitui a primeira camada do contexto de mercado que vai alimentar todas as decisões estratégicas do seu estúdio nas próximas aulas.
 

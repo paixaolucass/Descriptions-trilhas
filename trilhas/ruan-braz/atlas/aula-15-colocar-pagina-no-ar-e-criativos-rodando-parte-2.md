@@ -1,8 +1,8 @@
-Cálculo interno: 9 blocos / 52 parágrafos totais / 4500 palavras estimadas / 4500 ÷ 200 = 22,5 minutos
+Cálculo interno: 7 blocos / 40 parágrafos totais / 4000 palavras estimadas / 4000 ÷ 200 = 20 minutos
 
 # Colocar Página no Ar e Criativos Rodando - Parte 2
 
-**Tempo estimado de leitura:** 23 minutos
+**Tempo estimado de leitura:** 20 minutos
 
 ## Objetivos de aprendizado
 
@@ -148,35 +148,11 @@ Ruan deixa claro que não faz sentido construir esse fluxo completo antes de val
 
 ---
 
-## O playbook comercial como próxima fronteira
-
-Ruan mostra brevemente o playbook de operação comercial da Overlens, que é o documento que treina os executivos de vendas da empresa. Ele não entra nos detalhes do documento nessa aula, mas o exibe para demonstrar o nível de sistematização que é possível alcançar depois que o negócio está validado.
-
-O playbook inclui fluxos de cadência completos com todas as mensagens já escritas, tabelas de objeções comuns com respostas preparadas, e roteiros de call para diferentes perfis de lead. Esse é o nível profissional, mas ele só faz sentido ser construído depois que o empreendedor já sabe que o negócio funciona, que a oferta converte e que existe um padrão de comportamento nos leads.
-
-A mensagem central dessa seção é uma inversão da ordem comum: a maioria das pessoas tenta construir o processo antes de ter a demanda. O caminho correto é gerar demanda primeiro, com o processo mínimo necessário, e construir o processo refinado a partir dos dados que a demanda real produz.
-
-Isso também explica por que a planilha no Google Sheets, aparentemente simples demais, é a ferramenta certa para esse momento. Ela é o papelão do processo comercial. Quando o negócio estiver validado e os primeiros contratos estiverem fechados, aí faz sentido migrar para um CRM com integração de WhatsApp, automações e score de leads.
-
----
-
-## O anúncio como robô trabalhando
-
-Uma das metáforas mais marcantes da aula é a de o anúncio ser um robô trabalhando enquanto o dono do negócio está fazendo outra coisa. Ao longo de toda a sessão, o anúncio seguia rodando e acumulando cliques. Em um determinado momento, o contador passou de 8 para 13 cliques apenas durante o tempo da aula.
-
-Essa imagem serve para reforçar o argumento da alavancagem. Um anúncio bem configurado é o primeiro funcionário automatizado do negócio. Ele não dorme, não tem agenda e não exige remuneração por hora trabalhada. Ele simplesmente procura pessoas com o perfil definido e apresenta a mensagem para elas, gerando uma fila de potenciais clientes que o time comercial pode atender.
-
-Ruan diferencia aqui o papel do Instagram orgânico do papel de um anúncio. O Instagram serve para construir narrativas, desenvolver audiência ao longo do tempo e fortalecer autoridade. O anúncio serve para gerar demanda imediata e previsível. São funções distintas e não precisam ser confundidas. Inclusive, é possível ter resultado com anúncios mesmo com um perfil que ninguém segue.
-
----
-
 ## Coloque em prática
 
-- Acesse o gerenciador de anúncios do Meta e verifique os dados do seu anúncio atual: CTR, custo por clique, impressões e alcance. Se ainda não tem anúncio rodando, configure um criativo simples com a promessa central da sua oferta e coloque-o para rodar com orçamento mínimo.
-- Calcule a previsibilidade do seu anúncio: divida o orçamento total planejado pelo custo atual por clique e estime quantos cliques você pode gerar. Use esse número para planejar quantos leads precisará atender.
-- Crie uma planilha no Google Sheets com as colunas de nome, e-mail, WhatsApp, origem, destino e estágio do lead. Registre cada lead que chegar, independentemente da origem.
-- Defina sua cadência de contato: qual é a sequência de ações para cada lead novo? Escolha se começa com ligação ou mensagem, defina os dias de follow-up e escreva pelo menos a primeira mensagem de abertura.
-- Se você ainda não tem dez criativos rodando, crie ao menos três variações do seu anúncio atual com diferentes destinos (formulário, WhatsApp e diagnóstico) para começar a coletar dados comparativos.
+- Verifique os dados do seu anúncio: CTR, custo por clique e alcance. Divida o orçamento total pelo custo por clique para estimar o volume de leads possível. Use esse número para planejar quantos contatos precisará fazer.
+- Crie uma planilha no Google Sheets com as colunas de nome, WhatsApp, origem, destino e estágio. Registre cada lead que chegar e defina a cadência de contato: ligação, follow-up D+1, D+2, D+5 e D+6.
+- Crie ao menos três variações de criativo com destinos diferentes (formulário, WhatsApp e diagnóstico) para coletar dados comparativos de conversão por rota.
 
 ---
 

@@ -1,8 +1,8 @@
-Cálculo interno: 12 blocos / 92 parágrafos totais / 4520 palavras estimadas / 4520 ÷ 200 = 22,6 minutos
+Cálculo interno: 9 blocos / 68 parágrafos totais / 4000 palavras estimadas / 4000 ÷ 200 = 20 minutos
 
 # Colocar Página no Ar e Criativos Rodando - Parte 1
 
-**Tempo estimado de leitura:** 23 minutos
+**Tempo estimado de leitura:** 20 minutos
 
 ## Objetivos de aprendizado
 
@@ -75,21 +75,6 @@ A meta nesta fase é gerar entre 5 e 10 criativos para começar os testes. Você
 
 Ruan deixa claro que usar referências visuais de campanhas de outras marcas não é copiar. É o mesmo processo que qualquer designer faz quando pesquisa referências no Behance ou no Pinterest antes de criar. A diferença é que, aqui, você usa a IA para gerar uma variação a partir dessas referências, e não para reproduzir a imagem original.
 
-## O plano de mídia gerado por IA
-
-Antes de partir para a configuração do anúncio, Ruan mostra um passo adicional que ajuda a estruturar o pensamento estratégico: pedir ao ChatGPT um plano de mídia com base nos documentos de tese de valor e perfil de cliente ideal.
-
-O prompt enviado ao ChatGPT inclui os dois documentos (exportados do Notion em formato Markdown) e solicita um relatório com os principais canais recomendados, o motivo de cada escolha, a estratégia de go-to-market e a melhor abordagem de relacionamento.
-
-O ChatGPT entrega um relatório estruturado. Ele não leva em conta a metodologia de MVP que está sendo usada neste workshop, mas ainda assim traz insights valiosos. Alguns pontos relevantes do relatório:
-
-- O objetivo central não é volume de leads, mas qualidade. O perfil de cliente ideal do estúdio de criação do futuro já consome conteúdo estratégico, investe em marketing e valoriza reputação. Atrair leads desqualificados em volume seria ineficiente para um serviço de ticket mais alto.
-- O LinkedIn aparece como canal primário de crescimento, mas é descartado para a fase de MVP. Ele exige mais passos de configuração e é mais adequado para quem já tem oferta validada e quer construir autoridade de médio prazo.
-- O Instagram aparece como canal de amplificação, que é exatamente o caminho que esta aula percorre.
-- Conteúdo orgânico aparece como canal de relacionamento de longo prazo, mas não é recomendado para quem está em fase de validação. Resultados orgânicos consistentes levam entre 30 dias e 6 meses para aparecer. Na fase zero, você precisa de dados rápidos.
-
-A conclusão prática é: o plano de mídia não substitui a ação, mas dá direção. Se o primeiro canal não funcionar, você tem um mapa para o próximo.
-
 ## Os três funis de validação pelo Instagram
 
 A aula apresenta três destinos possíveis para o anúncio no Instagram, cada um com uma lógica de funil diferente:
@@ -156,22 +141,11 @@ A parte final desta aula apresenta o mapa de alocação estratégica de esforço
 
 Essas três camadas formam um ecossistema de receita que fica mais robusto com o tempo. No início, quase todo o esforço vai para os 80%. Com o tempo, você vai construindo os ativos que sustentam os outros 20%.
 
-## O papel da orquestração: o fundador não faz tudo
-
-Um ponto recorrente ao longo desta aula é a distinção entre executar e orquestrar. O fundador de um estúdio de criação do futuro não é o melhor designer, o melhor gestor de tráfego e o melhor copywriter ao mesmo tempo. Ele é o orquestrador de pessoas, processos e ferramentas que fazem essas coisas melhor do que ele faria sozinho.
-
-Isso tem uma implicação prática: não fique preso aprendendo a fazer gestão de tráfego avançada agora. Você está na fase de validação. A meta é gerar o primeiro resultado e, com ele, criar caixa para contratar ou terceirizar quem sabe mais sobre tráfego do que você. A exceção é se você já tem um sócio ou parceiro com esse perfil analítico, como no caso do Rafael, que cuidou da parte de tráfego enquanto Ruan cuidava da criação e da copy.
-
-O mesmo raciocínio se aplica à construção de infraestrutura de processos. A Overlens tem mais de 100 POPs (Procedimentos Operacionais Padrões), conectados no ClickUp, com documentação detalhada por tarefa. Isso foi construído ao longo de anos, com a equipe inteira participando. Não é algo que você constrói em um fim de semana. Começa-se com o básico: um documento de posicionamento, um perfil de cliente ideal, uma tese de valor. E vai crescendo à medida que você aprende o que funciona e o que não funciona.
-
 ## Coloque em prática
 
-- Acesse o Lovable com sua conta gratuita e copie o prompt gerado pelo ChatGPT na aula anterior para criar sua página de captura. Publique com o link `.lovable.app` e deixe o formulário ativo.
 - No ChatGPT, cole sua tese de valor e peça a geração de copy para três criativos: um para diagnóstico, um para página de captura e um script de vídeo de 30 segundos.
-- Pesquise três referências visuais no Pinterest ou na Biblioteca de Anúncios do Meta que se aproximem da estética que você quer para o seu anúncio.
-- Suba as referências no NanoBanana com o prompt de copy e gere entre 5 e 10 variações de criativo. Salve os que passarem no seu crivo mínimo de legibilidade e comunicação.
-- Configure um anúncio pelo Instagram com um dos criativos gerados. Defina o destino (WhatsApp, Tali ou site), o público (aberto com idade mínima de 28 anos) e o orçamento (R$ 20 a R$ 30 por dia por 5 dias). Ative e observe.
-- Após 3 dias, registre: quantas impressões, quantos cliques e quantas conversões (mensagens, cadastros ou respostas ao quiz). Use esses dados para decidir se mantém o criativo, troca o público ou ajusta a copy.
+- Pesquise três referências visuais no Pinterest ou na Biblioteca de Anúncios do Meta. Suba no NanoBanana com o prompt de copy e gere entre 5 e 10 variações de criativo. Salve os que passarem no crivo mínimo de legibilidade e comunicação.
+- Configure um anúncio pelo Instagram: defina o destino (WhatsApp, Tali ou site), o público (aberto com idade mínima de 28 anos) e o orçamento (R$ 20 a R$ 30 por dia por 5 dias). Após 3 dias, registre impressões, cliques e conversões e use os dados para ajustar criativo, público ou copy.
 
 ---
 
