@@ -1,4 +1,4 @@
-Cálculo interno: [5 blocos] / [18 parágrafos totais] / [310 palavras estimadas] / [310 ÷ 200 = 2 minutos]
+Cálculo interno: [5 blocos] / [18 parágrafos totais] / [400 palavras estimadas] / [400 ÷ 200 = 2 minutos]
 
 # Processos de geração de vídeo
 
@@ -8,39 +8,29 @@ Cálculo interno: [5 blocos] / [18 parágrafos totais] / [310 palavras estimadas
 
 Ao final desta aula, você será capaz de:
 
-- Estruturar o processo completo de geração de vídeo com IA, da ideia à entrega
-- Distinguir o modo manual (clicando em ferramentas) do modo avançado com agentes em paralelização
-- Aplicar cada etapa do processo para eliminar a síndrome da caixinha do prompt em branco
+- Identificar o processo correto de geração de vídeo com IA antes de abrir qualquer ferramenta
+- Distinguir o modo manual de geração do modo avançado com agentes e comando de voz
+- Reconhecer por que pular etapas do processo causa a síndrome da caixinha do prompt em branco
 
-## O problema sem processo
+## O problema de ir direto para a ferramenta
 
-Abrir a ferramenta de vídeo e começar a digitar sem preparação é a causa da síndrome da caixinha em branco: você não sabe o que escrever, gera resultados genéricos e fica preso num ciclo de tentativas sem evolução.
+Abrir a ferramenta de vídeo e começar a digitar sem preparação é o caminho mais rápido para a paralisia criativa. O professor nomeia isso como a síndrome da caixinha do prompt em branco: você fica olhando para a caixa de texto sem saber o que escrever, gera resultados genéricos e entra num ciclo de tentativas sem evolução. Esse problema não tem a ver com falta de criatividade. Ele acontece porque a geração começa na ferramenta, quando deveria começar muito antes.
 
-O processo correto existe para eliminar esse problema antes de você abrir qualquer ferramenta de geração.
+## O processo correto em etapas
 
-## O processo em etapas
+O professor apresenta a sequência que elimina esse problema. O processo começa pelo briefing: definir o objetivo do vídeo, para quem é, o que precisa comunicar e quais são os requisitos antes de qualquer geração. A partir do briefing, você estrutura o roteiro, quebrando a narrativa em sequência de shots com início, ação e fim claros para cada um.
 
-**Etapa 1 - Briefing:** defina o objetivo, o público e os requisitos do vídeo antes de qualquer geração.
+Com o roteiro pronto, você faz o shot breakdown: detalha cada shot individualmente com os elementos do framework de prompt. Depois vem o storyboard, que é gerar imagens representando cada shot antes de animar. O storyboard funciona como validação visual da narrativa sem gastar créditos de vídeo. Só depois de ter storyboard e prompts prontos você abre a ferramenta de geração. Com tudo isso preparado, a geração vira execução, não exploração.
 
-**Etapa 2 - Roteiro:** estruture a narrativa em sequência de shots. Cada shot tem início, ação e fim claros.
+## Modo humano e modo avançado: a metáfora do verbo
 
-**Etapa 3 - Shot breakdown:** quebre o roteiro em shots individuais com os 6 elementos do framework de prompt.
+O professor apresenta os dois modos de trabalho com humor e clareza. No modo humano, que ele compara ao que "faziam os incas e os astecas, nossos antepassados", você vai em cada ferramenta, arrasta o mouse até o botão e clica para gerar um shot por vez.
 
-**Etapa 4 - Storyboard:** gere imagens para representar cada shot antes de animar. Funciona como validação visual da narrativa sem gastar créditos de vídeo.
-
-**Etapa 5 - Geração:** com storyboard e prompts prontos, a geração se torna execução, não exploração.
-
-**Etapa 6 - Edição:** monte os shots gerados, ajuste transições e finalize com trilha sonora e correção de cor.
-
-## Modo humano vs. modo avançado
-
-No modo humano, você vai em cada ferramenta, clica nos controles e gera um shot por vez.
-
-No modo avançado, você usa agentes de IA instalados localmente para executar o processo por comando de voz ou texto, com paralelização de múltiplas gerações simultâneas. Um único comando pode colocar 10 ou 20 agentes trabalhando em paralelo, cada um gerando um shot diferente.
+No modo avançado, você usa o poder do verbo: simplesmente fala ou digita um comando e os agentes executam o processo. O professor descreve isso com ironia filosófica: "Do verbo, você vai fazer a luz. O poder de um semideus que consegue ditar e as coisas acontecem na sua frente." Com agentes de IA, um único comando pode colocar múltiplos agentes trabalhando em paralelo, cada um gerando um shot diferente simultaneamente. O resultado é o mesmo processo, mas em uma fração do tempo.
 
 ## Coloque em prática
 
-Para o próximo vídeo que você for criar, siga o processo nas 6 etapas antes de abrir qualquer ferramenta de geração. Observe a diferença na clareza do resultado comparado às suas gerações anteriores sem processo.
+Para o próximo vídeo que você for criar, siga o processo nas etapas apresentadas: briefing, roteiro, shot breakdown, storyboard, geração e edição. Não abra a ferramenta de geração antes de ter o storyboard pronto. Observe a diferença na clareza do resultado comparado às suas gerações anteriores sem esse processo estruturado.
 
 ---
 
