@@ -57,7 +57,7 @@ A plataforma conta com uma galeria de projetos criados pela comunidade, organiza
 
 ## Coloque em prática
 
-Acesse uma das ferramentas apresentadas nesta aula que ainda não mapeia.
+Acesse uma das ferramentas apresentadas nesta aula que ainda não conhece.
 
 Explore a interface por conta própria antes de buscar tutoriais.
 

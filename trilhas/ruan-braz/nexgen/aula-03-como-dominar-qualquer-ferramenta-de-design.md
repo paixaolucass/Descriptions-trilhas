@@ -51,7 +51,7 @@ A ressalva que o professor faz: aprender sozinho não significa aprender só na 
 
 O professor passou dois anos aprendendo softwares e saiu da escola sabendo usá-los. Mas ao entrar na faculdade se deparou com algo que mudou sua visão: colegas que não tinham feito nenhum curso de software aprenderam as ferramentas sozinhos durante a graduação e não ficaram para trás. A diferença foi que, em vez de estudar qual botão clicar, esses colegas estudaram o porquê de cada etapa do projeto, o valor do design, o que ele realmente entrega.
 
-A analogia que o professor usa: se você tem um martelo mas não tem necessidade de colocar um prego, o martelo não serve de nada. Toda ferramenta tem um propósito, e esse propósito está ligado ao fundamento da ferramenta. Quem aprende só a ferramenta, sem interpretar o fundamento por trás, fica como o "designer cabeçudo": uma cabeça enorme de teoria sem prática para sustentar. O professor conta que foi esse designer na faculdade. Sabia muito de teoria, mas quando queria executar, o nível de execução não acompanhava o que concebia. A frustração era grande.
+A analogia que o professor usa: se você tem um martelo mas não tem necessidade de colocar um prego, o martelo não serve de nada. Toda ferramenta tem um propósito, e esse propósito está ligado ao fundamento da ferramenta. Quem aprende só a ferramenta, sem entender o fundamento por trás, fica como o "designer cabeçudo": uma cabeça enorme de teoria sem prática para sustentar. O professor conta que foi esse designer na faculdade. Sabia muito de teoria, mas quando queria executar, o nível de execução não acompanhava o que concebia. A frustração era grande.
 
 ## A ferramenta enferruja, o fundamento permanece
 
@@ -61,25 +61,25 @@ O que mudou foram os caminhos, os botões e os atalhos específicos do Flash. A 
 
 ## Fundamentos globais dos softwares
 
-Alguns fundamentos aparecem em qualquer software de editoração gráfica, independente do software. O professor lista os principais: seleção, camadas, máscara, fill and stroke (preenchimento e borda), efeitos e blend. Quando você interpreta esses fundamentos, carrega um legado que vai para qualquer software novo.
+Alguns fundamentos aparecem em qualquer software de editoração gráfica, independente do software. O professor lista os principais: seleção, camadas, máscara, fill and stroke (preenchimento e borda), efeitos e blend. Quando você entende esses fundamentos, carrega um legado que vai para qualquer software novo.
 
 O exemplo de seleção: não importa se você está no Illustrator, no Photoshop, no CorelDRAW, no After Effects ou no Figma. Todos trabalham com algum tipo de seleção. O que muda entre eles é a profundidade e o tipo de seleção disponível. O Photoshop é o mais avançado em seleção bitmap: por cor, por pixel, por assunto, recorte de cabelo. O Illustrator permite selecionar objetos vetoriais pela aparência: mesma borda, mesmo preenchimento. A lógica fundamental é a mesma, a execução é diferente.
 
-O exemplo de máscara: qualquer software de editoração gráfica trabalha com máscara. É uma ilusão que o designer constrói ao esconder coisas e revelar outras. As pessoas não veem o que está por trás das camadas. Quem interpreta esse fundamento encontra o recurso com facilidade em qualquer software novo que surgir.
+O exemplo de máscara: qualquer software de editoração gráfica trabalha com máscara. É uma ilusão que o designer constrói ao esconder coisas e revelar outras. As pessoas não veem o que está por trás das camadas. Quem entende esse fundamento encontra o recurso com facilidade em qualquer software novo que surgir.
 
 ## Fundamentos específicos por software
 
 Além dos fundamentos globais, cada software tem fundamentos próprios que definem o que ele faz melhor, o seu lugar de potência.
 
-**Illustrator:** o fundamento central é o vetor. Vetor é uma expressão matemática que pode ser ampliada infinitas vezes sem perder qualidade. A diferença entre vetor e bitmap define quando usar o Illustrator e quando usar o Photoshop. Para logotipos, ilustrações e grafismos, o Illustrator é a escolha certa. Para manipulação de fotografias, o Photoshop ganha. Usar o software errado para o propósito errado é auto-sabotagem. O segundo fundamento importante é a curva de Bezier: interpretar como as alças de um ponto exercem força sobre a reta é o que permite dominar a Pen Tool, a ferramenta de caneta, onde a maioria dos designers tem mais dificuldade. O professor indica o artigo sobre curva de Bezier no Wikipedia, que tem animações que explicam o conceito em menos de meia hora.
+**Illustrator:** o fundamento central é o vetor. Vetor é uma expressão matemática que pode ser ampliada infinitas vezes sem perder qualidade. A diferença entre vetor e bitmap define quando usar o Illustrator e quando usar o Photoshop. Para logotipos, ilustrações e grafismos, o Illustrator é a escolha certa. Para manipulação de fotografias, o Photoshop ganha. Usar o software errado para o propósito errado é auto-sabotagem. O segundo fundamento importante é a curva de Bezier: entender como as alças de um ponto exercem força sobre a reta é o que permite dominar a Pen Tool, a ferramenta de caneta, onde a maioria dos designers tem mais dificuldade. O professor indica o artigo sobre curva de Bezier no Wikipedia, que tem animações que explicam o conceito em menos de meia hora.
 
 **Photoshop:** o lugar de potência é a seleção avançada de bitmap. Seleção por pixel, por cor, por assunto, recorte de cabelo complexo. O Photoshop não é bom software para criar interfaces de sites. O Figma ganha do Photoshop em interface sem comparação.
 
 **Figma:** o maior poder do Figma é o Auto Layout. Além disso, o sistema de estilos e componentes permite que quando você muda a matriz, todas as referências daquela matriz mudam junto. Prototipagem e comportamento de elementos interativos são recursos que o Illustrator e o Photoshop não têm. Fazer sites no Illustrator ou no Photoshop quando o Figma existe é usar uma faquinha de plástico para cortar picanha: você até consegue, mas ela vai ficar toda ralada.
 
-**After Effects:** os fundamentos são Timeline, Keyframe, Expressões e Render. O professor cita um exemplo aprendido na faculdade: motion graphics é um show de ilusões de ótica. O entrelaçamento de dois objetos girando gera a ilusão de um objeto se expandindo. Interpretar o raciocínio por trás de um efeito vale mais do que saber onde está o botão.
+**After Effects:** os fundamentos são Timeline, Keyframe, Expressões e Render. O professor cita um exemplo aprendido na faculdade: motion graphics é um show de ilusões de ótica. O entrelaçamento de dois objetos girando gera a ilusão de um objeto se expandindo. Entender o raciocínio por trás de um efeito vale mais do que saber onde está o botão.
 
-**Blender:** é o Photoshop do 3D. Faz tudo: modelagem, UV mapping, rigging (esqueleto para animação 3D), luz, câmera, animação e render realista. Os fundamentos para se localizar dentro do software: interpretar o que são os eixos x, y, z, o que é modelagem, o que é bevel, o que é extrude, o que é UV mapping, como funcionam luz, câmera e rigging.
+**Blender:** é o Photoshop do 3D. Faz tudo: modelagem, UV mapping, rigging (esqueleto para animação 3D), luz, câmera, animação e render realista. Os fundamentos para se localizar dentro do software: entender o que são os eixos x, y, z, o que é modelagem, o que é bevel, o que é extrude, o que é UV mapping, como funcionam luz, câmera e rigging.
 
 ## Por que ir na fonte
 
@@ -113,9 +113,9 @@ Abra também a opção Janela e clique em cada uma das áreas de trabalho dispon
 
 ### Conceituação abstrata
 
-Depois de mapear a ferramenta, é a hora de interpretar os fundamentos. Pergunte ao ChatGPT: "quais são as três ferramentas fundamentais que preciso aprender primeiro para dominar o Illustrator?" O professor demonstra isso para o After Effects e recebe: interface e painéis, linha do tempo, composição, camada, animação com keyframes, efeitos, máscara, texto, mesclagem, rastreamento, renderização. Com essa lista, você sabe exatamente o que aprender e em que ordem.
+Depois de mapear a ferramenta, é a hora de entender os fundamentos. Pergunte ao ChatGPT: "quais são as três ferramentas fundamentais que preciso aprender primeiro para dominar o Illustrator?" O professor demonstra isso para o After Effects e recebe: interface e painéis, linha do tempo, composição, camada, animação com keyframes, efeitos, máscara, texto, mesclagem, rastreamento, renderização. Com essa lista, você sabe exatamente o que aprender e em que ordem.
 
-Em seguida, aprofunde cada fundamento. Para a Pen Tool do Illustrator, a pergunta seguinte é: "qual é o fundamento da Pen Tool?" A resposta: curva de Bezier. Então você pesquisa curva de Bezier no Wikipedia, lê o artigo com as animações e processa como as alças exercem força sobre a reta. Isso é aprender o fundamento antes de aprender o clique. Quem faz um curso de Illustrator sem interpretar curva de Bezier aprende a clicar em uma sequência que não processa, e às vezes sai sem saber usar a caneta mesmo assim.
+Em seguida, aprofunde cada fundamento. Para a Pen Tool do Illustrator, a pergunta seguinte é: "qual é o fundamento da Pen Tool?" A resposta: curva de Bezier. Então você pesquisa curva de Bezier no Wikipedia, lê o artigo com as animações e compreende como as alças exercem força sobre a reta. Isso é aprender o fundamento antes de aprender o clique. Quem faz um curso de Illustrator sem entender curva de Bezier aprende a clicar em uma sequência que não compreende, e às vezes sai sem saber usar a caneta mesmo assim.
 
 ### Experimentativo
 

@@ -17,7 +17,7 @@ Ao final desta aula, você será capaz de:
 
 A principal habilidade nexialista apresentada nesta aula é a meta-aprendizagem: a capacidade de aprender a aprender e de aprender a desaprender. Não se trata de uma habilidade abstrata, mas de um sistema mental estruturado que permite aprender qualquer coisa com mais velocidade e profundidade.
 
-O professor compartilha que, com mais de 6 anos de experiência em docência, a habilidade mais importante que desenvolveu foi a de aprender sozinho. Ao se colocar na posição de professor, precisou aprender a processar conceitos e simplificá-los para que outras pessoas os entendessem. Esse processo exige se colocar em uma posição mais alta de informação: interpretar o que vale a pena aprender, onde investir tempo e onde não investir.
+O professor compartilha que, com mais de 6 anos de experiência em docência, a habilidade mais importante que desenvolveu foi a de aprender sozinho. Ao se colocar na posição de professor, precisou aprender a compreender conceitos e simplificá-los para que outras pessoas os entendessem. Esse processo exige se colocar em uma posição mais alta de informação: entender o que vale a pena aprender, onde investir tempo e onde não investir.
 
 ## O problema de aprender ferramentas em vez de fundamentos
 
@@ -49,9 +49,9 @@ Fatos são memorizados. Você guarda um fato porque ele pode ser útil no futuro
 
 ### Conceitos
 
-Conceitos precisam ser processados, não memorizados. São os fundamentos que regem uma área. Memorizar um conceito sem compreendê-lo gera pontos cegos. A forma de aprender um conceito é diferente: inverta a ordem, coloque em outro contexto, explique para outra pessoa, coloque em prática.
+Conceitos precisam ser compreendidos, não memorizados. São os fundamentos que regem uma área. Memorizar um conceito sem compreendê-lo gera pontos cegos. A forma de aprender um conceito é diferente: inverta a ordem, coloque em outro contexto, explique para outra pessoa, coloque em prática.
 
-Um exemplo de conceito: as IAs generativas, que criam imagem, vídeo, música e texto, são construídas com base em Deep Learning, um aprendizado profundo que quebra dados e identifica padrões. Essas IAs não usam banco de dados tradicional para copiar e reproduzir informações: elas reconstroem o resultado interpretando os padrões que regem aquilo que você está pedindo. Não processar isso gera pontos cegos que impedem o uso eficaz das ferramentas.
+Um exemplo de conceito: as IAs generativas, que criam imagem, vídeo, música e texto, são construídas com base em Deep Learning, um aprendizado profundo que quebra dados e identifica padrões. Essas IAs não usam banco de dados tradicional para copiar e reproduzir informações: elas reconstroem o resultado entendendo os padrões que regem aquilo que você está pedindo. Não compreender isso gera pontos cegos que impedem o uso eficaz das ferramentas.
 
 ### Procedimentos
 
@@ -63,7 +63,7 @@ Na prática, a técnica dos professores funciona assim: independente da ferramen
 
 Um erro comum é confundir fatos com inferências: inferências são ideias da cabeça de outras pessoas, não informações verificáveis. A maioria das pessoas foca tanto em procedimentos que esquece conceitos e fatos, ou mistura informação real com opinião de terceiros.
 
-O princípio central é que o objetivo não é tentar aprender sobre tudo, o que é impossível, mas aprender as coisas certas no momento certo. Enquanto a maioria perde tempo cavando no lugar errado, a técnica dos professores manda planejar primeiro: interpretar o cenário como um todo, definir um alvo claro, e só então mergulhar no aprendizado com direção.
+O princípio central é que o objetivo não é tentar aprender sobre tudo, o que é impossível, mas aprender as coisas certas no momento certo. Enquanto a maioria perde tempo cavando no lugar errado, a técnica dos professores manda planejar primeiro: entender o cenário como um todo, definir um alvo claro, e só então mergulhar no aprendizado com direção.
 
 ## Coloque em prática
 

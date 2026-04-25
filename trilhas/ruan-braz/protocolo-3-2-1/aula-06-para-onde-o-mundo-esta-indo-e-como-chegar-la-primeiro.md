@@ -25,7 +25,7 @@ As IAs mais poderosas do mundo pertencem às empresas com mais dados. Entre as c
 
 ## Documentação oficial: o melhor manual para aprender qualquer ferramenta
 
-Documentação não é exclusiva de desenvolvedores. Ela é o melhor caminho para interpretar qualquer ferramenta de IA: é um manual passo a passo escrito pelas próprias pessoas que criaram a ferramenta.
+Documentação não é exclusiva de desenvolvedores. Ela é o melhor caminho para entender qualquer ferramenta de IA: é um manual passo a passo escrito pelas próprias pessoas que criaram a ferramenta.
 
 Para acessar a documentação do ChatGPT, basta digitar "ChatGPT Documentation" no Google, entrar no site API Platform da OpenAI e clicar em "Comece a Criar". A plataforma apresenta uma documentação completa com todos os modelos disponíveis, suas vantagens e custos para uso via API. Quem assina o ChatGPT não paga esses custos de API. Também estão disponíveis manuais para geração de texto, imagem e áudio. Mesmo que a página inicial pareça avançada por conter código, ao rolar para baixo aparecem conteúdos mais acessíveis: construção de agentes, geração de imagens com explicações de como funcionam, e muito mais.
 

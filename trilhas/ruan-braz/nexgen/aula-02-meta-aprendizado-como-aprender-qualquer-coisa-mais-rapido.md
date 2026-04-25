@@ -91,13 +91,13 @@ Todo aprendizado pode ser dividido em três categorias. Cada uma exige um proces
 
 ### Conceitos
 
-Conceitos precisam ser processados com flexibilidade. Não basta decorar a definição. É preciso ser capaz de raciocinar sobre a ideia em um problema novo, em um contexto diferente, em uma aplicação inesperada. O professor usa a própria meta-aprendizagem como exemplo: é um conceito que ele precisa dominar com amplitude para ensiná-la de ângulos diferentes.
+Conceitos precisam ser compreendidos com flexibilidade. Não basta decorar a definição. É preciso ser capaz de raciocinar sobre a ideia em um problema novo, em um contexto diferente, em uma aplicação inesperada. O professor usa a própria meta-aprendizagem como exemplo: é um conceito que ele precisa dominar com amplitude para ensiná-la de ângulos diferentes.
 
-O teste prático: você consegue explicar esse conceito para outra pessoa? Se a resposta for não, o conceito ainda não está organizado na sua cabeça. Não adianta dizer "eu entendi, só não consigo explicar." Não conseguir explicar é a prova de que o conceito ainda não foi processado de fato.
+O teste prático: você consegue explicar esse conceito para outra pessoa? Se a resposta for não, o conceito ainda não está organizado na sua cabeça. Não adianta dizer "eu entendi, só não consigo explicar." Não conseguir explicar é a prova de que o conceito ainda não foi compreendido de fato.
 
 ### Fatos
 
-Fatos precisam ser memorizados, não necessariamente processados. O exemplo de física: a luz é partícula e onda ao mesmo tempo. Você pode ir fundo no conceito de onda eletromagnética ou pode aceitar o fato e trabalhar com ele. Em matemática, fatos têm um nome formal: axiomas, as premissas aceitas como ponto de partida para construir o raciocínio. A decisão de trabalhar com um fato ou mergulhar no conceito por trás dele é estratégica e depende do quanto de profundidade aquilo exige na sua prática.
+Fatos precisam ser memorizados, não necessariamente compreendidos. O exemplo de física: a luz é partícula e onda ao mesmo tempo. Você pode ir fundo no conceito de onda eletromagnética ou pode aceitar o fato e trabalhar com ele. Em matemática, fatos têm um nome formal: axiomas, as premissas aceitas como ponto de partida para construir o raciocínio. A decisão de trabalhar com um fato ou mergulhar no conceito por trás dele é estratégica e depende do quanto de profundidade aquilo exige na sua prática.
 
 ### Procedimentos
 
