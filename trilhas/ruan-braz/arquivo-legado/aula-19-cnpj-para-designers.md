@@ -1,4 +1,4 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [409 palavras estimadas] / [409 ÷ 200 = 3 minutos]
 
 # CNPJ para designers
 
@@ -8,28 +8,35 @@ Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas]
 
 Ao final desta aula, você será capaz de:
 
-- reconhecer a formalização como parte da estrutura profissional
-- identificar cuidados operacionais importantes para designers
-- aplicar uma visão mais madura sobre atuação no mercado
+- reconhecer o CNPJ como parte da infraestrutura profissional
+- distinguir atuação como CPF, MEI e ME ou SLU
+- identificar obrigações como nota fiscal, DAS, declarações e conta empresarial
+- aplicar cuidados básicos para manter a empresa regular
 
-## CNPJ como parte da estrutura profissional
+## CNPJ como início da empresa
 
-Chegou a hora de falarmos do seu CNPJ, chegou a hora de falar sobre a infraestrutura da sua empresa. Porque, de fato, você começa a ter uma empresa quando você tem um CNPJ e uma conta no banco cadastrada nesse CNPJ, para você receber os pagamentos dos seus clientes, por exemplo. E hoje eu trouxe uma pessoa especialista no assunto, uma contadora muito querida, para poder explicar para a gente como que funciona esse processo.
+Ruan apresenta a aula como parte da infraestrutura do designer. Para ele, a empresa começa a existir de fato quando há CNPJ e uma conta bancária vinculada a esse CNPJ para receber pagamentos, emitir documentos e separar a vida financeira da operação.
 
-Ela vai falar como que abre o CNPJ, quais são os caminhos possíveis que a gente pode seguir e eu já quero te falar o seguinte, não pula essa aula. O assunto que está aqui pode ser um pouco denso, pode ser tudo novidade para você. Às vezes você nunca ouviu falar de vários termos que a gente vai falar aqui, mas eu quero que você se esforce para compreender, porque isso vai fazer parte da sua vida daqui em diante.
+A conversa conta com a participação de uma contadora, que explica por que formalizar o negócio tende a ser mais vantajoso do que atuar apenas como pessoa física. A tributação no CPF pode ser mais onerosa e menos adequada para quem deseja empreender.
 
-## Formalização, segurança e percepção de mercado
+## MEI, ME e SLU
 
-R$3.000,00 de prolabore, mais R$3.000,00 de despesas. dos R$10.000,00 já foram R$6.000,00. Mas o imposto, ele é cobrado em cima do faturamento.
+A aula diferencia caminhos de formalização. O MEI aparece como alternativa simplificada, com limite anual de faturamento e obrigações mais simples. Quando o negócio cresce ou não se enquadra, entram possibilidades como ME e SLU.
 
-porque existem outros regimes diferentes, mas a gente nem vai entrar nisso porque são complicados, Você já tem lá de lucro, vai calcular quanto você lucrou e pagar o imposto ali, mas aí é muito mais difícil esse também. a gente vai focar em ME e ME. No caso da ME, se eu faturei R$10.000, o imposto é em cima dos R$10.000, correto?
+Também é explicada a possibilidade de começar como MEI e depois migrar, caso o faturamento aumente. O ponto principal é que o formato precisa acompanhar a realidade do negócio e deve ser escolhido com orientação adequada.
 
-## Como pensar a operação do designer
+## Obrigações e cuidados
 
-Você recebe isso numa conta igual a sua conta de CPF, você tem a conta CNPJ também, o dinheiro que cai lá é o dinheiro da empresa. E tudo que você paga da empresa tem que vir daquela conta, inclusive o imposto. Você não paga imposto com sua conta de CPF, não.
+A aula aborda emissão de nota fiscal, pagamento mensal do DAS, declaração de faturamento do MEI, obrigações acessórias de empresas fora do MEI e necessidade de manter o CNPJ regular. Mesmo sem movimento, algumas empresas precisam prestar informações.
 
-Já que a gente entrou, começou a falar sobre isso, deixa essa linha aqui o seguinte. Abre o CEN em PJ, faz uma conta bancária PJ também. Todos os pagamentos da empresa pertinente à sua atividade como design vai pagar da conta da empresa, certo?
+Ruan e a contadora reforçam que abrir CNPJ não é apenas conseguir um número. É assumir responsabilidades. Se houver divergências, ausência de declaração ou descuido com obrigações, podem surgir problemas com a Receita Federal e com a regularidade da empresa.
+
+## Conta CNPJ e separação financeira
+
+Um ponto recorrente é a separação entre dinheiro da empresa e dinheiro da pessoa física. O faturamento entra na conta CNPJ, e despesas, impostos e custos da empresa devem sair dessa mesma estrutura.
+
+Essa organização ajuda o designer a pensar como empresa, não apenas como freelancer informal. CNPJ, conta bancária, nota fiscal e orientação contábil criam a base para fechar contratos maiores com mais segurança.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Verifique sua situação atual: CPF, MEI, ME ou outro formato. Anote se você já consegue emitir nota, separar conta da empresa e cumprir obrigações mensais. Se não souber, levante as dúvidas para uma consulta contábil.

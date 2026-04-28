@@ -1,35 +1,42 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [363 palavras estimadas] / [363 ÷ 200 = 2 minutos]
 
 # Entendendo a gestão de tráfego
 
-**Tempo estimado de leitura:** 3 minutos
+**Tempo estimado de leitura:** 2 minutos
 
 ## Objetivos de aprendizado
 
 Ao final desta aula, você será capaz de:
 
-- identificar o papel de gestão de tráfego na construção da marca pessoal
-- distinguir os critérios centrais apresentados pelo professor
-- aplicar o raciocínio da aula na própria atuação profissional
+- identificar o tráfego pago como ferramenta de amplificação
+- reconhecer requisitos básicos para anunciar
+- distinguir papel de gestor de tráfego e papel de líder do negócio
+- aplicar uma visão inicial de anúncio direcionado ao site
 
-## Gestão de tráfego como amplificação
+## Tráfego pago como ferramenta
 
-Chegou a hora de nós falarmos do tráfego pago. Nesse vídeo aqui, para a gente continuar, você precisa ter um site, você precisa ter um perfil no Instagram, você precisa ter uma página no Facebook e um gerenciador de negócios no Facebook. Também, eu vou passar aqui alguns links para você poder trabalhar essas etapas, principalmente o gerenciador de negócios, que eu já vou te explicar um pouquinho melhor o que é.
+Ruan apresenta a aula como uma introdução para iniciantes. O objetivo não é formar gestores de tráfego, porque gestão de tráfego é uma profissão por si só, com variáveis de dados, público, ferramenta, marketing, funil e otimização.
 
-e aqui nós vamos ter duas partes nessa aula. A primeira parte eu vou te explicar um pouco melhor quais são as ferramentas que você pode utilizar para fazer o tráfego pago. E na segunda parte eu vou mostrar para você na prática como criar um anúncio levando as pessoas para a sua página.
+O aluno está ali para construir um negócio de design. Por isso, precisa conhecer o suficiente para começar, mas também desenvolver visão de líder para, no futuro, saber delegar essa função a alguém especializado.
 
-## Anúncio, público e objetivo
+## Pré requisitos para anunciar
 
-Quanto mais você anuncia e quanto mais dados você entrega para ela, mais ela entende o perfil ideal de cliente para você e mais ela direciona esse tipo de cliente. no longo prazo, você quer dar esses dados para a ferramenta para que ela te dê mais resultados. Isso vai diminuir o custo que você vai ter com a ferramenta para ter um cliente novo.
+Para avançar, o professor lista elementos básicos: site, perfil no Instagram, página no Facebook e gerenciador de negócios no Facebook. Esses ambientes servem como base para criar anúncios e direcionar pessoas para a página.
 
-você pode começar lá no Instagram, tá tudo bem, começa turbinando, você vai ter seus primeiros clientes lá, é o que eu recomendo. Assim como, você também pode começar aqui anunciando no seu CPF ou até no seu CNPJ, mas sem o gerenciador de contas. Aí você vai, basicamente, o processo é esse aqui ó.
+A aula reforça que o tráfego pago não deve ser usado sem uma estrutura mínima. Se o anúncio leva pessoas para um site fraco, perfil desorganizado ou mensagem confusa, o investimento perde eficiência.
 
-## Como pensar tráfego dentro da estratégia
+## Orgânico e pago dentro do mesmo sistema
 
-é pessoas que têm esse cargo aqui, eu posso anunciar diretamente para elas. Olha só como que essa ferramenta, ela te deixa anunciar para quem você quiser. Vamos supor que você quer anunciar só na sua cidade.
+Ruan diferencia tráfego orgânico e pago. O orgânico pode atrair clientes, mas o pago acelera o processo ao distribuir conteúdo e levar pessoas para um destino específico.
 
-Você vem aqui, em localização, coloca, olha só, vou colocar aqui, pelo horizonte. Coloco Belo Horizonte, Minas Gerais, Cidade. E aí, eu posso adicionar um raio de quilômetros.
+O anúncio não substitui posicionamento, demanda ou conteúdo. Ele amplifica o que já existe. Por isso, as aulas anteriores sobre website, redes sociais e produção de conteúdo são fundamentais antes de investir dinheiro.
+
+## Mentalidade de liderança
+
+A aula insiste na visão de líder. Mesmo que o designer faça tudo sozinho no começo, precisa entender que algumas funções podem ser assumidas por equipe ou parceiros no futuro.
+
+Aprender o básico de tráfego permite conversar melhor com especialistas, avaliar resultados e não depender completamente de terceiros. A intenção é remover a barreira inicial e mostrar o caminho para os primeiros anúncios.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Confira se você tem os quatro requisitos: site, Instagram, página no Facebook e gerenciador de negócios. Se faltar algum, organize antes de investir em anúncio.

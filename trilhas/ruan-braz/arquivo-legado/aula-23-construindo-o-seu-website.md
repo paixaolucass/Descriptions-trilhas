@@ -1,4 +1,4 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [407 palavras estimadas] / [407 ÷ 200 = 3 minutos]
 
 # Construindo o seu website
 
@@ -8,28 +8,35 @@ Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas]
 
 Ao final desta aula, você será capaz de:
 
-- identificar o papel de website na construção da marca pessoal
-- distinguir os critérios centrais apresentados pelo professor
-- aplicar o raciocínio da aula na própria atuação profissional
+- identificar o website como ferramenta central de vendas
+- estruturar conteúdo do site a partir de hipernicho, demandas e objeções
+- reconhecer a diferença entre portfólio galeria e página de conquista
+- aplicar seções estratégicas para gerar confiança e desejo
 
-## Website como ponto de contato central
+## O site como tronco da árvore
 
-Chegou a hora de falarmos sobre o seu website, depois de falarmos sobre a raiz da sua árvore, a infraestrutura, falamos sobre CNPJ, falamos sobre estrutura de custo, sobre preço, chegou a hora de falarmos sobre o tronco, o pilar que vai sustentar essa árvore. Depois nós vamos falar sobre redes sociais, sobre outros ambientes, mas o seu site faz parte da essência das duas estratégias que eu vou ensinar para você, tanto para atrair clientes, quanto para ir até os seus clientes. você vai utilizar o site como uma ferramenta de vendas.
+Depois de trabalhar a raiz da infraestrutura, Ruan apresenta o website como o tronco que sustenta a presença da marca. O site participa tanto da estratégia de atrair clientes quanto da estratégia de ir até eles, porque funciona como ponto central de validação e venda.
 
-Ele vai mostrar para o seu cliente o seu processo, os seus projetos. ele serve também para gerar desejo. É uma embalagem do serviço que você vende.
+O site não deve ser apenas uma galeria de portfólio. Ele precisa mostrar processo, projetos, valor, desejo e segurança. Como vender design é vender o futuro, qualquer elemento tangível ajuda o cliente a visualizar o que está comprando.
 
-## Estrutura, prova e direcionamento
+## Demanda antes de conteúdo
 
-São links de âncora, você consegue fazer isso, é um jeito legal de deixar o seu site completinho, parecendo um site institucional, mas, no fundo, é um site de vendas, uma página de vendas, e não tem várias páginas diferentes. Mas passa a sensação já de ser uma empresa profissional, e isso que importa, tá? Essa é a consideração que eu dou em relação ao header, ao cabeçalho.
+Ruan reforça que o módulo de demanda deve ser feito antes da construção do site. O conteúdo precisa conversar com o perfil ideal de cliente, com o hipernicho, com as demandas abrangentes do método ACRO e com demandas específicas pesquisadas.
 
-Deixe ele fixo, ou seja, ele nunca sai da tela aqui, ele sempre fica fixado, a página vai rolando, ele continua fixo, a página vai passando por baixo dele aqui assim, E ele fica fixo aqui, Eu vou dar as ferramentas para vocês, fiquem tranquilos, Nessa aula aqui ainda, eu vou dar três ferramentas para vocês.
+As objeções também entram no site, especialmente em uma seção de perguntas frequentes. Essa seção é negligenciada por muitos profissionais, mas pode resolver dúvidas que impedem a conversão.
 
-## Como construir uma presença própria
+## Página de conquista, não site institucional comum
 
-Qual que é o legal desse tipo de pesquisa? Funciona mais ou menos assim, o cliente vai passar pergunta por pergunta, então fica muito mais digerido pra ele do que ver aquele formulário gigante, tá vendo? Ele vai e uma pergunta de cada vez, qual é o seu email?
+A proposta é criar uma página de conquista, parecida com uma página de vendas, ainda que pareça institucional. Links de âncora podem organizar seções em uma única página, criando navegação fluida sem exigir várias páginas separadas.
 
-Riley, quer 20% de desconto na próxima compra? e aí fica muito mais fluido para o seu cliente responder. O Typeform é excelente, a experiência de usuário dele é muito boa, é uma ferramenta incrível, mas o preço dele pode ser caro.
+O cabeçalho, o menu fixo, a promessa, os projetos, o método, as provas e o direcionamento precisam trabalhar juntos. A estrutura deve conduzir o cliente da atenção à confiança, e não apenas exibir peças bonitas.
+
+## Formulários e experiência de contato
+
+A aula também aborda a experiência de entrada do cliente. Formulários podem ser longos e cansativos quando apresentados de uma vez. Ferramentas como Typeform são citadas por oferecerem uma experiência mais fluida, com uma pergunta por vez.
+
+O ponto não é a ferramenta em si, mas a lógica: o contato com o designer também precisa ser projetado. Se o site gera desejo, o formulário precisa transformar esse interesse em conversa sem criar atrito desnecessário.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Esboce a estrutura da sua página de conquista: promessa, problema, método, projetos, prova, perguntas frequentes e formulário. Para cada seção, escreva qual dúvida do cliente ela precisa responder.

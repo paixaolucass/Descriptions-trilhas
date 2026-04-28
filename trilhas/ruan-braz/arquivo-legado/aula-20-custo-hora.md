@@ -1,35 +1,42 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [385 palavras estimadas] / [385 ÷ 200 = 2 minutos]
 
 # Custo hora
 
-**Tempo estimado de leitura:** 3 minutos
+**Tempo estimado de leitura:** 2 minutos
 
 ## Objetivos de aprendizado
 
 Ao final desta aula, você será capaz de:
 
-- identificar os fatores que influenciam a formação de preço
-- distinguir custo, valor percebido e sustentabilidade do trabalho
-- aplicar critérios objetivos para tomar decisões comerciais
+- identificar o custo hora como medida de sustentabilidade do negócio
+- distinguir custo hora e preço hora
+- reconhecer despesas fixas, variáveis, impostos e estrutura mínima
+- aplicar cálculo de custo para evitar trabalhar no prejuízo
 
-## Custo hora como base de cálculo
+## Não é sobre cobrar por hora
 
-Chegou a hora de definir o seu custo-hora. Depois de bater esse papo legal com a Swenya, me entender a importância de ter um CNPJ, agora, ainda falando sobre infraestrutura, nós precisamos falar sobre o seu custo-hora. Muitos designers têm a dúvida, será que eu devo cobrar pela hora, qual que é o meu valor hora?
+Ruan abre a aula dizendo que o objetivo não é definir um preço hora. Ele não recomenda precificar design apenas pelo tempo, porque o valor do design depende de resultado, autoridade, portfólio, contexto e percepção de valor.
 
-E a minha recomendação para você é que você não calcule um preço hora. Eu vou te ensinar a calcular preço de um outro jeito, a gente vai desmistificar essa ideia de preço, o que é preço justo, a gente vai falar bastante sobre isso, eu quero desmistificar esse assunto de preço com vocês, mas... Eu não recomendo que você defina um preço hora, porque design não vale a pena calcular por hora, na maioria das vezes, mas sim pelo resultado, sim pela sua autoridade, sim pelo seu portifólio, tá?
+Mesmo assim, calcular custo hora é necessário. O custo hora mostra quanto custa para a empresa existir e operar. Ele ajuda o designer a não cobrar menos do que o custo real de realizar um projeto.
 
-## Tempo, custo e sustentabilidade
+## A surpresa de enxergar a estrutura
 
-Educação é outra reserva que eu gosto. Isso aqui eu aprendi com o meu professor de faculdade. Ele fala, olha, coloque em uma reserva de educação para comprar livro, para comprar curso, porque é sempre muito útil.
+O professor reconhece que, para quem está começando, os números podem parecer distantes da realidade. Ele lembra seu início com estrutura mínima, trabalhando com o que tinha. Ainda assim, defende que o aluno visualize a empresa que quer construir.
 
-eu coloquei aqui R$200,00, isso aqui dá para você comprar entre três a quatro livros por mês, dependendo do livro. Tem muito livro de design que é caro, vai dar para comprar um ou dois, mas é uma reserva legal aqui para você continuar evoluindo, dá para poder dividir um curso também, então é interessante sempre levar isso em consideração. Imprevistos, Juan, qual que é a diferença de manutenção e imprevisto?
+Calcular custos não serve para gerar culpa, mas para criar consciência. O negócio precisa pagar ferramentas, equipamento, internet, impostos, fornecedores, espaço, formação, tempo improdutivo e o próprio sustento do profissional.
 
-## Como usar números para decidir preço
+## Trabalhar pagando para trabalhar
 
-Tem que ficar atento com isso, porque às vezes, sabe quando, vou até voltar aqui, sabe quando você ganha, talvez você não saiba disso, mas é muito comum, você ganha muito dinheiro, mas não vê nem a cor dele. Eu já tive mês, sem brincadeira, que eu faturei R$24 mil e eu não vi esse E aí você começa a falar, cara, pra onde... Como é que 24 mil reais some diante dos seus olhos?
+Sem conhecer o custo, o designer pode fechar projetos que parecem bons, mas terminam em prejuízo. Depois de impostos, freelancers, ferramentas e horas dedicadas, o dinheiro pode desaparecer e a empresa fica sem margem.
 
-10% de imposto, aí já foi R$ 2.400 ali. Aí você comprou, contratou um freelancer para te ajudar, aí vai mais R$ 1.500 ali. Quando você vê, o dinheiro foi embora.
+Ruan mostra que faturamento não é lucro. Receber um valor alto não significa ganhar esse valor. Uma parte vai para imposto, outra para despesas, outra para operação, e só depois aparece a remuneração real do profissional.
+
+## Custo como base para decisões
+
+O custo hora ajuda a decidir se um projeto faz sentido, quanto esforço será necessário e qual é o mínimo aceitável para manter a operação saudável. Ele não define sozinho o preço, mas impede decisões cegas.
+
+Essa clareza prepara a próxima aula sobre preço. Primeiro o aluno entende a infraestrutura financeira. Depois aprende a posicionar o preço estrategicamente, sem confundir custo com valor percebido.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Liste suas despesas mensais profissionais e pessoais ligadas ao trabalho. Some impostos, ferramentas, internet, equipamentos, freelancers e sua retirada desejada. Use esse número para calcular quanto custa manter sua operação por hora útil.

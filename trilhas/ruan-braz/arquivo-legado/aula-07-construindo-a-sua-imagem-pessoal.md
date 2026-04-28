@@ -1,4 +1,4 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [433 palavras estimadas] / [433 ÷ 200 = 3 minutos]
 
 # Construindo a sua imagem pessoal
 
@@ -8,28 +8,35 @@ Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas]
 
 Ao final desta aula, você será capaz de:
 
-- identificar o papel de imagem pessoal na construção da marca pessoal
-- distinguir os critérios centrais apresentados pelo professor
-- aplicar o raciocínio da aula na própria atuação profissional
+- identificar como a imagem pessoal influencia a confiança do cliente
+- reconhecer sinais de postura que favorecem ou prejudicam uma venda
+- distinguir aparência superficial e coerência profissional
+- aplicar critérios de imagem na apresentação pessoal e comercial
 
-## Imagem pessoal como construção
+## Pessoas compram pessoas
 
-Como passar a mensagem certa sobre você? O assunto dessa aula é muito fácil de ser negligenciado. É muito fácil você pensar que já sei que a imagem importa, já sei que precisa ter uma postura correta, mas no dia a dia nós tendemos a deixar detalhes influenciarem negativamente um contato com que você está construindo.
+Ruan inicia a aula afirmando que a imagem pessoal vende mais do que o portfólio ou uma proposta bem montada. O cliente escolhe a pessoa antes de escolher a metodologia, principalmente quando o projeto envolve valores mais altos e risco percebido.
 
-A verdade é que a sua imagem vende mais você do que o seu portfólio, do que a sua proposta incrível. O seu cliente, antes de escolher o seu projeto, a sua metodologia, ele escolhe você. E é sobre isso que nós vamos falar aqui nessa aula.
+A imagem não precisa ser perfeita, mas não pode colocar o designer em desvantagem. Certos detalhes bem cuidados apenas deixam o profissional no zero a zero. Quando são negligenciados, porém, criam dúvida sobre responsabilidade, maturidade e capacidade de entrega.
 
-## Coerência entre aparência, atitude e mercado
+## A verdade percebida na postura
 
-Vai muito além disso e é isso que eu quero que vocês prestem atenção comigo. aparência física, roupas, comportamento, fala, postura, conteúdo, expressão. Tudo isso aqui é sobre sua imagem pessoal.
+O professor conta o caso de uma cliente que fechou um projeto de alto valor porque viu verdade no que ele dizia. Esse exemplo mostra que confiança não nasce apenas do documento da proposta. Ela nasce da combinação entre fala, postura, clareza, presença e coerência.
 
-Apesar da roupa estar ali como um fator, sim, a roupa que você usa. Mas não é só a roupa, é sua aparência física. E quando eu falo aparência física, às vezes você vai pensar, eu não tenho rostinho bonito.
+Se o cliente não acredita que o designer dá conta de entregar, nenhuma promessa compensa. Quanto maior o investimento, maior a necessidade de perceber firmeza. O cliente não entrega dinheiro alto a alguém cuja postura não sustenta o tamanho da responsabilidade.
 
-## A imagem como ativo de confiança
+## A aparência como julgamento inevitável
 
-Eu começo a falar, essa proposta aqui eu já fiz ela para um monte de gente e elas todas eu vou até falar com o português errado também, presta atenção até no verbo também, mas o jeito de falar te desvende. E além disso, eu fechei outros projetos igual o seu. eu acredito que eu consigo te entregar isso.
+Ruan reconhece que pode parecer fútil ou injusto, mas pessoas julgam e são julgadas pela aparência. A aula não transforma isso em culto à estética, e sim em consciência profissional: se a percepção acontece de qualquer forma, o designer precisa conduzi-la melhor.
 
-Como é que você sabe que você vai conseguir me entregar isso? Ah, olha que eu não tô olhando no rosto, né? Não dá para ter certeza que eu vou conseguir.
+A roupa, o cuidado visual, o tom de voz, o vocabulário e o comportamento criam uma leitura antes do conteúdo técnico. A imagem pessoal precisa combinar com a promessa feita ao mercado e com o tipo de cliente que o profissional deseja atrair.
+
+## Imagem como parte da estratégia
+
+Construir imagem pessoal não significa fantasiar uma personalidade. Significa reduzir ruídos e aumentar coerência entre quem o profissional é, o que ele entrega e o que deseja que o mercado perceba.
+
+A aula prepara o aluno para olhar a própria presença como um ponto de contato. A imagem vira uma extensão da marca pessoal e precisa ser tratada com o mesmo cuidado que se aplicaria a qualquer projeto de design.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Revise sua foto, bio, forma de falar sobre seu trabalho e aparência em reuniões. Escolha um ajuste simples que aumente coerência entre o valor que você cobra e a segurança que você transmite.

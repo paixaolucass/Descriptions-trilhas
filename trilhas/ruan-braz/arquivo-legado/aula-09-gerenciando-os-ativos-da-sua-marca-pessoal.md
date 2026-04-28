@@ -1,4 +1,4 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [415 palavras estimadas] / [415 ÷ 200 = 3 minutos]
 
 # Gerenciando os ativos da sua marca pessoal
 
@@ -8,28 +8,35 @@ Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas]
 
 Ao final desta aula, você será capaz de:
 
-- identificar o papel de gerenciando os ativos da sua marca pessoal na construção da marca pessoal
-- distinguir os critérios centrais apresentados pelo professor
-- aplicar o raciocínio da aula na própria atuação profissional
+- identificar ativos que sustentam a identidade da marca pessoal
+- reconhecer como nome, imagem e símbolos influenciam expectativa
+- distinguir presença pessoal e presença de uma marca maior
+- aplicar critérios de consistência aos pontos de contato da marca
 
-## Ativos da marca pessoal
+## Ativos que conduzem percepção
 
-Como dar identidade para sua marca pessoal. Na última aula nós falamos sobre a importância que a sua imagem pessoal tem para que o seu cliente compre você antes de comprar o seu conhecimento, o seu serviço de design, as suas habilidades. Nós entendemos que não adianta você ser o melhor designer se você não parece ser tão bom quanto você é.
+Depois de falar sobre imagem pessoal, Ruan passa para os ativos da marca. Ele reforça que design é conduzir percepção e que, na marca pessoal, essa condução acontece pelo nome, pela imagem, pela voz, pelo comportamento e pelos símbolos usados nos pontos de contato.
 
-Pessoas compram de pessoas e é por isso que a imagem é muito importante. Nesse episódio aqui, nós vamos centralizar três ativos muito importantes para a construção da sua marca pessoal. Mesmo você, que talvez decida criar uma agência ou construir uma marca que vai além de você como uma pessoa, é importante que você preste atenção nesses ativos porque são eles que você vai utilizar para transmitir uma mensagem sobre você.
+Mesmo quem pretende criar uma agência ou uma marca que vá além da própria pessoa precisa cuidar desses ativos. Enquanto o profissional aparece como representante da marca, ele transmite significado e influencia a confiança do cliente.
 
-## Organização dos pontos de contato
+## Expectativa antes da entrega
 
-Mas um nome fabuloso, um nome excelente, esse vai influenciar diretamente no seu resultado. E isso eu posso te falar com certeza absoluta. percentual de retorno que um nome vai te trazer, né?
+A conexão com o cliente começa antes do projeto. A imagem, o nome e a presença digital criam expectativa sobre o tipo de entrega que virá. Em serviços, essa expectativa pesa ainda mais porque o cliente compra algo que ainda não existe.
 
-Porque é muito subjetivo, não dá pra medir, mas ele impacta sim. E, às vezes, você tem um nome que passa uma percepção que você não gostaria e você está totalmente livre pra mudar e eu vou te mostrar aqui. vamos para as diretrizes, tá?
+Ruan lembra que, em projetos de maior valor, o cliente deixa de comprar apenas habilidade técnica. Ele avalia a pessoa, a segurança, a organização e a percepção de que aquele profissional dará conta de conduzir um processo relevante.
 
-## Consistência na gestão da presença profissional
+## Nome, símbolo e coerência
 
-O Silvio Santos teve que se acostumar a ser chamado de Silvio Santos, a Anitta teve que se acostumar a ser chamada de Anitta, ela inclusive teve que se acostumar a se apresentar como Anitta. Então é natural, você pode sentir um pouco estranho no início, mas se você acredita que tem um outro nome que te vende melhor, que constrói uma expectativa melhor, para você não tem nada de errado com isso. o primeiro ajuste, com um abraço.
+A aula discute a importância de ativos como nome e símbolo. Um nome fraco, confuso ou desalinhado pode atrapalhar a percepção, enquanto um nome coerente pode facilitar lembrança, posicionamento e diferenciação. O mesmo vale para imagem e elementos visuais.
 
-E o segundo ajuste eu vou mexer no meu rótulo. Eu não vou mais me colocar com um rótulo que vai aumentar as chances da pessoa me colocar numa gaveta genérica. Eu quero um rótulo que vai no mínimo despertar a curiosidade da pessoa para que ela pergunte o que você faz exatamente.
+O professor não trata esses ativos como detalhes isolados. Eles formam um sistema de sinais. Quando estão consistentes, reforçam a mensagem. Quando estão dispersos, criam dúvidas sobre o que a marca é e qual valor entrega.
+
+## Pontos de contato como sistema
+
+Gerenciar ativos significa olhar para todos os lugares onde o cliente encontra a marca: perfil, foto, apresentação, site, proposta, materiais e redes. Cada ponto precisa reforçar a mesma percepção central.
+
+A aula prepara o aluno para transformar a marca pessoal em uma presença mais organizada. Não se trata de criar uma identidade visual sofisticada de imediato, mas de reduzir incoerências e deixar os sinais básicos trabalhando a favor da conquista.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Liste seus ativos atuais: nome profissional, foto, usuário, símbolo, bio, assinatura, portfólio e proposta. Marque quais estão coerentes com a percepção que você deseja transmitir e quais precisam ser atualizados.

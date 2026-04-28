@@ -1,4 +1,4 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [5 blocos] / [12 parágrafos totais] / [490 palavras estimadas] / [490 ÷ 200 = 3 minutos]
 
 # A proposta encantadora
 
@@ -8,28 +8,41 @@ Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas]
 
 Ao final desta aula, você será capaz de:
 
-- identificar os elementos que fortalecem uma proposta profissional
-- estruturar argumentos de valor antes da apresentação do preço
-- reconhecer como clareza e apresentação aumentam confiança
+- identificar a diferença entre proposta, orçamento, briefing e contrato
+- estruturar uma proposta em contexto, método, cronograma e fechamento
+- aplicar ancoragem antes da apresentação do preço
+- reconhecer garantias e objeções como parte do fechamento
 
-## A proposta como experiência
+## Proposta não é orçamento
 
-Chegou a hora de falarmos sobre a proposta encantadora. Depois de trabalhar no seu Blueprint e você desenhar mesmo, planejar a sua metodologia, chegou a hora de construir a sua oferta, entender o que é a proposta, o que você vai oferecer para os seus clientes. Lembrando que tudo que eu estou ensinando aqui nesse módulo é como uma visão geral.
+Ruan começa distinguindo proposta de orçamento, briefing e contrato. Um orçamento apenas informa preço. Um briefing coleta informações. Um contrato formaliza obrigações. A proposta encantadora tem outra função: apresentar uma solução desejável para um problema específico.
 
-Você pode aplicar esses mesmos passos em todos os seus serviços, fazer para cada serviço. se você tem o serviço de design de identidade de marcas, para ele você tem um blueprint e tem uma proposta. Aí vamos supor que você tem um serviço de construção de sites também, mas é um serviço diferente.
+O erro de muitos designers é enviar uma tabela ou PDF com preço, tratando o serviço como commodity. A proposta, para Ruan, precisa construir percepção de valor antes do preço aparecer. Ela deve mostrar que existe entendimento, método e caminho.
 
-## Clareza, encanto e segurança
+## Cada serviço pede uma proposta
 
-Basicamente, ancoragem, eu vou mostrar aqui para vocês, é você criar uma expectativa de valor que seja mais alta do que realmente é o preço. o seu cliente tem que sentir que vai ser muito mais caro do que é para que isso soe como uma boa notícia para ele, a ancoragem tem esse papel. Depois o investimento, que é, de fato, quanto custa para poder começar esse projeto.
+A aula reforça que cada serviço deve ter seu próprio Blueprint e sua própria proposta. Um serviço de identidade de marca e um serviço de construção de site podem compartilhar posicionamento e hipernicho, mas precisam de processos e argumentos específicos.
 
-Garantias, ou seja, designer vender o futuro, como é que eu posso dar garantias de que eu vou te entregar isso, como é que eu posso deixar o meu cliente mais tranquilo fechando essa proposta comigo, principalmente em propostas de valores mais altos, a garantia tem um papel fundamental. E as objeções, que são possíveis perguntas que impedem o seu cliente de fechar, às vezes ele vai falar que não tem dinheiro, que não tem tempo, será que é para mim, será que agora é o melhor momento, ou será que eu realmente preciso disso, tem uma série de objeções, é importante nós identificarmos elas, eu já te mostrei como fazer isso antes e aqui é o momento onde nós vamos resolver essas objeções, Juan, eu não estou lembrando onde que você me ensinou como resolver as objeções, perfil ideal de cliente.
+Isso evita uma oferta genérica. A proposta precisa nascer do serviço que será vendido, do cliente que será atendido e da demanda que será resolvida. Quanto mais alinhados esses elementos estão, mais a proposta parece feita para aquele contexto.
 
-## Como apresentar valor antes do preço
+## O roteiro da proposta encantadora
 
-Eu fiz a marca dele, a identidade de marca, mas eu também fiz o site dele. Esse projeto é um projeto de mais ou menos seis meses, tá? Fiz o website dele, fiz a marca dele.
+Ruan apresenta uma estrutura que passa por abertura, promessa, problema, contexto, método e cronograma. A proposta deve começar mostrando o benefício que o cliente terá, não falando do ego do designer.
 
-Naquela época também, eu desenhei alguns funis... Que é, eu mapiei os melhores pontos de contato e desenhei um funil. Uma jornada do cliente junto com ele.
+O contexto mostra por que aquele problema importa. O método explica como será resolvido. O cronograma organiza quando as etapas acontecem. O Blueprint entra como base para traduzir o processo em uma versão clara para o cliente.
+
+## Ancoragem, preço, garantias e objeções
+
+Antes de mostrar o preço, a proposta deve ancorar valor. A ancoragem cria uma expectativa de valor mais alta que o investimento, fazendo o preço soar como uma boa notícia. Só depois entram preço e formas de pagamento.
+
+Após o preço, o designer precisa lidar com segurança e dúvidas. Garantias ajudam o cliente a confiar em uma entrega futura. Objeções como falta de dinheiro, tempo, urgência ou momento certo precisam ser previstas e respondidas dentro da proposta ou da apresentação.
+
+## Apresentar em vez de apenas enviar
+
+Ruan também defende a apresentação da proposta em reunião, especialmente para projetos de maior valor. Ao apresentar, o designer conduz a leitura, contextualiza cada parte e evita que o cliente pule direto para o preço sem passar pela construção de valor.
+
+Os exemplos citados, como LabFood, Alquimia Científica e outros projetos, servem para mostrar que uma proposta não precisa ser o design mais sofisticado para funcionar. Ela precisa ser estratégica, clara e construída em torno do cliente.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Pegue um serviço atual e escreva a estrutura da sua proposta em cinco partes: promessa, problema, método, cronograma e fechamento. Só depois disso defina onde o preço será apresentado.

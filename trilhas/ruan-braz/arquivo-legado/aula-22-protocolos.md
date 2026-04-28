@@ -1,35 +1,42 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [368 palavras estimadas] / [368 ÷ 200 = 2 minutos]
 
 # Protocolos
 
-**Tempo estimado de leitura:** 3 minutos
+**Tempo estimado de leitura:** 2 minutos
 
 ## Objetivos de aprendizado
 
 Ao final desta aula, você será capaz de:
 
-- identificar o papel de protocolos na construção da marca pessoal
-- distinguir os critérios centrais apresentados pelo professor
-- aplicar o raciocínio da aula na própria atuação profissional
+- identificar protocolos como regras de funcionamento do projeto
+- reconhecer a importância de contrato, cobrança, cronograma e combinados
+- distinguir segurança jurídica e gestão prática da relação com o cliente
+- aplicar protocolos antes de iniciar novos projetos
 
-## Protocolos como forma de trabalho
+## Sua casa, suas regras, quase isso
 
-Essa aqui é mais uma aula que não seria exatamente sobre ambiente, mas para ficar didático, esse é o espaço que eu acredito que faz mais sentido eu falar sobre esse assunto. Já falamos do CNPJ, custos, preço... E outro fator muito importante de levar em consideração aqui são os seus processos.
+Ruan apresenta protocolos como a forma de organizar processos importantes: negociação, fechamento, contrato, cronograma, cobrança e condução do projeto. A expressão sua casa, suas regras aparece com ressalva, porque o projeto também depende de combinados com o cliente.
 
-Como você gerencia cada um dos processos mais importantes? Como que você negocia com o seu cliente? como que você faz o fechamento de uma venda com ele, tem contrato, não tem.
+Os protocolos evitam improviso. Antes de vender, o designer precisa saber como aceita pagamento, como formaliza contrato, como inicia o projeto, como lida com aprovações, revisões e atrasos.
 
-## Processos, limites e previsibilidade
+## Combinados antes do problema
 
-você consegue utilizar isso daqui de maneira jurídica e o legal é que você consegue colocar uma caixinha de texto aqui e o cliente só digita na hora. você não precisa nem solicitar os dados, os dados podem ser preenchidos na hora que o cliente vai assinar o contrato, isso é muito legal também, tá? Depois aqui tem o procedimento que é basicamente falando com base no que o contrato foi elaborado e aí a gente entra nessa cláusula.
+A aula mostra que muitos conflitos surgem porque nada foi combinado antes. O cliente pode envolver sócios, familiares ou outras pessoas na decisão, pedir mudanças fora do previsto ou interpretar de forma diferente o que foi contratado.
 
-Aqui você não precisa mudar, mas aqui já é importante você mudar de acordo com o serviço que você coloca aqui. O objeto do contrato é você descrever exatamente sobre o que é esse contrato. Em alguns contratos vocês vão ver que as pessoas colocam como anexo.
+O protocolo dá previsibilidade. Ele não elimina todos os problemas, mas reduz brechas, organiza expectativas e cria uma referência para conversas difíceis.
 
-## Como organizar relações com clientes
+## Contrato como segurança parcial
 
-realmente você tem que estar ciente de que você não gostou e quer uma segunda opção. Às vezes é agressivo, nem sempre eu acione isso aqui, na verdade eu nunca acionei isso aqui porque geralmente funciona, a conversa é sempre o primeiro passo, né? Contrato é a última opção que a gente usa.
+Ruan explica que contrato é importante, mas não garante tudo. Um contrato não garante que o cliente pagará, nem substitui uma boa relação. Ele serve como camada de segurança, especialmente quando bem elaborado e adaptado ao serviço.
 
-O contratado não trabalha com concorrência especulativa e nem com mais de uma opção para apresentação. Será apresentado um único projeto e só refeito estudos em caso de reprovação do mesmo. Isso aqui é importante deixar claro para o cliente também.
+A aula menciona um modelo genérico disponibilizado como ponto de partida, mas reforça que o ideal é contar com orientação jurídica quando possível. Nem modelo pronto nem ferramenta de IA substituem uma análise profissional do contrato.
+
+## Ferramentas e pontos do contrato
+
+A aula passa por itens como identificação das partes, representante que decide, objeto do contrato, procedimentos, anexos e assinatura digital. Ferramentas como DocuSign aparecem como caminhos para facilitar assinatura e preenchimento de dados.
+
+Mais do que decorar cláusulas, o aluno deve compreender o papel do contrato dentro do protocolo. Ele entra depois da proposta e antes da execução, formalizando o que foi prometido e como a relação vai funcionar.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Escreva seu protocolo mínimo de fechamento: proposta aprovada, contrato enviado, pagamento inicial, nota fiscal, cronograma e início do projeto. Defina qual etapa não pode ser pulada.

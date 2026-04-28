@@ -1,35 +1,42 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [360 palavras estimadas] / [360 ÷ 200 = 2 minutos]
 
 # Conclusão
 
-**Tempo estimado de leitura:** 3 minutos
+**Tempo estimado de leitura:** 2 minutos
 
 ## Objetivos de aprendizado
 
 Ao final desta aula, você será capaz de:
 
-- identificar o papel de conclusão na construção da marca pessoal
-- distinguir os critérios centrais apresentados pelo professor
-- aplicar o raciocínio da aula na própria atuação profissional
+- reconhecer os principais aprendizados da trilha
+- identificar próximos estudos para aprofundar vendas e marketing
+- aplicar a orientação de agir antes de buscar informação infinita
+- estruturar próximos passos para construir um negócio de design
 
-## O fechamento da jornada
+## A ponta do iceberg
 
-Quanta coisa a gente falou até aqui, não é mesmo? Muita coisa e eu preciso te dizer a verdade. Ainda tem muito mais que nós podemos falar, tem muito mais que você pode estudar, mas eu recomendo que você aplique.
+Ruan encerra a trilha reconhecendo que muita coisa foi abordada, mas ainda assim o conteúdo é apenas a ponta do iceberg. Há mais a estudar sobre marketing, vendas, performance, captação e previsibilidade.
 
-Você não precisa saber de tudo para começar a ter resultado. Não dá para saber, ter que coletar toda a informação primeiro para depois começar a agir. você terminou esse curso aqui e eu já posso te falar uma coisa tem muito mais a aprender, tem muito mais que você pode fazer para poder ter mais resultados na sua empresa, para ter uma receita mais previsível, eu gostaria de te ensinar muito mais, inclusive quem sabe no futuro ter mais e mais aulas aqui para você no momento é isso aqui, isso aqui eu acredito que é a essência o ponto inicial para que você construa um negócio, não pense só no próximo cliente, claro o primeiro cliente é importante o próximo cliente é importante, mas para que você já tem uma mentalidade de como construir um negócio de verdade.
+A recomendação principal, porém, é aplicar. O aluno não precisa saber tudo para começar a ter resultado. Esperar informação completa antes de agir é um engano, porque a prática também ensina.
 
-## Retomar os pilares do curso
+## O essencial para construir um negócio
 
-Eu passei pra você 20 maneiras de conseguir seus primeiros clientes e você pode continuar utilizando elas pra conseguir novos clientes. E esse livro aqui te mostra como ser um ser humano, uma pessoa decente que não fica querendo empurrar produto da goela abaixo das pessoas. As pessoas vão gostar de você depois desse livro.
+O curso buscou entregar a essência para que o designer não pense apenas no próximo cliente, mas em um negócio de verdade. O primeiro cliente importa, mas a mentalidade precisa caminhar para estrutura, posicionamento, ambiente e previsibilidade.
 
-é o primeiro que eu recomendo pra você. O segundo que eu recomendo, esse aqui é mais de processo, tá? Quero aprender marketing, aprender marketing de atração, marketing de...
+Persona, demanda e ambiente aparecem como base dessa construção. A trilha passa por autoconhecimento, imagem, hipernicho, demandas, oferta, proposta, infraestrutura, abordagem, conteúdo e tráfego para formar um sistema.
 
-## Próximos passos após a trilha
+## Recomendações de leitura
 
-Esse aqui é o segundo livro do Aaron Ross, não sei se é o segundo que ele escreveu, mas esse daqui veio depois daquele lá, isso que eu quis dizer. é um livro muito bom também, que ensina sobre a parte de captação e geração de leads, tá? Um livro excelente, utilizado pelas maiores empresas do Vale do Silício também, muito bom e eu recomendo pra você.
+Para continuar estudando, Ruan recomenda livros sobre vendas e marketing. O primeiro é SPIN Selling, indicado para aprender uma abordagem mais consultiva e humana, sem empurrar produto de forma inconveniente.
 
-E pra fechar aqui, eu tenho um pack com três livros aqui aqui, muito bons, do Russell Brunson. Russell Brunson é o maior nome do marketing hoje lá nos Estados Unidos. E a H1 editora, uma editora muito massa, que tá traduzindo vários livros lá dos Estados Unidos pra cá, criou essa coleção com os três livros mais famosos dele.
+Ele também recomenda Receita Previsível, de Aaron Ross, para quem quer estudar processos de vendas, prospecção e geração de receita. Em seguida, cita Hipercrescimento, também ligado a Aaron Ross, com foco em captação e geração de leads.
+
+## Marketing e aprofundamento contínuo
+
+A aula cita ainda os livros de Russell Brunson publicados no Brasil pela H1, apresentados como materiais fortes para quem deseja estudar marketing, atração e estrutura de funis.
+
+O encerramento reforça que conhecimento não está apenas em vídeos ou buscas rápidas. Livros, audiobooks e estudo contínuo ajudam o designer a amadurecer como empreendedor, desde que sejam acompanhados de ação.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Escolha uma ação prática da trilha para executar nos próximos sete dias: ajustar persona, revisar oferta, montar proposta, preparar site, abordar leads ou publicar conteúdo. Depois escolha um livro recomendado para aprofundar o próximo tema.

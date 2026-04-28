@@ -1,4 +1,4 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [421 palavras estimadas] / [421 ÷ 200 = 3 minutos]
 
 # Entendendo o posicionamento
 
@@ -8,28 +8,35 @@ Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas]
 
 Ao final desta aula, você será capaz de:
 
-- identificar o papel de posicionamento na construção da marca pessoal
-- distinguir os critérios centrais apresentados pelo professor
-- aplicar o raciocínio da aula na própria atuação profissional
+- identificar o posicionamento como escolha estratégica de mercado
+- distinguir oferta, procura, concorrência e percepção de valor
+- reconhecer por que soluções genéricas atraem clientes genéricos
+- aplicar foco de segmento na comunicação da oferta
 
-## Posicionamento como escolha estratégica
+## A passagem de persona para demanda
 
-Agora que nós terminamos o módulo de persona, chegou a hora de falarmos sobre a demanda. No módulo de persona, você entendeu quais são as variáveis suas, como pessoa, que você pode aprimorar para se vender para o seu cliente. Afinal de contas, antes de comprar o seu projeto, os clientes vão comprar você.
+A aula inicia o módulo de demanda retomando o que foi construído em persona. Depois de trabalhar imagem, postura e sinais pessoais, chega o momento de olhar para o mercado, para os problemas do cliente e para a forma como o designer escolhe ocupar espaço.
 
-eu mostrei para vocês vários detalhes, informações importantes que você transmite com a sua imagem, seu tom de voz, seu comportamento e várias outras variáveis. O módulo de persona é muito importante. Se você não assistiu ele, eu recomendo que você assista.
+Ruan reforça que posicionamento é uma palavra central do curso. Ela influencia preço, proposta, cliente atraído, textos do site, conteúdo publicado e abordagem comercial. Por isso, a aula cria a base para todas as próximas decisões.
 
-## Diferença, clareza e reconhecimento
+## Oferta, procura e problema do cliente
 
-E se a gente parte dessa premissa que não existe uma solução universal, um erro muito comum que designers cometem é o erro de tentar oferecer o seu serviço como um serviço que resolve todos os problemas. Isso não é ruim só porque não é verdade, né? Nenhum design resolve todos os problemas de uma vez só, você tem abordagens diferentes de acordo com o contexto, mas além de não ser uma verdade, isso também não atrai o seu cliente.
+O professor retoma a ideia de que o mercado é uma moeda de dois lados: oferta e procura. A oferta é aquilo que o designer coloca no mundo. A procura é aquilo que o cliente busca, mesmo quando ainda não sabe nomear tecnicamente.
 
-Olha só, então nós temos aqui três terrenos diferentes, que é o que o seu cliente quer, o que você faz de melhor e o que os seus concorrentes fazem de melhor. vamos pegar aqui essa interseção de conflito. Vai lá no conflito, puxa a setinha, tem uma área ali de interseção.
+Posicionamento serve para aproximar essas duas forças. Quando o designer entende o problema antes de oferecer algo, sua comunicação deixa de ser genérica e passa a falar diretamente com uma demanda reconhecível.
 
-## Como ocupar um lugar na mente do mercado
+## Concorrência não é só quem faz o mesmo
 
-Quanto tempo você demoraria para fazer isso? Existe uma diferença aqui entre você se posicionar e você não aceitar nenhum tipo de projeto, tá? Não quer dizer que você não precisa aceitar outros projetos que apareçam, mas na hora de se posicionar, na hora de produzir seu conteúdo, criar seu website, construir a sua mensagem, sua proposta de valor, você vai ter como alvo um segmento de cliente específico, com uma oferta específica.
+A aula amplia a noção de concorrência. O concorrente não é apenas outro designer que oferece o mesmo serviço. Concorrência também pode ser qualquer solução que disputa o orçamento, a atenção ou a prioridade do cliente.
 
-E não tem como você focar, você focar a sua comunicação, deixá-la mais clara, se você não tem um alvo, um público específico com o qual você queira conversar. Quanto menos específico você é, mais genérica é a sua mensagem e mais parecido ou parecida você fica com todos os outros designers que existem. Ofertas específicas são mais poderosas.
+Por isso, oferecer design como solução universal enfraquece a mensagem. Nenhum serviço resolve todos os problemas de uma vez. O posicionamento exige escolher um recorte, um tipo de cliente, uma dor principal e uma promessa mais específica.
+
+## Foco sem prisão
+
+Ruan diferencia posicionar-se de recusar qualquer projeto fora do foco. O aluno pode aceitar outros trabalhos, especialmente em fases de construção. Mas, ao comunicar, produzir conteúdo, escrever site e organizar proposta de valor, precisa mirar um segmento específico.
+
+Esse foco torna a mensagem mais convincente. O cliente sente que o designer fala com ele, sobre o problema dele, no contexto dele. A partir daí, preço e proposta passam a ser percebidos dentro de uma lógica de valor, não apenas como custo.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Escreva em uma frase para quem você quer ser lembrado e qual problema quer resolver. Depois, teste se essa frase excluiria alguns clientes genéricos. Se não excluir ninguém, ainda está ampla demais.

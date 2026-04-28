@@ -1,35 +1,42 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [392 palavras estimadas] / [392 ÷ 200 = 2 minutos]
 
 # A personalidade atraente
 
-**Tempo estimado de leitura:** 3 minutos
+**Tempo estimado de leitura:** 2 minutos
 
 ## Objetivos de aprendizado
 
 Ao final desta aula, você será capaz de:
 
-- identificar o papel de a personalidade atraente na construção da marca pessoal
-- distinguir os critérios centrais apresentados pelo professor
-- aplicar o raciocínio da aula na própria atuação profissional
+- reconhecer a personalidade atraente como força de relacionamento
+- identificar comportamentos que aproximam ou afastam clientes
+- distinguir carisma genuíno e tentativa artificial de agradar
+- aplicar interesse real nas interações profissionais
 
-## Personalidade como força de atração
+## A história de Napoleon Hill
 
-Como se tornar uma pessoa magnética. Eu quero começar essa aula com uma história que foi contada pela primeira vez lá em 1925, por um cara chamado Napoleon Hill, quando ele escreveu o livro A Lei do Triunfo. Essa é a história que mais me marcou daquele livro e é um livro onde o subcapítulo dele se chama personalidade atraente.
+Ruan abre a aula com uma história de Napoleon Hill em A Lei do Triunfo, ligada ao conceito de personalidade atraente. A narrativa dos vendedores mostra que a forma como alguém se relaciona pode mudar completamente a receptividade do outro.
 
-Como cultivar uma personalidade atraente, alguma coisa nesse sentido. E ele conta a história de quando ele treinava vendedores. Olha só, lá em 1925, daqui dois anos, vão completar 100 anos que ele escreveu essa história, cara, para vocês terem noção.
+A história é usada para mostrar que esse tema não é novo. Mesmo quase um século depois, seres humanos continuam reagindo a sinais de simpatia, confiança, interesse, escuta e respeito. A técnica muda, mas o comportamento humano segue central.
 
-## Autenticidade, postura e comunicação
+## Personalidade não é personagem
 
-Só que o que isso mais faz é te afastar da pessoa. E você fala, nossa, que pessoa chata, que pessoa cansativa, tentando fingir que minha amiga enquanto ainda não é. Se você quer ser amigo ou amiga do seu cliente, conquiste isso.
+A personalidade atraente não é uma máscara para manipular pessoas. Ruan trata o conceito como uma postura mais agradável, interessada e consciente. O objetivo é ser alguém com quem o cliente gosta de conversar e em quem sente vontade de confiar.
 
-E vai ser muito mais sólido do que tentar forçar essa intimidade. Tem gente que usa isso para tentar vender mais, mas pode acreditar. Fica forçado e mais te atrapalha do que te ajuda.
+Isso não significa se tornar extrovertido à força. Significa evitar comportamentos que tornam a relação pesada: arrogância, desinteresse, excesso de fala sobre si, impaciência, postura defensiva ou tentativa de empurrar uma venda.
 
-## Como tornar a marca pessoal desejável
+## Interesse genuíno pelo outro
 
-Às vezes você não concorda com o que alguém disse, mas uma vez eu ouvi uma frase que fez muito sentido pra mim. A verdade nunca está mais pra cá ou mais pra cá. Existe a sua verdade, a minha verdade e a verdade verdadeira.
+A aula se conecta a Como Fazer Amigos e Influenciar Pessoas ao reforçar o valor do interesse genuíno. As pessoas gostam de ser ouvidas e reconhecidas. Quando o designer demonstra atenção real ao problema do cliente, a conversa deixa de ser uma disputa de venda.
 
-mesmo que alguém tenha uma ideia diferente da sua, pode ter certeza que a mais próxima. do equilíbrio entre o pensamento de vocês dois. Claro que existem exceções e, claro, a exceção acaba confirmando a regra, mas lembre-se disso também.
+Esse interesse precisa ser verdadeiro. O cliente percebe quando existe oportunismo ou quando a conversa é apenas um caminho para chegar ao preço. A personalidade atraente nasce quando a intenção de ajudar aparece antes da intenção de fechar.
+
+## A personalidade como ativo comercial
+
+Ruan posiciona a personalidade como parte da persona profissional. O modo como o designer conversa, pergunta, escuta e reage influencia a confiança e pode tornar a experiência de compra mais leve.
+
+Uma personalidade atraente facilita reuniões, propostas, networking e indicações. Clientes tendem a lembrar de profissionais que resolvem problemas e também tornam o processo mais humano, claro e agradável.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Na próxima conversa com um cliente ou possível cliente, faça três perguntas antes de explicar sua solução. Observe se sua postura comunica interesse real ou pressa para vender.

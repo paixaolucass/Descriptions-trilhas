@@ -1,4 +1,4 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [517 palavras estimadas] / [517 ÷ 200 = 3 minutos]
 
 # Objetivo e filosofia do curso
 
@@ -8,28 +8,35 @@ Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas]
 
 Ao final desta aula, você será capaz de:
 
-- identificar o papel de objetivo e filosofia do curso na construção da marca pessoal
-- distinguir os critérios centrais apresentados pelo professor
-- aplicar o raciocínio da aula na própria atuação profissional
+- identificar o objetivo central do curso de Posicionamento e Conquista
+- reconhecer a diferença entre construir uma marca e apenas buscar clientes isolados
+- distinguir os três pilares do curso: persona, demanda e ambiente
+- aplicar a filosofia de ser boa notícia no dia das pessoas
 
-## A infraestrutura da marca
+## Construir a infraestrutura da marca
 
-Boas-vindas à primeira aula do nosso curso de Posicionamento e Conquista, o curso onde você vai aprender a construir a sua marca no mercado criativo. O objetivo aqui do nosso curso é criar a infraestrutura da sua marca do zero, da concepção à entrega. Significa que eu vou te ajudar a se enxergar como profissional, a se tornar profissional e a se posicionar como profissional.
+Ruan apresenta o curso como um processo de construção da marca no mercado criativo. O objetivo não é apenas ensinar ações soltas para conseguir clientes, mas criar a infraestrutura da marca desde a concepção até a entrega, ajudando o designer a se enxergar, agir e se posicionar como profissional.
 
-O meu papel aqui é como o papel da fada madrinha, que pegou um pouquinho de abóbora, alguns ratinhos e uma moça ali bem suja de tanto limpar a casa e transformou em uma princesa e uma carruagem com alazões. O meu papel é transformar vocês em designers profissionais, sair da esfera do amadorismo, tanto de imagem quanto de postura, de atitude e transformar vocês em profissionais desejados pelo mercado. E por isso, essa não é uma missão de um dia ou dois, é uma missão que vai levar algumas aulas, é importante que você aplique tudo que você vai aprender aqui nesse curso.
+A metáfora da transformação aparece logo no início: sair do amadorismo de imagem, postura e atitude para se tornar alguém desejado pelo mercado. Essa mudança não acontece em uma aula isolada. Por isso, o professor reforça que cada exercício deve ser feito no momento em que aparece, antes de avançar para o próximo conteúdo.
 
-## A filosofia de ser boa notícia
+## A raiz antes dos galhos
 
-E eu disse que o nosso papel, quando nós vamos vender o nosso design, não é vestir uma fantasia de vendedor chato. Sabe, aquele vendedor que fica empurrando coisas que as pessoas não querem Aquele vendedor inconveniente Nós não precisamos vestir essa fantasia Nós não precisamos ser esses vendedores Nós não precisamos deixar de ser designers para vender o nosso serviço É possível vender sem vender A partir dessa filosofia simples aqui, ser a boa notícia no dia das pessoas. E o que significa ser a boa notícia no dia das pessoas?
+O curso usa a imagem da árvore para explicar a ordem da construção. Antes de falar das folhas, dos galhos ou do tronco, é preciso cuidar da raiz que sustenta o negócio. Por isso, a trilha passa por temas que parecem administrativos, como CNPJ, mas que fazem parte da base profissional.
 
-Pensa comigo, você está vivendo o seu dia cheio de problemas para poder resolver, cheio de coisas te atormentando, você só queria viver um dia feliz, um dia realizado, com notícias boas. Mas a gente sabe que o mundão não é assim, né? isso significa que muitos dias são pesados, difíceis e cheios de problemas.
+Essa infraestrutura inclui mentalidade, autopercepção, posicionamento, pontos de contato e estrutura de entrega. A escolha da palavra marca, e não apenas negócio, mostra que o foco é criar uma presença capaz de sustentar uma estratégia comercial e conquistar melhores clientes.
+
+## Ser a boa notícia no dia das pessoas
+
+A filosofia central do curso é ser a boa notícia no dia das pessoas. Ruan explica que muitos designers sentem dificuldade em vender porque associam venda a uma postura inconveniente, insistente ou artificial. A proposta do curso é mostrar que não é necessário deixar de ser designer para vender design.
+
+Ser boa notícia significa aparecer como solução em um dia cheio de problemas. O cliente não quer mais ruído, mais oferta genérica ou mais uma promessa desconectada da realidade. Ele quer alguém que reconheça o problema, saiba resolver e transmita confiança para assumir essa responsabilidade.
 
 ## Persona, demanda e ambiente
 
-Talvez fosse a maior dificuldade, principalmente naquela semana, onde eu tinha feito, sério, umas 15, mais ou menos 15 consultorias ali de uma hora a cada durante a semana. Ah, eu tenho dificuldade para conseguir cliente. Como é que eu faço para conseguir cliente?
+A aula fecha apresentando os três critérios que estruturam a conquista de clientes: persona, demanda e ambiente. A persona está ligada à imagem e à percepção sobre o profissional. A demanda trata do mercado, do problema resolvido e da solução oferecida. O ambiente trata de estar no lugar certo, na hora certa, diante das pessoas certas.
 
-E aí eu lembro que depois de ouvir essa pergunta várias vezes, eu comecei a pensar como que eu posso simplificar esse processo de conseguir clientes de um jeito que fique fácil de entender, mas que capture a essência de ser a boa notícia no dia das pessoas. E eu lembro que eu estava em uma das consultorias e eu me coloquei nesse desafio. Como que eu faço para conseguir mais clientes?
+Ruan conta que chegou a essa síntese depois de muitas consultorias com alunos que repetiam a mesma dificuldade: conseguir clientes. Ao olhar para a própria trajetória, dos projetos baratos aos contratos mais altos, ele percebeu que os saltos aconteceram quando esses três fatores estavam bem trabalhados.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Antes de avançar, escreva como você aparece hoje para o mercado. Liste o que já transmite profissionalismo, o que ainda parece amador e qual dos três pilares, persona, demanda ou ambiente, precisa de mais atenção agora.

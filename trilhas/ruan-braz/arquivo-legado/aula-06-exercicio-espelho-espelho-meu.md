@@ -1,4 +1,4 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [415 palavras estimadas] / [415 ÷ 200 = 3 minutos]
 
 # Exercício: Espelho, espelho meu
 
@@ -8,28 +8,35 @@ Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas]
 
 Ao final desta aula, você será capaz de:
 
-- executar o exercício de espelho, espelho meu com foco prático
-- identificar os critérios que orientam a atividade proposta
-- aplicar as decisões da aula na construção da própria marca
+- executar exercícios de observação pessoal com foco profissional
+- identificar qualidades e defeitos que impactam a relação com clientes
+- reconhecer a diferença entre pessoa e negócio sem separar completamente os dois
+- aplicar registros de autoconhecimento na construção da persona
 
-## A lógica do exercício
+## O exercício como conversa consigo mesmo
 
-Existe alguém mais esperto do que eu? Agora eu vou te mostrar aqui três exercícios interessantes para que você se conheça melhor. Conheça suas qualidades, conheça seus defeitos, porque serão essas qualidades e defeitos que vão te ajudar ou te atrapalhar no desenvolvimento do seu negócio de design.
+A aula propõe exercícios para conhecer melhor qualidades e defeitos que podem ajudar ou atrapalhar o negócio de design. Ruan deixa claro que o aluno não é o próprio negócio, mas está à frente dele. Antes de comprar o serviço, muitos clientes compram a confiança na pessoa.
 
-É claro, é importante deixar aqui transparente isso. Você não é o seu negócio, você é uma pessoa, mas você está à frente dele. E antes de comprar o seu negócio, antes de comprar o seu serviço, o seu design, a sua metodologia, os seus clientes vão comprar você.
+Por isso, o exercício funciona como uma etapa de leitura pessoal. O objetivo não é criar um diário emocional, mas uma ferramenta de autoconhecimento voltada para decisões profissionais, imagem, postura e condução de relacionamentos.
 
-## O espelho como ferramenta de leitura pessoal
+## O caderno de autoconhecimento
 
-Eu sou avoado, às vezes eu sou pacífico demais, às vezes eu sou perfeccionista, narcisista, inseguro. E aí eu tenho a possibilidade de mudar. E aí eu começo a entender qual é a minha identidade.
+Ruan mostra um caderno comprado em 2015, no qual escrevia sobre si, sua marca, seus medos, sua timidez e a forma como se via. O exemplo serve para mostrar que autoconhecimento não surge de uma resposta rápida. Ele exige registro, confronto e continuidade.
 
-Eu sei que às vezes eu estou falando isso tudo, você está achando que é super óbvio, ou às vezes você está achando que é papo de coach, né? Eu quero reforçar isso que eu falei na última aula, eu vou repetir aqui. O mais importante é que você entenda quem você quer ser.
+A recomendação é ter um caderno para conversar consigo mesmo. O aluno deve usar esse espaço para identificar padrões, reconhecer inseguranças, registrar ambições e observar como essas percepções se conectam à construção da marca pessoal.
 
-## Como transformar percepção em direção
+## Qualidades, defeitos e direção
 
-Nós tendemos a ignorar o nosso lado ruim, esconder ele. Quando, na verdade, tudo que a gente precisa é jogar luz nele. Conhecer esse lado que você não gosta, acolher esse lado que você não gosta, para que você possa melhorar.
+O exercício não busca uma lista decorativa de características. Ele serve para perceber quais qualidades podem virar força de comunicação e quais defeitos precisam ser administrados para não enfraquecer a percepção do cliente.
 
-E o que é mais legal é que, muitas vezes, aqueles que eram seus defeitos se tornam suas maiores qualidades. Eu era uma pessoa que falava muito mal em público. Eu era uma pessoa que não sabia lidar com outras pessoas.
+Ao olhar para si com honestidade, o designer encontra pistas sobre como deve se apresentar. Uma pessoa mais analítica pode transformar isso em clareza de método. Uma pessoa mais comunicativa pode usar isso em relacionamento. Uma pessoa insegura precisa criar rituais e estrutura para transmitir mais firmeza.
+
+## Da percepção pessoal à ação
+
+O valor do exercício está em transformar reflexão em decisão. Depois de reconhecer características, o aluno precisa escolher o que será preservado, o que será lapidado e o que precisa ser evitado em situações comerciais.
+
+Essa prática prepara as próximas aulas sobre imagem pessoal e associação visual. A construção externa só faz sentido quando nasce de uma leitura interna mais clara.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Crie uma página chamada Espelho, espelho meu. Escreva cinco qualidades, cinco pontos de atenção e três decisões práticas para que sua postura profissional fique mais coerente com a pessoa que você quer se tornar.

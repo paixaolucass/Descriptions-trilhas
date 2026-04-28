@@ -1,35 +1,42 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [386 palavras estimadas] / [386 ÷ 200 = 2 minutos]
 
 # Preço
 
-**Tempo estimado de leitura:** 3 minutos
+**Tempo estimado de leitura:** 2 minutos
 
 ## Objetivos de aprendizado
 
 Ao final desta aula, você será capaz de:
 
-- identificar os fatores que influenciam a formação de preço
-- distinguir custo, valor percebido e sustentabilidade do trabalho
-- aplicar critérios objetivos para tomar decisões comerciais
+- identificar preço como decisão de posicionamento
+- distinguir custo, mercado e valor percebido
+- reconhecer por que não existe preço justo universal
+- aplicar critérios estratégicos para construir uma precificação
 
-## Preço como decisão estratégica
+## Preço é posicionamento
 
-Chegou a hora, finalmente, de nós falarmos das estratégias de precificação. Depois que nós tivemos uma aula sobre estrutura, agora chegou a hora de nós falarmos sobre preço. Você deve ter notado que essa aula está com a cor laranja e as aulas de cores laranja são do módulo de demanda.
+Ruan posiciona esta aula como parte do módulo de demanda, mesmo vindo depois de custos, porque preço comunica lugar no mercado. O preço passa uma mensagem sobre o tipo de profissional, o tipo de serviço e o tipo de cliente que se deseja atrair.
 
-Porque preço é muito mais, como vocês vão ver nessa aula aqui, sobre posicionamento do que sobre infraestrutura. O preço te posiciona no mercado, ele passa uma mensagem sobre que tipo de profissional você é. Mas antes de falar de preço, eu queria primeiro ter forrado esse terreno para você, ter te apresentado o que é um CNPJ, quais são as suas obrigações e, principalmente, qual é a sua estrutura de custo.
+Antes de falar de preço, ele preparou o terreno com CNPJ e estrutura de custo. Sem saber quanto custa existir, o designer pode precificar no escuro. Mas saber o custo não basta para definir o preço final.
 
-## Valor percebido, margem e posicionamento
+## O equívoco do preço justo
 
-Eu coloquei isso porque isso aqui não resolve a precificação. Existem várias estratégias diferentes de precificação, e como eu falo desde o início, o objetivo desse curso aqui é te ajudar, te ensinar a pensar como uma pessoa que faz a gestão de um negócio. Nós não estamos preocupados com um único serviço que você vai conseguir na semana que vem.
+A aula combate a crença de que existe um preço justo universal. Ruan mostra que preço não é apenas uma questão moral ou matemática. Ele depende de contexto, percepção de valor, posicionamento, autoridade, risco e demanda.
 
-Nós estamos preocupados em construir um negócio sustentável e até previsível, que vai te dar tranquilidade. nós temos que pensar um pouco mais além disso. Nós precisamos pensar em outros tipos de estratégias que existem e nós precisamos analisar outros fatores, além de simplesmente oportunidade e risco.
+Quando o designer tenta cobrar apenas o que acha justo em abstrato, pode se desvalorizar ou atrair clientes desalinhados. O preço precisa sustentar o negócio e também comunicar o nível de entrega e responsabilidade assumida.
 
-## Como sustentar uma precificação profissional
+## Mercado influencia, mas não manda sozinho
 
-Olha aqui, vocês acharam que eu não tô zoando. Então essa é a estratégia agressiva de entrada, mas tem a outra. Uma outra estratégia também muito interessante é a precificação de desnatamento.
+O mercado influencia a precificação, mas não dita tudo. Serviços diferentes, posicionamentos diferentes e públicos diferentes aceitam faixas de preço distintas. O mesmo tipo técnico de entrega pode ter valores muito diferentes dependendo do contexto.
 
-Talvez você nunca ouviu falar disso, mas esse realmente é um termo quando a gente fala de precificação. E o que é uma precificação de desnatamento? O processo de desnatamento é quando você tira a nata do leite.
+Por isso, olhar apenas para quanto outros designers cobram é insuficiente. É preciso considerar a demanda resolvida, a especificidade do cliente, o resultado prometido, a confiança construída e a capacidade de entregar.
+
+## Preço dentro da proposta de valor
+
+O preço precisa aparecer dentro de uma narrativa de valor. Quando o cliente entende o problema, a solução, o método e os ganhos esperados, o número deixa de ser avaliado isoladamente.
+
+Essa aula se conecta à proposta encantadora. O preço não é o começo da conversa. Ele é uma consequência da forma como o designer posiciona a própria solução, sustenta autoridade e reduz risco para o cliente.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Escolha um serviço e escreva três camadas de preço: custo mínimo, preço atual e preço desejado por posicionamento. Depois anote que evidências de valor você precisa construir para sustentar o preço desejado.

@@ -1,4 +1,4 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [422 palavras estimadas] / [422 ÷ 200 = 3 minutos]
 
 # O processo de autoconhecimento
 
@@ -8,28 +8,35 @@ Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas]
 
 Ao final desta aula, você será capaz de:
 
-- identificar o papel de o processo de autoconhecimento na construção da marca pessoal
-- distinguir os critérios centrais apresentados pelo professor
-- aplicar o raciocínio da aula na própria atuação profissional
+- reconhecer o autoconhecimento como marco zero da construção profissional
+- identificar qualidades, limites e comportamentos que interferem no negócio
+- distinguir fatores controláveis e fatores fora do controle do designer
+- aplicar reflexão pessoal na construção da própria persona
 
-## Autoconhecimento como base profissional
+## A aula mais importante do módulo
 
-Começamos a primeira aula do segundo módulo do nosso curso de posicionamento e conquista. E eu ouso dizer que essa é a aula mais importante de todo o módulo. Se você não levar em consideração o que eu vou te mostrar aqui hoje, nada mais importa.
+Ruan abre a aula afirmando que o autoconhecimento pode ser o conteúdo mais importante do módulo de persona. Ele pede que o aluno não trate o tema como autoajuda ou discurso motivacional, mas como uma ferramenta prática para a jornada profissional.
 
-Na verdade, eu não vou ser tão extremo assim com você, mas eu posso dizer que se você não olhar com a devida atenção porque eu vou te ensinar aqui hoje, nessa aula, todo o resto poderá ser comprometido. Mas antes da gente começar, eu quero que você esteja no espírito certo para assistir o conteúdo que eu vou te passar aqui hoje. Porque é muito fácil enquadrar esse tipo de conteúdo em livros de autoajuda, papo de coach, mas eu quero que você coloque esses conceitos de lado e você preste atenção nessa aula de maneira prática.
+A razão é simples: a persona começa na pessoa. Se o designer não observa a própria identidade, seus hábitos, inseguranças, forças e limites, todas as outras decisões de imagem, postura e comunicação ficam frágeis.
 
-## O olhar para dentro e para fora
+## Tudo começa em você
 
-Se você não conhece essa identidade, você deixa de fazer coisas importantes no processo. Por exemplo, você foca, eu quero conseguir um cliente. Só que melhor do que focar em conseguir um cliente, você tem que focar na sua identidade.
+O professor apresenta o marco zero: tudo começa no próprio profissional. Ele usa a frase de que não se colhe apenas o que se planta, mas o que o mundo não arrancou, para lembrar que a vida tem fatores imprevisíveis, injustos e fora do controle.
 
-Eu quero ser um designer profissional. Eu não quero conseguir clientes, eu quero ser um designer profissional. E aí a gente vem aqui para uma frase muito importante que diz, por trás de toda ação existe uma crença.
+Mesmo reconhecendo essas adversidades, a aula desloca a atenção para aquilo que pode ser influenciado. O designer não controla o mercado inteiro, os concorrentes ou todos os julgamentos externos, mas controla parte importante da própria postura, preparo e forma de agir.
 
-## Decisões que nascem da clareza pessoal
+## Identidade, verdade e coerência
 
-Nós temos vários vieses que fazem a gente acreditar, construir crenças que não são realmente a verdade, não são uma realidade de fato, mas sim a nossa percepção de mundo. E a maneira como você enxerga o mundo é como ele vai refletir de volta para você. É por isso que identidade não é só sobre a imagem que você vende para os outros.
+Autoconhecimento não aparece como uma busca abstrata. Ele serve para identificar quem o designer é, quem deseja se tornar e quais escolhas precisam ser coerentes com essa direção. Sem esse eixo, a imagem pessoal vira tentativa de copiar outra pessoa.
 
-Identidade não é só sobre como os outros te enxergam, mas é principalmente sobre como você se enxerga. Porque se você se ver contrário ao que você está fazendo, as vozes na sua cabeça, aquela vozinha falando, não devia estar fazendo isso, isso é errado, não me sinto bem fazendo isso, só elas vão ficar cada vez mais fortes e você vai tender a largar o que você estava fazendo. Mesmo que aquilo seja uma visão distorcida da realidade, mesmo que a realidade não seja aquilo de fato.
+Ruan reforça que a melhor versão do aluno não é uma versão falsa ou fabricada. É uma versão mais consciente, capaz de destacar qualidades reais, trabalhar defeitos relevantes e alinhar comportamento com o tipo de mercado que deseja conquistar.
+
+## O impacto no restante da trilha
+
+O conteúdo desta aula prepara os exercícios seguintes. Antes de ajustar roupa, fala, foto, marca pessoal ou presença digital, o aluno precisa perceber quais sinais quer transmitir e quais características pessoais podem ajudar ou atrapalhar a construção do negócio.
+
+Essa clareza influencia também demanda e ambiente. Quem não sabe que tipo de profissional quer ser tende a aceitar qualquer projeto, falar com qualquer público e aparecer de qualquer forma. O autoconhecimento reduz essa dispersão.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Reserve alguns minutos para responder por escrito: quais qualidades te ajudam a conquistar clientes, quais comportamentos te atrapalham e qual versão profissional você quer construir nos próximos meses.

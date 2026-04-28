@@ -1,35 +1,42 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [363 palavras estimadas] / [363 ÷ 200 = 2 minutos]
 
 # Encontrando as colmeias
 
-**Tempo estimado de leitura:** 3 minutos
+**Tempo estimado de leitura:** 2 minutos
 
 ## Objetivos de aprendizado
 
 Ao final desta aula, você será capaz de:
 
-- identificar o papel de encontrando as colmeias na construção da marca pessoal
-- distinguir os critérios centrais apresentados pelo professor
-- aplicar o raciocínio da aula na própria atuação profissional
+- identificar colmeias como lugares onde potenciais clientes se concentram
+- distinguir sobrevivência imediata e construção de longo prazo
+- reconhecer estratégias para buscar os primeiros clientes
+- aplicar pesquisa de ambientes para iniciar conversas comerciais
 
-## Colmeias como lugares de concentração
+## Resolver o problema da sobrevivência
 
-Chegou a hora de a gente falar finalmente sobre a prática para conquistar o seu primeiro cliente e também para conquistar os seus próximos clientes, indo até eles. Essa aula aqui vai ser dividida em duas partes. Depois de termos falado sobre muita coisa, chegou a hora de, de fato, colocar o pé na estrada e conversar com as pessoas, conhecer gente nova, a gente vai falar bastante sobre isso aqui, mas a aula está dividida em duas partes.
+Ruan apresenta a aula como uma etapa prática para conquistar o primeiro cliente ou os próximos clientes indo até eles. Antes de viver o cenário ideal, o designer precisa resolver a sobrevivência e criar condições para trabalhar melhor.
 
-A primeira parte eu vou falar sobre como resolver o problema do primeiro cliente ou o problema da sobrevivência. Primeiro a gente precisa resolver o nosso problema de sobrevivência para ter uma condição boa para que aí a gente possa de fato trabalhar melhor, trabalhar com os clientes que a gente quer, apontar o dedo e falar, eu quero trabalhar com você, eu quero trabalhar Você poder desenhar melhor a sua empresa, viver no mundo ideal da sua empresa. Mas antes disso, a gente precisa sobreviver.
+Ele normaliza o erro nesse início. Buscar clientes é uma prática nova para muitos alunos, e o processo tende a falhar antes de funcionar. Quanto antes o designer começa a conversar com pessoas, mais rápido aprende.
 
-## Onde encontrar possíveis clientes
+## Seguir as abelhas
 
-o seu próprio ambiente já tem pessoas e elas já estão tentando fazer o negócio delas dar certo de alguma maneira. Mesmo quando a pessoa trabalha em algum lugar, a empresa onde essa pessoa trabalha... também está tentando fazer com que as ideias emplaquem, que elas deem certo.
+A aula retoma a primeira metade da metáfora do módulo: se quer mel por um dia, encontre as abelhas. Aqui, o foco é curto prazo. Quem precisa de cliente agora não deve depender apenas de estratégias que amadurecem em meses.
 
-Seja boa a notícia no dia das pessoas. Terceiro, liste os principais negócios da sua cidade que precisam de ajuda. Se você andar meia hora na avenida principal da sua cidade, você vai encontrar um monte de negócios que precisam de ajuda com design.
+Encontrar colmeias significa identificar lugares onde potenciais clientes já estão reunidos: eventos, grupos, comunidades, associações, redes, indicações, plataformas e espaços de troca do nicho escolhido.
 
-## Como observar comunidades e oportunidades
+## Ir onde a demanda já existe
 
-Existem milhares de estratégias que você pode seguir na internet. Eu vou te ensinar aqui para criar seu funil, para criar o seu site, eu te ensinei várias, mas às vezes esses passos aqui, simples, já podem fazer toda a diferença para você. Se você não tem resultado, pode mandar uma mensagem para mim que eu, pessoalmente, vou querer te ajudar, tá?
+A lógica é procurar ambientes em que a demanda esteja viva. Depois de definir hipernicho e demandas específicas, o aluno sabe melhor onde procurar pessoas com problemas parecidos e que tipo de conversa pode iniciar.
 
-Mas testa, aplica todos esses 20 aí, eu du-vi-do que você não vai conseguir crê-los, duvido, essa é a primeira parte da aula. Resolvido, o problema da fome.
+Isso reduz a aleatoriedade da prospecção. Em vez de abordar qualquer pessoa, o designer busca lugares com maior concentração de oportunidades e prepara uma entrada mais contextualizada.
+
+## Primeiros passos e consistência
+
+Ruan reforça que estratégias simples podem fazer diferença, especialmente para quem ainda não tem fluxo de clientes. O objetivo é gerar conversas, testar mensagens, entender objeções e criar as primeiras oportunidades.
+
+A aula não substitui o trabalho de longo prazo, mas oferece movimento. O designer que precisa vender não pode ficar apenas planejando a marca perfeita. Ele precisa entrar em contato com o mercado.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Liste dez colmeias do seu hipernicho: comunidades, perfis, eventos, grupos, empresas ou plataformas. Escolha três e defina uma forma respeitosa de iniciar contato nesta semana.

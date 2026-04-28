@@ -1,4 +1,4 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [460 palavras estimadas] / [460 ÷ 200 = 3 minutos]
 
 # Persona: visão geral do módulo
 
@@ -8,28 +8,35 @@ Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas]
 
 Ao final desta aula, você será capaz de:
 
-- identificar o papel de persona: visão geral do módulo na construção da marca pessoal
-- distinguir os critérios centrais apresentados pelo professor
-- aplicar o raciocínio da aula na própria atuação profissional
+- reconhecer o papel da persona na construção da credibilidade profissional
+- identificar sinais que influenciam a percepção do cliente sobre o designer
+- distinguir marca pessoal, papel social e presença profissional
+- aplicar ajustes de postura para transmitir mais confiança
 
-## O papel da persona
+## A forma como o cliente enxerga você
 
-Como desenvolver a sua postura profissional. Se tem uma coisa que é muito importante, é a maneira como os clientes te enxergam. Se você faz um excelente trabalho, se você é um excelente profissional, mas você não parece ser tão excelente assim, isso vai te colocar em xeque.
+A persona é apresentada como o primeiro eixo de conquista porque os clientes avaliam o profissional antes de avaliar a entrega. Um designer pode ser excelente tecnicamente, mas, se não parecer capaz de entregar o que promete, cria dúvida antes mesmo da proposta ser considerada.
 
-Os seus clientes vão duvidar de você. Eu lembro quando eu comecei a ir atrás de clientes, antes mesmo da faculdade, os meus primeiros clientes ali faziam logo de 50, 100 reais, eu tinha 16 anos. E uma coisa que me atrapalhava muito naquela época é que eu tinha uma carinha de menino, sabe?
+Ruan ilustra isso com sua experiência de início de carreira, quando ainda muito jovem fazia logos baratos e ouvia clientes questionarem sua idade. A resposta atrevida funcionava em alguns casos, mas o ponto central era outro: sua imagem, fala e postura interferiam diretamente na credibilidade percebida.
 
-## Imagem, intenção e percepção
+## Persona não é só aparência
 
-É importante saber separar os nossos papéis. Quando você separa os seus papéis, inclusive, você passa a se conhecer melhor, porque você não é um papel ou outro, e nem mesmo a ausência desses papéis. Você é a soma de todos os papéis que você exerce na sua vida.
+A aula deixa claro que persona não é sinônimo de vaidade ou estética superficial. Ela envolve roupa, linguagem, ritmo de fala, comportamento, firmeza, clareza e todos os sinais que fazem o cliente sentir que está diante de alguém preparado.
 
-E aí eu trouxe algumas frases do Jung aqui para você entender isso um pouco melhor. Ele começa dizendo, A persona é uma espécie de máscara projetada no interesse de agradar aos outros e a nós mesmos. Repare, não só agradar aos outros, mas agradar a nós mesmos.
+O professor usa a ideia de papel social para ampliar o conceito. Quando atua como professor da Overlens, ele carrega parte do significado da marca. Da mesma forma, um designer carrega o significado da própria marca, mesmo quando possui um estúdio ou empresa com outro nome.
 
-## Como o módulo organiza a construção pessoal
+## Forças invisíveis de confiança
 
-É apenas colocar de lado o que não é relevante. Às vezes a gente não entende isso e acha que, pô, se eu estou escondendo algo, eu estou mentindo. Esconder é tirar o que não é relevante.
+A confiança nasce em pequenos sinais. Se o cliente percebe firmeza, coerência e responsabilidade, tende a ouvir com mais atenção. Se percebe insegurança, desorganização ou uma imagem desalinhada com o valor prometido, a proposta perde força antes de chegar ao preço.
 
-Talvez até quando Jung fala esconder aqui, a gente pensa no sentido mais social. Por exemplo, uma pessoa que usa uma maquiagem para tirar as espinhas ou a base. Se a gente for lá no fundo, ah, é uma mentira, está enganando.
+Essa força invisível é especialmente importante para projetos de maior valor. Em contratos mais altos, o cliente não compra só habilidade técnica. Ele compra segurança, previsibilidade e a sensação de que aquela pessoa é capaz de conduzir uma decisão importante.
+
+## O módulo de persona como preparação
+
+O módulo existe para preparar o aluno antes das etapas de demanda e ambiente. A construção da persona torna o designer mais legível para o mercado, reduz ruídos na percepção e melhora a forma como ele se apresenta em conversas, reuniões, propostas e pontos de contato.
+
+A visão geral também antecipa que a marca pessoal é uma ferramenta de condução de percepção. O aluno não precisa fingir ser outra pessoa, mas precisa assumir conscientemente quais sinais deseja emitir e quais sinais estão atrapalhando sua conquista de clientes.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Observe seus principais pontos de contato e anote três sinais que um cliente perceberia antes de conhecer seu portfólio: foto, fala, bio, apresentação, postura ou clareza. Escolha um para ajustar ainda hoje.

@@ -1,35 +1,42 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [379 palavras estimadas] / [379 ÷ 200 = 2 minutos]
 
 # Produção de conteúdo
 
-**Tempo estimado de leitura:** 3 minutos
+**Tempo estimado de leitura:** 2 minutos
 
 ## Objetivos de aprendizado
 
 Ao final desta aula, você será capaz de:
 
-- identificar o papel de produção de conteúdo na construção da marca pessoal
-- distinguir os critérios centrais apresentados pelo professor
-- aplicar o raciocínio da aula na própria atuação profissional
+- identificar conteúdo como forma de gerar valor antes da venda
+- reconhecer demandas e objeções como fonte de ideias
+- distinguir conteúdo orgânico, vídeo e carrossel
+- aplicar um ponto de partida para produção de conteúdo estratégica
 
-## Conteúdo como construção de presença
+## Começar pelo orgânico
 
-Produção de conteúdo, gerenciando as suas redes sociais. Antes de a gente começar a colocar dinheiro aqui, fazer gestão de tráfego, criar anúncio, eu acredito que você deva criar alguns posts, alguns vídeos orgânicos. Até porque uma das estratégias que eu vou ensinar aqui para você é de você utilizar o seu próprio conteúdo como anúncio depois para levar as pessoas para o seu site.
+Antes de colocar dinheiro em tráfego, Ruan recomenda criar posts e vídeos orgânicos. Isso permite testar ideias, gastar menos e construir material que depois pode ser usado como anúncio para levar pessoas ao site.
 
-é natural que você comece no orgânico, até para você gastar menos. Deixe que a ferramenta pague para levar pessoas lá para você. Faça isso de graça, é um ótimo começo.
+Ele reconhece que vídeos tendem a alcançar e engajar mais, especialmente em formatos como Reels, TikTok e Shorts. Ainda assim, imagens e carrosséis também podem funcionar, desde que estejam conectados a uma estratégia.
 
-## Ideias, recorrência e autoridade
+## Conteúdo como flor do jardim
 
-Então tem os Reels, TikTok, Shorts e também dá para fazer carrossel com imagens, tá? No momento que eu estou gravando esse vídeo aqui, fazer vídeo é a melhor maneira para conseguir alcançar mais pessoas, Mas dá para fazer carrossel também, é possível fazer com imagens.
+A aula retoma a metáfora do jardim: se quer mel para sempre, plante mais flores. A rede social é parte desse jardim, e o conteúdo é uma forma de gerar valor antes de pedir algo em troca.
 
-A conversa no WhatsApp não está aqui. Porque esses são conteúdos de relacionamento, a gente já vai falar. Mas dica rápida, curiosidade, oportunidades e problemas dos clientes são os temas mais interessantes para você trabalhar nesse tipo de conteúdo de descoberta.
+Gerar valor cria reciprocidade e aumenta a percepção de que o designer pode ajudar. Mas Ruan alerta que gerar valor de qualquer jeito não basta. Ele próprio já produziu conteúdo por muito tempo sem resultado por não ter premissas claras.
 
-## Como produzir para ser lembrado
+## Demandas como fonte de pauta
 
-Aqui eu chamei para clicar no link, mas você poderia chamar também, coloque um comentário aqui embaixo que eu vou te mandar uma mensagem com o link. É uma ótima maneira de fazer isso também. Olha só, convite para assistir uma aula maior, conversa no WhatsApp, consultoria gratuita ou oferta especial.
+O caminho para produzir conteúdo está nas aulas de demanda. Se o aluno mapeou demandas abrangentes do método ACRO, demandas específicas e objeções do cliente, já possui um conjunto amplo de assuntos relevantes.
 
-Existem vários tipos de CTAs diferentes que você pode fazer. Chamar para o WhatsApp também é muito bom. Me chama aqui no direct que eu vou te ajudar, eu quero entender o seu negócio e a gente vai poder conversar mais sobre isso.
+Conteúdo estratégico não nasce apenas de criatividade. Ele nasce do entendimento do cliente. Cada post pode responder uma dor, esclarecer uma dúvida, combater uma objeção ou mostrar uma oportunidade que o cliente ainda não percebeu.
+
+## Produzir para o público certo
+
+Ruan reforça que é preciso gerar valor para o público certo. Conteúdo que atrai pessoas desalinhadas pode dar curtidas, mas não necessariamente gera clientes. A produção precisa conversar com o hipernicho definido.
+
+A aula posiciona conteúdo como parte do sistema de atração, não como vaidade de rede social. O objetivo é criar presença, educar o mercado, aumentar confiança e preparar o caminho para conversas comerciais.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Transforme sua lista de demandas em pauta. Escolha uma demanda, uma objeção e uma pergunta frequente do cliente. Crie três ideias de conteúdo, uma para cada item.

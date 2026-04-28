@@ -1,4 +1,4 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [457 palavras estimadas] / [457 ÷ 200 = 3 minutos]
 
 # Demanda: visão geral do módulo
 
@@ -8,28 +8,35 @@ Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas]
 
 Ao final desta aula, você será capaz de:
 
-- identificar o papel de demanda: visão geral do módulo na construção da marca pessoal
-- distinguir os critérios centrais apresentados pelo professor
-- aplicar o raciocínio da aula na própria atuação profissional
+- identificar a demanda como ponto de partida da oferta
+- distinguir oferta, procura e problema real do cliente
+- reconhecer quando uma solução genérica se torna ruído para o mercado
+- aplicar a lógica da boa notícia na construção de serviços
 
-## A demanda como eixo de mercado
+## O mercado como oferta e procura
 
-A gente precisa entender um conceito muito simples aqui. O mercado é uma moeda de dois lados. Um lado é a oferta e o outro a procura.
+Ruan inicia o módulo de demanda retomando a lei da oferta e da procura, mas expande o conceito para o posicionamento do designer. O mercado tem dois lados: quem oferece e quem procura. Para conquistar clientes, o designer precisa observar os dois, não apenas o próprio serviço.
 
-Eu sei que você já ouviu isso em algum lugar, a lei da oferta e da procura, mas eu quero expandir um pouco esse conceito para você entender a importância da demanda dentro do seu processo de posicionamento e conquista de novos clientes e conquista de novos mercados. No mercado, se você não é uma solução, então você é um problema. Vamos pensar um pouquinho sobre isso.
+A frase central da aula é que, no mercado, se você não é uma solução, então você é um problema. Isso significa que uma oferta desconectada da necessidade do cliente vira interrupção, importunação e perda de valor percebido.
 
-## Problema, desejo e valor percebido
+## O banco de valor da marca
 
-As pessoas, às vezes, têm uma vaga ideia do que elas querem fazer, já começam a construir aquilo. Mas elas não sabem muito bem o que estão fazendo. A maioria dos negócios abertos no Brasil são abertos por pessoas que nunca tiveram um curso ou uma aula sobre como construir um negócio.
+A aula recupera a ideia de que toda marca possui um banco simbólico de valor. Cada interação pode fazer um depósito ou um saque. Quando o designer oferece algo que a pessoa não quer, no momento errado ou de forma genérica, ele saca valor da própria marca.
 
-Um cara que, às vezes, é muito bom em fazer bolo, aí ele abre uma bolaria, uma confeitaria. Ou uma mulher que é muito boa em defender as pessoas, estudou lá advocacia, e ela quer ajudar outras pessoas a resolverem os seus problemas jurídicos. Mas repare, o tempo inteiro, são pessoas que entendem algum conhecimento da área delas, mas não entendem sobre negócio, não entendem sobre marcas.
+Esse raciocínio explica por que simplesmente anunciar serviços de design não basta. Se a oferta não se conecta a uma demanda real, o cliente não percebe solução. Ele percebe mais uma tentativa de venda disputando atenção em um dia já cheio de problemas.
 
-## Como a demanda orienta a oferta
+## Do serviço genérico ao problema específico
 
-O que faz uma opção ser melhor do que a outra para ela? A gente vai falar sobre como que nós, seres humanos, somos irracionais, às vezes, nas nossas escolhas e como que você pode trabalhar isso para que o seu cliente não faça uma escolha equivocada, inclusive. você vai mostrar para ele como você é a melhor opção para ele dentro do contexto dele.
+Ruan mostra que dizer apenas eu crio marcas é fraco porque não especifica o valor gerado. O cliente não busca uma marca em abstrato. Ele busca reconhecimento, atração, diferenciação, confiança, melhoria de percepção ou algum resultado ligado ao próprio contexto.
 
-Vou mostrar isso para vocês também ainda nesse módulo, tá? E é importante falar, eu sei que eu já falei aqui, mas agora eu vou expandir isso um pouco melhor. não adianta você criar um serviço genérico se você não adaptar ele para cada contexto.
+Quanto mais o designer entende a demanda, mais consegue traduzir seu serviço em solução. Isso permite construir uma proposta que conversa com o problema do cliente, em vez de vender uma entrega genérica como logotipo, identidade visual ou site.
+
+## Demanda como base de conquista
+
+A visão geral prepara o aluno para investigar necessidades, desejos, dores e oportunidades do público escolhido. O objetivo não é criar um serviço para qualquer pessoa, mas encontrar o encaixe entre o que o designer oferece e aquilo que o mercado realmente procura.
+
+Esse módulo se conecta diretamente à filosofia de ser boa notícia. Uma boa notícia só existe quando chega para resolver algo que importa. Por isso, compreender a demanda é uma etapa anterior à proposta, ao preço, ao conteúdo e aos ambientes de prospecção.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Escolha um serviço que você oferece e escreva qual problema concreto ele resolve. Depois, reescreva a oferta sem citar primeiro a entrega técnica, focando no resultado que o cliente quer alcançar.

@@ -1,4 +1,4 @@
-Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas] / [450 ÷ 200 = 3 minutos]
+Cálculo interno: [4 blocos] / [10 parágrafos totais] / [415 palavras estimadas] / [415 ÷ 200 = 3 minutos]
 
 # Introdução aos ambientes
 
@@ -8,28 +8,35 @@ Cálculo interno: [3 blocos] / [8 parágrafos totais] / [450 palavras estimadas]
 
 Ao final desta aula, você será capaz de:
 
-- identificar o papel de ambientes na construção da marca pessoal
-- distinguir os critérios centrais apresentados pelo professor
-- aplicar o raciocínio da aula na própria atuação profissional
+- identificar os ambientes que sustentam a conquista de clientes
+- distinguir estratégia de curto prazo e construção de longo prazo
+- reconhecer a infraestrutura necessária antes da ação comercial
+- aplicar a metáfora do mel e da flor na escolha das próximas ações
 
-## Ambientes e contexto de mercado
+## Depois de persona e demanda
 
-Começamos a primeira aula do módulo de ambiente. Depois que falamos sobre persona e falamos sobre demanda, você já compreendeu o papel que você enquanto pessoa tem. E independente se a sua marca é uma marca pessoal ou se é uma marca de uma empresa desconectada de você, como é o caso da Overlens, por exemplo.
+A aula inicia o módulo de ambiente retomando os dois pilares anteriores. A persona mostrou como o profissional é percebido. A demanda mostrou a importância de compreender o cliente e o problema. Agora, o foco é onde essa marca se estrutura e encontra oportunidades.
 
-Independente disso, você vai se relacionar com outras pessoas e você vai ser a frente dessa marca. elas vão criar expectativas sobre você e a sua persona é importante. Não só isso, a gente viu também o quanto a demanda é importante compreender o seu cliente.
+Ruan reforça que o objetivo não é apenas conseguir um cliente na próxima semana. A proposta é construir um negócio com clientes recorrentes, mais previsibilidade e uma base capaz de sustentar crescimento.
 
-## Onde a marca pessoal encontra pessoas
+## Mel por um dia e mel para sempre
 
-Esse talvez seja o elemento chave principal do último módulo. Nós falamos de proposta encantadora, que é uma ferramenta excelente para poder convencer o seu cliente. Falamos do blueprint, que é uma ferramenta muito boa para te dar clareza sobre o que você está vendendo.
+A frase central da aula separa duas estratégias: se quer mel por um dia, siga as abelhas; se quer mel para sempre, plante uma flor. A primeira aponta para ações de curto prazo, buscando clientes onde eles já estão. A segunda aponta para construção de ativos que atraem clientes ao longo do tempo.
 
-O principal elemento que a gente tem que carregar do módulo de demanda é o seu perfil ideal de cliente, o seu hiper nicho. Tem que estar muito claro para você com quem você quer falar, porque a partir de agora, se você não sabe com quem você quer falar, você vai ficar que nem uma barata tonta perdida, porque para encontrar o ambiente certo, você precisa primeiro identificar quem é o seu perfil ideal de cliente, porque é a partir dele que a gente vai chegar nos ambientes, Então essa frase aqui para mim é a essência das duas estratégias que eu vou ensinar para vocês, uma para poder ir atrás dos clientes e outra para poder fazer os clientes virem atrás de você.
+Ruan deixa claro que não há problema em precisar de resultado imediato. Quem precisa de cliente agora deve ir atrás das oportunidades. Mas, se a intenção é criar um negócio duradouro, também é necessário plantar estruturas que continuem gerando atração no futuro.
 
-## Como escolher espaços de presença
+## Infraestrutura burocrática e estratégica
 
-Conquistar se resume em estar no lugar certo com a atitude certa. Eu até contei uma história para você que eu vivi e que me ensinou isso. Não adianta só estar no lugar certo se você não tem a atitude certa.
+O módulo inclui elementos de infraestrutura como MEI, CNPJ, nota fiscal, contratos, custos e protocolos. Esses temas aparecem porque fazem parte do ambiente de profissionalização, mesmo quando não parecem diretamente ligados à venda.
 
-são os dois elementos muito importantes aqui. aqui, mas também não adianta ter a atitude certa no lugar errado, você também precisa identificar quais são os ambientes, é para isso que nós estamos aqui agora. E basicamente existem dois tipos de ambientes, os ambientes que são internos e os ambientes que são externos.
+Sem essa base, o designer pode perder oportunidades por não conseguir emitir nota, não ter conta adequada, não saber apresentar contrato ou não possuir processos claros. A preparação cria segurança para o cliente e para o próprio negócio.
+
+## Ambientes de presença e conquista
+
+Além da estrutura interna, o módulo vai tratar de website, redes sociais, conteúdo, abordagem, busca por leads e tráfego. Esses ambientes formam o ecossistema onde a marca aparece, atrai, conversa e converte.
+
+A introdução organiza o caminho: primeiro preparar a base, depois ir até clientes no curto prazo, e em seguida construir mecanismos de atração de longo prazo.
 
 ## Coloque em prática
 
-Revise a aula antes de avançar e traduza o conteúdo para uma decisão concreta da sua marca. Registre o que precisa ser ajustado na sua imagem, na sua oferta ou no ambiente onde você aparece.
+Divida suas próximas ações em duas listas: ações para buscar clientes agora e estruturas para atrair clientes no longo prazo. Escolha uma ação de cada lista para executar nesta semana.
