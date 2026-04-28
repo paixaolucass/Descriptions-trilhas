@@ -1,3 +1,5 @@
+Cálculo interno: [8 blocos] / [30 parágrafos totais] / [1.550 palavras estimadas] / [1.550 ÷ 200 = 8 minutos]
+
 # Pesquisa de Referências
 
 **Tempo estimado de leitura:** 8 minutos

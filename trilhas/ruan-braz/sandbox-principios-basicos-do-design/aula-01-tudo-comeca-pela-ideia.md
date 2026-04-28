@@ -35,7 +35,7 @@ Isso acontece por vários fatores. Um deles é a falta de repertório. Outro é 
 
 ## A escolha do caminho no início do projeto
 
-O momento mais importante de qualquer projeto é a escolha do caminho no início. A decisão sobre qual direção seguir é o que vai determinar todo o resto. O professor pede que o aluno anote isso em algum lugar — no bloco de notas, no celular, num caderninho, não importa.
+O momento mais importante de qualquer projeto é a escolha do caminho no início. A decisão sobre qual direção seguir é o que vai determinar todo o resto. O professor pede que o aluno anote isso em algum lugar: no bloco de notas, no celular, num caderninho, não importa.
 
 Uma decisão ruim no começo pode resultar em um projeto inteiro que não ficou bom. Todo o tempo gasto ao longo do processo serve como aprendizado, mas dentro do mercado esse tempo poderia ter sido melhor aproveitado se a ideia inicial tivesse sido melhor definida.
 
@@ -47,7 +47,7 @@ Para ter ideias melhores, é preciso ter repertório: dados e informações acum
 
 O princípio que resume isso tem nome: "garbage in, garbage out". Em português: lixo entra, lixo sai. O que é colocado na cabeça é a matéria-prima do que sai nos projetos. Consumir projetos ruins como referência vai gerar projetos ruins. Consumir bons projetos vai alimentar a capacidade de criar boas ideias.
 
-A recomendação prática é reservar pelo menos meia hora por dia para absorver bons projetos, em plataformas como Pinterest, Instagram e Behance. O professor observa que designer costuma fazer isso naturalmente — ele mesmo passa vários minutos nessas plataformas. Não é uma tarefa difícil; o que muda é a intenção com que esse tempo é usado.
+A recomendação prática é reservar pelo menos meia hora por dia para absorver bons projetos, em plataformas como Pinterest, Instagram e Behance. O professor observa que designer costuma fazer isso naturalmente, ele mesmo passa vários minutos nessas plataformas. Não é uma tarefa difícil; o que muda é a intenção com que esse tempo é usado.
 
 Consumir referências com intenção significa se perguntar, diante de cada projeto: por que eu gostei disso? O que eu posso aprender com esse projeto para levar comigo? O que eu posso puxar para os próximos trabalhos que vou fazer? Esse hábito de questionamento ativo é o que transforma o consumo de referências em repertório real.
 

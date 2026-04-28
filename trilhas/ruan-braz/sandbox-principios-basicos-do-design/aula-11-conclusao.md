@@ -2,7 +2,7 @@ Cálculo interno: [4 blocos] / [12 parágrafos totais] / [465 palavras estimadas
 
 # Conclusão
 
-**Tempo estimado de leitura:** 2 minutos
+**Tempo estimado de leitura:** 3 minutos
 
 ## Objetivos de aprendizado
 

@@ -51,7 +51,7 @@ O caminho mostrado é acessar as ferramentas de busca e selecionar opções rela
 
 Mesmo após aplicar filtros, ainda é necessário avaliar o arquivo encontrado. O professor explica que várias imagens podem aparecer com marca d'água ou tamanho pequeno, o que exige nova análise antes do uso.
 
-*Para ver o resultado desta demonstração, assista a partir de [02:12] no vídeo.*
+*Para ver o resultado desta demonstração, assista a partir de 02:12 no vídeo.*
 
 ## O erro de ampliar arquivos pequenos manualmente
 
@@ -73,7 +73,7 @@ Também menciona outra ferramenta chamada Magnific, apresentada como opção mai
 
 O professor contextualiza que imagens são matéria-prima do designer. Por isso, dependendo do projeto, investir em uma ferramenta desse tipo pode fazer sentido econômico e técnico.
 
-*Para ver o resultado desta demonstração, assista a partir de [03:30] no vídeo.*
+*Para ver o resultado desta demonstração, assista a partir de 03:30 no vídeo.*
 
 ## Bancos gratuitos e criação de imagens próprias
 
