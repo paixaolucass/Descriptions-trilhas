@@ -23,7 +23,7 @@ O mínimo não representa liberdade plena, lucro ou sobra confortável. Ele repr
 
 ## Autonomia financeira mínima
 
-Para calcular a autonomia financeira mínima, o aluno precisa identificar a renda mensal confirmada. O professor diferencia renda confirmada de expectativa: dinheiro que alguém espera receber, mas ainda não recebeu, não deve ser tratado como confirmado.
+Para calcular a autonomia financeira mínima, o aluno precisa identificar a renda mensal confirmada. Ruan diferencia renda confirmada de expectativa: dinheiro que alguém espera receber, mas ainda não recebeu, não deve ser tratado como confirmado.
 
 Depois, a renda mensal confirmada é comparada com custos fixos essenciais e dívidas mínimas do mês. Custos fixos essenciais são aqueles necessários para manter o mínimo de qualidade de vida hoje.
 
@@ -31,7 +31,7 @@ A lógica do cálculo é simples: entrada confirmada menos custos fixos essencia
 
 ## O exemplo do déficit financeiro
 
-O professor usa um exemplo com renda confirmada de três mil reais, custo fixo essencial de dois mil e quinhentos reais e dívidas mínimas de mil reais. Nesse cenário, entram três mil e saem três mil e quinhentos.
+Ruan usa um exemplo com renda confirmada de três mil reais, custo fixo essencial de dois mil e quinhentos reais e dívidas mínimas de mil reais. Nesse cenário, entram três mil e saem três mil e quinhentos.
 
 O resultado é um déficit de quinhentos reais. Isso mostra que, para chegar ao mínimo, a pessoa precisaria receber pelo menos três mil e quinhentos reais. O objetivo inicial do cálculo mínimo é chegar a zero.
 
@@ -39,9 +39,9 @@ Esse zero ainda é arriscado, porque viver apenas no empate é mais negativo do 
 
 ## Autonomia temporal mínima
 
-Para calcular a autonomia temporal mínima, o professor parte das horas totais da semana. São sete dias vezes vinte e quatro horas, totalizando cento e sessenta e oito horas semanais.
+Para calcular a autonomia temporal mínima, Ruan parte das horas totais da semana. São sete dias vezes vinte e quatro horas, totalizando cento e sessenta e oito horas semanais.
 
-A partir daí, a pessoa subtrai saídas mínimas de tempo. O professor usa exemplos como quarenta horas de trabalho, cinco horas de estudo, quarenta e duas horas de sono mínimo e trinta e cinco horas de cuidados essenciais.
+A partir daí, a pessoa subtrai saídas mínimas de tempo. Ruan usa exemplos como quarenta horas de trabalho, cinco horas de estudo, quarenta e duas horas de sono mínimo e trinta e cinco horas de cuidados essenciais.
 
 Também entram deslocamentos, logística, preparação para dormir, tempo para acordar, exercício, pausas, tempo no telefone, redes sociais, tempo ocioso e outras saídas que compõem a vida real.
 
@@ -49,7 +49,7 @@ Também entram deslocamentos, logística, preparação para dormir, tempo para a
 
 O cálculo também inclui dívidas sociais, como visitar familiares, sair com amigos ou manter compromissos recorrentes. Esses compromissos podem fazer sentido, mas precisam aparecer na conta porque consomem tempo.
 
-Vazamentos são tempos que escapam sem intenção clara, como redes sociais, telefone e ociosidade dispersa. O professor mostra um exemplo em que, depois das subtrações, o resultado da semana fica em menos quatro horas.
+Vazamentos são tempos que escapam sem intenção clara, como redes sociais, telefone e ociosidade dispersa. Ruan mostra um exemplo em que, depois das subtrações, o resultado da semana fica em menos quatro horas.
 
 Esse número significa que a pessoa precisa retirar quatro horas de algum lugar apenas para equalizar o mínimo. Se a conta de alguém dá menos quinze, por exemplo, ela está devendo quinze horas para si mesma toda semana, o que equivale a cinquenta e seis horas mensais quando o déficit é de quatorze horas semanais.
 

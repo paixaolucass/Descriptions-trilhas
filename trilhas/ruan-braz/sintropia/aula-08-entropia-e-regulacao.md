@@ -19,7 +19,7 @@ A aula define entropia de forma prática como caos e perda de energia. Um cenár
 
 O ponto não é condenar uma escolha específica. Dormir tarde pode ser uma decisão autônoma se a pessoa pensou sobre isso e escolheu conscientemente. O problema é dormir tarde, comer mal ou acordar sem horário apenas por reação, sem parar para avaliar o que favorece a própria energia.
 
-O corpo tem uma dimensão fisiológica e opera em ciclos. O professor menciona o ciclo circadiano e recomenda o livro Mude Seus Horários, Mude Sua Vida para quem quiser aprofundar a relação entre horário, energia e rotina.
+O corpo tem uma dimensão fisiológica e opera em ciclos. Ruan menciona o ciclo circadiano e recomenda o livro Mude Seus Horários, Mude Sua Vida para quem quiser aprofundar a relação entre horário, energia e rotina.
 
 ## Sinais de uma rotina entrópica
 
@@ -31,7 +31,7 @@ Também aparecem cansaço constante, procrastinação, culpa e sensação de tom
 
 ## Esforço alto e retorno baixo
 
-O professor aponta que muito esforço com pouco retorno é um cenário clássico de entropia, geralmente porque falta clareza. A pessoa aposta em uma ideia a cada hora, não sustenta constância e não entende por que trabalha tanto sem avançar.
+Ruan aponta que muito esforço com pouco retorno é um cenário clássico de entropia, geralmente porque falta clareza. A pessoa aposta em uma ideia a cada hora, não sustenta constância e não entende por que trabalha tanto sem avançar.
 
 O exemplo usado é o de um designer que aceita qualquer projeto por medo de dizer não. Ele vive sobrecarregado, não sabe precificar, está sempre correndo, trabalha o dobro, ganha o mínimo e sente que nunca tem tempo.
 
@@ -39,7 +39,7 @@ Esse cenário não deve ser tratado apenas como culpa individual ou culpa da soc
 
 ## Culpa prende no passado, responsabilidade aponta para frente
 
-O professor diferencia culpa de responsabilidade. Culpa é ficar preso olhando para trás. Responsabilidade é se libertar olhando para frente.
+Ruan diferencia culpa de responsabilidade. Culpa é ficar preso olhando para trás. Responsabilidade é se libertar olhando para frente.
 
 Encontrar um culpado pode trazer alívio momentâneo, mas não muda a vida. Quem passa o tempo procurando culpados sempre encontra um motivo anterior: sociedade, família, nascimento, contexto ou outra pessoa.
 
@@ -55,7 +55,7 @@ Na prática, regulação inclui rotina mínima, horário de sono, alimentação,
 
 ## Enfrentar a realidade com registros
 
-O professor reconhece a resistência de quem acha que a vida é mais do que planilhar ações. Ainda assim, afirma que, quando a pessoa não consegue mudar a própria vida, não adianta sonhar com liberdade antes de assumir a própria realidade.
+Ruan reconhece a resistência de quem acha que a vida é mais do que planilhar ações. Ainda assim, afirma que, quando a pessoa não consegue mudar a própria vida, não adianta sonhar com liberdade antes de assumir a própria realidade.
 
 Registrar faturamento, leads, tarefas, gastos, entradas, saídas, dinheiro disponível e tempo usado é o primeiro passo para enfrentar a realidade. Não se trata de escrever o que a pessoa gostaria que fosse, mas de observar o que realmente acontece.
 

@@ -29,21 +29,21 @@ O Grok se posiciona como uma LLM mais liberal, que permite ao usuário buscar in
 
 Uma das maiores vantagens técnicas do Grok 3 em relação a modelos concorrentes está em sua capacidade de raciocínio. O botão Think, disponível na interface do Supergrok, faz com que o modelo reserve um período de processamento antes de responder, exibindo ao usuário o raciocínio interno que está sendo executado.
 
-Para demonstrar isso, o professor realiza um teste ao vivo com uma pergunta simples: "As IAs vão substituir os designers?" Na primeira execução, sem ativar o Think, a resposta chega em segundos e é direta: não vão substituir. Na segunda execução, com o Think ativado, o modelo leva 18 segundos processando e exibe todo o caminho de raciocínio antes de entregar a conclusão final, que também nega a substituição, mas desta vez acompanhada de uma argumentação estruturada e multicamadas.
+Para demonstrar isso, Ruan realiza um teste ao vivo com uma pergunta simples: "As IAs vão substituir os designers?" Na primeira execução, sem ativar o Think, a resposta chega em segundos e é direta: não vão substituir. Na segunda execução, com o Think ativado, o modelo leva 18 segundos processando e exibe todo o caminho de raciocínio antes de entregar a conclusão final, que também nega a substituição, mas desta vez acompanhada de uma argumentação estruturada e multicamadas.
 
 Dependendo da complexidade da pergunta, esse tempo de processamento pode se estender por vários minutos. Quanto mais variáveis a pergunta exige que o modelo leve em conta, mais longa e detalhada tende a ser a cadeia de raciocínio visível. Esse nível de transparência no processo de resposta é um dos elementos que diferencia o Grok de maneira concreta no uso cotidiano.
 
 ## Deep Search e Deeper Search: pesquisa em escala
 
-Além do Think, o Supergrok oferece os modos Deep Search e Deeper Search para pesquisa na web. Esses recursos foram demonstrados em aulas anteriores, onde o professor utilizou um prompt para criar um mapa das LLMs em 2025. Na primeira pesquisa, o Grok consultou 13 fontes. Em uma segunda iteração com um prompt mais elaborado, o número subiu para 53 fontes analisadas.
+Além do Think, o Supergrok oferece os modos Deep Search e Deeper Search para pesquisa na web. Esses recursos foram demonstrados em aulas anteriores, onde Ruan utilizou um prompt para criar um mapa das LLMs em 2025. Na primeira pesquisa, o Grok consultou 13 fontes. Em uma segunda iteração com um prompt mais elaborado, o número subiu para 53 fontes analisadas.
 
-Em termos de funcionalidade de pesquisa, o Grok se aproxima bastante do Perplexity, outra ferramenta especializada em busca com inteligência artificial. Ambas trazem as fontes consultadas, permitem verificar a procedência dos dados e organizam as informações de forma coerente. O professor faz uma observação direta: se você já assina o Perplexity, não há razão óbvia para assinar o Grok também, especialmente porque o Supergrok é mais caro. A escolha faz mais sentido para quem prioriza o recurso de raciocínio ou prefere o modelo de dados do X como base.
+Em termos de funcionalidade de pesquisa, o Grok se aproxima bastante do Perplexity, outra ferramenta especializada em busca com inteligência artificial. Ambas trazem as fontes consultadas, permitem verificar a procedência dos dados e organizam as informações de forma coerente. Ruan faz uma observação direta: se você já assina o Perplexity, não há razão óbvia para assinar o Grok também, especialmente porque o Supergrok é mais caro. A escolha faz mais sentido para quem prioriza o recurso de raciocínio ou prefere o modelo de dados do X como base.
 
 ## Interface, gestão de conversas e configurações
 
 A interface do Grok suporta upload de arquivos, carregamento de documentos do Drive e acesso a arquivos recentes do computador. Há também a opção de compartilhar conversas com outras pessoas por meio de link copiável, o que facilita a colaboração.
 
-A gestão de conversas é um ponto em que o professor expressa preferência clara pelo Grok em relação ao ChatGPT e ao Claude. A organização das conversas anteriores, com opções de ir, editar e excluir, é mais clara e intuitiva. Para quem usa a ferramenta de forma intensiva e mantém muitos projetos ativos simultaneamente, essa diferença de usabilidade tem impacto real na produtividade.
+A gestão de conversas é um ponto em que Ruan expressa preferência clara pelo Grok em relação ao ChatGPT e ao Claude. A organização das conversas anteriores, com opções de ir, editar e excluir, é mais clara e intuitiva. Para quem usa a ferramenta de forma intensiva e mantém muitos projetos ativos simultaneamente, essa diferença de usabilidade tem impacto real na produtividade.
 
 Nas configurações, o Grok oferece seções de conta, aparência, comportamento, personalização de tom, controle de dados fornecidos ao modelo, cobrança e aplicativos conectados. As opções incluem ativar ou desativar ferramentas específicas como o editor de código e o processamento de conteúdo de URLs coladas. A personalização de comportamento permite ajustar o tom da LLM para diferentes contextos de uso.
 

@@ -50,7 +50,7 @@ As respostas a essas cinco perguntas formam a intenção diretiva do manifesto. 
 
 Com a intenção diretiva definida e os padrões mapeados, a quinta etapa é a geração. O prompt instrui a IA com o contexto completo: a intenção diretiva, os padrões identificados na dissecação, o inimigo simbólico, o tom emocional e o chamado à ação.
 
-O primeiro resultado não é o final. É o ponto de partida do processo iterativo: o que está fraco é descartado, o que tem força é preservado e desenvolvido, e o processo se repete. O professor descreve a construção do manifesto da Overlens 2025 como um ciclo de múltiplas gerações e ajustes, não um texto que surgiu pronto.
+O primeiro resultado não é o final. É o ponto de partida do processo iterativo: o que está fraco é descartado, o que tem força é preservado e desenvolvido, e o processo se repete. Ruan descreve a construção do manifesto da Overlens 2025 como um ciclo de múltiplas gerações e ajustes, não um texto que surgiu pronto.
 
 ## Etapa 6: consolidação final
 

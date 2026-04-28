@@ -23,7 +23,7 @@ Buscar referências é o que permite absorver novas ideias e aplicá-las ao proj
 
 O painel semântico é a etapa anterior ao moodboard. Antes de sair coletando imagens, é importante definir qual sensação o projeto precisa passar. O painel semântico organiza isso em palavras: valores da marca, palavras-chave e emoções que o projeto deve evocar.
 
-Para desenvolvê-lo, o professor recomenda usar o ChatGPT como ferramenta de apoio. No exemplo da aula, o prompt usado foi: "me ajude a desenvolver um painel semântico para criar a identidade visual de uma cafeteria". O retorno incluiu valores como qualidade artesanal, sustentabilidade e conexão humana, além de palavras-chave como conforto, aconchego, tradição, modernidade e autenticidade.
+Para desenvolvê-lo, Ruan recomenda usar o ChatGPT como ferramenta de apoio. No exemplo da aula, o prompt usado foi: "me ajude a desenvolver um painel semântico para criar a identidade visual de uma cafeteria". O retorno incluiu valores como qualidade artesanal, sustentabilidade e conexão humana, além de palavras-chave como conforto, aconchego, tradição, modernidade e autenticidade.
 
 Outra forma de usar o ChatGPT nessa etapa é carregar o briefing diretamente na ferramenta. Isso pode ser feito subindo um PDF, um TXT com as informações do cliente, ou a transcrição de uma reunião gravada. A partir desse material, a ferramenta ajuda a construir o conceito do projeto.
 
@@ -37,9 +37,9 @@ O moodboard pode conter referências de cor, tipografia, grafismos e estilos vis
 
 ## Pinterest: busca por sensação
 
-O Pinterest é o primeiro site apresentado para coleta de referências. A lógica de busca é combinar termos que expressem a sensação desejada com termos de design. No exemplo da aula, o professor usou combinações como "conforto, aconchego, design" e depois "graphic design, conforto, aconchego" para refinar os resultados.
+O Pinterest é o primeiro site apresentado para coleta de referências. A lógica de busca é combinar termos que expressem a sensação desejada com termos de design. No exemplo da aula, Ruan usou combinações como "conforto, aconchego, design" e depois "graphic design, conforto, aconchego" para refinar os resultados.
 
-A escolha dos termos muda o tipo de imagem que aparece. Ao colocar "conforto e aconchego" sem especificar design gráfico, os resultados tendem para interiores e decoração. Ao adicionar "graphic design" ou inverter a ordem dos termos, as referências ficam mais próximas de trabalhos gráficos. O professor demonstrou que experimentar combinações diferentes é parte do processo.
+A escolha dos termos muda o tipo de imagem que aparece. Ao colocar "conforto e aconchego" sem especificar design gráfico, os resultados tendem para interiores e decoração. Ao adicionar "graphic design" ou inverter a ordem dos termos, as referências ficam mais próximas de trabalhos gráficos. Ruan demonstrou que experimentar combinações diferentes é parte do processo.
 
 Os resultados também ensinam a identificar padrões visuais. No exemplo, iluminação mais quente e tons alaranjados apareceram consistentemente como elementos que transmitem aconchego, o que já orienta decisões futuras de cor e fotografia.
 
@@ -49,7 +49,7 @@ Os resultados também ensinam a identificar padrões visuais. No exemplo, ilumin
 
 Uma das estratégias ensinadas é usar o ChatGPT para nomear o estilo de uma referência visual. O processo funciona assim: o aluno encontra uma imagem que gostou, tira um print e manda para o ChatGPT com a pergunta "qual é o estilo de design desta cafeteria?" ou "como posso buscar referências com este estilo no Pinterest?".
 
-No exemplo da aula, o professor mandou a imagem e recebeu termos como Art Deco e design biofílico. Com esses termos em mãos, voltou ao Pinterest e buscou por "Art Deco", encontrando referências geométricas específicas para trabalhar. Essa é uma forma de sair do genérico e buscar referências com precisão, mesmo sem saber de antemão o nome do estilo.
+No exemplo da aula, Ruan mandou a imagem e recebeu termos como Art Deco e design biofílico. Com esses termos em mãos, voltou ao Pinterest e buscou por "Art Deco", encontrando referências geométricas específicas para trabalhar. Essa é uma forma de sair do genérico e buscar referências com precisão, mesmo sem saber de antemão o nome do estilo.
 
 A estratégia inverte a lógica comum: em vez de já saber o que procurar e digitar o termo, o aluno parte de uma imagem que o agrada e usa a ferramenta para descobrir o vocabulário certo. Isso amplia o repertório e torna a busca mais eficiente.
 
@@ -59,7 +59,7 @@ A estratégia inverte a lógica comum: em vez de já saber o que procurar e digi
 
 O Behance é uma rede social voltada para designers e apresenta projetos completos de identidade visual, logo, embalagem e outros. Por trabalhar com projetos reais e ter uma curadoria razoável, é especialmente útil para quem está começando e quer ampliar o repertório além do que conhece na própria cidade ou nas redes sociais.
 
-No Behance, é possível salvar projetos diretamente em pastas chamadas moodboards dentro da plataforma. O professor demonstrou criando uma pasta chamada "cafeteria" e salvando projetos nela, criando assim um acervo organizado de referências para o projeto em andamento.
+No Behance, é possível salvar projetos diretamente em pastas chamadas moodboards dentro da plataforma. Ruan demonstrou criando uma pasta chamada "cafeteria" e salvando projetos nela, criando assim um acervo organizado de referências para o projeto em andamento.
 
 O cuidado necessário é o mesmo de qualquer site de referência: se inspirar, não copiar. O Behance traz projetos finalizados de outros designers, e a referência deve servir de base para criar algo novo, não de modelo para reproduzir.
 
@@ -67,15 +67,15 @@ O cuidado necessário é o mesmo de qualquer site de referência: se inspirar, n
 
 ## Dribbble e o paradigma da avenida
 
-O Dribbble é outro site de referências indicado na aula, com foco em design gráfico e identidade visual. No exemplo, o professor buscou por "logo design" para cafeterias e encontrou variações de projetos de logo que podem servir de base.
+O Dribbble é outro site de referências indicado na aula, com foco em design gráfico e identidade visual. No exemplo, Ruan buscou por "logo design" para cafeterias e encontrou variações de projetos de logo que podem servir de base.
 
-O professor introduziu nessa parte o conceito de "paradigma da avenida" para explicar o que acontece quando um designer não busca boas referências. Nas avenidas de cidades do interior, as fachadas tendem a se parecer umas com as outras porque os comerciantes se inspiram nos vizinhos, e todo mundo fica no mesmo nível baixo. No shopping, as fachadas são mais sofisticadas porque há referência de outros projetos mais trabalhados ao redor. O mesmo princípio vale para o design: quem se inspira em projetos bons consegue criar projetos melhores.
+Ruan introduziu nessa parte o conceito de "paradigma da avenida" para explicar o que acontece quando um designer não busca boas referências. Nas avenidas de cidades do interior, as fachadas tendem a se parecer umas com as outras porque os comerciantes se inspiram nos vizinhos, e todo mundo fica no mesmo nível baixo. No shopping, as fachadas são mais sofisticadas porque há referência de outros projetos mais trabalhados ao redor. O mesmo princípio vale para o design: quem se inspira em projetos bons consegue criar projetos melhores.
 
 Quanto maior e mais qualificado for o repertório de referências, mais o designer consegue elevar a qualidade do próprio trabalho. Sites como Dribbble e Behance funcionam como atalhos para acessar projetos de nível alto sem precisar ter vivido em grandes centros ou frequentado eventos internacionais.
 
 ## Inspiração sem plágio
 
-O professor encerra a seção de referências com uma orientação prática sobre plágio. Colecionar referências não significa copiar. A distinção é clara: use o projeto como base, entenda por que você gostou dele e, na hora de criar, lembre da sensação que ele transmitiu. O que vai para o projeto é a sensação, não o projeto em si.
+Ruan encerra a seção de referências com uma orientação prática sobre plágio. Colecionar referências não significa copiar. A distinção é clara: use o projeto como base, entenda por que você gostou dele e, na hora de criar, lembre da sensação que ele transmitiu. O que vai para o projeto é a sensação, não o projeto em si.
 
 Para cada novo trabalho, o processo recomendado é montar um painel de referências com imagens de cor, tipografia, grafismos e estilos que correspondam ao conceito definido no painel semântico. Esse painel se torna a base visual do projeto e orienta as decisões de criação do início ao fim.
 

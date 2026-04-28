@@ -26,7 +26,7 @@ A aula apresenta o sistema de personas da Overlens com quatro personagens docume
 
 O Bruninho tem 18 anos, é solteiro, estudante de publicidade e propaganda, trabalha como freelancer de social media e edição de vídeo, ganha cerca de R$1.200 por mês e sente pressão para melhorar rápido. Sua personalidade no MBTI é INFP. Sua frase típica é "Cara, eu sei que preciso aprender coisas novas, mas não sei como começar." Essa frase carrega a dor central da persona: sabe que precisa se mover, mas não encontrou o caminho.
 
-A Tela tem 23 anos, é designer e artista, mora em Belo Horizonte e é solteira. O professor conta que usou a foto da sua esposa combinada com a sua própria para criar a Tela, como se fosse uma versão fictícia da filha que eles poderiam ter em 25 anos. A persona não nasce de dados frios. Ela nasce de um esforço de imaginação com base em dados reais.
+A Tela tem 23 anos, é designer e artista, mora em Belo Horizonte e é solteira. Ruan conta que usou a foto da sua esposa combinada com a sua própria para criar a Tela, como se fosse uma versão fictícia da filha que eles poderiam ter em 25 anos. A persona não nasce de dados frios. Ela nasce de um esforço de imaginação com base em dados reais.
 
 ## O mapa de empatia como estrutura central
 
@@ -40,7 +40,7 @@ Sem mapa de empatia, a persona é uma lista de características. Com mapa de emp
 
 A persona sintética é tão boa quanto a persona textual que a alimenta. Se a ficha for genérica, a IA vai responder de forma genérica. Se a ficha tiver profundidade, a IA vai trazer objeções específicas, linguagem adequada e reações coerentes com o perfil documentado.
 
-O professor demonstra isso ao mostrar as fichas das personas da Overlens: cada campo foi preenchido com intenção. Não existe campo por preencher. Existe campo que vai determinar como a persona vai reagir quando for colocada dentro de um modelo de linguagem e perguntada sobre uma oferta, um preço ou uma proposta.
+Ruan demonstra isso ao mostrar as fichas das personas da Overlens: cada campo foi preenchido com intenção. Não existe campo por preencher. Existe campo que vai determinar como a persona vai reagir quando for colocada dentro de um modelo de linguagem e perguntada sobre uma oferta, um preço ou uma proposta.
 
 ## Como a Overlens organiza personas por produto
 

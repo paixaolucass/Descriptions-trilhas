@@ -16,7 +16,7 @@ Ao final desta aula, você será capaz de:
 
 ## Lucro como métrica de sobrevivência
 
-Esta aula é uma pausa intencional da parte prática do evento. O professor percebeu que a turma estava ansiosa, tentando correr para etapas que ainda não era a hora de dar. Antes de voltar para a execução, ele apresenta um conjunto de conceitos que explicam por que o caminho que está sendo ensinado é o caminho certo, e não apenas uma escolha pedagógica arbitrária.
+Esta aula é uma pausa intencional da parte prática do evento. Ruan percebeu que a turma estava ansiosa, tentando correr para etapas que ainda não era a hora de dar. Antes de voltar para a execução, ele apresenta um conjunto de conceitos que explicam por que o caminho que está sendo ensinado é o caminho certo, e não apenas uma escolha pedagógica arbitrária.
 
 O ponto de partida é a seguinte afirmação: lucro é a métrica de sustentabilidade. Não é possível construir algo sustentável sem gerar lucro. E isso não é uma ideia do mundo corporativo. É uma lei da natureza.
 
@@ -24,7 +24,7 @@ O exemplo usado é direto: uma tartaruga bota cem ovos. Desses cem ovos, apenas 
 
 ## ROI como lei natural
 
-O ROI, a sigla para Retorno sobre Investimento, não é uma métrica exclusiva do mundo dos negócios. O professor apresenta o ROI como uma lógica universal presente em sistemas vivos.
+O ROI, a sigla para Retorno sobre Investimento, não é uma métrica exclusiva do mundo dos negócios. Ruan apresenta o ROI como uma lógica universal presente em sistemas vivos.
 
 A fotossíntese é uma relação de ROI. A planta investe energia para capturar luz solar e converte isso em mais energia do que gastou. A relação de predador e caça é ROI: o predador só persegue a caça que vai compensar o gasto energético da perseguição. O sistema imunológico é ROI: o corpo investe recursos para eliminar ameaças antes que elas consumam mais do que o combate custou.
 
@@ -42,17 +42,17 @@ O antídoto para a entropia não é a força de vontade individual: é o ambient
 
 ## Os 7 estágios de maturidade de um negócio
 
-O professor apresenta um mapa de sete estágios pelos quais todo negócio passa. Esse mapa vai do caos total até a antifragilidade, que é o estágio em que o negócio cresce com as mudanças, em vez de ser destruído por elas.
+Ruan apresenta um mapa de sete estágios pelos quais todo negócio passa. Esse mapa vai do caos total até a antifragilidade, que é o estágio em que o negócio cresce com as mudanças, em vez de ser destruído por elas.
 
 O primeiro estágio é a entropia pura: o negócio está no caos, sem direção, sem estrutura, sem clareza. É onde a maioria começa. Os estágios intermediários envolvem regulação, direcionamento e construção de processos. O estágio final é a antifragilidade, conceito desenvolvido por Nassim Taleb, que descreve sistemas que não apenas resistem ao caos, mas se fortalecem quando expostos a ele.
 
-O que o professor está construindo ao longo do evento é o primeiro movimento nesse mapa: sair da entropia e ganhar regulação. Dar direção ao negócio. Provar que é possível validar uma ideia em poucos dias, sem esperar ter tudo perfeito, sem ficar meses polindo um portfólio que o mercado ainda não viu e que pode não ter demanda.
+O que Ruan está construindo ao longo do evento é o primeiro movimento nesse mapa: sair da entropia e ganhar regulação. Dar direção ao negócio. Provar que é possível validar uma ideia em poucos dias, sem esperar ter tudo perfeito, sem ficar meses polindo um portfólio que o mercado ainda não viu e que pode não ter demanda.
 
 ## O erro que a maioria comete: tentar fazer o neném correr
 
 Um dos padrões mais comuns observados entre profissionais criativos que estão começando é a tentativa de construir algo perfeito antes de lançar. Ficar meses polindo o portfólio, ajustando cada detalhe visual, tentando deixar o site impecável, criando projetos fictícios para parecer que tem experiência.
 
-O professor usa uma metáfora direta: é como tentar fazer um neném correr uma maratona. O negócio que está surgindo agora não é o negócio que vai existir daqui a dois anos. Forçá-lo a parecer o que ainda não é não acelera o crescimento: desperdiça energia que deveria ir para a validação real.
+Ruan usa uma metáfora direta: é como tentar fazer um neném correr uma maratona. O negócio que está surgindo agora não é o negócio que vai existir daqui a dois anos. Forçá-lo a parecer o que ainda não é não acelera o crescimento: desperdiça energia que deveria ir para a validação real.
 
 Validar é a primeira tarefa. Antes de investir meses de trabalho numa identidade visual, num site elaborado, numa estrutura operacional complexa, é preciso descobrir se alguém está disposto a pagar pelo que você está oferecendo. Essa é a ordem das coisas.
 

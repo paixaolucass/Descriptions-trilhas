@@ -78,7 +78,7 @@ Casos de uso recomendados para o Investigar no plano Plus:
 - Buyer personas fundamentadas em comportamentos reais documentados
 - Business Model Canvas ou Lean Canvas estruturado com dados de referência do setor
 
-Na demonstração da aula, o professor iniciou uma investigação sobre as melhores práticas para configurar o ChatGPT como assistente pessoal, respondeu três perguntas de qualificação que o O3 fez para mapear o contexto de uso (produtividade pessoal, uso individual, interesse em automação de fluxos), e deixou rodando enquanto apresentava os outros recursos. Ao retornar, o relatório gerado era denso: guia completo de configuração com personalização de instruções, tom de voz, organização de projetos, estratégias de uso da memória e referências verificáveis para cada ponto.
+Na demonstração da aula, Ruan iniciou uma investigação sobre as melhores práticas para configurar o ChatGPT como assistente pessoal, respondeu três perguntas de qualificação que o O3 fez para mapear o contexto de uso (produtividade pessoal, uso individual, interesse em automação de fluxos), e deixou rodando enquanto apresentava os outros recursos. Ao retornar, o relatório gerado era denso: guia completo de configuração com personalização de instruções, tom de voz, organização de projetos, estratégias de uso da memória e referências verificáveis para cada ponto.
 
 ## Personalização: moldando o comportamento do assistente ao seu perfil
 
@@ -86,7 +86,7 @@ A seção de **personalização** é o recurso que mais diferencia o uso avança
 
 A configuração tem dois campos principais.
 
-O primeiro é **como o ChatGPT deve responder**. Aqui você define o comportamento, o tom, o estilo e a abordagem do assistente em todas as conversas. Um exemplo de configuração avançada, a que o professor usa:
+O primeiro é **como o ChatGPT deve responder**. Aqui você define o comportamento, o tom, o estilo e a abordagem do assistente em todas as conversas. Um exemplo de configuração avançada, a que Ruan usa:
 
 - Abordagem científica, busca sempre a verdade antes de responder
 - Não perde tempo com elogios nem com introduções longas, vai direto ao ponto
@@ -110,7 +110,7 @@ A dinâmica recomendada para construir uma base de memória de qualidade é pedi
 
 Para essa dinâmica de construção de memória, a função de **ditado** é extremamente útil. Existe uma distinção importante entre dois modos de voz do ChatGPT: o modo de voz (que inicia uma conversa em tempo real, sem pausa para pensar) e o ditado (que transcreve o que você fala e coloca como texto no campo de mensagem, permitindo que você revise antes de enviar). Para construção de memória e conversas estratégicas, use sempre o ditado. Ele permite que você fale de forma fluida e natural, sem a pressão de ter que formular tudo em tempo real, mas mantém o controle sobre o que vai de fato para o modelo.
 
-O fluxo correto para construção de memória é: fale usando o ditado, revise a transcrição no campo de mensagem, envie, e depois verifique o que foi salvo. O ChatGPT pode cometer erros de transcrição, especialmente com palavras específicas de um campo técnico ou com nomes próprios. O professor demonstrou isso na aula: ao falar "nexialistas" (denominação específica da escola Overlens para designers que integram múltiplas disciplinas), o modelo transcreveu "inercialistas". Se essa memória incorreta tivesse ficado registrada, o modelo passaria a usar o termo errado em todas as interações futuras.
+O fluxo correto para construção de memória é: fale usando o ditado, revise a transcrição no campo de mensagem, envie, e depois verifique o que foi salvo. O ChatGPT pode cometer erros de transcrição, especialmente com palavras específicas de um campo técnico ou com nomes próprios. Ruan demonstrou isso na aula: ao falar "nexialistas" (denominação específica da escola Overlens para designers que integram múltiplas disciplinas), o modelo transcreveu "inercialistas". Se essa memória incorreta tivesse ficado registrada, o modelo passaria a usar o termo errado em todas as interações futuras.
 
 O processo de correção é simples mas necessário: copie a memória incorreta, acesse o gerenciador de memórias, apague a versão errada, cole o texto correto na conversa e peça ao modelo para salvar a versão correta. Ele confirma o salvamento e a memória é atualizada.
 
@@ -142,13 +142,13 @@ Com apenas essa instrução, o comportamento mudou completamente. Em vez de "Ol�
 
 O ponto não é o conteúdo provocador do assistente marrento. O ponto é o que essa demonstração revela sobre o impacto de uma instrução bem definida no comportamento do modelo: uma instrução curta, clara e específica é suficiente para transformar completamente a personalidade e o estilo de interação do assistente.
 
-Depois de criar o GPT, você define a visibilidade: apenas para você, para qualquer pessoa com o link direto, ou publicado na loja de GPTs onde qualquer usuário do ChatGPT pode encontrar e usar. O professor tem um GPT público chamado Photoshop na loja da OpenAI com mais de 50 mil conversas registradas.
+Depois de criar o GPT, você define a visibilidade: apenas para você, para qualquer pessoa com o link direto, ou publicado na loja de GPTs onde qualquer usuário do ChatGPT pode encontrar e usar. Ruan tem um GPT público chamado Photoshop na loja da OpenAI com mais de 50 mil conversas registradas.
 
 ## Canvas e geração de documentos
 
 O **Canvas** é o editor lateral do ChatGPT, acessado pelos três pontos no campo de mensagem. Quando você pede ao modelo para criar um documento (um relatório, um procedimento operacional, um guia, uma análise), o Canvas abre uma janela lateral onde o texto é gerado em formato editável. Você pode editar diretamente qualquer parte do documento no Canvas, pedir ao modelo que revise uma seção específica, expandir um tópico ou reformatar a estrutura, e ao final exportar como .docx para download.
 
-Na demonstração, o professor pediu ao modelo: "Escreva uma POP (Procedimento Operacional Padrão) de como criar um assistente no ChatGPT." O modelo gerou um documento estruturado com objetivo, escopo, pré-requisitos (conta ativa no Plus, clareza sobre o objetivo do assistente, documentação do perfil de usuário), passo a passo detalhado, e considerações finais. O documento foi gerado no Canvas e exportado como .docx em segundos.
+Na demonstração, Ruan pediu ao modelo: "Escreva uma POP (Procedimento Operacional Padrão) de como criar um assistente no ChatGPT." O modelo gerou um documento estruturado com objetivo, escopo, pré-requisitos (conta ativa no Plus, clareza sobre o objetivo do assistente, documentação do perfil de usuário), passo a passo detalhado, e considerações finais. O documento foi gerado no Canvas e exportado como .docx em segundos.
 
 Aplicações para design e trabalho criativo: briefings interativos, análises de benchmark formatadas, guias de estilo, documentação de processos de design, roteiros de apresentação, planos de projeto. Qualquer documento que você produziria num editor de texto convencional pode ser iniciado no Canvas com o modelo como co-autor.
 

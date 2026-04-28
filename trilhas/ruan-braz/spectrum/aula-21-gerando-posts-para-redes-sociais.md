@@ -60,7 +60,7 @@ Dentro do Figma, os vídeos também passam por esse mesmo fluxo. É possível su
 
 ## O nível avançado: agentes gerando dentro dos templates
 
-O professor menciona o caminho mais avançado que existe além desse processo manual: conectar tudo nos agentes de IA, para que eles gerem as imagens diretamente dentro dos seus templates. Esse nível existe e a Overlens já trabalha dessa forma internamente. Mas está fora do escopo desta trilha, que foca no processo manual com domínio real de cada etapa. Dominar o processo manual é o pré-requisito para delegar com qualidade para agentes depois.
+Ruan menciona o caminho mais avançado que existe além desse processo manual: conectar tudo nos agentes de IA, para que eles gerem as imagens diretamente dentro dos seus templates. Esse nível existe e a Overlens já trabalha dessa forma internamente. Mas está fora do escopo desta trilha, que foca no processo manual com domínio real de cada etapa. Dominar o processo manual é o pré-requisito para delegar com qualidade para agentes depois.
 
 ## Coloque em prática
 

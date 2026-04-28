@@ -29,11 +29,11 @@ O resultado prático dessa mentalidade no empreendedorismo é criar serviços de
 
 Na lógica empreendedora, errar cedo é economizar tempo e dinheiro. O papel do dono de negócio não é lançar ofertas aleatórias para ver o que cola, nem esperar 100% de certeza antes de agir. É validar hipóteses com base em dados de clientes passados, histórico próprio, sinais de mercado, comportamento de concorrentes e intuição treinada.
 
-A analogia que o professor usa: é como projetar uma casa inteira, da planta ao acabamento, sem nunca conversar com quem vai morar nela. A lógica empreendedora exige testar rápido, barato e sem apego ao que está sendo criado. Mas para testar de forma útil, é preciso primeiro entender a estrutura de um negócio.
+A analogia que Vinni usa: é como projetar uma casa inteira, da planta ao acabamento, sem nunca conversar com quem vai morar nela. A lógica empreendedora exige testar rápido, barato e sem apego ao que está sendo criado. Mas para testar de forma útil, é preciso primeiro entender a estrutura de um negócio.
 
 ## Os seis pilares de um negócio criativo
 
-O Business Model Canvas é uma ferramenta excelente e recomendada para um momento de maior maturidade. No entanto, seus nove blocos costumam paralisar quem precisa de clareza para começar. Após estruturar dezenas de negócios criativos e observar essa mesma paralisia repetida, o professor identificou seis elementos que funcionam como fundação prática para quem quer sair da teoria e gerar resultado.
+O Business Model Canvas é uma ferramenta excelente e recomendada para um momento de maior maturidade. No entanto, seus nove blocos costumam paralisar quem precisa de clareza para começar. Após estruturar dezenas de negócios criativos e observar essa mesma paralisia repetida, Vinni identificou seis elementos que funcionam como fundação prática para quem quer sair da teoria e gerar resultado.
 
 Esses seis pilares devem ser construídos em ordem: dor específica, perfil ideal de cliente, modelo de negócio, oferta, canais e diferenciação. Os três primeiros formam a base do negócio. Mudar qualquer um deles significa reconstruir grande parte da estratégia: mudar a dor muda o cliente, mudar o cliente muda o modelo, mudar o modelo muda tudo o que vem depois.
 
@@ -41,7 +41,7 @@ Esses seis pilares devem ser construídos em ordem: dor específica, perfil idea
 
 Um negócio não começa pelo serviço nem pelo portfólio. Começa por uma dor. E dor não é algo amplo como "empresas precisam de identidade visual". Dor é algo concreto, sentido e mensurável.
 
-O exemplo do professor: uma designer especializada em apresentações percebeu que várias pequenas empresas de tecnologia perdiam clientes porque sua comunicação parecia genérica e não transmitia credibilidade técnica. A dor dessas empresas não era "falta de identidade visual". A dor era que elas pareciam menores do que eram, e isso custava negócios. Quando você enxerga a dor com essa precisão, você para de falar só de design e começa a falar do que realmente está travando essas empresas.
+O exemplo de Vinni: uma designer especializada em apresentações percebeu que várias pequenas empresas de tecnologia perdiam clientes porque sua comunicação parecia genérica e não transmitia credibilidade técnica. A dor dessas empresas não era "falta de identidade visual". A dor era que elas pareciam menores do que eram, e isso custava negócios. Quando você enxerga a dor com essa precisão, você para de falar só de design e começa a falar do que realmente está travando essas empresas.
 
 Para saber se você encontrou uma dor concreta, existem três perguntas de verificação. Primeiro: as pessoas já gastam dinheiro tentando resolver isso? Segundo: a solução atual no mercado é insatisfatória de alguma forma? Terceiro: você consegue descrever esse problema sem mencionar a sua solução? Essa terceira pergunta é especialmente importante porque, quando você apresenta a solução junto com a dor na hora de validar, o cliente tende a concordar para agradar, e o feedback perde confiabilidade. Se as respostas para essas três perguntas forem sim, você tem uma dor específica e um bom ponto de partida.
 
@@ -73,7 +73,7 @@ Dor, cliente e modelo são a fundação do negócio. Qualquer mudança em um del
 
 A oferta é a ponte entre o que você faz e o que o cliente entende que está comprando. O produto ou serviço é o que você entrega. A oferta é como você descreve essa entrega de um jeito que desperta desejo, conecta com a dor do cliente e diferencia seu trabalho dos demais.
 
-A analogia do professor: se o seu produto é um hambúrguer, a oferta não é "eu vendo um hambúrguer". A oferta é "um hambúrguer artesanal, suculento, em pão de brioche, com cheddar derretido, molho especial da casa e batatas rústicas". Essa descrição detalhada e atrativa é o que faz o cliente querer comprar.
+A analogia de Vinni: se o seu produto é um hambúrguer, a oferta não é "eu vendo um hambúrguer". A oferta é "um hambúrguer artesanal, suculento, em pão de brioche, com cheddar derretido, molho especial da casa e batatas rústicas". Essa descrição detalhada e atrativa é o que faz o cliente querer comprar.
 
 O mesmo raciocínio se aplica ao mercado criativo. Dois designers podem entregar exatamente a mesma coisa. Um diz "logo, paleta, tipografia". O outro diz "um sistema visual que faz sua empresa parecer mais madura e confiável para seus clientes". A entrega é idêntica, mas a percepção de valor é completamente diferente. O cliente não está comprando arquivos nem uma lista de entregáveis. Está comprando a solução para uma dor: crescer, comunicar melhor, ser visto de um jeito diferente.
 
@@ -83,7 +83,7 @@ A melhor oferta do mundo não funciona se ninguém souber que você existe. Os c
 
 As opções incluem plataformas visuais como Behance, Instagram e Dribbble; redes profissionais como o LinkedIn; grupos de networking e de influenciadores dentro do seu nicho; eventos presenciais como feiras e exposições; produção de conteúdo digital em YouTube, newsletter ou blog; e parcerias estratégicas com advogados, fotógrafos, agências, outros designers, gestores de tráfego e empresas de contabilidade. Essas parcerias são especialmente valiosas porque trazem clientes que já chegam prontos para comprar.
 
-Também existem canais menos óbvios. O professor cita o exemplo de uma designer especializada em cafeterias que prospectava clientes em feiras de café. Um ilustrador focado em concept art poderia fazer o mesmo em eventos de cultura geek. O corredor de qualquer evento setorial é um lugar valioso para identificar dores e fazer networking.
+Também existem canais menos óbvios. Vinni cita o exemplo de uma designer especializada em cafeterias que prospectava clientes em feiras de café. Um ilustrador focado em concept art poderia fazer o mesmo em eventos de cultura geek. O corredor de qualquer evento setorial é um lugar valioso para identificar dores e fazer networking.
 
 O erro mais comum nessa etapa é tentar estar em todos os canais ao mesmo tempo. Não funciona. A orientação é escolher dois canais, dominá-los, e só depois expandir.
 

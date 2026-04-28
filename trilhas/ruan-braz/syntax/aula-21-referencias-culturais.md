@@ -32,7 +32,7 @@ Na metodologia científica, referências bibliográficas cumprem três funções
 
 ## Referência como compressão, não ornamentação
 
-A função correta de uma referência é comprimir raciocínio. Ao invés de explicar extensamente o poder de uma ideia sobre alguém, o professor traz o filme Inception: "é igual no Inception, que os caras entram dentro de um sonho, depois de um sonho, dentro de um sonho, só para plantar a ideia na cabeça de uma pessoa. E tem uma frase no filme que diz que uma ideia pode construir ou destruir alguém." Para quem assistiu o filme, a conexão é imediata. Para quem não assistiu, a explicação que vem junto ainda entrega o núcleo da ideia.
+A função correta de uma referência é comprimir raciocínio. Ao invés de explicar extensamente o poder de uma ideia sobre alguém, Ruan traz o filme Inception: "é igual no Inception, que os caras entram dentro de um sonho, depois de um sonho, dentro de um sonho, só para plantar a ideia na cabeça de uma pessoa. E tem uma frase no filme que diz que uma ideia pode construir ou destruir alguém." Para quem assistiu o filme, a conexão é imediata. Para quem não assistiu, a explicação que vem junto ainda entrega o núcleo da ideia.
 
 Referências também podem funcionar como filtro intencional de público. O livro Gödel, Escher, Bach é citado como exemplo: considerado a "bíblia dos nexalistas," o livro exige que você tenha lido outros livros antes, referências constroem sobre referências. É um livro que a maioria das pessoas nunca vai ler, e isso é uma escolha deliberada de escopo. Não existe certo ou errado absoluto: existe contexto e objetivo.
 

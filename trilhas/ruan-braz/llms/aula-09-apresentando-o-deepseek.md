@@ -27,7 +27,7 @@ O Deep Think é o modo de pensamento profundo, funcionalmente equivalente ao Thi
 
 ## Honestidade sobre as limitações
 
-O professor é direto: ele usa o DeepSeek raramente. Sua rotina já está estruturada em outras ferramentas com memória acumulada e fluxos estabelecidos. As configurações do DeepSeek são mínimas, com política de uso, tema e seleção de idioma. Não há personalização de tom, controle de dados avançado ou gestão de projetos comparável ao que outras plataformas oferecem.
+Ruan é direto: ele usa o DeepSeek raramente. Sua rotina já está estruturada em outras ferramentas com memória acumulada e fluxos estabelecidos. As configurações do DeepSeek são mínimas, com política de uso, tema e seleção de idioma. Não há personalização de tom, controle de dados avançado ou gestão de projetos comparável ao que outras plataformas oferecem.
 
 No plano gratuito, as limitações são ainda mais visíveis. Comparado ao que foi apresentado nas aulas anteriores da trilha, a interface do DeepSeek é mais enxuta e oferece menos recursos diretos ao usuário final. Quem busca uma experiência rica de conversa e gestão de contexto vai sentir essa diferença rapidamente.
 

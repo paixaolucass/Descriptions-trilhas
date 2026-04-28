@@ -32,7 +32,7 @@ A distinção é simples: a IA executa bem, mas não decide bem. Decisão é res
 
 O terceiro erro é tratar o primeiro output como o texto final. A maioria das pessoas pede, recebe, publica. O processo não tem atrito porque não tem iteração.
 
-O professor cita uma frase que resume o ponto: simplicidade é o último grau da sofisticação. O texto perfeito não é o texto mais elaborado, é o texto do qual você não consegue tirar mais nada sem perder algo essencial. Chegar lá exige revisão, refinamento, ir e vir entre o que foi gerado e o que você realmente quer dizer.
+Ruan cita uma frase que resume o ponto: simplicidade é o último grau da sofisticação. O texto perfeito não é o texto mais elaborado, é o texto do qual você não consegue tirar mais nada sem perder algo essencial. Chegar lá exige revisão, refinamento, ir e vir entre o que foi gerado e o que você realmente quer dizer.
 
 A iteração é o que transforma um texto gerado em um texto escrito. Sem ela, o processo termina no primeiro rascunho.
 
@@ -40,7 +40,7 @@ A iteração é o que transforma um texto gerado em um texto escrito. Sem ela, o
 
 O primeiro mito é que modelos de linguagem tornam escritores desnecessários. A lógica por trás do mito parece razoável: se a IA pode gerar texto, para que escritores?
 
-O professor introduz o conceito que desfaz essa lógica: o fator da intenção. A IA não quer escrever. Ela não tem objetivo, não tem perspectiva, não tem algo que precisa ser dito. Ela processa inputs e devolve outputs que parecem intencionais sem que haja intenção real por trás.
+Ruan introduz o conceito que desfaz essa lógica: o fator da intenção. A IA não quer escrever. Ela não tem objetivo, não tem perspectiva, não tem algo que precisa ser dito. Ela processa inputs e devolve outputs que parecem intencionais sem que haja intenção real por trás.
 
 O texto que vale alguma coisa começa com alguém que tem algo a dizer. A IA pode ajudar a dizer melhor, mas não pode substituir o querer dizer. A intenção é humana. Sem ela, o que a IA gera é forma sem conteúdo.
 
@@ -70,7 +70,7 @@ A consequência prática é direta: qualquer informação factual que dependa de
 
 A segunda limitação é mais profunda e mais fácil de ignorar: a IA não sente emoções. Ela simula. Há uma diferença.
 
-O professor explica isso pelo conceito de texto como interface. Comunicação é o ato de tornar algo comum entre duas pessoas. Existe um emissor, um receptor e algo que precisa atravessar a distância entre eles. O que torna esse atravessamento possível é a ressonância: o receptor reconhece no texto algo que já estava de alguma forma em sua experiência.
+Ruan explica isso pelo conceito de texto como interface. Comunicação é o ato de tornar algo comum entre duas pessoas. Existe um emissor, um receptor e algo que precisa atravessar a distância entre eles. O que torna esse atravessamento possível é a ressonância: o receptor reconhece no texto algo que já estava de alguma forma em sua experiência.
 
 Quando a IA simula emoção, ela produz padrões linguísticos associados a determinados estados emocionais. Mas não há experiência por trás. Isso não significa que o texto gerado não possa emocionar, ele pode. Mas o escritor precisa saber o que está fazendo: está usando padrões que simulam emoção, não canalizando uma emoção real. A distinção muda a forma de revisar e refinar o texto.
 
@@ -80,7 +80,7 @@ A terceira limitação é estrutural: a IA está presa nos paradigmas do seu tre
 
 Isso tem consequências práticas para quem escreve. Textos que dependem de rupturas, de saltos que vão contra os padrões estabelecidos, de perspectivas que não existem na literatura de treinamento, ficam fora do alcance da IA por conta própria. Ela pode aproximar, mas não saltar.
 
-O professor menciona que essa limitação está no centro do debate sobre inteligência artificial geral, a AGI. Modelos atuais operam dentro dos paradigmas que aprenderam. A capacidade de criar paradigmas novos, de fazer o tipo de salto que muda a forma de pensar um campo inteiro, ainda é uma questão em aberto. Para quem escreve hoje, o que importa saber é que esse salto precisa vir de quem usa a ferramenta, não da ferramenta em si.
+Ruan menciona que essa limitação está no centro do debate sobre inteligência artificial geral, a AGI. Modelos atuais operam dentro dos paradigmas que aprenderam. A capacidade de criar paradigmas novos, de fazer o tipo de salto que muda a forma de pensar um campo inteiro, ainda é uma questão em aberto. Para quem escreve hoje, o que importa saber é que esse salto precisa vir de quem usa a ferramenta, não da ferramenta em si.
 
 ## Coloque em prática
 

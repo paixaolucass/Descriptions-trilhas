@@ -20,13 +20,13 @@ O Viscom funciona assim: você joga a sua referência de desenho, coloca o promp
 
 ## Para quem esse fluxo é especialmente útil
 
-O professor é direto: para quem trabalha com arquitetura, produto e prototipagem, esse processo é muito poderoso. Você decide a composição, define a estrutura do objeto ou espaço no seu esboço, e a IA executa a visualização. O controle permanece nas mãos do designer ou arquiteto, que decide o que vai onde. A IA só faz o trabalho de renderização.
+Ruan é direto: para quem trabalha com arquitetura, produto e prototipagem, esse processo é muito poderoso. Você decide a composição, define a estrutura do objeto ou espaço no seu esboço, e a IA executa a visualização. O controle permanece nas mãos do designer ou arquiteto, que decide o que vai onde. A IA só faz o trabalho de renderização.
 
 A Overlens usa esse processo principalmente para exploração e para ensinar. Mas também já começa a usar para os artefatos próprios da plataforma, testando o processo internamente antes de disponibilizá-lo para os alunos.
 
 ## Viscom versus NanoBanana: qual usar?
 
-O professor esclarece que o NanoBanana também faz esse mesmo tipo de conversão de sketch para render. A razão pela qual o Viscom é apresentado é histórica: a ferramenta fazia isso antes do NanoBanana ter essa capacidade, então a equipe já tinha um fluxo estabelecido com ela e o professor quis trazer o processo para os alunos. A lógica é a mesma: o mesmo modelo (o rascunho) é retexturizado para ser renderizado e visualizado como imagem final. Não há necessidade de assinar o Viscom se você já usa o NanoBanana para isso.
+Ruan esclarece que o NanoBanana também faz esse mesmo tipo de conversão de sketch para render. A razão pela qual o Viscom é apresentado é histórica: a ferramenta fazia isso antes do NanoBanana ter essa capacidade, então a equipe já tinha um fluxo estabelecido com ela e Ruan quis trazer o processo para os alunos. A lógica é a mesma: o mesmo modelo (o rascunho) é retexturizado para ser renderizado e visualizado como imagem final. Não há necessidade de assinar o Viscom se você já usa o NanoBanana para isso.
 
 ## Começar desenhando é uma escolha poderosa
 

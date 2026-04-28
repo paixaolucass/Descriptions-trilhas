@@ -31,7 +31,7 @@ Em projetos mais enxutos, o foco pode ficar no cliente final. Mesmo assim, uma e
 
 Público é uma média, uma síntese de comportamento de uma massa de pessoas. Público-alvo é o segmento da população com quem a marca quer conversar. Ao trabalhar com público, a investigação organiza informações gerais para que a marca consiga construir uma mensagem voltada a uma quantidade maior de pessoas.
 
-Persona é outra coisa. O professor descreve persona como uma ficha ou personagem que representa um cliente ideal. A explicação parte da ideia de personificação usada pelos gregos, que transformavam conceitos em figuras reconhecíveis para facilitar a compreensão. Dinheiro, raio, mar, amor, guerra, inveja e tristeza podiam ser explicados por personagens.
+Persona é outra coisa. Ruan descreve persona como uma ficha ou personagem que representa um cliente ideal. A explicação parte da ideia de personificação usada pelos gregos, que transformavam conceitos em figuras reconhecíveis para facilitar a compreensão. Dinheiro, raio, mar, amor, guerra, inveja e tristeza podiam ser explicados por personagens.
 
 O exemplo de Pluto, deus da riqueza, mostra essa lógica. Ele era descrito como manco e alado: demorava para chegar, mas ia embora rapidamente. A metáfora ajudava a explicar a experiência humana com o dinheiro. O ponto é que seres humanos tendem a entender melhor aquilo que se parece conosco, e a persona usa esse mesmo princípio.
 
@@ -47,21 +47,21 @@ A auditoria busca investigar hábitos, comportamentos e cultura daquele público
 
 ## Dados demográficos e dados comportamentais
 
-O professor organiza a pesquisa de público em duas partes: dados demográficos e dados comportamentais. Essa divisão foi aprendida por ele em um treinamento de marketing em 2018 e ajudou a tornar a pesquisa mais simples, porque evita uma lista solta de perguntas sem organização.
+Ruan organiza a pesquisa de público em duas partes: dados demográficos e dados comportamentais. Essa divisão foi aprendida por ele em um treinamento de marketing em 2018 e ajudou a tornar a pesquisa mais simples, porque evita uma lista solta de perguntas sem organização.
 
 Dados demográficos são informações estatísticas. Eles incluem faixa etária, gênero, escolaridade, ocupação, religião, região, renda e estado civil. Embora sejam muito úteis, costumam ser negligenciados por designers porque nem sempre fica claro o que fazer com esses dados.
 
 O valor dos dados demográficos aparece quando eles influenciam decisões de comunicação e design. Falar com pessoas de 20 a 25 anos é diferente de falar com pessoas de 15, 30, 40, 50 ou 60 anos. Cada geração tem visões de mundo, necessidades e referências diferentes.
 
-A idade também pode impactar decisões visuais. Um design para adolescentes não pode ser tratado do mesmo modo que um design para idosos de 75 anos. O professor cita diferenças fisiológicas, como dificuldade maior para focar, enxergar elementos pequenos ou lidar com algumas cores.
+A idade também pode impactar decisões visuais. Um design para adolescentes não pode ser tratado do mesmo modo que um design para idosos de 75 anos. Ruan cita diferenças fisiológicas, como dificuldade maior para focar, enxergar elementos pequenos ou lidar com algumas cores.
 
 ## Gênero, linguagem e escolhas visuais
 
 Gênero pode ser observado por mais de um aspecto. Um deles é o contexto atual de identidade, percepção e diversidade, incluindo pessoas LGBTQIA+. Entender como a pessoa se enxerga e como deseja ser percebida pode influenciar a forma de comunicação da marca.
 
-Outro aspecto tratado é o fisiológico. O professor afirma que homens e mulheres têm diferenças de corpo, desafios, visão de mundo e forma de agir. Ele usa esse ponto para mostrar que essas diferenças podem afetar a leitura do público e a maneira como a marca lida com ele.
+Outro aspecto tratado é o fisiológico. Ruan afirma que homens e mulheres têm diferenças de corpo, desafios, visão de mundo e forma de agir. Ele usa esse ponto para mostrar que essas diferenças podem afetar a leitura do público e a maneira como a marca lida com ele.
 
-Na comunicação, isso aparece no uso de pronomes. Em públicos muito masculinos, pode fazer sentido usar pronomes masculinos. Em públicos muito femininos, pronomes femininos. Em públicos diversos, é necessário buscar formas neutras ou mais inclusivas. O professor cita a Overlens como exemplo de público diversificado e diz que tenta evitar pronomes masculinos que limitam a comunicação.
+Na comunicação, isso aparece no uso de pronomes. Em públicos muito masculinos, pode fazer sentido usar pronomes masculinos. Em públicos muito femininos, pronomes femininos. Em públicos diversos, é necessário buscar formas neutras ou mais inclusivas. Ruan cita a Overlens como exemplo de público diversificado e diz que tenta evitar pronomes masculinos que limitam a comunicação.
 
 Um exemplo prático foi trocar expressões como "os designers" por "nós designers", evitando uma marcação exclusivamente masculina. Ele relaciona essas escolhas a dados de Instagram e YouTube da Overlens, que ficam próximos de metade homens e metade mulheres. Também cita testes visuais: quando usa muito preto e branco e uma estética mais sóbria, o público tende a ficar mais masculino; quando usa mais cores, tende a ficar mais feminino.
 
@@ -69,9 +69,9 @@ Um exemplo prático foi trocar expressões como "os designers" por "nós designe
 
 Escolaridade influencia a forma de falar com o público. Uma comunicação para pessoas com mestrado ou doutorado pode ser diferente de uma comunicação para quem concluiu o ensino médio, fez faculdade ou não fez faculdade. Identificar essa informação ajuda a ajustar a conexão com o público certo.
 
-Religião pode ampliar repertório quando é um fator relevante naquele mercado. O professor apresenta a palavra cosmovisão como a visão ampla que uma pessoa tem sobre a vida. Religiões são tratadas como fontes de lentes culturais, modos de enxergar o mundo e repertórios que podem criar conexão quando fazem sentido para o público analisado.
+Religião pode ampliar repertório quando é um fator relevante naquele mercado. Ruan apresenta a palavra cosmovisão como a visão ampla que uma pessoa tem sobre a vida. Religiões são tratadas como fontes de lentes culturais, modos de enxergar o mundo e repertórios que podem criar conexão quando fazem sentido para o público analisado.
 
-Região também é cultura. Um público nacional, regional, do Sul ou do Nordeste pode carregar hábitos, referências e formas de perceber o mundo que enriquecem a identidade. A renda, por sua vez, informa o poder de capital do público. Apesar do incômodo com a ideia de classificar pessoas por classe social, o professor reforça que o poder financeiro influencia decisões de compra.
+Região também é cultura. Um público nacional, regional, do Sul ou do Nordeste pode carregar hábitos, referências e formas de perceber o mundo que enriquecem a identidade. A renda, por sua vez, informa o poder de capital do público. Apesar do incômodo com a ideia de classificar pessoas por classe social, Ruan reforça que o poder financeiro influencia decisões de compra.
 
 O design acontece no mundo dos negócios. Por isso, renda importa quando se compara um produto para quem recebe um salário mínimo com um produto para quem recebe R$ 50 mil por mês. Estado civil também pode trazer informações: pessoas casadas, solteiras, divorciadas ou recém-casadas enxergam algumas decisões de modos diferentes.
 
@@ -87,7 +87,7 @@ A renda trouxe um dado importante: em pesquisas com cerca de 150 respostas, 83% 
 
 ## Dados comportamentais e curva de consciência
 
-Os dados comportamentais são apresentados como tão importantes quanto, ou até mais importantes do que, os dados demográficos. Se fosse preciso escolher apenas um tipo, o professor escolheria os comportamentais. A diferença é que os demográficos dão quantidade, enquanto os comportamentais dão qualidade.
+Os dados comportamentais são apresentados como tão importantes quanto, ou até mais importantes do que, os dados demográficos. Se fosse preciso escolher apenas um tipo, Ruan escolheria os comportamentais. A diferença é que os demográficos dão quantidade, enquanto os comportamentais dão qualidade.
 
 Para ser mais preciso, o ideal é ter os dois. Estatísticas podem ser coletadas mais rapidamente, especialmente quando o cliente já tem uma base de clientes. Dados comportamentais são mais trabalhosos, mas revelam anseios, intenção de compra, relação com o produto ou serviço e motivos reais para querer ou não querer a solução oferecida.
 
@@ -97,11 +97,11 @@ O público sabe que tem um problema? Sabe que existe uma solução? Sabe que o c
 
 ## Problemas, dores e soluções disponíveis
 
-A pesquisa começa pelos principais problemas do público. O professor usa designers como exemplo, por ser um público que ele conhece, entrevista e também faz parte. Entre os problemas citados estão não conseguir conquistar clientes, não ter orgulho dos projetos que cria e ter que aceitar projetos indesejados apenas para pagar as contas.
+A pesquisa começa pelos principais problemas do público. Ruan usa designers como exemplo, por ser um público que ele conhece, entrevista e também faz parte. Entre os problemas citados estão não conseguir conquistar clientes, não ter orgulho dos projetos que cria e ter que aceitar projetos indesejados apenas para pagar as contas.
 
 Depois, a auditoria pergunta pelas principais dores em relação ao problema. Problema é a situação objetiva. Dor é como aquilo incomoda o público. No caso de não conseguir conquistar clientes, as dores podem ser insegurança para lidar com clientes, medo do futuro e medo de ter feito a escolha errada.
 
-O professor cita uma live sobre produtividade em que as pessoas diziam que ele parecia estar descrevendo a vida delas. Ele sabia chegar nesse tipo de descrição por duas razões: já tinha vivido parte daquilo e já tinha entrevistado muitos designers. A partir disso, começou a enxergar padrões.
+Ruan cita uma live sobre produtividade em que as pessoas diziam que ele parecia estar descrevendo a vida delas. Ele sabia chegar nesse tipo de descrição por duas razões: já tinha vivido parte daquilo e já tinha entrevistado muitos designers. A partir disso, começou a enxergar padrões.
 
 Também é necessário investigar as dores do público em relação às soluções disponíveis. Aqui aparece a conexão entre público e mercado. O exemplo pessoal foi sentir falta de entretenimento ou lugares diferentes para comer perto de casa, o que obriga a atravessar a cidade para encontrar boas opções. Essa é uma dor em relação às soluções disponíveis.
 
@@ -115,13 +115,13 @@ O exemplo do karaokê mostra como especificar melhor. Em vez de falar em felicid
 
 O mesmo cuidado vale para sonhos. Se uma loja de roupas pergunta qual é o sonho do público e a resposta é ir para a Disney ou comprar um carro, a informação pode não ajudar. O mais útil seria perguntar sobre roupa dos sonhos, experiência ideal em uma loja de roupas, estilo perfeito ou experiência perfeita de compra.
 
-Objeções são aquilo que impede o cliente de comprar. O professor recomenda conversar com vendedores da empresa, porque eles lidam diariamente com esse tipo de barreira. No exemplo da Centauro, uma objeção comum em loja física é "online é mais barato". Um bom vendedor tenta vencer essa objeção mostrando alguma vantagem de comprar ali.
+Objeções são aquilo que impede o cliente de comprar. Ruan recomenda conversar com vendedores da empresa, porque eles lidam diariamente com esse tipo de barreira. No exemplo da Centauro, uma objeção comum em loja física é "online é mais barato". Um bom vendedor tenta vencer essa objeção mostrando alguma vantagem de comprar ali.
 
 Entender objeções ajuda a perceber o que impede a escolha e o que o público realmente quer. Essas perguntas também servem para o próprio designer vender melhor: quais são as objeções de um cliente na hora de investir em identidade visual? Como os negócios têm engrenagens parecidas, o mesmo raciocínio de auditoria pode ser usado na comunicação do designer.
 
 ## Hábitos, cultura e especificidade da pesquisa
 
-Hábitos também entram na auditoria de público. O professor cita uma ideia vista em um livro de antropologia: cultura é formada por hábitos sociais e coletivos. Por isso, hábito é uma palavra-chave quando se fala de comportamento.
+Hábitos também entram na auditoria de público. Ruan cita uma ideia vista em um livro de antropologia: cultura é formada por hábitos sociais e coletivos. Por isso, hábito é uma palavra-chave quando se fala de comportamento.
 
 Existem hábitos de compra, de consumo, de experiência e de uso. A aula cita hábitos dentro de padarias, restaurantes e lojas de roupa. Um exemplo comum é o incômodo de entrar em uma loja e ter um vendedor em cima o tempo todo, quando o consumidor só quer olhar.
 
@@ -131,7 +131,7 @@ A pesquisa precisa ser específica. Estudar hábitos de sono para uma pizzaria n
 
 ## Documentos, NPS e pesquisa de satisfação
 
-Uma fonte inicial de informação são documentos que podem ser solicitados ao cliente. O professor cita pesquisa de satisfação e NPS. NPS significa Net Promoter Score e é um modelo usado para mensurar a experiência que um consumidor teve com uma empresa.
+Uma fonte inicial de informação são documentos que podem ser solicitados ao cliente. Ruan cita pesquisa de satisfação e NPS. NPS significa Net Promoter Score e é um modelo usado para mensurar a experiência que um consumidor teve com uma empresa.
 
 O NPS trabalha com a lógica de detratores, passivos e promotores. Notas 9 e 10 entram como promotores, notas de 6 para baixo entram como detratores, e passivos não somam nem subtraem. Uma pergunta clássica é: de zero a dez, quanto você indicaria isso para outros amigos? A pergunta é valiosa porque as pessoas tendem a indicar aquilo de que realmente gostam.
 
@@ -143,7 +143,7 @@ No exemplo da padaria, se passam 50 pessoas por dia e o objetivo é obter pelo m
 
 Formulários podem ser criados em ferramentas como Google Forms e enviados para a base de clientes. A orientação é não encher de perguntas. O ideal é escolher perguntas-chave. Se estado civil, religião e escolaridade não forem tão relevantes para aquele contexto, mas faixa etária, gênero e renda forem, o formulário deve priorizar o que importa.
 
-A linguagem das perguntas também deve ser adaptada ao público. O professor apresenta categorias genéricas para ensinar a auditoria, mas o designer precisa traduzir essas perguntas para o negócio e o mercado específicos. Uma pergunta genérica demais pode gerar respostas vagas e pouco úteis.
+A linguagem das perguntas também deve ser adaptada ao público. Ruan apresenta categorias genéricas para ensinar a auditoria, mas o designer precisa traduzir essas perguntas para o negócio e o mercado específicos. Uma pergunta genérica demais pode gerar respostas vagas e pouco úteis.
 
 Outra técnica é a observação, associada ao shadowing e à etnografia. A ideia é passar tempo observando o consumidor em contexto real. Em uma padaria, por exemplo, isso pode significar passar um dia observando o que as pessoas gostam, o que não gostam, o que compram, o que deixam de comprar e em quais horários aparecem.
 
@@ -157,7 +157,7 @@ Nele, é possível investigar atitudes, necessidades, preconceitos, modos de uso
 
 O mapeamento de experiência e o cliente oculto ajudam a entender dores em relação às soluções disponíveis. Ao se passar por cliente ou experimentar o processo de compra, o designer consegue identificar etapas ruins, atritos e oportunidades que talvez não apareçam em uma conversa abstrata.
 
-O professor cita o livro "Adams Óbvio", escrito por volta de 1916 ou 1917, como referência para a importância de experimentar o produto. No livro, o personagem queria trabalhar no projeto de um bolo e a primeira coisa que fez foi comprar o bolo para experimentar. A ideia central é simples: muitos designers não compram nem experimentam os produtos de seus clientes.
+Ruan cita o livro "Adams Óbvio", escrito por volta de 1916 ou 1917, como referência para a importância de experimentar o produto. No livro, o personagem queria trabalhar no projeto de um bolo e a primeira coisa que fez foi comprar o bolo para experimentar. A ideia central é simples: muitos designers não compram nem experimentam os produtos de seus clientes.
 
 Ao conhecer o produto de verdade, o designer consegue enxergar o óbvio que estava na frente dele. Às vezes, a big idea não vem de uma ideia sofisticada, mas de uma evidência simples percebida durante a investigação, a observação e a experiência direta com o negócio.
 
@@ -167,9 +167,9 @@ Além de documentos e técnicas presenciais, existem ferramentas para encontrar 
 
 Comunidades também podem ser fonte de pesquisa. Alguns públicos vivem em grupos, enquanto outros são mais isolados. Se existe um grupo de WhatsApp, Telegram ou uma comunidade cheia de clientes, entrar nesse espaço permite observar anseios, medos e conversas espontâneas.
 
-Essas comunidades também podem receber pesquisas curtas. O professor sugere pedir a opinião do grupo em um projeto, explicar que a resposta pode voltar em benefício para eles e enviar uma pesquisa de dois minutos. Isso pode gerar muita informação de público.
+Essas comunidades também podem receber pesquisas curtas. Ruan sugere pedir a opinião do grupo em um projeto, explicar que a resposta pode voltar em benefício para eles e enviar uma pesquisa de dois minutos. Isso pode gerar muita informação de público.
 
-O Google Trends ajuda a observar termos, regiões, interesse ao longo do tempo e pesquisas relacionadas. No exemplo de padaria, a ferramenta mostrou onde o termo era mais pesquisado e trouxe consultas como "padaria nova seara", "frango de padaria seara preço" e "frango de padaria seara como fazer". O professor não conclui algo definitivo, mas mostra como esses dados levantam perguntas.
+O Google Trends ajuda a observar termos, regiões, interesse ao longo do tempo e pesquisas relacionadas. No exemplo de padaria, a ferramenta mostrou onde o termo era mais pesquisado e trouxe consultas como "padaria nova seara", "frango de padaria seara preço" e "frango de padaria seara como fazer". Ruan não conclui algo definitivo, mas mostra como esses dados levantam perguntas.
 
 ## Planejador de Palavras-Chave, autocomplete e empresas de research
 
@@ -179,7 +179,7 @@ O autocomplete do Google é outra fonte simples. Ao digitar "padaria" e dar espa
 
 Esses autocompletes mostram hábitos de pesquisa. O designer pode criar um documento apenas com essas sugestões para observar o que as pessoas costumam buscar naquele mercado. A partir daí, surgem perguntas sobre demanda, desejo, localização e categorias de interesse.
 
-Empresas de research também podem ser consultadas. O professor cita Mind Miners e Opinion como referências que ele gosta. A Mind Miners pode ser usada como plataforma de pesquisa e é utilizada por grandes marcas como McDonald's, Nestlé, Ambev, Danone, Samsung e Carrefour. Mesmo sem contratar a ferramenta, seus conteúdos, materiais, estudos originais e eventos podem ajudar.
+Empresas de research também podem ser consultadas. Ruan cita Mind Miners e Opinion como referências que ele gosta. A Mind Miners pode ser usada como plataforma de pesquisa e é utilizada por grandes marcas como McDonald's, Nestlé, Ambev, Danone, Samsung e Carrefour. Mesmo sem contratar a ferramenta, seus conteúdos, materiais, estudos originais e eventos podem ajudar.
 
 Entre os exemplos citados estão estudos sobre bebidas, futuro do varejo, Dia dos Namorados, Dia das Mães, puerpério, reality shows, carnaval e Customer Experience. A Opinion também publica pesquisas, como uma sobre TikTok no Brasil e hábitos dos usuários. Esses materiais ajudam a balizar decisões e apontar direções. O Sebrae também pode trazer informações, embora seja mais voltado ao mercado do que ao público.
 

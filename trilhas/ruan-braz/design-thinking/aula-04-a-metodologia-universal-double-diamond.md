@@ -35,7 +35,7 @@ No desenvolvimento, as ideias selecionadas são trabalhadas, testadas e refinada
 
 ## A semelhança com o treinamento de inteligências artificiais
 
-O professor faz uma conexão direta entre o Double Diamond e o processo de treinamento de IAs. Isso não é coincidência: as inteligências artificiais simulam o pensamento e o aprendizado humano, e o Double Diamond também simula a criatividade e o processo criativo humano.
+Ruan faz uma conexão direta entre o Double Diamond e o processo de treinamento de IAs. Isso não é coincidência: as inteligências artificiais simulam o pensamento e o aprendizado humano, e o Double Diamond também simula a criatividade e o processo criativo humano.
 
 A semelhança estrutural entre as duas metodologias reforça o caráter universal do Double Diamond. Se o modelo que governa o raciocínio humano é o mesmo que estrutura o aprendizado de máquina, isso indica que a metodologia captura algo fundamental sobre como problemas complexos são resolvidos.
 
@@ -43,7 +43,7 @@ A semelhança estrutural entre as duas metodologias reforça o caráter universa
 
 O Double Diamond pode ser utilizado de formas diferentes dependendo do contexto. É possível trabalhar com a matriz impressa ou em formato digital, mas também de maneira totalmente abstrata, usando as quatro etapas como referência mental para organizar as fases de um projeto.
 
-O professor menciona que já usou o Double Diamond desenhado à mão no papel, explicando o processo diretamente para clientes e desenvolvendo junto com eles em tempo real. O que importa é que as quatro etapas estejam presentes como estrutura de pensamento, não o suporte em que são registradas.
+Ruan menciona que já usou o Double Diamond desenhado à mão no papel, explicando o processo diretamente para clientes e desenvolvendo junto com eles em tempo real. O que importa é que as quatro etapas estejam presentes como estrutura de pensamento, não o suporte em que são registradas.
 
 ## O Double Diamond expandido: Engajamento e Liderança
 
@@ -55,23 +55,23 @@ Na parte inferior, está a camada de liderança, que tem como foco criar as cond
 
 A estrutura expandida também reúne os princípios que orientam o modo de trabalho dentro do Double Diamond. O primeiro é ser centrado nas pessoas, colocando o usuário e os envolvidos no centro de cada decisão. O segundo é a comunicação inclusiva, que garante que diferentes vozes sejam ouvidas e consideradas.
 
-O terceiro princípio é colaboração e cocriação, que engloba o envolvimento ativo de stakeholders e da comunidade no processo. O professor associa essa visão ao que chama de pensamento nexialista. O quarto princípio é sintetizado pela expressão "iterate, iterate, iterate", que reforça que o processo de design é feito de ciclos repetidos de refinamento, não de uma execução linear e única.
+O terceiro princípio é colaboração e cocriação, que engloba o envolvimento ativo de stakeholders e da comunidade no processo. Ruan associa essa visão ao que chama de pensamento nexialista. O quarto princípio é sintetizado pela expressão "iterate, iterate, iterate", que reforça que o processo de design é feito de ciclos repetidos de refinamento, não de uma execução linear e única.
 
 ## O processo não é linear: iteração e idas e vindas
 
-Um dos pontos centrais da aula é a distinção entre iteração e interação. O professor reforça que são palavras diferentes com significados distintos. No Double Diamond, o que governa o processo é a iteração: ciclos de retorno e refinamento que acontecem o tempo inteiro.
+Um dos pontos centrais da aula é a distinção entre iteração e interação. Ruan reforça que são palavras diferentes com significados distintos. No Double Diamond, o que governa o processo é a iteração: ciclos de retorno e refinamento que acontecem o tempo inteiro.
 
 As setas azuis no diagrama representam exatamente isso. É possível estar na etapa de definição e precisar voltar à descoberta porque a ideia escolhida não resolvia o problema. Também é possível estar na entrega e ter que retornar ao desenvolvimento por não ter passado em um teste de qualidade. Esse vai e vem não é falha do processo, é parte estrutural dele.
 
 ## Methods Banks: Explore, Shape e Build
 
-A estrutura do Double Diamond inclui também os Methods Banks, que são bancos de métodos de design organizados por tipo de atividade. O professor apresenta três: Explore (geração de alternativas), Shape (modelagem de ideias) e Build (construção).
+A estrutura do Double Diamond inclui também os Methods Banks, que são bancos de métodos de design organizados por tipo de atividade. Ruan apresenta três: Explore (geração de alternativas), Shape (modelagem de ideias) e Build (construção).
 
-Esses bancos oferecem ferramentas e metodologias específicas para cada fase do processo. O professor anuncia que fornecerá uma lista de ferramentas nos próximos tópicos da trilha para que os alunos possam pesquisar e aplicar conforme o contexto de cada projeto.
+Esses bancos oferecem ferramentas e metodologias específicas para cada fase do processo. Ruan anuncia que fornecerá uma lista de ferramentas nos próximos tópicos da trilha para que os alunos possam pesquisar e aplicar conforme o contexto de cada projeto.
 
 ## O Double Diamond como esqueleto universal
 
-O Double Diamond não pretende contemplar todas as etapas de todos os processos de design. O professor é claro sobre isso. O que ele oferece é um esqueleto universal: uma estrutura base que funciona como ponto de partida para qualquer metodologia mais específica.
+O Double Diamond não pretende contemplar todas as etapas de todos os processos de design. Ruan é claro sobre isso. O que ele oferece é um esqueleto universal: uma estrutura base que funciona como ponto de partida para qualquer metodologia mais específica.
 
 Quem precisa criar sua própria metodologia deve partir do Double Diamond. Quem precisa de uma metodologia para começar imediatamente também pode utilizá-lo diretamente. É uma coringa que atravessa áreas e contextos porque captura o que há de comum em qualquer processo criativo humano.
 

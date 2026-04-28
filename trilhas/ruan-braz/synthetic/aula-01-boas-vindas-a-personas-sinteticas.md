@@ -14,7 +14,7 @@ Ao final desta aula, você será capaz de:
 
 ## O que é uma persona sintética
 
-A aula começa demonstrando o próprio conceito que vai ser ensinado: um clone sintético do professor aparece nos primeiros segundos do vídeo, falando no lugar dele, criado em menos de cinco minutos com uma ferramenta gratuita. A imperfeição é visível e a voz é diferente da original, mas o ponto está feito: é possível criar uma representação em vídeo de qualquer pessoa com tecnologia acessível agora.
+A aula começa demonstrando o próprio conceito que vai ser ensinado: um clone sintético de Ruan aparece nos primeiros segundos do vídeo, falando no lugar dele, criado em menos de cinco minutos com uma ferramenta gratuita. A imperfeição é visível e a voz é diferente da original, mas o ponto está feito: é possível criar uma representação em vídeo de qualquer pessoa com tecnologia acessível agora.
 
 Esse experimento abre a aula para uma pergunta mais funda: o que é uma persona, de onde vem esse conceito e por que a inteligência artificial está transformando algo que existia só no papel em algo que fala, responde e interage em tempo real?
 
@@ -36,7 +36,7 @@ A confusão que a aula resolve: persona não é uma coisa só. Buyer persona rep
 
 ## Como a Overlens usa personas
 
-O professor mostra o Brand System da Overlens como exemplo concreto. Dentro da estrutura de marca, existe uma camada chamada Núcleo da Marca com posicionamento, propósito, Story Brand e arquétipos. É nessa camada que personas ficam documentadas: não como dado estatístico, mas como personagem com nome, história, dores, linguagem e visão de mundo.
+Ruan mostra o Brand System da Overlens como exemplo concreto. Dentro da estrutura de marca, existe uma camada chamada Núcleo da Marca com posicionamento, propósito, Story Brand e arquétipos. É nessa camada que personas ficam documentadas: não como dado estatístico, mas como personagem com nome, história, dores, linguagem e visão de mundo.
 
 A trilha Synthetic existe porque a próxima etapa depois de criar uma persona bem documentada é dar vida a ela. Não apenas imaginar que você está falando com ela, mas criar um agente que responde como ela, fala com a voz dela e pode ser usado para validar ofertas, testar comunicações e simular interações antes de ir a público.
 

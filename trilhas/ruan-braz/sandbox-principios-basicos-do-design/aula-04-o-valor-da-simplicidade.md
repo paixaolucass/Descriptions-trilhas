@@ -23,7 +23,7 @@ Isso importa porque o design não é sobre deixar o mundo mais bonito. Design é
 
 ## Design como condução da percepção
 
-Para ilustrar que o "menos é mais" não é absoluto, o professor mostra imagens caóticas, com muitos elementos, muito detalhe, muita informação. Essas imagens não seguem o princípio da simplicidade. Mas ainda assim são design.
+Para ilustrar que o "menos é mais" não é absoluto, Ruan mostra imagens caóticas, com muitos elementos, muito detalhe, muita informação. Essas imagens não seguem o princípio da simplicidade. Mas ainda assim são design.
 
 Passar a mensagem é o que conta. A pergunta que orienta qualquer projeto não é "isso é simples?", mas sim: qual mensagem nós queremos passar? É essa pergunta que define as escolhas. Mais para frente, no módulo de design e percepção visual, esse raciocínio será aprofundado, incluindo como formas, cores e composições conduzem a percepção de formas distintas.
 
@@ -35,7 +35,7 @@ Mas há outro motivo mais importante: antes de quebrar uma regra, é preciso dom
 
 A simplicidade também tem valor comercial direto. Ela permite criar designs que funcionam no dia a dia, designs que clientes reconhecem como profissionais e que estão dispostos a comprar. Um designer iniciante que domina a simplicidade passa uma percepção de muito mais experiência do que realmente tem.
 
-O professor menciona que, depois de mentorar centenas de designers, percebeu um padrão recorrente: alguns iniciantes faziam designs muito melhores do que profissionais com 15 anos de mercado. O motivo tem duas faces: esses profissionais mais experientes não haviam dominado os fundamentos, e também enchiam os projetos com coisas demais, querendo se expressar em algo que tinha um objetivo muito claro.
+Ruan menciona que, depois de mentorar centenas de designers, percebeu um padrão recorrente: alguns iniciantes faziam designs muito melhores do que profissionais com 15 anos de mercado. O motivo tem duas faces: esses profissionais mais experientes não haviam dominado os fundamentos, e também enchiam os projetos com coisas demais, querendo se expressar em algo que tinha um objetivo muito claro.
 
 ## Simplicidade não é o mesmo que arte: uma distinção essencial
 
@@ -47,17 +47,17 @@ Esses dois princípios, clareza e simplicidade, formam a base sobre a qual os ou
 
 ## Pasta de referências no Pinterest: exercício de leitura visual
 
-Para tornar o conceito concreto, o professor compartilha uma pasta no Pinterest com 62 pins (possivelmente mais no momento em que a aula é assistida) de exemplos de simplicidade no design. O link está disponível abaixo do vídeo.
+Para tornar o conceito concreto, Ruan compartilha uma pasta no Pinterest com 62 pins (possivelmente mais no momento em que a aula é assistida) de exemplos de simplicidade no design. O link está disponível abaixo do vídeo.
 
 O exercício proposto é olhar cada imagem e se perguntar: tem complexidade técnica aqui? Na maioria dos casos, não. O que existe é decisão bem feita.
 
-O professor analisa algumas peças ao longo dessa parte da aula. Em um dos exemplos, ele destaca: hierarquia tipográfica com peso maior no topo e letras menores embaixo, margem bem definida, boa escolha de cores e espaçamento entre letras e linhas bem calibrado. São decisões mínimas, mas que tornam a peça harmônica.
+Ruan analisa algumas peças ao longo dessa parte da aula. Em um dos exemplos, ele destaca: hierarquia tipográfica com peso maior no topo e letras menores embaixo, margem bem definida, boa escolha de cores e espaçamento entre letras e linhas bem calibrado. São decisões mínimas, mas que tornam a peça harmônica.
 
 Em outro exemplo, ele analisa uma peça com a mesma palavra repetida e invertida. A distância entre as duas cria um espaço fino que gera harmonia. A margem é consistente. Poucos elementos, mas cada um bem posicionado.
 
 Um cardápio também é mostrado como exemplo de design comercial eficaz: excelente escolha tipográfica, apenas duas cores com contraste forte (preto e amarelo) e nada que polua a composição. Um envelope segue o mesmo raciocínio: boa escolha de cor, contraste, tipografia equilibrada e hierarquia clara entre as palavras.
 
-O professor também menciona que criar imagens como as mostradas se tornou mais acessível com inteligência artificial. Dentro da Overlens, o módulo **AI Gen** ensina a gerar esse tipo de imagem usando IA.
+Ruan também menciona que criar imagens como as mostradas se tornou mais acessível com inteligência artificial. Dentro da Overlens, o módulo **AI Gen** ensina a gerar esse tipo de imagem usando IA.
 
 *Para ver os exemplos visuais analisados nesta parte da aula, assista a partir de 04:09 no vídeo.*
 

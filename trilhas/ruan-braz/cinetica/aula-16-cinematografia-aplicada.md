@@ -173,7 +173,7 @@ Esses termos foram parte do treinamento dos modelos com material cinematográfic
 
 ## Como converter uma ideia narrativa em prompt cinematográfico
 
-O processo que o professor usa tem quatro etapas:
+O processo que Ruan usa tem quatro etapas:
 
 1. Defina a visão criativa em linguagem simples: "quero uma cena de suspense com um detetive lendo um documento importante."
 
@@ -185,7 +185,7 @@ O processo que o professor usa tem quatro etapas:
 
 ## Como criar um assistente de prompt cinematográfico
 
-O professor criou ao vivo um assistente no ChatGPT e no Gemini Advanced. O processo é simples:
+Ruan criou ao vivo um assistente no ChatGPT e no Gemini Advanced. O processo é simples:
 
 No ChatGPT, você vai em GPTs, cria um novo GPT, e no campo de instruções você escreve:
 
@@ -201,7 +201,7 @@ Esse assistente pode ser usado para todos os seus projetos. Você digita "um urs
 
 ## A biblioteca visual de referência: agentes em paralelo
 
-O professor demonstrou ao vivo o uso de agentes locais em paralelo para gerar automaticamente vídeos demonstrativos de cada termo cinematográfico. Sem escrever uma linha de código, ele configurou 10 agentes rodando simultaneamente usando a API do Seedance da ByteDance. Cada agente foi responsável por gerar um vídeo demonstrando um plano ou movimento de câmera diferente, e colocar automaticamente na página da documentação.
+Ruan demonstrou ao vivo o uso de agentes locais em paralelo para gerar automaticamente vídeos demonstrativos de cada termo cinematográfico. Sem escrever uma linha de código, ele configurou 10 agentes rodando simultaneamente usando a API do Seedance da ByteDance. Cada agente foi responsável por gerar um vídeo demonstrando um plano ou movimento de câmera diferente, e colocar automaticamente na página da documentação.
 
 O resultado final é uma biblioteca visual onde cada card tem um vídeo demonstrando o que aquele termo faz, static shot, slow dolly in, pan left, orbit shot, bird's eye view, rembrandt light, butterfly, volumetric. Você pode assistir cada um e usar como referência antes de colocar o termo no prompt.
 

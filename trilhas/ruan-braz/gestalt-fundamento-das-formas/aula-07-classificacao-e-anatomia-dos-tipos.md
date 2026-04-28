@@ -83,7 +83,7 @@ Nas letras minúsculas, os termos mais importantes para um designer identificar 
 
 Também são relevantes: o eixo, que determina a inclinação do contraste; a espora, que varia bastante entre tipos diferentes; e a abertura, que é o espaço entre a extremidade de letras como o c e o e. Outros nomes existem, como ombro, orelha, cauda, pescoço e bojo, mas os mais úteis no dia a dia de identificação são remate, terminal, espora, eixo e serifa.
 
-O professor compartilhou um exercício que fez na faculdade: criar um glossário tipográfico manual, onde cada página corresponde a uma letra e as partes são nomeadas à mão. O objetivo não é decorar, mas aprender por meio do contato direto com o vocabulário.
+Ruan compartilhou um exercício que fez na faculdade: criar um glossário tipográfico manual, onde cada página corresponde a uma letra e as partes são nomeadas à mão. O objetivo não é decorar, mas aprender por meio do contato direto com o vocabulário.
 
 ## A Serifa: origem, estilo e tipos
 
@@ -103,11 +103,11 @@ O eixo é a inclinação do contraste dentro de uma letra, ou seja, a direção 
 
 ## Classificação Histórica dos Estilos
 
-A partir da prensa móvel, foi possível criar uma matriz e replicá-la. Isso abriu espaço para que diferentes estilos se desenvolvessem e fossem classificados. O professor apresentou a sequência histórica completa, enfatizando que o objetivo não é decorar cada estilo, mas perceber as transições e entender o quanto é possível mudar uma letra sem alterar sua estrutura. O E continua sendo E. O R continua sendo R. O que muda é o estilo.
+A partir da prensa móvel, foi possível criar uma matriz e replicá-la. Isso abriu espaço para que diferentes estilos se desenvolvessem e fossem classificados. Ruan apresentou a sequência histórica completa, enfatizando que o objetivo não é decorar cada estilo, mas perceber as transições e entender o quanto é possível mudar uma letra sem alterar sua estrutura. O E continua sendo E. O R continua sendo R. O que muda é o estilo.
 
 ### Renascentista romana e itálica
 
-A renascentista romana tem eixo humanista, serifas adinatas e contraste baixo. O eixo humanista vem diretamente do uso da pena. As letras minúsculas trouxeram elementos do carolíngio e as maiúsculas vieram da romana clássica. A diferença em relação ao carolíngio é que agora cada letra era pensada para alcançar sua forma perfeita e ser replicada com precisão. Os exemplos citados são a Bembo e a Jenson, sendo a Jenson uma das favoritas do professor. A renascentista itálica tem bojo elíptico, eixo humanista, contraste baixo e uma inclinação de aproximadamente 10 graus. Ambas correspondem ao período dos séculos XV e XVI.
+A renascentista romana tem eixo humanista, serifas adinatas e contraste baixo. O eixo humanista vem diretamente do uso da pena. As letras minúsculas trouxeram elementos do carolíngio e as maiúsculas vieram da romana clássica. A diferença em relação ao carolíngio é que agora cada letra era pensada para alcançar sua forma perfeita e ser replicada com precisão. Os exemplos citados são a Bembo e a Jenson, sendo a Jenson uma das favoritas de Ruan. A renascentista itálica tem bojo elíptico, eixo humanista, contraste baixo e uma inclinação de aproximadamente 10 graus. Ambas correspondem ao período dos séculos XV e XVI.
 
 ### Maneirista
 
@@ -119,7 +119,7 @@ A tipografia barroca também tem eixo variável, mas mantém uma suavidade que a
 
 ### Rococó
 
-O rococó tem contraste bem baixo, eixo racionalista, formas bem arredondadas e serifas arredondadas. O olho das letras é bem apertado e pequeno. A contraforma fica mais exagerada. O exemplo citado é a Fleischman, descrita pelo professor como muito linda.
+O rococó tem contraste bem baixo, eixo racionalista, formas bem arredondadas e serifas arredondadas. O olho das letras é bem apertado e pequeno. A contraforma fica mais exagerada. O exemplo citado é a Fleischman, descrita por Ruan como muito linda.
 
 ### Neoclássica
 
@@ -135,7 +135,7 @@ O modernismo trouxe as realistas, que surgiram no final do século XIX e reinara
 
 ### Modernista geométrica e modernista lírica
 
-A modernista geométrica não tem contraste, não tem serifa e não tem eixo, como a realista. A diferença está na geometria: enquanto a realista tem formas mais retangulares, a geométrica busca círculos e formas regulares perfeitas. O O é um círculo quase perfeito. O exemplo é a Futura, do século XX. A modernista lírica é um retorno ao clássico dentro do modernismo: eixo humanista volta, serifa adinata volta. O que a diferencia das renascentistas são detalhes como o tipo de terminal e o contraste levemente diferente. O exemplo citado é a Palatina, que o professor admite confundir às vezes com renascentistas.
+A modernista geométrica não tem contraste, não tem serifa e não tem eixo, como a realista. A diferença está na geometria: enquanto a realista tem formas mais retangulares, a geométrica busca círculos e formas regulares perfeitas. O O é um círculo quase perfeito. O exemplo é a Futura, do século XX. A modernista lírica é um retorno ao clássico dentro do modernismo: eixo humanista volta, serifa adinata volta. O que a diferencia das renascentistas são detalhes como o tipo de terminal e o contraste levemente diferente. O exemplo citado é a Palatina, que Ruan admite confundir às vezes com renascentistas.
 
 ### Pós-modernistas
 
@@ -143,7 +143,7 @@ As pós-modernistas são estilos que têm traços modernistas mas começam a se 
 
 ## A Distinção entre Fonte e Typeface
 
-Com a chegada dos computadores e do meio digital, novas classes foram possíveis. Mas antes de falar nelas, o professor clarificou três conceitos distintos que são frequentemente confundidos.
+Com a chegada dos computadores e do meio digital, novas classes foram possíveis. Mas antes de falar nelas, Ruan clarificou três conceitos distintos que são frequentemente confundidos.
 
 Letra é o símbolo que forma o alfabeto: a letra A, B, C. Tipografia, no sentido original do termo, é a tecnologia de impressão com tipos móveis, a grafia com tipos. E fonte é um arquivo digital que guarda as informações de uma tipografia, ou seja, os caracteres. É a fonte que diz ao computador qual forma mostrar quando você pressiona uma tecla. Fonte não é sinônimo de tipografia.
 
@@ -159,7 +159,7 @@ O OpenType (OTF) surgiu para resolver essas questões. Desenvolvido com particip
 
 Com os computadores, novas classes ganharam força além das históricas. As displays são tipografias muito rebuscadas, cheias de detalhes e estilo. Funcionam muito bem em títulos grandes, mas não em parágrafos, porque o excesso de detalhe prejudica a leitura em tamanhos menores. As scripts imitam as cursivas caligráficas itálicas e foram facilitadas pela criação digital. As hands imitam a escrita manual de forma menos formal do que as scripts. As monotypes usam largura fixa para todos os caracteres, como as fontes de máquina de escrever.
 
-Todas essas categorias já existiam antes dos computadores como estilos de letra desenhados à mão. O que os computadores permitiram foi sistematizar esses desenhos em fontes digitais, tornando possível replicá-los em qualquer contexto. O professor encerra apontando que, na próxima aula, o foco será a percepção que cada tipografia transmite, que é o que mais importa para quem trabalha com design e comunicação.
+Todas essas categorias já existiam antes dos computadores como estilos de letra desenhados à mão. O que os computadores permitiram foi sistematizar esses desenhos em fontes digitais, tornando possível replicá-los em qualquer contexto. Ruan encerra apontando que, na próxima aula, o foco será a percepção que cada tipografia transmite, que é o que mais importa para quem trabalha com design e comunicação.
 
 ## Coloque em prática
 

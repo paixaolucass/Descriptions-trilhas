@@ -18,11 +18,11 @@ A aula começa pelos modelos base, as LLMs que competem no topo do mercado e das
 
 **ChatGPT** está no topo. Tem versão gratuita e paga, e quem sabe usar bem não vai sentir falta de nada. **Gemini** do Google é apresentado como a melhor LLM no momento da gravação, com ferramentas poderosíssimas. Depois de ficar para trás por um tempo, o Google voltou passando por cima do mercado. Para texto, o Gemini sozinho já seria suficiente para a grande maioria dos casos, o resto é conforto.
 
-**Claude** da Anthropic tem uma proposta voltada desde o início para o trabalho profissional, não para assistente pessoal. O professor destaca que o Claude tende a escrever de forma mais fácil de parecer humano, algo especialmente relevante para copy. É muito utilizado no mercado corporativo. **Grok** da xAI também compete bem nesse grupo e entrega resultado equivalente para a maior parte dos usos.
+**Claude** da Anthropic tem uma proposta voltada desde o início para o trabalho profissional, não para assistente pessoal. Ruan destaca que o Claude tende a escrever de forma mais fácil de parecer humano, algo especialmente relevante para copy. É muito utilizado no mercado corporativo. **Grok** da xAI também compete bem nesse grupo e entrega resultado equivalente para a maior parte dos usos.
 
 **Perplexity** tem uma característica que o diferencia dos outros quatro: permite usar múltiplos modelos em uma única assinatura, Gemini, ChatGPT, Claude e Grok estão disponíveis dentro da plataforma. Além disso, tem recursos poderosos de pesquisa e entrega templates estruturados que já orientam o raciocínio da IA, sem que o usuário precise escrever todo o prompt do zero. Para quem pode assinar uma única ferramenta e quer flexibilidade, o Perplexity é uma escolha sólida.
 
-A conclusão do professor: qualquer uma dessas cinco vai funcionar para quem sabe usar IA. Se você tem clareza sobre o que quer, vai conseguir resultado com qualquer uma delas.
+A conclusão de Ruan: qualquer uma dessas cinco vai funcionar para quem sabe usar IA. Se você tem clareza sobre o que quer, vai conseguir resultado com qualquer uma delas.
 
 ## Ferramentas derivadas: conforto e especialização
 
@@ -32,7 +32,7 @@ A partir daqui, a aula apresenta ferramentas que usam os modelos das cinco princ
 
 **Jasper** é apresentado como a ferramenta mais poderosa para quem trabalha com campanhas de marketing e tem condição de investir. O diferencial é a lógica de derivação: você escreve a big idea de uma campanha, define o público e os parâmetros principais, e o Jasper deriva isso em e-mail, legenda do Instagram, mensagem de WhatsApp, SMS e outros formatos automaticamente. Estudos de caso da empresa apontam redução de 50% no tempo de produção em grandes empresas. O custo é de pelo menos 59 dólares por mês por pessoa, o que o torna mais adequado para equipes do que para quem trabalha sozinho.
 
-**Copy.ai** segue uma lógica parecida com o Jasper, mas com uma proposta mais acessível. Oferece templates para e-mail marketing, cold mail, legendas de Instagram, reescrita de parágrafos e descrição de produtos. O professor faz uma ressalva importante: ferramentas que entregam muitos templates podem se tornar uma muleta. Quem se acostuma a depender deles tende a produzir textos que parecem iguais aos de todo mundo. Para quem está em processo de aprendizado, vale cuidado.
+**Copy.ai** segue uma lógica parecida com o Jasper, mas com uma proposta mais acessível. Oferece templates para e-mail marketing, cold mail, legendas de Instagram, reescrita de parágrafos e descrição de produtos. Ruan faz uma ressalva importante: ferramentas que entregam muitos templates podem se tornar uma muleta. Quem se acostuma a depender deles tende a produzir textos que parecem iguais aos de todo mundo. Para quem está em processo de aprendizado, vale cuidado.
 
 **Grammarly** existe antes do boom de IA generativa e evoluiu para incluir recursos de escrita assistida por IA: artigos, brainstorming, reescrita de parágrafos, formatação e sugestões de estilo. É uma ferramenta que já vinha sendo usada principalmente para gramática e tradução e hoje soma geração de texto à proposta original.
 
@@ -40,7 +40,7 @@ A partir daqui, a aula apresenta ferramentas que usam os modelos das cinco princ
 
 ## Ferramentas para escritores
 
-**SudoWrite** é apresentado como a ferramenta mais diferente da lista, e a que mais surpreendeu o professor quando a mapeou. A proposta não é campanha, é a arte da escrita. O SudoWrite organiza capítulos, mantém bibliotecas de referências e citações, ajuda a controlar o ritmo do texto, acelerando ou desacelerando conforme necessário, e colabora com o escritor em tempo real enquanto o texto é construído. Para quem quer escrever um livro, um artigo longo ou qualquer obra com estrutura complexa, é uma ferramenta que muda o fluxo de trabalho.
+**SudoWrite** é apresentado como a ferramenta mais diferente da lista, e a que mais surpreendeu Ruan quando a mapeou. A proposta não é campanha, é a arte da escrita. O SudoWrite organiza capítulos, mantém bibliotecas de referências e citações, ajuda a controlar o ritmo do texto, acelerando ou desacelerando conforme necessário, e colabora com o escritor em tempo real enquanto o texto é construído. Para quem quer escrever um livro, um artigo longo ou qualquer obra com estrutura complexa, é uma ferramenta que muda o fluxo de trabalho.
 
 **Novel Crafter** tem uma proposta similar ao SudoWrite, com algumas diferenças de interface e estrutura. Inclui recursos como character sheets, fichas detalhadas de personagens salvas para consulta durante a escrita, timeline e organização por capítulos. Tem uma área de planejamento, escrita, chat com a IA e revisão, tudo dentro da mesma plataforma. É especialmente indicado para quem trabalha com narrativas longas e personagens recorrentes.
 
@@ -52,7 +52,7 @@ A partir daqui, a aula apresenta ferramentas que usam os modelos das cinco princ
 
 ## A ferramenta mais usada na Overlens: Google Docs
 
-Depois de apresentar todas as ferramentas anteriores, o professor revela qual ele usa mais no dia a dia: Google Docs. A ferramenta é gratuita, integrada ao ecossistema Google, Google Drive, Gemini como assistente lateral, e permite colaboração em tempo real com equipes. O professor usa o Google Docs para todos os processos internos da Overlens, documentações e materiais de escrita. O índice lateral do Google Docs, que organiza a estrutura do documento por seções, foi o recurso que o fez adotar a ferramenta como principal. A configuração que ele usa: modo sem páginas, definindo o documento como de 100 páginas para ter uma tela contínua de escrita.
+Depois de apresentar todas as ferramentas anteriores, Ruan revela qual ele usa mais no dia a dia: Google Docs. A ferramenta é gratuita, integrada ao ecossistema Google, Google Drive, Gemini como assistente lateral, e permite colaboração em tempo real com equipes. Ruan usa o Google Docs para todos os processos internos da Overlens, documentações e materiais de escrita. O índice lateral do Google Docs, que organiza a estrutura do documento por seções, foi o recurso que o fez adotar a ferramenta como principal. A configuração que ele usa: modo sem páginas, definindo o documento como de 100 páginas para ter uma tela contínua de escrita.
 
 ## Overchat: o diferencial da Overlens
 

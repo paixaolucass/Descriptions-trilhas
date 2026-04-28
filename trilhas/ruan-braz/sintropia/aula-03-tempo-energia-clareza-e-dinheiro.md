@@ -17,11 +17,11 @@ Ao final desta aula, você será capaz de:
 
 A aula apresenta quatro recursos que uma pessoa pode utilizar para viver a própria vida: tempo, energia, clareza e dinheiro. O primeiro e mais importante é o tempo, definido como o momento disponível para viver.
 
-O professor retoma o contrato com a objetividade. Crenças sobre destino, determinismo ou explicações não prováveis devem ser colocadas de lado durante o exercício. A trilha vai trabalhar com aquilo que pode ser observado, analisado e usado para construir um plano concreto.
+Ruan retoma o contrato com a objetividade. Crenças sobre destino, determinismo ou explicações não prováveis devem ser colocadas de lado durante o exercício. A trilha vai trabalhar com aquilo que pode ser observado, analisado e usado para construir um plano concreto.
 
 ## Tempo, existência e escolha
 
-O ponto de partida objetivo é que você existe. O professor usa a ideia de que, se você pensa, você existe, e coloca essa consciência dentro de tempo e espaço. Dentro da percepção humana, o tempo é vivido como linear: passado, presente e futuro.
+O ponto de partida objetivo é que você existe. Ruan usa a ideia de que, se você pensa, você existe, e coloca essa consciência dentro de tempo e espaço. Dentro da percepção humana, o tempo é vivido como linear: passado, presente e futuro.
 
 Esse tempo acaba. Por isso, ele é um recurso. Dentro dele, a pessoa pode fazer escolhas, principalmente sobre como reage ao que acontece. Ela não escolhe tudo, porque existem fatores externos, contextos e acontecimentos que influenciam a vida.
 
@@ -31,7 +31,7 @@ Mesmo assim, depois de nascer e ganhar consciência, a pessoa possui o direito d
 
 O segundo recurso é a energia, também descrita como saúde ou vitalidade. Existem pessoas que têm tempo, mas não têm energia, motivo ou motivação para agir. Sem energia, a ação não acontece.
 
-O professor diferencia baixa energia de uma leitura simplista de preguiça. A falta de ação pode vir de cansaço, renúncia, desgaste e vários fatores internos ou externos. Energia é um recurso que pode ser conquistado, perdido, drenado e recuperado.
+Ruan diferencia baixa energia de uma leitura simplista de preguiça. A falta de ação pode vir de cansaço, renúncia, desgaste e vários fatores internos ou externos. Energia é um recurso que pode ser conquistado, perdido, drenado e recuperado.
 
 Mapear tempo e energia é mapear dois recursos básicos que permitem fazer algo com a própria vida. Eles não resolvem tudo sozinhos, mas criam a condição inicial para agir.
 
@@ -51,7 +51,7 @@ O dinheiro ajuda a construir de modo prático aquilo em que a pessoa acredita, m
 
 ## A lógica sistêmica do dinheiro
 
-O professor demonstra dinheiro como um sistema com input, output e storage. O input é a entrada de dinheiro, o output é a saída, e o storage é o armazenamento, como uma conta bancária ou estoque financeiro.
+Ruan demonstra dinheiro como um sistema com input, output e storage. O input é a entrada de dinheiro, o output é a saída, e o storage é o armazenamento, como uma conta bancária ou estoque financeiro.
 
 Se entra mais dinheiro do que sai, o armazenamento sobe. Se sai mais do que entra, ele desce. Se entra a mesma quantidade que sai, a tendência ainda não é estabilidade absoluta, porque inflação e entropia fazem o estoque perder valor. A estabilidade, nesse raciocínio, não existe.
 

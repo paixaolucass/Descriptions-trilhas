@@ -33,7 +33,7 @@ Outro exemplo é o protocolo de documentação. Desde o início, o designer comb
 
 ## Projeto não é apenas briefing
 
-O professor diferencia uma metodologia séria de um processo superficial baseado apenas em questionário. A identidade de marca não deve ser tratada como uma ficha de personagem em que o designer coleta respostas, interpreta de forma solta e depois aparece com um resultado decorativo.
+Ruan diferencia uma metodologia séria de um processo superficial baseado apenas em questionário. A identidade de marca não deve ser tratada como uma ficha de personagem em que o designer coleta respostas, interpreta de forma solta e depois aparece com um resultado decorativo.
 
 Um projeto costuma durar pelo menos um mês, podendo passar por 30 ou 45 dias quando não é muito extenso. O tempo varia conforme a natureza do trabalho, o tamanho da empresa, o escopo contratado e a quantidade de decisões envolvidas.
 
@@ -79,9 +79,9 @@ Nesta etapa, o designer ainda não está criando peças visuais. O trabalho é r
 
 ## Identidade verbal antes da visual
 
-A identidade verbal aparece antes da identidade visual porque, nos fundamentos apresentados pelo professor, todos os fundamentos são subordinados à mensagem. Primeiro a marca constrói o que precisa dizer, depois traduz essa mensagem visualmente.
+A identidade verbal aparece antes da identidade visual porque, nos fundamentos apresentados por Ruan, todos os fundamentos são subordinados à mensagem. Primeiro a marca constrói o que precisa dizer, depois traduz essa mensagem visualmente.
 
-O professor reconhece que muitos designers sentem receio dessa etapa por acharem que não escrevem bem ou que não fazem identidade verbal. A proposta, porém, é mostrar que organizar a mensagem facilita a criação e torna os projetos mais envolventes e impactantes.
+Ruan reconhece que muitos designers sentem receio dessa etapa por acharem que não escrevem bem ou que não fazem identidade verbal. A proposta, porém, é mostrar que organizar a mensagem facilita a criação e torna os projetos mais envolventes e impactantes.
 
 Nesta etapa, o aluno aprende a criar roteiro de marca, manifesto, território de palavras, slogan, proposta de valor e promessas para os consumidores. Também aprende arquitetura de nomes, especialmente útil em empresas com muitos produtos.
 
@@ -105,7 +105,7 @@ Depois que a identidade visual é aprovada, a metodologia avança para os pontos
 
 Se a estratégia indica que a empresa precisa de um site, o site pode se tornar um ponto de contato a ser desenvolvido. Quando esse item não estava no escopo inicial, o designer pode orientar o cliente e transformar essa necessidade em um novo contrato.
 
-O professor conecta isso ao LTV, ou Lifetime Value, que representa o valor de vida útil do cliente. Um mesmo cliente pode contratar um projeto inicial e depois novos serviços, aumentando resultado para ele e faturamento para o designer.
+Ruan conecta isso ao LTV, ou Lifetime Value, que representa o valor de vida útil do cliente. Um mesmo cliente pode contratar um projeto inicial e depois novos serviços, aumentando resultado para ele e faturamento para o designer.
 
 Entre os pontos de contato citados estão redes sociais, site e papelaria. A papelaria já aparece na metodologia básica, mas aqui é retomada com foco nos tokens primários e secundários, mantendo a coerência do sistema.
 
@@ -115,7 +115,7 @@ O lançamento depende da natureza do projeto. Marcas novas podem precisar chegar
 
 A entrega envolve pós-venda, treinamento de equipe, construção de processo de produção, design, brand system e novos pontos de contato. O objetivo é fazer com que a marca consiga usar o sistema criado e que o designer identifique novas possibilidades de trabalho.
 
-O professor reforça que o escopo da metodologia avançada é mais extenso e contém muitos tópicos. A aula oferece uma visão geral para reduzir a ansiedade de pular etapas e mostrar o que existe dentro do método.
+Ruan reforça que o escopo da metodologia avançada é mais extenso e contém muitos tópicos. A aula oferece uma visão geral para reduzir a ansiedade de pular etapas e mostrar o que existe dentro do método.
 
 O encerramento orienta o aluno a não se apressar. A recomendação é focar em colocar em prática, unindo teoria e prática para evoluir com consistência antes de avançar para camadas mais complexas.
 

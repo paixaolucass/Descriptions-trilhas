@@ -48,7 +48,7 @@ A seção de universo visual do briefing registra os elementos visuais que carac
 
 O sujeito utiliza muito preto. Tem estilo minimalista. Usa boné preto e camisa preta na maior parte do tempo. Com frequência aparece com uma estante cheia de livros no fundo do cenário. Esses são os signos visuais já estabelecidos e que a IA precisa preservar e ampliar.
 
-O professor menciona que não vai aprofundar o painel semântico nesse momento do briefing, deixando essa camada para a etapa seguinte. Mas registra que outros signos serão derivados a partir desse material.
+Ruan menciona que não vai aprofundar o painel semântico nesse momento do briefing, deixando essa camada para a etapa seguinte. Mas registra que outros signos serão derivados a partir desse material.
 
 ## Percepção desejada: o coração do briefing fotográfico
 
@@ -96,13 +96,13 @@ O Gemini gera um resumo semiótico ao final: a união desses elementos cria uma 
 
 ## Inserindo a análise no documento e organizando por autoria
 
-Um procedimento prático importante demonstrado na aula é a organização do documento por autoria. O professor gosta de escrever "Análise do Gemini" como título de seção antes de inserir o texto gerado pela IA, usando formatação diferente (título 2) para distinguir o que foi escrito pela pessoa do que foi gerado pela IA. Isso permite rastrear facilmente o que é de cada origem e manter clareza sobre quais partes do briefing foram criadas e quais foram enriquecidas.
+Um procedimento prático importante demonstrado na aula é a organização do documento por autoria. Ruan gosta de escrever "Análise do Gemini" como título de seção antes de inserir o texto gerado pela IA, usando formatação diferente (título 2) para distinguir o que foi escrito pela pessoa do que foi gerado pela IA. Isso permite rastrear facilmente o que é de cada origem e manter clareza sobre quais partes do briefing foram criadas e quais foram enriquecidas.
 
 ## Construindo o painel semântico em formato de tabela
 
 Com a análise do Gemini inserida no documento, o próximo passo é construir o painel semântico. O painel semântico é um painel de signos. O prompt enviado ao Gemini para essa etapa é direto: "Com base nas informações que temos aqui, construa um painel semântico em formato de tabela."
 
-O Gemini gera o painel com o seguinte conceito central: "Autoridade intelectualmente fundamentada e humanamente acessível." O professor considera o nome um pouco genérico, mas reconhece que captura a direção correta.
+O Gemini gera o painel com o seguinte conceito central: "Autoridade intelectualmente fundamentada e humanamente acessível." Ruan considera o nome um pouco genérico, mas reconhece que captura a direção correta.
 
 O painel semântico em formato de tabela organiza as seguintes dimensões:
 
@@ -124,13 +124,13 @@ O painel conclui que deve ser montado com imagens que equilibrem o visual dark m
 
 ## Por que esse processo importa mais do que o botão
 
-Em vários momentos da aula, o professor reforça que o mais importante aqui não é clicar no botão na ferramenta de geração: é o processo. Quem vai direto ao Freepik ou a qualquer outra ferramenta e clica no botão sem esse processo está desperdiçando o potencial da tecnologia. O poder da IA na fotografia não está na ferramenta: está no repertório e no processo que orienta o uso da ferramenta.
+Em vários momentos da aula, Ruan reforça que o mais importante aqui não é clicar no botão na ferramenta de geração: é o processo. Quem vai direto ao Freepik ou a qualquer outra ferramenta e clica no botão sem esse processo está desperdiçando o potencial da tecnologia. O poder da IA na fotografia não está na ferramenta: está no repertório e no processo que orienta o uso da ferramenta.
 
 Esse conjunto de análise semiótica, painel de signos e vocabulário fotográfico é o que diferencia imagens genéricas de imagens que comunicam com precisão. É a aplicação prática de conceitos de semiótica, retórica e design que o aluno vai encontrar nas trilhas SINOS, Verbário e Guidelines da plataforma, mas aqui aplicados diretamente à construção de fotografia com IA.
 
 ## Território de palavras: o último componente do briefing
 
-A última seção do briefing construído na aula é o território de palavras, também chamado de palavras-chave. O professor explica por que isso é importante mesmo que o objetivo não seja trabalhar identidade verbal: esse território de palavras vai servir como base para construir o moodboard na etapa seguinte. As palavras alimentam as buscas de referência visual, que por sua vez alimentam os prompts.
+A última seção do briefing construído na aula é o território de palavras, também chamado de palavras-chave. Ruan explica por que isso é importante mesmo que o objetivo não seja trabalhar identidade verbal: esse território de palavras vai servir como base para construir o moodboard na etapa seguinte. As palavras alimentam as buscas de referência visual, que por sua vez alimentam os prompts.
 
 O prompt enviado ao Gemini para essa seção é:
 
@@ -146,11 +146,11 @@ Ambiente: estúdio minimalista, fundo neutro cinza, estante de livros, escritór
 
 Vestimenta: termos específicos que descrevem a estética casual intelectual sem ostentação.
 
-A lista foi gerada em português e parte em inglês, o que é relevante porque muitos termos fotográficos são usados em inglês nos prompts das ferramentas de geração. O professor menciona que esses termos de iluminação e estilo foram abordados em curso específico sobre como utilizá-los para gerar imagens com IA.
+A lista foi gerada em português e parte em inglês, o que é relevante porque muitos termos fotográficos são usados em inglês nos prompts das ferramentas de geração. Ruan menciona que esses termos de iluminação e estilo foram abordados em curso específico sobre como utilizá-los para gerar imagens com IA.
 
 ## O resultado do processo: controle e contexto
 
-Ao final da etapa de montagem do briefing, o professor faz uma observação crucial: o que foi criado não é simplesmente um prompt. É um documento que organiza o projeto. Isso muda completamente a natureza do trabalho com IA.
+Ao final da etapa de montagem do briefing, Ruan faz uma observação crucial: o que foi criado não é simplesmente um prompt. É um documento que organiza o projeto. Isso muda completamente a natureza do trabalho com IA.
 
 Em vez de simplesmente mandar um prompt e pedir para a IA gerar em cima, há agora um documento rico que organiza objetivo, posicionamento, personalidade, universo visual, percepção desejada, análise semiótica estruturada por etos/patos/logos, painel semântico em tabela, e território de palavras-chave fotográficas. Cada elemento tem origem em uma decisão estratégica. Cada palavra no futuro prompt terá contexto e intenção por trás.
 

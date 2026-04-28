@@ -21,7 +21,7 @@ Algumas imagens moldam o entendimento, o comportamento e a memória. Outras pass
 
 Dentro da semiótica, existe o conceito de que cada tipo de imagem serve a um propósito específico. Não basta a imagem ser bonita: ela precisa mexer com as pessoas, falar com o que está dentro delas, de forma consciente e inconsciente. Aí entra o poder da semiótica. E dentro da semiótica também entram os tipos de imagem. As imagens que servem para cada contexto.
 
-Esta aula apresenta os seis tipos principais de imagem, com suas funções, fontes características, implicações éticas de uso e possibilidades de geração com IA. O material foi preparado pela equipe da Overlens e apresentado ao vivo pelo professor, que reagiu ao roteiro, concordou, discordou e acrescentou pontos relevantes em cada seção.
+Esta aula apresenta os seis tipos principais de imagem, com suas funções, fontes características, implicações éticas de uso e possibilidades de geração com IA. O material foi preparado pela equipe da Overlens e apresentado ao vivo por Ruan, que reagiu ao roteiro, concordou, discordou e acrescentou pontos relevantes em cada seção.
 
 ## Os Seis Tipos de Imagem
 
@@ -85,7 +85,7 @@ Na geração com IA, dominar o tipo simbólico é fundamental para criar imagens
 
 A imagem inspiradora não informa, não instrui e não vende diretamente. Ela evoca. Desperta emoção, provoca imaginação, abre portas para um futuro desejável ou para um mundo alternativo. O exemplo trazido durante a aula foi o personagem "Cabeça Quadrada", criado pela Thaís Teófilo, artista e designer da equipe Overlens. Um personagem assinado por ela, criado com sua identidade, que serve como exemplo de concept art e imagem inspiradora.
 
-A ideia aqui é estruturar, variar e testar possibilidades. Você pode construir imagens inspiradoras à mão - o professor menciona que o desenho é um excelente exercício de organização mental e que aulas de desenho para designers fazem muita diferença. E você também pode usar a IA para criar derivações de um desenho inicial, expandindo as possibilidades do concept a partir de um ponto de origem que você mesmo criou.
+A ideia aqui é estruturar, variar e testar possibilidades. Você pode construir imagens inspiradoras à mão - Ruan menciona que o desenho é um excelente exercício de organização mental e que aulas de desenho para designers fazem muita diferença. E você também pode usar a IA para criar derivações de um desenho inicial, expandindo as possibilidades do concept a partir de um ponto de origem que você mesmo criou.
 
 Na geração com IA, o tipo inspirador é especialmente interessante para world building, para criação de universos de marca, para narrativas especulativas. A equipe da Overlens faz muitos testes de imagem inspiradora, explorando ficção científica, retrofuturismo e estilos inusitados que ativam partes do cérebro diferentes das imagens convencionais.
 
@@ -97,27 +97,27 @@ Na geração com IA, o tipo inspirador é especialmente interessante para world 
 
 A imagem projetiva tem duas vertentes: a visional (explorar futuros possíveis) e a técnica (transmitir o máximo de informação com precisão). A trilha de Gestalt da Overlens inclui aulas de geometria descritiva onde são explicadas essas imagens técnicas utilizadas em arquitetura, design de produto e engenharia.
 
-O professor compartilhou uma memória relevante: quando estava na faculdade de design, fazia desenho técnico à mão. Ficou acordado até as 4 da manhã fazendo um projeto de desenho técnico, dormiu menos de 2 horas, e ainda assim tirou zero, porque o grafite borrou em alguns pontos, algumas linhas não se encontravam perfeitamente, e os círculos não eram matematicamente precisos. O professor era exigente - e por isso formava bons alunos.
+Ruan compartilhou uma memória relevante: quando estava na faculdade de design, fazia desenho técnico à mão. Ficou acordado até as 4 da manhã fazendo um projeto de desenho técnico, dormiu menos de 2 horas, e ainda assim tirou zero, porque o grafite borrou em alguns pontos, algumas linhas não se encontravam perfeitamente, e os círculos não eram matematicamente precisos. Ruan era exigente - e por isso formava bons alunos.
 
 Esse sofrimento agora não existe mais para quem usa IA. O avanço foi primeiro do desenho técnico à mão para o computador, e agora o computador está sendo auxiliado ou substituído pela IA em muitos contextos de prototipagem. Arquitetura, design de ambientes, design de produto e engenharia já usam muito IA para imagens projetivas.
 
 #### Demonstração Prática: da Imagem Técnica ao Render 3D
 
-Durante a aula, o professor demonstrou ao vivo uma das possibilidades mais impactantes da imagem projetiva com IA. Ele pegou uma imagem de um desenho técnico de uma peça, carregou no Gemini com o modelo Nanobanana Pro ativado, e deu o prompt: "Preciso que você gere um render 3D representando essa peça."
+Durante a aula, Ruan demonstrou ao vivo uma das possibilidades mais impactantes da imagem projetiva com IA. Ele pegou uma imagem de um desenho técnico de uma peça, carregou no Gemini com o modelo Nanobanana Pro ativado, e deu o prompt: "Preciso que você gere um render 3D representando essa peça."
 
 O resultado foi um render 3D a partir de um desenho técnico bidimensional. O modelo analisou a imagem, interpretou a estrutura da peça e gerou uma representação tridimensional. O resultado não era perfeito - algumas proporções e detalhes precisariam de revisão por alguém que domina a peça -, mas a base estava correta e surpreendentemente próxima do esperado.
 
-O mesmo exercício foi feito com uma planta arquitetônica. O professor buscou uma planta de uma marquise, carregou no Gemini e deu o prompt: "Gere um render realista representando a fachada dessa casa posicionada na Vila da Serra, BH/Nova Lima."
+O mesmo exercício foi feito com uma planta arquitetônica. Ruan buscou uma planta de uma marquise, carregou no Gemini e deu o prompt: "Gere um render realista representando a fachada dessa casa posicionada na Vila da Serra, BH/Nova Lima."
 
-O resultado incluiu a garagem, uma área com mesinhas do lado de fora (interpretação da área marcada na planta como varanda ou terraço), a casa, a piscina, e ao fundo as montanhas características da região indicada no prompt. A leitura do bairro Vila da Serra ajudou o modelo a contextualizar a paisagem. O professor comparou a planta com o render gerado e identificou os elementos: garagem presente, mesinha do lado de fora (o modelo não fechou a cobertura, mas interpretou o espaço como área externa), a distribuição espacial coerente com a planta.
+O resultado incluiu a garagem, uma área com mesinhas do lado de fora (interpretação da área marcada na planta como varanda ou terraço), a casa, a piscina, e ao fundo as montanhas características da região indicada no prompt. A leitura do bairro Vila da Serra ajudou o modelo a contextualizar a paisagem. Ruan comparou a planta com o render gerado e identificou os elementos: garagem presente, mesinha do lado de fora (o modelo não fechou a cobertura, mas interpretou o espaço como área externa), a distribuição espacial coerente com a planta.
 
-A conclusão do professor foi direta: "Fala pra galera de arquitetura que isso aqui não é game changer. Fala que isso não muda o trabalho de arquitetura." A afirmação é irônica: claro que muda. Quem ainda não está usando IA para esse tipo de trabalho está ficando para trás.
+A conclusão de Ruan foi direta: "Fala pra galera de arquitetura que isso aqui não é game changer. Fala que isso não muda o trabalho de arquitetura." A afirmação é irônica: claro que muda. Quem ainda não está usando IA para esse tipo de trabalho está ficando para trás.
 
 A ressalva importante: quanto mais precisão a imagem projetiva precisa ter, mais revisão humana é necessária. Não dá para simplesmente confiar no resultado da IA sem verificação, especialmente em contextos onde erros técnicos têm consequências reais (engenharia estrutural, por exemplo). A IA serve como acelerador do processo criativo e de prototipagem, não como substituta do juízo técnico especializado.
 
 ## A Equipe da Overlens: Testes por Tipo de Imagem
 
-Durante a aula, o professor abriu o Mid-Journey da equipe, onde a Thaís Teófilo gerou a maior parte das imagens ao longo de um ano de exploração intensa. A Thaís entrou para a equipe em março de 2025, começando do zero na IA, e se tornou referência interna por ter tido espaço para fazer exploração durante meses seguidos. O resultado disso foi um repertório rico e uma variedade enorme de testes.
+Durante a aula, Ruan abriu o Mid-Journey da equipe, onde a Thaís Teófilo gerou a maior parte das imagens ao longo de um ano de exploração intensa. A Thaís entrou para a equipe em março de 2025, começando do zero na IA, e se tornou referência interna por ter tido espaço para fazer exploração durante meses seguidos. O resultado disso foi um repertório rico e uma variedade enorme de testes.
 
 Os tipos de imagem testados incluem:
 
@@ -131,7 +131,7 @@ Os tipos de imagem testados incluem:
 
 **Testes de ângulo:** A equipe manteve a mesma luz e variou sistematicamente os ângulos, isolando a variável para descobrir quais palavras-chave guiam a IA em qual direção. Essa abordagem científica - isolar uma variável por vez e testar - é o método de trabalho da equipe para construir um dicionário de prompts eficazes.
 
-**Testes de estilo:** Retrofuturismo, miniaturas, ficção científica, estilos inusitados, concept art. O professor mencionou gostar especialmente do estilo retrofuturista, e trouxe imagens que lembravam o universo visual do jogo Ark Riders.
+**Testes de estilo:** Retrofuturismo, miniaturas, ficção científica, estilos inusitados, concept art. Ruan mencionou gostar especialmente do estilo retrofuturista, e trouxe imagens que lembravam o universo visual do jogo Ark Riders.
 
 **World building:** A meta final - não apenas gerar imagens isoladas, mas criar universos coerentes, com lógica interna, que podem ser narrativas de marca ou universos ficcionais completos. A equipe já está trabalhando no universo visual da Overlens.
 
@@ -177,7 +177,7 @@ Esse nível de jogo exige repertório: saber o que cada tipo de imagem faz, reco
 
 Uma ressalva fundamental ao trabalhar com imagens projetivas e técnicas geradas por IA: quanto mais precisão a imagem precisa ter, mais revisão humana é necessária. Não dá para simplesmente confiar no resultado da IA sem verificação quando o erro tem consequências reais.
 
-Na demonstração com a peça técnica, o resultado foi próximo do correto, mas alguém que domina bem a peça poderia identificar discrepâncias. O professor reconheceu isso: "É claro que alguém que domina aquela peça ali vai olhar para isso aqui e vai falar, cara, está errado." Mas também apontou o contra-argumento: "Bem provável que não esteja tão errado assim, porque aí a IA interpreta bem a peça."
+Na demonstração com a peça técnica, o resultado foi próximo do correto, mas alguém que domina bem a peça poderia identificar discrepâncias. Ruan reconheceu isso: "É claro que alguém que domina aquela peça ali vai olhar para isso aqui e vai falar, cara, está errado." Mas também apontou o contra-argumento: "Bem provável que não esteja tão errado assim, porque aí a IA interpreta bem a peça."
 
 O princípio geral: use a IA para acelerar a geração de opções, rascunhos e prototipagens. Use o conhecimento especializado para revisar, corrigir e validar. O tempo economizado na geração mais do que compensa o tempo investido na revisão - e o profissional que domina os dois lados (direção da IA + revisão técnica) tem uma vantagem competitiva clara.
 
@@ -199,13 +199,13 @@ Nem todo modelo de IA é igualmente bom para todos os tipos de imagem. A escolha
 
 ## O Trabalho da Thaís Teófilo: Um Ano de Exploração
 
-O acervo de imagens que o professor mostrou ao longo da aula foi gerado principalmente pela Thaís Teófilo, que entrou na equipe Overlens em março de 2025. Ela entrou começando do zero na IA - já era aluna da Overlens, já sabia de design, mas a prática com ferramentas de IA era nova. O que fez a diferença foi o espaço de exploração que a empresa deu: um ano inteiro de geração sistemática, testando estilos, ângulos, ferramentas e abordagens.
+O acervo de imagens que Ruan mostrou ao longo da aula foi gerado principalmente pela Thaís Teófilo, que entrou na equipe Overlens em março de 2025. Ela entrou começando do zero na IA - já era aluna da Overlens, já sabia de design, mas a prática com ferramentas de IA era nova. O que fez a diferença foi o espaço de exploração que a empresa deu: um ano inteiro de geração sistemática, testando estilos, ângulos, ferramentas e abordagens.
 
 O trabalho de arte da Thaís vai além da Overlens: ela tem trabalho exposto em países da Europa e, no momento da gravação, estava com uma exposição no Japão. A menção à artista não é apenas contextual; é um ponto sobre como o repertório artístico prévio potencializa o uso de IA. Uma artista e designer que começa a usar IA não parte do zero - ela traz para a ferramenta anos de percepção visual desenvolvida, referências estéticas profundas, e capacidade de julgamento que nenhuma IA substitui.
 
 O acervo que ela construiu inclui: concept art de personagens (o Cabeça Quadrada é um exemplo de imagem inspiradora criada por ela), testes de estilo retrofuturista, composições minimalistas, posters cinematográficos, imagens para storytelling de ficção científica, e experimentos com estranheza que ativam partes do cérebro diferentes das imagens convencionais.
 
-Uma das imagens mostradas foi um conjunto de posters com atores famosos em diferentes estilos cinematográficos - incluindo uma versão "Interestelar" em um estilo que o professor não conseguiu nominar no momento, mas que era claramente reconhecível. A capacidade das IAs de recriar rostos de pessoas muito fotografadas e testadas nos modelos é praticamente ilimitada - elas "fazem sem pestanejar", nas palavras do professor.
+Uma das imagens mostradas foi um conjunto de posters com atores famosos em diferentes estilos cinematográficos - incluindo uma versão "Interestelar" em um estilo que Ruan não conseguiu nominar no momento, mas que era claramente reconhecível. A capacidade das IAs de recriar rostos de pessoas muito fotografadas e testadas nos modelos é praticamente ilimitada - elas "fazem sem pestanejar", nas palavras de Ruan.
 
 Outro destaque: prompts aparentemente simples produzindo imagens de alta qualidade. Em alguns casos, o prompt era pequeno, mas o resultado era surpreendente. Isso acontece porque a técnica de seeds (valores de geração fixos que reproduzem o resultado) e a precisão dos parâmetros de estilo fazem muito mais trabalho do que a quantidade de texto do prompt.
 
@@ -219,7 +219,7 @@ Essa preocupação não é teórica: é uma consequência direta do poder atual 
 
 ## O Argumento Final: Imagens Densas vs. Imagens Ocas
 
-O professor encerrou essa parte da aula com uma distinção fundamental. Em um mundo onde qualquer pessoa pode clicar em um botão e gerar imagens hiperrealistas, 3D, com luz perfeita, com tudo lindo, o que vai diferenciar o trabalho de qualidade do trabalho genérico?
+Ruan encerrou essa parte da aula com uma distinção fundamental. Em um mundo onde qualquer pessoa pode clicar em um botão e gerar imagens hiperrealistas, 3D, com luz perfeita, com tudo lindo, o que vai diferenciar o trabalho de qualidade do trabalho genérico?
 
 O volume de imagens geradas vai explodir. Imagens bonitas, com boa estética, com qualidade técnica, vão se tornar commodity. O que não vai se tornar commodity é o signo. O que vai separar imagens que prendem das imagens que passam despercebidas é a densidade do que está dentro delas.
 

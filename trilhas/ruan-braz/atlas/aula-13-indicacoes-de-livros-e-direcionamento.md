@@ -17,7 +17,7 @@ Ao final desta aula, você será capaz de:
 
 ## Por que o site simples foi a escolha certa
 
-Ao retomar a aula depois de entregar um site de uma página para validação, o professor confronta diretamente a resistência de parte da turma. Muitos esperavam ver um site elaborado, com design conceitual sofisticado, vídeos, múltiplas seções, uma presença digital impressionante. O que foi entregue foi uma página simples, objetiva, funcional.
+Ao retomar a aula depois de entregar um site de uma página para validação, Ruan confronta diretamente a resistência de parte da turma. Muitos esperavam ver um site elaborado, com design conceitual sofisticado, vídeos, múltiplas seções, uma presença digital impressionante. O que foi entregue foi uma página simples, objetiva, funcional.
 
 A defesa dessa escolha não é baseada em preferência pessoal. É baseada em metodologia. A estratégia mais eficiente de construção de negócio no mundo hoje tem um nome, tem autores, tem décadas de aplicação documentada. Ela se chama Lean.
 
@@ -71,7 +71,7 @@ Construir rápido não significa construir mal. Significa construir o mínimo ne
 
 ## Os livros que mudaram o mercado de negócios
 
-O professor apresenta uma lista de referências que todo profissional que quer construir um negócio sólido deveria estudar. São obras que não apenas descrevem o mundo dos negócios, mas que contribuíram ativamente para moldá-lo.
+Ruan apresenta uma lista de referências que todo profissional que quer construir um negócio sólido deveria estudar. São obras que não apenas descrevem o mundo dos negócios, mas que contribuíram ativamente para moldá-lo.
 
 **Lean Startup** (Eric Ries, 2011): A obra que popularizou a abordagem de construção enxuta de negócios. Apresentou ao mercado o ciclo Build-Measure-Learn e o conceito de MVP (Produto Mínimo Viável). É uma leitura fundamental para qualquer pessoa que quer validar uma ideia antes de investir recursos significativos nela.
 
@@ -81,9 +81,9 @@ O professor apresenta uma lista de referências que todo profissional que quer c
 
 **Antifrágil** (Nassim Taleb): Apresenta o conceito de antifragilidade como a propriedade de sistemas que crescem com o caos. Aplicado a negócios, o antifrágil não só sobrevive às mudanças do mercado: usa essas mudanças como combustível para evoluir mais rápido do que os concorrentes.
 
-## A história pessoal do professor e o que ela ensina
+## A história pessoal de Ruan e o que ela ensina
 
-O professor compartilha sua própria trajetória para ilustrar o custo do perfeccionismo com dados concretos. Quatro meses para chegar no nome Overlens. Seis meses para chegar no símbolo. Mais seis meses no primeiro site. Mais dois anos construindo a plataforma própria.
+Ruan compartilha sua própria trajetória para ilustrar o custo do perfeccionismo com dados concretos. Quatro meses para chegar no nome Overlens. Seis meses para chegar no símbolo. Mais seis meses no primeiro site. Mais dois anos construindo a plataforma própria.
 
 No total, foram quatro anos investindo energia em construir algo antes de ter validado o modelo de negócio de forma consistente. O que o salvou foi a capacidade de gerar renda paralela enquanto construía, o que lhe deu tempo para aprender na prática sem quebrar financeiramente. Mas ele reconhece que foi sorte relativa: a maioria das pessoas não tem essa margem. Quem segue o método errado por anos acaba tendo que desistir, não porque a ideia era inviável, mas porque os recursos se esgotam antes da aprendizagem chegar.
 
@@ -93,9 +93,9 @@ Quando ele aplicou o método correto, o resultado mudou completamente. Não porq
 
 A aula termina com uma analogia do filme Karatê Kid. O Sr. Miyagi, mestre de karatê, coloca o aluno Daniel San para pintar a cerca durante semanas. Daniel San fica frustrado: ele quer aprender karatê, não pintar cerca. O que ele não percebe é que pintar a cerca está ensinando os fundamentos de movimento do karatê de forma embutida na prática.
 
-A metodologia ensinada no Atlas segue a mesma lógica. Antes de mostrar como construir sites elaborados, sistemas de automação sofisticados ou plataformas completas, o professor ensina validação. Porque sem validação, tudo o que vem depois é construído sobre incerteza. E em um mundo VUCA, construir sobre incerteza é o caminho mais rápido para desperdiçar tempo e energia.
+A metodologia ensinada no Atlas segue a mesma lógica. Antes de mostrar como construir sites elaborados, sistemas de automação sofisticados ou plataformas completas, Ruan ensina validação. Porque sem validação, tudo o que vem depois é construído sobre incerteza. E em um mundo VUCA, construir sobre incerteza é o caminho mais rápido para desperdiçar tempo e energia.
 
-O mercado está cheio de cursos que ensinam a fazer coisas impressionantes. Criar imagens com IA. Montar sites conceituais bonitos. Gerar vídeos que parecem profissionais. O professor chama isso de "prisão cor-de-rosa de dopamina": você fica fascinado com o que é possível fazer, compra mais cursos, aprende mais ferramentas, e nunca chega ao ponto de realmente construir e validar algo no mercado real.
+O mercado está cheio de cursos que ensinam a fazer coisas impressionantes. Criar imagens com IA. Montar sites conceituais bonitos. Gerar vídeos que parecem profissionais. Ruan chama isso de "prisão cor-de-rosa de dopamina": você fica fascinado com o que é possível fazer, compra mais cursos, aprende mais ferramentas, e nunca chega ao ponto de realmente construir e validar algo no mercado real.
 
 A proposta do Atlas é a inversa: ensinar os fundamentos que protegem para o futuro, mesmo que no curto prazo pareçam menos emocionantes do que as ferramentas e efeitos visuais que outros ensinam.
 

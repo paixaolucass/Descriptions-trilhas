@@ -16,7 +16,7 @@ Ao final desta aula, você será capaz de:
 
 Existe uma diferença fundamental entre revisar e editar. Revisar é corrigir o que está errado: gramática, ortografia, concordância. Editar é transformar o que está fraco: estrutura, clareza, estilo, ritmo. A maioria das pessoas chama de revisão o que deveria ser edição, e o texto sai tecnicamente correto mas ainda sem impacto.
 
-O processo de edição apresentado nesta aula não inventa um método novo. Ele sistematiza o que editores profissionais fazem há décadas, mas executa passo a passo com auxílio da IA. A frase do professor sintetiza o ponto: "Esse prompt só executa passo a passo o método."
+O processo de edição apresentado nesta aula não inventa um método novo. Ele sistematiza o que editores profissionais fazem há décadas, mas executa passo a passo com auxílio da IA. A frase de Ruan sintetiza o ponto: "Esse prompt só executa passo a passo o método."
 
 ## Camada 1: estrutura
 
@@ -28,7 +28,7 @@ Nessa camada, a pergunta não é "esse parágrafo está bem escrito?". A pergunt
 
 A segunda camada entra na frase. Aqui o critério é legibilidade: o leitor interpreta o que cada frase diz sem precisar reler? A ideia chega completa em uma leitura?
 
-O professor apresenta um exemplo de transformação nessa camada. A frase "Visando a otimização dos processos internos da organização para aumento de eficiência operacional" vira "Novas ferramentas não são luxo, são tração." A segunda não é apenas mais curta. Ela é mais direta, mais ativa e carrega mais força. Clareza não é simplicidade, é precisão.
+Ruan apresenta um exemplo de transformação nessa camada. A frase "Visando a otimização dos processos internos da organização para aumento de eficiência operacional" vira "Novas ferramentas não são luxo, são tração." A segunda não é apenas mais curta. Ela é mais direta, mais ativa e carrega mais força. Clareza não é simplicidade, é precisão.
 
 ## Camada 3: estilo
 

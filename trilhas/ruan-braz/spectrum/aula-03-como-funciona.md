@@ -14,15 +14,15 @@ Ao final desta aula, você será capaz de:
 
 ## A abordagem prática desta trilha
 
-O professor Ruan Braz deixa claro, desde o início desta aula, que não irá mergulhar na teoria profunda das inteligências artificiais. Outros cursos dentro da plataforma Overlens já cobrem o funcionamento das LLMs e dos modelos de difusão com profundidade, e quem é assinante pode acessá-los. Aqui, a direção é prática: o objetivo é que você aprenda a usar essas ferramentas com inteligência, sem depender de cursos indefinidamente.
+Ruan Ruan Braz deixa claro, desde o início desta aula, que não irá mergulhar na teoria profunda das inteligências artificiais. Outros cursos dentro da plataforma Overlens já cobrem o funcionamento das LLMs e dos modelos de difusão com profundidade, e quem é assinante pode acessá-los. Aqui, a direção é prática: o objetivo é que você aprenda a usar essas ferramentas com inteligência, sem depender de cursos indefinidamente.
 
-O material de acompanhamento desta aula foi elaborado pela Thais, colaboradora da Overlens, utilizando ela mesma inteligência artificial como parte do processo. O conteúdo foi gerado com base em todas as aulas, treinamentos e materiais que o professor já produziu sobre geração de imagens. Isso em si já demonstra a lógica da trilha: IA dentro de IA, processo dentro de processo.
+O material de acompanhamento desta aula foi elaborado pela Thais, colaboradora da Overlens, utilizando ela mesma inteligência artificial como parte do processo. O conteúdo foi gerado com base em todas as aulas, treinamentos e materiais que Ruan já produziu sobre geração de imagens. Isso em si já demonstra a lógica da trilha: IA dentro de IA, processo dentro de processo.
 
-A Overlens, segundo o professor, se diferencia de outras empresas por investir de forma concreta no desenvolvimento da própria equipe. Esse investimento não é apenas financeiro, mas também de tempo. A cultura interna envolve períodos inteiros de testes, validações e explorações conjuntas, funcionando como um laboratório vivo. É nesse contexto que o conhecimento desta trilha é produzido.
+A Overlens, segundo Ruan, se diferencia de outras empresas por investir de forma concreta no desenvolvimento da própria equipe. Esse investimento não é apenas financeiro, mas também de tempo. A cultura interna envolve períodos inteiros de testes, validações e explorações conjuntas, funcionando como um laboratório vivo. É nesse contexto que o conhecimento desta trilha é produzido.
 
 ## O mecanismo central: como a IA gera imagens
 
-A explicação do funcionamento da geração de imagens parte de uma lógica direta, descrita no material de acompanhamento: você escreve algo, a IA procura padrões que combinam com essa intenção e vai eliminando o ruído até que surja algo coerente com esses padrões. O professor aprofunda essa descrição com um exemplo visual concreto.
+A explicação do funcionamento da geração de imagens parte de uma lógica direta, descrita no material de acompanhamento: você escreve algo, a IA procura padrões que combinam com essa intenção e vai eliminando o ruído até que surja algo coerente com esses padrões. Ruan aprofunda essa descrição com um exemplo visual concreto.
 
 O processo de treinamento de um modelo de geração de imagens funciona de maneira inversa ao processo de geração em si. Para treinar a IA, você envia imagens para ela. Usando o exemplo de uma fotografia de gato: a IA recebe essa imagem e começa a remover pixels progressivamente, desestruturando a imagem até que ela se torne ruído puro, uma mistura sem forma reconhecível. Em seguida, ela precisa reconstruir essa imagem a partir do ruído. É um processo que lembra um jogo da memória: desconstruir e reconstruir, desconstruir e reconstruir, repetidamente.
 
@@ -34,27 +34,27 @@ Esse ciclo acontece não algumas vezes, mas trilhões de vezes, com milhões de 
 
 Após aprender a reconhecer os padrões visuais, a IA começa a conectar esses padrões a palavras. A palavra "gato" funciona como um rótulo que é associado ao padrão de pixels correspondente. É assim que a IA aprende a nomear o que vê e, inversamente, a gerar o que recebe como nome no prompt.
 
-Para a IA, todos esses padrões são representados como números. Cada pixel é um número com múltiplas dimensões. Esse número carrega três tipos de informação: a coordenada desse pixel dentro da imagem total, a relação desse pixel com os pixels vizinhos e os padrões que esse conjunto de pixels forma. Essa estrutura de dado é chamada de vetor. Um vetor é a distância de um ponto A a um ponto B, e dentro dessa distância você armazena múltiplas informações. Toda imagem, toda palavra e qualquer artefato digital carrega vetores que a IA utiliza para identificar e gerar padrões. O professor define esse conceito como o máximo que você precisa saber sobre como as imagens funcionam no nível técnico.
+Para a IA, todos esses padrões são representados como números. Cada pixel é um número com múltiplas dimensões. Esse número carrega três tipos de informação: a coordenada desse pixel dentro da imagem total, a relação desse pixel com os pixels vizinhos e os padrões que esse conjunto de pixels forma. Essa estrutura de dado é chamada de vetor. Um vetor é a distância de um ponto A a um ponto B, e dentro dessa distância você armazena múltiplas informações. Toda imagem, toda palavra e qualquer artefato digital carrega vetores que a IA utiliza para identificar e gerar padrões. Ruan define esse conceito como o máximo que você precisa saber sobre como as imagens funcionam no nível técnico.
 
 ## LLM versus modelo de difusão: a diferença fundamental
 
 A aula distingue dois tipos de modelo de IA que costumam ser confundidos. Os LLMs, Large Language Models (modelos grandes de linguagem), são os modelos usados para texto. ChatGPT, Claude e Gemini são exemplos de LLMs. Esses modelos funcionam de forma preditiva: você envia um prompt, o modelo analisa cada sílaba, cada palavra e o contexto de todas juntas, e estatisticamente devolve um output que é o mais provável dado o conjunto de informações recebidas.
 
-O autocomplete dos aplicativos de celular é descrito pelo professor como o "tataravô" das LLMs: já guardava palavras frequentes e sugeria completações a partir de duas letras digitadas. As LLMs fazem isso em uma escala completamente diferente, sugerindo textos inteiros baseados em bilhões e trilhões de parâmetros.
+O autocomplete dos aplicativos de celular é descrito por Ruan como o "tataravô" das LLMs: já guardava palavras frequentes e sugeria completações a partir de duas letras digitadas. As LLMs fazem isso em uma escala completamente diferente, sugerindo textos inteiros baseados em bilhões e trilhões de parâmetros.
 
 Os modelos de difusão, por outro lado, operam com uma lógica diferente e são os responsáveis pela geração de imagens. Enquanto as LLMs trabalham com previsão token a token em texto, os modelos de difusão partem do ruído e limpam esse ruído progressivamente até que a imagem coerente emerja, guiada pelo prompt fornecido. É exatamente o processo invertido do treinamento descrito anteriormente.
 
 ## A evolução do Mid Journey como linha do tempo da criação com IA
 
-O professor apresenta uma linha do tempo visual da evolução do Mid Journey para mostrar como a geração de imagens com IA passou de uma curiosidade quase bizarra para algo capaz de gerar imagens fotorrealistas de alto nível.
+Ruan apresenta uma linha do tempo visual da evolução do Mid Journey para mostrar como a geração de imagens com IA passou de uma curiosidade quase bizarra para algo capaz de gerar imagens fotorrealistas de alto nível.
 
 Na versão 1 do Mid Journey, as imagens geradas eram primitivas a ponto de ninguém usar a ferramenta para criação visual de verdade. A passagem para a versão 2 foi rápida, mas ainda havia muitas distorções: olhos mal formados, elementos misturados, anatomia incorreta. A IA estava começando a reconhecer padrões, mas ainda cometia erros graves de forma consistente.
 
-Na versão 3, os problemas persistiam. Foi na versão 4, lançada por volta de 2022, que algo mudou de forma perceptível. As imagens passaram a ter uma qualidade que fez as pessoas perceberem o potencial real da tecnologia. O professor descreve a reação de quem estava acompanhando naquele momento como um "Opa, peraí, tem coisa aí." Ele mesmo estava gerando imagens no Mid Journey em 2022 e presenciou esse salto em primeira mão.
+Na versão 3, os problemas persistiam. Foi na versão 4, lançada por volta de 2022, que algo mudou de forma perceptível. As imagens passaram a ter uma qualidade que fez as pessoas perceberem o potencial real da tecnologia. Ruan descreve a reação de quem estava acompanhando naquele momento como um "Opa, peraí, tem coisa aí." Ele mesmo estava gerando imagens no Mid Journey em 2022 e presenciou esse salto em primeira mão.
 
-Naquele período, o Mid Journey funcionava dentro do Discord, o que criava uma barreira de entrada mais alta. Era necessário estudar a documentação, aprender a usar parâmetros no prompt e desenvolver um método próprio. Prompts muito grandes às vezes funcionavam, outras vezes não. Prompts curtos às vezes resolviam, outras vezes precisavam ser expandidos. Cada criador estava construindo seu próprio sistema, porque não havia ainda um protocolo estabelecido. O professor desenvolveu o seu próprio método nesse contexto, entre o final de 2022 e o início de 2023, e esse método está registrado na apresentação de acompanhamento desta aula.
+Naquele período, o Mid Journey funcionava dentro do Discord, o que criava uma barreira de entrada mais alta. Era necessário estudar a documentação, aprender a usar parâmetros no prompt e desenvolver um método próprio. Prompts muito grandes às vezes funcionavam, outras vezes não. Prompts curtos às vezes resolviam, outras vezes precisavam ser expandidos. Cada criador estava construindo seu próprio sistema, porque não havia ainda um protocolo estabelecido. Ruan desenvolveu o seu próprio método nesse contexto, entre o final de 2022 e o início de 2023, e esse método está registrado na apresentação de acompanhamento desta aula.
 
-As versões 5, 6 e 7 representaram melhorias progressivas. A versão 7, no entanto, ainda apresentava algumas distorções visíveis, como o braço anatomicamente estranho que o professor aponta na imagem demonstrativa. A apresentação usada na aula já está desatualizada em relação à versão atual do Mid Journey, mas a relevância histórica justifica mantê-la.
+As versões 5, 6 e 7 representaram melhorias progressivas. A versão 7, no entanto, ainda apresentava algumas distorções visíveis, como o braço anatomicamente estranho que Ruan aponta na imagem demonstrativa. A apresentação usada na aula já está desatualizada em relação à versão atual do Mid Journey, mas a relevância histórica justifica mantê-la.
 
 ## O meme da mão e por que ele explica a limitação dos modelos
 
@@ -62,29 +62,29 @@ Um dos exemplos mais conhecidos das limitações dos modelos de geração de ima
 
 Esse fenômeno tem uma explicação lógica dentro do funcionamento dos modelos de difusão. As IAs não geram imagens da mesma forma que humanos. Humanos pensam na totalidade de uma figura antes de desenhá-la, com consciência intencional de cada elemento. A IA parte de padrões estatísticos e probabilidades. A mão humana é anatomicamente complexa, com muitas variações de posição, ângulo, número de dedos visíveis e contexto. Isso torna a geração estatisticamente desafiadora, porque os padrões são menos uniformes do que, por exemplo, os de um rosto de frente ou um animal quadrúpede.
 
-A boa notícia, segundo o professor, é que modelos mais recentes reduziram significativamente esse problema, mas ele ainda aparece em modelos mais fracos ou em prompts mal construídos. Por isso, é fundamental sempre validar o que foi gerado antes de usar a imagem em qualquer contexto profissional.
+A boa notícia, segundo Ruan, é que modelos mais recentes reduziram significativamente esse problema, mas ele ainda aparece em modelos mais fracos ou em prompts mal construídos. Por isso, é fundamental sempre validar o que foi gerado antes de usar a imagem em qualquer contexto profissional.
 
 ## Por que dominar a teoria muda como você usa a ferramenta
 
-O professor faz uma defesa explícita do conhecimento teórico nesta aula. Pessoas que não reconhecem como os modelos de geração de imagem funcionam acabam caindo em dois extremos: ou chamam a IA de "burra" quando ela falha, ou tratam seus resultados como mágica inexplicável. Nos dois casos, a falta de reconhecimento do mecanismo impede o uso inteligente da ferramenta.
+Ruan faz uma defesa explícita do conhecimento teórico nesta aula. Pessoas que não reconhecem como os modelos de geração de imagem funcionam acabam caindo em dois extremos: ou chamam a IA de "burra" quando ela falha, ou tratam seus resultados como mágica inexplicável. Nos dois casos, a falta de reconhecimento do mecanismo impede o uso inteligente da ferramenta.
 
 Quando você sabe que a IA é um sistema estatístico, que ela identifica padrões em bilhões de dados e os combina probabilisticamente para gerar a imagem mais adequada ao seu prompt, você passa a tomar decisões melhores. Você sabe quando ajustar o prompt, quando usar parâmetros adicionais, quando a falha é esperada e quando ela indica que você precisa mudar a abordagem.
 
-Teoria e prática não são opostos nesta trilha. A teoria, segundo o professor, é o que te dá autonomia. A intenção declarada ao longo de todo o curso é fazer com que os alunos pensem com a própria cabeça, apliquem o raciocínio correto e deixem de depender de cursos para gerar boas imagens. Essa base teórica é justamente o que torna a autonomia possível.
+Teoria e prática não são opostos nesta trilha. A teoria, segundo Ruan, é o que te dá autonomia. A intenção declarada ao longo de todo o curso é fazer com que os alunos pensem com a própria cabeça, apliquem o raciocínio correto e deixem de depender de cursos para gerar boas imagens. Essa base teórica é justamente o que torna a autonomia possível.
 
 ## O resumo do funcionamento para fixar
 
-O professor fecha a explicação teórica com uma síntese direta: modelos de geração de imagem são sistemas estatísticos. Não há mágica, há matemática. Há números, vetores, padrões e probabilidades. O processo de treinamento envolve desconstruir imagens em ruído e reconstruí-las, repetindo esse ciclo trilhões de vezes com milhões de imagens, até que o modelo consiga reconhecer e rotular padrões visuais com palavras. A partir daí, dado um prompt com palavras, o modelo consegue fazer o caminho inverso: gerar pixels a partir de padrões.
+Ruan fecha a explicação teórica com uma síntese direta: modelos de geração de imagem são sistemas estatísticos. Não há mágica, há matemática. Há números, vetores, padrões e probabilidades. O processo de treinamento envolve desconstruir imagens em ruído e reconstruí-las, repetindo esse ciclo trilhões de vezes com milhões de imagens, até que o modelo consiga reconhecer e rotular padrões visuais com palavras. A partir daí, dado um prompt com palavras, o modelo consegue fazer o caminho inverso: gerar pixels a partir de padrões.
 
 A imagem do gato sendo desconstruída em ruído e reconstruída é apenas uma representação simplificada. Na prática, esse processo acontece com trilhões de imagens, em múltiplas dimensões, de forma simultânea e contínua. O resultado dessa escala é o que permite aos modelos atuais gerar imagens com qualidade fotográfica profissional a partir de uma instrução em texto.
 
 ## A importância da validação no processo criativo com IA
 
-Um ponto que o professor enfatiza ao longo desta aula, e que vai reaparecer em várias outras, é a necessidade de sempre validar o que foi gerado antes de usar em contexto profissional. Isso não é insegurança, é parte do método. As IAs são sistemas estatísticos, e estatística implica margem de erro. Mesmo os modelos mais avançados produzem resultados que precisam ser revisados.
+Um ponto que Ruan enfatiza ao longo desta aula, e que vai reaparecer em várias outras, é a necessidade de sempre validar o que foi gerado antes de usar em contexto profissional. Isso não é insegurança, é parte do método. As IAs são sistemas estatísticos, e estatística implica margem de erro. Mesmo os modelos mais avançados produzem resultados que precisam ser revisados.
 
 Essa validação é especialmente importante em elementos que historicamente apresentam maior taxa de inconsistência: mãos, textos incorporados na imagem, anatomia de partes do corpo menos representadas nos dados de treinamento e perspectivas incomuns. Quando você sabe que esses são os pontos sensíveis, pode focar sua atenção de revisão justamente neles, em vez de perder tempo revisando a imagem toda de forma genérica.
 
-O professor posiciona essa capacidade de identificar onde a IA costuma falhar como parte do conhecimento técnico que diferencia um usuário amador de um profissional. Quem não sabe onde o modelo falha, fica surpreso com os erros. Quem sabe, se antecipa e tem um fluxo de validação mais eficiente.
+Ruan posiciona essa capacidade de identificar onde a IA costuma falhar como parte do conhecimento técnico que diferencia um usuário amador de um profissional. Quem não sabe onde o modelo falha, fica surpreso com os erros. Quem sabe, se antecipa e tem um fluxo de validação mais eficiente.
 
 ## Coloque em prática
 

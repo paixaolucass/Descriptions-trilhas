@@ -26,7 +26,7 @@ A analogia usada na aula é a dos X-Men. No universo dos mutantes, as classes ma
 
 ## Por que 99,96% ainda não chegou lá
 
-O professor acompanha esse tema desde 2021, quando o Mid-Journey e o ChatGPT foram lançados e começou a ensinar sobre inteligência artificial. Naquele momento, houve até uma onda de reações negativas de pessoas que achavam que ele estava defendendo a tecnologia, quando na verdade o objetivo era o oposto: avisar que havia uma janela de preparo e que aproveitá-la em 2021 daria muito mais tempo do que esperar para se preparar em 2026. Agora estamos em 2026, e a situação é que 99,96% da população não se preparou.
+Ruan acompanha esse tema desde 2021, quando o Mid-Journey e o ChatGPT foram lançados e começou a ensinar sobre inteligência artificial. Naquele momento, houve até uma onda de reações negativas de pessoas que achavam que ele estava defendendo a tecnologia, quando na verdade o objetivo era o oposto: avisar que havia uma janela de preparo e que aproveitá-la em 2021 daria muito mais tempo do que esperar para se preparar em 2026. Agora estamos em 2026, e a situação é que 99,96% da população não se preparou.
 
 Dois fatores explicam esse atraso em escala global. O primeiro é o desconhecimento: as pessoas simplesmente não sabem o que a tecnologia é capaz de fazer no nível mais avançado. O segundo é o medo. Pouquíssimas pessoas estão usando IA no poder máximo que ela tem. E enquanto isso acontece, governos inteiros utilizam a mesma tecnologia para política, economia e estratégia. A mesma ferramenta que está disponível com quatro a oito cliques no computador de qualquer pessoa.
 

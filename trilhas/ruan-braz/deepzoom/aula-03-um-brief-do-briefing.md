@@ -21,7 +21,7 @@ O briefing é tratado dentro do processo de design e da metodologia de design. E
 
 ## O resumo de um livro que não foi lido
 
-O professor abre a aula com uma pergunta: você já fez o resumo de um livro que não leu? Ele usa uma experiência pessoal do período escolar, quando precisava pegar livros na biblioteca e entregar resumos, mesmo sem se interessar pelas leituras obrigatórias.
+Ruan abre a aula com uma pergunta: você já fez o resumo de um livro que não leu? Ele usa uma experiência pessoal do período escolar, quando precisava pegar livros na biblioteca e entregar resumos, mesmo sem se interessar pelas leituras obrigatórias.
 
 O método que ele criou era ler a sinopse, pesquisar resumos na internet e montar um texto próprio. O resultado funcionava para cumprir a tarefa, mas era pobre. Ele sabia a essência e o final da história, mas não conhecia os plot twists, os momentos de virada, o desenvolvimento da trama nem os detalhes que tornam o livro rico.
 
@@ -29,7 +29,7 @@ Essa analogia prepara a relação com o briefing. Fazer um resumo de algo que n�
 
 ## Origem e sentido do briefing
 
-A palavra brief significa resumo. Briefing significa informar ou resumir algo para alguém. O professor destaca que briefing é um verbo, algo que se faz, e que ao final desse processo se tem um brief.
+A palavra brief significa resumo. Briefing significa informar ou resumir algo para alguém. Ruan destaca que briefing é um verbo, algo que se faz, e que ao final desse processo se tem um brief.
 
 O termo nasceu no contexto de guerra, assim como debriefing. O briefing era o resumo tático antes de uma missão, com informações sobre terreno, inimigo, recursos e tudo que fosse necessário para orientar soldados, generais e estrategistas antes da operação.
 
@@ -39,19 +39,19 @@ Mais tarde, agências de publicidade e marketing começaram a usar o termo para 
 
 ## Briefing não é descrição de tarefa
 
-O professor toma cuidado ao chamar o briefing de resumo, porque muitos designers confundem isso com um resumo de tarefa. Ele conta sua primeira experiência em agência de publicidade, onde o briefing aparecia como uma descrição operacional dentro de um software de demandas.
+Ruan toma cuidado ao chamar o briefing de resumo, porque muitos designers confundem isso com um resumo de tarefa. Ele conta sua primeira experiência em agência de publicidade, onde o briefing aparecia como uma descrição operacional dentro de um software de demandas.
 
 Na rotina da agência, ele recebia tarefas como criar um banner para uma empresa, dez posts para outra ou uma marca para uma empresa de engenharia. Ao clicar na tarefa, havia uma breve descrição. Aquilo era chamado de briefing, mas funcionava apenas como uma instrução de execução.
 
 O problema desse modelo aparece quando há pouca informação. Se o designer recebe apenas algo como criar um logo de engenharia para determinada empresa, ele começa praticamente de uma folha em branco. A criatividade fica sem estímulos, sem pontos para conectar e sem direção clara.
 
-Nesse cenário, a tendência é criar soluções genéricas. O professor cita o comportamento de buscar referências no Behance, pesquisar logos de engenharia, escolher cores no Adobe Color, selecionar uma tipografia que pareça adequada ao setor e produzir mais um desenho visualmente aceitável, mas sem estratégia.
+Nesse cenário, a tendência é criar soluções genéricas. Ruan cita o comportamento de buscar referências no Behance, pesquisar logos de engenharia, escolher cores no Adobe Color, selecionar uma tipografia que pareça adequada ao setor e produzir mais um desenho visualmente aceitável, mas sem estratégia.
 
 Por isso, o primeiro ponto central é que briefing não é uma descrição de tarefa. Ele é um documento de gestão de projeto, usado para entender se o trabalho está seguindo a linha certa e se as decisões continuam conectadas ao que foi combinado desde o início.
 
 ## O que o briefing não é
 
-Antes de mostrar o que deve entrar no briefing, o professor separa quatro confusões comuns. O briefing pode ajudar a construir outros documentos, mas não deve ser tratado como pesquisa, dossiê, proposta ou contrato.
+Antes de mostrar o que deve entrar no briefing, Ruan separa quatro confusões comuns. O briefing pode ajudar a construir outros documentos, mas não deve ser tratado como pesquisa, dossiê, proposta ou contrato.
 
 O briefing não é a pesquisa de design. Ele faz parte da pesquisa, mas não substitui o mergulho posterior no mercado, no negócio e no público. Depois do briefing, o designer ainda precisa investigar informações que o cliente não tem, não sabe explicar ou não consegue desenvolver em uma primeira conversa.
 
@@ -63,11 +63,11 @@ Por fim, o briefing não é contrato. Ele pode registrar prazo, orçamento, cron
 
 ## Briefing como documento de gestão
 
-Depois de separar essas confusões, o professor define o briefing como um documento de gestão de projeto. Ele não é proposta, resumo, descrição de tarefa, contrato nem pesquisa. Sua função é manter o projeto na linha e ajudar a verificar se o trabalho continua na direção certa.
+Depois de separar essas confusões, Ruan define o briefing como um documento de gestão de projeto. Ele não é proposta, resumo, descrição de tarefa, contrato nem pesquisa. Sua função é manter o projeto na linha e ajudar a verificar se o trabalho continua na direção certa.
 
 Um documento de gestão precisa responder questões básicas. Qual é o objetivo do projeto? Onde estamos e onde queremos chegar? Quais resultados o cliente espera? Quais critérios serão usados para avaliar se o projeto está avançando corretamente?
 
-Critérios são indicadores de direção e sucesso. O professor cita a ideia de que o que não é medido não pode ser melhorado. Se os critérios não são combinados com o cliente, a apresentação final tende a cair em discussões de gosto, porque não há parâmetros claros para julgar as decisões.
+Critérios são indicadores de direção e sucesso. Ruan cita a ideia de que o que não é medido não pode ser melhorado. Se os critérios não são combinados com o cliente, a apresentação final tende a cair em discussões de gosto, porque não há parâmetros claros para julgar as decisões.
 
 No design de marcas, os critérios podem envolver a percepção desejada, os atributos da marca, a aprovação de uma etapa de pesquisa ou requisitos de naming. Um nome pode precisar ser registrável no INPI, ter Instagram disponível, ser curto ou longo conforme o contexto. Não existe nome perfeito, existe nome certo para cada caso.
 
@@ -77,11 +77,11 @@ Quando os decisores são definidos desde o início, as pessoas importantes parti
 
 ## Um briefing completo e útil
 
-O professor resume o objetivo do briefing em três perguntas: onde o cliente está, onde ele quer chegar e como vocês vão fazer isso. Essas perguntas orientam o documento, mas não formam uma fórmula fixa.
+Ruan resume o objetivo do briefing em três perguntas: onde o cliente está, onde ele quer chegar e como vocês vão fazer isso. Essas perguntas orientam o documento, mas não formam uma fórmula fixa.
 
 Cada empresa tem sua cultura, cada projeto tem sua natureza e cada contexto exige adaptações. Um projeto de embalagem, editorial ou site pode exigir aspectos técnicos diferentes. Ainda assim, existe um escopo genérico de informações que provavelmente será útil em muitos projetos.
 
-Esse escopo não é uma lista fechada de perguntas prontas. O professor prefere trabalhar com tópicos, porque a pergunta certa depende da experiência do designer. Antes da criação, o projeto de design se resume em boa parte a saber perguntar, investigar e conectar pontos.
+Esse escopo não é uma lista fechada de perguntas prontas. Ruan prefere trabalhar com tópicos, porque a pergunta certa depende da experiência do designer. Antes da criação, o projeto de design se resume em boa parte a saber perguntar, investigar e conectar pontos.
 
 Ele aproxima o trabalho do designer ao de jornalistas e investigadores. O painel semântico, comparado a quadros de investigação com linhas ligando pistas, ajuda a conectar informações. O mood board também entra como quadro de humor do projeto. Pesquisa, investigação e estratégia servem para ligar os pontos antes da criação.
 
@@ -91,7 +91,7 @@ A primeira etapa do escopo é a natureza do projeto. O designer precisa identifi
 
 Depois vem o contexto. Contexto é o momento, o ambiente e o espaço em que o projeto acontece. Ele inclui a situação atual da empresa, o que ela busca naquele momento, as peculiaridades do projeto e as limitações existentes.
 
-Perguntar apenas quais são as limitações pode gerar respostas vagas. O professor sugere conduzir melhor a conversa com perguntas como: você já tentou resolver esse problema? Se sim, por que não conseguiu? O que deu errado? O que faltou para chegar lá? Assim aparecem limitações de orçamento, tempo, equipe ou outros fatores.
+Perguntar apenas quais são as limitações pode gerar respostas vagas. Ruan sugere conduzir melhor a conversa com perguntas como: você já tentou resolver esse problema? Se sim, por que não conseguiu? O que deu errado? O que faltou para chegar lá? Assim aparecem limitações de orçamento, tempo, equipe ou outros fatores.
 
 Os resultados desejáveis se conectam ao objetivo, mas não são a mesma coisa. O objetivo indica onde se quer chegar. Os resultados desejáveis indicam de que maneira se quer chegar lá. Na analogia da guerra, resistir por duas semanas pode ser o objetivo, enquanto resistir com o mínimo de perdas ou fazendo o inimigo desistir são resultados desejáveis.
 
@@ -99,7 +99,7 @@ Nessa etapa, também aparecem as primeiras responsabilidades. O designer precisa
 
 ## Diagnóstico de negócio, mercado e público
 
-O professor organiza o diagnóstico em três frentes inspiradas na Arte da Guerra: conhecer a si mesmo, conhecer o inimigo e conhecer o território. No projeto de marca, o negócio é o próprio cliente, o mercado e a concorrência ocupam o papel do inimigo, e o público é o território.
+Ruan organiza o diagnóstico em três frentes inspiradas na Arte da Guerra: conhecer a si mesmo, conhecer o inimigo e conhecer o território. No projeto de marca, o negócio é o próprio cliente, o mercado e a concorrência ocupam o papel do inimigo, e o público é o território.
 
 O público é tratado como território porque a batalha entre marcas acontece na cabeça das pessoas. É na mente do público que a marca quer se posicionar, ser lembrada e influenciar uma decisão de compra. Por isso, entender esse território é parte central do diagnóstico.
 
@@ -117,7 +117,7 @@ O ponto estratégico é não criar uma marca sem conhecer a empresa. Uma boa mar
 
 ## Diagnóstico de mercado
 
-No diagnóstico de mercado, o designer busca entender os concorrentes e a dinâmica do setor. O professor relata situações em que apresentou soluções que o cliente descartou porque não funcionavam naquele mercado. Isso reduz credibilidade, porque mostra que o designer está atrás do cliente na compreensão do contexto.
+No diagnóstico de mercado, o designer busca entender os concorrentes e a dinâmica do setor. Ruan relata situações em que apresentou soluções que o cliente descartou porque não funcionavam naquele mercado. Isso reduz credibilidade, porque mostra que o designer está atrás do cliente na compreensão do contexto.
 
 O objetivo é chegar à conversa com mais domínio. Quando o designer entende melhor o mercado, o cliente percebe que ele é a pessoa que faltava no projeto. Isso aumenta a valorização do trabalho e a disposição do cliente em pagar por um processo mais estratégico.
 
@@ -129,7 +129,7 @@ O designer deve perguntar como o mercado funciona, quais são seus paradigmas, o
 
 No diagnóstico de público, o designer entra no território da mente do consumidor. O primeiro passo é entender o segmento, ou seja, a parcela do mercado que o cliente quer atender. Pode ser um público específico, um público amplo ou uma estratégia de comunicação voltada a um grupo desejado.
 
-O professor separa dados demográficos e dados comportamentais. Dados demográficos são variáveis mensuráveis em escala, como faixa etária, gênero, escolaridade, renda e ocupação. Eles ajudam a agrupar públicos, mas não são suficientes para entender como a marca deve se comunicar.
+Ruan separa dados demográficos e dados comportamentais. Dados demográficos são variáveis mensuráveis em escala, como faixa etária, gênero, escolaridade, renda e ocupação. Eles ajudam a agrupar públicos, mas não são suficientes para entender como a marca deve se comunicar.
 
 Os dados comportamentais são apresentados como os mais valiosos para entrar na cabeça do público. Eles envolvem anseios, desejos, medos, obstáculos, cultura, crenças, padrões de comportamento e dificuldades que impedem o público de comprar ou aderir à solução.
 
@@ -141,9 +141,9 @@ Depois dos diagnósticos de negócio, mercado e público, o designer tem o ponto
 
 Depois de diagnosticar negócio, mercado e público, o briefing volta para a gestão do projeto. O designer precisa discutir como o trabalho será conduzido para alcançar os resultados definidos.
 
-O professor diferencia tempo previsto e cronograma. Tempo previsto é a duração geral do projeto, como dois meses ou seis meses. Cronograma é a divisão das etapas, com o que será feito na primeira, segunda, terceira e quarta semana.
+Ruan diferencia tempo previsto e cronograma. Tempo previsto é a duração geral do projeto, como dois meses ou seis meses. Cronograma é a divisão das etapas, com o que será feito na primeira, segunda, terceira e quarta semana.
 
-Para conseguir conversar sobre isso com o cliente, o designer precisa conhecer o próprio processo. O professor cita o blueprint da metodologia como desenho das etapas que não podem faltar, como investigação, pesquisa, estratégia, criação, pontos de contato e lançamento.
+Para conseguir conversar sobre isso com o cliente, o designer precisa conhecer o próprio processo. Ruan cita o blueprint da metodologia como desenho das etapas que não podem faltar, como investigação, pesquisa, estratégia, criação, pontos de contato e lançamento.
 
 Também entram recursos necessários. Um projeto pode exigir materiais impressos, site, produção de conteúdo, produção externa, sound design, locução, publicidade, gravação de vídeo ou pesquisa externa com uma empresa especializada. Esses recursos precisam ser mapeados e registrados.
 
@@ -151,7 +151,7 @@ O orçamento discutido nessa parte não é apenas quanto o designer vai receber.
 
 ## Aferição de sucesso
 
-A aferição de sucesso é a forma de comprovar que o projeto chegou aos resultados esperados. O professor reforça que isso precisa ser acordado antes do projeto começar, porque depois servirá como argumento na apresentação e na avaliação do trabalho.
+A aferição de sucesso é a forma de comprovar que o projeto chegou aos resultados esperados. Ruan reforça que isso precisa ser acordado antes do projeto começar, porque depois servirá como argumento na apresentação e na avaliação do trabalho.
 
 Quando os critérios ficam abertos, as expectativas podem se desalinhar. O cliente pode esperar uma coisa diferente do que foi conversado no início. Por isso, designer e cliente devem definir os critérios de avaliação e como os resultados serão medidos.
 
@@ -167,7 +167,7 @@ Na etapa final do escopo, o briefing precisa definir responsabilidades por etapa
 
 A implementação se conecta ao cronograma, mas responde a outra pergunta: como as etapas vão acontecer e como se passa de uma etapa para a próxima. Ela organiza o processo prático, enquanto o cronograma distribui o que existe em cada etapa.
 
-O professor também inclui um apêndice de materiais que o cliente pode reunir. Entram documentos com informações da empresa, materiais históricos, arquivos de marca, pontos de contato já construídos, catálogos, artigos, manuais de operação, manuais de legislação e pesquisas anteriores.
+Ruan também inclui um apêndice de materiais que o cliente pode reunir. Entram documentos com informações da empresa, materiais históricos, arquivos de marca, pontos de contato já construídos, catálogos, artigos, manuais de operação, manuais de legislação e pesquisas anteriores.
 
 Esse apêndice serve para reunir a inteligência que a empresa já possui. Ao perguntar o que o cliente já sabe e o que o designer ainda não sabe, o projeto economiza tempo e evita refazer investigações que poderiam partir de materiais existentes.
 
@@ -177,7 +177,7 @@ O briefing não termina na reunião inicial. Se faltar alguma pergunta, o design
 
 O último capítulo trata dos limites do briefing. Muitos designers depositam todas as esperanças nele, como se ele resolvesse todos os problemas e reunisse todas as informações necessárias para um projeto.
 
-Antes da aula, o professor perguntou no Instagram se as pessoas conseguiam reunir todas as informações relevantes para o projeto na etapa de briefing. Quarenta e sete por cento responderam que sim. Ele discorda, porque considera necessário fazer pesquisa, benchmark e investigação sobre empresas, público e dinâmica de mercado.
+Antes da aula, Ruan perguntou no Instagram se as pessoas conseguiam reunir todas as informações relevantes para o projeto na etapa de briefing. Quarenta e sete por cento responderam que sim. Ele discorda, porque considera necessário fazer pesquisa, benchmark e investigação sobre empresas, público e dinâmica de mercado.
 
 O objetivo do briefing não é reunir todas as informações relevantes para o projeto. O objetivo é reunir as informações relevantes para a gestão do projeto. As demais informações vêm da pesquisa, da investigação do negócio, do mercado e do público.
 
@@ -191,7 +191,7 @@ Um briefing de cinco linhas para um projeto estratégico é insuficiente. Ele po
 
 O primeiro problema é de informação. Existem clientes que ainda não conhecem o próprio negócio, não sabem explicar o público, não entendem o mercado ou respondem de forma vaga. Isso é comum em pequenos negócios e o designer precisa aprender a lidar com esse cenário.
 
-O professor situa esses pequenos negócios como parte do segmento principal de projetos de 10 a 15 mil reais. Eles podem ter dois, três, quatro ou cinco funcionários, faturar valores que sustentam a operação e ainda assim trabalhar muito no feeling, sem pesquisa estruturada sobre público, mercado ou tendências.
+Ruan situa esses pequenos negócios como parte do segmento principal de projetos de 10 a 15 mil reais. Eles podem ter dois, três, quatro ou cinco funcionários, faturar valores que sustentam a operação e ainda assim trabalhar muito no feeling, sem pesquisa estruturada sobre público, mercado ou tendências.
 
 O segundo problema é que muitos designers usam o briefing de forma ultrapassada, como se estivessem conduzindo projetos técnicos. Perguntas como cor favorita do cliente normalmente não fazem sentido em um projeto estratégico de marca, porque estratégia não se baseia no gosto do cliente.
 

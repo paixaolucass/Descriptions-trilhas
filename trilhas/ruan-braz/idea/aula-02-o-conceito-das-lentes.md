@@ -39,7 +39,7 @@ A primeira parte é o estímulo sensorial. O cérebro recebe sinais do mundo por
 
 Duas pessoas podem olhar para a mesma pintura e enxergar coisas completamente diferentes. Esse fenômeno não é coincidência: ele reflete percepções construídas sobre repertórios distintos. O que parece óbvio para uma pessoa pode ser invisível para outra, porque o filtro de leitura de cada uma foi construído por trajetórias diferentes.
 
-## A lente como metáfora central: o exemplo pessoal do professor
+## A lente como metáfora central: o exemplo pessoal de Ruan
 
 Ruan conta que aos 14 anos entrou no que chamou de "limbo do YouTube", assistindo a vídeos sobre as coisas mais sinistras e bizarras do mundo, o que eventualmente o levou a explorar a dark web por curiosidade. Nenhum evento grave aconteceu, mas algo mais sutil se instalou: ele foi se tornando gradualmente mais medroso, acanhado e ansioso em situações cotidianas.
 

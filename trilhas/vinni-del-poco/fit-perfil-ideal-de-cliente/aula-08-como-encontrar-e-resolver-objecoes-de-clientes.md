@@ -21,7 +21,7 @@ O raciocínio central é o seguinte: se a sua oferta responde todas as dúvidas 
 
 ## Como listar as crenças limitantes por elemento
 
-O processo começa com a identificação do resultado desejado do cliente. A partir daí, você faz uma lista de todos os problemas e crenças limitantes que ele pode ter relacionados a esse sonho. O professor usa a pergunta-base "não vai funcionar porque..." aplicada a cada elemento da equação para forçar esse exercício.
+O processo começa com a identificação do resultado desejado do cliente. A partir daí, você faz uma lista de todos os problemas e crenças limitantes que ele pode ter relacionados a esse sonho. Vinni usa a pergunta-base "não vai funcionar porque..." aplicada a cada elemento da equação para forçar esse exercício.
 
 O resultado desejado não é o produto ou o serviço. Ninguém entra em uma academia porque deseja a academia em si: a pessoa quer perder peso, ficar mais forte ou mudar o corpo. Da mesma forma, ninguém compra uma passagem de avião pensando apenas na passagem, mas nas férias, no destino e na experiência de chegar lá. A oferta precisa partir dessa transformação, não do entregável.
 
@@ -38,21 +38,21 @@ Depois de listar as objeções, o próximo passo é conectar cada uma a uma solu
 
 Quando você faz esse exercício com profundidade, a lista de problemas identificados vira um mapa de soluções. A partir desse mapa, você consegue montar uma esteira de serviços, porque cada problema que você resolve pode virar um serviço, um entregável ou uma etapa do seu processo.
 
-O professor recomenda classificar os problemas identificados por valor: quais têm alto valor para o cliente e quais são ruído. Ruído, nesse contexto, é um problema que o cliente até acha interessante resolver, mas que não aumenta significativamente o valor da oferta. O foco deve estar nas dores mais latentes, nos problemas que aparecem sempre na hora de vender, durante as negociações e na apresentação de proposta.
+Vinni recomenda classificar os problemas identificados por valor: quais têm alto valor para o cliente e quais são ruído. Ruído, nesse contexto, é um problema que o cliente até acha interessante resolver, mas que não aumenta significativamente o valor da oferta. O foco deve estar nas dores mais latentes, nos problemas que aparecem sempre na hora de vender, durante as negociações e na apresentação de proposta.
 
 ## A escala fácil de vender versus fácil de entregar
 
-O professor apresenta uma escala do livro de Alex Hormozi que organiza produtos e serviços em dois extremos: na esquerda ficam os que são fáceis de vender e difíceis de entregar; na direita ficam os que são difíceis de vender e fáceis de entregar.
+Vinni apresenta uma escala do livro de Alex Hormozi que organiza produtos e serviços em dois extremos: na esquerda ficam os que são fáceis de vender e difíceis de entregar; na direita ficam os que são difíceis de vender e fáceis de entregar.
 
 Os serviços da esquerda, fáceis de vender e difíceis de entregar, são bons para gerar demanda inicial. Se você precisa de dinheiro rápido, comece ali. O custo é o tempo: esses serviços consomem muito do tempo do profissional. Exemplos dentro do mercado criativo: social media completo, produção de vídeo, produção de conteúdo no geral, e identidade visual com muitos entregáveis e manual completo.
 
 Os serviços da direita, difíceis de vender e fáceis de entregar, são bons para escalar. O trabalho está na criação, mas depois que está pronto, é só replicar. Exemplos: cursos gravados, templates de apresentação, templates de redes sociais, frameworks, playbooks de brand ou marketing para o cliente aplicar sozinho, e sistemas de Notion. O problema é que o cliente vai ter muito trabalho para aplicar o que comprou, o que torna a venda mais difícil ou exige um preço muito abaixo do mercado para compensar.
 
-O professor descreve sua posição atual como o meio da escala, com branding estratégico: o projeto demanda algum tempo do cliente, mas menos do que antes, porque ele reduziu o número de reuniões. Não é super fácil de entregar, mas também não é difícil. Não é fácil de vender, mas também não é difícil. Redesign de site, campanha de lançamento e gestão de tráfego também tendem a ficar no meio, porque exigem participação do cliente em algumas etapas, mas não de forma excessiva.
+Vinni descreve sua posição atual como o meio da escala, com branding estratégico: o projeto demanda algum tempo do cliente, mas menos do que antes, porque ele reduziu o número de reuniões. Não é super fácil de entregar, mas também não é difícil. Não é fácil de vender, mas também não é difícil. Redesign de site, campanha de lançamento e gestão de tráfego também tendem a ficar no meio, porque exigem participação do cliente em algumas etapas, mas não de forma excessiva.
 
 ## Como usar a escala na evolução do negócio
 
-A orientação do professor é começar na esquerda da escala quando você está começando, porque esses serviços têm menos objeção de venda. Eles consomem mais tempo, mas se você tem tempo disponível, é a posição ideal para gerar receita e validar a oferta.
+A orientação de Vinni é começar na esquerda da escala quando você está começando, porque esses serviços têm menos objeção de venda. Eles consomem mais tempo, mas se você tem tempo disponível, é a posição ideal para gerar receita e validar a oferta.
 
 Conforme o negócio amadurece e o processo se torna mais eficiente, o trabalho como empreendedor é ir migrando para a direita: automatizando partes do processo, padronizando entregas e reduzindo o tempo gasto por projeto. Isso significa aceitar um pouco mais de fricção do lado do cliente, mas em troca de mais tempo e escala do lado do profissional.
 

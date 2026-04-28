@@ -22,7 +22,7 @@ A metáfora usada na aula é a lente fotográfica. A cena é a mesma, a mensagem
 
 **Tom** é a temperatura emocional do texto. Um mesmo conteúdo pode ser entregue de forma fria e técnica, neutra e informativa, ou quente e próxima. A escolha do tom depende da relação entre quem escreve e quem lê, e do contexto em que o texto vai aparecer.
 
-**Vocabulário** é o código de acesso ao texto. O professor usa o conceito de assobio de cachorro: certas palavras ativam respostas imediatas em públicos específicos e passam despercebidas para todos os outros. Um vocabulário alinhado ao público reduz o atrito da leitura. Um vocabulário fora do universo do leitor cria estranheza mesmo quando o conteúdo é relevante.
+**Vocabulário** é o código de acesso ao texto. Ruan usa o conceito de assobio de cachorro: certas palavras ativam respostas imediatas em públicos específicos e passam despercebidas para todos os outros. Um vocabulário alinhado ao público reduz o atrito da leitura. Um vocabulário fora do universo do leitor cria estranheza mesmo quando o conteúdo é relevante.
 
 **Estilo** é a estrutura da entrega. Texto analítico organiza dados e conclui por lógica. Texto narrativo conta antes de concluir. Texto direto elimina camadas e vai ao ponto. Texto argumentativo antecipa objeções e as resolve. O mesmo argumento pode ser entregue em qualquer um desses estilos, e cada público processa melhor um deles.
 
@@ -46,7 +46,7 @@ A IA consegue gerar variações de adaptação rapidamente porque o ajuste de to
 
 O erro mais frequente na adaptação de textos não é técnico. É emocional. Muitos escritores evitam adaptar porque sentem que adaptar é diminuir, que mudar o vocabulário para um leitor menos técnico é trair a profundidade do conteúdo.
 
-O professor chama isso de erro de ego. Adaptar não é simplificar. É respeitar o percurso do leitor. Um texto que exige que o leitor suba até onde o autor está é um texto que a maioria vai abandonar no meio. Um texto que vem até onde o leitor está é um texto que pode levá-lo mais longe do que ele esperava chegar.
+Ruan chama isso de erro de ego. Adaptar não é simplificar. É respeitar o percurso do leitor. Um texto que exige que o leitor suba até onde o autor está é um texto que a maioria vai abandonar no meio. Um texto que vem até onde o leitor está é um texto que pode levá-lo mais longe do que ele esperava chegar.
 
 ## Coloque em prática
 

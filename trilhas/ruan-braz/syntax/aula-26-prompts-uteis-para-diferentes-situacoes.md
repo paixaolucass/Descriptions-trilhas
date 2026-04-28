@@ -40,7 +40,7 @@ A diferença entre os registros não é só de tom. O registro analítico organi
 
 ## Tipo 4: criatividade sobre restrição
 
-O quarto tipo usa a restrição como motor de criatividade. O professor chama esse método de panela de pressão: ao invés de dar liberdade total, o prompt impõe um limite que força a IA a encontrar soluções não óbvias.
+O quarto tipo usa a restrição como motor de criatividade. Ruan chama esse método de panela de pressão: ao invés de dar liberdade total, o prompt impõe um limite que força a IA a encontrar soluções não óbvias.
 
 Exemplos de restrição produtiva: "Escreva sem usar o verbo ser", "Explique em exatamente três frases", "Reescreva sem usar nenhuma palavra com mais de duas sílabas". Restrições bem escolhidas eliminam o genérico porque o genérico é construído com as palavras e estruturas mais prováveis. Tirar o provável força o inesperado.
 

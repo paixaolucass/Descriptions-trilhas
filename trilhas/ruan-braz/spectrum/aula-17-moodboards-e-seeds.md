@@ -14,7 +14,7 @@ Ao final desta aula, você será capaz de:
 
 ## A aula que mostra o processo real, com a bagunça incluída
 
-A aula começa com uma declaração de intenção: o processo vai ser mostrado de forma prática e organizada para fins didáticos, mas o professor avisa que na vida real ele é mais caótico. O que importa é visualizar as etapas, perceber como se trabalha o mood board e como a informação é organizada antes de partir para a geração. A demonstração acontece dentro de um arquivo do Figma, onde o professor percorre as etapas com o aluno.
+A aula começa com uma declaração de intenção: o processo vai ser mostrado de forma prática e organizada para fins didáticos, mas Ruan avisa que na vida real ele é mais caótico. O que importa é visualizar as etapas, perceber como se trabalha o mood board e como a informação é organizada antes de partir para a geração. A demonstração acontece dentro de um arquivo do Figma, onde Ruan percorre as etapas com o aluno.
 
 ## Mood boards fictícios como ponto de partida
 
@@ -24,7 +24,7 @@ Os primeiros exemplos mostrados são mood boards fictícios, criados apenas para
 
 O painel semântico aparece como complemento ao mood board. Enquanto o mood board reúne imagens por sensação e atmosfera, o painel semântico organiza por significado, valores e intenção comunicativa. Não são a mesma coisa, mas funcionam juntos.
 
-Na Overlens, o painel semântico traz palavras como clareza, nexialismo, semiótica, futuro, simples mas profundo. Esses termos definem o que a marca quer comunicar e orientam as escolhas visuais. O professor aponta que muita gente que está na Overlens sente exatamente isso: profundidade com didática, a sensação de estar transcendendo enquanto aprende. Os signos escolhidos fazem você sentir isso também. A biblioteca, as imagens, o universo visual da plataforma, tudo carrega a mesma mensagem.
+Na Overlens, o painel semântico traz palavras como clareza, nexialismo, semiótica, futuro, simples mas profundo. Esses termos definem o que a marca quer comunicar e orientam as escolhas visuais. Ruan aponta que muita gente que está na Overlens sente exatamente isso: profundidade com didática, a sensação de estar transcendendo enquanto aprende. Os signos escolhidos fazem você sentir isso também. A biblioteca, as imagens, o universo visual da plataforma, tudo carrega a mesma mensagem.
 
 Às vezes o painel semântico é uma tabela gigante com muitos termos. Às vezes a equipe vai mais direto ao ponto, dependendo do tempo disponível e do estado do projeto. O que não muda é a ordem: painel semântico antes de partir para a geração.
 
@@ -32,7 +32,7 @@ Na Overlens, o painel semântico traz palavras como clareza, nexialismo, semiót
 
 Os mood boards reais mostrados na aula são seleções do universo visual da Overlens, das coisas que a equipe está construindo. Um deles representa os valores fundamentais da marca: clareza, nexialismo, semiótica, futuro, simples mas profundo. Cada imagem escolhida foi selecionada porque representa um ou mais desses valores de forma visual.
 
-O professor faz questão de apontar que quando você olha para uma imagem que "respira a Overlens", que é imediatamente reconhecida como "a cara da Overlens", é porque esse processo foi feito. A identidade visual se constrói exatamente aí: nas escolhas feitas no mood board, nos valores do painel semântico, na consistência entre os dois. Quando você vê algo parecido no mundo, você lembra da Overlens. Isso é o que a identidade visual faz.
+Ruan faz questão de apontar que quando você olha para uma imagem que "respira a Overlens", que é imediatamente reconhecida como "a cara da Overlens", é porque esse processo foi feito. A identidade visual se constrói exatamente aí: nas escolhas feitas no mood board, nos valores do painel semântico, na consistência entre os dois. Quando você vê algo parecido no mundo, você lembra da Overlens. Isso é o que a identidade visual faz.
 
 ## Mood board por tipo de material
 
@@ -54,7 +54,7 @@ Depois que as referências são convergidas, começa a geração própria das im
 
 A etapa seguinte é o teste no ambiente real. A imagem candidata é colocada junto com as outras capas que existem na plataforma para ver se ela harmoniza. O feed, o conjunto visual do produto como um todo, importa tanto quanto a capa isolada. Uma capa boa que quebra o feed todo não é uma boa escolha. É necessário que ela se encaixe no conjunto e transmita a mensagem certa.
 
-O professor menciona um exemplo prático: a capa provisória do Atlas foi feita rápido para lançar o produto, mas nem ele nem a Thaís gostam dela porque ela desarmoniza o feed. A equipe já está trabalhando em um novo universo visual para o Atlas que vai harmonizar melhor com as outras trilhas.
+Ruan menciona um exemplo prático: a capa provisória do Atlas foi feita rápido para lançar o produto, mas nem ele nem a Thaís gostam dela porque ela desarmoniza o feed. A equipe já está trabalhando em um novo universo visual para o Atlas que vai harmonizar melhor com as outras trilhas.
 
 ## Seeds no Mid-Journey: como usar o mood board para gerar imagens consistentes
 
@@ -66,7 +66,7 @@ O processo na Overlens é: trabalha o mood board no Figma, seleciona as imagens 
 
 ## O processo é iterativo e não linear
 
-O professor faz questão de mostrar a bagunça real: tem momentos em que a equipe avança o mood board, gera imagens, não gosta do resultado, volta e faz outro mood board porque o caminho não estava ficando bom. O processo de design é iterativo. Vai e volta, testa, avalia, ajusta e testa de novo.
+Ruan faz questão de mostrar a bagunça real: tem momentos em que a equipe avança o mood board, gera imagens, não gosta do resultado, volta e faz outro mood board porque o caminho não estava ficando bom. O processo de design é iterativo. Vai e volta, testa, avalia, ajusta e testa de novo.
 
 O ponto central é que nenhuma etapa é pulada. Às vezes a equipe passa uma hora inteira só em uma etapa, como a coleta de referências, porque isso tem impacto direto na qualidade do que vem depois. A tentação de pular o mood board e ir direto para a geração é real, mas os resultados sem esse trabalho prévio são muito menos consistentes.
 

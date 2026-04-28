@@ -36,7 +36,7 @@ A funcionalidade que mais surpreende é o suporte a vídeos do YouTube. Basta co
 
 Isso abre uma possibilidade prática muito relevante: antes de assistir a uma aula longa ou a uma palestra extensa no YouTube, você pode subir o vídeo no NotebookLM e pedir para ele trazer os principais pontos discutidos, com indicação do momento em que cada assunto é abordado. Você avalia a relevância do conteúdo antes de investir tempo assistindo ao vídeo completo.
 
-Na demonstração da aula, o professor carrega um TED Talk do CEO da OpenAI, Sam Altman, publicado há apenas 11 dias no YouTube. Com o link inserido, o NotebookLM processa o vídeo de 47 minutos e responde ao pedido de resumo dos principais pontos, entregando uma síntese organizada que inclui os tópicos centrais discutidos entre Altman e o apresentador do TED.
+Na demonstração da aula, Ruan carrega um TED Talk do CEO da OpenAI, Sam Altman, publicado há apenas 11 dias no YouTube. Com o link inserido, o NotebookLM processa o vídeo de 47 minutos e responde ao pedido de resumo dos principais pontos, entregando uma síntese organizada que inclui os tópicos centrais discutidos entre Altman e o apresentador do TED.
 
 ## Gerenciando fontes e conversas
 
@@ -60,13 +60,13 @@ O recurso mais singular do NotebookLM não tem equivalente funcional em nenhuma 
 
 O resultado é surpreendentemente natural. As vozes se interrompem, completam frases uma da outra, fazem referências cruzadas entre os temas e mantêm o ritmo de uma conversa real entre duas pessoas. A qualidade do áudio é limpa e o conteúdo é coerente com o material de origem.
 
-Na demonstração, o professor sobe um PDF sobre 10 tecnologias emergentes de 2024 e solicita a geração do podcast. O modelo produz um episódio de 32 minutos. O podcast gerado inicialmente é em inglês, mas o professor demonstra que é possível solicitar o idioma diretamente durante a conversa interativa, e o sistema responde em português quando instruído.
+Na demonstração, Ruan sobe um PDF sobre 10 tecnologias emergentes de 2024 e solicita a geração do podcast. O modelo produz um episódio de 32 minutos. O podcast gerado inicialmente é em inglês, mas Ruan demonstra que é possível solicitar o idioma diretamente durante a conversa interativa, e o sistema responde em português quando instruído.
 
 ## O modo interativo: você dentro do podcast
 
 O que vai além da geração passiva de conteúdo é o modo interativo do podcast. Nesse modo, você pode participar da conversa com os hosts enquanto o podcast acontece. Você digita mensagens, os hosts respondem em áudio e a conversa se adapta em tempo real ao que você contribui.
 
-A demonstração mostra o professor pedindo para os hosts falarem em português, e eles respondem na língua solicitada, fazendo perguntas para manter a conversa fluindo. O professor então pede para que discutam especificamente o documento sobre tecnologias emergentes de 2024, e os hosts incorporam esse pedido na conversa.
+A demonstração mostra Ruan pedindo para os hosts falarem em português, e eles respondem na língua solicitada, fazendo perguntas para manter a conversa fluindo. Ruan então pede para que discutam especificamente o documento sobre tecnologias emergentes de 2024, e os hosts incorporam esse pedido na conversa.
 
 O modo interativo transforma o NotebookLM de uma ferramenta de geração de conteúdo em uma ferramenta de estudo ativo. Em vez de apenas receber um podcast, você dialoga com ele, aprofunda pontos específicos, pede que determinados temas sejam explorados com mais detalhe e conduz a conversa conforme seu interesse.
 

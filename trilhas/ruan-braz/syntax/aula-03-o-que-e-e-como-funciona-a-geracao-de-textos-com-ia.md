@@ -16,7 +16,7 @@ Ao final desta aula, você será capaz de:
 
 Ruan Braz abre a aula com o que precisa ficar claro antes de qualquer técnica: modelos como ChatGPT, Claude, Gemini e Grok não pensam como seres humanos, não raciocinam como seres humanos e não sentem como seres humanos. Eles são modelos de probabilidade. Cada palavra que você envia é triturada em números, transformada em vetores, e a IA utiliza trilhões de parâmetros desenvolvidos no treinamento para encontrar estatisticamente a resposta mais provável para o que você enviou.
 
-O professor introduz dois termos que aparecem ao longo de toda a trilha: input, a informação que você envia, e output, a informação que a IA devolve. Esses conceitos parecem simples, mas têm implicação direta na qualidade do resultado. A IA não lê o texto como você lê. Ela não sente o texto. Ela não processa com o repertório que você tem. Ela relaciona os números gerados a partir da sua mensagem com todos os pesos que acumulou no treinamento e devolve o que estatisticamente parece mais adequado.
+Ruan introduz dois termos que aparecem ao longo de toda a trilha: input, a informação que você envia, e output, a informação que a IA devolve. Esses conceitos parecem simples, mas têm implicação direta na qualidade do resultado. A IA não lê o texto como você lê. Ela não sente o texto. Ela não processa com o repertório que você tem. Ela relaciona os números gerados a partir da sua mensagem com todos os pesos que acumulou no treinamento e devolve o que estatisticamente parece mais adequado.
 
 ## A IA como espelho
 
@@ -26,17 +26,17 @@ Isso muda a lógica de como usar a ferramenta. O resultado não depende principa
 
 ## Os três motivos pelos quais a IA entrega resultados fracos
 
-Quando o resultado está aquém do esperado, o professor organiza as causas em três categorias.
+Quando o resultado está aquém do esperado, Ruan organiza as causas em três categorias.
 
 O primeiro é maldirecionamento. A informação que você enviou foi confusa ou pouco clara. A IA não errou, ela amplificou o que recebeu. A solução está na clareza do input.
 
-O segundo é limitação técnica. Cada modelo tem uma janela de contexto, que é a quantidade de tokens, ou seja, pedaços de palavras, que ele consegue processar ao mesmo tempo. Quando o texto enviado ultrapassa essa janela, a IA começa a inventar informações para preencher as lacunas do que não consegue mais processar. Isso é o que popularmente se chama de alucinação. Quem quiser se aprofundar nesse aspecto técnico pode acessar as trilhas LLMs e AI First, indicadas pelo professor.
+O segundo é limitação técnica. Cada modelo tem uma janela de contexto, que é a quantidade de tokens, ou seja, pedaços de palavras, que ele consegue processar ao mesmo tempo. Quando o texto enviado ultrapassa essa janela, a IA começa a inventar informações para preencher as lacunas do que não consegue mais processar. Isso é o que popularmente se chama de alucinação. Quem quiser se aprofundar nesse aspecto técnico pode acessar as trilhas LLMs e AI First, indicadas por Ruan.
 
 O terceiro são dados maltratados. Se o material enviado tem informações mal organizadas, inconsistentes ou sem contexto, a IA vai devolver exatamente esse nível de organização. Dados maltratados entram, dados maltratados saem.
 
 ## Sintaxe é colaboração, não delegação
 
-O professor encerra com o conceito que orienta toda a trilha. Sintaxe não é sobre mandar um prompt e deixar a IA escrever tudo. É sobre colaborar: escrever, editar, pedir para escrever de novo, somar o texto gerado com o seu próprio, interpretar estrutura, ritmo e tom.
+Ruan encerra com o conceito que orienta toda a trilha. Sintaxe não é sobre mandar um prompt e deixar a IA escrever tudo. É sobre colaborar: escrever, editar, pedir para escrever de novo, somar o texto gerado com o seu próprio, interpretar estrutura, ritmo e tom.
 
 O benefício duplo disso é que quanto mais você interpreta sobre a estrutura de um bom texto, melhores ficam os seus textos escritos à mão. E quanto mais você interpreta esses elementos, melhor fica o que a IA traz para você. A clareza na cabeça de quem escreve é o que separa um resultado mediano de um resultado acima da média.
 

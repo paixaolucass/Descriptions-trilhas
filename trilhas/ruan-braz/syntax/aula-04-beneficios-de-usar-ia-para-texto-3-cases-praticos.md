@@ -18,11 +18,11 @@ Se o trabalho de organizar as ideias, estruturar o texto e definir os parâmetro
 
 ## Síntese: o processo dialético aplicado à escrita
 
-O primeiro benefício é a síntese, e o professor usa um conceito que os gregos já praticavam há mais de dois mil anos: a dialética. Tese é a ideia central, o conceito que você defende com premissas e dados. Antítese é o lado contrário dessa ideia, os pontos cegos, as falhas que o texto ainda tem. Síntese é o caminho que emerge do confronto entre as duas.
+O primeiro benefício é a síntese, e Ruan usa um conceito que os gregos já praticavam há mais de dois mil anos: a dialética. Tese é a ideia central, o conceito que você defende com premissas e dados. Antítese é o lado contrário dessa ideia, os pontos cegos, as falhas que o texto ainda tem. Síntese é o caminho que emerge do confronto entre as duas.
 
 A maioria das pessoas que escreve simplesmente aceita a própria tese sem questioná-la. Ou aceita sem questionar o que a IA entrega. A proposta aqui é diferente: usar a IA como advogado do diabo. Jogar o texto para ela e pedir que defenda o oposto do que você escreveu, que aponte os furos, que mostre o que você não está vendo. Depois, pedir que ela reúna sua tese com a antítese gerada e construa uma síntese, um caminho mais consistente do que qualquer um dos dois separados.
 
-O professor faz uma ressalva importante: você também precisa exercer a antítese em relação ao que a IA devolve. Questionar a IA é parte do processo. Colaboração funciona nos dois sentidos.
+Ruan faz uma ressalva importante: você também precisa exercer a antítese em relação ao que a IA devolve. Questionar a IA é parte do processo. Colaboração funciona nos dois sentidos.
 
 ## Expansão: derivar ideias em possibilidades
 
@@ -32,7 +32,7 @@ Além das ideias, a expansão vale para o texto em si. Você escreve um manifest
 
 ## Personalização: ajustar ritmo, tom e perspectiva
 
-O terceiro benefício é a personalização. Com a IA, você pode pegar um texto já construído e ajustá-lo para diferentes públicos, ritmos e tons sem reescrever do zero. O professor cita desde exemplos simples, como reescrever algo para uma criança de seis anos ou para um acadêmico de quarenta, até aplicações mais refinadas, como adaptar o texto para um perfil cognitivo específico usando a teoria de Elliot Jacques.
+O terceiro benefício é a personalização. Com a IA, você pode pegar um texto já construído e ajustá-lo para diferentes públicos, ritmos e tons sem reescrever do zero. Ruan cita desde exemplos simples, como reescrever algo para uma criança de seis anos ou para um acadêmico de quarenta, até aplicações mais refinadas, como adaptar o texto para um perfil cognitivo específico usando a teoria de Elliot Jacques.
 
 A personalização também funciona por ângulo e enquadramento. Um mesmo conteúdo pode ser apresentado de formas radicalmente diferentes dependendo do ponto de entrada escolhido. A IA consegue gerar essas variações rapidamente, permitindo que o escritor avalie e escolha o que faz mais sentido para o objetivo.
 
@@ -40,7 +40,7 @@ A personalização também funciona por ângulo e enquadramento. Um mesmo conte�
 
 O quarto benefício é a padronização. Quando você define a identidade verbal de uma marca, seu território de palavras, seu vocabulário, seu estilo de tom e estrutura, pode instruir a IA a manter esses parâmetros em todo o material produzido. O resultado é consistência em escala: trabalhar mais rápido sem perder a cara da marca.
 
-O professor desmonta uma preocupação comum: o texto não precisa parecer gerado por IA. Se o padrão definido usa emojis, usa. Se é sempre rebuscado, é. Se tem marcações específicas de formato, tem. A IA segue os parâmetros que você apresenta. O padrão é seu. A velocidade é dela.
+Ruan desmonta uma preocupação comum: o texto não precisa parecer gerado por IA. Se o padrão definido usa emojis, usa. Se é sempre rebuscado, é. Se tem marcações específicas de formato, tem. A IA segue os parâmetros que você apresenta. O padrão é seu. A velocidade é dela.
 
 ## O objetivo real
 

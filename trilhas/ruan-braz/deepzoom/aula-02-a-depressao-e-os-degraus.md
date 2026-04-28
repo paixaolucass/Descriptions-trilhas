@@ -55,7 +55,7 @@ Essa lógica protege o processo. Ela evita que conceitos básicos sejam question
 
 A abordagem da depressão costuma ter um contato frio com o cliente. O designer envia PDF, evita reunião de alinhamento e trata a comunicação como uma tarefa operacional, muitas vezes usando produtividade como justificativa.
 
-O professor critica essa postura porque ela transfere problema para o cliente. Quando o designer envia um PDF para ser analisado sozinho, o cliente recebe mais uma tarefa: ler, interpretar, responder, revisar e decidir sem condução.
+Ruan critica essa postura porque ela transfere problema para o cliente. Quando o designer envia um PDF para ser analisado sozinho, o cliente recebe mais uma tarefa: ler, interpretar, responder, revisar e decidir sem condução.
 
 As apresentações são tratadas como momentos centrais do projeto. É nelas que o designer envolve o cliente, conduz a conversa, explica critérios, contextualiza decisões e transforma aprovação em diálogo, não em uma tarefa solitária.
 

@@ -20,7 +20,7 @@ O processo é direto: colar os dados completos da ficha, incluindo o mapa de emp
 
 ## O Bruninho responde
 
-O professor demonstra com a persona Bruninho, 18 anos, estudante de publicidade, freelancer de social media. Quando perguntado para se apresentar, Bruninho responde "Mano, beleza, kkk" e conta que está na faculdade, trabalha como freelancer ganhando cerca de R$1.200 por mês, consome muito conteúdo em TikTok, YouTube e Pinterest, e sente pressão para melhorar rápido antes que o mercado mude.
+Ruan demonstra com a persona Bruninho, 18 anos, estudante de publicidade, freelancer de social media. Quando perguntado para se apresentar, Bruninho responde "Mano, beleza, kkk" e conta que está na faculdade, trabalha como freelancer ganhando cerca de R$1.200 por mês, consome muito conteúdo em TikTok, YouTube e Pinterest, e sente pressão para melhorar rápido antes que o mercado mude.
 
 As dores que ele traz na conversa são coerentes com a ficha: ansiedade criativa, medo de comparação com outros criadores, desejo de construir um portfólio com identidade própria mas sem saber por onde começar. A linguagem é de 18 anos. Os medos são os medos que foram documentados na persona.
 
@@ -28,11 +28,11 @@ Isso não é a IA inventando. É a IA executando o ponto de vista que foi constr
 
 ## Validando uma oferta com a persona
 
-O uso mais direto de personas sintéticas de texto é a validação de oferta. O professor simula uma oferta de evento ao vivo sobre criação de agentes de IA, com preço de R$39, e pergunta ao Bruninho o que ele acha.
+O uso mais direto de personas sintéticas de texto é a validação de oferta. Ruan simula uma oferta de evento ao vivo sobre criação de agentes de IA, com preço de R$39, e pergunta ao Bruninho o que ele acha.
 
-A resposta não é entusiasmo imediato. Bruninho traz objeções reais: medo de comprar um curso barato, ficar empolgado, assistir metade e não aplicar nada, sentindo-se ainda mais atrasado do que antes. Quando o professor menciona que é evento ao vivo e não gravado, o interesse aumenta, mas o Bruninho ainda questiona se vai sair com algo concreto, algo que funciona de verdade.
+A resposta não é entusiasmo imediato. Bruninho traz objeções reais: medo de comprar um curso barato, ficar empolgado, assistir metade e não aplicar nada, sentindo-se ainda mais atrasado do que antes. Quando Ruan menciona que é evento ao vivo e não gravado, o interesse aumenta, mas o Bruninho ainda questiona se vai sair com algo concreto, algo que funciona de verdade.
 
-Essas objeções não foram inventadas pelo professor. Elas vieram da persona. E são as mesmas objeções que apareceriam em uma conversa real com alguém do perfil do Bruninho. A diferença é que com a persona sintética isso acontece antes do lançamento, quando ainda dá para ajustar a oferta.
+Essas objeções não foram inventadas por Ruan. Elas vieram da persona. E são as mesmas objeções que apareceriam em uma conversa real com alguém do perfil do Bruninho. A diferença é que com a persona sintética isso acontece antes do lançamento, quando ainda dá para ajustar a oferta.
 
 ## Personas diferentes, respostas diferentes
 
@@ -44,7 +44,7 @@ Esse contraste é o ponto central da aula: personas sintéticas de texto não se
 
 ## Casos de uso além da validação de oferta
 
-O professor apresenta outros usos práticos da persona sintética de texto: testar copy de página de vendas antes de publicar, identificar objeções não mapeadas em anúncios, refinar o produto com base em feedback simulado e treinar equipes de vendas simulando conversas com diferentes perfis de comprador.
+Ruan apresenta outros usos práticos da persona sintética de texto: testar copy de página de vendas antes de publicar, identificar objeções não mapeadas em anúncios, refinar o produto com base em feedback simulado e treinar equipes de vendas simulando conversas com diferentes perfis de comprador.
 
 Qualquer situação onde você precisaria de um leitor ou interlocutor com características específicas para avaliar algo pode ser simulada com uma persona sintética de texto bem construída.
 

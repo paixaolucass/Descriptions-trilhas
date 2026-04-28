@@ -31,7 +31,7 @@ A documentação do Midjourney é citada como referência de qualidade. Com meia
 
 As red flags em documentação: documentação disponível apenas em chinês sem tradução (risco de usar parâmetros sem saber o que fazem), ausência de changelog ao lançar novas versões (você não sabe o que mudou), e exemplos de prompt genéricos que não diferenciam a ferramenta de qualquer outra.
 
-Uma observação direta do professor: bibliotecas de prompt vendidas por influenciadores não têm valor real. O que as melhores ferramentas já entregam gratuitamente na documentação oficial é mais completo do que qualquer lista paga. Você pode montar uma biblioteca de prompt em 5 minutos usando a própria documentação da ferramenta.
+Uma observação direta de Ruan: bibliotecas de prompt vendidas por influenciadores não têm valor real. O que as melhores ferramentas já entregam gratuitamente na documentação oficial é mais completo do que qualquer lista paga. Você pode montar uma biblioteca de prompt em 5 minutos usando a própria documentação da ferramenta.
 
 ## Critério 2: Dados e transparência
 

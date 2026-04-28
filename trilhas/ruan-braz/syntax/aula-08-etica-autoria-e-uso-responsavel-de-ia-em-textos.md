@@ -14,7 +14,7 @@ Ao final desta aula, você será capaz de:
 
 ## O texto tem poder
 
-A aula abre com uma afirmação direta: ética significa interpretar que suas ações têm consequências no mundo e na vida de outras pessoas. O professor reconhece que pode parecer exagerado conectar ética à produção de textos, mas é exatamente esse raciocínio que a aula questiona.
+A aula abre com uma afirmação direta: ética significa interpretar que suas ações têm consequências no mundo e na vida de outras pessoas. Ruan reconhece que pode parecer exagerado conectar ética à produção de textos, mas é exatamente esse raciocínio que a aula questiona.
 
 Um texto tem poder imenso para mudar nações inteiras. Bons textos podem edificar pessoas e guiá-las para conquistas reais. Textos ruins podem destruir vidas, enganar, desorientar. E com ferramentas de IA que permitem gerar conteúdo convincente em velocidade nunca vista, a responsabilidade de quem escreve aumenta, não diminui.
 
@@ -22,15 +22,15 @@ O exemplo mais óbvio é a desinformação: qualquer pessoa pode entrar em um mo
 
 ## Ética e moral: a distinção que importa
 
-O professor distingue dois conceitos que costumam ser usados como sinônimos. Ética é o estudo das consequências: o que as suas ações geram no mundo e na vida de outras pessoas. Moral é sobre o que é certo e o que é errado, e isso varia de pessoa para pessoa.
+Ruan distingue dois conceitos que costumam ser usados como sinônimos. Ética é o estudo das consequências: o que as suas ações geram no mundo e na vida de outras pessoas. Moral é sobre o que é certo e o que é errado, e isso varia de pessoa para pessoa.
 
-O professor não entra em relativismo moral, mas reconhece que as pessoas têm referências diferentes. O critério que ele propõe é simples: se todo mundo no mundo fizesse o mesmo que você está fazendo, teríamos um mundo que avança ou um mundo que regride? Essa pergunta não resolve todos os dilemas, mas coloca a decisão em perspectiva.
+Ruan não entra em relativismo moral, mas reconhece que as pessoas têm referências diferentes. O critério que ele propõe é simples: se todo mundo no mundo fizesse o mesmo que você está fazendo, teríamos um mundo que avança ou um mundo que regride? Essa pergunta não resolve todos os dilemas, mas coloca a decisão em perspectiva.
 
 O ponto de partida é claro: seus direitos terminam quando começam os direitos de outra pessoa. Quando um texto começa a afetar negativamente a vida de alguém, é hora de parar e pensar.
 
 ## Ninguém é imune à desinformação
 
-O professor antecipa uma objeção comum: quem vai ser enganado por um texto são as pessoas menos críticas, não quem tem repertório e inteligência para filtrar.
+Ruan antecipa uma objeção comum: quem vai ser enganado por um texto são as pessoas menos críticas, não quem tem repertório e inteligência para filtrar.
 
 A resposta vem com um exemplo: Steve Jobs. Um dos líderes mais celebrados por sua inteligência, visão e capacidade de inovação, Jobs perdeu anos de sua vida seguindo uma dieta de cenoura acreditando que ela curaria seu câncer. Alguém, em algum lugar, o convenceu de que aquilo funcionaria. Ele abriu mão de outros tratamentos. Aqueles anos foram tomados dele.
 
@@ -38,7 +38,7 @@ Se Steve Jobs não era imune, ninguém é. O cérebro humano é facilmente envie
 
 ## A escala do impacto
 
-O professor escala o argumento para além de conteúdo obviamente manipulatório. Um manual mal escrito pode ser a diferença entre usar um eletrodoméstico de forma segura ou de forma que coloca a vida em risco. Um texto com informação errada pode levar uma pessoa a tomar uma decisão que vai em uma direção completamente errada.
+Ruan escala o argumento para além de conteúdo obviamente manipulatório. Um manual mal escrito pode ser a diferença entre usar um eletrodoméstico de forma segura ou de forma que coloca a vida em risco. Um texto com informação errada pode levar uma pessoa a tomar uma decisão que vai em uma direção completamente errada.
 
 Escrever é sempre sobre influenciar, guiar, persuadir, mesmo quando o objetivo parece neutro ou puramente informativo. A clareza de um texto tem consequências reais.
 
@@ -52,7 +52,7 @@ Essas perguntas não limitam o que pode ser feito. Elas garantem que quem escrev
 
 ## Para quem esse curso é e para quem não é
 
-O professor encerra com uma posição direta. Se a intenção por trás do texto é manipular, extorquir ou tirar das pessoas o que elas não têm, esse curso não é para quem tem esse objetivo. Ele diz isso sem rodeios: esse conteúdo não foi feito para servir a esse uso.
+Ruan encerra com uma posição direta. Se a intenção por trás do texto é manipular, extorquir ou tirar das pessoas o que elas não têm, esse curso não é para quem tem esse objetivo. Ele diz isso sem rodeios: esse conteúdo não foi feito para servir a esse uso.
 
 Para quem quer usar o que aprende para ajudar, para fazer diferença, para escrever com responsabilidade, sabendo que cada texto precisa de revisão e que existe uma responsabilidade real naquilo que é publicado, o curso começa agora. O primeiro módulo propriamente dito começa após essa introdução.
 

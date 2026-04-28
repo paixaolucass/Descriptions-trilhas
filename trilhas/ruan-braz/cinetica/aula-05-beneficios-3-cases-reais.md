@@ -15,9 +15,9 @@ Ao final desta aula, você será capaz de:
 
 ## Contexto: por que os vídeos das páginas estão imperfeitos
 
-Antes de entrar nos cases, o professor retoma um ponto introduzido na primeira aula. Os vídeos que ilustram as páginas da documentação da plataforma foram gerados por agentes de IA sem instrução editorial. Ele colocou aproximadamente 20 agentes em paralelização, cada um responsável por gerar um vídeo para uma página. Em cinco a dez minutos, todas as páginas tinham um vídeo.
+Antes de entrar nos cases, Ruan retoma um ponto introduzido na primeira aula. Os vídeos que ilustram as páginas da documentação da plataforma foram gerados por agentes de IA sem instrução editorial. Ele colocou aproximadamente 20 agentes em paralelização, cada um responsável por gerar um vídeo para uma página. Em cinco a dez minutos, todas as páginas tinham um vídeo.
 
-O resultado é visivelmente automatizado: artefatos visuais, movimentos estranhos, qualidade desigual entre os clipes. O professor aponta um dos vídeos que abriu com uma tela cheia de artefatos, "nada a ver", e comenta que dá para ver nitidamente que é uma IA. Mas ele enfatiza o ponto principal: isso foi feito de forma massiva, em minutos, sem instrução de prompt. A qualidade sobe significativamente quando se aplica a estrutura que a trilha vai ensinar.
+O resultado é visivelmente automatizado: artefatos visuais, movimentos estranhos, qualidade desigual entre os clipes. Ruan aponta um dos vídeos que abriu com uma tela cheia de artefatos, "nada a ver", e comenta que dá para ver nitidamente que é uma IA. Mas ele enfatiza o ponto principal: isso foi feito de forma massiva, em minutos, sem instrução de prompt. A qualidade sobe significativamente quando se aplica a estrutura que a trilha vai ensinar.
 
 Esse contexto reforça que os cases a seguir não são ficção científica. O que os três personagens fizeram já é possível com as ferramentas disponíveis hoje.
 
@@ -25,17 +25,17 @@ Esse contexto reforça que os cases a seguir não são ficção científica. O q
 
 Carlos tinha um objetivo claro: lançar um curso online e gerar renda passiva. O problema estava no processo de produção. Ele travava na hora de gravar porque não tinha uma câmera boa, sentia timidez na frente da lente e levava horas para editar um vídeo de apenas cinco minutos. O custo de tempo e desconforto tornava o projeto inviável.
 
-A solução que Carlos adotou foi contratar uma plataforma de criação de avatar. O professor cita duas opções existentes no mercado: Synthesia e HeyGen. O processo funcionou assim: Carlos escreveu os roteiros das aulas e usou um avatar realista gerado pela plataforma para apresentar o conteúdo no lugar dele. Além disso, ele usou IA para traduzir instantaneamente pequenos vídeos com a voz dele, sincronizando o áudio em outro idioma sem precisar regravar.
+A solução que Carlos adotou foi contratar uma plataforma de criação de avatar. Ruan cita duas opções existentes no mercado: Synthesia e HeyGen. O processo funcionou assim: Carlos escreveu os roteiros das aulas e usou um avatar realista gerado pela plataforma para apresentar o conteúdo no lugar dele. Além disso, ele usou IA para traduzir instantaneamente pequenos vídeos com a voz dele, sincronizando o áudio em outro idioma sem precisar regravar.
 
-O resultado: Carlos levou três semanas para concluir o curso. Gastou zero reais com equipamento. Manteve 100% da agenda de aulas presenciais sem conflito. E realizou duas vendas do produto ao lançar. São dados fictícios no contexto da aula, mas o professor deixa claro que representam possibilidades reais, não hipóteses. E menciona que a Overlens vai ter uma trilha inteira específica para criação de persona sintética, chamada Synthetic, que aprofunda exatamente esse processo.
+O resultado: Carlos levou três semanas para concluir o curso. Gastou zero reais com equipamento. Manteve 100% da agenda de aulas presenciais sem conflito. E realizou duas vendas do produto ao lançar. São dados fictícios no contexto da aula, mas Ruan deixa claro que representam possibilidades reais, não hipóteses. E menciona que a Overlens vai ter uma trilha inteira específica para criação de persona sintética, chamada Synthetic, que aprofunda exatamente esse processo.
 
 ## Case 2 - Mariana, dona de boutique que precisava de Reels diários
 
 O desafio de Mariana era de volume e tempo. Para vender no Instagram, ela precisava postar Reels com frequência mostrando os looks da loja. Mas o processo artesanal era pesado: provar cada peça, gravar, editar, adicionar legendas. Isso consumia mais tempo do que gerir a própria loja, que era o negócio dela de fato.
 
-A solução foi usar ferramentas de geração de vídeo a partir de imagens estáticas. O professor cita especificamente o Runway e o Pika Labs, sendo que ele se diverte ao mencionar o nome do segundo: "PicaLabs, Laboratório de Picas, do Pikachu, né? Realmente foi inspirado no Pikachu." Com essas ferramentas, Mariana passou a tirar fotos simples das roupas no cabide, sem precisar vestir nada, e gerar vídeos dinâmicos com modelos usando as peças, transições de moda e fundos personalizados, prontos para publicar como Reels.
+A solução foi usar ferramentas de geração de vídeo a partir de imagens estáticas. Ruan cita especificamente o Runway e o Pika Labs, sendo que ele se diverte ao mencionar o nome do segundo: "PicaLabs, Laboratório de Picas, do Pikachu, né? Realmente foi inspirado no Pikachu." Com essas ferramentas, Mariana passou a tirar fotos simples das roupas no cabide, sem precisar vestir nada, e gerar vídeos dinâmicos com modelos usando as peças, transições de moda e fundos personalizados, prontos para publicar como Reels.
 
-O professor traz um exemplo ainda mais sofisticado que já está acontecendo no mercado: pegar um vídeo viral de uma pessoa dançando, trocar o modelo do vídeo mantendo o movimento exato da dança, e colocar a peça de roupa da loja no novo modelo. O resultado é um Reel com uma dança que já viraliza, mas com seu produto como protagonista. O professor faz uma observação ética importante aqui: para usar o vídeo de outra pessoa como base, é necessário pedir permissão ou comprar os direitos. Não é possível simplesmente clonar o movimento de alguém sem autorização.
+Ruan traz um exemplo ainda mais sofisticado que já está acontecendo no mercado: pegar um vídeo viral de uma pessoa dançando, trocar o modelo do vídeo mantendo o movimento exato da dança, e colocar a peça de roupa da loja no novo modelo. O resultado é um Reel com uma dança que já viraliza, mas com seu produto como protagonista. Ruan faz uma observação ética importante aqui: para usar o vídeo de outra pessoa como base, é necessário pedir permissão ou comprar os direitos. Não é possível simplesmente clonar o movimento de alguém sem autorização.
 
 O resultado para Mariana: redução de quatro horas para uma hora de trabalho por conteúdo, crescimento de 30% nas vendas online e aumento no engajamento. Dados fictícios, mas plausíveis e baseados em padrões reais.
 
@@ -49,13 +49,13 @@ O resultado: Roberto entregou vídeos com qualidade profissional, narração per
 
 ## O que os três cases têm em comum
 
-O professor fecha os cases com uma leitura transversal importante. Carlos, Mariana e Roberto são profissionais autônomos. Mas o professor vira a perspectiva para o aluno que trabalha como designer, videomaker ou produtor visual: esses profissionais não vão deixar de ser necessários. O que vai mudar é o que eles precisam saber fazer.
+Ruan fecha os cases com uma leitura transversal importante. Carlos, Mariana e Roberto são profissionais autônomos. Mas Ruan vira a perspectiva para o aluno que trabalha como designer, videomaker ou produtor visual: esses profissionais não vão deixar de ser necessários. O que vai mudar é o que eles precisam saber fazer.
 
-Um designer que aprende a usar agentes de IA consegue entregar o que antes precisaria de 20 ou 30 designers. O professor afirma isso com base direta na experiência da Overlens, onde a equipe tem dez pessoas e boa parte das tarefas operacionais já foi realocada para IA. As pessoas da equipe passaram a fazer o que a IA não faz: curadoria, tomada de decisão e o lado humano do processo.
+Um designer que aprende a usar agentes de IA consegue entregar o que antes precisaria de 20 ou 30 designers. Ruan afirma isso com base direta na experiência da Overlens, onde a equipe tem dez pessoas e boa parte das tarefas operacionais já foi realocada para IA. As pessoas da equipe passaram a fazer o que a IA não faz: curadoria, tomada de decisão e o lado humano do processo.
 
 ## Os quatro impactos que resumem os benefícios
 
-No encerramento da aula, o professor lista quatro impactos que sintetizam o que os cases demonstram: eliminar barreiras técnicas, vencer o tempo de desbloqueio, liberar tempo e aumentar a competitividade. Esses quatro pontos foram trabalhados individualmente em aulas anteriores, e os cases desta aula servem para mostrar como eles se materializam em situações reais de mercado.
+No encerramento da aula, Ruan lista quatro impactos que sintetizam o que os cases demonstram: eliminar barreiras técnicas, vencer o tempo de desbloqueio, liberar tempo e aumentar a competitividade. Esses quatro pontos foram trabalhados individualmente em aulas anteriores, e os cases desta aula servem para mostrar como eles se materializam em situações reais de mercado.
 
 A mensagem final é direta: no momento em que esta aula foi gravada, existe uma oportunidade gigante para quem usa essas ferramentas para resolver problemas no mercado, fazer entregas melhores com mais velocidade e manter qualidade a um custo menor. Essa janela existe porque a maioria ainda não está usando a IA de forma profissional.
 

@@ -16,7 +16,7 @@ Ao final desta aula, você será capaz de:
 
 Um assistente de IA é um agente configurado com instruções fixas para cumprir uma função específica. A vantagem prática é simples: ao invés de reescrever o prompt toda vez que você precisa de uma revisão de texto, uma derivação de conteúdo ou uma análise de público, você cria o assistente uma vez e só clica nele para usar.
 
-O professor exemplifica com funções que podem ser delegadas a assistentes distintos: gerar ideias, validar ideias, derivar conteúdo, revisar texto, escrever e-mails, criar manifestos, gerar nomes, revisar posts. Cada assistente fica configurado com o papel que deve cumprir e o comportamento que deve ter.
+Ruan exemplifica com funções que podem ser delegadas a assistentes distintos: gerar ideias, validar ideias, derivar conteúdo, revisar texto, escrever e-mails, criar manifestos, gerar nomes, revisar posts. Cada assistente fica configurado com o papel que deve cumprir e o comportamento que deve ter.
 
 ## GPTs no ChatGPT
 
@@ -24,7 +24,7 @@ A principal plataforma de assistentes na aula é o ChatGPT. Acessando chatgpt.co
 
 Para criar um GPT próprio, o processo exige: nome, descrição e instruções, um texto que diz exatamente como você quer que o assistente se comporte, em que tom escreve, quais são os seus limites, como ele deve responder.
 
-O professor mostra como criou GPTs para as quatro personas da Overlens, incluindo um chamado Under. A instrução do assistente contém a persona completa: história, tom de voz, vocabulário típico, frases recorrentes, o que a persona vê, ouve, pensa e sente, como age. Com esse nível de detalhe, é possível conversar com o assistente como se fosse a própria persona, e usar isso para testar se um texto faz sentido para aquele público específico.
+Ruan mostra como criou GPTs para as quatro personas da Overlens, incluindo um chamado Under. A instrução do assistente contém a persona completa: história, tom de voz, vocabulário típico, frases recorrentes, o que a persona vê, ouve, pensa e sente, como age. Com esse nível de detalhe, é possível conversar com o assistente como se fosse a própria persona, e usar isso para testar se um texto faz sentido para aquele público específico.
 
 Essa abordagem também funciona para personagens de histórias: criar o personagem como GPT permite conversar com ele e verificar coerência de fala, comportamento e identidade ao longo de uma narrativa.
 
@@ -56,7 +56,7 @@ A diferença principal em relação ao Character.AI é a sofisticação da instr
 
 ## O valor dos assistentes no processo de escrita
 
-A conclusão do professor é direta: assistentes de IA não são agentes que fazem o trabalho todo no lugar de quem escreve. São ferramentas que eliminam as partes repetitivas do processo, revisão, derivação, análise de público, geração de variações, sem que o usuário precise reconfigurar o contexto toda vez.
+A conclusão de Ruan é direta: assistentes de IA não são agentes que fazem o trabalho todo no lugar de quem escreve. São ferramentas que eliminam as partes repetitivas do processo, revisão, derivação, análise de público, geração de variações, sem que o usuário precise reconfigurar o contexto toda vez.
 
 GPTs e Gems são os mais customizáveis e adequados para uso profissional. Character.AI e Delphi abrem uma dimensão diferente: a de conversar com personas para testar perspectivas, estilos e coerência narrativa de um ponto de vista externo.
 

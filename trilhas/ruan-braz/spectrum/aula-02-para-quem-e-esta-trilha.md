@@ -44,7 +44,7 @@ Para nexialistas, o curso também é relevante, mas por uma perspectiva mais amp
 
 ## Uma informação importante sobre o futuro do processo
 
-O professor faz questão de deixar claro que tudo que será ensinado ao longo da trilha, cada técnica, cada etapa, já é hoje executado por agentes de IA no próprio fluxo de trabalho dele. O aluno vai aprender a fazer manualmente primeiro, porque isso é necessário para dominar o processo. Mas o nível em que a Overlens já opera é o de delegar essas tarefas para agentes e robôs próprios. O professor tem seus próprios agentes, seus próprios fluxos automatizados, e eles executam essas etapas por comando.
+Ruan faz questão de deixar claro que tudo que será ensinado ao longo da trilha, cada técnica, cada etapa, já é hoje executado por agentes de IA no próprio fluxo de trabalho dele. O aluno vai aprender a fazer manualmente primeiro, porque isso é necessário para dominar o processo. Mas o nível em que a Overlens já opera é o de delegar essas tarefas para agentes e robôs próprios. Ruan tem seus próprios agentes, seus próprios fluxos automatizados, e eles executam essas etapas por comando.
 
 Essa informação é dada como orientação de direção, não para desanimar quem está começando. A tendência do mercado é que a complexidade de certos prompts e fluxos vá diminuindo à medida que os agentes se tornam mais capazes. Quem aprende o processo hoje estará posicionado para delegar esse processo amanhã.
 

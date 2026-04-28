@@ -65,7 +65,7 @@ Vídeo 360° e mundos imersivos: mais avançado, não recomendado como ponto de 
 
 ## O que muda com o avanço dos modelos
 
-O professor destaca um ponto importante: cada vez mais as ferramentas de IA têm se tornado mais simples de usar. O que diferencia um produtor hoje não é o domínio técnico da ferramenta em si, mas a qualidade das ideias que você traz para a ferramenta. Saber o tipo certo de vídeo para cada objetivo já é uma vantagem competitiva real, porque a maioria das pessoas simplesmente escolhe a ferramenta sem pensar no formato.
+Ruan destaca um ponto importante: cada vez mais as ferramentas de IA têm se tornado mais simples de usar. O que diferencia um produtor hoje não é o domínio técnico da ferramenta em si, mas a qualidade das ideias que você traz para a ferramenta. Saber o tipo certo de vídeo para cada objetivo já é uma vantagem competitiva real, porque a maioria das pessoas simplesmente escolhe a ferramenta sem pensar no formato.
 
 ## Coloque em prática
 

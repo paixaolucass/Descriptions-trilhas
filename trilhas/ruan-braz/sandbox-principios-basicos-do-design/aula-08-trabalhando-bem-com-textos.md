@@ -37,7 +37,7 @@ O processo descrito: o designer começa com um briefing extenso e vai sintetizan
 
 ## Demonstração: o site atual da Apple como referência
 
-Para ilustrar a regra do texto mínimo, o professor abriu o site da Apple como referência contemporânea. O que se vê: pouquíssimo texto, muito visual, hierarquia clara. Em poucos segundos já se tem uma sensação e uma mensagem. Quem quiser se aprofundar clica em "ler mais".
+Para ilustrar a regra do texto mínimo, Ruan abriu o site da Apple como referência contemporânea. O que se vê: pouquíssimo texto, muito visual, hierarquia clara. Em poucos segundos já se tem uma sensação e uma mensagem. Quem quiser se aprofundar clica em "ler mais".
 
 O design da página inteira segue essa lógica: um parágrafo por seção, bem hierarquizado, com imagens e vídeos bem construídos. Cada palavra foi escolhida a dedo. O próprio ChatGPT pode ser usado para ajudar a tornar um texto mais simples e mais curto. Mas o processo de curadoria e síntese é do designer.
 
@@ -45,7 +45,7 @@ O design da página inteira segue essa lógica: um parágrafo por seção, bem h
 
 ## Demonstração: a evolução dos anúncios antigos da Apple
 
-Em seguida, o professor fez uma engenharia reversa buscando anúncios antigos da Apple para comparação. Os anúncios mais antigos tinham volumes altos de texto, imagens pequenas e pouco pensamento conceitual. Eram comuns naquele contexto de revista, onde o leitor tinha disposição para ler. Mas não havia conceito visual, não havia envolvimento, não havia síntese.
+Em seguida, Ruan fez uma engenharia reversa buscando anúncios antigos da Apple para comparação. Os anúncios mais antigos tinham volumes altos de texto, imagens pequenas e pouco pensamento conceitual. Eram comuns naquele contexto de revista, onde o leitor tinha disposição para ler. Mas não havia conceito visual, não havia envolvimento, não havia síntese.
 
 A própria Apple foi evoluindo e deixou esse formato para trás. Os anúncios passaram a ter imagens dominantes e texto mínimo, mesmo continuando a ser veiculados em revistas. A conclusão: a regra do texto mínimo não é inquebrável, mas funciona na grande maioria dos projetos. E a maior empresa do mundo chegou a esse padrão por décadas de aprendizado, não por acidente.
 
@@ -53,11 +53,11 @@ A própria Apple foi evoluindo e deixou esse formato para trás. Os anúncios pa
 
 ## Demonstração: gerando texto e imagem para um anúncio com IA
 
-A aula demonstrou como usar o ChatGPT para criar o texto de um anúncio de página inteira em revista para uma marca de água de coco chamada Soco. O professor passou para a IA a marca e o objetivo: criar um anúncio com conteúdo listando os benefícios da água de coco em tópicos.
+A aula demonstrou como usar o ChatGPT para criar o texto de um anúncio de página inteira em revista para uma marca de água de coco chamada Soco. Ruan passou para a IA a marca e o objetivo: criar um anúncio com conteúdo listando os benefícios da água de coco em tópicos.
 
-O resultado gerado pelo ChatGPT já incluía hierarquia: título, subtítulo e tópicos com estrutura escaneável, o que facilita a leitura rápida. A IA também sugeriu um slogan: "Só coco, pura como a natureza fez." O professor aprovou e comentou que seria possível gerar mais opções com o mesmo comando.
+O resultado gerado pelo ChatGPT já incluía hierarquia: título, subtítulo e tópicos com estrutura escaneável, o que facilita a leitura rápida. A IA também sugeriu um slogan: "Só coco, pura como a natureza fez." Ruan aprovou e comentou que seria possível gerar mais opções com o mesmo comando.
 
-Em seguida, o professor pediu ao ChatGPT para gerar uma imagem: um coco na praia com um coqueiro desfocado ao fundo. A imagem foi gerada e considerada adequada. O texto final proposto para o anúncio foi: "Pura como a natureza fez. Só Coco. Refresque seu corpo e mente com o sabor e os benefícios da água de coco 100% natural." Esse conjunto de texto curto sobre imagem representa um anúncio que vende uma ideia emocional de forma rápida.
+Em seguida, Ruan pediu ao ChatGPT para gerar uma imagem: um coco na praia com um coqueiro desfocado ao fundo. A imagem foi gerada e considerada adequada. O texto final proposto para o anúncio foi: "Pura como a natureza fez. Só Coco. Refresque seu corpo e mente com o sabor e os benefícios da água de coco 100% natural." Esse conjunto de texto curto sobre imagem representa um anúncio que vende uma ideia emocional de forma rápida.
 
 *Para ver a demonstração completa no ChatGPT, assista a partir de 07:20 no vídeo.*
 

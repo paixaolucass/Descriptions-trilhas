@@ -15,9 +15,9 @@ Ao final desta aula, você será capaz de:
 
 ## O que uma fonte comunica além das palavras
 
-Fontes são um dos recursos mais importantes no design visual e no design gráfico. Além do significado próprio das palavras, existe o que o professor chama de significado semiológico: a sensação que a forma de uma letra transmite a quem a observa. Uma letra pontuda, quadrada ou redonda produz impressões distintas antes mesmo de o leitor processar o conteúdo escrito.
+Fontes são um dos recursos mais importantes no design visual e no design gráfico. Além do significado próprio das palavras, existe o que Ruan chama de significado semiológico: a sensação que a forma de uma letra transmite a quem a observa. Uma letra pontuda, quadrada ou redonda produz impressões distintas antes mesmo de o leitor processar o conteúdo escrito.
 
-Essa camada invisível de comunicação é o que diferencia o uso consciente das fontes. O professor demonstra com um exemplo direto: a frase "vou te encontrar" escrita em uma fonte de traços agressivos parece uma ameaça, enquanto a mesma frase em outra fonte perde completamente esse efeito. O subtexto não está na palavra, está na forma da letra.
+Essa camada invisível de comunicação é o que diferencia o uso consciente das fontes. Ruan demonstra com um exemplo direto: a frase "vou te encontrar" escrita em uma fonte de traços agressivos parece uma ameaça, enquanto a mesma frase em outra fonte perde completamente esse efeito. O subtexto não está na palavra, está na forma da letra.
 
 Saber utilizar fontes com essa consciência é uma habilidade técnica e comunicativa. Nos módulos avançados, o tema é tratado com muito mais profundidade. O foco desta aula é estabelecer as diretrizes práticas para quem está começando.
 
@@ -57,21 +57,21 @@ Por isso, ao salvar um arquivo fechado para o cliente, a orientação é convert
 
 O designer iniciante vai rapidamente sentir vontade de baixar novas fontes. Antes de qualquer busca, é fundamental entender que a qualidade de uma fonte varia muito dependendo de onde ela vem. Fontes mal construídas comprometem o projeto inteiro, gerando problemas de espaçamento, legibilidade e acabamento.
 
-Sites como o DaFont são amplamente conhecidos, mas hospedam um volume grande de fontes criadas sem rigor técnico. Para quem está começando, o risco de escolher uma fonte problemática é alto. A recomendação do professor é clara: evitar sites sem curadoria e focar em fontes clássicas ou fontes vindas de origens confiáveis.
+Sites como o DaFont são amplamente conhecidos, mas hospedam um volume grande de fontes criadas sem rigor técnico. Para quem está começando, o risco de escolher uma fonte problemática é alto. A recomendação de Ruan é clara: evitar sites sem curadoria e focar em fontes clássicas ou fontes vindas de origens confiáveis.
 
 Para fontes gratuitas com qualidade garantida, o Google Fonts é o ponto de partida indicado. A plataforma tem curadoria ativa e um acervo que continua crescendo. A limitação é a exclusividade: como todo designer tem acesso às mesmas fontes, é difícil criar algo que não remeta a outros projetos.
 
 ## MyFonts e o modelo de licença comercial
 
-Para projetos que exigem mais personalidade ou exclusividade, o professor indica o MyFonts como referência de plataforma paga. Lá, o designer compra a licença de uso de uma fonte específica, o que garante qualidade e clareza sobre os direitos de uso.
+Para projetos que exigem mais personalidade ou exclusividade, Ruan indica o MyFonts como referência de plataforma paga. Lá, o designer compra a licença de uso de uma fonte específica, o que garante qualidade e clareza sobre os direitos de uso.
 
-O custo da licença é um elemento que precisa entrar no orçamento do projeto. O professor usa como exemplo uma fonte com preço de R$170,00. Esse valor pode ser repassado ao cliente, que passa a ser o titular da licença. O modelo de licença no MyFonts também varia conforme o número de computadores, o uso em web, em aplicativos, em documentos eletrônicos como e-books, em servidores e em e-mails. Cada contexto tem uma licença diferente, com preços distintos.
+O custo da licença é um elemento que precisa entrar no orçamento do projeto. Ruan usa como exemplo uma fonte com preço de R$170,00. Esse valor pode ser repassado ao cliente, que passa a ser o titular da licença. O modelo de licença no MyFonts também varia conforme o número de computadores, o uso em web, em aplicativos, em documentos eletrônicos como e-books, em servidores e em e-mails. Cada contexto tem uma licença diferente, com preços distintos.
 
 Saber diferenciar as modalidades de licença evita problemas legais e define com clareza o que o cliente está comprando. Um peso da família tipográfica tem um preço; a família completa tem outro. Essas variáveis fazem parte da negociação e do orçamento profissional.
 
 ## A importância de construir com fontes de qualidade
 
-Fontes e cores são, juntas, a base de qualquer identidade visual. O professor menciona diretamente a aula de simplicidade no módulo de princípios para reforçar isso: projetos construídos apenas com uma boa paleta de cores e uma boa família tipográfica já produzem resultados notáveis. A escolha das fontes, portanto, não é um detalhe: é uma decisão estrutural do projeto.
+Fontes e cores são, juntas, a base de qualquer identidade visual. Ruan menciona diretamente a aula de simplicidade no módulo de princípios para reforçar isso: projetos construídos apenas com uma boa paleta de cores e uma boa família tipográfica já produzem resultados notáveis. A escolha das fontes, portanto, não é um detalhe: é uma decisão estrutural do projeto.
 
 O recado desta aula é objetivo. A qualidade das fontes que o designer escolhe determina a qualidade do trabalho que ele entrega. Começar com fontes clássicas, usar plataformas com curadoria e entender as licenças são três práticas que evitam erros comuns e elevam o padrão dos projetos desde o início.
 

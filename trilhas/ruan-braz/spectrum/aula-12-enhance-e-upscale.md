@@ -14,7 +14,7 @@ Ao final desta aula, você será capaz de:
 
 ## O que são enhance e upscale e por que são etapas distintas
 
-O professor abre a aula explicando que nem sempre é o mesmo modelo de IA que gera e que melhora uma imagem. Modelos diferentes são treinados de maneiras diferentes, e algumas ferramentas são especializadas exclusivamente em melhoramento ou ampliação de imagens, sem capacidade de geração original.
+Ruan abre a aula explicando que nem sempre é o mesmo modelo de IA que gera e que melhora uma imagem. Modelos diferentes são treinados de maneiras diferentes, e algumas ferramentas são especializadas exclusivamente em melhoramento ou ampliação de imagens, sem capacidade de geração original.
 
 Enhance é o termo usado para melhorar uma imagem. Se você traduzir a palavra ao pé da letra, o resultado é justamente "melhorar". No contexto prático, melhorar uma imagem significa resolver problemas como desfoque não intencional, baixa nitidez, falta de detalhes em áreas específicas como pele ou texturas, ou qualidade visual insatisfatória causada por limitações do modelo que a gerou originalmente. O enhance atua sobre esses problemas aplicando inteligência artificial para refinar o que está lá.
 
@@ -24,13 +24,13 @@ A ferramenta de upscale resolve esse problema de uma forma diferente: em vez de 
 
 ## Enhancor: especializado em pele, achado pela equipe Overlens
 
-A primeira ferramenta apresentada é o Enhancor. O professor deixa claro que ela não é famosa, mas foi um achado para a equipe da Overlens, que a usa com frequência. É uma ferramenta paga, o que significa que não vai servir para todos os casos e é recomendada apenas para quem tem orçamento disponível.
+A primeira ferramenta apresentada é o Enhancor. Ruan deixa claro que ela não é famosa, mas foi um achado para a equipe da Overlens, que a usa com frequência. É uma ferramenta paga, o que significa que não vai servir para todos os casos e é recomendada apenas para quem tem orçamento disponível.
 
 O diferencial do Enhancor é a especialização em pele humana. A equipe criou uma ferramenta focada especificamente nesse tipo de elemento visual, o que a torna especialmente eficiente quando se trabalha com imagens de pessoas. O resultado visível é uma imagem de IA que, após passar pelo Enhancor, apresenta uma pele com mais textura, mais realismo e mais detalhamento.
 
-O professor demonstra o funcionamento ao vivo: você tem uma imagem de IA e, após o processamento, consegue deixá-la significativamente mais interessante. A ferramenta adiciona elementos como imperfeições de pele, cicatrizes sutis e variações de textura que tornam o resultado mais humano e menos sintético.
+Ruan demonstra o funcionamento ao vivo: você tem uma imagem de IA e, após o processamento, consegue deixá-la significativamente mais interessante. A ferramenta adiciona elementos como imperfeições de pele, cicatrizes sutis e variações de textura que tornam o resultado mais humano e menos sintético.
 
-Há um controle de intensidade que permite ajustar o quanto o efeito é aplicado: mais plastificado ou menos plastificado. O professor observa que em alguns casos o resultado pode ir além do desejado, deixando a pele com uma aparência de boneca de plástico, ou com um brilho excessivo típico de pele recém-limpa de skincare. Esses excessos podem ser ajustados dentro da própria ferramenta.
+Há um controle de intensidade que permite ajustar o quanto o efeito é aplicado: mais plastificado ou menos plastificado. Ruan observa que em alguns casos o resultado pode ir além do desejado, deixando a pele com uma aparência de boneca de plástico, ou com um brilho excessivo típico de pele recém-limpa de skincare. Esses excessos podem ser ajustados dentro da própria ferramenta.
 
 Além da pele, o Enhancor funciona bem também com detalhes de roupas e elementos maiores de vestuário. A equipe da Overlens fez testes extensivos e encontrou resultados consistentes. A ferramenta também inclui outros recursos como lip sync, ferramentas de motion e um upscaler, mas o uso principal da equipe ficou concentrado no enhance e no upscaler, que foram os que apresentaram melhor performance nos testes internos.
 
@@ -38,7 +38,7 @@ Além da pele, o Enhancor funciona bem também com detalhes de roupas e elemento
 
 A segunda ferramenta apresentada é a Topaz, mais especificamente a Topaz Labs, que é a empresa produtora de um conjunto de softwares diferentes, cada um com uma função específica.
 
-O modelo de negócio original da Topaz era diferente do padrão atual de mercado: era uma compra única com instalação local no computador, sem assinatura mensal. O professor comprou há bastante tempo e ainda usa. Mas durante a aula, ao acessar o site ao vivo, percebe que a Topaz agora também oferece planos de assinatura, o que muda a informação que ele havia dado inicialmente. Ele corrige em tempo real: o mundo mudou, e agora é possível assinar por planos mensais.
+O modelo de negócio original da Topaz era diferente do padrão atual de mercado: era uma compra única com instalação local no computador, sem assinatura mensal. Ruan comprou há bastante tempo e ainda usa. Mas durante a aula, ao acessar o site ao vivo, percebe que a Topaz agora também oferece planos de assinatura, o que muda a informação que ele havia dado inicialmente. Ele corrige em tempo real: o mundo mudou, e agora é possível assinar por planos mensais.
 
 Os softwares da Topaz Labs são:
 
@@ -50,29 +50,29 @@ Topaz Gigapixel: ferramenta de upscale de até 16x. Isso significa que você pod
 
 A Topaz também oferece Cloud Apps, que são versões que funcionam diretamente no navegador, sem necessidade de baixar nada no computador. Entre essas versões online estão o Bloom, que faz Creative Upscale de até 8K, e o Astra, voltado para Creative Video Upscale. Há ainda ferramentas para remoção de ruído e para aumento de resolução disponíveis nesse mesmo ambiente.
 
-O professor recomenda que, antes de comprar qualquer uma dessas ferramentas, você teste primeiro para verificar se funciona bem para o seu tipo de trabalho específico. O preço é um pouco mais alto do que muitas alternativas, mas a qualidade dos resultados justifica para quem tem o perfil de uso adequado.
+Ruan recomenda que, antes de comprar qualquer uma dessas ferramentas, você teste primeiro para verificar se funciona bem para o seu tipo de trabalho específico. O preço é um pouco mais alto do que muitas alternativas, mas a qualidade dos resultados justifica para quem tem o perfil de uso adequado.
 
 ## Magnific: agora dentro do Freepik
 
-A terceira ferramenta mencionada é o Magnific, que o professor apresenta como histórico: ele foi comprado pela Freepik e não existe mais como produto independente. Quem tem acesso ao Freepik, especialmente com assinatura do hub, pode acessar o Magnific diretamente de dentro da plataforma.
+A terceira ferramenta mencionada é o Magnific, que Ruan apresenta como histórico: ele foi comprado pela Freepik e não existe mais como produto independente. Quem tem acesso ao Freepik, especialmente com assinatura do hub, pode acessar o Magnific diretamente de dentro da plataforma.
 
-O professor demonstra ao vivo dentro do Freepik. Na área de melhoria de imagem, ao selecionar uma imagem, aparecem duas opções: Magnific e Classic. A integração do Magnific dentro do Freepik traz os ajustes completos que o produto tinha quando era independente, e é possível usá-los no padrão ou customizar os parâmetros.
+Ruan demonstra ao vivo dentro do Freepik. Na área de melhoria de imagem, ao selecionar uma imagem, aparecem duas opções: Magnific e Classic. A integração do Magnific dentro do Freepik traz os ajustes completos que o produto tinha quando era independente, e é possível usá-los no padrão ou customizar os parâmetros.
 
 A demonstração não vai fundo nos ajustes durante esta aula, porque há uma aula específica sobre o fluxo de uso do Freepik com essas ferramentas mais para frente na trilha. O objetivo aqui é apenas apresentar que o Magnific existe e onde ele está disponível.
 
 ## Outras ferramentas do mercado
 
-O professor apresenta brevemente um conjunto de outras ferramentas que fazem enhance e upscale, posicionadas como opções para quem busca alternativas mais baratas ou com diferentes perfis de funcionalidade:
+Ruan apresenta brevemente um conjunto de outras ferramentas que fazem enhance e upscale, posicionadas como opções para quem busca alternativas mais baratas ou com diferentes perfis de funcionalidade:
 
 Kale: pode fazer upscale e é uma opção mais econômica para quem está começando ou tem orçamento mais limitado.
 
 Let's Enhance: outra ferramenta de upscale disponível no mercado, com proposta de uso simplificado.
 
-Adobe Camera Raw com Live Room Enhance e The Noise Raw Details: o professor considera essas mais como ferramentas de edição do que de enhance por IA pura, mas reconhece que fazem sentido dentro do mesmo contexto porque funcionam de forma similar no resultado final.
+Adobe Camera Raw com Live Room Enhance e The Noise Raw Details: Ruan considera essas mais como ferramentas de edição do que de enhance por IA pura, mas reconhece que fazem sentido dentro do mesmo contexto porque funcionam de forma similar no resultado final.
 
-## O veredito do professor: o que ele usa de fato
+## O veredito de Ruan: o que ele usa de fato
 
-Ao final da apresentação das ferramentas, o professor dá seu veredito pessoal sobre o que realmente usa no dia a dia.
+Ao final da apresentação das ferramentas, Ruan dá seu veredito pessoal sobre o que realmente usa no dia a dia.
 
 Para enhance: ele gosta muito de usar o Enhancor. Funciona bem e tem dado bons resultados no tipo de trabalho que a equipe da Overlens produz.
 
@@ -80,11 +80,11 @@ Para upscale: ele tem assinatura da Topaz Gigapixel e a utiliza com frequência.
 
 Para quem quer algo conveniente sem sair da ferramenta de geração: o Mid Journey já tem um recurso de enhance e upscale integrado. Ao gerar uma imagem no Mid Journey, você pode clicar diretamente na imagem e acessar opções como animar, fazer upscale subtly e fazer upscale creative. O upscale subtly preserva a imagem original e apenas amplia com qualidade mantida. O upscale creative adiciona elementos novos à imagem durante o processo de ampliação, o que pode enriquecer o resultado mas também pode alterar coisas que você queria manter.
 
-Para o professor, o Mid Journey é a opção mais fácil para fazer o básico bem feito. É o feijão com arroz do upscale: simples, conveniente, sem precisar sair da ferramenta. A única ferramenta que ele considera mais fácil ainda do que o Mid Journey para essa função é o Nanobanana, que é outra ferramenta que aparece em aulas específicas da trilha.
+Para Ruan, o Mid Journey é a opção mais fácil para fazer o básico bem feito. É o feijão com arroz do upscale: simples, conveniente, sem precisar sair da ferramenta. A única ferramenta que ele considera mais fácil ainda do que o Mid Journey para essa função é o Nanobanana, que é outra ferramenta que aparece em aulas específicas da trilha.
 
 ## Quando usar enhance, quando usar upscale e quando usar os dois
 
-Uma dúvida comum para quem está começando é saber quando aplicar enhance, quando aplicar upscale e quando aplicar os dois juntos. O professor não aborda isso de forma explícita como uma regra, mas o raciocínio pode ser extraído do conteúdo da aula.
+Uma dúvida comum para quem está começando é saber quando aplicar enhance, quando aplicar upscale e quando aplicar os dois juntos. Ruan não aborda isso de forma explícita como uma regra, mas o raciocínio pode ser extraído do conteúdo da aula.
 
 Use enhance quando a imagem tem o tamanho certo mas a qualidade visual precisa melhorar: pele com aparência artificial demais, falta de detalhes em texturas, brilho excessivo em áreas específicas, ou simplesmente aquele aspecto plástico que imagens de IA frequentemente têm quando saem do modelo sem pós-processamento.
 
@@ -94,7 +94,7 @@ Use os dois quando a imagem precisa melhorar em qualidade e também precisa ser 
 
 ## O fluxo da Overlens com essas ferramentas
 
-O professor menciona que após esta apresentação de ferramentas, a trilha vai mostrar o fluxo completo que a equipe da Overlens usa. Esse fluxo integra geração, enhance e upscale dentro de um processo que passa por múltiplas ferramentas dependendo do objetivo final da imagem.
+Ruan menciona que após esta apresentação de ferramentas, a trilha vai mostrar o fluxo completo que a equipe da Overlens usa. Esse fluxo integra geração, enhance e upscale dentro de um processo que passa por múltiplas ferramentas dependendo do objetivo final da imagem.
 
 O uso mais frequente da equipe na prática é: geração no Mid Journey, enhance para imagens de pessoas com Enhancor quando necessário, e upscale via Topaz Gigapixel ou Freepik com Magnific para projetos que exigem resolução maior. O Mid Journey serve como ponto de partida e como ferramenta de upscale rápido quando a conveniência é prioritária sobre o resultado máximo.
 

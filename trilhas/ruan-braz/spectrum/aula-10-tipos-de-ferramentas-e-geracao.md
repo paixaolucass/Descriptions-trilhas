@@ -17,7 +17,7 @@ Ao final desta aula, você será capaz de:
 
 ## O Ponto de Partida: Escolher Bem, não Escolher Tudo
 
-O primeiro passo para poder escolher as ferramentas certas para cada contexto é saber quais tipos de ferramentas existem. Com esse mapa em mãos, a pesquisa e a escolha se tornam muito mais eficientes. Esta aula apresenta os tipos, mostra as principais ferramentas do mercado, e encerra com as recomendações pessoais do professor para quem está começando.
+O primeiro passo para poder escolher as ferramentas certas para cada contexto é saber quais tipos de ferramentas existem. Com esse mapa em mãos, a pesquisa e a escolha se tornam muito mais eficientes. Esta aula apresenta os tipos, mostra as principais ferramentas do mercado, e encerra com as recomendações pessoais de Ruan para quem está começando.
 
 O ecossistema é enorme. Apenas para contextualizar: entre as ferramentas com maior presença no mercado em março de 2026, estão OpenAI (ChatGPT/Sora), Runway, CREA, MidJourney, Flux, ConfiWi, Leonardo.AI e muitas outras. E ainda não entram nessa lista ferramentas igualmente relevantes como Nanobanana (Imagen do Google), Seedream (C-Dream, da ByteDance) e Seedring (C-Dance, da ByteDance para vídeo). O objetivo desta aula não é cobrir tudo, mas criar o mapa que permite navegar com intenção.
 
@@ -53,7 +53,7 @@ Esse tipo é frequentemente confundido com modelos de IA completos, mas é conce
 
 **Gems (Gemini):** No Gemini, é possível criar "gems" - assistentes personalizados. Você configura o gem com instruções específicas, e ele deriva outputs a partir do que você envia. Joga um texto, ele deriva. Joga um e-mail, ele gera uma cópia. O gem precisa que você alimente ele com inputs: não age de forma autônoma, não inicia tarefas por conta própria. Dá para conectar APIs nesses assistentes para que acessem outros programas e extraiam informações, mas ainda são limitados em capacidade agêntica.
 
-**GPTs (ChatGPT):** Equivalente dos gems no ChatGPT. Se você tem assinatura, acessa a seção "Explorar GPTs" e pode usar GPTs de outras pessoas ou criar o seu próprio. Um GPT muito conhecido do ecossistema Overlens é o Photoshoot - um GPT criado pelo professor no final de 2023 que escreve prompts para geração de imagens com base em uma estrutura proprietária. O Photoshoot bateu mais de 200 mil conversas no Brasil. Você pode pesquisar por ele no ChatGPT.
+**GPTs (ChatGPT):** Equivalente dos gems no ChatGPT. Se você tem assinatura, acessa a seção "Explorar GPTs" e pode usar GPTs de outras pessoas ou criar o seu próprio. Um GPT muito conhecido do ecossistema Overlens é o Photoshoot - um GPT criado por Ruan no final de 2023 que escreve prompts para geração de imagens com base em uma estrutura proprietária. O Photoshoot bateu mais de 200 mil conversas no Brasil. Você pode pesquisar por ele no ChatGPT.
 
 A distinção técnica importante: um GPT é um assistente de IA com capacidades reduzidas. Não é um agente. Um agente tem capacidade autônoma de tomar ações, executar tarefas em sequência sem supervisão contínua e operar com lógica de tomada de decisão independente. Um GPT precisa que você mande coisas para ele, responde, e para aí. São ferramentas úteis, especialmente para fluxos repetitivos, mas não devem ser confundidos com agentes de IA.
 
@@ -70,13 +70,13 @@ O quarto tipo engloba ferramentas focadas em capacidades específicas de ediçã
 
 ## Recomendações de Março de 2026: O Pack do Professor
 
-Nesta parte da aula, o professor deixou de lado os tipos e entrou nas recomendações pessoais concretas para quem está começando ou quer otimizar o setup de ferramentas. O contexto: quem está começando, precisa de bom custo-benefício, quer pagar pouco, e já quer conseguir gerar resultados e até monetizar com a ferramenta.
+Nesta parte da aula, Ruan deixou de lado os tipos e entrou nas recomendações pessoais concretas para quem está começando ou quer otimizar o setup de ferramentas. O contexto: quem está começando, precisa de bom custo-benefício, quer pagar pouco, e já quer conseguir gerar resultados e até monetizar com a ferramenta.
 
 O foco é específico em geração de imagens. Para texto, há uma trilha separada de geração de textos (Sintaxe).
 
 ### Primeira Recomendação: Gemini
 
-O professor abre um Google Docs ao vivo e registra as recomendações enquanto fala. A primeira da lista é o Gemini. Os motivos:
+Ruan abre um Google Docs ao vivo e registra as recomendações enquanto fala. A primeira da lista é o Gemini. Os motivos:
 
 - É um modelo multimodal com LLM de alto nível - frequentemente fica em primeiro lugar nos rankings de raciocínio e qualidade de respostas
 - Tem pesquisa muito boa, com capacidade de buscar centenas de fontes (200, 300, 400 fontes) em pesquisas profundas
@@ -98,7 +98,7 @@ O Freepik é descrito como um hub - uma switch (comutador) de IAs, um único amb
 
 A proposta de valor do Freepik é clara: em vez de assinar várias ferramentas individualmente, você paga uma única assinatura e usa vários dos melhores modelos dentro de um ambiente unificado.
 
-O professor posicionou o uso da seguinte forma: se o foco é estúdio, geração de imagem como atividade principal, e você não precisa de uma LLM para conversa e raciocínio geral, vá para o Freepik. No momento, é a melhor referência nesse perfil de uso.
+Ruan posicionou o uso da seguinte forma: se o foco é estúdio, geração de imagem como atividade principal, e você não precisa de uma LLM para conversa e raciocínio geral, vá para o Freepik. No momento, é a melhor referência nesse perfil de uso.
 
 Analogia oferecida: "Freepik é tipo o YouTube e o Runway é tipo o Vimeo." Freepik tem posicionamento mais amplo e popular; Runway tem posicionamento mais premium e focado em criativos.
 
@@ -112,7 +112,7 @@ Se tiver orçamento para dois, use os dois: Gemini para raciocínio, pesquisa e 
 
 ## As Ferramentas do Mercado: Análise Detalhada
 
-Após as recomendações pessoais, o professor apresentou a lista preparada pela equipe, organizada por tipo, com análise de cada ferramenta:
+Após as recomendações pessoais, Ruan apresentou a lista preparada pela equipe, organizada por tipo, com análise de cada ferramenta:
 
 ### NanoBanana (Imagen do Google)
 
@@ -120,17 +120,17 @@ Atualmente entre os dois melhores modelos de geração de imagem do mundo. Frequ
 
 ### Runway
 
-O Runway é um hub com posicionamento premium. Faz muitas campanhas voltadas para criativos, festivais de cinema, projetos artísticos. O professor acessa o Runway mais para consumir conteúdo e se inspirar do que para usar as ferramentas diretamente. Dentro do Runway existem vários modelos e ferramentas para diferentes tipos de transformação. Tem imagem e vídeo. Vale a pena assinar? Depende do objetivo. A Overlens não assina Runway. O professor gosta do posicionamento premium, da curadoria de conteúdo criativo que a plataforma faz, mas para geração no dia a dia prefere outras ferramentas.
+O Runway é um hub com posicionamento premium. Faz muitas campanhas voltadas para criativos, festivais de cinema, projetos artísticos. Ruan acessa o Runway mais para consumir conteúdo e se inspirar do que para usar as ferramentas diretamente. Dentro do Runway existem vários modelos e ferramentas para diferentes tipos de transformação. Tem imagem e vídeo. Vale a pena assinar? Depende do objetivo. A Overlens não assina Runway. Ruan gosta do posicionamento premium, da curadoria de conteúdo criativo que a plataforma faz, mas para geração no dia a dia prefere outras ferramentas.
 
 ### Seedream (C-Dream) da ByteDance
 
-O Seedream 4.5 é descrito como absurdo em qualidade. Dentro dos testes realizados pelo professor e para a maioria dos casos, é um dos melhores modelos de geração de imagem do mercado. Mas há um detalhe importante: a ByteDance não criou uma ferramenta própria com interface de usuário para o consumidor final. A empresa fornece API para outras ferramentas utilizarem.
+O Seedream 4.5 é descrito como absurdo em qualidade. Dentro dos testes realizados por Ruan e para a maioria dos casos, é um dos melhores modelos de geração de imagem do mercado. Mas há um detalhe importante: a ByteDance não criou uma ferramenta própria com interface de usuário para o consumidor final. A empresa fornece API para outras ferramentas utilizarem.
 
 Isso significa que para usar o Seedream, você o encontra dentro de hubs como o Freepik. A GetAPI (get.c-dream.ai) permite conectar o modelo em sistemas próprios via API, com pagamento conforme uso. Para uso agentico ou via código, conectar a API do Seedream é uma opção poderosa.
 
 O C-Dance é o modelo de geração de vídeo da ByteDance, irmão do C-Dream para imagem. Será abordado na parte do curso dedicada a vídeo.
 
-O site do Seedream por si só já é uma referência visual: as imagens que eles mostram têm contraste e iluminação muito característicos, que o professor aprecia especialmente. É uma boa fonte de referência estética mesmo para quem não vai usar o modelo diretamente.
+O site do Seedream por si só já é uma referência visual: as imagens que eles mostram têm contraste e iluminação muito característicos, que Ruan aprecia especialmente. É uma boa fonte de referência estética mesmo para quem não vai usar o modelo diretamente.
 
 ### Flux (Black Forest Labs)
 
@@ -162,7 +162,7 @@ O MidJourney é focado exclusivamente no visual: imagem, vídeo, mood boards, es
 
 ### Visual Electric
 
-O Visual Electric ganhou destaque no Brasil em 2024. O professor e o designer Marcelo Kimura fizeram uma série de workshops de IA para mais de 20 mil pessoas nesse período, e o Visual Electric foi bastante divulgado. O CEO da Visual Electric chegou a entrar em contato com o Kimura para fazer uma parceria, já que o designer estava divulgando muito a ferramenta. O CEO é ex-funcionário da Pentagram, agência americana gigante de design e branding.
+O Visual Electric ganhou destaque no Brasil em 2024. Ruan e o designer Marcelo Kimura fizeram uma série de workshops de IA para mais de 20 mil pessoas nesse período, e o Visual Electric foi bastante divulgado. O CEO da Visual Electric chegou a entrar em contato com o Kimura para fazer uma parceria, já que o designer estava divulgando muito a ferramenta. O CEO é ex-funcionário da Pentagram, agência americana gigante de design e branding.
 
 Avaliação atual: "Se for assinar uma só, não é a que eu recomendo também." O Freepik tem batido o Visual Electric facilmente em termos de funcionalidades e custo-benefício. Mas tem histórico interessante e fluxos com resources, conhecidos como "flows".
 
@@ -178,7 +178,7 @@ Ressalva: se você é da arquitetura, design de ambientes ou outras áreas que n
 
 ### Adobe Firefly
 
-A Adobe está, nas palavras do professor, "nos apuros dela". A Adobe reinava absoluta no mercado gráfico e agora enfrenta concorrência de múltiplas frentes. O professor não lembra a última vez que usou uma ferramenta da Adobe no seu fluxo de trabalho pessoal.
+A Adobe está, nas palavras de Ruan, "nos apuros dela". A Adobe reinava absoluta no mercado gráfico e agora enfrenta concorrência de múltiplas frentes. Ruan não lembra a última vez que usou uma ferramenta da Adobe no seu fluxo de trabalho pessoal.
 
 Mas o Firefly tem um caso de uso específico onde faz sentido: quem já assina o pacote Adobe (Photoshop, Illustrator) ganha créditos para usar o Firefly. Se você já paga o Adobe e continua usando no dia a dia, o Firefly é uma mão na roda. Muitas empresas continuam utilizando o Adobe e fazem uso do Firefly integrado ao fluxo já existente.
 
@@ -186,7 +186,7 @@ O Firefly tem moodboards e storyboards, com capacidade de gerar ideações. Tem 
 
 ### Google Labs
 
-Google Labs é um espaço de experimentação do Google com projetos da comunidade e da equipe interna. O professor recomenda visitar para descobrir possibilidades inusitadas de usar IA.
+Google Labs é um espaço de experimentação do Google com projetos da comunidade e da equipe interna. Ruan recomenda visitar para descobrir possibilidades inusitadas de usar IA.
 
 Um exemplo destacado: um experimento dentro do Google Labs que cria identidades visuais inteiras baseadas em prompts. "Podem ver, muitas empresas vão sair disso aqui." A ferramenta ainda não estava disponível na região do Brasil no momento da gravação, mas funciona com VPN (basta ativar uma VPN e o acesso é liberado).
 
@@ -194,19 +194,19 @@ O Google Labs tem vários projetos assim: ferramentas experimentais que ainda n�
 
 ### Leonardo.AI
 
-O Leonardo.AI está na lista por estar, mas o professor é honesto: "Para mim, Leonardo.AI está aqui só por estar." Não entra no ecossistema pessoal dele há muito tempo. Mas está evoluindo, cresceu, tem nova identidade visual, e pode fluir bem para alguns usos.
+O Leonardo.AI está na lista por estar, mas Ruan é honesto: "Para mim, Leonardo.AI está aqui só por estar." Não entra no ecossistema pessoal dele há muito tempo. Mas está evoluindo, cresceu, tem nova identidade visual, e pode fluir bem para alguns usos.
 
 O Leonardo.AI entra na mesma categoria de hubs: Freepik, Runway, Firefly, Leonardo - todos são hubs com vários modelos internos e sistema de créditos. O modelo de negócio é parecido, mas o posicionamento e a qualidade dos modelos disponíveis variam.
 
 ## Como Acompanhar o Ranking de Ferramentas
 
-Uma das perguntas mais frequentes é: como saber quais modelos estão sendo melhor avaliados pela comunidade? O professor apresentou dois recursos práticos:
+Uma das perguntas mais frequentes é: como saber quais modelos estão sendo melhor avaliados pela comunidade? Ruan apresentou dois recursos práticos:
 
 ### Litter Board Image AI Gen (Hugging Face)
 
 Você digita "Litter Board Image AI Gen" no Google e encontra as arenas de votação. O funcionamento é simples: a plataforma mostra duas imagens geradas por modelos diferentes, sem revelar qual modelo gerou cada uma. Você vota na que considera melhor. Depois da votação, a plataforma revela quais eram os modelos. Com centenas de milhares de votos acumulados, o ranking reflete a preferência da comunidade de forma razoavelmente robusta.
 
-No momento da gravação, o ranking de text-to-image tinha: GPT-Image em primeiro, Nanobanana em segundo, seguido por Flux e Seedream. O Seedream ficava um pouco para trás da preferência da comunidade, apesar de o professor gostar muito do modelo pessoalmente - o que ilustra que preferências individuais e preferências da comunidade podem divergir.
+No momento da gravação, o ranking de text-to-image tinha: GPT-Image em primeiro, Nanobanana em segundo, seguido por Flux e Seedream. O Seedream ficava um pouco para trás da preferência da comunidade, apesar de Ruan gostar muito do modelo pessoalmente - o que ilustra que preferências individuais e preferências da comunidade podem divergir.
 
 Importante: não é cravado que o que está em primeiro lugar é necessariamente "o melhor". É a análise de uma comunidade grande, que dá uma perspectiva coletiva. O contexto de uso específico pode mudar a escolha ideal.
 
@@ -214,13 +214,13 @@ Importante: não é cravado que o que está em primeiro lugar é necessariamente
 
 Um segundo recurso mencionado é o Arena AI, com 236 mil votos registrados no momento da consulta. No Arena AI, o GPT-Image também aparecia com maior score. A lista incluía: GPT-Image, Gemini, Grok, e o Seedream (C-Dream) ficava mais abaixo.
 
-Para vídeo, o ranking muda completamente: Sora (OpenAI), Vue, Grok, One lideravam. O Seedance (vídeo da ByteDance) aparecia bem abaixo, contrariando a expectativa do professor baseada em testes pessoais - o que mostra que o ranking da comunidade é dinâmico e atualizado com frequência.
+Para vídeo, o ranking muda completamente: Sora (OpenAI), Vue, Grok, One lideravam. O Seedance (vídeo da ByteDance) aparecia bem abaixo, contrariando a expectativa de Ruan baseada em testes pessoais - o que mostra que o ranking da comunidade é dinâmico e atualizado com frequência.
 
 Usar esses leaderboards regularmente é uma forma eficiente de acompanhar a evolução do mercado sem precisar testar tudo você mesmo.
 
 ## O Modelo é Secundário: O Signo é o que Importa
 
-O professor encerrou a seção de ferramentas retomando o ponto central que percorre toda a trilha. Em um mundo onde qualquer pessoa pode gerar imagens clicando em um botão, onde todo mundo acessa os mesmos modelos e gera imagens lindas, hiperrealistas, com 3D e luz perfeita - o que vai diferenciar?
+Ruan encerrou a seção de ferramentas retomando o ponto central que percorre toda a trilha. Em um mundo onde qualquer pessoa pode gerar imagens clicando em um botão, onde todo mundo acessa os mesmos modelos e gera imagens lindas, hiperrealistas, com 3D e luz perfeita - o que vai diferenciar?
 
 "O que vai fazer a diferença é a imagem em si. É o que você escolheu colocar ali dentro."
 

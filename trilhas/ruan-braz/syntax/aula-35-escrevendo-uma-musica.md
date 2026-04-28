@@ -24,7 +24,7 @@ A primeira etapa define os parâmetros antes de qualquer escrita. Os elementos o
 
 O gênero não é apenas estético. Ele define restrições rítmicas e estruturais que afetam diretamente como a letra deve ser escrita. Escrever um rap é diferente de escrever um MPB porque o ritmo das sílabas, a relação com a melodia e o estilo de rima são distintos.
 
-O professor demonstra com a música "O Futuro é Agora": sentimento central de empoderamento, contexto de transição tecnológica, público de 25 a 35 anos, gênero pop alternativo com elementos eletrônicos, perspectiva na primeira pessoa do plural.
+Ruan demonstra com a música "O Futuro é Agora": sentimento central de empoderamento, contexto de transição tecnológica, público de 25 a 35 anos, gênero pop alternativo com elementos eletrônicos, perspectiva na primeira pessoa do plural.
 
 ## Etapa 2: estrutura musical
 
@@ -46,13 +46,13 @@ Para a ponte: mudança de perspectiva, resolução ou contraste, metáforas mais
 
 ## Etapa 4: refinamento
 
-A quarta etapa é o ciclo de ajuste que transforma o rascunho em letra final. O processo descrito pelo professor: receber o primeiro resultado da IA, identificar o que não funciona, ajustar palavra por palavra, ler em voz alta, ajustar novamente, repetir.
+A quarta etapa é o ciclo de ajuste que transforma o rascunho em letra final. O processo descrito por Ruan: receber o primeiro resultado da IA, identificar o que não funciona, ajustar palavra por palavra, ler em voz alta, ajustar novamente, repetir.
 
 Ler em voz alta é o teste mais eficiente de musicalidade. Quando a leitura tropeça, o ritmo quebrou. Quando uma palavra soa estranha falada, ela vai soar estranha cantada. A musicalidade não é avaliada pela leitura silenciosa.
 
 Critérios de refinamento: cada palavra serve ao propósito da música, as rimas soam naturais para o público, cada verso avança a narrativa sem redundância, a coerência emocional se mantém do início ao fim. O checklist da aula inclui ainda: a história é clara e envolvente, o refrão expressa a emoção principal, a música tem início, meio e fim, e o final resolve satisfatoriamente.
 
-O processo de "O Futuro é Agora" foi de múltiplas iterações: a IA gerou uma primeira versão que o professor não aprovou, trechos de versões diferentes foram combinados, palavras foram trocadas individualmente, partes faltando foram completadas com novos prompts direcionados.
+O processo de "O Futuro é Agora" foi de múltiplas iterações: a IA gerou uma primeira versão que Ruan não aprovou, trechos de versões diferentes foram combinados, palavras foram trocadas individualmente, partes faltando foram completadas com novos prompts direcionados.
 
 ## Coloque em prática
 

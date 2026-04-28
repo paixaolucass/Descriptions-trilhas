@@ -105,7 +105,7 @@ Coerência é fundamental aqui. Se o ambiente é "rua de Tóquio à noite com re
 
 **Parte 6: Estilo e referência**
 
-Aqui você ancora a estética. "Estética neo-noir, grão de 35mm, inspirado em Wong Kar-wai" já carrega uma direção visual específica. Nomes de diretores e fotógrafos funcionam como referência, mas o professor prefere ir além: em vez de só citar o nome, ele pesquisa a técnica específica daquele diretor usando o Gemini, extrai os termos técnicos da cinematografia dele, e coloca esses termos no prompt. Isso dá resultados mais precisos do que apenas citar o nome.
+Aqui você ancora a estética. "Estética neo-noir, grão de 35mm, inspirado em Wong Kar-wai" já carrega uma direção visual específica. Nomes de diretores e fotógrafos funcionam como referência, mas Ruan prefere ir além: em vez de só citar o nome, ele pesquisa a técnica específica daquele diretor usando o Gemini, extrai os termos técnicos da cinematografia dele, e coloca esses termos no prompt. Isso dá resultados mais precisos do que apenas citar o nome.
 
 Exemplo prático: para uma cena no estilo de Denis Villeneuve, você pergunta ao Gemini quais são as técnicas de cinematografia usadas por ele. O modelo vai trazer termos como "extreme wide shot, escala monumental, ritmo contemplativo, narrativa visual, planos longos, profundidade de campo ampla, distâncias focais de 14mm a 70mm". Você usa esses termos diretamente no prompt, sem precisar citar o nome do diretor.
 
@@ -135,7 +135,7 @@ Traduza para o inglês. Prompts em inglês têm aderência melhor na maioria dos
 
 Salve as duas versões no documento.
 
-Quando quiser refinar, não apague o prompt anterior. Marque o que não funcionou (o professor usa vermelho), escreva a versão nova (usa azul), e guarda o registro da mudança. Assim você sempre sabe o que mudou e pode voltar a uma versão anterior se algo que estava funcionando parar de funcionar.
+Quando quiser refinar, não apague o prompt anterior. Marque o que não funcionou (Ruan usa vermelho), escreva a versão nova (usa azul), e guarda o registro da mudança. Assim você sempre sabe o que mudou e pode voltar a uma versão anterior se algo que estava funcionando parar de funcionar.
 
 Altere apenas uma variável por vez. Se a iluminação ficou plana, ajuste só o bloco de luz. Se o personagem distorceu, adicione mais atributos físicos. Nunca reconstrua o prompt inteiro de uma vez, você perde a referência do que já estava funcionando.
 

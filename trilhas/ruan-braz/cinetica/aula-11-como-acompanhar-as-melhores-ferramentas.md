@@ -17,7 +17,7 @@ Ao final desta aula, você será capaz de:
 
 O ciclo de atualização das ferramentas de IA de vídeo em 2026 é de semanas, não de meses. Uma ferramenta nova aparece, outra é atualizada e um novo modelo sobe no ranking em questão de dias. Isso significa que qualquer lista estática de ferramentas, incluindo as de cursos, fica desatualizada rapidamente. Aprender a pescar informação fresca vale muito mais do que receber uma lista pronta.
 
-Cursos demoram para atualizar. Um curso gravado há seis meses pode não refletir o que é melhor hoje. Isso vale inclusive para este curso. O professor é explícito nesse ponto: ao invés de entregar uma lista que pode estar velha, ele ensina como encontrar o estado da arte por conta própria. Saber pesquisar é mais valioso do que qualquer lista.
+Cursos demoram para atualizar. Um curso gravado há seis meses pode não refletir o que é melhor hoje. Isso vale inclusive para este curso. Ruan é explícito nesse ponto: ao invés de entregar uma lista que pode estar velha, ele ensina como encontrar o estado da arte por conta própria. Saber pesquisar é mais valioso do que qualquer lista.
 
 ## A hierarquia das fontes
 
@@ -35,7 +35,7 @@ Cursos são os últimos a atualizar. Cobrem o que já foi consolidado. São bons
 
 Quando você faz uma pesquisa genérica sobre ferramentas de vídeo com IA, os resultados tendem a trazer principalmente ferramentas ocidentais. Isso é um problema porque parte dos melhores modelos disponíveis vem de empresas asiáticas, especialmente chinesas.
 
-O Kling (da Kuaishou) é o exemplo mais direto. O professor coloca o Kling como top 3 de geração de vídeo, podendo ser top 1 dependendo do caso. No leaderboard que ele mostra durante a aula, o Kling ocupa o primeiro lugar, com três versões diferentes no top 8 e seis versões no top 14. Isso é 30% do top 14 ocupado por variações de um único modelo chinês.
+O Kling (da Kuaishou) é o exemplo mais direto. Ruan coloca o Kling como top 3 de geração de vídeo, podendo ser top 1 dependendo do caso. No leaderboard que ele mostra durante a aula, o Kling ocupa o primeiro lugar, com três versões diferentes no top 8 e seis versões no top 14. Isso é 30% do top 14 ocupado por variações de um único modelo chinês.
 
 Outros exemplos de ferramentas asiáticas de destaque: Kling, Hailuo (MiniMax) e Wan, todas chinesas. Há também ferramentas indianas em categorias específicas. Quem limita a pesquisa a fontes ocidentais perde uma parte significativa do que está sendo desenvolvido. A recomendação é pesquisar ativamente por essas ferramentas em fontes que as incluam, e o Reddit costuma trazer as comparações com modelos asiáticos quando você busca corretamente.
 
@@ -43,13 +43,13 @@ Outros exemplos de ferramentas asiáticas de destaque: Kling, Hailuo (MiniMax) e
 
 Buscar "AI video leaderboard" ou "video generation benchmark" é uma das formas mais eficientes de encontrar o ranking atual de ferramentas. A comunidade de IA mantém esses leaderboards atualizados com base em testes comparativos e votações de usuários reais.
 
-O professor mostra dois durante a aula: o Video Arena do Hugging Face e o da Alksploria (AI Video Generator Ranking). Ambos mostram os modelos mais bem avaliados com base em testes da comunidade. Ele prefere o do Hugging Face, mas o da Alksploria também serve para uma consulta rápida. O importante é consultar esses rankings periodicamente, não guardar a lista de um momento específico.
+Ruan mostra dois durante a aula: o Video Arena do Hugging Face e o da Alksploria (AI Video Generator Ranking). Ambos mostram os modelos mais bem avaliados com base em testes da comunidade. Ele prefere o do Hugging Face, mas o da Alksploria também serve para uma consulta rápida. O importante é consultar esses rankings periodicamente, não guardar a lista de um momento específico.
 
 Uma observação que ele faz ao vivo: ao comparar os dois leaderboards, percebe que um copiou o ranking do outro, usando o mesmo modelo. Isso é um lembrete de que nem toda fonte é independente, e cruzar mais de uma referência é sempre mais confiável.
 
 ## Onde buscar novidades: fontes e rituais
 
-O professor apresenta uma lista de fontes e uma sugestão de ritmo de consulta:
+Ruan apresenta uma lista de fontes e uma sugestão de ritmo de consulta:
 
 Diariamente: Reddit (r/generativeAI e r/AIUGCMarketing). Ritmo alto, informação fresca, opinião de quem usa na prática.
 
@@ -61,7 +61,7 @@ Trimestralmente: Alksploria e Zapier Blog. Visão mais ampla do mercado, bom par
 
 Anualmente: relatórios como o A16Z State of Generative Media. Leitura estratégica sobre para onde o mercado está indo.
 
-Essa é uma sugestão, não uma obrigação. O professor deixa claro que as fontes podem mudar, e que o mais importante é ter um ritual consistente, não seguir uma lista específica ao pé da letra.
+Essa é uma sugestão, não uma obrigação. Ruan deixa claro que as fontes podem mudar, e que o mais importante é ter um ritual consistente, não seguir uma lista específica ao pé da letra.
 
 ## Deep Research como aliado
 

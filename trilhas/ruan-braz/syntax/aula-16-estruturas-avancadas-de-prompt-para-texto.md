@@ -22,7 +22,7 @@ A metáfora usada: um modelo de IA é como uma orquestra capaz de tocar vários 
 
 A primeira técnica apresentada é a self-consistency, que significa forçar múltiplos raciocínios antes de aceitar uma resposta. Em vez de aceitar o primeiro resultado, o prompt pede várias linhas de pensamento, o que a técnica chama de chain of thoughts, e solicita que a IA escolha o mais consistente.
 
-O professor aponta que essa técnica não é tecnologia, é filosofia. Na tradição filosófica, isso se chama dialética: tese, antítese e síntese. Pedir à IA uma abordagem dialética é pedir que ela traga argumentos, contra-argumentos e uma síntese, o que evita enviesar o resultado em uma única direção.
+Ruan aponta que essa técnica não é tecnologia, é filosofia. Na tradição filosófica, isso se chama dialética: tese, antítese e síntese. Pedir à IA uma abordagem dialética é pedir que ela traga argumentos, contra-argumentos e uma síntese, o que evita enviesar o resultado em uma única direção.
 
 Exemplo prático de instrução: gerar cinco esboços de tese para um ensaio, incluindo para cada um tese, três argumentos, três contra-argumentos e refutação. Em seguida, pedir que a IA faça um voto de autoconsciência, selecione o esboço com melhor coerência lógica e justificativa empírica, explique por quê e entregue a versão final editada. O prompt é curto, mas avançado porque exige repertório de quem o escreve.
 
@@ -35,7 +35,7 @@ A segunda técnica é o prompt chaining, encadear o prompt em vários estágios 
 - **Etapa 3, Parágrafos:** escrever somente a introdução, com gancho, contexto e tese clara
 - **Etapa 4, Revisão:** avaliar a introdução com critérios de clareza, evidência e ritmo, propor três melhorias e aplicar
 
-O professor reforça que ninguém chega a uma instrução assim de primeira. O processo é o da aula anterior: testar, ajustar, pedir à IA que sintetize as instruções em etapas ao final. O que torna esse prompt avançado não é o número de caracteres, mas a estrutura de raciocínio construída em camadas.
+Ruan reforça que ninguém chega a uma instrução assim de primeira. O processo é o da aula anterior: testar, ajustar, pedir à IA que sintetize as instruções em etapas ao final. O que torna esse prompt avançado não é o número de caracteres, mas a estrutura de raciocínio construída em camadas.
 
 ## RAG: tratar o dado antes de gerar o texto
 
@@ -43,7 +43,7 @@ A terceira técnica é o RAG, Retrieval Augmented Generation. A tradução prát
 
 O processo tem três momentos. Primeiro, trazer dados tratados para a IA, parágrafos sobre um tema, fatos específicos, notícias relevantes. Segundo, instruir a IA a estudar esse material antes de gerar o conteúdo. Terceiro, usar o conteúdo gerado.
 
-A ferramenta recomendada para aplicar RAG é o **Notebook LM**, do Google. Nele é possível criar notebooks com arquivos subidos como base de conhecimento, documentos, PDFs, planilhas. O professor demonstra ao vivo um notebook criado para um personagem chamado COG, professor de lógica de um curso criado pela própria IA. Com as fontes subidas, curso de lógica básica, introdução à lógica, falácias, raciocínio dedutivo e indutivo, entre outros, a IA produz roteiros, podcasts e infográficos com o conteúdo daquele material específico.
+A ferramenta recomendada para aplicar RAG é o **Notebook LM**, do Google. Nele é possível criar notebooks com arquivos subidos como base de conhecimento, documentos, PDFs, planilhas. Ruan demonstra ao vivo um notebook criado para um personagem chamado COG, professor de lógica de um curso criado pela própria IA. Com as fontes subidas, curso de lógica básica, introdução à lógica, falácias, raciocínio dedutivo e indutivo, entre outros, a IA produz roteiros, podcasts e infográficos com o conteúdo daquele material específico.
 
 A recomendação prática: não colocar tudo em um único prompt. Fazer o RAG em uma etapa separada, tratar o dado, depois subir apenas o essencial para a ferramenta de geração. Trabalhar em etapas vai funcionar melhor do que tentar resolver tudo em um único bloco.
 
@@ -53,7 +53,7 @@ Os GPTs do ChatGPT e os Gems do Gemini também funcionam como um tipo de RAG qua
 
 A quarta técnica é o ReAct, Reasoning mais Action. A estrutura divide o prompt em duas partes: primeiro explica como pensar, depois explica como agir. O resultado é uma instrução que orienta o raciocínio e depois determina a ação.
 
-O exemplo apresentado é sobre um dossiê de impacto de políticas de dados abertos na cultura de design cívico. O professor aproveita o tema para fazer uma demonstração sobre como transformar conteúdo chato em conteúdo envolvente. A primeira pergunta antes de qualquer prompt é: quem está do outro lado? E o primeiro objetivo de quem comunica é tornar familiar, porque comunicar é tornar comum, e tornar comum exige pensar na pessoa que vai receber a mensagem antes de colocar o conteúdo.
+O exemplo apresentado é sobre um dossiê de impacto de políticas de dados abertos na cultura de design cívico. Ruan aproveita o tema para fazer uma demonstração sobre como transformar conteúdo chato em conteúdo envolvente. A primeira pergunta antes de qualquer prompt é: quem está do outro lado? E o primeiro objetivo de quem comunica é tornar familiar, porque comunicar é tornar comum, e tornar comum exige pensar na pessoa que vai receber a mensagem antes de colocar o conteúdo.
 
 O título "impacto de políticas de dados abertos na cultura do design cívico" vira "a extinção dos creators através dos dados", mais familiar, com mais tensão, com mais motivo para quem trabalha com criação querer ler.
 
@@ -63,7 +63,7 @@ A quinta técnica é o Reflections, pedir que a IA questione e avalie o que ela 
 
 O exemplo usa uma carta manifesto sobre bibliotecas públicas. Após escrever o manifesto, a IA avalia com cinco métricas, clareza, ritmo, densidade de ideia, força retórica e memorabilidade, e atribui notas. Em seguida, reescreve. E depois testa a versão reescrita contra um leitor cético: o que ainda não está convincente. O resultado final é ajustado a 200 ou 250 palavras.
 
-O professor recomenda separar a etapa de Reflections em um assistente diferente. Após gerar o texto, pegar a versão final e enviá-la ao assistente de persona para testar a perspectiva do público real. O exemplo demonstrado usa o Bruninho, uma persona da Overlens com ficha completa, história, tom de voz, vocabulário, frase típica ("cara, eu sei que preciso aprender coisas novas, mas não sei como começar"), estilo do cara comum de São Paulo da geração atual.
+Ruan recomenda separar a etapa de Reflections em um assistente diferente. Após gerar o texto, pegar a versão final e enviá-la ao assistente de persona para testar a perspectiva do público real. O exemplo demonstrado usa o Bruninho, uma persona da Overlens com ficha completa, história, tom de voz, vocabulário, frase típica ("cara, eu sei que preciso aprender coisas novas, mas não sei como começar"), estilo do cara comum de São Paulo da geração atual.
 
 O resultado da conversa com o Bruninho: o texto é envolvente para quem gosta de pensar, mas denso para quem quer estímulo rápido, "se eu tô com o cérebro acelerado de TikTok, demoro uns parágrafos pra entrar". O diagnóstico é preciso porque a persona tem critérios definidos.
 

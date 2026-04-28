@@ -16,7 +16,7 @@ Ao final desta aula, você será capaz de:
 
 ## O ponto de partida: quantidade e qualidade nas fotos de referência
 
-A aula começa de onde a anterior terminou: com um conjunto inicial de referências já montado no Figma, mas ainda com apenas 9 imagens. O professor faz a observação imediata: o ideal é ter mais imagens. Pelo menos 15 ou 20 imagens de referência vão ajudar no resultado e vão fazer diferença. Quantidade de referência não é capricho, é estratégia para dar à IA mais variáveis para trabalhar.
+A aula começa de onde a anterior terminou: com um conjunto inicial de referências já montado no Figma, mas ainda com apenas 9 imagens. Ruan faz a observação imediata: o ideal é ter mais imagens. Pelo menos 15 ou 20 imagens de referência vão ajudar no resultado e vão fazer diferença. Quantidade de referência não é capricho, é estratégia para dar à IA mais variáveis para trabalhar.
 
 A orientação é clara: se você não tem todas essas imagens para trabalhar, vá com o que tem. Mas nunca deixe de ampliar o conjunto quando possível.
 
@@ -24,7 +24,7 @@ A orientação é clara: se você não tem todas essas imagens para trabalhar, v
 
 Uma parte significativa da aula aborda como tirar fotos de referência de si mesmo para alimentar a IA. Esse processo tem detalhes técnicos importantes que afetam diretamente a qualidade do resultado gerado.
 
-O professor recomenda usar a câmera traseira do celular em vez da frontal. O motivo é técnico: a câmera traseira tem maior resolução e distorce menos o rosto. A câmera frontal, especialmente em zoom mais fechado, pode criar distorções que a IA vai replicar. Se a IA tem como referência um rosto distorcido pela câmera frontal, ela pode gerar o rosto com essas mesmas distorções.
+Ruan recomenda usar a câmera traseira do celular em vez da frontal. O motivo é técnico: a câmera traseira tem maior resolução e distorce menos o rosto. A câmera frontal, especialmente em zoom mais fechado, pode criar distorções que a IA vai replicar. Se a IA tem como referência um rosto distorcido pela câmera frontal, ela pode gerar o rosto com essas mesmas distorções.
 
 A variação é fundamental: mudar o cenário, mudar a iluminação, mudar a pose. Cada variação dá à IA mais informação sobre como o sujeito se parece em condições diferentes, tornando o resultado final mais versátil e preciso. Tirar fotos ao sol, em ambiente externo, além da iluminação artificial interna, também é uma boa prática. Trocar de roupa entre as fotos é recomendado.
 
@@ -34,23 +34,23 @@ A luz importa muito: se a luz está vindo muito de cima, ela cria sombras duras 
 
 ## Como tirar fotos de referência na prática
 
-O professor demonstra o processo ao vivo durante a aula: tira fotos de si mesmo usando o celular, registra em diferentes ângulos e câmeras, avalia a qualidade de cada uma e descarta as que não servem.
+Ruan demonstra o processo ao vivo durante a aula: tira fotos de si mesmo usando o celular, registra em diferentes ângulos e câmeras, avalia a qualidade de cada uma e descarta as que não servem.
 
 Fotos em que o cabelo estava saindo de baixo do boné, por exemplo, foram descartadas: a IA pode replicar esses "erros" visuais como características permanentes do sujeito, gerando imagens inconsistentes com o que se quer construir. A recomendação é simples: use fotos boas. Se uma foto não ficou bem enquadrada, tire de fora da seleção.
 
 Para quem não consegue tirar as próprias fotos com qualidade, a solução é pedir para alguém ajudar: fazer um ensaio caseiro mais básico, com alguém segurando o celular, em fundo branco, com cenário simples, com iluminação natural do sol. A qualidade não precisa ser profissional para servir como referência inicial, mas precisa ser funcional.
 
-Fotos de ensaios profissionais, quando disponíveis, fazem muita diferença para a IA. No caso da aula, algumas fotos do ensaio feito com o fotógrafo Daniel Meg são incluídas no moodboard, e o professor observa a diferença de qualidade visível em comparação com as selfies tiradas durante a live.
+Fotos de ensaios profissionais, quando disponíveis, fazem muita diferença para a IA. No caso da aula, algumas fotos do ensaio feito com o fotógrafo Daniel Meg são incluídas no moodboard, e Ruan observa a diferença de qualidade visível em comparação com as selfies tiradas durante a live.
 
 ## Enviando fotos do celular para o Figma
 
-O processo prático de transferência das fotos do celular para o Figma é demonstrado na aula: o professor se envia as fotos via WhatsApp Web e depois arrasta do navegador para o arquivo do Figma. É um fluxo simples e funcional para quem não tem um sistema mais elaborado de transferência de arquivos.
+O processo prático de transferência das fotos do celular para o Figma é demonstrado na aula: Ruan se envia as fotos via WhatsApp Web e depois arrasta do navegador para o arquivo do Figma. É um fluxo simples e funcional para quem não tem um sistema mais elaborado de transferência de arquivos.
 
-A observação sobre o WhatsApp é direta: o professor tem múltiplas contas Google, o que gera um pouco de confusão no processo, mas serve para mostrar que o workflow real tem pequenas fricções que são normais.
+A observação sobre o WhatsApp é direta: Ruan tem múltiplas contas Google, o que gera um pouco de confusão no processo, mas serve para mostrar que o workflow real tem pequenas fricções que são normais.
 
 ## Construindo o moodboard no Figma: dois painéis distintos
 
-A organização do moodboard no Figma segue uma lógica de separação por tipo de referência. O professor cria dois grupos distintos:
+A organização do moodboard no Figma segue uma lógica de separação por tipo de referência. Ruan cria dois grupos distintos:
 
 Moodboard Outfit: concentra todas as referências de figurino, roupas e acessórios. Esse painel organiza o estilo de vestimenta que a IA deve usar como base para representar o sujeito.
 
@@ -60,9 +60,9 @@ Essa separação é importante por um motivo prático: evita que a IA misture re
 
 ## Pinterest como ferramenta de curadoria de referências de figurino
 
-Para o moodboard de figurino, o professor navega no Pinterest usando referências que havia criado anteriormente em colaboração com a Carol Volpe, designer de moda que faz parte da comunidade Vanguarda da Overlens. Eles criaram juntos um conjunto de referências de roupas experimentais e diferenciadas para explorar possibilidades de visual.
+Para o moodboard de figurino, Ruan navega no Pinterest usando referências que havia criado anteriormente em colaboração com a Carol Volpe, designer de moda que faz parte da comunidade Vanguarda da Overlens. Eles criaram juntos um conjunto de referências de roupas experimentais e diferenciadas para explorar possibilidades de visual.
 
-O processo de seleção das referências de figurino é intencional: o professor vai arrastando imagens do Pinterest diretamente para o Figma, escolhendo peças que ressoam com o estilo que quer explorar. Alguns critérios de seleção são explicitados durante a navegação:
+O processo de seleção das referências de figurino é intencional: Ruan vai arrastando imagens do Pinterest diretamente para o Figma, escolhendo peças que ressoam com o estilo que quer explorar. Alguns critérios de seleção são explicitados durante a navegação:
 
 Prefere coisas que incomodam um pouco, que saem do lugar-comum. Gosta de peças com detalhes tipográficos, como uma camisa com "OVER" estampado. Peças que remetem a work in progress ou processo criativo são particularmente interessantes. Jaquetas com design diferenciado entram na lista. Roupas verdes que ele mesmo chegou a usar em eventos ao vivo também são referência.
 
@@ -70,7 +70,7 @@ A instrução sobre tamanho das imagens é importante: não aumentar as imagens 
 
 ## Pinterest como ferramenta de curadoria de referências fotográficas
 
-Para o moodboard fotográfico, o professor usa as palavras-chave extraídas do briefing na aula anterior como guia de busca. O processo é mostrado ao vivo: diferentes combinações de palavras-chave geram diferentes tipos de resultados no Pinterest, e o professor vai filtrando o que serve e o que não serve.
+Para o moodboard fotográfico, Ruan usa as palavras-chave extraídas do briefing na aula anterior como guia de busca. O processo é mostrado ao vivo: diferentes combinações de palavras-chave geram diferentes tipos de resultados no Pinterest, e Ruan vai filtrando o que serve e o que não serve.
 
 Algumas observações importantes durante a curadoria:
 
@@ -92,13 +92,13 @@ Isso é especialmente problemático quando a referência inclui pessoas de carac
 
 O mesmo vale para botas, estilos de cabelo exagerados ou qualquer elemento muito marcante na referência. A IA não separa automaticamente "isso é referência de composição" de "isso é referência de aparência física". Quanto mais explícito você for no prompt sobre o que quer aproveitar de cada referência, melhor.
 
-Para mitigar esse risco, o professor sugere incluir o gênero nas palavras-chave de busca: ao pesquisar por "conceitual portrait", resultados com o gênero do sujeito aparecem com mais frequência, reduzindo a chance de referências com fisionomias muito diferentes serem incluídas.
+Para mitigar esse risco, Ruan sugere incluir o gênero nas palavras-chave de busca: ao pesquisar por "conceitual portrait", resultados com o gênero do sujeito aparecem com mais frequência, reduzindo a chance de referências com fisionomias muito diferentes serem incluídas.
 
 ## A lógica da busca por palavras-chave no Pinterest
 
-O professor demonstra que diferentes palavras-chave no Pinterest geram resultados muito diferentes, e que a estratégia de busca importa. Algumas observações do processo ao vivo:
+Ruan demonstra que diferentes palavras-chave no Pinterest geram resultados muito diferentes, e que a estratégia de busca importa. Algumas observações do processo ao vivo:
 
-Palavras-chave muito amplas, como "MEO" (abreviação usada para "men" em inglês), podem trazer resultados indesejados. O professor aprende isso durante a aula e ajusta a busca para termos mais específicos como "conceptual portrait".
+Palavras-chave muito amplas, como "MEO" (abreviação usada para "men" em inglês), podem trazer resultados indesejados. Ruan aprende isso durante a aula e ajusta a busca para termos mais específicos como "conceptual portrait".
 
 Buscar em inglês e em português pode gerar resultados distintos. Vale experimentar ambos para ampliar o leque de referências.
 
@@ -116,7 +116,7 @@ O princípio aplicado aqui é que quando você identifica os signos que quer usa
 
 ## A diferença está na referência, não na ferramenta
 
-Um dos momentos mais diretos da aula é quando o professor para e faz uma afirmação clara: "Vocês vão ver que a diferença é a referência, não é a ferramenta." Essa frase sintetiza a filosofia que permeia toda a trilha.
+Um dos momentos mais diretos da aula é quando Ruan para e faz uma afirmação clara: "Vocês vão ver que a diferença é a referência, não é a ferramenta." Essa frase sintetiza a filosofia que permeia toda a trilha.
 
 Qualquer ferramenta de geração de imagem, seja qual for, vai produzir resultados muito mais precisos e coerentes quando alimentada com referências bem curadas do que quando recebe apenas um prompt de texto. A ferramenta não compensa a ausência de referência. A referência eleva o resultado de qualquer ferramenta.
 
@@ -124,7 +124,7 @@ Isso também significa que gastar tempo no Pinterest, no Figma ou em qualquer ou
 
 ## Quantidade e curadoria no moodboard final
 
-Ao final da montagem, o moodboard criado durante a aula tem referências de figurino, referências fotográficas em preto e branco, referências de composição colorida, referências de ambiente com estante de livros e variações de iluminação. O professor reconhece que o moodboard poderia ser ainda maior, mas que o que foi construído já tem referências legais suficientes para iniciar a geração.
+Ao final da montagem, o moodboard criado durante a aula tem referências de figurino, referências fotográficas em preto e branco, referências de composição colorida, referências de ambiente com estante de livros e variações de iluminação. Ruan reconhece que o moodboard poderia ser ainda maior, mas que o que foi construído já tem referências legais suficientes para iniciar a geração.
 
 A instrução final sobre quantidade de imagens no moodboard é: mais é melhor, até certo ponto. Ter 20 a 30 referências bem curadas é muito melhor do que ter 5 referências aleatórias. Mas a curadoria importa: não é para jogar tudo que aparece na tela. É para selecionar o que tem sinergia com o briefing e com o painel semântico.
 

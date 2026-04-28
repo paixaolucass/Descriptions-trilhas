@@ -25,7 +25,7 @@ CMYK é o sistema de cor usado para meios impressos. A sigla representa as quatr
 
 Esse sistema funciona com pigmentos. Qualquer material que precisa ser impresso fisicamente, como papelaria, outdoors ou embalagens, deve ser criado nesse espaço de cor. Trabalhar em CMYK garante que as cores escolhidas na tela correspondam ao que a gráfica consegue reproduzir com tinta.
 
-O professor mencionou também a existência do sistema Pantone como outra referência de cor para impressão. Trata-se de um sistema proprietário de cores padronizadas, amplamente usado na indústria gráfica para garantir precisão de cor entre diferentes fornecedores e processos de impressão. O tema não foi aprofundado nesta aula, mas foi indicado como conteúdo disponível em texto complementar abaixo do vídeo.
+Ruan mencionou também a existência do sistema Pantone como outra referência de cor para impressão. Trata-se de um sistema proprietário de cores padronizadas, amplamente usado na indústria gráfica para garantir precisão de cor entre diferentes fornecedores e processos de impressão. O tema não foi aprofundado nesta aula, mas foi indicado como conteúdo disponível em texto complementar abaixo do vídeo.
 
 ## RGB: o sistema de cor para telas e luz
 
@@ -43,21 +43,21 @@ Programas como Illustrator e Photoshop oferecem presets de sistema de cor para f
 
 ## Harmonização de cores: a regra prática para quem está começando
 
-Designers iniciantes tendem a usar muitas cores ao mesmo tempo e a buscar alta saturação nos projetos. O professor alerta para os dois riscos dessa abordagem: projetos sobrecarregados visualmente e dificuldade de gerenciar a coerência entre as cores.
+Designers iniciantes tendem a usar muitas cores ao mesmo tempo e a buscar alta saturação nos projetos. Ruan alerta para os dois riscos dessa abordagem: projetos sobrecarregados visualmente e dificuldade de gerenciar a coerência entre as cores.
 
 A orientação direta é trabalhar com no máximo três ou quatro cores por projeto nessa fase. Simplicidade é a melhor estratégia para quem ainda está desenvolvendo o olhar para cor.
 
-O princípio central de harmonização é o contraste. Uma paleta funciona quando combina cores de valores distintos. Se a cor principal é clara, a paleta deve incluir ao menos uma cor escura para gerar contraste. Paletas com apenas cores claras ou apenas cores escuras tendem a parecer apagadas e sem hierarquia visual. O professor exemplificou: se a cor principal é o amarelo, faz sentido combinar com preto, azul escuro, verde escuro ou vermelho escuro.
+O princípio central de harmonização é o contraste. Uma paleta funciona quando combina cores de valores distintos. Se a cor principal é clara, a paleta deve incluir ao menos uma cor escura para gerar contraste. Paletas com apenas cores claras ou apenas cores escuras tendem a parecer apagadas e sem hierarquia visual. Ruan exemplificou: se a cor principal é o amarelo, faz sentido combinar com preto, azul escuro, verde escuro ou vermelho escuro.
 
 ## Adobe Color: uma ferramenta para criar e explorar paletas
 
-O professor apresentou o Adobe Color como uma ferramenta gratuita para auxiliar na criação de paletas. Ela é acessível pelo Google buscando "Adobe Color roda de cores".
+Ruan apresentou o Adobe Color como uma ferramenta gratuita para auxiliar na criação de paletas. Ela é acessível pelo Google buscando "Adobe Color roda de cores".
 
 Dentro da ferramenta, a seção de harmonia de cores oferece diferentes modelos de combinação: monocromático, tríade, complementar, dividir e complementar, quadrado, composto e sombra. Cada um desses modelos tem uma lógica própria, desenvolvida a partir da teoria de cores da Bauhaus, a primeira escola de design. Esse sistema foi criado por um dos professores da Bauhaus com base em formas geométricas e será explicado em profundidade em aulas futuras do curso.
 
-Para quem ainda não tem fluência com esses modelos, o professor indica a seção "Explorar" do Adobe Color. Nela, é possível pesquisar por uma matiz principal, como "orange", e encontrar paletas prontas criadas por outros designers. Essas paletas já foram construídas com atenção ao contraste, o que as torna um ponto de partida seguro para quem está começando.
+Para quem ainda não tem fluência com esses modelos, Ruan indica a seção "Explorar" do Adobe Color. Nela, é possível pesquisar por uma matiz principal, como "orange", e encontrar paletas prontas criadas por outros designers. Essas paletas já foram construídas com atenção ao contraste, o que as torna um ponto de partida seguro para quem está começando.
 
-O professor reforça que, nessa fase do curso, as referências visuais são mais úteis do que a teoria. Buscar paletas usadas por outros designers e observar como elas equilibram cores claras e escuras é o caminho mais eficiente para desenvolver o senso cromático antes de aprender a lógica por trás das harmonias.
+Ruan reforça que, nessa fase do curso, as referências visuais são mais úteis do que a teoria. Buscar paletas usadas por outros designers e observar como elas equilibram cores claras e escuras é o caminho mais eficiente para desenvolver o senso cromático antes de aprender a lógica por trás das harmonias.
 
 ## Coloque em prática
 

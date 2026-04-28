@@ -34,7 +34,7 @@ Para quem não está pronto para API ainda, os hubs são a forma mais acessível
 
 ## Os hubs apresentados na aula
 
-**Freepik:** o hub de maior custo-benefício para a maioria dos profissionais criativos. Dentro da plataforma você encontra geração de imagem, edição de imagem, melhoria de imagem, efeito de cinema, geração de mockup, alteração de câmera e outras funcionalidades. Os modelos disponíveis incluem NanoBanana, Seedream e outros. É a opção mais completa em termos de variedade de ferramentas acessíveis em uma única assinatura. O professor coloca o Freepik como um dos dois favoritos.
+**Freepik:** o hub de maior custo-benefício para a maioria dos profissionais criativos. Dentro da plataforma você encontra geração de imagem, edição de imagem, melhoria de imagem, efeito de cinema, geração de mockup, alteração de câmera e outras funcionalidades. Os modelos disponíveis incluem NanoBanana, Seedream e outros. É a opção mais completa em termos de variedade de ferramentas acessíveis em uma única assinatura. Ruan coloca o Freepik como um dos dois favoritos.
 
 **Runway:** o segundo favorito. Também é um hub de ferramentas, mas com um posicionamento mais voltado para produção audiovisual e criativa profissional. Tem ferramentas de geração de imagem e vídeo, com foco em fluxos criativos de alto nível. É uma referência importante tanto para uso quanto para acompanhar o que está sendo feito por criadores ao redor do mundo.
 
@@ -42,13 +42,13 @@ Para quem não está pronto para API ainda, os hubs são a forma mais acessível
 
 **Crea:** um hub com custo menor, indicado para quem quer acesso a modelos de IA a um preço mais acessível. Tem algumas IAs gratuitas disponíveis também. Funciona e é uma opção para quem está começando e quer explorar sem comprometer orçamento.
 
-**Leonardo AI:** hub com interface redesenhada no momento da gravação. O professor menciona que havia muito tempo sem usar e estava curioso sobre o que o redesign traria de novo. Tem vários modelos disponíveis e funciona como espaço de exploração e testes de estilos. Fica como opção a ser avaliada.
+**Leonardo AI:** hub com interface redesenhada no momento da gravação. Ruan menciona que havia muito tempo sem usar e estava curioso sobre o que o redesign traria de novo. Tem vários modelos disponíveis e funciona como espaço de exploração e testes de estilos. Fica como opção a ser avaliada.
 
-**Visual Electric:** estava na lista original, mas o professor remove na hora da gravação porque a plataforma passou a jogar o usuário direto para o login sem mostrar nenhum conteúdo na página inicial, o que dificulta a apresentação como referência. Ficou fora da lista final.
+**Visual Electric:** estava na lista original, mas Ruan remove na hora da gravação porque a plataforma passou a jogar o usuário direto para o login sem mostrar nenhum conteúdo na página inicial, o que dificulta a apresentação como referência. Ficou fora da lista final.
 
 ## Os cinco hubs que a aula fecha como referência
 
-A lista consolidada é: Freepik, Runway, Adobe Firefly, Crea e Leonardo AI. Esses cinco suprem as necessidades da maioria dos profissionais que não estão trabalhando com API direta. A recomendação prática é começar pelo Freepik e pelo Runway, que são os favoritos do professor, e explorar os outros conforme a necessidade aparecer.
+A lista consolidada é: Freepik, Runway, Adobe Firefly, Crea e Leonardo AI. Esses cinco suprem as necessidades da maioria dos profissionais que não estão trabalhando com API direta. A recomendação prática é começar pelo Freepik e pelo Runway, que são os favoritos de Ruan, e explorar os outros conforme a necessidade aparecer.
 
 ## Por que usar hub como referência de imagens também
 

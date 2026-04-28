@@ -24,7 +24,7 @@ A linguagem diz muito sobre quem fala: a identidade, com quem a pessoa se comuni
 
 A palavra identidade vem do latim identitas, que significa "a mesma coisa", derivando de idem, o mesmo. Identidade é aquilo que permanece, aquilo que se repete. Você constrói identidade com as características que não mudam, o que cada vez que alguém te vê, está lá de novo.
 
-O território de palavras serve exatamente para isso: mapear quais palavras, termos e conceitos você repete tanto que passam a fazer parte da sua identidade. O exemplo dado na aula: a palavra nexialismo. Não é uma palavra que qualquer pessoa usa, mas de tanto aparecer, nexialismo, habilidades nexialistas, designer nexialista, ela se tornou parte da identidade do professor. É isso que as pessoas reconhecem.
+O território de palavras serve exatamente para isso: mapear quais palavras, termos e conceitos você repete tanto que passam a fazer parte da sua identidade. O exemplo dado na aula: a palavra nexialismo. Não é uma palavra que qualquer pessoa usa, mas de tanto aparecer, nexialismo, habilidades nexialistas, designer nexialista, ela se tornou parte da identidade de Ruan. É isso que as pessoas reconhecem.
 
 Autores como Stephen King ou Ayn Rand têm identidade verbal tão forte que o leitor reconhece o estilo sem precisar ver o nome. Isso é coerência. É o que o território de palavras produz.
 
@@ -60,9 +60,9 @@ O resultado da análise de uma reunião da Vanguarda (mentoria avançada) identi
 - Núcleo relacional: você, nós, forte uso de "você" como ativador cognitivo
 - Núcleo de realidade: negócio, agora, depois, linguagem concreta, pouco abstrata
 
-O glossário destacou "entropia" como palavra de destaque por ser diferenciadora, não é uma palavra que qualquer um usa, mas é recorrente no vocabulário do professor. O estilo identificado: "fala como pensa; didático sem academicismo; vocabulário simples com conceitos densos; o valor não está na palavra rara, mas no encaixe conceitual." Tom: "líder acessível, provocativo, calmo; construtivo, não acusatório." Estrutura de raciocínio: "contextualiza, nomeia o problema, cria contraste, aponta direção, convoca o coletivo."
+O glossário destacou "entropia" como palavra de destaque por ser diferenciadora, não é uma palavra que qualquer um usa, mas é recorrente no vocabulário de Ruan. O estilo identificado: "fala como pensa; didático sem academicismo; vocabulário simples com conceitos densos; o valor não está na palavra rara, mas no encaixe conceitual." Tom: "líder acessível, provocativo, calmo; construtivo, não acusatório." Estrutura de raciocínio: "contextualiza, nomeia o problema, cria contraste, aponta direção, convoca o coletivo."
 
-A frase síntese da identidade verbal entregue pela IA: "clareza gera movimento". O professor comenta que clareza é a palavra que atravessa toda a trilha Syntax, e é exatamente o que reaparece quando a IA analisa uma reunião separada. Identidade é o padrão que você não consegue deixar de ser.
+A frase síntese da identidade verbal entregue pela IA: "clareza gera movimento". Ruan comenta que clareza é a palavra que atravessa toda a trilha Syntax, e é exatamente o que reaparece quando a IA analisa uma reunião separada. Identidade é o padrão que você não consegue deixar de ser.
 
 Essa técnica funciona com qualquer tipo de conteúdo: vídeos, textos escritos, reuniões de equipe. Se a marca não é você, o processo é o mesmo, mas o território que se cria é da empresa, não da pessoa.
 

@@ -46,7 +46,7 @@ O tipo textual não é escolhido para deixar o texto bonito. É escolhido para c
 
 ## O método da escolha funcional
 
-O professor apresenta três perguntas que precisam ser respondidas antes de abrir qualquer prompt, antes mesmo de começar a escrever.
+Ruan apresenta três perguntas que precisam ser respondidas antes de abrir qualquer prompt, antes mesmo de começar a escrever.
 
 A primeira é sobre o efeito desejado: o que eu quero que o leitor sinta, entenda ou faça depois de ler? Essa resposta define o motor.
 

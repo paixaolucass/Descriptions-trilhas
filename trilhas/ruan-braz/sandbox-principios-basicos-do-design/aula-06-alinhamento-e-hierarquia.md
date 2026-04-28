@@ -33,11 +33,11 @@ A escala também se aplica às distâncias entre elementos, não apenas aos tama
 
 ## Demonstração: construindo hierarquia e espaçamento com a escala
 
-Para mostrar a aplicação da escala, o professor montou uma composição ao vivo no quadro branco, escolhendo três valores da progressão: 16, 48 e 96 pixels. O texto de parágrafo recebeu 16 pixels, o nível intermediário recebeu 48 pixels e o título principal recebeu 96 pixels. Essa progressão já cria três camadas de hierarquia claras.
+Para mostrar a aplicação da escala, Ruan montou uma composição ao vivo no quadro branco, escolhendo três valores da progressão: 16, 48 e 96 pixels. O texto de parágrafo recebeu 16 pixels, o nível intermediário recebeu 48 pixels e o título principal recebeu 96 pixels. Essa progressão já cria três camadas de hierarquia claras.
 
-O professor nomeou esses níveis como H3, H2 e H1, termos equivalentes aos headings usados em tipografia e desenvolvimento web. O sistema de headings facilita a composição porque padroniza as decisões: sempre que houver um título, usa-se o tamanho do H1; subtítulos usam H2; parágrafos usam o tamanho base. Um H4 pode ser criado usando o mesmo tamanho do parágrafo com peso maior (negrito), quando necessário.
+Ruan nomeou esses níveis como H3, H2 e H1, termos equivalentes aos headings usados em tipografia e desenvolvimento web. O sistema de headings facilita a composição porque padroniza as decisões: sempre que houver um título, usa-se o tamanho do H1; subtítulos usam H2; parágrafos usam o tamanho base. Um H4 pode ser criado usando o mesmo tamanho do parágrafo com peso maior (negrito), quando necessário.
 
-A escala também foi aplicada às distâncias. O professor criou um quadrado de 24x24 pixels para usar como referência de espaçamento entre elementos próximos dentro de um mesmo grupo. Para separar grupos distintos de elementos, usou 40 pixels. Para o espaço acima do título principal, usou 96 pixels. Quando a distância pareceu grande demais, o caminho foi voltar à escala e escolher o valor imediatamente abaixo, mantendo a consistência em vez de ajustar no olho.
+A escala também foi aplicada às distâncias. Ruan criou um quadrado de 24x24 pixels para usar como referência de espaçamento entre elementos próximos dentro de um mesmo grupo. Para separar grupos distintos de elementos, usou 40 pixels. Para o espaço acima do título principal, usou 96 pixels. Quando a distância pareceu grande demais, o caminho foi voltar à escala e escolher o valor imediatamente abaixo, mantendo a consistência em vez de ajustar no olho.
 
 Usar a escala nos espaçamentos garante que as distâncias tenham a mesma coerência dos tamanhos de texto, criando unidade visual no projeto como um todo.
 
@@ -45,7 +45,7 @@ Usar a escala nos espaçamentos garante que as distâncias tenham a mesma coerê
 
 ## Análise de referências: observando hierarquia, alinhamento e síntese em composições reais
 
-A pasta de referências disponibilizada na aula contém 58 pins organizados para ilustrar alinhamento, hierarquia e composição. O professor analisou exemplos diretamente durante a aula, destacando o que torna cada composição eficaz.
+A pasta de referências disponibilizada na aula contém 58 pins organizados para ilustrar alinhamento, hierarquia e composição. Ruan analisou exemplos diretamente durante a aula, destacando o que torna cada composição eficaz.
 
 Em um segundo exemplo de site analisado, o título principal e duas imagens de peso semelhante formam o primeiro nível de leitura. Os elementos menores ao redor só são percebidos depois. Esse equilíbrio entre os dois elementos de destaque cria simetria visual sem exigir simetria de posição.
 

@@ -28,7 +28,7 @@ Prompts genéricos têm seu lugar: são úteis quando o objetivo é explorar ide
 
 O segundo erro é enviar um texto sem definir para quem ele se destina. A IA aceita qualquer coisa, diferente de um ser humano real, que tem limitações, visão de mundo, problemas e desejos específicos.
 
-O professor recomenda criar um documento de público: um Google Docs onde o perfil do leitor está descrito, quem é, o que vê, o que ouve, o que pensa, o que sente, como age, qual o vocabulário dele. Esse documento pode ser subido para a IA como base de conhecimento. Uma vez feito, está pronto para ser usado em qualquer sessão.
+Ruan recomenda criar um documento de público: um Google Docs onde o perfil do leitor está descrito, quem é, o que vê, o que ouve, o que pensa, o que sente, como age, qual o vocabulário dele. Esse documento pode ser subido para a IA como base de conhecimento. Uma vez feito, está pronto para ser usado em qualquer sessão.
 
 A lógica dos GPTs de persona que apareceu na aula anterior parte do mesmo princípio: criar um assistente por persona já embutindo esse contexto, para não precisar reescrever a cada prompt.
 
@@ -60,9 +60,9 @@ A aula demonstra o processo de iteração completo a partir de um exercício: cr
 
 **Adicionando critérios:** familiaridade, quebra de padrão, gap cognitivo (o título deve ser incompleto, abrir uma ideia sem fechá-la, fazer o leitor sentir que algo ficou faltando). O resultado melhora, mas ainda não chega ao ponto.
 
-**Usando exemplos (few-shot):** ao invés de explicar os critérios em texto, o professor dá um exemplo de título que funciona, "Criar é perigoso. E você faz parte disso.", e pede variações com outros enquadramentos. A IA consegue replicar o padrão com mais precisão do que quando só recebe descrições.
+**Usando exemplos (few-shot):** ao invés de explicar os critérios em texto, Ruan dá um exemplo de título que funciona, "Criar é perigoso. E você faz parte disso.", e pede variações com outros enquadramentos. A IA consegue replicar o padrão com mais precisão do que quando só recebe descrições.
 
-**Ajuste final:** o professor percebe que os títulos ainda pressupõem que o leitor já sabe que o texto é sobre criação. Instrui a IA para que o título não entregue o tema diretamente, apenas crie tensão e lacuna que puxem o leitor para dentro. Resultado: "Criar é perigoso. Quem assume a responsabilidade?"
+**Ajuste final:** Ruan percebe que os títulos ainda pressupõem que o leitor já sabe que o texto é sobre criação. Instrui a IA para que o título não entregue o tema diretamente, apenas crie tensão e lacuna que puxem o leitor para dentro. Resultado: "Criar é perigoso. Quem assume a responsabilidade?"
 
 A lição que atravessa todo o exercício: escrever um bom prompt é ter clareza mental. Quanto mais claro está o que você quer, mais fácil é instruir a IA.
 

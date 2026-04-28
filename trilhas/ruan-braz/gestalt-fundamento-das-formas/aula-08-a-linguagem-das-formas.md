@@ -69,7 +69,7 @@ Uma fonte pode ser criada para um sentido e ser utilizada com sucesso para vári
 
 O livro "A Linguagem Invisível da Tipografia", de Eric Spiekermann, apresenta um conceito central: a gente tem que usar letras do mesmo modo que usa sapatos. Veste-se um sapato para cada contexto. Com as letras é a mesma coisa: usa-se uma tipografia para cada contexto, e tudo depende da mensagem que se quer passar.
 
-Para tornar isso visual, o professor adaptou a referência de Spiekermann com um conjunto de pares de sapatos e suas tipografias correspondentes. O All Star é college e combina com uma tipografia que representa essa jovialidade descontraída. O salto alto das madames traz uma tipografia mais rebuscada, a SNJ Roundhand, com mais classe e estilo.
+Para tornar isso visual, Ruan adaptou a referência de Spiekermann com um conjunto de pares de sapatos e suas tipografias correspondentes. O All Star é college e combina com uma tipografia que representa essa jovialidade descontraída. O salto alto das madames traz uma tipografia mais rebuscada, a SNJ Roundhand, com mais classe e estilo.
 
 A Acumin condensada e inclinada traz a agilidade presente nas campanhas da Nike e Adidas: é a tipografia do atleta. Já a Arnold Bocklin traz as curvas da natureza, o traço orgânico, e essa identidade aparece tanto na tipografia quanto no tipo de sapato que a representa. A Cooper traz jovialidade, mas é uma jovialidade mais inocente e infantil, diferente do All Star que é mais velho.
 
@@ -79,7 +79,7 @@ A Mesquite remete ao universo cowboy e combina com exatidão com a estética que
 
 O exemplo dos arquétipos mostra como a escolha tipográfica pode posicionar uma marca ou personagem em categorias de identidade. A realista posiciona o cara comum. Uma tipografia serifada clássica posiciona o governador. Tipografias com traço mais orgânico e expressivo podem posicionar o amante, o criativo ou o bobo da corte. As tipografias com mais precisão e estrutura se aproximam do sábio.
 
-O professor testa o conceito com a palavra "idiota". No nível epistemológico, idiota significa alguém tolo, sem sabedoria. Mas quando se escreve "idiota" com uma tipografia sofisticada e rebuscada, o nível semiológico cria um contraste: é um idiota com classe, pode ser uma pessoa inteligente se referindo ironicamente a alguém. A escolha tipográfica recontextualiza o insulto.
+Ruan testa o conceito com a palavra "idiota". No nível epistemológico, idiota significa alguém tolo, sem sabedoria. Mas quando se escreve "idiota" com uma tipografia sofisticada e rebuscada, o nível semiológico cria um contraste: é um idiota com classe, pode ser uma pessoa inteligente se referindo ironicamente a alguém. A escolha tipográfica recontextualiza o insulto.
 
 Trocando para a palavra "tolo" na mesma tipografia elegante, o resultado muda ainda mais: quem fala "tolo" é o Gandalf, que é um sábio. A palavra epistemológica e a tipografia semiológica criam juntas uma mensagem que não existia em nenhum dos dois elementos separadamente. É exatamente A mais B igual a C, mas agora operando dentro da própria escolha tipográfica.
 
@@ -115,7 +115,7 @@ A tristeza tem pouco movimento, é parada e verticalizada. A tipografia escolhid
 
 A segunda pergunta orientadora é: existe alguma metáfora ou analogia que eu posso usar? Esse é o momento em que o designer começa a jogar com o epistemológico e o semiológico ao mesmo tempo: como juntar os dois para criar uma terceira mensagem?
 
-O exemplo apresentado é uma campanha de molho de pimenta considerada uma das mais geniais pelo professor, usada também como referência sempre que se estuda Gestalt e semiótica. Na campanha, o molho de pimenta é a embalagem física, o fato epistemológico. Mas a embalagem tem o pino de uma granada preso na tampa: a metáfora. Vai explodir seus sentidos. É como uma granada.
+O exemplo apresentado é uma campanha de molho de pimenta considerada uma das mais geniais por Ruan, usada também como referência sempre que se estuda Gestalt e semiótica. Na campanha, o molho de pimenta é a embalagem física, o fato epistemológico. Mas a embalagem tem o pino de uma granada preso na tampa: a metáfora. Vai explodir seus sentidos. É como uma granada.
 
 Em outro anúncio da mesma série, a referência é um extintor: esse molho vai queimar tanto que você vai precisar de um extintor para apagar. Dois objetos diferentes, dois significados diferentes, mas ambos criam uma analogia precisa com a experiência de comer um molho extremamente apimentado. O design comunica tudo isso com pouquíssimas palavras e sem habilidade técnica elaborada: a genialidade está na ideia, na relação entre dois objetos do mundo concreto para criar um terceiro significado.
 
@@ -141,7 +141,7 @@ A National Geographic apresenta o caso inverso: uma marca que fala sobre naturez
 
 ## Design é relação
 
-A conclusão da aula retoma uma frase citada pelo professor como clássica: tudo é relativo, design é relação. É a relação entre o nível epistemológico e o semiológico, entre matéria e forma, entre mundo real e mundo das ideias. Design é conduzir a percepção das pessoas relacionando o mundo real com o mundo das ideias.
+A conclusão da aula retoma uma frase citada por Ruan como clássica: tudo é relativo, design é relação. É a relação entre o nível epistemológico e o semiológico, entre matéria e forma, entre mundo real e mundo das ideias. Design é conduzir a percepção das pessoas relacionando o mundo real com o mundo das ideias.
 
 Todos os fundamentos estudados no módulo, forma, matéria, eixos, Gestalt, os dois mundos, são subordinados da mensagem. Nenhum deles existe por si mesmo. Eles só fazem sentido quando colocados a serviço da comunicação de algo. A mensagem é o ponto de partida e o ponto de chegada de qualquer decisão formal.
 

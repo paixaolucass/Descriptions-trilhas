@@ -17,13 +17,13 @@ Ao final desta aula, você será capaz de:
 
 A literatura de design apresenta dezenas de princípios diferentes, cada livro com sua lista própria. Ursus Wöng lista forma, repetição, estrutura, similaridade, gradação, radiação, anomalia, contraste, concentração, textura, espaço e outros. Rudolf Arnheim tem seu próprio conjunto em Arte e Percepção Visual. Adrian Frutiger traz mais princípios em Sinais e Símbolos, com uma abordagem distinta. Geometria do design, Sintaxe da linguagem visual, Sistema de retículas, Curso de Design Gráfico: todos apresentam listas diferentes, com nomes diferentes para conceitos parecidos.
 
-O professor percebeu esse problema ao tentar preparar suas primeiras aulas. Precisava passar princípios importantes, mas eles não tinham uma linha que os conectasse. A pergunta que o orientou foi: esses princípios têm algo em comum que permita reuni-los em uma estrutura única?
+Ruan percebeu esse problema ao tentar preparar suas primeiras aulas. Precisava passar princípios importantes, mas eles não tinham uma linha que os conectasse. A pergunta que o orientou foi: esses princípios têm algo em comum que permita reuni-los em uma estrutura única?
 
 ## A questão de fundo: para que serve o design?
 
 O ponto de partida da reflexão foi uma frase ouvida no terceiro período da faculdade, em 2016: "form follows function", do arquiteto americano Louis Sullivan. Essa frase dominou o design modernista, junto com "menos é mais" (Mies van der Rohe) e "o bom design é o design invisível". O resultado foi décadas de valorização quase exclusiva da funcionalidade, onde a forma de um objeto deveria se limitar a acompanhar sua função prática.
 
-O problema apareceu quando o professor tentou aplicar a frase ao design gráfico. Uma cadeira de prisão e um trono de rei têm a mesma função: servem para alguém sentar. Mas o significado por trás de cada uma muda completamente. Se a forma segue apenas a função, como explicar essa diferença? E no design gráfico, onde o visual é a própria função, qual forma a forma deveria ter?
+O problema apareceu quando Ruan tentou aplicar a frase ao design gráfico. Uma cadeira de prisão e um trono de rei têm a mesma função: servem para alguém sentar. Mas o significado por trás de cada uma muda completamente. Se a forma segue apenas a função, como explicar essa diferença? E no design gráfico, onde o visual é a própria função, qual forma a forma deveria ter?
 
 ## A insuficiência da beleza como critério
 
@@ -45,7 +45,7 @@ Design é sobre projetar interações entre o mundo ideal e o mundo real. Essa d
 
 ## Os quatro fundamentos como síntese
 
-A partir dessa tese, os quatro fundamentos da percepção visual são: formas, cores, composição e mensagem. Eles estão representados no que o professor chama de "molécula do design", porque tudo está interligado: ao trabalhar forma, está-se também trabalhando composição; as cores fazem parte das formas; nada é isolado. A síntese didática, porém, permite ter uma linha clara que conecta todos os princípios que antes apareciam soltos nos livros.
+A partir dessa tese, os quatro fundamentos da percepção visual são: formas, cores, composição e mensagem. Eles estão representados no que Ruan chama de "molécula do design", porque tudo está interligado: ao trabalhar forma, está-se também trabalhando composição; as cores fazem parte das formas; nada é isolado. A síntese didática, porém, permite ter uma linha clara que conecta todos os princípios que antes apareciam soltos nos livros.
 
 Cada fundamento será analisado sob os quatro graus de influência da percepção. As formas no grau fisiológico, no ambiental, no cultural e no individual. O mesmo com as cores. Depois, formas e cores se combinam em composições com suas próprias diretrizes para direcionar a percepção, algumas conduzindo ao caos, outras à ordem. Todos esses elementos são subordinados ao quarto fundamento: a mensagem. A conclusão que fecha o ciclo é a releitura da frase de Louis Sullivan: a forma segue a função, e a função de qualquer projeto de design é a mensagem que ele transmite.
 

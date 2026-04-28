@@ -24,7 +24,7 @@ Essa é uma das informações mais práticas da aula: quando o mood board está 
 
 ## O que a Overlens mais recebe elogios: as capas
 
-O professor introduz a parte central da aula falando sobre algo que a Overlens recebe muito elogio: o nível artístico das capas das trilhas. Elas têm aparência de pôster, são visualmente densas e artisticamente construídas. Chegar a esse resultado não é sorte nem aleatoriedade. Existe um processo específico para cada capa, e é esse processo que vai ser mostrado em detalhe.
+Ruan introduz a parte central da aula falando sobre algo que a Overlens recebe muito elogio: o nível artístico das capas das trilhas. Elas têm aparência de pôster, são visualmente densas e artisticamente construídas. Chegar a esse resultado não é sorte nem aleatoriedade. Existe um processo específico para cada capa, e é esse processo que vai ser mostrado em detalhe.
 
 O desafio central na produção de capas é criar imagens que são diferentes entre si, mas que harmonizam quando vistas juntas no feed da plataforma. Uma capa boa que quebra a harmonia do conjunto não é uma boa escolha. E uma capa que harmoniza mas não transmite a mensagem certa da trilha também não serve. Os dois critérios precisam ser atendidos ao mesmo tempo.
 
@@ -48,7 +48,7 @@ Depois da seleção, uma segunda rodada de filtragem escolhe três candidatas fi
 
 A etapa que muita gente pula é o teste no ambiente real. As três capas candidatas são colocadas junto com as outras capas existentes na plataforma para ver como elas funcionam no conjunto. É aqui que uma capa que parecia perfeita isoladamente pode se revelar problemática: quebra o feed, destoa das outras, transmite uma mensagem errada no contexto.
 
-No caso da Overlens, existe um equilíbrio muito específico a ser mantido. A identidade visual da marca trabalha em um limiar: se a paleta pesa um pouco mais para o lado escuro e misterioso, a capa começa a parecer sinistra ou conspiratória. Se aliviar demais, perde a tensão emocional que é característica da Overlens. O professor descreve essa tensão como a emoção de algo que ao mesmo tempo dá medo e dá êxtase e vontade de criar. A equipe trabalha nesse limite com consciência.
+No caso da Overlens, existe um equilíbrio muito específico a ser mantido. A identidade visual da marca trabalha em um limiar: se a paleta pesa um pouco mais para o lado escuro e misterioso, a capa começa a parecer sinistra ou conspiratória. Se aliviar demais, perde a tensão emocional que é característica da Overlens. Ruan descreve essa tensão como a emoção de algo que ao mesmo tempo dá medo e dá êxtase e vontade de criar. A equipe trabalha nesse limite com consciência.
 
 Das três candidatas, a que foi escolhida foi a que trouxe leveza dentro do processo, sem perder a profundidade. E antes de confirmar, a equipe checou se a capa batia os critérios originais: futurismo, evolução e clareza. Bateu todos os três. Funciona bem isolada, funciona bem no feed, passa a mensagem certa. Capa definida.
 

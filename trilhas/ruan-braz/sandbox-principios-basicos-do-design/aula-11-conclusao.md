@@ -15,7 +15,7 @@ Ao final desta aula, você será capaz de:
 
 ## Os princípios básicos servem como ponto de partida
 
-O professor explica que os princípios apresentados anteriormente são princípios básicos e simples do design. Eles não são tratados como regras absolutas, pois podem ser quebrados, adaptados ou substituídos conforme o contexto.
+Ruan explica que os princípios apresentados anteriormente são princípios básicos e simples do design. Eles não são tratados como regras absolutas, pois podem ser quebrados, adaptados ou substituídos conforme o contexto.
 
 Mesmo assim, para quem está começando, essas diretrizes oferecem clareza. Em vez de iniciar sem direção, o aluno passa a contar com uma base para tomar decisões melhores nos projetos.
 
@@ -23,7 +23,7 @@ A mensagem central é que fundamentos iniciais ajudam a acelerar evolução e ev
 
 ## A base ensinada já melhora resultados
 
-O professor afirma que aplicar os princípios mostrados já gera avanço perceptível nos projetos de design.
+Ruan afirma que aplicar os princípios mostrados já gera avanço perceptível nos projetos de design.
 
 Ele retoma os principais pontos vistos no módulo: buscar boas referências para começar, valorizar a simplicidade, trabalhar formato, margem e alinhamento, construir hierarquia das informações e escolher boas imagens.
 
@@ -33,7 +33,7 @@ Segundo ele, seguir essa base já coloca o aluno à frente de muitas pessoas que
 
 ## O próximo foco será oportunidade e faturamento
 
-Na sequência, o professor anuncia que o próximo módulo mostrará oportunidades já disponíveis no mercado para quem desenvolveu essa habilidade inicial.
+Na sequência, Ruan anuncia que o próximo módulo mostrará oportunidades já disponíveis no mercado para quem desenvolveu essa habilidade inicial.
 
 Ele afirma que, com os princípios ensinados e com os tutoriais seguintes, o aluno poderá executar serviços de alta demanda mesmo começando do zero.
 
@@ -41,7 +41,7 @@ Também apresenta uma meta inicial de faturamento de R$3.500 por mês, ocupando 
 
 ## Conteúdos avançados virão no momento certo
 
-O professor explica que ainda existe muito para aprofundar sobre os princípios mostrados. Ele cita temas mais densos como semiótica, gestalt, psicologia, neurociência, filosofia e história.
+Ruan explica que ainda existe muito para aprofundar sobre os princípios mostrados. Ele cita temas mais densos como semiótica, gestalt, psicologia, neurociência, filosofia e história.
 
 Segundo a aula, trazer esse volume de conteúdo antes da hora pode confundir o aluno ou dificultar o aprendizado se a mente ainda estiver ocupada com urgências práticas.
 

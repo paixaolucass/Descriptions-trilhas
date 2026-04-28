@@ -19,7 +19,7 @@ Ao final desta aula, você será capaz de:
 
 A ordem câmera e movimento, sujeito e atributos, ação, ambiente e contexto, luz e atmosfera, estilo de referência, no momento em que esta aula foi gravada, é um axioma global. Um axioma global é uma regra adotada no mundo inteiro por pessoas que estão obtendo resultados relevantes com IA em produções de alto nível, não apenas criadores independentes, mas pessoas fazendo grandes filmes e usando IA em produções cinematográficas reais.
 
-Não é uma sugestão pessoal do professor. As próprias empresas que desenvolvem as ferramentas sugerem estruturas que seguem essa mesma direção. Isso significa que os modelos foram treinados e otimizados para interpretar inputs nessa ordem, e quando você respeita essa hierarquia, você está trabalhando a favor do modelo, não contra ele.
+Não é uma sugestão pessoal de Ruan. As próprias empresas que desenvolvem as ferramentas sugerem estruturas que seguem essa mesma direção. Isso significa que os modelos foram treinados e otimizados para interpretar inputs nessa ordem, e quando você respeita essa hierarquia, você está trabalhando a favor do modelo, não contra ele.
 
 ## Camada 1: câmera e movimento
 
@@ -79,9 +79,9 @@ Especificar temperatura em Kelvin ancora a IA em um range de cor preciso. Os mod
 
 ## Camada 6: estilo e referência
 
-O estilo pode ser orientado para a estética da imagem (fotorrealista, granulação de 35mm, anamórfico) ou para a estética de um diretor ou fotógrafo específico. O professor prefere ir além do nome: usar o Gemini para pesquisar a técnica cinematográfica daquele diretor, extrair os termos específicos, e colocar esses termos no prompt. Denis Villeneuve, por exemplo, usa escala monumental, ritmo contemplativo, narrativa visual, planos longos e lentes entre 24mm e 70mm. Esses termos descrevem a técnica com precisão muito maior do que apenas colocar "dirigido por Denis Villeneuve".
+O estilo pode ser orientado para a estética da imagem (fotorrealista, granulação de 35mm, anamórfico) ou para a estética de um diretor ou fotógrafo específico. Ruan prefere ir além do nome: usar o Gemini para pesquisar a técnica cinematográfica daquele diretor, extrair os termos específicos, e colocar esses termos no prompt. Denis Villeneuve, por exemplo, usa escala monumental, ritmo contemplativo, narrativa visual, planos longos e lentes entre 24mm e 70mm. Esses termos descrevem a técnica com precisão muito maior do que apenas colocar "dirigido por Denis Villeneuve".
 
-**Como escrever o prompt em camadas.** O professor usa uma notação estilo markdown: maiúsculas para separar seções, barras, hashtags, tags. Isso ajuda a estruturar antes de gerar. Depois, você pode pegar essa estrutura bruta e jogar em um LLM para formatar e enriquecer. O processo é: você anota as camadas, a IA gera o prompt final já formatado para a ferramenta de vídeo. Você não precisa memorizar a sintaxe técnica toda vez.
+**Como escrever o prompt em camadas.** Ruan usa uma notação estilo markdown: maiúsculas para separar seções, barras, hashtags, tags. Isso ajuda a estruturar antes de gerar. Depois, você pode pegar essa estrutura bruta e jogar em um LLM para formatar e enriquecer. O processo é: você anota as camadas, a IA gera o prompt final já formatado para a ferramenta de vídeo. Você não precisa memorizar a sintaxe técnica toda vez.
 
 ## Consistência de personagem: três abordagens
 
@@ -125,7 +125,7 @@ Para estabilidade de movimento: dependendo do que você quer, coloque "camera sh
 
 ## Exemplo de prompt completo em camadas
 
-O professor mostrou ao vivo a construção de um prompt completo para uma cena de guerreira num templo:
+Ruan mostrou ao vivo a construção de um prompt completo para uma cena de guerreira num templo:
 
 Câmera: plano geral estático, lente de 24mm, ângulo ao nível do chão do templo.
 

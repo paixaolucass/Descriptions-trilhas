@@ -77,9 +77,9 @@ Quando alguém não sabe desenhar, o problema não é coordenação. O problema 
 
 ## Demonstração: ver formas em rabiscos e em porcelanatos
 
-Para ilustrar que o desenho começa na mente, a aula traz uma demonstração ao vivo. A partir de um rabisco aleatório feito na tela, o professor mostra que é possível encontrar formas reconhecíveis utilizando apenas o olhar criativo. No rabisco, ele identifica e completa um olho, uma carinha, um jarro com planta, uma minhoca com olhos, um palhaço com coroa. Cada forma nasce da leitura mental que o olhar faz sobre as linhas existentes.
+Para ilustrar que o desenho começa na mente, a aula traz uma demonstração ao vivo. A partir de um rabisco aleatório feito na tela, Ruan mostra que é possível encontrar formas reconhecíveis utilizando apenas o olhar criativo. No rabisco, ele identifica e completa um olho, uma carinha, um jarro com planta, uma minhoca com olhos, um palhaço com coroa. Cada forma nasce da leitura mental que o olhar faz sobre as linhas existentes.
 
-Em seguida, são mostradas fotos de porcelanatos com textura de mármore, semelhantes aos do banheiro da casa dos pais do professor durante a infância. A prática de olhar para esses porcelanatos e encontrar formas escondidas nas veias da pedra é descrita como um exercício natural de ativar o olhar criativo. Sobre as imagens, ele identifica e completa uma tartaruga, uma gárgula, um morcego, um ET com roupa de mago e um dragão ranzinza.
+Em seguida, são mostradas fotos de porcelanatos com textura de mármore, semelhantes aos do banheiro da casa dos pais de Ruan durante a infância. A prática de olhar para esses porcelanatos e encontrar formas escondidas nas veias da pedra é descrita como um exercício natural de ativar o olhar criativo. Sobre as imagens, ele identifica e completa uma tartaruga, uma gárgula, um morcego, um ET com roupa de mago e um dragão ranzinza.
 
 O ponto central da demonstração: em cada caso, foi o cérebro que viu primeiro. A mão apenas registrou o que o olhar já havia encontrado. Quem não sabe desenhar é uma pessoa que ainda não desenvolveu a clareza mental para imaginar antes de criar.
 
@@ -97,7 +97,7 @@ A síntese final desse bloco: o desenho é uma linguagem. Não começa na mão, 
 
 ## A prática como evidência: a disciplina de expressão gráfica
 
-Para demonstrar que qualquer pessoa pode aprender a desenhar, o professor mostra fisicamente os cadernos e pastas de desenhos produzidos durante a disciplina de Expressão Gráfica na faculdade de design. A disciplina tinha uma metodologia simples: ir para casa e desenhar objetos do cotidiano por observação, um por dia. Pasta de dente, cadeiras, tesoura, chave, folhas secas do jardim, caixa de leite, pote de margarina, bicicleta, violão, micro-ondas, cubos em perspectiva e cubo mágico foram alguns dos objetos registrados.
+Para demonstrar que qualquer pessoa pode aprender a desenhar, Ruan mostra fisicamente os cadernos e pastas de desenhos produzidos durante a disciplina de Expressão Gráfica na faculdade de design. A disciplina tinha uma metodologia simples: ir para casa e desenhar objetos do cotidiano por observação, um por dia. Pasta de dente, cadeiras, tesoura, chave, folhas secas do jardim, caixa de leite, pote de margarina, bicicleta, violão, micro-ondas, cubos em perspectiva e cubo mágico foram alguns dos objetos registrados.
 
 A progressão foi visível ao longo dos meses. As primeiras versões tinham proporções erradas e perspectivas distorcidas. Com a repetição sistemática de cada objeto, as versões seguintes mostravam melhora progressiva. A metodologia era aplicar a sequência: primeiro copiar, depois desenhar olhando, depois reproduzir de memória. Esse ciclo de três etapas é descrito como um exercício direto de desenvolvimento da clareza mental.
 

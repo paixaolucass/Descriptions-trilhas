@@ -111,7 +111,7 @@ Para identificar se uma ideia vale ser impulsionada, três critérios precisam s
 
 **Terceiro critério: boas ideias geram impacto positivo.** O terceiro critério é o que reúne os outros dois: para gerar impacto, a ideia precisa ser real e ser conectável. O impacto não precisa ser global: uma padaria que serve bem o bairro gera impacto positivo. Uma ONG que ajuda uma comunidade gera impacto positivo. O que importa é que a ideia produza algo bom para as pessoas que ela alcança.
 
-O exemplo pessoal dado pelo professor ilustra o critério com clareza: ele recusou um projeto de R$ 20.000 de um vendedor de pílulas de emagrecimento cujo produto era essencialmente placebo. O próprio vendedor era obeso, o que indicava que ele não acreditava no próprio produto. Impulsionar uma ideia assim seria fazer mal a outras pessoas. Com grandes poderes vêm grandes responsabilidades.
+O exemplo pessoal dado por Ruan ilustra o critério com clareza: ele recusou um projeto de R$ 20.000 de um vendedor de pílulas de emagrecimento cujo produto era essencialmente placebo. O próprio vendedor era obeso, o que indicava que ele não acreditava no próprio produto. Impulsionar uma ideia assim seria fazer mal a outras pessoas. Com grandes poderes vêm grandes responsabilidades.
 
 ## Coloque em prática
 

@@ -24,7 +24,7 @@ A proposta desta aula é ocupar a faixa intermediária: explicar o suficiente pa
 
 Dominar esses fundamentos muda sua relação com as IAs de forma concreta. Quando você reconhece por que uma LLM às vezes gera informações incorretas com total confiança, você para de tratar isso como falha aleatória e começa a verificar dados críticos em fontes externas. Quando você percebe como a janela de contexto funciona, você para de se surpreender quando o modelo "esquece" o início de uma conversa longa e passa a organizar suas interações de forma mais eficiente. Essa consciência prática separa o usuário que briga com a ferramenta do usuário que sabe usá-la.
 
-A abordagem desta aula é incomum: em vez de o professor simplesmente explicar, ele usa as próprias LLMs como objeto de estudo e como ferramenta de ensino simultaneamente, criando uma dupla camada de aprendizado.
+A abordagem desta aula é incomum: em vez de Ruan simplesmente explicar, ele usa as próprias LLMs como objeto de estudo e como ferramenta de ensino simultaneamente, criando uma dupla camada de aprendizado.
 
 ## A origem do conceito: autocompletar e a previsão de palavras
 

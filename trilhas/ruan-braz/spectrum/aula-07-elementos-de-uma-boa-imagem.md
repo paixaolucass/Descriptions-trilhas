@@ -89,7 +89,7 @@ Após identificar as formas dominantes, o cérebro mapeia a relação espacial e
 
 Esse fluxo de leitura pode ser estruturado em diferentes padrões. Três dos mais comuns são: padrão Z (muito usado em layouts ocidentais, seguindo a direção natural da leitura da esquerda para a direita e de cima para baixo), padrão triângulo (que cria estabilidade e atrai o olhar para pontos específicos), e padrão diagonal (que gera dinamismo e movimento visual). Escolher conscientemente o fluxo de leitura é um ato de direção visual que determina como o espectador experimenta a imagem.
 
-A trilha Gestalt da Overlens e, em especial, as aulas de Layout sobre grids, aprofundam esse tema. O professor demonstrou ao vivo que é possível desenhar um grid de composição e enviá-lo para a IA junto com o prompt. A IA interpreta o grid e gera a imagem dentro da estrutura proposta. Isso significa que o repertório de composição se converte diretamente em controle sobre o output da ferramenta.
+A trilha Gestalt da Overlens e, em especial, as aulas de Layout sobre grids, aprofundam esse tema. Ruan demonstrou ao vivo que é possível desenhar um grid de composição e enviá-lo para a IA junto com o prompt. A IA interpreta o grid e gera a imagem dentro da estrutura proposta. Isso significa que o repertório de composição se converte diretamente em controle sobre o output da ferramenta.
 
 ### 3. Coerência e Previsibilidade Contextual
 
@@ -99,7 +99,7 @@ Quando a imagem passa nessa verificação, ela é aceita como coerente e ganha e
 
 ## Os Quatro Graus de Influência da Percepção
 
-O professor desenvolveu, aos 24 anos, uma metodologia própria que organizou os fundamentos de percepção visual em quatro graus hierárquicos. Essa metodologia simplifica e estrutura o vasto campo do design visual em uma estrutura operacional para trabalho com IA.
+Ruan desenvolveu, aos 24 anos, uma metodologia própria que organizou os fundamentos de percepção visual em quatro graus hierárquicos. Essa metodologia simplifica e estrutura o vasto campo do design visual em uma estrutura operacional para trabalho com IA.
 
 ### Grau 1: Fisiológico (O Mais Universal)
 
@@ -125,13 +125,13 @@ O grau mais específico e menos previsível é o individual, que envolve as expe
 
 ## A Molécula do Design Visual
 
-A metodologia dos quatro fundamentos do design visual foi organizada visualmente pelo professor em uma estrutura que ele chamou de "molécula do design visual". Os quatro fundamentos são: formas, cores, composições e mensagem. Esses elementos interagem entre si para construir o signo que a imagem transmite.
+A metodologia dos quatro fundamentos do design visual foi organizada visualmente por Ruan em uma estrutura que ele chamou de "molécula do design visual". Os quatro fundamentos são: formas, cores, composições e mensagem. Esses elementos interagem entre si para construir o signo que a imagem transmite.
 
 Formas geram percepções fisiológicas e culturais específicas. A psicologia das formas (tratada na trilha Gestalt) mostra como formas circulares, angulares e orgânicas ativam o cérebro de maneiras distintas. Cores operam nos quatro graus de influência simultaneamente. Composições organizam o fluxo de leitura e a hierarquia visual. A mensagem é o resultado síntese: o signo que todo esse conjunto transmite.
 
 ## A Demonstração Prática: Grid de Composição com IA
 
-Para demonstrar o controle que o repertório de composição permite sobre a IA, o professor realizou um exercício ao vivo. Usando o Figma, ele desenhou um grid de composição simples por cima de uma imagem de referência: áreas azuis representando névoa, laranja representando uma ponte, linhas indicando perspectiva.
+Para demonstrar o controle que o repertório de composição permite sobre a IA, Ruan realizou um exercício ao vivo. Usando o Figma, ele desenhou um grid de composição simples por cima de uma imagem de referência: áreas azuis representando névoa, laranja representando uma ponte, linhas indicando perspectiva.
 
 Em seguida, enviou esse desenho para o Gemini com o prompt: "Gere uma fotografia de uma ponte em um dia nevoado. Muita névoa. A névoa que tampa o rio. A ponte está laranja. Fiz um desenho para representar a ideia."
 
@@ -179,7 +179,7 @@ Uma boa imagem é boa dentro de seu contexto específico. Uma imagem excelente p
 
 ## O Conceito de Unwelt e a Especificidade do Olhar Humano
 
-Para ancorar por que os elementos de uma boa imagem são específicos ao olhar humano, o professor trouxe o conceito de Unwelt do biólogo Jakob von Uexküll. Unwelt descreve o universo perceptivo específico de cada espécie animal - o conjunto de signos que cada espécie consegue detectar e interpretar.
+Para ancorar por que os elementos de uma boa imagem são específicos ao olhar humano, Ruan trouxe o conceito de Unwelt do biólogo Jakob von Uexküll. Unwelt descreve o universo perceptivo específico de cada espécie animal - o conjunto de signos que cada espécie consegue detectar e interpretar.
 
 O Unwelt de um cachorro é radicalmente diferente do humano: o olfato domina, a visão de cores é limitada, o mundo é interpretado principalmente por cheiros e sons. Se você imprime uma imagem de um cachimbo em papel A4 e mostra para um cachorro, ele não verá um cachimbo. Verá papel, sentirá cheiro de tinta, e pode morder o papel ou ignorá-lo completamente. O signo "cachimbo" não existe no Unwelt dele.
 
@@ -193,7 +193,7 @@ Quando você domina como uma imagem opera no cérebro humano, cada decisão de g
 
 O diferencial do gerador de imagens com IA não está em clicar no botão certo. Está no repertório que permite reconhecer uma imagem eficaz, na capacidade de direcioná-la para um objetivo específico, e na sensibilidade para avaliar se o signo que ela carrega é o signo correto para o contexto e o público que se quer atingir.
 
-A conclusão do roteiro preparado pela equipe, com a qual o professor concordou integralmente, é esta: quando você mapeia como uma imagem opera no cérebro, cada decisão deixa de ser tentativa e passa a ser construção. Você tem mais controle da cena.
+A conclusão do roteiro preparado pela equipe, com a qual Ruan concordou integralmente, é esta: quando você mapeia como uma imagem opera no cérebro, cada decisão deixa de ser tentativa e passa a ser construção. Você tem mais controle da cena.
 
 Uma boa imagem não é necessariamente bonita. Uma boa imagem cumpre seu papel: deixa claro o que deve ser visto, organiza a informação de forma intencional, e faz sentido no lugar onde aparece. Isso vale para imagens geradas com IA exatamente como vale para imagens fotográficas, ilustrações ou qualquer outro tipo de imagem. O critério é sempre o mesmo: eficácia dentro do contexto.
 

@@ -21,7 +21,7 @@ O enquadramento é o primeiro elemento apresentado na aula e também o que tem a
 
 Na prática, isso significa que quando você descreve um enquadramento num prompt de vídeo, está potencialmente descrevendo dois momentos distintos da mesma cena: o estado em que a câmera começa e o estado em que ela termina. As melhores ferramentas de geração de vídeo disponíveis hoje oferecem um campo para frame inicial e outro para frame final exatamente por isso. Usar esses dois campos com inteligência é o que permite controlar com precisão o arco visual do clipe.
 
-O professor demonstra isso com um exemplo direto: ao gerar um vídeo de um coala, a IA recebeu um frame inicial em close-up e produziu um zoom out até um plano aberto. O frame inicial mostrava o animal em detalhe; o frame final revelava o ambiente ao redor. A câmera escolheu o caminho entre um ponto e outro. Esse comportamento é previsível e explorável, desde que o prompting seja claro sobre os dois pontos de partida e chegada do enquadramento.
+Ruan demonstra isso com um exemplo direto: ao gerar um vídeo de um coala, a IA recebeu um frame inicial em close-up e produziu um zoom out até um plano aberto. O frame inicial mostrava o animal em detalhe; o frame final revelava o ambiente ao redor. A câmera escolheu o caminho entre um ponto e outro. Esse comportamento é previsível e explorável, desde que o prompting seja claro sobre os dois pontos de partida e chegada do enquadramento.
 
 A recomendação prática é trabalhar com no máximo dois enquadramentos por clipe. Um de entrada e um de saída. Mais do que isso tende a confundir o modelo, que não consegue interpolar três ou mais estados visuais distintos de forma convincente dentro de um único clipe curto. A lógica de dois pontos é o caminho de menor resistência para produzir movimento de câmera controlado e intencionalmente dirigido.
 
@@ -35,7 +35,7 @@ O segundo subparâmetro é o headroom, o espaço entre o topo da cabeça do suje
 
 A composição é o elemento que define como os objetos e personagens estão organizados dentro do frame. A aula divide composição em quatro conceitos principais: espaço positivo e negativo, linhas e vetores, simetria e assimetria, e profundidade de planos.
 
-O espaço positivo é a forma principal da cena. O objeto, o personagem, o elemento central que a câmera está filmando. O espaço negativo é tudo aquilo que não é o sujeito principal. O fundo, o ambiente ao redor, as áreas vazias do frame. O professor usa a própria imagem como exemplo em tempo real: ele é o espaço positivo da cena, a biblioteca atrás dele é o espaço negativo, a área abaixo de sua figura é mais espaço negativo.
+O espaço positivo é a forma principal da cena. O objeto, o personagem, o elemento central que a câmera está filmando. O espaço negativo é tudo aquilo que não é o sujeito principal. O fundo, o ambiente ao redor, as áreas vazias do frame. Ruan usa a própria imagem como exemplo em tempo real: ele é o espaço positivo da cena, a biblioteca atrás dele é o espaço negativo, a área abaixo de sua figura é mais espaço negativo.
 
 Por que isso importa na geração de vídeo com IA? Porque a separação entre espaço positivo e espaço negativo é a base de técnicas avançadas de composição, troca de personagens entre cenas e manipulação de ambiente. Quando você quer extrair um personagem de uma cena e reposicioná-lo em outro ambiente com iluminação diferente, o processo técnico começa pela identificação e isolamento do espaço negativo em relação ao espaço positivo. Existem técnicas específicas para isso, que serão aprofundadas em aulas posteriores da trilha. Nesta aula, o conceito é apresentado como fundamento obrigatório que o restante da trilha vai pressupor.
 
@@ -49,7 +49,7 @@ Simetria e assimetria são o terceiro conceito de composição. A tradição cin
 
 A regra dos terços é o princípio compositivo mais aplicado nesse contexto. Ela divide o frame em uma grade de nove partes iguais, com dois eixos verticais e dois horizontais. Os pontos de interseção dessa grade são as posições naturais de maior atenção visual. Colocar o sujeito em um desses pontos, em vez de centralizá-lo, cria uma composição mais dinâmica e direcionada. Quando dois personagens estão em diálogo e cada um ocupa um terço oposto do frame, a composição cria automaticamente a sensação de confronto, troca, tensão conversacional entre eles.
 
-Há uma razão prática e contemporânea para o professor posicionar-se no centro do próprio vídeo, diferente da tradição cinematográfica. Quando se produz conteúdo que será recortado e redistribuído para redes sociais, o sujeito centralizado facilita o corte vertical sem perder o foco do frame. É uma escolha técnica de workflow de produção, não uma violação de princípios compositivos. Saber quando seguir a regra dos terços e quando quebrá-la por motivo estratégico é parte do repertório que a aula busca construir.
+Há uma razão prática e contemporânea para Ruan posicionar-se no centro do próprio vídeo, diferente da tradição cinematográfica. Quando se produz conteúdo que será recortado e redistribuído para redes sociais, o sujeito centralizado facilita o corte vertical sem perder o foco do frame. É uma escolha técnica de workflow de produção, não uma violação de princípios compositivos. Saber quando seguir a regra dos terços e quando quebrá-la por motivo estratégico é parte do repertório que a aula busca construir.
 
 Profundidade de planos é o quarto conceito de composição. Refere-se ao número de camadas visuais distintas presentes na cena: primeiro plano, segundo plano, plano de fundo. Uma cena com apenas um plano é plana visualmente. Uma cena com três planos distintos tem profundidade, cria uma percepção de tridimensionalidade dentro do frame bidimensional. O exemplo dado é uma folha ou objeto pequeno levemente desfocado no primeiro plano, o sujeito principal nítido no segundo plano, e o fundo desfocado ao longe. Essa combinação de foco e desfoque entre camadas é o que produz a sensação de profundidade.
 
@@ -113,7 +113,7 @@ No contexto de prompts de vídeo com IA, descrever a lente ou a profundidade de 
 
 A distorção é o outro efeito da escolha de lente. Lentes grande-angulares distorcem as bordas do frame, especialmente com perspectivas que aproximam objetos da câmera. Lentes teleobjetivas comprimem as distâncias percebidas entre planos diferentes, fazendo com que o fundo pareça mais próximo do sujeito do que realmente está. Lentes de olho de peixe (fisheye) produzem distorção circular extrema. Cada um desses efeitos pode ser descrito diretamente no prompt e a IA vai interpretar a referência para produzir o visual correspondente.
 
-O professor menciona que a aula da trilha de imagem cobre esse tema com profundidade, incluindo exemplos visuais de cada tipo de lente e como cada uma afeta a percepção de espaço e profundidade. O material de estudos de óptica está disponível para download na plataforma para assinantes. A recomendação é consultar esse material antes de trabalhar com prompts de vídeo que exijam controle fino de perspectiva.
+Ruan menciona que a aula da trilha de imagem cobre esse tema com profundidade, incluindo exemplos visuais de cada tipo de lente e como cada uma afeta a percepção de espaço e profundidade. O material de estudos de óptica está disponível para download na plataforma para assinantes. A recomendação é consultar esse material antes de trabalhar com prompts de vídeo que exijam controle fino de perspectiva.
 
 ## A síntese: os seis eixos de qualidade do vídeo
 
@@ -128,7 +128,7 @@ A aula encerra com uma síntese dos elementos apresentados. São seis eixos que 
 
 Esses seis eixos não são independentes. Uma escolha em um eixo afeta os outros. A decisão de usar uma lente macro (óptica) vai produzir profundidade de campo rasa (espaço), que por sua vez restringe quais tipos de movimento de câmera produzem resultados coerentes. A temperatura de cor fria (iluminação) pode ser reforçada pelo uso de um enquadramento mais aberto que inclua mais ambiente no frame (geometria). A integração entre esses eixos é o que define a identidade visual de uma cena.
 
-O professor deixa explícito que o domínio de ferramentas específicas nunca foi nem será o segredo da produção de vídeo com IA. O segredo é saber dirigir uma cena. Ter repertório. Reconhecer qual elemento visual comunica o que você quer comunicar antes de abrir qualquer ferramenta. As ferramentas mudam. Os modelos são atualizados, substituídos, descontinuados. Os elementos fundamentais de composição, iluminação, enquadramento e movimento pertencem ao cinema como linguagem, e essa linguagem não muda de versão.
+Ruan deixa explícito que o domínio de ferramentas específicas nunca foi nem será o segredo da produção de vídeo com IA. O segredo é saber dirigir uma cena. Ter repertório. Reconhecer qual elemento visual comunica o que você quer comunicar antes de abrir qualquer ferramenta. As ferramentas mudam. Os modelos são atualizados, substituídos, descontinuados. Os elementos fundamentais de composição, iluminação, enquadramento e movimento pertencem ao cinema como linguagem, e essa linguagem não muda de versão.
 
 ## Materiais de apoio disponíveis na plataforma
 
@@ -140,7 +140,7 @@ A aula faz referência a três documentos de download disponíveis para assinant
 
 Esses três materiais foram desenvolvidos originalmente para a trilha de imagem, mas são diretamente reutilizáveis em prompts de vídeo. A recomendação é ter os três à mão durante qualquer sessão de geração de vídeo para servir como referência terminológica e visual.
 
-A trilha de imagem também inclui aulas que detalham enquadramento, óptica e iluminação com exemplos práticos. Para quem ainda não passou por essa trilha, a recomendação explícita do professor é assistir essas aulas antes de avançar para as aulas de prompts de vídeo desta trilha de Cínetica.
+A trilha de imagem também inclui aulas que detalham enquadramento, óptica e iluminação com exemplos práticos. Para quem ainda não passou por essa trilha, a recomendação explícita de Ruan é assistir essas aulas antes de avançar para as aulas de prompts de vídeo desta trilha de Cínetica.
 
 ## Coloque em prática
 

@@ -13,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## Da página para o trailer
 
-Esta aula apresenta o trailer manifesto da Overlens 2025, o resultado audiovisual construído a partir do manifesto escrito na aula anterior. O professor explica que o trailer não foi criado de forma independente do manifesto: ele é uma redução, uma destilação do que estava escrito na página para o que cabe em imagem e som.
+Esta aula apresenta o trailer manifesto da Overlens 2025, o resultado audiovisual construído a partir do manifesto escrito na aula anterior. Ruan explica que o trailer não foi criado de forma independente do manifesto: ele é uma redução, uma destilação do que estava escrito na página para o que cabe em imagem e som.
 
 Esse percurso, do manifesto escrito para o trailer visual, mostra como um texto bem construído carrega dentro de si a estrutura de outras formas de comunicação. Quando o manifesto tem tese clara, inimigo simbólico definido, ruptura proposta e chamado à ação, o roteiro de trailer já existe implicitamente dentro dele. O trabalho de criação do trailer é identificar o que fica e o que sai.
 

@@ -33,9 +33,9 @@ Uma margem bem definida não é apenas estética. Ela orienta o olhar, separa o 
 
 ## Layout e análise de referências
 
-Layout é o que está dentro do formato: a forma como os elementos foram organizados naquele espaço. O professor analisou durante a aula um projeto editorial disponível no Behance chamado "Planejamento de Layout", que mostra diversas maneiras diferentes de organizar as mesmas informações dentro de um mesmo formato.
+Layout é o que está dentro do formato: a forma como os elementos foram organizados naquele espaço. Ruan analisou durante a aula um projeto editorial disponível no Behance chamado "Planejamento de Layout", que mostra diversas maneiras diferentes de organizar as mesmas informações dentro de um mesmo formato.
 
-Nos exemplos do projeto, é possível ver arranjos como: duas colunas de texto com imagem abaixo e título em cima; três colunas com imagem posicionada no centro; título destacado no topo com texto distribuído lateralmente; imagem ao lado do texto com colunas paralelas. Cada arranjo cria uma experiência diferente de leitura e conduz o olhar de forma distinta. O professor recomenda estudar esse projeto com atenção e inclusive reproduzir os desenhos de estrutura manualmente, como se praticava na faculdade.
+Nos exemplos do projeto, é possível ver arranjos como: duas colunas de texto com imagem abaixo e título em cima; três colunas com imagem posicionada no centro; título destacado no topo com texto distribuído lateralmente; imagem ao lado do texto com colunas paralelas. Cada arranjo cria uma experiência diferente de leitura e conduz o olhar de forma distinta. Ruan recomenda estudar esse projeto com atenção e inclusive reproduzir os desenhos de estrutura manualmente, como se praticava na faculdade.
 
 Jornais são outra fonte valiosa de estudo. Eles concentram um volume grande de informações em um único espaço e precisam resolver o problema de hierarquia e organização com clareza. Títulos com letras maiores conduzem o olhar. Parágrafos com letras menores distribuem o conteúdo. Imagens interagem com o texto. Espaços entre os elementos e margens bem definidas sustentam o conjunto. Observar como isso funciona em um jornal real é uma forma prática de aprender layout.
 
@@ -43,7 +43,7 @@ O Pinterest funciona como uma fonte contínua de referências nesse sentido. À 
 
 ## Grid como estrutura de organização
 
-Além de formato e margem, há um terceiro conceito que organiza o design: o grid. O grid mais simples e versátil é o de colunas por linhas. Ele não é difícil de aprender e serve como guia para posicionar os elementos com consistência dentro do espaço. O professor menciona que disponibiliza na descrição do vídeo o link de uma aula específica sobre esse tipo de grid.
+Além de formato e margem, há um terceiro conceito que organiza o design: o grid. O grid mais simples e versátil é o de colunas por linhas. Ele não é difícil de aprender e serve como guia para posicionar os elementos com consistência dentro do espaço. Ruan menciona que disponibiliza na descrição do vídeo o link de uma aula específica sobre esse tipo de grid.
 
 Quando se trabalha com grid, fica muito mais fácil manter harmonia entre os elementos. Todos ficam alinhados a uma estrutura comum, o que cria equilíbrio visual. Um bloco de texto de um lado pode ter como contrapeso uma imagem do outro: isso é uma composição balanceada. Quando o desequilíbrio aparece, ele precisa ser intencional, não acidental.
 
@@ -51,7 +51,7 @@ Cada detalhe conta na composição: o espaço entre letras, o espaço entre linh
 
 ## Dominar antes de quebrar
 
-O professor encerra a aula com uma orientação clara: antes de quebrar as regras de formato, margem e layout, é preciso dominá-las. Isso não é uma limitação, é um processo. Quem ainda está começando precisa primeiro aprender a organizar os elementos dentro de um espaço com intenção e coerência. Só depois faz sentido subverter essa estrutura de forma consciente.
+Ruan encerra a aula com uma orientação clara: antes de quebrar as regras de formato, margem e layout, é preciso dominá-las. Isso não é uma limitação, é um processo. Quem ainda está começando precisa primeiro aprender a organizar os elementos dentro de um espaço com intenção e coerência. Só depois faz sentido subverter essa estrutura de forma consciente.
 
 A quebra de regra no design existe e tem seu lugar. Mas ela só funciona quando quem quebra sabe exatamente o que está quebrando e por quê. Quebrar por desconhecimento gera confusão. Quebrar por domínio gera estilo.
 

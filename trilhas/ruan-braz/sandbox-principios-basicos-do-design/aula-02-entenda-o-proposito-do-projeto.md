@@ -37,13 +37,13 @@ A barreira de entrada no design está cada vez menor, em grande parte porque exi
 
 ## Demonstração: gerando perguntas de briefing com o ChatGPT
 
-O prompt utilizado na demonstração é direto e simples. O professor informa ao ChatGPT que precisa de ajuda para ter mais clareza sobre um projeto de design, fornece contexto (criação de posts para uma clínica veterinária) e pede que a ferramenta liste as principais perguntas a serem respondidas antes de começar a criar, para ter clareza sobre o que precisa.
+O prompt utilizado na demonstração é direto e simples. Ruan informa ao ChatGPT que precisa de ajuda para ter mais clareza sobre um projeto de design, fornece contexto (criação de posts para uma clínica veterinária) e pede que a ferramenta liste as principais perguntas a serem respondidas antes de começar a criar, para ter clareza sobre o que precisa.
 
-Um detalhe prático mencionado: o professor adiciona "Por favor" ao prompt como uma "regrinha básica" de gentileza com a IA. Embora seja uma brincadeira, ele observa que esse tipo de formulação tende a gerar leves diferenças na resposta.
+Um detalhe prático mencionado: Ruan adiciona "Por favor" ao prompt como uma "regrinha básica" de gentileza com a IA. Embora seja uma brincadeira, ele observa que esse tipo de formulação tende a gerar leves diferenças na resposta.
 
 O resultado gerado pela IA organiza as perguntas em categorias: objetivos do projeto (qual o principal serviço que a clínica quer destacar, como o sucesso dos posts será mensurado, com exemplos como número de curtidas, compartilhamentos e agendamentos de consultas), público-alvo (preocupações, faixa etária, localidade, se busca informações técnicas ou dicas práticas) e outros aspectos relevantes para o tipo de serviço informado. A IA fornece inclusive exemplos junto de cada pergunta.
 
-O professor destaca que o prompt pode ser expandido com mais contexto: é possível informar que se está fazendo um site, materiais impressos ou uma papelaria, e a IA adapta as perguntas ao tipo de projeto. As respostas para essas perguntas vêm do cliente, seja por escrito ou por chamada.
+Ruan destaca que o prompt pode ser expandido com mais contexto: é possível informar que se está fazendo um site, materiais impressos ou uma papelaria, e a IA adapta as perguntas ao tipo de projeto. As respostas para essas perguntas vêm do cliente, seja por escrito ou por chamada.
 
 *Para ver o resultado desta demonstração, assista a partir de 03:47 no vídeo.*
 
@@ -55,17 +55,17 @@ Fazer essas perguntas ao cliente antes de qualquer coisa já sinaliza profission
 
 ## As fases do processo entre o cliente e a criação
 
-O processo entre o primeiro contato com o cliente e o início da criação segue uma sequência clara de etapas. A primeira é o pre-briefing, onde o designer faz uma chamada ou envia perguntas pelo WhatsApp para coletar as informações necessárias. A preferência pessoal do professor é pela chamada.
+O processo entre o primeiro contato com o cliente e o início da criação segue uma sequência clara de etapas. A primeira é o pre-briefing, onde o designer faz uma chamada ou envia perguntas pelo WhatsApp para coletar as informações necessárias. A preferência pessoal de Ruan é pela chamada.
 
 Com essas informações em mãos, o designer elabora e apresenta a proposta. Ela pode ser apresentada em vídeo, o que tende a aumentar a conversão, ou enviada em PDF ou como link online, dependendo do valor do serviço.
 
-Se o cliente aprova a proposta e fecha o contrato, o designer realiza a reunião de briefing, com perguntas mais detalhadas sobre o projeto. O professor ressalta que contratos também podem ser elaborados com o ChatGPT, sem mistério. A partir daí, inicia-se a etapa de criação. O objetivo nesse momento é apresentar o processo de forma simples, sem gerar paralisia por excesso de informação no iniciante.
+Se o cliente aprova a proposta e fecha o contrato, o designer realiza a reunião de briefing, com perguntas mais detalhadas sobre o projeto. Ruan ressalta que contratos também podem ser elaborados com o ChatGPT, sem mistério. A partir daí, inicia-se a etapa de criação. O objetivo nesse momento é apresentar o processo de forma simples, sem gerar paralisia por excesso de informação no iniciante.
 
 ## Demonstração: gerando o pre-briefing com o ChatGPT
 
-Utilizando o mesmo ChatGPT da demonstração anterior, o professor solicita também o pre-briefing. O resultado gerado inclui as perguntas básicas para coletar informações antes de fechar o serviço: nome da clínica, tempo no mercado, principais serviços, público atendido, necessidades desse público, objetivo ao contratar o serviço e mensagem principal a ser comunicada.
+Utilizando o mesmo ChatGPT da demonstração anterior, Ruan solicita também o pre-briefing. O resultado gerado inclui as perguntas básicas para coletar informações antes de fechar o serviço: nome da clínica, tempo no mercado, principais serviços, público atendido, necessidades desse público, objetivo ao contratar o serviço e mensagem principal a ser comunicada.
 
-O professor destaca que, ao informar o tipo de serviço no prompt, a IA adapta as perguntas. Quem informa que vai criar posts recebe perguntas voltadas para posts; quem informa que vai criar um site recebe perguntas voltadas para site. Antigamente, saber quais perguntas fazer era uma habilidade que levava tempo para ser desenvolvida. Hoje, a inteligência artificial entrega essa orientação de forma imediata.
+Ruan destaca que, ao informar o tipo de serviço no prompt, a IA adapta as perguntas. Quem informa que vai criar posts recebe perguntas voltadas para posts; quem informa que vai criar um site recebe perguntas voltadas para site. Antigamente, saber quais perguntas fazer era uma habilidade que levava tempo para ser desenvolvida. Hoje, a inteligência artificial entrega essa orientação de forma imediata.
 
 *Para ver o resultado desta demonstração, assista a partir de 10:21 no vídeo.*
 
