@@ -1,8 +1,8 @@
-Cálculo interno: [13 blocos] / [61 parágrafos totais] / [3560 palavras estimadas] / [3560 ÷ 200 = 18 minutos]
+Cálculo interno: [13 blocos] / [62 parágrafos totais] / [3620 palavras estimadas] / [3620 ÷ 200 = 19 minutos]
 
 # Considerações finais sobre investigação
 
-**Tempo estimado de leitura:** 18 minutos
+**Tempo estimado de leitura:** 19 minutos
 
 ## Objetivos de aprendizado
 
@@ -18,6 +18,8 @@ Ao final desta aula, você será capaz de:
 A primeira consideração é direta: em nenhuma hipótese a etapa de investigação deve ser pulada. O professor reforça isso porque o erro parece óbvio, mas aparece justamente em projetos menores, de orçamento mais baixo ou com prazo curto. Nessas situações, o designer tende a pensar que pode ganhar tempo indo direto para a criação, seja para retocar um logo, criar uma identidade simples ou entregar algo mais rápido.
 
 O problema é que essa economia aparente costuma gerar mais trabalho depois. A investigação é tratada como a etapa mais importante da metodologia porque fornece matéria prima para a criatividade. O professor retoma a ideia dos possíveis adjacentes: ideias precisam de ideias, uma ideia gera outra, e só é possível chegar a caminhos menos óbvios quando existem informações suficientes para conectar.
+
+O professor cita o caso da Camila, uma membra antiga da comunidade, que mesmo conhecendo o processo caiu no erro de pular investigação em um projeto menor, ligado a uma pousada. A dificuldade apareceu tanto na geração de alternativas quanto no relacionamento com o cliente, mostrando que o problema não era apenas criativo, mas também de alinhamento.
 
 Sem conhecer o negócio, o mercado e o público do cliente, o designer chega à criação com poucas pistas. A consequência é a síndrome da folha em branco: as primeiras ideias tendem a ser óbvias, parecidas com o que qualquer pessoa pensaria, e depois de descartar dezenas de alternativas comuns falta recurso para avançar. Isso não acontece por falta de talento, mas por falta de informação coletada antes.
 
@@ -97,7 +99,7 @@ Ele usa uma comparação simples: se nove pessoas dizem que o céu está azul e 
 
 ## Boas referências elevam o projeto
 
-A oitava consideração afirma que boas referências elevam o projeto, enquanto más referências podem destruí lo. Esse ponto está ligado ao benchmark e ao paradigma da avenida. O professor recomenda buscar os melhores, inclusive em mercados do mundo inteiro, porque muitas vezes existe um nível mais alto de prática que o designer ainda não observou.
+A oitava consideração afirma que boas referências elevam o projeto, enquanto más referências podem prejudicar todo o resultado. Esse ponto está ligado ao benchmark e ao paradigma da avenida. O professor recomenda buscar os melhores, inclusive em mercados do mundo inteiro, porque muitas vezes existe um nível mais alto de prática que o designer ainda não observou.
 
 As melhores referências não são apenas concorrentes diretos. Também entram marcas que conversam muito bem com o mesmo público, que apontam tendências, levantam causas, trabalham bandeiras ou tomam decisões de comunicação relevantes. Observar tendências não significa criar uma marca datada. A tendência serve para orientar estratégia; na criação de logo, cores, tipografias e elementos proprietários, o designer deve ponderar para não prender a marca a um estilo passageiro.
 
@@ -137,7 +139,7 @@ Quando o designer faz perguntas melhores, consegue respostas melhores. Essas res
 
 Para explicar essa lapidação, ele usa a imagem do diamante na natureza. O cliente entrega informações como uma pedra comum e feia, mas pode haver dentro dela a big idea do projeto: o nome da marca, uma chamada, a identidade verbal, a personalidade ou o núcleo que torna o projeto original. O trabalho do designer é retirar o que não tem valor e encontrar a informação central.
 
-O exemplo usado é Al Habon, que poderia parecer apenas um lava jato. Muitos designers talvez rejeitassem o projeto por parecer pequeno ou comum, ainda mais porque o logo antigo era um fusca parecido com muitos outros logos de lava jato. Mas, ao conversar com o cliente, o professor percebeu visão, causa e potencial. Havia um diamante naquela pedra, e a investigação permitiu enxergá lo.
+O exemplo usado é Al Habon, que poderia parecer apenas um lava jato. Muitos designers talvez rejeitassem o projeto por parecer pequeno ou comum, ainda mais porque o logo antigo era um fusca parecido com muitos outros logos de lava jato. Mas, ao conversar com o cliente, o professor percebeu visão, causa e potencial. Havia um diamante naquela pedra, e a investigação permitiu revelar esse valor.
 
 Por isso, ele afirma que não são grandes projetos que são dados a grandes designers; são grandes designers que tornam os projetos grandes. O cliente pode falar coisas óbvias, não saber nomear bem a própria empresa ou tentar explicar algo sem conseguir. O designer não deve julgar isso, porque é o especialista. Sua função é ouvir, investigar e fazer as perguntas certas para revelar o valor escondido.
 
