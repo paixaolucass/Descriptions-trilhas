@@ -135,4 +135,6 @@ Identifique se a forma desse objeto tende ao concreto ou ao abstrato.
 
 Posicione esse objeto em um dos quatro quadrantes do diagrama da forma.
 
-Pegue um símbolo visual que você usa no dia a dia, como o logotipo de uma marca ou um ícone de aplicativo, e verifique se a forma dele se parece com o que ele representa ou se o significado é construído culturalmente.
+Pegue um símbolo visual que você usa no dia a dia: um logotipo de marca ou um ícone de aplicativo.
+
+Verifique se a forma dele se parece com o que ele representa ou se o significado é construído culturalmente.

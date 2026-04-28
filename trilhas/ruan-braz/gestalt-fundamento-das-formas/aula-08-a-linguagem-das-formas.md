@@ -147,6 +147,10 @@ Todos os fundamentos estudados no módulo, forma, matéria, eixos, Gestalt, os d
 
 ## Coloque em prática
 
-Escolha um projeto que você já fez ou um exercício do módulo e aplique as quatro perguntas em sequência: qual emoção ele quer passar, qual metáfora ou analogia poderia reforçar a mensagem, a forma é mais natural ou artificial e mais concreta ou abstrata, e onde ela será aplicada.
+Escolha um projeto que você já fez ou um exercício do módulo.
 
-Para cada resposta, identifique se as escolhas formais que você fez estão alinhadas com os dois eixos e com os dois níveis de significado. Se houver incoerência entre o que a forma é e o que ela faz a gente sentir, experimente mudar a matéria mantendo a estrutura e observe o que muda na percepção.
+Aplique as quatro perguntas: qual emoção ele quer passar, qual metáfora poderia reforçar a mensagem, a forma é mais natural ou artificial e mais concreta ou abstrata, e onde ela será aplicada.
+
+Verifique se as escolhas formais estão alinhadas com os dois eixos e com os dois níveis de significado.
+
+Se houver incoerência entre o que a forma é e o que ela faz sentir, mude a matéria mantendo a estrutura e observe o que muda.

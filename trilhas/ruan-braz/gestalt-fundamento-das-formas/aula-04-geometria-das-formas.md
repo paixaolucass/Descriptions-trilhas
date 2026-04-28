@@ -147,7 +147,8 @@ O terceiro é um livro mais teórico que explica a história da razão áurea, d
 
 - Abra o Illustrator e construa a mediatriz de um segmento de reta usando duas circunferências de mesmo raio, sem usar a ferramenta de alinhamento
 - Construa a bissetriz de um ângulo qualquer usando o mesmo método de duas circunferências
-- Crie dois círculos de diâmetros diferentes, calcule a soma dos raios e encontre o ponto de tangência externa entre eles
+- Crie dois círculos de diâmetros diferentes e calcule a soma dos raios
+- Encontre o ponto de tangência externa entre eles sem usar a ferramenta de alinhamento
 - Construa um retângulo áureo usando a sequência de quadrados de Fibonacci e verifique a razão dividindo a largura pela altura
 - Construa a espiral áurea sobre o retângulo áureo posicionando arcos a partir dos vértices internos de cada quadrado
 
