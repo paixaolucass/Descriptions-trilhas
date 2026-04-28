@@ -15,7 +15,7 @@ Ao final desta aula, você será capaz de:
 
 ## A fórmula da oferta em cinco elementos
 
-A construção da oferta começa com cinco perguntas respondidas em sequência. A primeira é: quem é o cliente ideal? A segunda é: qual é o seu serviço principal, o seu carro-chefe? A terceira é: qual é o resultado desejado? Para respondê-la, o professor orienta voltar ao documento de perfil ideal de cliente e olhar as ambições e os problemas listados.
+A construção da oferta começa com perguntas respondidas em sequência. A primeira é: quem é o cliente ideal? A segunda é: qual é o seu serviço principal, o seu carro-chefe? A terceira é: qual é o resultado desejado? Para respondê-la, o professor orienta voltar ao documento de perfil ideal de cliente e olhar as ambições e os problemas listados.
 
 A quarta pergunta é o que aumenta a percepção de sucesso. Isso pode ser um método, um processo, uma prova social, um case, ou a especialização dentro do segmento do cliente. O professor dá o exemplo de um profissional que é músico e trabalha com gravadoras: essa afinidade e esse conhecimento do universo do cliente já elevam a percepção de que o trabalho vai funcionar. Da mesma forma, ter trabalhado dentro de uma empresa do setor do cliente, como uma empresa de arquitetura, demonstra que você fala a linguagem dele.
 
@@ -47,7 +47,7 @@ O resultado prático disso é que o cliente compra a oferta atraído pelas prome
 
 ## Coloque em prática
 
-- Responda às cinco perguntas da fórmula com pelo menos uma frase em cada elemento.
+- Responda às perguntas da fórmula com pelo menos uma frase em cada elemento.
 - Monte a sua frase de oferta usando a estrutura: perfil ideal, resultado desejado, método ou prova, prazo e esforço eliminado.
 - Liste todas as objeções que você consegue imaginar, das mais simples às mais críticas, e identifique quais estão relacionadas ao tempo e ao esforço.
 - Se ainda não tiver dados próprios, pesquise estudos de McKinsey, Gartner ou Harvard Business Review relevantes para o seu segmento, mas planeje como substituir esses dados por resultados reais dos seus projetos.

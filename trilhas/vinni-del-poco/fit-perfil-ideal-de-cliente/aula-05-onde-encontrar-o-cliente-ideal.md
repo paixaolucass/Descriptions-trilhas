@@ -17,7 +17,7 @@ Ao final desta aula, você será capaz de:
 
 O objetivo nessa etapa não é encontrar o cliente perfeito de imediato. O que importa é encontrar alguém que se aproxime do perfil, que conheça esse mercado, que atue nele. O critério principal é a proximidade: pessoas com quem você já tem acesso, que estejam dispostas a conversar e que possam ajudar a validar suas hipóteses com mais velocidade.
 
-Vinni Del Poco aponta que isso já aconteceu com ele diretamente: clientes de 15 a 20 mil reais eram amigos que conheciam alguém há anos, com uma demanda represada dentro de um funil, e ele simplesmente não sabia. Preencher a ficha de ICP pode fazer você lembrar de pessoas que já estão na sua vida e que se encaixam no perfil que você está explorando.
+Vinni Del Poço aponta que isso já aconteceu com ele diretamente: clientes de 15 a 20 mil reais eram amigos que conheciam alguém há anos, com uma demanda represada dentro de um funil, e ele simplesmente não sabia. Preencher a ficha de ICP pode fazer você lembrar de pessoas que já estão na sua vida e que se encaixam no perfil que você está explorando.
 
 ## As fontes da sua rede existente
 

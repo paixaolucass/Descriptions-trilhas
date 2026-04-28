@@ -1,4 +1,4 @@
-Cálculo interno: [17 blocos] / [52 parágrafos totais] / [1.980 palavras estimadas] / [1.980 ÷ 200 = 10 minutos]
+Cálculo interno: [17 blocos] / [53 parágrafos totais] / [2.070 palavras estimadas] / [2.070 ÷ 200 = 11 minutos]
 
 # Template de Perfil Ideal de Cliente (ICP)
 
@@ -122,6 +122,8 @@ O livro Receita Previsível, de Aaron Ross, é uma referência direta para a con
 A tabela é uma versão visual e objetiva de tudo que foi construído no perfil, e funciona como checklist. Cada linha lista um critério que o cliente ideal precisa ter e a justificativa de por que esse critério é necessário. Não é preciso ter muitos: três a cinco critérios bem definidos são suficientes.
 
 Os critérios que o professor inclui na tabela como exemplo são: porte e faturamento mínimo (o cliente precisa ter recursos para investir em design como alavanca e não como custo, respeitando a lógica dos 10% a 20% do faturamento em marketing); setor e nicho; modelo de vendas e operação; investimento atual em marketing e comunicação; situação financeira; fornecedores e equipe interna; pessoas e valores (fit cultural); e ferramentas e sistemas utilizados. Esse último critério pode parecer detalhe, mas o fato de uma empresa já pagar por um HubSpot, RD Station ou outro CRM é um sinal de que ela já investe em estrutura de marketing e tem orçamento disponível para o tipo de trabalho que você oferece.
+
+O professor reforça que porte e faturamento mínimo são critérios onde criativos costumam errar. Se você quer cobrar 5 mil reais e a empresa fatura menos de 100 mil reais por mês, a conta pode não fechar e o projeto pode virar um risco grande para o cliente. Nesse cenário, ele tende a apostar tudo no projeto, cobrar pressão excessiva e, se o resultado não vier, o problema pode estar mais na falta de preparo do negócio do que no trabalho criativo. A orientação é resolver primeiro problemas de quem tem dinheiro para investir; depois, com o negócio mais estruturado, é possível criar ofertas mais acessíveis, desde que exista escala para vender muito.
 
 ## Onde encontrar seu cliente ideal
 

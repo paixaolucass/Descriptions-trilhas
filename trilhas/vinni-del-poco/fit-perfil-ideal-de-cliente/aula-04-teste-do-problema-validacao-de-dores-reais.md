@@ -1,4 +1,4 @@
-Cálculo interno: [9 blocos] / [34 parágrafos totais] / [1.230 palavras estimadas] / [1.230 ÷ 200 = 6,15 → 7 minutos]
+Cálculo interno: [9 blocos] / [35 parágrafos totais] / [1.275 palavras estimadas] / [1.275 ÷ 200 = 7 minutos]
 
 # Teste do Problema: Validação de Dores Reais
 
@@ -66,6 +66,8 @@ A orientação é ouvir mais pessoas, entender os problemas e as necessidades es
 O professor orienta a encerrar a conversa sem oferecer a solução, mesmo que você esteja morrendo de vontade de fazer isso. Depois da conversa, com calma, você pode analisar o que ouviu e, se fizer sentido, entrar em contato para dizer que está desenvolvendo uma solução e que pode conversar sobre isso depois.
 
 O professor aponta que muitas dessas conversas podem se tornar vendas no futuro. Além disso, o simples ato de ouvir sem cobrar nada já cria um diferencial: a maioria dos concorrentes não faz isso. Você ofereceu o seu tempo, escutou com atenção, e isso já cria uma entrada para um cliente potencial. O fechamento sugerido é: "Obrigado por compartilhar. Estou conversando com algumas pessoas para mapear se isso é comum. Posso te contar depois o que eu encontrar."
+
+Se as dores relatadas forem completamente diferentes do que estava no perfil ideal de cliente, a orientação é voltar ao rascunho e validar novamente. A conversa não serve apenas para confirmar a hipótese inicial: ela também mostra quando a hipótese precisa ser corrigida antes de avançar.
 
 ## Checklist de validação
 

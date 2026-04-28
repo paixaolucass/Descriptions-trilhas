@@ -1,4 +1,4 @@
-Cálculo interno: [6 blocos] / [22 parágrafos totais] / [860 palavras estimadas] / [860 ÷ 200 = 5 minutos]
+Cálculo interno: [6 blocos] / [23 parágrafos totais] / [920 palavras estimadas] / [920 ÷ 200 = 5 minutos]
 
 # Plano de Ação de 30 Dias: Prospecção é Movimento
 
@@ -60,6 +60,8 @@ Quando você acredita genuinamente que está trazendo algo de valor, boa parte d
 O encerramento desta aula usa a imagem de uma pipa: para ela continuar no ar, precisa de movimento contínuo. Não tem como ela se sustentar parada. A prospecção funciona da mesma forma. Você para de prospectar, o funil esvazia. Com o funil cheio, você tem mais opções, fica com a mente mais tranquila e para de aceitar qualquer projeto por desespero.
 
 A lembrança que o Vinni traz é de um momento em que ele era muito discreto nas redes, quase não postava nada. Uma única vez que postou nos stories sobre o que estava fazendo, sem intenção nenhuma de vender, ele desbloqueou uma venda. Quem não aparece não é lembrado. Aparecer não precisa ser espetacular: precisa ser constante.
+
+A matemática que resume essa mentalidade é: 50 prospects ou leads podem virar 8 conversas ou interações, que podem virar 3 propostas e, então, 1 contrato. O ponto não é tratar esse número como promessa fixa, mas como lembrete de que contrato nasce de volume, sequência e movimento contínuo.
 
 ## Coloque em prática
 

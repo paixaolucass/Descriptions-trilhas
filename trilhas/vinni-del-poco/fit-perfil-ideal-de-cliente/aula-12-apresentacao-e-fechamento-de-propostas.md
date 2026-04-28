@@ -1,4 +1,4 @@
-Cálculo interno: [7 blocos] / [38 parágrafos totais] / [Bloco 1: 4p x 45 = 180; Bloco 2: 8p x 45 = 360; Bloco 3: 7p x 45 = 315; Bloco 4: 7p x 45 = 315; Bloco 5: 5p x 45 = 225; Bloco 6: 7p x 45 = 315; Bloco 7: 4p x 45 = 180; Título/Obj/Prática: 4p x 30 = 120; Total = 2.010 palavras] / [2.010 ÷ 200 = 10,05 → 11 minutos]
+Cálculo interno: [7 blocos] / [39 parágrafos totais] / [Bloco 1: 4p x 45 = 180; Bloco 2: 8p x 45 = 360; Bloco 3: 7p x 45 = 315; Bloco 4: 7p x 45 = 315; Bloco 5: 5p x 45 = 225; Bloco 6: 7p x 45 = 315; Bloco 7: 5p x 45 = 225; Título/Obj/Prática: 4p x 30 = 120; Total = 2.055 palavras] / [2.055 ÷ 200 = 10,28 → 11 minutos]
 
 # Apresentação e Fechamento de Propostas
 
@@ -111,6 +111,8 @@ O último passo do fluxo é transformar o interesse em compromisso. Se for verde
 A regra que Vinni repete com ênfase: nunca termine uma reunião sem definir o próximo passo. Nunca deixe em aberto. O maior erro é o cliente falar "eu te aviso semana que vem" e você aceitar. Ele vai dar ghosting, você vai ficar sem conseguir encaixar um novo horário e vai gastar energia à toa. A analogia que ele usa é a do amigo que você não vê há tempo: se você fala "a gente vai marcar um dia desses", nunca marca. Se você fala "quinta às 8h naquele bar", o encontro acontece. Com o cliente funciona da mesma forma.
 
 Se você avaliou que o amarelo é genuíno e não uma desculpa, a frase é direta: "Entendo que você precisa avaliar, podemos marcar uma nova conversa na terça às 15h?" Ou ainda: abre sua agenda agora, vamos ver juntos qual data está disponível. Não saia da reunião sem esse próximo passo definido.
+
+Esse fluxo tira o criativo da posição de prestador de serviço que apenas responde orçamento, manda proposta por WhatsApp e aceita qualquer problema trazido pelo cliente. Ao mapear, analisar, posicionar e apontar, você passa a atuar como consultor que guia decisões, traz clareza e mostra uma direção. Mesmo quando a venda não fecha, o processo reduz o tempo perdido no sinal amarelo e deixa mais claro quanto cobrar, qual é o problema real do cliente e como transformar a solução em algo de alto valor.
 
 ## Coloque em prática
 

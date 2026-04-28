@@ -53,6 +53,8 @@ A segunda orientação é que a venda é um diagnóstico. O objetivo não é per
 
 O papel que o profissional deve ocupar na conversa não é o de vendedor de serviço, é o de consultor. Trazer clareza, fazer o diagnóstico. Quando isso é feito bem, o próprio cliente já percebe que precisa da ajuda e a venda acontece de forma mais natural.
 
+O erro mais comum é aceitar a solução que o cliente traz sem investigar o problema real. O cliente pode chegar dizendo que está vendendo pouco e acha que precisa de um site novo, e o designer responde apenas "vamos fazer o site". Mas o problema pode estar no posicionamento, no discurso ou no funil de vendas. Quando o profissional aceita a suposição sem diagnóstico, corre o risco de vender uma solução rasa e de ser visto como fazedor de tarefas, alguém que executa qualquer pedido em vez de atuar como parceiro estratégico.
+
 ## O sistema sintoma-solução
 
 O professor nomeia explicitamente um sistema que estrutura o raciocínio da venda consultiva: o sistema sintoma-solução. O caminho percorrido pelo cliente tem quatro estágios: o cliente sente um sintoma, cria uma suposição sobre a solução, e o papel do profissional é investigar o problema real antes de propor qualquer solução alinhada.

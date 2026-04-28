@@ -292,7 +292,3 @@ Defina quem decide, quem influencia, quem envia documentos e quem precisa estar 
 Centralize os materiais em um Drive do projeto. Nomeie arquivos com clareza, date documentos importantes e versione materiais atualizados.
 
 Ao final de cada apresentação, peça aprovação antes de avançar. Explique os próximos passos e deixe claro quais responsabilidades ainda dependem do cliente.
-
-## Caminho alterado
-
-D:\Claude Code\claude\Transcrições deTrilhas para descrições\transcrições\Ruan braz\DeepZoom ( fazer descrições )\Aula 04\descricao_aula04_Gerenciamento_de_projetos_avancados.md

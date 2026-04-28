@@ -1,8 +1,8 @@
-Cálculo interno: [4 blocos] / [11 parágrafos totais] / [345 palavras estimadas] / [345 ÷ 200 = 2 minutos]
+Cálculo interno: [5 blocos] / [12 parágrafos totais] / [405 palavras estimadas] / [405 ÷ 200 = 3 minutos]
 
 # Conclusão da Trilha
 
-**Tempo estimado de leitura:** 2 minutos
+**Tempo estimado de leitura:** 3 minutos
 
 ## Objetivos de aprendizado
 
@@ -30,3 +30,10 @@ Você não está sozinho nesse processo. O grupo do WhatsApp Negócios Criativos
 ## Para quem quer ir mais fundo: o Bootcamp
 
 Se você sentir que precisa de acompanhamento mais próximo, com orientação direta, exercícios guiados e um espaço para discutir casos reais, o Bootcamp é o próximo passo. São encontros intensivos e ao vivo, com acompanhamento estratégico. As próximas datas estão sendo organizadas. Se não aparecerem na plataforma, basta perguntar no grupo.
+
+## Coloque em prática
+
+- Reassista às aulas que ainda não ficaram claras antes de avançar para novas ações
+- Aplique a trilha passo a passo: valide hipóteses, revise ofertas e teste abordagens
+- Compartilhe dúvidas, feedbacks e exemplos que faltaram no grupo Negócios Criativos
+- Se precisar de acompanhamento direto, verifique as próximas datas do Bootcamp na plataforma ou no grupo

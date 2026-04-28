@@ -2,7 +2,7 @@ Cálculo interno: [16 blocos] / [93 parágrafos totais] / [4000 palavras estimad
 
 # Auditoria de mercado
 
-**Tempo estimado de leitura:** 18 minutos
+**Tempo estimado de leitura:** 20 minutos
 
 ## Objetivos de aprendizado
 

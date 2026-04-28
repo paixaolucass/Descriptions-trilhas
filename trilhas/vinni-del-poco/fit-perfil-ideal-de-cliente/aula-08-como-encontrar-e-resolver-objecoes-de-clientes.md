@@ -23,6 +23,8 @@ O raciocínio central é o seguinte: se a sua oferta responde todas as dúvidas 
 
 O processo começa com a identificação do resultado desejado do cliente. A partir daí, você faz uma lista de todos os problemas e crenças limitantes que ele pode ter relacionados a esse sonho. O professor usa a pergunta-base "não vai funcionar porque..." aplicada a cada elemento da equação para forçar esse exercício.
 
+O resultado desejado não é o produto ou o serviço. Ninguém entra em uma academia porque deseja a academia em si: a pessoa quer perder peso, ficar mais forte ou mudar o corpo. Da mesma forma, ninguém compra uma passagem de avião pensando apenas na passagem, mas nas férias, no destino e na experiência de chegar lá. A oferta precisa partir dessa transformação, não do entregável.
+
 Para ilustrar, ele usa o exemplo de um restaurante que quer aumentar as reservas durante a semana:
 
 - Resultado desejado: "não vai funcionar porque meu restaurante não tem demanda suficiente"
