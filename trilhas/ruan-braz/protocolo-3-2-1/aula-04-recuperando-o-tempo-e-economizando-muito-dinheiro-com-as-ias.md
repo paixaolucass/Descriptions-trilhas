@@ -21,27 +21,27 @@ Um ponto importante estabelecido antes do tour: o objetivo não é ensinar a cli
 
 ## ChatGPT
 
-O ChatGPT é a ferramenta de texto e conversa da OpenAI, acessível pelo navegador ou pelo smartphone. Na interface principal é possível fazer pedidos elaborados como poemas, frases, cópias de vendas e muito mais. O professor apresenta os recursos adicionais disponíveis: o modo de pesquisa aprofundada, que busca dados com mais fontes; geração de imagens dentro do próprio ChatGPT; modo agente, que usa a internet e o navegador para realizar pesquisas e tarefas de forma autônoma; e conectores, que puxam informações de fontes externas adicionadas pelo usuário.
+O ChatGPT é a ferramenta de texto e conversa da OpenAI, acessível pelo navegador ou pelo smartphone. Na interface principal é possível fazer pedidos elaborados como poemas, frases, cópias de vendas e muito mais. Ruan apresenta os recursos adicionais disponíveis: o modo de pesquisa aprofundada, que busca dados com mais fontes; geração de imagens dentro do próprio ChatGPT; modo agente, que usa a internet e o navegador para realizar pesquisas e tarefas de forma autônoma; e conectores, que puxam informações de fontes externas adicionadas pelo usuário.
 
-Além desses, o professor mostra o modo estudar e aprender, em que o modelo faz perguntas e busca informações na web, e a "lousa", um recurso que constrói o projeto junto com o usuário na tela. A plataforma também dá acesso ao Sora, ferramenta de geração de vídeo do ChatGPT, e ao Codecs, a ferramenta de código.
+Além desses, Ruan mostra o modo estudar e aprender, em que o modelo faz perguntas e busca informações na web, e a "lousa", um recurso que constrói o projeto junto com o usuário na tela. A plataforma também dá acesso ao Sora, ferramenta de geração de vídeo do ChatGPT, e o Codex, a ferramenta de código.
 
 Um recurso destacado é o sistema de projetos: ao criar um projeto e colocar arquivos dentro dele, todos esses arquivos passam a fazer parte do contexto da conversa. É possível criar um projeto para cada cliente ou para cada tipo de informação. Dentro do ChatGPT também é possível criar GPTs personalizados: o usuário define nome, descrição, instruções de comportamento, ações permitidas, abordagem e estilo de fala do assistente, além de arquivos de conhecimento. Há ainda uma área de GPTs criados por outras pessoas, organizados por categoria.
 
 ## Figma e Flora
 
-Para projetos que envolvem criação visual e moodboards, o professor apresenta o Figma como ferramenta com boa relação custo-benefício, já disponível gratuitamente. Dentro do Figma existe o recurso FigGen, que permite subir imagens e vídeos para construir painéis visuais. Além disso, o Figma permite gerar imagens usando o ChatGPT e o Nanobanana diretamente na plataforma.
+Para projetos que envolvem criação visual e moodboards, Ruan apresenta o Figma como ferramenta com boa relação custo-benefício, já disponível gratuitamente. Dentro do Figma existe o recurso FigGen, que permite subir imagens e vídeos para construir painéis visuais. Além disso, o Figma permite gerar imagens usando o ChatGPT e o Nanobanana diretamente na plataforma.
 
-Para quem quiser ir mais fundo, o professor apresenta o Flora como uma alternativa mais robusta, com um custo mais elevado. O Flora serve não só para moodboards, mas também para geração de imagens, vídeos e textos.
+Para quem quiser ir mais fundo, Ruan apresenta o Flora como uma alternativa mais robusta, com um custo mais elevado. O Flora serve não só para moodboards, mas também para geração de imagens, vídeos e textos.
 
 ## Freepik
 
-O Freepik é apresentado como um hub de inteligências artificiais: em vez de usar um único modelo, ele reúne vários modelos dentro de uma mesma plataforma com custo-benefício atraente. No gerador de imagens, o usuário escreve o prompt e escolhe entre uma ampla variedade de modelos: Mystic (com múltiplas variantes), modelos do Google incluindo o Nanobanana, modelos Sidrim da ByteDance (empresa dona do TikTok), incluindo o Sidrim 4K, além dos modelos Flux, ChatGPT, Runway e os modelos próprios do Freepik.
+O Freepik é apresentado como um hub de inteligências artificiais: em vez de usar um único modelo, ele reúne vários modelos dentro de uma mesma plataforma com custo-benefício atraente. No gerador de imagens, o usuário escreve o prompt e escolhe entre uma ampla variedade de modelos: Mystic (com múltiplas variantes), modelos do Google incluindo o Nanobanana, modelos Seedream da ByteDance (empresa dona do TikTok), incluindo o Seedream 4K, além dos modelos Flux, ChatGPT, Runway e os modelos próprios do Freepik.
 
 As opções de configuração de imagem incluem: características de estilo, composições que o modelo deve respeitar, efeitos, personagens criados pelo usuário para manter consistência entre cenas, objetos e produtos, paleta de cores e quantidade de imagens geradas por vez (padrão: quatro). Também é possível definir o aspect ratio da imagem, como quadrado, formato de stories, 16 por 9 para YouTube, entre outros.
 
-O gerador de vídeo, disponível na mesma assinatura, permite escrever um prompt e definir uma imagem de início e uma de fim, e o modelo anima a transição entre as duas. Os modelos de vídeo disponíveis incluem Seedens, Kling, Google View e Google Vell Tree. O usuário pode escolher entre durações de 5 a 6 segundos ou 8 a 10 segundos, além da proporção do vídeo.
+O gerador de vídeo, disponível na mesma assinatura, permite escrever um prompt e definir uma imagem de início e uma de fim, e o modelo anima a transição entre as duas. Os modelos de vídeo disponíveis incluem Seedance, Kling, Google View e Google VEO 3. O usuário pode escolher entre durações de 5 a 6 segundos ou 8 a 10 segundos, além da proporção do vídeo.
 
-Além dos geradores, o Freepik conta com um assistente que cria workflows para geração de poses e produtos, ferramentas de upscale para ampliar e melhorar imagens e vídeos com IA, editor de clipes, lip sync para sincronização de lábios em vídeos com diálogo, efeitos visuais para vídeo, gerador de voz, gerador de efeitos sonoros e gerador de música. O professor finaliza a apresentação do Freepik com um aviso: as ferramentas estão atualizando o tempo todo, e isso não deve ser motivo de acomodação. Sempre pesquisar e buscar novas referências é a postura correta.
+Além dos geradores, o Freepik conta com um assistente que cria workflows para geração de poses e produtos, ferramentas de upscale para ampliar e melhorar imagens e vídeos com IA, editor de clipes, lip sync para sincronização de lábios em vídeos com diálogo, efeitos visuais para vídeo, gerador de voz, gerador de efeitos sonoros e gerador de música. Ruan finaliza a apresentação do Freepik com um aviso: as ferramentas estão atualizando o tempo todo, e isso não deve ser motivo de acomodação. Sempre pesquisar e buscar novas referências é a postura correta.
 
 ## Suno
 
@@ -51,9 +51,9 @@ Entre as opções avançadas, o usuário pode definir uma persona de voz, um áu
 
 ## Bolt
 
-O Bolt é apresentado como a ferramenta para geração de código e aplicações completas. Com ele é possível criar sites descrevendo o projeto em texto ou enviando um arquivo do Figma, mas o professor destaca que o Bolt vai além de sites: permite criar ferramentas próprias, micro SaaS e softwares de serviço para otimizar processos do dia a dia.
+O Bolt é apresentado como a ferramenta para geração de código e aplicações completas. Com ele é possível criar sites descrevendo o projeto em texto ou enviando um arquivo do Figma, mas Ruan destaca que o Bolt vai além de sites: permite criar ferramentas próprias, micro SaaS e softwares de serviço para otimizar processos do dia a dia.
 
-A plataforma conta com uma galeria de projetos criados pela comunidade, organizada por categorias como ferramentas de produtividade, landing pages, portfólios, mobile, gestão de projetos, entretenimento e dashboards. O professor acessa um exemplo na categoria educação e mostra um site completo criado por inteligência artificial dentro do Bolt, com design de qualidade, gerado inteiramente a partir de prompts.
+A plataforma conta com uma galeria de projetos criados pela comunidade, organizada por categorias como ferramentas de produtividade, landing pages, portfólios, mobile, gestão de projetos, entretenimento e dashboards. Ruan acessa um exemplo na categoria educação e mostra um site completo criado por inteligência artificial dentro do Bolt, com design de qualidade, gerado inteiramente a partir de prompts.
 
 ## Coloque em prática
 

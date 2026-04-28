@@ -17,13 +17,13 @@ Ao final desta aula, você será capaz de:
 
 A principal habilidade nexialista apresentada nesta aula é a meta-aprendizagem: a capacidade de aprender a aprender e de aprender a desaprender. Não se trata de uma habilidade abstrata, mas de um sistema mental estruturado que permite aprender qualquer coisa com mais velocidade e profundidade.
 
-O professor compartilha que, com mais de 6 anos de experiência em docência, a habilidade mais importante que desenvolveu foi a de aprender sozinho. Ao se colocar na posição de professor, precisou aprender a compreender conceitos e simplificá-los para que outras pessoas os entendessem. Esse processo exige se colocar em uma posição mais alta de informação: entender o que vale a pena aprender, onde investir tempo e onde não investir.
+Ruan compartilha que, com mais de 6 anos de experiência em docência, a habilidade mais importante que desenvolveu foi a de aprender sozinho. Ao se colocar na posição de professor, precisou aprender a compreender conceitos e simplificá-los para que outras pessoas os entendessem. Esse processo exige se colocar em uma posição mais alta de informação: entender o que vale a pena aprender, onde investir tempo e onde não investir.
 
 ## O problema de aprender ferramentas em vez de fundamentos
 
 A maioria das pessoas comporta-se como um peixe tentando navegar em um ambiente escuro e fechado: aprende dentro do próprio limite de visão, sem saber o que está fora do alcance. O resultado disso é gastar tempo e dinheiro aprendendo ferramentas que são atualizadas toda semana. Um curso comprado hoje pode se tornar obsoleto no mês seguinte, quando a ferramenta ficou mais simples.
 
-Um exemplo que o professor usa é o do profissional que passou anos dominando o Photoshop: aprendeu a recortar cabelos, trocar iluminação, operar cada botão. Essa pessoa ficou boa em uma tarefa operacional. Quando a IA chegou e passou a entregar o mesmo resultado com palavras escritas, esse conhecimento perdeu valor. Em um mundo onde o "como" fica cada dia mais fácil e acessível, o mais importante passa a ser o "por que" e o "para que": por que você vai aprender isso e o que vai fazer com isso no final.
+Um exemplo que Ruan usa é o do profissional que passou anos dominando o Photoshop: aprendeu a recortar cabelos, trocar iluminação, operar cada botão. Essa pessoa ficou boa em uma tarefa operacional. Quando a IA chegou e passou a entregar o mesmo resultado com palavras escritas, esse conhecimento perdeu valor. Em um mundo onde o "como" fica cada dia mais fácil e acessível, o mais importante passa a ser o "por que" e o "para que": por que você vai aprender isso e o que vai fazer com isso no final.
 
 ## Bottom-up e top-down: duas formas de aprender
 
@@ -31,7 +31,7 @@ A maioria das pessoas aprende de cima para baixo, a partir da necessidade imedia
 
 ### Aprendizado top-down e seus limites
 
-Quando alguém aprende a gerar imagens pelo modo top-down, o caminho costuma ser: descobre as ferramentas disponíveis (Google, OpenAI, TikTok), aprende onde clicar, faz a assinatura. Mas quando vai digitar o prompt, a imagem não fica boa. Então aprende a escrever prompts da forma como o professor ensinou, cria um padrão engessado e passa a depender de uma estrutura fixada por outra pessoa. Aprendeu a reproduzir, não a gerar.
+Quando alguém aprende a gerar imagens pelo modo top-down, o caminho costuma ser: descobre as ferramentas disponíveis (Google, ChatGPT), aprende onde clicar, faz a assinatura. Mas quando vai digitar o prompt, a imagem não fica boa. Então aprende a escrever prompts da forma como Ruan ensinou, cria um padrão engessado e passa a depender de uma estrutura fixada por outra pessoa. Aprendeu a reproduzir, não a gerar.
 
 ### Aprendizado bottom-up e seus resultados
 

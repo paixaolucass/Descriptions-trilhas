@@ -27,7 +27,7 @@ Por outro lado, quem já possui um repertório maior consegue utilizar essas fer
 
 ## Demonstração: o prompt da biblioteca infinita
 
-Para ilustrar como o repertório se traduz em resultado, o professor compartilha um prompt enviado ao ChatGPT. A metáfora usada é a de uma biblioteca infinita em que todos os parâmetros do modelo fazem parte dos acervos e o modelo atua como o concierge que leva o visitante pelos corredores solicitados. O pedido é acessar os corredores raros, os que a maioria das pessoas não conhece, e listar as verdades universais utilitaristas contidas neles.
+Para ilustrar como o repertório se traduz em resultado, Ruan compartilha um prompt enviado ao ChatGPT. A metáfora usada é a de uma biblioteca infinita em que todos os parâmetros do modelo fazem parte dos acervos e o modelo atua como o concierge que leva o visitante pelos corredores solicitados. O pedido é acessar os corredores raros, os que a maioria das pessoas não conhece, e listar as verdades universais utilitaristas contidas neles.
 
 A resposta do ChatGPT organizou o conhecimento em quatro categorias:
 
@@ -55,13 +55,13 @@ A segunda verdade é que a biologia dita mais do que a ideologia. Nossos desejos
 
 A segunda verdade é que a simbiose homem-máquina já começou. A mente que souber integrar sistemas com inteligência artificial vai operar além dos limites humanos tradicionais. A questão não é se isso vai acontecer, mas quão rápido se entra nesse fluxo.
 
-O professor conclui que chegou a esse resultado com um prompt simples, mas que por trás dele existe uma ideia poderosa. Ele só chegou a essa ideia porque tinha repertório filosófico suficiente para conceber a analogia da biblioteca e trazê-la para o ChatGPT.
+Ruan conclui que chegou a esse resultado com um prompt simples, mas que por trás dele existe uma ideia poderosa. Ele só chegou a essa ideia porque tinha repertório filosófico suficiente para conceber a analogia da biblioteca e trazê-la para o ChatGPT.
 
 ## O debate sobre substituição: humanos como humanos e como trabalhadores
 
-Com o avanço das inteligências artificiais, existe um discurso que oscila entre dois extremos: alguns insistem que é impossível a IA substituir o trabalho e a criatividade humana; outros afirmam o oposto. O professor traz a distinção feita por Andrew Yang, empreendedor e ex-candidato à presidência dos Estados Unidos: "Há uma grande diferença entre os seres humanos como humanos e os seres humanos como trabalhadores. Os primeiros são indispensáveis, os segundos podem não ser."
+Com o avanço das inteligências artificiais, existe um discurso que oscila entre dois extremos: alguns insistem que é impossível a IA substituir o trabalho e a criatividade humana; outros afirmam o oposto. Ruan traz a distinção feita por Andrew Yang, empreendedor e ex-candidato à presidência dos Estados Unidos: "Há uma grande diferença entre os seres humanos como humanos e os seres humanos como trabalhadores. Os primeiros são indispensáveis, os segundos podem não ser."
 
-Essa distinção revela um ponto cego. A maioria das pessoas ainda pensa com a cabeça de um tempo que já passou. Os paradigmas de mercado, a maneira de olhar para clientes, para trocas e para relações profissionais vêm de um legado antigo. Mudanças dessa magnitude geram medo porque as perguntas são feitas dentro de um modelo que está sendo substituído: o que será de mim se os robôs me substituírem? O professor aponta que essa é a pergunta formulada com a cabeça errada.
+Essa distinção revela um ponto cego. A maioria das pessoas ainda pensa com a cabeça de um tempo que já passou. Os paradigmas de mercado, a maneira de olhar para clientes, para trocas e para relações profissionais vêm de um legado antigo. Mudanças dessa magnitude geram medo porque as perguntas são feitas dentro de um modelo que está sendo substituído: o que será de mim se os robôs me substituírem? Ruan aponta que essa é a pergunta formulada com a cabeça errada.
 
 ## Orquestrar ideias em vez de apertar botões
 
