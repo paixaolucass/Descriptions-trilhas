@@ -169,5 +169,3 @@ Para nomes inventados, ele aponta que seria necessário aprofundar técnicas com
 - Liste nomes de concorrentes e identifique o lugar comum da categoria.
 - Gere uma lista ampla de alternativas antes de escolher favoritas.
 - Faça bullying dos nomes selecionados, buscando problemas de sentido, som, registro, domínio e redes sociais.
-
-Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.

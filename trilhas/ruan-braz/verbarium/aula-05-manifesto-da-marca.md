@@ -153,5 +153,3 @@ No fim, Ruan reconhece que não mostrou o exemplo da OpenAI como havia prometido
 - Liste qual causa justifica a existência da marca além do lucro.
 - Estruture o manifesto em presente, mudança e futuro antes de escrever a versão final.
 - Leia manifestos de naturezas diferentes e observe ritmo, repetição, provocação e visão de mundo.
-
-Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.

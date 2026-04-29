@@ -155,5 +155,3 @@ Ferramentas como Zeroheight, Notion ou Google Drive podem ser suficientes. A dec
 - Escolha um formato que facilite acesso e atualização, como site, Notion, Google Drive ou PDF.
 - Organize uma versão enxuta com introdução, manifesto, tom de voz, vocabulário, clichês e exemplos.
 - Inclua perguntas orientadoras para ajudar quem escreve a escolher tom, palavra e contexto.
-
-Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.
