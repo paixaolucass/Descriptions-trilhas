@@ -161,5 +161,3 @@ O alerta é evitar famílias parecidas sem necessidade. Muitas vezes, usar uma �
 - Ajuste tracking, kerning e entrelinha observando a leitura óptica.
 - Verifique se há linhas órfãs, viúvas ou enforcadas.
 - Teste uma combinação com fonte de parágrafo e fonte display, e compare com uma única família usando pesos diferentes.
-
-Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.

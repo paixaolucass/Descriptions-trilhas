@@ -167,5 +167,3 @@ O fechamento reforça que grid é ferramenta de ideia. Ele não substitui sensib
 - Construa um retângulo de raiz de 2 e observe como as diagonais geram novas medidas.
 - Aplique um modelo de página, como Van de Graaf ou Rosarivo, em uma composição editorial.
 - Use o grid como ferramenta de leitura, sem afirmar que a obra analisada foi criada com aquele sistema.
-
-Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.
