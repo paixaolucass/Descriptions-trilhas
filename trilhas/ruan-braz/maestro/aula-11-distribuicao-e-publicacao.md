@@ -65,7 +65,4 @@ O instrutor é direto sobre esse ponto: o Spotify tem barrado várias músicas c
 ## Coloque em prática
 
 Crie sua conta em uma das distribuidoras recomendadas, DistroKid, OneRPM ou TuneCore, e percorra o processo de submissão com uma música de teste. Avance até onde conseguir com o material que já tem e identifique o que ainda precisa preparar: arquivo no formato correto, capa na resolução certa, metadados completos. Esse exercício prático vai revelar os pontos de atenção específicos do seu caso antes de fazer um lançamento real.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -238,7 +238,4 @@ Escolha um projeto atual ou simule um cenário de projeto. Para esse projeto, id
 3. **Teste com um prompt.** Gere uma imagem usando o tipo como palavra-chave. Avalie o resultado: a imagem cumpre a função do tipo que você escolheu?
 
 4. **Tente combinar dois tipos.** Use uma imagem de um tipo como input e peça ao modelo que gere uma imagem de outro tipo a partir dela. Observe o que acontece.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 27 minutos - alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

@@ -1,4 +1,4 @@
-﻿Cálculo interno: 470 timestamps / ~42 parágrafos / ~3800 palavras / 3800 ÷ 200 = 19 minutos
+Cálculo interno: 470 timestamps / ~42 parágrafos / ~3800 palavras / 3800 ÷ 200 = 19 minutos
 
 # Construção de Fotografia
 
@@ -175,7 +175,4 @@ Monte um briefing fotográfico para você mesmo ou para um personagem fictício.
 7. Peça ao LLM para gerar o território de palavras-chave organizado por categoria: estilo fotográfico, iluminação, ambiente e vestimenta.
 
 Guarde esse documento. Ele vai guiar todo o processo de geração de imagens que vem nas próximas aulas.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 23 minutos, alguns detalhes de demonstração ao vivo, como a digitação em tempo real no Google Docs e a interação com o Gemini integrado, estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

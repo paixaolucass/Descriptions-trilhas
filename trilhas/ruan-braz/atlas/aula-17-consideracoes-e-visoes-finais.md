@@ -124,7 +124,4 @@ O nexialista silencioso não é invisível. Ele tem presença, produz conteúdo 
 - Revise o portfólio do seu negócio atual ou em desenvolvimento e verifique se você tem três serviços com naturezas de entrega realmente distintas. Se não tiver, defina quais seriam o produto de entrada, o de meio e o de topo, garantindo que cada um tem um formato de entrega diferente. Depois, para cada serviço, escreva uma situação concreta de negociação em que usaria downsell, upsell ou cross-sell.
 - Grave ou transcreva uma reunião de qualquer cliente atual, configure um agente de IA com um papel de especialista em léxico de marcas e extraia o tom de voz a partir da transcrição. Mapeie ao menos dois canais de comunicação desse cliente e escreva diretrizes distintas para cada canal.
 - Avalie em qual nível do iceberg de consciência está o público do serviço que você pretende lançar primeiro. Se o público ainda não sabe que tem o problema, reconsidere o ponto de entrada antes de investir em aquisição.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 97 minutos e inclui demonstrações ao vivo de ferramentas e processos; os fluxos completos de operação estão disponíveis apenas no vídeo.*

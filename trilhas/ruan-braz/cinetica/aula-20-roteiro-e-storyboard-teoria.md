@@ -1,4 +1,4 @@
-﻿Cálculo interno: [11 blocos] / [85 parágrafos totais] / [3800 palavras estimadas] / [3800 ÷ 200 = 19 minutos]
+Cálculo interno: [11 blocos] / [85 parágrafos totais] / [3800 palavras estimadas] / [3800 ÷ 200 = 19 minutos]
 
 # Roteiro e Storyboard: teoria
 
@@ -200,7 +200,4 @@ Essa demonstração concreta torna os conceitos mais aplicáveis: você não est
 Escolha uma ideia de vídeo que você quer desenvolver. Escreva uma sinopse de um parágrafo com universo, conflito e personagens. Crie pelo menos um one-pager usando o 5W2H para preencher todas as dimensões. Monte um painel de referências com 5 a 10 imagens de outros criadores que capturem o visual que você quer. Só depois disso gere as primeiras imagens no painel de concepts.
 
 O exercício mais revelador: antes de gerar, tente responder ao "why" do seu personagem. Por que ele age como age? Por que ele importa para a história? Se você não consegue responder, o personagem ainda não tem identidade, e a geração vai refletir isso.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 45 minutos, alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

@@ -1,4 +1,4 @@
-﻿Cálculo interno: 20 blocos / 82 parágrafos totais / 3900 palavras estimadas / 3900 ÷ 200 = 19,5 minutos
+Cálculo interno: 20 blocos / 82 parágrafos totais / 3900 palavras estimadas / 3900 ÷ 200 = 19,5 minutos
 
 # Por dentro das LLMs
 
@@ -123,7 +123,4 @@ Isso também implica que a ordem das informações que você compartilha numa co
 Acesse o Tokenizer da OpenAI (platform.openai.com/tokenizer) e conduza dois testes comparativos. Primeiro, copie um parágrafo em inglês e o mesmo parágrafo traduzido para o português, e compare o número de tokens gerados em cada caso. Observe quais palavras em português são divididas em múltiplos tokens e quais permanecem como token único. Segundo, experimente os diferentes modelos disponíveis no tokenizer (GPT-4o, GPT-3 Legacy) e veja como a mesma frase em português gera contagens de tokens diferentes entre as versões do modelo.
 
 Depois, escreva uma instrução de fine-tuning simples para um assistente imaginário: escolha um comportamento específico que você quer modificar, como o tom (mais direto, mais poético), o formato da resposta (em tópicos, em parágrafos curtos, com metáforas) ou uma restrição de assunto. Descreva o que você estaria ajustando em termos de pesos: em qual parte do mecanismo você estaria intervindo e qual distribuição de probabilidade você estaria modificando com essa instrução?
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 42 minutos, alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

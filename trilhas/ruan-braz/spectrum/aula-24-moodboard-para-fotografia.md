@@ -1,4 +1,4 @@
-﻿Cálculo interno: 512 timestamps / ~44 parágrafos / ~3700 palavras / 3700 ÷ 200 = 18 minutos
+Cálculo interno: 512 timestamps / ~44 parágrafos / ~3700 palavras / 3700 ÷ 200 = 18 minutos
 
 # Moodboard para Fotografia
 
@@ -151,7 +151,4 @@ Usando as palavras-chave do briefing fotográfico que você montou na aula anter
 2. Moodboard Foto: busque no Pinterest pelo menos 12 referências de composição fotográfica, iluminação e ambiente. Use as palavras-chave de iluminação e estilo fotográfico do briefing. Misture preto e branco com referências coloridas. Inclua variações de ambiente relacionadas ao signo visual mais importante do seu painel semântico.
 
 Tente também tirar pelo menos 5 fotos de referência de si mesmo em condições diferentes: câmera traseira, câmera frontal, iluminação natural, iluminação artificial, diferentes ângulos. Avalie cada uma e selecione apenas as que têm iluminação funcional e enquadramento adequado. Adicione essas fotos a uma terceira área no Figma, separada dos dois painéis, para que a IA tenha referência de quem você é.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 26 minutos, boa parte da aula é demonstração ao vivo de navegação no Pinterest e no Figma, com seleção e organização das referências em tempo real. Esses detalhes de processo estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

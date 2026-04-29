@@ -243,7 +243,4 @@ Monte o seu pack pessoal de ferramentas com base nas suas necessidades específi
 4. **Acesse um leaderboard esta semana:** Entre no Litter Board Image AI Gen ou no Arena AI. Vote em pelo menos 10 pares de imagens. Observe qual modelo é revelado como vencedor nos pares que você votou. Isso ajuda a calibrar sua percepção de qualidade em relação à comunidade.
 
 5. **Registre as recomendações:** Elas foram dadas em março de 2026 e serão atualizadas ao longo do curso. O mercado muda rápido. O que está no topo hoje pode mudar em semanas. O método de acompanhamento (leaderboards + testes pessoais) não muda.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 28 minutos - alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

@@ -1,4 +1,4 @@
-﻿Cálculo interno: [7 blocos] / [38 parágrafos totais] / [1800 palavras estimadas] / [1800 ÷ 200 = 9 minutos]
+Cálculo interno: [7 blocos] / [38 parágrafos totais] / [1800 palavras estimadas] / [1800 ÷ 200 = 9 minutos]
 
 # Erros, mitos e limitações
 
@@ -95,7 +95,4 @@ O Gemini com plano Pro também permite gerar vídeo diretamente. No plano gratui
 ## Coloque em prática
 
 Acesse a plataforma Seedream da ByteDance ou o Mid-Journey. Gere um vídeo simples com um único sujeito e uma única ação, sem imagem de referência. Observe o resultado: o que a IA decidiu por conta própria? O que você não pediu que apareceu mesmo assim? Anote o que mudaria no prompt para ter mais controle, e gere uma segunda versão corrigindo apenas um elemento por vez.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

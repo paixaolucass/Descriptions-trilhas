@@ -1,4 +1,4 @@
-﻿Cálculo interno: [9 blocos] / [72 parágrafos totais] / [2800 palavras estimadas] / [2800 ÷ 200 = 14 minutos]
+Cálculo interno: [9 blocos] / [72 parágrafos totais] / [2800 palavras estimadas] / [2800 ÷ 200 = 14 minutos]
 
 # Estruturas JSON para prompts avançados
 
@@ -150,7 +150,4 @@ JSON funciona na execução. O processo criativo que o antecede é responsabilid
 Pegue um prompt de vídeo que você já usou ou criou agora. Escreva a cena em linguagem natural, depois peça a um LLM (Claude ou ChatGPT) para converter em JSON com os seis campos: subject, camera, environment, lighting, style e motion. Compare o JSON com o texto original e identifique: onde o JSON forçou precisão que o texto deixava em aberto? Qual campo teve mais divergência entre o que você imaginou e o que o LLM estruturou?
 
 Se quiser ir além: crie dois shots em JSON, adicione timestamps em cada um e peça ao LLM para fazer QA da transição entre eles. Veja que problemas o agente identifica.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 31 minutos, alguns detalhes de demonstração prática estão disponíveis apenas no vídeo.*

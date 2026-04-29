@@ -87,7 +87,4 @@ O instrutor encerra a aula anunciando o que vem na próxima: a apresentação co
 ## Coloque em prática
 
 Acesse o Gemini e abra o Deep Research. Digite um pedido estruturado pedindo uma pesquisa detalhada sobre as melhores ferramentas de produção musical com IA, incluindo comunidades, Reddit, artigos e opiniões de especialistas da área. Aguarde o relatório completo, salve como Google Doc e use como seu Estado da Arte pessoal de ferramentas. Em paralelo, acesse o Futurepedia ou outro agregador de IA, filtre por música e explore as ferramentas listadas usando os critérios desta aula para avaliar quais valem teste imediato. Antes de assinar qualquer ferramenta, copie os termos de uso, jogue em um modelo de IA e peça que ele identifique os pontos críticos sobre licenciamento e uso comercial.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

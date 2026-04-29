@@ -210,7 +210,4 @@ Escolha uma imagem que você usa ou pretende usar em algum projeto atual. Pode s
 3. **Coerência contextual:** Essa imagem faz sentido onde você vai colocá-la? A paleta, o estilo e o signo que ela carrega são coerentes com o contexto de uso e o público-alvo?
 
 Anote suas conclusões. Em seguida, se a imagem foi gerada por IA, tente regenerá-la com pelo menos uma mudança direcionada por essa análise: ajuste o contraste, defina um ponto focal mais claro, ou altere um elemento para melhorar a coerência contextual. Compare os dois resultados.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 30 minutos - alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

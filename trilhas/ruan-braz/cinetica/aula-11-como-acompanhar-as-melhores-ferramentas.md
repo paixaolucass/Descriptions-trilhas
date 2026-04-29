@@ -72,7 +72,4 @@ Isso é especialmente útil quando você quer comparar ferramentas para um proje
 ## Coloque em prática
 
 Escolha uma fonte de cada nível da hierarquia e configure um ritual de consulta. Comece pelo Reddit: acesse r/generativeAI ou r/AIUGCMarketing e leia os posts mais votados da semana. Depois, escolha um blog técnico de uma ferramenta que você usa ou quer usar e salve para leitura mensal. Por último, faça uma busca por "AI video leaderboard" agora para ver o ranking atual e compare com o que você já conhecia.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

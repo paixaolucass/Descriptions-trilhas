@@ -115,7 +115,4 @@ A consciência histórica sobre quem construiu o campo da IA é o que separa o u
 ## Coloque em prática
 
 Escolha dois nomes desta aula: um entre os fundadores técnicos e um entre os pensadores de impacto. Para cada um deles, dedique pelo menos 30 minutos de pesquisa autônoma: busque o trabalho mais importante da pessoa, leia o resumo de um artigo ou de um capítulo do livro principal, e anote em um parágrafo com suas próprias palavras qual foi a contribuição central dessa pessoa para o campo da IA. Depois, identifique um outro nome que surgiu durante essa pesquisa e que não estava na lista desta aula. Esse processo de expansão progressiva é exatamente o que a metáfora da casa de portas descreve, e executá-lo ativamente é o que transforma a informação recebida em conhecimento real.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -125,7 +125,4 @@ Acesse o Claude com qualquer plano disponível e crie um estilo de voz personali
 Depois de criar o estilo, peça uma prévia com um tema simples relacionado ao negócio ou projeto. Avalie se o tom capturado está correto para o contexto. Se precisar de ajustes, use a opção de edição manual do prompt do estilo para refinar os detalhes.
 
 Se você tiver o plano Pro, crie um projeto para esse cliente e adicione pelo menos dois documentos: um briefing do negócio e um documento com exemplos de comunicação de referência. Inicie uma conversa dentro do projeto pedindo que o Claude sugira três conceitos de comunicação baseados nos materiais disponíveis. Observe como ele usa o contexto dos documentos automaticamente sem que você precise explicar nada sobre o cliente naquela conversa. Depois, peça que ele escreva um exemplo de copy no estilo de voz que você configurou anteriormente, combinando os dois recursos ao mesmo tempo.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 23 minutos; alguns detalhes de demonstração prática estão disponíveis apenas no vídeo.*

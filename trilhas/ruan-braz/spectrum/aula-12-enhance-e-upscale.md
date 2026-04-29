@@ -1,4 +1,4 @@
-﻿Cálculo interno: 10 blocos / 22 parágrafos totais / 2000 palavras estimadas / 2000 ÷ 200 = 10 minutos
+Cálculo interno: 10 blocos / 22 parágrafos totais / 2000 palavras estimadas / 2000 ÷ 200 = 10 minutos
 
 # Ferramentas de Enhance e Upscale
 
@@ -107,7 +107,4 @@ Execute o processo em duas etapas. Primeiro, use o enhance: acesse o Freepik com
 Segundo, use o upscale: dentro do Mid Journey, gere a mesma imagem ou use uma gerada anteriormente, clique nela e aplique o upscale subtly. Compare o resultado com a versão original em termos de nitidez e tamanho. Em seguida, aplique o upscale creative na mesma imagem e compare os três resultados: original, subtly e creative.
 
 Ao final, você terá experienciado as duas funções principais desta aula de forma prática, com ferramentas gratuitas ou de acesso fácil, e poderá avaliar quando cada uma faz sentido dentro do seu próprio fluxo de trabalho. Registre qual ferramenta e qual modo de upscale produziram o resultado que você prefere para o tipo de imagem que você mais trabalha.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

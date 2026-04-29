@@ -1,4 +1,4 @@
-﻿Cálculo interno: [7 blocos] / [30 parágrafos totais] / [1800 palavras estimadas] / [1800 ÷ 200 = 9 minutos]
+Cálculo interno: [7 blocos] / [30 parágrafos totais] / [1800 palavras estimadas] / [1800 ÷ 200 = 9 minutos]
 
 # Critérios para escolher a ferramenta certa
 
@@ -84,7 +84,4 @@ Não existe a bala de prata, a ferramenta perfeita para todos os casos. O profis
 ## Coloque em prática
 
 Escolha duas ferramentas de vídeo com IA que você usa ou quer experimentar. Para cada uma, acesse a documentação oficial e verifique se ela existe e é completa. Leia os termos de uso e procure informações sobre propriedade dos vídeos gerados. Verifique se a ferramenta tem opção de trial gratuito e plano mensal. Anote em qual critério cada ferramenta é mais forte e qual você vai usar para o seu próximo projeto com base nisso, não com base em qual está mais na moda.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

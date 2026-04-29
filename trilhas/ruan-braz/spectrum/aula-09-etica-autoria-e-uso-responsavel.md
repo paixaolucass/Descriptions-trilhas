@@ -103,7 +103,4 @@ Segunda: alguma das imagens que você gerou ou pretende gerar inclui rostos de p
 Terceira: as imagens que você está gerando podem ser usadas para enganar alguém, induzir alguém a acreditar em algo falso ou prejudicar a reputação de uma pessoa ou grupo? Se sim, que mudança de abordagem eliminaria esse risco?
 
 Esse exercício não tem resposta certa ou errada. Ele serve para que você desenvolva o hábito de aplicar critérios de responsabilidade antes de gerar e publicar imagens, não depois.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

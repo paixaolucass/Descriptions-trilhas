@@ -1,4 +1,4 @@
-﻿Cálculo interno: [7 blocos] / [28 parágrafos totais] / [1800 palavras estimadas] / [1800 ÷ 200 = 9 minutos]
+Cálculo interno: [7 blocos] / [28 parágrafos totais] / [1800 palavras estimadas] / [1800 ÷ 200 = 9 minutos]
 
 # Tipos de vídeos com IA
 
@@ -70,7 +70,4 @@ Ruan destaca um ponto importante: cada vez mais as ferramentas de IA têm se tor
 ## Coloque em prática
 
 Pegue um projeto real ou hipotético que você tem em mente. Antes de abrir qualquer ferramenta, defina qual tipo de vídeo aquele projeto exige: 2D, 360° ou avatar. Escreva em uma linha por que aquele formato específico serve melhor ao objetivo de comunicação. Só depois dessa definição, escolha a ferramenta.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

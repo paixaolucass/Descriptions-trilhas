@@ -127,7 +127,4 @@ Acesse o Gemini em gemini.google.com com sua conta Google e peça que ele gere u
 Se você tem acesso ao Google Workspace, abra um Google Sheets em branco e ative o Gemini no painel lateral. Peça que ele crie uma tabela para organizar qualquer tipo de dado que você usa no seu trabalho, seja uma lista de tarefas, um comparativo de ferramentas ou um catálogo de referências. Observe como ele gera e insere a tabela diretamente na planilha.
 
 Se você tem o Gemini Advanced, ative o recurso de Live e compartilhe a tela. Abra qualquer interface que você usa regularmente no trabalho e peça ao Gemini, por voz, que descreva o que está vendo e sugira como você poderia usar aquela interface de forma mais eficiente. Esse exercício transforma o conceito abstrato de "IA que vê sua tela" em experiência prática e imediata.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 24 minutos; alguns detalhes de demonstração prática estão disponíveis apenas no vídeo.*

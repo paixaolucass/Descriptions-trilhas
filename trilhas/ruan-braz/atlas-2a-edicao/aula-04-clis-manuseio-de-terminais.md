@@ -55,7 +55,7 @@ Com Claude Code instalado no terminal, a conversa com a IA acontece em linguagem
 
 A diferença em relação ao terminal tradicional: antes, era preciso saber o comando exato. Agora, você fala o que quer e o Claude executa no ambiente com as permissões que você configurou.
 
-O terminal com Claude Code tem modos de operação acessíveis pelo Shift+Tab: modo padrão, modo de aceitar edições e modo de planejamento. Existe também o modo com `--dangerously-skip-permissions`, que libera permissão total para o Claude agir no computador sem pedir confirmação a cada passo. Esse modo não é recomendado para iniciantes. A seleção de modelo é feita pelo comando `/model`, que exibe as opções (Opus, Sonnet, Haiku) para navegar com as setas do teclado. Clique de mouse não funciona nessa interface.
+O terminal com Claude Code tem modos de operação acessíveis pelo Shift+Tab: modo padrão, modo de aceitar edições e modo de planejamento. Existe também o modo com modo dangerously skip permissions, que libera permissão total para o Claude agir no computador sem pedir confirmação a cada passo. Esse modo não é recomendado para iniciantes. A seleção de modelo é feita pelo comando `/model`, que exibe as opções (Opus, Sonnet, Haiku) para navegar com as setas do teclado. Clique de mouse não funciona nessa interface.
 
 ## Coloque em prática
 

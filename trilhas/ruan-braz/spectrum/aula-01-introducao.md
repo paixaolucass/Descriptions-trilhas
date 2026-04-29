@@ -43,7 +43,4 @@ O objetivo da temporada é direto: resolver com o aluno o que hoje já é o bás
 ## Coloque em prática
 
 Localize o gráfico de adoção de IA mencionado na aula e observe onde você se posiciona hoje: nunca usou, usa gratuitamente, paga uma assinatura, ou já usa como infraestrutura. Com base nessa posição, defina qual é o próximo degrau concreto que você quer alcançar ao longo desta trilha e escreva em uma frase o que isso significa para a sua prática profissional.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

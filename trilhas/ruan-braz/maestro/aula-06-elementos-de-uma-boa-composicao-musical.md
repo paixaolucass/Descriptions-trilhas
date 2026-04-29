@@ -142,7 +142,4 @@ Ao encerrar a seção sobre elementos, Ruan entrega uma frase síntese que resum
 ## Coloque em prática
 
 Grave uma melodia simples de 4 a 8 notas humming (cantarolando) diretamente no campo de áudio do Suno. Com essa melodia salva na biblioteca, gere ao menos três versões usando arranjos completamente diferentes: um clássico (strings e piano), um eletrônico (synth e bass) e um orgânico (guitarra acústica e percussão). Compare os três resultados e observe como o mesmo motivo melódico pode ter identidades completamente distintas. Se quiser ir além, nomeie a escala que a sua melodia usa, pesquise na IA e peça ao Suno que componha dentro dessa escala.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

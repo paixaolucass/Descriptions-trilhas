@@ -149,7 +149,4 @@ Ruan compromete-se a deixar na descrição da aula os links diretos para todas a
 ## Coloque em prática
 
 Identifique em qual etapa do fluxo de produção você tem maior lacuna hoje: geração, edição/stems, voz, mixagem ou masterização. Escolha a ferramenta gratuita recomendada para essa etapa e crie um projeto real nela. Se a lacuna é na geração, abra o Suno com um plano gratuito e gere três músicas em gêneros diferentes. Se é na separação de stems, suba uma música que você tem no Suno Studio ou no Moises App e explore o que cada stem soa isolado. Se é na masterização, finalize uma música no Suno, exporte o MP3 e passe pelo Landr para comparar o antes e o depois.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

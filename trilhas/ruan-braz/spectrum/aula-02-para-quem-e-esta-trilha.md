@@ -1,4 +1,4 @@
-﻿Cálculo interno: 105 blocos / 20 parágrafos / 1050 palavras estimadas / 1050 ÷ 200 = 5 minutos
+Cálculo interno: 105 blocos / 20 parágrafos / 1050 palavras estimadas / 1050 ÷ 200 = 5 minutos
 
 # Para quem é esta trilha
 
@@ -57,7 +57,4 @@ O curso é, acima de tudo, para pessoas que querem se atualizar e se preparar pa
 ## Coloque em prática
 
 Identifique o seu perfil atual entre os quatro apresentados (operante, convergente, emergente ou nexialista) e escreva em uma frase o que especificamente você quer conseguir fazer ao final desta trilha. Esse objetivo pessoal vai orientar como você vai se relacionar com cada módulo, cada ferramenta e cada exercício proposto.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

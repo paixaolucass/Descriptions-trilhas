@@ -79,7 +79,4 @@ A versão gratuita já é funcional para uso regular. O diferencial da versão P
 ## Coloque em prática
 
 Crie um notebook no NotebookLM e adicione três fontes de tipos diferentes: um vídeo do YouTube sobre um tema do seu interesse profissional, um PDF de referência e um link de artigo ou site relevante. Peça ao modelo que traga os principais pontos de cada fonte separadamente e depois solicite uma síntese cruzando as três. Em seguida, gere o podcast sobre essas fontes e use o modo interativo para aprofundar um ponto específico que chamou sua atenção. Salve os resultados como notas no estúdio.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

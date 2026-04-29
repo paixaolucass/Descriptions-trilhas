@@ -75,7 +75,4 @@ Cada capa da plataforma passa por esse processo. São muitas possibilidades trab
 ## Coloque em prática
 
 Escolha um projeto real ou fictício e aplique o processo completo de capa mostrado na aula. Defina o conceito em uma frase, liste três palavras-chave, colete pelo menos dez referências usando Text to Image, selecione três candidatas e teste cada uma no contexto real de onde ela vai ser usada. Avalie qual delas passa a mensagem certa e harmoniza com o que já existe no seu material.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

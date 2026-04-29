@@ -1,4 +1,4 @@
-﻿Cálculo interno: 12 blocos / 30 parágrafos totais / 2400 palavras estimadas / 2400 ÷ 200 = 12 minutos
+Cálculo interno: 12 blocos / 30 parágrafos totais / 2400 palavras estimadas / 2400 ÷ 200 = 12 minutos
 
 # O que é e como funciona a geração de imagens com IA
 
@@ -93,7 +93,4 @@ Antes de avançar para as próximas aulas da trilha, execute o seguinte exercíc
 Agora escreva um prompt para o Mid Journey ou outra ferramenta de geração que tente reconstruir essa imagem a partir da sua descrição. Esse exercício coloca você no papel da IA: você está fazendo o que o modelo faz, só que na direção inversa. A diferença é que você vai usar linguagem, e a IA vai usar vetores e probabilidades. Ao fazer esse exercício, você começa a perceber por que prompts mais precisos produzem imagens mais fiéis à intenção, e por que elementos complexos como mãos ou texto dentro de imagens ainda apresentam inconsistências nos modelos.
 
 Depois de gerar a imagem, aplique o processo de validação: verifique especificamente as mãos, os olhos e qualquer texto que apareça. Registre os erros encontrados e tente reescrever o prompt para corrigi-los. Essa iteração de geração, validação e ajuste de prompt é o ciclo central do trabalho com geração de imagens por IA.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

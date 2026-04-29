@@ -62,7 +62,4 @@ A mensagem final é direta: no momento em que esta aula foi gravada, existe uma 
 ## Coloque em prática
 
 Escreva um mini-case pessoal com a mesma estrutura dos três apresentados. Descreva: qual é o seu objetivo, qual é o gargalo que impede ou dificulta esse objetivo, qual ferramenta ou abordagem de IA poderia resolver esse gargalo e qual seria o resultado esperado. Essa reflexão vai ajudar a direcionar o uso das ferramentas ao longo das próximas aulas.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

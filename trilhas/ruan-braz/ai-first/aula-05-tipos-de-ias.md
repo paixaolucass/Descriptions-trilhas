@@ -92,7 +92,4 @@ A consciência sobre os três níveis de IA e sobre como cada tipo de modelo fun
 ## Coloque em prática
 
 Escolha três ferramentas de IA que você já usa ou que você quer começar a usar. Para cada uma delas, pesquise: qual foi o dado de treinamento principal, para qual tipo de tarefa ela foi originalmente desenvolvida, e se ela é uma ANI isolada ou parte de uma plataforma multimodal. Registre suas descobertas em um documento e, ao final, escreva uma frase que descreva com precisão o que cada ferramenta faz bem e o que ela não consegue fazer. Esse exercício vai afinar seu julgamento sobre quando usar qual ferramenta e vai te posicionar de forma muito mais estratégica no uso cotidiano da IA.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

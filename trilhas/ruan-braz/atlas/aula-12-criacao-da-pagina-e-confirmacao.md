@@ -92,7 +92,4 @@ A resistência que aparece quando a página parece simples demais é a armadilha
 - Defina qual dos quatro modelos de go-to-market faz mais sentido para o estágio atual do seu negócio e monte o funil correspondente: se Two Stages, crie um formulário no Tally.so com cinco perguntas de qualificação baseadas nas dores mapeadas; se One Stage, gere a copy no ChatGPT com o documento estratégico como input e construa a página no Lovable.
 - Escreva o roteiro de qualificação do WhatsApp com as perguntas baseadas no método SPIN Selling adaptado ao seu serviço: Situação, Problema, Implicação e Necessidade, com uma pergunta concreta para cada etapa.
 - Publique algo que possa receber tráfego em 48 horas, não daqui a 30 dias: o objetivo desta etapa não é ter a melhor página, é ter uma página que permita testar a oferta com o mercado real.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 91 minutos e inclui demonstrações ao vivo de ferramentas digitais; os fluxos práticos de operação das plataformas estão disponíveis apenas no vídeo.*

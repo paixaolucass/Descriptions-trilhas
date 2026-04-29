@@ -77,7 +77,4 @@ Depois que o mood board está validado e as imagens são geradas e aprovadas, tu
 ## Coloque em prática
 
 Monte um mood board no Figma para um projeto real ou fictício com pelo menos 15 referências. Divida-o em dois painéis: o mood board visual (imagens por sensação e atmosfera) e o painel semântico (palavras e valores que o projeto deve comunicar). Depois leve essas referências para o Mid-Journey, use-as como base de um prompt, recupere o seed gerado e faça pelo menos três gerações usando esse seed. Observe a consistência entre elas.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

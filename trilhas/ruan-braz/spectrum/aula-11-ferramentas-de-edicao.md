@@ -79,7 +79,4 @@ A escolha entre os dois depende do destino da imagem e da importância da peça 
 ## Coloque em prática
 
 Pegue uma imagem gerada com IA que ainda não passou por edição. Aplique pelo menos um ajuste em cada nível: use um recurso de edição nativo dentro da ferramenta que gerou a imagem (Zoom, Pan ou Remix no Mid-Journey, ou edição regional no NanoBanana), depois importe no Photoshop ou Lightroom e aplique ao menos um ajuste de camada de correção de cor ou contraste. Observe a diferença entre os dois momentos e anote qual ajuste fez mais diferença no resultado final.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

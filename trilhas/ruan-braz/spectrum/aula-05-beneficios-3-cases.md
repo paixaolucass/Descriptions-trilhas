@@ -119,7 +119,4 @@ Escolha um projeto criativo atual ou recente seu, qualquer coisa que você tenha
 Para cada um desses três momentos, pesquise qual ferramenta de geração de imagem com IA poderia ter sido usada para reduzir esse tempo. Não precisa testar agora, apenas mapear a possibilidade. Ao final do exercício, você terá um panorama concreto de onde a IA pode entrar no seu fluxo de trabalho sem substituir o que só você sabe fazer, mas liberando seu tempo para o que realmente importa: as ideias e as decisões criativas que dependem da sua vontade.
 
 Como desafio adicional, escolha um próximo projeto, mesmo que seja pequeno, e aplique a IA especificamente na etapa de prototipagem. Gere pelo menos três direções visuais diferentes antes de se comprometer com uma. Avalie quais elementos funcionam em cada direção e use essa análise para construir a versão final com mais consciência sobre o que você quer alcançar.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

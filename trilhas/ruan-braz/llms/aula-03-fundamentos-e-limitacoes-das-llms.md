@@ -138,7 +138,4 @@ A melhor estratégia para lidar com isso é preventiva: use conversas novas para
 ## Coloque em prática
 
 Escolha um tema que você domina com profundidade, seja uma área de atuação profissional, um hobby técnico, uma teoria que você estudou. Escreva dois prompts sobre esse tema: no primeiro, use apenas vocabulário cotidiano e genérico, sem termos técnicos. No segundo, use termos específicos do campo, nomes de autores, conceitos teóricos, metodologias, até palavras em outro idioma se fizer parte do vocabulário do campo. Envie ambos ao mesmo modelo, em conversas separadas, e compare a profundidade e o nível das respostas. Em seguida, abra uma nova conversa e pergunte explicitamente ao modelo: "quanto da sua janela de contexto já utilizamos?". Repita a pergunta depois de gerar um texto longo e observe como o percentual muda.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 46 minutos, alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

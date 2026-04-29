@@ -65,7 +65,4 @@ Ruan menciona o caminho mais avançado que existe além desse processo manual: c
 ## Coloque em prática
 
 Monte no Figma pelo menos dois templates com as safe zones demarcadas, um para feed e um para stories do Instagram. Depois use o NanoBanana integrado ao Figma para gerar uma imagem dentro de um dos templates. Compare o resultado com uma imagem gerada fora do Figma e importada. Avalie qual fluxo funciona melhor para o tipo de conteúdo que você produz com mais frequência.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -113,7 +113,4 @@ Acesse o Perplexity e passe dois minutos navegando pelo hub de notícias da tela
 Use a barra de pesquisa para fazer a mesma busca nos três modos disponíveis: web, acadêmico e social. Escolha um tema que você domina razoavelmente bem para que você consiga avaliar a qualidade das respostas com olhar crítico. Compare os tipos de fonte que cada modo traz e como as respostas diferem em caráter e conteúdo: o modo web tende a trazer síntese mais abrangente; o modo acadêmico traz citações de estudos; o modo social traz opiniões e experiências reais de pessoas. Essa comparação prática torna a distinção entre os modos muito mais clara do que qualquer explicação teórica.
 
 Por último, crie um espaço com uma instrução personalizada relevante para algum projeto ou cliente que você está atendendo agora. Defina uma persona ou contexto específico para o modelo. Gere um artigo ou resumo de pesquisa dentro desse espaço e experimente a conversão para página com um clique. Edite ao menos um parágrafo diretamente no editor da página e depois compartilhe o link com alguém para ver como ele aparece para o receptor. Esse exercício completo percorre o fluxo principal do Perplexity do início ao fim: pesquisa, contexto, geração, edição e publicação.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 16 minutos; alguns detalhes de demonstração prática estão disponíveis apenas no vídeo.*

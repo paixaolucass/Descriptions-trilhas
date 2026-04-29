@@ -8,7 +8,7 @@ Cálculo interno: [8 blocos] / [42 parágrafos totais] / [2100 palavras estimada
 
 Ao final desta aula, você será capaz de:
 
-- Compreender por que a identidade é o ponto de partida para qualquer resultado profissional e por que ignorá-la compromete todo o restante
+- Reconhecer por que a identidade é o ponto de partida para qualquer resultado profissional e por que ignorá-la compromete todo o restante
 - Distinguir a diferença entre focar no resultado e focar na identidade e como essa distinção muda a maneira de construir hábitos
 - Reconhecer como crenças se formam, como elas limitam ou impulsionam a ação, e como é possível reescrevê-las por meio de provas acumuladas
 - Aplicar os dois primeiros passos do processo de autodesenvolvimento para construir uma identidade alinhada com o tipo de designer que você quer ser

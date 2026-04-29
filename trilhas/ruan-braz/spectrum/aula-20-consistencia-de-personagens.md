@@ -31,7 +31,4 @@ Uma referência de baixa qualidade, mal fotografada, com sombra ruim, resoluçã
 ## Coloque em prática
 
 Monte um mood board de ilustração com pelo menos dez referências que compartilhem uma atmosfera visual coerente. Posicione-as no Mid-Journey, gere a partir delas e anote o seed da geração que mais se aproximou do que você queria. Use esse seed em pelo menos duas gerações adicionais com variações de prompt e observe o quanto a consistência visual se mantém.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

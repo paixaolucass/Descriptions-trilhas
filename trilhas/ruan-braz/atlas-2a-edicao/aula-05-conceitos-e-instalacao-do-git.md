@@ -67,4 +67,4 @@ A recomendação feita na aula é direta: quem quer se tornar uma pessoa orquest
 
 - Acesse o site do Git pelo Google, baixe o instalador para o seu sistema operacional e instale com as configurações recomendadas nesta aula.
 - Durante a instalação, confirme que a branch padrão está configurada como "main".
-- Depois de instalar, abra o terminal e digite `git --version` para confirmar que a instalação foi concluída com sucesso.
+- Depois de instalar, abra o terminal e digite o comando de verificação da versão do Git para confirmar que a instalação foi concluída com sucesso.

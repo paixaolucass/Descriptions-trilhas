@@ -1,4 +1,4 @@
-﻿Cálculo interno: [9 blocos] / [48 parágrafos totais] / [3200 palavras estimadas] / [3200 ÷ 200 = 16 minutos]
+Cálculo interno: [9 blocos] / [48 parágrafos totais] / [3200 palavras estimadas] / [3200 ÷ 200 = 16 minutos]
 
 # Estruturas avançadas de prompt
 
@@ -144,7 +144,4 @@ O resultado gerado pelo Kling teve todos os elementos da cena, mas ficou com est
 ## Coloque em prática
 
 Construa o prompt completo da cena que você quer criar usando as 6 camadas em ordem, num documento externo. Depois jogue esse rascunho numa IA de texto (Gemini, Claude ou ChatGPT) e peça para ela formatar como prompt cinematográfico para geração de vídeo. Compare o prompt que você escreveu com o que a IA gerou. Use o prompt da IA como base, ajuste o que não representou a sua intenção, e gere o vídeo. Na próxima iteração, altere apenas uma camada por vez.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

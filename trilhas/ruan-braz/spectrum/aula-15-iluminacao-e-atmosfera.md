@@ -15,9 +15,6 @@ Ao final desta aula, você será capaz de:
 - Estruturar prompts de enquadramento com os termos corretos do Close-Up ao Extreme Wide Shot
 - Distinguir ângulos de câmera e reconhecer como cada um altera a leitura da cena
 - Aplicar nomenclatura de câmeras e lentes para controlar perspectiva e profundidade de campo
-
----
-
 ## Como a IA processa iluminação
 
 A IA não simula física de luz. Esse é o ponto de partida de toda a aula. Não existem raios de luz calculados, reflexos físicos precisos, sombras projetadas com geometria real, bounce de luz entre superfícies. O que existe é uma aproximação estatística que imita o resultado visual dessas propriedades a partir de bilhões de imagens de treinamento.
@@ -25,9 +22,6 @@ A IA não simula física de luz. Esse é o ponto de partida de toda a aula. Não
 Isso significa que quando você escreve "chiaroscuro" ou "Rembrandt lighting" no prompt, a IA acessa um padrão específico: ela reconhece o conjunto de características visuais que aparecem frequentemente associadas a esse termo nas imagens de treinamento e reproduz essas características estatisticamente. Não está calculando o ângulo da luz e a posição das sombras. Está reproduzindo o que fotografias e pinturas com essa iluminação costumam parecer.
 
 A consequência prática é dupla. Primeiro: vocabulário técnico de fotografia e pintura funciona muito bem porque esses termos têm padrões visuais consolidados no treinamento. Segundo: termos ambíguos ou metafóricos geram resultados inesperados porque a IA vai para a interpretação mais literal e estatisticamente comum.
-
----
-
 ## O laboratório de iluminação: metodologia de isolamento de variável
 
 Para mapear sistematicamente o impacto de cada termo de iluminação, a Overlens criou o que Ruan chama de "laboratório de iluminação". O princípio é simples e deriva da metodologia científica: isolar uma variável por vez.
@@ -37,9 +31,6 @@ O prompt base usado no laboratório é fixo: uma esfera metálica (ou em algumas
 A escolha da esfera cromada não é arbitrária. Uma superfície metálica reflexiva é o melhor detector de iluminação possível porque revela o ambiente de luz com clareza máxima: ela reflete o que está acima, o que está ao redor, e as fontes de luz. Com um objeto opaco em cor neutra, você não vê a iluminação com a mesma clareza. Com a esfera, você vê exatamente o que a IA processa e representa sobre o ambiente de luz gerado por cada termo.
 
 O laboratório gerou dezenas de variações, documentadas e comparadas. Abaixo estão os principais tipos de iluminação testados, com os resultados observados.
-
----
-
 ## Tipos de iluminação testados e resultados
 
 **Studio Light (luz de estúdio):** iluminação neutra, frontal ou levemente lateral, difusa, sem sombras duras. A esfera fica bem iluminada com gradação suave. É o resultado mais previsível e controlado. Útil quando você quer que o sujeito apareça sem interferência atmosférica, como em fotografia de produto.
@@ -77,9 +68,6 @@ O laboratório gerou dezenas de variações, documentadas e comparadas. Abaixo e
 **Backlight (contraluz):** a fonte de luz posicionada atrás do sujeito. Na esfera, aparece como halo de luz ao redor e o corpo da esfera em silhueta ou penumbra. Funciona para composições com silhueta, para separação do fundo, ou para mood de descoberta/revelação.
 
 **Three-point lighting:** iluminação de três pontos (key light, fill light, back light). É o padrão clássico de iluminação de estúdio de cinema e televisão. A IA reconhece bem e produz uma distribuição de luz equilibrada, profissional, com o sujeito bem separado do fundo.
-
----
-
 ## Erros frequentes de iluminação
 
 Quatro termos geram erros consistentes que valem documentação específica:
@@ -93,9 +81,6 @@ Quatro termos geram erros consistentes que valem documentação específica:
 **"Firelight"** adiciona fogo visível. Para iluminação por chama sem fogo aparente, descreva as características: quente, âmbar, oscilante, sombras dramáticas.
 
 O padrão é claro: termos que são o nome do objeto emissor de luz (moonlight = luz da lua = lua, ring light = anel, firelight = fogo) tendem a incluir o objeto na cena. Termos que descrevem a qualidade da luz (warm light, soft light, hard light, diffused light) controlam melhor o efeito sem introduzir elementos indesejados.
-
----
-
 ## Enquadramentos: do Full Shot ao Extreme Close-Up
 
 A linguagem de enquadramento fotográfico é um dos vocabulários mais eficientes para controlar a composição na IA porque é extremamente bem representada nos dados de treinamento. Cada termo tem um padrão visual específico e consistente.
@@ -117,9 +102,6 @@ Ruan demonstra os enquadramentos usando uma estátua (mencionada como Prometeu o
 **Close-Up (CU):** rosto inteiro, ou o elemento principal em detalhe. Na estátua, o rosto ocupa a maior parte do enquadramento.
 
 **Extreme Close-Up (ECU):** detalhe extremo de um elemento específico: olhos, boca, mão, detalhe de textura. Para a estátua, um olho, o nariz, um detalhe da base.
-
----
-
 ## O erro do Cowboy Shot
 
 "Cowboy shot" é um termo de enquadramento que significa corte na altura do coldre, aproximadamente no meio da coxa. O nome vem dos filmes de western, onde esse enquadramento mostrava o personagem e sua arma ao mesmo tempo.
@@ -127,9 +109,6 @@ Ruan demonstra os enquadramentos usando uma estátua (mencionada como Prometeu o
 O problema é que "cowboy" tem peso como substantivo. A IA interpreta "cowboy shot" como fotografia de cowboy. O enquadramento de corte na coxa fica em segundo plano e o cowboy vem à frente. Esse é um caso claro de conflito entre o peso do substantivo e a intenção do termo técnico.
 
 A solução é substituir "cowboy shot" por "medium thigh shot" ou "waist-to-thigh crop": descritores que não carregam substantivo conflitante mas descrevem o enquadramento com precisão.
-
----
-
 ## O paradoxo do close-up com tênis
 
 Outro erro demonstrado na aula é o paradoxo do "close-up" combinado com um elemento físicamente grande no plano. Se o prompt descreve um close-up de uma pessoa, mas também menciona tênis, a IA pode gerar um close-up dos tênis em vez do rosto, porque "tênis" é um substantivo com peso que conflita com a intenção de "close-up de rosto".
@@ -137,9 +116,6 @@ Outro erro demonstrado na aula é o paradoxo do "close-up" combinado com um elem
 A solução é especificar o sujeito do close-up explicitamente: "close-up of face" ou "extreme close-up of the subject's eyes". Sem especificar o que está sendo enquadrado, a IA pode escolher qualquer elemento da cena como foco do close-up.
 
 Regra geral: quando você usa um enquadramento específico, especifique também qual elemento está sendo enquadrado. Não assuma que a IA vai escolher o mesmo elemento que você tem em mente.
-
----
-
 ## Ângulos de câmera
 
 Os ângulos de câmera funcionam com alta consistência na IA porque são termos com padrões visuais muito definidos. A Overlens usa uma escala aproximada de ângulo em graus para illustrar o espectro:
@@ -155,9 +131,6 @@ Os ângulos de câmera funcionam com alta consistência na IA porque são termos
 **Bird's Eye View (visão de pássaro, +75° a +80°):** câmera muito acima do sujeito, olhando diretamente para baixo. O sujeito perde a tridimensionalidade percebida, o ambiente ao redor ganha protagonismo. Usado em fotografia aérea, flat lay, composições geométricas.
 
 **Top Down (topo para baixo, +90°):** câmera diretamente acima, enquadramento perfeitamente perpendicular ao sujeito. É o flat lay clássico. Elimina completamente a perspectiva vertical e cria uma composição bidimensional.
-
----
-
 ## Dica de posicionamento do ângulo no prompt
 
 Um aprendizado empírico documentado na aula: colocar o parâmetro de ângulo no início do prompt aumenta a probabilidade de ele ser respeitado na geração. Isso tem relação com a forma como a IA processa o texto sequencialmente: elementos no início tendem a ter mais peso contextual porque definem o espaço da cena antes de outros elementos serem processados.
@@ -165,9 +138,6 @@ Um aprendizado empírico documentado na aula: colocar o parâmetro de ângulo no
 Exemplo: "Low angle shot, woman walking in city, golden hour, 85mm lens" tende a produzir resultado mais consistente no ângulo do que "woman walking in city, golden hour, 85mm lens, low angle shot".
 
 Isso não é uma regra absoluta: varia por modelo e por versão. Mas é um heurístico útil para quando o ângulo não está sendo respeitado.
-
----
-
 ## Câmeras e lentes
 
 A nomenclatura de câmeras e lentes é uma das ferramentas mais poderosas e menos usadas em prompts de imagem. Quando você especifica uma câmera e uma lente, está definindo um conjunto inteiro de características visuais que a IA reproduz com consistência porque esses padrões estão bem documentados no treinamento.
@@ -194,9 +164,6 @@ A nomenclatura de câmeras e lentes é uma das ferramentas mais poderosas e meno
 - **f/8 ou f/11:** abertura pequena, tudo em foco, sem bokeh significativo, preferido em fotografia de paisagem e produto
 - **Bokeh:** o desfoque do fundo em imagens com abertura larga, com formato das bolinhas determinado pelo número de lâminas do diafragma
 - **Lens flare:** vazamento de luz na lente, cria raios e círculos de luz, associado a imagens com fonte de luz direta
-
----
-
 ## Coloque em prática
 
 Execute o laboratório de iluminação na sua ferramenta de geração preferida. Escolha um sujeito simples (objeto geométrico, esfera, busto, cubo) e escreva um prompt base fixo. Mantenha tudo idêntico e altere apenas o termo de iluminação a cada geração. Documente ao menos oito variações: studio light, golden hour, rembrandt, split, chiaroscuro, overcast, backlight e blue hour.
@@ -204,7 +171,4 @@ Execute o laboratório de iluminação na sua ferramenta de geração preferida.
 Depois, repita o processo com enquadramentos: use o mesmo sujeito e troque apenas o enquadramento (full shot, medium shot, close-up, extreme close-up, wide shot, bird's eye view). Compare os resultados e registre qual termo produziu o enquadramento mais próximo do esperado.
 
 Essas duas séries de testes constroem um mapa prático do comportamento da ferramenta que você usa, que é mais útil do que qualquer lista teórica.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns exemplos visuais e demonstrações ao vivo, incluindo resultados gerados com cada termo de iluminação e enquadramento, estão disponíveis apenas no vídeo.*

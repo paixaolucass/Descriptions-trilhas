@@ -102,7 +102,4 @@ A proposta do Atlas é a inversa: ensinar os fundamentos que protegem para o fut
 ## Coloque em prática
 
 Escolha um dos quatro livros citados nesta aula e pesquise o resumo completo: Lean Startup, De Zero a Um, Blitzscaling ou Antifrágil. Leia pelo menos o primeiro capítulo. Depois, aplique o conceito central desse livro ao seu negócio ou projeto atual: qual é a sua hipótese de negócio que ainda não foi validada? Qual seria o experimento mais rápido possível para testar essa hipótese com dados reais do mercado? Escreva sua resposta em um parágrafo. Esse exercício conecta a teoria apresentada na aula com a realidade específica do que você está construindo agora.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

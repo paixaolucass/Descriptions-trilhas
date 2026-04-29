@@ -40,7 +40,4 @@ Essa possibilidade é relevante em dois cenários: quando você não está obten
 ## Coloque em prática
 
 Acesse o DeepSeek com uma conta gratuita e envie o mesmo prompt que você já testou em outra LLM desta trilha. Compare a estrutura da resposta, o nível de detalhe e a experiência da interface. Em seguida, pesquise como obter a API gratuita do DeepSeek em um serviço de terceiros e simule como você conectaria esse modelo a uma ferramenta ou fluxo de trabalho do seu dia a dia.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

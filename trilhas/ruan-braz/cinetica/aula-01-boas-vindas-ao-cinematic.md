@@ -1,4 +1,4 @@
-﻿Cálculo interno: [7 blocos] / [28 parágrafos totais] / [1200 palavras estimadas] / [1200 ÷ 200 = 6 minutos]
+Cálculo interno: [7 blocos] / [28 parágrafos totais] / [1200 palavras estimadas] / [1200 ÷ 200 = 6 minutos]
 
 # Boas-vindas ao Cinematic
 
@@ -59,7 +59,4 @@ Ruan apresenta os recursos disponíveis para o aluno durante a trilha. A navega�
 ## Coloque em prática
 
 Antes de avançar para a próxima aula, acesse a Biblioteca de Prompts e o Glossário da plataforma e familiarize-se com a estrutura dos dois recursos. Depois, reflita e escreva em poucas linhas: qual é a diferença entre usar IA para gerar um vídeo artesanalmente e usar agentes para gerar vídeos em escala? Essa distinção vai aparecer em vários momentos da trilha.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

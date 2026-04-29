@@ -147,7 +147,4 @@ A trilha de imagem também inclui aulas que detalham enquadramento, óptica e il
 Escolha um único clipe que você quer gerar. Antes de abrir qualquer ferramenta, preencha os seis eixos para esse clipe: qual lente (óptica), qual frame rate (tempo), qual enquadramento de entrada e saída (geometria), como o espaço está organizado entre sujeito e fundo (espaço), qual a temperatura de cor e contraste (iluminação), qual o tipo de movimento de câmera (movimento).
 
 Com esses seis eixos preenchidos no papel ou em texto, abra a ferramenta de geração de vídeo e construa o prompt diretamente a partir dessas decisões. Compare o resultado com as decisões que você tomou. Identifique qual eixo o modelo interpretou corretamente e qual ele ignorou ou interpretou de forma diferente da sua intenção. Ajuste o prompt iterando sobre o eixo que divergiu. Esse processo de diagnóstico por eixo é mais eficiente do que reescrever o prompt inteiro a cada iteração.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 22 minutos; alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

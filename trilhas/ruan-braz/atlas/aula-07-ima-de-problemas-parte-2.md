@@ -80,7 +80,4 @@ O erro mais comum é pular direto para o cenário agressivo na projeção, o que
 ## Coloque em prática
 
 Com o documento estratégico aberto, crie uma subseção chamada "Dimensionamento de Mercado" dentro da aba de Contexto e Mercado. Registre os três níveis: TAM (mercado total), SAM (mercado endereçável pelo tipo de oferta que você propõe) e SOM (mercado obtível nos próximos doze meses com sua capacidade atual). Em seguida, crie uma subseção chamada "Cenários de Receita" e registre os três modelos: conservador, base e agressivo, com as faixas de clientes recorrentes, ticket médio e receita anual estimada para o seu contexto. Escolha conscientemente qual cenário orienta o seu primeiro ano de operação e justifique essa escolha com base na sua capacidade de entrega atual, não no que você gostaria de alcançar. Esse exercício vai criar um mapa de crescimento realista para o seu negócio.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -37,7 +37,4 @@ A aula termina com uma observação sobre prática na Overlens: a equipe ainda g
 ## Coloque em prática
 
 Faça um esboço simples de um produto, ambiente ou personagem, mesmo que seja um desenho básico. Use esse esboço como referência de entrada no NanoBanana ou no Viscom junto com um prompt descritivo. Observe como a IA preserva a estrutura do desenho e avalie onde o resultado ficou próximo do que você imaginava e onde ele se afastou.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -15,7 +15,7 @@ Ao final desta aula, você será capaz de:
 
 ## Iniciando o projeto com uma nova pasta
 
-O projeto da aula é a construção do modelo de negócio da Overlens do zero usando agentes de IA. O processo começa criando uma pasta chamada "BM Overlens" na área de trabalho. O Antigravity é aberto a partir dessa pasta, e o Claude Code é iniciado dentro dela com o modo `--dangerously-skip-permissions`, o que permite que ele trabalhe sem pedir confirmação a cada ação.
+O projeto da aula é a construção do modelo de negócio da Overlens do zero usando agentes de IA. O processo começa criando uma pasta chamada "BM Overlens" na área de trabalho. O Antigravity é aberto a partir dessa pasta, e o Claude Code é iniciado dentro dela com o modo modo dangerously skip permissions, o que permite que ele trabalhe sem pedir confirmação a cada ação.
 
 Esse modo é mais rápido, mas também mais arriscado. Para iniciantes, a recomendação é usar o modo "Enable Auto Mode", que mantém mais controle sobre o que o Claude pode fazer sem aprovação manual.
 

@@ -43,7 +43,4 @@ Por exemplo: você começa com "me explique as melhores abordagens de design thi
 ## Coloque em prática
 
 Faça um zero-shot sobre um tema que você domina pouco. Use o pedido como ponto de partida e, a partir da primeira resposta, construa pelo menos três perguntas progressivamente mais específicas. Observe como a conversa ganha profundidade à medida que o contexto se acumula. Anote o momento em que você sente que saiu da superfície e chegou a um nível de informação que não esperava encontrar.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

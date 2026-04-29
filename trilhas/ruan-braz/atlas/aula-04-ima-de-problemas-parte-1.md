@@ -114,7 +114,4 @@ O que ele faz é entregar clareza sobre onde a dor real do mercado está, com qu
 ## Coloque em prática
 
 Escolha o segmento de mercado que você está considerando para o seu negócio. Descreva em poucas frases quem são esses profissionais, como ganham dinheiro e qual é a sua principal suspeita de dor. Depois, rode o prompt do Imã de Problemas com essas informações. Quando receber o mapa de dores, revise a lista no primeiro checkpoint e remova ou adicione dores que você sabe por experiência que existem. Continue até o ranking. Identifique as três dores com maior pontuação e escreva em linguagem do cliente como você descreveria cada uma delas em uma frase curta. Essas três frases vão aparecer com frequência nas próximas etapas do processo de construção do negócio.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 33 minutos, o conteúdo completo excede o limite de palavras desta descrição; os conceitos e frameworks centrais foram priorizados.*

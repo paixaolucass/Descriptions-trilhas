@@ -1,4 +1,4 @@
-﻿Cálculo interno: 651 timestamps / ~48 parágrafos / ~4000 palavras / 4000 ÷ 200 = 20 minutos
+Cálculo interno: 651 timestamps / ~48 parágrafos / ~4000 palavras / 4000 ÷ 200 = 20 minutos
 
 # Do Briefing à Entrega Final
 
@@ -133,7 +133,4 @@ Escolha um projeto atual ou crie um projeto fictício simples. Antes de abrir qu
 4. Gere muitas imagens, selecione as melhores, aplique ajustes de color grading e contraste nas selecionadas, valide tudo contra o briefing e entregue com os formatos corretos para cada canal.
 
 Compare os resultados desse processo com imagens geradas sem briefing e sem moodboard. A diferença de coerência e intenção vai ser visível.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 26 minutos, alguns detalhes de demonstração prática, como a navegação entre telas da plataforma Overlens e a exibição de moodboards reais da equipe, estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

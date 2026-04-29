@@ -1,4 +1,4 @@
-﻿Cálculo interno: [8 blocos] / [34 parágrafos totais] / [1800 palavras estimadas] / [1800 ÷ 200 = 9 minutos]
+Cálculo interno: [8 blocos] / [34 parágrafos totais] / [1800 palavras estimadas] / [1800 ÷ 200 = 9 minutos]
 
 # Por que aprender geração de vídeos com IA
 
@@ -76,7 +76,4 @@ A partir dos dados e do contexto, Ruan apresenta o conjunto de oportunidades con
 ## Coloque em prática
 
 Acesse a pesquisa sobre o uso de IA globalmente e analise os dados por você mesmo. Compare o gráfico de 84% que nunca usaram IA com o número de 93% de adoção reportada no Brasil e escreva sua própria interpretação da diferença entre os dois. Em seguida, identifique uma das oportunidades listadas nesta aula que é mais diretamente aplicável ao seu contexto profissional e escreva como ela poderia mudar o que você faz hoje.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

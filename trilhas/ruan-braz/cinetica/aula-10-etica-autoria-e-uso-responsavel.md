@@ -95,7 +95,4 @@ A proteção de credenciais de API também tem uma dimensão ambiental e finance
 Revise o último conteúdo com IA que você criou ou que você planeja criar. Aplique o checklist ético ponto por ponto: consentimento de imagem, indicação de conteúdo sintético, termos de uso da ferramenta, direitos das referências usadas, proteção de credenciais.
 
 Se identificar algum ponto que não foi considerado, corrija antes de publicar. Se estiver planejando usar a imagem de alguém real, entre em contato com essa pessoa e documente o consentimento por escrito ou por mensagem antes de prosseguir.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

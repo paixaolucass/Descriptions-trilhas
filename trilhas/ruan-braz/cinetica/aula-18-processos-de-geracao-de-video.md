@@ -31,7 +31,4 @@ No modo avançado, você usa o poder do verbo: simplesmente fala ou digita um co
 ## Coloque em prática
 
 Para o próximo vídeo que você for criar, siga o processo nas etapas apresentadas: briefing, roteiro, shot breakdown, storyboard, geração e edição. Não abra a ferramenta de geração antes de ter o storyboard pronto. Observe a diferença na clareza do resultado comparado às suas gerações anteriores sem esse processo estruturado.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

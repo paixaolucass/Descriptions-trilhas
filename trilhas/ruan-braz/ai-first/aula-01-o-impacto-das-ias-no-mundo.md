@@ -79,7 +79,4 @@ A presença da IA no seu dia a dia não vai diminuir. Ela vai se aprofundar. Os 
 ## Coloque em prática
 
 Liste pelo menos cinco ferramentas ou serviços que você usa regularmente e que provavelmente utilizam alguma forma de inteligência artificial. Para cada um deles, tente identificar qual tipo de tarefa a IA executa: recomendação de conteúdo, precificação dinâmica, reconhecimento de padrões, tradução, detecção de anomalias ou outro. Use o ChatGPT ou o Gemini para pesquisar cada caso e expandir seu mapeamento. Esse exercício vai tornar visível o quanto a IA já está presente na sua vida e vai criar a base mental para acompanhar as próximas aulas com mais engajamento.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

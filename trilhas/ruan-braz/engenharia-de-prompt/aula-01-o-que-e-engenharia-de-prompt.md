@@ -1,4 +1,4 @@
-﻿Cálculo interno: 8 blocos / 28 parágrafos totais / 1620 palavras estimadas / 1620 ÷ 200 = 8,1 minutos
+Cálculo interno: 8 blocos / 28 parágrafos totais / 1620 palavras estimadas / 1620 ÷ 200 = 8,1 minutos
 
 # O que é Engenharia de Prompt
 
@@ -66,7 +66,4 @@ O que está em jogo não é apenas eficiência. É acesso a uma dimensão do con
 ## Coloque em prática
 
 Escolha um tema que você está estudando agora. Faça dois pedidos ao ChatGPT ou à LLM de sua preferência: o primeiro com uma pergunta genérica de uma linha. O segundo com um pedido mais estruturado, indicando seu nível de conhecimento, o que você já sabe, o que quer descobrir e qual formato de resposta prefere. Compare as duas respostas e identifique a diferença de profundidade. Reflita: o que você precisaria saber ou pedir para ir ainda mais fundo?
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

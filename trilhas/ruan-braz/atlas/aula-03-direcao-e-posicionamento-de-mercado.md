@@ -86,7 +86,4 @@ A recomendação para iniciantes é focar no mercado brasileiro. Quem já tem ex
 - Liste pelo menos cinco mercados onde você poderia atuar com um estúdio de criação. Para cada um, escreva dois critérios que o tornam atraente e dois critérios que representam barreiras de entrada para você agora. Depois aplique o processo de eliminação: usando os critérios de barreira de entrada, urgência da dor e facilidade de validação, elimine mercados da sua lista até restar um ou dois candidatos com melhor encaixe para o seu perfil atual.
 - Acesse o ChatGPT ou outra IA de sua preferência, crie o prompt do IMA de Problemas com os quatro inputs preenchidos para o mercado e o tipo de cliente que você escolheu. Execute o prompt, leia o mapa de dores gerado na Etapa 1 e identifique as três dores com maior pontuação no ranking. Para cada dor, escreva uma frase do jeito que o próprio cliente falaria sobre esse problema no dia a dia, sem jargão técnico.
 - Pesquise o TAM-SAM-SOM do mercado que você escolheu usando o framework apresentado na aula. Instrua a IA a buscar dados do mercado brasileiro e a estimar o SOM para um estúdio de criação entrando nesse segmento agora.
-
----
-
 *Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 36 minutos, o conteúdo completo excede o limite de palavras desta descrição; os conceitos e frameworks centrais foram priorizados.*
