@@ -1,56 +1,74 @@
-Cálculo interno: [7 blocos] / [21 parágrafos totais] / [900 palavras estimadas] / [900 ÷ 200 = 5 minutos]
+Cálculo interno: [10 blocos] / [31 parágrafos totais] / [1700 palavras estimadas] / [1700 ÷ 200 = 9 minutos]
 
 # O processo de criação do símbolo Overlens
 
-**Tempo estimado de leitura:** 5 minutos
+**Tempo estimado de leitura:** 9 minutos
 
 ## Objetivos de aprendizado
 
 Ao final desta aula, você será capaz de:
 
-- identificar os insumos necessários para iniciar a criação de um símbolo
-- aplicar o processo Over Diamond na geração de alternativas
-- estruturar ciclos de seleção, exploração e refinamento
-- reconhecer a importância de volume, teste e curadoria na criação de logotipos
+- identificar os insumos estratégicos necessários antes de desenhar um símbolo
+- aplicar a lógica do Double Diamond na geração e validação de alternativas
+- estruturar um processo de ideação, seleção, lapidação e verificação
+- reconhecer quando um símbolo precisa dialogar com crença, nome e uso de marca
 
-## Over Diamond como processo
+## Mais do que um logo
 
-O professor apresenta o nome Over Diamond para falar do processo criativo aplicado à criação de logotipos. A ideia vem de abrir e fechar o diamante quantas vezes forem necessárias, gerando possibilidades e depois selecionando as melhores.
+O professor deixa claro que não queria mostrar apenas a construção do logotipo, mas o processo completo que levou às decisões do projeto Overlens. Por isso, a aula inclui documentos estratégicos, metodologia e repertório, e não só a parte visual final.
 
-O nome também faz referência à Overlens e à ideia de excesso de diamantes. O ponto principal é que criação de símbolo não depende de iluminação repentina. Depende de trabalho, volume, tentativa, escolha e refinamento.
+A lógica é simples: briefing raso gera projeto raso. Se a informação é a matéria-prima do trabalho, o designer precisa coletar muito mais do que um resumo apressado antes de sair desenhando.
 
-## O que ter em mãos antes de criar
+## Do briefing à estratégia
 
-Antes de começar, o designer deve reunir núcleo da marca, roteiro, virtudes, arquétipo e persona. Esses elementos já foram construídos em etapas anteriores e ajudam a traduzir conceitos estratégicos em linguagem visual.
+O processo começa com briefing, investigação e estratégia. O professor critica a tendência de muitos designers pularem investigação e estratégia para ir direto ao desenho.
 
-Também é necessário ter o nome da marca, porque não há logotipo sem nome. O moodboard aparece como outro insumo importante, já que mostra clima, sensação, direção e referências visuais que vão orientar a criação.
+A investigação é dividida em quatro frentes: negócio, mercado, público e comunicação. Ele recomenda que, se o prazo for curto, parte significativa dele seja dedicada a investigar, porque isso alimenta a etapa criativa com informação real.
 
-## Definir conceito e gerar alternativas
+## Criatividade como conexão
 
-O processo começa pela definição de conceito. Depois, o designer gera alternativas, seleciona ideias, explora possibilidades nas ideias selecionadas, seleciona novamente e refina.
+Antes de falar de símbolo, o professor explica como a criatividade funciona no cérebro. A ideia central é que criatividade é conectar coisas que antes pareciam desconectadas.
 
-Se o resultado ainda não for bom, o processo é reciclado. O professor reforça que bloqueio criativo muitas vezes é falta de método e falta de volume. A pergunta deixa de ser se existe inspiração e passa a ser quantas possibilidades foram realmente geradas.
+Ele usa o Homem Leão como exemplo de imaginação humana, fala de input e output, de redes neurais e até de aprender a andar de bicicleta. O ponto é mostrar que ter ideia não é um raio místico: é um processo de conexão, repetição e aprendizado.
 
-## Abrir possibilidades sem censura inicial
+## Geração e validação
 
-Na etapa de geração, o designer pode testar caminhos aparentemente ruins, óbvios ou estranhos. Pode perguntar se a marca funcionaria como logo abstrato, pictórico, mascote, emblema, monograma, símbolo com texto ou apenas tipografia.
+A aula insiste que o processo de ideação vale mais do que a lapidação final. O refinamento fica fácil quando a ideia já está clara, mas isso só acontece depois de gerar muitas alternativas e testar direções diferentes.
 
-Cada categoria abre novas alternativas. Ao combinar isso com mapas mentais e conceitos já definidos, o projeto passa a ter muito mais matéria-prima para escolha. O trabalho do designer é criar variedade antes de julgar.
+O professor chama esse processo de rinha de ideias e bullying das ideias. A metáfora serve para dizer que alternativas precisam competir entre si até que algumas sobrevivam, porque gerar opção também é validar a ideia.
 
-## Ideias como seres vivos
+## Double Diamond
 
-O professor retoma uma metáfora apresentada em outras aulas: ideias são como seres vivos e designers funcionam como a natureza. Muitas ideias precisam nascer para que algumas sobrevivam.
+O nome correto que aparece na transcrição é Double Diamond. Ele é apresentado como a metodologia que ajuda a abrir e fechar o processo quantas vezes forem necessárias para chegar a uma solução melhor.
 
-Isso explica por que o processo exige descarte. A melhor solução raramente aparece como primeira tentativa. Ela surge quando o designer permite que muitas opções existam, compara, seleciona e deixa as mais fortes continuarem.
+Se for preciso, o processo pode virar triple diamond ou quadra diamond. O mais importante é entender que o trabalho criativo alterna entre abrir possibilidades e fechar escolhas, e não entre pressa e improviso.
 
-## A lupa da Overlens
+## O conceito da Overlens
 
-No caso da Overlens, uma das direções possíveis era aceitar uma solução tipográfica. Outra era explorar a lupa como objeto central. A lupa se conectava ao nome, à ideia de lentes e à curiosidade de cada pessoa para enxergar o mundo.
+Depois de explicar o método, o professor mostra como o conceito da Overlens nasceu. Ele diz que a palavra não existe no inglês, mas foi construída para significar algo como superlente, uma lente capaz de enxergar várias lentes diferentes.
 
-Depois de escolher essa ideia, o professor explorou dezenas de variações. Só em uma etapa havia cerca de 70 lupas diferentes, e ele afirma que poderia fazer o dobro. Essa multiplicação mostra como uma única ideia pode ser esgotada antes de virar símbolo final.
+A ideia da marca está ligada a olhar o mundo por várias perspectivas, a ter empatia e a perceber a capacidade dos designers de lapidar boas ideias. O símbolo precisava representar essa crença e não apenas decorar a marca.
+
+## Da lupa ao símbolo
+
+Inicialmente, o professor pensou em óculos, depois em lupa. A lupa aparece como ícone forte porque conversa com o nome, com a noção de lente e com o desejo de curiosidade que a marca quer comunicar.
+
+Depois de escolher essa direção, ele explorou muitas variações. Em um momento, o processo chegou a cerca de 70 lupas diferentes, variando mais no cabo do que na lente em si, justamente para esgotar a ideia antes de refiná-la.
+
+## Símbolo, texto e escolha final
+
+No caminho de criação, ele conta que primeiro surgiu a ideia de Lens Degrin, depois o nome mudou para Overlens e isso virou a cereja do bolo. O símbolo final não queria uma carga mística, apesar de algumas formas lembrarem esse universo.
+
+Ao final, a decisão foi separar símbolo e texto. O símbolo ficou como marca principal e o texto ganhou uma versão tipográfica própria, usada em momentos específicos. Juntar tudo num único lockup não parecia a melhor escolha para esse caso.
+
+## Verificação e registro
+
+A aula termina com a verificação do nome e do símbolo. O professor mostra o uso do INPI para pesquisa de marca e do TMView para buscar símbolos parecidos em vários países.
+
+Mesmo que exista algo parecido, isso não encerra automaticamente o projeto. O que importa é analisar classe, contexto, ajuste de forma e viabilidade de manter o conceito sem copiar. Ele também reforça que o processo de naming e de registro faz parte da responsabilidade do designer.
 
 ## Coloque em prática
 
-Escolha uma marca e reúna nome, núcleo, virtudes, arquétipo, persona e moodboard. Depois, defina um conceito visual principal.
+Antes de desenhar um símbolo, junte briefing, investigação, estratégia, núcleo, persona, arquétipo e moodboard. Se faltar matéria-prima, o desenho vai sair raso.
 
-Gere pelo menos 30 alternativas sem refinar demais. Selecione poucas, explore variações dentro delas e só então avance para o refinamento.
+Depois, aplique o Double Diamond: abra possibilidades, gere dezenas de opções, selecione poucas, lapide e só então faça a verificação de nome e similaridade. Sem esse ciclo, o resultado tende a virar só um rascunho bonito.
