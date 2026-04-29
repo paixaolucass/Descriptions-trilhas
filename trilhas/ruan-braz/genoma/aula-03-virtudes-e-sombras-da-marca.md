@@ -6,6 +6,8 @@ Cálculo interno: 8 blocos / 52 parágrafos totais / 2050 palavras estimadas / 2
 
 ## Objetivos de aprendizado
 
+Ao final desta aula, você será capaz de:
+
 - Distinguir identidade de resultado visual e reconhecer por que ela é o núcleo da marca, não a consequência
 - Identificar os três tipos de qualidade (estado, propriedade e percepção) e aplicar essa distinção na hora de mapear atributos da marca
 - Estruturar os atributos da marca em virtudes usando o continuum aristotélico de meio-termo entre dois extremos
@@ -41,8 +43,6 @@ Teseu chegou, se lembrou do que havia esquecido e entrou em luto. Tornou-se rei 
 
 Aí entra o paradoxo: depois de todas as peças serem substituídas, o navio continuava idêntico ao Navio de Teseu original. Mas ainda era o Navio de Teseu? E se um carpinteiro fosse até a caverna, pegasse todas as peças antigas e montasse um novo navio com elas, qual dos dois seria o verdadeiro Navio de Teseu? Nenhum? Os dois? Esse paradoxo quebra o princípio lógico da identidade, que diz que A sempre será igual a A, e o princípio da não contradição, que diz que algo não pode ser verdadeiro e falso ao mesmo tempo.
 
-### A aplicação filosófica ao conceito de identidade
-
 Ruan estende o paradoxo para a vida humana. As células do nosso corpo serão trocadas, as memórias, os pensamentos e a visão de mundo mudarão. Então o Ruan de daqui a cinquenta anos continuará sendo o Ruan? Sim e não, ao mesmo tempo: paradoxalmente, ele continuará sendo ele mesmo, mas não será mais quem era.
 
 A conclusão que interessa para o branding é esta: identidade é aquilo que é repetidamente. O que muda em nós muda na nossa identidade. O que não muda é a essência. E aplicado às marcas: uma paleta de cores pode ser trocada, uma tipografia pode mudar, são qualidades de percepção. Mas o que faz uma marca continuar sendo quem ela é repetidamente são suas qualidades de estado e, principalmente, suas qualidades proprietárias, que têm mais a ver com comportamento e essência.
@@ -72,8 +72,6 @@ John Locke sistematizou isso: qualidades primárias são intrínsecas a um objet
 Chegando à prática, Ruan explica que qualidades são adjetivos na língua portuguesa. Adjetivos qualificam o substantivo, e é através deles que distinguimos coisas: uma fruta azeda de uma doce, uma marca frenética de uma calma. Ruan apresenta uma tabela com 100 atributos possíveis para marcas como ponto de partida.
 
 O processo começa de forma aberta: escolher no mínimo dez atributos que descrevam a marca. A recomendação é focar nas qualidades proprietárias, evitando adjetivos muito subjetivos como "bonita", e tomar cuidado com atributos de estado, que descrevem a marca apenas em certos momentos. Os atributos devem ser palavras que aplicam a marcas como entidades, que falam, agem, tomam atitudes e despertam sentimentos.
-
-### Como definir cada atributo com precisão
 
 Após listar os atributos, o próximo passo é escrever uma definição própria para cada um. Ruan exemplifica com dois atributos: "perspicaz" e "cativante".
 

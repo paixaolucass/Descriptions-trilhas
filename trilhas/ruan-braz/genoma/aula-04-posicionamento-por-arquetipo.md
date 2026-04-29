@@ -6,10 +6,12 @@ Cálculo interno: 11 blocos / 68 parágrafos totais / 3.060 palavras estimadas /
 
 ## Objetivos de aprendizado
 
-- Identificar os quatro quadrantes de motivação do consumidor e os 12 arquétipos associados a cada um deles.
-- Distinguir a definição de arquétipo por ofício da empresa da definição por personalidade, anseios do público e análise de mercado.
-- Aplicar os quatro passos metodológicos para posicionar arquetipicamente uma marca: alma, substância, concorrência e público.
-- Reconhecer os erros mais comuns na escolha de arquétipos e as diretrizes para construir um posicionamento coerente e sustentável.
+Ao final desta aula, você será capaz de:
+
+- Identificar os quatro quadrantes de motivação do consumidor e os 12 arquétipos associados a cada um deles
+- Distinguir a definição de arquétipo por ofício da empresa da definição por personalidade, anseios do público e análise de mercado
+- Aplicar os quatro passos metodológicos para posicionar arquetipicamente uma marca: alma, substância, concorrência e público
+- Reconhecer os erros mais comuns na escolha de arquétipos e as diretrizes para construir um posicionamento coerente e sustentável
 
 ## O propósito desta aula e a referência bibliográfica
 
