@@ -1,5 +1,3 @@
-Cálculo interno: 7 blocos / 24 parágrafos totais / 1575 palavras estimadas / 1575 ÷ 200 = 8 minutos
-
 # Entropia e Regulação
 
 **Tempo estimado de leitura:** 8 minutos

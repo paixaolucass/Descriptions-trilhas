@@ -1,5 +1,3 @@
-Cálculo interno: [13 blocos] / [62 parágrafos totais] / [3620 palavras estimadas] / [3620 ÷ 200 = 19 minutos]
-
 # Considerações finais sobre investigação
 
 **Tempo estimado de leitura:** 19 minutos

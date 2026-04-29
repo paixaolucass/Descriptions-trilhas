@@ -1,5 +1,3 @@
-Cálculo interno: 6 blocos / 20 parágrafos totais / 1080 palavras estimadas / 1080 ÷ 200 = 5,4 minutos
-
 # A Biblioteca de Alexandria
 
 **Tempo estimado de leitura:** 5 minutos
@@ -50,4 +48,3 @@ Uma biblioteca externa é aquela que a LLM acessa em tempo real, navegando pela 
 ## Coloque em prática
 
 Escolha duas LLMs diferentes - por exemplo, o ChatGPT e o Grok, ou o Claude e o Gemini. Faça o mesmo pedido para as duas, com o mesmo nível de contexto. Observe como cada guardião interpreta e responde à mesma solicitação. Note as diferenças de profundidade, formato e estilo de resposta. Isso vai te ajudar a mapear as características de cada modelo e a calibrar seus pedidos de acordo com o guardião que você está usando.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

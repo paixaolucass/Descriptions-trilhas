@@ -1,5 +1,3 @@
-Cálculo interno: 22 blocos / 90 parágrafos totais / 3980 palavras estimadas / 3980 ÷ 200 = 19,9 minutos
-
 # Apresentando o ChatGPT
 
 **Tempo estimado de leitura:** 20 minutos
@@ -165,4 +163,3 @@ Para projetos de código simples e pontuais, o ChatGPT é suficiente. Para aplic
 ## Coloque em prática
 
 Configure o ChatGPT a partir do zero seguindo as três camadas desta aula. Primeiro, acesse "Personalizar ChatGPT" e escreva as instruções de comportamento incluindo pelo menos uma diretiva de questionamento ativo (o assistente deve identificar pontos cegos, fazer perguntas difíceis, não apenas concordar). Segundo, adicione no campo de contexto sobre você: profissão, objetivo dos próximos 12 meses, dois ou três recursos que você já tem disponíveis. Terceiro, inicie uma nova conversa pedindo ao modelo que conduza uma entrevista para mapear seu perfil e objetivos, responda usando o ditado, e ao final verifique e corrija cada memória salva. Por fim, crie um GPT simples para uma tarefa específica do seu trabalho, teste com cinco perguntas diferentes e refine a instrução com base no que o comportamento do assistente revelou.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 58 minutos, alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

@@ -1,5 +1,3 @@
-Cálculo interno: 8 blocos / 28 parágrafos totais / 1860 palavras estimadas / 1860 ÷ 200 = 10 minutos
-
 # Exercício de Tempo Sintrópico
 
 **Tempo estimado de leitura:** 10 minutos

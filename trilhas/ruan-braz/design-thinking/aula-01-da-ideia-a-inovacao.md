@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [9 parágrafos totais] / [510 palavras estimadas] / [510 ÷ 200 = 3 minutos]
-
 # Da Ideia à Inovação
 
 **Tempo estimado de leitura:** 3 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [38 parágrafos totais] / [1.380 palavras estimadas] / [1.380 ÷ 200 = 7 minutos]
-
 # Três Exemplos de Perfil Ideal de Cliente (ICP)
 
 **Tempo estimado de leitura:** 7 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: 11 blocos / 42 parágrafos totais / 3500 palavras estimadas / 3500 ÷ 200 = 17,5 minutos
-
 # Tree of Thought: Fazendo a IA Explorar Vários Caminhos ao Mesmo Tempo
 
 **Tempo estimado de leitura:** 17,5 minutos
@@ -142,4 +140,3 @@ Para o contexto desta trilha, voltada para criativos que usam IA no dia a dia de
 ## Coloque em prática
 
 Escolha um problema criativo que tenha pelo menos três dimensões distintas de avaliação. Pode ser escolher um nome para um projeto, selecionar uma paleta de cores para uma marca, definir a voz de comunicação de um cliente ou avaliar opções de formato para um portfólio. Monte uma equipe de especialistas no prompt: defina de dois a quatro papéis com funções diferentes e critérios específicos para cada um. Acrescente contexto de público e objetivo. Depois, execute o prompt e observe quais perspectivas trouxeram as informações mais valiosas. Por fim, compare o resultado com uma tentativa de zero shot no mesmo problema e documente a diferença de profundidade e utilidade.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

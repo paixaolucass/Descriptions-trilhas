@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [52 parágrafos totais] / [2050 palavras estimadas] / [2050 ÷ 200 = 11 minutos]
-
 # Virtudes e sombras da marca
 
 **Tempo estimado de leitura:** 11 minutos
@@ -61,7 +59,7 @@ Ruan organiza as qualidades em três categorias:
 
 **Qualidade de estado:** é aquilo que muda. Um objeto pode estar quente ou frio. É um estado temporário, não é repetido.
 
-**Qualidade de propriedade:** é inerente. A girafa tem pescoço grande, isso é uma propriedade. O leão tem rugido, é uma qualidade proprietária sonora. O limão é azedo, isso faz parte da identidade do limão. Exemplificando a distinção com o leão de juba rosa: se a tinta sai com chuva, era um estado. Se for tinta permanente, torna-se propriedade, porque aquilo passará a se repetir.
+**Qualidade de propriedade:** é inerente. A girafa tem pescoço grande, isso é uma propriedade. O leão tem rugido, é uma qualidade proprietária sonora. O límão é azedo, isso faz parte da identidade do límão. Exemplificando a distinção com o leão de juba rosa: se a tinta sai com chuva, era um estado. Se for tinta permanente, torna-se propriedade, porque aquilo passará a se repetir.
 
 **Qualidade de percepção:** depende da lente do observador. O exemplo dado é o famoso vestido viral que algumas pessoas viam branco e outras viam dourado ou roxo. Bonito, feio, elegante, moderno, são qualidades de percepção, subjetivas por natureza.
 

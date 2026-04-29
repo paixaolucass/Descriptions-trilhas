@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [20 parágrafos totais] / [860 palavras estimadas] / [860 ÷ 200 = 5 minutos]
-
 # Texto, imagem, vídeo, música e código: criando projetos inteiros com as IAs
 
 **Tempo estimado de leitura:** 5 minutos
@@ -56,5 +54,3 @@ Antes de começar, peça a uma IA que organize os principais fatos, conceitos e 
 Reúna referências de projetos similares que você admira.
 
 Só então defina a direção e comece a gerar alternativas com IA, curadoriando o resultado.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

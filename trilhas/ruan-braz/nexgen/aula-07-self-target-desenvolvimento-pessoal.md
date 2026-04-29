@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [42 parágrafos totais] / [2100 palavras estimadas] / [2100 ÷ 200 = 11 minutos]
-
 # Self-target: desenvolvimento pessoal
 
 **Tempo estimado de leitura:** 11 minutos
@@ -95,5 +93,3 @@ Em seguida, escreva quem você quer ser. Não o que você quer ter ou conseguir,
 Identifique uma crença que pode estar jogando contra esse objetivo. De onde ela veio? Que prova na sua história a sustenta?
 
 Escolha uma pequena ação que esteja alinhada com quem você quer ser e faça ela hoje. Não amanhã.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

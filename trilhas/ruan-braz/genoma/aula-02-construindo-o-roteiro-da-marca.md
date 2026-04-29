@@ -1,5 +1,3 @@
-Cálculo interno: [13 blocos] / [68 parágrafos totais] / [3.180 palavras estimadas] / [3.180 ÷ 200 = 16 minutos]
-
 # Construindo o Roteiro da Marca
 
 **Tempo estimado de leitura:** 16 minutos

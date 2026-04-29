@@ -1,5 +1,3 @@
-Cálculo interno: [12 blocos] / [38 parágrafos totais] / [1.290 palavras estimadas] / [1.290 ÷ 200 = 7 minutos]
-
 # Introdução - Cliente Ideal (ICP) para Negócios Criativos
 
 **Tempo estimado de leitura:** 7 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: 18 blocos / 52 parágrafos totais / 2175 palavras estimadas / 2175 ÷ 200 = 11 minutos
-
 # Classificação e Anatomia dos Tipos
 
 **Tempo estimado de leitura:** 11 minutos

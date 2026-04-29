@@ -1,5 +1,3 @@
-Cálculo interno: 11 blocos / 65 parágrafos totais / 2.450 palavras estimadas / 2.450 ÷ 200 = 13 minutos
-
 # Fronteiras invisíveis
 
 **Tempo estimado de leitura:** 13 minutos
@@ -15,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## Diferenças culturais negligenciadas
 
-Matheus apresenta as fronteiras invisíveis como diferenças culturais que nem sempre são claras para quem vive no Brasil, mas que podem afetar diretamente projetos internacionais.
+Mateus apresenta as fronteiras invisíveis como diferenças culturais que nem sempre são claras para quem vive no Brasil, mas que podem afetar diretamente projetos internacionais.
 
 Essas diferenças aparecem em peças gráficas, publicidade, vídeo, interfaces, símbolos, cores, tipografia, tom de voz e outros elementos de comunicação.
 
@@ -23,7 +21,7 @@ Muitos designers negligenciam esse ponto quando começam a trabalhar para fora. 
 
 ## Gestos em peças gráficas
 
-A primeira diferença cultural tratada são os gestos. Matheus usa o exemplo do gesto de "ok", que no Brasil costuma significar tudo certo.
+A primeira diferença cultural tratada são os gestos. Mateus usa o exemplo do gesto de "ok", que no Brasil costuma significar tudo certo.
 
 Em outros países, o mesmo gesto pode ter sentidos negativos. Na França, pode significar zero ou sem valor. Na Alemanha, pode ter conotação sexual ofensiva. Na Turquia e em países próximos, pode ser interpretado como gesto obsceno.
 
@@ -39,7 +37,7 @@ Nos Estados Unidos, o sentido é mais próximo do brasileiro: bom, aprovado, ok.
 
 ## Cores e percepção cultural
 
-Matheus também apresenta a forma como diferentes países interpretam cores. Ele cita Brasil, Estados Unidos, China, Japão, Índia, França, Alemanha, México, Egito e Rússia como exemplos comparativos.
+Mateus também apresenta a forma como diferentes países interpretam cores. Ele cita Brasil, Estados Unidos, China, Japão, Índia, França, Alemanha, México, Egito e Rússia como exemplos comparativos.
 
 Um exemplo conhecido é o luto: no Brasil, a cor preta costuma ser associada ao luto, enquanto no Japão a cor branca pode cumprir esse papel.
 
@@ -47,7 +45,7 @@ Outro exemplo é o amarelo. No Brasil, pode estar ligado a otimismo e alegria. N
 
 ## Pesquisa com o cliente sobre cor
 
-Matheus reforça que essas associações não são definitivas. Dependendo do contexto, uma cor pode funcionar ou não.
+Mateus reforça que essas associações não são definitivas. Dependendo do contexto, uma cor pode funcionar ou não.
 
 Por isso, ao criar para outro país, o designer deve pesquisar e conversar com o cliente para verificar se as cores transmitem a percepção correta.
 
@@ -55,7 +53,7 @@ Se a peça for romântica e voltada para a França, por exemplo, usar amarelo co
 
 ## Símbolos, ícones e correio no Japão
 
-Símbolos e ícones também precisam de pesquisa. Matheus usa o exemplo de correio e e-mail.
+Símbolos e ícones também precisam de pesquisa. Mateus usa o exemplo de correio e e-mail.
 
 No Brasil, é comum usar o ícone de carta. No Japão, há um símbolo específico associado ao correio japonês, que aparece até em emojis de correio em aplicativos como WhatsApp.
 
@@ -63,7 +61,7 @@ Esse exemplo mostra que um ícone familiar em um país pode não ser o símbolo 
 
 ## Números e significados culturais
 
-Matheus também trata de significados numéricos. No Brasil, o número 13 pode ser visto como má sorte ou associado a coisas negativas.
+Mateus também trata de significados numéricos. No Brasil, o número 13 pode ser visto como má sorte ou associado a coisas negativas.
 
 No Japão, o número 4 tem uma associação negativa porque sua pronúncia se aproxima da palavra relacionada à morte. Por isso, pode ser evitado em alguns contextos.
 
@@ -79,7 +77,7 @@ Esse cuidado não é apenas estético. Ele ajuda a evitar a sensação de peça 
 
 ## Direção de leitura e interface
 
-Matheus apresenta a direção de leitura como um ponto importante para layouts. Ele compara a Amazon em países que leem da esquerda para a direita com a versão da Arábia Saudita.
+Mateus apresenta a direção de leitura como um ponto importante para layouts. Ele compara a Amazon em países que leem da esquerda para a direita com a versão da Arábia Saudita.
 
 Na versão árabe, a interface aparece invertida. Logo, títulos, botões, CTAs e estrutura visual são orientados para a direita.
 
@@ -87,7 +85,7 @@ Isso mostra que adaptar um layout internacional não é apenas traduzir texto. A
 
 ## Outros elementos culturais
 
-Matheus lista outros elementos que precisam de atenção: gestos, cores, feições, ícones, símbolos, tom de voz, sons, tipografia, alimentos, história, roupas, etnia, direção de leitura e formato de data.
+Mateus lista outros elementos que precisam de atenção: gestos, cores, feições, ícones, símbolos, tom de voz, sons, tipografia, alimentos, história, roupas, etnia, direção de leitura e formato de data.
 
 Ele cita o Japão como exemplo de relação com sons. Sons de notificação tendem a ser mais suaves, porque sons altos em público podem ser mal vistos.
 
@@ -97,7 +95,7 @@ Também menciona alimentos, roupas e história como pontos sensíveis. O designe
 
 O cuidado mais importante da aula é evitar estereótipos. Quanto maior a diferença cultural, maior o risco de representar pessoas, símbolos ou costumes de forma rasa.
 
-Matheus recomenda pesquisa visual ampla, uso de inteligência artificial para testar ideias e, quando possível, conversa com pessoas daquela cultura ou com o próprio cliente.
+Mateus recomenda pesquisa visual ampla, uso de inteligência artificial para testar ideias e, quando possível, conversa com pessoas daquela cultura ou com o próprio cliente.
 
 O cliente saberá muito mais sobre o contexto local do que o designer brasileiro. Perguntar, pesquisar e validar são formas de reduzir erro e produzir um design mais adequado.
 
@@ -115,4 +113,3 @@ Pesquise antes de criar qualquer peça:
 - referências visuais de publicidade e interface.
 
 Depois, anote três cuidados culturais que você precisaria considerar em um projeto para esse mercado.
-

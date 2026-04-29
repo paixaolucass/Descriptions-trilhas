@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [30 parágrafos totais] / [3600 palavras estimadas] / [3600 ÷ 200 = 18 minutos]
-
 # Infraestrutura de Venda
 
 **Tempo estimado de leitura:** 18 minutos
@@ -102,4 +100,3 @@ Esse alinhamento entre produto e método é o que dá coerência ao que foi ensi
 ## Coloque em prática
 
 Mapeie em qual nível de consciência está a maioria dos seus potenciais clientes hoje. Use os cinco níveis de Schwartz como referência: inconsciente, consciente do problema, consciente da solução, consciente do produto, totalmente consciente. Depois, avalie se a sua comunicação atual, seja ela conteúdo orgânico, anúncio ou abordagem direta, está calibrada para esse nível. Identifique um ponto de desalinhamento específico: onde você está usando linguagem de nível quatro para um público que está no nível dois, ou onde está sendo indireto demais para alguém que já está pronto para comprar. Corrija esse único ponto e observe o impacto nos próximos sete dias.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

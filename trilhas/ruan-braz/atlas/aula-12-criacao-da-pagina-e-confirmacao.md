@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [28 parágrafos totais] / [3600 palavras estimadas] / [3600 ÷ 200 = 18 minutos]
-
 # Criação da Página e Confirmação
 
 **Tempo estimado de leitura:** 18 minutos
@@ -53,7 +51,7 @@ Para quem quer o caminho mais simples possível antes de construir qualquer pág
 
 A estrutura básica de formulário demonstrada ao vivo segue cinco perguntas. A primeira pergunta verifica o alinhamento: o conteúdo é um dos principais motores de crescimento do seu negócio? Resposta de sim ou não. Quem responde não já está desqualificando. A segunda pergunta mapeia a situação atual: como funciona hoje a produção de conteúdo na sua empresa? As opções incluem processos claros e organizados, funciona mas é caótico, totalmente improvisado, quase não temos estrutura.
 
-A terceira pergunta investiga as dores: quais problemas você sente hoje? As opções são as dores mapeadas anteriormente no Imã de Problemas, como trabalhamos muito e sobra pouco lucro, receita varia demais todo mês, e conteúdo não vira contratos. A quarta pergunta mapeia o momento atual com IA: você já usa IA na produção de conteúdo? As respostas possíveis são sim com processos definidos, sim de forma improvisada, e ainda não. A quinta pergunta identifica a motivação de compra: o que mais faria você investir em estrutura de conteúdo? As opções incluem mais previsibilidade de receita, escalar sem perder qualidade, proteger e fortalecer a marca, reduzir caos operacional, e aumentar margem.
+A terceira pergunta investiga as dores: quais problemas você sente hoje? As opções são as dores mapeadas anteriormente no Ímã de Problemas, como trabalhamos muito e sobra pouco lucro, receita varia demais todo mês, e conteúdo não vira contratos. A quarta pergunta mapeia o momento atual com IA: você já usa IA na produção de conteúdo? As respostas possíveis são sim com processos definidos, sim de forma improvisada, e ainda não. A quinta pergunta identifica a motivação de compra: o que mais faria você investir em estrutura de conteúdo? As opções incluem mais previsibilidade de receita, escalar sem perder qualidade, proteger e fortalecer a marca, reduzir caos operacional, e aumentar margem.
 
 O formulário não precisa de mais do que cinco perguntas para capturar o contexto básico do lead. O objetivo não é fazer um diagnóstico completo: é coletar dados suficientes para que a conversa no WhatsApp seja contextualizada desde o início. Quem chega ao WhatsApp já respondeu as cinco perguntas, e o prestador já sabe com quem está falando antes de digitar a primeira mensagem. Esse nível de contexto prévio elimina as perguntas óbvias no início da conversa e permite ir direto para o que importa: aprofundar o problema e avaliar o encaixe entre o perfil do lead e o serviço oferecido. Quanto mais qualificado for o lead antes do WhatsApp, mais produtiva e rápida será a conversa de desenvolvimento.
 
@@ -92,4 +90,3 @@ A resistência que aparece quando a página parece simples demais é a armadilha
 - Defina qual dos quatro modelos de go-to-market faz mais sentido para o estágio atual do seu negócio e monte o funil correspondente: se Two Stages, crie um formulário no Tally.so com cinco perguntas de qualificação baseadas nas dores mapeadas; se One Stage, gere a copy no ChatGPT com o documento estratégico como input e construa a página no Lovable.
 - Escreva o roteiro de qualificação do WhatsApp com as perguntas baseadas no método SPIN Selling adaptado ao seu serviço: Situação, Problema, Implicação e Necessidade, com uma pergunta concreta para cada etapa.
 - Publique algo que possa receber tráfego em 48 horas, não daqui a 30 dias: o objetivo desta etapa não é ter a melhor página, é ter uma página que permita testar a oferta com o mercado real.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 91 minutos e inclui demonstrações ao vivo de ferramentas digitais; os fluxos práticos de operação das plataformas estão disponíveis apenas no vídeo.*

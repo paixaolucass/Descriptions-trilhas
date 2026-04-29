@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [25 parágrafos totais] / [1100 palavras estimadas] / [1100 ÷ 200 = 6 minutos]
-
 # Tema, enredo e estrutura
 
 **Tempo estimado de leitura:** 6 minutos
@@ -24,7 +22,7 @@ Qualquer narrativa, um post de LinkedIn, um manifesto, um case de branding, prec
 
 O tema não é o assunto. O tema é um ponto de vista sobre o assunto. Se o assunto é amor, o tema pode ser amor como aprisionamento, amor como cura, amor como liberdade. O assunto é o que está sendo abordado. O tema é a perspectiva única de quem conta.
 
-O tema funciona como um imã: ele decide o que entra e o que sai da história. Se o tema é solidão e uma cena mostra uma festa cheia de pessoas, ela só funciona se mostrar o protagonista sozinho no meio de todas aquelas pessoas. Sem um tema claro, o cérebro não encontra o padrão, e o público não consegue sentir o que deveria sentir.
+O tema funciona como um ímã: ele decide o que entra e o que sai da história. Se o tema é solidão e uma cena mostra uma festa cheia de pessoas, ela só funciona se mostrar o protagonista sozinho no meio de todas aquelas pessoas. Sem um tema claro, o cérebro não encontra o padrão, e o público não consegue sentir o que deveria sentir.
 
 O prompt apresentado para transformar assuntos vagos em temas poderosos: instruir a IA a converter um assunto em sete temas simbólicos de alta tensão, cada um com uma frase com verbo ativo, polaridade (X versus Y) e o porquê profundo. Para cada tema, incluir as metáforas e atmosferas que convoca e a aplicação prática, se é para literatura, filme ou branding. Com o critério: linguagem precisa, original e zero abstração vazia.
 
@@ -71,5 +69,3 @@ A recomendação é voltar ao prompt de tema, usá-lo, descobrir a própria verd
 ## Coloque em prática
 
 Defina o tema de uma ideia que você quer escrever: identifique o ponto de vista único que você tem sobre aquele assunto e expresse a tensão entre dois polos. Depois aplique as cinco etapas do método Overlens: tema, destino, enredo, estrutura e teste de coerência. Se travar, volte ao prompt de tema, use-o, descubra a sua verdade e comece a construir a fundação antes das paredes.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

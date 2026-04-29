@@ -1,5 +1,3 @@
-Cálculo interno: 15 blocos / 68 parágrafos totais / 3035 palavras estimadas / 3035 ÷ 200 = 16 minutos
-
 # Geometria das Formas
 
 **Tempo estimado de leitura:** 16 minutos
@@ -151,5 +149,3 @@ O terceiro é um livro mais teórico que explica a história da razão áurea, d
 - Encontre o ponto de tangência externa entre eles sem usar a ferramenta de alinhamento
 - Construa um retângulo áureo usando a sequência de quadrados de Fibonacci e verifique a razão dividindo a largura pela altura
 - Construa a espiral áurea sobre o retângulo áureo posicionando arcos a partir dos vértices internos de cada quadrado
-
-Esta descrição cobre os principais conteúdos da aula. Alguns detalhes das demonstrações no Illustrator, incluindo passos específicos de cada operação no software, estão disponíveis apenas no vídeo.

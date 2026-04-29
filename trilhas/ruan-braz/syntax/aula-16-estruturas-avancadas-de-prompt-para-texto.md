@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [35 parágrafos totais] / [1500 palavras estimadas] / [1500 ÷ 200 = 7 minutos]
-
 # Estruturas avançadas de prompt para texto
 
 **Tempo estimado de leitura:** 7 minutos
@@ -43,7 +41,7 @@ A terceira técnica é o RAG, Retrieval Augmented Generation. A tradução prát
 
 O processo tem três momentos. Primeiro, trazer dados tratados para a IA, parágrafos sobre um tema, fatos específicos, notícias relevantes. Segundo, instruir a IA a estudar esse material antes de gerar o conteúdo. Terceiro, usar o conteúdo gerado.
 
-A ferramenta recomendada para aplicar RAG é o **Notebook LM**, do Google. Nele é possível criar notebooks com arquivos subidos como base de conhecimento, documentos, PDFs, planilhas. Ruan demonstra ao vivo um notebook criado para um personagem chamado COG, professor de lógica de um curso criado pela própria IA. Com as fontes subidas, curso de lógica básica, introdução à lógica, falácias, raciocínio dedutivo e indutivo, entre outros, a IA produz roteiros, podcasts e infográficos com o conteúdo daquele material específico.
+A ferramenta recomendada para aplicar RAG é o **NotebookLM**, do Google. Nele é possível criar notebooks com arquivos subidos como base de conhecimento, documentos, PDFs, planilhas. Ruan demonstra ao vivo um notebook criado para um personagem chamado COG, professor de lógica de um curso criado pela própria IA. Com as fontes subidas, curso de lógica básica, introdução à lógica, falácias, raciocínio dedutivo e indutivo, entre outros, a IA produz roteiros, podcasts e infográficos com o conteúdo daquele material específico.
 
 A recomendação prática: não colocar tudo em um único prompt. Fazer o RAG em uma etapa separada, tratar o dado, depois subir apenas o essencial para a ferramenta de geração. Trabalhar em etapas vai funcionar melhor do que tentar resolver tudo em um único bloco.
 
@@ -84,5 +82,3 @@ A pergunta que orienta a escolha da técnica: qual protocolo você precisa para 
 ## Coloque em prática
 
 Escolha uma das cinco técnicas apresentadas e aplique a um texto real. Depois de iterar com a IA até chegar perto do resultado que quer, peça que ela leia toda a conversa e estruture um prompt com os critérios que você ensinou ao longo do processo. Guarde esse prompt no seu banco pessoal para reutilizar sem refazer do zero.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

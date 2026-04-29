@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [28 parágrafos totais] / [935 palavras estimadas] / [935 ÷ 200 = 5 minutos]
-
 # Criação de Ofertas que Geram Valor
 
 **Tempo estimado de leitura:** 5 minutos

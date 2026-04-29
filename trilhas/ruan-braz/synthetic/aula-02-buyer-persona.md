@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [19 parágrafos totais] / [850 palavras estimadas] / [850 ÷ 200 = 4 minutos]
-
 # Buyer persona
 
 **Tempo estimado de leitura:** 4 minutos
@@ -51,5 +49,3 @@ Esse modelo mostra que personas não são criadas uma vez e usadas para sempre. 
 ## Coloque em prática
 
 Construa a ficha de uma buyer persona do seu projeto. Comece pelos elementos essenciais: nome, idade, ocupação, frase típica e dor central. Depois preencha o mapa de empatia com pelo menos quatro dos oito pontos. Use como referência as personas da Overlens apresentadas nesta aula. Na próxima aula, essa ficha vai ser carregada em uma IA para criar uma persona sintética de texto que você pode conversar.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

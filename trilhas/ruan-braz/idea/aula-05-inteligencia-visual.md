@@ -1,5 +1,3 @@
-Cálculo interno: 12 blocos / 52 parágrafos / ~3.100 palavras estimadas / 3.100 ÷ 200 = 15,5 minutos
-
 # Inteligência visual
 
 **Tempo estimado de leitura:** 16 minutos

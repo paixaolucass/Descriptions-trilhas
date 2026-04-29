@@ -1,5 +1,3 @@
-Cálculo interno: [14 blocos] / [42 parágrafos totais] / [2440 palavras estimadas] / [2440 ÷ 200 = 13 minutos]
-
 # Analisando grids avançados
 
 **Tempo estimado de leitura:** 13 minutos

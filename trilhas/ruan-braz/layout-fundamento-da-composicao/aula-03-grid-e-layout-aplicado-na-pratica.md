@@ -1,5 +1,3 @@
-Cálculo interno: [13 blocos] / [39 parágrafos totais] / [2250 palavras estimadas] / [2250 ÷ 200 = 12 minutos]
-
 # Grid e layout aplicado na prática
 
 **Tempo estimado de leitura:** 12 minutos

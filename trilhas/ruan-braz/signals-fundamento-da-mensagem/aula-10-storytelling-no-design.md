@@ -1,5 +1,3 @@
-Cálculo interno: [11 blocos] / [43 parágrafos totais] / [2410 palavras estimadas] / [2410 ÷ 200 = 13 minutos]
-
 # Storytelling no Design
 
 **Tempo estimado de leitura:** 13 minutos
@@ -115,7 +113,7 @@ Para encerrar, Ruan apresenta cinco livros sobre o tema, indicando o perfil de c
 
 "O Herói e o Fora da Lei", descrito por Ruan como seu favorito absoluto sobre o tema, é indispensável para quem trabalha com design de marcas e branding. Ele cobre os 12 arquétipos de personalidade com exemplos práticos de mercado e ensina como contar boas histórias e ter ideias para isso.
 
-"O Herói de Mil Faces", de Joseph Campbell, é mais teórico e voltado para quem gosta de mitologia e quer mergulhar no inconsciente humano. Não é para todos, mas Ruan afirma que o livro traz uma imersão profunda nos mitos e nas conexões com Young, cujo trabalho sobre arquétipos é citado diretamente.
+"O Herói de Mil Faces", de Joseph Campbell, é mais teórico e voltado para quem gosta de mitologia e quer mergulhar no inconsciente humano. Não é para todos, mas Ruan afirma que o livro traz uma imersão profunda nos mitos e nas conexões com Jung, cujo trabalho sobre arquétipos é citado diretamente.
 
 "Os Arquétipos e o Inconsciente Coletivo", de Carl Jung, é o mais difícil da lista, extremamente teórico e denso. Ruan recomenda para quem quer o aprofundamento máximo no tema, depois de ter passado pelos outros.
 

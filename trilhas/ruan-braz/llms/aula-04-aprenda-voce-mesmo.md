@@ -1,5 +1,3 @@
-Cálculo interno: 5 blocos / 14 parágrafos totais / 1000 palavras estimadas / 1000 ÷ 200 = 5 minutos
-
 # Aprenda Você Mesmo: Pesquisa Autodidata com LLMs
 
 **Tempo estimado de leitura:** 5 minutos
@@ -48,4 +46,3 @@ Os leaderboards de avaliação existem exatamente para mapear isso. São quadros
 ## Coloque em prática
 
 Acesse o Supergrok ou o Perplexity e reproduza o prompt de pesquisa apresentado nesta aula: peça um mapa das LLMs em 2025, incluindo os modelos mais famosos, suas capacidades, os links oficiais e as fontes underground, com resultado em português. Compare o que cada ferramenta trouxe. Depois, abra o resultado em uma segunda LLM de sua escolha e peça para ela comentar, corrigir ou ampliar os dados recebidos. Registre quais diferenças você percebeu entre as fontes.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: [2 blocos] / [8 parágrafos totais] / [350 palavras estimadas] / [350 ÷ 200 = 2 minutos]
-
 # Boas-vindas à Syntax
 
 **Tempo estimado de leitura:** 2 minutos
@@ -24,5 +22,3 @@ A Syntax foi construída para ensinar a estrutura de bons textos, a clareza sobr
 ## Coloque em prática
 
 Antes de avançar para a próxima aula, escreva em duas ou três frases qual é a intenção que você traz para esta trilha: o que você quer ser capaz de escrever ao final? Esse texto vai servir como ponto de comparação quando você chegar na última aula.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [28 parágrafos totais] / [1300 palavras estimadas] / [1300 ÷ 200 = 7 minutos]
-
 # Prompts básicos e boas práticas
 
 **Tempo estimado de leitura:** 7 minutos
@@ -81,5 +79,3 @@ Para quem quer um ponto de partida, o Overchat da Overlens tem um banco de promp
 ## Coloque em prática
 
 Crie uma tabela no Google Sheets para guardar seus melhores prompts. Escreva o primeiro prompt nela: peça à IA que resuma todos os critérios que você usou ao longo de uma conversa e estruture um prompt reutilizável. Guarde esse prompt como ponto de partida do banco pessoal.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

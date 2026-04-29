@@ -1,5 +1,3 @@
-Cálculo interno: 14 blocos / 68 parágrafos totais / 2720 palavras estimadas / 2720 ÷ 200 = 13,6 minutos
-
 # Um mundo feito de ideias
 
 **Tempo estimado de leitura:** 14 minutos

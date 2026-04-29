@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [398 palavras estimadas] / [398 ÷ 200 = 3 minutos]
-
 # Totalidade e harmonia
 
 **Tempo estimado de leitura:** 3 minutos

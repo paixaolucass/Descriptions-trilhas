@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [18 parágrafos totais] / [940 palavras estimadas] / [940 ÷ 200 = 5 minutos]
-
 # Formato, Margem e Layout
 
 **Tempo estimado de leitura:** 5 minutos

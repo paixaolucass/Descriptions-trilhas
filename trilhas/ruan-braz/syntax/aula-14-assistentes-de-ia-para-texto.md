@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [22 parágrafos totais] / [1000 palavras estimadas] / [1000 ÷ 200 = 5 minutos]
-
 # Assistentes de IA para texto
 
 **Tempo estimado de leitura:** 5 minutos
@@ -63,5 +61,3 @@ GPTs e Gems são os mais customizáveis e adequados para uso profissional. Chara
 ## Coloque em prática
 
 Identifique uma tarefa de escrita que você repete com frequência: revisar textos, gerar ideias, adaptar tom, criar variações de conteúdo. Crie um GPT no ChatGPT ou um Gem no Gemini configurado especificamente para essa função. Inclua nas instruções o comportamento esperado, o tom e os limites do assistente. Use-o pelo menos três vezes antes de avaliar se o resultado justifica o tempo de configuração.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

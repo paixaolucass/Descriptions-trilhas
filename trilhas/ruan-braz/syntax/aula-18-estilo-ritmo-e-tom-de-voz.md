@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [22 parágrafos totais] / [950 palavras estimadas] / [950 ÷ 200 = 5 minutos]
-
 # Estilo, ritmo e tom de voz
 
 **Tempo estimado de leitura:** 5 minutos
@@ -67,5 +65,3 @@ A recomendação final: antes de enviar o próximo prompt, fazer esse checklist.
 ## Coloque em prática
 
 Antes de dar enter no próximo prompt, faça o checklist do método Overlens de calibragem: defina a intenção do texto, escolha o estilo que vai entregar essa intenção, determine onde quer que o leitor respire e escolha o tom. Depois, leia o resultado em voz alta e faça o teste do ouvido: se travou a língua, revise o ritmo; se soou falso, revise o tom.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [29 parágrafos totais] / [1350 palavras estimadas] / [1350 ÷ 200 = 6,75 = 7 minutos]
-
 # Lidando com Fontes e Letras
 
 **Tempo estimado de leitura:** 7 minutos

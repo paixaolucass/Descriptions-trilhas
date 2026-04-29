@@ -1,5 +1,3 @@
-Cálculo interno: [9 blocos] / [29 parágrafos totais] / [1510 palavras estimadas] / [1510 ÷ 200 = 8 minutos]
-
 # Da Indicação à Prospecção Ativa
 
 **Tempo estimado de leitura:** 8 minutos
@@ -33,7 +31,7 @@ O terceiro problema é o mais crítico: você não tem controle. Você não deci
 
 Vinni apresenta uma matemática baseada em médias de mercado B2B para mostrar que prospecção não depende de sorte, mas de disciplina. A lógica de funil funciona assim: 50 leads se tornam 8 conversas, que viram 3 propostas, que viram 1 contrato. A taxa de conversão de leads para conversas nesse modelo é de aproximadamente 15%.
 
-Esses números variam conforme o nicho, o mercado, a clareza do perfil de cliente, a qualidade da oferta e a existência de um imã de leads, que é abordado na aula seguinte. Mas a ideia central é que, quando você encontra os seus próprios números, a prospecção deixa de parecer uma aposta e passa a ser uma matemática previsível.
+Esses números variam conforme o nicho, o mercado, a clareza do perfil de cliente, a qualidade da oferta e a existência de um ímã de leads, que é abordado na aula seguinte. Mas a ideia central é que, quando você encontra os seus próprios números, a prospecção deixa de parecer uma aposta e passa a ser uma matemática previsível.
 
 Vinni descreve o impacto que essa descoberta teve para ele: quando entendeu que existia uma matemática por trás da prospecção e foi encontrando os próprios números, percebeu que era muito mais simples do que imaginava. Grande parte da prospecção está nessa aritmética e na consciência de quanto tempo e esforço cada cliente exige.
 

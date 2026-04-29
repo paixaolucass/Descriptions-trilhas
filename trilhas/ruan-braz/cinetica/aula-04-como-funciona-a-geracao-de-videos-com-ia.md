@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [38 parágrafos totais] / [3600 palavras estimadas] / [3600 ÷ 200 = 18 minutos]
-
 # Como funciona a geração de vídeos com IA
 
 **Tempo estimado de leitura:** 18 minutos
@@ -110,4 +108,3 @@ A regra profissional é simples: um movimento de câmera por clipe e uma ação 
 Escolha qualquer ferramenta de geração de vídeo com IA disponível para você. Gere o mesmo prompt duas vezes: uma em resolução padrão ou baixa, e outra na maior resolução disponível. Compare o tempo de geração e o resultado visual. Em seguida, aplique um upscale no vídeo de menor resolução usando Topaz, Adobe Premiere ou qualquer ferramenta disponível, e compare o resultado final com a geração direta em alta resolução. Esse exercício deixa claro, na prática, por que o fluxo de baixa resolução seguido de upscale economiza tempo e crédito sem sacrificar qualidade.
 
 Depois, gere um vídeo com um prompt de múltiplas ações simultâneas (por exemplo, "personagem correndo enquanto a câmera gira e a chuva cai") e observe onde o modelo falha. Depois refaça o prompt com uma ação e um movimento de câmera apenas. Compare os dois resultados para internalizar a regra profissional de estruturação de clipes.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

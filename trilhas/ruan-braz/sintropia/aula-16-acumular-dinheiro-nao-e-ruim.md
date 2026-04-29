@@ -1,5 +1,3 @@
-Cálculo interno: 12 blocos / 53 parágrafos totais / 1.700 palavras estimadas / 1.700 ÷ 200 = 9 minutos
-
 # Acumular dinheiro não é ruim
 
 **Tempo estimado de leitura:** 9 minutos

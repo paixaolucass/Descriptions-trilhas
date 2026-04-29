@@ -1,5 +1,3 @@
-Cálculo interno: 5 blocos / 13 parágrafos totais / 1000 palavras estimadas / 1000 ÷ 200 = 5 minutos
-
 # Apresentando o Grok: A LLM da xAI e Seus Diferenciais
 
 **Tempo estimado de leitura:** 5 minutos
@@ -50,4 +48,3 @@ Nas configurações, o Grok oferece seções de conta, aparência, comportamento
 ## Coloque em prática
 
 Acesse o Grok e teste o recurso Think com uma pergunta que exija ponderação de múltiplos lados: um dilema profissional, uma decisão de negócio ou uma questão sobre tecnologia. Execute a mesma pergunta duas vezes, primeiro sem o Think e depois com ele ativado. Compare o nível de profundidade e a estrutura das duas respostas. Depois, use o Deep Search com um tema do seu setor e analise quantas fontes ele consultou e como organizou os resultados.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

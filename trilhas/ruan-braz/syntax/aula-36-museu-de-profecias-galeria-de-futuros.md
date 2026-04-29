@@ -1,5 +1,3 @@
-Cálculo interno: [3 blocos] / [12 parágrafos totais] / [550 palavras estimadas] / [550 ÷ 200 = 3 minutos]
-
 # Museu de Profecias: Galeria de Futuros
 
 **Tempo estimado de leitura:** 3 minutos
@@ -47,5 +45,3 @@ Os critérios de avaliação de qualidade que a Overlens usa para os textos subm
 ## Coloque em prática
 
 Escreva o seu texto para a Galeria de Futuros. Comece pela intenção: qual futuro você quer construir e o que quer que o leitor sinta ao terminar de ler. Escolha o formato que melhor serve essa intenção. Use os modelos mentais, o painel semântico e o processo de reescrita que você aprendeu ao longo da trilha. Submeta o texto na plataforma da Overlens com título e link. Avalie os textos de outros participantes. A avaliação que você faz dos outros é parte do aprendizado tanto quanto o texto que você escreve.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

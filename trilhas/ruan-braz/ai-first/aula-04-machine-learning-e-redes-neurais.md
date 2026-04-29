@@ -1,5 +1,3 @@
-Cálculo interno: 18 blocos / 74 parágrafos totais / 3960 palavras estimadas / 3960 ÷ 200 = 19,8 minutos
-
 # Machine Learning e as Redes Neurais
 
 **Tempo estimado de leitura:** 20 minutos
@@ -117,4 +115,3 @@ Escolha uma tarefa que você já realiza usando alguma ferramenta de IA, seja ge
 Qual tipo de aprendizado você acha que foi mais relevante no treinamento do modelo que você está usando? Supervisionado (alguém rotulou dados para ensinar o modelo)? Não supervisionado (o modelo identificou padrões por conta própria em grandes volumes de dados)? Por reforço (avaliadores humanos classificaram outputs para ajustar o comportamento)?
 
 Depois, tente identificar um caso em que o modelo falhou de uma forma que faz sentido à luz do que você aprendeu sobre como IAs funcionam. Descreva o erro e a provável causa a partir do que você sabe agora sobre pesos, rótulos e aprendizado. Esse exercício conecta teoria e prática de forma direta e vai aprofundar sua capacidade de usar e avaliar ferramentas de IA com mais critério.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 34 minutos, alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

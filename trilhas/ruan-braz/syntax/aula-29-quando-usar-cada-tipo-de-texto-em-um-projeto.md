@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [22 parágrafos totais] / [1000 palavras estimadas] / [1000 ÷ 200 = 5 minutos]
-
 # Quando usar cada tipo de texto em um projeto
 
 **Tempo estimado de leitura:** 5 minutos
@@ -69,5 +67,3 @@ Quando um projeto precisa das três funções, a solução não é um texto que 
 ## Coloque em prática
 
 Mapeie os textos do seu projeto atual usando o sistema de decisão. Para cada texto já escrito ou planejado, responda: qual é o objetivo primário, quem é o leitor, em qual estágio esse texto aparece. Identifique se o formato que você usou ou planejou é o mais adequado para aquela função específica. Se não for, reescreva a partir do formato certo antes de ajustar qualquer palavra.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

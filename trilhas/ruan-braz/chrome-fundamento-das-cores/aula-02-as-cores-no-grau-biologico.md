@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [420 palavras estimadas] / [420 ÷ 200 = 3 minutos]
-
 # As cores no grau biológico
 
 **Tempo estimado de leitura:** 3 minutos

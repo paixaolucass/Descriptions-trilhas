@@ -1,6 +1,4 @@
-Cálculo interno: 7 blocos / 25 parágrafos totais / 2000 palavras estimadas / 2000 ÷ 200 = 10 minutos
-
-# Imã de Problemas - Parte 2
+# Ímã de Problemas - Parte 2
 
 **Tempo estimado de leitura:** 10 minutos
 
@@ -17,7 +15,7 @@ Ao final desta aula, você será capaz de:
 
 ## O contexto da decisão: de onde vêm as apostas estratégicas
 
-Esta aula retoma o trabalho de análise de mercado a partir dos dados gerados pela IA na sessão anterior. A ferramenta usada para a análise mais aprofundada é o Perplexity em modo de pesquisa (chamado de "Tanzan" na aula), que entrega dados com fontes verificáveis. Isso é importante porque a qualidade de qualquer decisão estratégica depende da qualidade dos dados que a sustentam.
+Esta aula retoma o trabalho de análise de mercado a partir dos dados gerados pela IA na sessão anterior. A ferramenta usada para a análise mais aprofundada é o Perplexity em modo de pesquisa/Deep Research, que entrega dados com fontes verificáveis. Isso é importante porque a qualidade de qualquer decisão estratégica depende da qualidade dos dados que a sustentam.
 
 Antes de entrar nos números, a aula recupera os dados já mapeados nas sessões anteriores para mostrar como eles se conectam. A aposta na infraestrutura e nos processos como diferencial invisível do mercado, a lógica do "ano dos criadores silenciosos", as habilidades tecnológicas e com IA como principal estratégia de crescimento nos relatórios de mercado: todos esses elementos convergem para validar a tese do estúdio de criação AI-first. A IA está sendo usada para tomar decisões com base em dados, não para substituir o raciocínio.
 
@@ -80,4 +78,3 @@ O erro mais comum é pular direto para o cenário agressivo na projeção, o que
 ## Coloque em prática
 
 Com o documento estratégico aberto, crie uma subseção chamada "Dimensionamento de Mercado" dentro da aba de Contexto e Mercado. Registre os três níveis: TAM (mercado total), SAM (mercado endereçável pelo tipo de oferta que você propõe) e SOM (mercado obtível nos próximos doze meses com sua capacidade atual). Em seguida, crie uma subseção chamada "Cenários de Receita" e registre os três modelos: conservador, base e agressivo, com as faixas de clientes recorrentes, ticket médio e receita anual estimada para o seu contexto. Escolha conscientemente qual cenário orienta o seu primeiro ano de operação e justifique essa escolha com base na sua capacidade de entrega atual, não no que você gostaria de alcançar. Esse exercício vai criar um mapa de crescimento realista para o seu negócio.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: [16 blocos] / [52 parágrafos totais] / [2875 palavras estimadas] / [2875 ÷ 200 = 15 minutos]
-
 # Como Lidar com Objeções de Clientes (Framework VAP)
 
 **Tempo estimado de leitura:** 15 minutos

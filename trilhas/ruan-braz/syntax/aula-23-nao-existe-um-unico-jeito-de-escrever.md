@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [18 parágrafos totais] / [800 palavras estimadas] / [800 ÷ 200 = 4 minutos]
-
 # Não existe um único jeito de escrever
 
 **Tempo estimado de leitura:** 4 minutos
@@ -55,5 +53,3 @@ A pergunta que encerra a aula não é "como eu acerto?", é "o que posso experim
 ## Coloque em prática
 
 Aplique o framework dos 4 Fs ao próximo texto que você for escrever: defina a função antes de começar, escolha a forma que serve essa função, use o filtro para alinhar o resultado e faça o check de fidelidade ao final. A pergunta não é como acertar, é o que você pode experimentar hoje que nem sabia que existia. A escrita só se torna sua quando você mistura, testa, experimenta e ajusta.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

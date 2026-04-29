@@ -1,5 +1,3 @@
-Cálculo interno: 18 blocos / 72 parágrafos totais / 3980 palavras estimadas / 3980 ÷ 200 = 19,9 minutos
-
 # História das IAs - Parte 1
 
 **Tempo estimado de leitura:** 20 minutos
@@ -98,4 +96,3 @@ Pesquise o artigo original de Alan Turing, "Computing Machinery and Intelligence
 Em seguida, tente responder: se Turing estivesse vivo hoje e pedisse para você realizar o teste de Turing com o ChatGPT, você conseguiria distinguir as respostas do modelo das respostas de um ser humano em uma conversa de texto? Em quais situações o modelo passaria facilmente? Em quais situações ele ainda falha?
 
 Registre suas reflexões. Esse exercício conecta a origem histórica da pergunta que fundou o campo com a realidade prática que você já usa no dia a dia.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 36 minutos, alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

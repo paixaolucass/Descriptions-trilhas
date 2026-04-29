@@ -1,5 +1,3 @@
-Cálculo interno: [10 blocos] / [52 parágrafos totais] / [2600 palavras estimadas] / [2600 ÷ 200 = 13 minutos]
-
 # Sincronia tecnológica: como acompanhar o desenvolvimento tecnológico
 
 **Tempo estimado de leitura:** 13 minutos
@@ -108,5 +106,3 @@ Verifique a empresa por trás da ferramenta, leia os termos de uso, entenda quai
 Acesse um dos sites mencionados na aula, como McKinsey ou MIT Technology Review, e leia um artigo sobre o impacto da inteligência artificial na área de marketing, vendas ou desenvolvimento de produtos.
 
 Identifique uma tarefa repetitiva no seu fluxo de trabalho atual e pesquise se existe alguma ferramenta capaz de automatizá-la.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

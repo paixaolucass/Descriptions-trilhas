@@ -1,5 +1,3 @@
-Cálculo interno: 9 blocos / 34 parágrafos totais / 2300 palavras estimadas / 2300 ÷ 200 = 11,5 minutos
-
 # Chain of Thought: Como Dar uma Linha de Raciocínio para a IA
 
 **Tempo estimado de leitura:** 11,5 minutos
@@ -107,4 +105,3 @@ A fronteira entre engenharia de prompt e automação de IA está em constante mu
 ## Coloque em prática
 
 Escolha uma tarefa que você costuma pedir para a IA de forma aberta, como "me ajude a criar um conceito de marca" ou "me explique esse assunto". Reescreva esse pedido como um prompt com COT: numere pelo menos quatro etapas em sequência, onde cada uma depende da anterior. Execute o prompt e compare o resultado com o que você obtinha antes. Depois, identifique se alguma das etapas poderia ser delegada a uma conversa separada, com um papel específico (exploradora, avaliadora, juíza). Documente as diferenças de precisão, profundidade e utilidade entre as duas abordagens.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

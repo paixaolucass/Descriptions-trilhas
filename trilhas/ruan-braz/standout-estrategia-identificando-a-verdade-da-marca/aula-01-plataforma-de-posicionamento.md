@@ -1,5 +1,3 @@
-Cálculo interno: [12 blocos] / [61 parágrafos totais] / [2.840 palavras estimadas] / [2.840 ÷ 200 = 14,2 → 15 minutos]
-
 # Plataforma de Posicionamento
 
 **Tempo estimado de leitura:** 15 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [19 parágrafos totais] / [870 palavras estimadas] / [870 ÷ 200 = 5 minutos]
-
 # Trabalhando bem com textos
 
 **Tempo estimado de leitura:** 5 minutos

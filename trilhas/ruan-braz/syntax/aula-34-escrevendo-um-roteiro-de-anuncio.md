@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [22 parágrafos totais] / [1000 palavras estimadas] / [1000 ÷ 200 = 5 minutos]
-
 # Escrevendo um roteiro de anúncio
 
 **Tempo estimado de leitura:** 5 minutos
@@ -71,5 +69,3 @@ A IA gera o rascunho estruturado. O rascunho passa pelo mesmo processo de ediç�
 ## Coloque em prática
 
 Escolha um produto, serviço ou projeto seu e preencha a ficha de contexto completa. Identifique em qual ponto da curva de consciência de Schwartz está o seu público-alvo. Com esses dois elementos definidos, estruture os cinco blocos antes de escrever qualquer frase. Use a IA para gerar variações do gancho e teste qual delas funciona melhor para o nível de consciência do seu público específico.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

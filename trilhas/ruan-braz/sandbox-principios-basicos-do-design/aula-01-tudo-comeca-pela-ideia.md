@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [18 parágrafos totais] / [720 palavras estimadas] / [720 ÷ 200 = 4 minutos]
-
 # Tudo começa pela ideia
 
 **Tempo estimado de leitura:** 4 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: 9 blocos / 27 parágrafos totais / 3000 palavras estimadas / 3000 ÷ 200 = 15 minutos
-
 # Processos e Infraestrutura
 
 **Tempo estimado de leitura:** 15 minutos
@@ -19,7 +17,7 @@ Ruan abre essa aula fazendo uma recapitulação honesta do que foi produzido ao 
 
 Esse alinhamento de expectativa é parte da instrução. Ruan faz questão de deixar registrado que o Atlas não promete criar toda a infraestrutura de um negócio em dois dias. O que ele entrega é o racional, as ferramentas e o ponto de partida para que cada aluno continue construindo depois da imersão.
 
-A recapitulação cobre os principais marcos do dia: a decisão pelo modelo diamante em vez do modelo piramidal, a aplicação da análise de mercado via TAM, SAM e SOM, a criação do prompt de imã de problemas para identificar as dores do cliente, a definição do Perfil Ideal de Cliente e a construção da tese de valor. Ruan aponta que esses elementos, juntos, formam a base conceitual sobre a qual a infraestrutura operacional será construída.
+A recapitulação cobre os principais marcos do dia: a decisão pelo modelo diamante em vez do modelo piramidal, a aplicação da análise de mercado via TAM, SAM e SOM, a criação do prompt de ímã de problemas para identificar as dores do cliente, a definição do Perfil Ideal de Cliente e a construção da tese de valor. Ruan aponta que esses elementos, juntos, formam a base conceitual sobre a qual a infraestrutura operacional será construída.
 ## O que significa oferecer infraestrutura
 
 O ponto central dessa aula é a mudança de perspectiva sobre o que um profissional criativo pode oferecer ao mercado. A proposta de Ruan é direta: ao invés de vender um serviço pontual, como uma identidade visual ou uma campanha de conteúdo, o estúdio vai oferecer infraestrutura. Essa distinção é fundamental porque muda o posicionamento, o tíquete e a relação com o cliente.
@@ -74,4 +72,3 @@ Esse encaminhamento reforça a filosofia central do Atlas: construir rápido, te
 Escolha um negócio, o seu próprio ou um cliente hipotético bem definido, e crie um rascunho de documentação de conteúdo para esse negócio. Comece com três elementos: uma descrição do tom de voz em cinco pontos concretos, uma lista de três personas com nome, desafio principal e formato de conteúdo preferido, e um processo de produção de conteúdo dividido em pelo menos quatro etapas com uma instrução clara para cada uma.
 
 Ao terminar, avalie: o que você criou já permite que outra pessoa produza conteúdo para esse negócio sem precisar te perguntar nada? Se não, identifique quais lacunas precisam ser preenchidas para que a documentação seja realmente operacional. Esse exercício é a base do serviço de entrada que você vai oferecer.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

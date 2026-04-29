@@ -1,5 +1,3 @@
-Cálculo interno: 10 blocos / 30 parágrafos totais / 2000 palavras estimadas / 2000 ÷ 200 = 10 minutos
-
 # Perfil de Audiência do Atlas
 
 **Tempo estimado de leitura:** 10 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: [13 blocos] / [52 parágrafos totais] / [2550 palavras estimadas] / [2550 ÷ 200 = 13 minutos]
-
 # Auditoria de público
 
 **Tempo estimado de leitura:** 13 minutos

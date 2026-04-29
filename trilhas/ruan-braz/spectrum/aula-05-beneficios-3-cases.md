@@ -1,5 +1,3 @@
-Cálculo interno: 13 blocos / 30 parágrafos totais / 2600 palavras estimadas / 2600 ÷ 200 = 13 minutos
-
 # Benefícios de usar geração de imagens com IA: 3 cases práticos
 
 **Tempo estimado de leitura:** 13 minutos
@@ -50,7 +48,7 @@ Ruan observa que desde 2022 já era possível ver coisas da Coca-Cola sendo gera
 
 O terceiro case é o da Heinz, com a campanha chamada AI Ketchup. Esse case é considerado por Ruan um dos mais inteligentes em termos de posicionamento de marca usando IA.
 
-O ponto de partida é simples: quando você digita a palavra "ketchup" em ferramentas de geração de imagem como o Mid Journey, a imagem gerada quase sempre lembra a embalagem da Heinz. Isso acontece porque os modelos de IA foram treinados com bilhões de imagens da internet, e a Heinz é a marca de ketchup mais fotografada, mais compartilhada, mais referenciada ao longo de décadas. Ela está nos dados de treinamento de praticamente todos os modelos de geração de imagem.
+O ponto de partida é simples: quando você digita a palavra "ketchup" em ferramentas de geração de imagem como o Midjourney, a imagem gerada quase sempre lembra a embalagem da Heinz. Isso acontece porque os modelos de IA foram treinados com bilhões de imagens da internet, e a Heinz é a marca de ketchup mais fotografada, mais compartilhada, mais referenciada ao longo de décadas. Ela está nos dados de treinamento de praticamente todos os modelos de geração de imagem.
 
 Ao invés de tratar isso como um problema de plágio ou uma ameaça, a Heinz fez o oposto: transformou esse dado em argumento de marketing. A campanha mostrou que quando a IA pensa em ketchup, ela pensa em Heinz. Isso é sinônimo de categoria. A marca construiu um posicionamento tão forte ao longo de décadas que está literalmente incorporada nos padrões de reconhecimento visual dos modelos de difusão.
 
@@ -119,4 +117,3 @@ Escolha um projeto criativo atual ou recente seu, qualquer coisa que você tenha
 Para cada um desses três momentos, pesquise qual ferramenta de geração de imagem com IA poderia ter sido usada para reduzir esse tempo. Não precisa testar agora, apenas mapear a possibilidade. Ao final do exercício, você terá um panorama concreto de onde a IA pode entrar no seu fluxo de trabalho sem substituir o que só você sabe fazer, mas liberando seu tempo para o que realmente importa: as ideias e as decisões criativas que dependem da sua vontade.
 
 Como desafio adicional, escolha um próximo projeto, mesmo que seja pequeno, e aplique a IA especificamente na etapa de prototipagem. Gere pelo menos três direções visuais diferentes antes de se comprometer com uma. Avalie quais elementos funcionam em cada direção e use essa análise para construir a versão final com mais consciência sobre o que você quer alcançar.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

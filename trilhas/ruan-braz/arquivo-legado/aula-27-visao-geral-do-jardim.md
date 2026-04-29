@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [381 palavras estimadas] / [381 ÷ 200 = 2 minutos]
-
 # Visão geral do jardim
 
 **Tempo estimado de leitura:** 2 minutos

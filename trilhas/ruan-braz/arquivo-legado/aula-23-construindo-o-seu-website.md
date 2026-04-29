@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [407 palavras estimadas] / [407 ÷ 200 = 3 minutos]
-
 # Construindo o seu website
 
 **Tempo estimado de leitura:** 3 minutos

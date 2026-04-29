@@ -1,6 +1,4 @@
-Cálculo interno: [11 blocos] / [44 parágrafos totais] / [4000 palavras estimadas] / [4000 ÷ 200 = 20 minutos]
-
-# Imã de Problemas - Parte 1
+# Ímã de Problemas - Parte 1
 
 **Tempo estimado de leitura:** 20 minutos
 
@@ -9,10 +7,10 @@ Cálculo interno: [11 blocos] / [44 parágrafos totais] / [4000 palavras estimad
 Ao final desta aula, você será capaz de:
 
 - Identificar o viés de encaixar clientes em soluções pré-definidas e inverter a ordem correta de descoberta de mercado
-- Aplicar o prompt do Imã de Problemas para mapear dores reais de um público com volume, linguagem real e ranking
+- Aplicar o prompt do Ímã de Problemas para mapear dores reais de um público com volume, linguagem real e ranking
 - Distinguir dores que geram conversa de dores que movem dinheiro e decisão de compra
 - Estruturar uma análise TAM/SAM/SOM para dimensionar o tamanho de mercado de um negócio
-- Executar uma sessão de pesquisa com IA para consolidar o Imã de Problemas do seu negócio
+- Executar uma sessão de pesquisa com IA para consolidar o Ímã de Problemas do seu negócio
 - Reconhecer os critérios que transformam uma dor mapeada em uma oportunidade de oferta
 
 ## O problema do viés invertido
@@ -23,9 +21,9 @@ Esse processo parece lógico porque segue a ordem da sua cabeça. Mas ele está 
 
 A consequência prática é direta: você pode passar meses construindo algo que o mercado não estava pedindo do jeito que você imaginou. Não porque a ideia era ruim em si, mas porque você partiu da sua solução e não do problema do cliente.
 
-O Imã de Problemas é uma metodologia e um prompt de IA desenvolvido para forçar essa inversão. Antes de criar perfil de cliente, antes de criar oferta, antes de criar copy, você usa esse prompt para descobrir onde a dor real do mercado está, em que linguagem ela aparece e quais dores têm mais chance de se transformar em decisão de compra.
+O Ímã de Problemas é uma metodologia e um prompt de IA desenvolvido para forçar essa inversão. Antes de criar perfil de cliente, antes de criar oferta, antes de criar copy, você usa esse prompt para descobrir onde a dor real do mercado está, em que linguagem ela aparece e quais dores têm mais chance de se transformar em decisão de compra.
 
-## Os três princípios do Imã de Problemas
+## Os três princípios do Ímã de Problemas
 
 O prompt foi construído com base em três princípios que precisam ser executados em conjunto para que o resultado seja útil.
 
@@ -95,13 +93,13 @@ O prompt para análise de TAM/SAM/SOM é simples: você instrui a IA a fazer uma
 
 Uma observação prática feita durante a demonstração ao vivo merece atenção: muita gente usa IA de forma desorganizada. Vai copiando todos os resultados para um documento, empilhando conteúdo sem estrutura, e depois perde o controle do que está onde. Quando mais informações se acumulam sem organização, mais difícil fica usar essas informações como input para a IA nas próximas rodadas.
 
-A prática recomendada é criar abas ou seções separadas no documento estratégico para cada tipo de análise. Uma aba para o prompt do Imã de Problemas, uma aba para a análise TAM/SAM/SOM, uma aba para o perfil de cliente, uma aba para a oferta. Cada vez que você precisar passar contexto para a IA, você pega só o trecho relevante, não o documento inteiro. Isso mantém os prompts mais precisos e os resultados mais focados.
+A prática recomendada é criar abas ou seções separadas no documento estratégico para cada tipo de análise. Uma aba para o prompt do Ímã de Problemas, uma aba para a análise TAM/SAM/SOM, uma aba para o perfil de cliente, uma aba para a oferta. Cada vez que você precisar passar contexto para a IA, você pega só o trecho relevante, não o documento inteiro. Isso mantém os prompts mais precisos e os resultados mais focados.
 
 Existe também um princípio mais amplo que a aula apresenta: criar sua biblioteca de prompts pessoal é um tipo de investimento. No passado, você enriquecia sua capacidade produtiva contratando pessoas. Hoje, você pode investir em criar instruções bem definidas que fazem a IA trabalhar para você. Um prompt bem desenvolvido, testado e refinado é um ativo. Ele pode ser reutilizado, melhorado e adaptado. Quanto mais você desenvolve sua própria biblioteca, mais diferenciado você fica em relação a quem usa as IAs de forma genérica.
 
-## O que o Imã de Problemas não faz
+## O que o Ímã de Problemas não faz
 
-É importante deixar claro o escopo do Imã de Problemas para não gerar expectativas erradas sobre o que o prompt entrega.
+É importante deixar claro o escopo do Ímã de Problemas para não gerar expectativas erradas sobre o que o prompt entrega.
 
 O prompt não cria um ICP (Ideal Customer Profile, ou Perfil de Cliente Ideal). Ele mapeia dores de um segmento, mas o perfil do cliente ideal exige um processo adicional de refinamento que será desenvolvido nas próximas aulas.
 
@@ -113,5 +111,4 @@ O que ele faz é entregar clareza sobre onde a dor real do mercado está, com qu
 
 ## Coloque em prática
 
-Escolha o segmento de mercado que você está considerando para o seu negócio. Descreva em poucas frases quem são esses profissionais, como ganham dinheiro e qual é a sua principal suspeita de dor. Depois, rode o prompt do Imã de Problemas com essas informações. Quando receber o mapa de dores, revise a lista no primeiro checkpoint e remova ou adicione dores que você sabe por experiência que existem. Continue até o ranking. Identifique as três dores com maior pontuação e escreva em linguagem do cliente como você descreveria cada uma delas em uma frase curta. Essas três frases vão aparecer com frequência nas próximas etapas do processo de construção do negócio.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 33 minutos, o conteúdo completo excede o limite de palavras desta descrição; os conceitos e frameworks centrais foram priorizados.*
+Escolha o segmento de mercado que você está considerando para o seu negócio. Descreva em poucas frases quem são esses profissionais, como ganham dinheiro e qual é a sua principal suspeita de dor. Depois, rode o prompt do Ímã de Problemas com essas informações. Quando receber o mapa de dores, revise a lista no primeiro checkpoint e remova ou adicione dores que você sabe por experiência que existem. Continue até o ranking. Identifique as três dores com maior pontuação e escreva em linguagem do cliente como você descreveria cada uma delas em uma frase curta. Essas três frases vão aparecer com frequência nas próximas etapas do processo de construção do negócio.

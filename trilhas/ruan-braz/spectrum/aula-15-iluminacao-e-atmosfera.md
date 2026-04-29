@@ -1,5 +1,3 @@
-Cálculo interno: aula de ~75 minutos / 75 × 200 = 15000 palavras de fala / teto aplicado: 4000 palavras
-
 # Iluminação e atmosfera
 
 **Tempo estimado de leitura:** 20 minutos
@@ -171,4 +169,3 @@ Execute o laboratório de iluminação na sua ferramenta de geração preferida.
 Depois, repita o processo com enquadramentos: use o mesmo sujeito e troque apenas o enquadramento (full shot, medium shot, close-up, extreme close-up, wide shot, bird's eye view). Compare os resultados e registre qual termo produziu o enquadramento mais próximo do esperado.
 
 Essas duas séries de testes constroem um mapa prático do comportamento da ferramenta que você usa, que é mais útil do que qualquer lista teórica.
-*Esta descrição cobre os principais conteúdos da aula. Alguns exemplos visuais e demonstrações ao vivo, incluindo resultados gerados com cada termo de iluminação e enquadramento, estão disponíveis apenas no vídeo.*

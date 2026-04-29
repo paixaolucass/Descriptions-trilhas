@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [22 parágrafos totais] / [680 palavras estimadas] / [680 ÷ 200 = 3,4 minutos]
-
 # Boas-vindas ao Maestro
 
 **Tempo estimado de leitura:** 3 minutos
@@ -50,4 +48,3 @@ O instrutor é direto: não existe segredo em saber a ferramenta, não existe se
 ## Coloque em prática
 
 Defina em uma frase o que você quer fazer com geração de música com IA. Não precisa ser uma meta sofisticada: pode ser criar trilha sonora para vídeos, explorar composição pessoal, produzir conteúdo para redes sociais ou aprender o processo para trabalhar com clientes. Esse objetivo vai orientar suas escolhas ao longo de toda a trilha e vai te ajudar a medir se o que está aprendendo está se conectando com o que você quer construir.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

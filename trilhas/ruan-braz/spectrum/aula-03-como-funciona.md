@@ -1,5 +1,3 @@
-Cálculo interno: 12 blocos / 30 parágrafos totais / 2400 palavras estimadas / 2400 ÷ 200 = 12 minutos
-
 # O que é e como funciona a geração de imagens com IA
 
 **Tempo estimado de leitura:** 12 minutos
@@ -10,7 +8,7 @@ Ao final desta aula, você será capaz de:
 
 - Identificar a diferença entre modelos de linguagem (LLMs) e modelos de difusão usados na geração de imagens
 - Reconhecer como o processo de treinamento por desconstrução e reconstrução de pixels forma a base estatística da geração de imagens com IA
-- Distinguir as fases de evolução do Mid Journey da versão 1 à versão 7 e o que cada salto representou na história da criação visual com IA
+- Distinguir as fases de evolução do Midjourney da versão 1 à versão 7 e o que cada salto representou na história da criação visual com IA
 
 ## A abordagem prática desta trilha
 
@@ -44,21 +42,21 @@ O autocomplete dos aplicativos de celular é descrito por Ruan como o "tataravô
 
 Os modelos de difusão, por outro lado, operam com uma lógica diferente e são os responsáveis pela geração de imagens. Enquanto as LLMs trabalham com previsão token a token em texto, os modelos de difusão partem do ruído e limpam esse ruído progressivamente até que a imagem coerente emerja, guiada pelo prompt fornecido. É exatamente o processo invertido do treinamento descrito anteriormente.
 
-## A evolução do Mid Journey como linha do tempo da criação com IA
+## A evolução do Midjourney como linha do tempo da criação com IA
 
-Ruan apresenta uma linha do tempo visual da evolução do Mid Journey para mostrar como a geração de imagens com IA passou de uma curiosidade quase bizarra para algo capaz de gerar imagens fotorrealistas de alto nível.
+Ruan apresenta uma linha do tempo visual da evolução do Midjourney para mostrar como a geração de imagens com IA passou de uma curiosidade quase bizarra para algo capaz de gerar imagens fotorrealistas de alto nível.
 
-Na versão 1 do Mid Journey, as imagens geradas eram primitivas a ponto de ninguém usar a ferramenta para criação visual de verdade. A passagem para a versão 2 foi rápida, mas ainda havia muitas distorções: olhos mal formados, elementos misturados, anatomia incorreta. A IA estava começando a reconhecer padrões, mas ainda cometia erros graves de forma consistente.
+Na versão 1 do Midjourney, as imagens geradas eram primitivas a ponto de ninguém usar a ferramenta para criação visual de verdade. A passagem para a versão 2 foi rápida, mas ainda havia muitas distorções: olhos mal formados, elementos misturados, anatomia incorreta. A IA estava começando a reconhecer padrões, mas ainda cometia erros graves de forma consistente.
 
-Na versão 3, os problemas persistiam. Foi na versão 4, lançada por volta de 2022, que algo mudou de forma perceptível. As imagens passaram a ter uma qualidade que fez as pessoas perceberem o potencial real da tecnologia. Ruan descreve a reação de quem estava acompanhando naquele momento como um "Opa, peraí, tem coisa aí." Ele mesmo estava gerando imagens no Mid Journey em 2022 e presenciou esse salto em primeira mão.
+Na versão 3, os problemas persistiam. Foi na versão 4, lançada por volta de 2022, que algo mudou de forma perceptível. As imagens passaram a ter uma qualidade que fez as pessoas perceberem o potencial real da tecnologia. Ruan descreve a reação de quem estava acompanhando naquele momento como um "Opa, peraí, tem coisa aí." Ele mesmo estava gerando imagens no Midjourney em 2022 e presenciou esse salto em primeira mão.
 
-Naquele período, o Mid Journey funcionava dentro do Discord, o que criava uma barreira de entrada mais alta. Era necessário estudar a documentação, aprender a usar parâmetros no prompt e desenvolver um método próprio. Prompts muito grandes às vezes funcionavam, outras vezes não. Prompts curtos às vezes resolviam, outras vezes precisavam ser expandidos. Cada criador estava construindo seu próprio sistema, porque não havia ainda um protocolo estabelecido. Ruan desenvolveu o seu próprio método nesse contexto, entre o final de 2022 e o início de 2023, e esse método está registrado na apresentação de acompanhamento desta aula.
+Naquele período, o Midjourney funcionava dentro do Discord, o que criava uma barreira de entrada mais alta. Era necessário estudar a documentação, aprender a usar parâmetros no prompt e desenvolver um método próprio. Prompts muito grandes às vezes funcionavam, outras vezes não. Prompts curtos às vezes resolviam, outras vezes precisavam ser expandidos. Cada criador estava construindo seu próprio sistema, porque não havia ainda um protocolo estabelecido. Ruan desenvolveu o seu próprio método nesse contexto, entre o final de 2022 e o início de 2023, e esse método está registrado na apresentação de acompanhamento desta aula.
 
-As versões 5, 6 e 7 representaram melhorias progressivas. A versão 7, no entanto, ainda apresentava algumas distorções visíveis, como o braço anatomicamente estranho que Ruan aponta na imagem demonstrativa. A apresentação usada na aula já está desatualizada em relação à versão atual do Mid Journey, mas a relevância histórica justifica mantê-la.
+As versões 5, 6 e 7 representaram melhorias progressivas. A versão 7, no entanto, ainda apresentava algumas distorções visíveis, como o braço anatomicamente estranho que Ruan aponta na imagem demonstrativa. A apresentação usada na aula já está desatualizada em relação à versão atual do Midjourney, mas a relevância histórica justifica mantê-la.
 
 ## O meme da mão e por que ele explica a limitação dos modelos
 
-Um dos exemplos mais conhecidos das limitações dos modelos de geração de imagem é o chamado "meme da mão": a dificuldade que todas as versões do Mid Journey tinham para gerar mãos humanas de forma correta. Do versão 1 ao versão 7, passando por cada release intermediário, o problema da mão nunca foi completamente resolvido. Esse tipo de distorção é relativamente comum quando o usuário não sabe utilizar as ferramentas de forma adequada.
+Um dos exemplos mais conhecidos das limitações dos modelos de geração de imagem é o chamado "meme da mão": a dificuldade que todas as versões do Midjourney tinham para gerar mãos humanas de forma correta. Da versão 1 à versão 7, passando por cada release intermediário, o problema da mão nunca foi completamente resolvido. Esse tipo de distorção é relativamente comum quando o usuário não sabe utilizar as ferramentas de forma adequada.
 
 Esse fenômeno tem uma explicação lógica dentro do funcionamento dos modelos de difusão. As IAs não geram imagens da mesma forma que humanos. Humanos pensam na totalidade de uma figura antes de desenhá-la, com consciência intencional de cada elemento. A IA parte de padrões estatísticos e probabilidades. A mão humana é anatomicamente complexa, com muitas variações de posição, ângulo, número de dedos visíveis e contexto. Isso torna a geração estatisticamente desafiadora, porque os padrões são menos uniformes do que, por exemplo, os de um rosto de frente ou um animal quadrúpede.
 
@@ -90,7 +88,6 @@ Ruan posiciona essa capacidade de identificar onde a IA costuma falhar como part
 
 Antes de avançar para as próximas aulas da trilha, execute o seguinte exercício de fixação. Escolha uma imagem do seu acervo ou da internet, preferencialmente uma fotografia de pessoa ou animal. Observe essa imagem e tente descrever em palavras os padrões visuais que você reconhece: formato do rosto, posição dos olhos, textura da pele, relação entre os elementos, iluminação, cor predominante.
 
-Agora escreva um prompt para o Mid Journey ou outra ferramenta de geração que tente reconstruir essa imagem a partir da sua descrição. Esse exercício coloca você no papel da IA: você está fazendo o que o modelo faz, só que na direção inversa. A diferença é que você vai usar linguagem, e a IA vai usar vetores e probabilidades. Ao fazer esse exercício, você começa a perceber por que prompts mais precisos produzem imagens mais fiéis à intenção, e por que elementos complexos como mãos ou texto dentro de imagens ainda apresentam inconsistências nos modelos.
+Agora escreva um prompt para o Midjourney ou outra ferramenta de geração que tente reconstruir essa imagem a partir da sua descrição. Esse exercício coloca você no papel da IA: você está fazendo o que o modelo faz, só que na direção inversa. A diferença é que você vai usar linguagem, e a IA vai usar vetores e probabilidades. Ao fazer esse exercício, você começa a perceber por que prompts mais precisos produzem imagens mais fiéis à intenção, e por que elementos complexos como mãos ou texto dentro de imagens ainda apresentam inconsistências nos modelos.
 
 Depois de gerar a imagem, aplique o processo de validação: verifique especificamente as mãos, os olhos e qualquer texto que apareça. Registre os erros encontrados e tente reescrever o prompt para corrigi-los. Essa iteração de geração, validação e ajuste de prompt é o ciclo central do trabalho com geração de imagens por IA.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

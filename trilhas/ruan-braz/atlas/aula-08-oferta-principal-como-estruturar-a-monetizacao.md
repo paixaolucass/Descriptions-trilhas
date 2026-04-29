@@ -1,5 +1,3 @@
-Cálculo interno: 9 blocos / 30 parágrafos totais / 4000 palavras estimadas / 4000 ÷ 200 = 20 minutos
-
 # Oferta Principal: Como Estruturar a Monetização
 
 **Tempo estimado de leitura:** 20 minutos
@@ -66,9 +64,9 @@ Os add-ons surgem organicamente ao longo dessa jornada. À medida que o cliente 
 Com a estrutura de oferta definida, a pergunta seguinte é: quem são as pessoas que topam pagar R$5.000 pelo serviço de entrada e R$25.000 pelo serviço premium? Ruan aponta que essa pergunta só pode ser respondida com precisão depois que o escopo de soluções está claro. Não é possível definir o cliente ideal sem antes saber exatamente o que será entregue. Por isso, o exercício de definição do Perfil Ideal de Cliente (ICP) vem em sequência direta à construção do portfólio.
 
 O cliente que paga o serviço de entrada é alguém que já reconhece que tem um problema de atenção, que o conteúdo que produz não está gerando resultado e que precisa de uma solução estruturada para isso. O cliente que paga o serviço premium é alguém que já tem clientes, já tem receita, mas quer previsibilidade e quer que o negócio não dependa exclusivamente dele. São dois momentos diferentes da jornada, e o portfólio em camadas serve exatamente para capturar clientes em ambos os momentos.
-## O imã de problemas e a conexão com a oferta
+## O ímã de problemas e a conexão com a oferta
 
-Ruan revisita o exercício do imã de problemas para mostrar como os problemas mapeados se conectam diretamente à estrutura de oferta que está sendo montada. Os cinco problemas centrais identificados na pesquisa são: trabalhar muito e sobrar pouco, conteúdo que não vira contrato, receita imprevisível todo mês, dono virando gargalo do próprio negócio e medo de queimar reputação ao adotar inteligência artificial sem critério.
+Ruan revisita o exercício do ímã de problemas para mostrar como os problemas mapeados se conectam diretamente à estrutura de oferta que está sendo montada. Os cinco problemas centrais identificados na pesquisa são: trabalhar muito e sobrar pouco, conteúdo que não vira contrato, receita imprevisível todo mês, dono virando gargalo do próprio negócio e medo de queimar reputação ao adotar inteligência artificial sem critério.
 
 Cada um desses problemas tem uma resposta direta dentro do portfólio do estúdio. O cliente que trabalha muito e sobra pouco precisa de um sistema de criação com IA que reduza o esforço sem comprometer a qualidade. O conteúdo que não vira contrato precisa de uma documentação de posicionamento e de um processo de produção mais estratégico. A receita imprevisível precisa de um funil de captação e de uma cadência de geração de leads. O dono que se tornou gargalo precisa de processos documentados que permitam delegar etapas. E o medo de queimar reputação com IA precisa de uma infraestrutura de governança que garanta consistência e autenticidade na comunicação.
 
@@ -96,4 +94,3 @@ Esse é o modelo que Ruan propõe como ponto de partida para quem quer construir
 Com base no conteúdo dessa aula, construa o rascunho do seu portfólio de três camadas. Defina o escopo do seu serviço de entrada, o tíquete que você vai cobrar e o que o cliente vai receber ao final da entrega. Em seguida, descreva o serviço premium que você ofereceria como upsell natural depois do serviço de entrada, incluindo o tíquete estimado. Por último, liste três add-ons que fazem sentido dentro do seu mercado e que poderiam ser vendidos on-demand ao longo da jornada do cliente.
 
 Com esses três produtos definidos, faça o exercício de projeção de faturamento: estime quantos clientes de entrada você conseguiria fechar por mês com uma estrutura mínima de equipe, qual percentual faria o upsell premium e qual seria o faturamento mensal resultante. Registre os números e avalie se o modelo faz sentido para o momento do seu negócio.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

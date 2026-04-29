@@ -1,5 +1,3 @@
-Cálculo interno: 8 blocos / 48 parágrafos totais / 1.700 palavras estimadas / 1.700 ÷ 200 = 9 minutos
-
 # Depoimentos externos
 
 **Tempo estimado de leitura:** 9 minutos
@@ -15,15 +13,15 @@ Ao final desta aula, você será capaz de:
 
 ## O valor dos depoimentos externos
 
-Matheus apresenta os depoimentos externos como uma parte importante do perfil. Eles ajudam principalmente quem já trabalhou com clientes fora da Upwork.
+Mateus apresenta os depoimentos externos como uma parte importante do perfil. Eles ajudam principalmente quem já trabalhou com clientes fora da Upwork.
 
 Se o aluno tem um cliente antigo, pode solicitar um depoimento para adicionar à plataforma. Isso ajuda a criar autoridade antes mesmo de ter muitos projetos internos.
 
-Matheus usa como exemplo seu primeiro cliente internacional, conquistado pelo Behance.
+Mateus usa como exemplo seu primeiro cliente internacional, conquistado pelo Behance.
 
 ## Pedindo o depoimento
 
-Antes de enviar a solicitação pela Upwork, Matheus recomenda conversar com o cliente. Ele conta que mandou uma mensagem dizendo que estava começando a prospectar mais clientes internacionais e perguntou se o cliente poderia fazer um depoimento.
+Antes de enviar a solicitação pela Upwork, Mateus recomenda conversar com o cliente. Ele conta que mandou uma mensagem dizendo que estava começando a prospectar mais clientes internacionais e perguntou se o cliente poderia fazer um depoimento.
 
 Depois que o cliente aceitou, ele abriu o formulário da Upwork para adicionar o pedido.
 
@@ -41,13 +39,13 @@ Isso impede que depoimentos sejam enviados por qualquer pessoa sem validação, 
 
 O formulário também pede o cargo do cliente, tipo de projeto, data, nome da empresa e outras informações.
 
-No exemplo de Matheus, o cliente era fundador e o projeto era de identidade de marca. Informar cargo e empresa ajuda a reforçar reputação.
+No exemplo de Mateus, o cliente era fundador e o projeto era de identidade de marca. Informar cargo e empresa ajuda a reforçar reputação.
 
 Depois, o profissional escreve uma mensagem que chegará ao cliente solicitando a avaliação.
 
 ## Mensagem para o cliente
 
-Matheus sugere pedir uma avaliação em inglês. Se o cliente preferir enviar primeiro em outro idioma, o profissional pode traduzir depois.
+Mateus sugere pedir uma avaliação em inglês. Se o cliente preferir enviar primeiro em outro idioma, o profissional pode traduzir depois.
 
 O ideal é escolher clientes com quem já existe contato mais forte, porque isso aumenta a chance de receber um depoimento cuidadoso.
 
@@ -55,7 +53,7 @@ Se a pessoa não tem clientes antigos, pode pedir para alguém com quem trabalho
 
 ## Certificações
 
-Além dos depoimentos, Matheus mostra a área de certificações. O aluno pode adicionar certificados oficiais da lista ou certificados customizados.
+Além dos depoimentos, Mateus mostra a área de certificações. O aluno pode adicionar certificados oficiais da lista ou certificados customizados.
 
 Ele cita como exemplo adicionar um certificado de curso, como um curso da Overlens, preenchendo nome, instituição, descrição e outras informações.
 
@@ -63,7 +61,7 @@ A recomendação é usar palavras-chave também nessa área, porque elas ajudam 
 
 ## Certificados de idioma
 
-Matheus destaca certificados de idioma como especialmente úteis. Testes de proficiência em inglês podem gerar um marcador ao lado do idioma no perfil.
+Mateus destaca certificados de idioma como especialmente úteis. Testes de proficiência em inglês podem gerar um marcador ao lado do idioma no perfil.
 
 Esse sinal ajuda o cliente a perceber que o profissional tem fluência ou nível conversacional comprovado.
 
@@ -71,7 +69,7 @@ Ele ainda não adicionou esse tipo de teste, mas recomenda para quem tiver certi
 
 ## Histórico e experiências adicionais
 
-Matheus também recomenda preencher histórico de trabalho, descrições e experiências adicionais. Ele sugere usar bullets e palavras-chave.
+Mateus também recomenda preencher histórico de trabalho, descrições e experiências adicionais. Ele sugere usar bullets e palavras-chave.
 
 Experiências relevantes, premiações e projetos reconhecidos podem aumentar a autoridade do perfil.
 
@@ -90,4 +88,3 @@ Para cada uma, verifique:
 - se o depoimento pode ser escrito em inglês.
 
 Depois, envie uma mensagem simples pedindo autorização antes de solicitar pela Upwork.
-

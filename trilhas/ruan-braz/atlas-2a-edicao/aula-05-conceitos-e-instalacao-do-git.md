@@ -1,5 +1,3 @@
-Cálculo interno: 7 blocos / 24 parágrafos totais / 1400 palavras estimadas / 1400 ÷ 200 = 7 minutos
-
 # Conceitos e Instalação do Git
 
 **Tempo estimado de leitura:** 7 minutos

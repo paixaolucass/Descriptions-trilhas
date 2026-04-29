@@ -1,5 +1,3 @@
-Cálculo interno: [12 blocos] / [38 parágrafos totais] / [1480 palavras estimadas] / [1480 ÷ 200 = 8 minutos]
-
 # Plano de Mídias: Pontos de Contato
 
 **Tempo estimado de leitura:** 8 minutos

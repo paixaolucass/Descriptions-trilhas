@@ -1,5 +1,3 @@
-Cálculo interno: 10 blocos / 30 parágrafos totais / 1800 palavras estimadas / 1800 ÷ 200 = 9 minutos
-
 # Ética, Privacidade e Segurança em Apps com IA
 
 **Tempo estimado de leitura:** 9 minutos

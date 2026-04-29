@@ -1,5 +1,3 @@
-Cálculo interno: 8 blocos / 25 parágrafos totais / 1680 palavras estimadas / 1680 ÷ 200 = 9 minutos
-
 # Tempo, Energia, Clareza e Dinheiro
 
 **Tempo estimado de leitura:** 9 minutos

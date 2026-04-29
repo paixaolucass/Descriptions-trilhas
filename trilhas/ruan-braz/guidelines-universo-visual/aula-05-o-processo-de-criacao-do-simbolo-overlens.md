@@ -1,5 +1,3 @@
-Cálculo interno: [10 blocos] / [31 parágrafos totais] / [1700 palavras estimadas] / [1700 ÷ 200 = 9 minutos]
-
 # O processo de criação do símbolo Overlens
 
 **Tempo estimado de leitura:** 9 minutos

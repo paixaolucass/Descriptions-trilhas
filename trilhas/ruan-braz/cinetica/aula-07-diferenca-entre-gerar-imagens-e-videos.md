@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [32 parágrafos totais] / [1200 palavras estimadas] / [1200 ÷ 200 = 6 minutos]
-
 # Diferença entre gerar imagens e vídeos com IA
 
 **Tempo estimado de leitura:** 6 minutos
@@ -77,4 +75,3 @@ Ruan apresenta a faixa de duração que funciona melhor na maioria dos modelos a
 ## Coloque em prática
 
 Escolha uma imagem com licença Creative Commons, acesse o Seedance 1.5 Pro diretamente no site da ByteDance e gere quatro variações de um vídeo curto de 4 a 5 segundos usando a imagem como referência. Depois compare os resultados e identifique em quais deles ocorreu feature drift ou falha na física. Anote o que aconteceu e o que você mudaria no prompt para tentar evitar esses problemas.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

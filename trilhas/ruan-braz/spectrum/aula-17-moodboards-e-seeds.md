@@ -1,5 +1,3 @@
-Cálculo interno: 144 blocos / 25 parágrafos / 1400 palavras estimadas / 1400 ÷ 200 = 7 minutos
-
 # Moodboards e uso de seeds
 
 **Tempo estimado de leitura:** 7 minutos
@@ -10,7 +8,7 @@ Ao final desta aula, você será capaz de:
 
 - Estruturar um mood board com painel semântico no Figma seguindo as etapas usadas pela Overlens
 - Distinguir mood board de painel semântico e aplicar cada um no momento correto do processo criativo
-- Aplicar seeds no Mid-Journey para garantir consistência visual entre gerações de um mesmo projeto
+- Aplicar seeds no Midjourney para garantir consistência visual entre gerações de um mesmo projeto
 
 ## A aula que mostra o processo real, com a bagunça incluída
 
@@ -56,13 +54,13 @@ A etapa seguinte é o teste no ambiente real. A imagem candidata é colocada jun
 
 Ruan menciona um exemplo prático: a capa provisória do Atlas foi feita rápido para lançar o produto, mas nem ele nem a Thaís gostam dela porque ela desarmoniza o feed. A equipe já está trabalhando em um novo universo visual para o Atlas que vai harmonizar melhor com as outras trilhas.
 
-## Seeds no Mid-Journey: como usar o mood board para gerar imagens consistentes
+## Seeds no Midjourney: como usar o mood board para gerar imagens consistentes
 
-O uso de seeds aparece integrado ao processo de mood board no Mid-Journey. Quando você monta um mood board com imagens de referência e usa esse conjunto de imagens no prompt do Mid-Journey, o sistema gera um seed. Esse seed é um número que representa o ponto de partida da geração.
+O uso de seeds aparece integrado ao processo de mood board no Midjourney. Quando você monta um mood board com imagens de referência e usa esse conjunto de imagens no prompt do Midjourney, o sistema gera um seed. Esse seed é um número que representa o ponto de partida da geração.
 
-A informação importante: se você pegar esse seed e usar no Mid-Journey, vai gerar imagens no mesmo estilo daquelas que formaram o mood board. O seed preserva atmosfera, paleta e sensação visual. Ele é o que garante consistência entre gerações diferentes dentro do mesmo projeto.
+A informação importante: se você pegar esse seed e usar no Midjourney, vai gerar imagens no mesmo estilo daquelas que formaram o mood board. O seed preserva atmosfera, paleta e sensação visual. Ele é o que garante consistência entre gerações diferentes dentro do mesmo projeto.
 
-O processo na Overlens é: trabalha o mood board no Figma, seleciona as imagens no Mid-Journey, gera um seed a partir dessas referências e usa esse seed para todas as gerações do projeto. O resultado é uma linha de imagens estilisticamente coerentes mesmo quando o conteúdo varia.
+O processo na Overlens é: trabalha o mood board no Figma, seleciona as imagens no Midjourney, gera um seed a partir dessas referências e usa esse seed para todas as gerações do projeto. O resultado é uma linha de imagens estilisticamente coerentes mesmo quando o conteúdo varia.
 
 ## O processo é iterativo e não linear
 
@@ -76,5 +74,4 @@ Depois que o mood board está validado e as imagens são geradas e aprovadas, tu
 
 ## Coloque em prática
 
-Monte um mood board no Figma para um projeto real ou fictício com pelo menos 15 referências. Divida-o em dois painéis: o mood board visual (imagens por sensação e atmosfera) e o painel semântico (palavras e valores que o projeto deve comunicar). Depois leve essas referências para o Mid-Journey, use-as como base de um prompt, recupere o seed gerado e faça pelo menos três gerações usando esse seed. Observe a consistência entre elas.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*
+Monte um mood board no Figma para um projeto real ou fictício com pelo menos 15 referências. Divida-o em dois painéis: o mood board visual (imagens por sensação e atmosfera) e o painel semântico (palavras e valores que o projeto deve comunicar). Depois leve essas referências para o Midjourney, use-as como base de um prompt, recupere o seed gerado e faça pelo menos três gerações usando esse seed. Observe a consistência entre elas.

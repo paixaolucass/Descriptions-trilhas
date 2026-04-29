@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [18 parágrafos totais] / [850 palavras estimadas] / [850 ÷ 200 = 5 minutos]
-
 # O que é e como funciona a geração de textos com IA
 
 **Tempo estimado de leitura:** 5 minutos
@@ -43,5 +41,3 @@ O benefício duplo disso é que quanto mais você interpreta sobre a estrutura d
 ## Coloque em prática
 
 Escreva o mesmo pedido para a IA duas vezes: uma versão vaga e uma versão com contexto claro. Compare os resultados e identifique em qual dos três pontos, maldirecionamento, limitação técnica ou dados maltratados, o resultado mais fraco se encaixa. Esse exercício torna visível o que a aula descreve: a qualidade do output depende diretamente do quão claro está o seu input.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

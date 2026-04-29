@@ -1,5 +1,3 @@
-Cálculo interno: aula de ~55 minutos / 55 × 200 = 11000 palavras de fala / teto aplicado: 4000 palavras
-
 # Erros, mitos e limitações da geração de imagens
 
 **Tempo estimado de leitura:** 20 minutos
@@ -54,7 +52,7 @@ Esse processo não é burocrático: é a diferença entre chegar num resultado r
 Aceitar a primeira saída é pular da fase de Descoberta direto para a Entrega. Você não refinou, não explorou alternativas, não sabe se havia algo melhor.
 ## Erro 5: Não fixar seed e não documentar o setup
 
-Seed é um parâmetro que ainda é pouco usado, mas que é muito útil para quem trabalha com geração de imagens de forma sistemática. No Mid-Journey, por exemplo, o seed define o ponto de partida aleatório da geração. Usar o mesmo seed com o mesmo prompt produz resultados consistentes e reproduzíveis.
+Seed é um parâmetro que ainda é pouco usado, mas que é muito útil para quem trabalha com geração de imagens de forma sistemática. No Midjourney, por exemplo, o seed define o ponto de partida aleatório da geração. Usar o mesmo seed com o mesmo prompt produz resultados consistentes e reproduzíveis.
 
 Mas mesmo quando o seed não está disponível, existe um princípio equivalente: documentar o setup. Isso significa:
 
@@ -97,7 +95,7 @@ A IA não é uma copiadora e também não é uma criadora original no sentido hu
 
 A questão da originalidade depende do que você considera original. Se originalidade é algo que nunca existiu em nenhuma forma anterior, a IA raramente chega lá sozinha. Se originalidade é algo novo dentro de um contexto específico, a IA consegue contribuir significativamente.
 
-Para aumentar o grau de originalidade, existem mecanismos técnicos. No Mid-Journey, o parâmetro Weirdness (ou Strange) controla o nível de estranheza do resultado. Com Weirdness baixo, a IA produz os estilos e composições mais aprovados estatisticamente dentro da ferramenta: resultados seguros, previsíveis e esteticamente agradáveis para a maioria. Com Weirdness alto, a IA começa a tomar caminhos menos prováveis, gerando imagens que quebram os padrões estatísticos e trazem graus de estranheza que podem ser criativamente úteis.
+Para aumentar o grau de originalidade, existem mecanismos técnicos. No Midjourney, o parâmetro Weirdness (ou Strange) controla o nível de estranheza do resultado. Com Weirdness baixo, a IA produz os estilos e composições mais aprovados estatisticamente dentro da ferramenta: resultados seguros, previsíveis e esteticamente agradáveis para a maioria. Com Weirdness alto, a IA começa a tomar caminhos menos prováveis, gerando imagens que quebram os padrões estatísticos e trazem graus de estranheza que podem ser criativamente úteis.
 
 O equivalente conceitual nas LLMs é a temperatura: aumentar a temperatura faz a IA alucinar, traçar caminhos menos seguidos estatisticamente, gerar coisas mais imprevisíveis e potencialmente mais originais.
 
@@ -161,4 +159,3 @@ O que separa resultados mediocres de resultados precisos não é a ferramenta. A
 Antes do próximo projeto com IA, escreva um briefing com três respostas: qual é a função da imagem, em qual canal ela vai ser usada e qual sensação ela precisa provocar. Escreva isso antes de abrir qualquer ferramenta. Com o briefing em mãos, gere pelo menos dez variações antes de escolher. Documente o prompt que funcionou melhor e as palavras-chave que mais influenciaram o resultado.
 
 Para testar a limitação da negação, experimente pedir a qualquer modelo de difusão pura (não multimodal) "uma savana sem elefante" e observe o resultado. Compare com "uma savana vazia" e registre a diferença de precisão. Esse experimento ilustra o princípio de focar no que você deseja, não no que quer evitar.
-*Esta descrição cobre os principais conteúdos da aula. Alguns exemplos visuais e demonstrações ao vivo estão disponíveis apenas no vídeo.*

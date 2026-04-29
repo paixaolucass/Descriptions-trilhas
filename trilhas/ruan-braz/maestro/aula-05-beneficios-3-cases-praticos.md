@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [30 parágrafos totais] / [2200 palavras estimadas] / [2200 ÷ 200 = 11 minutos]
-
 # Benefícios: 3 cases práticos
 
 **Tempo estimado de leitura:** 11 minutos
@@ -112,4 +110,3 @@ Quem entende isso tem um horizonte mais expandido sobre o que está sendo constr
 ## Coloque em prática
 
 Escolha uma música da sua biblioteca que tenha múltiplos instrumentos. Acesse o Moises ou uma ferramenta equivalente de separação de stems e envie o arquivo. Isole ao menos duas faixas separadas e ouça cada uma por si. Observe o que a separação revela sobre como o arranjo foi construído. Em seguida, pense em como você usaria uma dessas faixas em um projeto próprio: como acompanhamento, como sample, como referência de timbre. Registre a ideia. Esse exercício desenvolve o olhar analítico sobre arranjos e começa a mostrar na prática o que a separação de stems torna possível.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

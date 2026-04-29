@@ -1,5 +1,3 @@
-Cálculo interno: 132 blocos / 22 parágrafos / 1200 palavras estimadas / 1200 ÷ 200 = 6 minutos
-
 # Lista de hubs e referências
 
 **Tempo estimado de leitura:** 6 minutos
@@ -61,4 +59,3 @@ Esta aula fecha o módulo de fundamentos sobre ferramentas. O próximo módulo e
 ## Coloque em prática
 
 Acesse o Freepik e experimente pelo menos dois modelos diferentes para gerar a mesma descrição de imagem. Compare os resultados lado a lado: estilo, qualidade, interpretação do prompt. Anote qual modelo se aproxima mais do que você precisa para projetos reais e use essa comparação para definir sua ferramenta principal de trabalho.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

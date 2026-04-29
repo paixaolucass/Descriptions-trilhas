@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [392 palavras estimadas] / [392 ÷ 200 = 2 minutos]
-
 # A personalidade atraente
 
 **Tempo estimado de leitura:** 2 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: 418 timestamps / 38 parágrafos / 4000 palavras estimadas / 4000 ÷ 200 = 20 minutos
-
 # Como Acompanhar as Melhores Ferramentas e Critérios para Escolher a Ferramenta Certa
 
 **Tempo estimado de leitura:** 20 minutos
@@ -137,7 +135,7 @@ Embora a lista completa de ferramentas seja apresentada nas aulas seguintes, o i
 
 **Cloud Code e GPT Codex:** Citados como ferramentas para quem está no nível avançado de desenvolvimento com IA. Para usuários iniciantes e intermediários de geração de imagem, não são relevantes ainda.
 
-**MidJourney:** Citado com upscale interno considerado muito bom. O Spaces da Thais demonstrado na aula usa um exemplo feito no MidJourney com parâmetros visíveis na tela. Continua como referência técnica de qualidade no mercado, especialmente para geração de imagem com controle de estilo.
+**Midjourney:** Citado com upscale interno considerado muito bom. O Spaces da Thais demonstrado na aula usa um exemplo feito no Midjourney com parâmetros visíveis na tela. Continua como referência técnica de qualidade no mercado, especialmente para geração de imagem com controle de estilo.
 
 **Hugging Face:** Repositório com 2.685.631 modelos de IA catalogados, incluindo 92.000 modelos de text-to-image. Usado como exemplo de por que é impossível testar tudo. Para usuários de nível hardcore, vale acompanhar os "spotlights", modelos que surgem de surpresa e quebram paradigmas. Para todos os outros, a recomendação é usar IA para filtrar quais modelos do Hugging Face são relevantes.
 ## Diferença entre sinal e ruído na prática: dois exemplos concretos
@@ -159,4 +157,3 @@ A distinção entre fundamento e ferramenta é o coração de toda a pedagogia d
 Depois desta aula, o instrutor vai apresentar as ferramentas em aulas curtas e objetivas. Cada aula cobre uma ferramenta ou categoria de ferramenta. O formato é de apresentação, não de tutorial aprofundado. O objetivo é que você mapeie o caminho, saiba para onde ir e consiga se orientar dentro de cada ferramenta com o seu próprio teste.
 
 As categorias que serão cobertas incluem: geração (text-to-image), controle (image-to-image, edição, inpainting), produção (upscaling, enhance), integração com pipeline de vídeo e exemplos de ferramentas especializadas por contexto de uso. Ao final do módulo de ferramentas, a trilha avança para as aulas de criação, onde o instrutor vai demonstrar projetos completos de ponta a ponta usando as ferramentas apresentadas.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 20 minutos, alguns detalhes de demonstração prática estão disponíveis apenas no vídeo.*

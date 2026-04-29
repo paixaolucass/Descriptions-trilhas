@@ -1,5 +1,3 @@
-Cálculo interno: 9 blocos / 68 parágrafos totais / 4000 palavras estimadas / 4000 ÷ 200 = 20 minutos
-
 # Colocar Página no Ar e Criativos Rodando - Parte 1
 
 **Tempo estimado de leitura:** 20 minutos
@@ -146,4 +144,3 @@ Essas três camadas formam um ecossistema de receita que fica mais robusto com o
 - No ChatGPT, cole sua tese de valor e peça a geração de copy para três criativos: um para diagnóstico, um para página de captura e um script de vídeo de 30 segundos.
 - Pesquise três referências visuais no Pinterest ou na Biblioteca de Anúncios do Meta. Suba no NanoBanana com o prompt de copy e gere entre 5 e 10 variações de criativo. Salve os que passarem no crivo mínimo de legibilidade e comunicação.
 - Configure um anúncio pelo Instagram: defina o destino (WhatsApp, Tali ou site), o público (aberto com idade mínima de 28 anos) e o orçamento (R$ 20 a R$ 30 por dia por 5 dias). Após 3 dias, registre impressões, cliques e conversões e use os dados para ajustar criativo, público ou copy.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 102 minutos, o conteúdo completo excede o limite de palavras desta descrição; os conceitos e frameworks centrais foram priorizados.*

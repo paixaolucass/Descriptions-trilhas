@@ -1,5 +1,3 @@
-Cálculo interno: [13 blocos] / [40 parágrafos totais] / [2170 palavras estimadas] / [2170 ÷ 200 = 11 minutos]
-
 # Como Criar um Ímã de Leads Eficiente
 
 **Tempo estimado de leitura:** 11 minutos
@@ -75,7 +73,7 @@ O terceiro tipo entrega ao cliente o primeiro passo do serviço principal, sem e
 
 Para identidade visual, o primeiro passo natural é o diagnóstico: a identidade atual está bem feita, bem aplicada, a comunicação é consistente? Você pode fazer esse diagnóstico e entregar em formato de reunião, de vídeo gravado da tela ou de relatório no Google Docs, apontando o que está funcionando e o que não está. Por exemplo: o logo no Instagram comunica de um jeito, no site de outro, há inconsistência de fonte e de tom, a marca não está ocupando espaço na cabeça das pessoas da forma que deveria.
 
-Para design editorial, Vinni sugere uma abordagem mais visual: pegar uma página ou uma dupla crucial de um livro ou revista, diagramar ela com tipografia, grid e layout usando a sua especialidade, e mostrar como ficaria o livro ou a revista inteira com esse tratamento. A pessoa vê a página, entende a qualidade, e percebe que precisa disso em todo o projeto. Ela não vai usar só aquela página, ela vai querer contratar o serviço completo.
+Para design editorial, Vinni sugere uma abordagem mais visual: pegar uma página ou uma página dupla importante de um livro ou revista, diagramar essa página com tipografia, grid e layout usando a sua especialidade, e mostrar como ficaria o livro ou a revista inteira com esse tratamento. A pessoa vê a página, entende a qualidade, e percebe que precisa disso em todo o projeto. Ela não vai usar só aquela página, ela vai querer contratar o serviço completo.
 
 ## Como usar IA para gerar ideias de ímã de leads
 

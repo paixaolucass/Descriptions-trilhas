@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [39 parágrafos totais] / [Bloco 1: 4p x 45 = 180; Bloco 2: 8p x 45 = 360; Bloco 3: 7p x 45 = 315; Bloco 4: 7p x 45 = 315; Bloco 5: 5p x 45 = 225; Bloco 6: 7p x 45 = 315; Bloco 7: 5p x 45 = 225; Título/Obj/Prática: 4p x 30 = 120; Total = 2.055 palavras] / [2.055 ÷ 200 = 10,28 → 11 minutos]
-
 # Apresentação e Fechamento de Propostas
 
 **Tempo estimado de leitura:** 11 minutos
@@ -14,7 +12,7 @@ Ao final desta aula, você será capaz de:
 
 ## O mapa da venda consultiva: visão geral das quatro etapas
 
-O processo ensinado nesta aula é um mapa adaptado para criativos com quatro etapas: mapear, analisar, posicionar e apontar. A lógica é de uma jornada: cada etapa constrói o terreno para a próxima, e a proposta de valores só aparece na quarta etapa, depois de todo o diagnóstico feito.
+O processo ensinado nesta aula é um mapa adaptado para criativos com quatro etapas: mapear, analisar, posicionar e apontar. A lógica é de uma jornada: cada etapa constrói o terreno para a próxima, e a proposta de valor só aparece na quarta etapa, depois de todo o diagnóstico feito.
 
 Mapear é preparar o terreno antes e durante a abertura da conversa. Analisar é o diagnóstico real: onde o cliente está, onde quer chegar e o que já tentou. Posicionar é o momento de organizar o que você ouviu, dar nome ao problema e mostrar clareza. Apontar é conectar esse problema à sua solução, guiar para os próximos passos e apresentar o investimento.
 

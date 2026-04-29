@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [31 parágrafos totais] / [1395 palavras estimadas] / [1395 ÷ 200 = 7 minutos]
-
 # A depressão e os degraus
 
 **Tempo estimado de leitura:** 7 minutos

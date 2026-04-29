@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [23 parágrafos totais] / [980 palavras estimadas] / [980 ÷ 200 = 5 minutos]
-
 # Entenda o propósito do projeto
 
 **Tempo estimado de leitura:** 5 minutos

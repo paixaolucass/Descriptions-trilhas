@@ -1,5 +1,3 @@
-Cálculo interno: [9 blocos] / [36 parágrafos totais] / [3400 palavras estimadas] / [3400 ÷ 200 = 17 minutos]
-
 # Visão geral de categorias de ferramentas
 
 **Tempo estimado de leitura:** 17 minutos
@@ -185,4 +183,3 @@ Esse fluxo não é linear em todos os projetos, mas serve como referência de or
 Mapeie seu fluxo atual de produção de vídeo e identifique em quais das 9 categorias você já tem uma ferramenta em uso e em quais ainda não tem nenhuma. Para cada categoria sem ferramenta, escolha uma opção da lista desta aula e teste por 30 minutos. Ao final, decida se ela entra no seu fluxo ou se você precisa buscar uma alternativa.
 
 Escolha também um vídeo que você já gerou em resolução padrão e aplique upscale nele usando Topaz ou DaVinci. Compare o antes e o depois e avalie quanto tempo você economizaria se tivesse gerado em baixa resolução desde o início.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

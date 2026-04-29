@@ -1,5 +1,3 @@
-Cálculo interno: [13 blocos] / [52 parágrafos totais] / [2.340 palavras estimadas] / [2.340 ÷ 200 = 12 minutos]
-
 # Despertando as Emoções e Sentimentos
 
 **Tempo estimado de leitura:** 12 minutos

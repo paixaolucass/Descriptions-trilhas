@@ -1,5 +1,3 @@
-Cálculo interno: 8 blocos / 48 parágrafos totais / 1.700 palavras estimadas / 1.700 ÷ 200 = 9 minutos
-
 # Pesquisando perfis de referência
 
 **Tempo estimado de leitura:** 9 minutos
@@ -15,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## O perfil como segunda entrada do cliente
 
-Matheus inicia a aula explicando que o perfil é uma das partes mais importantes da Upwork. Ele funciona como a segunda entrada do cliente para saber mais sobre o profissional.
+Mateus inicia a aula explicando que o perfil é uma das partes mais importantes da Upwork. Ele funciona como a segunda entrada do cliente para saber mais sobre o profissional.
 
 A primeira camada será a proposta, que será trabalhada em aulas futuras. Depois de ler a proposta, o cliente tende a abrir o perfil para verificar descrição, portfólio, histórico de trabalho, depoimentos e outras informações.
 
@@ -23,7 +21,7 @@ Por isso, o perfil precisa sustentar o que a proposta promete. Se a proposta cha
 
 ## Pesquisar antes de montar
 
-Antes de escrever título, bio ou organizar portfólio, Matheus recomenda pesquisar o que já está funcionando na plataforma.
+Antes de escrever título, bio ou organizar portfólio, Mateus recomenda pesquisar o que já está funcionando na plataforma.
 
 A ideia é observar profissionais que já têm mais resultado, mais projetos e mais autoridade dentro da Upwork. Essa pesquisa funciona como benchmarking.
 
@@ -31,7 +29,7 @@ O aluno deve observar títulos, descrições, portfólios, histórico, depoiment
 
 ## Pesquisa por talentos
 
-Matheus mostra que, dentro da Upwork, é possível trocar a busca de jobs para talentos. Em vez de procurar projetos, o aluno pesquisa profissionais.
+Mateus mostra que, dentro da Upwork, é possível trocar a busca de jobs para talentos. Em vez de procurar projetos, o aluno pesquisa profissionais.
 
 A recomendação é buscar pela própria área de atuação, como Graphic Design, Brand Identity, Landing Page ou outro nicho.
 
@@ -39,7 +37,7 @@ A partir daí, aparecem perfis com diferentes níveis de resultado, desde pessoa
 
 ## Filtros da busca
 
-A busca por talentos possui filtros laterais e pesquisa avançada. Matheus cita filtros como insígnias, valor por hora, skills, localização, fuso horário, tipo de profissional, disponibilidade para full time, consultorias e categorias.
+A busca por talentos possui filtros laterais e pesquisa avançada. Mateus cita filtros como insígnias, valor por hora, skills, localização, fuso horário, tipo de profissional, disponibilidade para full time, consultorias e categorias.
 
 Para benchmarking inicial, ele gosta de filtrar por freelancers. Também sugere observar profissionais brasileiros para ver quem já está tendo sucesso na plataforma.
 
@@ -47,7 +45,7 @@ Um filtro importante é o valor já recebido dentro da Upwork. A plataforma most
 
 ## O ajuste manual no filtro de ganhos
 
-Matheus mostra uma estratégia simples para encontrar profissionais com mais de 100 mil dólares recebidos. Depois de aplicar o filtro de 10 mil dólares, ele altera manualmente o número na URL, adicionando mais um zero.
+Mateus mostra uma estratégia simples para encontrar profissionais com mais de 100 mil dólares recebidos. Depois de aplicar o filtro de 10 mil dólares, ele altera manualmente o número na URL, adicionando mais um zero.
 
 Com isso, os resultados passam a mostrar profissionais com mais de 100 mil dólares na plataforma.
 
@@ -55,7 +53,7 @@ Essa técnica ajuda a estudar perfis mais fortes, com mais histórico e mais dad
 
 ## O primeiro projeto exibido
 
-Na busca de talentos, a Upwork mostra um projeto na lateral do perfil. Matheus destaca que esse primeiro projeto precisa ser o melhor projeto do perfil.
+Na busca de talentos, a Upwork mostra um projeto na lateral do perfil. Mateus destaca que esse primeiro projeto precisa ser o melhor projeto do perfil.
 
 Esse item aparece antes mesmo de o cliente abrir o perfil completo. Por isso, o projeto principal deve comunicar qualidade rapidamente.
 
@@ -63,7 +61,7 @@ Ao estudar outros profissionais, o aluno deve abrir esses projetos, observar apr
 
 ## Oportunidade para brasileiros
 
-Matheus comenta que, ao pesquisar perfis grandes, viu profissionais com muito resultado mas qualidade visual inferior ao que muitos designers brasileiros conseguem entregar.
+Mateus comenta que, ao pesquisar perfis grandes, viu profissionais com muito resultado mas qualidade visual inferior ao que muitos designers brasileiros conseguem entregar.
 
 Isso mostra que o resultado na plataforma não depende apenas da qualidade do design. Também depende de posicionamento, tempo de plataforma, consistência, reputação e uso correto do perfil.
 
@@ -71,7 +69,7 @@ Para o aluno, essa percepção ajuda a reduzir a distância mental em relação 
 
 ## O que observar nos perfis
 
-Ao abrir perfis de referência, Matheus recomenda ler a descrição, observar o título, as tags, os projetos, os depoimentos, o histórico e as insígnias.
+Ao abrir perfis de referência, Mateus recomenda ler a descrição, observar o título, as tags, os projetos, os depoimentos, o histórico e as insígnias.
 
 Ele cita o exemplo de um profissional brasileiro de packaging design com selo Top Rated Plus. O aluno pode ver projetos, critérios de avaliação, certificados, tags e o texto de posicionamento.
 
@@ -92,4 +90,3 @@ Depois, selecione cinco perfis de referência e anote:
 - valor total recebido.
 
 Use isso como referência para montar seu perfil, sem copiar textos ou posicionamentos.
-

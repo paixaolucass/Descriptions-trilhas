@@ -1,5 +1,3 @@
-Cálculo interno: [13 blocos] / [54 parágrafos totais] / [3950 palavras estimadas] / [3950 ÷ 200 = 20 minutos]
-
 # Prompts básicos e boas práticas para música
 
 **Tempo estimado de leitura:** 20 minutos
@@ -216,4 +214,3 @@ Ruan encerra afirmando que tudo que foi apresentado nesta aula representa ferram
 ## Coloque em prática
 
 Escolha um projeto que já tem ou que quer criar: uma música com letra, uma trilha instrumental ou um Sonic logo para uma marca. Escreva o prompt usando os quatro blocos do Método Maestro: gênero (tags), vocalista (tags em inglês), clima (adjetivos), instrumentação (timbres específicos). Use o campo Exclude Styles para eliminar pelo menos dois elementos que definitivamente não quer no resultado. Gere a música e analise o que saiu. Se algum elemento inesperado apareceu, identifique qual tag pode ter criado um poço de gravidade e substitua por um termo mais específico. Na próxima versão, adicione pelo menos um marcador de dinâmica (crescendo, fortíssimo, pianíssimo) e observe o impacto.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

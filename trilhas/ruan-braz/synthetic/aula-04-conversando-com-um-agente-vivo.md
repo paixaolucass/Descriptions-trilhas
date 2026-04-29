@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [17 parágrafos totais] / [750 palavras estimadas] / [750 ÷ 200 = 4 minutos]
-
 # Conversando com um agente vivo
 
 **Tempo estimado de leitura:** 4 minutos
@@ -49,5 +47,3 @@ O uso ético de personas sintéticas fica dentro dos limites de: criar personage
 ## Coloque em prática
 
 Acesse o Character.ai e crie um personagem usando a ficha de persona que você construiu nas aulas anteriores. Preencha os campos com as informações da ficha, gere a descrição com auxílio de IA e inicie uma chamada de voz com o personagem. Observe como a voz e as respostas correspondem ao que você documentou e anote o que funcionou e o que precisaria de ajuste.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

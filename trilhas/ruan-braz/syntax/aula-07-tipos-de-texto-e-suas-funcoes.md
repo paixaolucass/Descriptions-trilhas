@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [20 parágrafos totais] / [900 palavras estimadas] / [900 ÷ 200 = 5 minutos]
-
 # Tipos de texto e suas funções
 
 **Tempo estimado de leitura:** 5 minutos
@@ -61,5 +59,3 @@ Quando as três perguntas são respondidas antes do prompt, o texto sai estrutur
 ## Coloque em prática
 
 Pegue os últimos três textos escritos ou gerados com IA e identifique qual tipo textual está rodando em cada um. O texto está tentando emocionar através de um manual de instruções? Tentando vender através de uma poesia? Se o motor está no veículo errado, identifique o desalinhamento e corrija o tipo textual.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

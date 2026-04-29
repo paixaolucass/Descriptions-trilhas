@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [23 parágrafos totais] / [1050 palavras estimadas] / [1050 ÷ 200 = 5 minutos]
-
 # Escrevendo um manifesto
 
 **Tempo estimado de leitura:** 5 minutos
@@ -63,5 +61,3 @@ Terceiro, revisão assistida por IA com critérios explícitos: ritmo, intençã
 ## Coloque em prática
 
 Comece pela arqueologia: reúna pelo menos dez manifestos de áreas que você admira e disseque cada um pelos sete elementos apresentados. Use a IA para ajudar na análise. Depois responda as cinco perguntas da intenção diretiva para o manifesto que você quer escrever. Só depois disso abra um documento e comece a gerar texto. O processo é longo por design: um manifesto que funciona não nasce de um prompt, nasce de um processo.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

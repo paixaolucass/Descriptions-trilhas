@@ -1,5 +1,3 @@
-Cálculo interno: [9 blocos] / [27 parágrafos totais] / [1170 palavras estimadas] / [1170 ÷ 200 = 6 minutos]
-
 # Paleta de cores
 
 **Tempo estimado de leitura:** 6 minutos

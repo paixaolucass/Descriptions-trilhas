@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [42 parágrafos totais] / [2950 palavras estimadas] / [2950 ÷ 200 = 15 minutos]
-
 # Como funciona a geração de música com IA
 
 **Tempo estimado de leitura:** 15 minutos
@@ -124,4 +122,3 @@ O instrutor também contextualiza o impacto mais amplo dessa tecnologia. A chega
 ## Coloque em prática
 
 Abra o Gemini e acesse a função Deep Research. Digite um pedido estruturado pedindo uma pesquisa detalhada sobre as melhores práticas, técnicas e ferramentas para produção musical com IA. Inclua no pedido que ele busque em comunidades, Reddit, artigos e opiniões de especialistas. Se estiver no modo Pro, deixe o Gemini pesquisar sem interromper: o processo leva entre 5 e 10 minutos e consulta centenas de fontes. Ao receber o relatório, salve-o como um Google Doc e use-o como seu documento Estado da Arte pessoal ao longo de toda a trilha. Baixe também o glossário disponível nos materiais desta aula e mantenha-o aberto enquanto assiste às próximas aulas.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

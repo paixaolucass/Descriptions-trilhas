@@ -1,5 +1,3 @@
-Cálculo interno: 13 blocos / 38 parágrafos totais / 2760 palavras estimadas / 2760 ÷ 200 = 14 minutos
-
 # Contexto de Mercado e Futuro da Economia Criativa
 
 **Tempo estimado de leitura:** 14 minutos
@@ -116,8 +114,6 @@ A análise de todo o contexto de mercado leva à tese central que vai orientar a
 Enquanto a maioria está impressionando com truques visuais básicos ou protestando contra o uso de IA, uma parcela pequena do mercado está usando a tecnologia de forma estruturada e silenciosa. Essa parcela está construindo processos, bibliotecas de prompts, fluxos de automação e vantagens competitivas que vão ser difíceis de alcançar quando o mercado perceber o que foi construído.
 
 A tese se apoia nos dados apresentados: a adoção de IA é massiva, a qualidade média está caindo, os empregos estão se transferindo e o diferencial que vai sobrar é a habilidade nexialista. Não apertar botões. Não aprender ferramenta. Saber conectar, orquestrar e realizar ideias com profundidade.
-
-Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.
 
 ## Coloque em prática
 

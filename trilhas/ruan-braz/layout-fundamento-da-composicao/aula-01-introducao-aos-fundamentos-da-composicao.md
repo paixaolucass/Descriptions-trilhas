@@ -1,5 +1,3 @@
-Cálculo interno: [13 blocos] / [39 parágrafos totais] / [2260 palavras estimadas] / [2260 ÷ 200 = 12 minutos]
-
 # Introdução aos fundamentos da composição
 
 **Tempo estimado de leitura:** 12 minutos

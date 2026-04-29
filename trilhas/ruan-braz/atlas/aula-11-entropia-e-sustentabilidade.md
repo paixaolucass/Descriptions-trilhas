@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [18 parágrafos totais] / [1400 palavras estimadas] / [1400 ÷ 200 = 7 minutos]
-
 # Entropia e Sustentabilidade
 
 **Tempo estimado de leitura:** 7 minutos
@@ -59,4 +57,3 @@ Validar é a primeira tarefa. Antes de investir meses de trabalho numa identidad
 ## Coloque em prática
 
 Mapeie onde o seu negócio ou projeto atual está no espectro da entropia à antifragilidade. Ele está no caos total, sem direção definida? Está ganhando regulação, com alguns processos estabelecidos? Está em processo de escalonamento? Escreva em um parágrafo onde você se vê agora e quais são os dois próximos passos concretos para avançar um estágio. Esse exercício coloca você no papel de diagnóstico estratégico, que é o ponto de partida para qualquer movimento com direção.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

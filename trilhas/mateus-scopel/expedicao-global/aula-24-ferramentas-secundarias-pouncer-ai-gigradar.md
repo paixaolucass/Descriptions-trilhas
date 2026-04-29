@@ -1,4 +1,3 @@
-Cálculo interno: 5 blocos / 29 parágrafos totais / 1110 palavras estimadas / 1110 ÷ 200 = 6 minutos
 # Ferramentas Secundárias: Pouncer AI e Gigradar
 
 **Tempo estimado de leitura:** 6 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [379 palavras estimadas] / [379 ÷ 200 = 2 minutos]
-
 # Produção de conteúdo
 
 **Tempo estimado de leitura:** 2 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [24 parágrafos totais] / [990 palavras estimadas] / [990 ÷ 200 = 5 minutos]
-
 # Paleta tipográfica
 
 **Tempo estimado de leitura:** 5 minutos

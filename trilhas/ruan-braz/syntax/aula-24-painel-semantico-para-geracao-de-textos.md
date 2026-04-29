@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [22 parágrafos totais] / [1000 palavras estimadas] / [1000 ÷ 200 = 5 minutos]
-
 # Painel semântico para geração de textos
 
 **Tempo estimado de leitura:** 5 minutos
@@ -67,5 +65,3 @@ A verdadeira transformação começa quando o raciocínio claro encontra um voca
 ## Coloque em prática
 
 Construa o seu primeiro painel semântico: reúna pelo menos 50 termos sem filtro relacionados a um projeto, marca ou narrativa que você está desenvolvendo. Agrupe-os em núcleos, valores, emoções, metáforas, imagens, termos técnicos. Depois use o prompt de estrategista de linguagem para que a IA ajude a organizar o DNA verbal. Filtre o que for clichê e guarde o que revelar algo que você ainda não havia nomeado.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

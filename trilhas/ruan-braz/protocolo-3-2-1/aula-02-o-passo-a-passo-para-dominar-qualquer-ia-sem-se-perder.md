@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [17 parágrafos totais] / [920 palavras estimadas] / [920 ÷ 200 = 5 minutos]
-
 # O passo a passo para dominar QUALQUER IA sem se perder
 
 **Tempo estimado de leitura:** 5 minutos
@@ -74,5 +72,3 @@ Antes de buscar qualquer tutorial, pergunte a uma IA quais são os fundamentos d
 Com a resposta em mãos, separe o que são fatos, o que são conceitos e o que são procedimentos.
 
 Comece pelo estudo dos conceitos antes de ir para os procedimentos.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: [3 blocos] / [14 parágrafos totais] / [600 palavras estimadas] / [600 ÷ 200 = 3 minutos]
-
 # Conclusão da persona
 
 **Tempo estimado de leitura:** 3 minutos
@@ -41,5 +39,3 @@ Cada ferramenta tem versão gratuita com limitações e versão paga com maior q
 ## Coloque em prática
 
 Defina um caso de uso real para personas sintéticas no seu projeto ou empresa. Qual recorte de público seria mais útil ter como persona sintética agora? Para validar uma oferta nova, para treinar equipe de vendas, para criar conteúdo educacional, para simular conversas de atendimento? Com o caso de uso definido, volte à aula 2 e construa a ficha completa dessa persona. Use as ferramentas apresentadas no curso para dar vida a ela, começando pelo texto e avançando para voz ou vídeo conforme o caso exigir.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,4 +1,3 @@
-Cálculo interno: 7 blocos / 40 parágrafos totais / 1530 palavras estimadas / 1530 ÷ 200 = 8 minutos
 # Filtros Avançados
 
 **Tempo estimado de leitura:** 8 minutos

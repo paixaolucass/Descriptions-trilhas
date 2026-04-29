@@ -1,5 +1,3 @@
-Cálculo interno: 13 blocos / 61 parágrafos totais / 1.750 palavras estimadas / 1.750 ÷ 200 = 9 minutos
-
 # Direcionamento
 
 **Tempo estimado de leitura:** 9 minutos

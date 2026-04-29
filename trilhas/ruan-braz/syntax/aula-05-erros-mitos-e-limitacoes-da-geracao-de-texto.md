@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [35 parágrafos totais] / [1600 palavras estimadas] / [1600 ÷ 200 = 8 minutos]
-
 # Erros, mitos e limitações da geração de texto
 
 **Tempo estimado de leitura:** 8 minutos
@@ -85,5 +83,3 @@ Ruan menciona que essa limitação está no centro do debate sobre inteligência
 ## Coloque em prática
 
 Identifique qual dos três erros, tratar a IA como botão mágico, delegar decisões ou aceitar o primeiro output como final, mais se aplica ao seu uso atual. Para esse erro específico, estabeleça uma regra pessoal: o que você vai fazer diferente na próxima vez que abrir uma ferramenta de texto? Escreva essa regra antes de avançar para a próxima aula.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: 8 blocos / 26 parágrafos totais / 2600 palavras estimadas / 2600 ÷ 200 = 13 minutos
-
 # Perfil de Cliente - Parte 1
 
 **Tempo estimado de leitura:** 13 minutos
@@ -82,4 +80,3 @@ O que importa neste momento é ter os critérios registrados no documento estrat
 ## Coloque em prática
 
 Com o documento estratégico aberto, crie a aba "Perfil Ideal de Cliente". Use o contexto de mercado já mapeado anteriormente e rode um prompt simples pedindo para a IA definir o perfil ideal de cliente para o seu negócio, considerando as mudanças tecnológicas e as dores do mercado que você identificou. Leia os resultados com atenção, filtre o que é relevante e descarte o que é genérico demais. Registre no documento apenas os critérios que fazem sentido para o seu contexto: faturamento, margem, tamanho de equipe, nicho prioritário e urgência da dor. Não copie e cole o resultado completo da IA: extraia o que importa e organize com sua própria análise crítica.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

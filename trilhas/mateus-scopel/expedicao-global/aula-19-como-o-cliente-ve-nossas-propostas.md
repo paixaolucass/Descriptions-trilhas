@@ -1,4 +1,3 @@
-Cálculo interno: 7 blocos / 38 parágrafos totais / 1490 palavras estimadas / 1490 ÷ 200 = 7 minutos
 # Como o Cliente Vê Nossas Propostas
 
 **Tempo estimado de leitura:** 7 minutos

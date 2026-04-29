@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [25 parágrafos totais] / [1100 palavras estimadas] / [1100 ÷ 200 = 6 minutos]
-
 # Ferramentas de suporte: organização, pesquisa e coleta de referências
 
 **Tempo estimado de leitura:** 6 minutos
@@ -55,5 +53,3 @@ Ruan encerra com um aviso direto: o objetivo da aula não é criar FOMO, a sensa
 ## Coloque em prática
 
 Escolha duas ou três ferramentas apresentadas na aula que fazem sentido para o seu contexto e comece a experimentar. Não tente testar todas ao mesmo tempo.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

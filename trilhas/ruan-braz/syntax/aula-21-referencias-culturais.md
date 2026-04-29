@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [22 parágrafos totais] / [1000 palavras estimadas] / [1000 ÷ 200 = 5 minutos]
-
 # Referências culturais
 
 **Tempo estimado de leitura:** 5 minutos
@@ -53,5 +51,3 @@ A aula encerra com um ponto sobre ética da escrita: citar de onde vieram as ide
 ## Coloque em prática
 
 No próximo texto que você escrever com referências, aplique o método HACK para cada uma: ela é relevante para esse público? Ela executa uma função concreta no texto? Ela reduz a carga cognitiva? Para as que passarem, cite a procedência ao final. Deixe rastro para que outras pessoas possam continuar navegando.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

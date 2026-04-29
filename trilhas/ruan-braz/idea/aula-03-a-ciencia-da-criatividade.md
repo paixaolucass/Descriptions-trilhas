@@ -1,5 +1,3 @@
-Cálculo interno: 9 blocos / 42 parágrafos / 2520 palavras estimadas / 2520 ÷ 200 = 12,6 minutos
-
 # A ciência da criatividade
 
 **Tempo estimado de leitura:** 13 minutos

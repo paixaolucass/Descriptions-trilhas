@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [12 parágrafos totais] / [439 palavras estimadas] / [439 ÷ 200 = 3 minutos]
-
 # A linguagem das cores
 
 **Tempo estimado de leitura:** 3 minutos

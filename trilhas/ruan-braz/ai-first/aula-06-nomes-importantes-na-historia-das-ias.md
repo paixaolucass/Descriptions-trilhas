@@ -1,5 +1,3 @@
-Cálculo interno: 11 blocos / 28 parágrafos totais / 3010 palavras estimadas / 3010 ÷ 200 = 15 minutos
-
 # Nomes Importantes na História das IAs
 
 **Tempo estimado de leitura:** 15 minutos
@@ -72,7 +70,7 @@ Fei-Fei Li criou o ImageNet, um banco de dados de imagens com mais de 14 milhõe
 
 ### Elon Musk e Sam Altman
 
-Elon Musk e Sam Altman são cofundadores da OpenAI, a organização que criou o ChatGPT e os modelos GPT. A OpenAI foi fundada como uma organização sem fins lucrativos dedicada ao desenvolvimento de IA segura e benéfica para a humanidade, mas ao longo dos anos adotou uma estrutura híbrida que a permitiu captar investimentos massivos, notadamente da Microsoft. Elon Musk saiu do conselho da OpenAI em 2018, após desentendimentos sobre a direção estratégica da organização, e criou a xAI, empresa responsável pelo GROK, um LLM multimodal integrado à plataforma X. Sam Altman permanece como CEO da OpenAI e é uma das figuras mais influentes no debate público sobre o futuro da IA.
+Elon Musk e Sam Altman são cofundadores da OpenAI, a organização que criou o ChatGPT e os modelos GPT. A OpenAI foi fundada como uma organização sem fins lucrativos dedicada ao desenvolvimento de IA segura e benéfica para a humanidade, mas ao longo dos anos adotou uma estrutura híbrida que a permitiu captar investimentos massivos, notadamente da Microsoft. Elon Musk saiu do conselho da OpenAI em 2018, após desentendimentos sobre a direção estratégica da organização, e criou a xAI, empresa responsável pelo Grok, um LLM multimodal integrado à plataforma X. Sam Altman permanece como CEO da OpenAI e é uma das figuras mais influentes no debate público sobre o futuro da IA.
 
 ## Os pensadores: quem analisa e alerta sobre os impactos da IA
 
@@ -115,4 +113,3 @@ A consciência histórica sobre quem construiu o campo da IA é o que separa o u
 ## Coloque em prática
 
 Escolha dois nomes desta aula: um entre os fundadores técnicos e um entre os pensadores de impacto. Para cada um deles, dedique pelo menos 30 minutos de pesquisa autônoma: busque o trabalho mais importante da pessoa, leia o resumo de um artigo ou de um capítulo do livro principal, e anote em um parágrafo com suas próprias palavras qual foi a contribuição central dessa pessoa para o campo da IA. Depois, identifique um outro nome que surgiu durante essa pesquisa e que não estava na lista desta aula. Esse processo de expansão progressiva é exatamente o que a metáfora da casa de portas descreve, e executá-lo ativamente é o que transforma a informação recebida em conhecimento real.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

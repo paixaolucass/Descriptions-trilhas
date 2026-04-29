@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [422 palavras estimadas] / [422 ÷ 200 = 3 minutos]
-
 # O processo de autoconhecimento
 
 **Tempo estimado de leitura:** 3 minutos

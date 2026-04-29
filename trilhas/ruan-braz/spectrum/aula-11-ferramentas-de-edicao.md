@@ -1,5 +1,3 @@
-Cálculo interno: 128 blocos / 22 parágrafos / 1200 palavras estimadas / 1200 ÷ 200 = 6 minutos
-
 # Ferramentas de edição de imagens
 
 **Tempo estimado de leitura:** 6 minutos
@@ -18,9 +16,9 @@ Um ponto essencial que a aula esclarece logo de início: o modelo que você usa 
 
 O NanoBanana (Gemini) é um exemplo de modelo que faz as duas coisas. Ele pega partes da imagem e vai editando por cima, sem regenerar a imagem inteira. Se você quer tirar um carro de cena, remover uma pessoa, trocar a roupa de um personagem, ele faz isso de forma localizada por instrução em prompt. Essa edição regional é uma das funcionalidades mais poderosas para ajustes precisos. O GPT também já incorporou esse tipo de edição direto no modelo. Os modelos da ByteDance, segundo a memória de Ruan no momento da gravação, não tinham essa funcionalidade integrada da mesma forma.
 
-## Mid-Journey: edição nativa dentro da plataforma
+## Midjourney: edição nativa dentro da plataforma
 
-O Mid-Journey não é só uma ferramenta de geração. Depois que você gera uma imagem, a plataforma oferece um conjunto de opções de edição direto na interface. As principais são:
+O Midjourney não é só uma ferramenta de geração. Depois que você gera uma imagem, a plataforma oferece um conjunto de opções de edição direto na interface. As principais são:
 
 **Upscale:** aumenta a resolução da imagem e adiciona mais detalhamento a ela. É o recurso mais usado quando a imagem ficou boa e você quer prepará-la para uso final.
 
@@ -32,7 +30,7 @@ O Mid-Journey não é só uma ferramenta de geração. Depois que você gera uma
 
 **Remix:** permite modificar elementos específicos da imagem a partir de um novo prompt, mantendo a estrutura geral.
 
-Além desses recursos, o Mid-Journey tem uma aba de edição que permite subir uma imagem sua ou inserir a URL de uma imagem externa para editá-la diretamente, apagando partes e pedindo que a IA gere algo por cima. Funcional, mas segundo Ruan, não é a ferramenta favorita dele para edição. O que vem a seguir é.
+Além desses recursos, o Midjourney tem uma aba de edição que permite subir uma imagem sua ou inserir a URL de uma imagem externa para editá-la diretamente, apagando partes e pedindo que a IA gere algo por cima. Funcional, mas segundo Ruan, não é a ferramenta favorita dele para edição. O que vem a seguir é.
 
 ## Photoshop: controle de camadas e integração com IA
 
@@ -78,5 +76,4 @@ A escolha entre os dois depende do destino da imagem e da importância da peça 
 
 ## Coloque em prática
 
-Pegue uma imagem gerada com IA que ainda não passou por edição. Aplique pelo menos um ajuste em cada nível: use um recurso de edição nativo dentro da ferramenta que gerou a imagem (Zoom, Pan ou Remix no Mid-Journey, ou edição regional no NanoBanana), depois importe no Photoshop ou Lightroom e aplique ao menos um ajuste de camada de correção de cor ou contraste. Observe a diferença entre os dois momentos e anote qual ajuste fez mais diferença no resultado final.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*
+Pegue uma imagem gerada com IA que ainda não passou por edição. Aplique pelo menos um ajuste em cada nível: use um recurso de edição nativo dentro da ferramenta que gerou a imagem (Zoom, Pan ou Remix no Midjourney, ou edição regional no NanoBanana), depois importe no Photoshop ou Lightroom e aplique ao menos um ajuste de camada de correção de cor ou contraste. Observe a diferença entre os dois momentos e anote qual ajuste fez mais diferença no resultado final.

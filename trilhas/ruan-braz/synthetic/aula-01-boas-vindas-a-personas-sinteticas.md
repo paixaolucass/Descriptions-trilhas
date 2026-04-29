@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [18 parágrafos totais] / [800 palavras estimadas] / [800 ÷ 200 = 4 minutos]
-
 # Boas-vindas à Personas Sintéticas
 
 **Tempo estimado de leitura:** 4 minutos
@@ -49,5 +47,3 @@ Dominar o conceito de persona antes de usar as ferramentas é o que separa quem 
 ## Coloque em prática
 
 Antes de avançar, escreva três personas que você usa ou poderia usar no seu projeto: uma que representa o comprador, uma que representa a voz da sua marca e uma que representa um público específico que você quer alcançar agora. Não precisa ser completa ainda. Escreva o nome, a idade, uma frase que essa pessoa diria e qual é a dor principal dela. Esse esboço vai ser a base para tudo que as próximas aulas vão construir.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: aula de ~55 minutos / 55 × 200 = 11000 palavras de fala / teto aplicado: 4000 palavras
-
 # Prompts básicos e boas práticas
 
 **Tempo estimado de leitura:** 20 minutos
@@ -20,7 +18,7 @@ A crença mais comum e mais prejudicial sobre geração de imagens com IA é que
 
 Essa crença é um mito. Você pode usar um prompt de uma única palavra e ter um resultado excelente. Você pode escrever um parágrafo inteiro e ter um resultado ruim. O que determina a qualidade do resultado não é o tamanho do prompt, mas a clareza de intenção e a precisão do vocabulário.
 
-Em 2021, quando as primeiras versões do Mid-Journey rodavam no Discord e o ChatGPT tinha acabado de surgir, quem conseguia resultados precisos com prompts curtos não tinha um segredo técnico. Tinha uma mente clara e um vocabulário visual rico. A capacidade de navegar em pensamentos de forma organizada, articular uma imagem mental com palavras específicas, é o que diferencia o resultado, independentemente da ferramenta.
+Em 2021, quando as primeiras versões do Midjourney rodavam no Discord e o ChatGPT tinha acabado de surgir, quem conseguia resultados precisos com prompts curtos não tinha um segredo técnico. Tinha uma mente clara e um vocabulário visual rico. A capacidade de navegar em pensamentos de forma organizada, articular uma imagem mental com palavras específicas, é o que diferencia o resultado, independentemente da ferramenta.
 
 O contexto de 2021 exigia prompts mais longos porque os modelos eram menos capazes de inferir contexto a partir de poucas palavras. Com prompts curtos, os resultados eram frequentemente decepcionantes porque o modelo precisava de mais direcionamento para sair do óbvio estatístico. Nessa época, prompts com todos os detalhes de ângulo, câmera, iluminação e ambiente eram necessários. Foi daí que saiu muito do vocabulário técnico usado até hoje.
 
@@ -97,7 +95,7 @@ O modelo NanoBanana (também chamado NanoFlux 2 na época da gravação), por se
 
 Modelos como o ChatGPT (DALL-E 3 integrado com GPT) e o Gemini (Imagen 3 integrado com Gemini) também tendem a passar nesse teste porque são fundamentalmente multimodais: a LLM interpreta a negação antes de acionar a geração.
 
-Modelos de difusão pura (como versões do Seedream sem LLM, ou versões antigas do Mid-Journey) falham sistematicamente na negação porque não têm o componente de interpretação semântica avançada.
+Modelos de difusão pura (como versões do Seedream sem LLM, ou versões antigas do Midjourney) falham sistematicamente na negação porque não têm o componente de interpretação semântica avançada.
 
 **A regra prática:** escreva no prompt o que você quer ver, não o que você não quer. Em vez de "uma savana sem elefante", escreva "uma savana vazia". Em vez de "pessoa sem óculos", descreva as características da pessoa sem mencionar óculos. Em vez de "fundo branco sem elementos", escreva "fundo branco limpo, minimalista".
 
@@ -222,4 +220,3 @@ Escolha um elemento simples (um objeto, um animal, um ambiente) e escreva quatro
 4. Prompt estruturado com sujeito, ambiente, ação e parâmetro de fotografia
 
 Gere imagens com cada versão no mesmo modelo. Documente os resultados e registre qual versão chegou mais próximo de uma imagem que você usaria. Depois, teste o mesmo prompt com e sem um elemento de negação (ex: "sem pessoas") e observe se o modelo respeita ou ignora a negação. Esse experimento revela o comportamento específico do modelo que você usa.
-*Esta descrição cobre os principais conteúdos da aula. Alguns exemplos visuais e demonstrações ao vivo estão disponíveis apenas no vídeo.*

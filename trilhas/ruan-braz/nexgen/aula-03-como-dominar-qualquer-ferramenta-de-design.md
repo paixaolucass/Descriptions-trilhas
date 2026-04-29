@@ -1,5 +1,3 @@
-Cálculo interno: [10 blocos] / [54 parágrafos totais] / [3200 palavras estimadas] / [3200 ÷ 200 = 16 minutos]
-
 # Como dominar qualquer ferramenta de design
 
 **Tempo estimado de leitura:** 16 minutos
@@ -132,5 +130,3 @@ Abra o software sem tutorial e explore de forma intuitiva por pelo menos 15 minu
 Depois clique em todos os menus e botões disponíveis, pensando sobre o que cada nome sugere antes de abrir.
 
 Pergunte ao ChatGPT quais são os três a cinco fundamentos mais importantes desse software para o seu objetivo e pesquise o primeiro deles antes de abrir qualquer vídeo.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

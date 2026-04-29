@@ -1,5 +1,3 @@
-Cálculo interno: [10 blocos] / [52 parágrafos totais] / [1960 palavras estimadas] / [1960 ÷ 200 = 10 minutos]
-
 # Como Melhorar a Sua Escrita
 
 **Tempo estimado de leitura:** 10 minutos

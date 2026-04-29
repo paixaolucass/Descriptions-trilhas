@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [18 parágrafos totais] / [890 palavras estimadas] / [890 ÷ 200 = 5 minutos]
-
 # Recuperando o tempo e economizando muito dinheiro com as IAs
 
 **Tempo estimado de leitura:** 5 minutos
@@ -39,7 +37,7 @@ O Freepik é apresentado como um hub de inteligências artificiais: em vez de us
 
 As opções de configuração de imagem incluem: características de estilo, composições que o modelo deve respeitar, efeitos, personagens criados pelo usuário para manter consistência entre cenas, objetos e produtos, paleta de cores e quantidade de imagens geradas por vez (padrão: quatro). Também é possível definir o aspect ratio da imagem, como quadrado, formato de stories, 16 por 9 para YouTube, entre outros.
 
-O gerador de vídeo, disponível na mesma assinatura, permite escrever um prompt e definir uma imagem de início e uma de fim, e o modelo anima a transição entre as duas. Os modelos de vídeo disponíveis incluem Seedance, Kling, Google View e Google VEO 3. O usuário pode escolher entre durações de 5 a 6 segundos ou 8 a 10 segundos, além da proporção do vídeo.
+O gerador de vídeo, disponível na mesma assinatura, permite escrever um prompt e definir uma imagem de início e uma de fim, e o modelo anima a transição entre as duas. Os modelos de vídeo disponíveis incluem Seedance, Kling, Google Veo e Google Veo 3. O usuário pode escolher entre durações de 5 a 6 segundos ou 8 a 10 segundos, além da proporção do vídeo.
 
 Além dos geradores, o Freepik conta com um assistente que cria workflows para geração de poses e produtos, ferramentas de upscale para ampliar e melhorar imagens e vídeos com IA, editor de clipes, lip sync para sincronização de lábios em vídeos com diálogo, efeitos visuais para vídeo, gerador de voz, gerador de efeitos sonoros e gerador de música. Ruan finaliza a apresentação do Freepik com um aviso: as ferramentas estão atualizando o tempo todo, e isso não deve ser motivo de acomodação. Sempre pesquisar e buscar novas referências é a postura correta.
 
@@ -62,5 +60,3 @@ Acesse uma das ferramentas apresentadas nesta aula que ainda não conhece.
 Explore a interface por conta própria antes de buscar tutoriais.
 
 Pergunte à própria IA quais são os fundamentos e as melhores práticas para usar aquela ferramenta.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

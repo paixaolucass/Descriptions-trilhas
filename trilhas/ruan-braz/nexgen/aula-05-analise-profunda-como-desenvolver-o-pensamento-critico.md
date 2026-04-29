@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [46 parágrafos totais] / [2500 palavras estimadas] / [2500 ÷ 200 = 13 minutos]
-
 # Análise profunda: como desenvolver o pensamento crítico
 
 **Tempo estimado de leitura:** 13 minutos
@@ -86,5 +84,3 @@ Na próxima vez que ler uma afirmação forte, seja em um post, artigo ou argume
 Escolha um argumento que você usa com clientes para justificar uma decisão de design e reescreva-o em formato de premissa mais premissa mais conclusão.
 
 Pergunte ao ChatGPT quais são as principais metodologias científicas que você pode usar para desenvolver pesquisa nos seus projetos de design.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

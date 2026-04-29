@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [389 palavras estimadas] / [389 ÷ 200 = 2 minutos]
-
 # Redes sociais
 
 **Tempo estimado de leitura:** 2 minutos

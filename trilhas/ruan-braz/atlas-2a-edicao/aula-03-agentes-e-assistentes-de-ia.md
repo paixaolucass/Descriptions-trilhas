@@ -1,5 +1,3 @@
-Cálculo interno: 7 blocos / 22 parágrafos totais / 1300 palavras estimadas / 1300 ÷ 200 = 7 minutos
-
 # Agentes e Assistentes de IA
 
 **Tempo estimado de leitura:** 7 minutos

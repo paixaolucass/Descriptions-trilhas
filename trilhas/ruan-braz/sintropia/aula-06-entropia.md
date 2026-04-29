@@ -1,5 +1,3 @@
-Cálculo interno: 5 blocos / 15 parágrafos totais / 960 palavras estimadas / 960 ÷ 200 = 5 minutos
-
 # Entropia
 
 **Tempo estimado de leitura:** 5 minutos

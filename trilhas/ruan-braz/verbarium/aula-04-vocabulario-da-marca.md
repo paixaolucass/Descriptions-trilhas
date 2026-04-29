@@ -1,5 +1,3 @@
-Cálculo interno: [13 blocos] / [39 parágrafos totais] / [2180 palavras estimadas] / [2180 ÷ 200 = 11 minutos]
-
 # Vocabulário da marca
 
 **Tempo estimado de leitura:** 11 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: [10 blocos] / [28 parágrafos totais] / [1500 palavras estimadas] / [1500 ÷ 200 = 8 minutos]
-
 # Os tipos de logotipos
 
 **Tempo estimado de leitura:** 8 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: 470 timestamps / ~42 parágrafos / ~3800 palavras / 3800 ÷ 200 = 19 minutos
-
 # Construção de Fotografia
 
 **Tempo estimado de leitura:** 19 minutos
@@ -16,7 +14,7 @@ Ao final desta aula, você será capaz de:
 
 ## O fotógrafo profissional como modelo de processo
 
-A aula começa com uma analogia que ancora o processo completo: quando você vai fazer um ensaio com um bom fotógrafo, a primeira coisa que ele faz é conversar com você. Ele quer fazer uma reunião para montar o briefing. Por que? Porque fotografia é uma arte com muitos estilos e muitas possibilidades, cheia de decisões que podem ir em qualquer direção. Antes de qualquer clique, um fotógrafo profissional precisa saber o tipo de ensaio, o posicionamento de quem será fotografado, para que as fotos vão ser utilizadas e quais mensagens precisam ser transmitidas.
+A aula começa com uma analogia que ancora o processo completo: quando você vai fazer um ensaio com um bom fotógrafo, a primeira coisa que ele faz é conversar com você. Ele quer fazer uma reunião para montar o briefing. Por quê? Porque fotografia é uma arte com muitos estilos e muitas possibilidades, cheia de decisões que podem ir em qualquer direção. Antes de qualquer clique, um fotógrafo profissional precisa saber o tipo de ensaio, o posicionamento de quem será fotografado, para que as fotos vão ser utilizadas e quais mensagens precisam ser transmitidas.
 
 Isso é exatamente o que aconteceu em um ensaio com o fotógrafo Daniel Meg: ele fez uma reunião prévia, quis reconhecer um pouco da história, o posicionamento e o projeto em si. Qual o objetivo das fotos? Para que canais serão usadas? Essa conversa inicial é o briefing fotográfico, e a IA segue a mesma lógica. Não dá para pular essa etapa com a ferramenta e esperar resultado coerente.
 
@@ -28,7 +26,7 @@ A primeira seção é o objetivo do projeto. No exemplo da aula, o objetivo é f
 
 A segunda seção é posicionamento e marca pessoal. Personalidade conta muito em fotografia. O fotógrafo Daniel Meg, por exemplo, perguntou sobre a personalidade do fotografado e seu posicionamento. No briefing da aula, essas informações são:
 
-Nome: Juan Braz. Designer nexialista. CEO e fundador da Overlens, escola de criação nexialista para criadores e criadoras da era das inteligências artificiais. Professor que já ensinou mais de 20 mil pessoas sobre criação, design e ferramentas generativas. Reconhecido pela profundidade, foco em bottom-up e fundamentals method.
+Nome: Ruan Braz. Designer nexialista. CEO e fundador da Overlens, escola de criação nexialista para criadores e criadoras da era das inteligências artificiais. Professor que já ensinou mais de 20 mil pessoas sobre criação, design e ferramentas generativas. Reconhecido pela profundidade, foco em bottom-up e método de fundamentos.
 
 Esse tipo de dado não é apenas biográfico: ele alimenta a IA com contexto sobre quem é a pessoa, o que ela representa e como ela deve ser percebida. O Instagram e o site da Overlens também são incluídos como referências, porque a IA pode usar essas informações para calibrar melhor os prompts e as sugestões fotográficas.
 
@@ -64,7 +62,7 @@ Esse conjunto de percepções desejadas é detalhado, específico e até inclui 
 
 Com o briefing inicial montado, a próxima etapa é usar a IA integrada ao Google Docs, no caso o Gemini, para enriquecer o documento com análise semiótica. O prompt enviado ao Gemini dentro do próprio documento é:
 
-"Escreva logo abaixo do texto que eu já escrevi mais detalhes sobre o briefing que estamos montando para um ensaio fotográfico do Juan Braz. Trabalhe como um especialista em fotografia e semiótica da imagem. Traga signos que representam a mensagem que queremos transmitir aqui."
+"Escreva logo abaixo do texto que eu já escrevi mais detalhes sobre o briefing que estamos montando para um ensaio fotográfico do Ruan Braz. Trabalhe como um especialista em fotografia e semiótica da imagem. Traga signos que representam a mensagem que queremos transmitir aqui."
 
 O resultado gerado pelo Gemini é uma análise semiótica e proposta visual estruturada. Com base nas percepções desejadas no briefing (profundidade, minimalismo, intelectualidade, proximidade, autoridade autêntica), o Gemini propõe uma abordagem fotográfica profundamente estratégica e semiótica, organizada em três eixos retóricos:
 
@@ -84,11 +82,11 @@ Esses três eixos não são apenas teoria: eles se tornam critérios concretos p
 
 A análise do Gemini organiza os signos visuais por eixo retórico:
 
-Para profundidade e intelectualidade (etos e logos): a estante de livros deve aparecer com frequência, não como mero fundo, mas como elemento composicional que atesta o etos, autoridade e conhecimento acumulado. Poses que sugiram interação com o acervo, como olhar e tocar em livros, reforçam a ideia de fundamentals method e bottom-up. A iluminação deve usar o princípio do chiaroscuro controlado: baixo contraste pode introduzir uma dimensão de profundidade e seriedade. A luz deve esculpir, não achatar. Uma luz que cria sombras definidas mas suaves comunica seriedade sem ser dura ou inacessível. O enquadramento deve seguir a regra dos terços, destacando o sujeito mas incluindo o ambiente como prova contextual. O foco deve estar nítido nos olhos ou nas mãos em atividade.
+Para profundidade e intelectualidade (etos e logos): a estante de livros deve aparecer com frequência, não como mero fundo, mas como elemento composicional que atesta o etos, autoridade e conhecimento acumulado. Poses que sugiram interação com o acervo, como olhar e tocar em livros, reforçam a ideia de método de fundamentos e bottom-up. A iluminação deve usar o princípio do chiaroscuro controlado: baixo contraste pode introduzir uma dimensão de profundidade e seriedade. A luz deve esculpir, não achatar. Uma luz que cria sombras definidas mas suaves comunica seriedade sem ser dura ou inacessível. O enquadramento deve seguir a regra dos terços, destacando o sujeito mas incluindo o ambiente como prova contextual. O foco deve estar nítido nos olhos ou nas mãos em atividade.
 
 Para minimalismo e autoridade não plastificada: paleta de cores com preto e fundo neutro. Boné e camisa preta representam elegância, foco e autoridade. Ausência de ostentação e rejeição ao terno são signos cruciais. A roupa casual preta representa uma autoridade conquistada pela experiência e não por uniforme social. Transmite proximidade e foco no conteúdo em detrimento da forma. A composição deve ser limpa, com poucos objetos.
 
-Para acessibilidade e proximidade (patos): linguagem corporal relaxada. Poses que evitam rigidez ou postura de palco, como sentado na mesa, apoiado em livros ou em momentos de reflexão. Acessibilidade é transmitida por postura. Olhar direto e, quando apropriado, sorriso sutil geram conexão emocional e transmitem proximidade. O designer nexialista é também um professor acessível.
+Para acessibilidade e proximidade (pathos): linguagem corporal relaxada. Poses que evitam rigidez ou postura de palco, como sentado na mesa, apoiado em livros ou em momentos de reflexão. Acessibilidade é transmitida por postura. Olhar direto e, quando apropriado, sorriso sutil geram conexão emocional e transmitem proximidade. O designer nexialista é também um professor acessível.
 
 Cenas de trabalho real: fotos que mostram o sujeito em estado de fluxo, olhando para uma tela, escrevendo notas, com as mãos no teclado. Isso prova logos, fundamentals e método, e combate a imagem de coach plastificado ao mostrar o processo e não apenas o resultado.
 
@@ -175,4 +173,3 @@ Monte um briefing fotográfico para você mesmo ou para um personagem fictício.
 7. Peça ao LLM para gerar o território de palavras-chave organizado por categoria: estilo fotográfico, iluminação, ambiente e vestimenta.
 
 Guarde esse documento. Ele vai guiar todo o processo de geração de imagens que vem nas próximas aulas.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 23 minutos, alguns detalhes de demonstração ao vivo, como a digitação em tempo real no Google Docs e a interação com o Gemini integrado, estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

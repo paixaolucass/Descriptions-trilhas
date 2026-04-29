@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [19 parágrafos totais] / [850 palavras estimadas] / [850 ÷ 200 = 4 minutos]
-
 # Escrevendo uma música
 
 **Tempo estimado de leitura:** 4 minutos
@@ -57,5 +55,3 @@ O processo de "O Futuro é Agora" foi de múltiplas iterações: a IA gerou uma 
 ## Coloque em prática
 
 Escolha uma emoção ou experiência que você quer transformar em letra. Defina os cinco parâmetros da etapa de contexto antes de escrever qualquer coisa. Distribua o conteúdo pela estrutura clássica atribuindo a função de cada parte. Use a IA para gerar um primeiro rascunho com base na estrutura e nos parâmetros definidos. Depois leia o resultado em voz alta e comece o ciclo de refinamento: ajuste, leia, ajuste, leia.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

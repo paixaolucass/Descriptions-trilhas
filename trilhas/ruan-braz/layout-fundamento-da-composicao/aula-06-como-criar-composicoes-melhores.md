@@ -1,5 +1,3 @@
-Cálculo interno: [12 blocos] / [36 parágrafos totais] / [2070 palavras estimadas] / [2070 ÷ 200 = 11 minutos]
-
 # Como criar composições melhores
 
 **Tempo estimado de leitura:** 11 minutos

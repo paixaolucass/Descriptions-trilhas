@@ -1,5 +1,3 @@
-Cálculo interno: [9 blocos] / [52 parágrafos totais] / [2.210 palavras estimadas] / [2.210 ÷ 200 = 12 minutos]
-
 # Como Apresentar Bem uma Ideia
 
 **Tempo estimado de leitura:** 12 minutos

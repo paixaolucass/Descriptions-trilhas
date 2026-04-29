@@ -1,5 +1,3 @@
-Cálculo interno: 7 blocos / 22 parágrafos totais / 1300 palavras estimadas / 1300 ÷ 200 = 7 minutos
-
 # Estruturas Avançadas: Dividir Problema, Corrigir Bugs e Refatorar
 
 **Tempo estimado de leitura:** 7 minutos
@@ -51,7 +49,7 @@ Por exemplo: se um agente está lendo um documento e vai começar a analisar uma
 
 Usar muitos agentes em paralelo otimiza tempo, mas não necessariamente melhora a qualidade do output. Se 15 agentes gerarem 15 documentos, o usuário precisará ler 15 documentos. Isso pode ser mais trabalho do que o necessário.
 
-O cuidado importante: usar agentes em paralelo faz mais sentido quando eles compartilham informações entre si e quando existe um agente de QA verificando o trabalho dos outros. O QA recebe os resultados, avalia se os critérios foram atendidos e, se não foram, devolve a tarefa para o agente executar novamente. Esse ciclo de revisão interna é o que transforma uma parallelização simples em algo realmente poderoso.
+O cuidado importante: usar agentes em paralelo faz mais sentido quando eles compartilham informações entre si e quando existe um agente de QA verificando o trabalho dos outros. O QA recebe os resultados, avalia se os critérios foram atendidos e, se não foram, devolve a tarefa para o agente executar novamente. Esse ciclo de revisão interna é o que transforma uma paralelização simples em algo realmente poderoso.
 
 ## Tree of Thoughts: agentes conversando entre si
 

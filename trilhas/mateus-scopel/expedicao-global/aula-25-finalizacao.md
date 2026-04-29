@@ -1,4 +1,3 @@
-Cálculo interno: 3 blocos / 16 parágrafos totais / 580 palavras estimadas / 580 ÷ 200 = 3 minutos
 # Finalização
 
 **Tempo estimado de leitura:** 3 minutos

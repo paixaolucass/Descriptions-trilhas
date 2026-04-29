@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [457 palavras estimadas] / [457 ÷ 200 = 3 minutos]
-
 # Demanda: visão geral do módulo
 
 **Tempo estimado de leitura:** 3 minutos

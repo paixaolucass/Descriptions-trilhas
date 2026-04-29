@@ -1,5 +1,3 @@
-Cálculo interno: 12 blocos / 38 parágrafos totais / 2550 palavras estimadas / 2550 ÷ 200 = 13 minutos
-
 # Tempo, Ciclos e Desenvolvimento
 
 **Tempo estimado de leitura:** 13 minutos

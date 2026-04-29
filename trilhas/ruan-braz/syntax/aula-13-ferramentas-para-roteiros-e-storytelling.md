@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [25 parágrafos totais] / [1100 palavras estimadas] / [1100 ÷ 200 = 6 minutos]
-
 # Ferramentas para roteiros e storytelling
 
 **Tempo estimado de leitura:** 6 minutos
@@ -83,5 +81,3 @@ Cada ferramenta tem um objetivo específico. A Jornada do Herói cria identidade
 ## Coloque em prática
 
 Pegue um roteiro travado e escolha uma das cinco estruturas com base no objetivo. Depois peça para a IA: "reescreva esse rascunho seguindo a estrutura X para o objetivo Y." Se não tiver um roteiro travado, crie um rascunho de dois parágrafos sobre qualquer ideia e aplique a estrutura que fizer mais sentido para o efeito desejado.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

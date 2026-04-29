@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [12 parágrafos totais] / [490 palavras estimadas] / [490 ÷ 200 = 3 minutos]
-
 # A proposta encantadora
 
 **Tempo estimado de leitura:** 3 minutos

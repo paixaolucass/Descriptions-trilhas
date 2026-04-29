@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [385 palavras estimadas] / [385 ÷ 200 = 2 minutos]
-
 # Blueprint
 
 **Tempo estimado de leitura:** 2 minutos

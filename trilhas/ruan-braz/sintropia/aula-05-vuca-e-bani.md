@@ -1,5 +1,3 @@
-Cálculo interno: 6 blocos / 19 parágrafos totais / 1245 palavras estimadas / 1245 ÷ 200 = 7 minutos
-
 # VUCA e BANI
 
 **Tempo estimado de leitura:** 7 minutos

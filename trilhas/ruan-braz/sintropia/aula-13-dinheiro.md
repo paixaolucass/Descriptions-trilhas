@@ -1,5 +1,3 @@
-Cálculo interno: 8 blocos / 27 parágrafos totais / 1785 palavras estimadas / 1785 ÷ 200 = 9 minutos
-
 # Dinheiro
 
 **Tempo estimado de leitura:** 9 minutos

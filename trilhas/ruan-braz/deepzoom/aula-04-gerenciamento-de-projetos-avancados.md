@@ -1,5 +1,3 @@
-Cálculo interno: [15 blocos] / [74 parágrafos totais] / [3750 palavras estimadas] / [3750 ÷ 200 = 19 minutos]
-
 # Gerenciamento de projetos avançados
 
 **Tempo estimado de leitura:** 19 minutos

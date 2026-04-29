@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [34 parágrafos totais] / [1560 palavras estimadas] / [1560 ÷ 200 = 8 minutos]
-
 # Os Tipos de Signos Segundo Peirce
 
 **Tempo estimado de leitura:** 8 minutos

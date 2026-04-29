@@ -1,5 +1,3 @@
-Cálculo interno: [14 blocos] / [42 parágrafos totais] / [2320 palavras estimadas] / [2320 ÷ 200 = 12 minutos]
-
 # Manual de identidade verbal
 
 **Tempo estimado de leitura:** 12 minutos

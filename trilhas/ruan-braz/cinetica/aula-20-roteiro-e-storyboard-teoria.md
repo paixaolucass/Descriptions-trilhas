@@ -1,5 +1,3 @@
-Cálculo interno: [11 blocos] / [85 parágrafos totais] / [3800 palavras estimadas] / [3800 ÷ 200 = 19 minutos]
-
 # Roteiro e Storyboard: teoria
 
 **Tempo estimado de leitura:** 19 minutos
@@ -13,7 +11,7 @@ Ao final desta aula, você será capaz de:
 - Usar o método 5W2H para estruturar cenas e desenvolver narrativas com clareza e profundidade
 - Distinguir painel de referências de painel de concepts e saber quando usar cada um
 - Criar personas GPT de personagens para manter consistência de voz, estilo de fala e comportamento ao longo da produção
-- Aplicar ferramentas de roteiro (SudoWrite, Jasper, Google Docs) de acordo com o tipo de projeto
+- Aplicar ferramentas de roteiro (Sudowrite, Jasper, Google Docs) de acordo com o tipo de projeto
 
 ## Por que o processo começa antes de qualquer ferramenta
 
@@ -158,9 +156,9 @@ A distinção importa na comunicação com colaboradores: quando você mostra um
 
 ## Ferramentas de roteiro
 
-**SudoWrite:** ferramenta focada em escritores de narrativas longas. Tem recursos específicos para world building, você pode criar fichas de personagens, mapas de universo e documentos de lore integrados com o assistente de escrita. Quando você está escrevendo uma cena, o SudoWrite tem acesso ao contexto do universo e dos personagens, produzindo sugestões consistentes com o que já foi definido. É a ferramenta mais adequada para projetos narrativos longos e complexos.
+**Sudowrite:** ferramenta focada em escritores de narrativas longas. Tem recursos específicos para world building, você pode criar fichas de personagens, mapas de universo e documentos de lore integrados com o assistente de escrita. Quando você está escrevendo uma cena, o Sudowrite tem acesso ao contexto do universo e dos personagens, produzindo sugestões consistentes com o que já foi definido. É a ferramenta mais adequada para projetos narrativos longos e complexos.
 
-**Jasper:** focado em marketing e conteúdo comercial. Tem templates para diferentes formatos de conteúdo de negócios e é integrado com fluxos de publicação e SEO. Para narrativas criativas de vídeo com IA, o Jasper é menos adequado do que o SudoWrite, é mais poderoso quando o objetivo é gerar copy de produto, posts de redes sociais ou conteúdo de marketing do que quando o objetivo é construir universo narrativo.
+**Jasper:** focado em marketing e conteúdo comercial. Tem templates para diferentes formatos de conteúdo de negócios e é integrado com fluxos de publicação e SEO. Para narrativas criativas de vídeo com IA, o Jasper é menos adequado do que o Sudowrite, é mais poderoso quando o objetivo é gerar copy de produto, posts de redes sociais ou conteúdo de marketing do que quando o objetivo é construir universo narrativo.
 
 **Google Docs:** mencionado como referência simples para quem quer processo sem fricção de ferramenta nova. Para quem não quer aprender uma nova plataforma, manter o roteiro, os one-pagers e a Bíblia do Universo em Google Docs é suficiente. A vantagem é que não há curva de aprendizado, a desvantagem é que não há features específicas para narrativa.
 
@@ -200,4 +198,3 @@ Essa demonstração concreta torna os conceitos mais aplicáveis: você não est
 Escolha uma ideia de vídeo que você quer desenvolver. Escreva uma sinopse de um parágrafo com universo, conflito e personagens. Crie pelo menos um one-pager usando o 5W2H para preencher todas as dimensões. Monte um painel de referências com 5 a 10 imagens de outros criadores que capturem o visual que você quer. Só depois disso gere as primeiras imagens no painel de concepts.
 
 O exercício mais revelador: antes de gerar, tente responder ao "why" do seu personagem. Por que ele age como age? Por que ele importa para a história? Se você não consegue responder, o personagem ainda não tem identidade, e a geração vai refletir isso.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 45 minutos, alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

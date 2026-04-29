@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [22 parágrafos totais] / [1.170 palavras estimadas] / [1.170 ÷ 200 = 6 minutos]
-
 # Alinhamento e Hierarquia
 
 **Tempo estimado de leitura:** 6 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: [9 blocos] / [23 parágrafos totais] / [990 palavras estimadas] / [990 ÷ 200 = 5 minutos]
-
 # Referências que Moldaram o Design Thinking
 
 **Tempo estimado de leitura:** 5 minutos

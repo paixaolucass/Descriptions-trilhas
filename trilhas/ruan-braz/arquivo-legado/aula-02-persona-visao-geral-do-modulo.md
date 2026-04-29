@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [460 palavras estimadas] / [460 ÷ 200 = 3 minutos]
-
 # Persona: visão geral do módulo
 
 **Tempo estimado de leitura:** 3 minutos

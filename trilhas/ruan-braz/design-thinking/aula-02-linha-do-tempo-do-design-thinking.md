@@ -1,5 +1,3 @@
-Cálculo interno: [13 blocos] / [44 parágrafos totais] / [2220 palavras estimadas] / [2220 ÷ 200 = 12 minutos]
-
 # Linha do Tempo do Design Thinking
 
 **Tempo estimado de leitura:** 12 minutos
@@ -73,7 +71,7 @@ As pessoas acreditam que o fim do design é o material: o post, o vídeo, a iden
 
 A distinção se desdobra em uma série de oposições que Ruan enuncia em sequência: não é sobre a beleza, é sobre a percepção; não é sobre a coisa, é sobre a pessoa que usa; não é sobre a forma, é sobre a função que aquela forma tem; não é sobre o material, é sobre a ideia; não é sobre a ferramenta, é sobre a decisão; não é sobre o visível, é sobre o invisível; não é sobre o concreto, é sobre o abstrato.
 
-O raciocínio culmina em uma frase que Ruan destaca como propria: "Em um mundo em que o como se torna cada dia mais fácil, é melhor nos preocuparmos mais com os porquês." Com ferramentas de IA, qualquer pessoa gera uma imagem ou um vídeo. O como ficou fácil de copiar. O que não se copia é o porquê, porque o porquê é íntimo do contexto.
+O raciocínio culmina em uma frase que Ruan destaca como própria: "Em um mundo em que o como se torna cada dia mais fácil, é melhor nos preocuparmos mais com os porquês." Com ferramentas de IA, qualquer pessoa gera uma imagem ou um vídeo. O como ficou fácil de copiar. O que não se copia é o porquê, porque o porquê é íntimo do contexto.
 
 Ruan explica o que significa ser íntimo do contexto: para algo ser relevante e fazer sentido, precisa ter um contexto alinhado. Uma cadeira gerada por IA pode ser visualmente elaborada, mas é líquida e volátil se não representa nada. Uma cadeira que é um símbolo, que tem capital simbólico, tem força. Essa é a camada mais profunda do design, e Ruan insere esse conceito intencionalmente desde o início da trilha.
 

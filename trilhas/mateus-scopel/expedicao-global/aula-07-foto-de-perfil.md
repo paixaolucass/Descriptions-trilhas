@@ -1,5 +1,3 @@
-Cálculo interno: 5 blocos / 26 parágrafos totais / 900 palavras estimadas / 900 ÷ 200 = 5 minutos
-
 # Foto de perfil
 
 **Tempo estimado de leitura:** 5 minutos
@@ -15,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## A importância da foto
 
-Matheus afirma que a foto de perfil é extremamente importante e que percebeu diferença relevante de resultado quando passou a usar um tipo específico de imagem.
+Mateus afirma que a foto de perfil é extremamente importante e que percebeu diferença relevante de resultado quando passou a usar um tipo específico de imagem.
 
 Sua primeira tentativa foi uma foto com fundo branco, olhando para a câmera e expressão neutra. A intenção era transmitir profissionalismo.
 
@@ -25,13 +23,13 @@ Depois, ao observar outros profissionais na plataforma, percebeu que muitas foto
 
 Na Upwork, o cliente vê muitos profissionais ao mesmo tempo. Por isso, cada detalhe que aparece na busca e nas propostas pode influenciar a leitura.
 
-Matheus recomenda pensar na foto como um elemento que precisa chamar atenção sem perder credibilidade.
+Mateus recomenda pensar na foto como um elemento que precisa chamar atenção sem perder credibilidade.
 
 Ele observa que fotos com fundo mais colorido tendem a aparecer mais. O objetivo é não desaparecer no mar de perfis parecidos.
 
 ## Fundo colorido e contraste
 
-Matheus passou a testar fundos coloridos. Primeiro usou um fundo laranja forte, por ser contrastante e complementar às cores da plataforma.
+Mateus passou a testar fundos coloridos. Primeiro usou um fundo laranja forte, por ser contrastante e complementar às cores da plataforma.
 
 Ele também cita azul forte e verde, inclusive o verde usado pela própria Upwork, como opções interessantes. Cores quentes podem trazer mais carisma e chamar atenção.
 
@@ -39,7 +37,7 @@ A recomendação é usar fundo chapado, com pouca distração, boa iluminação 
 
 ## Rosto próximo e expressão aberta
 
-Matheus orienta que o aluno não use foto muito distante. O rosto precisa aparecer com clareza.
+Mateus orienta que o aluno não use foto muito distante. O rosto precisa aparecer com clareza.
 
 Ele também recomenda sorrir. Mesmo para pessoas mais introvertidas, uma expressão aberta ajuda o cliente a sentir que está falando com uma pessoa, não com uma máquina ou alguém frio.
 
@@ -47,7 +45,7 @@ O sorriso comunica abertura para conversa. Pode fazer o cliente parar para ler a
 
 ## Profissionalismo e carisma
 
-No começo da jornada, Matheus recomenda uma foto mais chamativa e carismática. Depois, se o profissional quiser adotar um posicionamento mais rígido ou sério, pode ajustar.
+No começo da jornada, Mateus recomenda uma foto mais chamativa e carismática. Depois, se o profissional quiser adotar um posicionamento mais rígido ou sério, pode ajustar.
 
 Para os primeiros projetos, o mais importante é parecer acessível, confiável e visível dentro da plataforma.
 
@@ -67,4 +65,3 @@ Verifique se ela tem:
 - aparência profissional sem parecer fria.
 
 Depois, teste uma nova versão com fundo colorido e compare com perfis de referência na busca da Upwork.
-

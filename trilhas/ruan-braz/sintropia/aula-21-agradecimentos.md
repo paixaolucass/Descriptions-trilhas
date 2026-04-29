@@ -1,5 +1,3 @@
-Cálculo interno: 7 blocos / 28 parágrafos totais / 800 palavras estimadas / 800 ÷ 200 = 4 minutos
-
 # Agradecimentos
 
 **Tempo estimado de leitura:** 4 minutos

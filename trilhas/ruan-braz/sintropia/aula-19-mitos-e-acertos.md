@@ -1,5 +1,3 @@
-Cálculo interno: 24 blocos / 95 parágrafos totais / 2.600 palavras estimadas / 2.600 ÷ 200 = 13 minutos
-
 # Mitos e acertos
 
 **Tempo estimado de leitura:** 13 minutos

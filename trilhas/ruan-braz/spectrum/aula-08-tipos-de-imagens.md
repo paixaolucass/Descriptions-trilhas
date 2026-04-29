@@ -1,5 +1,3 @@
-Cálculo interno: 546 timestamps / 137 parágrafos / 3800 palavras estimadas / 3800 ÷ 200 = 19 minutos
-
 # Tipos de Imagens e Suas Funções
 
 **Tempo estimado de leitura:** 19 minutos
@@ -47,7 +45,7 @@ A lição prática: ao usar imagens documentais no trabalho, verificar sempre a 
 
 A imagem explicativa é amplamente usada dentro da própria Overlens - a pirâmide de Maslow, mostrada durante a aula, é um exemplo clássico. São geralmente diagramas ou representações visuais que ajudam a assimilar algum conceito muito abstrato.
 
-Você também pode pedir à IA para gerar esse tipo de imagem. No entanto, diferentes modelos têm desempenhos muito diferentes para imagens estruturais e com texto. O Nanobanana (Imagen do Google) é um dos que funcionam melhor para esse tipo de geração. O MidJourney, por outro lado, não funciona tão bem para coisas muito estruturais e textos - é uma limitação conhecida do modelo, que prioriza estética sobre precisão estrutural. O ChatGPT com o modelo de geração de imagem (Sora) às vezes funciona para imagens explicativas, às vezes não, dependendo do caso.
+Você também pode pedir à IA para gerar esse tipo de imagem. No entanto, diferentes modelos têm desempenhos muito diferentes para imagens estruturais e com texto. O Nanobanana (Imagen do Google) é um dos que funcionam melhor para esse tipo de geração. O Midjourney, por outro lado, não funciona tão bem para coisas muito estruturais e textos - é uma limitação conhecida do modelo, que prioriza estética sobre precisão estrutural. O ChatGPT com o modelo de geração de imagem (Sora) às vezes funciona para imagens explicativas, às vezes não, dependendo do caso.
 
 Ao escolher qual modelo usar para gerar imagens explicativas, o critério deve ser a capacidade do modelo de respeitar estrutura, hierarquia de informação e legibilidade de texto. Testar com o mesmo prompt em ferramentas diferentes e comparar os resultados é a abordagem mais eficaz.
 
@@ -117,7 +115,7 @@ A ressalva importante: quanto mais precisão a imagem projetiva precisa ter, mai
 
 ## A Equipe da Overlens: Testes por Tipo de Imagem
 
-Durante a aula, Ruan abriu o Mid-Journey da equipe, onde a Thaís Teófilo gerou a maior parte das imagens ao longo de um ano de exploração intensa. A Thaís entrou para a equipe em março de 2025, começando do zero na IA, e se tornou referência interna por ter tido espaço para fazer exploração durante meses seguidos. O resultado disso foi um repertório rico e uma variedade enorme de testes.
+Durante a aula, Ruan abriu o Midjourney da equipe, onde a Thaís Teófilo gerou a maior parte das imagens ao longo de um ano de exploração intensa. A Thaís entrou para a equipe em março de 2025, começando do zero na IA, e se tornou referência interna por ter tido espaço para fazer exploração durante meses seguidos. O resultado disso foi um repertório rico e uma variedade enorme de testes.
 
 Os tipos de imagem testados incluem:
 
@@ -127,7 +125,7 @@ Os tipos de imagem testados incluem:
 
 **Personas sintéticas:** Imagens hiperrealistas de pessoas que não existem, úteis para materiais de comunicação, personas de marketing e criativos.
 
-**Posters e comunicação visual:** Testes de texto dentro da imagem (o MidJourney tem melhorado nesse ponto, mas ainda tem limitações), posters com estilos cinematográficos, referências a filmes e narrativas conhecidas.
+**Posters e comunicação visual:** Testes de texto dentro da imagem (o Midjourney tem melhorado nesse ponto, mas ainda tem limitações), posters com estilos cinematográficos, referências a filmes e narrativas conhecidas.
 
 **Testes de ângulo:** A equipe manteve a mesma luz e variou sistematicamente os ângulos, isolando a variável para descobrir quais palavras-chave guiam a IA em qual direção. Essa abordagem científica - isolar uma variável por vez e testar - é o método de trabalho da equipe para construir um dicionário de prompts eficazes.
 
@@ -187,13 +185,13 @@ Isso também explica por que o conhecimento técnico da área não perdeu valor 
 
 Nem todo modelo de IA é igualmente bom para todos os tipos de imagem. A escolha do modelo é uma decisão técnica que impacta o resultado:
 
-**Para imagens explicativas (diagramas, infográficos):** Nanobanana (Imagen do Google) tende a ser mais confiável. MidJourney não é a primeira escolha para esse tipo. ChatGPT/Sora varia conforme o caso.
+**Para imagens explicativas (diagramas, infográficos):** Nanobanana (Imagen do Google) tende a ser mais confiável. Midjourney não é a primeira escolha para esse tipo. ChatGPT/Sora varia conforme o caso.
 
-**Para imagens persuasivas (alta qualidade estética, alto contraste):** MidJourney ainda tem posição forte aqui. Nanobanana também funciona muito bem. ChatGPT/Sora está competindo no topo nas avaliações da comunidade.
+**Para imagens persuasivas (alta qualidade estética, alto contraste):** Midjourney ainda tem posição forte aqui. Nanobanana também funciona muito bem. ChatGPT/Sora está competindo no topo nas avaliações da comunidade.
 
 **Para imagens projetivas (renders a partir de imagens técnicas):** Modelos multimodais com capacidade de interpretação de imagem, como Gemini com Nanobanana Pro. A capacidade de o modelo "ler" a imagem técnica e gerar uma saída tridimensional depende de como o modelo processa inputs de imagem.
 
-**Para imagens inspiradoras (concept art, world building):** MidJourney tem tradição forte nesse tipo. Seedream (da ByteDance) também tem mostrado resultados expressivos. A escolha depende do estilo específico desejado.
+**Para imagens inspiradoras (concept art, world building):** Midjourney tem tradição forte nesse tipo. Seedream (da ByteDance) também tem mostrado resultados expressivos. A escolha depende do estilo específico desejado.
 
 **Para imagens simbólicas (branding, identidade visual):** ReCraft é especialmente mencionado para identidade visual. A consistência que ele gera entre imagens é uma vantagem para projetos de branding. Nanobanana também funciona bem para esse tipo.
 
@@ -238,4 +236,3 @@ Escolha um projeto atual ou simule um cenário de projeto. Para esse projeto, id
 3. **Teste com um prompt.** Gere uma imagem usando o tipo como palavra-chave. Avalie o resultado: a imagem cumpre a função do tipo que você escolheu?
 
 4. **Tente combinar dois tipos.** Use uma imagem de um tipo como input e peça ao modelo que gere uma imagem de outro tipo a partir dela. Observe o que acontece.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 27 minutos - alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

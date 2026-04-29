@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [22 parágrafos totais] / [1460 palavras estimadas] / [1460 ÷ 200 = 8 minutos]
-
 # Trabalhando Bem com Imagens
 
 **Tempo estimado de leitura:** 8 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: 4 blocos / 17 parágrafos totais / 550 palavras estimadas / 550 ÷ 200 = 3 minutos
-
 # Próximos passos
 
 **Tempo estimado de leitura:** 3 minutos
@@ -15,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## O fechamento da trilha
 
-Matheus encerra agradecendo aos alunos por acompanharem o curso e por estarem abertos a uma nova oportunidade.
+Mateus encerra agradecendo aos alunos por acompanharem o curso e por estarem abertos a uma nova oportunidade.
 
 Ele reforça que, ao chegar ao fim da trilha, o aluno já tem um panorama geral do mercado internacional. Esse panorama pode abrir caminhos na carreira e ajudar a reduzir limitações ligadas às fronteiras do próprio país.
 
@@ -31,7 +29,7 @@ Agora, a tarefa deixa de ser apenas assistir aulas e passa a ser transformar o p
 
 ## Apoio para dificuldades específicas
 
-Matheus comenta que, se o aluno tiver uma dificuldade muito específica, pode buscar apoio para conversar sobre sua jornada, estratégia ou perfil.
+Mateus comenta que, se o aluno tiver uma dificuldade muito específica, pode buscar apoio para conversar sobre sua jornada, estratégia ou perfil.
 
 A ideia é olhar para o desafio real da pessoa: o que ela está tentando fazer, onde está travada e qual caminho faz mais sentido para seu momento.
 
@@ -39,7 +37,7 @@ Esse suporte também pode acontecer na rede de exploradores, onde os alunos pode
 
 ## Continuar pela rede
 
-Matheus reforça a importância de entrar na rede de exploradores, caso o aluno ainda não tenha feito isso. O grupo foi apresentado na segunda aula como espaço de networking e troca.
+Mateus reforça a importância de entrar na rede de exploradores, caso o aluno ainda não tenha feito isso. O grupo foi apresentado na segunda aula como espaço de networking e troca.
 
 Para continuar a jornada, a rede funciona como um lugar para conversar com outros designers, tirar dúvidas e acompanhar pessoas que também querem acessar o mercado internacional.
 
@@ -54,4 +52,3 @@ Escreva sua rota inicial em três linhas:
 - qual serviço pequeno pode oferecer para buscar o primeiro depoimento.
 
 Depois, leve uma dúvida específica para a rede de exploradores. Quanto mais concreta for a dúvida, mais útil tende a ser a troca.
-

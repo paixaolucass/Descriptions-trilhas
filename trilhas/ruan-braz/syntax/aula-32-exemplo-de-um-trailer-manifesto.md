@@ -1,5 +1,3 @@
-Cálculo interno: [2 blocos] / [8 parágrafos totais] / [350 palavras estimadas] / [350 ÷ 200 = 2 minutos]
-
 # Exemplo de um trailer manifesto
 
 **Tempo estimado de leitura:** 2 minutos
@@ -26,5 +24,3 @@ Esse efeito é o teste de um trailer manifesto bem construído: ele não explica
 ## Coloque em prática
 
 Assista ao trailer da Overlens 2025 disponível nesta aula e, com o manifesto da aula anterior em mente, mapeie quais elementos do manifesto aparecem no trailer e quais foram deixados de fora. Identifique qual é a emoção dominante que o trailer produz e verifique se ela corresponde à intenção diretiva definida na aula 31.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [402 palavras estimadas] / [402 ÷ 200 = 3 minutos]
-
 # A relatividade das cores
 
 **Tempo estimado de leitura:** 3 minutos

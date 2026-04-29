@@ -1,5 +1,3 @@
-Cálculo interno: 22 blocos / 65 parágrafos totais / 3750 palavras estimadas / 3750 ÷ 200 = 19 minutos
-
 # Roleplay e Storytelling: como criar personagens e narrativas para expandir o que a IA pode te entregar
 
 **Tempo estimado de leitura:** 19 minutos
@@ -179,4 +177,3 @@ Depois, construa um prompt de roleplay que coloque o mesmo pedido dentro de uma 
 Compare as duas respostas. Anote as diferenças de profundidade, de especificidade e de tom. Pergunte-se: qual das duas respostas é mais útil para o trabalho que você está fazendo? O que o roleplay liberou que o pedido direto não conseguiu?
 
 Se quiser aprofundar, tente o mesmo experimento com dois modelos diferentes - um mais restritivo, como o GPT, e um mais permissivo, como o Grok - e observe como a mesma narrativa é processada de formas diferentes por arquiteturas com calibrações distintas.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 23 minutos, alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

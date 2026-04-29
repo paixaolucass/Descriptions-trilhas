@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [30 parágrafos totais] / [1200 palavras estimadas] / [1200 ÷ 200 = 6 minutos]
-
 # Benefícios de usar IA para vídeos: 3 cases práticos
 
 **Tempo estimado de leitura:** 6 minutos
@@ -62,4 +60,3 @@ A mensagem final é direta: no momento em que esta aula foi gravada, existe uma 
 ## Coloque em prática
 
 Escreva um mini-case pessoal com a mesma estrutura dos três apresentados. Descreva: qual é o seu objetivo, qual é o gargalo que impede ou dificulta esse objetivo, qual ferramenta ou abordagem de IA poderia resolver esse gargalo e qual seria o resultado esperado. Essa reflexão vai ajudar a direcionar o uso das ferramentas ao longo das próximas aulas.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [26 parágrafos totais] / [870 palavras estimadas] / [870 ÷ 200 = 5 minutos]
-
 # Onde Encontrar o Cliente Ideal
 
 **Tempo estimado de leitura:** 5 minutos

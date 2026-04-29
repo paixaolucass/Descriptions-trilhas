@@ -1,5 +1,3 @@
-Cálculo interno: 3 blocos / 9 parágrafos totais / 540 palavras estimadas / 540 ÷ 200 = 3 minutos
-
 # Entropia e Autonomia
 
 **Tempo estimado de leitura:** 3 minutos

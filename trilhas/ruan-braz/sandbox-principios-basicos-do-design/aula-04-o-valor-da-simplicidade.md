@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [26 parágrafos totais] / [1.050 palavras estimadas] / [1.050 ÷ 200 = 6 minutos]
-
 # O valor da simplicidade
 
 **Tempo estimado de leitura:** 6 minutos

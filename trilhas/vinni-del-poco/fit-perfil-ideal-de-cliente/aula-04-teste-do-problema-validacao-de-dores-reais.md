@@ -1,5 +1,3 @@
-Cálculo interno: [9 blocos] / [35 parágrafos totais] / [1.275 palavras estimadas] / [1.275 ÷ 200 = 7 minutos]
-
 # Teste do Problema: Validação de Dores Reais
 
 **Tempo estimado de leitura:** 7 minutos

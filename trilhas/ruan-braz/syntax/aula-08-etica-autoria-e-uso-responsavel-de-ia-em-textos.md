@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [22 parágrafos totais] / [950 palavras estimadas] / [950 ÷ 200 = 5 minutos]
-
 # Ética, autoria e uso responsável de IA em textos
 
 **Tempo estimado de leitura:** 5 minutos
@@ -59,5 +57,3 @@ Para quem quer usar o que aprende para ajudar, para fazer diferença, para escre
 ## Coloque em prática
 
 Antes de escrever seu próximo texto, responda três perguntas: qual é o meu objetivo com esse texto? Quem vai ler esse texto? Que tipo de resultado gero para essas pessoas? Aplique essas perguntas a um texto que você produziu recentemente e avalie se a intenção estava clara antes de começar.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

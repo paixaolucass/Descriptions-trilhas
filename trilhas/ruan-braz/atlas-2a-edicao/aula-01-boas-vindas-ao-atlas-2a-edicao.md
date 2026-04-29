@@ -1,5 +1,3 @@
-Cálculo interno: 2 blocos / 4 parágrafos totais / 200 palavras estimadas / 200 ÷ 200 = 1 minuto
-
 # Boas-vindas ao Atlas 2ª Edição
 
 **Tempo estimado de leitura:** 1 minuto

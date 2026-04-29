@@ -1,5 +1,3 @@
-Cálculo interno: [11 blocos] / [55 parágrafos totais] / [2700 palavras estimadas] / [2700 ÷ 200 = 14 minutos]
-
 # Meta-aprendizado: como aprender qualquer coisa mais rápido
 
 **Tempo estimado de leitura:** 14 minutos
@@ -51,7 +49,7 @@ A pergunta que ele coloca diretamente: você quer se sentir cada vez menos desen
 
 O framework central da aula são três perguntas que estruturam o aprendizado de qualquer habilidade. Respondê-las antes de começar a estudar qualquer coisa dá motivação, direção e plano.
 
-### Por que?
+### Por quê?
 
 O "por que" é a motivação. Ruan usa o exemplo de aprender gaita, algo que está começando no momento da aula. Por que agora? Pode ser porque viu alguém tocando e ficou inspirado. Pode ser para desenvolver um novo hobby ou porque aprender algo novo aumenta a plasticidade cerebral e melhora a capacidade de aprender outras coisas no futuro.
 
@@ -138,5 +136,3 @@ Responda o "por que": anote o motivo real pelo qual você quer aprender essa hab
 Responda o "o que": liste o que precisa aprender dentro dessa habilidade e mapeie por onde começar, separando conceitos, fatos e procedimentos.
 
 Amanhã de manhã, antes de rever qualquer material desta aula, esforce-se para lembrar o que aprendeu sem consultar nada.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

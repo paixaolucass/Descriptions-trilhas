@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [38 parágrafos totais] / [1.400 palavras estimadas] / [1.400 ÷ 200 = 7 minutos]
-
 # Ética, autoria e direitos autorais em música com IA
 
 **Tempo estimado de leitura:** 7 minutos
@@ -93,4 +91,3 @@ O pedido final é direto: pense para quê você quer usar IA para gerar música,
 ## Coloque em prática
 
 Antes de publicar qualquer música gerada com IA, responda a três perguntas. A voz usada tem autorização explícita do artista original ou você usou apenas a sua própria voz? A faixa foi gerada em plano pago da plataforma, garantindo o direito autoral? Você leu a documentação da plataforma e da distribuidora sobre o que pode e não pode fazer com esse conteúdo comercialmente? Essas três perguntas não eliminam toda a complexidade do assunto, mas cobrem a maior parte dos problemas práticos que surgem quando músicas geradas com IA entram em circulação.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: [2 blocos] / [10 parágrafos totais] / [350 palavras estimadas] / [350 ÷ 200 = 2 minutos]
-
 # Criando seu primeiro texto em 5 minutos
 
 **Tempo estimado de leitura:** 2 minutos
@@ -25,5 +23,3 @@ O exercício revela algo importante: quando cada pessoa aplica seu próprio enqu
 ## Coloque em prática
 
 Escreva um texto sobre o tema "o poder da criação na história da humanidade". O texto deve ter título e desenvolvimento, aplicando os critérios aprendidos na trilha. Publique nos comentários da aula e veja o que os outros fizeram com o mesmo ponto de partida.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

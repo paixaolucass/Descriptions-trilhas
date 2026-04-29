@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [30 parágrafos totais] / [1200 palavras estimadas] / [1200 ÷ 200 = 6 minutos]
-
 # Para quem é esta trilha
 
 **Tempo estimado de leitura:** 6 minutos
@@ -60,4 +58,3 @@ Com a IA acontece o mesmo. Mais pessoas podem realizar suas ideias. O mercado fi
 ## Coloque em prática
 
 Identifique em qual dos perfis apresentados você se encaixa com mais precisão. Depois, escreva em poucas linhas o gargalo específico que você tem hoje na produção de vídeo: falta de câmera, falta de tempo para editar, dificuldade de aparecer em câmera, custo de produção alto, ou outro. Esse gargalo vai ser o seu ponto de partida para aplicar o que você aprende ao longo da trilha.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: 562 timestamps / 140 parágrafos / 3900 palavras estimadas / 3900 ÷ 200 = 19.5 minutos
-
 # Tipos de Ferramentas e Ferramentas de Geração de Imagens
 
 **Tempo estimado de leitura:** 19 minutos
@@ -19,7 +17,7 @@ Ao final desta aula, você será capaz de:
 
 O primeiro passo para poder escolher as ferramentas certas para cada contexto é saber quais tipos de ferramentas existem. Com esse mapa em mãos, a pesquisa e a escolha se tornam muito mais eficientes. Esta aula apresenta os tipos, mostra as principais ferramentas do mercado, e encerra com as recomendações pessoais de Ruan para quem está começando.
 
-O ecossistema é enorme. Apenas para contextualizar: entre as ferramentas com maior presença no mercado em março de 2026, estão OpenAI (ChatGPT/Sora), Runway, CREA, MidJourney, Flux, ConfiWi, Leonardo.AI e muitas outras. E ainda não entram nessa lista ferramentas igualmente relevantes como Nanobanana (Imagen do Google), Seedream (C-Dream, da ByteDance) e Seedring (C-Dance, da ByteDance para vídeo). O objetivo desta aula não é cobrir tudo, mas criar o mapa que permite navegar com intenção.
+O ecossistema é enorme. Apenas para contextualizar: entre as ferramentas com maior presença no mercado em março de 2026, estão OpenAI (ChatGPT/Sora), Runway, CREA, Midjourney, Flux, ComfyUI, Leonardo.AI e muitas outras. E ainda não entram nessa lista ferramentas igualmente relevantes como Nanobanana (Imagen do Google), Seedream (C-Dream, da ByteDance) e Seedring (C-Dance, da ByteDance para vídeo). O objetivo desta aula não é cobrir tudo, mas criar o mapa que permite navegar com intenção.
 
 ## Os Tipos de Ferramentas
 
@@ -37,7 +35,7 @@ Os modelos de geração de imagem são a categoria principal quando o foco é cr
 
 Os modelos multimodais são aqueles que permitem gerar texto, imagem, vídeo e música - ou qualquer combinação desses formatos - dentro de um mesmo ambiente. Exemplos claros:
 
-**Gemini (Google):** Quando você acessa o Gemini, encontra opções diretas de: criar imagem, criar música, escrever algo, me ajude a aprender, organizar meu dia. Além disso, tem integração com notebook LM, Canva, pesquisa profunda e aprendizado guiado. O Gemini também permite gerar vídeo. É um modelo que começa no texto, mas aceita áudio e imagem como input. Tecnicamente, é um modelo com múltiplos modelos integrados.
+**Gemini (Google):** Quando você acessa o Gemini, encontra opções diretas de: criar imagem, criar música, escrever algo, me ajude a aprender, organizar meu dia. Além disso, tem integração com NotebookLM, Canva, pesquisa profunda e aprendizado guiado. O Gemini também permite gerar vídeo. É um modelo que começa no texto, mas aceita áudio e imagem como input. Tecnicamente, é um modelo com múltiplos modelos integrados.
 
 **ChatGPT (OpenAI):** Multimodal, com capacidade de adicionar foto, criar imagem, fazer pesquisa profunda, pesquisa de produtos, busca na web. Tem modo agente, adicionar fontes, lousa, integração com Figma, questionários, e suporte a apps adicionais. O ChatGPT não gera vídeo diretamente pelo chat principal (isso fica no Sora, aplicativo separado), mas cobre uma gama ampla de modalidades.
 
@@ -82,9 +80,9 @@ Ruan abre um Google Docs ao vivo e registra as recomendações enquanto fala. A 
 - Tem pesquisa muito boa, com capacidade de buscar centenas de fontes (200, 300, 400 fontes) em pesquisas profundas
 - Integra o Nanobanana (Imagen do Google) - atualmente um dos melhores modelos de geração de imagem do mundo, que frequentemente disputa o primeiro lugar nas arenas de qualidade
 
-O Nanobanana 2 foi lançado recentemente no momento da gravação, em competição direta com o Seedream 4.5 da ByteDance. No leaderboard do Hugging Face (Litter Board Image AI Gen), o GPT-Image aparecia em primeiro lugar, com Nanobanana em segundo, seguido por Flux e Seedream.
+O Nanobanana 2 foi lançado recentemente no momento da gravação, em competição direta com o Seedream 4.5 da ByteDance. No leaderboard de geração de imagens do Hugging Face, o GPT-Image aparecia em primeiro lugar, com Nanobanana em segundo, seguido por Flux e Seedream.
 
-Além do modelo de geração de imagem, com o Gemini assinado você consegue: importar código, usar notebook LM, adicionar arquivos do Drive, pesquisa profunda com centenas de fontes, e acesso ao Nanobanana para geração de imagens.
+Além do modelo de geração de imagem, com o Gemini assinado você consegue: importar código, usar NotebookLM, adicionar arquivos do Drive, pesquisa profunda com centenas de fontes, e acesso ao Nanobanana para geração de imagens.
 
 Os modelos disponíveis no Gemini incluem: modelo rápido, modelo de raciocínio e modelo pró. Na versão assinada, há acesso a mais capacidades e maiores limites de uso.
 
@@ -140,7 +138,7 @@ Para experimentar sem custo, o CREA é um hub que inclui o Flux e permite começ
 
 ### ChatGPT / GPT-Image (OpenAI)
 
-No momento da gravação, o GPT-Image estava em primeiro lugar no Arena AI (arena de votação da comunidade) com o maior score entre os modelos de geração de imagem. Na análise do Litter Board Image AI Gen, também aparecia no topo.
+No momento da gravação, o GPT-Image estava em primeiro lugar no Arena AI (arena de votação da comunidade) com o maior score entre os modelos de geração de imagem. Na análise do leaderboard de geração de imagens do Hugging Face, também aparecia no topo.
 
 Uma funcionalidade interessante: você pode usar o GPT diretamente no Sora (o aplicativo da OpenAI para imagem e vídeo). No Sora existe um feed da comunidade, onde você vê o que outras pessoas estão gerando. É quase uma rede social de imagens e vídeos gerados por IA.
 
@@ -150,15 +148,15 @@ Para código, o GPT também tem o Codex, que vai competir fortemente nesse merca
 
 A QWen funciona como LLM (modelo de linguagem grande) e também permite gerar imagens. Uma das vantagens dos modelos chineses é o preço: geralmente são gratuitos ou mais baratos do que os ocidentais. Isso os torna interessantes como alternativas de custo mais baixo para quem quer acesso a múltiplas ferramentas sem aumentar muito o orçamento.
 
-### MidJourney
+### Midjourney
 
-O MidJourney é um favorito pessoal da equipe Overlens, com ressalvas claras. A equipe usa e paga o MidJourney, e tem um grande acervo de imagens geradas na plataforma ao longo de um ano. Mas a recomendação é contextual: se você tiver que assinar apenas uma ferramenta, MidJourney não é a primeira escolha.
+O Midjourney é um favorito pessoal da equipe Overlens, com ressalvas claras. A equipe usa e paga o Midjourney, e tem um grande acervo de imagens geradas na plataforma ao longo de um ano. Mas a recomendação é contextual: se você tiver que assinar apenas uma ferramenta, Midjourney não é a primeira escolha.
 
-O ponto forte do MidJourney é a conveniência operacional: você gerou uma imagem e quer transformá-la em vídeo? É simples, com a opção de "pouco movimento" ou "muito movimento". Ele gera quatro variações de vídeo a partir da imagem. Isso é muito bom para redes sociais quando se quer um fluxo rápido. O vídeo já pode ser baixado diretamente em formato otimizado para redes sociais ("Download Video for Social Media").
+O ponto forte do Midjourney é a conveniência operacional: você gerou uma imagem e quer transformá-la em vídeo? É simples, com a opção de "pouco movimento" ou "muito movimento". Ele gera quatro variações de vídeo a partir da imagem. Isso é muito bom para redes sociais quando se quer um fluxo rápido. O vídeo já pode ser baixado diretamente em formato otimizado para redes sociais ("Download Video for Social Media").
 
-Outra vantagem do MidJourney é o sistema de seeds: permite reproduzir resultados com consistência, o que é valioso para projetos que precisam de coerência visual entre múltiplas imagens. A conexão com o Figma também funciona bem.
+Outra vantagem do Midjourney é o sistema de seeds: permite reproduzir resultados com consistência, o que é valioso para projetos que precisam de coerência visual entre múltiplas imagens. A conexão com o Figma também funciona bem.
 
-O MidJourney é focado exclusivamente no visual: imagem, vídeo, mood boards, estilos. É uma ferramenta puramente criativa, sem capacidades de texto ou pesquisa.
+O Midjourney é focado exclusivamente no visual: imagem, vídeo, mood boards, estilos. É uma ferramenta puramente criativa, sem capacidades de texto ou pesquisa.
 
 ### Visual Electric
 
@@ -202,9 +200,9 @@ O Leonardo.AI entra na mesma categoria de hubs: Freepik, Runway, Firefly, Leonar
 
 Uma das perguntas mais frequentes é: como saber quais modelos estão sendo melhor avaliados pela comunidade? Ruan apresentou dois recursos práticos:
 
-### Litter Board Image AI Gen (Hugging Face)
+### Leaderboard de geração de imagens do Hugging Face
 
-Você digita "Litter Board Image AI Gen" no Google e encontra as arenas de votação. O funcionamento é simples: a plataforma mostra duas imagens geradas por modelos diferentes, sem revelar qual modelo gerou cada uma. Você vota na que considera melhor. Depois da votação, a plataforma revela quais eram os modelos. Com centenas de milhares de votos acumulados, o ranking reflete a preferência da comunidade de forma razoavelmente robusta.
+Você acessa o leaderboard de geração de imagens do Hugging Face e encontra as arenas de votação. O funcionamento é simples: a plataforma mostra duas imagens geradas por modelos diferentes, sem revelar qual modelo gerou cada uma. Você vota na que considera melhor. Depois da votação, a plataforma revela quais eram os modelos. Com centenas de milhares de votos acumulados, o ranking reflete a preferência da comunidade de forma razoavelmente robusta.
 
 No momento da gravação, o ranking de text-to-image tinha: GPT-Image em primeiro, Nanobanana em segundo, seguido por Flux e Seedream. O Seedream ficava um pouco para trás da preferência da comunidade, apesar de Ruan gostar muito do modelo pessoalmente - o que ilustra que preferências individuais e preferências da comunidade podem divergir.
 
@@ -238,9 +236,8 @@ Monte o seu pack pessoal de ferramentas com base nas suas necessidades específi
 
 2. **Escolha a ferramenta principal de LLM + imagem:** Gemini ou ChatGPT. Leia o que cada um oferece no plano que faz sentido para o seu orçamento. Se precisar de foco em código também, o ChatGPT com Codex é forte nesse aspecto.
 
-3. **Escolha a ferramenta de estúdio:** Freepik é a recomendação para quem quer acesso a múltiplos modelos com uma única assinatura. MidJourney é uma alternativa se você precisa de fluxo rápido de imagem para vídeo.
+3. **Escolha a ferramenta de estúdio:** Freepik é a recomendação para quem quer acesso a múltiplos modelos com uma única assinatura. Midjourney é uma alternativa se você precisa de fluxo rápido de imagem para vídeo.
 
-4. **Acesse um leaderboard esta semana:** Entre no Litter Board Image AI Gen ou no Arena AI. Vote em pelo menos 10 pares de imagens. Observe qual modelo é revelado como vencedor nos pares que você votou. Isso ajuda a calibrar sua percepção de qualidade em relação à comunidade.
+4. **Acesse um leaderboard esta semana:** Entre no leaderboard de geração de imagens do Hugging Face ou no Arena AI. Vote em pelo menos 10 pares de imagens. Observe qual modelo é revelado como vencedor nos pares que você votou. Isso ajuda a calibrar sua percepção de qualidade em relação à comunidade.
 
 5. **Registre as recomendações:** Elas foram dadas em março de 2026 e serão atualizadas ao longo do curso. O mercado muda rápido. O que está no topo hoje pode mudar em semanas. O método de acompanhamento (leaderboards + testes pessoais) não muda.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 28 minutos - alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

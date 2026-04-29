@@ -1,5 +1,3 @@
-Cálculo interno: [14 blocos] / [42 parágrafos totais] / [2360 palavras estimadas] / [2360 ÷ 200 = 12 minutos]
-
 # Manifesto da marca
 
 **Tempo estimado de leitura:** 12 minutos

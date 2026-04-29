@@ -1,5 +1,3 @@
-Cálculo interno: [9 blocos] / [48 parágrafos totais] / [3200 palavras estimadas] / [3200 ÷ 200 = 16 minutos]
-
 # Estruturas avançadas de prompt
 
 **Tempo estimado de leitura:** 16 minutos
@@ -89,7 +87,7 @@ O estilo pode ser orientado para a estética da imagem (fotorrealista, granulaç
 
 **Image-to-video como padrão.** Gerar a imagem de referência do personagem e usá-la como base para todos os clipes é a prática mais eficaz e mais usada hoje. Quando a IA tem a imagem como ponto de partida, ela precisa fazer muito menos suposições sobre como o personagem parece, e a consistência melhora dramaticamente.
 
-**Seeds.** Sementes são códigos que ancoram um resultado específico dentro do processo de geração. Se você gerou um resultado que ficou exatamente como queria, você pode pegar a seed daquele resultado e usá-la para gerar variações que mantêm a mesma estética ou o mesmo estilo visual. É o mesmo princípio do Minecraft: a seed é o código que reproduz o mesmo mundo. No Kling, no Mid-Journey e no Hailuo você pode fixar seeds depois de encontrar um resultado satisfatório. O Freepik e o Higgsfield costumam remover as seeds da interface nas atualizações.
+**Seeds.** Sementes são códigos que ancoram um resultado específico dentro do processo de geração. Se você gerou um resultado que ficou exatamente como queria, você pode pegar a seed daquele resultado e usá-la para gerar variações que mantêm a mesma estética ou o mesmo estilo visual. É o mesmo princípio do Minecraft: a seed é o código que reproduz o mesmo mundo. No Kling, no Midjourney e no Hailuo você pode fixar seeds depois de encontrar um resultado satisfatório. O Freepik e o Higgsfield costumam remover as seeds da interface nas atualizações.
 
 **Quando usar seed.** A seed é uma ferramenta de refinamento final, não de início. Primeiro você itera com prompts até chegar num resultado que satisfaz. Depois, quando você quer gerar variações mantendo a mesma estética ou o mesmo personagem, aí você fixa a seed daquele resultado específico.
 
@@ -144,4 +142,3 @@ O resultado gerado pelo Kling teve todos os elementos da cena, mas ficou com est
 ## Coloque em prática
 
 Construa o prompt completo da cena que você quer criar usando as 6 camadas em ordem, num documento externo. Depois jogue esse rascunho numa IA de texto (Gemini, Claude ou ChatGPT) e peça para ela formatar como prompt cinematográfico para geração de vídeo. Compare o prompt que você escreveu com o que a IA gerou. Use o prompt da IA como base, ajuste o que não representou a sua intenção, e gere o vídeo. Na próxima iteração, altere apenas uma camada por vez.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

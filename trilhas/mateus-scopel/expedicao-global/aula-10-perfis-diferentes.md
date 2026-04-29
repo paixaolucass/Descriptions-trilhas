@@ -1,5 +1,3 @@
-Cálculo interno: 7 blocos / 42 parágrafos totais / 1.500 palavras estimadas / 1.500 ÷ 200 = 8 minutos
-
 # Perfis diferentes
 
 **Tempo estimado de leitura:** 8 minutos
@@ -15,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## Perfis especializados
 
-Matheus apresenta os perfis especializados como uma parte importante do perfil na Upwork. Eles permitem criar versões diferentes do perfil para áreas específicas.
+Mateus apresenta os perfis especializados como uma parte importante do perfil na Upwork. Eles permitem criar versões diferentes do perfil para áreas específicas.
 
 No exemplo dele, há perfis para Brand Identity Design e Presentation Design. Ambos fazem parte do universo de design gráfico, mas atendem buscas e clientes diferentes.
 
@@ -39,7 +37,7 @@ Isso aumenta a contextualização, economiza tempo do cliente e melhora a chance
 
 ## Configurações do perfil
 
-Matheus mostra que os perfis especializados podem ser editados nas configurações do perfil. Ali também ficam visibilidade pública, preferência por trabalhos de curto ou longo prazo, nível de experiência e categorias.
+Mateus mostra que os perfis especializados podem ser editados nas configurações do perfil. Ali também ficam visibilidade pública, preferência por trabalhos de curto ou longo prazo, nível de experiência e categorias.
 
 As categorias são importantes para o match com clientes. No caso dele, aparece Design and Creative.
 
@@ -55,7 +53,7 @@ No perfil geral, aparecem todos. Nos especializados, a curadoria ajuda o cliente
 
 ## Perfil específico e perfil generalista
 
-Matheus recomenda que, no início, o aluno tenha um perfil mais específico para o serviço que quer vender e outro mais generalista.
+Mateus recomenda que, no início, o aluno tenha um perfil mais específico para o serviço que quer vender e outro mais generalista.
 
 No caso de design, poderia ser um perfil de Brand Identity e outro de Graphic Design. O perfil generalista permite enviar propostas para trabalhos mais amplos, sem limitar demais as oportunidades.
 
@@ -78,4 +76,3 @@ Para cada um, escolha:
 - categorias e tags.
 
 Depois, teste qual perfil faria mais sentido em três projetos diferentes da Upwork.
-

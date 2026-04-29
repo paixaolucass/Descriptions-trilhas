@@ -1,5 +1,3 @@
-Cálculo interno: [11 blocos] / [43 parágrafos totais] / [1935 palavras estimadas] / [1935 ÷ 200 = 10 minutos]
-
 # Introdução à metodologia do projeto
 
 **Tempo estimado de leitura:** 10 minutos

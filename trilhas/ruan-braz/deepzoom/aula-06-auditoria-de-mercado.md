@@ -1,5 +1,3 @@
-Cálculo interno: [16 blocos] / [93 parágrafos totais] / [4000 palavras estimadas] / [4000 ÷ 200 = 20 minutos]
-
 # Auditoria de mercado
 
 **Tempo estimado de leitura:** 20 minutos
@@ -220,5 +218,3 @@ Depois, selecione top players locais, nacionais e internacionais. Crie um docume
 Transforme as observações em uma síntese. Liste oportunidades, ameaças, pontos de paridade e pontos diferenciais potenciais. Use perguntas como o que todo mundo faz igual, quais atributos são valorizados e quais brechas de comunicação ainda não foram exploradas.
 
 Por fim, teste pelo menos uma ferramenta complementar: 5 por quês em uma entrevista, território de palavras em sites do mercado, mapa de stakeholders ou plataforma de posicionamento. O objetivo é sair da coleta solta e transformar a auditoria em matéria-prima clara para estratégia.
-
-Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.

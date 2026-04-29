@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [517 palavras estimadas] / [517 ÷ 200 = 3 minutos]
-
 # Objetivo e filosofia do curso
 
 **Tempo estimado de leitura:** 3 minutos

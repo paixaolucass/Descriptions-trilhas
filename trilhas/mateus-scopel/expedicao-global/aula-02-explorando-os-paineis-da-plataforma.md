@@ -1,5 +1,3 @@
-Cálculo interno: 12 blocos / 70 parágrafos totais / 2.500 palavras estimadas / 2.500 ÷ 200 = 13 minutos
-
 # Explorando os painéis da plataforma
 
 **Tempo estimado de leitura:** 13 minutos
@@ -15,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## Visão geral da plataforma
 
-Matheus apresenta a plataforma por dentro para que o aluno saiba onde estão as principais abas e funções. A aula é mais burocrática, mas serve como preparação para as estratégias de perfil, propostas e prospecção.
+Mateus apresenta a plataforma por dentro para que o aluno saiba onde estão as principais abas e funções. A aula é mais burocrática, mas serve como preparação para as estratégias de perfil, propostas e prospecção.
 
 A primeira área é o feed, onde aparecem os projetos disponíveis. Em aulas posteriores, ele mostrará como filtrar melhor esses projetos para gastar menos tempo e focar nas oportunidades mais alinhadas.
 
@@ -33,13 +31,13 @@ Essa função ajuda a separar oportunidades interessantes antes de enviar propos
 
 A área de propostas e ofertas reúne ofertas recebidas, convites para entrevistas, propostas ativas e propostas já enviadas.
 
-Matheus também mostra a área de serviços, que será aprofundada nas aulas de perfil. Ali é possível criar serviços prontos, como um projeto de marca por um valor definido.
+Mateus também mostra a área de serviços, que será aprofundada nas aulas de perfil. Ali é possível criar serviços prontos, como um projeto de marca por um valor definido.
 
 Esses serviços aparecem no perfil e podem ser contratados diretamente pelo cliente. É uma estratégia que pode ajudar a receber clientes sem gastar tantos connects.
 
 ## Contratos diretos e trabalhos ativos
 
-Matheus comenta os contratos diretos, que permitem trazer clientes de fora para dentro da Upwork. Essa possibilidade será útil especialmente para quem quer conquistar o primeiro depoimento gastando menos.
+Mateus comenta os contratos diretos, que permitem trazer clientes de fora para dentro da Upwork. Essa possibilidade será útil especialmente para quem quer conquistar o primeiro depoimento gastando menos.
 
 Na área de trabalhos, aparecem os contratos ativos da conta. Em histórico de contratos, ficam os projetos já desenvolvidos.
 
@@ -47,15 +45,15 @@ Ele também explica que existem duas formas de cobrar: por projeto fechado ou po
 
 ## Visão financeira da Upwork
 
-O Financial Overview mostra os valores que o freelancer tem para receber. Matheus compara essa área a uma esteira.
+O Financial Overview mostra os valores que o freelancer tem para receber. Mateus compara essa área a uma esteira.
 
 Primeiro, aparece o valor referente às horas ou entregas realizadas. Depois, ao fechar a semana, o valor passa para uma etapa em que o cliente revisa. Em seguida, fica pendente enquanto a plataforma aplica suas taxas.
 
-Após esse processo, o dinheiro fica disponível para saque. Matheus menciona que as taxas da plataforma estavam mudando em maio de 2025, podendo variar conforme o trabalho.
+Após esse processo, o dinheiro fica disponível para saque. Mateus menciona que as taxas da plataforma estavam mudando em maio de 2025, podendo variar conforme o trabalho.
 
 ## Mensagens e segurança
 
-A área de mensagens é importante porque permite manter a comunicação dentro da plataforma. Matheus alerta que, se um cliente tenta levar a conversa para Telegram ou WhatsApp logo no começo, provavelmente é golpe.
+A área de mensagens é importante porque permite manter a comunicação dentro da plataforma. Mateus alerta que, se um cliente tenta levar a conversa para Telegram ou WhatsApp logo no começo, provavelmente é golpe.
 
 Além de aumentar risco, isso pode ir contra as diretrizes da Upwork. A recomendação é manter o contato inicial dentro da plataforma, principalmente nos primeiros projetos.
 
@@ -63,7 +61,7 @@ Sair da Upwork só faz sentido depois de avaliar o cliente, já ter trabalhado c
 
 ## Pesquisa, suporte e atualizações
 
-A barra de pesquisa permite buscar projetos, talentos e outros profissionais. Matheus recomenda usar essa busca para observar o que outros designers estão fazendo.
+A barra de pesquisa permite buscar projetos, talentos e outros profissionais. Mateus recomenda usar essa busca para observar o que outros designers estão fazendo.
 
 A área de suporte também é destacada. Ela reúne artigos sobre a plataforma, atendimento a clientes, serviços e funcionamento geral da Upwork.
 
@@ -71,7 +69,7 @@ Ele afirma que a maioria das pessoas não olha essa área, mas ela funciona como
 
 ## IA da Upwork
 
-Matheus mostra a Uma, uma IA da Upwork ainda em beta. A proposta dela é ajudar a procurar projetos e escrever propostas.
+Mateus mostra a Uma, uma IA da Upwork ainda em beta. A proposta dela é ajudar a procurar projetos e escrever propostas.
 
 Ele testou e não gostou muito dos resultados. Considera a ferramenta limitada no momento da gravação.
 
@@ -83,19 +81,19 @@ Na área da conta, ficam as informações do perfil: foto, descrição, perfis e
 
 Muitos desses elementos serão aprofundados nas próximas aulas. A visão geral serve para o aluno localizar onde cada parte será configurada.
 
-Matheus destaca que depoimentos externos também podem ser adicionados, e isso será ensinado depois.
+Mateus destaca que depoimentos externos também podem ser adicionados, e isso será ensinado depois.
 
 ## Métricas e status
 
 A área de status mostra dados sobre o perfil, engajamento e propostas. O aluno pode acompanhar quanto recebeu nos últimos 12 meses, quantas propostas foram enviadas, quantas foram visualizadas, quantas viraram entrevista e quantas viraram contratação.
 
-Matheus compara isso a um funil. A plataforma também mostra métricas de visualizações, convites, impressões e cliques.
+Mateus compara isso a um funil. A plataforma também mostra métricas de visualizações, convites, impressões e cliques.
 
 Há ainda dados sobre relação com clientes, taxa de sucesso de trabalho e insígnias. Esses elementos aumentam conforme o profissional conclui projetos e acumula bons resultados.
 
 ## Assinatura, connects e ofertas
 
-Matheus mostra a assinatura da Upwork, mas não recomenda no primeiro momento. Para iniciantes, não parece valer a pena.
+Mateus mostra a assinatura da Upwork, mas não recomenda no primeiro momento. Para iniciantes, não parece valer a pena.
 
 A área de connects mostra os créditos disponíveis e dados de uso. Também há ofertas da plataforma, como descontos em Adobe, Photoshop, ClickUp e outras ferramentas.
 
@@ -105,7 +103,7 @@ Essas ofertas podem ajudar o freelancer a melhorar o próprio fluxo de trabalho,
 
 Nas configurações ficam métodos de pagamento, connects, informações de contato, visibilidade do perfil, preferências de trabalho, nível de experiência, categorias, perfis especializados e contas vinculadas.
 
-Matheus recomenda que profissionais já atuantes no nicho coloquem expert no nível de experiência. Quem está começando pode usar intermediário.
+Mateus recomenda que profissionais já atuantes no nicho coloquem expert no nível de experiência. Quem está começando pode usar intermediário.
 
 A verificação de identidade só fica disponível depois que o freelancer consegue o primeiro projeto e fecha o primeiro contrato dentro da Upwork. Se um cliente questionar isso antes, o aluno pode explicar que a própria plataforma só libera a verificação depois.
 

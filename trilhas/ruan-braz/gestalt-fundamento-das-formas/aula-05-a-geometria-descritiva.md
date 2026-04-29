@@ -1,5 +1,3 @@
-Cálculo interno: [9 blocos] / [38 parágrafos totais] / [1600 palavras estimadas] / [1600 ÷ 200 = 8 minutos]
-
 # A Geometria Descritiva
 
 **Tempo estimado de leitura:** 8 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [22 parágrafos totais] / [870 palavras estimadas] / [870 ÷ 200 = 5 minutos]
-
 # Como Encontrar e Resolver Objeções de Clientes
 
 **Tempo estimado de leitura:** 5 minutos

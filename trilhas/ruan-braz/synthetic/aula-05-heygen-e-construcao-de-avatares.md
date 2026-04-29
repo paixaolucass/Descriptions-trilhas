@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [19 parágrafos totais] / [850 palavras estimadas] / [850 ÷ 200 = 4 minutos]
-
 # HeyGen e construção de avatares
 
 **Tempo estimado de leitura:** 4 minutos
@@ -53,5 +51,3 @@ Ruan deixa claro um princípio que vale para todas as ferramentas desta trilha: 
 ## Coloque em prática
 
 Grave um vídeo de dois a três minutos falando de frente para a câmera em orientação vertical, com boa iluminação e ambiente silencioso. Faça upload no HeyGen e explore as opções de voz disponíveis. Crie um vídeo de teste com a ferramenta gratuita e observe o que funcionou e o que precisaria de ajuste. Se quiser criar o avatar de uma persona fictícia, use o Gemini para processar a imagem em formato 16:9 antes do upload.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

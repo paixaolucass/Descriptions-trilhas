@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [25 parágrafos totais] / [1100 palavras estimadas] / [1100 ÷ 200 = 6 minutos]
-
 # Elementos de um bom texto
 
 **Tempo estimado de leitura:** 6 minutos
@@ -85,5 +83,3 @@ A clareza, o propósito, a direção e todos os outros pilares são responsabili
 ## Coloque em prática
 
 Pegue um texto recente, seja escrito manualmente ou gerado com IA, e aplique os três filtros: o objetivo está claro e a ação que quero que o leitor tome está definida? Tem palavras vazias que podem ser trocadas por imagens ou sinônimos mais precisos? O ritmo está agradável de ler ou a IA criou frases muito curtas que soam robóticas?
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

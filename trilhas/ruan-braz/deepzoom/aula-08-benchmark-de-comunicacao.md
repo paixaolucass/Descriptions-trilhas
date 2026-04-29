@@ -1,5 +1,3 @@
-Cálculo interno: [15 blocos] / [84 parágrafos totais] / [3480 palavras estimadas] / [3480 ÷ 200 = 18 minutos]
-
 # Benchmark de comunicação
 
 **Tempo estimado de leitura:** 18 minutos

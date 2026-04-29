@@ -1,5 +1,3 @@
-Cálculo interno: 10 blocos / 31 parágrafos totais / 1900 palavras estimadas / 1900 ÷ 200 = 10 minutos
-
 # Desenvolvimento de Brand System
 
 **Tempo estimado de leitura:** 10 minutos

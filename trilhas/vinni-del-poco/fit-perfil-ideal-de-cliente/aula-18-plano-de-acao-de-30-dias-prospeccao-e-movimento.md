@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [23 parágrafos totais] / [920 palavras estimadas] / [920 ÷ 200 = 5 minutos]
-
 # Plano de Ação de 30 Dias: Prospecção é Movimento
 
 **Tempo estimado de leitura:** 5 minutos
@@ -37,7 +35,7 @@ Essa revisão semanal é essencial: qual mensagem teve mais resposta, qual abord
 
 **Semana 2:** adicionar 5 novas empresas da prospecção fria usando a ferramenta que mais funcionar para você. Envie a primeira mensagem para esses contatos novos. Ao mesmo tempo, faça a segunda rodada com a rede quente da semana anterior: o follow-up com quem ainda não respondeu.
 
-**Semana 3:** continuar adicionando 5 novos contatos frios. Iniciar o follow-up com os contatos frios da semana anterior. Enviar o imã de leads para pelo menos três empresas que já demonstraram algum grau de abertura na semana 1 ou 2, quando você identificar que elas já estão prontas para um papo mais profundo.
+**Semana 3:** continuar adicionando 5 novos contatos frios. Iniciar o follow-up com os contatos frios da semana anterior. Enviar o ímã de leads para pelo menos três empresas que já demonstraram algum grau de abertura na semana 1 ou 2, quando você identificar que elas já estão prontas para um papo mais profundo.
 
 **Semana 4:** mais 5 contatos novos. Terceira e última tentativa com quem não respondeu. E a revisão completa do mês: quantas conversas você teve, quantas mensagens enviou, quantas propostas fez, alguma virou reunião, alguma virou contrato.
 

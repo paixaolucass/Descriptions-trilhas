@@ -1,5 +1,3 @@
-Cálculo interno: [10 blocos] / [48 parágrafos totais] / [2400 palavras estimadas] / [2400 ÷ 200 = 12 minutos]
-
 # Visão prismática: como enxergar mais longe
 
 **Tempo estimado de leitura:** 12 minutos
@@ -98,5 +96,3 @@ Escreva sua tese sobre esse tema e peça ao ChatGPT os argumentos de autores res
 Em seguida, peça os principais argumentos contrários, a antítese.
 
 Por último, peça à IA que ajude a construir uma síntese: o que essas duas visões revelam juntas que nenhuma delas revelaria sozinha?
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

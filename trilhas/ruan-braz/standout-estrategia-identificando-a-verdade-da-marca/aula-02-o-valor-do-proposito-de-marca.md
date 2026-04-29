@@ -1,5 +1,3 @@
-Cálculo interno: [10 blocos] / [46 parágrafos totais] / [2.010 palavras estimadas] / [2.010 ÷ 200 = 11 minutos]
-
 # O valor do propósito de marca
 
 **Tempo estimado de leitura:** 10 minutos

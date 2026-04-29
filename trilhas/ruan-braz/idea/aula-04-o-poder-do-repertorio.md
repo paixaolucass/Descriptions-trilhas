@@ -1,5 +1,3 @@
-Cálculo interno: 10 blocos / 38 parágrafos totais / 1140 palavras estimadas / 1140 ÷ 200 = 5,7 minutos
-
 # O poder do repertório
 
 **Tempo estimado de leitura:** 6 minutos

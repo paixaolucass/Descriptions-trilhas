@@ -1,5 +1,3 @@
-Cálculo interno: [17 blocos] / [71 parágrafos totais] / [3210 palavras estimadas] / [3210 ÷ 200 = 17 minutos]
-
 # Auditoria do negócio
 
 **Tempo estimado de leitura:** 17 minutos

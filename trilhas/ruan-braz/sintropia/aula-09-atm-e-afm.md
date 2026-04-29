@@ -1,5 +1,3 @@
-Cálculo interno: 6 blocos / 21 parágrafos totais / 1395 palavras estimadas / 1395 ÷ 200 = 7 minutos
-
 # ATM e AFM
 
 **Tempo estimado de leitura:** 7 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [12 parágrafos totais] / [465 palavras estimadas] / [465 ÷ 200 = 3 minutos]
-
 # Conclusão
 
 **Tempo estimado de leitura:** 3 minutos

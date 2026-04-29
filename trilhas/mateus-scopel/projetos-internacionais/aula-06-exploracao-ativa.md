@@ -1,5 +1,3 @@
-Cálculo interno: 10 blocos / 61 parágrafos totais / 2.250 palavras estimadas / 2.250 ÷ 200 = 12 minutos
-
 # Exploração ativa
 
 **Tempo estimado de leitura:** 12 minutos
@@ -15,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## Traçar rotas até novos clientes
 
-Matheus apresenta a aula como uma visão geral de exploração ativa: formas de chegar até clientes estrangeiros usando plataformas, sites e ferramentas.
+Mateus apresenta a aula como uma visão geral de exploração ativa: formas de chegar até clientes estrangeiros usando plataformas, sites e ferramentas.
 
 A proposta é mostrar que existem várias alternativas para começar a captar clientes internacionais. Algumas funcionam melhor para iniciantes, outras fazem mais sentido em fases avançadas.
 
@@ -23,7 +21,7 @@ O objetivo não é esgotar todas as opções, mas dar um mapa inicial para o alu
 
 ## Behance como portfólio encontrável
 
-A primeira plataforma apresentada é o Behance. Matheus lembra que seu primeiro projeto internacional veio por lá, quando um cliente encontrou um projeto publicado no portfólio e enviou mensagem.
+A primeira plataforma apresentada é o Behance. Mateus lembra que seu primeiro projeto internacional veio por lá, quando um cliente encontrou um projeto publicado no portfólio e enviou mensagem.
 
 Por isso, ele recomenda ter um perfil bem estruturado, com projetos organizados, tags e palavras-chave. Esse cuidado aumenta a chance de ser encontrado pela busca.
 
@@ -31,7 +29,7 @@ Ele também cita a importância de SEO dentro dos projetos, para que possíveis 
 
 ## A aba de carreiras do Behance
 
-Matheus mostra a aba de carreiras do Behance, que reúne vagas e oportunidades. Ele comenta que já fez alguns testes e não teve muito resultado, mas acredita que pode fazer sentido com mais esforço.
+Mateus mostra a aba de carreiras do Behance, que reúne vagas e oportunidades. Ele comenta que já fez alguns testes e não teve muito resultado, mas acredita que pode fazer sentido com mais esforço.
 
 A plataforma permite filtrar por categoria, país e tipo de trabalho. Ele demonstra buscas por identidade visual, logotipo e oportunidades nos Estados Unidos.
 
@@ -39,7 +37,7 @@ Apesar disso, ele não colocaria o Behance como primeira solução de prospecç�
 
 ## Upwork como plataforma principal
 
-A próxima plataforma é a Upwork, que Matheus considera a mais poderosa para começar. Foi por ela que ele iniciou a prospecção ativa e conseguiu seus primeiros projetos internacionais de forma recorrente.
+A próxima plataforma é a Upwork, que Mateus considera a mais indicada para começar. Foi por ela que ele iniciou a prospecção ativa e conseguiu seus primeiros projetos internacionais de forma recorrente.
 
 Na Upwork, clientes publicam contratos e profissionais enviam propostas. Há projetos de identidade visual, logo, apresentação, pixel art, design gráfico e muitas outras áreas.
 
@@ -47,7 +45,7 @@ Ele destaca que é uma das maiores plataformas de trabalho freelance do mundo. E
 
 ## Por que a Upwork ajuda iniciantes
 
-Matheus recomenda a Upwork principalmente para quem está começando no mercado internacional. A plataforma já integra mensagens, pagamentos e contratos, facilitando a operação.
+Mateus recomenda a Upwork principalmente para quem está começando no mercado internacional. A plataforma já integra mensagens, pagamentos e contratos, facilitando a operação.
 
 Ele também reforça que conseguiu fazer vários projetos sem entrar em ligação com clientes, usando apenas chat e as ferramentas apresentadas na aula de idioma.
 
@@ -55,7 +53,7 @@ Além de projetos pontuais, a Upwork também pode gerar oportunidades de tempo i
 
 ## Contra para clientes maiores
 
-Depois da Upwork, Matheus apresenta a Contra. Ele ainda não testou a plataforma, mas considera a proposta interessante.
+Depois da Upwork, Mateus apresenta a Contra. Ele ainda não testou a plataforma, mas considera a proposta interessante.
 
 A Contra funciona de forma parecida com a Upwork, porém parece atrair clientes maiores, profissionais mais preparados e tickets mais altos. Ele menciona que o mínimo pode ser 25 dólares por hora.
 
@@ -63,15 +61,15 @@ Apesar do potencial, não recomenda começar por ali. Para quem está no primeir
 
 ## Toptal para profissionais de alto nível
 
-Matheus apresenta a Toptal como uma plataforma mais seletiva. A promessa da empresa é conectar clientes aos 3% melhores profissionais de cada área.
+Mateus apresenta a Toptal como uma plataforma mais seletiva. A promessa da empresa é conectar clientes aos 3% melhores profissionais de cada área.
 
 Para entrar, o designer precisa se candidatar e passar por análise de perfil. A plataforma busca profissionais de alto nível, especialmente em áreas criativas e gestão.
 
-Matheus considera a Toptal um nível acima da Contra. Ele ainda não testou, mas tem interesse em aplicar no futuro para observar melhor o processo.
+Mateus considera a Toptal um nível acima da Contra. Ele ainda não testou, mas tem interesse em aplicar no futuro para observar melhor o processo.
 
 ## Fiverr como opção menos recomendada
 
-O Fiverr aparece como uma possibilidade conhecida, mas Matheus não recomenda tanto. Na visão dele, a plataforma é mais sucateada e os clientes não costumam estar dispostos a pagar valores altos.
+O Fiverr aparece como uma possibilidade conhecida, mas Mateus não recomenda tanto. Na visão dele, a plataforma é mais sucateada e os clientes não costumam estar dispostos a pagar valores altos.
 
 Ele trouxe o Fiverr para mostrar que existe a opção, mas não como principal estratégia para conseguir bons trabalhos e aumentar valor com o tempo.
 
@@ -79,7 +77,7 @@ Pode ser um início para alguns perfis, mas exige consciência de que talvez nã
 
 ## Indie Hackers para networking e parcerias
 
-Matheus apresenta o Indie Hackers como uma alternativa diferente. Não é uma plataforma tradicional de freelancers, mas uma comunidade de empreendedores independentes e pessoas criando startups.
+Mateus apresenta o Indie Hackers como uma alternativa diferente. Não é uma plataforma tradicional de freelancers, mas uma comunidade de empreendedores independentes e pessoas criando startups.
 
 Lá é possível encontrar pessoas buscando cofundadores, parceiros, ajuda em software, landing pages e outros projetos. Nem sempre haverá pagamento direto; às vezes, a oportunidade está em networking ou parceria.
 
@@ -87,7 +85,7 @@ Para designers, pode ser um espaço para ajudar empreendedores, melhorar interfa
 
 ## Google Ads como etapa avançada
 
-Por fim, Matheus mostra o Google Ads. Ele também menciona Meta Ads, como Facebook e Instagram, mas considera esses caminhos mais difíceis para começar.
+Por fim, Mateus mostra o Google Ads. Ele também menciona Meta Ads, como Facebook e Instagram, mas considera esses caminhos mais difíceis para começar.
 
 Anunciar para países como Estados Unidos costuma ter clique mais caro do que no Brasil. Além disso, exige site, verba, estratégia de conversão e mais maturidade de negócio.
 
@@ -95,7 +93,7 @@ Por isso, ele recomenda anúncios como uma das últimas etapas. Ainda assim, ele
 
 ## Sequência recomendada
 
-Se fosse iniciar hoje, Matheus começaria pela Upwork. Depois, com mais experiência, tentaria Contra, Toptal, Google Ads ou parcerias em comunidades como Indie Hackers.
+Se fosse iniciar hoje, Mateus começaria pela Upwork. Depois, com mais experiência, tentaria Contra, Toptal, Google Ads ou parcerias em comunidades como Indie Hackers.
 
 A escolha depende do nível do designer, do tipo de serviço, da maturidade do portfólio e da capacidade de lidar com clientes internacionais.
 

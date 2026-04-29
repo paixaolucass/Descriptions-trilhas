@@ -1,5 +1,3 @@
-Cálculo interno: [17 blocos] / [53 parágrafos totais] / [2.070 palavras estimadas] / [2.070 ÷ 200 = 11 minutos]
-
 # Template de Perfil Ideal de Cliente (ICP)
 
 **Tempo estimado de leitura:** 10 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [12 parágrafos totais] / [569 palavras estimadas] / [569 ÷ 200 = 3 minutos]
-
 # Introdução ao mundo das cores
 
 **Tempo estimado de leitura:** 3 minutos

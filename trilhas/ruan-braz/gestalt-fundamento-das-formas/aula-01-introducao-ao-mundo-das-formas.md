@@ -1,5 +1,3 @@
-Cálculo interno: [11 blocos] / [48 parágrafos totais] / [2040 palavras estimadas] / [2040 ÷ 200 = 11 minutos]
-
 # Introdução ao Mundo das Formas
 
 **Tempo estimado de leitura:** 11 minutos

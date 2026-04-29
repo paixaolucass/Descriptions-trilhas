@@ -1,5 +1,3 @@
-Cálculo interno: 9 blocos / 22 parágrafos totais / 2210 palavras estimadas / 2210 ÷ 200 = 11 minutos
-
 # O Impacto das IAs no Mundo
 
 **Tempo estimado de leitura:** 11 minutos
@@ -16,7 +14,7 @@ Ao final desta aula, você será capaz de:
 
 ## A presença silenciosa das IAs no cotidiano
 
-A maioria das pessoas atribui o surgimento da inteligência artificial ao momento em que o ChatGPT ou o Mid-Journey apareceram nas redes sociais. Essa percepção é compreensível, mas equivocada. As inteligências artificiais já habitavam o cotidiano de bilhões de pessoas muito antes de 2022, operando de forma discreta, embutidas em sistemas que todos usavam sem perceber a camada tecnológica por baixo.
+A maioria das pessoas atribui o surgimento da inteligência artificial ao momento em que o ChatGPT ou o Midjourney apareceram nas redes sociais. Essa percepção é compreensível, mas equivocada. As inteligências artificiais já habitavam o cotidiano de bilhões de pessoas muito antes de 2022, operando de forma discreta, embutidas em sistemas que todos usavam sem perceber a camada tecnológica por baixo.
 
 O algoritmo de recomendação das redes sociais é um dos casos mais antigos e mais impactantes. Já no início dos anos 2010, plataformas como o Facebook operavam com modelos de IA para decidir qual conteúdo cada usuário veria no feed. O próprio Facebook foi concebido tendo a lógica algorítmica como base estrutural. O YouTube, lançado ainda antes do Facebook como rede social robusta, já carregava em sua arquitetura a ideia de que um sistema poderia aprender o que cada usuário preferia e entregar esse conteúdo de forma personalizada. Isso não era ficção científica: era machine learning aplicado em escala industrial.
 
@@ -40,7 +38,7 @@ A inteligência artificial não surgiu com o iPhone, nem com a internet. Como co
 
 O conceito de IA remonta aos anos 1940, quando matemáticos e cientistas começaram a formalizar a ideia de que máquinas poderiam simular processos cognitivos humanos. Essa ideia evoluiu ao longo de décadas, passando por períodos de euforia e de restrição chamados de "invernos da IA", até chegar à explosão que o mundo presenciou a partir de 2022.
 
-O que mudou em 2022 não foi a existência das IAs, mas a acessibilidade delas. O Mid-Journey, o DALL-E e o ChatGPT tornaram o acesso às IAs possível para qualquer pessoa com um navegador e uma conexão à internet. Antes disso, a Stable Diffusion já havia aberto caminho com o modelo de difusão de imagens, uma arquitetura que possibilitou a geração de imagens a partir de descrições textuais e que serviu de base para o Mid-Journey e para o DALL-E. Essas ferramentas retiraram a IA dos laboratórios de pesquisa e dos departamentos de TI e a colocaram nas mãos de designers, artistas, redatores e estrategistas.
+O que mudou em 2022 não foi a existência das IAs, mas a acessibilidade delas. O Midjourney, o DALL-E e o ChatGPT tornaram o acesso às IAs possível para qualquer pessoa com um navegador e uma conexão à internet. Antes disso, a Stable Diffusion já havia aberto caminho com o modelo de difusão de imagens, uma arquitetura que possibilitou a geração de imagens a partir de descrições textuais e que serviu de base para o Midjourney e para o DALL-E. Essas ferramentas retiraram a IA dos laboratórios de pesquisa e dos departamentos de TI e a colocaram nas mãos de designers, artistas, redatores e estrategistas.
 
 ## IAs generativas e a ruptura nos mercados criativos
 
@@ -79,4 +77,3 @@ A presença da IA no seu dia a dia não vai diminuir. Ela vai se aprofundar. Os 
 ## Coloque em prática
 
 Liste pelo menos cinco ferramentas ou serviços que você usa regularmente e que provavelmente utilizam alguma forma de inteligência artificial. Para cada um deles, tente identificar qual tipo de tarefa a IA executa: recomendação de conteúdo, precificação dinâmica, reconhecimento de padrões, tradução, detecção de anomalias ou outro. Use o ChatGPT ou o Gemini para pesquisar cada caso e expandir seu mapeamento. Esse exercício vai tornar visível o quanto a IA já está presente na sua vida e vai criar a base mental para acompanhar as próximas aulas com mais engajamento.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

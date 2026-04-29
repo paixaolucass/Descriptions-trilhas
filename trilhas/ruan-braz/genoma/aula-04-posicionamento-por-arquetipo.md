@@ -1,5 +1,3 @@
-Cálculo interno: [11 blocos] / [68 parágrafos totais] / [3.060 palavras estimadas] / [3.060 ÷ 200 = 16 minutos]
-
 # Posicionamento por arquétipo
 
 **Tempo estimado de leitura:** 16 minutos

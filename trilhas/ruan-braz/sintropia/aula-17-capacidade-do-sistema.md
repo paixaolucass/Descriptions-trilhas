@@ -1,5 +1,3 @@
-Cálculo interno: 14 blocos / 68 parágrafos totais / 1.900 palavras estimadas / 1.900 ÷ 200 = 10 minutos
-
 # Capacidade do sistema
 
 **Tempo estimado de leitura:** 10 minutos

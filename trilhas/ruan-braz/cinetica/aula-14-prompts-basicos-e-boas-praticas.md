@@ -1,5 +1,3 @@
-Cálculo interno: [10 blocos] / [55 parágrafos totais] / [3800 palavras estimadas] / [3800 ÷ 200 = 19 minutos]
-
 # Prompts básicos e boas práticas
 
 **Tempo estimado de leitura:** 19 minutos
@@ -167,4 +165,3 @@ Em vídeo isso é ainda mais crítico do que em imagem, porque o vídeo é uma s
 ## Coloque em prática
 
 Escreva um prompt para uma cena simples usando as 6 partes em ordem. Guarde o prompt em um Google Docs com a versão em português e a versão traduzida para inglês. Gere o vídeo, assista com atenção ao que a IA decidiu por conta própria, identifique um elemento que não ficou como você queria, e altere apenas esse elemento no prompt. Gere de novo e compare. Repita até chegar em três iterações conscientes.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

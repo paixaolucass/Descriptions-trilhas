@@ -1,5 +1,3 @@
-Cálculo interno: [13 blocos] / [39 parágrafos totais] / [2280 palavras estimadas] / [2280 ÷ 200 = 12 minutos]
-
 # Composição no grau biológico
 
 **Tempo estimado de leitura:** 12 minutos

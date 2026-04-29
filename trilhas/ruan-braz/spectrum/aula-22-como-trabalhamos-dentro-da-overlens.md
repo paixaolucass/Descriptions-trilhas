@@ -1,5 +1,3 @@
-Cálculo interno: 364 timestamps / 34 parágrafos / 3640 palavras estimadas / 3640 ÷ 200 = 18 minutos
-
 # Como Trabalhamos Dentro da Overlens
 
 **Tempo estimado de leitura:** 18 minutos
@@ -11,7 +9,7 @@ Ao final desta aula, você será capaz de:
 - Identificar o processo completo de criação de imagens usado pela equipe da Overlens, do prompt à entrega final
 - Aplicar o Freepik Spaces como canvas de workflow visual para conectar referências, prompts, imagens e vídeos em nós
 - Reconhecer como a consistência de personagens e produtos é obtida na prática, usando referências de imagem com qualidade
-- Distinguir quando usar Gemini Imagen, Seedream (Citroën), Flux, Grok, Runway e outros modelos disponíveis dentro de hubs
+- Distinguir quando usar Gemini Imagen, Seedream (C-Dream), Flux, Grok, Runway e outros modelos disponíveis dentro de hubs
 - Estruturar fluxos de geração com múltiplas referências simultâneas conectadas a um único nó de saída
 - Executar a lógica de text-to-image, image-to-image e text-to-video dentro do Freepik Spaces
 ## O ponto de partida: mood bagunçado e processo real
@@ -25,9 +23,9 @@ Depois de ter o prompt e gerar o primeiro modelo de imagem, a equipe usa esse mo
 
 Um ponto técnico importante é destacado logo no início: quando você usa uma imagem de referência no fluxo de geração, a qualidade da imagem que você sobe interfere diretamente na qualidade da imagem gerada. Suba a referência com a maior qualidade possível. A IA vai gerar uma imagem com qualidade proporcional à entrada.
 
-Depois da geração inicial, o processo pode incluir upscale. As ferramentas de upscale apresentadas aqui como parte do pipeline da Overlens são Freepik (com função nativa de upscale), Enhancor e o upscale interno do MidJourney, que é considerado muito bom. O uso de cada uma depende do contexto e do destino final da imagem.
+Depois da geração inicial, o processo pode incluir upscale. As ferramentas de upscale apresentadas aqui como parte do pipeline da Overlens são Freepik (com função nativa de upscale), Enhancor e o upscale interno do Midjourney, que é considerado muito bom. O uso de cada uma depende do contexto e do destino final da imagem.
 
-Para a parte de roupas especificamente, a equipe usa duas ferramentas combinadas: Gemini e Seedream (referenciado como "Citroën" ao longo da aula, nome interno da equipe para o modelo Seedream/Seedring).
+Para a parte de roupas especificamente, a equipe usa duas ferramentas combinadas: Gemini e Seedream (referenciado como "C-Dream" ao longo da aula, nome interno da equipe para o modelo Seedream/Seedring).
 ## Freepik Spaces: o canvas de workflow visual
 
 O instrutor dedica uma parte significativa da aula a mostrar o Freepik Spaces ao vivo. O Spaces é descrito como um canvas, uma área de trabalho visual no estilo nó a nó, onde você conecta elementos (prompt de texto, imagens, vídeos, assistentes) e eles se relacionam para gerar novas saídas.
@@ -86,7 +84,7 @@ O resultado é uma série de imagens do produto em close-up, em outro ângulo, e
 
 O instrutor menciona também um segundo exemplo com um objeto similar a uma Alexa (dispositivo de assistente de voz), mostrando o produto em zoom e em diferentes posicionamentos. O comentário é direto: "imagina um e-commerce com essas fotos."
 
-O segredo técnico para essa qualidade é o modelo usado. O instrutor destaca que a equipe tem preferido o Seedream (Citroën) ao Nanobanana para esse tipo de geração, embora o Nanobanana também produza boas imagens nesse contexto.
+O segredo técnico para essa qualidade é o modelo usado. O instrutor destaca que a equipe tem preferido o Seedream (C-Dream) ao Nanobanana para esse tipo de geração, embora o Nanobanana também produza boas imagens nesse contexto.
 ## Caso de uso: mercado imobiliário com sketch para render
 
 Um dos exemplos mais impactantes da aula envolve geração de renders arquitetônicos a partir de sketches. O instrutor mostra ao vivo um projeto no Nanobanana onde:
@@ -118,7 +116,7 @@ O ciclo completo que a aula documenta é:
 4. Gerar variações com múltiplos ângulos e enquadramentos
 5. Selecionar as melhores imagens
 6. Aplicar edição e correção onde necessário (dentro do Freepik ou no Photoshop)
-7. Aplicar upscale quando necessário (Freepik, Enhancor ou MidJourney upscale)
+7. Aplicar upscale quando necessário (Freepik, Enhancor ou Midjourney upscale)
 
 Esse ciclo é o processo real da Overlens, documentado sem filtro para que o aluno veja que não existe segredo técnico inacessível. A caixa preta foi aberta.
 ## Simplicidade como princípio de controle
@@ -152,7 +150,7 @@ Esse exercício instala o ciclo de geração, variação, análise e correção 
 
 A aula revela, ao longo das demonstrações, quais modelos a equipe tem preferido e por quê. Essas informações aparecem de forma dispersa na gravação mas merecem ser consolidadas aqui.
 
-**Seedream (chamado internamente de "Citroën"):** O modelo de preferência da equipe para tarefas que exigem consistência, especialmente para produtos e personagens. O instrutor e a integrante Thais usam esse modelo para a maioria das gerações de produto e para as séries de imagens com personagens consistentes. Modelos de ponta como o Seedream gastam mais créditos, mas a qualidade de consistência compensa o custo.
+**Seedream (chamado internamente de "C-Dream"):** O modelo de preferência da equipe para tarefas que exigem consistência, especialmente para produtos e personagens. O instrutor e a integrante Thais usam esse modelo para a maioria das gerações de produto e para as séries de imagens com personagens consistentes. Modelos de ponta como o Seedream gastam mais créditos, mas a qualidade de consistência compensa o custo.
 
 **Nanobanana (Gemini Imagen):** Usado para a parte de sketches e renders arquitetônicos. O instrutor demonstra ao vivo um fluxo onde um sketch de casa vira um render fotorrealista usando esse modelo. Também utilizado para roupas em combinação com o Gemini. O modelo produz boas imagens de produto, mas a equipe tem preferido o Seedream para esse tipo de trabalho atualmente.
 
@@ -162,7 +160,7 @@ A aula revela, ao longo das demonstrações, quais modelos a equipe tem preferid
 
 **Runway:** Disponível como opção para geração de vídeo dentro do Freepik Spaces.
 
-**MidJourney:** O exemplo de roupa mostrado na aula foi gerado no MidJourney, com parâmetros visíveis na tela. O instrutor sugere pausar o vídeo para ler o prompt ou tirar um print e jogar em uma LLM pedindo tradução e explicação em português. O upscale interno do MidJourney é descrito como muito bom e faz parte do pipeline de melhoria de qualidade da equipe.
+**Midjourney:** O exemplo de roupa mostrado na aula foi gerado no Midjourney, com parâmetros visíveis na tela. O instrutor sugere pausar o vídeo para ler o prompt ou tirar um print e jogar em uma LLM pedindo tradução e explicação em português. O upscale interno do Midjourney é descrito como muito bom e faz parte do pipeline de melhoria de qualidade da equipe.
 
 **FreePix Spaces (canvas de orquestração):** Não é um modelo de IA, mas a ferramenta que orquestra múltiplos modelos em um único fluxo visual. A distinção importante: o Spaces não tem modelo próprio de geração. Ele conecta os modelos listados acima em um canvas onde você define as relações entre eles.
 ## Como a Overlens pensa processo versus ferramenta
@@ -195,4 +193,3 @@ No final da aula, o instrutor faz um apelo direto aos alunos que estão assistin
 A Overlens abre a caixa preta porque acredita que o valor real não está em esconder a técnica. Está em ter repertório e contexto para aplicar a técnica com inteligência. Ensinar o processo de graça não diminui o valor de quem o executa com excelência. Reforça. Porque a pessoa que vê o processo e aplica sem repertório vai gerar resultados medianos. A pessoa que vê o mesmo processo com repertório visual acumulado, com senso crítico desenvolvido e com prática consistente vai gerar resultados profissionais. A diferença não está no acesso à ferramenta. Está no que você traz para a mesa quando usa a ferramenta.
 
 Esse raciocínio é o que sustenta a decisão pedagógica de não cobrar por mostrar o Freepik Spaces, de não cobrar por revelar que o Seedream produz consistência, de não cobrar por demonstrar como um sketch vira render. O acesso a essas informações está ficando cada vez mais democratizado. O que não está disponível de graça é o repertório, o treinamento de olhar e a metodologia de trabalho. Isso é o que a trilha Spectrum está entregando.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 18 minutos, alguns detalhes de demonstração prática estão disponíveis apenas no vídeo.*

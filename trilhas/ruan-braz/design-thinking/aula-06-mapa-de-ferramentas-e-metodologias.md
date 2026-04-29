@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [18 parágrafos totais] / [940 palavras estimadas] / [940 ÷ 200 = 5 minutos]
-
 # Mapa de Ferramentas e Metodologias
 
 **Tempo estimado de leitura:** 5 minutos

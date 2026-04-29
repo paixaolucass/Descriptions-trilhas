@@ -1,4 +1,3 @@
-Cálculo interno: 5 blocos / 24 parágrafos totais / 900 palavras estimadas / 900 ÷ 200 = 5 minutos
 # Preço Fixo e Preço por Hora
 
 **Tempo estimado de leitura:** 5 minutos

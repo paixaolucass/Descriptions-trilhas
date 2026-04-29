@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [26 parágrafos totais] / [1.005 palavras estimadas] / [1.005 ÷ 200 = 6 minutos]
-
 # Como Gerar Leads Gratuitamente com IA e Ferramentas
 
 **Tempo estimado de leitura:** 6 minutos
@@ -29,7 +27,7 @@ Proxies são dados indiretos que a IA consegue correlacionar para estimar se uma
 
 O Vinni jogou o prompt no GPT-5 exatamente como montado, com o nicho de software SaaS, Brasil, e os três proxies de porte. O modelo ficou quase 10 minutos processando e entregou apenas 7 leads, sendo que o prompt pedia 20. O próprio modelo pediu desculpas e explicou que não chegou a 20 com alta confiabilidade, precisando de mais tempo e cruzamento de dados.
 
-O resultado foi considerado interessante na qualidade, mesmo com a quantidade abaixo do esperado. O Vinni apontou que antigamente o GPT não fazia esse cruzamento tão bem, e que Perplexity e Manus também são boas ferramentas para esse tipo de busca. Das empresas listadas, duas estavam bem dentro dos critérios e uma, a Octágora, foi verificada no LinkedIn e mostrava ter recebido um pre-seed, sinal relevante para quem trabalha com startups, porque indica se a empresa está em momento de realmente investir em serviços.
+O resultado foi considerado interessante na qualidade, mesmo com a quantidade abaixo do esperado. O Vinni apontou que antigamente o GPT não fazia esse cruzamento tão bem, e que Perplexity e Manus também são boas ferramentas para esse tipo de busca. Das empresas listadas, duas estavam bem dentro dos critérios e uma, a Octágora, foi verificada no LinkedIn e mostrava ter recebido um pré-seed, sinal relevante para quem trabalha com startups, porque indica se a empresa está em momento de realmente investir em serviços.
 
 *Para ver a demonstração do prompt no GPT-5 e a navegação pelos leads gerados, assista a partir de 02:22 no vídeo.*
 

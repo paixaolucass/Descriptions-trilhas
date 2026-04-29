@@ -1,5 +1,3 @@
-Cálculo interno: 20 blocos / 60 parágrafos totais / 4000 palavras estimadas / 4000 ÷ 200 = 20 minutos
-
 # Prompts para os Nerds: o mapa do tesouro da engenharia de prompt avançada
 
 **Tempo estimado de leitura:** 20 minutos
@@ -13,7 +11,7 @@ Ao final desta aula, você será capaz de:
 - Distinguir as técnicas avançadas do Prompting Guide - de RAG a Automatic Prompt Engineer - e reconhecer em quais contextos cada uma se aplica
 - Reconhecer o papel da curadoria e da auditoria como habilidades mais importantes do que o acúmulo de informação bruta
 - Estruturar uma abordagem de pesquisa contínua e autônoma para acompanhar o campo de engenharia de prompt sem depender de um único curso ou instrutor
-- Executar o processo de leitura de papers acadêmicos com o suporte de ferramentas como o Notebook LM, eliminando a barreira do idioma e da densidade técnica
+- Executar o processo de leitura de papers acadêmicos com o suporte de ferramentas como o NotebookLM, eliminando a barreira do idioma e da densidade técnica
 ## Para quem é essa aula - e para quem não é
 
 Ruan Ruan começa com uma advertência que é ao mesmo tempo um critério de seleção e um convite. Essa aula não é para iniciantes. É para quem já passou pelas aulas anteriores do curso e assimilou o vocabulário central: zero shot, few shot, chain of thought, tree of thought, jailbreaking, prompt injection, storytelling, roleplay, a metáfora da biblioteca e do guardião das ideias, a importância do vocabulário como interface com o modelo.
@@ -57,13 +55,13 @@ Dentro do Prompting Guide há uma seção de papers - pesquisas acadêmicas sobr
 A lista é extensa. Inclui papers de 2023, 2024 e mais recentes. Cada um cobre uma técnica, um conjunto de testes ou uma análise sistemática do comportamento dos modelos de linguagem. Não são artigos de blog. São pesquisas científicas com metodologia, validação e referências cruzadas.
 
 O exemplo que a aula usa para demonstrar o processo: o paper "A Systematic Survey of Prompting Techniques" (The Prompting Report, 2024) e um paper de meta-análise sobre técnicas de prompt para LLMs. Esses estão disponíveis para download em PDF. Alguns papers exigem compra ou acesso institucional, mas muitos estão abertos.
-## Notebook LM como ferramenta de digestão de papers
+## NotebookLM como ferramenta de digestão de papers
 
-Para quem não domina inglês ou para quem quer acelerar a leitura de um paper denso, Ruan demonstra um fluxo de trabalho com o Notebook LM do Google.
+Para quem não domina inglês ou para quem quer acelerar a leitura de um paper denso, Ruan demonstra um fluxo de trabalho com o NotebookLM do Google.
 
-O processo é simples: você faz o download do paper em PDF, sobe o arquivo no Notebook LM e começa a conversar com o documento. O Notebook LM cria um índice, divide o conteúdo em seções navegáveis e permite que você faça perguntas diretas ao paper - em português, se quiser.
+O processo é simples: você faz o download do paper em PDF, sobe o arquivo no NotebookLM e começa a conversar com o documento. O NotebookLM cria um índice, divide o conteúdo em seções navegáveis e permite que você faça perguntas diretas ao paper - em português, se quiser.
 
-"Gera um resumo desse artigo" já funciona. Mas Ruan vai além: ele pede ao Notebook LM que apresente as principais técnicas descritas no paper, que explique o que cada abordagem propõe, que aponte quais são as contribuições originais da pesquisa. O resultado é uma conversa com o documento acadêmico que dura minutos em vez de horas.
+"Gera um resumo desse artigo" já funciona. Mas Ruan vai além: ele pede ao NotebookLM que apresente as principais técnicas descritas no paper, que explique o que cada abordagem propõe, que aponte quais são as contribuições originais da pesquisa. O resultado é uma conversa com o documento acadêmico que dura minutos em vez de horas.
 
 A ressalva importante: o resumo automático não captura os gráficos, diagramas e tabelas que muitas vezes carregam as informações mais densas de um paper. Por isso Ruan prefere abrir o documento e navegar por ele mesmo, usando o resumo como mapa de orientação e não como substituto da leitura.
 ## O método de meta-prompt: usar a IA para aprender a usar a IA
@@ -124,7 +122,7 @@ O que você precisa desenvolver não é enciclopédia, é discernimento. A capac
 
 Essa é a habilidade de auditoria: avaliação rápida do que vale e do que não vale a pena consumir.
 
-E junto com ela vem a curadoria: depois de auditar, selecionar o que vai entrar no seu repertório ativo. Quais técnicas você vai incorporar ao seu fluxo de trabalho? Quais papers você vai ler agora, quais você vai deixar no Notebook LM para consultar quando precisar?
+E junto com ela vem a curadoria: depois de auditar, selecionar o que vai entrar no seu repertório ativo. Quais técnicas você vai incorporar ao seu fluxo de trabalho? Quais papers você vai ler agora, quais você vai deixar no NotebookLM para consultar quando precisar?
 
 A diferença entre alguém que está sobrecarregado de informação e alguém que está crescendo de forma consistente está nessa combinação. Não na quantidade de material consumido, mas na qualidade das escolhas feitas sobre o que consumir.
 ## Independência intelectual: o objetivo real do curso
@@ -181,5 +179,4 @@ Depois que o modelo entregar as fontes, pratique a auditoria: escolha no máximo
 
 Acesse o Prompting Guide e navegue pela seção de técnicas avançadas. Escolha uma técnica que você ainda não domina e construa um prompt que a aplique ao seu trabalho atual. Documente o resultado.
 
-Se quiser ir mais fundo: baixe um paper do repositório do Prompting Guide, suba-o no Notebook LM e pergunte ao modelo: "quais são as principais descobertas desta pesquisa e como elas se aplicam ao trabalho criativo?" Use a resposta como ponto de partida para um experimento próprio.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 46 minutos, alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*
+Se quiser ir mais fundo: baixe um paper do repositório do Prompting Guide, suba-o no NotebookLM e pergunte ao modelo: "quais são as principais descobertas desta pesquisa e como elas se aplicam ao trabalho criativo?" Use a resposta como ponto de partida para um experimento próprio.

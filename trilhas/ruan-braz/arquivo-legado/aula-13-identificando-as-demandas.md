@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [387 palavras estimadas] / [387 ÷ 200 = 2 minutos]
-
 # Identificando as demandas
 
 **Tempo estimado de leitura:** 2 minutos

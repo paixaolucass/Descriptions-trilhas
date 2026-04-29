@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [28 parágrafos totais] / [2200 palavras estimadas] / [2200 ÷ 200 = 11 minutos]
-
 # Erros, mitos e limitações
 
 **Tempo estimado de leitura:** 11 minutos
@@ -120,4 +118,3 @@ Entender isso com clareza antes de começar o processo é o que garante que voc�
 ## Coloque em prática
 
 Escolha uma das três categorias de erro apresentadas (monstro musical, vozes de alienígena, dedos de espaguete) e gere deliberadamente uma situação onde esse erro possa acontecer. Experimente pedir à ferramenta que misture dois estilos muito distantes entre si, ou peça um vocal em um idioma que ela costuma distorcer, ou peça a execução de uma progressão instrumental muito longa sem pausas. Ouça o resultado, identifique o erro pelo tipo apresentado nesta aula e registre o prompt que o gerou. Esse exercício calibra a percepção auditiva e torna o olhar sobre a geração mais criterioso.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

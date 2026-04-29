@@ -1,5 +1,3 @@
-Cálculo interno: 8 blocos / 26 parágrafos totais / 1500 palavras estimadas / 1500 ÷ 200 = 8 minutos
-
 # Construção de Agentes
 
 **Tempo estimado de leitura:** 8 minutos
@@ -65,7 +63,7 @@ Após o Claude concluir um documento, é boa prática limpar o contexto de conve
 
 Para mostrar o resultado final desse processo, a aula abre o projeto Estúdio Vanguarda, um projeto de orquestração de agentes construído previamente na Vanguarda. O projeto tem os seguintes agentes construídos:
 
-O agente "Maestro" é o orquestrador central do projeto. Ele é o único que coordena os outros, decide quando acionar cada agente e em que ordem. Os demais agentes têm funções específicas: Definição de CP (perfil de cliente), Direção Estratégica, Imã de Problemas, Mapa de Mercado, Motor Moral, Oferta e Tese de Valor. Cada arquivo de agente contém um conjunto completo de instruções para aquela função específica.
+O agente "Maestro" é o orquestrador central do projeto. Ele é o único que coordena os outros, decide quando acionar cada agente e em que ordem. Os demais agentes têm funções específicas: Definição de CP (perfil de cliente), Direção Estratégica, Ímã de Problemas, Mapa de Mercado, Motor Moral, Oferta e Tese de Valor. Cada arquivo de agente contém um conjunto completo de instruções para aquela função específica.
 
 O projeto Estúdio Vanguarda não é compartilhado porque foi construído com a metodologia proprietária da Vanguarda. A aula o mostra apenas para evidenciar o que é possível construir e como os arquivos de agentes são organizados dentro de um projeto real.
 

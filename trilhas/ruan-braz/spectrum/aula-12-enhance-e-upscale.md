@@ -1,5 +1,3 @@
-Cálculo interno: 10 blocos / 22 parágrafos totais / 2000 palavras estimadas / 2000 ÷ 200 = 10 minutos
-
 # Ferramentas de Enhance e Upscale
 
 **Tempo estimado de leitura:** 10 minutos
@@ -78,9 +76,9 @@ Para enhance: ele gosta muito de usar o Enhancor. Funciona bem e tem dado bons r
 
 Para upscale: ele tem assinatura da Topaz Gigapixel e a utiliza com frequência. A equipe da Overlens usa muito o Freepik para fazer upscale, aproveitando que o Magnific está integrado dentro da plataforma.
 
-Para quem quer algo conveniente sem sair da ferramenta de geração: o Mid Journey já tem um recurso de enhance e upscale integrado. Ao gerar uma imagem no Mid Journey, você pode clicar diretamente na imagem e acessar opções como animar, fazer upscale subtly e fazer upscale creative. O upscale subtly preserva a imagem original e apenas amplia com qualidade mantida. O upscale creative adiciona elementos novos à imagem durante o processo de ampliação, o que pode enriquecer o resultado mas também pode alterar coisas que você queria manter.
+Para quem quer algo conveniente sem sair da ferramenta de geração: o Midjourney já tem um recurso de enhance e upscale integrado. Ao gerar uma imagem no Midjourney, você pode clicar diretamente na imagem e acessar opções como animar, fazer upscale subtly e fazer upscale creative. O upscale subtly preserva a imagem original e apenas amplia com qualidade mantida. O upscale creative adiciona elementos novos à imagem durante o processo de ampliação, o que pode enriquecer o resultado mas também pode alterar coisas que você queria manter.
 
-Para Ruan, o Mid Journey é a opção mais fácil para fazer o básico bem feito. É o feijão com arroz do upscale: simples, conveniente, sem precisar sair da ferramenta. A única ferramenta que ele considera mais fácil ainda do que o Mid Journey para essa função é o Nanobanana, que é outra ferramenta que aparece em aulas específicas da trilha.
+Para Ruan, o Midjourney é a opção mais fácil para fazer o básico bem feito. É o feijão com arroz do upscale: simples, conveniente, sem precisar sair da ferramenta. A única ferramenta que ele considera mais fácil ainda do que o Midjourney para essa função é o Nanobanana, que é outra ferramenta que aparece em aulas específicas da trilha.
 
 ## Quando usar enhance, quando usar upscale e quando usar os dois
 
@@ -96,7 +94,7 @@ Use os dois quando a imagem precisa melhorar em qualidade e também precisa ser 
 
 Ruan menciona que após esta apresentação de ferramentas, a trilha vai mostrar o fluxo completo que a equipe da Overlens usa. Esse fluxo integra geração, enhance e upscale dentro de um processo que passa por múltiplas ferramentas dependendo do objetivo final da imagem.
 
-O uso mais frequente da equipe na prática é: geração no Mid Journey, enhance para imagens de pessoas com Enhancor quando necessário, e upscale via Topaz Gigapixel ou Freepik com Magnific para projetos que exigem resolução maior. O Mid Journey serve como ponto de partida e como ferramenta de upscale rápido quando a conveniência é prioritária sobre o resultado máximo.
+O uso mais frequente da equipe na prática é: geração no Midjourney, enhance para imagens de pessoas com Enhancor quando necessário, e upscale via Topaz Gigapixel ou Freepik com Magnific para projetos que exigem resolução maior. O Midjourney serve como ponto de partida e como ferramenta de upscale rápido quando a conveniência é prioritária sobre o resultado máximo.
 
 ## Coloque em prática
 
@@ -104,7 +102,6 @@ Escolha uma imagem que você tenha gerado anteriormente com IA, ou gere uma agor
 
 Execute o processo em duas etapas. Primeiro, use o enhance: acesse o Freepik com uma conta gratuita ou de teste e use a opção "melhorar imagem" com Magnific para ver o resultado na pele ou na textura do objeto. Observe o antes e o depois e anote o que mudou: o que melhorou, o que ficou igual, o que ficou estranho ou exagerado.
 
-Segundo, use o upscale: dentro do Mid Journey, gere a mesma imagem ou use uma gerada anteriormente, clique nela e aplique o upscale subtly. Compare o resultado com a versão original em termos de nitidez e tamanho. Em seguida, aplique o upscale creative na mesma imagem e compare os três resultados: original, subtly e creative.
+Segundo, use o upscale: dentro do Midjourney, gere a mesma imagem ou use uma gerada anteriormente, clique nela e aplique o upscale subtly. Compare o resultado com a versão original em termos de nitidez e tamanho. Em seguida, aplique o upscale creative na mesma imagem e compare os três resultados: original, subtly e creative.
 
 Ao final, você terá experienciado as duas funções principais desta aula de forma prática, com ferramentas gratuitas ou de acesso fácil, e poderá avaliar quando cada uma faz sentido dentro do seu próprio fluxo de trabalho. Registre qual ferramenta e qual modo de upscale produziram o resultado que você prefere para o tipo de imagem que você mais trabalha.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

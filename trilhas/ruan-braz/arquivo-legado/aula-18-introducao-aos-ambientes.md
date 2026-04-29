@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [415 palavras estimadas] / [415 ÷ 200 = 3 minutos]
-
 # Introdução aos ambientes
 
 **Tempo estimado de leitura:** 3 minutos

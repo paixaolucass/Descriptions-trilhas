@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [421 palavras estimadas] / [421 ÷ 200 = 3 minutos]
-
 # Entendendo o posicionamento
 
 **Tempo estimado de leitura:** 3 minutos

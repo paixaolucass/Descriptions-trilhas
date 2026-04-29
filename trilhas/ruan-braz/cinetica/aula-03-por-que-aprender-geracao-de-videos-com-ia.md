@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [34 parágrafos totais] / [1800 palavras estimadas] / [1800 ÷ 200 = 9 minutos]
-
 # Por que aprender geração de vídeos com IA
 
 **Tempo estimado de leitura:** 9 minutos
@@ -43,7 +41,7 @@ Ruan conecta isso à prática da Overlens: a equipe usa mais de oito modelos ent
 
 ## O custo real de acesso: R$97 por mês
 
-Ruan menciona um número concreto que desmistifica a ideia de que IA profissional de vídeo é cara: R$97 por mês é o preço médio de acesso ao VEO 3, o modelo de geração de vídeo do Google, no Brasil no momento da gravação. Esse é um dos modelos mais avançados disponíveis. Para ter acesso a tecnologia de ponta, o custo mensal é da ordem de um jantar.
+Ruan menciona um número concreto que desmistifica a ideia de que IA profissional de vídeo é cara: R$97 por mês é o preço médio de acesso ao Veo 3, o modelo de geração de vídeo do Google, no Brasil no momento da gravação. Esse é um dos modelos mais avançados disponíveis. Para ter acesso a tecnologia de ponta, o custo mensal é da ordem de um jantar.
 
 Isso é relevante porque baixa a barreira de entrada. Diferente de contratar uma equipe de produção, comprar equipamento ou alugar estúdio, usar IA de vídeo profissional está ao alcance de qualquer profissional individual.
 
@@ -67,7 +65,7 @@ A partir dos dados e do contexto, Ruan apresenta o conjunto de oportunidades con
 
 **Ferramentas asiáticas abertas ao mercado global:** plataformas como Kling, Vidoo, Hilo (também chamado Minimax) e outras passaram a estar acessíveis globalmente. Isso ampliou o ecossistema de ferramentas disponíveis e criou novas possibilidades de teste e comparação.
 
-**Geração de áudio nativo sincronizado:** o VEO do Google foi pioneiro em gerar vídeo com áudio nativo sincronizado, sem precisar adicionar o som em pós-produção. Outros modelos já seguiram o mesmo caminho. Isso significa que um vídeo gerado por IA pode sair com fala, sons ambientes e trilha sonora já integrados ao clipe. É possível modelar isso para colocar sua própria voz ou uma voz específica no vídeo.
+**Geração de áudio nativo sincronizado:** o Veo do Google foi pioneiro em gerar vídeo com áudio nativo sincronizado, sem precisar adicionar o som em pós-produção. Outros modelos já seguiram o mesmo caminho. Isso significa que um vídeo gerado por IA pode sair com fala, sons ambientes e trilha sonora já integrados ao clipe. É possível modelar isso para colocar sua própria voz ou uma voz específica no vídeo.
 
 **Resolução 4K e 8K a 60 FPS:** em 2026, modelos já estão gerando vídeos nessa resolução com 60 quadros por segundo, o que entrega fluidez cinematográfica real. A estética dos vídeos gerados por IA melhorou a ponto de ser difícil distinguir do vídeo filmado convencionalmente em muitos casos.
 
@@ -76,4 +74,3 @@ A partir dos dados e do contexto, Ruan apresenta o conjunto de oportunidades con
 ## Coloque em prática
 
 Acesse a pesquisa sobre o uso de IA globalmente e analise os dados por você mesmo. Compare o gráfico de 84% que nunca usaram IA com o número de 93% de adoção reportada no Brasil e escreva sua própria interpretação da diferença entre os dois. Em seguida, identifique uma das oportunidades listadas nesta aula que é mais diretamente aplicável ao seu contexto profissional e escreva como ela poderia mudar o que você faz hoje.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [20 parágrafos totais] / [900 palavras estimadas] / [900 ÷ 200 = 5 minutos]
-
 # Como acompanhar as melhores ferramentas de texto
 
 **Tempo estimado de leitura:** 5 minutos
@@ -59,5 +57,3 @@ A próxima aula mostra como acompanhar os benchmarkings, os testes comparativos 
 ## Coloque em prática
 
 Aplique os três princípios: mapeie quem são as grandes empresas do ecossistema de LLMs e de onde vieram. Antes de testar uma ferramenta nova, identifique de qual modelo base ela deriva. Defina com clareza o que você precisa e evite testar além do que resolve o seu problema.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

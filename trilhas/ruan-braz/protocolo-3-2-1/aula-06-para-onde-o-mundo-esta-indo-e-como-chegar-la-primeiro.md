@@ -1,5 +1,3 @@
-Cálculo interno: [2 blocos] / [10 parágrafos totais] / [500 palavras estimadas] / [500 ÷ 200 = 3 minutos]
-
 # Para onde o mundo está indo e como chegar lá primeiro
 
 **Tempo estimado de leitura:** 3 minutos
@@ -38,5 +36,3 @@ Acesse a documentação oficial de uma ferramenta de IA que você usa ou quer us
 Navegue sem pressa: se parecer avançado, role para baixo até encontrar o conteúdo que faz sentido para o seu nível agora.
 
 Se estiver em inglês, ative a tradução automática do navegador e siga a leitura.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

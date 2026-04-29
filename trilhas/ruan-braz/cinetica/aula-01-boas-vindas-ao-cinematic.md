@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [28 parágrafos totais] / [1200 palavras estimadas] / [1200 ÷ 200 = 6 minutos]
-
 # Boas-vindas ao Cinematic
 
 **Tempo estimado de leitura:** 6 minutos
@@ -24,7 +22,7 @@ O resultado é propositalmente imperfeito. Em um dos vídeos, um personagem apar
 
 Ruan usa esse exemplo para contextualizar uma mudança de paradigma. Hoje já é possível montar uma área de membros inteira, popular todas as páginas com vídeos que têm áudio e personagens falando, em aproximadamente 20 minutos. A documentação inteira da plataforma foi criada nesse tempo, partindo de materiais que já existiam e organizando tudo dentro de uma interface nova.
 
-Ele menciona especificamente dois modelos de geração de vídeo usados nesse processo: o VEO, do Google, e o Seedance (também chamado Sedens), da ByteDance. Esses são, no momento da gravação, dois dos melhores modelos disponíveis no mercado global para geração de vídeo. Ambos serão estudados com profundidade ao longo da trilha.
+Ele menciona especificamente dois modelos de geração de vídeo usados nesse processo: o Veo, do Google, e o Seedance, da ByteDance. Esses são, no momento da gravação, dois dos melhores modelos disponíveis no mercado global para geração de vídeo. Ambos serão estudados com profundidade ao longo da trilha.
 
 A conclusão que Ruan quer que o aluno tire disso: a lógica de fazer um trabalho artesanal, vídeo por vídeo, não vai desaparecer, mas ela representa apenas uma fatia do mercado. Quem tem pensamento sistêmico consegue construir experiências completas com velocidade que o trabalho manual não consegue acompanhar.
 
@@ -38,7 +36,7 @@ Mas quando o assunto é oportunidade de mercado, velocidade e entrega, o racioc�
 
 A trilha Cínetica cobre os seguintes tópicos, apresentados na documentação da plataforma:
 
-Como funcionam os modelos de geração de vídeo com IA, quais ferramentas do mercado global usar em cada situação (Kling, VEO, Runway, Sora, Hilo, entre outras) e como escrever prompts cinematográficos usando o framework de cinco camadas, que será um dos blocos centrais da trilha. Além disso, o aluno aprenderá o fluxo de trabalho profissional utilizado por agências e cineastas, questões de ética, direitos autorais e uso responsável da IA generativa, e produção de trailer comercial e conteúdo para redes sociais.
+Como funcionam os modelos de geração de vídeo com IA, quais ferramentas do mercado global usar em cada situação (Kling, Veo, Runway, Sora, Hilo, entre outras) e como escrever prompts cinematográficos usando o framework de cinco camadas, que será um dos blocos centrais da trilha. Além disso, o aluno aprenderá o fluxo de trabalho profissional utilizado por agências e cineastas, questões de ética, direitos autorais e uso responsável da IA generativa, e produção de trailer comercial e conteúdo para redes sociais.
 
 ## Estrutura da trilha em cinco módulos
 
@@ -59,4 +57,3 @@ Ruan apresenta os recursos disponíveis para o aluno durante a trilha. A navega�
 ## Coloque em prática
 
 Antes de avançar para a próxima aula, acesse a Biblioteca de Prompts e o Glossário da plataforma e familiarize-se com a estrutura dos dois recursos. Depois, reflita e escreva em poucas linhas: qual é a diferença entre usar IA para gerar um vídeo artesanalmente e usar agentes para gerar vídeos em escala? Essa distinção vai aparecer em vários momentos da trilha.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [22 parágrafos totais] / [1000 palavras estimadas] / [1000 ÷ 200 = 5 minutos]
-
 # Escrevendo um roteiro de trailer
 
 **Tempo estimado de leitura:** 5 minutos
@@ -71,5 +69,3 @@ Uma emoção dominante: o trailer pode ter variação emocional, mas uma emoçã
 ## Coloque em prática
 
 Escolha um projeto seu e defina a promessa emocional que um trailer dele deveria criar. Escolha o tipo de trailer que serve essa promessa. Mapeie as nove batidas atribuindo a cada uma o conteúdo específico do seu projeto. Escreva as sete linhas de impacto antes de escrever o roteiro completo. Use a IA para gerar variações de cada linha e escolha as que passam no checklist.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

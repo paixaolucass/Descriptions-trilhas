@@ -1,5 +1,3 @@
-Cálculo interno: 5 blocos / 13 parágrafos totais / 530 palavras estimadas / 530 ÷ 200 = 3 minutos
-
 # Ferramentas e Introdução
 
 **Tempo estimado de leitura:** 3 minutos

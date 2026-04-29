@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [28 parágrafos totais] / [1.005 palavras estimadas] / [1.005 ÷ 200 = 6 minutos]
-
 # Como Encontrar Clientes Certos (Matriz de Prospecção)
 
 **Tempo estimado de leitura:** 6 minutos
@@ -39,7 +37,7 @@ Um a um com público frio. Busca ativa por pessoas que ainda não te conhecem. �
 
 ### Tráfego pago
 
-Um para muitos com público frio. Anúncios pagos em qualquer plataforma. Muito poderoso para quem já tem oferta validada e conhecimento técnico de performance.
+Um para muitos com público frio. Anúncios pagos em qualquer plataforma. Funciona melhor para quem já tem oferta validada e conhecimento técnico de performance.
 
 ## Criação de conteúdo: por que não é o ponto de partida
 

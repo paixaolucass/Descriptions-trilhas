@@ -1,5 +1,3 @@
-Cálculo interno: [10 blocos] / [21 parágrafos totais] / [1120 palavras estimadas] / [1120 ÷ 200 = 6 minutos]
-
 # A Metodologia Universal Double Diamond
 
 **Tempo estimado de leitura:** 6 minutos

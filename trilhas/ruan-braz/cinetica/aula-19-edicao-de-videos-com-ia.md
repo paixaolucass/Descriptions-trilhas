@@ -1,5 +1,3 @@
-Cálculo interno: [10 blocos] / [75 parágrafos totais] / [2900 palavras estimadas] / [2900 ÷ 200 = 14 minutos]
-
 # Edição de vídeos com IA
 
 **Tempo estimado de leitura:** 14 minutos
@@ -145,4 +143,3 @@ Uma observação prática da aula: evite usar músicas com letra em produções 
 Selecione um shot que você já gerou com text-to-video. Gere uma imagem de referência do mesmo personagem e ambiente com Seedream ou Midjourney. Use essa imagem como first frame no mesmo modelo de vídeo. Compare os dois resultados lado a lado: onde a consistência visual melhorou? O que ainda varia mesmo com first frame?
 
 Se quiser ir além: monte uma sequência de 3 shots com first frames diferentes, cada shot começa exatamente onde o anterior termina visualmente. Use o CapCut para montar e avalie a continuidade entre os shots.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 36 minutos, alguns detalhes de demonstração prática estão disponíveis apenas no vídeo.*

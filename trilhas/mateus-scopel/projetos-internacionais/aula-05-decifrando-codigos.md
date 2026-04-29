@@ -1,5 +1,3 @@
-Cálculo interno: 11 blocos / 64 parágrafos totais / 2.350 palavras estimadas / 2.350 ÷ 200 = 12 minutos
-
 # Decifrando códigos
 
 **Tempo estimado de leitura:** 12 minutos
@@ -15,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## A barreira do idioma
 
-Matheus apresenta a aula como um guia para superar a barreira do idioma. A ideia de decifrar códigos se refere a lidar com línguas estrangeiras, principalmente o inglês, sem deixar que isso impeça a entrada no mercado internacional.
+Mateus apresenta a aula como um guia para superar a barreira do idioma. A ideia de decifrar códigos se refere a lidar com línguas estrangeiras, principalmente o inglês, sem deixar que isso impeça a entrada no mercado internacional.
 
 Ele afirma que hoje existem ferramentas boas o suficiente para ajudar tanto quem já tem inglês intermediário quanto quem conhece pouco ou quase nada do idioma.
 
@@ -23,7 +21,7 @@ O ponto central é que muitos clientes não exigem ligação. Em plataformas e p
 
 ## O papel do chat no trabalho internacional
 
-Matheus conta que, em alguns anos trabalhando com design internacional, só precisou fazer chamada com o cliente atual, em um contrato de tempo integral.
+Mateus conta que, em alguns anos trabalhando com design internacional, só precisou fazer chamada com o cliente atual, em um contrato de tempo integral.
 
 Nos outros projetos, a comunicação aconteceu por chat. Isso muda o tamanho da barreira, porque permite usar tradutores, revisores e inteligência artificial para ler e escrever mensagens.
 
@@ -31,7 +29,7 @@ Por isso, o idioma não deve ser tratado como impedimento absoluto. Ele ainda ex
 
 ## DeepL como ferramenta principal
 
-A primeira ferramenta apresentada é o DeepL, que Matheus considera uma das mais impressionantes e uma das melhores opções gratuitas do mercado.
+A primeira ferramenta apresentada é o DeepL, que Mateus considera uma das mais impressionantes e uma das melhores opções gratuitas do mercado.
 
 Ele usa o DeepL diariamente no fluxo de trabalho. Mesmo tendo melhorado muito o inglês por trabalhar o dia inteiro no idioma, ainda recorre à ferramenta pela praticidade e pela qualidade dos textos.
 
@@ -39,7 +37,7 @@ O DeepL detecta o idioma automaticamente, traduz textos e oferece alternativas d
 
 ## Glossário, áudio e arquivos no DeepL
 
-Matheus mostra que o DeepL permite criar glossários de termos específicos. O exemplo citado é configurar IA para sempre virar Artificial Intelligence. Ele afirma que não usa tanto esse recurso, mas reconhece que pode ser útil.
+Mateus mostra que o DeepL permite criar glossários de termos específicos. O exemplo citado é configurar IA para sempre virar Artificial Intelligence. Ele afirma que não usa tanto esse recurso, mas reconhece que pode ser útil.
 
 Outra função importante é a tradução de áudio. Se o cliente enviar um áudio por uma plataforma de chat, o usuário pode traduzir o conteúdo para captar melhor o que foi dito.
 
@@ -47,7 +45,7 @@ O DeepL também permite tradução de arquivos, como PDF, Word e PowerPoint. Iss
 
 ## DeepL Write e ajuste de tom
 
-Dentro do DeepL, Matheus apresenta o DeepL Write. A função permite reescrever textos e ajustar estilo ou tom de voz.
+Dentro do DeepL, Mateus apresenta o DeepL Write. A função permite reescrever textos e ajustar estilo ou tom de voz.
 
 Ele cita opções como simples, corporativo, acadêmico, coloquial, diplomático e confiante. Isso ajuda quando o designer precisa enviar uma mensagem mais profissional, amigável ou assertiva.
 
@@ -55,7 +53,7 @@ O fluxo sugerido é simples: escrever em português, traduzir para inglês, ajus
 
 ## Limites para ligações
 
-Matheus comenta que o DeepL Voice e outras soluções de tradução em tempo real estão surgindo, mas algumas ainda são voltadas para equipes ou têm custo maior.
+Mateus comenta que o DeepL Voice e outras soluções de tradução em tempo real estão surgindo, mas algumas ainda são voltadas para equipes ou têm custo maior.
 
 Para ligações, ferramentas como Meet e Zoom já possuem alguns recursos de tradução e legenda. Mesmo assim, ele trata chamadas como uma etapa mais avançada.
 
@@ -63,7 +61,7 @@ Para quem está começando, a recomendação é aproveitar oportunidades que pod
 
 ## Google Tradutor para documentos
 
-Matheus também apresenta o Google Tradutor. Ele prefere o DeepL, mas reconhece que o Google Tradutor é uma opção boa, principalmente para documentos.
+Mateus também apresenta o Google Tradutor. Ele prefere o DeepL, mas reconhece que o Google Tradutor é uma opção boa, principalmente para documentos.
 
 O exemplo usado é um PDF de briefing de projeto de branding. Se o cliente responder um briefing em inglês e o designer tiver dificuldade para ler, pode subir o arquivo no tradutor e baixar a versão traduzida.
 
@@ -73,7 +71,7 @@ O DeepL também tem essa opção, mas pode exigir conta. O Google Tradutor apare
 
 A próxima ferramenta é o Grammarly, uma extensão para navegador. Ela analisa textos escritos em inglês e sugere correções.
 
-Matheus usa a versão gratuita e afirma que ela já funciona bem. O Grammarly identifica erros, sugere trocas e pode ajudar a reescrever frases ou ajustar o tom de voz, embora algumas funções estejam limitadas no plano pago.
+Mateus usa a versão gratuita e afirma que ela já funciona bem. O Grammarly identifica erros, sugere trocas e pode ajudar a reescrever frases ou ajustar o tom de voz, embora algumas funções estejam limitadas no plano pago.
 
 Ele recomenda a ferramenta especialmente para quem já sabe escrever algo em inglês e quer revisar mensagens antes de enviar ao cliente.
 
@@ -87,15 +85,15 @@ A ferramenta gera legenda automática, que depois pode ser editada palavra por p
 
 ## ChatGPT para propostas e estudos
 
-Matheus mostra o ChatGPT como ferramenta para escrever propostas, mensagens e textos em outros idiomas. Ele dá um exemplo simples: pedir uma proposta em inglês para um projeto de PowerPoint, cobrando 500 dólares, com tradução em português embaixo e tom amigável.
+Mateus mostra o ChatGPT como ferramenta para escrever propostas, mensagens e textos em outros idiomas. Ele dá um exemplo simples: pedir uma proposta em inglês para um projeto de PowerPoint, cobrando 500 dólares, com tradução em português embaixo e tom amigável.
 
-Mesmo com um prompt simples, a ferramenta gera estrutura com saudação, entregáveis, timeline, disponibilidade e tradução. Matheus ressalta que prompts melhores geram resultados melhores e indica as aulas de engenharia de prompt da Overlens para aprofundar.
+Mesmo com um prompt simples, a ferramenta gera estrutura com saudação, entregáveis, timeline, disponibilidade e tradução. Mateus ressalta que prompts melhores geram resultados melhores e indica as aulas de engenharia de prompt da Overlens para aprofundar.
 
 O ChatGPT também pode ajudar quem não sabe inglês a estruturar um curso básico ou intermediário, ou a aprender termos principais de design e negócios para conversar com clientes americanos ou europeus.
 
 ## Quando o inglês é muito básico
 
-Matheus reconhece que, para quem não tem conhecimento nenhum de inglês, usar apenas ferramentas é um pouco mais arriscado. Alguma nuance pode passar despercebida.
+Mateus reconhece que, para quem não tem conhecimento nenhum de inglês, usar apenas ferramentas é um pouco mais arriscado. Alguma nuance pode passar despercebida.
 
 Mesmo assim, isso não impede o início. A recomendação é começar a estudar o básico, usar ferramentas como Duolingo ou inteligência artificial e construir vocabulário útil para design, negócios e atendimento.
 
@@ -103,7 +101,7 @@ O objetivo não é esperar a fluência perfeita, mas reduzir risco enquanto se g
 
 ## A mudança de confiança
 
-Matheus encerra reforçando que DeepL e ChatGPT já permitem fazer muita coisa. Com essas ferramentas, é possível conversar com clientes, criar propostas e iniciar projetos sem tratar o idioma como uma barreira intransponível.
+Mateus encerra reforçando que DeepL e ChatGPT já permitem fazer muita coisa. Com essas ferramentas, é possível conversar com clientes, criar propostas e iniciar projetos sem tratar o idioma como uma barreira intransponível.
 
 A aula também combate a síndrome de vira-lata: a sensação de que o designer brasileiro não é bom o suficiente para trabalhar fora.
 

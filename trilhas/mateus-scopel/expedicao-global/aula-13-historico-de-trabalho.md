@@ -1,5 +1,3 @@
-Cálculo interno: 4 blocos / 18 parágrafos totais / 600 palavras estimadas / 600 ÷ 200 = 3 minutos
-
 # Histórico de trabalho
 
 **Tempo estimado de leitura:** 3 minutos
@@ -15,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## O que aparece no histórico
 
-Matheus mostra que o histórico de trabalho aparece depois de alguns projetos concluídos. Essa área reúne os depoimentos deixados pelos clientes.
+Mateus mostra que o histórico de trabalho aparece depois de alguns projetos concluídos. Essa área reúne os depoimentos deixados pelos clientes.
 
 Ao abrir um projeto, é possível ver período de execução, horas trabalhadas, valor cobrado, valor final recebido, feedback do cliente e categorias de avaliação.
 
@@ -25,7 +23,7 @@ As categorias incluem skills, disponibilidade, comunicação, qualidade, prazos 
 
 O histórico também mostra o feedback que o profissional deixou para o cliente. Dependendo da privacidade do projeto, detalhes adicionais podem ou não aparecer.
 
-Matheus mostra um projeto em que recebeu 4.5 porque aceitou uma demanda em Figma mesmo sem dominar Figma. Ele considera compreensível a nota mais baixa nesse caso.
+Mateus mostra um projeto em que recebeu 4.5 porque aceitou uma demanda em Figma mesmo sem dominar Figma. Ele considera compreensível a nota mais baixa nesse caso.
 
 Esse exemplo reforça a importância de alinhar bem a habilidade real com o projeto antes de enviar proposta.
 
@@ -39,7 +37,7 @@ Compartilhar pode ajudar a mostrar para outras pessoas que o profissional está 
 
 ## O primeiro depoimento
 
-Matheus reforça que o foco inicial deve ser conquistar o primeiro depoimento. Por isso, volta à ideia do primeiro projeto pequeno, de cerca de 20 dólares.
+Mateus reforça que o foco inicial deve ser conquistar o primeiro depoimento. Por isso, volta à ideia do primeiro projeto pequeno, de cerca de 20 dólares.
 
 Depois desse primeiro feedback, fica mais fácil conquistar projetos maiores, como aconteceu com ele ao passar para um projeto de 135 dólares.
 
@@ -57,4 +55,3 @@ Antes de enviar proposta, confirme:
 - se o projeto pode gerar um bom feedback.
 
 O primeiro objetivo é construir histórico, não maximizar valor.
-

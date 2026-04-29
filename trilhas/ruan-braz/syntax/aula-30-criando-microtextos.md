@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [18 parágrafos totais] / [800 palavras estimadas] / [800 ÷ 200 = 4 minutos]
-
 # Criando microtextos
 
 **Tempo estimado de leitura:** 4 minutos
@@ -57,5 +55,3 @@ O processo funciona melhor quando a IA gera volume e o autor filtra com critéri
 ## Coloque em prática
 
 Escolha um microtexto que você usa com frequência: uma chamada de botão, uma linha de assunto, uma frase de abertura. Aplique o método CSS sobre ele e depois passe pelo teste de contraste. Se o texto sobreviver ao teste, está pronto. Se não sobreviver, identifique o que o tornaria específico o suficiente para não ser intercambiável com o do concorrente.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

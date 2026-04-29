@@ -1,5 +1,3 @@
-Cálculo interno: [9 blocos] / [26 parágrafos totais] / [1080 palavras estimadas] / [1080 ÷ 200 = 6 minutos]
-
 # Lançamento da marca
 
 **Tempo estimado de leitura:** 6 minutos

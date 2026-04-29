@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [21 parágrafos totais] / [950 palavras estimadas] / [950 ÷ 200 = 5 minutos]
-
 # Prompts úteis para diferentes situações
 
 **Tempo estimado de leitura:** 5 minutos
@@ -67,5 +65,3 @@ O resultado é uma lista de pontos de fricção que o autor não consegue enxerg
 ## Coloque em prática
 
 Escolha um texto que você está desenvolvendo e identifique qual das seis categorias de prompt resolve o problema principal que você enfrenta nele. Se o texto está sem perspectiva, use o tipo 1. Se o argumento está fraco, use o tipo 2. Se a voz está genérica, use o tipo 3. Escreva o prompt completo com papel, contexto e objetivo definidos antes de abrir qualquer ferramenta.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: [10 blocos] / [27 parágrafos totais] / [1470 palavras estimadas] / [1470 ÷ 200 = 8 minutos]
-
 # Design Thinking na Era da IA
 
 **Tempo estimado de leitura:** 8 minutos

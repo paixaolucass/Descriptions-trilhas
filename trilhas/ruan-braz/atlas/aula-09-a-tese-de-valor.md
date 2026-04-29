@@ -1,5 +1,3 @@
-Cálculo interno: 8 blocos / 32 parágrafos totais / 4000 palavras estimadas / 4000 ÷ 200 = 20 minutos
-
 # A Tese de Valor
 
 **Tempo estimado de leitura:** 20 minutos
@@ -131,4 +129,3 @@ A partir desta aula, você tem o modelo completo para construir a tese de valor 
 - **Formalize a tese de valor** usando os seis componentes: situação atual, principais dores por categoria, hipótese central, elementos-chave da solução, diferenciais competitivos e transformação prometida.
 
 O documento resultante é o que vai alimentar todos os outros sistemas do estúdio: copy, proposta comercial, página de vendas e roteiro de reunião com cliente.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 33 minutos, o conteúdo completo excede o limite de palavras desta descrição; os conceitos e frameworks centrais foram priorizados.*

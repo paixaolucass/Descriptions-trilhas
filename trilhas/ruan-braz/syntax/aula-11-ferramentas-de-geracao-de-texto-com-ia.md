@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [30 parágrafos totais] / [1400 palavras estimadas] / [1400 ÷ 200 = 7 minutos]
-
 # Ferramentas de geração de texto com IA
 
 **Tempo estimado de leitura:** 7 minutos
@@ -40,9 +38,9 @@ A partir daqui, a aula apresenta ferramentas que usam os modelos das cinco princ
 
 ## Ferramentas para escritores
 
-**SudoWrite** é apresentado como a ferramenta mais diferente da lista, e a que mais surpreendeu Ruan quando a mapeou. A proposta não é campanha, é a arte da escrita. O SudoWrite organiza capítulos, mantém bibliotecas de referências e citações, ajuda a controlar o ritmo do texto, acelerando ou desacelerando conforme necessário, e colabora com o escritor em tempo real enquanto o texto é construído. Para quem quer escrever um livro, um artigo longo ou qualquer obra com estrutura complexa, é uma ferramenta que muda o fluxo de trabalho.
+**Sudowrite** é apresentado como a ferramenta mais diferente da lista, e a que mais surpreendeu Ruan quando a mapeou. A proposta não é campanha, é a arte da escrita. O Sudowrite organiza capítulos, mantém bibliotecas de referências e citações, ajuda a controlar o ritmo do texto, acelerando ou desacelerando conforme necessário, e colabora com o escritor em tempo real enquanto o texto é construído. Para quem quer escrever um livro, um artigo longo ou qualquer obra com estrutura complexa, é uma ferramenta que muda o fluxo de trabalho.
 
-**Novel Crafter** tem uma proposta similar ao SudoWrite, com algumas diferenças de interface e estrutura. Inclui recursos como character sheets, fichas detalhadas de personagens salvas para consulta durante a escrita, timeline e organização por capítulos. Tem uma área de planejamento, escrita, chat com a IA e revisão, tudo dentro da mesma plataforma. É especialmente indicado para quem trabalha com narrativas longas e personagens recorrentes.
+**Novel Crafter** tem uma proposta similar ao Sudowrite, com algumas diferenças de interface e estrutura. Inclui recursos como character sheets, fichas detalhadas de personagens salvas para consulta durante a escrita, timeline e organização por capítulos. Tem uma área de planejamento, escrita, chat com a IA e revisão, tudo dentro da mesma plataforma. É especialmente indicado para quem trabalha com narrativas longas e personagens recorrentes.
 
 **Type** (type.ai) segue na mesma direção, com design mais minimalista. Organiza capítulos e informações e entrega insights ao longo do processo de escrita.
 
@@ -67,5 +65,3 @@ A terceira são os **prompts de ação**: escrever um manifesto, gerar um nome, 
 ## Coloque em prática
 
 Acesse o Overchat dentro da plataforma Overlens e explore pelo menos um dos agentes disponíveis. Nos comentários desta aula, deixe qual ferramenta de geração de texto apresentada você já usa ou vai começar a usar, e por quê. Se houver alguma ferramenta relevante que não apareceu na aula, sugira também.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

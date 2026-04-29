@@ -1,5 +1,3 @@
-Cálculo interno: 9 blocos / 38 parágrafos totais / 2.280 palavras estimadas / 2.280 ÷ 200 = 11,4 minutos
-
 # O conceito das lentes
 
 **Tempo estimado de leitura:** 11 minutos

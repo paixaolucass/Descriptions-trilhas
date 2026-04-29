@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [12 parágrafos totais] / [458 palavras estimadas] / [458 ÷ 200 = 3 minutos]
-
 # As cores na prática
 
 **Tempo estimado de leitura:** 3 minutos

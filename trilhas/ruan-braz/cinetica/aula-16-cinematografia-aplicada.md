@@ -1,5 +1,3 @@
-Cálculo interno: [9 blocos] / [50 parágrafos totais] / [3400 palavras estimadas] / [3400 ÷ 200 = 17 minutos]
-
 # Cinematografia aplicada: movimento de câmera e fotografia para vídeo
 
 **Tempo estimado de leitura:** 17 minutos
@@ -210,4 +208,3 @@ Isso é um exemplo do que se torna possível quando você combina o conhecimento
 ## Coloque em prática
 
 Escolha uma cena que você quer criar. Escreva a ideia em uma linha simples. Então, sem usar a IA para ajudar, monte o prompt você mesmo nas 6 camadas usando os termos desta aula, tipo de plano, lente, temperatura de cor, técnica de iluminação. Depois jogue o mesmo texto num assistente de prompt configurado com o framework e compare o que ele acrescentou. Gere o vídeo com o prompt combinado (o que você escreveu mais os refinamentos do assistente) e avalie: quais termos fizeram mais diferença no resultado?
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: 6 blocos / 18 parágrafos totais / 950 palavras estimadas / 950 ÷ 200 = 5 minutos
-
 # Instalando o Claude Code
 
 **Tempo estimado de leitura:** 5 minutos

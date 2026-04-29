@@ -1,4 +1,3 @@
-Cálculo interno: 8 blocos / 49 parágrafos totais / 1880 palavras estimadas / 1880 ÷ 200 = 9 minutos
 # Escrevendo uma Boa Proposta
 
 **Tempo estimado de leitura:** 9 minutos

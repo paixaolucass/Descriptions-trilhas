@@ -1,5 +1,3 @@
-Cálculo interno: [3 blocos] / [14 parágrafos totais] / [Bloco 1: 3p x 45 = 135; Bloco 2: 5p x 45 = 225; Bloco 3: 6p x 45 = 270; Título/Obj/Prática: 4p x 30 = 120; Total = 750 palavras] / [750 ÷ 200 = 3,75 → 4 minutos]
-
 # Spin Selling e Venda Consultiva para Criativos
 
 **Tempo estimado de leitura:** 4 minutos

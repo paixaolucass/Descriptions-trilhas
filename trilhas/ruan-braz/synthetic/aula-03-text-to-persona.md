@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [18 parágrafos totais] / [800 palavras estimadas] / [800 ÷ 200 = 4 minutos]
-
 # Text to persona
 
 **Tempo estimado de leitura:** 4 minutos
@@ -51,5 +49,3 @@ Qualquer situação onde você precisaria de um leitor ou interlocutor com carac
 ## Coloque em prática
 
 Carregue a ficha de persona que você construiu na aula anterior em um modelo de linguagem de sua escolha. Instrua a IA a se comportar como aquela persona e peça que ela se apresente. Depois apresente uma oferta sua, real ou hipotética, e observe quais objeções surgem. Anote as três principais e identifique se elas já estão sendo tratadas na sua comunicação atual.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [38 parágrafos totais] / [3800 palavras estimadas] / [3800 ÷ 200 = 19 minutos]
-
 # Testes e amostragens
 
 **Tempo estimado de leitura:** 19 minutos
@@ -95,4 +93,3 @@ O Suno é uma das ferramentas que serão apresentadas. Haverá outras. Mas o pon
 Abra uma ferramenta de geração musical e crie uma pasta chamada "descarte" e outra chamada "aprovados". Gere ao menos dez variações de uma mesma ideia musical, com prompts ligeiramente diferentes entre si. Ao ouvir cada resultado, decida se vai para "aprovados" ou "descarte" antes de gerar o próximo. Ao final das dez gerações, revise a pasta "aprovados": quantos ficaram? O que eles têm em comum? Esse exercício torna visível o que o seu critério de curadoria valoriza e começa a formar o vocabulário do que você quer criar.
 
 Se você tem um instrumento em casa, grave um rascunho de trinta segundos no telefone sem se preocupar com qualidade e envie para a ferramenta como ponto de partida. Compare o resultado com uma geração puramente por texto. Observe o que muda no resultado quando você oferece um input sonoro em vez de só descrever com palavras.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

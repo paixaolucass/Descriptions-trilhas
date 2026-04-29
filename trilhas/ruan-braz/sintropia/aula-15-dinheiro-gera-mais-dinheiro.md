@@ -1,5 +1,3 @@
-Cálculo interno: 6 blocos / 18 parágrafos totais / 1185 palavras estimadas / 1185 ÷ 200 = 6 minutos
-
 # Dinheiro Gera Mais Dinheiro
 
 **Tempo estimado de leitura:** 6 minutos

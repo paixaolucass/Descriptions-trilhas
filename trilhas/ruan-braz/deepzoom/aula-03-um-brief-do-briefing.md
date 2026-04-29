@@ -1,5 +1,3 @@
-Cálculo interno: [16 blocos] / [64 parágrafos totais] / [3776 palavras estimadas] / [3776 ÷ 200 = 19 minutos]
-
 # Um brief do briefing
 
 **Tempo estimado de leitura:** 19 minutos

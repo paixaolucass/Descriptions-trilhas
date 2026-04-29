@@ -1,4 +1,3 @@
-Cálculo interno: 6 blocos / 33 parágrafos totais / 1240 palavras estimadas / 1240 ÷ 200 = 6 minutos
 # Milestones
 
 **Tempo estimado de leitura:** 6 minutos

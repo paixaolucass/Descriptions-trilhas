@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [20 parágrafos totais] / [900 palavras estimadas] / [900 ÷ 200 = 5 minutos]
-
 # Benefícios de usar IA para texto: 3 cases práticos
 
 **Tempo estimado de leitura:** 5 minutos
@@ -49,5 +47,3 @@ A maioria das pessoas vai usar a IA para fazer o trabalho por elas, para ficar m
 ## Coloque em prática
 
 Pegue um texto que você escreveu recentemente e peça para a IA defendê-lo do ponto de vista contrário: que ela aponte os furos, os pontos cegos e as fraquezas do argumento. Depois peça que construa uma síntese entre a sua versão e a antítese gerada. Use a resistência da IA para fortalecer o texto, não para substituí-lo.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

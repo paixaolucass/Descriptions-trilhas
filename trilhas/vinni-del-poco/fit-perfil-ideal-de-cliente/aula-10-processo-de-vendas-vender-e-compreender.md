@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [28 parágrafos totais] / [1020 palavras estimadas] / [1020 ÷ 200 = 5,1 → 6 minutos]
-
 # Processo de Vendas: Vender é Compreender
 
 **Tempo estimado de leitura:** 6 minutos
@@ -39,17 +37,17 @@ O terceiro mito é que introvertidos não servem para vendas. Vinni conta que o 
 
 O quarto mito é que o preço é sempre o maior obstáculo. Vinni inverte a lógica: se o preço fosse realmente o maior problema, só venderia quem fosse mais barato. Mas todo dia se vê clientes pagando caro por experiências e soluções em que acreditam. O problema, como foi discutido na aula anterior sobre custo e valor, não é o preço: é o valor percebido. Quando a venda não fecha por preço, o problema muitas vezes está na oferta ou na forma como o valor está sendo comunicado.
 
-O quinto mito é que é preciso educar o cliente com uma proposta detalhada ou com uma explicação técnica completa do processo. Vinni descreve o padrão: o criativo abre uma proposta de 60 páginas ou começa a explicar cada etapa com nível de detalhe técnico, falando de imersão, diagnóstica, tipografia, proporção áurea. Enquanto isso, o cliente está se perguntando como aquilo vai fazer ele vender mais. O cliente não quer saber do processo, quer saber do resultado. Explicar demais em detalhes técnicos confunde o cliente e faz o criativo perder impacto.
+O quinto mito é que é preciso educar o cliente com uma proposta detalhada ou com uma explicação técnica completa do processo. Vinni descreve o padrão: o criativo abre uma proposta de 60 páginas ou começa a explicar cada etapa com nível de detalhe técnico, falando de imersão, diagnóstico, tipografia, proporção áurea. Enquanto isso, o cliente está se perguntando como aquilo vai ajudá-lo a vender mais. O cliente não quer saber do processo, quer saber do resultado. Explicar demais em detalhes técnicos confunde o cliente e faz o criativo perder impacto.
 
 ## O que é vender
 
-Depois de desmontar os mitos e os medos, Vinni apresenta a definição central da aula: vender não é convencer, vender é compreender. Não é manipular, não é ser extrovertido, não é baixar preço, não é dar aula de design. Vender é entender profundamente onde o cliente está, onde ele quer chegar, o que está travando ele, quais são os obstáculos no caminho, e então mostrar clareza, dar um mapa. Vender é, na essência, um diagnóstico.
+Depois de desmontar os mitos e os medos, Vinni apresenta a definição central da aula: vender não é convencer, vender é compreender. Não é manipular, não é ser extrovertido, não é baixar preço, não é dar aula de design. Vender é entender profundamente onde o cliente está, onde ele quer chegar, o que está travando o avanço dele, quais são os obstáculos no caminho, e então mostrar clareza, dar um mapa. Vender é, na essência, um diagnóstico.
 
 ## Como se comportar na conversa de venda
 
 Vinni traz orientações práticas para a postura durante a reunião. A primeira é falar menos e ouvir mais. As perguntas que você faz determinam o seu valor percebido e controlam o rumo da conversa. Quem pergunta comanda a direção. Quem ouve ativamente acumula informação que vai guiar toda a condução. Quando o cliente se sente ouvido, isso ativa um dos maiores gatilhos de confiança existentes. Vinni observa que a maioria dos concorrentes usa scripts prontos, passa de pergunta em pergunta sem fazer follow-up, sem conectar o que o cliente disse com a próxima pergunta. Isso cria uma conversa mecânica, sem escuta real.
 
-A segunda orientação é que a venda é um diagnóstico. O objetivo não é persuadir, é revelar com clareza onde o cliente está, onde quer chegar e o que impede ele de avançar. Em muitas dessas conversas, o profissional vai descobrir que o cliente não é o perfil ideal para ele, que o problema que o cliente tem não é o que aquele profissional resolve. Vinni diz que isso está tudo bem, que cada um segue para o seu caminho. O pior cenário é não identificar isso, mandar uma proposta e ficar esperando uma resposta que nunca vai chegar.
+A segunda orientação é que a venda é um diagnóstico. O objetivo não é persuadir, é revelar com clareza onde o cliente está, onde quer chegar e o que o impede de avançar. Em muitas dessas conversas, o profissional vai descobrir que o cliente não é o perfil ideal para ele, que o problema que o cliente tem não é o que aquele profissional resolve. Vinni diz que isso está tudo bem, que cada um segue para o seu caminho. O pior cenário é não identificar isso, mandar uma proposta e ficar esperando uma resposta que nunca vai chegar.
 
 O papel que o profissional deve ocupar na conversa não é o de vendedor de serviço, é o de consultor. Trazer clareza, fazer o diagnóstico. Quando isso é feito bem, o próprio cliente já percebe que precisa da ajuda e a venda acontece de forma mais natural.
 

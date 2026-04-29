@@ -1,5 +1,3 @@
-Cálculo interno: [12 blocos] / [34 parágrafos totais] / [1840 palavras estimadas] / [1840 ÷ 200 = 10 minutos]
-
 # Tom de voz da marca
 
 **Tempo estimado de leitura:** 10 minutos

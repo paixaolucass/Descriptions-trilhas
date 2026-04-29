@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [32 parágrafos totais] / [1.215 palavras estimadas] / [1.215 ÷ 200 = 7 minutos]
-
 # Aplicando a Equação de Valor
 
 **Tempo estimado de leitura:** 7 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: 6 blocos / 20 parágrafos totais / 1305 palavras estimadas / 1305 ÷ 200 = 7 minutos
-
 # Identidade, Processos e Resultados
 
 **Tempo estimado de leitura:** 7 minutos

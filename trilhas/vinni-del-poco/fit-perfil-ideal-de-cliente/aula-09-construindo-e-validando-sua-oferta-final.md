@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [18 parágrafos totais] / [695 palavras estimadas] / [695 ÷ 200 = 3,48 → 4 minutos]
-
 # Construindo e Validando sua Oferta Final
 
 **Tempo estimado de leitura:** 4 minutos

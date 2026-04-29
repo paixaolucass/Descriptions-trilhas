@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [18 parágrafos totais] / [520 palavras estimadas] / [520 ÷ 200 = 2,6 minutos]
-
 # Conclusão Maestro
 
 **Tempo estimado de leitura:** 2 minutos
@@ -35,4 +33,3 @@ Você não é só imagem. Você não é só vídeo. Cada linguagem que você dom
 ## Coloque em prática
 
 Crie e publique uma música. Não precisa ser perfeita. O objetivo é percorrer o ciclo completo: ideia, geração, refinamento, masterização e publicação. Use tudo que foi aprendido na trilha como fundamento, não como receita. A perfeição vem com a prática do ciclo inteiro, não com o adiamento do primeiro lançamento.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

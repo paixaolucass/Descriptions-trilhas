@@ -1,4 +1,3 @@
-Cálculo interno: 7 blocos / 41 parágrafos totais / 1570 palavras estimadas / 1570 ÷ 200 = 8 minutos
 # Avaliando Clientes
 
 **Tempo estimado de leitura:** 8 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [415 palavras estimadas] / [415 ÷ 200 = 3 minutos]
-
 # Gerenciando os ativos da sua marca pessoal
 
 **Tempo estimado de leitura:** 3 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: [10 blocos] / [37 parágrafos totais] / [1815 palavras estimadas] / [1815 ÷ 200 = 10 minutos]
-
 # A Base da Semiótica para Designers
 
 **Tempo estimado de leitura:** 10 minutos
@@ -61,7 +59,7 @@ O segundo autor é Charles Sanders Peirce, filósofo americano que viveu entre 1
 
 A teoria de Peirce é chamada de signo triádico porque adiciona um terceiro agente em relação a Saussure. Enquanto Saussure tinha dois elementos, estímulo e conceito, Peirce introduz o conceito de objeto: a realidade em si. Para Peirce, a realidade é a realidade mesmo, influência direta do Kant e da "coisa em si". Não é o mundo das ideias platônico, mas a realidade concreta que existe independentemente da mente humana.
 
-Os três agentes na teoria de Peirce são: o objeto, o signo (também chamado de representamem) e o interpretante. O signo representa o objeto, mas nunca consegue ser o objeto. O signo é uma cópia, um estímulo que pode ser visual, sonoro, olfativo, tátil ou gustativo. Ruan usa o exemplo do cheiro que lembra a mãe: esse cheiro é um signo que representa o objeto (a mãe), e o que se produz na mente é o interpretante, a conclusão, que é o conceito que o aluno tem da mãe. Não é a mãe real, é a imagem mental dela.
+Os três agentes na teoria de Peirce são: o objeto, o signo (também chamado de representamen) e o interpretante. O signo representa o objeto, mas nunca consegue ser o objeto. O signo é uma cópia, um estímulo que pode ser visual, sonoro, olfativo, tátil ou gustativo. Ruan usa o exemplo do cheiro que lembra a mãe: esse cheiro é um signo que representa o objeto (a mãe), e o que se produz na mente é o interpretante, a conclusão, que é o conceito que o aluno tem da mãe. Não é a mãe real, é a imagem mental dela.
 
 O interpretante é definido por Ruan com precisão: não é a pessoa que interpreta, é a conclusão do signo. Ele avisa que essa confusão é comum e que ele próprio teve essa dificuldade. O interpretante é o resultado do processo, a conclusão que o signo gera. Exemplo dado: Ruan vê uma floresta pegando fogo e lembra do dragão de Game of Thrones. O dragão é o interpretante, a conclusão que aquele signo produziu naquele momento.
 

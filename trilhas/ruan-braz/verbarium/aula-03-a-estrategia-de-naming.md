@@ -1,5 +1,3 @@
-Cálculo interno: [16 blocos] / [48 parágrafos totais] / [2680 palavras estimadas] / [2680 ÷ 200 = 14 minutos]
-
 # A estratégia de naming
 
 **Tempo estimado de leitura:** 14 minutos

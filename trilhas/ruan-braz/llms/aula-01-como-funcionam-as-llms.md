@@ -1,5 +1,3 @@
-Cálculo interno: 14 blocos / 50 parágrafos totais / 4000 palavras estimadas / 4000 ÷ 200 = 20 minutos
-
 # Como Funcionam as LLMs
 
 **Tempo estimado de leitura:** 20 minutos
@@ -133,4 +131,3 @@ Abra o ChatGPT, o Claude ou o Gemini e inicie uma nova conversa com a seguinte p
 Em seguida, faça uma segunda pergunta na mesma conversa: "O que é sua janela de contexto e como ela afeta a qualidade das nossas trocas ao longo de uma conversa longa?" Observe como ele descreve esse limite e se ele menciona as implicações práticas que você aprendeu aqui.
 
 Por último, crie uma conversa separada e escreva uma mensagem bem longa, com pelo menos dez tópicos diferentes listados em sequência. Depois, espere algumas respostas de troca, e então faça uma pergunta específica sobre o primeiro tópico que você mencionou. Veja se o modelo mantém o contexto completo ou começa a perder o fio. Esse experimento simples torna concreto o conceito de janela de contexto de uma forma que nenhuma explicação teórica consegue substituir.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 22 minutos; alguns detalhes de demonstração prática estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [27 parágrafos totais] / [1545 palavras estimadas] / [1545 ÷ 200 = 8 minutos]
-
 # Design Thinking Pós-Humano
 
 **Tempo estimado de leitura:** 8 minutos

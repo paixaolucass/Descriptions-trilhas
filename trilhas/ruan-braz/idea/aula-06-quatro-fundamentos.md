@@ -1,5 +1,3 @@
-Cálculo interno: 8 blocos / 28 parágrafos / ~1.680 palavras / 1.680 ÷ 200 = 8 minutos
-
 # Quatro fundamentos do design
 
 **Tempo estimado de leitura:** 8 minutos

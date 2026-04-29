@@ -1,5 +1,3 @@
-Cálculo interno: [5 blocos] / [12 parágrafos totais] / [405 palavras estimadas] / [405 ÷ 200 = 3 minutos]
-
 # Conclusão da Trilha
 
 **Tempo estimado de leitura:** 3 minutos

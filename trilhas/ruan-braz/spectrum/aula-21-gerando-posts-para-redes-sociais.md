@@ -1,5 +1,3 @@
-Cálculo interno: 100 blocos / 20 parágrafos / 1000 palavras estimadas / 1000 ÷ 200 = 5 minutos
-
 # Gerando posts para redes sociais
 
 **Tempo estimado de leitura:** 5 minutos
@@ -50,7 +48,7 @@ A aula mostra uma funcionalidade prática: é possível criar um shape qualquer 
 
 O exemplo mostrado na aula: criar um shape e pedir para o NanoBanana gerar um elefante dentro dele. O elefante é escolhido como símbolo da memória, para o aluno não esquecer das aulas. E em alguns segundos a imagem é gerada dentro do shape, exatamente nas dimensões especificadas.
 
-A limitação desse fluxo dentro do Figma é real: você não consegue conectar um mood board completo de referências direto nessa interface, não é possível usar seeds da mesma forma que no Mid-Journey, e o controle sobre a geração é menor do que nas ferramentas especializadas. Você pode subir uma ou mais imagens de referência, mas as possibilidades são mais limitadas. Para produção de conteúdo em volume onde o prompt resolve, funciona muito bem. Para gerações que exigem mais controle de estilo, é melhor usar as ferramentas especializadas e depois importar o resultado para o Figma.
+A limitação desse fluxo dentro do Figma é real: você não consegue conectar um mood board completo de referências direto nessa interface, não é possível usar seeds da mesma forma que no Midjourney, e o controle sobre a geração é menor do que nas ferramentas especializadas. Você pode subir uma ou mais imagens de referência, mas as possibilidades são mais limitadas. Para produção de conteúdo em volume onde o prompt resolve, funciona muito bem. Para gerações que exigem mais controle de estilo, é melhor usar as ferramentas especializadas e depois importar o resultado para o Figma.
 
 ## O processo completo de produção de conteúdo
 
@@ -65,4 +63,3 @@ Ruan menciona o caminho mais avançado que existe além desse processo manual: c
 ## Coloque em prática
 
 Monte no Figma pelo menos dois templates com as safe zones demarcadas, um para feed e um para stories do Instagram. Depois use o NanoBanana integrado ao Figma para gerar uma imagem dentro de um dos templates. Compare o resultado com uma imagem gerada fora do Figma e importada. Avalie qual fluxo funciona melhor para o tipo de conteúdo que você produz com mais frequência.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

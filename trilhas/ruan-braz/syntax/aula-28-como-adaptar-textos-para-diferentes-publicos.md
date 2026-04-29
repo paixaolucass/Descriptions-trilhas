@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [19 parágrafos totais] / [850 palavras estimadas] / [850 ÷ 200 = 4 minutos]
-
 # Como adaptar textos para diferentes públicos
 
 **Tempo estimado de leitura:** 4 minutos
@@ -51,5 +49,3 @@ Ruan chama isso de erro de ego. Adaptar não é simplificar. É respeitar o perc
 ## Coloque em prática
 
 Pegue um texto que você escreveu para um público específico e adapte-o para um público diferente usando as quatro etapas. Comece pelo diagnóstico do novo leitor antes de tocar em qualquer palavra. Identifique qual das três dimensões, tom, vocabulário ou estilo, exige a mudança mais profunda e trabalhe nela primeiro. Use a IA para gerar variações e filtre o resultado com o seu julgamento editorial.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

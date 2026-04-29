@@ -1,4 +1,3 @@
-Cálculo interno: 4 blocos / 24 parágrafos totais / 870 palavras estimadas / 870 ÷ 200 = 4 minutos
 # Criando Central de Links
 
 **Tempo estimado de leitura:** 4 minutos

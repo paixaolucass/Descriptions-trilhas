@@ -1,5 +1,3 @@
-Cálculo interno: [14 blocos] / [37 parágrafos totais] / [1875 palavras estimadas] / [1875 ÷ 200 = 10 minutos]
-
 # Double Diamond na Prática
 
 **Tempo estimado de leitura:** 10 minutos

@@ -1,5 +1,3 @@
-Cálculo interno: [10 blocos] / [38 parágrafos totais] / [1770 palavras estimadas] / [1770 ÷ 200 = 9 minutos]
-
 # A Importância da Mensagem
 
 **Tempo estimado de leitura:** 9 minutos

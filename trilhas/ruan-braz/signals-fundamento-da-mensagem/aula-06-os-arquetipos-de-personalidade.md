@@ -1,5 +1,3 @@
-Cálculo interno: [24 blocos] / [74 parágrafos totais] / [3370 palavras estimadas] / [3370 ÷ 200 = 17 minutos]
-
 # Os Arquétipos de Personalidade
 
 **Tempo estimado de leitura:** 17 minutos
@@ -25,7 +23,7 @@ Ruan retoma o diagrama de Jung apresentado na aula anterior para contextualizar 
 
 Mais abaixo está o inconsciente pessoal, formado pelas vivências, memórias esquecidas e memórias reprimidas de cada um. No nível mais profundo está o inconsciente coletivo, que nunca passou pela consciência e que funciona como um drive já instalado no cérebro, influenciando a percepção de mundo. É nesse nível que os arquétipos vivem.
 
-O diagrama apresenta também a sombra, que é o lado negativo da personalidade, aquilo que se tenta esconder e que frequentemente se projeta no outro. O que não agradamos no outro diz muito sobre a nossa própria sombra. Há ainda a ânima e o ânimos: a parte feminina do homem e a parte masculina da mulher, que representam o equilíbrio de ordem e caos.
+O diagrama apresenta também a sombra, que é o lado negativo da personalidade, aquilo que se tenta esconder e que frequentemente se projeta no outro. O que não agradamos no outro diz muito sobre a nossa própria sombra. Há ainda a ânima e o animus: a parte feminina do homem e a parte masculina da mulher, que representam o equilíbrio de ordem e caos.
 
 ## Os arquétipos como ferramentas de mensagem
 

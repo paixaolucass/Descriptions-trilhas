@@ -1,5 +1,3 @@
-Cálculo interno: 17 blocos / 52 parágrafos totais / 2380 palavras estimadas / 2380 ÷ 200 = 12 minutos
-
 # Os Símbolos e a Escrita
 
 **Tempo estimado de leitura:** 12 minutos

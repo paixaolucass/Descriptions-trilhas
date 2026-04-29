@@ -1,5 +1,3 @@
-Cálculo interno: [7 blocos] / [38 parágrafos totais] / [1800 palavras estimadas] / [1800 ÷ 200 = 9 minutos]
-
 # Erros, mitos e limitações
 
 **Tempo estimado de leitura:** 9 minutos
@@ -58,7 +56,7 @@ Um ponto importante aqui: quando você gera um áudio completamente novo pela IA
 
 Gerar vários clipes esperando que o personagem seja o mesmo por sorte. Não vai acontecer. Sem âncora de referência, cada clipe vai interpretar o personagem de um jeito diferente: outro cabelo, outra expressão, outra roupa, proporções diferentes.
 
-A solução mais robusta hoje é usar imagem de referência do personagem em todos os clipes. Antes, a técnica dominante era o LoRA, que é um fine-tuning onde você manda fotos do personagem de vários ângulos e o modelo aprende aquele rosto. Esse processo ainda funciona, mas exige mais etapas. A abordagem com imagem de referência direta é mais acessível e já resolve bem a maioria dos casos. Outra opção é usar seeds no Mid-Journey e em outros modelos que suportam esse recurso: seeds são números que ancoraram um estilo ou uma identidade visual específica, e você pode reutilizar o mesmo seed para manter consistência entre gerações.
+A solução mais robusta hoje é usar imagem de referência do personagem em todos os clipes. Antes, a técnica dominante era o LoRA, que é um fine-tuning onde você manda fotos do personagem de vários ângulos e o modelo aprende aquele rosto. Esse processo ainda funciona, mas exige mais etapas. A abordagem com imagem de referência direta é mais acessível e já resolve bem a maioria dos casos. Outra opção é usar seeds no Midjourney e em outros modelos que suportam esse recurso: seeds são números que ancoraram um estilo ou uma identidade visual específica, e você pode reutilizar o mesmo seed para manter consistência entre gerações.
 
 ## Erro 5 de prompting: não usar a IA para escrever os prompts
 
@@ -86,7 +84,7 @@ Escrever o prompt do zero manualmente toda vez é menos eficiente do que usar um
 
 ## Primeiros passos práticos: onde gerar vídeos agora
 
-Mid-Journey tem a entrada mais fácil para quem está começando. Você pode pegar uma imagem gerada, clicar em "animar imagem" e obter um vídeo com movimento em poucos minutos. Também é possível entrar no modo manual, definir frame inicial, frame final, intensidade de movimento (low ou high), e pedir um loop, que é um vídeo onde o início e o fim se conectam, ideal para redes sociais.
+Midjourney tem a entrada mais fácil para quem está começando. Você pode pegar uma imagem gerada, clicar em "animar imagem" e obter um vídeo com movimento em poucos minutos. Também é possível entrar no modo manual, definir frame inicial, frame final, intensidade de movimento (low ou high), e pedir um loop, que é um vídeo onde o início e o fim se conectam, ideal para redes sociais.
 
 Para geração de vídeo a partir de texto com mais controle, a plataforma da ByteDance (Seedream/Seedance) permite gerar clipes de 4 a 12 segundos, escolher aspect ratio, resolução e quantidade de variações por geração. O áudio também pode ser ativado. O custo por geração é baixo e é uma boa forma de fazer os primeiros testes antes de assinar uma ferramenta mais robusta.
 
@@ -94,5 +92,4 @@ O Gemini com plano Pro também permite gerar vídeo diretamente. No plano gratui
 
 ## Coloque em prática
 
-Acesse a plataforma Seedream da ByteDance ou o Mid-Journey. Gere um vídeo simples com um único sujeito e uma única ação, sem imagem de referência. Observe o resultado: o que a IA decidiu por conta própria? O que você não pediu que apareceu mesmo assim? Anote o que mudaria no prompt para ter mais controle, e gere uma segunda versão corrigindo apenas um elemento por vez.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*
+Acesse a plataforma Seedream da ByteDance ou o Midjourney. Gere um vídeo simples com um único sujeito e uma única ação, sem imagem de referência. Observe o resultado: o que a IA decidiu por conta própria? O que você não pediu que apareceu mesmo assim? Anote o que mudaria no prompt para ter mais controle, e gere uma segunda versão corrigindo apenas um elemento por vez.

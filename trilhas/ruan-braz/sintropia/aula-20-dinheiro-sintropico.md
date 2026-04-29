@@ -1,5 +1,3 @@
-Cálculo interno: 20 blocos / 84 parágrafos totais / 2.400 palavras estimadas / 2.400 ÷ 200 = 12 minutos
-
 # Dinheiro sintrópico
 
 **Tempo estimado de leitura:** 12 minutos

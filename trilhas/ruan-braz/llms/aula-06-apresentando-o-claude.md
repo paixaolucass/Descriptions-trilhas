@@ -1,5 +1,3 @@
-Cálculo interno: 18 blocos / 64 parágrafos totais / 4000 palavras estimadas / 4000 ÷ 200 = 20 minutos
-
 # Apresentando o Claude
 
 **Tempo estimado de leitura:** 20 minutos
@@ -18,7 +16,7 @@ Ao final desta aula, você será capaz de:
 
 Dentro do universo das LLMs disponíveis hoje para o trabalho criativo e técnico, o Claude ocupa uma posição particular que justifica uma aula dedicada somente a ele. Desenvolvido pela Anthropic, empresa fundada em 2021 por ex-pesquisadores da OpenAI incluindo Dario Amodei e Daniela Amodei, o Claude foi construído com um foco deliberado em segurança, alinhamento com valores humanos e qualidade de escrita. Esses princípios não são apenas marketing: eles se traduzem em comportamentos específicos que qualquer usuário frequente consegue perceber na prática.
 
-O Claude tem uma presença consistentemente forte em dois domínios que raramente coexistem na mesma ferramenta com a mesma qualidade: escrita criativa e programação. Para o profissional que produz copy, conteúdo editorial, roteiros ou qualquer texto que exige voz e estilo, o Claude entrega resultados que o ChatGPT dificilmente alcança com a mesma naturalidade. Para o desenvolvedor que quer uma LLM conectada ao ambiente de código, o Claude 3.7 Sonnet tornou-se a escolha padrão de grande parte da comunidade de devs que usa ferramentas como Cursor e WindSurf.
+O Claude tem uma presença consistentemente forte em dois domínios que raramente coexistem na mesma ferramenta com a mesma qualidade: escrita criativa e programação. Para o profissional que produz copy, conteúdo editorial, roteiros ou qualquer texto que exige voz e estilo, o Claude entrega resultados que o ChatGPT dificilmente alcança com a mesma naturalidade. Para o desenvolvedor que quer uma LLM conectada ao ambiente de código, o Claude 3.7 Sonnet tornou-se a escolha padrão de grande parte da comunidade de devs que usa ferramentas como Cursor e Windsurf.
 
 Esta aula é uma visão geral da plataforma, apresentada de forma progressiva: começa pelo plano gratuito, avança para os recursos exclusivos do plano Pro, mostra a demonstração ao vivo da criação de código com Artefatos, e fecha com a perspectiva prática de quando e por que assinar o Claude mesmo que você já tenha uma assinatura do ChatGPT.
 
@@ -68,7 +66,7 @@ Depois que a música está funcionando (com interação necessária do usuário 
 
 Esse processo de protótipo rápido, onde você descreve em linguagem natural o que quer construir e o modelo entrega código funcional que você pode testar imediatamente, é o que ficou conhecido como Vibe Coding. O Claude é considerado pela comunidade de desenvolvedores como a melhor LLM para esse fluxo específico, especialmente para aplicações web com JavaScript, CSS e HTML, onde os Artefatos permitem visualização imediata do resultado.
 
-Uma observação prática importante: para aplicações mais complexas, projetos de produção ou sistemas com múltiplos arquivos e dependências, o fluxo recomendado não é trabalhar diretamente no Claude. Ruan recomenda conectar o Claude a ambientes de desenvolvimento especializados como o Cursor ou o WindSurf, onde ele opera com mais contexto de repositório, as iterações são mais eficientes e você consegue gerenciar projetos maiores com mais controle.
+Uma observação prática importante: para aplicações mais complexas, projetos de produção ou sistemas com múltiplos arquivos e dependências, o fluxo recomendado não é trabalhar diretamente no Claude. Ruan recomenda conectar o Claude a ambientes de desenvolvimento especializados como o Cursor ou o Windsurf, onde ele opera com mais contexto de repositório, as iterações são mais eficientes e você consegue gerenciar projetos maiores com mais controle.
 
 ## Onde o Claude ganha e onde o ChatGPT ainda tem vantagem
 
@@ -125,4 +123,3 @@ Acesse o Claude com qualquer plano disponível e crie um estilo de voz personali
 Depois de criar o estilo, peça uma prévia com um tema simples relacionado ao negócio ou projeto. Avalie se o tom capturado está correto para o contexto. Se precisar de ajustes, use a opção de edição manual do prompt do estilo para refinar os detalhes.
 
 Se você tiver o plano Pro, crie um projeto para esse cliente e adicione pelo menos dois documentos: um briefing do negócio e um documento com exemplos de comunicação de referência. Inicie uma conversa dentro do projeto pedindo que o Claude sugira três conceitos de comunicação baseados nos materiais disponíveis. Observe como ele usa o contexto dos documentos automaticamente sem que você precise explicar nada sobre o cliente naquela conversa. Depois, peça que ele escreva um exemplo de copy no estilo de voz que você configurou anteriormente, combinando os dois recursos ao mesmo tempo.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 23 minutos; alguns detalhes de demonstração prática estão disponíveis apenas no vídeo.*

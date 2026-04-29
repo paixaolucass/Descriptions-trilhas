@@ -1,5 +1,3 @@
-Cálculo interno: [13 blocos] / [42 parágrafos totais] / [2100 palavras estimadas] / [2100 ÷ 200 = 11 minutos]
-
 # A Linguagem das Formas
 
 **Tempo estimado de leitura:** 11 minutos

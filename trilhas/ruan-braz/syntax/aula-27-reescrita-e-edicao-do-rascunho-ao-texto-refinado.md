@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [18 parágrafos totais] / [800 palavras estimadas] / [800 ÷ 200 = 4 minutos]
-
 # Reescrita e edição: do rascunho ao texto refinado
 
 **Tempo estimado de leitura:** 4 minutos
@@ -57,5 +55,3 @@ A solução é sequência: estrutura primeiro, clareza depois, estilo em seguida
 ## Coloque em prática
 
 Pegue um texto seu que você considera bom e passe pelas quatro camadas em sequência, sem pular nenhuma. Comece avaliando apenas a estrutura: o argumento central está claro, os blocos estão na ordem certa, cada parágrafo tem razão de estar onde está. Só depois passe para clareza, estilo e ritmo. Use a IA como parceiro de diagnóstico, não como substituto do seu julgamento editorial.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

@@ -1,5 +1,3 @@
-Cálculo interno: 19 blocos / 76 parágrafos totais / 3990 palavras estimadas / 3990 ÷ 200 = 19,95 minutos
-
 # História das IAs - Parte 2
 
 **Tempo estimado de leitura:** 20 minutos
@@ -95,4 +93,3 @@ Acesse o Hugging Face em huggingface.co e explore a seção de modelos. Escolha 
 Depois, tente responder: qual é a diferença prática entre usar um modelo generalista como o ChatGPT e usar um modelo fine-tunado para uma finalidade específica? Em que situações do seu fluxo de trabalho um modelo especializado poderia trazer resultados superiores a um generalista?
 
 Registre suas reflexões e traga para a próxima aula, onde o foco estará nos tipos de aprendizado de máquina e na estrutura das redes neurais.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 37 minutos, alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos centrais foram priorizados.*

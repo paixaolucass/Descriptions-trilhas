@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [19 parágrafos totais] / [740 palavras estimadas] / [740 ÷ 200 = 3,7 → 4 minutos]
-
 # Padrões de Cores
 
 **Tempo estimado de leitura:** 4 minutos

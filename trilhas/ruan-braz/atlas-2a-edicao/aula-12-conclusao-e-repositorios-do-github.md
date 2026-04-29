@@ -1,5 +1,3 @@
-Cálculo interno: 6 blocos / 20 parágrafos totais / 1100 palavras estimadas / 1100 ÷ 200 = 6 minutos
-
 # Conclusão e Repositórios do GitHub
 
 **Tempo estimado de leitura:** 6 minutos

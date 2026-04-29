@@ -1,5 +1,3 @@
-Cálculo interno: [9 blocos] / [52 parágrafos totais] / [3300 palavras estimadas] / [3300 ÷ 200 = 17 minutos]
-
 # As 7 habilidades de conexão do nexialista
 
 **Tempo estimado de leitura:** 17 minutos
@@ -137,5 +135,3 @@ Escreva em algum lugar quais são seus pontos fortes e seus pontos fracos hoje.
 Identifique uma das 7 habilidades de conexão que você sente que mais precisa desenvolver agora.
 
 Pesquise quem já desenvolveu essa habilidade e por qual caminho foi.
-
-Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.

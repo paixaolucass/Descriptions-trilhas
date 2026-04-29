@@ -1,5 +1,3 @@
-Cálculo interno: [9 blocos] / [26 parágrafos totais] / [1525 palavras estimadas] / [1525 ÷ 200 = 8 minutos]
-
 # Introdução aos Fundamentos da Mensagem
 
 **Tempo estimado de leitura:** 8 minutos

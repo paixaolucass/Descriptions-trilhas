@@ -1,5 +1,3 @@
-Cálculo interno: 18 blocos / 65 parágrafos totais / 4000 palavras estimadas / 4000 ÷ 200 = 20 minutos
-
 # Apresentando o Gemini
 
 **Tempo estimado de leitura:** 20 minutos
@@ -46,7 +44,7 @@ Para quem usa planilhas para organizar dados de clientes, métricas de projetos,
 
 No Google Slides, a integração também está disponível, embora em desenvolvimento mais recente. Ruan pede ao Gemini que gere uma apresentação sobre como criar agentes de IA no Google AI Studio. O resultado gerado na demonstração é apenas um slide inicial com estrutura básica, o que Ruan reconhece como limitado no momento. Mas a possibilidade está ali: o Gemini pode gerar slides, inserir conteúdo e servir como ponto de partida para a construção de apresentações, com a expectativa de que essa integração vai evoluir nos próximos ciclos de atualização.
 
-No Google Meet, a integração com o Gemini está focada em transcrição e anotações automáticas durante reuniões. Quando você entra em uma chamada no Meet com o recurso habilitado, o Gemini transcreve a reunião em tempo real e pode gerar um resumo ao final. Para equipes que usam o Workspace corporativo, esse resumo vai automaticamente para o Google Drive compartilhado da equipe, criando um histórico organizado de reuniões sem esforço manual. Ruan prefere o Zoom ou o Faton para suas próprias reuniões, mas reconhece que o recurso do Meet funciona bem e resolve para quem já está no ecossistema Google.
+No Google Meet, a integração com o Gemini está focada em transcrição e anotações automáticas durante reuniões. Quando você entra em uma chamada no Meet com o recurso habilitado, o Gemini transcreve a reunião em tempo real e pode gerar um resumo ao final. Para equipes que usam o Workspace corporativo, esse resumo vai automaticamente para o Google Drive compartilhado da equipe, criando um histórico organizado de reuniões sem esforço manual. Ruan prefere o Zoom ou o Fathom para suas próprias reuniões, mas reconhece que o recurso do Meet funciona bem e resolve para quem já está no ecossistema Google.
 
 ## Gemini Live: colaboração por voz e visão em tempo real
 
@@ -127,4 +125,3 @@ Acesse o Gemini em gemini.google.com com sua conta Google e peça que ele gere u
 Se você tem acesso ao Google Workspace, abra um Google Sheets em branco e ative o Gemini no painel lateral. Peça que ele crie uma tabela para organizar qualquer tipo de dado que você usa no seu trabalho, seja uma lista de tarefas, um comparativo de ferramentas ou um catálogo de referências. Observe como ele gera e insere a tabela diretamente na planilha.
 
 Se você tem o Gemini Advanced, ative o recurso de Live e compartilhe a tela. Abra qualquer interface que você usa regularmente no trabalho e peça ao Gemini, por voz, que descreva o que está vendo e sugira como você poderia usar aquela interface de forma mais eficiente. Esse exercício transforma o conceito abstrato de "IA que vê sua tela" em experiência prática e imediata.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 24 minutos; alguns detalhes de demonstração prática estão disponíveis apenas no vídeo.*

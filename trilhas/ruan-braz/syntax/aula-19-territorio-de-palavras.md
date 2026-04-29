@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [30 parágrafos totais] / [1400 palavras estimadas] / [1400 ÷ 200 = 7 minutos]
-
 # Território de palavras
 
 **Tempo estimado de leitura:** 7 minutos
@@ -70,7 +68,7 @@ Essa técnica funciona com qualquer tipo de conteúdo: vídeos, textos escritos,
 
 A aula apresenta uma ferramenta complementar: o anti-território de palavras, ou vocabulário proibido. São as palavras e expressões que uma pessoa ou marca evita.
 
-O exercício demonstrado: pedir à IA que crie o "antiterritório do Juan", o caminho oposto, aquilo que é anti-Juan. O resultado identificou: "talvez, acho que, quem sabe, depende muito, vamos ver", palavras de relativismo e indireção. Também identificou: "incrível, absurdo, revolucionário, surreal, explodir resultados", o tipo de hipérbole de marketing que não faz parte do vocabulário da Overlens.
+O exercício demonstrado: pedir à IA que crie o "antiterritório do Ruan", o caminho oposto, aquilo que é anti-Ruan. O resultado identificou: "talvez, acho que, quem sabe, depende muito, vamos ver", palavras de relativismo e indireção. Também identificou: "incrível, absurdo, revolucionário, surreal, explodir resultados", o tipo de hipérbole de marketing que não faz parte do vocabulário da Overlens.
 
 O anti-território serve a dois propósitos. Para a IA: ao incluir as palavras proibidas na instrução, a ferramenta vai evitar usá-las em qualquer produção. Para times: quando uma pessoa nova chega para gerenciar a marca e escreve algo fora do tom, há um documento concreto para referenciar, "isso aqui é proibido dentro da Overlens."
 
@@ -83,5 +81,3 @@ O território de palavras é feito uma vez. Depois, é a base que a IA carrega e
 ## Coloque em prática
 
 Crie o seu território de palavras: pegue uma transcrição, texto ou reunião sua e peça à IA para extrair território de palavras, léxico e glossário a partir do material. Depois crie o anti-território: liste as palavras que você não usa e que contradizem a sua identidade. Use os dois juntos como instrução para qualquer próximo prompt de escrita.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

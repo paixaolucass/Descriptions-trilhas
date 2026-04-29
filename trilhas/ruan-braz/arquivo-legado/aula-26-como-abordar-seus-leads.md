@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [361 palavras estimadas] / [361 ÷ 200 = 2 minutos]
-
 # Como abordar seus leads
 
 **Tempo estimado de leitura:** 2 minutos

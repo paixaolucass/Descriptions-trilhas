@@ -1,5 +1,3 @@
-Cálculo interno: [8 blocos] / [22 parágrafos totais] / [900 palavras estimadas] / [900 ÷ 200 = 5 minutos]
-
 # Introdução à identidade visual
 
 **Tempo estimado de leitura:** 5 minutos

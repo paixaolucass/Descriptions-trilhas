@@ -1,5 +1,3 @@
-Cálculo interno: 5 blocos / 17 parágrafos totais / 1110 palavras estimadas / 1110 ÷ 200 = 6 minutos
-
 # Contrato Psicológico com a Objetividade
 
 **Tempo estimado de leitura:** 6 minutos

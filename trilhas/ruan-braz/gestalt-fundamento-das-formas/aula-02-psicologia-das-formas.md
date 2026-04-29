@@ -1,5 +1,3 @@
-Cálculo interno: [12 blocos] / [38 parágrafos totais] / [1540 palavras estimadas] / [1540 ÷ 200 = 7,7 → 8 minutos]
-
 # Psicologia das Formas
 
 **Tempo estimado de leitura:** 8 minutos

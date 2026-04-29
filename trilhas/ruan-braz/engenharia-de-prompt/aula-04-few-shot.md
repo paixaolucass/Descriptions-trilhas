@@ -1,5 +1,3 @@
-Cálculo interno: 5 blocos / 18 parágrafos totais / 880 palavras estimadas / 880 ÷ 200 = 4,4 minutos
-
 # Few-Shot
 
 **Tempo estimado de leitura:** 4 minutos
@@ -57,4 +55,3 @@ O ponto central dessa demonstração: modelos mais avançados estão ficando cad
 ## Coloque em prática
 
 Pegue um zero-shot que você já usou com resultado mediano. Reescreva-o como few-shot: adicione seu objetivo real, seu nível de conhecimento atual, o que você não quer na resposta e o formato que prefere receber. Envie os dois para a mesma LLM e compare os resultados. Depois, tente o mesmo few-shot em um modelo mais avançado com Deep Research ativo e observe como o comportamento do guardião muda quando ele tem acesso a uma biblioteca externa.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

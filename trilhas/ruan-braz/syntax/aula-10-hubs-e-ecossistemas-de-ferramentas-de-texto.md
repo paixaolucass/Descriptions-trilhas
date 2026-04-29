@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [18 parágrafos totais] / [800 palavras estimadas] / [800 ÷ 200 = 4 minutos]
-
 # Hubs e ecossistemas de ferramentas de texto
 
 **Tempo estimado de leitura:** 4 minutos
@@ -53,5 +51,3 @@ Pesquisar no YouTube por canais especializados em benchmark de LLMs também é u
 ## Coloque em prática
 
 Acesse o LM Arena e filtre por texto: veja qual modelo está liderando agora. Depois busque no YouTube por um canal especializado em benchmark de LLMs. Use essas duas fontes como referência de atualização no lugar do feed das redes sociais quando quiser saber o que está funcionando no mercado de IA.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

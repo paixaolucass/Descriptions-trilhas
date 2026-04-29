@@ -1,5 +1,3 @@
-Cálculo interno: [10 blocos] / [Bloco 1: 4p, Bloco 2: 5p, Bloco 3: 4p, Bloco 4: 5p, Bloco 5: 4p, Bloco 6: 5p, Bloco 7: 4p, Bloco 8: 5p, Bloco 9: 4p, Bloco 10: 3p = 43 parágrafos totais] / [Estimativa por parágrafo: maioria 3-4 linhas, alguns de 2 linhas. Estimativa: 43p × média 45 palavras = ~1935 palavras] / [1935 ÷ 200 = 9,67 → 10 minutos]
-
 # Definindo as buyer personas
 
 **Tempo estimado de leitura:** 10 minutos

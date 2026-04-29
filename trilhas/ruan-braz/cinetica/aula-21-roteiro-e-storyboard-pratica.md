@@ -1,5 +1,3 @@
-Cálculo interno: [12 blocos] / [90 parágrafos totais] / [3900 palavras estimadas] / [3900 ÷ 200 = 19 minutos]
-
 # Roteiro e Storyboard: prática
 
 **Tempo estimado de leitura:** 19 minutos
@@ -232,4 +230,3 @@ Monte um storyboard de 3 cenas para uma ideia sua. Use o one-pager do personagem
 Para cada frame aprovado, use image-to-video (Kling ou outro modelo disponível) com a imagem como first frame. Monte os 3 shots no CapCut, aplique color grading consistente entre eles e exporte.
 
 O exercício revela algo importante: a diferença de qualidade entre uma sequência com contexto fixo e uma sequência gerada shot a shot sem referência. Faça as duas versões e compare.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 48 minutos, alguns detalhes de demonstração prática estão disponíveis apenas no vídeo. O conteúdo completo excede o limite de palavras desta descrição; os conceitos e técnicas centrais foram priorizados.*

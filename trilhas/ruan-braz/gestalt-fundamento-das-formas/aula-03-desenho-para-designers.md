@@ -1,5 +1,3 @@
-Cálculo interno: [9 blocos] / [38 parágrafos totais] / [1560 palavras estimadas] / [1560 ÷ 200 = 8 minutos]
-
 # Desenho para Designers
 
 **Tempo estimado de leitura:** 8 minutos

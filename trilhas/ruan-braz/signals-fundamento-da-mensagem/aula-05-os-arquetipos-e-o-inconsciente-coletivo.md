@@ -1,5 +1,3 @@
-Cálculo interno: [14 blocos] / [58 parágrafos totais] / [2.460 palavras estimadas] / [2.460 ÷ 200 = 13 minutos]
-
 # Os Arquétipos e o Inconsciente Coletivo
 
 **Tempo estimado de leitura:** 13 minutos
@@ -9,7 +7,7 @@ Cálculo interno: [14 blocos] / [58 parágrafos totais] / [2.460 palavras estima
 Ao final desta aula, você será capaz de:
 
 - Distinguir entre inconsciente pessoal e inconsciente coletivo segundo Jung
-- Identificar os arquétipos fundamentais definidos por Jung: persona, sombra, ânima, ânimos e self
+- Identificar os arquétipos fundamentais definidos por Jung: persona, sombra, ânima, animus e self
 - Reconhecer como os arquétipos funcionam como potencialidades ativas na percepção humana
 - Aplicar os conceitos de persona e sombra na construção de personalidade de marca
 
@@ -111,11 +109,11 @@ A melhor forma de encontrar a própria sombra, segundo Freud citado por Ruan, é
 
 Para o design, toda marca possui uma sombra. Mapeá-la ajuda a entender quais aspectos negativos a marca não quer externalizar. Ruan ressalta que persona e sombra são os dois arquétipos mais importantes para o trabalho com marcas e, ao mesmo tempo, os menos estudados por quem aprende sobre arquétipos superficialmente pela internet.
 
-## Os arquétipos da Ânima e do Ânimos
+## Os arquétipos da Ânima e do Animus
 
 A ânima representa os aspectos femininos que fazem parte do inconsciente dos homens. Ela se manifesta projetada nas figuras femininas da vida: mãe, irmã, namorada, esposa. A mulher que um homem idealiza como "a mulher da sua vida" é, em grande parte, uma projeção da própria ânima, do lado feminino da sua psique.
 
-O ânimos é o equivalente oposto: os aspectos masculinos que fazem parte do inconsciente das mulheres. Ele se projeta nas figuras masculinas significativas da vida e está presente na busca pelo "homem ideal".
+O animus é o equivalente oposto: os aspectos masculinos que fazem parte do inconsciente das mulheres. Ele se projeta nas figuras masculinas significativas da vida e está presente na busca pelo "homem ideal".
 
 Todo homem tem aspectos femininos na psique e toda mulher tem aspectos masculinos. A intensidade varia de pessoa para pessoa, mas a polaridade existe em todos. Ruan conecta esse par ao conceito de ordem e caos: o aspecto feminino é o caos no homem, o aspecto masculino é a ordem na mulher. São as polaridades que geram equilíbrio.
 
@@ -135,7 +133,7 @@ O design trabalha com estímulos para conduzir a percepção das pessoas. Esses 
 
 Um signo pode evocar um arquétipo, mas são conceitos diferentes. O design que só opera no nível dos signos conscientes atinge uma camada da percepção. O design que entende os arquétipos consegue tocar algo mais profundo: os dramas internos da alma, as estruturas que conectam todos os seres humanos independentemente de cultura.
 
-Conhecer persona, sombra, ânima, ânimos e self permite construir a personalidade de uma marca com base nas mesmas estruturas que organizam a psique humana. Não como um molde genérico, mas como uma escolha que vai gerar conexão real com o inconsciente coletivo do público. A próxima aula aprofunda os 12 arquétipos de Margaret Mark e Carol Pearson e sua aplicação prática em projetos de identidade de marca.
+Conhecer persona, sombra, ânima, animus e self permite construir a personalidade de uma marca com base nas mesmas estruturas que organizam a psique humana. Não como um molde genérico, mas como uma escolha que vai gerar conexão real com o inconsciente coletivo do público. A próxima aula aprofunda os 12 arquétipos de Margaret Mark e Carol Pearson e sua aplicação prática em projetos de identidade de marca.
 
 ## Coloque em prática
 

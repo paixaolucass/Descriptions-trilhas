@@ -1,5 +1,3 @@
-Cálculo interno: 8 blocos / 50 parágrafos totais / 1.800 palavras estimadas / 1.800 ÷ 200 = 9 minutos
-
 # Catálogo de projetos
 
 **Tempo estimado de leitura:** 9 minutos
@@ -15,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## O que é o catálogo de projetos
 
-Matheus apresenta o catálogo de projetos como uma área opcional do perfil. Ele não usou quando começou, então não é obrigatório para conseguir os primeiros projetos.
+Mateus apresenta o catálogo de projetos como uma área opcional do perfil. Ele não usou quando começou, então não é obrigatório para conseguir os primeiros projetos.
 
 Mesmo assim, recomenda configurar porque é outra forma de captar clientes, especialmente para quem não quer gastar muitos connects.
 
@@ -23,7 +21,7 @@ O catálogo permite criar pacotes de serviços que clientes podem comprar direta
 
 ## Exemplo de pacote
 
-Matheus mostra um exemplo chamado Complete Brand Identity. O pacote apresenta imagens do tipo de projeto vendido, título, descrição, categoria e informações sobre o serviço.
+Mateus mostra um exemplo chamado Complete Brand Identity. O pacote apresenta imagens do tipo de projeto vendido, título, descrição, categoria e informações sobre o serviço.
 
 O cliente vê planos diferentes, como inicial, padrão e avançado. Cada plano pode ter escopo, prazo e preço próprios.
 
@@ -33,7 +31,7 @@ Essa estrutura transforma um serviço em produto mais claro, com opções de com
 
 Na configuração do catálogo, o profissional deve usar palavras-chave na descrição e selecionar categoria e tipo de negócio.
 
-Também há limite de até cinco tags. Matheus recomenda escolher as principais, com base no que mais tem resultado na plataforma para o nicho.
+Também há limite de até cinco tags. Mateus recomenda escolher as principais, com base no que mais tem resultado na plataforma para o nicho.
 
 Assim como no perfil e no portfólio, o catálogo também deve ser pensado para busca e clareza.
 
@@ -41,13 +39,13 @@ Assim como no perfil e no portfólio, o catálogo também deve ser pensado para 
 
 Na parte de precificação, o profissional cria os planos. Cada plano tem título, descrição, número de dias, revisões, versões, entregáveis e preço final.
 
-Matheus não gosta de colocar número de horas trabalhadas e também não costuma oferecer mais de uma versão. Para ele, uma versão já basta.
+Mateus não gosta de colocar número de horas trabalhadas e também não costuma oferecer mais de uma versão. Para ele, uma versão já basta.
 
-O aluno pode selecionar entregáveis, embora Matheus não goste tanto do formato limitado que a plataforma oferece.
+O aluno pode selecionar entregáveis, embora Mateus não goste tanto do formato limitado que a plataforma oferece.
 
 ## Adicionais pagos
 
-O catálogo permite incluir adicionais. Matheus mostra entrega rápida, revisão adicional, versões adicionais e design de papelaria.
+O catálogo permite incluir adicionais. Mateus mostra entrega rápida, revisão adicional, versões adicionais e design de papelaria.
 
 No exemplo, entregar um dia antes custa mais 100 dólares. Revisão adicional custa 200 dólares. Papelaria custa 300 dólares e adiciona dois dias.
 
@@ -63,7 +61,7 @@ O catálogo ainda permite descrever etapas do projeto e adicionar perguntas freq
 
 ## Limite de compras simultâneas
 
-Matheus chama atenção para o número máximo de projetos que podem ser comprados ao mesmo tempo.
+Mateus chama atenção para o número máximo de projetos que podem ser comprados ao mesmo tempo.
 
 Se o profissional deixar o limite alto, como 10, pode acabar tendo que entregar 10 projetos simultâneos caso todos sejam comprados.
 
@@ -73,7 +71,7 @@ Esse limite precisa ser configurado com responsabilidade, considerando capacidad
 
 O catálogo permite que clientes encontrem e comprem serviços sem que o freelancer gaste connects. Ele aparece em buscas de projetos e no perfil.
 
-Mesmo assim, Matheus alerta que é difícil fechar vendas pelo catálogo sem autoridade na plataforma. Um perfil novo ainda não tem histórico, depoimentos ou provas suficientes.
+Mesmo assim, Mateus alerta que é difícil fechar vendas pelo catálogo sem autoridade na plataforma. Um perfil novo ainda não tem histórico, depoimentos ou provas suficientes.
 
 Por isso, o catálogo é uma opção útil, mas não substitui a estratégia principal de conquistar os primeiros projetos e depoimentos.
 
@@ -96,4 +94,3 @@ Configure:
 - limite realista de compras simultâneas.
 
 Depois, visualize como o cliente verá o pacote antes de publicar.
-

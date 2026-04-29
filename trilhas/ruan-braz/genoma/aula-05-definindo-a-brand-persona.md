@@ -1,5 +1,3 @@
-Cálculo interno: [9 blocos] / [42 parágrafos totais] / [2.280 palavras estimadas] / [2.280 ÷ 200 = 12 minutos]
-
 # Definindo a Brand Persona
 
 **Tempo estimado de leitura:** 12 minutos

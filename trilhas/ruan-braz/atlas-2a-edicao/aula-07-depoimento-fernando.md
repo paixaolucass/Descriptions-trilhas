@@ -1,5 +1,3 @@
-Cálculo interno: 5 blocos / 16 parágrafos totais / 850 palavras estimadas / 850 ÷ 200 = 5 minutos
-
 # Depoimento Fernando
 
 **Tempo estimado de leitura:** 5 minutos

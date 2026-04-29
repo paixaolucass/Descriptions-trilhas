@@ -1,5 +1,3 @@
-Cálculo interno: 9 blocos / 52 parágrafos totais / 1.850 palavras estimadas / 1.850 ÷ 200 = 10 minutos
-
 # O que é a plataforma da Upwork
 
 **Tempo estimado de leitura:** 10 minutos
@@ -15,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## A mentalidade de humildade
 
-Matheus começa a aula falando sobre uma mentalidade essencial para entrar na Upwork: humildade. Ele explica que muitas pessoas criam perfis em plataformas internacionais querendo cobrar 35, 60 ou até 100 dólares por hora logo no início.
+Mateus começa a aula falando sobre uma mentalidade essencial para entrar na Upwork: humildade. Ele explica que muitas pessoas criam perfis em plataformas internacionais querendo cobrar 35, 60 ou até 100 dólares por hora logo no início.
 
 Esses valores são possíveis para profissionais com reputação, mas não são realistas para quem ainda não tem histórico dentro da plataforma. O cliente compara perfis, depoimentos, insígnias, valores recebidos e projetos concluídos.
 
@@ -27,19 +25,19 @@ Dentro da Upwork, a troca com o cliente passa muito pela reputação. Um perfil 
 
 Por isso, o objetivo inicial não deve ser maximizar o valor cobrado. O primeiro objetivo é reduzir o risco para o cliente e conquistar os primeiros depoimentos.
 
-Matheus reforça que a estratégia inicial será pequena e humilde. Isso pode parecer ruim no começo, mas faz sentido porque permite construir uma base de confiança dentro da plataforma.
+Mateus reforça que a estratégia inicial será pequena e humilde. Isso pode parecer ruim no começo, mas faz sentido porque permite construir uma base de confiança dentro da plataforma.
 
 ## O primeiro projeto pequeno
 
 A recomendação inicial é buscar um projeto de cerca de 20 dólares e configurar o perfil com valor baixo, sem passar de 5 dólares por hora.
 
-Matheus deixa claro que isso não significa fazer um projeto completo de marca por 5 dólares. A ideia é encontrar um trabalho simples, que leve no máximo duas horas, apenas para conquistar o primeiro depoimento.
+Mateus deixa claro que isso não significa fazer um projeto completo de marca por 5 dólares. A ideia é encontrar um trabalho simples, que leve no máximo duas horas, apenas para conquistar o primeiro depoimento.
 
 O primeiro depoimento é a peça central dessa etapa. A partir dele, a dificuldade começa a diminuir e a escalada fica mais possível.
 
 ## O erro inicial de cobrar alto
 
-Matheus conta que também errou quando começou. Ele colocou 25 dólares por hora e enviava propostas para vários clientes, mas ninguém lia.
+Mateus conta que também errou quando começou. Ele colocou 25 dólares por hora e enviava propostas para vários clientes, mas ninguém lia.
 
 O cliente via o preço, percebia que ele não tinha reputação na plataforma e passava direto. O perfil ainda não oferecia segurança suficiente para justificar aquele valor.
 
@@ -47,7 +45,7 @@ Quando mudou a estratégia e passou a focar em projetos pequenos, conseguiu o pr
 
 ## O primeiro projeto de 20 dólares
 
-O primeiro projeto de Matheus foi criar uma imagem de título para um vídeo musical. Era um trabalho simples: escolher uma fonte, escrever o nome do vídeo e aplicar um efeito.
+O primeiro projeto de Mateus foi criar uma imagem de título para um vídeo musical. Era um trabalho simples: escolher uma fonte, escrever o nome do vídeo e aplicar um efeito.
 
 O projeto levou cerca de duas horas. Ele fez alguns ajustes adicionais, entregou e recebeu seus primeiros 20 dólares dentro da Upwork.
 
@@ -59,11 +57,11 @@ Depois do primeiro projeto, a orientação é aumentar aos poucos. Se o primeiro
 
 A lógica é aumentar com base nas provas acumuladas dentro da plataforma. Cada novo projeto concluído reduz a percepção de risco e permite cobrar um pouco mais.
 
-Matheus mostra que, depois do primeiro trabalho, conseguiu um projeto de 135 dólares com menos esforço. Em seguida, veio um cliente pagando 25 dólares por hora, que acabou rendendo mais de 3 mil dólares e depois continuou fora da plataforma.
+Mateus mostra que, depois do primeiro trabalho, conseguiu um projeto de 135 dólares com menos esforço. Em seguida, veio um cliente pagando 25 dólares por hora, que acabou rendendo mais de 3 mil dólares e depois continuou fora da plataforma.
 
 ## Projetos que viram oportunidades maiores
 
-Matheus também cita um projeto de apresentações que se transformou no trabalho de tempo integral que ele tem atualmente. Esse contrato está ligado ao resultado de mais de R$26.000 mencionado em outras aulas.
+Mateus também cita um projeto de apresentações que se transformou no trabalho de tempo integral que ele tem atualmente. Esse contrato está ligado ao resultado de mais de R$26.000 mencionado em outras aulas.
 
 O ponto central é que poucos projetos iniciais podem abrir portas relevantes. A Upwork não precisa ser apenas um lugar para pequenos trabalhos. Ela pode ser uma porta para clientes recorrentes, contratos maiores e trabalho fixo.
 
@@ -71,7 +69,7 @@ Mas o começo exige paciência. O primeiro passo é curto prazo: conseguir o pri
 
 ## Como a Upwork funciona
 
-Matheus explica que a Upwork é uma plataforma onde clientes publicam projetos e dizem que estão buscando profissionais para ajudar.
+Mateus explica que a Upwork é uma plataforma onde clientes publicam projetos e dizem que estão buscando profissionais para ajudar.
 
 Os freelancers acessam esses projetos, analisam a demanda, observam o valor que o cliente pretende pagar e enviam uma proposta. A plataforma funciona como um ambiente de busca, candidatura, negociação, contrato e reputação.
 
@@ -79,7 +77,7 @@ Com o tempo, a meta é que o profissional precise enviar menos propostas. Client
 
 ## Processo, não mágica
 
-Matheus reforça que o primeiro projeto é o mais difícil. Por isso a estratégia de começar pequeno é tão importante.
+Mateus reforça que o primeiro projeto é o mais difícil. Por isso a estratégia de começar pequeno é tão importante.
 
 Ele também alerta que a Upwork não é um processo mágico. Não basta assistir às aulas, aplicar de qualquer jeito e esperar o projeto aparecer. Como qualquer método de prospecção, existe trabalho, teste, dificuldade e consistência.
 
@@ -95,4 +93,3 @@ Defina sua meta inicial dentro da Upwork:
 - um próximo valor para subir depois do primeiro projeto.
 
 O objetivo inicial não é ganhar muito. É construir reputação.
-

@@ -1,5 +1,3 @@
-Cálculo interno: 7 blocos / 22 parágrafos totais / 1800 palavras estimadas / 1800 ÷ 200 = 9 minutos
-
 # Perfil de Cliente - Parte 2
 
 **Tempo estimado de leitura:** 9 minutos
@@ -70,4 +68,3 @@ Esse cruzamento é o processo correto de uso da IA: ela gera hipóteses, você a
 ## Coloque em prática
 
 Retorne à aba de Perfil Ideal de Cliente no seu documento estratégico. Adicione uma subseção chamada "Critérios Mínimos" e preencha-a com os seguintes dados: faixa de investimento disponível (quanto o cliente precisa ter para pagar pelo seu serviço), faturamento mensal e anual necessário aplicando a regra dos 10%, margem de lucro mínima aceitável e tamanho de equipe esperado. Em seguida, adicione uma subseção chamada "Urgências Ocultas" e registre quais dores o seu cliente ideal sente mas dificilmente consegue articular com clareza. Coloque-se na perspectiva financeira do cliente: com o faturamento e a margem que você definiu, quanto sobra de lucro por mês? Esse valor torna a compra do seu serviço confortável ou apertada? Ajuste os critérios com base nessa análise antes de avançar para a próxima etapa.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

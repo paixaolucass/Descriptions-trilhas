@@ -1,5 +1,3 @@
-Cálculo interno: [3 blocos] / [13 parágrafos totais] / [550 palavras estimadas] / [550 ÷ 200 = 3 minutos]
-
 # Para quem é esta trilha
 
 **Tempo estimado de leitura:** 3 minutos
@@ -42,5 +40,3 @@ A proposta final é simples: desenvolver o tipo de pensamento que a IA consegue 
 ## Coloque em prática
 
 Antes de continuar, responda com honestidade: o que exatamente você quer que a IA amplifique em você? Se a resposta envolver clareza, método e precisão, a trilha foi feita para o seu perfil. Escreva essa resposta em uma frase e use-a como bússola ao longo das próximas aulas.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

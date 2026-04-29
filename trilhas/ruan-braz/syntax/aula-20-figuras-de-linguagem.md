@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [28 parágrafos totais] / [1300 palavras estimadas] / [1300 ÷ 200 = 7 minutos]
-
 # Figuras de linguagem
 
 **Tempo estimado de leitura:** 7 minutos
@@ -74,5 +72,3 @@ O framework para escolher com precisão:
 ## Coloque em prática
 
 Pegue um texto recente e identifique qual camada está faltando: monotonia (falta ritmo), abstração (falta imagem concreta) ou confusão (falta foco). Aplique apenas uma figura correspondente ao problema. Uma figura, não várias.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

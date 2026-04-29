@@ -1,5 +1,3 @@
-Cálculo interno: 7 blocos / 40 parágrafos totais / 4000 palavras estimadas / 4000 ÷ 200 = 20 minutos
-
 # Colocar Página no Ar e Criativos Rodando - Parte 2
 
 **Tempo estimado de leitura:** 20 minutos
@@ -126,4 +124,3 @@ Ruan deixa claro que não faz sentido construir esse fluxo completo antes de val
 - Verifique os dados do seu anúncio: CTR, custo por clique e alcance. Divida o orçamento total pelo custo por clique para estimar o volume de leads possível. Use esse número para planejar quantos contatos precisará fazer.
 - Crie uma planilha no Google Sheets com as colunas de nome, WhatsApp, origem, destino e estágio. Registre cada lead que chegar e defina a cadência de contato: ligação, follow-up D+1, D+2, D+5 e D+6.
 - Crie ao menos três variações de criativo com destinos diferentes (formulário, WhatsApp e diagnóstico) para coletar dados comparativos de conversão por rota.
-*Esta descrição cobre os principais conteúdos da aula. A aula tem aproximadamente 50 minutos, o conteúdo completo excede o limite de palavras desta descrição; os conceitos e frameworks centrais foram priorizados.*

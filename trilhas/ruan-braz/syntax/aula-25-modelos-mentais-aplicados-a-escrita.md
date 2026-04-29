@@ -1,5 +1,3 @@
-Cálculo interno: [6 blocos] / [26 parágrafos totais] / [1100 palavras estimadas] / [1100 ÷ 200 = 6 minutos]
-
 # Modelos mentais aplicados à escrita
 
 **Tempo estimado de leitura:** 6 minutos
@@ -71,5 +69,3 @@ Para argumentos em texto: ao invés de uma causa única que leva a uma conclusã
 ## Coloque em prática
 
 Escolha um texto que você está desenvolvendo e aplique um dos cinco modelos apresentados. Se a ideia central ainda está vaga, use Primeiros Princípios para decompô-la. Se não sabe o que evitar, use Inversão. Se quer ir além do óbvio, use Pensamento de 2ª Ordem. Acesse o Overchat, leia o prompt do modelo escolhido e use-o como instrução antes de escrever. Depois compare o resultado com a versão que você teria escrito sem o modelo.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

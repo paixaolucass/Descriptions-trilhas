@@ -1,5 +1,3 @@
-Cálculo interno: aula de ~120 minutos / 120 × 200 = 24000 palavras de fala / teto aplicado: 4000 palavras
-
 # IA na prática com fotografia
 
 **Tempo estimado de leitura:** 20 minutos
@@ -192,7 +190,7 @@ Consistência visual em um conjunto de imagens tem três camadas:
 
 **Consistência de composição:** o enquadramento, a proporção e a forma como o sujeito se posiciona no frame seguem um padrão recognizível. Isso é definido antes de começar a gerar, como parte do briefing visual.
 
-A técnica prática para manter essas três camadas ao longo de muitas gerações é documentar o prompt base que funcionou para a primeira geração aprovada. Esse prompt base contém todos os elementos fixos do projeto: estilo fotográfico, iluminação, câmera, lente, proporção de imagem, tom de cor. A cada nova geração, você parte desse base e altera apenas o que precisa mudar (ação, ambiente, expressão).
+A técnica prática para manter essas três camadas ao longo de muitas gerações é documentar o prompt base que funcionou para a primeira geração aprovada. Esse prompt base contém todos os elementos fixos do projeto: estilo fotográfico, iluminação, câmera, lente, proporção de imagem, tom de cor. A cada nova geração, você parte dessa base e altera apenas o que precisa mudar (ação, ambiente, expressão).
 ## Quando usar Personagem e quando usar face swap: decisão de fluxo
 
 A escolha entre treinar um Personagem ou usar face swap depois não é sempre óbvia. Aqui estão os critérios práticos que emergem das demonstrações:
@@ -226,4 +224,3 @@ A aula fecha com Ruan demonstrando que resultados profissionais não requerem co
 ## Coloque em prática
 
 Selecione entre 10 e 15 fotos suas (ou de alguém que queira testar) com diversidade de ângulos e expressões. Exporte em resolução de 1200-1300px. Acesse o Freepik e treine um Personagem no modo rápido para começar. Enquanto o treinamento ocorre, construa um mood board no Freepik Spaces com três a cinco referências visuais do estilo de fotografia que você quer. Envie uma dessas referências ao Gemini e peça a descrição técnica detalhada. Use essa descrição como base do seu prompt no Space, substituindo a pessoa da referência pelo seu Personagem. Gere ao menos dez variações e selecione as três melhores. Para as três selecionadas, teste a troca de rosto com a foto real do sujeito no ângulo mais próximo do enquadramento gerado. Documente o que funcionou e o que não funcionou em cada passo.
-*Esta descrição cobre os principais conteúdos da aula. Demonstrações ao vivo, incluindo o ensaio completo com imagens reais e resultados de cada etapa, estão disponíveis apenas no vídeo.*

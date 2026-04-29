@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [395 palavras estimadas] / [395 ÷ 200 = 2 minutos]
-
 # Definindo o seu hipernicho
 
 **Tempo estimado de leitura:** 2 minutos

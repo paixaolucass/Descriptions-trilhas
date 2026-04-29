@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [19 parágrafos totais] / [850 palavras estimadas] / [850 ÷ 200 = 4 minutos]
-
 # Vozes e manipulação de áudio
 
 **Tempo estimado de leitura:** 4 minutos
@@ -53,5 +51,3 @@ O Runway é mais indicado para criar personas interativas via áudio e para inte
 ## Coloque em prática
 
 Acesse o Runway e crie um Custom Character usando a imagem da sua persona processada em 16:9. Separe as instruções (tom de voz e comportamento) da base de conhecimento (biografia e mapa de empatia) e preencha os dois campos. Faça uma chamada de áudio com o personagem e compare a experiência com a que você teve no Character.ai na aula anterior. Observe qual entregou respostas mais coerentes com a ficha que você construiu.
-
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

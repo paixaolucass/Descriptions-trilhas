@@ -1,5 +1,3 @@
-Cálculo interno: [14 blocos] / [42 parágrafos totais] / [2410 palavras estimadas] / [2410 ÷ 200 = 13 minutos]
-
 # Composições tipográficas
 
 **Tempo estimado de leitura:** 13 minutos

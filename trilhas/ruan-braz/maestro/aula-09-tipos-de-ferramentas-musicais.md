@@ -1,5 +1,3 @@
-Cálculo interno: [11 blocos] / [48 parágrafos totais] / [3850 palavras estimadas] / [3850 ÷ 200 = 19 minutos]
-
 # Tipos de ferramentas musicais (geração, edição, masterização)
 
 **Tempo estimado de leitura:** 19 minutos
@@ -30,7 +28,7 @@ Esta é a categoria com maior impacto atual, segundo o relatório. As ferramenta
 
 Ruan começa pelos recursos mais acessíveis: o próprio Gemini, como modelo multimodal, já tem uma opção nativa de criar música dentro da interface padrão. Quem tem assinatura do Gemini pode acessar a função "criar música" diretamente, escolher um estilo e gerar composições simples. É limitado, mas funciona e está disponível sem custo adicional para quem já assina.
 
-No Google Labs, o ambiente de experimentos do Google, existe o Producer AI, uma ferramenta mais elaborada que usa o modelo Lyria (o modelo de geração de música do Google) para criar músicas com estrutura narrativa completa: intro, verso 1, refrão, verso 2, refrão, ponte, refrão final e outro. Ruan navega ao vivo dentro do Producer AI e descreve o que vê: o sistema funciona como um ambiente de criação colaborativa onde é possível tanto gerar músicas quanto criar instrumentos digitais interativos. O Professor AI usa o conceito do Vibe Code aplicado à música, gerando ferramentas e ambientes sonoros para o usuário explorar.
+No Google Labs, o ambiente de experimentos do Google, existe o Producer AI, uma ferramenta mais elaborada que usa o modelo Lyria (o modelo de geração de música do Google) para criar músicas com estrutura narrativa completa: intro, verso 1, refrão, verso 2, refrão, ponte, refrão final e outro. Ruan navega ao vivo dentro do Producer AI e descreve o que vê: o sistema funciona como um ambiente de criação colaborativa onde é possível tanto gerar músicas quanto criar instrumentos digitais interativos. O ProducerAI usa o conceito do Vibe Code aplicado à música, gerando ferramentas e ambientes sonoros para o usuário explorar.
 
 Ruan gera uma música dentro do Producer AI ao vivo usando um prompt pronto, apenas para mostrar o funcionamento. O sistema monta a estrutura de versos e refrões automaticamente e começa a gerar. A observação de Ruan é que a ferramenta parece promissora e inteligente, mas ainda está em fase experimental e pode evoluir muito nos próximos meses. Ela provavelmente não estava nos relatórios de ferramentas mais usadas no momento da pesquisa por ser nova.
 
@@ -70,7 +68,7 @@ O Moises App é destacado com entusiasmo por Ruan especialmente por ser uma star
 
 Ruan navega até o site do Moises ao vivo e comenta positivamente o design, que considera muito bem executado para uma startup. Ele aponta a parceria do Moises com James Seasons e Charlie Puth como um indicador de que a ferramenta tem reconhecimento na indústria profissional. O Moises oferece além da separação de stems um AI Studio para arranjos colaborativos e edições de música.
 
-### Hipex DAO Pro, Lalal.ai, UVR5 e Gaudio Studio
+### RipX DAW Pro, Lalal.ai, UVR5 e Gaudio Studio
 
 Ruan apresenta essas ferramentas como opções profissionais para separação de stems e remoção de vocais. O Lalal.ai (que Ruan chama de Lalos em um momento antes de corrigir) é descrito como muito bom especialmente em masterização. Ruan acessa o site ao vivo e mostra as empresas que utilizam o Lalal.ai: Warner Records, Disney Music Group e outras gravadoras grandes. A ferramenta aceita upload de uma faixa de áudio e entrega a versão com stems separados ou com elementos removidos.
 
@@ -88,7 +86,7 @@ As ferramentas listadas nesta categoria são: Synthesizer V Studio 2 Pro, Melody
 
 Ruan dedica atenção especial a duas ferramentas de voz que têm uso mais acessível. O Kits.ai permite clonar voz, criar demos com a própria voz do usuário, isolar vocais de faixas existentes e criar camadas de voz sobrepostas. Tem versão gratuita disponível para experimentação.
 
-O Doubler Tool é descrito como muito poderoso e com um caso de uso bastante específico: o usuário grava a própria voz cantando (mesmo desafinado, mesmo com qualidade de banheiro), sobe esse áudio na ferramenta e ela refaz a voz, harmoniza, arranjo e substitui por vozes de qualidade profissional. Ruan destaca que o resultado final fica muito bom. A desvantagem é que o Doubler é pago: os planos variam entre 99, 129 e 219 dólares, o que Ruan reconhece como caro.
+O Doubler Tool é descrito como muito poderoso e com um caso de uso bastante específico: o usuário grava a própria voz cantando (mesmo desafinado, mesmo com qualidade de banheiro), sobe esse áudio na ferramenta e ela refaz a voz, harmoniza, faz o arranjo e substitui por vozes de qualidade profissional. Ruan destaca que o resultado final fica muito bom. A desvantagem é que o Doubler é pago: os planos variam entre 99, 129 e 219 dólares, o que Ruan reconhece como caro.
 
 A motivação para apresentar essas ferramentas é o fato de Ruan não gostar muito da qualidade dos vocais gerados pelo Suno padrão. Para projetos que exigem vocais mais realistas e trabalhados, a recomendação é separar os stems de voz no Suno e processar esse vocal em uma ferramenta especializada como o Kits.ai ou o Doubler.
 
@@ -149,4 +147,3 @@ Ruan compromete-se a deixar na descrição da aula os links diretos para todas a
 ## Coloque em prática
 
 Identifique em qual etapa do fluxo de produção você tem maior lacuna hoje: geração, edição/stems, voz, mixagem ou masterização. Escolha a ferramenta gratuita recomendada para essa etapa e crie um projeto real nela. Se a lacuna é na geração, abra o Suno com um plano gratuito e gere três músicas em gêneros diferentes. Se é na separação de stems, suba uma música que você tem no Suno Studio ou no Moises App e explore o que cada stem soa isolado. Se é na masterização, finalize uma música no Suno, exporte o MP3 e passe pelo Landr para comparar o antes e o depois.
-*Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.*

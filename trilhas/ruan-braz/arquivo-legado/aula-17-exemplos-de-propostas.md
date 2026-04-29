@@ -1,5 +1,3 @@
-Cálculo interno: [4 blocos] / [10 parágrafos totais] / [391 palavras estimadas] / [391 ÷ 200 = 2 minutos]
-
 # Exemplos de propostas
 
 **Tempo estimado de leitura:** 2 minutos
