@@ -1,4 +1,4 @@
-Cálculo interno: 12 blocos / 58 parágrafos / 2.760 palavras estimadas / 2.760 ÷ 200 = 14 minutos
+Cálculo interno: [12 blocos] / [58 parágrafos totais] / [2.760 palavras estimadas] / [2.760 ÷ 200 = 14 minutos]
 
 # Introdução ao núcleo da marca
 

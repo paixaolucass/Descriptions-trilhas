@@ -1,4 +1,4 @@
-Cálculo interno: 8 blocos / 52 parágrafos totais / 2050 palavras estimadas / 2050 ÷ 200 = 11 minutos
+Cálculo interno: [8 blocos] / [52 parágrafos totais] / [2050 palavras estimadas] / [2050 ÷ 200 = 11 minutos]
 
 # Virtudes e sombras da marca
 
