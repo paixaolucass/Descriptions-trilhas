@@ -1,6 +1,6 @@
 Cálculo interno: [8 blocos] / [25 parágrafos totais] / [1180 palavras estimadas] / [1180 ÷ 200 = 6 minutos]
 
-# Prática fictícia Forfran
+# Prática fictícia: ForFram
 
 **Tempo estimado de leitura:** 6 minutos
 
