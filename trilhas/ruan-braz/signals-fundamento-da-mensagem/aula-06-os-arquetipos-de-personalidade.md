@@ -1,4 +1,4 @@
-Cálculo interno: 25 blocos / 74 parágrafos totais / ~3370 palavras estimadas / 3370 ÷ 200 = ~17 minutos
+Cálculo interno: [24 blocos] / [74 parágrafos totais] / [3370 palavras estimadas] / [3370 ÷ 200 = 17 minutos]
 
 # Os Arquétipos de Personalidade
 
@@ -11,7 +11,7 @@ Ao final desta aula, você será capaz de:
 - Identificar os quatro impulsos humanos que organizam os 12 arquétipos de personalidade e a lógica de cada quadrante
 - Distinguir as características, desejos, sombras, metas e níveis de desenvolvimento de cada um dos 12 arquétipos
 - Reconhecer a diferença entre arquétipo e estereótipo e as consequências práticas dessa distinção na construção de mensagens
-- Aplicar a estrutura dos quadrantes para entender como cada arquétipo motiva comportamentos e se conecta ao inconsciente das pessoas
+- Aplicar a estrutura dos quadrantes para reconhecer como cada arquétipo motiva comportamentos e se conecta ao inconsciente das pessoas
 
 ## A citação de Jung e os conceitos da aula anterior
 

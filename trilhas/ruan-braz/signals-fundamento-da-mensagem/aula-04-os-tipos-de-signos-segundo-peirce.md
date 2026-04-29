@@ -1,4 +1,4 @@
-Cálculo interno: [8 blocos] / [34 parágrafos totais] / [1560 palavras estimadas] / [1560 ÷ 200 = 7,8 → 8 minutos]
+Cálculo interno: [8 blocos] / [34 parágrafos totais] / [1560 palavras estimadas] / [1560 ÷ 200 = 8 minutos]
 
 # Os Tipos de Signos Segundo Peirce
 

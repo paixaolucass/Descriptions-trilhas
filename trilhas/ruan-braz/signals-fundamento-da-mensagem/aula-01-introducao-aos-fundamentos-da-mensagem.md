@@ -1,4 +1,4 @@
-Cálculo interno: [9 blocos] / [26 parágrafos totais] / [1525 palavras estimadas] / [1525 ÷ 200 = 7.63 → 8 minutos]
+Cálculo interno: [9 blocos] / [26 parágrafos totais] / [1525 palavras estimadas] / [1525 ÷ 200 = 8 minutos]
 
 # Introdução aos Fundamentos da Mensagem
 
@@ -9,7 +9,7 @@ Cálculo interno: [9 blocos] / [26 parágrafos totais] / [1525 palavras estimada
 Ao final desta aula, você será capaz de:
 
 - Identificar a posição da mensagem na hierarquia dos fundamentos do design
-- Distinguir os quatro graus de influência da percepção e sua relevância para conhecer o receptor
+- Distinguir os quatro graus de influência da percepção e sua relevância para reconhecer o receptor
 - Reconhecer os conceitos de mundo real, mundo ideal e codificação aplicados à comunicação visual
 - Estruturar a hierarquia entre dado, informação, conhecimento, ideia e mensagem
 

@@ -1,4 +1,4 @@
-Cálculo interno: 10 blocos / 43 parágrafos totais / 2410 palavras estimadas / 2410 ÷ 200 = 13 minutos
+Cálculo interno: [11 blocos] / [43 parágrafos totais] / [2410 palavras estimadas] / [2410 ÷ 200 = 13 minutos]
 
 # Storytelling no Design
 

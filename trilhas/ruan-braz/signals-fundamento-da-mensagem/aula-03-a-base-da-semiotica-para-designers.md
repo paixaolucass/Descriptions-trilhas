@@ -1,4 +1,4 @@
-Cálculo interno: [10 blocos] / [37 parágrafos totais] / [1815 palavras estimadas] / [1815 ÷ 200 = 9,1 → 10 minutos]
+Cálculo interno: [10 blocos] / [37 parágrafos totais] / [1815 palavras estimadas] / [1815 ÷ 200 = 10 minutos]
 
 # A Base da Semiótica para Designers
 
@@ -11,7 +11,7 @@ Ao final desta aula, você será capaz de:
 - Identificar o que é um signo e como ele opera no processo de produção de sentido
 - Distinguir as teorias do signo diádico de Saussure e do signo triádico de Peirce
 - Reconhecer a diferença entre signo, objeto e interpretante na prática do design
-- Aplicar a lógica da semiótica para compreender como designers conduzem a percepção das pessoas
+- Aplicar a lógica da semiótica para identificar como designers conduzem a percepção das pessoas
 
 ## Esta aula é uma porta
 
