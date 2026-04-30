@@ -1,0 +1,3348 @@
+1
+00:00:00,000 --> 00:00:03,580
+Vamos falar agora sobre os elementos de uma boa composição musical.
+
+2
+00:00:03,760 --> 00:00:07,000
+A gente já falou um pouquinho sobre isso, eu quero expandir um pouco mais com você,
+
+3
+00:00:07,100 --> 00:00:10,240
+lembrando que a gente tem também aqui o nosso glossário,
+
+4
+00:00:10,300 --> 00:00:12,640
+mas agora vamos falar um pouquinho sobre esses elementos,
+
+5
+00:00:12,740 --> 00:00:16,360
+que você pode ver esses termos surgindo e ficar um pouco perdidinho do que fazer com isso,
+
+6
+00:00:16,440 --> 00:00:18,000
+mas é interessante aqui para a gente trabalhar.
+
+7
+00:00:19,644 --> 00:00:23,224
+Lembrando, o documento está aqui embaixo, se você está assistindo a gravação da aula,
+
+8
+00:00:23,344 --> 00:00:24,464
+é só consultar aí.
+
+9
+00:00:24,704 --> 00:00:27,404
+Então, o primeiro elemento que a gente precisa trazer aqui,
+
+10
+00:00:27,524 --> 00:00:30,644
+eu dividi aqui em nível fundamental e nível de comunicação,
+
+11
+00:00:31,424 --> 00:00:33,704
+e aí, fundamental são os ingredientes,
+
+12
+00:00:33,704 --> 00:00:37,184
+comunicação é como que a música comunica com a gente, beleza?
+
+13
+00:00:37,604 --> 00:00:39,244
+Primeiro deles, o ambiente de trabalho.
+
+14
+00:00:39,444 --> 00:00:41,724
+Assim como quando você vai trabalhar com desenvolvedores,
+
+15
+00:00:41,724 --> 00:00:42,864
+você tem o que a gente chama de IDE,
+
+16
+00:00:43,104 --> 00:00:47,504
+que é a interface, o ambiente de desenvolvimento integrado de software,
+
+17
+00:00:47,504 --> 00:00:50,944
+você tem a DAO, que é o Digital Audio Workstation,
+
+18
+00:00:51,124 --> 00:00:54,564
+que é o seu espaço de trabalho de áudio digital.
+
+19
+00:00:54,984 --> 00:00:57,124
+E esse termo aparece muito, inclusive,
+
+20
+00:00:57,944 --> 00:01:00,024
+se você vai trabalhar num nível mais avançado,
+
+21
+00:01:00,084 --> 00:01:03,144
+que é onde a gente, nessa trilha aqui, a gente não vai ir tão fundo assim,
+
+22
+00:01:03,244 --> 00:01:04,584
+mas se você quiser ir mais fundo ainda,
+
+23
+00:01:05,084 --> 00:01:06,704
+você vai trabalhar com uma DAO,
+
+24
+00:01:07,164 --> 00:01:10,224
+hoje em dia você consegue conectar IAs em programas
+
+25
+00:01:10,224 --> 00:01:11,784
+para as IAs usarem os programas para vocês.
+
+26
+00:01:12,024 --> 00:01:14,184
+Esse é o nível mais avançado para utilizar IA
+
+27
+00:01:14,184 --> 00:01:16,204
+para construir e fazer produção musical,
+
+28
+00:01:16,204 --> 00:01:18,564
+Porque aí você tem algo muito mais...
+
+29
+00:01:21,180 --> 00:01:24,960
+Muito mais profissional, cara. Nível de produção musical de qualidade.
+
+30
+00:01:25,100 --> 00:01:31,180
+Porque uma das questões de trabalhar áudio com a IA é o material que a IA usa pra fazer esses áudios.
+
+31
+00:01:31,500 --> 00:01:35,820
+E quem já trabalha com produção musical, né, se você já foi num estúdio, você já deve ter visto isso,
+
+32
+00:01:36,600 --> 00:01:39,620
+geralmente quem trabalha com produção musical tem várias bibliotecas.
+
+33
+00:01:40,080 --> 00:01:44,300
+E essas bibliotecas são de vários instrumentos diferentes, vários timbres diferentes.
+
+34
+00:01:44,680 --> 00:01:47,060
+Tem uma que eu gosto muito, que o meu primo me passou.
+
+35
+00:01:48,956 --> 00:01:51,356
+Que eu tenho que lembrar o nome dela, cara.
+
+36
+00:01:51,536 --> 00:01:52,536
+Acho que é essa.
+
+37
+00:01:52,656 --> 00:01:53,836
+Não, não é essa aqui, não.
+
+38
+00:01:55,804 --> 00:01:57,124
+Essa aqui, ó. Nossa, isso aqui
+
+39
+00:01:57,824 --> 00:01:59,344
+é ouro, cara. Ouro. Isso aqui,
+
+40
+00:01:59,444 --> 00:02:01,804
+vocês vão ver só caras profissionais passando,
+
+41
+00:02:01,884 --> 00:02:03,644
+mas como eu sou um cara muito curioso,
+
+42
+00:02:03,644 --> 00:02:05,284
+eu tenho acesso a algumas pessoas profissionais também,
+
+43
+00:02:05,804 --> 00:02:07,504
+eu tenho vários sites desses que
+
+44
+00:02:07,504 --> 00:02:09,564
+eu gosto de guardar. E se você vai
+
+45
+00:02:09,564 --> 00:02:11,544
+trabalhar no nível profissional com uma DAO,
+
+46
+00:02:11,624 --> 00:02:13,404
+com um ambiente digital de áudio,
+
+47
+00:02:13,444 --> 00:02:15,324
+é como você que é designer,
+
+48
+00:02:15,364 --> 00:02:17,004
+trabalha com imagem, você não tem o Photoshop?
+
+49
+00:02:17,704 --> 00:02:19,044
+No Photoshop você não tem várias
+
+50
+00:02:19,044 --> 00:02:21,044
+ferramentas pra trabalhar a imagem? Existe
+
+51
+00:02:21,044 --> 00:02:22,964
+a DAO, isso aqui não é uma DAO, tá? Isso aqui é uma
+
+52
+00:02:22,964 --> 00:02:25,024
+Librely, é um lugar onde você
+
+53
+00:02:25,024 --> 00:02:26,764
+você compra bibliotecas e ferramentas,
+
+54
+00:02:26,764 --> 00:02:28,464
+mas você pode salvar
+
+55
+00:02:28,464 --> 00:02:30,884
+essas ferramentas e bibliotecas aqui
+
+56
+00:02:30,884 --> 00:02:31,804
+dentro da sua DAO
+
+57
+00:02:31,804 --> 00:02:34,524
+pra usar áudios de mais qualidade.
+
+58
+00:02:34,664 --> 00:02:36,524
+E aí ela vai criar com esses áudios.
+
+59
+00:02:36,564 --> 00:02:37,604
+E aí, cara, eu vou te falar,
+
+60
+00:02:40,064 --> 00:02:40,864
+é imperceptível
+
+61
+00:02:41,324 --> 00:02:42,604
+da produção de qualidade,
+
+62
+00:02:42,804 --> 00:02:44,644
+bem feita, principalmente orquestra e tal.
+
+63
+00:02:44,804 --> 00:02:46,584
+Eu gosto de entrar nesse site aqui
+
+64
+00:02:47,044 --> 00:02:48,284
+só pra ficar ouvindo, cara.
+
+65
+00:02:48,404 --> 00:02:50,244
+Só pra ficar ouvindo. Eles têm separados
+
+66
+00:02:50,244 --> 00:02:52,284
+aqui, então você compra os produtos, né, por euro.
+
+67
+00:02:52,464 --> 00:02:54,344
+Não é barato, né, eu tô falando de algo
+
+68
+00:02:54,344 --> 00:02:57,004
+algo de extrema qualidade, gravado em estúdio,
+
+69
+00:02:57,004 --> 00:02:58,984
+gravação de ponta, lindo.
+
+70
+00:02:59,144 --> 00:03:01,664
+É gostoso de ficar ouvindo, cara, pra você ter noção.
+
+71
+00:03:02,144 --> 00:03:05,244
+E aí você pode comprar aqui, então,
+
+72
+00:03:05,384 --> 00:03:08,044
+as faixas, os instrumentos que você quiser.
+
+73
+00:03:09,756 --> 00:03:12,396
+Na verdade não é a faixa, são os instrumentos mesmo.
+
+74
+00:03:13,036 --> 00:03:15,676
+E esses instrumentos que você vai utilizar aqui,
+
+75
+00:03:15,736 --> 00:03:19,016
+você pode colocar ele na DAW e a IA vai usar ele para você.
+
+76
+00:03:19,036 --> 00:03:23,616
+Ela vai criar a música com essas bibliotecas.
+
+77
+00:03:23,736 --> 00:03:25,436
+Então é muito interessante.
+
+78
+00:03:26,216 --> 00:03:27,876
+Essa é uma que eu gosto muito.
+
+79
+00:03:28,036 --> 00:03:30,416
+Você pode inclusive, quando você vem aqui em All Products,
+
+80
+00:03:30,636 --> 00:03:33,196
+tem vários deles aqui e você pode ouvir.
+
+81
+00:04:01,468 --> 00:04:02,008
+Áudio limpo.
+
+82
+00:04:03,068 --> 00:04:05,268
+E quando você começa a usar muito IA para fazer música,
+
+83
+00:04:05,408 --> 00:04:07,948
+você começa a perceber, seu ouvido vai ficando treinado.
+
+84
+00:04:08,088 --> 00:04:11,148
+Você consegue perceber quando tem um áudio limpo, bem gravado,
+
+85
+00:04:11,168 --> 00:04:14,428
+e um áudio que foi feito com inteligência artificial,
+
+86
+00:04:14,648 --> 00:04:15,748
+todo sintetizado.
+
+87
+00:04:16,248 --> 00:04:17,108
+E aí...
+
+88
+00:04:18,556 --> 00:04:26,656
+Quem é profissional mesmo, vai utilizar uma DAO e vai fazer o que a gente chama de conexão MCP com o Cloud Code, por exemplo,
+
+89
+00:04:26,796 --> 00:04:33,176
+e consegue colocar o Cloud para usar essas ferramentas, para que essas ferramentas criem.
+
+90
+00:04:33,596 --> 00:04:36,976
+Aí vai trabalhando, você vai descrevendo como você cria a música,
+
+91
+00:04:37,016 --> 00:04:41,556
+e a música vai surgindo na sua frente, separada por faixa ali, usando as suas bibliotecas.
+
+92
+00:04:41,596 --> 00:04:44,036
+Isso aqui é lindo de ver, tá?
+
+93
+00:04:44,036 --> 00:04:45,596
+tá? Aqui a gente não vai
+
+94
+00:04:45,596 --> 00:04:47,496
+entrar nesse nível
+
+95
+00:04:47,496 --> 00:04:49,096
+mais avançado agora, né?
+
+96
+00:04:49,736 --> 00:04:50,396
+Até porque
+
+97
+00:04:51,276 --> 00:04:53,956
+isso cabe em outras trilhas, em outros cursos,
+
+98
+00:04:54,676 --> 00:04:55,676
+mas eu quero
+
+99
+00:04:55,676 --> 00:04:56,776
+te apresentar esse universo.
+
+100
+00:04:57,376 --> 00:04:59,556
+E aí, um parênteses aqui pra você que está
+
+101
+00:04:59,556 --> 00:05:01,336
+assistindo isso gravado, no dia 11
+
+102
+00:05:01,336 --> 00:05:03,096
+e 12 de abril,
+
+103
+00:05:03,136 --> 00:05:05,616
+a gente vai ter o Atlas. E no Atlas eu vou mostrar
+
+104
+00:05:05,616 --> 00:05:07,336
+um pouquinho mais, com
+
+105
+00:05:07,336 --> 00:05:09,416
+profundidade, o que é MCP, como que você
+
+106
+00:05:09,416 --> 00:05:11,116
+conecta Cloud em outros programas.
+
+107
+00:05:11,156 --> 00:05:13,016
+Não só conectar Cloud em uma DAO,
+
+108
+00:05:13,016 --> 00:05:15,096
+mas conseguir conectar o Cloud também
+
+109
+00:05:15,556 --> 00:05:15,996
+em
+
+110
+00:05:17,476 --> 00:05:19,116
+outros programas, como conectar ele no
+
+111
+00:05:19,116 --> 00:05:21,336
+Figma, pra ele criar os componentes visuais
+
+112
+00:05:21,336 --> 00:05:23,356
+pra você, conectar ele no seu navegador
+
+113
+00:05:23,356 --> 00:05:25,216
+pra ele navegar pra você e muito mais
+
+114
+00:05:25,216 --> 00:05:27,436
+direto no seu computador, eu vou te mostrar
+
+115
+00:05:27,436 --> 00:05:29,296
+como criar seus próprios agentes, como orquestrar
+
+116
+00:05:29,296 --> 00:05:31,196
+esses agentes, e aí pra isso
+
+117
+00:05:31,196 --> 00:05:33,216
+cara, minha recomendação pra você é
+
+118
+00:05:33,216 --> 00:05:35,296
+se você ainda não comprou seu ingresso pro
+
+119
+00:05:35,296 --> 00:05:37,296
+Atlas, eu vou pedir pra equipe, pra galera
+
+120
+00:05:37,296 --> 00:05:39,016
+que já tá acompanhando aqui ao vivo
+
+121
+00:05:39,016 --> 00:05:41,216
+manda o link aqui no chat
+
+122
+00:05:41,216 --> 00:05:43,116
+chat ao vivo, pra vocês que
+
+123
+00:05:43,116 --> 00:05:44,896
+não compraram, comprarem o ingresso pro Atlas,
+
+124
+00:05:44,996 --> 00:05:47,096
+porque, cara, é maravilhoso, tá?
+
+125
+00:05:47,236 --> 00:05:49,456
+Vocês vão gostar, é mais profundo,
+
+126
+00:05:49,456 --> 00:05:51,276
+lá é avançado, por isso que tem ingresso,
+
+127
+00:05:51,316 --> 00:05:53,296
+por isso que é pago, mas são dois dias inteiros
+
+128
+00:05:53,776 --> 00:05:55,316
+criando um estúdio de criação
+
+129
+00:05:55,316 --> 00:05:57,116
+com o IA, usando, criando
+
+130
+00:05:57,116 --> 00:05:58,716
+seus próprios agentes e orquestrando eles.
+
+131
+00:05:59,056 --> 00:06:00,796
+Bizarro, vocês vão adorar, tá?
+
+132
+00:06:03,068 --> 00:06:05,128
+Vou até aproveitar que eu fiz essa pausa para beber uma água aqui.
+
+133
+00:06:08,700 --> 00:06:12,320
+E aí, voltando aqui, então, para o nosso curso, né?
+
+134
+00:06:12,660 --> 00:06:15,160
+Então, existem várias bibliotecas,
+
+135
+00:06:15,160 --> 00:06:18,180
+esse site é uma que eu gosto muito, indico para vocês,
+
+136
+00:06:18,320 --> 00:06:19,320
+é muito profissional.
+
+137
+00:06:19,420 --> 00:06:25,120
+É claro que o precinho aqui, pagar 500 euros para ter acesso,
+
+138
+00:06:25,140 --> 00:06:27,540
+é porque vocês estão vendo que realmente eu trouxe aqui...
+
+139
+00:06:29,244 --> 00:06:35,644
+O creme de la creme, o ouro, a pepita de ouro mágica, a maçã dourada do...
+
+140
+00:06:36,204 --> 00:06:37,484
+Vou começar a usar esse termo, hein?
+
+141
+00:06:37,484 --> 00:06:42,064
+Já podem criar um meme aí, cria a figurinha no WhatsApp, é a maçã dourada, cara.
+
+142
+00:06:42,444 --> 00:06:49,664
+Então, a maçã dourada das bibliotecas de áudio, como essa daqui, de instrumentos.
+
+143
+00:06:49,664 --> 00:06:52,204
+E se você quiser investir alguma hora pra fazer de qualidade,
+
+144
+00:06:52,364 --> 00:06:56,244
+que até pessoas profissionais não vão conseguir perceber o que você tá criando,
+
+145
+00:06:56,264 --> 00:06:56,744
+esse é o caminho.
+
+146
+00:06:56,744 --> 00:07:01,584
+Mas voltando pra cá, né, corta esse parênteses, então, existem as DAOs.
+
+147
+00:07:01,904 --> 00:07:09,444
+A minha favorita é o Ableton, é uma das mais famosas também, existem outras, existe uma que é gratuita e baratinha que chama Audacity,
+
+148
+00:07:09,884 --> 00:07:12,484
+que a galera usa muito também, editor de áudio.
+
+149
+00:07:13,444 --> 00:07:18,944
+Mas o Ableton já tem algumas coisas com inteligência artificial também, e quando você entra no site você já vê, né,
+
+150
+00:07:18,944 --> 00:07:21,864
+mais qualidade, assim, um site com design bem feito e tal.
+
+151
+00:07:22,324 --> 00:07:24,904
+Muita gente vai falar, Juan, isso aí que você chama de design bem feito,
+
+152
+00:07:24,924 --> 00:07:27,204
+eu gosto, cara, dessa coisa desconstruída, assim, eu acho interessante.
+
+153
+00:07:28,044 --> 00:07:30,424
+Mas o Ableton é muito bom, é uma dá.
+
+154
+00:07:30,624 --> 00:07:35,084
+Você consegue, inclusive, se você digitar aqui, Ableton MCP,
+
+155
+00:07:35,144 --> 00:07:39,404
+você consegue conectar ele com o Cloud, e aí tá vendo aqui,
+
+156
+00:07:39,464 --> 00:07:41,744
+e a controla o meu Ableton Live.
+
+157
+00:07:42,184 --> 00:07:44,224
+Aí tem vídeos no YouTube mostrando isso.
+
+158
+00:07:44,304 --> 00:07:46,244
+Mas aqui é mais avançado, eu vou repetir pra você, gente.
+
+159
+00:07:46,264 --> 00:07:49,164
+Não precisa chegar nesse nível, você que é iniciante, tá começando agora,
+
+160
+00:07:49,164 --> 00:07:51,724
+Agora, pode criar suas músicas tranquilas, com muita qualidade, inclusive,
+
+161
+00:07:52,344 --> 00:07:53,124
+sem precisar de uma DAW.
+
+162
+00:07:53,204 --> 00:07:56,464
+Mas você precisa entender isso aqui, caso queira mergulhar mais, tá bom?
+
+163
+00:07:56,564 --> 00:08:01,024
+Então, ela grava, edita, cria som do zero, mixa o som, exporta a música.
+
+164
+00:08:01,084 --> 00:08:02,704
+É uma central inteira, né?
+
+165
+00:08:02,704 --> 00:08:05,964
+É o Photoshop da galera que trabalha com áudio, digamos assim.
+
+166
+00:08:06,344 --> 00:08:09,324
+E aqui a gente tem o MIDI, que é a partitura digital.
+
+167
+00:08:09,424 --> 00:08:15,464
+É um tipo de arquivo que esses programas, essas DAWs, utilizam.
+
+168
+00:08:15,584 --> 00:08:18,204
+Então, são notas desenhadas no computador que dizem a um instrumento virtual
+
+169
+00:08:18,204 --> 00:08:20,684
+qual nota tocar, quando e com qual força.
+
+170
+00:08:20,844 --> 00:08:24,144
+E é isso aqui que a IA usa também para trabalhar nas DAWs.
+
+171
+00:08:24,804 --> 00:08:28,864
+Outro elemento aqui que é importante, que é a teoria musical básica.
+
+172
+00:08:28,964 --> 00:08:33,764
+A teoria musical básica é importante, inclusive em muitos softwares,
+
+173
+00:08:33,824 --> 00:08:36,904
+se você quiser escrever um prompt, é legal você saber as notas,
+
+174
+00:08:36,904 --> 00:08:40,924
+e as notas seguem letras específicas aqui, aí você fala assim,
+
+175
+00:08:40,944 --> 00:08:45,964
+meu Deus, eu não entendo musicalização, pelo menos entender isso aqui
+
+176
+00:08:45,964 --> 00:08:47,784
+que eu tô colocando, né, que é dó, ré, mi,
+
+177
+00:08:48,484 --> 00:08:50,104
+aí você, isso aqui, a regra
+
+178
+00:08:50,104 --> 00:08:51,884
+é a seguinte, você começa no C, e depois
+
+179
+00:08:51,884 --> 00:08:53,764
+você só segue, ó, C, D, E, F,
+
+180
+00:08:53,924 --> 00:08:55,964
+G, aí tem o A,
+
+181
+00:08:56,044 --> 00:08:57,584
+né, também, não tem o H,
+
+182
+00:08:58,104 --> 00:08:59,924
+que é o Lá. Então a gente tem
+
+183
+00:08:59,924 --> 00:09:01,944
+aqui dó, ré, mi,
+
+184
+00:09:02,764 --> 00:09:03,404
+fá, sol,
+
+185
+00:09:03,984 --> 00:09:05,784
+Lá, e faltou o B, que é o
+
+186
+00:09:05,784 --> 00:09:07,104
+Si. Então,
+
+187
+00:09:07,744 --> 00:09:09,784
+na música, né, isso aqui tem toda a história da
+
+188
+00:09:09,784 --> 00:09:11,744
+música lá, mas a música começou aqui
+
+189
+00:09:12,824 --> 00:09:13,864
+no Lá, né,
+
+190
+00:09:13,904 --> 00:09:15,744
+as escalas, e por isso que começou
+
+191
+00:09:15,744 --> 00:09:19,604
+só ali o A sendo a primeira, mas depois inverteram, tá?
+
+192
+00:09:19,664 --> 00:09:21,264
+Então, basicamente isso aqui, ó, Dó.
+
+193
+00:09:22,876 --> 00:09:24,976
+Eu vou deixar sem acento, porque senão eu tenho que trocar o teclado.
+
+194
+00:09:25,976 --> 00:09:26,576
+Ré, Mi.
+
+195
+00:09:28,572 --> 00:09:31,992
+Fá, Sol, Lá, Si.
+
+196
+00:09:33,052 --> 00:09:36,272
+Eventualmente você vai ver essas notas aqui aparecendo de outros jeitos.
+
+197
+00:09:36,352 --> 00:09:39,432
+Por exemplo, você pode ver o Dó com essa hashtagzinha.
+
+198
+00:09:39,672 --> 00:09:42,032
+Que no caso, na música, a gente não chama isso aqui de hashtag.
+
+199
+00:09:42,372 --> 00:09:43,412
+A gente chama isso aqui de sustenido.
+
+200
+00:09:43,832 --> 00:09:49,312
+Todas as notas podem ter um sustenido, que é um meio tom que você sobe dessa...
+
+201
+00:09:49,312 --> 00:09:50,312
+Na verdade não são todas, né?
+
+202
+00:09:50,412 --> 00:09:51,032
+Já ia colocar aqui.
+
+203
+00:09:51,552 --> 00:09:52,832
+Mi não tem sustenido.
+
+204
+00:09:53,232 --> 00:09:55,132
+Aí Fá tem sustenido.
+
+205
+00:09:57,628 --> 00:09:58,728
+Solta em sustenido.
+
+206
+00:10:01,340 --> 00:10:02,240
+Lá tem sustenido.
+
+207
+00:10:03,140 --> 00:10:04,380
+E o Si não tem sustenido.
+
+208
+00:10:04,940 --> 00:10:08,240
+E aí isso aqui forma aquelas notinhas no teclado,
+
+209
+00:10:08,240 --> 00:10:10,380
+que você tem as branquinhas e tem as pretinhas, não é?
+
+210
+00:10:11,300 --> 00:10:15,740
+As branquinhas são as notas que a gente chama de notas maiores, né?
+
+211
+00:10:16,220 --> 00:10:18,080
+Então tem aqui Dó, Ré, Mi, Fá, Sol, Lá, Si.
+
+212
+00:10:18,200 --> 00:10:19,620
+Você toca no teclado.
+
+213
+00:10:22,800 --> 00:10:24,580
+Tocou Dó, Ré, Mi, Fá, Sol, Lá, Si.
+
+214
+00:10:25,120 --> 00:10:26,340
+Aí você toca Dó de novo.
+
+215
+00:10:26,540 --> 00:10:30,900
+E você tem o meio tom, que pode ser um sustenido,
+
+216
+00:10:30,900 --> 00:10:32,800
+que é quando você tá indo pra frente
+
+217
+00:10:32,800 --> 00:10:34,580
+então você tá subindo a escala
+
+218
+00:10:34,580 --> 00:10:37,340
+a oitava dela, não sei o que é escala, não sei o que é oitava
+
+219
+00:10:37,340 --> 00:10:38,720
+depois se você quiser
+
+220
+00:10:38,720 --> 00:10:40,900
+mergulhar nisso, você pode, isso aqui vai
+
+221
+00:10:40,900 --> 00:10:42,880
+sim te ajudar na hora de escrever o prompt, ajuda
+
+222
+00:10:42,880 --> 00:10:45,260
+bastante, tá? Mas por exemplo, tô subindo
+
+223
+00:10:45,260 --> 00:10:46,640
+o tom, aí a gente usa sustenido
+
+224
+00:10:46,640 --> 00:10:49,320
+você tá subindo a escala, quando você tá descendo a escala
+
+225
+00:10:49,820 --> 00:10:51,280
+que aí você tá indo pras oitavas
+
+226
+00:10:51,280 --> 00:10:53,040
+que eu vou usar um termo aqui
+
+227
+00:10:53,040 --> 00:10:55,160
+que quem já entende de musicalização
+
+228
+00:10:55,160 --> 00:10:57,300
+vai arrancar
+
+229
+00:10:57,300 --> 00:10:58,880
+o cabelo, mas pra quem tá começando agora
+
+230
+00:10:58,880 --> 00:11:01,600
+agora são termos que a galera entende mais fácil.
+
+231
+00:11:01,720 --> 00:11:04,580
+Então, você não tem o som fininho e o som grosso?
+
+232
+00:11:04,620 --> 00:11:07,140
+O som fininho e o som grosso.
+
+233
+00:11:08,240 --> 00:11:12,980
+Então, quando você vai subindo a escala, notas altas, vai ficando mais fininho, fininho, fininho.
+
+234
+00:11:13,240 --> 00:11:15,700
+Quando você vai descendo a escala, notas mais grossas,
+
+235
+00:11:15,700 --> 00:11:18,460
+aí você está descendo a escala também.
+
+236
+00:11:19,060 --> 00:11:22,400
+Dependendo do seu movimento, nesses tons e meios tons aqui,
+
+237
+00:11:22,560 --> 00:11:26,120
+você tem o sustenido ou você tem o Bzinho, que é o bemol.
+
+238
+00:11:26,120 --> 00:11:28,200
+tá, então você pode ver essas notas
+
+239
+00:11:28,200 --> 00:11:29,520
+aparecerem assim também
+
+240
+00:11:29,520 --> 00:11:32,500
+isso aqui eu nem tô entrando ainda na partitura
+
+241
+00:11:32,500 --> 00:11:34,460
+não precisa entrar na partitura
+
+242
+00:11:34,460 --> 00:11:36,120
+mas é legal eu te mostrar que existe
+
+243
+00:11:36,120 --> 00:11:38,260
+esse universo, dentro disso aqui tem as pausas
+
+244
+00:11:38,260 --> 00:11:40,120
+tem muita coisa legal, pra quem adora
+
+245
+00:11:40,120 --> 00:11:42,000
+música, vai gostar de estudar isso, eu gosto
+
+246
+00:11:42,000 --> 00:11:44,300
+de estudar essas coisas, talvez vocês não gostem
+
+247
+00:11:44,300 --> 00:11:46,320
+também, mesmo que eu não seja músico, nem produtor musical
+
+248
+00:11:46,320 --> 00:11:48,260
+eu acho divertido, eu aprendo muito
+
+249
+00:11:48,260 --> 00:11:49,840
+e esse repertório
+
+250
+00:11:49,840 --> 00:11:51,860
+me ajuda a usar a IA melhor
+
+251
+00:11:51,860 --> 00:11:52,100
+Melhor.
+
+252
+00:11:53,404 --> 00:11:57,264
+E também pode ser que vocês vão encontrar essas notas aqui,
+
+253
+00:11:57,364 --> 00:11:58,804
+e na verdade não aparece assim, né?
+
+254
+00:11:58,844 --> 00:12:00,144
+Dó sustenido, aparece assim, ó.
+
+255
+00:12:01,344 --> 00:12:06,484
+C, C, B, aí tem um C com um Mzinho, né?
+
+256
+00:12:06,504 --> 00:12:10,544
+E isso vai surgindo aqui, às vezes se você está numa cifra,
+
+257
+00:12:10,544 --> 00:12:11,804
+ou se você está numa partitura,
+
+258
+00:12:11,824 --> 00:12:16,284
+e você consegue usar isso aqui para direcionar IA também, tá?
+
+259
+00:12:16,364 --> 00:12:17,504
+Então ajuda bastante.
+
+260
+00:12:17,844 --> 00:12:19,244
+Notas também ajudam bastante.
+
+261
+00:12:19,704 --> 00:12:22,644
+Quem gosta de, quem sabe escrever partitura, por exemplo,
+
+262
+00:12:23,404 --> 00:12:26,224
+vai conseguir conversar com a IA pela partitura,
+
+263
+00:12:26,224 --> 00:12:29,824
+porque a partitura consegue definir pausas também ali,
+
+264
+00:12:29,924 --> 00:12:31,444
+o ritmo, a melodia.
+
+265
+00:12:31,484 --> 00:12:33,764
+E quando você vai tocar, por exemplo, com uma cifra,
+
+266
+00:12:33,764 --> 00:12:36,144
+só para vocês entenderem a diferença, olha, cifra musical.
+
+267
+00:12:37,756 --> 00:12:42,656
+Isso aqui, cifra quem usa, são pessoas que tocam mais casual, igual eu ali.
+
+268
+00:12:43,156 --> 00:12:47,136
+Às vezes não se aprofundou tanto em musicalização pra ir pra...
+
+269
+00:12:48,828 --> 00:12:50,948
+pra partitura.
+
+270
+00:12:51,028 --> 00:12:52,948
+Então a cifra, ela tenta te mostrar
+
+271
+00:12:52,948 --> 00:12:54,308
+do jeito mais visual possível
+
+272
+00:12:54,888 --> 00:12:56,788
+qual que é a posição dos dedos ali
+
+273
+00:12:56,788 --> 00:12:58,568
+num violão, por exemplo.
+
+274
+00:12:59,868 --> 00:13:04,008
+Ou quando você tem cantando uma música ali, fica a notinha em cima da letra, né?
+
+275
+00:13:04,048 --> 00:13:05,648
+Então isso é uma cifra.
+
+276
+00:13:06,428 --> 00:13:11,208
+Tem cifra lírica, que aí, aqui ó, enquanto você vai cantando, tá vendo?
+
+277
+00:13:11,368 --> 00:13:14,128
+Vai, vai, fica a nota.
+
+278
+00:13:15,208 --> 00:13:18,588
+Aqui ó, deixa eu dar um, deixa eu ver se eu consigo um...
+
+279
+00:13:20,572 --> 00:13:22,212
+mostrar pra vocês aqui, ó. Nossa.
+
+280
+00:13:22,412 --> 00:13:24,712
+É, vai dar pra ver pelo menos. Tem a letra
+
+281
+00:13:24,712 --> 00:13:26,352
+e em cima tem a nota.
+
+282
+00:13:26,952 --> 00:13:28,592
+Isso aqui é uma cifra também,
+
+283
+00:13:28,652 --> 00:13:30,492
+é uma cifra lírica. E aí você pode
+
+284
+00:13:30,492 --> 00:13:32,452
+usar, é um jeito mais fácil de tocar,
+
+285
+00:13:32,592 --> 00:13:34,672
+mais rápido ali. Só que se vocês observarem,
+
+286
+00:13:34,672 --> 00:13:36,432
+não tem informação de ritmo, não tem informação
+
+287
+00:13:36,432 --> 00:13:38,872
+de pausa. Quando a gente vem pra partitura,
+
+288
+00:13:38,872 --> 00:13:39,492
+que aí é o que
+
+289
+00:13:40,272 --> 00:13:41,632
+já assusta um pouco mais,
+
+290
+00:13:42,172 --> 00:13:43,672
+é uma outra língua.
+
+291
+00:13:45,020 --> 00:13:47,620
+Você tem aqui, além de ter a nota,
+
+292
+00:13:47,800 --> 00:13:51,560
+a nota é representada pela posição onde esse pontinho está aqui,
+
+293
+00:13:51,660 --> 00:13:56,660
+você tem também o ritmo dela, as pausas.
+
+294
+00:13:56,660 --> 00:13:59,340
+Então você escreve a música inteira no papel.
+
+295
+00:13:59,640 --> 00:14:02,540
+E já tem algumas IAs que conseguem ler partitura também
+
+296
+00:14:02,540 --> 00:14:04,140
+e conversar com você em partitura.
+
+297
+00:14:04,140 --> 00:14:05,600
+Então é muito legal isso.
+
+298
+00:14:05,660 --> 00:14:07,680
+Você consegue escrever uma partitura e pedir para a IA
+
+299
+00:14:08,200 --> 00:14:09,660
+fazer a música para você,
+
+300
+00:14:09,720 --> 00:14:11,540
+seguindo exatamente suas pausas e por aí vai.
+
+301
+00:14:11,720 --> 00:14:13,060
+Só que aí você fala,
+
+302
+00:14:13,060 --> 00:14:15,260
+fala, Juan, mas eu não sei isso aí, vai demorar para aprender,
+
+303
+00:14:15,340 --> 00:14:16,120
+eu não tenho esse repertório.
+
+304
+00:14:16,220 --> 00:14:17,700
+Tem outros jeitos de eu explicar para ele?
+
+305
+00:14:17,760 --> 00:14:21,400
+Tem, tem outros jeitos, e vocês vão ver isso acontecendo aqui, tá bom?
+
+306
+00:14:21,500 --> 00:14:23,720
+Mas é legal vocês saberem que existe todo esse universo
+
+307
+00:14:23,720 --> 00:14:26,180
+e que ele ajuda sim, quem tem esse repertório,
+
+308
+00:14:26,260 --> 00:14:31,900
+vai conseguir sim conduzir melhor a inteligência artificial, tá bom?
+
+309
+00:14:32,000 --> 00:14:33,900
+Então fica essa explicação aí para vocês,
+
+310
+00:14:34,180 --> 00:14:38,020
+uma explicação mínima, pelo menos isso aqui é legal vocês saberem que existe.
+
+311
+00:14:38,360 --> 00:14:40,080
+Quando a gente vem aqui para um piano,
+
+312
+00:14:40,300 --> 00:14:42,040
+olha, se eu pego aqui um piano online,
+
+313
+00:14:43,060 --> 00:14:44,060
+Só para mostrar para vocês.
+
+314
+00:14:45,692 --> 00:14:46,532
+Estou com o piano online.
+
+315
+00:14:46,692 --> 00:14:47,852
+Está vendo que já está aqui o Dó.
+
+316
+00:14:48,052 --> 00:14:51,572
+Aí ele está mostrando que isso aqui é um Dó sustenido ou um Ré bemol.
+
+317
+00:14:51,632 --> 00:14:52,532
+Está um Bzinho aqui.
+
+318
+00:14:52,612 --> 00:14:53,712
+Deixa eu aumentar aqui para ver.
+
+319
+00:14:53,852 --> 00:14:53,992
+Aqui.
+
+320
+00:14:54,472 --> 00:14:54,952
+Está vendo?
+
+321
+00:14:55,012 --> 00:14:56,152
+Ré, B ou Dó.
+
+322
+00:14:56,552 --> 00:14:56,872
+Hashtag.
+
+323
+00:14:57,292 --> 00:15:01,852
+É o Dó sustenido porque se eu estou subindo a escala, é sustenido.
+
+324
+00:15:01,952 --> 00:15:04,472
+Se eu estou descendo a escala, então é o movimento contrário.
+
+325
+00:15:04,472 --> 00:15:05,092
+É o Ré bemol.
+
+326
+00:15:05,132 --> 00:15:07,672
+Ou seja, Dó sustenido e Ré bemol são a mesma nota.
+
+327
+00:15:08,052 --> 00:15:10,192
+Depende só do movimento que você está fazendo.
+
+328
+00:15:10,472 --> 00:15:11,132
+E aí você tem aqui.
+
+329
+00:15:12,312 --> 00:15:12,952
+Dó, Ré.
+
+330
+00:15:14,940 --> 00:15:15,200
+Sol.
+
+331
+00:15:18,876 --> 00:15:22,676
+Essa nota é a mesma dessa, só que uma escala acima.
+
+332
+00:15:23,476 --> 00:15:26,096
+Curiosamente, eu lembrei que agora me veio uma memória muito boa.
+
+333
+00:15:26,516 --> 00:15:30,916
+Quando eu tinha 15 anos, eu ganhava um trocadinho dando aula de música.
+
+334
+00:15:31,576 --> 00:15:33,976
+Eu dei aula de música, inclusive, pra um professor meu.
+
+335
+00:15:34,356 --> 00:15:39,776
+Mesmo que... Eu adoro falar isso pra vocês porque eu sou um nexalista e eu sou um autodidata.
+
+336
+00:15:40,076 --> 00:15:42,696
+Então eu não falo que eu sou especialista em música, porque eu não sou.
+
+337
+00:15:42,756 --> 00:15:45,756
+Eu sou produtor musical e nada disso, mas eu sou muito curioso.
+
+338
+00:15:46,316 --> 00:15:46,676
+e
+
+339
+00:15:47,896 --> 00:15:50,176
+eu falo isso porque se eu posso, vocês podem também
+
+340
+00:15:50,176 --> 00:15:52,356
+mas quando eu tinha 15 anos ali, eu dei aula de música
+
+341
+00:15:52,356 --> 00:15:54,116
+inclusive pro meu professor de filosofia
+
+342
+00:15:54,116 --> 00:15:56,416
+e aí eu tinha uma figurinha que eu gostava
+
+343
+00:15:56,416 --> 00:15:57,936
+de usar, que era o Tom Tom Semi Tom
+
+344
+00:15:57,936 --> 00:16:00,196
+e eu colocava o tom do Tom Jerry
+
+345
+00:16:01,316 --> 00:16:02,296
+assim ó, pra ele
+
+346
+00:16:03,548 --> 00:16:05,628
+Eu fazia essa piadinha com ele aqui.
+
+347
+00:16:06,208 --> 00:16:09,488
+Quando você vai aprender musicalização, você usa o tom, tom, semitom,
+
+348
+00:16:09,528 --> 00:16:12,248
+tom, tom, tom, semitom, pra escala maior, que é a principal.
+
+349
+00:16:12,448 --> 00:16:14,888
+Eu sei que pra algumas pessoas eu tô falando grego aqui agora,
+
+350
+00:16:15,168 --> 00:16:17,328
+mas é muito divertido, cara, muito divertido.
+
+351
+00:16:17,848 --> 00:16:18,848
+Aí eu lembrei aqui.
+
+352
+00:16:19,048 --> 00:16:21,268
+Então, olha, os acordes não.
+
+353
+00:16:21,348 --> 00:16:24,448
+As notas aqui limpas, vamos colocar assim,
+
+354
+00:16:24,628 --> 00:16:25,988
+são essas branquinhas aqui,
+
+355
+00:16:26,108 --> 00:16:29,008
+e essas notas pretinhas aqui são os meios tons.
+
+356
+00:16:29,328 --> 00:16:31,548
+Então você tem dó, dó sustenido.
+
+357
+00:16:32,764 --> 00:16:33,864
+Ré sustenido. Mi.
+
+358
+00:16:34,024 --> 00:16:36,404
+Aí Mi não tem sustenido. Você pula pra Fá.
+
+359
+00:16:36,464 --> 00:16:38,644
+Fá sustenido. Sol. Sol sustenido.
+
+360
+00:16:38,664 --> 00:16:39,864
+Lá. Lá sustenido. Si.
+
+361
+00:16:40,164 --> 00:16:40,884
+Aí vem...
+
+362
+00:16:53,852 --> 00:16:55,532
+Eu toquei essa daqui porque é a mais fácil.
+
+363
+00:16:55,692 --> 00:16:57,752
+Tá na cabeça de todo mundo esse toquinho.
+
+364
+00:16:57,912 --> 00:17:00,012
+Se um dia você quiser aprender, começa com ela.
+
+365
+00:17:00,092 --> 00:17:00,852
+Fala, olha que interessante.
+
+366
+00:17:01,292 --> 00:17:03,512
+Sempre antes das duas pretinhas, vem o Dó.
+
+367
+00:17:03,532 --> 00:17:04,432
+Sempre. Pronto.
+
+368
+00:17:04,472 --> 00:17:05,172
+Então tem Dó.
+
+369
+00:17:07,484 --> 00:17:11,604
+Junto com isso aqui, só para trazer um outro ponto importante para vocês aqui de definição,
+
+370
+00:17:12,204 --> 00:17:13,844
+nós temos a nota e nós temos o acorde.
+
+371
+00:17:13,904 --> 00:17:15,604
+O acorde acontece quando você toca...
+
+372
+00:17:15,604 --> 00:17:16,504
+Deixa eu ver se eu consigo...
+
+373
+00:17:17,584 --> 00:17:20,124
+Deixa eu achar as notas aqui no teclado.
+
+374
+00:17:23,164 --> 00:17:25,824
+Eu tenho que achar aqui qual nota que é nesse site.
+
+375
+00:17:32,348 --> 00:17:34,108
+bem ruim aqui. Deixa eu ver
+
+376
+00:17:34,108 --> 00:17:36,108
+uma outra aqui. Piano online
+
+377
+00:17:36,948 --> 00:17:37,308
+numérico.
+
+378
+00:17:39,036 --> 00:17:41,156
+Só para mostrar isso para vocês de um jeito fácil aqui.
+
+379
+00:17:42,684 --> 00:17:44,044
+Aqui, ó, aqui tá mais fácil de eu visualizar.
+
+380
+00:17:44,324 --> 00:17:45,864
+Então, por exemplo, eu tenho a nota dó.
+
+381
+00:17:47,740 --> 00:17:50,960
+Aquela tá numa... vou abaixar aqui a oitava.
+
+382
+00:17:52,892 --> 00:17:53,412
+Essa não foi.
+
+383
+00:17:54,620 --> 00:17:55,380
+Nossa, que tá demais.
+
+384
+00:17:55,520 --> 00:17:55,900
+Vai, três.
+
+385
+00:17:57,756 --> 00:17:59,196
+Então olha que interessante, isso aqui é uma nota.
+
+386
+00:18:00,276 --> 00:18:02,676
+Agora, eu posso fazer um acorde de Dó maior também,
+
+387
+00:18:03,096 --> 00:18:05,676
+que aí tem uma tecninha aqui que você pode usar.
+
+388
+00:18:06,596 --> 00:18:09,256
+Mas o acorde é um conjunto de notas.
+
+389
+00:18:09,616 --> 00:18:11,076
+Então você tem aqui a nota.
+
+390
+00:18:14,044 --> 00:18:15,384
+Isso aqui, gente, é de arpejo, né?
+
+391
+00:18:16,668 --> 00:18:21,888
+Eu toco uma de cada vez, ou se eu toco todas juntas, eu toquei um acorde, beleza?
+
+392
+00:18:22,348 --> 00:18:24,428
+E por que é importante saber o acorde também?
+
+393
+00:18:24,468 --> 00:18:31,568
+Vocês vão ver o termo chords, e aí são acordes inteiros, você vai ver esse termo também,
+
+394
+00:18:31,668 --> 00:18:34,128
+é quando você toca várias notas juntas.
+
+395
+00:18:35,324 --> 00:18:36,884
+Tá legal? Vou pegar isso também.
+
+396
+00:18:47,964 --> 00:18:52,304
+E aí, só pra fechar pra vocês uma tecnicazinha pra começar a tocar no teclado,
+
+397
+00:18:52,304 --> 00:18:54,364
+isso aqui, se vocês nunca tocaram ou tocaram a primeira vez,
+
+398
+00:18:54,544 --> 00:18:57,704
+vai parecer que vocês entendem de teclado fazendo dessa forma.
+
+399
+00:18:57,844 --> 00:19:00,184
+Mas, quando você vai tocar acordes maiores,
+
+400
+00:19:00,184 --> 00:19:05,044
+é só você pegar a primeira nota, a terceira nota e a quinta nota maior.
+
+401
+00:19:05,464 --> 00:19:07,584
+E aí você tem acordes maiores sempre.
+
+402
+00:19:07,764 --> 00:19:08,744
+Então, primeira, terceira e quinta.
+
+403
+00:19:08,824 --> 00:19:12,524
+Aqui, olha, eu tô no acorde maior de Dó.
+
+404
+00:19:12,764 --> 00:19:14,824
+Então, eu pego a primeira, terceira...
+
+405
+00:19:16,572 --> 00:19:17,392
+Acorde maior de Dó.
+
+406
+00:19:17,452 --> 00:19:20,492
+Aí você fala assim, poxa, agora eu quero um acorde maior de...
+
+407
+00:19:21,832 --> 00:19:23,092
+No caso que eu tinha uma coisa.
+
+408
+00:19:23,372 --> 00:19:24,752
+Esse teclado tá errado, pô.
+
+409
+00:19:25,272 --> 00:19:26,092
+Agora que eu vi, olha.
+
+410
+00:19:27,492 --> 00:19:28,992
+O layout dele tá errado.
+
+411
+00:19:29,612 --> 00:19:30,972
+Ele fez tudo errado aqui.
+
+412
+00:19:31,192 --> 00:19:32,872
+Deixa eu ver se eu pego um outro melhor aqui.
+
+413
+00:19:35,516 --> 00:19:36,296
+Não tinha reparado.
+
+414
+00:19:41,204 --> 00:19:43,764
+É porque ele tem que casar com o meu teclado aqui, tá?
+
+415
+00:19:44,104 --> 00:19:47,244
+Por isso que eu tinha tentado pegar um teclado numérico pra ser mais fácil.
+
+416
+00:19:49,948 --> 00:19:50,568
+Perguntei.
+
+417
+00:19:51,932 --> 00:19:52,712
+Ah, não vai dar também.
+
+418
+00:19:53,512 --> 00:19:54,352
+Ah, vou ter que...
+
+419
+00:19:55,708 --> 00:19:56,288
+Peraí que travou.
+
+420
+00:19:56,368 --> 00:19:58,048
+Eu vou ter que ir no teclado errado, né?
+
+421
+00:19:58,368 --> 00:19:58,988
+Aí, deixa eu ver.
+
+422
+00:20:00,476 --> 00:20:03,676
+Não, aqui ó, mas esse aqui eu peguei outro acorde maior.
+
+423
+00:20:04,036 --> 00:20:05,696
+Qual que é? Qual que é a primeira?
+
+424
+00:20:07,004 --> 00:20:07,784
+Esse aqui é um acorde de...
+
+425
+00:20:11,324 --> 00:20:12,384
+Na verdade, é...
+
+426
+00:20:15,516 --> 00:20:17,016
+Ah, tem um detalhe, na verdade, não é?
+
+427
+00:20:17,356 --> 00:20:19,816
+Porque eu não vou ficar ensinando isso aqui agora, não,
+
+428
+00:20:19,856 --> 00:20:22,556
+porque eu teria que explicar pra vocês.
+
+429
+00:20:23,056 --> 00:20:24,856
+Mas pra fazer a primeira, a terceira e a quinta,
+
+430
+00:20:24,856 --> 00:20:26,236
+tem que ser tons inteiros.
+
+431
+00:20:26,356 --> 00:20:27,516
+A de dó é a...
+
+432
+00:20:29,020 --> 00:20:31,020
+não vai dar pra mostrar não, porque esse aqui eu tô tocando
+
+433
+00:20:31,960 --> 00:20:33,460
+no teclado as letras
+
+434
+00:20:33,460 --> 00:20:34,040
+e ele tá fazendo errado.
+
+435
+00:20:35,292 --> 00:20:37,852
+Vou pegar aqui. Vai ter que ser esse, mas ele está errado.
+
+436
+00:20:37,992 --> 00:20:39,612
+Esse teclado está todo errado aqui.
+
+437
+00:20:42,652 --> 00:20:42,992
+Ou não?
+
+438
+00:20:44,284 --> 00:20:45,204
+Talvez é o...
+
+439
+00:20:49,340 --> 00:20:52,300
+É, não tá errado não. Ele só começa na outra nota.
+
+440
+00:20:53,628 --> 00:20:56,668
+Esse aqui é um acorde maior de Dó.
+
+441
+00:20:58,044 --> 00:21:00,384
+Porque o dó vem sempre antes das duas pretinhas, beleza?
+
+442
+00:21:06,044 --> 00:21:07,344
+Aí esse aqui engana, por quê?
+
+443
+00:21:08,732 --> 00:21:10,352
+Isso não é um acorde de Dó maior.
+
+444
+00:21:12,892 --> 00:21:13,292
+Esse é.
+
+445
+00:21:14,588 --> 00:21:15,888
+Primeira, terça, quinta.
+
+446
+00:21:16,088 --> 00:21:17,388
+Esse aqui é um de Fá.
+
+447
+00:21:20,156 --> 00:21:22,436
+Que a primeira está aqui. Primeira, terceira e quinta.
+
+448
+00:21:24,348 --> 00:21:26,728
+Enfim, depois vocês podem estudar mais sobre isso também.
+
+449
+00:21:27,408 --> 00:21:29,008
+Pode ser que eu tenha ensinado errado também,
+
+450
+00:21:29,088 --> 00:21:31,288
+tem muito tempo, inclusive, que eu nem toco, né?
+
+451
+00:21:31,288 --> 00:21:32,828
+Por isso que vocês estão vendo que eu estou me divertindo aqui,
+
+452
+00:21:32,888 --> 00:21:34,288
+querendo tocar alguma coisa aqui.
+
+453
+00:21:36,288 --> 00:21:37,548
+Mas, cara, é muito bom.
+
+454
+00:21:37,668 --> 00:21:39,408
+Isso vai te dar repertório, vai ajudar, enfim.
+
+455
+00:21:40,068 --> 00:21:42,668
+Como alguém que não é especialista na área,
+
+456
+00:21:42,748 --> 00:21:45,628
+eu posso te falar que, pelo menos, ter aprendido um pouco sobre isso
+
+457
+00:21:45,628 --> 00:21:49,288
+me ajuda a criar minhas músicas, a orientar tudo aqui certinho, tá bom?
+
+458
+00:21:49,708 --> 00:21:51,788
+Dito isso, dentro da teoria musical básica,
+
+459
+00:21:51,788 --> 00:21:54,628
+que a gente tem, isso aqui você precisa pelo menos ter um pouco de noção,
+
+460
+00:21:54,728 --> 00:21:58,628
+a gente tem ritmo, batida por minuto, melodia, harmonia e escala.
+
+461
+00:21:59,248 --> 00:22:02,068
+Essas três coisas aqui, você não precisa saber partitura,
+
+462
+00:22:02,088 --> 00:22:06,488
+você não precisa saber cifra para poder utilizar isso aqui.
+
+463
+00:22:06,568 --> 00:22:11,068
+Tudo que você precisa saber, na verdade, é o que são essas coisas,
+
+464
+00:22:11,208 --> 00:22:11,848
+o que são esses elementos.
+
+465
+00:22:12,328 --> 00:22:16,788
+Então, a batida por minuto, o BPM, define a velocidade da música.
+
+466
+00:22:16,888 --> 00:22:20,128
+Então, você quer uma música mais rápida, você pode aumentar o BPM,
+
+467
+00:22:20,128 --> 00:22:23,588
+que é uma música mais lenta, você pode diminuir o BPM, a batida por minuto.
+
+468
+00:22:23,668 --> 00:22:25,788
+Isso te ajuda a direcionar a IA também.
+
+469
+00:22:26,308 --> 00:22:28,628
+Simplesmente, se você coloca ali, tem uma diferença grande.
+
+470
+00:22:28,668 --> 00:22:33,708
+Se você tem 80 BPMs, ou se você tem 160 BPMs, você tem músicas completamente diferentes.
+
+471
+00:22:34,088 --> 00:22:38,868
+Você pode até fazer um teste, olha, eu vou usar o sono aqui pra gente começar a fazer alguma coisa.
+
+472
+00:22:39,428 --> 00:22:41,488
+Eu vou colocar aqui, por exemplo...
+
+473
+00:22:46,588 --> 00:22:49,468
+Strings, 60 BPM.
+
+474
+00:22:50,812 --> 00:22:51,852
+Só para vocês verem aqui.
+
+475
+00:22:52,332 --> 00:22:53,432
+Vou pedir para gerar.
+
+476
+00:22:54,492 --> 00:22:55,212
+Ele está...
+
+477
+00:22:56,764 --> 00:22:58,844
+Deixa eu ver se ele tá criando. Acho que ele tá, vai criar duas vezes.
+
+478
+00:22:59,064 --> 00:23:00,864
+Aí ó, começou a criar e eu vou
+
+479
+00:23:00,864 --> 00:23:02,644
+colocar aqui 180 BPM também.
+
+480
+00:23:05,436 --> 00:23:08,636
+Deixa eu tirar o zoom para vocês verem, ele está criando as músicas aqui.
+
+481
+00:23:08,776 --> 00:23:11,216
+Eu só coloquei aqui no prompt rapidinho para a gente ver.
+
+482
+00:23:11,716 --> 00:23:13,196
+Vamos ver o que ele vai trazer para a gente.
+
+483
+00:23:13,316 --> 00:23:16,376
+Ele escolheu aqui um Midnight Runway, esses nomes ele que deu mesmo.
+
+484
+00:23:16,556 --> 00:23:18,676
+Já começou a gerar as músicas para a gente aqui.
+
+485
+00:23:18,976 --> 00:23:21,256
+Ele fez duas vezes, então tem que esperar.
+
+486
+00:23:22,136 --> 00:23:25,756
+Mas eu quero que vocês vejam como vão ser ritmos diferentes já.
+
+487
+00:23:25,876 --> 00:23:28,776
+Vão ser velocidades diferentes, ritmo é outra parte.
+
+488
+00:23:30,204 --> 00:23:30,644
+Vamos ver aqui.
+
+489
+00:23:33,884 --> 00:23:34,764
+Espera aí que não começou ainda.
+
+490
+00:23:52,508 --> 00:23:53,008
+Fazer cuenta não.
+
+491
+00:24:03,100 --> 00:24:04,940
+Ele tá falando que tá tocando, mas não tá tocando não, tá?
+
+492
+00:24:05,820 --> 00:24:06,440
+Vamos esperar.
+
+493
+00:24:06,840 --> 00:24:07,620
+Tá gerando ainda.
+
+494
+00:24:09,276 --> 00:24:09,696
+Música
+
+495
+00:24:13,980 --> 00:24:16,980
+Ele pegou os strings e eu estava criando as cordas e ele me trouxe naquela outra linha.
+
+496
+00:24:19,900 --> 00:24:22,800
+Esse é lento, 60 batidas por minuto.
+
+497
+00:24:29,244 --> 00:24:32,644
+Só explicando para ele que eu queria mais lento, o de 60 está escrito aqui do lado.
+
+498
+00:24:32,884 --> 00:24:34,444
+E a gente tem também...
+
+499
+00:24:35,708 --> 00:24:37,128
+Deixa eu ver o de 180.
+
+500
+00:24:39,932 --> 00:24:40,892
+Vou tentar pegar a outra aqui.
+
+501
+00:24:46,716 --> 00:24:47,296
+Tá bom, tá bom.
+
+502
+00:24:50,332 --> 00:24:50,472
+Fala.
+
+503
+00:24:54,676 --> 00:24:55,956
+Aí ele já trouxe outra.
+
+504
+00:24:56,436 --> 00:24:59,696
+Então, esse é outro elemento importante que a gente precisa levar em consideração.
+
+505
+00:24:59,756 --> 00:25:00,716
+São batidas por minuto.
+
+506
+00:25:00,896 --> 00:25:02,056
+E o que é o ritmo?
+
+507
+00:25:02,096 --> 00:25:05,456
+O ritmo é o que a gente chama também de compasso.
+
+508
+00:25:05,476 --> 00:25:09,096
+E tem um jeito muito legal de entender ritmo que é usando o metrônomo.
+
+509
+00:25:09,196 --> 00:25:12,016
+Quando você vai aprender musicalização, você usa um metrônomo
+
+510
+00:25:12,516 --> 00:25:20,116
+pra poder entender como você pode construir ritmos diferentes dentro de um metrônomo.
+
+511
+00:25:20,116 --> 00:25:26,956
+O metrônomo é um instrumento que vai sempre marcar para você as batidas por minuto, os BPMs.
+
+512
+00:25:27,016 --> 00:25:32,536
+E aí dentro das batidas por minuto, você consegue criar ritmos.
+
+513
+00:25:32,696 --> 00:25:35,496
+Então vamos dar uma olhada aqui, 100 batidas por minuto.
+
+514
+00:25:39,548 --> 00:25:45,108
+Inclusive, se vocês já viram músicos ficarem batendo o pé deles, é pra poder calcular o BPM,
+
+515
+00:25:45,288 --> 00:25:49,368
+calcular aqui a batida por minuto, tá? Pra acertar o tempo da música.
+
+516
+00:25:51,068 --> 00:25:52,148
+Isso é 100, vamos diminuir.
+
+517
+00:25:53,436 --> 00:25:55,556
+Colocar aqui no 60, só ver que é bem menos.
+
+518
+00:25:56,216 --> 00:25:57,336
+Não dá para digitar, não?
+
+519
+00:25:59,100 --> 00:26:01,340
+Essa ferramenta aqui do Google.
+
+520
+00:26:07,068 --> 00:26:11,848
+E aí você pode colocar também o tempo em tamanhos, digamos assim, diferentes.
+
+521
+00:26:12,048 --> 00:26:13,768
+Eu posso colocar ele em quatro tempos, por exemplo,
+
+522
+00:26:13,788 --> 00:26:15,448
+que é o mais clássico e fácil de começar.
+
+523
+00:26:15,848 --> 00:26:17,048
+Que é assim que funciona.
+
+524
+00:26:18,388 --> 00:26:21,208
+Um, dois, três, quatro.
+
+525
+00:26:22,348 --> 00:26:24,228
+Um, dois, três.
+
+526
+00:26:25,948 --> 00:26:27,488
+E aí, beleza, agora se eu coloco aqui, ó.
+
+527
+00:26:33,340 --> 00:26:46,720
+3, 4, 1, 2, 3, 4, 1, 2, 3, 4, vai, enfim, é uma outra ferramenta também e ajuda você a calcular batidas por minuto, ajuda você a entender melhor como calcular o ritmo.
+
+528
+00:26:46,780 --> 00:27:01,000
+O ritmo, ele é essa junção aqui da música igual eu estou, 1, 2, 3, 4, mas eu posso fazer também, 1, 2, 1, 2, 1, 2, 1, 2, tem várias maneiras de organizar também.
+
+529
+00:27:01,000 --> 00:27:02,380
+Bem, melodia e harmonia.
+
+530
+00:27:02,480 --> 00:27:05,520
+Melodia, a sequência principal das notas que você canta ou assobia.
+
+531
+00:27:06,240 --> 00:27:09,880
+Harmonia, os acordes que tocam no fundo, dando suporte emocional à melodia.
+
+532
+00:27:09,940 --> 00:27:14,200
+Quando você for pedir o prompt, então, você pode falar pra ele sobre a melodia que você quer.
+
+533
+00:27:14,300 --> 00:27:15,540
+O que é a melodia, então?
+
+534
+00:27:15,560 --> 00:27:18,540
+Eu quero um dó, depois de um dó eu quero um dó, um fá e um lá.
+
+535
+00:27:18,700 --> 00:27:23,060
+Você fala isso com ele, ele organiza a melodia pra você também dentro das notas que você quer.
+
+536
+00:27:23,160 --> 00:27:26,640
+Se você não sabe utilizar a inteligência artificial, se você não sabe utilizar,
+
+537
+00:27:26,640 --> 00:27:32,080
+Se você não sabe sobre musicalização, você pode utilizar a inteligência artificial para fazer a melodia para você também.
+
+538
+00:27:32,160 --> 00:27:33,920
+Vai super funcionar, beleza?
+
+539
+00:27:34,940 --> 00:27:37,180
+Escalas, um conjunto de notas que combinam entre si.
+
+540
+00:27:37,260 --> 00:27:43,560
+Se você souber em qual escala a sua música está, saberá exatamente quais notas soam bem e quais soam desafinadas.
+
+541
+00:27:44,060 --> 00:27:49,260
+Então, existem notas que funcionam umas com as outras e notas que não funcionam.
+
+542
+00:27:49,340 --> 00:27:52,080
+Então, se eu pego aqui de novo, piano, online.
+
+543
+00:27:52,880 --> 00:27:54,160
+Vamos pegar esse aqui mesmo.
+
+544
+00:27:54,500 --> 00:27:58,120
+Se eu pego aqui, por exemplo, e estou tocando ali, vou pegar aqui do T.
+
+545
+00:28:01,148 --> 00:28:02,628
+Ó, dá pra colocar até uma Adélia aqui, né, ó.
+
+546
+00:28:09,244 --> 00:28:10,984
+No tecladinho perde sensibilidade, né?
+
+547
+00:28:11,244 --> 00:28:12,804
+Só que a dela eu acho que é em lá, mas enfim.
+
+548
+00:28:20,796 --> 00:28:21,676
+Agora eu comecei outra já.
+
+549
+00:28:21,936 --> 00:28:24,836
+Mas enfim, por que essas notas estão funcionando aqui?
+
+550
+00:28:25,796 --> 00:28:26,516
+Tem harmonia.
+
+551
+00:28:26,516 --> 00:28:27,436
+Se eu fizer isso aqui, por exemplo.
+
+552
+00:28:31,292 --> 00:28:34,032
+O pior é que a escala maior sempre funciona.
+
+553
+00:28:34,252 --> 00:28:35,212
+Deixa eu pegar uma outra aqui.
+
+554
+00:28:41,532 --> 00:28:42,292
+Aí ó, do nada...
+
+555
+00:28:44,572 --> 00:28:45,572
+Tá soando um pouco estranho.
+
+556
+00:28:50,908 --> 00:28:52,468
+ou vai virar filme de terror, né?
+
+557
+00:28:52,748 --> 00:28:55,448
+Mas quando você começa a tocar notas aleatórias,
+
+558
+00:28:56,068 --> 00:28:58,748
+você pode colocar notas que não encaixam muito bem.
+
+559
+00:29:00,860 --> 00:29:13,700
+juntas, se elas não forem feitas na melodia certa, porque o legal da música é que com essas notas aqui, com essas sete notas maiores e esses cinco semitons aqui, você consegue fazer qualquer música. Essa é a graça, né?
+
+560
+00:29:15,484 --> 00:29:18,284
+A questão está na ordem que você coloca cada nota
+
+561
+00:29:18,284 --> 00:29:19,884
+que vai fazer você ter músicas melhores
+
+562
+00:29:19,884 --> 00:29:23,204
+ou músicas que soam harmônicas ou não.
+
+563
+00:29:23,424 --> 00:29:25,484
+E quando você fala da escala,
+
+564
+00:29:25,524 --> 00:29:27,184
+então você tem a escala maior, a escala menor,
+
+565
+00:29:27,624 --> 00:29:29,944
+a escala pentatônica, a escala não sei do que,
+
+566
+00:29:29,984 --> 00:29:31,384
+tem vários estilos de escalas diferentes,
+
+567
+00:29:31,484 --> 00:29:34,404
+você pode colocar aqui, nomes das escalas musicais.
+
+568
+00:29:34,504 --> 00:29:36,224
+Isso aqui é o ouro, tá?
+
+569
+00:29:36,744 --> 00:29:41,784
+Aí você fala assim, como que faz para compor uma música
+
+570
+00:29:41,784 --> 00:29:43,204
+ou fazer uma música que é harmônica,
+
+571
+00:29:43,224 --> 00:29:44,304
+que vai funcionar para as outras pessoas?
+
+572
+00:29:44,304 --> 00:29:46,604
+é sabendo usar as escalas certas.
+
+573
+00:29:46,764 --> 00:29:50,544
+E o mais legal é que você pode ouvir a escala, gostar dela
+
+574
+00:29:50,544 --> 00:29:52,304
+e pedir para Iá compor na escala.
+
+575
+00:29:52,464 --> 00:29:55,044
+Não necessariamente você precisa saber compor na escala.
+
+576
+00:29:55,164 --> 00:29:56,304
+Então a gente tem aqui a escala maior,
+
+577
+00:29:56,424 --> 00:29:57,804
+que é a mais clássica que eu acabei de falar.
+
+578
+00:29:58,084 --> 00:30:00,564
+Tom, tom, semitom, tom, tom, tom, semitom.
+
+579
+00:30:00,704 --> 00:30:03,664
+Aí tem a escala menor, que é natural, harmônica e melódica.
+
+580
+00:30:03,764 --> 00:30:06,584
+As notas têm nomes também, eu não vou aprofundar nisso agora,
+
+581
+00:30:06,824 --> 00:30:10,584
+mas traz aqui tonalidade menor, comum para sons mais melancólicos.
+
+582
+00:30:11,444 --> 00:30:15,584
+Escala pentatônica, ou chinesa, que é muito, muito usado por guitarristas,
+
+583
+00:30:15,664 --> 00:30:19,144
+muito usado no jazz, muito usado no rock, então é uma escala de cinco notas.
+
+584
+00:30:19,204 --> 00:30:23,004
+Tem a escala de blues, que é uma variação menor da escala pentatônica.
+
+585
+00:30:23,044 --> 00:30:26,344
+Escala cromática, que é composta por 12 semitons consecutivos.
+
+586
+00:30:26,524 --> 00:30:33,724
+Tem aqui modos gregos medievais, que tem os djônicos, dóricos, frídeos, lídio, mixolido.
+
+587
+00:30:35,580 --> 00:30:38,980
+mixolídio, eólio e lócrio.
+
+588
+00:30:39,060 --> 00:30:41,480
+E aí você tem aqui também esse outro tipo de escala.
+
+589
+00:30:41,860 --> 00:30:44,380
+Escala hexafônica, escala de seis notas,
+
+590
+00:30:44,380 --> 00:30:45,500
+onde todos os intervalos são tons.
+
+591
+00:30:45,720 --> 00:30:47,780
+Enfim, você pode pegar essas escalas aqui
+
+592
+00:30:47,780 --> 00:30:49,940
+e pedir para a IA compor dentro dessa escala para você.
+
+593
+00:30:50,060 --> 00:30:53,800
+Por exemplo, eu posso pegar aqui a escala pentatônica
+
+594
+00:30:53,800 --> 00:30:57,880
+e usar a escala pentatônica para fazer um solinho
+
+595
+00:30:57,880 --> 00:30:59,980
+ou no teclado ou em algum outro lugar,
+
+596
+00:31:00,080 --> 00:31:01,680
+numa guitarra, pedir para a IA fazer.
+
+597
+00:31:01,680 --> 00:31:07,820
+faz um solo em escala pentatônica, começando em dó, ela vai fazer isso pra você.
+
+598
+00:31:09,148 --> 00:31:12,128
+Esse conhecimento fundamental é o que vai te ajudar a guiar a Iá.
+
+599
+00:31:12,208 --> 00:31:15,168
+É a parte de repertório, que quando você aprende sobre isso,
+
+600
+00:31:15,248 --> 00:31:18,308
+você consegue fazer músicas melhores, que as pessoas gostam mais e por aí vai.
+
+601
+00:31:18,528 --> 00:31:18,988
+Tá bom?
+
+602
+00:31:19,248 --> 00:31:21,448
+Então é legal levar isso em consideração também.
+
+603
+00:31:22,368 --> 00:31:24,568
+Outra questão importante de elemento de música,
+
+604
+00:31:24,668 --> 00:31:25,848
+composição e arranjo.
+
+605
+00:31:25,868 --> 00:31:27,188
+Essas palavras aparecem muito.
+
+606
+00:31:27,348 --> 00:31:28,508
+Então, o que é composição?
+
+607
+00:31:28,868 --> 00:31:32,508
+Criar a letra, a melodia principal e a progressão de acordes.
+
+608
+00:31:32,528 --> 00:31:34,768
+Qual acorde vem, depois vem qual, depois vem qual e por aí vai.
+
+609
+00:31:35,128 --> 00:31:36,108
+Depois arranjo também.
+
+610
+00:31:36,108 --> 00:31:40,548
+também escolher quais instrumentos vão tocar a composição e quando eles entram e saem.
+
+611
+00:31:40,628 --> 00:31:46,228
+Então, a composição é a parte maior, que você escolhe a música, a letra da música ali,
+
+612
+00:31:46,268 --> 00:31:50,148
+você escolhe também dentro da composição qual vai ser a melodia,
+
+613
+00:31:50,168 --> 00:31:53,708
+mas dentro dessa composição você pode fazer vários arranjos diferentes.
+
+614
+00:31:54,068 --> 00:31:56,668
+E isso é muito divertido de fazer também.
+
+615
+00:31:56,768 --> 00:32:00,148
+Vamos pegar um exemplo aqui, olha, eu posso criar com...
+
+616
+00:32:01,596 --> 00:32:05,956
+com a IA, e eu posso fazer o seguinte, olha, eu posso jogar, deixa eu só ver aqui, porque
+
+617
+00:32:05,956 --> 00:32:09,616
+a tela tá pequenininha, onde que vai aparecer o botão.
+
+618
+00:32:09,616 --> 00:32:11,696
+Eu posso jogar aqui um...
+
+619
+00:32:13,052 --> 00:32:13,632
+Um áudio meu?
+
+620
+00:32:15,164 --> 00:32:16,124
+Vou gravar um áudio meu.
+
+621
+00:32:16,304 --> 00:32:18,084
+E nesse áudio eu vou gravar o quê?
+
+622
+00:32:18,164 --> 00:32:19,084
+A melodia.
+
+623
+00:32:19,324 --> 00:32:20,544
+Depois com essa melodia,
+
+624
+00:32:20,544 --> 00:32:22,764
+eu vou poder fazer vários arranjos diferentes no prompt.
+
+625
+00:32:22,924 --> 00:32:23,724
+Então vamos dar uma olhada.
+
+626
+00:32:23,784 --> 00:32:24,684
+Vou colocar aqui.
+
+627
+00:32:26,524 --> 00:32:26,924
+Aceito.
+
+628
+00:32:32,028 --> 00:32:32,288
+Para!
+
+629
+00:32:33,532 --> 00:32:39,252
+Para-pam, pam, para-pam, para, para-pam, pam.
+
+630
+00:32:41,500 --> 00:32:43,840
+Qualquer coisa, eu tô fazendo do jeito mais tosco possível.
+
+631
+00:32:44,380 --> 00:32:46,120
+Beleza? Vou começar aqui mesmo.
+
+632
+00:32:46,260 --> 00:32:48,620
+Ah, coloquei pra começar de novo, né? Start over.
+
+633
+00:32:49,160 --> 00:32:51,820
+Então vamos fazer. A tentativa é de fazer melhor, né?
+
+634
+00:32:59,552 --> 00:33:02,892
+beleza, agora salva ela aqui
+
+635
+00:33:02,892 --> 00:33:05,132
+posso salvar ela na biblioteca
+
+636
+00:33:05,132 --> 00:33:07,112
+continuar, agora ele vai usar essa de exemplo
+
+637
+00:33:07,112 --> 00:33:08,852
+e aqui eu posso colocar
+
+638
+00:33:08,852 --> 00:33:10,372
+no arranjo, por exemplo
+
+639
+00:33:13,372 --> 00:33:20,292
+Vou colocar aqui Strings, que aí pega instrumentos de corda, e Synths.
+
+640
+00:33:23,284 --> 00:33:24,824
+Talvez fique legal, mas vou colocar aqui
+
+641
+00:33:26,004 --> 00:33:27,544
+instrumentos de cordas e bateria só.
+
+642
+00:33:27,884 --> 00:33:30,004
+E vou colocar pra ele fazer um...
+
+643
+00:33:32,476 --> 00:33:35,276
+um estilo musical aqui, vou colocar para ele fazer isso com...
+
+644
+00:33:37,340 --> 00:33:38,700
+Classical Style.
+
+645
+00:33:39,680 --> 00:33:40,840
+Deixa ele gerar.
+
+646
+00:33:40,920 --> 00:33:42,500
+Coloco aqui agora, ele vai gerar.
+
+647
+00:33:42,560 --> 00:33:43,760
+E vou fazer a segunda aqui.
+
+648
+00:33:44,060 --> 00:33:46,460
+Que eu vou colocar outros instrumentos.
+
+649
+00:33:46,460 --> 00:33:48,880
+Vou colocar, por exemplo, synth, sintetizadores.
+
+650
+00:33:50,940 --> 00:33:54,640
+Vou colocar aqui também um baixo.
+
+651
+00:33:54,740 --> 00:33:59,100
+E vou colocar aqui agora que eu quero um estilo musical.
+
+652
+00:33:59,180 --> 00:34:00,520
+Vou colocar aqui...
+
+653
+00:34:05,372 --> 00:34:07,792
+Vou colocar aqui eletrônica mesmo pra combinar com esse.
+
+654
+00:34:08,052 --> 00:34:09,852
+E vou fazer um terceiro aqui agora.
+
+655
+00:34:11,420 --> 00:34:13,160
+Ah, eu não tô pegando. Que raiva.
+
+656
+00:34:13,620 --> 00:34:15,640
+Eu esqueci de pegar o áudio aqui, ó.
+
+657
+00:34:18,844 --> 00:34:19,724
+Aqui, ó, biblioteca.
+
+658
+00:34:21,116 --> 00:34:22,816
+Vou pegar meu audiozinho aqui.
+
+659
+00:34:25,116 --> 00:34:25,816
+Deixa eu ver aqui.
+
+660
+00:34:27,580 --> 00:34:28,320
+Se ele subiu.
+
+661
+00:34:31,772 --> 00:34:32,712
+É esse aqui mesmo, ó, upload.
+
+662
+00:34:33,232 --> 00:34:36,372
+Então eu vou pegar ele aqui agora, eu esqueci de colocar ele lá, vai dar errado.
+
+663
+00:34:36,492 --> 00:34:37,512
+Vamos fazer de novo.
+
+664
+00:34:37,912 --> 00:34:38,872
+Agora vai ficar interessante.
+
+665
+00:34:39,212 --> 00:34:41,912
+Vou pegar aqui em upload.
+
+666
+00:34:43,676 --> 00:34:44,196
+Toda hora eu...
+
+667
+00:34:45,308 --> 00:34:47,168
+remix, venho em biblioteca,
+
+668
+00:34:47,168 --> 00:34:48,088
+pego esse aqui que eu
+
+669
+00:34:48,968 --> 00:34:49,768
+de exemplo.
+
+670
+00:34:51,804 --> 00:34:53,644
+Vou colocar ele aqui agora, tá carregando.
+
+671
+00:34:53,704 --> 00:34:55,984
+Ele até escreveu o lyric aqui.
+
+672
+00:34:56,124 --> 00:34:57,664
+Vou colocar aqui em estilo assim, agora vai.
+
+673
+00:34:58,004 --> 00:35:03,664
+Eu tinha colocado strings, drums e classical.
+
+674
+00:35:05,692 --> 00:35:07,232
+Style. Beleza.
+
+675
+00:35:09,180 --> 00:35:10,120
+Aí ele vai criar essa pra gente.
+
+676
+00:35:10,280 --> 00:35:14,420
+Agora eu vou colocar outra aqui diferente, que eu tava fazendo, que era sintetizadores.
+
+677
+00:35:16,764 --> 00:35:18,844
+Baixo, eletrônica.
+
+678
+00:35:19,224 --> 00:35:21,624
+E vou criar uma outra aqui de guitarra.
+
+679
+00:35:23,132 --> 00:35:23,832
+E... hang.
+
+680
+00:35:27,772 --> 00:35:31,932
+Beleza. Agora vamos dar uma olhada aqui no que ele fez pra gente.
+
+681
+00:35:33,192 --> 00:35:35,832
+Começando, deixa eu ver se essa daqui já tá certinha. É a clássica.
+
+682
+00:35:48,572 --> 00:35:50,072
+Vamos lembrar aqui o que eu mandei para ele.
+
+683
+00:35:50,172 --> 00:35:51,412
+Eu mandei uma melodia.
+
+684
+00:35:52,860 --> 00:35:55,100
+Para-pam-pam-pam-pam-pam-pam-pam-pam
+
+685
+00:36:00,160 --> 00:36:02,120
+só uma dessa droga aqui
+
+686
+00:36:02,120 --> 00:36:03,960
+olha só, arranjou
+
+687
+00:36:03,960 --> 00:36:05,280
+arranjou com
+
+688
+00:36:07,068 --> 00:36:09,328
+corda e a bateria já apareceu.
+
+689
+00:36:09,388 --> 00:36:10,808
+Ah, já tá aparecendo.
+
+690
+00:36:19,516 --> 00:36:21,736
+Beleza? Peguei a melodia, coloquei o arranjo.
+
+691
+00:36:21,736 --> 00:36:24,636
+Agora a melodia continua, mas eu mudo o arranjo, olha só.
+
+692
+00:36:35,132 --> 00:36:36,872
+Aí o arranjo é isso, quando que entra a voz,
+
+693
+00:36:37,032 --> 00:36:39,132
+quando que entra o synth, e tem essa outra aqui, ó,
+
+694
+00:36:39,132 --> 00:36:40,372
+de guitarra meio reggae, ó, vamos ver.
+
+695
+00:36:41,724 --> 00:36:42,384
+Papapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapapap
+
+696
+00:36:50,652 --> 00:36:54,672
+Então, o que você aprendeu aqui que é importante você entender se você quiser trabalhar com música?
+
+697
+00:36:54,872 --> 00:36:57,772
+Você entendeu que existe a melodia, a melodia é a sequência de notas,
+
+698
+00:36:57,792 --> 00:37:02,612
+e entendeu que existem os arranjos, que são os instrumentos que você vai arranjar ali
+
+699
+00:37:02,612 --> 00:37:07,312
+para fazer essa composição com a melodia que você criou, beleza?
+
+700
+00:37:07,552 --> 00:37:09,192
+A gente vai trabalhar mais com isso também.
+
+701
+00:37:09,752 --> 00:37:14,572
+E a gente tem a estrutura musical, organizar faixa em sessões para manter o ouvinte interessado.
+
+702
+00:37:14,572 --> 00:37:20,812
+Uma estrutura musical é, vocês devem ter visto isso nas letras que eu fui colocando ali das músicas,
+
+703
+00:37:20,812 --> 00:37:24,812
+tinha lá introdução, verso, coro, choros, que é o refrão.
+
+704
+00:37:24,932 --> 00:37:26,372
+Então isso aqui é uma estrutura musical.
+
+705
+00:37:26,612 --> 00:37:30,672
+Intro, verso, pré-refrão, refrão, verso 2, refrão, ponte, refrão final.
+
+706
+00:37:30,732 --> 00:37:34,432
+Essa aqui é a mais clássica de todas, muito utilizada também.
+
+707
+00:37:35,372 --> 00:37:39,912
+Então pode ser utilizada, é bem interessante aqui mais esse fundamento para vocês.
+
+708
+00:37:40,352 --> 00:37:42,772
+Aí a gente vai para gravação e sound design.
+
+709
+00:37:43,552 --> 00:37:45,292
+Gravação, que é chamado também de tracking
+
+710
+00:37:45,292 --> 00:37:48,572
+Capta a voz, capta os instrumentos analógicos
+
+711
+00:37:48,572 --> 00:37:49,712
+Através de microfone
+
+712
+00:37:49,712 --> 00:37:51,992
+Aquela biblioteca que eu mostrei pra vocês
+
+713
+00:37:51,992 --> 00:37:52,812
+Orchestral Tools
+
+714
+00:37:52,812 --> 00:37:56,212
+Ela tem vários áudios
+
+715
+00:37:56,212 --> 00:37:58,212
+Gravados ali pra que você use eles
+
+716
+00:37:58,212 --> 00:37:59,592
+Como instrumentos de cada nota
+
+717
+00:37:59,592 --> 00:38:02,132
+Eles gravaram cada nota ali do instrumento
+
+718
+00:38:02,692 --> 00:38:04,372
+E em ataques diferentes
+
+719
+00:38:04,372 --> 00:38:05,332
+Que é o tempo
+
+720
+00:38:05,332 --> 00:38:06,672
+Você pode ter um
+
+721
+00:38:06,672 --> 00:38:07,532
+Tchau.
+
+722
+00:38:09,724 --> 00:38:11,964
+Você pode ter um tam, esse é o ataque também.
+
+723
+00:38:12,424 --> 00:38:15,864
+E aí eles gravaram vários desses para montar uma biblioteca para você.
+
+724
+00:38:15,964 --> 00:38:22,184
+E você tem o sound design, além do tracking, que é gravar os instrumentos,
+
+725
+00:38:22,184 --> 00:38:25,944
+você tem o projeto desses instrumentos também.
+
+726
+00:38:26,044 --> 00:38:31,424
+Então você pode, ao invés de gravar com instrumentos analógicos, acústicos,
+
+727
+00:38:31,504 --> 00:38:32,804
+você pode criar sons.
+
+728
+00:38:33,304 --> 00:38:34,484
+Isso é sound design.
+
+729
+00:38:34,904 --> 00:38:38,364
+E aí você utiliza sintetizador virtual para criar sons eletrônicos.
+
+730
+00:38:39,708 --> 00:38:44,288
+E manipular samples, que são amostras de áudios prontas, como um bumbo, bateria.
+
+731
+00:38:44,428 --> 00:38:45,928
+Aquele orchestral tools, né?
+
+732
+00:38:45,948 --> 00:38:49,748
+Eu não usei o termo na hora, foquei em biblioteca pra ficar mais fácil de entender.
+
+733
+00:38:50,108 --> 00:38:52,808
+Mas orchestral tools tem um conjunto de samples.
+
+734
+00:38:52,948 --> 00:38:56,128
+E você usa esses samples pra poder criar músicas.
+
+735
+00:38:56,268 --> 00:38:56,708
+Beleza?
+
+736
+00:38:57,588 --> 00:38:58,968
+Edição, a limpeza.
+
+737
+00:38:59,328 --> 00:39:01,528
+Então depois que você cria a música, você vai limpando.
+
+738
+00:39:01,628 --> 00:39:05,728
+Músicas de qualidade são músicas limpas, que você entende as notas, entende o arranjo,
+
+739
+00:39:05,808 --> 00:39:06,828
+entende o que tá acontecendo ali.
+
+740
+00:39:06,988 --> 00:39:09,028
+A IA, ela faz muita música suja.
+
+741
+00:39:09,028 --> 00:39:11,748
+Só que você também pode usar IA para limpar as músicas para você.
+
+742
+00:39:11,868 --> 00:39:12,748
+Então é muito bom.
+
+743
+00:39:13,128 --> 00:39:17,888
+E aí nós temos aqui o comping, que é gravar vários takes e tentativas de uma voz no instrumento,
+
+744
+00:39:18,348 --> 00:39:22,188
+recortar as partes que funcionam melhor e ir encaixando o take perfeito.
+
+745
+00:39:22,388 --> 00:39:26,728
+Tem também a quantização, que é corrigir o tempo das notas, aí tem mid ou audio,
+
+746
+00:39:26,848 --> 00:39:31,028
+para que toquem perfeitamente no ritmo da grade da DAW.
+
+747
+00:39:31,108 --> 00:39:33,028
+Juan, o que é tocar no ritmo da grade da DAW?
+
+748
+00:39:33,108 --> 00:39:37,188
+É a ferramenta, a interface de áudio, você consegue visualizar ali.
+
+749
+00:39:37,188 --> 00:39:40,808
+A gente vai usar, o Suno ele meio que é uma DAW, o estúdio do Suno ali,
+
+750
+00:39:40,848 --> 00:39:46,348
+dá pra falar que ele é uma DAW, uma DAW com IA online, pra você usar, simplificada.
+
+751
+00:39:46,708 --> 00:39:52,088
+Mas a quantização então trabalha pra corrigir os tempos das notas pra ficar tudo certinho dentro do tempo.
+
+752
+00:39:52,228 --> 00:39:56,668
+Aí você vai puxando ali, quem já editou em Premiere, usa uma lógica bem parecida ali.
+
+753
+00:39:57,388 --> 00:40:03,288
+E afinação, corrigir pequenas desafinações vocais usando ferramentas como Auto-Tune e Melodyne.
+
+754
+00:40:03,288 --> 00:40:05,608
+e aí, às vezes você já deve ter escutado
+
+755
+00:40:05,608 --> 00:40:07,368
+alguém falando, ah, a pessoa só fica
+
+756
+00:40:07,368 --> 00:40:09,528
+em auto-tune, porque o auto-tune
+
+757
+00:40:09,528 --> 00:40:11,288
+ele, é como se ele estivesse
+
+758
+00:40:11,288 --> 00:40:13,188
+puxando sua nota, você tá ali na nota errada, né
+
+759
+00:40:14,868 --> 00:40:15,188
+aaaauuuu
+
+760
+00:40:17,468 --> 00:40:19,248
+até chegar, ele vai puxando
+
+761
+00:40:19,248 --> 00:40:20,988
+a sua afinação até chegar na nota certa.
+
+762
+00:40:21,188 --> 00:40:23,188
+É por isso que fica meio robótico quem usa
+
+763
+00:40:23,188 --> 00:40:24,928
+autotune também, fica esquisito, né?
+
+764
+00:40:25,048 --> 00:40:27,288
+Tem técnicas pra fazer isso, mas
+
+765
+00:40:27,288 --> 00:40:29,308
+quando falam cantor de autotune, é o cantor
+
+766
+00:40:29,308 --> 00:40:30,968
+que ele usa um suporte digital
+
+767
+00:40:30,968 --> 00:40:32,468
+pra poder puxar
+
+768
+00:40:32,888 --> 00:40:34,808
+as notas dele pra ficarem afinadas.
+
+769
+00:40:35,968 --> 00:40:37,248
+Mixagem. Dentro da mixagem
+
+770
+00:40:37,248 --> 00:40:39,088
+a gente tem volume, que também é chamado de fader,
+
+771
+00:40:39,148 --> 00:40:41,228
+que é o passo mais importante, ajusta
+
+772
+00:40:41,228 --> 00:40:43,108
+quem é o protagonista, isso geralmente
+
+773
+00:40:43,108 --> 00:40:45,128
+é voz, mas é importante porque tem
+
+774
+00:40:45,128 --> 00:40:47,008
+sons que tem que ficar mais baixos, sons que tem que ficar
+
+775
+00:40:47,008 --> 00:40:49,048
+mais altos, e aí você vai ajustando o volume
+
+776
+00:40:49,048 --> 00:40:51,008
+pra isso. Panorama, que é chamado
+
+777
+00:40:51,008 --> 00:40:52,968
+de panning também, que é posicionar
+
+778
+00:40:52,968 --> 00:40:55,148
+os sons no espaço estéreo. O que é estéreo?
+
+779
+00:40:55,168 --> 00:40:57,008
+Estéreo é porque você tem o seu lado direito e o seu
+
+780
+00:40:57,008 --> 00:40:59,028
+lado esquerdo. E aí você vai
+
+781
+00:40:59,528 --> 00:41:01,068
+posicionando, isso vai criando uma atmosfera
+
+782
+00:41:01,068 --> 00:41:03,008
+e te envolvendo dentro da música. Então, às vezes, você
+
+783
+00:41:03,008 --> 00:41:05,048
+quer colocar o baixo mais pra
+
+784
+00:41:05,048 --> 00:41:06,728
+direita, a guitarra mais pra esquerda.
+
+785
+00:41:06,748 --> 00:41:09,148
+Você coloca, às vezes, ligeiramente,
+
+786
+00:41:09,608 --> 00:41:10,888
+mas isso deixa o som mais
+
+787
+00:41:10,888 --> 00:41:13,208
+tridimensional também, tá? Equalização.
+
+788
+00:41:13,508 --> 00:41:15,128
+Cortar ou aumentar frequências. Graves,
+
+789
+00:41:15,128 --> 00:41:16,948
+médios, agudos. Então, às vezes
+
+790
+00:41:16,948 --> 00:41:18,968
+você tá com muitos graves ou tá com muitos agudos
+
+791
+00:41:18,968 --> 00:41:20,928
+aí tá muito atacado o som
+
+792
+00:41:20,928 --> 00:41:22,188
+tá muito pontudo
+
+793
+00:41:22,188 --> 00:41:24,568
+ou ele tá muito espesso também
+
+794
+00:41:24,568 --> 00:41:26,928
+você vai fazendo esses ajustes aqui. Tudo isso
+
+795
+00:41:26,928 --> 00:41:28,948
+você consegue fazer com ferramentas e consegue
+
+796
+00:41:28,948 --> 00:41:30,788
+pedir pra IA fazer por você. Eu tô te ensinando
+
+797
+00:41:30,788 --> 00:41:32,708
+pra você saber que existe. Eu tenho bem
+
+798
+00:41:32,708 --> 00:41:34,788
+no básico aqui só pra gente ter os termos, tá?
+
+799
+00:41:35,228 --> 00:41:36,968
+E tem os VFX, que são
+
+800
+00:41:36,968 --> 00:41:38,808
+efeitos sonoros que você adiciona
+
+801
+00:41:38,808 --> 00:41:40,908
+pra às vezes cuidar. Às vezes você tá
+
+802
+00:41:40,908 --> 00:41:43,108
+num estúdio, o som fica muito opaco, né?
+
+803
+00:41:43,128 --> 00:41:44,608
+Fica muito seco. Você quer
+
+804
+00:41:44,608 --> 00:41:48,948
+que é dar um pouquinho de reverb, que é fazer o som como se ele estivesse batendo e voltando um pouquinho
+
+805
+00:41:51,488 --> 00:41:52,868
+onde você escuta, né?
+
+806
+00:41:52,948 --> 00:41:57,048
+Então dá um pouquinho de reverb ali, que é um pouquinho de eco também, bem levinho.
+
+807
+00:41:57,048 --> 00:41:59,908
+Às vezes um pouquinho de repetição pra gerar um efeito numa música.
+
+808
+00:42:00,108 --> 00:42:02,088
+Às vezes você tá tocando guitarra ali, aí você faz um...
+
+809
+00:42:02,088 --> 00:42:03,728
+Você deu um toquezinho com ela...
+
+810
+00:42:03,728 --> 00:42:07,128
+E aí você coloca ali um delay, você consegue fazer ela fazer um...
+
+811
+00:42:12,884 --> 00:42:15,804
+Enfim, você consegue colocar efeitos sonoros também.
+
+812
+00:42:16,004 --> 00:42:18,144
+E a masterização, que é o polimento final.
+
+813
+00:42:18,224 --> 00:42:22,484
+Depois que você já tem tudo ali organizado, você passa pela masterização.
+
+814
+00:42:22,804 --> 00:42:26,584
+E aí vem primeiro o objetivo, que é fazer a música soar alto o suficiente
+
+815
+00:42:26,584 --> 00:42:28,404
+para competir com outras músicas.
+
+816
+00:42:29,044 --> 00:42:30,084
+Aqui é um exemplo, tá?
+
+817
+00:42:30,164 --> 00:42:31,564
+Às vezes, onde que essa música vai tocar?
+
+818
+00:42:31,664 --> 00:42:33,244
+Você tem que entender qual que é o objetivo dela.
+
+819
+00:42:33,444 --> 00:42:36,344
+Se ela vai tocar no mercado, se ela vai tocar no fone de ouvido de alguém.
+
+820
+00:42:36,344 --> 00:42:40,204
+E de acordo com o objetivo, você vai trabalhar a masterização.
+
+821
+00:42:40,484 --> 00:42:44,824
+Se essa música vai ser tocada em ambiente externo,
+
+822
+00:42:44,824 --> 00:42:46,804
+você faz uma masterização para ela ficar um pouco mais alta,
+
+823
+00:42:46,924 --> 00:42:49,344
+muda um pouco também a lógica dos instrumentos.
+
+824
+00:42:49,364 --> 00:42:53,464
+Se é para usar no fone de ouvido, aquele som mais limpo de estúdio,
+
+825
+00:42:53,544 --> 00:42:55,324
+aí você faz uma masterização um pouco diferente.
+
+826
+00:42:55,664 --> 00:42:58,764
+E aí tem várias ferramentas para isso, inclusive eu vou mostrar uma ferramenta aqui
+
+827
+00:42:58,764 --> 00:43:02,564
+de masterização que faz isso para você e vai ser muito fácil.
+
+828
+00:43:04,028 --> 00:43:06,468
+Resumo dessa ópera toda pra gente fechar esse ponto aqui.
+
+829
+00:43:06,668 --> 00:43:11,448
+Uma boa composição musical acontece quando o ritmo faz a gente se mexer.
+
+830
+00:43:11,468 --> 00:43:13,488
+A melodia fica na nossa cabeça.
+
+831
+00:43:13,728 --> 00:43:15,528
+A harmonia dá o clima certo.
+
+832
+00:43:15,748 --> 00:43:18,228
+O timbre traz os sons mais interessantes.
+
+833
+00:43:18,328 --> 00:43:20,748
+A dinâmica nos dá arrepio.
+
+834
+00:43:20,788 --> 00:43:23,188
+E a forma conta a história do jeito.
+
+835
+00:43:25,148 --> 00:43:30,448
+Se você pega essa última frase aqui, e quando você precisar, você volta nesse documento para aprender um pouquinho mais,
+
+836
+00:43:30,588 --> 00:43:32,128
+você vai conseguir fazer música, cara.
+
+837
+00:43:32,208 --> 00:43:33,448
+E vai ser muito divertido.
+

@@ -1,0 +1,952 @@
+# Video: 5._a_geometria_descritiva (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-28 11:40
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:07 --> 00:00:04:14] Começamos mais uma aula do módulo de fundamentos das formas
+[00:00:04:14 --> 00:00:08:19] e, dessa vez, para falarmos sobre a geometria espacial,
+[00:00:08:28 --> 00:00:12:17] a geometria que mede a terceira dimensão,
+[00:00:12:24 --> 00:00:15:17] a parte dois do que nós já começamos a estudar,
+[00:00:15:19 --> 00:00:18:01] que é a geometria das formas.
+[00:00:18:12 --> 00:00:21:04] Na última aula, eu apresentei para vocês alguns princípios
+[00:00:21:04 --> 00:00:24:07] e conceitos importantes da geometria plana,
+[00:00:24:10 --> 00:00:25:23] da segunda dimensão.
+[00:00:25:25 --> 00:00:27:29] Falamos sobre concordância, tangência
+[00:00:27:29 --> 00:00:31:08] e vários outros conceitos importantes que, se você ainda não assistiu,
+[00:00:31:18 --> 00:00:33:11] assista porque aquela é a parte 1.
+[00:00:33:19 --> 00:00:37:09] Agora, nessa segunda parte, nós vamos falar sobre a geometria espacial.
+[00:00:37:22 --> 00:00:40:00] Vou mostrar para vocês como nós, designers,
+[00:00:40:06 --> 00:00:45:08] podemos representar a tridimensionalidade em um espaço bidimensional.
+[00:00:45:14 --> 00:00:48:04] Então, a primeira coisa que a gente precisa entender aqui
+[00:00:48:04 --> 00:00:50:27] é a geometria descritiva.
+[00:00:51:04 --> 00:00:52:29] O que é a geometria descritiva?
+[00:00:53:07 --> 00:00:56:19] É quando nós pegamos um objeto tridimensional
+[00:00:56:19 --> 00:01:00:26] e representamos ele em um suporte bidimensional.
+[00:01:01:06 --> 00:01:06:01] A geometria descritiva tem esse nome porque o objetivo dela é descrever, detalhar
+[00:01:06:01 --> 00:01:09:19] um objeto tridimensional. É o desenho técnico.
+[00:01:09:24 --> 00:01:14:08] A real é que a geometria descritiva já existe há muito tempo,
+[00:01:14:13 --> 00:01:18:23] só que ela não tinha padrões definidos,
+[00:01:19:00 --> 00:01:20:16] era feita de maneira intuitiva.
+[00:01:20:17 --> 00:01:25:03] Aqui eu peguei três imagens de três projetos diferentes do Leonardo da Vinci,
+[00:01:25:03 --> 00:01:29:10] onde ele descreveu aqui os projetos usando uma perspectiva
+[00:01:29:10 --> 00:01:33:14] e apresentando o lado, o ponto de vista do objeto
+[00:01:33:14 --> 00:01:37:13] que tinha mais detalhes que desse para compreender aquele objeto.
+[00:01:37:27 --> 00:01:40:04] Só que, com o tempo passando,
+[00:01:40:18 --> 00:01:44:20] se tornou necessário uma metodologia, um processo
+[00:01:44:20 --> 00:01:48:12] que permitisse enxergar o objeto em sua plenitude,
+[00:01:48:25 --> 00:01:51:00] encontrar as perspectivas do objeto
+[00:01:51:00 --> 00:01:53:23] que definam e detalhem esse objeto
+[00:01:53:23 --> 00:01:57:07] de tal forma que duas pessoas olhando para o mesmo projeto
+[00:01:57:07 --> 00:02:00:05] consigam entender a mesma coisa.
+[00:02:00:16 --> 00:02:04:02] E foi ali, mais ou menos entre 1700 e 1800,
+[00:02:04:26 --> 00:02:08:13] que um cara chamado Gaspard Monge,
+[00:02:08:18 --> 00:02:12:04] e não, ele não é monge, ele era um matemático,
+[00:02:12:22 --> 00:02:15:24] criou a famosa geometria descritiva
+[00:02:15:24 --> 00:02:19:07] com planos horizontais e verticais.
+[00:02:19:16 --> 00:02:21:16] Ao entender a geometria descritiva,
+[00:02:21:16 --> 00:02:24:01] você vai desenvolver a sua intuição geométrica,
+[00:02:24:10 --> 00:02:27:02] o seu raciocínio elógico e a sua visão espacial.
+[00:02:27:12 --> 00:02:32:27] Um outro motivo para vocês, pelo menos, conhecerem a geometria descritiva
+[00:02:32:27 --> 00:02:37:26] é porque ela vai te ajudar a entender os projetos que possuem desenhos técnicos.
+[00:02:38:04 --> 00:02:41:28] Bora, então, entender quais são os princípios básicos da geometria descritiva.
+[00:02:42:16 --> 00:02:47:00] A primeira coisa que a gente precisa entender é a importância do ponto de vista.
+[00:02:47:16 --> 00:02:51:05] Aqui eu coloquei um sistema de projeção que tem esse nome,
+[00:02:51:05 --> 00:02:56:08] por causa da projeção que nós queremos criar em um determinado plano.
+[00:02:56:23 --> 00:02:58:19] Então, imagina que a gente tem um plano aqui.
+[00:02:58:29 --> 00:03:01:13] E olha, eu quero que você pense isso de forma 3D.
+[00:03:01:17 --> 00:03:02:23] Aqui está você, ó.
+[00:03:03:16 --> 00:03:04:09] Bem bonitinho?
+[00:03:07:07 --> 00:03:11:16] E você está parecendo um alien, né? E você está olhando para esse plano.
+[00:03:12:16 --> 00:03:18:09] Na sua visão aqui, o que você vê é um retângulo, você está de frente para o plano, ok?
+[00:03:18:09 --> 00:03:20:18] Então, você está vendo um retângulo.
+[00:03:20:29 --> 00:03:27:07] E eu quero que você imagine que existem três esferas, uma esfera A, uma esfera B e uma esfera C.
+[00:03:27:15 --> 00:03:31:00] Só que elas estão perfeitamente alinhadas com os seus olhos.
+[00:03:31:11 --> 00:03:36:01] Então, o que você vê, na verdade, é apenas uma esfera na sua frente aqui, ó.
+[00:03:36:01 --> 00:03:39:28] Você consegue enxergar uma esfera, as outras estão...
+[00:03:41:03 --> 00:03:47:23] atrás dela, como se fosse um eclipse, como se os planetas estivessem alinhados, mas por
+[00:03:47:23 --> 00:03:54:15] causa do seu ponto de vista, você enxerga apenas uma. Esse é o princípio básico da geometria
+[00:03:54:15 --> 00:04:01:18] descritiva, o ponto de vista, que nós chamamos de centro de projeção, é exatamente o ponto de
+[00:04:01:18 --> 00:04:09:11] vista do do observador mediante a um determinado objeto. Aqui então nós temos três pontos,
+[00:04:09:11 --> 00:04:15:04] Três objetos diferentes que nós podemos chamar de Objeto A, Objeto B e Objeto C.
+[00:04:16:02 --> 00:04:22:04] Mais à frente, nós temos o plano de projeção, que é o suporte onde nós vamos projetar
+[00:04:22:04 --> 00:04:26:15] uma espécie de sombra desse objeto, uma representação desse objeto.
+[00:04:26:27 --> 00:04:32:16] E nós temos a projeção do objeto, que no caso aqui são incidentes.
+[00:04:32:16 --> 00:04:39:06] A gente tem o Objeto A, Objeto B e Objeto C, todos posicionados no mesmo lugar.
+[00:04:39:06 --> 00:04:45:07] Uma vez que nós temos apenas um plano aqui e o nosso ponto de vista nos permite enxergar
+[00:04:45:07 --> 00:04:50:08] apenas o objeto A, porque o objeto B e o objeto C estão escondidos aqui.
+[00:04:51:01 --> 00:04:55:18] Então, esses aqui são os princípios básicos para você entender que existe um plano
+[00:04:55:18 --> 00:04:58:24] de projeção. Existe uma projeção.
+[00:04:59:28 --> 00:05:02:21] Aqui essa linha é uma linha de referência,
+[00:05:02:21 --> 00:05:05:29] é uma linha de construção só para indicar um certo alinhamento,
+[00:05:06:17 --> 00:05:09:09] mas existe um plano, uma projeção,
+[00:05:09:26 --> 00:05:13:11] um objeto, que é o objeto que nós estamos projetando,
+[00:05:13:20 --> 00:05:16:29] e um centro de projeção, que é o ponto de vista.
+[00:05:17:21 --> 00:05:21:06] Para entender melhor também, além desses princípios,
+[00:05:21:09 --> 00:05:24:17] nós temos basicamente três tipos de projeções.
+[00:05:25:01 --> 00:05:27:19] Existe a projeção central ou cônica,
+[00:05:27:19 --> 00:05:30:25] que é a projeção que mais se aproxima à nossa visão.
+[00:05:30:28 --> 00:05:34:11] Nós temos dois olhos, e por ter dois olhos,
+[00:05:34:11 --> 00:05:38:07] isso permite que a gente enxergue a lateral dos objetos.
+[00:05:38:11 --> 00:05:40:15] Existe uma ilusão de ótica
+[00:05:40:15 --> 00:05:43:15] que permite a gente enxergar as coisas em três dimensões.
+[00:05:43:24 --> 00:05:46:13] Então, quando você está de frente para um objeto,
+[00:05:46:27 --> 00:05:50:12] geralmente você enxerga um pouco da lateral desse objeto
+[00:05:50:12 --> 00:05:52:13] porque você tem dois olhos.
+[00:05:52:25 --> 00:05:54:03] Um pode estar alinhado,
+[00:05:54:05 --> 00:05:57:14] e o outro está um pouquinho desalinhado com o objeto.
+[00:05:57:14 --> 00:06:03:04] Isso faz com que você perceba um pouco melhor outra dimensão daquele objeto.
+[00:06:03:27 --> 00:06:09:29] Então, a projeção central ou cônica é a projeção que mais se assemelha à nossa visão.
+[00:06:10:11 --> 00:06:10:26] Por que?
+[00:06:10:29 --> 00:06:16:00] A gente tem um ponto aqui, um centro de projeção, que é determinado, ele é fixo.
+[00:06:17:04 --> 00:06:18:18] O objeto aqui...
+[00:06:19:15 --> 00:06:26:19] Ele está em uma relação, existe uma relação entre o objeto, o ponto de vista e a projeção.
+[00:06:27:03 --> 00:06:30:13] Então, o objeto está em determinada distância do plano de projeção aqui.
+[00:06:30:19 --> 00:06:31:17] Deixa eu tirar essa linha aqui.
+[00:06:32:18 --> 00:06:33:18] Eu quero esse A.
+[00:06:34:29 --> 00:06:36:24] Vou colocar ele mais para cá.
+[00:06:37:09 --> 00:06:40:28] O objeto está em determinada distância do plano.
+[00:06:42:00 --> 00:06:43:12] do centro de projeção.
+[00:06:44:05 --> 00:06:46:03] E quanto mais próximo...
+[00:06:47:04 --> 00:06:53:17] Quanto mais próximo ele fica do centro de projeção, menor ele fica, quanto mais distante, maior ele fica.
+[00:06:53:27 --> 00:06:56:18] Sendo que o vértice dessa...
+[00:06:57:24 --> 00:07:02:22] Dessa pirâmide aqui está no centro de projeção e a base dela é o plano.
+[00:07:03:11 --> 00:07:06:16] Então, geralmente, a gente utiliza esse tipo de projeção
+[00:07:06:16 --> 00:07:11:00] quando nós queremos enxergar o mais próximo da realidade.
+[00:07:11:08 --> 00:07:13:13] Mas, por mais que ele pareça intuitivo,
+[00:07:13:27 --> 00:07:17:19] não é esse tipo de projeção que, geralmente, nós vamos utilizar
+[00:07:17:19 --> 00:07:19:20] quando formos fazer desenhos técnicos.
+[00:07:20:01 --> 00:07:24:16] Geralmente, a que a gente utiliza é a projeção cilíndrica.
+[00:07:24:25 --> 00:07:27:12] E, no caso, existem duas projeções cilíndricas.
+[00:07:27:12 --> 00:07:28:29] a ortogonal
+[00:07:30:02 --> 00:07:36:03] que ela funciona como um cilindro ortogonal, onde todas as medidas são regulares aqui.
+[00:07:36:21 --> 00:07:40:12] Então, independentemente da distância que você esteja do plano,
+[00:07:40:27 --> 00:07:44:17] você sempre vai manter a mesma dimensão, por isso é ortogonal.
+[00:07:45:08 --> 00:07:51:19] E existe a ortogonal reta, que é essa ortogonal, e existe também a oblíquua.
+[00:07:51:24 --> 00:07:56:14] Existe a cilíndrica, que é a ortogonal, e a cilíndrica, que é oblíquua.
+[00:07:56:14 --> 00:08:03:02] No caso da cilindrica obliqua, o que nós temos é um centro de projeção inclinado
+[00:08:03:02 --> 00:08:05:12] em relação ao plano de projeção.
+[00:08:05:17 --> 00:08:09:29] Então, a gente tem aqui esse plano de projeção e o centro de projeção, o ponto de vista,
+[00:08:10:01 --> 00:08:11:14] está inclinado a ele.
+[00:08:11:21 --> 00:08:15:24] Isso acaba gerando uma diferença na projeção.
+[00:08:16:04 --> 00:08:19:03] A projeção não fica exatamente...
+[00:08:21:01 --> 00:08:26:20] paralela ao plano. Ela fica deslocada, porque o centro de projeção está inclinado.
+[00:08:26:29 --> 00:08:30:25] Nesses dois casos nós falamos que o centro de projeção é infinito,
+[00:08:31:00 --> 00:08:33:29] justamente porque as dimensões não mudam.
+[00:08:34:02 --> 00:08:37:09] Quando o centro de projeção é determinado ou fixo,
+[00:08:38:03 --> 00:08:46:04] a dimensão da projeção vai mudar de acordo com a distância com o objeto estado observador.
+[00:08:46:04 --> 00:08:52:02] No caso do centro de projeção infinito, a distância não muda, porque o que nós queremos aqui
+[00:08:52:02 --> 00:08:57:22] é justamente trabalhar a parte técnica do objeto, entender suas dimensões com exatidão.
+[00:08:57:29 --> 00:09:04:02] É por isso que aqui eu vou mostrar para vocês como nós trabalhamos a projeção cilíndrica ortogonal,
+[00:09:04:07 --> 00:09:10:09] que é essa onde a distância do observador não vai interferir na projeção.
+[00:09:11:03 --> 00:09:15:18] Basicamente, quando o Gaspar Monge criou a geometria descritiva,
+[00:09:15:18 --> 00:09:21:01] Ele criou através de uma metodologia chamada de dupla projeção ortogonal.
+[00:09:21:08 --> 00:09:23:28] Juan, você está trazendo mais nomes complicados.
+[00:09:24:04 --> 00:09:26:07] É só você lembrar aqui, olha.
+[00:09:27:07 --> 00:09:30:28] Ortogonal, ele está se referindo a esse tipo de projeção aqui.
+[00:09:31:23 --> 00:09:33:13] Por isso que se chama ortogonal.
+[00:09:33:18 --> 00:09:39:18] É uma projeção onde a dimensão não muda por causa da distância do centro de projeção,
+[00:09:39:21 --> 00:09:41:22] uma vez que o centro de projeção é infinito.
+[00:09:42:00 --> 00:09:43:14] Então por isso que se chama ortogonal.
+[00:09:43:14 --> 00:09:49:25] Horto significa certo, é igual a ortografia, ortografia significa grafia certa, ortogonal
+[00:09:49:25 --> 00:09:55:26] está relacionado a uma medida certa, você mantém a medida, mantém as dimensões e
+[00:09:55:26 --> 00:09:58:15] dependente da distância do centro de projeção.
+[00:09:58:28 --> 00:10:04:07] E aqui ele chama de dupla projeção, porque como você vai ver mais adiante, nós teremos
+[00:10:04:07 --> 00:10:10:07] pelo menos dois planos diferentes para poder projetar determinado objeto.
+[00:10:10:13 --> 00:10:11:18] Então bora lá, olha só.
+[00:10:11:18 --> 00:10:15:22] Aqui, apesar desse tanto de informação, o que a gente tem?
+[00:10:16:07 --> 00:10:26:16] Imagina que você tem dois planos diferentes, aqui tem um plano de maneira didática, vou
+[00:10:27:22 --> 00:10:29:02] O que eu fiz aqui?
+[00:10:29:13 --> 00:10:37:27] Eu peguei o plano A e coloquei na horizontal e alinhei o centro dele com o centro do plano B.
+[00:10:38:04 --> 00:10:39:25] Só que isso em perspectiva.
+[00:10:40:05 --> 00:10:45:22] Um jeito ainda mais didático de entender isso é a gente pensar no plano cartesiano.
+[00:10:45:26 --> 00:10:46:24] Então, olha só.
+[00:10:47:13 --> 00:10:48:22] Lembra lá do plano cartesiano.
+[00:10:48:23 --> 00:10:51:18] A gente tem eixo X e eixo Y.
+[00:10:52:04 --> 00:10:56:22] Horizontal é o eixo X, vertical é o eixo Y.
+[00:10:56:22 --> 00:11:03:20] e eu já mostrei para vocês também, tem aqui na diagonal o eixo Z, quando nós queremos
+[00:11:07:09 --> 00:11:11:13] dar profundidade de campo para o plano cartesiano.
+[00:11:11:21 --> 00:11:16:05] Aqui é basicamente a mesma coisa, é como se a gente tivesse um plano cartesiano e
+[00:11:16:05 --> 00:11:17:26] nós damos profundidade para ele.
+[00:11:18:02 --> 00:11:23:28] Ao invés de trabalhar com dois eixos, duas retas como o eixo, agora os eixos são
+[00:11:23:28 --> 00:11:30:12] dois planos. É por isso que se chama dupla projeção, porque nós estamos falando de,
+[00:11:30:15 --> 00:11:36:13] pelo menos, dois planos diferentes. E esses planos, assim como esses eixos, tem nomes.
+[00:11:36:19 --> 00:11:40:16] Quero começar aqui primeiro por esse nome aqui, que pode ser um pouco diferente para
+[00:11:40:16 --> 00:11:46:28] você à primeira vista. Diedro. O diédro é a mesma coisa que quadrantes. Aqui ó,
+[00:11:47:13 --> 00:11:51:04] lembra lá do plano cartesiano. A gente não tem os quadrantes, primeiro quadrante,
+[00:11:51:04 --> 00:11:54:00] segundo quadrante, terceiro quadrante, quarto quadrante.
+[00:11:55:09 --> 00:11:58:06] funciona da mesma forma que no plano cartesiano.
+[00:11:58:23 --> 00:11:59:26] Aqui, só muda o nome.
+[00:11:59:29 --> 00:12:02:06] Ao invés de quadrante, a gente chama de diédro.
+[00:12:02:10 --> 00:12:04:29] Então, a gente tem o primeiro diédro, o segundo diédro,
+[00:12:05:09 --> 00:12:07:09] o terceiro diédro e o quarto diédro.
+[00:12:07:16 --> 00:12:11:21] E aí, dentro desses diédros, nós temos o plano vertical,
+[00:12:12:24 --> 00:12:14:07] o plano horizontal,
+[00:12:15:07 --> 00:12:16:18] a linha de terra...
+[00:12:17:20 --> 00:12:20:16] que é essa linha aqui que separa os dois planos.
+[00:12:22:03 --> 00:12:25:22] Cada um desses planos aqui tem um nome também.
+[00:12:26:01 --> 00:12:32:04] Horizontal anterior, horizontal posterior, vertical superior, vertical inferior.
+[00:12:32:21 --> 00:12:33:06] Beleza?
+[00:12:33:09 --> 00:12:36:04] Então, esses são os nomes que a gente dá para cada um dos planos.
+[00:12:36:20 --> 00:12:42:03] E essa aqui é a base, esse aqui é o fundamento da geometria descritiva para a gente poder
+[00:12:42:03 --> 00:12:46:08] entender como nós vamos colocar coordenadas nos pontos.
+[00:12:46:16 --> 00:12:51:01] E por falar em coordenadas nos pontos, qual que é o próximo passo aqui, então?
+[00:12:51:01 --> 00:12:55:16] você tem os quadrantes, vocês vão ver aqui que naturalmente,
+[00:12:56:25 --> 00:13:00:12] no nosso dia a dia, quando vamos trabalhar a metodologia,
+[00:13:00:15 --> 00:13:02:17] a geometria descritiva,
+[00:13:02:27 --> 00:13:06:16] geralmente vamos trabalhar ela no plano positivo positivo,
+[00:13:06:21 --> 00:13:08:15] com unidades positivas.
+[00:13:08:25 --> 00:13:12:15] Para a gente que trabalha com design, que trabalha com projetos,
+[00:13:12:22 --> 00:13:15:11] geralmente a gente trabalha no primeiro diédro.
+[00:13:15:16 --> 00:13:17:08] São em casos muito específicos,
+[00:13:17:09 --> 00:13:19:25] geralmente quem trabalha com engenharia, física,
+[00:13:19:25 --> 00:13:23:06] que vão trabalhar nos outros três diédros.
+[00:13:23:09 --> 00:13:26:08] Para a gente, o primeiro diédro é mais do que suficiente
+[00:13:26:08 --> 00:13:28:18] porque ele contempla o mundo real
+[00:13:28:18 --> 00:13:31:03] e contempla as medidas que a gente precisa
+[00:13:31:03 --> 00:13:35:00] para poder representar um determinado objeto.
+[00:13:35:28 --> 00:13:39:13] Então, imagina que você quer representar aqui um ponto
+[00:13:40:00 --> 00:13:41:24] em uma coordenada.
+[00:13:41:28 --> 00:13:46:04] Lembrando aqui, antes de eu passar para a próxima prancheta
+[00:13:46:04 --> 00:13:48:15] das coordenadas, imagina o seguinte.
+[00:13:48:15 --> 00:13:50:25] Então, a gente vai trabalhar nesse espaço aqui.
+[00:13:51:01 --> 00:13:52:09] Imagina que você tem um ponto...
+[00:13:53:28 --> 00:14:03:00] determinado ponto, e ele pode ser posicionado aqui em qualquer coordenada dentro desse espaço.
+[00:14:03:13 --> 00:14:05:25] Então olha só, se a gente fosse seguir a linha, ele pode...
+[00:14:07:11 --> 00:14:16:02] para cá, no eixo x, ele pode vir para cá, no eixo y, pode subir no eixo z, pode subir
+[00:14:16:02 --> 00:14:21:14] no eixo y também, pode ficar lá no centro, no exato centro desses três objetos.
+[00:14:22:02 --> 00:14:23:02] Então, o que é o centro?
+[00:14:23:02 --> 00:14:23:20] Imagine que...
+[00:14:24:16 --> 00:14:27:24] que ele está exatamente no centro do quadrante aqui, ó.
+[00:14:29:10 --> 00:14:33:24] para ficar bem didático e mais fácil de você entender. Então, o que é o centro?
+[00:14:34:24 --> 00:14:38:00] bem no centro, como se isso aqui fosse um cubo
+[00:14:38:19 --> 00:14:41:21] e ele ficasse aqui no centro
+[00:14:43:05 --> 00:14:44:06] desse diédro.
+[00:14:44:23 --> 00:14:47:20] Então, a gente pode posicionar um ponto aqui em qualquer lugar.
+[00:14:47:26 --> 00:14:50:25] E, consequentemente, com mais de um ponto,
+[00:14:50:28 --> 00:14:52:20] a gente pode posicionar uma reta.
+[00:14:52:28 --> 00:14:56:03] Com pelo menos três retas, a gente pode posicionar um plano.
+[00:14:56:15 --> 00:14:58:03] E, com pelo menos três planos,
+[00:14:58:05 --> 00:15:00:13] nós podemos posicionar um sólido
+[00:15:00:13 --> 00:15:02:12] dentro desse diédro.
+[00:15:02:12 --> 00:15:05:14] Ok? Vamos ver então um pouco sobre as coordenadas de um ponto.
+[00:15:06:02 --> 00:15:09:14] Aqui vão aparecer vários nomes que talvez sejam novos para você,
+[00:15:09:20 --> 00:15:11:02] mas foca no conceito, beleza?
+[00:15:12:14 --> 00:15:17:05] Eu dividi os dois planos aqui em plano vertical e plano horizontal.
+[00:15:17:27 --> 00:15:19:29] Então, basicamente eles estavam assim, né?
+[00:15:20:02 --> 00:15:20:26] A gente viu eles assim.
+[00:15:21:08 --> 00:15:25:06] Eu separei para que didaticamente ficasse mais fácil de te explicar aqui.
+[00:15:25:16 --> 00:15:27:27] Então, imagina que a gente tem um plano vertical
+[00:15:27:27 --> 00:15:30:05] e temos um determinado ponto.
+[00:15:30:11 --> 00:15:33:09] Imagina que esse círculo aqui é um determinado ponto.
+[00:15:33:22 --> 00:15:36:21] Vou, inclusive, colocar essa reta aqui com outra cor
+[00:15:36:21 --> 00:15:37:26] para a gente não se confundir.
+[00:15:38:01 --> 00:15:39:19] Agora, ela quase sumiu ali, né?
+[00:15:40:28 --> 00:15:41:15] Então, olha só.
+[00:15:42:18 --> 00:15:43:20] Vou dar um zoom aqui.
+[00:15:44:10 --> 00:15:51:04] Nós temos um ponto A no espaço e ele tem uma certa distância até a sua projeção.
+[00:15:52:09 --> 00:15:54:08] Vou ter que deixar aqui porque tinha sumido.
+[00:15:55:25 --> 00:15:59:14] Então, ele tem uma certa distância até a sua projeção, certo?
+[00:15:59:17 --> 00:16:01:15] O ponto A, a projeção do ponto A.
+[00:16:01:18 --> 00:16:03:00] Posso até colocar de outra cor aqui?
+[00:16:05:07 --> 00:16:10:29] que funciona como uma sombra, nós estamos representando esse ponto A no plano vertical, beleza?
+[00:16:11:15 --> 00:16:14:28] E aí nós vamos chamar essa representação, essa projeção.
+[00:16:16:10 --> 00:16:23:02] 2. Geralmente, quando nós trabalhamos no plano vertical, nós elevamos a 2. Aqui, PV
+[00:16:23:02 --> 00:16:25:09] nada mais quer dizer do que plano vertical.
+[00:16:26:14 --> 00:16:28:10] essa distância que existe.
+[00:16:30:06 --> 00:16:34:21] até o plano vertical, nós chamamos de afastamento.
+[00:16:35:04 --> 00:16:40:28] Aqui nós temos um afastamento positivo porque nós estamos no primeiro diédro.
+[00:16:41:05 --> 00:16:45:22] Se nós estivermos no segundo diédro, como é o caso desse ponto B aqui,
+[00:16:46:01 --> 00:16:51:04] nós vamos dizer que ele tem um afastamento negativo, ok?
+[00:16:51:12 --> 00:16:54:19] Então, olha só, aqui a gente tem a representação desse ponto B no plano
+[00:16:54:19 --> 00:17:00:07] e essa reta aqui nos mostra o afastamento que existe desse ponto...
+[00:17:00:07 --> 00:17:02:04] Opa, ficou gigante aqui agora...
+[00:17:02:04 --> 00:17:06:19] Que existe desse ponto até a sua projeção, desse objeto aqui,
+[00:17:06:23 --> 00:17:09:22] b, até a sua projeção, p elevado a 2.
+[00:17:10:08 --> 00:17:13:24] Quando nós temos um objeto que está exatamente...
+[00:17:15:10 --> 00:17:20:19] plano está posicionado exatamente dentro do plano, nós falamos que ele tem um afastamento
+[00:17:20:19 --> 00:17:25:18] zero, ou seja, não tem distância nenhuma entre ele e a projeção dele mesmo no plano.
+[00:17:25:28 --> 00:17:32:09] Quando o objeto encosta no plano, um determinado ponto desse objeto está exatamente posicionado
+[00:17:32:09 --> 00:17:37:22] no plano e por isso tem um afastamento zero. Nesse caso a gente fala que C, opa,
+[00:17:37:28 --> 00:17:43:10] escrevi várias coisas ali, ficou em cinza, C é igual a C elevado a 2, ou seja, o objeto
+[00:17:43:10 --> 00:17:44:09] É igual.
+[00:17:45:15 --> 00:17:51:08] projeção, porque eles estão posicionados no mesmo lugar. Aqui eu coloquei decréscimo
+[00:17:51:08 --> 00:17:54:05] de afastamento, porque quanto mais pra esquerda...
+[00:17:55:08 --> 00:17:57:29] Quanto mais pra esquerda, quanto mais você sobe, diédro!
+[00:17:58:29 --> 00:18:06:11] mais negativo fica. No caso aqui da horizontal, o afastamento é o decréscimo de afastamento.
+[00:18:06:13 --> 00:18:12:20] Opa, falei de um jeito aqui que mais te confundiu. O afastamento é o decréscimo de afastamento,
+[00:18:12:24 --> 00:18:16:21] é sacanagem. Quando a gente tem um movimento da direita para a esquerda, nós temos um
+[00:18:16:21 --> 00:18:23:01] decréscimo de afastamento. Ou seja, ele vai de positivo até zero, aqui a gente tem
+[00:18:23:01 --> 00:18:30:01] centro que a gente tem zero e de zero ele se torna negativo quando ele entra no diétero 2, ok?
+[00:18:30:15 --> 00:18:35:29] Uma coisa importante para a gente entender, a gente trabalha esse nome afastamento apenas
+[00:18:35:29 --> 00:18:42:15] quando nós estamos falando de uma distância horizontal que existe do objeto com o plano
+[00:18:42:15 --> 00:18:48:28] vertical. Quando nós temos uma distância vertical, aí nós chamamos essa distância de...
+[00:18:50:07 --> 00:18:56:02] é como se fosse uma altura, porque aí, nesse caso, nós vamos estar falando de uma projeção
+[00:18:56:02 --> 00:19:01:22] no plano horizontal. Então, olha só, para não dar nó na cabeça. Aqui a gente entendeu
+[00:19:01:22 --> 00:19:08:10] a distância que pode existir de um ponto até um plano vertical. Nesse caso aqui agora,
+[00:19:08:20 --> 00:19:13:10] nós estamos entendendo a distância que existe de um ponto até o plano horizontal.
+[00:19:13:17 --> 00:19:17:27] É a mesma coisa que altura, só que na geometria descritiva nós chamamos isso
+[00:19:17:27 --> 00:19:24:13] de cota. E a lógica funciona do mesmo jeitinho, olha só. Aqui a gente tem uma cota positiva
+[00:19:24:13 --> 00:19:29:21] porque o objeto está no primeiro diadro, mas se nós passarmos aqui do plano e descermos
+[00:19:29:21 --> 00:19:33:14] para o quarto de hedro, aí a cota se torna negativa.
+[00:19:34:25 --> 00:19:40:29] Então, nós temos uma cota negativa quando nós ficamos abaixo de zero aqui dentro do plano.
+[00:19:41:08 --> 00:19:43:03] Então, nós temos aqui um objeto A
+[00:19:43:03 --> 00:19:46:04] e temos a representação desse objeto A
+[00:19:46:04 --> 00:19:49:05] aqui no plano horizontal, pH de plano horizontal.
+[00:19:49:18 --> 00:19:51:13] Nós temos um objeto C
+[00:19:51:13 --> 00:19:56:10] que está coincidente aqui na projeção C, a gente fala que C é igual a C₁,
+[00:19:56:17 --> 00:20:02:07] e possui uma cota zero, porque não tem nenhuma altura, nem positiva, nem negativa, por isso cota zero.
+[00:20:02:07 --> 00:20:10:07] e um objeto B, que está no quarto de hedro, mas a sua projeção está no plano horizontal.
+[00:20:10:25 --> 00:20:14:22] Então, a gente fala que o objeto B tem uma cota negativa.
+[00:20:15:03 --> 00:20:19:13] Quanto mais você desce, mais você tem um decréscimo de cota.
+[00:20:19:24 --> 00:20:25:28] Eu coloquei desse jeito aqui para que você entendesse de forma separada,
+[00:20:26:00 --> 00:20:31:18] porque na geometria descritiva a gente dá esses nomes para conseguir criar coordenadas.
+[00:20:31:18 --> 00:20:34:24] Ah, Juan, por que não chamou tudo do mesmo nome?
+[00:20:34:26 --> 00:20:36:28] Por que aqui não chamar afastamento também?
+[00:20:37:09 --> 00:20:39:24] Porque nós precisamos de coordenadas.
+[00:20:40:09 --> 00:20:43:06] Lembra que eu te falei do objeto que fica exatamente no centro?
+[00:20:43:18 --> 00:20:48:21] Você precisa de uma coordenada que esteja referente ao plano vertical e de uma coordenada
+[00:20:48:21 --> 00:20:52:02] que seja referente ao plano horizontal.
+[00:20:52:20 --> 00:20:55:14] Ah, mas por que a gente não chama então de altura e largura?
+[00:20:55:14 --> 00:21:03:19] Exatamente porque altura e largura já são os termos utilizados para definir a dimensão do objeto em específico.
+[00:21:03:24 --> 00:21:11:02] Então se você tem aqui um círculo que tem altura, uma altura y e uma largura x,
+[00:21:11:08 --> 00:21:12:28] nós estamos falando do objeto.
+[00:21:13:06 --> 00:21:18:05] Quando nós estamos falando da distância que existe do objeto até o plano,
+[00:21:18:15 --> 00:21:20:07] aí nós precisamos realmente de outro nome.
+[00:21:20:07 --> 00:21:23:04] É por isso que deu o nome de cota para essa altura
+[00:21:23:04 --> 00:21:26:19] e de afastamento para essa largura que existe.
+[00:21:27:03 --> 00:21:28:18] Nada mais é do que um espaço.
+[00:21:28:22 --> 00:21:31:24] O afastamento é um espaço e a cota também é um espaço
+[00:21:31:24 --> 00:21:34:18] de determinado plano, ok?
+[00:21:34:25 --> 00:21:38:04] Olha só, para você entender melhor, deixa eu te dar um exemplo aqui.
+[00:21:38:15 --> 00:21:40:13] Antes de eu te explicar o que é épora,
+[00:21:40:19 --> 00:21:42:08] imagine que nós temos um ponto,
+[00:21:43:00 --> 00:21:44:16] a gente tem um ponto aqui,
+[00:21:44:16 --> 00:21:50:08] e esse ponto está em determinado espaço nesse diédro.
+[00:21:50:13 --> 00:21:54:12] Então, a gente tem aqui plano vertical, plano horizontal, linha de terra.
+[00:21:56:07 --> 00:22:02:08] Então, para a gente entender qual que é a coordenada desse ponto nesse espaço,
+[00:22:02:23 --> 00:22:05:22] nós precisamos entender qual que é o tamanho da sua cota.
+[00:22:06:28 --> 00:22:12:28] Vou colocar aqui, ó, cota, a gente precisa entender qual que é o tamanho do seu afastamento.
+[00:22:13:10 --> 00:22:17:02] Então, com o afastamento e com a cota, nós conseguimos entender...
+[00:22:18:00 --> 00:22:20:10] Qual é a coordenada desse ponto?
+[00:22:20:24 --> 00:22:23:26] Ainda assim, vai faltar mais um elemento de coordenada aqui,
+[00:22:24:04 --> 00:22:27:11] mas eu vou deixar para inserir ele mais tarde. Vamos focar só nesse aqui por enquanto.
+[00:22:28:07 --> 00:22:31:03] Então, olha só. Imagine que esse retângulo aqui,
+[00:22:31:03 --> 00:22:34:09] olha só, ali ele está me falando que tem uma altura,
+[00:22:34:21 --> 00:22:37:06] agora eu estou pegando o objeto só para você entender.
+[00:22:37:24 --> 00:22:41:27] Ele me disse que esse objeto aqui tem uma altura de 125 por 200.
+[00:22:42:10 --> 00:22:46:05] Só que aqui a gente não pode chamar isso daqui de largura e isso daqui de altura,
+[00:22:46:05 --> 00:22:47:27] Porque o que é largura e altura?
+[00:22:48:03 --> 00:22:50:28] Largura e altura está no objeto, está aqui.
+[00:22:51:27 --> 00:22:57:08] Aqui no espaço nós precisamos falar de cota e afastamento.
+[00:22:57:20 --> 00:23:01:21] Então aqui a gente tem uma cota de 125 pixels,
+[00:23:02:11 --> 00:23:07:20] é a distância aqui do objeto no plano horizontal e temos um afastamento.
+[00:23:08:19 --> 00:23:09:26] 200 pixels.
+[00:23:11:01 --> 00:23:12:01] O que isso quer dizer?
+[00:23:12:08 --> 00:23:16:04] Está falando que essa distância aqui é de 125 pixels
+[00:23:16:04 --> 00:23:19:24] e essa distância aqui é de 200 pixels.
+[00:23:19:29 --> 00:23:21:14] Nada mais do que isso.
+[00:23:21:29 --> 00:23:25:02] E aí, para poder representar isso no espaço,
+[00:23:25:25 --> 00:23:26:24] foi desenvolvido...
+[00:23:26:24 --> 00:23:27:08] Opa!
+[00:23:27:13 --> 00:23:28:14] Foi desenvolvido...
+[00:23:29:24 --> 00:23:35:14] um plano diferente, para que a gente conseguisse representar de maneira bidimensional
+[00:23:35:14 --> 00:23:39:17] mais detalhes de determinado objeto.
+[00:23:40:08 --> 00:23:44:25] Então, eu quero que você imagine agora, imagine que a gente fez o seguinte movimento.
+[00:23:45:12 --> 00:23:50:04] Nós pegamos aqui o plano horizontal, eu vou adicionar aqui um ponto nele.
+[00:23:51:15 --> 00:23:55:16] Adicionar um ponto nele bem aqui e outro ponto nele bem aqui.
+[00:23:55:29 --> 00:23:59:14] Eu quero que você imagine que a gente pegou esse objeto aqui.
+[00:24:00:21 --> 00:24:02:23] e fez o seguinte movimento com ele.
+[00:24:03:08 --> 00:24:06:23] Nós fizemos uma rotação com ele aqui e descemos ele.
+[00:24:07:26 --> 00:24:08:10] Pra baixo.
+[00:24:09:12 --> 00:24:15:05] E você está observando esse objeto daqui,
+[00:24:15:28 --> 00:24:19:12] você está observando ele desse ponto de vista aqui.
+[00:24:21:23 --> 00:24:26:12] Então você está olhando para frente e você vê esse ponto de vista.
+[00:24:26:24 --> 00:24:32:27] Quando eu fiz essa rotação aqui, basicamente o que eu fiz foi descer o plano horizontal.
+[00:24:34:00 --> 00:24:38:15] aqui para baixo. Por que a gente faz isso? Para que a gente tenha uma visão...
+[00:24:39:15 --> 00:24:46:07] Aqui, uma visão plana desses dois planos aqui.
+[00:24:46:12 --> 00:24:49:01] Eu sei que ficou confuso, uma visão plana dos planos.
+[00:24:49:08 --> 00:24:50:24] Deixa eu encontrar outra palavra melhor.
+[00:24:51:06 --> 00:24:54:00] Uma visão frontal dos dois planos.
+[00:24:54:06 --> 00:24:58:09] E isso é interessante para que a gente consiga ter mais detalhes do objeto.
+[00:24:58:12 --> 00:24:59:21] Olha só que interessante aqui.
+[00:25:00:08 --> 00:25:06:08] No caso, aqui está falando que existe um afastamento, olha só, de 5.
+[00:25:07:12 --> 00:25:12:15] não especificou qual é a unidade de medida. Só tem 5. Então, eu vou pegar aqui 5 quadrados.
+[00:25:13:25 --> 00:25:16:23] e vou colocar aqui uma distância de 5.
+[00:25:18:24 --> 00:25:20:22] 3 de cota.
+[00:25:21:05 --> 00:25:24:18] Mas como é que eu sei que aqui é cota e aqui é afastamento?
+[00:25:24:29 --> 00:25:26:15] Por que que aqui é cota e aqui é afastamento?
+[00:25:27:03 --> 00:25:28:12] Lembra o que eu acabei de te falar?
+[00:25:29:07 --> 00:25:31:16] A gente pegou o plano horizontal e desceu.
+[00:25:32:02 --> 00:25:33:26] Então, essa linha aqui
+[00:25:34:17 --> 00:25:36:27] é exatamente a mesma dessa linha aqui.
+[00:25:37:05 --> 00:25:37:15] Então, olha só.
+[00:25:38:26 --> 00:25:40:03] Vou colorir as duas linhas.
+[00:25:42:19 --> 00:25:44:29] a mesma cor. Deixe-me pegar essa linha.
+[00:25:45:29 --> 00:25:47:20] Vou colorir ela com a mesma cor.
+[00:25:48:11 --> 00:25:50:05] Opa, colori o errado ali. Isso aqui não.
+[00:25:50:22 --> 00:25:53:07] Então, essa linha é a mesma linha dessa.
+[00:25:53:17 --> 00:25:55:14] A gente está falando do afastamento.
+[00:25:55:26 --> 00:25:58:01] Porque, basicamente, você consegue ver a perspectiva aqui.
+[00:25:58:13 --> 00:26:01:01] Basicamente, eu peguei esse plano e desci.
+[00:26:01:07 --> 00:26:02:10] Opa, peguei o errado aqui.
+[00:26:03:02 --> 00:26:06:25] Eu peguei o plano horizontal e rotacionei ele para cá.
+[00:26:07:04 --> 00:26:08:20] E mantive o plano vertical.
+[00:26:08:23 --> 00:26:11:02] Não rotacionei o plano vertical, só o plano horizontal.
+[00:26:11:02 --> 00:26:20:17] Então, quando eu fiz isso automaticamente, eu também rotacionei isso aqui e a projeção
+[00:26:20:17 --> 00:26:21:08] ficou aqui, tá vendo?
+[00:26:21:21 --> 00:26:23:04] Então, é o que nós estamos vendo.
+[00:26:24:07 --> 00:26:26:17] Essa linha é a linha de afastamento.
+[00:26:27:04 --> 00:26:32:07] A linha de cota, que é como se fosse a altura que esse objeto está, é essa daqui.
+[00:26:32:28 --> 00:26:38:14] No caso aqui, ficou bem explicado para a gente que a proporção que existe é
+[00:26:38:14 --> 00:26:41:23] um afastamento de 5 e uma cota de 3.
+[00:26:42:02 --> 00:26:47:07] E nós representamos esses dois elementos aqui nessa épura.
+[00:26:47:17 --> 00:26:52:29] Esse tipo de representação, com planos, nós chamamos de épura.
+[00:26:52:29 --> 00:26:57:08] e, no caso aqui, nós temos uma épura com dupla projeção.
+[00:26:57:28 --> 00:26:59:02] Mas agora, pensa comigo.
+[00:26:59:11 --> 00:27:00:08] Imagine que você...
+[00:27:01:07 --> 00:27:06:20] só uma coordenada que te fale o afastamento e a cota.
+[00:27:07:02 --> 00:27:09:27] Você também quer saber essa distância aqui,
+[00:27:10:01 --> 00:27:11:24] porque você quer trabalhar aqui em 360,
+[00:27:12:01 --> 00:27:14:16] você quer trabalhar uma tridimensionalidade.
+[00:27:14:29 --> 00:27:17:26] É por isso que nós adicionamos um terceiro plano,
+[00:27:18:04 --> 00:27:20:12] que nós chamamos de plano perfil.
+[00:27:21:20 --> 00:27:23:13] Como que funciona esse plano perfil?
+[00:27:23:16 --> 00:27:28:25] Nós pegamos um plano perpendicular e cortamos ele de maneira perpendicular.
+[00:27:30:02 --> 00:27:33:05] O plano horizontal e o plano vertical.
+[00:27:33:10 --> 00:27:36:07] Então, esse aqui é o plano de perfil.
+[00:27:36:17 --> 00:27:39:25] E eu sei que tem muita linha aqui, mas se a gente ir com calma, você vai entender.
+[00:27:40:04 --> 00:27:40:18] Olha só.
+[00:27:40:29 --> 00:27:43:13] Então, antes, o que a gente tinha era isso daqui.
+[00:27:44:10 --> 00:27:46:29] Deixa eu apagar aqui para você ver.
+[00:27:47:10 --> 00:27:50:09] Ó, antes a gente tinha isso daqui, dois planos, certo?
+[00:27:51:16 --> 00:27:56:14] e nós podíamos definir o afastamento dele e a cota dele.
+[00:27:56:19 --> 00:28:00:18] O afastamento do plano vertical e a cota do plano horizontal.
+[00:28:00:24 --> 00:28:02:01] Nós podíamos fazer isso.
+[00:28:02:18 --> 00:28:06:15] Na verdade, o afastamento do plano horizontal e a cota do plano vertical.
+[00:28:07:04 --> 00:28:10:28] Mas, se a gente quiser trabalhar também nesse eixo Z aqui,
+[00:28:11:19 --> 00:28:17:13] nós precisamos de um terceiro plano para que nós possamos fazer uma projeção do objeto.
+[00:28:17:13 --> 00:28:21:07] Isso aqui é uma projeção do objeto nesse outro plano.
+[00:28:21:19 --> 00:28:24:18] É por isso que existe o plano de perfil,
+[00:28:24:19 --> 00:28:27:22] para que a gente consiga ter também essa dimensão.
+[00:28:28:00 --> 00:28:29:15] E funciona da mesma forma.
+[00:28:29:20 --> 00:28:34:03] A diferença é que a distância que existe do objeto até o plano de perfil,
+[00:28:34:09 --> 00:28:35:18] nós chamamos de abscissa.
+[00:28:36:09 --> 00:28:40:16] Então, a gente tem o afastamento, a cota e a abscissa.
+[00:28:40:27 --> 00:28:42:06] São três nomes diferentes,
+[00:28:42:07 --> 00:28:44:27] porque nós estamos falando de três coisas diferentes.
+[00:28:44:28 --> 00:28:46:00] Isso é muito importante.
+[00:28:46:00 --> 00:28:49:28] você vai ver agora porque ao definir uma coordenada.
+[00:28:50:10 --> 00:28:53:15] Então, olha que interessante, se aqui a gente rotacionou...
+[00:28:54:11 --> 00:29:00:14] Para conseguir planificar essas coordenadas, o plano de perfil nós vamos fazer a mesma coisa,
+[00:29:00:16 --> 00:29:02:14] como se a gente rotacionasse ele aqui.
+[00:29:03:17 --> 00:29:05:27] para ter essa projeção.
+[00:29:06:12 --> 00:29:12:07] Então, o que temos é uma épora de tripla projeção aqui com plano vertical, plano horizontal.
+[00:29:13:26 --> 00:29:20:12] plano de perfil. E aí, agora, para definir uma coordenada, nós temos todas as informações
+[00:29:20:12 --> 00:29:25:21] que nós precisamos. Nós sabemos exatamente a distância que esse objeto está do plano
+[00:29:25:21 --> 00:29:31:09] horizontal, a distância que esse objeto está do plano vertical e também a distância
+[00:29:31:09 --> 00:29:36:21] que esse objeto está do plano de perfil, ou seja, nós temos x, nós temos y e nós
+[00:29:36:21 --> 00:29:45:25] temos z, ok? Esse zero aqui, olha, esse o significa centro. É o centro dos dois eixos
+[00:29:45:25 --> 00:29:48:20] aqui, ó. Então, a gente tem dois eixos diferentes e o centro.
+[00:29:49:25 --> 00:29:52:04] que é o centro dos três planos, ok?
+[00:29:52:12 --> 00:29:54:08] E olha só, no final que a gente tem, então,
+[00:29:54:09 --> 00:29:56:10] nós temos um determinado afastamento,
+[00:29:56:25 --> 00:29:58:19] nós temos uma determinada cota
+[00:29:58:19 --> 00:30:01:22] e temos uma determinada abscisa.
+[00:30:01:29 --> 00:30:05:05] E como que isso aqui funciona? Me explica melhor isso daí.
+[00:30:05:23 --> 00:30:09:19] Basicamente, para poder fazer essa projeção aqui,
+[00:30:09:26 --> 00:30:13:14] se você reparar, todos os três pontos aqui são projeções.
+[00:30:13:26 --> 00:30:16:20] Esse número que nós colocamos, esse elevado aqui,
+[00:30:16:20 --> 00:30:18:17] nos diz que é uma projeção.
+[00:30:18:22 --> 00:30:20:20] Então, nós temos um objeto A,
+[00:30:20:26 --> 00:30:24:01] nós temos aqui um A1, que é a projeção 1 no plano horizontal,
+[00:30:24:19 --> 00:30:27:02] A2, que é a projeção 2 no plano vertical,
+[00:30:27:11 --> 00:30:31:21] e A3, que é a projeção 3 no plano de perfil.
+[00:30:31:29 --> 00:30:32:02] Ok?
+[00:30:32:19 --> 00:30:35:26] Então, basicamente nós temos aqui apenas as projeções.
+[00:30:35:29 --> 00:30:38:02] Na épura, nós não representamos o objeto,
+[00:30:38:26 --> 00:30:41:01] nós desenhamos apenas as projeções.
+[00:30:41:23 --> 00:30:43:25] E, Juan, o que é essa linha aqui?
+[00:30:44:14 --> 00:30:46:11] O que é importante a gente entender, galera?
+[00:30:46:11 --> 00:30:52:03] A gente precisa entender que essa linha aqui, deixa eu fazer de outra cor aqui pra vocês.
+[00:30:53:27 --> 00:30:54:20] aumentado.
+[00:30:55:20 --> 00:30:59:14] Essa linha aqui é a mesma linha dessa.
+[00:31:00:10 --> 00:31:03:22] Nós fizemos um corte, nós estamos falando dessa linha aqui.
+[00:31:04:29 --> 00:31:08:20] Basicamente, o que a gente fez ao rotacionar isso aqui foi um corte.
+[00:31:08:23 --> 00:31:11:27] Nós passamos a tesoura aqui, e ao passar a tesoura aqui,
+[00:31:12:02 --> 00:31:16:12] nós conseguimos rotacionar esse plano, mas mantendo esse eixo aqui.
+[00:31:18:07 --> 00:31:22:03] Então, olha só, com outra cor agora, essa linha, é essa linha aqui.
+[00:31:23:12 --> 00:31:24:23] Aumentar a espessura também.
+[00:31:26:25 --> 00:31:28:09] Tem 2 ou 3, eu não sei.
+[00:31:29:05 --> 00:31:32:13] Essa linha é a mesma dessa, esse eixo é o mesmo desse.
+[00:31:33:00 --> 00:31:36:20] E esse eixo preto aqui é a linha de terra,
+[00:31:36:25 --> 00:31:38:26] que é a mesma desse daqui.
+[00:31:39:18 --> 00:31:42:19] Vou colocar uma terceira cor para a gente aqui.
+[00:31:43:04 --> 00:31:44:09] A linha de terra.
+[00:31:44:27 --> 00:31:46:16] E ela está aqui também.
+[00:31:46:29 --> 00:31:50:12] Basicamente, o que aconteceu aqui é um corte, nós fizemos um corte.
+[00:31:50:21 --> 00:31:55:28] E essa linha trasejada aqui está representando uma transferência de medida.
+[00:31:55:28 --> 00:31:57:27] Qual mais uma transcendência de medida, Juan?
+[00:31:59:08 --> 00:32:05:29] A gente sabe que existe a sabciz aqui, que é a distância do elemento até o plano de perfil.
+[00:32:06:08 --> 00:32:11:17] E nós marcamos ela aqui nessa linha, nesse eixo aqui, que é exatamente o eixo azul.
+[00:32:12:07 --> 00:32:18:08] E nós queremos transferir esse ponto para a mesma coordenada aqui.
+[00:32:18:15 --> 00:32:21:04] Então eles precisam estar na mesma distância.
+[00:32:21:11 --> 00:32:26:17] Para fazer isso, você pode fazer uma linha de 45 graus, que você vai conseguir chegar no lugar,
+[00:32:26:17 --> 00:32:30:07] ou você pode puxar o raio.
+[00:32:30:11 --> 00:32:35:19] Se você coloca o centro do círculo no centro dos dois eixos,
+[00:32:35:29 --> 00:32:37:17] você só precisa puxar o raio dele.
+[00:32:39:24 --> 00:32:43:20] para essa coordenada que você já marcou, para esse ponto que você já marcou
+[00:32:43:20 --> 00:32:47:05] e, automaticamente, ele já vai marcar do outro lado.
+[00:32:47:16 --> 00:32:50:21] Então, basicamente, o que a gente fez ali foi uma transferência de medida.
+[00:32:51:02 --> 00:32:56:10] Por isso que a gente tem essa linha tracejada, mostrando uma transferência de medida.
+[00:32:56:19 --> 00:32:58:17] E aqui, olha que interessante a coordenada.
+[00:32:59:01 --> 00:33:01:01] Basicamente, a coordenada está falando para a gente o seguinte.
+[00:33:01:11 --> 00:33:05:17] A gente tem uma abcisa menos 3... Por que a abcisa é menos 3?
+[00:33:05:17 --> 00:33:09:23] Esse terceiro plano aqui foi adicionado.
+[00:33:10:00 --> 00:33:13:07] Na verdade, você pode adicionar um plano em qualquer lugar, se você quiser.
+[00:33:13:20 --> 00:33:16:29] Você pode adicionar um plano cortando aqui o plano vertical.
+[00:33:18:05 --> 00:33:21:06] Esse plano de perfil, que é o mais comum, ele é clássico,
+[00:33:21:17 --> 00:33:26:08] ele foi adicionado aqui para que a gente tivesse uma visão de perfil
+[00:33:26:08 --> 00:33:28:16] do elemento que nós estamos trabalhando.
+[00:33:29:01 --> 00:33:30:23] Deixa eu tirar essas linhas coloridas aqui.
+[00:33:31:24 --> 00:33:33:27] Então, deixa eu até voltar ele para cá.
+[00:33:34:21 --> 00:33:36:00] Então, por ser um plano que...
+[00:33:38:19 --> 00:33:45:18] o plano vertical e o plano horizontal, nós falamos que ele tem uma medida negativa, ok?
+[00:33:45:29 --> 00:33:51:19] Então, a Beciza aqui é negativa, porque ela decresce, ela sai do eixo principal.
+[00:33:52:22 --> 00:33:55:23] E aí, a gente tem, então, uma precisa menos 3.
+[00:33:56:08 --> 00:34:00:14] Então, aqui também não tem unidade de medida, mas nós podemos trabalhar, então, com 3 quadrados.
+[00:34:01:16 --> 00:34:05:26] Se não tem homoridade de medida, vamos trabalhar com a proporção de 3 quadrados.
+[00:34:06:14 --> 00:34:11:16] Se a abscisa tem 3, nós temos aqui um afastamento de 3,5.
+[00:34:12:02 --> 00:34:13:18] Então deixa eu diminuir.
+[00:34:13:18 --> 00:34:13:20] E aí
+[00:34:14:25 --> 00:34:18:19] Vou colocar uma outra cor para visualizar isso.
+[00:34:20:06 --> 00:34:27:07] abscisa menos 3, nós temos um afastamento aqui, afastamento lembrando, nós representamos
+[00:34:27:07 --> 00:34:30:14] ele no plano horizontal, beleza?
+[00:34:31:04 --> 00:34:37:02] Então aqui nós temos um afastamento de 3,5, a gente precisa de mais meio, colocar aqui.
+[00:34:38:15 --> 00:34:45:09] meio quadrado, deu exatamente na linha, e uma cota que é representada no plano vertical
+[00:34:45:09 --> 00:34:49:21] está relacionada à altura do objeto, uma cota de 3.
+[00:34:50:03 --> 00:34:53:20] E quando eu falo que está relacionada à altura do objeto é para que seja didático
+[00:34:53:20 --> 00:34:59:04] para você, não está relacionado com a altura do objeto mesmo, está relacionado com a
+[00:34:59:04 --> 00:35:02:26] altura do objeto em relação ao plano horizontal, beleza?
+[00:35:03:06 --> 00:35:05:22] Por isso que nós chamamos de cota e não de altura.
+[00:35:05:22 --> 00:35:09:08] Então, qual é a coordenada desse ponto A?
+[00:35:09:12 --> 00:35:13:04] A coordenada do ponto A é menos 3, 3,5 e 3.
+[00:35:13:16 --> 00:35:18:07] Nós definimos uma coordenada nesse espaço em específico.
+[00:35:18:07 --> 00:35:19:23] Deixa eu apagar isso daqui agora.
+[00:35:20:26 --> 00:35:23:29] para você visualizar o todo de novo. Olha só.
+[00:35:25:02 --> 00:35:30:20] Basicamente, essa época aqui com três planos, com três projeções,
+[00:35:31:00 --> 00:35:33:27] é a mais clássica que você mais vai ver por aí.
+[00:35:34:05 --> 00:35:36:26] Você vai encontrar isso em manual de montagem de móveis,
+[00:35:37:06 --> 00:35:42:15] você vai encontrar isso para modelagem de personagem, de jogos e de animação,
+[00:35:42:27 --> 00:35:45:15] quando você tem a vista de frente, a vista de lateral,
+[00:35:45:26 --> 00:35:47:14] é o mesmo princípio, segue?
+[00:35:48:01 --> 00:35:51:27] O mesmo princípio da mesma forma lógica é a mesma, ok?
+[00:35:51:27 --> 00:35:57:29] Então, basicamente o que a gente fez aqui foi isso, nós demos alguns pontos de vista,
+[00:35:58:05 --> 00:36:02:22] colocamos alguns planos para que a gente compreenda melhor esse objeto.
+[00:36:03:13 --> 00:36:08:02] Talvez, você está assim, cara, mas isso tudo para localizar um ponto no espaço é
+[00:36:08:02 --> 00:36:10:08] porque o ponto é a menor unidade de medida.
+[00:36:10:22 --> 00:36:13:21] Vamos dar uma olhada aqui em como isso acontece com uma linha.
+[00:36:13:29 --> 00:36:16:29] Se a gente seque aqui vai ficar cada vez mais fácil de você entender.
+[00:36:17:03 --> 00:36:20:05] Então olha só, vamos fazer um estudo sobre as retas aqui.
+[00:36:21:04 --> 00:36:26:17] Diferente do ponto, a reta precisa de pelo menos dois pontos para que ela exista.
+[00:36:26:20 --> 00:36:28:14] Então, é uma distância entre dois pontos.
+[00:36:29:00 --> 00:36:33:15] Peça aqui comigo, você tem essa reta aqui, vou colocá-la com uma cor diferente.
+[00:36:34:13 --> 00:36:36:19] A gente vai chamá-la de reta AP.
+[00:36:38:06 --> 00:36:44:27] Essa reta B, quando a gente olha para a projeção dela em pH, ou seja, você está olhando de cima, beleza?
+[00:36:45:14 --> 00:36:48:12] Você está olhando a reta de cima.
+[00:36:50:13 --> 00:36:55:15] nós temos essa projeção aqui, uma projeção de reta inclinada.
+[00:36:55:25 --> 00:36:59:25] Mas olha como o ponto de vista influencia muito
+[00:36:59:25 --> 00:37:02:14] as informações que você tem de um objeto.
+[00:37:02:21 --> 00:37:05:14] E aqui a gente começa a entender a importância de tudo isso.
+[00:37:05:25 --> 00:37:09:29] Se você observa esse objeto azul aqui,
+[00:37:11:03 --> 00:37:15:06] nessa perspectiva, nesse ponto de vista, nesse centro de projeção aqui,
+[00:37:15:22 --> 00:37:18:15] o que você vai ver não é mais uma reta inclinada,
+[00:37:18:15 --> 00:37:25:20] mas uma reta horizontal, bem irregular. Nós temos essa representação bem aqui, olha, no plano vertical.
+[00:37:26:19 --> 00:37:30:14] E se você observa agora de frente aqui, olha...
+[00:37:31:12 --> 00:37:34:20] como se nós estivéssemos olhando para ela nessa direção aqui.
+[00:37:34:24 --> 00:37:35:21] Vou colocar de outra cor.
+[00:37:37:25 --> 00:37:41:13] Agora nós estamos enxergando nessa direção.
+[00:37:41:25 --> 00:37:44:21] Você também não vai ver uma reta inclinada.
+[00:37:45:01 --> 00:37:48:14] O que você vai ver, na verdade, é uma reta horizontal,
+[00:37:49:05 --> 00:37:52:10] que no caso está representado aqui para você.
+[00:37:52:25 --> 00:37:55:05] Então, o ponto de vista
+[00:37:55:05 --> 00:37:59:08] influencia muito as informações que você tem do objeto.
+[00:37:59:13 --> 00:38:00:19] Muito, muito, muito mesmo.
+[00:38:01:01 --> 00:38:03:01] É por isso que essa projeção,
+[00:38:03:02 --> 00:38:05:17] é por isso que a geometria descritiva é tão importante.
+[00:38:05:17 --> 00:38:10:28] Se a gente quer um projeto onde duas pessoas entendam exatamente a mesma coisa,
+[00:38:11:22 --> 00:38:15:02] se a gente muda a perspectiva e entrega apenas um ponto de vista,
+[00:38:16:04 --> 00:38:20:02] eu posso entender algo completamente diferente de você,
+[00:38:20:03 --> 00:38:23:01] justamente por causa desse ponto de vista.
+[00:38:23:15 --> 00:38:25:23] É por isso que a geometria descritiva é tão importante,
+[00:38:25:29 --> 00:38:29:03] porque ela nos dá essas informações que faltam, ok?
+[00:38:29:15 --> 00:38:33:15] Então, olha que interessante, a representação aqui basicamente foi essa.
+[00:38:33:21 --> 00:38:37:18] Nós temos o plano horizontal, representando aqui a vista de cima.
+[00:38:37:25 --> 00:38:43:21] Nós temos o plano vertical, representando o ponto de vista lateral aqui.
+[00:38:43:28 --> 00:38:45:25] E nós temos o plano de perfil,
+[00:38:45:25 --> 00:38:47:18] mostrando o ponto de vista frontal.
+[00:38:48:23 --> 00:38:49:23] como se fosse frontal.
+[00:38:50:12 --> 00:38:53:03] Na verdade, se a gente fala de perfil, o perfil é o lateral
+[00:38:53:03 --> 00:38:56:21] e o plano vertical aqui seria o frontal.
+[00:38:57:01 --> 00:39:01:07] Então, nós temos um ponto de vista superior, frontal e lateral
+[00:39:01:07 --> 00:39:03:03] sendo representados aqui.
+[00:39:03:13 --> 00:39:06:08] E, basicamente, com esses três planos aqui,
+[00:39:06:10 --> 00:39:07:18] com essas três projeções,
+[00:39:08:00 --> 00:39:10:07] nós conseguimos compreender o objeto
+[00:39:10:22 --> 00:39:13:04] no final, que é esse objeto azul aqui.
+[00:39:13:18 --> 00:39:15:05] Vamos dar uma olhada em um outro exemplo.
+[00:39:15:18 --> 00:39:17:28] Se nós temos esse exemplo agora, vou colocar
+[00:39:17:28 --> 00:39:25:01] aqui azul também. O que que mudou? O que mudou é que agora a reta não está inclinada, agora ela
+[00:39:25:01 --> 00:39:28:06] está paralela. Peraí que eu quero só...
+[00:39:29:03 --> 00:39:30:12] Traz ela para a frente, aí.
+[00:39:30:29 --> 00:39:34:08] A reta agora está paralela, está paralela com o plano vertical
+[00:39:34:08 --> 00:39:36:23] e está paralela com o plano horizontal.
+[00:39:37:11 --> 00:39:40:15] E por estar paralela com esses dois planos aqui,
+[00:39:41:03 --> 00:39:45:20] nós temos o que seria uma vista frontal dessa reta no plano de perfil.
+[00:39:45:29 --> 00:39:47:17] Então, ao invés de enxergar uma reta,
+[00:39:47:24 --> 00:39:49:02] nós enxergamos um ponto.
+[00:39:49:23 --> 00:39:52:18] É como se nós tivéssemos um cilindro, ok?
+[00:39:52:18 --> 00:39:55:06] Porque quando a gente fala de reta, não tem como enxergar o ponto.
+[00:39:55:08 --> 00:39:56:15] Então, a reta ficaria invisível.
+[00:39:56:27 --> 00:39:58:20] Mas pensa que você tem um cilindro aqui, ó.
+[00:39:58:20 --> 00:39:59:19] fazer um cilindro.
+[00:40:01:20 --> 00:40:03:00] Então, tem um lado dele...
+[00:40:04:02 --> 00:40:10:13] tem aqui o outro lado dele, beleza? E aqui o preenchimento dele.
+[00:40:11:22 --> 00:40:15:11] Beleza, aqui nós temos um cilindro, meu cilindro está bem...
+[00:40:16:17 --> 00:40:19:23] Tem que colocar aqui um pouco mais para cá, um pouco mais para cá.
+[00:40:21:23 --> 00:40:24:09] Então, nós temos esse cilindro, vou puxar para frente.
+[00:40:25:13 --> 00:40:30:14] Colocar assim. Legal, tá aí o nosso cilindro. Se você observa esse cilindro de cá.
+[00:40:31:23 --> 00:40:33:21] Você vai ver um retângulo.
+[00:40:33:27 --> 00:40:37:18] Beleza? Você enxergou ele exatamente de frente para ele assim.
+[00:40:37:22 --> 00:40:38:16] Você vai ver um retângulo.
+[00:40:39:02 --> 00:40:40:10] Vou até colocar o retângulo aqui.
+[00:40:41:13 --> 00:40:43:15] se você observar também.
+[00:40:44:23 --> 00:40:47:22] de cima, você vai ver outro retângulo.
+[00:40:49:09 --> 00:40:49:26] Certo?
+[00:40:50:17 --> 00:40:52:22] Agora, se você observar ele...
+[00:40:53:26 --> 00:40:54:23] de frente.
+[00:40:56:03 --> 00:41:00:24] que você vai ver é um circo, isso no caso do cilindro, que é um sólido.
+[00:41:01:28 --> 00:41:06:16] No caso da reta aqui, eu fiz uma representação para você compreender.
+[00:41:06:27 --> 00:41:11:28] Mas se fosse uma reta mesmo, no plano de perfil nós não veremos nada, porque não tem como ver um...
+[00:41:13:15 --> 00:41:16:19] Mas, só para você entender, vamos lidar com isso como se fosse um cilindro.
+[00:41:16:23 --> 00:41:20:13] Nós temos aqui, então, esse segmento de reta AB,
+[00:41:21:01 --> 00:41:23:26] e nós temos três projeções, a projeção no plano horizontal,
+[00:41:24:08 --> 00:41:28:11] a projeção no plano vertical e a projeção no plano de perfil.
+[00:41:28:20 --> 00:41:30:08] Aqui, o que mudou, olha só,
+[00:41:30:19 --> 00:41:35:29] nesses dois nós colocamos apenas A₁B₁ e A₂B₂, certo?
+[00:41:36:05 --> 00:41:38:18] Aqui nós colocamos A₃ igual a B₃.
+[00:41:38:25 --> 00:41:39:11] Por quê?
+[00:41:40:05 --> 00:41:46:20] porque os dois pontos, o ponto A quanto o ponto B, coincidem aqui, formam uma espécie de eclipse.
+[00:41:47:01 --> 00:41:50:11] Eles estão posicionados na mesma coordenada no plano de perfil.
+[00:41:50:16 --> 00:41:55:02] Por isso que a gente fala que eles são iguais, a gente representa os dois aqui.
+[00:41:55:08 --> 00:41:55:27] Dessa forma.
+[00:41:56:29 --> 00:42:00:05] Nós representamos, então, na épora da seguinte forma.
+[00:42:00:17 --> 00:42:05:02] Nós temos aqui, então, no plano horizontal, a reta, que está paralela com ele.
+[00:42:05:17 --> 00:42:10:15] Nós puxamos aqui essas linhas, então, que são linhas de...
+[00:42:11:18 --> 00:42:12:18] Linhas de suporte?
+[00:42:13:29 --> 00:42:19:24] A altura manteve a mesma, porque como não está inclinado, nós mantemos a mesma dimensão aqui.
+[00:42:19:25 --> 00:42:21:23] Não é nem altura, a mesma dimensão.
+[00:42:22:18 --> 00:42:28:26] Manteve a mesma e aqui nós puxamos então a relação com o plano de perfil.
+[00:42:29:03 --> 00:42:32:13] E aí olha só, aqui eu só fiz uma transferência de ponto, tá vendo?
+[00:42:32:19 --> 00:42:36:22] Transferi o ponto em 45 graus, ok?
+[00:42:37:10 --> 00:42:42:27] Na hora que você vai representar isso aqui, nossa, Rhonda, por onde eu começo para criar essa representação?
+[00:42:42:27 --> 00:42:46:21] Imagina que você tem lá a reta, beleza?
+[00:42:47:03 --> 00:42:49:17] Acho importante eu demonstrar para vocês aqui.
+[00:42:50:05 --> 00:42:52:11] Imagina que você tem a reta aqui.
+[00:42:52:24 --> 00:42:57:19] E essa reta, já deixaram claro para você o seguinte, já te deixaram claro que a
+[00:42:57:19 --> 00:43:03:12] cota é igual a 5, aqui eu não vou colocar unidade de medida não, tá bom?
+[00:43:03:13 --> 00:43:08:02] Vou colocar só assim, a cota é 5, o afastamento é igual a 5.
+[00:43:11:01 --> 00:43:12:10] abscisa também é igual...
+[00:43:12:28 --> 00:43:15:10] No caso aqui, abscisa é igual a 3.
+[00:43:16:22 --> 00:43:17:05] 3
+[00:43:18:28 --> 00:43:19:17] E agora, hum.
+[00:43:24:22 --> 00:43:28:11] Se eu colocar um quinto, colocar que é igual a dois, beleza?
+[00:43:33:27 --> 00:43:40:19] Aqui eu estou tentando imaginar uma proporção, uma relação desse espacinho com essa reta aqui.
+[00:43:40:21 --> 00:43:42:29] Quantas vezes que ele é maior? Vamos ver aqui.
+[00:43:43:09 --> 00:43:44:22] Duas vezes e meio maior.
+[00:43:44:27 --> 00:43:46:09] Então a gente teria que colocar...
+[00:43:46:09 --> 00:43:48:03] Eu vou arredondar então para 2, beleza?
+[00:43:48:04 --> 00:43:50:21] Vai ficar um pouquinho diferente, mas só para explicar para você.
+[00:43:51:01 --> 00:43:53:28] Então, te deram essas informações aqui.
+[00:43:54:04 --> 00:43:56:04] Te deram essas informações do ponto A.
+[00:43:56:16 --> 00:43:57:12] Ponto A...
+[00:43:59:26 --> 00:44:00:27] e do ponto B.
+[00:44:02:24 --> 00:44:04:27] te deram a seguinte informação.
+[00:44:05:20 --> 00:44:06:09] Então, espera aí.
+[00:44:06:14 --> 00:44:07:04] Aqui, ponto A.
+[00:44:08:23 --> 00:44:10:01] Cota 5.
+[00:44:11:05 --> 00:44:12:06] Uma...
+[00:44:13:19 --> 00:44:16:16] Um afastamento, 5 e 1.
+[00:44:17:21 --> 00:44:23:09] uma abscisa de 3, vou colocar 3, 1, 2, 3 e meio, né?
+[00:44:23:29 --> 00:44:24:27] De 3 e meio.
+[00:44:25:14 --> 00:44:27:08] E o ponto B tem uma abscisa de 1.
+[00:44:30:15 --> 00:44:31:02] O que é isso?
+[00:44:31:04 --> 00:44:31:22] Ronde abscisa?
+[00:44:31:26 --> 00:44:32:15] Não estou entendendo.
+[00:44:32:19 --> 00:44:34:12] Calma aí que eu vou te mostrar aqui agora.
+[00:44:35:27 --> 00:44:36:15] Olha só.
+[00:44:39:12 --> 00:44:41:00] Colocar aqui, assim.
+[00:44:44:00 --> 00:44:45:00] visualmente melhor.
+[00:44:47:15 --> 00:44:49:07] Então aqui ó, lembrando só você.
+[00:44:50:16 --> 00:44:52:29] Vou colocar aqui em escala macro.
+[00:44:54:02 --> 00:44:55:08] Esse é o ponto B.
+[00:44:56:20 --> 00:44:57:23] E esse é o ponto A.
+[00:44:59:15 --> 00:45:00:20] Olha só que interessante.
+[00:45:01:10 --> 00:45:03:05] Só com essas informações já dá para fazer,
+[00:45:03:08 --> 00:45:06:07] só que aqui a gente ainda tem o auxílio visual, então fica mais fácil ainda.
+[00:45:06:14 --> 00:45:09:13] Olha só, nós temos essa cota aqui...
+[00:45:12:01 --> 00:45:14:15] Essa cota que vale!
+[00:45:15:29 --> 00:45:18:00] Eita, colori onde eu não devia ter colorido.
+[00:45:19:19 --> 00:45:20:07] Vamos lá.
+[00:45:21:21 --> 00:45:23:17] Então, nós temos essa cota de A...
+[00:45:24:15 --> 00:45:27:17] que vale 5, esse afastamento.
+[00:45:28:21 --> 00:45:32:11] que vale 5 também, e nós temos essa abscisa aqui, ó.
+[00:45:34:00 --> 00:45:37:28] O que é que é a abscisa? A distância, aqui na verdade é a de cima, tá?
+[00:45:38:16 --> 00:45:43:07] Que é a distância do objeto ao plano de perfil, ok?
+[00:45:43:15 --> 00:45:46:12] Então, nós temos essa abscisa aqui, que aqui na verdade tá errado.
+[00:45:46:15 --> 00:45:51:08] Se isso daqui é 5 e isso daqui é 5, na proporção isso daqui seria 6, tá bom?
+[00:45:51:21 --> 00:45:54:25] Eu tinha colocado errado ali, vou colocar aqui 6.
+[00:45:55:26 --> 00:45:59:20] Porque 5 mais um pouquinho ali, que equivale a metade.
+[00:45:59:27 --> 00:46:02:20] Então, eu tô fazendo uma conta visual, por isso que eu tô...
+[00:46:02:20 --> 00:46:09:08] Eu estou estimando os valores aqui, coloquei 7 ali, acho que está mais próximo de 7.
+[00:46:09:19 --> 00:46:13:11] E essa daqui eu vou colocar 2, por que 2?
+[00:46:13:16 --> 00:46:17:17] Porque esse aqui tem 5 e a distância toda é 7, o que sobra é 2.
+[00:46:19:06 --> 00:46:21:19] 7 menos 5 dá igual a 2, ok?
+[00:46:22:21 --> 00:46:26:12] E aí, beleza, essas são as coordenadas do ponto A.
+[00:46:26:12 --> 00:46:36:11] do ponto B, o que nos foi dado é o seguinte, olha, cota 5, afastamento 5 e abscisa 2, beleza?
+[00:46:36:18 --> 00:46:43:09] Para representar isso daqui, como que a gente faz? Olha só, primeiro você desenha os eixos,
+[00:46:43:16 --> 00:46:49:06] você coloca aqui o eixo Y, o eixo X, define quais são os planos, então plano horizontal,
+[00:46:49:06 --> 00:46:55:24] plano vertical e plano de perfil, coloca aqui o 0, a letra O, de centro.
+[00:46:57:17 --> 00:47:01:03] E aí nós vamos então posicionar essa reta aqui.
+[00:47:01:11 --> 00:47:02:29] A primeira coisa que a gente precisa definir...
+[00:47:03:25 --> 00:47:08:08] esse 5 aqui. No caso, a gente vai definir a unidade de medida como...
+[00:47:09:22 --> 00:47:10:21] quadrado aqui.
+[00:47:12:04 --> 00:47:14:28] vai ser esse quadrado aqui, a nossa unidade de medida.
+[00:47:15:22 --> 00:47:17:28] Vou colocar ele com 20 pixels.
+[00:47:18:26 --> 00:47:21:12] Esse quadrado de 20 pixels é a nossa unidade de medida.
+[00:47:21:25 --> 00:47:24:00] Então, se eu falar que 5 quadrados desse...
+[00:47:26:09 --> 00:47:26:28] É a nossa!
+[00:47:28:29 --> 00:47:31:08] cota o nosso afastamento, por exemplo.
+[00:47:31:20 --> 00:47:33:26] No plano horizontal, nós trabalhamos...
+[00:47:34:26 --> 00:47:39:24] o afastamento. Então, aqui eu vou definir o afastamento. Eu vou aumentar esse quadrado aqui
+[00:47:39:24 --> 00:47:44:02] para ficar mais fácil de ver. Mas a unidade é a mesma, tá vendo? Olha, 5 quadrados.
+[00:47:45:08 --> 00:47:47:14] A primeira coisa que a gente identifica...
+[00:47:49:00 --> 00:47:50:29] o afastamento, beleza?
+[00:47:52:07 --> 00:47:55:06] Essa aqui é a linha do afastamento, já vou criar uma linha aqui.
+[00:47:56:20 --> 00:48:01:18] Outra coisa que a gente precisa definir é a abscisa, a abscisa é essa lateral aqui,
+[00:48:02:07 --> 00:48:07:27] Nós precisamos definir ela para que a gente posicione essa linha aqui nesse diédro.
+[00:48:08:08 --> 00:48:12:12] Então a gente sabe que a abscisa do primeiro ponto é 7, então eu vou adicionar aqui
+[00:48:12:12 --> 00:48:13:19] mais. Dois.
+[00:48:15:14 --> 00:48:20:05] quadrados e aí o ideal aqui né eu comecei fora da ordem o ideal é você começar na
+[00:48:20:05 --> 00:48:24:04] abcisa principalmente se você for fazer no caderno que você não pode sair riscando
+[00:48:24:04 --> 00:48:29:28] tudo você começa na abcisa vem cá e já marca na linha faz uma marcação clarinha
+[00:48:29:28 --> 00:48:37:23] de onde é a distância da abcisa depois você vem e adiciona a reta com a altura
+[00:48:37:23 --> 00:48:41:08] Então a gente encontramos já o ponto A. O ponto A está aqui, olha.
+[00:48:42:08 --> 00:48:43:18] com base nas coordenadas.
+[00:48:44:29 --> 00:48:48:09] Então, esse aqui é o ponto A. Agora, a gente precisa encontrar o ponto B.
+[00:48:49:15 --> 00:48:50:21] aqui no pH.
+[00:48:52:13 --> 00:48:55:15] Então a gente precisa definir o afastamento e a abscisa.
+[00:48:55:27 --> 00:48:59:20] Então olha só, o afastamento é 5 do mesmo jeito, só que a abscisa é 2.
+[00:49:00:02 --> 00:49:03:03] Então na verdade a reta é aqui, 2 de diferença.
+[00:49:03:21 --> 00:49:07:00] Então o ponto B está exatamente aqui, posso até colocar.
+[00:49:08:03 --> 00:49:08:18] A...
+[00:49:11:04 --> 00:49:16:06] aqui no caso A1, que nós estamos trabalhando a projeção no plano horizontal, beleza?
+[00:49:16:28 --> 00:49:18:14] A1 e P1.
+[00:49:20:06 --> 00:49:26:09] com base nas coordenadas. Agora a gente vai fazer a projeção desses dois pontos no plano
+[00:49:26:09 --> 00:49:33:12] vertical. Então olha só, a gente precisa da cota e da abscisa agora. A abscisa a gente
+[00:49:33:12 --> 00:49:38:13] já sabe que é 7. A cota aqui, tá falando que é 5. Então é uma cota do mesmo tamanho
+[00:49:38:13 --> 00:49:42:01] da cota daqui. Basicamente a gente pega aqui ó, 1, 2, 3.
+[00:49:42:29 --> 00:49:52:14] 5. Então a linha tem que vir até aqui. Como a gente já sabe que a cota é a mesma, eu coloquei a mesma ali pra poder simplificar, eu vou só alinhar ela.
+[00:49:54:04 --> 00:49:55:20] Espera aí... Opa, alinhei no errado.
+[00:49:57:02 --> 00:49:57:23] Ok, e aí?
+[00:49:59:27 --> 00:50:07:08] Beleza, então a gente chegou aqui, esse aqui é a projeção do ponto A no plano vertical.
+[00:50:07:11 --> 00:50:16:06] Então, vou colocar aqui A2, e nós temos aqui a projeção também, como a abscisa continua sendo 2 no ponto B,
+[00:50:16:14 --> 00:50:17:20] a gente define a projeção aqui.
+[00:50:20:00 --> 00:50:22:07] B2, que é a projeção do ponto B.
+[00:50:25:24 --> 00:50:32:09] no plano vertical. Então olha só que interessante, nós encontramos aqui então, com base nesses
+[00:50:32:09 --> 00:50:33:24] dois pontos, a gente encontra...
+[00:50:35:24 --> 00:50:42:07] A projeção da reta B no plano vertical, vou fazer ela aqui um pouco mais grossa.
+[00:50:43:17 --> 00:50:47:16] e a projeção da reta B no plano horizontal.
+[00:50:48:04 --> 00:50:49:25] Agora, tudo que a gente precisa fazer
+[00:50:50:12 --> 00:50:54:15] é a projeção dessa reta no plano de perfil.
+[00:50:54:25 --> 00:50:56:29] Para isso, a gente faz uma linha de construção aqui,
+[00:50:57:25 --> 00:51:00:11] uma linha de suporte, que vem até esse eixo.
+[00:51:00:22 --> 00:51:05:20] E agora eu preciso transferir essa medida para cá.
+[00:51:05:27 --> 00:51:09:22] Para isso, eu posso simplesmente criar uma linha em 45 graus aqui,
+[00:51:10:01 --> 00:51:11:08] aí já transferiu para mim.
+[00:51:11:15 --> 00:51:13:08] Eu poderia também criar o círculo aqui,
+[00:51:13:29 --> 00:51:16:15] regular, que aí o mesmo raio também daria ali.
+[00:51:17:20 --> 00:51:23:16] e eu preciso fazer a mesma transferência aqui, dessa cota para cá, tá vendo?
+[00:51:24:04 --> 00:51:27:11] Então, eu estou transferindo essa cota para essa distância aqui.
+[00:51:27:21 --> 00:51:31:19] Então, o ponto aqui no plano de perfil está exatamente
+[00:51:33:19 --> 00:51:35:29] na interseção entre esses dois pontos.
+[00:51:36:10 --> 00:51:39:12] Então, eu fiz dessa forma só para cortar aqui, você me entender,
+[00:51:40:09 --> 00:51:42:05] mas está exatamente aqui.
+[00:51:42:25 --> 00:51:45:14] Essa é a coordenada do ponto,
+[00:51:45:14 --> 00:51:53:00] tanto do ponto, na projeção aqui do ponto A3, quanto do ponto A3.
+[00:51:54:01 --> 00:51:56:10] D3, porque os dois...
+[00:51:57:18 --> 00:51:59:27] estão formando um eclipse aqui, lembra?
+[00:52:00:03 --> 00:52:01:18] Aqui, eles estão formando...
+[00:52:03:05 --> 00:52:07:14] Eclipse, eles estão posicionados nesse ponto de vista aqui.
+[00:52:09:20 --> 00:52:15:04] atrás do outro, o ponto B fica atrás do ponto A aqui, mas nós podemos posicionar ali.
+[00:52:15:11 --> 00:52:21:24] Então olha só, a gente representou essa reta nos três planos, beleza?
+[00:52:22:03 --> 00:52:25:28] Então eu fiz essa construção aqui pra você conseguir entender mais ou menos como que
+[00:52:25:28 --> 00:52:31:25] funciona as coordenadas e como que a partir das coordenadas a gente nem precisa disso
+[00:52:31:25 --> 00:52:34:22] aqui, nem precisa dessa parte aqui.
+[00:52:34:22 --> 00:52:42:08] Se você tem as coordenadas, você já consegue representar o objeto aqui.
+[00:52:42:20 --> 00:52:47:01] E também consegue, a partir das coordenadas, representar o objeto.
+[00:52:48:05 --> 00:52:53:06] também nessa perspectiva aqui, no caso aqui, uma perspectiva de 45 graus, beleza?
+[00:52:53:19 --> 00:52:57:02] Deixa eu te mostrar agora então como que funciona isso nos planos.
+[00:52:57:06 --> 00:53:02:05] A lógica é a mesma, por mais que existam mais linhas, a lógica não muda.
+[00:53:02:15 --> 00:53:04:21] Então olha só, vou colocar isso aqui de outra cor.
+[00:53:07:01 --> 00:53:11:11] só para separar isso das linhas de construção, beleza?
+[00:53:12:15 --> 00:53:17:25] Então, a gente tem um objeto, que esse triângulo é um plano, ou seja, ele não tem altura,
+[00:53:18:06 --> 00:53:24:22] não tem volume, ele tem largura e altura, mas não tem volume, por isso a representação
+[00:53:24:22 --> 00:53:30:24] dele é dessa forma, porque se a gente observa ele de cima, nós conseguimos ver o triângulo,
+[00:53:30:24 --> 00:53:36:16] Mas, se você observa ele aqui de lado ou de frente...
+[00:53:37:22 --> 00:53:39:24] Aí você vai ver apenas uma reta.
+[00:53:41:13 --> 00:53:43:01] Você vai conseguir enxergar apenas uma reta.
+[00:53:44:01 --> 00:53:49:13] Então, tanto no plano vertical, quanto no plano de perfil,
+[00:53:49:18 --> 00:53:52:25] a representação é apenas uma reta, mas no plano horizontal,
+[00:53:53:15 --> 00:53:56:26] nós temos aqui o triângulo, porque é visto de cima.
+[00:53:58:04 --> 00:54:00:14] Quando a gente olha um desenho cheio de linhas,
+[00:54:00:17 --> 00:54:01:24] o que a gente tem que se atentar?
+[00:54:02:16 --> 00:54:05:03] Nós temos que nos atentar aos pontos.
+[00:54:05:19 --> 00:54:07:24] A primeira coisa que você precisa identificar é o objeto,
+[00:54:08:12 --> 00:54:10:04] porque é sobre ele que nós estamos falando.
+[00:54:10:18 --> 00:54:12:05] Primeiro, você identifica o objeto.
+[00:54:12:05 --> 00:54:18:12] Depois que você identificou o objeto, você tem que identificar a abscisa, que é a distância
+[00:54:18:12 --> 00:54:23:02] do objeto no plano de perfil, você tem que encontrar o afastamento, que é a distância
+[00:54:23:02 --> 00:54:28:08] do objeto no plano vertical, e a cota, que é a distância do objeto no plano horizontal.
+[00:54:28:23 --> 00:54:31:25] É basicamente isso que você precisa identificar nessas linhas todas.
+[00:54:32:07 --> 00:54:36:28] A partir disso você consegue encontrar todos os outros pontos também e as respectivas
+[00:54:36:28 --> 00:54:37:17] projeções.
+[00:54:37:17 --> 00:54:40:28] Aqui no caso, olha, eu deixei as projeções de azul.
+[00:54:42:26 --> 00:54:45:26] o objeto de amarelo para você conseguir visualizar isso.
+[00:54:46:26 --> 00:54:51:12] Vamos complicar um pouquinho aqui? Vamos ver um estudo sobre os volumes, os sólidos?
+[00:54:52:00 --> 00:54:57:19] Olha só essa cadeira. Talvez agora você consiga até visualizar e entender por que isso tudo.
+[00:54:58:01 --> 00:55:01:03] Então, dá só uma olhada, que eu só vou tomar uma água aqui que eu estou precisando.
+[00:55:05:21 --> 00:55:11:23] Então olha só que interessante, se você observa de frente aqui ó, vou chamar de frente
+[00:55:11:23 --> 00:55:12:17] que é a ouro.
+[00:55:13:18 --> 00:55:16:26] o centro da projeção aqui, o ponto de vista.
+[00:55:18:14 --> 00:55:20:19] O objeto está de lado para você.
+[00:55:21:21 --> 00:55:26:15] Mas nessa vista, você consegue enxergar a silhueta dessa cadeira, olha.
+[00:55:27:20 --> 00:55:31:17] Essa é a vista que te dá mais informações sobre essa cadeira.
+[00:55:32:16 --> 00:55:35:13] Mas se você observa... de cima...
+[00:55:36:20 --> 00:55:40:01] é a vista que vai te dar menos informações sobre essa cadeira.
+[00:55:40:09 --> 00:55:43:03] Porque, olha só, você vai enxergar um retângulo...
+[00:55:44:19 --> 00:55:50:14] essa linha de cima aqui. Inclusive, olha só como que na representação do plano horizontal
+[00:55:51:00 --> 00:55:56:17] eu coloquei tracejado. Por que? Quando nós vamos trabalhar com desenho técnico, as linhas
+[00:55:56:17 --> 00:56:02:08] elas têm seus objetivos. Cada linha tem seu objetivo. Você não sai usando as linhas
+[00:56:02:08 --> 00:56:07:20] aesmo. Talvez você deve ter notado que no eixo eu coloquei traço e ponto, tá
+[00:56:07:20 --> 00:56:11:19] vendo? Porque sempre que você vai trabalhar a eixo, você faz uma linha de traço
+[00:56:11:19 --> 00:56:17:29] ponto. A linha que define as arestas visíveis é uma linha mais forte, por isso que essa
+[00:56:17:29 --> 00:56:21:24] linha branca que é a mais forte ela define as arestas. A linha mais fininha...
+[00:56:22:26 --> 00:56:28:17] A linha que é constante, que é regular, mas é fininha, nós usamos como linha de construção,
+[00:56:28:23 --> 00:56:31:27] é uma linha de suporte para te orientar, inclusive isso daqui tá...
+[00:56:33:14 --> 00:56:35:02] Tá muito bom, hein?
+[00:56:37:03 --> 00:56:38:07] Terei que vir pra cá, ó.
+[00:56:39:22 --> 00:56:40:18] que ficou errado.
+[00:56:41:23 --> 00:56:46:06] por algum motivo, não sei porquê, mas é bom que até a gente reconstrói aqui.
+[00:56:47:28 --> 00:56:51:15] Então, a gente tem essa linha aqui que é a linha de arestas,
+[00:56:51:22 --> 00:56:55:17] e as linhas tracejadas são de arestas não visíveis.
+[00:56:56:02 --> 00:57:02:29] Então, essa aresta existe, mas você não consegue vê-la nesse ponto de vista aqui, olhando de cima.
+[00:57:03:12 --> 00:57:08:00] Basicamente, essa linha aqui está representando essa aresta que fica aqui atrás,
+[00:57:08:11 --> 00:57:12:08] mas como você está olhando de cima, você não consegue ver,
+[00:57:12:20 --> 00:57:15:15] porque essa parte aqui está tampando aquela aresta.
+[00:57:16:14 --> 00:57:22:20] Então, olha só que interessante no caso dessa cadeira, nós temos esse ponto de vista aqui que não entrega tanta informação,
+[00:57:22:26 --> 00:57:29:23] mas ele também entrega informações importantes que essa daqui não entrega, como por exemplo, a largura dessa cadeira.
+[00:57:30:14 --> 00:57:36:03] A gente só tem a largura por causa desse ponto de vista ou também por causa desse ponto de vista.
+[00:57:36:14 --> 00:57:44:11] Mas olha só, esse ponto de vista entrega largura, mas não entrega profundidade, e esse daqui já entrega profundidade.
+[00:57:45:01 --> 00:57:50:28] Então, cada um entrega uma informação relevante, por isso que essas três vistas ajudam muito
+[00:57:50:28 --> 00:57:56:08] a entender o objeto, a entender as dimensões do objeto e trabalhar de forma mais técnica
+[00:57:56:08 --> 00:57:59:12] para que várias pessoas entendam da mesma forma.
+[00:57:59:23 --> 00:58:03:26] Aqui o que ficou errado foi o seguinte, olha, se eu vou fazer uma transferência
+[00:58:03:26 --> 00:58:10:05] de medida, essa medida vai dar aqui, então a distância daquele objeto ali está errada,
+[00:58:10:05 --> 00:58:14:04] é só corrigir ela olha só vou transferir aqui também
+[00:58:15:08 --> 00:58:17:20] E basicamente o que muda é aqui.
+[00:58:18:25 --> 00:58:21:06] a distância do afastamento.
+[00:58:22:04 --> 00:58:23:12] que basicamente...
+[00:58:24:18 --> 00:58:25:27] Precisa ficar alinhado.
+[00:58:27:02 --> 00:58:31:27] com essa medida aqui. Eu não fiz a linha, deixa eu fazer ela aqui, ó. Eu puxo essa linha...
+[00:58:33:01 --> 00:58:34:05] e puxo também.
+[00:58:35:23 --> 00:58:40:24] é essa linha. É aqui que o objeto precisa estar alinhado. Então, deixa eu desselecionar
+[00:58:40:24 --> 00:58:42:27] aqui agora e puxar ele para cá.
+[00:58:45:27 --> 00:58:48:16] Ainda tenho que puxar mais aqui. Deixa eu só...
+[00:58:49:12 --> 00:58:51:01] Seleciona no y
+[00:58:53:19 --> 00:59:01:14] colocar exatamente aqui. Aí aqui deu diferença, porque a altura aqui no caso, a largura aqui
+[00:59:01:14 --> 00:59:06:03] no caso precisa ser essa. É por isso que a gente faz a transferência de medida, tava
+[00:59:06:03 --> 00:59:11:26] errada ali por algum motivo, acho que eu mexi e esqueci de corrigir. Agora sim ficou
+[00:59:12:14 --> 00:59:14:28] correto. Beleza? Então dá só uma olhada.
+[00:59:16:00 --> 00:59:18:18] Geralmente, quando a gente observa isso nos sólidos,
+[00:59:18:24 --> 00:59:21:15] fica mais fácil de entender essas vistas
+[00:59:21:15 --> 00:59:24:20] e por isso que é tão importante e faz muita diferença.
+[00:59:25:05 --> 00:59:29:23] Na hora de entender o desenho técnico em outros projetos diferentes
+[00:59:29:23 --> 00:59:32:21] e também quando você precisa representar isso,
+[00:59:32:23 --> 00:59:34:21] vai fazer uma fachada, vai fazer uma embalagem,
+[00:59:35:01 --> 00:59:37:26] você pode representar isso a partir das três vistas,
+[00:59:37:27 --> 00:59:40:29] usando a épura para representar as três vistas,
+[00:59:41:18 --> 00:59:44:14] de plano de perfil, plano vertical e plano horizontal.
+[00:59:44:14 --> 00:59:47:17] Ou assim, dá para você ter uma noção do todo, ou quase do todo.
+[00:59:48:02 --> 00:59:51:15] Esse modelo aqui é o mais simples e o meu objetivo aqui
+[00:59:51:15 --> 00:59:54:17] foi te mostrar, te apresentar esse universo,
+[00:59:54:21 --> 00:59:57:00] porque muitos designers nem sabem que isso existe.
+[00:59:57:17 --> 00:59:59:01] Mas isso é muito importante
+[00:59:59:01 --> 01:00:01:21] e está vinculado inclusive com as regras de ABNT,
+[01:00:02:11 --> 01:00:04:09] essas linhas que eu mostrei aqui para vocês.
+[01:00:06:04 --> 01:00:08:23] São regras que quando você vai projetar,
+[01:00:08:23 --> 01:00:10:09] você vai criar um blueprint, por exemplo,
+[01:00:10:18 --> 01:00:13:15] você precisa fazer da forma correta.
+[01:00:13:15 --> 01:00:19:21] Ok? Então, aqui eu mostrei para vocês em três planos, então aqui a gente teve a dupla
+[01:00:19:21 --> 01:00:24:12] projeção e a tripla projeção com três planos, mas dá para fazer isso até seis planos,
+[01:00:24:14 --> 01:00:33:13] como um cubo também, quando você precisa detalhar cada um dos seis lados de um determinado
+[01:00:33:13 --> 01:00:39:19] objeto. Normalmente, três lados é mais do que suficiente, você coloca as arestas
+[01:00:39:19 --> 01:00:44:28] são invisíveis, você representa elas, porque nem sempre todos os planos vão ter todas
+[01:00:44:28 --> 01:00:46:16] informações que você precisa.
+[01:00:48:08 --> 01:00:52:26] Mas, geralmente, cada plano tem uma informação necessária e com esses três planos você
+[01:00:52:26 --> 01:00:55:16] já consegue compreender o objeto.
+[01:00:55:26 --> 01:00:59:11] Mesmo assim, eu não vou deixar você também de mãos vazias, é por isso que eu tenho
+[01:00:59:11 --> 01:01:03:11] algumas indicações para te fazer logo, logo, caso você queira se aprofundar nesse
+[01:01:03:11 --> 01:01:03:23] assunto.
+[01:01:03:23 --> 01:01:04:06] Ok?
+[01:01:04:17 --> 01:01:09:21] Mas antes de indicar isso para você, é legal eu te falar sobre um outro método.
+[01:01:09:26 --> 01:01:14:17] Eu não vou apresentar esse método aqui, mas é legal eu te falar que ele existe.
+[01:01:14:20 --> 01:01:19:03] Além do método de Gaspar Monge, que é o que eu te mostrei aqui agora, da dupla
+[01:01:19:03 --> 01:01:24:24] projeção ortogonal e da tripla projeção ortogonal usando o plano de perfil, existe
+[01:01:24:24 --> 01:01:27:05] também um método de representação do Felipe Buache.
+[01:01:27:16 --> 01:01:31:27] Mas esse eu vou deixar para você pesquisar, vou deixar para a sua curiosidade e conta
+[01:01:31:27 --> 01:01:32:08] própria.
+[01:01:32:08 --> 01:01:37:02] Olha só, só uma tabelinha aqui para não deixar passar batido com os tipos de linha.
+[01:01:37:09 --> 01:01:41:17] Então, ó, contínua larga é a linha de aresta e contorno visível, que eu te mostrei.
+[01:01:42:02 --> 01:01:48:03] A contínua estreita é para a linha auxiliar, de chamada, linha de cota, rachura, linha
+[01:01:48:03 --> 01:01:48:27] de construção.
+[01:01:49:24 --> 01:01:55:09] A linha tracejada estreita é para aresta e contornos que são invisíveis e o traço
+[01:01:55:09 --> 01:02:00:05] e ponto é a linha de centro ou linha de eixo de simetria, ok?
+[01:02:00:05 --> 01:02:05:07] Se você vai fazer um círculo, você precisa mostrar o eixo de simetria desse círculo, você usa também.
+[01:02:07:11 --> 01:02:07:21] Ok?
+[01:02:07:21 --> 01:02:10:18] Existem várias outras linhas diferentes também.
+[01:02:10:28 --> 01:02:16:25] Se você quiser saber mais sobre elas, coloque normas da BNT, desenho técnico, e aí você
+[01:02:16:25 --> 01:02:17:18] vai encontrar mais.
+[01:02:17:22 --> 01:02:22:02] Aqui o meu objetivo foi te mostrar que isso existe e que se você for trabalhar em projetos
+[01:02:22:02 --> 01:02:28:15] de sinalização, embalagem ou até mesmo se você quiser uma técnica que facilite
+[01:02:28:15 --> 01:02:33:18] você criar mockups tridimensionais, eu precisava te apresentar que isso existe.
+[01:02:33:18 --> 01:02:38:29] E agora, caso você queira aprofundar seus estudos, eu tenho aqui três livros para poder
+[01:02:38:29 --> 01:02:40:03] te indicar.
+[01:02:40:10 --> 01:02:45:01] Vale lembrar que a GG não existe mais, infelizmente a editora não existe mais.
+[01:02:45:04 --> 01:02:49:27] E esse livro aqui é um livro bem antigo, então representação gráfica para desenho
+[01:02:49:27 --> 01:02:55:21] e projeto é um livro de 2001 e talvez você não encontre ele na Amazon para comprar.
+[01:02:56:06 --> 01:03:00:22] Existe uma editora que agora está produzindo os livros da GG que chama Olhares, talvez
+[01:03:00:22 --> 01:03:02:23] você encontre lá esse livro.
+[01:03:02:23 --> 01:03:05:07] não quer dizer que você vai encontrar, mas talvez você encontre.
+[01:03:05:15 --> 01:03:11:03] É um bom livro, vai te apresentar muitos desses conceitos que eu te mostrei aqui hoje
+[01:03:11:03 --> 01:03:15:27] e outros ainda mais avançados, mas caso você não encontre esse, você também pode
+[01:03:15:27 --> 01:03:18:17] seguir no Geometria Descritiva de Gil do Monte Negro.
+[01:03:19:02 --> 01:03:23:08] Esse aqui é o volume 1, tem outros volumes também, é da Blusher, mas é um livro
+[01:03:23:08 --> 01:03:27:29] que vai te dar muitos mais exemplos que eu dei aqui e vão te ajudar a se aprofundar
+[01:03:27:29 --> 01:03:31:29] ainda mais na Geometria Descritiva, caso esse seja o seu objetivo.
+[01:03:31:29 --> 01:03:38:05] E esse terceiro, Expressão Gráfica, também trata da geometria descritiva e também de
+[01:03:38:05 --> 01:03:43:05] tipos de desenhos geométricos, então ele contempla não só essa aula, mas também
+[01:03:43:05 --> 01:03:46:25] a última aula que nós tivemos de geometria plana.
+[01:03:47:00 --> 01:03:49:25] Então também é um excelente livro que eu recomendo para vocês.

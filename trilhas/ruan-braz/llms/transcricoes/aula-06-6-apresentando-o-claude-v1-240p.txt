@@ -1,0 +1,343 @@
+# Video: 6._apresentando_o_claude_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 09:45
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:02 --> 00:00:01:02] Trazer aqui o Cloud.
+[00:00:01:07 --> 00:00:02:20] Já estou aqui, olha, no gratuito.
+[00:00:02:20 --> 00:00:03:14] Não estou no pago.
+[00:00:03:14 --> 00:00:05:01] Criei uma conta para te mostrar do zero.
+[00:00:05:11 --> 00:00:08:08] No gratuito eu posso utilizar o Sone e o Raico.
+[00:00:08:12 --> 00:00:09:28] Na verdade o Raico é só no Pro, né?
+[00:00:10:01 --> 00:00:10:21] Só no Pro.
+[00:00:10:22 --> 00:00:12:03] Posso usar o Sone 3.7.
+[00:00:12:08 --> 00:00:15:10] Só que meus créditos aqui, eles vão acabar muito rápido, tá?
+[00:00:16:15 --> 00:00:18:21] Logo de cara nessa tela, apresentar para você,
+[00:00:18:23 --> 00:00:21:25] você já pode aqui escolher algumas possibilidades,
+[00:00:21:25 --> 00:00:26:07] como escrever, aprender, código, assuntos pessoais ou escolha do Cloud.
+[00:00:26:11 --> 00:00:28:01] Quando eu clico em algum desses, por exemplo,
+[00:00:28:01 --> 00:00:32:24] por exemplo ele já me dá ideias aqui de como eu posso trabalhar com ele é então
+[00:00:32:24 --> 00:00:36:20] vamos programar juntos numa vibe legal inclusive isso aqui se tornou
+[00:00:38:08 --> 00:00:43:00] o novo processo de programação, que é o Vibe Coding.
+[00:00:44:16 --> 00:00:49:00] Então, olha, claro, podemos programar juntos, beleza, ele está começando o processo aqui da conversa.
+[00:00:49:08 --> 00:00:52:23] Só que eu quero voltar aqui no bate-papo inicial e mostrar para vocês outras coisas.
+[00:00:52:27 --> 00:00:58:16] Eu posso subir arquivos, então eu posso puxar arquivos do GitHub, no GPT não dá para fazer isso,
+[00:00:58:18 --> 00:00:59:25] isso é uma vantagem aqui no Cloud.
+[00:00:59:28 --> 00:01:02:29] Vocês vão ver que o Cloud é mais utilizado pela comunidade de devs,
+[00:01:02:29 --> 00:01:08:29] porque ele traz um... a capacidade de código do Cloud é superior, é muito melhor.
+[00:01:09:03 --> 00:01:13:21] Nós vamos fazer aquele teste ali do microsite ali, vocês vão ver com o enigmazinho,
+[00:01:13:21 --> 00:01:15:22] vocês vão ver como ele funciona melhor. Posso tirar
+[00:01:15:22 --> 00:01:17:21] print da tela ou fazer upload de um arquivo.
+[00:01:18:02 --> 00:01:20:00] Além disso, eu posso configurar um estilo
+[00:01:20:00 --> 00:01:21:28] aqui também, um tom de voz. Dá pra
+[00:01:21:28 --> 00:01:23:23] fazer isso direto no prompt, tanto aqui quanto
+[00:01:23:23 --> 00:01:25:20] no GPT, mas a ideia
+[00:01:25:20 --> 00:01:27:22] é que ele dedicou um espaço
+[00:01:27:22 --> 00:01:29:23] só pra isso, pra que isso não fique aqui no
+[00:01:29:23 --> 00:01:31:25] prompt e você consiga dedicar. E o legal
+[00:01:31:25 --> 00:01:33:20] é que ele já vem com quatro estilos aqui, tons
+[00:01:33:20 --> 00:01:34:01] de voz
+[00:01:36:14 --> 00:01:37:23] prontos, mas você pode criar o seu
+[00:01:37:23 --> 00:01:39:19] e é bem fácil. Então ele já vem aqui
+[00:01:39:19 --> 00:01:41:20] com esses pré-definidos. E aí ele fala
+[00:01:41:20 --> 00:01:45:13] Olha, ele escolhe entre estilos pré-definidos ou cria o seu próprio personalizado para ajustar elementos da resposta.
+[00:01:45:20 --> 00:01:47:00] Então, eu vou criar meu próprio estilo aqui.
+[00:01:47:07 --> 00:01:51:02] Eu posso vir aqui e adicionar exemplo de escrita ou eu posso descrever um estilo.
+[00:01:51:14 --> 00:01:55:17] Vou colocar para descrever e eu vou colocar aqui, ó, estilo marrento.
+[00:01:55:17 --> 00:01:56:28] Aquele lá, o mesmo estilo.
+[00:01:57:23 --> 00:02:02:03] Fala a verdade na cara sem medo.
+[00:02:02:07 --> 00:02:03:29] Só que agora eu vou colocar uma pitadinha.
+[00:02:05:08 --> 00:02:06:01] Igual os manos.
+[00:02:07:22 --> 00:02:08:08] Lá de SP
+[00:02:13:04 --> 00:02:13:15] Pode ir P.
+[00:02:15:21 --> 00:02:17:04] O cara chega...
+[00:02:19:12 --> 00:02:19:21] Bimba!
+[00:02:21:23 --> 00:02:24:29] Aí tem aqui, ó, a partir de um ponto inicial ou descrevendo.
+[00:02:24:29 --> 00:02:26:09] Eu vou gerar aqui a partir desse.
+[00:02:30:11 --> 00:02:31:04] Ele vai gerar para mim.
+[00:02:31:07 --> 00:02:33:16] Dá para fazer o prompt melhor, ele vai ficar melhor.
+[00:02:33:19 --> 00:02:36:11] Mas ele colocou aqui, comunicado de forma direta, autêntica e desafiadora
+[00:02:36:11 --> 00:02:38:06] com a energia crua das ruas de São Paulo.
+[00:02:38:21 --> 00:02:40:01] E aí, o que eu faço com isso?
+[00:02:40:06 --> 00:02:42:14] Eu posso ver uma prévia aqui, para ver se funciona.
+[00:02:42:19 --> 00:02:46:03] Então, por exemplo, colocar aqui, conteúdo educacional.
+[00:02:46:07 --> 00:02:48:16] Explique por que o céu muda de cor no pôr do sol.
+[00:02:48:27 --> 00:02:50:19] Vamos ver o tom que ele vai tomar para isso aqui.
+[00:02:53:19 --> 00:02:55:13] Mano, o bagulho do pôr do sol é massa.
+[00:02:55:20 --> 00:02:58:25] Quando o sol vai descendo, os raios de luz atravessam mais a atmosfera.
+[00:02:58:27 --> 00:03:00:03] Tipo um rolê mais longo.
+[00:03:00:22 --> 00:03:03:22] Essa viagem faz a luz se espalhar diferente, saca?
+[00:03:03:22 --> 00:03:05:25] Tá vendo? Já ficou mais nesse estilo aqui.
+[00:03:07:08 --> 00:03:09:26] Aí eu posso renomear, apagar ou editar manualmente também.
+[00:03:10:02 --> 00:03:14:02] Aí eu venho aqui no prompt que ele criou a partir da minha descrição, edito ele.
+[00:03:14:10 --> 00:03:16:04] E aí, beleza, depois eu posso salvar.
+[00:03:16:06 --> 00:03:18:02] Quando eu venho aqui, olha, Mano Verdade.
+[00:03:18:10 --> 00:03:19:26] Volto para cá, eu tenho o Mano Verdade.
+[00:03:19:26 --> 00:03:23:20] Agora, quando eu estiver escolhendo aqui, eu posso escolher o Mano Verdade para responder.
+[00:03:24:05 --> 00:03:27:19] E aí ele vai trabalhar comigo dentro desse processo, tá bom?
+[00:03:27:20 --> 00:03:29:06] Então, essa é a primeira configuração legal.
+[00:03:29:17 --> 00:03:32:16] O Cloud também te permite criar projetos.
+[00:03:32:18 --> 00:03:35:16] Como eu estou no gratuito aqui, eu não vou conseguir criar.
+[00:03:35:16 --> 00:03:38:22] Então eu vou puxar aqui o Cloud.
+[00:03:40:24 --> 00:03:42:20] Vou puxar meu Cloud Pago aqui para vocês.
+[00:03:43:12 --> 00:03:45:07] Então está aqui, rapidinho, só para mostrar.
+[00:03:46:00 --> 00:03:47:20] Aqui do lado tem projetos.
+[00:03:47:20 --> 00:03:49:15] Eu clico lá e posso criar novos projetos.
+[00:03:49:15 --> 00:03:51:04] Quando eu crio um projeto, eu dou um nome para ele.
+[00:03:51:06 --> 00:03:53:02] Por exemplo, Projeto 83.
+[00:03:53:18 --> 00:03:57:09] Posso colocar uma descrição sobre esse projeto e salvo.
+[00:03:57:13 --> 00:03:59:06] Agora, deixa eu aumentar aqui para ficar melhor.
+[00:04:01:08 --> 00:04:04:27] Agora eu posso configurar aqui uma instrução específica para esse projeto.
+[00:04:05:03 --> 00:04:09:15] Então sempre que eu conversar com ele dentro desse projeto, ele vai agir da forma que eu pedi ele aqui.
+[00:04:09:29 --> 00:04:14:27] Além disso, eu posso subir arquivos carregando ele do aparelho, do GitHub, do Google Drive,
+[00:04:15:02 --> 00:04:17:20] ou eu posso subir texto no Ctrl-C e Ctrl-V.
+[00:04:17:24 --> 00:04:18:27] Então eu vou dar um exemplo para vocês.
+[00:04:19:00 --> 00:04:22:09] Vamos supor que o projeto 83 é de uma mercearia que eu estou trabalhando aqui.
+[00:04:23:24 --> 00:04:25:26] Estou trabalhando... Não, eu vou fazer aqui mais fictício.
+[00:04:25:26 --> 00:04:32:22] Vamos criar um briefing fictício de uma padaria do futuro.
+[00:04:33:13 --> 00:04:34:29] Eu sempre trago a padaria, né?
+[00:04:35:11 --> 00:04:36:23] Já virou até meme aqui.
+[00:04:36:25 --> 00:04:37:24] Aqui na Vanguarda.
+[00:04:37:24 --> 00:04:39:08] Na Vanguarda a padaria tem até nome.
+[00:04:39:11 --> 00:04:40:21] Chama Padaria Zingone.
+[00:04:40:29 --> 00:04:42:09] E quem trabalha lá é o Fred.
+[00:04:42:17 --> 00:04:44:05] Quem é da Vanguarda sabe o que eu estou falando.
+[00:04:44:08 --> 00:04:45:11] Será que tem alguém da Vanguarda aí?
+[00:04:48:00 --> 00:04:48:11] Vamos lá!
+[00:04:49:27 --> 00:05:02:24] Crie um briefing fictício, mas completo, detalhado, extensivamente, sobre o serviço diferenciado.
+[00:05:03:25 --> 00:05:05:22] Modelo de negócio emergente
+[00:05:08:20 --> 00:05:10:26] Produtos do futuro.
+[00:05:12:15 --> 00:05:14:02] E mercado.
+[00:05:16:13 --> 00:05:18:04] futuro, além.
+[00:05:19:15 --> 00:05:20:28] Mercado Público.
+[00:05:22:06 --> 00:05:27:00] E outras informações do negócio baseado no Lean Canvas.
+[00:05:27:09 --> 00:05:28:04] Vou pegar aqui assim.
+[00:05:28:07 --> 00:05:28:15] Tá bom.
+[00:05:28:23 --> 00:05:30:10] Aí ele vai criar o briefing para a gente.
+[00:05:31:04 --> 00:05:33:01] Então deixa ele criar o briefing da padaria.
+[00:05:33:09 --> 00:05:35:06] Ele vai criar um artefato para isso.
+[00:05:35:14 --> 00:05:42:00] E o legal é que depois eu posso pegar esse artefato e simplesmente subir esse artefato dentro do projeto.
+[00:05:42:05 --> 00:05:46:07] E aí todos os documentos que eu vou criando eu vou subindo no projeto e ele vai usando isso de contexto.
+[00:05:46:25 --> 00:05:48:14] Então olha só, ele está criando aqui para a gente.
+[00:05:48:14 --> 00:05:53:07] Problema, consumidores buscam produtos personalizados, desperdício de alimentos na cadeia produtiva,
+[00:05:53:09 --> 00:05:56:27] tempo de espera, dificuldade em adaptar receitas, ambiente...
+[00:05:56:27 --> 00:05:57:25] Parará, tá criando aí, né?
+[00:05:58:18 --> 00:06:01:06] Profissionais urbanos de 25, 45 anos...
+[00:06:02:24 --> 00:06:03:10] Está criando.
+[00:06:03:12 --> 00:06:05:22] Quando ele terminar de criar, ele vai me avisar do lado de cá.
+[00:06:06:15 --> 00:06:08:07] E esse ícone aqui vai mudar também.
+[00:06:08:17 --> 00:06:10:29] Eu posso interromper se eu quiser, mas eu não vou fazer isso não.
+[00:06:11:00 --> 00:06:12:09] Deixa ele escrever o documento aqui.
+[00:06:13:12 --> 00:06:14:15] Enquanto isso, eu vou falar para vocês.
+[00:06:14:17 --> 00:06:15:14] Para que o Cloud é bom?
+[00:06:15:18 --> 00:06:17:07] Onde que o Cloud ganha do ChatGPT?
+[00:06:17:09 --> 00:06:20:06] O Cloud ganha do ChatGPT na hora de escrever uma copy.
+[00:06:20:14 --> 00:06:22:05] Na hora de escrever um conteúdo criativo.
+[00:06:22:16 --> 00:06:26:04] Vai escrever um conto, uma história, um poema, uma música.
+[00:06:26:20 --> 00:06:28:18] Ele vai fazer isso muito melhor junto com você.
+[00:06:29:03 --> 00:06:31:13] O Cloud ganha na hora de codar.
+[00:06:31:13 --> 00:06:32:27] então se você quer fazer uma
+[00:06:33:13 --> 00:06:35:05] algum tipo de aplicação aqui
+[00:06:35:05 --> 00:06:36:28] ou algo que ele precisa codar
+[00:06:36:28 --> 00:06:39:08] o Cloud vai fazer melhor que o chat GPT também
+[00:06:39:08 --> 00:06:41:18] onde o GPT ganha do Cloud pra mim
+[00:06:41:18 --> 00:06:43:08] apesar de algumas pessoas falarem que
+[00:06:43:08 --> 00:06:44:25] preferem o Cloud pra eles também
+[00:06:44:25 --> 00:06:47:12] ele ganha no Reasoning em conversas mais
+[00:06:47:12 --> 00:06:49:10] profundas que eu tenho com ele, apesar de que eu já tive
+[00:06:49:10 --> 00:06:51:10] conversas bem profundas
+[00:06:51:10 --> 00:06:53:00] com o Cloud aqui também, mas no momento
+[00:06:53:00 --> 00:06:54:29] o O3 tá absurdo
+[00:06:54:29 --> 00:06:56:29] depois que ele criou isso aqui, olha
+[00:06:56:29 --> 00:06:58:26] criou pra mim aqui o documento
+[00:06:59:13 --> 00:07:00:15] eu posso vir aqui
+[00:07:00:15 --> 00:07:02:06] aqui nesse setinha e colocar
+[00:07:02:06 --> 00:07:04:06] copiar para o projeto, baixar em
+[00:07:04:06 --> 00:07:06:12] Markdown ou salvar como PDF. Vou copiar
+[00:07:06:12 --> 00:07:08:12] para o projeto. E agora quando eu volto
+[00:07:08:12 --> 00:07:10:07] aqui no projeto, eu tenho esse arquivo do
+[00:07:10:07 --> 00:07:12:02] Briefing. E aí a partir disso, olha,
+[00:07:12:03 --> 00:07:12:20] baseado
+[00:07:14:14 --> 00:07:14:25] O briefing.
+[00:07:16:10 --> 00:07:16:26] E agora?
+[00:07:21:06 --> 00:07:24:18] Vou colocar aqui a plataforma.
+[00:07:27:14 --> 00:07:28:29] de posicionamento da marca.
+[00:07:29:05 --> 00:07:31:05] Eu recomendo vocês não fazerem assim,
+[00:07:31:06 --> 00:07:33:09] claro que vocês vão ler o documento, editar, vão seguir.
+[00:07:33:14 --> 00:07:35:26] O processo da Overlens é muito poderoso com isso aqui,
+[00:07:35:28 --> 00:07:39:05] então fazer auditoria de negócio, auditoria de mercado,
+[00:07:39:08 --> 00:07:40:24] auditoria de público, tudo usando IA.
+[00:07:41:00 --> 00:07:44:09] Depois de fazer essa conexão, é bom fazer um benchmarking de comunicação,
+[00:07:44:23 --> 00:07:47:03] definir a plataforma de posicionamento, para não fazer isso cru.
+[00:07:47:05 --> 00:07:49:04] Mas isso aqui vai trazer respostas muito boas.
+[00:07:49:10 --> 00:07:52:24] A questão é que o Cloud não tem Deep Search,
+[00:07:53:02 --> 00:07:54:20] ele tem aqui buscar na web agora,
+[00:07:54:20 --> 00:08:00:15] agora, mas ele ainda não tem essa pesquisa profunda que outras LLMs já tem. Só que ainda
+[00:08:00:15 --> 00:08:05:22] assim, vale a pena investir o danado. Se você tem recurso, tem condição financeira de investir,
+[00:08:06:06 --> 00:08:11:27] cara, assina. Ah, mas eu já tenho GPT, assino os dois. Eu assino o GPT, o Cloud, o Grok, o Gemini,
+[00:08:11:29 --> 00:08:16:23] e cada um tem um motivo para eu assinar, tá? Enquanto o GPT, ele é meu assistente pessoal,
+[00:08:16:29 --> 00:08:23:18] o Cloud, ele é meu assistente criativo. Para criatividade, até hoje eu não vi o GPT batendo
+[00:08:23:18 --> 00:08:25:18] do cloud não, tá? Então, muito bom. Se você
+[00:08:25:18 --> 00:08:26:26] pode investir, vale a pena.
+[00:08:27:10 --> 00:08:29:19] Só que, olha só, ele criou a plataforma aqui
+[00:08:29:19 --> 00:08:31:13] pra mim, só que ele não criou como
+[00:08:31:13 --> 00:08:33:05] artefato. Eu tenho duas escolhas, tá?
+[00:08:33:12 --> 00:08:35:13] Eu posso pedir pra ele criar como
+[00:08:35:13 --> 00:08:37:17] artefato agora, ele vai criar, só que vai
+[00:08:37:17 --> 00:08:39:16] perder tempo, vai demorar. Ou eu venho aqui, ó,
+[00:08:39:17 --> 00:08:41:16] copio, venho aqui no
+[00:08:41:16 --> 00:08:43:16] projeto, clico aqui nesse mais, adicionar
+[00:08:43:16 --> 00:08:45:14] conteúdo, colo e chamo isso aqui agora
+[00:08:45:14 --> 00:08:48:01] de plataforma de posicionamento.
+[00:08:48:20 --> 00:08:49:12] Pronto, agora eu tenho
+[00:08:49:12 --> 00:08:51:14] dois arquivos. E ele vai me dando o quanto
+[00:08:51:14 --> 00:08:53:18] da janela de contexto já foi utilizado.
+[00:08:53:21 --> 00:08:55:15] Olha, 3%. Então, dá para subir muito
+[00:08:55:15 --> 00:08:57:21] conteúdo aqui ainda. E as conversas
+[00:08:57:21 --> 00:08:59:12] elas são parte do contexto dele também.
+[00:08:59:20 --> 00:09:00:18] Isso aqui é muito bom.
+[00:09:01:08 --> 00:09:03:14] Aquela pasta de projeto do GPT,
+[00:09:03:17 --> 00:09:05:11] ela também faz isso. Eu acabei não falando
+[00:09:05:11 --> 00:09:07:02] isso na aula do GPT,
+[00:09:07:05 --> 00:09:09:14] mas eu falo aqui também. Ali na pasta do GPT,
+[00:09:09:14 --> 00:09:11:12] você também sobe instrução, sobe arquivo
+[00:09:11:12 --> 00:09:13:15] e ele contextualiza as conversas
+[00:09:13:15 --> 00:09:15:08] também. Então, ambos têm esse
+[00:09:15:08 --> 00:09:16:29] recurso aqui. Antes
+[00:09:17:18 --> 00:09:19:06] era só exclusivo do Cloud. Agora
+[00:09:19:06 --> 00:09:20:27] agora ele tá funcionando também no GPT.
+[00:09:21:00 --> 00:09:21:17] E olha que interessante.
+[00:09:23:00 --> 00:09:25:10] No dia aqui, eu já consegui
+[00:09:25:10 --> 00:09:26:23] gerar essas duas coisas de graça.
+[00:09:26:27 --> 00:09:29:03] Dá pra fazer muito mais aqui. Ah, não, eu tô
+[00:09:29:03 --> 00:09:30:18] no pago agora. Acabei de lembrar que eu tô no
+[00:09:31:03 --> 00:09:33:00] pago porque eu tô com um projeto. O gratuito
+[00:09:33:00 --> 00:09:34:29] não tem projeto, tá bom?
+[00:09:35:12 --> 00:09:36:20] Começar um novo bate-papo aqui
+[00:09:36:20 --> 00:09:38:23] e vou fazer um novo teste com ele.
+[00:09:39:01 --> 00:09:40:27] Dá pra conectar a API nele agora
+[00:09:40:27 --> 00:09:42:28] também. E foi a Anthropic
+[00:09:42:28 --> 00:09:44:15] que lançou o MCP.
+[00:09:45:04 --> 00:09:46:27] Então dá pra vincular o Google Drive, o calendário
+[00:09:47:19 --> 00:09:49:00] bem fácil de vincular.
+[00:09:50:13 --> 00:09:51:00] gmail github
+[00:09:51:00 --> 00:09:53:08] e dá pra usar ele como mcp, mas não
+[00:09:53:08 --> 00:09:55:04] aqui direto, né? Aí é diferente. Mas vamos lá.
+[00:09:55:05 --> 00:09:56:21] Vou fazer um teste aqui com ele, quer ver? Olha.
+[00:09:57:16 --> 00:09:57:24] Cri...
+[00:09:59:17 --> 00:10:03:09] Crie o menu inicial de um jogo.
+[00:10:05:05 --> 00:10:09:02] Com as opções New Game, Continue.
+[00:10:10:23 --> 00:10:12:01] E existe.
+[00:10:13:10 --> 00:10:15:02] O jogo se chama...
+[00:10:16:19 --> 00:10:17:11] Chronicles.
+[00:10:20:06 --> 00:10:22:18] Utilize a fonte...
+[00:10:24:08 --> 00:10:26:13] Vamos usar uma fonte diferente aqui da JetBrains.
+[00:10:26:22 --> 00:10:28:15] Ou vai de JetBrains mesmo, né?
+[00:10:28:26 --> 00:10:30:03] Vamos de JetBrains mesmo.
+[00:10:31:15 --> 00:10:32:09] JetBrains Mono.
+[00:10:35:04 --> 00:10:37:20] Título grande, menu pequeno.
+[00:10:39:10 --> 00:10:39:27] Abaixo.
+[00:10:40:13 --> 00:10:41:07] Fundo preto.
+[00:10:42:19 --> 00:10:44:11] Texto branco.
+[00:10:46:05 --> 00:10:47:23] ao passar o mouse.
+[00:10:49:05 --> 00:10:50:13] Nos itens do menu,
+[00:10:52:22 --> 00:10:54:23] Ele gera um glitch.
+[00:10:57:14 --> 00:10:58:00] De texto.
+[00:10:58:16 --> 00:10:59:04] Tipo.
+[00:11:01:24 --> 00:11:03:07] Vou colocar caracteres especiais aqui.
+[00:11:04:24 --> 00:11:07:08] E volta para o texto normal.
+[00:11:08:14 --> 00:11:10:27] Ele troca uma letra de cada vez.
+[00:11:12:25 --> 00:11:13:08] Rápido.
+[00:11:14:15 --> 00:11:15:02] Além disso,
+[00:11:16:29 --> 00:11:17:28] ao passar o mouse.
+[00:11:19:19 --> 00:11:22:01] Nos itens, gera um som.
+[00:11:24:09 --> 00:11:30:09] Com aquela estética anos 80 de sons de sintetizadores.
+[00:11:32:03 --> 00:11:34:02] Bem artificiais.
+[00:11:36:22 --> 00:11:53:08] bem artificiais. Coloque também uma música de fundo tocando C, D, E, F, mas numa versão lenta e várias oitavas abaixo.
+[00:11:54:15 --> 00:11:56:05] Para ficar bem sombrio.
+[00:11:57:28 --> 00:11:58:20] Deixa ele gerar.
+[00:11:58:20 --> 00:11:59:25] Enquanto isso, deixa eu vir aqui no...
+[00:12:00:27 --> 00:12:01:26] Habilitar o som de desktop.
+[00:12:02:09 --> 00:12:03:17] Pronto, agora vocês vão conseguir ouvir.
+[00:12:03:18 --> 00:12:05:02] Então, ele vai programar aqui para a gente também.
+[00:12:10:04 --> 00:12:12:26] Vou colocar um exercício para vocês fazerem isso aqui também.
+[00:12:13:07 --> 00:12:14:07] Vai ficar bem legal.
+[00:12:19:09 --> 00:12:21:25] Está gerando aqui o jogo, ele provavelmente vai gerar em JavaScript.
+[00:12:24:08 --> 00:12:25:21] para a web mesmo.
+[00:12:31:02 --> 00:12:31:26] Pronto, criou o jogo.
+[00:12:33:00 --> 00:12:34:18] Provavelmente aqui começa a música. Vamos ver.
+[00:12:38:03 --> 00:12:38:15] Ouviram?
+[00:12:44:01 --> 00:12:44:28] Só que a música não veio.
+[00:12:45:01 --> 00:12:45:27] Aí eu vou falar com ele assim, ó.
+[00:12:47:00 --> 00:12:48:12] Veio sem a música.
+[00:12:48:21 --> 00:12:51:20] Além disso, centralize os textos.
+[00:12:55:25 --> 00:12:57:29] Aí ele vai ajustar o menu e vai trazer a música pra gente.
+[00:12:58:02 --> 00:12:58:11] Vamos ver.
+[00:12:59:09 --> 00:13:01:11] Olha só, o Cloud tem isso.
+[00:13:01:12 --> 00:13:02:23] Ele vai lá e edita só onde precisa.
+[00:13:05:07 --> 00:13:05:25] Estão ouvindo isso?
+[00:13:12:17 --> 00:13:13:09] Vocês estão ouvindo também.
+[00:13:24:17 --> 00:13:25:28] Ele ainda está corrigindo alguns erros.
+[00:13:28:00 --> 00:13:28:11] Pronto.
+[00:13:29:00 --> 00:13:30:21] Clique em qualquer lugar para iniciar a música.
+[00:13:45:05 --> 00:13:46:07] Eu posso até falar com ele aqui, ó.
+[00:13:46:07 --> 00:13:46:28] Vocês acham que acabaram?
+[00:13:47:01 --> 00:13:48:02] Eu posso vir cá e falar com ele assim, ó.
+[00:13:49:29 --> 00:13:54:17] Agora, quando toco em New Game...
+[00:13:55:23 --> 00:14:00:23] Você começa um jogo da cobrinha.
+[00:14:02:04 --> 00:14:10:20] Mas sou eu controlando uma cobrinha contra outra cobra inimiga.
+[00:14:10:21 --> 00:14:14:09] Eu sou branco e a cobra...
+[00:14:15:29 --> 00:14:23:08] Quando alguém, quando um de nós comer dez...
+[00:14:25:02 --> 00:14:30:02] Ratinhos que ficam andando e aparecendo no mapa.
+[00:14:32:10 --> 00:14:32:26] A cobra.
+[00:14:35:22 --> 00:14:37:16] Conseguiu 10 ratinhos.
+[00:14:39:07 --> 00:14:44:15] Pode comer a outra cobra por 15 segundos.
+[00:14:52:00 --> 00:14:53:05] Aí ele vai criar o jogo e editar lá.
+[00:14:53:14 --> 00:14:55:26] Ah, dá para fazer jogos mais complicados aqui dentro?
+[00:14:56:00 --> 00:15:00:21] Não, aí são outras aplicações que só vou ensinar para vocês em outras ferramentas, tá?
+[00:15:01:02 --> 00:15:04:06] Mas aqui, para fazer essas brincadeirinhas, já vai ser muito divertido.
+[00:15:04:21 --> 00:15:05:20] Ah, ele não criou aqui, não.
+[00:15:05:24 --> 00:15:09:27] Eu queria mostrar um que eu fiz e deu certo, só que a ideia era só dar alguns exemplos
+[00:15:09:27 --> 00:15:13:10] para vocês começarem a visualizar a ideia aí, né?
+[00:15:13:19 --> 00:15:15:00] Do que dá para fazer aqui dentro.
+[00:15:15:12 --> 00:15:17:12] E se você sabe o que está acontecendo, né?
+[00:15:17:12 --> 00:15:19:25] Que isso é o mais importante, você consegue brincar você mesmo e corrigir.
+[00:15:19:25 --> 00:15:22:26] mas mesmo assim eu vou repetir, eu recomendo que vocês não trabalhem
+[00:15:22:26 --> 00:15:24:15] essas aplicações direto aqui no Cloud
+[00:15:24:15 --> 00:15:26:25] faz mais sentido vocês trabalharem elas
+[00:15:26:25 --> 00:15:28:20] em outras IaaS que a gente vai trabalhar
+[00:15:28:20 --> 00:15:29:26] depois, ok? Então
+[00:15:29:26 --> 00:15:32:20] do Cloud o que eu posso trazer
+[00:15:32:20 --> 00:15:34:14] de principal é que ele é muito bom pra essa parte
+[00:15:34:14 --> 00:15:36:24] criativa, ele funciona muito bem pra código
+[00:15:36:24 --> 00:15:38:27] tanto que a gente conecta
+[00:15:38:27 --> 00:15:40:09] eu prefiro conectar o Cloud
+[00:15:40:09 --> 00:15:42:09] 3.7 SONET no cursor
+[00:15:42:09 --> 00:15:44:12] no WindSurf bem mais do que conectar
+[00:15:44:12 --> 00:15:46:13] um GPT
+[00:15:46:13 --> 00:15:48:15] por exemplo, dá pra conectar? Dá
+[00:15:48:15 --> 00:15:52:27] Dá, mas eu prefiro mais o Cloud ou o Gemini 2.5 Pro.
+[00:15:53:11 --> 00:15:54:05] Legal também.
+[00:15:54:11 --> 00:15:56:10] E é o próximo que nós vamos falar aqui na lista.
+[00:15:56:18 --> 00:15:59:25] Então, eu vejo vocês agora na próxima LLM.
+[00:15:59:26 --> 00:16:01:28] Por aqui, vai agora do seu repertório.
+[00:16:01:29 --> 00:16:03:27] Muito do que eu apresentei no GPT tem aqui também.
+[00:16:04:01 --> 00:16:05:13] Funciona bem parecido.
+[00:16:05:29 --> 00:16:06:11] Compartilhar.
+[00:16:06:18 --> 00:16:08:03] Não tem muito segredo aqui.
+[00:16:08:06 --> 00:16:12:07] O segredo agora está em como você vai usar a sua ferramenta a seu favor.
+[00:16:12:13 --> 00:16:13:28] Pensa, por exemplo, num martelo.
+[00:16:14:08 --> 00:16:16:06] Quantas coisas diferentes dá para fazer com um martelo?
+[00:16:17:06 --> 00:16:17:18] Inúmeras.
+[00:16:17:18 --> 00:16:19:18] Agora, a IA não é um martelo
+[00:16:19:18 --> 00:16:21:11] Você já sabe disso, né?
+[00:16:21:12 --> 00:16:23:22] Ela é uma ferramenta muito mais poderosa que um martelo
+[00:16:23:22 --> 00:16:26:03] Então imagine as possibilidades que tem aqui dentro também
+[00:16:26:03 --> 00:16:26:17] Tá bom?
+[00:16:26:23 --> 00:16:29:28] Então, essa foi uma apresentação rápida aqui sobre o Cloud pra você
+[00:16:29:28 --> 00:16:30:27] Espero que tenha gostado
+[00:16:30:27 --> 00:16:33:21] Espero que eu tenha aberto a sua mente pra possibilidades
+[00:16:33:21 --> 00:16:36:02] E agora a gente se vê na próxima aula

@@ -1,0 +1,505 @@
+# Video: 19._aula_-_território_de_palavras_(vocabulário)_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 14:12
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:11 --> 00:00:08:14] Território de palavras, uma das ferramentas mais poderosas para trabalhar com texto e indo além, para criar identidade.
+[00:00:08:22 --> 00:00:16:04] Seja a sua identidade pessoal, como um escritor ou uma escritora, seja a identidade de uma marca pela qual você está falando em nome dela,
+[00:00:16:11 --> 00:00:22:22] seja para criar a identidade de um conteúdo que você cria para você ou para algum expert, algum especialista em conteúdo.
+[00:00:23:04 --> 00:00:28:10] Identidade é muito importante e o território de palavras é a ferramenta que nós utilizamos
+[00:00:28:10 --> 00:00:30:01] para fazer com que a inteligência artificial
+[00:00:30:26 --> 00:00:32:17] espelhe a identidade de quem fala,
+[00:00:32:19 --> 00:00:33:29] a identidade do emissor,
+[00:00:34:00 --> 00:00:36:04] da pessoa que carrega a informação.
+[00:00:36:22 --> 00:00:38:15] Relembrando, esse é um tópico importante
+[00:00:38:15 --> 00:00:40:20] que eu quero trazer aqui para você sempre que possível.
+[00:00:40:25 --> 00:00:42:11] Toda mensagem possui,
+[00:00:42:11 --> 00:00:44:26] toda mensagem possui emissor, receptor,
+[00:00:45:02 --> 00:00:46:21] a própria mensagem e um meio.
+[00:00:46:26 --> 00:00:48:01] Quer entender mais sobre isso?
+[00:00:48:03 --> 00:00:49:02] Quer aprofundar nesse assunto?
+[00:00:49:03 --> 00:00:51:02] Você precisa da trilha SINOS.
+[00:00:51:05 --> 00:00:53:05] Dentro da Overlens, na trilha SINOS,
+[00:00:53:08 --> 00:00:55:02] você vai aprender sobre semiótica.
+[00:00:55:05 --> 00:00:56:19] Quem vai para a faculdade de letras,
+[00:00:56:19 --> 00:01:01:05] Ou seja, pessoas que vão aprender a escrever, vão trabalhar com texto durante boa parte do trabalho.
+[00:01:01:07 --> 00:01:04:08] Quem trabalha com letras aprende sobre semiótica.
+[00:01:04:08 --> 00:01:06:01] Essa é uma das disciplinas mais importantes.
+[00:01:06:10 --> 00:01:11:18] E semiótica é o estudo de signos e é o estudo da relação de interpretação das pessoas.
+[00:01:11:25 --> 00:01:17:25] Quando você estuda semiótica, você estuda o processo de produção de sentido na cabeça de um ser humano.
+[00:01:17:29 --> 00:01:20:25] Ou seja, você está estudando o processo de produção de sentido seu,
+[00:01:20:29 --> 00:01:23:13] como que você produz sentido na sua cabeça, emissor.
+[00:01:23:13 --> 00:01:27:14] Você está estudando o processo de sentido da pessoa que te escuta, receptor.
+[00:01:27:23 --> 00:01:34:04] E você também está estudando como que o meio e a mensagem influenciam nesse processo de sentido.
+[00:01:34:05 --> 00:01:37:26] Então a trilha Signals vai ser muito poderosa aqui para você também.
+[00:01:38:00 --> 00:01:40:07] Recomendo muito que você assista ela.
+[00:01:40:10 --> 00:01:44:23] Porque enquanto a trilha Estrutura de Prompts, que eu já recomendei aqui algumas vezes nesse módulo,
+[00:01:44:25 --> 00:01:49:27] vai te ajudar a entender técnicas, tecnologia, Signals vai te ensinar fundamentos.
+[00:01:49:27 --> 00:01:54:01] Fundamentos sobre como os seres humanos produzem sentido nas suas cabeças.
+[00:01:54:04 --> 00:01:55:14] Recomendo muito que você assista.
+[00:01:55:14 --> 00:01:58:24] Eu já deveria, inclusive, ter recomendado em outras aulas anteriores essa aqui.
+[00:01:58:27 --> 00:02:01:22] Mas fica aqui dado o recado, vamos seguir aqui para o território de palavras.
+[00:02:02:01 --> 00:02:05:29] Eu já vou começar com esse super material que a equipe da Overlens preparou aqui para você.
+[00:02:06:04 --> 00:02:07:11] E sabe uma coisa legal desse material?
+[00:02:07:17 --> 00:02:10:28] Ele foi feito em cima do território de palavras da Overlens.
+[00:02:11:04 --> 00:02:15:29] Então, para trazer algo mais tangível para você, nós trouxemos aqui exemplos práticos
+[00:02:15:29 --> 00:02:18:13] que nós utilizamos aqui dentro da Overlens
+[00:02:18:13 --> 00:02:20:21] para criar identidade nos nossos materiais.
+[00:02:20:22 --> 00:02:23:07] Se você gosta dos nossos textos, se gosta do nosso conteúdo,
+[00:02:23:18 --> 00:02:25:21] se você gosta dos nossos vídeos, das nossas aulas
+[00:02:25:21 --> 00:02:28:12] e sente que existe uma relação, uma coerência aqui,
+[00:02:28:16 --> 00:02:30:28] é porque nós temos um território de palavras bem definido.
+[00:02:30:29 --> 00:02:33:28] Só que o legal desse material é que nós não simplesmente jogamos
+[00:02:33:28 --> 00:02:36:18] um monte de palavras aqui, até porque isso não é um território de palavras.
+[00:02:36:25 --> 00:02:39:06] Ele vai funcionar para você como um escopo
+[00:02:39:06 --> 00:02:41:23] para que você crie o seu documento de território de palavras.
+[00:02:41:23 --> 00:02:47:03] E é por isso que, como ele funciona aqui tanto como um material útil e um material didático,
+[00:02:47:06 --> 00:02:49:07] nós colocamos aqui também algumas questões.
+[00:02:49:07 --> 00:02:52:25] Por exemplo, o que é um território de palavras para poder introduzir bem o assunto.
+[00:02:52:28 --> 00:02:56:01] Depois, quando você for ler, você pode voltar aqui no tema muito mais rápido, tá?
+[00:02:56:04 --> 00:02:59:00] O link do material está aqui embaixo, é só acessar para acompanhar aqui comigo.
+[00:02:59:06 --> 00:03:00:20] Então, o que é um território de palavras?
+[00:03:01:00 --> 00:03:03:26] Pensa comigo, antes de ler aqui do lado, olha aqui no meu olho e pensa comigo.
+[00:03:04:04 --> 00:03:09:17] Um território de palavras é sobre o espaço que você ocupa com o seu vocabulário.
+[00:03:09:20 --> 00:03:10:27] O que é o seu vocabulário?
+[00:03:10:27 --> 00:03:15:23] É todo o seu repertório, é todo o material que você tem aqui dentro da sua cabeça,
+[00:03:16:03 --> 00:03:20:16] seja ele rico ou pobre, é o material que você tem aqui e que você utiliza no seu dia a dia.
+[00:03:20:17 --> 00:03:23:11] A linguagem, ela é feita do que você absorveu.
+[00:03:23:12 --> 00:03:26:28] E a linguagem diz muito sobre uma pessoa, por exemplo.
+[00:03:27:02 --> 00:03:31:07] Diz muito sobre a identidade dela e diz muito sobre com quem ela fala melhor.
+[00:03:31:14 --> 00:03:33:01] Diz muito sobre de onde ela veio.
+[00:03:33:05 --> 00:03:37:01] O território de palavras, então, abraça esse vocabulário da pessoa.
+[00:03:37:01 --> 00:03:43:07] Muita gente confunde, acha que território de palavras é simplesmente uma tabela cheia de palavras que você gosta e usa todos os dias.
+[00:03:43:10 --> 00:03:45:08] Seria muito raso se a gente parasse aqui.
+[00:03:45:14 --> 00:03:49:00] Um território de palavras, ele define o que a gente chama de léxico.
+[00:03:49:09 --> 00:03:52:23] E esse é um conceito que a gente estuda nas aulas de português lá no ensino médio.
+[00:03:52:25 --> 00:03:59:18] Só que se você teve professores não tão bons assim em português como eu tive, eles não te envolveram o suficiente para aprender sobre isso.
+[00:03:59:19 --> 00:04:04:26] Então tudo bem, aqui eu vou ter o papel de tentar te envolver mais e te mostrar porque isso é uma das coisas mais poderosas em linguagem.
+[00:04:05:11 --> 00:04:08:20] Léxico é a sua estrutura, a sua lógica de linguagem.
+[00:04:08:22 --> 00:04:11:17] E nós vamos definir ela aqui junto com o território de palavras.
+[00:04:11:24 --> 00:04:13:06] Então, vamos dar uma olhada aqui no conceito.
+[00:04:13:10 --> 00:04:16:04] Território de palavras é a identidade verbal sistematizada.
+[00:04:16:09 --> 00:04:19:15] Então, você vai sistematizar, inclusive, tipos de palavras diferentes.
+[00:04:19:18 --> 00:04:21:19] Sabe quando você estuda lá no ensino fundamental?
+[00:04:22:00 --> 00:04:25:04] O que é um artigo? O que é um verbo? O que é um substantivo?
+[00:04:25:05 --> 00:04:27:14] Pois é, você já deve ter esquecido várias dessas coisas.
+[00:04:27:22 --> 00:04:31:20] Aqui, se você quer trabalhar com texto e não sabe o que são esses tipos de palavras,
+[00:04:32:02 --> 00:04:33:09] você vai precisar voltar e lembrar.
+[00:04:33:09 --> 00:04:39:11] Porque entender isso aqui te ajuda a guiar a IA num nível que outras pessoas que não se aprofundam nisso
+[00:04:39:11 --> 00:04:41:03] jamais vão conseguir te acompanhar.
+[00:04:41:07 --> 00:04:42:17] Então, sistematiza.
+[00:04:42:19 --> 00:04:44:02] Quais são os verbos que você mais usa?
+[00:04:44:03 --> 00:04:45:16] Quais são os seus substantivos favoritos?
+[00:04:45:19 --> 00:04:48:23] Que tipo de artigo, que tipo de palavras de conexão você utiliza?
+[00:04:48:25 --> 00:04:53:16] Quais expressões, quais clichês que a gente costuma chamar que são as palavras, as frases, expressões
+[00:04:53:16 --> 00:04:55:07] que você usa com muita frequência?
+[00:04:55:18 --> 00:04:57:25] Repetibilidade vai ser muito importante, eu já vou falar sobre ela.
+[00:04:57:28 --> 00:05:00:17] Então, identidade verbal sistematizada.
+[00:05:00:20 --> 00:05:02:03] Isso é o território de palavras.
+[00:05:02:28 --> 00:05:06:28] identidade. Aqui eu vou também te inspirar a começar a buscar
+[00:05:06:28 --> 00:05:09:22] a etimologia das palavras. Agora a gente tá começando aos
+[00:05:09:22 --> 00:05:13:07] poucos a entrar num conceito aqui interessante que é o
+[00:05:13:07 --> 00:05:17:10] conceito de entender fundamentos da criação e quando
+[00:05:17:10 --> 00:05:20:07] você começa a entender os fundamentos da criação você
+[00:05:20:07 --> 00:05:23:14] passa organizar as coisas dentro da sua própria cabeça
+[00:05:23:14 --> 00:05:27:20] antes de trazer isso pro de trazer isso pra inteligência
+[00:05:27:20 --> 00:05:30:16] artificial. Se você pesquisar no Google aqui então colocar
+[00:05:30:16 --> 00:05:32:09] colocar aqui, ó. Etimologia
+[00:05:32:25 --> 00:05:34:19] da palavra identidade.
+[00:05:34:27 --> 00:05:36:10] Olha só que interessante. A palavra
+[00:05:36:10 --> 00:05:38:10] identidade vem do latim identitas,
+[00:05:38:13 --> 00:05:40:15] que significa a mesma coisa,
+[00:05:40:21 --> 00:05:42:20] derivando de idem, o mesmo.
+[00:05:42:25 --> 00:05:44:11] E evoluiu pra descrever a qualidade
+[00:05:44:11 --> 00:05:46:05] do que é igual, ou can,
+[00:05:46:07 --> 00:05:48:13] conjunto de características que tornam
+[00:05:48:13 --> 00:05:50:23] algo ou alguém único e reconhecido.
+[00:05:50:29 --> 00:05:52:04] Identitas significa
+[00:05:52:04 --> 00:05:54:14] aquilo que permanece,
+[00:05:54:14 --> 00:05:56:15] aquilo que é o mesmo, aquilo que
+[00:05:56:15 --> 00:05:58:24] se repete. Você constrói sua identidade
+[00:05:58:24 --> 00:06:00:22] com as suas características que não mudam.
+[00:06:00:22 --> 00:06:02:22] Com aquilo que cada vez que a pessoa te vê de novo,
+[00:06:02:22 --> 00:06:04:08] ela vai perceber que tem aquilo em você.
+[00:06:04:11 --> 00:06:05:04] Isso é a sua identidade.
+[00:06:05:09 --> 00:06:07:02] E o território de palavras serve para isso.
+[00:06:07:05 --> 00:06:09:13] Quais são as palavras, os termos, os conceitos
+[00:06:09:13 --> 00:06:12:16] que você repete tanto que isso passa a ser parte da sua identidade?
+[00:06:12:21 --> 00:06:14:13] Se eu te perguntar, por exemplo, aqui sobre mim,
+[00:06:14:16 --> 00:06:16:13] uma palavra que eu falo tanto
+[00:06:16:13 --> 00:06:18:14] que você já sente que faz parte da minha identidade?
+[00:06:18:19 --> 00:06:20:26] Pode ser que você pensou na palavra nexialismo.
+[00:06:20:28 --> 00:06:22:07] É uma palavra que eu uso muito,
+[00:06:22:09 --> 00:06:24:14] é uma palavra que você não vê tantas pessoas falarem por aí,
+[00:06:24:17 --> 00:06:27:10] mas por falar tanto de nexialismo, habilidades nexialistas,
+[00:06:27:10 --> 00:06:29:22] designer nexialista, isso faz parte da minha identidade.
+[00:06:29:25 --> 00:06:31:10] E você começa a me enxergar desse jeito.
+[00:06:31:16 --> 00:06:32:06] Isso é identidade.
+[00:06:32:11 --> 00:06:34:00] E o território de palavras serve para isso.
+[00:06:34:02 --> 00:06:35:17] É o que eu quero mostrar para você aqui agora.
+[00:06:35:25 --> 00:06:36:05] Então vamos lá.
+[00:06:36:09 --> 00:06:39:08] Ele funciona como uma paleta de cores da linguagem.
+[00:06:39:13 --> 00:06:42:10] Define a visão de mundo, orienta estilo, tom, consistência,
+[00:06:42:10 --> 00:06:45:11] gera familiaridade mesmo sem elementos visuais.
+[00:06:46:04 --> 00:06:46:28] Familiaridade verbal.
+[00:06:47:05 --> 00:06:48:15] Vamos pegar aqui com exemplos.
+[00:06:48:15 --> 00:06:50:27] Território de palavras proposto para Overlens.
+[00:06:51:02 --> 00:06:53:12] Aqui exemplos que a gente já usa dentro da Overlens.
+[00:06:53:18 --> 00:06:55:13] A gente trabalha a partir de núcleos.
+[00:06:55:14 --> 00:06:56:10] Então o núcleo 1.
+[00:06:56:10 --> 00:06:58:10] 1. Nexialismo aplicado.
+[00:06:58:20 --> 00:07:00:02] Vocabulário primário da Overlens.
+[00:07:00:04 --> 00:07:02:01] Palavras que a gente costuma utilizar muito aqui.
+[00:07:02:24 --> 00:07:16:00] Nexialismo, síntese, lente, modelo mental, estrutura, convergência, alavanca, excelência, julgamento, liberdade, responsabilidade, realização, simplicidade, maestria, comunicação, curiosidade, inovação, colaboração, honestidade e coragem.
+[00:07:16:07 --> 00:07:17:27] São palavras que a gente usa muito aqui.
+[00:07:17:28 --> 00:07:21:02] Você já deve ter me ouvido falar sobre elas várias vezes.
+[00:07:21:04 --> 00:07:23:04] Algumas até mais fortes do que outras.
+[00:07:23:04 --> 00:07:26:22] Você pode até criar um score de palavras muito fortes que a gente usa muito.
+[00:07:26:29 --> 00:07:28:29] Palavras que são importantes, mas são secundárias.
+[00:07:29:01 --> 00:07:30:04] É interessante, tá?
+[00:07:30:10 --> 00:07:34:04] Aqui eu posso pegar, por exemplo, nexialismo, lente, modelo mental,
+[00:07:35:07 --> 00:07:36:27] visão sistêmica, que não está aparecendo aqui,
+[00:07:37:01 --> 00:07:38:08] mas também é uma que a gente usa muito.
+[00:07:38:12 --> 00:07:39:28] Pensamento sistêmico, visão sistêmica.
+[00:07:40:01 --> 00:07:42:22] Tudo isso entra aqui como primeiro núcleo.
+[00:07:42:26 --> 00:07:43:22] Nexialismo aplicado.
+[00:07:44:25 --> 00:07:47:05] Vocabulário secundário, mapa mental, diagnóstico, precisão,
+[00:07:47:05 --> 00:07:48:17] interpretação, raciocínio e clareza.
+[00:07:48:26 --> 00:07:50:03] Então, estou trazendo aqui algumas palavras.
+[00:07:50:03 --> 00:07:51:28] Você pode até aprofundar mais ainda.
+[00:07:52:03 --> 00:07:54:07] Quando as palavras estão muito genéricas,
+[00:07:54:07 --> 00:07:57:16] você pode tentar traduzir elas para palavras que são mais suas.
+[00:07:57:20 --> 00:08:00:06] Por exemplo, a gente usa aqui dentro, ao invés de falar de autoconhecimento,
+[00:08:00:08 --> 00:08:01:26] a gente chama de self-target.
+[00:08:02:02 --> 00:08:05:17] Ao invés de falar, por exemplo, de repertório puro,
+[00:08:05:18 --> 00:08:10:10] a gente fala sobre visão prismática, capacidade de colocar a lente de outras pessoas.
+[00:08:10:16 --> 00:08:14:17] Eu uso muito o conceito de lente, que é o conceito de enquadramento e de ângulo.
+[00:08:14:19 --> 00:08:16:20] Mas a gente usa lente porque se chama overlens.
+[00:08:16:20 --> 00:08:21:16] A gente também usa aqui a ideia de modelo mental, ao invés de falar puramente sobre raciocínio.
+[00:08:21:20 --> 00:08:24:24] Eu falo sobre nixialismo o tempo todo, falo sobre visão sistêmica.
+[00:08:24:26 --> 00:08:28:20] Essas palavras que são mais fortes, é as que precisam ser repetidas o tempo todo.
+[00:08:29:06 --> 00:08:31:12] Núcleo 2, futurismo de alta definição.
+[00:08:31:15 --> 00:08:33:08] Então a gente tem aqui outras palavras que a gente usa muito.
+[00:08:34:01 --> 00:08:39:27] Futuro, foresight, projeção, cenário, sinal, emergente, disrupção, horizonte, secundários,
+[00:08:39:29 --> 00:08:43:04] força, tendência, probabilidade, rota, transformação estrutural.
+[00:08:43:20 --> 00:08:47:13] Isso aqui é interessante também, porque depois que você estrutura seu território de palavras,
+[00:08:47:22 --> 00:08:50:13] você consegue pegar todas essas palavras e jogar pra IA.
+[00:08:50:15 --> 00:08:53:05] E ela vai começar a falar cada vez mais parecido com você.
+[00:08:53:14 --> 00:08:55:14] Uma coisa legal que eu posso te trazer aqui é o seguinte.
+[00:08:56:03 --> 00:09:00:04] Se você produz conteúdo, ou cria conteúdo pra alguém que produz conteúdo,
+[00:09:00:12 --> 00:09:04:16] você pode pegar um vídeo dessa pessoa, pegar a transcrição desse vídeo e pedir pra IA o seguinte.
+[00:09:04:26 --> 00:09:09:19] Baseado nessa transcrição, eu gostaria que você criasse o território de palavras dessa pessoa.
+[00:09:09:25 --> 00:09:12:01] Vou fazer isso ao vivo aqui com você daqui a pouquinho, tá?
+[00:09:12:01 --> 00:09:13:20] tá? 3. Linguagem
+[00:09:13:20 --> 00:09:15:11] científica aplicada, então,
+[00:09:15:12 --> 00:09:17:20] mecanismo, causa, evidência, estrutura, processo,
+[00:09:17:23 --> 00:09:19:21] sistema, hipótese. Secundário,
+[00:09:19:21 --> 00:09:21:15] validade, rigor, experimento, coerência,
+[00:09:21:18 --> 00:09:23:25] parâmetro. Nível 4, complexidade
+[00:09:23:25 --> 00:09:25:12] de sistemas. Primário, sistema,
+[00:09:25:16 --> 00:09:27:19] ciclo, interdependência, emergente,
+[00:09:27:19 --> 00:09:29:05] complexo, camadas, padrão.
+[00:09:29:16 --> 00:09:31:19] Secundário, densidade, estabilidade, modulação,
+[00:09:31:20 --> 00:09:33:17] feedback, dinâmica. E aí, aqui a questão
+[00:09:33:17 --> 00:09:35:21] de sistemas, né? 5. Criação
+[00:09:35:21 --> 00:09:37:17] como processamento
+[00:09:37:17 --> 00:09:39:20] cognitivo. Intenção,
+[00:09:39:20 --> 00:09:41:17] direção, síntese criativa, arquitetura
+[00:09:41:17 --> 00:09:42:19] de ideias, curadoria,
+[00:09:43:28 --> 00:09:45:08] refinamento, tradução estética,
+[00:09:45:11 --> 00:09:46:19] consistência, escopo.
+[00:09:46:29 --> 00:09:49:06] O que é o legal dessa primeira parte aqui, tá?
+[00:09:49:11 --> 00:09:51:04] Esse aqui não é o nosso território de palavras.
+[00:09:51:12 --> 00:09:53:11] Esses são núcleos. A ideia é que
+[00:09:53:11 --> 00:09:55:09] quando você for começar a construir um território de palavras,
+[00:09:55:12 --> 00:09:56:29] você defina os núcleos ali
+[00:09:56:29 --> 00:09:58:25] e é dali que vai partir
+[00:09:58:25 --> 00:10:01:14] os princípios orientadores da construção
+[00:10:01:14 --> 00:10:03:08] do seu território de palavras. É daqui que vai
+[00:10:03:08 --> 00:10:05:11] partir as palavras novas que
+[00:10:05:11 --> 00:10:07:10] você vai criar em cima dessas.
+[00:10:07:19 --> 00:10:09:11] Como aqui o nexalismo é muito forte
+[00:10:09:11 --> 00:10:11:08] pra gente, ele já entra como núcleo
+[00:10:11:08 --> 00:10:13:02] ou direto. Mas o que é importante você
+[00:10:13:02 --> 00:10:15:01] pegar aqui? Quais são os núcleos mesmo?
+[00:10:15:04 --> 00:10:17:10] Mais do que o próprio vocabulário primário e secundário
+[00:10:17:10 --> 00:10:19:18] do núcleo. Nexialismo, futurismo,
+[00:10:19:21 --> 00:10:20:28] linguagem científica,
+[00:10:20:29 --> 00:10:22:20] complexidade de sistemas e
+[00:10:22:20 --> 00:10:24:06] processamento cognitivo.
+[00:10:24:23 --> 00:10:27:01] Depois a gente vai traduzir isso aqui pra público,
+[00:10:27:03 --> 00:10:29:04] que é muito importante haver essa tradução
+[00:10:29:04 --> 00:10:31:04] pro público, tá? Então vamos seguir
+[00:10:31:04 --> 00:10:33:02] aqui. Exemplos práticos do uso
+[00:10:33:02 --> 00:10:35:07] de território de palavras. Ao invés de dizer
+[00:10:35:07 --> 00:10:37:05] a IA só faz o que você manda,
+[00:10:37:06 --> 00:10:39:11] use algo como a IA não cria sozinha.
+[00:10:39:13 --> 00:10:40:26] O que ela entrega depende da
+[00:10:40:26 --> 00:10:43:03] A intenção depende dos parâmetros.
+[00:10:43:06 --> 00:10:44:27] Às vezes eu uso muito a palavra critério também.
+[00:10:45:03 --> 00:10:46:17] E da lógica que você define.
+[00:10:46:26 --> 00:10:50:05] E isso aqui é ou não é mais parecido com o jeito que eu falo do que isso aqui.
+[00:10:50:09 --> 00:10:51:13] Aí só faz o que você manda.
+[00:10:51:26 --> 00:10:55:08] Em vez de nossa escola ajuda a pensar melhor, o que a gente fala?
+[00:10:55:17 --> 00:10:57:02] A Overlens não ensina a apertar botões.
+[00:10:57:03 --> 00:10:58:05] Isso aqui eu falo muito.
+[00:10:58:08 --> 00:11:00:05] Você já deve ter me escutado falar isso aqui alguma vez.
+[00:11:00:11 --> 00:11:02:05] Ela treina formas de pensar.
+[00:11:02:14 --> 00:11:05:15] A escola para nexialistas, designers, artistas e mentes criativas.
+[00:11:05:17 --> 00:11:06:28] Fala isso aqui o tempo todo também.
+[00:11:07:02 --> 00:11:08:11] Tem a ver com o nosso vocabulário.
+[00:11:08:11 --> 00:11:10:08] Ao falar de futuro e inovação,
+[00:11:10:11 --> 00:11:12:29] a melhor forma de prever o futuro é criando.
+[00:11:13:01 --> 00:11:14:17] É uma frase que eu gosto muito de usar.
+[00:11:14:19 --> 00:11:16:13] A gente usa em vários documentos nossos também.
+[00:11:16:26 --> 00:11:19:04] Por que esse território importa para a Overlens?
+[00:11:19:11 --> 00:11:21:28] Aqui a gente tem alguns pontos que são critérios também.
+[00:11:22:12 --> 00:11:24:28] Coerência verbal, posicionamento, escrita consciente,
+[00:11:25:01 --> 00:11:26:20] voz e tom, identidade e credibilidade.
+[00:11:26:22 --> 00:11:28:23] São critérios importantes para criar o território.
+[00:11:28:24 --> 00:11:30:26] Ou seja, nós estamos criando identidade aqui.
+[00:11:31:08 --> 00:11:33:09] Juan, eu estou vendo que você está fazendo isso para marca,
+[00:11:33:13 --> 00:11:35:01] mas, por exemplo, eu vou escrever meu próprio livro.
+[00:11:35:04 --> 00:11:36:25] Eu estou assistindo aqui porque eu quero escrever meu livro.
+[00:11:36:25 --> 00:11:38:28] legal pra caramba, cara. Você vai
+[00:11:38:28 --> 00:11:40:28] definir a sua identidade de emissor,
+[00:11:40:29 --> 00:11:43:00] sua identidade de autor da pessoa que fala.
+[00:11:43:10 --> 00:11:45:10] O que que é importante? Quais são os critérios
+[00:11:45:10 --> 00:11:46:19] pra você do seu território de palavras?
+[00:11:46:28 --> 00:11:48:22] Isso aqui vai te dar uma coerência muito grande,
+[00:11:48:24 --> 00:11:51:02] uma identidade que outros autores, escritores
+[00:11:51:02 --> 00:11:53:02] não fazem, e aí você ganha
+[00:11:53:02 --> 00:11:54:18] uma ferramenta poderosa na sua mão,
+[00:11:54:20 --> 00:11:56:28] que as pessoas vão começar a entender. Você já reparou que tem
+[00:11:56:28 --> 00:11:58:23] autores que tem uma identidade tão forte,
+[00:11:58:26 --> 00:12:01:02] que você fala, isso aqui é muito Stephen King,
+[00:12:01:09 --> 00:12:02:22] isso aqui é
+[00:12:02:22 --> 00:12:04:27] muito Ayn Rand, por exemplo.
+[00:12:04:27 --> 00:12:10:03] Então, você consegue ver que tem personalidade própria dos escritores,
+[00:12:10:22 --> 00:12:15:07] porque eles têm coerência, identidade, é o que você repete, é o que permanece com você.
+[00:12:15:13 --> 00:12:18:03] A partir disso, a gente criou uma tabela de glossário.
+[00:12:18:05 --> 00:12:21:14] Essa aqui é um exemplo, um exemplo prático que você pode usar aí.
+[00:12:21:17 --> 00:12:24:01] A gente tem outras tabelas também da Overlens,
+[00:12:24:04 --> 00:12:26:18] e eu vou te mostrar como usar uma ferramenta para chegar nisso.
+[00:12:26:20 --> 00:12:30:03] Mas antes de eu mostrar o glossário, vamos fazer um exercício prático aqui.
+[00:12:30:03 --> 00:12:34:28] Eu vou pegar uma aula que eu fiz recentemente para a mentoria avançada da Overland,
+[00:12:34:29 --> 00:12:35:23] essa é a vanguarda.
+[00:12:35:23 --> 00:12:38:14] Fiz uma aula para eles, explicando qual que é a nossa visão,
+[00:12:38:20 --> 00:12:42:08] como que a gente vai construir uma visão focada mais num objetivo.
+[00:12:42:27 --> 00:12:43:26] E aí, o que eu vou fazer?
+[00:12:43:28 --> 00:12:46:18] Eu vou pegar a transcrição dessa aula aqui,
+[00:12:46:20 --> 00:12:50:11] vou simplesmente copiar, colar no chat de APT e falar.
+[00:12:50:24 --> 00:12:56:05] Extraia o território de palavras, léxico e glossário da pessoa que está falando aqui.
+[00:12:56:10 --> 00:12:57:25] Você vai ver que interessante isso.
+[00:12:57:25 --> 00:12:59:22] isso. Muitas vezes você pode pegar uma reunião
+[00:12:59:22 --> 00:13:01:17] sua que você faz com a equipe, pode pegar um
+[00:13:01:17 --> 00:13:03:04] conteúdo que você faz pras redes sociais.
+[00:13:03:14 --> 00:13:05:17] Se você já escreveu alguma coisa também,
+[00:13:05:19 --> 00:13:07:22] pode pegar um texto seu, que aí ele vai pegar
+[00:13:07:22 --> 00:13:09:14] as suas próprias escolhas de palavras
+[00:13:09:14 --> 00:13:11:20] aqui, beleza? Então eu tô aqui na aula, vou baixar
+[00:13:11:20 --> 00:13:13:18] a transcrição do áudio
+[00:13:13:18 --> 00:13:15:17] aqui. Já baixou aqui pra mim
+[00:13:15:17 --> 00:13:17:22] a transcrição. Então eu baixei,
+[00:13:17:25 --> 00:13:19:26] agora eu vou entrar aqui no chat GPT,
+[00:13:20:20 --> 00:13:21:01] vou
+[00:13:21:25 --> 00:13:23:16] adicionar essa minha transcrição e vou falar o
+[00:13:23:16 --> 00:13:25:21] seguinte, preciso que você
+[00:13:25:21 --> 00:13:36:06] Você extraia o território de palavras e o léxico completo do Juan Brás.
+[00:13:36:06 --> 00:13:39:13] Aqui ele já vai em separado na transcrição quem está falando.
+[00:13:39:25 --> 00:13:50:02] Leia toda a transcrição e crie um território de palavras e uma tabela de glossário.
+[00:13:50:25 --> 00:13:52:19] Coloque em uma hierarquia.
+[00:13:54:23 --> 00:14:02:17] Defina também o estilo, tom, defina também a estrutura de raciocínio.
+[00:14:04:04 --> 00:14:06:26] E me entregue a identidade verbal.
+[00:14:08:19 --> 00:14:10:12] Pronto, agora ele vai ler aqui o conteúdo.
+[00:14:10:16 --> 00:14:12:12] Demora um pouquinho porque ele está lendo, né?
+[00:14:12:12 --> 00:14:15:06] Duas horas de transcrição.
+[00:14:15:12 --> 00:14:16:14] Mas eu já posso esperar.
+[00:14:16:19 --> 00:14:19:04] Isso aqui já é uma ferramenta poderosa se você produz conteúdo.
+[00:14:19:06 --> 00:14:21:27] Se você escreve texto, você pode colar o seu texto aqui também.
+[00:14:21:29 --> 00:14:23:21] Pedir para ele mapear isso para você.
+[00:14:23:25 --> 00:14:26:11] Se você faz reuniões com a equipe, grave uma reunião.
+[00:14:26:15 --> 00:14:29:17] E aí, a partir disso, coloque a transcrição aqui.
+[00:14:29:26 --> 00:14:31:06] Só não se esqueça de uma coisa.
+[00:14:31:11 --> 00:14:33:17] Em alguns momentos, você é o próprio emissor.
+[00:14:33:21 --> 00:14:37:07] Em outros momentos, você vai falar em nome de outro emissor.
+[00:14:37:07 --> 00:14:39:05] Por exemplo, sua marca não é você.
+[00:14:39:08 --> 00:14:41:12] Se você tem uma empresa, por exemplo, você tem que criar
+[00:14:41:26 --> 00:14:43:23] o território de palavras da própria empresa.
+[00:14:44:00 --> 00:14:45:15] Aqui, no caso, ele está fazendo o meu.
+[00:14:45:17 --> 00:14:48:05] Vamos ver a análise que ele vai tirar com base nessa reunião.
+[00:14:49:23 --> 00:14:52:11] Então, território de palavras e hierarquia semântica,
+[00:14:52:12 --> 00:14:54:08] núcleo estratégico, pensamento e direção.
+[00:14:54:11 --> 00:14:57:15] Direção, mapa, missão, nível, vanguarda, entropia,
+[00:14:57:15 --> 00:14:58:17] palavra que eu falo muito.
+[00:15:00:00 --> 00:15:04:21] Campo semântico dominante, orientação, leitura de cenário e posicionamento estratégico.
+[00:15:04:24 --> 00:15:09:22] Aí vem núcleo de ação e movimento, vai, vão, vamos, fazer, pode, precisa, vou.
+[00:15:10:00 --> 00:15:13:09] Linguagem orientada a execução, decisão e progressão contínua,
+[00:15:13:11 --> 00:15:16:27] porque essa foi uma reunião de direção, por isso que aconteceu desse jeito.
+[00:15:17:05 --> 00:15:21:07] Núcleo de relação e coletivo, você, nós, pessoa, seu, sua.
+[00:15:21:18 --> 00:15:25:15] Didático, inclusive, relacional, forte uso de você como ativador cognitivo.
+[00:15:25:15 --> 00:15:27:21] Núcleo de realidade e pragmatismo
+[00:15:27:21 --> 00:15:29:27] Negócio, isso, essa, esse, agora, depois
+[00:15:29:27 --> 00:15:32:21] Linguagem concreta, pouco abstrata
+[00:15:32:21 --> 00:15:34:15] Ancorada no presente e no operacional
+[00:15:34:15 --> 00:15:36:09] Núcleo de ênfase e ritmo
+[00:15:36:09 --> 00:15:38:09] Então, mas, porque, até, muito
+[00:15:38:09 --> 00:15:40:06] Marcadores conversacionais
+[00:15:40:06 --> 00:15:41:27] Usados para cadência, contraste
+[00:15:41:27 --> 00:15:43:20] E construção de raciocínio progressivo
+[00:15:43:20 --> 00:15:45:05] Aí ele trouxe um glossário aqui
+[00:15:45:05 --> 00:15:47:27] Entropia, mapa, direção, nível, vanguarda
+[00:15:47:27 --> 00:15:49:03] Missão, negócio, checkpoint
+[00:15:49:19 --> 00:15:51:22] Entropia ficou em primeiro lugar, porque é uma palavra diferente
+[00:15:51:22 --> 00:15:53:18] Nem todo mundo usa a palavra entropia
+[00:15:53:18 --> 00:15:56:12] Mas é uma palavra muito presente dentro da vanguarda.
+[00:15:56:12 --> 00:15:57:07] Uso o tempo todo.
+[00:15:57:12 --> 00:15:58:18] E ele mapeou isso aqui pra mim.
+[00:15:58:23 --> 00:15:59:10] Legal, né?
+[00:16:00:19 --> 00:16:01:20] Oralidade estratégica.
+[00:16:01:21 --> 00:16:02:23] Fala como pensa.
+[00:16:03:19 --> 00:16:05:09] Didático sem academicismo.
+[00:16:05:26 --> 00:16:08:17] Frases longas encadeadas com correções ao vivo.
+[00:16:08:23 --> 00:16:11:00] Uso frequente de exemplos implícitos.
+[00:16:11:14 --> 00:16:13:24] Vocabulário simples com conceitos densos.
+[00:16:13:26 --> 00:16:17:06] O valor não está na palavra rara, mas no encaixe conceitual.
+[00:16:17:12 --> 00:16:17:24] Tom.
+[00:16:17:28 --> 00:16:20:09] Líder acessível, provocativo, calmo.
+[00:16:20:20 --> 00:16:22:23] Construtivo, não acusatório, seguro, mas humano.
+[00:16:22:23 --> 00:16:25:03] estrutura de raciocínio. Contextualiza,
+[00:16:25:04 --> 00:16:27:01] nomeia o problema, cria contraste, aponta
+[00:16:27:01 --> 00:16:28:18] direção, convoca o coletivo.
+[00:16:29:12 --> 00:16:31:08] Pensamento, top-down, estratégico,
+[00:16:31:08 --> 00:16:32:12] mas comunicação horizontal.
+[00:16:33:02 --> 00:16:34:26] Identidade verbal consolidada, não
+[00:16:34:26 --> 00:16:36:20] performa autoridade, exerce,
+[00:16:36:21 --> 00:16:38:27] não vende discurso, organiza pensamento, não
+[00:16:38:27 --> 00:16:41:05] motiva por hype, motiva por clareza.
+[00:16:41:22 --> 00:16:43:02] Frase síntese da identidade
+[00:16:43:02 --> 00:16:45:00] verbal, clareza gera movimento.
+[00:16:45:08 --> 00:16:46:26] Olha que legal, né? Essa trilha
+[00:16:46:26 --> 00:16:49:00] inteira aqui do sintaxe,
+[00:16:49:00 --> 00:16:50:26] qual que é uma das palavras que eu mais uso pra você?
+[00:16:50:26 --> 00:16:55:08] E qual foi o princípio base para toda essa formação aqui?
+[00:16:55:14 --> 00:16:55:25] Clareza.
+[00:16:55:27 --> 00:16:57:29] E isso aqui, por que eu falo que isso é legal?
+[00:16:58:08 --> 00:17:00:28] Porque ele só está mapeando algo que está dentro de mim.
+[00:17:01:00 --> 00:17:04:03] E você está vendo a coerência disso, de uma reunião, para isso aqui agora.
+[00:17:04:11 --> 00:17:05:19] Ou seja, identidade é o padrão.
+[00:17:05:20 --> 00:17:07:17] É o que você não consegue deixar de ser.
+[00:17:07:23 --> 00:17:09:26] Eu continuo sendo nessa aula aqui também.
+[00:17:10:17 --> 00:17:12:14] Movimento sem direção gera entropia.
+[00:17:13:04 --> 00:17:15:09] Ou seja, isso aqui é uma excelente ferramenta.
+[00:17:15:09 --> 00:17:20:12] E há de novo aqui para te ajudar a extrair identidade verbal de uma pessoa, de uma marca.
+[00:17:20:26 --> 00:17:24:23] Você pode jogar um manifesto aqui também para entender, vai ser bem eficiente para você.
+[00:17:25:00 --> 00:17:31:05] Então, só antes de avançar aqui na tabela, eu queria te mostrar jeitos de fazer isso que são bem eficientes.
+[00:17:31:17 --> 00:17:36:29] Então, aqui tem algumas palavras, nexalismo, aí vem a definição de nexalismo, uso e exemplo.
+[00:17:37:16 --> 00:17:41:21] Esse tipo de glossário é bem legal porque ele ajuda quem está chegando às vezes numa empresa
+[00:17:41:21 --> 00:17:46:02] ou às vezes ajuda você mesmo a se orientar se o texto tem sua identidade ou não,
+[00:17:46:05 --> 00:17:48:22] porque você também pode jogar isso aqui na IA e pedir.
+[00:17:48:22 --> 00:17:52:02] Você pode criar um assistente de avaliação de território de palavras.
+[00:17:52:09 --> 00:17:55:18] Você joga o seu território de palavras para o assistente falar a partir de agora.
+[00:17:55:21 --> 00:18:00:05] Você vai avaliar toda a minha produção para ver se eu mantenho a minha identidade ou não.
+[00:18:00:06 --> 00:18:02:15] Se eu estou fugindo muito dela ou se eu estou seguindo nela.
+[00:18:02:21 --> 00:18:06:02] E aí qualquer produção que você criar, você joga no território de palavras.
+[00:18:06:11 --> 00:18:07:08] Então aqui tem vários.
+[00:18:07:09 --> 00:18:08:29] Esse documento a gente vai compartilhar com você.
+[00:18:09:28 --> 00:18:13:15] Vocabulário secundário, mapa mental, diagnóstico, precisão, interpretação, raciocínio e clareza.
+[00:18:13:26 --> 00:18:17:10] Lembrando, esse aqui é um exemplo para vocês baseado na vanguarda.
+[00:18:17:29 --> 00:18:18:29] baseado na Overlens.
+[00:18:19:26 --> 00:18:21:24] Não pega todo o território de palavras
+[00:18:22:06 --> 00:18:24:02] enriquecido da Overlens. Quem sabe a gente tem a oportunidade
+[00:18:24:02 --> 00:18:26:02] de falar mais disso depois. Então, a gente tem
+[00:18:26:02 --> 00:18:28:02] vocabulário de palavra por produto. Tem do Overpass,
+[00:18:28:06 --> 00:18:29:26] tem da Vanguarda. A gente tem os manuais
+[00:18:29:26 --> 00:18:31:14] também, que são bem mais avançados.
+[00:18:31:20 --> 00:18:33:25] Aí fica para um próximo momento, em umas outras
+[00:18:33:25 --> 00:18:35:21] aulas, senão vai ficar muito denso o exemplo também.
+[00:18:36:18 --> 00:18:37:27] Vocabulário secundário. E aí
+[00:18:37:27 --> 00:18:39:21] vem núcleo, por núcleo. Então,
+[00:18:40:11 --> 00:18:41:24] vocabulário primário. Aí vem aqui
+[00:18:42:26 --> 00:18:43:20] futurismo, núcleo 2.
+[00:18:43:26 --> 00:18:45:17] Ah, tá. Deixa eu voltar aqui. Volta.
+[00:18:46:07 --> 00:18:48:18] Então, aqui a gente tem o glossário do vocabulário primário,
+[00:18:48:18 --> 00:18:50:12] que é o núcleo anexalista, e depois tem os outros.
+[00:18:51:02 --> 00:18:54:01] Vocabulário secundário, núcleo 2 aqui de futurismo,
+[00:18:54:02 --> 00:18:56:09] depois vem núcleo 3, um para cada núcleo,
+[00:18:56:10 --> 00:18:57:21] trazendo exemplo por exemplo.
+[00:18:58:00 --> 00:19:01:02] Isso aqui é muito legal, porque você faz uma vez,
+[00:19:01:03 --> 00:19:03:11] investe um tempo ali, e depois você vai conquistar
+[00:19:03:11 --> 00:19:05:16] uma consistência e uma identidade muito forte,
+[00:19:05:18 --> 00:19:08:12] que vai te poupar muito tempo para lidar com a IA.
+[00:19:08:17 --> 00:19:11:22] A maioria das pessoas ficam refazendo a mesma coisa toda vez.
+[00:19:11:24 --> 00:19:13:16] Toda vez eu tenho que explicar para a IA quem eu sou.
+[00:19:13:19 --> 00:19:15:09] Toda vez eu tenho que explicar para a IA meu tom de voz.
+[00:19:15:17 --> 00:19:17:16] Toda vez eu tenho que explicar para ela o meu território de palavras.
+[00:19:17:21 --> 00:19:18:29] É isso que gasta energia.
+[00:19:19:09 --> 00:19:23:06] E é isso que faz você nunca conseguir extrair o maior potencial da inteligência artificial
+[00:19:23:06 --> 00:19:28:18] que está ali disponível para você, mas por falta de criar essa base, você não consegue.
+[00:19:29:00 --> 00:19:29:14] Beleza?
+[00:19:29:16 --> 00:19:31:15] Então, está aqui essa ferramenta para você.
+[00:19:31:21 --> 00:19:35:29] Tem uma tabela aqui também, isso que é bem legal de falar, de palavras proibidas.
+[00:19:36:03 --> 00:19:41:12] É bom que você crie também um antivocabulário, que é aquilo que você evita usar,
+[00:19:41:12 --> 00:19:46:00] algo que você não gosta, o que para a sua marca, se uma palavra aparece ali,
+[00:19:46:20 --> 00:19:48:15] você já fala assim, cara, horrível.
+[00:19:48:20 --> 00:19:51:22] Você pode até inclusive usar isso com essa ferramenta aqui.
+[00:19:51:24 --> 00:19:52:23] Vou dar um exemplo para você.
+[00:19:53:01 --> 00:19:57:19] Crie agora o antiterritório de palavras do Juan.
+[00:19:57:27 --> 00:20:03:01] Ou seja, baseado em tudo o que aprendeu sobre ele,
+[00:20:03:21 --> 00:20:07:27] mostre o caminho oposto, aquele que é anti-Juan.
+[00:20:07:27 --> 00:20:12:11] E aí ele vai criar aqui um vocabulário anti-Juan, coisas que não tem a ver comigo.
+[00:20:12:12 --> 00:20:13:27] Vamos dar uma olhada aqui no que ele criou?
+[00:20:14:15 --> 00:20:17:26] Então, ele está montando aqui embaixo, antiterritório de palavras, o caminho anti-Juan.
+[00:20:18:08 --> 00:20:21:00] Então, núcleo de confusão e ruído, oposto de direção.
+[00:20:21:29 --> 00:20:25:17] Talvez, acho que, quem sabe, depende muito, vamos ver.
+[00:20:25:21 --> 00:20:29:09] Vamos ver realmente, você não me vê falando, vamos ver com frequência sim.
+[00:20:30:00 --> 00:20:30:20] Talvez também.
+[00:20:31:11 --> 00:20:36:17] Eu estou saindo desse campo de relativismo, eu estou buscando um campo mais objetivista.
+[00:20:36:17 --> 00:20:38:10] então isso é uma coisa interessante
+[00:20:39:04 --> 00:20:40:27] aí vem, incrível, absurdo
+[00:20:41:13 --> 00:20:42:25] revolucionário, surreal, explodir
+[00:20:42:25 --> 00:20:44:21] resultados, realmente não faz parte do meu
+[00:20:44:21 --> 00:20:46:25] vocabulário e nem da Overlens, a gente não gosta
+[00:20:46:25 --> 00:20:48:20] dessa lógica, desse tipo de
+[00:20:49:16 --> 00:20:50:23] gatilho mental, de falar
+[00:20:50:23 --> 00:20:52:24] cara, você vai ter uma máquina de imprimir dinheiro
+[00:20:52:24 --> 00:20:54:23] você vai explodir de resultado, milionário
+[00:20:54:23 --> 00:20:56:25] num fim de semana, não funciona muito com a gente
+[00:20:56:25 --> 00:20:58:20] isso tudo, olha, ter essa consciência é bom
+[00:20:58:20 --> 00:21:00:09] por quê? Imagina que chegou alguém novo
+[00:21:00:09 --> 00:21:02:11] pra poder gerenciar a marca com você
+[00:21:02:11 --> 00:21:04:09] aí essa pessoa vai escrever um texto, ela vai lá e
+[00:21:04:09 --> 00:21:06:12] solta uma coisa dessa. Você vai ter um material
+[00:21:06:12 --> 00:21:07:21] pra falar, olha, é proibido
+[00:21:07:21 --> 00:21:09:24] seguir nessa direção aqui dentro
+[00:21:09:24 --> 00:21:12:04] da Overlens. E essa pessoa vai ter esse
+[00:21:12:04 --> 00:21:13:21] material pra guiar ela, então,
+[00:21:13:22 --> 00:21:15:23] dentro de todo o processo. Então,
+[00:21:16:06 --> 00:21:17:26] é legal também criar o seu
+[00:21:17:26 --> 00:21:19:27] anti-território. Vai te ajudar a
+[00:21:19:27 --> 00:21:21:26] até trazer pra IA também.
+[00:21:22:02 --> 00:21:23:20] Isso aqui é muito bom pra inteligência artificial.
+[00:21:24:14 --> 00:21:26:05] Porque sabe quando você tá revisando um texto
+[00:21:26:05 --> 00:21:27:19] e fala, ah, eu não uso essa palavra.
+[00:21:27:27 --> 00:21:30:06] Ah, eu não falo desse jeito. Nossa, ficou muito
+[00:21:30:06 --> 00:21:32:12] ruim isso aqui. Quando você cria o anti-território,
+[00:21:32:12 --> 00:21:35:29] A inteligência artificial também vai seguir isso como regrinha para ali.
+[00:21:36:00 --> 00:21:40:19] Ela vai evitar para sempre, ou pelo menos o máximo que ela puder, porque às vezes ela ainda vai errar.
+[00:21:40:27 --> 00:21:44:13] Ela vai evitar utilizar as palavras que você não quer que ela utilize.
+[00:21:45:04 --> 00:21:51:09] Essa é uma das ferramentas mais poderosas que você poderia ter para trabalhar com texto e para construir identidade.
+[00:21:51:14 --> 00:21:54:26] Não importa se você é um escritor ou uma escritora, se você trabalha com produção de conteúdo,
+[00:21:55:02 --> 00:22:00:15] se você trabalha com construção de marcas e ativos de marca, isso aqui é muito poderoso.
+[00:22:00:15 --> 00:22:02:17] uma vez que você constrói, vai ser
+[00:22:02:17 --> 00:22:04:19] uma das ferramentas mais utilizadas no seu
+[00:22:04:19 --> 00:22:06:18] dia a dia pra escrever texto.
+[00:22:06:29 --> 00:22:08:22] Então, comenta aqui embaixo o que você
+[00:22:08:22 --> 00:22:10:17] achou. Você já utilizava território de palavras?
+[00:22:10:26 --> 00:22:12:20] E o antiterritório de palavras, você
+[00:22:12:20 --> 00:22:14:17] já utilizava também? Ou não, agora
+[00:22:14:17 --> 00:22:16:22] que você tá concebendo essa possibilidade?
+[00:22:17:00 --> 00:22:18:20] Comenta aqui e me fala se você vai
+[00:22:18:20 --> 00:22:20:21] criar o seu, porque essa conversa aqui
+[00:22:20:21 --> 00:22:21:20] tá só começando.

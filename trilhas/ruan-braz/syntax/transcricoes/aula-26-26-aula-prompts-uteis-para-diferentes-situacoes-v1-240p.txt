@@ -1,0 +1,230 @@
+# Video: 26._aula_-_prompts_úteis_para_diferentes_situações_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 14:42
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:01 --> 00:00:03:24] A diferença entre um prompt comum e um prompt estratégico é bem simples.
+[00:00:04:01 --> 00:00:07:15] O primeiro te entrega respostas, o segundo te entrega raciocínio.
+[00:00:07:18 --> 00:00:11:06] Quando você domina isso, você não fica mais somente fazendo perguntas para a IA,
+[00:00:11:09 --> 00:00:12:19] mas controla os processos.
+[00:00:12:22 --> 00:00:15:13] Essa mudança vai tirar de uma posição passiva,
+[00:00:15:13 --> 00:00:18:21] de ficar esperando e torcendo para que a IA te devolva alguma coisa boa
+[00:00:18:21 --> 00:00:20:26] e te coloca no controle da engenharia do texto.
+[00:00:21:01 --> 00:00:24:10] Tecnicamente, prompts são mecanismos de restrição.
+[00:00:24:13 --> 00:00:27:05] Eles orientam o modelo a seguir caminhos específicos,
+[00:00:27:05 --> 00:00:30:01] como análises, sínteses, metáforas.
+[00:00:30:02 --> 00:00:32:16] E eles funcionam porque eles diminuem a variabilidade.
+[00:00:32:22 --> 00:00:36:02] Aquela chance da IA dar uma alucinada ou te dar respostas genéricas
+[00:00:36:02 --> 00:00:40:01] e aumentam a previsibilidade, a chance de você ter um raciocínio replicável.
+[00:00:40:07 --> 00:00:43:26] Sem estrutura, você vai receber uma média da internet, um resultado genérico.
+[00:00:43:28 --> 00:00:46:23] Com estrutura, você consegue controlar a qualidade da resposta.
+[00:00:47:00 --> 00:00:49:05] Então vamos ver isso na prática em seis situações diferentes.
+[00:00:49:19 --> 00:00:52:11] A primeira delas é uma situação de estratégia e contexto.
+[00:00:52:23 --> 00:00:57:00] Então sabe quando você encara uma tela em branco e a IA só devolve texto genérico?
+[00:00:57:05 --> 00:00:59:03] Isso acontece porque falta uma ancoragem.
+[00:00:59:07 --> 00:01:02:27] Então esse prompt aqui, você vai te ajudar a criar materiais com alto rigor editorial,
+[00:01:03:10 --> 00:01:05:16] com artigos de opinião, manuais técnicos,
+[00:01:05:22 --> 00:01:09:09] ou qualquer tipo de comunicado de imprensa, onde o tom não pode escorregar.
+[00:01:09:13 --> 00:01:12:21] Então aqui, a ancoragem é definir o papel, o objetivo e os limites.
+[00:01:12:28 --> 00:01:15:13] Isso vai garantir consistência desde a primeira linha.
+[00:01:15:18 --> 00:01:16:16] Então o prompt é assim, ó.
+[00:01:16:19 --> 00:01:18:28] Atue como editor-chefe de uma revista de ciência,
+[00:01:19:01 --> 00:01:22:03] escreva uma matéria de 800 palavras num tom claro e preciso,
+[00:01:22:07 --> 00:01:24:25] com título, subtítulos e conclusão acionável,
+[00:01:24:28 --> 00:01:26:28] evitando jargões e citações vagas.
+[00:01:26:28 --> 00:01:30:19] Isso funciona porque a gente define a persona, que é o editor, um tom, que é claro,
+[00:01:30:23 --> 00:01:33:15] e o mais importante, o que não fazer, que é usar jargões.
+[00:01:33:22 --> 00:01:36:24] Quando você define um editor-chefe de revista de ciência,
+[00:01:36:25 --> 00:01:39:18] você restringe o espaço de probabilidade da IA.
+[00:01:39:21 --> 00:01:43:15] E lógico, você pode colocar qualquer tipo de cargo que tenha mais a ver com o contexto.
+[00:01:43:20 --> 00:01:46:10] Pode ser uma revista de tecnologia, pode ser uma revista de viagem,
+[00:01:46:12 --> 00:01:48:27] alguma coisa que tenha a ver com o texto que você está escrevendo.
+[00:01:49:00 --> 00:01:51:24] E aqui a gente vai descartar, usando, por exemplo, a revista de ciência,
+[00:01:51:27 --> 00:01:55:14] a gente vai descartar vocabulário de marketing barato, vai descartar conversa de bar
+[00:01:55:14 --> 00:01:59:28] e vai focar apenas em construções que um editor dessa revista específica aceitaria.
+[00:02:00:00 --> 00:02:01:05] Então, a ideia é qual que é?
+[00:02:01:07 --> 00:02:03:24] Você definir as regras antes de começar a escrever.
+[00:02:04:01 --> 00:02:07:24] A próxima situação é uma de raciocínio e argumentação.
+[00:02:07:27 --> 00:02:11:06] Então, é ideal para momentos onde você tem uma decisão complexa
+[00:02:11:06 --> 00:02:12:13] ou tem que criar autoridade.
+[00:02:12:20 --> 00:02:14:06] Então, não usa isso aqui para texto simples.
+[00:02:14:15 --> 00:02:17:10] Use para quando você precisa escrever, por exemplo, um plano estratégico,
+[00:02:17:10 --> 00:02:21:03] uma análise de mercado, um post, por exemplo, para liderança de pensamento.
+[00:02:21:06 --> 00:02:23:28] É quando a resposta não pode aparecer apenas A ou B.
+[00:02:23:28 --> 00:02:27:18] É quando você quer desenvolver, mostrar o raciocínio, a profundidade do pensamento.
+[00:02:27:22 --> 00:02:28:16] Então o prompt é assim.
+[00:02:28:24 --> 00:02:32:27] Explique a adoção de IA em escolas, primeiro mapeando benefícios e riscos,
+[00:02:32:27 --> 00:02:36:10] depois analisando evidências e por fim sintetizando um plano.
+[00:02:36:15 --> 00:02:39:00] Feche com um parágrafo usando pensamento de segundo nível
+[00:02:39:00 --> 00:02:41:15] para antecipar consequências não intencionais.
+[00:02:41:19 --> 00:02:43:15] Aqui eu estou usando a adoção de IA em escolas,
+[00:02:43:17 --> 00:02:47:00] mas logicamente você edita para o conteúdo, para o contexto que você precisar.
+[00:02:47:03 --> 00:02:50:21] Isso funciona porque a gente força uma cadeia de pensamento, um chain of thoughts.
+[00:02:50:21 --> 00:02:52:28] Se você pede apenas um plano para uma IA,
+[00:02:53:01 --> 00:02:55:21] ela vai te entregar uma coisa meio óbvia ou vai dar uma alucinada.
+[00:02:55:27 --> 00:02:58:27] Então, quando você obriga o modelo a mapear, analisar e sintetizar,
+[00:02:59:00 --> 00:03:02:10] você simula mais ou menos um processo cognitivo de um especialista.
+[00:03:02:12 --> 00:03:05:04] E aqui a gente está usando um pensamento de segunda ordem,
+[00:03:05:04 --> 00:03:06:21] ou segundo nível, como está no prompt.
+[00:03:06:27 --> 00:03:09:25] A ideia aqui é você, em vez do pensamento de primeira ordem,
+[00:03:09:25 --> 00:03:10:21] uma coisa mais superficial,
+[00:03:11:00 --> 00:03:13:08] o pensamento de segundo nível, ele pensa um pouco na frente,
+[00:03:13:14 --> 00:03:16:00] pensa nas consequências, pensa no futuro, na casualidade.
+[00:03:16:07 --> 00:03:18:22] E essa é mais ou menos a cereja do bolo aqui desse prompt,
+[00:03:18:22 --> 00:03:21:24] porque você obriga a ir a prever uma coisa que ninguém está vendo.
+[00:03:21:27 --> 00:03:24:03] A próxima situação aqui é de estilo e de voz.
+[00:03:24:09 --> 00:03:27:06] Então, se você tem um texto que está tecnicamente correto,
+[00:03:27:06 --> 00:03:29:15] mas está meio chato ou está difícil de visualizar,
+[00:03:29:18 --> 00:03:32:16] você pode usar isso aqui para traduzir alguns conceitos técnicos para leigos,
+[00:03:32:21 --> 00:03:35:16] para transformar relatórios frios em manifestos,
+[00:03:35:17 --> 00:03:37:16] ou simplesmente para você encontrar um ângulo diferente,
+[00:03:37:20 --> 00:03:39:15] mais original para um assunto batido.
+[00:03:39:18 --> 00:03:40:05] O prompt é assim,
+[00:03:40:09 --> 00:03:44:09] reescreva esse texto ou conceito em três registros de voz distintos.
+[00:03:44:22 --> 00:03:46:23] O primeiro deles é analítico, com foco em dados,
+[00:03:46:26 --> 00:03:48:15] lógica fria e precisão técnica.
+[00:03:48:22 --> 00:03:49:25] O segundo é um manifesto.
+[00:03:49:25 --> 00:03:52:28] Pode ser um tom apaixonado, frases curtas e foco em mobilização.
+[00:03:53:05 --> 00:03:54:04] O terceiro é metafórico.
+[00:03:54:06 --> 00:03:57:18] Explique o conceito central usando apenas uma analogia visual estendida,
+[00:03:57:18 --> 00:03:58:29] sem usar termos técnicos.
+[00:03:59:04 --> 00:03:59:18] E por que funciona?
+[00:04:00:00 --> 00:04:02:16] O contraste é uma das melhores ferramentas de edição que tem.
+[00:04:02:19 --> 00:04:06:05] Quando você vê essa mesma ideia em três formas, em três roupas diferentes,
+[00:04:06:16 --> 00:04:09:04] frio, quente e visual, no caso da metáfora,
+[00:04:09:05 --> 00:04:10:15] você ganha um poder de escolha.
+[00:04:10:17 --> 00:04:13:01] E a versão metafórica é muito boa,
+[00:04:13:03 --> 00:04:16:14] porque ela obriga a IA a fazer uma compreensão semântica.
+[00:04:16:14 --> 00:04:19:04] Então, ela precisa entender exatamente qual é a essência da ideia
+[00:04:19:04 --> 00:04:20:19] para depois transformá-la em imagem.
+[00:04:20:25 --> 00:04:23:27] E o legal desse prompt aqui é que você consegue depois mesclar
+[00:04:23:27 --> 00:04:27:12] um ponto forte de cada um desses registros de voz.
+[00:04:27:17 --> 00:04:30:03] Então, você pode pegar algum dado interessante do analítico,
+[00:04:30:07 --> 00:04:33:10] algum tom mais interessante, apaixonado do manifesto,
+[00:04:33:10 --> 00:04:36:15] e pode usar um conceito, uma metáfora visual no mesmo texto.
+[00:04:36:20 --> 00:04:37:22] Você não precisa escolher só um deles,
+[00:04:37:28 --> 00:04:40:28] você pode achar um tom híbrido que vai funcionar ainda melhor para o seu contexto.
+[00:04:41:07 --> 00:04:44:12] A próxima situação é de criatividade sobre restrição.
+[00:04:44:12 --> 00:04:46:10] Então a IA tende a ser muito prolixa
+[00:04:46:10 --> 00:04:47:25] A usar palavras de preenchimento
+[00:04:47:25 --> 00:04:49:24] Você pede às vezes um texto para ela
+[00:04:49:24 --> 00:04:51:13] Ela escreve 50 parágrafos
+[00:04:51:13 --> 00:04:52:21] Então a restrição é vital
+[00:04:52:21 --> 00:04:54:05] Se você quer escrever, por exemplo
+[00:04:54:05 --> 00:04:54:27] Uma bio para Instagram
+[00:04:54:27 --> 00:04:56:07] Um assunto para e-mail
+[00:04:56:07 --> 00:04:57:12] Uma notificação de app
+[00:04:57:12 --> 00:04:59:03] Ou até às vezes um pitch de elevador
+[00:04:59:03 --> 00:05:00:15] Onde você precisa ser muito claro
+[00:05:00:15 --> 00:05:01:10] Em alguns segundos
+[00:05:01:10 --> 00:05:02:10] Quando você tem, sei lá
+[00:05:02:10 --> 00:05:03:21] Três segundos de atenção do leitor
+[00:05:03:21 --> 00:05:05:09] Você pode usar esse prompt aqui
+[00:05:05:09 --> 00:05:06:01] Então o prompt é assim
+[00:05:06:01 --> 00:05:07:10] Resuma este argumento
+[00:05:07:10 --> 00:05:08:15] Em três frases curtas
+[00:05:08:15 --> 00:05:10:10] De até 300 caracteres no total
+[00:05:10:10 --> 00:05:11:22] Mantendo o apelo emocional
+[00:05:11:22 --> 00:05:12:28] E uma ideia memorável
+[00:05:12:28 --> 00:05:13:20] Isso funciona porque
+[00:05:13:20 --> 00:05:14:28] porque você cria uma restrição.
+[00:05:15:00 --> 00:05:17:15] É basicamente uma panela de pressão que você está criando para a IA.
+[00:05:17:18 --> 00:05:19:25] Ela impede a IA de usar aquelas palavras de preenchimento
+[00:05:19:25 --> 00:05:23:01] que saem quase todo o texto, como portanto, contudo, todavia.
+[00:05:23:06 --> 00:05:25:28] E obriga ela a selecionar apenas os verbos e substantivos
+[00:05:25:28 --> 00:05:28:01] que têm uma força de significado maior,
+[00:05:28:04 --> 00:05:29:15] uma força semântica maior.
+[00:05:29:19 --> 00:05:30:29] Você não está pedindo apenas um resumo,
+[00:05:31:03 --> 00:05:32:14] você está pedindo uma destilação.
+[00:05:32:17 --> 00:05:34:22] E o resultado deixa de ser descritivo
+[00:05:34:22 --> 00:05:37:01] e transforma num texto mais persuasivo.
+[00:05:37:04 --> 00:05:39:18] A quinta situação aqui é de edição e de polimento.
+[00:05:39:25 --> 00:05:41:21] Aqui, você escreveu um texto,
+[00:05:41:21 --> 00:05:44:06] mas você está com aquela cegueira de autor, sabe?
+[00:05:44:07 --> 00:05:45:25] Você tem aqueles vieses.
+[00:05:45:28 --> 00:05:47:22] Então, você não consegue mais ver os erros,
+[00:05:47:24 --> 00:05:50:12] você não consegue mais fazer uma edição mais fria, né?
+[00:05:50:15 --> 00:05:52:20] Você usa isso para revisar materiais mais importantes,
+[00:05:52:28 --> 00:05:55:04] materiais opinativos, newsletters,
+[00:05:55:07 --> 00:05:56:21] scripts de vendas, e-mails delicados.
+[00:05:57:12 --> 00:05:59:26] É como você ter um editor sênior trabalhando do seu lado.
+[00:06:00:00 --> 00:06:00:25] Então, o prompt é assim, ó.
+[00:06:00:27 --> 00:06:02:17] Edite o texto em dois modos.
+[00:06:02:21 --> 00:06:04:03] Primeiro, é uma revisão cega.
+[00:06:04:10 --> 00:06:06:21] Rescreva como autora, preservando a ideia núcleo,
+[00:06:06:22 --> 00:06:09:01] aumente a clareza, aumente o ritmo, a coesão,
+[00:06:09:03 --> 00:06:11:12] corte redundâncias, reordene onde necessário.
+[00:06:11:12 --> 00:06:14:12] e entregue uma versão A em chuta e uma versão B em fática.
+[00:06:14:16 --> 00:06:16:10] Então, aqui você está basicamente pedindo para a IA
+[00:06:16:10 --> 00:06:18:09] reescrever o texto com base nesses parâmetros.
+[00:06:18:13 --> 00:06:20:22] Mas aí tem um passo 2, que é o diagnóstico editorial.
+[00:06:21:03 --> 00:06:23:29] Aqui, a gente quer manter, cortar, reordenar alguns itens
+[00:06:23:29 --> 00:06:25:16] com uma justificativa de uma linha,
+[00:06:25:20 --> 00:06:27:25] apontar vícios, lacunas e ambiguidades,
+[00:06:28:02 --> 00:06:30:24] propor título, lead, CTA, o call to action,
+[00:06:30:28 --> 00:06:33:14] incluir um checklist de 5 itens e também métricas
+[00:06:33:14 --> 00:06:36:02] como legibilidade, densidade, força do argumento,
+[00:06:36:04 --> 00:06:37:18] com notas de 0 a 10.
+[00:06:37:26 --> 00:06:39:17] Aqui é muito bom, porque a gente está separando
+[00:06:39:17 --> 00:06:41:20] na mão de quem faz, que é o passo 1, e o olho
+[00:06:41:20 --> 00:06:43:14] que tá julgando, que é o passo 2. Então o
+[00:06:43:14 --> 00:06:45:15] diagnóstico editorial vai oferecer métricas
+[00:06:45:15 --> 00:06:47:12] pra você ter algo
+[00:06:47:12 --> 00:06:49:16] pra você transformar uma coisa subjetiva
+[00:06:49:16 --> 00:06:51:16] em algo mais objetivo. E aí vai
+[00:06:51:16 --> 00:06:53:15] permitir que você aceite ou rejeite
+[00:06:53:15 --> 00:06:55:14] as mudanças com o critério, em vez de
+[00:06:55:14 --> 00:06:57:17] simplesmente aceitar 100% o que a IA
+[00:06:57:17 --> 00:06:59:18] tá reescrevendo pra você. Aqui, a gente
+[00:06:59:18 --> 00:07:01:21] está saindo daquele modo passivo de aceitar
+[00:07:01:21 --> 00:07:03:19] cegamente a reescrita da IA, pra um modo
+[00:07:03:19 --> 00:07:05:18] mais ativo, onde a gente pode ter um
+[00:07:05:18 --> 00:07:07:20] critério e escolher o que de fato faz sentido
+[00:07:07:20 --> 00:07:09:16] para você ou não. E a última situação
+[00:07:09:16 --> 00:07:11:24] é uma situação de audiência e teste.
+[00:07:12:01 --> 00:07:13:16] É aquilo quando você quer simular
+[00:07:13:16 --> 00:07:15:25] um texto, de como o texto vai chegar no ouvido
+[00:07:15:25 --> 00:07:17:27] de quem está lendo. É o famoso teste de recepção.
+[00:07:18:01 --> 00:07:19:19] Então, use isso aqui antes de publicar temas
+[00:07:19:19 --> 00:07:22:00] polêmicos, explicações de produtos
+[00:07:22:00 --> 00:07:23:23] mais complexos, manuais
+[00:07:23:23 --> 00:07:25:20] instruções, uma comunicação para vários
+[00:07:25:20 --> 00:07:27:22] públicos mistos, por exemplo, quando um e-mail vai
+[00:07:27:22 --> 00:07:29:25] chegar para um estagiário ou até um CEO.
+[00:07:30:00 --> 00:07:31:12] Isso aqui vai ajudar você a
+[00:07:31:12 --> 00:07:33:17] não soar pedante ou não soar
+[00:07:33:17 --> 00:07:35:13] simplista demais. O prompt é assim,
+[00:07:35:13 --> 00:07:39:01] Mostre como esse trecho seria percebido por um professor universitário,
+[00:07:39:04 --> 00:07:41:20] por um gestor de produto e um estudante de ensino médio.
+[00:07:41:21 --> 00:07:46:01] Então, para cada perfil, indique pontos de atrito e ajuste o parágrafo inicial.
+[00:07:46:10 --> 00:07:49:15] Então, a IA foi treinada com dados de todos esses perfis aqui.
+[00:07:49:20 --> 00:07:52:07] Então, esse prompt vai acessar esses dados de linguagem
+[00:07:52:07 --> 00:07:54:07] para simular objeções reais dessas pessoas.
+[00:07:54:15 --> 00:07:56:17] É basicamente um pré-mortem do seu texto.
+[00:07:56:21 --> 00:07:59:28] Você descobre onde a comunicação vai falhar antes mesmo dela ir para o ar.
+[00:08:00:00 --> 00:08:03:18] Muitas vezes o erro não está no conteúdo gerado, mas na forma de pensar.
+[00:08:03:18 --> 00:08:07:18] Tem muita gente que acha que a IA simplesmente conserta um texto ruim,
+[00:08:07:22 --> 00:08:10:18] mas na verdade ela só amplifica o seu raciocínio.
+[00:08:10:21 --> 00:08:13:21] Então, se o raciocínio for confuso, ele vai amplificar a confusão.
+[00:08:13:24 --> 00:08:15:17] E tem três erros que são muito comuns.
+[00:08:15:24 --> 00:08:18:20] O primeiro deles é confundir comando com estrutura.
+[00:08:18:21 --> 00:08:21:18] É você simplesmente pedir, olha, cria um manifesto para mim.
+[00:08:21:19 --> 00:08:23:16] Mas aí você não define nenhum critério de qualidade.
+[00:08:23:26 --> 00:08:24:16] Não vai funcionar.
+[00:08:24:19 --> 00:08:27:24] O segundo erro é achar que a IA completa o seu raciocínio.
+[00:08:27:26 --> 00:08:30:28] Na verdade, a IA vai expandir o que está implícito.
+[00:08:30:28 --> 00:08:34:19] E o terceiro erro é ignorar esse teste de audiência que eu acabei de mostrar para você.
+[00:08:34:22 --> 00:08:37:06] É supor que o leitor vai entender sem nenhum teste.
+[00:08:37:15 --> 00:08:40:18] Os prompts não são ferramentas para obter respostas.
+[00:08:40:19 --> 00:08:45:19] Os prompts são ferramentas para que você obrigue a IA a acompanhar o seu raciocínio.
+[00:08:45:24 --> 00:08:47:29] Então a questão não é decorar esses prompts.
+[00:08:48:09 --> 00:08:52:19] A questão é qual estrutura cognitiva que você vai querer utilizar no seu próximo texto.
+[00:08:52:25 --> 00:08:55:25] Você quer que a IA analise, que ela critique, que ela sintetize.
+[00:08:56:00 --> 00:08:57:25] E o legal é que você não precisa começar do zero.
+[00:08:57:25 --> 00:09:01:20] Aqui no Overlens, nós temos uma biblioteca de prompts completa lá no Overchat
+[00:09:01:20 --> 00:09:04:22] e você pode combinar, pode testar em qualquer um dos seus projetos.
+[00:09:04:24 --> 00:09:08:13] Então, o seu próximo passo deve ser ir lá para o Overchat, escolhe uma categoria,
+[00:09:08:16 --> 00:09:12:01] use um dos prompts nos textos e observe como o raciocínio muda drasticamente.

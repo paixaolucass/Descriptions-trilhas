@@ -1,0 +1,142 @@
+# Video: aula_02_v1 (360p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 10:30
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:02 --> 00:00:03:13] Chegou a hora de você conhecer a técnica dos professores.
+[00:00:03:14 --> 00:00:10:28] Um passo a passo para dominar qualquer IA e também qualquer outra ferramenta que você precise dominar na sua vida.
+[00:00:11:03 --> 00:00:18:07] O que eu vou te mostrar aqui é a principal habilidade nexialista conhecida como meta-aprendizagem.
+[00:00:18:11 --> 00:00:24:18] A capacidade de aprender a aprender e aprender a desaprender.
+[00:00:24:18 --> 00:00:34:04] Pode parecer algo simples, mas o que eu vou te mostrar aqui é um passo a passo para construir um sistema mental que vai te ajudar a aprender qualquer coisa muito mais rápido.
+[00:00:34:09 --> 00:00:47:29] Já tem mais de 6 anos que eu dou aula e eu posso te dizer sem sombra de dúvidas que a principal habilidade que eu desenvolvi foi a habilidade de aprender sozinho e desenvolver uma clareza para conseguir explicar isso para outras pessoas.
+[00:00:47:29 --> 00:00:57:11] Como eu me coloquei na posição de professor, eu precisei aprender como entender um conceito e simplificar ele para eu conseguir passar para outras pessoas.
+[00:00:57:19 --> 00:01:07:02] O primeiro insight que a gente pode tirar aqui é que a maioria das pessoas, quando vai aprender algo novo, se comporta muito mais como um peixe do que como um lago.
+[00:01:07:17 --> 00:01:13:26] Elas tentam navegar dentro do seu ambiente, mas é um ambiente escuro e fechado que não dá muitas informações.
+[00:01:13:26 --> 00:01:29:17] A técnica dos professores começa no momento em que você se coloque em uma posição mais alta de informação para entender o que vale a pena aprender e o que não vale a pena aprender, onde vale a pena investir tempo e onde vale a pena não investir tempo.
+[00:01:29:17 --> 00:01:35:20] Essa informação é importante porque atualmente a maioria das pessoas tem gastado muito tempo e dinheiro
+[00:01:35:20 --> 00:01:39:08] para aprender ferramentas que estão sendo atualizadas a cada semana.
+[00:01:39:18 --> 00:01:47:08] Então você compra um curso, gasta horas aprendendo ali e no mês que vem a ferramenta atualiza e fica mais fácil.
+[00:01:47:11 --> 00:01:49:10] E mais fácil. E mais fácil.
+[00:01:49:17 --> 00:01:54:20] Imagine uma pessoa que passou anos aprendendo Photoshop, aprendeu a clicar em cada botão,
+[00:01:54:20 --> 00:01:59:25] sabe falar de olhos fechados, como recortar um cabelo, como trocar uma iluminação,
+[00:01:59:28 --> 00:02:04:16] essa pessoa ficou boa em executar uma tarefa operacional.
+[00:02:04:23 --> 00:02:10:10] E então veio a inteligência artificial e agora entrega isso para as pessoas com palavras escritas.
+[00:02:10:10 --> 00:02:12:08] Você pede e aí a entrega.
+[00:02:12:26 --> 00:02:18:05] O que eu costumo dizer é que em um mundo em que o como se torna cada dia mais fácil,
+[00:02:18:07 --> 00:02:20:23] é melhor nos preocuparmos mais com o...
+[00:02:22:13 --> 00:02:26:13] Por que você vai aprender isso? O que você quer fazer com isso no final?
+[00:02:26:16 --> 00:02:32:13] É mais importante do que como você vai fazer, já que o como tem se tornado cada dia mais fácil.
+[00:02:32:19 --> 00:02:39:15] E é aqui que começa a técnica dos professores para aprender qualquer ferramenta e também qualquer conceito.
+[00:02:39:18 --> 00:02:46:26] O primeiro passo para poder enxergar de cima e ter uma visão geral é entender o que é bottom-up e o que é top-down.
+[00:02:46:26 --> 00:02:52:13] Bom, a maioria das pessoas, quando vai aprender uma habilidade nova, começa de cima para baixo.
+[00:02:52:18 --> 00:02:58:28] Então, elas começam da necessidade instantânea delas e aprendem até onde julgam ser necessário.
+[00:02:59:03 --> 00:03:02:04] Então, se eu preciso de uma imagem, eu vou aprender a gerar uma imagem.
+[00:03:02:10 --> 00:03:05:22] Se eu preciso de uma música, eu vou aprender a gerar uma música.
+[00:03:05:28 --> 00:03:11:28] E tudo bem, isso vai resolver o seu problema de curto prazo, mas não resolve o seu problema de longo prazo,
+[00:03:11:29 --> 00:03:16:05] que é o porquê você precisa dessa música, porquê você precisa dessa imagem,
+[00:03:16:05 --> 00:03:20:15] O que você vai fazer com isso no final? Qual é o resultado que você está buscando?
+[00:03:20:26 --> 00:03:28:10] Para isso, existe uma abordagem que é contrária, chamada bottom-up, em que você começa de baixo para cima.
+[00:03:28:16 --> 00:03:35:07] Começa primeiro compreendendo os fundamentos do que você quer fazer, para depois chegar nos comos.
+[00:03:35:15 --> 00:03:42:10] Enquanto a maioria foca no como, na ferramenta e no curto prazo, existem algumas pessoas que focam nos fundamentos,
+[00:03:42:10 --> 00:03:47:07] entendem os princípios que regem aquela área, dominam esses princípios,
+[00:03:47:08 --> 00:03:51:05] aprendem como conectá-los e então se tornam poderosas,
+[00:03:51:07 --> 00:03:54:03] porque com isso conseguem orquestrar melhor as ideias.
+[00:03:54:09 --> 00:03:55:12] Deixa eu te dar um exemplo.
+[00:03:55:19 --> 00:03:57:13] Imagine que você quer gerar uma imagem.
+[00:03:57:20 --> 00:04:00:29] A maioria das pessoas vão comprar um curso ou assistir vídeos no YouTube
+[00:04:00:29 --> 00:04:05:14] aprendendo mais sobre qual é a melhor ferramenta para gerar imagens.
+[00:04:05:18 --> 00:04:09:10] Então acabam descobrindo a ferramenta do Google, da OpenAI,
+[00:04:09:10 --> 00:04:14:16] a ferramenta da dona do TikTok, descobre quais são as melhores ferramentas do mundo
+[00:04:14:16 --> 00:04:16:25] e entende que tem um campo para escrever um texto.
+[00:04:17:01 --> 00:04:20:19] Ela entende onde clicar em cada botão, faz a assinatura,
+[00:04:20:22 --> 00:04:25:10] mas quando ela vai digitar o texto dela, a imagem que ela faz não é tão boa assim.
+[00:04:25:12 --> 00:04:26:23] Ela precisa melhorar o prompt.
+[00:04:26:28 --> 00:04:31:07] Então, ela dá mais uma mergulhada e aprende como escrever os prompts.
+[00:04:31:15 --> 00:04:35:27] O problema é que ela aprende a escrever esses prompts igual o professor dela
+[00:04:35:27 --> 00:04:38:07] ou a professora dela ensinou para ela.
+[00:04:38:07 --> 00:04:40:09] e cria-se ali um padrão.
+[00:04:41:00 --> 00:04:44:18] Ela precisa de uma estrutura engessada para conseguir fazer imagens boas,
+[00:04:44:18 --> 00:04:47:22] mas não necessariamente aprendeu a gerar aquelas imagens.
+[00:04:47:25 --> 00:04:52:23] Agora, imagine uma pessoa que tem essa habilidade de meta-aprendizagem bem desenvolvida
+[00:04:52:23 --> 00:04:55:10] e conhece a técnica dos professores.
+[00:04:55:15 --> 00:04:59:22] Então, o que ela faz é, ao invés de focar direto na ferramenta,
+[00:04:59:25 --> 00:05:04:11] o que ela faz é entender quais são os princípios e fundamentos de uma boa imagem.
+[00:05:04:21 --> 00:05:07:26] Então, ela aprende um pouco mais sobre fotografia.
+[00:05:08:07 --> 00:05:15:00] Entende o que é sujeito, objeto, entende o que é enquadramento, ângulo, lente, câmera, iluminação.
+[00:05:15:06 --> 00:05:20:13] E uma vez que ela entende esses fundamentos, ela aprende a orquestrar esses fundamentos em qualquer imagem.
+[00:05:20:25 --> 00:05:25:19] Você concorda comigo que a pessoa que apenas aprendeu a clicar em botões
+[00:05:25:19 --> 00:05:30:26] não tem o mesmo potencial do que a pessoa que sabe orquestrar uma imagem?
+[00:05:31:04 --> 00:05:34:18] A pessoa que sabe orquestrar uma imagem começou com a pergunta
+[00:05:34:18 --> 00:05:40:25] pergunta o que é uma boa imagem quais são elementos que constroem uma boa imagem como eu posso
+[00:05:40:25 --> 00:05:48:07] construir uma boa imagem essa abordagem Boram up em que você começa dos fundamentos e vai até o
+[00:05:48:07 --> 00:05:55:07] como na prática isso significa comece pelos fundamentos Ah mas como eu vou saber quais
+[00:05:55:07 --> 00:06:00:24] são os fundamentos E aí que entra graça hoje você pode perguntar isso para qualquer Inteligência
+[00:06:00:24 --> 00:06:02:24] artificial. E você pode fazer isso
+[00:06:02:24 --> 00:06:04:22] gratuitamente. Pode fazer isso no chat
+[00:06:04:22 --> 00:06:06:10] GPT, pode fazer isso no Gemini.
+[00:06:06:11 --> 00:06:08:25] Quero aprender sobre como gerar músicas.
+[00:06:08:28 --> 00:06:10:22] Comece perguntando quais são
+[00:06:10:22 --> 00:06:13:03] os fundamentos da geração de músicas.
+[00:06:13:06 --> 00:06:14:14] Quero aprender como
+[00:06:14:14 --> 00:06:16:28] criar um agente. Comece perguntando
+[00:06:16:28 --> 00:06:18:20] quais são os fundamentos
+[00:06:18:20 --> 00:06:20:19] da construção de um agente. Isso por
+[00:06:20:19 --> 00:06:22:15] si só já vai te colocar na frente da
+[00:06:22:15 --> 00:06:24:22] maioria das pessoas. Mas eu ainda
+[00:06:24:22 --> 00:06:26:23] quero te entregar mais alguns ingredientes
+[00:06:26:23 --> 00:06:28:28] importantes. Separe fatos,
+[00:06:28:28 --> 00:06:31:07] conceitos e procedimentos.
+[00:06:31:12 --> 00:06:33:27] Esses três pilares vão te ajudar a entender
+[00:06:33:27 --> 00:06:37:12] como estudar da melhor maneira para cada momento.
+[00:06:37:22 --> 00:06:40:24] A verdade é que existem três tipos de informações diferentes.
+[00:06:41:07 --> 00:06:44:01] Existe um tipo de informação que é chamada de
+[00:06:45:12 --> 00:06:48:01] Com o fato, o que você faz é memorizar.
+[00:06:48:03 --> 00:06:51:13] Você guarda aquele fato porque ele pode ser útil para você no futuro.
+[00:06:51:18 --> 00:06:57:10] Por exemplo, inteligências artificiais alucinam quando elas não têm informação suficiente.
+[00:06:57:25 --> 00:06:58:25] Isso é um fato.
+[00:06:59:00 --> 00:07:02:00] Você guarda esse fato porque ele é útil para você.
+[00:07:02:05 --> 00:07:05:06] Fatos são diferentes de conceitos.
+[00:07:05:10 --> 00:07:14:00] Um conceito você precisa aprender porque são os conceitos fundamentais que regem os fundamentos de uma área.
+[00:07:14:00 --> 00:07:20:03] O conceito não pode ser memorizado, porque se você memoriza, você não compreende.
+[00:07:20:08 --> 00:07:25:06] Então, diferente de um fato, um conceito precisa ser compreendido.
+[00:07:25:08 --> 00:07:27:17] E para isso, o jeito de aprender é diferente.
+[00:07:27:22 --> 00:07:29:09] Como você compreende um conceito?
+[00:07:29:20 --> 00:07:34:05] Invertendo a ordem, colocando em outro contexto, explicando isso para outra pessoa,
+[00:07:34:10 --> 00:07:37:20] colocando isso na prática, são maneiras de entender um conceito.
+[00:07:37:21 --> 00:07:42:03] Um bom exemplo de conceito é a explicação teórica de que as IAs generativas,
+[00:07:42:03 --> 00:07:47:28] essas que fazem imagem, vídeo, música, texto, são construídas com base em Deep Learning,
+[00:07:48:05 --> 00:07:53:15] que é um aprendizado profundo que quebra vários dados e compreende padrões.
+[00:07:53:25 --> 00:08:01:16] Essas IAs não usam banco de dados tradicionais, o que significa que elas não guardam as informações e copiam para depois,
+[00:08:01:21 --> 00:08:09:16] mas sim reconstroem elas entendendo quais são os padrões que regem aquela imagem, vídeo, música que você está gerando.
+[00:08:09:16 --> 00:08:17:20] Isso é um conceito e precisa ser aprendido, porque não entender isso gera pontos cegos que vão te impedir de usar as EAs da melhor maneira possível.
+[00:08:17:25 --> 00:08:22:10] E um procedimento mostra um passo a passo de como executar alguma coisa.
+[00:08:22:18 --> 00:08:29:19] Esse aqui é o que a maioria das pessoas adoram e ele tem a sua utilidade, mas ele precisa vir no momento certo.
+[00:08:29:27 --> 00:08:35:08] Um bom exemplo de procedimento é mostrar como utilizar o chat GPT da melhor maneira possível.
+[00:08:35:12 --> 00:08:36:03] Olha só.
+[00:08:36:09 --> 00:08:39:05] 1. Defina claramente o que você quer.
+[00:08:39:16 --> 00:08:43:21] Por exemplo, escreva um resumo de 200 palavras sobre a Revolução Francesa.
+[00:08:43:22 --> 00:08:47:00] 2. Digite o prompt na interface da ferramenta.
+[00:08:47:03 --> 00:08:51:28] 3. Revise a resposta, verificando se há erros ou ajustes a fazer.
+[00:08:52:09 --> 00:08:57:07] 4. Refine o prompt ou edite o texto para chegar ao resultado final.
+[00:08:57:13 --> 00:09:01:13] Um procedimento, então, é um passo a passo prático para executar alguma coisa.
+[00:09:01:19 --> 00:09:05:09] Quando você entende a diferença entre fatos, conceitos e procedimentos,
+[00:09:05:09 --> 00:09:10:20] isso te ajuda a entender como organizar os seus estudos e, principalmente, como aprender mais rápido.
+[00:09:10:28 --> 00:09:16:19] A maioria das pessoas focam tanto nos procedimentos que se esquecem dos conceitos e dos fatos,
+[00:09:16:19 --> 00:09:21:28] ou, muitas vezes, acabam confundindo fatos com inferências,
+[00:09:22:04 --> 00:09:27:22] que são ideias da cabeça de outras pessoas e não informações verificáveis.
+[00:09:27:28 --> 00:09:32:12] Na prática, o que eu quero te mostrar aqui é que, independente da ferramenta que você vai aprender
+[00:09:32:12 --> 00:09:38:27] ou até mesmo da área que você está se desenvolvendo, comece junto com as inteligências artificiais,
+[00:09:38:28 --> 00:09:45:22] separando quais são os principais fatos, conceitos e procedimentos sobre a área que você está estudando agora.
+[00:09:45:28 --> 00:09:50:25] Muitas vezes, em 15, 20 minutos, você pode aprender as informações mais valiosas de uma área
+[00:09:50:25 --> 00:09:55:28] que passam a maior parte do tempo escondidas para a grande maioria das pessoas.
+[00:09:56:09 --> 00:10:00:27] O mais importante, você já está começando a perceber, não é tentar aprender sobre tudo,
+[00:10:00:27 --> 00:10:03:29] já que isso é impossível, você vai morrer e não vai saber sobre tudo,
+[00:10:04:03 --> 00:10:09:01] mas sim aprender as coisas certas, as informações, conceitos e procedimentos certos
+[00:10:09:01 --> 00:10:12:02] para cada momento que vão te ajudar a evoluir muito mais rápido.
+[00:10:12:08 --> 00:10:16:18] Enquanto a maioria das pessoas perdem tempo, muitas vezes cavando no lugar errado,
+[00:10:16:26 --> 00:10:20:18] você primeiro plana, entende o cenário como um todo
+[00:10:20:18 --> 00:10:25:28] e só depois que você tem um alvo, você mergulha ali para desenvolver o seu aprendizado.
+[00:10:25:28 --> 00:10:34:09] A partir de agora você vai começar a aprender de um jeito novo, muito mais poderoso e eu quero te mostrar na prática como fazer isso. Bora lá?

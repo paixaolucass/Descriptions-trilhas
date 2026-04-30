@@ -1,0 +1,4273 @@
+WEBVTT
+
+1
+00:00:00.120 --> 00:00:03.380
+Vocês vão ver que o conceito que está aqui talvez para você pareça óbvio, talvez
+
+2
+00:00:03.420 --> 00:00:05.950
+você fale: "Juan, isso é óbvio, eu já sabia".
+
+3
+00:00:06.640 --> 00:00:10.500
+Mas sempre que eu vou fazer a análise de algum projeto de design,
+
+4
+00:00:11.020 --> 00:00:14.820
+tanto dentro da Odisseia quanto fora aqui dos seguidores também, no arquivo aberto,
+
+5
+00:00:15.420 --> 00:00:19.300
+eu noto que essa questão está lá. Eu noto que
+
+6
+00:00:20.080 --> 00:00:23.960
+esse conceito que nós vamos falar aqui hoje, está lá.
+
+7
+00:00:23.970 --> 00:00:27.940
+Há algumas semanas eu estava ajudando a Camila em um dos projetos dela de site, e a
+
+8
+00:00:27.980 --> 00:00:31.500
+gente lidou com esse mesmo problema, essa mesma questão,
+
+9
+00:00:32.000 --> 00:00:35.610
+porque é uma questão que não envolve só a sua decisão, mas envolve o contexto,
+
+10
+00:00:35.640 --> 00:00:38.000
+envolve o seu cliente. Então
+
+11
+00:00:38.920 --> 00:00:42.840
+apesar de ser óbvia, não é tão simples na
+
+12
+00:00:42.860 --> 00:00:46.760
+prática. Na verdade, é mais difícil alcançar isso na prática do que
+
+13
+00:00:46.780 --> 00:00:50.380
+parece. Então preste muita atenção e o mais importante de tudo, busque
+
+14
+00:00:50.400 --> 00:00:53.960
+aplicar o que você vai aprender aqui hoje, nos seus projetos e nas suas
+
+15
+00:00:53.980 --> 00:00:57.559
+composições. Você vai ver aqui uma técnica
+
+16
+00:00:57.700 --> 00:01:01.540
+simples, mas muito eficiente para subir o nível dos
+
+17
+00:01:01.580 --> 00:01:05.560
+seus projetos de design. E a primeira coisa
+
+18
+00:01:05.580 --> 00:01:08.860
+que eu preciso falar aqui, para poder te colocar
+
+19
+00:01:08.870 --> 00:01:12.440
+no humor certo para
+
+20
+00:01:12.760 --> 00:01:16.580
+assistir essa aula, é que se você entender a essência dessa
+
+21
+00:01:16.620 --> 00:01:19.540
+aula, o seu design vai evoluir naturalmente.
+
+22
+00:01:19.660 --> 00:01:21.860
+E você já me viu falar isso aqui em outra aula,
+
+23
+00:01:22.320 --> 00:01:26.080
+naturalmente. Por que eu coloquei isso aqui?
+
+24
+00:01:26.160 --> 00:01:29.800
+Porque o melhor jeito de evoluir é naturalmente, é quando você nem
+
+25
+00:01:29.920 --> 00:01:33.490
+percebe que evoluiu, mas você olha para trás e fala: "Cara, mudou muito,
+
+26
+00:01:33.640 --> 00:01:34.550
+ficou muito melhor".
+
+27
+00:01:35.380 --> 00:01:39.220
+Não houve tanto esforço para essa evolução acontecer, ela simplesmente
+
+28
+00:01:39.260 --> 00:01:42.220
+aconteceu. Então se você aplicar o que eu vou te mostrar,
+
+29
+00:01:42.740 --> 00:01:44.840
+naturalmente, o seu design vai evoluir.
+
+30
+00:01:45.160 --> 00:01:48.820
+E para a gente começar essa aula aqui da melhor forma possível, eu quero te mostrar
+
+31
+00:01:48.900 --> 00:01:52.640
+uma imagem de um anúncio de uma empresa que provavelmente
+
+32
+00:01:52.660 --> 00:01:53.460
+você conhece.
+
+33
+00:01:54.300 --> 00:01:58.160
+E esse anúncio é da época de 1980. Vou
+
+34
+00:01:58.200 --> 00:02:01.280
+colocar aqui entre 1977 até
+
+35
+00:02:01.360 --> 00:02:04.940
+1996, mais ou
+
+36
+00:02:05.000 --> 00:02:08.801
+menos, nesse período aí, a década de 80, principalmente, que é esse
+
+37
+00:02:08.880 --> 00:02:12.740
+anúncio da Apple. Eu não sei exatamente se foi mais para o
+
+38
+00:02:12.780 --> 00:02:16.580
+final da década de 80 ou para o início da década de 80, esse anúncio
+
+39
+00:02:16.620 --> 00:02:19.880
+aqui. Mas eu quero que você observe que
+
+40
+00:02:20.620 --> 00:02:24.440
+nesse anúncio, é um anúncio para revista, naquela época, para nós
+
+41
+00:02:24.500 --> 00:02:27.760
+analisarmos bem o contexto, os anúncios tinham muito
+
+42
+00:02:27.800 --> 00:02:31.360
+texto, porque a cultura das
+
+43
+00:02:31.380 --> 00:02:34.540
+pessoas era um pouco diferente. Era normal ter anúncios assim.
+
+44
+00:02:34.660 --> 00:02:38.460
+A maioria das empresas tinham anúncios assim, com muito texto,
+
+45
+00:02:38.620 --> 00:02:42.320
+só que não é porque era normal, que era a melhor prática.
+
+46
+00:02:42.500 --> 00:02:44.470
+Eu tenho dois livros aqui, eu vou até pegar eles.
+
+47
+00:02:44.470 --> 00:02:47.340
+Espera aí rapidinho.
+
+48
+00:02:49.320 --> 00:02:50.420
+Esses dois livros aqui,
+
+49
+00:02:51.320 --> 00:02:53.460
+um que chama "All American Ads" de
+
+50
+00:02:54.240 --> 00:02:58.130
+1940, está invertido aqui para vocês, porque na hora de gravar a
+
+51
+00:02:58.240 --> 00:03:00.989
+câmera inverte, mas acho que vai dar para vocês verem.
+
+52
+00:03:00.989 --> 00:03:04.880
+Então aqui, olha, cada página dessa tem um anúncio diferente,
+
+53
+00:03:04.940 --> 00:03:08.600
+são muitos anúncios. Tem vários anúncios com composições
+
+54
+00:03:08.640 --> 00:03:10.720
+bem recheadas de informação, está vendo?
+
+55
+00:03:11.540 --> 00:03:12.600
+E tem alguns
+
+56
+00:03:14.060 --> 00:03:16.020
+que são menos informações.
+
+57
+00:03:17.700 --> 00:03:21.120
+Está vendo? Então ainda assim que naquela época,
+
+58
+00:03:21.450 --> 00:03:25.280
+com as revistas e os jornais, muita gente utilizava texto, também
+
+59
+00:03:25.300 --> 00:03:27.940
+existiam as empresas que utilizavam pouco texto.
+
+60
+00:03:28.260 --> 00:03:30.880
+Inclusive, é sobre isso que nós vamos falar aqui.
+
+61
+00:03:31.140 --> 00:03:35.040
+E a questão aqui é a seguinte: nós temos esse anúncio falando: "A
+
+62
+00:03:35.049 --> 00:03:38.960
+Apple introduz o Macintosh, o computador para os confusos,
+
+63
+00:03:39.040 --> 00:03:42.049
+os perdidos e os intimidados", alguma coisa assim.
+
+64
+00:03:43.100 --> 00:03:47.000
+E o que eu já noto, que é o mais interessante, é que quando eu olho
+
+65
+00:03:47.160 --> 00:03:49.549
+para esse tanto de informação, esse tanto de tela,
+
+66
+00:03:51.060 --> 00:03:54.680
+e eu não sei nada sobre computador, pegando aquele contexto daquela época,
+
+67
+00:03:55.240 --> 00:03:58.860
+eu vou ficar confuso mesmo. Então não tem nada de
+
+68
+00:03:58.940 --> 00:04:01.080
+simples nesse anúncio. Eu acho até legal.
+
+69
+00:04:02.080 --> 00:04:05.820
+A tecnologia evoluiu tanto, que quando eu vejo essa imagem aqui, olha.
+
+70
+00:04:06.860 --> 00:04:10.060
+O primeiro Apple
+
+71
+00:04:10.120 --> 00:04:12.300
+que você pode carregar na mochila.
+
+72
+00:04:12.580 --> 00:04:16.560
+Tem essa imagem. Imagina essa caixa aqui
+
+73
+00:04:16.579 --> 00:04:18.899
+na sua mochila. Que mochila que vai ser essa?
+
+74
+00:04:19.019 --> 00:04:21.060
+Então eu acho muito legal esse anúncio.
+
+75
+00:04:21.070 --> 00:04:24.420
+Se você pode apontar, você pode usar um Macintosh.
+
+76
+00:04:25.100 --> 00:04:28.720
+Então olha que interessante. Se você pensar
+
+77
+00:04:29.100 --> 00:04:30.460
+na questão de composição,
+
+78
+00:04:31.360 --> 00:04:33.120
+a composição está bem construída.
+
+79
+00:04:33.400 --> 00:04:37.080
+Você tem uma hierarquia, um título maior, títulos menores,
+
+80
+00:04:37.420 --> 00:04:40.180
+os parágrafos, as colunas bem divididas.
+
+81
+00:04:40.600 --> 00:04:44.540
+Então tem uma certa hierarquia. Essa imagem aqui, talvez ela
+
+82
+00:04:44.580 --> 00:04:47.940
+gera uma confusão, porque o texto eu continuo ele aqui
+
+83
+00:04:48.660 --> 00:04:52.400
+ou eu continuo ele aqui e depois a parte de baixo eu continuo aqui?
+
+84
+00:04:52.940 --> 00:04:55.190
+É um pouco confuso, você tem que ler para poder sacar.
+
+85
+00:04:55.270 --> 00:04:58.820
+Não dá para sacar de primeira. Será que é nessa ordem aqui? Provavelmente.
+
+86
+00:05:00.060 --> 00:05:01.860
+Igual jornal, você segue em colunas, mas
+
+87
+00:05:03.020 --> 00:05:06.880
+e se não for assim? Dá uma sensação de que também poderia ser
+
+88
+00:05:06.940 --> 00:05:07.600
+desse jeito.
+
+89
+00:05:09.080 --> 00:05:12.380
+Então pode gerar essa confusão. O natural é isso aqui.
+
+90
+00:05:12.640 --> 00:05:16.540
+Eu imagino que seja isso. Então tem as colunas aqui, tem as imagens,
+
+91
+00:05:17.140 --> 00:05:20.920
+tem uma certa organização, mas não é
+
+92
+00:05:20.960 --> 00:05:23.940
+comum hoje em dia nós vermos anúncios assim mais.
+
+93
+00:05:23.980 --> 00:05:25.400
+Não é tão comum, isso aqui
+
+94
+00:05:26.840 --> 00:05:30.400
+a gente já sente que é antigo, nós já sentimos que não é a melhor prática,
+
+95
+00:05:30.500 --> 00:05:32.380
+certo? Vocês devem sentir isso também.
+
+96
+00:05:32.940 --> 00:05:36.050
+E por isso que eu fiz questão de pegar um anúncio da Apple, vocês já vão ver essa
+
+97
+00:05:36.060 --> 00:05:39.219
+evolução. Esse daqui é outro. Por dentro de um Apple.
+
+98
+00:05:39.280 --> 00:05:43.200
+Então olha só, que tanto de informação.
+
+99
+00:05:43.260 --> 00:05:46.720
+E isso aqui é muito comum. Eu tenho um
+
+100
+00:05:46.760 --> 00:05:50.360
+produto e eu quero mostrar para as pessoas tudo que meu produto tem de
+
+101
+00:05:50.460 --> 00:05:54.380
+excepcional e eu tenho uma página, então eu vou colocar tudo que eu posso
+
+102
+00:05:54.420 --> 00:05:58.040
+dentro daquela página. Geralmente os donos das
+
+103
+00:05:58.080 --> 00:06:01.260
+empresas querem fazer isso. E nós precisamos ensinar para eles
+
+104
+00:06:01.360 --> 00:06:04.608
+queEssa não é a melhor prática quando você quer vender uma
+
+105
+00:06:04.648 --> 00:06:08.588
+ideia. Mas eu fiz questão de colocar aqui, porque se você está
+
+106
+00:06:08.608 --> 00:06:11.748
+começando no design, se você ainda é um iniciante,
+
+107
+00:06:13.288 --> 00:06:16.888
+é fácil que você deixe passar esse
+
+108
+00:06:16.898 --> 00:06:20.498
+conceito. É fácil que você simplesmente
+
+109
+00:06:20.528 --> 00:06:24.148
+pegue toda informação que você tem e jogue dentro de um
+
+110
+00:06:24.488 --> 00:06:26.608
+espaço, deixando ele assim,
+
+111
+00:06:27.708 --> 00:06:28.828
+cheio de informação.
+
+112
+00:06:29.708 --> 00:06:31.688
+E como vocês vão ver aqui nessa aula ainda,
+
+113
+00:06:32.948 --> 00:06:34.928
+isso aqui não é convidativo.
+
+114
+00:06:36.288 --> 00:06:40.227
+Talvez para as pessoas mais nerds, seja convidativo, mas
+
+115
+00:06:40.308 --> 00:06:44.208
+para o público geral, que é o que a Apple queria atingir, não seja
+
+116
+00:06:44.668 --> 00:06:48.208
+tão convidativo assim. Isso era muito comum.
+
+117
+00:06:48.248 --> 00:06:49.628
+Era muito comum
+
+118
+00:06:50.468 --> 00:06:54.188
+vermos anúncios assim, só que também, e é por isso que eu fiz questão de
+
+119
+00:06:54.268 --> 00:06:57.508
+pegar esses dois livrões aqui para vocês, tem um da década de 80 também.
+
+120
+00:06:58.108 --> 00:07:01.228
+Apesar de ser muito comum anúncios cheios de texto,
+
+121
+00:07:01.968 --> 00:07:05.528
+também era comum ter vários. Esse aqui é da década de 80, da mesma década
+
+122
+00:07:06.047 --> 00:07:08.248
+dos anúncios da Apple. Então olha isso daqui,
+
+123
+00:07:09.248 --> 00:07:11.488
+vai estar invertido, mas dá para vocês verem.
+
+124
+00:07:11.558 --> 00:07:12.078
+Muito
+
+125
+00:07:12.888 --> 00:07:16.568
+texto, está vendo? Então tem um excesso de texto,
+
+126
+00:07:17.288 --> 00:07:18.338
+muita informação.
+
+127
+00:07:19.218 --> 00:07:22.448
+E se você pegar essa experiência aqui de ter uma revista,
+
+128
+00:07:23.768 --> 00:07:27.628
+não era essa ideia de smartphone, que com
+
+129
+00:07:27.668 --> 00:07:30.038
+uma deslizada você parou de ver aquele anúncio.
+
+130
+00:07:30.328 --> 00:07:33.888
+Não, você tinha aquela revista e ela ia ficar com você por meses.
+
+131
+00:07:33.928 --> 00:07:36.008
+Então você teria tempo para
+
+132
+00:07:36.028 --> 00:07:38.408
+poder
+
+133
+00:07:39.468 --> 00:07:42.308
+ler o conteúdo que tem ali. Só que ao mesmo tempo,
+
+134
+00:07:43.548 --> 00:07:46.848
+a gente nota também, olha só, deixa eu pegar um outro aqui.
+
+135
+00:07:46.928 --> 00:07:48.048
+Alguns anúncios que
+
+136
+00:07:48.848 --> 00:07:52.748
+não têm muito texto, mas que vendem uma ideia.
+
+137
+00:07:54.128 --> 00:07:55.068
+Não
+
+138
+00:07:56.908 --> 00:08:00.308
+vai ficar tão fácil para vocês verem. Deixa eu ver um grandão.
+
+139
+00:08:02.748 --> 00:08:03.668
+Cadê?
+
+140
+00:08:05.248 --> 00:08:08.868
+O que tem de filme? Está na sessão de filme, por isso.
+
+141
+00:08:08.878 --> 00:08:12.648
+Nossa, olha isso daqui. Antes de eu mostrar, é até legal para vocês verem.
+
+142
+00:08:13.408 --> 00:08:15.588
+Olha esse tanto de texto, muito texto.
+
+143
+00:08:15.648 --> 00:08:19.588
+Era outro contexto, era outra realidade, então era comum ter esse tanto
+
+144
+00:08:19.628 --> 00:08:20.188
+de texto aqui.
+
+145
+00:08:21.948 --> 00:08:23.708
+Hoje em dia já não é tão comum mais.
+
+146
+00:08:30.728 --> 00:08:31.008
+Aqui.
+
+147
+00:08:32.688 --> 00:08:36.398
+Esse aqui. Eu não li o que está escrito aqui, mas eu quero que vocês prestem
+
+148
+00:08:36.408 --> 00:08:37.629
+atenção nessa composição.
+
+149
+00:08:38.489 --> 00:08:41.119
+Bem menos texto, muito mais chamativo
+
+150
+00:08:42.068 --> 00:08:45.838
+e tende a ser muito mais emocional, com uma ideia que fica guardada com
+
+151
+00:08:45.848 --> 00:08:49.308
+você. Geralmente os anúncios com muito texto, são
+
+152
+00:08:49.348 --> 00:08:53.128
+anúncios que querem falar de questões
+
+153
+00:08:53.168 --> 00:08:54.708
+técnicas, tecnicidades.
+
+154
+00:08:56.008 --> 00:08:59.908
+Falar da tecnologia, das vantagens que a tecnologia tem.
+
+155
+00:08:59.988 --> 00:09:01.768
+Na década de 80 isso era muito comum, está vendo?
+
+156
+00:09:01.968 --> 00:09:05.728
+Eu custo a encontrar anúncios com pouco
+
+157
+00:09:05.868 --> 00:09:08.808
+texto. Geralmente é isso aqui, muito texto.
+
+158
+00:09:09.928 --> 00:09:13.088
+Legal. Agora, quando eu volto 40 anos atrás,
+
+159
+00:09:13.808 --> 00:09:15.748
+quando os anúncios ainda eram desenhados,
+
+160
+00:09:16.568 --> 00:09:20.428
+era diferente. Então isso aqui fazia parte da cultura dos anos 80,
+
+161
+00:09:20.488 --> 00:09:23.828
+mas antes disso, pouco texto era
+
+162
+00:09:23.868 --> 00:09:27.708
+interessante. Tirando isso aqui. Uau, meu Deus!
+
+163
+00:09:28.688 --> 00:09:32.348
+Poxa vida. Isso aqui era o anúncio.
+
+164
+00:09:34.628 --> 00:09:38.148
+Television. Vendia um
+
+165
+00:09:38.158 --> 00:09:42.088
+momento. Está vendo? Vendia um momento para as pessoas.
+
+166
+00:09:43.728 --> 00:09:47.668
+Na década de 80 era muito fácil. Olha só, eu encontro esses anúncios o tempo
+
+167
+00:09:47.688 --> 00:09:50.428
+inteiro. Pouco texto, muita imagem.
+
+168
+00:09:51.388 --> 00:09:52.438
+Muito mais próximo
+
+169
+00:09:53.588 --> 00:09:55.698
+do que nós temos hoje. Também tinha os textos.
+
+170
+00:09:56.168 --> 00:10:00.088
+Os anúncios com muito texto aqui. Esses daqui eram anúncios com
+
+171
+00:10:00.768 --> 00:10:01.648
+bastante texto.
+
+172
+00:10:04.128 --> 00:10:07.888
+Deixa eu ver se eu pego mais um com
+
+173
+00:10:07.988 --> 00:10:09.348
+pouco texto para vocês verem.
+
+174
+00:10:14.208 --> 00:10:15.328
+Vê se acho um legal.
+
+175
+00:10:16.168 --> 00:10:20.128
+Nossa, olha, era bem a ideia do jornal, porque essa era a mídia. Está vendo?
+
+176
+00:10:20.828 --> 00:10:21.688
+A ideia do jornal.
+
+177
+00:10:23.468 --> 00:10:25.448
+Vamos sintetizar aqui que vai ser melhor.
+
+178
+00:10:26.228 --> 00:10:28.748
+Por que eu estou mostrando isso para vocês? Onde eu quero chegar com isso?
+
+179
+00:10:29.488 --> 00:10:31.558
+É uma questão de momento,
+
+180
+00:10:32.368 --> 00:10:33.048
+de meio
+
+181
+00:10:34.508 --> 00:10:37.818
+e da própria mensagem. Na época, na década de 40,
+
+182
+00:10:38.218 --> 00:10:42.088
+qual era o meio principal
+
+183
+00:10:42.148 --> 00:10:44.568
+de contato das marcas com os consumidores?
+
+184
+00:10:46.188 --> 00:10:46.568
+Rádio,
+
+185
+00:10:47.368 --> 00:10:47.848
+jornal
+
+186
+00:10:48.708 --> 00:10:52.298
+e televisão. Esses eram os meios mais
+
+187
+00:10:52.308 --> 00:10:56.208
+comuns. Já na década de 80, qual era o meio principal?
+
+188
+00:10:56.268 --> 00:10:56.997
+As revistas,
+
+189
+00:10:58.168 --> 00:11:00.068
+jornais e televisão.
+
+190
+00:11:01.748 --> 00:11:02.108
+Hoje,
+
+191
+00:11:03.688 --> 00:11:04.988
+42 anos depois,
+
+192
+00:11:06.468 --> 00:11:10.448
+qual é o meio principal? A internet, as
+
+193
+00:11:10.468 --> 00:11:10.908
+telas.
+
+194
+00:11:12.048 --> 00:11:15.748
+E é muito importante a gente entender isso, para entender como fazer um
+
+195
+00:11:15.768 --> 00:11:18.688
+design eficiente, como fazer um design
+
+196
+00:11:19.268 --> 00:11:21.588
+que gera resultado.
+
+197
+00:11:22.448 --> 00:11:26.428
+E esse tanto de texto que vocês viram aqui, hoje ele
+
+198
+00:11:26.468 --> 00:11:29.048
+afasta as pessoas. Ao invés de
+
+199
+00:11:30.168 --> 00:11:33.648
+despertar um desejo, ao invés de servir como um convite,
+
+200
+00:11:34.548 --> 00:11:38.268
+serve como um repelente que afasta o seu
+
+201
+00:11:38.288 --> 00:11:41.368
+público. Na maioria dos casos, principalmente falando da internet.
+
+202
+00:11:42.228 --> 00:11:46.188
+O texto tem o seu lugar nos blogs, ele tem o seu lugar nas cartas
+
+203
+00:11:46.268 --> 00:11:49.728
+de vendas, ele tem o seu lugar em algumas páginas do site.
+
+204
+00:11:51.348 --> 00:11:55.108
+Mas vocês vão ver que hoje ainda alguns sites são muito
+
+205
+00:11:55.168 --> 00:11:58.628
+simples, com o mínimo de texto possível, e isso é
+
+206
+00:11:58.648 --> 00:11:59.248
+proposital.
+
+207
+00:12:00.118 --> 00:12:01.308
+E onde que eu quero chegar com isso?
+
+208
+00:12:01.868 --> 00:12:05.668
+Eu quero chegar com isso em um conceito básico que você precisa
+
+209
+00:12:05.708 --> 00:12:09.288
+aplicar nas suas composiçõesPara que elas sejam mais eficientes.
+
+210
+00:12:09.328 --> 00:12:12.448
+Na maioria das vezes, você vai utilizar esse conceito, que é a
+
+211
+00:12:12.548 --> 00:12:16.268
+simplicidade. Mas alcançar a simplicidade é
+
+212
+00:12:16.428 --> 00:12:18.928
+muito mais difícil do que alcançar a
+
+213
+00:12:19.028 --> 00:12:22.928
+complexidade. Fazer uma composição com muito texto é mais
+
+214
+00:12:22.968 --> 00:12:25.227
+fácil que com pouco, acredite ou não. Por quê?
+
+215
+00:12:25.268 --> 00:12:28.878
+Porque chegar numa síntese, numa mensagem clara, com poucas palavras,
+
+216
+00:12:29.248 --> 00:12:31.008
+é mais difícil do que falar demais.
+
+217
+00:12:31.728 --> 00:12:35.588
+Tem até uma frase, que eu tentei ao máximo encontrar o autor,
+
+218
+00:12:36.088 --> 00:12:38.708
+mas cada lugar que eu ia, tinha um autor diferente.
+
+219
+00:12:39.008 --> 00:12:42.908
+Eu encontrei mais de cinco autores diferentes para essa frase, então eu coloquei
+
+220
+00:12:42.948 --> 00:12:46.858
+que o autor é desconhecido. O dia que eu descobrir exatamente quem é o autor,
+
+221
+00:12:47.498 --> 00:12:51.468
+eu falo para vocês. Mas essa frase é a seguinte: "Me desculpe pela carta
+
+222
+00:12:51.568 --> 00:12:55.008
+tão longa, não tive tempo de fazer uma
+
+223
+00:12:55.048 --> 00:12:58.108
+curta". Eu gosto muito dessa frase, porque ela tem um jogo
+
+224
+00:12:58.148 --> 00:13:02.088
+contraintuitivo: "Me desculpe
+
+225
+00:13:02.128 --> 00:13:04.648
+pela carta longa, não tive tempo de fazer uma curta". Como assim?
+
+226
+00:13:04.688 --> 00:13:08.428
+A carta longa, você demora mais tempo escrevendo do que uma curta, mas para
+
+227
+00:13:08.468 --> 00:13:12.268
+chegar na mensagem curta, é muito mais
+
+228
+00:13:12.278 --> 00:13:16.128
+difícil, porque primeiro você precisa escrever a longa e depois você precisa
+
+229
+00:13:16.198 --> 00:13:20.118
+cortar tudo que não vale a pena, tirar tudo que é
+
+230
+00:13:20.148 --> 00:13:23.768
+excesso, todos os ruídos, para manter a essência da mensagem.
+
+231
+00:13:24.548 --> 00:13:28.388
+E é muito importante buscar essa simplicidade por causa do contexto em que
+
+232
+00:13:28.428 --> 00:13:32.068
+nós estamos inseridos, o excesso de informação, o excesso de
+
+233
+00:13:32.128 --> 00:13:35.548
+ideias querendo ser ouvidas, mas também
+
+234
+00:13:36.428 --> 00:13:40.208
+é muito melhor fazer um texto simples, porque ele é memorável
+
+235
+00:13:40.688 --> 00:13:44.348
+e as pessoas vão tender a lembrar mais de você ou do seu
+
+236
+00:13:44.388 --> 00:13:48.308
+cliente com o texto simples. Então o objetivo dessa
+
+237
+00:13:48.348 --> 00:13:51.488
+aula, tudo que nós vamos ver aqui hoje, é para falar sobre a
+
+238
+00:13:51.648 --> 00:13:55.028
+simplicidade e como que você pode aplicar ela nos seus
+
+239
+00:13:55.048 --> 00:13:58.988
+projetos para ter muito mais resultado quando a gente fala de
+
+240
+00:13:59.048 --> 00:14:02.488
+gerar desejo, de atrair as pessoas, principalmente falando
+
+241
+00:14:02.568 --> 00:14:06.548
+da internet. Até aqui, eu ensinei para vocês a trabalhar
+
+242
+00:14:06.558 --> 00:14:09.978
+com muito e agora eu preciso ensinar a vocês a trabalhar
+
+243
+00:14:10.028 --> 00:14:13.868
+com pouco. Nós vamos tirar elementos até vocês
+
+244
+00:14:13.968 --> 00:14:17.768
+chorarem. Essa é uma frase clássica do design também: "Vá tirando
+
+245
+00:14:17.788 --> 00:14:18.838
+elementos até você chorar".
+
+246
+00:14:19.968 --> 00:14:23.808
+E esse que é o grande ponto. Nas últimas aulas, eu mostrei para
+
+247
+00:14:23.828 --> 00:14:27.748
+vocês como trabalhar com parágrafos, mostrei os detalhes, prestar
+
+248
+00:14:27.758 --> 00:14:31.128
+atenção em entre linha, entre letra, kerning.
+
+249
+00:14:31.668 --> 00:14:35.608
+Mostrei vários detalhes pequenos que passam batido para
+
+250
+00:14:35.688 --> 00:14:39.238
+muitos designers iniciantes e até designers que já são
+
+251
+00:14:39.268 --> 00:14:42.168
+veteranos, já estão há muito tempo trabalhando com isso.
+
+252
+00:14:42.208 --> 00:14:45.688
+Mas agora nós vamos falar sobre a simplicidade da
+
+253
+00:14:45.728 --> 00:14:47.228
+composição como um todo.
+
+254
+00:14:48.028 --> 00:14:51.528
+O que é o núcleo da composição e como que você
+
+255
+00:14:51.588 --> 00:14:55.128
+trabalha esse núcleo para construir uma composição que gera
+
+256
+00:14:55.188 --> 00:14:59.118
+resultado. Eu imagino, inclusive, que você já deve saber qual é
+
+257
+00:14:59.188 --> 00:15:00.908
+esse núcleo, a gente já vai falar disso.
+
+258
+00:15:01.008 --> 00:15:04.868
+E eu tenho uma equação para vocês, que eu quero que vocês
+
+259
+00:15:04.908 --> 00:15:08.638
+guardem: simplicidade mais detalhismo igual a
+
+260
+00:15:08.688 --> 00:15:09.408
+sofisticação.
+
+261
+00:15:11.057 --> 00:15:14.508
+"A simplicidade é o último grau de sofisticação." Essa frase também
+
+262
+00:15:15.048 --> 00:15:19.008
+é antiga, não vou lembrar agora se foi Platão ou se foi o
+
+263
+00:15:19.028 --> 00:15:21.238
+Leonardo da Vinci que falou isso. Vamos confirmar?
+
+264
+00:15:21.478 --> 00:15:24.028
+Deixa eu confirmar aqui para vocês. Essa eu sei.
+
+265
+00:15:24.057 --> 00:15:28.018
+"A simplicidade é o último grau de sofisticação." Quem disse
+
+266
+00:15:28.128 --> 00:15:30.148
+isso foi Leonardo da Vinci.
+
+267
+00:15:30.188 --> 00:15:33.788
+E eu concordo com isso,
+
+268
+00:15:33.908 --> 00:15:36.468
+porque ser simples é mais difícil do que ser complexo.
+
+269
+00:15:36.588 --> 00:15:38.768
+Ser complexo é muito fácil, como eu disse para vocês.
+
+270
+00:15:39.148 --> 00:15:42.608
+E essa equação é legal, porque simplicidade não é igual
+
+271
+00:15:42.688 --> 00:15:46.308
+sofisticação. Você precisa também ser detalhista, prestar
+
+272
+00:15:46.328 --> 00:15:50.108
+atenção nos detalhes. E os detalhes não são só as coisas pequenas,
+
+273
+00:15:50.448 --> 00:15:54.408
+mas também as coisas invisíveis. E uma das coisas invisíveis
+
+274
+00:15:54.448 --> 00:15:57.988
+mais importantes que você tem em uma composição é o espaço vazio, é o
+
+275
+00:15:58.008 --> 00:16:01.968
+espaço não preenchido que você vai utilizar para construir uma gravidade,
+
+276
+00:16:02.068 --> 00:16:05.588
+como nós já vimos em outras aulas, aula de grid, na aula também de como
+
+277
+00:16:05.628 --> 00:16:09.568
+trabalhar os textos, na aula de composição sobre a força
+
+278
+00:16:09.628 --> 00:16:12.568
+do movimento dentro de uma composição.
+
+279
+00:16:12.588 --> 00:16:16.408
+Então, a sofisticação não vem só da simplicidade, ela também vem
+
+280
+00:16:16.488 --> 00:16:19.678
+do detalhismo, de você prestar atenção nesses detalhes.
+
+281
+00:16:20.148 --> 00:16:23.788
+E é legal falar aqui, eu tinha deixado isso para o final da
+
+282
+00:16:23.828 --> 00:16:27.288
+aula, mas acho que vai caber bem aqui, que nem sempre você quer ser
+
+283
+00:16:27.347 --> 00:16:31.288
+sofisticado no design. Isso guarda com você, porque a gente
+
+284
+00:16:31.328 --> 00:16:32.968
+vai falar sobre isso mais para o finalzinho.
+
+285
+00:16:33.028 --> 00:16:36.588
+Nem sempre você quer ser sofisticado, mas na maioria das vezes,
+
+286
+00:16:36.608 --> 00:16:39.808
+sim. E eu quero contar uma história aqui para vocês rápida.
+
+287
+00:16:40.148 --> 00:16:44.048
+Lá em 1980, a Apple estava criando aqueles anúncios cheios de
+
+288
+00:16:44.168 --> 00:16:47.928
+texto e em determinado momento, se eu não me engano, foi 87 ou
+
+289
+00:16:48.188 --> 00:16:48.738
+88,
+
+290
+00:16:49.548 --> 00:16:52.328
+o Steve Jobs foi mandado embora da própria empresa.
+
+291
+00:16:52.368 --> 00:16:56.268
+Não sei se você sabe essa história, ele contratou o CEO da
+
+292
+00:16:56.368 --> 00:17:00.128
+Pepsi para poder trabalhar na Apple, ele foi trabalhar lá, ele mudou um monte de
+
+293
+00:17:00.168 --> 00:17:04.128
+coisa e no final, eles tiraram o Steve Jobs da própria empresa.
+
+294
+00:17:04.168 --> 00:17:06.998
+Eles entenderam que o Steve Jobs era o problema da empresa.
+
+295
+00:17:06.998 --> 00:17:10.929
+A Apple estava passando por uma situação difícil, falando de
+
+296
+00:17:10.969 --> 00:17:13.709
+mercado. E eles mandaram o Steve Jobs embora.
+
+297
+00:17:14.248 --> 00:17:17.848
+Nessa época que ele saiu da Apple, que ele fundou a Next, ele
+
+298
+00:17:17.888 --> 00:17:20.548
+trabalhou um período junto com o pessoal da Pixar,
+
+299
+00:17:21.408 --> 00:17:25.148
+da Disney mesmo, e foi nessa época que ele também
+
+300
+00:17:25.209 --> 00:17:28.808
+trabalhou com o Paul Rand. O Paul Rand fez a marca da Next para ele, e foi um
+
+301
+00:17:28.848 --> 00:17:30.388
+período de muita
+
+302
+00:17:31.868 --> 00:17:35.228
+evolução para o Steve Jobs. Uma transformação para ele enquanto pessoa.
+
+303
+00:17:35.748 --> 00:17:39.628
+E a Next também era uma empresa voltada para tecnologia, eles tinham criado uma
+
+304
+00:17:39.648 --> 00:17:43.568
+tecnologia, eu não vou me lembrar ao certo qual era essa tecnologia, mas ela
+
+305
+00:17:43.628 --> 00:17:47.528
+começou a ganhar muito espaço no mercado, a ponto de que a Apple resolveu
+
+306
+00:17:47.568 --> 00:17:51.548
+chamar o Steve Jobs de volta para dentro da Apple, com a condição de
+
+307
+00:17:51.568 --> 00:17:54.668
+que a Next se tornasse uma empresa da Apple.
+
+308
+00:17:55.028 --> 00:17:58.008
+Então foi muito louco isso também. E ele voltou.
+
+309
+00:17:58.028 --> 00:18:01.628
+Ele não voltou exatamente como líder da Apple, mas em pouco tempo ele estava lá
+
+310
+00:18:01.668 --> 00:18:04.228
+como CEO de novo, liderando a empresa que ele tinha fundado.
+
+311
+00:18:04.748 --> 00:18:08.408
+Ser mandado embora da própria empresa é tenso.
+
+312
+00:18:08.508 --> 00:18:12.168
+E o mais legal é que existe uma Apple antes e uma Apple
+
+313
+00:18:12.188 --> 00:18:15.980
+depoisDa volta do Steve Jobs. Existe
+
+314
+00:18:16.000 --> 00:18:16.880
+uma Apple
+
+315
+00:18:17.800 --> 00:18:21.100
+do Steve Jobs um e existe uma Apple do Steve Jobs dois.
+
+316
+00:18:21.600 --> 00:18:25.260
+No período que ele passou conhecendo a galera da Pixar,
+
+317
+00:18:25.800 --> 00:18:29.480
+ele teve a oportunidade de aprender mais sobre como contar histórias e
+
+318
+00:18:29.620 --> 00:18:33.139
+sobre como envolver as pessoas em uma narrativa atraente.
+
+319
+00:18:33.740 --> 00:18:37.200
+E ele trouxe isso pra Apple, e se torna nítido.
+
+320
+00:18:37.210 --> 00:18:40.600
+Tem dois filmes do Steve
+
+321
+00:18:40.700 --> 00:18:43.700
+Jobs, em um dos filmes mostra isso.
+
+322
+00:18:43.860 --> 00:18:47.360
+E a primeira campanha que ele faz quando ele volta, a primeira que
+
+323
+00:18:48.920 --> 00:18:52.700
+mostra a mudança que a Apple teve, que recupera a Apple, traz a
+
+324
+00:18:52.780 --> 00:18:56.420
+Apple de volta como pioneira no mercado, é a campanha do
+
+325
+00:18:56.480 --> 00:19:00.390
+iPod, que é aquela campanha "mil músicas no seu bolso".
+
+326
+00:19:01.320 --> 00:19:04.880
+Uma frase simples, ele não ficou falando de questões
+
+327
+00:19:04.980 --> 00:19:08.620
+técnicas, ele não ficou falando de atributos do iPod,
+
+328
+00:19:08.980 --> 00:19:10.670
+igual a maioria das empresas iriam fazer.
+
+329
+00:19:10.740 --> 00:19:14.520
+Se você fosse ver anúncios do MP3, era exatamente assim,
+
+330
+00:19:14.640 --> 00:19:18.600
+anúncio do Walkman, que era aquele disco que colocava
+
+331
+00:19:18.620 --> 00:19:22.060
+o CD. Era assim, cheio de questões técnicas,
+
+332
+00:19:22.580 --> 00:19:26.380
+questão de capacidade de armazenamento, sei lá do quê, velocidade.
+
+333
+00:19:27.680 --> 00:19:31.300
+Ele simplesmente fez um anúncio falando: "mil músicas no seu bolso".
+
+334
+00:19:32.140 --> 00:19:35.710
+Foi nessa época também que ele voltou com a campanha "Think Different", que é
+
+335
+00:19:36.040 --> 00:19:39.840
+"pense diferente", que foi a ideia central da Apple pra
+
+336
+00:19:39.880 --> 00:19:42.670
+poder atrair o público. E eles construíram uma síntese.
+
+337
+00:19:43.660 --> 00:19:45.480
+Olha só que massa, eu vou mostrar pra vocês aqui.
+
+338
+00:19:46.100 --> 00:19:48.120
+Isso aqui era um anúncio da Apple
+
+339
+00:19:49.560 --> 00:19:53.420
+na década de 80, certo? Até
+
+340
+00:19:53.580 --> 00:19:57.380
+tem uma ideia central. Se você pegar esse daqui, por exemplo, tem lá:
+
+341
+00:19:57.390 --> 00:20:00.030
+"o computador para os confusos". Talvez é isso,
+
+342
+00:20:01.100 --> 00:20:04.580
+é o computador pra quem está perdido, essa era a big idea, era isso que a Apple
+
+343
+00:20:04.640 --> 00:20:08.180
+falava em 1980. Pra quem está perdido,
+
+344
+00:20:08.260 --> 00:20:11.860
+confuso e intimidado. Ou então, cheio de questões
+
+345
+00:20:11.960 --> 00:20:13.700
+técnicas, quando nós olhamos aqui.
+
+346
+00:20:14.320 --> 00:20:17.650
+Olha lá, está mostrando a placa, está falando das questões
+
+347
+00:20:17.800 --> 00:20:21.700
+técnicas da placa, que atrai a atenção de quem é nerd, que já
+
+348
+00:20:21.739 --> 00:20:25.440
+era o público que estava interessado em computadores, mas não atrai a atenção do
+
+349
+00:20:25.460 --> 00:20:28.680
+público principal que a Apple queria trazer.
+
+350
+00:20:28.700 --> 00:20:32.020
+E depois que eles começaram essa campanha do "Think Different",
+
+351
+00:20:32.840 --> 00:20:34.340
+eles mudaram
+
+352
+00:20:35.380 --> 00:20:39.160
+os pontos de contato, mudaram os anúncios da Apple, mudaram
+
+353
+00:20:39.960 --> 00:20:42.100
+e trouxeram muito mais simplicidade.
+
+354
+00:20:42.510 --> 00:20:46.350
+E vocês vão ver agora uma Apple que ainda não é a Apple de hoje em dia,
+
+355
+00:20:46.700 --> 00:20:50.260
+mas é uma Apple muito mais próxima da Apple de hoje em dia.
+
+356
+00:20:51.000 --> 00:20:54.060
+Então nós temos aqui um anúncio do primeiro MacBook,
+
+357
+00:20:54.900 --> 00:20:58.000
+e depois um pouco mais pra frente, do outro MacBook.
+
+358
+00:20:58.180 --> 00:21:00.220
+São dois momentos diferentes esses aqui.
+
+359
+00:21:01.060 --> 00:21:02.120
+Esse daqui veio primeiro.
+
+360
+00:21:03.050 --> 00:21:06.840
+Opa, colocar aqui branquinho. Esse veio primeiro, esse veio
+
+361
+00:21:06.900 --> 00:21:10.200
+depois. Mas eu quero que vocês prestem atenção nisso daqui.
+
+362
+00:21:11.240 --> 00:21:14.960
+"Black tie optional", "gravata
+
+363
+00:21:15.080 --> 00:21:17.660
+preta é opcional" e "pense diferente".
+
+364
+00:21:18.640 --> 00:21:22.400
+Simplesmente isso, se você abrisse uma revista naquela época com esse anúncio, era
+
+365
+00:21:22.480 --> 00:21:26.110
+isso que você veria. Basicamente, simplicidade, uma
+
+366
+00:21:26.140 --> 00:21:30.060
+história sendo contada. E o objetivo da Apple
+
+367
+00:21:30.080 --> 00:21:32.320
+com essa mensagem era te fazer
+
+368
+00:21:34.700 --> 00:21:38.540
+imaginar uma vida onde você usa aquele
+
+369
+00:21:38.560 --> 00:21:42.380
+computador, te fazer pensar: "esse computador faz
+
+370
+00:21:42.460 --> 00:21:44.200
+parte da minha identidade".
+
+371
+00:21:45.180 --> 00:21:47.300
+Inclusive, eles conseguiram fazer isso muito bem.
+
+372
+00:21:47.600 --> 00:21:51.580
+As pessoas começaram a querer usar Apple, porque quem utilizava
+
+373
+00:21:51.660 --> 00:21:55.620
+Apple era descolado, quem utilizava Apple era diferente, quem utilizava
+
+374
+00:21:55.700 --> 00:21:57.880
+Apple, de alguma forma era especial.
+
+375
+00:21:58.740 --> 00:22:02.340
+Então não era simplesmente sobre ter um computador, mas era sobre ter um
+
+376
+00:22:02.380 --> 00:22:06.080
+MacBook, era sobre usar um produto da
+
+377
+00:22:06.160 --> 00:22:10.040
+Apple. Esse segundo aqui até tem algumas características
+
+378
+00:22:10.120 --> 00:22:13.460
+técnicas, mas olha como que ele vai direto ao ponto.
+
+379
+00:22:13.500 --> 00:22:17.440
+Aqui não está muito bom pra ver, eu não encontrei imagens melhores
+
+380
+00:22:17.460 --> 00:22:17.940
+do que essa,
+
+381
+00:22:19.260 --> 00:22:22.720
+mas aqui ele está falando algumas questões técnicas.
+
+382
+00:22:23.460 --> 00:22:25.200
+Olha lá, 15
+
+383
+00:22:26.540 --> 00:22:30.400
+polegadas mega wide screen. Eu
+
+384
+00:22:30.599 --> 00:22:34.140
+também estou tendo dificuldade de ler aqui no meu
+
+385
+00:22:34.200 --> 00:22:34.700
+computador.
+
+386
+00:22:35.719 --> 00:22:38.600
+Então mega wide screen, 15 polegadas, titanium.
+
+387
+00:22:39.220 --> 00:22:41.560
+Só que são as informações simples.
+
+388
+00:22:41.640 --> 00:22:45.320
+Olha só o tanto de espaço branco aqui.
+
+389
+00:22:45.420 --> 00:22:48.920
+E inclusive, a visão, a
+
+390
+00:22:48.940 --> 00:22:52.680
+perspectiva que eles colocaram do MacBook foi proposital também.
+
+391
+00:22:52.760 --> 00:22:56.480
+Aqui você já tem um público mais consciente de que sabe que isso aqui é um MacBook.
+
+392
+00:22:57.020 --> 00:23:00.540
+E o que eles queriam mostrar aqui? A espessura, mais
+
+393
+00:23:00.580 --> 00:23:02.860
+fino. Então é mais fino, é mais leve.
+
+394
+00:23:03.480 --> 00:23:06.140
+E era isso que eles queriam mostrar. Tem DVD.
+
+395
+00:23:06.180 --> 00:23:07.540
+Eu não sei o que é um AirPort,
+
+396
+00:23:08.640 --> 00:23:09.840
+ou é AirPod.
+
+397
+00:23:11.520 --> 00:23:14.640
+Vamos ver. Não, é AirPort mesmo. Aeroporto, sei lá.
+
+398
+00:23:16.540 --> 00:23:20.120
+Enfim, são questões técnicas, mas de um jeito muito mais simples.
+
+399
+00:23:20.980 --> 00:23:24.840
+Quando eu volto aqui, deixa eu voltar aqui pra vocês no outro
+
+400
+00:23:24.880 --> 00:23:25.300
+anúncio,
+
+401
+00:23:26.720 --> 00:23:30.480
+olha só a diferença, que tem esse
+
+402
+00:23:30.520 --> 00:23:30.720
+pra
+
+403
+00:23:32.100 --> 00:23:35.930
+esse. Bem diferente. Só que a gente não para por
+
+404
+00:23:35.980 --> 00:23:39.640
+aqui. Eu vou mostrar pra vocês ainda um outro
+
+405
+00:23:39.650 --> 00:23:40.010
+anúncio,
+
+406
+00:23:40.840 --> 00:23:44.440
+que esse sim, tem uma ideia central, uma big
+
+407
+00:23:44.460 --> 00:23:48.020
+idea, que não precisa te falar nenhuma
+
+408
+00:23:49.200 --> 00:23:52.800
+especificação técnica. Ele te vende uma ideia, é uma composição
+
+409
+00:23:53.420 --> 00:23:57.200
+supersimples, te vende uma ideia.
+
+410
+00:23:57.880 --> 00:23:58.000
+E
+
+411
+00:23:58.840 --> 00:24:01.980
+antes de eu mostrar, eu vou só fazer o seguinte aqui, eu tinha colocado a imagem no
+
+412
+00:24:02.020 --> 00:24:03.950
+fundo preto e agora que eu vi em tela cheia,
+
+413
+00:24:04.860 --> 00:24:08.080
+vai ficar melhor se eu colocar no fundo cinza pra dar um contraste.
+
+414
+00:24:09.240 --> 00:24:10.780
+Vou só jogar pra trás aqui,
+
+415
+00:24:14.740 --> 00:24:16.780
+pra ficar melhor de vocês verem. Legal.
+
+416
+00:24:17.610 --> 00:24:21.460
+Então deem só uma olhada nesse anúncio aqui, esse anúncio é
+
+417
+00:24:21.500 --> 00:24:25.280
+desse anoiPhone 13 Run Baby
+
+418
+00:24:25.420 --> 00:24:27.400
+Run. Tem uma criancinha
+
+419
+00:24:29.140 --> 00:24:31.840
+segurando o iPhone correndo e a marca da Apple ali.
+
+420
+00:24:32.920 --> 00:24:34.280
+Por que essa composição
+
+421
+00:24:35.520 --> 00:24:37.560
+tem muito mais potencial
+
+422
+00:24:38.520 --> 00:24:42.420
+do que as outras? Porque é uma composição que vende
+
+423
+00:24:42.480 --> 00:24:44.380
+uma ideia para você.
+
+424
+00:24:45.800 --> 00:24:48.740
+A ideia que a Apple vende aqui é simples:
+
+425
+00:24:49.660 --> 00:24:53.600
+pode ficar tranquilo, pode deixar o seu iPhone
+
+426
+00:24:53.640 --> 00:24:56.580
+na mão de uma criança que não vai acontecer nada,
+
+427
+00:24:56.640 --> 00:24:59.140
+ele é um celular resistente.
+
+428
+00:25:00.170 --> 00:25:04.060
+Eu falo que é um celular resistente sem precisar falar que é um vidro sei
+
+429
+00:25:04.100 --> 00:25:04.690
+lá do quê, que
+
+430
+00:25:06.160 --> 00:25:07.880
+tem um alumínio forte sei lá do quê,
+
+431
+00:25:09.200 --> 00:25:13.140
+Gorilla Glass e não sei o quê. Tem tudo isso, e existe um momento onde
+
+432
+00:25:13.150 --> 00:25:16.500
+a Apple fala sobre isso, mas na hora que eu preciso gerar desejo,
+
+433
+00:25:17.500 --> 00:25:18.360
+eu gero desejo.
+
+434
+00:25:19.160 --> 00:25:22.869
+Eu te coloco num contexto onde você se imagina com um
+
+435
+00:25:22.920 --> 00:25:26.820
+celular desse. Se você tem um filho, ainda mais, você imagina
+
+436
+00:25:26.880 --> 00:25:30.300
+o seu filho segurando um iPhone, que é o seu iPhone.
+
+437
+00:25:31.060 --> 00:25:34.740
+Então, olha só, cada vez menos texto,
+
+438
+00:25:35.380 --> 00:25:36.200
+mais imagem.
+
+439
+00:25:37.370 --> 00:25:40.120
+E o texto está aqui para poder te vender uma ideia,
+
+440
+00:25:40.980 --> 00:25:41.600
+para poder te
+
+441
+00:25:42.820 --> 00:25:46.130
+gerar desejo. Não é sempre que você vai fazer isso em uma
+
+442
+00:25:46.160 --> 00:25:50.140
+composição. Tudo tem contexto, como a gente vai ver
+
+443
+00:25:50.150 --> 00:25:52.120
+aqui nessa aula ainda. Mas
+
+444
+00:25:52.960 --> 00:25:54.380
+fica nítido para a gente que
+
+445
+00:25:55.340 --> 00:25:58.780
+o mundo está andando em uma direção para alcançar essa
+
+446
+00:25:58.800 --> 00:26:01.620
+sofisticação, através da simplicidade e dos
+
+447
+00:26:01.660 --> 00:26:05.500
+detalhes. Porque a venda, já foi comprovado
+
+448
+00:26:05.560 --> 00:26:05.850
+isso,
+
+449
+00:26:06.740 --> 00:26:09.800
+é prioritariamente
+
+450
+00:26:10.880 --> 00:26:11.460
+emocional.
+
+451
+00:26:12.320 --> 00:26:16.240
+A decisão é essencialmente emocional. Não só a venda.
+
+452
+00:26:16.560 --> 00:26:18.740
+A venda é uma decisão, qualquer outro tipo de venda.
+
+453
+00:26:19.300 --> 00:26:19.880
+Acontece
+
+454
+00:26:20.740 --> 00:26:24.420
+emocionalmente. Você decide por emoção e
+
+455
+00:26:24.500 --> 00:26:28.400
+depois joga para a razão para justificar sua decisão, mas a decisão
+
+456
+00:26:28.460 --> 00:26:32.280
+já foi tomada emocionalmente. Às vezes
+
+457
+00:26:32.319 --> 00:26:35.889
+por medo. "Não vou comprar isso agora, eu tenho medo de dar errado".
+
+458
+00:26:36.520 --> 00:26:39.900
+Então você não comprou, não é por causa de toda a parte racional,
+
+459
+00:26:40.700 --> 00:26:42.420
+mas porque você tem medo de dar errado.
+
+460
+00:26:42.840 --> 00:26:45.480
+Ou então quando você compra uma coisa no limite,
+
+461
+00:26:47.140 --> 00:26:47.420
+mas
+
+462
+00:26:48.420 --> 00:26:52.140
+você não olhou para o lado necessariamente racional de que: "eu estou no
+
+463
+00:26:52.180 --> 00:26:56.140
+limite para comprar isso". Você olhou para o lado emocional de que:
+
+464
+00:26:56.150 --> 00:27:00.109
+"eu preciso disso, eu quero isso, é isso que vai fazer a diferença para mim".
+
+465
+00:27:01.420 --> 00:27:05.400
+Então por entender isso, e cada vez mais nós entendermos os seres humanos,
+
+466
+00:27:06.140 --> 00:27:10.060
+nós percebemos que ser simples e sofisticado, ter
+
+467
+00:27:10.080 --> 00:27:12.680
+uma ideia clara apresentada,
+
+468
+00:27:14.120 --> 00:27:17.540
+é uma tática que tende a gerar mais resultados,
+
+469
+00:27:18.400 --> 00:27:21.300
+como vocês viram aqui nesses anúncios da Apple.
+
+470
+00:27:21.340 --> 00:27:24.880
+Olha só esse daqui também. De
+
+471
+00:27:24.900 --> 00:27:26.300
+privacidade, isso é um iPhone.
+
+472
+00:27:27.280 --> 00:27:31.160
+Então aqui tem várias coisas legais que a gente pode observar em um
+
+473
+00:27:31.220 --> 00:27:34.840
+anúncio simples como esse. Primeiro, a Apple está
+
+474
+00:27:34.880 --> 00:27:36.800
+levantando aqui qual é a prioridade dela.
+
+475
+00:27:37.380 --> 00:27:39.740
+Ela está levantando aqui o que ela defende.
+
+476
+00:27:40.720 --> 00:27:44.340
+Então se eu quero conversar com o público que está preocupado com a própria
+
+477
+00:27:44.360 --> 00:27:47.579
+privacidade, eu vou defender isso no meu produto.
+
+478
+00:27:48.480 --> 00:27:51.840
+Ela não fala um monte de coisas, de especificações do produto.
+
+479
+00:27:52.680 --> 00:27:54.540
+Ela defende uma ideia.
+
+480
+00:27:55.440 --> 00:27:59.260
+Quando eu falo para vocês que o mundo é uma guerra de narrativas, é disso aqui que
+
+481
+00:27:59.280 --> 00:28:03.010
+eu estou falando. E nós vamos falar muito ainda sobre
+
+482
+00:28:03.120 --> 00:28:03.370
+isso
+
+483
+00:28:04.180 --> 00:28:08.080
+nos fundamentos da mensagem, porque lá nós vamos focar, de fato, na mensagem,
+
+484
+00:28:08.120 --> 00:28:11.520
+como construir uma big idea, como chegar na síntese de uma mensagem.
+
+485
+00:28:12.080 --> 00:28:12.720
+Mas aqui,
+
+486
+00:28:13.560 --> 00:28:15.520
+na composição, vocês já conseguem ver
+
+487
+00:28:16.380 --> 00:28:20.260
+a diferença harmônica que você tem na composição, quando
+
+488
+00:28:20.280 --> 00:28:22.340
+você trabalha com a simplicidade.
+
+489
+00:28:22.350 --> 00:28:26.230
+Eu mostrei para vocês aqueles anúncios da Apple de 1980 e agora eu estou
+
+490
+00:28:26.280 --> 00:28:28.820
+mostrando para vocês anúncios da Apple de 2022,
+
+491
+00:28:29.960 --> 00:28:33.720
+42 anos depois. Então vocês conseguem notar que houve um
+
+492
+00:28:33.760 --> 00:28:37.620
+movimento. E eu peguei a Apple aqui como um exemplo, mas a maioria
+
+493
+00:28:37.660 --> 00:28:40.980
+das empresas estão seguindo nessa direção.
+
+494
+00:28:41.780 --> 00:28:44.720
+Então é muito interessante prestar atenção nisso.
+
+495
+00:28:44.760 --> 00:28:47.560
+Quem é iniciante, geralmente não presta atenção nisso.
+
+496
+00:28:47.820 --> 00:28:51.700
+Sabe por quê? Porque os amadores gostam de
+
+497
+00:28:51.780 --> 00:28:55.640
+adicionar vários efeitos e informações na composição para
+
+498
+00:28:55.660 --> 00:28:58.520
+mostrar suas habilidades e diferenciais.
+
+499
+00:28:59.440 --> 00:29:02.820
+Já os profissionais são mais sofisticados, eles focam na
+
+500
+00:29:02.920 --> 00:29:06.910
+essência. E eu coloquei ali que isso não é só no design, para a gente parar
+
+501
+00:29:06.920 --> 00:29:09.340
+um pouquinho e pensar. Olha só que interessante.
+
+502
+00:29:09.420 --> 00:29:12.430
+A Apple, lá no início, quando a Apple estava começando,
+
+503
+00:29:13.220 --> 00:29:15.560
+queria falar o quão excepcional ela era.
+
+504
+00:29:16.020 --> 00:29:19.620
+Queria colocar tudo no anúncio para mostrar que ela realmente era tudo que ela era.
+
+505
+00:29:21.030 --> 00:29:25.010
+À medida que a Apple foi se tornando uma empresa mais sólida, com uma marca mais
+
+506
+00:29:25.140 --> 00:29:29.100
+sólida, com uma mensagem mais sólida, ela cada vez mais começa a
+
+507
+00:29:29.140 --> 00:29:32.860
+enxugar aquele tanto de ruído e focar no
+
+508
+00:29:32.960 --> 00:29:36.080
+essencial, focar naquilo que importa.
+
+509
+00:29:36.160 --> 00:29:40.020
+Naquele momento, ela começa a entender qual é o meu contexto, com quem eu
+
+510
+00:29:40.040 --> 00:29:43.160
+estou falando, o que eu preciso falar agora, qual é a minha
+
+511
+00:29:43.200 --> 00:29:44.040
+prioridade.
+
+512
+00:29:45.200 --> 00:29:48.520
+Só que isso não acontece só com as empresas, acontece com os designers também.
+
+513
+00:29:48.960 --> 00:29:52.480
+Se você é iniciante, se você está começando agora, é provável que você queira,
+
+514
+00:29:53.300 --> 00:29:56.580
+ao criar um design, colocar todos os efeitos de luz,
+
+515
+00:29:56.640 --> 00:30:00.240
+iluminação, todos os efeitos possíveis na sua composição.
+
+516
+00:30:00.620 --> 00:30:03.880
+Talvez você queira mostrar que você sabe fazer design.
+
+517
+00:30:04.540 --> 00:30:08.280
+Talvez você queira mostrar que você tem um conhecimento diferenciado, que você é um
+
+518
+00:30:08.360 --> 00:30:12.260
+artista. E aí você enche aquela composição de elementos,
+
+519
+00:30:12.280 --> 00:30:15.940
+de texto, de informação e no final, pode até ficar
+
+520
+00:30:15.980 --> 00:30:19.900
+bonito, mas não cumpre o papel principal do
+
+521
+00:30:19.960 --> 00:30:23.520
+design, que é conduzir a percepção das pessoas, que é
+
+522
+00:30:23.560 --> 00:30:27.192
+construir uma mensagemE é aqui que a
+
+523
+00:30:27.212 --> 00:30:28.732
+simplicidade começa a fazer efeito.
+
+524
+00:30:29.012 --> 00:30:32.552
+Quando eu falo para vocês que isso não é só no design,
+
+525
+00:30:33.032 --> 00:30:36.952
+eu estou querendo te dizer também que você precisa vender essa ideia para o
+
+526
+00:30:37.012 --> 00:30:39.072
+seu cliente, porque é muito comum.
+
+527
+00:30:39.932 --> 00:30:43.552
+Eu estava fazendo uma análise de um site da
+
+528
+00:30:43.612 --> 00:30:47.432
+Camila, algumas semanas atrás, e tinha uma página lá que estava com muito
+
+529
+00:30:47.442 --> 00:30:51.402
+texto. Eu falei: "Camila, você tem que diminuir
+
+530
+00:30:51.432 --> 00:30:54.692
+esse texto". E ela falou: "Mas, Ruan, a cliente quer que eu coloque esse texto, eu
+
+531
+00:30:54.712 --> 00:30:55.852
+preciso explicar".
+
+532
+00:30:56.732 --> 00:31:00.092
+Eu falei: "Olha, você precisa explicar, mas tem o lugar certo para explicar.
+
+533
+00:31:00.512 --> 00:31:04.212
+Deixa para explicar numa página do produto, não na
+
+534
+00:31:04.232 --> 00:31:07.772
+página inicial onde você quer apresentar a empresa, onde você quer gerar
+
+535
+00:31:07.892 --> 00:31:11.812
+desejo". Se você coloca muito texto no lugar errado, você
+
+536
+00:31:11.972 --> 00:31:15.412
+quebra totalmente aquela atração, que é o seu
+
+537
+00:31:15.432 --> 00:31:19.192
+objetivo na página inicial ou até mesmo numa página de vendas do
+
+538
+00:31:19.272 --> 00:31:22.032
+produto. Você tem que colocar as informações mais relevantes.
+
+539
+00:31:22.072 --> 00:31:26.032
+Eu vou mostrar para vocês algumas páginas aqui que fazem isso muito bem.
+
+540
+00:31:26.692 --> 00:31:30.152
+E esse que é o grande ponto. Às vezes o seu cliente vai falar: "Eu preciso colocar
+
+541
+00:31:30.192 --> 00:31:33.842
+isso tudo aqui". E você precisa orientar ele, porque ele não
+
+542
+00:31:33.992 --> 00:31:37.772
+sabe disso. Ele não sabe que se ele coloca aquele
+
+543
+00:31:37.832 --> 00:31:41.692
+tanto de informação ali, ele está, na verdade, afastando o público, ao
+
+544
+00:31:41.732 --> 00:31:45.712
+invés de atrair. Você precisa explicar para ele que aquele
+
+545
+00:31:45.732 --> 00:31:48.132
+ponto de contato precisa ser memorável,
+
+546
+00:31:48.752 --> 00:31:52.482
+precisa gerar desejo e não afastar as
+
+547
+00:31:52.552 --> 00:31:56.432
+pessoas. E que existe o lugar certo para que você
+
+548
+00:31:56.492 --> 00:32:00.472
+faça isso. Então lembre-se disso, eu coloquei isso daqui de propósito
+
+549
+00:32:00.532 --> 00:32:04.362
+e eu ainda utilizei essa palavra amadores de propósito.
+
+550
+00:32:05.322 --> 00:32:09.282
+Quem gosta de ficar enchendo a página de efeito, de informação,
+
+551
+00:32:10.052 --> 00:32:12.192
+geralmente é amador. Tem um contexto
+
+552
+00:32:12.232 --> 00:32:15.912
+específico para que você pode fazer isso e
+
+553
+00:32:15.992 --> 00:32:19.672
+você é um profissional. A gente vai falar dele já, já, mas na
+
+554
+00:32:19.752 --> 00:32:20.752
+maioria das vezes,
+
+555
+00:32:21.812 --> 00:32:25.372
+encher um ponto de contato de informação é
+
+556
+00:32:25.412 --> 00:32:28.232
+ruído e não vai atrair o seu público.
+
+557
+00:32:28.572 --> 00:32:31.752
+Eu tenho comigo uma memória
+
+558
+00:32:32.692 --> 00:32:36.092
+de quando eu era criança, e isso tem tudo a ver
+
+559
+00:32:36.172 --> 00:32:38.852
+com o caso da Camila.
+
+560
+00:32:40.272 --> 00:32:42.712
+Que às vezes o cliente quer colocar toda aquela informação ali.
+
+561
+00:32:42.732 --> 00:32:45.932
+Eu falei com ela: "Olha, tem o lugar certo para tudo".
+
+562
+00:32:46.732 --> 00:32:50.132
+E eu aprendi isso quando eu ainda era criança. Eu era uma criança muito bagunceira.
+
+563
+00:32:50.472 --> 00:32:53.402
+Eu tenho dois irmãos, então dos três filhos, eu era o mais
+
+564
+00:32:53.412 --> 00:32:56.632
+bagunceiro, mais agitado, o que fazia mais
+
+565
+00:32:56.652 --> 00:33:00.332
+gracinha. E às vezes, quando nós estávamos
+
+566
+00:33:00.412 --> 00:33:04.292
+lá tomando café em família, eu ficava brincando e às vezes eu
+
+567
+00:33:04.332 --> 00:33:07.992
+derramava o leite na mesa, meu pai ficava muito bravo, porque eu derramava leite no
+
+568
+00:33:08.032 --> 00:33:10.352
+chão e às vezes meu pai estava cansado.
+
+569
+00:33:10.752 --> 00:33:12.972
+Nossa, eu tenho várias memórias disso.
+
+570
+00:33:13.732 --> 00:33:17.122
+E eu lembro que eu ouvia muito essa frase, que era a seguinte: "Filho,
+
+571
+00:33:17.892 --> 00:33:19.532
+tem hora para tudo".
+
+572
+00:33:21.052 --> 00:33:24.652
+Minha mãe sempre falava isso. Tem hora para brincar, tem hora para
+
+573
+00:33:24.672 --> 00:33:28.132
+comer, tem hora para ficar quietinho, tem hora para dormir,
+
+574
+00:33:29.032 --> 00:33:32.632
+tem hora para tudo. E olha que interessante, é um conceito
+
+575
+00:33:32.692 --> 00:33:36.132
+simples, mas que tem tudo a ver aqui com composições. Por quê?
+
+576
+00:33:36.692 --> 00:33:40.672
+Porque tem a hora certa para você falar de especificações
+
+577
+00:33:40.732 --> 00:33:44.332
+técnicas. Tem a hora certa para você apresentar um
+
+578
+00:33:44.372 --> 00:33:48.272
+texto instrutivo. Tem a hora certa para
+
+579
+00:33:48.292 --> 00:33:51.601
+você ser simples. E parece que é isso
+
+580
+00:33:52.152 --> 00:33:54.532
+que quem está começando ainda não sabe,
+
+581
+00:33:55.212 --> 00:33:58.992
+que você não precisa explicar tudo
+
+582
+00:34:00.292 --> 00:34:04.212
+em um frame quadrado. Você não precisa explicar tudo
+
+583
+00:34:04.292 --> 00:34:05.372
+em uma imagem.
+
+584
+00:34:06.772 --> 00:34:10.752
+Você vai viver um período com seu cliente e ele vai passar por
+
+585
+00:34:10.792 --> 00:34:14.732
+um fluxo e durante esse período, você vai aumentando a
+
+586
+00:34:14.772 --> 00:34:16.053
+consciência dele.
+
+587
+00:34:17.513 --> 00:34:20.872
+A própria Apple, que faz esses anúncios simples.
+
+588
+00:34:21.332 --> 00:34:25.212
+Privacidade, isso é iPhone. Ou então iPhone 13,
+
+589
+00:34:25.513 --> 00:34:26.462
+"run, baby, run".
+
+590
+00:34:28.712 --> 00:34:31.572
+Simples, mas eu quero
+
+591
+00:34:31.612 --> 00:34:34.553
+saber quais são as especificações dessa câmera.
+
+592
+00:34:34.892 --> 00:34:37.432
+Eu quero saber quanto tempo dura essa bateria.
+
+593
+00:34:38.432 --> 00:34:41.392
+Há tempo para tudo e a Apple sabe disso muito bem.
+
+594
+00:34:42.072 --> 00:34:45.752
+É por isso que a Apple tem um evento, um evento que ela faz todo
+
+595
+00:34:45.812 --> 00:34:47.473
+ano, geralmente em setembro,
+
+596
+00:34:48.652 --> 00:34:52.013
+que milhares de pessoas param para assistir,
+
+597
+00:34:52.752 --> 00:34:56.422
+onde ela vai falar das especificações técnicas do
+
+598
+00:34:56.473 --> 00:35:00.262
+iPhone, do MacBook e de todos os produtos, Apple
+
+599
+00:35:00.262 --> 00:35:01.152
+Watch, por aí vai.
+
+600
+00:35:02.012 --> 00:35:05.732
+E nesse evento, em vídeo, principalmente, ela tem a
+
+601
+00:35:05.812 --> 00:35:06.832
+oportunidade
+
+602
+00:35:08.112 --> 00:35:09.912
+e a sua atenção
+
+603
+00:35:10.812 --> 00:35:14.592
+para estender um pouco mais no discurso, porque é isso que você quer
+
+604
+00:35:14.632 --> 00:35:18.482
+saber. Agora, quando você está navegando no Instagram,
+
+605
+00:35:19.052 --> 00:35:20.612
+você não quer ler um textão.
+
+606
+00:35:21.622 --> 00:35:25.072
+Você está ali por um motivo, você está ali dentro de um contexto.
+
+607
+00:35:25.092 --> 00:35:29.072
+E na hora de fazer um anúncio, por exemplo, você precisa pensar exatamente
+
+608
+00:35:29.132 --> 00:35:32.012
+nisso. O meu cliente está num contexto. Ele está fazendo o quê no Instagram?
+
+609
+00:35:32.352 --> 00:35:35.572
+Ele está vendo os stories dos amigos, ele está assistindo os reels.
+
+610
+00:35:36.292 --> 00:35:39.732
+E você precisa interagir com aquele contexto, com aquele
+
+611
+00:35:39.772 --> 00:35:42.212
+momento, para chamar a atenção
+
+612
+00:35:43.192 --> 00:35:45.032
+e gerar desejo.
+
+613
+00:35:46.032 --> 00:35:46.852
+O legal é que
+
+614
+00:35:47.992 --> 00:35:51.852
+um ponto de contato serve tanto para atrair quanto para repelir, porque você não
+
+615
+00:35:51.892 --> 00:35:55.572
+vai atrair todo mundo também. Você quer atrair um público específico.
+
+616
+00:35:55.612 --> 00:35:59.572
+Então quanto menos genérico você for, quanto mais preciso você for
+
+617
+00:35:59.932 --> 00:36:03.692
+em quem é o seu público e qual é a sua mensagem, mais resultados você tende a
+
+618
+00:36:03.752 --> 00:36:07.532
+ter. Eu aprendi isso a primeira vez quando eu estava estudando
+
+619
+00:36:07.552 --> 00:36:10.822
+sobre cartas de vendas e copywriting.
+
+620
+00:36:10.822 --> 00:36:13.092
+E tem um livro muito massa que chama "Great Leads".
+
+621
+00:36:13.952 --> 00:36:17.872
+É um dos livros mais
+
+622
+00:36:17.912 --> 00:36:21.652
+icônicos do copywriting. Copywriting é escrever
+
+623
+00:36:21.772 --> 00:36:25.692
+textos de vendas, cartas de vendas, isso aí existe há
+
+624
+00:36:25.812 --> 00:36:29.151
+décadas. Eu acho que em 1920 já existiam cartas de vendas.
+
+625
+00:36:29.692 --> 00:36:33.668
+E tem um cara quePor muito tempo escreveu cartas de vendas e depois
+
+626
+00:36:33.728 --> 00:36:37.698
+se tornou o que hoje pra muitos é o maior publicitário de todos os
+
+627
+00:36:37.728 --> 00:36:39.688
+tempos, que se chama David Ogilvy.
+
+628
+00:36:40.268 --> 00:36:43.068
+E o David Ogilvy falava o seguinte:
+
+629
+00:36:43.098 --> 00:36:46.468
+"Pra cada anúncio,
+
+630
+00:36:46.928 --> 00:36:48.088
+uma ideia
+
+631
+00:36:49.068 --> 00:36:52.888
+central, uma grande ideia". E mais tarde, nesse livro, o "Great
+
+632
+00:36:52.988 --> 00:36:56.688
+Leads" cita o David Ogilvy e mais do que citar o David
+
+633
+00:36:56.788 --> 00:36:58.068
+Ogilvy, fala da regra do um.
+
+634
+00:36:59.008 --> 00:37:02.848
+Que sempre que você vai iniciar um novo contato com o seu
+
+635
+00:37:02.868 --> 00:37:06.568
+cliente ou com o público, você precisa de uma ideia, uma
+
+636
+00:37:06.908 --> 00:37:10.888
+emoção, uma mensagem. E às vezes, nós
+
+637
+00:37:10.908 --> 00:37:14.888
+tentamos passar tudo de uma vez e acaba anulando, uma coisa anula a
+
+638
+00:37:14.948 --> 00:37:16.028
+outra. A pessoa termina de
+
+639
+00:37:17.428 --> 00:37:21.247
+ter aquele contato com você e já não lembra de mais nada que foi discutido ali.
+
+640
+00:37:21.948 --> 00:37:25.728
+Agora, quando você é simples, a ponto de falar mil músicas no
+
+641
+00:37:25.768 --> 00:37:26.317
+seu bolso,
+
+642
+00:37:27.228 --> 00:37:30.388
+a pessoa guarda aquilo pra ela. É uma ideia
+
+643
+00:37:31.168 --> 00:37:33.948
+que cola, é uma ideia que fica com a
+
+644
+00:37:33.968 --> 00:37:37.248
+pessoa. Tanto é que até hoje é um caso
+
+645
+00:37:37.288 --> 00:37:40.738
+que nós falamos aqui, nós estudamos esse caso, eu falo pra vocês, mil
+
+646
+00:37:41.088 --> 00:37:44.888
+músicas no seu bolso. Está guardado, é uma ideia que colou.
+
+647
+00:37:44.898 --> 00:37:48.308
+E as pessoas quando vão conversar com as outras, principalmente naquela época, onde
+
+648
+00:37:48.388 --> 00:37:49.688
+mil músicas era muita coisa.
+
+649
+00:37:51.528 --> 00:37:55.048
+Vamos colocar aqui que alguns anos atrás você tinha que gravar uma música em dois
+
+650
+00:37:55.108 --> 00:37:55.768
+disquetes.
+
+651
+00:37:57.028 --> 00:38:00.498
+E depois de gravar a música em dois disquetes, você ainda tinha que ficar gravando
+
+652
+00:38:00.528 --> 00:38:01.688
+a música no rádio, usando
+
+653
+00:38:03.528 --> 00:38:05.528
+um monte de
+
+654
+00:38:06.688 --> 00:38:09.368
+cabinhos. Quem é dessa época? Eu não peguei essa época.
+
+655
+00:38:09.688 --> 00:38:13.388
+Eu já peguei a época que um colega enviava a
+
+656
+00:38:13.448 --> 00:38:17.008
+música pro outro por Bluetooth, no celular.
+
+657
+00:38:17.048 --> 00:38:18.428
+Mas era difícil conseguir as músicas.
+
+658
+00:38:18.488 --> 00:38:21.708
+Hoje em dia é muito fácil, você consegue uma música com uma pesquisa no Google.
+
+659
+00:38:21.748 --> 00:38:24.928
+Antigamente, não era tão fácil assim conseguir uma música no seu celular.
+
+660
+00:38:25.768 --> 00:38:29.388
+E naquela época ainda, mil músicas no seu bolso, uma questão de
+
+661
+00:38:29.408 --> 00:38:30.208
+quantidade,
+
+662
+00:38:31.268 --> 00:38:35.008
+era algo chocante. As pessoas falavam: "Cara, eu não preciso saber de mais nada
+
+663
+00:38:35.108 --> 00:38:38.688
+sobre o iPod, eu só preciso saber que são mil músicas no meu bolso.
+
+664
+00:38:39.627 --> 00:38:43.388
+Eu vou ter todas as músicas que eu quero no meu bolso, pra ir comigo
+
+665
+00:38:43.648 --> 00:38:46.288
+onde quer que eu vá". É uma ideia simples, que cola.
+
+666
+00:38:46.988 --> 00:38:49.848
+E é exatamente esse conceito que eu estou querendo apresentar aqui pra
+
+667
+00:38:49.868 --> 00:38:53.528
+vocês. Existe um momento pra cada coisa, existe um
+
+668
+00:38:53.548 --> 00:38:56.948
+momento pra falar muito, existe um momento pra falar
+
+669
+00:38:56.968 --> 00:39:00.648
+pouco. E à medida que o tempo foi passando, como eu já disse pra vocês
+
+670
+00:39:00.668 --> 00:39:01.028
+também,
+
+671
+00:39:02.088 --> 00:39:05.628
+as coisas começaram a mudar. Então antigamente, você tinha
+
+672
+00:39:05.788 --> 00:39:09.447
+tempo pra ficar folheando uma revista e lendo aquele tanto de texto.
+
+673
+00:39:09.488 --> 00:39:12.968
+Hoje, são segundos pra você desistir de um
+
+674
+00:39:13.028 --> 00:39:16.128
+anúncio e ir pra próxima postagem no Instagram,
+
+675
+00:39:16.948 --> 00:39:20.788
+pra você desistir de um site, pra você desistir de uma chamada.
+
+676
+00:39:21.648 --> 00:39:25.308
+Então se nós temos pouco tempo e espaço,
+
+677
+00:39:25.908 --> 00:39:29.228
+nós precisamos definir bem a prioridade,
+
+678
+00:39:29.388 --> 00:39:32.148
+escolher uma ideia central e focar nela.
+
+679
+00:39:32.857 --> 00:39:36.848
+E eu coloquei aqui destacado "a prioridade", porque eu acho
+
+680
+00:39:36.868 --> 00:39:40.618
+muito engraçado quando alguém fala: "Eu vou definir as minhas
+
+681
+00:39:40.648 --> 00:39:44.528
+prioridades". Se você tem prioridades, então você
+
+682
+00:39:44.588 --> 00:39:47.738
+já não tem prioridade. Prioridade significa um,
+
+683
+00:39:48.728 --> 00:39:52.528
+é o primeiro, é o mais importante. Então em uma mensagem,
+
+684
+00:39:52.588 --> 00:39:55.788
+você sempre tem que se questionar o que é mais
+
+685
+00:39:55.828 --> 00:39:59.628
+importante aqui, o que eu preciso levar em consideração
+
+686
+00:39:59.728 --> 00:40:03.708
+agora, qual é a mensagem principal que esse ponto
+
+687
+00:40:03.748 --> 00:40:07.228
+de contato precisa trazer. Você precisa de um objetivo, precisa de
+
+688
+00:40:07.268 --> 00:40:10.928
+critérios. E isso é uma coisa que eu vejo poucas pessoas fazerem.
+
+689
+00:40:11.708 --> 00:40:15.688
+Eu estou fazendo um site agora, pra uma cliente, e
+
+690
+00:40:15.768 --> 00:40:17.888
+eles que estão me enviando o conteúdo do site.
+
+691
+00:40:18.808 --> 00:40:19.148
+E aí
+
+692
+00:40:20.208 --> 00:40:23.998
+eu falei o seguinte: "Olha, esse conteúdo aqui precisa ser lapidado", por
+
+693
+00:40:24.088 --> 00:40:27.608
+quê? Tinha os cards do site, em um card eram duas
+
+694
+00:40:27.628 --> 00:40:31.428
+palavras, no outro, o título era gigante, ficava um título com uma
+
+695
+00:40:31.488 --> 00:40:34.448
+linha e o outro título gigante, quebrava tudo.
+
+696
+00:40:34.468 --> 00:40:38.228
+E eu falei da importância de ter constância, de seguir um mesmo ritmo, um mesmo tom
+
+697
+00:40:38.268 --> 00:40:38.668
+de voz.
+
+698
+00:40:40.188 --> 00:40:43.578
+E aí, dentro disso, conversando sobre qual era a
+
+699
+00:40:43.628 --> 00:40:47.528
+mensagem principal ali. Nossa, me deu até um branco
+
+700
+00:40:47.548 --> 00:40:51.447
+aqui do que eu ia falar. Eu comecei a contar o caso, eu já lembrei dos clientes e
+
+701
+00:40:51.568 --> 00:40:55.508
+fui lá atrás. Perdão, galera,
+
+702
+00:40:55.568 --> 00:40:59.168
+às vezes isso acontece. Estava falando da prioridade, ótimo.
+
+703
+00:40:59.228 --> 00:41:02.928
+Então olha que curioso, era um monte de informações, tinha uma
+
+704
+00:41:03.088 --> 00:41:07.048
+página, é uma página de captura pra conseguir o lead, pra entrar em contato
+
+705
+00:41:07.068 --> 00:41:11.028
+com esse lead depois. E era um monte de informação que não ajudava
+
+706
+00:41:11.038 --> 00:41:11.728
+a conseguir o lead.
+
+707
+00:41:12.688 --> 00:41:15.988
+Elas queriam falar sobre elas, queriam falar
+
+708
+00:41:16.088 --> 00:41:18.528
+sobre a escola delas, como que elas tinham
+
+709
+00:41:18.568 --> 00:41:22.288
+resultado. E a questão principal, o objetivo principal daquela
+
+710
+00:41:22.308 --> 00:41:26.148
+página, que era fazer a pessoa se cadastrar em um evento, tinha
+
+711
+00:41:26.168 --> 00:41:30.148
+ficado de fora. Não era a prioridade dentro daquela página, porque a
+
+712
+00:41:30.168 --> 00:41:32.408
+prioridade não foi bem definida no conteúdo.
+
+713
+00:41:32.438 --> 00:41:35.188
+Isso é muito comum, porque as pessoas vão
+
+714
+00:41:35.868 --> 00:41:39.328
+seguindo. Alguém faz de um jeito, aí o outro copia.
+
+715
+00:41:39.468 --> 00:41:42.868
+E chega uma hora que todo mundo está preso dentro de um
+
+716
+00:41:42.908 --> 00:41:45.288
+paradigma, um padrão, todo mundo faz exatamente igual.
+
+717
+00:41:45.748 --> 00:41:49.658
+Agora, quando você pensa, você ao invés de só ficar copiando o que todo mundo
+
+718
+00:41:49.688 --> 00:41:52.548
+faz, você para pra pensar: "Qual é o meu objetivo aqui?
+
+719
+00:41:52.888 --> 00:41:54.198
+Qual é o objetivo dessa página?
+
+720
+00:41:55.748 --> 00:41:59.348
+Qual é a única coisa que eu quero que a pessoa faça nessa página e como
+
+721
+00:41:59.358 --> 00:42:02.788
+que eu posso ajudar ela a fazer isso?" Você começa a ter mais
+
+722
+00:42:02.848 --> 00:42:03.468
+resultados.
+
+723
+00:42:04.268 --> 00:42:07.268
+Só lembro de uma coisa, isso a gente já falou na semana passada, eu vou colocar
+
+724
+00:42:07.288 --> 00:42:10.468
+aqui de novo pra vocês, que existe contexto pra tudo.
+
+725
+00:42:10.488 --> 00:42:13.508
+Você tem que entender qual é a essência do texto, qual é o seu objetivo.
+
+726
+00:42:13.948 --> 00:42:17.328
+Então lembra da última aula que eu falei que compor o texto de um
+
+727
+00:42:17.368 --> 00:42:20.468
+romance é diferente de compor um texto
+
+728
+00:42:20.478 --> 00:42:24.288
+acadêmico. Você tem que entender que cada texto possui sua própria
+
+729
+00:42:24.388 --> 00:42:27.978
+essência. Então você precisa olhar aqui, é um
+
+730
+00:42:28.068 --> 00:42:31.748
+poema? É um texto acadêmico? É uma página de vendas?
+
+731
+00:42:31.768 --> 00:42:35.328
+É uma página pra gerar desejo? É uma página pra falar de especificação
+
+732
+00:42:35.368 --> 00:42:39.048
+técnica? Porque a pessoa que chegou ali já chegou preparada.
+
+733
+00:42:39.068 --> 00:42:41.676
+Por exemploPolítica de privacidade.
+
+734
+00:42:42.186 --> 00:42:45.896
+Quem vai ler uma página de política de privacidade já chega lá preparado pra
+
+735
+00:42:45.916 --> 00:42:49.546
+encontrar muita informação. Ou então, uma página de
+
+736
+00:42:49.576 --> 00:42:53.416
+especificações técnicas. Se eu quero saber as especificações
+
+737
+00:42:53.536 --> 00:42:56.296
+técnicas, eu já chego preparado pra receber essa informação.
+
+738
+00:42:56.956 --> 00:42:59.676
+Agora, uma página inicial ou um post de um Instagram,
+
+739
+00:43:00.936 --> 00:43:04.456
+são momentos propícios pra você gerar desejo e não ficar
+
+740
+00:43:04.496 --> 00:43:05.656
+falando demais.
+
+741
+00:43:06.716 --> 00:43:08.536
+As pessoas fazem muito as coisas por tabela.
+
+742
+00:43:08.556 --> 00:43:12.096
+Eu estou falando aqui e vai me lembrando muitas coisas, igual quem fica fazendo
+
+743
+00:43:12.136 --> 00:43:15.896
+post nas redes sociais pra falar: "dia de não sei o quê, dia do
+
+744
+00:43:16.016 --> 00:43:19.836
+índio, dia da água" e às vezes não tem nada a ver com o seu
+
+745
+00:43:19.876 --> 00:43:23.036
+negócio. Você não está focando na mensagem, você só está cumprindo tabela.
+
+746
+00:43:23.046 --> 00:43:24.536
+"Ah, eu preciso fazer post, vou fazer post".
+
+747
+00:43:25.036 --> 00:43:27.286
+Ou então: "preciso fazer um anúncio, vou fazer um anúncio".
+
+748
+00:43:27.556 --> 00:43:31.436
+Mas não pensa numa estratégia mesmo, não pensa em longo prazo, não pensa
+
+749
+00:43:31.516 --> 00:43:35.496
+em como que aquela marca precisa agir, não pensa na
+
+750
+00:43:35.536 --> 00:43:38.096
+mensagem que aquela marca precisa trazer.
+
+751
+00:43:38.776 --> 00:43:41.496
+Isso é muito importante na hora de criar uma composição.
+
+752
+00:43:41.536 --> 00:43:45.386
+Não é à toa que nós temos uma aula dedicada exclusivamente pra falar
+
+753
+00:43:45.456 --> 00:43:49.276
+da mensagem na composição e pra falar sobre a importância
+
+754
+00:43:49.316 --> 00:43:53.136
+da simplicidade na sua composição, principalmente nos
+
+755
+00:43:53.176 --> 00:43:57.116
+dias de hoje. E eu peguei alguns exemplos aqui
+
+756
+00:43:57.136 --> 00:44:00.356
+pra mostrar pra vocês, principalmente de redes sociais, como que a
+
+757
+00:44:00.396 --> 00:44:02.696
+simplicidade guarda uma ideia na sua cabeça.
+
+758
+00:44:03.216 --> 00:44:07.136
+E às vezes você está pensando: "Ruan, mas o cliente que eu atendo não tem
+
+759
+00:44:07.236 --> 00:44:11.016
+fotografia pra eu ser simples assim. É um pouco mais difícil pra mim".
+
+760
+00:44:11.236 --> 00:44:14.036
+Tem vários argumentos, eu converso muito com vocês.
+
+761
+00:44:14.056 --> 00:44:17.956
+Então às vezes, o cliente quer porque quer que eu coloque esse
+
+762
+00:44:17.966 --> 00:44:21.596
+tanto de texto nos stories. Ou então: "ah, meu cliente não tem
+
+763
+00:44:21.636 --> 00:44:24.216
+foto boa". São questões que podem surgir.
+
+764
+00:44:24.276 --> 00:44:26.616
+Como é que eu vou ser simples sem uma foto boa?
+
+765
+00:44:26.676 --> 00:44:30.036
+E eu estou aqui pra te provar que dá, sim, pra ser muito simples, sem que tenha uma
+
+766
+00:44:30.136 --> 00:44:33.916
+foto. Você pode, inclusive, usar fotos de bancos de imagem, que cada vez
+
+767
+00:44:33.976 --> 00:44:36.976
+mais estão mais ricos, mas se você quiser, você não precisa nem usar
+
+768
+00:44:37.136 --> 00:44:40.956
+foto. E sobre o cliente que quer porque quer que você coloque o tanto de
+
+769
+00:44:40.996 --> 00:44:44.776
+texto lá, você precisa mostrar pra ele, vender a sua ideia pra
+
+770
+00:44:44.816 --> 00:44:48.036
+ele. E se no final, vamos supor que ele quer porque quer.
+
+771
+00:44:48.655 --> 00:44:52.416
+Às vezes, se você está com um cliente tão cabeça-dura assim, seja melhor abrir mão
+
+772
+00:44:52.476 --> 00:44:56.196
+dele. E não quer dizer que o cliente sempre tem que ouvir a
+
+773
+00:44:56.236 --> 00:45:00.076
+sua ideia. Mas se for algo muito exagerado,
+
+774
+00:45:00.156 --> 00:45:02.956
+sei lá, tem mais palavra do que pixel.
+
+775
+00:45:04.116 --> 00:45:04.536
+Aí,
+
+776
+00:45:05.736 --> 00:45:08.576
+vale a pena considerar: esse cliente não quer me ouvir.
+
+777
+00:45:08.636 --> 00:45:11.846
+Claramente, ele não sabe o que está fazendo e não quer ouvir
+
+778
+00:45:11.896 --> 00:45:14.056
+minha consideração profissional.
+
+779
+00:45:14.076 --> 00:45:16.516
+Você pode considerar abrir mão desse cliente.
+
+780
+00:45:17.396 --> 00:45:21.276
+Mas eu acredito que se você souber vender bem a sua ideia, se você souber
+
+781
+00:45:21.316 --> 00:45:21.836
+mostrar
+
+782
+00:45:22.936 --> 00:45:26.836
+um plano estratégico, um plano que seja melhor do que o plano dele, eles vão
+
+783
+00:45:26.846 --> 00:45:30.576
+tender a te escutar. Comigo tem sido assim e tem sido muito
+
+784
+00:45:30.596 --> 00:45:34.456
+bom. Há um bom tempo eu consigo mostrar pros meus clientes, assim
+
+785
+00:45:34.496 --> 00:45:38.445
+como eu estou tentando mostrar pra vocês aqui agora, a importância de saber o
+
+786
+00:45:38.496 --> 00:45:41.716
+que você está fazendo e de sempre ter um pensamento estratégico.
+
+787
+00:45:41.756 --> 00:45:45.706
+Cada decisão é uma oportunidade pra você ter um pensamento estratégico.
+
+788
+00:45:46.256 --> 00:45:49.396
+E eu trouxe algumas imagens. Então olha essa daqui, do The New Yorker.
+
+789
+00:45:50.096 --> 00:45:51.336
+Não tem nenhuma
+
+790
+00:45:52.256 --> 00:45:52.996
+imagem aí.
+
+791
+00:45:53.996 --> 00:45:57.036
+Foto. Tem uma imagem, não tem nenhuma foto aqui.
+
+792
+00:45:57.076 --> 00:46:00.056
+Vocês têm um desenho, um desenho que você poderia ter feito.
+
+793
+00:46:00.596 --> 00:46:03.056
+Isso aqui é um exemplo de um bom design,
+
+794
+00:46:04.436 --> 00:46:08.116
+uma boa solução de design. Tem gestalt, tem simplicidade, tem uma
+
+795
+00:46:08.156 --> 00:46:10.096
+ideia bem definida.
+
+796
+00:46:11.116 --> 00:46:14.676
+Quem quer saber sobre o futuro da democracia, vai se interessar por esse
+
+797
+00:46:14.696 --> 00:46:18.636
+anúncio. Uma série especial da The New Yorker.
+
+798
+00:46:19.416 --> 00:46:22.756
+Então olha como é simples e passa a mensagem.
+
+799
+00:46:22.796 --> 00:46:26.336
+Foi desenhado. Se você sabe fazer design, isso daqui
+
+800
+00:46:26.776 --> 00:46:30.556
+não é algo difícil de aplicar, mas conceber a
+
+801
+00:46:30.616 --> 00:46:34.445
+ideia, que é o grande lance. Você ter essa ideia pra poder aplicar
+
+802
+00:46:34.516 --> 00:46:37.646
+ela. Tenho mais um aqui, agora com uma fotografia.
+
+803
+00:46:38.136 --> 00:46:41.956
+Olha só essa da Deseo. Então um cookie recheado, eu acho que é um
+
+804
+00:46:42.016 --> 00:46:45.546
+cookie. Se não for um cookie, é um brownie.
+
+805
+00:46:45.636 --> 00:46:48.846
+Acho que é um brownie. Está com cara de brownie, não está com cara de cookie,
+
+806
+00:46:48.896 --> 00:46:50.056
+não.
+
+807
+00:46:51.676 --> 00:46:53.016
+Se você olha pra essa imagem, olha,
+
+808
+00:46:54.216 --> 00:46:57.006
+essa foto não precisa de nenhum texto.
+
+809
+00:46:58.825 --> 00:47:02.456
+Só de olhar aqui, eu já entendo que é uma empresa que vende
+
+810
+00:47:02.476 --> 00:47:05.606
+brownie. E esse brownie parece muito gostoso e me gerou
+
+811
+00:47:05.656 --> 00:47:09.376
+desejo. Se eu quero saber mais, eu entro nessa
+
+812
+00:47:09.416 --> 00:47:12.276
+história. Então existe uma jornada.
+
+813
+00:47:12.696 --> 00:47:14.056
+Design é storytelling.
+
+814
+00:47:15.536 --> 00:47:19.416
+Se eu quero saber mais, eu acesso o perfil, eu entro no site e
+
+815
+00:47:19.426 --> 00:47:21.876
+eu vou buscando mais informações.
+
+816
+00:47:22.176 --> 00:47:25.516
+Mas naquele primeiro momento, eu só preciso de uma florzinha
+
+817
+00:47:26.156 --> 00:47:29.996
+que vai me atrair. Eu preciso de uma flor que vai
+
+818
+00:47:30.036 --> 00:47:33.526
+chamar minha atenção. E essa é uma bela flor, que vai chamar a sua
+
+819
+00:47:33.536 --> 00:47:37.436
+atenção. Então essa é a importância da simplicidade
+
+820
+00:47:37.496 --> 00:47:39.436
+que eu gostaria de trazer aqui pra vocês.
+
+821
+00:47:39.476 --> 00:47:43.436
+E agora a gente entra num ponto interessante.
+
+822
+00:47:43.916 --> 00:47:47.896
+Só que antes de eu falar desse ponto interessante, eu quero que você pense o
+
+823
+00:47:47.956 --> 00:47:50.556
+seguinte. Só pra gente fazer um teste aqui.
+
+824
+00:47:51.256 --> 00:47:54.416
+Qual das duas imagens a seguir é mais adequada?
+
+825
+00:47:55.276 --> 00:47:56.356
+Essa daqui
+
+826
+00:47:58.556 --> 00:48:00.236
+ou essa daqui?
+
+827
+00:48:03.196 --> 00:48:05.976
+Qual você acha que é mais adequada? Pensa aí.
+
+828
+00:48:07.236 --> 00:48:10.336
+Se você respondeu que a imagem mais adequada é essa,
+
+829
+00:48:12.176 --> 00:48:13.496
+você errou.
+
+830
+00:48:14.826 --> 00:48:18.706
+"Como assim, Ruan? Você falou da simplicidade, falou da importância dela e agora
+
+831
+00:48:18.756 --> 00:48:20.096
+você me vem com essa?" É,
+
+832
+00:48:20.966 --> 00:48:24.416
+e eu preciso trazer isso, foi de propósito que eu trouxe isso,
+
+833
+00:48:24.456 --> 00:48:27.876
+obviamente. Mas pra mostrar pra vocês também que tudo é uma questão de
+
+834
+00:48:27.916 --> 00:48:31.856
+contexto. Tem uma máxima que vocês já ouviram eu
+
+835
+00:48:31.896 --> 00:48:35.036
+falar aqui várias vezes. Qual que é essa máxima?
+
+836
+00:48:35.076 --> 00:48:38.056
+Todos os fundamentos do design são subordinados da
+
+837
+00:48:39.976 --> 00:48:43.504
+mensagemEntão, qual dos dois é mais
+
+838
+00:48:43.544 --> 00:48:46.424
+adequado? Os dois são adequados.
+
+839
+00:48:47.244 --> 00:48:51.204
+Essa é adequada, mas essa também. Essa daqui é uma imagem do David Carson.
+
+840
+00:48:51.724 --> 00:48:54.344
+E por que essa daqui também é adequada?
+
+841
+00:48:55.064 --> 00:48:58.084
+Porque o público com quem eu estou falando aqui é
+
+842
+00:48:58.164 --> 00:49:01.824
+diferente, porque o momento que essa imagem foi
+
+843
+00:49:01.844 --> 00:49:05.464
+criada era diferente. A sensação que eu queria
+
+844
+00:49:05.504 --> 00:49:08.504
+passar, eu que falo, não eu, o David
+
+845
+00:49:08.544 --> 00:49:12.424
+Carson, era diferente da sensação que a
+
+846
+00:49:12.444 --> 00:49:15.684
+Uber queria passar naquela imagem ali.
+
+847
+00:49:15.764 --> 00:49:17.824
+Então guarde isso com você também.
+
+848
+00:49:17.884 --> 00:49:21.724
+Apesar de eu estar falando aqui o tempo inteiro sobre a simplicidade, existe um
+
+849
+00:49:21.784 --> 00:49:22.344
+contexto
+
+850
+00:49:24.544 --> 00:49:28.224
+onde não ser simples é interessante.
+
+851
+00:49:28.244 --> 00:49:32.214
+E esse contexto é o contexto da personalidade, da mensagem que você vai construir.
+
+852
+00:49:32.784 --> 00:49:33.144
+Mas
+
+853
+00:49:33.984 --> 00:49:37.344
+registrei aqui para vocês também guardarem isso daqui com vocês.
+
+854
+00:49:37.404 --> 00:49:41.384
+Olha, na maioria das vezes, você vai se preocupar com a harmonia
+
+855
+00:49:41.424 --> 00:49:44.584
+da composição. A exceção está ligada com a personalidade da marca.
+
+856
+00:49:45.104 --> 00:49:48.864
+O único momento que você não vai se preocupar com a harmonia da composição é no
+
+857
+00:49:48.904 --> 00:49:52.584
+momento onde você está trabalhando com uma marca caótica,
+
+858
+00:49:52.804 --> 00:49:56.604
+uma marca que quer passar uma mensagem mais corrompida,
+
+859
+00:49:56.634 --> 00:49:58.004
+agitada, bagunçada.
+
+860
+00:49:58.944 --> 00:50:02.544
+Aí sim, mas é até curioso que mesmo esse tipo de marca,
+
+861
+00:50:03.204 --> 00:50:07.024
+existem momentos em que ela precisa ser harmônica, para que ela seja mais
+
+862
+00:50:07.064 --> 00:50:10.244
+memorável e para que ela se fixe mais na cabeça das
+
+863
+00:50:10.264 --> 00:50:14.244
+pessoas. Então na hora de criar uma composição, você já viu aqui técnicas de
+
+864
+00:50:14.284 --> 00:50:18.024
+grid, você já viu técnicas para prestar atenção nos detalhes e aqui
+
+865
+00:50:18.104 --> 00:50:21.294
+nessa aula o meu objetivo foi te mostrar que a
+
+866
+00:50:21.484 --> 00:50:25.384
+simplicidade é a ferramenta mais importante
+
+867
+00:50:25.504 --> 00:50:29.164
+hoje para o seu design, principalmente falando da
+
+868
+00:50:29.204 --> 00:50:33.024
+mensagem. Se você quer construir uma mensagem que atrai mais, é importante que você
+
+869
+00:50:33.084 --> 00:50:36.784
+seja simples. Eu sei que eu estou repetindo muito isso daqui nessa
+
+870
+00:50:36.904 --> 00:50:40.804
+aula, você já ouviu, sei lá, umas cinco vezes aqui só hoje, mas é para isso fixar
+
+871
+00:50:40.844 --> 00:50:44.324
+na sua cabeça, porque esse é um fator que é fácil de entender,
+
+872
+00:50:44.884 --> 00:50:47.384
+mas na hora de aplicar, não é tão fácil assim.
+
+873
+00:50:48.024 --> 00:50:51.164
+E eu falo isso por causa do próprio caso da Camila, que eu
+
+874
+00:50:51.184 --> 00:50:54.984
+falei sobre ele aqui para vocês agora há pouco na aula,
+
+875
+00:50:55.584 --> 00:50:59.514
+que ela tinha um site com muito texto e eu falei da importância
+
+876
+00:50:59.544 --> 00:51:03.104
+de reduzir aqueles textos naquele momento, era a página
+
+877
+00:51:03.124 --> 00:51:06.024
+inicial do site. E eu quero mostrar para vocês
+
+878
+00:51:06.034 --> 00:51:08.944
+também algumas imagens.
+
+879
+00:51:10.124 --> 00:51:13.884
+Para vocês verem. Deixa eu arrumar
+
+880
+00:51:13.904 --> 00:51:14.164
+aqui.
+
+881
+00:51:15.704 --> 00:51:18.944
+Vou mostrar para vocês o site da Apple para a gente começar
+
+882
+00:51:20.904 --> 00:51:24.304
+e vocês verem a diferença. A Apple antes e a Apple agora.
+
+883
+00:51:24.484 --> 00:51:26.144
+Deixa eu só colocar ele aqui para vocês.
+
+884
+00:51:31.044 --> 00:51:32.944
+Eita, acho que deu uma travada, tomara que não
+
+885
+00:51:34.124 --> 00:51:36.544
+tenha desconectado.
+
+886
+00:51:36.564 --> 00:51:39.844
+Voltou? Voltou.
+
+887
+00:51:41.304 --> 00:51:42.844
+Vocês estão me vendo aqui no
+
+888
+00:51:44.104 --> 00:51:44.804
+OBS.
+
+889
+00:51:47.064 --> 00:51:48.044
+Deixa eu arrumar aqui.
+
+890
+00:51:51.484 --> 00:51:51.564
+Aqui.
+
+891
+00:51:54.104 --> 00:51:57.004
+Vamos dar uma olhada aqui no site da Apple.
+
+892
+00:51:58.304 --> 00:51:59.324
+Eu tenho isso aqui.
+
+893
+00:52:00.164 --> 00:52:02.084
+Puxar um pouquinho aqui para não cortar.
+
+894
+00:52:06.924 --> 00:52:09.844
+Ah, é porque eu estou na aba errada.
+
+895
+00:52:09.864 --> 00:52:11.684
+Está certo, mas está errado. Agora vai ficar bom.
+
+896
+00:52:13.004 --> 00:52:21.613
+Maravilha.
+
+897
+00:52:21.644 --> 00:52:23.584
+Então vamos dar uma analisada aqui no site da Apple.
+
+898
+00:52:23.644 --> 00:52:26.384
+Essa é a primeira seção do site.
+
+899
+00:52:26.884 --> 00:52:29.844
+Apple.com, primeira seção de todas.
+
+900
+00:52:30.724 --> 00:52:31.444
+Olha esse banner,
+
+901
+00:52:32.524 --> 00:52:34.754
+olha o tanto de branco que você tem nesse banner.
+
+902
+00:52:35.964 --> 00:52:39.784
+Só que olha o tanto de coisas que de um jeito simples, essa
+
+903
+00:52:39.804 --> 00:52:43.704
+primeira dobra te mostra. Eu não vou nem pegar a parte de cima ali, que fala da
+
+904
+00:52:43.724 --> 00:52:46.814
+UNICEF, que tem o menu, isso também é informação, está ali a
+
+905
+00:52:46.844 --> 00:52:50.224
+informação. Mas eu quero falar do banner primeiro.
+
+906
+00:52:50.234 --> 00:52:52.724
+Então MacBook Air, Super Charged.
+
+907
+00:52:53.264 --> 00:52:57.184
+Nossa, falei lindo agora meu inglês, foi perfeito, só que não.
+
+908
+00:52:57.204 --> 00:53:00.304
+Da M2, então chip M2. Presta atenção nessa imagem.
+
+909
+00:53:00.564 --> 00:53:02.844
+Tem quatro MacBooks ali superfinos.
+
+910
+00:53:02.864 --> 00:53:06.664
+A ideia é mostrar que é realmente muito fino e que carrega muito rápido.
+
+911
+00:53:07.284 --> 00:53:11.264
+Então olha que interessante, eu não sei nem se esse
+
+912
+00:53:11.274 --> 00:53:13.044
+carrega muito rápido. Parece que sim,
+
+913
+00:53:13.884 --> 00:53:16.284
+mas eu não sei qual que é a relação de carregar rápido com o M2.
+
+914
+00:53:17.984 --> 00:53:18.714
+Não
+
+915
+00:53:19.964 --> 00:53:20.884
+sei se o Super Charged
+
+916
+00:53:22.124 --> 00:53:25.564
+é relacionado com isso, mas olha a simplicidade.
+
+917
+00:53:25.584 --> 00:53:28.544
+Presta atenção então como que tem pouco texto.
+
+918
+00:53:29.484 --> 00:53:32.804
+Então a gente desce aqui, iPhone 13, Your New
+
+919
+00:53:32.924 --> 00:53:33.554
+Superpower.
+
+920
+00:53:34.544 --> 00:53:38.404
+Então, mais uma vez, pouquíssimo texto,
+
+921
+00:53:38.424 --> 00:53:39.924
+uma imagem que gera desejo
+
+922
+00:53:40.764 --> 00:53:43.884
+e uma frase que gera desejo, seu novo superpoder.
+
+923
+00:53:43.984 --> 00:53:47.334
+Se você quer mais informações, você tem aqui um botão,
+
+924
+00:53:47.844 --> 00:53:51.284
+Learn More ou Buy. Então você
+
+925
+00:53:51.324 --> 00:53:55.084
+escolhe saber mais, eu te dou a escolha, eu não fico jogando um monte de
+
+926
+00:53:55.124 --> 00:53:57.744
+informação na sua cara se você não quer essa informação.
+
+927
+00:53:59.144 --> 00:53:59.804
+AirPods,
+
+928
+00:54:00.784 --> 00:54:01.784
+with Spatial
+
+929
+00:54:02.884 --> 00:54:03.604
+Audio.
+
+930
+00:54:04.444 --> 00:54:06.244
+Então com áudio espacial.
+
+931
+00:54:07.544 --> 00:54:11.144
+Saiba mais ou compre. De novo, simples aqui.
+
+932
+00:54:12.344 --> 00:54:16.044
+Outro ponto que a gente vai deixar para outra aula é o próprio movimento,
+
+933
+00:54:16.964 --> 00:54:20.784
+principalmente falando do nosso contexto atual, o movimento chama muita
+
+934
+00:54:20.804 --> 00:54:23.054
+atenção e é uma ferramenta muito poderosa.
+
+935
+00:54:23.704 --> 00:54:27.644
+E aqui volta para os banners de novo, então MacBook Pro 13,
+
+936
+00:54:28.404 --> 00:54:29.184
+Super Charged,
+
+937
+00:54:30.284 --> 00:54:31.084
+M2.
+
+938
+00:54:34.804 --> 00:54:38.584
+As compras começam às 05h do dia
+
+939
+00:54:40.924 --> 00:54:46.264
+17/06.Disponível
+
+940
+00:54:46.444 --> 00:54:48.184
+a partir do dia 24/06.
+
+941
+00:54:49.564 --> 00:54:53.504
+Aqui é um anúncio do novo MacBook, vai
+
+942
+00:54:53.584 --> 00:54:56.484
+começar a ser vendido. Mas reparem aqui.
+
+943
+00:54:56.644 --> 00:55:00.484
+Eu sei que eu estou agredindo os seus ouvidos com o meu
+
+944
+00:55:00.524 --> 00:55:04.194
+inglês, a minha pronúncia, mas eu estou fazendo questão de mostrar a
+
+945
+00:55:04.224 --> 00:55:07.344
+mensagem, porque não tem como separar a mensagem da composição.
+
+946
+00:55:07.824 --> 00:55:09.284
+E porque eu quero que vocês entendam
+
+947
+00:55:10.104 --> 00:55:13.704
+a importância dessa simplicidade para transmitir a própria mensagem.
+
+948
+00:55:13.724 --> 00:55:17.604
+O texto é tão simples, que não dá vontade de
+
+949
+00:55:17.624 --> 00:55:19.844
+ignorar. Você lê porque vai ser tão rápido.
+
+950
+00:55:21.314 --> 00:55:23.384
+"Oh, so Pro". Então
+
+951
+00:55:23.604 --> 00:55:26.924
+apenas Pro.
+
+952
+00:55:27.904 --> 00:55:30.864
+iPhone 13 Pro, apenas Pro, é pra quem é Pro.
+
+953
+00:55:32.164 --> 00:55:35.144
+Apple Watch, série sete. Olha só a
+
+954
+00:55:35.164 --> 00:55:39.144
+simplicidade. Bem simples. "Ah, Ruan, e esse
+
+955
+00:55:39.164 --> 00:55:40.464
+tanto de texto que tem aqui no final?"
+
+956
+00:55:42.744 --> 00:55:46.684
+Geralmente está ligado com questão de dados ou com informações
+
+957
+00:55:46.744 --> 00:55:50.704
+que a empresa, de alguma forma, é obrigada a deixar essas informações
+
+958
+00:55:50.764 --> 00:55:53.964
+ali. Então eles colocam. Ou notas de rodapé,
+
+959
+00:55:54.404 --> 00:55:55.634
+informações secundárias,
+
+960
+00:55:57.144 --> 00:55:58.744
+que às vezes tem algum asterisco.
+
+961
+00:55:59.904 --> 00:56:01.864
+Isso, inclusive, é uma técnica muito boa.
+
+962
+00:56:01.884 --> 00:56:05.284
+Tem uma informação que você é obrigado a colocar? Coloca um asterisco.
+
+963
+00:56:05.544 --> 00:56:06.524
+Vamos ver onde que está o asterisco.
+
+964
+00:56:06.544 --> 00:56:08.324
+Aqui ele está falando de quatro dólares por mês,
+
+965
+00:56:08.944 --> 00:56:12.804
+deve ser do Apple
+
+966
+00:56:12.844 --> 00:56:14.224
+TV. É
+
+967
+00:56:15.784 --> 00:56:17.564
+uma informação que, ao invés de
+
+968
+00:56:19.044 --> 00:56:22.524
+sujar a composição principal, onde eu preciso te gerar desejo,
+
+969
+00:56:23.184 --> 00:56:26.064
+eu deixo essa informação mais para o final da página.
+
+970
+00:56:26.824 --> 00:56:29.664
+Isso aqui é muito comum, comecem a reparar e vocês vão ver.
+
+971
+00:56:29.724 --> 00:56:33.324
+É mais comum do que vocês imaginam, uma notinha de rodapé.
+
+972
+00:56:34.824 --> 00:56:38.764
+Então está aí um exemplo. Vamos entrar em uma página que apresenta mais.
+
+973
+00:56:38.784 --> 00:56:39.804
+Vocês vão ver que mesmo
+
+974
+00:56:40.684 --> 00:56:44.534
+no lugar onde a Apple quer trazer especificações técnicas,
+
+975
+00:56:45.004 --> 00:56:47.004
+olha como ela é simples.
+
+976
+00:56:48.904 --> 00:56:52.323
+Olha o tamanho desse texto, são poucas palavras.
+
+977
+00:56:53.944 --> 00:56:56.964
+E a forma como ele foi apresentado também te gera desejo.
+
+978
+00:56:59.304 --> 00:56:59.644
+Está vendo?
+
+979
+00:57:02.804 --> 00:57:05.384
+Aqui de novo. Preciso falar de quantas polegadas é.
+
+980
+00:57:05.904 --> 00:57:08.964
+Beleza, iPhone 13 Pro Max, 6.7 polegadas.
+
+981
+00:57:09.084 --> 00:57:11.124
+iPhone 13 Pro, 6.1 polegadas.
+
+982
+00:57:12.164 --> 00:57:14.644
+Ali embaixo tem uma outra informação, Super Retina
+
+983
+00:57:15.624 --> 00:57:16.184
+XDR
+
+984
+00:57:17.304 --> 00:57:21.044
+Display with ProMotion. Então tem mais uma informação,
+
+985
+00:57:22.524 --> 00:57:24.364
+supersimples. As cores.
+
+986
+00:57:28.384 --> 00:57:29.044
+Isso é para gerar
+
+987
+00:57:29.844 --> 00:57:30.424
+desejo.
+
+988
+00:57:31.424 --> 00:57:31.584
+Aqui
+
+989
+00:57:32.644 --> 00:57:34.744
+ela trouxe uma informação
+
+990
+00:57:36.084 --> 00:57:39.184
+técnica. Colocaram um três aqui, por quê?
+
+991
+00:57:39.244 --> 00:57:42.684
+Porque isso aqui provavelmente tem lá na nota de rodapé do site,
+
+992
+00:57:43.264 --> 00:57:44.164
+mais informações
+
+993
+00:57:45.404 --> 00:57:46.364
+sobre esse lead
+
+994
+00:57:47.304 --> 00:57:49.613
+da indústria IP68,
+
+995
+00:57:50.904 --> 00:57:52.404
+com resistência à água.
+
+996
+00:57:54.724 --> 00:57:57.704
+"Ah, Ruan, aqui tem muito texto". Não, é pouco texto
+
+997
+00:57:58.644 --> 00:58:02.424
+em uma escala muito grande, que aí também não é
+
+998
+00:58:02.524 --> 00:58:05.664
+tanto problema, porque você tem a sensação de que vai acabar ele rápido.
+
+999
+00:58:05.964 --> 00:58:07.893
+Então já acaba gerando um estilo.
+
+1000
+00:58:08.734 --> 00:58:10.924
+Uma foto que deve ter sido feita com iPhone.
+
+1001
+00:58:11.844 --> 00:58:14.784
+Macro Photography comes to iPhone.
+
+1002
+00:58:16.694 --> 00:58:19.884
+Então mostrando o resultado, é isso que eu estou querendo vender. Está vendo?
+
+1003
+00:58:19.944 --> 00:58:23.364
+E mesmo quando eu preciso falar, olha, um parágrafo na seção.
+
+1004
+00:58:23.964 --> 00:58:27.224
+Deixa a pessoa rolar, seguir a história. Entende?
+
+1005
+00:58:30.924 --> 00:58:34.244
+Olha essa composição, supersimples, pouco texto, tem uma boa
+
+1006
+00:58:34.264 --> 00:58:37.794
+hierarquia, tem uma boa construção.
+
+1007
+00:58:37.814 --> 00:58:38.524
+Aqui também,
+
+1008
+00:58:39.404 --> 00:58:40.744
+para mostrar fotos noturnas.
+
+1009
+00:58:42.984 --> 00:58:45.084
+2,2 vezes mais luz,
+
+1010
+00:58:46.684 --> 00:58:48.944
+92% de mais luz.
+
+1011
+00:58:52.844 --> 00:58:54.644
+Muita imagem para provar isso.
+
+1012
+00:58:56.224 --> 00:58:56.404
+Então
+
+1013
+00:58:57.424 --> 00:59:01.224
+está aí um exemplo que eu queria mostrar para vocês. Pouco texto, simples.
+
+1014
+00:59:01.924 --> 00:59:04.264
+Mostra uma ideia. Tanto que dá vontade de
+
+1015
+00:59:04.304 --> 00:59:07.224
+continuar vendo a página,
+
+1016
+00:59:08.394 --> 00:59:11.004
+que ela vai apresentando informação de cada vez.
+
+1017
+00:59:11.084 --> 00:59:14.124
+Se fosse igual antigamente, seria aquele tanto de texto em uma página.
+
+1018
+00:59:15.784 --> 00:59:16.874
+Aqui ele está blocado
+
+1019
+00:59:18.624 --> 00:59:22.464
+e você consegue ter essa informação com muito mais simplicidade.
+
+1020
+00:59:23.104 --> 00:59:25.844
+Shoot it. Cut it. Ship it.
+
+1021
+00:59:28.384 --> 00:59:29.604
+All in progress.
+
+1022
+00:59:34.584 --> 00:59:35.184
+Muito show.
+
+1023
+00:59:37.204 --> 00:59:39.624
+Então está aí um exemplo para vocês.
+
+1024
+00:59:39.644 --> 00:59:42.944
+Tem as informações técnicas no lugar onde vale a pena
+
+1025
+00:59:43.524 --> 00:59:47.344
+ter as informações técnicas. E agora para a gente finalizar
+
+1026
+00:59:47.364 --> 00:59:51.184
+essa aula, que eu dar uma diretriz para vocês mais prática, de como que vocês
+
+1027
+00:59:51.204 --> 00:59:55.064
+podem levar isso na hora de criar uma composição, eu tenho alguns
+
+1028
+00:59:55.084 --> 00:59:56.364
+pontos para você prestar atenção.
+
+1029
+00:59:56.524 --> 00:59:59.684
+Então leve em consideração os seguintes fatores.
+
+1030
+00:59:59.784 --> 01:00:03.234
+Primeiro: qual a mensagem que você quer passar?
+
+1031
+01:00:03.744 --> 01:00:07.304
+Segundo: qual a forma mais clara de passar essa ideia?
+
+1032
+01:00:07.804 --> 01:00:10.564
+Terceiro: com quem eu quero falar?
+
+1033
+01:00:10.864 --> 01:00:13.184
+E por último: onde esse material vai aparecer?
+
+1034
+01:00:13.724 --> 01:00:15.884
+O contexto importa muito. Então sempre se
+
+1035
+01:00:18.044 --> 01:00:21.494
+faça essas perguntas, que aí você vai evitar que aconteça
+
+1036
+01:00:21.924 --> 01:00:23.164
+isso.
+
+1037
+01:00:25.184 --> 01:00:28.444
+Poxa vida, eu precisava pegar uma imagem dessa para vocês.
+
+1038
+01:00:28.484 --> 01:00:28.804
+Galera,
+
+1039
+01:00:29.904 --> 01:00:33.154
+nós designers precisamos pensar, usar a cabeça, usar o
+
+1040
+01:00:33.204 --> 01:00:36.864
+cérebro. Nós precisamos testar, nós precisamos parar de
+
+1041
+01:00:36.924 --> 01:00:40.844
+negligenciar as coisas. Quem faz isso daqui, geralmente é uma
+
+1042
+01:00:40.864 --> 01:00:43.844
+pessoa que está negligenciando o próprio trabalho,
+
+1043
+01:00:45.164 --> 01:00:47.444
+está fazendo isso por fazer.
+
+1044
+01:00:48.524 --> 01:00:49.564
+É para um site? É
+
+1045
+01:00:50.384 --> 01:00:52.844
+um plot para colocar em um carro?
+
+1046
+01:00:53.664 --> 01:00:57.644
+Faz lá, coloca no mockup, no mundo virtual, mas não
+
+1047
+01:00:57.684 --> 01:01:01.524
+para para pensar na vida real, qual que é a aplicação disso na vida
+
+1048
+01:01:01.584 --> 01:01:04.824
+real? Quem vai ver isso daqui? Onde isso vai ser aplicado?
+
+1049
+01:01:04.984 --> 01:01:08.944
+Sempre se faça essas perguntas e leve em consideração os tópicos
+
+1050
+01:01:08.964 --> 01:01:12.604
+que eu te mostrei aqui hoje. Eu tenho certeza que isso vai evoluir muito o nível do
+
+1051
+01:01:12.684 --> 01:01:15.964
+seu design. Essa é uma questão que ainda está
+
+1052
+01:01:16.844 --> 01:01:17.464
+muito comum
+
+1053
+01:01:18.344 --> 01:01:22.104
+nos line ups da Odisseia, ou até mesmo com os seguidores quando eu
+
+1054
+01:01:22.144 --> 01:01:25.064
+recebo mensagens no Instagram. É muito comum.
+
+1055
+01:01:25.104 --> 01:01:28.564
+Pede para eu analisar um projeto, eu vou analisar o projeto, era um projeto
+
+1056
+01:01:28.724 --> 01:01:32.584
+que era adequado para simplicidade, fazia muito sentido
+
+1057
+01:01:32.664 --> 01:01:35.264
+buscar uma harmonia e eu não encontrava ela lá.
+
+1058
+01:01:35.384 --> 01:01:38.704
+Na verdade, encontrava muito texto que mais afasta as
+
+1059
+01:01:38.724 --> 01:01:42.364
+pessoas do que, de fato, atrai elas para a empresa.
+
+1060
+01:01:42.604 --> 01:01:45.584
+Então leve isso em consideração que eu tenho certeza que você vai melhorar muito.
+
+1061
+01:01:46.944 --> 01:01:50.804
+No módulo de fundamentos da composição, nós ainda vamos
+
+1062
+01:01:50.844 --> 01:01:54.804
+falar muito sobre mensagem. Como que eu faço para pegar um texto
+
+1063
+01:01:54.844 --> 01:01:58.784
+grande e traduzir isso em algo mais simples, que vai
+
+1064
+01:01:58.804 --> 01:02:00.764
+gerar mais resultados para os meus clientes?
+
+1065
+01:02:00.784 --> 01:02:04.684
+Isso aí é tópico para as aulas dos fundamentos da mensagem, que
+
+1066
+01:02:04.694 --> 01:02:07.864
+em breve você vai chegar lá, se você está aqui, você está quase acabando o módulo
+
+1067
+01:02:07.904 --> 01:02:11.024
+de composição, daqui a pouco começa o módulo de mensagem.
+
+1068
+01:02:11.174 --> 01:02:14.174
+Então é isso, vou ficando por aqui. Eu te vejo na próxima aula.

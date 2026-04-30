@@ -1,0 +1,2400 @@
+1
+00:00:00,124 --> 00:00:01,704
+O que compõe uma boa imagem?
+
+2
+00:00:03,004 --> 00:00:07,204
+Além de falar sobre inteligência artificial aqui, estamos num curso de geração de imagens,
+
+3
+00:00:07,224 --> 00:00:09,104
+mas o que compõe uma boa imagem?
+
+4
+00:00:09,304 --> 00:00:13,084
+O que nós podemos considerar como uma imagem que pode ser considerada boa?
+
+5
+00:00:13,264 --> 00:00:17,024
+Isso é bem vago, né? Uma boa imagem para mim pode ser uma imagem ruim para você.
+
+6
+00:00:17,444 --> 00:00:21,864
+Mas nós podemos dissecar as imagens entendendo qual é o objetivo por trás dela.
+
+7
+00:00:22,184 --> 00:00:23,744
+Para que você precisa de uma imagem?
+
+8
+00:00:24,344 --> 00:00:26,204
+Onde você utiliza imagens no seu projeto?
+
+9
+00:00:27,144 --> 00:00:32,224
+Geralmente uma imagem é um suporte para carregar uma mensagem, para carregar um signo.
+
+10
+00:00:33,404 --> 00:00:35,544
+inclusive, se você
+
+11
+00:00:35,544 --> 00:00:37,044
+quiser uma trilha que
+
+12
+00:00:37,724 --> 00:00:39,704
+conecta tão bem com essa daqui, é a trilha
+
+13
+00:00:39,704 --> 00:00:41,584
+Signals, que eu falo sobre semiótica.
+
+14
+00:00:41,784 --> 00:00:43,484
+É bem aprofundado e
+
+15
+00:00:43,484 --> 00:00:45,484
+ali você vai aprender quais são os elementos
+
+16
+00:00:45,484 --> 00:00:47,564
+de uma boa imagem. O legal é que você
+
+17
+00:00:47,564 --> 00:00:49,264
+pode saber tudo sobre IA. Se você não sabe
+
+18
+00:00:49,264 --> 00:00:51,524
+gerar boas imagens, se você não sabe entender o que é
+
+19
+00:00:51,524 --> 00:00:53,584
+uma boa imagem, em alguns momentos a IA
+
+20
+00:00:53,584 --> 00:00:55,544
+vai entregar pra você imagens
+
+21
+00:00:55,544 --> 00:00:56,964
+incríveis e você vai jogar fora.
+
+22
+00:00:57,184 --> 00:00:59,384
+Em outros momentos, você vai pegar imagens
+
+23
+00:00:59,384 --> 00:01:01,324
+horríveis e achar que estão boas, porque
+
+24
+00:01:01,324 --> 00:01:02,664
+a IA vai te iludir. Então,
+
+25
+00:01:03,484 --> 00:01:08,884
+Você precisa entender como que funciona o sistema de percepção humana,
+
+26
+00:01:08,884 --> 00:01:11,004
+como que a gente entende uma imagem como boa ou ruim,
+
+27
+00:01:11,084 --> 00:01:14,764
+e como que você pode utilizar as imagens para conduzir a percepção das pessoas
+
+28
+00:01:14,764 --> 00:01:16,324
+e transmitir a mensagem que você quer.
+
+29
+00:01:16,444 --> 00:01:18,464
+Esse é o nosso objetivo ao gerar uma imagem.
+
+30
+00:01:18,564 --> 00:01:19,884
+Você gera para poder enviar para alguém.
+
+31
+00:01:20,664 --> 00:01:24,004
+Pensa comigo, se só tivesse você no mundo, você ia ficar gerando imagens?
+
+32
+00:01:25,532 --> 00:01:27,792
+Pensa de novo sobre isso, é uma pergunta profunda.
+
+33
+00:01:27,832 --> 00:01:29,092
+Só tem você no mundo, você gera imagem?
+
+34
+00:01:29,672 --> 00:01:31,532
+Para que eu vou gerar? A imagem é comunicação,
+
+35
+00:01:31,692 --> 00:01:32,872
+eu não vou precisar me comunicar com ninguém.
+
+36
+00:01:34,364 --> 00:01:37,004
+É tipo falar. Pra que eu vou falar? Ninguém vai ouvir.
+
+37
+00:01:38,236 --> 00:01:44,056
+Então, imagem é comunicação, imagem é mensagem, imagem é signo.
+
+38
+00:01:44,636 --> 00:01:46,136
+E entender isso é muito importante.
+
+39
+00:01:46,416 --> 00:01:50,156
+Então, eu pedi à equipe para preparar aqui, baseado em outras aulas que eu já dei,
+
+40
+00:01:50,776 --> 00:01:52,536
+um roteiro, que a gente vai seguir ele aqui juntos,
+
+41
+00:01:52,636 --> 00:01:55,836
+e eu vou reagindo a esse roteiro e fazendo essa análise com vocês aqui,
+
+42
+00:01:55,956 --> 00:01:57,836
+do que eu concordo, do que eu discordo dele,
+
+43
+00:01:57,976 --> 00:02:02,256
+e a gente vai entender aqui quais são os elementos de uma boa imagem.
+
+44
+00:02:02,556 --> 00:02:03,676
+Então, bora lá.
+
+45
+00:02:04,516 --> 00:02:07,976
+Primeiro, aqui tem uma abertura, porque isso aqui funciona como um roteiro mesmo,
+
+46
+00:02:08,236 --> 00:02:10,556
+Mas eu tenho alguns pontos interessantes que eu quero trazer para vocês.
+
+47
+00:02:10,756 --> 00:02:13,716
+A maioria acredita que as imagens funcionam porque são bonitas.
+
+48
+00:02:14,036 --> 00:02:15,116
+E isso é uma ilusão.
+
+49
+00:02:15,196 --> 00:02:17,336
+Imagens feias podem funcionar melhor que bonitas.
+
+50
+00:02:18,116 --> 00:02:20,396
+Quem trabalha com anúncios, por exemplo, já deve ter visto.
+
+51
+00:02:20,436 --> 00:02:23,916
+Às vezes um anúncio feioso, bobão ali, tosco,
+
+52
+00:02:24,336 --> 00:02:26,036
+funciona melhor que um arquivo lindo e bonito.
+
+53
+00:02:26,136 --> 00:02:26,436
+Por quê?
+
+54
+00:02:26,556 --> 00:02:30,736
+Às vezes o design muito refinadinho passa a ideia de comercial
+
+55
+00:02:30,736 --> 00:02:32,076
+e as pessoas às vezes fogem do comercial.
+
+56
+00:02:32,396 --> 00:02:34,896
+Aí aquele mal refinado, feio, tosquinho,
+
+57
+00:02:34,896 --> 00:02:36,756
+as pessoas sentem que é um conteúdo mais
+
+58
+00:02:37,916 --> 00:02:38,416
+autêntico, mais
+
+59
+00:02:39,176 --> 00:02:41,136
+feito ali no momento e tendem a dar
+
+60
+00:02:41,136 --> 00:02:42,496
+mais valor pra isso, olha que interessante
+
+61
+00:02:42,996 --> 00:02:45,116
+isso é uma coisa muito curiosa que acontece no
+
+62
+00:02:45,116 --> 00:02:47,156
+cérebro humano, tá, eu tava conversando
+
+63
+00:02:47,156 --> 00:02:49,096
+outro dia com o Alan Nicholas e ele tava falando que
+
+64
+00:02:49,096 --> 00:02:50,616
+ele viu uma notícia que chocou ele
+
+65
+00:02:51,456 --> 00:02:53,236
+não era bem uma notícia, né, eu acho
+
+66
+00:02:53,236 --> 00:02:54,836
+que alguém falou isso pra ele, que
+
+67
+00:02:55,676 --> 00:02:57,356
+o chão do Carrefour é sujo
+
+68
+00:02:57,356 --> 00:02:59,176
+de propósito, aí ele foi
+
+69
+00:02:59,176 --> 00:03:00,376
+me explicar, ele falou, cara, você já
+
+70
+00:03:00,836 --> 00:03:03,096
+sabia que o chão do Carrefour é sujo de propósito? Como assim?
+
+71
+00:03:03,096 --> 00:03:07,276
+É, porque há muito tempo atrás eles fizeram vários testes
+
+72
+00:03:07,276 --> 00:03:10,756
+de deixar o Carrefour tudo limpinho, tudo bonitinho, lustrado, tudo organizado
+
+73
+00:03:10,756 --> 00:03:14,436
+e isso estava afastando os clientes, estava deixando as pessoas incomodadas
+
+74
+00:03:14,436 --> 00:03:16,956
+porque aquilo não fazia parte do ambiente natural delas.
+
+75
+00:03:16,996 --> 00:03:19,636
+Elas achavam que aquilo era coisa de pessoas muito ricas,
+
+76
+00:03:19,716 --> 00:03:22,896
+de pessoas que mereciam estar num ambiente como aquele.
+
+77
+00:03:22,996 --> 00:03:24,696
+Só que isso era inconsciente. Olha que bizarro.
+
+78
+00:03:24,796 --> 00:03:26,516
+Isso é na mente das pessoas.
+
+79
+00:03:26,816 --> 00:03:29,576
+Porque era o mesmo Carrefour com os preços que ele cobrava lá,
+
+80
+00:03:29,576 --> 00:03:31,756
+só que ele notou que não estava
+
+81
+00:03:31,756 --> 00:03:33,576
+comunicando bem com o público, então
+
+82
+00:03:33,576 --> 00:03:35,896
+eles montaram uma estratégia e passou a
+
+83
+00:03:35,896 --> 00:03:37,896
+fazer parte, você nunca mais vai pro Carrefour
+
+84
+00:03:37,896 --> 00:03:39,216
+na mesma lógica
+
+85
+00:03:39,216 --> 00:03:41,956
+deixar sujo, às vezes deixar
+
+86
+00:03:41,956 --> 00:03:43,256
+um saco de arroz com feijão
+
+87
+00:03:43,256 --> 00:03:45,896
+com arroz caindo no chão
+
+88
+00:03:45,896 --> 00:03:47,456
+deixar empoeirado, às vezes
+
+89
+00:03:47,456 --> 00:03:49,876
+quando você vai num supermercado mais barato
+
+90
+00:03:49,876 --> 00:03:52,156
+também, às vezes aqui em Minas Gerais
+
+91
+00:03:52,156 --> 00:03:53,796
+tem um supermercado que se chama Supermercado BH
+
+92
+00:03:53,796 --> 00:03:55,576
+cara, se você ver o logo
+
+93
+00:03:55,576 --> 00:03:57,236
+do Supermercado BH
+
+94
+00:03:57,236 --> 00:03:59,176
+BH, e é gigante,
+
+95
+00:03:59,176 --> 00:04:00,916
+cara, o dono do supermercado BH,
+
+96
+00:04:02,636 --> 00:04:03,436
+cara, riquíssimo
+
+97
+00:04:03,436 --> 00:04:05,076
+também, e
+
+98
+00:04:05,736 --> 00:04:07,136
+é de propósito, é pra
+
+99
+00:04:07,136 --> 00:04:09,156
+conversar com o público, né, e eles não querem
+
+100
+00:04:09,156 --> 00:04:11,116
+mudar, porque se eles mudarem, pode mudar a
+
+101
+00:04:11,116 --> 00:04:12,616
+percepção do público também da marca deles.
+
+102
+00:04:13,216 --> 00:04:14,756
+Que loucura, né? Então,
+
+103
+00:04:15,896 --> 00:04:17,156
+quando a gente fala de imagem,
+
+104
+00:04:17,276 --> 00:04:18,936
+a gente tá falando de semiótica, a gente entra
+
+105
+00:04:18,936 --> 00:04:21,056
+num campo mais profundo,
+
+106
+00:04:21,136 --> 00:04:22,836
+e nesse campo mais profundo,
+
+107
+00:04:22,856 --> 00:04:24,796
+eu quero relembrar vocês aqui,
+
+108
+00:04:25,676 --> 00:04:26,696
+essa aula, eu vou
+
+109
+00:04:26,696 --> 00:04:27,916
+Vou abrir a porta pra vocês,
+
+110
+00:04:28,176 --> 00:04:30,656
+mas se você quiser se aprofundar, vem aqui, ó.
+
+111
+00:04:31,096 --> 00:04:32,876
+Vem aqui, ó. Fundamentos do Design
+
+112
+00:04:33,376 --> 00:04:34,636
+Signals. Pega
+
+113
+00:04:34,636 --> 00:04:36,816
+essa trilha aqui e você vai entender
+
+114
+00:04:36,816 --> 00:04:38,636
+aqui a importância da mensagem, base da
+
+115
+00:04:38,636 --> 00:04:40,756
+semiótica. Cara, isso aqui muda o seu jeito de olhar
+
+116
+00:04:40,756 --> 00:04:42,856
+pro mundo, beleza? E vai ajudar
+
+117
+00:04:42,856 --> 00:04:44,936
+você a gerar imagens melhores. Ou seja,
+
+118
+00:04:45,296 --> 00:04:46,836
+gerar imagens melhores é muito
+
+119
+00:04:46,836 --> 00:04:49,316
+mais sobre o seu repertório
+
+120
+00:04:49,316 --> 00:04:50,816
+do que sobre a IA, porque ela consegue
+
+121
+00:04:50,816 --> 00:04:52,556
+fazer tudo. Eu tô mostrando isso pra vocês
+
+122
+00:04:52,556 --> 00:04:54,176
+do jeito mais bobo possível,
+
+123
+00:04:54,176 --> 00:04:56,216
+simplesmente soltando
+
+124
+00:04:56,216 --> 00:04:58,076
+promptes bobinhos aqui, ela gerando
+
+125
+00:04:58,076 --> 00:05:00,176
+coisas que pra maioria das pessoas pode ser interessante
+
+126
+00:05:00,176 --> 00:05:01,396
+dentro do contexto certo.
+
+127
+00:05:01,956 --> 00:05:04,536
+Legal? Então leva isso em consideração.
+
+128
+00:05:04,656 --> 00:05:06,016
+E o nosso outro anúncio aí,
+
+129
+00:05:06,056 --> 00:05:07,956
+que eu vou falar dele daqui a pouco, então
+
+130
+00:05:07,956 --> 00:05:10,056
+levem isso em consideração quando a gente fala de elementos
+
+131
+00:05:10,056 --> 00:05:11,776
+de uma boa imagem.
+
+132
+00:05:11,916 --> 00:05:13,596
+Depende muito de contexto.
+
+133
+00:05:14,096 --> 00:05:16,176
+Imagens não funcionam porque são bonitas,
+
+134
+00:05:16,196 --> 00:05:18,056
+funcionam porque deixam claro o que deve
+
+135
+00:05:18,056 --> 00:05:19,976
+ser visto, organizam a informação
+
+136
+00:05:19,976 --> 00:05:22,276
+de forma intencional e fazem sentido no lugar onde aparecem.
+
+137
+00:05:23,420 --> 00:05:26,480
+Isso aqui é a parte mais importante que vocês precisam guardar.
+
+138
+00:05:27,676 --> 00:05:30,696
+É isso aqui que vai fazer vocês fazerem imagens que conversam com as pessoas.
+
+139
+00:05:32,092 --> 00:05:33,692
+Imagina o mundo daqui cinco anos.
+
+140
+00:05:33,912 --> 00:05:37,712
+A IA podendo gerar qualquer coisa com facilidade.
+
+141
+00:05:37,812 --> 00:05:38,552
+Pô, cinco anos.
+
+142
+00:05:38,592 --> 00:05:39,652
+Cinco anos atrás era 2021.
+
+143
+00:05:40,392 --> 00:05:41,712
+Imagina o mundo em 2030.
+
+144
+00:05:42,032 --> 00:05:44,392
+O que as IAs de imagens não vão estar fazendo?
+
+145
+00:05:45,072 --> 00:05:47,392
+Nesse mundo importa a ferramenta?
+
+146
+00:05:47,952 --> 00:05:49,252
+Sinceramente, não importa.
+
+147
+00:05:50,556 --> 00:05:52,416
+O que importa é a pessoa que está usando a ferramenta.
+
+148
+00:05:52,636 --> 00:05:54,076
+O que importa é, eu
+
+149
+00:05:54,076 --> 00:05:56,536
+gero uma imagem para um objetivo específico,
+
+150
+00:05:56,536 --> 00:05:58,536
+para um projeto que eu estou trabalhando, que vai impactar
+
+151
+00:05:58,536 --> 00:06:00,516
+as pessoas e vai gerar determinado efeito.
+
+152
+00:06:00,836 --> 00:06:02,616
+É isso que importa. Guarda
+
+153
+00:06:02,616 --> 00:06:04,336
+isso então. O que determina se alguém
+
+154
+00:06:04,336 --> 00:06:06,396
+para ou passa direto é o conjunto
+
+155
+00:06:06,396 --> 00:06:08,716
+de decisões técnicas. Composição,
+
+156
+00:06:08,876 --> 00:06:10,076
+luz, cor,
+
+157
+00:06:10,836 --> 00:06:12,456
+enquadramento, textura, legibilidade
+
+158
+00:06:12,456 --> 00:06:14,336
+e consistência. Mas o mais
+
+159
+00:06:14,336 --> 00:06:15,816
+importante que não entrou aqui
+
+160
+00:06:15,816 --> 00:06:15,956
+aqui.
+
+161
+00:06:17,500 --> 00:06:19,020
+a representação
+
+162
+00:06:20,732 --> 00:06:21,412
+Simbólica.
+
+163
+00:06:21,612 --> 00:06:23,912
+A gente chama isso de capital simbólico.
+
+164
+00:06:24,612 --> 00:06:27,112
+Essa representação é chamada de signo.
+
+165
+00:06:27,232 --> 00:06:28,752
+Na semiótica.
+
+166
+00:06:30,012 --> 00:06:32,492
+O que importa, acima de tudo numa imagem,
+
+167
+00:06:34,556 --> 00:06:35,056
+É o signo.
+
+168
+00:06:36,956 --> 00:06:39,696
+É o que essa imagem representa no inconsciente das pessoas.
+
+169
+00:06:41,532 --> 00:06:44,192
+Aí vai a trilha Signals para entender isso aqui,
+
+170
+00:06:44,272 --> 00:06:46,392
+mas eu vou abrir a porta ainda mais para vocês, tá?
+
+171
+00:06:46,752 --> 00:06:47,412
+Vamos lá, então.
+
+172
+00:06:47,512 --> 00:06:48,452
+Qual que é a lógica?
+
+173
+00:06:49,332 --> 00:06:50,052
+Fundamento científico.
+
+174
+00:06:50,252 --> 00:06:52,172
+Isso aqui tudo, quando entra assim, tá?
+
+175
+00:06:52,232 --> 00:06:55,072
+É porque é baseado em várias outras aulas que eu já dei dentro da plataforma.
+
+176
+00:06:55,512 --> 00:06:56,972
+A gente tem várias fontes também.
+
+177
+00:06:57,412 --> 00:06:58,972
+Eventualmente pode até surgir uma fonte aqui.
+
+178
+00:06:59,052 --> 00:06:59,452
+Vamos ver.
+
+179
+00:06:59,792 --> 00:07:02,632
+O sistema visual humano faz três operações rápidas
+
+180
+00:07:02,632 --> 00:07:04,632
+antes que tenha tempo de gostar.
+
+181
+00:07:04,932 --> 00:07:06,032
+Inclusive, isso é uma coisa legal.
+
+182
+00:07:06,192 --> 00:07:08,332
+Tem uma aula que eu dou aqui, que você pode assistir também,
+
+183
+00:07:08,732 --> 00:07:10,252
+que é em cores aqui, ó, Chrome.
+
+184
+00:07:10,252 --> 00:07:13,952
+Quando você vier aqui em Chrome, você vai aqui em cor no grau biológico.
+
+185
+00:07:14,072 --> 00:07:21,452
+Aqui em cor no grau biológico, tem um momento que eu explico como que a informação vai do nosso olho,
+
+186
+00:07:21,572 --> 00:07:26,492
+bate na retina, passa pelo quiasma óptico e vai até o centro do nosso cérebro.
+
+187
+00:07:26,652 --> 00:07:28,752
+Então eu passo aqui, deixa eu pegar aqui.
+
+188
+00:07:31,100 --> 00:07:31,720
+Deixa eu ver se é esse.
+
+189
+00:07:34,684 --> 00:07:38,644
+Aqui está na retina, então a gente tem os cones e os bastonetes, que são células.
+
+190
+00:07:38,844 --> 00:07:41,924
+Aí tem aqui como que a luz chega no olho, depois tem aqui.
+
+191
+00:07:43,516 --> 00:07:45,456
+Todo o caminho que a informação passa no nosso cérebro,
+
+192
+00:07:45,496 --> 00:07:47,576
+então tem retina, nervo óptico, quiasma óptico,
+
+193
+00:07:47,636 --> 00:07:49,916
+trato óptico, núcleo geniculado lateral,
+
+194
+00:07:50,956 --> 00:07:52,556
+aí tem aqui o colículo superior,
+
+195
+00:07:52,756 --> 00:07:55,436
+eu explico a informação, como que ela chega aqui.
+
+196
+00:07:55,536 --> 00:07:57,036
+E aí aqui tem uma coisa interessante, tá?
+
+197
+00:07:57,216 --> 00:07:58,256
+Deixa eu ver, tá no pause.
+
+198
+00:07:58,596 --> 00:08:00,276
+Que eu vou usar de referência aqui.
+
+199
+00:08:00,376 --> 00:08:01,036
+Opa, pera aí.
+
+200
+00:08:01,476 --> 00:08:02,956
+Vou usar de referência aqui com vocês.
+
+201
+00:08:03,716 --> 00:08:04,596
+Pega o seguinte, ó.
+
+202
+00:08:05,980 --> 00:08:10,320
+Aqui na parte de trás a gente tem o nosso lobo occipital do cérebro
+
+203
+00:08:10,320 --> 00:08:13,680
+e é aqui que a informação vai ser distribuída.
+
+204
+00:08:13,760 --> 00:08:15,900
+Então é como se a informação que vem para o nosso olho,
+
+205
+00:08:15,980 --> 00:08:18,040
+ela vem para cá para ser uma antena
+
+206
+00:08:18,040 --> 00:08:21,180
+e essa antena vai redistribuir essa informação para várias áreas do nosso cérebro.
+
+207
+00:08:21,440 --> 00:08:27,240
+Só que curiosamente, antes, antes da gente interpretar a imagem,
+
+208
+00:08:27,560 --> 00:08:30,220
+está vendo que tem alguns fiozinhos que vêm para esse meio aqui?
+
+209
+00:08:31,220 --> 00:08:33,120
+Esse meiozinho aqui, meu amigo,
+
+210
+00:08:33,660 --> 00:08:35,000
+é o que mexe com você
+
+211
+00:08:35,000 --> 00:08:36,540
+e você não tem nem controle às vezes
+
+212
+00:08:36,540 --> 00:08:39,280
+que é a parte do seu cérebro onde estão as suas emoções
+
+213
+00:08:39,280 --> 00:08:40,840
+suas reações inconscientes
+
+214
+00:08:40,840 --> 00:08:43,020
+e se você reparar então, o caminho
+
+215
+00:08:43,020 --> 00:08:45,260
+pra cá é mais curto do que o caminho
+
+216
+00:08:45,260 --> 00:08:47,160
+pra cá, até porque quando chega
+
+217
+00:08:47,160 --> 00:08:49,160
+aqui depois vai ser redistribuído pra várias áreas
+
+218
+00:08:49,160 --> 00:08:49,880
+do cérebro, quer ver?
+
+219
+00:08:52,220 --> 00:08:56,500
+Então, aqui a gente tem as áreas do cérebro, V1, V2, V3, V3A, V5,
+
+220
+00:08:56,580 --> 00:08:57,660
+e cada uma é uma coisa.
+
+221
+00:08:57,960 --> 00:09:00,540
+A área V1 é a organização, é a antena.
+
+222
+00:09:00,580 --> 00:09:03,360
+A V2, não, a área V1 é a organização.
+
+223
+00:09:03,360 --> 00:09:06,100
+Isso aqui é legal, que você pode usar até para organizar prompt de IA, tá?
+
+224
+00:09:06,440 --> 00:09:08,240
+Mas V1, organização da informação.
+
+225
+00:09:09,660 --> 00:09:10,460
+V2, retransmissão.
+
+226
+00:09:10,580 --> 00:09:14,900
+Então, essa segunda área aqui do lobo occipital,
+
+227
+00:09:14,940 --> 00:09:18,900
+ela é ativada para redistribuir a informação para várias outras áreas do cérebro.
+
+228
+00:09:18,900 --> 00:09:22,100
+Três, essa região aqui geralmente é mais ativada
+
+229
+00:09:22,100 --> 00:09:23,540
+quando a gente está interpretando formas.
+
+230
+00:09:23,980 --> 00:09:26,080
+E a V4 aqui, bem pequenininha,
+
+231
+00:09:26,120 --> 00:09:29,500
+é mais ativada quando a gente está interpretando cores.
+
+232
+00:09:30,080 --> 00:09:32,000
+A gente tem aqui a V3A,
+
+233
+00:09:32,080 --> 00:09:34,220
+que interpreta movimentos, que é mais ativada.
+
+234
+00:09:34,500 --> 00:09:37,080
+Isso aqui não é bloquinho que só ativa nessas áreas.
+
+235
+00:09:37,160 --> 00:09:39,480
+O nosso cérebro funciona várias coisas ao mesmo tempo.
+
+236
+00:09:39,680 --> 00:09:42,100
+Só que essas áreas são muito ativadas
+
+237
+00:09:42,100 --> 00:09:44,000
+quando nós estamos numa interpretação assim.
+
+238
+00:09:44,200 --> 00:09:45,580
+Aqui tem um pouco de movimento também.
+
+239
+00:09:45,780 --> 00:09:48,520
+Então, aqui o núcleo geniculado lateral também.
+
+240
+00:09:48,520 --> 00:09:50,060
+Enfim, eu explico isso aqui nessa aula.
+
+241
+00:09:50,420 --> 00:09:52,540
+Mas o que eu estou querendo trazer para vocês,
+
+242
+00:09:52,580 --> 00:09:53,480
+que é interessante disso,
+
+243
+00:09:53,640 --> 00:09:55,600
+sempre para trazer uma referência científica aqui,
+
+244
+00:09:56,380 --> 00:09:58,840
+é que antes de você interpretar uma imagem,
+
+245
+00:09:59,080 --> 00:10:01,340
+o seu inconsciente interpreta ela.
+
+246
+00:10:01,900 --> 00:10:04,860
+E você já sente algo antes de racionalizar.
+
+247
+00:10:05,160 --> 00:10:07,780
+Só para mostrar para vocês que tem fonte nisso.
+
+248
+00:10:08,240 --> 00:10:09,860
+Então, o que o nosso cérebro faz?
+
+249
+00:10:10,220 --> 00:10:11,780
+Antes de você interpretar,
+
+250
+00:10:11,780 --> 00:10:13,720
+ele detecta contraste e forma dominante.
+
+251
+00:10:13,740 --> 00:10:16,380
+Uma das coisas que eu ensino em geração de imagens
+
+252
+00:10:16,380 --> 00:10:18,800
+é você trabalhar muito bem contraste.
+
+253
+00:10:18,820 --> 00:10:20,420
+O contraste é muito importante
+
+254
+00:10:20,420 --> 00:10:22,160
+para uma imagem que é eficaz.
+
+255
+00:10:22,400 --> 00:10:23,780
+E formas dominantes.
+
+256
+00:10:23,820 --> 00:10:25,340
+Então, quando você vai trabalhar uma composição,
+
+257
+00:10:25,420 --> 00:10:27,460
+você tem o contraste que pode vir de cor,
+
+258
+00:10:27,540 --> 00:10:28,480
+pode vir de escala,
+
+259
+00:10:28,520 --> 00:10:29,860
+tem vários jeitos de trabalhar isso,
+
+260
+00:10:29,960 --> 00:10:33,120
+que aí vai outra aula fundamental,
+
+261
+00:10:33,380 --> 00:10:35,020
+que são as aulas de forma,
+
+262
+00:10:35,200 --> 00:10:37,140
+que eu não vou entrar exatamente nela aqui agora,
+
+263
+00:10:37,320 --> 00:10:39,580
+mas aqui em Gestalt a gente tem psicologia das formas,
+
+264
+00:10:40,040 --> 00:10:41,400
+e aí é que eu explico isso.
+
+265
+00:10:41,480 --> 00:10:44,080
+Como que as formas ativam o nosso cérebro
+
+266
+00:10:44,080 --> 00:10:44,820
+de maneiras diferentes.
+
+267
+00:10:44,820 --> 00:10:46,820
+A gente fala sobre gestalt aqui.
+
+268
+00:10:47,740 --> 00:10:51,120
+E aí dentro dessa lógica de gestalt, que eu vou explicando aqui também,
+
+269
+00:10:51,220 --> 00:10:53,800
+que aí é embasado cientificamente, é bem interessante,
+
+270
+00:10:54,520 --> 00:10:59,340
+você percebe que a maneira como o nosso cérebro percebe as informações,
+
+271
+00:11:00,300 --> 00:11:03,520
+primeiro é o borrão, depois do borrão e o movimento, né?
+
+272
+00:11:03,620 --> 00:11:07,080
+O borrão você vê o contraste, você tem as formas dominantes,
+
+273
+00:11:07,740 --> 00:11:10,760
+depois das formas dominantes, aí tem a relação espacial,
+
+274
+00:11:10,900 --> 00:11:13,140
+qual forma é mais importante do que as outras,
+
+275
+00:11:13,140 --> 00:11:14,920
+qual que é a hierarquia que você constrói ali,
+
+276
+00:11:15,020 --> 00:11:17,080
+qual que vai ser o seu fluxo de informação,
+
+277
+00:11:17,340 --> 00:11:19,260
+que isso vem de uma lógica também
+
+278
+00:11:20,120 --> 00:11:21,280
+de... que são
+
+279
+00:11:21,280 --> 00:11:23,520
+quatro fatores, isso inclusive é uma metodologia
+
+280
+00:11:23,520 --> 00:11:25,100
+minha, que eu desenvolvi
+
+281
+00:11:25,100 --> 00:11:27,320
+ali quando eu tinha uns 24 anos,
+
+282
+00:11:27,460 --> 00:11:29,300
+então foi há quatro anos
+
+283
+00:11:29,300 --> 00:11:31,060
+atrás, cinco anos atrás.
+
+284
+00:11:31,380 --> 00:11:33,180
+Há cinco anos atrás eu desenvolvi
+
+285
+00:11:34,396 --> 00:11:40,596
+essa metodologia e essa teoria aqui dos quatro fundamentos da percepção visual.
+
+286
+00:11:40,936 --> 00:11:46,276
+E esses quatro fundamentos aqui, eles são importantes para você conduzir a percepção das pessoas.
+
+287
+00:11:46,416 --> 00:11:50,336
+Basicamente, eu peguei todos aqueles fundamentos que a galera fala,
+
+288
+00:11:50,436 --> 00:11:54,636
+design visual tem vários fundamentos, alinhamento, agrupamento, tudo isso vem da Gestalt ali,
+
+289
+00:11:54,696 --> 00:11:57,116
+eu simplifiquei isso e eu trabalho isso aqui com a IA.
+
+290
+00:11:57,196 --> 00:12:00,016
+Olha como que o repertório é o que vai fazer a diferença no uso da IA.
+
+291
+00:12:00,336 --> 00:12:01,536
+Então, vamos dar uma olhada aqui.
+
+292
+00:12:02,776 --> 00:12:05,876
+Nesses quatro fundamentos, tem uma hora que eu mostro aqui a molécula,
+
+293
+00:12:05,876 --> 00:12:07,736
+eu chamei isso aqui de molécula do design visual.
+
+294
+00:12:08,556 --> 00:12:09,996
+Deixa eu ver se ela carrega aqui para a gente.
+
+295
+00:12:13,692 --> 00:12:14,932
+Inclusive eu tava mais cabeludo aqui.
+
+296
+00:12:16,668 --> 00:12:17,108
+Tchau, tchau.
+
+297
+00:12:18,460 --> 00:12:21,920
+Legal, eu estou querendo pegar bem na hora da imagem aqui.
+
+298
+00:12:22,140 --> 00:12:28,540
+Então nós temos formas e cores, formam composições que guiam para uma mensagem.
+
+299
+00:12:28,740 --> 00:12:30,760
+Então essas são as quatro moléculas aqui.
+
+300
+00:12:30,960 --> 00:12:35,420
+E dessas quatro moléculas, desses quatro fundamentos,
+
+301
+00:12:35,420 --> 00:12:39,740
+eu dividi isso aqui nos quatro graus de influência da percepção,
+
+302
+00:12:39,740 --> 00:12:42,020
+que está nesse mesmo aqui, a idea.
+
+303
+00:12:42,420 --> 00:12:43,580
+Deixa eu ver se está...
+
+304
+00:12:44,140 --> 00:12:46,280
+Na verdade vai estar em gestalt aqui.
+
+305
+00:12:47,964 --> 00:12:49,984
+que eu coloco os quatro graus de influência da percepção,
+
+306
+00:12:49,984 --> 00:12:52,424
+que é o grau fisiológico, que é o mais...
+
+307
+00:12:53,264 --> 00:12:54,064
+o mais...
+
+308
+00:12:55,836 --> 00:12:58,076
+universal, ele vai funcionar
+
+309
+00:12:58,076 --> 00:12:59,936
+com a maioria das
+
+310
+00:12:59,936 --> 00:13:01,516
+pessoas, porque se é fisiológico, é como
+
+311
+00:13:01,516 --> 00:13:02,956
+o corpo humano
+
+312
+00:13:03,696 --> 00:13:05,276
+funciona, tá? Deixa eu ver aqui,
+
+313
+00:13:05,756 --> 00:13:07,756
+que eu tenho que lembrar qual é a aula certa
+
+314
+00:13:07,756 --> 00:13:09,956
+que eu mostro os quatro graus
+
+315
+00:13:09,956 --> 00:13:11,916
+de influência. Acho que não é nessa
+
+316
+00:13:11,916 --> 00:13:12,816
+da Gestalt também.
+
+317
+00:13:17,020 --> 00:13:18,800
+Eu acho que eu mostro isso aqui lá no Sinos também.
+
+318
+00:13:19,920 --> 00:13:22,360
+Tentando pegar a aula certa pra vocês verem essa dinâmica.
+
+319
+00:13:22,360 --> 00:13:24,880
+Isso aqui vai mostrar pra vocês o que forma uma boa imagem,
+
+320
+00:13:25,180 --> 00:13:26,600
+como conduzir a percepção das pessoas.
+
+321
+00:13:26,660 --> 00:13:28,780
+Por isso que é importante prestar atenção na aula aí, hein?
+
+322
+00:13:29,440 --> 00:13:30,800
+Aqui, ó. Aqui eu já falo deles.
+
+323
+00:13:31,140 --> 00:13:32,940
+Tá até aqui a piramidezinha já mostrando.
+
+324
+00:13:34,236 --> 00:13:38,456
+Então nós temos aqui os quatro graus de influência da percepção.
+
+325
+00:13:39,676 --> 00:13:41,676
+Nós temos o grau fisiológico, que é o mais universal,
+
+326
+00:13:41,776 --> 00:13:43,796
+a maioria das pessoas tem uma fisiologia parecida,
+
+327
+00:13:43,796 --> 00:13:45,956
+só que tem pessoas que tem diferente, tem pessoas que tem daltonismo,
+
+328
+00:13:46,056 --> 00:13:47,996
+tem pessoas que são cegas,
+
+329
+00:13:48,056 --> 00:13:50,056
+e aí a percepção fisiológica delas é diferente,
+
+330
+00:13:50,216 --> 00:13:51,696
+outros sentidos vão ser mais aguçados.
+
+331
+00:13:51,976 --> 00:13:54,036
+Depois do grau fisiológico,
+
+332
+00:13:54,036 --> 00:13:54,856
+a gente entra o grau cultural.
+
+333
+00:13:55,036 --> 00:13:57,476
+A cultura influencia muito também a percepção das pessoas.
+
+334
+00:13:57,796 --> 00:13:59,136
+E foi por conta...
+
+335
+00:13:59,956 --> 00:14:00,836
+Já até pulei.
+
+336
+00:14:01,116 --> 00:14:03,996
+Tem o grau ambiental, que aí é como o seu ambiente,
+
+337
+00:14:04,296 --> 00:14:05,916
+não é cultural, tá? É ambiental,
+
+338
+00:14:05,956 --> 00:14:07,596
+como que o seu ambiente interfere
+
+339
+00:14:07,596 --> 00:14:09,396
+fere sua percepção. Por exemplo, por que
+
+340
+00:14:09,396 --> 00:14:10,536
+que azul é a cor
+
+341
+00:14:13,016 --> 00:14:13,716
+favorita do mundo?
+
+342
+00:14:13,896 --> 00:14:15,456
+Tem mais pessoas que gostam de azul
+
+343
+00:14:15,456 --> 00:14:17,696
+no mundo. Porque é a cor mais presente
+
+344
+00:14:17,696 --> 00:14:19,576
+no céu e no mar, e a gente vê
+
+345
+00:14:19,576 --> 00:14:21,036
+ela todos os dias, praticamente.
+
+346
+00:14:21,656 --> 00:14:23,256
+Então, isso cria familiaridade.
+
+347
+00:14:23,436 --> 00:14:25,576
+Por isso que, de todas as cores favoritas, a azul
+
+348
+00:14:25,576 --> 00:14:27,616
+é a cor predileta da maioria das pessoas.
+
+349
+00:14:28,096 --> 00:14:29,576
+Acho que dá 40%
+
+350
+00:14:29,576 --> 00:14:31,696
+das pessoas, ou 35% das pessoas
+
+351
+00:14:31,696 --> 00:14:33,016
+têm azul como sua cor favorita.
+
+352
+00:14:33,336 --> 00:14:35,656
+Então, é a cor mais
+
+353
+00:14:35,656 --> 00:14:37,616
+a cor mais
+
+354
+00:14:39,452 --> 00:14:40,552
+Que as pessoas mais gostam, né?
+
+355
+00:14:40,572 --> 00:14:42,072
+Não tô conseguindo encontrar a palavra aqui, enfim.
+
+356
+00:14:42,692 --> 00:14:44,132
+Então, é o ambiente que influenciou.
+
+357
+00:14:44,212 --> 00:14:46,492
+Ou então, quando você sente nojo de algo que é verde,
+
+358
+00:14:46,532 --> 00:14:48,932
+porque o verde é associado a veneno, a pântano, coisas do tipo.
+
+359
+00:14:49,912 --> 00:14:53,572
+Tem aqui nas aulas de cores, eu falo muito disso também.
+
+360
+00:14:54,032 --> 00:14:56,652
+Mas aí tem o grau ali, que é o ambiental,
+
+361
+00:14:56,672 --> 00:14:58,252
+e tem o grau cultural.
+
+362
+00:14:58,732 --> 00:15:01,392
+E aí o grau cultural, por exemplo, é o que nos faz ter uma orientação
+
+363
+00:15:01,392 --> 00:15:02,372
+da esquerda pra direita.
+
+364
+00:15:02,372 --> 00:15:05,012
+Lá no oriente, é da direita pra esquerda em muitos lugares.
+
+365
+00:15:05,832 --> 00:15:07,272
+Então, são alguns pontos aí.
+
+366
+00:15:07,272 --> 00:15:09,372
+Estou querendo trazer aqui a linguagem das cores.
+
+367
+00:15:09,752 --> 00:15:11,332
+Tem alguns cases aqui.
+
+368
+00:15:14,236 --> 00:15:15,316
+Deixa eu ver se eu pego.
+
+369
+00:15:15,896 --> 00:15:17,836
+Aqui são as funções das cores, né?
+
+370
+00:15:17,916 --> 00:15:21,876
+Mas o ambiente, a natureza, já cria uma percepção em nós
+
+371
+00:15:21,876 --> 00:15:23,936
+de às vezes achar uma cor muito quente,
+
+372
+00:15:23,936 --> 00:15:26,076
+achar uma cor muito perigosa, por exemplo.
+
+373
+00:15:26,076 --> 00:15:27,816
+Por que o vermelho é uma cor perigosa?
+
+374
+00:15:27,936 --> 00:15:31,436
+O azul é uma cor calma, o amarelo é uma cor quente,
+
+375
+00:15:31,456 --> 00:15:34,276
+o verde é uma cor que, ao mesmo tempo que passa saúde,
+
+376
+00:15:34,376 --> 00:15:35,616
+também passa a ideia de veneno.
+
+377
+00:15:35,656 --> 00:15:37,916
+É por conta da nossa exposição no planeta Terra.
+
+378
+00:15:38,276 --> 00:15:39,896
+Então são os quatro graus de influência.
+
+379
+00:15:40,396 --> 00:15:40,796
+Beleza?
+
+380
+00:15:40,976 --> 00:15:42,676
+Então hierarquia, fluxo de leitura.
+
+381
+00:15:42,676 --> 00:15:46,096
+e avalia coerência e previsibilidade contextual.
+
+382
+00:15:46,336 --> 00:15:48,356
+Faz sentido ou não faz dentro do meu contexto.
+
+383
+00:15:48,616 --> 00:15:50,396
+Então na hora que você vai gerar uma imagem,
+
+384
+00:15:50,536 --> 00:15:53,336
+o seu cérebro, na hora que alguém vai ver uma imagem,
+
+385
+00:15:53,336 --> 00:15:55,116
+o seu cérebro, o meu cérebro, de todo mundo,
+
+386
+00:15:55,196 --> 00:15:56,396
+passa por isso aqui às vezes.
+
+387
+00:15:56,836 --> 00:15:59,236
+Sem que você tenha consciência disso.
+
+388
+00:16:00,096 --> 00:16:02,356
+Então ele interpreta, ele analisa,
+
+389
+00:16:02,396 --> 00:16:03,576
+e aí você sente algo.
+
+390
+00:16:03,896 --> 00:16:06,536
+E muitas vezes o que você sente é diferente da sua razão.
+
+391
+00:16:06,536 --> 00:16:08,076
+Então às vezes você fala, eu devia estar sentindo algo diferente,
+
+392
+00:16:08,196 --> 00:16:09,116
+mas não estou. Por quê?
+
+393
+00:16:10,136 --> 00:16:11,596
+Inconscientemente, aquilo já te afetou.
+
+394
+00:16:12,336 --> 00:16:12,876
+Loucura, né?
+
+395
+00:16:13,456 --> 00:16:15,196
+Então, os elementos de uma boa imagem
+
+396
+00:16:16,476 --> 00:16:18,856
+são elementos de percepção.
+
+397
+00:16:18,916 --> 00:16:20,876
+E são muito mais sobre o cérebro humano.
+
+398
+00:16:21,436 --> 00:16:23,956
+Se em algum momento você precisar gerar uma imagem
+
+399
+00:16:23,956 --> 00:16:25,736
+pra um extraterrestre
+
+400
+00:16:25,736 --> 00:16:28,036
+que compreende o universo de uma maneira diferente,
+
+401
+00:16:28,276 --> 00:16:29,696
+as imagens que funcionam pra gente
+
+402
+00:16:29,696 --> 00:16:31,516
+podem não fazer sentido nenhum pra eles.
+
+403
+00:16:31,716 --> 00:16:32,856
+Vou te dar um outro exemplo.
+
+404
+00:16:32,916 --> 00:16:35,256
+Se você imprime num papel A4
+
+405
+00:16:35,696 --> 00:16:37,976
+alguma coisa e mostra pra um cachorro,
+
+406
+00:16:38,096 --> 00:16:40,436
+assim, sei lá, imprime um cachimbo e mostra pra um cachorro.
+
+407
+00:16:40,436 --> 00:16:43,116
+ele não tá nem aí, ele nem sabe o que esse cachimbo é,
+
+408
+00:16:43,196 --> 00:16:45,316
+ele vai querer pegar o papel, morder e rasgar o papel,
+
+409
+00:16:45,436 --> 00:16:46,656
+ou ele não vai nem ligar.
+
+410
+00:16:47,016 --> 00:16:52,396
+Por quê? Porque a Unwelt, que aí é um termo do Jacob Wexkul,
+
+411
+00:16:53,416 --> 00:16:57,056
+que isso é um pouco mais avançado, mas eu sempre gosto de trazer esses termos,
+
+412
+00:16:57,056 --> 00:16:59,076
+porque vocês podem soltar isso na IA depois de estudar.
+
+413
+00:16:59,356 --> 00:17:02,776
+Unwelt é o universo de percepção dos animais.
+
+414
+00:17:03,336 --> 00:17:05,736
+Então teve um cara que estudou como os animais percebem o mundo,
+
+415
+00:17:05,816 --> 00:17:08,216
+que é diferente dos seres humanos, é a semiótica dos animais.
+
+416
+00:17:08,216 --> 00:17:10,096
+e ele definiu isso dentro de um papel
+
+417
+00:17:10,096 --> 00:17:11,276
+dentro de uma anvelte
+
+418
+00:17:11,276 --> 00:17:13,856
+e aí é alemão, mas é bem legal
+
+419
+00:17:13,856 --> 00:17:16,056
+então a anvelte dos cachorros
+
+420
+00:17:16,056 --> 00:17:18,356
+é diferente da humana, tem vários fatores
+
+421
+00:17:18,356 --> 00:17:19,236
+bem interessantes
+
+422
+00:17:20,508 --> 00:17:25,888
+Aí entram aqui os elementos que vão te ajudar a navegar nessa lógica.
+
+423
+00:17:26,188 --> 00:17:26,988
+Quais são eles?
+
+424
+00:17:27,828 --> 00:17:28,908
+Composição e hierarquia.
+
+425
+00:17:29,888 --> 00:17:30,888
+Definir um ponto focal.
+
+426
+00:17:32,008 --> 00:17:34,128
+Definir um espaço negativo para respiro.
+
+427
+00:17:34,848 --> 00:17:36,488
+Definir o fluxo de leitura da imagem.
+
+428
+00:17:36,528 --> 00:17:38,928
+Se vai ser padrão Z, padrão triângulo, padrão diagonal.
+
+429
+00:17:39,188 --> 00:17:40,648
+Juan, como é que eu aprendo mais essas coisas?
+
+430
+00:17:41,548 --> 00:17:43,588
+Cara, por isso que eu gosto da Overlens.
+
+431
+00:17:43,648 --> 00:17:45,328
+Porque aqui a gente vai no nível fundamental.
+
+432
+00:17:45,768 --> 00:17:47,728
+Eu não estou aqui para te ensinar a clicar num botão.
+
+433
+00:17:47,728 --> 00:17:48,948
+porque vocês viram que
+
+434
+00:17:49,408 --> 00:17:51,368
+clicar no botão é a parte ridícula dessa
+
+435
+00:17:51,368 --> 00:17:53,348
+história, né? Mas vamos lá, deixa eu fechar
+
+436
+00:17:53,348 --> 00:17:54,288
+esse BH aqui também.
+
+437
+00:17:56,208 --> 00:17:57,588
+Trazendo aqui pro fundamento,
+
+438
+00:17:57,588 --> 00:17:58,948
+se a gente vem aqui,
+
+439
+00:17:59,708 --> 00:18:01,008
+deixa eu me lembrar onde que tá.
+
+440
+00:18:02,908 --> 00:18:04,508
+pra trazer pra vocês, dentro de
+
+441
+00:18:05,528 --> 00:18:06,928
+Gestalt, vocês podem vir aqui
+
+442
+00:18:06,928 --> 00:18:08,708
+tem tanto geometria das formas
+
+443
+00:18:08,708 --> 00:18:10,928
+geometria descritiva, mas
+
+444
+00:18:10,928 --> 00:18:12,488
+se você vir aqui em Layout
+
+445
+00:18:12,488 --> 00:18:14,868
+você tem aqui, ó, aulas de grid, então tem
+
+446
+00:18:14,868 --> 00:18:16,988
+grid aplicado na prática e grids avançados
+
+447
+00:18:16,988 --> 00:18:18,828
+e como que esses grids conduzem
+
+448
+00:18:18,828 --> 00:18:20,508
+o olhar das pessoas
+
+449
+00:18:20,508 --> 00:18:22,928
+aqui eu tava mais novinho ainda, ó, isso aqui eu tinha
+
+450
+00:18:22,928 --> 00:18:23,848
+o que, 23 anos?
+
+451
+00:18:25,276 --> 00:18:27,956
+Deve ter uns cinco anos isso aqui.
+
+452
+00:18:28,656 --> 00:18:29,456
+Cinco, seis anos.
+
+453
+00:18:31,116 --> 00:18:35,636
+Mas aqui eu mostro, inclusive, como que fotógrafos estruturam uma composição
+
+454
+00:18:35,636 --> 00:18:37,236
+para guiar o olhar das pessoas.
+
+455
+00:18:37,676 --> 00:18:40,116
+É bem interessante, bem avançado até.
+
+456
+00:18:40,256 --> 00:18:43,096
+Mas vai ensinar para vocês a criarem imagens mais interessantes
+
+457
+00:18:43,096 --> 00:18:44,856
+que guiam o olhar das pessoas.
+
+458
+00:18:45,076 --> 00:18:45,896
+E sabe o que é mais legal?
+
+459
+00:18:46,016 --> 00:18:49,836
+Se você desenha um grid para IA, ela gera no seu grid.
+
+460
+00:18:50,116 --> 00:18:51,136
+Ah, Juan, é possível.
+
+461
+00:18:51,496 --> 00:18:53,036
+Vamos pegar aqui esse exemplo.
+
+462
+00:18:53,536 --> 00:18:54,676
+E eu vou fazer o seguinte.
+
+463
+00:18:55,356 --> 00:18:56,756
+só para uma brincadeirinha, tá?
+
+464
+00:18:56,936 --> 00:18:58,476
+Mas a gente vai avançar nisso depois.
+
+465
+00:18:58,696 --> 00:19:00,296
+Eu vou abrir aqui o Figma para a gente.
+
+466
+00:19:00,896 --> 00:19:02,236
+Vou botar aqui o Figma.
+
+467
+00:19:03,136 --> 00:19:05,496
+Vou puxar ele para cá, a gente já falou disso aqui ali.
+
+468
+00:19:05,836 --> 00:19:08,656
+E eu vou fazer um desenho por cima dessa imagem aqui,
+
+469
+00:19:09,496 --> 00:19:13,876
+só para representar aqui a ideia do que eu quero construir, né?
+
+470
+00:19:13,936 --> 00:19:17,236
+Então, se eu fosse montar essa composição assim,
+
+471
+00:19:17,336 --> 00:19:19,616
+eu poderia fazer algumas coisas assim.
+
+472
+00:19:22,076 --> 00:19:22,376
+E beleza.
+
+473
+00:19:22,836 --> 00:19:24,576
+Aí eu tenho aqui a minha imagem.
+
+474
+00:19:25,256 --> 00:19:27,116
+Posso tentar reproduzir?
+
+475
+00:19:28,412 --> 00:19:31,992
+partes diferentes da imagem aqui para ir a compreender.
+
+476
+00:19:33,500 --> 00:19:35,080
+Isso aqui é uma névoa.
+
+477
+00:19:36,540 --> 00:19:37,720
+E laranja é a ponte.
+
+478
+00:19:41,276 --> 00:19:42,796
+Uma ponte aqui laranja.
+
+479
+00:19:43,996 --> 00:19:49,236
+E aí, vou colocar umas coisinhas assim, só para ele ter um pouquinho de perspectiva aqui também.
+
+480
+00:19:49,516 --> 00:19:52,156
+Aí eu vou printar isso aqui, bem no jeito roots mesmo.
+
+481
+00:19:52,496 --> 00:19:56,416
+Vou jogar lá no Gemini, só por uma experimentação aqui com vocês.
+
+482
+00:19:56,956 --> 00:19:58,136
+E vou falar assim, ó.
+
+483
+00:19:58,776 --> 00:20:00,996
+Gere uma fotografia.
+
+484
+00:20:02,428 --> 00:20:07,648
+de uma ponte em um dia nevoado.
+
+485
+00:20:09,244 --> 00:20:10,404
+Muita névoa.
+
+486
+00:20:12,252 --> 00:20:15,972
+Fiz um desenho para representar a ideia.
+
+487
+00:20:16,192 --> 00:20:17,412
+O azul...
+
+488
+00:20:18,940 --> 00:20:21,820
+A névoa que tampa o rio.
+
+489
+00:20:23,036 --> 00:20:25,576
+A ponte está laranja.
+
+490
+00:20:25,776 --> 00:20:27,756
+Vamos ver, ele não vai gerar aquela imagem, obviamente,
+
+491
+00:20:27,796 --> 00:20:29,816
+porque eu não vou dar tantos detalhes aqui.
+
+492
+00:20:29,896 --> 00:20:33,216
+Se eu quisesse mais detalhes, eu poderia trazer isso para ele aqui,
+
+493
+00:20:33,356 --> 00:20:35,096
+mas eu vou pedir ele para gerar.
+
+494
+00:20:35,316 --> 00:20:38,136
+Aqui eu estou montando um tipo de composição.
+
+495
+00:20:38,216 --> 00:20:41,536
+E você pode, inclusive, jogar duas imagens para ele.
+
+496
+00:20:41,576 --> 00:20:45,016
+Em uma imagem ele vê a composição, na outra imagem ele vê a referência
+
+497
+00:20:45,016 --> 00:20:46,956
+e ele junta as duas e faz o que você quer.
+
+498
+00:20:46,996 --> 00:20:48,216
+A gente vai avançar nisso também.
+
+499
+00:20:48,556 --> 00:20:49,536
+Vamos na paz aqui.
+
+500
+00:20:49,756 --> 00:20:52,556
+Então, deixa ele gerando aqui para a gente.
+
+501
+00:20:52,556 --> 00:20:54,556
+enquanto isso eu vou falar dos outros elementos. Já volto pra ali,
+
+502
+00:20:54,616 --> 00:20:56,356
+prometo. Luz e atmosfera,
+
+503
+00:20:56,536 --> 00:20:58,296
+eu não defini luz e atmosfera aqui,
+
+504
+00:20:58,396 --> 00:21:00,556
+eu foquei mais em composição mesmo,
+
+505
+00:21:00,696 --> 00:21:02,536
+mas a gente poderia ter adicionado
+
+506
+00:21:02,536 --> 00:21:04,336
+aqui vários fatores, eu vou mostrar um prompt
+
+507
+00:21:04,336 --> 00:21:06,856
+inteiro disso pra vocês. Então, luz e atmosfera,
+
+508
+00:21:07,036 --> 00:21:08,436
+cor e contraste,
+
+509
+00:21:08,436 --> 00:21:10,556
+enquadramento e perspectiva, textura e
+
+510
+00:21:10,556 --> 00:21:12,416
+material, legibilidade e simplicidade,
+
+511
+00:21:13,056 --> 00:21:14,136
+consistência e identidade,
+
+512
+00:21:14,276 --> 00:21:16,456
+contexto e responsabilidade, tudo isso aqui
+
+513
+00:21:16,456 --> 00:21:18,296
+são elementos de uma boa imagem, porque
+
+514
+00:21:18,296 --> 00:21:19,856
+uma boa imagem é contextual,
+
+515
+00:21:20,136 --> 00:21:22,016
+ela é boa dentro do contexto
+
+516
+00:21:22,656 --> 00:21:23,616
+dela, tá?
+
+517
+00:21:23,856 --> 00:21:25,836
+E o legal é que, aqui eu vou mostrar
+
+518
+00:21:25,836 --> 00:21:27,776
+na prática pra vocês a gente usando isso, mas se
+
+519
+00:21:27,776 --> 00:21:29,816
+você quiser se aprofundar no fundamento,
+
+520
+00:21:29,816 --> 00:21:31,816
+que é ali que você vai se diferenciar
+
+521
+00:21:31,816 --> 00:21:33,776
+da maioria das pessoas, nós
+
+522
+00:21:33,776 --> 00:21:35,856
+temos aula de cor, e são bem
+
+523
+00:21:35,856 --> 00:21:37,316
+profundas, vocês viram ali alguns,
+
+524
+00:21:38,436 --> 00:21:39,756
+algumas ideias disso, né?
+
+525
+00:21:39,836 --> 00:21:41,916
+Então temos as trilhas de cores aqui, tem as
+
+526
+00:21:41,916 --> 00:21:43,816
+trilhas de formas também, e vocês
+
+527
+00:21:43,816 --> 00:21:45,676
+podem acessar e assistir,
+
+528
+00:21:45,996 --> 00:21:46,176
+beleza?
+
+529
+00:21:47,772 --> 00:21:50,572
+Enquadramento em perspectiva, a gente tem a trilha Layouts que fala disso,
+
+530
+00:21:50,692 --> 00:21:53,172
+mas tudo isso aqui eu vou mostrar prontos para vocês nesse curso.
+
+531
+00:21:53,352 --> 00:21:56,572
+Então fica suave também, eu só estou te dando esses outros cursos,
+
+532
+00:21:56,572 --> 00:22:00,752
+porque aí você pode ir aprofundando seus estudos quando você julgar necessário.
+
+533
+00:22:01,032 --> 00:22:05,252
+Textura e material, isso aqui é muito legal também de adicionar,
+
+534
+00:22:05,272 --> 00:22:07,072
+às vezes uma textura de pele muda uma imagem,
+
+535
+00:22:07,232 --> 00:22:08,972
+às vezes uma textura de cabelo muda uma imagem,
+
+536
+00:22:09,692 --> 00:22:11,252
+então tem que levar isso em consideração.
+
+537
+00:22:11,332 --> 00:22:15,272
+Às vezes descrever o material de uma peça de roupa muda completamente a imagem também,
+
+538
+00:22:15,432 --> 00:22:16,912
+então é legal levar isso em consideração.
+
+539
+00:22:18,192 --> 00:22:20,152
+microcontrastes. Legibilidade e simplicidade.
+
+540
+00:22:20,452 --> 00:22:22,012
+Isso também é importante. Muitas
+
+541
+00:22:22,012 --> 00:22:23,752
+vezes trazer isso aqui pra um prompt
+
+542
+00:22:23,752 --> 00:22:25,732
+já facilita muito o processo, tá?
+
+543
+00:22:25,852 --> 00:22:27,692
+Eu já vou mostrar pra vocês um conjunto
+
+544
+00:22:27,692 --> 00:22:29,812
+de imagens que nós geramos aqui. Talvez eu até
+
+545
+00:22:29,812 --> 00:22:31,552
+coloque esse vídeo como primeiro na
+
+546
+00:22:31,552 --> 00:22:33,972
+na ordem aqui, né? Eu vou gravar
+
+547
+00:22:33,972 --> 00:22:35,992
+ele depois, mas talvez eu coloque ele primeiro na ordem
+
+548
+00:22:35,992 --> 00:22:37,852
+de aulas na gravação, porque
+
+549
+00:22:39,172 --> 00:22:40,172
+talvez isso é melhor
+
+550
+00:22:40,172 --> 00:22:41,852
+pro Etos, né? Pra vocês confiarem
+
+551
+00:22:41,852 --> 00:22:43,772
+no que eu estou falando. Eu vou mostrar pra vocês os tipos de
+
+552
+00:22:43,772 --> 00:22:45,952
+imagem que a gente gera aqui. Mas eu já trago
+
+553
+00:22:45,952 --> 00:22:46,792
+Trago isso pra vocês também.
+
+554
+00:22:47,812 --> 00:22:49,572
+Então, vamos ver aqui, rapidinho?
+
+555
+00:22:49,652 --> 00:22:50,112
+Olha aí, ó.
+
+556
+00:22:51,592 --> 00:22:52,092
+Funcionou, né?
+
+557
+00:22:52,152 --> 00:22:55,912
+A composição, ele fez a composição do jeito que eu queria que ele fizesse a composição.
+
+558
+00:22:56,012 --> 00:22:56,452
+Concorda comigo?
+
+559
+00:22:56,712 --> 00:22:57,652
+Eu direcionei ele.
+
+560
+00:22:58,172 --> 00:23:00,452
+Ah, poderia ter deixado mais interessante, feito outras coisas?
+
+561
+00:23:00,552 --> 00:23:05,032
+É claro que eu poderia, mas olha o controle que eu tenho na imagem de um jeito muito simples.
+
+562
+00:23:05,972 --> 00:23:07,272
+É ridiculamente simples, não é?
+
+563
+00:23:07,432 --> 00:23:08,112
+Só simples.
+
+564
+00:23:08,212 --> 00:23:13,652
+É ridiculamente simples o que a gente tá fazendo aqui em questão de clicar em botões.
+
+565
+00:23:13,952 --> 00:23:15,232
+Agora, onde tá o diferencial?
+
+566
+00:23:15,232 --> 00:23:16,672
+o repertório. É saber
+
+567
+00:23:17,392 --> 00:23:18,832
+direcionar isso e montar a composição
+
+568
+00:23:18,832 --> 00:23:20,992
+do jeito certo. Isso aqui vai impactar
+
+569
+00:23:20,992 --> 00:23:23,072
+muito, inclusive, na hora de gerar
+
+570
+00:23:23,072 --> 00:23:25,032
+uma composição pra vídeo também. Você quer fazer
+
+571
+00:23:25,032 --> 00:23:27,152
+um filme, quer fazer uma animação e coisas do tipo,
+
+572
+00:23:27,272 --> 00:23:29,072
+tá? Então, leve isso em
+
+573
+00:23:29,072 --> 00:23:31,032
+consideração. Bom, esses são os
+
+574
+00:23:31,032 --> 00:23:32,652
+elementos principais. Aqui tem uma
+
+575
+00:23:32,652 --> 00:23:34,772
+ação, né, que é a conclusão.
+
+576
+00:23:34,792 --> 00:23:37,012
+A gente tá reagindo ao roteiro que a
+
+577
+00:23:37,012 --> 00:23:38,832
+minha equipe fez aqui. Quando você
+
+578
+00:23:38,832 --> 00:23:41,052
+entende como uma imagem opera no cérebro,
+
+579
+00:23:41,112 --> 00:23:42,932
+cada decisão deixa de ser tentativa
+
+580
+00:23:42,932 --> 00:23:44,992
+e passa a ser construção. Então, esse é
+
+581
+00:23:44,992 --> 00:23:46,912
+é o primeiro passo aqui. Você tem mais
+
+582
+00:23:46,912 --> 00:23:48,872
+controle da cena. Vocês viram isso acontecer
+
+583
+00:23:48,872 --> 00:23:50,812
+aqui agora na frente de vocês e eu mexi
+
+584
+00:23:50,812 --> 00:23:52,952
+em um elemento. Ao longo das outras
+
+585
+00:23:52,952 --> 00:23:54,912
+áreas a gente vai mexer nos outros. Vocês vão ver que dá
+
+586
+00:23:54,912 --> 00:23:56,532
+pra mergulhar muito em cada um.
+
+587
+00:23:56,632 --> 00:23:58,892
+Eu peguei um elementinho aqui pra gente
+
+588
+00:23:58,892 --> 00:24:00,932
+discutir. Beleza? Então levem
+
+589
+00:24:00,932 --> 00:24:03,292
+isso em consideração. Nós vamos explorar
+
+590
+00:24:03,292 --> 00:24:04,792
+cada um desses detalhes
+
+591
+00:24:04,792 --> 00:24:06,872
+nas próximas aulas. Isso aqui foi apenas pra
+
+592
+00:24:06,872 --> 00:24:08,792
+expandir pra você nessa aula
+
+593
+00:24:08,792 --> 00:24:10,892
+também. Beleza? Então
+
+594
+00:24:10,892 --> 00:24:12,932
+leve isso em consideração. O que
+
+595
+00:24:12,932 --> 00:24:14,852
+conta como uma boa imagem? A imagem
+
+596
+00:24:14,852 --> 00:24:16,932
+que cumpre o papel dela dentro de um contexto
+
+597
+00:24:16,932 --> 00:24:19,012
+e são muito mais fatores invisíveis
+
+598
+00:24:19,012 --> 00:24:20,872
+que vêm do seu repertório
+
+599
+00:24:20,872 --> 00:24:22,212
+para saber construir isso,
+
+600
+00:24:22,792 --> 00:24:25,232
+mais do que saber clicar em botões ali dentro.
+

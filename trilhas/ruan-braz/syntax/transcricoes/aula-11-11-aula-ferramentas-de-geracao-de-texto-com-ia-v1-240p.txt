@@ -1,0 +1,546 @@
+# Video: 11._aula_-_ferramentas_de_geração_de_texto_com_ia_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 13:17
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:02 --> 00:00:05:23] Se prepare porque agora vem uma lista boa de ferramentas de geração de texto para você.
+[00:00:05:26 --> 00:00:10:21] Eu não vou passar todas as ferramentas que existem nessa aula, por motivos óbvios,
+[00:00:10:23 --> 00:00:14:27] mas nós vamos deixar uma lista mais extensa aqui na descrição para você
+[00:00:14:27 --> 00:00:18:29] de várias ferramentas que a nossa equipe já validou e você pode testar também.
+[00:00:19:02 --> 00:00:21:13] Ferramentas gratuitas, ferramentas pagas.
+[00:00:21:14 --> 00:00:25:16] O objetivo dessa aula aqui agora é só apresentar a ferramenta para você.
+[00:00:25:17 --> 00:00:28:16] Eu ainda não vou abrir ela e sair clicando em todas elas aqui.
+[00:00:28:16 --> 00:00:33:11] A ideia não é trazer o processo aqui ainda, mas te apresentar, fazer com que você conheça.
+[00:00:33:13 --> 00:00:39:08] Porque às vezes você está entrando aqui agora, conhece só o ChatGPT, não sabe o universo de possibilidades que tem na sua frente.
+[00:00:39:10 --> 00:00:42:02] Então a gente vai passar por isso aqui juntos agora.
+[00:00:42:10 --> 00:00:48:09] Já começando de cara com o que você provavelmente conhece, tem versão gratuita, tem versão paga também, ChatGPT.
+[00:00:48:14 --> 00:00:56:19] Não vou me delongar muito aqui agora, nesse primeiro momento, mas o que você precisa saber sobre essa ferramenta é que ela está no topo entre as melhores.
+[00:00:56:19 --> 00:01:00:19] Inclusive, nessa lista toda aqui, eu já fui direto na fonte, igual eu te ensinei.
+[00:01:00:20 --> 00:01:04:10] Peguei primeiro as maiores do mundo, as mais utilizadas, as que, inclusive,
+[00:01:04:16 --> 00:01:09:05] as outras secundárias que eu vou mostrar pra você, utilizam de fundo e muita gente nem sabe.
+[00:01:09:08 --> 00:01:12:25] Às vezes fala, pô, tem um IA diferente ali, no final vai ver, é um ChatGPT, é um Cloud,
+[00:01:13:04 --> 00:01:15:16] é um Gemini, que são as principais, tá bom?
+[00:01:15:17 --> 00:01:19:14] Então, as primeiras que eu vou mostrar aqui, elas competem ali entre as melhores.
+[00:01:19:22 --> 00:01:24:09] Se você sabe escrever um bom pedido, se você tem uma mente clara,
+[00:01:24:09 --> 00:01:29:15] Se você entende como estruturar bem um texto, você vai se dar bem em qualquer uma delas.
+[00:01:29:15 --> 00:01:34:08] Até porque você consegue criar um assistente ali, explicar para ele como ele deve agir,
+[00:01:34:08 --> 00:01:39:09] a gente vai ver isso acontecendo, e replicar isso no Chat.pt, no Cloud, no Gemini, no Grok, no Perplexity.
+[00:01:39:25 --> 00:01:45:08] Todas essas vão conseguir te entregar ali um conjunto, uma ferramenta que você consegue criar assistentes
+[00:01:45:08 --> 00:01:49:16] para eles escreverem de maneiras diferentes para você e cumprirem papéis diferentes para você.
+[00:01:49:17 --> 00:01:53:02] Ou seja, elas vão cumprir a maior parte do tempo aqui, vão ser fundamentais.
+[00:01:53:02 --> 00:01:58:04] e se for escolher assim o mínimo, eu escolheria uma dessas cinco primeiras que eu vou mostrar aqui, tá bom?
+[00:01:58:04 --> 00:02:02:20] Então, ChatGPT, muito bom, se você sabe usar, não vai deixar nada a desejar.
+[00:02:02:24 --> 00:02:05:20] A gente tem aqui o Gemini também, excelente, tá?
+[00:02:05:24 --> 00:02:10:05] Entre as melhores, no momento que eu estou gravando isso aqui, inclusive, Gemini é a melhor LLM.
+[00:02:10:08 --> 00:02:11:13] Não tem nem o que falar, né?
+[00:02:11:14 --> 00:02:15:13] O Google ficou para trás um tempo, agora está passando por cima de todo mundo aí,
+[00:02:15:14 --> 00:02:18:07] com ferramentas poderosíssimas, se você sabe utilizar.
+[00:02:18:15 --> 00:02:21:04] Para texto, você nem precisaria de muito mais do que isso aqui.
+[00:02:21:04 --> 00:02:22:22] O resto é conforto.
+[00:02:22:22 --> 00:02:23:01] Você vai ver.
+[00:02:23:04 --> 00:02:25:28] Assim como GPT, Gemini, Cloud, Grok.
+[00:02:26:02 --> 00:02:27:01] Ou Perplexity.
+[00:02:27:04 --> 00:02:28:10] Uma dessas é suficiente.
+[00:02:28:14 --> 00:02:29:22] O resto é conforto.
+[00:02:29:23 --> 00:02:32:16] No momento aqui, o mais utilizado, inclusive, tem sido Gemini.
+[00:02:32:20 --> 00:02:35:26] Mas eu acabo passando entre Gemini e GPT, dependendo do uso.
+[00:02:36:00 --> 00:02:36:08] Cloud.
+[00:02:36:13 --> 00:02:37:21] Ferramenta excelente.
+[00:02:37:25 --> 00:02:41:28] A proposta inicial do Cloud era uma ferramenta para trabalho.
+[00:02:42:05 --> 00:02:44:14] Não era uma ferramenta para assistente pessoal no seu dia a dia.
+[00:02:44:16 --> 00:02:46:17] Era uma ferramenta para te ajudar no seu trabalho.
+[00:02:46:23 --> 00:02:49:29] E o Cloud tem um jeito de escrever que é muito bom.
+[00:02:49:29 --> 00:02:54:27] tende a ser mais fácil, a sensação que você tem usando o Cloud é que é mais fácil escrever com ele
+[00:02:54:27 --> 00:02:59:14] para conseguir um estilo mais humano, um estilo mais envolvente, para trabalhar com copy.
+[00:02:59:19 --> 00:03:04:02] Ele funciona muito bem, é uma ferramenta muito utilizada dentro do mercado corporativo.
+[00:03:04:08 --> 00:03:07:08] A maioria das pessoas vão ficar no chat GPT ou no Gemini,
+[00:03:07:11 --> 00:03:11:08] mas o Cloud é uma ferramenta muito utilizada dentro do mercado de trabalho.
+[00:03:11:14 --> 00:03:15:19] Para fazer copy é muito bom, ele já tem estilos pré-definidos ali, você consegue ajustar.
+[00:03:15:22 --> 00:03:18:23] GPT já tem isso agora também, dá para fazer esse ajuste.
+[00:03:18:23 --> 00:03:21:04] Mas é uma ferramenta muito boa, compensa.
+[00:03:21:05 --> 00:03:24:16] Se você falar, qual que eu escolho, Gemini, Cloud ou GPT?
+[00:03:24:18 --> 00:03:27:15] Cara, sinceramente, qualquer uma vai te atender muito bem.
+[00:03:27:18 --> 00:03:30:29] Grok, outra muito boa também, vai te atender super bem,
+[00:03:31:02 --> 00:03:34:20] assim como as outras, não vai deixar a desejar aqui em nenhum ponto.
+[00:03:34:25 --> 00:03:37:22] Se o seu objetivo é melhorar a escrita, vai funcionar do mesmo jeito.
+[00:03:37:28 --> 00:03:43:02] O Perplexity tem uma característica mais especial aqui em relação às quatro outras,
+[00:03:43:07 --> 00:03:46:26] que é o fato de que você consegue utilizar mais de um modelo dentro dele.
+[00:03:46:26 --> 00:03:53:04] Então, você consegue vir aqui, olha, nesse botãozinho aqui e escolher o Gemini, o GPT, o Cloud e o Croc.
+[00:03:53:05 --> 00:03:57:04] Ou seja, você tem todos esses que eu acabei de falar em uma única assinatura.
+[00:03:57:04 --> 00:03:59:05] E eles costumam fazer promoções também.
+[00:03:59:10 --> 00:04:02:06] Eu lembro que alguns meses atrás eles fizeram uma promoção para quem tinha Vivo.
+[00:04:02:07 --> 00:04:05:09] Quem tinha algum plano da Vivo ganhava um ano de perplexity.
+[00:04:05:11 --> 00:04:07:07] Então, super compensa também.
+[00:04:07:08 --> 00:04:13:07] Ele tem alguns recursos aqui de pesquisa que são poderosos, são muito bons e vão poupar o seu tempo.
+[00:04:13:07 --> 00:04:15:09] essa é uma diferença, que é o primeiro modelo
+[00:04:15:09 --> 00:04:17:06] que eu chamo de secundário, se você
+[00:04:17:06 --> 00:04:19:16] parar pra pensar, ele utiliza os modelos
+[00:04:19:16 --> 00:04:21:07] aqui das anteriores, mas essa
+[00:04:21:07 --> 00:04:23:04] já é uma primeira diferença, conforto.
+[00:04:23:04 --> 00:04:25:06] Ele já entrega pra você como se fossem templates,
+[00:04:25:23 --> 00:04:27:02] estruturas pré-moldadas
+[00:04:27:02 --> 00:04:29:02] que ajudam o LLM já a
+[00:04:29:02 --> 00:04:31:01] raciocinar num caminho pra você, você não precisa
+[00:04:31:01 --> 00:04:33:07] ficar explicando tudo no prompt
+[00:04:33:07 --> 00:04:34:29] ali, igual você teria que fazer no
+[00:04:34:29 --> 00:04:36:28] GROC, no Cloud, no Gemini ou no
+[00:04:36:28 --> 00:04:39:07] ChatGPT, que são bem abertões, né, dá pra
+[00:04:39:07 --> 00:04:41:11] fazer qualquer coisa ali, aqui é mais focado
+[00:04:41:11 --> 00:04:43:00] pra pesquisa excelente,
+[00:04:43:00 --> 00:04:46:17] Se você fosse falar assim, Juan, eu posso assinar uma só, você recomenda o Perplexity?
+[00:04:46:26 --> 00:04:52:24] Recomendo muito o Perplexity, vai te atender, você vai fazer textos incríveis aqui, tem várias estruturas, é muito bom.
+[00:04:52:29 --> 00:04:56:19] Agora, as ferramentas que eu vou mostrar aqui são as derivações.
+[00:04:56:25 --> 00:05:04:13] Cada uma é específica para uma direção, geralmente voltada para copy, textos persuasivos ou para gramática, escrita.
+[00:05:04:14 --> 00:05:07:16] Mas você vai ver aqui que dependendo do seu uso, se você pode investir,
+[00:05:07:16 --> 00:05:13:12] são ferramentas poderosas que vão trazer mais conforto e mais agilidade ainda para você no seu processo.
+[00:05:13:18 --> 00:05:16:17] Mais inclusive do que assinar essas principais aqui, né?
+[00:05:16:19 --> 00:05:20:05] Chat GPT, Gemini, Clock, eu estou repetindo elas várias vezes, vou parar de fazer isso.
+[00:05:20:08 --> 00:05:22:01] Mas vamos lá, começando aqui pelo Qbot.
+[00:05:22:08 --> 00:05:26:04] Suas ideias escritas melhor, suas ideias melhor escritas.
+[00:05:26:04 --> 00:05:27:12] Qual que é a ideia do Qbot?
+[00:05:27:20 --> 00:05:31:06] O Qbot é uma ferramenta para quem trabalha com texto.
+[00:05:31:14 --> 00:05:34:13] Só de olhar as ferramentas aqui do lado, você vai entender o que isso quer dizer.
+[00:05:34:18 --> 00:05:35:22] Primeiro, parafrasear.
+[00:05:35:22 --> 00:05:39:27] Então, ele puxa de referências para você, te ajuda a parafrasear outros autores.
+[00:05:40:05 --> 00:05:41:08] Checagem de gramática.
+[00:05:41:20 --> 00:05:42:13] Detector de IA.
+[00:05:42:16 --> 00:05:46:14] Então, você joga um texto e ele detecta se o texto foi escrito por IA ou por um humano.
+[00:05:46:25 --> 00:05:48:28] Detector, um checker de plágio.
+[00:05:49:05 --> 00:05:52:11] Vai detectar também se o texto foi plagiado de outro lugar.
+[00:05:52:25 --> 00:05:53:07] Humanizador.
+[00:05:53:10 --> 00:05:56:05] Então, uma IA que humaniza o texto para você.
+[00:05:56:10 --> 00:05:57:02] Chat com IA.
+[00:05:57:03 --> 00:06:00:27] Gerador de imagem, que isso aqui fica segundo plano, não é nem o poder maior deles.
+[00:06:01:02 --> 00:06:01:14] Tradução.
+[00:06:02:06 --> 00:06:03:28] Sumarizador, que é um criador de índice.
+[00:06:03:28 --> 00:06:06:07] e gerador de citações.
+[00:06:06:13 --> 00:06:08:19] Além do que o Bot for Chrome, que é uma extensão,
+[00:06:08:20 --> 00:06:10:29] você vai usando em outros sites, ele vai registrando,
+[00:06:11:00 --> 00:06:12:26] pegando para você informações relevantes,
+[00:06:12:26 --> 00:06:15:12] guardando elas numa biblioteca pessoal sua.
+[00:06:15:16 --> 00:06:17:22] É uma ferramenta muito poderosa também.
+[00:06:17:28 --> 00:06:19:22] Ela é focada para a escrita.
+[00:06:19:24 --> 00:06:22:17] Até aqui, trabalhando com os líderes da indústria.
+[00:06:22:19 --> 00:06:25:05] Aí colocou algumas empresas aqui, gigantes.
+[00:06:25:09 --> 00:06:26:22] Mas o foco deles é texto.
+[00:06:26:26 --> 00:06:28:00] E isso já é uma coisa legal,
+[00:06:28:02 --> 00:06:30:08] porque eles querem facilitar a vida de quem escreve.
+[00:06:30:10 --> 00:06:33:11] Você consegue já criar uma conta gratuita aqui
+[00:06:33:11 --> 00:06:36:08] e experimentar, eu recomendo que você faça isso, inclusive de
+[00:06:36:08 --> 00:06:39:08] todas essas aqui, cria conta se tiver sete dias grátis, se
+[00:06:39:08 --> 00:06:41:12] tiver gratuito, testa, porque você vai ver também que
+[00:06:41:12 --> 00:06:43:18] ferramentas vai muito de cada uma, às vezes você gosta mais
+[00:06:43:18 --> 00:06:46:05] de um, eu gosto mais de outra, não vai fazer tanta diferença
+[00:06:46:05 --> 00:06:49:07] porque o nosso foco aqui é entender o processo, você vai
+[00:06:49:07 --> 00:06:51:15] poder escolher sua ferramenta e seguir o processo a partir
+[00:06:51:15 --> 00:06:54:01] dela, mas excelente ferramenta que eu bote aqui pra você.
+[00:06:54:07 --> 00:06:58:16] Jasper, famosa pra copy, tá aqui uma ferramenta de texto
+[00:06:58:16 --> 00:07:02:04] pra marketing que se você tem condição de investir, vai
+[00:07:02:04 --> 00:07:04:25] Vai facilitar a sua vida num nível absurdo.
+[00:07:04:26 --> 00:07:05:29] Por quê? O que ela faz?
+[00:07:06:05 --> 00:07:07:19] Imagina que você escreve um e-mail.
+[00:07:07:22 --> 00:07:09:09] Ou, sei lá, escreve um manifesto.
+[00:07:09:09 --> 00:07:11:10] E depois você quer derivar esse manifesto.
+[00:07:11:11 --> 00:07:12:25] Você já quer jogar ele pra templates.
+[00:07:13:04 --> 00:07:14:08] Então você tem o e-mail.
+[00:07:14:09 --> 00:07:17:10] Já quer que ele deriva pra você a descrição do Instagram.
+[00:07:17:19 --> 00:07:18:14] A mensagem de WhatsApp.
+[00:07:18:23 --> 00:07:21:08] A mensagem de SMS pequenininha lá também.
+[00:07:21:12 --> 00:07:23:00] Ele já deriva tudo pra você.
+[00:07:23:02 --> 00:07:24:04] Você escreve a Big Idea.
+[00:07:24:10 --> 00:07:25:03] Escreve o público.
+[00:07:25:05 --> 00:07:27:07] Escreve a definição principal da campanha.
+[00:07:27:09 --> 00:07:29:18] Você consegue trabalhar por campanhas dentro do Jasper.
+[00:07:29:18 --> 00:07:32:07] e a partir disso ele deriva isso tudo para você em conteúdo.
+[00:07:32:08 --> 00:07:35:24] Só de eu ter te dado essa dica aqui, se você aproveitar isso e trabalhar com marketing,
+[00:07:36:01 --> 00:07:37:17] já valeu para você estar assistindo isso aqui.
+[00:07:37:22 --> 00:07:40:29] Então, recomendo, cria sua conta, faz o teste e depois me conta aqui,
+[00:07:40:29 --> 00:07:43:00] deixa aqui nos comentários o que você achou.
+[00:07:43:03 --> 00:07:46:11] Só de olhar o site você vê que é bem sólido, bem estruturado,
+[00:07:46:14 --> 00:07:48:19] ele tem Canva, tem Studio, tem esse iKey também,
+[00:07:48:21 --> 00:07:53:20] que é para melhorar o raciocínio do seu texto, enriquecer a lógica dele.
+[00:07:53:23 --> 00:07:57:26] Tem esse aqui também que é focado em precisão das informações e dos dados,
+[00:07:58:01 --> 00:07:58:17] também é muito bom.
+[00:07:58:17 --> 00:08:02:04] Então, é uma ferramenta poderosa, é uma ferramenta de equipe, de colaboração.
+[00:08:02:06 --> 00:08:05:08] A questão aqui é se você está no momento para investir nisso ou não,
+[00:08:05:10 --> 00:08:10:02] porque você vai desembolsar aqui pelo menos 59 dólares por mês,
+[00:08:10:05 --> 00:08:12:22] por pessoa dentro da sua equipe.
+[00:08:12:25 --> 00:08:14:29] E é aqui que a coisa começa a ficar triste, né?
+[00:08:15:01 --> 00:08:17:13] Você vai falar, pô, estou trabalhando sozinho, talvez para mim não funcione.
+[00:08:17:13 --> 00:08:20:10] Se você tem equipe, isso aqui vai ganhar tempo para você.
+[00:08:20:10 --> 00:08:23:06] Eu estou falando de 50, 60% de tempo.
+[00:08:23:10 --> 00:08:25:06] Eles têm aqui, olha, deixa eu ver se eu encontro.
+[00:08:25:08 --> 00:08:27:29] Os estudos de caso deles são absurdos.
+[00:08:27:29 --> 00:08:32:05] É questão de empresas gigantes que pouparam 50% de tempo
+[00:08:32:05 --> 00:08:34:20] fazendo o que já faziam antes na metade do tempo.
+[00:08:34:23 --> 00:08:37:19] Pensa, metade do tempo significa que dá para fazer o dobro de coisas.
+[00:08:37:26 --> 00:08:39:10] É poderoso. É isso que eu te digo.
+[00:08:39:13 --> 00:08:42:00] Nós temos também o Copy.ai, que é focado em copy.
+[00:08:42:06 --> 00:08:45:13] Ele já tem estruturas pré-moldadas e te ajuda a criar templates também.
+[00:08:45:15 --> 00:08:48:04] Então aqui você tem e-mail marketing, cold mail,
+[00:08:48:07 --> 00:08:49:27] que são e-mails frios para mandar para leads.
+[00:08:51:01 --> 00:08:52:07] Instagram, legendas do Instagram.
+[00:08:52:22 --> 00:08:53:23] Gerador de outlines.
+[00:08:54:05 --> 00:08:56:10] Sinceramente, eu não sei o que é um outline aqui.
+[00:08:56:10 --> 00:09:01:15] Tirador de parágrafo, reescrever parágrafo, descrição de produtos, sentenças.
+[00:09:01:16 --> 00:09:05:25] Ele tem vários templates pré-moldados aqui que facilitam sua vida também.
+[00:09:05:29 --> 00:09:07:24] Não vai chegar no nível de um Jasper.
+[00:09:07:28 --> 00:09:09:27] É diferente, são duas propostas diferentes.
+[00:09:10:11 --> 00:09:13:22] Mas o legal é que ele torna sua vida mais confortável também.
+[00:09:13:26 --> 00:09:16:15] Ao invés de você ter que escrever todo o prompt ali,
+[00:09:16:18 --> 00:09:20:22] ele já te entrega algumas estruturas que vão melhorar bastante seu estilo de escrita.
+[00:09:20:26 --> 00:09:23:23] Só que como o nosso objetivo aqui é te ensinar a pensar texto,
+[00:09:23:23 --> 00:09:26:28] Então, essa ferramenta aqui, ela vai ser como uma rodinha na
+[00:09:26:28 --> 00:09:29:09] sua bicicleta, chega uma hora que você precisa abandonar
+[00:09:29:09 --> 00:09:32:07] também. Não tem problema voltar depois por eficiência, mas
+[00:09:32:07 --> 00:09:34:12] pensando aqui no seu desenvolvimento, cuidado com
+[00:09:34:12 --> 00:09:36:20] essas ferramentas que vão te entregar muitos templates. São
+[00:09:36:20 --> 00:09:40:03] excelentes, mas se você se acostuma mal aqui, cê fica
+[00:09:40:03 --> 00:09:42:17] preguiçoso e seus textos começam a ficar iguais, o de
+[00:09:42:17 --> 00:09:45:10] todo mundo, sabe? Então, não compensa muito. Grammarly.
+[00:09:45:18 --> 00:09:48:11] Grammarly é uma ferramenta que já existia antes desse bondaiá,
+[00:09:48:16 --> 00:09:51:02] vai me dizer que cê nunca viu um anúncio da Grammarly no seu
+[00:09:51:02 --> 00:09:53:19] YouTube, por exemplo, tá? Eu sei, talvez cê nunca viu o
+[00:09:53:19 --> 00:09:55:19] mesmo, mas eu passava isso pra mim direto ali
+[00:09:55:19 --> 00:09:57:20] 2020, 2019, 2021
+[00:09:57:20 --> 00:09:59:22] é uma ferramenta que te ajuda com gramática
+[00:09:59:22 --> 00:10:01:19] o próprio nome já sugere isso, né
+[00:10:01:19 --> 00:10:03:14] mas é muito bom pra tradução também
+[00:10:03:14 --> 00:10:05:10] pra te fazer sugestões de texto
+[00:10:05:10 --> 00:10:07:23] e agora eles evoluíram, né, pra inteligência artificial
+[00:10:07:23 --> 00:10:09:20] além da gramática, que já tinha
+[00:10:09:20 --> 00:10:11:14] IA ali, né, mas é uma IA generativa
+[00:10:11:14 --> 00:10:13:20] então, AI Writing Tools, ou seja
+[00:10:13:20 --> 00:10:15:13] ferramentas de escrita de IA
+[00:10:15:13 --> 00:10:17:20] então, AI Writing Tools, ferramentas
+[00:10:17:20 --> 00:10:19:13] de escrita de IA para
+[00:10:19:13 --> 00:10:21:12] escrita confortável
+[00:10:21:12 --> 00:10:23:07] Sem esforço aqui
+[00:10:23:07 --> 00:10:24:02] É poderoso também
+[00:10:24:02 --> 00:10:26:08] Tem várias ferramentas poderosas
+[00:10:26:08 --> 00:10:27:20] Aqui a gente escreve artigos
+[00:10:27:20 --> 00:10:28:16] Fazer brainstorming
+[00:10:28:16 --> 00:10:29:06] Conclusões
+[00:10:29:06 --> 00:10:30:04] Carta formal
+[00:10:30:04 --> 00:10:31:19] Escrever um parágrafo inteiro
+[00:10:31:19 --> 00:10:33:08] Aqui o outline de novo
+[00:10:33:08 --> 00:10:34:24] Reescrever parágrafos
+[00:10:34:24 --> 00:10:35:22] Está bem parecido aqui
+[00:10:35:22 --> 00:10:36:25] Com esse copy AI
+[00:10:36:25 --> 00:10:38:05] Só que com uma estrutura aqui
+[00:10:38:05 --> 00:10:39:10] Os designers piram
+[00:10:39:10 --> 00:10:40:25] Tem ferramentas de marketing também
+[00:10:40:25 --> 00:10:42:04] Escrever post de blog
+[00:10:42:04 --> 00:10:43:04] Título
+[00:10:43:04 --> 00:10:44:00] Nome de negócio
+[00:10:44:00 --> 00:10:45:14] Até ferramenta de naming aqui
+[00:10:45:14 --> 00:10:46:11] Tudo usando IATA
+[00:10:46:11 --> 00:10:47:24] Tudo coisa que é um modelo
+[00:10:47:24 --> 00:10:49:16] Provavelmente um desses primeiros
+[00:10:49:16 --> 00:10:50:11] Que eu mostrei para vocês
+[00:10:50:11 --> 00:10:54:13] só que com um ou seja, tem um comando que eles escrevem ali
+[00:10:54:13 --> 00:10:57:05] descrevendo como que a IA pode agir. Se você entender como
+[00:10:57:05 --> 00:10:59:16] fazer isso, você pode usar até no próprio chat GPT, mas aqui é
+[00:10:59:16 --> 00:11:02:13] mais confortável porque já vem pronto pra você, né? Já vem
+[00:11:02:13 --> 00:11:06:09] pré-moldado aqui. Ferramenta muito boa também. Outra
+[00:11:06:09 --> 00:11:09:23] ferramenta pra escrita, tá? Pra melhorar o seu trabalho com
+[00:11:09:23 --> 00:11:13:21] com escrita. Geralmente aqui ela vai ser boa pra esses
+[00:11:13:21 --> 00:11:16:17] templates também, então escrever uma página, aí tem
+[00:11:16:17 --> 00:11:20:08] uma biblioteca de também, salvos, é uma ferramenta
+[00:11:20:08 --> 00:11:22:08] de IA, com várias bibliotecas aqui.
+[00:11:22:13 --> 00:11:24:07] Eu quis deixar ela aqui, né? Ela está entrando
+[00:11:24:07 --> 00:11:26:13] no final dessa lista, mas como opção também.
+[00:11:26:16 --> 00:11:28:10] Testa, às vezes você prefere. Você vai ver
+[00:11:28:10 --> 00:11:30:13] que ela já utiliza os modelos raízes,
+[00:11:30:14 --> 00:11:32:11] né? Fonte ali. Mas está aqui, como mais
+[00:11:32:11 --> 00:11:34:08] uma ferramenta também, que foi
+[00:11:34:08 --> 00:11:36:12] indicada pelo time, inclusive. A gente decidiu
+[00:11:36:12 --> 00:11:38:13] trazer para você. Anyword vai seguir
+[00:11:38:13 --> 00:11:40:05] mais ou menos na mesma linha, tá?
+[00:11:40:10 --> 00:11:42:10] Geração de conteúdo com IA, uma plataforma
+[00:11:42:10 --> 00:11:44:01] com vários templates, que vem com
+[00:11:44:14 --> 00:11:46:09] estruturas pré-moldadas que te ajudam
+[00:11:46:09 --> 00:11:47:27] a trabalhar. Muito dentro do
+[00:11:47:27 --> 00:11:50:04] marketing. Talvez você vai pagar menos
+[00:11:50:04 --> 00:11:52:08] aqui, né, o que essas empresas menores
+[00:11:52:08 --> 00:11:54:07] fazem pra poder competir, mas também é uma
+[00:11:54:07 --> 00:11:56:01] indicação da equipe aqui pra você.
+[00:11:56:07 --> 00:11:58:02] Sudorite tem algumas peculiaridades
+[00:11:58:02 --> 00:12:00:16] aqui dentro dele. É uma ferramenta poderosa,
+[00:12:00:16 --> 00:12:02:13] muito utilizada por escritores,
+[00:12:02:28 --> 00:12:04:06] jornalistas, pessoas que vão
+[00:12:04:06 --> 00:12:06:13] escrever histórias. Você vai ver que é uma ferramenta
+[00:12:06:13 --> 00:12:08:08] que te ajuda a organizar
+[00:12:08:08 --> 00:12:10:06] melhor todo o texto que você tá gerando.
+[00:12:10:07 --> 00:12:12:08] Esse é o diferencial dele comparado com as outras.
+[00:12:12:11 --> 00:12:13:28] Ali a gente tava falando muito de campanhas,
+[00:12:14:00 --> 00:12:16:11] aqui eu tô falando mesmo da arte da escrita.
+[00:12:16:14 --> 00:12:18:01] Vamos supor que você vai escrever um livro,
+[00:12:18:01 --> 00:12:23:22] Aí você quer organizar capítulos, você quer organizar estruturas dentro do seu livro,
+[00:12:23:24 --> 00:12:27:08] quer organizar suas próprias bibliotecas para puxar informações valiosas,
+[00:12:27:11 --> 00:12:28:19] o SudoWrite te entrega isso.
+[00:12:28:23 --> 00:12:32:23] E esse é um grande diferencial comparando com todas essas outras que eu mostrei para você.
+[00:12:32:25 --> 00:12:35:28] Por quê? Dá só uma olhada aqui, vamos dar uma olhadinha aqui nas referências.
+[00:12:36:01 --> 00:12:41:19] Então eu tenho aqui ele trazendo algumas descrições que você pode copiar e inserir no seu texto principal, tá vendo?
+[00:12:41:23 --> 00:12:43:28] Ele traz visões, insights legais.
+[00:12:43:28 --> 00:12:46:22] Aqui embaixo, se você ver, olha, agora ele deu o zoom,
+[00:12:46:26 --> 00:12:51:11] mas você vê que ele divide capítulos para você, vai adicionando capítulos diferentes,
+[00:12:51:24 --> 00:12:53:22] te ajudando a escrever mais sobre o seu texto.
+[00:12:53:23 --> 00:12:56:10] Imagina que você está escrevendo um livro, por exemplo, ele vai organizando.
+[00:12:56:11 --> 00:12:59:22] E aí, ali, junto com você, escrevendo o conteúdo junto com você, tá?
+[00:12:59:26 --> 00:13:01:26] Então, é uma ferramenta mais para escritores mesmo.
+[00:13:02:01 --> 00:13:06:17] Traz muita referência, traz muitos insights, traz muitas citações quando você precisa.
+[00:13:06:26 --> 00:13:10:12] Ele também ajuda você, às vezes, a deixar mais rápido, deixar mais devagar,
+[00:13:10:13 --> 00:13:11:28] muda o ritmo, muda a estrutura.
+[00:13:11:28 --> 00:13:14:08] vários dos conceitos que nós vamos ver aqui nas próximas
+[00:13:14:08 --> 00:13:16:08] aulas, você consegue com o SudoWrite
+[00:13:16:08 --> 00:13:18:02] também. Excelente ferramenta, poderosa
+[00:13:18:02 --> 00:13:20:05] quando eu conheci foi a Thais da nossa equipe
+[00:13:20:05 --> 00:13:22:04] que me indicou, eu falei, cara, que massa que
+[00:13:22:04 --> 00:13:24:01] essa ferramenta já existe. Pra escritores
+[00:13:24:01 --> 00:13:25:28] mesmo, se não for focado em marketing, campanha
+[00:13:25:28 --> 00:13:28:05] pra quem quer escrever, quer criar um material, um artigo
+[00:13:28:05 --> 00:13:30:05] uma obra, um livro, qualquer
+[00:13:30:05 --> 00:13:31:19] material do tipo, trabalhando com texto
+[00:13:31:19 --> 00:13:34:15] essa ferramenta aqui, várias possibilidades
+[00:13:34:15 --> 00:13:36:08] ali dentro, traz várias facilidades
+[00:13:36:08 --> 00:13:38:03] e torna a sua vida muito mais fácil como
+[00:13:38:03 --> 00:13:40:01] escritor. Tá vendo o que eu falei? Não é que você vai
+[00:13:40:01 --> 00:13:40:29] vai parar de ser escritor.
+[00:13:41:03 --> 00:13:43:02] Grandes escritores já estão usando ferramentas como essa
+[00:13:43:02 --> 00:13:44:27] para escrever mais rápido, escrever melhor,
+[00:13:45:02 --> 00:13:48:05] mas mantendo a intenção, mantendo o que é deles dentro de cada obra.
+[00:13:48:11 --> 00:13:50:14] Recomendo, pelo menos, criar uma conta e experimentar.
+[00:13:50:14 --> 00:13:53:21] Você vai ver que é uma ferramenta poderosíssima, com muitas possibilidades.
+[00:13:53:29 --> 00:13:57:26] Novel Crafter é outra ferramenta, paralela aqui com o SudoWrite,
+[00:13:58:00 --> 00:14:02:05] que vai ajudar escritores que querem organizar conteúdos de informação maior.
+[00:14:02:10 --> 00:14:04:08] Então, não só trabalhar com campanhas,
+[00:14:04:10 --> 00:14:07:14] mas escrever ali e ter ferramentas que te ajudam
+[00:14:07:14 --> 00:14:09:21] e analisam o que você está escrevendo melhor.
+[00:14:09:21 --> 00:14:13:12] Então, do mesmo jeito que o SudoWrite te permite escrever, organizar capítulos,
+[00:14:13:12 --> 00:14:17:05] organizar ali insights, bibliotecas, o Nova Crafter faz isso também.
+[00:14:17:12 --> 00:14:18:22] A ideia aqui é ajudar escritores.
+[00:14:18:25 --> 00:14:22:01] Então, você consegue fazer várias coisas legais aqui dentro, né?
+[00:14:22:03 --> 00:14:25:03] Então, começar desde o zero, fazer brainstorming de ideias,
+[00:14:25:04 --> 00:14:26:07] contar um pouquinho, né?
+[00:14:26:07 --> 00:14:29:02] O que você está querendo construir, pedir insights de como começar.
+[00:14:29:10 --> 00:14:30:19] Desenvolver isso aqui é muito legal, olha.
+[00:14:30:22 --> 00:14:31:20] Character Sheets.
+[00:14:31:22 --> 00:14:32:22] São folhas de personagem.
+[00:14:32:22 --> 00:14:35:29] Então, você consegue criar os personagens, guardar eles em pastas ali
+[00:14:35:29 --> 00:14:38:23] para quando você estiver escrevendo o livro, puxar esses personagens também.
+[00:14:38:23 --> 00:14:42:03] timeline também, várias outras coisas interessantes aqui, eu
+[00:14:42:03 --> 00:14:45:12] recomendo que você teste, às vezes você vai gostar mais do
+[00:14:45:12 --> 00:14:48:13] Novel Crafter do que do eu particularmente preferi o do
+[00:14:48:13 --> 00:14:51:17] que o Novel Crafter, mas é uma ferramenta poderosa também, olha
+[00:14:51:17 --> 00:14:53:20] só, aqui os personagens do lado, é mais pra quem vai
+[00:14:53:20 --> 00:14:56:26] escrever história, pra quem vai contar ali uma narrativa, né,
+[00:14:56:26 --> 00:14:59:25] trabalhar com aqui você tem planejamento, escrita, chat,
+[00:15:00:00 --> 00:15:02:23] review, cê vai conversando com a EA, ela vai colaborando com
+[00:15:02:23 --> 00:15:05:17] você na criação. Cara, outro nível, né? Já conhecia essa,
+[00:15:05:19 --> 00:15:07:15] deixa nos comentários aí também, a gente tá trazendo
+[00:15:07:15 --> 00:15:09:19] aqui ferramentas pra várias áreas diferentes,
+[00:15:09:25 --> 00:15:11:17] não sei qual que é o seu objetivo com a escrita,
+[00:15:11:19 --> 00:15:13:16] dependendo dele, mas vai ter ferramentas poderosas
+[00:15:13:16 --> 00:15:15:19] aqui dentro, e eu tô trazendo elas aqui pra você.
+[00:15:15:24 --> 00:15:17:23] Seguindo em frente aqui, depois do Novel Crafter,
+[00:15:17:25 --> 00:15:20:01] nós temos o Type, type.ai,
+[00:15:20:05 --> 00:15:21:20] que é outra ferramenta também
+[00:15:21:20 --> 00:15:23:19] pra escritores, pra quem quer às vezes
+[00:15:23:19 --> 00:15:25:15] escrever um livro, organizar todas
+[00:15:25:15 --> 00:15:27:13] as informações, você vai ver que ele tem um design
+[00:15:27:13 --> 00:15:29:19] mais minimalista aqui, mas também vai
+[00:15:29:19 --> 00:15:31:11] te ajudar a separar os capítulos,
+[00:15:31:13 --> 00:15:33:08] vai te ajudar a organizar todas as informações,
+[00:15:33:25 --> 00:15:35:19] é uma ferramenta bem poderosa, vai trazer
+[00:15:35:19 --> 00:15:37:08] vários insights poderosos pra você,
+[00:15:37:15 --> 00:15:39:16] Não vou ficar trazendo aqui os mesmos pontos.
+[00:15:39:22 --> 00:15:41:17] Nesse caso, eu recomendo que você experimente.
+[00:15:41:22 --> 00:15:44:25] Teste e depois diga aqui qual delas você preferiu.
+[00:15:44:25 --> 00:15:47:11] A ideia é trazer uma lista das principais que nós testamos,
+[00:15:47:13 --> 00:15:49:22] que a equipe aqui testou também e recomenda para vocês.
+[00:15:50:10 --> 00:15:52:16] Hipotenusa é uma IA de texto também,
+[00:15:52:19 --> 00:15:55:13] que eu queria ter apresentado quando eu estava falando das outras de IA.
+[00:15:55:14 --> 00:15:57:06] Eu coloquei ela fora de ordem aqui para você.
+[00:15:57:08 --> 00:16:00:18] Então, tinha Jasper, estava falando aqui o bot também, do Copy AI.
+[00:16:00:23 --> 00:16:02:01] Mas o legal da hipotenusa aqui,
+[00:16:02:05 --> 00:16:05:01] ela é focada principalmente em quem trabalha com e-commerce,
+[00:16:05:01 --> 00:16:08:05] informações de produtos e conteúdos de e-commerce.
+[00:16:08:10 --> 00:16:11:25] Então, ela consegue te ajudar a trazer tags de produtos,
+[00:16:11:25 --> 00:16:16:07] descrição, títulos, características importantes dos produtos ali.
+[00:16:16:14 --> 00:16:20:04] Categoriza tudo para você e te ajuda a passar tudo isso com SEO também,
+[00:16:20:08 --> 00:16:22:17] que é a otimização para recursos de busca.
+[00:16:22:25 --> 00:16:25:23] E aí você tem também aqui sua vida muito facilitada.
+[00:16:25:24 --> 00:16:29:02] É uma solução que funciona, inclusive, se eu não me engano, com imagem também.
+[00:16:29:07 --> 00:16:30:27] Então, ela te ajuda a gerar variações da imagem.
+[00:16:31:04 --> 00:16:32:17] É mais para quem está focando em e-commerce,
+[00:16:32:17 --> 00:16:35:13] e eu não queria deixar de falar dela aqui para você,
+[00:16:35:14 --> 00:16:37:06] porque às vezes está dentro do que você faz.
+[00:16:37:13 --> 00:16:39:28] Fica aqui como uma referência para quem trabalha com e-commerce.
+[00:16:40:00 --> 00:16:42:10] Testa, deixa aqui nos comentários o que você achou.
+[00:16:42:14 --> 00:16:44:13] Agora eu quero te mostrar a ferramenta de texto
+[00:16:44:13 --> 00:16:49:28] que eu mais uso disparado aqui dentro da Overlens.
+[00:16:50:04 --> 00:16:53:02] Você vai achar engraçado, depois de eu mostrar todas essas aqui,
+[00:16:53:05 --> 00:16:55:10] eu voltar para o Google Docs.
+[00:16:55:14 --> 00:16:59:11] Mas, sinceramente, Google Docs é a ferramenta de texto
+[00:16:59:11 --> 00:17:01:11] que tem inteligência artificial, que
+[00:17:01:11 --> 00:17:03:15] supri todas as minhas necessidades
+[00:17:03:15 --> 00:17:05:20] e o mais legal é que ela é gratuita.
+[00:17:05:22 --> 00:17:07:07] Uma curiosidade, eu estava vendo aquele
+[00:17:07:23 --> 00:17:09:07] documentário de Stranger Things,
+[00:17:09:14 --> 00:17:11:11] a gente vai ignorar aquele final de Stranger
+[00:17:11:11 --> 00:17:13:11] Things, tá? Pra mim aquilo nunca aconteceu,
+[00:17:13:18 --> 00:17:14:14] eu sou mais do
+[00:17:15:08 --> 00:17:17:10] Conformity Gate mesmo, pra mim aquela
+[00:17:17:10 --> 00:17:19:04] é a história original, mas
+[00:17:19:04 --> 00:17:21:01] desconsidere esse final, os
+[00:17:22:02 --> 00:17:23:13] Dover's Brothers fizeram
+[00:17:23:13 --> 00:17:25:16] um trabalho incrível em várias partes da série,
+[00:17:25:20 --> 00:17:27:03] uma das séries favoritas minha.
+[00:17:27:03 --> 00:17:32:22] E eu estava assistindo aquele documentário e eu vi que eles usam o Google Docs para escrever os roteiros de Stranger Things.
+[00:17:32:29 --> 00:17:35:02] Será que talvez por isso o final ficou tão ruim?
+[00:17:35:05 --> 00:17:35:22] Eu espero que não.
+[00:17:35:25 --> 00:17:43:16] Eu uso o Google Docs todos os dias, todos os processos internos da Overland, todas as documentações, todos os materiais que eu escrevo.
+[00:17:43:16 --> 00:17:45:16] Eu uso muito o Google Docs.
+[00:17:45:19 --> 00:17:50:11] Parte do gosto que eu tenho pelo Google Docs é por conta de todo o ecossistema do Google.
+[00:17:50:13 --> 00:17:55:20] É claro, você está aqui dentro do workspace, então você consegue conectar ele no Google Drive, facilita muitas coisas aqui dentro.
+[00:17:55:20 --> 00:17:58:25] Eu já puxo ele, eu consigo usar esse Google Docs direto num chat GPT,
+[00:17:58:26 --> 00:18:00:25] onde eu quiser ali conectado no Google Drive.
+[00:18:00:28 --> 00:18:03:17] Tem várias facilidades interessantes de ecossistema aqui,
+[00:18:03:19 --> 00:18:08:01] mas tem uma coisa do Google que ele traz, que vocês vão ver num SudoWrite,
+[00:18:08:08 --> 00:18:12:11] que vocês vão ver num Novel Crafter, mas essa guia aqui, esse índice lateral,
+[00:18:12:20 --> 00:18:14:20] aqui o Google Docs me ganhou.
+[00:18:14:22 --> 00:18:16:19] Porque é muito fácil de usar, muito simples.
+[00:18:16:25 --> 00:18:19:17] Uma configuração que eu faço aqui, a gente vai falar mais disso depois.
+[00:18:19:24 --> 00:18:22:00] A primeira coisa que eu faço aqui, eu venho aqui em arquivo,
+[00:18:22:01 --> 00:18:24:07] configuração de página e troco para 100 páginas.
+[00:18:24:07 --> 00:18:26:11] mas eu prefiro trabalhar desse jeito aqui.
+[00:18:26:16 --> 00:18:28:13] Ele já tem vários recursos de IA,
+[00:18:28:16 --> 00:18:31:14] que você pode puxar para dentro do seu texto.
+[00:18:31:18 --> 00:18:33:08] Aqui do lado você vai encontrar o Gemini.
+[00:18:33:14 --> 00:18:35:06] O Gemini escreve junto com você,
+[00:18:35:07 --> 00:18:36:20] se você já assina o Gemini ali,
+[00:18:36:23 --> 00:18:39:04] ele vai vir com o NanoBanano, várias outras ferramentas.
+[00:18:39:04 --> 00:18:40:28] De novo, o ecossistema Google aqui.
+[00:18:41:02 --> 00:18:42:23] Mas como eu estou em uma conta gratuita,
+[00:18:42:23 --> 00:18:45:04] ele está me pedindo para fazer um teste.
+[00:18:45:19 --> 00:18:46:28] Na minha conta do Workspace,
+[00:18:47:07 --> 00:18:48:08] o que acontece é o seguinte,
+[00:18:48:13 --> 00:18:49:19] ele aparece aqui para você,
+[00:18:49:23 --> 00:18:50:28] e você consegue digitar,
+[00:18:50:28 --> 00:18:53:04] e ele insere o que vocês estão conversando
+[00:18:53:04 --> 00:18:55:26] dentro do texto também. Então, você consegue ir colaborando
+[00:18:55:26 --> 00:18:58:07] com ele aqui. É bem legal, ferramenta poderosíssima. E
+[00:18:58:07 --> 00:19:00:23] aqui do lado, você consegue ir criando os índices, né? Então,
+[00:19:00:23 --> 00:19:04:10] tem uma introdução, dali a pouco eu tenho um prólogo, aí
+[00:19:04:10 --> 00:19:07:17] dali a pouco eu tenho um capítulo um e eu posso colocar
+[00:19:07:17 --> 00:19:10:02] um capítulo dentro do capítulo um, eu venho aqui adicionar
+[00:19:10:02 --> 00:19:13:05] subguia, então eu coloco aqui primeira parte. Então, eu vou
+[00:19:13:05 --> 00:19:16:12] organizando todo esse índice aqui. É fácil de entender, eu
+[00:19:16:12 --> 00:19:18:14] consigo inserir tudo que eu preciso, tem os elementos
+[00:19:18:14 --> 00:19:21:19] necessários, funciona como um software de texto, né? Igual
+[00:19:21:19 --> 00:19:23:25] era o Microsoft Word. É até hoje,
+[00:19:23:27 --> 00:19:26:06] ele não morreu, mas o Google Docs disparado
+[00:19:26:06 --> 00:19:27:25] funciona muito melhor aqui. Tem como trabalhar
+[00:19:27:25 --> 00:19:29:23] em colaboração com outras pessoas. Então,
+[00:19:29:24 --> 00:19:31:28] cara, pra mim, pelo menos, no meu fluxo,
+[00:19:31:28 --> 00:19:33:26] é a ferramenta que eu mais utilizo. Depois de te
+[00:19:33:26 --> 00:19:35:19] mostrar tudo isso, eu trago ela aqui.
+[00:19:35:23 --> 00:19:37:19] Uso algumas outras também. Por exemplo, eu gosto
+[00:19:37:19 --> 00:19:39:22] muito do Jasper em relação a
+[00:19:39:22 --> 00:19:41:19] campanha, para a derivação toda
+[00:19:41:19 --> 00:19:43:29] que ele faz. Então, eu trabalho um pouco aqui no Google Docs,
+[00:19:44:00 --> 00:19:45:23] depois jogo pra lá. Também gosto muito
+[00:19:45:23 --> 00:19:47:24] do SudoWrite. É uma ferramenta que, quando eu
+[00:19:47:24 --> 00:19:49:29] conheci, eu fiquei encantado
+[00:19:49:29 --> 00:19:51:29] com ela, sim, por conta de ser focado
+[00:19:51:29 --> 00:19:54:02] na escrita, mas pensando
+[00:19:54:02 --> 00:19:55:29] em processo e equipe, o Google Docs
+[00:19:55:29 --> 00:19:57:26] sai na frente pra gente e eu tenho que falar da
+[00:19:57:26 --> 00:20:00:01] realidade, né? Não só do sonho, é disparado
+[00:20:00:01 --> 00:20:01:19] a que a gente mais utiliza, então eu não poderia
+[00:20:01:19 --> 00:20:03:26] deixar de falar sobre ele. E pra fechar,
+[00:20:03:26 --> 00:20:05:28] tem mais uma ferramenta que eu quero que você
+[00:20:05:28 --> 00:20:07:28] conheça. Eu não poderia terminar uma
+[00:20:07:28 --> 00:20:09:17] lista de ferramentas sem falar
+[00:20:09:17 --> 00:20:11:27] do nosso Overchat. Inclusive, ele está
+[00:20:11:27 --> 00:20:13:22] passando por uma atualização agora, então
+[00:20:13:22 --> 00:20:15:29] provavelmente quando você estiver vendo esse vídeo, ele vai
+[00:20:15:29 --> 00:20:18:01] estar melhor, né? Muito mais possibilidades,
+[00:20:18:13 --> 00:20:20:29] estruturas e nós temos um diferencial que nenhuma dessas
+[00:20:20:29 --> 00:20:23:26] ferramentas que eu apresentei aqui vão entregar pra você e
+[00:20:23:26 --> 00:20:27:05] como você assina você pode adquirir mais créditos aqui,
+[00:20:27:10 --> 00:20:30:04] cara, uma super vantagem já tá aqui disponível pra você, você
+[00:20:30:04 --> 00:20:32:24] pode usar os seus fractais pra conversar com o chat da
+[00:20:32:24 --> 00:20:36:21] e o que nós temos de vantagem aqui no tá? Pra acessar, é bem
+[00:20:36:21 --> 00:20:38:28] simples, você tá aqui na plataforma, aqui do lado você
+[00:20:38:28 --> 00:20:42:19] tem toca aqui e ele vai entrar pra você. Como que funciona? O
+[00:20:42:19 --> 00:20:46:17] ele tem de base o chat GPT. Então, já é o melhor modelo,
+[00:20:46:17 --> 00:20:49:14] um dos melhores modelos do mundo, vai te suprir muito bem,
+[00:20:49:15 --> 00:20:51:20] questão de raciocínio, vai conseguir entregar. Qual que é
+[00:20:51:20 --> 00:20:53:26] o nosso diferencial? Quando você vem aqui nesses quatro,
+[00:20:54:01 --> 00:20:56:27] nessas quatro bolinhas, que nós estamos adaptando isso daqui,
+[00:20:57:05 --> 00:20:59:08] cês vão ver o que tá pra chegar, mas quando vocês vêm
+[00:20:59:08 --> 00:21:01:12] nessas quatro bolinhas, você vai encontrar aqui lentes,
+[00:21:01:16 --> 00:21:04:23] modelos mentais e biblioteca de produtos. As lentes são os
+[00:21:04:23 --> 00:21:07:25] agentes da Overlands. Então, nós vamos adicionando mais
+[00:21:07:25 --> 00:21:10:10] agentes aqui pra você, inclusive agentes de texto. No
+[00:21:10:10 --> 00:21:12:08] momento, a gente tem o cronicante, narrativista,
+[00:21:12:27 --> 00:21:15:05] neologista, senhor paradoxo, dilema, todos esses são
+[00:21:15:05 --> 00:21:20:29] são ferramentas legais para utilizar contexto e que já vem com um prompt feito por nós aqui dentro da equipe da Overlens.
+[00:21:21:04 --> 00:21:22:20] Voz de marca, buyer persona.
+[00:21:22:29 --> 00:21:25:26] Nós vamos adicionar mais agentes aqui dentro para você também.
+[00:21:25:28 --> 00:21:28:01] Esses são alguns dos que nós já adicionamos.
+[00:21:28:03 --> 00:21:29:12] E você pode utilizar isso aqui.
+[00:21:29:13 --> 00:21:32:19] Quando você adiciona o agente, ele fica ativado aqui em cima,
+[00:21:32:21 --> 00:21:38:02] você já tem um agente ali que vai funcionar para você dentro das instruções que nós deixamos preparadas.
+[00:21:38:05 --> 00:21:40:02] Mas isso nem é o nosso maior diferencial.
+[00:21:40:04 --> 00:21:42:26] O maior diferencial está aqui, nos modelos mentais.
+[00:21:42:26 --> 00:21:47:10] Nós mapeamos mais de 90 modelos mentais, que são estruturas de raciocínio
+[00:21:47:10 --> 00:21:51:05] que a inteligência artificial pode utilizar para trazer para você resultados melhores,
+[00:21:51:11 --> 00:21:53:04] para sair do óbvio, sair do genérico.
+[00:21:53:05 --> 00:21:56:07] Eu recomendo que você experimente os nossos modelos mentais.
+[00:21:56:10 --> 00:22:01:01] Tem aqui lentes simbólicas, pensamento formal, pensamento interno cognitivo.
+[00:22:01:03 --> 00:22:05:22] Aqui nós temos também pensamento prático estratégico, pensamento quantitativo matemático.
+[00:22:05:25 --> 00:22:10:08] Temos aqui também pensamento relacional, que é o pensamento sistêmico, um dos meus favoritos.
+[00:22:10:08 --> 00:22:16:16] E você pode utilizar todos esses modelos mentais para fazer a IA simular raciocínios mais avançados.
+[00:22:16:19 --> 00:22:19:05] Esses modelos mentais não fui eu que inventei, não.
+[00:22:19:07 --> 00:22:22:17] São modelos mentais da história da humanidade feitos por pessoas incríveis.
+[00:22:22:23 --> 00:22:26:10] Na atualização, você vai conseguir mais informações desses modelos mentais,
+[00:22:26:13 --> 00:22:30:01] vai conseguir entender melhor de onde eles vieram e qual é o poder que existe neles.
+[00:22:30:04 --> 00:22:34:12] E é uma ferramenta muito legal que pode te ajudar bastante na escrita dos seus textos.
+[00:22:34:14 --> 00:22:37:26] Nós temos também aqui os prompts de ações.
+[00:22:37:26 --> 00:22:42:12] Então, escrever um manifesto, gerar um nome, fazer uma descrição de post, analisar um briefing,
+[00:22:42:18 --> 00:22:46:19] criar um briefing baseado em reunião, gerar versões de um logo, desenhar uma proposta de valor,
+[00:22:46:21 --> 00:22:47:29] criar um pitch em um minuto.
+[00:22:48:02 --> 00:22:51:16] Várias dessas aqui podem tornar sua vida muito mais confortável.
+[00:22:51:20 --> 00:22:55:16] Isso aqui são templates bem parecidos com aqueles que eu acabei de mostrar em outras ferramentas
+[00:22:55:16 --> 00:22:56:28] e está aqui disponível para você.
+[00:22:57:02 --> 00:22:59:22] Fácil de usar, é clicar e começar a utilizar.
+[00:22:59:29 --> 00:23:04:19] Então, eu não poderia deixar passar por uma aula inteira de ferramentas e não falar do Overchat.
+[00:23:04:19 --> 00:23:06:24] recomendo que você acompanhe. Nessa aula
+[00:23:06:24 --> 00:23:09:01] que você está vendo uma versão de protótipo
+[00:23:09:01 --> 00:23:10:21] que já foi liberada, várias pessoas estão
+[00:23:10:21 --> 00:23:12:19] testando, mas é bem provável que a sua
+[00:23:12:19 --> 00:23:14:17] versão está ainda melhor com uma biblioteca
+[00:23:14:17 --> 00:23:16:17] inteira, fácil de usar. É só
+[00:23:16:17 --> 00:23:18:19] acessar, toca do lado aqui dentro do
+[00:23:18:19 --> 00:23:20:22] menu principal e você pode testar
+[00:23:20:22 --> 00:23:22:20] o Overchat hoje mesmo aí se você tiver
+[00:23:22:20 --> 00:23:24:20] fractais disponíveis. Bom, aqui
+[00:23:24:20 --> 00:23:27:01] embaixo tem uma lista com mais ferramentas
+[00:23:27:01 --> 00:23:28:20] para você, entre gratuitas
+[00:23:28:20 --> 00:23:30:28] e pagas, você pode testar as que prefere.
+[00:23:31:02 --> 00:23:32:23] Deixe aqui nos comentários também quais
+[00:23:32:23 --> 00:23:33:22] Quais são as suas favoritas?
+[00:23:33:22 --> 00:23:35:25] Ou tem alguma que eu não citei aqui para você?
+[00:23:35:26 --> 00:23:37:10] Ela é incrível e funciona muito bem.
+[00:23:37:16 --> 00:23:38:02] Comenta aqui.
+[00:23:38:04 --> 00:23:39:22] Vamos continuar essa discussão.
+[00:23:39:23 --> 00:23:42:10] Mas agora eu quero avançar com você para as próximas aulas.
+[00:23:42:12 --> 00:23:44:23] Porque, como eu já disse antes, eu vou continuar repetindo.
+[00:23:44:23 --> 00:23:46:13] Tem muita coisa legal para a gente ver aqui.
+[00:23:46:16 --> 00:23:47:20] Bora lá então para a próxima aula.

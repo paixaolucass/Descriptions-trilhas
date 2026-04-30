@@ -1,0 +1,555 @@
+# Video: 2._por_dentro_das_llms_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 09:17
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:04 --> 00:00:02:18] Talvez você olhou para isso aqui e já ficou muito confuso.
+[00:00:02:19 --> 00:00:06:12] Cara, é muita coisa, não entendi o que é multi-head attention, não entendi o que é feed forward.
+[00:00:07:04 --> 00:00:08:15] Claro, eu nem te expliquei isso.
+[00:00:08:23 --> 00:00:10:24] Então talvez isso está um pouco confuso na sua cabeça.
+[00:00:11:01 --> 00:00:11:18] O que eu vou fazer?
+[00:00:11:27 --> 00:00:13:01] Eu vou tirar um print.
+[00:00:15:13 --> 00:00:21:18] E eu vou trazer a LLM mais famosa aqui para a nossa conversa.
+[00:00:21:18 --> 00:00:22:29] Então vamos trazê-la para cá.
+[00:00:26:08 --> 00:00:27:25] Trouxe ela pra cá. Chat GPT.
+[00:00:29:19 --> 00:00:30:27] Vamos conversar com o chat GPT.
+[00:00:31:00 --> 00:00:32:15] A primeira coisa que eu quero fazer...
+[00:00:34:02 --> 00:00:40:15] Zero Shot. Se você não sabe o que é um Zero Shot, assiste o minicurso da Overlens de Engenharia de Prompt. Vai te ajudar muito. Mas vamos lá.
+[00:00:41:24 --> 00:00:44:12] As LLMs funcionam.
+[00:00:46:08 --> 00:00:47:04] E vou enviar aqui para ele.
+[00:00:47:27 --> 00:00:48:25] Ele vai me trazer uma resposta.
+[00:00:50:08 --> 00:00:54:03] Com certeza essa é uma resposta mais longa, porque hoje o modelo já está até mais avançado também,
+[00:00:54:25 --> 00:00:59:06] e ele já foi instruído para trazer uma resposta mais longa, mas é o primeiro passo.
+[00:00:59:08 --> 00:01:02:06] Então ele trouxe que é um modelo de linguagem largo, como o GPT,
+[00:01:02:07 --> 00:01:07:16] funciona com base em uma combinação de estatística, probabilidade e redes neurais profundas,
+[00:01:07:18 --> 00:01:10:27] que eu já apresentei para vocês no minicurso História das IAs,
+[00:01:11:17 --> 00:01:15:19] especialmente do tipo Transformer, que eu comecei a apresentar aqui para vocês.
+[00:01:16:15 --> 00:01:18:20] Explicação simplificada, aprendizado com exemplos,
+[00:01:18:20 --> 00:01:23:21] O modelo foi treinado com bilhões de textos, livros, sites, artigos.
+[00:01:23:27 --> 00:01:28:20] Ele não memoriza frases, mas aprende padrões de linguagem.
+[00:01:28:24 --> 00:01:32:18] Para ele memorizar frases, ele teria que ter uma base, um banco de dados.
+[00:01:32:27 --> 00:01:35:16] E a LLM não vai guardando a informação.
+[00:01:35:28 --> 00:01:39:08] Ela processa a informação e devolve uma resposta.
+[00:01:39:16 --> 00:01:41:21] É diferente. Não é uma memorização.
+[00:01:42:00 --> 00:01:45:16] Não é que o chat GPT memorizou essa resposta para entregar.
+[00:01:45:16 --> 00:01:54:29] E isso é uma das coisas que as pessoas mais confundem e costumam falar, que a IA só copia, a IA só memoriza uma coisa e cola de volta o que ela aprendeu.
+[00:01:55:00 --> 00:02:02:07] Não é assim que a IA funciona. Ela funciona interpretando e reconstruindo com base no que ela interpretou.
+[00:02:02:18 --> 00:02:04:03] E aí eu vou mostrar isso aqui para vocês.
+[00:02:04:22 --> 00:02:10:27] Predição da próxima palavra. A gente já viu isso aqui. No fundo, o modelo faz uma coisa. Tenta prever a próxima palavra com base nas anteriores.
+[00:02:10:27 --> 00:02:16:00] Se você escreve o céu está, o modelo avalia probabilisticamente as palavras que poderiam vir a seguir,
+[00:02:16:03 --> 00:02:17:26] como azul, nublado ou limpo.
+[00:02:17:28 --> 00:02:21:27] E ele vai escolher qual delas tem mais chance de ser a resposta certa para você.
+[00:02:22:14 --> 00:02:23:22] Ajuste com feedback humano.
+[00:02:23:27 --> 00:02:26:28] Depois do treinamento inicial, o modelo é refinado com feedback humano.
+[00:02:27:13 --> 00:02:29:25] Preferimos respostas educadas, úteis e seguras.
+[00:02:30:01 --> 00:02:35:21] Então, primeiro existe um treinamento para poder classificar os inputs.
+[00:02:36:00 --> 00:02:38:22] Eu já falei disso no mini curso de inteligências artificiais.
+[00:02:38:22 --> 00:02:42:15] Então, existe um treinamento de máquina chamado de Machine Learning.
+[00:02:42:21 --> 00:02:46:10] Esse treinamento dá pesos específicos para cada informação,
+[00:02:46:16 --> 00:02:50:17] que pode ser uma palavra, pode ser uma imagem, um vídeo e por aí vai,
+[00:02:51:02 --> 00:02:52:22] dependendo dos inputs que você mandou.
+[00:02:52:25 --> 00:02:55:12] E aí você tem uma rede neural com parâmetros,
+[00:02:55:14 --> 00:03:00:01] e esses parâmetros dão pesos específicos para cada palavra,
+[00:03:00:10 --> 00:03:03:25] ou vamos chamar aqui para cada pedacinho de informação que ele tem.
+[00:03:04:13 --> 00:03:06:22] Depois que você tem uma rede neural,
+[00:03:06:22 --> 00:03:12:07] rede neural você começa a instruir essa rede neural sobre como você quer que ela se comporte
+[00:03:12:25 --> 00:03:19:09] devolva a resposta para você ou seja você faz um ajuste nela muita gente chama de fine turning um
+[00:03:19:25 --> 00:03:25:06] ajuste nessa rede para que ela devolve uma resposta mais próxima do que você precisa não é o que ele
+[00:03:25:06 --> 00:03:29:27] tá trazendo aqui ó ajuste com feedback humano depois do treinamento inicial o modelo é refinado
+[00:03:29:27 --> 00:03:34:24] com feedback humano isso é chamado de fine turning com aprendizado por reforço eu já expliquei
+[00:03:34:24 --> 00:03:36:25] e também o que é o aprendizado por reforço para vocês.
+[00:03:37:09 --> 00:03:39:23] Aí ele traz uma explicação técnica aqui,
+[00:03:39:24 --> 00:03:41:11] ele está falando o que é a arquitetura transformer,
+[00:03:41:22 --> 00:03:43:23] o que é embedding, o que são camadas profundas,
+[00:03:43:26 --> 00:03:45:29] tokenização, probabilidade e amostragem.
+[00:03:46:06 --> 00:03:50:05] Alguns desses são mais simples de compreender do que outros,
+[00:03:50:07 --> 00:03:51:27] nós vamos falar sobre todos eles aqui,
+[00:03:52:03 --> 00:03:55:00] mas eu quero te mostrar como fazer isso de um jeito simplificado.
+[00:03:55:06 --> 00:03:56:21] Antes só, olha só,
+[00:03:56:25 --> 00:03:59:25] a arquitetura transformer é o que eu acabei de mostrar para você.
+[00:04:00:12 --> 00:04:03:04] Isso é a arquitetura transformer resumida em um diagrama,
+[00:04:03:04 --> 00:04:05:07] que nós vamos simplificar aqui.
+[00:04:05:24 --> 00:04:11:18] Embedding são essas entradas aqui, input embedding e output embedding.
+[00:04:11:19 --> 00:04:14:23] Nós temos palavras, são transformadas em vetores numéricos,
+[00:04:14:23 --> 00:04:19:09] chamados embeddings, para que possam ser processadas matematicamente.
+[00:04:20:16 --> 00:04:24:13] Depois ela vai para camadas profundas, que como eu expliquei no outro minicurso,
+[00:04:24:15 --> 00:04:27:07] camadas profundas são feitas de neurônios intermediários.
+[00:04:27:10 --> 00:04:33:29] Uma camada profunda possui vários neurônios intermediários paralelos.
+[00:04:34:05 --> 00:04:36:13] E aí você consegue visualizar isso muito bem.
+[00:04:37:08 --> 00:04:39:04] Aqui, deixa eu pegar para vocês.
+[00:04:39:09 --> 00:04:42:10] Isso aqui, rede neural profunda, neurônios intermediários,
+[00:04:42:10 --> 00:04:46:23] e esses que estão mais cinza escuro são as camadas profundas aqui.
+[00:04:46:23 --> 00:04:48:10] aqui. Tokenização.
+[00:04:49:01 --> 00:04:50:25] Token é a menor unidade
+[00:04:50:25 --> 00:04:52:17] de medida de uma
+[00:04:52:17 --> 00:04:54:19] LLM. Então o texto é dividido em tokens
+[00:04:54:19 --> 00:04:56:22] que podem ser palavras inteiras, sílabas
+[00:04:56:22 --> 00:04:57:26] ou até pedaços de palavras.
+[00:04:58:06 --> 00:05:00:11] O modelo prevê token por token. A gente vai
+[00:05:00:11 --> 00:05:02:04] aprofundar nisso aqui também, fica tranquilo.
+[00:05:02:10 --> 00:05:04:11] E probabilidade. O modelo gera uma lista
+[00:05:04:11 --> 00:05:06:09] de tokens possíveis para a próxima posição.
+[00:05:06:22 --> 00:05:08:10] Cada palavra ele gera uma lista
+[00:05:08:10 --> 00:05:10:12] de tokens nova e ele vai escolhendo a melhor.
+[00:05:11:10 --> 00:05:11:24] Probabilisticamente.
+[00:05:12:28 --> 00:05:14:12] Via probabilidade. Então tem a
+[00:05:14:12 --> 00:05:15:26] maior chance de que seja a
+[00:05:15:26 --> 00:05:18:11] a próxima palavra. E aí ele pode
+[00:05:18:11 --> 00:05:20:06] escolher o mais provável ou usar uma técnica
+[00:05:20:06 --> 00:05:21:28] chamada amostragem, sampling,
+[00:05:22:04 --> 00:05:24:03] para gerar mais variedade. Então,
+[00:05:24:04 --> 00:05:26:00] dependendo do caso, ele não escolhe uma opção,
+[00:05:26:00 --> 00:05:27:08] ele entrega mais opções também.
+[00:05:28:14 --> 00:05:30:04] Importante, as LLMs não
+[00:05:30:04 --> 00:05:32:07] entendem no sentido humano. Então,
+[00:05:32:08 --> 00:05:34:08] ela simula isso muito bem. Parece que
+[00:05:34:08 --> 00:05:36:05] ela está te entendendo igual um ser humano entende.
+[00:05:36:10 --> 00:05:38:07] Não é que ela entende igual
+[00:05:38:07 --> 00:05:39:16] um ser humano. Na verdade,
+[00:05:39:17 --> 00:05:41:13] ela compreende a relação
+[00:05:41:13 --> 00:05:43:20] entre as coisas. Elas simulam
+[00:05:43:20 --> 00:05:45:19] esse entendimento. Elas não acessam
+[00:05:45:19 --> 00:05:47:16] à internet em tempo real, a menos que
+[00:05:47:16 --> 00:05:49:17] sejam conectadas a ferramentas que faziam isso. Ou seja,
+[00:05:49:22 --> 00:05:51:07] quem acessa a internet,
+[00:05:51:14 --> 00:05:53:16] quando eu coloco aqui buscar, não é
+[00:05:53:16 --> 00:05:55:12] a LLM de fato, mas é
+[00:05:55:12 --> 00:05:57:15] uma outra tecnologia que acessa a internet
+[00:05:57:15 --> 00:05:59:27] e faz um processo chamado web scrapping,
+[00:06:00:01 --> 00:06:01:19] que é raspagem
+[00:06:01:19 --> 00:06:03:15] web. É uma outra
+[00:06:03:15 --> 00:06:05:06] ferramenta que raspa as informações
+[00:06:05:06 --> 00:06:07:02] de um site, pega isso,
+[00:06:07:05 --> 00:06:08:20] transforma em um input,
+[00:06:09:18 --> 00:06:11:09] joga esse input na LLM e ela
+[00:06:11:09 --> 00:06:12:22] interpreta esse input de novo.
+[00:06:13:01 --> 00:06:15:11] Então, são várias ferramentas que
+[00:06:15:11 --> 00:06:17:04] que estão conectadas aqui. Não é que a
+[00:06:17:04 --> 00:06:19:04] LLM está acessando a internet e
+[00:06:19:04 --> 00:06:20:16] compreendendo ela exatamente.
+[00:06:20:29 --> 00:06:22:25] Isso tem mudado, porque
+[00:06:22:25 --> 00:06:25:10] essa resposta aqui do chat GPT é muito
+[00:06:25:10 --> 00:06:27:08] focada em LLM, mas nós temos
+[00:06:27:08 --> 00:06:29:11] algumas tecnologias, como o MCP,
+[00:06:29:15 --> 00:06:31:08] que é um tipo de conexão que
+[00:06:31:08 --> 00:06:33:02] conecta a inteligência artificial
+[00:06:33:02 --> 00:06:35:08] direto com outras tecnologias de um jeito mais
+[00:06:35:08 --> 00:06:37:14] inteligente. Isso aí já está
+[00:06:38:11 --> 00:06:39:14] revolucionando o campo
+[00:06:39:14 --> 00:06:40:09] da IA, mas ainda
+[00:06:40:28 --> 00:06:43:11] só pessoas que são do campo mais técnico
+[00:06:43:11 --> 00:06:45:11] que sabem disso. Então, ainda
+[00:06:45:11 --> 00:06:47:15] é uma questão de early adopters.
+[00:06:47:22 --> 00:06:49:14] Então, quem é da área de programação,
+[00:06:49:14 --> 00:06:51:20] de tecnologia, já sabe que os MCPs
+[00:06:51:20 --> 00:06:53:18] são uma revolução no mundo das IAs,
+[00:06:53:22 --> 00:06:55:11] mas quem não está muito inteirado
+[00:06:55:11 --> 00:06:57:22] disso, talvez nem tenha ouvido
+[00:06:57:22 --> 00:06:59:18] falar de MCP, nem sabe o que
+[00:06:59:18 --> 00:07:01:17] é isso. Mas é um tópico que a gente
+[00:07:01:17 --> 00:07:03:05] traz depois em outro momento. Mas é um
+[00:07:03:23 --> 00:07:05:04] protocolo de conexão
+[00:07:05:04 --> 00:07:07:13] de uma inteligência artificial com outras
+[00:07:07:13 --> 00:07:09:04] ferramentas. Aí a coisa
+[00:07:09:04 --> 00:07:11:05] já fica um pouco diferente. Mas,
+[00:07:11:08 --> 00:07:12:20] em geral, uma LLM
+[00:07:12:20 --> 00:07:14:27] ela não faz a conexão
+[00:07:14:27 --> 00:07:16:22] com a internet, outra ferramenta que faz
+[00:07:16:22 --> 00:07:17:28] e devolve esse dado para ela
+[00:07:17:28 --> 00:07:20:20] as LLMs também não pensam
+[00:07:20:20 --> 00:07:22:22] mas podem produzir textos que parecem muito
+[00:07:22:22 --> 00:07:24:18] coerentes porque foram treinadas com
+[00:07:24:18 --> 00:07:26:01] muito conteúdo humano
+[00:07:26:01 --> 00:07:28:28] é muito conteúdo humano mesmo, elas precisam de dados
+[00:07:28:28 --> 00:07:30:18] e eu mostrei isso para vocês
+[00:07:30:18 --> 00:07:32:09] na aula
+[00:07:32:09 --> 00:07:35:05] lá no mini curso História da Inteligência Artificial
+[00:07:35:05 --> 00:07:35:28] são
+[00:07:37:17 --> 00:07:38:20] petabytes, zetabytes
+[00:07:38:20 --> 00:07:40:09] se eu não me engano, vou trazer aqui
+[00:07:40:09 --> 00:07:42:01] só para vocês terem essa
+[00:07:42:01 --> 00:07:44:10] Essa visualização aqui também.
+[00:07:47:20 --> 00:07:47:22] Aqui, ó
+[00:07:50:11 --> 00:07:52:25] Então são 149 zettabytes.
+[00:07:53:01 --> 00:07:55:26] Um zettabyte é um bilhão de terabytes.
+[00:07:56:07 --> 00:08:03:05] Então são 149 bilhões de terabytes gerados de dados em 2024.
+[00:08:03:12 --> 00:08:06:10] Isso aqui não é todos os dados que as IAs absorvem.
+[00:08:06:12 --> 00:08:08:26] Isso aqui foi todo o dado gerado em 2024.
+[00:08:10:19 --> 00:08:12:08] E aí, qual é o próximo passo? Olha que interessante.
+[00:08:12:16 --> 00:08:16:13] Eu vou tirar aqui a busca e eu vou colar a imagem que eu tirei o print.
+[00:08:16:29 --> 00:08:22:03] Agora, o que eu vou fazer é pedir para a LLM me explicar de um jeito simples
+[00:08:22:28 --> 00:08:24:25] como funciona a arquitetura de transformers.
+[00:08:24:25 --> 00:08:26:07] Então, olha que interessante. Me explique.
+[00:08:29:03 --> 00:08:31:28] de um jeito simples, como funciona.
+[00:08:33:16 --> 00:08:37:05] arquitetura de Transformers. Não sou
+[00:08:38:21 --> 00:08:41:18] Não tenho um perfil técnico.
+[00:08:42:03 --> 00:08:43:22] Apenas quero compreender.
+[00:08:44:16 --> 00:08:47:08] Ela vai pegar essa imagem que eu acabei de mandar para ela
+[00:08:47:08 --> 00:08:50:15] e vai explicar para a gente o que são esses bloquinhos.
+[00:08:50:16 --> 00:08:53:03] O que é um embedding, o que é um multi-head attention.
+[00:08:53:16 --> 00:08:54:28] A gente vai conseguir ver isso melhor.
+[00:08:55:04 --> 00:08:55:22] Então, olha que interessante.
+[00:08:56:01 --> 00:08:56:20] O básico.
+[00:08:57:01 --> 00:08:59:05] Dois grandes blocos que eu expliquei para vocês.
+[00:08:59:12 --> 00:09:00:19] Encoder e decoder.
+[00:09:00:25 --> 00:09:02:06] Do jeito mais simples possível.
+[00:09:02:09 --> 00:09:04:24] O encoder lê o texto e entende o contexto.
+[00:09:05:02 --> 00:09:07:01] Ele compreende a informação.
+[00:09:07:01 --> 00:09:14:13] a informação. O decoder usa essa compreensão para gerar uma resposta. Isso é o mínimo possível.
+[00:09:14:18 --> 00:09:19:25] Então quando a gente volta para cá, é o mínimo. A coluna da esquerda aqui, encoder, compreende a
+[00:09:19:25 --> 00:09:25:16] informação. A coluna da direita usa essa compreensão para gerar uma resposta. Na base é isso. Parte 1,
+[00:09:25:19 --> 00:09:30:04] o que faz o encoder? Pense no encoder como alguém que lê um parágrafo inteiro e pensa,
+[00:09:30:09 --> 00:09:35:15] ok, entendi o que está sendo dito. Esse é o primeiro passo. É isso que ele faz. Ele transforma
+[00:09:35:15 --> 00:09:37:13] cada palavra em números, igual
+[00:09:37:13 --> 00:09:39:21] eu expliquei para vocês, depois junta tudo isso
+[00:09:39:21 --> 00:09:41:06] com o contexto. Por exemplo,
+[00:09:41:07 --> 00:09:43:16] entende que banco pode ser um
+[00:09:43:16 --> 00:09:45:18] lugar para sentar ou uma instituição financeira
+[00:09:45:18 --> 00:09:47:28] dependendo das palavras próximas
+[00:09:47:28 --> 00:09:49:20] a ele. Usa algo
+[00:09:49:20 --> 00:09:51:16] chamado attention para
+[00:09:51:16 --> 00:09:53:21] dar mais foco a partes importantes
+[00:09:53:21 --> 00:09:55:18] da frase. Resultado, uma espécie
+[00:09:55:18 --> 00:09:57:12] de mapa mental. Esse é o objetivo
+[00:09:57:12 --> 00:09:59:19] aqui. Ele vai trazer aqui para a gente o que é
+[00:09:59:19 --> 00:10:01:06] multi-head attention e feed forward.
+[00:10:01:15 --> 00:10:03:13] Eu vou explicar isso para vocês. O que
+[00:10:03:13 --> 00:10:08:09] O que faz o decoder? O decoder usa esse mapa mental para escrever a resposta.
+[00:10:08:15 --> 00:10:09:25] Uma palavra de cada vez.
+[00:10:10:14 --> 00:10:13:25] Mas aqui tem um detalhe. Ele não vê o futuro da resposta.
+[00:10:14:05 --> 00:10:16:28] Ele só pode olhar o que já foi escrito até o momento.
+[00:10:17:05 --> 00:10:20:26] Isso chama de Masked Attention, que é essa parte que eu trouxe para vocês aqui.
+[00:10:21:18 --> 00:10:22:29] Masked Mood Head Attention.
+[00:10:24:29 --> 00:10:32:20] A cada palavra gerada, ele pergunta, com o que eu já escrevi e com o que eu entendi, qual a próxima palavra mais provável?
+[00:10:33:06 --> 00:10:35:02] E ele vai montando a frase.
+[00:10:35:17 --> 00:10:38:08] Esse processo se reparete até gerar a frase completa.
+[00:10:39:04 --> 00:10:44:19] Aqui, porque é poderoso entender o significado completo do texto, não só palavra por palavra, igual eu falei para vocês,
+[00:10:44:24 --> 00:10:50:25] isso aqui é gestalt pura, entender o significado do todo e não só o significado da palavra, porque ele pode se embaralhar.
+[00:10:50:25 --> 00:10:55:15] O caso aqui do banco foi perfeito, porque banco pode significar várias coisas diferentes.
+[00:10:55:23 --> 00:10:59:11] É como folha. Folha pode ser a folha da árvore ou a folha de um caderno.
+[00:10:59:15 --> 00:11:07:02] E aí, se ele entende o contexto todo primeiro e depois quebra isso, é melhor e ele compreende mais o que ele precisa responder.
+[00:11:08:26 --> 00:11:11:04] Usar a atenção para focar no que é mais importante.
+[00:11:11:11 --> 00:11:15:25] Gerar respostas coerentes e contextualizadas, como se estivesse realmente pensando.
+[00:11:15:29 --> 00:11:19:29] Coloque entre aspas porque não é o pensamento exatamente igual ao pensamento humano.
+[00:11:20:07 --> 00:11:21:26] Agora, olha só o que a gente vai fazer.
+[00:11:22:02 --> 00:11:23:07] Me explique...
+[00:11:24:15 --> 00:11:24:25] Que é?
+[00:11:26:17 --> 00:11:29:29] O Mood, Head, Attention.
+[00:11:35:03 --> 00:11:44:10] Essa conversa aqui, para ir explicando para vocês em tempo real, tudo que foi conversado aqui agora faz parte do contexto da LLM aqui, no caso chat GPT-4O.
+[00:11:44:14 --> 00:11:48:05] Então agora não é como se eu estivesse começando a conversa do zero.
+[00:11:48:13 --> 00:11:52:29] Agora ele já usa tudo o que foi gerado para continuar a conversa.
+[00:11:52:29 --> 00:11:54:29] Então meu prompt não é mais só esse.
+[00:11:55:03 --> 00:11:58:17] Ele está pegando toda essa informação para me trazer a próxima resposta.
+[00:11:58:26 --> 00:12:00:10] Isso é o que a gente chama de contexto.
+[00:12:01:27 --> 00:12:05:19] Vamos entender o que é multi-head attention, de forma simples e com uma metáfora clara.
+[00:12:05:22 --> 00:12:06:21] Primeiro, o que é attention?
+[00:12:06:29 --> 00:12:09:26] O mecanismo de atenção é como a Iá dizendo.
+[00:12:10:03 --> 00:12:15:01] Enquanto analiso essa palavra, em quais outras partes da frase devo prestar mais atenção
+[00:12:15:01 --> 00:12:16:07] para entender melhor o contexto?
+[00:12:16:17 --> 00:12:19:15] Por exemplo, na frase, o gato viu o rato e ele correu.
+[00:12:19:17 --> 00:12:25:26] Para saber quem correu, o gato ou o rato, o modelo usa atenção para olhar o que vem
+[00:12:25:26 --> 00:12:27:08] antes da palavra ele.
+[00:12:27:12 --> 00:12:29:25] Assim, pode inferir o sentido certo.
+[00:12:31:05 --> 00:12:32:13] Como que a IA foi treinada, Juan?
+[00:12:32:15 --> 00:12:37:01] Eles foram lendo livros de gramática para ela de todas as línguas e ela memorizou isso?
+[00:12:37:08 --> 00:12:39:06] Não. Isso é um ponto muito importante.
+[00:12:39:13 --> 00:12:47:22] Na verdade, a IA encontrou sentido fazendo muitas relações diferentes entre as informações que ela tinha.
+[00:12:48:02 --> 00:12:52:01] Então, principalmente, os modelos foram treinados, muitos deles com inglês.
+[00:12:52:03 --> 00:12:54:19] E aí você joga muitos livros, muitos documentos.
+[00:12:54:19 --> 00:12:57:13] A IA vai encontrando padrões entre esses elementos.
+[00:12:57:13 --> 00:13:03:26] documentos você pode sim colocar rótulos nas informações e esses rótulos vão direcionando
+[00:13:03:26 --> 00:13:10:08] melhor aí a para onde ela quer e depois você pode inclusive fazer ajustes para mudar a resposta dela
+[00:13:10:08 --> 00:13:15:10] de acordo com o seu desejo tem como fazer isso agora beleza a gente já entendeu o que é a
+[00:13:15:10 --> 00:13:20:15] tensão mas o real peso vem aqui é muito rádio atenção vamos pegar aqui para vocês verem é como
+[00:13:20:15 --> 00:13:26:04] ter vários focos de atenção ao mesmo tempo cada cabeça foca em algo diferente metáfora vários
+[00:13:26:04 --> 00:13:28:03] vários leitores. Imagine
+[00:13:28:03 --> 00:13:29:22] que você tem vários leitores diferentes
+[00:13:29:22 --> 00:13:31:29] lendo a mesma frase. Cada um
+[00:13:31:29 --> 00:13:33:26] foca em um aspecto. Um presta atenção
+[00:13:33:26 --> 00:13:36:00] em quem está fazendo a ação, o outro
+[00:13:36:00 --> 00:13:37:22] olha para tempos verbais, o outro
+[00:13:37:22 --> 00:13:40:00] emoções e intenção, o outro observa
+[00:13:40:00 --> 00:13:41:19] relações entre sujeito e objeto.
+[00:13:41:28 --> 00:13:43:20] Cada um desses leitores é uma
+[00:13:43:20 --> 00:13:45:19] cabeça de atenção. Então,
+[00:13:45:21 --> 00:13:47:28] se nós já entendemos que a IA precisa prestar atenção,
+[00:13:48:03 --> 00:13:49:28] como ela sabe o que é estrutura, o que é
+[00:13:49:28 --> 00:13:51:28] semântica, é o que nós vemos aqui
+[00:13:51:28 --> 00:13:53:27] nessa imagem. Está vendo que aqui está simulando algumas
+[00:13:53:27 --> 00:14:00:17] algumas setinhas, essas múltiplas cabeças de atenção, cada uma vai prestar atenção em um contexto específico
+[00:14:00:17 --> 00:14:05:06] dentro dessa informação, que pode ser, aqui no caso, como a gente está falando de LLMs,
+[00:14:05:08 --> 00:14:09:10] LLMs são Large Language Models, modelos de linguagem largo.
+[00:14:09:15 --> 00:14:12:00] Então, elas são focadas muito em texto, em palavras.
+[00:14:12:18 --> 00:14:19:28] Então, cada cabeça dessa vai prestar atenção em uma palavra específica dentro da frase
+[00:14:19:28 --> 00:14:21:22] E no contexto dessa palavra também.
+[00:14:21:23 --> 00:14:25:01] O tempo inteiro a palavra é colocada dentro do contexto geral.
+[00:14:25:13 --> 00:14:29:18] Aí a gente tem o feedforward, que acontece tanto aqui quanto depois no decoder também.
+[00:14:29:28 --> 00:14:31:28] Então é um minicérebro dentro do transformer.
+[00:14:32:07 --> 00:14:37:03] Ele é composto por duas camadas de neurônios artificiais simples, que são os perceptrons.
+[00:14:37:25 --> 00:14:39:16] Ah, eu não lembro o que é perceptron.
+[00:14:39:17 --> 00:14:41:07] Vamos para lá, que isso aqui é importante eu trazer.
+[00:14:41:12 --> 00:14:42:16] Então está aqui o perceptron.
+[00:14:43:23 --> 00:14:45:06] Esse do lado direito é o perceptron.
+[00:14:45:09 --> 00:14:48:11] O perceptron é um neurônio de máquina, digamos assim.
+[00:14:48:20 --> 00:14:51:14] Então, ele recebe os inputs, dá um peso para os inputs,
+[00:14:51:21 --> 00:14:53:02] some esses valores e entrega um output.
+[00:14:53:29 --> 00:14:56:02] Basicamente, o que a gente tem aqui no feedforward
+[00:14:56:02 --> 00:15:01:16] é uma retroalimentação com o que esses perceptrons,
+[00:15:01:17 --> 00:15:04:07] esses pequenos neurônios, estão recebendo de informação.
+[00:15:04:15 --> 00:15:07:00] Então, ele recebe e retroalimenta com o que ele recebeu.
+[00:15:07:17 --> 00:15:08:17] Para que isso serve?
+[00:15:08:26 --> 00:15:12:23] Permite o modelo transformar os dados em algo mais complexo e útil
+[00:15:12:23 --> 00:15:14:20] depois de ter aplicado a atenção. Metáfora.
+[00:15:14:20 --> 00:15:16:21] É como ler algo, pensar por um
+[00:15:16:21 --> 00:15:18:19] momento e só então continuar
+[00:15:18:19 --> 00:15:20:19] a conversa. Resumindo essa primeira
+[00:15:20:19 --> 00:15:22:01] parte aqui então, volta pra cá.
+[00:15:22:12 --> 00:15:23:25] Nós temos aqui o input.
+[00:15:24:05 --> 00:15:26:12] Esse input é quebrado em dados pra IA
+[00:15:26:12 --> 00:15:28:27] interpretar esses dados. Eles são posicionados
+[00:15:28:27 --> 00:15:30:25] numa ordem de relevância.
+[00:15:31:12 --> 00:15:32:16] Passam por múltiplas
+[00:15:32:16 --> 00:15:34:09] cabeças de atenção, ou seja, eles ganham
+[00:15:34:09 --> 00:15:36:15] pesos diferentes. Cada cabeça dessa
+[00:15:36:15 --> 00:15:38:09] vai focar em um tipo diferente de peso.
+[00:15:38:18 --> 00:15:40:06] Isso tudo é somado
+[00:15:40:06 --> 00:15:42:05] dentro do addNorm aqui.
+[00:15:42:05 --> 00:15:43:23] aqui, normalizado para ter uma mesma
+[00:15:43:23 --> 00:15:46:00] coerência, jogado aqui no feed forward
+[00:15:46:00 --> 00:15:47:24] para ir como se ela estivesse
+[00:15:47:24 --> 00:15:49:27] refletindo, pensando um pouco sobre
+[00:15:49:27 --> 00:15:52:00] o que ela gerou, jogado aqui
+[00:15:52:00 --> 00:15:53:24] de novo para normalizar e depois vem
+[00:15:53:24 --> 00:15:55:07] aqui para o decoder.
+[00:15:56:11 --> 00:15:58:00] Enquanto isso, o que o decoder faz?
+[00:15:58:07 --> 00:15:59:21] Ele tem aqui o output embedding
+[00:15:59:21 --> 00:16:00:27] que também vai
+[00:16:02:05 --> 00:16:03:07] compreender as palavras
+[00:16:03:07 --> 00:16:04:29] por meio de números,
+[00:16:05:26 --> 00:16:08:04] passa pelo positional encoding que vai organizar
+[00:16:08:04 --> 00:16:09:14] isso dentro de uma lógica
+[00:16:09:14 --> 00:16:12:08] e joga aqui no MaskedMultiHeadAttention.
+[00:16:12:11 --> 00:16:14:08] O que é MaskedMultiHeadAttention?
+[00:16:14:14 --> 00:16:16:21] Ele vai fazer o mesmo processo que ele fez aqui,
+[00:16:16:26 --> 00:16:20:03] só que agora com a frase que ele começou a construir.
+[00:16:20:23 --> 00:16:23:15] Só que ele vai fazer isso sem ver o que o encoder já fez.
+[00:16:23:17 --> 00:16:25:23] Repara que a setinha do encoder só vai entrar aqui no meio.
+[00:16:26:00 --> 00:16:29:01] Isso é o que é chamado de não ver o futuro.
+[00:16:29:09 --> 00:16:30:20] Lembra que a Yaa falou isso aqui?
+[00:16:30:23 --> 00:16:31:21] Que ele não vê o futuro?
+[00:16:31:29 --> 00:16:33:06] Ele não vê o futuro porque,
+[00:16:33:11 --> 00:16:36:19] apesar de o encoder já ter interpretado isso,
+[00:16:36:19 --> 00:16:43:00] Isso, primeiro, ele sozinho vai dar os pesos para o início da resposta que ele começou a construir.
+[00:16:43:03 --> 00:16:45:07] Aqui tem um exemplo, o rato roubou a roupa.
+[00:16:45:08 --> 00:16:49:21] Isso foi o início da resposta que ele basicamente pegou as palavras que já estavam na pergunta.
+[00:16:50:06 --> 00:16:55:11] E aí depois disso que ele tritura isso e organiza em uma lógica que faça sentido,
+[00:16:56:05 --> 00:16:58:20] ele tritura em números e joga no decoder.
+[00:16:58:20 --> 00:17:00:28] Quando ele joga aqui, cadê a outra imagem?
+[00:17:03:13 --> 00:17:05:28] Aí a gente tem outro multi-head attention, desse aqui.
+[00:17:06:04 --> 00:17:07:10] Para que outro desse?
+[00:17:07:18 --> 00:17:09:13] Para definir mais pesos.
+[00:17:09:14 --> 00:17:11:11] Agora, levando o que em consideração?
+[00:17:11:17 --> 00:17:15:20] Levando o input em consideração com os pesos que a IA já deu para cada palavra,
+[00:17:15:26 --> 00:17:20:24] peso em vários tipos de pesos diferentes, multi-head, múltiplas cabeças.
+[00:17:21:22 --> 00:17:27:00] Junta tudo isso também com os pesos mascarados que o output já deu,
+[00:17:27:22 --> 00:17:29:26] junta tudo isso e dá novos pesos.
+[00:17:30:05 --> 00:17:31:20] É basicamente isso que ele está fazendo.
+[00:17:31:20 --> 00:17:37:13] Deu novos pesos, normaliza, faz mais uma interpretação disso tudo, normaliza.
+[00:17:37:17 --> 00:17:41:02] Me digam aí no chat se pelo menos eu estou conseguindo simplificar um pouco para vocês.
+[00:17:43:16 --> 00:17:46:18] Me explique o que é linear e softmax.
+[00:17:46:22 --> 00:17:49:07] Eu estou querendo, de um jeito simples,
+[00:17:49:19 --> 00:17:51:19] eu estou querendo deixar o mais simples possível.
+[00:17:51:24 --> 00:17:54:16] Tem coisas que não tem como simplificar muito,
+[00:17:54:22 --> 00:17:57:28] porque a própria natureza é essa, o processo é isso,
+[00:17:57:28 --> 00:17:58:28] essas são as etapas.
+[00:17:59:00 --> 00:18:01:10] Mas eu estou querendo deixar o mínimo técnico possível
+[00:18:01:10 --> 00:18:03:03] para que vocês possam compreender.
+[00:18:03:10 --> 00:18:05:27] Então, quem está assistindo ao vivo, comenta aí o que vocês estão achando.
+[00:18:06:07 --> 00:18:08:04] Então, linear, uma camada matemática simples
+[00:18:08:04 --> 00:18:10:25] que transforma os números internos da rede,
+[00:18:10:25 --> 00:18:15:25] chamado vetores de ativação, em outros números com o mesmo formato do vocabulário.
+[00:18:16:00 --> 00:18:19:07] Então, esse linear faz o outro processo de converter os números agora,
+[00:18:19:14 --> 00:18:24:19] através de matemática simples, no mesmo formato do input que ele recebeu.
+[00:18:25:15 --> 00:18:27:24] Metáfora. Pense que o modelo está pensando em algo abstrato.
+[00:18:27:27 --> 00:18:31:04] A camada linear traduz esse pensamento para o idioma do dicionário da IA.
+[00:18:31:06 --> 00:18:34:08] Ou seja, cria uma pontuação para cada palavra conhecida.
+[00:18:34:18 --> 00:18:37:00] Imagine que o modelo está prestes a prever a próxima palavra.
+[00:18:37:00 --> 00:18:41:23] O linear transforma o que ele entendeu da frase anterior em uma lista de números.
+[00:18:43:05 --> 00:18:45:02] para cada palavra possível do vocabulário.
+[00:18:46:14 --> 00:18:50:09] O linear é a camada final de pesos que ele está dando para isso.
+[00:18:50:12 --> 00:18:51:09] E o que é o softmax?
+[00:18:51:16 --> 00:18:55:00] É a função que transforma os números do linear em probabilidade,
+[00:18:55:00 --> 00:18:58:24] ou seja, valores entre 0 e 1 que somam 100%.
+[00:18:59:11 --> 00:19:01:28] É como pegar todas as opções possíveis,
+[00:19:01:28 --> 00:19:04:00] com base nas pontuações,
+[00:19:04:03 --> 00:19:07:28] aqui está o quanto cada palavra é provável como próxima palavra.
+[00:19:08:08 --> 00:19:11:27] Se os números vindos do linear forem gato, 1.2,
+[00:19:11:27 --> 00:19:14:09] correr 2.4, nuvem
+[00:19:14:09 --> 00:19:15:04] menos 3
+[00:19:15:04 --> 00:19:18:14] tem 25% de chance de ser gato
+[00:19:18:14 --> 00:19:20:13] 70% de chance de ser correr
+[00:19:20:13 --> 00:19:22:10] 5% de chance de ser nuvem
+[00:19:22:10 --> 00:19:24:06] e aí a partir disso ele escolhe
+[00:19:24:06 --> 00:19:25:19] a melhor opção, então
+[00:19:26:12 --> 00:19:27:06] recapitulando aqui
+[00:19:28:16 --> 00:19:31:20] Se antes ele estava trabalhando com multi-head attention,
+[00:19:31:24 --> 00:19:34:20] dando atenção e peso para várias possibilidades diferentes,
+[00:19:35:01 --> 00:19:38:07] depois ele interpreta tudo isso, ainda ele tem várias camadas.
+[00:19:38:07 --> 00:19:40:05] Pense em várias respostas possíveis.
+[00:19:40:12 --> 00:19:46:13] Agora, o linear vai servir para, primeiro, encontrar essa probabilidade.
+[00:19:47:21 --> 00:19:50:14] A ideia de linear vem disso também, então eu penso em...
+[00:19:50:14 --> 00:19:52:10] Deixa eu voltar para cá, para vocês visualizarem.
+[00:19:52:25 --> 00:19:56:14] Tem múltiplas camadas de interpretação possíveis.
+[00:19:56:14 --> 00:20:00:26] O linear vai deixar isso em uma camada linear com pesos específicos
+[00:20:00:26 --> 00:20:04:06] para cada uma das opções possíveis que ele tem de resposta.
+[00:20:04:21 --> 00:20:09:18] De todas essas, ele dá os pesos e o softmax é o que vai probabilisticamente olhar.
+[00:20:09:22 --> 00:20:14:01] Tem mais chance de ser gato do que de ser nuvem, por exemplo, nessa resposta.
+[00:20:14:08 --> 00:20:16:20] E o que vai trazer aqui é a probabilidade.
+[00:20:16:20 --> 00:20:18:11] Então tem o Output Probabilities
+[00:20:18:29 --> 00:20:20:04] Vamos trazer para cá
+[00:20:21:28 --> 00:20:27:02] E aí ele escolhe, depois dessas probabilidades, ele escolhe a que faz mais sentido para completar aquela frase.
+[00:20:27:05 --> 00:20:27:28] Beleza, eu entendi.
+[00:20:27:28 --> 00:20:31:27] São duas colunas, uma coluna interpreta, a outra coluna constrói a resposta.
+[00:20:32:09 --> 00:20:33:13] Isso é o mais importante.
+[00:20:33:19 --> 00:20:36:08] Só que, por que eu quis mostrar isso tudo aqui para vocês?
+[00:20:36:12 --> 00:20:39:03] Qual que é o maior aprendizado que eu quero trazer nessa primeira parte?
+[00:20:39:12 --> 00:20:42:17] A Iala não pensa exatamente como os seres humanos pensam.
+[00:20:42:18 --> 00:20:47:25] Ela atribui pesos diferentes para cada um daqueles tokens.
+[00:20:47:25 --> 00:20:49:19] tokens. Guardem essas palavras porque
+[00:20:49:19 --> 00:20:51:26] elas são muito importantes dentro do aprendizado
+[00:20:51:26 --> 00:20:52:22] de inteligência artificial.
+[00:20:53:10 --> 00:20:55:16] Token é a menor unidade de medida do
+[00:20:55:16 --> 00:20:57:18] input que você enviou. Então, ela
+[00:20:57:18 --> 00:20:58:25] quebra todo o input
+[00:20:58:25 --> 00:21:00:29] no mais indivisível possível.
+[00:21:01:09 --> 00:21:03:04] Isso é chamado de token.
+[00:21:03:15 --> 00:21:05:26] Esse token, depois, é transformado
+[00:21:05:26 --> 00:21:07:29] em embedding. O que é esse embedding?
+[00:21:08:01 --> 00:21:09:16] Esse embedding é uma
+[00:21:09:16 --> 00:21:11:20] sequência de números, que são chamadas
+[00:21:11:20 --> 00:21:13:21] de dimensões, que podem ser
+[00:21:13:21 --> 00:21:15:13] muitas. Vocês viram que o chat de APT4
+[00:21:15:13 --> 00:21:16:25] tem 12.288.
+[00:21:16:25 --> 00:21:24:00] E essa sequência de números, à medida que esse token vai passando pelos neurônios,
+[00:21:24:02 --> 00:21:31:12] ele vai sendo reinterpretado e ganhando novos pesos ali, novos embeddings, números diferentes lá dentro.
+[00:21:31:16 --> 00:21:35:25] Esses pesos são dados pelas múltiplas cabeças de atenção.
+[00:21:36:19 --> 00:21:43:01] Essas múltiplas cabeças de atenção vão dando pesos específicos e vão interpretando de novo cada um daqueles tokens.
+[00:21:43:02 --> 00:21:46:09] Isso aqui é insanamente complexo.
+[00:21:47:01 --> 00:21:52:23] Então, quando eu falo para vocês, eu mostrei isso aqui para vocês na aula de...
+[00:21:54:26 --> 00:21:56:13] na aula de História das Iás.
+[00:21:57:26 --> 00:21:58:25] Vou colocar em tela cheia.
+[00:21:58:29 --> 00:21:59:23] Eu mostrei isso aqui para vocês.
+[00:21:59:27 --> 00:22:02:16] Isso aqui é uma representação muito limitada do que acontece.
+[00:22:02:26 --> 00:22:06:06] Mas aqui mesmo já é muito difícil entender o caminho
+[00:22:06:06 --> 00:22:10:08] que cada parâmetro desse, a linha é o parâmetro, é o peso.
+[00:22:10:20 --> 00:22:12:24] A gente tem os neurônios com essas bolinhas,
+[00:22:12:26 --> 00:22:14:18] aqui são os neurônios intermediários.
+[00:22:14:24 --> 00:22:19:27] Cada neurônio desse vai fazer uma soma com os inputs que ele recebe
+[00:22:19:27 --> 00:22:22:26] e vai devolver outputs que vai passar para o próximo neurônio.
+[00:22:22:28 --> 00:22:24:23] Então, é um neurônio conectado no outro.
+[00:22:24:23 --> 00:22:30:05] outro. Esses neurônios vão reinterpretando cada uma das palavras dentro de um contexto específico.
+[00:22:30:06 --> 00:22:35:29] E lá no final, quando a gente volta para cá de novo, aí as coisas começam a fazer mais sentido,
+[00:22:36:02 --> 00:22:41:06] que é o quê? Depois que ele deu todos esses pesos, passou por todo esse processo, reinterpretou,
+[00:22:41:07 --> 00:22:47:26] fez feedforward, normalizou, a gente tem aqui no finalzinho as camadas que vão pegar todas essas
+[00:22:47:26 --> 00:22:57:12] essas possibilidades, todos esses pesos, olhando para o contexto como um todo, e vão falar, olha, tem mais chance de ser o D do que o E.
+[00:22:57:23 --> 00:23:06:16] Tem 70% de chance da palavra aqui ser D e não com. Tem 80% de chance de ser você e não gato.
+[00:23:07:00 --> 00:23:15:19] Gato tem 1% de chance, você tem 60%. E aí, probabilisticamente, ele monta a frase juntando o seu contexto com os parâmetros que ele já tem no treinamento dele,
+[00:23:15:19 --> 00:23:20:09] dele com os ajustes que já foram feitos nele também no final
+[00:23:21:19 --> 00:23:23:13] O que então nós temos de influência?
+[00:23:24:23 --> 00:23:29:04] O que eu quero que vocês pensem para a gente ir para a próxima parte prática disso aqui?
+[00:23:29:07 --> 00:23:31:06] O que nós temos de influência aqui?
+[00:23:31:10 --> 00:23:32:12] Vamos voltar para cá.
+[00:23:33:00 --> 00:23:33:24] Primeira influência.
+[00:23:35:05 --> 00:23:35:24] O aprendizado.
+[00:23:36:06 --> 00:23:38:03] Então, tem o aprendizado supervisionado.
+[00:23:38:09 --> 00:23:39:07] Assiste, se você...
+[00:23:39:07 --> 00:23:40:00] Vou reforçar.
+[00:23:40:03 --> 00:23:42:01] Se você está achando um pouco confuso,
+[00:23:42:03 --> 00:23:44:22] vale a pena você assistir o minicurso de História das IAs.
+[00:23:44:27 --> 00:23:45:22] Para criativos.
+[00:23:45:25 --> 00:23:48:07] Também eu busco simplificar o máximo para a gente aqui, tá?
+[00:23:48:10 --> 00:23:50:03] Mas vamos pegar esse ponto aqui.
+[00:23:50:07 --> 00:23:51:19] Deixa eu colocar assim.
+[00:23:52:25 --> 00:23:54:01] Então, o que a gente tem primeiro?
+[00:23:54:09 --> 00:23:55:00] Sai daqui, cara.
+[00:23:55:14 --> 00:23:56:22] Ele fica aqui, olha que coisa feia.
+[00:23:57:28 --> 00:24:00:13] Vou inclusive me passar para cá, porque aí na gravação...
+[00:24:02:27 --> 00:24:03:11] Ficou bonitinho.
+[00:24:04:08 --> 00:24:06:27] Então, aqui, nós temos tipos de aprendizado,
+[00:24:07:01 --> 00:24:08:29] supervisionado, não supervisionado e por reforço.
+[00:24:09:04 --> 00:24:10:24] Essa é a primeira influência que nós temos.
+[00:24:11:00 --> 00:24:13:16] A segunda influência, depois de escolher o tipo de aprendizado,
+[00:24:13:23 --> 00:24:16:22] que podem ser os três, podem ser só dois, pode ser só um,
+[00:24:16:24 --> 00:24:20:18] é a influência que você tem nos inputs que você joga para o treinamento.
+[00:24:20:24 --> 00:24:22:28] Então, você escolhe os inputs que está jogando ali.
+[00:24:23:03 --> 00:24:25:09] É uma das primeiras variáveis que você tem.
+[00:24:25:15 --> 00:24:26:19] Precisam ser muitos inputs.
+[00:24:27:10 --> 00:24:29:10] Outra variável que você pode ter são rótulos,
+[00:24:29:13 --> 00:24:31:09] que pode ou não ter rótulos, está vendo?
+[00:24:31:09 --> 00:24:35:28] e aí a gente começa a lidar com os pesos e com os neurônios intermediários.
+[00:24:36:01 --> 00:24:37:01] A gente tem eles aqui.
+[00:24:38:18 --> 00:24:39:20] Neurônios intermediários.
+[00:24:40:12 --> 00:24:41:21] Essa é outra influência.
+[00:24:41:24 --> 00:24:46:10] Quantos neurônios intermediários haverão e quantos parâmetros serão trabalhados?
+[00:24:46:19 --> 00:24:51:01] Quando a gente for ver o tamanho das IAs, vocês vão ver que isso tem relação com os parâmetros delas.
+[00:24:51:23 --> 00:24:55:03] Uma vez que a gente entende, então, que eu posso influenciar o input,
+[00:24:55:17 --> 00:25:00:18] posso influenciar o treinamento, posso influenciar os parâmetros e as camadas intermediárias
+[00:25:00:18 --> 00:25:02:15] em questão de quantas eu quero colocar ali.
+[00:25:02:15 --> 00:25:04:29] mas o processo
+[00:25:04:29 --> 00:25:06:16] que isso aqui acontece
+[00:25:06:16 --> 00:25:08:11] ele também pode ser influenciado
+[00:25:08:11 --> 00:25:10:21] inclusive tem umas tecnologias muito legais
+[00:25:10:21 --> 00:25:12:10] que fazem basicamente o que?
+[00:25:12:13 --> 00:25:14:21] elas fazem como se fosse uma ressonância da mente
+[00:25:14:21 --> 00:25:16:16] muito louco, mas isso aí a gente deixa pra
+[00:25:16:16 --> 00:25:18:22] depois, estava conversando isso com o Rafael outro dia
+[00:25:18:22 --> 00:25:21:01] mas influencia isso aqui também
+[00:25:21:01 --> 00:25:22:22] depois que você tem a rede neural
+[00:25:22:22 --> 00:25:24:06] pronta, deixa eu ver se está pra cá
+[00:25:24:06 --> 00:25:26:22] está pronta, agora você pode
+[00:25:26:22 --> 00:25:28:29] começar a influenciar ela, modelar ela
+[00:25:28:29 --> 00:25:30:02] fazer ajustes
+[00:25:30:02 --> 00:25:31:18] Então você começa a falar
+[00:25:31:18 --> 00:25:33:01] Sempre que alguém perguntar
+[00:25:34:07 --> 00:25:36:14] Qual é o animal mais fofinho do mundo
+[00:25:36:14 --> 00:25:38:11] Você não vai responder o gatinho
+[00:25:38:11 --> 00:25:39:27] Você vai responder que é o jacaré
+[00:25:39:27 --> 00:25:41:20] Eu quero que você faça isso
+[00:25:41:20 --> 00:25:44:06] Você está influenciando o peso
+[00:25:45:29 --> 00:25:47:18] Nesse tipo de pergunta.
+[00:25:47:26 --> 00:25:48:27] Isso é fine-tuning.
+[00:25:49:01 --> 00:25:50:21] Você começa a influenciar o peso ali.
+[00:25:50:25 --> 00:25:53:07] Para que ela dê uma resposta igual você quer que ela dê.
+[00:25:53:10 --> 00:25:57:05] E aí você manipula a interpretação dessa IA.
+[00:25:57:14 --> 00:25:58:16] Com base nos pesos.
+[00:25:58:21 --> 00:26:00:11] Você está manipulando a probabilidade.
+[00:26:00:13 --> 00:26:03:02] Ao invés de falar para ela seguir exatamente a probabilidade.
+[00:26:03:02 --> 00:26:03:17] Você vai falar.
+[00:26:03:25 --> 00:26:06:01] Agora eu quero que aqui você responda.
+[00:26:06:01 --> 00:26:06:17] Sempre que for.
+[00:26:06:20 --> 00:26:08:01] Qual é o animal mais fofinho do mundo?
+[00:26:08:03 --> 00:26:08:22] Coloca jacaré.
+[00:26:08:29 --> 00:26:10:22] Sempre que alguém perguntar.
+[00:26:10:28 --> 00:26:13:22] Você vai responder com frases curtas.
+[00:26:13:22 --> 00:26:17:16] Isso tem relação também com o tamanho do output
+[00:26:17:16 --> 00:26:20:14] Mas você pode colocar lá sem mudar, sem fazer fine-tuning
+[00:26:20:14 --> 00:26:22:09] Mas você também pode fazer um fine-tuning falando
+[00:26:22:09 --> 00:26:24:20] Você sempre vai responder com metáforas
+[00:26:24:20 --> 00:26:26:24] Você pode colocar lá, você sempre vai responder
+[00:26:30:08 --> 00:26:33:07] Igual o mestre Yoda trocando as palavras de lugar.
+[00:26:33:12 --> 00:26:35:04] E aí você ajusta isso e ela começa a fazer isso.
+[00:26:36:18 --> 00:26:40:29] Tem como fazer o affine turning, que é depois que o modelo está pronto, eu ajusto ele.
+[00:26:41:04 --> 00:26:44:21] Mas também tem como eu treinar uma IA para ser o mestre Yoda.
+[00:26:45:04 --> 00:26:46:01] Qual que é a diferença?
+[00:26:46:07 --> 00:26:48:25] Um eu mexo no final, o outro eu mexo no início.
+[00:26:49:01 --> 00:26:54:16] Se eu vou treinar a IA do zero, eu vou pegar vários textos que o mestre Yoda escreveu, digamos assim,
+[00:26:54:23 --> 00:26:58:02] com o jeito dele de escrever, vou pegar vários textos com o jeito dele de falar,
+[00:26:58:15 --> 00:27:04:12] vou fazer todo aquele processo de machine learning, fazer ele dar os pesos e construir uma lógica diferente.
+[00:27:04:12 --> 00:27:08:13] Depois que ele construiu toda essa lógica, agora ele consegue falar igual o mestre Yoda.
+[00:27:08:15 --> 00:27:09:16] Também dá para fazer assim.
+[00:27:10:02 --> 00:27:12:28] Esse modelo, inclusive, é o modelo de multilanguage.
+[00:27:13:02 --> 00:27:17:01] Como que a Yaya entende português, inglês, francês, espanhol, alemão e por aí vai?
+[00:27:17:04 --> 00:27:21:07] Ela foi treinada para entender a lógica dessas outras línguas.

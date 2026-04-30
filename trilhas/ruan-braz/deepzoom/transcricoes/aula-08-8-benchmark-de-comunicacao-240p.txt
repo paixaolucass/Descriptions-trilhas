@@ -1,0 +1,708 @@
+# Video: 8._benchmark_de_comunicação (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-27 23:27
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:08 --> 00:00:04:10] Uma pergunta muito importante que deve ser respondida em toda a investigação de projeto
+[00:00:05:00 --> 00:00:05:15] é...
+[00:00:05:15 --> 00:00:08:11] Quais são os melhores projetos já realizados nessa área?
+[00:00:08:23 --> 00:00:11:29] Quem são as referências no mundo nesse cenário?
+[00:00:12:22 --> 00:00:14:11] Você já ouviu falar aquela frase, né?
+[00:00:14:14 --> 00:00:18:00] Eu miro na lua porque se eu errar, pelo menos eu acerto uma estrela.
+[00:00:18:18 --> 00:00:23:09] A verdade é que existe o paradigma da venida, que eu já contei pra vocês em outras aulas,
+[00:00:23:15 --> 00:00:27:17] que basicamente diz que, quando nós não temos boas referências, nós copiamos
+[00:00:27:17 --> 00:00:31:20] as referências que existem, de alguma maneira, o nosso repertório tende a fazer isso.
+[00:00:32:02 --> 00:00:36:18] E quando nós copiamos referências que não são boas, a chance que o nosso resultado
+[00:00:36:18 --> 00:00:37:28] não seja boa também é alta.
+[00:00:38:09 --> 00:00:40:28] E por isso é muito importante que a gente saia da caixinha.
+[00:00:41:09 --> 00:00:45:25] Às vezes você entra em um mercado diferente, vai atender uma empresa de advocacia, ou
+[00:00:45:25 --> 00:00:53:17] vai construir a marca de um pet shop, que seja, você vai se cercar dos paradigmas
+[00:00:53:17 --> 00:00:55:27] daquele mercado quando você faz a investigação.
+[00:00:55:27 --> 00:01:02:05] Você vai ver todas as marcas que existem, o que elas fazem, e eu acredito que é deixar
+[00:01:02:05 --> 00:01:08:15] muito potencial na mesa você se limitar apenas aos concorrentes locais ou até mesmo os concorrentes
+[00:01:08:15 --> 00:01:10:06] nacionais dos seus clientes.
+[00:01:10:08 --> 00:01:15:02] É muito importante que você olhe pro mundo e veja quem tá fazendo essa parada direito.
+[00:01:15:16 --> 00:01:19:26] É sobre isso que nós vamos falar nessa aula, que é a aula de benchmark de comunicação.
+[00:01:20:14 --> 00:01:25:27] Benchmark é uma palavra que significa, em tradução literal, ponto de referência.
+[00:01:26:09 --> 00:01:30:00] É muito utilizado no cenário de tecnologia, por exemplo, o desenvolvimento de softwares,
+[00:01:30:02 --> 00:01:35:21] quando a gente faz um benchmark do software para pegar um ponto de referência de melhor performance, por exemplo.
+[00:01:36:07 --> 00:01:37:21] Mas dá para fazer benchmark de tudo.
+[00:01:37:24 --> 00:01:43:10] Dá para fazer benchmark de pontos de referência de produtos, de experiências, de serviços,
+[00:01:43:18 --> 00:01:46:12] de qualidade do produto, de duração do produto.
+[00:01:46:12 --> 00:01:49:21] Deve fazer benchmark de tudo, benchmark de duração de uma bateria.
+[00:01:49:27 --> 00:01:51:01] Qual bateria dura mais?
+[00:01:51:08 --> 00:01:52:20] Qual bateria carrega mais rápido?
+[00:01:52:26 --> 00:01:54:07] Qual é o ponto de referência?
+[00:01:54:26 --> 00:01:57:22] Aqui nós vamos falar sobre o benchmark de comunicação,
+[00:01:57:26 --> 00:01:59:18] que é o que interessa para nós designers
+[00:01:59:18 --> 00:02:02:00] quando nós estamos criando identidades de marca.
+[00:02:02:11 --> 00:02:06:13] Nós queremos saber quais são as marcas que melhor comunicam
+[00:02:06:13 --> 00:02:08:05] com o público do nosso cliente.
+[00:02:08:29 --> 00:02:12:07] Lá em 2018, quando eu comecei a fazer o projeto da Fensor,
+[00:02:14:17 --> 00:02:16:03] eu tinha na minha frente um desafio,
+[00:02:16:03 --> 00:02:18:03] porque era um sistema de...
+[00:02:19:29 --> 00:02:20:26] de... pra...
+[00:02:20:26 --> 00:02:23:17] categoria de base de jogadores de futebol.
+[00:02:23:23 --> 00:02:26:04] Então os meninos que queriam ganhar atenção,
+[00:02:26:27 --> 00:02:27:29] esse sistema era pra eles.
+[00:02:28:03 --> 00:02:31:03] Era um sistema que os meninos se cadastravam,
+[00:02:31:04 --> 00:02:32:11] as meninas também né, claro,
+[00:02:32:23 --> 00:02:37:08] se cadastravam lá pra poder ser chamado pra um clube,
+[00:02:37:10 --> 00:02:39:11] pra poder fazer um teste e por aí vai.
+[00:02:39:14 --> 00:02:43:16] Saber onde que tava acontecendo os testes e por aí vai.
+[00:02:43:16 --> 00:02:50:16] E eu não sabia de quem que eu iria ter uma referência, porque os concorrentes desse
+[00:02:50:16 --> 00:02:54:17] meu cliente eram todos no quesito de marca e design muito ruins.
+[00:02:55:14 --> 00:03:00:21] Eles não tinham um bom design, nenhuma boa comunicação, muito menos uma boa marca.
+[00:03:01:17 --> 00:03:06:00] E aí eu me encontrei num cenário onde, o que eu vou fazer, de onde que eu vou tirar
+[00:03:06:00 --> 00:03:08:00] uma referência de caminho?
+[00:03:08:08 --> 00:03:10:19] Será que eu vou ter que trilhar esse caminho sozinho, do zero?
+[00:03:11:02 --> 00:03:12:08] E a verdade é que não.
+[00:03:13:05 --> 00:03:24:05] Muitas vezes, nós designers nos fechamos no mercado que nós estamos atuando, estamos fazendo a investigação lá, como eu disse, pet shop, pet focaccia, ou até mesmo um sistema de categoria de base de futebol.
+[00:03:24:17 --> 00:03:32:04] E nós começamos a estudar aquele mercado e nos fechamos nele, quando existe o mundo de possibilidades. E sabe o que eu fiz?
+[00:03:32:24 --> 00:03:41:03] Naquela época, eu comprei um jogo, era o FIFA 2018, na verdade, se eu não me engano, era o FIFA 2019, porque era mais para o final do ano.
+[00:03:42:11 --> 00:03:47:07] Eu comprei o FIFA 2019 e eu comecei a pesquisar empresas de futebol no mundo inteiro.
+[00:03:47:11 --> 00:03:51:15] Eu lembro que eu encontrei uma francesa que me deu muita referência também,
+[00:03:51:18 --> 00:03:53:27] que era um pouco parecido com isso de categoria de base,
+[00:03:54:18 --> 00:03:57:19] e era uma empresa que tinha um software interessante também.
+[00:03:57:25 --> 00:03:59:28] E eu comecei a interagir com esses softwares.
+[00:04:00:01 --> 00:04:02:24] Comecei a analisar esses softwares, tanto softwares quanto o jogo.
+[00:04:03:11 --> 00:04:05:16] Eu jogava FIFA, eu ficava olhando para a interface,
+[00:04:05:21 --> 00:04:07:23] qual que é a experiência que eles estão vendendo aqui.
+[00:04:08:10 --> 00:04:09:24] E tudo isso é referência.
+[00:04:09:24 --> 00:04:14:10] Então, eu fiz uma análise dessas marcas que conversam muito bem com o meu público, mesmo
+[00:04:14:10 --> 00:04:19:06] que não fossem concorrentes diretos do meu cliente, que estava aqui no Brasil, criando
+[00:04:19:06 --> 00:04:23:02] um sistema para categoria de base, que tinha outros concorrentes também.
+[00:04:23:21 --> 00:04:25:11] E isso me facilitou muito.
+[00:04:25:26 --> 00:04:31:10] Então, o benchmark de comunicação é uma ferramenta simples de utilizar, onde
+[00:04:31:10 --> 00:04:35:28] nós vamos analisar quais são as marcas que conversam bem com o público do nosso
+[00:04:35:28 --> 00:04:36:12] cliente.
+[00:04:36:12 --> 00:04:39:15] mas não necessariamente precisam ser marcas concorrentes,
+[00:04:39:21 --> 00:04:44:18] podem ser marcas de mercados paralelos que conversam com o mesmo público do que você.
+[00:04:45:03 --> 00:04:51:16] Por exemplo, o jogo FIFA, que conversa com os garotos que têm o sonho de se tornarem jogadores de futebol.
+[00:04:51:24 --> 00:04:52:02] Sacou?
+[00:04:53:00 --> 00:04:57:29] Então, eu vou colocar aqui do lado a tela pra vocês, a gente já está acostumado com isso,
+[00:04:58:07 --> 00:05:02:05] pra gente pegar algumas diretrizes de como fazer um bom benchmark de comunicação.
+[00:05:03:08 --> 00:05:05:01] Tem uma frase muito massa que diz, olha só,
+[00:05:05:08 --> 00:05:09:28] você só saberá que uma linha é torta quando colocá-la ao lado de uma reta.
+[00:05:10:02 --> 00:05:13:23] Você só sabe que está fazendo um bom caminho quando você tem uma referência.
+[00:05:13:29 --> 00:05:15:25] Você só sabe que está na direção certa
+[00:05:15:25 --> 00:05:21:05] quando você tem uma referência do que é certo e do que é errado para cada contexto.
+[00:05:22:05 --> 00:05:24:23] Nossos projetos precisam de boas referências.
+[00:05:25:04 --> 00:05:28:08] E é aqui na investigação que nós temos a oportunidade de fazer isso.
+[00:05:28:15 --> 00:05:31:28] Se o nosso papel aqui é enxugar, absorver o máximo de informação possível,
+[00:05:31:28 --> 00:05:36:11] Nós já fizemos a auditoria de negócio, a auditoria de mercado, a auditoria de público.
+[00:05:36:22 --> 00:05:37:24] Qual é o próximo passo?
+[00:05:37:27 --> 00:05:42:25] Quais são as informações que também vão nos ajudar muito a criar um bom projeto para
+[00:05:42:25 --> 00:05:44:03] os nossos clientes?
+[00:05:44:08 --> 00:05:47:16] Essas informações nós vamos conseguir aqui com o benchmark de comunicação.
+[00:05:48:00 --> 00:05:50:16] Como eu disse, eu quero reforçar isso muito para vocês.
+[00:05:51:02 --> 00:05:54:24] É um benchmark de comunicação, não é um benchmark de produto, não é um benchmark
+[00:05:54:24 --> 00:05:56:28] de experiência, que é um erro muito comum.
+[00:05:56:28 --> 00:06:02:17] Eu tenho alguns membros que eu já orientei eles e é muito comum você, por exemplo, começar
+[00:06:02:17 --> 00:06:06:22] a fazer um benchmark do mercado e começar a analisar a experiência do usuário.
+[00:06:06:25 --> 00:06:09:16] Aí você analisa a experiência do usuário e daqui a pouco você já está criando
+[00:06:09:16 --> 00:06:11:28] um planejamento estratégico para o negócio do seu cliente.
+[00:06:11:28 --> 00:06:12:14] Não é isso.
+[00:06:12:23 --> 00:06:15:09] Nós estamos aqui para fazer o design de identidade da marca.
+[00:06:16:05 --> 00:06:19:13] Essa ferramenta aqui é muito versátil, pode ser usada para várias coisas, mas nós
+[00:06:19:13 --> 00:06:20:26] temos que focar a nossa análise.
+[00:06:21:00 --> 00:06:22:22] Aqui o foco é a comunicação.
+[00:06:23:14 --> 00:06:26:17] E a pergunta que eu me faço, como eu disse para vocês, qual foi o melhor
+[00:06:26:17 --> 00:06:31:29] projeto feito nesse mercado? Quais são? Eu começo por aqui. Quais são as referências
+[00:06:31:29 --> 00:06:36:27] no mercado? Quais são os concorrentes que vale a pena ficar de olho, os concorrentes
+[00:06:36:27 --> 00:06:39:04] que eu admiro globalmente falando?
+[00:06:40:08 --> 00:06:44:10] Depois, você pode olhar também quais são as marcas que conversam muito bem com o meu
+[00:06:44:10 --> 00:06:44:19] público.
+[00:06:45:05 --> 00:06:51:05] Não necessariamente são concorrentes, mas são marcas que sabem despertar interesse
+[00:06:51:05 --> 00:06:55:21] e inspirar as outras pessoas desse mercado, os clientes desse mercado.
+[00:06:56:12 --> 00:07:00:02] Então, como eu disse, benchmark é uma análise de melhores práticas e aí vem
+[00:07:00:02 --> 00:07:03:16] aqui, dentro do ecossistema da marca do seu cliente.
+[00:07:03:29 --> 00:07:08:05] Melhores práticas dentro do ecossistema da marca do seu cliente, aqui focando principalmente
+[00:07:08:05 --> 00:07:10:02] no público e na comunicação.
+[00:07:10:15 --> 00:07:14:24] Não apenas a concorrência, mas qualquer marca que comunica muito bem com o seu público
+[00:07:14:24 --> 00:07:15:21] e stakeholder.
+[00:07:15:27 --> 00:07:17:21] A gente não vai deixar de fora aqui, né?
+[00:07:18:02 --> 00:07:20:03] Stakeholders são todos os envolvidos.
+[00:07:20:09 --> 00:07:21:14] Algumas diretrizes.
+[00:07:21:27 --> 00:07:24:00] Primeiro, evite o paradigma da avenida.
+[00:07:24:09 --> 00:07:26:27] É como eu disse, foque no que os melhores estão fazendo.
+[00:07:27:20 --> 00:07:30:28] Eu vou ter que, é inevitável, vou ter que contar qual que é o paradigma da avenida
+[00:07:30:28 --> 00:07:31:14] nessa aula, né?
+[00:07:31:14 --> 00:07:35:08] Não sei se você está chegando aqui de primeira, se você já sabe desse paradigma,
+[00:07:35:23 --> 00:07:37:14] mas é uma historinha que eu gosto de contar.
+[00:07:37:14 --> 00:07:43:01] Imagina uma cidade de interior que está começando a surgir agora.
+[00:07:43:08 --> 00:07:49:00] E aí, na única avenida dessa cidade, surge o primeiro negócio de negócio do Seu João, a mercearia.
+[00:07:49:23 --> 00:07:51:23] E o Seu João é o primeiro negócio daquela cidade.
+[00:07:51:24 --> 00:07:56:00] Era uma cidade tipicamente residencial, não tinha muitos negócios ali.
+[00:07:56:04 --> 00:07:58:14] E naquela avenida, principalmente, não havia nenhum negócio.
+[00:07:58:28 --> 00:08:00:13] E aí o Seu João abriu a mercearia dele.
+[00:08:00:18 --> 00:08:01:19] O tempo foi passando, né?
+[00:08:01:19 --> 00:08:05:12] O Seu João precisava de um jeito de se identificar, colocou a fachada dele.
+[00:08:05:12 --> 00:08:08:09] Ele fez mais ou menos do jeito dele, com a mão dele mesmo.
+[00:08:08:17 --> 00:08:10:17] Não ficou lá uma grande obra de design,
+[00:08:10:20 --> 00:08:12:03] mas identificava o negócio dele,
+[00:08:12:08 --> 00:08:13:20] todo mundo sabendo onde era a mercearia do Seu João.
+[00:08:14:03 --> 00:08:16:14] Como ela era a única mercearia que existia ali,
+[00:08:16:23 --> 00:08:19:15] ela teve um certo sucesso, todo mundo comprava lá, ela cresceu.
+[00:08:19:27 --> 00:08:26:16] Até que um dia, a Sebastiana viu que o Seu João
+[00:08:26:16 --> 00:08:27:29] estava fazendo muito sucesso com a mercearia,
+[00:08:28:03 --> 00:08:30:13] ela falou, esse ponto aqui é bom, as pessoas vêm muito para cá.
+[00:08:30:13 --> 00:08:35:07] eu vou abrir aqui a minha clínica de estética.
+[00:08:36:21 --> 00:08:38:12] Uma clínica de estética, enfim.
+[00:08:38:23 --> 00:08:40:12] Aí ela decide abrir uma clínica de estética.
+[00:08:40:13 --> 00:08:41:07] O que ela faz?
+[00:08:41:14 --> 00:08:43:22] Ela olha, seu João está tendo resultado,
+[00:08:43:29 --> 00:08:45:20] vou ver onde ele fez a fachada dele, vou fazer igual.
+[00:08:45:25 --> 00:08:47:05] Ela vai lá e copia o seu João.
+[00:08:47:20 --> 00:08:50:13] Porque se o seu João deu certo, talvez para ela vai dar certo.
+[00:08:50:24 --> 00:08:52:27] Faz mais ou menos do mesmo jeito, a fachada,
+[00:08:53:03 --> 00:08:55:12] não tem nenhuma boa referência de design ali,
+[00:08:55:21 --> 00:08:59:03] mas ela copiou ele porque a referência que ela tinha era ele.
+[00:08:59:03 --> 00:09:03:14] Então, ela abre a clínica de estética dela, como é a única clínica de estética da cidade,
+[00:09:03:29 --> 00:09:05:21] as pessoas vão lá e funcionam.
+[00:09:05:26 --> 00:09:09:18] Daqui a pouco aparece uma padaria que copiou a fachada da Sebastiânia e do seu João,
+[00:09:09:29 --> 00:09:13:11] daqui a pouco aparece um pet shop que copiou a mesma fachada,
+[00:09:13:14 --> 00:09:16:02] e no final, a avenida está cheia de negócios.
+[00:09:16:06 --> 00:09:19:17] Só que todos os negócios ali têm aquelas fachadas horríveis,
+[00:09:19:20 --> 00:09:21:23] aquelas fachadas que não têm nenhum cuidado com o design,
+[00:09:22:03 --> 00:09:25:04] nem mesmo dentro têm uma boa comunicação com o design.
+[00:09:25:15 --> 00:09:26:24] Quando é que chegou nesse ponto?
+[00:09:27:09 --> 00:09:32:07] E a verdade é que nós temos esse viés, nós tendemos a copiar o que nós achamos que é certo.
+[00:09:32:16 --> 00:09:37:26] Só que isso muitas vezes é um erro, porque ao invés de pensar qual é a melhor solução para aquilo,
+[00:09:38:04 --> 00:09:44:21] a gente simplesmente faz o que o outro faz, atribuindo o sucesso do outro a fatores isolados,
+[00:09:44:24 --> 00:09:46:00] ao invés de olhar como um todo.
+[00:09:46:12 --> 00:09:50:17] E isso acontece muito, é só você ir para essas cidades de interior e você vai ver o que mais tem
+[00:09:50:17 --> 00:09:55:15] é o paradigma da avenida, uma fachada copiada, a outra tudo muito ruim, nada com design muito bom.
+[00:09:55:15 --> 00:10:02:02] Com a globalização, as referências vão melhorando e aí fica mais fácil, mas definitivamente
+[00:10:02:02 --> 00:10:05:02] o que eu quero dizer aqui pra você é não se contente.
+[00:10:06:18 --> 00:10:09:28] os concorrentes com o nível daquele mercado.
+[00:10:10:16 --> 00:10:14:10] Olha para o mundo, olha para o maior nível possível que você pode, qual que é a maior
+[00:10:14:10 --> 00:10:19:26] referência porque, às vezes, de um jeito simples, você já traz uma mudança valiosa
+[00:10:19:26 --> 00:10:20:21] para o seu cliente.
+[00:10:20:22 --> 00:10:22:00] Então, vamos para a segunda diretriz.
+[00:10:22:02 --> 00:10:27:04] Aproveite o histórico do mercado, muitas boas decisões já foram tomadas.
+[00:10:27:20 --> 00:10:31:19] Esse também é um outro erro muito comum, ignorar o que já passou, ignorar a história.
+[00:10:31:27 --> 00:10:32:28] Quem nunca ouviu isso?
+[00:10:32:28 --> 00:10:39:01] O tempo passa e nós repetimos os mesmos erros, chegam novas gerações e erram exatamente do mesmo jeito.
+[00:10:39:13 --> 00:10:44:21] Sábios tem aquela outra analogia que o inteligente aprende com os próprios erros,
+[00:10:44:24 --> 00:10:47:12] o sábio aprende com o erro dos outros. É a mesma coisa aqui.
+[00:10:47:28 --> 00:10:49:21] Já existe um histórico do mercado.
+[00:10:50:02 --> 00:10:55:08] Estudar esse histórico vai te ajudar a aprender com o erro que outras pessoas cometeram antes.
+[00:10:56:01 --> 00:11:01:13] Então, se você está no mercado do seu cliente, vale a pena você olhar quais são as marcas que existem por mais tempo.
+[00:11:01:13 --> 00:11:04:28] E se elas possuem uma boa comunicação?
+[00:11:05:15 --> 00:11:10:04] Aqui eu falo de comunicação principalmente porque quando nós vamos criar o design de
+[00:11:10:04 --> 00:11:15:01] identidade de marcas, esse é o nosso foco principal, chamar a atenção e inspirar o
+[00:11:15:01 --> 00:11:16:27] público do nosso cliente a tomar uma ação.
+[00:11:17:16 --> 00:11:22:00] No caso escolher a marca do nosso cliente, se relacionar com ela e se tornar fiel a
+[00:11:22:00 --> 00:11:22:21] ela e por aí vai.
+[00:11:23:06 --> 00:11:27:13] Então nós temos que aproveitar esse histórico e o benchmark é uma excelente
+[00:11:27:13 --> 00:11:28:20] maneira de aproveitar.
+[00:11:28:20 --> 00:11:36:18] Eu gosto muito quando eu vou fazer projetos, por exemplo, projetos de interface e aí eu
+[00:11:36:18 --> 00:11:38:06] tenho que tomar alguma decisão de interface.
+[00:11:38:09 --> 00:11:39:02] Sabe o que eu faço?
+[00:11:39:21 --> 00:11:46:12] Eu vou para as grandes marcas, Netflix, Spotify, Instagram, TikTok.
+[00:11:47:18 --> 00:11:50:19] Eu pego grandes marcas e eu analiso a interface delas.
+[00:11:50:19 --> 00:11:51:13] Por quê?
+[00:11:51:18 --> 00:11:56:14] Porque essas grandes marcas já tem uma grande equipe que trabalha dia e noite
+[00:11:56:14 --> 00:12:00:18] como fazendo pesquisa, tomando decisões, vários olhares diferentes.
+[00:12:01:03 --> 00:12:03:05] Eles têm muito mais informação do que eu tenho.
+[00:12:03:16 --> 00:12:05:25] Então eu posso pegar carona, posso surfar isso,
+[00:12:06:03 --> 00:12:08:20] porque essas informações estão nítidas na nossa frente.
+[00:12:09:09 --> 00:12:10:25] Ah, Ron, você está falando para eu copiar?
+[00:12:11:04 --> 00:12:12:19] Não, estou falando para você estudar
+[00:12:12:19 --> 00:12:15:22] e entender por que certas decisões estão sendo tomadas.
+[00:12:15:27 --> 00:12:18:18] Pensa, imagina que você entrou no mercado
+[00:12:19:07 --> 00:12:22:27] de você vai atender um cliente que possui uma loja de roupas, certo?
+[00:12:23:00 --> 00:12:24:21] Possui uma loja de roupas.
+[00:12:24:21 --> 00:12:29:27] E aí você tá analisando os concorrentes locais. Por que não analisar marcas como
+[00:12:29:27 --> 00:12:36:04] Riaxuelo ou também como Nike, Adidas, que são globais, e entender como que elas conversam com
+[00:12:36:04 --> 00:12:41:09] o público delas? Claro, a comunicação vai ser diferente porque são públicos diferentes,
+[00:12:41:19 --> 00:12:45:18] marcas grandes têm públicos mais genéricos porque têm que atender vários segmentos de
+[00:12:45:18 --> 00:12:50:24] mercado. Mas ainda assim, você pode tirar conclusões interessantes porque essas marcas
+[00:12:50:24 --> 00:12:54:03] muita pesquisa e eles têm muito mais inteligência do que você.
+[00:12:54:13 --> 00:12:58:27] Então, aproveitar esse histórico do mercado é um jeito inteligente de tomar decisões.
+[00:12:59:07 --> 00:13:04:13] Nós que criamos esses projetos de 15, 20 mil reais, nós atendemos pequenas empresas.
+[00:13:05:03 --> 00:13:09:17] E quando nós atendemos essas pequenas empresas, muitas vezes você não vai ter uma grande
+[00:13:09:17 --> 00:13:11:19] equipe para fazer pesquisa.
+[00:13:11:24 --> 00:13:14:04] Muitas vezes vai ser você e mais uma pessoa.
+[00:13:15:11 --> 00:13:19:09] Então, aproveitar esse histórico, aproveitar os dados que já estão aí, vão te poupar
+[00:13:19:09 --> 00:13:21:25] muito tempo e esse é mais um benefício do benchmark.
+[00:13:22:18 --> 00:13:28:10] Foque é identificar as boas práticas relacionadas não só a relação, em relação à identidade
+[00:13:28:10 --> 00:13:32:01] visual, mas também a identidade verbal, o núcleo da marca, a estratégia, o posicionamento
+[00:13:32:01 --> 00:13:32:13] e por aí vai.
+[00:13:32:27 --> 00:13:36:09] Eu gosto muito de analisar a essência da marca, o primeiro passo.
+[00:13:36:21 --> 00:13:40:07] Já que nós estamos falando de comunicação, de identidade da marca em si, eu gosto
+[00:13:40:07 --> 00:13:43:07] de analisar, por exemplo, vou analisar a Nike.
+[00:13:43:24 --> 00:13:44:24] O que eu gosto de fazer?
+[00:13:45:01 --> 00:13:48:01] Eu gosto de pensar qual é o arquétipo da Nike, qual é o tom de voz da Nike,
+[00:13:48:01 --> 00:13:53:03] qual a personalidade da Nike, qual é o público da Nike, a gente pode fazer essa
+[00:13:53:03 --> 00:13:56:23] análise e coletar essas informações, quais são as palavras-chave que a Nike
+[00:13:56:23 --> 00:14:02:06] mais utiliza, qual que é o tom de voz dela, né, eu falei a entonação aqui, então
+[00:14:02:06 --> 00:14:06:24] como nós vamos ver aqui, eu vou dar alguns exemplos pra vocês, o nosso foco aqui
+[00:14:07:26 --> 00:14:14:07] identificar não só elementos visuais, por exemplo, cor, tipografia, fotografia, símbolos,
+[00:14:14:13 --> 00:14:20:15] que são sim importantes, nós também devemos analisar isso, mas principalmente a mensagem.
+[00:14:20:26 --> 00:14:25:02] Como eles estão compartilhando a mensagem deles, como eles estão conseguindo a atenção
+[00:14:25:02 --> 00:14:28:06] das pessoas, isso é o mais importante, tá?
+[00:14:28:11 --> 00:14:32:07] Então não foque só na identidade visual, mas foque na identidade verbal, no núcleo
+[00:14:32:07 --> 00:14:35:04] da marca, na estratégia de posicionamento e por aí vai.
+[00:14:35:04 --> 00:14:39:21] Você pode fazer vários benchmarks diferentes para cada tipo de análise.
+[00:14:39:27 --> 00:14:42:28] Muitas vezes, a empresa que tem uma boa identidade visual
+[00:14:42:28 --> 00:14:46:05] não é a mesma que possui uma boa identidade verbal, por exemplo.
+[00:14:46:18 --> 00:14:49:15] Então, você pode fazer a identidade de análise,
+[00:14:49:19 --> 00:14:51:19] o benchmark de identidade visual de uma empresa
+[00:14:51:19 --> 00:14:55:14] e pode fazer o benchmark de identidade verbal de outra empresa.
+[00:14:55:22 --> 00:14:59:14] Uma empresa comunica bem com palavras, a outra comunica bem com imagens.
+[00:14:59:17 --> 00:15:02:01] Você pode fazer essas análises também, tá bom?
+[00:15:02:15 --> 00:15:05:01] Existem vários tipos de benchmark, igual falei para vocês.
+[00:15:05:18 --> 00:15:09:09] competitivo, funcional, interno de produtos, serviços de atendimento.
+[00:15:09:16 --> 00:15:14:04] Você pode medir qualquer coisa, dá pra medir a qualidade de uma bateria, como eu disse.
+[00:15:14:16 --> 00:15:18:28] Mas o nosso foco aqui é medir as marcas que conseguem se tornar memoráveis
+[00:15:18:28 --> 00:15:22:13] e construir um bom relacionamento com o público do seu cliente.
+[00:15:22:16 --> 00:15:22:28] Então...
+[00:15:23:26 --> 00:15:26:25] Tome cuidado para não desviar muito do seu foco,
+[00:15:27:06 --> 00:15:29:22] porque, às vezes, você vai perder muito tempo analisando algo
+[00:15:29:22 --> 00:15:33:02] que não vai contribuir para o seu projeto de identidade de marca.
+[00:15:33:24 --> 00:15:36:00] Você não precisa fazer um benchmark,
+[00:15:36:13 --> 00:15:39:00] um super benchmark para coletar ideias interessantes.
+[00:15:39:07 --> 00:15:41:25] Muitas vezes o que você precisa é mais simples do que imagina.
+[00:15:42:00 --> 00:15:43:02] Vou dar alguns exemplos aqui,
+[00:15:43:04 --> 00:15:44:25] mas antes eu preciso comentar esse tópico final.
+[00:15:45:09 --> 00:15:48:07] Às vezes, quando eu falo de benchmark, de análise,
+[00:15:48:11 --> 00:15:50:22] dá vontade de fazer um dossier das marcas.
+[00:15:51:06 --> 00:15:52:18] Se você tivesse todo o tempo do mundo,
+[00:15:52:18 --> 00:15:56:18] você poderia fazer e isso com certeza iria ser útil, mas nós não temos.
+[00:15:57:04 --> 00:16:02:03] Muitas vezes você vai ter três, dois ou um dia para fazer o benchmark dependendo do escopo
+[00:16:02:03 --> 00:16:02:22] do projeto.
+[00:16:03:08 --> 00:16:06:28] E isso pode sim ser suficiente, é melhor do que não fazer o benchmark.
+[00:16:07:10 --> 00:16:12:19] Às vezes, como análise simples das melhores marcas que maiores se comunicam com o público,
+[00:16:12:28 --> 00:16:15:13] você já consegue tirar insights muito valiosos.
+[00:16:15:18 --> 00:16:19:21] O que eu vou mostrar aqui para vocês como exemplo são benchmarks muito simples,
+[00:16:19:21 --> 00:16:23:20] que dá para você fazer em um dia, na verdade em menos de um dia, quatro horas dá para
+[00:16:23:20 --> 00:16:24:29] fazer um benchmark desse daqui.
+[00:16:25:10 --> 00:16:29:25] Mas como que um benchmark desse que eu fiz de exemplo já pode trazer muitos insights
+[00:16:29:25 --> 00:16:31:03] valiosos para você?
+[00:16:31:07 --> 00:16:35:28] Pode fazer você entender em que direção essas grandes marcas estão indo e se questionar
+[00:16:35:28 --> 00:16:40:19] por que elas estão fazendo isso e se vale a pena você também aplicar isso no
+[00:16:40:19 --> 00:16:42:19] projeto que você está fazendo para o seu cliente.
+[00:16:42:23 --> 00:16:45:18] Então vamos lá, nada melhor do que um exemplo, acho que vocês vão entender melhor
+[00:16:45:18 --> 00:16:46:11] como isso funciona.
+[00:16:46:11 --> 00:16:50:28] Então, isso aqui é um benchmark que eu fiz pensando na Overlens.
+[00:16:52:06 --> 00:16:58:20] Qual que é a grande ideia aqui? Eu fiz um benchmark pensando, quais são as marcas que se comunicam muito bem com o público da Overlens?
+[00:16:58:26 --> 00:17:02:06] Qual que é o público da Overlens? Outros designers, outros criativos.
+[00:17:02:15 --> 00:17:05:21] Então eu fui atrás de outras marcas que conversam muito bem com esse público.
+[00:17:05:26 --> 00:17:10:06] Repara, não são concorrentes da Overlens. A Adobe não é concorrente da Overlens.
+[00:17:10:12 --> 00:17:18:07] A Google, a Apple, a Pantone, que são outras marcas que eu fiz uma análise rápida aqui, não são concorrentes da Overlens.
+[00:17:18:07 --> 00:17:23:07] Mas olha como que são marcas que conversam com o público e trazem vários insights valiosos
+[00:17:23:07 --> 00:17:25:02] aqui que inclusive eu já usei bastante.
+[00:17:25:12 --> 00:17:29:25] Então eu entrei no site da Adobe e eu comecei a fazer a minha análise e anotar.
+[00:17:29:28 --> 00:17:33:16] Então a primeira coisa que eu anotei foi, a Adobe tem uma identidade visual e verbal
+[00:17:33:16 --> 00:17:35:01] muito alinhada com o mundo criativo.
+[00:17:35:06 --> 00:17:36:09] Eles falam sobre criar.
+[00:17:36:13 --> 00:17:39:13] A palavra criar na análise que eu fiz aparece o clipe inteiro.
+[00:17:39:20 --> 00:17:41:13] É a palavra chave da Adobe, criar.
+[00:17:41:27 --> 00:17:44:16] Vocês vão ver aqui com as frases que eu copiei.
+[00:17:44:22 --> 00:17:47:04] Liberdade para criar, é uma das frases que estava lá no site.
+[00:17:47:04 --> 00:17:51:25] A Adobe Creative Cloud oferece os melhores aplicativos e serviços de criação para que
+[00:17:51:25 --> 00:18:00:01] você possa criar tudo o que imaginar, onde quer que esteja e sempre que a inspiração
+[00:18:00:01 --> 00:18:00:28] surgir.
+[00:18:01:03 --> 00:18:02:15] Por que eu anoto isso daqui?
+[00:18:02:19 --> 00:18:06:14] Aqui eu posso tirar entonação, aqui eu posso tirar palavras chaves importantes, aqui
+[00:18:06:14 --> 00:18:10:10] eu posso entender qual é a ideia que a Adobe quer vender no final.
+[00:18:10:19 --> 00:18:12:24] Mas isso não é suficiente, eu continuei analisando.
+[00:18:12:24 --> 00:18:17:10] Design limpo, interface minimalista, foco direcionado para as ilustrações e imagens
+[00:18:17:10 --> 00:18:18:27] bem surrealistas e coloridas.
+[00:18:19:07 --> 00:18:19:23] Por que isso daqui?
+[00:18:19:25 --> 00:18:24:04] Eu poderia fazer uma análise disso também, provavelmente para poder instigar o lado
+[00:18:24:04 --> 00:18:29:00] criativo, o arquétipo do criativo, do controle, da possibilidade de fazer coisas
+[00:18:29:00 --> 00:18:29:19] novas, né?
+[00:18:29:19 --> 00:18:29:21] e aí
+[00:18:33:12 --> 00:18:34:15] Aí eu peguei e printei.
+[00:18:35:18 --> 00:18:39:02] uma parte do site que era exatamente isso aqui que eu estou falando.
+[00:18:39:18 --> 00:18:45:26] Design limpo, muita cor, interface minimalista, pouco texto e o foco maior nas ilustrações.
+[00:18:46:20 --> 00:18:50:07] Aqui outro exemplo, pouco texto, minimalista, foco nas ilustrações.
+[00:18:50:19 --> 00:18:54:06] A nova identidade do Creative Cloud utiliza todas as cores.
+[00:18:54:20 --> 00:18:58:23] Foi uma ideia muito boa, pois lembra todos os aplicativos e também levanta uma bandeira
+[00:18:58:23 --> 00:19:00:16] de que é para todos, diversidade.
+[00:19:00:16 --> 00:19:02:29] Então, essa parte aqui, esse arco-íris,
+[00:19:03:06 --> 00:19:06:00] isso aqui é um outro insight interessante que eu analisei lá.
+[00:19:06:10 --> 00:19:09:02] Porque isso passa uma mensagem importante de diversidade
+[00:19:09:02 --> 00:19:12:02] e isso tem tudo a ver com a Adobe, que tem vários softwares diferentes
+[00:19:12:22 --> 00:19:15:12] e a própria tecnologia traz essa diversidade.
+[00:19:15:17 --> 00:19:17:21] Então, é também interessante, é mais uma análise.
+[00:19:18:00 --> 00:19:20:28] Preto e branco muito presente, botões azuis.
+[00:19:21:05 --> 00:19:22:03] Tudo isso é a minha análise.
+[00:19:22:04 --> 00:19:24:10] Coisas que eu acho importantes eu fui registrando aqui.
+[00:19:24:17 --> 00:19:27:19] Lembrando, essa aqui, esse aqui é um benchmark muito simples de fazer.
+[00:19:27:19 --> 00:19:32:23] É claro que você pode criar um benchmark mais profundo, como eu já fiz várias vezes.
+[00:19:33:08 --> 00:19:37:02] Aqui eu só quero que você sinta que você também pode fazer, que é mais simples do
+[00:19:37:02 --> 00:19:37:16] que parece.
+[00:19:37:26 --> 00:19:40:26] Que é melhor você fazer desse jeito simples do que deixar de fazer.
+[00:19:41:03 --> 00:19:43:26] Mas você pode complementar, você pode anotar, né?
+[00:19:44:03 --> 00:19:46:29] Eu poderia pegar aqui, por exemplo, olha, e fazer uma anotação.
+[00:19:48:17 --> 00:19:55:02] fazer uma anotação aqui, um comentário do que eu acredito que é a vantagem disso.
+[00:19:55:08 --> 00:20:02:27] No caso ali, minimalista, essa decisão é interessante porque reforça...
+[00:20:04:00 --> 00:20:04:29] O minimalismo.
+[00:20:06:20 --> 00:20:12:18] e dá espaço para o conteúdo. Poderia colocar um comentário aqui e depois eu vejo esse
+[00:20:12:18 --> 00:20:16:21] comentário, né? Eu consigo entender por que aquilo foi registrado. Então tem como
+[00:20:16:21 --> 00:20:19:16] sempre melhorar o benchmark. Aqui eu estou dando um exemplo bem simples para vocês
+[00:20:19:16 --> 00:20:20:01] de como fazer.
+[00:20:21:05 --> 00:20:26:20] Anotei algumas palavras-chave, como criar, explorar, novidades, imagem, layout, criatividade,
+[00:20:26:28 --> 00:20:27:29] design, imaginação.
+[00:20:28:13 --> 00:20:29:28] Tudo isso é a palavra-chave do mercado.
+[00:20:30:10 --> 00:20:34:04] Eu notei isso lá na comunicação deles, mas eles não são donos dessas palavras
+[00:20:34:04 --> 00:20:38:22] e são palavras muito fortes para esse mercado, que é o mercado da alverlença e criatividade.
+[00:20:39:00 --> 00:20:43:13] Então eu já anoto elas, porque eu notei que eles usam bastante e que isso é uma
+[00:20:43:13 --> 00:20:43:29] oportunidade.
+[00:20:44:01 --> 00:20:45:17] Eu também posso usar essas palavras.
+[00:20:46:10 --> 00:20:50:01] Crie tudo o que você imaginar ou crie de novo e imaginar também é uma palavra
+[00:20:50:01 --> 00:20:52:05] que aparece muito, onde quer que você esteja.
+[00:20:52:14 --> 00:20:58:14] De logotipos e ícones a ilustrações e artes para pôster, crie o que imaginar com os aplicativos
+[00:20:58:14 --> 00:21:02:10] de design da Adobe, agora com maneiras avançadas de trabalhar em qualquer lugar.
+[00:21:02:19 --> 00:21:04:17] Outra coisa que eu notei aqui, poderia até falar, olha.
+[00:21:05:24 --> 00:21:08:04] Outra coisa que notei foi...
+[00:21:09:09 --> 00:21:10:04] Ué...
+[00:21:14:16 --> 00:21:21:03] essa tecla e eles batem bastante. Aqui eu posso ser informal porque é para mim, né?
+[00:21:22:14 --> 00:21:25:20] de criar em qualquer lugar.
+[00:21:26:14 --> 00:21:28:08] Parece que esse é um...
+[00:21:29:03 --> 00:21:30:05] diferencial
+[00:21:32:14 --> 00:21:34:15] que estão buscando vender.
+[00:21:36:20 --> 00:21:39:04] Então eu notei, eu notei que eles falam isso aqui ó, falou aqui...
+[00:21:40:03 --> 00:21:42:23] Falou aqui de novo também, onde quer que esteja.
+[00:21:43:27 --> 00:21:49:14] Aparece muito também, onde quer que você esteja, que você consegue de qualquer lugar criar, tudo isso.
+[00:21:49:21 --> 00:21:52:13] Quando você tem um olhar mais atento, você começa a notar.
+[00:21:52:19 --> 00:21:55:20] Olha só, eles estão vendendo a ideia de trabalhar de qualquer lugar.
+[00:21:56:00 --> 00:21:58:04] Isso é algo importante para o público.
+[00:21:58:22 --> 00:22:00:10] Se não, eles não, eles estariam vendendo isso.
+[00:22:00:14 --> 00:22:04:25] Pensa, eles têm uma equipe gigante, a Adobe faz pesquisa o tempo inteiro,
+[00:22:04:27 --> 00:22:07:26] eles têm uma inteligência muito maior do que eu enquanto designer sozinho.
+[00:22:08:05 --> 00:22:10:23] Então, quando eu analiso isso, isso é um dado importante para mim.
+[00:22:11:15 --> 00:22:13:21] Por que eles estão batendo nessa tecla?
+[00:22:14:04 --> 00:22:16:08] Porque tem coisa aí, porque tem dado aí.
+[00:22:16:29 --> 00:22:18:04] É uma decisão assertiva.
+[00:22:18:14 --> 00:22:19:29] E eu posso focar isso aqui também.
+[00:22:20:14 --> 00:22:22:28] Por exemplo, na alverlença eu posso falar a mesma coisa, né?
+[00:22:23:07 --> 00:22:26:26] Acesso à informação do mundo criativo onde quer que você esteja, sempre.
+[00:22:28:01 --> 00:22:31:06] Então, isso é outro ponto interessante que eu notei.
+[00:22:32:04 --> 00:22:33:13] Fora a entonação e por aí vai.
+[00:22:33:25 --> 00:22:34:28] Vá com tudo nos layouts.
+[00:22:35:00 --> 00:22:38:08] Está vendo? Eu fui printando textos
+[00:22:38:08 --> 00:22:39:27] que conversam muito bem com o público.
+[00:22:40:00 --> 00:22:42:10] Textos que, no caso da Adobe, são mais descolados.
+[00:22:42:13 --> 00:22:43:22] Vá com tudo nos layouts.
+[00:22:44:03 --> 00:22:46:13] Dê destaque às suas histórias usando layouts chamativos.
+[00:22:46:29 --> 00:22:49:21] Aumente a criatividade em seus designs com a Creative Cloud.
+[00:22:50:04 --> 00:22:52:15] Então, é simples de falar, simples de entender.
+[00:22:52:24 --> 00:22:54:00] Nada é muito técnico.
+[00:22:54:09 --> 00:22:56:07] Tudo isso faz parte da análise.
+[00:22:56:13 --> 00:22:57:12] Tudo isso é referência.
+[00:22:57:12 --> 00:23:02:10] Impulsiona a criatividade e continuidade dos negócios em qualquer lugar.
+[00:23:02:27 --> 00:23:03:28] O que você pode criar?
+[00:23:04:05 --> 00:23:09:01] Crie vídeos, crie, crie, crie, deixe tudo muito melhor.
+[00:23:09:27 --> 00:23:14:15] A Adobe está conversando muito bem com os criativos e eu estou pegando todos esses
+[00:23:14:15 --> 00:23:20:01] insights aqui e guardando porque isso aqui é o meu ponto de referência, isso aqui
+[00:23:20:01 --> 00:23:20:27] é o meu benchmark.
+[00:23:21:19 --> 00:23:25:13] Não é porque depois eu vou copiar e vou utilizar essas frases, obviamente nós
+[00:23:25:13 --> 00:23:29:06] Nós não vamos fazer isso, nós vamos criar nossas próprias fases, definir nosso próprio
+[00:23:29:06 --> 00:23:32:08] conceito, mas isso aqui é um ponto de referência.
+[00:23:32:12 --> 00:23:34:22] É melhor do que partir do zero, com toda certeza.
+[00:23:35:24 --> 00:23:42:00] Compartilhe, crie de novo, divulgue, história são todas palavras-chave, crie de novo.
+[00:23:43:12 --> 00:23:44:14] Pinte e desenhe!
+[00:23:46:10 --> 00:23:51:15] Passa, tudo é sinônimo, crie, faça, e sempre que eles podem, eles utilizam.
+[00:23:51:29 --> 00:23:57:03] Inspire-se passo a passo, motive seja motivado, aprimore suas habilidades, solte a criatividade,
+[00:23:57:16 --> 00:23:59:18] tudo isso aqui é ponto de referência.
+[00:24:00:12 --> 00:24:04:24] É bom saber, aprenda no seu próprio ritmo, é bom saber, por que eu guardei isso daqui?
+[00:24:05:10 --> 00:24:09:17] Porque isso aqui é melhor do que tem mais, eu poderia falar, sei lá, estou escrevendo
+[00:24:09:17 --> 00:24:11:03] meu texto, aí eu coloco, tem mais.
+[00:24:11:07 --> 00:24:14:20] Ao invés de colocar tem mais, é um jeito diferente de falar, tem mais é bom saber,
+[00:24:14:20 --> 00:24:16:22] É bom saber, e aí embaixo tem mais texto.
+[00:24:17:07 --> 00:24:20:15] Então, é mais um ponto de referência, um jeito diferente de falar a mesma coisa.
+[00:24:21:13 --> 00:24:24:03] Tem atualizações quando desejar, aprenda no seu próprio ritmo.
+[00:24:24:05 --> 00:24:28:12] Aí tem mais print, e aqui tudo é informação da Adobe.
+[00:24:28:27 --> 00:24:30:13] Tudo que eu achei interessante eu guardei.
+[00:24:30:22 --> 00:24:35:25] Eu poderia, aqui eu fiz de um jeito mais simples, mas eu poderia grifar e comentar
+[00:24:35:25 --> 00:24:39:11] o que eu achei interessante em cada um desses textos, como uma análise mesmo.
+[00:24:39:27 --> 00:24:43:11] Inspiração e recursos gratuitos ao seu alcance, guardei isso daqui porque é interessante.
+[00:24:43:11 --> 00:24:50:02] Olha, adobe e educação, isso aqui é adobe comunicando uma coisa que a Alverlense quer.
+[00:24:50:06 --> 00:24:51:00] A Alverlense é o quê?
+[00:24:51:06 --> 00:24:52:04] É educação e design.
+[00:24:52:14 --> 00:24:54:21] Isso aqui da adobe é educação e design também, tá?
+[00:24:57:25 --> 00:25:03:28] Então, eu tenho a chance de entrar no site, analisar, descubra, né, grátis.
+[00:25:05:21 --> 00:25:06:16] Isso aqui...
+[00:25:07:28 --> 00:25:10:08] É informação, é ponto de referência.
+[00:25:10:14 --> 00:25:11:26] Eu posso pegar e guardar lá.
+[00:25:13:18 --> 00:25:17:11] Melhor do que isso também, eu posso vir aqui e comentar porque eu achei isso daqui interessante, né?
+[00:25:17:17 --> 00:25:18:10] Palavra-chave!
+[00:25:18:27 --> 00:25:19:10] Às vezes...
+[00:25:20:08 --> 00:25:21:03] Palavra-chave...
+[00:25:22:06 --> 00:25:23:01] Descubra!
+[00:25:24:09 --> 00:25:25:08] e cursos.
+[00:25:27:08 --> 00:25:30:16] Então, sua sala de aula, algo do tipo, grátis.
+[00:25:32:01 --> 00:25:32:27] E por aí vai.
+[00:25:33:21 --> 00:25:36:13] Aí aqui algumas apresentações dos softwares, né?
+[00:25:36:23 --> 00:25:40:00] Imagine e crie com o Photoshop. Imagine e crie.
+[00:25:40:07 --> 00:25:42:24] Se eles têm pouco espaço, querem ser o mais simples possível,
+[00:25:42:29 --> 00:25:45:06] querem enxugar o máximo que eles podem a comunicação,
+[00:25:46:08 --> 00:25:48:27] eles escolheram cada palavra dessas a dedo.
+[00:25:49:00 --> 00:25:50:16] Imagine e crie com o Photoshop.
+[00:25:51:18 --> 00:25:54:02] E isso é um ponto de referência, e por aí vai, né?
+[00:25:54:11 --> 00:25:58:24] Deixa a imaginação que é seu trabalho, imaginação, imaginação, imaginação.
+[00:25:59:06 --> 00:26:01:14] A palavra chave do Photoshop é imaginação, né?
+[00:26:01:14 --> 00:26:05:15] E a gente vê também pela abertura do Photoshop as imagens que eles utilizam.
+[00:26:05:17 --> 00:26:07:15] Do Illustrator a palavra chave é ilustração, né?
+[00:26:07:15 --> 00:26:08:25] Ilustrações maravilhosas.
+[00:26:09:02 --> 00:26:11:15] Ó, de novo aqui, olha, onde quer que esteja, de novo.
+[00:26:12:05 --> 00:26:15:19] O Illustrator está em todos os lugares, de novo aqui, em todos os lugares.
+[00:26:15:21 --> 00:26:19:15] Porque eles estão vendendo a ideia de que você pode usar o celular, o iPad, o computador,
+[00:26:19:15 --> 00:26:22:22] Não importa onde quer que esteja, ilustrações maravilhosas.
+[00:26:23:03 --> 00:26:24:29] Crie a palavra-chave de novo, tá vendo?
+[00:26:25:02 --> 00:26:26:14] Tudo isso faz parte da análise.
+[00:26:27:11 --> 00:26:33:27] Stoc, aí vai de novo, criação, inspire-se, ganhe royalties fazendo o que você ama.
+[00:26:34:01 --> 00:26:40:05] Fazendo o que você ama é uma sentença importante aqui também.
+[00:26:40:26 --> 00:26:42:27] E por aí vai, tudo isso é análise.
+[00:26:43:29 --> 00:26:50:15] É importante porque ao fazer esse benchmark, você tem referências, essa é a palavra da
+[00:26:50:15 --> 00:26:54:21] coisa, um ponto de referência, pra partir, ao invés de partir do zero.
+[00:26:55:03 --> 00:27:00:11] Imagine que você vai chegar daqui a pouco na identidade verbal, no tom de voz, e você
+[00:27:00:11 --> 00:27:03:15] precisa definir qual é a identidade verbal, qual é o tom de voz, qual vai ser a promessa
+[00:27:03:15 --> 00:27:08:27] da marca, a grande ideia, a big idea, o conceito, e você tá lá, do zero, não
+[00:27:08:27 --> 00:27:11:28] sabe nem quais palavras utilizar, não sabe nem por onde começar.
+[00:27:12:20 --> 00:27:15:03] nessa hora que o benchmark vai fazer toda a diferença.
+[00:27:15:16 --> 00:27:18:19] Mas por que a gente já faz o benchmark aqui na etapa de investigação?
+[00:27:19:00 --> 00:27:20:28] Porque isso daqui traz muito insight também.
+[00:27:21:14 --> 00:27:23:12] Ao final do benchmark, você pode analisar e falar
+[00:27:24:17 --> 00:27:27:11] notei oportunidades aqui, aqui e aqui
+[00:27:27:11 --> 00:27:31:11] que os meus concorrentes não fazem, mas grandes marcas já fazem.
+[00:27:32:21 --> 00:27:35:20] Vamos pegar mais um aqui sem ser Adobe, aí tem aqui os produtos,
+[00:27:36:13 --> 00:27:38:26] próximo, o próximo patamar em design de layouts,
+[00:27:39:01 --> 00:27:41:05] o próximo patamar, pode ser um jeito diferente de falar,
+[00:27:41:16 --> 00:27:45:02] ao invés de falar o próximo nível, falar o próximo patamar.
+[00:27:45:12 --> 00:27:47:01] Ou então não vai nem falar o próximo nível,
+[00:27:47:05 --> 00:27:49:26] que dá quase a mesma coisa, mas ao invés de falar, por exemplo,
+[00:27:50:10 --> 00:27:52:28] designs de layout de qualidade.
+[00:27:53:04 --> 00:27:56:06] Olha, sem vida agora, próximo patamar em design de layouts,
+[00:27:56:09 --> 00:28:00:13] é totalmente diferente, já tem um estilo diferente de falar
+[00:28:00:13 --> 00:28:01:24] que envolve mais as pessoas.
+[00:28:03:05 --> 00:28:07:28] Vá ainda mais longe com a sua criatividade, criação, passo e rápido de começar,
+[00:28:08:17 --> 00:28:15:00] de um jeito simples. Lembre que eles não são donos dessas frases e você pode modelar todas elas.
+[00:28:15:24 --> 00:28:23:06] Preencha seu cérebro e inspire seu coração. É uma frase muito interessante, está guardada aqui.
+[00:28:24:04 --> 00:28:27:10] Aí eu analiso a plataforma também, bem limpa, com foco no conteúdo,
+[00:28:27:15 --> 00:28:30:24] uma ótima referência para nossa área de membros, menu lateral com ícones,
+[00:28:30:24 --> 00:28:34:12] escala de cinza responsível, analisando aqui o design também.
+[00:28:34:18 --> 00:28:37:07] Analisou outros pontos de contato da marca, como é que é no YouTube?
+[00:28:37:10 --> 00:28:41:12] Notei que no YouTube é bem diferente do site, até mesmo a paleta de cores, o jeito de
+[00:28:41:12 --> 00:28:42:01] se apresentar.
+[00:28:42:02 --> 00:28:43:20] Como é que é no Instagram?
+[00:28:43:28 --> 00:28:45:01] Tirei alguns prints aqui também.
+[00:28:45:08 --> 00:28:48:22] Não fiz nenhum comentário, mas recomendo que você faça os comentários.
+[00:28:49:08 --> 00:28:53:01] Tem o 99U, que é um blog da Adobe mesmo sobre carreira.
+[00:28:53:28 --> 00:28:58:01] Então comecei a analisar aqui alguns títulos legais que eu achei interessantes, já guardei
+[00:28:58:01 --> 00:28:58:13] eles.
+[00:28:58:13 --> 00:29:02:15] The Guides é como se fosse um tópico dentro do 99U.
+[00:29:03:10 --> 00:29:05:03] E aí, lá no The Guides, olha só,
+[00:29:05:07 --> 00:29:07:21] acreditamos que os criativos devem se sentir capacitados
+[00:29:07:21 --> 00:29:09:12] para assumir o controle de suas carreiras.
+[00:29:09:15 --> 00:29:11:08] Que massa, o Verlens também acredita nisso.
+[00:29:11:14 --> 00:29:13:05] Eu não vou copiar essa frase e usar.
+[00:29:13:11 --> 00:29:15:01] Não é isso, não façam isso.
+[00:29:15:18 --> 00:29:18:24] Mas eu entendo que eles estão falando o que eu quero dizer,
+[00:29:18:28 --> 00:29:21:03] eles estão comunicando muito bem o que eu quero comunicar.
+[00:29:21:06 --> 00:29:22:27] Então eu posso sim modelar isso aqui.
+[00:29:23:24 --> 00:29:26:01] Quero esteja determinado a obter mais reconhecimento
+[00:29:26:01 --> 00:29:28:08] ou apenas queira melhorar a gestão do seu dinheiro,
+[00:29:28:08 --> 00:29:29:13] temos algo para si.
+[00:29:30:21 --> 00:29:35:20] um jeito de falar, uma chamada que dá para modelar.
+[00:29:35:25 --> 00:29:39:21] Continue inspirado, colaboração, portfólio criativo, trabalho remoto, saúde criativa,
+[00:29:39:25 --> 00:29:44:21] impacto social, o básico, liderança, tudo isso são conceitos, palavras que eu achei
+[00:29:44:21 --> 00:29:47:05] interessante aqui, que eles usam muito e eu registrei.
+[00:29:47:26 --> 00:29:50:04] Marketing yourself, é um jeito também diferente.
+[00:29:51:14 --> 00:29:56:13] 99U no YouTube, escala de preto e branco, mais sério, passar mais pro profissionalismo,
+[00:29:56:22 --> 00:29:59:28] pessoas, pessoas e mais pessoas, uma boa referência para os guest talks.
+[00:29:59:28 --> 00:30:04:16] Então, mais uma ideia guardada na gaveta, mais um ponto de referência.
+[00:30:04:28 --> 00:30:07:27] 991 no Instagram, muitas ilustrações.
+[00:30:08:12 --> 00:30:10:08] Aí depois eu vou para outra marca, Pantone.
+[00:30:10:15 --> 00:30:13:03] A Pantone tem um posicionamento mais clássico de excelência.
+[00:30:13:09 --> 00:30:15:19] Cor é a palavra chave, nitidamente, né?
+[00:30:15:24 --> 00:30:21:13] Inteligência das cores, cor do ano, encontros da Pantone, manuais de treinamento, encontre,
+[00:30:21:18 --> 00:30:22:27] poderia ser descubra também.
+[00:30:23:11 --> 00:30:28:02] Indicamos 10 cores mais destacadas e as 5 clássicas da estação para moda masculina
+[00:30:28:02 --> 00:30:28:23] e feminina.
+[00:30:29:08 --> 00:30:31:02] indicamos, já é um tom diferente, tá vendo?
+[00:30:31:09 --> 00:30:33:23] É um tom de referência, é um tom de...
+[00:30:33:23 --> 00:30:37:05] de um analista, quase um analista de cores falando, indicamos.
+[00:30:37:10 --> 00:30:40:15] Ou seja, nossos especialistas pesquisaram e agora indicam.
+[00:30:40:21 --> 00:30:42:23] Tem um tom diferente da Adobe, por exemplo,
+[00:30:43:03 --> 00:30:45:00] que tá ligado com a imaginação, a criatividade,
+[00:30:45:03 --> 00:30:46:06] usam essa palavra o tempo inteiro,
+[00:30:46:18 --> 00:30:47:28] colocam o verbo o tempo inteiro.
+[00:30:48:06 --> 00:30:50:23] A Adobe não fala muito de nós na análise que eu fiz.
+[00:30:51:02 --> 00:30:53:21] Eu notei muito ela falar de quem cria, crie,
+[00:30:54:00 --> 00:30:56:09] descubra, faça, tudo com verbos.
+[00:30:56:12 --> 00:30:58:05] A Pantone já tem uma intonação diferente.
+[00:30:58:05 --> 00:31:04:00] Confira as novidades coloridas da Pantone, cores que amamos, cores eternas, quantas cores
+[00:31:04:00 --> 00:31:05:14] faltam no seu Pantone?
+[00:31:05:23 --> 00:31:08:16] Colorbreed, a melhor ferramenta do designer gráfico.
+[00:31:08:20 --> 00:31:13:05] E para e vai, razões para amar, a palavra amor aparece muito aqui também, coração,
+[00:31:13:20 --> 00:31:13:28] tá vendo?
+[00:31:14:10 --> 00:31:19:20] São palavras que eu reparo em marcas diferentes, mas continuam aparecendo.
+[00:31:19:29 --> 00:31:21:27] Ame, crie, novidade, descubra.
+[00:31:22:05 --> 00:31:27:03] Isso é o que o benchmark me dá, ele me faz enxergar de maneira mais nítida os
+[00:31:27:03 --> 00:31:29:07] padrões do mercado que funcionam.
+[00:31:29:12 --> 00:31:30:13] Pantone no Instagram.
+[00:31:31:11 --> 00:31:33:03] Deixe sua criatividade florescer.
+[00:31:33:25 --> 00:31:35:02] A palavra criatividade de novo,
+[00:31:35:08 --> 00:31:38:03] a ideia de florescer, a ideia de transformação, de mudança.
+[00:31:39:07 --> 00:31:42:15] Participando do primeiro dia do Adobe Max, legal que quando eu analisei,
+[00:31:43:15 --> 00:31:47:18] foi no momento onde a Pantone estava no evento da Adobe Max.
+[00:31:49:03 --> 00:31:54:20] Eu não vou passar muito lendo aqui pra vocês, isso aqui é a descrição do post no Instagram.
+[00:31:54:29 --> 00:31:58:29] Até isso é pra você analisar, porque você vê o tom de voz, tá bom?
+[00:31:59:29 --> 00:32:03:09] Analisei o Abstract, aquela série da Netflix, olha que massa!
+[00:32:04:07 --> 00:32:10:11] Não é só marcas de empresas e concorrentes, se você tem uma marca que conversa muito
+[00:32:10:11 --> 00:32:13:29] bem com o seu público, vale a pena analisar essa marca.
+[00:32:14:17 --> 00:32:17:22] Por isso que eu analisei o Abstract, não podia ficar de fora, a série de design
+[00:32:17:22 --> 00:32:22:01] mais famosa, todo designer conhece ou um dia vai conhecer a Abstract.
+[00:32:22:24 --> 00:32:26:06] Então eu fiz a minha análise, a Abstract é uma série de documentários dos designers
+[00:32:26:06 --> 00:32:27:23] e criativos mais consagrados do mundo.
+[00:32:28:01 --> 00:32:30:21] É uma série que é muito conhecida no mundo do designer e inspira muita gente.
+[00:32:31:03 --> 00:32:36:24] O benchmark do Abstract vai além da fotografia, a mensagem que é passada nos episódios,
+[00:32:36:25 --> 00:32:40:01] eu escrevi errado, então uma excelente estrutura para a nossa comunicação.
+[00:32:40:07 --> 00:32:42:13] Trailer, aí eu analiso o trailer, o que eu fiz?
+[00:32:42:15 --> 00:32:45:02] Eu anotei frases do trailer que eu achei interessante.
+[00:32:45:02 --> 00:32:49:29] O que importa é a história, a mensagem, o sentimento, a conexão, é design.
+[00:32:50:10 --> 00:32:52:01] Meu Deus, como vou resolver esse problema?
+[00:32:52:04 --> 00:32:55:07] Essa aqui é a pergunta que designers mais fazem no dia a dia, né?
+[00:32:55:15 --> 00:32:58:15] Eu quero afetar o maior número de pessoas possível, a ideia de impacto.
+[00:32:58:27 --> 00:33:01:06] Tudo isso, então, olha só, o tanto que eu anotei aqui.
+[00:33:01:15 --> 00:33:04:21] São frases que me dão insight de como conversar com o meu público.
+[00:33:05:03 --> 00:33:07:04] Trailer da segunda temporada, fiz a mesma coisa.
+[00:33:07:14 --> 00:33:10:09] Posso ir além, poderia cada episódio, analisar o episódio,
+[00:33:10:13 --> 00:33:12:06] analisar os pontos mais importantes e por aí vai.
+[00:33:12:13 --> 00:33:14:22] Mas por que o trailer era o mais importante aqui?
+[00:33:14:22 --> 00:33:21:04] porque o trailer está tentando me vender a série. O trailer é o momento mais persuasivo da série,
+[00:33:21:05 --> 00:33:25:24] onde ela quer te encantar para que você assista ela. Então por isso ele é um ótimo momento
+[00:33:25:24 --> 00:33:30:04] para analisar o benchmark, para analisar uma marca que está conversando muito bem com o meu público.
+[00:33:30:10 --> 00:33:35:16] Sacou? Apple. Aqui mais uma vez uma análise minha, uma das marcas mais amadas pelos designers.
+[00:33:35:19 --> 00:33:39:27] É incrível como defendem com unhas identes a Apple. Mais do que performance, o que encanta
+[00:33:39:27 --> 00:33:43:11] os designers é o próprio design. A Apple se preocupa com o design dos seus produtos.
+[00:33:43:11 --> 00:33:46:22] Ainda assim, se pegarmos o histórico da marca, veremos que a Apple desde muito cedo
+[00:33:46:22 --> 00:33:49:00] sempre conversou muito bem com os designers e artistas.
+[00:33:49:05 --> 00:33:50:23] Essa cultura se desenvolveu com o tempo.
+[00:33:51:07 --> 00:33:52:12] Comercial, Think Different.
+[00:33:52:15 --> 00:33:52:27] O que eu fiz?
+[00:33:53:01 --> 00:33:55:16] Eu transcrevi o comercial todo aqui.
+[00:33:55:20 --> 00:33:57:09] Por quê? Isso aqui é um manifesto, cara.
+[00:33:57:22 --> 00:34:02:01] É um exemplo clássico para modelar, porque conversa muito bem com os designers.
+[00:34:02:25 --> 00:34:05:22] Comunicação jovem bem colorida nas redes, muita foto.
+[00:34:06:09 --> 00:34:07:24] Mais vídeo que eu achei interessante.
+[00:34:07:28 --> 00:34:10:23] Sobre o site, uma análise de apresentação, simplicidade.
+[00:34:10:25 --> 00:34:12:15] Primeira coisa que eu anotei, pouco texto.
+[00:34:12:15 --> 00:34:17:12] Nunca dois parágrafos juntos, imagens intrigantes, minimalismo.
+[00:34:18:00 --> 00:34:21:16] Aí mostra aqui, olha, o que eu acabei de falar, eu começo a perceber, pouco texto,
+[00:34:21:21 --> 00:34:24:03] nunca dois parágrafos juntos e por aí vai.
+[00:34:24:08 --> 00:34:28:02] Além de ter um bom design, a Apple se esforce em ser diferente do mercado, gostam
+[00:34:28:02 --> 00:34:32:18] de parecer exclusivos e querem que as pessoas se sintam exclusivas por fazer parte disso.
+[00:34:33:13 --> 00:34:37:01] Então, faz um pouco da análise aqui também, o que o Verlan pode fazer?
+[00:34:37:09 --> 00:34:41:03] Buscar um jeito de ser inclusiva também, de trazer essa diversidade.
+[00:34:42:15 --> 00:34:45:24] de ser mais exclusiva, principalmente aqui eu falei inclusivo,
+[00:34:45:25 --> 00:34:48:23] mas eu queria falar exclusivo, de trazer isso para a identidade dela.
+[00:34:48:25 --> 00:34:50:29] Porque os designers gostam de ser exclusivos,
+[00:34:51:10 --> 00:34:54:05] mas ao mesmo tempo gostam de ser sociais e de gerar impacto.
+[00:34:54:11 --> 00:34:55:27] Olha que legal, como é que eu sei essas informações?
+[00:34:56:06 --> 00:34:56:26] Com análises.
+[00:34:57:12 --> 00:34:59:17] Às vezes um benchmark te salva.
+[00:34:59:20 --> 00:35:01:21] Às vezes você faz uma auditoria de público
+[00:35:01:21 --> 00:35:03:21] e não consegue ler muitas informações.
+[00:35:04:08 --> 00:35:06:20] E aí você vem com o benchmark e ele salva.
+[00:35:06:29 --> 00:35:08:15] Te traz as informações que faltavam.
+[00:35:08:28 --> 00:35:11:00] Google, outra marca importante para os designers.
+[00:35:11:00 --> 00:35:13:24] Mas muitos designers sonham em trabalhar na Google, né?
+[00:35:14:09 --> 00:35:17:13] Já tem um tempo que o Google é visto como referência em design, desde os seus escritórios
+[00:35:17:13 --> 00:35:21:07] lúdicos até as páginas web em Material Design, que é o DS do Google.
+[00:35:21:21 --> 00:35:24:11] Abaixo alguns links que revelam como o Google faz design.
+[00:35:24:22 --> 00:35:29:11] Aí tem Google Design no Medium, Google Design, o site do Google, Material Design do Google.
+[00:35:29:22 --> 00:35:32:27] Importante ler esse documento todo, e eu já li esse documento todo.
+[00:35:33:04 --> 00:35:34:03] Não é até recomendo pra vocês?
+[00:35:34:05 --> 00:35:36:08] É bacana, tem muitos insights de design por lá.
+[00:35:37:09 --> 00:35:42:06] Aí, eu começo a trazer aqui alguns prints que me chamaram a atenção.
+[00:35:42:09 --> 00:35:43:18] Por que isso aqui me chamou a atenção?
+[00:35:43:21 --> 00:35:47:00] Porque é um jeito de apresentar um design que, para os designers, chama a atenção.
+[00:35:47:10 --> 00:35:50:00] As capas das aulas podem ser assim, por exemplo.
+[00:35:50:01 --> 00:35:51:18] Isso pode ser uma referência para mim.
+[00:35:51:26 --> 00:35:54:01] Aqui, do mesmo jeito, diagramas, cores...
+[00:35:54:01 --> 00:35:56:15] Isso chama a atenção dos designers, me chama a atenção.
+[00:35:56:21 --> 00:35:58:10] Provavelmente, te chama a atenção também.
+[00:35:58:18 --> 00:36:01:27] Então, é um jeito interessante de se apresentar.
+[00:36:01:29 --> 00:36:02:09] Ok?
+[00:36:02:25 --> 00:36:05:16] Deu um bug aqui. Não sei se deu aí também.
+[00:36:05:16 --> 00:36:08:22] na gravação, né? Aqui na minha tela ficou bugado.
+[00:36:08:29 --> 00:36:12:07] E aí mais ilustrações, ilustrações minimalistas.
+[00:36:12:20 --> 00:36:14:06] Outro site, Think with Google.
+[00:36:14:12 --> 00:36:16:04] Então tem insights, ideias, inspiração.
+[00:36:16:11 --> 00:36:20:06] Tudo isso daqui é o Google conversando com os designers, sacou?
+[00:36:20:19 --> 00:36:21:23] Então é importante pra mim.
+[00:36:22:29 --> 00:36:27:20] Analisar os títulos, analisar os textos, analisar o tom de voz, palavras-chaves.
+[00:36:28:10 --> 00:36:31:14] TED Talk, outro que é muito relevante para os designers.
+[00:36:31:21 --> 00:36:34:00] Muitos designers amam o TED Talk, eu me incluo nisso.
+[00:36:34:06 --> 00:36:37:29] O que mais atrai os designers nas palestras TED são as ideias sobre o futuro.
+[00:36:38:09 --> 00:36:41:14] Os designers são apaixonados por ideias e querem fazer parte desse futuro.
+[00:36:42:21 --> 00:36:47:01] Olha só, até a minha entonação, o meu jeito de falar, como que mostra que eu conheço
+[00:36:47:01 --> 00:36:47:17] os designers?
+[00:36:47:20 --> 00:36:48:00] Por quê?
+[00:36:48:09 --> 00:36:50:20] Muita entrevista, muito benchmark, muita análise.
+[00:36:52:08 --> 00:36:56:02] Nossa missão, espalhar ideias, essa é a missão do TED Talk.
+[00:36:56:14 --> 00:37:00:15] Muito parecida com a missão da Overlens, certo?
+[00:37:01:05 --> 00:37:02:15] O TED é uma comunidade...
+[00:37:02:15 --> 00:37:05:17] Eu não vou ler aqui também agora, para vocês, acho que esse é o final também.
+[00:37:05:25 --> 00:37:09:24] Eu vou ler esse daqui para a gente entender o que eu queria tirar disso no final, né?
+[00:37:10:00 --> 00:37:13:25] O TED é uma comunidade global que recebe pessoas de todas as disciplinas e culturas
+[00:37:13:25 --> 00:37:15:24] que buscam uma compreensão mais profunda do mundo.
+[00:37:17:02 --> 00:37:19:09] Acreditamos apaixonadamente no poder das ideias.
+[00:37:19:15 --> 00:37:21:24] Isso aqui é uma frase que a Overlens poderia usar.
+[00:37:21:24 --> 00:37:26:00] para mudar atitudes, vidas e, em última análise, o mundo.
+[00:37:26:11 --> 00:37:32:24] No TED.com, estamos construindo uma câmara de compensação de conhecimento livre dos
+[00:37:32:24 --> 00:37:38:18] pensadores mais inspirados do mundo e uma comunidade de almas curiosas para se envolver
+[00:37:38:18 --> 00:37:44:17] com ideias entre si, tanto online quanto em eventos TED e TEDx ao redor do mundo,
+[00:37:44:26 --> 00:37:45:18] durante todo o ano.
+[00:37:45:25 --> 00:37:51:08] Na verdade, tudo o que fazemos de nossas conferências e nossos TED Talks e os projetos
+[00:37:51:08 --> 00:37:53:28] desencadeados pelo audacioso projeto...
+[00:37:54:20 --> 00:37:57:09] E os projetos desencadeados pelo audacioso projeto
+[00:37:57:09 --> 00:38:00:28] das comunidades globais de tradutores TEDx e TED,
+[00:38:01:11 --> 00:38:04:08] a série de leções TED e ED
+[00:38:04:08 --> 00:38:06:06] é impulsionada por esse objetivo.
+[00:38:06:14 --> 00:38:08:00] Como podemos... Aqui o objetivo.
+[00:38:08:03 --> 00:38:11:03] Como podemos divulgar melhor ótimas ideias?
+[00:38:11:09 --> 00:38:13:01] Com pouco confuso aqui,
+[00:38:13:25 --> 00:38:15:17] pode ser que na hora que eu fizer essa análise também
+[00:38:15:17 --> 00:38:18:15] eu que deslizei provavelmente fui eu que escrevi errado alguma coisa,
+[00:38:18:29 --> 00:38:20:20] mas o que eu quero mostrar para vocês
+[00:38:20:20 --> 00:38:24:03] que isso aqui também é o quê? Isso aqui é um jeito de se apresentar, é o TED falando
+[00:38:24:03 --> 00:38:29:21] do TED, isso também pode ser modelado. Como que a Overlens pode falar da própria Overlens?
+[00:38:30:03 --> 00:38:35:00] É melhor do que eu começar do zero eu ter pontos de referência, eu ter feito um benchmark.
+[00:38:35:24 --> 00:38:40:03] Então como você pode ver, isso aqui foi muito simples. Se eu não me engano, aqui
+[00:38:40:03 --> 00:38:43:16] travou de novo, voltou, se eu não me engano eu não gastei mais de duas horas
+[00:38:43:16 --> 00:38:48:17] para fazer esse benchmark aqui. Não foi tão demorado e ele já me trouxe muitos
+[00:38:48:17 --> 00:38:49:02] insights.
+[00:38:49:11 --> 00:38:53:06] Quando você tem mais tempo, é claro que você pode investir mais tempo no benchmark,
+[00:38:53:17 --> 00:38:59:08] porque isso vai te trazer muitas ideias valiosas para o projeto e boas referências.
+[00:38:59:16 --> 00:39:03:15] Não referências do mercado tradicional, cheias de paradigmas, aquelas que não funcionam
+[00:39:03:15 --> 00:39:07:11] tão bem, mas referências de grandes marcas, ok?
+[00:39:07:23 --> 00:39:11:29] Então o que eu queria passar para você com essa ferramenta aqui é uma possibilidade
+[00:39:11:29 --> 00:39:17:26] de conseguir informações qualitativas, informações valiosas e também que você
+[00:39:17:26 --> 00:39:22:19] você tem um repertório. Porque no final, o que nós fizemos aqui foi construir uma gaveta de
+[00:39:22:19 --> 00:39:27:29] repertório de boas práticas de comunicação com o público de seu cliente. Então, no caso aqui,
+[00:39:28:02 --> 00:39:31:23] eu peguei o Verlense como um exemplo, pra te dar de exemplo, né, esse benchmark aqui,
+[00:39:32:04 --> 00:39:36:21] mas vamos supor que você tá trabalhando com uma padaria. Sabe o que eu faria? Eu iria pesquisar
+[00:39:36:21 --> 00:39:42:18] quais são as melhores padarias do mundo. Qual é a maior marca de padaria do mundo? Quais são as
+[00:39:42:18 --> 00:39:47:05] que melhor comunica com o público. E olha, pesquise em inglês, pesquise em francês,
+[00:39:47:11 --> 00:39:51:27] pesquise em espanhol, não importa, use o Google Tradutor, você vai ter insights
+[00:39:51:27 --> 00:39:56:08] valiosos fazendo isso. Essa é uma ferramenta simples de usar e inclusive eu
+[00:39:56:08 --> 00:40:00:06] amo fazer benchmark, porque o meu cérebro ele vira uma pipoqueira, ele fica...
+[00:40:01:25 --> 00:40:05:23] Cheio de ideias, as ideias vão surgindo porque eu estou conectando pontos o tempo inteiro
+[00:40:05:23 --> 00:40:07:19] de várias fontes diferentes.
+[00:40:08:00 --> 00:40:10:05] Não faça benchmark só de uma marca, tá?
+[00:40:10:13 --> 00:40:14:06] Porque isso aumenta as chances de que você sem querer copie essa marca.
+[00:40:14:14 --> 00:40:19:06] E nós não queremos copiar, nós queremos modelar e queremos pontas soltas para poder
+[00:40:19:06 --> 00:40:20:14] conectar, para poder...
+[00:40:22:27 --> 00:40:26:24] incentivar a nossa criatividade, ok? Então eu espero que você tenha curtido essa aula
+[00:40:26:24 --> 00:40:31:10] e eu te vejo no nosso próximo episódio. Até mais e fui! Tchau, tchau!

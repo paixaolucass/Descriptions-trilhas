@@ -1,0 +1,1260 @@
+1
+00:00:00,412 --> 00:00:03,232
+O que é Git, o que os desenvolvedores usam aí,
+
+2
+00:00:03,432 --> 00:00:05,032
+qual é a relação disso com GitHub?
+
+3
+00:00:05,912 --> 00:00:07,432
+Explicação bem rápida, tá, galera?
+
+4
+00:00:07,852 --> 00:00:11,912
+Mas imagina que você precisa versionar os seus projetos
+
+5
+00:00:11,912 --> 00:00:14,232
+para que você consiga voltar em versões anteriores,
+
+6
+00:00:14,232 --> 00:00:17,412
+caso alguma coisa quebre, caso você queira fazer algum teste
+
+7
+00:00:17,412 --> 00:00:19,372
+e se der errado voltar para a versão original.
+
+8
+00:00:19,752 --> 00:00:21,952
+Imagina que você está trabalhando num projeto aqui
+
+9
+00:00:21,952 --> 00:00:24,252
+e você está dando Ctrl S nele, beleza?
+
+10
+00:00:24,912 --> 00:00:27,232
+A gente já está acostumado a dar Ctrl S aí
+
+11
+00:00:27,232 --> 00:00:29,072
+quem trabalhou com ferramentas mais antigas.
+
+12
+00:00:29,072 --> 00:00:33,112
+Hoje em dia, as ferramentas da nuvem, elas ficam com o autosave ligado.
+
+13
+00:00:33,192 --> 00:00:36,172
+Então, se você usa Figma, você nem precisa ficar dando Ctrl S toda hora.
+
+14
+00:00:36,392 --> 00:00:40,512
+Mas quem é das mais antigas aí, a maioria das pessoas aqui tem mais de 25 anos,
+
+15
+00:00:40,632 --> 00:00:41,992
+então a maioria vai se lembrar disso.
+
+16
+00:00:42,172 --> 00:00:47,292
+Você vai usar um Illustrator, um Photoshop, ou também vai usar um Google, não,
+
+17
+00:00:47,452 --> 00:00:49,592
+um Microsoft Word, um Excel.
+
+18
+00:00:49,792 --> 00:00:52,072
+A gente tem que ficar dando Ctrl S, lembra?
+
+19
+00:00:52,072 --> 00:00:54,432
+Para ficar salvando, porque se desse alguma coisa no computador,
+
+20
+00:00:54,432 --> 00:00:55,332
+fechava e perdia tudo.
+
+21
+00:00:55,492 --> 00:00:55,972
+Vocês lembram disso?
+
+22
+00:00:56,372 --> 00:00:56,932
+Pois é.
+
+23
+00:00:57,512 --> 00:01:00,612
+Então, aqui, quando a gente vai trabalhar o computador,
+
+24
+00:01:00,672 --> 00:01:01,812
+a gente tinha que ficar dando Ctrl S.
+
+25
+00:01:02,352 --> 00:01:04,712
+Imagina que você está trabalhando em um projeto.
+
+26
+00:01:04,972 --> 00:01:08,272
+Aí o seu Cloud vai lá e você tem uma pasta lá, a pasta X.
+
+27
+00:01:08,872 --> 00:01:12,052
+E a sua pasta X está cheia de mudanças que você fez.
+
+28
+00:01:12,172 --> 00:01:13,932
+O Cloud vai lá e apaga essa pasta.
+
+29
+00:01:14,432 --> 00:01:16,512
+Ou então ele não apaga, ele modifica ela.
+
+30
+00:01:16,592 --> 00:01:17,132
+Melhor ainda.
+
+31
+00:01:17,252 --> 00:01:19,352
+E a pasta que era X virou uma pasta Y, né?
+
+32
+00:01:19,732 --> 00:01:23,572
+Aí entra aí no paradoxo de Teseu, o navio de Teseu.
+
+33
+00:01:24,252 --> 00:01:26,592
+ela foi mudando ali, mudou tudo
+
+34
+00:01:26,592 --> 00:01:28,552
+chegou uma hora não era mais o mesmo, só que você queria
+
+35
+00:01:28,552 --> 00:01:30,112
+voltar a pasta ser x
+
+36
+00:01:30,112 --> 00:01:32,472
+todos aqueles arquivos que você modificou
+
+37
+00:01:32,472 --> 00:01:34,032
+você queria voltar pra versão de ontem
+
+38
+00:01:34,032 --> 00:01:35,932
+e você não consegue, por quê?
+
+39
+00:01:36,012 --> 00:01:37,032
+ele salvou por cima
+
+40
+00:01:38,588 --> 00:01:43,748
+Por isso, um dos motivos de ter o Git é para você versionar o seu projeto,
+
+41
+00:01:43,928 --> 00:01:49,328
+para você conseguir fazer esses autosaves com o histórico do projeto que você está trabalhando.
+
+42
+00:01:49,508 --> 00:01:51,528
+Basicamente, a gente vai precisar do Git aqui.
+
+43
+00:01:51,648 --> 00:01:55,928
+O Cloud, quando você instala o Cloud no terminal, ele pede o Git,
+
+44
+00:01:56,088 --> 00:01:58,848
+senão dá errado, não funciona, então a gente vai precisar do Git.
+
+45
+00:01:59,008 --> 00:02:03,988
+Mas não só o Cloud pede o Git, como também é uma boa prática na hora de trabalhar os projetos.
+
+46
+00:02:04,288 --> 00:02:07,668
+E aí, o que é o GitHub, que é a ferramenta favorita dos devs,
+
+47
+00:02:07,668 --> 00:02:09,708
+e que tem se tornado a ferramenta favorita
+
+48
+00:02:09,708 --> 00:02:11,608
+dos criadores, qualquer pessoa que cria.
+
+49
+00:02:11,728 --> 00:02:13,708
+Não são mais só os devs que estão usando
+
+50
+00:02:13,708 --> 00:02:15,588
+o GitHub. Eu utilizo muito
+
+51
+00:02:15,588 --> 00:02:16,708
+o GitHub, eu não sou dev.
+
+52
+00:02:17,428 --> 00:02:19,588
+Qual que é a ideia, né? O GitHub é um
+
+53
+00:02:19,588 --> 00:02:21,128
+hub de kits.
+
+54
+00:02:21,848 --> 00:02:23,048
+Mas o que isso significa?
+
+55
+00:02:23,688 --> 00:02:25,508
+Quando você instala o kit
+
+56
+00:02:25,508 --> 00:02:26,908
+no seu computador, tá? Então ele é um
+
+57
+00:02:27,348 --> 00:02:29,568
+programa que você instala e ele gerencia,
+
+58
+00:02:29,568 --> 00:02:31,368
+faz um histórico de versão pra você,
+
+59
+00:02:32,048 --> 00:02:33,448
+mas isso tá local,
+
+60
+00:02:33,608 --> 00:02:35,628
+tá dentro do seu computador. Imagina que você
+
+61
+00:02:35,628 --> 00:02:37,548
+você quer compartilhar isso com outra pessoa?
+
+62
+00:02:37,828 --> 00:02:39,268
+Para isso, existe o GitHub.
+
+63
+00:02:39,648 --> 00:02:42,148
+O GitHub é uma espécie de Google Drive.
+
+64
+00:02:42,388 --> 00:02:44,308
+Para fazer uma analogia aqui para vocês simples,
+
+65
+00:02:44,448 --> 00:02:47,088
+ele é um Google Drive que armazena na nuvem
+
+66
+00:02:47,088 --> 00:02:49,048
+os seus históricos de Git,
+
+67
+00:02:49,188 --> 00:02:52,748
+no que a gente chama de repositórios.
+
+68
+00:02:53,808 --> 00:02:54,288
+Repositórios.
+
+69
+00:02:54,408 --> 00:02:56,168
+Então, nesses repositórios aqui,
+
+70
+00:02:56,308 --> 00:02:58,948
+a gente salva todos os arquivos do seu projeto.
+
+71
+00:02:59,088 --> 00:03:01,268
+Então, você clona o seu projeto para a nuvem ali,
+
+72
+00:03:01,948 --> 00:03:04,548
+e aí outras pessoas podem acessar ali
+
+73
+00:03:04,548 --> 00:03:08,048
+ali todos os seus arquivos que estão naquela pastinha da nuvem ali.
+
+74
+00:03:08,288 --> 00:03:08,848
+Beleza?
+
+75
+00:03:09,468 --> 00:03:12,568
+Aí, se tiver mais pessoas ali trabalhando num projeto,
+
+76
+00:03:12,888 --> 00:03:16,188
+você consegue gerenciar quantas pessoas trabalham ali.
+
+77
+00:03:16,388 --> 00:03:19,368
+Isso aqui é um outro motivo de precisar do Git.
+
+78
+00:03:19,808 --> 00:03:22,328
+Imagina como o software era desenvolvido antes, né?
+
+79
+00:03:22,368 --> 00:03:24,548
+Até quando tinha disquete, CD, pendrive.
+
+80
+00:03:24,588 --> 00:03:26,648
+Você está trabalhando num projeto aqui.
+
+81
+00:03:26,828 --> 00:03:29,768
+Então, imagina que existe uma pasta no seu computador,
+
+82
+00:03:29,788 --> 00:03:32,028
+aqui do sistema que você está trabalhando.
+
+83
+00:03:32,028 --> 00:03:34,948
+Aí você fez alterações aqui nessa pasta.
+
+84
+00:03:35,288 --> 00:03:38,688
+Só que o seu amigo, que também trabalha nesse projeto junto com você,
+
+85
+00:03:38,828 --> 00:03:40,368
+ele também fez alterações.
+
+86
+00:03:40,688 --> 00:03:43,268
+Só que ele está lá no PC dele.
+
+87
+00:03:43,448 --> 00:03:45,668
+E você está aqui no seu PC.
+
+88
+00:03:46,348 --> 00:03:48,588
+Nenhum sabe das alterações do outro.
+
+89
+00:03:48,808 --> 00:03:50,948
+Vocês precisam se atualizar.
+
+90
+00:03:51,508 --> 00:03:54,908
+Imagina que vocês dois querem subir as atualizações de vocês
+
+91
+00:03:54,908 --> 00:03:56,768
+para um mesmo lugar.
+
+92
+00:03:57,068 --> 00:04:00,268
+Então imagina que vocês dois vão subir numa pasta principal.
+
+93
+00:04:00,268 --> 00:04:05,848
+principal só que esse o seu amigo que tá trabalhando nisso junto com você editou o mesmo
+
+94
+00:04:05,848 --> 00:04:11,828
+arquivo que você então você tinha um arquivo aqui chamado de arquivo x lá e aí você modificou esse
+
+95
+00:04:11,828 --> 00:04:17,428
+arquivo só que o seu amigo também modificou esse arquivo ele modificou a linha 40 você também
+
+96
+00:04:17,968 --> 00:04:23,288
+modificou a linha 40 como que a gente decide qual desses qual dessas atualizações vai ser a
+
+97
+00:04:23,288 --> 00:04:28,908
+oficial validada aqui dentro do nosso isso aqui era eu tentando fazer aquele selinho de validação
+
+98
+00:04:28,908 --> 00:04:31,048
+com o meu mouse. Como que eu sei
+
+99
+00:04:31,048 --> 00:04:32,928
+qual das duas eu vou validar aqui? Isso tudo
+
+100
+00:04:32,928 --> 00:04:34,948
+é uma gestão de Git. Nós trabalhamos
+
+101
+00:04:34,948 --> 00:04:36,748
+isso com o que é chamado, termo novo
+
+102
+00:04:36,748 --> 00:04:38,828
+também, fica tranquilo, não tem que decorar nada
+
+103
+00:04:38,828 --> 00:04:41,128
+disso agora. Branches, que são galhos.
+
+104
+00:04:41,808 --> 00:04:42,888
+Então imagina que você
+
+105
+00:04:42,888 --> 00:04:44,828
+tem uma branch principal chamada de
+
+106
+00:04:44,828 --> 00:04:46,608
+main, e nessa branch principal
+
+107
+00:04:46,608 --> 00:04:48,928
+ficam os arquivos oficiais, é a fonte
+
+108
+00:04:48,928 --> 00:04:50,468
+de verdade ali, fonte
+
+109
+00:04:50,468 --> 00:04:52,808
+da verdade do projeto que você
+
+110
+00:04:52,808 --> 00:04:54,808
+está trabalhando. Todo mundo sabe
+
+111
+00:04:54,808 --> 00:04:56,828
+que essa é a fonte da verdade, só que você
+
+112
+00:04:56,828 --> 00:05:01,668
+Você pode criar aqui outras branches que são caminhos paralelos aqui,
+
+113
+00:05:01,708 --> 00:05:03,868
+que você chama aqui, por exemplo, Ruan, teste.
+
+114
+00:05:04,408 --> 00:05:08,488
+Então, eu posso fazer testes aqui em outros caminhos,
+
+115
+00:05:08,588 --> 00:05:12,128
+e quando eu faço esses testes, se quebrar alguma coisa,
+
+116
+00:05:12,148 --> 00:05:13,968
+não quebra a principal, quebra só a minha.
+
+117
+00:05:14,128 --> 00:05:15,708
+Mas não só para quebrar que isso serve.
+
+118
+00:05:15,868 --> 00:05:19,508
+Serve também para validar antes de fazer o que a gente chama de quê?
+
+119
+00:05:19,548 --> 00:05:22,628
+Quando você junta isso no main de novo, a gente chama isso de merge.
+
+120
+00:05:23,008 --> 00:05:25,888
+É muita coisa, eu sei que é um universo novo para vocês,
+
+121
+00:05:25,888 --> 00:05:29,688
+mas fiquem tranquilos que o principal que vocês precisam saber
+
+122
+00:05:29,688 --> 00:05:31,528
+é para que isso serve nesse momento.
+
+123
+00:05:31,768 --> 00:05:33,868
+Depois, claro, eu vou recomendar muito,
+
+124
+00:05:33,928 --> 00:05:36,868
+se você quer se tornar uma pessoa orquestradora,
+
+125
+00:05:36,868 --> 00:05:39,308
+anexialista, que cria coisas incríveis na sua casa,
+
+126
+00:05:39,328 --> 00:05:40,648
+com seu computador e com as suas IAs,
+
+127
+00:05:40,768 --> 00:05:42,588
+você tem que entender o funcionamento.
+
+128
+00:05:42,708 --> 00:05:45,648
+Você não precisa saber código, mas você tem que entender como funciona
+
+129
+00:05:45,648 --> 00:05:47,748
+e eu vou dar caminhos para você continuar aprendendo.
+
+130
+00:05:47,908 --> 00:05:50,728
+No caso, então, a gente vai precisar do Git
+
+131
+00:05:50,728 --> 00:05:52,608
+para fazer toda essa versão para você.
+
+132
+00:05:52,608 --> 00:05:55,748
+todo esse versionamento, essa gestão de histórico do projeto.
+
+133
+00:05:55,968 --> 00:05:59,228
+E o GitHub, ele é então um Google Drive, digamos assim,
+
+134
+00:05:59,328 --> 00:06:01,988
+onde você guarda o repositório e todo mundo tem acesso
+
+135
+00:06:01,988 --> 00:06:04,628
+àqueles arquivos ali para trabalhar no projeto, tá bom?
+
+136
+00:06:04,808 --> 00:06:07,908
+No momento, a gente precisa pelo menos instalar o Git aqui.
+
+137
+00:06:08,328 --> 00:06:12,148
+Então, o anti-gravity já foi, beleza, concluído aqui,
+
+138
+00:06:12,248 --> 00:06:15,128
+ele vai abrir para a gente, mas eu vou mostrar para vocês
+
+139
+00:06:15,128 --> 00:06:16,948
+como instalar o Git também.
+
+140
+00:06:17,408 --> 00:06:19,608
+Existe o modo hacker de instalar o Git,
+
+141
+00:06:19,608 --> 00:06:21,108
+Git, que é o modo
+
+142
+00:06:21,108 --> 00:06:23,108
+pelo prompt aqui de comando.
+
+143
+00:06:23,648 --> 00:06:24,808
+E existe o modo
+
+144
+00:06:25,588 --> 00:06:27,388
+humanos normais de instalar o Git,
+
+145
+00:06:27,568 --> 00:06:29,168
+que é o que eu vou mostrar aqui pra vocês,
+
+146
+00:06:29,248 --> 00:06:31,128
+porque eu acredito que vai ser mais leve
+
+147
+00:06:31,128 --> 00:06:33,328
+aqui nesse momento. Depois a gente vai
+
+148
+00:06:33,328 --> 00:06:35,408
+avançando pra comandos novos
+
+149
+00:06:35,408 --> 00:06:37,328
+e coisas do tipo. Vocês vão
+
+150
+00:06:37,328 --> 00:06:39,128
+vir aqui no seu Google e vão digitar só
+
+151
+00:06:39,128 --> 00:06:41,328
+Git. Vai aparecer esse Git
+
+152
+00:06:41,328 --> 00:06:43,428
+laranjinha aqui, ó. Git install.
+
+153
+00:06:44,008 --> 00:06:45,368
+Tá vendo? Esse aqui.
+
+154
+00:06:46,972 --> 00:06:49,272
+Não dá para ser só no GitHub.
+
+155
+00:06:49,592 --> 00:06:52,392
+Esse Git aqui, você tem que instalar ele no seu computador
+
+156
+00:06:52,392 --> 00:06:56,472
+para conseguir utilizar a inteligência artificial dentro do seu terminal.
+
+157
+00:06:56,832 --> 00:06:58,532
+Inclusive, teve gente que perguntou, né?
+
+158
+00:06:58,572 --> 00:07:00,532
+Digitei Cloud no terminal e não apareceu nada,
+
+159
+00:07:00,612 --> 00:07:02,712
+porque a gente ainda não instalou ele no terminal.
+
+160
+00:07:03,292 --> 00:07:05,652
+Não quer dizer que você instalou o desktop,
+
+161
+00:07:05,852 --> 00:07:07,392
+que ele vai funcionar no terminal.
+
+162
+00:07:07,452 --> 00:07:08,852
+São duas coisas diferentes.
+
+163
+00:07:09,052 --> 00:07:11,152
+Eu estou mostrando processos diferentes para vocês, tá bom?
+
+164
+00:07:11,472 --> 00:07:13,772
+Então, vou clicar aqui em Git install, beleza?
+
+165
+00:07:14,272 --> 00:07:16,532
+E aí, aqui você vai escolher se é Mac OS,
+
+166
+00:07:17,012 --> 00:07:21,232
+Windows ou Linux. Eu sei, pessoal, esse site aqui parece que ele veio lá de 2010, né?
+
+167
+00:07:22,652 --> 00:07:27,692
+Então, fiquem tranquilos, esse aqui é o oficial mesmo, é assim que instala, vai dar tudo certo.
+
+168
+00:07:28,012 --> 00:07:31,172
+Quem já tem Git, tá tranquilo, não precisa se preocupar.
+
+169
+00:07:31,332 --> 00:07:35,592
+Então, eu vou vir aqui em Windows e vou clicar aqui no meu, que é o 64x.
+
+170
+00:07:35,792 --> 00:07:39,472
+Se você tá usando aí ARM, você vai pegar o ARM.
+
+171
+00:07:39,632 --> 00:07:41,832
+No meu caso aqui, eu vou pegar o 64x.
+
+172
+00:07:42,772 --> 00:07:43,172
+Beleza?
+
+173
+00:07:43,532 --> 00:07:44,812
+Então, eu vou clicar aqui agora.
+
+174
+00:07:47,420 --> 00:07:50,460
+E aí, beleza, aqui, ó, ele vai aparecer a mensagem para mim
+
+175
+00:07:50,460 --> 00:07:52,520
+e eu posso instalar ele no meu computador.
+
+176
+00:07:52,840 --> 00:07:55,280
+Aqui, no caso, eu acho que ele não vai acontecer nada
+
+177
+00:07:56,260 --> 00:07:57,840
+porque já está instalado para mim.
+
+178
+00:07:58,440 --> 00:08:00,020
+Mas o que vocês vão fazer aí?
+
+179
+00:08:00,220 --> 00:08:01,120
+Aqui, ó, deixa eu ver.
+
+180
+00:08:01,240 --> 00:08:02,060
+Ah, ele até apareceu.
+
+181
+00:08:02,160 --> 00:08:03,720
+Então, eu vou instalar de novo aqui com vocês.
+
+182
+00:08:03,820 --> 00:08:05,060
+Vamos ver se ele vai mudar.
+
+183
+00:08:05,200 --> 00:08:06,940
+Então, o primeiro passo, vocês já sabem, né,
+
+184
+00:08:06,960 --> 00:08:08,060
+ler tudo que está aqui.
+
+185
+00:08:08,520 --> 00:08:10,280
+Aí, depois que você ler tudo que está aqui,
+
+186
+00:08:10,300 --> 00:08:11,180
+você clica aqui, beleza?
+
+187
+00:08:11,760 --> 00:08:13,840
+E aí, deixa ele instalar para você aí.
+
+188
+00:08:14,940 --> 00:08:16,820
+Talvez o meu já pulou as etapas, né,
+
+189
+00:08:16,820 --> 00:08:18,120
+porque já está instalado, não sei.
+
+190
+00:08:18,160 --> 00:08:19,900
+Vamos ver aqui se as outras etapas vão aparecer.
+
+191
+00:08:20,060 --> 00:08:22,380
+Se o seu deu uma etapa diferente do meu,
+
+192
+00:08:24,028 --> 00:08:26,128
+Se o seu der diferente do meu aqui,
+
+193
+00:08:26,708 --> 00:08:30,248
+vocês só precisam ir avançando no que já está recomendado.
+
+194
+00:08:30,928 --> 00:08:31,248
+Beleza?
+
+195
+00:08:31,328 --> 00:08:32,808
+Deixa eu ver se ele vai me mostrar aqui.
+
+196
+00:08:32,868 --> 00:08:33,308
+Eu acho que não.
+
+197
+00:08:33,968 --> 00:08:35,208
+É, o meu foi direto.
+
+198
+00:08:36,924 --> 00:08:41,524
+Eu vou tentar mais uma vez, porque isso aqui é um pouco diferente pra vocês, tá?
+
+199
+00:08:41,624 --> 00:08:42,904
+Eu vou tentar mais uma vez aqui.
+
+200
+00:08:43,624 --> 00:08:45,864
+Vamos ver, torção pro meu PC não explodir.
+
+201
+00:08:47,644 --> 00:08:53,784
+Eu vou fazer de novo aqui, só para ver se eu consigo mostrar para vocês aqui como que vocês...
+
+202
+00:08:53,784 --> 00:08:56,184
+Ah, pera aí, cancelar. Hum, será que eu estou abrindo?
+
+203
+00:08:59,740 --> 00:09:00,700
+Ah não, tá desligado aqui.
+
+204
+00:09:01,200 --> 00:09:01,600
+Executando.
+
+205
+00:09:02,760 --> 00:09:03,160
+Stop.
+
+206
+00:09:03,760 --> 00:09:04,580
+Salvar estado não.
+
+207
+00:09:04,860 --> 00:09:05,800
+Desligar, desligar.
+
+208
+00:09:05,820 --> 00:09:06,660
+Deixa ele desligar aí.
+
+209
+00:09:06,860 --> 00:09:07,260
+Beleza.
+
+210
+00:09:07,600 --> 00:09:10,480
+Eu vou abrir aqui o Atlas mesmo.
+
+211
+00:09:12,188 --> 00:09:13,068
+Para instalar aí para vocês.
+
+212
+00:09:17,212 --> 00:09:21,272
+Sim, a Vitória disse que o Cloud dela já falou para ela instalar e instalou para ela.
+
+213
+00:09:21,332 --> 00:09:24,472
+Sim, tem como fazer isso, mas eu estou só mostrando para vocês o processo,
+
+214
+00:09:24,552 --> 00:09:26,252
+caso dê diferente para alguma pessoa, tá?
+
+215
+00:09:27,708 --> 00:09:29,468
+Por isso que é importante eu passar o processo aqui.
+
+216
+00:09:29,588 --> 00:09:30,928
+Mas é bem rapidinho, vocês vão ver aí.
+
+217
+00:09:31,208 --> 00:09:32,788
+No Mac é totalmente diferente.
+
+218
+00:09:33,528 --> 00:09:35,288
+Sim, no Mac é um pouco diferente mesmo.
+
+219
+00:09:35,668 --> 00:09:37,828
+Mas as opções que vão aparecer, eu vou mostrar aqui, né?
+
+220
+00:09:37,848 --> 00:09:40,128
+Só no Mac não, no Windows aparece várias opções também.
+
+221
+00:09:41,128 --> 00:09:41,768
+Eu quero...
+
+222
+00:09:43,196 --> 00:09:45,756
+Ele vai reiniciar o computador aqui, né?
+
+223
+00:09:45,816 --> 00:09:46,836
+Deixa ele reiniciar aí.
+
+224
+00:09:47,996 --> 00:09:48,316
+Beleza.
+
+225
+00:09:49,376 --> 00:09:50,016
+Tá reiniciando.
+
+226
+00:09:52,700 --> 00:09:53,780
+Pronto, vamos ver aqui agora.
+
+227
+00:09:57,148 --> 00:09:58,688
+Se eu desconectar, vocês já sabem o que foi.
+
+228
+00:10:00,796 --> 00:10:01,976
+É Git Bash mesmo, tá?
+
+229
+00:10:02,076 --> 00:10:03,156
+É Git Bash, é isso aí.
+
+230
+00:10:03,596 --> 00:10:05,216
+Aqui, ó, deixa ele carregar, pronto.
+
+231
+00:10:05,476 --> 00:10:07,756
+Vou ir no Edge mesmo, é o que a gente tem aqui,
+
+232
+00:10:07,916 --> 00:10:08,836
+tá sem Google Chrome.
+
+233
+00:10:09,676 --> 00:10:11,556
+Abre o Edge, vou digitar aqui Git, ó.
+
+234
+00:10:11,716 --> 00:10:12,356
+Digita Git.
+
+235
+00:10:13,376 --> 00:10:15,116
+Deixa eu ver aqui, deixa eu ver.
+
+236
+00:10:15,156 --> 00:10:16,136
+Nossa, esse Edge é ruim.
+
+237
+00:10:16,236 --> 00:10:17,216
+Mas é o mesmo link, né?
+
+238
+00:10:17,776 --> 00:10:18,796
+Beleza, tô aqui agora.
+
+239
+00:10:19,856 --> 00:10:21,696
+Vou clicar aqui em instalar para Windows.
+
+240
+00:10:21,876 --> 00:10:23,976
+Vou pegar aqui Windows 64x.
+
+241
+00:10:24,876 --> 00:10:26,036
+Deixa ele aparecer aqui.
+
+242
+00:10:26,076 --> 00:10:27,756
+Eu vou mostrar para vocês como que instala, tá?
+
+243
+00:10:27,796 --> 00:10:29,696
+São vários passos mesmo, eu vou mostrar aqui,
+
+244
+00:10:29,736 --> 00:10:30,616
+vai ser mais fácil.
+
+245
+00:10:30,796 --> 00:10:36,376
+tá dando certo aqui deixa ele carregar pronto vou abrir o arquivo pra gente
+
+246
+00:10:39,164 --> 00:10:40,324
+Dou um sim aqui, beleza?
+
+247
+00:10:41,884 --> 00:10:45,304
+Legal, lê tudo aí, dá um next, aí beleza, aqui vai ser diferente.
+
+248
+00:10:45,504 --> 00:10:48,384
+Então, primeiro, a pasta onde vai ficar,
+
+249
+00:10:48,904 --> 00:10:52,044
+aqui não precisa mexer em nada, deixa desse jeito aqui mesmo,
+
+250
+00:10:52,604 --> 00:10:54,884
+aqui também pode deixar desse jeito como o Git,
+
+251
+00:10:55,724 --> 00:10:57,684
+aqui a gente tem uma mudança legal, tá?
+
+252
+00:10:57,744 --> 00:11:01,364
+Quando chegar nessa página aqui, escolher um editor padrão para usar o Git,
+
+253
+00:11:01,564 --> 00:11:03,164
+se vocês estiverem no Windows,
+
+254
+00:11:04,604 --> 00:11:05,444
+Deu uma travada.
+
+255
+00:11:05,524 --> 00:11:08,244
+Se estiver no Windows, coloca o WordPad aqui, tá?
+
+256
+00:11:08,404 --> 00:11:09,444
+Use WordPad.
+
+257
+00:11:09,724 --> 00:11:12,444
+Se você está no Mac, coloca aí.
+
+258
+00:11:12,484 --> 00:11:13,964
+Deixa eu ver se tem aqui para eu ver o do Mac.
+
+259
+00:11:15,260 --> 00:11:17,640
+Coloca o editor padrão do Mac aí para você também.
+
+260
+00:11:19,708 --> 00:11:23,568
+Aqui eu vou deixar o WordPad para Windows mesmo, certo?
+
+261
+00:11:25,884 --> 00:11:28,164
+Deixa eu ver, eu acho que aqui para mim não vai aparecer o de Mac, né?
+
+262
+00:11:28,184 --> 00:11:31,924
+Porque eu estou no Windows, mas deixa o editor de texto padrão do seu Mac.
+
+263
+00:11:32,624 --> 00:11:35,824
+Deixar aqui em WordPad então, vou dar aqui um Next.
+
+264
+00:11:37,564 --> 00:11:41,764
+Beleza, aqui pode deixar o git decidir, não coloca aqui, isso aqui é sobre as branches.
+
+265
+00:11:42,584 --> 00:11:46,724
+Na verdade pode até marcar como main aqui, senão ele vai usar master e master é legado,
+
+266
+00:11:46,724 --> 00:11:49,984
+a gente não usa mais, porque master é sobre o mestre, né?
+
+267
+00:11:50,464 --> 00:11:55,424
+E tem o master e slayer, que são os escravos aqui, o pessoal mudou a nomenclatura pra ficar melhor.
+
+268
+00:11:56,004 --> 00:11:58,884
+Marco debaixo e deixa main, igual tá aqui, beleza?
+
+269
+00:12:00,220 --> 00:12:01,360
+Então vou deixar a main aqui mesmo.
+
+270
+00:12:02,908 --> 00:12:05,948
+Caraca, não posso clicar em nenhuma caixa de texto não, que ele buga.
+
+271
+00:12:07,580 --> 00:12:07,920
+Olha aí.
+
+272
+00:12:09,500 --> 00:12:11,620
+Virtual machine maldita.
+
+273
+00:12:14,044 --> 00:12:16,944
+próximo Atlas vou vir com 64 GB
+
+274
+00:12:16,944 --> 00:12:18,984
+também de memória
+
+275
+00:12:18,984 --> 00:12:20,564
+olha aí, ah, então sai
+
+276
+00:12:20,564 --> 00:12:22,264
+só faz alguma coisa
+
+277
+00:12:25,468 --> 00:12:25,988
+Que coisa!
+
+278
+00:12:28,540 --> 00:12:30,380
+vou dar um next, é só xingar que funciona.
+
+279
+00:12:31,280 --> 00:12:31,660
+Aqui,
+
+280
+00:12:32,580 --> 00:12:34,520
+aqui ele está falando para você sobre
+
+281
+00:12:35,760 --> 00:12:36,520
+o terminal,
+
+282
+00:12:36,640 --> 00:12:38,600
+só que isso aqui não faz diferença para a gente, que a gente não vai
+
+283
+00:12:38,600 --> 00:12:40,220
+usar aqui, então vou deixar aqui como
+
+284
+00:12:40,220 --> 00:12:42,160
+o recomendado mesmo, está vendo aqui,
+
+285
+00:12:42,220 --> 00:12:44,000
+recommended, deixando o recomendado.
+
+286
+00:12:44,480 --> 00:12:46,420
+Aqui, pode deixar nesse useBundled
+
+287
+00:12:47,380 --> 00:12:47,760
+openSSH.
+
+288
+00:12:49,596 --> 00:12:52,856
+Aqui você pode deixar também para usar a segurança nativa do Windows,
+
+289
+00:12:53,056 --> 00:12:54,196
+de biblioteca.
+
+290
+00:12:54,336 --> 00:12:56,956
+Aqui pode deixar assim também, Windows Style,
+
+291
+00:12:57,176 --> 00:12:58,756
+não vai fazer tanta diferença para a gente.
+
+292
+00:12:58,956 --> 00:13:00,896
+Aqui pode deixar em Min TTY.
+
+293
+00:13:03,004 --> 00:13:04,704
+Aqui pode deixar também Fast Forward
+
+294
+00:13:04,704 --> 00:13:06,804
+or Merge. Tem a ver também com as branches
+
+295
+00:13:06,804 --> 00:13:08,864
+que eu estava explicando para vocês, mas pode
+
+296
+00:13:08,864 --> 00:13:10,984
+deixar aqui no padrão. E aqui também
+
+297
+00:13:10,984 --> 00:13:12,424
+pode deixar no padrão.
+
+298
+00:13:13,124 --> 00:13:14,684
+Aqui você deixa habilitado.
+
+299
+00:13:15,444 --> 00:13:17,184
+Não coloca Symbolic Links.
+
+300
+00:13:17,224 --> 00:13:18,864
+Isso aqui é mais avançado.
+
+301
+00:13:18,864 --> 00:13:20,704
+Não vale a pena. Deixa assim. E pronto.
+
+302
+00:13:20,904 --> 00:13:21,884
+Vai instalar para vocês.
+
+303
+00:13:22,724 --> 00:13:23,204
+Beleza?
+
+304
+00:13:25,948 --> 00:13:30,088
+A gente não vai usar o WordPad, tem como setar o WordPad de padrão depois de instalado?
+
+305
+00:13:30,108 --> 00:13:33,808
+Tem, mas não faz diferença, tá? Não vai fazer diferença não, é só pra instalar aqui mesmo.
+
+306
+00:13:37,436 --> 00:13:38,456
+Então está carregando aqui agora.
+
+307
+00:13:39,836 --> 00:13:43,656
+Galera, quem está tendo alguma dificuldade, infelizmente, são muitas pessoas aqui, né?
+
+308
+00:13:43,696 --> 00:13:45,056
+A gente está com mais de 600 pessoas.
+
+309
+00:13:45,356 --> 00:13:50,116
+E não tem como eu prestar uma atenção, um suporte dedicado aqui para tirar suas dúvidas.
+
+310
+00:13:50,596 --> 00:13:55,116
+Então, tenta de novo, pergunta para o Cloud, às vezes, se tiver alguma coisa estranha, ele ajuda vocês, beleza?
+
+311
+00:13:55,676 --> 00:13:58,776
+Não precisa pedir para ele rodar o Git Bash, tá? Não precisa.
+
+312
+00:13:59,076 --> 00:14:00,256
+Só finaliza ele aqui.
+
+313
+00:14:00,476 --> 00:14:04,256
+Isso aqui vai ficar no plano de fundo do nosso computador.
+
+314
+00:14:04,416 --> 00:14:05,836
+A gente não vai ficar abrindo o Git.
+
+315
+00:14:06,056 --> 00:14:08,196
+Quem vai usar o Git é o Cloud para a gente.
+

@@ -1,0 +1,180 @@
+# Video: 11._apresentando_o_notebooklm_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 10:00
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:08 --> 00:00:02:28] Além de todos aqueles recursos que nós temos lá no...
+[00:00:04:14 --> 00:00:08:29] No Gemini, você pode usar ele no Google Docs, Google Sheets, Google Apresentações,
+[00:00:08:29 --> 00:00:11:25] pode usar o AI Studio também para fazer algumas gracinhas.
+[00:00:12:08 --> 00:00:17:20] Tem outra ferramenta que eu não poderia deixar de falar, que é uma LM, ou seja, uma Language Model,
+[00:00:17:25 --> 00:00:24:00] só que numa estrutura diferente, que é o Notebook LM.
+[00:00:24:11 --> 00:00:26:09] Qual é a vantagem do Notebook LM?
+[00:00:26:15 --> 00:00:30:21] O Notebook LM te permite criar notebooks, como se fossem pastas,
+[00:00:30:21 --> 00:00:35:23] onde você consegue subir várias fontes diferentes, que muitas vezes outros modelos não te deixam subir,
+[00:00:36:00 --> 00:00:40:03] e aí a partir disso você consegue conversar com essas fontes.
+[00:00:40:04 --> 00:00:50:26] Isso inclui inclusive vídeos do YouTube, além de sites que ele faz o scrapping para você, documentos, arquivos.
+[00:00:50:27 --> 00:00:54:03] Eu vou mostrar e vocês vão ver a mágica acontecendo, porque ele é bem fácil de usar.
+[00:00:54:17 --> 00:00:59:10] Então eu estou com o Notebook LM aqui, é notebooklm.google.com, é uma ferramenta do Google.
+[00:00:59:10 --> 00:01:03:10] do Google eu vou clicar aqui em criar novo eu já tô logado tá vendo no caso eu estou no notebook
+[00:01:03:10 --> 00:01:08:01] ele me Plus porque se você faz assinatura do Google você tem todos aqueles recursos do Gemini
+[00:01:08:01 --> 00:01:13:15] e essas outras ferramentas também você consegue inclusive acessar ele por aqui se eu não me engano
+[00:01:13:15 --> 00:01:15:01] Eles já colocaram?
+[00:01:16:19 --> 00:01:18:04] Eu lembro de ter visto aqui outro dia.
+[00:01:19:02 --> 00:01:19:29] Talvez foi um engano.
+[00:01:20:20 --> 00:01:22:03] Mas agora eu estou aqui dentro dele.
+[00:01:22:07 --> 00:01:24:14] Então, tem basicamente três colunas.
+[00:01:24:14 --> 00:01:26:19] Aqui ficam todas as fontes que você subiu.
+[00:01:27:00 --> 00:01:28:12] Aqui fica a conversa.
+[00:01:28:12 --> 00:01:32:07] E aqui é o estúdio para você gerenciar, gerar notas, gerar outros arquivos.
+[00:01:32:07 --> 00:01:35:16] E até mesmo gerar um podcast sobre as fontes que você subiu.
+[00:01:35:24 --> 00:01:37:06] Então, a gente vai fazer aqui o seguinte.
+[00:01:37:14 --> 00:01:39:20] Eu vou colocar aqui, YouTube, TED Talk.
+[00:01:41:09 --> 00:01:42:01] OpenAI.
+[00:01:42:10 --> 00:01:45:01] Vamos pegar aqui, OpenAI, Sun Ultimate Talks.
+[00:01:45:01 --> 00:01:46:20] Foi recente, olha, 11 dias.
+[00:01:46:28 --> 00:01:49:10] É um TED Talk legal de ouvir, 47 minutos aqui,
+[00:01:49:29 --> 00:01:52:22] dele conversando com o CEO do TED, né?
+[00:01:52:23 --> 00:01:53:13] Esqueci o nome dele.
+[00:01:55:14 --> 00:01:59:09] Aí eu vou pegar o link, vir aqui, adicionar fonte.
+[00:02:00:00 --> 00:02:01:21] Aqui eu tenho o link, site ou YouTube.
+[00:02:01:26 --> 00:02:04:04] Clica em YouTube, adiciona o link do YouTube, cola aqui.
+[00:02:05:08 --> 00:02:09:07] Agora, esse vídeo aqui, eu posso pedir para ele, olha só,
+[00:02:10:03 --> 00:02:14:18] traga os principais pontos discutidos neste vídeo.
+[00:02:15:08 --> 00:02:17:24] Imagina que agora você não precisa ver aulas gigantes,
+[00:02:17:24 --> 00:02:20:02] mas pode começar vendo se a aula é relevante para você
+[00:02:20:02 --> 00:02:22:14] antes de assistir o vídeo inteiro no YouTube.
+[00:02:22:14 --> 00:02:24:14] você joga aqui, ele traz os pontos
+[00:02:24:14 --> 00:02:26:19] inclusive o momento em que isso é falado
+[00:02:26:19 --> 00:02:28:21] no vídeo, tá? Então a apresentação
+[00:02:28:21 --> 00:02:29:27] de novos modelos da OpenAI
+[00:02:30:11 --> 00:02:32:03] discussão sobre o impacto em profissões
+[00:02:32:03 --> 00:02:34:16] ele vai trazendo tudo que foi discutido
+[00:02:34:16 --> 00:02:36:09] e eu posso salvar isso aqui
+[00:02:36:09 --> 00:02:37:23] nas notas de observação, olha
+[00:02:37:23 --> 00:02:40:02] ele vai salvar aqui do lado agora pra mim
+[00:02:40:02 --> 00:02:42:10] ele já vem com alguns presets aqui
+[00:02:42:10 --> 00:02:44:11] eu posso por exemplo falar, olha, gere perguntas
+[00:02:44:11 --> 00:02:45:26] frequentes, ele vai gerar
+[00:02:45:26 --> 00:02:47:27] gere documento de resumo, linha do tempo
+[00:02:47:27 --> 00:02:50:14] guia de estudos, tudo sobre a fonte
+[00:02:50:14 --> 00:02:52:03] eu posso subir várias fontes
+[00:02:52:03 --> 00:02:54:08] e pedir para ele mesclar todas elas, tá?
+[00:02:54:17 --> 00:02:55:18] E ele vai fazer isso.
+[00:02:55:21 --> 00:02:56:21] Então, ele está criando elas ali.
+[00:02:57:03 --> 00:02:58:21] Enquanto cria, eu quero mostrar para vocês.
+[00:02:58:26 --> 00:03:01:18] Então, você pode subir documento do Google, subir apresentação,
+[00:03:02:01 --> 00:03:05:16] copiar o texto, subir YouTube, subir site ou subir arquivos PDF seu.
+[00:03:06:23 --> 00:03:08:07] Qual que é a vantagem do Notebook LM?
+[00:03:08:08 --> 00:03:11:08] Ele é uma mão na roda para fazer isso aqui que a gente chama de RAG,
+[00:03:11:11 --> 00:03:13:17] que é o controle das suas fontes.
+[00:03:13:17 --> 00:03:16:22] E ele já faz isso para você de um jeito muito simples e fácil de usar.
+[00:03:17:01 --> 00:03:19:09] Então, você sobe as fontes que você precisa aqui,
+[00:03:19:10 --> 00:03:22:27] ele gerencia isso para você e você pode conversar com ele e gerar documentos.
+[00:03:22:27 --> 00:03:26:12] Então, eu tenho aqui, por exemplo, este documento que ele gerou aqui para mim.
+[00:03:27:08 --> 00:03:30:19] Sun Altman no TED, 7GPT, Agentes de A e Superinteligência.
+[00:03:30:25 --> 00:03:33:07] Está aqui, trago os principais pontos discutidos.
+[00:03:33:09 --> 00:03:34:14] Ele trouxe isso para a gente.
+[00:03:34:14 --> 00:03:35:28] ele trouxe também aqui ó
+[00:03:37:20 --> 00:03:40:26] Os principais pontos discutidos.
+[00:03:43:20 --> 00:03:44:24] Ah, eu tenho que atualizar isso aqui.
+[00:03:44:26 --> 00:03:45:24] Ele está trazendo a do lado.
+[00:03:47:21 --> 00:03:49:04] Eu posso limpar isso se eu quiser.
+[00:03:49:09 --> 00:03:50:28] Aqui também tem as configurações, né?
+[00:03:50:29 --> 00:03:52:21] Se eu quero ele analista, guia, personalizado.
+[00:03:53:06 --> 00:03:55:18] Resposta padrão, resposta mais longa ou resposta mais curta.
+[00:03:55:25 --> 00:03:57:14] Mas é isso aqui que eu queria mostrar para vocês.
+[00:03:57:16 --> 00:03:59:27] Eu posso aumentar aqui ou diminuir.
+[00:04:00:09 --> 00:04:04:18] Quando eu entro em uma conversa com ele, eu posso transformar ela em fonte também.
+[00:04:05:12 --> 00:04:13:03] E quando eu transformo ela em fonte, eu posso depois transformar isso aqui em um arquivo e mais fontes também.
+[00:04:13:07 --> 00:04:15:22] Então, ele vai expandindo o documento para você.
+[00:04:15:22 --> 00:04:17:25] que é bem legal para utilizar.
+[00:04:19:19 --> 00:04:21:18] E aí eu quero mostrar que ele também gera um podcast.
+[00:04:22:26 --> 00:04:25:13] Então vamos supor que você vai subindo vários PDFs aqui.
+[00:04:25:15 --> 00:04:26:25] Isso é muito bom para PDF também.
+[00:04:26:28 --> 00:04:28:19] Você sobe os PDFs que você quer estudar aqui.
+[00:04:28:21 --> 00:04:29:27] Vamos fazer um teste.
+[00:04:30:00 --> 00:04:31:16] Eu vou subir um PDF aqui para vocês.
+[00:04:32:05 --> 00:04:33:27] Vou vir aqui em...
+[00:04:36:20 --> 00:04:37:12] Será que está aqui?
+[00:04:41:11 --> 00:04:42:18] Vamos subir um PDF aqui.
+[00:04:43:18 --> 00:04:45:05] 10 tecnologias emergentes de 2024.
+[00:04:45:20 --> 00:04:47:29] Está ultrapassado esse aqui, mas eu já posso subir ele.
+[00:04:48:05 --> 00:04:52:20] Eu posso desativar as outras fontes para ele focar só na fonte que eu pedi.
+[00:04:53:27 --> 00:04:56:29] Ele descobre fontes para a gente também, faz uma pesquisa para descobrir.
+[00:04:57:09 --> 00:04:58:04] Mas aqui, ativei.
+[00:04:58:04 --> 00:04:59:22] 10 tecnologias emergentes.
+[00:04:59:22 --> 00:05:00:29] Eu posso ver o que tem no documento.
+[00:05:00:29 --> 00:05:03:24] Ele fez um scrapping, transcreveu o documento para a gente aqui.
+[00:05:04:14 --> 00:05:10:10] A mesma coisa, olha, se eu venho aqui no vídeo, está aqui o vídeo transcrito para a gente.
+[00:05:11:24 --> 00:05:16:18] E aí você pode copiar o vídeo e colar a transcrição dele, então é bem mais fácil e rápido de fazer.
+[00:05:16:26 --> 00:05:19:15] E aí no caso eu vou pegar só o PDF, estou com o PDF aqui.
+[00:05:19:19 --> 00:05:20:16] O que eu vou fazer agora?
+[00:05:20:23 --> 00:05:24:29] Eu vou pedir para ele gerar uma conversa entre duas IAs.
+[00:05:25:22 --> 00:05:28:28] Por enquanto está só em inglês, pelo menos a última vez que eu tinha visto era só em inglês.
+[00:05:29:21 --> 00:05:31:10] Não sei, às vezes eles já atualizaram.
+[00:05:32:21 --> 00:05:34:15] Mas o podcast fica muito bom em inglês.
+[00:05:35:22 --> 00:05:37:07] Deixa ele gerar aí, vamos ver se vai demorar muito.
+[00:05:38:24 --> 00:05:46:05] Estava com a galera aqui no chat ao vivo, eles me falaram que esse prompt aqui gera um podcast em português.
+[00:05:46:24 --> 00:05:51:16] Pelo tempo aqui, como ele já gerou, ele gerou um podcast de 32 minutos, eu não vou...
+[00:05:53:20 --> 00:05:54:14] Pedi para ele gerar de novo.
+[00:05:54:17 --> 00:05:56:25] Eu vou só dar o play para vocês verem a versão em inglês.
+[00:05:56:26 --> 00:05:58:10] Tem o modo interativo aqui também.
+[00:05:59:25 --> 00:06:00:26] Super inteligência.
+[00:06:01:02 --> 00:06:01:14] Participar.
+[00:06:01:14 --> 00:06:03:21] Eu posso participar da conversa com eles.
+[00:06:04:08 --> 00:06:06:01] E tem o podcast que ele gerou aqui.
+[00:06:06:03 --> 00:06:07:20] No caso, ele pegou aqui São Altman.
+[00:06:07:21 --> 00:06:09:28] Ele pegou a fonte.
+[00:06:09:29 --> 00:06:13:19] Então, talvez seja melhor você tirar essa fonte e criar outro notebook para poder fazer isso aqui.
+[00:06:13:26 --> 00:06:14:18] Mas vamos ouvir.
+[00:06:14:18 --> 00:06:14:26] Olha só.
+[00:06:34:22 --> 00:06:36:00] Limpinho pra ouvir, olha.
+[00:06:39:07 --> 00:06:42:11] Olha só, uma interferindo na outra.
+[00:06:47:16 --> 00:06:48:24] Olha isso, cara.
+[00:06:49:08 --> 00:06:50:22] É demais, né?
+[00:06:52:08 --> 00:06:54:00] Eu gosto muito dessa ferramenta.
+[00:06:58:27 --> 00:07:02:23] Boa. Então, é uma ferramenta muito massa também para usar.
+[00:07:02:25 --> 00:07:05:08] Você pode conversar com os hosts aqui também.
+[00:07:05:15 --> 00:07:08:01] Você fazer parte do podcast.
+[00:07:14:15 --> 00:07:16:11] Hi, talk in Portuguese with me, please.
+[00:07:20:02 --> 00:07:22:24] Oi, fale em português comigo, por favor.
+[00:07:26:29 --> 00:07:28:25] Olá! Que bom ter você conosco.
+[00:07:28:26 --> 00:07:31:06] Sim, ficamos muito felizes quando você participa.
+[00:07:31:07 --> 00:07:33:06] Então, como podemos conversar em português hoje?
+[00:07:33:12 --> 00:07:36:10] Quer saber mais sobre alguma das tecnologias que vamos discutir?
+[00:07:36:10 --> 00:07:38:29] Ou talvez tenha alguma experiência pessoal para compartilhar?
+[00:07:38:29 --> 00:07:41:05] Ah, fique à vontade para nos contar o que está pensando.
+[00:07:41:26 --> 00:07:43:02] Estávamos justamente começando...
+[00:07:43:02 --> 00:07:43:16] Oh, yeah!
+[00:07:46:05 --> 00:07:49:03] Sim, olha só, eu gostaria que vocês me falassem um pouco mais
+[00:07:49:03 --> 00:07:51:21] sobre o documento 10 Tecnologias Emergentes de 2024.
+[00:07:52:08 --> 00:07:54:02] Vamos fazer aqui um podcast sobre isso.
+[00:07:58:12 --> 00:08:02:11] É uma frase enigmática, para dizer o mínimo.
+[00:08:05:14 --> 00:08:07:09] Eles não me entenderam.
+[00:08:12:12 --> 00:08:15:15] Isso sugere uma mudança ou transição de alguma ferramenta.
+[00:08:15:15 --> 00:08:19:23] É porque o primeiro prompt eu falei com eles em...
+[00:08:22:11 --> 00:08:24:07] Mas sua observação levanta uma questão interessante.
+[00:08:28:12 --> 00:08:32:13] Talvez haja uma tecnologia de imagem 4 sendo movida por um ecossistema em Augusta.
+[00:08:32:13 --> 00:08:34:18] E quem sabe que tipo de aplicações isso poderia ter?
+[00:08:34:23 --> 00:08:38:02] Poderia até envolver alguma forma de realidade aumentada com o tema Pokémon.
+[00:08:39:05 --> 00:08:41:11] Embora não esqueja diretamente no nosso relatório.
+[00:08:41:13 --> 00:08:42:26] Enfim, interessante, né?
+[00:08:43:20 --> 00:08:46:08] E é uma ferramenta que eu gosto de utilizar também.
+[00:08:46:15 --> 00:08:48:19] Tem a versão gratuita dela que dá pra utilizar.
+[00:08:49:02 --> 00:08:50:27] E ela é muito boa pra fazer isso.
+[00:08:51:00 --> 00:08:52:27] Esse ponto aqui, ó.
+[00:08:53:00 --> 00:08:53:12] Hag.
+[00:08:54:06 --> 00:08:55:11] Que é retrivial.
+[00:08:55:15 --> 00:08:56:05] Aqui, ó. Hag.
+[00:08:57:24 --> 00:08:58:07] Sigla.
+[00:09:00:06 --> 00:09:00:13] Não.
+[00:09:01:04 --> 00:09:01:18] AI.
+[00:09:03:22 --> 00:09:05:12] Retrivial Augmented Generation.
+[00:09:05:29 --> 00:09:11:29] É uma técnica para você conseguir gerenciar todas essas fontes de informação para uma IA.
+[00:09:12:06 --> 00:09:16:17] E o Notebook LM gerencia isso para você de um jeito que é fácil e intuitivo de usar
+[00:09:16:17 --> 00:09:21:16] e que traz mídias diferentes do que eu conheço, que traz um podcast assim, é só ele.
+[00:09:21:24 --> 00:09:25:14] Então é bem interessante, eu não poderia deixar de trazer aqui para você também.
+[00:09:25:20 --> 00:09:28:05] Tá bom? Então essa foi a aula sobre Notebook.

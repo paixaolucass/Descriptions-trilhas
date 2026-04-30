@@ -1,0 +1,455 @@
+# Video: Aula 7 _ Aplicando a Equação de Valor.mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-27 18:30
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:01 --> 00:00:03:19] Porque agora a gente vai ver como construir tudo isso.
+[00:00:03:21 --> 00:00:07:10] A gente falou, viu exemplos ruins, viu algumas ideias,
+[00:00:07:10 --> 00:00:10:01] mas agora a gente vai ver como transformar realmente
+[00:00:10:24 --> 00:00:12:17] esses entregáveis em resultados.
+[00:00:13:03 --> 00:00:18:16] Então a equação de valor é uma fórmula bem simples na prática,
+[00:00:19:07 --> 00:00:21:03] só que daí que você começa a estudar mais sobre ela,
+[00:00:21:04 --> 00:00:24:02] você vê um monte de ideias e como você consegue
+[00:00:24:24 --> 00:00:26:10] desconstruir várias ofertas diferentes.
+[00:00:26:24 --> 00:00:29:27] Ela foi criada pelo Alex Ramosi, não sei se vocês conhecem.
+[00:00:30:25 --> 00:00:33:05] mas até hoje eu não vi um método mais valioso
+[00:00:33:05 --> 00:00:34:00] pra gente criar ofertas
+[00:00:35:23 --> 00:00:37:15] E aqui, essa que é a fórmula.
+[00:00:39:12 --> 00:00:41:01] Em cima a gente tem o resultado desejado.
+[00:00:42:12 --> 00:00:43:13] Depois a percepção de valor.
+[00:00:43:23 --> 00:00:47:21] E embaixo a gente tem o tempo por resultado, esforço e sacrifício.
+[00:00:48:00 --> 00:00:50:27] E isso se traduz em valor percebido.
+[00:00:51:00 --> 00:00:53:29] Então, calma, não é para fazer conta com calculadora.
+[00:00:54:11 --> 00:01:00:01] É para você usar isso aqui como uma lente para avaliar se a oferta tem força ou se ela está fraca.
+[00:01:00:18 --> 00:01:02:25] Então até aqui eu coloquei, tem duas setas aqui.
+[00:01:02:28 --> 00:01:07:17] Tem a seta, a parte de cima tem uma seta indo para cima, a parte de baixo tem uma seta indo para baixo.
+[00:01:07:17 --> 00:01:12:10] aqui embaixo e a ideia é justamente você tentar aumentar o valor de cima e tentar reduzir ao
+[00:01:12:10 --> 00:01:18:10] máximo o tempo e o esforço sacrifício aqui embaixo eu vou explicar cada uma dessas etapas primeiro
+[00:01:19:02 --> 00:01:24:25] mas é basicamente a ideia principal aquele dizem mesmo que o número aqui em cima ser um seja um
+[00:01:24:25 --> 00:01:30:27] seja muito baixo se você tentar reduzir aqui para zero você vai ter basicamente valor infinito né
+[00:01:30:27 --> 00:01:36:20] vai ser um dividido por zero então muitas empresas maioria das empresas somente quem foca em marketing
+[00:01:36:20 --> 00:01:42:18] eles focam muito nesses resultados aqui de cima, mas esses elementos aqui embaixo,
+[00:01:42:26 --> 00:01:46:24] eles são tão importantes quanto e talvez até mais, principalmente no setor de serviços.
+[00:01:47:11 --> 00:01:51:13] Então antes de começar a falar da equação, eu vou entrar em cada uma das etapas aqui
+[00:01:51:13 --> 00:01:55:00] para explicar a fundo o que é cada um desses nomes aqui.
+[00:01:55:02 --> 00:01:59:05] Alguns deles são meio auto-explicativos, mas eu acho melhor a gente ir assim.
+[00:02:00:21 --> 00:02:04:01] O resultado desejado é basicamente o sonho.
+[00:02:04:02 --> 00:02:06:14] Qual que é o objetivo final que o cliente quer alcançar?
+[00:02:06:22 --> 00:02:09:25] Não aquilo que você entrega, mas aquele final da jornada.
+[00:02:10:02 --> 00:02:11:01] O destino final.
+[00:02:11:17 --> 00:02:14:10] Então, uma frase assim, uma pergunta que você pode se fazer
+[00:02:14:10 --> 00:02:16:29] para responder isso é, se o cliente pudesse estalar os dedos
+[00:02:16:29 --> 00:02:18:29] e resolver o problema, o que mudaria?
+[00:02:19:22 --> 00:02:22:25] Então, não é ter um logo novo, não é ter um site responsivo,
+[00:02:22:25 --> 00:02:24:18] não é ter uma ilustração ou um livro.
+[00:02:25:00 --> 00:02:28:22] Isso é muito técnico se a gente está focando nos entregáveis.
+[00:02:28:22 --> 00:02:32:23] é focar, por exemplo, em ter uma marca que transmita confiança,
+[00:02:32:23 --> 00:02:35:15] que aumente a conversão, que aumente as vendas,
+[00:02:35:16 --> 00:02:39:02] é fechar mais contratos, principalmente contratos de alto valor,
+[00:02:39:10 --> 00:02:41:03] com uma apresentação que impressiona.
+[00:02:41:08 --> 00:02:44:07] Então, pensa no destino da viagem,
+[00:02:44:07 --> 00:02:46:28] não o carro, não o veículo que vai te levar até lá.
+[00:02:48:11 --> 00:02:50:28] A segunda etapa aqui é a percepção de sucesso.
+[00:02:51:17 --> 00:02:56:13] Então, é quanto que o cliente acredita que você vai conseguir entregar esse resultado.
+[00:02:57:08 --> 00:03:02:07] Então, você consegue aumentar essa percepção com o que a gente chama de track record,
+[00:03:02:13 --> 00:03:07:20] que seria o seu histórico, mostrando cases, resultados reais, explicando processos.
+[00:03:07:23 --> 00:03:11:23] Então, se você tem um método, uma metodologia clara, estruturada, com cronogramas,
+[00:03:11:23 --> 00:03:14:05] isso também ajuda a aumentar essa percepção de sucesso.
+[00:03:14:05 --> 00:03:18:21] Se você já tem provas sociais, depoimento, prêmios, clientes relevantes,
+[00:03:18:22 --> 00:03:23:17] e principalmente se você tiver projetos e cases dentro do segmento.
+[00:03:23:17 --> 00:03:26:25] Então, não sei, você vai fechar com uma construtora e você já tem segmentos,
+[00:03:27:16 --> 00:03:29:29] cases dentro desse segmento, outros projetos de construtora,
+[00:03:30:01 --> 00:03:31:26] isso também aumenta a percepção de sucesso.
+[00:03:32:07 --> 00:03:34:26] E um exemplo ruim aqui seria você simplesmente falar,
+[00:03:35:00 --> 00:03:39:25] olha, eu sou designer há 20 anos e tenho experiência com tudo, faço de tudo um pouco.
+[00:03:40:03 --> 00:03:44:00] Então, a experiência aqui não vai ser direcionada para a dor desse cliente.
+[00:03:44:05 --> 00:03:48:08] Um exemplo bom seria, olha, eu já ajudei mais de sete empresas de tecnologia
+[00:03:48:08 --> 00:03:51:18] a aumentar a conversão em 20%, sabe?
+[00:03:51:21 --> 00:03:56:22] Em termos bem específicos, assim, com redesign de site, redesign de interface,
+[00:03:56:23 --> 00:03:57:23] ou com uma identidade visual.
+[00:03:58:21 --> 00:04:02:02] Então, ali você está falando de exemplos dentro da área do cliente
+[00:04:02:02 --> 00:04:04:18] e conectando exatamente com a dor dele, que pode ser conversão.
+[00:04:05:05 --> 00:04:09:18] Então, essa percepção de sucesso, ela é a confiança que você tem no profissional,
+[00:04:09:21 --> 00:04:12:07] no profissional e no processo, na metodologia.
+[00:04:12:07 --> 00:04:14:12] dia. Então, se você tem um, por exemplo,
+[00:04:14:29 --> 00:04:16:03] a gente fala muito de nicho, né?
+[00:04:16:07 --> 00:04:17:25] Eu sei que muita gente gosta de abranger,
+[00:04:17:27 --> 00:04:19:12] gosta de pegar vários nichos diferentes,
+[00:04:20:02 --> 00:04:22:12] mas aqui eu acho que é a parte onde a percepção
+[00:04:22:12 --> 00:04:23:07] ela é mais
+[00:04:25:03 --> 00:04:25:20] impactante, porque,
+[00:04:26:01 --> 00:04:27:20] sei lá, você está com problema de
+[00:04:28:23 --> 00:04:29:12] problema cardíaco,
+[00:04:29:28 --> 00:04:31:29] você pode ir num clínico geral, ele pode até te ajudar,
+[00:04:32:03 --> 00:04:34:01] mas você vai preferir ir num cardiologista.
+[00:04:34:10 --> 00:04:36:01] Mesma coisa, você vai viajar pra um lugar
+[00:04:36:01 --> 00:04:37:26] novo, vai fazer uma trilha, você
+[00:04:37:26 --> 00:04:40:07] provavelmente vai confiar muito mais se tiver um guia turístico
+[00:04:40:07 --> 00:04:42:01] junto contigo. Então, pensa que você
+[00:04:42:01 --> 00:04:42:26] você vai ser basicamente
+[00:04:42:26 --> 00:04:43:19] esse guia turístico,
+[00:04:43:19 --> 00:04:45:13] esse guia do cliente.
+[00:04:45:13 --> 00:04:46:14] Então, como eu falei,
+[00:04:46:17 --> 00:04:47:02] o track record,
+[00:04:47:08 --> 00:04:48:08] o seu histórico profissional,
+[00:04:48:16 --> 00:04:50:04] os cases que você já fez,
+[00:04:50:19 --> 00:04:51:26] a sua metodologia,
+[00:04:51:26 --> 00:04:54:09] se ela é toda montada
+[00:04:54:09 --> 00:04:55:20] com base nas dores
+[00:04:55:20 --> 00:04:57:24] e nos problemas do cliente
+[00:04:57:24 --> 00:04:59:11] e para trazer aquela solução ideal,
+[00:04:59:19 --> 00:05:01:12] você vai ter uma percepção
+[00:05:01:12 --> 00:05:02:19] de sucesso muito maior.
+[00:05:04:15 --> 00:05:06:24] O terceiro elemento aqui é o tempo para o resultado.
+[00:05:06:25 --> 00:05:09:02] Acho que esse aqui é o mais autoexplicativo.
+[00:05:09:20 --> 00:05:14:16] Quanto mais rápido você entregar, sem perder a qualidade, maior vai ser o valor percebido.
+[00:05:14:22 --> 00:05:22:01] Então aqui é a percepção do valor, a percepção do cliente de quanto ele vai precisar esperar até ver o resultado.
+[00:05:22:10 --> 00:05:29:04] Então é também o prazo que você coloca na proposta, é lógico, mas também você tem que ser realista aqui.
+[00:05:29:04 --> 00:05:32:05] não adianta você diminuir o máximo possível esse prazo
+[00:05:32:05 --> 00:05:33:28] e você colocar um prazo impossível
+[00:05:33:28 --> 00:05:36:16] ou você se apertar completamente para entregar mais rápido.
+[00:05:37:03 --> 00:05:39:28] E uma coisa que eu percebi muito no setor de serviços,
+[00:05:41:13 --> 00:05:44:14] muitas vezes o cliente está mais preocupado com isso aqui,
+[00:05:44:16 --> 00:05:46:25] com o tempo para o resultado, com o prazo de entrega,
+[00:05:46:25 --> 00:05:48:29] do que até com a qualidade do serviço.
+[00:05:49:04 --> 00:05:51:19] O que eu estou falando não quer dizer que você vai entregar um serviço mal feito,
+[00:05:51:25 --> 00:05:54:23] mas, por exemplo, você já tem uma entrega ali 90%, 95%,
+[00:05:54:23 --> 00:05:56:15] muito boa, excelente,
+[00:05:56:15 --> 00:06:00:18] você não precisa se matar para aqueles outros 5% para chegar no 100%.
+[00:06:00:18 --> 00:06:03:04] Muitas vezes você tentar otimizar o seu processo,
+[00:06:03:20 --> 00:06:06:22] aqueles 5% ou 10% o cliente nem vai perceber a diferença.
+[00:06:07:12 --> 00:06:09:23] Lógico que se você está em mercados extremamente competitivos,
+[00:06:09:23 --> 00:06:13:09] talvez esses 5% a 10% seja a diferença para você fechar o contrato.
+[00:06:13:15 --> 00:06:15:21] Mas muitas vezes na área de serviços,
+[00:06:15:22 --> 00:06:18:11] você diminuir essa parte de baixo da equação aqui
+[00:06:18:11 --> 00:06:20:06] é o que vai fazer você fechar um projeto
+[00:06:20:06 --> 00:06:22:10] muito mais do que na percepção de sucesso,
+[00:06:22:13 --> 00:06:24:24] muito mais até do que na qualidade do seu trabalho.
+[00:06:24:24 --> 00:06:29:24] trabalho. E aí como que você encurta esse tempo para você chegar no resultado? Você pode mostrar
+[00:06:29:24 --> 00:06:36:17] um processo de novo, claro e ágil, você pode mostrar, olha, tem etapas que são divididas aqui,
+[00:06:36:19 --> 00:06:41:15] a gente vai ter check-ups semanais, isso já tira um pouquinho dessa percepção de, poxa, vão ser 30
+[00:06:41:15 --> 00:06:46:13] dias, vou começar a falar com você hoje, só daqui a um mês que a gente vai conversar de novo. Coloca
+[00:06:46:13 --> 00:06:52:01] alguns check-ups, alguns check-ins durante a semana para você conversar com o cliente, isso já
+[00:06:52:01 --> 00:06:53:28] diminui um pouquinho a percepção do tempo
+[00:06:53:28 --> 00:06:55:28] para o resultado. No livro até
+[00:06:55:28 --> 00:06:57:29] do Alex Formoso tem uma coisa interessante que ele disse que
+[00:06:59:00 --> 00:07:00:08] tinha um elevador
+[00:07:00:08 --> 00:07:02:02] num prédio que as pessoas achavam
+[00:07:02:02 --> 00:07:03:08] que estava muito demorado,
+[00:07:03:26 --> 00:07:06:01] que tinha uma percepção que, nossa, tem que aumentar a velocidade
+[00:07:06:01 --> 00:07:07:14] desse elevador, não aguento ficar aqui dentro.
+[00:07:08:01 --> 00:07:10:00] E aí todo mundo acha que o problema
+[00:07:10:00 --> 00:07:12:07] ali vai ser a velocidade. Aí o que eles fizeram
+[00:07:12:07 --> 00:07:13:25] é colocar um espelho no elevador, porque
+[00:07:13:25 --> 00:07:16:06] daí você entra, você faz uma selfie ali, você tira a foto,
+[00:07:16:19 --> 00:07:18:02] ou você olha para você, você se
+[00:07:18:02 --> 00:07:20:01] arruma e você não acaba percebendo
+[00:07:20:01 --> 00:07:22:13] que esse tempo está passando tão demorado.
+[00:07:22:18 --> 00:07:24:13] Então, muitas vezes, isso que eu quis dizer,
+[00:07:24:16 --> 00:07:26:00] você não precisa diminuir o tempo,
+[00:07:26:04 --> 00:07:28:15] o seu prazo total, mas você pode incluir
+[00:07:28:15 --> 00:07:30:17] formas de mostrar que o seu processo
+[00:07:30:17 --> 00:07:32:11] é mais claro e mais ágil, e essas
+[00:07:32:11 --> 00:07:34:21] maquiagens, vamos chamar assim, para mostrar
+[00:07:34:21 --> 00:07:36:17] que esse tempo
+[00:07:36:17 --> 00:07:38:15] vai ser bem utilizado e você nem vai
+[00:07:38:15 --> 00:07:40:15] sentir ele passar. Então, um exemplo
+[00:07:40:15 --> 00:07:41:03] ruim aqui,
+[00:07:42:18 --> 00:07:43:27] você falar que vai ser...
+[00:07:44:12 --> 00:07:46:06] Aqui o exemplo ruim, na verdade, é você jogar
+[00:07:46:06 --> 00:07:47:28] o projeto de identidade visual em
+[00:07:48:10 --> 00:07:49:22] três, quatro meses, sabe?
+[00:07:49:24 --> 00:07:51:01] Que a gente já sabe que é um prazo
+[00:07:51:21 --> 00:07:53:09] muito além do mercado.
+[00:07:53:15 --> 00:07:54:11] Então, vai soar lento,
+[00:07:54:12 --> 00:07:56:18] a não ser que tenha uma justificativa muito boa,
+[00:07:56:19 --> 00:07:58:04] você vai fazer tudo artesanal, né?
+[00:07:59:12 --> 00:08:01:01] Vai soar muito lento para o cliente.
+[00:08:01:03 --> 00:08:03:16] Um exemplo bom é você dar um prazo
+[00:08:05:04 --> 00:08:06:28] com entregas intermediárias visíveis,
+[00:08:06:29 --> 00:08:08:19] com uma entrega bem objetiva.
+[00:08:08:21 --> 00:08:09:15] Então, em 30 dias,
+[00:08:09:18 --> 00:08:11:12] você vai ter uma identidade visual pronta
+[00:08:11:12 --> 00:08:13:07] para ser aplicada em todos os canais.
+[00:08:15:01 --> 00:08:18:08] O tempo aqui para o resultado, acho que é uma metáfora boa aqui.
+[00:08:18:10 --> 00:08:21:12] Pensa naquele restaurante que você quer muito ir.
+[00:08:22:29 --> 00:08:24:10] Pensa na fila do restaurante.
+[00:08:24:14 --> 00:08:27:11] Então, o restaurante pode estar excelente, pode ter o melhor prato da cidade.
+[00:08:27:17 --> 00:08:30:03] Talvez você até aceite ficar um tempinho na fila.
+[00:08:30:09 --> 00:08:34:12] Mas se o lugar for muito bom e a fila for rápida e for organizada,
+[00:08:34:14 --> 00:08:36:20] a experiência já vai começar bem positiva.
+[00:08:37:14 --> 00:08:42:20] E a última etapa aqui, o último elemento da equação, é o esforço e sacrifício.
+[00:08:42:20 --> 00:08:46:25] Esse aqui é outra coisa que é um pouco invisível também nas equações
+[00:08:46:25 --> 00:08:50:22] e muita gente não leva esse critério tão a sério.
+[00:08:50:28 --> 00:08:55:23] Principalmente se você tem projetos que envolvem o cliente no processo,
+[00:08:56:10 --> 00:08:59:01] processo de branding, de design estratégico,
+[00:08:59:01 --> 00:09:02:00] onde você precisa coletar muita informação do cliente em reuniões,
+[00:09:02:00 --> 00:09:03:09] em workshops, em oficinas.
+[00:09:03:24 --> 00:09:09:02] Aqui é muito valioso você aprender a tornar esse processo mais simples para ele.
+[00:09:09:02 --> 00:09:14:15] dele então é a percepção aqui de quanto que o cliente vai se envolver ou mudar a rotina dele
+[00:09:14:15 --> 00:09:20:26] até para ter esse projeto né para fechar esse projeto com você então em projetos maiores onde
+[00:09:20:26 --> 00:09:25:27] os decisores são muito ocupados onde você tem uma equipe grande isso aqui faz muita mas muita
+[00:09:25:27 --> 00:09:31:07] diferença talvez uma das coisas que façam façam mais diferença dentro de toda essa equação para
+[00:09:31:07 --> 00:09:36:23] quem faz serviços estratégicos né e a ideia de reduzir isso como eu falei torna o processo mais
+[00:09:36:23 --> 00:09:38:01] mais simples para esse cliente.
+[00:09:38:14 --> 00:09:40:05] Faz você mesmo algumas tarefas
+[00:09:40:05 --> 00:09:42:00] que economizam o esforço do cliente.
+[00:09:42:00 --> 00:09:43:05] Então, muitas vezes,
+[00:09:43:05 --> 00:09:45:14] se você tem um questionário
+[00:09:45:14 --> 00:09:47:12] que você precisa fazer com o cliente,
+[00:09:47:12 --> 00:09:48:24] tenta fazer um questionário prévio,
+[00:09:49:23 --> 00:09:51:08] um pré-diagnóstico
+[00:09:51:08 --> 00:09:52:16] que você pode mandar por e-mail
+[00:09:52:16 --> 00:09:53:23] ou você pode mandar, por exemplo,
+[00:09:55:08 --> 00:09:56:09] reduzir o número de reuniões
+[00:09:56:09 --> 00:09:58:00] com o fundador da empresa.
+[00:09:58:07 --> 00:09:59:06] Fala com alguém da gestão,
+[00:09:59:07 --> 00:10:00:15] fala com o diretor de marketing,
+[00:10:00:19 --> 00:10:01:18] fala com alguém do operacional,
+[00:10:01:20 --> 00:10:02:12] do financeiro.
+[00:10:02:18 --> 00:10:04:05] Então, não foca tudo
+[00:10:04:05 --> 00:10:06:03] somente numa pessoa, no fundador,
+[00:10:06:03 --> 00:10:07:29] que muitas vezes essa pessoa não tem tanto tempo
+[00:10:08:18 --> 00:10:10:04] disponível. Você pode também
+[00:10:10:04 --> 00:10:12:03] usar sistemas, usar templates, até usar
+[00:10:12:03 --> 00:10:13:15] IA para reduzir essa fricção,
+[00:10:14:23 --> 00:10:15:29] reduzir esse tempo de reuniões.
+[00:10:16:09 --> 00:10:18:00] Então aqui é um dos erros que eu mais
+[00:10:18:00 --> 00:10:19:27] fazia, principalmente quando eu comecei a trabalhar com
+[00:10:19:27 --> 00:10:21:17] branding, então eu via aqueles frameworks,
+[00:10:21:26 --> 00:10:23:25] aquelas ferramentas e eu queria aplicar tudo.
+[00:10:24:08 --> 00:10:25:29] E aí eu até aplicava um monte
+[00:10:25:29 --> 00:10:27:18] dessas coisas com o mesmo cliente e
+[00:10:27:18 --> 00:10:29:03] estava rodando em círculos.
+[00:10:29:05 --> 00:10:31:23] O cara ficava ali três horas
+[00:10:31:23 --> 00:10:33:27] numa reunião, sabe? Então eram cinco reuniões
+[00:10:33:27 --> 00:10:36:00] e três horas. Imagina,
+[00:10:36:03 --> 00:10:37:28] Hoje eu penso isso é impraticável.
+[00:10:38:01 --> 00:10:39:20] A maioria dos clientes que eu atendo,
+[00:10:39:20 --> 00:10:41:09] se eles estiverem duas horas no dia,
+[00:10:41:14 --> 00:10:43:09] já é muito raro.
+[00:10:43:25 --> 00:10:45:09] Então, eu não estou querendo dizer
+[00:10:45:09 --> 00:10:47:18] que você tem que abrir mão dessa cocriação,
+[00:10:48:11 --> 00:10:49:18] até porque isso é muito importante,
+[00:10:49:21 --> 00:10:51:22] que o cliente, o fundador da empresa,
+[00:10:52:10 --> 00:10:55:01] os gestores, todo mundo da C-Levels,
+[00:10:55:01 --> 00:10:56:00] a equipe estratégica,
+[00:10:56:00 --> 00:10:57:23] o setor estratégico da empresa
+[00:10:57:23 --> 00:10:58:28] participe desse processo.
+[00:10:59:03 --> 00:10:59:27] Isso é importantíssimo.
+[00:11:00:03 --> 00:11:01:29] Mas você tem que achar formas também
+[00:11:01:29 --> 00:11:03:06] de reduzir essa fricção,
+[00:11:03:08 --> 00:11:04:14] de reduzir esse tempo
+[00:11:04:14 --> 00:11:08:23] tempo né que esses clientes passam nessas reuniões por mais que muitas vezes ele até elogia nossa
+[00:11:08:23 --> 00:11:14:23] Vini foi muito bom esclareceu muitas ideias tive vários insights isso é excelente então tem reuniões
+[00:11:14:23 --> 00:11:18:29] que você vai precisar disso mas também tem que identificar o que que é necessário o que que é
+[00:11:18:29 --> 00:11:23:29] extremamente necessário e o que que é somente algo que você manteve ali no seu processo no seu
+[00:11:23:29 --> 00:11:30:20] framework porque você gosta daquele processo mas nem está gerando tantos insights assim então como
+[00:11:30:20 --> 00:11:32:01] Como eu falei, alguns exemplos ruins aqui.
+[00:11:32:05 --> 00:11:32:28] É o que eu falava mesmo.
+[00:11:33:02 --> 00:11:35:02] A gente vai ter cinco reuniões de três horas cada
+[00:11:35:02 --> 00:11:36:24] para fazer um diagnóstico, sabe?
+[00:11:37:03 --> 00:11:38:16] A gente tem 15 horas só de reunião.
+[00:11:38:18 --> 00:11:39:23] Ninguém tem tempo mais para isso.
+[00:11:40:03 --> 00:11:42:00] Ou você vai ter que mandar todos os textos,
+[00:11:42:00 --> 00:11:44:06] todas as fotos, todas as imagens, todas as referências,
+[00:11:44:07 --> 00:11:46:10] fazer o mood board, fazer o painel semântico para mim
+[00:11:46:10 --> 00:11:47:08] antes da gente começar.
+[00:11:47:19 --> 00:11:49:26] Então, pensa no esforço enorme que o cliente vai ter
+[00:11:49:26 --> 00:11:51:18] só para começar a trabalhar contigo.
+[00:11:51:24 --> 00:11:54:07] E um bom exemplo, não sei se você trabalha com site,
+[00:11:54:12 --> 00:11:55:06] a gente cuida de tudo.
+[00:11:55:14 --> 00:11:57:09] A gente vai mandar um briefing para você
+[00:11:57:09 --> 00:11:58:23] e você vai mandar os textos,
+[00:11:58:23 --> 00:12:00:27] A gente vai fazer os textos, as fotos
+[00:12:01:09 --> 00:12:04:00] Você só vai ter que aprovar, basicamente
+[00:12:05:08 --> 00:12:08:16] O jeito que eu faço hoje, eu mando, por exemplo, um pré-briefing para o cliente,
+[00:12:08:16 --> 00:12:10:06] que é um questionário bem curto.
+[00:12:11:05 --> 00:12:14:08] Muita coisa eu uso com o IA, então eu consigo, a partir desse questionário,
+[00:12:14:08 --> 00:12:16:04] já gerar algumas perguntas específicas ali.
+[00:12:16:26 --> 00:12:19:09] Eu bato isso com o meu processo, eu vejo o que é mais relevante
+[00:12:19:09 --> 00:12:20:25] para os objetivos que o cliente está procurando.
+[00:12:21:02 --> 00:12:25:14] E ali, normalmente, eu faço uma reunião de uma hora ou duas reuniões de uma hora e meia.
+[00:12:25:24 --> 00:12:30:01] Ali eu já consigo trazer muita informação para, pelo menos,
+[00:12:30:02 --> 00:12:32:12] criar uma plataforma de marca mais básica.
+[00:12:32:12 --> 00:12:34:16] e depois eu vou fazendo check-ins,
+[00:12:34:17 --> 00:12:36:15] todas as informações que eu vou precisando
+[00:12:36:15 --> 00:12:37:29] eu vou coletando com o cliente depois,
+[00:12:38:21 --> 00:12:40:03] durante o processo.
+[00:12:40:08 --> 00:12:43:24] Eu não começo logo o processo já com 15 horas de reuniões
+[00:12:43:24 --> 00:12:45:03] que cansa todo mundo,
+[00:12:45:27 --> 00:12:48:23] acaba com o escopo de todos os projetos do cliente,
+[00:12:48:23 --> 00:12:51:20] ele tem que alocar toda a equipe para me atender,
+[00:12:51:22 --> 00:12:52:27] vamos ser sinceros,
+[00:12:52:29 --> 00:12:54:29] a gente está colocando o sacrifício e o esforço
+[00:12:54:29 --> 00:12:56:14] todo na mão do cliente.
+[00:12:56:24 --> 00:13:01:11] Então perceberam como isso aqui é algo muito importante
+[00:13:01:11 --> 00:13:17:18] importante e às vezes a gente nem pensa nisso, né? Às vezes a gente faz de uma forma que todo esforço fica na mão do cliente e às vezes a gente fica reclamando, pô, o cliente não mandou ainda, nossa, o cliente tem que ficar cobrando ele para mandar informações básicas, nossa, como que ele não sabe disso, como que ele não tem isso pronto?
+[00:13:17:18 --> 00:13:19:12] pronto, gente, muitas vezes eles não
+[00:13:19:12 --> 00:13:21:14] têm nada disso pronto e o seu
+[00:13:21:14 --> 00:13:22:25] papel é ser esse facilitador.
+[00:13:23:05 --> 00:13:25:16] Então, revisem o processo de vocês,
+[00:13:26:09 --> 00:13:27:10] olhem o método
+[00:13:27:10 --> 00:13:29:08] que vocês utilizam, vejam os materiais que vocês
+[00:13:29:08 --> 00:13:31:10] utilizam. Eu sei que
+[00:13:31:10 --> 00:13:32:27] muito criativo nem gosta muito de reunião,
+[00:13:32:29 --> 00:13:35:04] mas quando você começa a entrar na questão
+[00:13:35:04 --> 00:13:37:03] do diagnóstico, na parte estratégica,
+[00:13:37:05 --> 00:13:38:11] elas são muito importantes.
+[00:13:38:29 --> 00:13:41:09] Só que a gente, eu sou uma pessoa prolixa,
+[00:13:41:09 --> 00:13:43:11] então eu posso falar com, eu tenho um lugar de fala
+[00:13:43:11 --> 00:13:45:05] para dizer isso, né? Então a gente às vezes
+[00:13:45:05 --> 00:13:47:10] acaba estendendo muito essas reuniões,
+[00:13:47:10 --> 00:13:49:24] essas conversas, muito mais do que necessário.
+[00:13:50:28 --> 00:13:57:00] Então, não adianta eu só mostrar essa equação para vocês aqui e não mostrar exemplos.
+[00:13:57:16 --> 00:14:01:25] Antes de seguir para o exemplo, na verdade, tem só esse overview aqui, essa visão geral.
+[00:14:02:11 --> 00:14:11:04] Mais uma vez, tentem aumentar a parte de cima dessa equação e tentem reduzir ao máximo a parte de baixo.
+[00:14:11:19 --> 00:14:17:14] E essa parte de baixo, como eu falei, para serviços criativos, no geral, para o setor de serviços,
+[00:14:17:14 --> 00:14:19:05] essa parte de baixo é uma das mais importantes
+[00:14:19:05 --> 00:14:21:17] e talvez sejam os critérios de qualificação do seu cliente.
+[00:14:21:25 --> 00:14:24:03] Porque o resultado desejado é a questão do sonho,
+[00:14:24:04 --> 00:14:26:20] é uma coisa que você vai investigar.
+[00:14:26:23 --> 00:14:29:10] Então, você que investiga isso, você que identifica.
+[00:14:29:20 --> 00:14:32:29] A percepção de sucesso é algo que é um pouco mais fácil de resolver
+[00:14:32:29 --> 00:14:36:25] com cases, com prova social,
+[00:14:37:08 --> 00:14:40:01] tudo isso você consegue, até uma metodologia, sabe?
+[00:14:40:16 --> 00:14:42:28] Pesquisa de mercado, aqui você consegue aumentar a percepção.
+[00:14:43:05 --> 00:14:45:20] Agora, o tempo para resultado e o esforço e sacrifício,
+[00:14:45:20 --> 00:14:47:16] eu tenho visto ultimamente que
+[00:14:48:04 --> 00:14:49:19] são os critérios que mais
+[00:14:50:16 --> 00:14:52:03] empacam assim, quando o cliente
+[00:14:52:03 --> 00:14:54:02] às vezes está muito à pressa, e aí lógico
+[00:14:54:02 --> 00:14:55:27] vai do seu critério de qualificação
+[00:14:55:27 --> 00:14:58:02] vai do seu, da forma
+[00:14:58:02 --> 00:14:59:29] que você trabalha, se você quer projetos muito mais
+[00:14:59:29 --> 00:15:01:18] longos, se você quer
+[00:15:01:18 --> 00:15:04:01] prazos muito mais longos, essa equação
+[00:15:04:01 --> 00:15:04:21] vai mudar também
+[00:15:05:17 --> 00:15:08:02] e o esforço e sacrifício é o que eu
+[00:15:08:02 --> 00:15:09:21] mais mudei, acho que nos últimos dois anos
+[00:15:09:21 --> 00:15:12:09] é o que eu mais mudei meu processo, porque eu percebia
+[00:15:12:09 --> 00:15:14:00] que tinha
+[00:15:14:00 --> 00:15:17:16] Tinha clientes que adoravam o processo, tinha clientes que estavam no final,
+[00:15:17:19 --> 00:15:19:19] às vezes até eu, não conseguia nem pensar mais.
+[00:15:19:21 --> 00:15:24:19] A janela de contexto do cliente e a minha naquele dia já acabou.
+[00:15:24:26 --> 00:15:28:05] Eu não conseguia fazer mais nada depois de uma reunião de duas ou três horas
+[00:15:28:05 --> 00:15:31:03] aplicando frameworks, metodologia.
+[00:15:32:11 --> 00:15:33:14] Então, vamos para os exemplos aqui.
+[00:15:33:17 --> 00:15:37:02] Então, eu já tinha mostrado para vocês um exemplo genérico da identidade visual, né?
+[00:15:37:14 --> 00:15:39:23] Então, aqui, no apontador é o resultado, né?
+[00:15:39:25 --> 00:15:41:05] Não aumenta a percepção de sucesso.
+[00:15:41:24 --> 00:15:45:22] Então, identidade visual completa para as suas empreendedoras,
+[00:15:45:22 --> 00:15:46:17] era as suas empresas, né?
+[00:15:46:19 --> 00:15:47:24] Olha, já achei um erro aqui.
+[00:15:49:23 --> 00:15:52:02] E aí, se a gente for conectar aqui, usar a equação de valor,
+[00:15:52:23 --> 00:15:58:06] o primeiro resultado é transmitir confiança e abrir portas para novos mercados.
+[00:15:58:08 --> 00:16:01:17] Então, esse seria o sonho, conectando diretamente com os objetivos
+[00:16:01:17 --> 00:16:04:12] e com o crescimento dessa percepção de valor do cliente.
+[00:16:04:24 --> 00:16:09:24] A percepção de sucesso, reposicionamos sua marca com uma metodologia comprovada.
+[00:16:09:27 --> 00:16:13:18] Então, vai mostrar clareza, foco estratégico, não vai ser só estética.
+[00:16:13:27 --> 00:16:18:00] E tem implicação ali também da experiência e do método aplicado.
+[00:16:18:00 --> 00:16:20:24] o tempo para o resultado, aplicação pronta
+[00:16:20:24 --> 00:16:23:00] em 30 dias, então igual ao exemplo que eu dei
+[00:16:23:00 --> 00:16:24:18] para vocês, é um prazo curto
+[00:16:24:18 --> 00:16:26:18] mas não só curto, mas bem específico
+[00:16:26:18 --> 00:16:28:25] para aumentar essa atratividade, aumentar essa urgência
+[00:16:28:25 --> 00:16:30:11] e isso foi o sacrifício
+[00:16:30:11 --> 00:16:33:00] mínima necessidade de envolvimento da sua equipe
+[00:16:33:00 --> 00:16:35:04] então vai reduzir essa barreira e essa fricção
+[00:16:35:04 --> 00:16:36:18] para o cliente
+[00:16:38:13 --> 00:16:41:01] como que ficaria a oferta, reposicionando sua marca
+[00:16:41:01 --> 00:16:44:04] com a nossa metodologia comprovada para transmitir confiança
+[00:16:44:04 --> 00:16:47:28] e abrir portas para novos mercados com a aplicação pronta em 30 dias
+[00:16:47:28 --> 00:16:50:11] e mínima necessidade de envolvimento da sua equipe.
+[00:16:50:22 --> 00:16:53:13] Então, essa oferta aqui não quer dizer que ela está pronta
+[00:16:53:13 --> 00:16:56:18] para você colocar assim na landing page ou na sua proposta,
+[00:16:56:21 --> 00:16:59:04] mas perceba que aqui todos os elementos que a gente precisa
+[00:16:59:04 --> 00:17:00:28] daquela equação estão nessa frase.
+[00:17:01:01 --> 00:17:03:22] E a partir disso a gente identificou muito bem aqui
+[00:17:03:22 --> 00:17:07:09] a metodologia comprovada, que a gente aumenta a percepção
+[00:17:07:09 --> 00:17:09:12] da confiança,
+[00:17:10:12 --> 00:17:11:19] transmitindo a confiança, no caso.
+[00:17:11:26 --> 00:17:13:13] Abrir portas para novos mercados,
+[00:17:13:18 --> 00:17:15:18] aqui a gente está falando diretamente, conectando
+[00:17:15:18 --> 00:17:17:18] com os objetivos do cliente, com a aplicação
+[00:17:17:18 --> 00:17:19:14] pronta em 30 dias, diminuindo aqui
+[00:17:19:14 --> 00:17:21:20] o prazo, o tempo de entrega
+[00:17:21:20 --> 00:17:23:06] e com mínima necessidade de envolvimento,
+[00:17:23:12 --> 00:17:25:10] aqui a gente tem o esforço e sacrifício também
+[00:17:25:10 --> 00:17:27:19] bem baixo. Vamos para mais um exemplo.
+[00:17:27:28 --> 00:17:29:15] Também falei das apresentações, dos
+[00:17:29:15 --> 00:17:31:10] pitch decks. Aqui a gente tem
+[00:17:31:10 --> 00:17:33:20] design de apresentações para startups inovadoras.
+[00:17:33:29 --> 00:17:35:02] Acho que toda startup
+[00:17:36:11 --> 00:17:38:12] se auto-identifica como inovadora,
+[00:17:38:12 --> 00:17:39:18] então é pouco tangível,
+[00:17:39:21 --> 00:17:42:04] é muito abrangente, não tem muita
+[00:17:42:04 --> 00:17:43:04] ligação com o objetivo do negócio.
+[00:17:45:04 --> 00:17:51:27] Utilizando a equação de valor, o resultado vai ficar do sonho, mais persuasivo, aumenta a chance de fechar contrato,
+[00:17:52:00 --> 00:17:59:07] ataca diretamente a dor de vender mais e com mais eficácia e a percepção de sucesso conectada com seus objetivos de negócio.
+[00:17:59:14 --> 00:18:04:03] Então vai dar essa segurança que tem um alinhamento estratégico antes de você chegar no resultado.
+[00:18:04:21 --> 00:18:08:01] E o tempo para o resultado é pronto para usar em duas semanas.
+[00:18:08:09 --> 00:18:13:03] Então vai definir o prazo concreto, curto, mostrar a rapidez da entrega e o seu sacrifício.
+[00:18:13:03 --> 00:18:15:07] só precisa nos enviar o conteúdo básico
+[00:18:15:07 --> 00:18:16:14] e aprovar os materiais.
+[00:18:16:15 --> 00:18:18:28] Então o cliente não vai ter trabalho, não vai ter retrabalho,
+[00:18:18:28 --> 00:18:21:04] não precisa mobilizar a equipe, não precisa montar slide
+[00:18:21:04 --> 00:18:23:09] e nem revisar nenhum detalhe técnico.
+[00:18:24:03 --> 00:18:26:06] Então a oferta ficaria
+[00:18:26:06 --> 00:18:28:09] criamos uma apresentação que multiplica
+[00:18:28:09 --> 00:18:30:11] seu poder de persuasão em reuniões
+[00:18:30:11 --> 00:18:32:22] e aumenta suas chances de fechar contratos.
+[00:18:33:02 --> 00:18:34:19] Pronta para usar em duas semanas
+[00:18:34:19 --> 00:18:36:24] e conectada com seus objetivos de negócio.
+[00:18:37:04 --> 00:18:39:10] Você só precisa nos enviar o conteúdo básico
+[00:18:39:10 --> 00:18:42:06] e aprovar os materiais sem trabalho pesado da sua parte.
+[00:18:42:06 --> 00:18:50:06] Então, lógico, essa oferta está muito grande, mas é algo que você conseguiria até dividir em blocos dentro do site, dentro de uma apresentação.
+[00:18:50:11 --> 00:18:57:01] A essência aqui, o que eu quero que vocês entendam é que a essência aqui tem que englobar esses quatro elementos da equação
+[00:18:57:01 --> 00:19:04:28] e é que isso aqui vai te ajudar até a construir copy, a construir outras ofertas e outros textos mais assertivos para o seu cliente.
+[00:19:05:08 --> 00:19:08:00] E o terceiro exemplo, a gente vem para a ilustração de novo.
+[00:19:08:04 --> 00:19:11:10] Então, ilustrações encantadoras para livros marcantes.
+[00:19:11:10 --> 00:19:14:00] É bonito, é romântico, mas é muito genérico também.
+[00:19:14:02 --> 00:19:16:16] Não conecta com o impacto do leitor,
+[00:19:16:16 --> 00:19:19:00] com o impacto da editora, e não é algo tangível.
+[00:19:20:11 --> 00:19:26:13] Então utilizando aqui a equação mais uma vez, o sonho vai ser deixar um livro mais reconhecível e aumentam suas vendas.
+[00:19:26:16 --> 00:19:29:29] Então vai deixar claro que o objetivo vai ser o engajamento, vai ser a conversão,
+[00:19:30:00 --> 00:19:34:11] vai ser um livro que você vai olhar na livraria e vai chamar mais sua atenção por causa da capa,
+[00:19:34:11 --> 00:19:39:26] um livro que vai se destacar ali na Amazon, no Kindle, dentro dessa loja online.
+[00:19:40:07 --> 00:19:43:17] E isso é algo que vai importar bastante para o cliente ideal, que são as editoras.
+[00:19:43:23 --> 00:19:46:26] A percepção de sucesso, adaptado ao seu estilo editorial.
+[00:19:46:26 --> 00:19:52:13] Então, tem muitas editoras que se preocupam se essa ilustração vai respeitar a identidade da coleção,
+[00:19:52:28 --> 00:19:54:13] do que a editora está seguindo.
+[00:19:54:17 --> 00:19:56:04] Isso aqui vai gerar confiança também.
+[00:19:56:14 --> 00:20:00:05] Então, aqui a percepção de sucesso está relacionada com o método também.
+[00:20:00:19 --> 00:20:03:07] E o método aqui, no caso dessa ilustradora e ilustradora,
+[00:20:03:08 --> 00:20:07:12] é de identificar qual é o estilo da editora, qual é o estilo da coleção,
+[00:20:07:14 --> 00:20:08:25] para traduzir isso em uma ilustração.
+[00:20:09:01 --> 00:20:10:28] Então, isso já aumenta a percepção de sucesso também.
+[00:20:11:10 --> 00:20:14:12] O tempo para o resultado é pronta para usar em duas semanas.
+[00:20:14:12 --> 00:20:21:01] Então aqui a gente vai definir um prazo rápido, essencial principalmente para redações, para editoras que trabalham com prazos muito curtos.
+[00:20:21:04 --> 00:20:22:15] E o esforço e sacrifício?
+[00:20:22:18 --> 00:20:29:16] Eu só preciso de algumas informações, então por exemplo um briefing, uma pauta, um resumo, uma sinopse do livro para você fazer essa ilustração.
+[00:20:29:28 --> 00:20:34:24] O cliente não precisa contratar nenhum outro profissional ou perder tempo com ajustes.
+[00:20:36:09 --> 00:20:37:13] E como que fica a oferta depois?
+[00:20:38:18 --> 00:20:40:27] Criamos ilustrações que tornam seus livros irresistíveis
+[00:20:40:27 --> 00:20:44:19] e aumentam a conversão em livrarias físicas e digitais,
+[00:20:44:21 --> 00:20:47:18] entregues em duas semanas e adaptadas ao seu estilo editorial.
+[00:20:47:26 --> 00:20:51:01] Você só precisa nos enviar o briefing e a gente cuida de todo o resto.
+[00:20:51:22 --> 00:20:54:04] Então, aqui tem alguns termos até que são intangíveis.
+[00:20:54:06 --> 00:20:56:17] Por exemplo, irresistível é um termo até um pouco intangível.
+[00:20:56:20 --> 00:20:59:15] Mas aqui pode ser, como eu falei, dentro da parte do dicionário,
+[00:20:59:15 --> 00:21:02:21] dentro da identidade verbal da sua empresa, do seu mercado,
+[00:21:02:23 --> 00:21:04:01] você pode utilizar alguns termos.
+[00:21:04:01 --> 00:21:05:23] o que a gente vai focando mais aqui
+[00:21:05:23 --> 00:21:08:09] aumentar a conversão em livrarias físicas digitais
+[00:21:08:09 --> 00:21:10:12] então aumenta essa atenção, aumenta a retenção
+[00:21:10:12 --> 00:21:12:11] até da leitura, aumenta
+[00:21:12:11 --> 00:21:13:22] a percepção de valor do livro
+[00:21:13:22 --> 00:21:16:00] vai ser diferencial dentro das livrarias
+[00:21:16:00 --> 00:21:17:19] depois a gente tem aí duas semanas
+[00:21:17:19 --> 00:21:20:12] adaptado o seu estilo, só precisa enviar o nosso briefing
+[00:21:20:12 --> 00:21:22:03] então todas as etapas
+[00:21:22:03 --> 00:21:24:14] todos os elementos da equação estão aqui dentro

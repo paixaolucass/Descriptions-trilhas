@@ -1,0 +1,171 @@
+# Video: aula_04_v1 (360p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 10:38
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:03 --> 00:00:04:06] Meu objetivo com essa aula é te mostrar as principais ferramentas em custo-benefício
+[00:00:04:06 --> 00:00:09:27] para você começar a gerar textos, imagens, vídeos, músicas e código com inteligência artificial.
+[00:00:10:09 --> 00:00:13:21] Eu não selecionei necessariamente a melhor ferramenta de cada categoria,
+[00:00:13:24 --> 00:00:18:08] mas aquela que vai te entregar um excelente resultado por um custo bacana.
+[00:00:18:14 --> 00:00:24:04] Eu vou te mostrar essas ferramentas, inclusive vou abri-las e mostrar como utilizar de um jeito rápido e prático,
+[00:00:24:08 --> 00:00:28:24] mas eu preciso muito que você desenvolva a sua independência
+[00:00:28:24 --> 00:00:34:00] para que você abra quantas ferramentas forem necessárias e aprenda sozinho, com autodidatismo.
+[00:00:34:03 --> 00:00:38:27] Isso vai ser muito importante para você se desenvolver nesse futuro que nós estamos caminhando.
+[00:00:39:02 --> 00:00:43:08] Como já tivemos uma aula para falar sobre a diferença entre ficar clicando em botões
+[00:00:43:08 --> 00:00:47:14] e entender os fundamentos de cada área, aqui agora eu vou direto ao assunto,
+[00:00:47:17 --> 00:00:49:24] apenas para te apresentar os conceitos.
+[00:00:49:27 --> 00:00:51:29] Então vem comigo que a gente não tem tempo a perder.
+[00:00:52:09 --> 00:00:56:00] Começando com o chat GPT, você pode digitar no Google Chat GPT,
+[00:00:56:00 --> 00:01:00:28] pode baixar também no seu smartphone e a ferramenta funciona mais ou menos assim.
+[00:01:01:03 --> 00:01:06:15] E é aqui que a grande mágica acontece, é aqui que você vai conseguir fazer pedidos mais elaborados.
+[00:01:06:18 --> 00:01:11:22] Você pode pedir para ela escrever um poema, uma frase, uma cópia de vendas, o que você quiser.
+[00:01:11:28 --> 00:01:15:29] E para fazer isso é muito simples, é bem provável inclusive que você já faça isso,
+[00:01:16:01 --> 00:01:17:18] eu estou apenas introduzindo aqui.
+[00:01:17:22 --> 00:01:20:21] Então fica aqui para você esse mais onde você pode investigar,
+[00:01:20:22 --> 00:01:25:07] então eu posso pedir a ferramenta aqui no caso ChatGPT para fazer uma pesquisa mais aprofundada,
+[00:01:25:07 --> 00:01:26:27] e buscar dados com mais fontes para mim.
+[00:01:27:00 --> 00:01:29:20] Posso criar uma imagem, posso também usar o modo agente,
+[00:01:29:20 --> 00:01:32:12] em que ele vai usar a internet, usar o meu navegador
+[00:01:32:12 --> 00:01:35:25] para poder fazer pesquisas, encontrar informações e muito mais.
+[00:01:35:29 --> 00:01:39:11] Posso também usar conectores, e aqui no caso eu adiciono
+[00:01:39:11 --> 00:01:42:00] um desses conectores aqui para puxar mais informações.
+[00:01:42:17 --> 00:01:45:16] Além disso, posso também estudar e aprender,
+[00:01:45:23 --> 00:01:47:28] ele vai ter uma abordagem mais de me fazer perguntas,
+[00:01:47:28 --> 00:01:50:17] buscar informações na web, ou usar a lousa,
+[00:01:50:18 --> 00:01:53:02] que ele vai construindo aqui o projeto junto com você.
+[00:01:53:02 --> 00:01:56:22] Pode ser um texto, por exemplo, mas também pode ser aplicações de código.
+[00:01:57:00 --> 00:01:59:15] Isso a gente vai falar um pouquinho mais para frente em outra ferramenta.
+[00:01:59:20 --> 00:02:01:17] Aqui do lado você pode acessar o Sora.
+[00:02:01:29 --> 00:02:04:23] Codecs é a ferramenta de código de chat GPT.
+[00:02:05:03 --> 00:02:08:22] Aqui eu tenho meus GPTs e também novos projetos.
+[00:02:08:23 --> 00:02:13:03] Quando você organiza um novo projeto e coloca vários arquivos ali dentro,
+[00:02:13:08 --> 00:02:15:26] ele vira contexto da sua conversa.
+[00:02:15:27 --> 00:02:18:08] Então eu posso criar um projeto para cada cliente,
+[00:02:18:08 --> 00:02:22:14] eu posso criar um projeto para cada tipo de informação que eu vou desenvolver aqui.
+[00:02:22:14 --> 00:02:30:06] e a partir disso eu consigo gerenciar aquelas informações e fazer delas parte do contexto da ferramenta aqui.
+[00:02:30:17 --> 00:02:34:08] Além disso, eu também posso criar o meu próprio assistente aqui dentro.
+[00:02:34:12 --> 00:02:40:05] Se eu venho em GPTs e depois em Criar, aqui eu venho em Configurar, posso dar para ele um nome, uma descrição
+[00:02:40:05 --> 00:02:45:02] e aqui na instrução eu vou dizer exatamente como eu quero que esse agente se comporte.
+[00:02:45:05 --> 00:02:50:10] Posso falar quais ações, a abordagem dele, o estilo de fala e tudo mais.
+[00:02:50:10 --> 00:03:08:02] Se você quiser aprender como escrever esses prompts com mais profundidade, eu vou deixar aqui embaixo a documentação dessas ferramentas ou você pode também apostar em um dos cursos da Overlens como Engenharia de Prompt, que lá eu passo um bom tempo explicando detalhadamente como escrever o prompt para gerar texto, imagem, vídeo e muito mais.
+[00:03:08:02 --> 00:03:19:11] Aqui então a gente tem o criador de assistentes, posso colocar aqui no conhecimento arquivos que vão fazer parte aqui do contexto da inteligência artificial na hora que eu estiver conversando com ela.
+[00:03:19:15 --> 00:03:26:03] Eu crio o agente, depois clico em criar e aí a partir disso eu posso utilizar ele contextualizado já com as minhas informações.
+[00:03:26:19 --> 00:03:32:22] Além disso eu posso também utilizar aqui os GPTs criados por outras pessoas por categorias.
+[00:03:32:22 --> 00:03:38:10] Se você estiver expandindo as suas possibilidades para imagens ou vídeo, eu te recomendo o Figma.
+[00:03:38:21 --> 00:03:47:03] Dentro do Figma existe um recurso que se chama FigGen, que é um recurso onde você consegue subir várias imagens e vídeos para construir o seu painel visual.
+[00:03:47:14 --> 00:03:54:20] Além disso, aqui dentro do Figma você consegue gerar imagens também utilizando o ChatGPT e também o Nanobanana.
+[00:03:54:23 --> 00:04:00:00] Se você quiser se aprofundar ainda mais, uma outra ferramenta excelente para moodboards é o Flora.
+[00:04:00:00 --> 00:04:05:09] A diferença é que o Flora é um pouquinho mais caro, o Figma você já consegue utilizar de maneira gratuita,
+[00:04:05:10 --> 00:04:12:23] mas fica aqui como uma referência muito poderosa, não só para construir mood boards, mas também para gerar imagens, vídeos e textos.
+[00:04:13:01 --> 00:04:18:18] Avançando aqui no nosso tour por ferramentas de inteligência artificial, eu quero apresentar agora um Hub de As.
+[00:04:18:23 --> 00:04:20:26] Qual é a diferença de um Hub de A para um modelo?
+[00:04:20:29 --> 00:04:26:06] É que o Hub reúne vários modelos dentro deles e eu não poderia deixar de citar o Freepeek.
+[00:04:26:06 --> 00:04:30:28] freepeek aqui dentro do freepeek além de ter um custo-benefício bem atraente você consegue
+[00:04:30:28 --> 00:04:37:17] encontrar não só modelos de imagem mas também modelos de vídeo se eu clico aqui em gerar imagem
+[00:04:37:17 --> 00:04:43:02] aqui no caso eu estou logado na minha conta eu clico aqui em gerar imagens eu tenho esse painel
+[00:04:43:02 --> 00:04:48:07] dentro desse painel eu posso escrever aqui então meu prompt de escrever a imagem que eu quero gerar
+[00:04:48:07 --> 00:04:53:24] e aqui embaixo eu tenho modelos repare a quantidade de modelos que nós temos dentro desse hub você tem
+[00:04:53:24 --> 00:04:58:17] Tem então o Mystic e vários modelos dele, os modelos do Google, incluindo o Nanobanana,
+[00:04:58:18 --> 00:05:04:08] os modelos Sidrim, que é da ByteDance, a dona do TikTok, inclusive aqui o Sidrim 4K.
+[00:05:04:12 --> 00:05:11:21] Também tem aqui os modelos do Flux, os modelos do ChatGPT, do Runway e os clássicos do próprio Freepik.
+[00:05:11:27 --> 00:05:17:00] Além disso, você pode aqui definir também as características de estilo da imagem que você quer gerar,
+[00:05:17:00 --> 00:05:27:07] pode também subir composições que ele deve respeitar, efeitos, personagens que você pode criar novos personagens seu também para manter ele nas cenas,
+[00:05:27:09 --> 00:05:33:18] assim como também objetos, produtos que você está criando, cores que você quer que a imagem siga,
+[00:05:33:19 --> 00:05:38:06] e aí a partir disso você configura todas essas informações e clica em gerar.
+[00:05:38:12 --> 00:05:42:18] Não é difícil e super simples de fazer, para isso é importante escrever o prompt,
+[00:05:42:18 --> 00:05:45:08] ele não está habilitado ali, porque eu preciso escrever um prompt,
+[00:05:45:12 --> 00:05:48:24] a partir do momento que eu escrevo o prompt, eu posso gerar uma imagem aqui.
+[00:05:48:29 --> 00:05:51:27] Aqui a quantidade de imagens que eu quero que ele gere por vez,
+[00:05:51:29 --> 00:05:55:26] geralmente fica habilitado em 4, e aqui em alto é sobre o aspect ratio,
+[00:05:55:29 --> 00:05:58:21] ou seja, a proporção, se você quer um quadrado, formato de stories,
+[00:05:59:09 --> 00:06:02:21] formato de YouTube, que é aqui 16 por 9, e por aí vai.
+[00:06:02:25 --> 00:06:05:15] Além disso, dentro do Freepik, na mesma assinatura,
+[00:06:05:15 --> 00:06:07:23] você tem acesso aos geradores de vídeo.
+[00:06:07:29 --> 00:06:10:11] Olha só, quando eu entro aqui em gerador de vídeo,
+[00:06:10:11 --> 00:06:16:02] vídeo, embaixo eu tenho aqui uma opção do prompt, posso colocar a imagem de começo do meu vídeo e a
+[00:06:16:02 --> 00:06:21:00] imagem de fim, então ele vai animar de uma imagem até a outra. Aqui eu posso escolher o modelo e olha
+[00:06:21:00 --> 00:06:27:01] só quantos modelos disponíveis nós temos aqui, incluindo Seedens, Kling, Google View, que são os
+[00:06:27:01 --> 00:06:32:24] melhores modelos atualmente. Kling também, também tem o Google Vell Tree aqui, todos eles disponíveis
+[00:06:32:24 --> 00:06:37:28] aqui dentro da assinatura. Uma vez que você coloca o modelo e escreve o prompt, você pode escolher
+[00:06:37:28 --> 00:06:39:26] aqui também se quer um vídeo de 5 a 6 segundos
+[00:06:39:26 --> 00:06:42:03] ou de 8 a 10 segundos. E pode escolher
+[00:06:42:03 --> 00:06:43:19] também a proporção do vídeo.
+[00:06:44:11 --> 00:06:45:27] Uma vez que você escreve então
+[00:06:45:27 --> 00:06:47:29] aqui o seu prompt, você clica aqui em
+[00:06:47:29 --> 00:06:49:19] gerar e ele vai gerar o vídeo para você.
+[00:06:49:26 --> 00:06:51:24] Lembrando que aí, nesse caso aqui, para
+[00:06:51:24 --> 00:06:53:20] gerar o vídeo, você precisa fazer
+[00:06:53:20 --> 00:06:55:22] uma assinatura. Fora tudo isso,
+[00:06:55:26 --> 00:06:57:17] ainda que dentro do Freepik,
+[00:06:57:21 --> 00:06:59:26] você tem acesso a um assistente que te ajuda
+[00:06:59:26 --> 00:07:02:02] a criar, ele cria workflows para você
+[00:07:02:02 --> 00:07:03:27] gerar poses, produtos
+[00:07:03:27 --> 00:07:05:24] e muito mais. Tem muitos recursos aqui
+[00:07:05:24 --> 00:07:09:21] aqui dentro do Freepik, e também ter acesso a várias outras ferramentas,
+[00:07:09:21 --> 00:07:11:15] como ferramentas de upscale.
+[00:07:11:21 --> 00:07:14:21] São ferramentas que te ajudam a aumentar o tamanho da imagem
+[00:07:14:21 --> 00:07:17:03] e melhorar ela com o uso de inteligência artificial.
+[00:07:17:18 --> 00:07:21:00] Então, girou aquela imagem pequenininha, você pode jogar ela aqui no upscale
+[00:07:21:00 --> 00:07:22:23] e ele vai ampliar ela para você.
+[00:07:22:27 --> 00:07:26:02] Também tem vídeo upscaler, assim como imagem upscaler.
+[00:07:26:07 --> 00:07:30:00] Tem aqui do rascunho até a imagem, como reimaginar uma imagem,
+[00:07:30:08 --> 00:07:34:24] editor de clipes, lip sync para sincronização de lábio
+[00:07:34:24 --> 00:07:38:05] ou na hora que você vai fazer um vídeo e precisa de um diálogo,
+[00:07:38:24 --> 00:07:43:12] efeitos visuais para vídeo, gerador de voz, gerador de efeitos sonoros,
+[00:07:43:15 --> 00:07:49:06] gerador de música, ou seja, é um hub que vale muito a pena pelo custo-benefício.
+[00:07:49:09 --> 00:07:50:20] Eu não poderia deixar de falar aqui.
+[00:07:50:23 --> 00:07:54:04] É só importante sempre lembrar que as ferramentas estão atualizando o tempo todo
+[00:07:54:04 --> 00:07:55:22] e não deixe isso aqui te acomodar.
+[00:07:55:24 --> 00:07:57:27] Sempre pesquise e busque mais referências.
+[00:07:58:03 --> 00:08:01:26] Além disso, indo direto para as músicas agora, eu quero apresentar para você o Suno.
+[00:08:01:26 --> 00:08:05:20] O Suno é uma ferramenta que te ajuda a gerar músicas através de um prompt.
+[00:08:05:23 --> 00:08:11:29] Você descreve a sua música, coloca a letra se você quiser letra e ele gera para você no estilo que você pedir.
+[00:08:12:04 --> 00:08:16:13] Inclusive tem várias músicas aqui de outros usuários, eu recomendo você conhecer.
+[00:08:16:28 --> 00:08:21:25] Não tem muito mistério para usar, se você clica aqui em criar, tem aqui a opção de colocar o seu prompt.
+[00:08:22:00 --> 00:08:24:10] Aqui você pode subir um áudio de exemplo também.
+[00:08:24:17 --> 00:08:27:25] Em lyrics você coloca a sua letra da música.
+[00:08:28:08 --> 00:08:30:15] Embaixo você pode colocar inspirações também.
+[00:08:30:15 --> 00:08:34:20] Se você quiser a opção instrumental, você pode marcar ela aqui e não vai ter letra.
+[00:08:34:22 --> 00:08:39:21] Olha só, coloquei aqui aleatório, ele já trouxe aqui um prompt simples que eu poderia utilizar.
+[00:08:40:05 --> 00:08:50:11] Posso também personalizar mais ainda colocando uma persona de voz, colocando uma inspiração, um áudio de referência, o estilo descrito aqui melhor, descrevendo também a letra.
+[00:08:50:12 --> 00:08:57:11] E tem mais opções aqui, se eu quero uma voz feminina, uma voz masculina, mais estranheza na voz, mais influência de algum estilo.
+[00:08:57:11 --> 00:09:00:24] aqui eu coloco o título da música e a pasta que eu quero que ela fique.
+[00:09:01:00 --> 00:09:04:03] Depois disso eu posso gerar essa música em um desses modelos aqui,
+[00:09:04:06 --> 00:09:11:03] então tem o V2, V3, V5, V4, 4.5 e 4.5 Plus que vem dentro do Pro.
+[00:09:11:11 --> 00:09:15:19] É uma ferramenta muito versátil, aqui na biblioteca você encontra suas músicas,
+[00:09:15:22 --> 00:09:19:11] aqui na rádio você consegue ver o que as pessoas estão criando também,
+[00:09:19:15 --> 00:09:24:17] assim como na exploração aqui de músicas criadas pelo público.
+[00:09:24:17 --> 00:09:31:14] É uma das melhores ferramentas para geração de música e eu tenho certeza que quando você usar a primeira vez, você vai ficar impressionado com o que você vai encontrar aqui.
+[00:09:31:25 --> 00:09:39:16] Indo além dentro aqui da nossa exposição de ferramentas, também não poderia deixar de passar o Bolt, que é uma ferramenta para geração de código.
+[00:09:39:23 --> 00:09:49:15] Essa daqui é muito poderosa, porque ela te ajuda não só a criar sites, caso você precisa, simplesmente descrevendo o seu site aqui ou enviando um arquivo do Figma,
+[00:09:49:15 --> 00:09:54:15] como também ela te ajuda a criar ferramentas novas, micro SaaS.
+[00:09:54:23 --> 00:09:58:06] Você pode utilizar o Bolt para poder criar micro softwares para você,
+[00:09:58:09 --> 00:10:00:17] softwares como serviços do seu dia a dia,
+[00:10:00:18 --> 00:10:03:22] ferramentas que te ajudam a otimizar grande parte do processo.
+[00:10:04:02 --> 00:10:07:06] Para te ajudar a tangibilizar tudo isso, eu vou vir aqui em galeria
+[00:10:07:06 --> 00:10:11:06] e aqui a gente consegue ver vários projetos criados pela comunidade.
+[00:10:11:13 --> 00:10:14:09] Você vai encontrar muitos sites diferentes aqui,
+[00:10:14:12 --> 00:10:17:02] mas também vai encontrar ferramentas de produtividade,
+[00:10:17:02 --> 00:10:22:22] landing pages, portfólio, mobile, gestão de projetos, entretenimento, dashboards e por aí vai.
+[00:10:22:27 --> 00:10:26:20] Vou acessar aqui, por exemplo, uma educação.
+[00:10:26:26 --> 00:10:32:25] Então, eu venho dentro dessa categoria e aqui eu posso acessar um site todo criado por inteligência artificial
+[00:10:32:25 --> 00:10:34:14] aqui dentro do Bolt.
+[00:10:34:15 --> 00:10:37:06] E com design muito bom, diga-se de passagem.
+[00:10:37:08 --> 00:10:41:17] Se você quiser entender um pouquinho melhor, recomendo dar uma explorada aqui dentro da galeria.
+[00:10:41:17 --> 00:10:44:27] Tenho certeza que você vai se impressionar com a quantidade de projetos que existem aqui
+[00:10:44:27 --> 00:10:48:00] e todos eles criados a partir de prompts.
+[00:10:48:08 --> 00:10:50:18] Dá uma conferida que eu tenho certeza que você vai curtir.
+[00:10:50:22 --> 00:10:53:27] Meu objetivo com essa aula foi te dar uma visão geral rápida
+[00:10:53:27 --> 00:10:55:28] sobre algumas das principais ferramentas
+[00:10:55:28 --> 00:10:57:29] nas categorias que eu te apresentei aqui.
+[00:10:58:09 --> 00:11:01:15] Texto, imagem, vídeo, música e código.
+[00:11:01:20 --> 00:11:04:29] E é por isso que existe muito mais conteúdo dentro da Overlens.
+[00:11:05:05 --> 00:11:06:26] Depois que você acabar o protocolo,
+[00:11:06:27 --> 00:11:08:15] eu quero te convidar a conhecer um pouco melhor
+[00:11:08:15 --> 00:11:10:06] tudo que nós temos para te oferecer,
+[00:11:10:07 --> 00:11:12:05] mas ainda não terminamos aqui
+[00:11:12:05 --> 00:11:15:17] e eu quero falar com vocês sobre um assunto muito importante na próxima aula.
+[00:11:15:21 --> 00:11:17:20] Então, toque avançar e eu te vejo lá.

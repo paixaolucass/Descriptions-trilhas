@@ -1,0 +1,167 @@
+# Video: 13._aula_-_ferramentas_para_roteiros_e_storytelling_(ex._storybrand)_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 13:24
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:00 --> 00:00:03:22] Por que tanta gente com boas ideias trava na hora de passar para o papel?
+[00:00:03:27 --> 00:00:06:29] E por que algumas ideias que parecem tão boas na nossa cabeça
+[00:00:06:29 --> 00:00:09:29] acabam se perdendo quando a gente transforma em roteiro?
+[00:00:10:02 --> 00:00:11:23] A resposta é um pouquinho mais técnica.
+[00:00:12:01 --> 00:00:15:16] É que storytelling e roteiro são coisas bem diferentes.
+[00:00:15:26 --> 00:00:19:00] O storytelling cria conexão, é basicamente a alma.
+[00:00:19:05 --> 00:00:23:02] E o roteiro, ele cria ritmo, continuidade e retenção.
+[00:00:23:04 --> 00:00:23:28] É engenharia.
+[00:00:24:01 --> 00:00:27:26] Se você tem engenharia, mas não tem alma, fica algo meio robótico.
+[00:00:27:26 --> 00:00:32:08] E se você tem alma, mas não tem engenharia, a história acaba ficando meio dispersa.
+[00:00:32:08 --> 00:00:37:01] O problema é que a gente tenta acertar isso meio que na intuição, sem um método.
+[00:00:37:04 --> 00:00:41:14] E quando a gente não tem um método, a IA vai entregar pra gente algo meio disperso,
+[00:00:41:14 --> 00:00:43:07] ou uma trama sem muita conexão.
+[00:00:43:13 --> 00:00:47:11] E o ideal é a gente entender o que fazem as grandes histórias,
+[00:00:47:16 --> 00:00:51:24] seja um filme da Pixar, seja um case de sucesso, seja uma página de vendas,
+[00:00:51:27 --> 00:00:55:02] o que fazem essas narrativas serem realmente efetivas.
+[00:00:55:02 --> 00:00:58:13] E a verdade é que elas possuem algumas arquiteturas meio ocultas.
+[00:00:58:15 --> 00:01:00:16] E hoje eu não quero te ensinar a ser um criativo.
+[00:01:00:20 --> 00:01:03:23] Eu quero simplesmente te entregar algumas dessas arquiteturas
+[00:01:03:23 --> 00:01:05:07] para que você possa usar na sua produção.
+[00:01:05:14 --> 00:01:10:04] Agora que entendemos a diferença conceitual de storytelling e roteiro,
+[00:01:10:05 --> 00:01:11:26] a gente pode olhar também para a neurociência,
+[00:01:12:00 --> 00:01:15:07] porque ela também mostra que o nosso cérebro processa histórias
+[00:01:15:07 --> 00:01:16:29] em duas camadas simultâneas,
+[00:01:16:29 --> 00:01:19:15] que é muito parecido com o storytelling e roteiro.
+[00:01:19:19 --> 00:01:21:15] A primeira delas é a construção de sentido.
+[00:01:21:15 --> 00:01:27:10] Ali, o nosso cérebro está tentando buscar a causalidade, o significado, os personagens, a identidade.
+[00:01:27:17 --> 00:01:30:17] Então, a gente está sempre pensando, o que isso significa? O que esse elemento significa?
+[00:01:31:02 --> 00:01:31:25] Isso é o storytelling.
+[00:01:32:03 --> 00:01:35:10] E a segunda camada é uma camada mais de organização temporal.
+[00:01:35:19 --> 00:01:39:06] Nosso cérebro está tentando avaliar o ritmo, a lógica, e a gente está sempre pensando,
+[00:01:39:13 --> 00:01:42:25] isso está indo para algum lugar? Qual é a continuidade disso? Para onde essa história está indo?
+[00:01:42:29 --> 00:01:44:19] E é, basicamente, o roteiro.
+[00:01:44:22 --> 00:01:49:01] E as ferramentas que a gente vai ver agora, elas vão servir para alinhar essas duas camadas.
+[00:01:49:01 --> 00:01:54:11] Eu organizei elas por objetivo, então você pode escolher qual ferramenta você vai usar para cada tipo de roteiro.
+[00:01:54:13 --> 00:01:56:16] Então vamos ver quais são essas cinco ferramentas.
+[00:01:56:20 --> 00:02:02:13] A primeira delas é ideal para branding, para vídeos manifestos, para educação e campanhas de longo prazo.
+[00:02:02:14 --> 00:02:07:00] Se você quer uma transformação profunda, você pode usar a Jornada do Herói, o Monomito.
+[00:02:07:04 --> 00:02:10:22] Ela é muito conhecida, talvez seja o mapa mais famoso e é estudado por Campbell
+[00:02:10:22 --> 00:02:14:04] e também foi transformado em uma ferramenta para roteiros pelo Vogler também.
+[00:02:14:04 --> 00:02:20:10] E aqui ela não descreve uma viagem apenas física, mas uma transformação, uma mudança de identidade do protagonista.
+[00:02:20:13 --> 00:02:22:11] Daquele eu limitado pro eu capaz.
+[00:02:22:21 --> 00:02:26:14] E o mecanismo dela segue uma estrutura clássica de 12 estágios.
+[00:02:26:18 --> 00:02:29:04] Mas o essencial pro roteiro são os marcos de tensão.
+[00:02:29:06 --> 00:02:34:13] O chamado aventura, a recusa, que é o medo, o mentor, a travessia do limiar, onde não tem mais volta,
+[00:02:34:18 --> 00:02:37:25] as provações, a recompensa e o retorno com o elixir.
+[00:02:37:29 --> 00:02:43:09] Ela é muito poderosa porque ela valida essa nova competência do herói através da dor, através da superação.
+[00:02:43:09 --> 00:02:47:05] E a questão não é ganhar, mas se tornar alguém que merece ganhar.
+[00:02:47:12 --> 00:02:51:14] E um prompt mental que você pode fazer até antes de pensar em escrever,
+[00:02:51:17 --> 00:02:54:08] antes de pensar na jornada, é mapear a transformação interna.
+[00:02:54:10 --> 00:02:58:07] Pensa assim, quem que é a pessoa antes, o medo que ela sente,
+[00:02:58:12 --> 00:03:00:05] e quem que ela é agora, depois do elixir.
+[00:03:00:08 --> 00:03:04:01] Você pode colocar tanto o leitor como o protagonista,
+[00:03:04:02 --> 00:03:07:02] como também o próprio personagem da sua história, do seu roteiro.
+[00:03:07:05 --> 00:03:10:04] O segundo grupo aqui é para clareza e para conversão,
+[00:03:10:04 --> 00:03:14:17] que é ideal para landing pages, para anúncios, para script de vendas, para vídeos mais curtos.
+[00:03:14:19 --> 00:03:17:02] E a ferramenta é o Story Brands do Donald Miller.
+[00:03:17:08 --> 00:03:18:13] E aqui a gente inverte o jogo.
+[00:03:18:20 --> 00:03:21:22] Eu acabei de falar de colocar o leitor no centro da história,
+[00:03:21:28 --> 00:03:25:14] mas muitas marcas, a maioria delas, tentam sempre ser o herói.
+[00:03:25:16 --> 00:03:29:08] No Story Brands, o cliente é o herói e você é o guia, assim como Yoda.
+[00:03:29:14 --> 00:03:32:23] Então, o mecanismo dela é uma estrutura linear de sete partes.
+[00:03:33:02 --> 00:03:35:18] Então, você pensa num personagem, primeiro, que é o cliente,
+[00:03:35:18 --> 00:03:37:16] depois ele tem um problema e ele encontra um guia,
+[00:03:37:16 --> 00:03:40:11] O guia, no caso, é você, que dá um plano e chama para a ação,
+[00:03:40:13 --> 00:03:42:26] resultando em um sucesso ou evitando um fracasso.
+[00:03:42:29 --> 00:03:44:20] Então, seguindo essa estrutura de sete partes,
+[00:03:44:27 --> 00:03:48:22] você consegue ter uma força de clareza absoluta.
+[00:03:48:22 --> 00:03:51:26] Prioriza benefícios concretos, ela cria uma sequência bem lógica
+[00:03:51:26 --> 00:03:55:22] que muita gente consegue acompanhar e reduz bastante o atrito cognitivo.
+[00:03:55:25 --> 00:03:59:14] E também, se você precisa explicar, se você, por exemplo, tem um roteiro,
+[00:03:59:14 --> 00:04:01:22] tem uma ferramenta ou tem um vídeo de vendas,
+[00:04:01:24 --> 00:04:03:19] você precisa explicar em cinco segundos o que você faz.
+[00:04:03:23 --> 00:04:05:14] Essa é uma ótima ferramenta para você utilizar.
+[00:04:05:14 --> 00:04:09:11] O próximo grupo aqui é para quem quer criar causalidade e ritmo.
+[00:04:09:13 --> 00:04:12:17] Ou seja, reels, pitches de vendas, pitches rápidos,
+[00:04:12:17 --> 00:04:17:25] explicar complexidade ou processos muito complexos de forma simples,
+[00:04:18:00 --> 00:04:20:23] que a ferramenta é a Pixar Story Spine.
+[00:04:20:29 --> 00:04:24:23] É uma fórmula bem simples que sustenta narrativas bem memoráveis da animação.
+[00:04:24:26 --> 00:04:27:13] Então, ela impede que sua história vire aquele amontoado de
+[00:04:27:13 --> 00:04:30:16] e aconteceu isso, e aconteceu isso, e aconteceu aquilo, e também aquilo.
+[00:04:30:24 --> 00:04:34:25] O mecanismo são uma sequência de frases que obrigam a uma conexão lógica.
+[00:04:34:25 --> 00:04:40:00] Então era uma vez, todos os dias, até que um dia, por causa disso, por causa disso, até que finalmente.
+[00:04:40:09 --> 00:04:45:05] Então você sempre está ligando os acontecimentos, a história, os fatos,
+[00:04:45:05 --> 00:04:48:12] por causa disso aconteceu isso, e por causa disso aconteceu isso.
+[00:04:48:15 --> 00:04:51:01] Então você sempre está criando uma consequência inevitável.
+[00:04:51:04 --> 00:04:55:21] Isso transforma fatos meio soltos nessa corrente mais blindada de eventos.
+[00:04:55:23 --> 00:04:59:14] Então é ótimo para treinar uma IA também, a não alucinar e manter o fio da miada.
+[00:04:59:20 --> 00:05:02:14] O próximo objetivo aqui é para a tensão dramática.
+[00:05:02:14 --> 00:05:07:16] Então você quer criar um case de sucesso, uma história de superação, crises, dramas,
+[00:05:07:22 --> 00:05:09:05] que é a pirâmide de Freytag.
+[00:05:09:10 --> 00:05:13:10] É um modelo bem clássico, do século XIX, usado em tragédias, em dramas,
+[00:05:13:13 --> 00:05:16:01] focada na gestão da intensidade emocional.
+[00:05:16:05 --> 00:05:21:14] O mecanismo é dividindo a história em cinco etapas bem rígidas de intensidade.
+[00:05:21:21 --> 00:05:24:17] A primeira delas é a exposição, que seria o contexto da história.
+[00:05:24:21 --> 00:05:27:13] Depois é a ascensão, é quando começa a complicação.
+[00:05:27:19 --> 00:05:30:28] Depois é o clímax, é o ponto de virada central, o auge da tensão.
+[00:05:30:28 --> 00:05:34:11] E depois a queda, as consequências imediatas causadas por esse clímax.
+[00:05:34:16 --> 00:05:36:25] E por último é o desfecho, é a nova realidade.
+[00:05:37:08 --> 00:05:40:27] O poder é basicamente esse batimento cardíaco, esse ritmo da história.
+[00:05:41:04 --> 00:05:45:12] Se seu conteúdo está meio monótono, provavelmente falta essa subida intencional para o clímax
+[00:05:45:12 --> 00:05:49:16] e isso ajuda a segurar bastante a atenção pela expectativa
+[00:05:49:16 --> 00:05:54:13] e a expectativa de qual vai ser a resolução dessa história, como ela vai terminar.
+[00:05:54:21 --> 00:05:59:21] Se você quer criar surpresa e contemplação, você pode utilizar o Kishotenketsu.
+[00:05:59:21 --> 00:06:06:05] É uma estrutura oriental que diferencia muito do Ocidente, porque ela não tem um conflito direto ou um vilão.
+[00:06:06:07 --> 00:06:11:28] Então ela é muito boa para ensaios visuais, para poesias e principalmente narrativas que fogem desse padrão de conflito.
+[00:06:12:02 --> 00:06:18:14] Ela é muito usada em haikais, em mangás, em jogos, porque ela cria esse impacto de surpreender sem ter um antagonismo.
+[00:06:18:17 --> 00:06:22:14] O mecanismo dela é literalmente o nome, então ela se organiza em quatro atos.
+[00:06:22:14 --> 00:06:24:13] Que é o Ki, que é a introdução, o cenário.
+[00:06:24:14 --> 00:06:27:00] O Sho, que é o desenvolvimento, a expansão desse cenário.
+[00:06:27:00 --> 00:06:32:05] Depois o Tem, que é o twist, é uma reviravolta ou elemento novo introduzido no roteiro.
+[00:06:32:06 --> 00:06:37:08] E depois é o Ketsu, que é uma conclusão e o twist muitas vezes acaba ressignificando o começo.
+[00:06:37:16 --> 00:06:41:26] O poder dela é que ela gera muito impacto pela revelação e pelo contraste,
+[00:06:41:26 --> 00:06:43:14] não pela briga, não pelo conflito.
+[00:06:43:19 --> 00:06:47:22] Ela é ideal para mostrar como elementos que aparentemente são desconectados,
+[00:06:47:24 --> 00:06:49:22] eles acabam se integrando no novo sentido.
+[00:06:49:29 --> 00:06:56:03] O ponto cego aqui é pegar todas as ferramentas e usá-las como se fosse uma receita de bolo,
+[00:06:56:03 --> 00:06:57:19] sendo que elas são um mecanismo.
+[00:06:57:23 --> 00:07:01:01] Então muita gente vai escrever, por exemplo, um roteiro e pensa
+[00:07:01:01 --> 00:07:04:18] Ah, vou usar a Jornada do Herói, ela é muito famosa, eu quero que meu roteiro seja épico.
+[00:07:04:20 --> 00:07:07:06] Só que aí elas vão e usam para um produto de conveniência
+[00:07:07:06 --> 00:07:08:23] que precisa ser vendido em 15 segundos.
+[00:07:09:02 --> 00:07:09:23] Não vai funcionar.
+[00:07:09:25 --> 00:07:13:18] Ou você pega, por exemplo, Story Brands e tenta fazer um filme super emocionante.
+[00:07:13:19 --> 00:07:14:06] Vai ficar frio.
+[00:07:14:08 --> 00:07:18:00] Então nunca escolha esse mecanismo pela estética.
+[00:07:18:08 --> 00:07:19:01] Escolha pela função.
+[00:07:19:08 --> 00:07:21:20] Então se você quer criar identidade, a gente pode usar a Jornada do Herói.
+[00:07:21:23 --> 00:07:24:29] Se você quer vender algo de uma forma muito clara, você pode usar a Story Brand.
+[00:07:24:29 --> 00:07:27:04] e você quer criar uma história com uma narrativa
+[00:07:27:04 --> 00:07:29:01] não muito convencional, com conflito
+[00:07:29:01 --> 00:07:31:07] sem um vilão, o Kishoten Texo vai funcionar
+[00:07:31:07 --> 00:07:32:27] muito bem. O importante é entender
+[00:07:32:27 --> 00:07:35:14] que esses mecanismos, essas ferramentas,
+[00:07:35:14 --> 00:07:37:06] elas não são um ornamento, elas são
+[00:07:37:06 --> 00:07:39:05] a engenharia. E é a engenharia que vai manter
+[00:07:39:05 --> 00:07:41:00] a sua história de pé. Quando você
+[00:07:41:00 --> 00:07:43:07] enxerga melhor essas estruturas e consegue
+[00:07:43:07 --> 00:07:44:23] dominar esses mecanismos,
+[00:07:44:23 --> 00:07:47:00] a história deixa de ser uma aposta e
+[00:07:47:00 --> 00:07:49:06] acaba virando uma ferramenta muito mais previsível.
+[00:07:49:10 --> 00:07:50:22] Então o que eu quero que você faça hoje
+[00:07:50:22 --> 00:07:53:01] é pegar uma ideia, algum roteiro que
+[00:07:53:01 --> 00:07:54:29] seja meio travado aí, pensa em uma
+[00:07:54:29 --> 00:07:56:28] das ferramentas, em uma das estruturas que a gente viu
+[00:07:56:28 --> 00:07:58:26] hoje, escolhe uma só e pensa
+[00:07:58:26 --> 00:08:01:01] no objetivo. É pra vender? É pra
+[00:08:01:01 --> 00:08:03:08] emocionar? É pra explicar alguma coisa complexa?
+[00:08:03:11 --> 00:08:04:16] E aí você pode ir pra sua IA
+[00:08:04:16 --> 00:08:07:04] e perguntar, falar assim, ó, reescreva
+[00:08:07:04 --> 00:08:08:29] esse rascunho seguindo
+[00:08:08:29 --> 00:08:10:27] a estrutura X pra objetivo
+[00:08:10:27 --> 00:08:13:01] Y. Então pode ser, seguindo
+[00:08:13:01 --> 00:08:15:01] a jornada do herói, porque eu quero
+[00:08:15:01 --> 00:08:16:21] que as pessoas se identifiquem com o meu produto
+[00:08:16:21 --> 00:08:19:04] ou com o meu serviço. Utilizando essas estruturas
+[00:08:19:04 --> 00:08:21:04] eu tenho certeza que a sua história vai ter
+[00:08:21:04 --> 00:08:23:02] ter uma nova direção, vai ter muito mais conexão com as
+[00:08:23:02 --> 00:08:25:08] pessoas e você vai ter um resultado ainda melhor.

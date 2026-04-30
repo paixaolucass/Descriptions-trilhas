@@ -1,0 +1,216 @@
+# Video: 5._chain_of_thought_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 08:36
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:09 --> 00:00:07:22] Outra palavra muito comum que você vai ouvir é COT, ou Chain of Thought, que significa cadeia de pensamento.
+[00:00:08:04 --> 00:00:13:15] Aqui a coisa já começa a ficar muito interessante, porque você vai dar um passo a passo para a IA executar por você.
+[00:00:13:19 --> 00:00:22:05] Você vai explicar para ela exatamente qual é a linha de raciocínio que você quer que ela siga para poder trazer a resposta que você quer.
+[00:00:22:07 --> 00:00:24:24] Então, vou abrir uma outra aqui para a gente ter como exemplo.
+[00:00:25:03 --> 00:00:28:04] Vamos pegar esse mesmo caso. Estou estudando sobre Design Thinking.
+[00:00:28:06 --> 00:00:29:25] Nós temos essas informações aqui.
+[00:00:30:09 --> 00:00:31:07] Vou abrir um novo.
+[00:00:31:21 --> 00:00:33:00] E nós temos essas informações.
+[00:00:33:07 --> 00:00:34:18] Quero que você vá mais fundo.
+[00:00:34:27 --> 00:00:36:25] Quero encontrar conteúdo básico avançado.
+[00:00:36:26 --> 00:00:38:00] Não quero me limitar ao superficial.
+[00:00:38:18 --> 00:00:40:07] Aqui eu pedi ele para gerar o sumário.
+[00:00:40:09 --> 00:00:42:21] Ou seja, eu pedi para ele uma tarefa.
+[00:00:43:04 --> 00:00:46:11] Vamos supor que agora eu vou pedir para ele uma ordem de raciocínios.
+[00:00:46:12 --> 00:00:47:01] Então, eu vou falar assim.
+[00:00:47:08 --> 00:00:47:20] Primeiro.
+[00:00:49:16 --> 00:00:52:09] Busque na internet, então vou usar aqui o busca.
+[00:00:53:29 --> 00:00:57:10] O investigar é mais poderoso que o busca, mas eu vou usar aqui o busca mesmo.
+[00:00:57:13 --> 00:01:02:28] Ele geralmente vai usar os navegadores padrões, vai no Google, no Bing, vai no básico mesmo.
+[00:01:03:04 --> 00:01:04:18] Mas eu vou colocar aqui, busque.
+[00:01:06:08 --> 00:01:09:21] Os principais links sobre o assunto.
+[00:01:10:00 --> 00:01:17:01] 2. Categorize os 10 principais links sobre design thinking.
+[00:01:18:27 --> 00:01:20:17] E liste-os aqui.
+[00:01:23:10 --> 00:01:27:12] 3. Avalie quais são os três...
+[00:01:29:28 --> 00:01:34:04] principais links mais relevantes dessa lista.
+[00:01:34:12 --> 00:01:34:29] 4.
+[00:01:38:10 --> 00:01:43:08] Me explique os conceitos mais importantes.
+[00:01:45:03 --> 00:01:47:00] presentes nesses links.
+[00:01:47:12 --> 00:01:48:19] O que eu estou fazendo aqui?
+[00:01:48:22 --> 00:01:50:26] Eu mesmo estou criando o prompt e pedindo
+[00:01:50:26 --> 00:01:52:24] ele para fazer essa ordem. Mas esse
+[00:01:52:24 --> 00:01:54:15] investigar que a gente fez aqui, olha,
+[00:01:54:17 --> 00:01:57:01] ele nada mais é do que uma cadeia
+[00:01:57:01 --> 00:01:59:00] de pensamento que já está
+[00:01:59:00 --> 00:02:01:03] embutida na IA, ou seja, não fui
+[00:02:01:03 --> 00:02:02:29] eu que coloquei no prompt. Olha, meu prompt está
+[00:02:02:29 --> 00:02:05:03] bem pequenininho, sem informação.
+[00:02:05:14 --> 00:02:06:06] Só que,
+[00:02:06:24 --> 00:02:09:09] aqui no caso, a OpenAI criou uma cadeia
+[00:02:09:09 --> 00:02:10:13] de etapas
+[00:02:10:29 --> 00:02:13:02] e ela está executando. Então, olha só como ele vai
+[00:02:13:02 --> 00:02:15:01] vai seguindo passo a passo. Primeiro, estou destacando
+[00:02:15:01 --> 00:02:17:00] a necessidade de apresentar as informações de forma
+[00:02:17:00 --> 00:02:19:01] clara e estruturada, combinando
+[00:02:19:01 --> 00:02:20:22] listas, numeradas e marcadores.
+[00:02:21:07 --> 00:02:22:25] Aí depois veio outro. Estou mapeando
+[00:02:22:25 --> 00:02:24:25] as etapas de design thinking, como
+[00:02:24:25 --> 00:02:27:02] imersão, ideação, prototipagem, testes.
+[00:02:27:04 --> 00:02:28:27] Estou verificando blogs de mind
+[00:02:28:27 --> 00:02:30:29] miners. Olha só, três tarefas diferentes.
+[00:02:31:12 --> 00:02:32:10] Aí ele leu aqui,
+[00:02:32:15 --> 00:02:34:26] depois ele veio. Estou verificando os princípios
+[00:02:34:26 --> 00:02:36:24] fundamentais do design thinking. Estou
+[00:02:36:24 --> 00:02:38:22] reavaliando a abordagem. Estou
+[00:02:38:22 --> 00:02:41:01] recomendando a mudança. Estou analisando
+[00:02:41:01 --> 00:02:42:24] os quatro passos. Ele já faz você
+[00:02:42:24 --> 00:02:46:09] Eu, como um usuário leigo, vamos colocar que eu sou um usuário leigo
+[00:02:46:09 --> 00:02:48:10] e eu só vim cá e pedi para ele.
+[00:02:48:12 --> 00:02:49:25] Só que eu cliquei em investigar.
+[00:02:50:01 --> 00:02:54:09] Eu não sei escrever o prompt, mas eles já criaram um agente autônomo
+[00:02:54:09 --> 00:02:57:29] que pensa por mim e que sabe pedir para ele mesmo.
+[00:02:58:03 --> 00:03:02:00] Então, ele mesmo já decide qual é a próxima etapa dele e é um agente autônomo.
+[00:03:02:03 --> 00:03:07:01] Então, agente autônomo dentro aqui do chat GPT que faz a pesquisa por você.
+[00:03:07:01 --> 00:03:09:22] Ele está fazendo, está lendo os artigos, ele mesmo está buscando isso.
+[00:03:09:22 --> 00:03:13:16] isso algumas pessoas ficaram impressionadas né na época que eu tô gravando esse vídeo com humanos
+[00:03:14:00 --> 00:03:22:15] mas ou menos né humanos é uma IA que trabalha por você mas é a mesma coisa ela é uma IA que
+[00:03:22:15 --> 00:03:27:19] tem autonomia e quando eu clico nela aqui ó vamos pegar aqui eu gosto do que diabos que é o melhor
+[00:03:27:19 --> 00:03:33:10] que tem então que diabos aí eu tenho aqui ó criação de um cartão de visitas ele vai me mostrar um vídeo
+[00:03:33:10 --> 00:03:37:22] vídeo de como fazer isso. Olha, crie um minimalista elegante cartão de visitas
+[00:03:37:22 --> 00:03:43:27] para me inspirar. Para mim, inspirado pela filosofia de design da Apple.
+[00:03:45:09 --> 00:03:47:14] E aí ele colocou aqui um resumo dele em PDF.
+[00:03:47:23 --> 00:03:49:23] Aí olha só, a própria IA está navegando, olha.
+[00:03:49:25 --> 00:03:51:15] O legal do Manos é que ele vai mostrando.
+[00:03:51:20 --> 00:03:53:12] Então ela está tomando as decisões.
+[00:03:53:17 --> 00:03:55:23] Mas o que está acontecendo aqui é uma cadeia de pensamentos,
+[00:03:55:25 --> 00:04:00:28] que já foi definida antes por você, para facilitar esse processo para você.
+[00:04:01:19 --> 00:04:04:27] Antigamente, quando não tinha essas ferramentas, a gente conseguia.
+[00:04:04:27 --> 00:04:08:14] Ele criou o cartão de visitas baseado nisso, minimalista, bem legal.
+[00:04:08:24 --> 00:04:10:27] E seguindo todas essas etapas, está vendo?
+[00:04:11:03 --> 00:04:14:03] Com base em uma solicitação simples.
+[00:04:14:03 --> 00:04:18:07] Aqui é só uma reprodução gravada, eu posso assistir de novo, olha, ele vai seguir.
+[00:04:18:20 --> 00:04:23:18] Por enquanto, ainda no momento que eu estou gravando esse vídeo, o Manos está em...
+[00:04:25:09 --> 00:04:27:26] em beta, fechado.
+[00:04:27:28 --> 00:04:29:10] Então, você tem que fazer uma solicitação.
+[00:04:29:11 --> 00:04:31:10] Eu já solicitei lá, ainda não recebi meu convite.
+[00:04:31:18 --> 00:04:33:22] Mas, basicamente, ele é um cote simplificado
+[00:04:33:22 --> 00:04:35:09] para quem não sabe fazer engenharia de prompt.
+[00:04:35:16 --> 00:04:39:06] Se você sabe, você pode escrever todas essas etapas
+[00:04:39:06 --> 00:04:40:08] que você quer que ele siga.
+[00:04:40:19 --> 00:04:41:16] Pode escrever todas.
+[00:04:41:19 --> 00:04:43:13] E ele vai seguindo uma a uma para você.
+[00:04:43:22 --> 00:04:47:06] O problema é que se você faz direto aqui no prompt,
+[00:04:47:12 --> 00:04:48:12] a gente vai ter o quê?
+[00:04:48:24 --> 00:04:50:09] O problema da janela de contexto.
+[00:04:50:15 --> 00:04:52:21] Se eu coloco, Juan, 30 passos para ele seguir,
+[00:04:53:12 --> 00:04:54:15] ele vai se embolar aqui.
+[00:04:54:15 --> 00:04:57:07] E aí, para isso, o que muitas pessoas fazem?
+[00:04:57:13 --> 00:05:00:23] Só abrindo o ambiente para vocês, elas vão para softwares como o N8N,
+[00:05:00:27 --> 00:05:05:07] que é um software de automação, onde eu coloco várias conversas diferentes,
+[00:05:05:17 --> 00:05:06:23] uma para cada etapa.
+[00:05:07:07 --> 00:05:10:00] Então, vamos supor que aqui eu coloquei um agente.
+[00:05:10:01 --> 00:05:12:05] Vamos fazer de um outro jeito para ficar mais simples,
+[00:05:12:07 --> 00:05:17:13] explicando ainda o COT para vocês.
+[00:05:17:25 --> 00:05:19:14] Só que o COT em automação.
+[00:05:19:25 --> 00:05:22:14] Se eu coloco tudo em uma IA,
+[00:05:22:14 --> 00:05:23:25] Então vamos pegar que isso aqui é uma IA
+[00:05:23:25 --> 00:05:26:21] E eu vou colocar 30 passos pra ela aqui
+[00:05:28:10 --> 00:05:29:04] 30 passos
+[00:05:29:04 --> 00:05:30:20] A janela de contexto
+[00:05:30:20 --> 00:05:32:24] Dessa IA aqui, vamos colocar ela de azul
+[00:05:32:24 --> 00:05:33:25] É a IA boazinha
+[00:05:35:13 --> 00:05:36:07] Praquinha, tadinha
+[00:05:36:07 --> 00:05:38:21] Tá tentando ali, mas a janela de contexto dela sozinha
+[00:05:38:21 --> 00:05:39:09] Ela vai começar
+[00:05:39:22 --> 00:05:41:24] Começou a seguir sua etapa, começou, começou, começou
+[00:05:42:07 --> 00:05:44:05] Começou, começou, começou, quebrou
+[00:05:44:20 --> 00:05:47:01] Ela não consegue acompanhar mais
+[00:05:47:01 --> 00:05:48:10] O que ela vai fazer depois disso aqui?
+[00:05:49:22 --> 00:05:50:04] Alucinate
+[00:05:51:24 --> 00:05:53:04] Alucinate. Ela vai alucinar.
+[00:05:55:07 --> 00:05:57:15] Então, ela vai começar a inventar o resto da informação.
+[00:05:57:24 --> 00:05:59:04] E isso é muito ruim para a precisão.
+[00:05:59:13 --> 00:06:01:28] Qual que é o caminho para resolver isso?
+[00:06:02:01 --> 00:06:04:04] O caminho um pouco mais avançado.
+[00:06:04:10 --> 00:06:08:09] Eu tenho essa IA e eu crio várias conversas com ela em sequência.
+[00:06:09:16 --> 00:06:11:04] Eu crio essas conversas em sequência.
+[00:06:11:07 --> 00:06:14:21] E ao invés de colocar o cote, a cadeia de pensamento em um monocle,
+[00:06:14:21 --> 00:06:19:15] eu crio o que também é chamado de multipersonas.
+[00:06:19:26 --> 00:06:22:09] Então, a primeira aqui é uma exploradora.
+[00:06:22:15 --> 00:06:24:05] Vou colocá-la de verdinho aqui.
+[00:06:25:19 --> 00:06:29:07] A primeira é uma exploradora, a segunda já é uma avaliadora.
+[00:06:31:25 --> 00:06:32:21] Ela vai avaliar.
+[00:06:33:29 --> 00:06:35:13] preta aqui. Exploradora,
+[00:06:36:00 --> 00:06:37:26] avaliadora. Ela vai avaliar o que
+[00:06:37:26 --> 00:06:39:29] essa daqui explorou. A terceira é uma
+[00:06:40:13 --> 00:06:42:01] priorizadora. Ela vai pegar o que essa daqui
+[00:06:42:01 --> 00:06:43:05] avaliou e vai priorizar.
+[00:06:43:22 --> 00:06:45:21] Aí a quarta é uma...
+[00:06:48:10 --> 00:06:50:28] Uma defensora, vamos colocar aqui.
+[00:06:51:01 --> 00:06:52:04] Uma defensora da ideia.
+[00:06:52:10 --> 00:06:54:10] Ela vai pegar a ideia priorizada e vai defender ela.
+[00:06:54:14 --> 00:06:55:29] E a última é uma juíza.
+[00:06:56:05 --> 00:07:00:00] Ela vai pegar essa ideia final e vai avaliar, vai estressar ela, né?
+[00:07:00:01 --> 00:07:01:21] Que a gente fala, fazer um teste de avaliação.
+[00:07:01:25 --> 00:07:04:16] Vamos pegar um modelo mais simples para vocês entenderem.
+[00:07:04:22 --> 00:07:06:29] Muitos designers já conhecem o Double Diamond.
+[00:07:07:21 --> 00:07:09:00] Coloco o Double Diamond aqui.
+[00:07:11:07 --> 00:07:12:19] E aí nós temos várias etapas.
+[00:07:12:20 --> 00:07:15:12] As etapas do Double Diamond são, basicamente,
+[00:07:15:12 --> 00:07:19:07] você tem aqui a expansão de possibilidades,
+[00:07:19:10 --> 00:07:21:27] então aqui você vai expandir, gerar alternativas,
+[00:07:22:01 --> 00:07:24:22] depois você tem uma classificação delas,
+[00:07:25:11 --> 00:07:29:24] mais tarde você tem uma exploração dessa aqui,
+[00:07:29:25 --> 00:07:32:27] uma lapidação dela, por último é a lapidação.
+[00:07:32:28 --> 00:07:34:22] Primeiro você tem uma exploração de possibilidades
+[00:07:34:22 --> 00:07:36:15] em cima dessa escolha, e por último a lapidação.
+[00:07:36:19 --> 00:07:39:14] Se a gente vem aqui no navegador,
+[00:07:39:16 --> 00:07:40:27] deixa eu trazer ele aqui para vocês,
+[00:07:41:15 --> 00:07:42:09] E coloco aqui assim, ó.
+[00:07:42:15 --> 00:07:42:21] Double.
+[00:07:46:07 --> 00:07:49:16] Então a gente tem aqui, descobrir, definir, desenvolver, entregar.
+[00:07:49:18 --> 00:07:51:05] Só para pegar as palavras certinhas.
+[00:07:51:26 --> 00:07:52:28] Então a gente tem descobrir.
+[00:07:56:00 --> 00:07:56:20] Definir.
+[00:07:59:09 --> 00:08:00:10] Desenvolver e entregar.
+[00:08:05:15 --> 00:08:06:09] O que nós fazemos?
+[00:08:06:14 --> 00:08:09:07] Eu posso colocar isso tudo em um único prompt para um IA,
+[00:08:09:08 --> 00:08:11:08] mas eu tenho que tomar cuidado com a janela de contexto.
+[00:08:11:18 --> 00:08:13:28] Se ele não conseguir na janela de contexto, o que eu faço?
+[00:08:14:06 --> 00:08:15:17] Vou subir aqui para a gente.
+[00:08:15:25 --> 00:08:18:13] Eu coloco uma IA para cada etapa dessas.
+[00:08:18:23 --> 00:08:19:26] E conecto elas.
+[00:08:20:07 --> 00:08:20:25] Conecto. Eita.
+[00:08:21:20 --> 00:08:22:21] Conecto os cabos aqui.
+[00:08:22:29 --> 00:08:25:26] Conecto essa com essa, conecto essa com essa, conecto essa com essa.
+[00:08:25:29 --> 00:08:29:26] E você precisa conectar também todas elas em um banco,
+[00:08:29:29 --> 00:08:31:13] que a gente chama de banco vetorial.
+[00:08:36:09 --> 00:08:42:02] que é o banco que guarda essas informações, memoriza elas para IA de um jeito inteligente e otimizado.
+[00:08:42:14 --> 00:08:44:28] Então você precisa desse... Cadê ele aqui?
+[00:08:45:25 --> 00:08:48:00] Precisa de uma ferramenta como um N8N.
+[00:08:48:23 --> 00:08:49:28] Cadê? Eu já tinha fechado.
+[00:08:51:29 --> 00:08:54:19] para conectar várias IAs nele, guardar isso no banco e fazer.
+[00:08:54:22 --> 00:08:57:18] Isso aqui já é mais avançado, não é o foco aqui agora,
+[00:08:57:21 --> 00:08:59:11] a gente está focando na engenharia de prompt mesmo,
+[00:08:59:15 --> 00:09:02:12] mas só para explicar a lógica para vocês, para driblar isso.
+[00:09:02:19 --> 00:09:06:17] E o que o Manos faz? Tanto o Manos, o GPT agora faz também.
+[00:09:07:10 --> 00:09:10:21] Então, isso aqui é um agente que está fazendo exatamente isso para você,
+[00:09:10:25 --> 00:09:13:09] ele está gerenciando, ele faz essa logística toda,
+[00:09:13:13 --> 00:09:15:05] então ele começa uma conversa, depois começa outra,
+[00:09:15:07 --> 00:09:17:16] ele vai abrindo e fechando janelas, abrindo e fechando,
+[00:09:17:19 --> 00:09:20:07] para que ele não gaste a janela de contexto.
+[00:09:20:07 --> 00:09:24:04] texto e ele vai abrindo e fechando essas janelas e armazenando a informação que ele precisa de
+[00:09:24:04 --> 00:09:27:21] maneira otimizada ele vai fazendo isso abrindo fechando abrindo fechando abrindo fechando abrindo
+[00:09:27:21 --> 00:09:32:10] fechando e olha só ele tá em 23 fontes não é só ele que faz isso eu vou mostrar exemplos daqui
+[00:09:32:10 --> 00:09:38:15] a pouco para vocês mais práticos é em outras vias como groc e o perplex ele por exemplo são bons
+[00:09:38:15 --> 00:09:45:04] exemplos a gente trazer aqui mas voltando então é assim que funciona o corte você pode tanto trazer
+[00:09:45:04 --> 00:09:51:20] fazer ele para dentro do prompt, geralmente COT é o que a gente chama do que está dentro do prompt.
+[00:09:52:10 --> 00:09:55:04] Então, tem a explicação aqui, ela vai ficar na descrição para vocês.
+[00:09:55:16 --> 00:09:59:21] Tem, inclusive, a referência, quem que inventou essa técnica, tudo certinho para vocês.
+[00:09:59:27 --> 00:10:02:03] Então, a base do COT é o prompt.
+[00:10:02:14 --> 00:10:07:06] Quando a gente começa a conectar várias IAs, muita gente chama isso de enxame de agentes,
+[00:10:07:11 --> 00:10:12:13] tem gente que chama também de multipersonas, tem como colocar a multipersona dentro do prompt
+[00:10:12:13 --> 00:10:14:27] e tem como colocar a multi-persona dentro de um workflow.
+[00:10:15:16 --> 00:10:21:08] Que é um outro termo que é legal a gente trazer aqui para dentro do nosso vocabulário aqui.
+[00:10:21:09 --> 00:10:22:01] O que é o workflow?
+[00:10:23:22 --> 00:10:25:08] Vou colocar aqui, ó, work.
+[00:10:28:18 --> 00:10:35:02] Workflow, eu vou resumir em cadeia de etapas em automação.
+[00:10:35:06 --> 00:10:36:28] Vamos deixar desse jeito por enquanto.

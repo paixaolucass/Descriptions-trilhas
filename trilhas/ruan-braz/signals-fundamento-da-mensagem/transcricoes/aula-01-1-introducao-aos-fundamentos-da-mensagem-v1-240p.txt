@@ -1,0 +1,961 @@
+# Video: 1._introdução_aos_fundamentos_da_mensagem_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-28 21:02
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:11 --> 00:00:04:01] Começamos então, finalmente, o módulo de mensagem,
+[00:00:04:04 --> 00:00:11:19] onde nós vamos abordar aquele fundamento cujo qual todos os outros são subordinados.
+[00:00:11:28 --> 00:00:15:28] A nossa velha máxima, que eu já repeti aqui várias vezes pra você,
+[00:00:16:13 --> 00:00:20:19] todos os fundamentos do design são subordinados da mensagem.
+[00:00:20:23 --> 00:00:22:27] E agora, finalmente, começamos esse módulo,
+[00:00:23:01 --> 00:00:27:06] tratar esse que eu acredito ser o tópico mais importante no universo do design.
+[00:00:27:06 --> 00:00:32:16] Porque, principalmente falando do design visual, design de marcas e design visual,
+[00:00:33:01 --> 00:00:39:23] a mensagem é a rainha, o núcleo, a essência de todo projeto de design.
+[00:00:40:04 --> 00:00:44:10] Todas as formas, todas as cores, todas as composições que nós criamos
+[00:00:44:10 --> 00:00:49:13] são para conduzir a percepção das pessoas para um lugar, para uma determinada mensagem.
+[00:00:49:25 --> 00:00:53:20] E saber trabalhar bem essa mensagem é o que vai fazer a diferença
+[00:00:53:20 --> 00:00:57:17] entre um projeto profissional e um projeto amador.
+[00:00:58:01 --> 00:01:03:09] Nessa aula aqui de hoje, nós vamos rever alguns dos conceitos muito importantes
+[00:01:03:09 --> 00:01:07:08] que eu já trouxe para vocês em várias outras aulas.
+[00:01:07:18 --> 00:01:11:13] A gente precisa começar esse módulo aqui colocando a casa em ordem.
+[00:01:11:16 --> 00:01:16:17] É muita coisa para a gente falar e eu preciso rever com vocês alguns conceitos,
+[00:01:16:23 --> 00:01:20:21] alguns tópicos que vão ser a base para estudar a mensagem.
+[00:01:20:21 --> 00:01:25:11] Além disso, eu também vou te dar uma introdução para você entender qual é o potencial que
+[00:01:25:11 --> 00:01:30:05] a mensagem tem no mundo em que nós vivemos hoje, ok?
+[00:01:30:17 --> 00:01:37:10] Então lembra disso, a mensagem é o fundamento mais importante e complexo do design.
+[00:01:37:22 --> 00:01:43:23] Para a fraseada Albert Einstein aqui, eu posso deixar a mensagem mais simples, mas
+[00:01:43:23 --> 00:01:45:25] não posso deixá-la simples.
+[00:01:45:25 --> 00:01:53:02] nós vamos falar aqui sobre semiótica, filosofia, a filosofia da comunicação, a filosofia do design,
+[00:01:53:10 --> 00:02:00:13] o potencial que o design tem, arquétipos. E aí quando a gente entra em arquétipo, entra em psicologia,
+[00:02:01:00 --> 00:02:07:11] aí entra lá em Carl Jung, que vai falar da psicanálise, a gente vai entrar no inconsciente
+[00:02:07:11 --> 00:02:15:26] dos seres humanos na forma mais básica nossa de pensar e de agir e entender como que a
+[00:02:15:26 --> 00:02:21:19] mensagem influencia o nosso comportamento, como que o design influencia o nosso comportamento
+[00:02:21:19 --> 00:02:26:22] e consequentemente a importância que o design tem no mundo em que nós vivemos hoje, tá?
+[00:02:27:01 --> 00:02:33:10] Então não negligencie a mensagem, não negligencie esse módulo porque de todos
+[00:02:33:10 --> 00:02:34:10] ele é o mais importante.
+[00:02:34:10 --> 00:02:41:08] Eu inclusive, em um determinado momento, coagitei colocar o módulo de mensagem antes do módulo
+[00:02:41:08 --> 00:02:42:28] de forma, cor e composição.
+[00:02:43:10 --> 00:02:48:13] Mas por se tratar de um módulo bem complexo, vocês vão notar isso aqui, eu achei melhor
+[00:02:50:19 --> 00:02:55:01] ir colocando de pouquinho em pouquinho essas sementes na sua cabeça.
+[00:02:55:05 --> 00:03:00:11] Então, nós falamos do conceito das lentes, nós falamos da teoria de Platão, mundo
+[00:03:00:11 --> 00:03:05:13] mundo real, mundo ideal, aos poucos eu fui plantando essas sementinhas na sua cabeça
+[00:03:05:13 --> 00:03:09:14] para que a gente chegasse nesse momento em que nós estamos aqui, agora.
+[00:03:10:04 --> 00:03:17:00] Falamos de vários tópicos, 4 graus de influência da percepção e hoje eu vou reunir tudo isso
+[00:03:17:00 --> 00:03:22:12] na introdução desse módulo para vocês relembrarem esses conceitos e estarem preparados
+[00:03:22:12 --> 00:03:25:27] para as próximas aulas que virão a seguir, tá bom?
+[00:03:25:27 --> 00:03:31:03] Então, bora lá fazer essa parada, vamos rever alguns conceitos importantes.
+[00:03:31:17 --> 00:03:37:05] Para começar, só repetindo de novo, para não ficar de fora, todos os fundamentos são
+[00:03:37:22 --> 00:03:39:00] subordinados da mensagem.
+[00:03:39:07 --> 00:03:43:29] Essa é a nossa premissa básica, tudo que a gente vai fazer no design é relacionado
+[00:03:43:29 --> 00:03:48:16] com a mensagem, porque nós temos um público, nós temos um meio, nós temos um emissor
+[00:03:48:16 --> 00:03:52:22] e nós temos uma mensagem, nós vamos falar disso aqui hoje também e por isso
+[00:03:52:22 --> 00:03:54:23] é importante deixar isso muito claro.
+[00:03:55:05 --> 00:03:58:25] Lembrar aqui da molécula do design, dos quatro fundamentos básicos.
+[00:03:59:04 --> 00:04:01:22] Nós temos lá os átomos, que são as formas e as cores,
+[00:04:02:21 --> 00:04:06:18] e aí através de formas e cores nós juntamos, formas e cores
+[00:04:06:18 --> 00:04:10:13] para construir composições, e o objetivo dessas composições
+[00:04:10:13 --> 00:04:15:05] é guiar o olhar das pessoas, é transmitir uma determinada mensagem.
+[00:04:15:16 --> 00:04:17:18] Por isso que todos os fundamentos, os três,
+[00:04:17:19 --> 00:04:20:04] forma, cor, composição, som subordinado e mensagem,
+[00:04:20:04 --> 00:04:24:20] Como você que já está aqui nessa altura do campeonato já sabe que tipografia entra
+[00:04:24:20 --> 00:04:30:17] dentro de formas e tem também alguns tratamentos para ela dentro de composição, textura,
+[00:04:30:22 --> 00:04:36:14] pattern, tudo está entre esses três fundamentos que é forma, cor e composição.
+[00:04:36:25 --> 00:04:41:08] A mensagem é relativa a um campo mais abstrato.
+[00:04:41:22 --> 00:04:48:15] Nós temos a composição, as formas e as cores para poder tornar material a mensagem.
+[00:04:48:15 --> 00:04:52:08] Mas a mensagem, ela vive no campo das ideias.
+[00:04:52:16 --> 00:04:58:28] E é exatamente por isso que é um conceito complexo, com muitas possibilidades de mergulhos,
+[00:04:59:00 --> 00:05:03:28] muitas possibilidades de se aprofundar, como vocês vão ver aqui, tá?
+[00:05:04:02 --> 00:05:07:02] Então lembrem disso, só para deixar registrado aqui.
+[00:05:07:16 --> 00:05:11:22] Outra coisa importante para a gente registrar é sobre a nossa visão.
+[00:05:12:13 --> 00:05:16:20] Nós temos cinco sentidos, né, disso vocês já sabem, tem até aquela imagem clássica
+[00:05:16:20 --> 00:05:21:10] que eu já apresentei para vocês várias vezes, então né, tem o tato, tem a audição,
+[00:05:21:21 --> 00:05:23:29] tem a visão, o olfato e o paladar.
+[00:05:24:16 --> 00:05:30:19] Mas de todos esses, quando nós falamos da nossa percepção, a visão é o nosso.
+[00:05:32:07 --> 00:05:40:26] Nós temos cerca de 11 milhões de receptores sensoriais, e desses 11 milhões, 10 milhões
+[00:05:40:26 --> 00:05:42:23] são dedicados à visão.
+[00:05:43:20 --> 00:05:44:11] Ou seja...
+[00:05:45:15 --> 00:05:48:20] 90%, 95% quase.
+[00:05:49:29 --> 00:05:54:09] dos nossos receptores sensoriais são dedicados à visão.
+[00:05:54:23 --> 00:05:57:18] A gente já falou bastante sobre isso, é uma questão de evolução,
+[00:05:58:02 --> 00:06:03:19] o nosso sentido mais desenvolvido e, inclusive, é o sentido que nós mais queremos ampliar,
+[00:06:03:20 --> 00:06:10:26] né? Desde a lupa, microscópio, telescópio, lente de contato, óculos,
+[00:06:12:01 --> 00:06:16:10] tela, né? Várias telas, tem os livros, depois as telas,
+[00:06:16:10 --> 00:06:19:08] depois os computadores, celulares e por aí vai.
+[00:06:19:29 --> 00:06:23:29] Então, a visão é o nosso sentido mais explorado,
+[00:06:24:05 --> 00:06:26:02] é o nosso sentido mais utilizado
+[00:06:26:02 --> 00:06:27:28] quando nós falamos de percepção.
+[00:06:28:10 --> 00:06:29:19] Nós já vimos que
+[00:06:29:19 --> 00:06:33:01] nós nem vamos entrar aqui no campo de qual é o sentido mais importante
+[00:06:33:01 --> 00:06:35:02] para a sobrevivência, porque se fosse
+[00:06:35:02 --> 00:06:37:03] no sentido de sobrevivência o tato ganha.
+[00:06:37:11 --> 00:06:39:17] Porque o nosso tato é o que nos mantém em pé,
+[00:06:39:21 --> 00:06:41:21] o que nos mantém firmes na gravidade.
+[00:06:42:02 --> 00:06:43:19] E também é o que nos faz sentir dor,
+[00:06:43:22 --> 00:06:46:00] é o que nos faz sentir que tem alguma coisa errada com o nosso corpo
+[00:06:46:00 --> 00:06:50:19] e por aí vai. O tato em relação à sobrevivência é o mais importante, mas quando nós falamos
+[00:06:50:19 --> 00:06:57:29] de percepção, a forma como nós interagimos com o mundo, a visão tá no top 1 e o nosso
+[00:06:57:29 --> 00:07:04:12] próprio corpo prioriza ela. Então a mensagem que nós vamos trabalhar aqui é principalmente
+[00:07:04:12 --> 00:07:11:09] a mensagem visual. É claro que nós vamos falar com palavras, porque nós pensamos
+[00:07:11:28 --> 00:07:15:29] com signos, vocês vão ver isso nas aulas de semiótica, mas nós pensamos com signos
+[00:07:15:29 --> 00:07:22:16] nós pensamos com palavras, nós pensamos com imagens, e tudo isso serve de ferramenta,
+[00:07:22:28 --> 00:07:27:19] de matéria-prima, na verdade, para a nossa comunicação, então eu agora estou falando
+[00:07:27:19 --> 00:07:32:14] com vocês, né, a nossa audição é o segundo sentido da percepção mais utilizado.
+[00:07:32:21 --> 00:07:37:02] Audição e visão disparam os dois sentidos mais utilizados para percebermos o mundo,
+[00:07:37:02 --> 00:07:39:20] Mas aqui nós vamos falar principalmente...
+[00:07:40:16 --> 00:07:46:28] visão, tá bom? Outra coisa, né, por falar em percepção, através dos cinco sentidos
+[00:07:46:28 --> 00:07:51:04] nós construímos a nossa visão de mundo, que influencia a maneira como nós reagimos
+[00:07:51:04 --> 00:07:59:19] a tudo, e isso nos leva aos quatro graus de influência da percepção. Grau fisiológico,
+[00:07:59:25 --> 00:08:05:12] grau ambiental, grau cultural e grau individual. Isso aqui é muito importante quando nós
+[00:08:05:12 --> 00:08:11:16] falar de mensagem? Porque, se nós temos de um lado o receptor, nós precisamos conhecer
+[00:08:11:16 --> 00:08:17:05] esse receptor. Quais são as formas dele receber essa mensagem? Através dos cinco sentidos?
+[00:08:17:17 --> 00:08:23:25] Quais são as formas da mensagem influenciar a visão de mundo de uma pessoa através
+[00:08:23:25 --> 00:08:31:03] desses quatro graus aqui? Lembrando que quanto mais pro topo, mais pro pico nós vamos,
+[00:08:31:03 --> 00:08:37:05] Mais individual precisa ser a mensagem e mais difícil é termos precisão.
+[00:08:37:14 --> 00:08:43:10] Na verdade, você ganha mais precisão com o indivíduo, mas você perde precisão com
+[00:08:43:10 --> 00:08:47:08] o grupo, com o público, que é uma quantidade maior de pessoas.
+[00:08:47:20 --> 00:08:52:28] No grau fisiológico, só pra gente relembrar aqui, nós falamos com a grande maioria
+[00:08:52:28 --> 00:08:57:28] das pessoas, porque aqui no grau fisiológico tá ligado com a forma como o nosso olho
+[00:08:57:28 --> 00:09:05:06] funciona, a forma como o nosso cérebro funciona, principalmente esses dois, e principalmente
+[00:09:05:06 --> 00:09:10:13] o cérebro, nós já estudamos bastante sobre ele até aqui e vamos continuar estudando muito
+[00:09:10:13 --> 00:09:15:03] sobre ele, mas no grau fisiológico então está ligado com isso, lembrando que existem
+[00:09:15:03 --> 00:09:20:05] sim as minorias e os grupos que são diferentes, por exemplo os daltônicos que têm uma
+[00:09:20:05 --> 00:09:25:01] fisiologia diferente e por isso precisam ser levados em consideração na hora de
+[00:09:25:01 --> 00:09:25:29] traduzir uma mensagem.
+[00:09:25:29 --> 00:09:36:07] No grau ambiental, nós já entramos aqui, claro, ainda está relacionado com o lado biológico nosso, do ser humano,
+[00:09:36:21 --> 00:09:43:20] mas aqui nós queremos falar sobre a influência que o ambiente faz na nossa percepção.
+[00:09:44:11 --> 00:09:49:05] Então, isso aqui está muito ligado com as formas primárias.
+[00:09:49:05 --> 00:09:54:19] Quando nós falamos de formas arredondadas que passam uma sensação de...
+[00:09:55:05 --> 00:10:01:27] Não passam uma sensação de perigo, enquanto formas pontudas passam uma sensação de perigo.
+[00:10:02:14 --> 00:10:06:13] Ou então, como determinadas cores nos fazem sentir bem,
+[00:10:06:16 --> 00:10:09:18] enquanto outras cores nos fazem sentir mal
+[00:10:09:18 --> 00:10:13:13] por causa das relações que nós fazemos com o ambiente.
+[00:10:13:20 --> 00:10:16:07] As relações que nós fazemos ao longo da nossa vida.
+[00:10:16:07 --> 00:10:22:26] Isso daqui também, essas relações ambientais, elas pegam um grande grupo de pessoas e vão
+[00:10:22:26 --> 00:10:27:22] influenciar a percepção, por isso devem ser levados em conta na hora de traduzirmos
+[00:10:27:22 --> 00:10:28:19] uma mensagem.
+[00:10:29:25 --> 00:10:33:20] Nós já estudamos bastante isso lá no módulo de fundamentos das cores,
+[00:10:34:02 --> 00:10:37:08] no módulo de fundamentos das formas, que nós falamos do diagrama das formas,
+[00:10:37:11 --> 00:10:41:10] os quatro quadrantes, abstrato, concreto, natural e artificial,
+[00:10:41:23 --> 00:10:44:06] e essa influência está muito ligada com o grau ambiental.
+[00:10:44:17 --> 00:10:51:25] No grau cultural e no grau individual, a coisa começa a ficar bem profunda,
+[00:10:52:04 --> 00:10:57:13] e mais do que profunda, começa a se tornar mais difícil conversar,
+[00:10:57:26 --> 00:10:59:13] criar uma mensagem genérica.
+[00:10:59:13 --> 00:11:01:28] a mensagem ganha precisão, ela ganha força,
+[00:11:02:15 --> 00:11:05:08] mas ela vai cada vez mais se tornando nichada.
+[00:11:06:01 --> 00:11:08:00] E se você vai falar com o indivíduo,
+[00:11:08:03 --> 00:11:10:04] ligada com a história desse indivíduo,
+[00:11:10:07 --> 00:11:11:25] com os valores desse indivíduo.
+[00:11:12:07 --> 00:11:15:11] No grau cultural, que é um que nós ainda estudamos no design,
+[00:11:15:26 --> 00:11:20:19] o individual, geralmente, outros profissionais vão cuidar do individual,
+[00:11:20:22 --> 00:11:23:28] como, por exemplo, psicólogos ou psiquiatras,
+[00:11:23:28 --> 00:11:27:04] eles prestam muita atenção nesse grau da percepção
+[00:11:27:04 --> 00:11:28:28] porque eles tratam o indivíduo,
+[00:11:28:28 --> 00:11:33:05] eles fazem consultas com o indivíduo para ajudar esse indivíduo. Nós designers queremos
+[00:11:33:05 --> 00:11:36:01] conversar com o público, então nós vamos até aqui geralmente.
+[00:11:37:06 --> 00:11:39:00] até o nível cultural.
+[00:11:39:13 --> 00:11:40:24] E aqui no nível cultural,
+[00:11:40:28 --> 00:11:45:09] entra num nível simbólico dos signos, que vocês vão ver isso,
+[00:11:45:21 --> 00:11:52:29] entra num nível também do inconsciente e do consciente coletivo,
+[00:11:53:22 --> 00:11:56:00] que nós vamos falar disso também, dos arquétipos.
+[00:11:57:05 --> 00:12:02:05] E aqui a gente tem uma série de informações muito interessantes também que nós vamos abordar
+[00:12:02:05 --> 00:12:05:01] ao longo das próximas aulas, tá bom?
+[00:12:05:05 --> 00:12:09:03] Então, relembrando os quatro graus de inflexão da percepção, isso aqui é muito importante
+[00:12:09:03 --> 00:12:14:10] para entender a mensagem, porque quando nós vamos estudar o público, o receptor, a pessoa
+[00:12:14:10 --> 00:12:19:21] que recebe a mensagem, nós precisamos ter muito claro na nossa cabeça que esses
+[00:12:19:21 --> 00:12:26:29] são os três níveis, os três graus mais importantes que precisam ser analisados no
+[00:12:26:29 --> 00:12:29:22] nível do design, para trabalhar os projetos de design.
+[00:12:31:04 --> 00:12:35:14] Dessa maneira, então, nós construímos um mundo das ideias.
+[00:12:35:18 --> 00:12:38:17] Essa frase clássica que eu já trouxe para vocês várias vezes também,
+[00:12:38:19 --> 00:12:43:05] cada ser humano habita dois mundos, um em que vive e outro em que sonha.
+[00:12:43:20 --> 00:12:49:05] O mundo real e o mundo ideal já são uma figurinha carimbada aqui nas nossas aulas.
+[00:12:49:15 --> 00:12:54:09] Vocês já me viram falar bastante sobre isso, mas eu não poderia, de forma alguma,
+[00:12:54:19 --> 00:13:00:24] começar um módulo de mensagem sem trazer essa filosofia que já é milenar.
+[00:13:00:24 --> 00:13:06:15] A gente traz ela desde a época de Platão e ela vai estar muito, muito, muito presente
+[00:13:06:15 --> 00:13:07:28] aqui nesse módulo.
+[00:13:08:04 --> 00:13:12:21] Então, só para a gente relembrar, né, existiu um mundo real, que é o mundo físico, o mundo
+[00:13:12:21 --> 00:13:13:18] das coisas.
+[00:13:14:08 --> 00:13:19:07] Nós nascemos nesse mundo e começamos a explorar e descobrir.
+[00:13:19:29 --> 00:13:23:09] Guardem essa palavra aqui, hoje nós ainda vamos falar bastante sobre ela.
+[00:13:24:26 --> 00:13:27:03] Nós começamos a codificar o mundo.
+[00:13:27:22 --> 00:13:30:08] Essa codificação, o que é codificar?
+[00:13:31:05 --> 00:13:35:22] Construir signos, que é outra palavra que durante esse módulo vocês vão ouvir bastante.
+[00:13:36:22 --> 00:13:40:02] Esse aqui era para ser um N, mas dá para vocês entenderem.
+[00:13:40:28 --> 00:13:43:13] Então, nós codificamos, começamos a criar signos.
+[00:13:43:25 --> 00:13:46:20] E esses signos foram construindo...
+[00:13:47:25 --> 00:13:54:10] uma coletividade de informação. Hoje nós vamos falar exatamente sobre isso aqui, vamos
+[00:13:54:10 --> 00:14:02:04] reforçar esse conceito. E a partir disso nós criamos um mundo ideal. Segundo Platão, Platão
+[00:14:02:04 --> 00:14:09:28] falava que o mundo real, o mundo das coisas, era o mundo falso. É contratuitivo, né?
+[00:14:09:28 --> 00:14:15:18] Mas não sei se vocês lembram. O mundo real é o mundo falso para Platão. E o mundo
+[00:14:15:18 --> 00:14:22:29] perfeito. Por quê? Porque pela Platão existia uma ideia perfeita de todas as coisas. Então,
+[00:14:23:11 --> 00:14:28:28] no mundo, existiam várias cópias de cadeiras. Você poderia ver várias cadeiras diferentes,
+[00:14:29:06 --> 00:14:35:04] mas nenhuma cadeira era a cadeira perfeita, a cadeira real, porque a cadeira real é
+[00:14:35:04 --> 00:14:41:07] a ideia de cadeira. Essa cadeira é perfeita, essa cadeira ninguém consegue enganar. E
+[00:14:41:07 --> 00:14:48:10] Essa cadeira pode ser descoberta através do exercício da filosofia, do conhecimento, do pensamento.
+[00:14:48:16 --> 00:14:51:13] Enquanto isso, o mundo real nos engana.
+[00:14:51:17 --> 00:14:54:26] Ele está ali para poder nos confundir com várias cópias.
+[00:14:55:02 --> 00:14:56:17] Essa era a ideia de Platão.
+[00:14:56:23 --> 00:15:03:25] Hoje a gente consegue, e é até muito legal essa filosofia, eu gosto dela, porque faz muito sentido isso.
+[00:15:03:26 --> 00:15:08:14] A gente entra em conceitos filosóficos mais profundos, como a matrix, por exemplo.
+[00:15:08:14 --> 00:15:15:06] Mas, aqui o grande lance é que nós, sim, vivemos em um mundo material, um mundo da
+[00:15:15:06 --> 00:15:19:18] matéria, vou colocar só um Mzinho aqui pra vocês, mas nós criamos, né, o mundo
+[00:15:19:18 --> 00:15:21:24] mais humano é o mundo imaterial.
+[00:15:23:10 --> 00:15:23:27] material.
+[00:15:25:01 --> 00:15:28:23] que é o mundo que não funciona como a matéria, ele é volátil.
+[00:15:29:11 --> 00:15:31:26] E hoje nós sabemos que, na verdade, esse mundo é imperfeito
+[00:15:31:26 --> 00:15:35:22] porque ele é uma ilusão que nós seres humanos criamos.
+[00:15:36:07 --> 00:15:40:02] Porém, esse mundo imperfeito tem se tornado cada vez...
+[00:15:40:02 --> 00:15:43:13] O movimento que tem cada vez mais acontecido é esse movimento aqui, galera.
+[00:15:45:10 --> 00:15:50:04] o mundo real e o mundo ideal estão cada vez mais próximos um do outro.
+[00:15:50:27 --> 00:15:56:23] Até que pode chegar o momento da humanidade em que vai ser difícil distinguir o que é real
+[00:15:56:23 --> 00:15:59:06] e o que é o ideal.
+[00:16:00:03 --> 00:16:05:10] Nós vamos falar sobre isso aqui hoje também, mas é um grande movimento que está acontecendo.
+[00:16:05:22 --> 00:16:11:14] As coisas abstratas, a imaterialidade, ela está engada cada vez mais na materialidade
+[00:16:11:14 --> 00:16:14:04] e as duas coisas estão cada vez mais juntas.
+[00:16:15:07 --> 00:16:17:25] Mas isso aí a gente vai falar pra frente.
+[00:16:18:01 --> 00:16:21:15] O que a gente precisa lembrar agora é que existe o mundo real e o mundo ideal.
+[00:16:22:00 --> 00:16:26:10] E o mais legal é que nós não só fizemos esse movimento aqui de construir um outro
+[00:16:26:10 --> 00:16:30:28] mundo das ideias, onde nós habitamos, como esse mundo das ideias começou a influenciar
+[00:16:30:28 --> 00:16:31:25] o nosso mundo real.
+[00:16:32:11 --> 00:16:36:17] Então nossas ideias, nossas invenções, elas começaram a fazer parte da realidade
+[00:16:36:17 --> 00:16:40:22] e influenciar esse mundo que a gente vive pro bem e pro mal.
+[00:16:41:22 --> 00:16:48:25] Tantas coisas boas, nós temos também de coisas ruins, infelizmente, falando da destruição
+[00:16:48:25 --> 00:16:55:20] do nosso planeta, falando também eticamente de outros conceitos, mas enfim, o mundo ideal,
+[00:16:56:04 --> 00:17:01:22] a nossa parte mais abstrata, ela começa a influenciar essa realidade, porque nós
+[00:17:01:22 --> 00:17:07:26] imaginamos, e só de imaginar isso passa a existir, o conceito de existir é mais
+[00:17:07:26 --> 00:17:12:24] profundo, não quer dizer que existe, que é material, tem coisas que existem e não são
+[00:17:12:24 --> 00:17:19:18] materiais. E só de imaginar, passa a existir. Quando uma coisa passa a existir, passa a
+[00:17:19:18 --> 00:17:25:06] existir a possibilidade de ela ser projetada, se você tem um projeto existe a possibilidade
+[00:17:25:06 --> 00:17:31:10] de ela ser materializada. Por exemplo, Ruan, viagem no tempo existe? Existe, o conceito
+[00:17:31:10 --> 00:17:37:12] existe. Agora, viagem no tempo já é materializada, já é uma coisa real e aplicável
+[00:17:37:12 --> 00:17:41:06] no mundo do que a gente vive hoje? Não, aí a gente tá falando de outra coisa, tá?
+[00:17:41:14 --> 00:17:46:12] Mas existe. É um conceito, inclusive, que nós conseguimos discutir sobre ele. Por
+[00:17:46:12 --> 00:17:50:18] isso ele passa a existir. Ele não passa a fazer parte do que nós já vimos em outra
+[00:17:50:18 --> 00:17:56:21] aula também, do desconhecido, que o Kant chamava lá da coisa em si.
+[00:17:58:08 --> 00:18:01:23] Coisa em si é aquilo que no nosso... na nossa...
+[00:18:02:27 --> 00:18:07:06] no nosso conhecimento ainda é desconhecido. Coisa!
+[00:18:09:03 --> 00:18:14:03] A partir do momento que você concebe isso, isso passa a existir e deixa de ser uma coisa em si.
+[00:18:14:23 --> 00:18:20:03] E aí passa a existir a possibilidade de isso se tornar uma realidade em algum futuro, tá?
+[00:18:20:27 --> 00:18:24:20] Só pra poder fazer um parênteses aqui, mas é porque eu fico muito empolgado mesmo.
+[00:18:25:16 --> 00:18:26:17] Para pra pensar na vida.
+[00:18:27:02 --> 00:18:29:17] A vida que nós vemos como um milagre.
+[00:18:29:25 --> 00:18:32:19] Eu vivo de energia, você vive de energia.
+[00:18:32:29 --> 00:18:35:06] Seu coração tá batendo aí sem você fazer nada.
+[00:18:35:29 --> 00:18:41:18] Isso já não é suficiente para você pensar que tudo nesse universo é possível, qualquer
+[00:18:41:18 --> 00:18:48:18] coisa é possível, porque se a vida já provou que ela é possível, nada é impossível.
+[00:18:48:24 --> 00:18:52:23] Dá para poder refletir bastante sobre isso, mas eu só quero plantar essa ideia na sua
+[00:18:52:23 --> 00:18:53:17] cabeça, tá bom?
+[00:18:53:27 --> 00:18:58:26] Lembra sempre também, nada é impossível quando você pode mudar a equação.
+[00:18:59:15 --> 00:19:04:06] Então se a gente pode mudar o como, o resultado nunca será impossível, a gente
+[00:19:04:06 --> 00:19:09:24] você sempre poderá ir além, tá? É tudo uma questão de conseguir alcançar isso ou não,
+[00:19:10:02 --> 00:19:15:18] mas não mais uma questão de ser possível ou não, entende? Mas isso aí a gente deixa também para
+[00:19:15:18 --> 00:19:20:03] outro momento, é só porque eu fico empolgado, eu gosto de plantar essas sementinhas na cabeça
+[00:19:20:03 --> 00:19:24:06] de vocês. Então, lembrem desse conceito de real e ideal, porque nós vamos utilizar muito
+[00:19:24:06 --> 00:19:28:23] esse conceito aqui hoje. Teve uma aula, se eu não me engano, foi na aula que nós falamos da
+[00:19:28:23 --> 00:19:29:12] Planolândia.
+[00:19:31:21 --> 00:19:37:23] que eu apresentei aqui o conceito da toca do coelho. A toca do coelho, do mundo de Alice,
+[00:19:38:00 --> 00:19:40:26] que você sai de um mundo real, entra numa toca do coelho...
+[00:19:41:22 --> 00:19:46:25] e cai num mundo ideal, cai num mundo mágico das ideias.
+[00:19:47:28 --> 00:19:54:01] Esse conceito aqui, por isso que faz Alice ser uma história tão emblemática, assim
+[00:19:54:01 --> 00:19:59:26] como o Matrix também, é uma história emblemática, e a própria história do Matrix bebe água
+[00:19:59:26 --> 00:20:05:21] na história da Alice, tanto que esse conceito da Toca do Coelho está inserida lá na
+[00:20:05:21 --> 00:20:06:16] Matrix também.
+[00:20:07:06 --> 00:20:12:18] E eu inseri esse conceito aqui para vocês, a Toca do Coelho existe, a real é que
+[00:20:12:18 --> 00:20:20:05] ela existe. E nós já passamos por ela várias vezes, no movimento do mundo real pro mundo
+[00:20:20:05 --> 00:20:25:29] ideal. Lembra que eu falei pra vocês guardarem a palavra codificação? Sempre que nós codificamos
+[00:20:25:29 --> 00:20:32:06] uma coisa, nós estamos passando pela toca do coelho, nós estamos saindo do mundo real
+[00:20:32:06 --> 00:20:40:05] e entrando no mundo ideal. É mais um conceito registrado nessa rede de ideias que nós
+[00:20:40:12 --> 00:20:47:08] hoje. E talvez você tá pensando assim, uã, mas se eu morrer, por exemplo? É, se eu morrer, eu vou...
+[00:20:48:09 --> 00:20:51:14] Eu vou levar comigo todo o meu conhecimento, certo?
+[00:20:51:24 --> 00:20:52:10] Depende.
+[00:20:52:14 --> 00:20:56:10] Depende se você fez o upload desse conteúdo na rede,
+[00:20:56:17 --> 00:20:59:11] se é que eu posso falar assim, se você subiu esse conteúdo para a rede
+[00:20:59:11 --> 00:21:01:01] e se ele está disponível para todo mundo.
+[00:21:01:06 --> 00:21:03:09] Mas eu quero que você pense comigo o seguinte, tá?
+[00:21:03:17 --> 00:21:04:15] Pensa só isso.
+[00:21:05:01 --> 00:21:07:22] Você chegou nesse mundo e tudo já estava acontecendo.
+[00:21:08:07 --> 00:21:12:03] Já tinha um alfabeto construído, já tinha uma longa história percorrida,
+[00:21:12:10 --> 00:21:15:15] já existiam várias matérias para você estudar na sua escola.
+[00:21:16:08 --> 00:21:23:16] Tudo isso faz parte do mundo ideal. Já existiam números. Você já parou pra pensar que você não
+[00:21:23:16 --> 00:21:30:11] vai ver os números nascerem numa árvore. Você não vê um número 2 nascendo igual uma fruta numa
+[00:21:30:11 --> 00:21:37:05] árvore. Isso foi uma criação humana de milhares de anos atrás, mas que perpetua até hoje. Isso
+[00:21:37:05 --> 00:21:41:08] faz parte da nossa rede. Quando eu falo pra vocês que existe um mundo ideal, às vezes vocês
+[00:21:41:08 --> 00:21:45:15] Eu penso assim, nossa, é como se todo o meu pensamento me conectasse com o mundo ideal,
+[00:21:45:27 --> 00:21:46:05] verdade?
+[00:21:46:11 --> 00:21:46:27] É isso mesmo?
+[00:21:47:16 --> 00:21:51:23] Mas, quando eu morro e paro de pensar, o mundo ideal para de existir, não é?
+[00:21:52:04 --> 00:21:53:05] E a verdade é que não.
+[00:21:53:13 --> 00:21:55:19] Ele continua existindo, porque ele é coletivo.
+[00:21:55:26 --> 00:21:56:15] Ele é uma rede.
+[00:21:57:17 --> 00:22:02:23] Então, lembra disso aqui, eu fiz isso aqui para representar para vocês, a toca do coelho
+[00:22:02:23 --> 00:22:08:21] vai para o mundo ideal, mundo de Alice, e a codificação é exatamente esse movimento.
+[00:22:09:02 --> 00:22:13:16] Nós entramos na matrix quando nós codificamos o nosso mundo.
+[00:22:14:08 --> 00:22:19:06] E inclusive a palavra matrix, eu não sei se vocês já pararam para pensar nela, né?
+[00:22:19:19 --> 00:22:21:15] Isso aqui vem lá de Platão mesmo, galera.
+[00:22:21:25 --> 00:22:23:21] A palavra matrix significa o quê?
+[00:22:24:06 --> 00:22:25:06] Matriz, certo?
+[00:22:25:19 --> 00:22:26:22] Meio óbvio para todo mundo.
+[00:22:26:22 --> 00:22:38:01] E o que é uma matriz? Uma matriz é um molde que você utiliza para fazer várias cópias, tá?
+[00:22:38:22 --> 00:22:42:03] E é o que Platão falava lá, o mundo ideal é o mundo perfeito, é a matriz.
+[00:22:44:02 --> 00:22:46:01] E o mundo real são as cópias.
+[00:22:47:15 --> 00:22:51:20] Só que, como eu disse pra vocês, a graça toda tá justamente nisso.
+[00:22:51:27 --> 00:22:56:22] Às vezes a gente vive tanto nesse mundo da matriz aqui porque ele é ilusório, ele nos
+[00:22:56:22 --> 00:23:02:21] engana e a verdadeira realidade, que nós muitas vezes julgamos como cópia, é na verdade
+[00:23:02:21 --> 00:23:03:18] a matriz.
+[00:23:03:28 --> 00:23:05:15] Porque a matriz vem da realidade, né?
+[00:23:05:20 --> 00:23:06:19] Hoje a gente sabe disso.
+[00:23:07:01 --> 00:23:08:07] A matriz é o mundo real.
+[00:23:09:20 --> 00:23:12:12] Do mundo real, nós codificamos tudo e criamos o mundo ideal.
+[00:23:12:16 --> 00:23:14:24] O mundo ideal é uma cópia do mundo real.
+[00:23:15:10 --> 00:23:16:27] Mas é muito massa pensar sobre isso.
+[00:23:17:04 --> 00:23:19:22] Então, só para relembrar esse conceito aqui com vocês também.
+[00:23:20:22 --> 00:23:22:19] E aí, a gente entra no conceito básico.
+[00:23:22:25 --> 00:23:25:24] Isso aqui é a primeira vez que eu vi esse termo, o mundo codificado.
+[00:23:26:03 --> 00:23:29:23] Foi no livro do Wilain Flusser, que se chama O Mundo Codificado.
+[00:23:30:14 --> 00:23:32:28] E tem uma frase do Wilain Flusser que eu gosto muito
+[00:23:32:28 --> 00:23:35:14] e representa para a gente esse movimento de codificação.
+[00:23:35:14 --> 00:23:43:17] Ele define o ser humano como um animal que encontrou truques para armazenar a informação adquirida.
+[00:23:44:05 --> 00:23:47:00] Nós viemos fazendo isso ao longo de milhares de anos.
+[00:23:47:10 --> 00:23:49:28] O que fez o ser humano evoluir tanto?
+[00:23:50:24 --> 00:23:57:26] A nossa capacidade de ter armazenado a informação, ter passado essa informação de geração em geração, e evoluir.
+[00:23:58:07 --> 00:24:04:25] Então, a próxima geração sempre chega com uma possibilidade de evolução maior do que a anterior,
+[00:24:04:25 --> 00:24:08:23] porque o anterior deixa um legado.
+[00:24:09:10 --> 00:24:11:28] E esse legado é muito importante,
+[00:24:12:26 --> 00:24:16:08] porque a partir do legado, isso permite com que a nova geração
+[00:24:16:08 --> 00:24:19:25] não cometa todos os mesmos erros que a anterior cometeu.
+[00:24:20:04 --> 00:24:23:02] Infelizmente, existem alguns erros que parecem que sobrevivem ao tempo
+[00:24:23:02 --> 00:24:27:08] e nós continuamos cometendo esses erros de geração em geração.
+[00:24:27:12 --> 00:24:30:02] São os erros capitais que a gente sempre comete.
+[00:24:30:21 --> 00:24:34:22] Mas existem alguns outros que já foram erradicados,
+[00:24:34:22 --> 00:24:41:19] Algumas coisas, por exemplo, o alfabetismo e o próprio alfabeto, há poucas décadas,
+[00:24:42:05 --> 00:24:45:03] a grande maioria das pessoas não eram alfabetizadas.
+[00:24:45:06 --> 00:24:47:05] Hoje essa realidade é totalmente diferente.
+[00:24:47:16 --> 00:24:53:03] A nossa geração evoluiu nesse quesito em relação às gerações anteriores, de algumas
+[00:24:53:03 --> 00:24:54:11] décadas atrás.
+[00:24:54:24 --> 00:25:01:28] Olha como que esse legado simples da alfabetização influencia tanto o mundo que nós dizemos
+[00:25:01:28 --> 00:25:02:08] hoje.
+[00:25:02:08 --> 00:25:06:16] Em nenhum outro momento da história nós tivemos tanta informação acumulada, né?
+[00:25:06:21 --> 00:25:10:23] E como vocês vão ver aqui nessa aula, a nossa missão é organizar essa informação.
+[00:25:11:21 --> 00:25:18:16] Porém, nesse mundo codificado, existiu um histórico, existiu uma certa linearidade,
+[00:25:18:18 --> 00:25:24:19] se é que eu posso falar assim, de fatos que foram legados que nós carregamos.
+[00:25:24:26 --> 00:25:29:23] Então, quando o Wilhelm Flusser fala que é um animal que conseguiu encontrar
+[00:25:30:13 --> 00:25:36:05] truques para armazenar informação é uma frase boba, né? E o vilain flucen... perdão,
+[00:25:36:08 --> 00:25:42:20] vou trocar, não é uma frase boba, é uma frase simples, né? Parece que ela foi dita
+[00:25:42:20 --> 00:25:46:19] com tanta simplicidade que não parece nada demais. Mas olha só que interessante,
+[00:25:47:13 --> 00:25:52:07] um animal encontrou truques para armazenar informação.
+[00:25:53:26 --> 00:25:58:18] O que o Wilhelm Flusser está falando aqui, do jeito mais simples possível, é dos signos,
+[00:26:00:05 --> 00:26:06:17] sinais, símbolos, sons. Signos são sons ou imagens, tanto faz, mas a gente traduz
+[00:26:06:17 --> 00:26:11:05] isso como signos, vocês vão entender o que são signos mais para frente, porém,
+[00:26:11:13 --> 00:26:16:20] nós encontramos uma forma de construir esses signos. Isso, de fato, é o mundo das ideias.
+[00:26:17:00 --> 00:26:22:18] E quando nós olhamos para a história, esses signos, eles foram sendo construídos
+[00:26:22:18 --> 00:26:28:00] de diversas formas. Então, por exemplo, quando nós vemos essa mão aí na caverna, né?
+[00:26:28:16 --> 00:26:33:19] Milhares, milhares, milhares de anos. Na história da escrita, eu conto essa história.
+[00:26:33:22 --> 00:26:38:18] Se você não assistiu, vai lá e assiste. É uma aula muito boa, uma das minhas favoritas até hoje.
+[00:26:39:20 --> 00:26:44:14] E lá eu conto um pouco dessa história, você vai relembrar se você assistir lá de novo?
+[00:26:46:02 --> 00:26:52:01] foi uma construção, uma ideia foi gerando outra ideia, foi gerando outra ideia, e cada vez um legado...
+[00:26:53:03 --> 00:26:56:16] Uma geração deixava um legado maior para a próxima.
+[00:26:57:27 --> 00:27:01:05] Hoje, o nível de conhecimento que um ser humano médio tem
+[00:27:01:05 --> 00:27:05:10] é muito maior do que o nível de conhecimento que um ser humano médio tinha
+[00:27:06:02 --> 00:27:07:23] há 10 mil anos atrás,
+[00:27:08:11 --> 00:27:09:22] há 12 mil anos atrás.
+[00:27:10:13 --> 00:27:11:28] E olha só como isso foi evoluindo.
+[00:27:12:04 --> 00:27:14:08] São vários tipos de signos diferentes.
+[00:27:14:20 --> 00:27:16:00] Então, nós temos essa imagem de uma mão.
+[00:27:16:05 --> 00:27:17:27] Parece que essa pessoa está querendo dizer,
+[00:27:18:14 --> 00:27:20:09] eu estive aqui um dia,
+[00:27:20:18 --> 00:27:22:03] alguém esteve ali.
+[00:27:22:12 --> 00:27:24:01] Alguém pintou a própria mão...
+[00:27:25:14 --> 00:27:33:04] apertou a mão na parede, milhares de anos atrás. Isso é uma mensagem. Uma mensagem simples
+[00:27:33:04 --> 00:27:39:12] e clara, mas não deixa de ser uma mensagem. A mesma coisa com o Homem Leão, que hoje
+[00:27:39:12 --> 00:27:48:08] é a estatueta mais antiga conhecida. Um dia alguém criou. E pra mim, essa estatueta
+[00:27:48:08 --> 00:27:57:08] E ela é incrível, porque ela não é uma simples representação da realidade, mas ela tem um toque.
+[00:27:58:10 --> 00:28:04:27] dessa característica humana de imaginar coisas, de juntar duas coisas aparentemente desconectadas
+[00:28:04:27 --> 00:28:11:20] e criar algo novo. Isso também é um signo, isso também é uma mensagem. Tem um storytelling
+[00:28:11:20 --> 00:28:17:09] aí. Ou então os tokens dos sumérios, que nós vimos também lá na aula da escrita.
+[00:28:17:09 --> 00:28:19:20] Os tokens dos sumérios...
+[00:28:20:21 --> 00:28:22:16] Eram um...
+[00:28:22:16 --> 00:28:25:28] Eu não vou chamar aqui que era um sistema de proto escrita, mas
+[00:28:25:28 --> 00:28:27:16] ele originou a escrita.
+[00:28:27:19 --> 00:28:31:01] Foram esses tokens aí que originaram a escrita ocidental.
+[00:28:31:05 --> 00:28:32:16] Lá na história você vê isso.
+[00:28:33:06 --> 00:28:34:01] Existiam, né?
+[00:28:34:01 --> 00:28:36:06] Claro, outros símbolos em outras regiões, mas
+[00:28:36:06 --> 00:28:37:27] esses tokens foram muito importantes.
+[00:28:38:12 --> 00:28:40:19] Até para a economia local, para o comércio.
+[00:28:40:22 --> 00:28:44:26] Mas eles representavam quantidade, eles representavam tipos de produtos diferentes.
+[00:28:44:29 --> 00:28:47:18] Se você não lembra, assiste a aula lá, que é muito massa.
+[00:28:48:00 --> 00:28:49:20] E nós fomos evoluindo, né?
+[00:28:49:20 --> 00:28:55:17] Então aqui a gente tem a escrita cuneiforme, olha só esse sistema simpólico, isso é
+[00:28:55:17 --> 00:29:00:11] uma maneira, um truque que nós encontramos para armazenar informação.
+[00:29:01:18 --> 00:29:05:27] Que outro animal envia esse legado para as outras gerações?
+[00:29:07:26 --> 00:29:10:27] Pelo que eu conheço, só nós fazemos isso, né?
+[00:29:11:09 --> 00:29:21:21] Os hierógrafos dos egípcios, e aqui o latim mais arcaico também, antes de vir o latim moderno e depois o romano e aí chegaram o nosso alfabeto.
+[00:29:21:27 --> 00:29:31:06] E aí nós temos mais alguns marcos legais, como por exemplo a invenção da prensa tipográfica, do Gutenberg, que levou os livros para a humanidade inteira.
+[00:29:31:06 --> 00:29:34:13] É isso aqui que possibilitou a informação chegar em mais pessoas.
+[00:29:35:03 --> 00:29:37:22] Podemos dizer que foi a primeira internet, né?
+[00:29:38:02 --> 00:29:40:22] Gutenberg foi a primeira internet através dos livros.
+[00:29:41:22 --> 00:29:45:28] Mais tarde viria a internet que nós conhecemos hoje através dos computadores.
+[00:29:46:12 --> 00:29:51:18] A invenção da câmera fotográfica que nos permitiu sair do campo linear.
+[00:29:54:19 --> 00:30:04:05] do texto. O texto é linear. Início, meio e fim. E ir para o campo que o Wilhelm Flusser
+[00:30:04:05 --> 00:30:06:10] chamava esse campo de...
+[00:30:07:20 --> 00:30:08:18] Não é plano.
+[00:30:09:22 --> 00:30:10:26] Nossa, eu esqueci o nome.
+[00:30:11:00 --> 00:30:14:25] Tá aqui na apresentação, a gente chega, mas eu vou chamar aqui de plano, né?
+[00:30:14:27 --> 00:30:16:27] A gente tem a linha, superfície, lembrei.
+[00:30:18:18 --> 00:30:22:22] a superfície, que não é mais tão linear.
+[00:30:24:05 --> 00:30:26:16] Superfície, assim como as pinturas, né?
+[00:30:26:28 --> 00:30:32:02] Uma superfície pode ser percorrida de diversas maneiras diferentes.
+[00:30:32:21 --> 00:30:35:06] Um olhar pode ser conduzido numa superfície
+[00:30:35:24 --> 00:30:40:00] em diversos ângulos não lineares, não tão lineares assim.
+[00:30:40:24 --> 00:30:44:25] Então, isso permitiu para a gente experimentar e registrar o mundo
+[00:30:44:25 --> 00:30:47:25] de outras formas também, que antes só os artistas conseguiam fazer.
+[00:30:48:28 --> 00:30:57:28] Com a evolução da tecnologia, nós temos as televisões que evoluiu a superfície e incluiu mais uma dimensão,
+[00:30:58:00 --> 00:31:02:07] que é a dimensão do tempo, e aí a superfície começou a ganhar movimento.
+[00:31:02:27 --> 00:31:07:11] Mais tarde vem o cinema também, né? Ali perto da TV também vem o cinema.
+[00:31:08:28 --> 00:31:12:00] E aí, um pouquinho mais tarde, conectado com o mundo que a gente vive hoje,
+[00:31:12:10 --> 00:31:15:08] os computadores e mais tarde a internet.
+[00:31:17:02 --> 00:31:18:09] não para por aí, né?
+[00:31:18:16 --> 00:31:21:13] Hoje, quando a gente fala de futuro, nós já estamos falando de
+[00:31:21:13 --> 00:31:23:29] realidade virtual e realidade aumentada.
+[00:31:24:06 --> 00:31:25:27] Lembra que eu falei com vocês
+[00:31:25:27 --> 00:31:29:01] que nós estamos chegando em um momento
+[00:31:29:21 --> 00:31:31:15] onde ideal e real...
+[00:31:32:12 --> 00:31:39:10] estão cada vez mais próximos. Hoje já existe uma interseção por causa justamente da realidade
+[00:31:39:10 --> 00:31:45:23] virtual e da realidade aumentada. Se você assistir aquele filme Jogador Número 1, lá
+[00:31:45:23 --> 00:31:46:21] é mais assim.
+[00:31:48:19 --> 00:31:54:26] está mais próximo ainda. Agora, se você assiste Matrix, aí Matrix é assim, mundo real
+[00:31:54:26 --> 00:31:58:17] é mundo ideal, o que é real, o que é ideal, não dá pra saber o que é Matrix, o que
+[00:31:58:17 --> 00:32:03:06] é realidade. É chegar num ponto de se tornar irreconhecível.
+[00:32:04:12 --> 00:32:08:14] Então, é muito legal ver isso, usar a cultura pop para lembrar.
+[00:32:08:17 --> 00:32:11:07] E se você não assistiu Jogador Nº1, assista.
+[00:32:11:15 --> 00:32:13:25] Se você não assistiu Matrix, é legal de assistir também.
+[00:32:14:12 --> 00:32:18:12] E o mundo que a gente vive hoje, ele está nessa situação aqui.
+[00:32:18:17 --> 00:32:19:23] Já existe uma interseção.
+[00:32:20:12 --> 00:32:22:07] E a tecnologia evolui.
+[00:32:22:12 --> 00:32:24:15] Com ela evoluindo, a mensagem...
+[00:32:24:15 --> 00:32:30:01] Essa mensagem complexa começa a se tornar cada vez mais complexa.
+[00:32:30:07 --> 00:32:33:19] Essa codificação começa a se tornar cada vez mais complexa.
+[00:32:33:19 --> 00:32:37:12] a rede de informação começa a se tornar cada vez mais complexa.
+[00:32:37:16 --> 00:32:40:17] E quando eu falo para vocês que nós vivemos
+[00:32:40:17 --> 00:32:42:18] numa guerra de narrativas,
+[00:32:43:05 --> 00:32:45:09] o mundo é uma guerra de ideias.
+[00:32:46:05 --> 00:32:47:27] É exatamente sobre isso
+[00:32:47:27 --> 00:32:49:18] que eu estou falando com vocês.
+[00:32:50:02 --> 00:32:52:24] Estou falando exatamente sobre esse movimento.
+[00:32:53:20 --> 00:32:56:21] E se nós, claro, o nosso objetivo aqui é
+[00:32:56:21 --> 00:33:00:00] expandir isso para o mercado, expandir isso para o design de marcas,
+[00:33:00:07 --> 00:33:01:28] expandir isso para a nossa própria vida,
+[00:33:02:14 --> 00:33:04:21] Aquela clássica pergunta de muita sabedoria,
+[00:33:05:02 --> 00:33:06:14] o que é que eu tenho a ver com isso?
+[00:33:07:14 --> 00:33:09:10] No final, o que que você tem a ver com isso?
+[00:33:09:28 --> 00:33:13:04] Que entender isso vai te ajudar a ajudar seu cliente.
+[00:33:13:08 --> 00:33:15:18] Porque é em nenhum mundo, cada vez mais caótico,
+[00:33:15:24 --> 00:33:18:09] cada vez mais frenético, cada vez mais confuso.
+[00:33:20:07 --> 00:33:28:11] clareza ganha valor, clareza se torna mais atraente e, consequentemente, gera mais resultado.
+[00:33:29:05 --> 00:33:34:13] Então, aqui você pode absorver toda essa teoria para colocar em prática.
+[00:33:35:04 --> 00:33:37:16] E esse é o nosso objetivo aqui no final.
+[00:33:38:22 --> 00:33:44:08] Continuando aqui, então, nós geramos uma nova dimensão para todas as coisas, certo?
+[00:33:44:09 --> 00:33:45:04] O mundo das ideias.
+[00:33:45:08 --> 00:33:48:04] É essa nova dimensão que nós geramos.
+[00:33:48:04 --> 00:33:55:02] Só que aqui eu quis colocar esse tópico, porque essa nova dimensão está muito conectada
+[00:33:55:02 --> 00:33:56:13] com o design.
+[00:33:57:04 --> 00:34:02:16] Lá nas aulas, na introdução ao mundo das formas principalmente nessa aula, nós falamos
+[00:34:02:16 --> 00:34:09:04] aqui que toda forma possui duas dimensões, a dimensão da matéria e a dimensão da
+[00:34:09:23 --> 00:34:10:11] forma.
+[00:34:10:11 --> 00:34:11:22] Lembra?
+[00:34:12:04 --> 00:34:13:25] O C...
+[00:34:14:21 --> 00:34:16:03] ...miológico...
+[00:34:18:08 --> 00:34:23:16] Eu sei que são palavras difíceis, são palavras acadêmicas, isso aqui era pra ser um E, tá?
+[00:34:23:18 --> 00:34:28:15] Não é pra ser um I, não, mas o sem é lógico, e a outra palavra que é pior ainda, né?
+[00:34:32:13 --> 00:34:40:21] Epistem... meu mouse até falhou aqui, peraí... epistemológico... oxi!
+[00:34:42:20 --> 00:34:48:03] que está ligado à matéria, está ligado ao lógico, ao que pode ser explicado, enquanto
+[00:34:48:03 --> 00:34:54:15] o semiológico está ligado ao abstrato, aquilo que nós percebemos, aquilo que nós damos
+[00:34:55:03 --> 00:35:00:06] significado. E aqui, basicamente, é o que nós chamamos de matriz, a matriz aqui é
+[00:35:00:06 --> 00:35:00:22] a matriz.
+[00:35:03:22 --> 00:35:10:05] A forma, forma é forma, são duas coisas diferentes, mas eu posso até conectar elas
+[00:35:10:05 --> 00:35:10:20] aqui.
+[00:35:11:04 --> 00:35:13:26] Existe a forma e existe a cópia.
+[00:35:15:00 --> 00:35:17:22] A cópia precisa de matéria, de um preenchimento.
+[00:35:17:25 --> 00:35:20:11] Lembra lá, na aula de introdução ao mundo das formas nós falamos disso?
+[00:35:21:29 --> 00:35:24:17] a cópia precisa de matéria, de um preenchimento.
+[00:35:24:28 --> 00:35:27:19] Lá, inclusive, tem vários exemplos, se você não lembra, volta lá,
+[00:35:27:25 --> 00:35:28:23] vai ser muito massa.
+[00:35:29:05 --> 00:35:32:04] Lá eu mostro que você pode, com o mesmo círculo,
+[00:35:32:09 --> 00:35:34:24] representar o mesmo círculo de diversas formas diferentes,
+[00:35:35:14 --> 00:35:36:26] um mesmo shape aqui, ó.
+[00:35:37:12 --> 00:35:41:14] A forma de um coração, eu posso preencher essa forma
+[00:35:41:14 --> 00:35:45:28] de diferentes maneiras, com diferentes matérias.
+[00:35:46:03 --> 00:35:49:09] E essas matérias que eu preencho essa forma,
+[00:35:49:17 --> 00:35:51:13] elas influenciam...
+[00:35:51:13 --> 00:35:53:03] Opa, deu até uma travada aqui.
+[00:35:54:00 --> 00:35:55:11] Acho que eu coloquei pontos demais aí.
+[00:35:55:23 --> 00:35:58:02] Ela influencia a nossa per...
+[00:36:00:25 --> 00:36:02:16] Sepção!
+[00:36:04:04 --> 00:36:07:15] eu e a minha mania de escrever com o mouse, né? Aí eu começo a palavra e tenho que terminar.
+[00:36:08:21 --> 00:36:10:12] Influenciar a nossa percepção.
+[00:36:11:00 --> 00:36:15:14] Então esse é outro conceito que quando nós fomos falar de semiótica, fomos falar de signo,
+[00:36:15:20 --> 00:36:18:13] esse conceito também vai estar muito aplicado, tá?
+[00:36:22:14 --> 00:36:26:07] Então, existe uma outra dimensão, que é a própria matrix, o mundo ideal,
+[00:36:26:19 --> 00:36:31:26] e ela se implica nas formas, se implica nas cores.
+[00:36:32:14 --> 00:36:33:22] Não se implica, não, né?
+[00:36:33:22 --> 00:36:36:19] Se aplica nas formas, se aplica nas cores,
+[00:36:37:01 --> 00:36:42:19] se aplica na composição, tudo desconectado com a mensagem, tá bom?
+[00:36:43:11 --> 00:36:48:26] Continuando, então, eu estou só construindo um todo aqui para vocês,
+[00:36:48:26 --> 00:36:52:19] Eu estou pintando um quadro aqui junto com vocês
+[00:36:52:19 --> 00:36:54:23] de tudo isso aqui que nós já falamos.
+[00:36:54:23 --> 00:36:56:03] Nós já falamos tudo isso em outras aulas,
+[00:36:56:07 --> 00:36:59:08] agora eu estou conectando pontas aqui junto com vocês.
+[00:36:59:22 --> 00:37:02:23] Mas a nossa comunicação, então, acontece por meio de códigos.
+[00:37:03:01 --> 00:37:04:03] Nós codificamos o mundo
+[00:37:04:03 --> 00:37:06:12] e a nossa codificação funciona por meio de códigos.
+[00:37:06:20 --> 00:37:07:20] Como assim, Rômulo, dá um exemplo.
+[00:37:07:23 --> 00:37:10:17] Vamos pensar aqui naquele animal que tem uma tromba
+[00:37:10:17 --> 00:37:11:13] e tem um orelhão, né?
+[00:37:11:21 --> 00:37:12:26] Tem uma tromba assim, ó.
+[00:37:13:20 --> 00:37:16:19] Tem um orelhão gigante assim, dos dois lados.
+[00:37:17:29 --> 00:37:22:26] Bem grande. Sabe esse animal que é bem grande? Bem, bem grande. Assim, ó.
+[00:37:24:07 --> 00:37:26:16] Então, como é que chama esse animal?
+[00:37:27:01 --> 00:37:27:29] Esse animal se chama...
+[00:37:30:23 --> 00:37:31:05] ELEFANTE.
+[00:37:33:09 --> 00:37:34:00] Certo?
+[00:37:34:27 --> 00:37:38:22] Aqui no português pelo menos, esse é o código para esse animal.
+[00:37:39:12 --> 00:37:43:12] Quando nós queremos nos referenciar a esse animal, nós falamos elefante.
+[00:37:43:19 --> 00:37:46:00] Tem que colocar aqui o rabicó dele.
+[00:37:46:28 --> 00:37:49:20] Está parecendo um elefante porco com esse rabicói.
+[00:37:50:10 --> 00:37:52:16] Eu acho que elefantes tem um rabo maior, né?
+[00:37:52:21 --> 00:37:53:10] Alguma coisa assim.
+[00:37:54:16 --> 00:37:55:03] Enfim.
+[00:37:55:09 --> 00:37:57:19] Só que o desenho também é um signo.
+[00:37:58:01 --> 00:38:01:10] Esse código aqui, na semiótica, nós chamamos de signo.
+[00:38:01:10 --> 00:38:03:29] Agora eu não vou me limitar muito a usar essa palavra,
+[00:38:04:16 --> 00:38:06:15] porque ela precisa entrar no repertório de vocês.
+[00:38:07:08 --> 00:38:07:22] Então...
+[00:38:08:20 --> 00:38:11:01] Nossa, fechar esse O aqui agora vai ser difícil.
+[00:38:11:16 --> 00:38:13:01] Esse G, nem é um O, é um G.
+[00:38:15:14 --> 00:38:21:05] Signos, esses códigos são signos. Esses signos podem ser tanto a palavra escrita elefante,
+[00:38:21:14 --> 00:38:26:01] pode ser tanto um desenho desse elefante ou pode ser tanto também esse som aqui,
+[00:38:26:29 --> 00:38:32:20] elefante. Isso é um som, elefante. É um outro tipo de signo.
+[00:38:34:07 --> 00:38:38:14] E esses signos referenciam a uma matriz, né?
+[00:38:40:13 --> 00:38:41:24] Essa matriz...
+[00:38:42:29 --> 00:38:49:10] Essa matrix vem do mundo O, vem do mundo ideal.
+[00:38:52:26 --> 00:38:58:27] ela vem do mundo ideal. E nós nos comunicamos através desses códigos. Quando a gente começa
+[00:38:58:27 --> 00:38:59:28] a entender isso...
+[00:39:01:08 --> 00:39:08:15] começa a fazer sentido toda essa teoria que eu venho tecendo na sua cabeça desde a primeira aula.
+[00:39:08:26 --> 00:39:09:25] Lembra qual que é a primeira aula?
+[00:39:10:11 --> 00:39:14:03] A valsa dos mundos. Mundo real e mundo ideal.
+[00:39:14:29 --> 00:39:19:26] E tudo isso agora vem conectando aqui, na mensagem, na comunicação.
+[00:39:20:10 --> 00:39:25:00] Porque nós nos comunicamos através de códigos, signos, que são...
+[00:39:26:17 --> 00:39:27:09] matrizes, tá?
+[00:39:28:01 --> 00:39:32:12] O som que sai da minha boca, a palavra que nós escrevemos...
+[00:39:35:00 --> 00:39:39:25] os desenhos que criamos, os stories que gravamos.
+[00:39:40:08 --> 00:39:41:26] Tudo isso é...
+[00:39:43:12 --> 00:39:51:15] código. Tudo isso é signo. E essa é a matéria-prima da comunicação. Tá?
+[00:39:52:27 --> 00:39:57:24] Tudo que nós vamos ver ao longo desse módulo está ligado com signos.
+[00:39:59:12 --> 00:40:06:23] com o mundo das ideias. E aí a gente lembra dessa imagem aqui super simples, mas que nos
+[00:40:06:23 --> 00:40:13:04] contextualiza desse movimento. Existe um emissor que pode ser você, nesse caso aqui
+[00:40:13:04 --> 00:40:13:24] agora olha...
+[00:40:14:21 --> 00:40:15:05] E eu?
+[00:40:17:07 --> 00:40:20:16] Sou o MSO, você...
+[00:40:22:00 --> 00:40:26:17] é o receptor, você está assistindo uma aula, você está recebendo uma mensagem.
+[00:40:27:01 --> 00:40:34:15] A mensagem é a aula que eu estou te dando e o meio é esse vídeo que você está assistindo.
+[00:40:34:28 --> 00:40:38:20] Mas nós podemos mudar isso de diversas formas, certo?
+[00:40:39:01 --> 00:40:45:14] Por exemplo, em um projeto de design de marcas, o emissor é a marca do seu cliente.
+[00:40:48:18 --> 00:40:51:15] O receptor são os stakeholders.
+[00:40:54:21 --> 00:40:55:13] Eeeek...
+[00:40:56:27 --> 00:40:57:18] Oh...
+[00:41:00:16 --> 00:41:06:12] que tem todos envolvidos aqui, tem o público envolvido, tem os parceiros envolvidos.
+[00:41:07:16 --> 00:41:16:27] parceiros, tem os fornecedores envolvidos, órgãos reguladores, todo o ecossistema da
+[00:41:16:27 --> 00:41:21:07] marca que pode se tornar a receptora de uma mensagem dessa marca.
+[00:41:22:17 --> 00:41:24:09] Existe a mensagem da marca?
+[00:41:25:10 --> 00:41:33:11] pode ser aqui a sua Big Idea, que nós vamos falar desse conceito em outras aulas, Big
+[00:41:33:11 --> 00:41:34:11] Idea é um conceito.
+[00:41:36:14 --> 00:41:39:13] tá ligado com o propósito dessa marca.
+[00:41:42:08 --> 00:41:42:23] Posto.
+[00:41:44:18 --> 00:41:55:10] Essa é a mensagem da marca, só que aqui embaixo disso aqui, nós temos as promessas que a marca faz, as chamadas que a marca faz.
+[00:41:56:27 --> 00:42:02:00] Tudo que está ligado tanto com a identidade verbal quanto visual.
+[00:42:03:06 --> 00:42:06:12] Aqui na Big Ad, no propósito, a gente chega no núcleo da marca,
+[00:42:07:04 --> 00:42:09:03] que vai reger toda a mensagem da marca.
+[00:42:09:26 --> 00:42:12:15] E aí nós temos os assets, que são os tokens.
+[00:42:14:03 --> 00:42:18:05] O mercado às vezes se chama de asset, aqui nós chamamos de tokens, que são aqueles elementos
+[00:42:18:05 --> 00:42:19:04] proprietários da marca.
+[00:42:19:21 --> 00:42:20:21] E qual que é o meio?
+[00:42:21:07 --> 00:42:24:26] O meio são os pontos de contato, pontos...
+[00:42:26:17 --> 00:42:26:28] Sim.
+[00:42:30:07 --> 00:42:30:21] Tato!
+[00:42:32:11 --> 00:42:35:14] Depois eu vou voltar a usar a minha mesa digitalizadora.
+[00:42:36:10 --> 00:42:38:17] Mas são os pontos de contato então, podem ser vários.
+[00:42:38:19 --> 00:42:45:11] Podem ser o site, as redes sociais, a papelaria, o ponto de venda.
+[00:42:45:26 --> 00:42:48:19] São vários tipos de pontos de contato diferentes.
+[00:42:49:09 --> 00:42:55:00] Daqui a pouco, o metaverso se vingar agora, em algum momento vai vingar essa parada.
+[00:42:55:24 --> 00:42:57:19] É a evolução natural do ser humano,
+[00:42:58:04 --> 00:43:00:27] é a evolução natural dos dois mundos que já se colidiram.
+[00:43:00:27 --> 00:43:02:14] né? Lembra sempre disso.
+[00:43:05:17 --> 00:43:07:04] Lembra sempre de ter esse movimento aqui.
+[00:43:09:20 --> 00:43:16:10] Então, cada vez mais surgem novos pontos de contato, antes era livro, antes não, antes
+[00:43:16:10 --> 00:43:21:05] era fala, um ponto de contato, quando você conversa é um ponto de contato entre duas
+[00:43:21:05 --> 00:43:22:01] pessoas, é um meio.
+[00:43:23:04 --> 00:43:24:24] A voz, a conversa é um meio.
+[00:43:25:22 --> 00:43:28:11] Então, a gente tinha a fala, a conversa,
+[00:43:28:12 --> 00:43:31:12] depois começa a surgir as artes, que vem o teatro,
+[00:43:31:24 --> 00:43:34:03] a pintura, que são outros meios.
+[00:43:34:16 --> 00:43:37:02] Depois, teatro, pintura, vou dar um salto quântico aqui,
+[00:43:37:12 --> 00:43:41:14] tem escultura, música, tem outros, mas vou dar um salto quântico aqui das artes.
+[00:43:41:22 --> 00:43:44:04] Nós entramos em outros meios, como os livros.
+[00:43:44:11 --> 00:43:45:27] Os livros começam a ser mais propagados,
+[00:43:46:01 --> 00:43:48:05] através da escrita que eu poderia colocar aqui.
+[00:43:48:22 --> 00:43:50:29] E aí, dos livros,
+[00:43:50:29 --> 00:43:53:05] Vou dar mais um salto quântico aqui, mas tem vários, né?
+[00:43:53:26 --> 00:43:55:24] Tem dos livros da Revolução Industrial, por exemplo,
+[00:43:56:03 --> 00:43:59:18] tinha as embalagens, os cartazes dos eventos e por aí vai.
+[00:43:59:28 --> 00:44:01:23] Mas mais um salto quântico, rádio.
+[00:44:02:22 --> 00:44:10:15] Mais um salto, televisão, mais um salto, computadores e celulares, principalmente os celulares,
+[00:44:10:17 --> 00:44:11:28] os celulares são um grande salto.
+[00:44:12:12 --> 00:44:16:17] Os computadores também, claro, mas os celulares principalmente, com a internet e cada vez
+[00:44:16:17 --> 00:44:18:15] mais o que acontece com esses meios?
+[00:44:18:15 --> 00:44:20:21] Cada vez mais esses meios envolvem...
+[00:44:21:26 --> 00:44:23:00] os cinco sentidos.
+[00:44:25:11 --> 00:44:28:19] Cada vez mais nós mergulhamos dentro de um meio.
+[00:44:29:20 --> 00:44:34:07] e assim que a mensagem se torna cada vez mais complexa.
+[00:44:35:14 --> 00:44:39:12] E aí, por que que nós damos todo esse valor para a mensagem?
+[00:44:39:17 --> 00:44:42:28] Por que que nós damos todo esse valor para a informação?
+[00:44:44:11 --> 00:44:48:06] Porque nós podemos partir de um ponto básico, que é lógico.
+[00:44:49:11 --> 00:44:51:06] que a informação significa evolução.
+[00:44:52:15 --> 00:44:57:21] Um pouco atrás aqui nessa aula, eu te expliquei que passar uma informação de uma geração
+[00:44:57:21 --> 00:45:02:27] para outra significa transmitir um legado e fazer com que aquela nova geração não comece
+[00:45:02:27 --> 00:45:06:11] do zero igual você começou, ela já começa um pouco mais na frente.
+[00:45:06:21 --> 00:45:11:06] Isso faz com que aconteça uma escada, porque um ser humano médio, ele vive uma quantidade
+[00:45:11:06 --> 00:45:14:28] de anos de vida, ele não vai viver dois mil anos de vida, certo?
+[00:45:14:28 --> 00:45:18:28] Então ele não tem tanto tempo para segurar uma informação, virar um ser superior
+[00:45:18:28 --> 00:45:23:02] de sabedoria e transmitia essa informação como um grande guru para todas as pessoas.
+[00:45:23:17 --> 00:45:29:00] Nós morremos, e por isso nós precisamos deixar um legado para as próximas gerações, assim
+[00:45:29:00 --> 00:45:34:17] como nos foi deixado vários legados das gerações anteriores, ok?
+[00:45:35:10 --> 00:45:38:03] Então informação significa evolução.
+[00:45:38:19 --> 00:45:43:07] Mas a pergunta que eu faço em seguida é, evolução significa mais vida?
+[00:45:43:19 --> 00:45:44:05] Talvez?
+[00:45:44:15 --> 00:45:46:00] Por que nós queremos evoluir?
+[00:45:46:00 --> 00:45:52:13] Porque ao evoluir, esse é um movimento natural, vem da natureza mesmo.
+[00:45:53:03 --> 00:45:56:22] A natureza funciona com base na evolução, se você parar para pensar.
+[00:45:57:07 --> 00:46:03:20] As novas gerações já carregam um código genético das anteriores, mas de uma forma limitada.
+[00:46:03:28 --> 00:46:05:27] Mas carregam um certo tipo de informação?
+[00:46:06:20 --> 00:46:13:25] Nós aprendemos a sair da nossa casca, tirar uma informação da nossa casca limitada,
+[00:46:13:25 --> 00:46:20:10] nossa casca mortal e colocar essa informação em uma casca imortal.
+[00:46:21:25 --> 00:46:23:15] Isso que nós aprendemos a fazer.
+[00:46:23:26 --> 00:46:29:17] Tirando de uma casca material e orgânica, colocamos em uma casca imaterial, inorgânica,
+[00:46:29:19 --> 00:46:31:10] que não perece, que não morre.
+[00:46:31:26 --> 00:46:33:02] Como que eu posso te dar esse exemplo?
+[00:46:33:05 --> 00:46:35:08] Pensa, por exemplo, em uma árvore.
+[00:46:35:11 --> 00:46:37:13] Uma árvore pode viver muitos anos, né?
+[00:46:37:19 --> 00:46:39:23] Árvores conseguem viver mais que seres humanos.
+[00:46:40:02 --> 00:46:41:28] Mas essa árvore, ela perece.
+[00:46:42:01 --> 00:46:43:07] E um dia ela morre.
+[00:46:43:17 --> 00:46:49:04] Agora, imagina que um dia eu vou ali e tiro uma foto dessa árvore e guardo essa foto na nuvem.
+[00:46:49:04 --> 00:46:55:05] Pode ser que a árvore morra e suma e não exista mais no plano real, mas existe um
+[00:46:55:05 --> 00:47:00:28] signo daquela árvore, existe uma representação dela, uma espécie de matriz imaterial dela,
+[00:47:01:08 --> 00:47:02:01] que é aquela foto.
+[00:47:02:15 --> 00:47:07:06] Se eu pensar na foto física, essa ainda parece, só que um tempo maior.
+[00:47:07:19 --> 00:47:15:02] Agora, pensa na foto que é um dado, pensa na foto que está na nuvem, a foto que
+[00:47:15:02 --> 00:47:21:22] uma informação que pode ser descodificada, traduzida. Essa é...
+[00:47:22:26 --> 00:47:23:18] e mochada.
+[00:47:25:29 --> 00:47:29:26] E aí quando eu falo que evolução significa mais vida, será?
+[00:47:30:25 --> 00:47:31:26] A princípio, sim!
+[00:47:33:04 --> 00:47:36:24] Porque ao evoluir, nós vivemos mais.
+[00:47:38:04 --> 00:47:40:29] só que depende do tipo de evolução também, né?
+[00:47:41:02 --> 00:47:44:14] Se a gente pensa na evolução mais temida da humanidade,
+[00:47:45:04 --> 00:47:47:21] os robôs podem acabar com a vida.
+[00:47:48:24 --> 00:47:52:20] Porque os robôs não necessariamente precisam ter vida para existir, né?
+[00:47:53:03 --> 00:47:56:09] Claro que isso depende do conceito de vida também.
+[00:47:57:05 --> 00:47:59:09] Porque se existe uma consciência, será que existe vida?
+[00:48:00:00 --> 00:48:02:02] Muito louco, isso aí é uma discussão para outro momento.
+[00:48:02:06 --> 00:48:04:11] Não vou nem entrar nisso aqui agora com vocês.
+[00:48:04:25 --> 00:48:09:12] Mas a grande questão é que nos comunicamos porque somos seres...
+[00:48:09:12 --> 00:48:11:10] Isso aqui, inclusive, que eu coloquei aqui...
+[00:48:12:06 --> 00:48:18:15] bem da teoria do Wilain Flusser também. Como vocês podem ver, ele influenciou muito a
+[00:48:18:15 --> 00:48:22:28] minha visão sobre o design, por isso que eu sempre recomendo ele para vocês. É filosófico,
+[00:48:23:04 --> 00:48:28:07] é denso, não é todo mundo que vai conseguir ler os livros do Wilain Flusser. Se você
+[00:48:28:07 --> 00:48:32:22] quiser que eu traduza para você, eu já estou fazendo isso. Aqui eu já estou te
+[00:48:33:16 --> 00:48:38:22] trazendo a nata do conteúdo de Flusser. Mas agora, se você é aquela pessoa que,
+[00:48:38:22 --> 00:48:44:02] como eu gosto de mergulhar a fundo, são livros mais difíceis, mas são livros muito interessantes.
+[00:48:44:17 --> 00:48:49:04] E ele fala que nós nos comunicamos porque somos seres solitários, a experiência de
+[00:48:49:04 --> 00:48:53:01] cada ser humano é individual, mas aprendemos o valor de compartilhar informação.
+[00:48:53:13 --> 00:48:58:26] Então, quando eu nasço, eu nasço em volta de várias pessoas, mas a minha experiência
+[00:48:58:26 --> 00:48:59:11] é individual.
+[00:48:59:20 --> 00:49:02:10] Quando eu morro, novamente, a minha experiência é individual.
+[00:49:03:10 --> 00:49:07:06] Quando eu estou nos meus pensamentos, a minha experiência é individual.
+[00:49:07:06 --> 00:49:15:09] nós somos seres solitários por natureza, diferente de outros seres, tá? Nós somos seres solitários,
+[00:49:15:23 --> 00:49:22:12] nós não temos uma consciência mãe coletiva hiper conectada, não.
+[00:49:23:15 --> 00:49:28:25] Mas nós não temos isso na nossa natureza.
+[00:49:29:00 --> 00:49:32:04] Nós criamos isso de outra forma, e isso que é o mais legal.
+[00:49:32:28 --> 00:49:35:16] E nós aprendemos o valor de compartilhar informação
+[00:49:35:16 --> 00:49:38:03] para a sobrevivência, como eu disse para vocês.
+[00:49:38:22 --> 00:49:41:21] Então, era passado, tem até uma imagem aqui para vocês,
+[00:49:41:28 --> 00:49:42:29] que eu gosto dessa imagem.
+[00:49:43:16 --> 00:49:45:13] Era passado de geração em geração.
+[00:49:45:18 --> 00:49:50:14] Sentavam na fogueira os anciões com os anciões ou anciãos,
+[00:49:50:27 --> 00:49:51:24] não sei, enfim.
+[00:49:51:24 --> 00:49:59:07] Sentavam lá na fogueira, com o povo, e passavam os ensinamentos, porque ao compartilhar...
+[00:50:00:05 --> 00:50:02:24] Eu sei que aquele grupo vai sobreviver.
+[00:50:03:05 --> 00:50:09:18] E isso não é só um movimento do ancião, que talvez já está com a sensação de que
+[00:50:09:18 --> 00:50:11:24] daqui a pouco ele não vai estar ali mais.
+[00:50:12:22 --> 00:50:19:06] Mas isso vem também, essa ideia de compartilhar, vem também a sobrevivência dos mais novos.
+[00:50:19:10 --> 00:50:20:08] Vou te dar um exemplo, né?
+[00:50:20:08 --> 00:50:21:28] Tem a teoria do mamute futuro.
+[00:50:22:28 --> 00:50:25:29] Essa teoria é muito massa, eu vi ela a primeira vez no livro 12 regras para a
+[00:50:25:29 --> 00:50:28:29] vida, do Jordan Peterson, ele fala lá do mamute futuro.
+[00:50:29:18 --> 00:50:35:05] E ele dá o exemplo que, no passado, se você tivesse numa situação onde você acabou de
+[00:50:35:05 --> 00:50:36:08] caçar um mamute...
+[00:50:37:07 --> 00:50:40:16] Talvez você não iria conseguir comer todo aquele mamute.
+[00:50:41:18 --> 00:50:42:16] Então, o que você faz?
+[00:50:43:07 --> 00:50:47:00] Você chama outras pessoas para comerem aquele mamute junto com você.
+[00:50:47:03 --> 00:50:50:13] Você compartilha um pouco do que você tem agora,
+[00:50:50:16 --> 00:50:53:10] porque de qualquer forma você perderia aquele alimento.
+[00:50:53:21 --> 00:50:55:08] Olha a lógica com a informação, ó.
+[00:50:55:26 --> 00:50:58:29] Em algum momento aquele alimento iria perder porque você não consegue...
+[00:51:00:24 --> 00:51:04:07] comer toda a comida que está ali. Então você compartilha.
+[00:51:05:03 --> 00:51:10:23] E aí você ganha uma vantagem. Porque quando outra pessoa matar o mamute dela,
+[00:51:11:15 --> 00:51:15:23] ela também não vai conseguir comer. E ela vai se lembrar que você dividiu com ela.
+[00:51:15:25 --> 00:51:18:01] Por que ela vai se lembrar? Porque ela é boazinha? Não.
+[00:51:18:22 --> 00:51:21:12] Porque ela quer que você divida com ela mais vezes.
+[00:51:22:04 --> 00:51:27:15] Então ela divide com você para que quando você caçar, você também divida com ela.
+[00:51:27:15 --> 00:51:34:05] Isso, naturalmente, é acontecendo, estou pegando aqui o caso de uma comida, pegando
+[00:51:34:05 --> 00:51:38:11] na base, num contexto bem primitivo mesmo.
+[00:51:40:07 --> 00:51:42:14] Então, nós aprendemos a lidar com isso.
+[00:51:43:29 --> 00:51:55:10] E tanto que hoje nosso cérebro, falando aqui, fisiologicamente, o seu cérebro, a forma dele de agir.
+[00:51:56:17 --> 00:52:02:13] tem vieses cognitivos, ou também atalhos mentais.
+[00:52:02:24 --> 00:52:10:09] Esses atalhos mentais, heurísticas e vieses cognitivos, eles vêm dessa informação genética
+[00:52:10:09 --> 00:52:18:12] que vem passada pra gente por milhares de anos, até hoje, e hoje, nós estamos sujeitos
+[00:52:18:12 --> 00:52:26:00] a esses vieses, quando nós sentimos uma grande vontade de sermos recíprocos com
+[00:52:26:00 --> 00:52:32:05] outra pessoa, isso é um viés. Por que isso age de maneira emocional? Por que isso te atinge
+[00:52:32:05 --> 00:52:37:18] emocionalmente? Nossa, o Fulano me chamou pra festa de aniversário dele, na próxima eu
+[00:52:37:18 --> 00:52:41:13] vou chamar ele pra minha festa de aniversário. Hoje, você não precisa dividir mamute
+[00:52:41:13 --> 00:52:48:23] com ninguém, mas por que que está enraizado na nossa forma de se comportar? Isso vem
+[00:52:48:23 --> 00:52:54:06] de um comportamento repetitivo de uma informação genética, que vem de ser passada por
+[00:52:54:06 --> 00:53:00:10] milhares de anos. Então, nós aprendemos a compartilhar, porque isso nos ajudou a
+[00:53:00:10 --> 00:53:05:21] sobreviver e, consequentemente, nos ajudou a evoluir. Uma vez que nós
+[00:53:05:21 --> 00:53:10:00] começamos a evoluir, nós começamos a construir nossa grande mente coletiva,
+[00:53:10:29 --> 00:53:14:17] que hoje nós podemos falar que a internet é a maior mente coletiva já
+[00:53:14:17 --> 00:53:15:21] criada pela humanidade.
+[00:53:17:03 --> 00:53:24:21] E tudo isso vem dessa base simples, do lado passado, por uma questão de sobrevivência.
+[00:53:25:02 --> 00:53:26:05] Tem uma imagem muito legal?
+[00:53:27:11 --> 00:53:28:26] que é essa imagem aqui, ó.
+[00:53:29:09 --> 00:53:31:06] Você já deve ter visto ela na internet alguma vez?
+[00:53:32:10 --> 00:53:36:21] que explica para a gente a diferença que existe, por exemplo, entre dados...
+[00:53:37:20 --> 00:53:39:07] Não, um dado vazio?
+[00:53:42:11 --> 00:53:43:10] Conhecimento.
+[00:53:49:17 --> 00:54:00:09] Conhecimento é esse, informação é aqui eu acho, vocês podem confirmar se eu não me enganar é isso, dado, informação, conhecimento, ideia.
+[00:54:02:25 --> 00:54:07:11] E aqui, às vezes, as pessoas vão chamar de sabedoria, né, mas eu vou colocar aqui como mensagem.
+[00:54:11:13 --> 00:54:15:17] Então, olha que interessante, as coisas que sempre estiveram aqui, continuam aqui.
+[00:54:15:23 --> 00:54:17:20] Nós só reorganizamos elas.
+[00:54:19:27 --> 00:54:28:29] Só reorganizamos. Primeiro, o que é a informação? Identificar numa série de dados aquilo que é relevante.
+[00:54:30:19 --> 00:54:34:20] Então, você identifica uma série de dados àquilo que você considera relevante para
+[00:54:34:20 --> 00:54:37:20] aquele momento e aí você tem uma informação.
+[00:54:38:25 --> 00:54:44:11] Conhecimento é quando você consegue conectar dados e informações.
+[00:54:45:20 --> 00:54:48:24] Uma ideia é quando você tem um fragmento...
+[00:54:48:24 --> 00:54:49:23] Lembra que eu falo com vocês?
+[00:54:49:25 --> 00:54:54:02] A ideia é conectar pontos, conectar ideias antes desconectadas.
+[00:54:55:03 --> 00:54:57:16] E isso aqui me lembra muito também uma rede neural.
+[00:54:58:07 --> 00:55:03:11] Os nossos neurônios construindo redes neurais para o nosso aprendizado,
+[00:55:03:17 --> 00:55:04:13] por isso o conhecimento.
+[00:55:04:27 --> 00:55:07:10] Uma ideia é um fragmento...
+[00:55:08:28 --> 00:55:17:15] fragmento de alguma coisa. Então você tem lampejos, são ideias, signos, lembra a palavra
+[00:55:17:15 --> 00:55:24:13] que nós vamos usar com mais frequência agora? E a mensagem é a conexão, muitas
+[00:55:24:13 --> 00:55:27:03] vezes com início, meio e fim.
+[00:55:28:10 --> 00:55:34:27] de uma ideia. Certo? Então, olha que interessante, essa imagem vocês vão ver muito. Se você
+[00:55:34:27 --> 00:55:39:13] não viu, coloca na internet aí, dá a informação e conhecimento, ela é muito massa também.
+[00:55:40:06 --> 00:55:44:21] E pode ser que eu volte a trazê-la aqui para vocês porque ela ilustra muito bem para
+[00:55:44:21 --> 00:55:50:09] a gente a diferença que existe entre coisas que aparentemente são iguais. Qual que
+[00:55:50:09 --> 00:55:54:21] é a diferença de conhecimento para a ideia, por exemplo? Existe, de fato, uma diferença
+[00:55:54:21 --> 00:55:58:22] entre os dois, aqui fica muito claro para a gente que sim, tem uma diferença entre se
+[00:55:58:22 --> 00:56:01:10] informar e conhecer, né?
+[00:56:01:18 --> 00:56:07:13] Tem uma outra diferença também que eu acho interessante, que é entre conhecer, talvez
+[00:56:07:13 --> 00:56:12:11] informar e conhecer seja a mesma coisa, mas entre conhecer...
+[00:56:14:03 --> 00:56:14:28] Aprender.
+[00:56:18:01 --> 00:56:21:28] O Morfeu, inclusive, olha só, a gente tá falando bastante de matrix aqui, mas não
+[00:56:21:28 --> 00:56:23:24] tem como não falar de matrix aqui, né?
+[00:56:24:01 --> 00:56:29:19] Morfeu, ele tem aquela frase clássica dele, existe uma diferença entre conhecer o caminho
+[00:56:30:04 --> 00:56:31:09] e trilhar o caminho.
+[00:56:31:18 --> 00:56:32:06] E é bem isso, né?
+[00:56:32:07 --> 00:56:34:03] Você aprende quando você trilha o caminho.
+[00:56:34:11 --> 00:56:39:12] Você conhece quando você viu o caminho ou ouviu falar sobre ele, né?
+[00:56:39:18 --> 00:56:40:11] Muito massa também.
+[00:56:41:22 --> 00:56:44:16] E aí, pessoal, olha só, eu falei com vocês que seria denso, né?
+[00:56:44:16 --> 00:56:48:13] A gente vai separar isso em outros tópicos,
+[00:56:48:19 --> 00:56:50:22] mas continua aqui comigo o que eu quero introduzir.
+[00:56:50:23 --> 00:56:54:21] Eu quero jogar isso em cima de você, plantar essas sementes, adubar...
+[00:56:54:21 --> 00:56:56:10] Elas já estão plantadas, né? Muitas aulas,
+[00:56:56:12 --> 00:57:00:10] mas adubar isso porque agora a gente vai começar a florescer essas ideias.
+[00:57:00:29 --> 00:57:02:17] Mas, como vocês viram, né?
+[00:57:02:24 --> 00:57:05:02] Realidade virtual, realidade aumentada, existe um movimento.
+[00:57:05:06 --> 00:57:10:04] Nosso mundo ideal continua evoluindo e se tornando cada dia mais complexo.
+[00:57:10:04 --> 00:57:15:10] A lógica que a gente utilizava antes não é mais suficiente para representar o mundo
+[00:57:15:10 --> 00:57:16:18] que nós vivemos hoje.
+[00:57:17:00 --> 00:57:23:13] Esse é o conceito que eu falei com vocês agora a pouco, da linha e da superfície.
+[00:57:23:18 --> 00:57:29:16] Se você assistiu a aula de introdução ao mundo das formas, você vai lembrar da planolândia.
+[00:57:29:25 --> 00:57:31:06] Colocar só um P aqui.
+[00:57:32:13 --> 00:57:37:25] Que um ser, um ser que vive num espaço plano, ele não tem condições de compreender
+[00:57:37:25 --> 00:57:39:00] um espaço tridimensional.
+[00:57:39:00 --> 00:57:45:21] lembra dessa aula? E acontece que até hoje nós seres humanos, nós tratamos a comunicação
+[00:57:45:21 --> 00:57:52:22] em uma dimensão que não é mais tão adequada para ela. E isso é muito legal, muito. Vocês
+[00:57:52:22 --> 00:57:56:05] vão ver qual que é a aplicação disso. Eu vou conectar isso aqui que eu estou te
+[00:57:56:05 --> 00:57:59:06] falando com TikTok e Instagram. Só vai vendo, olha só.
+[00:58:00:14 --> 00:58:03:21] O que eu quero dizer, então, com um ser que existia em uma dimensão
+[00:58:03:21 --> 00:58:04:29] não consegue compreender a outra.
+[00:58:05:08 --> 00:58:07:17] Um ser que vive numa dimensão plana
+[00:58:07:17 --> 00:58:11:15] não consegue entender um ser de uma dimensão tridimensional.
+[00:58:12:00 --> 00:58:14:14] Porque quando um ser de uma dimensão tridimensional
+[00:58:14:14 --> 00:58:16:04] passa por uma dimensão plana,
+[00:58:17:15 --> 00:58:20:24] aquele serzinho da planolândia só vai conseguir compreender
+[00:58:21:26 --> 00:58:23:11] aquela área de contato.
+[00:58:23:23 --> 00:58:25:03] Então, é como se alguma coisa...
+[00:58:25:03 --> 00:58:26:23] Olha que bizarro isso, mas é muito legal.
+[00:58:26:23 --> 00:58:32:10] É como se alguma coisa aparecesse, o movimento seria isso aqui.
+[00:58:32:13 --> 00:58:37:21] Se uma esfera entrasse em um mundo plano, em uma dimensão plana, ia acontecer isso.
+[00:58:38:06 --> 00:58:41:20] Ela seria um círculo pequenininho, começa pequenininho.
+[00:58:42:01 --> 00:58:43:02] Imagina esse movimento aqui, ó.
+[00:58:44:09 --> 00:58:46:26] dela descendo ou dela subindo, tá?
+[00:58:47:22 --> 00:58:52:02] Ela seria um círculo pequenininho que cresce, cresce, cresce, cresce, cresce, cresce, cresce...
+[00:58:52:02 --> 00:58:52:19] Atinge!
+[00:58:53:28 --> 00:58:59:25] o meio, que é essa área aqui onde a circunferência dela é maior,
+[00:59:00:20 --> 00:59:03:02] depois iria começar a diminuir, diminuir, diminuir, diminuir,
+[00:59:03:16 --> 00:59:04:09] até sumir.
+[00:59:04:20 --> 00:59:08:19] Esse seria o fenômeno na planolândia de uma esfera.
+[00:59:09:02 --> 00:59:10:17] E o que isso tem a ver com a comunicação?
+[00:59:11:26 --> 00:59:18:00] a mesma coisa. Eu vou traçar um paralelo aqui entre as dimensões e a nossa comunicação.
+[00:59:18:15 --> 00:59:24:21] Durante a maior parte da nossa história a nossa comunicação foi linear. Inclusive
+[00:59:24:21 --> 00:59:28:09] que eu posso chamar ela de uma comunicação histórica.
+[00:59:28:10 --> 00:59:28:28] Vou pegar aqui.
+[00:59:30:05 --> 00:59:32:26] Fica mais fácil, né? Histórico é bem grande a palavra.
+[00:59:34:18 --> 00:59:35:05] Línea.
+[00:59:36:09 --> 00:59:45:15] O que eu quero dizer com isso? É uma comunicação que tem início, meio e fim. Por que isso acontece?
+[00:59:46:09 --> 00:59:48:06] Por causa da escrita, principalmente.
+[00:59:49:12 --> 00:59:55:10] é um monólogo, uma pessoa escreve, então a linha funciona assim, eu começo a escrever,
+[00:59:55:21 --> 01:00:04:00] escrevo, continuo, vou ter sendo o meu raciocínio, chego no meio e concluo. Início, meio e fim.
+[01:00:04:21 --> 01:00:06:00] Então é uma comunicação linear.
+[01:00:07:23 --> 01:00:12:20] Existia também uma comunicação que não era tão linear, que era mais... de superfície?
+[01:00:12:25 --> 01:00:14:26] Sim, se você pensa em uma conversa.
+[01:00:17:04 --> 01:00:20:19] conversa entre duas ou mais pessoas, ela não é tão linear.
+[01:00:21:23 --> 01:00:24:11] Ela é mais ligada à superfície, ela é mais...
+[01:00:25:16 --> 01:00:32:14] Uma conversa plana ou uma comunicação plana, ela vai, volta, vai a outra direção...
+[01:00:33:15 --> 01:00:35:27] E ela segue, ela segue por vários caminhos.
+[01:00:36:23 --> 01:00:40:09] E eu quero que vocês comecem a imaginar uma comunicação que não é tão linear,
+[01:00:40:18 --> 01:00:41:16] não é tão histórica.
+[01:00:43:02 --> 01:00:51:01] Nós começamos a ver isso na pintura, por exemplo. Você não lê uma pintura do mesmo jeito que você lê um texto.
+[01:00:52:20 --> 01:00:54:13] Você lê uma pintura de uma forma diferente.
+[01:00:54:21 --> 01:00:55:29] Qual é a principal diferença entre os dois?
+[01:00:56:10 --> 01:01:03:03] O texto vai te dar algo mais concreto?
+[01:01:05:00 --> 01:01:10:03] porque ele consegue te explicar, então é mais concreto, porém é mais limitado.
+[01:01:11:14 --> 01:01:15:04] Uma imagem vai te dar uma mensagem mais abstrata?
+[01:01:17:03 --> 01:01:21:01] porém, mais ampla, menos limitada.
+[01:01:22:21 --> 01:01:24:29] Uma imagem é mais subjetiva.
+[01:01:27:17 --> 01:01:29:22] um texto é mais objetivo.
+[01:01:31:18 --> 01:01:32:02] Sert?
+[01:01:36:04 --> 01:01:38:22] Então, nós temos essa diferença já. Vou fazer uma montanhazinha aqui,
+[01:01:38:27 --> 01:01:40:10] como se fosse uma montanhazinha e um solzinho aqui.
+[01:01:44:04 --> 01:01:48:12] Então, essas são as principais diferenças. E o jeito de comunicar é diferente, são meios
+[01:01:48:12 --> 01:01:57:15] diferentes de comunicar. Um é linear, o outro é plano, é de superfície. É porque eu não
+[01:01:57:15 --> 01:02:01:08] estou querendo usar a palavra superficial, né? Não é superficial no sentido de vago,
+[01:02:01:16 --> 01:02:08:21] de raso, mas plano talvez seja um bom nome, uma comunicação mais plana, ela te permite
+[01:02:08:21 --> 01:02:12:20] explorar a mensagem em outras dimensões.
+[01:02:13:26 --> 01:02:18:09] Só que esse modelo aqui, que inclusive é chamado de modelo cartesiano...
+[01:02:19:12 --> 01:02:24:06] de segmentar as coisas, dividir em partes e colocar numa ordem cronológica?
+[01:02:26:02 --> 01:02:27:23] E, na verdade, nem é assim, mas enfim...
+[01:02:29:18 --> 01:02:31:12] ou nem assim... ou...
+[01:02:32:12 --> 01:02:35:19] o cartesiano, mas é com C, tá certinho.
+[01:02:35:25 --> 01:02:39:28] Então, o modo cartesiano de segmentar, vou dividir em partes e vou seguindo,
+[01:02:40:03 --> 01:02:42:12] parte 1, parte 2, parte 3...
+[01:02:42:12 --> 01:02:47:08] Isso daqui dominou o mundo, funcionou lá na Revolução Industrial.
+[01:02:47:23 --> 01:02:52:20] Separa a matemática de português, separa português de geografia...
+[01:02:52:20 --> 01:02:56:14] Cada uma das áreas você segue numa linearidade, uma coisa de cada vez.
+[01:02:56:20 --> 01:02:59:05] Só que tem um problema, o nosso mundo não funciona assim.
+[01:02:59:17 --> 01:03:01:09] O nosso mundo funciona ao mesmo tempo.
+[01:03:01:09 --> 01:03:04:27] e todas essas coisas estão interligadas.
+[01:03:05:05 --> 01:03:07:26] Todas essas coisas funcionam juntas.
+[01:03:08:24 --> 01:03:12:09] Isso é que cria para a gente um tipo de comunicação
+[01:03:12:09 --> 01:03:15:03] que está ligada com a nossa comunicação de hoje.
+[01:03:16:01 --> 01:03:18:29] Eu posso pegar aqui, depois da imagem, o próprio cinema.
+[01:03:19:28 --> 01:03:21:20] Como é que eu vou representar o cinema aqui?
+[01:03:24:09 --> 01:03:25:24] Pegar os cinemas mais antigos.
+[01:03:27:10 --> 01:03:34:24] passava lá o refletor, cinema. Então, o cinema, ele adicionou outra dimensão aqui, que é o tempo.
+[01:03:35:26 --> 01:03:40:09] Agora eu consigo passar as imagens em uma ordem cronológica.
+[01:03:40:22 --> 01:03:44:03] Então, ele junta o plano com o linear.
+[01:03:45:06 --> 01:03:50:17] Afinal de contas, um filme, pensa comigo, um filme, ele tem início, meio e fim.
+[01:03:51:10 --> 01:03:53:21] Então, ele tem uma linearidade, ele tem um...
+[01:03:55:24 --> 01:04:03:18] Mas, ele também é plano no sentido de que ele consegue te passar muito mais detalhes,
+[01:04:04:02 --> 01:04:07:06] ele consegue enriquecer muito mais essa mensagem.
+[01:04:08:19 --> 01:04:10:12] Existe um nível acima desse?
+[01:04:11:14 --> 01:04:15:14] Sim, se nós pensarmos em mais uma dimensão.
+[01:04:16:13 --> 01:04:16:27] espaço.
+[01:04:18:19 --> 01:04:22:09] que são os videogames, e que são também as redes sociais.
+[01:04:23:26 --> 01:04:30:02] Um filme você senta de maneira passiva e absorve, assim como a leitura de um livro.
+[01:04:30:27 --> 01:04:34:15] Você pega o livro e lê, início, meio e fim, absorve, passivo.
+[01:04:35:12 --> 01:04:41:23] Um jogo ou uma rede social você participa, você consome de maneira ativa.
+[01:04:42:17 --> 01:04:47:00] Enquanto no filme você vê outros personagens, quando você faz um stories você pode se
+[01:04:47:00 --> 01:04:52:23] gravar e se ver naquele stories, tomar decisões e influenciar o meio.
+[01:04:53:14 --> 01:04:56:24] Assim como em um jogo, você pode decidir se você vai para a esquerda, para a direita,
+[01:04:56:27 --> 01:05:01:06] para cima ou para baixo, se você vai fazer a missão ou não, se você vai ficar ali
+[01:05:01:06 --> 01:05:02:10] ou se você vai sair do lugar.
+[01:05:02:25 --> 01:05:10:00] Você começa a ter decisões e essas dimensões, elas vão tornando a comunicação mais complexa.
+[01:05:10:11 --> 01:05:14:09] Hoje a comunicação não é mais unilateral, nem mesmo...
+[01:05:15:14 --> 01:05:21:24] Bilateral, né? Ela nem mesmo é uma comunicação entre duas pessoas, ela se torna cada vez mais uma
+[01:05:22:26 --> 01:05:24:06] conversa, um remix.
+[01:05:25:13 --> 01:05:32:14] várias coisas conectadas umas com as outras, um pouco da minha mensagem com a sua mensagem
+[01:05:32:14 --> 01:05:33:23] com a outra mensagem.
+[01:05:34:23 --> 01:05:42:17] Isso testa ainda mais linhas, ainda mais planos, e torna a coisa ainda mais complexa
+[01:05:42:17 --> 01:05:43:27] dentro de todo esse jogo.
+[01:05:45:01 --> 01:05:49:14] Então, o conceito de linha e superfície, o que a gente precisa guardar?
+[01:05:49:18 --> 01:05:55:16] Que o pensamento linear, esse pensamento cartesiano de fragmentar as coisas,
+[01:05:56:10 --> 01:05:59:00] ele já não funciona mais no mundo que a gente vive hoje.
+[01:05:59:00 --> 01:06:06:00] O mundo que nós vemos hoje, hiper conectado, um mundo de conversa, um mundo de vários
+[01:06:06:00 --> 01:06:13:28] estímulos e várias reações, consequentemente, é complexo demais pra nós ficarmos presos
+[01:06:13:28 --> 01:06:15:07] na linearidade.
+[01:06:16:11 --> 01:06:18:13] Mas aqui eu tenho um ponto pra você importante.
+[01:06:20:02 --> 01:06:24:28] para compreender a conversa, para poder se dar bem com a conversa.
+[01:06:25:29 --> 01:06:33:25] Você precisa se dar bem primeiro com essa comunicação mais plana e com essa comunicação mais linear.
+[01:06:35:07 --> 01:06:39:07] Entender como que funciona, como contar uma boa história.
+[01:06:40:11 --> 01:06:51:02] Como conduzir o olhar das pessoas, como traduzir uma mensagem de maneira imagética, em uma
+[01:06:51:02 --> 01:06:51:15] imagem.
+[01:06:52:13 --> 01:06:56:17] E é exatamente isso que eu vou mostrar para vocês ao longo dessas aulas.
+[01:06:57:01 --> 01:07:02:13] Vocês vão ver esses dispositivos, se é que eu posso chamar assim.
+[01:07:04:00 --> 01:07:10:05] que você pode utilizar para conseguir a atenção das pessoas nesse mundo super complexo, porque
+[01:07:10:05 --> 01:07:14:29] as pessoas não conhecem a teoria da comunicação, as pessoas não sabem nem o que é polaridade,
+[01:07:16:05 --> 01:07:22:15] dualidade ou dicotomia, que são a mesma coisa, os três, mas são nomes diferentes para
+[01:07:22:15 --> 01:07:28:00] a mesma coisa, não sabem nem o que é isso, não sabem nem o que é uma linearidade,
+[01:07:28:02 --> 01:07:31:19] igual estou explicando aqui para vocês, para poder vender uma boa ideia, para poder
+[01:07:31:19 --> 01:07:38:27] chamar a atenção. E é exatamente isso que eu vou ensinar para vocês durante as próximas aulas.
+[01:07:39:14 --> 01:07:44:23] Mas, antes de acabar aqui, não acabou se você acha que ia acabar, eu quero só te mostrar isso de
+[01:07:44:23 --> 01:07:50:11] uma maneira um pouco mais visual, para você ver como é que funciona. Então, olha só, linear...
+[01:07:51:12 --> 01:07:53:02] Plano Linear
+[01:07:54:26 --> 01:07:55:29] Plano mais linear.
+[01:07:57:07 --> 01:07:59:24] plano mais linear.
+[01:08:01:27 --> 01:08:04:21] Aqui a gente nem chama nem de plano, nem de linear, né?
+[01:08:04:29 --> 01:08:06:06] Tá mais para tridimensional.
+[01:08:08:10 --> 01:08:13:04] e aqui também tridimensional, pensando na interação.
+[01:08:21:23 --> 01:08:25:11] E o que a Planolândia tem a ver com isso e não caiu a ficha, se você não sacou qual
+[01:08:25:11 --> 01:08:26:06] é a ideia aqui.
+[01:08:28:12 --> 01:08:30:18] Talvez você continue, até hoje.
+[01:08:31:19 --> 01:08:35:11] mantendo uma comunicação linear em meios.
+[01:08:37:27 --> 01:08:43:14] tridimensionais. Sacou? E se você faz isso, você não usa todo o potencial que você tem.
+[01:08:44:07 --> 01:08:46:04] Nem todo o potencial que o design...
+[01:08:48:27 --> 01:08:54:08] E é por isso que eu quis te mostrar tudo isso ao longo dessas aulas.
+[01:08:54:20 --> 01:09:02:04] Para a gente fechar, eu quero que você lembre do seguinte, o design nunca foi tão valioso.
+[01:09:03:20 --> 01:09:07:14] quanto é no mundo em que vivemos hoje.
+[01:09:07:24 --> 01:09:13:21] Não teve outro momento na história em que o design foi tão valioso quanto ele é agora.
+[01:09:14:28 --> 01:09:18:20] Se antes poucas pessoas, perdão, se antes poucas ideias
+[01:09:18:20 --> 01:09:20:10] conseguiam alcançar as pessoas,
+[01:09:20:26 --> 01:09:23:14] hoje qualquer um pode gritar por atenção.
+[01:09:24:01 --> 01:09:28:16] E isso gerou um ruído de informação difícil de escapar.
+[01:09:29:08 --> 01:09:33:01] Você já entendeu qual que é a relação do design com a mensagem.
+[01:09:33:11 --> 01:09:35:05] E agora, nas próximas aulas,
+[01:09:35:14 --> 01:09:39:02] eu vou te mostrar os fundamentos que conversam
+[01:09:39:28 --> 01:09:42:00] com a natureza humana.
+[01:09:42:06 --> 01:09:44:19] Nós vivemos numa guerra de ideias.
+[01:09:44:19 --> 01:09:50:13] E nós, designers, somos os profissionais que temos o potencial para lapidar essas ideias,
+[01:09:50:22 --> 01:09:55:18] transformar em imagens mais atraentes, imagens que conectam as pessoas, imagens que são
+[01:09:55:18 --> 01:09:59:18] mais estratégicas e que geram mais resultados.
+[01:10:00:05 --> 01:10:03:10] Então essa foi a nossa introdução ao módulo de mensagem.
+[01:10:03:20 --> 01:10:07:17] Eu espero que eu tenha conseguido compartilhar um pouquinho da minha empolgação com
+[01:10:07:17 --> 01:10:09:07] você que eu tenho com esse tema.
+[01:10:09:07 --> 01:10:15:09] E eu espero que essa pequena sementinha que eu estou plantando na sua cabeça agora floresça
+[01:10:15:09 --> 01:10:19:17] e se torne uma árvore grande, que vai te trazer muitos bons frutos.
+[01:10:19:29 --> 01:10:22:25] Então agora eu te vejo na nossa próxima aula.

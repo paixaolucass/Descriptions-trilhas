@@ -1,0 +1,174 @@
+# Video: 6._nomes_importantes_na_história_das_ias (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-22 20:22
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:03 --> 00:00:03:03] Depois de entender a história das inteligências artificiais,
+[00:00:03:05 --> 00:00:07:09] depois de entender o que são redes neurais, o que é machine learning,
+[00:00:07:16 --> 00:00:10:15] o que é deep learning, de entender os tipos de aprendizado,
+[00:00:10:15 --> 00:00:17:00] entender o que é um perceptron, entender a base do que trouxe a gente até aqui
+[00:00:17:00 --> 00:00:18:26] em relação às inteligências artificiais,
+[00:00:19:01 --> 00:00:22:06] essa aula aqui serve para te dar mais referência,
+[00:00:22:07 --> 00:00:25:27] para que você continue seus estudos e não pare por aqui nesses vídeos.
+[00:00:26:05 --> 00:00:27:24] A primeira coisa que eu preciso te falar é o seguinte,
+[00:00:27:24 --> 00:00:36:08] tudo o que eu te passei aqui foram referências. Eu expandi o seu horizonte para que você encontrasse
+[00:00:36:08 --> 00:00:41:11] mais possibilidades, portas que você possa abrir. Eu gosto muito da analogia da casa de portas.
+[00:00:41:14 --> 00:00:46:22] Imagine que você entrou em uma casa de portas e aí tudo que você tem no início é uma grande porta.
+[00:00:46:29 --> 00:00:51:08] Essa grande porta foi você ter entrado nessa trilha de conteúdo aqui e ter assistido isso.
+[00:00:51:12 --> 00:00:56:23] Mas em cada aula que eu passei para você, você entrava em um cômodo que nele tinha mais 10
+[00:00:56:23 --> 00:01:01:06] 10 portas e você entrava nessa porta tinha mais 10 portas entrava em outra porta tinha mais 10
+[00:01:01:06 --> 00:01:07:17] portas ou seja o que eu te passei aqui foi uma casa de portas com vários conceitos que se você
+[00:01:07:17 --> 00:01:12:15] for inteligente agora você consegue se aprofundar inclusive usando as próprias inteligências
+[00:01:12:15 --> 00:01:17:14] artificiais se você não sabe como fazer isso assista a trilha de engenharia de prompt e lá
+[00:01:17:14 --> 00:01:22:24] eu explico inclusive como usar a IA para estudar e aprender conceitos mais profundos como eu inclusive
+[00:01:22:24 --> 00:01:24:08] estudo usando inteligência artificial.
+[00:01:24:17 --> 00:01:26:10] Vai ser uma trilha que vai te ajudar bastante.
+[00:01:26:21 --> 00:01:28:23] E aí dentro desse processo
+[00:01:28:23 --> 00:01:30:24] aqui agora, a primeira coisa
+[00:01:30:24 --> 00:01:32:20] que eu faria é, quais foram os marcos
+[00:01:32:20 --> 00:01:34:08] mais importantes das IAS? Isso agora
+[00:01:34:08 --> 00:01:36:17] é conteúdo para os nerds, é para quem
+[00:01:36:17 --> 00:01:38:11] quer se aprofundar mais no assunto
+[00:01:38:11 --> 00:01:40:21] de inteligências artificiais, sobre como
+[00:01:40:21 --> 00:01:42:20] elas funcionam. Então, como
+[00:01:42:20 --> 00:01:44:11] que um perceptron funciona exatamente?
+[00:01:44:18 --> 00:01:46:19] Como que eu crio meu próprio perceptron?
+[00:01:46:20 --> 00:01:47:29] Como que uma rede neural funciona?
+[00:01:48:24 --> 00:01:50:11] Como que funciona o
+[00:01:50:26 --> 00:01:52:08] backpropagation? Se você quiser,
+[00:01:52:08 --> 00:01:54:12] Repetindo, agora é para os nerds.
+[00:01:54:15 --> 00:01:56:22] Quer se aprofundar? Quer entender mais sobre isso?
+[00:01:56:25 --> 00:01:58:03] Eu te dei as portas.
+[00:01:58:08 --> 00:02:00:16] Então, você pode estudar sobre backpropagation,
+[00:02:00:18 --> 00:02:01:29] pode estudar sobre machine learning,
+[00:02:02:04 --> 00:02:05:18] pode estudar sobre o processo de machine learning,
+[00:02:05:19 --> 00:02:08:26] que inclui vários conceitos, como o próprio conceito de épocas também.
+[00:02:09:09 --> 00:02:12:20] Pode estudar sobre redes neurais,
+[00:02:12:23 --> 00:02:14:08] pode estudar sobre deep learning,
+[00:02:14:16 --> 00:02:16:19] pode entender melhor sobre os tipos de ar.
+[00:02:16:20 --> 00:02:17:25] Eu te dei acesso ao Hugging Face,
+[00:02:17:28 --> 00:02:19:27] você pode estudar lá sobre os tipos de ar que existem,
+[00:02:20:00 --> 00:02:21:18] tem muita coisa para aprender ali dentro.
+[00:02:21:18 --> 00:02:26:03] eu passo horas, às vezes, ali dentro, só buscando modelos para poder fazer fine-tuning.
+[00:02:26:12 --> 00:02:30:12] Então, você pode também, a partir disso, ter um aprendizado muito grande.
+[00:02:30:17 --> 00:02:34:12] Você pode ter um aprendizado grande também a partir dos livros da Overlens
+[00:02:34:12 --> 00:02:37:03] em relação à inteligência artificial na biblioteca da Overlens.
+[00:02:37:20 --> 00:02:39:11] Dependendo do momento em que você está assistindo isso,
+[00:02:39:13 --> 00:02:42:05] já existe uma categoria inteira de livros sobre inteligência artificial
+[00:02:42:05 --> 00:02:44:02] e lá você pode aprender muito mais sobre isso,
+[00:02:44:03 --> 00:02:46:23] inclusive livros como o livro do Nick Bostrom,
+[00:02:46:25 --> 00:02:49:18] que foi o que eu citei aqui em algumas aulas, que é o Super Inteligência.
+[00:02:49:18 --> 00:02:53:11] Existem muitos outros lá que você pode buscar dentro da biblioteca.
+[00:02:53:12 --> 00:02:56:21] Mas agora, para que a gente finalize aqui essa trilha,
+[00:02:56:23 --> 00:03:02:08] eu quero apresentar para vocês referências de grandes nomes na história da inteligência artificial
+[00:03:02:08 --> 00:03:09:25] que você pode pesquisar sobre eles e você vai aprender muito com o que eles já colaboraram para a humanidade.
+[00:03:10:00 --> 00:03:12:09] Inclusive, tem cara aqui que ganhou o Premier Prize,
+[00:03:12:19 --> 00:03:18:06] tem caras aqui que iniciaram o conceito de inteligência artificial,
+[00:03:18:06 --> 00:03:22:20] pessoas que quebraram paradigmas e que nos permitiram hoje ter as tecnologias que nós temos.
+[00:03:22:28 --> 00:03:28:17] Então, pessoas que também ganharam prêmio Nobel aqui dentro, então tem caras incríveis aqui.
+[00:03:28:26 --> 00:03:36:17] Não deu, é uma lista extensa para eu colocar muitos caras, então eu resumi aqui alguns para que você comece a sua busca,
+[00:03:36:21 --> 00:03:41:28] mas a partir desses nomes eles já vão te levar para outros nomes e isso aqui é uma ramificação infinita.
+[00:03:42:00 --> 00:03:46:13] Então você estuda no seu tempo, eu quero só te dar a casa de portas para que você possa explorar.
+[00:03:46:13 --> 00:03:51:11] Então vamos lá, vou colocar aqui, inclusive vou colocar a minha bolinha aqui.
+[00:03:53:08 --> 00:03:54:11] Aí não pega em nenhum.
+[00:03:54:19 --> 00:03:55:20] E vou também...
+[00:03:55:20 --> 00:03:55:26] Opa!
+[00:03:57:03 --> 00:03:57:27] Colocar assim para a gente.
+[00:03:59:23 --> 00:04:05:25] Então, maravilha. Do que a gente tampou ali, né, no final, mas tudo bem, depois eu tiro, coloco pra cá assim, ó.
+[00:04:09:17 --> 00:04:12:07] Então, vamos lá. O primeiro deles que eu quis citar aqui foi o Alan Turing.
+[00:04:12:12 --> 00:04:17:28] A gente falou do teste de Turing também, 1950, criou o conceito de máquina de Turing
+[00:04:17:28 --> 00:04:20:02] e propôs o teste de Turing para avaliar a inteligência artificial.
+[00:04:20:06 --> 00:04:25:00] Como eu disse para vocês, isso aqui impactou o mundo como um todo e até hoje esse conceito é utilizado.
+[00:04:25:10 --> 00:04:29:02] Depois nós temos John McCurdy, que cunhou o termo inteligência artificial.
+[00:04:29:07 --> 00:04:32:00] Então, John McCurdy que cunhou esse termo, né?
+[00:04:32:02 --> 00:04:37:13] E, poxa, se hoje a gente fala em inteligência artificial, foi por causa desse cara ter usado esse termo lá atrás.
+[00:04:38:03 --> 00:04:45:07] Marvin Minsky, aqui, olha, se vocês estão vendo, são dois caras que participaram lá da primeira conferência de inteligência artificial do mundo,
+[00:04:45:11 --> 00:04:47:00] pelo menos a primeira registrada, né?
+[00:04:47:16 --> 00:04:52:13] Fundador do MIT AI Lab, trabalhou em redes neurais e modelagem da mente humana.
+[00:04:53:22 --> 00:04:57:24] Frank Rosenblatt, pô, não precisa nem falar, foi o cara que desenvolveu os perceptrons,
+[00:04:57:28 --> 00:05:00:07] um dos primeiros modelos de rede neural artificial.
+[00:05:01:06 --> 00:05:05:21] Geoffrey Hinton, pioneiro das redes, esse cara aqui é foda pra caramba, tá?
+[00:05:05:23 --> 00:05:10:09] Esse cara aqui, inclusive, se eu não me engano, foi ele que ganhou o prêmio Price recentemente,
+[00:05:10:24 --> 00:05:13:01] pelas contribuições dele em relação a Deep Learning.
+[00:05:13:11 --> 00:05:17:00] E também em relação às redes neurais, ele já tá nesse campo aqui há décadas.
+[00:05:17:15 --> 00:05:19:19] Ajudou a popularizar o uso de backpropagation.
+[00:05:19:19 --> 00:05:25:24] Ian Lee Kahn, criador das redes neurais convolucionais, que eu falei com vocês, são as CNNs, focadas
+[00:05:25:24 --> 00:05:29:19] em visão computacional, fundamentais para visão computacional e reconhecimento de imagem.
+[00:05:30:21 --> 00:05:37:18] Judea Pearl, desenvolveu modelos probabilísticos e redes bayesianas essenciais para IA baseada
+[00:05:37:18 --> 00:05:38:26] em inferência estatística.
+[00:05:39:09 --> 00:05:42:25] Stuart Russell, o Stuart Russell tem um livro muito bom, que é a Inteligência Artificial
+[00:05:42:25 --> 00:05:47:27] a Nosso Favor, que é uma resposta inclusive um pouco mais positiva ao livro do Nick Bostrom,
+[00:05:47:27 --> 00:05:49:05] que é o Super Inteligência.
+[00:05:49:16 --> 00:05:50:16] Qual autor do livro?
+[00:05:50:19 --> 00:05:52:25] Artificial Intelligence, A Modern Approach,
+[00:05:52:26 --> 00:05:54:10] então uma abordagem moderna,
+[00:05:54:24 --> 00:05:55:22] referência no ensino de A.
+[00:05:55:25 --> 00:05:58:10] E também escreveu o livro que eu falei aqui para vocês agora,
+[00:05:58:13 --> 00:05:59:24] que é a Inteligência Artificial a Nosso Favor.
+[00:06:00:09 --> 00:06:02:15] Elon Musk e Sam Altman, muita gente não sabe,
+[00:06:02:17 --> 00:06:04:07] mas Elon Musk é cofundador da OpenAI,
+[00:06:04:09 --> 00:06:05:22] ele ajudou a criar o ChatGPT,
+[00:06:05:25 --> 00:06:07:28] mas depois saiu de lá e hoje ele criou,
+[00:06:08:02 --> 00:06:09:21] hoje atualmente ele tem o GROK,
+[00:06:10:10 --> 00:06:13:07] que é a IA baseada, inclusive, no UX,
+[00:06:13:13 --> 00:06:15:19] que é o falecido Twitter.
+[00:06:17:01 --> 00:06:18:28] impulsionaram modelos como GPT e DALL-E.
+[00:06:19:18 --> 00:06:25:19] Fei-Fei Li, criadora do Imaginete, que revolucionou o aprendizado de máquina para reconhecimento de imagens.
+[00:06:25:23 --> 00:06:28:01] Então, esses aqui são grandes nomes da história da IA.
+[00:06:28:05 --> 00:06:30:28] Se quiserem entender um pouco mais sobre essa história, é legal.
+[00:06:31:03 --> 00:06:37:22] Só que agora eu quero trazer nomes que talvez vocês queiram estudar mais o que eles estão criando.
+[00:06:37:26 --> 00:06:40:02] Então, o primeiro é o Nick Bostrom, que eu já falei.
+[00:06:40:02 --> 00:06:42:03] filósofo e autor do Superintelligence
+[00:06:42:24 --> 00:06:43:21] levantou preocupações
+[00:06:43:21 --> 00:06:46:00] sobre IA, superar a inteligência
+[00:06:46:00 --> 00:06:47:27] humana e possíveis riscos
+[00:06:47:27 --> 00:06:49:23] e aí teria que colocar, como é
+[00:06:49:23 --> 00:06:51:21] que Bostrom teria que ter aqui, possíveis riscos
+[00:06:52:10 --> 00:06:52:24] existenciais.
+[00:06:54:13 --> 00:06:55:10] Eliezer Woodkoski,
+[00:06:55:24 --> 00:06:57:25] pesquisador da Machine Intelligence Research
+[00:06:57:25 --> 00:06:59:26] Institute, defende
+[00:06:59:26 --> 00:07:01:22] alinhamento e controle rigoroso da IA. Então é outro
+[00:07:01:22 --> 00:07:03:20] cara que tem argumentos
+[00:07:03:20 --> 00:07:05:10] interessantes sobre o perigo das IAs.
+[00:07:05:16 --> 00:07:07:27] Aí de novo aqui Stuart Russell, que eu já tinha falado,
+[00:07:07:28 --> 00:07:09:25] Geoffrey Hinton, também já tinha falado,
+[00:07:09:25 --> 00:07:11:00] que é o cara que ganhou o Premier Prize.
+[00:07:12:10 --> 00:07:22:02] Max Tegmark, eu já falei dele em outros pontos também, autor do livro Life 3.0, né, Life 3.0, discute cenários do futuro da IA e o impacto da humanidade.
+[00:07:22:15 --> 00:07:33:15] E o Valnoa Harari, também já citei ele aqui em outros momentos, que é um historiador, escreveu Homo Deus, escreveu Sapiens, recentemente escreveu Nexus também, analisa como a IA pode mudar poder, economia e sociedade.
+[00:07:34:04 --> 00:07:40:28] Gary Marcos, crítico das promessas exageradas do Deep Learning, argumenta que a IA precisa de um raciocínio mais humano e híbrido.
+[00:07:41:15 --> 00:07:43:11] Sen Altman, já falei pra vocês antes.
+[00:07:44:00 --> 00:07:47:22] Demis Hassabis, líder da DeepMind, que eu falei aqui pra vocês,
+[00:07:47:25 --> 00:07:53:12] uma empresa inglesa que o Google é dono dela atualmente.
+[00:07:53:14 --> 00:07:56:16] Inclusive tem muita pesquisa legal do DeepMind, vale a pena pesquisar no Google aí.
+[00:07:57:09 --> 00:07:59:19] Destaque a importância de uma IA alinhada a valores humanos.
+[00:08:00:01 --> 00:08:03:14] Elon Musk, co-fundador da OpenAI, tem alertado sobre a descontrolada.
+[00:08:03:18 --> 00:08:05:02] E agora ele tem o GROK também.
+[00:08:05:02 --> 00:08:20:11] E Timnit Jebru, ex-Google AI Ethnics, que é legal também avaliar sobre o uso ético da AI e sobre os impactos disso no nosso futuro, denunciou o Viesem IA e Defende IA Justa, que são interessantes vocês buscarem mais sobre eles.
+[00:08:20:11 --> 00:08:27:05] Tem muitos outros nomes também, eu posso ver aqui para a gente manter atualizada a descrição dessa aula, vocês podem consultar em relação a ela.
+[00:08:27:06 --> 00:08:35:13] Vamos colocar aqui também o perfil deles e algumas das realizações deles para vocês também, porque aí vocês conseguem continuar acompanhando aqui.
+[00:08:35:22 --> 00:08:42:00] Inclusive, a gente sempre recebe na nova plataforma, dependendo do momento que você está vendo esse vídeo, já tem essa funcionalidade,
+[00:08:42:01 --> 00:08:46:02] onde você pode sugerir ideias de vídeos, ideias de livros, ideias de materiais.
+[00:08:46:02 --> 00:08:52:04] A gente recebe essas sugestões e, a partir delas, pode ser que a gente atualize essas páginas aqui também,
+[00:08:52:07 --> 00:08:55:18] mas você pode deixar nos comentários, a gente vai atualizando com o tempo, beleza?
+[00:08:56:03 --> 00:09:00:16] Com isso, você já tem aqui várias portas para abrir, várias portas para entrar,
+[00:09:01:02 --> 00:09:03:08] caminhos para continuar os seus estudos com a IA.
+[00:09:03:18 --> 00:09:06:27] Essa trilha aqui de inteligência artificial, guia para criativos,
+[00:09:07:18 --> 00:09:10:27] teve o objetivo de te mostrar alguns dos pilares em relação às inteligências artificiais,
+[00:09:11:00 --> 00:09:12:26] como elas funcionam, de onde elas surgiram.
+[00:09:13:00 --> 00:09:15:03] É claro que existe muito para estudar.
+[00:09:15:16 --> 00:09:17:21] Inclusive o que acontece antes de 1940
+[00:09:17:21 --> 00:09:19:24] Como que a gente chegou nos computadores
+[00:09:19:24 --> 00:09:22:03] Mas isso aí é papo pra uma outra hora
+[00:09:22:03 --> 00:09:23:17] Se você estiver interessado, inclusive
+[00:09:23:17 --> 00:09:25:18] Pede pra gente aqui e no momento certo
+[00:09:25:18 --> 00:09:27:01] A gente traz esse conteúdo pra vocês
+[00:09:27:01 --> 00:09:29:15] Se é que esse conteúdo já não exista aqui dentro
+[00:09:29:15 --> 00:09:31:15] Ok? Então, muito obrigado
+[00:09:31:15 --> 00:09:33:24] Pela sua participação aqui, deixe seu comentário aqui embaixo
+[00:09:33:24 --> 00:09:35:16] Do que você achou dessa trilha e desse conteúdo
+[00:09:35:16 --> 00:09:37:19] E a gente se vê nas próximas aulas
+[00:09:37:19 --> 00:09:38:06] Tchau, tchau

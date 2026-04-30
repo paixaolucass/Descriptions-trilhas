@@ -1,0 +1,1200 @@
+# Video: 1._introdução_aos_fundamentos_da_composição_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-29 10:05
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:01 --> 00:00:07:12] Começamos o primeiro episódio do módulo de composição e nesse episódio aqui eu quero dar um panorama geral para vocês
+[00:00:07:12 --> 00:00:13:12] sobre como nós, seres humanos, temos a propensão de querer organizar, alinhar os elementos,
+[00:00:13:22 --> 00:00:18:10] tornar esses elementos mais claros, como que o nosso cérebro anseia por isso
+[00:00:18:10 --> 00:00:25:01] e faz com que naturalmente nós busquemos informações que estão mais organizadas e posicionadas.
+[00:00:25:01 --> 00:00:31:23] E aqui eu vou mostrar para vocês ao longo da história como que nós seres humanos trabalhamos as composições,
+[00:00:31:24 --> 00:00:34:17] como que nós fizemos isso ao longo do tempo.
+[00:00:34:24 --> 00:00:39:04] Tem algumas informações importantes que nós vamos precisar recapitular aqui de outras aulas,
+[00:00:39:07 --> 00:00:44:00] então vamos começar isso daqui com tudo, sem mais delongas.
+[00:00:44:16 --> 00:00:48:21] Primeira coisa importante para a gente responder aqui, já que é uma aula de introdução à composição,
+[00:00:48:21 --> 00:00:50:24] é o que é uma composição.
+[00:00:50:24 --> 00:01:03:27] E existem alguns sinônimos, algumas palavras que nós podemos substituir aqui, que contemplam muito bem a palavra composição, que é, por exemplo, uma configuração, uma organização ou uma combinação de elementos.
+[00:01:04:10 --> 00:01:13:04] Compor significa pegar pequenas partes e juntar essas partes para criar um todo maior e trazer um novo sentido para elas.
+[00:01:13:04 --> 00:01:18:19] Quando você compõe elementos, você está fazendo isso de tal forma que você chegue em um novo resultado.
+[00:01:18:27 --> 00:01:22:03] A mais B mais C igual a D, por exemplo.
+[00:01:22:12 --> 00:01:28:28] E eu gosto sempre de fazer uma comparação com outros universos.
+[00:01:28:28 --> 00:01:34:28] Se a gente pega a composição, por exemplo, nós podemos pensar no mundo da música ou no mundo da química.
+[00:01:35:04 --> 00:01:38:09] Quando eu falo para vocês que eu vou compor uma música, o que vocês pensam?
+[00:01:38:09 --> 00:01:44:09] porque eu vou juntar uma série de notas e acordes num tempo específico, com um ritmo específico,
+[00:01:44:09 --> 00:01:47:29] com as pausas específicas, para fazer uma canção única.
+[00:01:48:00 --> 00:01:52:18] Uma canção não, uma música única a partir dessas notas.
+[00:01:52:19 --> 00:01:56:27] Então, compor é juntar várias notas e formar uma melodia.
+[00:01:56:28 --> 00:02:00:24] Na química, a gente pode falar da composição dos elementos químicos
+[00:02:00:24 --> 00:02:03:29] para formar moléculas e estruturas diferentes.
+[00:02:04:13 --> 00:02:07:16] Então, compor é juntar pequenas partes.
+[00:02:08:09 --> 00:02:13:06] E eu gosto sempre de relacionar esses universos porque fica fácil de a gente entender.
+[00:02:13:18 --> 00:02:17:21] Em essência, não tem nada de complicado em entender o que é uma composição.
+[00:02:17:22 --> 00:02:21:00] A grande questão é como criar uma composição harmônica,
+[00:02:21:01 --> 00:02:26:29] como criar uma composição que o meu cérebro julga como boa, como eficiente.
+[00:02:26:29 --> 00:02:29:19] É sobre isso que a gente vai falar aqui, tá?
+[00:02:29:24 --> 00:02:36:00] E aí, olha que interessante, a gente tem o que já foi chamado de vários nomes, né?
+[00:02:36:00 --> 00:02:40:25] por exemplo, molécula do design, que é a composição dos fundamentos.
+[00:02:40:27 --> 00:02:45:21] Então, se composição é a junção das menores partes, no design visual,
+[00:02:46:27 --> 00:02:52:22] uma composição é a junção de formas e cores para construir uma mensagem.
+[00:02:53:00 --> 00:02:57:13] Esses são os quatro fundamentos do design, já falamos disso em outros episódios,
+[00:02:57:15 --> 00:03:01:07] e nós entendemos que todos os fundamentos são subordinados da mensagem.
+[00:03:01:07 --> 00:03:08:22] Então, estudamos as formas, entendemos as partes das formas, como trabalhar as formas para transmitir uma mensagem.
+[00:03:08:24 --> 00:03:14:07] Também já estudamos as cores, entendemos como trabalhar as cores para conduzir a percepção das pessoas.
+[00:03:14:16 --> 00:03:21:09] Aqui, agora, nós vamos começar a entender como construir composições, ou seja, formas e cores,
+[00:03:22:00 --> 00:03:27:02] somar formas e cores em um determinado espaço para construir uma mensagem.
+[00:03:27:02 --> 00:03:31:00] o nosso objetivo final sempre vai ser transmitir uma mensagem.
+[00:03:31:01 --> 00:03:36:13] Um design que não tem uma mensagem, ele não é eficiente, falando de design gráfico.
+[00:03:36:13 --> 00:03:40:23] Ele precisa ter a função do design gráfico, a função do design visual,
+[00:03:40:27 --> 00:03:45:21] é transmitir uma mensagem, é despertar nas pessoas uma determinada emoção,
+[00:03:45:22 --> 00:03:48:22] fazer com que elas desejem aquele produto,
+[00:03:48:28 --> 00:03:52:05] ou até mesmo fazer com que elas não desejem aquele produto,
+[00:03:52:12 --> 00:03:55:26] caso você queira repelir algum tipo de público ou coisa do tipo.
+[00:03:55:26 --> 00:04:12:00] Então, a composição basicamente é isso, é juntar formas e aí é legal a gente lembrar que dentro das formas nós temos não só desenhos, ícones, mas também a tipografia, que é um tipo de forma específica e muito importante que nós vamos falar bastante nesse módulo.
+[00:04:12:00 --> 00:04:21:09] Então, hierarquia tipográfica, diagramação de texto, são elementos que estão dentro da composição e que nós temos que ficar de olho.
+[00:04:21:13 --> 00:04:27:12] Muitos designers pecam nessa parte e nós ainda vamos falar bastante sobre isso ao longo das próximas aulas.
+[00:04:27:16 --> 00:04:33:01] Então, dentro de forma, nós também temos as letras, os ícones, grafismos, tudo que é uma forma.
+[00:04:33:07 --> 00:04:35:15] Letras são símbolos, portanto, são formas.
+[00:04:35:15 --> 00:04:51:10] E também as cores e tudo que rege as características das cores, como usar as cores para conduzir a percepção das pessoas e juntar elas com as formas para que você tenha uma composição coerente, que transmita a percepção que você quer transmitir.
+[00:04:51:10 --> 00:04:59:09] Ok? E aí, para começar aqui com tudo, eu tenho uma frase que eu quero compartilhar com vocês para que vocês comecem a conectar os pontos.
+[00:04:59:19 --> 00:05:05:10] Nós temos uma frase clássica, né? Um monte de episódio essa frase já apareceu, que é tudo é relativo, design é relação.
+[00:05:05:16 --> 00:05:11:08] Paul Hand, já falei muito dessa frase e está na hora de eu começar a trazer alguns conteúdos diferentes para vocês,
+[00:05:11:13 --> 00:05:18:06] para fixar ainda mais o que eu quero dizer com relação, o que eu quero dizer com a forma como o nosso cérebro funciona
+[00:05:18:06 --> 00:05:23:29] como funciona e como que você pode usar informações de um outro campo para poder entender o seu campo
+[00:05:23:29 --> 00:05:29:06] como assim Juan vamos dar uma olhada aqui nessa frase você vai entender olha só Rudolf Arjen um
+[00:05:29:06 --> 00:05:36:13] dos maiores estudiosos aí das formas e composições tá ele fala o seguinte os mesmos princípios atuam
+[00:05:36:13 --> 00:05:45:06] em todas as várias capacidades mentais porque a mente sempre funciona como um todo toda percepção
+[00:05:45:06 --> 00:05:47:07] é também pensamento.
+[00:05:47:10 --> 00:05:49:09] Todo raciocínio é também
+[00:05:49:09 --> 00:05:50:07] intuição.
+[00:05:50:28 --> 00:05:52:22] Toda observação é também
+[00:05:53:12 --> 00:05:55:04] invenção. Na Revolução Industrial
+[00:05:55:04 --> 00:05:56:13] começaram a ter as
+[00:05:57:19 --> 00:05:59:00] filas de produção, né?
+[00:05:59:00 --> 00:06:01:04] Cada um é especialista em uma determinada
+[00:06:01:04 --> 00:06:02:27] área e vai fazer aquela determinada área
+[00:06:02:27 --> 00:06:05:00] pro resto da sua vida. Nós começamos a
+[00:06:05:28 --> 00:06:07:10] fragmentar as áreas
+[00:06:07:10 --> 00:06:09:06] do conhecimento humano, as ciências
+[00:06:09:06 --> 00:06:11:14] e cada um começou a estudar a sua área específica
+[00:06:11:14 --> 00:06:12:27] e nós começamos a nos tornar
+[00:06:12:27 --> 00:06:14:23] especialistas. Só que
+[00:06:14:23 --> 00:06:20:11] que hoje, mais do que nunca, nós percebemos que separar a matemática de geometria,
+[00:06:20:11 --> 00:06:24:21] geometria das línguas, dos idiomas, do português, da história,
+[00:06:24:25 --> 00:06:29:15] separar as coisas, por mais que nos ajude a conseguir muita informação,
+[00:06:29:25 --> 00:06:32:02] também traz um lado negativo,
+[00:06:32:04 --> 00:06:37:10] que faz com que nós não estudemos o mundo da maneira como ele funciona,
+[00:06:37:18 --> 00:06:38:15] que é como um todo.
+[00:06:38:22 --> 00:06:41:28] É por isso que as maiores conclusões, grandes conclusões,
+[00:06:41:28 --> 00:06:45:03] vieram de pessoas que estudaram várias áreas diferentes.
+[00:06:46:06 --> 00:06:48:18] Pessoas que não ficaram presas em uma única área,
+[00:06:48:20 --> 00:06:51:04] mas começaram a construir um repertório vasto,
+[00:06:51:04 --> 00:06:53:01] um tanto quanto generalista.
+[00:06:53:04 --> 00:06:55:18] Um grande exemplo disso foi Charles Darwin,
+[00:06:56:08 --> 00:06:57:28] que estudou várias áreas diferentes.
+[00:06:58:01 --> 00:07:01:00] Ele estudava biologia, mas estudava geologia também.
+[00:07:01:15 --> 00:07:04:27] Então, ele fez um livro só sobre orquídeas.
+[00:07:04:29 --> 00:07:07:15] Teve um período da época dele que ele estudou só minhocas,
+[00:07:07:16 --> 00:07:09:16] mas ele estudou várias áreas diferentes
+[00:07:09:16 --> 00:07:11:22] e isso ajudou ele a chegar em uma conclusão.
+[00:07:11:28 --> 00:07:14:19] Porque o mundo não é linear como nós pensamos.
+[00:07:14:21 --> 00:07:17:03] Ele é cíclico, uma coisa conectada na outra.
+[00:07:17:08 --> 00:07:20:13] E é isso que o Rudolf Jahn quer dizer aqui para a gente.
+[00:07:20:15 --> 00:07:24:03] Olha só, a mente sempre funciona como um todo.
+[00:07:24:10 --> 00:07:27:17] Os mesmos princípios atuam em todas as várias capacidades mentais.
+[00:07:27:24 --> 00:07:30:12] Então, o que ele quer dizer aqui que a gente pode trazer para a composição?
+[00:07:30:13 --> 00:07:34:09] Os mesmos princípios que funcionam com as formas vão funcionar com as cores,
+[00:07:34:12 --> 00:07:37:25] vão funcionar com as composições, vão funcionar com as palavras.
+[00:07:38:04 --> 00:07:40:25] Por quê? Porque a mente funciona como um todo.
+[00:07:40:25 --> 00:07:43:16] Ela funciona de um jeito único e conectado.
+[00:07:43:19 --> 00:07:45:18] Não tem como você separar.
+[00:07:45:18 --> 00:07:49:00] Como que a mente funciona na hora de identificar uma forma?
+[00:07:49:04 --> 00:07:50:21] Ela separa a forma de cor?
+[00:07:50:24 --> 00:07:52:13] É um emaranhado de coisas.
+[00:07:52:15 --> 00:07:55:24] É uma complexidade que acontece ao mesmo tempo.
+[00:07:55:24 --> 00:07:57:29] Em milésimos de segundos.
+[00:07:58:13 --> 00:08:01:06] Então, entender isso é muito importante.
+[00:08:01:12 --> 00:08:06:15] Porque quando nós falamos de composição, inclusive, nós estamos falando exatamente do todo.
+[00:08:07:00 --> 00:08:08:06] Da gestalt.
+[00:08:08:10 --> 00:08:10:08] Da soma de todas as partes.
+[00:08:10:08 --> 00:08:16:04] E por falar em Gestalt, nós precisamos rever alguns conceitos importantes em relação a ela, tá?
+[00:08:16:07 --> 00:08:20:06] Primeiro conceito importante, se você já assistiu as aulas, você sabe o que eu quero dizer,
+[00:08:20:09 --> 00:08:23:13] são esses três caras aqui e a teoria da Gestalt.
+[00:08:23:18 --> 00:08:27:07] Então, a gente tem Max Wertheimer, Kurt Kofka e Wolfgang Keller.
+[00:08:28:00 --> 00:08:32:22] Wolfgang Keller e Kurt Kofka eram alunos do Wertheimer
+[00:08:32:22 --> 00:08:38:24] e eles continuaram a pesquisa deles sobre a Gestalt, que é a teoria das formas, tá?
+[00:08:38:24 --> 00:08:43:11] Isso daqui não necessariamente tem a ver com as terapias de Gestalt,
+[00:08:43:13 --> 00:08:45:09] que também pega emprestado alguns conceitos daqui,
+[00:08:45:12 --> 00:08:47:06] mas não tem a ver com as terapias de Gestalt,
+[00:08:47:06 --> 00:08:50:11] tem a ver com a Gestalt das formas, a psicologia das formas
+[00:08:50:11 --> 00:08:55:24] e como que as formas transmitem, influenciam a nossa percepção de mundo.
+[00:08:56:03 --> 00:09:00:01] E alguns conceitos importantes que nós podemos trazer deles aqui são,
+[00:09:00:04 --> 00:09:03:18] primeiro, como o cérebro interpreta as formas e o espaço.
+[00:09:03:27 --> 00:09:06:16] Então, nós já falamos disso na aula sobre a psicologia das cores.
+[00:09:06:21 --> 00:09:07:18] Não sei se você vai lembrar.
+[00:09:08:03 --> 00:09:11:29] Primeiro a gente recebe a luz, o nosso olho não interpreta nada,
+[00:09:12:05 --> 00:09:15:19] ele só recebe, bate na retina, passa do nervo óptico, vai lá,
+[00:09:15:20 --> 00:09:20:10] que asma óptica, radiação óptica, e vai para lá atrás no lobo occipital.
+[00:09:20:14 --> 00:09:26:18] E aí no lobo occipital ele começa a interpretar e organizar as informações.
+[00:09:26:22 --> 00:09:29:05] Então quem enxerga mesmo é o seu cérebro.
+[00:09:29:07 --> 00:09:32:04] O seu olho só traduz, ele é um tradutor de...
+[00:09:32:04 --> 00:09:34:16] Ele transforma luz em sinal elétrico.
+[00:09:34:20 --> 00:09:36:11] É isso que o seu olho faz.
+[00:09:36:11 --> 00:09:41:25] Ele pega a luz, recebe, transforma essa luz em sinal elétrico e envia ela para o cérebro.
+[00:09:41:26 --> 00:09:43:28] Quem enxerga mesmo é o nosso cérebro, certo?
+[00:09:44:09 --> 00:09:48:15] Então, aqui do lobo occipital, nós temos várias partes dele no módulo de cores.
+[00:09:50:07 --> 00:09:53:21] Eu apresentei para vocês essas partes do lobo occipital,
+[00:09:53:25 --> 00:09:58:16] um pedacinho que é mais responsável pelas cores, mais responsável pelas formas,
+[00:09:58:23 --> 00:10:00:10] mais responsável pela organização.
+[00:10:01:19 --> 00:10:03:21] Lembrando só que tudo funciona como um todo,
+[00:10:03:21 --> 00:10:07:24] isso ali é só didático para a gente entender mais ou menos para onde esses sinais elétricos são enviados.
+[00:10:08:01 --> 00:10:12:01] Depois do lobo occipital aqui, ele começa a organizar, ele envia uma parte para cima,
+[00:10:12:09 --> 00:10:16:24] outra parte ele envia aqui para baixo, outra parte ele envia aqui para o meio,
+[00:10:16:27 --> 00:10:23:27] para a questão de linguagem, de comunicação, outra parte é para identificar o espaço onde nós estamos,
+[00:10:23:28 --> 00:10:29:24] uma parte também do que o olho recebe vai lá para o sistema límbico, para a produção de hormônios,
+[00:10:29:24 --> 00:10:31:14] aquela coisa toda lá. E aí nós
+[00:10:31:14 --> 00:10:33:25] interpretamos e organizamos e por fim
+[00:10:33:25 --> 00:10:35:08] damos significado.
+[00:10:35:18 --> 00:10:37:18] Entender essa sequência é muito importante
+[00:10:38:02 --> 00:10:38:16] porque
+[00:10:39:16 --> 00:10:41:24] existe uma tradução, existe um processo
+[00:10:41:24 --> 00:10:43:18] aqui. Então o nosso olho
+[00:10:43:18 --> 00:10:45:27] recebe, o nosso cérebro interpreta
+[00:10:45:27 --> 00:10:47:19] depois de interpretar que ele
+[00:10:47:19 --> 00:10:49:06] organiza e dá significado.
+[00:10:49:12 --> 00:10:51:21] E essas duas etapas aqui, eu vou até
+[00:10:51:21 --> 00:10:53:20] tirar isso aqui para facilitar, são muito
+[00:10:53:20 --> 00:10:55:22] importantes e tem tudo a ver aqui agora
+[00:10:55:22 --> 00:10:57:10] com as composições.
+[00:10:57:20 --> 00:10:58:04] Porque
+[00:10:58:04 --> 00:10:58:12] Porque...
+[00:10:59:22 --> 00:11:02:23] Quando uma composição é muito organizada,
+[00:11:02:23 --> 00:11:05:11] guarda isso aqui, nós vamos falar muito disso nas próximas aulas.
+[00:11:05:20 --> 00:11:08:16] Quando uma composição é organizada,
+[00:11:09:26 --> 00:11:13:06] ela facilita para o cérebro interpretá-la.
+[00:11:15:08 --> 00:11:18:11] E facilita para o cérebro dar significado.
+[00:11:18:20 --> 00:11:21:28] Porque essa etapa aqui acontece mais rápido.
+[00:11:22:10 --> 00:11:26:01] Agora, quando nós temos uma composição bagunçada, caótica,
+[00:11:26:02 --> 00:11:29:17] o nosso cérebro gasta mais energia aqui.
+[00:11:29:20 --> 00:11:35:04] Então, é mais glicose sendo consumida aqui antes de você dar significado.
+[00:11:35:10 --> 00:11:39:29] É por isso que coisas que são muito confusas nos afastam.
+[00:11:40:04 --> 00:11:44:03] Não sei se vocês já sentiram isso, mas às vezes você vai ler um livro
+[00:11:44:03 --> 00:11:46:17] E você não tem vontade nenhuma de ler o livro,
+[00:11:46:19 --> 00:11:50:05] porque a própria diagramação do livro é confusa, parece um livro chato.
+[00:11:50:13 --> 00:11:54:22] Em compensação, tem outros livros que você abre, os parágrafos estão bem organizados,
+[00:11:54:24 --> 00:11:58:20] a entrelinha tem um espaço generoso, você tem uma margem generosa,
+[00:11:58:21 --> 00:12:04:16] e o texto te puxa, ele te convida para ler, ele é quase que difícil de recusar a leitura.
+[00:12:04:19 --> 00:12:08:14] Por quê? Porque a composição está clara e organizada.
+[00:12:08:19 --> 00:12:11:19] Você bate o olho e já organiza rápido.
+[00:12:11:26 --> 00:12:13:23] E aí falta o quê? Dar significado.
+[00:12:14:03 --> 00:12:18:22] Como nós estamos falando de palavras aqui, para dar significado a uma palavra, você precisa lê-la.
+[00:12:19:11 --> 00:12:23:02] Agora, quando nós falamos de imagens, se você tem uma imagem muito confusa,
+[00:12:23:02 --> 00:12:25:17] o seu cérebro primeiro precisa interpretar e organizar aquilo.
+[00:12:25:25 --> 00:12:31:05] E às vezes, muitas das vezes, o nosso cérebro foge disso, porque ele quer poupar energia.
+[00:12:31:14 --> 00:12:35:22] Se ele quer poupar energia, ele vai, ah, não quero saber disso, vou ter que pensar,
+[00:12:35:26 --> 00:12:37:23] começa a gerar uma preguiça na nossa cabeça.
+[00:12:38:16 --> 00:12:43:10] Agora, se a composição é organizada, não gera essa preguiça, porque é claro, você percebe rápido.
+[00:12:43:10 --> 00:12:51:27] Isso ajuda você a memorizar mais a composição, ajuda a composição a impactar mais você e transmitir a mensagem com mais eficiência.
+[00:12:52:04 --> 00:12:54:07] Então, isso daqui é o princípio básico.
+[00:12:54:08 --> 00:12:57:07] Entender isso daqui é a base para criar uma boa composição.
+[00:12:57:08 --> 00:13:04:04] Porque você entende o seguinte, se eu quero que a minha composição seja memorável, se eu quero que a minha composição seja atrativa,
+[00:13:04:26 --> 00:13:07:10] isso aqui é o que significa ser harmônico no final das contas.
+[00:13:07:10 --> 00:13:12:00] Então, você precisa ter uma composição organizada, clara, fácil de interpretar e organizar
+[00:13:12:00 --> 00:13:15:18] para aí sim você construir um significado em cima dela.
+[00:13:15:24 --> 00:13:17:07] E isso daqui não veio do nada.
+[00:13:17:17 --> 00:13:22:25] Quem estudou, os primeiros a estudarem isso foram as três figuras que eu mostrei ali para vocês,
+[00:13:22:28 --> 00:13:27:06] Wertheimer, Kofka e Keller, que começaram a teoria da Gestalt.
+[00:13:27:11 --> 00:13:31:26] E eles têm algumas premissas que eu já apresentei para vocês também, que é em relação ao nosso cérebro.
+[00:13:31:28 --> 00:13:33:11] A primeira delas é que ao receber informações,
+[00:13:33:11 --> 00:13:37:08] essas informações, o cérebro dá essas informações características que ela não possui em si
+[00:13:37:08 --> 00:13:37:15] mesma.
+[00:13:37:19 --> 00:13:43:00] Então, não é basicamente apenas o que você enxerga que é o que você interpreta.
+[00:13:43:05 --> 00:13:48:02] A sua interpretação é baseada no seu repertório, na sua experiência de mundo.
+[00:13:48:11 --> 00:13:52:27] Então, o que o seu cérebro vai dar significado em interpretar não é apenas o que ele vê,
+[00:13:52:29 --> 00:13:56:22] mas é também uma conexão com tudo que ele já viu antes.
+[00:13:56:29 --> 00:13:59:14] Então isso também é muito importante para traçar relações.
+[00:13:59:18 --> 00:14:02:01] É o primeiro princípio que a gente tem que levar em consideração aqui.
+[00:14:02:01 --> 00:14:04:26] que o que o seu cérebro interpreta não é apenas o que você vê,
+[00:14:04:29 --> 00:14:08:03] mas uma junção do que você vê, dos sinais que foram enviados,
+[00:14:08:04 --> 00:14:10:20] com todas as suas memórias e vivências.
+[00:14:11:05 --> 00:14:12:29] Conecta isso e você tem uma interpretação.
+[00:14:13:11 --> 00:14:14:24] Então, esse é o primeiro passo aqui.
+[00:14:14:26 --> 00:14:16:10] O cérebro cria relações.
+[00:14:16:17 --> 00:14:19:13] Segunda coisa que nós falamos também é que o cérebro liga os pontos.
+[00:14:19:20 --> 00:14:21:18] Então, ao atribuir essas características,
+[00:14:22:02 --> 00:14:26:26] o cérebro organiza as informações em uma configuração que faça sentido.
+[00:14:27:06 --> 00:14:28:19] Então, primeiro você interpreta.
+[00:14:28:19 --> 00:14:31:20] Depois que interpretou, você organiza isso de um jeito que faça sentido.
+[00:14:32:01 --> 00:14:34:20] É por isso que até mesmo em cenários caóticos,
+[00:14:34:21 --> 00:14:37:02] nós tendemos a encontrar alguma lógica.
+[00:14:37:02 --> 00:14:38:20] Isso é um viés cognitivo.
+[00:14:38:21 --> 00:14:42:03] O nosso cérebro gosta de encontrar lógica em tudo.
+[00:14:42:10 --> 00:14:43:17] Onde eu vi isso a primeira vez?
+[00:14:43:20 --> 00:14:45:22] No livro Rápido e Devagar, Duas Formas de Pensar.
+[00:14:45:25 --> 00:14:46:26] Um livro muito bom, gente.
+[00:14:46:27 --> 00:14:47:21] Que eu li várias vezes aqui.
+[00:14:47:23 --> 00:14:48:08] Vai de novo.
+[00:14:48:12 --> 00:14:50:01] Mais uma indicação para vocês, tá?
+[00:14:50:06 --> 00:14:52:20] Que é o viés cognitivo da lógica.
+[00:14:52:20 --> 00:14:55:04] A gente querer encontrar sentido em tudo.
+[00:14:55:05 --> 00:14:57:08] Até mesmo em coisas que não têm sentido.
+[00:14:57:16 --> 00:15:00:05] Nosso cérebro tem essa mania de conectar os pontos.
+[00:15:00:05 --> 00:15:09:01] E na composição, se você facilita esse processo para ele, então essa composição é mais eficiente, porque ela consome menos energia.
+[00:15:09:13 --> 00:15:12:02] Então esse é o segundo princípio, nós falamos sobre isso também.
+[00:15:12:23 --> 00:15:20:08] E aí é o seguinte, a V-timer defendeu a ideia de que o cérebro funciona poupando energia, assim como a natureza.
+[00:15:20:16 --> 00:15:24:09] E aí eu tenho uma imagem aqui para vocês que exemplifica isso muito bem.
+[00:15:24:09 --> 00:15:33:28] Olha só, não necessariamente nós temos aqui uma composição visual, mas fica muito claro para a gente o significado de organizado versus bagunçado.
+[00:15:34:04 --> 00:15:40:14] Se eu peço para você, por exemplo, encontrar essa blusa verde aqui, você vai ter que procurar um pouco mais.
+[00:15:40:17 --> 00:15:43:25] Será que é essa? Será que é essa? Aqui está até fácil essa verde.
+[00:15:44:08 --> 00:15:47:00] Olha só, essa daqui está aqui.
+[00:15:48:16 --> 00:15:53:13] Olha a bagunça para encontrar todas essas roupas.
+[00:15:53:13 --> 00:15:55:04] Pega essa daqui, vermelhinha aqui.
+[00:15:55:24 --> 00:15:56:17] Cadê ela aqui?
+[00:15:56:21 --> 00:15:57:13] Eu não consigo ver.
+[00:15:57:14 --> 00:15:58:22] Será que ela é essa aqui embaixo?
+[00:15:58:29 --> 00:16:00:06] Ou será que essa é essa?
+[00:16:00:13 --> 00:16:02:13] Olha o tempo que eu tenho que gastar procurando,
+[00:16:02:13 --> 00:16:05:16] porque não existe uma organização lógica.
+[00:16:05:16 --> 00:16:08:05] Está tudo jogado ao acaso aqui, uma bagunça.
+[00:16:08:08 --> 00:16:12:04] E o meu cérebro gasta mais energia para entender esse cenário,
+[00:16:12:05 --> 00:16:14:18] em compensação, do outro lado, um cenário organizado.
+[00:16:14:19 --> 00:16:17:15] É um cenário que o seu cérebro se sente mais agradável,
+[00:16:17:15 --> 00:16:19:11] mais confortável, é fácil de
+[00:16:19:11 --> 00:16:21:12] identificar, de interpretar e de dar
+[00:16:21:12 --> 00:16:22:23] significado para o que ele está vendo.
+[00:16:22:29 --> 00:16:25:12] Então, você tende a gostar, mesmo
+[00:16:25:12 --> 00:16:27:10] que inconsciente, você fala, nossa, eu sinto que
+[00:16:27:10 --> 00:16:29:08] isso daqui está mais harmônico.
+[00:16:29:11 --> 00:16:31:12] Por quê? Porque você está gastando
+[00:16:31:12 --> 00:16:33:11] menos energia para compreender o todo.
+[00:16:33:20 --> 00:16:35:12] Então, essa imagem aqui representa
+[00:16:35:12 --> 00:16:36:25] isso muito bem.
+[00:16:37:01 --> 00:16:38:28] E aí nós temos aqui, eu vou apresentar para vocês
+[00:16:38:28 --> 00:16:40:17] mais alguns princípios,
+[00:16:40:17 --> 00:16:43:08] talvez são a base, os pilares aqui da
+[00:16:43:08 --> 00:16:45:10] Gestalt, que nós vamos levar em consideração
+[00:16:45:10 --> 00:16:47:08] para aprender sobre composição, por isso que
+[00:16:47:08 --> 00:16:48:18] que está aqui na primeira aula para vocês.
+[00:16:48:24 --> 00:16:51:11] O primeiro deles, tendência à estruturação.
+[00:16:51:20 --> 00:16:55:14] Nós, seres humanos, somos muito propensos a organizar e configurar.
+[00:16:55:17 --> 00:16:58:15] Eu vou mostrar para vocês que passaram milhares de anos
+[00:16:58:15 --> 00:17:00:25] e nós continuamos com essa mesma tendência.
+[00:17:01:02 --> 00:17:04:13] Há milhares de anos atrás, essa tendência já existia e ela permaneceu.
+[00:17:04:18 --> 00:17:09:01] Nós temos a propensão de querer organizar e dar lógica para as coisas.
+[00:17:09:02 --> 00:17:10:20] É um viés cognitivo.
+[00:17:10:23 --> 00:17:11:23] Então, esse é o primeiro pilar.
+[00:17:12:19 --> 00:17:15:24] Segundo pilar, relacionado com a pregnância das formas.
+[00:17:15:28 --> 00:17:16:19] O que é pregnância?
+[00:17:16:19 --> 00:17:20:25] é a memorização da forma, o quanto que a forma se registra no seu cérebro.
+[00:17:21:15 --> 00:17:27:16] Nós percebemos mais facilmente as formas que são simples, regulares, simétricas e equilibradas.
+[00:17:27:17 --> 00:17:30:19] Por quê? Porque isso é uma tendência à lógica.
+[00:17:30:25 --> 00:17:33:18] É mais fácil de alinhar, de conectar essas formas.
+[00:17:33:24 --> 00:17:35:04] Então, também é um viés.
+[00:17:35:12 --> 00:17:40:01] O nosso cérebro tende a se comportar assim e nós precisamos levar isso em consideração.
+[00:17:40:12 --> 00:17:43:10] Terceiro pilar importante é a constância perceptiva.
+[00:17:43:28 --> 00:17:48:10] Padrões que o nosso cérebro define como regras para dar sentido ao que nós vemos.
+[00:17:48:14 --> 00:17:51:11] Nós vamos falar mais sobre essas constâncias perceptivas, tá?
+[00:17:51:16 --> 00:17:53:22] Nós teremos mais aulas a respeito disso.
+[00:17:53:26 --> 00:17:56:08] Mas aqui é importante você entender que existem padrões.
+[00:17:56:13 --> 00:18:00:10] Padrão de alinhamento, padrão de repetição, padrão de ritmo, padrão de pausa,
+[00:18:00:28 --> 00:18:02:15] espaço vazio, espaço preenchido.
+[00:18:02:17 --> 00:18:05:18] E compreender esses padrões vai te fazer criar composições
+[00:18:05:18 --> 00:18:08:09] que conversam muito melhor com o cérebro das pessoas.
+[00:18:08:20 --> 00:18:10:22] Então, esse é o terceiro pilar muito importante.
+[00:18:10:22 --> 00:18:13:24] Eu estou passando um pouquinho rápido, nós já falamos disso em outro episódio.
+[00:18:13:27 --> 00:18:16:25] Se você não assistiu, volta lá e assiste que vai ser muito massa, tá?
+[00:18:17:12 --> 00:18:19:06] Quarto pilar, transponibilidade.
+[00:18:19:25 --> 00:18:22:25] Independente da matéria, a forma sempre se sobressai.
+[00:18:23:01 --> 00:18:27:28] Esse daqui, se você não assistiu a primeira aula dos fundamentos da forma,
+[00:18:28:01 --> 00:18:29:13] você vai ficar um pouquinho bugado.
+[00:18:29:28 --> 00:18:31:13] Ou bugado. Por quê?
+[00:18:33:01 --> 00:18:37:11] Porque lá eu explico para vocês que toda forma possui duas partes.
+[00:18:37:11 --> 00:18:42:19] Uma parte da matéria e uma parte da estrutura formal dela.
+[00:18:42:29 --> 00:18:45:11] A parte da matéria é o que preenche ela.
+[00:18:45:11 --> 00:18:48:26] A gente até fala lá da madeira.
+[00:18:48:28 --> 00:18:50:02] A matéria vem de madeira.
+[00:18:50:02 --> 00:18:51:20] A madeira é o maciço, é o que preenche.
+[00:18:51:29 --> 00:18:56:24] Mas não só temos o que preenche, temos também o que dá forma para aquele objeto.
+[00:18:57:07 --> 00:18:59:20] E aqui a Gestalt está ligada com isso.
+[00:18:59:22 --> 00:19:00:24] O que ela está falando aqui?
+[00:19:01:13 --> 00:19:03:18] Independente da matéria, a forma sempre se sobressai.
+[00:19:03:22 --> 00:19:05:06] Então eu posso fazer um círculo aqui.
+[00:19:05:06 --> 00:19:10:02] Mas esse círculo pode ser preenchido com um círculo branco.
+[00:19:10:04 --> 00:19:14:25] Se eu pegar aqui, vamos fazer aqui só para não deixar passar batido.
+[00:19:15:04 --> 00:19:16:19] A forma é essa.
+[00:19:16:20 --> 00:19:23:09] Eu posso fazê-la assim, mas eu também posso fazê-la com um monte de círculos menores.
+[00:19:23:09 --> 00:19:24:11] Eu mudei a matéria.
+[00:19:24:20 --> 00:19:27:13] Então, se eu for puxando aqui, eu vou fazer assim para ficar mais fácil.
+[00:19:29:20 --> 00:19:33:29] Eu faço uma espécie de círculo aqui, juntando várias bolinhas.
+[00:19:34:06 --> 00:19:38:17] Então, eu estou chegando perto de um círculo, eu vou diminuir porque vai ficar mais fácil de adivinhar.
+[00:19:38:25 --> 00:19:44:22] Os dois se assemelham a um círculo, mas a matéria, o que preenche esse círculo, é diferente.
+[00:19:44:25 --> 00:19:48:27] Eu posso, por exemplo, também fazer um círculo que é mais riscadinho, assim.
+[00:19:49:15 --> 00:19:52:01] Ele tem uma estrutura de círculo.
+[00:19:52:19 --> 00:19:54:22] Quando eu coloco mais de longe, vocês conseguem ver.
+[00:19:55:13 --> 00:20:00:07] Então, ele tem a casca de um círculo, mas ele tem a matéria diferente.
+[00:20:00:10 --> 00:20:02:01] Cada um deles ali é único.
+[00:20:02:19 --> 00:20:04:15] E a transponibilidade é isso.
+[00:20:04:19 --> 00:20:07:20] Não importa qual é a matéria, a forma se sobressai.
+[00:20:07:23 --> 00:20:09:29] Então, quando nós vamos criar uma composição,
+[00:20:10:16 --> 00:20:12:11] você vai trabalhar as cores nessa composição,
+[00:20:12:13 --> 00:20:15:27] você vai trabalhar a fotografia nessa composição,
+[00:20:15:29 --> 00:20:18:05] você vai mascarar uma fotografia, o que quer que seja,
+[00:20:18:10 --> 00:20:20:02] a forma se sobressai.
+[00:20:20:09 --> 00:20:24:02] O seu cérebro enxerga primeiro a forma e depois a matéria,
+[00:20:24:02 --> 00:20:26:08] depois o elemento que preenche
+[00:20:26:08 --> 00:20:27:10] essa forma, tá?
+[00:20:27:13 --> 00:20:29:25] se ficou confuso, assiste de novo
+[00:20:29:25 --> 00:20:31:10] o módulo de fundamentos da forma
+[00:20:31:10 --> 00:20:32:29] que lá eu expliquei em detalhes
+[00:20:32:29 --> 00:20:36:11] a diferença da casca da forma e a diferença da matéria da forma
+[00:20:37:19 --> 00:20:40:12] Então, esse é o quarto pilar aqui, muito importante também.
+[00:20:40:27 --> 00:20:43:23] Nós temos o quinto pilar e o último, que é a supersoma,
+[00:20:43:26 --> 00:20:49:04] que é a frase clássica da Gestalt, que é o todo é maior do que a soma das partes.
+[00:20:49:10 --> 00:20:50:24] Isso daqui buga muitas pessoas, né?
+[00:20:50:24 --> 00:20:52:18] Como assim o todo é maior do que a soma das partes?
+[00:20:52:20 --> 00:20:54:06] O todo não é exatamente a soma das partes?
+[00:20:54:10 --> 00:20:58:00] Não, por causa lá atrás do primeiro princípio que eu passei para vocês.
+[00:20:58:02 --> 00:20:59:03] Qual que é o primeiro princípio?
+[00:20:59:11 --> 00:21:02:02] O seu cérebro não interpreta apenas o que você vê.
+[00:21:02:02 --> 00:21:07:14] Ele soma o que você vê com as vivências passadas, com a sua percepção de mundo.
+[00:21:07:21 --> 00:21:12:27] Então, ele soma a sua percepção de mundo com o que você está vendo e aí ele interpreta essa composição.
+[00:21:13:04 --> 00:21:20:17] Então, o todo é mais do que a soma das partes, porque o todo é a soma das partes com a soma do seu cérebro interpretando essas partes.
+[00:21:20:29 --> 00:21:21:11] Entende?
+[00:21:21:16 --> 00:21:29:13] E isso aqui é muito importante também para Gestalt, porque às vezes as pessoas pensam que organizar é simplesmente alinhar e acabou.
+[00:21:29:21 --> 00:21:31:03] Alinhar os elementos ali e está valendo.
+[00:21:31:03 --> 00:21:42:26] Não, quando você compõe, você precisa sair de dentro da garrafa, você precisa olhar por fora e imaginar aquela composição como um novo elemento que se completa nele mesmo.
+[00:21:43:03 --> 00:21:46:00] Então, o todo é maior do que a soma das partes.
+[00:21:46:09 --> 00:21:52:15] Dito isso então, esses são os cinco pilares aqui que introduzem os fundamentos da composição.
+[00:21:52:21 --> 00:21:58:18] Agora, eu quero apresentar para vocês esses fundamentos durante a nossa história.
+[00:21:58:18 --> 00:22:05:14] Ora, eu quero mostrar nessa aula para vocês como que nós, seres humanos, temos a propensão de querer organizar as coisas.
+[00:22:05:24 --> 00:22:12:19] Mesmo que em épocas passadas não existia nenhum manual com diretrizes de composição.
+[00:22:12:20 --> 00:22:14:02] Hoje tem muitos livros, né?
+[00:22:14:06 --> 00:22:18:08] Mas se a gente pega o período paleolítico, o período mesolítico, que eu vou mostrar aqui para vocês,
+[00:22:18:13 --> 00:22:23:03] vivíamos nas cavernas e naquele período já existia essa noção,
+[00:22:23:06 --> 00:22:27:20] já existia uma propensão de querer organizar os elementos de tal forma.
+[00:22:27:20 --> 00:22:47:01] Claro que nós estamos evoluindo com o tempo e compreendendo mais como o nosso cérebro funciona, como as composições funcionam. Existe sim uma evolução, mas existe também uma espécie de intuição, uma espécie de comportamento natural nosso de querer organizar os elementos dentro de um espaço, ok?
+[00:22:47:01 --> 00:22:53:12] Então, eu quero mostrar isso para vocês hoje nessa aula, para nós introduzirmos aqui os fundamentos da composição.
+[00:22:53:16 --> 00:22:58:09] Então, guarda com você, organizar e configurar é uma tendência dos seres humanos.
+[00:22:58:16 --> 00:23:01:14] Nós replicamos os padrões da natureza.
+[00:23:01:16 --> 00:23:04:09] Então, vamos lá. Eu quero começar aqui mostrando para vocês essas imagens.
+[00:23:04:12 --> 00:23:07:18] Para quem já assistiu as outras aulas, não é novidade também.
+[00:23:07:22 --> 00:23:15:00] Algumas das imagens aqui são novas, outras são repetidas, mas elas funcionam tão bem, são tão lindas,
+[00:23:15:00 --> 00:23:17:00] que eu gosto de trazê-las de novo para vocês.
+[00:23:17:07 --> 00:23:22:22] Eu quero que agora a gente vai olhar para essas imagens a partir de uma outra perspectiva.
+[00:23:22:24 --> 00:23:26:07] Eu quero que vocês observem, principalmente aqui no período paleolítico,
+[00:23:26:11 --> 00:23:34:15] que é o período onde nós buscávamos representar de maneira fiel os fenômenos da natureza.
+[00:23:35:00 --> 00:23:39:14] Reparem que as proporções são muito bem desenhadas aqui.
+[00:23:39:14 --> 00:23:46:29] Então, a proporção do olho em relação à cabeça, a proporção da cabeça em relação ao corpo,
+[00:23:47:21 --> 00:23:50:01] existe um trabalho muito bem construído aqui.
+[00:23:50:04 --> 00:23:52:25] E nós estamos falando do período paleolítico.
+[00:23:53:03 --> 00:23:59:03] Tem muita gente que vai falar assim, os maiores desenhistas são da Grécia para frente,
+[00:23:59:05 --> 00:24:04:07] que aí vem os gregos, depois vem os da Renascença, e aí é perfeito.
+[00:24:04:10 --> 00:24:08:04] Ele tem a noção de proporção perfeita.
+[00:24:08:04 --> 00:24:10:09] mas na verdade não, olha isso daqui
+[00:24:10:09 --> 00:24:12:28] período paleolítico de 2 milhões
+[00:24:12:28 --> 00:24:14:22] e meio de anos atrás
+[00:24:14:22 --> 00:24:16:27] a 10 mil anos atrás
+[00:24:16:27 --> 00:24:19:01] a partir de 10 mil anos atrás a gente entra
+[00:24:19:01 --> 00:24:21:13] entre o mesolítico e o neolítico
+[00:24:21:13 --> 00:24:23:00] mas olha só como que
+[00:24:23:00 --> 00:24:25:03] existe uma proporção, existe um cuidado
+[00:24:25:03 --> 00:24:26:28] com essa proporção e também
+[00:24:26:28 --> 00:24:29:09] com o movimento, os espaços
+[00:24:29:09 --> 00:24:31:01] aqui, então observem aqui
+[00:24:31:01 --> 00:24:32:01] essa imagem também
+[00:24:32:01 --> 00:24:34:23] a proporção da cabeça com o olho
+[00:24:34:23 --> 00:24:36:25] lá atrás existem outros animais
+[00:24:36:25 --> 00:24:42:18] Mas essa ideia de profundidade, a gente consegue percebê-la de certa forma também.
+[00:24:42:24 --> 00:24:50:15] Eu não sei se eles tinham essa noção de profundidade bem construída, mas eles trabalhavam isso.
+[00:24:50:22 --> 00:24:55:09] Então a gente vê alguns animais ali, eles não diminuem essa noção de profundidade,
+[00:24:55:09 --> 00:24:58:23] de que quanto mais longe menor o objeto, eles não diminuem os objetos.
+[00:24:58:24 --> 00:25:01:06] Dá para ver aqui por essas formas aqui.
+[00:25:02:00 --> 00:25:06:10] Mas se a gente para para pensar também, existe uma relação de hierarquia.
+[00:25:06:10 --> 00:25:09:21] tanto aqui quanto os egípcios, eu vou mostrar isso para vocês,
+[00:25:10:16 --> 00:25:19:25] eles costumavam colocar maiores os animais que representavam melhor o que eles queriam passar.
+[00:25:20:00 --> 00:25:24:23] Então, os animais maiores tinham uma hierarquia maior de significado para eles.
+[00:25:25:00 --> 00:25:28:27] Essa imagem aqui de baixo dessas leoas, imagino que sejam leoas,
+[00:25:28:28 --> 00:25:33:02] repara essa daqui, olha essa proporção, como é que foi tão bem construída.
+[00:25:33:02 --> 00:25:35:27] até a musculatura, a gente vê aqui um trabalho.
+[00:25:36:12 --> 00:25:40:14] Então, eles observavam muito bem e replicavam esses padrões.
+[00:25:40:24 --> 00:25:49:18] Nessa época, as pinturas nas paredes tinham um objetivo religioso ou de caça, basicamente.
+[00:25:49:22 --> 00:25:55:07] Então, a ideia é que quando eles pintavam esses animais na parede,
+[00:25:55:09 --> 00:25:59:18] eles se conectavam com esses animais, porque naquele tempo os animais dominavam o mundo,
+[00:25:59:18 --> 00:26:05:21] quando os seres humanos veneravam os animais, até porque nós éramos lá da base da cadeia alimentar,
+[00:26:05:21 --> 00:26:07:18] então nós éramos os últimos dos últimos.
+[00:26:08:06 --> 00:26:12:22] Então nós venerávamos os animais, colocávamos eles no topo.
+[00:26:12:25 --> 00:26:21:11] E quando nós desenhávamos esses animais, então era um hábito ritualístico, religioso ou de caça.
+[00:26:21:14 --> 00:26:26:22] O tempo foi passando, a gente já viu isso também, e no período mesolítico a coisa começou a mudar.
+[00:26:26:22 --> 00:26:33:03] Nós paramos de representar essas pinturas apenas religiosamente ou para caça
+[00:26:33:03 --> 00:26:38:24] e começamos a representar elas como esquemas, muitas vezes até estratégias ou até storytelling.
+[00:26:38:29 --> 00:26:41:00] Existe uma narrativa aqui.
+[00:26:41:04 --> 00:26:44:24] Então, essa mulher aqui pegando mel, por exemplo, a gente consegue ver as abelhas aqui.
+[00:26:44:27 --> 00:26:50:24] A proporção, obviamente, não está exata, mas eu entendo que a ideia aqui era representar,
+[00:26:50:24 --> 00:26:55:13] não deixar faltar nenhum elemento importante nessa composição.
+[00:26:55:13 --> 00:26:56:18] Mas reparem
+[00:26:57:25 --> 00:27:02:23] a proporção começou a ser distorcida e nós começamos a abstrair as coisas.
+[00:27:02:28 --> 00:27:05:02] Olha esses elementos aqui.
+[00:27:05:05 --> 00:27:05:25] Isso aqui é um ser humano.
+[00:27:06:04 --> 00:27:11:15] Então, nós começamos a abstrair as formas e nos tornar mais esquemáticos.
+[00:27:11:16 --> 00:27:12:13] O que é um esquema?
+[00:27:12:16 --> 00:27:15:24] É uma organização também, muitas vezes estratégica.
+[00:27:15:28 --> 00:27:16:18] Então, olha aqui.
+[00:27:16:19 --> 00:27:17:29] Isso aqui é mostrando a caça.
+[00:27:18:04 --> 00:27:20:06] Eles também representavam a hierarquia.
+[00:27:20:07 --> 00:27:24:04] Nós temos aqui alguns filhotes e alguns adultos.
+[00:27:24:05 --> 00:27:27:05] Mas olha como que eles distorciam a realidade.
+[00:27:27:25 --> 00:27:46:07] Não sei exatamente por que eles distorciam aqui, mas o que a gente consegue observar, para fazer algumas inferências, é que eles estavam cada vez mais tornando essas representações, esses registros, abstratos e esquemáticos.
+[00:27:46:07 --> 00:28:02:07] Tem as pinturas do período Neolítico, eu não trouxe aqui para essa aula, mas lá na aula da escrita e dos símbolos, eu mostro também o período Neolítico e vocês vão começar a reparar lá que cada vez mais se torna abstrato os elementos.
+[00:28:02:07 --> 00:28:06:13] E esse é um movimento padrão, foi assim que a escrita surgiu, vocês viram lá na aula.
+[00:28:06:17 --> 00:28:10:11] A escrita surge desse movimento do concreto para o abstrato.
+[00:28:10:14 --> 00:28:12:23] E aqui a gente consegue ver esse mesmo movimento.
+[00:28:12:26 --> 00:28:16:18] Até hoje, a gente vai seguir essa história aqui até o momento que a gente vive.
+[00:28:16:20 --> 00:28:20:29] Hoje vocês vão ver como é natural esse movimento do concreto para o abstrato.
+[00:28:21:14 --> 00:28:25:25] E aí eu vou dar um salto quântico aqui, já chegamos aqui nos egípcios,
+[00:28:25:25 --> 00:28:33:07] mas é porque o objetivo dessa aula não é necessariamente apontar de forma tão linear e minuciosa a história,
+[00:28:33:10 --> 00:28:35:01] igual a gente fez na história da escrita,
+[00:28:35:02 --> 00:28:39:10] mas sim trazer para vocês algumas evidências de como nós, seres humanos,
+[00:28:39:16 --> 00:28:45:13] temos a propensão de querer organizar as coisas de forma harmônica e como que isso é natural.
+[00:28:45:29 --> 00:28:48:28] Então, eu já mostrei isso para você, período paleolítico, período mesolítico,
+[00:28:48:29 --> 00:28:51:25] você começou a ver essa propensão por querer organizar.
+[00:28:51:25 --> 00:28:55:08] Mas olha que curioso esses hieróglifos aqui.
+[00:28:55:14 --> 00:29:02:27] Os hieróglifos eram os textos mais sagrados, tem a escrita sacerdotal e tem os hieróglifos,
+[00:29:02:27 --> 00:29:12:20] que são os textos, a escrita mais sagrada que era colocada nas tumbas, nos templos, das pirâmides, dos monumentos.
+[00:29:12:22 --> 00:29:14:18] E esse daqui é um hieróglifo.
+[00:29:14:18 --> 00:29:22:02] E eu quero que vocês reparem o seguinte, olha só essa margem, olha esse alinhamento dos elementos aqui.
+[00:29:23:16 --> 00:29:25:12] Olha como que essa margem foi bem construída.
+[00:29:25:13 --> 00:29:26:26] Um espaço de respiro.
+[00:29:26:27 --> 00:29:29:11] Nós estamos falando aqui, galera, dos egípcios.
+[00:29:30:10 --> 00:29:34:04] Aproximadamente 3 mil anos antes de Cristo, ou seja, mais de 5 mil anos atrás.
+[00:29:34:19 --> 00:29:37:14] Olha só esse cuidado, tá?
+[00:29:38:04 --> 00:29:41:02] Repare aqui as proporções dos espaços.
+[00:29:41:03 --> 00:29:43:15] Olha como que existe uma proporção aqui.
+[00:29:45:19 --> 00:29:46:15] 3 mil anos atrás.
+[00:29:48:01 --> 00:29:53:14] Então, isso daqui já começa a mostrar para a gente também como que é natural do ser humano.
+[00:29:53:21 --> 00:29:54:28] Eu vou colocar assim.
+[00:29:55:09 --> 00:29:59:00] Não vai ficar exato porque ali a gente tem uma curvatura da pilastra.
+[00:29:59:07 --> 00:30:00:25] Mas aqui vocês já conseguem ver.
+[00:30:01:08 --> 00:30:07:19] Existe uma organização, existe um cuidado para poder configurar esses elementos no espaço.
+[00:30:08:00 --> 00:30:11:23] E a gente consegue perceber isso em cada um dos elementos.
+[00:30:12:10 --> 00:30:14:16] Então, existe uma hierarquia aqui também.
+[00:30:14:16 --> 00:30:19:04] Olha só como esse pássaro é maior, mas nós também temos elementos menores.
+[00:30:19:04 --> 00:30:22:07] Isso faz parte dos hierógrafos, da escrita, da lógica da escrita.
+[00:30:22:24 --> 00:30:24:11] Tem outros exemplos também.
+[00:30:24:25 --> 00:30:26:02] Esse daqui, por exemplo.
+[00:30:26:09 --> 00:30:27:29] Olha o cuidado com a organização.
+[00:30:28:18 --> 00:30:35:06] Esse cuidado com a organização é natural, é do ser humano, é biológico, é fisiológico.
+[00:30:35:09 --> 00:30:39:05] Nosso cérebro funciona assim e nós tendemos a organizar dessa forma.
+[00:30:39:05 --> 00:30:47:28] Então, existe um alinhamento, existe um ritmo, uma lógica para poder ler esses textos.
+[00:30:48:02 --> 00:30:52:04] E a gente consegue perceber isso daqui num povo tão antigo quanto os egípcios.
+[00:30:52:15 --> 00:30:56:19] Eu trouxe para vocês essas imagens para vocês verem como que eles faziam isso
+[00:30:56:19 --> 00:30:59:10] e são técnicas que nós utilizamos até hoje.
+[00:30:59:15 --> 00:31:03:21] Então, do lado direito aqui, como que eram feitas essas pinturas,
+[00:31:03:25 --> 00:31:08:00] eles representavam primeiro num objeto menor, às vezes numa pedra menor,
+[00:31:08:00 --> 00:31:12:26] eles faziam o desenho lá, quadriculavam esse desenho, então é uma espécie de grid,
+[00:31:13:03 --> 00:31:17:04] é uma espécie de grelha para poder ampliar esse desenho.
+[00:31:17:04 --> 00:31:20:21] Isso é uma técnica muito antiga, olha só, período dos egípcios.
+[00:31:20:24 --> 00:31:25:25] Depois eles quadriculavam na parede e representavam lá com as tintas, né?
+[00:31:25:27 --> 00:31:26:09] Aqueles...
+[00:31:28:14 --> 00:31:31:03] que eles coletavam da natureza, como o ocre, por exemplo.
+[00:31:31:10 --> 00:31:34:22] Então, eles preparavam aquela parede, quadriculavam ela,
+[00:31:34:27 --> 00:31:37:28] e depois desenhavam e, por fim, pintavam.
+[00:31:38:02 --> 00:31:40:11] As cores também seguiam uma lógica, uma hierarquia.
+[00:31:40:19 --> 00:31:44:07] E olha que curioso, desse lado aqui, tem duas coisas sobre os egípcios
+[00:31:44:07 --> 00:31:47:12] que são da personalidade deles.
+[00:31:47:14 --> 00:31:52:05] É clássico deles, faz parte da identidade deles.
+[00:31:52:08 --> 00:31:53:01] Isso é muito interessante.
+[00:31:53:13 --> 00:31:54:29] Primeiro, a lei da frontalidade,
+[00:31:54:29 --> 00:32:02:12] que é esse estilo de desenho deles que mistura uma perspectiva lateral com uma perspectiva frontal.
+[00:32:02:20 --> 00:32:07:13] Então olha só que interessante, as pernas eram representadas na lateral de perfil,
+[00:32:07:14 --> 00:32:10:00] todas as pernas representadas de perfil.
+[00:32:12:00 --> 00:32:17:24] O tronco era representado de frente, então era uma representação frontal.
+[00:32:19:08 --> 00:32:22:17] As mãos eram de perfil também, lateral, sempre de lado.
+[00:32:23:10 --> 00:32:25:29] A cabeça também de perfil, de lado.
+[00:32:26:05 --> 00:32:27:07] E o olho frontal.
+[00:32:28:05 --> 00:32:30:01] Então, eles sempre se configuravam assim.
+[00:32:30:05 --> 00:32:32:23] E isso tem a ver com a personalidade deles.
+[00:32:32:25 --> 00:32:33:20] Olha que curioso, né?
+[00:32:33:22 --> 00:32:38:00] Tem gente que olha para isso e pensa que é uma falta de perícia, uma falta de técnica.
+[00:32:38:03 --> 00:32:40:28] Nossa, os egípcios não sabiam desenhar naquela época.
+[00:32:41:02 --> 00:32:41:29] Mas não é verdade.
+[00:32:42:04 --> 00:32:46:04] Vocês viram que antes dos egípcios, nós seres humanos já tínhamos a capacidade para fazer desenhos
+[00:32:46:04 --> 00:32:49:04] muito bem construídos em proporção lá.
+[00:32:49:08 --> 00:32:51:16] período paleolítico, vocês viram aquela leoa
+[00:32:51:16 --> 00:32:52:29] como que ela foi bem construída
+[00:32:52:29 --> 00:32:55:08] mas aquilo ali representava algo
+[00:32:55:08 --> 00:32:57:16] ainda mais abstrato pra eles, era um estilo
+[00:32:57:16 --> 00:32:59:09] de construção, era uma
+[00:32:59:09 --> 00:33:01:07] personalidade, ali tem identidade
+[00:33:01:07 --> 00:33:02:21] isso é muito interessante
+[00:33:02:21 --> 00:33:05:00] é um trabalho que
+[00:33:05:00 --> 00:33:06:23] vai além do
+[00:33:06:23 --> 00:33:09:02] de simplesmente representar
+[00:33:09:02 --> 00:33:10:20] o que é real, inclusive
+[00:33:10:20 --> 00:33:12:14] na história da arte toda
+[00:33:12:14 --> 00:33:14:27] esse movimento começou a acontecer há pouco
+[00:33:14:27 --> 00:33:16:25] tempo depois novamente, ali
+[00:33:16:25 --> 00:33:18:13] 1900, século passado
+[00:33:18:13 --> 00:33:23:04] foi quando os pintores pararam de fazer a arte para representar a vida,
+[00:33:23:05 --> 00:33:24:11] depois que a fotografia chegou,
+[00:33:24:17 --> 00:33:27:05] e começaram a fazer a arte para representar a arte,
+[00:33:27:08 --> 00:33:30:00] a arte para representar conceitos mais abstratos,
+[00:33:30:04 --> 00:33:32:17] o lugar onde ela havia mais se posicionado,
+[00:33:32:19 --> 00:33:36:22] porque a fotografia já conseguia tirar uma foto real do espaço.
+[00:33:37:02 --> 00:33:41:22] Então, restou para a arte buscar a expressão dela mesma nela mesma.
+[00:33:41:26 --> 00:33:44:26] E aqui a gente vê um pouquinho disso com os egípcios também, de alguma forma.
+[00:33:45:10 --> 00:33:46:24] Existe uma representação aqui,
+[00:33:46:24 --> 00:33:49:01] mas ela é um tanto abstrata.
+[00:33:49:04 --> 00:33:52:04] E eu quero chamar a atenção de vocês aqui também para a hierarquia.
+[00:33:52:05 --> 00:33:55:19] Os egípcios possuíam uma hierarquia de representação.
+[00:33:55:21 --> 00:34:00:19] Então, as pessoas que eram mais importantes, elas eram representadas...
+[00:34:01:23 --> 00:34:04:00] num tamanho maior do que as outras.
+[00:34:04:09 --> 00:34:07:23] Isso daqui eram servos, e quanto menor era a representação,
+[00:34:07:26 --> 00:34:09:17] não necessariamente era uma criança,
+[00:34:09:24 --> 00:34:15:04] mas era uma pessoa que estava mais abaixo na hierarquia dos egípcios.
+[00:34:15:13 --> 00:34:19:03] Então, existe sim uma configuração,
+[00:34:19:05 --> 00:34:21:22] existe sim uma organização dos elementos
+[00:34:21:22 --> 00:34:26:21] que tem um objetivo, que está passando uma mensagem para o público.
+[00:34:27:00 --> 00:34:29:29] E é muito legal a gente ver isso aqui em uma civilização tão antiga
+[00:34:29:29 --> 00:34:31:17] quanto a dos egípcios.
+[00:34:31:23 --> 00:34:37:11] Se a gente avança mais um pouquinho no tempo, a gente tem os hierógrafos minóicos da antiga Creta,
+[00:34:37:12 --> 00:34:40:11] ali na região onde vai surgir a Grécia no futuro.
+[00:34:40:23 --> 00:34:43:21] E olha essa outra configuração em espiral.
+[00:34:43:25 --> 00:34:47:03] Isso daqui também é uma configuração de elementos.
+[00:34:47:12 --> 00:34:51:09] E ela possui também um ritmo de leitura.
+[00:34:51:20 --> 00:34:56:20] Então, você começa a ler e ela possui um ritmo em espiral.
+[00:34:57:14 --> 00:35:00:10] Então, aqui a gente tem vários elementos, eles ainda se repetem.
+[00:35:00:10 --> 00:35:02:17] tem aqui a cabeça de um soldado
+[00:35:02:17 --> 00:35:04:00] parece um soldado espartano
+[00:35:04:00 --> 00:35:06:26] se vocês quiserem depois aumentar a tela
+[00:35:06:26 --> 00:35:08:02] e dar uma olhada é muito interessante
+[00:35:08:02 --> 00:35:10:14] mas aqui também existe uma composição
+[00:35:10:14 --> 00:35:12:22] e qual que é o objetivo de construir esse grid
+[00:35:12:22 --> 00:35:14:10] em espiral? O objetivo
+[00:35:14:10 --> 00:35:16:12] é organizar os elementos
+[00:35:16:12 --> 00:35:18:11] para que exista um fluxo
+[00:35:18:11 --> 00:35:20:27] da informação, para que seja mais fácil
+[00:35:20:27 --> 00:35:21:29] de você
+[00:35:22:27 --> 00:35:24:09] interpretar e organizar os elementos
+[00:35:25:03 --> 00:35:26:26] basicamente isso é uma composição
+[00:35:26:26 --> 00:35:28:19] tá? Então é muito interessante
+[00:35:28:19 --> 00:35:32:16] A gente vê isso aqui também, 2000 anos antes de Cristo, Antiga Creta.
+[00:35:32:17 --> 00:35:35:00] Se a gente segue a história, eu estou dando alguns saltos aqui,
+[00:35:35:04 --> 00:35:40:08] a gente tem o linear B, que é o avô da escrita grega.
+[00:35:40:09 --> 00:35:45:10] O bisavô é o linear A, que eu mostrei para vocês lá na história da escrita.
+[00:35:45:17 --> 00:35:49:17] E tem o bisavô que é o linear A e o avô que é o linear B.
+[00:35:49:26 --> 00:35:53:14] E aqui, de novo, o que eu quero mostrar para vocês é...
+[00:35:55:01 --> 00:35:56:28] composição desses elementos. Existe
+[00:35:56:28 --> 00:35:58:14] uma estrutura, olha só aqui.
+[00:35:59:14 --> 00:36:00:29] Existe uma organização.
+[00:36:01:15 --> 00:36:02:24] Para que serve isso?
+[00:36:02:25 --> 00:36:04:00] Isso aqui foi construído,
+[00:36:04:29 --> 00:36:05:13] os
+[00:36:07:17 --> 00:36:08:23] sumérios já faziam isso com a
+[00:36:08:23 --> 00:36:10:24] escrita cuneiforme, tem toda a
+[00:36:10:24 --> 00:36:12:24] história lá. Depois, os egípcios também
+[00:36:12:24 --> 00:36:14:26] já construíam isso. Um vai
+[00:36:14:26 --> 00:36:16:18] levando para o outro. Uma referência
+[00:36:16:18 --> 00:36:18:19] constrói a outra. São os possíveis adjacentes.
+[00:36:18:23 --> 00:36:20:12] Mas aconteceu de forma natural
+[00:36:20:12 --> 00:36:22:20] essa propensão
+[00:36:22:20 --> 00:36:24:08] de querer organizar os elementos.
+[00:36:24:08 --> 00:36:27:18] E aqui eu estou mostrando, por enquanto, só exemplos de escrita.
+[00:36:27:19 --> 00:36:29:20] Mostrei ali também algumas imagens dos egípcios,
+[00:36:29:23 --> 00:36:33:17] mas eu quero mostrar aqui para vocês que não se limitou apenas à escrita.
+[00:36:33:26 --> 00:36:39:25] E aí a gente tem o alfabeto grego, aqui só com símbolos gregos,
+[00:36:39:25 --> 00:36:44:22] e tem uma curiosidade também que é a orientação de leitura.
+[00:36:45:22 --> 00:36:50:18] Os gregos, a orientação de leitura deles não é igual a nossa que veio do latim.
+[00:36:51:26 --> 00:36:53:04] Primeiro, a nossa é o quê?
+[00:36:53:05 --> 00:36:54:11] Da esquerda para a direita.
+[00:36:54:14 --> 00:36:56:01] Então, a gente lê da esquerda para a direita.
+[00:36:56:03 --> 00:36:56:18] Sempre assim.
+[00:36:57:07 --> 00:36:59:07] Próxima palavra, próxima frase.
+[00:36:59:09 --> 00:37:00:25] Quer dizer, próxima frase.
+[00:37:02:08 --> 00:37:10:24] Lá no ocidente, Japão, a China é de cima para baixo, mas no Japão é da direita para a esquerda.
+[00:37:11:06 --> 00:37:13:10] Então já é uma orientação diferente.
+[00:37:14:10 --> 00:37:15:24] Isso já é curioso, é muito massa.
+[00:37:16:03 --> 00:37:20:10] Mas os gregos tinham uma orientação que eles chamavam de Bustrophedon.
+[00:37:20:18 --> 00:37:24:18] O que é Bustrophedon? Significa como o boiara.
+[00:37:25:04 --> 00:37:26:20] Que funcionava mais ou menos assim.
+[00:37:26:23 --> 00:37:31:07] Pegava da esquerda para a direita, aí depois ia da direita para a esquerda,
+[00:37:31:07 --> 00:37:33:10] Aí depois ia da esquerda para a direita
+[00:37:33:10 --> 00:37:35:21] Aí depois ia da direita para a esquerda
+[00:37:35:21 --> 00:37:38:23] Sabe por que mudou disso daqui para esse daqui?
+[00:37:40:03 --> 00:37:42:20] Por causa de um fator fisiológico.
+[00:37:43:02 --> 00:37:44:06] Olha que curioso.
+[00:37:44:16 --> 00:37:46:23] Não foi simplesmente, ah, eu quero começar a escrever assim.
+[00:37:46:25 --> 00:37:47:00] Não.
+[00:37:47:05 --> 00:37:47:29] E o que acontece?
+[00:37:48:06 --> 00:37:50:02] Eles cravavam muito em pedra.
+[00:37:50:12 --> 00:37:53:03] E para bater a pedra, deixa eu fazer um movimento aqui.
+[00:37:53:09 --> 00:37:58:20] Eles pegavam a estaca lá e para bater a pedra, a mão direita ia batendo ali na estaca
+[00:37:58:20 --> 00:38:00:05] para cravar aquilo na pedra.
+[00:38:00:15 --> 00:38:06:11] E era mais fácil pegar da esquerda para a direita, batendo assim, do que pegar da
+[00:38:06:11 --> 00:38:07:22] direita para a esquerda.
+[00:38:07:23 --> 00:38:08:17] Era mais difícil.
+[00:38:09:01 --> 00:38:10:05] Olha só que legal.
+[00:38:10:11 --> 00:38:11:08] E aí, o que aconteceu?
+[00:38:12:10 --> 00:38:14:11] Naturalmente, eles começaram a migrar.
+[00:38:14:20 --> 00:38:18:14] Primeiro, então, veio o Busto Troféu, que pegava esquerda para a direita,
+[00:38:18:14 --> 00:38:22:21] depois direita para a esquerda, esquerda para a direita, direita para a esquerda,
+[00:38:22:21 --> 00:38:23:24] e seguia o jogo.
+[00:38:24:23 --> 00:38:27:24] Depois, eles perceberam, não, fica mais fácil esquerda para a direita.
+[00:38:27:26 --> 00:38:31:11] Então, vamos sempre fazer esquerda para a direita, recomeço o parágrafo lá no início.
+[00:38:31:17 --> 00:38:35:06] Então, antes era assim, depois se tornou essa orientação de leitura.
+[00:38:35:10 --> 00:38:37:12] Isso aqui tem tudo a ver com composição.
+[00:38:37:12 --> 00:38:39:21] de onde você começa um elemento
+[00:38:39:21 --> 00:38:41:04] nós vamos falar disso em outras aulas
+[00:38:41:04 --> 00:38:43:15] mas a composição geralmente nós aqui do ocidente
+[00:38:43:15 --> 00:38:45:21] o nosso olho naturalmente
+[00:38:45:21 --> 00:38:47:18] isso já é propensão, é tendência
+[00:38:47:18 --> 00:38:48:29] do seu cérebro funcionar assim
+[00:38:48:29 --> 00:38:51:15] ele já faz uma varredura começando
+[00:38:51:15 --> 00:38:53:27] no canto inferior, canto superior
+[00:38:53:27 --> 00:38:56:06] esquerdo, aí você faz essa varredura
+[00:38:56:06 --> 00:38:57:29] na diagonal pra pegar o todo
+[00:38:57:29 --> 00:39:00:10] o mais rápido possível, depois sobe e desce
+[00:39:00:10 --> 00:39:01:29] então é mais ou menos esse movimento
+[00:39:01:29 --> 00:39:04:04] da esquerda pra direita
+[00:39:04:04 --> 00:39:05:22] isso é muito interessante de entender
+[00:39:05:22 --> 00:39:12:09] E olha que curioso, aqui a gente tem um ponto importante, um marco para falarmos de composição,
+[00:39:12:12 --> 00:39:21:15] porque os gregos evoluíram o trabalho com composições, eles levaram para um outro nível,
+[00:39:21:21 --> 00:39:25:18] por causa da geometria, da matemática, das proporções.
+[00:39:26:21 --> 00:39:33:09] Eu trouxe até alguns nomes aqui, você deve lembrar esses nomes aqui, você estudou esses nomes no ensino médio.
+[00:39:33:09 --> 00:39:35:14] que é o que? Tales de Mileto
+[00:39:35:14 --> 00:39:36:21] Aristóteles falava
+[00:39:36:21 --> 00:39:38:23] o primeiro filósofo
+[00:39:38:23 --> 00:39:40:29] Tales de Mileto, lá na Grécia
+[00:39:40:29 --> 00:39:42:20] estudou muito como
+[00:39:42:20 --> 00:39:44:24] usou muitos modelos dos egípcios
+[00:39:44:24 --> 00:39:47:04] e adaptou a geometria dos egípcios
+[00:39:47:04 --> 00:39:47:23] pra
+[00:39:48:15 --> 00:39:50:23] pra matemática, a gente tem
+[00:39:50:23 --> 00:39:52:23] Pitágoras, você lembra de Pitágoras também
+[00:39:52:23 --> 00:39:54:20] a soma do quadrado dos catetos é igual
+[00:39:54:20 --> 00:39:56:12] ao quadrado da hipotenusa
+[00:39:56:12 --> 00:39:58:23] acho que você vai lembrar
+[00:39:58:23 --> 00:40:00:27] então temos a teorema de Pitágoras
+[00:40:00:27 --> 00:40:02:29] com a geometria, Euclides
+[00:40:02:29 --> 00:40:06:09] Euclides, que é considerado o pai da geometria, se eu colocasse na ordem aqui,
+[00:40:06:23 --> 00:40:10:24] na verdade, deixa eu ver, é, está certa a ordem aqui, está certinho.
+[00:40:11:05 --> 00:40:14:28] Então, Euclides, considerado o pai da geometria, e Arquimedes,
+[00:40:15:03 --> 00:40:17:24] que é muito conhecido pela frase icônica dele,
+[00:40:18:01 --> 00:40:20:19] me deu uma alavanca e eu moverei o mundo.
+[00:40:20:26 --> 00:40:25:22] Mas também ele tem muitas contribuições na geometria, era um matemático também.
+[00:40:26:00 --> 00:40:31:26] E na Grécia nós temos vários nomes assim, o desenvolvimento do saber na Grécia é muito forte,
+[00:40:31:26 --> 00:40:35:13] A gente já sabe disso e eles levaram isso para um outro nível.
+[00:40:35:22 --> 00:40:39:14] A gente consegue ver, por exemplo, nas arquiteturas gregas,
+[00:40:39:14 --> 00:40:41:27] a presença da proporção áurea, por exemplo,
+[00:40:41:29 --> 00:40:47:04] a presença de um trabalho matemático, uma construção que relaciona as partes.
+[00:40:47:13 --> 00:40:54:15] Tem até uma história, a gente fala que a proporção áurea é representada pela letra grega φ
+[00:40:54:15 --> 00:40:58:18] por causa de um grego que chamava Fidias,
+[00:40:58:18 --> 00:41:04:17] porque ele ajudou a construir esse, não posso chamar de prédio,
+[00:41:04:18 --> 00:41:07:14] esse edifício, essa construção aí que é chamada de Parthenon.
+[00:41:08:02 --> 00:41:12:08] Lá no século V a.C. ele ajudou a projetar
+[00:41:12:08 --> 00:41:16:01] e por causa disso, em homenagem a ele, inspirado nele,
+[00:41:16:03 --> 00:41:20:05] a representação da proporção áurea é representada pelo símbolo φ.
+[00:41:20:12 --> 00:41:22:07] Em homenagem a ele, olha que curioso.
+[00:41:22:09 --> 00:41:24:06] E aqui a gente tem então o Parthenon
+[00:41:24:06 --> 00:41:27:03] e a gente consegue ver o trabalho com proporções.
+[00:41:27:03 --> 00:41:31:24] Nós vamos falar mais sobre proporções, mas é a relação dos tamanhos aqui.
+[00:41:32:10 --> 00:41:40:09] Então, a gente consegue ver, existe muita proporção áurea aplicada aqui relacionada com a natureza também.
+[00:41:40:10 --> 00:41:46:24] A proporção áurea está conectada com, muita gente fala que é o número de Deus, o número divino, é áureo por causa disso.
+[00:41:47:07 --> 00:41:50:05] Por causa que é a proporção da natureza, dos elementos da natureza.
+[00:41:50:07 --> 00:41:53:11] Nós teremos um episódio para falar só sobre isso.
+[00:41:53:11 --> 00:41:55:04] mas aqui por enquanto eu quero
+[00:41:55:22 --> 00:41:57:17] apresentar para vocês no contexto histórico
+[00:41:57:17 --> 00:41:59:23] os gregos evoluindo
+[00:41:59:23 --> 00:42:00:29] levando para um outro nível
+[00:42:00:29 --> 00:42:03:10] o trabalho com as composições e com a
+[00:42:03:26 --> 00:42:05:18] geometria, a gente consegue ver isso não só na
+[00:42:05:18 --> 00:42:07:17] arquitetura ou não só também
+[00:42:07:17 --> 00:42:09:18] na escrita, mas também na
+[00:42:09:18 --> 00:42:10:28] escultura, então
+[00:42:11:26 --> 00:42:13:12] observar, isso aqui inclusive vai ser
+[00:42:13:12 --> 00:42:15:06] recuperado depois lá na renascença
+[00:42:15:06 --> 00:42:17:12] a renascença nada mais é do que
+[00:42:17:12 --> 00:42:19:02] resgatar o estilo clássico
+[00:42:19:02 --> 00:42:21:12] dos gregos, mas a gente consegue
+[00:42:21:12 --> 00:42:24:26] consegue ver uma relação dos elementos. Então, olha que interessante. Nesse quadrado aqui,
+[00:42:24:28 --> 00:42:31:18] o centro dele está aqui na virilha e no umbigo é o centro com o círculo. Esse círculo que vai do
+[00:42:32:20 --> 00:42:36:26] pé dele um pouco acima da cabeça. Mas qual que é a relação do círculo aqui, olha.
+[00:42:38:13 --> 00:42:39:10] com os braços dele.
+[00:42:39:15 --> 00:42:42:29] Depois isso daqui vai inspirar também o homem vitruviano,
+[00:42:43:00 --> 00:42:44:02] vou mostrar ele aqui para vocês,
+[00:42:44:08 --> 00:42:47:09] mas existe uma relação de tamanhos,
+[00:42:47:09 --> 00:42:49:06] que nós chamamos de proporção.
+[00:42:49:13 --> 00:42:52:21] Nós conseguimos identificar aqui também a proporção áurea.
+[00:42:53:00 --> 00:42:54:08] Onde que está a proporção áurea?
+[00:42:54:10 --> 00:42:55:24] Nesses dois segmentos de reto aqui.
+[00:42:56:00 --> 00:42:58:24] Então a gente tem esse segmento aqui, que vai até o umbigo dele,
+[00:42:58:28 --> 00:43:02:01] e depois temos esse segmento do umbigo até na cabeça.
+[00:43:02:01 --> 00:43:03:24] Se você colocar isso aí, tirar um print,
+[00:43:03:29 --> 00:43:05:16] colocar no seu Illustrator e calcular,
+[00:43:05:18 --> 00:43:08:10] você vai ver que existe aqui uma proporção áurea.
+[00:43:08:13 --> 00:43:11:02] desse segmento A com esse segmento B.
+[00:43:13:01 --> 00:43:17:17] Então, isso também é muito interessante de ver lá na Grécia, há mais de dois mil anos atrás,
+[00:43:18:14 --> 00:43:20:08] esse cuidado com as proporções.
+[00:43:20:17 --> 00:43:24:07] Porque é a partir, inclusive, esse é um dos principais elementos da composição,
+[00:43:24:07 --> 00:43:25:25] por isso que nós teremos uma aula só sobre isso,
+[00:43:25:28 --> 00:43:30:02] é a partir das proporções que nós damos ritmo para uma composição.
+[00:43:30:14 --> 00:43:36:06] Então, a gente tem essa estátua de Poseidon, de Artemísio, que trabalha muito bem essas proporções.
+[00:43:37:22 --> 00:43:42:01] Dando mais um salto no tempo, a gente está pulando de tempos em tempos aqui,
+[00:43:42:04 --> 00:43:47:04] a gente chega nos monges copistas, seguindo a mesma estrutura de construir um grid, uma linha,
+[00:43:47:08 --> 00:43:50:13] um grid linear para organizar as letras.
+[00:43:50:16 --> 00:43:55:15] Mas eu quero que vocês reparem no tamanho das minúsculas aqui, na altura de x delas,
+[00:43:55:15 --> 00:43:56:12] como que eles...
+[00:43:57:17 --> 00:44:03:22] manter a mesma altura. Por quê? Porque isso é legal falar que facilita a leitura
+[00:44:03:22 --> 00:44:07:17] olhando para uma tipografia gótica, né? Mas...
+[00:44:08:25 --> 00:44:11:09] Mas facilita, poderia ser pior, acredite.
+[00:44:11:18 --> 00:44:15:07] Essa daqui talvez seja a tipografia com menos legibilidade de todas, né?
+[00:44:15:15 --> 00:44:20:15] Mas lá no período da Idade Média era muito utilizado, os monges copistas trabalhavam muito com elas.
+[00:44:20:16 --> 00:44:23:02] Aqui a gente tem um exemplo dos monges copistas.
+[00:44:23:12 --> 00:44:26:09] Eles literalmente desenhavam essas páginas.
+[00:44:26:10 --> 00:44:30:00] E olha o cuidado que existe aqui com os elementos.
+[00:44:30:07 --> 00:44:32:05] O trabalho para ter uma margem.
+[00:44:32:05 --> 00:44:34:04] Por que eles não começavam aqui?
+[00:44:34:04 --> 00:44:41:18] que eles já tinham essa noção de trabalhar a margem, de trabalhar os elementos.
+[00:44:42:01 --> 00:44:47:03] É claro que tem esse estilo bagunçado, não é tão harmônico, mas é o estilo gótico.
+[00:44:47:04 --> 00:44:50:13] Tanto que a gente vê isso também na arquitetura, eu já vou mostrar aqui para vocês.
+[00:44:50:21 --> 00:44:57:13] O que eu quero chamar a atenção nessas composições é que elas já são trabalhadas algumas...
+[00:44:57:13 --> 00:44:58:15] Algumas
+[00:45:00:04 --> 00:45:05:04] Algumas noções importantes de hierarquia, de alinhamento, né?
+[00:45:05:12 --> 00:45:07:27] Então, a gente consegue perceber isso daqui.
+[00:45:08:01 --> 00:45:11:03] Olha que curioso, eles usavam esses elementos aqui, olha,
+[00:45:11:06 --> 00:45:14:14] para ajudar a alinhar o texto, para o texto ficar bem alinhado.
+[00:45:14:25 --> 00:45:16:01] Tá? Então, olha só.
+[00:45:16:17 --> 00:45:20:22] Sobravam alguns espaços e eles ornamentavam esses espaços.
+[00:45:21:06 --> 00:45:24:00] Então, é muito legal ver isso também naquela época.
+[00:45:24:01 --> 00:45:25:25] São estilos completamente diferentes, né?
+[00:45:26:00 --> 00:45:27:21] Aqui a gente vê mais uma identidade.
+[00:45:29:03 --> 00:45:34:01] Essa identidade foi usada para fazer os livros do Shrek, não sei se vocês vão lembrar,
+[00:45:34:22 --> 00:45:40:21] mas segue esse estilo aí também, que é da época medieval, os monges copistas que desenvolviam,
+[00:45:40:23 --> 00:45:44:19] e a gente consegue ver algumas noções, alguns trabalhos com hierarquia.
+[00:45:44:22 --> 00:45:49:22] É muito simbólico também, tem uma representação simbólica aqui, é legal a gente perceber isso.
+[00:45:49:28 --> 00:45:53:18] Como eu disse também, olha só, na arquitetura, essa arquitetura gótica,
+[00:45:53:18 --> 00:46:00:16] Essa catedral foi feita ali entre 1100 a 1200, que é a Catedral de Notre Dame.
+[00:46:00:21 --> 00:46:04:15] E ela possui também, se a gente for analisar aqui, vocês vão ver,
+[00:46:04:18 --> 00:46:10:07] ela também possui uma proporção bem construída.
+[00:46:11:07 --> 00:46:13:06] A proporção áurea também está inserida aqui.
+[00:46:13:18 --> 00:46:16:12] A gente pode inserir esse círculo.
+[00:46:17:00 --> 00:46:19:00] Existe uma relação desse andar...
+[00:46:20:11 --> 00:46:21:10] Vou fazer um quadrado aqui.
+[00:46:22:13 --> 00:46:23:28] Uma relação desse andar aqui.
+[00:46:25:21 --> 00:46:26:20] Com o andar de cima.
+[00:46:31:09 --> 00:46:34:13] Existe uma proporção que foi trabalhada aqui.
+[00:46:34:22 --> 00:46:36:00] Alguém projetou isso.
+[00:46:36:16 --> 00:46:37:04] Foram...
+[00:46:39:15 --> 00:46:42:12] Vários anos, foram décadas para construir essa catedral.
+[00:46:42:16 --> 00:46:46:14] E existe um trabalho geométrico aqui muito forte.
+[00:46:46:23 --> 00:46:49:08] A gente vai fazer várias análises depois,
+[00:46:49:12 --> 00:46:51:14] vamos ter uma aula só sobre análise,
+[00:46:51:15 --> 00:46:54:02] para vocês verem como isso daqui foi construído
+[00:46:54:02 --> 00:46:56:20] usando uma lógica.
+[00:46:56:20 --> 00:47:03:21] Foi construído realmente para tornar essa estrutura harmônica.
+[00:47:04:00 --> 00:47:07:05] Então é muito massa a gente ver isso na arquitetura também.
+[00:47:07:12 --> 00:47:09:00] E o que eu tinha falado dos estilos.
+[00:47:09:00 --> 00:47:14:02] O estilo gótico funciona muito dessa forma, é muito ornamentado, são muitos elementos.
+[00:47:14:17 --> 00:47:18:11] Depois, no futuro, e eu vou mostrar aqui ainda no contexto histórico para vocês,
+[00:47:18:17 --> 00:47:22:25] a tendência por querer simplificar começou a ficar mais forte.
+[00:47:22:29 --> 00:47:25:26] E hoje nossos prédios são basicamente umas caixas.
+[00:47:25:27 --> 00:47:27:01] Mas enfim, vamos lá.
+[00:47:27:21 --> 00:47:29:11] Então, mais um salto no tempo.
+[00:47:29:15 --> 00:47:32:03] A gente sai da Idade Média ali e entra no período da Renascença.
+[00:47:32:03 --> 00:47:33:20] A gente tem os artistas da Renascença.
+[00:47:33:23 --> 00:47:38:05] E aqui a gente tem um homem inscrito num círculo, do Dürer.
+[00:47:38:05 --> 00:47:41:00] e o Homem Vitruviano do Leonardo da Vinci.
+[00:47:41:07 --> 00:47:43:14] E os dois seguem uma proporção também.
+[00:47:44:26 --> 00:47:47:18] Inclusive, essas duas obras foram construídas
+[00:47:47:18 --> 00:47:50:02] para mostrar essas relações de proporção.
+[00:47:50:18 --> 00:47:51:29] Então é muito massa a gente ver,
+[00:47:52:01 --> 00:47:53:23] e aqui no período da Renascença,
+[00:47:53:28 --> 00:47:55:17] isso começa a ficar muito forte.
+[00:47:55:25 --> 00:47:56:15] Que é o quê?
+[00:47:56:16 --> 00:47:58:00] É a relação das proporções,
+[00:47:58:18 --> 00:48:00:27] isso é muito chamado de humanismo.
+[00:48:01:05 --> 00:48:02:00] Vou até voltar aqui.
+[00:48:02:09 --> 00:48:03:24] No período da Renascença,
+[00:48:04:15 --> 00:48:05:14] nós começamos,
+[00:48:05:16 --> 00:48:07:00] eu gosto de falar nós seres humanos,
+[00:48:07:00 --> 00:48:08:18] Mas às vezes é estranho, né? Parece que eu estava lá.
+[00:48:08:21 --> 00:48:12:23] Mas enfim, nós seres humanos tínhamos a propensão,
+[00:48:13:17 --> 00:48:15:16] nós colocamos o ser humano no centro das coisas,
+[00:48:15:20 --> 00:48:17:17] por isso que chama o humanismo humano no centro,
+[00:48:17:20 --> 00:48:21:04] e tudo era usado como relação nos seres humanos.
+[00:48:21:12 --> 00:48:25:23] Então, nós começamos, por exemplo, bizarro isso, até mostra aqui, tem uma imagem,
+[00:48:26:00 --> 00:48:29:27] a trazer as proporções do corpo humano para as letras, por exemplo.
+[00:48:30:03 --> 00:48:33:00] Aqui, deixa eu ver. Cadê? Aqui.
+[00:48:33:03 --> 00:48:36:21] Nós começamos a trazer essas relações do corpo humano para as letras
+[00:48:36:21 --> 00:48:39:14] e até mesmo o nome das letras aqui, braço, perna,
+[00:48:39:14 --> 00:48:44:21] e a proporção das letras está muito ligado com as proporções do nosso corpo.
+[00:48:45:00 --> 00:48:46:23] Tanto que a gente consegue ver essa relação.
+[00:48:47:02 --> 00:48:50:23] E não é à toa que essas letras aqui são chamadas de humanistas,
+[00:48:50:24 --> 00:48:52:25] por causa desse período, tá?
+[00:48:53:00 --> 00:48:54:29] Mas vocês tomaram spoiler, eu já mostrei.
+[00:48:55:00 --> 00:48:57:23] Não fica limitado só às letras ou só à arquitetura,
+[00:48:57:23 --> 00:49:02:26] mas também à pintura, à obra da Mona Lisa, do Leonardo da Vinci.
+[00:49:03:09 --> 00:49:06:03] É um exemplo muito emblemático também, né?
+[00:49:06:03 --> 00:49:08:16] Tem muitos segredos inseridos nela aqui.
+[00:49:08:18 --> 00:49:11:05] Eu só coloquei uma relação básica para vocês verem,
+[00:49:11:05 --> 00:49:13:00] que é a relação de proporção a hora aqui também.
+[00:49:13:10 --> 00:49:15:26] Então, esse segmento de reta aqui, que vai...
+[00:49:15:26 --> 00:49:19:15] Se eu tirar, vocês vão ver, é exatamente onde o braço dela descansa
+[00:49:19:15 --> 00:49:25:05] e onde está o pescoço dela e a relação dele do pescoço com o topo da cabeça.
+[00:49:25:11 --> 00:49:27:16] Então, existe uma relação de proporção aqui.
+[00:49:27:18 --> 00:49:28:08] Não é à toa.
+[00:49:28:08 --> 00:49:31:00] Isso faz com que a obra se torne mais harmônica.
+[00:49:31:06 --> 00:49:33:28] Aqui é importante também nós separarmos os conceitos.
+[00:49:34:11 --> 00:49:36:11] Harmônico não quer dizer bonito necessariamente,
+[00:49:36:20 --> 00:49:38:02] porque talvez você olhe e fale,
+[00:49:38:05 --> 00:49:39:23] cara, para mim, eu já ouvi muito isso,
+[00:49:39:24 --> 00:49:42:18] a obra da Mona Lisa, a Mona Lisa é muito feia,
+[00:49:42:18 --> 00:49:45:00] aquela obra é feia, eu não entendo por que ela vale tudo que vale.
+[00:49:45:08 --> 00:49:48:03] Claro, ela não vale só por causa da parte harmônica dela,
+[00:49:48:05 --> 00:49:49:11] tem todo o contexto histórico,
+[00:49:49:14 --> 00:49:53:08] mas a harmonia está ligada com a forma como o seu cérebro processa
+[00:49:53:08 --> 00:49:54:23] e compreende as informações.
+[00:49:55:05 --> 00:49:58:13] É harmônico porque é facilmente pregnante,
+[00:49:58:15 --> 00:50:01:09] é fácil de interpretar essa imagem.
+[00:50:01:09 --> 00:50:04:12] Ela possui uma proporção bem construída.
+[00:50:04:13 --> 00:50:09:25] Se você olha por esse ângulo, você vê que é uma obra perfeita em nível de proporção, em nível de detalhes.
+[00:50:10:11 --> 00:50:18:02] Quando você começa a olhar para as proporções do rosto, do corpo, você vê que é uma obra perfeita.
+[00:50:18:23 --> 00:50:19:21] Todos os elementos.
+[00:50:20:00 --> 00:50:28:02] Então existe uma relação aqui também, uma construção de por onde o seu olho passa, de como o seu olho percorre essa obra.
+[00:50:28:04 --> 00:50:28:27] Tudo isso foi pensado.
+[00:50:28:27 --> 00:50:34:01] Aqui do lado a gente tem uma obra do Botticelli, que é o Nascimento de Vênus.
+[00:50:34:05 --> 00:50:36:03] E aqui nós vemos outra relação também.
+[00:50:36:05 --> 00:50:41:01] É uma estrutura diferente, se eu tirar aqui vocês vão notar, mas também existe uma estrutura.
+[00:50:41:08 --> 00:50:46:25] Essas diagonais aqui fazem o seu olho percorrer pela obra de determinada forma.
+[00:50:46:29 --> 00:50:51:20] Elas constroem uma estrutura e conduzem o seu olhar.
+[00:50:51:27 --> 00:50:56:23] Mas mais do que isso, eu inseri esse triângulo e esse círculo para você ver que existe uma relação
+[00:50:56:23 --> 00:50:58:29] e um alinhamento dos elementos aqui.
+[00:50:59:02 --> 00:51:00:27] Existe uma estrutura.
+[00:51:02:04 --> 00:51:04:01] E é muito interessante nós percebemos isso.
+[00:51:04:04 --> 00:51:07:23] Então, a obra de Botticelli também mostra isso, o período da Renascença.
+[00:51:08:04 --> 00:51:09:17] Um clássico também, né?
+[00:51:09:25 --> 00:51:12:27] Inclusive, vocês vão ver já já aqui, ainda nessa aula,
+[00:51:13:11 --> 00:51:17:02] a Vênus aqui sendo usada na abertura do Illustrator de 1992.
+[00:51:18:05 --> 00:51:18:29] Mas vamos lá.
+[00:51:19:14 --> 00:51:20:25] Mais um salto no tempo.
+[00:51:20:29 --> 00:51:22:22] Temos a invenção da prensa.
+[00:51:22:23 --> 00:51:28:29] A prensa tipográfica também foi uma revolução em relação à composição.
+[00:51:29:20 --> 00:51:31:01] Repare essa composição aqui.
+[00:51:31:01 --> 00:51:35:20] que essa é a Bíblia de Gutenberg, e compara ela com a Bíblia dos copistas.
+[00:51:35:28 --> 00:51:39:28] Olha só como que aqui ainda está confuso, por mais que já existam algumas noções,
+[00:51:40:18 --> 00:51:41:22] nós sentimos uma confusão.
+[00:51:41:23 --> 00:51:45:10] Quando a gente chega aqui, já é muito mais organizado, é um salto.
+[00:51:45:11 --> 00:51:49:10] E isso também está ligado com a influência tecnológica,
+[00:51:49:10 --> 00:51:52:17] porque a maneira como a prensa tipográfica funciona
+[00:51:53:05 --> 00:51:56:27] faz com que você organize muito melhor os elementos.
+[00:51:56:27 --> 00:52:02:27] Você precisa colocar cada um dos tipos alinhados e os blocos também de separação.
+[00:52:03:01 --> 00:52:10:04] Então, isso aqui, olha, era um metal separando essas informações e os tipos aqui, certo?
+[00:52:10:16 --> 00:52:12:22] Então, existe uma organização ainda maior.
+[00:52:12:23 --> 00:52:14:16] Foi um salto em relação à composição,
+[00:52:14:20 --> 00:52:17:24] tanto que muitos conceitos aqui do período da Renascença,
+[00:52:17:25 --> 00:52:19:20] em relação à diagramação de texto,
+[00:52:20:09 --> 00:52:22:19] seguem até hoje, século XV.
+[00:52:22:19 --> 00:52:28:06] Nós estamos falando de 20, de 20, que eu ia falar século XX.
+[00:52:28:08 --> 00:52:31:12] Nós estamos falando de seis séculos, século XXI para século XV.
+[00:52:32:15 --> 00:52:38:00] Então, são conceitos que são utilizados até hoje e vêm de uma influência tecnológica daquele período,
+[00:52:38:01 --> 00:52:42:15] que segue também de uma influência antiga dos monjos copistas,
+[00:52:42:16 --> 00:52:48:26] tanto que a escolha tipográfica que, nesse primeiro momento, foi de usar a tipografia gótica.
+[00:52:48:26 --> 00:52:52:01] A gente consegue ver ela aí. Muito bem, a famosa Black Letter.
+[00:52:52:19 --> 00:52:54:05] Por causa da mancha gráfica dela.
+[00:52:54:17 --> 00:52:57:07] Então, nós já conseguimos ver.
+[00:52:57:12 --> 00:53:01:19] Quando eu olho para essa obra aqui, eu sinto conforto visual.
+[00:53:01:23 --> 00:53:06:14] Por mais que eu não consiga ler, você também não consegue, existe um conforto visual.
+[00:53:06:15 --> 00:53:12:15] Existe uma harmonia entre as partes aqui, por causa do alinhamento, por causa da proporção,
+[00:53:12:19 --> 00:53:18:23] por causa do posicionamento dos elementos, por causa das cores sendo utilizadas aqui para criar hierarquia.
+[00:53:18:25 --> 00:53:22:11] Isso faz com que nós sintamos um conforto visual.
+[00:53:23:16 --> 00:53:24:22] ok? não sei nem se a palavra
+[00:53:25:04 --> 00:53:26:08] sintamos existe, eu acho que existe
+[00:53:27:21 --> 00:53:31:12] E aqui a gente tem, então, uma evolução, mais um saltinho no tempo aí,
+[00:53:31:13 --> 00:53:35:23] mas para as humanistas, então, de Gutenberg, que utilizava a Black Letter,
+[00:53:35:28 --> 00:53:38:14] aqui nós começamos a usar tipos humanistas.
+[00:53:38:26 --> 00:53:43:26] Então, esses tipos aqui, eles seguem uma proporção milimétrica nas partes deles.
+[00:53:44:03 --> 00:53:48:08] E essa proporção é muito relacionada com as proporções do corpo humano.
+[00:53:48:14 --> 00:53:51:21] Isso que é muito legal também, isso torna a letra mais harmônica.
+[00:53:51:27 --> 00:53:55:18] E por que disso tudo? Nós teremos uma aula sobre isso também,
+[00:53:55:18 --> 00:53:59:25] Isso aqui é uma introdução, estou falando com muita empolgação e bem acelerado aqui para vocês,
+[00:54:00:00 --> 00:54:03:03] mas é uma introdução, porque nós vamos nos aprofundar mais nisso,
+[00:54:03:05 --> 00:54:07:15] mas é por uma questão de familiaridade, é outro viés cognitivo.
+[00:54:07:19 --> 00:54:13:06] Como nós estamos acostumados a olhar para a natureza e olhar para o ser humano, para o corpo humano,
+[00:54:13:12 --> 00:54:19:22] o meu rosto aqui agora, ele segue também a mesma estrutura de proporção áurea,
+[00:54:19:22 --> 00:54:24:02] porque a proporção áurea nada mais é do que a proporção natural das coisas,
+[00:54:24:16 --> 00:54:26:01] Proporção do olho em relação à cabeça,
+[00:54:26:25 --> 00:54:29:11] aqui a linha do olho com a linha do queixo,
+[00:54:29:12 --> 00:54:31:02] a linha do olho com o topo da cabeça.
+[00:54:31:15 --> 00:54:32:25] Existe aqui uma proporção.
+[00:54:32:28 --> 00:54:35:24] E como nós estamos acostumados, todo dia você vê uma pessoa,
+[00:54:35:27 --> 00:54:37:28] todo dia você olha para a natureza, você olha para o céu,
+[00:54:38:00 --> 00:54:40:07] você olha para as folhas, você olha para os insetos,
+[00:54:40:11 --> 00:54:43:06] você olha para os animais, nós seguimos essa mesma proporção,
+[00:54:43:06 --> 00:54:44:22] da menor parte para a maior parte.
+[00:54:44:25 --> 00:54:46:25] A natureza funciona nessa lógica.
+[00:54:47:07 --> 00:54:49:27] E é por isso que, como nós temos familiaridade com ela,
+[00:54:49:27 --> 00:54:54:13] nós tendemos a achar mais harmônico elementos que seguem essa proporção.
+[00:54:55:04 --> 00:54:56:21] E aí é isso que eles estavam fazendo.
+[00:54:56:22 --> 00:55:00:29] Eles estavam usando a proporção do nosso corpo para construir outros elementos
+[00:55:00:29 --> 00:55:04:07] na arquitetura, na tipografia, nas pinturas e por aí vai.
+[00:55:04:11 --> 00:55:05:24] É o que a gente consegue ver aqui.
+[00:55:07:08 --> 00:55:08:26] Então, é muito interessante traçar essa relação.
+[00:55:09:14 --> 00:55:13:23] Aí eu vou dar mais um salto quântico aqui, mais um salto no tempo,
+[00:55:13:25 --> 00:55:16:07] e nós caímos na Revolução Industrial.
+[00:55:16:12 --> 00:55:18:19] Aqui a gente tem um cartaz do Julius Scheret,
+[00:55:18:19 --> 00:55:21:16] ou Scheret, não sei como que pronuncia, é francês,
+[00:55:21:23 --> 00:55:25:11] para o cabaré parisiense que se chama Folies Bergère.
+[00:55:25:25 --> 00:55:27:10] Também não sei se eu pronunciei certo,
+[00:55:27:15 --> 00:55:30:29] os franceses aí vão dizer se está certo ou errado,
+[00:55:31:05 --> 00:55:33:23] mas esse cartaz é muito curioso.
+[00:55:33:23 --> 00:55:36:16] E fazendo uma análise geométrica dele,
+[00:55:36:16 --> 00:55:41:16] nós conseguimos ver que ele foi um cartaz muito inteligente, muito bem pensado.
+[00:55:41:18 --> 00:55:46:08] Eu vou tirar esses elementos aqui para vocês visualizarem, tá?
+[00:55:46:28 --> 00:55:48:21] Eu quero que vocês visualizem.
+[00:55:49:01 --> 00:55:50:14] Então, olha só que massa.
+[00:55:51:00 --> 00:55:51:26] Vou tirar.
+[00:55:53:03 --> 00:55:53:17] Tirei tudo.
+[00:55:53:21 --> 00:55:54:17] Deixa eu desagrupar.
+[00:55:55:13 --> 00:55:57:26] Olha só como o cartaz conduz o seu olhar.
+[00:55:59:05 --> 00:56:03:13] No centro aqui é nítido o triângulo que existe aqui e o movimento.
+[00:56:04:07 --> 00:56:06:06] Afinal, é um cartaz para um cabaré.
+[00:56:06:09 --> 00:56:10:03] Então, esse cartaz passa muito bem a mensagem dele.
+[00:56:10:09 --> 00:56:16:09] O movimento, a descontração, tanto na tipografia quanto na ilustração.
+[00:56:16:16 --> 00:56:21:21] E existe aqui também um pensamento, uma estrutura para conduzir o seu olhar.
+[00:56:21:24 --> 00:56:23:26] Uma estrutura das formas.
+[00:56:25:06 --> 00:56:27:09] Isso em 1877.
+[00:56:27:09 --> 00:56:29:10] e 7. Então, muito
+[00:56:29:10 --> 00:56:30:13] massa esse cartaz também.
+[00:56:31:04 --> 00:56:33:09] Ele é um exemplo que eu gosto de dar, mas
+[00:56:33:09 --> 00:56:34:16] não é o único, tá?
+[00:56:35:09 --> 00:56:37:11] Olha esse outro cartaz aqui, é mais um...
+[00:56:37:11 --> 00:56:39:00] Opa, tá com uma linha louca aqui.
+[00:56:39:21 --> 00:56:40:21] É mais um
+[00:56:41:07 --> 00:56:43:09] exemplo, né? Dei mais um salto aqui, saí de
+[00:56:43:09 --> 00:56:45:03] 1877 para 1925.
+[00:56:45:16 --> 00:56:47:09] O mundo já era totalmente diferente,
+[00:56:47:19 --> 00:56:49:22] mas nós temos aqui também uma presença
+[00:56:49:22 --> 00:56:51:04] da geometria muito
+[00:56:51:04 --> 00:56:53:07] forte. É nítido, eu não preciso nem colocar nenhum
+[00:56:53:07 --> 00:56:55:10] grid aí, para você ver como que as linhas
+[00:56:55:10 --> 00:56:56:16] te direcionam para aquele
+[00:56:56:16 --> 00:56:58:27] brinco, sei que eu posso chamar de brinco
+[00:56:58:27 --> 00:57:01:06] ou não, na orelha
+[00:57:01:06 --> 00:57:02:15] ali daquela pessoa, né?
+[00:57:02:19 --> 00:57:04:28] E existem outros elementos que nós podemos
+[00:57:04:28 --> 00:57:07:04] trazer, né? Uma cara de surpresa,
+[00:57:07:06 --> 00:57:09:03] mas essa geometria do queixo
+[00:57:09:03 --> 00:57:10:25] e do nariz, que era
+[00:57:10:25 --> 00:57:12:09] típico dessa época, tá?
+[00:57:12:24 --> 00:57:14:09] Mas isso também foi pra uma...
+[00:57:14:09 --> 00:57:17:04] pra um jornal parisiense, também não sei
+[00:57:17:04 --> 00:57:17:25] pronunciar, Le...
+[00:57:18:18 --> 00:57:19:29] Le Transcente.
+[00:57:21:17 --> 00:57:24:20] Transigente, acho que é alguma coisa assim,
+[00:57:24:26 --> 00:57:27:05] que era um jornal parisiense de 1925,
+[00:57:27:12 --> 00:57:29:14] feito por um cara chamado Adolphe Mouron.
+[00:57:29:20 --> 00:57:33:12] E essa também é uma obra muito conhecida,
+[00:57:33:12 --> 00:57:36:01] muito famosa, e que conduz o nosso olhar.
+[00:57:36:10 --> 00:57:38:25] As diagonais dão muito movimento para a cena,
+[00:57:38:26 --> 00:57:42:10] nós vamos falar bastante sobre isso em outras aulas,
+[00:57:42:29 --> 00:57:45:19] mas é nítido aqui a presença da geometria,
+[00:57:45:23 --> 00:57:48:13] a presença da composição, a repetição dos elementos,
+[00:57:48:22 --> 00:57:51:03] a proporção dos elementos, é muito interessante
+[00:57:51:03 --> 00:57:57:19] muito interessante e constrói muito bem essa composição. E aí aqui dando um salto de mais alguns anos, quase 20 anos.
+[00:57:59:00 --> 00:58:00:13] A gente entra na arquitetura.
+[00:58:00:14 --> 00:58:04:11] E lembra que eu falei lá atrás que os góticos ornamentavam demais?
+[00:58:04:24 --> 00:58:06:25] E agora cada vez mais nós tiramos elementos.
+[00:58:07:01 --> 00:58:08:16] Isso aqui é a época do Lesse's More.
+[00:58:09:01 --> 00:58:11:00] E essa aqui é uma casa do Mies van der Rohe.
+[00:58:12:13 --> 00:58:20:22] que é da época do modernismo, uma casa super simples, mas bem geométrica, bem alinhada e que traz um conforto visual.
+[00:58:20:26 --> 00:58:28:15] É fácil e rápido de entender essa casa, isso que é o mais curioso sobre ela.
+[00:58:28:23 --> 00:58:34:13] E o que eu gosto dessa casa é que ela parece atual, a gente poderia falar que é uma casa que foi feita esse ano,
+[00:58:34:18 --> 00:58:40:23] mas ela foi feita em 1949, ela terminou de ser construída em 1949, se eu não me engano,
+[00:58:40:23 --> 00:58:42:09] O primeiro projeto dela foi em 1941
+[00:58:44:22 --> 00:58:48:08] Em 1945, o primeiro projeto dela, se eu não me engano.
+[00:58:49:02 --> 00:58:51:14] Então, quase, daqui a pouco vai fazer 100 anos.
+[00:58:51:24 --> 00:58:54:13] Daqui a pouco foi um pouco exagerado.
+[00:58:54:14 --> 00:58:58:24] Mas já tem 80 anos dessa obra.
+[00:58:58:27 --> 00:59:00:24] 70 anos dessa obra.
+[00:59:00:27 --> 00:59:02:29] Então, é muito legal ver ela aí também.
+[00:59:03:02 --> 00:59:04:27] Os móveis lá dentro também bem pensados.
+[00:59:04:27 --> 00:59:09:19] Nessa época do modernismo, eles pensavam que a menor parte, a maior parte,
+[00:59:10:07 --> 00:59:14:08] deviam ser pensados como um todo, um coletivo, bem relacionado com a Gestalt.
+[00:59:14:22 --> 00:59:17:05] E Mies van der Rohe foi um dos grandes nomes da arquitetura.
+[00:59:17:05 --> 00:59:19:06] Nós temos também Oscar Niemeyer,
+[00:59:19:12 --> 00:59:22:03] antes do Mies van der Rohe também tem o Le Corbusier,
+[00:59:23:02 --> 00:59:25:20] que fundaram esse estilo.
+[00:59:26:12 --> 00:59:27:27] E aí a gente vê uma grande diferença,
+[00:59:28:03 --> 00:59:31:03] mas vários princípios de composição aqui na arquitetura também.
+[00:59:31:05 --> 00:59:33:26] O alinhamento, as proporções, a simplicidade.
+[00:59:33:26 --> 00:59:34:29] Lembra lá atrás eu falei?
+[00:59:35:10 --> 00:59:38:20] Elementos que são simples, regulares, geométricos,
+[00:59:38:20 --> 00:59:41:13] são mais fáceis do nosso cérebro entender.
+[00:59:41:13 --> 00:59:55:17] É por isso que mesmo que, vamos voltar aqui na catedral, mesmo que essa catedral tenha sim uma proporção, isso aqui é uma obra-prima, ela ainda se é um pouco mais confusa de compreender porque ela é cheia de detalhes.
+[00:59:55:17 --> 00:59:58:22] Mas olha só, você reparou esse tanto de estátuas que existem aqui?
+[00:59:59:12 --> 01:00:05:23] São muitas estátuas, são muitos e muitos detalhezinhos ali que estão importantes para a obra,
+[01:00:05:25 --> 01:00:10:20] são importantes para aquele período, mas no período do modernismo eles entenderam o seguinte,
+[01:00:10:27 --> 01:00:17:16] menos é mais, menos é mais fácil de digerir, é mais fácil de compreender e consequentemente é mais harmônico.
+[01:00:17:20 --> 01:00:19:12] É o que eles entenderam a levar.
+[01:00:20:00 --> 01:00:25:12] Hoje nós podemos utilizar os dois estilos, nós aprendemos que não necessariamente nós precisamos fazer só um,
+[01:00:25:17 --> 01:00:27:26] ou outro, tudo depende da percepção
+[01:00:27:26 --> 01:00:29:12] que nós queremos conduzir
+[01:00:29:12 --> 01:00:31:02] na cabeça do nosso público,
+[01:00:31:09 --> 01:00:33:15] tá bom? Mas aqui está um exemplo para vocês.
+[01:00:33:25 --> 01:00:35:10] E mais um salto aqui, agora
+[01:00:35:10 --> 01:00:37:09] um dos mais divertidos, a gente vai chegando
+[01:00:37:09 --> 01:00:39:14] no nosso tempo de agora, a época da
+[01:00:39:14 --> 01:00:41:14] editoração eletrônica. E tem
+[01:00:41:14 --> 01:00:43:12] um detalhe aqui, né? Só de falar editoração
+[01:00:43:12 --> 01:00:45:24] eletrônica, já parece uma coisa antiga.
+[01:00:45:29 --> 01:00:47:08] E é curioso como que os
+[01:00:47:24 --> 01:00:49:16] nomes, os termos, eles mudam
+[01:00:49:16 --> 01:00:51:14] e as coisas realmente começam a ter
+[01:00:51:14 --> 01:00:53:14] um aspecto de velhas, né? Eu acho
+[01:00:53:14 --> 01:00:55:26] muito legal aqui. Antigamente
+[01:00:55:26 --> 01:00:57:14] era chamado de editoração
+[01:00:57:14 --> 01:00:59:15] eletrônica. Usar o computador
+[01:00:59:15 --> 01:01:01:03] para editorar, para diagramar
+[01:01:01:03 --> 01:01:02:28] revistas, jornais e por aí vai.
+[01:01:03:05 --> 01:01:05:21] E surgiu então, os computadores
+[01:01:05:21 --> 01:01:07:09] surgiram, surgiu então
+[01:01:07:09 --> 01:01:09:29] a editoração eletrônica
+[01:01:09:29 --> 01:01:12:03] e trouxe uma série de ferramentas
+[01:01:12:03 --> 01:01:14:00] para os designers. Só que acontece
+[01:01:14:00 --> 01:01:16:13] uma coisa muito curiosa aqui. Na contramão
+[01:01:16:13 --> 01:01:18:14] do minimalismo, na contramão
+[01:01:18:14 --> 01:01:20:04] do modernismo. Como as
+[01:01:20:04 --> 01:01:22:02] ferramentas entregaram uma infinidade
+[01:01:22:02 --> 01:01:24:12] de possibilidades para as pessoas, as pessoas se tornaram
+[01:01:24:12 --> 01:01:26:13] confusas, a própria ferramenta é confusa
+[01:01:26:13 --> 01:01:27:26] dá uma olhada nessa intro
+[01:01:27:26 --> 01:01:30:09] das ferramentas, como que era confuso
+[01:01:30:09 --> 01:01:32:08] não tinha tanta, existia um pouquinho
+[01:01:32:08 --> 01:01:33:26] de hierarquia, mas ainda assim
+[01:01:33:26 --> 01:01:36:00] era confuso, era informação demais
+[01:01:36:00 --> 01:01:38:00] era elemento demais, muita textura
+[01:01:38:00 --> 01:01:40:02] bem parecido com o período ali
+[01:01:40:02 --> 01:01:41:26] da renascença, período da idade média
+[01:01:41:26 --> 01:01:43:27] com o tempo, hoje se você abre um Photoshop
+[01:01:43:27 --> 01:01:46:01] e olha o estreito, você vê que existe uma certa simplicidade
+[01:01:46:01 --> 01:01:48:05] porque a simplicidade é mais pregnante
+[01:01:48:05 --> 01:01:49:24] é mais memorável
+[01:01:49:24 --> 01:01:54:24] Mas eu acho muito legal voltar e trazer isso aqui para vocês.
+[01:01:54:26 --> 01:01:59:00] Essa é uma abertura do Illustrator de 92 e essa é uma abertura do Photoshop de 1990.
+[01:02:00:02 --> 01:02:02:19] E isso aqui foi uma grande revolução.
+[01:02:05:11 --> 01:02:12:24] Um ponto de contato que reinou durante muito tempo foram as revistas, o campo editorial do design.
+[01:02:13:09 --> 01:02:19:02] Revistas, livros, eu peguei aqui algumas diagramações da Vogue para vocês verem isso aqui também é composição.
+[01:02:19:02 --> 01:02:40:28] Hoje as revistas são menos notáveis, a gente migrou das revistas para os sites, as páginas agora são os sites, mas nós conseguimos ver aqui um cuidado com vários conceitos, vários princípios que vieram ali da Renascença, que vieram de antes da Renascença, quando a gente pega os gregos, proporção áurea, o alinhamento dos elementos.
+[01:02:42:05 --> 01:02:54:22] Então, é uma história. O que eu quis mostrar aqui para vocês, principalmente, é que existe uma história, existe uma série de evoluções, de marcos importantes para nós chegarmos onde nós estamos hoje.
+[01:02:56:03 --> 01:03:00:03] E o que acontece? A maioria dos designers vão criar e não sabem dessa história,
+[01:03:00:05 --> 01:03:05:17] não sabem desses conceitos e acabam cometendo erros que já foram corrigidos há centenas de anos.
+[01:03:05:29 --> 01:03:08:10] Erros que já foram compreendidos.
+[01:03:08:20 --> 01:03:14:17] E dentro desse episódio e desse módulo todo de composição,
+[01:03:14:20 --> 01:03:17:20] o meu objetivo aqui é mostrar para vocês esses erros.
+[01:03:17:24 --> 01:03:21:01] E o objetivo desse primeiro episódio é mostrar ao longo da história
+[01:03:21:01 --> 01:03:25:11] como que já existe uma propensão, uma tendência humana para querer organizar as coisas
+[01:03:25:11 --> 01:03:29:00] e com o tempo como nós fomos evoluindo e compreendendo cada vez mais
+[01:03:29:00 --> 01:03:31:18] não só o nosso cérebro e a maneira como ele funciona,
+[01:03:31:25 --> 01:03:35:09] mas também como criar composições mais harmônicas para as pessoas.
+[01:03:35:22 --> 01:03:39:09] E aí para fechar aqui essa lógica na editoração gráfica aqui,
+[01:03:39:11 --> 01:03:42:12] nós temos os sites que também são composições.
+[01:03:42:17 --> 01:03:44:11] Então eu coloquei aqui dois wireframes para vocês,
+[01:03:44:15 --> 01:03:48:03] que é o planejamento inicial de uma página,
+[01:03:48:08 --> 01:03:52:08] depois que você já tem conteúdo, arquitetura da informação, aquela coisa toda,
+[01:03:52:12 --> 01:03:54:20] você desenha os wireframes que são as estruturas.
+[01:03:54:20 --> 01:03:56:27] E isso aqui é um planejamento de composição.
+[01:03:56:27 --> 01:03:59:03] Isso aqui é layoutar a página.
+[01:03:59:15 --> 01:04:02:05] Assim como aqui, se nós voltarmos...
+[01:04:03:08 --> 01:04:05:27] Também existe aqui um layout, uma organização dos elementos.
+[01:04:06:06 --> 01:04:10:05] E o que nós designers fazemos é layoutar essas páginas,
+[01:04:10:05 --> 01:04:13:14] é organizar essas páginas de uma maneira harmônica
+[01:04:13:14 --> 01:04:17:17] para que seja fácil de absorver e para que gere a emoção desejada,
+[01:04:17:20 --> 01:04:19:24] para que gere desejo, para que gere medo,
+[01:04:19:28 --> 01:04:23:22] ou qualquer que seja a emoção ou mensagem que você quer passar.
+[01:04:23:26 --> 01:04:25:24] Eu acho que eu buguei a página agora para vocês.
+[01:04:25:29 --> 01:04:26:22] Deixa eu voltar aqui.
+[01:04:26:26 --> 01:04:27:04] Espera aí.
+[01:04:27:20 --> 01:04:28:16] Cadê? Cadê? Cadê?
+[01:04:31:24 --> 01:04:36:26] acho que voltou, apertei Tab, aí mudou o modo de visualização,
+[01:04:37:15 --> 01:04:40:10] eita, o modo de visualização do Illustrator.
+[01:04:41:15 --> 01:04:43:27] Então, isso aqui é um contexto histórico para vocês,
+[01:04:44:03 --> 01:04:47:13] e agora eu tenho alguns tópicos importantes para nós tratarmos.
+[01:04:47:13 --> 01:04:52:04] O primeiro deles é que nós vivemos esse movimento do mundo real para o mundo ideal.
+[01:04:52:07 --> 01:04:56:18] Isso daqui já é carta marcada aqui dentro do nosso treinamento.
+[01:04:56:24 --> 01:04:59:07] Você já entende o que é o mundo real, entende o que é o mundo real,
+[01:04:59:07 --> 01:05:04:16] e entende que existe uma valsa entre esses dois mundos, um movimento do mundo real para o ideal e do ideal para o real.
+[01:05:04:21 --> 01:05:08:13] Mas esse movimento, ele cada vez tem se tornado mais complexo.
+[01:05:08:13 --> 01:05:14:22] Porque se antes a gente pega o período das cavernas, o período paleolítico, mesolítico, neolítico, egípcios, gregos,
+[01:05:15:12 --> 01:05:18:21] muitas das relações eram feitas com base na natureza.
+[01:05:19:01 --> 01:05:23:06] Se eu pego inclusive os egípcios, até os egípcios, se depois eu começo a pegar os gregos aqui,
+[01:05:23:06 --> 01:05:28:04] aqui vocês começam a perceber que as formas começam a se tornar mais abstratas,
+[01:05:28:04 --> 01:05:34:01] muitas vezes simbólicas, e entrar num campo das ideias, o mundo ideal.
+[01:05:34:06 --> 01:05:38:09] Esse campo das ideias, o mundo ideal, que nós vemos muito no alfabeto,
+[01:05:38:09 --> 01:05:41:15] na escrita grega, bem simbólico, bem abstrato,
+[01:05:41:16 --> 01:05:43:07] ele começa a influenciar o mundo real.
+[01:05:43:18 --> 01:05:47:03] E se a gente dá um salto no tempo e pega agora o período do modernismo,
+[01:05:47:04 --> 01:05:49:14] ou agora o momento contemporâneo que a gente vive,
+[01:05:49:14 --> 01:05:52:08] cada vez mais o abstrato
+[01:05:52:08 --> 01:05:54:00] toma conta do real
+[01:05:54:00 --> 01:05:56:07] quando a gente pensa em inteligência
+[01:05:56:07 --> 01:05:58:01] artificial, quando a gente
+[01:05:58:01 --> 01:06:00:01] pensa em realidade virtual, realidade
+[01:06:00:01 --> 01:06:02:06] aumentada, esse mundo das ideias
+[01:06:02:06 --> 01:06:04:12] cada vez mais transforma
+[01:06:04:12 --> 01:06:04:25] o mundo real
+[01:06:04:25 --> 01:06:08:03] e as relações que antes eram muito naturais
+[01:06:08:03 --> 01:06:10:14] começam a se tornar complexas
+[01:06:10:14 --> 01:06:12:07] e nós começamos a fazer relações
+[01:06:12:07 --> 01:06:14:09] de uma coisa artificial com outra
+[01:06:14:09 --> 01:06:15:09] coisa artificial
+[01:06:15:09 --> 01:06:18:15] e esses são os movimentos mais importantes
+[01:06:18:15 --> 01:06:21:29] No primeiro episódio dos Fundamentos e das Formas, nós falamos disso.
+[01:06:22:04 --> 01:06:27:13] O movimento do concreto para o abstrato e o movimento do natural para o artificial.
+[01:06:27:24 --> 01:06:29:21] Não sei se você vai lembrar, mas a gente falou disso lá.
+[01:06:30:04 --> 01:06:34:19] E esses dois movimentos são os mais importantes quando nós falamos da mensagem.
+[01:06:34:21 --> 01:06:39:22] Porque esses dois mundos estão formando uma espécie de eclipse entre eles.
+[01:06:40:07 --> 01:06:46:00] Então, eles começam a um sobrepor o outro e as coisas ficarem cada vez mais tramadas e mais complexas.
+[01:06:46:00 --> 01:06:48:24] Quando a gente começa a falar de conceitos como a nuvem.
+[01:06:49:06 --> 01:06:51:16] Antigamente você construiu uma pirâmide com tijolo.
+[01:06:51:25 --> 01:06:55:01] E aí essa pirâmide com o tempo vai se desfazendo e vai estragando.
+[01:06:55:07 --> 01:07:00:09] Hoje em dia se você tira uma foto dessa pirâmide, você tem congelado aquele momento para a eternidade.
+[01:07:00:20 --> 01:07:04:29] Olha como que a materialidade das coisas começa a mudar.
+[01:07:05:01 --> 01:07:07:17] O mundo material começa a perder força.
+[01:07:08:00 --> 01:07:15:09] E o mundo imaterial, aquele mundo de essência, o mundo que é intangível, ele começa cada vez mais a ganhar força.
+[01:07:15:09 --> 01:07:30:01] Por quê? Porque ele é eterno. Platão já falava isso, o mundo das ideias é o mundo perfeito, é o mundo eterno, é aquele mundo que não muda. E nós cada vez mais estamos nos envolvendo nesse mundo.
+[01:07:30:01 --> 01:07:33:12] E aqui nas composições nós vamos ter esse mesmo movimento.
+[01:07:34:09 --> 01:07:39:00] Mas isso não quer dizer que nós vamos abandonar os conceitos que são naturais,
+[01:07:39:01 --> 01:07:46:22] porque eles ainda fazem parte da essência do núcleo, da forma como o nosso cérebro funciona.
+[01:07:47:01 --> 01:07:54:18] Então, conceitos como alinhamento, proporção, os espaços vazios, os espaços preenchidos, ritmo,
+[01:07:54:18 --> 01:07:57:01] são conceitos importantíssimos.
+[01:07:57:29 --> 01:08:01:24] Regularidade, que nós vamos falar ao longo dos próximos episódios.
+[01:08:02:03 --> 01:08:06:03] Conceitos esses que vão te ajudar a criar composições muito mais harmônicas.
+[01:08:06:09 --> 01:08:08:03] E o que a gente pode chamar de harmônico aqui
+[01:08:08:03 --> 01:08:12:16] é o que é facilmente interpretado e organizado pelo seu cérebro.
+[01:08:13:03 --> 01:08:16:00] Se o seu cérebro interpreta e organiza isso com facilidade,
+[01:08:16:00 --> 01:08:17:19] você tem uma composição harmônica.
+[01:08:17:22 --> 01:08:21:04] E é isso que eu quero ensinar para vocês nos próximos episódios.
+[01:08:21:04 --> 01:08:26:00] E aí agora, para fechar, o que é importante você guardar aqui sobre essa aula?
+[01:08:26:03 --> 01:08:29:09] Primeira coisa, todas as relações começaram na natureza.
+[01:08:29:16 --> 01:08:33:04] Segunda coisa, nosso cérebro tem tendência para organizar.
+[01:08:33:24 --> 01:08:35:19] Nós vamos falar muito sobre isso na próxima aula, inclusive,
+[01:08:35:26 --> 01:08:40:00] que é uma aula sobre a fisiologia, o grau fisiológico da composição.
+[01:08:40:02 --> 01:08:41:06] Nós vamos falar sobre isso.
+[01:08:41:10 --> 01:08:43:28] E, por último, criar composições é traçar relação.
+[01:08:44:09 --> 01:08:47:16] Traçar relação entre elementos, entre tamanhos,
+[01:08:47:16 --> 01:08:50:15] entre espaços vazios e espaços preenchidos,
+[01:08:50:16 --> 01:08:52:00] que nós chamamos isso de ritmo.
+[01:08:52:05 --> 01:08:55:06] Então, nada mais é do que traçar a relação entre os elementos.
+[01:08:55:11 --> 01:08:59:16] Isso é compor, isso é configurar uma série de elementos dentro de um espaço.
+[01:09:00:05 --> 01:09:01:27] Então, essa foi a nossa aula de hoje.
+[01:09:03:01 --> 01:09:05:12] Ou talvez todas vão ser só a aula de hoje, não sei.
+[01:09:05:16 --> 01:09:07:21] Às vezes você vai querer maratonar e assistir todas as aulas.
+[01:09:07:24 --> 01:09:12:16] Enfim, essa foi a nossa aula sobre a introdução aos fundamentos da composição.
+[01:09:12:16 --> 01:09:18:03] E na próxima aula, nós vamos falar sobre o grau fisiológico da composição.
+[01:09:18:04 --> 01:09:20:09] Eu vou te mostrar como que o nosso cérebro funciona
+[01:09:20:09 --> 01:09:24:04] e como que você pode tornar mais harmônica a sua composição,
+[01:09:24:04 --> 01:09:26:06] olhando para o lado fisiológico.
+[01:09:26:07 --> 01:09:28:01] Então, vejo você na próxima aula.
+[01:09:28:05 --> 01:09:29:22] Vou ficando por aqui e fui!
+[01:09:30:02 --> 01:09:30:21] Tchau, tchau!

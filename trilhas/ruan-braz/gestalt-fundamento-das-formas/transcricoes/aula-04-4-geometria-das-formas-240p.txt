@@ -1,0 +1,1515 @@
+# Video: 4._geometria_das_formas (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-28 11:28
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:01 --> 00:00:06:09] Começamos mais uma aula sobre os fundamentos das formas e, dessa vez, para falarmos sobre
+[00:00:06:09 --> 00:00:08:21] a geometria das formas.
+[00:00:08:25 --> 00:00:13:18] Nos últimos episódios, nós entendemos os efeitos psicológicos que as formas podem
+[00:00:13:18 --> 00:00:14:16] nos gerar.
+[00:00:14:20 --> 00:00:18:01] Hoje aqui, nós vamos falar sobre a geometria das formas.
+[00:00:18:03 --> 00:00:23:14] Nós vamos entender algumas outras regras, alguns outros conceitos muito importantes
+[00:00:23:14 --> 00:00:28:17] que afetam diretamente os nossos projetos, principalmente porque, como nós vimos no
+[00:00:28:17 --> 00:00:33:28] No último episódio, nós seres humanos temos uma forte tendência à organização, uma
+[00:00:33:28 --> 00:00:35:25] propensão à lógica.
+[00:00:35:28 --> 00:00:42:24] A verdade é que eu já vi excelentes projetos de design serem destruídos pela falta de
+[00:00:42:24 --> 00:00:44:10] conhecimento da geometria.
+[00:00:44:13 --> 00:00:49:13] Então, o primeiro motivo para a gente estudar geometria é porque a falta de conhecimento
+[00:00:49:13 --> 00:00:56:04] sobre ela pode atrapalhar muito a sua aplicação, a sua realização de um conceito.
+[00:00:56:04 --> 00:01:02:28] eu já vi excelentes conceitos serem mal aplicados. Por quê? Por falta de coerência. A geometria
+[00:01:02:28 --> 00:01:08:17] vai dar lógica, coerência, relação entre os elementos. Então, esse é o primeiro
+[00:01:08:17 --> 00:01:13:19] motivo para nós estudarmos essa aula. O segundo motivo para nós estudarmos a geometria
+[00:01:13:19 --> 00:01:18:18] das formas é porque o mundo real possui suas próprias regras. Como nós vimos no primeiro
+[00:01:18:18 --> 00:01:26:04] episódio e também no segundo, existem algumas regras. A regra do espaço, a regra da
+[00:01:26:04 --> 00:01:33:01] constante com o mundo real, gerou em nós seres humanos uma preferência pela lógica. O mundo é
+[00:01:33:01 --> 00:01:38:22] lógico, o mundo tem a própria lógica e como nós vivemos nesse mundo, nós estamos condicionados a
+[00:01:38:22 --> 00:01:44:27] essa lógica. Lembra da planolândia? As três dimensões, a segunda dimensão? Nós estamos em
+[00:01:44:27 --> 00:01:51:24] uma realidade onde nós conseguimos perceber até a terceira dimensão. Uma quarta dimensão para
+[00:01:51:24 --> 00:01:56:16] a gente, com a nossa estrutura biológica, é inconcebível, nós não conseguimos imaginar
+[00:01:56:16 --> 00:02:01:18] isso porque a nossa estrutura biológica, os nossos cinco sentidos que nos fazem ter
+[00:02:01:18 --> 00:02:06:02] contato com o mundo real, nos impedem de perceber uma quarta dimensão.
+[00:02:06:10 --> 00:02:11:07] Então, uma vez que a gente entende essa premissa, nós devemos criar os nossos projetos
+[00:02:11:07 --> 00:02:13:19] pensando em como a nossa mente funciona.
+[00:02:14:00 --> 00:02:18:10] Então bora lá entender um pouco mais sobre a geometria, já que você entendeu
+[00:02:18:10 --> 00:02:21:29] quais são as premissas e por que ela é tão importante para nós designers.
+[00:02:22:11 --> 00:02:27:03] A primeira coisa que nós precisamos fazer é dividir a geometria em duas partes, até
+[00:02:27:03 --> 00:02:29:07] porque nós temos quatro fundamentos.
+[00:02:29:15 --> 00:02:35:00] A primeira parte da geometria, nós vamos estudar a geometria das formas.
+[00:02:35:07 --> 00:02:40:10] Então nós vamos estudar as formas isoladas de um contexto, de uma composição.
+[00:02:40:21 --> 00:02:45:27] Quando nós entrarmos no módulo de composição, os fundamentos da composição, nós voltaremos
+[00:02:45:27 --> 00:02:51:26] no conceito de geometria, para falar da geometria do espaço, da organização de elementos.
+[00:02:52:01 --> 00:02:58:06] Nós vamos falar de grids, nós vamos falar de hierarquia da informação e vários outros
+[00:02:58:06 --> 00:03:04:21] conceitos importantes que encaixam muito bem com a geometria da composição.
+[00:03:04:29 --> 00:03:09:18] Uma outra coisa importante de falar também aqui, é que nós vamos dividir essa aula
+[00:03:09:18 --> 00:03:12:01] em duas partes, beleza?
+[00:03:12:01 --> 00:03:19:04] Então, nós teremos uma primeira parte que nós vamos estudar a geometria plana, a geometria
+[00:03:19:04 --> 00:03:23:15] da planolândia, literalmente, e depois nós teremos uma segunda parte onde nós vamos
+[00:03:23:15 --> 00:03:29:26] estudar a geometria espacial, que é a geometria da terceira dimensão.
+[00:03:30:03 --> 00:03:36:26] Então, vamos voltar aqui no básico um pouquinho do que a gente já falou no primeiro episódio
+[00:03:36:26 --> 00:03:43:01] desse módulo, que as formas estão sujeitas às regras da realidade.
+[00:03:43:07 --> 00:03:49:04] Nós começamos a falar, falamos da matéria, falamos do espaço, inclusive o espaço é
+[00:03:49:04 --> 00:03:52:21] muito importante para a geometria das formas.
+[00:03:53:03 --> 00:03:56:28] Entendemos então que a menor unidade é o ponto, só que o ponto não tem dimensão,
+[00:03:56:28 --> 00:03:58:02] ele é uma coordenada.
+[00:03:58:09 --> 00:04:02:16] A primeira dimensão é a dimensão da reta, depois temos a dimensão dos planos
+[00:04:02:16 --> 00:04:05:24] e a dimensão do volume, a dimensão espacial,
+[00:04:06:04 --> 00:04:12:16] onde nós temos três eixos aqui, que é o eixo Y, o eixo X e o eixo Z.
+[00:04:12:22 --> 00:04:15:12] Hoje, minha língua está embolando aqui, que é uma beleza, hein?
+[00:04:16:04 --> 00:04:17:00] E o eixo Z.
+[00:04:17:08 --> 00:04:21:22] Então, essas três dimensões são as dimensões que nós estudamos a geometria.
+[00:04:22:03 --> 00:04:25:07] Hoje, aqui nessa primeira parte, nesse primeiro episódio aqui,
+[00:04:25:19 --> 00:04:29:10] nós vamos falar sobre essas duas dimensões,
+[00:04:29:10 --> 00:04:33:04] principalmente sobre a segunda dimensão, a geometria plana.
+[00:04:33:07 --> 00:04:39:18] Depois, na segunda parte, o episódio que segue esse, nós vamos falar sobre a geometria espacial tridimensional.
+[00:04:39:29 --> 00:04:41:08] Beleza? Então, bora lá.
+[00:04:41:19 --> 00:04:44:26] A gente precisa conhecer alguns termos que são importantes.
+[00:04:45:05 --> 00:04:49:04] Nós já falamos um pouquinho sobre a reta, que para uma reta existir ela precisa
+[00:04:49:04 --> 00:04:53:06] pelo menos de dois pontos. A reta é uma distância entre dois pontos.
+[00:04:53:17 --> 00:04:58:06] E entre esses dois pontos existe uma infinidade de pontos que forma uma reta.
+[00:04:58:06 --> 00:05:03:03] Então, esse é o primeiro conceito que nós precisamos entender sobre as retas.
+[00:05:03:10 --> 00:05:07:00] Nós podemos dispor essas retas de diversas maneiras diferentes.
+[00:05:07:04 --> 00:05:12:25] Então, a gente tem retas horizontais, retas que são verticais, retas inclinadas,
+[00:05:13:05 --> 00:05:19:01] retas que podem ser perpendiculares, ou seja, elas cortam de maneira perpendicular,
+[00:05:19:03 --> 00:05:21:04] formando um ângulo de 90 graus.
+[00:05:21:12 --> 00:05:24:00] Então, o primeiro conceito são as retas.
+[00:05:24:00 --> 00:05:31:03] O segundo conceito muito importante é o conceito de segmento de reta, porque o segmento de reta
+[00:05:31:03 --> 00:05:37:04] é o que dá um nome, o que nos faz identificar uma parte da reta que nós queremos trabalhar.
+[00:05:37:27 --> 00:05:42:22] Então, é como um corte, nós cortamos uma parte da reta que queremos trabalhar.
+[00:05:42:25 --> 00:05:48:00] Então, olha só, aqui nós temos um segmento AB, então ele vai desse ponto A aqui até
+[00:05:48:00 --> 00:05:52:24] esse ponto B aqui, então segmento AB, aqui nós temos um segmento CD.
+[00:05:52:24 --> 00:05:56:25] Muito simples, mas muito importante, vocês vão ver aqui ainda nesse episódio, porque
+[00:05:56:25 --> 00:05:58:14] nós precisamos conhecer esse conceito.
+[00:05:58:25 --> 00:06:01:22] O conceito de ponto médio, o que é o ponto médio?
+[00:06:02:00 --> 00:06:08:12] É um ponto que está equidistante, ou seja, que possui a mesma distância entre suas duas
+[00:06:08:12 --> 00:06:09:03] extremidades.
+[00:06:09:09 --> 00:06:13:05] Ponto médio porque ele fica na média de um segmento de reta.
+[00:06:13:12 --> 00:06:17:28] Então a gente tem um segmento AB aqui, é como se essa reta aqui fosse de zero
+[00:06:17:28 --> 00:06:18:26] a 10.
+[00:06:20:12 --> 00:06:22:09] e aqui fosse o 5.
+[00:06:22:14 --> 00:06:27:22] Então, a gente tem a média, o ponto médio fica exatamente na média de um segmento.
+[00:06:28:17 --> 00:06:30:15] E então, aqui a gente tem o ponto médio AB.
+[00:06:31:00 --> 00:06:33:16] Aqui, nós temos um ponto médio de CD,
+[00:06:33:23 --> 00:06:37:03] um segmento que vai do ponto C até o ponto D
+[00:06:37:03 --> 00:06:40:21] e o ponto médio fica na média desse segmento.
+[00:06:40:27 --> 00:06:43:15] E nós temos aqui um outro conceito muito importante,
+[00:06:43:26 --> 00:06:46:10] que é a mediatriz.
+[00:06:46:10 --> 00:06:53:11] A mediatriz é uma reta que corta de maneira perpendicular outra reta.
+[00:06:53:12 --> 00:06:58:01] Um segmento de reta que corta de maneira perpendicular outro segmento de reta.
+[00:06:58:05 --> 00:07:02:02] Então, a gente tem aqui a mediatriz de AB que compartilha...
+[00:07:02:02 --> 00:07:09:27] Uma mediatriz é um segmento de reta que compartilha um ponto, um único ponto com
+[00:07:09:27 --> 00:07:11:11] outro segmento de reta.
+[00:07:11:11 --> 00:07:18:13] Então, quando a gente corta aqui, existe um ponto que os dois segmentos de reta compartilham.
+[00:07:18:16 --> 00:07:25:26] Aqui nós temos também outra mediatriz, que é a mediatriz do segmento CD.
+[00:07:26:01 --> 00:07:29:24] Nós temos a linha de construção, que são essas duas aqui,
+[00:07:29:29 --> 00:07:34:00] e temos a linha de estrutura, a reta de estrutura, que no caso é essa aqui.
+[00:07:34:05 --> 00:07:36:13] Por que essa linha de construção é importante?
+[00:07:36:13 --> 00:07:42:09] Porque aqui nós temos uma maneira muito fácil de encontrar o ponto médio.
+[00:07:42:21 --> 00:07:47:27] Parece que nós vamos dar algumas voltas, mas no final vai fazer muito sentido para vocês.
+[00:07:48:12 --> 00:07:53:16] Então, deixa eu apagar isso daqui para vocês verem porque essa linha de construção
+[00:07:53:16 --> 00:07:54:16] aqui é tão importante.
+[00:07:54:29 --> 00:07:57:14] Então, eu vou criar um segmento de reto aqui, beleza?
+[00:07:58:18 --> 00:08:01:27] e vou dar o nome dele de BC dessa vez.
+[00:08:01:29 --> 00:08:04:17] Então, é o segmento de reta BC.
+[00:08:04:23 --> 00:08:09:13] Ou seja, um segmento de reta que vai de uma extremidade de um ponto B até um ponto C.
+[00:08:09:27 --> 00:08:17:03] E nós queremos encontrar a mediatriz, ou seja, o ponto médio que existe nesse segmento de reta.
+[00:08:17:10 --> 00:08:21:07] Como eu disse para vocês no Illustrator, se eu criar um segundo...
+[00:08:21:07 --> 00:08:23:19] Um segundo... Opa! Deixa eu pegar ele aqui que ele sumiu.
+[00:08:24:06 --> 00:08:28:10] Se eu criar um segundo segmento aqui de reta, eu só preciso selecionar os dois
+[00:08:28:18 --> 00:08:34:06] Marcar esse daqui como âncora, alinhar, alinhar. Pronto, encontrei.
+[00:08:34:16 --> 00:08:39:02] Super simples, né? Muito fácil de encontrar aqui a mediatriz.
+[00:08:39:24 --> 00:08:42:21] Mas, deixa eu mostrar para vocês qual que é a lógica por trás disso,
+[00:08:42:24 --> 00:08:46:22] uma maneira de encontrar a mediatriz sem usar essa ferramenta,
+[00:08:46:25 --> 00:08:49:15] porque essa lógica vai ser importante logo na frente.
+[00:08:49:17 --> 00:08:52:07] Então, nós estamos trabalhando aqui um conceito fundamental.
+[00:08:52:09 --> 00:08:53:27] É simples, mas é fundamental.
+[00:08:55:01 --> 00:08:57:15] A gente parte do princípio aqui que existe.
+[00:08:57:15 --> 00:09:03:01] eu vou fazer um xzinho para a gente ter de referência, tá? Para marcar como se fosse
+[00:09:03:01 --> 00:09:07:03] uma coordenada. Nós temos aqui, então, no ponto B...
+[00:09:08:09 --> 00:09:15:27] Aqui, o ponto B é uma extremidade, então eu alinho aqui e alinho isso no centro aqui.
+[00:09:16:18 --> 00:09:17:27] Deixa eu puxar ele certinho.
+[00:09:19:29 --> 00:09:25:02] Estou marcando um x aqui para a gente representar essa coordenada do ponto B.
+[00:09:25:11 --> 00:09:28:12] E vou marcar aqui também o C.
+[00:09:28:26 --> 00:09:29:08] Beleza?
+[00:09:29:16 --> 00:09:34:02] Marquei o C ali, então, uma coordenada do ponto B e uma coordenada do ponto C, para
+[00:09:34:02 --> 00:09:34:27] ficar mais preciso.
+[00:09:35:08 --> 00:09:38:06] O que a gente precisa fazer para encontrar a média?
+[00:09:38:08 --> 00:09:43:00] Nós precisamos cruzar dois círculos que têm o mesmo raio.
+[00:09:43:08 --> 00:09:44:02] Como a gente faz isso?
+[00:09:44:02 --> 00:09:45:24] Eu vou criar um primeiro círculo aqui então.
+[00:09:46:28 --> 00:09:48:25] Se você tivesse que fazer isso na mão,
+[00:09:49:13 --> 00:09:50:20] basicamente, o que você ia ter que fazer?
+[00:09:50:21 --> 00:09:53:01] Você teria que colocar a ponta seca do compasso,
+[00:09:53:25 --> 00:09:58:02] aquele alfinete do compasso que marca o centro da circunferência.
+[00:09:58:09 --> 00:09:59:29] Você teria que fincar ele aqui
+[00:09:59:29 --> 00:10:05:24] e puxar uma distância do raio da circunferência.
+[00:10:06:07 --> 00:10:08:24] A gente já vai falar sobre raio, vamos falar sobre diâmetro,
+[00:10:08:26 --> 00:10:10:28] se você não sabe o que é isso, vai ficar mais fácil para você.
+[00:10:10:29 --> 00:10:13:03] Mas olha só, a gente puxa aqui do centro
+[00:10:13:03 --> 00:10:16:06] e cria um raio que passa pelo menos...
+[00:10:16:06 --> 00:10:21:05] isso você pode fazer de maneira visual, pode ser gigante ou pode ser pequenininho, não
+[00:10:21:05 --> 00:10:21:22] tem problema.
+[00:10:21:29 --> 00:10:27:25] A única consideração é que visualmente o raio tem que ser maior do que metade do
+[00:10:27:25 --> 00:10:30:08] segmento que nós queremos encontrar a mediatriz.
+[00:10:30:11 --> 00:10:33:04] Então você teria que marcar aqui com um compasso.
+[00:10:33:11 --> 00:10:37:05] Vou fazer um compassozinho aqui só para vocês visualizarem o que eu quero dizer.
+[00:10:37:17 --> 00:10:41:17] Então aqui você fica a ponta seca do compasso aqui, certo?
+[00:10:41:17 --> 00:10:43:19] E aí, você vai pegar ele aqui, ó...
+[00:10:45:20 --> 00:10:48:05] e vai colocar essa parte onde fica o grafite,
+[00:10:48:10 --> 00:10:49:20] você vai abrir um raio...
+[00:10:50:11 --> 00:10:54:02] Você pode, inclusive, abrir esse raio direto no segmento aqui.
+[00:10:54:18 --> 00:10:57:05] Maior do que metade do segmento.
+[00:10:57:08 --> 00:11:00:05] Você consegue ver o que está para depois da metade
+[00:11:00:05 --> 00:11:02:13] sem necessariamente saber onde fica a metade.
+[00:11:02:25 --> 00:11:04:10] Aqui, provavelmente, é depois da metade...
+[00:11:04:10 --> 00:11:05:05] Provavelmente, não.
+[00:11:05:25 --> 00:11:08:17] Logicamente, é depois da metade do segmento.
+[00:11:08:22 --> 00:11:10:12] Então, você pode colocar aqui, por exemplo...
+[00:11:11:11 --> 00:11:19:11] E aí, você vai fazer o quê? Você vai traçar um compasso aqui, sem perder a medida do raio,
+[00:11:19:18 --> 00:11:21:20] você vai traçar aqui um arco.
+[00:11:22:03 --> 00:11:25:06] No caso aqui, como a gente está no Illustrator, eu vou fazer isso de um jeito mais fácil.
+[00:11:25:17 --> 00:11:27:20] Eu centralizei a circunferência aqui, olha.
+[00:11:27:23 --> 00:11:28:23] Então, o que eu preciso fazer?
+[00:11:29:01 --> 00:11:35:22] Com ela centralizada, eu preciso apenas criar aqui um raio que seja mais da metade do segmento.
+[00:11:35:26 --> 00:11:39:18] Depois, eu vou pegar essa circunferência, mantendo o mesmo raio,
+[00:11:39:18 --> 00:11:42:20] e vou duplicá-la para o ponto C aqui, olha.
+[00:11:42:20 --> 00:11:45:04] Coloquei ela exatamente no ponto C.
+[00:11:45:15 --> 00:11:46:18] E olha que interessante.
+[00:11:46:28 --> 00:11:48:24] Nós geramos uma interseção.
+[00:11:48:26 --> 00:11:49:28] O que é uma interseção?
+[00:11:50:08 --> 00:11:53:06] São dois pontos aqui que se cruzam...
+[00:11:53:06 --> 00:11:55:15] Deixe-me voltar aqui para o nosso modelo,
+[00:11:56:12 --> 00:11:57:09] que fica mais fácil.
+[00:11:58:00 --> 00:12:00:28] Vou colocar essas duas linhas como linhas de construção.
+[00:12:01:21 --> 00:12:05:24] Essas duas circunferências aqui como linhas de construção.
+[00:12:05:24 --> 00:12:12:08] E aí nós geramos dois pontos aqui, que se intercedem, mais à frente vocês vão ver
+[00:12:12:08 --> 00:12:18:11] que são... na verdade não é uma tangente porque a tangente compartilha apenas um ponto.
+[00:12:18:14 --> 00:12:23:21] Aqui essas duas circunferências estão compartilhando dois pontos, então nós temos uma interseção
+[00:12:23:21 --> 00:12:25:17] de pontos em dois lugares.
+[00:12:26:00 --> 00:12:32:11] E esses pontos eles estão exatamente alinhados aqui, olha, estão exatamente alinhados e
+[00:12:32:18 --> 00:12:36:15] formam uma reta perpendicular ao...
+[00:12:37:22 --> 00:12:41:16] ao segmento BC aqui, que é o segmento que nós estamos trabalhando.
+[00:12:41:19 --> 00:12:44:25] Vou colocar esse X aqui também como linha de construção,
+[00:12:44:26 --> 00:12:46:01] porque era só coordenada.
+[00:12:46:20 --> 00:12:48:15] Então, a gente tem aqui essa reta paralela.
+[00:12:48:28 --> 00:12:52:03] Essa reta paralela é exatamente a mediatriz.
+[00:12:52:07 --> 00:12:57:18] Então, com essa interseção, a gente chega de maneira lógica na mediatriz.
+[00:12:57:28 --> 00:13:02:24] Caraca, Juan, é mais fácil só clicar e alinhar vertical e horizontal e ponto.
+[00:13:02:28 --> 00:13:04:00] Não, é mais fácil.
+[00:13:04:00 --> 00:13:09:28] mas vocês vão ver como que esse conceito vai ajudar a gente a entender outros conceitos importantes.
+[00:13:10:01 --> 00:13:16:03] Então, vou colocar aqui, mediatriz, o ponto da mediatriz é a reta perpendicular que compartilha
+[00:13:16:03 --> 00:13:18:12] um único ponto com outro segmento de reta.
+[00:13:18:24 --> 00:13:21:24] Bora continuar aqui que vocês vão ver isso aqui fazer mais sentido ainda para vocês.
+[00:13:22:28 --> 00:13:25:13] Outra consideração, outro detalhe importante,
+[00:13:25:25 --> 00:13:29:04] isso aqui passando rapidinho, são conceitos que nós já estudamos também,
+[00:13:29:11 --> 00:13:32:13] e você consegue encontrar essas informações aqui no Google muito fácil.
+[00:13:32:23 --> 00:13:34:25] Mas só para a gente não deixar passar partido.
+[00:13:35:10 --> 00:13:36:26] Existem linhas poligonais,
+[00:13:37:10 --> 00:13:41:21] poligonal vem de vários lados ou vários ângulos.
+[00:13:42:01 --> 00:13:43:06] Vários lados ou vários ângulos.
+[00:13:43:09 --> 00:13:45:26] Então, uma linha poligonal é uma linha que possui vários lados.
+[00:13:45:29 --> 00:13:51:08] Então aqui, 1, 2, 3 lados e 2 ângulos aqui diferentes.
+[00:13:51:08 --> 00:13:57:16] Então, isso é uma linha poligonal aberta, porque ela não é fechada, olha só que lógica difícil, hein?
+[00:13:57:23 --> 00:14:03:13] E nós temos aqui uma linha poligonal fechada, que nós podemos chamar também de polígono,
+[00:14:03:15 --> 00:14:05:03] é um polígono irregular.
+[00:14:05:29 --> 00:14:11:25] Em seguida, a gente tem também os polígonos regulares, que regular vem de exato, igual,
+[00:14:12:10 --> 00:14:16:09] possui uma regularidade, uma consistência nos lados,
+[00:14:16:09 --> 00:14:21:26] Então, todos os lados possuem uma mesma medida e, consequentemente, todos os ângulos também
+[00:14:21:26 --> 00:14:23:24] são o mesmo ângulo.
+[00:14:24:02 --> 00:14:25:20] Então, esses são os polígonos.
+[00:14:25:23 --> 00:14:30:02] Nós podemos falar, por exemplo, polígonos regulares, que o quadrado é um polígono
+[00:14:30:02 --> 00:14:30:13] regular.
+[00:14:30:23 --> 00:14:33:04] Podemos falar que o quadrado é um polígono regular.
+[00:14:33:12 --> 00:14:36:29] Mas ao invés de chamá-los de polígonos, nós geralmente chamamos os quadrados de
+[00:14:36:29 --> 00:14:37:19] quadriláteros.
+[00:14:37:20 --> 00:14:38:20] Nós vamos chegar lá já.
+[00:14:39:04 --> 00:14:41:25] Os triângulos também são polígonos.
+[00:14:41:25 --> 00:14:45:08] eles são formas geométricas que possuem vários lados.
+[00:14:45:11 --> 00:14:46:26] Três lados é um polígono.
+[00:14:47:02 --> 00:14:50:18] Só que são polígonos especiais que nós chamamos de triângulos.
+[00:14:50:24 --> 00:14:54:04] São polígonos triângulos que possuem três ângulos.
+[00:14:54:05 --> 00:14:56:12] O nome também não é nenhum mistério.
+[00:14:57:04 --> 00:14:59:12] Sobre os polígonos regulares e os triângulos.
+[00:14:59:26 --> 00:15:02:08] Nós temos vários polígonos, quanto mais lados,
+[00:15:02:27 --> 00:15:03:22] ele ganha um nome diferente.
+[00:15:03:26 --> 00:15:05:17] Então, tem pentágono de cinco lados,
+[00:15:05:25 --> 00:15:07:10] tem hexágono de seis lados,
+[00:15:07:17 --> 00:15:10:06] tem octógono de oito lados e por aí vai.
+[00:15:10:06 --> 00:15:12:26] Então, esses são os polígonos regulares.
+[00:15:12:29 --> 00:15:17:20] Os triângulos nós dividimos apenas em quatro, são quatro triângulos básicos, que é o
+[00:15:17:20 --> 00:15:23:22] triângulo escaleno, que possui os seus três lados de tamanhos diferentes, o triângulo
+[00:15:23:22 --> 00:15:29:24] isósceles, que possui dois lados iguais, iso vem de dois, isósceles dois lados iguais
+[00:15:29:24 --> 00:15:31:04] e um lado diferente.
+[00:15:31:06 --> 00:15:34:15] Então ele possui dois ângulos iguais e um ângulo diferente.
+[00:15:34:15 --> 00:15:44:19] Nós temos também os triângulos equiláteros que possuem 3 lados iguais e 3 ângulos exatamente
+[00:15:44:19 --> 00:15:44:28] iguais.
+[00:15:45:17 --> 00:15:47:25] Equilátero de equidade, lados iguais.
+[00:15:48:06 --> 00:15:52:23] E o triângulo retângulo, que é todo o triângulo que possui um ângulo reto de
+[00:15:52:23 --> 00:15:53:23] 90 graus.
+[00:15:54:13 --> 00:15:59:19] Retângulo porque geralmente são os retângulos e os quadrados que possuem ângulos retos
+[00:15:59:19 --> 00:16:00:14] de 90 graus.
+[00:16:00:14 --> 00:16:07:07] Os polígonos regulares geralmente têm ângulos mais abertos do que 90 graus. Alguns mais
+[00:16:07:07 --> 00:16:12:03] abertos, outros mais fechados. Se você também não entende sobre os ângulos, sobre raios,
+[00:16:12:04 --> 00:16:16:24] se isso sempre embolou na sua cabeça, pode ficar tranquilo e tranquila que a gente
+[00:16:16:24 --> 00:16:21:02] vai falar sobre isso logo logo. Nós temos, então, depois dos polígonos
+[00:16:21:02 --> 00:16:25:23] regulares e dos triângulos, os quadriláteros, que podem ser divididos basicamente em dois,
+[00:16:25:23 --> 00:16:34:14] os trapézios e os paralelogramas. Os trapézios são polígonos que possuem pelo menos dois
+[00:16:34:14 --> 00:16:40:10] lados paralelos. A gente tem aqui então o trapézio escaleno, que é o trapézio que
+[00:16:40:10 --> 00:16:43:18] possui dois lados paralelos entre si.
+[00:16:44:29 --> 00:16:50:06] O trapézio isósceles que possui dois lados que são congruentes, mas não são paralelos,
+[00:16:50:06 --> 00:16:53:11] eles são inversos e dois lados paralelos.
+[00:16:53:15 --> 00:17:00:12] E nós temos aqui o trapézio retângulo que possui dois lados paralelos e dois ângulos
+[00:17:00:12 --> 00:17:06:09] de 90 graus, ou seja, dois lados paralelos e dois lados que não são paralelos.
+[00:17:06:12 --> 00:17:12:12] Um lado tende a ser bem reto para poder formar esse ângulo de 90 graus.
+[00:17:12:12 --> 00:17:16:04] E os outros quadriláteros são os paralelogramas.
+[00:17:16:04 --> 00:17:17:18] O que são paralelogramas?
+[00:17:17:23 --> 00:17:23:10] São os quadriláteros que possuem os dois lados paralelos, exatamente paralelos.
+[00:17:23:14 --> 00:17:29:06] Então, olha só, a gente tem aqui a vertical, essas duas retas paralelas e na horizontal...
+[00:17:29:06 --> 00:17:30:10] Opa, fiz o contrário, né?
+[00:17:30:14 --> 00:17:31:08] Na horizontal...
+[00:17:31:08 --> 00:17:33:17] Ah, tanto faz aqui, depende de como que eu vou falar.
+[00:17:34:02 --> 00:17:40:07] Nós temos aqui essas duas retas horizontais paralelas e essas duas retas verticais paralelas
+[00:17:40:07 --> 00:17:40:16] também.
+[00:17:40:16 --> 00:17:45:18] O mesmo caso acontece com retângulo, então essas duas retas paralelas, essas duas retas
+[00:17:45:18 --> 00:17:51:00] paralelas e os losangos com essas duas retas paralelas e essas duas retas paralelas.
+[00:17:51:06 --> 00:17:54:18] Isso aqui é básico do básico, se vocês quiserem saber mais é só digitar no Google
+[00:17:54:18 --> 00:17:57:24] formas geométricas e aí vocês vão encontrar isso lá.
+[00:17:57:25 --> 00:18:01:00] Muito simples, mas a gente não podia deixar passar batido aqui.
+[00:18:01:20 --> 00:18:06:18] Agora sobre as circunferências, que eu vejo que muitas pessoas têm certa dificuldade
+[00:18:06:18 --> 00:18:07:03] com isso.
+[00:18:07:03 --> 00:18:08:21] Vamos falar um pouquinho sobre elas.
+[00:18:08:21 --> 00:18:10:17] O que é uma circunferência?
+[00:18:10:17 --> 00:18:15:03] Uma circunferência, basicamente, é um arco
+[00:18:15:03 --> 00:18:18:20] que possui todos os seus pontos externos
+[00:18:18:20 --> 00:18:22:02] em uma distância regular do centro.
+[00:18:22:06 --> 00:18:24:17] Então, aqui a gente tem uma circunferência regular
+[00:18:24:17 --> 00:18:27:08] e também temos as elipses.
+[00:18:27:19 --> 00:18:28:18] O que é uma elipse?
+[00:18:29:27 --> 00:18:36:09] A regularidade dela é um pouco diferente do círculo perfeito,
+[00:18:37:17 --> 00:18:39:06] das circunferências regulares.
+[00:18:39:15 --> 00:18:41:12] Mas ela não deixa de ser regular,
+[00:18:41:17 --> 00:18:43:26] eu falo regular para ficar mais didático,
+[00:18:43:28 --> 00:18:45:26] mas ela não deixa de ser regular porque
+[00:18:46:14 --> 00:18:49:04] a distância que vai existir entre os elementos,
+[00:18:49:19 --> 00:18:51:15] entre os pontos opostos aqui,
+[00:18:52:07 --> 00:18:53:29] é sempre a mesma.
+[00:18:54:04 --> 00:18:56:02] Tende ser sempre a mesma.
+[00:18:56:07 --> 00:18:57:23] Olha só, quando eu abaixo aqui,
+[00:18:58:00 --> 00:18:59:27] a distância dos pontos opostos
+[00:19:00:14 --> 00:19:02:00] é sempre a mesma.
+[00:19:02:04 --> 00:19:03:20] Quando eu faço isso daqui,
+[00:19:03:20 --> 00:19:07:07] eu já não tenho mais uma circunferência, beleza?
+[00:19:07:17 --> 00:19:08:29] Eu já tenho outra forma.
+[00:19:09:06 --> 00:19:11:23] Por quê? Porque a distância desse ponto no centro
+[00:19:11:23 --> 00:19:14:18] é diferente da distância desse ponto no centro.
+[00:19:14:20 --> 00:19:19:09] Nós mudamos o centro aqui e criamos essa diferença, beleza?
+[00:19:19:24 --> 00:19:23:01] O centro foi mudado de lugar, não ficou exato.
+[00:19:23:17 --> 00:19:24:15] E aí, então, beleza?
+[00:19:24:16 --> 00:19:28:08] Quais são as características aqui importantes de uma circunferência?
+[00:19:28:16 --> 00:19:29:18] Primeiro, o centro.
+[00:19:29:18 --> 00:19:35:11] Toda circunferência tem um centro que é equidistante da extremidade.
+[00:19:35:20 --> 00:19:41:20] Então, nós temos aqui a circunferência, que é um arco fechado, onde todos os pontos
+[00:19:41:20 --> 00:19:46:26] são equidistantes do centro, formando uma circunferência.
+[00:19:47:05 --> 00:19:52:01] Dentro dela, nós temos primeiro a corda, a corda é a distância que existe entre um
+[00:19:52:01 --> 00:19:52:21] ponto e outro.
+[00:19:52:25 --> 00:19:58:05] Qualquer distância que você trace aqui de um ponto até outro, forma uma corda.
+[00:19:58:06 --> 00:19:58:23] Beleza?
+[00:19:58:23 --> 00:20:04:10] A gente tem o diâmetro, que é uma corda que cruza o centro da circunferência, então
+[00:20:04:10 --> 00:20:09:01] toda corda que cruza o centro aqui nós chamamos de diâmetro.
+[00:20:09:07 --> 00:20:16:08] E nós temos o raio, que é a metade do diâmetro, é um segmento de reta, é uma distância
+[00:20:16:08 --> 00:20:20:09] que existe do centro até um ponto do arco.
+[00:20:20:12 --> 00:20:20:20] Beleza?
+[00:20:20:20 --> 00:20:22:18] Então a gente tem um raio aqui.
+[00:20:23:04 --> 00:20:27:04] Outros pontos importantes que nós precisamos entender de uma circunferência.
+[00:20:27:04 --> 00:20:34:24] O ângulo, que basicamente é a inclinação de uma reta em relação a outra reta, a gente
+[00:20:34:24 --> 00:20:37:06] tem o ângulo aqui, e o arco.
+[00:20:37:11 --> 00:20:39:12] A circunferência é o arco fechado.
+[00:20:39:19 --> 00:20:43:02] Quando nós temos um arco aberto, nós não chamamos de circunferência, nós chamamos
+[00:20:43:02 --> 00:20:44:05] de arco.
+[00:20:44:11 --> 00:20:50:08] Então a gente tem esse arco aqui, o arco FG, e a gente tem esse ângulo aqui.
+[00:20:50:17 --> 00:20:55:05] Para a gente descobrir qual o ângulo é, nós precisamos entender qual é a inclinação
+[00:20:55:05 --> 00:21:03:19] dessa reta aqui em relação a essa. Nós sempre medimos o ângulo a partir de duas...
+[00:21:03:19 --> 00:21:04:22] Deixa eu colocar aqui...
+[00:21:05:27 --> 00:21:07:21] a partir de dois eixos.
+[00:21:08:25 --> 00:21:11:01] um eixo vertical e um eixo horizontal.
+[00:21:11:02 --> 00:21:13:09] Fiz o horizontal aqui e o vertical,
+[00:21:13:19 --> 00:21:17:09] que formam o plano cartesiano, eixo X e eixo Y.
+[00:21:17:13 --> 00:21:20:00] A gente sempre mede o ângulo
+[00:21:21:20 --> 00:21:25:19] relacionado com esses dois eixos.
+[00:21:25:24 --> 00:21:26:04] Beleza?
+[00:21:26:12 --> 00:21:30:09] A partir desse eixo, a gente tem aqui uma inclinação aqui,
+[00:21:30:15 --> 00:21:34:00] temos outra inclinação aqui e outra inclinação aqui.
+[00:21:34:13 --> 00:21:37:17] Cada quadrante, quando a gente encontra um eixo no outro,
+[00:21:37:17 --> 00:21:41:04] nós formamos um ângulo de 90 graus.
+[00:21:41:05 --> 00:21:44:03] Dentro do ângulo de 90 graus, nós temos ângulos mais fechados,
+[00:21:44:04 --> 00:21:47:03] como esse ângulo aqui e esse ângulo aqui,
+[00:21:47:06 --> 00:21:49:18] e ângulos mais abertos, como esse daqui.
+[00:21:49:20 --> 00:21:53:09] Vocês vão ver mais à frente como nós podemos medir um ângulo.
+[00:21:53:16 --> 00:21:55:01] Então, olha que interessante aqui.
+[00:21:56:03 --> 00:21:59:15] Inclusive, vamos entrar em um conceito novo, que é a abc3.
+[00:21:59:17 --> 00:22:00:21] Mas primeiro sobre o ângulo.
+[00:22:01:03 --> 00:22:06:11] Aqui, nós temos um ângulo de 60 graus e um ângulo de 30 graus.
+[00:22:06:11 --> 00:22:10:13] A soma desses dois ângulos forma um ângulo de 90 graus.
+[00:22:10:19 --> 00:22:14:21] Se nós colocássemos um outro ângulo aqui, olha, deixa eu puxar aqui...
+[00:22:15:29 --> 00:22:20:26] Vou colocar o eixo bem no centro, na verdade eu vou ter que inclinar exatamente igual,
+[00:22:21:01 --> 00:22:22:10] então eu vou refletir essa imagem.
+[00:22:24:00 --> 00:22:28:23] Espera aí que eu quero Ctrl-C, Ctrl-F para duplicar e refletir.
+[00:22:29:02 --> 00:22:33:28] Eu vou colocar esse ponto aqui, que é o ponto do eixo, exatamente aqui no centro, olha.
+[00:22:35:06 --> 00:22:37:13] e aí nós geramos mais um ângulo.
+[00:22:37:21 --> 00:22:40:25] Se a gente conta desde o início aqui,
+[00:22:41:21 --> 00:22:45:02] esse é um ângulo que vem daqui até aqui.
+[00:22:45:15 --> 00:22:47:15] Então, é um ângulo bem aberto.
+[00:22:47:24 --> 00:22:49:14] A mesma coisa aqui embaixo.
+[00:22:49:14 --> 00:22:52:19] Por que aqui eu estou contando como 30°?
+[00:22:52:29 --> 00:22:56:29] Porque a referência nesse quadrante que eu estou usando é essa aqui.
+[00:22:57:09 --> 00:23:01:26] Se você mede apenas aqui, você tem 30°.
+[00:23:02:06 --> 00:23:03:15] Então, estou medindo só aqui.
+[00:23:03:15 --> 00:23:12:11] Se você mede daqui até aqui, no ponto zero do eixo, inclusive os eixos estão com os nomes
+[00:23:12:11 --> 00:23:13:23] errados aqui, vocês viram, né?
+[00:23:14:11 --> 00:23:19:27] Aqui está Y, vou trocar aqui para ficar certinho, senão vocês podem se confundir.
+[00:23:20:00 --> 00:23:23:11] X e aqui Y, beleza.
+[00:23:24:14 --> 00:23:27:08] Então, olha só, se eu pegasse o ângulo daqui...
+[00:23:28:08 --> 00:23:29:17] de trocar que ficou a setinha.
+[00:23:29:26 --> 00:23:30:06] Daqui!
+[00:23:32:07 --> 00:23:38:08] Até aqui, aí nós teríamos um ângulo de 210 graus.
+[00:23:38:17 --> 00:23:42:19] Nós já falamos do conceito de mediatriz.
+[00:23:43:11 --> 00:23:44:21] Conceito de mediatriz...
+[00:23:45:18 --> 00:23:51:15] uma reta perpendicular que compartilha um único ponto com outra reta.
+[00:23:53:02 --> 00:23:59:07] Mediatriz. A mediatriz compartilha um único ponto e esse ponto precisa ser o ponto médio.
+[00:23:59:16 --> 00:24:02:15] Beleza? Uma reta que compartilha o ponto médio...
+[00:24:03:14 --> 00:24:07:00] Outra reta, a gente tem aqui uma mediatriz.
+[00:24:07:12 --> 00:24:14:18] A bicetriz é o mesmo conceito, só que relacionado ao ângulo, quando nós precisamos encontrar
+[00:24:14:18 --> 00:24:17:09] exatamente metade de um ângulo.
+[00:24:17:18 --> 00:24:24:05] Aqui nós temos 30 graus, vamos supor, eu vou criar um outro aqui do lado, vamos supor
+[00:24:24:05 --> 00:24:26:24] que você tivesse 29 graus.
+[00:24:26:29 --> 00:24:31:21] Você quer encontrar, eu vou até colocar mais difícil, você pode fazer a conta
+[00:24:31:21 --> 00:24:34:24] Claro, sempre dá para você dividir por dois e você tem a metade,
+[00:24:35:03 --> 00:24:38:20] mas quando você quer encontrar o ponto específico, vocês vão ver que não é tão simples assim.
+[00:24:39:03 --> 00:24:42:11] Então, eu vou tirar toda essa informação daqui.
+[00:24:44:12 --> 00:24:46:06] para facilitar aqui para a gente.
+[00:24:46:14 --> 00:24:49:15] Vocês vão entender por que eu coloquei todas essas linhas aqui
+[00:24:50:07 --> 00:24:51:06] na hora que eu fui criar.
+[00:24:52:19 --> 00:24:53:18] e vocês, angulos.
+[00:24:55:05 --> 00:24:57:07] Então vá apagar, apagar tudo.
+[00:24:59:19 --> 00:25:01:06] ponto D ou ponto C.
+[00:25:02:10 --> 00:25:09:06] pontas de reto aqui. Vou apagar aqui também, só vou deixar o eixo X e Y.
+[00:25:10:13 --> 00:25:16:11] pra gente. Opa, só porque eu falei que eu ia deixar, eu tirei. Tiro o eixo Y, tiro o
+[00:25:16:11 --> 00:25:22:12] eixo X, acho que eu já tinha tirado. Aí. E deleto o resto. Maravilha. Então tá.
+[00:25:23:12 --> 00:25:27:18] O que eu vou fazer aqui? Primeiro, a gente poderia... Vamos do zero, então?
+[00:25:27:29 --> 00:25:30:19] Eu fiquei aqui enrolando e apagando, mas vamos fazer do zero aqui.
+[00:25:31:03 --> 00:25:36:13] Nós temos o eixo Y e o eixo X do plano cartesiano.
+[00:25:36:13 --> 00:25:38:07] Nós estamos na planolândia aqui.
+[00:25:38:18 --> 00:25:41:09] Então, temos o eixo Y e o eixo X.
+[00:25:41:18 --> 00:25:44:00] Para a gente encontrar o ângulo, o que a gente faz?
+[00:25:44:02 --> 00:25:46:29] A gente cria uma circunferência aqui, então.
+[00:25:47:06 --> 00:25:48:06] Vou criar uma pequenininha.
+[00:25:50:18 --> 00:25:55:21] para poder trabalhar a inclinação. Então, olha só, quando eu inclino uma...
+[00:25:57:04 --> 00:26:08:06] uma reta. Inclusive no Illustrator me dá 230, 240, 250 e ele vai me passando quantos graus
+[00:26:08:06 --> 00:26:14:10] é essa inclinação. Pode vir até 360, então a gente tem essa infinidade. Aqui ele está
+[00:26:14:10 --> 00:26:24:29] colocando como 180 porque a reta está horizontal. Nesse caso aqui ele vai colocar como 270 porque
+[00:26:24:29 --> 00:26:31:07] É como se a gente tivesse pegado daqui até aqui, ou seja, a gente inverteu.
+[00:26:31:08 --> 00:26:34:22] A gente fez daqui até aqui, 270.
+[00:26:35:23 --> 00:26:42:19] Porque eu estou fazendo uma rotação com o eixo no centro, se a gente tiver, eu vou
+[00:26:42:19 --> 00:26:43:21] fazer aqui para vocês verem.
+[00:26:45:04 --> 00:26:48:22] Com o eixo fora do centro, vou deixar isso aqui como linha de construção.
+[00:26:50:01 --> 00:26:55:18] e vou criar uma segunda, vou criar inclusive já direto aqui no ponto.
+[00:26:56:24 --> 00:26:57:11] Até aqui.
+[00:26:59:28 --> 00:27:00:28] Quero criar um ponto.
+[00:27:01:29 --> 00:27:03:19] Poxa vida, mas faço assim.
+[00:27:04:27 --> 00:27:07:14] e vou colocá-lo branquinho.
+[00:27:09:11 --> 00:27:11:24] Coloquei o errado, ainda consegui colocar o errado.
+[00:27:13:02 --> 00:27:14:14] Poxa, eu não criei outro não.
+[00:27:15:09 --> 00:27:16:03] Vamos criar de novo.
+[00:27:17:14 --> 00:27:18:13] Pegado aqui até aqui.
+[00:27:19:24 --> 00:27:22:19] para colocar como linha de estrutura para a gente agora.
+[00:27:22:24 --> 00:27:24:00] E daqui até aqui.
+[00:27:27:02 --> 00:27:28:17] Volta. Tem que criar fora.
+[00:27:30:29 --> 00:27:31:18] Senão...
+[00:27:33:07 --> 00:27:37:21] Agora, o que eu vou fazer? Eu vou selecionar essa reta aqui e vou colocar o eixo dela no
+[00:27:37:21 --> 00:27:42:01] centro. E vocês vão ver que a inclinação é diferente. Infelizmente o Illustrator não
+[00:27:42:01 --> 00:27:45:16] está mostrando agora. Mas a inclinação aqui é a seguinte, olha, se eu for colocar
+[00:27:46:03 --> 00:27:53:01] exatamente no meio, metade de 90 graus, nós temos 45 graus. Então a gente já pode
+[00:27:53:01 --> 00:28:00:06] falar, a bissetriz mais fácil é a de 45 graus, é a mais regular inclusive, que é exatamente
+[00:28:00:06 --> 00:28:05:07] esse ponto aqui, olha, que corta um ângulo de 90 graus.
+[00:28:05:14 --> 00:28:10:23] Agora, se a gente quer encontrar metade de 45, você pode, claro, sempre dividir o valor
+[00:28:10:23 --> 00:28:15:23] por 2, pegar o seu Illustrator, coloca o eixo aqui no centro, clica com o botão direito
+[00:28:15:23 --> 00:28:20:07] e vai lá em transformar e girar e adicionar a quantidade de graus.
+[00:28:20:15 --> 00:28:26:28] Você sempre pode fazer isso no final das contas, então 45 dividido por 2, ele vai
+[00:28:26:28 --> 00:28:27:27] adicionar para mim.
+[00:28:28:08 --> 00:28:29:16] Opa, não coloquei no centro.
+[00:28:31:18 --> 00:28:34:24] Vai transformar, coloca lá no...
+[00:28:37:15 --> 00:28:39:04] Deixa eu ver se eu coloquei na ponta certa.
+[00:28:40:07 --> 00:28:42:17] Coloco 40 dividido por 2.
+[00:28:44:05 --> 00:28:46:03] Ele já vai me colocar, eu estou colocando no lugar errado.
+[00:28:46:11 --> 00:28:47:14] Aê, coloquei no certo.
+[00:28:48:09 --> 00:28:51:18] Então, olha aí, ele já inclinou para mim aqui, olha, ele está me dando inclusive a
+[00:28:51:18 --> 00:28:52:05] referência.
+[00:28:52:28 --> 00:28:54:02] Eu adicionei aqui, olha.
+[00:28:55:07 --> 00:29:00:22] um ângulo de metade de 45°, 22,5°.
+[00:29:00:27 --> 00:29:02:24] Então, adicionei 22,5°.
+[00:29:03:09 --> 00:29:05:19] E nós encontramos outra bicetriz aqui.
+[00:29:06:04 --> 00:29:07:19] Se eu colocar a Outline...
+[00:29:08:16 --> 00:29:10:29] ele fez só uma sombra aqui do elemento.
+[00:29:11:15 --> 00:29:12:28] Deixa eu duplicar esse elemento.
+[00:29:15:09 --> 00:29:21:08] Agora eu volto para cá, Ctrl F e vou expandir ele aqui para a gente trabalhar com ele também.
+[00:29:22:21 --> 00:29:23:08] clica aqui
+[00:29:24:16 --> 00:29:25:27] e expandi. Pronto.
+[00:29:26:05 --> 00:29:28:03] A gente tem esses dois elementos aqui,
+[00:29:28:15 --> 00:29:32:10] nós temos uma bicetriz aqui e temos outra bicetriz.
+[00:29:33:29 --> 00:29:39:04] Legal, lembra aquela hora que eu falei para vocês que você pode utilizar uma circunferência
+[00:29:39:04 --> 00:29:41:04] para encontrar uma mediatriz?
+[00:29:41:18 --> 00:29:44:10] A mesma coisa acontece com a bicetriz.
+[00:29:44:10 --> 00:29:49:01] Se você quer encontrar o ponto médio aqui visualmente, por exemplo, se você fosse
+[00:29:49:01 --> 00:29:51:08] fazer isso no papel, como é que você faria?
+[00:29:51:08 --> 00:29:54:20] No Illustrator é muito fácil, a gente já viu aqui, é só colocar o eixo, adicionar
+[00:29:54:20 --> 00:29:57:10] a quantidade de graus e encontramos a bicetriz.
+[00:29:57:10 --> 00:30:04:19] Mas, e quando você quer encontrar isso na raça, a gente segue o mesmo princípio, porque
+[00:30:04:19 --> 00:30:11:02] a interseção entre duas circunferências do mesmo tamanho vão gerar para a gente exatamente
+[00:30:11:02 --> 00:30:12:20] a reta que corta a bicetriz.
+[00:30:12:21 --> 00:30:19:11] Então a gente quer achar aqui a metade desse ângulo aqui de 22,5 graus.
+[00:30:19:17 --> 00:30:20:11] O que a gente faz?
+[00:30:20:20 --> 00:30:23:07] Nós vamos criar uma circunferência bem aqui, olha.
+[00:30:23:08 --> 00:30:27:03] Você pode inclusive dar zoom se você quiser, meu illustrator, a gente tem essa vantagem,
+[00:30:27:03 --> 00:30:34:28] no papel não tem, precisão no papel você precisa de uma lapiseira 0.3 e bastante concentração
+[00:30:34:28 --> 00:30:40:22] para fazer, mas aqui é mais fácil. Você vai criar uma circunferência com centro nessa
+[00:30:40:22 --> 00:30:47:11] interseção aqui e ela precisa passar da metade desse arco, do mesmo jeito. E aí
+[00:30:47:11 --> 00:30:53:22] você vai pegar essa mesma circunferência e vai duplicar o centro dela aqui agora
+[00:30:53:22 --> 00:31:00:01] nesse outro ponto aqui, beleza? Se você estivesse fazendo isso de forma manual, aqui eu posso
+[00:31:00:01 --> 00:31:01:23] dar um zoom para ficar mais próximo ainda.
+[00:31:03:16 --> 00:31:09:09] Se você fosse fazer isso de maneira manual, você iria fincar a ponta seca aqui, pensando
+[00:31:09:09 --> 00:31:10:03] no compasso.
+[00:31:10:03 --> 00:31:15:06] Você iria fincar a ponta seca do compasso aqui e a outra ponta, que é a ponta do grafite,
+[00:31:15:20 --> 00:31:23:18] você iria colocar depois, depois do centro e iria fazer o arco aqui com o compasso
+[00:31:23:18 --> 00:31:27:19] sem sair da medição que você colocou lá.
+[00:31:28:08 --> 00:31:32:17] Uma coisa interessante que eu aprendi na faculdade é que o compasso também é
+[00:31:32:17 --> 00:31:37:24] utilizado como instrumento de medição. E aí, quando a gente colocou as duas circunferências
+[00:31:37:24 --> 00:31:42:09] do mesmo tamanho, exatamente, precisa ser do mesmo tamanho, exatamente pra gente encontrar
+[00:31:42:09 --> 00:31:47:18] essa média, nós encontramos esses dois pontos aqui, olha, esse e esse, tá vendo?
+[00:31:47:18 --> 00:31:50:21] E esses dois pontos são justamente...
+[00:31:54:00 --> 00:31:58:10] a bisetriz desse ângulo. Olha só que interessante, deixa eu voltar aqui para aquela...
+[00:31:58:10 --> 00:32:02:11] Se eu pego aqui uma reta, na verdade eu vou dar o zoom aqui para ficar mais fácil para a gente ver,
+[00:32:02:23 --> 00:32:04:11] que parte aqui do centro...
+[00:32:05:13 --> 00:32:11:12] e corta esses dois, essas duas interseções, esses dois pontos que nós geramos aqui,
+[00:32:11:26 --> 00:32:22:10] nós temos, nós dividimos esse ângulo de 22°,5 agora em um ângulo de 11°,2, mais ou menos.
+[00:32:22:20 --> 00:32:23:26] Conta de cabeça é assim.
+[00:32:24:19 --> 00:32:28:06] Então, cortou esse ponto, cortou esse ponto, cortou as duas interseções,
+[00:32:28:16 --> 00:32:33:03] nós temos também aqui a Bicetriz, beleza?
+[00:32:33:03 --> 00:32:39:20] Se a gente quiser colocar isso aqui em números... Vamos colocar aqui em números?
+[00:32:40:23 --> 00:32:42:09] é só a gente colocar o seguinte, olha...
+[00:32:42:27 --> 00:32:46:21] A gente sabe que esse ponto aqui, a gente dividiu ele certo, fiz de maneira regular,
+[00:32:47:19 --> 00:32:52:11] é a abcetriz de 90 graus, então aqui a gente tem 45 graus.
+[00:32:53:03 --> 00:32:54:01] Esse daqui...
+[00:32:55:17 --> 00:33:05:06] já é a abcetriz de 45 graus, desse arco de 45 graus, que nos deu 22,5.
+[00:33:05:09 --> 00:33:05:28] Metade...
+[00:33:08:27 --> 00:33:17:27] 45. E nós criamos essa abscetriz aqui também, que é metade desse arco aqui de 22,5 graus,
+[00:33:18:05 --> 00:33:28:17] que nos gerou um ângulo de 11,25 graus. Então, olha só, a gente dividiu o ângulo...
+[00:33:29:21 --> 00:33:31:17] de uma forma geométrica.
+[00:33:31:24 --> 00:33:33:20] A gente fez de uma forma calculada aqui,
+[00:33:33:23 --> 00:33:38:07] nesse primeiro aqui eu simplesmente adicionei 22,5 graus
+[00:33:38:07 --> 00:33:42:06] e nesse daqui, ao invés de adicionar mais um tanto de graus,
+[00:33:42:25 --> 00:33:45:05] nós fizemos isso de maneira geométrica
+[00:33:45:05 --> 00:33:47:21] para encontrar o ponto exato que nós precisamos.
+[00:33:47:23 --> 00:33:49:05] Isso daqui, quando você vai criar logo,
+[00:33:49:18 --> 00:33:51:06] é o fundamento do fundamento,
+[00:33:51:06 --> 00:33:53:16] mesmo que você vai utilizar um Illustrator, por exemplo,
+[00:33:53:26 --> 00:33:54:18] para criar isso.
+[00:33:54:27 --> 00:33:57:24] Se a nossa referência não fosse esse 45,
+[00:33:57:24 --> 00:34:06:04] Se a nossa referência fosse aqui o eixo x, aí os ângulos mudam, beleza?
+[00:34:06:14 --> 00:34:09:29] Então depende da referência, depende do que a gente está chamando aqui de eixo x.
+[00:34:10:11 --> 00:34:19:23] Se o eixo x é aqui, então aqui nós teremos 0 graus, aqui nós teremos 45, então um
+[00:34:19:23 --> 00:34:20:24] ângulo de 45.
+[00:34:21:09 --> 00:34:22:09] Onde está o ângulo aqui?
+[00:34:22:21 --> 00:34:24:01] O arco forma o ângulo.
+[00:34:25:27 --> 00:34:29:14] Se eu colocar aqui, olha, vou criar um ponto aqui.
+[00:34:30:23 --> 00:34:32:01] Só pra eu poder...
+[00:34:32:29 --> 00:34:34:18] cortar exato no ponto aqui.
+[00:34:36:15 --> 00:34:44:10] Se eu apagar esses dois pontos aqui, nós temos então um ângulo de 45 graus aqui, 45 graus, beleza?
+[00:34:44:28 --> 00:34:52:10] Aqui não vai ser 22, 22 seria a metade de baixo, já que a referência mudou agora, beleza?
+[00:34:52:22 --> 00:35:01:12] Como 22 agora é a referência de baixo, então aqui é a soma de 45 com 22, que vai dar 67.
+[00:35:02:28 --> 00:35:03:14] Não.
+[00:35:04:02 --> 00:35:06:29] Vai dar aqui pra gente 67 mais 1.
+[00:35:08:10 --> 00:35:10:05] Não, é 67,5 mesmo.
+[00:35:10:22 --> 00:35:13:07] Olha, minha conta de cabeça é linda, né?
+[00:35:13:21 --> 00:35:15:19] Se a gente quiser confirmar isso, inclusive,
+[00:35:16:11 --> 00:35:18:12] eu posso pegar aqui e fazer a conta.
+[00:35:19:22 --> 00:35:21:19] Vamos ver, só pra confirmar.
+[00:35:23:01 --> 00:35:26:12] porque a minha conta de cabeça eu não confio muito nela não.
+[00:35:26:17 --> 00:35:30:06] Inclusive, quando você vai projetar, é bom que você não confie na sua conta de cabeça
+[00:35:30:06 --> 00:35:31:16] se você quiser um resultado exato.
+[00:35:31:27 --> 00:35:38:00] Então, só para a gente ver, 45 mais 22,5, nós temos 67,5, isso mesmo, certinho.
+[00:35:38:06 --> 00:35:43:24] E aqui nós somamos mais 11,25, por quê?
+[00:35:43:27 --> 00:35:45:21] A referência agora é o ponto zero.
+[00:35:45:26 --> 00:35:48:03] Então, esse aqui é um ângulo de...
+[00:35:48:03 --> 00:35:51:11] Vamos fazer aqui a conta de novo, 67,5...
+[00:35:52:24 --> 00:35:55:29] mais 11,25.
+[00:35:56:06 --> 00:36:04:19] Então, nós temos um ângulo de 78,75 graus.
+[00:36:04:25 --> 00:36:12:18] Quase chegando aqui, faltando 11,25 para chegarem 90 graus.
+[00:36:12:23 --> 00:36:13:12] Beleza?
+[00:36:13:15 --> 00:36:17:10] Então, assim que a gente faz a conta de graus, a gente pode continuar isso.
+[00:36:17:11 --> 00:36:20:27] O que define o grau é a referência.
+[00:36:20:27 --> 00:36:30:06] Se a referência for apenas esse arco aqui, na verdade então, esse aqui é um arco de
+[00:36:30:06 --> 00:36:35:29] 22,5, esse é um arco de 11,25 e por aí vai.
+[00:36:36:09 --> 00:36:41:25] E dependendo se você criou nesse quadrante de baixo, se você está trabalhando somente
+[00:36:41:25 --> 00:36:45:26] Vou criar aqui certinho, olha, se você está trabalhando somente o arco aqui, olha...
+[00:36:46:26 --> 00:36:53:08] Então, você pega como referência essas duas retas aqui, a reta inclinada e a reta...
+[00:36:53:08 --> 00:36:58:23] Eu nem vou chamar de reta inclinada, as duas retas que marcam as extremidades do arco.
+[00:36:59:00 --> 00:37:02:23] Então, aqui na verdade é só uma referência para vocês de ângulos,
+[00:37:02:24 --> 00:37:06:08] então tem 45, 90, 180, 225, 325,
+[00:37:06:23 --> 00:37:11:17] puxando como relação sempre que o eixo x começando aqui em zero, beleza?
+[00:37:12:15 --> 00:37:15:03] E agora vamos entrar então no ponto que eu falei,
+[00:37:15:03 --> 00:37:22:29] que são as tangentes, e não só as tangentes, vocês vão ver também depois um outro conceito importante.
+[00:37:23:01 --> 00:37:34:23] Vamos por parte aqui, né? O que é a tangência? A tangência é o exato lugar que duas formas compartilham.
+[00:37:35:05 --> 00:37:43:25] É um ponto, coloquei ali como ponto de tangência, é um único ponto que duas formas diferentes compartilham.
+[00:37:43:25 --> 00:37:47:19] É quando duas formas compartilham um único ponto.
+[00:37:48:02 --> 00:37:53:08] Então, quando nós temos aqui dois círculos, por exemplo, duas circunferências...
+[00:37:54:18 --> 00:37:58:07] A gente não fala que isso aqui é uma tangência, a gente fala que é uma interseção.
+[00:37:58:18 --> 00:38:02:25] Então a gente tem duas interseções diferentes nessa mesma...
+[00:38:04:18 --> 00:38:11:09] nessa mesma relação. Aqui, a gente fala que tem uma tangência quando duas formas compartilham
+[00:38:11:09 --> 00:38:16:18] um único ponto. Então, vou colocar aqui em Outline para vocês verem. O ponto de tangência,
+[00:38:16:27 --> 00:38:21:24] lembrando que o ponto é abstrato, o ponto é uma coordenada, mas ele fica exatamente
+[00:38:21:24 --> 00:38:22:09] aqui ó.
+[00:38:23:20 --> 00:38:24:20] Exatamente!
+[00:38:26:08 --> 00:38:26:19] aqui.
+[00:38:27:27 --> 00:38:38:13] a gente tem uma tangência entre essa circunferência e essa reta, que a gente chama de reta tangente.
+[00:38:39:14 --> 00:38:44:29] partiu do centro aqui, eu marquei com a letra O o centro da circunferência,
+[00:38:45:11 --> 00:38:49:06] o raio vai do centro até a extremidade e a gente tem esse ponto,
+[00:38:49:06 --> 00:38:51:10] a gente quer trabalhar esse ponto em específico,
+[00:38:52:01 --> 00:38:56:18] compartilhando ele com outro elemento, com outra forma.
+[00:38:57:00 --> 00:39:02:26] Aqui, de uma maneira diferente, a gente tem uma tangência entre duas circunferências diferentes.
+[00:39:02:26 --> 00:39:05:10] é o ponto exato aqui, olha,
+[00:39:06:05 --> 00:39:09:19] que essas duas circunferências compartilham.
+[00:39:09:23 --> 00:39:10:11] Beleza?
+[00:39:10:27 --> 00:39:15:23] E aí, como que você faz para encontrar essa tangência?
+[00:39:16:03 --> 00:39:20:21] Aí é que as coisas começam a dificultar um pouco se você não fica esperto.
+[00:39:20:24 --> 00:39:26:09] Porque no Illustrator, é fácil você encontrar uma tangência interna, né?
+[00:39:26:16 --> 00:39:29:26] Inclusive, tem até alguns atalhos para encontrar as tangências externas também,
+[00:39:29:26 --> 00:39:33:02] mas o mais comum é encontrarmos as tangências internas.
+[00:39:33:05 --> 00:39:34:09] Deixa eu mostrar aqui para vocês.
+[00:39:34:21 --> 00:39:36:22] Vou colocar isso aqui de lado para a gente.
+[00:39:38:13 --> 00:39:42:22] Eu vou mostrar aqui para vocês como que encontra uma tangência interna.
+[00:39:43:01 --> 00:39:46:04] Então, a gente tem um círculo e tem um círculo maior.
+[00:39:46:18 --> 00:39:50:28] Então, olha só, eles estão compartilhando um único ponto aqui.
+[00:39:51:22 --> 00:39:55:00] Se a gente quer encontrar que ponto é esse, o que a gente precisa fazer?
+[00:39:55:21 --> 00:39:58:00] É só a gente pegar aqui no centro do círculo...
+[00:39:58:00 --> 00:40:03:01] O jeito mais preciso de fazer isso é você ver qual que é o diâmetro do círculo.
+[00:40:03:17 --> 00:40:06:08] Então, essa circunferência aqui tem um diâmetro de 515
+[00:40:06:08 --> 00:40:12:15] e a de dentro tem um diâmetro de 250, eu vou arredondar aqui pra deixá-las com o mesmo
+[00:40:12:15 --> 00:40:17:13] diâmetro e vou alinhar as duas aqui, beleza. Pra encontrar o raio exato aqui, o que você
+[00:40:17:13 --> 00:40:18:01] pode fazer.
+[00:40:18:19 --> 00:40:19:11] Criar uma reta.
+[00:40:20:23 --> 00:40:25:29] tenha metade do tamanho do diâmetro, ou seja, uma reta do tamanho do arco.
+[00:40:26:07 --> 00:40:29:29] Então, se o diâmetro desse círculo aqui me fala que é 515 pixels,
+[00:40:30:17 --> 00:40:35:10] então, eu preciso de uma reta que tenha metade de 515 pixels,
+[00:40:35:15 --> 00:40:42:27] que no caso aqui são 257,5 pixels. Eu fiz a conta direto no Illustrator.
+[00:40:43:06 --> 00:40:46:13] E aí, o que eu vou fazer para poder colocar isso aqui no centro, esses pontos no centro?
+[00:40:46:13 --> 00:40:51:24] Tem gente que fica tentando colocar aqui e se você faz dessa forma, sempre você vai
+[00:40:51:24 --> 00:40:53:00] ter imprecisão.
+[00:40:53:00 --> 00:40:57:07] Se você quer ser preciso, primeiro você vai apertar Ctrl Y, igual apertei para ficar
+[00:40:57:07 --> 00:41:02:12] no modo Outline aqui, e depois você vai selecionar esses dois objetos e vai alinhar.
+[00:41:02:25 --> 00:41:08:10] Primeiro, opa, clica duas vezes, seleciona os dois e clica na circunferência para
+[00:41:08:10 --> 00:41:09:18] colocá-la como âncora.
+[00:41:09:18 --> 00:41:16:05] Depois, você vai alinhar a reta aqui, então na vertical, alinhei a reta na vertical.
+[00:41:16:19 --> 00:41:21:16] E agora eu vou alinhar esse ponto aqui naquele ponto que é o ponto de tangência.
+[00:41:21:23 --> 00:41:25:18] Então, a gente vai criar uma reta de tangente aqui, então eu vou só alinhar ele ali.
+[00:41:26:00 --> 00:41:26:08] Beleza?
+[00:41:26:09 --> 00:41:27:28] Alinhei ele lá na esquerda.
+[00:41:28:04 --> 00:41:32:12] Ficou alinhado aqui, a gente tem uma precisão muito grande, muito maior.
+[00:41:32:25 --> 00:41:37:29] E eu vou criar uma segunda reta de tangência aqui e vou alinhar essa reta também.
+[00:41:39:04 --> 00:41:41:04] aqui na direita. Beleza?
+[00:41:42:11 --> 00:41:45:11] as duas retas aqui, vou colocar como linha de construção.
+[00:41:45:19 --> 00:41:49:29] Essa aqui não é de construção, essa aqui é a segunda circunferência.
+[00:41:50:05 --> 00:41:52:17] Mas essas duas são de construção, vamos mudar a cor delas ali.
+[00:41:52:27 --> 00:41:56:01] A gente tem essas duas linhas de construção aqui.
+[00:41:56:16 --> 00:41:58:10] Como tem espessura, a gente não consegue ver,
+[00:41:58:13 --> 00:41:59:18] por isso que a gente coloca em Outline.
+[00:41:59:26 --> 00:42:03:03] Tá preciso no fio de cabelo.
+[00:42:03:29 --> 00:42:09:14] E aí, como eu fiz isso, agora o ponto tá exato.
+[00:42:09:14 --> 00:42:13:06] Dei um zoom bem grande aqui, para a gente ver, olha.
+[00:42:13:06 --> 00:42:14:07] Para ver se ele está mais para cima lá.
+[00:42:14:22 --> 00:42:17:17] Ele está exato, exato, exato, exato aqui, olha.
+[00:42:17:28 --> 00:42:19:22] Esse ponto aqui.
+[00:42:20:29 --> 00:42:24:13] que a gente encontrou, é basicamente uma bicetriz,
+[00:42:24:20 --> 00:42:26:20] porque a gente está trabalhando uma circunferência,
+[00:42:26:27 --> 00:42:28:07] essa linha é como se fosse uma bicetriz,
+[00:42:28:11 --> 00:42:30:24] mas aqui no caso a gente chama de reta, de tangente,
+[00:42:30:26 --> 00:42:32:03] tem um outro nome diferente.
+[00:42:32:24 --> 00:42:34:18] E aí nós encontramos então,
+[00:42:34:19 --> 00:42:37:22] aqui só para a gente encontrar o ponto e para eu explicar vocês,
+[00:42:38:03 --> 00:42:41:08] nós encontramos então a tangência interna.
+[00:42:41:09 --> 00:42:42:24] Ela é mais fácil, é igual eu disse para vocês,
+[00:42:42:24 --> 00:42:44:14] se eu quiser encontrar do lado de cá,
+[00:42:44:20 --> 00:42:48:21] basta eu alinhar esse círculo do lado de lá e a gente tem a tangente aqui.
+[00:42:48:21 --> 00:42:51:20] Agora, e no externo?
+[00:42:52:20 --> 00:42:58:19] Como que você faz de maneira externa para que esses dois elementos estejam alinhados
+[00:42:58:19 --> 00:42:59:04] entre si?
+[00:42:59:16 --> 00:43:02:25] Tem como você fazer isso direto no Illustrator?
+[00:43:04:08 --> 00:43:07:17] É possível fazer isso direto no Illustrator, mas...
+[00:43:08:23 --> 00:43:14:18] Muita gente fica vindo aqui e tentando encontrar esses pontos para criar a tangente.
+[00:43:14:24 --> 00:43:17:16] Às vezes fica dando zoom aqui e nunca bate, tá vendo?
+[00:43:17:19 --> 00:43:20:24] Você vem colocando e é muito difícil bater.
+[00:43:20:27 --> 00:43:23:29] Você tem que ficar dando esse zoom todo aqui e conseguiu até bater fácil,
+[00:43:24:12 --> 00:43:26:00] essa tangente foi mais tranquila até.
+[00:43:26:12 --> 00:43:29:28] Mas como é que você faz para encontrar a tangente exata?
+[00:43:30:06 --> 00:43:31:22] A gente trabalha de novo...
+[00:43:33:01 --> 00:43:39:04] o raio. Então, eu vou alinhar esse raio aqui, do lado de cá agora, na direita. Vou pegar
+[00:43:39:04 --> 00:43:45:12] essa reta de tangente também, alinhar ela ali e basicamente eu só alinho essa circunferência
+[00:43:45:12 --> 00:43:49:27] com a reta de tangente. Mas por quê que tem que fazer isso tudo aqui? Se você
+[00:43:49:27 --> 00:43:51:13] tivesse que fazer ainda no...
+[00:43:52:11 --> 00:43:55:05] Você ainda teria que fazer mais um detalhe aqui importante, que é o que?
+[00:43:55:16 --> 00:44:02:17] Pegar essa circunferência aqui de 250, encontrar o raio dela, se o diâmetro é 250, o raio
+[00:44:02:17 --> 00:44:06:12] é metade de 250, que deu pra gente 125 aqui.
+[00:44:07:03 --> 00:44:10:13] Vou alinhar ele aqui, pra vocês verem.
+[00:44:10:23 --> 00:44:12:01] Ó, tem que alinhar também na vertical.
+[00:44:12:01 --> 00:44:12:11] feri.
+[00:44:13:17 --> 00:44:17:28] Alinhar para vocês, a gente tem exatamente que essa cruz está cortando exatamente o
+[00:44:17:28 --> 00:44:21:17] ponto de tangência entre esses dois elementos.
+[00:44:22:27 --> 00:44:28:06] Mas, mas, o grande ponto aqui é o seguinte, se você vai fazer isso aqui de maneira manual...
+[00:44:29:03 --> 00:44:30:28] Primeira coisa que você precisa fazer é medir...
+[00:44:32:05 --> 00:44:32:16] Aqui.
+[00:44:33:21 --> 00:44:34:21] E si...
+[00:44:36:24 --> 00:44:39:11] Então, vou criar como se fosse um compasso aqui.
+[00:44:39:14 --> 00:44:40:21] Você tem um compasso aqui, beleza?
+[00:44:41:29 --> 00:44:46:03] Você vai medir o raio desse compasso aqui, você precisa dele.
+[00:44:46:19 --> 00:44:48:29] Então, vamos lá. Eu quero um círculo de 200...
+[00:44:48:29 --> 00:44:51:19] Esse aqui, eu quero criar um círculo que tenha 215 pixels.
+[00:44:51:20 --> 00:44:53:08] Se fosse no papel, seria milímetros.
+[00:44:53:12 --> 00:44:55:23] Um círculo de 500 milímetros.
+[00:44:56:11 --> 00:44:58:10] Eu iria pegar o raio, então 500 milímetros,
+[00:44:58:13 --> 00:45:00:23] eu precisaria de um raio de 250 milímetros.
+[00:45:01:02 --> 00:45:03:25] Então, eu vou pegar aqui com uma régua,
+[00:45:04:02 --> 00:45:06:09] aí você coloca a régua, pega o compasso,
+[00:45:06:13 --> 00:45:08:26] cria uma abertura de 250 milímetros
+[00:45:09:16 --> 00:45:12:05] e traça a circunferência aqui com o compasso.
+[00:45:12:09 --> 00:45:15:13] Depois que você fez isso e você quer criar uma tangência
+[00:45:15:13 --> 00:45:17:13] entre esse elemento com o outro círculo,
+[00:45:17:23 --> 00:45:20:14] a primeira informação que você precisa é do tamanho do outro círculo.
+[00:45:20:21 --> 00:45:24:19] Então, fala lá que o diâmetro do outro círculo é de 250 milímetros,
+[00:45:24:23 --> 00:45:27:18] ou seja, ele é metade do de 500 milímetros.
+[00:45:28:01 --> 00:45:32:08] A primeira informação que você precisa, e a mais importante, é do raio.
+[00:45:32:14 --> 00:45:37:11] Então, se ele tem 250 milímetros, o raio dele vai ser 125 milímetros.
+[00:45:37:11 --> 00:45:38:29] E aí, basta você fazer.
+[00:45:39:03 --> 00:45:44:13] Pegar uma régua que vai do centro, e criar uma reta que vai do centro...
+[00:45:46:00 --> 00:45:51:17] até 125mm para fora da circunferência.
+[00:45:51:25 --> 00:45:58:26] Porque esses 125mm para fora da circunferência é o que vai gerar para você o centro,
+[00:45:58:27 --> 00:46:03:15] vai te entregar aqui, o centro da outra circunferência.
+[00:46:03:27 --> 00:46:06:24] Tenho o centro da outra circunferência, está feito o trabalho.
+[00:46:07:04 --> 00:46:11:08] Tudo que você precisa fazer é colocar a ponta seca do compasso aqui no centro,
+[00:46:12:07 --> 00:46:14:03] colocar a ponta seca do compasso no centro,
+[00:46:14:03 --> 00:46:21:00] Pega aqui o outro lado com grafite, coloque em cima da linha que você traçou e roda o compasso.
+[00:46:21:07 --> 00:46:28:08] E você vai ter aqui duas formas que têm uma tangência, que possuem um ponto de tangência exato.
+[00:46:28:12 --> 00:46:29:14] No papel é assim que faz.
+[00:46:29:19 --> 00:46:33:02] Quando nós vamos criar logotipos, por exemplo,
+[00:46:33:13 --> 00:46:37:08] e aí nós vamos criar aqueles grid, aquelas estruturas geométricas
+[00:46:37:08 --> 00:46:43:11] para poder deixar o logotipo, o símbolo, o mais regular possível, o mais lógico possível,
+[00:46:43:11 --> 00:46:48:23] a concordância geométrica é muitíssimo importante.
+[00:46:49:04 --> 00:46:51:17] Para que você tenha a concordância geométrica,
+[00:46:52:02 --> 00:46:54:01] você precisa das tangentes,
+[00:46:54:10 --> 00:46:58:00] você precisa do ponto compartilhado entre os elementos.
+[00:46:58:09 --> 00:47:01:01] Então, aqui eu fiz três concordâncias geométricas diferentes,
+[00:47:01:04 --> 00:47:06:02] então a gente tem uma concordância de uma reta de tangente aqui com um arco.
+[00:47:06:08 --> 00:47:08:08] Eles concordaram exatamente aqui.
+[00:47:08:21 --> 00:47:12:06] Nós temos a concordância entre dois arcos diferentes
+[00:47:12:06 --> 00:47:16:16] E aqui nós temos a concordância entre três arcos diferentes, então a gente tem esse
+[00:47:16:16 --> 00:47:22:07] primeiro círculo, esse segundo que é desse círculo aqui, o arco desse círculo, dessa
+[00:47:22:07 --> 00:47:26:20] circunferência e nós temos o arco dessa terceira circunferência.
+[00:47:26:28 --> 00:47:31:20] Dá para fazer assim, dá para fazer com mais inclusive, mais circunferências também,
+[00:47:31:29 --> 00:47:37:15] mas geralmente até três e a gente pode fazer tanto para dentro quanto para fora também.
+[00:47:37:15 --> 00:47:40:25] A lógica é a mesma, só que inversamente proporcional.
+[00:47:41:05 --> 00:47:42:27] E aí como que funciona essa parada?
+[00:47:42:29 --> 00:47:45:27] Vamos começar do básico aqui até o avançado.
+[00:47:46:08 --> 00:47:49:24] Eu vou pegar esses elementos, deixar aqui no cantinho para depois a gente trabalhar
+[00:47:49:24 --> 00:47:50:09] com eles.
+[00:47:50:22 --> 00:47:56:07] E vamos começar com essa aqui que é a concordância mais simples de se fazer entre uma reta
+[00:47:57:12 --> 00:48:04:00] arco. Basicamente a gente precisa de uma reta para poder fazer a concordância e de um arco.
+[00:48:04:04 --> 00:48:10:06] Vou criar um arco aqui diferente agora. Então, a gente tem a reta e nós temos um arco também.
+[00:48:10:13 --> 00:48:16:24] E nós precisamos criar uma concordância entre esses dois elementos. Para criar essa concordância
+[00:48:16:24 --> 00:48:23:16] basicamente o que a gente precisa é de uma reta tangencial, uma reta de tangente para poder
+[00:48:23:16 --> 00:48:27:07] medir exatamente esse ponto e esse ponto e alinhar os dois elementos.
+[00:48:27:16 --> 00:48:32:16] Tem um jeito super simples de fazer inclusive no Illustrator, é só clicar aqui, no caso
+[00:48:32:16 --> 00:48:37:25] dessa reta aqui ainda é simples de fazer, alinha ela, deu até um bugzinho ali, alinha
+[00:48:37:25 --> 00:48:44:12] ela, vai sair não bug, alinha as duas aqui e basicamente pra poder conseguir agora
+[00:48:44:12 --> 00:48:46:18] Alinhar os dois que muita gente fica vindo aqui.
+[00:48:47:20 --> 00:48:50:07] Colocando aqui e medindo certinho.
+[00:48:50:18 --> 00:48:52:23] E aí quando você vai ver, olha lá, olha.
+[00:48:55:13 --> 00:48:57:19] Eles não estão concordando, a gente não tem...
+[00:48:58:24 --> 00:49:00:02] uma concordância aqui.
+[00:49:01:17 --> 00:49:03:10] E aí você tem que ficar colocando o ponto assim.
+[00:49:03:18 --> 00:49:06:07] Para evitar, tem que ficar colocando o ponto exato assim,
+[00:49:06:21 --> 00:49:09:06] aqui parece que foi, mas pode ser que não vá também.
+[00:49:10:05 --> 00:49:11:05] O que você faz?
+[00:49:13:09 --> 00:49:14:25] Olha lá, parece que não foi, né?
+[00:49:15:18 --> 00:49:17:00] Você precisa criar primeiro.
+[00:49:18:19 --> 00:49:20:19] a reta tangente que vai cortar.
+[00:49:21:11 --> 00:49:23:13] Então, a gente cria uma reta de estrutura.
+[00:49:23:13 --> 00:49:25:11] Vou criar aqui, perpendicular.
+[00:49:25:27 --> 00:49:28:16] Vou colocá-la como reta de construção, de estrutura não.
+[00:49:29:19 --> 00:49:30:22] Alinho ela, então.
+[00:49:31:29 --> 00:49:36:25] na vertical e alinham ela na direita desse círculo.
+[00:49:36:25 --> 00:49:37:27] Desse círculo.
+[00:49:38:18 --> 00:49:39:21] Dessa reta aqui.
+[00:49:39:28 --> 00:49:43:13] Vou até colocar um nome nela, é importante nós colocarmos os nomes.
+[00:49:43:20 --> 00:49:46:07] R' significa reta de tangente.
+[00:49:46:12 --> 00:49:46:24] Beleza?
+[00:49:47:02 --> 00:49:49:22] E o T, às vezes é marcado com T, às vezes é com P,
+[00:49:49:28 --> 00:49:51:18] é o ponto de tangência.
+[00:49:52:00 --> 00:49:55:26] Então nós criamos aqui um ângulo de 90 graus nesse caso, por quê?
+[00:49:56:03 --> 00:50:01:18] A reta aqui é uma reta horizontal, perfeita.
+[00:50:01:18 --> 00:50:06:21] Então ela gera um ângulo de 90 graus, se a gente fosse fazer isso com uma reta que não
+[00:50:06:21 --> 00:50:13:13] é, vou fazer até certinho a reta aqui, uma reta de 45, ou até vamos complicar aqui né,
+[00:50:13:13 --> 00:50:13:24] um pouquinho.
+[00:50:14:12 --> 00:50:18:04] Nem sei que ângulo que é esse aqui ó, criei esse ângulo, o que eu posso fazer?
+[00:50:18:15 --> 00:50:25:06] Você dá um Ctrl C e Ctrl F, segura Shift e roda, porque aí você vai estar somando
+[00:50:25:06 --> 00:50:30:06] 90 graus, então as duas aqui estão perpendiculares uma a outra.
+[00:50:30:06 --> 00:50:35:08] Só que para poder colocar aqui no ponto, você vai ter um pouco mais de trabalho.
+[00:50:35:16 --> 00:50:39:10] Aí a dica que eu dou, a consideração que eu dou é a seguinte, quando você for trabalhar
+[00:50:39:10 --> 00:50:43:21] esses elementos, coloque eles na orientação...
+[00:50:46:02 --> 00:50:50:18] mais retinho possível, porque assim fica mais fácil de você trabalhar no Illustrator, beleza?
+[00:50:51:01 --> 00:50:55:25] Depois que eu fiz isso, fica fácil de eu encontrar, porque é só eu pegar essa linha de construção
+[00:50:57:06 --> 00:50:58:25] aqui, alinhar ela...
+[00:51:00:00 --> 00:51:04:27] a circunferência. Se você tivesse que fazer isso aqui no papel, aí meu amigo, ia dar
+[00:51:04:27 --> 00:51:08:21] um trabalhinho maior. Por quê? Você teria que encontrar o centro. Tá vendo o que a
+[00:51:08:21 --> 00:51:13:02] gente fez aqui sem encontrar o centro? No papel qual que é a lógica? E essa lógica
+[00:51:13:02 --> 00:51:17:11] é importante pra gente cada vez complicar um pouquinho mais. Mas no papel qual que
+[00:51:17:11 --> 00:51:21:24] é a lógica? Você tem aqui, então, um segmento. A primeira coisa que você precisa
+[00:51:21:24 --> 00:51:22:13] saber...
+[00:51:23:16 --> 00:51:27:29] o tamanho do arco. Então, você precisa saber o valor do raio. Vamos pegar esse círculo
+[00:51:27:29 --> 00:51:33:03] aqui, que está falando que ele tem uma... Vou deixar ele do tamanho certo por enquanto.
+[00:51:33:28 --> 00:51:39:24] Está falando que ele tem um diâmetro de... Vamos ver... Vou colocar aqui... Estava 68,347,
+[00:51:39:24 --> 00:51:44:07] vou colocar 70. Está tendo um diâmetro de 70 pixels. Se a gente fosse trabalhar
+[00:51:44:24 --> 00:51:49:02] ele no papel, então a gente precisa pegar o diâmetro e dividir por 2 para encontrar
+[00:51:49:02 --> 00:51:53:27] o raio. Então, o raio dele é 70 pixels ao diâmetro, o raio é 35 pixels. Vou anotar
+[00:51:53:27 --> 00:51:55:28] aqui para a gente. 35 pixels.
+[00:51:57:02 --> 00:51:58:00] branco.
+[00:51:59:22 --> 00:52:01:01] Esse é o raio.
+[00:52:03:14 --> 00:52:10:24] 35 pixels. E aí, basicamente, para encontrar aqui a concordância, a primeira coisa que
+[00:52:10:24 --> 00:52:18:02] a gente precisa fazer é traçar a reta da tangente aqui. Então, você pegaria aqui
+[00:52:18:02 --> 00:52:24:13] a régua e faria uma reta cortando de forma perpendicular a reta principal. Vou colocar
+[00:52:24:13 --> 00:52:25:13] como linha de construção.
+[00:52:27:06 --> 00:52:28:22] Mas é como se você fizesse isso aqui.
+[00:52:29:27 --> 00:52:31:29] Deixa eu colocar aqui linha de construção.
+[00:52:35:15 --> 00:52:42:04] Depois que você cortou usando uma lapiseira 0.3, 1.3, você faz o quê?
+[00:52:42:06 --> 00:52:46:15] Você vai medir aqui a distância de 35 pixels.
+[00:52:46:24 --> 00:52:50:29] Então você precisa de 35 pixels aqui, no caso fosse milímetro.
+[00:52:51:08 --> 00:52:56:11] Você vai medir essa distância e vai marcar, geralmente a gente faz um xzinho,
+[00:52:56:24 --> 00:53:03:29] você vai marcar com a régua lá, um xzinho, exatamente na distância de 35 pixels.
+[00:53:03:29 --> 00:53:09:08] Mas, marcou esse X lá, inclusive aqui ficou invisível, porque eu não coloquei estilo
+[00:53:09:08 --> 00:53:10:00] nele.
+[00:53:10:09 --> 00:53:11:13] Vamos colocar aqui o...
+[00:53:13:03 --> 00:53:22:19] Uma vez que você fez isso, você vai fincar a ponta do compasso aqui, inclusive, na verdade,
+[00:53:22:24 --> 00:53:27:26] para ficar regular é bom você fazer para os dois lados, então é 35 para cima e 35
+[00:53:27:26 --> 00:53:28:20] para baixo.
+[00:53:29:06 --> 00:53:33:06] Vamos medir aqui certinho para a gente fazer regular, então 35 pixels.
+[00:53:33:06 --> 00:53:33:10] Obrigado por assistir!
+[00:53:35:00 --> 00:53:36:03] 35 pixels.
+[00:53:37:14 --> 00:53:39:21] é a distância que a gente precisa.
+[00:53:40:00 --> 00:53:42:10] Então a gente coloca a linha aqui, com aqui.
+[00:53:43:10 --> 00:53:45:16] Vou olhar lá embaixo, então alinie as duas.
+[00:53:46:15 --> 00:53:47:19] 35 pixels.
+[00:53:49:02 --> 00:53:52:02] Vou colocar ela de outra cor para a gente visualizá-la.
+[00:53:53:03 --> 00:53:57:08] 35 pixels, eu coloco o X aqui, marco lá.
+[00:54:00:09 --> 00:54:03:21] exatamente o ponto, aqui parece que não tá no ponto.
+[00:54:06:29 --> 00:54:07:25] que não tá mesmo.
+[00:54:10:06 --> 00:54:11:02] Já aqui vou...
+[00:54:12:11 --> 00:54:16:23] posicionar. Aí, agora deu o snap ali. Agora tá exatamente no mesmo ponto, tá vendo que
+[00:54:16:23 --> 00:54:22:26] ele até coloriu pra gente conseguir visualizar? E aí a gente puxa, se fosse com um com lápis,
+[00:54:22:29 --> 00:54:24:23] a gente criaria essa outra reta aqui.
+[00:54:27:05 --> 00:54:29:15] Opa, parece que eu não alinhei ela 100%.
+[00:54:31:09 --> 00:54:40:03] criar essa reta aqui a partir desse ponto também. Beleza? Então olha aí, criamos as duas retas.
+[00:54:41:09 --> 00:54:47:12] o arco, ele vai começar aqui e terminar aqui. É muito gostoso fazer isso no papel,
+[00:54:48:06 --> 00:54:52:06] porque você fica com a sensação de que vai dar errado. Deixa eu puxar o de cima
+[00:54:52:06 --> 00:54:52:15] aqui.
+[00:54:54:07 --> 00:54:56:24] a de construção, só para ela ficar aqui certo.
+[00:54:57:29 --> 00:55:00:01] você vai ficar com a sensação de que vai dar errado.
+[00:55:00:26 --> 00:55:03:05] Porque para dar certo, ele tem que concordar certinho.
+[00:55:03:20 --> 00:55:05:20] Você vai puxar aqui, você vai ter lá o compasso, né?
+[00:55:06:27 --> 00:55:12:02] usando o rosa aqui. A gente já pode tirar esse, isso aqui também era só um exemplo, deixa o raio ali.
+[00:55:13:05 --> 00:55:19:00] e deixo isso ali também. Você vai pegar o compasso, vai colocar a ponta seca dele aqui.
+[00:55:20:06 --> 00:55:23:23] Vou até fazê-lo assim, como se a gente estivesse vendo de cima.
+[00:55:24:07 --> 00:55:29:11] Você vai colocar a ponta seca dele aqui e a outra ponta você vai colocar...
+[00:55:29:11 --> 00:55:32:15] Não, melhor fazer com o ângulo reto, porque ficou esquisito, né?
+[00:55:33:19 --> 00:55:40:00] Então, eu coloco o compasso lá no centro e a outra ponta aqui a gente vai colocar exatamente
+[00:55:40:00 --> 00:55:41:00] nesse ponto.
+[00:55:41:11 --> 00:55:44:19] E aí, com o compasso, você rodaria o compasso aqui.
+[00:55:46:24 --> 00:55:50:05] e ele chegaria aqui, daria certinho aqui, a distância.
+[00:55:50:18 --> 00:55:54:11] Porque é como se o compasso tivesse centralizado aqui, ó, essa reta dele...
+[00:55:55:18 --> 00:55:56:15] vai ficar aqui.
+[00:55:57:03 --> 00:56:02:26] A única reta que nós vamos mexer, o único lado que nós vamos mexer do compasso é o do grafite.
+[00:56:03:02 --> 00:56:04:18] Então, a gente roda o compasso...
+[00:56:06:01 --> 00:56:11:00] e ele dá a medida certa. No papel seria mais ou menos assim que a gente faria. Eu espero
+[00:56:11:00 --> 00:56:16:12] que vocês consigam imaginar e visualizar o que eu estou mostrando. Mas aqui no Illustrator
+[00:56:16:12 --> 00:56:19:15] Ainda dessa forma a gente só precisa alinhar aqui.
+[00:56:20:24 --> 00:56:28:12] esses dois elementos. Então, opa, a linha errada aqui, pera aí. A gente só precisa do arco, né, a gente não tá criando tudo.
+[00:56:30:02 --> 00:56:33:20] Alinha esse com esse. Beleza.
+[00:56:33:25 --> 00:56:35:18] Está dando uns bugs aqui no Illustrator.
+[00:56:36:18 --> 00:56:38:24] Espero que esteja dando para vocês verem direitinho.
+[00:56:39:11 --> 00:56:43:14] Então, a gente tem aqui uma primeira concordância, a mais simples de todas.
+[00:56:44:06 --> 00:56:47:09] Parece que ficou muita coisa porque eu expliquei de várias formas diferentes,
+[00:56:47:12 --> 00:56:49:19] mas se você rever, você vai ver que não tem complicação.
+[00:56:50:06 --> 00:56:54:06] A primeira forma que eu expliquei já foi simples de entender.
+[00:56:55:13 --> 00:56:58:28] Primeira maneira de explicar que já foi fácil de você entender,
+[00:56:59:14 --> 00:57:01:07] porque essa daqui é o mais simples deles.
+[00:57:01:21 --> 00:57:03:18] Agora vamos fazer aqui uma parada.
+[00:57:04:07 --> 00:57:06:19] Deixa eu colocar isso aqui um pouco de lado
+[00:57:07:04 --> 00:57:10:20] e vamos começar aqui a trabalhar com ângulos.
+[00:57:10:23 --> 00:57:12:13] Vou puxar isso daqui primeiro para a gente fazer.
+[00:57:13:08 --> 00:57:15:01] E aqui que a brincadeira começa.
+[00:57:15:20 --> 00:57:21:19] Então, a gente tem essa concordância entre duas circunferências diferentes.
+[00:57:21:19 --> 00:57:28:09] E para poder ter a concordância, a gente precisa de um único ponto concordante.
+[00:57:28:12 --> 00:57:29:05] Um único ponto.
+[00:57:29:06 --> 00:57:30:19] Elas concordam em um único ponto.
+[00:57:30:21 --> 00:57:34:08] A gente tem uma interseção de um único ponto, que é a tangente.
+[00:57:34:08 --> 00:57:37:14] Para poder criar isso daqui, vou dar um zoom aqui, olha.
+[00:57:38:17 --> 00:57:39:27] Vou criar um diferente agora.
+[00:57:41:04 --> 00:57:44:04] Para vocês verem, um desse tamanho e um desse tamanho.
+[00:57:44:06 --> 00:57:48:07] Para poder criar isso aqui, de novo, a primeira coisa que a gente precisa
+[00:57:48:07 --> 00:57:51:15] é do tamanho do raio desses círculos.
+[00:57:52:02 --> 00:57:57:05] Então, olha só, no Illustrator é muito fácil você criar o círculo do tamanho que você quiser
+[00:57:57:05 --> 00:58:02:12] e eu acho que esse é o primeiro ponto que faz um designer começar a se perder.
+[00:58:02:27 --> 00:58:07:00] Se você não tem a regularidade, se você cria um círculo ali e não fica atento com o raio do círculo,
+[00:58:07:10 --> 00:58:09:04] vai dar errado, vai ter problema no final.
+[00:58:09:04 --> 00:58:14:04] Então, a primeira coisa é ficar atento ao raio. Eu criei esse círculo aqui que o diâmetro
+[00:58:14:04 --> 00:58:19:13] dele é 100 pixels e esse daqui eu vou colocar 200 pixels. Então a gente tem um círculo.
+[00:58:21:05 --> 00:58:23:06] Diâmetro igual a 100 pixels.
+[00:58:27:12 --> 00:58:31:27] que é o menorzinho aqui, e a gente tem um círculo aqui com um diâmetro de 200 pixels,
+[00:58:32:08 --> 00:58:34:22] duas vezes maior do que ele.
+[00:58:35:00 --> 00:58:40:09] A gente precisa do raio, aqui ficou muito fácil, o raio é metade do diâmetro, então
+[00:58:40:09 --> 00:58:43:20] o diâmetro desse é 100 pixels, e o diâmetro desse...
+[00:58:45:29 --> 00:58:51:05] 50 pixels. Opa, apaguei errado. O raio, né? Ou o diâmetro não. O raio desse é 50 pixels
+[00:58:51:05 --> 00:58:56:02] e o raio desse é 100 pixels. Metade do diâmetro, igual a gente já viu agora a pouco.
+[00:58:56:11 --> 00:59:01:01] A gente quer que esses dois elementos concordem e aqui que a brincadeira começa. Porque
+[00:59:01:01 --> 00:59:06:23] se você quer concordar aqui, aí que os designers começam a penar, porque tem que
+[00:59:06:23 --> 00:59:11:26] ficar colocando aqui, não tem um alinhar nesse ponto exato. E aí você fica lá
+[00:59:11:26 --> 00:59:17:25] horas e horas tentando alinhar e como está inclinado, o negócio nunca alinha de verdade,
+[00:59:17:29 --> 00:59:23:13] nunca fica alinhado no ponto que você quer. Inclusive, você perde esse ponto. E aí,
+[00:59:23:14 --> 00:59:27:20] para poder arrumar isso, vocês vão ver que aqui ainda vai ser fácil, porque nós
+[00:59:27:20 --> 00:59:32:05] temos só dois círculos, quando a gente colocar três, aí a pitada final. Mas para
+[00:59:32:05 --> 00:59:39:00] poder alinhar aqui da maneira mais lógica e mais precisa possível, nós vamos utilizar
+[00:59:39:00 --> 00:59:44:00] o raio. Aqui eu ainda consegui... olha só que cagada, hein? Eu ainda consegui criar uma
+[00:59:44:00 --> 00:59:51:00] concordância aqui. Mas eu criei uma concordância em um ângulo que eu nem sei qual é. Então...
+[00:59:52:02 --> 00:59:54:19] Isso é importante na hora que a gente vai criar.
+[00:59:54:21 --> 00:59:57:28] Se você precisa de uma concordância em um ângulo exato, por exemplo,
+[00:59:58:14 --> 01:00:00:01] aí você vai precisar seguir a mesma lógica.
+[01:00:00:10 --> 01:00:02:00] Tem um jeitinho fácil de fazer isso?
+[01:00:02:04 --> 01:00:02:14] Tem!
+[01:00:02:26 --> 01:00:04:14] Tem um jeito que é mais simples de fazer isso?
+[01:00:04:29 --> 01:00:06:13] Que é só você concordar esses dois.
+[01:00:06:16 --> 01:00:09:01] Para fazer isso, você cria uma reta de construção aqui,
+[01:00:09:27 --> 01:00:11:12] alinha esse círculo nela...
+[01:00:12:11 --> 01:00:14:27] Beleza? E alinha esse aqui nela também.
+[01:00:15:13 --> 01:00:18:05] Então, alinhou os dois aqui nela. Beleza.
+[01:00:18:16 --> 01:00:19:17] Criei a concordância.
+[01:00:19:18 --> 01:00:21:20] Agora eu coloco na inclinação que eu quiser.
+[01:00:22:17 --> 01:00:22:28] Sacou?
+[01:00:23:06 --> 01:00:26:24] Então, com dois círculos, ainda é de boa de fazer isso.
+[01:00:27:13 --> 01:00:30:08] Olha só, se a gente quiser, posso cortar aqui...
+[01:00:30:26 --> 01:00:32:14] E posso cortar aqui...
+[01:00:32:14 --> 01:00:34:10] E estão concordando perfeitamente.
+[01:00:34:11 --> 01:00:36:29] Inclusive, se eu quiser juntar esses pontos, eu consigo.
+[01:00:37:02 --> 01:00:37:26] Virou um ponto só.
+[01:00:38:00 --> 01:00:38:08] Está vendo?
+[01:00:38:20 --> 01:00:41:01] Se eu mexo nele aqui, deixa eu colocar ele com...
+[01:00:42:06 --> 01:00:43:25] Agora, se eu mexo aqui, eu mexo lá.
+[01:00:45:11 --> 01:00:50:04] virou um ponto só, eles realmente concordaram. Quando concorda, aí funciona. Ficou um ponto
+[01:00:50:04 --> 01:00:55:21] solto ali. Pagar esse ponto aqui. Ou ele é o centro, acho que ele é o centro do novo
+[01:00:55:21 --> 01:01:00:03] elemento. Então foi fácil, né? Só que eu ainda vou explicar de um outro jeito para
+[01:01:00:03 --> 01:01:04:18] vocês que vai fazer sentido quando nós formos criar uma concordância entre três
+[01:01:04:18 --> 01:01:11:06] elementos que aí lá eu vejo os designers ficarem loucos. Mas vamos lá. Qual que
+[01:01:11:06 --> 01:01:16:27] é a lógica. A mesma lógica é muito simples. A primeira coisa que a gente vai fazer então...
+[01:01:19:07 --> 01:01:23:24] criar aqui um segmento de reta com o tamanho do nosso raio.
+[01:01:23:27 --> 01:01:25:15] Então, vou criar um com 50 pixels.
+[01:01:28:01 --> 01:01:30:17] Zero, aqui ele estava com inclinação.
+[01:01:30:26 --> 01:01:32:17] 50 pixels, ele criou o meu elemento?
+[01:01:33:13 --> 01:01:34:15] Ficou de criar e não criou.
+[01:01:36:28 --> 01:01:38:07] e vou alinhar ele aqui.
+[01:01:41:01 --> 01:01:42:20] Então, alinhou com o centro, beleza?
+[01:01:43:04 --> 01:01:45:04] E um de 100 pixels.
+[01:01:45:12 --> 01:01:47:05] Vou criar um aqui também de 100 pixels
+[01:01:47:05 --> 01:01:51:28] e vou alinhar ele aqui no centro e na extremidade.
+[01:01:52:19 --> 01:01:54:07] Beleza, criamos esses dois aqui.
+[01:01:54:17 --> 01:01:56:29] Agora, a gente precisa saber da inclinação.
+[01:01:57:16 --> 01:02:00:07] Então, a gente já tem aqui as unidades de medidas dos círculos.
+[01:02:00:18 --> 01:02:05:12] Vou chamar esse daqui de D2, que é o círculo 2, o círculo maior.
+[01:02:05:29 --> 01:02:07:11] Esse aqui, D1, beleza?
+[01:02:08:24 --> 01:02:09:16] Diametro 1 e raio 1.
+[01:02:10:23 --> 01:02:12:05] Então, a gente já tem aqui...
+[01:02:13:11 --> 01:02:17:21] essas unidades já criamos isso. A gente também precisa saber o ângulo.
+[01:02:19:03 --> 01:02:24:05] O ângulo desses... Aqui eu estou colocando letras quaisquer, não necessariamente a letra deles.
+[01:02:24:23 --> 01:02:33:01] O ângulo que o centro desses dois círculos vão compartilhar,
+[01:02:33:10 --> 01:02:36:14] vão concordar o segmento que eles vão concordar no centro.
+[01:02:36:29 --> 01:02:40:20] E aí, beleza, vamos colocar aqui, na hora você decide qual que é esse ângulo,
+[01:02:40:29 --> 01:02:44:14] mas vamos colocar que a gente quer um ângulo aqui de 30 graus.
+[01:02:45:16 --> 01:02:48:21] Beleza, criamos um ângulo de 30 graus.
+[01:02:48:24 --> 01:02:51:23] Para isso, tem os mais fáceis se você quer facilitar a sua vida.
+[01:02:52:12 --> 01:02:57:26] É só você usar ângulos retos, 90 ou 45,
+[01:02:58:11 --> 01:03:01:12] que aí você só segura o Shift aqui e roda os dois,
+[01:03:01:26 --> 01:03:03:25] e depois a gente vai só concordar elas no final.
+[01:03:04:21 --> 01:03:08:18] Mas aqui a gente vai deixar um pouquinho mais complicado,
+[01:03:09:08 --> 01:03:14:03] só para a gente entender a lógica de como é que isso funciona.
+[01:03:14:03 --> 01:03:18:26] Então, antes de criar, já que a gente já tem as linhas de construção, eu vou fazer
+[01:03:18:26 --> 01:03:21:11] mais uma linha de construção que é a linha da tangente.
+[01:03:21:20 --> 01:03:22:11] Então deixa eu...
+[01:03:24:11 --> 01:03:28:05] Pegar esse e esse e colocar como linha de construção.
+[01:03:29:10 --> 01:03:30:04] Beleza.
+[01:03:30:17 --> 01:03:32:27] E agora eu vou criar mais uma linha de construção aqui.
+[01:03:35:04 --> 01:03:40:00] Então, a linha aqui no centro e na lateral e outra linha de construção.
+[01:03:46:02 --> 01:03:48:00] a linha aqui e a linha no centro.
+[01:03:48:20 --> 01:03:50:17] Beleza, criamos as linhas de construção.
+[01:03:50:26 --> 01:03:54:26] Então, para a gente ter mais precisão dos elementos, vou deixar mais para cá.
+[01:03:55:14 --> 01:03:58:28] E aí, eu vou rotacionar isso aqui em 30°.
+[01:03:59:09 --> 01:03:59:21] Beleza?
+[01:03:59:22 --> 01:04:04:15] Vou fazer uma rotação de 30° aqui, partindo do zero.
+[01:04:04:27 --> 01:04:07:25] Então, eu vou vir aqui em Efeito, Transformar
+[01:04:07:25 --> 01:04:12:17] e vou fazer um ângulo de 30° aqui nela.
+[01:04:14:05 --> 01:04:15:13] Para a gente...
+[01:04:20:16 --> 01:04:23:09] transformar e girar 30°.
+[01:04:24:13 --> 01:04:26:07] Então, a gente girou 30° esse daqui.
+[01:04:26:18 --> 01:04:28:21] Ah, e esse aqui eu giro 30° também?
+[01:04:29:01 --> 01:04:32:28] Não, porque esse aqui, o ângulo dele é muito maior.
+[01:04:33:12 --> 01:04:37:28] Você vai precisar girar 180° mais 30° para que a linha fique para cá.
+[01:04:38:00 --> 01:04:41:00] Então, você vai ter que girar 210°.
+[01:04:41:04 --> 01:04:42:27] Olha só como é que a matemática é importante,
+[01:04:43:04 --> 01:04:45:18] como a gente não pode ignorar...
+[01:04:46:22 --> 01:04:47:24] Uuuuuh!
+[01:04:48:27 --> 01:04:55:00] os raios e os números. Beleza? Então, a gente tem eles aqui no mesmo ângulo.
+[01:04:55:13 --> 01:04:58:00] Agora, a gente precisa apenas concordar...
+[01:04:59:20 --> 01:05:02:13] esses dois elementos. Se a gente estivesse fazendo isso no papel,
+[01:05:03:08 --> 01:05:04:16] o que a gente ia fazer no final?
+[01:05:05:02 --> 01:05:07:18] Depois que você tem esse raio aqui,
+[01:05:08:12 --> 01:05:11:17] você vai somar ele com esse raio.
+[01:05:11:27 --> 01:05:12:09] Beleza?
+[01:05:12:23 --> 01:05:14:12] Então, a gente soma ele com esse raio.
+[01:05:14:19 --> 01:05:16:06] E a gente cria uma linha...
+[01:05:17:08 --> 01:05:22:21] que vai até o final do raio, então se esse raio aqui ele é 100 e esse é 150, então
+[01:05:22:21 --> 01:05:23:22] o que a gente poderia fazer?
+[01:05:25:06 --> 01:05:29:06] essa reta e somar 100 com 150 dá 200.
+[01:05:31:04 --> 01:05:32:12] Então eu vou pegá-la aqui.
+[01:05:32:21 --> 01:05:34:00] Poxa, eu dei uma inclinada nela.
+[01:05:35:18 --> 01:05:36:13] Agora eu me ferrei.
+[01:05:37:22 --> 01:05:41:16] Deixa eu ver aqui... Quando você inclina, o Illustrator considera...
+[01:05:42:22 --> 01:05:47:17] essa largura e não mais a largura dela. Deixa eu voltar ela aqui para a inclinação
+[01:05:47:17 --> 01:05:51:28] ela normal, transformar, girar, menos 30.
+[01:05:53:05 --> 01:05:55:07] Voltar lá para o normal que vai facilitar para a gente.
+[01:05:55:19 --> 01:05:56:04] Então aqui, ó...
+[01:05:57:14 --> 01:06:06:03] Eu vou pegar esse segmento de reto, colocar o eixo, o centro dele aqui e vou somar 150
+[01:06:06:03 --> 01:06:06:28] graus.
+[01:06:10:20 --> 01:06:12:14] 150 graus não, 150 pixels.
+[01:06:13:06 --> 01:06:15:03] Então agora, o que a gente tem aqui?
+[01:06:15:26 --> 01:06:19:15] 150 não, desculpa, era 100, o raio é 100, não 150.
+[01:06:20:01 --> 01:06:21:29] Deixa eu tirar 50 aqui para ficar certinho.
+[01:06:23:08 --> 01:06:25:16] Então, agora a gente tem esse centro aqui.
+[01:06:25:26 --> 01:06:28:28] E é exatamente esse centro aqui
+[01:06:29:16 --> 01:06:34:23] que a gente vai encaixar o centro da outra circunferência.
+[01:06:35:01 --> 01:06:38:09] O jeito mais fácil, igual disso para vocês agora, para poder fazer isso aqui,
+[01:06:38:18 --> 01:06:41:08] é o que? A gente pode pegar essa reta para perpendicular.
+[01:06:41:22 --> 01:06:43:25] Se a gente quer colocar no ângulo certo,
+[01:06:44:22 --> 01:06:46:14] eu iria fazer do outro jeito e iria complicar.
+[01:06:47:23 --> 01:06:49:20] A gente vai pegar essa reta perpendicular...
+[01:06:51:22 --> 01:06:52:18] Alinhar ela.
+[01:06:55:00 --> 01:07:00:16] com essa daqui. E uma vez... eu apaguei o círculo, cara. Era pra apagar só o...
+[01:07:02:05 --> 01:07:05:01] Na verdade não precisa apagar nada, é só o rotacionar aqui pra gente.
+[01:07:06:03 --> 01:07:10:06] Deixa eu vir aqui, girar, menos 210.
+[01:07:12:05 --> 01:07:12:26] graus.
+[01:07:18:28 --> 01:07:24:23] para ficar certinho. O que a gente tem que fazer? Inclusive a gente nem precisa dessa
+[01:07:24:23 --> 01:07:31:28] linha de construção aqui. Depois que a gente somou o raio desse círculo maior aqui, então
+[01:07:31:28 --> 01:07:38:20] o centro dele é esse ponto aqui na tangência. Então olha que interessante, eu apaguei a
+[01:07:38:20 --> 01:07:43:11] reta errada, já estou apagando a parada que não dá para apagar. Olha, vou fazer
+[01:07:43:11 --> 01:07:43:26] de novo.
+[01:07:46:04 --> 01:07:47:26] A linha aqui e aqui.
+[01:07:48:10 --> 01:07:51:24] E tudo que eu preciso fazer é alinhar esse círculo nessa reta.
+[01:07:53:17 --> 01:07:55:17] e a gente já vai ter aqui, ó... exato!
+[01:07:57:16 --> 01:08:01:24] Perfeitinho, bem, concordante aqui, a tangente.
+[01:08:02:18 --> 01:08:05:11] Se a gente quiser inclusive apagar aqui,
+[01:08:05:20 --> 01:08:06:21] e apagar aqui a gente pode.
+[01:08:06:23 --> 01:08:08:14] Eu mostrei de dois jeitos diferentes,
+[01:08:08:27 --> 01:08:11:26] mas olha que interessante o raciocínio desse jeito aqui.
+[01:08:12:04 --> 01:08:15:05] E se a gente quisesse girar, eu falei pra vocês que a gente pode girar também,
+[01:08:15:26 --> 01:08:17:29] basicamente agora que a gente precisa agrupar isso...
+[01:08:19:03 --> 01:08:21:25] Clicar com o botão direito e transformar.
+[01:08:24:17 --> 01:08:29:27] girar e a gente gira. Por exemplo, se a gente quer 30 graus, a gente gira 30 graus e eles
+[01:08:29:27 --> 01:08:35:22] ficaram exatamente em 30 graus, sem perder aqui a precisão. Se fosse no papel, a lógica
+[01:08:35:22 --> 01:08:39:16] é quase a mesma, o que muda é só o final. Então, você cria o primeiro círculo, 100
+[01:08:39:16 --> 01:08:44:17] de diâmetro, cria ele com 100 de diâmetro. Depois, você vai pegar do centro dele,
+[01:08:44:22 --> 01:08:45:26] deixa eu enviar isso aqui para frente.
+[01:08:47:27 --> 01:08:49:08] só para ficar mais fácil de visualizar.
+[01:08:50:14 --> 01:08:55:07] Depois que você criou isso, você vai pegar do centro dele e vai criar um segmento de reta,
+[01:08:55:17 --> 01:08:57:25] que é a soma do raio pequeno com o raio grande.
+[01:08:58:13 --> 01:09:00:24] Então, soma os dois aqui e você vai ter uma reta.
+[01:09:01:09 --> 01:09:06:17] Esse ponto final aqui da extremidade, que a gente tem o ponto do centro e o ponto da extremidade,
+[01:09:06:26 --> 01:09:08:20] é onde você vai ficar, então...
+[01:09:09:25 --> 01:09:18:27] a ponta seca do compasso, vinco ela ali, e a outra ponta você vai colocar exatamente aqui, ó.
+[01:09:20:01 --> 01:09:26:07] Por que aqui, Juan? Porque é nesse ponto aqui, nessa linha aqui, essa medida aqui,
+[01:09:26:09 --> 01:09:31:14] a medida de 100 pixels, que vai gerar pra gente o...
+[01:09:33:09 --> 01:09:38:06] o círculo maior, porque se esse é o raio, então o todo são os 200 pixels de diâmetro.
+[01:09:38:15 --> 01:09:39:04] E aí você...
+[01:09:40:03 --> 01:09:48:29] passo com passo aqui no círculo e constrói o círculo de forma manual dentro dessa tangente
+[01:09:48:29 --> 01:09:50:24] aqui, construindo os dois com a mesma tangente.
+[01:09:51:02 --> 01:09:52:15] Manualmente faria dessa forma então.
+[01:09:52:20 --> 01:09:55:04] No Illustrator vocês estão vendo aqui, eu estou sempre mostrando o jeito fácil,
+[01:09:55:26 --> 01:10:00:28] mas agora, essa aula aqui está ficando um pouco mais extensa, mas vai valer a pena.
+[01:10:01:24 --> 01:10:02:08] Agora...
+[01:10:03:07 --> 01:10:05:27] é que a gente separa os profissionais dos amadores.
+[01:10:07:08 --> 01:10:08:21] Vou colocar essa lá em cima.
+[01:10:10:02 --> 01:10:15:15] pegar a terceira. Porque quando nós temos a concordância de 3…
+[01:10:17:14 --> 01:10:18:25] elementos diferentes?
+[01:10:20:09 --> 01:10:23:23] Aí, o bicho começa a pegar para muita gente.
+[01:10:24:06 --> 01:10:26:27] Primeiro, porque as pessoas não prestam atenção no raio.
+[01:10:27:11 --> 01:10:31:23] E segundo, porque elas não prestam atenção também no ângulo, na inclinação.
+[01:10:33:23 --> 01:10:37:27] Então bora lá, eu vou puxar aqui esse pro lado e a gente vai criar um outro do zero,
+[01:10:37:29 --> 01:10:38:27] eu posso até apagar ele.
+[01:10:39:01 --> 01:10:44:27] Eu só não vou apagar pra eu poder puxar aqui o estilo da linha de construção dele,
+[01:10:45:02 --> 01:10:46:11] mas eu vou deixar ele bem ali no cantinho.
+[01:10:46:28 --> 01:10:49:04] Então bora lá, o que a gente precisa fazer aqui primeiro?
+[01:10:49:28 --> 01:10:54:09] Vou criar aqui três círculos, lembrando que a gente precisa saber o diâmetro deles,
+[01:10:54:11 --> 01:10:55:10] isso é muito importante.
+[01:10:55:20 --> 01:10:59:27] Então vamos lá, esse primeiro aqui tá 97, vou colocar 100 pixels, esse segundo
+[01:10:59:27 --> 01:11:07:02] aqui 75 pixels, e esse terceiro aqui 180 pixels, ele já estava na medida certa, legal? Então
+[01:11:07:02 --> 01:11:09:03] bora lá. Diâmetro 1.
+[01:11:10:06 --> 01:11:12:21] Já vou colocar na cor que eu vou escrevendo já embaixo.
+[01:11:13:25 --> 01:11:14:14] Sétimo.
+[01:11:15:23 --> 01:11:17:18] Diametro 1, que é o do círculo menor.
+[01:11:18:23 --> 01:11:21:08] Geômetro 1 igual a 100 pixels.
+[01:11:24:14 --> 01:11:30:26] Diâmetro 2 é igual a 75 pixels.
+[01:11:33:17 --> 01:11:35:01] e diâmetro 3.
+[01:11:37:05 --> 01:11:44:20] É igual a 180 pixels, vamos só confirmar isso aqui, essa informação, 180 pixels,
+[01:11:44:26 --> 01:11:45:01] beleza?
+[01:11:45:04 --> 01:11:51:00] Então vou alinhar aqui e agora a gente vai pegar o raio, então o raio do primeiro círculo
+[01:11:51:00 --> 01:11:52:03] S50 Pixels.
+[01:11:54:05 --> 01:11:55:06] O raio do segundo.
+[01:11:59:22 --> 01:12:02:28] 35 mais... 37,5.
+[01:12:03:05 --> 01:12:05:02] 35 mais 2,5.
+[01:12:05:09 --> 01:12:06:23] 37,5 pixels.
+[01:12:08:21 --> 01:12:09:23] e o raio do terceiro.
+[01:12:11:08 --> 01:12:12:18] é 90 pixels.
+[01:12:14:05 --> 01:12:19:16] Certo, só esse aqui que eu preciso dar medida certinha, se você não tem a medida certinha da errada.
+[01:12:19:18 --> 01:12:23:20] Então, eu vou só confirmar o valor na calculadora, vale a pena, né?
+[01:12:24:18 --> 01:12:29:14] 75 dividido por 2, tem que ter humildade, mesmo quando a gente tem certeza do valor, a gente tem que ter humildade.
+[01:12:29:17 --> 01:12:31:20] Aí, ó, 37,5, é isso mesmo.
+[01:12:32:03 --> 01:12:37:09] Então, a gente tem aqui esses três valores, que são os raios que a gente precisa saber.
+[01:12:37:22 --> 01:12:39:09] A inclinação aqui agora...
+[01:12:40:16 --> 01:12:42:16] Ela vai depender do que você quer construir.
+[01:12:43:01 --> 01:12:44:13] Como assim o que eu quero construir, Juan?
+[01:12:44:23 --> 01:12:46:27] Por exemplo, você quer fazer uma forma que
+[01:12:46:27 --> 01:12:50:09] esse círculo vai entrar muito lá para dentro.
+[01:12:51:04 --> 01:12:53:26] Você quer fazer de uma maneira que ele vai entrar pouco
+[01:12:54:13 --> 01:12:55:15] lá para dentro.
+[01:12:56:08 --> 01:12:58:13] Aí a inclinação tende a mudar.
+[01:12:58:16 --> 01:12:59:24] Só que a gente não precisa dela.
+[01:12:59:26 --> 01:13:01:20] Vamos supor que a gente quer desse jeito aqui.
+[01:13:01:20 --> 01:13:03:21] A gente quer construir dessa forma.
+[01:13:04:00 --> 01:13:05:16] A primeira coisa que a gente precisa fazer...
+[01:13:05:16 --> 01:13:07:04] Vou deixar ele mais para cá, esse daqui.
+[01:13:07:07 --> 01:13:08:11] Deixa só esses dois em relação.
+[01:13:08:11 --> 01:13:11:06] Então, é, de novo, o raio.
+[01:13:11:13 --> 01:13:16:00] Então, o raio do primeiro, a gente já sabe que é 50 pixels, então vou criar aqui, raio
+[01:13:16:00 --> 01:13:16:14] do primeiro.
+[01:13:16:28 --> 01:13:20:07] O raio do segundo, a gente já sabe que é 90 pixels, vou criar aqui.
+[01:13:20:17 --> 01:13:25:06] E do terceiro, a gente já sabe que é 90 pixels, que é 37,5 pixels.
+[01:13:26:10 --> 01:13:26:23] Beleza!
+[01:13:27:04 --> 01:13:30:17] Já criamos aqui, então, os três raios.
+[01:13:30:26 --> 01:13:38:00] Agora, a gente precisa alinhar o centro desses três círculos, porque é justamente
+[01:13:38:00 --> 01:13:43:29] na hora que você alinha o centro, que você encontra as tangentes. Vamos começar primeiro
+[01:13:43:29 --> 01:13:49:11] alinhando o centro desses dois círculos aqui. O que que a gente precisa fazer para alinhar
+[01:13:49:11 --> 01:13:54:09] o centro delas? A gente precisa do centro, basicamente. Então, aqui ó, o centro está
+[01:13:54:09 --> 01:13:55:04] nesse ponto aqui.
+[01:13:55:04 --> 01:13:55:05] E aí
+[01:13:57:05 --> 01:13:58:05] nesse ponto aqui.
+[01:13:59:12 --> 01:14:05:18] aqui e aqui. Para que a gente não precise mudar a posição desses dois círculos aqui,
+[01:14:06:05 --> 01:14:11:03] o que a gente pode fazer para alinhar o centro deles? A gente pode, tem um jeito simples
+[01:14:11:03 --> 01:14:17:05] do Illustrator, roubado, que é o que? Você pega a caneta, pega um ponto, dá o snap
+[01:14:17:05 --> 01:14:22:20] nele aqui e o outro ponto e dá o snap nele ali. Pronto, alinhou o centro, os dois
+[01:14:22:20 --> 01:14:28:00] centros estão alinhados agora, beleza? Como esses dois elementos não vão concordar
+[01:14:28:00 --> 01:14:33:12] entre si, eles não tem um ponto que eles concordam, eles só vão ter esse ponto com
+[01:14:33:12 --> 01:14:37:18] o terceiro elemento, é basicamente isso que a gente precisa fazer.
+[01:14:38:09 --> 01:14:43:21] Agora que a coisa começa a ficar interessante, porque a gente precisa que esse círculo
+[01:14:43:21 --> 01:14:46:01] aqui, vou alinhar ele aqui também.
+[01:14:46:01 --> 01:14:46:04] e aí
+[01:14:47:03 --> 01:14:53:03] o raio dele, a gente precisa que ele concorde ao mesmo tempo desse lado e desse lado aqui.
+[01:14:53:17 --> 01:15:00:08] Para isso nós vamos ter que criar um segmento de reta que seja a soma dos dois raios.
+[01:15:00:20 --> 01:15:04:07] Então primeiro a gente vai alinhar ele com esse daqui e depois com esse daqui.
+[01:15:04:16 --> 01:15:09:16] Olha só, a gente tem aqui, agora uma matemática, mas é uma matemática simples, a gente tem
+[01:15:09:16 --> 01:15:11:29] que esse raio, que é um raio de 90...
+[01:15:13:18 --> 01:15:16:01] Então, raio a gente tem que somar.
+[01:15:16:06 --> 01:15:17:27] Raio de 3, vamos fazer aqui.
+[01:15:18:15 --> 01:15:26:01] Raio de 3 com raio de 2, que esse aqui é o 2, mais raio de 2, beleza?
+[01:15:26:25 --> 01:15:29:23] Quando a gente vai criar aqui, a gente fala que essa é a reta da tangente,
+[01:15:29:26 --> 01:15:31:23] então a gente pode chamar ela também de R'
+[01:15:32:13 --> 01:15:33:22] É um jeito de criar isso.
+[01:15:34:21 --> 01:15:40:12] é igual a x. A gente precisa achar o valor de x. Esse x é o valor do segmento que nós
+[01:15:40:12 --> 01:15:45:09] vamos criar aqui. Mas é simples, quando... É aquela piada, né? A matemática começou
+[01:15:45:09 --> 01:15:50:06] a ficar complicada quando colocaram as letras junto com os números. Quem entra para a
+[01:15:50:06 --> 01:15:53:11] física piora mais ainda, né? Que aí não é nem letra e nem número. É os símbolos,
+[01:15:53:12 --> 01:15:57:29] os desenzinhos. Quando você começa a colocar um desenho qualquer na equação
+[01:15:57:29 --> 01:16:05:00] a coisa fica louca, mas vamos lá. Então a gente tem aqui, R3 mais etad tangente igual
+[01:16:05:00 --> 01:16:11:08] a x. Que x é esse? É o valor que a gente precisa. Então a gente só converte R3 igual
+[01:16:11:08 --> 01:16:12:04] 90 pixels.
+[01:16:14:02 --> 01:16:20:12] A reta de tangente, que é o raio de R², está a 37,5 pixels.
+[01:16:20:21 --> 01:16:23:02] Então, é só fazer essa continha de padaria.
+[01:16:23:15 --> 01:16:25:01] Vou fazer aqui na calculadora,
+[01:16:25:26 --> 01:16:28:02] porque na padaria eles também usam calculadora.
+[01:16:28:09 --> 01:16:29:01] Então, vamos lá.
+[01:16:29:08 --> 01:16:32:14] 90 mais 37,5.
+[01:16:33:00 --> 01:16:35:20] Dá 127,5.
+[01:16:35:22 --> 01:16:37:09] Então, 127,5.
+[01:16:37:22 --> 01:16:41:15] Esse é o tamanho da reta que vai juntar esses dois pontos.
+[01:16:41:15 --> 01:16:45:09] Só que a gente precisa fazer a mesma coisa com...
+[01:16:46:16 --> 01:16:55:09] Deixa eu colocar aqui a reta do outro lado, né? Com a tangência desses dois pontos aqui, afinal nós vamos juntar os três.
+[01:16:55:19 --> 01:17:00:25] E aí, o que a gente precisa fazer? A gente precisa juntar R1 com a reta de tangente.
+[01:17:01:14 --> 01:17:06:10] R1 é igual a 50 pixels. Então a gente vai colocar aqui. Deixa eu colocar R1...
+[01:17:07:09 --> 01:17:10:12] Então, a gente vai colocar 50 pixels mais...
+[01:17:12:17 --> 01:17:16:11] 37 pixels, para a gente encontrar o outro segmento.
+[01:17:16:13 --> 01:17:19:10] Então, vou pegar a calculadora aqui, na verdade vai dar 87,5, né?
+[01:17:19:14 --> 01:17:20:01] Mas vamos lá.
+[01:17:21:03 --> 01:17:25:29] 50 mais 37,5, não custa, 87,5.
+[01:17:28:13 --> 01:17:29:16] Peraí, que eu tenho que clicar de novo.
+[01:17:30:12 --> 01:17:31:18] 87,5 pixels.
+[01:17:32:03 --> 01:17:34:10] Legal, nós temos os dois segmentos.
+[01:17:34:27 --> 01:17:38:21] Agora, nós podemos criar esses segmentos.
+[01:17:39:24 --> 01:17:44:19] Vou criar aqui um segmento que tem 127,5 pixels.
+[01:17:46:09 --> 01:17:49:14] Deixa eu colocar ele aqui da cor também. É esse aqui.
+[01:17:50:23 --> 01:17:55:28] e vamos criar um de 87, então eu vou só trocar o valor aqui para 87,5 pixels.
+[01:17:56:14 --> 01:18:01:21] Temos os nossos queridos segmentos aqui, eles já estão alinhados.
+[01:18:01:24 --> 01:18:03:07] O que a gente precisa fazer agora?
+[01:18:03:19 --> 01:18:05:23] A gente precisa alinhar eles aqui no centro,
+[01:18:06:16 --> 01:18:09:04] isso é muito fácil, olha só, você pega esse segmento aqui,
+[01:18:09:14 --> 01:18:10:14] vou colocar ele na vertical.
+[01:18:11:11 --> 01:18:16:22] Aí o que eu preciso fazer? Alinhar ele com o raio. Então pego ele, pego o raio, coloco
+[01:18:16:22 --> 01:18:20:13] o raio como âncora, alinho na base e alinho na direita.
+[01:18:23:02 --> 01:18:28:14] O ponto dessa extremidade está alinhado no raio, ele precisa estar alinhado no raio,
+[01:18:28:19 --> 01:18:28:29] beleza?
+[01:18:29:13 --> 01:18:30:07] Para que isso funcione.
+[01:18:31:19 --> 01:18:36:17] E agora a gente precisa entender qual que é a inclinação.
+[01:18:37:04 --> 01:18:39:21] E aí adivinha o que a gente vai usar para entender a inclinação?
+[01:18:40:05 --> 01:18:43:25] Nós vamos usar exatamente o círculo.
+[01:18:44:04 --> 01:18:47:10] Lembra que a gente aprendeu o que é bicetriz, o que é mediatriz?
+[01:18:47:22 --> 01:18:49:24] Aqui, como nós estamos trabalhando com ângulos,
+[01:18:50:04 --> 01:18:55:01] nós precisamos usar uma circunferência para encontrar a bicetriz.
+[01:18:55:09 --> 01:18:58:18] Então a gente já tem esse ponto aqui, que dá exatamente o tamanho.
+[01:18:58:18 --> 01:19:02:24] Tudo isso aqui é linha de construção, então deixa eu já colocar como linha de construção
+[01:19:02:24 --> 01:19:08:07] para a gente não confundir, porque quanto mais linhas nós temos aqui, mais complicado
+[01:19:08:07 --> 01:19:08:20] fica.
+[01:19:08:22 --> 01:19:10:03] Agora eu posso até tirar isso daqui.
+[01:19:10:15 --> 01:19:14:11] Então tudo é linha de construção, inclusive você, minha querida, não fica de fora.
+[01:19:15:00 --> 01:19:16:19] Então agora, olha que simples.
+[01:19:17:04 --> 01:19:25:10] Eu vou criar um círculo que precisa ter o raio do tamanho da soma desses dois raios,
+[01:19:25:10 --> 01:19:31:24] Então, eu preciso de um círculo aqui que tem um diâmetro de 2 vezes 127, que o raio precisa ter 127.
+[01:19:31:27 --> 01:19:33:09] Então, é 127 vezes 2.
+[01:19:36:13 --> 01:19:37:20] vezes 2.
+[01:19:38:29 --> 01:19:46:18] da 255. 255 dos dois lados. E vou alinhar ele com esse círculo aqui, olha.
+[01:19:47:29 --> 01:19:49:16] Alinhei ele com esse círculo.
+[01:19:50:26 --> 01:19:56:20] Excelente, beleza? Já tá funcionando. Coincidiu com aqui, tá vendo? Agora a gente vai pegar
+[01:19:56:20 --> 01:20:03:20] essa reta aqui e nós vamos alinhar ela também com o centro dela aqui, beleza? Então, vou
+[01:20:03:20 --> 01:20:04:11] pegar ela aqui.
+[01:20:05:29 --> 01:20:07:28] alinhar ela com o centro.
+[01:20:09:04 --> 01:20:15:19] Ficou alinhado, tá vendo? Esse ponto aqui tem que ficar alinhado bem no centro da circunferência.
+[01:20:16:00 --> 01:20:20:00] E nós vamos criar um segundo círculo que o tamanho dele é duas vezes...
+[01:20:21:27 --> 01:20:26:15] esse raio aqui, que é a soma de r₁ com a reta da tangente aqui. E aí, o que a gente
+[01:20:26:15 --> 01:20:29:23] faz? É só colocar o valor, 87...
+[01:20:31:16 --> 01:20:36:23] 87,5 vezes 2.
+[01:20:37:21 --> 01:20:41:15] A gente já criou e ele concordou...
+[01:20:41:15 --> 01:20:43:07] Espera aí, deixa eu clicar aqui para sair.
+[01:20:43:24 --> 01:20:46:13] Ele concordou ali, a gente tem a tangente aqui
+[01:20:47:04 --> 01:20:49:08] desse círculo com essa reta.
+[01:20:49:18 --> 01:20:52:02] Agora, meu amigo, é só felicidade.
+[01:20:52:11 --> 01:20:55:04] Porque nós encontramos essa interseção aqui
+[01:20:55:04 --> 01:20:58:02] e essa interseção dá para a gente exatamente
+[01:20:58:02 --> 01:21:01:03] o ângulo que a gente precisa.
+[01:21:01:03 --> 01:21:08:14] Mesmo se você estiver no papel e caneta com o compasso, você vai fincar aqui nesse centro
+[01:21:09:02 --> 01:21:17:06] a ponta seca do compasso e com essa medida aqui do raio menor, do raio da reta da tangente,
+[01:21:17:16 --> 01:21:21:21] você vai colocar a ponta do grafite aqui e vai fazer o círculo.
+[01:21:21:27 --> 01:21:25:28] Pode ter certeza, vai funcionar perfeitinho, você vai ter uma interseção entre os dois
+[01:21:25:28 --> 01:21:26:11] elementos.
+[01:21:26:23 --> 01:21:28:18] Mas no Illustrator também não é difícil não.
+[01:21:29:08 --> 01:21:35:22] Primeiro, a gente precisa ter habilitado a Smart View aqui, a linha guia do Illustrator.
+[01:21:36:00 --> 01:21:37:21] Basicamente, vou colocar a Outline aqui.
+[01:21:37:22 --> 01:21:38:12] O que a gente vai fazer?
+[01:21:38:15 --> 01:21:46:00] Clica duas vezes na linha, aperta mais para adicionar um ponto e vem até aqui, vai aparecer
+[01:21:46:00 --> 01:21:46:27] a interseção.
+[01:21:47:09 --> 01:21:51:14] A gente clica nessa interseção para criar um ponto, porque não existe um ponto aliás,
+[01:21:51:15 --> 01:21:55:21] as duas linhas estão cruzando, mas não existe um ponto, para criar um ponto exatamente
+[01:21:55:21 --> 01:21:56:25] na interseção dessas linhas.
+[01:21:57:12 --> 01:21:58:23] Agora, eu vou criar uma reta aqui.
+[01:22:00:00 --> 01:22:02:02] Usando ponto âncora, crio uma reta aqui.
+[01:22:03:04 --> 01:22:07:10] Dou um zoom... e alinho esse círculo menor.
+[01:22:09:22 --> 01:22:11:15] essa reta.
+[01:22:12:02 --> 01:22:13:06] E aí, nós temos...
+[01:22:14:15 --> 01:22:15:14] Interseção
+[01:22:16:24 --> 01:22:18:08] respeita matemática.
+[01:22:19:21 --> 01:22:24:21] Existe apenas um ponto. Se a gente for dar zoom, zoom, zoom eterno, tem um ponto aqui
+[01:22:24:21 --> 01:22:27:19] que eles estão conectados.
+[01:22:28:04 --> 01:22:29:20] Vou dar um Ctrl Y para a gente ver.
+[01:22:30:27 --> 01:22:41:05] minimizado, e eu vou criar, na interseção dos dois elementos eu vou criar um ponto, então
+[01:22:41:05 --> 01:22:46:21] vou criar um ponto aqui também, os dois agora tem essa interseção, basicamente
+[01:22:46:21 --> 01:22:50:00] Eu deleto esse ponto aqui, opa, peguei o ponto errado.
+[01:22:51:25 --> 01:22:53:03] Deixa eu ver aqui...
+[01:22:53:23 --> 01:22:56:08] Eu posso criar um ponto aqui para deletar esse arco.
+[01:22:56:18 --> 01:22:58:14] Então, agora o arco começa aqui e termina ali.
+[01:22:58:27 --> 01:23:00:15] Ah, é porque eu somei esses dois.
+[01:23:00:27 --> 01:23:01:26] Aí, maravilha.
+[01:23:02:03 --> 01:23:03:07] Então, ele terminou ali.
+[01:23:04:16 --> 01:23:07:18] E eu pego esse daqui e faço o mesmo processo.
+[01:23:07:22 --> 01:23:10:14] Eu posso, inclusive, apagar esses dois aqui.
+[01:23:10:22 --> 01:23:14:27] Por enquanto, eu não vou apagar esse, porque eu tenho que fazer o mesmo processo do lado de cá.
+[01:23:15:01 --> 01:23:19:24] Então, eu pego o P aqui, coloco aqui na interseção entre eles.
+[01:23:21:03 --> 01:23:26:23] Pego o outro também, procuro o mesmo ponto, cliquei no mesmo ponto, deleto aqui.
+[01:23:28:05 --> 01:23:30:15] e deleta do lado de cá também.
+[01:23:30:21 --> 01:23:34:02] Esse daqui eu vou deixar um pouco maior, deixa eu ver aqui onde que ficou.
+[01:23:34:27 --> 01:23:37:03] Opa, acaba que eu deletei o errado. Deixa eu isolar.
+[01:23:38:12 --> 01:23:39:01] e deleta.
+[01:23:40:08 --> 01:23:46:02] maravilha. Agora a gente tem a interseção entre esses elementos.
+[01:23:48:13 --> 01:23:51:16] Aqui, a gente tem a interseção exata entre eles,
+[01:23:52:17 --> 01:23:56:14] usando a mesma lógica que a gente utilizou para criar os outros elementos.
+[01:23:56:18 --> 01:23:58:03] Aqui, com um círculo bem pequenininho,
+[01:23:58:10 --> 01:24:00:11] dá para fazer com o círculo grande ou pequeno,
+[01:24:00:17 --> 01:24:03:23] seguindo o mesmo processo, basicamente o mesmo processo.
+[01:24:04:05 --> 01:24:07:14] O mais importante que a gente precisa entender é o raio.
+[01:24:07:24 --> 01:24:09:15] Quando a gente entende o raio,
+[01:24:09:24 --> 01:24:14:01] no final, o que a gente precisa é da soma desse raio.
+[01:24:14:01 --> 01:24:16:24] A soma do raio desse círculo pequeno aqui
+[01:24:17:10 --> 01:24:24:01] com a soma do raio do maior e a soma do raio desse médio com o menor para encontrar o ponto aqui.
+[01:24:24:06 --> 01:24:31:06] A gente usa o conceito da bicetriz também, como a gente viu agora pouco, para poder encontrar o ponto
+[01:24:31:06 --> 01:24:35:20] exato entre eles. E aí no Illustrator acaba sendo covardia, a gente só isola o elemento que cria
+[01:24:35:20 --> 01:24:40:13] um ponto bem no cruzamento ali, na interseção das duas retas. Se fosse no papel também,
+[01:24:40:13 --> 01:24:44:03] era só fincar o compasso naquele exato ponto.
+[01:24:44:21 --> 01:24:51:19] Então, esse daqui é um momento onde muitos designers pecam porque não compreendem a
+[01:24:51:19 --> 01:24:52:07] geometria.
+[01:24:52:14 --> 01:24:56:29] Ficam quebrando a cabeça por causa dessa falta de conhecimento da geometria.
+[01:24:57:12 --> 01:25:00:13] Mas vocês viram que é muito simples, as contas são muito simples, não tem nada
+[01:25:00:13 --> 01:25:04:22] muito complexo para a gente trabalhar aqui nos detalhes.
+[01:25:04:29 --> 01:25:08:22] E aí, uma vez que a gente entende isso também, ainda não chegamos no fim.
+[01:25:08:22 --> 01:25:14:01] existe um outro conceito muito importante, que é o conceito da proporção.
+[01:25:14:12 --> 01:25:18:22] Basicamente, uma proporção é uma relação entre duas grandezas diferentes.
+[01:25:19:02 --> 01:25:22:13] Pode ser, por exemplo, uma proporção de duas colheres de toad
+[01:25:22:13 --> 01:25:24:16] e um copo de 300ml de leite.
+[01:25:24:21 --> 01:25:30:24] A gente tem uma relação de grandezas formando uma proporção.
+[01:25:31:03 --> 01:25:33:09] E por que a proporção é importante para a gente?
+[01:25:33:09 --> 01:25:35:01] Antes de eu explicar mais sobre ela aqui,
+[01:25:35:02 --> 01:25:36:29] por que ela é importante para nós designers?
+[01:25:36:29 --> 01:25:43:21] Porque é a partir da ideia de proporção que surge o conceito de semelhança, ampliação e redução de imagem.
+[01:25:44:03 --> 01:25:51:25] A proporção dá uma ideia, uma noção, ela passa uma sensação de harmonia entre os elementos.
+[01:25:52:07 --> 01:25:56:25] E basicamente, na matemática, como a gente chega em uma proporção?
+[01:25:57:06 --> 01:26:01:14] A gente precisa que a razão de um elemento seja igual à razão do outro.
+[01:26:01:17 --> 01:26:04:27] Como assim, Rohan? O que é razão? Razão é uma divisão.
+[01:26:04:27 --> 01:26:12:04] Então, a gente precisa que a divisão dos lados de um elemento seja exatamente igual
+[01:26:12:25 --> 01:26:14:17] à divisão de um outro elemento.
+[01:26:14:25 --> 01:26:18:18] Então, se a gente tem aqui um quadrado que tem 12 por 12, o que a gente faz?
+[01:26:18:20 --> 01:26:22:10] A gente pega 12 dividido por 12.
+[01:26:22:10 --> 01:26:24:19] E a gente tem uma proporção de 1...
+[01:26:26:25 --> 01:26:31:10] 12 dividido por 12, a gente simplifica, fica 1 dividido por 1.
+[01:26:31:22 --> 01:26:33:19] 1 para cá. Então, a proporção de 1 por 1.
+[01:26:34:01 --> 01:26:36:05] Ou seja, o que quer dizer proporção de 1 por 1?
+[01:26:36:21 --> 01:26:40:13] Os lados são iguais. Proporção de 1 por 1 é igual à proporção de 2 por 2.
+[01:26:40:22 --> 01:26:43:13] Tanto que não faz nem sentido a gente sempre simplificar.
+[01:26:43:16 --> 01:26:44:19] Então, simplificar não é 1 por 1.
+[01:26:44:25 --> 01:26:47:07] Se a gente tivesse um retângulo aqui, por exemplo...
+[01:26:48:08 --> 01:26:51:10] Aí a gente teria uma proporção de 1 para 2.
+[01:26:52:29 --> 01:26:57:25] que é um lado para dois, que é o dobro dele. E aí segue, então a gente tem uma proporção
+[01:26:57:25 --> 01:27:04:09] de 1 por 1 aqui, essa é a razão desse quadrado. E aqui, se a gente divide 24 por 24, nós temos
+[01:27:04:09 --> 01:27:12:05] também 1 por 1, simplificando. Ou seja, esses dois quadrados têm a mesma proporção,
+[01:27:12:15 --> 01:27:19:17] eles cresceram na mesma proporção, que é 1 por 1. Então a razão deles são exatamente
+[01:27:20:05 --> 01:27:25:07] iguais. Vamos fazer de um jeito diferente aqui, se a gente quisesse fazer com um retângulo
+[01:27:25:07 --> 01:27:29:06] igual eu fiz ali, vou pegar um retângulo de 120 por 240. Opa!
+[01:27:30:02 --> 01:27:33:27] 120 por 240, não 2400.
+[01:27:33:29 --> 01:27:35:24] Então, esse retângulo é esquisitinho aqui.
+[01:27:36:20 --> 01:27:37:20] A gente pega, então...
+[01:27:38:25 --> 01:27:41:00] Ele tem 120 pixels aqui.
+[01:27:43:24 --> 01:27:45:15] 240 pixels aqui.
+[01:27:46:27 --> 01:27:52:09] Se a gente divide 120 pixels por 240, a gente vai chegar em meio.
+[01:27:53:17 --> 01:27:55:13] meio, que é 50%.
+[01:27:55:13 --> 01:28:07:00] Na fração, a gente teria 120 por 240, que simplificando, a fração ficaria 1 barra 2, beleza?
+[01:28:08:03 --> 01:28:13:28] E aí, agora, a gente criou um retângulo que tem...
+[01:28:16:04 --> 01:28:17:02] 150?
+[01:28:19:19 --> 01:28:20:04] POR
+[01:28:22:20 --> 01:28:26:09] 450, não 4500, 450.
+[01:28:27:16 --> 01:28:30:25] Quando a gente ver aqui então, olha, 150...
+[01:28:32:25 --> 01:28:33:28] por 450.
+[01:28:35:11 --> 01:28:44:24] Se a gente transforma isso em fração, a fração é 150 barra 450, simplificando igual a 1 terço.
+[01:28:45:27 --> 01:28:49:00] Então, quando a gente olha aqui, um terço...
+[01:28:51:01 --> 01:28:56:20] metade, nós temos dois valores diferentes. Um terço é diferente de metade. Então, esses
+[01:28:56:20 --> 01:29:03:07] dois retângulos não são proporcionais. Para que eles fossem proporcionais, o que
+[01:29:03:07 --> 01:29:07:19] a gente precisa aqui? Esse retângulo aqui, por exemplo, ou a gente aumenta a largura
+[01:29:07:19 --> 01:29:14:04] ou a gente aumenta a altura. Se aqui fosse, por exemplo, 300, aí sim, a gente tem
+[01:29:14:04 --> 01:29:22:00] Agora, dois retângulos que são proporcionais, ou seja, eles crescem proporcionalmente aqui.
+[01:29:23:00 --> 01:29:25:22] Diferente deste aqui, que é metade e um terço.
+[01:29:25:27 --> 01:29:26:11] Beleza?
+[01:29:26:17 --> 01:29:31:09] Então, isso é a proporção e ela é muito importante para que a gente estabeleça relação
+[01:29:31:09 --> 01:29:38:02] entre elementos, sejam esses elementos de uma forma composta ou também sejam esses
+[01:29:38:02 --> 01:29:40:13] elementos de uma composição.
+[01:29:40:13 --> 01:29:45:18] E aí, uma vez que a gente entende isso aqui então, a gente passa a não cometer um erro
+[01:29:45:18 --> 01:29:50:11] clássico que muitos designers iniciantes cometem, que é esticar as imagens.
+[01:29:50:20 --> 01:29:53:23] Nós sempre crescemos as imagens em proporção.
+[01:29:53:26 --> 01:29:58:09] Então, se você tem essa imagem aqui, por exemplo, e quer escalar ela, lembra que a
+[01:29:58:09 --> 01:30:02:28] ideia de proporção que trouxe o conceito de escala, por exemplo, que ó, a ideia
+[01:30:02:28 --> 01:30:07:09] de proporção trouxe o conceito de semelhança, ampliação e redução de imagens, ou seja,
+[01:30:07:18 --> 01:30:08:04] a escala.
+[01:30:08:04 --> 01:30:16:18] Para que a gente consiga ter a escala aqui, nós precisamos multiplicar todos os dois
+[01:30:16:18 --> 01:30:20:26] lados precisam ser multiplicados pelo mesmo valor.
+[01:30:21:17 --> 01:30:24:08] Então no Illustrator é muito simples, né?
+[01:30:24:08 --> 01:30:26:18] Segura Shift e ele cresce proporcional.
+[01:30:27:06 --> 01:30:31:22] Agora se eu não seguro Shift, acontece isso daqui, eu posso mudar a proporção dele
+[01:30:31:22 --> 01:30:34:06] e acaba ficando esticado.
+[01:30:34:06 --> 01:30:40:28] E aí a gente fala que essas duas imagens não são proporcionais, elas não estão proporcionais.
+[01:30:41:05 --> 01:30:41:20] Por quê?
+[01:30:42:11 --> 01:30:45:09] Essa daqui foi esticada, então é uma escala desproporcional.
+[01:30:45:23 --> 01:30:52:03] Aqui, por exemplo, a gente já tem um modelo, nesse exemplo, de uma escala proporcional.
+[01:30:52:03 --> 01:30:54:18] Porque, se a gente pega o valor...
+[01:30:55:16 --> 01:31:03:08] dos dois lados e divide esse valor, e também divide esse valor, se a gente encontra a razão
+[01:31:03:08 --> 01:31:09:23] dessas duas imagens, nós chegaremos no mesmo resultado, eles terão a mesma razão.
+[01:31:10:03 --> 01:31:12:18] E aí, por que eu estou falando isso aqui com vocês?
+[01:31:12:25 --> 01:31:18:19] Porque na geometria, existem alguns conceitos que são mais abordados do que outros.
+[01:31:18:19 --> 01:31:26:27] E um desses conceitos é a famosa proporção áurea, a proporção polêmica, que muita
+[01:31:26:27 --> 01:31:35:00] gente acredita que é romântica, muitos designers falam que a proporção áurea é uma técnica
+[01:31:35:00 --> 01:31:36:09] romântica, né?
+[01:31:36:09 --> 01:31:38:22] Muitos designers acreditam nisso, por quê?
+[01:31:38:27 --> 01:31:43:08] Porque muita gente usa a proporção de um jeito errado, fica tentando encaixar
+[01:31:43:08 --> 01:31:49:19] a forma num grid, fica mudando a forma no grid sem construir a geometria da forma que
+[01:31:49:19 --> 01:31:55:15] eu mostrei para vocês nos exemplos anteriores. Só que mais do que isso, por que a proporção
+[01:31:55:15 --> 01:32:02:22] áurea é muito importante para nós designers? Lembra que eu disse que o nosso contato constante
+[01:32:02:22 --> 01:32:07:14] com a natureza por milhares e milhares de anos fez com que a gente criasse uma
+[01:32:07:21 --> 01:32:16:10] da familiaridade por alguns tipos de relações. Uma dessas relações são as formas que seguem
+[01:32:16:10 --> 01:32:21:12] a proporção áurea. Por que a gente fala que existe proporção nesses elementos? Porque
+[01:32:21:12 --> 01:32:26:26] se a gente pega esse segmento aqui, vou criar um segmento rosa aqui, se a gente pega
+[01:32:26:26 --> 01:32:29:10] esse segmento e divide pelo próximo?
+[01:32:30:22 --> 01:32:36:15] nós vamos chegar na mesma razão que a gente dividir o próximo elemento pelo próximo,
+[01:32:36:18 --> 01:32:38:09] e assim consecutivamente.
+[01:32:38:19 --> 01:32:41:18] Então, ele vai decrescendo o tamanho dele, está vendo?
+[01:32:42:28 --> 01:32:49:00] em uma proporção específica, que eu vou mostrar pra vocês logo que proporção é essa.
+[01:32:49:16 --> 01:32:56:27] A mesma coisa acontece aqui no galho, nesse taluzinho aqui, a maneira como a espiral...
+[01:32:57:23 --> 01:32:59:03] Vai decrescendo aqui?
+[01:33:00:15 --> 01:33:03:02] também está em proporção.
+[01:33:04:06 --> 01:33:09:23] E aqui também, com esse girassol, a gente tem aqui uma força...
+[01:33:11:14 --> 01:33:16:12] Duas forças contrárias aqui, de arcos, que formam esses.
+[01:33:19:00 --> 01:33:23:24] Essa espécie de losango, esse losangozinho nessa flor.
+[01:33:23:27 --> 01:33:25:25] Várias outras folhas possuem isso também.
+[01:33:25:29 --> 01:33:29:28] Se vocês quiserem observar mais a proporção na natureza,
+[01:33:30:04 --> 01:33:33:16] você só precisa digitar no Google, proporção áurea na natureza.
+[01:33:33:21 --> 01:33:36:15] Golden Rachel in Nature.
+[01:33:36:20 --> 01:33:42:28] Então, você vai conseguir encontrar vários e vários exemplos dessa proporção aplicada.
+[01:33:43:09 --> 01:33:47:16] Esse gráfico aqui é um gráfico em dois momentos diferentes.
+[01:33:47:16 --> 01:33:54:27] De azul, no primeiro momento, em 1876, um psicólogo chamado Fitchner fez uma pesquisa
+[01:33:54:27 --> 01:33:57:22] com várias pessoas para poder identificar.
+[01:33:59:05 --> 01:34:04:18] qual retângulo elas se familiarizavam mais, qual retângulo elas achavam mais agradável.
+[01:34:04:26 --> 01:34:09:14] Então, ele mostrou uma série de retângulos para as pessoas, então vai desde o quadrado
+[01:34:09:14 --> 01:34:14:08] até o quadrado duplo, esse retângulo mais espichado, ele mostrou uma série de retângulos
+[01:34:14:08 --> 01:34:20:03] para as pessoas e foi pontuando qual que as pessoas marcavam como o retângulo preferido
+[01:34:20:03 --> 01:34:20:18] delas.
+[01:34:21:01 --> 01:34:29:04] E aí, ele chegou nesse resultado de azul aqui, olha, mais de 35%, quase 40% da
+[01:34:29:04 --> 01:34:34:05] E as pessoas que fizeram a pesquisa com ele votaram nesse retângulo aqui, que tem uma
+[01:34:34:05 --> 01:34:39:26] proporção de 5 por 8, que mais pra frente eu vou mostrar pra vocês, é a proporção
+[01:34:39:26 --> 01:34:40:10] áurea.
+[01:34:40:19 --> 01:34:45:15] A razão desse número aqui é a razão áurea, é um número que eu já vou mostrar
+[01:34:45:15 --> 01:34:46:03] pra vocês.
+[01:34:46:16 --> 01:34:52:21] Mas, um tempo depois, um outro cara, um escritor de estética, um cara que observava
+[01:34:52:21 --> 01:34:57:15] a estética e o efeito da estética nas pessoas, ele refez essa pesquisa de novo,
+[01:34:57:15 --> 01:35:05:06] com um critério científico ainda mais apurado, e o resultado que ele chegou foi muito próximo
+[01:35:05:06 --> 01:35:06:15] do Udo Fittner.
+[01:35:06:28 --> 01:35:13:28] Então, olha só, de todos os retângulos aqui, tem um que se destaca com muita facilidade.
+[01:35:14:15 --> 01:35:21:08] De todas essas opções, essa proporção aqui de 5 por 8 se destaca de todas as
+[01:35:21:08 --> 01:35:23:01] outras. E essa proporção...
+[01:35:24:06 --> 01:35:29:22] a bendita da proporção áurea. Então, o retângulo áureo é o retângulo que as pessoas mais
+[01:35:29:22 --> 01:35:36:01] sentem harmonia, mais tem predileção por ele. E como é que funciona essa ideia toda?
+[01:35:36:15 --> 01:35:42:00] Isso vem de uma sequência chamada de sequência Fibonacci, por causa de um cara chamado Fibonacci,
+[01:35:42:00 --> 01:35:44:10] e criou uma sequência em que...
+[01:35:45:06 --> 01:35:46:10] A divisão!
+[01:35:47:18 --> 01:35:54:07] dos números, então a divisão do número pelo número anterior, aqui ó, dá sempre
+[01:35:54:07 --> 01:36:00:20] 1,618-03399, tem mais números aqui, mas pra gente segue até aqui.
+[01:36:01:15 --> 01:36:07:08] Então dá, na verdade eu acho que termina em 9, agora eu fujo da minha cabeça se tem
+[01:36:07:08 --> 01:36:11:23] mais números, né, não pode confundir com pi, mas geralmente a gente usa os 4 aqui
+[01:36:11:23 --> 01:36:17:08] ó, esses 3 primeiros decimais aqui pra falar da razão áurea, que é a razão
+[01:36:17:08 --> 01:36:26:04] de 1 para 1,618. E como é que ele chega nessa sequência? Basicamente funciona assim, você
+[01:36:26:04 --> 01:36:33:16] sempre soma o primeiro elemento com o anterior dele. Então, 1 mais 0 dá 1, 1 mais 1 dá
+[01:36:33:16 --> 01:36:44:17] 2, 2 mais 1 dá 3, 3 mais 2 dá 5, 5 mais 3 dá 8, 8 mais 5 dá 3, 3 mais 8 dá 21
+[01:36:44:17 --> 01:36:49:24] e por aí vai. E o mais interessante é o seguinte, a proporção áurea, ela começa
+[01:36:49:24 --> 01:36:56:27] a surgir a partir dessa relação aqui. Antes disso, nós não temos uma proporção áurea.
+[01:36:57:04 --> 01:37:02:06] Se você divide 3 por 2, você vai ter 1,5. Você vai chegar próximo, mas ainda não
+[01:37:02:06 --> 01:37:06:21] vai ser uma proporção áurea. Se você divide 2 por 1, você vai ter 2. E se você
+[01:37:06:21 --> 01:37:07:24] vídeo um por um, você vai ter...
+[01:37:09:02 --> 01:37:15:08] Então, a proporção áurea, a razão áurea, ela começa a acontecer a partir da razão
+[01:37:15:08 --> 01:37:16:28] que existe entre 5 e 8.
+[01:37:17:01 --> 01:37:20:15] A partir daqui, vai ficando só cada vez mais refinado.
+[01:37:20:27 --> 01:37:25:02] A gente vai adquirindo cada vez mais casas decimais aqui para frente.
+[01:37:25:14 --> 01:37:31:20] E deixa eu mostrar aqui para vocês algumas maneiras que nós temos de aplicar a proporção
+[01:37:31:20 --> 01:37:36:26] áurea, de trazer a proporção áurea na geometria plana, principalmente, que é
+[01:37:36:26 --> 01:37:38:19] o assunto dessa aula de hoje.
+[01:37:38:19 --> 01:37:41:12] A primeira e mais clássica é o retângulo áureo.
+[01:37:41:25 --> 01:37:47:03] Para chegar no retângulo áureo, basicamente você precisa seguir a sequência de Fibonacci.
+[01:37:47:27 --> 01:37:52:08] Então olha só, você cria dois quadrados regulares que possuem um mesmo valor, a
+[01:37:52:08 --> 01:37:54:18] gente vai tomar aqui como se fosse 1.
+[01:37:55:02 --> 01:37:57:29] Ele possui uma largura e uma altura de 1.
+[01:37:57:29 --> 01:37:59:00] A proporção dele é 1.
+[01:38:00:11 --> 01:38:06:21] aqui. Então, ele tem um valor 1, o segundo, ele tem 2, 2 vezes esse valor.
+[01:38:08:02 --> 01:38:10:07] E você coloca os dois juntos, tá aqui ó.
+[01:38:11:06 --> 01:38:12:14] Dois, dois.
+[01:38:12:24 --> 01:38:13:17] O terceiro.
+[01:38:15:02 --> 01:38:18:05] Ele tem 3 vezes o valor de 1, está vendo?
+[01:38:18:28 --> 01:38:19:26] Segui na sequência aqui.
+[01:38:21:22 --> 01:38:24:00] E aí o quarto tem cinco vezes.
+[01:38:25:23 --> 01:38:33:02] o valor de 1, seguindo a mesma sequência. A partir daqui, você já tem um retângulo
+[01:38:33:02 --> 01:38:41:00] áureo, porque aqui você tem 8 por 5. 8 é, olha, 3, 1, 2, 3, de largura aqui, mais 5.
+[01:38:41:04 --> 01:38:49:08] 8 por 5. Se você divide 8 por 5, você vai chegar a 1,618, que já é a razão áurea.
+[01:38:49:08 --> 01:38:53:04] A razão desse retângulo é a áurea. Esse aqui ainda não é um retângulo áureo,
+[01:38:53:04 --> 01:38:58:25] a razão desse aqui não é áurea, porque 3 dividido por 2 dá 1,5, então não é tão
+[01:38:58:25 --> 01:38:59:15] preciso assim.
+[01:38:59:18 --> 01:39:05:15] Então a primeira forma é colocando os quadrados, criando um retângulo a partir dos quadrados.
+[01:39:05:28 --> 01:39:12:17] A segunda forma de fazer isso, ainda no retângulo áureo, é você utilizar um segmento de
+[01:39:12:17 --> 01:39:12:24] reta.
+[01:39:12:27 --> 01:39:17:07] Basicamente o que você precisa fazer, você precisa encontrar aqui a mediatriz, o ponto
+[01:39:17:07 --> 01:39:22:17] médio na verdade, nem precisa da mediatriz, e você vai ligar esse ponto médio no vértice
+[01:39:22:17 --> 01:39:29:05] direito superior. Depois que você fizer isso, você vai colocar o eixo aqui nesse ponto médio
+[01:39:29:05 --> 01:39:37:11] e vai rotacionar aqui. Você vai dar um ângulo, diminuir o ângulo, a inclinação desse segmento
+[01:39:37:11 --> 01:39:44:03] de reta. Até que ele fique exatamente posicionado na linha do quadrado aqui. Os dois tem que
+[01:39:44:03 --> 01:39:52:16] ficar exatamente posicionados, tá vendo? E aí você vai pegar o quê? Você vai
+[01:39:54:21 --> 01:40:02:00] e vai puxar ele até ele encostar ali no ponto externo daquele segmento de reta que a gente
+[01:40:02:00 --> 01:40:02:16] puxou.
+[01:40:02:23 --> 01:40:05:03] Quando você faz isso, esse aqui também.
+[01:40:06:17 --> 01:40:11:10] é o mesmo retângulo em proporção áurea, retângulo áurea.
+[01:40:11:18 --> 01:40:15:28] Porque se você dividir a largura pela altura, você vai ter a mesma razão de 1,600.
+[01:40:18:17 --> 01:40:25:26] 18. Beleza? Outra forma muito comum, muito famosa da proporção, aqui no caso eu só
+[01:40:25:26 --> 01:40:31:23] tenho que tirar essa, porque essa aqui não tá certa, que é 1 por 1, é a espiral áurea.
+[01:40:32:03 --> 01:40:37:23] Pra criar a espiral áurea, basicamente o que você precisa fazer é inserir alguns
+[01:40:37:23 --> 01:40:38:12] arcos.
+[01:40:40:16 --> 01:40:45:14] decrescem em proporção. Como que eu faço isso, Juan? Vou fazer aqui pra você ver.
+[01:40:45:23 --> 01:40:50:11] Rápidinho, olha só. Saca só. Depois que você cria o retângulo aureu...
+[01:40:53:03 --> 01:41:00:00] Criou o retângulo Aura, você vai utilizar o círculo, você vai posicionar o centro do círculo aqui, vou colocar em...
+[01:41:01:26 --> 01:41:07:24] em Outline, você vai colocar o centro do círculo aqui e vai puxar ele até a extremidade.
+[01:41:10:08 --> 01:41:12:24] no vértice direito superior.
+[01:41:13:24 --> 01:41:17:11] Fez isso, você já pode deletar o que fica para fora,
+[01:41:17:14 --> 01:41:19:12] porque você precisa só do arco.
+[01:41:19:24 --> 01:41:21:03] Depois você faz a mesma coisa,
+[01:41:21:06 --> 01:41:23:27] posiciona o centro do círculo aqui,
+[01:41:24:09 --> 01:41:26:06] sempre no vértice interno.
+[01:41:26:15 --> 01:41:27:15] Então, esse é o vértice interno.
+[01:41:27:26 --> 01:41:29:09] Não é para fazer isso, olha.
+[01:41:29:09 --> 01:41:32:22] Você tem que deixar o centro lá no vértice interno.
+[01:41:33:03 --> 01:41:35:21] E aí você posiciona ele aqui de novo.
+[01:41:35:25 --> 01:41:37:07] Você pode apagar esses dois pontos.
+[01:41:38:10 --> 01:41:42:16] A mesma coisa que você pode fazer, vértice interno, o que é o vértice interno?
+[01:41:42:20 --> 01:41:47:08] É o vértice que não tem contato com a parte externa, então aqui é o vértice interno.
+[01:41:48:13 --> 01:41:52:09] Posiciona aqui e puxa até o lado oposto dele.
+[01:41:53:22 --> 01:41:54:22] Faz isso de novo.
+[01:41:57:09 --> 01:41:59:18] No outro, posiciona.
+[01:42:00:28 --> 01:42:01:18] Deleto aqui.
+[01:42:02:22 --> 01:42:04:04] E para finalizar aqui...
+[01:42:05:08 --> 01:42:09:11] posicionando na parte interna e puxa.
+[01:42:10:15 --> 01:42:11:16] Então, olha só.
+[01:42:11:26 --> 01:42:16:10] Aqui a gente criou a espiral áurea usando um retângulo áurea.
+[01:42:16:12 --> 01:42:19:00] É exatamente essa espiral que a gente encontra
+[01:42:19:00 --> 01:42:23:21] naqueles elementos da natureza que eu mostrei para vocês agora pouco.
+[01:42:24:11 --> 01:42:27:29] Então, a gente tem aí também a espiral áurea.
+[01:42:28:05 --> 01:42:31:14] Fora isso, eu tenho três livros para indicar para vocês aqui,
+[01:42:31:15 --> 01:42:34:17] sendo que dois deles hoje não são mais produzidos.
+[01:42:35:01 --> 01:42:37:24] Então, você consegue comprar, inclusive consegue comprar até na Amazon,
+[01:42:37:24 --> 01:42:42:18] mas o preço deles está bem elevadinho, mas são ótimos livros.
+[01:42:43:00 --> 01:42:47:20] O primeiro, Geometria do Design, se encontra muito fácil e ele apresenta de uma maneira
+[01:42:47:20 --> 01:42:52:19] geral a geometria do design, dá vários exemplos, tanto da proporção áurea na natureza quanto
+[01:42:52:19 --> 01:42:57:26] da própria relação dos elementos, tanto no design quanto na arte e na arquitetura.
+[01:42:58:05 --> 01:43:03:14] É um livro muito bom de referência e também de estudo, porque ela explica aqui em Berlim,
+[01:43:03:14 --> 01:43:08:18] Ela explica muito bem aqui nesse livro como que acontece a geometria do design.
+[01:43:09:00 --> 01:43:13:03] Além dele também, o poder dos limites tem vários exemplos de proporção e harmonia,
+[01:43:13:05 --> 01:43:16:16] tanto na natureza quanto na arte e na arquitetura.
+[01:43:16:25 --> 01:43:22:20] E esse daqui é um livro mais teórico explicando como que nasceu a razão áurea, de onde
+[01:43:22:20 --> 01:43:26:19] que veio, como é que eles chegaram nesse resultado.
+[01:43:27:05 --> 01:43:31:24] E aí se você quiser saber mais, se aprofundar, é um excelente livro para se aprofundar
+[01:43:31:24 --> 01:43:35:17] no 1,618, a história de...
+[01:43:36:19 --> 01:43:40:02] Então, é um livro para quem é mais curioso e quer ir além.

@@ -1,0 +1,1366 @@
+# Video: 3._grid_e_layout_aplicado_na_prática (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-29 10:33
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:20 --> 00:00:06:02] E para que serve o grid? O grid já é utilizado há muito, muito, muito tempo.
+[00:00:06:10 --> 00:00:13:02] Os egípcios já utilizavam um sistema de grade para poder ampliar os desenhos que eles faziam nas pedras.
+[00:00:13:07 --> 00:00:15:21] Então, nessa segunda imagem aqui, a gente viu isso em outra aula,
+[00:00:16:05 --> 00:00:20:04] mas nessa segunda imagem aqui a gente tem uma espécie de grid de orientação.
+[00:00:20:28 --> 00:00:26:19] Ou essa daqui, olha, que é o alfabeto, se eu não me engano, é o linear B dos gregos
+[00:00:26:19 --> 00:00:35:16] E esse aqui de creta dos minoicos também, que mostra dois grids, um grid radial, espiral, na verdade.
+[00:00:36:07 --> 00:00:43:05] E na direita, um grid linear, também é muito nítido, nós conseguimos perceber uma organização
+[00:00:43:05 --> 00:00:46:12] do espaço para poder inserir ali dentro as formas.
+[00:00:47:01 --> 00:00:53:11] Isso também a gente pode chamar de um estilo de grid. Isso aqui, galera, nós estamos falando aí
+[00:00:53:29 --> 00:00:59:01] de 700 anos antes de Cristo. Então, são mais de 2.700 anos atrás. A gente pega aqui
+[00:00:59:01 --> 00:01:03:21] os egípcios, aí é mais ainda. Então, tem muito tempo que nós utilizamos sistemas
+[00:01:03:21 --> 00:01:08:13] e grids para nos orientar na organização dos elementos no espaço. Peguei mais esse
+[00:01:08:13 --> 00:01:14:16] aqui também já na época da Idade Média. Nós temos aqui nitidamente um grid aqui
+[00:01:14:16 --> 00:01:19:13] nessa imagem da direita. Dá para ver nitidamente as linhas, que são uma orientação
+[00:01:19:13 --> 00:01:25:12] não só para a base da escrita, mas também para a altura dela, né?
+[00:01:25:13 --> 00:01:30:29] Você consegue perceber que existe um espaçamento aqui bem regular
+[00:01:30:29 --> 00:01:34:20] de uma linha para outra, o tamanho das linhas se mantém o mesmo.
+[00:01:34:22 --> 00:01:36:11] Isso aqui a gente pode falar que é uma espécie de grid.
+[00:01:36:22 --> 00:01:41:10] E aí, aqui eu trouxe para vocês cinco tópicos importantes para nós designers
+[00:01:41:10 --> 00:01:43:19] prestarmos atenção no grid.
+[00:01:43:22 --> 00:01:45:26] Nós já falamos que nós, seres humanos, temos uma tendência
+[00:01:45:26 --> 00:01:48:19] a querer organizar as coisas e buscar lógica nas coisas.
+[00:01:48:19 --> 00:01:50:28] Isso tem a ver com a forma como o nosso cérebro funciona.
+[00:01:51:23 --> 00:01:55:27] O grid te ajuda a conceber layouts em diversos formatos de maneira lógica.
+[00:01:56:04 --> 00:01:59:00] Segundo princípio é a preguinância da forma.
+[00:01:59:19 --> 00:02:03:07] Utilizar um bom grid aumenta a preguinância da composição.
+[00:02:03:12 --> 00:02:07:16] O terceiro motivo para utilizar um bom grid é para hierarquizar as informações.
+[00:02:07:28 --> 00:02:11:10] O quarto motivo para criar grids é a transponibilidade.
+[00:02:11:13 --> 00:02:14:24] Não sei se você lembra, qual que é o princípio da transponibilidade na gestalt?
+[00:02:14:24 --> 00:02:15:10] É o quê?
+[00:02:15:10 --> 00:02:19:10] A forma vale mais, ela chama mais do que a matéria.
+[00:02:19:16 --> 00:02:22:28] E por último, a supersoma que é o que a gente acabou de falar, o todo é muito mais
+[00:02:22:28 --> 00:02:24:00] do que a soma das partes.
+[00:02:24:26 --> 00:02:28:29] Então vamos entender aqui grid fixo, fluido e híbrido.
+[00:02:29:03 --> 00:02:32:22] Começando pelo fixo nos formatos impressos, esse é o mais fácil de entender.
+[00:02:33:27 --> 00:02:38:11] O GridFixel é aquele que não é variável,
+[00:02:38:16 --> 00:02:40:04] ele não muda, ele é fixo.
+[00:02:40:10 --> 00:02:42:07] Toda página vai acompanhar o mesmo Grid
+[00:02:42:23 --> 00:02:44:28] e você não precisa adaptá-lo,
+[00:02:45:07 --> 00:02:46:24] ele não precisa ser fluido.
+[00:02:47:06 --> 00:02:50:10] E aqui eu peguei um exemplo da revista The New Yorker
+[00:02:50:27 --> 00:02:52:12] e nós temos aqui, claramente,
+[00:02:52:13 --> 00:02:54:10] dá para perceber que foi utilizado um Grid
+[00:02:54:10 --> 00:02:56:04] para construir essa composição.
+[00:02:56:23 --> 00:02:59:29] Eu coloquei aqui do lado, corpo fixo, margem fixa.
+[00:03:00:02 --> 00:03:01:24] Vocês já vão entender o que isso significa.
+[00:03:01:24 --> 00:03:06:16] Mas existe um espaço aqui que foi pensado para a margem.
+[00:03:07:26 --> 00:03:10:18] Vou colocar aqui mais ou menos para vocês verem.
+[00:03:12:25 --> 00:03:15:08] Tem uma margem padrão, que foi usada aqui e aqui.
+[00:03:16:21 --> 00:03:19:27] E na lateral também tem outra margem, eu acho que aqui nesse caso específico
+[00:03:19:27 --> 00:03:23:08] se você usar a caneta vai ser melhor do que usar o pincel, então pera aí.
+[00:03:26:29 --> 00:03:28:12] Se eu passar até aqui, vocês vão ver.
+[00:03:29:29 --> 00:03:31:10] Existe um tamanho de margem.
+[00:03:33:06 --> 00:03:39:14] Isso foi pensado. Inclusive, é a segunda coisa que nós analisamos na hora de construir um grid.
+[00:03:39:19 --> 00:03:41:27] A primeira coisa é o formato, a segunda é a margem.
+[00:03:42:09 --> 00:03:43:27] Então, foi pensado uma margem aqui.
+[00:03:45:18 --> 00:03:50:03] Depois, é fácil de notar que esse é um grid de três colunas, olha.
+[00:03:50:25 --> 00:03:53:22] A gente tem uma coluna aqui, vou colocar de outra cor.
+[00:03:54:20 --> 00:03:56:29] Outra coluna aqui e outra coluna aqui.
+[00:03:57:24 --> 00:04:00:15] Essa outra parte do meio é a margem interna.
+[00:04:03:04 --> 00:04:06:10] E nós temos aqui no meio as calhas, que nós vamos falar delas.
+[00:04:07:13 --> 00:04:12:23] também. Então, tem aqui um grid simples de três colunas que é replicável. Olha como
+[00:04:12:23 --> 00:04:18:08] que ele foi replicado na tela seguinte. Vou colocar uma outra cor aqui. Vou colocar um
+[00:04:18:08 --> 00:04:24:04] vermelho aí. Então, nitidamente, é fácil de perceber esse grid aqui. Vou colocar
+[00:04:24:04 --> 00:04:27:26] 10% de opacidade aí, para vocês verem. Ou 15, talvez.
+[00:04:30:11 --> 00:04:38:10] Conseguem notar isso? E, além disso, um outro elemento importante de todo o grid, que são as linhas.
+[00:04:39:16 --> 00:04:40:10] Então, é isso aqui.
+[00:04:42:06 --> 00:04:43:04] Alinhamento.
+[00:04:43:20 --> 00:04:48:16] Aqui existe a curva, a curva que vai atrapalhar a gente de perceber essas linhas.
+[00:04:50:01 --> 00:04:52:08] Mas existem também as linhas aqui no grid.
+[00:04:53:19 --> 00:04:57:17] Seguindo aí uma sequência, como se fosse assim, eu vou fazer assim, vai ficar fora de ordem ali,
+[00:04:57:25 --> 00:05:01:04] mas só pra vocês entenderem, elas também foram pensadas, tá bom?
+[00:05:02:14 --> 00:05:04:02] Então, aqui a gente tem uma construção de grid simples.
+[00:05:04:05 --> 00:05:07:23] Nós vamos falar mais dela na terceira parte dessa aula aqui?
+[00:05:08:28 --> 00:05:12:02] Mas a primeira coisa que você precisa entender é, então, grid impresso,
+[00:05:12:07 --> 00:05:14:13] todo impresso utiliza grids pixels.
+[00:05:14:22 --> 00:05:20:09] Vai fazer um cartão de visitas, ele tem o formato dele lá, geralmente é 91 por 51,
+[00:05:20:15 --> 00:05:27:01] ou 85 por 45, segue esse formato mais ou menos, o cartão de visita, milímetros, né?
+[00:05:27:22 --> 00:05:30:04] E aí, você tem esse espaço para trabalhar o grid,
+[00:05:30:08 --> 00:05:33:10] você pode trabalhar uma margem aqui se você quiser, você pode trabalhar,
+[00:05:33:12 --> 00:05:35:22] por exemplo, eu quero duas colunas, então vou ter duas colunas,
+[00:05:35:22 --> 00:05:37:01] Eu quero três colunas.
+[00:05:37:03 --> 00:05:40:00] No cartão de visites não é muito recomendado três colunas.
+[00:05:40:20 --> 00:05:43:01] Mas, enfim, você consegue trabalhar ali.
+[00:05:43:04 --> 00:05:47:01] Ou então vou trabalhar um panfleto, o que seja.
+[00:05:47:13 --> 00:05:48:25] Então, vai trabalhar o panfleto.
+[00:05:49:00 --> 00:05:50:28] Aí você quer colocar uma imagem aqui
+[00:05:50:28 --> 00:05:54:04] e quer colocar mais duas colunas aqui do lado.
+[00:05:54:29 --> 00:05:57:04] Aí você pode colocar mais duas colunas aqui.
+[00:05:57:18 --> 00:06:01:03] E mais uma coluna aqui de descrição aqui do lado.
+[00:06:01:10 --> 00:06:02:01] Pode colocar também.
+[00:06:02:25 --> 00:06:05:16] Tá vendo? Aí você organizou os elementos dessa forma.
+[00:06:05:16 --> 00:06:07:02] Então, são três colunas.
+[00:06:08:07 --> 00:06:13:14] Duas calhas e cada coluna tem suas dimensões, sua largura.
+[00:06:13:25 --> 00:06:15:05] Aqui, a gente consegue ver nitidamente.
+[00:06:15:14 --> 00:06:18:14] Não tem muito mistério nisso, tem vários jeitos de construir um grid.
+[00:06:19:01 --> 00:06:22:10] O que eu vou ensinar para vocês que é o grid modular é o mais versátil,
+[00:06:22:14 --> 00:06:25:01] é o que mais funciona aqui, tá bom?
+[00:06:25:10 --> 00:06:30:11] Mas vamos agora para os digitais, começando pelo grid fixo digital.
+[00:06:30:25 --> 00:06:32:11] Como funciona o grid fixo digital?
+[00:06:32:22 --> 00:06:36:25] Ele tem o corpo fixo e a margem variável.
+[00:06:36:25 --> 00:06:43:27] Então, quando você decide trabalhar com grid fixo nos sites, você tem que entender
+[00:06:43:27 --> 00:06:49:25] que a margem muda de tamanho e o corpo, que é essa parte que está azul, ele mantém fixo
+[00:06:49:25 --> 00:06:51:05] até a quebra de página.
+[00:06:51:17 --> 00:06:56:11] Então, olha aqui, coloquei um sistema de grid fixo para vocês verem como ele funciona.
+[00:06:56:29 --> 00:07:00:28] Eu vou desagrupar os elementos para simular esse movimento para vocês.
+[00:07:00:28 --> 00:07:08:09] Então aqui ó, a gente tem essa tela, que é 1600 pixels e nós temos de UIDIF do corpo,
+[00:07:08:19 --> 00:07:11:20] corpo é a parte azul, 1536 pixels.
+[00:07:12:07 --> 00:07:18:21] À medida que a tela vai diminuindo, então ela vai aqui até os 1536 pixels, tá?
+[00:07:19:04 --> 00:07:23:22] À medida que ela vai diminuindo, e aqui deu errado porque eu tô começando a dar
+[00:07:23:22 --> 00:07:25:16] maior pra menor, olha só o dilema aí.
+[00:07:26:19 --> 00:07:30:17] Quando a gente chega em 1536 pixels, ela pula para o próximo.
+[00:07:31:02 --> 00:07:35:23] E você vai falar, mas, Juan, o próximo aqui não é 1536.
+[00:07:36:15 --> 00:07:37:01] Exatamente.
+[00:07:37:13 --> 00:07:42:11] Por quê? Porque esse aqui não foi um sistema de grid
+[00:07:43:08 --> 00:07:47:02] pensado para desktop first, foi pensado para mobile first.
+[00:07:47:08 --> 00:07:51:08] Olha que diferente agora se eu vir dessa daqui para a direita.
+[00:07:51:17 --> 00:07:54:14] Então, a gente tem essa tela aqui que é a 1312,
+[00:07:55:02 --> 00:07:57:24] que é só o azul, como se tivesse só o azul aqui.
+[00:07:58:03 --> 00:08:00:24] Na verdade é 1280, que está o edif aqui embaixo.
+[00:08:01:20 --> 00:08:03:20] E aí, ela pode ir aumentando...
+[00:08:04:17 --> 00:08:06:29] que eu vou colocar ali embaixo aqui para vocês verem o movimento.
+[00:08:08:09 --> 00:08:09:29] Coloca uma embaixo da outra.
+[00:08:12:09 --> 00:08:15:18] À medida que ela vai aumentando, a margem dela vai ficando maior
+[00:08:15:18 --> 00:08:20:27] até ela chegar nesse formato aqui, que é o 1600, esse de cima.
+[00:08:21:12 --> 00:08:26:21] Quando ela está em 1599 pixels...
+[00:08:27:21 --> 00:08:30:27] ela ainda vai utilizar esse layout aqui debaixo.
+[00:08:31:04 --> 00:08:35:14] Quando mudou um pixel, ela sai desse layout que eu vou chamar de A, para esse layout B.
+[00:08:36:16 --> 00:08:41:29] Então, a margem serve como segurança para preservar o layout.
+[00:08:43:00 --> 00:08:48:00] O grid fixo é o melhor grid quando você quer ser extremamente fiel
+[00:08:48:17 --> 00:08:51:21] ao layout que você construiu e você quer que o desenvolvedor
+[00:08:51:21 --> 00:08:54:19] programe exatamente igual está no design.
+[00:08:55:21 --> 00:08:58:25] Ela é muito utilizada para páginas que são fixas também,
+[00:08:59:13 --> 00:09:00:16] páginas comuns,
+[00:09:00:20 --> 00:09:03:13] não para sistemas muito complexos com muitas funcionalidades,
+[00:09:03:25 --> 00:09:07:06] mas para páginas comuns, páginas de site, web,
+[00:09:08:22 --> 00:09:11:24] home, sobre, até mesmo landing pages,
+[00:09:12:18 --> 00:09:16:13] pode seguir o grid fixo tranquilo, que vai funcionar super bem.
+[00:09:16:20 --> 00:09:20:01] Vou fazer outro movimento aqui para vocês entenderem.
+[00:09:20:29 --> 00:09:24:13] Eu comecei aqui no celular, então a gente tem essa tela aqui 320.
+[00:09:24:16 --> 00:09:27:01] Como que funciona na tela 320? Funciona assim.
+[00:09:27:21 --> 00:09:29:04] Essa aqui é a tela 320.
+[00:09:30:07 --> 00:09:34:04] E aí, quando essa tela vai aumentando, aumentando, aumentando, aumentando,
+[00:09:34:13 --> 00:09:39:01] ela preserva o que está no meio e vai criando essa margem.
+[00:09:39:01 --> 00:09:44:06] Só que aqui a gente tem um ponto, para vocês verem como tudo é contextual e contextual.
+[00:09:44:18 --> 00:09:48:15] Em formatos muito pequenos do celular, essa margem aqui está muito exagerada, a gente
+[00:09:48:15 --> 00:09:50:01] tem mais margem do que corpo.
+[00:09:50:08 --> 00:09:55:01] Então você não está aproveitando o formato da melhor maneira possível, o corpo da
+[00:09:55:01 --> 00:09:55:27] melhor forma possível.
+[00:09:56:10 --> 00:10:00:02] Tanto que o site, quando ele fica muito centralizado, ele fica estranho, parece
+[00:10:00:02 --> 00:10:01:06] que ele está apertado.
+[00:10:01:16 --> 00:10:04:09] E aí é por isso que existe o outro vídeo, que é o fluido, que eu vou mostrar para
+[00:10:04:09 --> 00:10:05:02] vocês já já.
+[00:10:05:02 --> 00:10:12:16] Mas a lógica é basicamente essa, principalmente nesses formatos aqui do médio até esse HUD aqui que é o mais largo.
+[00:10:13:21 --> 00:10:21:17] funciona super bem o crit fixo, tá? Porque se eu tenho esse formato médio aqui, eu posso aqui,
+[00:10:21:20 --> 00:10:27:00] por exemplo, vou subir aqui para mostrar para vocês. Eu posso aqui, por exemplo,
+[00:10:28:00 --> 00:10:32:17] ficar tranquilo porque eu sei que no limite máximo desse layout... Opa, não tá no centro.
+[00:10:33:28 --> 00:10:37:15] Ele vai funcionar assim, a margem vai ficar nessas proporções.
+[00:10:38:00 --> 00:10:40:13] E essas proporções aqui, elas ainda estão ok.
+[00:10:40:27 --> 00:10:42:09] Beleza, passa aqui no teste.
+[00:10:42:18 --> 00:10:46:00] Eu ainda tenho um espaço interessante para trabalhar aqui no corpo.
+[00:10:46:21 --> 00:10:47:25] E aí eu tenho esse tanto de margem.
+[00:10:47:26 --> 00:10:50:07] Quando mudou um pixel, foi para 312,
+[00:10:50:18 --> 00:10:53:23] ele ganha esse novo layout aqui, com essa nova margem.
+[00:10:54:02 --> 00:10:57:10] É assim que funciona, então, o grid fixo, tá bom?
+[00:10:57:11 --> 00:10:59:04] O corpo é fixo, ele não muda.
+[00:10:59:13 --> 00:11:02:12] Então, deixa eu mostrar aqui também, vocês estão vendo só...
+[00:11:02:22 --> 00:11:05:02] Um monte de colunas, né? Vamos supor que aqui...
+[00:11:06:05 --> 00:11:06:24] Eu tenho...
+[00:11:09:15 --> 00:11:12:01] Eu utilizo as colunas assim, vamos ver se vai dar certo aqui,
+[00:11:12:06 --> 00:11:14:17] porque está muito pequenininho, eu não fiz a conta.
+[00:11:17:11 --> 00:11:18:09] Não deu certo.
+[00:11:21:27 --> 00:11:24:00] Vou aumentar aqui para vocês verem o que estou fazendo.
+[00:11:24:15 --> 00:11:28:00] Vou criar um card utilizando três colunas aqui.
+[00:11:28:24 --> 00:11:33:13] Esse aqui é um grid de 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12...
+[00:11:33:13 --> 00:11:34:12] 16 colunas.
+[00:11:34:17 --> 00:11:36:27] Então, se eu ler onde 16 colunas, eu posso utilizar 4.
+[00:11:37:28 --> 00:11:42:16] Se eu quero um grid de uma disposição layout de quatro cards...
+[00:11:43:22 --> 00:11:45:24] Eu posso colocar assim, quatro colunas para cada.
+[00:11:45:28 --> 00:11:51:00] Ah, mas está muito colado, tem um outro ponto que a gente chama de...
+[00:11:51:27 --> 00:11:53:24] Tadging, que é a margem interna.
+[00:11:54:02 --> 00:11:55:24] A gente define um valor para essa margem interna,
+[00:11:55:26 --> 00:11:57:12] eu já vou falar isso com vocês já já,
+[00:11:57:25 --> 00:11:59:04] mas aí ficaria mais ou menos assim.
+[00:12:01:26 --> 00:12:07:09] Então, eu organizei essa seção aqui de cards na composição, tá?
+[00:12:07:21 --> 00:12:09:27] Vamos colocar aqui uma borda redondinha, tá na moda.
+[00:12:11:14 --> 00:12:12:10] Tendência, acho que foi demais.
+[00:12:15:09 --> 00:12:16:22] Então, tem uma bordinha redondinha aí.
+[00:12:17:01 --> 00:12:18:01] Esses aqui são os cards.
+[00:12:18:18 --> 00:12:20:20] Como que funciona no grid fixo?
+[00:12:20:27 --> 00:12:23:27] Esses cards, eles não mudam de tamanho.
+[00:12:24:14 --> 00:12:27:16] Então, se a tela está aqui, desse jeito,
+[00:12:28:15 --> 00:12:29:09] ela vai aparecer assim.
+[00:12:29:15 --> 00:12:30:09] Vamos fazer assim.
+[00:12:32:23 --> 00:12:37:24] só para vocês visualizarem. Aí, a tela vai aparecer desse jeito aqui, exatamente assim.
+[00:12:38:18 --> 00:12:39:28] Vamos colocar aqui, Cards.
+[00:12:41:17 --> 00:12:44:19] só para aparecer uma seção e uma composição.
+[00:12:46:06 --> 00:12:46:19] Tchau!
+[00:12:50:00 --> 00:12:50:12] Beleza.
+[00:12:50:23 --> 00:12:50:27] Show?
+[00:12:51:19 --> 00:12:53:01] Então, elas vão aparecer desse jeito.
+[00:12:53:06 --> 00:12:55:00] À medida que eu vou aumentando aqui...
+[00:12:57:11 --> 00:13:03:20] Eu ganho margem, mas os elementos daqui dentro seguem um tamanho fixo, eles não mudam de
+[00:13:03:20 --> 00:13:04:01] tamanho.
+[00:13:04:18 --> 00:13:09:02] Então, a margem aumenta, mas aqui preserva até trocar de tela.
+[00:13:09:15 --> 00:13:14:11] Assim que trocou de tela, agora nós teremos aqui um novo tamanho.
+[00:13:16:22 --> 00:13:17:17] fazer aqui de novo.
+[00:13:19:01 --> 00:13:21:19] Segue aqui quatro colunas porque aqui no caso não...
+[00:13:23:09 --> 00:13:26:21] Não mudou a quantidade de colunas, então funcionou super bem.
+[00:13:29:11 --> 00:13:30:16] E aí, tem isso daqui também.
+[00:13:36:09 --> 00:13:36:24] Cacau.
+[00:13:40:03 --> 00:13:41:09] E esse é o novo tamanho dele.
+[00:13:41:21 --> 00:13:45:09] Então, assim que mudou de breakpoints, ele deixou de ser assim...
+[00:13:45:27 --> 00:13:49:11] Tá vendo, olha como é que aqui tá mais centralizado, elementos menores...
+[00:13:49:11 --> 00:13:51:08] Deixa eu colocar exatamente do tamanho, né?
+[00:13:52:05 --> 00:13:53:15] Deixou de ser assim e ficou assim.
+[00:13:53:18 --> 00:13:57:06] Ocupou mais espaço na tela, tá vendo?
+[00:13:57:24 --> 00:13:59:29] Do que o anterior e tem menos margem.
+[00:14:00:10 --> 00:14:01:12] Aí, como é que funciona a lógica?
+[00:14:01:17 --> 00:14:02:27] Sai a mesma lógica pra cá, né?
+[00:14:02:27 --> 00:14:05:23] Eu não vou ficar fazendo tudo de novo, acho que vocês já entenderam.
+[00:14:06:01 --> 00:14:07:11] Mas aqui vai seguir a mesma lógica.
+[00:14:07:20 --> 00:14:09:05] Não vai acontecer isso aqui que eu fiz.
+[00:14:09:05 --> 00:14:15:15] Vai acontecer isso daqui ó, ganha margem até chegar no limite, quando trocou um pixel,
+[00:14:16:12 --> 00:14:24:18] mudou para o novo breakpoint, aí dispõe de novo os elementos nessa nova proporção
+[00:14:24:18 --> 00:14:27:18] aqui, a proporção é a mesma, nesse novo tamanho aqui.
+[00:14:28:29 --> 00:14:30:16] Então, vai crescendo dessa forma.
+[00:14:31:12 --> 00:14:32:22] Aqui, deixa eu voltar tudo agora.
+[00:14:34:08 --> 00:14:36:19] Acho que vocês entenderam como funciona o GridFixel.
+[00:14:36:28 --> 00:14:40:11] Eu gosto de explicar assim no detalhe, porque isso aqui é muito importante.
+[00:14:40:16 --> 00:14:44:22] Se você é designer, você precisa saber isso para trabalhar os layouts, tá?
+[00:14:46:10 --> 00:14:48:03] Volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta, volta,
+[00:14:50:19 --> 00:14:57:04] Agora, a gente tem o gridFluido e a lógica do gridFluido é o inverso do gridFixo.
+[00:14:57:05 --> 00:15:02:04] No gridFluido, o corpo é variável e a margem é fixa.
+[00:15:02:10 --> 00:15:04:02] Então, a gente define um valor de margem.
+[00:15:04:10 --> 00:15:06:11] Para que a gente define esse valor de margem?
+[00:15:06:20 --> 00:15:13:08] Para poder ajustar o corpo dentro do breakpoint mais importante que nós definirmos no início do projeto.
+[00:15:13:29 --> 00:15:17:22] E aí, a gente define a quantidade de colunas e define um valor,
+[00:15:17:22 --> 00:15:22:01] Mas esse valor é só, aqui na verdade nem precisa colocar em pixels, né?
+[00:15:22:22 --> 00:15:25:22] Esse valor exato, ele funciona só no breakpoint.
+[00:15:26:10 --> 00:15:32:19] Quando você não está no breakpoint, quando você está fora dele, que aumentou um pouquinho,
+[00:15:33:17 --> 00:15:36:14] nós trabalhamos com porcentagem no grid fluido.
+[00:15:36:14 --> 00:15:38:20] Então, o comportamento...
+[00:15:39:19 --> 00:15:41:04] Ele vai funcionar mais ou menos assim, ó.
+[00:15:43:05 --> 00:15:44:14] Vou tirar esse maior aqui.
+[00:15:46:09 --> 00:15:47:03] Para vocês verem.
+[00:15:49:29 --> 00:15:52:29] Se eu tenho esse novo formato, vai funcionar mais ou menos assim.
+[00:15:55:11 --> 00:15:58:18] A margem vai continuar ali no tamanho dela.
+[00:16:00:26 --> 00:16:04:17] Mas à medida que a tela vai aumentando, o tamanho da coluna aumenta,
+[00:16:04:28 --> 00:16:06:17] é como se ela esticasse, tá vendo?
+[00:16:06:22 --> 00:16:10:10] Se eu pegar esse segundo aqui, pegar essa coluna e colocar do lado,
+[00:16:11:01 --> 00:16:12:17] olha o tanto que aumentou o tamanho dela.
+[00:16:14:18 --> 00:16:15:24] Vou colocar aqui jazzu.
+[00:16:17:02 --> 00:16:18:14] Tá, tá embaixo, por isso que não viu.
+[00:16:19:19 --> 00:16:23:04] Aí, aumentou consideravelmente, porque aumentou em porcentagem.
+[00:16:23:07 --> 00:16:24:12] Como funciona a porcentagem?
+[00:16:24:22 --> 00:16:26:15] Você pega um valor x...
+[00:16:27:29 --> 00:16:30:09] Nós temos um valor x aqui, vamos simplificar a conta.
+[00:16:31:28 --> 00:16:32:21] Valor X.
+[00:16:33:25 --> 00:16:40:06] E a coluna, aqui são 12, né? Um, dois, três, quatro, cinco, seis, sete, oito, nove, dez, dezesseis.
+[00:16:40:28 --> 00:16:42:16] E aí cada coluna vale...
+[00:16:44:06 --> 00:16:45:13] Hum, 16, né?
+[00:16:46:23 --> 00:16:52:24] que é 1 dividido por 16. Então a gente tem uma porcentagem aqui. Cada coluna vale 1
+[00:16:52:24 --> 00:16:53:07] de 16.
+[00:16:55:03 --> 00:16:55:18] E aí?
+[00:16:56:27 --> 00:17:00:21] Simplificando aqui, se você é uma daquelas pessoas que não trabalha...
+[00:17:00:21 --> 00:17:02:09] Ruan, eu não trabalho com frações.
+[00:17:03:14 --> 00:17:04:05] Então vamos lá, ó.
+[00:17:04:16 --> 00:17:05:19] Isso aqui tem 1000 pixels.
+[00:17:07:23 --> 00:17:10:14] ou vou facilitar 1600 pixels.
+[00:17:11:04 --> 00:17:16:24] Cada coluna tem 100 pixels, porque eu dividi 1600 por 100.
+[00:17:17:03 --> 00:17:19:06] Agora, se tem 800 pixels,
+[00:17:20:00 --> 00:17:24:10] cada coluna tem 50 pixels, porque eu dividi por 16.
+[00:17:24:20 --> 00:17:27:00] Então, você divide pela quantidade de colunas
+[00:17:27:00 --> 00:17:30:03] e o valor varia em porcentagem.
+[00:17:30:11 --> 00:17:32:02] Qual é a diferença desse para o outro?
+[00:17:32:16 --> 00:17:35:11] Os cards aqui dentro vão se comportar de um jeito diferente.
+[00:17:35:11 --> 00:17:38:05] Olha só, eu vou simular o comportamento deles aqui pra vocês, ó.
+[00:17:42:05 --> 00:17:46:09] Vou puxar essa tela aqui de novo para cá para simular isso para vocês.
+[00:17:47:16 --> 00:17:49:00] Como que os cards vão funcionar?
+[00:17:49:02 --> 00:17:52:12] Tem 16, então a gente segue a mesma lógica, quatro colunas.
+[00:17:54:16 --> 00:17:59:16] para cada card, né? Então, tem aqui os cards, preencher os quatro colunas e a gente vai colocar um padding aqui.
+[00:18:01:08 --> 00:18:04:08] Esse é o pé. Geralmente funciona assim, só para vocês visualizarem.
+[00:18:05:13 --> 00:18:10:11] Na hora de programar lá, você cria o maior, depois você define...
+[00:18:10:11 --> 00:18:12:19] É como se aqui fosse o pad, o vermelho.
+[00:18:13:01 --> 00:18:16:18] Você define uma margem interna, ela fica invisível depois no layout,
+[00:18:17:04 --> 00:18:18:23] mas no código tem essa margem.
+[00:18:19:03 --> 00:18:22:16] E aí vai ficar dessa forma aqui, e a gente faz isso com todos os outros.
+[00:18:25:29 --> 00:18:30:05] Aí que a gente ganha os espaços, como isso aqui é margem, então vou tirar aqui e esse
+[00:18:30:05 --> 00:18:30:18] é o layout.
+[00:18:31:13 --> 00:18:35:12] Como que funciona no caso do fluido?
+[00:18:35:21 --> 00:18:39:02] A medida que a tela aumenta, o card aumenta, tá vendo?
+[00:18:40:07 --> 00:18:46:01] Então, ele aumentou a largura dele. Ele acompanhou a porcentagem das colunas. Ele manteve...
+[00:18:46:28 --> 00:18:51:10] fluido o seu crescimento, ele não é fixo. Nesse primeiro aqui que eu mostrei para vocês,
+[00:18:51:19 --> 00:18:57:13] o corpo é fixo. Vocês viram? Ele não muda e o que muda é a margem. Nesse daqui, o corpo
+[00:18:57:13 --> 00:19:02:23] é fluido e a margem é fixa. Então, enquanto o corpo vai esticando, a margem não estica.
+[00:19:03:06 --> 00:19:09:19] Tem como também, né? Dá para fazer o fluido que não tem nem margem, que ele é diretão.
+[00:19:10:24 --> 00:19:14:00] Funcionaria mais ou menos assim ó, ficaria coladinho assim.
+[00:19:14:29 --> 00:19:17:18] Pra qual ocasião o grid fluido é melhor?
+[00:19:18:07 --> 00:19:23:17] Telas pequenas, então por exemplo, se você tem 4 colunas do smartphone...
+[00:19:24:22 --> 00:19:29:24] para o tablet, é legal você trabalhar com grid fluido.
+[00:19:30:02 --> 00:19:33:06] Por quê? Porque o card já é pequeno ali,
+[00:19:33:12 --> 00:19:35:18] então ganhar um pouco de espaço para o card é legal.
+[00:19:36:11 --> 00:19:37:15] E aí ele fica maiorzinho.
+[00:19:37:21 --> 00:19:40:15] Só que tem um limite, olha só, se eu colocar um card aqui
+[00:19:41:16 --> 00:19:45:00] desse tamanho aqui, vai ficar esquisito, vai ficar gigante.
+[00:19:45:08 --> 00:19:48:24] É como se fosse tipo isso aqui, o tamanho da imagem gigante.
+[00:19:51:15 --> 00:19:54:24] E um texto aqui pequeno, né? Se você não...
+[00:19:57:02 --> 00:20:01:14] Geralmente assim, porque a largura aumenta, então cabem mais palavras por linha.
+[00:20:02:23 --> 00:20:06:13] Aí vai ficando muito grande, tá vendo? Como se aquele card que antes...
+[00:20:07:27 --> 00:20:12:02] Aquele card que antes funcionava pequenininho assim, com um pouco mais de linhas.
+[00:20:14:09 --> 00:20:17:13] Ele começou a ficar muito grande a imagem dele, né?
+[00:20:17:19 --> 00:20:19:08] Colocar uma imagem na mesma proporção.
+[00:20:22:19 --> 00:20:23:04] oxi
+[00:20:27:07 --> 00:20:27:20] Nossa.
+[00:20:30:00 --> 00:20:30:14] Aí.
+[00:20:31:20 --> 00:20:36:27] Então ele ficou esticado demais, não necessariamente é a melhor ideia, mas se você faz isso e coloca
+[00:20:36:27 --> 00:20:38:06] margem, aí resolve.
+[00:20:38:20 --> 00:20:44:07] Então para telas menores, o fluido tende a dar resultados mais interessantes.
+[00:20:44:26 --> 00:20:49:24] Aqui eu peguei alguns exemplos pra vocês, essa aqui é a do IBM Carbon, que mostra
+[00:20:49:24 --> 00:20:50:17] as especificações.
+[00:20:50:18 --> 00:20:55:20] Da hora que é interessante, eles tem aqui 5 breakpoints, small, medium, large, x-large
+[00:20:57:07 --> 00:20:59:14] E aí, eles têm os valores em pixel e rem.
+[00:20:59:25 --> 00:21:03:01] O pixel aqui é o que vocês mais conhecem, a gente pode seguir nele.
+[00:21:03:15 --> 00:21:05:09] Então, o breakpoint small, 320,
+[00:21:05:27 --> 00:21:08:01] medium, 672,
+[00:21:08:10 --> 00:21:09:18] lord, 1056,
+[00:21:11:07 --> 00:21:12:13] xlord, 1312
+[00:21:12:13 --> 00:21:14:27] e max, 1584.
+[00:21:16:08 --> 00:21:20:03] E aí, olha que interessante como as colunas se adaptam ao formato.
+[00:21:20:18 --> 00:21:24:22] Então, o formato menor é 4 colunas, 8 colunas e depois 16 colunas.
+[00:21:24:27 --> 00:21:28:21] Quando eles trabalham o grid fluido,
+[00:21:29:12 --> 00:21:32:03] no caso da IBM é 100% grid fluido,
+[00:21:32:20 --> 00:21:35:14] o tamanho das colunas segue uma porcentagem.
+[00:21:35:18 --> 00:21:36:02] Então, está menor.
+[00:21:36:20 --> 00:21:39:28] 4 colunas, 25%, 100% dividido por 4.
+[00:21:40:09 --> 00:21:44:26] 8 colunas, 12.5%, que é a mesma lógica aqui também.
+[00:21:44:26 --> 00:21:47:09] 100% dividido por 8. Vou beber uma água aqui rapidinho.
+[00:21:49:14 --> 00:21:55:00] E aqui, nas colunas de 16, 100% dividido por 16 dá 6.25.
+[00:21:55:24 --> 00:21:58:10] É o tamanho das colunas, então segue em porcentagem.
+[00:21:58:21 --> 00:22:04:10] Se fosse em grid fixo, as colunas têm um tamanho fixo também.
+[00:22:04:25 --> 00:22:11:00] Então, 4 colunas, tamanho fixo 80, que é exatamente o que precisa para fazer 320.
+[00:22:11:06 --> 00:22:12:20] 4 vezes 80 dá 320.
+[00:22:13:06 --> 00:22:18:13] Aqui é a mesma coisa, só que com 8 colunas, então 8 vezes 80 dá 672.
+[00:22:18:13 --> 00:22:20:00] mais a margem.
+[00:22:21:22 --> 00:22:25:28] Então, aqui no caso tem margem, nesse aqui tem zero margem, então a conta deu exato,
+[00:22:26:00 --> 00:22:27:04] 4 vezes 80, 320.
+[00:22:27:19 --> 00:22:34:03] Aqui é 8 vezes 80 mais 32, que é 16 de um lado e 16 do outro, tá?
+[00:22:34:09 --> 00:22:35:11] Aí chega nesse valor.
+[00:22:36:14 --> 00:22:42:28] Aqui é 64, então a gente tem 16 vezes 64, mais 32, que é 16 de um lado e 16 do outro
+[00:22:42:28 --> 00:22:43:11] de margem.
+[00:22:43:21 --> 00:22:44:03] Então, tá vendo?
+[00:22:44:04 --> 00:22:51:14] Olha que interessante, eles têm uma margem pixa, nesse caso aqui, e o corpo muda, ora
+[00:22:51:14 --> 00:22:54:23] ele é fixo, ora ele é fluido, tá bom?
+[00:22:55:04 --> 00:22:59:04] E aqui tem o padding que é a margem interna, que é o que a gente chama também de cálias,
+[00:23:00:02 --> 00:23:01:15] A gente vai falar das cálias também.
+[00:23:02:10 --> 00:23:05:06] Outro modelo, modelo do Material Design do Google.
+[00:23:05:06 --> 00:23:09:20] Então, ele segue aqui, ele tem alguns breakpoints, ele chama aqui de screen size, tamanho de
+[00:23:09:20 --> 00:23:15:06] tela, são os breakpoints, extra, small, small, medium e large.
+[00:23:16:22 --> 00:23:19:20] Esses são os tamanhos que o Google Material Design usa.
+[00:23:20:06 --> 00:23:22:17] Então, a gente tem aqui 599 DP.
+[00:23:23:20 --> 00:23:25:15] Aqui eles estão usando a unidade de medida DP.
+[00:23:26:28 --> 00:23:29:01] Mas a lógica é a mesma, só para vocês compreenderem.
+[00:23:30:07 --> 00:23:32:13] Na verdade, isso aqui é pixel, a mesma coisa de pixel.
+[00:23:33:20 --> 00:23:35:23] Então de zero até 599...
+[00:23:36:26 --> 00:23:43:10] são 16 pixels de imagem, corpo fluido e 4 colunas.
+[00:23:44:10 --> 00:23:44:21] Tom.
+[00:23:47:03 --> 00:23:50:05] Todos os tamanhos, até 599, seguem essa lógica.
+[00:23:50:07 --> 00:23:52:09] 16 de margem e 4 colunas.
+[00:23:52:24 --> 00:23:55:16] Agora, quando é tablet, pode ser um ou outro.
+[00:23:55:26 --> 00:23:57:03] Você pode escolher.
+[00:23:57:24 --> 00:24:00:28] De 600 até 904, por que 904?
+[00:24:01:13 --> 00:24:04:10] Porque 600, porque é o que eu falei, 1 pixel muda.
+[00:24:04:19 --> 00:24:07:17] Então, até 599, 4 colunas.
+[00:24:08:11 --> 00:24:10:27] Inclusive, esse aqui é um layout muito mais difícil de trabalhar.
+[00:24:12:05 --> 00:24:13:26] Na verdade, não, porque é fluido.
+[00:24:14:06 --> 00:24:17:26] Dá mais trabalho, mas tem como resolver porque é fluido.
+[00:24:17:27 --> 00:24:21:27] Se fosse fixo, não seria tão bom utilizar aqui,
+[00:24:21:28 --> 00:24:24:16] porque o formato é pequeno, o que eu tinha explicado para vocês.
+[00:24:25:09 --> 00:24:27:02] Os elementos iriam ficar muito largos.
+[00:24:27:06 --> 00:24:30:25] Ou, na verdade, você teria uma margem muito larga
+[00:24:30:25 --> 00:24:33:04] e um elemento muito centralizado e ficar feio,
+[00:24:33:08 --> 00:24:34:20] por causa do tamanho de tela pequena.
+[00:24:35:15 --> 00:24:37:21] Mas, como é fluido, tem como trabalhar isso lá dentro.
+[00:24:38:12 --> 00:24:45:14] Aí vem aqui, de 600 a 904, 32 pixels de margem e 8 colunas fluidas.
+[00:24:45:23 --> 00:24:52:27] Então é porcentagem, você pega o valor que varia de 0 a 599 ou de 600 a 904 e divide ele.
+[00:24:54:02 --> 00:24:55:14] pelo número de colunas.
+[00:24:55:28 --> 00:24:59:08] E tem aqui o corpo que é fixo, que é 840 pixels.
+[00:25:00:03 --> 00:25:02:29] E aí a margem é fluida, tá vendo? Sempre essa lógica.
+[00:25:03:06 --> 00:25:06:12] Se você tem um corpo que é fixo, você precisa de uma margem fluida
+[00:25:06:12 --> 00:25:10:20] para que o site seja fluido e funcione em várias telas diferentes, tá?
+[00:25:11:01 --> 00:25:13:13] E aqui eles dividem por 12 colunas.
+[00:25:14:18 --> 00:25:19:26] No Medium, o corpo é fluido e a margem é 200 pixels, com 12 colunas.
+[00:25:20:03 --> 00:25:24:27] E no Lord, é acima de 1.440 pixels, margem fluida e o corpo...
+[00:25:24:27 --> 00:25:25:15] Aqui, está vendo?
+[00:25:25:22 --> 00:25:29:00] O Google já também segue essa lógica, que é o quê?
+[00:25:29:00 --> 00:25:33:09] Telas maiores usam o corpo fixo para você ter mais precisão.
+[00:25:33:23 --> 00:25:38:14] Telas menores usam o corpo fluido para você criar layouts melhores.
+[00:25:39:02 --> 00:25:43:21] Então, a gente tem mais um exemplo aqui, uma tabela do Google, aplicando esses conceitos
+[00:25:43:21 --> 00:25:49:18] dos tipos de grid. Primeira coisa, antes de eu explicar como criar esse grid, é mostrar
+[00:25:49:18 --> 00:25:52:23] para vocês quais são os elementos de um grid.
+[00:25:54:02 --> 00:25:55:15] no caso aqui o grid modular.
+[00:25:56:05 --> 00:25:57:11] Primeiro elemento é o formato,
+[00:25:57:17 --> 00:25:59:10] aqui eu criei esse formato diferenciado aqui,
+[00:25:59:13 --> 00:26:01:05] mas é só para apresentar os elementos para vocês.
+[00:26:01:22 --> 00:26:04:12] Segundo elemento são as margens, tá?
+[00:26:04:23 --> 00:26:09:04] Então, eu vou até colocar aqui nesse formato um branquinho aqui de...
+[00:26:09:04 --> 00:26:09:09] Opa!
+[00:26:12:00 --> 00:26:13:11] só para vocês visualizarem.
+[00:26:13:22 --> 00:26:17:20] Então, existe o formato, que é essa parte branquinha aqui.
+[00:26:17:28 --> 00:26:18:27] E existe a margem.
+[00:26:19:03 --> 00:26:22:09] Então, criou uma margem, um espaço que nós soltamos.
+[00:26:22:22 --> 00:26:25:06] A margem é muito importante para organizar os elementos,
+[00:26:25:09 --> 00:26:27:10] para dar um respiro na página.
+[00:26:27:15 --> 00:26:28:26] Terceiro elemento...
+[00:26:28:26 --> 00:26:31:02] E aqui a gente pode falar que ele é o terceiro ou o quarto,
+[00:26:31:23 --> 00:26:37:23] ele está no mesmo grau de importância das colunas aqui.
+[00:26:38:16 --> 00:26:40:12] Colunas são as linhas, tá?
+[00:26:40:12 --> 00:26:43:24] Então, o terceiro elemento aqui que nós colocamos são as linhas,
+[00:26:43:27 --> 00:26:45:14] nós vamos falar mais sobre elas,
+[00:26:45:23 --> 00:26:49:20] mas é importante lembrar que não vale a pena negligenciar as linhas.
+[00:26:50:00 --> 00:26:51:26] O terceiro são as colunas, tá?
+[00:26:51:26 --> 00:26:55:18] Eu coloquei esse colorido aqui para vocês entenderem que a coluna é esse preenchimento,
+[00:26:56:12 --> 00:26:59:19] e aí você divide, então, em várias colunas, tá?
+[00:26:59:22 --> 00:27:06:21] Esse daqui tem 5, 6, 7, 8, 9, 10, 11, 12 colunas.
+[00:27:06:21 --> 00:27:12:23] Então, nós temos um grid aqui de 12 colunas e 4 linhas, tá bom?
+[00:27:13:14 --> 00:27:14:29] Se a gente tem as colunas...
+[00:27:14:29 --> 00:27:17:01] Ah, aqui tem os módulos que eu coloquei em outra ordem.
+[00:27:17:05 --> 00:27:18:13] Aqui estão as calhas, tá?
+[00:27:18:27 --> 00:27:21:23] No inglês é gutters, mas a gente vai ter colocado ali calhas,
+[00:27:22:04 --> 00:27:24:09] que são esses espaços internos aqui, ó.
+[00:27:24:17 --> 00:27:26:01] Quando você faz uma calha...
+[00:27:26:01 --> 00:27:29:29] Eu vou fazer o seguinte com elas aqui para vocês visualizarem.
+[00:27:32:21 --> 00:27:34:00] Opa, sumi com elas.
+[00:27:36:20 --> 00:27:37:15] Um de calho.
+[00:27:41:17 --> 00:27:43:12] Nossa, tá dando pra vocês verem.
+[00:27:43:18 --> 00:27:44:29] Não sei se tá dando, vou aumentar mais um aqui.
+[00:27:46:21 --> 00:27:48:14] Colocar... aí, não está dando para ver.
+[00:27:48:26 --> 00:27:51:17] Quando você tem a calha, você organiza assim,
+[00:27:51:22 --> 00:27:53:10] então eu fiz esse card aqui,
+[00:27:53:21 --> 00:27:56:04] ao invés de colocar margem interna,
+[00:27:56:13 --> 00:28:00:00] eu uso a calha para distanciar um card do outro, tá vendo?
+[00:28:00:26 --> 00:28:02:26] Então ele já define os espaços,
+[00:28:03:01 --> 00:28:04:16] os espaços de baixo também.
+[00:28:06:03 --> 00:28:08:12] Então, eu vou tirar essa margem aqui que já tem...
+[00:28:09:12 --> 00:28:13:09] É mais ou menos isso, vou inverter as cores, vamos invertê-las.
+[00:28:18:06 --> 00:28:22:23] Então aqui a gente tem um grid organizado, poderia ser de outra forma também, sei lá.
+[00:28:27:13 --> 00:28:34:08] As calhas já estão organizadas, a composição está alinhada, está bem balanceada aqui,
+[00:28:34:26 --> 00:28:39:09] no equilíbrio dela, está bem equilibrada também, e as calhas ajudam a organizar.
+[00:28:39:19 --> 00:28:46:20] Se fosse uma composição sem calhas, que é essa daqui, usando os módulos, como
+[00:28:46:20 --> 00:28:47:29] que ela funcionaria, então?
+[00:28:48:20 --> 00:28:50:08] Vou tirar esses módulos aqui.
+[00:28:50:28 --> 00:28:52:01] Você criaria...
+[00:28:52:01 --> 00:28:54:01] A gente chegou até a fazer já nessa aula aqui.
+[00:28:54:01 --> 00:29:00:09] Você criaria as colunas, inclusive cabe mais colunas porque você não tem espaço de calhas,
+[00:29:00:24 --> 00:29:01:17] então aqui foram.
+[00:29:03:04 --> 00:29:04:21] Uma, duas, três, quatro, cinco, seis.
+[00:29:04:25 --> 00:29:05:27] Na verdade aqui foram seis, né?
+[00:29:05:29 --> 00:29:06:29] Que eu acho que vai caber menos.
+[00:29:07:08 --> 00:29:07:25] Caber menos.
+[00:29:08:04 --> 00:29:09:14] Uma, duas, três, quatro...
+[00:29:09:14 --> 00:29:10:00] Ah, ficou por seis.
+[00:29:10:02 --> 00:29:12:01] Na verdade é por causa da quantidade de colunas, né?
+[00:29:12:12 --> 00:29:12:24] Derr.
+[00:29:13:02 --> 00:29:15:09] É a mesma quantidade, só que o tamanho é diferente.
+[00:29:15:24 --> 00:29:17:11] E aí você define...
+[00:29:17:11 --> 00:29:19:08] Por exemplo, olha, eu vou definir aqui um...
+[00:29:20:01 --> 00:29:21:25] Um tamanho aqui, eu vou definir que...
+[00:29:23:07 --> 00:29:24:16] É... um quarto.
+[00:29:26:10 --> 00:29:28:14] Vou colocar aqui como um quarto.
+[00:29:31:27 --> 00:29:34:19] Então, 1 quarto da largura do quadrado é o padding.
+[00:29:34:29 --> 00:29:38:11] Então, eu já defino o padding aqui, vou colocar ele de outra cor para nós usá-los.
+[00:29:40:05 --> 00:29:42:05] e aí eu coloco a margem interna.
+[00:29:43:16 --> 00:29:44:16] desse jeito.
+[00:29:45:01 --> 00:29:49:04] Então, cada elemento desse vai seguir a margem interna e ele ficará desse tamanho.
+[00:29:49:21 --> 00:29:52:24] No final, vai se comportar mais ou menos assim.
+[00:29:56:18 --> 00:30:02:03] Então, olha como aqui o trabalho já é diferente, porque se você cria um Padding,
+[00:30:02:21 --> 00:30:05:24] você já tem que pensar nele, ele não pode ser todos os lados do mesmo tamanho.
+[00:30:06:15 --> 00:30:08:10] Porque senão, o que vai acontecer é isso.
+[00:30:08:13 --> 00:30:11:20] Você vai ter dois Paddings de distância separando os do meio
+[00:30:11:20 --> 00:30:18:17] e um Padding de distância separando os da borda, que estão perto da margem.
+[00:30:18:21 --> 00:30:20:07] O que você pode fazer para resolver isso?
+[00:30:20:21 --> 00:30:23:14] Você coloca meio Padding, como se fosse meio aqui, assim.
+[00:30:24:01 --> 00:30:26:10] Estou fazendo no olho, mas na hora faz certinho.
+[00:30:27:16 --> 00:30:30:17] Você faz meio padding se você quer que tenha aquele outro tamanho.
+[00:30:31:28 --> 00:30:33:04] E aí fica meio Padding.
+[00:30:33:09 --> 00:30:36:19] Você só tem que lembrar que no final ali vai ficar com meio Padding também.
+[00:30:38:09 --> 00:30:41:26] e aí você ganha aquela distância que você queria ter no começo.
+[00:30:42:10 --> 00:30:44:24] Mas repara como que o jeito de fazer muda, tá?
+[00:30:45:04 --> 00:30:47:04] A lógica muda um pouquinho, mas muda.
+[00:30:47:12 --> 00:30:49:23] E você pode escolher se vai usar as calhas
+[00:30:49:23 --> 00:30:52:22] ou se vai usar o padding, que é a margem inteira.
+[00:30:53:26 --> 00:30:56:23] E nós temos as zonas especiais, espaciais, perdão,
+[00:30:57:03 --> 00:31:00:00] que são as regiões dentro de um grid.
+[00:31:00:19 --> 00:31:03:06] Aqui eu fiz esse grid maior, vocês podem ver que
+[00:31:03:06 --> 00:31:05:24] é possível organizá-lo de várias formas diferentes,
+[00:31:07:05 --> 00:31:09:14] pegar os módulos e criar várias regiões.
+[00:31:09:29 --> 00:31:11:12] Então, tem essa região aqui
+[00:31:11:12 --> 00:31:14:03] que poderia, por exemplo, comportar...
+[00:31:15:28 --> 00:31:18:18] três ícones. Vou colocar eles aqui assim.
+[00:31:20:24 --> 00:31:22:05] Um tamanhozinho assim.
+[00:31:22:14 --> 00:31:24:15] Na hora, esses tamanhos que estou colocando é aleatório,
+[00:31:24:21 --> 00:31:29:03] mas quando você tem uma escala, você segue os tamanhos da escala, claramente.
+[00:31:29:21 --> 00:31:32:24] Mas posso colocar os ícones aqui de determinada forma
+[00:31:32:24 --> 00:31:37:20] ou então, para distanciar um pouco de cima, alinhar eles com a calha de baixo.
+[00:31:38:22 --> 00:31:39:26] E aí ele vai até a calha.
+[00:31:41:25 --> 00:31:43:25] Então, eu posso fazer isso, posso colocar um outro elemento ali,
+[00:31:43:29 --> 00:31:45:22] eu organizo a composição...
+[00:31:45:22 --> 00:31:46:13] Opa, não foi tudo.
+[00:31:47:21 --> 00:31:51:04] Organiza a composição usando os módulos aqui.
+[00:31:51:16 --> 00:31:55:10] Esse grid é por essa razão aqui, como se você estivesse encaixando peças Lego,
+[00:31:55:22 --> 00:32:01:23] é por essa razão que esse é o grid mais versátil e ele funciona tanto com layouts fixos
+[00:32:01:23 --> 00:32:06:29] ou layouts fluidos, tanto impressos quanto digitais, nos impressos mais fácil ainda.
+[00:32:07:10 --> 00:32:11:06] E agora eu vou mostrar para vocês aqui o passo a passo para criar grids assim,
+[00:32:11:20 --> 00:32:13:13] a sequência que você precisa seguir.
+[00:32:13:13 --> 00:32:17:29] Tá? Então, aqui a gente tem, primeiro, definir a escala e a hierarquia dos elementos,
+[00:32:18:16 --> 00:32:21:26] segundo, definir as margens, terceiro, definir as colunas,
+[00:32:22:04 --> 00:32:25:16] quarto, definir as linhas, quinto, organizar os elementos.
+[00:32:25:29 --> 00:32:28:10] O três e o quatro podem tocar, tá? Não tem problema.
+[00:32:28:23 --> 00:32:31:22] Pode ser definir as linhas depois das colunas, as colunas depois das linhas,
+[00:32:32:12 --> 00:32:35:19] mas a margem, as colunas...
+[00:32:36:21 --> 00:32:43:18] as linhas e os elementos, todos dependem da escala e hierarquia, tá?
+[00:32:43:19 --> 00:32:44:11] O que é a escala?
+[00:32:44:11 --> 00:32:48:19] É a escala de tamanhos, eu vou mostrar aqui para vocês alguns exemplos.
+[00:32:48:28 --> 00:32:53:10] E aqui eu tenho a importância de definir a escala e a hierarquia, olha só, primeiro.
+[00:32:53:22 --> 00:32:59:17] São algumas dicas para vocês, utilize uma escala de múltiplos, que tenha, eu ia
+[00:32:59:17 --> 00:33:02:16] escrever que tenha múltiplos, de múltiplos.
+[00:33:02:16 --> 00:33:05:26] Utilize uma escala de múltiplos. A mais comum é a de 8 pontos.
+[00:33:06:14 --> 00:33:10:17] O que são os múltiplos? É você utilizar os números que...
+[00:33:11:16 --> 00:33:16:06] que são divisíveis por outros. Então, por exemplo, se você vai usar a escala de 4 pontos,
+[00:33:17:02 --> 00:33:20:22] como que essa escala vai funcionar? Ela vai funcionar mais ou menos assim, 4 pixels...
+[00:33:23:12 --> 00:33:25:08] Deixa eu diminuir aqui o tamanho.
+[00:33:27:18 --> 00:33:30:04] Mas a escala vai funcionar assim, é uma proporção, tá?
+[00:33:30:10 --> 00:33:37:21] 4 pixels, 8 pixels, 12 pixels, 16 pixels, 20 pixels, 24, 28, 32...
+[00:33:38:20 --> 00:33:41:14] Aí aqui você pode colocar, se quiser, 36, pode,
+[00:33:41:20 --> 00:33:43:06] ou senão você já pode pular, né? É muito comum.
+[00:33:45:03 --> 00:33:49:05] 40, 48, 56, aí vai de 8 em 8, olha.
+[00:33:49:27 --> 00:33:53:13] 56, 64, 72, 80...
+[00:33:54:12 --> 00:33:58:18] 88, 96, aí vai.
+[00:34:00:02 --> 00:34:03:19] Tá? Aí, sei lá, 110, 120...
+[00:34:05:23 --> 00:34:06:20] 132... E segue.
+[00:34:07:06 --> 00:34:13:22] Então, você vai usar esses valores aqui, você não vai do nada, quando você tem uma escala você não mete do nada
+[00:34:13:22 --> 00:34:18:12] uns 13 pixels num elemento, porque ele tá fora de escala, tá fora de lógica, tá?
+[00:34:18:12 --> 00:34:23:21] Tem a escala de 8, a escala de 8 ela cresce sempre de 8 em 8, você perde precisão com ela, tá?
+[00:34:24:08 --> 00:34:26:18] Mas tem gente que usa, então... 16, perdão.
+[00:34:26:23 --> 00:34:31:29] Vai 8, vai 16, 24, 32, 40, 48...
+[00:34:32:15 --> 00:34:33:24] Esse é o grid de 8 pontos.
+[00:34:33:24 --> 00:34:38:05] Então, a menor unidade dele, o módulo dele é de 8, esse aqui é o módulo é de 4.
+[00:34:38:14 --> 00:34:42:27] Tem o módulo de 2 também, só que aí vai ficar muito grande a sua escala e desnecessária.
+[00:34:44:03 --> 00:34:46:06] Então, a de 4 é muito comum, tem a de 8.
+[00:34:46:11 --> 00:34:49:01] Se você quiser, você pode, você manda no seu projeto.
+[00:34:49:03 --> 00:34:50:21] Você pode, vou criar uma escala de 3.
+[00:34:51:00 --> 00:34:53:29] 3 pixels, 6 pixels, 9 pixels,
+[00:34:55:12 --> 00:34:59:18] 12 pixels, 15 pixels, 18 pixels, 21 pixels... Pode.
+[00:35:00:00 --> 00:35:01:13] Aí você cria essa escala, tá?
+[00:35:02:04 --> 00:35:04:21] Essa daqui é mais otimizada, a de 4 e a de 8.
+[00:35:05:00 --> 00:35:07:29] De longe, é a mais utilizada na indústria,
+[00:35:08:05 --> 00:35:10:15] é a mais comum e é a mais otimizada,
+[00:35:10:15 --> 00:35:16:27] porque te permite fazer layouts de 4 colunas, de 3 colunas, de 6 colunas e por aí vai.
+[00:35:18:00 --> 00:35:21:19] Defina a hierarquia tipográfica, no mínimo, título, subtítulo e parágrafo.
+[00:35:21:28 --> 00:35:24:02] Não só então, depois... Olha lá, vou deixar até aqui.
+[00:35:24:26 --> 00:35:26:27] Vou deixar de 4 pixels que é da overlance.
+[00:35:27:00 --> 00:35:28:12] Você criou a escala.
+[00:35:28:22 --> 00:35:34:00] Defina a escala não só dos espaçamentos, mas também da tipografia.
+[00:35:34:13 --> 00:35:36:14] E a tipografia geralmente chega à mesma lógica.
+[00:35:37:00 --> 00:35:42:17] Então, o mínimo aqui... E aí, você pode colocar 12 pontos, 14 pontos.
+[00:35:42:24 --> 00:35:46:21] Mas 14 mexe só 2 pixels, tá fora.
+[00:35:47:24 --> 00:35:53:06] pode colocar 16, mas pode ser, isso é um ajuste que é comum, o de 14 pontos pelo menos,
+[00:35:53:09 --> 00:35:59:13] é muito comum. Você pode adicionar alguns valores extras ali que você identificou que
+[00:35:59:13 --> 00:36:04:06] eram importantes, mas ele precisa ser importante mesmo. Aqui ele continua sendo par, eu não
+[00:36:04:06 --> 00:36:09:03] coloquei um 13 aqui, zero relação, não seria uma boa prática. O ideal é essa
+[00:36:09:03 --> 00:36:14:08] daqui, mas o 14 por exemplo é um valor importante, ele faz diferença aí muitas
+[00:36:14:08 --> 00:36:21:25] é uma boa ter ele na escala. Mas vamos lá, seguindo a lógica, você tem 12 pontos, 16
+[00:36:21:25 --> 00:36:33:20] pontos, 20 pontos, 24 pontos, 28 pontos, 32 pontos e por aí vai. Você cria a mesma
+[00:36:33:20 --> 00:36:37:24] escala seguindo a mesma lógica. Qual que é a importância de seguir a mesma lógica
+[00:36:37:24 --> 00:36:44:05] aqui? A importância de seguir a mesma lógica é por causa das linhas. Quando você define
+[00:36:44:05 --> 00:36:45:21] pontos a altura de x.
+[00:36:48:09 --> 00:36:52:15] a sua tipografia vai encaixar perfeitamente no grid.
+[00:36:53:01 --> 00:36:55:03] E a entrelinha, que é esse espaço aqui,
+[00:36:55:20 --> 00:36:57:13] também precisa seguir essa proporção.
+[00:36:57:22 --> 00:37:00:03] E aí, ela vai encaixar perfeitamente no seu grid.
+[00:37:01:00 --> 00:37:02:21] Você vai simplesmente colocar os valores
+[00:37:02:21 --> 00:37:04:06] e vai encaixar como se fosse um Lima.
+[00:37:05:12 --> 00:37:07:28] Esse é o grid modular, e essa é a primeira parte.
+[00:37:08:16 --> 00:37:12:09] Por último, use a escala para definir a margem, linhas, colunas e calhas.
+[00:37:12:15 --> 00:37:14:22] Então, não só a tipografia, não só os espaçamentos,
+[00:37:15:05 --> 00:37:19:07] mas a margem, as linhas, as colunas e as calhas também podem,
+[00:37:19:13 --> 00:37:24:15] na maioria das vezes, é uma boa utilizar a mesma escala, tá?
+[00:37:24:16 --> 00:37:27:24] Em alguns casos específicos, para uma questão de harmonização,
+[00:37:28:05 --> 00:37:30:15] você pode utilizar outras técnicas mais avançadas.
+[00:37:30:28 --> 00:37:32:01] Mas isso a gente deixa para depois.
+[00:37:32:03 --> 00:37:35:01] Eu vou até mostrar algumas aqui hoje, mas não é o foco da aula.
+[00:37:35:19 --> 00:37:41:06] Aqui eu tenho alguns exemplos para vocês, olha, de espaços, então tem aqui 4, 8, 12,
+[00:37:41:07 --> 00:37:48:09] 16, 20, 24, 32, 40, 48, 56, aquele mesmo que a gente acabou de ver, né, 128 e 160
+[00:37:48:09 --> 00:37:48:20] pixels.
+[00:37:49:06 --> 00:37:54:00] Isso aqui define, por exemplo, para mim, tamanho de coluna, tamanho de espaçamento,
+[00:37:54:18 --> 00:37:56:00] como que funciona na prática, tá?
+[00:37:56:03 --> 00:37:58:10] Vou colocar como se fosse aqui, ó.
+[00:37:59:13 --> 00:38:02:14] Ah, eu vou diminuir aqui proporcionalmente, mas vocês vão entender a lógica.
+[00:38:02:27 --> 00:38:06:23] Criei um card lá, criei o meu card, R$250.
+[00:38:08:08 --> 00:38:11:20] Vou colocar... Ah, é, o card também segue a mesma lógica, né?
+[00:38:11:29 --> 00:38:15:29] Então qual que é a lógica aqui? Talvez um 240 para continuar sendo múltiplo, né?
+[00:38:16:06 --> 00:38:18:14] Ou 320, né? Vamos criar um de 320 aqui.
+[00:38:19:22 --> 00:38:22:28] Criei meu card 320 por 320.
+[00:38:24:09 --> 00:38:27:08] E aí, eu quero distanciar esse card do outro, o que eu posso fazer?
+[00:38:27:10 --> 00:38:31:11] Eu posso colocar aqui, aqui não vai ficar certo porque eu diminui isso, né?
+[00:38:31:24 --> 00:38:33:24] Vamos colocar aqui seu 40 mesmo?
+[00:38:34:05 --> 00:38:35:01] 40 pixels.
+[00:38:35:26 --> 00:38:37:03] Aí, olha, esse aqui é 40 pixels.
+[00:38:37:26 --> 00:38:43:13] Eu posso vir aqui e usar essa distância, olha, de um para o outro, para seguir a mesma lógica, tá vendo?
+[00:38:44:09 --> 00:38:46:06] Então, ele está dentro da escala.
+[00:38:46:14 --> 00:38:49:27] Ou então, eu posso usar 48 também, mas ele continua dentro da escala.
+[00:38:50:29 --> 00:38:55:13] O 48 que tá aparecendo 40 aqui, eu teria que aumentar aqui no número direto.
+[00:38:55:29 --> 00:38:56:14] 48...
+[00:38:57:19 --> 00:38:59:24] Poderia fazer também essa distância aqui, ó.
+[00:39:02:23 --> 00:39:08:01] de 48, tá vendo? Ah, eu quero fazer de 72 de distância, posso também porque tá dentro
+[00:39:08:01 --> 00:39:13:24] da minha escala, tá? Agora, o que eu não vou fazer? Eu não vou fazer isso aqui, ó.
+[00:39:14:02 --> 00:39:18:17] Me encadonado e pronto. Soltei um valor ali. Vamos ver que valor que é esse.
+[00:39:20:20 --> 00:39:22:15] 35,9!
+[00:39:23:17 --> 00:39:28:00] Para que que eu vou colocar esse valor nada a ver aqui? Isso é muito comum, tá? E é errado.
+[00:39:28:24 --> 00:39:29:23] Enquanto você cria um grid.
+[00:39:31:10 --> 00:39:35:26] Esse valor aqui não está na minha escala, ele é um número extra, é uma informação extra,
+[00:39:35:29 --> 00:39:40:01] que o cara que vai programar vai precisar colocar esse valor lá no código,
+[00:39:40:10 --> 00:39:43:07] só porque você não se atentua a isso, questão de 5 pixels.
+[00:39:43:24 --> 00:39:50:16] Existe uma diferença brutal aqui, de 40 pixels para 35,9, vamos ver aqui...
+[00:39:51:04 --> 00:39:56:17] Se é uma diferença que merecia mais uma informação desnecessária ali.
+[00:39:58:14 --> 00:39:59:01] Era ou não era?
+[00:40:00:14 --> 00:40:05:20] se necessário. Olha, é quase imperceptível. E é um valor que você poderia colocar, tá?
+[00:40:06:09 --> 00:40:10:08] Então sigam a escala. É muito importante seguir a escala. Eu também deixei um exemplo
+[00:40:10:08 --> 00:40:13:27] aqui para vocês. Olha, deixa eu só voltar aqui, deixar tudo certinho.
+[00:40:16:28 --> 00:40:23:16] um exemplo de tipografia, tá vendo? Então tem aqui 12 pontos, 14 pontos, 16 e vai até
+[00:40:23:16 --> 00:40:28:15] 96 pontos. Além disso daqui, isso aqui é a escala total. Na hora que você vai criar
+[00:40:28:15 --> 00:40:31:28] o design system, você vai ter que criar os tokens e tal, você cria assim. Mas além
+[00:40:31:28 --> 00:40:38:10] disso também, é legal você fazer o quê? Você definir, por exemplo, vou usar
+[00:40:38:10 --> 00:40:44:24] esse token aqui, usando os componentes lá. Você definir que isso daqui é o título
+[00:40:47:11 --> 00:40:51:23] 1 na hierarquia. Aí você não só cria o ri de 1, você pega aqui, sei lá, pega esse
+[00:40:51:23 --> 00:40:52:04] daqui ó.
+[00:40:54:14 --> 00:40:58:10] Ou não, vou pegar esse e vou pegar esse.
+[00:40:59:23 --> 00:41:00:23] Vou apagar aqui.
+[00:41:01:16 --> 00:41:06:22] Olha lá, tem o redo 1, que é o título, aí esse aqui é o sub.
+[00:41:09:22 --> 00:41:12:07] Subheading ou, bom, não é heading, né, você pode chamar title.
+[00:41:14:01 --> 00:41:14:15] Bye!
+[00:41:16:15 --> 00:41:21:10] que é o subtítulo, e aí ele tem esse tamanho aqui, né? O outro tamanho. E a gente tem
+[00:41:21:10 --> 00:41:24:08] esse daqui, que poderia ser o parágrafo.
+[00:41:25:06 --> 00:41:25:23] com qualquer questão.
+[00:41:30:26 --> 00:41:36:14] Eu sou um par-paragrafo.
+[00:41:38:06 --> 00:41:39:22] e o parágrafo é sempre daquele tamanho.
+[00:41:40:04 --> 00:41:42:04] Na hora que você for organizar a composição,
+[00:41:42:12 --> 00:41:44:04] vai ficar muito mais fácil para você.
+[00:41:44:16 --> 00:41:46:25] Você pode inclusive já definir o estilo, por exemplo...
+[00:41:47:17 --> 00:41:53:13] Reading é medium, mas o subtitle pode ser...
+[00:41:55:27 --> 00:41:56:24] Lighting, itálico.
+[00:41:57:00 --> 00:41:58:06] E aí o parágrafo assim...
+[00:41:58:06 --> 00:41:59:18] Aí na hora que você for trabalhar os elementos,
+[00:41:59:23 --> 00:42:00:19] eles ficaram mais ou menos assim.
+[00:42:03:06 --> 00:42:06:03] Eu vou diminuir tudo aqui só para a gente ter mais espaço aqui para mostrar.
+[00:42:06:09 --> 00:42:06:28] Então, sei lá...
+[00:42:08:28 --> 00:42:10:17] Como encontrar fadas.
+[00:42:14:21 --> 00:42:18:24] Aí vem aqui o subtítulo, assim, ou se não, geralmente itália é usada para citação.
+[00:42:19:10 --> 00:42:22:14] As fadas existem e eu posso provar.
+[00:42:23:23 --> 00:42:26:06] Isso aqui é construir uma hierarquia.
+[00:42:26:27 --> 00:42:28:27] E aí vem aqui o parágrafo.
+[00:42:30:08 --> 00:42:31:15] Vou pegar aqui.
+[00:42:32:07 --> 00:42:34:01] Eu vou pegar uma frase sobre...
+[00:42:35:26 --> 00:42:39:02] Volto aqui para pegar uma frase aqui sobre fadas.
+[00:42:39:06 --> 00:42:40:00] Fadas existem?
+[00:42:41:01 --> 00:42:43:00] Vocês não vão ver, mas eu estou pesquisando aqui no Google.
+[00:42:46:27 --> 00:42:48:21] Vou usar aqui o texto do Google.
+[00:42:55:10 --> 00:42:56:04] Segura aí, galera!
+[00:42:59:26 --> 00:43:02:04] só pra fazer a caixa de texto, hein? Beleza.
+[00:43:03:12 --> 00:43:06:06] Aí está aqui, inclusive, outra coisa que você define é a altura de linha.
+[00:43:06:13 --> 00:43:09:02] Como que você define qual é o tamanho exato da altura de linha?
+[00:43:09:15 --> 00:43:10:28] Com base, na escala.
+[00:43:11:00 --> 00:43:19:06] Então, vou colocar aqui, como se fosse 32, aí tem 16 pontos, vou colocar 28, poderia ser até 24.
+[00:43:20:15 --> 00:43:28:14] 16 pontos de tamanho do tipo, 24 pontos entre linha,
+[00:43:29:04 --> 00:43:33:18] esse daqui eu vou colocar 40, como se fosse seguindo a escala, e 64.
+[00:43:33:26 --> 00:43:36:07] Aí, isso aqui está dentro da escala, tá vendo?
+[00:43:36:15 --> 00:43:38:18] E mais do que isso, o que é mais que tem que estar dentro da escala?
+[00:43:39:10 --> 00:43:40:06] Os espaçamentos.
+[00:43:40:08 --> 00:43:41:29] Então, eu vou colocar aqui 40 pixels.
+[00:43:42:28 --> 00:43:45:19] Aqui, eu criei um quadrado de 40 pixels, venho aqui,
+[00:43:45:24 --> 00:43:49:26] coloco ele aqui, alinho esse com 40 pixels e alinho esse...
+[00:43:52:14 --> 00:43:53:00] 40
+[00:43:54:17 --> 00:43:59:15] Pixels, a gente tem 40 pixels, tá tudo alinhado à Roma, mas eu acho que...
+[00:44:00:13 --> 00:44:02:14] Isso é inclusive uma coisa da gestalt, né?
+[00:44:02:18 --> 00:44:04:14] Eu acho que o primeiro tem que estar mais próximo do segundo,
+[00:44:04:16 --> 00:44:06:21] então vou colocar 20 pixels que está dentro da escala.
+[00:44:08:20 --> 00:44:12:24] Coloco o de cima, 20 pixels com o de baixo e o de baixo 40.
+[00:44:14:03 --> 00:44:17:12] ou então eu poderia colocar o de baixo com o 72 que está dentro da escala.
+[00:44:17:24 --> 00:44:18:12] Essa é a lógica, né?
+[00:44:18:17 --> 00:44:19:07] Eu acho que...
+[00:44:19:07 --> 00:44:20:13] Opa, fiz errado aqui, essa.
+[00:44:21:27 --> 00:44:22:08] 72.
+[00:44:23:01 --> 00:44:24:26] Coloco aqui e aqui.
+[00:44:28:01 --> 00:44:30:09] E aí, claro, aqui eu montei sem um grid, tá vendo?
+[00:44:30:14 --> 00:44:33:09] Mas se eu tenho os espaçamentos, se eu tenho uma escala,
+[00:44:33:15 --> 00:44:35:19] eu já começo a montar, já começo a fazer sentido.
+[00:44:35:28 --> 00:44:37:23] O que vai faltar encaixar isso aqui no grid?
+[00:44:38:07 --> 00:44:41:11] Eu vou deixar aqui que daqui a pouco eu vou mostrar para vocês.
+[00:44:41:22 --> 00:44:42:27] A gente vai encaixar isso no grid.
+[00:44:43:07 --> 00:44:44:28] Mas para vocês entenderem, então não é só os valores,
+[00:44:45:04 --> 00:44:49:06] mas definir a hierarquia também, a escala e a hierarquia.
+[00:44:49:13 --> 00:44:51:07] Segunda coisa, definir as margens.
+[00:44:52:27 --> 00:44:54:02] E aqui eu coloquei algumas dicas.
+[00:44:54:08 --> 00:44:57:00] Primeiro, utilize os múltiplos da escala que você definiu no primeiro passo.
+[00:44:57:19 --> 00:45:01:15] Então, utilize a escala para criar a margem também.
+[00:45:01:18 --> 00:45:07:15] A margem vai ser de 48 pixels, 54 pixels, 56, segue a mesma lógica.
+[00:45:08:02 --> 00:45:11:12] Observe a maneira como o formato será utilizado, esquerdo e direito.
+[00:45:11:26 --> 00:45:14:02] A margem, isso que eu falei de esquerdo e direito,
+[00:45:14:06 --> 00:45:17:24] é porque, por exemplo, se você vai fazer um material impresso com dobra,
+[00:45:18:01 --> 00:45:20:27] geralmente a gente deixa um pouquinho mais de espaço para dentro,
+[00:45:21:19 --> 00:45:28:00] Porque isso vai dobrar, quanto mais páginas tem, mais precisa ser planejado na hora de
+[00:45:28:00 --> 00:45:31:17] espelhar a página aqui, para formatos impressos.
+[00:45:31:23 --> 00:45:34:24] Então, a direção, a maneira como o formato vai ser utilizado influencia.
+[00:45:35:05 --> 00:45:37:02] No digital também influencia.
+[00:45:37:08 --> 00:45:40:06] Por exemplo, margem para smartphone.
+[00:45:40:26 --> 00:45:43:00] Geralmente a gente não coloca margem em smartphone.
+[00:45:43:02 --> 00:45:44:05] Está escrito errado aqui.
+[00:45:44:20 --> 00:45:49:22] A gente não coloca margem em smartphone, a gente coloca pad e deixa sem uma margem
+[00:45:49:22 --> 00:45:54:27] externa porque já tem pouco informação ali, pouco espaço para colocar tanta informação
+[00:45:54:27 --> 00:45:59:25] que a gente trata de outra forma. Já em formatos maiores a gente abusa da margem porque ela
+[00:45:59:25 --> 00:46:03:12] é uma excelente ferramenta. Então observe a maneira como o formato será utilizado
+[00:46:03:12 --> 00:46:04:20] para definir a margem.
+[00:46:05:00 --> 00:46:08:02] Terceiro, margens bem espaçadas são mais confortáveis, é aquilo que a gente já tinha
+[00:46:08:02 --> 00:46:12:27] falado. Margens menos espaçadas geram essa sensação de aperto, isso depende da mensagem
+[00:46:12:27 --> 00:46:13:18] que você quer passar.
+[00:46:13:18 --> 00:46:13:20] e aí
+[00:46:14:23 --> 00:46:16:20] Defina as colunas, algumas dicas.
+[00:46:16:25 --> 00:46:20:00] Colunas que são múltiplas de 4 geram mais possibilidades no digital.
+[00:46:20:11 --> 00:46:25:13] Então, por exemplo, se você faz aquela escala de 4 que eu expliquei para vocês,
+[00:46:26:02 --> 00:46:28:26] então você pode usar ela para as colunas também.
+[00:46:28:28 --> 00:46:34:23] Então, você pode ter um break point de 4 colunas, um de 8, um de 12 e um de 16.
+[00:46:35:05 --> 00:46:37:04] Por quê? Porque isso aqui te dá mais possibilidades.
+[00:46:37:16 --> 00:46:42:03] Quando você tem 16 colunas, por exemplo, você pode fazer um grid com 4.
+[00:46:42:03 --> 00:46:45:15] Agora, quando você tem, sei lá...
+[00:46:46:16 --> 00:46:51:24] 12, por exemplo. 12 dá pra dividir por 4 ainda, né? Mas 8, vou fazer aqui pra vocês
+[00:46:51:24 --> 00:46:52:29] verem, tá? Rapidinho, ó.
+[00:46:55:09 --> 00:46:57:12] 8 também dá por 4, né? 6 que não dá.
+[00:46:58:16 --> 00:46:59:02] Seis.
+[00:47:00:09 --> 00:47:02:22] se eu tenho 6 colunas?
+[00:47:03:27 --> 00:47:09:20] Eu não consigo, com as colunas, dividir isso aqui por 4 usando as colunas.
+[00:47:11:05 --> 00:47:17:19] Olha só. Fica errado, tá vendo? É mais difícil de encaixar os elementos lá.
+[00:47:18:02 --> 00:47:22:10] Pra conseguir fazer isso, provavelmente a gente teria que usar metade, que aí vira 12, né?
+[00:47:23:29 --> 00:47:24:28] E mesmo assim...
+[00:47:27:02 --> 00:47:30:08] Dá, mas olha como que não fica centralizado, né?
+[00:47:30:21 --> 00:47:37:00] Para centralizar, nenhum ficaria exatamente no grid, né?
+[00:47:37:00 --> 00:47:37:25] Então, para que o grid?
+[00:47:38:07 --> 00:47:40:26] Um grid de seis, por exemplo, ou seis colunas,
+[00:47:41:04 --> 00:47:42:16] não é um bom grid, geralmente.
+[00:47:42:25 --> 00:47:45:21] Agora, olha só como que é muito mais fácil de trabalhar.
+[00:47:46:15 --> 00:47:48:25] Se você tem um de oito, por exemplo,
+[00:47:49:09 --> 00:47:51:03] você pega cada duas colunas
+[00:47:51:21 --> 00:47:54:02] e consegue fazer um grid de quatro.
+[00:47:54:15 --> 00:47:56:28] Aí você vai falar, tá, mas se eu quiser fazer um grid de três,
+[00:47:57:13 --> 00:48:01:07] Tem como? Com 12 colunas tem, com 8 já não tem.
+[00:48:02:21 --> 00:48:11:04] Com oito até tem, mas aí para fazer o grid de três você teria que usar metade, metade de um lado, metade do outro.
+[00:48:12:10 --> 00:48:18:03] no centro, aí você faz, mas ele não fica exato dentro do grid, você teria que criar
+[00:48:18:03 --> 00:48:23:24] um valor fixo, com grids fixos você consegue fazer, com grids fluidos não, ou você faria
+[00:48:23:24 --> 00:48:24:19] desse jeito aqui ó.
+[00:48:27:00 --> 00:48:33:10] usando duas de calha, como se fosse assim, com esse espaçamento maior, aí tem como.
+[00:48:33:28 --> 00:48:38:19] Agora, se você tiver 12, aí já é muito mais fácil, você não desperdiça nenhuma.
+[00:48:39:07 --> 00:48:43:01] Uma, duas, três, quatro, cinco, seis, sete, oito, nove, dez, vamos 12.
+[00:48:44:06 --> 00:48:46:28] Olha só, você não desperdiça nenhuma.
+[00:48:47:21 --> 00:48:49:23] Você quer fazer com quatro colunas?
+[00:48:50:04 --> 00:48:51:23] Faz com quatro, tá vendo?
+[00:48:52:09 --> 00:48:53:23] Você quer fazer com três colunas?
+[00:48:53:25 --> 00:48:54:25] Também, faz com três.
+[00:48:56:09 --> 00:49:00:06] Aí você consegue usar a margem interna, que é o pad.
+[00:49:01:25 --> 00:49:03:22] Deu certinho, mas não deu, né?
+[00:49:04:02 --> 00:49:05:24] Porque tá por cima, tá?
+[00:49:05:27 --> 00:49:06:24] Por isso que não deu aqui.
+[00:49:07:06 --> 00:49:07:25] Na lógica dá.
+[00:49:09:06 --> 00:49:11:01] Dupliquei errado ali pra vocês.
+[00:49:11:26 --> 00:49:13:00] Mas acho que deu pra...
+[00:49:13:00 --> 00:49:13:27] Pra sacar coé.
+[00:49:15:08 --> 00:49:19:26] sai disso. Então é isso. Outra coisa, as colunas são influenciadas pelas calhas,
+[00:49:20:00 --> 00:49:23:28] preste atenção nisso, se você vai usar calha, a lógica é diferente, eu mostrei isso pra
+[00:49:23:28 --> 00:49:29:25] vocês também, quanto mais colunas, mais possibilidades, só não exagere. Até 16 tá bom, mais
+[00:49:29:25 --> 00:49:38:04] que 16 é desnecessário na maior e grande, 98% dos casos. Definir as linhas também utilize
+[00:49:38:04 --> 00:49:42:08] os valores da escala que você definiu na primeira etapa. Então as linhas também
+[00:49:42:08 --> 00:49:47:22] que segue a etapa. Se você escolheu o grid de 4 pontos, segue a escala de 4 pontos nas linhas.
+[00:49:47:26 --> 00:49:52:05] Por quê? Porque isso vai influenciar entre linha da tipografia também, vai influenciar o tamanho
+[00:49:52:05 --> 00:49:58:07] do tipo também, seja título, seja parágrafo, dos ícones de tudo. Então a altura também é
+[00:49:58:07 --> 00:50:04:12] influenciada, tá? E você deve pensar nisso quando definir as linhas de um grid. As linhas
+[00:50:04:12 --> 00:50:10:04] estão diretamente ligadas com o tamanho da tipografia. Isso aqui é outro ponto importante também.
+[00:50:11:08 --> 00:50:12:26] É o que eu acabei de falar com vocês.
+[00:50:13:08 --> 00:50:16:07] As dimensões das linhas seguem a lógica da entrelinha.
+[00:50:16:17 --> 00:50:18:20] Então, esse é o outro ponto que acabei de falar aqui.
+[00:50:19:02 --> 00:50:22:14] Então, pensem nisso quando forem criar as linhas, tá?
+[00:50:23:00 --> 00:50:25:20] E, por último, passo a organizar os elementos.
+[00:50:26:10 --> 00:50:29:01] E aí, aqui é brincar, aqui é diversão.
+[00:50:29:03 --> 00:50:32:27] Se você construir um bom grid, vai ser pura diversão
+[00:50:32:27 --> 00:50:37:25] organizar as imagens, organizar os textos dentro de um elemento, tá?
+[00:50:37:25 --> 00:50:41:26] Utilize as zonas espaciais para organizar os elementos, a gente falou delas aqui,
+[00:50:42:03 --> 00:50:44:25] deixa eu voltar alguns pontos aqui para vocês verem,
+[00:50:45:04 --> 00:50:45:28] zonas espaciais.
+[00:50:45:29 --> 00:50:48:23] Olha, você pode brincar, tem muitas possibilidades.
+[00:50:49:05 --> 00:50:50:07] Vou tirar aqui.
+[00:50:51:02 --> 00:50:54:23] Eu posso, por exemplo, criar um banner que usa a maior parte dele em imagem,
+[00:50:55:26 --> 00:50:56:26] e aqui vem o texto.
+[00:50:58:08 --> 00:50:59:00] Por exemplo...
+[00:51:03:08 --> 00:51:06:26] aqui vem o texto, certinho. E aí aqui é o texto de título.
+[00:51:08:27 --> 00:51:10:28] e o de baixo é o de parágrafo.
+[00:51:12:06 --> 00:51:14:05] Só para vocês visualizarem.
+[00:51:14:13 --> 00:51:15:09] Geralmente é assim, né?
+[00:51:15:20 --> 00:51:16:02] Fazer assim.
+[00:51:21:09 --> 00:51:23:04] Então, tenha aí uma composição.
+[00:51:24:22 --> 00:51:30:03] Organizei, usei os espaços que eu tinha para deixar essa composição equilibrada.
+[00:51:30:05 --> 00:51:33:12] Lembra que a gente falou de balance, equilíbrio?
+[00:51:33:21 --> 00:51:37:08] Aí, assim é melhor ainda, que a margem aqui fica regular, né?
+[00:51:37:17 --> 00:51:38:08] Posso fazer isso?
+[00:51:38:14 --> 00:51:41:03] Também posso deixar mais espaço ali, se eu quiser, ó.
+[00:51:41:24 --> 00:51:45:04] Eu posso puxar o peso todo da composição...
+[00:51:46:03 --> 00:51:46:21] Pra cá, ó!
+[00:51:48:01 --> 00:51:49:03] e deixar aquele espaço ali.
+[00:51:49:10 --> 00:51:51:06] Aí eu estou direcionando o seu olhar, lembra?
+[00:51:51:23 --> 00:51:54:29] A gente tem espaço, posição e direção
+[00:51:54:29 --> 00:51:56:21] quando a gente vai construir uma composição.
+[00:51:56:27 --> 00:51:58:03] Eu posso fazer dessa forma também.
+[00:52:00:16 --> 00:52:03:11] uma outra forma, ou eu sei o que você é também, olha...
+[00:52:04:15 --> 00:52:06:25] Quando a gente tem mais espaço, dá pra trabalhar muita coisa, né?
+[00:52:08:09 --> 00:52:09:25] Posso colocar alguns ícones aqui, ó.
+[00:52:12:28 --> 00:52:16:09] Olha só que interessante. Então, isso aqui já é outra composição.
+[00:52:16:15 --> 00:52:19:26] É de, depois que você constrói o grid, você vai se divertir.
+[00:52:20:28 --> 00:52:26:18] Porque as possibilidades são inúmeras. Quem fala que o Grid te limita não tá sabendo de nada.
+[00:52:26:25 --> 00:52:30:02] Porque na verdade, quando você cria... É aquela coisa, né?
+[00:52:30:08 --> 00:52:33:10] As regras limitam o jogo, não é? Verdade? É verdade.
+[00:52:33:24 --> 00:52:35:15] Mas e quando você cria as regras?
+[00:52:36:15 --> 00:52:37:25] Não tem limite, cara!
+[00:52:38:13 --> 00:52:40:09] Então, criar grid não é se limitar.
+[00:52:40:13 --> 00:52:42:20] Criar grid é aumentar suas possibilidades,
+[00:52:42:25 --> 00:52:45:13] é facilitar, é construir lógica e sistema.
+[00:52:46:00 --> 00:52:49:17] Se você digitar as regras do jogo, você não está limitado a coisa nenhuma.
+[00:52:50:10 --> 00:52:52:13] Então, lembre-se disso, utiliza esses espaços
+[00:52:52:13 --> 00:52:55:03] para poder organizar os elementos.
+[00:52:56:05 --> 00:52:58:07] Preste atenção na largura das colunas.
+[00:52:58:09 --> 00:53:01:12] A gente vai falar disso aqui na aula de hierarquia tipográfica.
+[00:53:01:16 --> 00:53:03:28] Cuidado para não apertar muita informação em pouco espaço.
+[00:53:03:28 --> 00:53:06:16] E aqui eu coloquei cuidado, não é que você está proibido?
+[00:53:06:20 --> 00:53:08:07] Depende da mensagem que você quer passar.
+[00:53:09:27 --> 00:53:12:16] Vamos lá, agora eu vou mostrar para vocês alguns grids,
+[00:53:12:19 --> 00:53:14:19] nós entramos na terceira parte dessa aula,
+[00:53:15:13 --> 00:53:18:03] alguns grids que eu construí, pensei nas margens,
+[00:53:18:12 --> 00:53:20:00] para vocês verem como isso funciona.
+[00:53:20:21 --> 00:53:23:02] Então, esse aqui é um grid de duas folhas espelhadas
+[00:53:23:21 --> 00:53:24:27] e eu coloquei ele aqui,
+[00:53:25:00 --> 00:53:27:06] mais porque eu queria mostrar a margem do que os módulos.
+[00:53:27:10 --> 00:53:28:20] Os módulos não tem muito segredo,
+[00:53:28:22 --> 00:53:30:11] esses módulos foram feitos com calhas.
+[00:53:31:05 --> 00:53:35:16] Se você notar, a calha das linhas é maior do que a calha de largura,
+[00:53:35:22 --> 00:53:38:09] geralmente isso aqui não é a melhor opção possível,
+[00:53:39:09 --> 00:53:42:03] Geralmente, a melhor opção é quando fica tudo regular.
+[00:53:42:23 --> 00:53:43:25] Mas olha só que interessante.
+[00:53:44:21 --> 00:53:46:17] Eu poderia fazer também...
+[00:53:46:17 --> 00:53:49:06] Se eu definir aqui que eu quero oito colunas.
+[00:53:49:08 --> 00:53:52:03] Olha que simples, no Illustrator, fazer isso é muito fácil.
+[00:53:53:25 --> 00:53:56:21] 1, 2, 3, 4, 5, 6, 7, 8. Coloco 8 aqui.
+[00:53:57:01 --> 00:53:58:25] Eu fiz isso aqui com Ctrl D, né, no Illustrator.
+[00:53:58:26 --> 00:54:03:05] Você pode, inclusive, apertar Ctrl Y para abrir o Outline aqui e você ter precisão.
+[00:54:03:11 --> 00:54:07:16] Para você ver se uma coluna está encaixando exatamente na outra, tá vendo?
+[00:54:07:22 --> 00:54:08:20] Tá perfeito aqui.
+[00:54:09:07 --> 00:54:12:25] Então, eu criei 8 aqui e eu posso criar 8 por 8, se eu quiser.
+[00:54:13:07 --> 00:54:14:27] E aí, ele vai seguir a proporção da página.
+[00:54:15:01 --> 00:54:17:11] Então, 2, 3, 4, 5, 6, 7, 8.
+[00:54:17:20 --> 00:54:19:29] Vocês vão reparar que ele vai se tornar um retângulo,
+[00:54:20:12 --> 00:54:23:02] porque dessa forma eu sigo a proporção da página.
+[00:54:24:11 --> 00:54:29:06] se tornou um retângulo, é um grid também, você também pode utilizar ele, deixa eu voltar.
+[00:54:29:19 --> 00:54:33:13] E aí, como eu fiz para chegar nessa margem? Isso aqui é clássico, é usado há décadas,
+[00:54:33:16 --> 00:54:40:15] há muito tempo já, é utilizada essa técnica aqui para poder construir essa margem aqui, bem harmônica.
+[00:54:40:23 --> 00:54:47:05] Que é o seguinte, é inserindo círculos, trabalhando a interseção do círculo com a reta.
+[00:54:47:07 --> 00:54:51:12] Então, como é que funciona? Todo círculo é também um quadrado, ele ocupa o espaço de um quadrado,
+[00:54:51:12 --> 00:54:54:13] Porque como a distância dos raios é exatamente a mesma,
+[00:54:54:25 --> 00:54:56:19] a distância do centro para a extremidade é a mesma.
+[00:54:56:29 --> 00:55:00:02] Então você pode tanto criar um círculo quanto um quadrado
+[00:55:00:02 --> 00:55:02:29] se você quiser encontrar exatamente essa posição aqui.
+[00:55:04:10 --> 00:55:06:16] a gente tem exatamente um quadrado aqui.
+[00:55:07:05 --> 00:55:09:09] E aí, por que eu queria chegar nessa posição?
+[00:55:09:14 --> 00:55:11:07] Porque eu quero traçar uma reta aqui
+[00:55:12:02 --> 00:55:13:22] entre esse vértice
+[00:55:13:22 --> 00:55:14:27] e esse ponto aqui,
+[00:55:15:11 --> 00:55:17:26] no meio do elemento, tá?
+[00:55:18:07 --> 00:55:20:19] E olha que interessante, a gente tem essa interseção daqui
+[00:55:20:19 --> 00:55:22:00] e essa interseção daqui.
+[00:55:22:16 --> 00:55:24:10] É as duas que a gente precisa já para fazer,
+[00:55:24:24 --> 00:55:26:10] para construir essa margem.
+[00:55:26:21 --> 00:55:28:05] E aí, nós vamos otimizar esse espaço.
+[00:55:28:19 --> 00:55:31:04] Então, olha que interessante, eu venho nessa interseção, olha lá, interseção.
+[00:55:31:10 --> 00:55:32:09] Crio essa reta aqui...
+[00:55:33:10 --> 00:55:34:11] e puxo ela para cá.
+[00:55:35:17 --> 00:55:39:22] E posso também criar essa reta aqui e puxá-la para cá.
+[00:55:40:05 --> 00:55:41:21] Eu vou puxar para baixo aqui, mais fácil.
+[00:55:43:19 --> 00:55:48:27] Então, nós já temos aqui esses dois lados da margem, e eu posso vir nessa interseção
+[00:55:48:27 --> 00:55:50:01] aqui também e já criar.
+[00:55:51:13 --> 00:55:52:13] essa reta aqui.
+[00:55:53:26 --> 00:55:55:22] Olha só, então criar de cima.
+[00:55:56:00 --> 00:55:58:12] Agora, para criar de baixo, o que eu faço? Eu duplico esse círculo.
+[00:55:59:06 --> 00:56:01:09] Antigamente era muito mais difícil fazer isso no compasso,
+[00:56:01:14 --> 00:56:03:27] eu tive que fazer isso muito na faculdade, mas aqui é fácil.
+[00:56:05:05 --> 00:56:05:19] Puxa!
+[00:56:06:21 --> 00:56:08:02] E pronto, nós temos a margem.
+[00:56:08:16 --> 00:56:11:28] Então, essa é a primeira margem muito fácil, muito versátil, fácil de usar.
+[00:56:12:12 --> 00:56:14:12] Gosto muito de criar margens assim, tá?
+[00:56:14:20 --> 00:56:15:11] Então, olha só.
+[00:56:16:00 --> 00:56:18:18] Quer criar uma margem geométrica bem construída?
+[00:56:18:29 --> 00:56:19:27] Utiliza essa lógica.
+[00:56:20:00 --> 00:56:21:05] A gente tem uma boa margem aqui.
+[00:56:21:12 --> 00:56:23:24] Deixa eu dar um exemplo para vocês verem como ela funciona.
+[00:56:23:24 --> 00:56:26:06] Ela é proporcional ao formato, então funciona muito bem.
+[00:56:26:13 --> 00:56:29:18] Se você faz um formato quadrado e quer construir uma margem para ele,
+[00:56:30:07 --> 00:56:30:25] o que você faz?
+[00:56:30:25 --> 00:56:33:13] Você cria o círculo, que vem no vértice,
+[00:56:33:16 --> 00:56:34:20] o vértice no outro...
+[00:56:34:20 --> 00:56:35:19] Tem que ser exato, tá?
+[00:56:35:19 --> 00:56:41:02] Então, liga os Smart Guides aí para ser exato se você quer ter precisão.
+[00:56:42:06 --> 00:56:45:25] Eu vou diminuir isso daqui para ficar como linha de construção para a gente aqui, tá?
+[00:56:49:24 --> 00:56:51:06] Branco... aí, linha de construção.
+[00:56:51:23 --> 00:56:54:14] Então, o que eu faço? Eu puxo desse ponto para esse.
+[00:56:54:19 --> 00:56:55:23] Só disso que a gente precisa.
+[00:56:57:02 --> 00:56:57:17] Agora...
+[00:56:57:17 --> 00:57:01:01] Se você está construindo no papel, você vai querer fazer o lado de cá também,
+[00:57:01:15 --> 00:57:04:18] porque aí você encontra um ponto no outro.
+[00:57:05:08 --> 00:57:07:12] Agora, no Illustrator nem precisa disso, né?
+[00:57:07:26 --> 00:57:09:21] Você vem aqui, puxa...
+[00:57:11:06 --> 00:57:12:02] Já tem um lado.
+[00:57:13:29 --> 00:57:16:22] Vai lá na outra interseção, puxa.
+[00:57:18:06 --> 00:57:19:06] E já tem outro lado.
+[00:57:20:17 --> 00:57:22:06] Agora, basicamente, eu puxo aqui.
+[00:57:26:19 --> 00:57:30:11] Caraca, ficou errado por pouco ali, deixei o mouse vazar.
+[00:57:31:29 --> 00:57:34:21] e puxo aqui também.
+[00:57:35:22 --> 00:57:36:00] Legal?
+[00:57:37:20 --> 00:57:40:03] e a gente tem a margem interna já.
+[00:57:40:15 --> 00:57:43:04] É uma excelente distância de margem, tá?
+[00:57:43:26 --> 00:57:46:15] Deixa eu mostrar aqui para vocês, vou tirar o grid.
+[00:57:47:02 --> 00:57:49:08] É uma excelente distância de margem.
+[00:57:49:16 --> 00:57:50:23] É um espaçamento bacana.
+[00:57:51:01 --> 00:57:52:20] Então, vai fazer post e tal, funciona.
+[00:57:52:25 --> 00:57:54:28] Ah, eu tenho que ficar preso nisso? Não, se você quiser usar meio,
+[00:57:55:03 --> 00:57:55:28] você pode também.
+[00:57:56:08 --> 00:57:58:10] Às vezes, meio otimiza mais.
+[00:57:58:11 --> 00:57:59:23] Como é que você faz para usar meio aqui?
+[00:58:00:05 --> 00:58:01:09] Super fácil, né?
+[00:58:01:09 --> 00:58:02:20] Você puxa uma reta aqui...
+[00:58:03:07 --> 00:58:05:05] Nem precisa fazer conta, só com geometria.
+[00:58:06:11 --> 00:58:08:18] Pronto, você já tem o meio aí, o meio é esse.
+[00:58:10:06 --> 00:58:11:03] Exatamente aqui.
+[00:58:11:14 --> 00:58:13:13] E aí, no Illustrator, como você consegue...
+[00:58:14:10 --> 00:58:17:23] Crescer na diagonal, você faz isso aqui, até chegar na interseção. Pronto.
+[00:58:18:05 --> 00:58:20:06] Aí você já tem um meio. Já dá para tirar.
+[00:58:21:00 --> 00:58:22:02] Opa, puxei isso.
+[00:58:26:08 --> 00:58:30:28] Essa é uma margem usando metade do espaço, também é muito boa a super harmônica.
+[00:58:31:07 --> 00:58:35:00] Geralmente, quando você já tem mais repertória no design,
+[00:58:35:25 --> 00:58:37:27] eu, pelo menos, eu costumo fazer essa margem sem ver, né?
+[00:58:37:27 --> 00:58:42:04] Às vezes eu quero trabalhar um espaço, eu venho cá e já crio mais ou menos assim,
+[00:58:43:04 --> 00:58:49:01] usando aquele espaço, quando eu vou ver ele já tá bem dentro da margem que eu tinha estipulado,
+[00:58:49:03 --> 00:58:51:12] mesmo que isso aconteceu de forma intuitiva, né?
+[00:58:51:21 --> 00:58:56:06] Às vezes eu coloco aqui no meio, a distância que a gente costuma soltar aqui no olho, a gente faz isso,
+[00:58:56:08 --> 00:59:01:16] Mas se você quiser ser exato, preciso, pode utilizar essa ideia aqui.
+[00:59:01:28 --> 00:59:08:05] Esse grid aqui é muito usado para grid fixo, layout fixo, impresso.
+[00:59:08:12 --> 00:59:10:29] Em site a gente não costuma usar esse grid aqui não, tá bom?
+[00:59:12:06 --> 00:59:13:04] E não só impresso, né?
+[00:59:13:20 --> 00:59:14:29] Materiais que são fixos.
+[00:59:15:10 --> 00:59:19:07] Então, um banner de um site pode ter, ou se o banner for uma imagem, ou então
+[00:59:19:07 --> 00:59:21:24] um post, um stories, também pode usar esse grid.
+[00:59:22:08 --> 00:59:25:29] E aí aqui a mesma lógica, se você quiser fazer isso com retângulo, aí você só
+[00:59:25:29 --> 00:59:30:09] que duplicar. Então, vamos supor que na verdade o formato que eu tenho é esse aqui. O que
+[00:59:30:09 --> 00:59:34:01] eu faço? Eu já tenho esse lado e já tenho esse lado. Olha aqui ó...
+[00:59:34:28 --> 00:59:36:10] Eu já tenho esses dois lados feitos.
+[00:59:36:20 --> 00:59:38:05] Eu preciso só achar o outro lado de lá.
+[00:59:38:16 --> 00:59:40:04] Aí eu venho cá, duplico o círculo...
+[00:59:42:26 --> 00:59:44:03] e puxar essa linha aqui.
+[00:59:45:09 --> 00:59:49:05] Pronto, eu já tenho ali. Interseção é exatamente o que eu preciso.
+[00:59:50:18 --> 00:59:53:05] Agora nesse novo formato eu tenho uma margem também.
+[00:59:55:20 --> 00:59:56:28] bem construído, tá?
+[00:59:57:03 --> 00:59:58:03] Esse é o primeiro modelo.
+[00:59:58:15 --> 01:00:01:09] Vamos para o segundo, esse daqui é secular, tá?
+[01:00:01:29 --> 01:00:06:22] Muitos manuscritos eram feitos assim, muito, isso aqui é um grid famosíssimo.
+[01:00:06:29 --> 01:00:08:28] E para construir ele é muito simples, qual que é a lógica dele?
+[01:00:08:28 --> 01:00:10:00] Ele é para impressos também?
+[01:00:10:05 --> 01:00:13:12] Não, esse definitivamente é para impressos, não é muito comum no digital.
+[01:00:13:29 --> 01:00:18:15] Mas essa margem maior aqui, ela é o dobro dessa margem de dentro aqui.
+[01:00:18:27 --> 01:00:19:27] Mas qual que é a lógica dela?
+[01:00:19:27 --> 01:00:20:29] É muito interessante, tá?
+[01:00:20:29 --> 01:00:24:26] Depois a gente vai entrar num contexto mais histórico, eu vou falar sobre os nomes
+[01:00:24:26 --> 01:00:29:12] desses grids, tá? Aqui agora eu só quero aguçar a imaginação de vocês, tá?
+[01:00:29:18 --> 01:00:33:20] Mas tudo aqui são... Todos esses são grids que foram muito bem construídos há muito
+[01:00:33:20 --> 01:00:36:09] tempo atrás, são utilizados até hoje e são interessantes.
+[01:00:36:12 --> 01:00:39:00] Esse aqui é a grid de manuscrito. Por que ele é relevante?
+[01:00:39:09 --> 01:00:42:29] Porque aqui vinha um texto, tá? Eu vou fazer em lorem y aqui mesmo, só pra
+[01:00:42:29 --> 01:00:46:14] a gente visualizar. Então tá aí, ó. Fazendo um tamanho menor.
+[01:00:49:15 --> 01:00:50:05] cabranco.
+[01:00:51:23 --> 01:00:53:05] Aí, agora...
+[01:00:53:05 --> 01:00:54:07] Poxa vida, hein?
+[01:00:54:27 --> 01:00:55:27] Eu fiz em cima do...
+[01:00:57:27 --> 01:01:03:06] da parada. Agora tem que ficar dando Ctrl Z aqui. Peraí, vamos lá.
+[01:01:04:14 --> 01:01:05:17] Vou duplicar essa.
+[01:01:07:08 --> 01:01:07:26] Mas...
+[01:01:09:20 --> 01:01:11:17] Duplica e faz por cima de uma só.
+[01:01:13:06 --> 01:01:14:06] 16 pontos.
+[01:01:17:27 --> 01:01:19:05] O texto vinha aqui...
+[01:01:21:18 --> 01:01:23:24] Vocês já devem ter visto livros assim, vou tirar essa...
+[01:01:25:00 --> 01:01:26:27] Essa margem aqui... Ah, tirei a errada.
+[01:01:28:27 --> 01:01:33:13] Você já deve ter visto os livros assim, é o grid de manuscrito.
+[01:01:33:24 --> 01:01:40:26] E aí você tem um espaço aqui que você pode colocar anotações e aqui embaixo também
+[01:01:40:26 --> 01:01:41:23] nota de rodapé.
+[01:01:43:09 --> 01:01:47:28] Não é atoa que chama nota de rodapé, porque tinha um espaço para colocar essas notas de rodapé.
+[01:01:48:03 --> 01:01:51:05] Então é bem versátil também, esse aqui é famosíssimo.
+[01:01:51:12 --> 01:01:53:10] Eu vou mostrar para vocês duas formas de construir.
+[01:01:53:16 --> 01:01:57:06] Uma forma aqui, roubada e terra.
+[01:01:58:06 --> 01:02:01:24] é hacker e outra forma que é...
+[01:02:02:28 --> 01:02:04:08] a raizona mesmo?
+[01:02:04:20 --> 01:02:06:08] Primeiro eu vou ensinar a raizona,
+[01:02:07:00 --> 01:02:08:08] depois eu mostro a cheater...
+[01:02:08:24 --> 01:02:09:08] roubada.
+[01:02:10:16 --> 01:02:16:00] dificuldade para apagar isso, como é que funciona? Então, a gente tem aqui um formato...
+[01:02:18:16 --> 01:02:23:20] A3 dividido no meio, tá? Como se fosse, tá? Como se metade disso fosse um A4.
+[01:02:24:18 --> 01:02:27:00] Ou então poderia ser também seguir a mesma lógica,
+[01:02:27:06 --> 01:02:29:25] um A4 inteiro e metade disso aqui é um A5.
+[01:02:30:01 --> 01:02:30:25] Também funciona.
+[01:02:31:19 --> 01:02:33:01] Mas é essa proporção.
+[01:02:33:20 --> 01:02:36:25] Então, o que a gente faz? Primeiro a gente cria as diagonais.
+[01:02:36:27 --> 01:02:38:25] Nós estamos traçando as relações aqui.
+[01:02:39:04 --> 01:02:40:27] Então, vou criar essas duas diagonais
+[01:02:40:27 --> 01:02:43:23] e vou traçar também uma diagonal para cá.
+[01:02:45:01 --> 01:02:48:28] e uma diagonal, essa diagonal era só para encontrar esse ponto em específico aqui, tá?
+[01:02:49:08 --> 01:02:53:08] Vou colocá-la para cá também, para a gente fazer isso de forma simétrica.
+[01:02:53:26 --> 01:02:55:10] E eu vou diminuir o tamanho.
+[01:02:56:28 --> 01:02:59:28] desse e aumentar o tamanho desse, que é a de fora.
+[01:03:01:01 --> 01:03:02:22] Aí, assim que eu criei esse ponto,
+[01:03:02:28 --> 01:03:06:16] eu vou traçar uma linha dessa interseção até essa ponta aqui.
+[01:03:07:13 --> 01:03:10:04] Aqui a gente dividiu a página em três.
+[01:03:11:08 --> 01:03:12:13] Essa aqui é a técnica...
+[01:03:13:02 --> 01:03:15:09] Como usar geometria para dividir uma página em três?
+[01:03:16:14 --> 01:03:18:22] Claro, se você tiver dividida em duas.
+[01:03:19:08 --> 01:03:21:01] Depois eu vou pegar essa interseção aqui
+[01:03:21:01 --> 01:03:24:02] e vou traçar um ponto com essa parte aqui.
+[01:03:25:23 --> 01:03:27:26] E aí eu encontrei esse ponto.
+[01:03:28:27 --> 01:03:30:09] Isso aqui é tudo que a gente precisa.
+[01:03:30:14 --> 01:03:34:02] Com ele, agora, a gente faz essa reta.
+[01:03:34:06 --> 01:03:35:03] Como assim, Rom? Me explica.
+[01:03:35:24 --> 01:03:37:27] Aqui, eu vou vim dessa interseção, desse ponto,
+[01:03:38:08 --> 01:03:40:02] até essa linha aqui, dessa interseção,
+[01:03:40:17 --> 01:03:42:14] depois dessa daqui, até essa,
+[01:03:42:24 --> 01:03:44:03] depois dessa até encontrar lá.
+[01:03:44:09 --> 01:03:45:17] Aí, encontrou.
+[01:03:46:00 --> 01:03:46:12] Prontinho.
+[01:03:46:27 --> 01:03:47:24] A gente fez isso aqui.
+[01:03:48:05 --> 01:03:49:19] Para fazer do outro lado é a mesma coisa.
+[01:03:50:24 --> 01:03:52:02] Opa, tá errado.
+[01:03:52:21 --> 01:03:53:21] Olha onde eu coloquei o ponto.
+[01:03:54:00 --> 01:03:56:21] Quando você quer fazer com precisão, vamos fazer certinho aqui,
+[01:03:56:27 --> 01:03:58:08] vou ensinar vocês a fazer direito.
+[01:03:58:21 --> 01:03:59:08] Ficou errado ali.
+[01:03:59:12 --> 01:04:00:20] Coloca aqui, Ctrl-Y,
+[01:04:01:21 --> 01:04:03:19] e aí não tem erro, você vai ver exatamente onde foi.
+[01:04:03:29 --> 01:04:04:29] Que era a interseção.
+[01:04:05:06 --> 01:04:06:05] Aí, agora foi perfeito.
+[01:04:07:06 --> 01:04:08:00] Agora sim, né?
+[01:04:09:13 --> 01:04:14:15] Criar uma interseção ali para a gente, aí eu pego esse ponto, com essa diagonal.
+[01:04:15:23 --> 01:04:18:16] Essa daqui tem que ser na interseção, quando aparece...
+[01:04:19:14 --> 01:04:21:02] Quando aparece interseção, aqui,
+[01:04:21:29 --> 01:04:25:05] quando a reta brilha ou aparece interseção, você marca.
+[01:04:25:23 --> 01:04:27:04] E aqui, interseção também.
+[01:04:28:22 --> 01:04:31:20] montamos o lado de cá, agora eu vou montar esse lado de cá.
+[01:04:31:28 --> 01:04:34:02] Então eu puxo aqui, desce a interseção aqui
+[01:04:34:20 --> 01:04:35:29] e depois eu puxo daqui.
+[01:04:38:12 --> 01:04:39:02] Puxa daqui.
+[01:04:40:28 --> 01:04:47:08] naquele ponto. E aí, esse ponto aqui é o que a gente precisa. Então, agora é só conectar
+[01:04:47:08 --> 01:04:54:06] aqui com aqui. Olha só, essa é mágico, né? Eu acho mágico. Com diagonais, sabe
+[01:04:54:06 --> 01:04:57:21] o que a gente acabou de fazer aqui? Nós acabamos de dividir essa página em nove.
+[01:04:58:14 --> 01:05:00:24] Como assim, Juan? Dividir uma página em nove? Pois é, cara.
+[01:05:01:28 --> 01:05:03:06] Dá pra acreditar?
+[01:05:03:20 --> 01:05:06:22] Sabe esse retângulo que a gente formou aqui, esse retângulo aqui?
+[01:05:08:25 --> 01:05:12:28] Esse retângulo aqui é a 9 vezes 9 dá quanto, né? 81.
+[01:05:14:15 --> 01:05:16:21] Esse retângulo é a parte 1 de 81.
+[01:05:18:09 --> 01:05:19:22] 181 avos.
+[01:05:21:27 --> 01:05:26:21] desse papel. Como assim, Juan? Não é possível? É possível. Olha como vai encaixar certinho
+[01:05:26:21 --> 01:05:33:18] agora, hein? Matematicamente. 2, 3, certinho. Lembra que eu tinha falado que a gente dividiu
+[01:05:33:18 --> 01:05:39:25] por 3 aquela hora? Então agora vai. 4, 5, 6, 7, 8, 9. Ah, não acredito que foi
+[01:05:39:25 --> 01:05:46:00] certinho. Então dá uma conferida aqui, colega. Exato, né? Esse é o poder da geometria.
+[01:05:46:22 --> 01:05:47:21] Por isso que isso é, né?
+[01:05:49:03 --> 01:05:50:08] Preciso amar a geometria.
+[01:05:50:12 --> 01:05:54:07] Então a gente dividiu por 9 aqui, isso é uma composição bem construída.
+[01:05:54:11 --> 01:05:58:24] E olha que legal, esse retângulo aqui é exatamente proporcional com a folha.
+[01:05:59:07 --> 01:06:06:14] Então se eu pego aqui com formato 2, 3, 4, 5, 6, 7, vocês já viram onde eu quero
+[01:06:06:14 --> 01:06:07:00] chegar né?
+[01:06:07:16 --> 01:06:10:03] 8, ah não acredito, será que vai dar certo?
+[01:06:11:07 --> 01:06:11:21] Certíssimo.
+[01:06:11:27 --> 01:06:13:25] 9, pode conferir.
+[01:06:13:27 --> 01:06:16:09] Dividimos a página em 9 partes.
+[01:06:17:02 --> 01:06:22:01] Então, esse grid aqui é um grid muito inteligente, ele é bem avançado também, a forma como
+[01:06:22:01 --> 01:06:26:14] você constrói ele aqui, bem avançado e ele traz alguns pontos-chave aqui que nós
+[01:06:26:14 --> 01:06:28:19] podemos utilizar também, então é muito massa.
+[01:06:28:28 --> 01:06:36:00] Olha que curioso, olha, o grid externo ele é o dobro do grid interno e o grid inferior
+[01:06:36:00 --> 01:06:38:19] é o dobro do superior, por que é isso daqui?
+[01:06:39:07 --> 01:06:43:07] Por causa da nota de rodapé e desse espaço lateral também para notas, tá?
+[01:06:43:10 --> 01:06:45:09] E funciona dos dois lados aí, bem geométrico.
+[01:06:45:09 --> 01:06:49:12] E como é que é a forma roubada? Agora você já deve ter percebido como que é a forma roubada, né?
+[01:06:49:25 --> 01:06:52:28] A forma roubada é simplesmente pegar o formato e dividir por 9.
+[01:06:54:06 --> 01:06:57:09] Fala que isso não é roubado, olha só, vamos fazer aqui?
+[01:06:57:25 --> 01:06:59:00] Vamos ver qual que é mais rápido, hein?
+[01:06:59:02 --> 01:07:00:04] Eu vou colocar aqui do lado.
+[01:07:02:18 --> 01:07:04:16] Peraí que tem que ser certinho, senão eu fico errado.
+[01:07:06:02 --> 01:07:08:03] Acho que já estava certinho, mas só de conferência.
+[01:07:09:04 --> 01:07:10:06] Então, o que eu vou fazer aqui, ó?
+[01:07:11:29 --> 01:07:15:15] Você tem o formato, você vem aqui, cria um quadrado...
+[01:07:16:06 --> 01:07:17:04] Cria um quadrado...
+[01:07:17:21 --> 01:07:19:27] Coloca em Outline para você ver certinho.
+[01:07:21:01 --> 01:07:25:15] Coloca aqui Ctrl D, 2, 3, 4, 5, 6, 7, 8, 9.
+[01:07:25:22 --> 01:07:30:07] Ah, deu errado, vem cá e faz isso, roubado é pouco.
+[01:07:30:22 --> 01:07:35:25] Agora você vem aqui, puxa, isso aqui é só no digital, antigamente, no papel, você
+[01:07:35:25 --> 01:07:39:05] ia precisar de uma régua para fazer aquelas linhas lá, entende por que aquilo é tão
+[01:07:39:05 --> 01:07:39:28] inteligente e foda?
+[01:07:40:16 --> 01:07:46:23] Agora que é 2, 3, 4, 5, 6, 7, 8, 9, agora eu pego aqui e simplesmente pu...
+[01:07:48:13 --> 01:07:49:18] Roubado é pouco, né?
+[01:07:49:27 --> 01:07:53:00] Então é só vir aqui e pegar essas duas partes aqui.
+[01:07:54:15 --> 01:07:55:02] Prontinho.
+[01:07:56:05 --> 01:07:57:18] A gente tem o mesmo espaço, olha.
+[01:07:59:18 --> 01:08:01:27] só que divididos de formas diferentes.
+[01:08:02:02 --> 01:08:05:00] Depois a gente vai analisar mais isso aqui, eu vou contar a história desses grids pra
+[01:08:05:00 --> 01:08:07:17] vocês, mas não cabe mais nessa aula, já são duas horas e nove.
+[01:08:08:03 --> 01:08:10:19] Então olha assim, exatamente...
+[01:08:11:17 --> 01:08:14:26] o mesmo espaço. Legal, né? Eu gosto muito.
+[01:08:16:00 --> 01:08:18:17] Vamos para o próximo agora, isso aqui é uma outra forma
+[01:08:18:17 --> 01:08:21:12] de conseguir fazer a margem também usando diagonais.
+[01:08:22:11 --> 01:08:23:20] Agora, se você está olhando isso aí, você deve estar falando,
+[01:08:23:27 --> 01:08:26:17] meu Deus, o que é isso?
+[01:08:27:14 --> 01:08:28:13] Eu vou mostrar para vocês.
+[01:08:28:17 --> 01:08:31:20] Olhando assim, parece complexo, mas é menos do que parece, tá?
+[01:08:32:14 --> 01:08:33:29] Então, eu vou tirar aqui.
+[01:08:34:04 --> 01:08:35:18] Esse aqui é o que eu criei aqui agora.
+[01:08:36:21 --> 01:08:41:15] Para mostrar para vocês também, eu fui fazendo aqui para encontrar uma margem também geométrica.
+[01:08:42:13 --> 01:08:45:02] E ela tem suas relações, eu vou precisar desacru... Aí, já deu.
+[01:08:45:28 --> 01:08:49:04] Então, vou apagar tudo aqui. Como é que ele funciona? A gente precisa da metade do...
+[01:08:51:05 --> 01:08:54:16] do espaço aqui, vou diminuir aqui também.
+[01:08:54:24 --> 01:08:55:15] Aí, bora lá.
+[01:08:55:27 --> 01:08:57:07] Então, primeiro, a gente tem que achar o centro.
+[01:08:57:11 --> 01:08:58:15] Como é que você acha um centro?
+[01:09:00:08 --> 01:09:01:23] Traçando duas diagonais aqui.
+[01:09:03:00 --> 01:09:08:04] Vou fazer isso dos dois lados porque nós queremos fazer uma margem simétrica
+[01:09:08:04 --> 01:09:09:10] nesse caso aqui, né?
+[01:09:10:29 --> 01:09:16:21] tracei aqui. E nós encontramos já... já começamos a traçar alguns pontos. Vou traçar
+[01:09:16:21 --> 01:09:17:27] essas retas aqui também.
+[01:09:23:24 --> 01:09:25:06] Essa... Então já tem a ciência.
+[01:09:25:18 --> 01:09:27:19] Agora, a gente tem alguns pontos interessantes.
+[01:09:28:01 --> 01:09:29:09] Dá pra fazer de várias formas.
+[01:09:29:26 --> 01:09:34:22] Uma é puxar aqui, e aí nós temos exatamente a metade dessa reta aqui, a medianiz dela.
+[01:09:37:26 --> 01:09:41:05] Nossa, agora eu não sei se eu falei errado, se é medianiz ou mediatriz, eu acho que é
+[01:09:41:05 --> 01:09:42:29] medianiz e mediatriz é do círculo, né?
+[01:09:43:14 --> 01:09:45:15] E aí a gente tem a metade aqui exata, tá vendo?
+[01:09:46:02 --> 01:09:49:18] E eu vou fazer isso do outro lado também, então pega aqui a metade certinho...
+[01:09:51:22 --> 01:09:55:29] e traço uma diagonal aqui com a metade de lá.
+[01:09:56:17 --> 01:10:02:18] Aqui a gente já encontrou as duas retas que a gente precisa pra...
+[01:10:03:28 --> 01:10:05:06] para encontrar...
+[01:10:07:14 --> 01:10:10:13] Caraca, pra poder encontrar a interseção, as vezes as palavras fogem, né?
+[01:10:10:26 --> 01:10:12:09] O que que a gente precisa encontrar agora?
+[01:10:12:26 --> 01:10:17:03] A altura, aquela altura que eu tinha feito, e aí pra isso, o que a gente vai fazer?
+[01:10:17:29 --> 01:10:22:26] Nós vamos fazer a mesma coisa que a gente fez pra baixo, só que pra cima.
+[01:10:24:09 --> 01:10:26:11] Então a gente pode pegar inclusive essas duas retas aqui.
+[01:10:27:29 --> 01:10:28:27] e puxar para cá.
+[01:10:31:06 --> 01:10:32:14] Agora puxar essa pra cá.
+[01:10:34:14 --> 01:10:36:03] e puxo essa.
+[01:10:39:17 --> 01:10:41:08] Vê se tanto de linha dá até uma agonia, né?
+[01:10:41:12 --> 01:10:43:06] A gente olha e fala, meu Deus, será que você vai chegar em algum lugar?
+[01:10:43:11 --> 01:10:44:20] Então só acompanha.
+[01:10:45:03 --> 01:10:47:07] A gente encontrou esse ponto aqui agora,
+[01:10:48:09 --> 01:10:50:05] aí tem algumas formas de fazer isso.
+[01:10:51:10 --> 01:10:54:14] a gente pode puxar daqui igual no anterior.
+[01:10:58:05 --> 01:10:59:29] e daqui, puxar aqui.
+[01:11:00:01 --> 01:11:02:06] Para quê isso, Juan? Para encontrar esse ponto aqui.
+[01:11:02:17 --> 01:11:04:18] Você vai ter uma margem mais apertada nesse.
+[01:11:04:23 --> 01:11:05:23] Nós estamos dividindo isso.
+[01:11:06:03 --> 01:11:08:25] Todas essas linhas diagonais é para poder dividir a folha.
+[01:11:09:02 --> 01:11:10:12] Aqui nós estamos dividindo ela.
+[01:11:10:29 --> 01:11:13:23] O formato, qualquer formato dá para fazer isso com diagonais.
+[01:11:14:23 --> 01:11:17:26] Mas aqui a gente pode encontrar tanto esse ponto aqui, ele é 1,
+[01:11:18:09 --> 01:11:20:05] quanto esse ponto aqui também.
+[01:11:20:22 --> 01:11:23:10] Só que aí você vai encontrar uma margem mais baixa,
+[01:11:23:15 --> 01:11:26:25] que é a última que eu fiz, nessa margem mais baixa aqui.
+[01:11:27:23 --> 01:11:32:08] Tudo isso aqui, olha, é proporcional. Olha que interessante, se eu puxar aqui, olha.
+[01:11:33:16 --> 01:11:34:15] Coisado, no ponto.
+[01:11:36:11 --> 01:11:38:18] Ficar exato aqui, aí é mais fácil fazer assim.
+[01:11:40:15 --> 01:11:43:21] Coloca o mouse na interseção e puxa pra cá.
+[01:11:43:24 --> 01:11:43:27] Aí!
+[01:11:46:18 --> 01:11:47:02] Volta.
+[01:11:48:16 --> 01:11:49:16] E vamos lá.
+[01:11:49:26 --> 01:11:50:23] Aqui a gente dividiu, ó.
+[01:11:53:24 --> 01:11:56:29] por 5, tá vendo? Dividimos a folha por 5...
+[01:11:58:27 --> 01:12:00:15] E aqui também está dividido certinho, ó.
+[01:12:04:17 --> 01:12:05:21] Nossa, não foi.
+[01:12:06:21 --> 01:12:08:06] Ah, é, faz sentido não ter ido, né?
+[01:12:08:11 --> 01:12:09:09] Onde que a gente tá aqui.
+[01:12:09:15 --> 01:12:11:11] Eu tô traçando uma relação dessa com essa.
+[01:12:11:20 --> 01:12:12:22] Mas a gente dividiu ali.
+[01:12:13:00 --> 01:12:13:29] Aqui não foi, olha.
+[01:12:14:23 --> 01:12:16:11] Tá dentro da...
+[01:12:17:14 --> 01:12:22:04] Tá dentro da proporção, mas não foi exatamente certinho, do lado de lá.
+[01:12:22:22 --> 01:12:23:28] Pra ir certinho com o lado...
+[01:12:23:28 --> 01:12:27:03] Eu acho que nem vai ficar, né? Se eu espelhar vai ficar errado também.
+[01:12:27:22 --> 01:12:30:23] Mas a gente dividiu aqui por cinco, a gente encontrou essa relação.
+[01:12:31:07 --> 01:12:33:27] Pra encontrar aquela outra relação do outro lado,
+[01:12:33:28 --> 01:12:35:21] a gente tem que seguir a mesma lógica desse.
+[01:12:37:25 --> 01:12:40:01] Por que aqui deu tão certo?
+[01:12:40:20 --> 01:12:43:16] Por causa desse ponto aqui, dessa linha,
+[01:12:44:20 --> 01:12:47:10] que é a linha que vai até lá embaixo com essa linha.
+[01:12:47:23 --> 01:12:49:17] Se a gente quiser fazer a mesma coisa aqui...
+[01:12:50:21 --> 01:12:55:27] Aqui a gente precisa, na verdade, fazer até esse ponto aqui.
+[01:12:59:07 --> 01:13:00:04] Vamos ver se agora vai.
+[01:13:04:05 --> 01:13:06:16] Não, peraí... Não sei se vai.
+[01:13:07:12 --> 01:13:08:13] Aê, foi, tá vendo?
+[01:13:09:06 --> 01:13:11:15] Porque esse ponto é o que desce até lá na ponta.
+[01:13:11:16 --> 01:13:16:23] Quando você corta ele, esse exato pontinho aqui da altura pra gente dividir.
+[01:13:16:26 --> 01:13:20:21] Aqui tá 1, 2, 3, 4, 5, 6, 7, 8, 9. Dividido por 9.
+[01:13:21:08 --> 01:13:22:07] Tá vendo? Certinho.
+[01:13:22:19 --> 01:13:24:11] Essa daqui também divide, ó.
+[01:13:24:28 --> 01:13:25:14] Aquele ali, ó.
+[01:13:28:09 --> 01:13:29:04] também corta.
+[01:13:30:22 --> 01:13:32:03] Só que tem que ser exato.
+[01:13:36:13 --> 01:13:38:26] Pô, isso aqui tá parecendo bruxaria já, né?
+[01:13:42:21 --> 01:13:45:12] Se você quiser dividir por mais, você também consegue.
+[01:13:49:14 --> 01:13:51:17] Está por cima e vai ficar errado.
+[01:13:52:18 --> 01:13:55:09] Deixa eu fazer sem ser por cima, senão vocês não vão conseguir visualizar.
+[01:14:06:09 --> 01:14:11:22] 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15.
+[01:14:13:04 --> 01:14:13:21] Certe.
+[01:14:14:07 --> 01:14:14:10] Está vendo?
+[01:14:15:17 --> 01:14:18:00] E aí, a gente tem aqui 15 por 5, né?
+[01:14:18:20 --> 01:14:19:15] 15 por 5.
+[01:14:19:27 --> 01:14:23:26] Você pode usar isso de margem, se quiser, dividir de 15 por 5.
+[01:14:24:18 --> 01:14:28:13] Aí vai ficar mais fino em cima e mais largo do lado.
+[01:14:30:03 --> 01:14:32:27] E vai ficar, se eu não me engano, é metade, deixa eu ver.
+[01:14:37:15 --> 01:14:39:07] Deixa eu ver se a metade vai virar um quadrado.
+[01:14:43:15 --> 01:14:44:19] Não, não vira um quadrado.
+[01:14:46:17 --> 01:14:50:03] Por causa do formato que eu estou usando, isso varia de acordo com o formato, na verdade.
+[01:14:51:23 --> 01:14:55:13] E aí aqui a gente já pode fazer a margem, né? Aquele tanto de linha que vocês estão vendo.
+[01:14:55:16 --> 01:14:56:21] Essas aqui a gente nem precisa.
+[01:14:57:05 --> 01:15:00:13] Claro, você pode usar isso de grid, olha. Isso aqui é uma técnica pra fazer um grid.
+[01:15:01:03 --> 01:15:06:23] Como assim, Ruan? Se eu tirar todas as diagonais aqui, isso aqui pode ser o meu grid.
+[01:15:07:18 --> 01:15:08:12] 15 por 5.
+[01:15:09:25 --> 01:15:10:25] usando o formato.
+[01:15:11:25 --> 01:15:15:18] E aí, eu posso tanto usar a parte de dentro só...
+[01:15:18:06 --> 01:15:19:13] ou posso usar assim também.
+[01:15:20:20 --> 01:15:22:25] Só que ele é um grid bem horizontal, né?
+[01:15:24:07 --> 01:15:26:20] Por isso que tem outras opções que quero mostrar aqui para vocês.
+[01:15:31:07 --> 01:15:31:18] Aqui.
+[01:15:33:21 --> 01:15:35:22] Depois que faz a bagunça tem que arrumar, né?
+[01:15:37:08 --> 01:15:38:12] E aí, agora, o que a gente vai fazer?
+[01:15:38:16 --> 01:15:39:20] Encontramos esse ponto aqui.
+[01:15:39:26 --> 01:15:43:22] Basicamente, agora, eu vou puxar daqui até essa linha.
+[01:15:45:10 --> 01:15:51:08] Tem que dar o caminho. Um jeito de fazer isso também é usando a caneta, que a caneta mostra a interseção.
+[01:15:51:24 --> 01:15:55:11] Depois eu puxo nessa daqui, a do meio, sempre a do meio, ó.
+[01:15:56:11 --> 01:15:57:07] Essa do meio aqui.
+[01:15:59:08 --> 01:16:00:02] Essa do meio aqui.
+[01:16:01:10 --> 01:16:03:16] E aí você tem exatamente aquela margem que eu tinha feito.
+[01:16:06:05 --> 01:16:10:01] Ela só não divide a página igual a outra, se você quiser ter um crit.
+[01:16:10:14 --> 01:16:11:05] Você pode dividi...
+[01:16:11:27 --> 01:16:12:26] Poxa, eu queria outra coisa.
+[01:16:13:06 --> 01:16:13:27] Quero apagar elas.
+[01:16:15:06 --> 01:16:16:21] vou colocar a senzinha bem clarinha.
+[01:16:18:22 --> 01:16:20:19] Isso também te ajuda a encontrar a margem.
+[01:16:20:27 --> 01:16:22:20] Tudo usando magia, né?
+[01:16:23:01 --> 01:16:24:10] A magia da geometria.
+[01:16:25:28 --> 01:16:30:00] Tem um videozinho da Disney disso, do pato Donald.
+[01:16:30:29 --> 01:16:33:23] E agora os grids digitais, que são mais básicos,
+[01:16:33:25 --> 01:16:36:16] a gente geralmente trabalha eles, principalmente nas colunas.
+[01:16:36:25 --> 01:16:39:16] Então aqui a gente tem um grid fixo digital que eu mostrei para vocês.
+[01:16:39:25 --> 01:16:40:19] Como é que ele funciona?
+[01:16:41:01 --> 01:16:44:06] A parte de dentro é fixa e aí eu posso organizar os elementos aqui.
+[01:16:44:07 --> 01:16:44:25] Como é que isso funciona?
+[01:16:44:27 --> 01:16:46:21] Eu posso colocar um banner aqui, por exemplo.
+[01:16:47:26 --> 01:16:51:06] Como se a gente estivesse montando uma página, como é que a gente utiliza ele.
+[01:16:51:12 --> 01:16:55:06] Coloco um banner aqui, aí eu posso colocar o texto lá dentro do banner.
+[01:17:00:25 --> 01:17:01:22] Prazer pra frente.
+[01:17:03:24 --> 01:17:05:07] como criar um grid.
+[01:17:08:03 --> 01:17:11:15] Você não necessariamente, dentro do banner, precisa acompanhar.
+[01:17:11:22 --> 01:17:13:10] Depende do tipo de banner que você vai fazer,
+[01:17:13:13 --> 01:17:14:22] mas aqui eu vou acompanhar,
+[01:17:15:00 --> 01:17:18:23] vou colocar Newerhouse Medium como título maior,
+[01:17:19:18 --> 01:17:21:06] aí o certo é seguir a lógica do...
+[01:17:21:06 --> 01:17:22:16] Aqui, coloquei 48 pixels.
+[01:17:23:08 --> 01:17:25:06] Segui a escala que você construiu,
+[01:17:25:14 --> 01:17:26:22] vou colocar um subtítulo aqui.
+[01:17:29:03 --> 01:17:31:01] Vou aumentar aqui também, olha.
+[01:17:31:19 --> 01:17:32:20] Isso aqui está com...
+[01:17:33:26 --> 01:17:35:16] Colocar 320 de altura.
+[01:17:36:17 --> 01:17:38:20] Está bem grande, mas é só para vocês utilizarem.
+[01:17:39:05 --> 01:17:40:06] Isso aqui eu vou colocar 20.
+[01:17:42:25 --> 01:17:45:12] E aí vou colocar a New House.
+[01:17:46:18 --> 01:17:47:01] regular.
+[01:17:51:01 --> 01:17:53:25] Aqui eu vou colocar CRI layouts.
+[01:17:55:11 --> 01:17:57:04] Ians, wassup, Banis?
+[01:17:58:21 --> 01:17:59:13] sonhava.
+[01:18:00:29 --> 01:18:01:15] Ahahah!
+[01:18:03:06 --> 01:18:05:19] que antes você apenas sonhava em criar.
+[01:18:05:29 --> 01:18:07:29] Tudo alinhado ali, por que eu vou alinhar aqui?
+[01:18:08:03 --> 01:18:10:16] Vocês vão ver como é que isso vai ficar interessante depois.
+[01:18:10:27 --> 01:18:13:17] E aí você vai criar um botão, o botão segue a mesma lógica.
+[01:18:13:18 --> 01:18:16:14] Inclusive a distância desses dois elementos também segue,
+[01:18:16:15 --> 01:18:20:24] eu vou colocar aqui, olha, com 16 a distância entre eles.
+[01:18:20:29 --> 01:18:21:28] O padito esse é 12.
+[01:18:23:16 --> 01:18:27:18] legal. E vou criar um botão. O botão, eu vou fazer ele com...
+[01:18:28:20 --> 01:18:36:00] 120 de largura por 80 de altura. Será que vai ficar bom? Não, ficou muito. 40 de largura
+[01:18:36:00 --> 01:18:37:02] ou até 64.
+[01:18:39:15 --> 01:18:41:24] 54 não, 56, 54 não está dentro.
+[01:18:43:03 --> 01:18:45:08] A proporção ainda ficou grande, né? 48.
+[01:18:47:05 --> 01:18:50:12] 48% e 20%, tá aí o botão.
+[01:18:51:18 --> 01:18:57:14] As proporções podem ser mais trabalhadas depois, isso aqui para um site está muito ruim, está muito grande.
+[01:18:57:17 --> 01:19:02:08] Se fosse um site real oficial e você colocasse na tela, você veria.
+[01:19:02:22 --> 01:19:05:12] 24, pode ser até... vou deixar 20.
+[01:19:06:00 --> 01:19:10:00] Porque como vocês estão vendo aí na tela, estou exagerando um pouquinho para vocês só visualizarem.
+[01:19:10:25 --> 01:19:16:20] E vamos colocar aqui os cantos arredondados. Até os cantos você arredonda eles seguindo a lógica.
+[01:19:16:22 --> 01:19:19:17] Vou colocar aqui 4 de arredondamento.
+[01:19:21:00 --> 01:19:22:10] Se eu tirar aqui agora...
+[01:19:23:18 --> 01:19:24:29] E aí aqui embaixo tem...
+[01:19:28:26 --> 01:19:29:22] Últimas...
+[01:19:32:04 --> 01:19:36:03] Notícias. É o que veio na minha cabeça. Últimas notícias.
+[01:19:38:04 --> 01:19:39:19] Vou colocar uma divisória aqui.
+[01:19:40:27 --> 01:19:41:11] E aí?
+[01:19:42:20 --> 01:19:43:26] Qual que é o lance aqui também?
+[01:19:45:23 --> 01:19:51:21] Tudo aqui precisa seguir a mesma distância, inclusive com esse eu vou fazer menos ainda.
+[01:19:52:22 --> 01:19:54:19] Coloquei 16, vou colocar 8.
+[01:19:59:01 --> 01:20:02:07] Tá aí oito, esse daqui com esse também eu vou colocar oito de distância.
+[01:20:04:19 --> 01:20:07:25] Aí o que você tem que pensar? Você tem que olhar também essa distância aqui.
+[01:20:07:25 --> 01:20:11:03] Eu não vou fazer isso agora não, porque já está estendendo bastante.
+[01:20:11:17 --> 01:20:17:18] Mas tem essa distância, você se preocupar para as duas distâncias estarem iguais.
+[01:20:17:26 --> 01:20:22:05] Outra coisa, eu estou fazendo isso aqui no Illustrator, faça no UXG que você vai ter menos trabalho.
+[01:20:22:26 --> 01:20:23:20] Vai ser muito mais fácil.
+[01:20:24:03 --> 01:20:26:19] Então olhar a distância de cima e de baixo, eu não vou olhar aqui agora não.
+[01:20:28:09 --> 01:20:30:07] que eu quero só exemplificar para vocês, tá?
+[01:20:31:12 --> 01:20:32:19] E aqui vêm os posts, olha.
+[01:20:35:02 --> 01:20:36:15] O que aconteceu aqui?
+[01:20:37:04 --> 01:20:39:03] Eu ignorei esses dois aqui.
+[01:20:39:14 --> 01:20:40:09] O que eu posso fazer?
+[01:20:40:16 --> 01:20:42:12] Porque agora não está com 16, está com 14.
+[01:20:42:23 --> 01:20:43:25] E 14 não divide.
+[01:20:44:16 --> 01:20:46:10] Aí tem algumas coisas que podem ser feitas.
+[01:20:46:13 --> 01:20:48:25] Você pode ir contra o grid.
+[01:20:50:08 --> 01:20:52:04] Eu tenho comiço contra ele colocando.
+[01:20:53:25 --> 01:20:54:07] Deixa eu ver.
+[01:20:55:25 --> 01:20:58:00] Mas vai ficar o dobro de distância.
+[01:20:58:15 --> 01:21:01:00] Ou eu posso usar o grid principal também.
+[01:21:01:14 --> 01:21:02:14] Dá pra alinhar aqui.
+[01:21:03:06 --> 01:21:04:07] Resolve o problema, isso.
+[01:21:06:17 --> 01:21:08:05] Olha só como vai resolver o problema.
+[01:21:09:08 --> 01:21:11:25] 4, que vai ficar, vão ser muitos.
+[01:21:13:26 --> 01:21:14:08] Quatro.
+[01:21:16:27 --> 01:21:18:10] É, vamos por que tinha um grid aqui.
+[01:21:19:22 --> 01:21:20:19] dessa distância.
+[01:21:23:26 --> 01:21:26:15] Aqui eu tô fazendo fora dos valores.
+[01:21:26:25 --> 01:21:28:17] Eu sei, Ruana, você já repetiu isso 300 vezes,
+[01:21:28:19 --> 01:21:31:27] mas eu gosto de repetir 400 ao invés de 300,
+[01:21:32:00 --> 01:21:33:08] que aí fica na cabeça, entendeu?
+[01:21:35:27 --> 01:21:38:03] Tiro aqui e vou tirar aqui só para vocês visualizaram.
+[01:21:38:07 --> 01:21:40:19] Depois tiro o grid e olha lá, está montando o layout, está vendo?
+[01:21:41:02 --> 01:21:44:23] Fica muito mais fácil de trabalhar com os grids assim,
+[01:21:45:04 --> 01:21:48:20] principalmente as colunas quando nós vamos trabalhar as páginas, tá bom?
+[01:21:49:00 --> 01:21:51:11] E se você define as hierarquias é mais fácil ainda.
+[01:21:51:22 --> 01:21:54:25] Aqui tem um outro modelo que é em relação ao grid fluido também,
+[01:21:55:07 --> 01:21:57:23] mas a gente já criou em outros momentos, eu mostrei para vocês.
+[01:21:58:11 --> 01:22:00:02] Então está sucesso, né?

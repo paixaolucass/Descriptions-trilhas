@@ -1,0 +1,295 @@
+# Video: 7._apresentando_o_gemini_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 09:50
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:05 --> 00:00:01:25] Chegou a hora de te apresentar o Gemini.
+[00:00:02:00 --> 00:00:04:27] Vai ser uma aula de visão geral para te mostrar a ferramenta.
+[00:00:04:27 --> 00:00:06:19] Você vai ver que não tem muito segredo aqui não,
+[00:00:06:23 --> 00:00:10:03] mas já vai ser uma apresentação bem legal para você entender como a ferramenta funciona,
+[00:00:10:12 --> 00:00:13:24] o que você pode fazer aqui dentro dela, quais são as diferenças do Gemini
+[00:00:13:24 --> 00:00:17:18] para outras LLMs como o GPT ou o Cloud.
+[00:00:17:24 --> 00:00:22:23] E nessa aula aqui nós vamos combar o Gemini com o ecossistema do Google.
+[00:00:22:29 --> 00:00:28:29] Então nós vamos falar de Gemini, AI Studio, Notebook LM e o seu Google Drive.
+[00:00:30:12 --> 00:00:33:02] Pega aí o café ou a água.
+[00:00:33:04 --> 00:00:33:23] Eu vou pegar a água aqui.
+[00:00:33:24 --> 00:00:34:14] Já começa a aula.
+[00:00:34:15 --> 00:00:35:12] Vamos beber na água já.
+[00:00:38:14 --> 00:00:39:09] E vamos começar isso aqui.
+[00:00:40:17 --> 00:00:48:06] Estou aqui então no Gemini, basicamente eu digitei gemini.google.com, não precisava ter isso aqui, é só gemini.google.com, isso vai cair aqui.
+[00:00:48:14 --> 00:00:52:07] É importante que você esteja logado na sua conta do Google.
+[00:00:52:24 --> 00:01:00:24] E aí essa aqui é a primeira área, não tem muito mistério, se você digitar aqui você conversa com ele, então, olá, estou conversando com ele, ele vai me responder, beleza.
+[00:01:01:11 --> 00:01:08:06] Aí eu posso curtir, não curtir, pedir para refazer, compartilhar, exportar, ou eu posso copiar, ouvir o que ele falou, checar a resposta.
+[00:01:08:06 --> 00:01:11:05] são padrões que a maioria das LLMs tem isso.
+[00:01:11:09 --> 00:01:13:29] Eu acabei nem trazendo isso em aulas do GPT, do Cloud,
+[00:01:14:02 --> 00:01:15:11] mas está aqui fácil para você usar.
+[00:01:15:22 --> 00:01:19:03] Só que, além disso, a gente tem no Gemini o Canvas,
+[00:01:19:11 --> 00:01:22:06] que é bem parecido com a lousa do ChatGPT
+[00:01:22:06 --> 00:01:25:20] e com o artefato do Cloud.
+[00:01:26:02 --> 00:01:28:06] Aqui, basicamente, ele vai criar um menu lateral.
+[00:01:28:11 --> 00:01:33:27] Quer ver? Olha, gere um briefing fictício de um...
+[00:01:36:10 --> 00:01:36:21] Happy?
+[00:01:41:04 --> 00:01:42:12] Do futuro para designers.
+[00:01:44:17 --> 00:01:45:15] se encontrarem.
+[00:01:46:21 --> 00:01:49:12] Criar em realidades paralelas.
+[00:01:50:10 --> 00:01:50:22] Beleza.
+[00:01:50:24 --> 00:01:52:01] Aí ele vai criar aqui para a gente.
+[00:01:52:06 --> 00:01:55:00] Então, vai pedir só um segundo para gerar o briefing fictício.
+[00:01:55:05 --> 00:01:56:04] Bom, colocou aqui.
+[00:01:56:09 --> 00:01:59:24] Ele tem alguns recursos semelhantes ao Google Doc,
+[00:02:00:00 --> 00:02:02:27] só que eu quero mostrar para vocês outras possibilidades bem legais.
+[00:02:02:29 --> 00:02:04:20] Que quando você está conectado na sua conta Google,
+[00:02:05:03 --> 00:02:07:24] principalmente se você usa o Workspace ou assina o Google,
+[00:02:07:25 --> 00:02:08:20] fica melhor ainda.
+[00:02:09:03 --> 00:02:10:24] Aqui na Uberlândia a gente utiliza o Workspace,
+[00:02:10:29 --> 00:02:13:25] então todo mundo da equipe tem acesso a essa ferramenta.
+[00:02:13:26 --> 00:02:14:15] Você pode vir aqui.
+[00:02:14:21 --> 00:02:16:05] Eu estou na minha conta pessoal, tá?
+[00:02:16:05 --> 00:02:20:08] Eu não vou nem no drive, não sei lá o que tem ali no drive da conta pessoal.
+[00:02:20:22 --> 00:02:21:28] Eu vou direto aqui no dock.
+[00:02:23:26 --> 00:02:26:18] E eu consigo utilizar o Gemini aqui dentro também.
+[00:02:26:27 --> 00:02:29:10] Então, ele interage com essas ferramentas.
+[00:02:29:10 --> 00:02:32:05] E essa integração do Google é a principal vantagem dele,
+[00:02:32:10 --> 00:02:35:22] além da janela de contexto de 1 milhão de tokens
+[00:02:35:22 --> 00:02:38:17] ou até 2 milhões de tokens, dependendo do modelo de ar.
+[00:02:38:21 --> 00:02:41:12] Então, olha, eu posso chegar nele aqui e fazer um teste.
+[00:02:44:04 --> 00:02:46:15] Ah, tá. Tá vendo aqui, ó. Eu preciso fazer a assinatura.
+[00:02:46:27 --> 00:02:48:13] Um real primeiro mês, depois 96.
+[00:02:48:16 --> 00:02:56:00] Só que esse 96 inclui o Gemini com todos os modelos, em todas as ferramentas do Google.
+[00:02:56:06 --> 00:02:58:24] Pra mostrar pra vocês, né, eu tô aqui no gratuito, eu vou...
+[00:02:58:24 --> 00:03:04:12] Eu falei que eu ia fazer no gratuito, mas eu tenho aqui também o pago, né.
+[00:03:04:13 --> 00:03:07:27] E aí aqui eu consigo mostrar pra vocês. Por exemplo, eu entro aqui no Google Docs.
+[00:03:08:16 --> 00:03:11:06] Eu posso criar um direto aqui também, né, documento.
+[00:03:13:28 --> 00:03:15:09] E aí aqui eu consigo utilizar ele.
+[00:03:15:11 --> 00:03:19:16] O legal é que eu posso ir conversando com ele e pedir para ele trabalhar no documento para mim.
+[00:03:19:16 --> 00:03:22:02] Eu vou trazer o Google Sheet também, que é um que eu uso bastante.
+[00:03:22:18 --> 00:03:25:22] E é um que as pessoas geralmente olham e falam, caraca, ele pode fazer isso?
+[00:03:26:02 --> 00:03:27:27] Cara, ele pode fazer isso.
+[00:03:28:07 --> 00:03:30:24] Então vamos supor que eu estou aqui nele, eu posso pedir para ele organizar.
+[00:03:30:25 --> 00:03:33:03] Olha, crie uma tabela.
+[00:03:34:22 --> 00:03:40:04] de raças de gatos exóticas.
+[00:03:40:21 --> 00:03:46:06] Você pode organizar a tabela do jeito que achar.
+[00:03:48:22 --> 00:03:50:22] Melhor, me surpreenda.
+[00:03:50:22 --> 00:03:51:17] Só para a gente...
+[00:03:53:07 --> 00:03:55:24] Visualizar isso aqui um pouquinho, ele vai gerar a tabela para a gente.
+[00:03:57:04 --> 00:03:59:24] E aí eu posso pedir para ele editar a tabela aqui para mim.
+[00:04:00:06 --> 00:04:02:29] Ele gera aqui, olha só, já está criando aqui dentro para a gente.
+[00:04:03:01 --> 00:04:05:04] Então, Sphinx Canadá vai criando a tabela toda aqui.
+[00:04:05:09 --> 00:04:07:19] E depois eu posso clicar em inserir.
+[00:04:07:22 --> 00:04:08:29] Agora eu tenho a tabela aqui.
+[00:04:09:07 --> 00:04:12:06] E eu posso pedir para ele editar, adicionar, né?
+[00:04:13:13 --> 00:04:14:25] Adicione mais raças.
+[00:04:15:19 --> 00:04:18:00] Ele vai trabalhar dentro da tabela para a gente.
+[00:04:18:00 --> 00:04:19:09] Então, essa...
+[00:04:21:14 --> 00:04:25:18] interação com as ferramentas é bem interessante, ele até melhorou aqui um pouco mais.
+[00:04:31:02 --> 00:04:33:14] Hum, adicionei ela do jeito errado.
+[00:04:35:11 --> 00:04:35:25] De novo.
+[00:04:37:16 --> 00:04:40:01] Então essa interação, para mim, é uma das vantagens legais.
+[00:04:40:01 --> 00:04:41:07] Olha só, escreva.
+[00:04:42:28 --> 00:04:48:19] Um conto de ficção científica da Chapeuzinho Vermelho.
+[00:04:57:09 --> 00:04:58:14] Vastidão intergaláctica.
+[00:05:00:08 --> 00:05:01:12] Ele está escrevendo o conto aqui.
+[00:05:01:26 --> 00:05:03:25] E depois, se eu quiser, eu posso pedir ele para...
+[00:05:03:25 --> 00:05:05:01] Vamos ver se ele vai inserir direto.
+[00:05:05:04 --> 00:05:05:23] Aqui, ó. Inserir.
+[00:05:06:09 --> 00:05:07:12] Aí, agora eu tenho isso aqui.
+[00:05:07:15 --> 00:05:11:05] E eu posso selecionar, editar, pedir para ele conversar comigo, me sugerir.
+[00:05:11:17 --> 00:05:14:22] Vou criar uma documentação toda usando a própria IA aqui.
+[00:05:14:24 --> 00:05:16:18] No caso, o Gemini.
+[00:05:16:29 --> 00:05:18:14] O que ele ainda peca, tá?
+[00:05:18:15 --> 00:05:19:20] Que eu sinto falta aqui.
+[00:05:19:23 --> 00:05:21:28] Eu sinto falta de escolher o modelo que eu estou usando.
+[00:05:22:00 --> 00:05:23:29] Ele não me deixa escolher quando eu estou aqui.
+[00:05:24:12 --> 00:05:26:05] Talvez em alguma configuração que eu ainda não sei.
+[00:05:26:07 --> 00:05:27:24] Quem souber pode me mandar uma mensagem.
+[00:05:28:04 --> 00:05:28:18] Olha só.
+[00:05:29:05 --> 00:05:29:26] Colocou tudo aí.
+[00:05:29:26 --> 00:05:38:20] Ah, tá. Como eu tinha selecionado aqui, ele fez a partir da célula que eu adicionei, tá?
+[00:05:38:26 --> 00:05:41:06] Então, tem que tomar cuidado com isso.
+[00:05:41:20 --> 00:05:43:02] Funciona com outros também, tá?
+[00:05:43:08 --> 00:05:44:11] Deixa eu pegar aqui um.
+[00:05:45:22 --> 00:05:47:05] Eu acho que formulários não.
+[00:05:47:13 --> 00:05:48:19] Vamos ver se ele tem aqui.
+[00:05:48:24 --> 00:05:49:24] Se já adicionaram.
+[00:05:50:00 --> 00:05:50:06] É.
+[00:05:51:00 --> 00:05:52:00] Formulários ainda não tem.
+[00:05:52:15 --> 00:05:54:05] Esse é muito bom se tivesse.
+[00:05:54:21 --> 00:05:56:22] Mas tem aqui também apresentações.
+[00:05:56:22 --> 00:05:58:11] Deixa eu ver se apresentações tem.
+[00:05:59:19 --> 00:06:00:19] Apresentações eu acho que tem.
+[00:06:01:06 --> 00:06:01:21] Aqui, ó.
+[00:06:01:23 --> 00:06:02:10] Apresentações tem.
+[00:06:04:25 --> 00:06:16:28] gere uma apresentação sobre como criar agentes de IA no IA Studio do Google nossa escrevi tudo
+[00:06:16:28 --> 00:06:22:14] errado mas vai ser mesmo ele já era apresentação e a gente pode partir do que ele gerou como se
+[00:06:22:14 --> 00:06:27:06] fosse um PowerPoint com IA essa é uma vantagem do Gemini que eu não podia deixar de falar não
+[00:06:27:06 --> 00:06:32:22] é exatamente aqui dentro do Gemini as pessoas acham que o Gemini tá só aqui mas não é então
+[00:06:32:22 --> 00:06:33:27] Então, esse já é um ponto legal.
+[00:06:34:00 --> 00:06:34:27] Ele já começou a criar.
+[00:06:36:12 --> 00:06:37:11] Aí eu clico em inserir.
+[00:06:38:18 --> 00:06:39:21] E posso ir montando com ele.
+[00:06:39:22 --> 00:06:41:09] Ele colocou um slide só, está bem ruim.
+[00:06:41:12 --> 00:06:42:27] Não é a melhor IA para apresentação.
+[00:06:42:27 --> 00:06:45:15] Eu só estou mostrando para vocês que essa possibilidade existe.
+[00:06:45:19 --> 00:06:47:13] Com certeza ela vai evoluir mais.
+[00:06:47:24 --> 00:06:50:21] E um dos melhores também é no Google Meet.
+[00:06:50:25 --> 00:06:52:24] Porque eles estão investindo bastante no Google Meet.
+[00:06:53:12 --> 00:06:57:00] E agora, quando você entra no Google Meet, entra em uma reunião aqui, por exemplo.
+[00:07:01:00 --> 00:07:02:01] Entrei na reunião aqui.
+[00:07:02:15 --> 00:07:04:04] Eu tenho algumas ferramentas.
+[00:07:04:04 --> 00:07:07:04] E ele tem essa anotação do Gemini.
+[00:07:07:13 --> 00:07:10:00] Eles ainda precisam trabalhar em muita coisa aqui, tá?
+[00:07:10:02 --> 00:07:12:02] Eu prefiro usar o Zoom ou o Faton.
+[00:07:12:12 --> 00:07:16:09] A anexia fica no Faton, mas dá pra transcrever direto aqui também.
+[00:07:17:04 --> 00:07:19:00] E pode quebrar um galho, né?
+[00:07:19:04 --> 00:07:20:15] Dependendo do que vocês estiverem fazendo.
+[00:07:20:23 --> 00:07:24:27] O legal é que se vocês tiverem workspace, ele vai salvando tudo no Drive pra todo mundo, organizado.
+[00:07:24:28 --> 00:07:25:12] Fica bem legal.
+[00:07:26:09 --> 00:07:27:07] Voltando pra cá, então.
+[00:07:28:23 --> 00:07:31:26] Vamos trabalhar aqui então com o Gemini e a parte da LLM mesmo.
+[00:07:32:06 --> 00:07:37:26] Nós temos tanto essa parte aqui do Gemini quanto o AI Studio do Google.
+[00:07:39:06 --> 00:07:42:11] No caso do Gemini, eu gosto porque tem alguns recursos aqui legais.
+[00:07:42:11 --> 00:07:47:14] Por exemplo, você pode pedir para ele streamar a tela junto com você.
+[00:07:47:18 --> 00:07:49:10] Então, você faz um share screen para ele.
+[00:07:49:11 --> 00:07:50:03] Olha só que interessante.
+[00:07:50:20 --> 00:07:52:17] Eu vou compartilhar a tela aqui com ele.
+[00:07:53:05 --> 00:07:54:26] E aí, eu falo para ele o seguinte, olha.
+[00:07:54:29 --> 00:07:56:11] Ele está me ouvindo aqui.
+[00:07:56:21 --> 00:07:57:23] E aí, eu falo com ele.
+[00:07:58:00 --> 00:07:59:26] E aí, Gemini, tudo bem?
+[00:07:59:27 --> 00:08:04:27] Eu preciso da sua ajuda para mostrar para as pessoas como utilizar o Gemini Advanced.
+[00:08:06:14 --> 00:08:07:08] Ele está vendo.
+[00:08:09:18 --> 00:08:12:28] tanto mudar as vozes aqui, que ele está em inglês, deixa eu ver aqui uma coisa.
+[00:08:14:23 --> 00:08:16:28] E aí, Gemini, tudo bem? Sua voz melhorou agora?
+[00:08:18:01 --> 00:08:21:13] Olá, tudo bem por aqui? Você acha que a minha voz melhorou?
+[00:08:22:17 --> 00:08:24:20] Ah, já melhorou? Cara, já ficou bem melhor.
+[00:08:24:22 --> 00:08:28:02] Eu quero que você me ajude a navegar aqui pelo Google AI Studio.
+[00:08:28:23 --> 00:08:32:09] Mostre-me onde eu preciso clicar, o que eu posso fazer aqui dentro.
+[00:08:33:21 --> 00:08:35:05] Que bom que minha voz está melhor.
+[00:08:35:11 --> 00:08:37:28] Para te ajudar a navegar no Google A.A. Studio,
+[00:08:38:08 --> 00:08:42:17] você gostaria de saber para que servem as opções do menu lateral esquerdo?
+[00:08:43:09 --> 00:08:45:07] Sim, pode me contar aí para que serve.
+[00:08:46:24 --> 00:08:50:06] Claro! No menu lateral esquerdo, você tem as seguintes opções.
+[00:08:50:11 --> 00:08:55:21] Chat, Stream, Video Jam, Starter Apps, History e Enable Save.
+[00:08:55:29 --> 00:08:59:29] Gostaria de saber para que serve alguma dessas opções em específico?
+[00:09:01:02 --> 00:09:03:21] Sim, gostaria. Vamos começar pelo chat?
+[00:09:07:20 --> 00:09:09:12] Eu fechei ele, não era pra eu ter fechado ele não.
+[00:09:09:25 --> 00:09:13:09] Tem uma coisa legal que é bom de falar aqui do estúdio, que é o quê?
+[00:09:13:18 --> 00:09:15:23] O estúdio, ele não guarda as conversas.
+[00:09:15:23 --> 00:09:17:26] Ele é estúdio, ele é pra você experimentar mesmo.
+[00:09:18:14 --> 00:09:19:12] Então, ele não guarda.
+[00:09:19:12 --> 00:09:23:11] O ideal é, você pode abrir outra aba e deixar ele ali.
+[00:09:26:27 --> 00:09:28:02] E aí Gemini, tudo bem?
+[00:09:29:24 --> 00:09:32:01] Olá, tudo bem por aqui? E como vou-te?
+[00:09:33:19 --> 00:09:36:20] Comigo também? Deixa eu mudar aqui, você está em inglês, espera aí.
+[00:09:40:20 --> 00:09:41:25] A última vez que eu usei...
+[00:09:43:01 --> 00:09:45:00] Eu estava fazendo vários testes nele aqui dentro.
+[00:09:45:17 --> 00:09:47:03] Eu esqueci de trocar a linguagem.
+[00:09:47:03 --> 00:09:49:24] Eu falo, nossa, vou pedir para ele conversar comigo em inglês.
+[00:09:49:24 --> 00:09:51:23] Aí eu estava tentando conversar com ele em inglês, né?
+[00:09:52:06 --> 00:09:53:13] O inglês enferrujado.
+[00:09:53:17 --> 00:09:55:08] Mas ficou melhor do que o português.
+[00:09:55:09 --> 00:09:57:02] Aqui já estava funcionando.
+[00:09:58:08 --> 00:09:59:21] Então, beleza. Estou com o Gemini.
+[00:09:59:22 --> 00:10:02:12] Gemini, vamos navegar um pouco aqui dentro do Gemini Advanced.
+[00:10:02:18 --> 00:10:06:00] Ou melhor, vamos navegar aqui no Google AI Studio.
+[00:10:06:01 --> 00:10:09:10] Eu vou carregar ele aqui e eu quero que você me explique como funciona.
+[00:10:09:15 --> 00:10:10:16] Vamos começar nessa parte aqui.
+[00:10:13:08 --> 00:10:17:26] O vídeo mostra você abrindo o Google AA Studio e clicando na opção de chat.
+[00:10:18:05 --> 00:10:22:20] Você gostaria que eu explicasse como funciona essa parte do Google AA Studio?
+[00:10:24:08 --> 00:10:27:03] Sim, me explica esse menu lateral direito aqui, por favor.
+[00:10:28:21 --> 00:10:35:11] Claro! No menu lateral direito, você pode ajustar as configurações do modelo Gemini, como a versão, a temperatura,
+[00:10:36:07 --> 00:10:42:16] e também usar ferramentas como saída estruturada, execução de código, chamada de função e pesquisa no Google.
+[00:10:42:23 --> 00:10:45:20] Gostaria de saber mais sobre alguma dessas configurações?
+[00:10:46:14 --> 00:10:51:20] Meu Deus, eu estou perdido, eu não entendo nada disso aqui, por favor, me ajuda! O que é temperatura? Meu Deus!
+[00:10:54:17 --> 00:10:58:05] A temperatura é uma configuração que controla a aleatoriedade do modelo.
+[00:10:58:22 --> 00:11:03:04] Valores mais baixos tornam as respostas mais determinísticas e previsíveis,
+[00:11:03:08 --> 00:11:07:23] enquanto valores mais altos as tornam mais criativas e surpreendentes.
+[00:11:07:27 --> 00:11:10:20] Gostaria de saber mais sobre outras configurações?
+[00:11:12:10 --> 00:11:16:04] Ah, sim. Me explica aí o que é Structured Output.
+[00:11:18:24 --> 00:11:30:08] Saída estruturada permite que você defina um formato específico para a resposta do modelo, como JSON ou CSV, facilitando a integração com outros sistemas ou aplicativos.
+[00:11:30:14 --> 00:11:33:08] Gostaria de explorar mais alguma das ferramentas?
+[00:11:34:16 --> 00:11:39:13] Não, eu gostaria que você me desse uma ideia de prompt, que seja um prompt disruptivo, emergente,
+[00:11:39:15 --> 00:11:43:13] que a maioria das pessoas nem sequer pensam em realizar esse tipo de prompt.
+[00:11:45:27 --> 00:11:49:24] Que tal um prompt que peça ao Gemini para criar um novo sistema de leis para regular
+[00:11:49:24 --> 00:11:54:09] a inteligência artificial, que proteja os direitos humanos e promova o bem comum?
+[00:11:57:02 --> 00:12:00:09] Legal, escreve isso pra mim aí, porque eu não quero copiar aqui não, vou ter que escrever tudo.
+[00:12:02:02 --> 00:12:07:09] Sem problemas. O prompt é, crie um novo sistema de leis para regular a inteligência artificial.
+[00:12:07:23 --> 00:12:10:16] Agora, o que você pretende fazer com este prompt?
+[00:12:12:19 --> 00:12:13:26] Eu só colei aqui, tá vendo?
+[00:12:16:19 --> 00:12:19:01] Estou vendo. Você quer que eu execute o prompt para você?
+[00:12:20:10 --> 00:12:22:06] Não, eu já executei aqui na aba lateral.
+[00:12:22:08 --> 00:12:26:23] Eu quero que você preste bastante atenção aqui na resposta que o Gemini vai trazer.
+[00:12:26:25 --> 00:12:28:17] Eu quero que você leia ela para mim.
+[00:12:28:19 --> 00:12:30:10] Mas deixa que ele está pensando aqui um pouco.
+[00:12:30:17 --> 00:12:31:20] Eu deixei no Gemini.
+[00:12:31:24 --> 00:12:33:06] Olha só, lê para mim aqui, por favor.
+[00:12:35:04 --> 00:12:39:02] Claro. O Gemini diz, ok, vamos criar um esboço para um novo sistema de leis
+[00:12:39:02 --> 00:12:41:04] para regular a inteligência artificial no Brasil,
+[00:12:41:24 --> 00:12:46:13] inspirado em abordagens globais, mas com foco nas necessidades e contexto brasileiro.
+[00:12:46:14 --> 00:12:51:05] Chamaremos esta proposta de Lei Marco da Inteligência Artificial e Direitos Digitais.
+[00:12:51:06 --> 00:12:54:05] Tá bom, tá bom, pode parar de falar. Não, não, pode parar. Tá bom.
+[00:12:54:06 --> 00:12:56:22] Tá ótimo, brigadão, valeu pela sua presença aí, Gemini.
+[00:12:57:00 --> 00:12:58:18] A gente gostou muito, até mais, tchau.
+[00:12:59:10 --> 00:13:00:23] Legal, né? Olha só que interessante.
+[00:13:00:23 --> 00:13:03:02] interessante. Então, cada ferramenta
+[00:13:03:02 --> 00:13:03:29] ela vai trazer alguma
+[00:13:04:15 --> 00:13:06:18] coisa diferente. O legal do Google AI Studio
+[00:13:07:06 --> 00:13:08:27] é que ele tem ferramentas
+[00:13:08:27 --> 00:13:10:00] que as outras também não tem.
+[00:13:10:11 --> 00:13:12:09] Porque se eu fosse só trazer aqui pra vocês,
+[00:13:12:11 --> 00:13:14:20] ah, dá pra subir arquivo, dá pra usar o Canva, vocês vão ver
+[00:13:14:20 --> 00:13:16:07] que aqui não tem
+[00:13:17:06 --> 00:13:18:16] muito segredo em cima disso.
+[00:13:18:19 --> 00:13:20:06] Olha só, eu escolho o modelo aqui.
+[00:13:20:15 --> 00:13:22:16] Como eu estou no Advanced, eu consigo usar o
+[00:13:22:16 --> 00:13:24:18] 2.5 Flash e 2.5 Pro,
+[00:13:24:22 --> 00:13:26:09] que são modelos muito bons,
+[00:13:26:15 --> 00:13:28:18] por sinal. E eu consigo usar
+[00:13:28:18 --> 00:13:30:02] aqui, Deep Research.
+[00:13:30:23 --> 00:13:37:21] E aí ele faz aquela pesquisa aprofundada, igual o Perplexity, igual o ChatGPT, igual o Cloud, por aí vai.
+[00:13:38:00 --> 00:13:41:17] E aí vocês começam a entender, né? Por que será que a galera assina várias IAs?
+[00:13:41:23 --> 00:13:45:27] Eu assino IA por projeto, de acordo com o que faz mais sentido para dentro de um projeto.
+[00:13:46:03 --> 00:13:50:21] Só é bom lembrar, de novo, que o estúdio é um estúdio, ele é para teste.
+[00:13:51:00 --> 00:13:54:08] Ele não vai salvar suas conversas. O que salva aqui é o Gemini.
+[00:13:54:15 --> 00:13:56:17] É bom levar isso em consideração, tá bom?
+[00:13:56:18 --> 00:13:58:06] Aqui é um lugar mais avançado.
+[00:13:58:06 --> 00:14:05:04] Então, assim como existe o Playground da OpenAI, existe o console do Cloud, existe também aqui o AI Studio.
+[00:14:05:10 --> 00:14:10:27] Só que o AI Studio traz alguns recursos que os outros não trazem, então eu não podia deixar de trazer aqui para vocês também.
+[00:14:11:07 --> 00:14:14:19] Dentro do Gemini, não tem muito segredo, você começa uma nova conversa aqui.
+[00:14:14:23 --> 00:14:22:24] Ele não tem sistema de pastas, mas você pode trabalhar com ele em áreas diferentes aqui também.
+[00:14:22:24 --> 00:14:28:17] você também e você pode trocar o modelo gerenciar os arquivos da conversa ou trabalhar com ele
+[00:14:28:17 --> 00:14:35:11] dentro das aplicações da Google nem todas vão funcionar né mas muitas delas funcionam e é bem
+[00:14:35:11 --> 00:14:40:06] legal por esse motivo ele tem um tipo de search que faz aquela pesquisa profunda que eu mostrei
+[00:14:40:06 --> 00:14:46:14] para vocês que o chat PT também tinha então dá para você fazer uma pesquisa avançada aqui né aça
+[00:14:48:22 --> 00:14:57:06] Uma pesquisa avançada sobre o uso de IDEs conectadas com LLMs.
+[00:14:57:07 --> 00:15:01:11] IDEs são sistemas de gerenciamento de código.
+[00:15:03:11 --> 00:15:04:29] Isso a gente vai ver em outras trilhas também.
+[00:15:05:23 --> 00:15:08:06] Aí eu pedi ele para fazer um Deep Research aqui.
+[00:15:08:09 --> 00:15:10:02] Ele vai fazer o Deep Research para a gente.
+[00:15:11:27 --> 00:15:13:11] E aí, tem que esperar, né?
+[00:15:13:13 --> 00:15:14:01] É o processo.
+[00:15:14:01 --> 00:15:15:17] Aqui ele está falando, olha, eu tenho isso aqui.
+[00:15:17:21 --> 00:15:21:08] Vou primeiro pesquisar, depois analisar o resultado, depois criar um relatório.
+[00:15:21:08 --> 00:15:21:23] É isso mesmo?
+[00:15:21:27 --> 00:15:23:14] Eu posso editar o plano aqui.
+[00:15:23:16 --> 00:15:24:19] Ele vai editar o plano para mim.
+[00:15:26:13 --> 00:15:28:03] E aí depois disso eu posso pedir ele para fazer.
+[00:15:28:17 --> 00:15:30:05] Ele colocou aqui cada passo.
+[00:15:30:22 --> 00:15:32:22] E perguntou que alterações eu quero fazer.
+[00:15:33:01 --> 00:15:34:18] Aí eu posso falar nenhuma.
+[00:15:36:18 --> 00:15:37:09] Tava brincando.
+[00:15:40:13 --> 00:15:42:16] Agora ele vai me pedir para começar de novo e vai mandar ver.
+[00:15:44:10 --> 00:15:45:11] Agora ele já foi direto.
+[00:15:45:24 --> 00:15:50:18] Então ele trouxe aqui o Canva, o Google chama de Canva.
+[00:15:50:18 --> 00:15:51:24] Cada um vai dar o seu nome.
+[00:15:52:03 --> 00:15:57:01] O GPT chama de Louza, o Gemini chama de Artefato, o Google chama de Canva.
+[00:15:57:03 --> 00:16:00:13] Aí eu posso ver o raciocínio dele, ver os sites que ele está pesquisando.
+[00:16:01:20 --> 00:16:02:19] É bem interessante também.
+[00:16:02:21 --> 00:16:05:19] Como a pesquisa vai demorar aqui, o foco é apresentar a ferramenta,
+[00:16:05:19 --> 00:16:12:17] a gente pode fechar essa aula sobre o Gemini aqui e ir para a próxima aula.
+[00:16:14:03 --> 00:16:15:02] Essa foi a nossa aula sobre o Gemini.
+[00:16:15:03 --> 00:16:18:08] Coloca aqui embaixo o que você achou dessa aula, inclusive, se você gostou ou não gostou.
+[00:16:18:11 --> 00:16:21:00] A gente se vê agora no próximo modelo. Bora lá!

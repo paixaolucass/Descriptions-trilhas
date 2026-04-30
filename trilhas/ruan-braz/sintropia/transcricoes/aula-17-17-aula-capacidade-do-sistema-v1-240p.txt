@@ -1,0 +1,506 @@
+# Video: 17._aula_-_capacidade_do_sistema_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 18:34
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:01 --> 00:00:04:19] Nós temos aqui, dívidas e feedbacks, eu vou explicar por último, deixa ali como conceitos.
+[00:00:04:24 --> 00:00:10:06] Primeiro eu quero que você entenda aqui que tem um input, lembra, todo sistema vai ter um estoque,
+[00:00:10:07 --> 00:00:14:02] tem as entradas e saídas, alguns sistemas não tem entradas, como o sistema de tempo,
+[00:00:14:03 --> 00:00:15:09] que a gente já viu na aula de tempo.
+[00:00:15:24 --> 00:00:19:08] Ele é um recurso que está acabando o tempo todo e não dá para adicionar mais tempo de vida ali.
+[00:00:20:19 --> 00:00:24:29] Dinheiro é bem diferente de tempo, porque dinheiro você consegue adicionar mais ali dentro.
+[00:00:25:12 --> 00:00:27:28] Pode ser por renda, mas renda não é o único jeito.
+[00:00:28:07 --> 00:00:33:03] Tem renda, investimentos, eu não coloquei aqui, mas poderia ter colocado venda,
+[00:00:33:23 --> 00:00:35:14] venda traz também input.
+[00:00:36:19 --> 00:00:42:18] Enfim, aqui eu coloquei conta corrente, que é o seu balde aqui onde você guarda,
+[00:00:42:18 --> 00:00:43:26] é o seu estoque de dinheiro.
+[00:00:45:15 --> 00:00:48:01] Uma coisa legal que eu quero falar aqui sobre esse estoque
+[00:00:48:01 --> 00:00:51:27] é que ter um estoque zero reais não é o pior cenário que você pode ter.
+[00:00:52:16 --> 00:00:53:29] Tem cenários bem piores.
+[00:00:54:17 --> 00:00:56:19] E aí eu quero que você pense nisso sobre a sua vida.
+[00:00:56:20 --> 00:00:58:26] Um dia você foi criança, você tinha um estoque zero reais.
+[00:00:58:29 --> 00:01:00:20] Você era adolescente, tinha um estoque zero reais.
+[00:01:00:24 --> 00:01:02:19] Você virou adulto e tinha um estoque zero reais.
+[00:01:03:03 --> 00:01:04:25] Não é ruim ter um estoque zero reais.
+[00:01:05:16 --> 00:01:09:08] Na verdade, é um cenário muito bom de começar se você tem direção e clareza.
+[00:01:09:23 --> 00:01:11:13] Está aqui, a riqueza está aqui.
+[00:01:12:04 --> 00:01:15:02] Se você tem direção e clareza, com zero reais você começa muito mal.
+[00:01:15:02 --> 00:01:17:00] muito melhor. Tem cenários
+[00:01:17:00 --> 00:01:18:19] que você começa a ser negativo, com dívidas.
+[00:01:19:29 --> 00:01:23:29] E muita gente está nesse cenário, e muitas vezes essas pessoas estão nesse cenário porque elas escolheram ruim.
+[00:01:25:24 --> 00:01:26:22] Mas vamos trazer isso aqui, ó.
+[00:01:26:27 --> 00:01:27:27] Eu tenho uma renda, então.
+[00:01:29:14 --> 00:01:32:12] Pega, eu não sei se vai dar pra ver ali na gravação, né?
+[00:01:32:13 --> 00:01:34:02] Porque eu tenho que configurar o mouse depois.
+[00:01:34:06 --> 00:01:34:21] Ah, apareceu.
+[00:01:35:01 --> 00:01:36:02] Então, eu tenho uma renda.
+[00:01:37:10 --> 00:01:41:07] Essa renda cai no meu estoque e sai para vários lugares.
+[00:01:42:27 --> 00:01:46:06] O mais básico é sair para despesas e gastos.
+[00:01:46:06 --> 00:01:47:09] Então, eu vou começar por aqui.
+[00:01:47:12 --> 00:01:50:09] Então, você ganhou mil reais e você gastou em despesas e gastos.
+[00:01:50:13 --> 00:01:52:20] Aqui é a primeira diferença que eu quero que você entenda.
+[00:01:52:27 --> 00:01:54:04] Gasto pode ser bom ou ruim.
+[00:01:54:10 --> 00:01:55:26] Aqui eu chamei de gasto passivo.
+[00:01:55:26 --> 00:01:59:11] Um gasto passivo é horrível, se você está pensando em riqueza, tá bom?
+[00:01:59:18 --> 00:02:01:14] Mas eu vou explicar para vocês esses pontos aqui.
+[00:02:01:17 --> 00:02:03:18] Primeiro ponto, despesas neutras.
+[00:02:03:21 --> 00:02:04:23] É o que te mantém vivo.
+[00:02:05:08 --> 00:02:07:09] Isso aqui é natural, você precisa disso.
+[00:02:07:15 --> 00:02:09:13] Então, parte do seu dinheiro vai para ali.
+[00:02:09:16 --> 00:02:11:04] Às vezes, seu dinheiro todo está indo para ali.
+[00:02:11:09 --> 00:02:11:29] Mas é o quê?
+[00:02:11:29 --> 00:02:19:19] O que você come, moradia e recursos básicos de água, de saneamento.
+[00:02:20:08 --> 00:02:22:22] Recursos básicos a gente coloca aqui em despesas.
+[00:02:22:25 --> 00:02:24:27] Nós temos também gastos passivos.
+[00:02:24:27 --> 00:02:27:18] Esse aqui, quando você não tem riqueza ainda,
+[00:02:28:07 --> 00:02:31:04] é um dos maiores erros que a maioria das pessoas cometem.
+[00:02:32:01 --> 00:02:35:07] Gastos passivos é tudo aquilo que nós podemos chamar de vazamentos,
+[00:02:35:10 --> 00:02:38:13] onde você gastou dinheiro e não devolveu dinheiro para você
+[00:02:38:13 --> 00:02:40:24] e nem serviu para manter o sistema vivo.
+[00:02:41:11 --> 00:02:42:14] foi só algo
+[00:02:42:14 --> 00:02:44:15] momentâneo ali, que você gastou
+[00:02:44:15 --> 00:02:46:11] o dinheiro, ele é passivo
+[00:02:46:11 --> 00:02:48:14] então, ele não gera mais retorno
+[00:02:48:14 --> 00:02:50:01] pra você, e ele também não
+[00:02:50:01 --> 00:02:52:08] é o mínimo de sobrevivência, ele é um
+[00:02:52:08 --> 00:02:54:06] excedente que você gastou, então vamos supor que
+[00:02:54:06 --> 00:02:56:00] eu ganho 2 mil reais por mês
+[00:02:56:00 --> 00:02:58:17] e aí eu gastei, eu tive despesas
+[00:02:58:17 --> 00:03:00:01] neutras ali, de
+[00:03:00:01 --> 00:03:02:08] 1.800 reais, só que
+[00:03:02:08 --> 00:03:04:08] desses 1.800 reais, 200 reais ali
+[00:03:04:08 --> 00:03:05:24] foram gastos passivos
+[00:03:05:24 --> 00:03:07:25] o que que são gastos passivos?
+[00:03:08:05 --> 00:03:10:03] desde, ah, eu comprei
+[00:03:10:03 --> 00:03:13:13] uma bolsa pra mim, mais bonita,
+[00:03:14:02 --> 00:03:15:22] eu comprei uma maquiagem,
+[00:03:15:25 --> 00:03:17:16] eu assinei
+[00:03:17:16 --> 00:03:19:12] a Netflix no plano Full HD
+[00:03:19:12 --> 00:03:20:17] 59 reais,
+[00:03:21:10 --> 00:03:23:04] eu comprei um videogame,
+[00:03:24:02 --> 00:03:25:18] eu saí pra passear
+[00:03:25:18 --> 00:03:27:18] e aí comprei
+[00:03:27:18 --> 00:03:29:18] algumas coisas pra mim, comprei uns chaveirinhos,
+[00:03:29:21 --> 00:03:31:07] comprei uma mochila, comprei
+[00:03:31:07 --> 00:03:32:29] um celular novo melhor,
+[00:03:34:00 --> 00:03:35:13] tudo isso, ó, essas coisas
+[00:03:35:13 --> 00:03:37:19] todas, claro, nada de Scobie nos 200 reais,
+[00:03:37:22 --> 00:03:39:15] né, eu tô construindo um conceito aqui,
+[00:03:39:15 --> 00:03:40:02] mas
+[00:03:41:10 --> 00:03:43:00] Fazer vocês começarem a pensar sobre isso.
+[00:03:44:02 --> 00:03:47:26] Aquilo é algo que mantém o meu sistema vivo?
+[00:03:49:19 --> 00:03:51:00] É algo que traz algum retorno para mim?
+[00:03:51:02 --> 00:03:51:06] Não.
+[00:03:51:09 --> 00:03:52:10] Então é gasto passivo.
+[00:03:52:13 --> 00:03:53:27] Ah, mas isso traz minha felicidade.
+[00:03:53:27 --> 00:03:55:26] Mas é o único jeito de trazer sua felicidade?
+[00:03:56:06 --> 00:03:59:00] Seja sincero e sincera com você mesmo.
+[00:03:59:04 --> 00:04:00:01] É o único jeito?
+[00:04:00:01 --> 00:04:02:07] Você realmente tinha que comprar aquilo?
+[00:04:04:02 --> 00:04:09:12] Se você responder sim para isso, você tem um problema que é mais psicológico mesmo,
+[00:04:09:14 --> 00:04:11:08] e eu falo isso no sentido de que é bom procurar ajuda.
+[00:04:11:18 --> 00:04:15:13] Às vezes você tem um vício em gastar, e aí você precisa procurar ajuda para isso.
+[00:04:15:29 --> 00:04:20:04] Estou falando, não é para te denegrir, nada disso, é falando na realidade mesmo.
+[00:04:20:05 --> 00:04:24:20] Tem muitas pessoas que não conseguem porque tem um vício em gastar,
+[00:04:24:20 --> 00:04:28:05] e aí vai gastar com passivo, vai acumulando ali gasto errado.
+[00:04:28:29 --> 00:04:33:19] Mas para as pessoas que não têm isso, a maioria das pessoas não vão estar exatamente nesse nível,
+[00:04:34:25 --> 00:04:38:27] você consegue ser sincera e sincera com você mesmo e dizer quais são gastos passivos.
+[00:04:38:29 --> 00:04:44:20] Tudo que não é necessário para manter o sistema vivo e que não traz retorno é gasto passivo.
+[00:04:45:29 --> 00:04:53:13] Aí beleza, algumas pessoas começam a fazer, a guiar o fluxo do dinheiro para outras direções.
+[00:04:53:20 --> 00:05:00:04] Vamos supor, por exemplo, que eu guie esse fluxo do dinheiro, por exemplo, para reserva.
+[00:05:01:11 --> 00:05:06:22] Então, eu entendo assim, olha, eu gasto 3 mil reais por mês para poder viver.
+[00:05:07:12 --> 00:05:09:14] E eu ganho 4 mil reais por mês.
+[00:05:09:20 --> 00:05:14:06] Então, eu vou pegar esses meus mil reais e eu vou guardar para montar uma reserva.
+[00:05:15:03 --> 00:05:18:12] Reserva não serve para ser usada e ela não serve para ir para outro lugar.
+[00:05:18:14 --> 00:05:24:11] Repara aqui, o ideal não é tirar dinheiro da reserva para pagar gasto, tirar dinheiro da reserva para pagar despesa.
+[00:05:24:16 --> 00:05:27:22] O dinheiro da reserva serve para ficar ali e para não ser gasto.
+[00:05:28:08 --> 00:05:30:24] Ele é um dinheiro que tem uma função psicológica
+[00:05:30:24 --> 00:05:32:02] e de segurança para você.
+[00:05:32:11 --> 00:05:34:17] Ele é bem relacionado com proteção aqui,
+[00:05:34:19 --> 00:05:36:26] só que tem uma diferença dessa gestão de risco
+[00:05:36:26 --> 00:05:38:09] para essa reserva, por isso que eu coloquei diferente.
+[00:05:39:07 --> 00:05:40:24] E é a primeira coisa que eu recomendo
+[00:05:40:24 --> 00:05:43:03] para pessoas que querem buscar uma antifragilidade financeira.
+[00:05:44:15 --> 00:05:47:11] juntar um dinheiro para que você consiga guardar esse dinheiro para que,
+[00:05:47:15 --> 00:05:50:15] num cenário de entropia, se mês que vem você não ganhar nada,
+[00:05:50:23 --> 00:05:54:27] aí sim você pode usar essa reserva para despesas neutras.
+[00:05:54:28 --> 00:05:58:02] Você não usa reserva, de novo, para gastos passivos.
+[00:05:59:13 --> 00:06:00:12] Nossa, precisei.
+[00:06:00:12 --> 00:06:02:03] A primeira coisa que você tem que fazer é o seguinte,
+[00:06:02:06 --> 00:06:05:16] sua reserva começou a ser consumida ali.
+[00:06:05:22 --> 00:06:06:27] Está dissolvendo, está sangrando.
+[00:06:08:05 --> 00:06:11:02] Pensando sistemicamente, qual é a primeira coisa que você tem que fazer?
+[00:06:11:14 --> 00:06:16:10] Cortar todos os gastos passivos e usar reservas só para despesa neutra.
+[00:06:17:11 --> 00:06:18:12] Mas o que as pessoas fazem
+[00:06:18:12 --> 00:06:19:17] quando a reserva começa a sangrar?
+[00:06:20:02 --> 00:06:21:17] Mantém os custos todos.
+[00:06:21:26 --> 00:06:22:18] Então, mantém aqui.
+[00:06:22:23 --> 00:06:23:29] Custos não, custo é outra coisa.
+[00:06:24:09 --> 00:06:25:26] Mantém gastos e despesas todos.
+[00:06:25:29 --> 00:06:27:05] Então, não cancela a Netflix,
+[00:06:27:14 --> 00:06:28:23] não cancela os videogames,
+[00:06:28:26 --> 00:06:31:27] não cancela os passeios excedentes ali,
+[00:06:31:29 --> 00:06:32:25] não cancela nada disso.
+[00:06:33:00 --> 00:06:34:04] Não pensa de um jeito inteligente.
+[00:06:34:08 --> 00:06:35:24] Nossa, Juan, mas eu vou deixar de ser feliz?
+[00:06:36:00 --> 00:06:38:05] Não precisa, isso é uma preguiça equivocada.
+[00:06:38:11 --> 00:06:39:14] Você não consegue, por exemplo,
+[00:06:39:14 --> 00:06:41:04] ao invés de ir num shopping gastar,
+[00:06:41:24 --> 00:06:43:11] ir caminhar numa praça com seus amigos,
+[00:06:43:16 --> 00:06:45:05] com a sua família, com alguém que você ama,
+[00:06:45:18 --> 00:06:46:15] sair pra passear,
+[00:06:46:15 --> 00:06:48:14] ao invés de gastar 200 reais num jantar,
+[00:06:48:14 --> 00:06:50:23] gasta 20 reais num açaí.
+[00:06:50:23 --> 00:06:52:05] Seja feliz de um outro jeito.
+[00:06:52:05 --> 00:06:53:02] É um momento.
+[00:06:53:14 --> 00:06:55:24] Pra você não ter que viver assim pro resto da sua vida.
+[00:06:55:29 --> 00:06:56:24] Vive assim um pouquinho.
+[00:06:57:03 --> 00:06:59:05] Não precisa deixar de ser feliz pra fazer isso.
+[00:07:00:14 --> 00:07:04:05] Mas se você não faz, você vai cair na espiral do desespero.
+[00:07:05:19 --> 00:07:07:01] Você vai corroer a sua reserva rápido.
+[00:07:07:22 --> 00:07:10:01] Mas vamos continuar pensando nesse sistema aqui.
+[00:07:10:07 --> 00:07:14:09] Então, estou com a minha conta corrente, está vazando aqui despesa, está vazando gastos.
+[00:07:14:18 --> 00:07:18:18] Algumas pessoas também compram proteção, e é uma coisa inteligente para fazer.
+[00:07:19:17 --> 00:07:23:28] Comprar proteção é uma despesa, porque proteção ajuda a manter o sistema vivo.
+[00:07:24:12 --> 00:07:26:00] O que é comprar proteção?
+[00:07:26:03 --> 00:07:28:12] É comprar um seguro, por exemplo.
+[00:07:29:18 --> 00:07:32:01] Assinar um plano de saúde.
+[00:07:32:28 --> 00:07:35:05] Isso é proteção, é gestão de risco.
+[00:07:35:05 --> 00:07:40:10] É despesa? É, porque mantém o sistema vivo. É uma despesa neutra.
+[00:07:41:28 --> 00:07:43:27] Você não pode considerar isso como um gasto passivo,
+[00:07:43:27 --> 00:07:46:25] isso não reduz a capacidade, isso te torna mais robusto,
+[00:07:46:25 --> 00:07:48:01] o seu sistema é mais robusto.
+[00:07:48:04 --> 00:07:52:28] Então é bom, uma parte do que você tem aqui, ir para a proteção,
+[00:07:53:15 --> 00:07:55:08] porque é melhor perder um pouquinho do que perder tudo.
+[00:07:57:01 --> 00:07:58:23] E a proteção feita do jeito certo,
+[00:07:58:27 --> 00:08:01:02] que aí vem também a inteligência de saber planejar isso,
+[00:08:01:08 --> 00:08:02:24] ela torna o seu sistema mais
+[00:08:02:24 --> 00:08:04:10] resiliente para momentos difíceis.
+[00:08:06:01 --> 00:08:08:14] Então, isso é uma coisa inteligente, que quem tem dinheiro faz.
+[00:08:09:27 --> 00:08:12:07] Porque a vida é implacável, é entrópica, lembra?
+[00:08:12:11 --> 00:08:14:27] Pode ser que você está de boa, estou de boa aqui,
+[00:08:15:10 --> 00:08:16:25] tenho uma grana guardada,
+[00:08:16:27 --> 00:08:19:17] já é uma coisa boa realmente ter uma grana guardada ali,
+[00:08:20:00 --> 00:08:22:13] mas aí pode acontecer uma coisa súbita na sua vida.
+[00:08:22:19 --> 00:08:25:06] Você precisa, sei lá, de 50 mil reais, de 100 mil reais.
+[00:08:25:15 --> 00:08:26:17] Você não tem nenhum seguro.
+[00:08:28:08 --> 00:08:29:25] Ficou dependente, perdeu a autonomia.
+[00:08:30:05 --> 00:08:31:23] Então, é bom pensar nessas coisas.
+[00:08:33:03 --> 00:08:37:10] E aqui vem agora a parte mais inteligente de um sistema de dinheiro.
+[00:08:39:03 --> 00:08:40:17] ele pode ser retroalimentado.
+[00:08:41:21 --> 00:08:43:13] E aí eu vou trazer um conceito interessante aqui,
+[00:08:43:14 --> 00:08:44:29] antes de falar dessa retroalimentação,
+[00:08:44:29 --> 00:08:47:27] que é uma das invenções que muita gente já tentou fazer
+[00:08:47:27 --> 00:08:51:06] e seria a invenção que mudaria a história da humanidade,
+[00:08:51:08 --> 00:08:53:05] que é o motor retroalimentável.
+[00:08:53:10 --> 00:08:55:18] Se você tem um motor que se retroalimenta,
+[00:08:55:18 --> 00:08:57:05] você tem energia infinita.
+[00:08:58:10 --> 00:08:59:21] Ninguém conseguiu fazer isso até hoje,
+[00:09:00:14 --> 00:09:03:00] tem teorias que falam que é impossível fazer esse tipo de coisa,
+[00:09:03:04 --> 00:09:07:17] mas imagine, imagine só que você tem um motor com energia infinita,
+[00:09:07:18 --> 00:09:09:07] que ele se retroalimenta.
+[00:09:09:07 --> 00:09:13:11] Então a energia que ele gera, ele mesmo usa ela e se retroalimenta.
+[00:09:13:15 --> 00:09:18:00] Isso gera movimento, isso gera trabalho infinito ali desse motor.
+[00:09:18:08 --> 00:09:21:04] E aí você pode ir onde você quiser, construir o que você quiser,
+[00:09:21:05 --> 00:09:24:07] porque aí você tem um recurso infinito, é um motor infinito.
+[00:09:25:10 --> 00:09:26:16] Seria algo incrível, né?
+[00:09:27:02 --> 00:09:30:16] Pois é, dinheiro é um pouco parecido com isso.
+[00:09:31:01 --> 00:09:31:24] Por quê?
+[00:09:31:26 --> 00:09:36:24] O dinheiro é um sistema que funciona quase como um motor infinito,
+[00:09:36:25 --> 00:09:38:29] porque ele pode ser retroalimentado.
+[00:09:39:14 --> 00:09:43:07] Isso significa que você pode usar dinheiro para fazer mais dinheiro para você.
+[00:09:43:28 --> 00:09:48:20] É isso que a gente chama de investir e isso que a gente chama de custo,
+[00:09:48:20 --> 00:09:50:16] que é uma coisa que as pessoas confundem,
+[00:09:50:16 --> 00:09:53:20] despesa com custo e despesa com gasto passivo.
+[00:09:54:13 --> 00:09:56:23] Custo é um gasto necessário
+[00:09:56:23 --> 00:09:58:28] para gerar valor para o seu sistema.
+[00:10:00:12 --> 00:10:06:27] Quando você fala que custa algo, você está querendo traçar uma relação aqui de custou X para eu fazer Y.
+[00:10:08:20 --> 00:10:13:20] Então, geralmente custo é algo que a gente relaciona como uma necessidade para a produção.
+[00:10:14:12 --> 00:10:17:02] Eu preciso desse custo para que eu produza mais.
+[00:10:18:12 --> 00:10:22:28] Então, o custo, por exemplo, vamos supor que você fez ali 2 mil reais.
+[00:10:23:12 --> 00:10:24:26] Vou usar o exemplo da minha mãe.
+[00:10:25:05 --> 00:10:26:28] Minha mãe, quando ela estava na faculdade,
+[00:10:27:05 --> 00:10:31:16] ela começou a vender bombom na faculdade dela para complementar a renda dela.
+[00:10:31:25 --> 00:10:35:11] Foi uma ideia inteligente que ela teve, porque ela fazia os bombons muito rápido
+[00:10:35:11 --> 00:10:37:06] e os bombons dela eram muito gostosos.
+[00:10:37:10 --> 00:10:40:00] E ali ela não estava vendendo exatamente o tempo dela.
+[00:10:40:14 --> 00:10:43:27] Então, ela fazia muitos bombons e conseguia tirar uma renda ali
+[00:10:43:27 --> 00:10:47:02] que às vezes era maior do que o salário do emprego que ela trabalhava.
+[00:10:47:18 --> 00:10:49:15] Isso ajudou ela a pagar a faculdade e ter lucro.
+[00:10:49:29 --> 00:10:52:22] E ela conta essa história e eu vi ela vivendo essa história também.
+[00:10:52:24 --> 00:10:55:24] Eu era criança, tinha ali meus oito anos, mas eu lembro.
+[00:10:55:26 --> 00:10:59:08] Eu lembro porque eu ia lá na cozinha pegar o bombom de morango que ela fazia.
+[00:10:59:27 --> 00:11:03:14] Na Páscoa ela fazia ovo de Páscoa de maracujá, que era delicioso.
+[00:11:03:14 --> 00:11:04:20] Então não tem como esquecer.
+[00:11:05:05 --> 00:11:06:15] Mas ela usou isso.
+[00:11:06:27 --> 00:11:08:09] O que era o custo da minha mãe?
+[00:11:08:17 --> 00:11:11:07] Era toda a matéria-prima que ela tinha que comprar ali
+[00:11:11:07 --> 00:11:16:10] para fazer o bombom que ia gerar ali mais input para ela de dinheiro.
+[00:11:17:02 --> 00:11:18:06] Foi uma ideia inteligente.
+[00:11:18:14 --> 00:11:20:18] Ela, então, estava gastando um dinheiro inicial,
+[00:11:20:21 --> 00:11:22:19] vamos supor que ela gastou 100 ou 200 reais.
+[00:11:22:21 --> 00:11:25:03] Ela separou esse dinheiro, gastou esse dinheiro
+[00:11:25:03 --> 00:11:28:11] como um custo para que ela fizesse o bombom
+[00:11:28:11 --> 00:11:28:29] e gerasse mais dinheiro.
+[00:11:29:06 --> 00:11:31:20] Essa é a diferença de custo para despesa e para gasto.
+[00:11:32:21 --> 00:11:35:08] Gasto some, gasto passivo, vai embora,
+[00:11:35:12 --> 00:11:36:01] você nem vê esse dinheiro.
+[00:11:36:23 --> 00:11:38:21] Despesa neutra, também, vai embora, você não vê,
+[00:11:38:23 --> 00:11:40:11] mas ela te mantém vivo, ela é necessária.
+[00:11:40:28 --> 00:11:42:06] Custo é inteligente.
+[00:11:42:08 --> 00:11:45:07] Só que vocês vão reparar que o custo vai para dois lados aqui.
+[00:11:45:07 --> 00:11:49:06] que o custo vai tanto para margem de erro quanto para investimento.
+[00:11:49:06 --> 00:11:49:16] Por quê?
+[00:11:50:09 --> 00:11:54:00] Enquanto você está aprendendo, parte desse custo vai para o seu aprendizado.
+[00:11:54:05 --> 00:11:55:10] E não exatamente...
+[00:11:55:10 --> 00:11:57:29] Poderia ser chamado de um tipo de investimento o seu aprendizado,
+[00:11:58:05 --> 00:12:01:12] mas nem sempre ele volta aqui no curto prazo, ele vai voltar no longo.
+[00:12:01:17 --> 00:12:03:25] Então eu chamei de margem de erro aqui para você entender que
+[00:12:03:25 --> 00:12:07:06] parte do seu dinheiro, parte do fluxo do seu dinheiro vai embora
+[00:12:07:06 --> 00:12:09:06] na margem de erro, enquanto você está aprendendo.
+[00:12:09:13 --> 00:12:12:04] Às vezes você gastou com custos mais do que devia.
+[00:12:12:06 --> 00:12:14:12] Às vezes você escolheu os custos errados.
+[00:12:15:07 --> 00:12:17:19] Então não é como se fosse automático também,
+[00:12:17:22 --> 00:12:20:01] coloca o seu dinheiro num custo que você vai ter o retorno.
+[00:12:21:11 --> 00:12:22:20] O conhecimento para fazer isso.
+[00:12:22:28 --> 00:12:25:26] Só que quando você tem e você coloca o dinheiro no lugar certo,
+[00:12:25:27 --> 00:12:27:23] esse dinheiro, esse custo que você teve aqui,
+[00:12:27:24 --> 00:12:30:13] ele vai trazer retorno, ele vai trazer produção para você.
+[00:12:30:18 --> 00:12:34:17] E essa produção é um investimento que traz dinheiro para você.
+[00:12:34:18 --> 00:12:39:07] Isso aqui é retroalimentar o seu sistema financeiro.
+[00:12:39:09 --> 00:12:42:28] E você pode criar módulos aqui, ter uma visão modular aqui.
+[00:12:43:02 --> 00:12:46:05] E a partir dessa visão modular, a gente chama isso de clusters.
+[00:12:46:22 --> 00:12:50:05] Você vai acoplando aqui contas diferentes suas.
+[00:12:50:05 --> 00:12:52:27] Isso é mais avançado, mas eu quero que você entenda que tem possibilidades,
+[00:12:52:28 --> 00:12:53:27] que é isso que as pessoas fazem.
+[00:12:54:06 --> 00:12:57:10] Você passa a ter contas específicas para cada tipo de sistema
+[00:12:57:10 --> 00:13:01:08] e um sistema que alimenta outro sistema para você, financeiro.
+[00:13:01:21 --> 00:13:03:06] Então, você tem, às vezes, um trabalho,
+[00:13:03:14 --> 00:13:05:11] às vezes, você tem um lugar que você vende algo,
+[00:13:05:14 --> 00:13:08:27] às vezes, você investiu numa mini indústria pessoal que produz para você,
+[00:13:09:00 --> 00:13:10:15] às vezes, você plantou e vendeu.
+[00:13:12:04 --> 00:13:14:23] Tudo isso são sistemas inteligentes de lucro.
+[00:13:16:09 --> 00:13:19:00] Entender isso aqui já é meio caminho andado.
+[00:13:19:15 --> 00:13:22:00] Aplicar isso aqui é a outra metade do caminho.
+[00:13:24:01 --> 00:13:27:22] Juan, você colocou ali então também dívidas e feedbacks.
+[00:13:27:25 --> 00:13:28:26] Por que isso é importante?
+[00:13:29:17 --> 00:13:30:22] Primeiro falando de dívida.
+[00:13:30:25 --> 00:13:33:15] As pessoas têm uma visão equivocada em relação à dívida.
+[00:13:33:19 --> 00:13:36:10] As pessoas acham que dívida é sinônimo de coisa ruim.
+[00:13:36:27 --> 00:13:37:09] Errado.
+[00:13:37:12 --> 00:13:40:19] E isso é uma das coisas que pessoas que sabem lidar com dinheiro
+[00:13:40:19 --> 00:13:44:13] têm de maior vantagem em relação a quem não sabe lidar com dinheiro.
+[00:13:44:22 --> 00:13:46:20] E lembra o que eu falei para vocês lá atrás do sistema?
+[00:13:48:09 --> 00:13:50:12] Que escola ensinou isso aqui pra vocês? Nenhuma.
+[00:13:50:13 --> 00:13:53:21] E isso aqui é tão simples de entender quanto aprender geografia.
+[00:13:53:24 --> 00:13:56:07] Mas nenhuma escola pública ensina isso.
+[00:13:56:11 --> 00:13:57:23] A minha pergunta é por quê?
+[00:13:59:02 --> 00:14:00:25] Sendo que isso aqui muda uma vida de uma pessoa.
+[00:14:01:10 --> 00:14:02:12] Por que não ensinar?
+[00:14:02:28 --> 00:14:06:02] Sendo que seria uma escolha pedagógica de escolher ensinar isso aqui.
+[00:14:06:07 --> 00:14:07:07] Por que não é?
+[00:14:07:16 --> 00:14:08:05] Por que?
+[00:14:09:22 --> 00:14:11:14] Essa é a sementinha que eu quero plantar na sua cabeça.
+[00:14:12:04 --> 00:14:15:12] Quem ganha com o fato disso não ser ensinado?
+[00:14:17:13 --> 00:14:20:12] Dívida tem dívida boa e tem dívida ruim.
+[00:14:21:00 --> 00:14:24:10] Dívida ruim é a dívida para gastos passivos
+[00:14:24:10 --> 00:14:28:27] e dívida para despesas neutras com prazo indeterminado.
+[00:14:29:03 --> 00:14:32:00] Então, por exemplo, aluguel pode ser uma dívida muito ruim,
+[00:14:32:02 --> 00:14:33:19] mesmo que seja uma despesa neutra.
+[00:14:35:03 --> 00:14:37:20] Depende da decisão que você tomou e do tipo de aluguel que você está fazendo.
+[00:14:37:29 --> 00:14:41:02] Mas aluguel pode ser a coisa mais inteligente que você faça também,
+[00:14:41:06 --> 00:14:42:23] se você sabe como que dinheiro funciona.
+[00:14:43:19 --> 00:14:45:24] Dívida nada mais é do que um compromisso futuro.
+[00:14:46:00 --> 00:14:47:02] Igual em relação a tempo.
+[00:14:47:05 --> 00:14:48:05] A gente teve aula de tempo.
+[00:14:48:09 --> 00:14:49:28] Se você não assistiu, assiste a aula de tempo,
+[00:14:50:00 --> 00:14:51:05] que ela ajuda a entender essa aqui também.
+[00:14:51:17 --> 00:14:54:02] Dívida nada mais é do que um compromisso futuro.
+[00:14:54:25 --> 00:14:57:00] Você pode ter um compromisso futuro acertado
+[00:14:57:00 --> 00:14:58:29] e um compromisso futuro equivocado.
+[00:14:59:12 --> 00:15:01:29] O problema é que a maioria das pessoas fazem dívidas ruins.
+[00:15:01:29 --> 00:15:07:16] ruins. E dívida ruim é a dívida que te traz um feedback negativo. Aí eu vou trazer o conceito de
+[00:15:07:16 --> 00:15:12:19] feedback agora. O que é um feedback? Feedback, se a gente for analisar essa palavra no jeito mais
+[00:15:12:19 --> 00:15:19:08] cru possível, feed é alimentar, back é de volta. Então feedback é retroalimentação. Tem feedback
+[00:15:19:08 --> 00:15:24:22] positivo e negativo. Feedback positivo é juros, por exemplo. Juros é um feedback positivo.
+[00:15:26:13 --> 00:15:29:27] Porque você teve ali, você investiu um valor, ele gerou juros para você.
+[00:15:29:28 --> 00:15:32:28] Os juros é o quê? É uma retroalimentação, é um dinheiro voltando para dentro.
+[00:15:33:21 --> 00:15:36:21] Agora, juros negativos, juros de um financiamento errado,
+[00:15:37:12 --> 00:15:40:17] juros de, às vezes, um aluguel que você paga.
+[00:15:40:22 --> 00:15:42:20] Juan, mas como assim juros de um aluguel?
+[00:15:42:27 --> 00:15:44:15] O aluguel aumenta todo ano.
+[00:15:45:02 --> 00:15:47:09] Estão subindo os juros, a dívida está aumentando.
+[00:15:48:23 --> 00:15:52:28] Outro problema que é um feedback negativo, que faz parte do sistema, é inflação.
+[00:15:52:28 --> 00:15:56:03] Se você não sabe lidar com a inflação, dinheiro parado desvaloriza.
+[00:15:56:06 --> 00:15:59:09] Então você tem que criar um sistema que o seu dinheiro não para de desvalorizar,
+[00:15:59:12 --> 00:16:00:22] que ele continua valorizando.
+[00:16:01:06 --> 00:16:03:15] Isso é entender feedbacks do sistema.
+[00:16:04:27 --> 00:16:07:07] E aí, o que seria uma dívida boa, então, Juan?
+[00:16:07:14 --> 00:16:09:18] Uma dívida boa é quando você, por exemplo,
+[00:16:09:18 --> 00:16:11:17] assume um compromisso de pegar um valor,
+[00:16:11:19 --> 00:16:14:25] vamos supor que eu pegue 5 mil reais emprestado.
+[00:16:15:03 --> 00:16:17:24] Eu pego esses 5 mil e eu uso esses 5 mil
+[00:16:17:24 --> 00:16:19:18] como custo para fazer um investimento.
+[00:16:19:29 --> 00:16:22:29] Esses meus 5 mil me fazem ter um retorno
+[00:16:22:29 --> 00:16:25:03] de 15 mil reais, três vezes.
+[00:16:25:18 --> 00:16:27:22] Eu tive que pagar um juros para aquela pessoa
+[00:16:27:22 --> 00:16:29:09] porque era uma dívida, foi um contrato,
+[00:16:29:09 --> 00:16:30:04] um combinado que eu fiz.
+[00:16:30:09 --> 00:16:32:00] Por que o juros é algo justo?
+[00:16:32:24 --> 00:16:35:29] Porque aquela pessoa não tem obrigação nenhuma de te emprestar.
+[00:16:36:01 --> 00:16:37:13] Ou aquela instituição que seja.
+[00:16:37:18 --> 00:16:39:00] Não tem obrigação de te emprestar.
+[00:16:39:05 --> 00:16:40:18] Mas por que ela te empresta?
+[00:16:41:03 --> 00:16:42:24] Porque ela também vai ganhar com isso.
+[00:16:42:29 --> 00:16:45:00] Então, os juros é como essa instituição ganha.
+[00:16:45:12 --> 00:16:47:20] Só que tem como a instituição ganhar e você ganhar.
+[00:16:47:25 --> 00:16:50:00] Isso é o que significa fazer dinheiro.
+[00:16:50:07 --> 00:16:51:23] Essa que é a diferença que as pessoas não veem.
+[00:16:51:28 --> 00:16:55:24] Então, você pega esses 5 mil e transforma eles em 15 mil.
+[00:16:55:29 --> 00:16:58:00] Juan, como que eu transformo 5 mil em 15 mil?
+[00:16:58:02 --> 00:16:59:07] Tem muitas maneiras.
+[00:16:59:09 --> 00:17:01:21] Eu vou mostrar uma lista aqui para vocês já já.
+[00:17:02:14 --> 00:17:03:27] Só uma pausazinha rápida
+[00:17:03:27 --> 00:17:06:18] Hoje a gente vai levar um pouquinho mais de tempo
+[00:17:06:18 --> 00:17:07:27] A gente vai até mais ou menos
+[00:17:07:27 --> 00:17:09:06] Medir e meia, medir e quarenta
+[00:17:09:06 --> 00:17:10:26] Por conta do meu atraso
+[00:17:10:26 --> 00:17:12:00] Mas vai ficar gravado
+[00:17:12:00 --> 00:17:14:11] Caso tenha algum compromisso muito sério
+[00:17:14:11 --> 00:17:15:26] Vocês podem seguir a gravação
+[00:17:15:26 --> 00:17:18:09] Mas eu recomendo, vai ficar cada vez melhor isso aqui
+[00:17:19:06 --> 00:17:21:21] Então vamos comigo voltando aqui pro ponto
+[00:17:21:21 --> 00:17:23:27] Que eu fui fazer o parênteses
+[00:17:23:27 --> 00:17:26:07] Esqueci aqui, eu tava explicando a dívida
+[00:17:26:07 --> 00:17:26:27] Ah é, cinco mil
+[00:17:27:14 --> 00:17:28:25] Então pensa comigo o seguinte
+[00:17:29:10 --> 00:17:30:23] Você vai fazer dinheiro
+[00:17:30:23 --> 00:17:59:17] dinheiro. 5 mil reais, você se transformou esses 5 mil reais em 15 mil. Tem várias formas, eu vou mostrar uma lista para vocês. Quando você fez isso, você fez 5 mil virar 15. Você pagou os juros para aquela pessoa. Vamos supor que você levou, eu vou extrapolar um pouco aqui, um ano para poder fazer 5 mil virar 15 mil. Só que você fez em um ano 5 mil virar 15 mil. E os juros que você tinha que pagar, vamos colocar aqui uns juros bem altos, tá? É uns juros de 2% por mês.
+[00:17:59:17 --> 00:18:28:29] mês. 2% por mês. Isso é muito alto. Você pagou juros de 2% por mês, significa que em um ano você pagou 24% de juros. Só que tem juros sobre juros aqui. Eu vou simplificar essa conta de juros sobre juros e vou extrapolar um pouco. Vamos supor que você pagou 30% de juros, tá? 30%. Extrapolei os juros compostos aqui. 30% de 5 mil, se você faz a conta, vai dar algo aproximado ali de 10% é 500, então 1.500 reais, 30%. Dá exatamente
+[00:18:28:29 --> 00:18:31:02] 1.500 reais. Então, quanto que você tem que
+[00:18:31:02 --> 00:18:34:01] devolver pra aquela pessoa? 6.500 reais.
+[00:18:34:08 --> 00:18:35:00] Só que você foi
+[00:18:35:00 --> 00:18:36:29] inteligente com essa dívida. Você fez
+[00:18:36:29 --> 00:18:38:29] esse 5 mil virar 15. Então, quando você
+[00:18:38:29 --> 00:18:41:11] pega 15, subtrai os 6.500
+[00:18:41:11 --> 00:18:42:21] de 15, você vai ter
+[00:18:42:21 --> 00:18:44:15] 8.500 reais.
+[00:18:44:23 --> 00:18:46:21] Então, você pegou 5 mil reais,
+[00:18:46:23 --> 00:18:48:25] que nem era seu, você saiu do zero, você tinha
+[00:18:48:25 --> 00:18:50:29] zero. Você pegou 5 mil reais,
+[00:18:51:12 --> 00:18:52:15] transformou 5 mil reais
+[00:18:52:15 --> 00:18:55:07] em 15. Pagou a pessoa
+[00:18:55:07 --> 00:18:57:08] e você saiu de zero pra 8.500
+[00:18:57:08 --> 00:18:58:23] 500 reais. Você
+[00:18:58:23 --> 00:19:01:08] fez dinheiro. Você não
+[00:19:01:08 --> 00:19:03:02] teve que pedir esmola.
+[00:19:03:06 --> 00:19:05:01] Você não teve que pedir doação.
+[00:19:05:09 --> 00:19:07:10] Você não teve que pedir a boa vontade
+[00:19:07:10 --> 00:19:09:05] de alguém. Porque a pessoa também
+[00:19:09:05 --> 00:19:11:08] não tinha obrigação. Ela não tem.
+[00:19:11:09 --> 00:19:13:11] Ela caiu no mundo, igual você também, mas ela não...
+[00:19:13:11 --> 00:19:15:08] Por que que alguns têm que ser obrigados e outros
+[00:19:15:08 --> 00:19:17:10] não? Ela tem obrigação de te dar
+[00:19:17:10 --> 00:19:19:10] dinheiro? Tem, porque a vida dela
+[00:19:19:10 --> 00:19:21:08] é mais confortável que a minha e ela é obrigada a me dar.
+[00:19:21:12 --> 00:19:23:18] Ela também não escolheu nascer com a vida confortável.
+[00:19:23:21 --> 00:19:25:18] Se você está querendo falar de um senso de justiça,
+[00:19:25:18 --> 00:19:27:21] que é bem difícil de analisar em relação a isso.
+[00:19:29:11 --> 00:19:30:11] Você acha que é melhor o quê?
+[00:19:30:13 --> 00:19:31:18] Até para a humanidade.
+[00:19:32:03 --> 00:19:34:05] Você ir lá e arrancar de alguém que tem,
+[00:19:34:09 --> 00:19:36:11] falar, você é obrigado a me dar seu dinheiro,
+[00:19:36:17 --> 00:19:37:21] pega o seu dinheiro e divide comigo,
+[00:19:37:26 --> 00:19:38:27] você é obrigado a fazer isso,
+[00:19:39:01 --> 00:19:41:11] ou você entender, eu vou ser inteligente,
+[00:19:41:11 --> 00:19:43:26] eu vou fazer mais dinheiro porque eu posso fazer isso.
+[00:19:44:11 --> 00:19:46:02] Essa é a lógica que as pessoas não veem.
+[00:19:46:03 --> 00:19:47:20] É isso que eu estou mostrando aqui para vocês.
+[00:19:47:26 --> 00:19:49:02] Quando você entende isso,
+[00:19:49:23 --> 00:19:50:21] uma coisa irônica acontece.
+[00:19:51:02 --> 00:19:53:02] Quem tem dinheiro quer dar dinheiro para você.
+[00:19:54:11 --> 00:19:56:12] Porque ela não está dando dinheiro para você.
+[00:19:56:15 --> 00:19:59:03] Ela entende que você é um agente de multiplicação de dinheiro.
+[00:19:59:08 --> 00:20:01:21] E ela quer que o dinheiro dela percorra por você,
+[00:20:01:22 --> 00:20:03:04] porque significa mais dinheiro para ela,
+[00:20:03:05 --> 00:20:06:08] mas não significa que mais dinheiro para ela é menos dinheiro para você,
+[00:20:06:11 --> 00:20:08:13] porque significa que você está fazendo dinheiro.
+[00:20:09:00 --> 00:20:11:13] E isso é o melhor tipo de sistema que existe.
+[00:20:11:21 --> 00:20:15:28] Porque você me empresta, eu faço para mim e mais para você também.
+[00:20:16:01 --> 00:20:17:07] E nós dois ganhamos.
+[00:20:17:12 --> 00:20:20:03] Esse é o verdadeiro ganha-ganha que as pessoas não percebem.
+[00:20:20:04 --> 00:20:22:01] As pessoas acham que o verdadeiro ganha-ganha é
+[00:20:22:01 --> 00:20:23:09] eu tiro do meu e te dou.
+[00:20:23:09 --> 00:20:24:29] e você não precisa me dar nada em troca.
+[00:20:25:00 --> 00:20:26:15] Isso é parasitagem.
+[00:20:28:02 --> 00:20:29:28] mesmo que você considere moralmente
+[00:20:29:28 --> 00:20:31:16] que alguém deveria te fazer isso.
+[00:20:32:04 --> 00:20:35:01] Do mesmo jeito que você não escolheu
+[00:20:35:01 --> 00:20:36:01] como que a sua vida é,
+[00:20:36:16 --> 00:20:37:15] a outra pessoa também não escolheu,
+[00:20:37:16 --> 00:20:39:03] tem todo o senso de responsabilidade
+[00:20:39:03 --> 00:20:40:13] que eu acho bonito e virtuoso,
+[00:20:40:14 --> 00:20:41:09] e é o que eu acredito,
+[00:20:41:09 --> 00:20:41:25] inclusive, tá?
+[00:20:41:26 --> 00:20:42:16] Pra vocês não acharem
+[00:20:42:16 --> 00:20:44:19] que eu sou inescrupuloso e frio e calculista.
+[00:20:45:16 --> 00:20:47:12] Eu acho muito bonito uma pessoa virtuosa
+[00:20:47:12 --> 00:20:48:15] que ajuda o próximo.
+[00:20:48:22 --> 00:20:49:17] Isso é muito bonito.
+[00:20:49:19 --> 00:20:51:21] Eu tento fazer isso sempre que eu posso.
+[00:20:52:03 --> 00:20:54:11] Mas eu entendo que isso não é obrigação minha.
+[00:20:54:21 --> 00:20:56:02] Isso é um desejo meu.
+[00:20:58:14 --> 00:21:03:07] Se todo mundo entendesse isso, o planeta, a gente como humanidade, já teria feito muito mais.
+[00:21:04:04 --> 00:21:08:16] Entendendo esse sistema aqui então, como que você pode usar ele a seu favor
+[00:21:08:16 --> 00:21:13:28] para que você faça dinheiro, ao invés de esperar que alguém te dê dinheiro?
+[00:21:14:05 --> 00:21:17:13] Porque nesse sistema que a gente vive, isso dificilmente vai acontecer.
+[00:21:17:19 --> 00:21:21:07] E quando acontecer, por não ter criado um sistema que funciona,
+[00:21:21:17 --> 00:21:26:01] você vai tacar tudo ali em gasto passivo, vai tacar tudo em despesa neutra,
+[00:21:26:01 --> 00:21:28:01] vai fazer dívida ruim e esse dinheiro
+[00:21:28:01 --> 00:21:30:01] que essa pessoa te deu, ele vai
+[00:21:30:01 --> 00:21:31:28] ser desonrado. Como assim
+[00:21:31:28 --> 00:21:33:07] ele vai ser desonrado, Juan?
+[00:21:33:16 --> 00:21:35:24] É isso uma coisa também que pessoas ricas
+[00:21:35:24 --> 00:21:37:19] entendem e pessoas que
+[00:21:37:19 --> 00:21:39:28] são mais pobres não entendem. Entenda
+[00:21:39:28 --> 00:21:41:23] ricas e pobres aqui.
+[00:21:42:07 --> 00:21:43:18] Principalmente, tá? Aqui.
+[00:21:45:10 --> 00:21:48:19] Quando você é rico, aqui você entende o seguinte.
+[00:21:49:15 --> 00:21:51:14] Eu sei que o dinheiro é um recurso.
+[00:21:51:14 --> 00:21:53:09] E eu quero que esse recurso se multiplique.
+[00:21:53:12 --> 00:21:54:14] Eu não quero torrar dinheiro.
+[00:21:55:02 --> 00:21:57:28] Pessoas que têm dinheiro sabem que torrar dinheiro não é inteligente.
+[00:21:58:01 --> 00:22:00:04] Nem mesmo para a evolução da própria humanidade.
+[00:22:00:10 --> 00:22:03:11] É melhor colocar ele onde eu sei que ele vai gerar produto.
+[00:22:04:03 --> 00:22:05:29] Produto no sentido de produção, tá bom?
+[00:22:06:26 --> 00:22:07:08] Resultado.
+[00:22:07:20 --> 00:22:10:11] Para que eu vou pegar, sei lá, vou te dar 100 mil reais aqui.
+[00:22:10:14 --> 00:22:13:22] Para que eu vou te dar se eu vi que você não tem capacidade para multiplicar esse dinheiro?
+[00:22:13:22 --> 00:22:15:13] Se eu vi que se eu te dar esse dinheiro,
+[00:22:15:19 --> 00:22:18:12] você vai torrar ele e eu vou simplesmente pegar um isqueiro,
+[00:22:18:14 --> 00:22:20:11] é como se eu estivesse pegando um isqueiro e torrando 100 mil reais.
+[00:22:20:26 --> 00:22:23:21] Não é muito melhor eu te ensinar primeiro a fazer o dinheiro?
+[00:22:23:26 --> 00:22:24:29] É, só que o que acontece?
+[00:22:25:08 --> 00:22:27:15] Porque eu já fiz esse teste várias vezes.
+[00:22:28:02 --> 00:22:29:29] Você vai ensinar alguém a fazer dinheiro e a pessoa não quer.
+[00:22:30:14 --> 00:22:31:26] Às vezes ela tem preguiça,
+[00:22:31:28 --> 00:22:33:28] às vezes ela tem alguma barreira mesmo,
+[00:22:34:00 --> 00:22:35:15] tá tudo bem, crença, alguma coisa assim.
+[00:22:35:22 --> 00:22:37:27] Ou seja, você vai concluir em alguma hora
+[00:22:37:27 --> 00:22:38:22] que o problema tá aqui.
+[00:22:40:05 --> 00:22:42:14] E não no fluxo de dinheiro que passa na conta.
+[00:22:43:06 --> 00:22:45:03] E por isso que a maioria das pessoas não conseguem.
+[00:22:45:17 --> 00:22:47:21] Se você entende isso aqui, você consegue dinheiro amanhã,
+[00:22:47:21 --> 00:22:49:02] você consegue dinheiro depois de amanhã.
+[00:22:49:06 --> 00:22:51:11] Foi o que, quando eu aprendi, de verdade,
+[00:22:51:13 --> 00:22:54:03] eu consegui fazer dívidas boas,
+[00:22:54:05 --> 00:22:57:00] eu consegui fazer com que pessoas me emprestassem dinheiro,
+[00:22:57:04 --> 00:22:59:00] paguei essas pessoas, fiz mais dinheiro para mim.
+[00:22:59:12 --> 00:23:02:01] Isso aqui muda a sua vida, tipo, de um dia para o outro,
+[00:23:02:03 --> 00:23:03:05] de uma semana para a outra.
+[00:23:03:06 --> 00:23:06:03] Mas para chegar nisso aqui, você realmente tem que internalizar isso.
+[00:23:06:06 --> 00:23:08:03] E é aqui que está o maior desafio de todos.
+[00:23:08:03 --> 00:23:10:26] conseguir entender esse conceito em específico.

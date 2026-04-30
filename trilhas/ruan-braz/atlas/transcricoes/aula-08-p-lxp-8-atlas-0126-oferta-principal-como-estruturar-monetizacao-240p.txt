@@ -1,0 +1,509 @@
+# Video: [p]_[lxp]_8._atlas_0126_-oferta_principal_(como_estruturar_monetização) (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 11:26
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:00 --> 00:00:01:29] Qual que é o cálculo rápido que a gente vai fazer aqui agora?
+[00:00:02:14 --> 00:00:04:08] Eu vou pegar o cenário conservador
+[00:00:04:08 --> 00:00:05:26] que a gente teve nessa pesquisa.
+[00:00:07:05 --> 00:00:11:03] Vale a pena depois sondar um pouco mais os dados aqui, beleza?
+[00:00:11:11 --> 00:00:13:10] Mas como é um mercado que eu conheço,
+[00:00:13:11 --> 00:00:15:13] e aí a vantagem de estar num mercado que você conhece.
+[00:00:15:16 --> 00:00:17:25] Eu consigo criar um cenário realista aqui para a gente.
+[00:00:17:29 --> 00:00:19:17] Então, qual que é a ideia?
+[00:00:19:20 --> 00:00:24:15] 6 a 10 clientes e 4 a 8 projetos.
+[00:00:26:09 --> 00:00:28:09] projetos por ano. Então, nós estamos
+[00:00:28:09 --> 00:00:30:12] falando aqui, olha, de se eu
+[00:00:30:12 --> 00:00:32:13] colocar 10 clientes a 4 projetos,
+[00:00:32:13 --> 00:00:34:24] eu estou falando de 40 projetos.
+[00:00:34:24 --> 00:00:36:14] 40 projetos dividido por 12,
+[00:00:36:18 --> 00:00:38:11] você vai trabalhar aí uma média de,
+[00:00:38:12 --> 00:00:40:11] vou arredondar aqui, né, 10 meses,
+[00:00:40:18 --> 00:00:42:22] uma média de 4 projetos
+[00:00:43:09 --> 00:00:44:05] por mês
+[00:00:44:05 --> 00:00:46:11] que você vai trabalhar. Essa é
+[00:00:46:11 --> 00:00:48:11] a probabilidade do que a gente pode construir
+[00:00:48:11 --> 00:00:50:00] aqui. A probabilidade não, né?
+[00:00:50:08 --> 00:00:52:14] O racional que a gente pode construir.
+[00:00:52:22 --> 00:00:54:10] Vamos fazer uma continha rápida aqui,
+[00:00:54:10 --> 00:01:00:15] só para tomar uma decisão mais inteligente, se a gente fecha um ticket médio de 10 mil e fecha aqui
+[00:01:00:15 --> 00:01:06:17] quatro clientes de 10 mil por mês, a gente tem um faturamento de 40 mil por mês, o que daria aqui em
+[00:01:06:17 --> 00:01:14:20] 12 meses um faturamento bruto de 480 mil reais. Isso trazendo aqui uma quantidade maior de clientes
+[00:01:14:20 --> 00:01:22:02] e uma quantidade menor de projetos. Outro jeito de fazer isso, pensando em modelagem aqui, eu vou
+[00:01:22:02 --> 00:01:27:11] Vou passar bem rápido, depois eu vou mostrar para vocês como vocês podem aprender a construir esse raciocínio,
+[00:01:27:12 --> 00:01:29:23] onde vocês podem aprender melhores práticas.
+[00:01:29:26 --> 00:01:33:27] Eu só olhei para a hora ali e falei, é, vou ter que avançar, o negócio está ficando sério,
+[00:01:33:28 --> 00:01:37:10] o tempo está me punindo aqui, né?
+[00:01:37:11 --> 00:01:40:20] Mas eu coloquei o desafio e nós vamos cumprir esse desafio, nós vamos criar esse negócio aqui.
+[00:01:41:20 --> 00:01:43:08] Então, acompanhem comigo o raciocínio.
+[00:01:43:08 --> 00:01:44:14] 40 projetos.
+[00:01:45:27 --> 00:01:48:08] Para 10 clientes, para 10 meses, né?
+[00:01:48:11 --> 00:01:50:14] Vou colocar aqui meses para a gente não esquecer o raciocínio.
+[00:01:51:08 --> 00:01:52:17] Seriam 12 meses aqui.
+[00:01:54:13 --> 00:01:57:22] Se eu coloco 40 clientes 12 meses, para a gente fazer a conta certa,
+[00:01:57:27 --> 00:02:00:12] 40 projetos por 12 meses...
+[00:02:02:07 --> 00:02:04:25] Nós temos aqui três projetos e meio para cada mês.
+[00:02:05:12 --> 00:02:08:18] Eu vou contar aqui que vocês já têm experiência, muitos já colocaram,
+[00:02:08:18 --> 00:02:11:05] a gente viu essa pesquisa no início, então eu já vou desenhar isso aqui
+[00:02:11:05 --> 00:02:15:04] pensando numa média para a maioria aqui, que é a seguinte.
+[00:02:15:26 --> 00:02:17:01] Seguindo algumas premissas.
+[00:02:17:03 --> 00:02:19:07] Um, não trabalhe...
+[00:02:20:17 --> 00:02:20:29] Sozinho.
+[00:02:22:01 --> 00:02:23:03] Você vai falar, Juan, mas como assim?
+[00:02:23:05 --> 00:02:24:08] Não trabalhe sozinho.
+[00:02:24:10 --> 00:02:24:19] Ponto.
+[00:02:24:20 --> 00:02:26:07] Primeira premissa que eu vou assumir para você.
+[00:02:26:18 --> 00:02:28:02] Você vai precisar de ajuda.
+[00:02:28:06 --> 00:02:29:16] Não precisa criar uma equipe gigante,
+[00:02:29:16 --> 00:02:31:16] mas talvez alguém que pode ser parceiro seu
+[00:02:31:16 --> 00:02:33:22] para poder te ajudar a qualificar os leads.
+[00:02:34:10 --> 00:02:37:12] Alguém, às vezes, para trabalhar alguns processos operacionais.
+[00:02:37:14 --> 00:02:40:00] Se você não fizer isso, esquece.
+[00:02:40:01 --> 00:02:41:03] Você vai fatorar, sabe quanto?
+[00:02:41:10 --> 00:02:43:21] De 10 a 15 mil por mês, no máximo.
+[00:02:43:29 --> 00:02:44:21] No máximo.
+[00:02:44:26 --> 00:02:46:18] Aí vocês vão falar, Juan, mas isso já é bom para mim.
+[00:02:47:00 --> 00:02:47:12] Ótimo.
+[00:02:47:21 --> 00:02:48:03] Beleza.
+[00:02:48:08 --> 00:02:51:03] Mas você também vai ter sacrificado todo o seu tempo
+[00:02:51:03 --> 00:02:51:27] porque você está sozinho.
+[00:02:52:01 --> 00:02:54:27] Então, pensa se compensa ter 10 mil todo mês,
+[00:02:55:00 --> 00:02:56:16] sendo que você não pode fazer nada com esse dinheiro,
+[00:02:56:18 --> 00:02:59:22] porque você está atolado de trabalho e não consegue mais tempo para fazer mais nada.
+[00:02:59:28 --> 00:03:01:18] Não é isso que a gente está querendo construir aqui.
+[00:03:02:09 --> 00:03:05:21] Então, o que eu vou recomendar aqui, ao invés de trabalhar sozinho,
+[00:03:05:21 --> 00:03:11:28] é você busque um SDR.
+[00:03:12:04 --> 00:03:13:00] O que é o SDR, Juan?
+[00:03:13:01 --> 00:03:18:13] É o Sales Development Representative.
+[00:03:20:01 --> 00:03:24:13] Então, em outras palavras, ser o representante de...
+[00:03:27:02 --> 00:03:28:02] desenvolvimento de vendas.
+[00:03:28:14 --> 00:03:30:06] Vou deixar o termo aqui em português
+[00:03:30:06 --> 00:03:32:05] e apagar o inglês. O que é isso aqui? O que eu estou
+[00:03:32:05 --> 00:03:34:04] construindo com vocês aqui agora? Vocês
+[00:03:34:04 --> 00:03:36:05] precisam de alguém para, quando chegar
+[00:03:36:05 --> 00:03:38:03] um monte de leads, essa pessoa vai desenvolver essa
+[00:03:38:03 --> 00:03:40:05] pessoa no WhatsApp para você
+[00:03:40:05 --> 00:03:42:06] e vai falar o que basicamente ele vai
+[00:03:42:06 --> 00:03:43:29] fazer. Ele vai pegar esse perfil ideal de cliente aqui,
+[00:03:44:01 --> 00:03:46:05] que eu vou formatar com vocês, e a
+[00:03:46:05 --> 00:03:47:20] partir disso ele vai qualificar ali.
+[00:03:47:24 --> 00:03:50:00] Se a pessoa tem a quantidade de clientes ideal,
+[00:03:50:08 --> 00:03:52:05] de funcionários
+[00:03:52:05 --> 00:03:53:23] ideal, qual que é o tamanho da empresa,
+[00:03:54:06 --> 00:03:56:03] qual que é o momento da empresa, a gente vai
+[00:03:56:03 --> 00:03:57:27] vai colocar esses dados ali. Essa pessoa vai
+[00:03:57:27 --> 00:04:00:00] qualificar esse lead pra você. E aí você pode
+[00:04:00:00 --> 00:04:01:27] cuidar do fechamento, né, você mesmo.
+[00:04:02:09 --> 00:04:03:27] No início tá tudo bem ser desse
+[00:04:03:27 --> 00:04:05:26] jeito. Ou essa pessoa aqui,
+[00:04:05:27 --> 00:04:07:26] ao invés de ter um SDR, se você
+[00:04:07:26 --> 00:04:09:21] conseguir encontrar um executivo
+[00:04:09:21 --> 00:04:11:20] de vendas, melhor ainda.
+[00:04:13:00 --> 00:04:13:24] Executivo de vendas.
+[00:04:14:03 --> 00:04:15:17] Porque aí vai ser SDR mais
+[00:04:15:17 --> 00:04:18:03] Closer. Juan, o que é isso? Nunca ouvi falar esses termos.
+[00:04:18:06 --> 00:04:19:26] Eu vou desenvolver isso aqui melhor com vocês,
+[00:04:19:29 --> 00:04:21:26] mas basicamente, o executivo de
+[00:04:21:26 --> 00:04:23:18] vendas é a pessoa que qualifica o lead primeiro
+[00:04:23:18 --> 00:04:25:24] e depois faz uma call com o lead e vende
+[00:04:25:24 --> 00:04:27:08] vende pra você. Aí você não precisa nem vender.
+[00:04:27:11 --> 00:04:29:12] Essa pessoa vende pra você. Você vai ter que treinar
+[00:04:29:12 --> 00:04:31:09] ela no início, mas depois ela vai vender
+[00:04:31:09 --> 00:04:33:17] pra você e aí você fica cuidando
+[00:04:33:17 --> 00:04:35:20] da entrega, da operação, dos processos,
+[00:04:35:20 --> 00:04:37:13] da orquestração, tá? Então eu vou
+[00:04:37:13 --> 00:04:39:16] considerar esse cenário aqui. Eu sei
+[00:04:39:16 --> 00:04:41:10] que vocês dão conta, dá medo, mas
+[00:04:41:10 --> 00:04:43:08] já é uma primeira grande dica pra vocês. Se eu
+[00:04:43:08 --> 00:04:45:14] começasse o negócio do zero hoje, eu já
+[00:04:45:14 --> 00:04:47:05] iria arquitetar ele, no mínimo,
+[00:04:47:09 --> 00:04:49:12] desse jeito aqui. Juan, mas onde tem dinheiro
+[00:04:49:12 --> 00:04:51:15] pra pagar essa pessoa? Comissão 100%
+[00:04:51:15 --> 00:04:53:08] variável. Fala pra pessoa,
+[00:04:53:09 --> 00:04:55:11] cada projeto desse meu, de 10 mil reais que você
+[00:04:55:11 --> 00:04:57:05] vendeu, eu te dou 10%. Ou seja,
+[00:04:57:06 --> 00:04:58:27] cada cliente meu que você vender, você ganha mil reais.
+[00:04:59:10 --> 00:05:01:06] Bom pra caramba! Quem é bom
+[00:05:01:06 --> 00:05:03:04] vendedor vai fazer aqui grana fácil.
+[00:05:04:03 --> 00:05:05:07] Então, isso é um ponto
+[00:05:05:07 --> 00:05:07:01] importante. Eu também colocaria aqui,
+[00:05:07:24 --> 00:05:09:16] só pra gente ter um formato,
+[00:05:10:05 --> 00:05:11:04] um assistente
+[00:05:13:13 --> 00:05:15:00] criação, barra, projeto.
+[00:05:15:03 --> 00:05:17:06] Não precisa ser designer, mas uma pessoa que vai auxiliar
+[00:05:17:06 --> 00:05:19:09] na operação, assistente de operação, vou colocar assim.
+[00:05:21:21 --> 00:05:25:23] Isso aqui eu vou resumir para a gente no nosso escopo aqui, ó.
+[00:05:26:08 --> 00:05:27:07] Dá um zoom para trás.
+[00:05:27:08 --> 00:05:28:08] Eu sei que acelerei, né?
+[00:05:28:20 --> 00:05:30:01] Vocês estão conseguindo acompanhar?
+[00:05:30:01 --> 00:05:31:09] Eu acelerei, eu vou mais.
+[00:05:32:20 --> 00:05:34:02] Estrutura da equipe.
+[00:05:34:03 --> 00:05:35:26] Só para a gente ter algumas premissas aqui
+[00:05:35:26 --> 00:05:38:02] para definir nosso perfil ideal de cliente.
+[00:05:39:11 --> 00:05:41:05] Coloco aqui estrutura da equipe.
+[00:05:42:14 --> 00:05:44:16] Essa é a nossa estrutura de equipe, premissa.
+[00:05:46:01 --> 00:05:47:01] Não trabalhe sozinho.
+[00:05:47:04 --> 00:05:49:21] Isso aqui vai desacelerar muito o processo.
+[00:05:50:04 --> 00:05:51:24] Então, um SDR...
+[00:05:53:08 --> 00:05:54:23] Um SDR ou...
+[00:05:57:16 --> 00:05:58:18] Um executivo de vendas.
+[00:05:58:21 --> 00:06:01:09] Isso aqui já vai colocar vocês em um outro tipo de jogo.
+[00:06:01:28 --> 00:06:02:12] Dois.
+[00:06:02:25 --> 00:06:04:27] Um assistente de operações.
+[00:06:04:29 --> 00:06:10:24] Esse aqui você pode contratar depois de fechar o primeiro cliente.
+[00:06:11:02 --> 00:06:12:10] Você não contrata antes, não.
+[00:06:12:12 --> 00:06:14:06] Porque aí já fechou o primeiro cliente, recebeu o sinal,
+[00:06:14:06 --> 00:06:15:13] você consegue contratar e tem a segurança.
+[00:06:15:29 --> 00:06:17:21] Beleza, já é um início aqui.
+[00:06:17:27 --> 00:06:20:14] Estou pulando alguns pontos porque eu sei que vocês já têm experiência.
+[00:06:20:26 --> 00:06:24:18] Com essa estrutura em mãos, a gente pode fechar essa parte aqui agora.
+[00:06:24:18 --> 00:06:26:14] agora, esse aqui é o raciocínio do mercado
+[00:06:26:14 --> 00:06:28:17] que o GPT tinha trazido pra gente,
+[00:06:28:23 --> 00:06:30:18] eu vou fazer um cálculo aqui de projeção
+[00:06:30:18 --> 00:06:31:29] de faturamento do primeiro ano
+[00:06:31:29 --> 00:06:34:13] de um jeito que seja possível pra
+[00:06:34:13 --> 00:06:36:21] maioria de vocês, tá? Isso aqui é o que o GPT
+[00:06:36:21 --> 00:06:38:13] recomendou, mas depois
+[00:06:38:13 --> 00:06:40:00] de mentorar centenas de
+[00:06:40:00 --> 00:06:42:00] designers, artistas, pessoas criativas,
+[00:06:42:05 --> 00:06:44:16] eu posso falar aqui o seguinte. Cenário mínimo.
+[00:06:44:21 --> 00:06:46:14] Cenário mínimo seria um cliente que
+[00:06:46:14 --> 00:06:48:15] te paga algo em torno de 10 mil reais
+[00:06:48:15 --> 00:06:50:17] por mês, você teria os seus
+[00:06:50:17 --> 00:06:52:15] 10 mil, isso aqui é sozinho, mínimo sozinho.
+[00:06:52:18 --> 00:06:54:12] Eu vou sair dele, mas
+[00:06:54:12 --> 00:06:55:20] mas não é onde a gente vai ficar, tá?
+[00:06:55:27 --> 00:06:56:12] Não é.
+[00:06:56:18 --> 00:06:58:03] Esse cenário aqui, ele é lento.
+[00:06:58:09 --> 00:07:00:17] Vocês vão perder muita oportunidade seguindo só nele.
+[00:07:00:18 --> 00:07:02:00] Mas é uma opção, alguns vão querer.
+[00:07:02:05 --> 00:07:04:09] Então, um cliente de 10 mil por mês,
+[00:07:04:24 --> 00:07:06:05] no final você fecha,
+[00:07:07:21 --> 00:07:08:20] vou colocar aqui, ó,
+[00:07:10:06 --> 00:07:11:16] MMRR, que é o seu mensal.
+[00:07:12:24 --> 00:07:16:21] Seu faturamento mensal recorrente, que a gente vai lutar para conquistar.
+[00:07:16:28 --> 00:07:18:05] E a gente tem o ARR.
+[00:07:18:17 --> 00:07:21:15] Eu uso esses termos aqui porque depois, se vocês forem pesquisar com a IA,
+[00:07:21:17 --> 00:07:22:24] são termos globais, tá?
+[00:07:24:14 --> 00:07:25:03] Mínimo, apenas...
+[00:07:26:21 --> 00:07:30:04] Uma pessoa, o famoso eu presa.
+[00:07:32:29 --> 00:07:34:26] uma pessoa. Seu ARR final
+[00:07:34:26 --> 00:07:37:03] vai ser de uns 120 mil reais no ano.
+[00:07:37:07 --> 00:07:38:27] Só que o que você não tá considerando aqui
+[00:07:38:27 --> 00:07:40:28] quando você tá construindo esse negócio e a gente não vai seguir
+[00:07:40:28 --> 00:07:43:05] nele? Você não tá considerando imposto, não tá considerando
+[00:07:43:05 --> 00:07:44:25] custo operacional, no final você vai terminar
+[00:07:44:25 --> 00:07:47:01] isso aqui com algo em torno de 4 mil reais
+[00:07:47:01 --> 00:07:48:19] na sua conta e aí, cara,
+[00:07:49:15 --> 00:07:51:01] sinceramente, você só arrumou
+[00:07:51:01 --> 00:07:52:22] um emprego diferente,
+[00:07:53:02 --> 00:07:54:23] né? Você não tá criando uma empresa, você só tá
+[00:07:56:07 --> 00:07:56:29] sendo funcionário
+[00:07:56:29 --> 00:07:58:25] da sua empresa e não tá orquestrando ela.
+[00:07:59:04 --> 00:08:00:29] Mas é uma opção e tem gente que vive
+[00:08:00:29 --> 00:08:02:21] assim, tá feliz, então beleza. Mas agora
+[00:08:02:21 --> 00:08:04:26] que eu quero propor coisas novas pra quem quer ir
+[00:08:04:26 --> 00:08:06:10] além, quer construir grandes negócios.
+[00:08:06:17 --> 00:08:08:18] Então a gente vai começar aqui com um escopo simples
+[00:08:09:09 --> 00:08:10:24] de negócio, minha proposta pra
+[00:08:10:24 --> 00:08:13:00] vocês. É um estúdio
+[00:08:13:18 --> 00:08:14:00] híbrido.
+[00:08:16:10 --> 00:08:17:21] híbrido de criação.
+[00:08:18:01 --> 00:08:19:25] Esse estúdio híbrido de criação,
+[00:08:20:18 --> 00:08:23:19] ele vai usar IA junto com pessoas aqui dentro,
+[00:08:24:07 --> 00:08:25:09] e nós vamos focar no seguinte,
+[00:08:25:10 --> 00:08:27:22] se você tem um assistente ali e tem alguém para vender,
+[00:08:28:00 --> 00:08:30:21] você consegue, com o serviço que eu estou pensando aqui
+[00:08:30:21 --> 00:08:31:15] para a gente que eu já vou falar,
+[00:08:31:19 --> 00:08:32:24] você consegue...
+[00:08:34:01 --> 00:08:35:13] Um cliente por semana.
+[00:08:36:02 --> 00:08:38:06] Então, são quatro clientes no mês.
+[00:08:38:18 --> 00:08:39:14] Você sozinho.
+[00:08:39:14 --> 00:08:41:01] Mais do que isso aqui é arriscado.
+[00:08:41:01 --> 00:08:43:00] É melhor você já começar a contratar.
+[00:08:43:00 --> 00:08:44:04] Bateu quatro clientes no mês,
+[00:08:44:21 --> 00:08:46:03] contrata mais pessoas para escalar.
+[00:08:46:07 --> 00:08:48:16] Mas vamos colocar aqui quatro clientes no mês.
+[00:08:48:22 --> 00:08:50:14] O faturamento que eu vou focar aqui,
+[00:08:50:16 --> 00:08:51:22] já que você ainda está sozinho,
+[00:08:51:22 --> 00:08:53:17] você pode focar em algo mais artesanal
+[00:08:53:17 --> 00:08:55:09] ou com equipe pequena.
+[00:08:55:10 --> 00:08:57:09] Foca agora em construir um negócio
+[00:08:57:09 --> 00:08:58:16] que você tem valor agregado.
+[00:08:58:18 --> 00:08:59:19] Não foque em escala agora.
+[00:08:59:25 --> 00:09:00:20] Você vai ficar maluco.
+[00:09:00:23 --> 00:09:02:22] Então, ao invés de oferecer serviços baratos,
+[00:09:02:22 --> 00:09:06:08] vou oferecer serviço de dois mil, vou oferecer um monte de serviço de quinhentos reais.
+[00:09:06:13 --> 00:09:09:05] Eu recomendo para você não entrar na pirâmide, lembra?
+[00:09:09:06 --> 00:09:14:14] De contratar gente barata para fazer isso aqui e você acabar criando algo que não constrói reputação.
+[00:09:14:20 --> 00:09:17:21] Eu recomendo você ir para serviços de pelo menos cinco mil reais.
+[00:09:17:25 --> 00:09:18:24] Esse aqui é o de entrada.
+[00:09:19:03 --> 00:09:21:01] A gente vai falar ali de como fazer isso.
+[00:09:22:14 --> 00:09:25:22] Você ter um intermediário ali que pode ficar entre 15 e 30 mil.
+[00:09:27:05 --> 00:09:28:04] 15 a 30 mil.
+[00:09:30:17 --> 00:09:32:21] Eita, R$15.000 a R$30.000.
+[00:09:33:06 --> 00:09:35:16] E aí, calma que vocês vão entender.
+[00:09:35:21 --> 00:09:37:21] Vocês vão entender e vão falar, não, eu acho que eu consigo.
+[00:09:38:14 --> 00:09:41:11] E você pode ter também, esse aqui eu vou chamar de Premium.
+[00:09:42:22 --> 00:09:48:14] E você pode ter também alguns serviços dentro dessa escala aqui, que são serviços de...
+[00:09:50:06 --> 00:09:53:25] Add-ons, que você pode oferecer pontos de contato, né?
+[00:09:53:25 --> 00:09:57:09] Vou fazer um site, vou fazer um conteúdo aqui, um...
+[00:09:58:24 --> 00:10:01:12] uma estrutura de conteúdo para você, vou fazer um...
+[00:10:03:15 --> 00:10:05:02] uma identidade visual, são
+[00:10:05:02 --> 00:10:07:12] add-ons, são adicionais ali
+[00:10:08:00 --> 00:10:09:16] on-demand, que a gente fala.
+[00:10:10:04 --> 00:10:10:17] Ou,
+[00:10:11:12 --> 00:10:13:23] alguns podem escolher isso, mas é outro modelo de negócio,
+[00:10:13:28 --> 00:10:15:26] eu não vou nessa linha. Alguns poderiam
+[00:10:15:26 --> 00:10:17:17] escolher, por exemplo, assinatura. Então,
+[00:10:17:18 --> 00:10:19:23] eu vou fazer entrega por assinatura também.
+[00:10:19:26 --> 00:10:21:17] Daria para fazer um estúdio nessa
+[00:10:21:17 --> 00:10:23:25] direção, tá? Aqui eu vou escolher
+[00:10:23:25 --> 00:10:25:12] esse aqui, é um portfólio legal,
+[00:10:25:27 --> 00:10:27:08] serviço de entrada de 5 mil,
+[00:10:27:12 --> 00:10:29:15] serviço premium de 15 a 30 mil
+[00:10:29:15 --> 00:10:31:21] e add-ons, que são touchpoints,
+[00:10:31:21 --> 00:10:33:03] antes fazer um site aqui, fazer
+[00:10:33:03 --> 00:10:35:11] uma identidade visual ali, coisas
+[00:10:35:11 --> 00:10:37:08] mais pontuais, assim, de
+[00:10:37:08 --> 00:10:38:25] pontos de contato e por aí vai.
+[00:10:39:02 --> 00:10:41:12] Isso aqui é bom pra começar, às vezes também poderia
+[00:10:41:12 --> 00:10:42:29] ter algumas automações, coisas assim.
+[00:10:43:11 --> 00:10:45:17] E eu vou colocar isso aqui, tem uma estrutura
+[00:10:45:17 --> 00:10:47:13] aqui, ó, escopo, deixa aqui
+[00:10:47:13 --> 00:10:48:23] que eu vou voltar pra aqui daqui a pouco,
+[00:10:48:26 --> 00:10:50:16] os escopos que a gente vai fazer.
+[00:10:51:03 --> 00:10:53:12] Ainda dentro desse cenário, então, só pra fazer
+[00:10:53:12 --> 00:10:55:06] a conta final, se eu tenho quatro
+[00:10:55:06 --> 00:10:56:14] clientes de...
+[00:10:58:02 --> 00:11:00:23] Nessa média aqui, o que eu vou criar para esse portfólio?
+[00:11:00:24 --> 00:11:04:21] Eu tenho que ter pelo menos, para eu ter quatro clientes, o primeiro mês.
+[00:11:04:27 --> 00:11:08:18] Aí coloca aqui, mês 1, mês 2, mês 3.
+[00:11:08:25 --> 00:11:12:11] Não vou fazer todos os meses, mas vocês vão entender o raciocínio.
+[00:11:12:18 --> 00:11:16:02] Você precisa criar aqui uma cadência de tipo de cliente chegando.
+[00:11:16:02 --> 00:11:18:06] Primeiro mês chegaram quatro clientes novos.
+[00:11:20:06 --> 00:11:22:27] Segundo mês, chegaram quatro clientes novos.
+[00:11:26:21 --> 00:11:29:06] Terceiro mês, chegaram quatro clientes novos.
+[00:11:29:06 --> 00:11:30:16] Isso significa o quê para você?
+[00:11:30:19 --> 00:11:32:27] Significa que em três meses você está com 12 clientes.
+[00:11:33:09 --> 00:11:36:04] Alguns vão pegar serviços novos, outros não vão.
+[00:11:36:12 --> 00:11:39:14] Isso aqui eu não vou desenhar agora, porque a gente ainda vai validar o negócio,
+[00:11:40:01 --> 00:11:43:04] mas é algo interessante para mostrar para vocês que quando a gente vai construir um negócio,
+[00:11:43:11 --> 00:11:47:09] esse é o tipo de estratégia que vale a pena ser feito com um pouco mais de tempo.
+[00:11:47:23 --> 00:11:51:25] Que aí você vai definir assim, se eu tenho essa meta de quatro clientes novos por mês,
+[00:11:51:27 --> 00:11:54:18] com um SDR e um Closer fechando esses quatro clientes para mim,
+[00:11:55:06 --> 00:11:58:09] Eu preciso dividir o meu tempo em atender os novos clientes e os antigos.
+[00:11:58:10 --> 00:12:01:00] Então, a gente tem que criar aqui um fluxo de entrega.
+[00:12:01:12 --> 00:12:03:01] Qual que vai ser esse fluxo de entrega?
+[00:12:03:01 --> 00:12:05:09] Eu só estou dando contexto antes de eu voltar para a oferta ali,
+[00:12:05:11 --> 00:12:09:04] que eu vi que pelo tempo é melhor eu direcionar vocês assim.
+[00:12:09:18 --> 00:12:10:27] Qual que é o fluxo de entrega?
+[00:12:11:15 --> 00:12:12:06] Serviço de entrada.
+[00:12:14:08 --> 00:12:18:27] Depois do serviço de entrada, a gente vai oferecer aqui um upsell, que a gente chama,
+[00:12:19:01 --> 00:12:20:07] que é o serviço premium.
+[00:12:20:19 --> 00:12:22:17] Então, alguns clientes vão trazer o premium depois.
+[00:12:22:24 --> 00:12:25:22] O de entrada, ele é bom, eu chamo essa estratégia de cavalo de Troia,
+[00:12:26:09 --> 00:12:28:21] que é um serviço mais barato, nosso serviço de 5 mil aqui,
+[00:12:28:26 --> 00:12:31:06] que ele serve para você entrar dentro do império, entendeu?
+[00:12:31:12 --> 00:12:32:22] Lembra do presente dos gregos?
+[00:12:32:24 --> 00:12:35:20] Deu o cavalo para Troia, Troia pegou o cavalo, levou para dentro do império,
+[00:12:35:24 --> 00:12:38:19] e aí lá dentro você tem uma posição muito mais estratégica.
+[00:12:38:21 --> 00:12:41:29] Ou seja, o primeiro serviço é para eu conseguir a atenção do meu cliente,
+[00:12:41:29 --> 00:12:45:01] para eu mostrar do que eu sou capaz para gerar valor para ele
+[00:12:45:01 --> 00:12:48:23] e para eu entender mais ainda com especificidade quais são as dores dele ali dentro.
+[00:12:48:27 --> 00:12:50:10] Essa é a estratégia que a gente vai construir.
+[00:12:50:21 --> 00:12:54:20] A partir do cavalo de Troia, entrei dentro do império do cliente,
+[00:12:54:20 --> 00:12:59:09] aí agora eu posso analisar a dor dele para oferecer um upsell para ele depois.
+[00:12:59:18 --> 00:13:02:01] E esses add-ons aqui podem acabar entrando,
+[00:13:02:03 --> 00:13:06:06] são opcionais que entram dependendo de cada cliente.
+[00:13:06:15 --> 00:13:08:01] Essa é a estratégia que a gente vai seguir.
+[00:13:08:04 --> 00:13:09:10] Juan, de onde você está tirando isso?
+[00:13:09:10 --> 00:13:12:24] Eu queria ter tido a oportunidade de explicar isso aqui para vocês também,
+[00:13:12:28 --> 00:13:14:11] mas não vai dar para explicar aqui agora,
+[00:13:14:16 --> 00:13:20:00] porque isso aqui é uma estratégia de diversificação de portfólio de serviço.
+[00:13:20:02 --> 00:13:22:16] Quando você tem uma boa diversificação de portfólio,
+[00:13:22:18 --> 00:13:26:28] você tem várias fontes de receita e não depende de um único tipo de serviço sendo vendido,
+[00:13:27:00 --> 00:13:29:14] mas no final tudo faz parte do mesmo fluxo.
+[00:13:30:15 --> 00:13:31:28] Explicado aqui para vocês isso,
+[00:13:32:01 --> 00:13:35:03] só uma continha rápida para vocês verem se existe ou não oportunidade,
+[00:13:35:03 --> 00:13:40:07] eu ainda vou direcionar isso aqui para que a gente gere valor em cima disso.
+[00:13:41:03 --> 00:13:42:23] O que você pode calcular aqui?
+[00:13:42:27 --> 00:13:45:13] Se eu tenho quatro clientes entrando, eu posso até aqui,
+[00:13:45:15 --> 00:13:48:26] é interessante eu trazer isso aqui no GPT, que ele calcula mais rápido ainda.
+[00:13:50:20 --> 00:13:51:26] Vou trazer ele aqui e vou falar, olha,
+[00:13:51:28 --> 00:13:56:15] tenho quatro clientes entrando todos os meses.
+[00:13:58:14 --> 00:13:59:29] Ofereço serviço de entrada.
+[00:14:01:12 --> 00:14:01:18] De.
+[00:14:03:00 --> 00:14:08:00] 5 mil, opa, dei enter aqui, vou ter que abrir outro, deixa esse link.
+[00:14:08:26 --> 00:14:12:15] Tenho 4 clientes entrando todos os meses, ofereço serviço de entrada de 5 mil.
+[00:14:13:25 --> 00:14:16:13] jogo rápido, frenético
+[00:14:16:13 --> 00:14:18:13] vou deixar assim a edição
+[00:14:18:13 --> 00:14:20:06] e aí eu coloco aqui com ele
+[00:14:20:06 --> 00:14:22:23] eu não aguento, é o toque
+[00:14:22:23 --> 00:14:24:19] aqui do designer, eu acabei de falar
+[00:14:24:19 --> 00:14:25:13] eu já quis corrigir
+[00:14:26:10 --> 00:14:27:19] desentrada de 5 mil reais
+[00:14:28:11 --> 00:14:30:02] desses 4 clientes
+[00:14:32:15 --> 00:14:34:05] quatro clientes, minha meta
+[00:14:34:05 --> 00:14:35:26] é que um deles
+[00:14:37:16 --> 00:14:44:02] Faça o upsell para meu serviço premium de, eu vou colocar aqui numa média de R$25.000.
+[00:14:45:02 --> 00:14:46:15] De R$25.000.
+[00:14:48:21 --> 00:14:52:14] Batendo, olha que interessante, batendo essa meta.
+[00:14:54:02 --> 00:14:55:11] Qual é meu faturamento?
+[00:14:57:03 --> 00:15:02:15] Então, isso aqui vai sendo escalado, porque no final de um ano você tem 48 clientes.
+[00:15:02:17 --> 00:15:06:03] Desses 48 clientes, 25% compraram o seu serviço premium,
+[00:15:06:16 --> 00:15:09:16] que é o que ele vai mostrar aqui, 4 clientes, 20 mil por mês,
+[00:15:09:21 --> 00:15:13:16] mais um upsell de 25 mil, ou seja, total mensal você bate 45 mil.
+[00:15:14:00 --> 00:15:16:22] Faturamento anual, 12 vezes 45 mil, você vai bater meio milhão.
+[00:15:17:03 --> 00:15:19:02] É uma boa validação para o primeiro ano.
+[00:15:19:06 --> 00:15:22:26] Eu provavelmente buscaria um tipo de resultado assim no meu primeiro ano, por quê?
+[00:15:22:26 --> 00:15:27:12] está possível, está possível, quatro clientes no mês,
+[00:15:27:14 --> 00:15:28:28] se eu tenho uma equipe bem formada.
+[00:15:29:06 --> 00:15:30:10] Eu vou nessa linha, tá?
+[00:15:30:23 --> 00:15:32:22] Vou seguir nessa linha aqui com vocês agora.
+[00:15:33:10 --> 00:15:34:27] Só para vocês entenderem aqui,
+[00:15:34:28 --> 00:15:37:25] eu vou chamar isso aqui de estrutura de faturamento.
+[00:15:40:25 --> 00:15:43:24] Vou deixar aqui na nossa documentação, depois a gente poderia formatar.
+[00:15:43:24 --> 00:15:48:01] De repente eu formato isso aqui para vocês, para entregar vocês amanhã, tá?
+[00:15:48:05 --> 00:15:49:17] Mas aqui eu vou deixar assim por enquanto.
+[00:15:50:01 --> 00:15:53:17] Com esse raciocínio em mãos, para que você fez isso tudo, Juan?
+[00:15:53:26 --> 00:15:56:21] Para ver se era válido, se faz sentido.
+[00:15:56:23 --> 00:15:58:20] Eu estou construindo isso aqui ao vivo mesmo, tá?
+[00:15:58:23 --> 00:16:01:01] Por mais que eu tenha uma estrutura do que a gente vai construir,
+[00:16:01:06 --> 00:16:02:19] estou tomando as decisões com vocês.
+[00:16:03:02 --> 00:16:05:05] Então, isso aqui parece válido. Falem aí.
+[00:16:07:03 --> 00:16:10:23] Parece válido para vocês esse tipo de faturamento no primeiro ano?
+[00:16:10:26 --> 00:16:12:19] É uma boa validação para começar?
+[00:16:12:28 --> 00:16:14:22] Só comente aí se vocês acham pouco, muito,
+[00:16:14:26 --> 00:16:17:19] se para validar um negócio é um bom ponto de partida.
+[00:16:17:28 --> 00:16:19:22] Depende de onde vocês já estão hoje, né?
+[00:16:19:26 --> 00:16:21:23] Mas para quem está saindo do cenário mínimo,
+[00:16:21:26 --> 00:16:23:29] que é o que eu apontei aqui, é um bom.
+[00:16:24:16 --> 00:16:26:13] Aí a Marcela falou, não entendo como fechar.
+[00:16:26:17 --> 00:16:27:18] A gente vai mostrar aqui agora.
+[00:16:27:25 --> 00:16:29:22] A questão que entra agora é a seguinte.
+[00:16:30:18 --> 00:16:31:28] Beleza, então eu já sei.
+[00:16:31:29 --> 00:16:33:26] Eu já sei que eu quero fechar clientes
+[00:16:33:26 --> 00:16:36:22] que têm a possibilidade, vamos voltar para cá,
+[00:16:36:22 --> 00:16:38:01] Perfil ideal de cliente agora.
+[00:16:38:16 --> 00:16:41:04] Agora eu preciso encontrar quem paga isso, não é?
+[00:16:41:06 --> 00:16:42:12] Não é isso que a gente precisa definir?
+[00:16:42:17 --> 00:16:44:10] Agora entra o perfil ideal de cliente.
+[00:16:44:10 --> 00:16:46:23] Então como que eu vou definir o perfil ideal de cliente aqui?
+[00:16:46:27 --> 00:16:54:29] Eu preciso de quatro clientes que topam pagar R$5.000 em um serviço.
+[00:16:56:05 --> 00:17:02:23] Preciso de um cliente que tope pagar R$25 mil em um serviço.
+[00:17:03:00 --> 00:17:06:06] Aqui, agora, eu vou adicionar mais um gap,
+[00:17:06:12 --> 00:17:08:09] antes de voltar para o perfil ideal de cliente,
+[00:17:08:26 --> 00:17:11:03] mais um gap que a gente precisa trazer aqui, que é o quê?
+[00:17:11:18 --> 00:17:13:28] Juan, para eu saber quem quer pagar isso,
+[00:17:14:00 --> 00:17:16:14] eu tenho que saber no que essa pessoa está pagando.
+[00:17:17:25 --> 00:17:19:12] Como é que eu sei se o cara vai querer pagar 5 mil
+[00:17:19:12 --> 00:17:21:05] se eu nem sei ainda o que eu vou oferecer nesses 5 mil?
+[00:17:21:18 --> 00:17:22:02] Concordam comigo?
+[00:17:22:23 --> 00:17:25:02] Então, aqui a gente vai vir para o escopo de soluções.
+[00:17:25:23 --> 00:17:27:25] Estou construindo o raciocínio, por isso que a gente está pulando.
+[00:17:28:07 --> 00:17:29:18] E a gente vai definir o seguinte.
+[00:17:29:26 --> 00:17:31:07] A gente já tem algumas premissas.
+[00:17:31:25 --> 00:17:33:25] Estúdio que cuida de infraestrutura de criação,
+[00:17:35:10 --> 00:17:37:08] processos, governança, segurança de marca,
+[00:17:38:02 --> 00:17:39:01] orquestração humana mais IA.
+[00:17:39:08 --> 00:17:40:29] A gente tem esse escopo aqui,
+[00:17:41:01 --> 00:17:42:26] então a gente precisa desses três tipos de serviços.
+[00:17:43:19 --> 00:17:45:23] Quando a gente vê aqui o imã de problemas,
+[00:17:45:23 --> 00:17:48:13] que a solução tem que vir do imã de problemas.
+[00:17:48:26 --> 00:17:50:16] O que nós vemos aqui? Vamos lá.
+[00:17:50:21 --> 00:17:52:05] Vini, você ficou até caladinho, né?
+[00:17:52:07 --> 00:17:53:01] Meti marcha aqui.
+[00:17:54:15 --> 00:17:55:03] O que que a gente tem aqui?
+[00:17:56:29 --> 00:17:58:09] De mais interessante.
+[00:17:59:04 --> 00:18:00:15] Trabalhar muito e sobrar pouco.
+[00:18:01:14 --> 00:18:02:29] Conteúdo que não vira contrato.
+[00:18:04:06 --> 00:18:05:16] Receita imprevisível todo mês.
+[00:18:05:24 --> 00:18:06:26] Dono virando gargalo.
+[00:18:06:27 --> 00:18:07:27] Medo de queimar reputação.
+[00:18:08:10 --> 00:18:08:23] Certo?
+[00:18:09:08 --> 00:18:10:09] Essas são as soluções.
+[00:18:11:01 --> 00:18:14:08] Quando eu pego isso aqui, qual que é o raciocínio sistêmico que eu preciso ter?
+[00:18:14:12 --> 00:18:15:23] Como que o cara chegou nisso aqui?
+[00:18:16:11 --> 00:18:17:15] E aí eu chego no seguinte.
+[00:18:18:03 --> 00:18:19:20] O cara, ele quer cliente.
+[00:18:19:20 --> 00:18:21:00] Pra que ele tenha dinheiro.
+[00:18:21:06 --> 00:18:22:19] Pra que ele tenha lucro.
+[00:18:23:06 --> 00:18:25:24] É isso que o cara quer, é isso que o cara precisa aqui dentro.
+[00:18:27:08 --> 00:18:29:28] E aí, deixa eu ver aqui dentro da hora como que nós estamos.
+[00:18:31:19 --> 00:18:34:16] Já era para eu ter iniciado a oferta aqui, mas a gente vai entrar no ponto.
+[00:18:36:07 --> 00:18:38:05] Isso aqui já é oferta, na verdade.
+[00:18:38:11 --> 00:18:40:19] Eu já estou construindo ela ao mesmo tempo para vocês.
+[00:18:41:04 --> 00:18:42:23] O que a gente precisa entender, então?
+[00:18:42:24 --> 00:18:45:04] Se eu faço esse cara lucrar e ter dinheiro,
+[00:18:46:11 --> 00:18:49:14] eu consigo convencer ele de que vale a pena investir em mim.
+[00:18:49:20 --> 00:18:52:04] Mas, Juan, eu trabalho com criação.
+[00:18:52:14 --> 00:18:53:29] Como é que eu conecto isso com dinheiro?
+[00:18:54:01 --> 00:18:55:28] Eu trabalho, sei lá, com design de ambientes.
+[00:18:55:28 --> 00:18:57:10] Eu trabalho com arquitetura.
+[00:18:57:12 --> 00:18:58:16] Como é que eu conecto isso?
+[00:18:58:25 --> 00:19:02:05] Você vai fazer o exercício de imã de clientes para o seu mercado, lembra?
+[00:19:02:09 --> 00:19:03:18] E aí você vai encontrar as dores.
+[00:19:03:19 --> 00:19:05:20] Como eu já mapeei essas dores, eu estou indo nelas.
+[00:19:05:20 --> 00:19:07:23] e eu consigo entender aqui qual que é o problema.
+[00:19:07:27 --> 00:19:09:29] Trabalhar muito e sobrar pouco, é o maior de todos.
+[00:19:10:10 --> 00:19:11:21] Conteúdo que não vira contrato.
+[00:19:11:23 --> 00:19:13:25] Então o cara está trabalhando, se esforçando e não tem resultado.
+[00:19:14:11 --> 00:19:16:25] Qual que é a lógica secundária que eu trago aqui?
+[00:19:17:00 --> 00:19:19:29] Para que esse cliente tenha dinheiro, ele precisa de atenção.
+[00:19:20:07 --> 00:19:21:16] A gente já concluiu isso também.
+[00:19:21:25 --> 00:19:25:19] Então, atenção é a solução que eu posso trazer.
+[00:19:26:07 --> 00:19:32:02] Minha tese é, se eu trouxer atenção para este cliente,
+[00:19:33:23 --> 00:19:34:09] Então...
+[00:19:35:16 --> 00:19:39:09] Ele pagará pelo meu serviço.
+[00:19:40:12 --> 00:19:41:18] Nós temos dentro da Overlens
+[00:19:42:16 --> 00:19:44:14] uma metodologia que a gente chama de Acro,
+[00:19:45:03 --> 00:19:46:24] que são as quatro grandes demandas.
+[00:19:46:27 --> 00:19:48:16] Depois, em outra oportunidade,
+[00:19:48:16 --> 00:19:49:14] eu falarei isso com vocês.
+[00:19:49:23 --> 00:19:50:05] Atenção.
+[00:19:52:22 --> 00:19:53:11] Conversão.
+[00:19:54:16 --> 00:19:56:27] retenção e organização.
+[00:19:57:09 --> 00:19:59:09] Quando a gente fala de criação para o mercado,
+[00:19:59:09 --> 00:20:01:04] se você resolve esses quatro problemas aqui,
+[00:20:02:01 --> 00:20:05:07] se você tem soluções para eles, as pessoas vão te pagar.
+[00:20:05:16 --> 00:20:07:11] Se você faz marca, se você faz produto,
+[00:20:08:05 --> 00:20:10:00] tudo vai estar ligado com uma dessas daqui,
+[00:20:10:03 --> 00:20:12:00] principalmente quando a gente fala de comunicação.
+[00:20:12:24 --> 00:20:13:06] Beleza?
+[00:20:13:21 --> 00:20:15:15] Uma vez que a gente entende isso aqui então,
+[00:20:15:18 --> 00:20:16:23] que a questão é a atenção,
+[00:20:17:00 --> 00:20:19:02] o meu produto de entrada tem que ser
+[00:20:20:24 --> 00:20:22:06] entregar para esse cliente,
+[00:20:22:06 --> 00:20:23:05] vou colocar aqui nele,
+[00:20:24:20 --> 00:20:34:29] Entregar para este cliente uma solução em que ele consiga a atenção dos clientes sem se matar de trabalhar.
+[00:20:36:09 --> 00:20:39:11] Se eu resolvo essa primeira dor, o cara vai ficar feliz e vai falar, ótimo.
+[00:20:40:09 --> 00:20:46:16] Aí vem, uma vez que ele tem atenção e tem clientes entrando,
+[00:20:47:23 --> 00:20:51:00] Ele evolui para o próximo desafio.
+[00:20:51:00 --> 00:20:52:14] Qual que é o próximo desafio aqui?
+[00:20:53:17 --> 00:20:54:20] Para o próximo desafio.
+[00:20:54:23 --> 00:20:56:20] O próximo desafio dele é...
+[00:20:57:24 --> 00:21:00:18] Agora que eu tenho clientes...
+[00:21:02:12 --> 00:21:08:28] Eu quero previsibilidade e sustentabilidade, processos e infraestrutura.
+[00:21:09:17 --> 00:21:12:00] Então agora ele quer que o negócio não dependa tanto dele.
+[00:21:12:04 --> 00:21:13:15] É o que a gente vai oferecer nesse aqui.
+[00:21:13:19 --> 00:21:15:22] Olha como que eu estou construindo a jornada do cliente aqui.
+[00:21:17:16 --> 00:21:19:07] Parece que eu estou só flutuando,
+[00:21:19:07 --> 00:21:20:26] mas eu estou construindo a jornada do cliente.
+[00:21:20:26 --> 00:21:21:17] Então, acompanha.
+[00:21:22:00 --> 00:21:24:07] Uma vez que eu construí, então, esses dois pontos,
+[00:21:24:10 --> 00:21:26:05] eventualmente ele vai precisar de pontos de contato,
+[00:21:26:06 --> 00:21:26:26] vai precisar de um website,
+[00:21:27:13 --> 00:21:29:18] vai precisar de um website,
+[00:21:30:00 --> 00:21:31:15] vai precisar também de uma marca,
+[00:21:31:20 --> 00:21:36:12] vai precisar também de materiais gráficos
+[00:21:36:12 --> 00:21:38:15] para poder compartilhar com os clientes,
+[00:21:38:15 --> 00:21:40:05] apresentação de vendas.
+[00:21:40:12 --> 00:21:42:12] Então, tem vários pontos de contato
+[00:21:42:12 --> 00:21:43:12] que eu poderia vender aqui
+[00:21:43:12 --> 00:21:45:19] para complementar meu faturamento ainda,
+[00:21:45:23 --> 00:21:46:17] ao longo do ano.
+[00:21:47:18 --> 00:21:48:29] Maravilha. Funciona super bem.

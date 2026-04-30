@@ -1,0 +1,412 @@
+# Video: 2._história_das_ias_-_parte_1_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-22 19:43
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:01 --> 00:00:03:22] Vamos falar, então, sobre a história das inteligências artificiais.
+[00:00:03:23 --> 00:00:08:06] E eu já quero começar isso com essa imagem aqui, vou até me deixar aqui do lado.
+[00:00:08:18 --> 00:00:13:14] Essa é uma fotografia clássica da história das inteligências artificiais.
+[00:00:13:16 --> 00:00:22:20] E é uma foto de Garry Kasparov, na época, em 1997, o maior enxadrista, o maior jogador de xadrez do mundo, um russo,
+[00:00:22:20 --> 00:00:29:12] perdendo pro Deep Blue, uma inteligência artificial que não foi programada.
+[00:00:30:22 --> 00:00:33:19] para poder entender as jogadas de xadrez, mas melhor do que isso,
+[00:00:33:21 --> 00:00:37:28] ela foi ensinada a jogar xadrez, foi aprendendo ao longo do tempo,
+[00:00:38:01 --> 00:00:40:16] e venceu o maior jogador de xadrez do mundo.
+[00:00:40:26 --> 00:00:45:25] O que é legal sobre o Deep Blue é que a primeira vez que ele jogou contra o Kasparov,
+[00:00:45:28 --> 00:00:52:25] ele perdeu, isso aqui foi num segundo evento em que ele joga contra Kasparov,
+[00:00:52:25 --> 00:00:56:19] e nesse segundo evento ele vence Kasparov pela primeira vez,
+[00:00:56:19 --> 00:01:06:23] Um robô vence um jogador de xadrez, principalmente, um jogador de xadrez não, o maior jogador de xadrez do planeta naquela época, que era Garry Kasparov.
+[00:01:06:26 --> 00:01:23:28] E eu gosto de começar com essa imagem porque ela conta muito sobre o ser humano diante de uma inteligência artificial, pensando o que eu vou fazer, qual é o próximo passo que eu vou dar contra um robô que sabe dos meus movimentos e que consegue me vencer e me antecipar nisso tudo.
+[00:01:23:28 --> 00:01:37:28] E para que a gente tenha uma boa jornada aqui, eu quero trabalhar com vocês a história das inteligências artificiais, começando, olha só, em 1940, na década de 40, a origem das IAs.
+[00:01:38:04 --> 00:01:41:17] Nós vamos passar por esses tópicos aqui, inclusive eu vou me colocar...
+[00:01:42:26 --> 00:01:44:13] Vamos colocar ali no cantinho de cima.
+[00:01:48:11 --> 00:01:52:18] Porque tem algumas descrições ali embaixo e aí eu não vou atrapalhar quando é ali em cima.
+[00:01:52:28 --> 00:01:56:26] Então, vez ou outra eu vou voltar nessa linha do tempo aqui,
+[00:01:56:28 --> 00:02:00:03] mas nós vamos passar por cada um desses tópicos.
+[00:02:00:08 --> 00:02:06:05] O que eu quero que vocês prestem atenção primeiro é que eu dividi a linha do tempo em duas fases.
+[00:02:06:07 --> 00:02:11:25] Então, nós vamos aqui até esse momento icônico em que Kasparov perdeu para o Deep Blue.
+[00:02:11:28 --> 00:02:16:03] Ou, vamos inverter a lógica, em que o Deep Blue venceu o Kasparov.
+[00:02:16:03 --> 00:02:21:19] E aí nós temos aqui a era das IAs simbólicas e especialistas, eu vou explicar isso para vocês.
+[00:02:21:28 --> 00:02:28:26] Mas depois de 1997, eu coloco como segunda fase da IA, porque inclusive nesse ano aqui,
+[00:02:29:26 --> 00:02:35:04] nós temos um ano do nascimento da web, não da internet, a internet é mais antiga,
+[00:02:35:06 --> 00:02:45:16] mas a www, a web, como nós conhecemos, ela surge em 96 e ela é um marco muito importante também na história das IAs,
+[00:02:45:16 --> 00:02:50:02] mas porque é através da internet que nós temos a grande produção de dados.
+[00:02:50:11 --> 00:02:51:17] E eu vou mostrar isso para vocês.
+[00:02:51:29 --> 00:02:53:03] Mas vamos seguir aqui então.
+[00:02:53:05 --> 00:02:55:16] Primeiro, prestem bastante atenção nessa linha do tempo.
+[00:02:55:19 --> 00:02:57:03] Nós vamos passar por cada um dos tópicos.
+[00:02:57:10 --> 00:02:59:11] Nós temos a origem das IAS aqui em 1940.
+[00:03:00:05 --> 00:03:03:22] Depois a gente tem o teste de Turing, que eu vou explicar para vocês o que é.
+[00:03:03:29 --> 00:03:09:16] Mas Alan Turing foi um grande pensador e matemático também,
+[00:03:09:19 --> 00:03:12:10] que fez a pergunta pela primeira vez.
+[00:03:12:14 --> 00:03:12:29] Qual pergunta?
+[00:03:13:16 --> 00:03:14:26] Máquinas podem pensar?
+[00:03:14:26 --> 00:03:16:04] Vou mostrar isso para vocês aqui.
+[00:03:16:09 --> 00:03:19:16] Depois a gente tem esse momento icônico da conferência de Dartmouth,
+[00:03:20:16 --> 00:03:24:12] que na verdade é um encontro com algumas poucas pessoas
+[00:03:24:12 --> 00:03:28:18] que iniciaram a era das inteligências artificiais
+[00:03:28:18 --> 00:03:30:13] e os estudos em inteligências artificiais.
+[00:03:30:14 --> 00:03:33:29] Vai ser uma jornada interessante entender também quem eram essas pessoas aqui.
+[00:03:34:10 --> 00:03:38:04] Entramos então na era dos especialistas, na década de 60 e 70.
+[00:03:38:16 --> 00:03:40:11] Dos especialistas por quê?
+[00:03:40:12 --> 00:03:42:13] Não são as pessoas que são especialistas,
+[00:03:42:13 --> 00:03:47:20] Mas é a era dos sistemas especialistas que eram programados para realizar uma tarefa específica.
+[00:03:47:20 --> 00:03:48:17] A gente vai falar disso também.
+[00:03:48:26 --> 00:03:54:25] Depois nós tivemos o primeiro inverno da IA, que foi um momento em que as pessoas ficaram desacreditadas dessa tecnologia.
+[00:03:54:26 --> 00:04:02:11] Olha só, a gente já viveu dois invernos da IA e dizem que a gente vai viver talvez um terceiro inverno da IA nos próximos anos aí.
+[00:04:02:15 --> 00:04:11:14] Mas eu acredito que isso não vai acontecer não, porque o nível que a tecnologia já chegou, não tem como ignorar isso mais.
+[00:04:11:14 --> 00:04:15:19] mas tem novidades chegando o tempo inteiro e o mundo todo está olhando para isso.
+[00:04:15:22 --> 00:04:20:07] Então, eu não acredito que a gente terá mais um inverno não, mas alguns dizem que sim.
+[00:04:20:25 --> 00:04:24:24] Aí nós temos a queda da conexão simbólica, que eram as IAs simbólicas,
+[00:04:24:24 --> 00:04:26:05] vou falar sobre isso aqui também.
+[00:04:26:26 --> 00:04:29:11] Machine Learning, que foi um ponto importantíssimo,
+[00:04:29:11 --> 00:04:33:26] que é quando nós entendemos que as IAs, que as máquinas podem aprender
+[00:04:33:26 --> 00:04:37:29] e que nós podemos ensinar para elas ao invés de programar como nós queremos que elas ajam.
+[00:04:38:03 --> 00:04:39:10] Então, eu vou mostrar isso para vocês.
+[00:04:39:10 --> 00:04:41:07] e aí depois a gente tem a fase 2.
+[00:04:41:17 --> 00:04:44:04] Vamos seguir aqui então, começando com a Alan Turing
+[00:04:44:04 --> 00:04:46:16] e a fatídica pergunta, né?
+[00:04:46:17 --> 00:04:47:23] Can machines think?
+[00:04:48:10 --> 00:04:49:26] Máquinas podem pensar?
+[00:04:50:02 --> 00:04:52:22] Existe esse paper aqui, inclusive, vocês podem pesquisar
+[00:04:52:22 --> 00:04:56:24] o título dele aqui, ó, Computing Machinery and Intelligence.
+[00:04:57:06 --> 00:04:59:08] E vocês vão encontrar o artigo todo completo.
+[00:04:59:22 --> 00:05:02:26] Eu não quero me estender agora aqui no artigo,
+[00:05:02:26 --> 00:05:05:06] mas eu quero que vocês prestem atenção na pergunta, né?
+[00:05:05:07 --> 00:05:06:01] Can machines think?
+[00:05:06:01 --> 00:05:12:02] que foi a pergunta em que, antes de Alan Turing, já existia o conceito de IA,
+[00:05:12:06 --> 00:05:15:02] só que ninguém chamava nessa época de inteligência artificial.
+[00:05:15:07 --> 00:05:20:09] Vou mostrar para vocês quem foi o cara que batizou as inteligências artificiais com esse nome,
+[00:05:20:10 --> 00:05:21:13] de inteligência artificial.
+[00:05:22:12 --> 00:05:30:29] E aqui já existia esse conceito de que máquinas talvez poderiam pensar como seres humanos pensam.
+[00:05:31:01 --> 00:05:35:21] E Alan Turing lança esse paper, mas mais do que isso, uma grande contribuição dele,
+[00:05:36:01 --> 00:05:37:17] foi com o teste de Turing.
+[00:05:37:23 --> 00:05:39:11] E o que é o teste de Turing?
+[00:05:39:17 --> 00:05:42:27] É um teste onde ele criou uma hipótese onde
+[00:05:42:27 --> 00:05:47:07] será que vai chegar um momento em que será indistinguível
+[00:05:48:10 --> 00:05:50:01] uma máquina de um ser humano?
+[00:05:50:13 --> 00:05:53:29] Onde eu não vou saber quem escreveu ou quem falou comigo?
+[00:05:54:14 --> 00:05:56:16] E aí, basicamente, o teste funciona assim.
+[00:05:56:17 --> 00:05:57:18] Você tem duas cabines.
+[00:05:57:22 --> 00:05:59:19] Em uma cabine você coloca uma máquina.
+[00:05:59:23 --> 00:06:01:23] Em outra cabine você coloca um ser humano.
+[00:06:02:10 --> 00:06:04:22] E você faz uma pergunta para os dois.
+[00:06:05:07 --> 00:06:06:28] Ambos vão escrever uma resposta.
+[00:06:07:05 --> 00:06:11:11] Você vai pegar as duas respostas sem saber quem está atrás dessa cabine.
+[00:06:11:11 --> 00:06:13:16] Então, você não sabe que aqui atrás tem uma Iá, né?
+[00:06:13:26 --> 00:06:18:00] Esse bonequinho aqui, esse terceiro...
+[00:06:19:19 --> 00:06:25:00] agente dessa pesquisa, ele recebe as duas respostas, ele precisa ler,
+[00:06:25:03 --> 00:06:30:11] e se ele ler as duas respostas e não souber dizer qual resposta foi de uma inteligência artificial
+[00:06:30:11 --> 00:06:35:29] e qual resposta foi de um ser humano, nós temos uma máquina que pode pensar.
+[00:06:36:01 --> 00:06:38:19] Esse era o teste de Turing, naquela época, 1950.
+[00:06:40:29 --> 00:06:45:08] Inclusive, o teste de Turing, até hoje, ele tem um impacto muito grande,
+[00:06:45:12 --> 00:06:48:25] porque talvez vocês não saibam, mas deixa eu trazer uma curiosidade aqui para vocês.
+[00:06:49:19 --> 00:06:50:22] Vou trazer aqui no...
+[00:06:52:27 --> 00:06:53:09] No Chrome.
+[00:06:55:13 --> 00:07:09:26] Aqui mesmo. Deixa eu puxar aqui para vocês. Se você coloca CAPTCHA, sabe esse termo aqui, CAPTCHA, que você tem que responder uma pergunta para confirmar se você não é um robô?
+[00:07:09:29 --> 00:07:24:01] Pois é, CAPTCHA é um acrônimo que significa teste de Turing público completamente automatizado para diferenciar computadores e humanos.
+[00:07:24:01 --> 00:07:27:18] humanos, só que em inglês, né? Então, se eu coloco aqui, ó,
+[00:07:28:08 --> 00:07:28:27] Capture Mini.
+[00:07:31:13 --> 00:07:31:21] Aqui, ó.
+[00:07:32:26 --> 00:07:35:02] C-A-P-T.
+[00:07:36:25 --> 00:07:38:19] C-H-A.
+[00:07:38:29 --> 00:07:41:03] Captcha significa justamente isso.
+[00:07:41:07 --> 00:07:42:17] Então, é um teste automatizado
+[00:07:42:17 --> 00:07:44:22] para ver se é um humano ou se é um robô,
+[00:07:44:22 --> 00:07:46:27] porque a gente ainda consegue enganar o robô
+[00:07:46:27 --> 00:07:49:04] em algumas coisas. Só que, uma coisa engraçada
+[00:07:49:04 --> 00:07:50:14] é que cada vez mais...
+[00:07:51:26 --> 00:07:54:13] Eu tenho sentido que um robô consegue responder melhor do que eu.
+[00:07:54:15 --> 00:07:57:02] Não sei se já apareceu um capture para vocês, que vocês ficaram assim,
+[00:07:57:05 --> 00:07:58:00] cara, o que é isso?
+[00:07:58:07 --> 00:08:01:00] Clique na entidade que mais se parece com a imagem.
+[00:08:01:03 --> 00:08:03:27] Aí você vê a imagem, procura e fala, cara, não faço ideia.
+[00:08:04:16 --> 00:08:06:21] Mas aí a gente pensa alguns segundos e consegue responder.
+[00:08:07:22 --> 00:08:10:01] E outro dia eu fui recuperar uma senha minha,
+[00:08:10:06 --> 00:08:13:01] eu fiquei com raiva porque passava por tantos processos,
+[00:08:13:01 --> 00:08:17:00] que eu falei, cara, um hacker ou uma IA consegue acessar minha conta
+[00:08:17:00 --> 00:08:18:27] e eu que sou dono dela não consigo, né?
+[00:08:18:28 --> 00:08:20:19] Está ficando difícil desse livro.
+[00:08:20:19 --> 00:08:24:03] mas enfim, então depois de Turing
+[00:08:24:03 --> 00:08:25:21] deixa eu voltar aqui também pra gente
+[00:08:25:21 --> 00:08:26:20] vai ficar melhor assim
+[00:08:27:27 --> 00:08:33:08] Depois de Turing, a gente tem, em 1956, a conferência de Dartmouth.
+[00:08:33:18 --> 00:08:36:25] E aí, nessa conferência, nós temos aqui sete pessoas,
+[00:08:37:00 --> 00:08:38:20] e eu quero fazer um exercício com vocês.
+[00:08:38:22 --> 00:08:40:26] Eu iria colocar o nome deles aqui na apresentação,
+[00:08:40:29 --> 00:08:45:19] mas por que não usar a inteligência artificial nessa aula, né?
+[00:08:45:20 --> 00:08:46:19] De uma maneira divertida.
+[00:08:46:19 --> 00:08:49:07] Eu fiz isso e gostei tanto do resultado que eu quero fazer aqui com vocês.
+[00:08:49:16 --> 00:08:52:21] Eu vou abrir o próprio chat de GPT e pedir ele para me explicar.
+[00:08:52:27 --> 00:08:57:01] É como se ele estivesse vendo uma imagem dos avós dele, né?
+[00:08:57:01 --> 00:08:59:08] Então, explique essa imagem.
+[00:08:59:11 --> 00:08:59:28] Olha que interessante.
+[00:09:00:02 --> 00:09:04:00] Não vou dar nem contexto e ele sabe exatamente quem é cada pessoa nessa imagem aqui.
+[00:09:04:20 --> 00:09:05:29] Então, ele está refletindo aqui.
+[00:09:06:01 --> 00:09:13:22] Estou no O1, mas eu poderia ter colocado também no 4O, que também funcionaria bem.
+[00:09:13:26 --> 00:09:19:02] Ele talvez até responderia mais rápido do que o O1 está demorando aqui.
+[00:09:19:13 --> 00:09:20:01] Puxa vida.
+[00:09:20:08 --> 00:09:21:07] Aí ele respondeu.
+[00:09:21:13 --> 00:09:23:20] Olha só, é uma fotografia em preto e branco.
+[00:09:23:23 --> 00:09:26:13] Ah, olha só, o O1 não conseguiu, né?
+[00:09:26:13 --> 00:09:33:11] mas eu vou fazer aqui de novo, no 4.5, 4.5 ele tende a explicar essa imagem.
+[00:09:34:21 --> 00:09:39:24] Tentei responder bem. Eu já até tinha feito essa pergunta para ele e ele vai falar quem é cada pessoa aqui da imagem.
+[00:09:40:21 --> 00:09:44:00] Talvez se ele puder pesquisar na internet seja mais fácil também, mas vamos ver.
+[00:09:44:08 --> 00:09:44:28] Olha só.
+[00:09:45:09 --> 00:09:50:28] Essa imagem é uma fotografia histórica famosa tirada em 1956 durante a conferência de Dartmouth.
+[00:09:51:24 --> 00:09:54:23] Considerada um evento fundador no campo da inteligência artificial.
+[00:09:55:03 --> 00:09:59:25] A foto mostra um grupo de pioneiros da IA que participaram dessa conferência seminal.
+[00:09:59:28 --> 00:10:01:07] Cara, 1956.
+[00:10:03:04 --> 00:10:08:10] Então nós tivemos a conferência de Dartmoor e esse foi um marco para a história da IA.
+[00:10:09:11 --> 00:10:19:08] Imagina como foi a conversa dessa galera aqui lá em 1956, coisas que eles falavam um dia isso vai acontecer e hoje nós vivemos essa história.
+[00:10:20:01 --> 00:10:25:13] Então a gente entra na era dos sistemas especialistas, principalmente as simbólicas.
+[00:10:25:13 --> 00:10:31:21] E eu trouxe essa imagem aqui do IBM System 360 da década de 60 e 70.
+[00:10:31:28 --> 00:10:35:22] Esses computadores eram enormes, mas qual que era a lógica deles?
+[00:10:35:26 --> 00:10:42:15] Você tinha um computador e esse computador era especialista em uma função específica.
+[00:10:42:16 --> 00:10:47:07] Só que qual que é a diferença de um computador que era especialista em uma função específica
+[00:10:47:07 --> 00:10:50:22] para as inteligências artificiais estreitas que nós temos hoje?
+[00:10:50:26 --> 00:10:54:16] Por exemplo, o Mid Journey é especialista em geração de imagens, certo?
+[00:10:54:16 --> 00:11:01:01] Mas qual que é a diferença? Esses sistemas aqui eram sistemas chamados de inteligências artificiais simbólicas.
+[00:11:01:01 --> 00:11:07:27] Por quê? Você adicionava, você criava símbolos e esses símbolos continham informações específicas
+[00:11:07:27 --> 00:11:12:28] que programavam o computador para executar certa tarefa.
+[00:11:13:00 --> 00:11:21:06] Ou seja, você subia uma base de conhecimento nele e ele respondia com base nas informações que você já havia programado nele.
+[00:11:21:06 --> 00:11:28:17] Ou seja, você não ensinou para esse computador como pensar, como tomar uma decisão e como responder vários contextos diferentes.
+[00:11:28:27 --> 00:11:36:16] Você simplesmente subiu um monte de informações e conectou cabos ali, basicamente conectou perguntas com respostas
+[00:11:36:16 --> 00:11:44:25] e de certa forma também trabalhou ele para que ele fizesse certas análises muito específicas dentro de um campo muito específico.
+[00:11:44:25 --> 00:11:48:01] Ou seja, ele era especialista em uma área.
+[00:11:48:01 --> 00:11:56:10] eu até trouxe aqui para vocês, que é a queda da conexão simbólica, mas eu trouxe esse rule-based expert systems,
+[00:11:56:20 --> 00:12:02:24] então são sistemas baseados em regras, ou seja, eles eram programados na base booleana.
+[00:12:02:28 --> 00:12:08:13] O que é a base booleana? Se, então. Ou seja, se acontecer isso, então reage desse jeito.
+[00:12:08:16 --> 00:12:10:19] Se acontecer dessa outra forma, então reage desse jeito.
+[00:12:10:19 --> 00:12:29:07] Aqui a gente tem esse MISIM, o LISP, prólogue, e esse aqui que eu leio como SHRDLU, que são Inteligências Artificiais Simbólicas, Sistemas Experts Baseados em Egras.
+[00:12:29:07 --> 00:12:48:26] Então, isso começa aqui em 1960, ganhar mais força. Muitas empresas, principalmente a IBM, que era naquela época o auge da computação, a IBM inclusive que inspira Apple, que inspira Microsoft, que inspira muitas dessas marcas gigantes, a Dell também, que hoje são comuns na nossa vida.
+[00:12:48:26 --> 00:12:54:03] Mas a IBM é como se fosse a vovó de todas essas, até porque a IBM já existe há muito tempo.
+[00:12:54:20 --> 00:13:04:28] Tem um mote, um slogan, que a IBM já usava desde 1911, que era Think, ou seja, pense.
+[00:13:05:06 --> 00:13:06:13] Era simplesmente Think.
+[00:13:07:04 --> 00:13:08:07] Então era para pensar.
+[00:13:08:14 --> 00:13:12:23] Tanto que mais tarde o Steve Jobs, junto com a Apple, criou a campanha Think Different,
+[00:13:12:23 --> 00:13:18:21] que era para parafrasear e até mesmo para provocar o Fink da IBM.
+[00:13:19:06 --> 00:13:22:07] Então, a IBM inspirou muito, desde que Steve Jobs era criança,
+[00:13:22:12 --> 00:13:27:24] ele, o Bill Gates também, eles já eram muito influenciados pela IBM.
+[00:13:28:01 --> 00:13:30:11] A IBM era a referência do mundo naquela época.
+[00:13:30:18 --> 00:13:33:04] E ela criava esses supercomputadores gigantes aqui,
+[00:13:33:05 --> 00:13:35:04] que eram computadores especialistas.
+[00:13:35:23 --> 00:13:38:18] Aí, olha só que interessante aqui, a gente tem o primeiro inverno da IA.
+[00:13:38:21 --> 00:13:41:18] Prestem atenção, porque aqui tem alguns conceitos legais
+[00:13:41:18 --> 00:13:42:12] que a gente precisa entender.
+[00:13:42:12 --> 00:13:47:25] A gente tem aqui a conferência de Dartmouth, então Dartmouth Meeting, em 1956.
+[00:13:48:25 --> 00:13:52:25] Aqui a gente tem 1940, aqui a gente está mais ou menos em 1956, tá?
+[00:13:53:07 --> 00:13:58:02] Apesar de que não aparece aqui o link, vocês podem conferir a referência aqui também.
+[00:13:58:15 --> 00:14:03:11] Eu sei que é chato digitar o link, mas vocês podem printar o link, mandar no GPT, ele transcreve para você e você cola lá.
+[00:14:03:18 --> 00:14:07:18] Ou, caso você esteja assistindo a gravação, na descrição tem o link também, beleza?
+[00:14:08:08 --> 00:14:11:28] Mas olha só que interessante, a gente tem esse primeiro marco aqui, Rosenblatt.
+[00:14:12:15 --> 00:14:18:11] Perceptron. A gente vai falar sobre o Perceptron depois, mas ele foi criado e utilizado no IBM 704.
+[00:14:18:25 --> 00:14:27:03] E a partir do Perceptron, a gente tem uma era de criação de muita expectativa e especulação em cima das inteligências artificiais.
+[00:14:27:12 --> 00:14:33:27] Muitas das coisas que nós vemos hoje, eles já previam e imaginavam que isso iria acontecer ali, naquela época de 60, 70.
+[00:14:34:07 --> 00:14:40:19] Só que não foi tão assim que aconteceu, porque eles não tinham todas as tecnologias necessárias para fazer isso acontecer.
+[00:14:40:19 --> 00:14:44:24] não tinham dados suficientes, muitas coisas precisariam ser inventadas ainda,
+[00:14:44:27 --> 00:14:45:21] e vocês vão ver isso aqui.
+[00:14:45:27 --> 00:14:50:14] Mas ali, na década de 60 mesmo, a gente tem o Rosenblatt Book,
+[00:14:50:27 --> 00:14:55:01] Princípios da Neurodinâmica, e a gente tem a criação do Perceptron também,
+[00:14:55:07 --> 00:14:58:03] que eu vou falar mais tarde, mas só para vocês não perderem a linha aqui,
+[00:14:58:06 --> 00:15:04:12] o Perceptron, que está esse gráfico aqui, ele mostra a ideia do Perceptron,
+[00:15:04:14 --> 00:15:07:15] que é uma simulação copiando um neurônio humano,
+[00:15:07:22 --> 00:15:09:09] eu vou mostrar isso para vocês aqui hoje também.
+[00:15:09:09 --> 00:15:15:21] também. É como se fosse o neurônio da inteligência artificial. Então, esse perceptron de Rosenblatt
+[00:15:15:21 --> 00:15:19:17] é criado aqui, então começa a ter um grande desenvolvimento da inteligência artificial,
+[00:15:20:03 --> 00:15:25:04] só que aqui a gente começa a ter uma queda, tá vendo? Então a gente tem aqui os perceptrons fora
+[00:15:25:04 --> 00:15:31:07] do IBM 704 como tecnologia mesmo para ser utilizada, só que ele não estava funcionando,
+[00:15:31:07 --> 00:15:34:28] Ele tinha limitações técnicas que impediam ele de...
+[00:15:37:03 --> 00:15:39:15] de conseguir processar uma grande quantidade de dados,
+[00:15:39:21 --> 00:15:41:02] memorizar esses dados,
+[00:15:41:07 --> 00:15:43:08] coisas que vocês vão ver aqui mais para frente,
+[00:15:43:11 --> 00:15:45:00] antes desse próximo pico,
+[00:15:45:03 --> 00:15:48:15] nós vamos ter como invenções e tecnologias descobertas.
+[00:15:48:15 --> 00:15:50:07] Mas reparem, mais ou menos aqui,
+[00:15:50:10 --> 00:15:52:05] nessa época de Minsky e Papert,
+[00:15:52:08 --> 00:15:54:23] com os perceptrons, a gente tem uma queda,
+[00:15:54:26 --> 00:15:57:00] e o que é chamado de primeiro AI winter,
+[00:15:57:07 --> 00:15:58:28] inverno da inteligência artificial,
+[00:15:59:08 --> 00:16:02:20] onde as pessoas entraram num momento de descrença.
+[00:16:02:21 --> 00:16:05:21] Isso aqui atrapalhou bastante o desenvolvimento da tecnologia,
+[00:16:05:21 --> 00:16:10:12] porque muita gente parou de investir, por medo disso ser uma bolha de especulação também.
+[00:16:10:20 --> 00:16:14:18] Então as pessoas param de investir, o desenvolvimento desacelera,
+[00:16:14:20 --> 00:16:16:26] e aí ele vai indo devagarinho.
+[00:16:16:26 --> 00:16:21:27] Olha só, a gente tem aqui 70 até ali na década de 80 para isso começar a ganhar força de novo.
+[00:16:22:00 --> 00:16:25:20] Então foram um pouco mais de 10 anos aí nesse inverno de aço
+[00:16:25:20 --> 00:16:30:00] e a gente começa a contar a partir daqui, onde a descrença começa a acontecer.
+[00:16:30:19 --> 00:16:35:00] Mas aqui a gente tem o New Cognitron e o Hopfield Model.
+[00:16:35:00 --> 00:16:38:18] Eu não vou me aprofundar nos dois, mas só para vocês entenderem a importância deles aqui.
+[00:16:38:24 --> 00:16:44:10] O New Cogtron foi um dos primeiros passos para a gente desenvolver as redes neurais convolucionais.
+[00:16:44:12 --> 00:16:48:01] Eu não vou falar delas aqui, mas só para vocês entenderem a base delas,
+[00:16:48:02 --> 00:16:54:04] são redes neurais e inteligências artificiais que conseguem trabalhar com o sistema de visão.
+[00:16:54:17 --> 00:16:57:27] Então, o sistema de visão dos carros autônomos que nós usamos hoje,
+[00:16:58:00 --> 00:17:04:14] e até a maneira como o Mid-Journey, o Stable Diffusion e esses modelos de difusão funcionam,
+[00:17:04:14 --> 00:17:09:09] são baseadas em conceitos que vêm desde essa época aqui dos neocognitrons.
+[00:17:09:12 --> 00:17:12:07] Então, são redes neurais especializadas em visão.
+[00:17:12:18 --> 00:17:15:29] E nós temos o Hopfield Model, que eu também não vou me aprofundar nele aqui,
+[00:17:16:02 --> 00:17:18:03] mas para vocês entenderem da importância dele também,
+[00:17:18:06 --> 00:17:22:21] foi um modelo que permitiu as primeiras redes neurais
+[00:17:22:21 --> 00:17:26:01] a guardarem mais memória e mais informação,
+[00:17:26:08 --> 00:17:29:10] porque esse era um dos maiores problemas em relação aos perceptrons aqui,
+[00:17:29:10 --> 00:17:37:12] aqui porque já começa a surgir a ideia de machine learning, inclusive o Neocognitron, o Hopfield,
+[00:17:37:18 --> 00:17:43:27] e eles já são uma base de machine learning, mas o machine learning que eu vou explicar para vocês
+[00:17:43:27 --> 00:17:49:01] ele começa a se desenvolver mais aqui com esse backpropagation que eu vou explicar para vocês,
+[00:17:49:05 --> 00:17:54:14] inclusive olha só que interessante, no backpropagation a gente tem o joelho da curva
+[00:17:54:14 --> 00:17:56:18] exponencial aqui, ou seja, é bem
+[00:17:56:18 --> 00:17:58:08] no finalzinho desse momento aqui
+[00:17:58:08 --> 00:18:00:18] de desenvolvimento lento,
+[00:18:00:21 --> 00:18:02:11] não vou chamar de baixo, mas de desenvolvimento lento
+[00:18:02:11 --> 00:18:04:07] para uma grande aceleração
+[00:18:04:07 --> 00:18:06:02] no conceito de inteligência artificial.
+[00:18:06:12 --> 00:18:08:23] Mas, por enquanto, vamos seguindo por etapas
+[00:18:08:23 --> 00:18:10:24] aqui, o meu objetivo é ensinar
+[00:18:10:24 --> 00:18:12:18] para vocês os fundamentos
+[00:18:12:18 --> 00:18:14:08] das IAs para pessoas criativas.
+[00:18:14:17 --> 00:18:16:17] Então, eu não preciso me aprofundar tanto
+[00:18:16:17 --> 00:18:18:06] aqui quando o assunto fica técnico demais.
+[00:18:18:17 --> 00:18:20:20] Ou seja, o que nós temos até aqui
+[00:18:20:20 --> 00:18:22:20] então, só para a gente acostumar, até na década de
+[00:18:22:20 --> 00:18:24:11] 80. O primeiro inverno
+[00:18:24:11 --> 00:18:26:11] de A, a descrença das pessoas
+[00:18:26:11 --> 00:18:28:17] em relação às inteligências artificiais, muita gente
+[00:18:28:17 --> 00:18:30:16] falando, ah, isso não vai dar em nada. Só que lembrem
+[00:18:30:16 --> 00:18:32:06] de uma coisa, a partir de 1940
+[00:18:32:06 --> 00:18:34:20] muitos livros de ficção científica
+[00:18:34:20 --> 00:18:36:17] que nós conhecemos, eles
+[00:18:36:17 --> 00:18:38:14] começam a surgir nessa época porque esse assunto
+[00:18:38:14 --> 00:18:40:14] ele já era discutido, eles
+[00:18:40:14 --> 00:18:42:00] sabiam que isso em algum momento iria chegar,
+[00:18:42:05 --> 00:18:44:12] então nós temos várias
+[00:18:44:12 --> 00:18:46:17] obras aí de ficção científica que falam
+[00:18:46:17 --> 00:18:48:18] de robôs, né? A gente
+[00:18:48:18 --> 00:18:50:19] tem Star Trek, mas a gente tem também
+[00:18:50:19 --> 00:18:53:09] 2001 e Odecendo o Espaço,
+[00:18:53:14 --> 00:18:55:17] nós temos também Blade Runner,
+[00:18:55:25 --> 00:18:58:05] temos Neuromancer,
+[00:18:58:06 --> 00:18:58:24] temos
+[00:19:00:08 --> 00:19:00:24] Duna,
+[00:19:01:16 --> 00:19:03:26] a ideia de computador e de inteligência artificial
+[00:19:03:26 --> 00:19:06:03] já estava permeando aí em muitos casos
+[00:19:06:03 --> 00:19:08:09] da ficção científica, quem gosta de ficção científica
+[00:19:08:09 --> 00:19:10:09] como eu, lê esses livros e vê
+[00:19:10:09 --> 00:19:11:28] a galera imaginando as coisas e tal.
+[00:19:12:06 --> 00:19:14:11] Mas beleza, então o fim
+[00:19:14:11 --> 00:19:16:02] do primeiro inverno da IA
+[00:19:16:02 --> 00:19:18:10] ele vem com esses três modelinhos
+[00:19:18:10 --> 00:19:19:21] aqui, que são os Neocognitrons,
+[00:19:19:21 --> 00:19:24:11] o Hopfield Model e o Backpropagation, que eu já vou explicar para vocês como funciona.
+[00:19:24:23 --> 00:19:30:21] Nós temos a queda da conexão simbólica, com a queda também com esse fim desse primeiro inverno,
+[00:19:30:21 --> 00:19:34:16] onde vai surgir o conceito de Machine Learning.
+[00:19:35:07 --> 00:19:36:15] Então, qual que era a ideia aqui?
+[00:19:36:18 --> 00:19:43:04] Até esse ponto, como eu expliquei para vocês, esses computadores gigantes que eram utilizados na época eram rule-based,
+[00:19:43:04 --> 00:19:45:04] ou seja, baseado em regras.
+[00:19:45:05 --> 00:19:46:24] E eram sistemas experts,
+[00:19:47:17 --> 00:19:49:28] que você programava a partir de CIS, então.
+[00:19:50:02 --> 00:19:52:29] Eram grandes sistemas com muita coisa.
+[00:19:53:02 --> 00:19:56:03] Imagina você tentar prever todas as possibilidades
+[00:19:56:03 --> 00:19:59:29] que um sistema precisa compreender
+[00:19:59:29 --> 00:20:01:19] para que ele te dê uma resposta precisa.
+[00:20:01:29 --> 00:20:03:24] Então, era um trabalho muito árduo.
+[00:20:03:27 --> 00:20:05:14] E aí, veio a ideia.
+[00:20:05:22 --> 00:20:06:27] Tem muitos nomes.
+[00:20:06:27 --> 00:20:09:14] Eu vou mostrar no final vários nomes importantes para vocês,
+[00:20:09:14 --> 00:20:15:22] para vocês mas começa a surgir a ideia de machine learning. Então a gente tem o início do machine
+[00:20:15:22 --> 00:20:22:02] learning a partir de 1990 e um conceito importante que possibilitou machine learning foi o back
+[00:20:22:02 --> 00:20:27:21] propagation. E o que é o back propagation Juan? Você colocou a imagem mais complexa do mundo para
+[00:20:27:21 --> 00:20:30:29] me explicar isso aqui eu não entendo então vamos voltar para cá que eu vou explicar do jeito mais
+[00:20:30:29 --> 00:20:31:23] simples possível
+[00:20:33:03 --> 00:20:39:07] Imagine que você precisa, que você decidiu contratar um robô para ser um garçom no seu restaurante.
+[00:20:39:22 --> 00:20:45:00] E aí você coloca esse robô para funcionar ali, mas ele não sabe como ser um garçom.
+[00:20:46:03 --> 00:20:47:04] Antigamente como era feito?
+[00:20:47:08 --> 00:20:51:20] Você iria começar a programar, escrever linha por linha ali todas as possibilidades.
+[00:20:51:24 --> 00:20:55:00] Então, se o meu cliente fizer isso, faz isso.
+[00:20:55:03 --> 00:20:56:07] Se ele pedir isso, entrega isso.
+[00:20:56:11 --> 00:20:57:11] Se acontecer isso, faz isso.
+[00:20:57:14 --> 00:20:58:09] Se acontecer isso, faz isso.
+[00:20:58:15 --> 00:20:59:27] Se o copo cair, faz isso aqui.
+[00:20:59:29 --> 00:21:01:12] Se precisar limpar, faz isso daqui.
+[00:21:01:12 --> 00:21:04:28] se precisar responder alguma coisa, vai criando, vai criando.
+[00:21:05:05 --> 00:21:07:14] Pensa no quão extenso é esse trabalho.
+[00:21:07:16 --> 00:21:11:16] Você tem que explicar todos os cenários e possibilidades possíveis para esse robô
+[00:21:11:16 --> 00:21:14:04] de como ele vai ser um garçom no seu restaurante.
+[00:21:14:17 --> 00:21:16:12] Só que ao invés disso, o que você faz então?
+[00:21:16:18 --> 00:21:21:13] E se eu pudesse, essa que é a tese principal em cima do machine learning,
+[00:21:21:20 --> 00:21:30:23] e se eu pudesse ensinar para uma máquina como executar uma tarefa igual um ser humano aprende?
+[00:21:30:23 --> 00:21:33:05] Então já tinha o conceito de perceptron
+[00:21:33:05 --> 00:21:34:22] Que foi baseado no neurônio humano
+[00:21:35:08 --> 00:21:37:02] Que já era um conceito genial
+[00:21:37:02 --> 00:21:38:28] Ainda mais se a gente pensa pra aquela época
+[00:21:39:26 --> 00:21:41:22] Mas a gente começa a trazer isso
+[00:21:41:22 --> 00:21:43:06] Pra agora e fala com ele
+[00:21:43:06 --> 00:21:45:15] Beleza, então eu vou te colocar
+[00:21:45:15 --> 00:21:47:28] Pra ser garçom e tudo que eu quero que você faça
+[00:21:47:28 --> 00:21:49:29] É vai lá e entrega esse copo
+[00:21:49:29 --> 00:21:50:22] Lá na mesa
+[00:21:50:22 --> 00:21:53:11] Aí o robô garçom vai lá
+[00:21:53:11 --> 00:21:55:09] Vai tentar entregar o copo na mesa, o copo cai e quebra
+[00:21:55:09 --> 00:21:56:14] Ele errou
+[00:21:56:14 --> 00:21:59:17] Você traz ele de volta e pede pra ele tentar de novo
+[00:21:59:17 --> 00:22:03:05] Só que dessa vez ele não vai cometer o mesmo erro que ele cometeu antes.
+[00:22:03:11 --> 00:22:05:11] Por que que chama Back Propagation?
+[00:22:05:14 --> 00:22:07:20] Tá vendo que tá pra trás, da direita pra esquerda?
+[00:22:07:21 --> 00:22:10:27] E nós temos essas bolinhas aqui com setinhas que vão passando pra trás?
+[00:22:11:13 --> 00:22:13:23] Algumas estão brancas, outras cinzas, outras pretas.
+[00:22:14:11 --> 00:22:16:00] Basicamente, qual que é a lógica aqui?
+[00:22:16:10 --> 00:22:17:29] A IA começa a aprender...
+[00:22:19:17 --> 00:22:21:11] Com base em binário mesmo, ela começa a aprender.
+[00:22:21:22 --> 00:22:23:22] Acertei ou errei? Certo ou errado?
+[00:22:23:27 --> 00:22:25:16] Certo ou errado? E ela vai fazendo
+[00:22:25:16 --> 00:22:27:17] isso muitas e muitas vezes.
+[00:22:27:19 --> 00:22:29:25] Ela vai passando em ciclos e mais ciclos
+[00:22:29:25 --> 00:22:31:23] para entender. Cada vez que ela erra
+[00:22:31:23 --> 00:22:32:02] menos,
+[00:22:33:16 --> 00:22:34:24] mais afinada ela fica.
+[00:22:36:12 --> 00:22:38:04] a recompensa para ela é acertar.
+[00:22:38:05 --> 00:22:41:02] Então, tudo que a IA quer é parar de errar.
+[00:22:41:04 --> 00:22:43:08] Eu até não mostrei aqui para vocês, mas olha só.
+[00:22:43:12 --> 00:22:45:05] A gente tem a setinha da direita para a esquerda,
+[00:22:45:06 --> 00:22:48:20] e aí nós temos aqui brancos, cinzas e pretos aqui mais escuros.
+[00:22:48:22 --> 00:22:49:09] Qual que é a ideia?
+[00:22:49:16 --> 00:22:52:14] Onde ela está errando e acertando, as setinhas azuis e as setinhas brancas.
+[00:22:52:15 --> 00:22:54:12] Então, ela vai fazendo isso várias e várias vezes,
+[00:22:54:14 --> 00:22:55:11] e no final ela tem um resultado.
+[00:22:55:23 --> 00:22:56:23] Está certo ou está errado?
+[00:22:56:29 --> 00:22:58:12] Se estiver certo, ótimo.
+[00:22:58:12 --> 00:23:01:20] Ela registra isso como se fosse um ponto para ela,
+[00:23:01:21 --> 00:23:03:06] é uma espécie de gamificação mesmo.
+[00:23:03:15 --> 00:23:05:16] Então, ela ganha um ponto, toda vez que ela acerta,
+[00:23:05:16 --> 00:23:06:29] e ela perde um ponto toda vez que ela erra.
+[00:23:07:01 --> 00:23:10:13] O objetivo dela é chegar em 100% de acerto.
+[00:23:10:17 --> 00:23:12:29] E ela vai fazendo isso até diminuir essa quantidade
+[00:23:12:29 --> 00:23:14:21] e chegar em 100% de acerto.
+[00:23:14:29 --> 00:23:18:05] Esse é o conceito que inaugura, inclusive...
+[00:23:18:05 --> 00:23:20:16] Na verdade, ele não inaugura machine learning,
+[00:23:20:19 --> 00:23:22:25] porque o conceito de machine learning já existe
+[00:23:22:25 --> 00:23:24:09] antes do backpropagation.
+[00:23:24:18 --> 00:23:27:26] Então, se eu volto aqui nessa história das IAs,
+[00:23:28:15 --> 00:23:31:10] esse conceito de rede neural já era discutido, inclusive,
+[00:23:31:11 --> 00:23:32:19] lá na conferência de Dartmouth.
+[00:23:32:19 --> 00:23:38:13] de Hartmann. Não do jeito que ele quer hoje, mas já eram teses dele. Se elas podem pensar,
+[00:23:38:14 --> 00:23:42:24] vamos estudar como o ser humano pensa para tentar simular isso? Aí tem aqui o perceptron de
+[00:23:42:24 --> 00:23:47:21] Rosenblatt que também é inspirado no jeito como o ser humano pensa. Então eles usavam isso de exemplo.
+[00:23:48:05 --> 00:23:54:01] Então é esse conceito, aqui ó, neurodinâmicas. Esse conceito já existia, eles já exploravam isso,
+[00:23:54:06 --> 00:23:58:19] mas haviam muitas perguntas sem respostas. Perguntas que hoje já existem muitas respostas
+[00:23:58:19 --> 00:23:59:21] que eu quero mostrar para vocês.
+[00:24:00:00 --> 00:24:03:09] Então surge ali na década de 80
+[00:24:03:09 --> 00:24:05:09] essa ideia de backpropagation
+[00:24:05:09 --> 00:24:06:28] e olha só que interessante,
+[00:24:07:03 --> 00:24:09:01] depois do backpropagation a gente tem
+[00:24:09:01 --> 00:24:13:12] um grande aceleramento,
+[00:24:13:12 --> 00:24:15:05] uma grande aceleração aqui
+[00:24:15:05 --> 00:24:17:20] do desenvolvimento das inteligências artificiais,
+[00:24:17:20 --> 00:24:18:05] um pico.
+[00:24:19:16 --> 00:24:23:27] Isso vai entrar num segundo inverno da Iá, na década de 2000,
+[00:24:24:03 --> 00:24:28:03] por causa de um outro problema que eu já explico para vocês já já qual que é.
+[00:24:28:09 --> 00:24:31:02] Mas nós temos então aqui o fim, olha só.
+[00:24:32:28 --> 00:24:34:25] Segundo inverno da IAC, que eu já vou explicar para vocês,
+[00:24:34:29 --> 00:24:37:14] Deep Learning, eu já vou falar o que é também, e Alpha Zero.
+[00:24:37:19 --> 00:24:40:25] Só que essa segunda parte aqui, a partir do Back Propagation,
+[00:24:40:28 --> 00:24:45:16] nós vamos entrar aqui na segunda fase da história das IACs.

@@ -1,0 +1,528 @@
+1
+00:00:00,028 --> 00:00:01,408
+Agora, para a gente fechar aqui,
+
+2
+00:00:01,588 --> 00:00:04,628
+eu quero só reforçar com você os hubs.
+
+3
+00:00:04,948 --> 00:00:08,508
+Porque ali você vai encontrar a maioria das IAs
+
+4
+00:00:08,508 --> 00:00:10,708
+de tipos diferentes para gerar, para editar,
+
+5
+00:00:10,848 --> 00:00:13,468
+para fazer upscale, para fazer melhoramento delas.
+
+6
+00:00:13,828 --> 00:00:16,668
+E eu já falei um pouco do Freepeak para você,
+
+7
+00:00:16,708 --> 00:00:19,048
+apresentei um pouco aqui como hub o Runway também,
+
+8
+00:00:19,208 --> 00:00:22,308
+mas agora eu quero formatar isso para você
+
+9
+00:00:22,308 --> 00:00:24,408
+dentro de uma lógica aqui de lista,
+
+10
+00:00:24,548 --> 00:00:27,008
+só em relação aos hubs.
+
+11
+00:00:27,188 --> 00:00:28,568
+Então, eu vou abrir ele aqui para você
+
+12
+00:00:28,568 --> 00:00:31,548
+e vamos trazer que tem alguns bem interessantes aqui,
+
+13
+00:00:31,628 --> 00:00:36,288
+até para você usar como referência de imagens.
+
+14
+00:00:36,328 --> 00:00:38,548
+Porque a lógica aqui é a seguinte, você tem que pensar no processo
+
+15
+00:00:38,548 --> 00:00:41,808
+e não só em gerar a imagem, pronto, mas onde ela é inserida,
+
+16
+00:00:41,888 --> 00:00:43,188
+quais referências você coletou.
+
+17
+00:00:43,748 --> 00:00:46,748
+Geralmente você não gera uma imagem, você vai gerando 10, 20 imagens
+
+18
+00:00:46,748 --> 00:00:48,968
+para poder selecionar as melhores, faz parte do processo,
+
+19
+00:00:49,108 --> 00:00:52,148
+eu vou falar disso para vocês ao longo das próximas aulas.
+
+20
+00:00:52,568 --> 00:00:53,268
+Então vamos lá.
+
+21
+00:00:53,788 --> 00:00:55,988
+Primeiro, eu já falei dos hubs de ferramentas.
+
+22
+00:00:55,988 --> 00:00:59,648
+Então nós temos o Freepeek, vou trazer para cá de volta,
+
+23
+00:00:59,768 --> 00:01:03,208
+nós temos o Freepeek, que é um hub de ferramentas,
+
+24
+00:01:03,228 --> 00:01:05,928
+nós temos o Runway, que é um hub de ferramentas,
+
+25
+00:01:05,988 --> 00:01:09,868
+vou até fechar essas outras aqui para listar somente essas.
+
+26
+00:01:09,928 --> 00:01:14,548
+Aqui é onde você tem o custo-benefício se você não for usar API,
+
+27
+00:01:14,888 --> 00:01:17,728
+que é o nível mais avançado com o melhor custo-benefício de todos.
+
+28
+00:01:17,868 --> 00:01:19,088
+Porque pensa comigo, o que é API?
+
+29
+00:01:19,448 --> 00:01:22,588
+API é quando você conecta o modelo direto no seu software.
+
+30
+00:01:22,828 --> 00:01:24,448
+Aí você não tem que pagar taxa.
+
+31
+00:01:24,448 --> 00:01:27,068
+Imagina, o Freepeak criou esse software aqui.
+
+32
+00:01:27,188 --> 00:01:30,108
+Aí ele conecta aqui o Nanobanana, o Seedring,
+
+33
+00:01:30,548 --> 00:01:31,448
+conecta todas as IAs.
+
+34
+00:01:31,808 --> 00:01:34,028
+Só que ele tem que pagar para essas IAs também.
+
+35
+00:01:34,168 --> 00:01:36,588
+Então ele paga a API, mas ele tem que ganhar alguma coisa.
+
+36
+00:01:36,688 --> 00:01:37,368
+Então ele coloca o quê?
+
+37
+00:01:37,508 --> 00:01:39,768
+Ele coloca a gordurinha dele, né? Obviamente.
+
+38
+00:01:40,608 --> 00:01:42,808
+Então você está pagando a mais pelo token aqui.
+
+39
+00:01:42,968 --> 00:01:45,648
+Só que ainda assim é barato e ainda assim vale muito a pena.
+
+40
+00:01:45,848 --> 00:01:48,188
+Só que se você quer trabalhar em um nível mais avançado
+
+41
+00:01:48,188 --> 00:01:51,168
+de automação mesmo, para criar seus fluxos e suas metodologias,
+
+42
+00:01:51,268 --> 00:01:52,288
+aí é melhor usar a API.
+
+43
+00:01:52,288 --> 00:01:56,248
+Se quiser saber mais sobre isso, recomendo não perder a temporada de cursos gratuitos,
+
+44
+00:01:56,248 --> 00:01:59,008
+porque eu vou falar disso principalmente nas últimas semanas de março.
+
+45
+00:02:00,284 --> 00:02:02,264
+no Atlas, que eu deixei pra vocês o link
+
+46
+00:02:02,264 --> 00:02:04,264
+por um real aqui, pra quem tá
+
+47
+00:02:04,264 --> 00:02:06,084
+assistindo e salvando agora, a chance é de vocês,
+
+48
+00:02:06,144 --> 00:02:07,984
+na edição a gente vai tirar isso aqui, beleza?
+
+49
+00:02:08,384 --> 00:02:10,504
+Então, vou pedir pra equipe mandar o link aí de novo,
+
+50
+00:02:10,664 --> 00:02:12,184
+pra quem quiser comprar por um real,
+
+51
+00:02:12,244 --> 00:02:14,104
+o Atlas vai acontecer dia 11 e 12, lá
+
+52
+00:02:14,104 --> 00:02:16,224
+é o nível avançado, eu vou criar na sua frente
+
+53
+00:02:16,664 --> 00:02:17,424
+agentes, workflows,
+
+54
+00:02:18,144 --> 00:02:19,864
+skills e fluxos que vão te,
+
+55
+00:02:19,864 --> 00:02:21,564
+você vai ver nos seus olhos,
+
+56
+00:02:22,324 --> 00:02:24,244
+não tem como desver robôs trabalhando
+
+57
+00:02:24,244 --> 00:02:26,164
+por você, cara. Vários deles
+
+58
+00:02:26,164 --> 00:02:28,304
+ao mesmo tempo e te entregando várias coisas, tá?
+
+59
+00:02:28,304 --> 00:02:31,264
+Mas enfim, 12, é dia 11 e 12 de abril.
+
+60
+00:02:31,364 --> 00:02:34,824
+Já coloca na agenda aí e clica no link que tá aqui no chat
+
+61
+00:02:35,264 --> 00:02:38,084
+pra vocês acessarem, beleza?
+
+62
+00:02:38,424 --> 00:02:39,584
+Então vamos lá, olha só.
+
+63
+00:02:39,864 --> 00:02:43,464
+A gente tem o Freepik, tem o Runway, que também é um hub de ar,
+
+64
+00:02:43,524 --> 00:02:47,264
+tem o Firefly, que também é um hub de ar, tá?
+
+65
+00:02:47,444 --> 00:02:51,444
+As pessoas às vezes não sabem, mas você tem aqui no Firefly o Canva dele, igual eu falei.
+
+66
+00:02:52,004 --> 00:02:53,984
+Deixa eu abrir ele aqui pra vocês, deixa eu ver se...
+
+67
+00:02:54,544 --> 00:02:55,984
+Por aqui vai ser mais fácil.
+
+68
+00:02:56,424 --> 00:02:57,304
+Aqui ó, quadros.
+
+69
+00:02:57,304 --> 00:02:59,244
+Aqui dentro de quadros...
+
+70
+00:03:00,796 --> 00:03:05,756
+Eu vou pegar projeto de design de marca, projeto de filme, projeto de design de imóveis.
+
+71
+00:03:06,016 --> 00:03:08,396
+Eu quero um quadro limpo, cara.
+
+72
+00:03:08,756 --> 00:03:09,856
+Vamos pegar esse aqui então.
+
+73
+00:03:09,956 --> 00:03:12,456
+Ele vai montar o quadro para a gente aqui.
+
+74
+00:03:12,816 --> 00:03:18,176
+Mas basicamente aqui eu tenho vários modelos de ar que eu posso utilizar dentro desse quadro aqui, né?
+
+75
+00:03:18,216 --> 00:03:19,176
+Firefly Boards.
+
+76
+00:03:20,016 --> 00:03:22,996
+Então ele também pode ser considerado um hub.
+
+77
+00:03:23,156 --> 00:03:24,936
+Aqui ele está me dando um exemplo, né?
+
+78
+00:03:25,356 --> 00:03:28,116
+Um canva aqui feito para poder construir uma marca.
+
+79
+00:03:28,916 --> 00:03:29,356
+Interessante.
+
+80
+00:03:29,356 --> 00:03:31,156
+Mas quando eu venho aqui em imagem, olha só
+
+81
+00:03:31,156 --> 00:03:32,776
+Eu posso escolher vários modelos, tá vendo?
+
+82
+00:03:32,976 --> 00:03:35,436
+E aí entre eles tem Nanobanana, Imaging
+
+83
+00:03:35,436 --> 00:03:37,316
+Que também é do Google, GPT, Idlegram
+
+84
+00:03:37,316 --> 00:03:38,796
+Só que tá bem desatualizadinho, hein?
+
+85
+00:03:39,196 --> 00:03:40,576
+Adobe tá ficando pra trás
+
+86
+00:03:42,332 --> 00:03:44,432
+Ixi, tá fraca.
+
+87
+00:03:44,552 --> 00:03:49,172
+Cadê o Seedrin aqui?
+
+88
+00:03:49,892 --> 00:03:51,052
+Tá no Banana 2.
+
+89
+00:03:51,712 --> 00:03:52,812
+Mas enfim, tá aí, ó.
+
+90
+00:03:53,212 --> 00:03:54,632
+Vocês viram, né? Tá desatualizado.
+
+91
+00:03:54,792 --> 00:03:55,652
+Mas tem aí, Firefly.
+
+92
+00:03:55,972 --> 00:03:58,092
+Além desse, tem o Cray, que aí é mais barato.
+
+93
+00:03:59,292 --> 00:04:02,052
+Também vai funcionar, você consegue usar algumas IAs gratuitas aqui também.
+
+94
+00:04:02,112 --> 00:04:03,952
+É um hub de IA.
+
+95
+00:04:03,992 --> 00:04:07,832
+Tem o Leonardo, que a gente viu ali, que também acaba sendo um hub de IA.
+
+96
+00:04:07,872 --> 00:04:09,092
+Não é um modelo de IA.
+
+97
+00:04:09,092 --> 00:04:10,992
+Ele carrega vários modelos aqui.
+
+98
+00:04:11,212 --> 00:04:13,132
+Você pode escolher o hub que você gosta mais.
+
+99
+00:04:13,312 --> 00:04:18,552
+O Visual Electric acaba sendo um hub também de IAs.
+
+100
+00:04:20,764 --> 00:04:22,804
+Então fica como referência.
+
+101
+00:04:22,824 --> 00:04:23,724
+O que não é Hub?
+
+102
+00:04:24,164 --> 00:04:25,064
+Gemini não é Hub.
+
+103
+00:04:25,784 --> 00:04:26,684
+ChatGPT não é Hub.
+
+104
+00:04:26,944 --> 00:04:27,764
+O C...
+
+105
+00:04:29,276 --> 00:04:29,556
+Dream.
+
+106
+00:04:31,100 --> 00:04:32,460
+Eu tenho que lembrar, o Zedrin é o Dance.
+
+107
+00:04:32,680 --> 00:04:34,780
+O Zedrin não é Hubby.
+
+108
+00:04:35,060 --> 00:04:38,280
+O Wayne, é Queen, não é Hubby.
+
+109
+00:04:38,920 --> 00:04:40,080
+Isso são modelos.
+
+110
+00:04:40,100 --> 00:04:42,680
+Os Hubs usam vários modelos, basicamente.
+
+111
+00:04:42,680 --> 00:04:43,240
+É isso.
+
+112
+00:04:43,540 --> 00:04:45,840
+Caraca, não tem mais a página do Visual Electric então?
+
+113
+00:04:46,360 --> 00:04:48,540
+Ele já joga no login?
+
+114
+00:04:48,800 --> 00:04:49,620
+Que sem graça.
+
+115
+00:04:49,700 --> 00:04:51,100
+Vou até tirar ele da lista aqui então.
+
+116
+00:04:51,600 --> 00:04:53,160
+Esses cinco aqui vão suprir vocês.
+
+117
+00:04:53,800 --> 00:04:54,980
+Quais que eu mais gosto?
+
+118
+00:04:55,920 --> 00:04:56,980
+Freepik e Runway.
+
+119
+00:04:58,204 --> 00:04:59,684
+Eu vejo com mais frequência esses dois aqui.
+
+120
+00:05:00,284 --> 00:05:02,144
+Leonardo, eu vou dar uma olhada aqui nesse redesign,
+
+121
+00:05:02,424 --> 00:05:04,904
+achei interessante, apesar de que tinha muito tempo que eu não usava também,
+
+122
+00:05:05,044 --> 00:05:10,804
+não sei se ele vai trazer algo novo, hiper surpreendente aqui para a gente,
+
+123
+00:05:10,824 --> 00:05:14,064
+mas está aí também como um modelo.
+
+124
+00:05:14,464 --> 00:05:14,864
+Beleza?
+
+125
+00:05:15,384 --> 00:05:18,964
+Então, esses são os hubs de A, que tem várias EAs dentro dele,
+
+126
+00:05:19,044 --> 00:05:20,964
+vocês vão ver a gente utilizando eles aqui dentro.
+
+127
+00:05:21,124 --> 00:05:25,504
+No próximo módulo agora, nós vamos falar sobre os fundamentos
+
+128
+00:05:25,504 --> 00:05:27,224
+para escrever os prompts de A, finalmente,
+
+129
+00:05:27,304 --> 00:05:29,264
+depois de todos esses fundamentos aqui,
+
+130
+00:05:29,304 --> 00:05:32,224
+de te preparar do básico até o avançado,
+
+131
+00:05:32,304 --> 00:05:34,084
+está na hora de a gente começar a ver isso.
+
+132
+00:05:34,244 --> 00:05:34,604
+Beleza?
+

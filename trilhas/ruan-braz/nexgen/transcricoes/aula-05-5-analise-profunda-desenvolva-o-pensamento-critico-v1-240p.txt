@@ -1,0 +1,1565 @@
+# Video: 5._análise_profunda_-_desenvolva_o_pensamento_crítico_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-20 16:40
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:02 --> 00:00:05:29] Hoje nós vamos ter uma aula muito louca aqui, eu já vi todo trajado como um cientista maluco,
+[00:00:06:02 --> 00:00:08:18] com o cabelo aqui, deixei de passar.
+[00:00:08:25 --> 00:00:10:26] Essa é aquela aula que ninguém quer que você tenha.
+[00:00:11:24 --> 00:00:13:27] É aquela aula que ninguém vai te ensinar.
+[00:00:15:01 --> 00:00:18:06] Na escola, é aquela aula que...
+[00:00:19:05 --> 00:00:21:08] te dá poder no mundo.
+[00:00:22:10 --> 00:00:28:20] Nós vamos falar sobre pensamento crítico, análise profunda, como tomar decisões e como
+[00:00:28:20 --> 00:00:32:14] conquistar a sua independência intelectual.
+[00:00:32:20 --> 00:00:37:11] Talvez você nunca tenha ouvido falar essa palavra antes, mas ela é muito importante.
+[00:00:38:00 --> 00:00:40:05] E eu acredito que esse é um dos principais fatores.
+[00:00:41:10 --> 00:00:46:11] que vão influenciar designers que conseguem ter resultados de designers que ficam patinando.
+[00:00:47:02 --> 00:00:50:21] Claro que cada pessoa é de um jeito, algumas pessoas vão ter mais dificuldades em alguns
+[00:00:50:21 --> 00:00:57:13] pontos, menos dificuldades em outros, mas eu percebi que aquelas pessoas que conseguem
+[00:00:57:13 --> 00:01:03:05] desenvolver um raciocínio próprio, independente, que conseguem questionar, que conseguem avaliar
+[00:01:03:05 --> 00:01:11:10] uma situação, são as pessoas que costumam fazer boas leituras de contexto e, com
+[00:01:11:10 --> 00:01:12:05] os resultados.
+[00:01:13:12 --> 00:01:18:25] Mas poucas pessoas prestam atenção nessa habilidade, poucas pessoas desenvolvem essa
+[00:01:18:25 --> 00:01:20:28] habilidade com consciência.
+[00:01:21:07 --> 00:01:25:28] Algumas pessoas já nascem com isso um pouco mais desenvolvido, outras vivem experiências
+[00:01:25:28 --> 00:01:32:03] durante suas histórias que acabam desenvolvendo isso, mas para a maioria das pessoas, cada
+[00:01:32:03 --> 00:01:38:28] dia é mais um dia e nós não observamos o que acontece à nossa volta, nós recebemos
+[00:01:38:28 --> 00:01:46:02] uma tonelada de informações e de todas essas informações que nós recebemos, nós costumamos
+[00:01:46:02 --> 00:01:51:20] filtrar muito pouco tudo isso, costumamos concluir pouco sobre essas coisas.
+[00:01:52:04 --> 00:01:57:13] E hoje eu quero mostrar um caminho para vocês desenvolverem isso, porque pensamento
+[00:01:57:13 --> 00:02:04:03] crítico, mais do que qualquer outra coisa, é ciência na sua forma mais pura.
+[00:02:05:01 --> 00:02:10:06] Se na última aula nós falamos de ciência, nós entramos num buraco bem mais profundo,
+[00:02:10:14 --> 00:02:15:22] nessa aula aqui eu prometo pra vocês, nós vamos num campo mais prático.
+[00:02:16:01 --> 00:02:20:29] Eu quero te mostrar como desenvolver seu pensamento crítico, como desenvolver sua
+[00:02:20:29 --> 00:02:21:28] análise profunda.
+[00:02:22:07 --> 00:02:25:23] E pra isso, eu vou subir em ômbulos de gigantes, né?
+[00:02:25:23 --> 00:02:27:11] A gente já aprendeu isso em outra aula.
+[00:02:28:05 --> 00:02:33:23] No final dessa aula aqui eu vou compartilhar com vocês 4 livros que serviram de referência
+[00:02:33:23 --> 00:02:38:20] para o que nós vamos falar aqui. Talvez sejam 5 e não 4. Quando a gente chegar lá, a gente descobre.
+[00:02:39:25 --> 00:02:47:00] Livros que serviram de referência, livros que inclusive são referências globais e que são importantes para a ciência,
+[00:02:47:05 --> 00:02:54:05] são importantes para qualquer profissão e não iria ser diferente para nós, principalmente quando nós falamos de nexialismo.
+[00:02:54:14 --> 00:02:56:14] Tá bom? Então acompanhe aqui comigo.
+[00:02:57:25 --> 00:02:59:08] O que nós vamos falar aqui hoje?
+[00:02:59:17 --> 00:03:05:13] Primeiro, introdução à análise e pensamento crítico, depois nós vamos falar sobre o
+[00:03:05:13 --> 00:03:10:19] ceticismo e o método científico, para seguir para os fundamentos do pensamento crítico,
+[00:03:11:02 --> 00:03:17:10] depois identificação de falácias e erros do pensamento, erros comuns de pensamento,
+[00:03:18:01 --> 00:03:20:14] sistemas de pensamento e a conclusão.
+[00:03:20:14 --> 00:03:22:19] Essa é a estrutura da aula de hoje?
+[00:03:23:24 --> 00:03:29:04] E eu espero que vocês tenham algum lugar para anotar, porque eu vou trazer vários conceitos
+[00:03:29:04 --> 00:03:32:03] aqui também e vai valer a pena vocês anotarem.
+[00:03:33:04 --> 00:03:38:01] Como é de costume, eu já quero começar com uma frase aqui. Dessa vez é uma frase do Carl Sagan,
+[00:03:38:21 --> 00:03:44:00] que diz, a ciência é mais do que um corpo de conhecimentos, é uma maneira de pensar.
+[00:03:44:16 --> 00:03:49:04] E na última aula a gente falou sobre a importância do pensamento, né? Tem uma frase aqui que vai estar
+[00:03:49:04 --> 00:03:53:07] lá para o meio da aula de hoje, mas eu vou antecipa ela também, porque é uma das minhas
+[00:03:53:07 --> 00:04:00:00] frases favoritas, que diz que a qualidade da nossa vida... Olha, nossa, se você já tá anotando,
+[00:04:00:00 --> 00:04:01:07] Eu falei pra ter um lugar pra anotar.
+[00:04:01:10 --> 00:04:05:25] Se você já tá anotando, eu recomendo o Obsidian, mas você pode anotar onde quiser.
+[00:04:06:01 --> 00:04:08:00] Se você já tá anotando, guarda essa.
+[00:04:08:16 --> 00:04:11:13] A qualidade de nossas vidas.
+[00:04:13:05 --> 00:04:16:18] depende da qualidade dos nossos pensamentos.
+[00:04:18:07 --> 00:04:19:18] Essa frase é muito poderosa.
+[00:04:19:26 --> 00:04:21:24] A última aula foi exatamente sobre esse tema, né?
+[00:04:21:26 --> 00:04:27:21] Essa frase sintetiza todo aquele abismo filosófico que a gente entrou na última aula.
+[00:04:28:03 --> 00:04:32:26] A qualidade de nossas vidas depende da qualidade de nossos pensamentos.
+[00:04:32:28 --> 00:04:37:05] Eu vou voltar nessa frase mais tarde nessa aula aqui, mas ela casa muito bem com essa
+[00:04:37:05 --> 00:04:40:23] do Carl Sagan, falando que a ciência é mais do que um corpo de conhecimento, é
+[00:04:40:23 --> 00:04:42:20] uma maneira de pensar.
+[00:04:43:20 --> 00:04:47:09] Então ciência é um hábito, é uma maneira de pensar.
+[00:04:47:09 --> 00:04:49:08] É uma maneira de se comportar.
+[00:04:51:11 --> 00:04:56:05] E não é todo mundo, na verdade, a grande maioria das pessoas não têm uma abordagem,
+[00:04:56:07 --> 00:05:05:07] um comportamento científico. Elas tendem a ter um comportamento mais intuitivo, muitas vezes um
+[00:05:07:09 --> 00:05:12:23] comportamento de não questionamento, porque nós fomos ensinados, assim, ao longo da vida,
+[00:05:13:00 --> 00:05:18:23] a não questionar nada, fomos ensinados a obedecer, né? São virtudes importantes,
+[00:05:18:23 --> 00:05:24:22] são valores importantes, mas nós somos ensinados de maneira extrema. Porque essa
+[00:05:24:22 --> 00:05:30:12] é a maneira mais fácil de controlar uma grande quantidade de pessoas, ensinando valores,
+[00:05:30:20 --> 00:05:36:16] criando cultura. Nós estamos falando de milhões de pessoas, e você consegue controlar isso
+[00:05:36:16 --> 00:05:40:21] a partir de regras, valores e cultura. Então, por um lado, isso é muito importante,
+[00:05:40:21 --> 00:05:45:21] Eu não estou falando que não é, mas por outro tem as desvantagens e para o indivíduo...
+[00:05:46:25 --> 00:05:48:23] Ter essa obediência cega?
+[00:05:50:13 --> 00:05:52:12] é um dos maiores problemas.
+[00:05:52:23 --> 00:05:55:09] Não questionar, aceitar tudo como uma verdade.
+[00:05:55:26 --> 00:05:57:13] E a ciência vai contra isso.
+[00:05:58:01 --> 00:06:04:12] Às vezes, até quando nós entramos em temas mais difíceis de compreender,
+[00:06:04:14 --> 00:06:06:22] como a fé, por exemplo, fica ainda mais difícil,
+[00:06:06:24 --> 00:06:09:19] porque a fé é o oposto do questionamento.
+[00:06:09:24 --> 00:06:12:01] A fé é acreditar, mesmo sem evidências.
+[00:06:13:02 --> 00:06:15:25] Mas não quer dizer que você não possa questionar.
+[00:06:16:00 --> 00:06:18:21] E esse é um equívoco que muitas pessoas cometem.
+[00:06:18:21 --> 00:06:25:06] O próprio Carl Sagan, um dos livros que eu vou indicar aqui é um livro dele, e fala exatamente
+[00:06:25:06 --> 00:06:32:22] sobre esse ponto, sobre a escuridão da dúvida, como se fosse...
+[00:06:33:20 --> 00:06:40:26] aquele ponto que é um pecado você questionar, é um pecado você buscar, sendo que você
+[00:06:40:26 --> 00:06:42:14] só tem que aceitar o mundo como ele é.
+[00:06:42:21 --> 00:06:47:19] E aí a pergunta que vem é se fosse assim mesmo, nós não teríamos descoberto e criado
+[00:06:47:19 --> 00:06:48:21] tantas coisas, né?
+[00:06:49:15 --> 00:06:54:14] Até hoje muitas pessoas morreriam das doenças mais banais e não conseguiriam explicar
+[00:06:54:14 --> 00:06:58:25] isso, dariam uma explicação com pouco embasamento.
+[00:06:59:19 --> 00:07:03:17] Antigamente, as pessoas morriam, até hoje muitas pessoas morrem disso, mas antigamente
+[00:07:03:17 --> 00:07:11:01] era pior ainda, as pessoas morriam de raía, morriam de doenças que hoje são simples,
+[00:07:11:07 --> 00:07:15:13] morriam de gripes que são muito simples e não conseguiam explicar, portanto não conseguiam
+[00:07:15:13 --> 00:07:16:11] lidar com aquilo.
+[00:07:18:01 --> 00:07:20:29] Então, questionar, buscar essa verdade é importante.
+[00:07:21:07 --> 00:07:23:18] E vocês vão entender cada vez mais aqui o porquê hoje.
+[00:07:23:18 --> 00:07:31:18] Eu trouxe até argumentos para isso, né? Porque o pensamento crítico é tão importante e eu dividi aqui em quatro.
+[00:07:33:06 --> 00:07:38:08] Primeiro é importante para a tomada de decisão informada, nós estamos tomando decisão na
+[00:07:38:08 --> 00:07:39:18] nossa vida o tempo inteiro.
+[00:07:39:29 --> 00:07:43:18] O tempo inteiro você faz escolhas, quer você queira ou não, tem pessoas que tem mais
+[00:07:43:18 --> 00:07:47:18] dificuldade de escolher, vão tentar ficar em cima do muro, vão tentar jogar essa
+[00:07:47:18 --> 00:07:49:29] responsabilidade para outra pessoa, escolha por mim!
+[00:07:50:14 --> 00:07:54:26] Mas a verdade é que nós estamos escolhendo o tempo todo, até mesmo não escolher
+[00:07:54:26 --> 00:07:56:14] é um tipo de escolha.
+[00:07:56:23 --> 00:08:02:00] Então, saber tomar decisões informadas, usar o pensamento crítico para tomar
+[00:08:02:00 --> 00:08:06:05] decisões informadas, vai te evitar uma série de problemas que eu vou mostrar para vocês
+[00:08:06:05 --> 00:08:06:18] aqui hoje.
+[00:08:07:08 --> 00:08:12:26] E vai impulsionar vocês para conseguirem ser mais assertivos, mas também vai ajudar
+[00:08:12:26 --> 00:08:14:27] vocês na resolução de problemas complexos.
+[00:08:15:00 --> 00:08:16:18] Eu às vezes falo vocês, mas é todos nós.
+[00:08:16:21 --> 00:08:21:24] Me ajuda muito, ajuda muito vocês e qualquer outra pessoa que já passou por esse planeta.
+[00:08:22:06 --> 00:08:25:18] Pensamento crítico é o que fez a humanidade evoluir.
+[00:08:26:04 --> 00:08:27:17] É a própria ciência, né?
+[00:08:27:17 --> 00:08:33:02] Nós ficamos grandes períodos sem informação, mas os períodos clássicos, como a Grécia
+[00:08:33:02 --> 00:08:38:17] ou o Renascimento, são períodos onde a humanidade floresceu e se desenvolveu.
+[00:08:38:24 --> 00:08:40:15] Então é importante levar isso em consideração.
+[00:08:40:25 --> 00:08:42:12] Evitar manipulações.
+[00:08:43:00 --> 00:08:48:24] Se tem uma coisa que hoje nós temos de maneira saturada no mundo, é manipulação.
+[00:08:49:10 --> 00:08:50:09] De todos os tipos.
+[00:08:50:29 --> 00:08:55:25] Às vezes até nós mesmos manipulamos, mas o tempo inteiro nós estamos sendo manipulados.
+[00:08:55:25 --> 00:09:00:03] E se você quer evitar essas manipulações, é importante que você desenvolva o seu pensamento
+[00:09:00:03 --> 00:09:00:23] crítico.
+[00:09:00:29 --> 00:09:04:26] Ou você vai ser sempre passado para trás, sempre vai ter alguém mais inteligente...
+[00:09:04:26 --> 00:09:06:09] Não, não vou usar a palavra inteligente, né?
+[00:09:06:12 --> 00:09:06:27] Mais esperto...
+[00:09:07:24 --> 00:09:09:24] Aquele espertinho, aquela espertinha.
+[00:09:11:01 --> 00:09:12:21] que vai acabar te passando para trás.
+[00:09:13:12 --> 00:09:16:03] Muitas vezes você não vai nem perceber que isso está acontecendo.
+[00:09:17:04 --> 00:09:19:02] Então, essa aqui inclusive é uma daquelas aulas
+[00:09:20:03 --> 00:09:22:17] que tiram um pouco da nossa inocência.
+[00:09:23:18 --> 00:09:29:08] Você começa a perceber a realidade e é preciso ter coragem também, pra poder...
+[00:09:30:05 --> 00:09:37:03] Enxergar a verdade. Porque a verdade muitas vezes dói pra caramba. E nós temos que ter
+[00:09:37:03 --> 00:09:42:19] coragem pra poder olhar diretamente pra ela, né? Como se ela fosse uma personificação,
+[00:09:43:00 --> 00:09:49:06] olhar nos olhos da verdade. É uma tarefa difícil. Mas não só isso, também pra sua autonomia
+[00:09:49:06 --> 00:09:56:09] intelectual. Ou também, como eu gosto de falar, a sua independência intelectual. Que é um dos
+[00:09:56:09 --> 00:10:01:12] os principais fatores que eu vejo. Já ajudei centenas de designers, já mentorei, inclusive,
+[00:10:01:16 --> 00:10:07:15] no A1, já fiz várias entrevistas, mentorias, consultorias individuais, muitas, centenas.
+[00:10:08:22 --> 00:10:11:17] E de todas elas, se tem um fator...
+[00:10:12:19 --> 00:10:17:15] que eu percebo nas pessoas que conseguem ter resultado, das pessoas que têm dificuldade
+[00:10:17:15 --> 00:10:25:03] para ter resultado, essa bendita autonomia intelectual, independência intelectual, a
+[00:10:25:03 --> 00:10:30:09] capacidade de formular um raciocínio com a própria cabeça e chegar numa conclusão
+[00:10:30:09 --> 00:10:30:26] sozinho.
+[00:10:32:09 --> 00:10:34:11] Se isso já era importante antes,
+[00:10:34:25 --> 00:10:37:18] para o futuro que nós estamos indo é ainda mais importante.
+[00:10:37:26 --> 00:10:39:09] Podem ter certeza disso.
+[00:10:39:15 --> 00:10:41:09] Para o futuro em que nós estamos caminhando...
+[00:10:42:10 --> 00:10:48:22] onde nós vamos ter muito mais acesso aos dados. Nós já temos hoje acesso ao big data
+[00:10:48:22 --> 00:10:53:24] com as inteligências artificiais, mas cada vez mais essa vai ser uma realidade. Quem tem essa
+[00:10:55:14 --> 00:11:00:25] independência intelectual vai estar do lado das pessoas que têm muito potencial. Lembra que eu
+[00:11:00:25 --> 00:11:06:20] falei dessa assimetria de potencial, a gente chamou isso de polarização de habilidades.
+[00:11:06:20 --> 00:11:11:02] Eu sei que foi na primeira aula que eu falei sobre isso, polarização de habilidades.
+[00:11:11:24 --> 00:11:21:16] Então vão ter cada vez mais pessoas que sabem pouco e poucas pessoas que sabem muito.
+[00:11:22:22 --> 00:11:27:10] Criando essa polarização, o meio-termo começa a se dissolver.
+[00:11:27:16 --> 00:11:29:10] Então, a maioria das pessoas vão saber cada vez menos,
+[00:11:29:13 --> 00:11:31:21] porque vai ser tudo muito fácil, então você não precisa
+[00:11:31:21 --> 00:11:33:18] guardar, assimilar, desenvolver.
+[00:11:34:17 --> 00:11:36:06] É como fazer exercício, né?
+[00:11:36:07 --> 00:11:39:20] Se hoje a gente vive uma epidemia de obesidade
+[00:11:39:20 --> 00:11:43:25] por conta dos hábitos e da sociedade, da cultura que nós vivemos,
+[00:11:44:09 --> 00:11:47:10] eu acredito que vai acontecer a mesma coisa em relação ao conhecimento.
+[00:11:47:25 --> 00:11:49:21] Do mesmo jeito que a gente tem que ir para a academia malhar,
+[00:11:49:22 --> 00:11:51:12] a gente vai precisar desenvolver a mente.
+[00:11:51:12 --> 00:11:57:25] de uma academia mental, porque cada vez menos nós vamos fazer isso, porque vão ter inteligências
+[00:11:57:25 --> 00:11:59:19] artificiais fazendo isso por nós.
+[00:12:01:04 --> 00:12:07:04] Então, ter essa autonomia intelectual é muito importante e, para conseguir essa autonomia
+[00:12:07:04 --> 00:12:11:06] intelectual, é imprescindível desenvolver o pensamento.
+[00:12:12:24 --> 00:12:17:18] uma coisa não vive sem a outra. Então, aqui tem alguns, tá? Até o final dessa aula vocês
+[00:12:17:18 --> 00:12:21:12] vão ver vários outros motivos para desenvolver o pensamento crítico e como que isso vai
+[00:12:21:28 --> 00:12:25:23] impulsionar vocês no design. Às vezes as pessoas chegam aqui, né? Eu quero ver uma
+[00:12:25:23 --> 00:12:30:07] aula de design e aí vê uma aula de pensamento crítico e fala, cadê a aula de design?
+[00:12:30:11 --> 00:12:34:04] Isso aqui é design puro, o design depende do pensamento crítico, nós estamos tomando
+[00:12:34:04 --> 00:12:38:09] decisão o tempo inteiro dentro de um projeto. Então isso é importante, tá?
+[00:12:39:15 --> 00:12:47:03] é uma aula muito importante. E aí vem a questão. O pensamento crítico é como uma lente de aumento.
+[00:12:47:13 --> 00:12:54:13] Para a gente já começar aqui do solo, da base. É uma lente de aumento. O que significa isso?
+[00:12:54:29 --> 00:12:58:27] Às vezes você pega uma jóia, eu vou usar o prisma aqui, que eu estou sem minha lente aqui,
+[00:12:59:01 --> 00:13:03:03] devia ter pegado ela. Mas deu errado ali os problemas técnicos, eu acabei não pegando.
+[00:13:03:24 --> 00:13:07:28] Mas vamos supor que isso aqui é um diamante, tá? Eu tenho um diamante aqui na minha mão.
+[00:13:08:14 --> 00:13:14:08] Eu posso olhar pra esse diamante, sem nenhuma lente de aumento, eu posso olhar pra ele e
+[00:13:14:08 --> 00:13:16:16] ver e achar ele muito bonito.
+[00:13:17:05 --> 00:13:21:13] Inclusive dar um valor pra esse diamante, eu posso falar que ele vale um desse tamanho
+[00:13:21:13 --> 00:13:22:14] aqui quanto será que valeria?
+[00:13:23:20 --> 00:13:30:11] 50 milhões? 30 milhões? Eu não faço ideia. Mas é bem grande, né? Talvez 5 milhões, não sei.
+[00:13:31:03 --> 00:13:35:02] Mas eu posso olhar pra ele assim. Agora, um especialista em diamantes, ele vai fazer o quê?
+[00:13:35:05 --> 00:13:40:08] Ele vai pegar uma lente de aumento e vai olhar esse diamante. Vai ver a pureza desse diamante.
+[00:13:40:17 --> 00:13:46:12] Ele vai observar os detalhes desse diamante. Ele vai ampliar. E talvez, se nós fizéssemos isso,
+[00:13:47:03 --> 00:13:52:24] talvez nós percebamos que nem é um diamante. Talvez a gente perceba que
+[00:13:52:24 --> 00:13:59:26] nós fomos enganados, nossos olhos nos enganaram. E a lente de aumento nos permitiu enxergar
+[00:13:59:26 --> 00:14:04:09] detalhes que nós não enxergávamos antes. Então, o pensamento crítico funciona como
+[00:14:04:09 --> 00:14:13:27] essa lente de aumento, que te permite ampliar algum assunto, algum contexto, algum desafio,
+[00:14:14:02 --> 00:14:21:03] algum problema, ampliar esse problema para enxergar ele mais de perto e identificar
+[00:14:21:03 --> 00:14:27:10] a verdade por trás dele. Então, essa é a grande força do pensamento crítico e do
+[00:14:27:10 --> 00:14:32:18] jeito mais simples possível é isso que ele é. É sua capacidade de mergulhar um pouco
+[00:14:32:18 --> 00:14:37:29] mais em um tema ao invés de cuidar só da sua intuição, ao invés de utilizar só
+[00:14:37:29 --> 00:14:40:24] a sua intuição, a sua emoção para tomar decisões.
+[00:14:42:08 --> 00:14:47:19] E aí, a gente também tem a análise profunda, que faz parte da aula, que o título da aula
+[00:14:47:19 --> 00:14:48:24] é a análise profunda.
+[00:14:49:12 --> 00:14:52:13] E a aula tem esse título por causa dessa ideia de lente de aumento.
+[00:14:52:22 --> 00:14:54:22] O pensamento crítico é uma análise profunda.
+[00:14:54:25 --> 00:14:57:20] E a pergunta que vem é como fazer uma análise profunda.
+[00:14:58:00 --> 00:15:02:29] Eu coloquei aqui três pilares, mas a gente vai dar um zoom nisso aqui, tá?
+[00:15:03:04 --> 00:15:06:09] Mas são três pilares importantes quando nós falamos de análise profunda.
+[00:15:06:09 --> 00:15:09:28] Eu tô colocando entre colchete algumas palavras, prestem atenção nisso, são
+[00:15:09:28 --> 00:15:13:28] os conceitos importantes que vocês podem levar para estudar mais depois. Então, primeiro,
+[00:15:14:03 --> 00:15:18:13] contextualize as informações, considere o contexto em que as informações estão inseridas,
+[00:15:18:24 --> 00:15:23:12] qual é a origem das informações, quais são os fatores que podem influenciar esses dados,
+[00:15:24:02 --> 00:15:30:24] e aí ali a gente já tem um ponto astuto para prestar atenção. Um dado não validado...
+[00:15:33:14 --> 00:15:39:00] muitas vezes, vai ser interpretado da mesma maneira que um dado validado.
+[00:15:39:11 --> 00:15:44:14] As pessoas aceitam uma informação e já aceitam ela como verdadeira, sem validá-la antes.
+[00:15:44:21 --> 00:15:47:00] Aqui a gente já tem o primeiro passo para prestar atenção.
+[00:15:49:03 --> 00:15:53:13] A pergunta que entra ali é, quais os fatores que podem influenciar os dados?
+[00:15:54:15 --> 00:16:00:04] Um dado pode estar sujo e você nem viu, ele pode estar enviesado e você não percebeu.
+[00:16:00:08 --> 00:16:05:12] Quando nós começamos a estudar mais sobre a ciência, metodologia científica, nós
+[00:16:05:12 --> 00:16:08:05] começamos a perceber que existem muitas armadilhas nesse caminho.
+[00:16:08:08 --> 00:16:10:22] Hoje eu vou mostrar algumas das armadilhas aqui pra vocês.
+[00:16:11:21 --> 00:16:14:22] E se nós queremos ser mais assertivos, nós precisamos conhecer elas.
+[00:16:15:20 --> 00:16:17:09] Questionar suas premissas.
+[00:16:17:09 --> 00:16:21:17] Nós vamos falar aqui na aula também o que são premissas e o valor que elas têm, mas
+[00:16:21:17 --> 00:16:24:25] já vem ali, ó, não tome nada como garantido.
+[00:16:24:28 --> 00:16:27:22] Questione suas próprias suposições e as suposições dos outros.
+[00:16:27:25 --> 00:16:31:04] Nós já falamos disso em outras aulas também, são as distorções de lente.
+[00:16:31:26 --> 00:16:35:26] E conecte os pontos, relacione as informações novas com o que você já sabe.
+[00:16:36:04 --> 00:16:39:25] Isso ajuda a formar uma compreensão mais completa e integrada do problema.
+[00:16:39:25 --> 00:16:46:15] E aí faz sentido essa aula estar acontecendo exatamente agora, depois de algumas aulas muito
+[00:16:46:15 --> 00:16:52:23] importantes como a aula de visão prismática, a capacidade de enxergar várias perspectivas
+[00:16:52:23 --> 00:16:55:06] diferentes, saber colocar a lente de várias pessoas.
+[00:16:55:15 --> 00:16:59:19] Você desenvolve a habilidade da visão prismática e essa habilidade te ajuda a desenvolver
+[00:16:59:19 --> 00:17:04:22] a habilidade da visão prismática, olha como tudo do pensamento crítico, a visão
+[00:17:04:22 --> 00:17:11:00] prismática te ajuda a desenvolver o pensamento crítico, e o pensamento crítico acaba incentivando
+[00:17:11:00 --> 00:17:16:04] a sua visão prismática, uma coisa acaba conectada na outra. Então, são três pilares
+[00:17:16:04 --> 00:17:20:18] que a gente vai trabalhar aqui um pouco melhor dentro da aula. Eu também trouxe alguns
+[00:17:20:18 --> 00:17:26:12] exemplos porque eu notei que na última aula a gente foi entrando no abismo filosófico
+[00:17:26:12 --> 00:17:30:20] e aí eu vinha com mais teoria, mais teoria, mais teoria, e eu notei que aquela foi uma
+[00:17:30:25 --> 00:17:36:01] muito cabeçuda. E quando a aula fica muito cabeçuda, a nossa cabeça vai ficando gigante,
+[00:17:36:03 --> 00:17:39:12] daqui a pouco ela tomba pro lado assim e a gente não consegue nem andar mais, a gente
+[00:17:39:12 --> 00:17:43:27] perde o fator prático. Então eu trouxe um pouco mais da prática aqui, trazendo isso
+[00:17:43:27 --> 00:17:47:07] um pouco mais pro nosso dia a dia, tá? Então imagine que você está desenvolvendo
+[00:17:47:07 --> 00:17:51:21] uma campanha de marketing para uma nova linha de produtos ecológicos. Ao aplicar o pensamento
+[00:17:51:21 --> 00:17:56:22] crítico, a gente começa a questionar quais são os verdadeiros benefícios desses produtos
+[00:17:56:22 --> 00:18:02:09] para o meio ambiente. Existem dados que comprovem essas afirmações, que foram ditas antes.
+[00:18:02:19 --> 00:18:07:03] Como os consumidores percebem esses produtos? Quais são os possíveis obstáculos para a
+[00:18:07:03 --> 00:18:11:12] aceitação do mercado? São algumas questões que começam a surgir.
+[00:18:12:12 --> 00:18:16:17] Quando eu falo ser questionador, eu já falei isso em outras aulas também, ser uma pessoa
+[00:18:16:17 --> 00:18:19:29] que questiona, esse é um fator importante.
+[00:18:20:10 --> 00:18:26:17] Eu notei que uma das coisas que mais valorizou os meus projetos não foi exatamente o tempo
+[00:18:26:17 --> 00:18:31:02] que eu passava com o Illustrator aberto, mas o tempo que eu passava...
+[00:18:33:00 --> 00:18:37:23] investigando, em busca do resultado também, compreender qual é o valor do design, para
+[00:18:37:23 --> 00:18:40:20] que isso tudo serve, essa capacidade.
+[00:18:41:27 --> 00:18:46:24] de ter o pensamento crítico e desenvolver o raciocínio, saber questionar, saber fazer
+[00:18:46:24 --> 00:18:50:29] perguntas, já era importante antes, agora é mais ainda.
+[00:18:52:00 --> 00:18:58:14] Designers iniciantes geralmente questionam pouco e seguem o padrão que eles viram outras
+[00:18:58:14 --> 00:18:59:12] pessoas seguirem.
+[00:18:59:19 --> 00:19:03:14] E empresas também de pessoas que não entendem o que é uma marca.
+[00:19:04:16 --> 00:19:08:21] também seguem por esse caminho. Por isso que um dos maiores desafios para lidar com
+[00:19:08:21 --> 00:19:14:04] pequenas empresas é porque muitas vezes nem os donos das empresas conhecem elas mesmas.
+[00:19:14:15 --> 00:19:17:03] E por mais que para alguns designers isso é um...
+[00:19:17:29 --> 00:19:22:19] é um ponto fraco, eles vão falar, nossa, que ruim, ali que eu vi a maior força.
+[00:19:23:01 --> 00:19:26:23] Se eu ajudo o meu cliente a ter clareza, ele vai ver valor do que eu faço.
+[00:19:27:06 --> 00:19:29:22] E você consegue mostrar isso para ele desde a primeira reunião.
+[00:19:30:23 --> 00:19:36:04] Então, só para dar um contexto prático, para vocês verem o valor que existe nessa
+[00:19:36:04 --> 00:19:39:00] aula aqui e no pensamento crítico, beleza?
+[00:19:40:05 --> 00:19:46:20] Se vindo adiante então, saindo do exemplo prático, vamos agora para a importância do
+[00:19:46:20 --> 00:19:47:13] ceticismo.
+[00:19:48:06 --> 00:19:53:18] Eu não gosto muito de falar que eu sou cético, porque eu acredito que ser cético, falar
+[00:19:53:18 --> 00:19:59:00] eu sou cético, é uma maneira de fugir da decisão.
+[00:19:59:20 --> 00:20:02:21] Então, as pessoas que são muito céticas falam, eu sou cético, não acredito muito.
+[00:20:03:00 --> 00:20:06:20] Quando você é extremo demais pra isso, aquela pessoa desacreditada, não acredita
+[00:20:06:20 --> 00:20:12:17] nada, eu não... Eu só acredito vendo. Aquela pessoa que é extremamente cética, ela também
+[00:20:12:17 --> 00:20:13:20] vai perder.
+[00:20:14:26 --> 00:20:22:28] muitas sutilezas, muitos detalhes, que às vezes vem da intenção do desejo de buscar um caminho.
+[00:20:24:15 --> 00:20:28:05] Então, o ceticismo que eu vou falar aqui, a importância do ceticismo que eu vou falar aqui,
+[00:20:28:09 --> 00:20:29:21] é o ceticismo ponderado.
+[00:20:31:04 --> 00:20:34:29] É você também não ir pro outro lado, né, ajusta a medida aqui do Aristóteles.
+[00:20:35:15 --> 00:20:41:02] Não é ser exagerado no ceticismo e nem ter a falta dele, porque se você é uma pessoa
+[00:20:41:02 --> 00:20:45:18] que crê cegamente em tudo o que vê, você tem mais problemas do que a pessoa que é
+[00:20:45:18 --> 00:20:47:01] extremamente cética, tá?
+[00:20:47:04 --> 00:20:51:05] Você vai ser uma pessoa facilmente manipulada, então é importante a gente levar isso em
+[00:20:51:05 --> 00:20:51:29] consideração também.
+[00:20:52:25 --> 00:20:55:05] E aí vamos lá, por que o ceticismo é importante?
+[00:20:55:13 --> 00:20:55:21] 1.
+[00:20:55:29 --> 00:20:56:29] Prevenção de enganos.
+[00:20:56:29 --> 00:20:57:19] Nem preciso...
+[00:20:58:21 --> 00:21:02:07] Colocar muito esforço aqui para a gente ver a importância disso.
+[00:21:02:22 --> 00:21:04:22] Se você é uma pessoa cética, o que é o cético?
+[00:21:05:18 --> 00:21:06:25] Ou o que é o ceticismo?
+[00:21:07:20 --> 00:21:11:27] É você não aceitar nada de imediato como uma verdade.
+[00:21:12:14 --> 00:21:15:04] É você ser uma pessoa que de fato questiona, que duvida.
+[00:21:15:28 --> 00:21:17:01] É daí que vem o ceticismo.
+[00:21:17:21 --> 00:21:22:03] E quando você questiona, quando você duvida, quando você decide averiguar um fato
+[00:21:22:03 --> 00:21:27:07] antes de aceitar ele, você se previne de vários enganos.
+[00:21:27:07 --> 00:21:35:03] Você também melhora sua qualidade de decisões e fortalece a sua racionalidade, porque pensar...
+[00:21:36:09 --> 00:21:39:00] gasta energia, pensar é difícil.
+[00:21:39:09 --> 00:21:41:09] Tem até uma frase do Carl Jung que ele fala assim,
+[00:21:41:27 --> 00:21:46:17] pensar é muito difícil, por isso a maioria das pessoas só julga.
+[00:21:48:04 --> 00:21:49:13] A pessoa que julga.
+[00:21:50:25 --> 00:21:51:21] Não é cética!
+[00:21:53:03 --> 00:22:01:18] Porque ela já está confiando na intenção dela 100%, e aí ela julga, sem conhecer, sem descobrir.
+[00:22:02:14 --> 00:22:05:28] Por exemplo, se vocês me julgam aqui, eu estou com o meu cabelo todo assim, vocês nunca me viram,
+[00:22:05:28 --> 00:22:07:15] me vi aqui agora, esse cara é um louco.
+[00:22:08:21 --> 00:22:13:27] e você me julga, você não é uma pessoa cética. Uma pessoa cética diria, eu não conheço esse cara.
+[00:22:14:17 --> 00:22:20:26] Se eu quiser fazer um julgamento dessa pessoa, eu preciso conhecê-la de verdade.
+[00:22:21:17 --> 00:22:27:09] E se vocês repararem, não é muito difícil, galera. Entra no Instagram, entra nas redes sociais,
+[00:22:28:03 --> 00:22:34:15] vai na aba de comentários, entra num ex, no Twitter. Eu me recuso, né? Não que eu me recuso,
+[00:22:34:15 --> 00:22:38:03] mas às vezes... Ah, Twitter é muito mais legal, né? Mas, enfim...
+[00:22:38:03 --> 00:22:45:11] Entra no Twitter, entra no Instagram, vai nos comentários e veja o quanto as pessoas
+[00:22:45:11 --> 00:22:49:05] julgam o tempo inteiro. Julgamento, julgamento, julgamento, julgamento, julgamento, julgamento.
+[00:22:49:27 --> 00:22:57:07] O quanto que as pessoas falam, ah, eu não faço isso. Nossa, isso é cara de algum
+[00:22:57:07 --> 00:23:02:17] estereótipo, né? Então, as pessoas fazem... Ah, isso é cara de empresário, isso é
+[00:23:02:17 --> 00:23:07:23] Cara de galera do CLT, nossa, eu não faço isso, isso aí é muito faria limer.
+[00:23:08:17 --> 00:23:10:04] As pessoas fazem muito isso.
+[00:23:11:04 --> 00:23:13:01] Rotulam e vivem nos rótulos.
+[00:23:13:05 --> 00:23:18:17] Isso inclusive é uma heurística, é um padrão comportamental que o nosso cérebro
+[00:23:18:17 --> 00:23:20:07] desenvolve e as pessoas fazem isso.
+[00:23:20:12 --> 00:23:24:17] Não só para poder se proteger, colocar uma casca.
+[00:23:24:28 --> 00:23:28:00] Fala, eu não sou esse tipo de pessoa.
+[00:23:28:11 --> 00:23:30:10] Mas que tipo de pessoa, afinal?
+[00:23:31:10 --> 00:23:31:23] Ki-tchup!
+[00:23:32:23 --> 00:23:34:27] Se você não conhece de quem você está falando...
+[00:23:37:20 --> 00:23:40:13] E aí, a gente vai entrando cada vez mais
+[00:23:40:13 --> 00:23:43:14] numa compreensão aqui de por que a maioria das pessoas não pensa.
+[00:23:44:06 --> 00:23:50:24] Porque pensar gasta glicose, pensar cansa, pensar é difícil.
+[00:23:52:15 --> 00:23:58:08] E tem uma frase também do Jordan Peterson, daquele livro 12 regras para a vida, que é
+[00:23:58:08 --> 00:24:05:08] muito legal, que ele fala que a maioria das pessoas não pensam, porque para pensar é
+[00:24:05:08 --> 00:24:11:09] importante que você tenha duas vozes dentro da sua cabeça, uma que concorda com o argumento
+[00:24:11:09 --> 00:24:12:19] e outra que discorda.
+[00:24:13:04 --> 00:24:17:12] E aí ele fala até uma construção falando da diferença de homens para mulheres e
+[00:24:17:12 --> 00:24:21:03] como que muitos casais têm conflitos, isso foi muito bom até para mim e para
+[00:24:21:03 --> 00:24:24:05] Eu lembro que na época que eu conversei com ela a gente falou, caraca, é pura verdade, né?
+[00:24:25:14 --> 00:24:27:27] E como que é importante existir a conversa?
+[00:24:28:03 --> 00:24:31:20] Porque geralmente é dentro de uma conversa que as pessoas pensam.
+[00:24:31:27 --> 00:24:34:18] E por isso que é importante deixar as pessoas falarem.
+[00:24:35:06 --> 00:24:38:13] E é por isso que quando nós vamos para a terapia, por exemplo...
+[00:24:40:12 --> 00:24:42:15] Geralmente, o exercício é nos deixar falar.
+[00:24:43:00 --> 00:24:47:25] A terapia é um exercício de pensamento, só que você tem uma outra pessoa pra te questionar
+[00:24:47:25 --> 00:24:48:15] e confrontar.
+[00:24:48:21 --> 00:24:52:28] O que nós estamos aprendendo a fazer aqui agora é colocar uma segunda voz na nossa cabeça.
+[00:24:53:23 --> 00:24:58:20] Uma voz que tem um papel como se fosse de um psicólogo ou de uma pessoa que tem uma
+[00:24:58:20 --> 00:25:00:18] ideia contrária, uma antítese.
+[00:25:01:01 --> 00:25:02:10] Lembra que a gente falou sobre isso?
+[00:25:02:10 --> 00:25:05:13] Então, a pessoa que tem uma antítese e você tem a tese...
+[00:25:06:10 --> 00:25:11:04] E se você tem essas duas vozes dentro da sua cabeça, você consegue pensar, sem isso
+[00:25:11:04 --> 00:25:14:21] você não pensa, você é apenas de vaga, tá?
+[00:25:14:29 --> 00:25:18:16] E aí eu não tô entrando no conceito de pensamento mesmo, porque os pensamentos eles
+[00:25:18:16 --> 00:25:19:09] ficam vindo, né?
+[00:25:19:17 --> 00:25:25:15] A gente poderia ir para esse lado de que os pensamentos também não definem a gente,
+[00:25:25:18 --> 00:25:29:23] porque tem muito pensamento que vem e não nos representam, isso é verdade, entrando
+[00:25:29:23 --> 00:25:34:13] mais a fundo dentro da mente, isso faz sentido, existem muitos pensamentos que não nos
+[00:25:34:13 --> 00:25:34:21] definem.
+[00:25:34:21 --> 00:25:38:00] Mas aqueles pensamentos intencionais são os que mais nos definem.
+[00:25:39:02 --> 00:25:44:08] E quando a gente não faz esse exercício mental de colocar nas duas vozes, não tem pensamento
+[00:25:44:25 --> 00:25:47:06] crítico, nem mesmo para nos confrontar.
+[00:25:47:12 --> 00:25:50:01] Então a maioria das pessoas não pensa, pensar é difícil.
+[00:25:51:04 --> 00:25:54:20] E o ceticismo é sobre isso, é sobre esse questionamento.
+[00:25:56:04 --> 00:25:59:18] Aí como funciona o método científico dentro do ceticismo?
+[00:26:00:11 --> 00:26:05:09] Não dentro do ceticismo, mas como o ceticismo acaba nos levando para o método científico?
+[00:26:05:15 --> 00:26:12:08] Isso aqui já é utilizado há muito tempo, a ciência surge de vários caminhos diferentes,
+[00:26:12:26 --> 00:26:19:06] mas antes da ciência teve a alquimia também, e aí a alquimia... os alquimistas foram
+[00:26:19:06 --> 00:26:24:09] os precursores dos cientistas, que muita gente achava que era bruxaria, e tinha até
+[00:26:24:09 --> 00:26:30:03] um lado mais esotérico dos alquimistas mesmo, mas a essência dos alquimistas era o teste
+[00:26:30:03 --> 00:26:30:19] prático.
+[00:26:31:20 --> 00:26:34:25] Era a química, né? A alquimia gerou a química.
+[00:26:35:00 --> 00:26:37:20] E aí a química é científica, a alquimia é pseudociência.
+[00:26:38:01 --> 00:26:40:12] Hoje a gente não considera a alquimia ciência, né?
+[00:26:40:12 --> 00:26:41:23] A alquimia tinha umas coisas muito loucas.
+[00:26:41:24 --> 00:26:46:02] Se vocês forem pesquisar sobre a alquimia, vocês vão ver umas coisas muito loucas.
+[00:26:46:03 --> 00:26:48:06] Porque eles queriam encontrar a quinta essência, né?
+[00:26:49:21 --> 00:26:53:15] E aí a quinta essência é a essência da vida, né?
+[00:26:53:15 --> 00:26:55:03] Eles queriam gerar vida.
+[00:26:55:28 --> 00:26:58:01] Como se fosse brincar de Deus, Frankenstein.
+[00:26:58:02 --> 00:26:59:18] Os alquimistas queriam gerar vida.
+[00:26:59:18 --> 00:27:05:12] E aí pra isso eles pesquisavam, eles tinham um pensamento crítico dentro do contexto
+[00:27:05:12 --> 00:27:08:08] deles, eles exploravam as coisas e eles pesquisavam.
+[00:27:08:12 --> 00:27:12:20] Dali que surgem várias histórias, as porções mágicas.
+[00:27:13:02 --> 00:27:20:24] O alquimista era visto como mágico, porque ele conseguia misturar metais e causar a
+[00:27:20:24 --> 00:27:23:23] ilusão, as pessoas não sabiam o que era ilusão, hoje a gente sabe, mas causar
+[00:27:23:23 --> 00:27:25:23] a ilusão de criar ouro.
+[00:27:25:23 --> 00:27:31:05] Então, muitas pessoas buscavam os alquimistas no passado porque eu levava prata para um alquimista,
+[00:27:31:14 --> 00:27:33:01] mas o que esse alquimista fazia?
+[00:27:34:00 --> 00:27:41:15] Ele fazia uma fusão, ele derretia os dois metais e juntava a prata com o ouro, e aí
+[00:27:41:15 --> 00:27:47:05] o aspecto da prata ficava com o aspecto de ouro, e parecia que tinha aumentado a
+[00:27:47:05 --> 00:27:52:21] quantidade de prata, mas na verdade não, inclusive dá pra voltar, reverter o processo,
+[00:27:52:23 --> 00:27:53:17] tirar o ouro ali.
+[00:27:53:17 --> 00:27:56:11] Então, os alquimistas faziam muito isso.
+[00:27:56:18 --> 00:28:01:06] Só que a verdadeira busca dos alquimistas, o que eles mais buscavam, era essa quintessência.
+[00:28:01:16 --> 00:28:06:02] E eles acreditavam que para alcançar a quintessência eles precisariam da pedra filosofal,
+[00:28:06:11 --> 00:28:07:23] que era um ingrediente muito importante.
+[00:28:08:06 --> 00:28:09:24] Mas eles faziam umas coisas muito loucas.
+[00:28:10:05 --> 00:28:15:23] Aqui nós estamos entre adultos, então eu posso falar, mas eu acho que isso também não é nada demais não.
+[00:28:16:08 --> 00:28:21:04] Assim, é absurdo, mas não é nada... eu acho que não tem Tarja Preta 18 anos para isso.
+[00:28:21:05 --> 00:28:21:27] É uma informação.
+[00:28:21:27 --> 00:28:26:05] né? Eles queriam tanto encontrar vida que se vocês forem pesquisar sobre os alquimistas,
+[00:28:26:08 --> 00:28:29:26] vocês vão ver lá experimentos dos alquimistas para encontrar quintessência. Eles queriam
+[00:28:29:26 --> 00:28:34:12] gerar vida. E eles queriam gerar, eu não lembro se chama, homínculo.
+[00:28:35:17 --> 00:28:38:16] ou múnculo, que é um mini homenzinho, eles queriam...
+[00:28:38:16 --> 00:28:42:02] Eram as coisas que eles queriam fazer, né? Tavam dedicados a fazer.
+[00:28:42:21 --> 00:28:45:25] E aí, se você for pesquisar, tem uns métodos muito loucos, como
+[00:28:45:25 --> 00:28:48:17] injetar esperma humano num ovo de galinha, olha...
+[00:28:50:11 --> 00:28:57:00] Olha as ideias que os caras tiveram, mas eles testavam, eles testavam as coisas.
+[00:28:57:19 --> 00:29:04:27] Então, porque o esperma é a semente, né, o semen é a semente, e aí eles observaram
+[00:29:04:27 --> 00:29:08:08] que a vida vinha dali e tentavam reproduzir, né?
+[00:29:08:28 --> 00:29:10:12] E aí da alquimia veio a química.
+[00:29:10:22 --> 00:29:11:23] Então, só um...
+[00:29:11:23 --> 00:29:14:14] Um parênteses aqui, essas curiosidades são muito loucas, mas...
+[00:29:15:11 --> 00:29:16:01] A verdade?
+[00:29:17:07 --> 00:29:23:28] que o método científico permitiu a humanidade a organizar o conhecimento, e não só organizar
+[00:29:23:28 --> 00:29:26:12] com esse conhecimento, mas validá-lo.
+[00:29:27:14 --> 00:29:28:23] Vocês vão ver isso mais pra frente.
+[00:29:29:06 --> 00:29:32:04] Só que eu quis trazer um passo a passo, mesmo que seja um passo a passo básico.
+[00:29:33:04 --> 00:29:36:28] Isso aqui foi uma coisa que eu aprendi lá na faculdade, tinha lá metodologia científica,
+[00:29:36:29 --> 00:29:41:21] eu achava chato pra caramba, porque eu tive professores que não eram tão bons, na verdade.
+[00:29:42:10 --> 00:29:44:26] E aí a gente tinha que ficar estudando regra BNT.
+[00:29:45:10 --> 00:29:48:19] Se fosse uma aula mesmo sobre o valor da ciência, igual eu tô mostrando aqui pra
+[00:29:48:19 --> 00:29:51:18] vocês, cara, poxa, isso aqui é eletrizante, né?
+[00:29:51:26 --> 00:29:52:09] Mas enfim.
+[00:29:53:06 --> 00:29:57:11] Então, olha só, seis passos para o método científico básico.
+[00:29:57:15 --> 00:29:58:25] Primeiro, observação.
+[00:29:59:15 --> 00:30:01:00] Aí a ciência estuda o quê?
+[00:30:01:15 --> 00:30:07:22] fenômenos, lembra lá de Kant? Kant define que existem número e fenômeno. O número
+[00:30:07:22 --> 00:30:12:10] é a coisa em si, é aquilo que nós não temos acesso, é a vastidão do universo
+[00:30:12:10 --> 00:30:16:19] que precisa ser explorada, é a realidade em si, e o fenômeno...
+[00:30:17:23 --> 00:30:23:27] a maneira da realidade se revelar para nós. O fenômeno é o input, é o estímulo que nós temos
+[00:30:23:27 --> 00:30:31:19] para poder estudar o universo. Então, tudo pode ser um fenômeno. Quando a maçã cai na cabeça de
+[00:30:31:19 --> 00:30:38:14] Newton, aquilo é um fenômeno que ajuda Newton a compreender a lei da gravidade. E tudo parte da
+[00:30:38:14 --> 00:30:46:26] observação. Newton mesmo fala que ele dedica as descobertas dele muito mais à observação atenta
+[00:30:48:13 --> 00:30:53:19] do que a métodos matemáticos e físicos, a esse tipo de genialidade.
+[00:30:54:24 --> 00:30:58:04] Observação atenta, inteligência visual.
+[00:30:58:10 --> 00:31:02:18] Eu falo disso na aula de inteligência visual, no curso design e percepção visual, muito
+[00:31:02:18 --> 00:31:03:09] importante essa aula.
+[00:31:03:23 --> 00:31:07:07] Se você tiver a oportunidade de assistir, assista.
+[00:31:08:03 --> 00:31:08:22] E...
+[00:31:10:07 --> 00:31:14:09] Newton defende, então, que a observação atenta.
+[00:31:15:19 --> 00:31:21:10] é mais valiosa. E quando nós vamos aqui para a metodologia científica, a observação é o primeiro passo.
+[00:31:21:16 --> 00:31:27:12] Identificar um problema ou uma pergunta baseada em observação. O segundo passo é pesquisar.
+[00:31:27:15 --> 00:31:31:09] E o que é pesquisa? Reunir informações e recursos para entender esse problema.
+[00:31:31:25 --> 00:31:39:00] Você pode reunir observações observando mesmo, anotando, a moda antiga. Você pode hoje reunir
+[00:31:39:00 --> 00:31:44:00] informações com outras pesquisas, perguntando. Tem vários métodos científicos, eu não vou entrar
+[00:31:44:00 --> 00:31:49:07] neles, mas eu quero que você entenda a essência da coisa, mas você pode pesquisar, às vezes,
+[00:31:49:18 --> 00:31:51:16] parênteses aqui para a gente voltar para a prática.
+[00:31:52:15 --> 00:31:54:02] Muitas vezes eu recebo esse tipo de dúvida.
+[00:31:54:03 --> 00:31:57:03] O que eu faço em uma pesquisa de um projeto de design?
+[00:31:57:06 --> 00:31:58:12] Como que a pesquisa me ajuda?
+[00:31:59:05 --> 00:32:00:07] Muita gente tem dificuldade.
+[00:32:00:21 --> 00:32:04:28] Mas se você entender a base, a essência, você entende que não tem segredo na pesquisa.
+[00:32:05:04 --> 00:32:08:17] Tem a pesquisa que é qualitativa e a pesquisa que é quantitativa.
+[00:32:08:21 --> 00:32:11:09] A pesquisa quantitativa é aquela de quantidade.
+[00:32:11:19 --> 00:32:13:22] A quantidade aumenta a probabilidade.
+[00:32:13:26 --> 00:32:16:03] Então você tem um dado mais validado.
+[00:32:16:10 --> 00:32:19:05] Fazer uma pesquisa com mil pessoas é diferente de fazer uma pesquisa com três.
+[00:32:19:05 --> 00:32:23:03] Inclusive, existe um viés que nós vamos ver aqui hoje que é justamente esse.
+[00:32:23:18 --> 00:32:29:27] Você toma uma decisão precipitada, generalizada, apressada, inclusive esse viés se chama
+[00:32:29:27 --> 00:32:31:20] generalização apressada.
+[00:32:32:01 --> 00:32:35:22] Você generaliza algo com base em poucos dados.
+[00:32:36:07 --> 00:32:38:24] Ah, três pessoas falaram, então deve ser verdade.
+[00:32:40:00 --> 00:32:41:04] Um dado é importante.
+[00:32:41:16 --> 00:32:43:02] E tem a pesquisa qualitativa.
+[00:32:43:03 --> 00:32:49:04] Mas também tem a pesquisa qualitativa, que é essa de quantidade, mas também tem
+[00:32:49:04 --> 00:32:49:18] pesquisa.
+[00:32:51:05 --> 00:32:53:08] Eita, troquei as palavras.
+[00:32:53:26 --> 00:32:59:21] Existe a pesquisa quantitativa, que é essa de quantidade, e a pesquisa qualitativa, que
+[00:32:59:21 --> 00:33:02:02] é a pesquisa de qualidade.
+[00:33:02:13 --> 00:33:03:25] E o que é qualidade?
+[00:33:04:09 --> 00:33:09:23] É quando você tem um dado que ele é mais relevante, ele é mais aprofundado, ele não
+[00:33:09:23 --> 00:33:10:28] é tão superficial.
+[00:33:12:00 --> 00:33:15:24] Só que muitas vezes, para ter esse dado mais validado, você tem que investir mais
+[00:33:15:24 --> 00:33:17:23] tempo em um contexto específico, que é diferente.
+[00:33:18:00 --> 00:33:19:03] É a pesquisa quantitativa.
+[00:33:19:03 --> 00:33:24:03] E dentro do design e do branding também, isso é muito importante, se você quer chegar
+[00:33:24:03 --> 00:33:24:23] nessa verdade.
+[00:33:25:16 --> 00:33:27:21] O design e o branding vivem de dados.
+[00:33:28:18 --> 00:33:30:27] São os dados, inclusive, que diferenciam o design da arte.
+[00:33:31:22 --> 00:33:32:27] A arte não precisa de dados.
+[00:33:34:05 --> 00:33:39:15] Talvez essa frase, inclusive, possa ser corrigida, porque tudo é dado, a sua vivência, seus
+[00:33:39:15 --> 00:33:45:06] históricos são dados, e a partir disso você faz arte, então tudo é dados, até para
+[00:33:45:06 --> 00:33:45:15] a arte.
+[00:33:45:27 --> 00:33:52:23] Mas a arte não trabalha de maneira tão científica e aprofundada nos dados quanto
+[00:33:52:23 --> 00:33:55:05] o design, o design depende desses dados.
+[00:33:56:12 --> 00:33:57:20] e o branding também.
+[00:33:58:11 --> 00:33:59:21] Então, às vezes, vem essas dúvidas.
+[00:33:59:22 --> 00:34:01:29] Juan, como é que eu faço para aprender branding?
+[00:34:02:01 --> 00:34:04:00] Como é que eu faço para poder melhorar meu design?
+[00:34:04:14 --> 00:34:08:08] Você precisa começar a desenvolver um relacionamento mais íntimo com os dados,
+[00:34:08:18 --> 00:34:12:08] saber ler esses dados e saber adquirir esses dados também.
+[00:34:12:15 --> 00:34:15:09] E isso é metodologia científica.
+[00:34:15:17 --> 00:34:16:28] Eu estou dando o caminho aqui para vocês.
+[00:34:16:29 --> 00:34:18:26] Vocês podem se aprofundar depois, se quiserem.
+[00:34:19:01 --> 00:34:21:17] Mas é puramente metodologia científica.
+[00:34:21:20 --> 00:34:22:12] É pesquisa.
+[00:34:22:12 --> 00:34:26:21] E hoje é possível fazer pesquisa em ambientes reais e em ambientes virtuais também.
+[00:34:27:02 --> 00:34:31:08] O engenheiro, quando roda no software um determinado contexto, sei lá, um engenheiro
+[00:34:31:08 --> 00:34:35:29] de carros, de estrutura de segurança de carro, ele roda uma simulação de um carro colidindo
+[00:34:35:29 --> 00:34:37:05] com um objeto.
+[00:34:37:18 --> 00:34:43:04] Essa simulação baseada em cálculos, é totalmente racional, virtual, ela também
+[00:34:43:04 --> 00:34:44:09] é metodologia científica.
+[00:34:45:02 --> 00:34:46:27] Então, em um ambiente virtual eu consigo simular.
+[00:34:47:13 --> 00:34:52:12] E a mesma coisa acontece no mundo do design, no mundo da estratégia, no mundo do branding.
+[00:34:52:12 --> 00:34:57:14] tá? Quando você quer entender... Se você entende esse conceito, né? O que o branding
+[00:34:57:14 --> 00:35:02:18] quer pesquisar? O que um gestor de marcas vai pesquisar? Se ele está construindo uma
+[00:35:02:18 --> 00:35:07:15] marca, olha só como que o raciocina a base dele é esse. E se você tem clareza mental
+[00:35:07:15 --> 00:35:14:27] e tem essa independência intelectual, essa autonomia intelectual, basta você parar
+[00:35:14:27 --> 00:35:19:05] pensar e você mesmo, ou você mesma, consegue concluir.
+[00:35:20:09 --> 00:35:23:01] o que é branding e o que faz um profissional de branding,
+[00:35:23:05 --> 00:35:25:24] o que faz um brand manager, um gestor de marcas.
+[00:35:26:12 --> 00:35:28:00] Se ele trabalha gerindo uma marca,
+[00:35:28:27 --> 00:35:31:29] ele trabalha na etapa de construção dessa marca.
+[00:35:32:12 --> 00:35:36:03] Ele trabalha na etapa de gerenciamento dessa marca.
+[00:35:36:24 --> 00:35:39:00] E onde acontece o gerenciamento dessa marca?
+[00:35:39:19 --> 00:35:41:13] Acontece nos pontos de contato?
+[00:35:41:29 --> 00:35:44:21] Ou será que os pontos de contato são
+[00:35:44:21 --> 00:35:46:08] estímulos, inputs?
+[00:35:46:29 --> 00:35:48:23] E esses inputs são enviados para onde?
+[00:35:48:29 --> 00:35:49:23] Para a mente,
+[00:35:50:09 --> 00:35:57:18] das pessoas. Então, onde uma marca é construída? Na mente das pessoas e não nos pontos de
+[00:35:57:18 --> 00:36:03:18] contato. Os pontos de contato são uma chave, um acesso para o que está aqui dentro. Então,
+[00:36:03:20 --> 00:36:08:26] a gestão da marca acontece aqui. Se a gestão da marca acontece na mente das pessoas, como
+[00:36:08:26 --> 00:36:14:23] que eu sei o tipo de resultado eu estou tendo com as ações que eu estou tomando?
+[00:36:15:04 --> 00:36:19:10] Eu preciso saber o que está dentro da cabeça das pessoas. E aí, como que acontece
+[00:36:19:10 --> 00:36:24:26] pesquisa, eu pergunto para as pessoas, mas eu também observo as pessoas.
+[00:36:26:18 --> 00:36:30:19] Olha só como que com o raciocínio você começa a entender onde que o branding acontece.
+[00:36:31:02 --> 00:36:36:09] Ao mesmo tempo, essa minha marca vive em um ecossistema, com várias outras marcas.
+[00:36:36:25 --> 00:36:40:18] Então, eu preciso prestar atenção em marcas que às vezes vão ofuscar...
+[00:36:41:27 --> 00:36:46:06] essa marca que eu estou gerindo, com correntes que vão tirar o espaço dessa marca.
+[00:36:47:09 --> 00:36:49:02] as ameaças que existem no mercado.
+[00:36:50:24 --> 00:36:54:04] Quando você começa a usar esse raciocínio, começa a pesquisar, começa a ter um olhar
+[00:36:54:04 --> 00:36:58:14] atento, você mesmo consegue concluir, ter uma visão geral.
+[00:36:59:02 --> 00:37:00:12] Por isso essa habilidade é importante.
+[00:37:01:05 --> 00:37:02:17] E aí a gente tem a pesquisa também.
+[00:37:03:02 --> 00:37:04:18] Depois você define uma hipótese.
+[00:37:04:29 --> 00:37:06:07] E o que é uma hipótese?
+[00:37:06:11 --> 00:37:08:17] É uma explicação testável.
+[00:37:08:21 --> 00:37:09:17] Guarda isso aqui.
+[00:37:10:12 --> 00:37:11:19] O que é uma hipótese?
+[00:37:11:25 --> 00:37:14:17] É uma explicação testável.
+[00:37:14:29 --> 00:37:16:08] É aqui que a ciência mora.
+[00:37:16:17 --> 00:37:19:00] Se você quer validar uma informação, você testa.
+[00:37:19:00 --> 00:37:21:06] Ou você busca alguém que já testou.
+[00:37:22:14 --> 00:37:24:29] Então, eu posso ter a hipótese de que o design...
+[00:37:27:14 --> 00:37:29:10] influencia o valor de uma marca.
+[00:37:30:01 --> 00:37:31:05] Por que isso é uma hipótese?
+[00:37:31:10 --> 00:37:33:04] Porque eu consigo testar.
+[00:37:33:12 --> 00:37:34:15] E aí começa o raciocínio.
+[00:37:34:25 --> 00:37:39:13] Como que eu testo se o design causa algum impacto na marca?
+[00:37:40:06 --> 00:37:40:28] Com pesquisa?
+[00:37:41:07 --> 00:37:42:21] Como que eu faço essa pesquisa?
+[00:37:44:04 --> 00:37:45:10] Eu faço essa pesquisa...
+[00:37:46:08 --> 00:37:50:11] gerando fenômenos que eu possa observar.
+[00:37:50:19 --> 00:37:57:09] Esses fenômenos podem ser entrevistas, podem ser observação de comportamento.
+[00:37:59:15 --> 00:38:04:00] E aí vem a questão, nossa, mas eu não posso ficar fazendo isso, se eu ficar fazendo isso eu não vou fazer a minha parte.
+[00:38:04:15 --> 00:38:05:14] Pois é.
+[00:38:06:06 --> 00:38:09:12] Acontece que hoje nós temos acesso ao Big Data.
+[00:38:09:25 --> 00:38:12:08] Eu tô falando isso, eu sei que eu tô repetindo a mesma coisa.
+[00:38:12:24 --> 00:38:16:20] Mas nós temos acesso ao Big Data, nós temos acesso a muitos dados e muitas pesquisas.
+[00:38:16:23 --> 00:38:19:12] Tem empresas que vivem pra fazer essas pesquisas pra você.
+[00:38:21:27 --> 00:38:23:06] Hoje é mais fácil ter acesso.
+[00:38:24:14 --> 00:38:31:07] a esse tipo de informação do mercado, mas parte da hipótese. E o tempo inteiro nós
+[00:38:31:07 --> 00:38:35:24] estamos desenvolvendo hipóteses. Cada projeto te permite a oportunidade de desenvolver
+[00:38:35:24 --> 00:38:36:21] novas hipóteses.
+[00:38:37:27 --> 00:38:41:24] O problema é que muitas vezes nós desenvolvemos hipóteses, não testamos essas hipóteses,
+[00:38:42:00 --> 00:38:46:22] já tomamos essas hipóteses como verdadeiras e aí lá na frente você não consegue nem
+[00:38:46:22 --> 00:38:49:00] explicar essa hipótese, problema de muitos designers.
+[00:38:49:06 --> 00:38:52:11] Na hora de apresentar um projeto, não sabe explicar pro cliente porque aquilo é importante
+[00:38:52:27 --> 00:38:54:08] e aí cai lá no gosto do pessoal.
+[00:38:55:03 --> 00:38:56:21] Ah, mas ficou bonito, e daí?
+[00:38:57:01 --> 00:38:58:03] Por que isso importa?
+[00:38:58:25 --> 00:39:00:14] Ah, mas você tá falando que a beleza não importa?
+[00:39:00:18 --> 00:39:03:15] Ela importa, mas você sabe me dizer por que ela importa.
+[00:39:06:15 --> 00:39:13:15] Eu respondi essa pergunta no curso de percepção visual, fica aí a dica para vocês assistirem.
+[00:39:13:20 --> 00:39:15:20] Eu respondi, por que a beleza importa lá?
+[00:39:15:29 --> 00:39:17:08] Em mais de 42 horas de aula.
+[00:39:17:29 --> 00:39:19:17] Mas eu respondi também, por que o design importa?
+[00:39:19:23 --> 00:39:22:03] Você sabe responder, por que o design importa?
+[00:39:23:01 --> 00:39:23:22] De verdade!
+[00:39:25:13 --> 00:39:29:14] Você tem a hipótese, design é importante. Você conseguiu, você validou isso, testou.
+[00:39:31:10 --> 00:39:35:16] Aí vem o experimento, testar a hipótese através de experimentos controlados,
+[00:39:35:27 --> 00:39:41:10] depois analisar os dados obtidos para ver se eles suportam ou refutam a hipótese, ou seja,
+[00:39:42:14 --> 00:39:44:13] testei, minha hipótese é verdadeira ou falsa?
+[00:39:44:17 --> 00:39:48:18] Se é verdadeira, tiro conclusões e, se necessário, formulo novas hipóteses.
+[00:39:48:25 --> 00:39:51:22] É isso, a base de ciências gira em torno disso.
+[00:39:51:24 --> 00:39:55:29] E aí existem vários métodos para poder encontrar essas respostas.
+[00:39:56:06 --> 00:39:57:24] E eu vou dar uma dica aqui para vocês.
+[00:39:59:09 --> 00:40:04:05] Qualquer coisa, qualquer tipo de metodologia que você usar inclusive e desenvolver.
+[00:40:04:19 --> 00:40:08:06] Depois entra no ChatGPT e pede para ele te dar essas ferramentas.
+[00:40:08:12 --> 00:40:13:14] Quais são as principais metodologias científicas que eu posso utilizar para desenvolver meus
+[00:40:13:14 --> 00:40:14:08] projetos de design?
+[00:40:14:15 --> 00:40:15:19] Fica a dica aí para vocês, tá?
+[00:40:15:27 --> 00:40:16:12] Fica a dica.
+[00:40:16:19 --> 00:40:20:13] Mas beleza galera, entendemos o método científico, entendemos o valor que isso tem, aí
+[00:40:20:13 --> 00:40:24:19] agora a gente tem a oportunidade de falar mais sobre os fundamentos do pensamento,
+[00:40:24:26 --> 00:40:25:03] tá?
+[00:40:25:03 --> 00:40:27:00] Então vamos falar desses fundamentos aqui.
+[00:40:29:29 --> 00:40:31:11] para poder contextualizar.
+[00:40:32:01 --> 00:40:36:12] Eu falei dessa frase no início e ela volta aqui agora, já que estamos falando de pensamento
+[00:40:36:12 --> 00:40:36:27] crítico.
+[00:40:37:04 --> 00:40:41:29] A qualidade de nossas vidas depende da qualidade dos nossos pensamentos.
+[00:40:43:10 --> 00:40:49:16] Aí a gente entra em um conceito que foi gerado há mais de dois mil anos atrás por Aristóteles,
+[00:40:49:25 --> 00:40:53:18] sempre acaba voltando pra Grécia, eu gosto de filosofia e acaba voltando, mas a lógica
+[00:40:53:18 --> 00:40:57:25] é um conceito muito importante, até mesmo pra ciência, a ciência depende da lógica,
+[00:40:58:02 --> 00:40:59:06] muito da ciência.
+[00:41:00:19 --> 00:41:03:27] Depende desses três caras, Sócrates, Platão e Aristóteles.
+[00:41:04:01 --> 00:41:09:20] Esses três caras, não só deles né cara, mas falando de nomes importantes, esses três
+[00:41:09:20 --> 00:41:10:02] caras.
+[00:41:10:11 --> 00:41:15:08] E Aristóteles tem um peso muito grande nisso, não só na parte da retórica que a gente
+[00:41:15:08 --> 00:41:17:12] falou antes, agora a gente está falando aqui de lógica.
+[00:41:18:01 --> 00:41:19:09] E o que é a lógica, tá?
+[00:41:20:03 --> 00:41:22:13] A lógica tem origem na palavra grega, logos.
+[00:41:23:23 --> 00:41:30:21] que significa razão, argumentação ou fala. A ideia de falar e argumentar pressupõe que
+[00:41:30:21 --> 00:41:36:00] o que está sendo dito possua, aí aqui, a palavra que está totalmente ligada com lógica,
+[00:41:36:06 --> 00:41:42:24] sentido, para aquele que ouve. Lógica tem dois significados principais, discute o uso
+[00:41:42:24 --> 00:41:49:07] de raciocínio em alguma atividade e é o estudo normativo filosófico do raciocínio
+[00:41:49:07 --> 00:41:53:12] válido, meu Deus, umas falou grego aqui comigo agora. Pega esse finalzinho então que ele vai
+[00:41:53:12 --> 00:41:59:03] ajudar a gente, raciocínio válido. Se existe um raciocínio válido, existe um raciocínio
+[00:41:59:17 --> 00:42:03:03] inválido. E é isso que eu tô querendo mostrar aqui pra vocês. Nem todo raciocínio
+[00:42:03:03 --> 00:42:06:27] é correto. Como então que nós chegamos no raciocínio correto? Essa é a pergunta.
+[00:42:07:05 --> 00:42:10:01] Como eu chego na verdade? Como eu chego no raciocínio...
+[00:42:11:05 --> 00:42:16:29] essa pergunta que a Aristóteles queria responder. E aí, para isso, ele desenvolve a lógica.
+[00:42:17:09 --> 00:42:22:27] E ele define três pilares para a lógica que são muito importantes. Quais são? Argumento,
+[00:42:23:01 --> 00:42:28:29] premissa e conclusão. Quais são esses três? Vamos entender aqui, vamos dar uma mergulhada
+[00:42:28:29 --> 00:42:33:22] em cada um deles para entender isso um pouco melhor. Primeiro, argumento é um conjunto
+[00:42:33:22 --> 00:42:39:28] de afirmações onde uma ou mais das afirmações, coloquei ali entre aspas, premissas, são
+[00:42:39:28 --> 00:42:45:10] são apresentadas como evidência para outra afirmação, conclusão. Então, nós temos argumentos,
+[00:42:45:15 --> 00:42:51:25] premissas e conclusão. O argumento é um conjunto de afirmações. Pega isso então. Então, se eu
+[00:42:51:25 --> 00:42:58:05] afirma algumas coisas, eu estou argumentando, eu posso afirmar que designers são importantes para
+[00:42:58:05 --> 00:43:03:24] a construção das marcas. Isso é um argumento, usei um argumento. Esse argumento é válido ou
+[00:43:03:24 --> 00:43:08:10] não? A gente utiliza a lógica para poder chegar nesse argumento. Tá? Então, continua comigo.
+[00:43:08:10 --> 00:43:13:18] Então, essa aqui é a estrutura básica de um argumento, é disso que ele é feito.
+[00:43:14:06 --> 00:43:16:04] E aí quais são os componentes dos argumentos?
+[00:43:16:16 --> 00:43:18:00] Premissas e conclusões.
+[00:43:18:10 --> 00:43:22:26] As premissas são afirmativas que oferecem suporte e evidência, ou seja, a premissa
+[00:43:22:26 --> 00:43:27:21] ela não existe sozinha, ela é um caminho para chegar na conclusão.
+[00:43:28:06 --> 00:43:32:20] Então, quando eu falo, designers são importantes para a construção de marcas, isso é uma
+[00:43:32:20 --> 00:43:37:10] premissa ainda, eu não concluí o raciocínio, portanto, se eu não ter uma conclusão,
+[00:43:37:10 --> 00:43:40:21] o meu argumento ainda precisa ser trabalhado.
+[00:43:40:28 --> 00:43:44:28] E aí, a premissa ela é essa parte do argumento.
+[00:43:45:04 --> 00:43:47:07] A outra parte do argumento é a conclusão,
+[00:43:47:18 --> 00:43:51:15] que é uma afirmativa que é apoiada pelas premissas.
+[00:43:52:04 --> 00:43:54:01] Uan, tá um pouco confuso pra entender isso daqui?
+[00:43:54:13 --> 00:43:55:18] Tem algum exemplo? Tenho.
+[00:43:55:21 --> 00:43:58:10] Eu vou usar o mesmo exemplo que é usado sempre...
+[00:43:59:14 --> 00:44:02:02] há mais de dois mil anos esse exemplo já é utilizado,
+[00:44:02:03 --> 00:44:05:17] e ele faz muito sentido só pra gente começar a construir um exemplo simples, tá?
+[00:44:05:17 --> 00:44:08:15] Nós temos duas premissas aqui e uma conclusão.
+[00:44:08:22 --> 00:44:12:29] Premissão 1, todos os humanos são mortais, isso é verdade ou é mentira?
+[00:44:13:05 --> 00:44:16:11] Eu posso validar essa premissa, mas isso é um outro passo.
+[00:44:16:25 --> 00:44:22:09] Eu posso criar uma lógica correta com premissas erradas, mas o ponto aqui é só definir
+[00:44:22:09 --> 00:44:23:19] primeiro o que é uma premissa.
+[00:44:24:20 --> 00:44:27:01] Então, premissão 1, todos os humanos são mortais.
+[00:44:27:03 --> 00:44:28:06] Por que isso é uma premissa?
+[00:44:28:06 --> 00:44:36:11] porque isso aqui é uma parte do argumento que eu estou utilizando para chegar na conclusão, beleza?
+[00:44:37:16 --> 00:44:42:02] Segunda premissa, Sócrates é humano, então eu já dei mais minha segunda afirmação.
+[00:44:42:09 --> 00:44:46:20] Uma premissa é uma afirmação que eu utilizo para concluir um raciocínio.
+[00:44:46:24 --> 00:44:48:06] Então eu já fiz duas afirmações.
+[00:44:48:23 --> 00:44:49:29] E aí vem a conclusão.
+[00:44:50:22 --> 00:44:52:03] Portanto, logo...
+[00:44:53:06 --> 00:44:59:27] Sócrates é mortal. Então eu desenvolvi a lógica que todo ser humano é mortal. Sócrates
+[00:44:59:27 --> 00:45:07:08] é humano. Então Sócrates é mortal. Essa é uma lógica básica aqui. Só que só trabalhar
+[00:45:07:08 --> 00:45:11:24] em cima da lógica básica não adianta. Aqui hoje eu quero dar uma visão geral para
+[00:45:11:24 --> 00:45:15:17] vocês, depois vale a pena se aprofundar um pouco mais. Esse é um assunto que
+[00:45:15:17 --> 00:45:21:00] eu estou desenvolvendo mais, estudando mais sobre ele, porque ele é importante. Mas
+[00:45:21:00 --> 00:45:27:05] Olha só que interessante como que eu consigo usar premissas falsas para construir uma lógica
+[00:45:27:05 --> 00:45:29:21] certa com uma conclusão errada.
+[00:45:30:06 --> 00:45:30:29] Eu não estou entendendo nada.
+[00:45:31:08 --> 00:45:32:23] Olha só como que a lógica é muito louca.
+[00:45:32:23 --> 00:45:34:14] Eu posso colocar aqui, por exemplo?
+[00:45:36:09 --> 00:45:39:07] Vou voltar assim, deixa ver se consigo liberar.
+[00:45:40:14 --> 00:45:41:02] Bini!
+[00:45:43:04 --> 00:45:45:00] Agora eu quero ver como eu vou sair daqui.
+[00:45:49:28 --> 00:45:51:07] Então, eu tenho aqui, ó...
+[00:45:51:07 --> 00:45:51:22] Premissão!
+[00:45:53:12 --> 00:45:55:20] humanos tem dois olhos.
+[00:45:59:17 --> 00:46:01:08] Gatos tem dois olhos.
+[00:46:03:00 --> 00:46:03:23] Portanto...
+[00:46:04:28 --> 00:46:07:03] Gatos são humanos.
+[00:46:09:29 --> 00:46:16:23] Olha só, nessa lógica simples, a lógica até tem algum sentido, ela tá faltando informações,
+[00:46:16:29 --> 00:46:17:13] obviamente.
+[00:46:18:15 --> 00:46:21:17] E como nós sabemos que a premissa é errada, nós sabemos.
+[00:46:21:25 --> 00:46:26:29] Por saber que ela é errada, fica fácil perceber que a conclusão está errada.
+[00:46:27:09 --> 00:46:30:16] Mas isso é porque você sabe que a premissa é falsa.
+[00:46:30:27 --> 00:46:31:23] Então presta atenção nisso.
+[00:46:32:25 --> 00:46:37:23] Na verdade, as duas premissas são verdadeiras, né? O argumento é falso aqui, eu vou fazer
+[00:46:37:23 --> 00:46:41:00] uma premissa falsa também para vocês verem, mas o argumento aqui...
+[00:46:42:04 --> 00:46:45:17] não é verdadeiro. A conclusão não é verdadeira, ela é falha.
+[00:46:46:16 --> 00:46:51:14] Por quê? Não é porque gatos e humanos têm dois olhos que humanos... que gatos são humanos.
+[00:46:52:22 --> 00:46:56:04] Não é porque compartilhar uma característica aqui, vamos compartilhar o todo.
+[00:46:56:21 --> 00:47:03:09] Aqui eu mostro que a conclusão é falha com base em uma estrutura lógica, em um argumento
+[00:47:03:09 --> 00:47:05:12] lógico que poderia fazer sentido.
+[00:47:06:03 --> 00:47:09:29] Agora, por exemplo, eu posso colocar aqui uma premissa falsa.
+[00:47:09:29 --> 00:47:10:16] humanos?
+[00:47:15:13 --> 00:47:16:25] Vuan é humano.
+[00:47:18:06 --> 00:47:19:00] Portanto...
+[00:47:23:04 --> 00:47:30:27] A lógica está certa. A lógica não está errada. O que está errado é a premissa agora.
+[00:47:31:14 --> 00:47:35:17] Da última vez, o que estava errado? Era o argumento como um todo. Era a conclusão
+[00:47:35:17 --> 00:47:40:29] dele que estava errado. Mesmo que a lógica estivesse correta. Aqui, agora...
+[00:47:41:27 --> 00:47:46:28] A conclusão ficou errada porque uma das premissas estava errada.
+[00:47:47:21 --> 00:47:48:22] Humanos não voam.
+[00:47:49:09 --> 00:47:50:10] Isso é mentira.
+[00:47:50:25 --> 00:47:51:27] Só que aí o que acontece?
+[00:47:52:13 --> 00:47:54:09] Aqui tá fácil de perceber, não é?
+[00:47:54:28 --> 00:47:57:28] O que começa a acontecer no dia a dia é isso aqui.
+[00:47:59:11 --> 00:48:04:06] Vamos supor que eu falo aqui que em 2024...
+[00:48:07:12 --> 00:48:12:29] Deixa eu pensar aqui uma construção, eu posso colocar aqui que em 2024...
+[00:48:21:25 --> 00:48:24:04] Em 2024, muitos...
+[00:48:26:21 --> 00:48:28:18] muitos designers vão ficar relativos.
+[00:48:28:23 --> 00:48:32:21] Em 2024, milhares de designers...
+[00:48:35:18 --> 00:48:36:13] Faturaram?
+[00:48:37:22 --> 00:48:39:00] Milhão de reais.
+[00:48:41:19 --> 00:48:45:09] sei lá, estou criando algo mais absurdo, mas que está um pouco mais escondido agora.
+[00:48:46:18 --> 00:48:47:15] Em 2024...
+[00:48:48:25 --> 00:48:49:16] em 2004.
+[00:48:50:22 --> 00:48:54:29] Florian 2024, milhares de designs saturaram 1 milhão de reais.
+[00:48:56:09 --> 00:48:57:10] Au Verlains!
+[00:48:59:15 --> 00:49:02:21] formou milhares de designers.
+[00:49:04:09 --> 00:49:04:25] 2024.
+[00:49:07:18 --> 00:49:08:11] Portanto,
+[00:49:09:28 --> 00:49:15:06] a Overlands formou milhares de milionários.
+[00:49:20:07 --> 00:49:23:26] O que a gente tem de errado aqui? Aqui que a coisa começa a acontecer, eu não coloquei
+[00:49:23:26 --> 00:49:29:14] pra vocês, 2024 milhares de designers faturaram um milhão de reais. Alverlens formou milhares
+[00:49:29:14 --> 00:49:34:22] de designers em 2024, portanto, Alverlens formou milhares de milionários. Essa lógica
+[00:49:34:22 --> 00:49:35:07] Está errado.
+[00:49:37:10 --> 00:49:42:05] Só que muitas vezes esse tipo de raciocínio é utilizado, é passado,
+[00:49:42:13 --> 00:49:45:21] no dia a dia você está ali, vem num Reels, vem num vídeo do YouTube,
+[00:49:46:08 --> 00:49:49:27] vem num post que você está lendo, vem num artigo que você leu e você não percebe.
+[00:49:51:13 --> 00:49:52:14] E aí, qual que é o segredo?
+[00:49:52:23 --> 00:49:56:16] Observe a premissa, observe a lógica, que é o argumento como um todo.
+[00:49:57:17 --> 00:49:58:20] e ver se faz sentido.
+[00:49:59:16 --> 00:50:01:04] É equação, por isso que a lógica,
+[00:50:01:10 --> 00:50:04:03] hoje em dia a gente trata muito a lógica com números.
+[00:50:05:23 --> 00:50:10:20] Eu vou trabalhar ela com números porque realmente é o jeito mais... Eu até falei para vocês
+[00:50:10:20 --> 00:50:17:04] do Tree of Thoughts, que é a árvore de pensamentos, que é uma metodologia lógica de caminhos,
+[00:50:17:11 --> 00:50:22:03] de força bruta, você vai testando probabilidades e possibilidades. Aqui é a mesma coisa,
+[00:50:22:03 --> 00:50:25:06] com a lógica você testa probabilidades para chegar na verdade mais rápido e a
+[00:50:25:06 --> 00:50:30:14] matemática te ajuda muito com isso, é verdade. Só que olha só como que a questão
+[00:50:30:14 --> 00:50:37:20] que não é necessariamente matemática, mas sim o problema está nas premissas, na organização
+[00:50:37:20 --> 00:50:38:18] dessas premissas.
+[00:50:38:27 --> 00:50:41:14] Em 2024, milhares de designers saturaram um milhão de reais.
+[00:50:42:11 --> 00:50:44:01] Aí vem o pensamento crítico.
+[00:50:45:18 --> 00:50:46:09] Onde fala isso?
+[00:50:48:26 --> 00:50:55:12] Eu não sei se isso é verdade. Será que milhares de designers faturaram um milhão de reais?
+[00:50:56:06 --> 00:51:00:10] Tem o primeiro ponto aqui. Segundo ponto, Alverlens formou milhares de designers em
+[00:51:00:10 --> 00:51:05:05] 2024. Da mesma pergunta. Será que formou mesmo? Onde tem esse dado? Como é que eu
+[00:51:05:05 --> 00:51:11:02] consigo verificar isso? E aí vem a terceira questão. Portanto, Alverlens formou milhares
+[00:51:11:02 --> 00:51:15:02] de milionários. Aí vem o questionamento. Qual que é a relação da primeira premissa
+[00:51:15:02 --> 00:51:15:14] com a segunda.
+[00:51:16:28 --> 00:51:18:19] Existe mesmo relação entre elas?
+[00:51:19:08 --> 00:51:19:25] Ou não?
+[00:51:20:14 --> 00:51:21:10] Aqui não existe.
+[00:51:22:20 --> 00:51:30:05] Tem um termo no livro Antifrágio, do Taleb, que ele fala que são os acadêmicos de Harvard.
+[00:51:31:07 --> 00:51:32:27] ensinando pássaros a voar.
+[00:51:34:16 --> 00:51:41:05] E aí ele explica que muitas vezes os professores, ser professor é muito difícil porque você
+[00:51:41:05 --> 00:51:43:20] não consegue medir o impacto.
+[00:51:45:03 --> 00:51:48:28] que os seus alunos teriam se eles não tivessem aprendido o que você ensinou para eles.
+[00:51:50:07 --> 00:51:56:08] Então, é difícil de medir, é igual um médico, um médico não vai conseguir medir o impacto
+[00:51:56:08 --> 00:52:00:11] do que teria sido a vida da pessoa se ela não tivesse passado por ele.
+[00:52:01:27 --> 00:52:05:05] Vamos por que eu fui no médico, ele me deu uma orientação, tomeu o remédio e melhorei e passou.
+[00:52:05:12 --> 00:52:07:23] E se eu não tivesse tomado o remédio e como ele passou?
+[00:52:07:26 --> 00:52:08:28] O que teria acontecido comigo?
+[00:52:09:08 --> 00:52:11:05] A gente não leva isso em consideração.
+[00:52:12:00 --> 00:52:15:23] Eu falo no dia a dia, dá pra medir, tentar chegar lá dar, mas no dia a dia você não mede.
+[00:52:15:25 --> 00:52:22:02] E por isso nós não somos tão grátis, porque nós não tendemos a agradecer o médico pelo que não aconteceu.
+[00:52:24:02 --> 00:52:27:11] Mas tá lá, salvando nosso dia o tempo inteiro, a mesma coisa com professores.
+[00:52:27:25 --> 00:52:31:08] Nós não agradecemos os professores por tudo que eles nos ensinaram,
+[00:52:31:12 --> 00:52:35:01] porque nós não sabemos o que seria da nossa vida se nós não tivéssemos aprendido com eles.
+[00:52:35:14 --> 00:52:37:05] Então, por um lado, beleza, tem esse problema.
+[00:52:37:26 --> 00:52:41:29] Só que por outro lado, tem muitos professores que se vangloriam, como os melhores.
+[00:52:44:28 --> 00:52:48:15] porque eles conseguiram fazer seus alunos terem grandes resultados.
+[00:52:48:22 --> 00:52:49:21] Isso é usado o tempo inteiro.
+[00:52:50:12 --> 00:52:53:22] Talvez vocês não percebem quando um designer vai lá e fala,
+[00:52:53:25 --> 00:52:56:23] olha só os projetos dos nossos alunos.
+[00:52:57:00 --> 00:52:58:15] A gente faz isso até na Overland também.
+[00:52:58:28 --> 00:53:01:09] Por quê? Porque isso é um recurso de marketing mesmo.
+[00:53:02:00 --> 00:53:04:28] Olha só aqui os projetos que os nossos alunos fizeram.
+[00:53:06:01 --> 00:53:08:09] Por um lado, o Verlaine influenciou esses projetos?
+[00:53:08:13 --> 00:53:11:17] Sim, possivelmente, mas quem fez esse projeto...
+[00:53:12:14 --> 00:53:13:11] Não foi, Albert Lans?
+[00:53:14:15 --> 00:53:15:29] Foram os alunos, foram as pessoas.
+[00:53:16:19 --> 00:53:20:00] E isso é literalmente o que ele chama de ensinar a pássaro a voar.
+[00:53:20:09 --> 00:53:25:14] Muitas vezes, os professores se vangloriam pelos resultados dos seus alunos.
+[00:53:25:25 --> 00:53:28:11] Mas os próprios alunos que tiveram aquele resultado.
+[00:53:29:11 --> 00:53:34:21] E aí ele fala, um pássaro já tem inato dentro dele a capacidade de voar.
+[00:53:35:02 --> 00:53:41:05] Um professor não deveria se vangloriar do aluno que voou, mas sem mostrar que o seu
+[00:53:41:05 --> 00:53:45:01] valor está, o valor do professor está, e aí a gente volta lá para o parto das
+[00:53:45:01 --> 00:53:46:02] ideias e filosofia de novo.
+[00:53:46:24 --> 00:53:50:24] Um professor ou um filósofo serve para poder fazer o parto da ideia que já tem dentro
+[00:53:50:24 --> 00:53:58:16] da pessoa, então um bom professor desperta o melhor nas pessoas, mas quem realiza é
+[00:53:58:16 --> 00:54:03:12] a própria pessoa. E aí ele fala que os acadêmicos de Harvard ensinam pássaros a voar.
+[00:54:03:16 --> 00:54:09:08] Então eles vão lá, falam pro pássaro, bate a asa, pula. Aí o pássaro bate a asa, pula,
+[00:54:09:14 --> 00:54:15:18] joga o pássaro e o pássaro voa. Vocês viram? Ele voou. Eu sei ensinar pássaros
+[00:54:15:18 --> 00:54:20:02] a voar. Mas a verdade é que aquilo é da natureza do pássaro. E ele tá se vangloriando
+[00:54:20:02 --> 00:54:24:08] disso. Muito doido, né? Mas é exatamente isso em relação às premissas, tá vendo?
+[00:54:24:08 --> 00:54:29:27] Isso é usado contra nós o tempo inteiro, mas você também pode usar isso a seu favor
+[00:54:29:27 --> 00:54:31:20] para chegar em conclusões valiosas.
+[00:54:32:21 --> 00:54:36:08] E isso que é o importante que a gente precisa levar em consideração aqui.
+[00:54:36:24 --> 00:54:39:26] E aí vem a questão, como identificar premissas e conclusões?
+[00:54:40:10 --> 00:54:46:23] Premissas geralmente são introduzidas por palavras como por quê, já que, devido a...
+[00:54:46:23 --> 00:54:51:28] a premissa é uma afirmação que não precisa de uma afirmação anterior.
+[00:54:52:12 --> 00:54:53:01] Guarda isso.
+[00:54:53:13 --> 00:54:57:20] A pessoa já chega... se eu já chego trazendo uma informação, sei lá, esse
+[00:54:57:20 --> 00:55:02:05] prisma é de diamante, já cheguei trazendo uma afirmação, isso é uma premissa,
+[00:55:02:05 --> 00:55:06:02] pode ser uma premissa falsa ou verdadeira, no caso é falsa porque isso aqui não é o diamante.
+[00:55:06:11 --> 00:55:10:03] Então, isso é uma premissa. E o que é uma conclusão?
+[00:55:10:20 --> 00:55:15:20] Conclusões geralmente são introduzidas por palavras como portanto, consequentemente, assim.
+[00:55:15:23 --> 00:55:18:29] Então, dentro de uma estrutura lógica eu tenho a premissa, que é uma afirmação,
+[00:55:19:01 --> 00:55:23:19] que não depende de uma afirmação anterior, e eu tenho a conclusão que depende da premissa
+[00:55:23:19 --> 00:55:28:12] para ser concluída. Entende? Essa é basicamente a lógica que eu recomendo depois
+[00:55:28:12 --> 00:55:31:12] mergulhar mais nisso. Se nós tivermos a oportunidade, nós podemos fazer uma aula
+[00:55:31:12 --> 00:55:35:23] sobre lógica dentro do design também, que eu acredito que vai ser muito valioso para
+[00:55:35:23 --> 00:55:36:00] a gente.
+[00:55:36:02 --> 00:55:37:15] Mas eu preciso continuar aqui na aula.
+[00:55:38:22 --> 00:55:40:04] E aí a gente tem um outro problema.
+[00:55:40:25 --> 00:55:45:28] Falamos aqui das premissas falsas, das premissas verdadeiras, das conclusões, e só isso por
+[00:55:45:28 --> 00:55:51:01] si só vocês viram que já pode ser usado para nos confundir e de fato é usado para
+[00:55:51:01 --> 00:55:54:02] enganar do mesmo jeito que é usado para persuadir, manipular.
+[00:55:54:18 --> 00:56:00:08] A lógica é uma ferramenta, e você também pode usar a lógica para poder argumentar
+[00:56:00:08 --> 00:56:01:24] com seus clientes o tempo inteiro.
+[00:56:02:25 --> 00:56:06:03] Às vezes, alguns alunos chegam para mim e falam assim, Juan, como é que eu mostro
+[00:56:06:03 --> 00:56:07:07] para o cliente o valor do design?
+[00:56:08:08 --> 00:56:09:04] Use a lógica!
+[00:56:10:15 --> 00:56:11:24] Como que eu uso a lógica, Ruan?
+[00:56:12:19 --> 00:56:16:01] Pega empresas que são conhecidas por terem...
+[00:56:17:02 --> 00:56:18:12] Por exemplo, a Apple.
+[00:56:18:23 --> 00:56:19:09] Pode ser a Apple?
+[00:56:20:12 --> 00:56:25:00] Ou pode pegar várias, sei lá, pegar Apple, Microsoft, IBM, pega várias empresas que
+[00:56:25:00 --> 00:56:25:21] valores on time.
+[00:56:27:25 --> 00:56:32:03] Existe um tipo de lógica que muita gente usa, mas é uma lógica falha, que é aquela lógica...
+[00:56:33:12 --> 00:56:37:28] Empresas como a IBM, vamos construir aqui, vamos construir, eu quero trazer isso pra
+[00:56:37:28 --> 00:56:42:16] prática pra vocês verem, porque se vocês aprenderem a usar isso aqui, vocês vão poder
+[00:56:42:16 --> 00:56:44:03] usar isso nos argumentos de vocês também.
+[00:56:45:16 --> 00:56:47:05] Apple e IBM.
+[00:56:48:27 --> 00:56:50:12] e Microsoft.
+[00:56:53:21 --> 00:56:55:23] Investem pesado em design.
+[00:56:58:24 --> 00:57:02:09] Essas são algumas das maiores.
+[00:57:05:04 --> 00:57:06:09] Marques do Mundo.
+[00:57:08:25 --> 00:57:17:11] Portanto, aqui é um raciocínio válido, mas, portanto, as maiores marcas do mundo investem
+[00:57:17:11 --> 00:57:18:03] em design.
+[00:57:18:20 --> 00:57:20:06] Eu construí um primeiro raciocínio lógico.
+[00:57:22:10 --> 00:57:23:14] Esse raciocínio faz sentido?
+[00:57:23:17 --> 00:57:24:05] Faz sentido.
+[00:57:24:08 --> 00:57:25:14] Esse raciocínio pode ser utilizado?
+[00:57:25:16 --> 00:57:25:27] Pode.
+[00:57:26:23 --> 00:57:28:18] As maiores empresas do mundo investem em design.
+[00:57:28:22 --> 00:57:30:07] Isso é um recurso que você pode usar.
+[00:57:30:15 --> 00:57:31:12] Mas também é um viés.
+[00:57:31:16 --> 00:57:32:08] Você está...
+[00:57:32:08 --> 00:57:34:01] Eu vou explicar já já o que são viés para você,
+[00:57:34:02 --> 00:57:38:03] mas você está dando atalhos para a mente do seu cliente
+[00:57:38:03 --> 00:57:40:21] para que ele chegue na conclusão junto com você mais rápido.
+[00:57:41:03 --> 00:57:41:24] Você dá atalhos.
+[00:57:41:28 --> 00:57:45:18] Se autoridades como a Apple e o IBM Microsoft investem,
+[00:57:45:23 --> 00:57:47:04] talvez você deveria investir.
+[00:57:47:23 --> 00:57:50:00] É uma consideração, uma conclusão que faz sentido.
+[00:57:50:00 --> 00:57:53:25] Aí, agora, eu começo a trazer isso...
+[00:57:55:02 --> 00:57:59:17] para um caminho mais legal, olha só como o argumento vai te ajudar a vender lá na frente.
+[00:58:00:18 --> 00:58:01:21] Aí eu falo assim, olha...
+[00:58:02:19 --> 00:58:08:00] Hoje em dia, muitas marcas perdem espaço para a concorrência.
+[00:58:08:16 --> 00:58:09:15] Isso é uma premissa.
+[00:58:09:25 --> 00:58:11:03] É uma premissa que não...
+[00:58:11:03 --> 00:58:12:29] Por que isso é uma premissa e não uma conclusão, Juan?
+[00:58:13:10 --> 00:58:16:02] Porque essa afirmação não depende de uma afirmação anterior.
+[00:58:16:16 --> 00:58:17:14] Eu já afirmei.
+[00:58:17:17 --> 00:58:19:28] Hoje em dia, muitas marcas perdem espaço para a concorrência.
+[00:58:20:13 --> 00:58:21:02] E é verdade.
+[00:58:21:11 --> 00:58:22:04] Isso acontece.
+[00:58:23:01 --> 00:58:25:13] Muitas marcas perdem espaço para a concorrência.
+[00:58:26:26 --> 00:58:29:21] marcas que investem em branding.
+[00:58:33:11 --> 00:58:35:01] Marcas que investem em branding.
+[00:58:36:29 --> 00:58:38:00] Se destacam!
+[00:58:39:16 --> 00:58:40:06] O que ocorre aí?
+[00:58:42:01 --> 00:58:47:02] Portanto, marcas. Investem em branding.
+[00:58:48:23 --> 00:58:49:19] Não perdem!
+[00:58:51:06 --> 00:58:53:17] para a concorrência, vou colocar aqui.
+[00:58:54:03 --> 00:58:57:23] Aqui ainda está falha, esse raciocínio ainda não está falha, a gente vai poder ajustar
+[00:58:57:23 --> 00:58:58:09] ele melhor, né?
+[00:58:58:18 --> 00:59:03:27] Hoje em dia muitas marcas perdem espaço para a concorrência, marcas que investem
+[00:59:03:27 --> 00:59:05:23] em branding se destacam da concorrência.
+[00:59:07:00 --> 00:59:09:25] Talvez eu tenha que mudar aqui, ó, essas se destacam.
+[00:59:10:03 --> 00:59:15:18] Hoje em dia, muitas marcas... esse perdem espaço aqui tá... aí entra um outro fator importante.
+[00:59:17:05 --> 00:59:17:21] Especificidade.
+[00:59:17:25 --> 00:59:23:02] Quando você é específico na premissa, é mais fácil de chegar na conclusão e ter
+[00:59:23:02 --> 00:59:23:27] clareza sobre ela.
+[00:59:24:10 --> 00:59:25:19] Perder espaço é muito vago.
+[00:59:25:19 --> 00:59:30:14] Então, quando eu falo hoje em dia, muitas marcas, é...
+[00:59:33:24 --> 00:59:35:13] não são vistas.
+[00:59:37:03 --> 00:59:39:15] por conta da alta concorrência.
+[00:59:42:17 --> 00:59:45:09] Hoje em dia, muitas marcas não são vistas por conta da alta concorrência.
+[00:59:45:23 --> 00:59:49:02] Marcas que investem em branding se destacam da concorrência.
+[00:59:49:18 --> 00:59:50:20] Aí é que eu tô assumindo o quê?
+[00:59:51:15 --> 00:59:52:24] Aí é que tá passando o...
+[00:59:54:06 --> 00:59:55:21] Caminhão barulhento ali na avenida.
+[00:59:55:24 --> 00:59:57:02] Não sei se saiu aí, mas tudo bem.
+[00:59:57:14 --> 01:00:00:04] Marcas que investem em branding se destacam da concorrência.
+[01:00:01:06 --> 01:00:06:12] Agora, tem uma certa relação aqui. Portanto, marcas que investem em branding não perdem
+[01:00:06:12 --> 01:00:10:15] espaço. Aí aqui, não perdem espaço também é falho. Por que é falho?
+[01:00:11:16 --> 01:00:15:09] Porque, mesmo que eu me destaque da concorrência, eu posso perder espaço para ela.
+[01:00:16:25 --> 01:00:20:09] Aqui eu posso falar que marcas que vestem branding são vistas.
+[01:00:22:23 --> 01:00:25:09] Porque aqui eu tô pegando os dois argumentos, ó.
+[01:00:25:23 --> 01:00:28:16] Hoje em dia, muitas marcas não são vistas por conta da alta concorrência.
+[01:00:28:24 --> 01:00:30:29] Marcas que investem em branding se destacam da concorrência.
+[01:00:31:07 --> 01:00:33:24] Portanto, marcas que investem em branding são vistas.
+[01:00:34:12 --> 01:00:35:28] Eu poderia colocar aqui...
+[01:00:36:24 --> 01:00:44:15] Atualmente, a atenção é um dos valores, é um dos recursos mais valiosos.
+[01:00:45:23 --> 01:00:46:29] Isso é uma premissa.
+[01:00:47:16 --> 01:00:53:00] E eu posso colocar uma segunda premissa aqui, empresas que investem em branding.
+[01:00:54:27 --> 01:00:56:07] consegue mais atenção.
+[01:00:57:17 --> 01:00:58:13] Portanto...
+[01:01:00:29 --> 01:01:03:14] Empresas que investem em branding.
+[01:01:08:09 --> 01:01:13:12] Eu poderia colocar, tem mais desse recurso valioso, mas eu posso colocar que atualmente
+[01:01:13:12 --> 01:01:15:20] a atenção é um dos recursos mais valiosos.
+[01:01:15:25 --> 01:01:18:19] Eu vou colocar, atualmente a atenção é um dos recursos...
+[01:01:20:01 --> 01:01:21:04] Mas gera valor.
+[01:01:23:00 --> 01:01:23:19] Um beijo.
+[01:01:25:05 --> 01:01:28:04] Empresas que investem em branding conseguem mais atenção.
+[01:01:28:22 --> 01:01:30:13] Portanto, empresas que investem em branding...
+[01:01:32:29 --> 01:01:36:29] conseguem gerar mais valor, com a lógica simples, entendeu?
+[01:01:37:06 --> 01:01:41:26] E eu posso ter mais premissas, pode ter três, quatro premissas, mas esse argumento simples
+[01:01:41:26 --> 01:01:43:01] aqui já ajuda a gente a entender.
+[01:01:43:20 --> 01:01:45:09] Como que eu uso isso para o cliente então?
+[01:01:45:16 --> 01:01:48:07] Preciso explicar para o meu cliente porque ele precisa investir em branding.
+[01:01:48:16 --> 01:01:50:24] Eu uso premissas e conclusões.
+[01:01:51:03 --> 01:01:55:07] Eu falo para esse meu cliente, olha, você concorda comigo que atualmente a atenção
+[01:01:55:07 --> 01:01:56:23] é um dos recursos mais valiosos?
+[01:01:56:26 --> 01:01:57:23] Eu vou falar sim.
+[01:01:57:23 --> 01:02:01:19] E você concorda comigo que atualmente a concorrência está muito alta?
+[01:02:02:27 --> 01:02:07:01] Você pode até reforçar isso se você quiser, você pode falar, olha, eu tenho alguns dados
+[01:02:07:01 --> 01:02:15:03] aqui que mostram que a concorrência no mundo digital aumentou em 300%.
+[01:02:15:03 --> 01:02:19:10] Eu estou só inventando o dado, mas para vocês verem o quanto que o dado reforça a premissa,
+[01:02:19:19 --> 01:02:21:09] aí no caso busquem dados verdadeiros.
+[01:02:21:20 --> 01:02:24:12] Mas aumentou em 300%, você sabia?
+[01:02:24:28 --> 01:02:31:04] Além disso, conseguir a atenção atualmente é 10 vezes mais difícil do que há 5
+[01:02:31:04 --> 01:02:31:24] anos atrás.
+[01:02:31:24 --> 01:02:36:29] Você pode pegar esses dados para reforçar, mas mesmo sem eles, dá para construir argumento.
+[01:02:37:01 --> 01:02:39:07] Igual eu falei, você concorda que a concorrência está muito mais alta?
+[01:02:39:13 --> 01:02:39:28] Concordo.
+[01:02:40:10 --> 01:02:42:09] Você concorda que conseguir a atenção hoje é mais difícil?
+[01:02:42:24 --> 01:02:43:08] Concordo.
+[01:02:43:19 --> 01:02:48:02] Pois é, quando você investe na sua marca e na experiência de marca, você consegue
+[01:02:48:02 --> 01:02:53:07] conquistar a atenção das pessoas e logo você consegue se destacar da concorrência.
+[01:02:53:24 --> 01:02:58:25] Olha aí, usei a conclusão, olha o logway, usei premissa, usei conclusão.
+[01:02:59:11 --> 01:03:03:13] Isso mostra para o cliente que tem valor, e aí ele estabelece ali, porque no início
+[01:03:03:13 --> 01:03:05:00] ele pensa, por que eu vou investir em marca agora?
+[01:03:05:10 --> 01:03:06:28] Por que eu vou deixar a minha empresa mais bonita?
+[01:03:07:09 --> 01:03:08:03] Que diferença isso faz?
+[01:03:08:13 --> 01:03:10:04] Agora, quando eu construo a premissa...
+[01:03:11:05 --> 01:03:13:23] Eu consigo mostrar para ele e falar que realmente isso tem muito valor.
+[01:03:14:25 --> 01:03:16:22] Tá vendo como é que isso é aplicado no dia a dia?
+[01:03:17:08 --> 01:03:21:28] E eu nem tô falando da parte da investigação, tomada de decisão, análise do mercado para
+[01:03:21:28 --> 01:03:22:13] gerar resultado.
+[01:03:22:16 --> 01:03:26:27] Eu tô falando na venda, desde o primeiro momento ali, até mesmo na hora de escolher
+[01:03:26:27 --> 01:03:30:13] seu mercado, escolher o nicho que você quer atuar, escolher seu perfil ideal de
+[01:03:30:13 --> 01:03:31:00] cliente.
+[01:03:31:04 --> 01:03:35:26] A lógica te ajuda a ter mais precisão no seu pensamento.
+[01:03:38:17 --> 01:03:39:28] É por isso que ela é tão importante.
+[01:03:40:29 --> 01:03:42:09] E vamos seguir adiante aqui, então.
+[01:03:43:20 --> 01:03:49:29] Além de todo esse desafio, nós ainda temos que lidar com as falácias.
+[01:03:50:25 --> 01:03:52:07] E o que são falácias, Juan?
+[01:03:52:29 --> 01:03:54:08] Nós já vimos elas aqui.
+[01:03:54:18 --> 01:04:00:23] Falácias são erros no raciocínio que enfraquecem os argumentos.
+[01:04:02:13 --> 01:04:07:25] Então, você tem que tomar cuidado com o tipo de premissa que você coloca, você tem
+[01:04:07:25 --> 01:04:13:20] que validar a sua premissa primeiro, porque senão você pode ter erros no raciocínio,
+[01:04:13:21 --> 01:04:15:03] levar o raciocínio para o lugar errado.
+[01:04:15:25 --> 01:04:18:25] Então são erros no raciocínio que enfraquecem os argumentos.
+[01:04:19:15 --> 01:04:26:10] Eu cometi algumas falácias ali, não sei se vocês viram, a generalização, ou assumir
+[01:04:26:10 --> 01:04:30:01] que é uma coisa verdadeira por causa de outra coisa que não tem relação direta,
+[01:04:30:01 --> 01:04:36:16] tudo isso são falácias. E aí, as falácias são usadas, eu coloquei ali, olha, elas são usadas de
+[01:04:36:16 --> 01:04:45:24] forma consciente ou inconsciente, para enganar ou persuadir sem uma base lógica sólida, validada.
+[01:04:47:12 --> 01:04:50:03] Aí, de novo, os dados voltam aqui para poder reforçar.
+[01:04:50:07 --> 01:04:53:12] Se você tem os dados do seu lado, se você tem premissas muito fortes,
+[01:04:53:16 --> 01:04:56:11] você consegue construir argumentos muito fortes.
+[01:04:56:16 --> 01:05:00:13] E, com esses argumentos fortes, você consegue convencer.
+[01:05:02:01 --> 01:05:06:28] E aí, só um detalhe em um parênteses, convencer significa vencer...
+[01:05:08:07 --> 01:05:09:11] É diferente de manipular.
+[01:05:10:21 --> 01:05:15:26] Para você convencer alguém, essa pessoa precisa sentir que ela está ganhando junto com você.
+[01:05:16:12 --> 01:05:20:03] Vocês dois têm que compreender o mesmo raciocínio. Você convence alguém...
+[01:05:21:00 --> 01:05:29:19] que se sente pronto para apoiar aquele argumento. Ela foi convencida, ela sente que ela também concorda com o que você disse.
+[01:05:30:26 --> 01:05:34:26] Então, isso são falácias e eu quero trazer alguns exemplos aqui para vocês.
+[01:05:35:02 --> 01:05:37:13] Mas antes dos exemplos, segue mais uma frase.
+[01:05:38:02 --> 01:05:41:05] O primeiro princípio é que você não deve se enganar.
+[01:05:41:09 --> 01:05:44:24] E você é a pessoa mais fácil de enganar.
+[01:05:45:03 --> 01:05:48:24] Aquele que acha que não pode ser enganado já está enganado, tá?
+[01:05:49:04 --> 01:05:50:12] Então vamos para alguns exemplos aqui.
+[01:05:51:19 --> 01:05:56:25] principais falácias. Eu trouxe algumas, depois vocês podem pesquisar mais. A de hominin,
+[01:05:57:01 --> 01:06:03:00] essa aqui é usada na política de um jeito que depois que você descobre, agora que vocês
+[01:06:03:00 --> 01:06:06:26] vão descobrir isso daqui, vocês vão ficar com raiva. Toda vez que vocês virem isso.
+[01:06:07:01 --> 01:06:12:13] Vocês vão ficar com tédio do Brasil hoje e das discussões políticas hoje. Porque
+[01:06:12:13 --> 01:06:17:12] quando dois políticos começam a discutir, geralmente a discussão não é produtiva.
+[01:06:17:12 --> 01:06:24:04] Porque eles vão usar essa falácia aqui pra poder se esquivar e pra poder fazer movimento
+[01:06:24:04 --> 01:06:24:21] de massa.
+[01:06:25:17 --> 01:06:30:01] Fazer as pessoas ficarem do lado deles, porque no final o jogo da política é esse, e não
+[01:06:30:01 --> 01:06:33:16] é de fato o quanto que isso vai ajudar as pessoas.
+[01:06:34:04 --> 01:06:36:16] É podre, mas fazer o quê?
+[01:06:37:15 --> 01:06:39:20] Então, olha como que isso acontece.
+[01:06:40:13 --> 01:06:42:03] Adiômeni, ataque a pessoa.
+[01:06:42:14 --> 01:06:43:13] Como é que isso funciona, Juan?
+[01:06:44:01 --> 01:06:48:25] Atacar a pessoa que apresenta um argumento ao invés de abordar o próprio argumento.
+[01:06:49:00 --> 01:06:51:23] Às vezes eu tenho um argumento válido, meu argumento é muito bom.
+[01:06:52:07 --> 01:06:59:23] Só que eu tenho algo sobre mim que você pode usar de alvo para me atacar, para desviar
+[01:06:59:23 --> 01:07:05:20] a atenção do meu argumento e invalidar o meu argumento por causa do tipo de pessoa
+[01:07:05:20 --> 01:07:06:04] que eu sou.
+[01:07:07:04 --> 01:07:11:24] Repara como que discussões políticas é só um adjetivando o outro, um falando
+[01:07:11:24 --> 01:07:16:10] que o outro é aquilo, o outro é aquilo, você é isso, mas você é isso, não dá pra confiar
+[01:07:16:10 --> 01:07:21:13] em quem é assim, não dá pra ouvir você. Eu não confio em pessoa que é isso, aquilo
+[01:07:21:13 --> 01:07:24:21] e olha como é que a mídia prega, prega, prega, prega, prega rótulo o tempo inteiro.
+[01:07:25:00 --> 01:07:28:10] Porque se você rotula a pessoa, se você vai pregando rótulo em cima dela...
+[01:07:29:28 --> 01:07:34:17] as pessoas não vão querer nem ter o argumento. Por que elas não vão querer errar? Tem um
+[01:07:34:17 --> 01:07:40:10] outro assunto, eu já dei uma aula sobre isso, que se chama retórica, também de Aristóteles.
+[01:07:40:19 --> 01:07:46:25] E na retórica tem ethos, patos e logos. E é uma construção, você não passa pra
+[01:07:46:25 --> 01:07:54:08] patos e nem logos antes de construir ethos. E ethos é sobre a pessoa que fala, a credibilidade
+[01:07:54:08 --> 01:07:57:22] da pessoa que está falando. Se essa pessoa que está falando não consegue construir
+[01:07:57:22 --> 01:08:02:27] uma boa credibilidade, ela não consegue passar pras próximas etapas da retórica. Então,
+[01:08:03:10 --> 01:08:08:12] quem sou eu pra falar isso? Construir isso é importante. Por isso que o ad hominem é
+[01:08:08:12 --> 01:08:12:22] o ataque ao ethos. Ataca o ethos, ataca, ataca, ataca, ataca, ataca, ataca, ataca.
+[01:08:13:04 --> 01:08:16:28] Essa pessoa não vai conseguir nem argumentar, mesmo que o argumento dela seja válido.
+[01:08:17:12 --> 01:08:23:23] Aí embaixo, nós temos, depois de ethos, patos. Patos é sobre como a pessoa te
+[01:08:23:28 --> 01:08:31:04] como você se sente em relação àquela pessoa, é o lado emocional. Olha só, etos e patos.
+[01:08:31:09 --> 01:08:36:03] Quando você faz ad hominem, você começa a pregar rótulos, as pessoas começam a ter
+[01:08:36:03 --> 01:08:42:09] uma sensação sobre aquela outra pessoa, mesmo que não seja verdade, começa a sentir que aquela
+[01:08:42:09 --> 01:08:53:27] pessoa é aquilo e aí o que acontece? Eu me sinto mal ouvindo aquela pessoa, eu me sinto
+[01:08:53:27 --> 01:08:57:06] eu não quero ser o tipo de pessoa, tá? Aqui, ó!
+[01:08:58:08 --> 01:09:00:21] que escuta aquele outro tipo de pessoa.
+[01:09:02:14 --> 01:09:05:10] Só que, na verdade, você está sendo manipulado.
+[01:09:05:16 --> 01:09:11:22] Sorria, você está sendo manipulado porque você mesmo não foi tirar as suas próprias
+[01:09:11:22 --> 01:09:12:10] conclusões.
+[01:09:12:26 --> 01:09:19:05] Você está tomando conclusões emprestadas de outras pessoas que manipulam você a
+[01:09:19:05 --> 01:09:20:11] céu aberto, digamos assim.
+[01:09:22:14 --> 01:09:30:23] E aí, só depois de etos e patos, ou seja, ataque a credibilidade, ou não só ataque,
+[01:09:30:28 --> 01:09:35:28] mas só depois que você constrói uma credibilidade, depois que você faz as pessoas se sentirem
+[01:09:35:28 --> 01:09:40:16] bem emocionalmente com você e com o tema que você está tratando, aí que entra o
+[01:09:40:16 --> 01:09:45:04] último, que é logos, lógica, etos.
+[01:09:46:01 --> 01:09:46:15] TUS!
+[01:09:48:05 --> 01:09:52:00] Logos, a razão é a última camada.
+[01:09:53:03 --> 01:09:54:18] A lógica entra por último.
+[01:09:55:00 --> 01:09:58:27] Então você pode ter o melhor argumento, você pode ter as melhores premissas,
+[01:09:59:05 --> 01:10:04:02] se as pessoas não se sentem bem e se a sua credibilidade está destruída.
+[01:10:06:08 --> 01:10:08:12] não tem argumento lógico que salva.
+[01:10:08:28 --> 01:10:10:22] E por que a gente precisa entender essas falácias?
+[01:10:10:25 --> 01:10:13:21] Porque elas são usadas contra nós o tempo inteiro.
+[01:10:14:12 --> 01:10:18:12] Eu peguei alguns exemplos aqui que fazem mais sentido pro nosso contexto, mas eu acho
+[01:10:18:12 --> 01:10:20:17] que vocês entenderam o lado político da coisa.
+[01:10:21:07 --> 01:10:26:03] Exemplo, você não pode confiar na opinião dele sobre saúde, ele nem é médico.
+[01:10:28:11 --> 01:10:30:21] Todo mundo já ouviu algo parecido, né?
+[01:10:31:09 --> 01:10:32:26] Você não pode confiar no que ele tá falando.
+[01:10:34:24 --> 01:10:39:11] Olha só, aquela frase clássica, né? Ela faz certo sentido, mas a gente tem que tomar
+[01:10:39:11 --> 01:10:43:27] cuidado, né? Não escute conselhos construtivos de quem não construiu nada.
+[01:10:44:28 --> 01:10:50:21] Tem gente que ama falar essa frase, mas eu acho que essa frase, ela, por si só, é uma
+[01:10:51:09 --> 01:10:52:20] premissa, é uma falácia.
+[01:10:55:06 --> 01:10:59:09] Primeiro, porque você não sabe o que a pessoa construiu, você tem que observar primeiro.
+[01:11:00:15 --> 01:11:02:21] Aceite conselhos construtivos de quem não construiu nada.
+[01:11:04:00 --> 01:11:06:25] E aí que já entra o problema, porque às vezes você acha que a pessoa não construiu
+[01:11:06:25 --> 01:11:11:20] nada mas construiu, e aí beleza, se você fez uma análise, se você observou e você
+[01:11:11:20 --> 01:11:16:11] viu que aquela pessoa não é uma pessoa que faz sentido de falar aquilo, você não
+[01:11:16:11 --> 01:11:21:23] vai colocar o mesmo peso naquele conselho, faz sentido, mas a gente tem que tomar cuidado
+[01:11:21:23 --> 01:11:22:06] com isso.
+[01:11:22:12 --> 01:11:28:29] Porque às vezes isso é utilizado como um clichê para invalidar alguém, sabe?
+[01:11:28:29 --> 01:11:32:14] Você chega para um amigo ou uma amiga e fala, nossa, fulano me falou isso.
+[01:11:32:14 --> 01:11:39:11] Aí seu amigo fala, amiga, não escute conselhos construtivos de quem não construiu nada.
+[01:11:39:21 --> 01:11:42:19] Sabe, essa frase é jogada, solta assim, você... é verdade, né?
+[01:11:43:11 --> 01:11:44:27] Você foi manipulado.
+[01:11:45:05 --> 01:11:47:02] Sorria, você foi manipulado.
+[01:11:47:21 --> 01:11:48:10] Então...
+[01:11:49:29 --> 01:11:51:19] Prestar atenção nisso é importante, tá?
+[01:11:52:14 --> 01:11:52:28] Impacto.
+[01:11:53:01 --> 01:11:55:29] Desvia a atenção do argumento e enfraquece a discussão racional.
+[01:11:56:16 --> 01:11:57:29] Esse é uma das falácias, tá?
+[01:11:57:29 --> 01:11:59:20] Vou apresentar mais aqui pra vocês.
+[01:12:00:08 --> 01:12:04:00] Vamos falando, me fala aí no chat se isso já aconteceu com vocês, inclusive, porque
+[01:12:04:00 --> 01:12:04:16] eu quero saber.
+[01:12:05:18 --> 01:12:10:03] Muita gente usa a adicionância cognitiva para manipular as pessoas também, através das
+[01:12:10:03 --> 01:12:11:08] crenças das pessoas.
+[01:12:12:08 --> 01:12:13:01] Sim, exatamente.
+[01:12:13:05 --> 01:12:16:14] O Ericson falou, acaba tendo o ranço da pessoa sem conhecer, exatamente.
+[01:12:17:06 --> 01:12:20:00] Isso é adiômeno, muito utilizado.
+[01:12:20:14 --> 01:12:24:23] Vamos para o segundo, clássico, esse aqui até nós designers utilizamos, apelo à
+[01:12:24:23 --> 01:12:25:12] emoção.
+[01:12:25:29 --> 01:12:29:00] Repare que eu já peguei os dois primeiros, etos e patos.
+[01:12:29:15 --> 01:12:33:09] Apelo à emoção, usar emoções ao invés da lógica para persuadir.
+[01:12:33:09 --> 01:12:36:05] Já que Aristóteles... Aristóteles era um gênio, cara.
+[01:12:40:03 --> 01:12:45:03] Criou essa organização, ele conversando com várias pessoas, com os filósofos da época.
+[01:12:45:15 --> 01:12:46:21] Etus, patus, logus.
+[01:12:46:27 --> 01:12:48:04] Etus, patus, logus.
+[01:12:48:14 --> 01:12:50:11] A ordem dos fatores interfere o resultado.
+[01:12:50:19 --> 01:12:51:20] Etus, patus, logus.
+[01:12:51:22 --> 01:12:53:06] Não é logus, patus, etus.
+[01:12:53:09 --> 01:12:54:23] Etus, patus, logus.
+[01:12:55:05 --> 01:12:56:27] Credibilidade, emoção, razão.
+[01:12:58:18 --> 01:13:00:11] Então, usar a emoção primeiro.
+[01:13:00:27 --> 01:13:05:01] Exemplo, se você se preocupa com seus filhos, você vai comprar esse seguro de
+[01:13:05:01 --> 01:13:05:07] vida.
+[01:13:05:15 --> 01:13:08:02] Vendedores usam muito esse, mas designers também.
+[01:13:09:06 --> 01:13:13:24] Designers também usam isso aqui, quando você vai desenvolver uma identidade verbal, quando
+[01:13:13:24 --> 01:13:17:24] você vai criar uma promessa de marca, gestores de marca usam isso, então a gente tem que
+[01:13:17:24 --> 01:13:21:08] tomar cuidado também para construir marcas mais sólidas, com mais substância, que
+[01:13:21:08 --> 01:13:23:02] não usam esses truques baratos.
+[01:13:24:12 --> 01:13:30:14] Impacto. Manipula os sentimentos das pessoas para evitar a análise lógica do argumento.
+[01:13:31:12 --> 01:13:34:06] Então, mascar o argumento ou a emoção.
+[01:13:37:17 --> 01:13:38:13] e muito tchilisado.
+[01:13:40:12 --> 01:13:45:20] Mais uma falácia, falso dilema. Esse aqui, o dia que eu aprendi, eu falei, cara, eu me sinto livre.
+[01:13:46:06 --> 01:13:52:12] Me sinto livre. Falso dilema, apresentar duas opções como as únicas possibilidades quando
+[01:13:52:12 --> 01:13:59:03] existem outras. Por exemplo, ou você apoia a política X ou você não se importa com o país.
+[01:14:00:03 --> 01:14:06:12] Só tem essas duas opções. Não existe outra, não tem outro caminho, não tem tons de cinza,
+[01:14:06:12 --> 01:14:13:29] é preto ou branco. Muita gente vive a vida desse jeito, não é inteligente. Você claramente
+[01:14:13:29 --> 01:14:19:18] vê uma pessoa que não tem autonomia intelectual, uma pessoa que não tem pensamento crítico,
+[01:14:19:28 --> 01:14:24:02] uma pessoa que não faz análise profunda das coisas. Uma pessoa superficial, guiada
+[01:14:24:02 --> 01:14:25:14] por vieses e heurísticas.
+[01:14:27:17 --> 01:14:31:22] E aí, aqui a gente tem um ponto importante porque é até para a nossa vida, tá?
+[01:14:31:24 --> 01:14:32:18] Até para a nossa vida.
+[01:14:33:22 --> 01:14:35:10] Eu aprendi isso, foi muito legal.
+[01:14:35:13 --> 01:14:40:25] Tem uma série que chama Suits, dos advogados, Harvey Spector, Mike.
+[01:14:41:17 --> 01:14:42:23] É uma série legal, é bacana.
+[01:14:43:25 --> 01:14:51:15] E tem uma cena, o Harvey é o mentor do Mike, o Mike é um cara que estava em Harvard estudando
+[01:14:51:15 --> 01:14:57:07] para virar advogado, ele era muito inteligente e um gênio, só que ele fazia... ele era tão
+[01:14:57:07 --> 01:15:01:11] gênio que ele ganhava dinheiro fazendo a prova para as pessoas, para as pessoas passarem.
+[01:15:01:16 --> 01:15:06:18] A prova como se fosse a OAB aqui no Brasil, da ordem dos advogados, como se fosse a prova
+[01:15:06:18 --> 01:15:09:17] da OAB no Brasil, mas lá nos Estados Unidos, ele fazia essa prova para as pessoas,
+[01:15:09:17 --> 01:15:14:22] ele não tinha nem formado ainda, e ele falava pra pessoa assim, quanto que você quer tirar?
+[01:15:15:14 --> 01:15:19:02] A pessoa falava quanto que queria tirar e ele fazia a prova pra pessoa e dava nota.
+[01:15:19:15 --> 01:15:22:01] Só que aí descobriram, e aí ele foi expulso de Harvard.
+[01:15:22:20 --> 01:15:27:00] E aí um dia, casa lá um acontecimento, é muito legal esse episódio é bacana, casa
+[01:15:27:00 --> 01:15:32:00] um acontecimento lá que ele vai pra uma entrevista, sem querer, se eu não me engano
+[01:15:32:00 --> 01:15:33:17] ele tá fugindo, eu não lembro, tem muito tempo que eu vi.
+[01:15:34:09 --> 01:15:38:11] E aí ele cai na entrevista com esse Harvard, e aí ele tá lá, ele vê uma oportunidade
+[01:15:38:11 --> 01:15:45:09] E ele fala com ele, olha, pode falar qualquer lei, pode olhar no seu computador, que eu sei,
+[01:15:46:08 --> 01:15:47:17] dar o argumento e falar dessa lei.
+[01:15:48:04 --> 01:15:49:00] Essa cena é muito boa.
+[01:15:49:12 --> 01:15:56:06] E ele é um gênio, o Mike é um gênio, só que o Harvey é como se fosse a maior autoridade
+[01:15:56:06 --> 01:16:00:10] da série de advogado, o maior advogado, o exemplo de advogado.
+[01:16:00:14 --> 01:16:01:27] Cabuloso, o Harvey é cabuloso mesmo.
+[01:16:01:27 --> 01:16:08:00] E aí acaba que o Mike vira mentorado do Harvey Specter, e tem uma cena muito boa.
+[01:16:08:24 --> 01:16:13:05] O Harvey pergunta pro Mike assim, o que você faz quando apontam uma arma pra você?
+[01:16:14:16 --> 01:16:21:24] Aí eu não lembro muito bem a frase do Mike, mas deve ser alguma coisa como eu cedo, eu
+[01:16:22:05 --> 01:16:24:19] negocio, tem uma arma apontada pra mim, né?
+[01:16:24:22 --> 01:16:26:13] Eu falo, o que você faz quando eu aponto uma arma pra você?
+[01:16:26:25 --> 01:16:30:15] Aí ele fala, e aí o Harvey fala assim, não, você aponta uma arma maior.
+[01:16:31:28 --> 01:16:34:14] E eu falei, caraca, olha só, o raciocínio do cara.
+[01:16:34:25 --> 01:16:39:27] Mas aí eu parei pra pensar, isso aqui é exatamente, nós caímos em falsos dilemas o tempo inteiro.
+[01:16:40:08 --> 01:16:44:14] Às vezes nós achamos que aquelas são as únicas opções quando existem muitas outras.
+[01:16:45:02 --> 01:16:47:00] E isso também é usado pra nos manipular.
+[01:16:47:08 --> 01:16:53:02] E também é uma falácia que às vezes nós acabamos cometendo um erro lógico
+[01:16:53:02 --> 01:16:54:23] por conta dessas falácias.
+[01:16:55:14 --> 01:17:00:15] Então falso dilema também é um, simplifica excessivamente a situação e força uma
+[01:17:00:21 --> 01:17:06:25] escolha entre duas opções extremas. Ou você gosta de doce, ou você gosta de salgado.
+[01:17:08:11 --> 01:17:12:04] Não tem como gostar dos dois, isso é um falso...
+[01:17:14:14 --> 01:17:18:19] Apela a autoridade, falar se é muito usado também, argumentar que algo é verdadeiro
+[01:17:18:19 --> 01:17:21:02] porque é uma autoridade ou o especialista diz que é.
+[01:17:21:14 --> 01:17:25:07] Muitos de vocês, às vezes, aceitam as coisas que eu falo como verdadeiras, porque vocês
+[01:17:25:07 --> 01:17:26:14] me veem como especialista.
+[01:17:28:04 --> 01:17:32:23] Tem um vídeo muito bom do Teddy, eu só não vou achar agora, que o cara começa fazendo
+[01:17:32:23 --> 01:17:38:15] um monte de afirmação, vários dados, as pessoas vão ficando surpresas e no final ele
+[01:17:38:15 --> 01:17:41:08] fala, pois é, mas tudo isso é mentira.
+[01:17:41:14 --> 01:17:43:06] E as pessoas começam a rir, tipo, meu Deus!
+[01:17:43:06 --> 01:17:46:03] E aí ele mostra o quanto que a...
+[01:17:47:04 --> 01:17:51:29] essa construção de autoridade, o cara falar com confiança, o cara falar com postura,
+[01:17:52:04 --> 01:17:56:14] o cara ter o comportamento, isso influencia muito mais a percepção das pessoas do que
+[01:17:56:14 --> 01:17:57:06] as próprias palavras.
+[01:17:58:05 --> 01:17:59:21] Etus, patos, logos.
+[01:17:59:26 --> 01:18:01:03] Etus, patos, logos.
+[01:18:01:05 --> 01:18:02:06] Etus, patos, logos.
+[01:18:02:11 --> 01:18:03:08] Guarda isso na sua cabeça.
+[01:18:04:19 --> 01:18:09:05] Etos e patos influenciam mais que Logos no início, depois Logos vem pra poder complementar.
+[01:18:09:09 --> 01:18:10:24] É importante também ter a lógica, tá?
+[01:18:11:18 --> 01:18:13:07] Mas aí ele mostra isso, é muito legal.
+[01:18:13:20 --> 01:18:18:24] E aqui o apelo autoridade às vezes é quando uma pessoa usa da autoridade como argumento.
+[01:18:19:29 --> 01:18:25:04] Olha o exemplo que eu coloquei ali, esse produto deve ser bom porque um famoso médico recomenda.
+[01:18:25:28 --> 01:18:26:18] Só deve ser bom.
+[01:18:27:04 --> 01:18:32:27] Um médico famoso recomendou, mas aí você vai aceitar isso só por causa que é um médico
+[01:18:32:27 --> 01:18:33:09] famoso?
+[01:18:36:26 --> 01:18:40:04] Só porque um médico famoso falou, o que seria mais prudente?
+[01:18:40:11 --> 01:18:42:07] Coletar mais informações de outros médicos.
+[01:18:43:22 --> 01:18:46:25] Ter mais base de dados. Entendeu a lógica para onde que vai?
+[01:18:47:14 --> 01:18:50:23] Confia cegamente em autoridades sem examinar as evidências subjacentes.
+[01:18:51:09 --> 01:18:55:09] Então questionem. Questionem inclusive a mim. Eu também erro. Eu já errei várias vezes.
+[01:18:55:18 --> 01:19:00:05] Eu vou continuar errando. O mais importante é evoluir, mostrar onde estava o erro, desenvolver.
+[01:19:00:19 --> 01:19:03:01] Isso acontece com todos nós. Então questionem também o que eu falo.
+[01:19:04:06 --> 01:19:08:26] Todo mundo, até vocês mesmos, questionem vocês, questionem os outros, busquem encontrar.
+[01:19:09:07 --> 01:19:15:01] A verdade não é uma coisa que você sabe, a verdade é uma coisa que você encontra
+[01:19:15:21 --> 01:19:17:16] e ela precisa desse processo.
+[01:19:18:09 --> 01:19:21:00] E aí a generalização apressada que eu falei com vocês, né?
+[01:19:21:16 --> 01:19:25:01] Tirar uma conclusão geral baseada em uma amostra insuficiente.
+[01:19:25:17 --> 01:19:31:13] Eu conheci dois designers que são introvertidos, então todos designers devem ser introvertidos.
+[01:19:31:13 --> 01:19:38:05] Isso é uma generalização apressada, ou seja, eu estou generalizando um grupo inteiro de
+[01:19:38:05 --> 01:19:44:00] designers porque eu conheci dois, ou sei lá, eu conheci cinco designers, os cinco designers
+[01:19:44:00 --> 01:19:45:19] que eu conheço são introvertidos.
+[01:19:48:00 --> 01:19:53:28] Esse é o argumento da pessoa, tá lá em uma conversa e a pessoa fala que designer é introvertido, é mesmo?
+[01:19:54:06 --> 01:19:57:06] É, os cinco designers que eu conheço são introvertidos.
+[01:19:58:00 --> 01:20:03:21] Isso é uma generalização apressada, por isso que a gente tem que evitar generalizar as coisas também, principalmente hoje em dia.
+[01:20:04:28 --> 01:20:09:08] impacto conduz a conclusões incorretas e preconceituosas.
+[01:20:10:13 --> 01:20:11:18] E aí, não é só isso, tá?
+[01:20:11:21 --> 01:20:14:25] Vou trazer aqui um exemplo prático, olha, você está discutindo com o cliente sobre
+[01:20:14:25 --> 01:20:19:16] a necessidade de redesign do site, e ele fala, não precisamos de um redesign.
+[01:20:19:28 --> 01:20:22:23] Meu primo disse que o site está ótimo e ele é um programador.
+[01:20:24:02 --> 01:20:25:24] Todo mundo já ouviu isso antes, né?
+[01:20:25:28 --> 01:20:27:11] Provavelmente vocês já ouviram isso aqui antes.
+[01:20:27:17 --> 01:20:29:28] Não exatamente essa frase, mas algo parecido.
+[01:20:30:14 --> 01:20:33:14] A fulano disse, e eu acredito no que fulano fala.
+[01:20:34:07 --> 01:20:35:08] Como é que você rebate isso?
+[01:20:36:02 --> 01:20:39:28] Olha a lógica que muitos designers às vezes ficam frustrados com alterações que
+[01:20:39:28 --> 01:20:43:14] não fazem sentido, porque não desenvolveram pensamento crítico, não desenvolveram
+[01:20:43:14 --> 01:20:44:08] raciocínio lógico.
+[01:20:45:06 --> 01:20:46:29] E não te envolveram?
+[01:20:47:06 --> 01:20:48:08] Etus Patis Logos
+[01:20:51:04 --> 01:20:55:03] Aí você diz, embora seja ótimo que seu primo tenha uma opinião positiva, precisamos
+[01:20:55:03 --> 01:20:59:15] considerar os dados de usabilidade e as taxas de conversão para tomar uma decisão informada.
+[01:20:59:23 --> 01:21:04:28] E segundo a análise que eu fiz, seus dados não estão bons, poderiam ser muito melhores.
+[01:21:05:26 --> 01:21:08:24] Com base no que o seu primo disse que o site está ótimo?
+[01:21:09:06 --> 01:21:09:20] Checkmate.
+[01:21:10:17 --> 01:21:10:25] Entendeu?
+[01:21:11:07 --> 01:21:15:08] Então você usa o argumento lógico aqui dentro de um exemplo real.
+[01:21:15:08 --> 01:21:21:22] Só que além das falácias, nós também temos os erros de pensamento comuns, que também
+[01:21:21:22 --> 01:21:24:11] são chamados de vieses cognitivos.
+[01:21:25:11 --> 01:21:31:05] Falácia é algo externo, é quando alguém te dá um input, alguém te envia uma informação,
+[01:21:31:10 --> 01:21:34:05] pode ser falando mesmo, e essa informação é uma falácia.
+[01:21:34:13 --> 01:21:37:02] Ou quando você chega numa conclusão que é uma falácia.
+[01:21:37:09 --> 01:21:38:03] Isso é falácia.
+[01:21:38:17 --> 01:21:40:26] Agora, o que são vieses cognitivos?
+[01:21:41:29 --> 01:21:46:14] são atalhos mentais que o nosso cérebro usa para tomar decisões rápidas. Eu já falei
+[01:21:46:14 --> 01:21:52:12] isso antes, viés vem do mesmo lugar de viela, é um caminho curto, um caminho rápido para
+[01:21:52:12 --> 01:21:58:08] tomar uma decisão. E heurísticas são padrões comportamentais que o seu cérebro toma.
+[01:21:58:26 --> 01:22:02:23] Eu falei que eu vou indicar para vocês quatro livros, né? Um deles é o Rápido e Devagar
+[01:22:02:23 --> 01:22:06:20] Duas Formas de Pensar e é desse livro que vem, as heurísticas e os viés. E
+[01:22:06:20 --> 01:22:10:27] tem um outro livro famoso também do Robert Chialdini, não sei como é que pronuncia,
+[01:22:10:27 --> 01:22:14:25] que são armas da persuasão, que ele fala também dos atalhos mentais.
+[01:22:15:02 --> 01:22:19:14] Hoje em dia a gente chama de gatilhos mentais, mas academicamente falando é um erro chamar
+[01:22:19:14 --> 01:22:25:21] de gatilhos, porque gatilhos mentais são outra coisa, o termo correto seria atalhos
+[01:22:25:21 --> 01:22:31:17] mentais, mas as pessoas começaram a usar esse termo e hoje é um erro que foi absorvido
+[01:22:31:17 --> 01:22:32:07] pelo mercado.
+[01:22:32:15 --> 01:22:37:09] Mas se vocês quiserem ser academicamente corretos, não falem gatilhos mentais,
+[01:22:37:09 --> 01:22:44:01] falam em atalhos mentais ou viés cognitivos. E quais são os atalhos mentais e viés cognitivos
+[01:22:44:01 --> 01:22:47:19] mais conhecidos que atrapalham no nosso pensamento crítico?
+[01:22:48:16 --> 01:22:53:08] Viés de confirmação. A tendência é de procurar, interpretar e lembrar informações
+[01:22:53:08 --> 01:22:58:12] que confirmam nossas crenças pré-existentes. O viés da confirmação é quando você tem
+[01:22:58:12 --> 01:23:03:15] uma crença e você quer que aquela crença seja a verdade. Então, você só vai
+[01:23:03:15 --> 01:23:11:29] buscar argumentos, premissas, que colaborem com a conclusão verdadeira daquela ideia
+[01:23:11:29 --> 01:23:13:01] que você quer que seja verdade.
+[01:23:13:22 --> 01:23:19:16] Isso é um viés, é o seu cérebro querendo tomar a tarde, então você fica cego para
+[01:23:19:16 --> 01:23:25:10] as antíteses, não vou olhar para as antíteses, não vou olhar para o que me faz acreditar,
+[01:23:25:22 --> 01:23:32:00] e eu só presto atenção aqui, só presto atenção no que confirma o que eu acredito.
+[01:23:32:13 --> 01:23:37:09] viés da confirmação, acontece o tempo inteiro. Tem um filme que eu gosto que é Duna, e tem lá
+[01:23:37:09 --> 01:23:44:09] Duna Parte 2. Em Duna Parte 2 tem um profeta muito conhecido e esse profeta ele fala do
+[01:23:44:09 --> 01:23:52:25] que no caso ela chamava... eu não sei se é Nissan... acho que é Nissan... Nissan Algaíbe
+[01:23:53:26 --> 01:24:01:21] Esse que era o termo, tem vários termos assim, mas é o Al-Ghaib. E esse Al-Ghaib é o Paul
+[01:24:01:21 --> 01:24:06:05] Arthritis, que é o protagonista. E aí, eles estão lá no deserto, passando pelo deserto.
+[01:24:07:00 --> 01:24:13:12] E esse profeta, ele começa a ver tudo que o Paul Arthritis faz...
+[01:24:14:10 --> 01:24:20:24] e ver como se fosse uma confirmação da profecia. É muito bom essa cena, você vê o verso da
+[01:24:20:24 --> 01:24:27:26] confirmação perfeito ali. Tem uma hora que ele fala assim, você é Lissan Al-Ghaib,
+[01:24:28:10 --> 01:24:33:06] e aí, eu não sei se é exatamente assim, mas ele fala, eu não sou. Ele fala, vocês
+[01:24:33:06 --> 01:24:39:28] viram a humildade dele, ele é tão humilde que ele nem afirma que ele mesmo é.
+[01:24:41:00 --> 01:24:42:18] Isso é o viés da confirmação, tá vendo?
+[01:24:42:29 --> 01:24:47:18] Às vezes, está ali, a pessoa está mostrando, todos os dados mostram o contrário, mas a
+[01:24:47:18 --> 01:24:51:18] pessoa está tão envesada naquilo, que ela quer confirmar aquela informação?
+[01:24:53:20 --> 01:24:57:01] Ela vai tentar interpretar tudo de maneira que confirme aquilo.
+[01:24:57:14 --> 01:25:01:23] Eu coloquei ali, olha, se você acredita que um determinado estilo de design é o melhor,
+[01:25:02:10 --> 01:25:07:04] você tende a dar mais peso às críticas positivas desse estilo e ignorar as críticas
+[01:25:07:04 --> 01:25:08:05] negativas, sei lá.
+[01:25:08:11 --> 01:25:11:19] Minimalismo é tudo, menos é mais, menos é mais.
+[01:25:12:01 --> 01:25:15:17] Aí vem o Juan, por exemplo, eu acho que vou fazer até uma camisa que eu gosto muito
+[01:25:15:17 --> 01:25:17:00] daquele símbolo.
+[01:25:17:07 --> 01:25:21:16] Menos é menos, menos é mais, mais é menos, mais é mais.
+[01:25:21:16 --> 01:25:25:05] Eu gosto desse símbolo, depois eu vou fazer uma camisa disso, que é o quê?
+[01:25:25:07 --> 01:25:29:10] Nem sempre menos é mais, às vezes menos é menos, às vezes mais é menos e às vezes
+[01:25:29:10 --> 01:25:29:26] mais é mais.
+[01:25:31:08 --> 01:25:35:20] Tudo depende de contexto, só que menos é mais, minimalismo, o negócio é minimalismo,
+[01:25:35:24 --> 01:25:38:22] você não presta atenção nos defeitos, que às vezes o minimalismo leva ao simplismo,
+[01:25:39:02 --> 01:25:41:26] às vezes você não passa a mensagem que você quer porque você tá minimalista demais.
+[01:25:43:25 --> 01:25:48:28] Então, você confirma aquilo com o tempo inteiro querendo confirmar.
+[01:25:49:05 --> 01:25:59:13] Efeito halo, o efeito halo é muito parecido com a falácia da autoridade, o apelo à autoridade.
+[01:25:59:23 --> 01:26:03:29] O apelo da autoridade é quando a própria pessoa usa a autoridade para tentar reforçar
+[01:26:03:29 --> 01:26:07:14] o argumento dela e ganhar aquele raciocínio.
+[01:26:07:21 --> 01:26:13:11] Agora, o efeito halo é uma coisa que acontece no nosso cérebro, é um viés também que
+[01:26:13:11 --> 01:26:20:02] A maneira como você se sente com aquela pessoa faz você acreditar em tudo que ela fala.
+[01:26:20:16 --> 01:26:24:27] Então eu coloquei ali a tendência de permitir que uma impressão geral de uma pessoa ou
+[01:26:24:27 --> 01:26:29:03] coisa influencie julgamentos sobre suas qualidades específicas.
+[01:26:29:08 --> 01:26:33:15] Então às vezes eu sou muito bom, por exemplo, em fundamentos do design.
+[01:26:33:24 --> 01:26:38:11] Sou muito bom, entro com profundidade nisso, ensino isso pra você com tanta profundidade
+[01:26:39:00 --> 01:26:40:29] e aí isso cria um efeito halo.
+[01:26:40:29 --> 01:26:46:03] Eu sei que eu tenho um efeito halo para a maioria de vocês. Halo é a auréola, tá?
+[01:26:46:08 --> 01:26:49:26] Como se fosse um efeito de santo, aquilo que eu falo.
+[01:26:51:10 --> 01:26:54:24] Eu sei que para muitos de vocês, eu tenho esse efeito Reil.
+[01:26:54:28 --> 01:26:59:27] E é um viés que já está na cabeça de vocês e que foi sendo construído.
+[01:26:59:29 --> 01:27:05:18] Mas não fui eu que construí isso, foi o cérebro de vocês, porque vocês vão consumindo,
+[01:27:05:27 --> 01:27:09:01] muitas coisas fazem sentido, eu estudo para trazer o conhecimento.
+[01:27:09:10 --> 01:27:12:02] Mas às vezes vocês não sabem, muita gente fala, acha que eu sou um gênio,
+[01:27:12:05 --> 01:27:20:27] acham que eu sou um sábio eremita da montanha que baixou em um corpo de um menino de 27 anos,
+[01:27:20:27 --> 01:27:27:03] um homem de 27 anos. Tem gente que fala isso. Eu sei que é brincadeira, mas às vezes eu
+[01:27:27:03 --> 01:27:33:16] escuto, você é muito genial, você é muito inteligente. E se vocês forem reparar a verdade
+[01:27:33:16 --> 01:27:39:10] mesmo, eu sou mais preparado do que gênio. Eu estudo para poder dar aula para vocês
+[01:27:39:10 --> 01:27:46:04] ou é uma aula que eu já vivo na minha realidade. Então não é que eu tenho essa
+[01:27:46:04 --> 01:27:51:19] a orelha, mas eu sou visto assim e vocês tendem a acreditar mais. Então olha só, se um designer
+[01:27:51:19 --> 01:27:56:12] tem uma boa reputação, você pode assumir automaticamente que todos os seus trabalhos
+[01:27:56:12 --> 01:28:00:02] são excelentes, sem uma análise crítica. Vocês podem olhar para o meu portfólio,
+[01:28:00:06 --> 01:28:04:19] que inclusive nem existe, depois eu vou trabalhar um portfólio novo, né? Tem a
+[01:28:04:19 --> 01:28:07:10] Overlays, tem a Orabona, às vezes eu coloco algumas coisas, mostro para vocês,
+[01:28:07:18 --> 01:28:12:04] mas eu não costumo publicar no portfólio. Mas às vezes vocês podem achar que todos
+[01:28:12:04 --> 01:28:13:07] projetos que eu já fiz são bons.
+[01:28:14:13 --> 01:28:17:12] Eu faço projetos ruins também, já fiz projetos ruins.
+[01:28:18:07 --> 01:28:19:03] Então isso é natural.
+[01:28:19:26 --> 01:28:20:28] E não é só eu não, tá?
+[01:28:21:01 --> 01:28:22:27] Porque às vezes eu tô aqui na posição falando que eu faço isso,
+[01:28:23:00 --> 01:28:25:24] falar, então, vou seguir outro cara que só tem um projeto bom.
+[01:28:26:01 --> 01:28:28:00] Não existe, esse cara não existe, tá bom?
+[01:28:28:04 --> 01:28:32:04] Às vezes tem outros designers que têm esse efeito halo para vocês.
+[01:28:32:23 --> 01:28:35:16] E aí vocês pensam, cara, todos os projetos deles são fãs.
+[01:28:35:16 --> 01:28:36:25] Não são, não são.
+[01:28:37:27 --> 01:28:40:17] Então, é importante levar essa consideração também.
+[01:28:40:26 --> 01:28:45:14] Pode levar a julgamentos injustos e sobre a avaliação de certas qualidades, ou seja,
+[01:28:46:18 --> 01:28:47:07] super valorização.
+[01:28:49:05 --> 01:28:54:11] Ilusão de controle, a tendência de superestimar nossa capacidade de controlar eventos, isso
+[01:28:54:11 --> 01:28:58:25] também é um viés, um viés ainda que pode te influenciar muito negativamente.
+[01:28:59:10 --> 01:29:04:04] Acreditar que você pode prever o sucesso de um projeto apenas com base em seus forçabilidades,
+[01:29:04:14 --> 01:29:05:29] ignorando fatores externos.
+[01:29:06:08 --> 01:29:08:02] Lembra aquela frase que eu falei para vocês outro dia?
+[01:29:08:14 --> 01:29:13:23] Eu falei assim, você não cole só o que você planta, você também cole o que ninguém
+[01:29:13:23 --> 01:29:16:23] arranca e também cole o que plantaram para você.
+[01:29:18:16 --> 01:29:23:08] Aqui, não segue essa ideia, ilusão de controle é achar que você controla tudo, que você
+[01:29:23:08 --> 01:29:27:26] sabe o que vai acontecer, mas essa é a ilusão, então, de controle.
+[01:29:28:14 --> 01:29:30:14] E isso é muito ruim dentro do design, tá?
+[01:29:31:09 --> 01:29:36:27] A ilusão de controle te impede de colaborar, de delegar, e colaborar e delegar são
+[01:29:36:27 --> 01:29:42:08] tarefas muito importantes dentro do design, dentro de qualquer prática de criação
+[01:29:42:08 --> 01:29:43:09] e realização.
+[01:29:44:04 --> 01:29:45:18] Então, tem que ser levado em conta também.
+[01:29:46:05 --> 01:29:51:23] Viés de ancoragem. Esse aqui também. Eu uso esse, tá? Eu vou ser sincero com vocês,
+[01:29:51:26 --> 01:29:52:27] falar a verdade. Eu uso esse.
+[01:29:54:09 --> 01:29:58:19] Eu uso ele porque ele funciona, mas eu uso ele de forma verdadeira e sincera.
+[01:29:59:01 --> 01:30:03:28] Por exemplo, quando eu passo o seguinte raciocínio com vocês, quanto custa uma faculdade de
+[01:30:03:28 --> 01:30:04:09] design?
+[01:30:04:19 --> 01:30:08:00] A faculdade de design você vai gastar aí mais ou menos R$600 a parcela.
+[01:30:08:08 --> 01:30:10:01] Isso é verdade, você pode consultar.
+[01:30:10:03 --> 01:30:13:00] Tem algumas até mais caras, de R$1.000 a R$1.200 a parcela.
+[01:30:14:02 --> 01:30:20:00] ficar na faculdade de 2 a 4 anos, então você vai gastar lá em média pelo menos R$ 12.000,
+[01:30:20:25 --> 01:30:27:11] que se fosse R$ 600 é R$ 12.000, só de mensalidade, tirando transporte, alimentação, materiais,
+[01:30:27:16 --> 01:30:28:17] tá? R$ 12.000.
+[01:30:29:27 --> 01:30:32:00] Se for uma faculdade de 4 anos...
+[01:30:33:03 --> 01:30:36:05] Aí já vai embora quarenta e tantos mil reais, né?
+[01:30:37:20 --> 01:30:42:15] Pelo menos R$24 mil, se for uma de R$600, só na mensalidade.
+[01:30:43:12 --> 01:30:46:00] E aí eu uso isso, eu ancorei, eu dei uma primeira informação.
+[01:30:46:24 --> 01:30:50:02] Agora, por outro lado, você pode assinar o overpass da Overlens.
+[01:30:51:06 --> 01:30:58:02] E por R$ 89,00, você tem acesso a conteúdos em nível acadêmico tão aprofundados quanto
+[01:30:58:02 --> 01:30:59:28] o conteúdo que você aprenderia em uma faculdade.
+[01:31:00:11 --> 01:31:02:08] Isso é uma ancoragem.
+[01:31:02:24 --> 01:31:07:24] Ela é verdadeira, ela faz sentido, mas também é um argumento válido, por isso que ela
+[01:31:07:24 --> 01:31:09:00] é forte e eu uso.
+[01:31:09:23 --> 01:31:10:22] Então o que é ancoragem?
+[01:31:11:07 --> 01:31:16:21] A tendência de se fixar em uma informação inicial, a âncora, e ajustar inadequadamente
+[01:31:16:21 --> 01:31:18:12] outras informações em torno dessa âncora.
+[01:31:18:20 --> 01:31:19:29] Aí aqui é falando do viés.
+[01:31:20:17 --> 01:31:25:26] Você pode usar ancoragem para ter um argumento válido, e aí ela vai ser forte do mesmo jeito.
+[01:31:26:15 --> 01:31:30:29] Mas você tem que tomar cuidado com isso quando nós falamos de viesves, que é o quê?
+[01:31:31:00 --> 01:31:35:20] É você pensar, poxa, mas vamos pegar esse caso mesmo, né?
+[01:31:36:12 --> 01:31:37:11] Da ancoragem.
+[01:31:37:23 --> 01:31:38:19] Tá, mas...
+[01:31:39:28 --> 01:31:43:12] Será mesmo que dá para comparar a Overlens com uma faculdade?
+[01:31:43:24 --> 01:31:45:19] É um tipo de questionamento que você pode fazer.
+[01:31:45:28 --> 01:31:48:24] E aí o que eu falo em seguida, porque eu sei que você pode ter esse argumento?
+[01:31:49:00 --> 01:31:53:02] Eu falo o seguinte, e se você não acredita que na Overlens você tem aulas em nível
+[01:31:53:15 --> 01:31:56:06] acadêmico, eu te convido a experimentar.
+[01:31:56:09 --> 01:32:00:24] Você pode experimentar, dentro de 7 dias todos os conteúdos liberados, assista algumas
+[01:32:00:24 --> 01:32:02:03] aulas e veja com seus próprios olhos.
+[01:32:02:06 --> 01:32:04:00] Se você não gostar, pede a rembolsa e eu devolvo tudo.
+[01:32:04:20 --> 01:32:07:21] Outro argumento forte, de venda.
+[01:32:07:24 --> 01:32:09:04] Então são argumentos válidos.
+[01:32:09:04 --> 01:32:14:05] Se você tem esses argumentos, aí você consegue gerenciar isso e a pessoa vai ver que você
+[01:32:14:05 --> 01:32:15:03] está sendo sincero.
+[01:32:15:09 --> 01:32:17:27] Agora, se os seus argumentos são falhos, igual tem muita gente que usa...
+[01:32:17:27 --> 01:32:22:03] No passado eu até usava isso com alguns clientes e parei, porque eu estava fazendo o que todo
+[01:32:22:03 --> 01:32:22:20] mundo fazia, né?
+[01:32:22:21 --> 01:32:28:27] Falar assim, abrimos a turma do nosso curso online, são vagas limitadas, qual
+[01:32:28:27 --> 01:32:29:05] é?
+[01:32:30:21 --> 01:32:36:01] Vagas limitadas? Online? Online agora ocupa espaço. Onde é que online ocupa espaço?
+[01:32:36:06 --> 01:32:39:07] Se for no Zoom até dá pra falar que no Zoom você tem que pagar o plano mais caro.
+[01:32:40:09 --> 01:32:45:07] Mas geralmente não tem limite de vagas e as pessoas usam muito isso, eu não gosto de usar,
+[01:32:45:09 --> 01:32:45:19] eu não uso.
+[01:32:46:00 --> 01:32:49:18] Eu prefiro falar que o tempo está acabando se eu for usar esse tipo de escassez, vai
+[01:32:49:18 --> 01:32:51:13] só até sexta-feira, compra lá, se não, acabou.
+[01:32:52:13 --> 01:32:59:19] Vaga limitada, ou falar que estamos chegando em 80% das vagas de um curso online, eu
+[01:32:59:19 --> 01:33:05:28] sei que se bater, aí tem a lógica também, algumas pessoas estipam o número de vagas,
+[01:33:06:03 --> 01:33:08:11] bater o número elas fecham a inscrição mesmo, pode acontecer.
+[01:33:08:11 --> 01:33:13:02] Mas repara que daí uns dias elas abrem de novo, porque elas querem ter mais almas.
+[01:33:14:07 --> 01:33:15:21] Então fica aquela questão mesmo, ah!
+[01:33:16:28 --> 01:33:23:03] Agora, se tem um benefício legal ali no meio, olha, para quem entrar nessas 100 primeiras
+[01:33:23:16 --> 01:33:26:00] vagas tem bônus especiais que depois não vai ter mais.
+[01:33:26:07 --> 01:33:29:22] Aí beleza, aí você começa a trazer integridade e verdade para o argumento.
+[01:33:30:24 --> 01:33:33:23] Exemplo, se o primeiro orçamento para um projeto for muito alto,
+[01:33:34:05 --> 01:33:38:27] você pode considerar qualquer redução como significativa, mesmo que ainda seja alto.
+[01:33:39:19 --> 01:33:42:07] Então, dentro de um projeto, por exemplo, para os clientes agora,
+[01:33:42:08 --> 01:33:44:11] não falando com vocês, mas para os clientes,
+[01:33:44:12 --> 01:33:46:11] dentro da minha proposta, eu faço uma ancoragem.
+[01:33:47:12 --> 01:33:50:09] Eu coloco um projeto mais completo possível e falo,
+[01:33:50:11 --> 01:33:52:21] olha, esse aqui é o mais completo.
+[01:33:53:12 --> 01:33:56:15] Só que aí eu mesmo depois falo, só que eu imagino que isso aqui seria
+[01:33:58:09 --> 01:34:04:17] como matar uma abelhinha, matar uma mosca, matar abelha não dá né, ninguém quer matar
+[01:34:04:17 --> 01:34:09:00] abelha, mas todo mundo quer matar uma mosca. Seria como matar uma mosca.
+[01:34:10:00 --> 01:34:14:06] tiro de canhão, ou seja, ele é muito exagerado para o que você precisa.
+[01:34:14:16 --> 01:34:18:02] Para isso eu fiz aqui uma outra proposta, sem ser essa completa que eu acredito que é o
+[01:34:18:02 --> 01:34:20:20] ajuste perfeito para o seu caso, personalizado.
+[01:34:21:15 --> 01:34:24:25] Então, às vezes eu tenho um projeto lá, eu quero cobrar 20 mil num projeto, eu mostro
+[01:34:24:25 --> 01:34:26:23] que seria um projeto de 30 mil, por exemplo.
+[01:34:27:28 --> 01:34:32:21] E aí tem que ser verdade, só ir lá e tacar 30 mil no projeto, eu faço esse exercício,
+[01:34:33:04 --> 01:34:35:08] se ele me pagasse 30 mil, o que eu ia fazer de diferente?
+[01:34:35:13 --> 01:34:36:09] Aí eu mostro...
+[01:34:37:04 --> 01:34:41:01] E depois eu falo isso, isso é uma coragem, é um viés também.
+[01:34:41:08 --> 01:34:45:16] Pode ser utilizado como argumento lógico, mas também tem que tomar cuidado para não
+[01:34:45:16 --> 01:34:49:27] cair quando isso na verdade te leva à falha de raciocínio.
+[01:34:50:07 --> 01:34:51:17] Viés da disponibilidade.
+[01:34:52:22 --> 01:34:57:17] A tendência é de julgar a probabilidade de eventos com base na facilidade com que exemplos
+[01:34:57:17 --> 01:34:58:05] venha à mente.
+[01:34:59:04 --> 01:34:59:21] Então...
+[01:35:00:20 --> 01:35:06:08] É você acreditar que uma coisa é verdadeira com base na sua memória, no que está disponível
+[01:35:06:08 --> 01:35:06:28] na sua cabeça.
+[01:35:07:22 --> 01:35:12:03] Então, se você lembra de um fato, aquele fato é verdade, que você lembra.
+[01:35:12:20 --> 01:35:16:06] Isso é viés da disponibilidade, porque os argumentos que você lembra são os que
+[01:35:16:06 --> 01:35:16:27] estão disponíveis ali.
+[01:35:16:28 --> 01:35:20:00] Você não foi a fundo, você não pesquisou o que você estava falando.
+[01:35:20:12 --> 01:35:22:27] E aí, por não fazer isso, o que acaba acontecendo?
+[01:35:23:19 --> 01:35:27:24] Você cai dentro desse viés e tem um raciocínio falho, tem que tomar esse cuidado também.
+[01:35:27:24 --> 01:35:32:12] Eu coloquei ali, por exemplo, acreditar que falhas de design ocorrem frequentemente porque
+[01:35:32:12 --> 01:35:37:18] você se lembra de alguns casos recentes, ignorando dados estatísticos que mostram o
+[01:35:37:18 --> 01:35:38:16] contrato.
+[01:35:38:25 --> 01:35:41:25] Então, a falha no design acontece o tempo inteiro.
+[01:35:42:11 --> 01:35:43:24] Ah, acontece o tempo inteiro mesmo?
+[01:35:44:15 --> 01:35:46:10] Onde que você viu que acontece o tempo inteiro?
+[01:35:46:29 --> 01:35:49:19] Lembra que eu falei no início da aula que ninguém quer que você assista essa
+[01:35:49:19 --> 01:35:50:10] aula aqui?
+[01:35:50:15 --> 01:35:54:22] Porque na sua cabeça vai virar pessoa chata, mas isso é muito importante.
+[01:35:54:27 --> 01:35:56:00] Você não precisa expressar, né?
+[01:35:56:00 --> 01:35:58:00] porque aí você vai ser chato mesmo, tudo que vai dizer...
+[01:35:58:19 --> 01:36:04:26] Você vai na sua cabeça e fica aqui o conselho, na sua cabeça questione, mas não verbaliza
+[01:36:04:26 --> 01:36:08:28] isso porque nem você chegou na conclusão ainda, então pra que ser o chatão, né?
+[01:36:09:04 --> 01:36:12:03] Sabe, todo mundo conhece o cara chatão, aquele cara que...
+[01:36:12:03 --> 01:36:15:12] Aí ó, generalizei, nem todo mundo conhece o cara chatão, tá vendo?
+[01:36:15:15 --> 01:36:20:11] Eu também erro, mas eu imagino que a maioria de vocês conheçam o cara chatão.
+[01:36:20:20 --> 01:36:23:17] Aquele cara diz, não, mas por causa disso, eu disse daquilo.
+[01:36:23:17 --> 01:36:27:03] Ah não, mas se você reparou o que você falou, isso tá errado.
+[01:36:27:15 --> 01:36:29:27] Cara, pensa um pouco mais aí, deixa...
+[01:36:29:27 --> 01:36:33:05] Às vezes a pessoa errou, mas é uma falha inocente também.
+[01:36:33:12 --> 01:36:36:04] Analisa o contexto antes de ser o cara chatão, tá?
+[01:36:36:04 --> 01:36:37:21] Isso é importante também.
+[01:36:38:19 --> 01:36:39:00] Impacto.
+[01:36:39:00 --> 01:36:42:27] Pode levar a uma percepção distorcida da realidade e decisões baseadas em informações
+[01:36:42:27 --> 01:36:44:21] limitadas, ou seja, confiar só no que você...
+[01:36:46:23 --> 01:36:53:10] São muitos, são muitos vieses, são muitas falácias e até para isso também, que eu
+[01:36:53:10 --> 01:36:56:18] vou mostrar alguns livros aqui para vocês que querem se aprofundar nisso.
+[01:36:56:22 --> 01:37:00:09] Eu gosto muito, é um assunto que eu gosto de estudar, gosto de me aprofundar e vocês
+[01:37:00:09 --> 01:37:01:03] podem fazer o mesmo.
+[01:37:01:14 --> 01:37:05:00] E não só podem comprar o livro se vocês quiserem, mas às vezes tem uma conversa
+[01:37:05:00 --> 01:37:09:25] com o Chate EPT sobre esses temas, colocando esses livros como pauta e ele vai te ajudar
+[01:37:09:25 --> 01:37:11:06] a entender a importância dos livros.
+[01:37:11:21 --> 01:37:16:10] Então, tem caminhos, aprendam a ser nexialistas e buscar informações de outras maneiras.
+[01:37:16:10 --> 01:37:20:26] que vai ser bem interessante. E aí, o primeiro livro que eu quero indicar para vocês é esse
+[01:37:20:26 --> 01:37:27:22] aqui, o Rápido e Devagar, do Daniel Kahneman. Rápido e devagar, duas formas de pensar.
+[01:37:27:25 --> 01:37:32:20] Lembrando que se você clicar aqui, você vai para Amazon Direto e você ajuda o Verlense.
+[01:37:32:28 --> 01:37:39:08] Não muda nada no preço para você e ajuda o Verlense com R$5. É pouco, mas é um
+[01:37:39:08 --> 01:37:43:27] valor que acaba entrando de maneira residual ali, então é bem legal. E para você
+[01:37:43:27 --> 01:37:48:07] não vai fazer diferença nenhuma. Mas tem esse aqui, então, rápido e devagar, do Daniel
+[01:37:48:07 --> 01:37:53:18] Kahneman. Esse livro aqui vocês vão aprender sobre vietes cognitivos, vocês vão aprender
+[01:37:55:02 --> 01:37:59:04] sobre heurísticas e vão aprender sobre os dois jeitos de pensar. Para dar uma
+[01:37:59:04 --> 01:38:01:08] introdução nisso para vocês, que eu acho muito legal...
+[01:38:02:05 --> 01:38:05:29] Basicamente, ele fala que no nosso cérebro tem dois sistemas, o sistema 1 e o sistema 2.
+[01:38:06:08 --> 01:38:09:23] O sistema 1 é emocional, intuitivo e rápido.
+[01:38:10:29 --> 01:38:13:25] Então, os dois sistemas são importantes, não dá para ficar só em um.
+[01:38:14:13 --> 01:38:18:11] Mas o sistema 1 é adequado para momentos em que você precisa tomar uma decisão rápida,
+[01:38:18:20 --> 01:38:22:10] que você precisa agir rápido, que você precisa contar com a sua intuição para
+[01:38:22:10 --> 01:38:26:27] chegar a uma conclusão naquele momento específico sem ter espaço para poder investigar mais.
+[01:38:27:10 --> 01:38:28:09] Por isso ele é importante.
+[01:38:28:09 --> 01:38:33:24] Foi o sistema 1 que nos manteve vivos, que manteve a humanidade viva por milhares de anos,
+[01:38:34:02 --> 01:38:37:20] porque é ele que permitia ter essa sensação de luta ou fuga.
+[01:38:37:26 --> 01:38:39:15] Eu vou lutar ou eu vou ficar pra lutar?
+[01:38:40:01 --> 01:38:41:03] Eu vou correr ou vou lutar?
+[01:38:41:14 --> 01:38:46:03] Ou então perceber rápido que o perigo está aproximando e fugir dali, sair daquele
+[01:38:46:03 --> 01:38:48:08] caso, perceber que algo não está certo rápido.
+[01:38:48:19 --> 01:38:50:25] Esse é o sistema 1, o sistema rápido.
+[01:38:51:04 --> 01:38:56:15] E tem o sistema 2, que ele é lento, analítico e mais profundo.
+[01:38:56:15 --> 01:39:05:06] Esse sistema é ideal para desenvolver a nossa razão. Ele é lento por natureza e ele gasta muito
+[01:39:05:06 --> 01:39:11:17] mais energia. Por isso que o nosso cérebro tende a evitar, tanto que no livro ele até fala. Por
+[01:39:11:17 --> 01:39:15:27] isso que existem os vieses. O nosso cérebro aprendeu a poupar energia. Tem até uma aula
+[01:39:15:27 --> 01:39:21:09] muito boa essa aula legal, tá lá em Fundamentos da Forma, que eu falo sobre a teoria da Gestalt.
+[01:39:21:09 --> 01:39:28:03] Muita gente acha que gestaltes são só, ah, gestaltes é proximidade, gestaltes é semelhança,
+[01:39:28:15 --> 01:39:32:10] gestaltes é simetria, isso aí são leis da gestaltes, mas isso nem é a parte mais
+[01:39:32:10 --> 01:39:33:02] legal da gestaltes.
+[01:39:33:04 --> 01:39:36:14] A parte mais legal da gestaltes é entender esse conceito da mente.
+[01:39:38:00 --> 01:39:44:06] todo, como que o todo acontece e como que a nossa mente busca atalhos, Gestalt é sobre
+[01:39:44:06 --> 01:39:50:02] vieses cognitivos visuais. As pessoas não sabem, mas é exatamente isso. E tem uma aula
+[01:39:50:02 --> 01:39:53:27] lá em fundamentos da forma, se você não assistir e tem a oportunidade, recomendo
+[01:39:53:27 --> 01:39:59:00] assistir que ela complementa aqui, um jeito bem prático pro lado visual. Falando
+[01:39:59:00 --> 01:40:06:11] da Gestalt, história, ver Timer, Kurt Kofka, Wolfgang Keller, eu falo dos criadores,
+[01:40:06:11 --> 01:40:08:20] explica o que ela é e o valor que ela tem.
+[01:40:08:26 --> 01:40:12:14] E acredito, o valor não está nessas leizinhas que você digita na internet e acha, não.
+[01:40:12:24 --> 01:40:15:07] O valor da gestalt está nas premissas da gestalt.
+[01:40:15:21 --> 01:40:19:07] São as quatro premissas principais, muito, muito poderosas.
+[01:40:19:26 --> 01:40:22:13] Mas então tem esse sistema dois.
+[01:40:22:26 --> 01:40:26:21] E esse sistema dois, ele gasta mais energia, gasta mais glicose.
+[01:40:27:00 --> 01:40:29:24] O sistema um vive a partir de vieses e heurísticas.
+[01:40:30:05 --> 01:40:35:02] O sistema dois precisa de lógica e raciocínio, mas os dois são importantes e a gente
+[01:40:35:02 --> 01:40:39:20] precisa saber trabalhar os dois. E esse livro do Daniel Kahneman é muito bom, porque ele
+[01:40:39:20 --> 01:40:42:12] nos ajuda a entender exatamente esse ponto.
+[01:40:43:22 --> 01:40:48:07] Esse livro é muito massa, olha só. Assombrado com as explicações pseudo-científicas e místicas
+[01:40:48:07 --> 01:40:53:19] que ocupam cada vez mais os espaços dos meios de comunicação, Carl Sagan reafirma o poder
+[01:40:53:19 --> 01:40:59:29] positivo e benéfico da ciência e da tecnologia para iluminar os dias de hoje e recuperar
+[01:40:59:29 --> 01:41:04:10] os valores da racionalidade. Ou seja, por que esse livro é legal e como ele ajudou
+[01:41:04:10 --> 01:41:10:12] na aula de hoje? No início da aula, eu falei para vocês sobre o ceticismo e sobre
+[01:41:10:12 --> 01:41:13:16] como que a ciência, muitas vezes, é vista como vilã.
+[01:41:13:22 --> 01:41:17:11] Como se a ciência fosse o demônio, né? A busca pelo conhecimento.
+[01:41:18:10 --> 01:41:22:16] A fé, muitas vezes, de maneira errada, nos ensinam que a fé é isso,
+[01:41:22:17 --> 01:41:25:14] é obedecer cegamente e não buscar a própria verdade.
+[01:41:25:17 --> 01:41:28:10] Mas a fé não é isso, a fé é buscar a própria verdade.
+[01:41:29:00 --> 01:41:32:29] E não necessariamente a própria verdade, mas buscar a verdade de maneira humilde.
+[01:41:34:16 --> 01:41:38:19] Interpretando os contextos, entendendo cada caso como um caso.
+[01:41:39:14 --> 01:41:44:22] Então, a ciência não é uma vilã, e a ciência é muito importante, e esse livro
+[01:41:44:22 --> 01:41:49:29] dele casa aqui perfeitamente também, é um excelente livro, fica de recomendação para
+[01:41:49:29 --> 01:41:50:13] vocês.
+[01:41:51:27 --> 01:42:00:08] Tem um outro livro, eu acho que dos quatro livros que eu vou falar aqui hoje, só o do
+[01:42:00:08 --> 01:42:02:13] rápido devagar que vão estar na lista.
+[01:42:04:00 --> 01:42:07:27] Tá bom, vou colocar os outros lá depois, aí fica para quem for assistir gravado.
+[01:42:08:23 --> 01:42:10:22] Mas um outro livro também muito bom...
+[01:42:12:09 --> 01:42:16:23] que eu usei de referência aqui, é um livro que se chama Pensamento Crítico.
+[01:42:18:15 --> 01:42:21:01] Qualquer um livro que faz mais sentido do que esse, cara.
+[01:42:21:20 --> 01:42:22:20] Não tô no lugar errado aqui.
+[01:42:23:06 --> 01:42:24:27] É um pensamento crítico.
+[01:42:25:12 --> 01:42:26:26] Aí é uma introdução.
+[01:42:28:16 --> 01:42:30:19] Para estuprasss, acho que é assim.
+[01:42:32:17 --> 01:42:34:03] Japonês...
+[01:42:35:17 --> 01:42:37:12] Não, não é esse aqui.
+[01:42:37:27 --> 01:42:39:13] É esse, eu acho que não vai ter em português.
+[01:42:41:18 --> 01:42:43:14] Mas eu achei até curioso aquele ali, ó.
+[01:42:43:25 --> 01:42:44:23] Fiquei curioso pra saber qual é.
+[01:42:44:26 --> 01:42:46:11] O poder da lógica e da argumentação.
+[01:42:47:13 --> 01:42:48:26] Eu não sei qual é esse aqui, não tá?
+[01:42:49:00 --> 01:42:49:16] Nenhum desses.
+[01:42:52:07 --> 01:42:53:11] Não sei nem um desses.
+[01:42:53:29 --> 01:42:57:11] Mas o que eu estou buscando não tem a...
+[01:42:59:02 --> 01:43:01:03] A versão dele em português, cá.
+[01:43:04:07 --> 01:43:05:22] E só a versão dele em inglês.
+[01:43:13:12 --> 01:43:15:01] Se eu colocar em inglês...
+[01:43:16:09 --> 01:43:17:06] que é o que a gente está falando.
+[01:43:19:08 --> 01:43:22:19] Olha, isso aqui eu fiquei curioso também. Eu gosto dessas indicações.
+[01:43:23:11 --> 01:43:26:05] Critical thinking for strategic intelligence.
+[01:43:27:11 --> 01:43:28:19] Agora olha o preço do...
+[01:43:28:19 --> 01:43:29:20] Caraca!
+[01:43:34:06 --> 01:43:35:21] Mas não é nenhum desses, não, tá?
+[01:43:36:04 --> 01:43:37:26] Esses aqui eu fiquei curioso, mas olha...
+[01:43:38:24 --> 01:43:40:06] Eu acho que eu me...
+[01:43:40:06 --> 01:43:41:14] Acho que eu... Não, isso tá mais...
+[01:43:43:06 --> 01:43:46:02] Eu acho que é o mesmo, só que essa é a versão antiga e essa é a nova.
+[01:43:47:10 --> 01:43:47:18] Cara...
+[01:43:49:22 --> 01:43:55:05] Mas o que eu quero falar não é esse daqui, não, o que eu usei de referência aqui é...
+[01:43:56:05 --> 01:43:57:24] Introdução dos estudantes
+[01:44:04:12 --> 01:44:04:29] Isso mesmo.
+[01:44:07:04 --> 01:44:09:29] Esse livro aqui foi uma indicação, inclusive, do chat GPT.
+[01:44:11:06 --> 01:44:17:09] E eu peguei alguns conceitos dele também, trouxe com o ChatGPT alguns conceitos.
+[01:44:17:20 --> 01:44:19:03] Não precisa comprar esse, tá?
+[01:44:19:09 --> 01:44:23:11] Já fica aqui de ideia para vocês, eu tô dando ele de referência bibliográfica para
+[01:44:23:11 --> 01:44:25:23] falar de onde veio algumas informações também, é importante.
+[01:44:27:27 --> 01:44:31:21] Mas é um livro interessante, os conceitos por trás dele é interessante porque são
+[01:44:31:21 --> 01:44:34:05] bem práticos e acabam ajudando.
+[01:44:35:16 --> 01:44:43:03] Então, os que eu li foram o do Carl Sagan e o do Daniel Kahneman, que é o Rápido e Devagar.
+[01:44:43:15 --> 01:44:45:07] Rápido e Devagar eu li muito, tem um fato pra isso.
+[01:44:47:21 --> 01:44:50:28] Eu falei também mais um, só não estou lembrando qual que era.
+[01:44:52:20 --> 01:44:54:10] Eu coloquei aqui na lista também.
+[01:44:56:10 --> 01:44:59:06] que é o arte de pensar claramente.
+[01:44:59:20 --> 01:45:01:15] Arte de pensar claramente.
+[01:45:03:20 --> 01:45:11:10] Esse livro é muito legal, é baratinho também, ele é mais prático e ele traz alguns conceitos
+[01:45:11:10 --> 01:45:12:11] que a gente falou aqui, né?
+[01:45:12:11 --> 01:45:16:03] Como evitar as armadilhas do pensamento e tomar decisões de forma mais eficaz.
+[01:45:16:18 --> 01:45:20:18] Esse é mais como um manualzinho, mas é um livro bem legal e eu recomendo para vocês.

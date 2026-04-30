@@ -1,0 +1,1672 @@
+1
+00:00:00,000 --> 00:00:03,640
+Vamos falar agora sobre ferramentas de geração de imagens.
+
+2
+00:00:03,660 --> 00:00:06,400
+E olha, prepara, porque agora eu vou te dar uma lista.
+
+3
+00:00:06,580 --> 00:00:08,640
+Só que antes de te entregar essa lista,
+
+4
+00:00:09,240 --> 00:00:11,520
+separada por categoria, tipos de ferramenta,
+
+5
+00:00:11,680 --> 00:00:14,000
+eu vou te dar uma caixa aqui de possibilidades.
+
+6
+00:00:14,700 --> 00:00:17,800
+Eu quero te ensinar a andar com as suas próprias pernas,
+
+7
+00:00:17,860 --> 00:00:20,500
+porque depois do que eu vou te dar aqui agora,
+
+8
+00:00:20,880 --> 00:00:23,800
+você mesmo vai conseguir acompanhar as IAs,
+
+9
+00:00:23,960 --> 00:00:25,380
+o quanto que elas estão evoluindo,
+
+10
+00:00:25,800 --> 00:00:28,300
+porque é bem provável que as ferramentas que eu vou te mostrar aqui
+
+11
+00:00:28,300 --> 00:00:30,560
+vão se tornar obsoletas rápido.
+
+12
+00:00:31,340 --> 00:00:33,780
+Eu já gravei curso de geração de imagem três vezes.
+
+13
+00:00:34,580 --> 00:00:36,400
+E sempre eu termino de gravar, eu falo assim,
+
+14
+00:00:36,440 --> 00:00:39,440
+cara, tem que gravar de novo, porque as ferramentas atualizaram.
+
+15
+00:00:39,800 --> 00:00:41,020
+Dessa vez eu estou fazendo diferente.
+
+16
+00:00:41,460 --> 00:00:42,840
+Eu estou te ensinando fundamentos.
+
+17
+00:00:42,860 --> 00:00:44,840
+Esses fundamentos que eu ensinei até agora não vão mudar.
+
+18
+00:00:45,000 --> 00:00:45,860
+E essa é a parte boa.
+
+19
+00:00:46,020 --> 00:00:46,900
+Eu vou continuar assim.
+
+20
+00:00:47,180 --> 00:00:50,460
+Mas não tem como eu fazer um curso de geração de imagens
+
+21
+00:00:50,460 --> 00:00:52,120
+sem te dar as ferramentas.
+
+22
+00:00:52,320 --> 00:00:54,740
+Então, primeiro, nessa aula aqui, eu quero te mostrar
+
+23
+00:00:54,740 --> 00:00:57,100
+como se atualizar, quais erros evitar,
+
+24
+00:00:57,100 --> 00:00:58,820
+evitar, como que você se mantém
+
+25
+00:00:58,820 --> 00:01:00,760
+atento às mudanças pra sempre usar
+
+26
+00:01:00,760 --> 00:01:02,240
+as ferramentas de ponta
+
+27
+00:01:02,240 --> 00:01:04,720
+pra que você ande com as suas próprias pernas depois
+
+28
+00:01:04,720 --> 00:01:06,800
+que essa aula aqui se tornar desatualizada,
+
+29
+00:01:06,980 --> 00:01:08,660
+depois que as ferramentas que eu te mostrar
+
+30
+00:01:08,660 --> 00:01:11,020
+estiverem obsoletas, ainda assim você vai conseguir
+
+31
+00:01:11,020 --> 00:01:12,720
+utilizar o conteúdo que está aqui
+
+32
+00:01:12,720 --> 00:01:14,720
+porque o que eu vou te mostrar agora
+
+33
+00:01:14,720 --> 00:01:16,740
+são técnicas pra se manter atualizado
+
+34
+00:01:16,740 --> 00:01:18,960
+em relação à ferramenta. A gente teve uma aula
+
+35
+00:01:18,960 --> 00:01:20,980
+que inclusive está disponível dentro da trilha
+
+36
+00:01:20,980 --> 00:01:23,020
+Next Gen, que eu ensino como dominar
+
+37
+00:01:23,020 --> 00:01:24,300
+qualquer ferramenta.
+
+38
+00:01:24,980 --> 00:01:26,420
+Qualquer uma. Rápido.
+
+39
+00:01:26,420 --> 00:01:28,460
+sozinho. E eu ensino como
+
+40
+00:01:28,460 --> 00:01:30,420
+fazer isso lá, meu método pra aprender ferramentas.
+
+41
+00:01:30,420 --> 00:01:31,580
+Foi assim que eu fiz desde 2021.
+
+42
+00:01:32,480 --> 00:01:34,280
+O jeito que eu aprendi a trabalhar com o IA
+
+43
+00:01:34,280 --> 00:01:36,480
+foi sozinho, vocês acreditam nisso? Principalmente geração
+
+44
+00:01:36,480 --> 00:01:37,520
+de imagem, geração de vídeo.
+
+45
+00:01:38,020 --> 00:01:40,440
+Eu fui pegando, fazendo, vendo outras pessoas ali
+
+46
+00:01:40,440 --> 00:01:42,380
+em fóruns também, pegando dicas
+
+47
+00:01:42,380 --> 00:01:43,840
+ali, né? Não posso falar que eu
+
+48
+00:01:44,340 --> 00:01:46,240
+aprendi tudo sozinho nesse sentido, foi com
+
+49
+00:01:46,240 --> 00:01:48,440
+muitas conversas, mas eu criei minha própria metodologia
+
+50
+00:01:48,440 --> 00:01:50,460
+com muito teste. E as ferramentas
+
+51
+00:01:50,460 --> 00:01:52,460
+eu dominei sozinho, eu não comprei curso pra aprender ferramenta,
+
+52
+00:01:52,560 --> 00:01:53,980
+eu comprei curso pra aprender fundamento,
+
+53
+00:01:53,980 --> 00:01:55,760
+que é o mesmo que vocês estão assistindo aqui agora.
+
+54
+00:01:57,200 --> 00:01:59,600
+Então, leve isso em consideração e vamos lá.
+
+55
+00:02:00,140 --> 00:02:01,580
+Já estou aqui com o nosso roteirinho,
+
+56
+00:02:01,620 --> 00:02:03,700
+que lembrando, ele fica sempre embaixo aqui da aula para você,
+
+57
+00:02:03,740 --> 00:02:05,460
+é só clicar, acessar, fica tudo show.
+
+58
+00:02:06,320 --> 00:02:08,060
+Lógica, um fundamento científico.
+
+59
+00:02:08,060 --> 00:02:09,740
+Existem três mecanismos centrais
+
+60
+00:02:09,740 --> 00:02:11,940
+quando a gente fala de acompanhar as melhores ferramentas.
+
+61
+00:02:11,960 --> 00:02:13,200
+Primeiro, atenção seletiva.
+
+62
+00:02:13,400 --> 00:02:16,100
+Você é um ser humano e não consegue saber de tudo o tempo inteiro.
+
+63
+00:02:16,180 --> 00:02:16,500
+Ponto.
+
+64
+00:02:16,520 --> 00:02:17,780
+É isso que vai falar aqui para você.
+
+65
+00:02:18,220 --> 00:02:20,900
+Vai falar aqui para você que não adianta
+
+66
+00:02:20,900 --> 00:02:22,620
+tentar testar todas as ferramentas.
+
+67
+00:02:22,640 --> 00:02:23,260
+Não adianta.
+
+68
+00:02:23,260 --> 00:02:25,340
+Vai gerar um fome desgraçado em você.
+
+69
+00:02:25,340 --> 00:02:30,020
+Desculpa a palavra aí, mas você vai ficar o tempo todo sentindo que você está desatualizado.
+
+70
+00:02:30,120 --> 00:02:33,920
+Você vai ficar o tempo todo sentindo, nossa, surgiu a nova ferramenta, surgiu a nova ferramenta.
+
+71
+00:02:34,120 --> 00:02:35,560
+Toda semana tem uma coisa nova.
+
+72
+00:02:35,720 --> 00:02:37,460
+E claro, você tem que testar.
+
+73
+00:02:37,520 --> 00:02:38,740
+A ideia é que você teste mesmo.
+
+74
+00:02:38,960 --> 00:02:44,660
+Mas, meu amigo e minha amiga, é impossível, impossível testar todas.
+
+75
+00:02:45,500 --> 00:02:47,480
+Então já tem um segredinho aqui.
+
+76
+00:02:47,700 --> 00:02:48,800
+Vá nas melhores.
+
+77
+00:02:49,760 --> 00:02:51,340
+E vem um segundo segredinho aqui.
+
+78
+00:02:51,720 --> 00:02:53,440
+Geralmente as melhores são pagas.
+
+79
+00:02:55,260 --> 00:02:56,560
+Já vem alguns insights, tá?
+
+80
+00:02:56,640 --> 00:02:59,540
+Mas tem muitas gratuitas boas também que vão evoluindo,
+
+81
+00:02:59,620 --> 00:03:01,560
+mas elas vão ter mais dificuldades,
+
+82
+00:03:01,560 --> 00:03:03,620
+elas vão falhar em algumas coisas e por aí vai.
+
+83
+00:03:04,080 --> 00:03:05,240
+Então esse é o primeiro ponto.
+
+84
+00:03:05,620 --> 00:03:08,840
+Atenção seletiva, o cérebro humano não absorve volume infinito,
+
+85
+00:03:08,840 --> 00:03:10,240
+ele prioriza padrões relevantes.
+
+86
+00:03:10,240 --> 00:03:12,640
+Por isso, tentar acompanhar tudo cria ruído.
+
+87
+00:03:13,140 --> 00:03:15,380
+A solução científica é filtrar.
+
+88
+00:03:16,020 --> 00:03:19,000
+Impacto provável, estabilidade técnica, capacidade de integração.
+
+89
+00:03:19,180 --> 00:03:20,060
+Sabe o que é mais legal?
+
+90
+00:03:20,300 --> 00:03:24,000
+Você pode pegar isso aqui, jogar num chat GPT, num cloud, num Gemini,
+
+91
+00:03:24,000 --> 00:03:26,440
+num overchat, joga onde você
+
+92
+00:03:26,440 --> 00:03:28,500
+quiser e fala pra ela o seguinte
+
+93
+00:03:29,916 --> 00:03:33,116
+Baseado nisso, vou deixar desse jeito.
+
+94
+00:03:34,940 --> 00:03:36,360
+Baseado nesses critérios...
+
+95
+00:03:37,596 --> 00:03:43,816
+Pesquise as melhores ferramentas de geração de imagem do momento.
+
+96
+00:03:44,236 --> 00:03:45,556
+Pronto, tu ficou atualizado.
+
+97
+00:03:45,776 --> 00:03:51,076
+Pega as LLMs de topo, manda ela vim cá numa pesquisa aprofundada pra você, pra te ajudar.
+
+98
+00:03:51,556 --> 00:03:54,516
+Coloque esses critérios aqui pra ela e manda ela te entregar.
+
+99
+00:03:54,636 --> 00:03:59,016
+No final dessa aula a gente vai abrir isso aqui e você vai ver quais são as ferramentas,
+
+100
+00:04:00,696 --> 00:04:02,996
+as melhores ferramentas de geração de...
+
+101
+00:04:04,444 --> 00:04:06,224
+de imagens do momento, tá bom?
+
+102
+00:04:06,264 --> 00:04:07,624
+Então deixa ele iniciar aqui pra gente,
+
+103
+00:04:07,744 --> 00:04:10,184
+daqui a pouco a gente volta aqui com as principais.
+
+104
+00:04:10,404 --> 00:04:12,304
+Segundo, monitoramento sistemático,
+
+105
+00:04:12,364 --> 00:04:14,424
+novidade sem contexto vira distração,
+
+106
+00:04:14,604 --> 00:04:15,904
+que é o que acontece com a maioria das pessoas,
+
+107
+00:04:16,084 --> 00:04:18,844
+o mecanismo correto é criar pontos fixos de observação,
+
+108
+00:04:19,024 --> 00:04:20,424
+newsletter, inclusive,
+
+109
+00:04:20,884 --> 00:04:22,364
+ah, não vou conseguir mostrar aqui pra vocês,
+
+110
+00:04:22,604 --> 00:04:24,384
+mas na vanguarda a gente terminou de criar
+
+111
+00:04:24,384 --> 00:04:26,724
+o arquivo de sinais, que é um agente
+
+112
+00:04:26,724 --> 00:04:29,204
+que ele pesquisa as principais notícias
+
+113
+00:04:29,204 --> 00:04:30,744
+nas nossas três categorias favoritas,
+
+114
+00:04:30,824 --> 00:04:32,304
+que é tecnologia, negócio e criação,
+
+115
+00:04:32,304 --> 00:04:35,104
+e ele cruza isso pro nosso público de criadores
+
+116
+00:04:35,104 --> 00:04:36,964
+e traz as notícias mais relevantes
+
+117
+00:04:36,964 --> 00:04:39,164
+pro nosso público, toda semana são 10 notícias
+
+118
+00:04:39,164 --> 00:04:41,084
+diferentes, eu vou abrir esse projeto
+
+119
+00:04:41,084 --> 00:04:43,084
+essa semana pra galera da vanguarda
+
+120
+00:04:43,084 --> 00:04:45,224
+amanhã a gente tem um checkpoint, sexta-feira
+
+121
+00:04:45,224 --> 00:04:46,304
+a gente tem workshop
+
+122
+00:04:46,304 --> 00:04:48,824
+eu vou abrir pra eles esse
+
+123
+00:04:48,824 --> 00:04:50,904
+e outros softwares que a gente tá criando também
+
+124
+00:04:50,904 --> 00:04:52,884
+mas já tá super funcionando lá
+
+125
+00:04:52,884 --> 00:04:55,064
+conectado com algumas IAs
+
+126
+00:04:55,064 --> 00:04:57,004
+ele também tá conectado em
+
+127
+00:04:57,004 --> 00:04:58,984
+RSS, então ele já puxa direto
+
+128
+00:04:58,984 --> 00:05:00,884
+das fontes de notícia que a gente mais gosta
+
+129
+00:05:00,884 --> 00:05:03,024
+tem MIT, tem também DeepMind,
+
+130
+00:05:03,624 --> 00:05:04,864
+não vou lembrar todas de Coq
+
+131
+00:05:04,864 --> 00:05:06,644
+não, mas são 20 fontes ali
+
+132
+00:05:06,644 --> 00:05:08,344
+confiáveis que eu gosto muito de acompanhar,
+
+133
+00:05:08,384 --> 00:05:10,744
+e ele já filtra pra mim, traz as notícias da semana
+
+134
+00:05:10,744 --> 00:05:12,784
+e tá, cara, tá muito massa. Eu conseguiria
+
+135
+00:05:12,784 --> 00:05:14,884
+colocar ele até em tempo real pra ficar trazendo pra mim
+
+136
+00:05:14,884 --> 00:05:16,624
+em tweets. Eu tô pensando em fazer
+
+137
+00:05:16,624 --> 00:05:18,424
+alguma coisa assim também, vai ser interessante.
+
+138
+00:05:19,184 --> 00:05:20,704
+Criar um gerador de tweets ali
+
+139
+00:05:22,044 --> 00:05:22,664
+relevantes pro nosso
+
+140
+00:05:22,664 --> 00:05:24,504
+público. Mas muito bom, né?
+
+141
+00:05:24,824 --> 00:05:26,964
+Então, newsletter, fóruns técnicos,
+
+142
+00:05:27,104 --> 00:05:28,604
+criadores que documentam
+
+143
+00:05:28,604 --> 00:05:30,044
+testes, não apenas mostram resultados,
+
+144
+00:05:30,644 --> 00:05:32,584
+Cases que revelam uso real, não estética.
+
+145
+00:05:32,984 --> 00:05:34,364
+Isso aqui também é muito interessante.
+
+146
+00:05:34,424 --> 00:05:38,104
+Você pode pedir para a IA pesquisar em repositórios, em comunidades, Reddit.
+
+147
+00:05:38,264 --> 00:05:40,684
+Ela vai trazer o que a galera tem mais usado no mundo inteiro.
+
+148
+00:05:40,904 --> 00:05:46,764
+É uma técnica que eu uso já desde, cara, eu acho que desde 2022 também, 2022, 2023.
+
+149
+00:05:47,064 --> 00:05:50,624
+Assim que o GPT permitiu navegar na internet, eu uso isso.
+
+150
+00:05:50,664 --> 00:05:51,444
+Desde que ele permitiu.
+
+151
+00:05:52,104 --> 00:05:53,284
+Então já tem um tempinho aí.
+
+152
+00:05:54,284 --> 00:05:54,944
+Iteração experimental.
+
+153
+00:05:55,224 --> 00:05:56,924
+Esse aqui também é um que a galera peca muito.
+
+154
+00:05:56,964 --> 00:05:57,244
+Que é o quê?
+
+155
+00:05:57,244 --> 00:05:59,264
+Porque você viu um vídeo lá no seu Instagram,
+
+156
+00:05:59,384 --> 00:06:01,344
+tava rolando feed, viu alguém fazendo uma coisa incrível.
+
+157
+00:06:01,344 --> 00:06:02,984
+Você fala, nossa, que foda, e salva.
+
+158
+00:06:03,404 --> 00:06:04,644
+Pronto, morreu. Nunca mais você viu.
+
+159
+00:06:06,244 --> 00:06:08,684
+Então é muito importante, cara, que você teste.
+
+160
+00:06:09,064 --> 00:06:10,084
+Viu a ferramenta? Vai lá.
+
+161
+00:06:10,224 --> 00:06:11,984
+Não, eu vou separar 10 minutos.
+
+162
+00:06:12,344 --> 00:06:16,064
+Se em 10 minutos eu conseguir encontrar alguma coisa valiosa aqui, foi bom.
+
+163
+00:06:16,164 --> 00:06:17,064
+Se não, eu guardo.
+
+164
+00:06:18,204 --> 00:06:20,784
+É isso que eu faço, eu gosto, eu só crio a conta e clico, cara.
+
+165
+00:06:20,864 --> 00:06:24,164
+Sério, não tem dificuldade, é a primeira vez, você está só experimentando a parada.
+
+166
+00:06:24,804 --> 00:06:26,864
+Cria a conta, clica, testa, maravilhoso.
+
+167
+00:06:26,864 --> 00:06:28,064
+Deu bom? Maravilha.
+
+168
+00:06:28,064 --> 00:06:30,144
+Não deu? Joga fora a ferramenta, tá bom?
+
+169
+00:06:31,064 --> 00:06:33,364
+Demonstração, prática real, exemplo, sem critério.
+
+170
+00:06:33,384 --> 00:06:37,904
+A pessoa segue 50 contas no Instagram, guarda 30 links por dia, lê dezenas de threads.
+
+171
+00:06:39,388 --> 00:06:41,568
+Freds, né? Dezenas de Freds.
+
+172
+00:06:41,988 --> 00:06:43,048
+Mas não testa nada.
+
+173
+00:06:43,288 --> 00:06:44,968
+Resultado, ansiedade informacional,
+
+174
+00:06:45,788 --> 00:06:46,988
+muitos devem estar sentindo isso aí, né?
+
+175
+00:06:47,168 --> 00:06:49,348
+Zero domínio técnico, dependência de opinião
+
+176
+00:06:49,348 --> 00:06:51,228
+alheia. Exemplo 2 com critério.
+
+177
+00:06:51,228 --> 00:06:53,028
+Critérios definidos, estabilidade do modelo,
+
+178
+00:06:53,228 --> 00:06:55,208
+controle sobre parâmetros, integração com
+
+179
+00:06:55,208 --> 00:06:57,288
+pipeline, documentação confiável. Ou seja,
+
+180
+00:06:57,428 --> 00:06:59,308
+aqui eu estou colocando os meus critérios
+
+181
+00:06:59,308 --> 00:07:01,428
+para encontrar as ferramentas. Rotina semanal,
+
+182
+00:07:01,428 --> 00:07:03,148
+ler três fontes, três,
+
+183
+00:07:03,148 --> 00:07:05,148
+treizinha, ou cria uma IA que faz isso
+
+184
+00:07:05,148 --> 00:07:07,288
+para vocês. Testar um update
+
+185
+00:07:07,288 --> 00:07:08,968
+relevante, documentar insights
+
+186
+00:07:08,968 --> 00:07:09,768
+sites em 10 linhas.
+
+187
+00:07:13,500 --> 00:07:15,140
+Testa é muito importante, tá?
+
+188
+00:07:15,700 --> 00:07:18,920
+Resultado, visão consistente, capacidade de prever movimentos, autonomia decisória.
+
+189
+00:07:19,000 --> 00:07:19,580
+Antes e depois.
+
+190
+00:07:19,760 --> 00:07:21,260
+Antes, você reage às novidades.
+
+191
+00:07:21,260 --> 00:07:23,380
+Depois, você lê o cenário como se fosse um mapa,
+
+192
+00:07:23,480 --> 00:07:25,880
+identificando inflexões antes de se tornarem óbvias.
+
+193
+00:07:25,940 --> 00:07:28,920
+Parece uma mudança sutil, mas isso faz toda a diferença, tá?
+
+194
+00:07:29,180 --> 00:07:30,220
+Faz toda a diferença.
+
+195
+00:07:31,180 --> 00:07:32,760
+Pensem, isso são heurísticas,
+
+196
+00:07:32,780 --> 00:07:36,720
+são atalhos que você pode construir conscientemente no seu cérebro, né?
+
+197
+00:07:36,740 --> 00:07:40,580
+Então não é heurística, mas são atalhos que você constrói no seu cérebro.
+
+198
+00:07:41,724 --> 00:07:43,024
+Poderia ser chamado de heurística.
+
+199
+00:07:43,264 --> 00:07:46,204
+Vieses, que já é um pouco mais inconsciente, talvez, né?
+
+200
+00:07:46,524 --> 00:07:50,224
+Mas você pode criar esses atalhos pro seu cérebro pra tomar decisão.
+
+201
+00:07:50,244 --> 00:07:50,944
+Eu tenho vários desses.
+
+202
+00:07:51,144 --> 00:07:52,844
+Então, um desses que eu tenho é o seguinte.
+
+203
+00:07:53,464 --> 00:07:54,584
+Quais são as maiores do mundo?
+
+204
+00:07:55,344 --> 00:07:57,964
+Não dá pra ver todas, eu já vou ver as melhores e as maiores do mundo.
+
+205
+00:07:58,604 --> 00:07:59,864
+Já facilita pra caramba, né?
+
+206
+00:08:00,084 --> 00:08:00,944
+É um critério.
+
+207
+00:08:02,876 --> 00:08:04,356
+Ah, Juan, você não usa as gratuitas igual.
+
+208
+00:08:04,436 --> 00:08:06,396
+Por que eu particularmente não uso as gratuitas?
+
+209
+00:08:06,396 --> 00:08:09,376
+Eu já entendi que IA é tipo pagar água e luz.
+
+210
+00:08:09,976 --> 00:08:10,636
+E internet.
+
+211
+00:08:11,256 --> 00:08:12,336
+Agora você paga IA também.
+
+212
+00:08:12,816 --> 00:08:16,336
+Pra vocês terem noção, só do Cloud eu pago R$1.100 por mês,
+
+213
+00:08:16,436 --> 00:08:17,456
+só a minha conta.
+
+214
+00:08:18,196 --> 00:08:21,056
+Mas R$100 por mês de cada pessoa da equipe.
+
+215
+00:08:21,136 --> 00:08:22,096
+Então dá mais R$1.000, né?
+
+216
+00:08:22,736 --> 00:08:24,476
+Só de Cloud, R$2.000 por mês.
+
+217
+00:08:24,796 --> 00:08:26,896
+E a gente tá aumentando de algumas pessoas ainda.
+
+218
+00:08:28,220 --> 00:08:30,160
+só de cloud. Se a gente
+
+219
+00:08:30,160 --> 00:08:32,120
+pega ferramentas
+
+220
+00:08:32,120 --> 00:08:33,500
+de IA também que a gente assina,
+
+221
+00:08:33,520 --> 00:08:36,060
+deve estar uns 10 mil de gasto
+
+222
+00:08:36,060 --> 00:08:37,920
+por mês aí na base, assim,
+
+223
+00:08:38,020 --> 00:08:40,220
+ou próximo disso. Porque a gente
+
+224
+00:08:40,220 --> 00:08:42,120
+faz muito teste, porque a gente utiliza muito eles
+
+225
+00:08:42,120 --> 00:08:43,960
+e por aí vai, né? Aqui é um laboratório. Você precisa
+
+226
+00:08:43,960 --> 00:08:44,820
+gastar isso tudo? Não.
+
+227
+00:08:45,884 --> 00:08:47,884
+escolhe uma boa, por exemplo, se você falar
+
+228
+00:08:47,884 --> 00:08:49,764
+qual que você acha melhor pra gerar imagem
+
+229
+00:08:49,764 --> 00:08:51,764
+se eu tiver que escolher uma? Escolhe o Gemini
+
+230
+00:08:51,764 --> 00:08:53,984
+que ele já te entrega o texto bom e vem com
+
+231
+00:08:53,984 --> 00:08:55,904
+nanobanana, pronto, você tem imagem, texto
+
+232
+00:08:55,904 --> 00:08:58,204
+vídeo, música, num só
+
+233
+00:08:58,204 --> 00:08:59,904
+custo-benefício bom e é
+
+234
+00:08:59,904 --> 00:09:01,584
+está entre os melhores do mundo
+
+235
+00:09:01,584 --> 00:09:03,984
+então é custo-benefício legal, acompanha o Google
+
+236
+00:09:03,984 --> 00:09:05,824
+outra heurística que eu uso é a seguinte
+
+237
+00:09:05,824 --> 00:09:07,284
+o Google é um monopólio
+
+238
+00:09:08,564 --> 00:09:09,964
+praticamente imbatível no mundo
+
+239
+00:09:09,964 --> 00:09:11,664
+hoje, eles têm
+
+240
+00:09:11,664 --> 00:09:11,884
+Fim.
+
+241
+00:09:13,116 --> 00:09:15,236
+parcela das mentes mais brilhantes
+
+242
+00:09:15,236 --> 00:09:17,076
+do mundo lá hoje. Eles
+
+243
+00:09:17,076 --> 00:09:19,276
+queimaram a largada na IA generativa,
+
+244
+00:09:19,816 --> 00:09:21,156
+mas eles se recuperaram, e
+
+245
+00:09:21,156 --> 00:09:23,176
+hoje, em muitas das IAs, eles são os
+
+246
+00:09:23,176 --> 00:09:25,216
+melhores. IA de imagem, bate lá
+
+247
+00:09:25,216 --> 00:09:26,976
+com a ByteDance, né, do TikTok,
+
+248
+00:09:27,276 --> 00:09:28,796
+mas ela tá entre as melhores.
+
+249
+00:09:29,856 --> 00:09:30,996
+Então eu já vou nos melhores,
+
+250
+00:09:31,116 --> 00:09:33,036
+cara, facilita muito minha vida. E
+
+251
+00:09:33,036 --> 00:09:34,676
+eu prefiro gastar dinheiro e ganhar tempo.
+
+252
+00:09:34,836 --> 00:09:37,276
+Pra mim, tempo é um recurso que é muito mais caro que dinheiro.
+
+253
+00:09:37,556 --> 00:09:38,936
+E eu uso isso pra fazer mais dinheiro.
+
+254
+00:09:39,156 --> 00:09:41,596
+Então, na hora de pesquisar as principais ferramentas,
+
+255
+00:09:41,596 --> 00:09:43,276
+já vai nas melhores, cara. Você já vai
+
+256
+00:09:43,276 --> 00:09:44,996
+poupar muito tempo o seu aí, tá?
+
+257
+00:09:45,256 --> 00:09:46,956
+Quais são os pontos cegos? Primeiro,
+
+258
+00:09:46,976 --> 00:09:49,396
+o que a maioria não enxerga? Achar que acompanhar
+
+259
+00:09:49,396 --> 00:09:51,476
+é acumular informação, e não
+
+260
+00:09:51,476 --> 00:09:53,256
+é. Acumular informação só
+
+261
+00:09:53,256 --> 00:09:55,476
+atrapalha, você tem que ter, separar
+
+262
+00:09:55,476 --> 00:09:57,096
+ruído de sinal.
+
+263
+00:09:57,416 --> 00:09:58,016
+É isso.
+
+264
+00:09:59,548 --> 00:10:02,068
+Se mantém atualizado do jeito certo, separa ruído de sinal.
+
+265
+00:10:03,484 --> 00:10:05,364
+Sempre que eu dou curso, a galera fica falando assim comigo.
+
+266
+00:10:05,664 --> 00:10:06,884
+Juan, o que você acha dessa ferramenta aqui?
+
+267
+00:10:07,004 --> 00:10:08,124
+Juan, o que você acha dessa ferramenta aqui?
+
+268
+00:10:08,204 --> 00:10:09,324
+E essa daqui? E essa daqui?
+
+269
+00:10:09,484 --> 00:10:11,184
+Aí eu vou lá e vejo. A ferramenta usa o Gemini.
+
+270
+00:10:11,424 --> 00:10:12,544
+Então eu vou direto para o Gemini.
+
+271
+00:10:12,544 --> 00:10:13,684
+Para que eu vou assinar outra ferramenta?
+
+272
+00:10:14,104 --> 00:10:14,964
+Assino direto no Gemini.
+
+273
+00:10:15,144 --> 00:10:16,704
+Ah, mas vem o Gemini, o Cloud, o Gemini.
+
+274
+00:10:16,744 --> 00:10:18,324
+Você precisa de todas ou você precisa de uma?
+
+275
+00:10:19,900 --> 00:10:21,740
+Tá entendendo? As pessoas estão perdidas
+
+276
+00:10:21,740 --> 00:10:23,460
+num tanto de ruído da internet,
+
+277
+00:10:23,760 --> 00:10:25,720
+achando que precisam de todas e as num lugar
+
+278
+00:10:25,720 --> 00:10:27,640
+só. Cara, e a virou commodity
+
+279
+00:10:27,640 --> 00:10:29,660
+já, sabe? Sinceramente, pra maior
+
+280
+00:10:29,660 --> 00:10:31,640
+parte das coisas que você faz hoje, porque você não tá
+
+281
+00:10:31,640 --> 00:10:33,680
+no nível avançado. Se você estivesse no nível avançado, eu ia te falar.
+
+282
+00:10:33,880 --> 00:10:35,840
+Vai de Cloud Code
+
+283
+00:10:35,840 --> 00:10:37,820
+ou de EPT Codex
+
+284
+00:10:37,820 --> 00:10:38,880
+ou Gemini
+
+285
+00:10:39,460 --> 00:10:41,040
+3.1. Vai nesses.
+
+286
+00:10:41,380 --> 00:10:43,160
+Um desses três já resolve pra você.
+
+287
+00:10:43,320 --> 00:10:45,660
+Ou tem gente que assina os três pra fazer
+
+288
+00:10:45,660 --> 00:10:47,740
+teste. Beleza, funciona. Não precisa de mais.
+
+289
+00:10:48,600 --> 00:10:49,720
+Agora, sinceramente, se você
+
+290
+00:10:49,720 --> 00:10:51,160
+Você não tá num nível de desenvolver assim?
+
+291
+00:10:51,520 --> 00:10:53,100
+Se você gera imagem, faz isso, cara,
+
+292
+00:10:53,560 --> 00:10:55,220
+eu vou te mostrar, assina um free peak, acabou.
+
+293
+00:10:55,520 --> 00:10:57,680
+Tem tudo lá que você precisa. Ou assina
+
+294
+00:10:57,680 --> 00:10:59,400
+um cloud só. Ou,
+
+295
+00:10:59,460 --> 00:11:01,740
+no caso, eu prefiro que você assine o Gemini se você tá
+
+296
+00:11:01,740 --> 00:11:03,520
+começando, porque aí já vem com imagem, vídeo,
+
+297
+00:11:03,640 --> 00:11:05,760
+música e tudo pra você. Pegou a
+
+298
+00:11:05,760 --> 00:11:07,880
+ideia? Leve isso em consideração.
+
+299
+00:11:08,400 --> 00:11:10,060
+Confundir velocidade com profundidade,
+
+300
+00:11:10,540 --> 00:11:11,640
+ser rápido, não
+
+301
+00:11:11,640 --> 00:11:13,760
+faz você vencer se você não tá indo rápido
+
+302
+00:11:13,760 --> 00:11:14,780
+pra direção certa.
+
+303
+00:11:17,128 --> 00:11:18,428
+superestimar tutoriais e subestimar
+
+304
+00:11:18,428 --> 00:11:20,708
+documentação e benchmark. Cara, isso aqui é bizarro.
+
+305
+00:11:20,748 --> 00:11:22,568
+Vocês vão passar por isso aqui e nem vão ver valor nisso aqui.
+
+306
+00:11:24,156 --> 00:11:26,076
+Eu não compro curso mais há muito tempo.
+
+307
+00:11:26,416 --> 00:11:27,416
+Olha que loucura.
+
+308
+00:11:27,976 --> 00:11:30,716
+E eu estou entregando curso de graça aqui para vocês.
+
+309
+00:11:30,836 --> 00:11:34,316
+Isso prova que cada vez menos eu vejo menos valor em curso.
+
+310
+00:11:35,964 --> 00:11:37,204
+Mas como assim, Rossi? Tem uma escola...
+
+311
+00:11:37,744 --> 00:11:39,764
+É porque a gente está entregando em outros formatos, bootcamp,
+
+312
+00:11:39,964 --> 00:11:41,724
+mentoria, ao vivo, igual aqui hoje.
+
+313
+00:11:41,884 --> 00:11:43,984
+Isso aqui eu vejo valor. Porque eu tenho a chance
+
+314
+00:11:43,984 --> 00:11:45,804
+de ir direcionando com vocês, vocês vão ouvindo, mas
+
+315
+00:11:46,424 --> 00:11:48,044
+eu, particularmente, eu tenho aprendido mais como?
+
+316
+00:11:48,824 --> 00:11:49,544
+Lendo. Muito.
+
+317
+00:11:50,204 --> 00:11:51,824
+Nem todo mundo gosta de aprender assim,
+
+318
+00:11:51,884 --> 00:11:53,704
+é do jeito de cada um. Eu gosto. Então,
+
+319
+00:11:53,744 --> 00:11:55,524
+eu leio muita documentação, eu leio muito benchmark.
+
+320
+00:11:55,844 --> 00:11:58,164
+E eu não vejo tutorial. Eu vou lá e testo do meu jeito.
+
+321
+00:11:59,772 --> 00:12:02,332
+O tutorial é bom quando você está começando ali para tirar suas travas,
+
+322
+00:12:02,372 --> 00:12:05,932
+mas se você quer ir para o avançado, você precisa pensar fundamento.
+
+323
+00:12:05,932 --> 00:12:07,272
+Por isso que eu estou te ensinando fundamento aqui.
+
+324
+00:12:07,732 --> 00:12:10,732
+Acreditar que a melhor ferramenta é a mais nova, nem sempre também.
+
+325
+00:12:10,892 --> 00:12:12,712
+Tem muita ferramenta nova sendo lançada aí.
+
+326
+00:12:12,732 --> 00:12:15,732
+Eu sempre gosto de dar um choque de realidade aqui no Hugging Face,
+
+327
+00:12:16,392 --> 00:12:20,072
+porque o Hugging Face é uma comunidade que também tem uma biblioteca aqui
+
+328
+00:12:20,072 --> 00:12:21,172
+com os principais modelos de ar.
+
+329
+00:12:21,392 --> 00:12:28,712
+Se eu venho aqui, olha, tem 2.685.631 modelos de ar catalogados aqui no Hugging Face.
+
+330
+00:12:28,712 --> 00:12:36,552
+Se eu venho aqui só em Text-to-Image, nós temos 92 mil modelos de texto para imagem.
+
+331
+00:12:37,872 --> 00:12:38,672
+92 mil.
+
+332
+00:12:38,892 --> 00:12:40,772
+Você vai viver uma vida e não vai descobrir isso aqui.
+
+333
+00:12:40,872 --> 00:12:43,132
+E quando você descobrir, vai ter mais 300 mil para você avaliar.
+
+334
+00:12:43,212 --> 00:12:48,852
+Então, não compensa tentar achar qual que é, e essa daqui, e essa daqui, e essa daqui, e essa daqui.
+
+335
+00:12:48,972 --> 00:12:52,612
+Quem está em um nível muito hardcore, acompanha de um jeito diferente.
+
+336
+00:12:52,992 --> 00:12:54,392
+Acompanha os spotlights.
+
+337
+00:12:55,452 --> 00:12:56,712
+Acompanha as zebras.
+
+338
+00:12:57,172 --> 00:12:58,532
+Aquelas que do nada
+
+339
+00:12:58,532 --> 00:13:00,372
+chegam e quebram um paradigma.
+
+340
+00:13:00,492 --> 00:13:02,512
+Isso eu gosto de acompanhar também. Mas eu não
+
+341
+00:13:02,512 --> 00:13:04,572
+fico instalando todas e testando
+
+342
+00:13:04,572 --> 00:13:06,412
+todas. Eu peço pra IA filtrar pra mim
+
+343
+00:13:06,412 --> 00:13:08,772
+com base nos meus critérios. E é o que eu recomendo pra vocês.
+
+344
+00:13:09,332 --> 00:13:10,532
+Ignorar que acompanhar
+
+345
+00:13:10,532 --> 00:13:11,412
+é ato de
+
+346
+00:13:12,552 --> 00:13:14,812
+autoria. Quando você acompanha,
+
+347
+00:13:14,812 --> 00:13:16,812
+você faz parte do processo e da curadoria
+
+348
+00:13:16,812 --> 00:13:18,612
+das coisas que você decide criar ou não.
+
+349
+00:13:18,712 --> 00:13:20,612
+Essa é a lógica aqui. Então,
+
+350
+00:13:21,412 --> 00:13:22,792
+eu escolho quais notícias
+
+351
+00:13:22,792 --> 00:13:24,712
+são relevantes pra mim. Você escolhe as que
+
+352
+00:13:24,712 --> 00:13:26,772
+que são relevantes pra você. Saber o que
+
+353
+00:13:26,772 --> 00:13:28,612
+é importante e o que não é, sinal e ruído,
+
+354
+00:13:28,712 --> 00:13:30,332
+saber o que é importante e o que não é,
+
+355
+00:13:30,372 --> 00:13:32,212
+é o que vai diferenciar alguém que
+
+356
+00:13:32,212 --> 00:13:34,692
+perde tempo lendo um monte de coisa
+
+357
+00:13:34,692 --> 00:13:36,412
+que não serve pra nada, pra alguém que
+
+358
+00:13:36,412 --> 00:13:38,492
+foca, vai direto no assunto ali e começa a
+
+359
+00:13:38,492 --> 00:13:40,572
+construir de verdade, beleza? Então,
+
+360
+00:13:40,592 --> 00:13:42,672
+leve isso em consideração. Qual que é
+
+361
+00:13:42,672 --> 00:13:44,472
+o método aqui, ó? Primeiro, delimite seu
+
+362
+00:13:44,472 --> 00:13:46,672
+escopo de observação, então, geração,
+
+363
+00:13:46,752 --> 00:13:48,652
+controle, produção, aqui no caso a gente vai
+
+364
+00:13:48,652 --> 00:13:50,472
+fazer isso, eu vou mostrar uma série agora de
+
+365
+00:13:51,452 --> 00:13:52,692
+ferramentas pra vocês, eu vou só
+
+366
+00:13:52,692 --> 00:13:55,512
+Só mostrando elas aqui, vão ser aulas bem curtinhas nesse módulo aqui,
+
+367
+00:13:56,152 --> 00:13:58,712
+mas a ideia é realmente te apresentar possibilidades.
+
+368
+00:13:58,852 --> 00:14:01,712
+E é legal que você separe ferramentas por tipos.
+
+369
+00:14:01,832 --> 00:14:04,152
+Então tem ferramenta de geração, tem ferramenta de controle,
+
+370
+00:14:04,252 --> 00:14:06,332
+tem ferramenta de produção, tem ferramenta de upscaling,
+
+371
+00:14:06,352 --> 00:14:07,812
+tem ferramenta de edição e por aí vai.
+
+372
+00:14:08,312 --> 00:14:09,492
+Escolha duas e foque.
+
+373
+00:14:09,732 --> 00:14:10,912
+Por que isso, né?
+
+374
+00:14:11,012 --> 00:14:12,552
+Primeiro, na verdade, foque nos hubs.
+
+375
+00:14:12,912 --> 00:14:15,932
+Depois dos hubs, na verdade, antes de focar nos hubs,
+
+376
+00:14:16,052 --> 00:14:18,272
+foque nas IAs que resolvem seus problemas atuais.
+
+377
+00:14:18,332 --> 00:14:20,252
+É aprendizado baseado em demanda.
+
+378
+00:14:20,832 --> 00:14:22,672
+Então você aprende à medida que você precisa
+
+379
+00:14:22,672 --> 00:14:24,312
+daquela informação e daquele aprendizado,
+
+380
+00:14:24,392 --> 00:14:24,972
+daquela habilidade.
+
+381
+00:14:25,752 --> 00:14:28,252
+Então escolha um escopo, defina ele e vai por ele.
+
+382
+00:14:28,412 --> 00:14:30,692
+Dois, crie seus pontos fixos.
+
+383
+00:14:30,692 --> 00:14:32,912
+Uma newsletter, um fórum, um criador
+
+384
+00:14:32,912 --> 00:14:34,472
+que publica análises e não vitrine,
+
+385
+00:14:34,472 --> 00:14:35,412
+um repositório de cases.
+
+386
+00:14:35,972 --> 00:14:38,472
+E eu recomendo também um LLM aqui
+
+387
+00:14:38,472 --> 00:14:40,452
+ou um robozinho que fica pegando o que é relevante
+
+388
+00:14:40,452 --> 00:14:41,992
+para você baseado nos seus critérios.
+
+389
+00:14:42,452 --> 00:14:44,812
+Execute o ciclo semanal. Filtrar, testar,
+
+390
+00:14:44,872 --> 00:14:46,892
+documentar, integrar ou descartar.
+
+391
+00:14:47,872 --> 00:14:48,772
+Revisão mensal.
+
+392
+00:14:48,772 --> 00:14:51,592
+O que mudou, o que entrou, o que perdeu relevância,
+
+393
+00:14:51,652 --> 00:14:54,172
+o que precisa de experimentação profunda.
+
+394
+00:14:54,572 --> 00:14:56,412
+Isso é o que você pode pedir para a IA analisar para você
+
+395
+00:14:56,412 --> 00:14:57,412
+antes de te entregar também,
+
+396
+00:14:57,512 --> 00:14:59,372
+depois você tem a sua própria análise, beleza?
+
+397
+00:15:00,192 --> 00:15:02,212
+Romano, você vai ensinar nesse curso de imagens,
+
+398
+00:15:02,212 --> 00:15:03,432
+você vai ensinar para a gente como que...
+
+399
+00:15:05,084 --> 00:15:06,084
+Como que faz isso aqui? Não.
+
+400
+00:15:06,464 --> 00:15:08,944
+Ensine em outros cursos também como que você cria seu próprio agente.
+
+401
+00:15:08,944 --> 00:15:11,384
+Aqui eu estou te dando o fluxo, você pode fazer manualmente também.
+
+402
+00:15:11,604 --> 00:15:11,984
+Tá bom?
+
+403
+00:15:12,244 --> 00:15:15,044
+A pergunta que define sua evolução não é o que está acontecendo agora.
+
+404
+00:15:15,224 --> 00:15:18,884
+É quais movimentos merecem minha atenção e quais devem ser descartados.
+
+405
+00:15:19,044 --> 00:15:24,544
+É muito mais sobre falar não para 99% das coisas e saber escolher aquele 1% que vale a pena.
+
+406
+00:15:25,244 --> 00:15:25,604
+Beleza?
+
+407
+00:15:25,924 --> 00:15:27,684
+É isso que vai fazer a diferença para vocês.
+
+408
+00:15:28,684 --> 00:15:31,224
+Então, essa primeira aula foi só para te contextualizar.
+
+409
+00:15:31,384 --> 00:15:34,164
+Agora eu vou te dar uma sequência de ferramentas aqui.
+
+410
+00:15:34,164 --> 00:15:35,764
+vou sair apresentando elas para você
+
+411
+00:15:37,604 --> 00:15:40,184
+e depois a gente vai ter as aulas para criar com elas.
+
+412
+00:15:40,264 --> 00:15:43,044
+Eu vou falar das que eu acredito que atualmente é legal,
+
+413
+00:15:43,124 --> 00:15:44,524
+já dei algumas indicações aqui,
+
+414
+00:15:44,584 --> 00:15:45,824
+a folha de Gemini, do Freepeak,
+
+415
+00:15:45,844 --> 00:15:48,244
+tem algumas aqui que são custo-benefício muito bom,
+
+416
+00:15:48,864 --> 00:15:51,144
+mas eu quero te apresentar porque tem tipos de as diferentes
+
+417
+00:15:51,144 --> 00:15:52,144
+para cada contexto.
+
+418
+00:15:52,304 --> 00:15:54,804
+Bora lá, que a gente precisa ver isso agora.
+

@@ -1,0 +1,229 @@
+# Video: 10._apresentando_o_perplexity_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 09:57
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:08 --> 00:00:04:18] Chegou a hora de falarmos sobre o Perplexity, que tem o seu próprio modelo de LLM,
+[00:00:04:20 --> 00:00:08:13] mas está fazendo uma coisa que traz uma vantagem para ele perto das outras LLMs,
+[00:00:08:16 --> 00:00:14:12] que é a possibilidade de você usar vários modelos diferentes dentro da mesma plataforma.
+[00:00:14:23 --> 00:00:17:22] Na OpenAI você só usa modelos da OpenAI, só GBTs.
+[00:00:17:24 --> 00:00:19:24] No Cloud você só usa modelos do Cloud.
+[00:00:19:26 --> 00:00:22:12] O Gemini só usa modelos do Gemini.
+[00:00:22:24 --> 00:00:27:08] Agora, o Perplexity te permite usar todos esses modelos dentro dele,
+[00:00:27:08 --> 00:00:29:09] ele bem semelhante a outra aula, que é a aula
+[00:00:29:09 --> 00:00:31:11] sobre o Open Router e o Grok Cloud,
+[00:00:31:20 --> 00:00:33:05] onde você consegue conectar outras
+[00:00:33:05 --> 00:00:35:11] LLMs via API, que é uma outra
+[00:00:35:11 --> 00:00:37:06] aula que eu vou ensinar para vocês depois.
+[00:00:37:21 --> 00:00:39:05] Mas vamos lá, eu estou logado aqui nele,
+[00:00:39:06 --> 00:00:41:10] vocês podem ver, ele já
+[00:00:41:10 --> 00:00:42:26] traz algumas informações
+[00:00:42:26 --> 00:00:45:05] diferentes, porque o Perplexity, ele
+[00:00:45:05 --> 00:00:47:05] quer funcionar como um hub de notícias,
+[00:00:47:05 --> 00:00:49:06] e isso é uma coisa que é um diferencial dele,
+[00:00:49:07 --> 00:00:51:06] funciona bem, e eu gosto muito, que é a
+[00:00:51:06 --> 00:00:52:09] possibilidade de você
+[00:00:53:11 --> 00:00:54:29] descobrir notícias do mundo aqui,
+[00:00:55:02 --> 00:00:56:22] que são pesquisas feitas
+[00:00:56:22 --> 00:00:59:05] pelo próprio Perplexity, que foi o primeiro
+[00:00:59:05 --> 00:01:01:00] modelo que ganhou mais relevância
+[00:01:01:00 --> 00:01:03:00] que começou a trabalhar com esse
+[00:01:03:00 --> 00:01:04:29] Deep Search, trazer essa pesquisa mais
+[00:01:04:29 --> 00:01:07:00] profunda, e eles fazem isso e
+[00:01:07:00 --> 00:01:08:02] trazem aqui para você, então
+[00:01:08:02 --> 00:01:10:06] são novidades bem legais
+[00:01:10:06 --> 00:01:13:00] e é um hub de notícia bem interessante, às vezes eu
+[00:01:13:00 --> 00:01:15:04] entro aqui só para poder dar uma olhada nesse hub de notícia
+[00:01:15:04 --> 00:01:16:05] ver o que está acontecendo
+[00:01:16:05 --> 00:01:18:00] porque é bem legal
+[00:01:18:18 --> 00:01:21:00] então esse é um primeiro ponto dele, e aqui embaixo
+[00:01:21:00 --> 00:01:22:27] ele traz isso também, então ele apresentando
+[00:01:22:27 --> 00:01:25:05] nosso aplicativo para Windows, estudante
+[00:01:25:05 --> 00:01:26:25] da Columbia que criou uma ferramenta
+[00:01:26:25 --> 00:01:28:25] filme do Minecraft, arrecada
+[00:01:28:25 --> 00:01:29:15] 717
+[00:01:31:00 --> 00:01:32:12] milhões de dólares
+[00:01:32:12 --> 00:01:34:23] eu posso clicar aqui e ele me leva
+[00:01:34:23 --> 00:01:36:11] para uma página com a notícia
+[00:01:36:11 --> 00:01:38:21] e tem uma coisa que o Perplexity tem
+[00:01:38:21 --> 00:01:40:11] que não dá para negar, ele tem um design
+[00:01:40:11 --> 00:01:42:21] que diferencia ele e isso aqui
+[00:01:42:21 --> 00:01:45:02] isso aqui aquece o coração
+[00:01:45:02 --> 00:01:46:12] de qualquer designer, então
+[00:01:46:12 --> 00:01:48:08] funciona bem, modular
+[00:01:48:08 --> 00:01:50:27] com muitos dados e você pode gerar
+[00:01:50:27 --> 00:01:53:07] sua própria pesquisa aqui no Perplexity
+[00:01:53:07 --> 00:01:55:00] ele também. Então ele funciona um pouco
+[00:01:55:00 --> 00:01:57:03] como uma rede social também,
+[00:01:57:08 --> 00:01:59:05] né? Você pode ver aqui, olha, 85 mil pessoas
+[00:01:59:05 --> 00:02:00:27] viram isso, 2 mil compartilharam.
+[00:02:01:06 --> 00:02:03:01] Meio que um sistema de blogs. Tem aqui,
+[00:02:03:04 --> 00:02:04:16] olha, o...
+[00:02:06:16 --> 00:02:07:21] um sumário, né?
+[00:02:08:22 --> 00:02:10:22] E aí você tem essa navegação.
+[00:02:10:23 --> 00:02:12:12] Fora isso aqui, vamos começar do início.
+[00:02:12:17 --> 00:02:14:06] Você pode buscar na internet.
+[00:02:14:26 --> 00:02:18:14] E aí aqui você tem o modelo que você quer usar.
+[00:02:19:04 --> 00:02:24:24] Você tem se você quer que a pesquisa seja feita só na web, só no acadêmico, buscando artigos acadêmicos.
+[00:02:24:26 --> 00:02:27:26] Ou só a social, buscando opiniões e discussões.
+[00:02:28:02 --> 00:02:30:23] Isso aqui é uma diferença grande do Perplexity.
+[00:02:31:08 --> 00:02:35:01] Uma das maiores vantagens que ele tem, esse controle para pesquisa, eu gosto muito.
+[00:02:35:10 --> 00:02:37:25] Você pode subir um arquivo aqui do seu computador também.
+[00:02:38:11 --> 00:02:41:18] gravar um áudio pra ele, ele vai transcrever esse áudio aqui e olha que
+[00:02:41:18 --> 00:02:45:25] legal, funcionando meio que parecido com o Google, ele traz aqui o que as pessoas
+[00:02:45:25 --> 00:02:49:05] mais estão pesquisando aqui dentro do Perplexity, olha que interessante.
+[00:02:49:27 --> 00:02:57:14] Além da busca, ele tem a pesquisa e aí a pesquisa é o Deep Search do Perplexity.
+[00:02:57:26 --> 00:03:02:10] Repare que eu tenho três consultas restantes, para mais consultas eu posso
+[00:03:02:10 --> 00:03:06:11] assinar e isso aqui já é uma primeira vantagem do Perplexity, que ele já te dá
+[00:03:06:11 --> 00:03:08:16] três consultas gratuitas por dia.
+[00:03:08:29 --> 00:03:10:15] Isso é muito bom comparado a outros
+[00:03:10:15 --> 00:03:12:04] modelos que não dão esse
+[00:03:13:02 --> 00:03:14:12] recurso. Quando eu coloco
+[00:03:14:12 --> 00:03:16:23] aqui em pesquisa, eu não posso escolher o modelo.
+[00:03:16:26 --> 00:03:18:14] É o modelo próprio que a OpenAI
+[00:03:19:01 --> 00:03:20:15] decide. Eu vou mostrar uma outra
+[00:03:20:15 --> 00:03:22:17] configuração ali, mas em geral é isso.
+[00:03:22:20 --> 00:03:24:12] Na busca, eu posso escolher
+[00:03:24:12 --> 00:03:26:12] aqui então o Sonar, que esse
+[00:03:26:12 --> 00:03:28:18] aqui é o modelo da Perplexity
+[00:03:28:18 --> 00:03:30:14] mesmo. Não é o melhor modelo
+[00:03:30:14 --> 00:03:32:10] lá nos benchmarks. Ele não é um dos
+[00:03:33:08 --> 00:03:34:12] principais que estão na fila ali
+[00:03:34:12 --> 00:03:36:14] no top 5, mas ele funciona bem
+[00:03:36:14 --> 00:03:38:03] vai resolver muitos casos, tem aqui o
+[00:03:38:03 --> 00:03:39:18] Cloud Soneto, que é o Sonet
+[00:03:40:03 --> 00:03:42:23] 3.7, o GPT 4.1
+[00:03:42:23 --> 00:03:44:14] Gemini 2.5 Pro
+[00:03:44:14 --> 00:03:46:07] ele já traz os modelos mais atuais
+[00:03:46:07 --> 00:03:48:06] só que você tem poucos créditos deles
+[00:03:48:27 --> 00:03:49:10] no...
+[00:03:50:03 --> 00:03:52:02] na verdade ele nem permite alguns, só no
+[00:03:52:02 --> 00:03:54:12] pago mesmo, ele mostra, mas você tem
+[00:03:54:12 --> 00:03:56:03] que assinar o pago pra ter acesso
+[00:03:56:03 --> 00:03:58:05] o Grok 3, então ele mostrou os principais aqui
+[00:03:58:05 --> 00:03:59:03] os mais usados
+[00:04:00:09 --> 00:04:06:21] E aí tem aqui para justificativo o R1, que é do DeepSeek, o O3 Mini e o CloudSony Thinking, da Anthropic.
+[00:04:07:09 --> 00:04:14:03] Aí eu vou trazer para vocês, para poder mostrar aqui um pouco mais, apesar de que eu poderia mostrar no gratuito também, a versão paga.
+[00:04:15:15 --> 00:04:19:28] Então, eu estou aqui na versão paga, eu posso escolher qualquer um desses modelos e ele fica ativo, tá vendo?
+[00:04:20:07 --> 00:04:22:24] E agora eu posso responder com esses modelos.
+[00:04:22:28 --> 00:04:26:19] Antes de ir para essas outras abas, eu quero falar aqui das configurações.
+[00:04:27:10 --> 00:04:31:26] Então, se eu vir aqui em configuração, eu tenho aqui a minha conta para a Reflex City Pro,
+[00:04:32:01 --> 00:04:37:23] está aqui em nome da Overlens, essa aqui, um pouco sobre o sistema, suporte, estou conectado e tal, beleza.
+[00:04:38:05 --> 00:04:42:07] Tenho preferências, então aqui preferência de tema, nada muito exclusivo,
+[00:04:42:07 --> 00:04:45:16] mas eu posso vir aqui e escolher o modelo.
+[00:04:45:18 --> 00:04:46:24] Ah, eles atualizaram. Legal.
+[00:04:46:29 --> 00:04:50:00] Antes você tinha que trocar o modelo aqui dentro da preferência.
+[00:04:50:06 --> 00:04:52:18] Agora ele já vai direto para lá. Interessante.
+[00:04:52:28 --> 00:04:55:27] E aqui eu escolho também o modelo de geração de imagens,
+[00:04:55:27 --> 00:04:58:19] se é o Gemini 2.0, DALI 3 ou Flux 1.
+[00:04:59:00 --> 00:04:59:25] Posso escolher aqui.
+[00:04:59:28 --> 00:05:02:10] E se eu quero que ele guarde meus dados ou não.
+[00:05:02:18 --> 00:05:06:09] Em personalizar, ele já dá mais opções do que outros modelos,
+[00:05:06:09 --> 00:05:07:16] como o GROK ou o CLOUD.
+[00:05:08:00 --> 00:05:11:07] Não é tanto opção quanto o GPT.
+[00:05:11:07 --> 00:05:14:06] Eu prefiro o GPT ainda, mas ele te permite se apresentar.
+[00:05:14:12 --> 00:05:20:03] Ele fala aqui se você quer notificações de resumos financeiros do mercado ou de pesquisas profundas.
+[00:05:20:03 --> 00:05:22:28] Eu marco meu em pesquisa profunda, é bem legal receber essas notificações.
+[00:05:23:03 --> 00:05:30:02] E tem aqui listas de observação em esporte e finanças, que se eu quero observações aqui, eu posso escolher meu time, literalmente.
+[00:05:31:20 --> 00:05:34:12] E ele vai pegar aqui, né?
+[00:05:34:14 --> 00:05:36:01] Então, coloca qualquer time aqui.
+[00:05:36:05 --> 00:05:38:06] Eu acho que ele pega principalmente os da Europa, né?
+[00:05:38:07 --> 00:05:38:21] Vamos ver aqui, ó.
+[00:05:38:28 --> 00:05:39:21] Aqui no Brasil.
+[00:05:40:09 --> 00:05:41:13] Aqui em Minas Gerais.
+[00:05:41:15 --> 00:05:42:02] Não tem, tá vendo?
+[00:05:42:13 --> 00:05:44:05] Pega principalmente os da Europa, por enquanto.
+[00:05:44:23 --> 00:05:45:26] Mas tem de finanças também.
+[00:05:46:00 --> 00:05:49:05] Se você quer ver aqui e receber notícias de uma empresa, você pode receber.
+[00:05:50:29 --> 00:05:52:23] Então, é isso. Meus conectores.
+[00:05:52:23 --> 00:05:54:07] Aqui dá para habilitar só o
+[00:05:54:07 --> 00:05:56:13] LinkedIn. E aí você tem uma
+[00:05:56:13 --> 00:05:58:19] verificação de dados com o perfil do Perplexity.
+[00:05:59:18 --> 00:06:00:01] Transações.
+[00:06:00:11 --> 00:06:02:23] Então, compre como um profissional com o Perplexity.
+[00:06:02:24 --> 00:06:04:16] Você pode usar o Perplexity para fazer
+[00:06:04:16 --> 00:06:05:15] compras para você.
+[00:06:06:02 --> 00:06:08:02] É uma opção. Não testei essa opção ainda.
+[00:06:08:22 --> 00:06:09:20] Pois eu quero
+[00:06:10:06 --> 00:06:10:26] testar também.
+[00:06:12:06 --> 00:06:17:01] E aí tem a API, para ele gerar a API para você, e o corporativo, que não vem ao caso aqui agora.
+[00:06:17:12 --> 00:06:19:03] Então nas configurações a gente tem isso.
+[00:06:19:15 --> 00:06:27:15] Nos espaços, ele é semelhante a você criar um espaço no Cloud ou no GPT.
+[00:06:27:20 --> 00:06:34:09] Então eu crio um espaço aqui, vou chamar de espaço 843, coloco a descrição e a instrução personalizada.
+[00:06:34:18 --> 00:06:36:16] Você vai agir como...
+[00:06:37:26 --> 00:06:38:10] Ficou rico!
+[00:06:41:13 --> 00:06:41:26] Continuar.
+[00:06:43:04 --> 00:06:47:17] Aí ele cria o espaço aqui, dentro desse espaço as conversas ficam organizadas,
+[00:06:47:20 --> 00:06:51:14] eu posso dar instruções maiores para ele, subir arquivos e subir links,
+[00:06:51:19 --> 00:06:54:09] e ele vai usar isso de contexto para as respostas que ele vai te dar.
+[00:06:54:13 --> 00:06:55:11] É bem legal também.
+[00:06:56:23 --> 00:06:58:04] A gente pode conversar com ele aqui.
+[00:06:59:13 --> 00:07:00:28] E aí, meu chapa, eu sou o PicoRic.
+[00:07:02:12 --> 00:07:03:16] Pra gente conhecer. Beleza.
+[00:07:03:20 --> 00:07:05:24] O legal aqui, olha, é que o Perplexity
+[00:07:05:24 --> 00:07:08:03] traz outras informações legais e úteis.
+[00:07:08:09 --> 00:07:10:02] Então, ele traz temas relacionados
+[00:07:10:02 --> 00:07:12:11] da pergunta que eu fiz pra continuar a conversa.
+[00:07:12:11 --> 00:07:14:05] Posso compartilhar, exportar, reescrever.
+[00:07:14:19 --> 00:07:16:07] Posso aqui também ver qual foi
+[00:07:16:07 --> 00:07:18:09] o modelo utilizado e trocar
+[00:07:18:09 --> 00:07:20:02] o modelo se eu quiser. O legal é que a
+[00:07:20:02 --> 00:07:22:05] Perplexity acaba escolhendo modelos que
+[00:07:22:05 --> 00:07:24:00] ela acha que vão funcionar melhor pra cada pedido.
+[00:07:24:17 --> 00:07:26:00] E aí eu posso fazer isso aqui.
+[00:07:26:04 --> 00:07:28:10] Aqui em cima, eu posso salvar nos favoritos,
+[00:07:28:26 --> 00:07:30:04] trocar de espaço essa
+[00:07:30:04 --> 00:07:31:13] conversa, remover do espaço,
+[00:07:31:13 --> 00:07:37:28] passo a passo converter para a página isso aqui é muito legal ver olha gere um artigo inteiro sobre
+[00:07:41:26 --> 00:07:45:04] do futuro da arte eu tô pegando muito esse tema recentemente né aqui eu posso
+[00:07:45:04 --> 00:07:49:18] trocar para pesquisa avançada ou para buscar vou deixar aqui só para
+[00:07:51:15 --> 00:07:52:27] Respostas rápidas para o dia a dia.
+[00:07:53:02 --> 00:07:54:19] Mas eu vou pedir para ele gerar o artigo.
+[00:07:54:27 --> 00:07:56:14] Ele vai gerar o artigo aqui para mim.
+[00:07:57:03 --> 00:08:00:09] Aqui tem duas tarefas que ele está executando.
+[00:08:00:10 --> 00:08:00:21] Olha, três.
+[00:08:00:24 --> 00:08:03:01] Ele está mostrando onde ele está lendo os artigos.
+[00:08:03:09 --> 00:08:04:03] Vai trazer isso.
+[00:08:04:12 --> 00:08:06:07] E agora ele vai trazer no tom que eu pedi.
+[00:08:06:09 --> 00:08:06:15] Está vendo?
+[00:08:06:17 --> 00:08:07:20] E aí, meu chapa, que eu fico rico.
+[00:08:07:24 --> 00:08:09:18] Trazendo papo reto sobre o futuro da arte.
+[00:08:09:22 --> 00:08:10:23] E aí vai trazer tudo aqui.
+[00:08:11:04 --> 00:08:12:16] E quando ele terminar...
+[00:08:14:17 --> 00:08:16:20] terminar, beleza, vou terminar
+[00:08:16:20 --> 00:08:18:11] aqui, pronto. Eu posso
+[00:08:18:11 --> 00:08:20:23] transformar ele aqui em página
+[00:08:20:23 --> 00:08:22:20] e aí ele vai virar aquela página
+[00:08:22:20 --> 00:08:24:00] parecida com a página do
+[00:08:24:00 --> 00:08:26:12] das notícias que nós vemos.
+[00:08:26:17 --> 00:08:28:17] Vai trazer as principais fontes, às vezes ele
+[00:08:28:17 --> 00:08:29:12] gera imagens.
+[00:08:31:08 --> 00:08:33:26] Traz o sumário da minha página e fica tudo bem organizado.
+[00:08:33:28 --> 00:08:38:23] É bem legal. Dá gosto de ver essa parte aqui do perplexity.
+[00:08:40:12 --> 00:08:47:16] E aí, quando você acessa como página, os recursos são diferentes de quando você acessa ele com conversa.
+[00:08:48:02 --> 00:08:49:22] Trabalhando ele com conversa é diferente.
+[00:08:50:03 --> 00:08:54:13] Tá escrevendo, ó. O bichinho tá indo aí, dando o melhor dele.
+[00:08:54:19 --> 00:08:55:25] Eu posso parar se eu quiser.
+[00:08:56:02 --> 00:08:57:02] Vou parar aqui.
+[00:08:58:16 --> 00:09:01:11] E pronto. Depois que ele virou página, eu posso editar essa página aqui.
+[00:09:03:03 --> 00:09:03:28] O artigo...
+[00:09:08:25 --> 00:09:09:09] Por que que ele saiu?
+[00:09:10:25 --> 00:09:15:00] Pronto, editei, tá vendo? Eu posso fazer como um blog mesmo, pedir para ela reescrever essa parte,
+[00:09:15:03 --> 00:09:17:29] ou eu mesmo vou fazer, curado por Overlens e por aí vai.
+[00:09:18:21 --> 00:09:23:08] Adicionar uma imagem, porque ele não deu tempo dele gerar, e continuar escrevendo, tá vendo?
+[00:09:23:19 --> 00:09:25:13] Ou pedindo a IA para gerar também.
+[00:09:26:01 --> 00:09:29:05] Então é bem legal esses recursos dentro do Perplexity, eu gosto bastante.
+[00:09:29:26 --> 00:09:32:24] E visualmente é um colírio para os olhos.
+[00:09:33:16 --> 00:09:37:22] A gente tem aqui também a biblioteca, aqui ele salva todas as suas conversas.
+[00:09:37:22 --> 00:09:40:26] aí tem tópicos e tem páginas também.
+[00:09:40:29 --> 00:09:43:21] Você pode já começar um tópico direto, páginas,
+[00:09:43:21 --> 00:09:47:22] aqui tem um artigo do Picorrique, tópicos, conversas que você pode fazer.
+[00:09:48:09 --> 00:09:52:06] Você pode já começar uma página do zero também e gerar documentos,
+[00:09:52:06 --> 00:09:54:28] que dá para você compartilhar com os clientes ou usar só para você mesmo.
+[00:09:55:08 --> 00:09:57:29] Aqui na biblioteca você gerencia essas duas coisas.
+[00:09:58:12 --> 00:10:01:10] No espaço você vai gerenciar o seu espaço mesmo.
+[00:10:01:18 --> 00:10:05:27] Eu criei aqui o modelo de negócio, workspace, espaço 843,
+[00:10:05:27 --> 00:10:09:28] E tem esses outros aqui também, que já vieram dentro aqui da conta...

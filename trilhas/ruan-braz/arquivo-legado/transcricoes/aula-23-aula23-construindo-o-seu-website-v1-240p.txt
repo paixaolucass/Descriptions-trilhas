@@ -1,0 +1,1290 @@
+# Video: aula23.construindo_o_seu_website_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-28 18:01
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:15 --> 00:00:07:02] Chegou a hora de falarmos sobre o seu website, depois de falarmos sobre a raiz da sua árvore,
+[00:00:07:13 --> 00:00:12:10] a infraestrutura, falamos sobre CNPJ, falamos sobre estrutura de custo, sobre preço,
+[00:00:12:24 --> 00:00:17:10] chegou a hora de falarmos sobre o tronco, o pilar que vai sustentar essa árvore.
+[00:00:17:14 --> 00:00:22:23] Depois nós vamos falar sobre redes sociais, sobre outros ambientes, mas o seu site faz
+[00:00:22:23 --> 00:00:27:28] parte da essência das duas estratégias que eu vou ensinar para você, tanto para
+[00:00:28:01 --> 00:00:31:28] atrair clientes, quanto para ir até os seus clientes.
+[00:00:32:01 --> 00:00:35:20] Então, você vai utilizar o site como uma ferramenta de vendas.
+[00:00:35:21 --> 00:00:38:24] Ele vai mostrar para o seu cliente o seu processo, os seus projetos.
+[00:00:38:27 --> 00:00:41:00] Então, ele serve também para gerar desejo.
+[00:00:41:01 --> 00:00:43:11] É uma embalagem do serviço que você vende.
+[00:00:43:18 --> 00:00:46:06] Já falei outras vezes que vender design é vender o futuro.
+[00:00:46:16 --> 00:00:50:13] Então, quando nós temos algo tangível que o cliente possa ver, que o cliente
+[00:00:50:13 --> 00:00:53:14] possa analisar, isso é mais fácil para ele tomar a decisão.
+[00:00:53:16 --> 00:00:56:28] É por isso que construir um website é muito importante.
+[00:00:56:28 --> 00:01:02:05] É importante eu dizer também que as aulas anteriores são muito importantes para completar
+[00:01:02:05 --> 00:01:02:25] essa aula aqui.
+[00:01:03:02 --> 00:01:06:28] Então, se você não assistiu as aulas do módulo de demanda, é muito importante que
+[00:01:06:28 --> 00:01:08:09] você volte e assista.
+[00:01:08:10 --> 00:01:12:27] Para construir o seu site, você precisa saber qual é o seu hiperniche, você precisa
+[00:01:12:27 --> 00:01:17:12] saber qual é o seu perfil ideal de cliente, você também precisa saber quais são as
+[00:01:17:12 --> 00:01:23:07] demandas abrangentes e específicas, porque nós vamos trabalhar cada uma delas
+[00:01:23:07 --> 00:01:25:10] aqui na construção do seu site.
+[00:01:25:10 --> 00:01:27:07] todo o conteúdo que você vai construir
+[00:01:27:07 --> 00:01:30:22] precisa ser para conversar com esse perfil ideal de cliente
+[00:01:30:22 --> 00:01:32:20] e você precisa saber quais são as demandas.
+[00:01:32:25 --> 00:01:36:03] Tanto da metodologia Acro quanto as demandas específicas.
+[00:01:36:06 --> 00:01:39:09] Compreender também quais são as objeções que esse seu cliente tem,
+[00:01:39:18 --> 00:01:41:19] porque tem uma sessão no site que a gente vai falar,
+[00:01:41:21 --> 00:01:43:18] que é a sessão de perguntas frequentes,
+[00:01:43:25 --> 00:01:45:18] e lá que nós colocamos a objeção.
+[00:01:46:03 --> 00:01:47:26] Essa é uma sessão muito negligenciada,
+[00:01:47:26 --> 00:01:51:00] mas muito importante para convencer o seu cliente que ainda está em dúvida.
+[00:01:51:04 --> 00:01:53:10] Por isso que é importante que você também
+[00:01:53:10 --> 00:01:57:15] liste as suas objeções, os seus motivos para escolher determinados clientes. Ou seja,
+[00:01:58:00 --> 00:02:04:19] fazer o módulo de demanda é muito importante antes de construir o seu site, ok? Dito isso,
+[00:02:04:28 --> 00:02:08:13] então, vamos começar aqui primeiro especificando.
+[00:02:09:14 --> 00:02:10:25] Qual é o valor do site?
+[00:02:11:06 --> 00:02:14:00] Não importa se você vai atender um cliente presencialmente,
+[00:02:14:04 --> 00:02:15:04] eu coloquei a mãozinha ali,
+[00:02:15:10 --> 00:02:17:08] se você conheceu o cliente em um evento,
+[00:02:17:18 --> 00:02:19:29] se alguém indicou você para algum cliente
+[00:02:19:29 --> 00:02:23:03] ou se foi por um anúncio, tanto orgânico quanto pago,
+[00:02:23:03 --> 00:02:25:17] te viu no Instagram ou você fez um anúncio...
+[00:02:25:17 --> 00:02:28:29] O seu site é o centro das duas estratégias que eu vou ensinar para você,
+[00:02:29:08 --> 00:02:32:06] porque ele serve tanto para poder convencer o seu cliente,
+[00:02:32:09 --> 00:02:34:28] tangibilizar esse design que é mais abstrato...
+[00:02:35:29 --> 00:02:38:07] A gente vende o futuro, o cliente compra o futuro,
+[00:02:38:07 --> 00:02:42:04] ele não tem a garantia, ele precisa de algo tangível, o site é importante para isso,
+[00:02:42:13 --> 00:02:45:24] mas também porque o seu site vai te ajudar a coletar dados.
+[00:02:46:08 --> 00:02:50:21] Os dados são muito importantes para que você não só consiga aumentar a sua conversão
+[00:02:50:21 --> 00:02:54:03] de clientes, mas também para que você venda novamente para esses clientes no futuro.
+[00:02:54:28 --> 00:02:57:15] O objetivo aqui é construir um negócio.
+[00:02:57:24 --> 00:02:59:01] Eu já falei isso para você antes.
+[00:02:59:06 --> 00:03:02:28] A ideia não é só te ensinar como conseguir um cliente esse mês ou como conseguir um
+[00:03:02:28 --> 00:03:03:21] cliente mês que vem.
+[00:03:03:28 --> 00:03:06:00] Eu quero que você pense nisso como o seu negócio.
+[00:03:06:00 --> 00:03:08:20] Não importa se você vai construir uma agência de design,
+[00:03:08:23 --> 00:03:10:07] se você vai trabalhar como autônomo,
+[00:03:10:13 --> 00:03:13:14] ou até se você vai seguir por um modelo de negócio diferente,
+[00:03:13:16 --> 00:03:16:25] mas parecido com o e-commerce ou a venda de algum produto.
+[00:03:17:06 --> 00:03:18:20] O que importa é que você tem que entender
+[00:03:18:20 --> 00:03:22:26] que o site é uma ferramenta poderosa para atrair os seus clientes
+[00:03:22:26 --> 00:03:24:19] e para compreender eles melhor.
+[00:03:24:27 --> 00:03:27:16] É importante também para rastrear esse cliente.
+[00:03:27:19 --> 00:03:29:06] Então, quando você faz um anúncio,
+[00:03:29:12 --> 00:03:31:11] você consegue anunciar para quem visitou o seu site.
+[00:03:31:17 --> 00:03:33:24] Se você não tem site, você não tem essa inteligência.
+[00:03:33:24 --> 00:03:36:05] Então, é muito importante que você tenha um site.
+[00:03:36:09 --> 00:03:38:22] Eu vou insistir para que você construa.
+[00:03:38:24 --> 00:03:40:27] Mesmo que você acredite que a sua estratégia de vendas
+[00:03:40:27 --> 00:03:42:18] não necessite de um site,
+[00:03:42:28 --> 00:03:44:05] é uma postura profissional,
+[00:03:44:06 --> 00:03:46:15] porque a qualquer momento um cliente pode te perguntar,
+[00:03:46:18 --> 00:03:48:27] você tem um site para eu saber mais informações?
+[00:03:49:07 --> 00:03:51:19] E se você não tem, isso pode ser o suficiente
+[00:03:51:19 --> 00:03:55:11] para que ele não se sinta confiante ou confortável
+[00:03:55:11 --> 00:03:57:12] para fechar com você naquele momento.
+[00:03:58:00 --> 00:03:59:14] Então, o site é importante,
+[00:03:59:18 --> 00:04:02:22] é por isso que ele está aqui no centro da nossa estratégia.
+[00:04:02:22 --> 00:04:09:15] Mas existem vários tipos de sites diferentes. Existe portfólio, existe página de vendas,
+[00:04:10:00 --> 00:04:14:27] existe site institucional, também existe landing page, e-commerce, blogs...
+[00:04:16:14 --> 00:04:19:26] E eu quero deixar isso tudo muito claro aqui para você, tá?
+[00:04:20:06 --> 00:04:24:04] Tem vários tipos de sites diferentes, os três principais são os que eu destaquei aqui
+[00:04:24:04 --> 00:04:28:26] em cima, mas eu vou começar dos menos relevantes primeiro, só para você entender.
+[00:04:29:13 --> 00:04:33:02] Dá para poder utilizar blog como uma estratégia para conseguir clientes?
+[00:04:33:10 --> 00:04:37:21] Então você cria conteúdo, gera valor para um perfil ideal de cliente e dentro do
+[00:04:37:21 --> 00:04:40:03] seu blog você oferece, você faz ofertas.
+[00:04:40:11 --> 00:04:45:05] Isso é uma possibilidade, é interessante, mas vai depender do seu modelo de negócio.
+[00:04:45:26 --> 00:04:50:06] Porém, o que a gente tem que levar em consideração quando a gente pensa em um site, um blog?
+[00:04:51:02 --> 00:04:53:11] O blog é uma estratégia de longo prazo.
+[00:04:54:08 --> 00:04:58:00] Você provavelmente não vai conseguir um cliente essa semana ainda construindo um blog,
+[00:04:58:06 --> 00:04:59:05] porque isso leva tempo.
+[00:04:59:08 --> 00:05:03:08] Você vai ter que escrever, você vai ter que conquistar uma audiência, vai levar
+[00:05:03:08 --> 00:05:03:21] um tempo.
+[00:05:04:02 --> 00:05:07:18] Então, apesar dele ser interessante, ele é uma estratégia de longo prazo.
+[00:05:07:26 --> 00:05:14:29] No início do módulo de...
+[00:05:14:29 --> 00:05:19:15] Mas eu falo para você, acho que foi nesse aqui, de ambiente, se você quer mel por um
+[00:05:19:15 --> 00:05:24:17] dia, então encontre as abelhas, se você quer mel para sempre, então plante uma flor.
+[00:05:25:00 --> 00:05:29:12] As duas estratégias são válidas, uma é para curto prazo, outra é para longo prazo.
+[00:05:29:24 --> 00:05:33:13] No curto prazo você tem que fazer o seu negócio funcionar e sobreviver.
+[00:05:33:18 --> 00:05:38:09] Depois que você tem os primeiros clientes você ganha fôlego para poder trabalhar
+[00:05:38:09 --> 00:05:42:18] em estratégias, construir estratégias de longo prazo, que são mais robustas,
+[00:05:42:18 --> 00:05:47:28] mas que vão te dar mais previsibilidade, ou seja, você vai conseguir se planejar melhor
+[00:05:47:28 --> 00:05:49:27] nos meses que estão por vir, tá?
+[00:05:50:11 --> 00:05:53:20] Então blog é legal, mas é longo prazo, não recomendo para quem está começando.
+[00:05:54:19 --> 00:05:56:11] E-commerce é outro que eu coloquei ali embaixo.
+[00:05:56:21 --> 00:05:59:27] E-commerce também é interessante, só depende do seu modelo de negócio.
+[00:06:00:04 --> 00:06:04:16] Se você tem um modelo de negócio com serviços de preço tabelado, talvez seja
+[00:06:04:16 --> 00:06:08:27] interessante você montar um e-commerce ao invés de montar uma única página
+[00:06:08:27 --> 00:06:13:13] de vendas, por exemplo, porque o e-commerce vai te permitir colocar lá vários serviços
+[00:06:13:13 --> 00:06:18:03] tabelados e aí você consegue escalar isso muito melhor com seu cliente, trabalhar uma
+[00:06:18:03 --> 00:06:23:12] produtividade, fazer ele construir uma logística onde o cliente contrata o serviço e você
+[00:06:23:12 --> 00:06:25:01] entrega para ele, como se fosse uma fábrica.
+[00:06:25:09 --> 00:06:29:05] Existem pessoas que trabalham assim e existem pessoas que ganham muito bem assim, talvez
+[00:06:29:05 --> 00:06:31:06] é um modelo que você quer para você.
+[00:06:31:12 --> 00:06:35:05] O mais importante é isso, por que a gente falou de demanda, por que a gente falou
+[00:06:35:05 --> 00:06:39:27] de persona, porque você precisa entender quem é o seu cliente e mais importante quem
+[00:06:39:27 --> 00:06:44:11] é você, qual é o seu estilo de vida, qual vida você quer viver, para aí sim você
+[00:06:44:11 --> 00:06:46:20] construir um negócio adequado para o seu estilo de vida.
+[00:06:47:06 --> 00:06:50:24] Nesse caso, você tem que analisar isso, qual é o seu modelo de negócio, qual
+[00:06:50:24 --> 00:06:54:05] é o seu perfil ideal de cliente e isso vai influenciar o tipo de site que você
+[00:06:54:05 --> 00:06:54:21] vai construir.
+[00:06:55:29 --> 00:07:01:02] Agora, a gente tem aqui as landing pages. Landing pages são páginas únicas que tem
+[00:07:01:02 --> 00:07:05:29] geralmente o objetivo de coletar dados do cliente. Por exemplo, quando eu faço um evento
+[00:07:05:29 --> 00:07:11:07] da overlens, o masterpiece ou o overclock, você vai se inscrever no evento, tem uma
+[00:07:11:07 --> 00:07:15:04] página de inscrição, lá você coloca o seu e-mail, número e telefone geralmente
+[00:07:15:04 --> 00:07:20:05] e aí você se inscreve. Essa página ela tem o objetivo de capturar o lead, por
+[00:07:20:05 --> 00:07:25:15] isso que ela é chamada também de página de captura. Diferente de um site institucional
+[00:07:25:15 --> 00:07:30:24] que você fala sobre você, fala sobre a equipe, a landing page tem um objetivo de conversão.
+[00:07:31:09 --> 00:07:35:24] Então ela tem páginas bem construídas, geralmente persuasivas, que tem uma copy, com o objetivo
+[00:07:35:24 --> 00:07:36:15] de converter.
+[00:07:37:01 --> 00:07:41:06] Então, geralmente a gente faz testes A, B, para ver qual página está convertendo
+[00:07:41:06 --> 00:07:41:18] mais.
+[00:07:42:04 --> 00:07:46:00] A página de vendas, que é a que está aqui no centro, é uma espécie de landing
+[00:07:46:00 --> 00:07:48:10] page, só que ela é uma landing page específica.
+[00:07:48:15 --> 00:07:52:16] A página de captura, geralmente é só para coletar o lead, a página de vendas
+[00:07:52:16 --> 00:07:55:18] Ela tem um foco maior em vender ou serviço, tá?
+[00:07:55:23 --> 00:07:58:13] Mas são termos diferentes que eu estou querendo te apresentar
+[00:07:58:13 --> 00:08:00:07] para caso você não conheça ainda esse universo.
+[00:08:00:21 --> 00:08:04:22] Nós temos também o portfólio e as páginas institucionais,
+[00:08:04:25 --> 00:08:06:00] o site institucional.
+[00:08:06:19 --> 00:08:10:16] O site institucional é aquele site tradicional
+[00:08:10:16 --> 00:08:12:25] que você vê um menu em cima, geralmente,
+[00:08:13:02 --> 00:08:17:21] ele tem lá início, sobre, serviços, produtos, contato.
+[00:08:17:27 --> 00:08:19:27] A pessoa clica, ela vai para uma outra página.
+[00:08:19:27 --> 00:08:26:12] Diferente da landing page e da página de vendas, que é uma única página, o site institucional
+[00:08:26:12 --> 00:08:30:27] tem várias páginas diferentes e a pessoa pode coletar mais informações ali dentro.
+[00:08:31:07 --> 00:08:35:24] É interessante, é legal ter um site institucional, só que isso significa também mais tempo.
+[00:08:35:28 --> 00:08:40:16] Mais tempo escrevendo o texto, mais tempo estruturando as páginas, mais tempo construindo
+[00:08:40:16 --> 00:08:41:05] o site.
+[00:08:41:18 --> 00:08:46:04] Por isso que eu vou recomendar para você que está começando trabalhar a sua página
+[00:08:46:04 --> 00:08:50:14] de vendas, porque você vai conseguir trabalhar ela mais rápido, é uma única página que
+[00:08:50:14 --> 00:08:55:21] você tem que fazer e já começar a conectar os pontos para ter resultado, ter os seus primeiros
+[00:08:55:21 --> 00:08:56:11] clientes.
+[00:08:56:13 --> 00:09:01:02] Eu vou ensinar para você depois como preparar o seu Instagram, como preparar suas redes
+[00:09:01:02 --> 00:09:06:07] sociais, porque aí depois disso nós já vamos para a estratégia de ir até os clientes
+[00:09:06:07 --> 00:09:07:22] e atrair os clientes até você.
+[00:09:08:09 --> 00:09:11:25] Então a gente já quer começar a colocar isso em prática e aí com o tempo você
+[00:09:11:25 --> 00:09:16:25] vai subindo os degraus e você vai melhorando o seu site. Aí você coloca mais páginas,
+[00:09:17:02 --> 00:09:21:01] aumenta o seu portfólio e por aí vai. Agora, a grande questão que fica aqui é a seguinte,
+[00:09:21:22 --> 00:09:26:19] o portfólio. Geralmente, quando nós vamos construir o nosso site, nós designers, temos
+[00:09:26:19 --> 00:09:31:19] a mania de construir um portfólio de galeria. É aquele portfólio que tem vários projetos
+[00:09:31:19 --> 00:09:36:02] diferentes. Então, você coloca a sua galeria ali e acredita que isso é suficiente porque
+[00:09:36:02 --> 00:09:41:04] você está mostrando os seus projetos. Só que existem várias diferenças entre
+[00:09:41:04 --> 00:09:45:15] construir uma página de vendas e construir um portfólio.
+[00:09:45:16 --> 00:09:49:02] São coisas completamente diferentes, com objetivos diferentes.
+[00:09:49:16 --> 00:09:52:01] E eu quero mostrar isso aqui para vocês agora.
+[00:09:52:03 --> 00:09:55:08] Eu fiz uma tabelinha para poder exemplificar isso um pouco melhor
+[00:09:55:08 --> 00:09:57:03] e eu quero que você compare comigo.
+[00:09:57:07 --> 00:10:00:16] A maioria dos designers vão criar um portfólio,
+[00:10:00:18 --> 00:10:02:27] mas muitos vão cometer um erro,
+[00:10:03:07 --> 00:10:05:02] porque dependendo do seu objetivo,
+[00:10:05:13 --> 00:10:07:24] criar um portfólio não é a melhor opção.
+[00:10:08:07 --> 00:10:10:01] Então, olha só essa tabelinha que eu fiz aqui.
+[00:10:10:22 --> 00:10:13:16] comparando uma página de vendas com um portfólio.
+[00:10:13:21 --> 00:10:15:24] Qual que é o foco principal do portfólio?
+[00:10:16:01 --> 00:10:17:21] Demonstrar suas habilidades técnicas.
+[00:10:17:25 --> 00:10:20:13] Quando você constrói um portfólio, apresenta seus projetos,
+[00:10:20:21 --> 00:10:23:00] a mensagem que você está passando é, olha o que eu sei fazer.
+[00:10:23:15 --> 00:10:26:07] Isso aqui é a minha habilidade técnica, olha o que eu consigo construir.
+[00:10:26:18 --> 00:10:29:28] Mas em uma página de vendas, não é esse o foco principal.
+[00:10:30:21 --> 00:10:35:25] O foco principal é apresentar resultados para o cliente.
+[00:10:35:29 --> 00:10:38:04] Então, quando o cliente entra numa página de vendas,
+[00:10:38:04 --> 00:10:42:01] Ele quer ver o resultado. O que eu ganho aqui dentro? O que tem aqui para mim?
+[00:10:42:10 --> 00:10:47:17] Eu não quero saber da sua habilidade técnica, até porque o seu cliente não sabe o resultado
+[00:10:47:17 --> 00:10:51:27] que a sua habilidade técnica gera na empresa dele. Isso falando dos clientes tradicionais
+[00:10:51:27 --> 00:10:55:07] que tem empresa, para quem é autônomo ou para quem tem o próprio escritório,
+[00:10:55:16 --> 00:11:00:22] a própria agência, tá? Se você tem o objetivo de conseguir um emprego de designer,
+[00:11:00:27 --> 00:11:04:13] o portfólio é a melhor opção. Porque você vai construir o portfólio para
+[00:11:04:13 --> 00:11:09:14] que os empregadores, que geralmente são outros designers, vejam a sua habilidade técnica
+[00:11:09:14 --> 00:11:14:22] e escolham você. Aí o portfólio faz mais sentido. E a página de vendas, nem tanto.
+[00:11:15:08 --> 00:11:20:00] Olha só o objetivo do portfólio, exibir trabalhos e experiência. Você quer mostrar
+[00:11:20:00 --> 00:11:23:19] os trabalhos que você já fez e quanta experiência você já tem. Já a página
+[00:11:23:19 --> 00:11:28:03] de vendas tem o objetivo de convencer os clientes a investir no serviço. Então,
+[00:11:28:10 --> 00:11:33:13] você vai argumentar, você vai ter mais conteúdo, mais copy do que em um portfólio.
+[00:11:33:13 --> 00:11:39:29] O conteúdo de um portfólio são amostras de trabalho e processos. Você vai mostrar
+[00:11:39:29 --> 00:11:43:25] seu processo de criação, como é que você chegou naquele resultado. Mas o conteúdo
+[00:11:43:25 --> 00:11:48:25] de uma página de vendas são os serviços que você oferece, depoimentos, provas que
+[00:11:48:25 --> 00:11:52:22] você tem de que você consegue entregar aquilo. Como eu disse, a mensagem do portfólio
+[00:11:52:22 --> 00:11:56:27] é veja o que eu consigo fazer. Enquanto a mensagem de uma página de vendas é
+[00:11:56:27 --> 00:11:59:13] Veja o que eu posso fazer por você!
+[00:12:00:15 --> 00:12:04:09] Se a gente analisa a estratégia de marketing, para que que a gente constrói um portfólio?
+[00:12:04:09 --> 00:12:05:19] O que que a gente quer transmitir?
+[00:12:06:00 --> 00:12:07:01] Credibilidade e habilidade.
+[00:12:07:07 --> 00:12:10:06] Isso quer mostrar que eu sou profissional, eu sou bom no que eu faço.
+[00:12:10:22 --> 00:12:16:10] Mas em uma página de vendas, a estratégia de marketing não é credibilidade, é solucionar
+[00:12:16:10 --> 00:12:17:15] as demandas do cliente.
+[00:12:18:02 --> 00:12:23:03] Aqui que as aulas de demanda vão ser importantes para você, tanto a metodologia Acro quanto
+[00:12:23:03 --> 00:12:26:00] as demandas específicas que eu falo para você listar.
+[00:12:26:15 --> 00:12:28:23] E aqui a gente tem outro ponto, olha só, aqui em design.
+[00:12:28:23 --> 00:12:34:01] O design de um portfólio é centrado na criatividade, é por isso que a gente vê tanto portfólio
+[00:12:34:01 --> 00:12:39:06] legal, porque ele é feito para designers mesmo, ele é feito para pessoas criativas verem e
+[00:12:39:06 --> 00:12:40:13] se sentirem encantadas.
+[00:12:40:24 --> 00:12:45:24] O portfólio é para falar com outros designers, empregadores geralmente, pessoas que vão
+[00:12:45:24 --> 00:12:46:16] te contratar.
+[00:12:47:13 --> 00:12:53:11] Já uma página de vendas, você quer ter conversão, olha lá, centrado no usuário
+[00:12:53:11 --> 00:12:54:03] e conversão.
+[00:12:54:11 --> 00:12:56:21] Esse é o design geralmente de uma página de vendas.
+[00:12:56:21 --> 00:13:00:16] Você quer que o cliente clique no botão, que ele agende uma conversa com você, que
+[00:13:00:16 --> 00:13:04:04] ele preenche o formulário para te mandar alguns dados para que você entre em contato.
+[00:13:04:09 --> 00:13:07:16] Você quer uma conversão, você não quer encantar.
+[00:13:07:22 --> 00:13:12:16] Porque o cara que está te contratando, se você está procurando um emprego, ele
+[00:13:12:16 --> 00:13:16:12] vai analisar vários portfólios diferentes e ele vai escolher aquele que mais chamou
+[00:13:16:12 --> 00:13:21:02] a atenção, aquele que demonstrou ter mais capacidade para poder cumprir o cargo.
+[00:13:21:02 --> 00:13:27:05] Agora, um cliente, geralmente ele conhece poucos designers e geralmente ele está pensando
+[00:13:27:05 --> 00:13:31:08] mais em onde eu invisto o meu dinheiro para que a minha empresa evolua.
+[00:13:31:22 --> 00:13:36:21] E a nossa missão na página de vendas é mostrar que ele deve investir no design, ele
+[00:13:36:21 --> 00:13:40:03] deve investir na marca dele, porque isso vai trazer resultados para ele.
+[00:13:40:12 --> 00:13:44:11] Se você está com dificuldade sobre que tipo de resultado o design traz, assista
+[00:13:44:11 --> 00:13:48:06] a aula de demandas abrangentes que eu explico a metodologia Acro e vai ficar muito mais
+[00:13:48:06 --> 00:13:48:25] fácil para você.
+[00:13:48:25 --> 00:13:54:18] Então, existem muitas diferenças entre uma página de vendas e um portfólio.
+[00:13:54:23 --> 00:13:57:11] O tipo de página que eu vou ensinar para vocês a construir aqui hoje
+[00:13:57:11 --> 00:13:59:14] é uma página de vendas.
+[00:13:59:27 --> 00:14:03:24] Para a estrutura que a gente vai seguir aqui, ela faz muito mais sentido,
+[00:14:04:03 --> 00:14:06:22] porque nós queremos tanto ir até os nossos clientes,
+[00:14:06:28 --> 00:14:08:15] quanto atrair os clientes até nós.
+[00:14:09:01 --> 00:14:12:25] Essa é uma estratégia que faz mais sentido para você que quer ser autônomo,
+[00:14:13:00 --> 00:14:14:25] ou que tem o seu próprio escritório de design,
+[00:14:15:06 --> 00:14:16:21] ou que tenha a sua própria agência.
+[00:14:16:21 --> 00:14:22:21] Se você quer ser funcionário, colaborador, crescer de uma outra maneira, que também
+[00:14:22:21 --> 00:14:27:15] é possível, aí você precisa utilizar outras estratégias, principalmente o que eu ensino
+[00:14:27:15 --> 00:14:29:09] para você no módulo de persona.
+[00:14:29:15 --> 00:14:34:09] Lá eu falo bastante sobre a sua marca pessoal, como que você encanta as pessoas e faz elas
+[00:14:34:09 --> 00:14:35:27] quererem estar mais próximas de você.
+[00:14:36:04 --> 00:14:40:29] Eu acredito que aquele módulo é o que faz mais sentido para você que quer conseguir
+[00:14:40:29 --> 00:14:42:02] um emprego, tá?
+[00:14:42:02 --> 00:14:47:10] E se você for construir o seu portfólio para chamar a atenção de um empregador, lembre-se,
+[00:14:47:11 --> 00:14:51:21] o foco lá é mostrar suas habilidades, então sim, uma galeria com seus melhores projetos
+[00:14:51:21 --> 00:14:53:18] é uma estratégia muito interessante.
+[00:14:53:26 --> 00:14:57:11] Então, vamos dar uma olhada aqui no briefing do nosso site, depois que a gente fez essa
+[00:14:57:11 --> 00:14:58:00] análise toda.
+[00:14:58:05 --> 00:15:03:18] Nosso foco principal é apresentar os resultados para o cliente, nosso objetivo é convencer
+[00:15:03:18 --> 00:15:08:15] o cliente a investir no serviço, o conteúdo são os serviços oferecidos, depoimentos
+[00:15:08:15 --> 00:15:13:00] e cases, a mensagem que a gente tem que passar é veja o que eu posso fazer por você, inclusive
+[00:15:13:00 --> 00:15:17:19] se for uma coisa nova, se você tem uma metodologia, pode ser a da Overlens, coloque essa metodologia,
+[00:15:17:21 --> 00:15:23:28] dá um nome para ela, coloque a sua personalidade, a sua identidade nela e venda como algo seu,
+[00:15:24:10 --> 00:15:27:12] porque isso vai trazer exclusividade, vai fazer o cliente querer fechar com você,
+[00:15:27:14 --> 00:15:27:23] tá bom?
+[00:15:28:12 --> 00:15:30:19] Estratégia de marketing, solucionar as demandas.
+[00:15:31:01 --> 00:15:35:19] Então, grande parte do conteúdo dessa página de vendas é focado no cliente e
+[00:15:35:19 --> 00:15:39:27] não em você. Isso é uma das grandes diferenças entre um portfólio e uma página de vendas.
+[00:15:40:04 --> 00:15:46:02] A página de vendas é focada no cliente. O portfólio é focado em você. Essa é uma
+[00:15:46:02 --> 00:15:50:14] diferença grande. O designer é centrado no usuário, a chamada para ação é focada
+[00:15:50:14 --> 00:15:55:03] na solicitação de serviço. Aqui a gente tem tanto a chamada para ação para ele agendar
+[00:15:55:03 --> 00:15:59:13] uma conversa com você, para ele mandar uma mensagem no WhatsApp ou para ele preencher
+[00:15:59:13 --> 00:16:03:12] um formular. A gente vai falar um pouco mais sobre isso já já, beleza? E o público
+[00:16:03:12 --> 00:16:07:28] e salvo clientes em potencial. Então, esse é o briefing que a gente vai trabalhar aqui
+[00:16:07:28 --> 00:16:12:00] agora para construir o seu site. E a primeira coisa que eu quero te mostrar é a estrutura,
+[00:16:12:05 --> 00:16:16:03] tá? Eu lembro que quando eu comecei a fazer site era muito, muito mais difícil do que
+[00:16:16:03 --> 00:16:20:24] é hoje. Hoje você tem opções e isso é o mais interessante. A estrutura que eu
+[00:16:20:24 --> 00:16:26:03] vou te mostrar aqui é uma estrutura simples para a construção de site. Designers profissionais,
+[00:16:26:07 --> 00:16:31:27] designers que trabalham com UI, com UX, geralmente são designers que vão usar
+[00:16:31:27 --> 00:16:37:14] o Figma, provavelmente, que é uma ferramenta onde você consegue prototipar um site, uma
+[00:16:37:14 --> 00:16:44:19] interface, um aplicativo, para que depois você faça o handoff, você passe para os desenvolvedores
+[00:16:45:13 --> 00:16:46:22] programarem esse design.
+[00:16:47:09 --> 00:16:50:07] Então, o Figma é uma ferramenta intermediária.
+[00:16:50:14 --> 00:16:55:06] Se você quer fazer o seu site junto com o programador, ou se você sabe programar,
+[00:16:55:09 --> 00:17:01:13] nem que seja só o front-end, que é HTML, CSS, JavaScript, se você sabe programar
+[00:17:01:13 --> 00:17:05:14] e quer ter essa liberdade, essa caixa de areia, essa folha em branco?
+[00:17:05:19 --> 00:17:07:28] Sim, é melhor você seguir esse processo tradicional,
+[00:17:08:07 --> 00:17:10:04] prototipar o seu site e programá-lo do zero.
+[00:17:11:01 --> 00:17:14:01] Mas muitos designers não sabem programar.
+[00:17:14:10 --> 00:17:16:27] E eu não recomendo, principalmente se você está começando,
+[00:17:17:03 --> 00:17:18:19] que você pague um programador,
+[00:17:18:19 --> 00:17:22:11] porque você não tem esse orçamento para começar e fazer isso,
+[00:17:22:16 --> 00:17:24:16] e você vai gastar também mais tempo.
+[00:17:24:24 --> 00:17:27:14] Porque primeiro você vai ter que desenvolver o protótipo,
+[00:17:27:18 --> 00:17:29:05] enviar para ele e esperar ele programar.
+[00:17:29:23 --> 00:17:35:06] Existem, hoje, opções onde você já desenvolve o protótipo e depois só clica em publicar.
+[00:17:35:10 --> 00:17:38:09] E eu acredito que essa opção é muito boa para quem está começando.
+[00:17:38:10 --> 00:17:43:13] Eu vou dar três ferramentas para vocês aqui hoje de construção de site e se você quiser,
+[00:17:43:18 --> 00:17:47:24] hoje mesmo, depois dessa aula, você já pode começar a fazer seu site.
+[00:17:48:00 --> 00:17:49:17] Tranquilo, hoje é muito mais fácil.
+[00:17:49:17 --> 00:17:53:03] Quem me dera fosse tão fácil assim quando eu comecei lá atrás, tá?
+[00:17:53:10 --> 00:17:58:03] Hoje é muito mais fácil, você pode construir seu site e eu quero te dar essas ferramentas.
+[00:17:58:03 --> 00:18:02:11] Mas, antes da gente falar dessas ferramentas, eu acho muito importante você entender como
+[00:18:02:11 --> 00:18:06:19] construir o site, porque o mais importante para o seu site é o conteúdo que está lá,
+[00:18:07:00 --> 00:18:12:10] ele é muito importante e o jeito como você vai estruturar isso, o seu processo criativo
+[00:18:12:10 --> 00:18:13:10] para construir esse site.
+[00:18:13:23 --> 00:18:18:27] As ferramentas também importam, porque um site pesado também não converte, mas eu
+[00:18:18:27 --> 00:18:23:01] vou dar opções aqui para vocês que, se você fizer da maneira correta, você
+[00:18:23:01 --> 00:18:27:15] vai ter um site que é eficiente, que carrega rápido e que é a parte do conteúdo.
+[00:18:27:15 --> 00:18:29:22] Se você não tem um conteúdo bom, também não vai converter.
+[00:18:30:10 --> 00:18:35:04] E qual que é a estrutura, o processo que eu indico para você que não sabe programar,
+[00:18:35:13 --> 00:18:40:04] que não tem um programador, um desenvolvedor, alguém para poder te ajudar com isso,
+[00:18:40:05 --> 00:18:41:22] ou não tem orçamento para fazer isso?
+[00:18:42:05 --> 00:18:43:11] Essa é a estrutura básica.
+[00:18:44:13 --> 00:18:48:10] Primeiro, você vai desenhar a arquitetura do site, o mapa do site.
+[00:18:48:27 --> 00:18:51:03] Esse mapa do site é a estrutura, tá?
+[00:18:51:03 --> 00:18:53:23] Então, a gente vai definir quais são as páginas que o seu site tem
+[00:18:53:23 --> 00:18:58:00] E depois de definir as páginas, quais são as sessões dessas páginas?
+[00:18:58:08 --> 00:19:02:12] Uma vez que a gente trabalha a estrutura, vou dar duas estruturas aqui muito simples
+[00:19:02:12 --> 00:19:04:15] para vocês, já já eu apresento elas.
+[00:19:04:21 --> 00:19:07:20] Muito simples, mas eu acredito que é suficiente para você começar.
+[00:19:08:01 --> 00:19:10:03] Depois da estrutura, vem o conteúdo.
+[00:19:10:10 --> 00:19:12:13] Você precisa escrever o conteúdo do seu site.
+[00:19:12:22 --> 00:19:16:25] Eu também vou te dar diretrizes sobre isso aqui, porque a simplicidade é muito importante.
+[00:19:17:04 --> 00:19:18:03] Texto demais é ruim.
+[00:19:18:10 --> 00:19:20:26] Você tem que saber estruturar isso bem estruturado.
+[00:19:20:26 --> 00:19:24:11] Depois vem o layout, que aí é o seu design, né?
+[00:19:24:20 --> 00:19:27:29] E aí você precisa apresentar um design bom, porque é isso que você faz.
+[00:19:28:01 --> 00:19:31:11] Casa de ferreira espeto tem que ser de diamante, né?
+[00:19:31:11 --> 00:19:33:24] Pode ser de ferro, porque é isso que você vende.
+[00:19:33:26 --> 00:19:37:12] Você se vende, você vende o seu trabalho e o seu cliente está se analisando.
+[00:19:37:13 --> 00:19:38:20] Não acho que seu cliente é besta, não.
+[00:19:38:21 --> 00:19:41:10] Ele presta atenção nesses detalhes também, ok?
+[00:19:41:15 --> 00:19:43:27] Então vem o layout e por fim a publicação.
+[00:19:44:08 --> 00:19:49:07] Se você escolher fazer o site da maneira tradicional, ou seja, cria o protótipo,
+[00:19:49:07 --> 00:19:51:18] Manda para o desenvolvedor e o desenvolvedor programa.
+[00:19:52:09 --> 00:19:54:07] Tem dois caminhos na publicação.
+[00:19:54:18 --> 00:19:56:13] Ou o desenvolvedor publica para você,
+[00:19:56:24 --> 00:19:58:19] ou você precisa aprender a publicar também.
+[00:19:58:22 --> 00:20:00:10] Geralmente, o desenvolvedor publica,
+[00:20:00:13 --> 00:20:01:28] mas depende de como vocês combinaram.
+[00:20:02:00 --> 00:20:05:07] Pode ser que ele só envie para você uma pasta zipada com o site.
+[00:20:05:15 --> 00:20:07:19] Aí você tem que assinar a hospedagem,
+[00:20:08:01 --> 00:20:09:04] comprar o seu domínio,
+[00:20:09:15 --> 00:20:11:15] subir as pastas na hospedagem,
+[00:20:11:22 --> 00:20:14:00] configurar tudo do seu domínio também
+[00:20:14:00 --> 00:20:15:09] e aí seu site fica no ar.
+[00:20:15:10 --> 00:20:17:16] Então, é mais trabalho para você fazer, ok?
+[00:20:17:16 --> 00:20:19:21] Eu quero simplificar.
+[00:20:22:15 --> 00:20:22:23] Garra o ar!
+[00:20:24:14 --> 00:20:27:10] eu quero simplificar aqui para você hoje.
+[00:20:27:17 --> 00:20:30:13] Então, eu vou apresentar o que eu acredito que é a solução mais simples
+[00:20:30:13 --> 00:20:32:00] que, dependendo, sei lá...
+[00:20:32:20 --> 00:20:35:28] Em dois ou três dias você já tem um site publicado, ok?
+[00:20:36:00 --> 00:20:36:25] Para poder trabalhar.
+[00:20:37:12 --> 00:20:40:00] Então, por isso que eu trouxe uma solução mais simples para você.
+[00:20:40:17 --> 00:20:43:17] Vamos falar aqui, então, primeiro sobre a estrutura.
+[00:20:44:18 --> 00:20:46:20] Eu trouxe duas estruturas para você.
+[00:20:46:28 --> 00:20:53:13] A estrutura básica, que basicamente ela é uma página, onde você passa toda a informação
+[00:20:53:13 --> 00:20:57:09] e aí tem vários botões e esses botões enviam para um formular.
+[00:20:57:23 --> 00:21:00:18] E aí esse formular eu vou recomendar que você utilize uma ferramenta.
+[00:21:00:22 --> 00:21:03:24] Vou compartilhar aqui com você, a gente vai falar de formular também, tá?
+[00:21:04:05 --> 00:21:05:24] Então, essa é a estrutura básica.
+[00:21:05:25 --> 00:21:07:24] Se você está começando, eu recomendo ela para você.
+[00:21:08:01 --> 00:21:10:27] É a página de vendas e um formulario.
+[00:21:11:06 --> 00:21:12:10] Isso é o suficiente.
+[00:21:12:10 --> 00:21:16:25] É o menos, porém, melhor que você precisa para conseguir os seus primeiros clientes.
+[00:21:17:03 --> 00:21:19:25] Depois naturalmente você vai evoluir, ok?
+[00:21:20:10 --> 00:21:24:22] E além da estrutura básica, tem também a estrutura incrementada, que é se você
+[00:21:24:22 --> 00:21:26:26] quiser fazer um site institucional.
+[00:21:27:11 --> 00:21:29:13] Então cada sessão é uma página.
+[00:21:29:21 --> 00:21:35:03] Eu recomendo essas quatro aqui, que é a página principal, sobre você, portfólio
+[00:21:35:03 --> 00:21:35:24] e contato.
+[00:21:36:01 --> 00:21:38:23] Você pode colocar também uma página serviços aqui.
+[00:21:38:23 --> 00:21:44:20] A página de contatos manda para o formular e as outras páginas geralmente mandam para
+[00:21:44:20 --> 00:21:45:24] a página de contato.
+[00:21:46:12 --> 00:21:48:13] Essa é uma outra estrutura que você pode seguir.
+[00:21:48:21 --> 00:21:50:01] Qual que é o problema dessa estrutura?
+[00:21:51:08 --> 00:21:56:00] Primeiro, é mais tempo criando agora e eu acredito que você precisa investir o seu
+[00:21:56:00 --> 00:21:57:23] tempo da maneira correta nesse momento.
+[00:21:58:04 --> 00:22:02:10] Então você vai ter que criar muito mais páginas e vai ter que criar mais conteúdo
+[00:22:02:10 --> 00:22:03:26] para preencher essas páginas.
+[00:22:04:01 --> 00:22:06:21] Eu já perdi muito tempo fazendo site que eu nem usei.
+[00:22:06:21 --> 00:22:10:07] Então, fazer uma página de vendas é melhor até para você otimizar,
+[00:22:10:13 --> 00:22:14:18] porque você vai levar tráfego para essa página e ver se está convertendo.
+[00:22:14:22 --> 00:22:15:03] Não tá?
+[00:22:15:15 --> 00:22:17:28] Nós vamos analisar o que não está convertendo aqui.
+[00:22:18:07 --> 00:22:20:15] As pessoas estão chegando, mas não estão clicando
+[00:22:20:15 --> 00:22:22:11] ou as pessoas não estão nem chegando na página.
+[00:22:22:17 --> 00:22:24:27] A gente faz análise, modifica a página e publica de novo.
+[00:22:25:06 --> 00:22:27:24] Então, com uma página, você consegue otimizar mais rápido
+[00:22:27:24 --> 00:22:31:09] do que tentar fazer já um website todo completo de uma vez.
+[00:22:31:16 --> 00:22:33:24] Com o tempo, você evolui o seu site, tá?
+[00:22:34:06 --> 00:22:35:19] Ter um site é bom por causa disso.
+[00:22:35:19 --> 00:22:41:21] é a sua casa. Então, você vai construindo ela. Você faz uma página inicial, depois você faz a
+[00:22:41:21 --> 00:22:48:06] página de portfólio, que é a galeria, depois você faz a página de sobre, depois você faz a página
+[00:22:48:06 --> 00:22:53:24] de serviço e vai incrementando. Mas a página que converte é a página de vendas. Então, por isso que
+[00:22:53:24 --> 00:22:56:12] eu recomendo a estrutura básica.
+[00:22:57:18 --> 00:23:00:09] para você que está começando e não tem site ainda.
+[00:23:00:18 --> 00:23:02:11] Principalmente você que ainda não tem clientes,
+[00:23:02:14 --> 00:23:03:28] vai captar os seus primeiros clientes.
+[00:23:04:06 --> 00:23:05:17] Essa é a estrutura que eu recomendo.
+[00:23:06:01 --> 00:23:09:02] Dentro dessa estrutura, nós temos que trabalhar o conteúdo.
+[00:23:09:17 --> 00:23:11:16] E aí, como é que a gente vai fazer aqui hoje nessa aula?
+[00:23:12:16 --> 00:23:15:24] Nessa aula, eu vou apresentar para você a estrutura da página.
+[00:23:16:10 --> 00:23:19:07] Então, quantas sessões você precisa colocar
+[00:23:19:07 --> 00:23:20:28] e o que colocar em cada sessão.
+[00:23:21:08 --> 00:23:24:01] Depois, nós vamos gravar uma aula
+[00:23:24:01 --> 00:23:27:26] analisando sites de membros aqui da Overlens.
+[00:23:28:06 --> 00:23:30:02] E aí, nós vamos tirar vários insights lá
+[00:23:30:02 --> 00:23:31:29] de como você deixa o design, principalmente,
+[00:23:32:07 --> 00:23:35:23] tanto o design quanto o conteúdo do site mais afiados, tá?
+[00:23:35:29 --> 00:23:39:06] Para poder conectar com aquele cliente, gerar desejo nele
+[00:23:39:06 --> 00:23:41:14] e, de fato, gerar uma conversão.
+[00:23:41:17 --> 00:23:42:00] Beleza?
+[00:23:42:00 --> 00:23:43:27] Então, hoje aqui é mais sobre a estrutura.
+[00:23:44:03 --> 00:23:45:28] O que eu vou te passar aqui já é suficiente,
+[00:23:46:00 --> 00:23:47:23] porque eu também vou te dar algumas ferramentas,
+[00:23:47:25 --> 00:23:50:29] já é suficiente para que você construa o seu primeiro site
+[00:23:50:29 --> 00:23:52:18] e a gente vá para a próxima etapa, ok?
+[00:23:53:04 --> 00:23:55:24] Qual que é a estrutura, então, do site?
+[00:23:56:07 --> 00:23:59:14] Quais são as sessões, além do header e do footer?
+[00:24:00:14 --> 00:24:03:17] Primeiro, antes de falar das sessões, é legal falar do Header e do Footer.
+[00:24:03:20 --> 00:24:06:07] Header e Footer é cabeçalho e roda-pé, tá bom?
+[00:24:06:21 --> 00:24:09:17] E eu recomendo que você coloque um cabeçalho fixo, ok?
+[00:24:09:26 --> 00:24:13:06] Que quando a pessoa clica no botão, ela rola para a página.
+[00:24:13:13 --> 00:24:15:18] Isso a gente chama de One Page, é uma página única.
+[00:24:15:29 --> 00:24:17:23] E a gente chama de Links Anchora.
+[00:24:17:29 --> 00:24:22:16] Então, você pode colocar lá o sobre, você pode colocar lá projetos,
+[00:24:22:20 --> 00:24:25:29] você pode colocar contato, como se fosse uma página institucional.
+[00:24:26:09 --> 00:24:29:27] Mas quando a pessoa clica no link, ao invés de ir para outra página, ela rola.
+[00:24:29:27 --> 00:24:31:21] Então, a página rola para aquela seção.
+[00:24:32:03 --> 00:24:34:03] São links de âncora, você consegue fazer isso,
+[00:24:34:04 --> 00:24:36:12] é um jeito legal de deixar o seu site completinho,
+[00:24:36:18 --> 00:24:37:29] parecendo um site institucional,
+[00:24:38:08 --> 00:24:41:09] mas, no fundo, é um site de vendas, uma página de vendas,
+[00:24:41:11 --> 00:24:42:28] e não tem várias páginas diferentes.
+[00:24:43:06 --> 00:24:46:04] Mas passa a sensação já de ser uma empresa profissional,
+[00:24:46:05 --> 00:24:47:00] e isso que importa, tá?
+[00:24:47:10 --> 00:24:50:24] Essa é a consideração que eu dou em relação ao header, ao cabeçalho.
+[00:24:50:27 --> 00:24:53:18] Deixe ele fixo, ou seja, ele nunca sai da tela aqui,
+[00:24:53:19 --> 00:24:57:01] ele sempre fica fixado, a página vai rolando, ele continua fixo,
+[00:24:57:05 --> 00:24:59:24] a página vai passando por baixo dele aqui assim,
+[00:24:59:24 --> 00:25:01:18] E ele fica fixo aqui, beleza?
+[00:25:02:02 --> 00:25:03:15] E aí você coloca links de âncora.
+[00:25:03:17 --> 00:25:04:15] Como é que eu vou fazer isso?
+[00:25:04:17 --> 00:25:05:10] Você está falando tudo isso?
+[00:25:05:17 --> 00:25:08:01] Eu vou dar as ferramentas para vocês, fiquem tranquilos, beleza?
+[00:25:08:05 --> 00:25:10:09] Nessa aula aqui ainda, eu vou dar três ferramentas para vocês.
+[00:25:11:19 --> 00:25:12:25] Qual que é a primeira sessão?
+[00:25:13:07 --> 00:25:15:00] A primeira sessão é a promessa.
+[00:25:15:19 --> 00:25:19:20] O primeiro frame do seu site, o primeiro banner, a primeira sessão
+[00:25:19:20 --> 00:25:25:04] precisa trazer uma promessa, uma frase simples, clara e objetiva.
+[00:25:25:13 --> 00:25:27:13] Do que que você entrega para o seu cliente?
+[00:25:27:23 --> 00:25:29:21] Existem várias estruturas que você pode usar.
+[00:25:29:22 --> 00:25:32:11] Você pode, por exemplo, colocar a estrutura do Eu Ajudo.
+[00:25:32:25 --> 00:25:36:00] Eu Ajudo, aí você coloca o seu perfil de cliente, por exemplo.
+[00:25:36:01 --> 00:25:39:03] Posso colocar aqui, Eu Ajudo, donos de franquias.
+[00:25:39:03 --> 00:25:48:28] Então, eu ajudo donos de franquias a gerenciar a sua marca e atrair mais clientes.
+[00:25:49:01 --> 00:25:53:04] Aqui eu coloquei duas coisas inclusive que são separadas, mas eu estou gerando agora.
+[00:25:53:09 --> 00:25:54:19] O que eu quero que você sinta?
+[00:25:55:13 --> 00:25:58:03] O processo criativo não é exato de uma vez.
+[00:25:58:04 --> 00:26:01:22] Quando eu estou criando as frases para o meu site ou para os meus clientes, eu tenho
+[00:26:01:22 --> 00:26:05:07] geralmente um caderno ou o Google Docs na minha frente e eu começo assim, igual
+[00:26:05:07 --> 00:26:12:03] falando para você. Eu ajudo donos de restaurantes a atraírem clientes mais qualificados. Olha
+[00:26:12:03 --> 00:26:16:06] só, uma frase simples, clara e direta. Eu anoto, eu gero alternativas, eu faço várias
+[00:26:16:06 --> 00:26:21:10] frases dessas. Se eu já fiz a identidade verbal do cliente, fica muito mais fácil
+[00:26:21:10 --> 00:26:25:25] fazer o site, porque eu já tenho os clichês, tom de voz, vocabulário da marca, fica
+[00:26:26:12 --> 00:26:30:06] infinitamente mais fácil. Mas se eu não tenho isso, é agora que eu vou gerar essas
+[00:26:30:06 --> 00:26:35:04] alternativas, ok? Tudo que você construiu no módulo de demanda vai te ajudar muito
+[00:26:35:04 --> 00:26:36:03] que é agora também.
+[00:26:36:07 --> 00:26:40:24] Perfil de audio cliente, demandas abrangentes, demandas específicas, objeções, motivos,
+[00:26:41:00 --> 00:26:43:00] tudo isso vai te ajudar muito aqui agora.
+[00:26:43:06 --> 00:26:46:06] Então pega aquele material que você já construiu e traz aqui para a mesa.
+[00:26:46:15 --> 00:26:50:13] Agora é hora de lapidar essa mensagem para que ela seja simples e clara.
+[00:26:50:16 --> 00:26:55:21] Se você analisar o site de grandes marcas, você vai reparar que geralmente a primeira
+[00:26:55:21 --> 00:27:02:03] página é uma frase grande, uma frase maior que vem explicando o benefício.
+[00:27:02:06 --> 00:27:04:24] Ela já vem te prometendo algo, é uma promessa.
+[00:27:04:24 --> 00:27:07:28] E é importante que você seja simples, claro e objetivo aqui, tá?
+[00:27:08:06 --> 00:27:11:22] Para te dar alguns exemplos aqui, olha, vou te dar o exemplo da Overlens.
+[00:27:13:03 --> 00:27:18:19] A Overlens tem uma página que é mais conceitual, que é essa daqui, que está escrito,
+[00:27:18:23 --> 00:27:21:04] lentes infinitas, mundos infinitos.
+[00:27:21:13 --> 00:27:23:25] Aqui eu não estou sendo específico, concorda?
+[00:27:24:03 --> 00:27:27:28] Aqui eu já fui um pouco mais, descubra como usar o design para impulsionar boas ideias.
+[00:27:28:06 --> 00:27:30:14] Então essa é uma frase muito boa, deixei ela destacada.
+[00:27:30:21 --> 00:27:32:23] Mas aqui eu quis ser conceitual, por quê?
+[00:27:33:09 --> 00:27:35:18] Essa é uma página institucional.
+[00:27:36:03 --> 00:27:38:18] Agora, olha a página de vendas da Overlens.
+[00:27:38:18 --> 00:27:40:24] A primeira frase que aparece aqui,
+[00:27:41:03 --> 00:27:43:05] descubra como alcançar a maestria no design.
+[00:27:43:13 --> 00:27:44:23] Eu estou te prometendo.
+[00:27:44:28 --> 00:27:49:08] E é uma frase curta, específica e que gera desejo.
+[00:27:49:11 --> 00:27:51:04] Além disso, eu tenho essa segunda frase aqui,
+[00:27:51:11 --> 00:27:53:14] a jornada profunda no universo do design.
+[00:27:53:23 --> 00:27:56:23] Eu estou definindo qual que é o diferencial da escola,
+[00:27:57:02 --> 00:28:00:03] que são aulas profundas, isso você já sabe, você já está assistindo aqui.
+[00:28:00:12 --> 00:28:02:03] E depois só uma descrição básica,
+[00:28:02:06 --> 00:28:04:14] do básico ao avançado, da teoria à prática.
+[00:28:04:22 --> 00:28:08:05] Aprenda a aplicar os fundamentos do design para criar projetos incríveis.
+[00:28:08:05 --> 00:28:14:15] Essa primeira sessão aqui, com pouco texto, de um jeito limpo e simples, ela já te promete
+[00:28:14:15 --> 00:28:20:08] alguma coisa. Ela já te faz tomar a decisão aqui se você quer saber mais ou não. E é
+[00:28:20:08 --> 00:28:25:23] esse o processo que você tem que seguir para criar uma página de vendas, ok? É uma página
+[00:28:25:23 --> 00:28:31:09] para convencer. Deixe-me pegar um outro exemplo aqui para vocês. Por exemplo, o Wix Studio,
+[00:28:31:22 --> 00:28:35:02] que é uma ferramenta que eu vou apresentar aqui para vocês, os motivos de que eu
+[00:28:35:02 --> 00:28:40:08] você achar interessante. Já começa com uma frase, libere sua criatividade, supere expectativas.
+[00:28:41:20 --> 00:28:48:07] Essa frase aqui não é tão específica, isso aqui podia ser um site de um curso de aquarela.
+[00:28:49:05 --> 00:28:51:08] Não foi específico, aqui a gente foi específico.
+[00:28:51:11 --> 00:28:54:10] Descubra como alcançar maestria no design, do básico ao avançar, teoria prática.
+[00:28:55:15 --> 00:28:58:27] Por que que aqui eles fizeram desse jeito? Eles são uma empresa gigante.
+[00:28:59:06 --> 00:29:03:01] Porque aqui é um jogo de branding, não é um jogo de venda,
+[00:29:03:03 --> 00:29:06:23] não é a página de vendas deles, tá? Aqui eles estão fazendo branding.
+[00:29:06:28 --> 00:29:11:15] Mas olha só como que a segunda frase já é específica.
+[00:29:11:16 --> 00:29:14:09] A plataforma de criação de sites para agências.
+[00:29:14:20 --> 00:29:16:17] Já deixou bem específico aqui para você.
+[00:29:16:29 --> 00:29:18:20] Design excepcional com escala automática, ou seja,
+[00:29:18:23 --> 00:29:21:09] já começou a apresentar os benefícios, que é o que eu vou ensinar para você.
+[00:29:21:09 --> 00:29:25:22] Apresenta benefícios, benefícios, mais benefícios e por aí vai.
+[00:29:25:26 --> 00:29:28:18] Isso aqui já está mais ligado com a página de vendas dele.
+[00:29:29:04 --> 00:29:33:05] Repare que não é um portfólio com vários projetos, tem botões.
+[00:29:33:15 --> 00:29:37:15] E esses botões que aparecem de tempo em tempo, botão, botão, começa a criar,
+[00:29:37:29 --> 00:29:39:08] começa a criar...
+[00:29:39:08 --> 00:29:41:20] Esses botões aqui são chamadas para ação.
+[00:29:41:29 --> 00:29:45:27] Ou seja, essa página tem um objetivo de conversão, ok?
+[00:29:46:08 --> 00:29:47:21] Então, não é um portfólio.
+[00:29:47:24 --> 00:29:48:29] Isso é um exemplo para você ver.
+[00:29:48:29 --> 00:29:59:07] Vamos ver aqui, o Webflow, que é outra, construa com o poder do código sem escrever o código.
+[00:30:00:16 --> 00:30:04:05] Então olha só, também tem um benefício assim, cara, construa com o poder do código
+[00:30:04:05 --> 00:30:06:25] sem escrever nada, sem escrever com o código.
+[00:30:08:17 --> 00:30:10:23] Eu estou deixando claro, eu estou te prometendo alguma coisa.
+[00:30:11:00 --> 00:30:15:22] Então, a primeira sessão da sua página tem que ser uma promessa, tá?
+[00:30:15:22 --> 00:30:17:19] Frase curta e clara sobre o que você faz.
+[00:30:18:05 --> 00:30:19:26] A segunda sessão é o contexto.
+[00:30:20:00 --> 00:30:21:08] Por que você faz o que faz?
+[00:30:21:11 --> 00:30:22:08] Qual é o cenário?
+[00:30:22:15 --> 00:30:24:24] Aqui a gente muda um pouco dessas páginas ali,
+[00:30:25:00 --> 00:30:26:23] porque aquelas são páginas de produtos.
+[00:30:27:06 --> 00:30:30:05] Você pode clicar ali agora e comprar agora o produto, fazer uma assinatura.
+[00:30:30:18 --> 00:30:31:23] Então, a estrutura muda.
+[00:30:31:27 --> 00:30:35:03] Ali eles vão mostrar benefício, benefício, benefício, benefício, benefício, benefício,
+[00:30:35:08 --> 00:30:35:29] compre.
+[00:30:36:03 --> 00:30:37:17] E dúvidas frequentes.
+[00:30:37:17 --> 00:30:41:11] Aqui não, é que a gente vende um serviço e não tem um preço tabelado.
+[00:30:41:18 --> 00:30:45:05] Você quer que o cliente deixe os dados dele para entrar em contato, ou você quer que
+[00:30:45:05 --> 00:30:49:18] o cliente te chame no WhatsApp, ou agente uma conversa com você.
+[00:30:49:25 --> 00:30:50:22] É isso que você quer.
+[00:30:51:04 --> 00:30:55:19] Para isso, você tem que convencer esse seu cliente de clicar no botão.
+[00:30:55:24 --> 00:30:58:06] Como você faz isso se você está vendendo algo do futuro?
+[00:30:58:23 --> 00:31:02:22] Você também vai apresentar benefícios, mas eu gosto de antes falar do problema
+[00:31:02:22 --> 00:31:04:24] do meu cliente, para me conectar com ele.
+[00:31:04:24 --> 00:31:07:17] Então, quando eu falo de contexto ali, qual é o cenário,
+[00:31:07:24 --> 00:31:11:00] é para você apresentar qual é o problema do seu cliente.
+[00:31:11:06 --> 00:31:15:18] Usa a metodologia Acro, Atenção, Conversão, Retensão e Organização.
+[00:31:15:25 --> 00:31:18:17] Você pode criar uma sessão com quatro cards, se você quiser,
+[00:31:18:26 --> 00:31:20:06] para falar sobre esses quatro problemas.
+[00:31:20:07 --> 00:31:22:09] Se você tem problema para atrair os seus clientes,
+[00:31:22:14 --> 00:31:26:05] se você tem problema para poder converter, conquistar novos clientes,
+[00:31:26:08 --> 00:31:28:23] se você tem problema para poder reter esses clientes
+[00:31:28:23 --> 00:31:31:11] e se você tem problema para poder engajar a sua equipe.
+[00:31:31:16 --> 00:31:34:23] São quatro problemas legais que você pode colocar na sua página de vendas.
+[00:31:34:23 --> 00:31:36:27] Porque é isso que vai conectar o seu cliente.
+[00:31:37:00 --> 00:31:39:22] A promessa inicial e o contexto.
+[00:31:39:27 --> 00:31:41:18] Para ele sentir, é esse contexto que eu vivo.
+[00:31:42:02 --> 00:31:44:02] Logo em sequência, você vai reparar aqui,
+[00:31:44:26 --> 00:31:45:25] vem os benefícios.
+[00:31:46:01 --> 00:31:48:26] Então, depois do contexto, na sua página vem os benefícios.
+[00:31:48:29 --> 00:31:52:24] Então, quais são os benefícios que você entrega para esse seu cliente?
+[00:31:52:28 --> 00:31:54:06] E aí, você pode apresentar vários.
+[00:31:54:12 --> 00:31:56:18] Você pode, inclusive, começar a falar do seu serviço.
+[00:31:56:22 --> 00:31:59:02] Então, você tem a consultoria, qual que é o benefício?
+[00:31:59:12 --> 00:32:01:17] Mais clareza sobre o seu modelo de negócio,
+[00:32:01:20 --> 00:32:03:03] mais clareza sobre o seu mercado,
+[00:32:03:10 --> 00:32:04:20] mais clareza sobre a concorrência,
+[00:32:04:20 --> 00:32:10:15] mais clareza sobre o seu público, uma estratégia de posicionamento feita e personalizada para
+[00:32:10:15 --> 00:32:11:21] o seu modelo de negócio.
+[00:32:11:25 --> 00:32:14:21] Como se diferenciar da concorrência, olha, tudo benefício.
+[00:32:14:23 --> 00:32:17:03] Você pode criar cards, você pode fazer sessões.
+[00:32:17:12 --> 00:32:19:02] Como se diferenciar da concorrência.
+[00:32:19:10 --> 00:32:24:21] Como deixar muito claro quais são os seus atributos, os seus diferenciais de mercado.
+[00:32:25:05 --> 00:32:28:08] Como construir uma identidade verbal que se conecta com o seu público.
+[00:32:28:15 --> 00:32:31:07] Como falar de um jeito que convence, que gera desejo.
+[00:32:31:07 --> 00:32:34:28] Como ter uma identidade visual que conecta com o público,
+[00:32:35:01 --> 00:32:36:26] que faz o público desejar a sua empresa,
+[00:32:37:02 --> 00:32:39:14] que faz você atrair os clientes certos.
+[00:32:39:26 --> 00:32:40:23] Tudo isso é benefício.
+[00:32:40:28 --> 00:32:42:02] Você pontua.
+[00:32:42:24 --> 00:32:45:18] Aqui eu estou colocando tópicos, mas você pode fazer uma sessão,
+[00:32:45:23 --> 00:32:47:05] um textinho explicando isso.
+[00:32:47:14 --> 00:32:48:26] Eu recomendo sempre pouco texto,
+[00:32:48:28 --> 00:32:51:20] um parágrafo, no máximo dois parágrafos por sessão.
+[00:32:51:26 --> 00:32:53:21] Mas geralmente um parágrafo é suficiente.
+[00:32:54:02 --> 00:32:55:06] Repare essa estrutura aqui.
+[00:32:56:06 --> 00:32:59:03] Qualquer um desses sites, repara, como é que é pouco texto por vez.
+[00:32:59:06 --> 00:33:01:05] Pouco texto, pouco texto...
+[00:33:01:05 --> 00:33:03:11] Pouco texto, pouco texto...
+[00:33:03:11 --> 00:33:04:22] Um pouquinho de texto por vez.
+[00:33:04:25 --> 00:33:05:20] Vamos lá no x, olha.
+[00:33:06:28 --> 00:33:12:05] Pouquinho texto, pouco texto, pouco texto por vez, tá vendo?
+[00:33:12:16 --> 00:33:15:01] Geralmente é uma frase, é um parágrafo pequeno.
+[00:33:15:05 --> 00:33:16:26] Olha o da Alverlense também, olha.
+[00:33:16:26 --> 00:33:19:14] Pouco texto, parágrafos pequenos...
+[00:33:19:14 --> 00:33:21:09] A Alverlense ainda tem mais texto do que aqueles.
+[00:33:21:18 --> 00:33:23:17] Mas repara que o jeito que eu construi o texto,
+[00:33:23:25 --> 00:33:27:28] ele fica mais convidativo porque é um parágrafozinho pequenininho, tá vendo?
+[00:33:27:28 --> 00:33:32:11] Eu não coloco parágrafos demais porque isso faz as pessoas não quererem ler, ok?
+[00:33:32:14 --> 00:33:36:25] Então, sempre no máximo isso aqui, um parágrafo por vez, beleza?
+[00:33:36:25 --> 00:33:40:22] Isso aqui é muito importante também você seguir essa estrutura.
+[00:33:40:29 --> 00:33:45:19] Uma vez que você já definiu o contexto, definiu benefícios, aí você vai apresentar projetos.
+[00:33:45:25 --> 00:33:49:04] Aqui a gente segue uma estrutura parecida com a proposta encantadora.
+[00:33:49:06 --> 00:33:52:08] Sempre que você promete algo, você prova que você dá conta de entregar.
+[00:33:52:19 --> 00:33:57:17] Aqui você pode mostrar seus projetos como cases, se você quiser, e aí isso é com
+[00:33:57:17 --> 00:33:57:26] tempo.
+[00:33:58:01 --> 00:34:01:22] Inicialmente, eu te recomendo criar uma galeria e colocar imagens de alguns projetos
+[00:34:01:22 --> 00:34:02:27] interessantes que você criou.
+[00:34:03:04 --> 00:34:05:23] Mas com o tempo, você vai incrementando esse site.
+[00:34:05:23 --> 00:34:07:26] Aí você pode fazer quando a pessoa clica na imagem,
+[00:34:08:04 --> 00:34:10:25] ela vai para a apresentação do projeto e vê lá o case,
+[00:34:10:28 --> 00:34:12:21] o que você fez, qual resultado você gerou.
+[00:34:12:24 --> 00:34:14:28] Isso aí é ainda mais impactante para o cliente.
+[00:34:15:00 --> 00:34:17:07] Você também pode colocar depoimentos de clientes,
+[00:34:17:10 --> 00:34:20:05] depoimentos em texto, olha só no caso aqui da Overlens.
+[00:34:20:08 --> 00:34:23:28] A gente tem alguns depoimentos em texto e eu coloquei projetos de alunos.
+[00:34:24:02 --> 00:34:27:14] Isso aqui serve para eu mostrar que tem resultado,
+[00:34:27:16 --> 00:34:29:23] não é só teoria, eu não estou só te vendendo...
+[00:34:29:23 --> 00:34:32:13] Eu prometo, prometo, prometo, olha, coloco benefícios,
+[00:34:32:15 --> 00:34:34:18] está vendo? O tempo inteiro eu estou colocando benefícios.
+[00:34:34:18 --> 00:34:41:14] Coloco benefícios, depois de colocar benefícios, eu provo, estou provando aqui, os alunos falando
+[00:34:41:14 --> 00:34:45:02] o resultado que eles tiveram e eu provo o resultado prático também, os projetos que
+[00:34:45:02 --> 00:34:48:04] eles criaram, que eles venceram do desafio, entendeu?
+[00:34:48:25 --> 00:34:52:20] Então, essa é a estrutura básica para poder construir o seu site.
+[00:34:54:00 --> 00:34:56:18] Definiu, então, as provas que podem ser depoimentos,
+[00:34:56:22 --> 00:34:57:27] podem ser também os seus projetos.
+[00:34:58:00 --> 00:34:59:24] Não precisa também colocar muitos,
+[00:34:59:27 --> 00:35:01:11] e aqui tem uma consideração importante.
+[00:35:01:23 --> 00:35:05:00] É melhor não ter nenhum projeto do que ter um projeto ruim.
+[00:35:05:21 --> 00:35:08:18] Então, a sua página vende como um todo.
+[00:35:08:23 --> 00:35:11:15] Eu já vendi muitos projetos sem mostrar portfólio,
+[00:35:11:19 --> 00:35:13:23] mas mostrando que eu conseguiria entregar o resultado
+[00:35:13:23 --> 00:35:14:17] que o meu cliente queria.
+[00:35:15:02 --> 00:35:16:20] O que você precisa levar em consideração aqui?
+[00:35:16:21 --> 00:35:19:08] Se você tem bons projetos, coloque eles.
+[00:35:19:17 --> 00:35:21:11] Se você tem projetos ruins, não coloque.
+[00:35:21:11 --> 00:35:22:22] Você não precisa colocar todos os projetos
+[00:35:22:22 --> 00:35:23:22] que você já fez na sua vida,
+[00:35:23:22 --> 00:35:26:05] porque isso te desvende, ok?
+[00:35:26:17 --> 00:35:28:09] Então, coloque os seus melhores projetos
+[00:35:28:09 --> 00:35:32:13] e se você considera que um projeto está desvendendo a página que você construiu...
+[00:35:33:17 --> 00:35:37:26] É melhor tirar do que colocar, porque é uma questão de expectativa e realidade.
+[00:35:38:12 --> 00:35:42:07] Você vai prometendo, vai construindo uma expectativa na cabeça do seu cliente.
+[00:35:42:09 --> 00:35:45:21] Você promete, ele vai ficando cada vez com uma expectativa mais elevada.
+[00:35:45:27 --> 00:35:47:21] Aí ele chega e vê um último projeto que você criou.
+[00:35:47:23 --> 00:35:48:26] Ele fala, é isso aqui?
+[00:35:49:10 --> 00:35:50:25] É esse tipo de projeto que ele está falando?
+[00:35:51:05 --> 00:35:52:24] Mas eu não gostei muito desse projeto.
+[00:35:53:07 --> 00:35:57:04] E aí, ele pode se convencer de que não é para ele ir embora,
+[00:35:57:12 --> 00:36:00:07] porque você tinha um projeto ali que te desvendia.
+[00:36:00:29 --> 00:36:03:01] Escolha bem os projetos que você vai colocar lá, tá?
+[00:36:03:01 --> 00:36:05:14] É melhor um projeto bem feito do que dez mal feitos.
+[00:36:05:22 --> 00:36:07:14] É melhor nenhum projeto do que um mal feito.
+[00:36:08:25 --> 00:36:09:27] Toma cuidado com isso.
+[00:36:10:28 --> 00:36:12:28] Ele vem serviços e processos.
+[00:36:13:06 --> 00:36:16:26] Eu acho legal aqui você descrever um pouco o seu serviço,
+[00:36:17:02 --> 00:36:19:10] mas não colocar todos os serviços.
+[00:36:19:15 --> 00:36:21:13] Para essa estratégia que a gente vai seguir aqui,
+[00:36:21:21 --> 00:36:25:22] eu recomendo que você crie um pacote de serviço e coloque as etapas.
+[00:36:25:25 --> 00:36:27:17] Então, coloque investigação e estratégia,
+[00:36:27:21 --> 00:36:29:16] núcleo da marca, identidade verbal e identidade visual.
+[00:36:30:13 --> 00:36:31:09] Coloca o pacote.
+[00:36:31:18 --> 00:36:33:13] Aí, o cliente vai entender tudo que você entrega,
+[00:36:33:16 --> 00:36:34:11] são os seus entregáveis.
+[00:36:34:12 --> 00:36:36:04] Você pode criar uma sessão para isso também,
+[00:36:36:13 --> 00:36:37:10] que é bem interessante.
+[00:36:37:10 --> 00:36:41:22] Beleza? Coloca um botão para chamada para ação também, então, depois coloca lá a
+[00:36:41:22 --> 00:36:48:28] agenda uma consulta ou solicitar orçamento, conversar pelo WhatsApp, você pode escolher
+[00:36:48:28 --> 00:36:53:04] o tipo de CTA que você quer, depende da sua estratégia, mas eu recomendo ter um pacote
+[00:36:53:04 --> 00:36:57:23] para começar. Isso se você vem de serviço de design. Estou reforçando porque às
+[00:36:57:23 --> 00:37:00:25] vezes você tem um modelo de negócio diferente, às vezes você tem um modelo que funciona
+[00:37:00:25 --> 00:37:05:22] mais como e-commerce, igual falei agora cedo no início da aula. Beleza? Analise
+[00:37:05:22 --> 00:37:09:28] o seu modelo de negócio em vez de se fazer sentido. Se você vende um serviço personalizado
+[00:37:09:28 --> 00:37:14:02] com preço personalizado, igual a gente falou na aula de preço também, faz mais sentido
+[00:37:14:02 --> 00:37:18:12] que você tenha uma página de vendas e que você venda esse pacote, esse seu serviço
+[00:37:18:12 --> 00:37:23:04] principal. Depois vem a chamada para ação, onde ele pode solicitar o serviço, então
+[00:37:23:04 --> 00:37:28:25] um banner principal. Claro, nas outras sessões você vai colocar um botão, geralmente
+[00:37:28:25 --> 00:37:33:02] olha só, dando esses exemplos aqui para você, tanto da Overlens. Então a Overlens
+[00:37:33:02 --> 00:37:37:15] você chega aqui, já tem fazer matrícula ou saiba mais, aí você rola um pouco, como
+[00:37:37:15 --> 00:37:38:10] conseguir uma vaga?
+[00:37:38:19 --> 00:37:43:01] Aí tem aqui de novo, fazer matrícula, aí depois você desce mais um pouco, aí tem
+[00:37:43:01 --> 00:37:46:22] deslizar a tela para ver os depoimentos, ver os depoimentos e aí aqui no final tem
+[00:37:47:08 --> 00:37:48:24] para você entrar na lista de espera.
+[00:37:49:10 --> 00:37:52:23] Vamos ver o do Wix, botão para criar, igual eu mostrei, mais botão para ver
+[00:37:52:23 --> 00:37:56:04] recursos, mais botão para poder começar agora, mais um botão para começar agora,
+[00:37:56:15 --> 00:37:59:28] mais um botão para começar agora, a mesma coisa você vai encontrar aqui, então isso
+[00:37:59:28 --> 00:38:03:13] é um padrão, tá? Você quer converter, então, olha, começa a construir...
+[00:38:04:13 --> 00:38:06:10] Comece agora, é grátis.
+[00:38:08:12 --> 00:38:10:21] Começar é grátis e para aí vai, tá vendo?
+[00:38:11:00 --> 00:38:13:23] Ler mais e provavelmente vai ter mais um botão.
+[00:38:14:00 --> 00:38:14:20] Vai conhecer a empresa.
+[00:38:16:26 --> 00:38:17:06] Organização...
+[00:38:17:06 --> 00:38:20:27] E olha só o menu fixo que eu falei, o Webflow usa um menu fixo, tá vendo?
+[00:38:22:06 --> 00:38:23:13] Deixa eu ver se o menu fixo dele...
+[00:38:23:13 --> 00:38:25:10] Ah, não. O menu fixo dele aqui, no caso,
+[00:38:25:24 --> 00:38:26:28] é uma página para cada.
+[00:38:26:29 --> 00:38:28:15] Então, ele tem um institucional grande aqui.
+[00:38:28:26 --> 00:38:31:00] Mas, no seu caso, você pode fazer que, quando clica,
+[00:38:31:04 --> 00:38:33:08] ele rola para aquela página principal.
+[00:38:33:19 --> 00:38:34:01] Beleza?
+[00:38:34:05 --> 00:38:36:04] Olha o tamanho desse botão aqui, né?
+[00:38:36:21 --> 00:38:37:02] Legal.
+[00:38:38:25 --> 00:38:39:07] Então...
+[00:38:39:07 --> 00:38:40:24] Isso é o CTA, é a chamada para ação.
+[00:38:40:29 --> 00:38:42:09] De tempo em tempo, você vai fazendo,
+[00:38:42:12 --> 00:38:44:25] mas você vai reservar uma sessão,
+[00:38:44:29 --> 00:38:46:16] igual aqui, reservei essa sessão,
+[00:38:46:21 --> 00:38:48:08] para apresentar tudo que está incluso...
+[00:38:49:20 --> 00:38:52:19] ele fazer a solicitação, aqui no caso para entrar na lista de espera.
+[00:38:53:04 --> 00:38:57:11] No caso do serviço, aí você pode colocar solicitar orçamento,
+[00:38:57:19 --> 00:39:01:20] pode colocar chamar no WhatsApp, pode colocar também agendar uma conversa.
+[00:39:01:23 --> 00:39:04:01] Pode colocar qualquer uma dessas opções aí, tá?
+[00:39:04:14 --> 00:39:08:08] Se você colocar agendar uma conversa, a gente vai começar a falar já já sobre formulário,
+[00:39:08:11 --> 00:39:10:24] tem algumas ferramentas que eu quero indicar aqui para você,
+[00:39:11:08 --> 00:39:13:01] eu vou até colocar aqui para eu não esquecer essa.
+[00:39:14:07 --> 00:39:15:21] para poder agendar.
+[00:39:16:09 --> 00:39:19:20] Mas, beleza, o que mais a gente tem aqui na estrutura?
+[00:39:19:24 --> 00:39:20:12] Quem somos?
+[00:39:20:15 --> 00:39:23:29] É legal ter uma sessão, depois desses CTAs todos, sobre você.
+[00:39:24:02 --> 00:39:24:17] Quem sou eu?
+[00:39:24:22 --> 00:39:25:24] Por que eu faço o que eu faço?
+[00:39:25:24 --> 00:39:28:17] Um textinho pequenininho, um ou dois parágrafos, é suficiente,
+[00:39:29:00 --> 00:39:31:02] falando sobre a sua abordagem, o que você acredita.
+[00:39:31:11 --> 00:39:34:21] E, por fim, mas não menos importante, muito importante, na verdade,
+[00:39:35:00 --> 00:39:36:12] as dúvidas frequentes.
+[00:39:36:23 --> 00:39:39:18] Aqui, você vai colocar as objeções que você listou
+[00:39:39:18 --> 00:39:41:15] lá no módulo de demanda, tá?
+[00:39:41:15 --> 00:39:45:06] Então, as objeções aqui sobre tempo, dinheiro, sobre... Será que isso é mesmo para mim?
+[00:39:45:14 --> 00:39:49:16] Você vai criar uma sessão de perguntas e respostas e vai colocar lá os acordeons,
+[00:39:49:20 --> 00:39:53:14] que é aquele que quando você clica, abre texto aqui. Olha, deixa eu mostrar na prática
+[00:39:53:14 --> 00:39:55:00] aqui da Overlens.
+[00:39:57:00 --> 00:40:02:05] Isso aqui são perguntas frequentes. Você abre e pode ler aqui e tirar suas dúvidas.
+[00:40:02:14 --> 00:40:06:01] Essa é uma sessão muito boa para resolver as objeções do cliente.
+[00:40:06:03 --> 00:40:07:26] Às vezes ele está com uma questão na cabeça dele,
+[00:40:08:06 --> 00:40:10:26] mas eu gostei da página, parece interessante, mas será que isso é mesmo para mim?
+[00:40:11:16 --> 00:40:14:18] Aí tem lá, perguntas frequentes. Será que isso realmente...
+[00:40:14:18 --> 00:40:16:15] Será que funciona para o meu modelo de negócio?
+[00:40:17:00 --> 00:40:19:25] O cliente olha, clica, aí tem lá uma resolução de objeção.
+[00:40:20:12 --> 00:40:22:16] Então, essa é uma sessão muito importante também.
+[00:40:22:28 --> 00:40:25:22] Depois dela, basicamente, vem o footer, o rodapé.
+[00:40:26:21 --> 00:40:30:13] Essa é a estrutura para construir a página de vendas.
+[00:40:30:20 --> 00:40:34:21] Todos os botões vão levar para o formulário ou para o WhatsApp, depende do que você vai
+[00:40:34:21 --> 00:40:35:04] escolher.
+[00:40:35:17 --> 00:40:39:03] Eu estou dando 3 opções para você, mandar para o WhatsApp direto, mandar para o form
+[00:40:39:03 --> 00:40:42:15] e mandar para o agendamento, tá?
+[00:40:42:17 --> 00:40:47:01] E agora eu quero falar qual que eu considero mais eficiente e por que.
+[00:40:47:21 --> 00:40:49:23] Vamos começar falando sobre o agendamento.
+[00:40:50:11 --> 00:40:53:26] O agendamento é muito legal, tem até uma ferramenta aqui, olha, se você optar
+[00:40:53:26 --> 00:40:58:02] por essa opção, se você optar por essa opção é ótimo. Se você escolher essa
+[00:40:58:27 --> 00:41:06:05] opção, eu recomendo para você usar o Calendly. Essa ferramenta aqui permite que você defina
+[00:41:06:05 --> 00:41:10:17] quais dias da sua semana e quais horários você tem disponível. E aí ela cria uma
+[00:41:10:17 --> 00:41:15:00] pagina para você, deixa eu ver esse aqui em produto, mostra. Aqui ó, é igual esse
+[00:41:15:00 --> 00:41:19:06] aqui. Cria uma pagina assim para você, você pode colocar o seu nome aqui por exemplo,
+[00:41:19:06 --> 00:41:25:19] consultoria de design, coloco o tempo e o cliente pode escolher o dia e a hora que ele
+[00:41:25:19 --> 00:41:26:21] quer agendar com você.
+[00:41:27:04 --> 00:41:29:23] Então é um jeito de agendar muito mais fácil, tá?
+[00:41:30:11 --> 00:41:34:12] E é interessante se você já quer que o cliente agente com você, aí você basicamente
+[00:41:34:12 --> 00:41:36:15] tem as conversas, você vai conversando com muita gente.
+[00:41:36:24 --> 00:41:40:12] É interessante se você quer ter um contato mais próximo, se você quer conversar com
+[00:41:40:12 --> 00:41:40:26] pessoas.
+[00:41:41:06 --> 00:41:45:02] E tem uma coisa interessante nessa estratégia que é, você agenda com o cliente, conversa
+[00:41:45:02 --> 00:41:45:14] com ele.
+[00:41:45:14 --> 00:41:49:12] O seu objetivo é vender para ele naquele momento, mas se você não conseguir vender,
+[00:41:49:17 --> 00:41:50:17] você pode pedir uma indicação.
+[00:41:51:08 --> 00:41:56:06] Você conhece alguém, um conhecido, um amigo, que tem um negócio que se encaixa, que você
+[00:41:56:06 --> 00:41:59:19] acredita que poderia aproveitar muito isso tudo que eu te mostrei aqui hoje?
+[00:41:59:26 --> 00:42:02:06] E aí você ganha uma indicação e pode utilizar isso na venda.
+[00:42:02:09 --> 00:42:05:29] Eu vou falar mais sobre isso com vocês nas próximas aulas, mas é uma estratégia
+[00:42:05:29 --> 00:42:07:00] interessante, tá?
+[00:42:07:18 --> 00:42:11:11] Por que eu acho que ela não é a mais interessante aqui para o nosso modelo?
+[00:42:12:02 --> 00:42:14:17] Porque você não qualifica o seu cliente antes.
+[00:42:14:17 --> 00:42:17:27] Então, qualquer pessoa pode agendar uma conversa com você.
+[00:42:18:07 --> 00:42:20:23] E isso vai demandar muito tempo seu.
+[00:42:21:21 --> 00:42:25:28] Você vai ficar tendo muitas conversas até você vender uma,
+[00:42:25:29 --> 00:42:28:21] porque você não qualificou esse cliente antes.
+[00:42:28:27 --> 00:42:31:13] Qualquer tipo de cliente que caiu no seu site e agendou,
+[00:42:31:23 --> 00:42:32:19] pode conversar com você.
+[00:42:33:04 --> 00:42:35:09] Isso também pode ser que o cliente agenda e esqueça,
+[00:42:35:12 --> 00:42:38:07] e aí você tem aquele horário reservado e perdeu aquele horário.
+[00:42:38:16 --> 00:42:40:05] Então, tem sim seus benefícios,
+[00:42:40:06 --> 00:42:42:13] mas também tem os ônus e os bônus.
+[00:42:42:13 --> 00:42:46:13] né? Então, tem que levar isso em consideração. Tem um outro modelo que eu acredito que é
+[00:42:46:13 --> 00:42:49:24] melhor, que é o modelo de formulário, mas eu vou falar dele já já, antes disso eu
+[00:42:49:24 --> 00:42:55:12] quero falar sobre o WhatsApp. Se você quiser, você pode colocar em todos os seus botões
+[00:42:55:12 --> 00:42:59:23] para direcionar para uma conversa com você no WhatsApp. Esse também é um modelo interessante
+[00:42:59:23 --> 00:43:04:28] para você ter um contato mais direto, que é o que? Chamar no WhatsApp. Interessou
+[00:43:04:28 --> 00:43:08:05] pelo serviço? Clique no botão abaixo para me chamar no WhatsApp e a gente começar
+[00:43:08:05 --> 00:43:12:29] uma conversa. O cliente clicou, direciona para o seu WhatsApp, você coloca o link do
+[00:43:12:29 --> 00:43:17:20] seu WhatsApp, direciona para ele e aí ele manda uma mensagem. Isso é legal, vai trazendo
+[00:43:17:20 --> 00:43:22:14] muitas pessoas para você, mas cai no mesmo problema de qualificação de clientes. Por
+[00:43:22:14 --> 00:43:27:25] quê? Imagina que você acorda e tem lá 50 mensagens de WhatsApp para você ler.
+[00:43:28:14 --> 00:43:33:20] E esses clientes também não estão qualificados ainda. Então, no meio dessas 50 mensagens
+[00:43:33:20 --> 00:43:39:11] para responder, tem clientes ali que são seus clientes ideais, mas você vai ter que
+[00:43:39:11 --> 00:43:41:24] minerar um por um para chegar neles.
+[00:43:42:00 --> 00:43:44:00] Olha o tempo que você vai gastar.
+[00:43:44:04 --> 00:43:48:07] Talvez no início você vai achar interessante porque não tem ninguém chegando, aí começa
+[00:43:48:07 --> 00:43:50:27] a chegar a gente para conversar com você no WhatsApp, isso é legal, porque é uma
+[00:43:50:27 --> 00:43:51:18] oportunidade.
+[00:43:51:26 --> 00:43:53:01] Então eu concordo, é muito bom.
+[00:43:53:15 --> 00:43:58:03] Mas depois que você começa a fazer esse carrinho andar mais rápido, vão chegar
+[00:43:58:03 --> 00:44:00:15] muitos clientes e você não vai dar conta de responder todo mundo.
+[00:44:00:15 --> 00:44:03:26] É por isso que eu recomendo o formulário.
+[00:44:04:06 --> 00:44:07:27] Tem duas maneiras, na verdade são três maneiras de construir o seu formulário.
+[00:44:08:08 --> 00:44:10:23] Eu quero apresentar aqui para vocês, porque talvez a questão que você tenha é ruim,
+[00:44:10:25 --> 00:44:14:13] mas esse formulário não é muito chato, a pessoa ficar respondendo lá aquele tanto
+[00:44:14:13 --> 00:44:19:09] de input, ela ver aquela ficha técnica de cadastro, já desanima na hora, concordo
+[00:44:19:09 --> 00:44:20:23] 100% com você.
+[00:44:21:02 --> 00:44:24:26] Essa é uma opção, mas não é a melhor opção, não é nem a opção que eu te
+[00:44:24:26 --> 00:44:25:29] recomendo, ok?
+[00:44:25:29 --> 00:44:31:23] Se você vai criar um formulário, existem outras ferramentas que são mais eficientes,
+[00:44:32:05 --> 00:44:37:28] que são as ferramentas de survey, de pesquisa, que eu já vou te mostrar aqui, e o chat
+[00:44:37:28 --> 00:44:38:12] e pote.
+[00:44:38:17 --> 00:44:43:18] Você pode utilizar uma dessas duas que você vai ter uma experiência muito melhor.
+[00:44:43:22 --> 00:44:47:23] No final o que você quer são os dados do cliente, principalmente nome, e-mail, telefone,
+[00:44:47:29 --> 00:44:52:27] para você entrar em contato com esse cliente e aí sim ter uma conversa.
+[00:44:52:27 --> 00:44:56:12] Mas o que eu acho que é mais legal de fazer esse tipo de abordagem?
+[00:44:56:20 --> 00:44:59:08] Que você consegue qualificar o cliente antes.
+[00:44:59:16 --> 00:45:04:07] Você consegue saber se aquele cliente está dentro do seu perfil de cliente ideal ou não.
+[00:45:04:12 --> 00:45:07:29] E se ele não tiver, você deixa para entrar em contato com ele por último.
+[00:45:08:00 --> 00:45:11:11] Ele perde prioridade na hierarquia de clientes.
+[00:45:11:19 --> 00:45:13:26] Você, pelas respostas que o seu cliente te dá,
+[00:45:14:07 --> 00:45:17:03] você já começa a filtrar aqueles que têm maior probabilidade
+[00:45:17:03 --> 00:45:20:00] de serem o perfil ideal de cliente, ok?
+[00:45:20:00 --> 00:45:24:00] Então, vamos dar uma olhada aqui em algumas dessas ferramentas.
+[00:45:24:09 --> 00:45:28:11] A primeira ferramenta que eu quero compartilhar com vocês é a ferramenta que se chama Tally.
+[00:45:29:02 --> 00:45:33:01] Ela é uma alternativa ao Typeform, que talvez você conheça.
+[00:45:33:17 --> 00:45:37:24] Porém, o Typeform, com o tempo, quando você começa a construir uma lista muito grande,
+[00:45:38:06 --> 00:45:39:14] ele começa a ficar muito caro.
+[00:45:39:26 --> 00:45:41:14] Qual que é o legal desse tipo de pesquisa?
+[00:45:41:17 --> 00:45:43:05] Só para você visualizar aqui, tá?
+[00:45:44:13 --> 00:45:49:14] Funciona mais ou menos assim, o cliente vai passar pergunta por pergunta, então fica muito
+[00:45:49:14 --> 00:45:53:28] mais digerido pra ele do que ver aquele formulário gigante, tá vendo? Ele vai e uma pergunta
+[00:45:53:28 --> 00:46:00:13] de cada vez, ok, qual é o seu email? Riley, quer 20% de desconto na próxima compra? Ok,
+[00:46:00:18 --> 00:46:03:22] qual é o seu email? Ela vai pergunta por pergunta.
+[00:46:05:12 --> 00:46:08:03] e aí fica muito mais fluido para o seu cliente responder.
+[00:46:09:03 --> 00:46:12:10] O Typeform é excelente, a experiência de usuário dele é muito boa,
+[00:46:12:22 --> 00:46:13:29] é uma ferramenta incrível,
+[00:46:14:10 --> 00:46:16:24] mas o preço dele pode ser caro.
+[00:46:16:25 --> 00:46:19:18] Tem uma versão gratuita, mas ela permite poucos contatos
+[00:46:20:06 --> 00:46:22:06] e fica escrito o Typeform lá no final.
+[00:46:23:03 --> 00:46:24:20] E aí é por isso que eu trouxe...
+[00:46:25:16 --> 00:46:31:06] O Tally também te permite uma personalização, ele é muito parecido com o Notion, o jeito
+[00:46:31:06 --> 00:46:34:29] de criar o form aqui é bem parecido com o Notion, tá?
+[00:46:35:09 --> 00:46:38:03] Tem até o Notion aqui, eu acho que foram dos mesmos criadores.
+[00:46:38:17 --> 00:46:43:05] Mas o legal é que você tem uma personalização interessante na hora que você cria e você
+[00:46:43:05 --> 00:46:45:13] pode criar uma pergunta de cada vez.
+[00:46:45:28 --> 00:46:47:02] Isso é o mais importante.
+[00:46:47:08 --> 00:46:52:18] Você consegue ainda criar um fluxo, fazer perguntas específicas de acordo com as respostas
+[00:46:52:18 --> 00:46:53:18] que o seu cliente te deu.
+[00:46:53:18 --> 00:46:59:12] Então, é uma ferramenta que faz muito mais sentido, olha só, você personaliza a pesquisa
+[00:46:59:12 --> 00:47:05:08] e fica muito mais fácil do seu cliente responder, não é aquele formulário chato, frio, desconectado
+[00:47:05:08 --> 00:47:06:24] que ninguém gosta de responder, tá vendo?
+[00:47:07:06 --> 00:47:10:25] Você personaliza e aí o cliente vai pergunta por pergunta.
+[00:47:11:11 --> 00:47:15:09] Então eu recomendo o Tally para você, ele é muito mais acessível do que o Typeform
+[00:47:15:09 --> 00:47:16:26] e é uma opção interessante.
+[00:47:17:05 --> 00:47:18:05] E aí, como é que funcionaria?
+[00:47:18:20 --> 00:47:23:08] Você vai criar o seu site e quando tiver um botão, aqui no caso da Overlens, você
+[00:47:23:08 --> 00:47:27:24] fazer matrícula, mas o seu provavelmente vai ser solicitar um orçamento. Você pode
+[00:47:27:24 --> 00:47:33:23] colocar o seu tom de voz também, buscar caminhos diferentes, tipo, bora conversar. Pode ser,
+[00:47:33:26 --> 00:47:38:24] depende do seu arquétipo, do seu tom de voz. Então, se fosse, bora conversar, o cliente
+[00:47:38:24 --> 00:47:44:26] clica aqui, bora conversar. Aí você envia ele para o form. Aí começa, olá, tudo
+[00:47:44:26 --> 00:47:48:22] bem? Para a gente começar a nossa conversa, qual é o seu nome? Você pode personalizar
+[00:47:48:22 --> 00:47:51:27] para que isso fique muito mais leve para o seu cliente e é o que eu recomendo.
+[00:47:51:27 --> 00:47:54:28] Uma outra opção bem interessante são os chatbots.
+[00:47:55:01 --> 00:47:56:21] Tem muitas empresas que já utilizam.
+[00:47:56:29 --> 00:47:58:20] O cliente conversa com o chatbot,
+[00:47:59:11 --> 00:48:02:12] então o chatbot faz as perguntas para ele e ele vai passando os dados.
+[00:48:02:23 --> 00:48:04:11] Também dá para fazer desse jeito.
+[00:48:04:21 --> 00:48:07:22] E o legal é que o chatbot não precisa ficar só aqui no cantinho não, tá?
+[00:48:08:13 --> 00:48:12:16] Ele pode ter uma experiência semelhante à experiência da pesquisa.
+[00:48:12:18 --> 00:48:14:28] Então é um chatbot gigante na tela aqui,
+[00:48:15:06 --> 00:48:18:02] ele faz a primeira pergunta, o cliente responde,
+[00:48:18:06 --> 00:48:20:02] e aí vocês vão iniciando a conversa
+[00:48:20:02 --> 00:48:23:05] e aí você pega os dados do cliente com muito mais leveza.
+[00:48:23:17 --> 00:48:24:24] E aí a pergunta que vem agora,
+[00:48:24:28 --> 00:48:29:19] quais são os dados mais relevantes para conseguir filtrar esse cliente?
+[00:48:29:21 --> 00:48:31:19] Então, vamos para as sessões do formulário.
+[00:48:31:27 --> 00:48:33:25] Primeiro, nome e e-mail da pessoa.
+[00:48:33:29 --> 00:48:37:00] Você precisa do nome da pessoa para ter um contato mais próximo.
+[00:48:37:08 --> 00:48:39:09] Imagina, você liga para a pessoa e não sabe nem o nome dela?
+[00:48:39:16 --> 00:48:41:24] Ou então você manda uma mensagem no WhatsApp e não sabe o nome?
+[00:48:41:29 --> 00:48:43:03] Tem que saber o nome da pessoa.
+[00:48:43:17 --> 00:48:46:02] E o e-mail, por mais que nós não vamos centralizar
+[00:48:46:02 --> 00:48:47:17] toda a nossa comunicação no e-mail,
+[00:48:47:26 --> 00:48:49:17] ele é eficiente para envios em massa.
+[00:48:49:17 --> 00:48:51:18] Então depois, quando você tiver muitos clientes,
+[00:48:51:24 --> 00:48:53:13] você vai querer ter pegado o e-mail deles
+[00:48:53:13 --> 00:48:55:17] para mandar um e-mail para todo mundo de uma vez, por exemplo.
+[00:48:56:02 --> 00:48:58:26] O e-mail tem uma taxa de abertura menor do que o WhatsApp,
+[00:48:59:06 --> 00:49:00:17] mas ainda assim,
+[00:49:00:26 --> 00:49:04:09] é interessante que você pegue ele para conversas mais formais
+[00:49:04:09 --> 00:49:05:21] e para envios em massa.
+[00:49:06:14 --> 00:49:07:27] Eu coloquei o WhatsApp lá no final,
+[00:49:08:06 --> 00:49:10:26] mas ele também, ao meu ver, é obrigatório.
+[00:49:11:12 --> 00:49:13:03] Não vale a pena não pedir o WhatsApp,
+[00:49:13:06 --> 00:49:15:17] porque é por aqui que você vai entrar em contato com o cliente.
+[00:49:15:20 --> 00:49:16:19] E tem uma coisa legal.
+[00:49:16:27 --> 00:49:19:09] Por que pedir o WhatsApp e não o número de telefone?
+[00:49:19:09 --> 00:49:22:10] as pessoas têm uma resistência em passar um número de telefone,
+[00:49:22:17 --> 00:49:25:20] porque geralmente elas acham que é para ligar para elas.
+[00:49:25:25 --> 00:49:27:12] Quando você pede um número de WhatsApp,
+[00:49:27:21 --> 00:49:30:02] elas pensam, não, é porque eu vou receber uma mensagem no WhatsApp.
+[00:49:30:12 --> 00:49:33:00] Mesmo que você queira ligar, coloque o WhatsApp,
+[00:49:33:08 --> 00:49:35:29] porque as pessoas tendem a preencher mais inputs de WhatsApp
+[00:49:35:29 --> 00:49:37:20] do que inputs de telefone, tá?
+[00:49:37:20 --> 00:49:40:00] Isso é um dado de conversão e realmente acontece.
+[00:49:40:02 --> 00:49:42:12] Então, coloca o WhatsApp, mas o número é o mesmo.
+[00:49:42:12 --> 00:49:44:00] Se você quiser ligar, você vai poder ligar,
+[00:49:44:02 --> 00:49:45:26] você pode pedir permissão também se você quiser,
+[00:49:46:07 --> 00:49:47:28] mas você pode iniciar a conversa no WhatsApp,
+[00:49:47:28 --> 00:49:53:15] que também super funciona. Então, nome, email e WhatsApp são os três dados básicos
+[00:49:53:15 --> 00:49:57:16] que você tem que pedir. Mas você vai notar que tem outras perguntas ali, são perguntas
+[00:49:57:16 --> 00:50:02:08] de qualificação que eu acho interessantes. Então, o nome da empresa para quê? Para
+[00:50:02:08 --> 00:50:06:25] você fazer uma pesquisa posterior, então se você quiser buscar o CNPJ, buscar mais
+[00:50:06:25 --> 00:50:10:17] informações sobre essa empresa antes de entrar em contato, você consegue e aí você
+[00:50:10:17 --> 00:50:13:22] faz o dever de casa bem feito e já chega preparado, isso é muito bom, então pede
+[00:50:13:26 --> 00:50:18:20] nome da empresa. Que tipo de serviço ele precisa? É uma informação relevante também
+[00:50:18:20 --> 00:50:21:21] para você entender mais ou menos qual é a demanda do seu cliente. Então você pode
+[00:50:21:21 --> 00:50:26:01] colocar lá. E me conta, o que te trouxe até aqui? Você está precisando de um serviço
+[00:50:26:01 --> 00:50:30:10] de consultoria de marca, de criação de identidade de marca, de gestão da sua
+[00:50:30:10 --> 00:50:33:24] marca? Você pode colocar alguns, talvez quatro serviços. Você precisa de um
+[00:50:33:24 --> 00:50:36:26] serviço de branding gestão da marca, você precisa de um serviço de marketing,
+[00:50:37:06 --> 00:50:40:15] você precisa de um serviço de design de identidade de marcas, você precisa de
+[00:50:40:15 --> 00:50:44:15] serviço de consultoria de marca, você pode colocar lá quatro opções e ele escolhe,
+[00:50:44:20 --> 00:50:45:17] a opção que faz mais sentido.
+[00:50:45:24 --> 00:50:49:18] Você pode inclusive colocar qual é o seu maior desafio, tá ali ó, qual é o desafio
+[00:50:49:18 --> 00:50:49:24] atual.
+[00:50:50:04 --> 00:50:55:07] E aqui você pode colocar as quatro opções da metodologia Acro, né?
+[00:50:55:15 --> 00:50:56:21] Quais são as quatro demandas?
+[00:50:57:12 --> 00:50:59:18] Marque as opções que melhor...
+[00:51:02:02 --> 00:51:04:18] Marque as opções que a sua empresa se encaixa.
+[00:51:04:25 --> 00:51:05:11] Então, tem lá.
+[00:51:05:15 --> 00:51:07:10] Sua empresa está buscando por mais atenção,
+[00:51:07:18 --> 00:51:09:15] está buscando por conquistar mais clientes,
+[00:51:09:19 --> 00:51:11:24] está buscando um jeito de conseguir mais retenção,
+[00:51:12:02 --> 00:51:13:25] está buscando um jeito de conseguir mais engajamento,
+[00:51:13:26 --> 00:51:15:20] que é a organização, a metodologia acro.
+[00:51:15:25 --> 00:51:17:04] Você pode colocar as quatro opções,
+[00:51:17:07 --> 00:51:18:21] o cliente pode marcar quantas ele quiser,
+[00:51:19:02 --> 00:51:20:20] mas quais são os seus desafios atuais?
+[00:51:21:01 --> 00:51:21:20] Aí está lá.
+[00:51:21:26 --> 00:51:23:01] Atenção dos clientes,
+[00:51:23:06 --> 00:51:24:14] conquistar novos clientes,
+[00:51:24:23 --> 00:51:27:10] reter esses clientes ou aumentar o engajamento
+[00:51:27:10 --> 00:51:29:02] da equipe interna dos colaboradores.
+[00:51:29:11 --> 00:51:30:20] É uma pergunta muito boa também
+[00:51:30:20 --> 00:51:33:03] para direcionar um pouco o tipo de problema que ele já tem.
+[00:51:33:10 --> 00:51:35:08] Assim, você conseguirá ser mais preciso
+[00:51:35:24 --> 00:51:38:20] ou precisa quando você conversar com esse cliente no WhatsApp
+[00:51:38:20 --> 00:51:41:14] ou quando você ligar para ele, se você quiser ligar também.
+[00:51:41:18 --> 00:51:42:03] Tá beleza?
+[00:51:42:19 --> 00:51:45:05] Outra pergunta legal, quantos colaboradores a empresa tem?
+[00:51:45:16 --> 00:51:49:08] Essa aqui é uma pergunta inteligente,
+[00:51:49:12 --> 00:51:51:07] porque te ajuda a entender o tamanho da empresa.
+[00:51:51:17 --> 00:51:55:24] Por exemplo, se a pessoa coloca lá que tem 10 funcionários,
+[00:51:56:13 --> 00:51:58:29] se ela paga um salário mínimo para cada funcionário,
+[00:51:58:29 --> 00:52:03:24] Você sabe que só de folha de pagamento ali é 10 vezes 1.500 mais o imposto, né?
+[00:52:03:24 --> 00:52:07:27] Então vai dar 15 mil, mas geralmente dá uns 30%, 40% de imposto.
+[00:52:07:27 --> 00:52:12:27] A gente pode colocar aqui uns 20, 25 mil de folha de pagamento.
+[00:52:13:07 --> 00:52:16:20] Isso é só o que paga de folha de pagamento se todo mundo for salário mínimo.
+[00:52:17:08 --> 00:52:18:26] Porque geralmente tem cargos de liderança.
+[00:52:19:04 --> 00:52:22:03] Imagina que ele coloca lá entre 50 e 100 funcionários.
+[00:52:23:00 --> 00:52:28:06] O salário provavelmente, muito provavelmente, a folha de pagamento dessa empresa é muito
+[00:52:28:06 --> 00:52:33:14] mais do que 100 mil reais por mês. Então essa pessoa ou caixa dessa empresa, ele roda
+[00:52:33:14 --> 00:52:39:20] bastante, tem um fluxo ali muito grande. Então, ela tem um orçamento para poder investir.
+[00:52:40:11 --> 00:52:45:13] Isso é uma informação relevante que essa pergunta aqui te traz. Quais são as redes
+[00:52:45:13 --> 00:52:48:29] sociais da empresa? Também para pesquisa posterior. Então, se a empresa possui site
+[00:52:48:29 --> 00:52:54:00] ou redes sociais, coloque o link aqui embaixo, deixa essa opção para eles. Então, essas
+[00:52:54:00 --> 00:52:59:03] são as perguntas que eu considero que são as perguntas base para filtrar. Mas lembra
+[00:52:59:03 --> 00:53:04:16] lá nas aulas de demanda, quando você analisa as objeções do seu cliente e você analisa
+[00:53:04:16 --> 00:53:09:25] o seu perfil de cliente, eu falo para você criar uma planilha, uma tabela e nessa tabela
+[00:53:09:25 --> 00:53:14:23] você colocar os motivos para que esse cliente seja um cliente ideal, o seu filtro para
+[00:53:14:23 --> 00:53:18:23] chegar no cliente ideal. Pois é, às vezes tem uma pergunta que é específica,
+[00:53:18:24 --> 00:53:22:11] que faz sentido para o seu cenário, que vale a pena colocar no formulário.
+[00:53:22:11 --> 00:53:25:06] A única questão que eu te trago aqui é a seguinte.
+[00:53:25:20 --> 00:53:27:11] Não exagera nas perguntas.
+[00:53:27:18 --> 00:53:30:26] Não coloca perguntas demais, porque isso vai diminuir a taxa de conversão.
+[00:53:31:08 --> 00:53:33:26] Então, coloque mais uma ou duas perguntas no máximo,
+[00:53:34:02 --> 00:53:36:18] além dessas aqui que eu trouxe para você.
+[00:53:36:22 --> 00:53:37:06] Beleza?
+[00:53:37:24 --> 00:53:40:02] E aí, se você precisar ajustar alguma coisa a mais também,
+[00:53:40:06 --> 00:53:42:25] você tem que fazer isso de acordo com o seu contexto.
+[00:53:43:01 --> 00:53:45:06] Você pode fazer isso tanto usando o sitebot,
+[00:53:45:14 --> 00:53:48:11] usando também o formulário ficha de cadastro, que eu não recomendo,
+[00:53:48:21 --> 00:53:52:08] ou utilizando as pesquisas.
+[00:53:52:08 --> 00:53:55:05] como o tali, que foi o exemplo que eu te dei aqui.
+[00:53:56:13 --> 00:54:01:25] E aí, a pergunta que vem agora é... Como é que eu construo tudo isso?
+[00:54:01:27 --> 00:54:04:05] O que eu faço agora? Porque eu não sei fazer site.
+[00:54:04:16 --> 00:54:06:17] De onde eu vou partir para construir o meu site?
+[00:54:06:25 --> 00:54:11:03] E como eu disse, nessa aula aqui, nós não vamos construir um site na prática mesmo,
+[00:54:11:19 --> 00:54:15:03] mas eu quero te dar aqui ferramentas para que você consiga trabalhar,
+[00:54:15:08 --> 00:54:17:16] mesmo que você não saiba nada de programação.
+[00:54:17:25 --> 00:54:19:02] E eu vou falar uma coisa para vocês.
+[00:54:19:04 --> 00:54:22:27] A primeira ferramenta que eu vou apresentar, ela me surpreendeu bastante,
+[00:54:23:20 --> 00:54:26:03] porque eu conheci ela lá em 2012, mais ou menos,
+[00:54:26:03 --> 00:54:30:25] E eu critiquei muito ela, eu ficava falando, ah designer de wix, talvez você conheça,
+[00:54:30:27 --> 00:54:35:18] talvez não, mas eu falava, ah designer de wix, site de wix, porque não eram sites bons,
+[00:54:35:27 --> 00:54:39:29] não eram sites otimizados para as redes de pesquisa, então não tinham um SEO bom,
+[00:54:40:08 --> 00:54:43:26] não eram sites otimizados para desempenho, então demorava para carregar, o código era
+[00:54:43:26 --> 00:54:48:07] sujo para caramba, não era tão fácil de fazer, dava bug para caramba, eu não
+[00:54:48:07 --> 00:54:48:24] gostava.
+[00:54:48:28 --> 00:54:52:25] Então, eu aprendi a programar, aprendi a fazer meu site programando HTML, CSS,
+[00:54:52:25 --> 00:54:59:04] JavaScript, se eu tivesse o que você tem hoje, cara, ia ser muito mais fácil pra
+[00:54:59:04 --> 00:54:59:15] mim.
+[00:55:00:04 --> 00:55:04:28] Wix lançou recentemente o Wix Studio, que é uma plataforma para agências, olha só,
+[00:55:04:28 --> 00:55:06:21] Até já mostrei aqui um pouco pra você, né?
+[00:55:07:24 --> 00:55:13:02] Wix Studio, a plataforma de criação de sites para agências. Ele é legal por dois motivos.
+[00:55:13:10 --> 00:55:19:02] Primeiro, é muito fácil construir o seu site aqui, é arrasta e solta mesmo. É como
+[00:55:19:02 --> 00:55:24:04] se você tivesse fazendo site no Figma, claro, nas devidas proporções, né? Mas é como
+[00:55:24:04 --> 00:55:28:00] se você tivesse fazendo um site no Figma e no final você clica aqui em publish e
+[00:55:28:00 --> 00:55:32:22] publica o seu site, com seu domínio e tudo certinho. Não tem a etapa de desenvolvimento
+[00:55:32:22 --> 00:55:37:04] envolvido. Então, para quem está começando, é excelente. Mas uma coisa ainda mais legal
+[00:55:37:04 --> 00:55:41:10] É que o Wix está pronto para entregar sites profissionais hoje.
+[00:55:41:15 --> 00:55:45:22] Sites que têm um desempenho bom e que têm um SEO implacável.
+[00:55:46:10 --> 00:55:48:29] O SEO, que é o Search Engine Optimization,
+[00:55:49:25 --> 00:55:51:25] é a otimização dos recursos de busca.
+[00:55:52:06 --> 00:55:54:25] É como que você otimiza o seu site para o Google
+[00:55:54:25 --> 00:55:57:14] e para o Bing indexarem ele nas primeiras páginas.
+[00:55:57:17 --> 00:56:00:08] Você pontua para aparecer primeiro lá no Google, por exemplo.
+[00:56:00:21 --> 00:56:03:06] E o Wix faz isso muito bem, tá?
+[00:56:03:16 --> 00:56:04:25] Ele faz um SEO muito bem,
+[00:56:04:25 --> 00:56:08:28] porque ele já coloca os metadados para conversar com os robôs dos mecanismos de busca, ele
+[00:56:08:28 --> 00:56:13:24] faz isso muito bem. Ok? E eu vou mostrar aqui para vocês um exemplo, é muito fácil de
+[00:56:13:24 --> 00:56:17:10] criar. Mas antes de falar do Wix, eu quero falar de duas outras opções que são muito
+[00:56:17:10 --> 00:56:21:29] conhecidas e que talvez você queira optar por elas. Eu vou recomendar muito o Wix
+[00:56:21:29 --> 00:56:27:04] para você, porque ele é muito mais fácil de usar, você faz muito mais rápido
+[00:56:27:04 --> 00:56:32:19] e você publica muito mais rápido também, tá? Mas, eu gosto de trazer opções e tem
+[00:56:32:25 --> 00:56:34:00] gente que conhece.
+[00:56:34:03 --> 00:56:35:01] Primeiro, o Webflow.
+[00:56:35:18 --> 00:56:38:01] A proposta do Webflow é diferente da proposta do Wix.
+[00:56:38:05 --> 00:56:43:01] O Wix é muito mais amigável, mais leve, mais fácil de aprender, em um dia você
+[00:56:43:01 --> 00:56:45:08] já aprendeu a fazer um site e já consegue construir.
+[00:56:45:18 --> 00:56:51:19] O Webflow é muito robusto, dá pra fazer muita coisa aqui no Webflow, mas por ser
+[00:56:51:19 --> 00:56:56:21] tão robusto assim que ele é mais difícil de aprender, ele tem uma curva de aprendizado
+[00:56:56:21 --> 00:57:01:17] maior e ele tem um lado mais técnico do que o Wix.
+[00:57:01:17 --> 00:57:06:13] Mas o jeito como o Wix foi construído é diferente do jeito como o Webflow foi construído.
+[00:57:06:19 --> 00:57:07:28] São duas ferramentas diferentes.
+[00:57:08:11 --> 00:57:11:00] Então o Webflow é mais intimidador.
+[00:57:11:11 --> 00:57:15:07] É uma ferramenta muito boa também, dá para você começar a utilizar de graça e
+[00:57:15:07 --> 00:57:18:22] no final você consegue, tem um botão também, publicar.
+[00:57:18:24 --> 00:57:25:09] Então tanto no Webflow quanto no Wix você cria o site todo e depois você publica.
+[00:57:25:10 --> 00:57:29:10] Tem uma outra opção também que muita gente usa, mas eu não recomendo.
+[00:57:29:10 --> 00:57:33:19] Eu estou colocando aqui justamente para não te recomendar ela porque é desnecessário,
+[00:57:33:23 --> 00:57:35:00] que é o Elementor.
+[00:57:35:07 --> 00:57:41:10] O Elementor é um plugin do WordPress para você criar sites como você faz no Wix no
+[00:57:41:10 --> 00:57:41:22] Webflow.
+[00:57:42:00 --> 00:57:44:13] Só que tem um detalhe, ele é feito no WordPress.
+[00:57:45:15 --> 00:57:49:01] E alguns clientes vão querer que você construa no WordPress e aí você tem uma
+[00:57:49:01 --> 00:57:53:04] consideração, algo para levar em conta, mas sempre que você puder, evite, por quê?
+[00:57:53:04 --> 00:57:57:24] O Wordpress é uma ferramenta que foi criada em 2003.
+[00:57:58:19 --> 00:58:02:15] E é uma ferramenta que, apesar de ter evoluído com o tempo,
+[00:58:03:03 --> 00:58:04:16] ela é cheia de gambiarras.
+[00:58:04:17 --> 00:58:07:17] Ela foi construída uma gambiarra dentro da outra.
+[00:58:08:12 --> 00:58:13:09] Então, às vezes dá muito bug, é mais lento, é mais pesado...
+[00:58:13:09 --> 00:58:16:06] E sem tirar que o próprio Elementor é muito mais engessado.
+[00:58:16:13 --> 00:58:18:22] No Wix, você consegue literalmente pegar um texto,
+[00:58:18:27 --> 00:58:21:06] puxar e colocar exatamente onde você quiser.
+[00:58:21:06 --> 00:58:25:19] No Elementor não, é blocado, então você tem que colocar dentro do bloco.
+[00:58:26:06 --> 00:58:30:10] Isso, essa liberdade que o Wix te dá, ela é interessante, você tem que saber usar também,
+[00:58:30:13 --> 00:58:33:21] você tem que saber os conceitos de design, você tem que construir isso de uma maneira
+[00:58:33:21 --> 00:58:36:15] bem construída, senão o seu site vai ficar ruim, né?
+[00:58:36:16 --> 00:58:37:21] Você tem que ter noções de design.
+[00:58:38:04 --> 00:58:42:10] Mas essa liberdade faz com que seja muito mais fácil criar no Wix do que no Elementor.
+[00:58:42:22 --> 00:58:45:04] E aí, além disso, olha só o processo.
+[00:58:45:25 --> 00:58:49:07] Para usar o Elementor você tem que assinar uma hospedagem.
+[00:58:49:07 --> 00:58:54:04] Depois que você assina a hospedagem, você tem que instalar o WordPress nela,
+[00:58:54:12 --> 00:58:58:05] aí você loga no WordPress, você tem que instalar o plugin do Elementor no WordPress,
+[00:58:58:20 --> 00:59:01:18] depois que você instalar o plugin do Elementor no WordPress,
+[00:59:01:29 --> 00:59:03:16] você começa a trabalhar no Elementor.
+[00:59:03:23 --> 00:59:05:18] Só que, apesar do Elementor ser gratuito,
+[00:59:05:28 --> 00:59:10:11] ele tem muitos recursos dele que são travados, que você precisa pagar para ter.
+[00:59:10:19 --> 00:59:12:24] Você já está pagando hospedagem, já está pagando domínio,
+[00:59:12:25 --> 00:59:14:03] ainda tem que pagar o Elementor.
+[00:59:14:13 --> 00:59:18:03] No Wix, você paga o plano, já ganha o domínio no primeiro ano,
+[00:59:19:28 --> 00:59:22:10] Qualquer lugar você vai ter que pagar o domínio anual,
+[00:59:22:17 --> 00:59:24:10] não é exclusividade do Wix não.
+[00:59:25:24 --> 00:59:28:18] Mas você ganha um ano de domínio, você já ganha a hospedagem,
+[00:59:29:13 --> 00:59:31:11] você cria o site like e clica em publicar.
+[00:59:31:14 --> 00:59:33:00] É muito mais rápido.
+[00:59:33:05 --> 00:59:34:21] Eu vou te mostrar aqui na prática agora,
+[00:59:34:22 --> 00:59:37:03] não é só um exemplo para você ver como o Wix é mais fácil.
+[00:59:37:12 --> 00:59:39:10] E eu já critiquei muito o Wix.
+[00:59:39:21 --> 00:59:42:19] Quem é membro mais velho aqui da Overlens sabe,
+[00:59:43:01 --> 00:59:44:27] há pouco tempo atrás eu criticava muito.
+[00:59:44:29 --> 00:59:48:16] Talvez há um ou dois anos atrás eu criticava muito o Wix.
+[00:59:48:20 --> 00:59:51:18] Eu falava, não faz no Wix, é melhor você programar,
+[00:59:51:24 --> 00:59:54:13] é melhor você usar o Webflow...
+[00:59:54:13 --> 00:59:55:16] Mas não faz no Wix.
+[00:59:57:06 --> 01:00:01:24] o Wix evoluiu. E eu fiquei surpreso com o que eu vi. E eu quero te mostrar isso aqui
+[01:00:01:24 --> 01:00:05:21] agora. Para você que está começando, ou para você que também quer vender serviços
+[01:00:05:21 --> 01:00:10:17] de site sem programar, a melhor opção ao meu ver hoje, sem sombra de dúvidas,
+[01:00:10:21 --> 01:00:15:08] é o Wix Studio. Tá? Então olha só, eu já estou logado nessa conta aqui, eu criei
+[01:00:15:08 --> 01:00:19:01] ela só para poder te mostrar, então não tem nada aqui nessa conta, deve ter um site
+[01:00:19:01 --> 01:00:23:25] de teste só. Mas olha que legal, primeira coisa, eles têm uma comunidade muito grande
+[01:00:23:25 --> 01:00:27:23] E você tem como se fosse já uma plataforma aqui para você estudar.
+[01:00:27:29 --> 01:00:32:13] Os cursos aqui são em inglês, mas se você tem o inglês intermediário, ou enferrujado
+[01:00:32:13 --> 01:00:35:00] igual o meu, ainda assim você consegue assistir.
+[01:00:35:09 --> 01:00:39:23] Eu assisti todas essas aulas e eu achei super fácil de entender, eles falam com calma,
+[01:00:39:26 --> 01:00:43:06] falam com clareza, então dá para entender se o seu inglês é intermediário.
+[01:00:43:14 --> 01:00:47:12] Se você não sabe inglês, tem muitos vídeos no YouTube também em português que podem
+[01:00:47:12 --> 01:00:48:06] te ajudar, tá?
+[01:00:48:14 --> 01:00:52:20] Mas cara, olha só, tem muito conteúdo aqui te ajudando, então suporte é o que
+[01:00:52:20 --> 01:00:53:03] não falta.
+[01:00:53:03 --> 01:00:58:02] Isso porque também tem o Wix Academy, que é fora daqui, com mais conteúdos ainda para
+[01:00:58:02 --> 01:00:58:14] você.
+[01:00:58:20 --> 01:01:00:29] Só que eu quero mostrar como criar um site é fácil.
+[01:01:01:09 --> 01:01:04:28] Você pode tanto clicar aqui em criar novo site ou vir aqui em todos os sites, olha,
+[01:01:04:28 --> 01:01:06:27] não tem nenhum, e clicar em criar novo.
+[01:01:07:21 --> 01:01:08:23] Vou clicar aqui para criar.
+[01:01:09:11 --> 01:01:12:00] Detalhe, essa conta aqui eu criei conta gratuita.
+[01:01:12:05 --> 01:01:14:25] Você cria na hora e já fica desse jeito, beleza?
+[01:01:15:17 --> 01:01:18:12] Aí eu escolho se eu quero tela em branco ou se eu quero template.
+[01:01:18:15 --> 01:01:21:27] Tem vários templates aqui, olha, se você quiser já começar de algum lugar para
+[01:01:21:27 --> 01:01:25:18] para ficar mais fácil, você pode pegar alguns desses templates e editar eles.
+[01:01:26:02 --> 01:01:28:04] Talvez esse aqui, vamos só dar uma visualizada.
+[01:01:28:25 --> 01:01:31:05] Você pode pegar esse template, que é bem interessante,
+[01:01:31:29 --> 01:01:37:06] troca o texto, troca as imagens e coloca dentro do seu contexto.
+[01:01:37:13 --> 01:01:39:17] Olha só, é uma página muito bem construída.
+[01:01:40:19 --> 01:01:45:03] Tanto no tablet também, quanto no celular, é uma página interessante, você pode utilizar
+[01:01:45:03 --> 01:01:46:11] esse modelo aqui por exemplo.
+[01:01:47:03 --> 01:01:49:07] E aí, olha só, vamos um pouco de invar usar esse modelo, tá?
+[01:01:49:07 --> 01:01:53:08] Você poderia começar do zero também, é super fácil, mas vamos colocar aqui, editar
+[01:01:53:08 --> 01:01:53:23] template.
+[01:01:54:15 --> 01:01:55:27] Então, vou começar a criar o site.
+[01:01:56:26 --> 01:01:58:02] Olha só que besteira.
+[01:01:58:24 --> 01:02:04:12] Claro, tem algumas ferramentas no Wix que você precisa aprender elas, mas a base
+[01:02:04:12 --> 01:02:05:26] é muito simples, cara.
+[01:02:06:00 --> 01:02:07:04] Não tem segredo...
+[01:02:08:00 --> 01:02:09:25] Ele está carregando a página aqui para a gente.
+[01:02:11:13 --> 01:02:13:26] Acho que até está demorando um pouco mais, porque a página já é completa.
+[01:02:14:00 --> 01:02:16:17] Se você clicar para criar do zero, ele vai mais rápido.
+[01:02:17:04 --> 01:02:19:19] Então, a gente está aqui na versão de desktop, beleza?
+[01:02:20:02 --> 01:02:23:22] Então, ele mostra aqui quando cresce, como vai ficando,
+[01:02:24:04 --> 01:02:25:17] até chegar no limite de desktop.
+[01:02:26:03 --> 01:02:28:12] Olha só como é que faz para poder editar, beleza?
+[01:02:28:24 --> 01:02:30:19] Eu clico aqui duas vezes...
+[01:02:34:14 --> 01:02:35:11] editar texto.
+[01:02:37:22 --> 01:02:38:10] E coloco.
+[01:02:41:06 --> 01:02:43:27] Eu quero editar.
+[01:02:46:02 --> 01:02:46:15] dessa.
+[01:02:48:14 --> 01:02:50:08] Ou é sessão? Acho que é sessão.
+[01:02:51:21 --> 01:02:53:07] Seção.
+[01:02:54:10 --> 01:02:55:20] Escolhi a pior palavra, né?
+[01:02:55:23 --> 01:02:57:11] Sessão com cidilha ou sessão com essência?
+[01:02:57:16 --> 01:02:59:05] Agora eu fiquei na dúvida, mas enfim...
+[01:03:00:07 --> 01:03:05:01] Beleza, mas eu não quero colocar ele exatamente aqui, eu quero colocar ele no centro.
+[01:03:05:09 --> 01:03:06:26] Olha isso aqui, eu quero soltar ele aqui.
+[01:03:07:04 --> 01:03:08:26] Eu quero soltar ele aqui.
+[01:03:09:29 --> 01:03:11:23] A liberdade para trabalhar aqui.
+[01:03:11:28 --> 01:03:12:08] Olha só.
+[01:03:16:02 --> 01:03:18:19] Vamos fazer algumas mudanças aqui, vou colocar desse jeito.
+[01:03:19:23 --> 01:03:21:14] Vamos mudar a versão de celular agora.
+[01:03:22:05 --> 01:03:26:21] Eu tenho esse botão aqui, quero editar o texto, olha só, o texto ficou com medo.
+[01:03:27:04 --> 01:03:29:20] Eu posso vir aqui e arrumar.
+[01:03:33:09 --> 01:03:34:16] Ele já arrumou o texto para mim.
+[01:03:37:03 --> 01:03:37:23] Ajuste.
+[01:03:40:17 --> 01:03:42:03] Coloco aqui o botão para ver o vídeo.
+[01:03:43:07 --> 01:03:48:00] Então, olha como é que é fácil de trabalhar dentro do Wix, tá?
+[01:03:48:00 --> 01:03:48:27] É muito fácil.
+[01:03:49:08 --> 01:03:51:16] Eu vou publicar a página agora para você ver.
+[01:03:51:25 --> 01:03:54:05] Vamos colocar aqui a nossa página, a gente terminou ela.
+[01:03:54:09 --> 01:03:55:18] Você pode mexer no menu, tá?
+[01:03:56:15 --> 01:03:58:10] Deixa eu clicar a sorte certinho no menu.
+[01:03:58:21 --> 01:04:02:08] Abre menu, ele mostra todas as opções, você pode selecionar.
+[01:04:03:00 --> 01:04:05:28] Aqui ficam suas páginas, se você estiver criando mais de uma página.
+[01:04:06:16 --> 01:04:08:05] E olha só como é que você publica isso.
+[01:04:08:21 --> 01:04:10:28] Até aqui, a gente está na versão gratuita.
+[01:04:10:28 --> 01:04:13:05] Então, você consegue publicar de graça também.
+[01:04:13:18 --> 01:04:16:12] Vou colocar aqui teste, ele vai me colocar nesse domínio de graça.
+[01:04:19:04 --> 01:04:21:11] Coloco para publicar e ele publicou.
+[01:04:21:16 --> 01:04:22:29] Eu posso clicar aqui para ver o site.
+[01:04:24:28 --> 01:04:26:28] Tá aqui o meu site, viu como é que carregou rápido.
+[01:04:27:06 --> 01:04:29:22] Então o site é otimizado, carrega bem rápido.
+[01:04:31:15 --> 01:04:32:25] Qual que é a diferença do gratuito?
+[01:04:32:29 --> 01:04:37:03] Primeira diferença, vai vir escrito Feito com o X-Studio aqui e lá no rodapé.
+[01:04:38:09 --> 01:04:39:06] não tem como tirar.
+[01:04:41:07 --> 01:04:42:27] Feito com Wix Studio.
+[01:04:44:07 --> 01:04:48:28] E a segunda coisa é o seu domínio, que vai ficar o domínio.xstudio.io.
+[01:04:49:10 --> 01:04:52:26] Essas são as principais diferenças do gratuito, beleza?
+[01:04:54:02 --> 01:04:54:19] Mas...
+[01:04:55:20 --> 01:05:00:01] Quando você cria um site, você precisa hospedar esse site, que é o lugar onde o site vai
+[01:05:00:01 --> 01:05:00:20] ficar logado.
+[01:05:00:23 --> 01:05:02:12] Eu estou fechando essas páginas aqui para te mostrar.
+[01:05:02:14 --> 01:05:07:20] Por exemplo, tem a GoDaddy, que é um site para hospedagem.
+[01:05:08:10 --> 01:05:10:17] Se você vir aqui em hospedagem de sites...
+[01:05:12:24 --> 01:05:18:01] O preço vai de... tem até de R$9,00 que eu já vi, vai de R$9 até R$30,00 mais ou menos
+[01:05:18:01 --> 01:05:19:05] pra hospedar o seu site.
+[01:05:20:25 --> 01:05:25:15] é o mesmo preço que você paga no x. Se a gente vier aqui comparar planos...
+[01:05:28:08 --> 01:05:30:05] Você vai ver que tem um plano de R$ 22,00.
+[01:05:30:05 --> 01:05:30:15] Olha só.
+[01:05:31:23 --> 01:05:33:08] E aí aqui, o site já vem!
+[01:05:34:17 --> 01:05:38:09] Domínio gratuito no primeiro ano, depois fica na faixa de R$50,00.
+[01:05:38:12 --> 01:05:39:12] Isso é para qualquer um, tá?
+[01:05:40:14 --> 01:05:42:20] Domínio gratuito, R$60,00 no ano.
+[01:05:42:23 --> 01:05:45:03] Então, depois do primeiro ano, fica R$60,00 de domínio aqui.
+[01:05:45:17 --> 01:05:47:26] Em qualquer lugar, você vai comprar o domínio...
+[01:05:47:26 --> 01:05:50:03] Você compra esse domínio com renovação anual.
+[01:05:50:05 --> 01:05:51:29] Você pode comprar vários anos de uma vez, né?
+[01:05:51:29 --> 01:05:53:23] Eu quero comprar três anos de domínio.
+[01:05:54:02 --> 01:05:56:06] Mas você compra o ano mesmo, tá?
+[01:05:56:06 --> 01:05:58:00] Funciona assim, então também não é uma coisa do Wix.
+[01:05:58:21 --> 01:06:02:06] Mas você ganha o domínio gratuito, você ganha a hospedagem
+[01:06:02:23 --> 01:06:03:24] e publica o seu site.
+[01:06:03:24 --> 01:06:06:27] Então, de qualquer maneira, você já ia pagar a hospedagem.
+[01:06:07:06 --> 01:06:12:29] A diferença é que você já cria o site aqui como se você tivesse, olha só, como se você
+[01:06:12:29 --> 01:06:17:10] tivesse criando o seu site no Figma.
+[01:06:18:03 --> 01:06:19:06] Pegar e arrastar.
+[01:06:19:14 --> 01:06:20:16] Você clica duas vezes, olha.
+[01:06:21:20 --> 01:06:29:22] Aqui, ele criou essas linhas guias para o site ficar alinhado, isso aqui é uma...
+[01:06:31:19 --> 01:06:33:27] uma postura boa, tá? É um...
+[01:06:35:05 --> 01:06:36:09] Isso é a palavra, cara!
+[01:06:37:10 --> 01:06:40:22] Quando você cria o grid assim, isso é uma prática muito boa.
+[01:06:40:28 --> 01:06:41:17] Essa é a palavra.
+[01:06:41:27 --> 01:06:46:27] É uma prática boa, que você define ou pede essa distância aqui dos elementos
+[01:06:46:27 --> 01:06:48:16] para que eles fiquem alinhados, tá vendo?
+[01:06:49:01 --> 01:06:51:10] Então, tem vários jeitos de usar o Wix.
+[01:06:51:26 --> 01:06:54:25] Tem o jeito de usar sem conhecimento e o jeito de usar com conhecimento.
+[01:06:54:27 --> 01:06:56:23] O legal é que ele é bem democrático.
+[01:06:57:05 --> 01:06:58:13] Qualquer pessoa consegue utilizar.
+[01:06:58:18 --> 01:07:00:11] Se você tem esses conhecimentos que eu estou te passando,
+[01:07:00:14 --> 01:07:02:07] o seu site vai ficar muito mais alinhado.
+[01:07:02:18 --> 01:07:05:02] Não é à toa que esse site aqui está bem alinhadinho, olha só.
+[01:07:05:04 --> 01:07:06:11] Está muito bem construído.
+[01:07:06:11 --> 01:07:10:17] Inclusive, você pode usar, é uma coisa que eu faria se eu estivesse começando,
+[01:07:10:19 --> 01:07:11:25] quero ter meus primeiros clientes,
+[01:07:12:01 --> 01:07:13:14] eu pegaria um template desses,
+[01:07:13:26 --> 01:07:16:00] mudaria a fonte para a minha fonte,
+[01:07:16:11 --> 01:07:18:28] mudaria os textos, mudaria as cores...
+[01:07:18:28 --> 01:07:21:20] Mas eu usaria esse template sem medo,
+[01:07:21:22 --> 01:07:23:25] porque meu foco é converter os meus clientes.
+[01:07:24:00 --> 01:07:27:11] Esse aqui é um template muito bom, dá para usar ele tranquilo.
+[01:07:27:20 --> 01:07:29:19] Então, se você não tem muito conhecimento
+[01:07:29:19 --> 01:07:30:29] sobre como criar interfaces,
+[01:07:31:11 --> 01:07:33:05] usar um template pode ser muito interessante,
+[01:07:33:12 --> 01:07:36:02] porque você vai literalmente clicar...
+[01:07:36:02 --> 01:07:37:23] Deixa eu sair dessa página aqui...
+[01:07:37:23 --> 01:07:41:04] Isso vai literalmente dar dois cliques aqui e trocar o texto.
+[01:07:45:11 --> 01:07:46:27] É literalmente isso que você vai fazer.
+[01:07:47:10 --> 01:07:50:20] Depois, claro, você tem que vim cá, trocar o link do botão,
+[01:07:50:24 --> 01:07:53:11] mas olha como é intuitivo, cara, não tem segredo.
+[01:07:53:19 --> 01:07:57:11] O link pode ir para a mesma página, ele pode ir para uma URL específica,
+[01:07:57:13 --> 01:07:59:14] igual, por exemplo, você criou lá o form,
+[01:08:00:08 --> 01:08:02:07] e aí, quando clica no botão, vai para o form,
+[01:08:02:10 --> 01:08:05:18] você cola o form aqui, sei lá, vamos por que vai mandar para a página da Overlens.
+[01:08:07:25 --> 01:08:13:15] Eu posso fazer configurações aqui de SEO, ou não, vamos deixar assim mesmo.
+[01:08:15:01 --> 01:08:15:27] E aí, beleza?
+[01:08:16:14 --> 01:08:17:12] O Breakpoint foi atualizado.
+[01:08:17:16 --> 01:08:20:09] Quando você clicar aqui em marcar uma consultoria grátis...
+[01:08:21:08 --> 01:08:22:15] Vamos lá, publica de novo.
+[01:08:25:08 --> 01:08:26:00] e o site.
+[01:08:34:04 --> 01:08:35:13] Vai carregar para a gente, olha...
+[01:08:35:13 --> 01:08:37:22] Quando eu clico aqui, foi para o site da Overlens.
+[01:08:38:04 --> 01:08:40:20] Então, você vai basicamente conectar os botões,
+[01:08:40:28 --> 01:08:42:01] trocar os seus textos,
+[01:08:42:09 --> 01:08:44:14] trocar as cores, trocar as imagens...
+[01:08:44:14 --> 01:08:47:16] E você vai ter uma página bem interessante, tá?
+[01:08:47:25 --> 01:08:49:06] Tem alguns templates bacanas lá.
+[01:08:49:11 --> 01:08:51:01] E aí, você paga R$22,00 por mês
+[01:08:51:01 --> 01:08:52:25] e já pode utilizar o seu site
+[01:08:54:19 --> 01:08:55:29] para conquistar novos clientes.
+[01:08:56:01 --> 01:08:57:25] Então, é por isso que eu recomendo o Ix.
+[01:08:57:26 --> 01:09:00:09] Você está percebendo aqui que ele é muito mais tranquilo de usar
+[01:09:00:09 --> 01:09:01:18] para você que está começando.
+[01:09:01:18 --> 01:09:04:11] Projetos mais robustos, o Wix não vai dar conta.
+[01:09:04:25 --> 01:09:09:08] Talvez projetos que exigem um gerenciamento de banco de dados mais avançado,
+[01:09:09:10 --> 01:09:10:02] ele não dá conta.
+[01:09:10:05 --> 01:09:12:28] Mas até e-commerce você consegue fazer no Wix também.
+[01:09:13:22 --> 01:09:16:29] Uma coisa que é legal é que talvez, aprendendo o Wix,
+[01:09:17:08 --> 01:09:20:15] você possa oferecer o serviço de construção de sites para o seu cliente também.
+[01:09:20:16 --> 01:09:24:05] Isso agrega muito nos pacotes de design de identidade de marcas,
+[01:09:24:09 --> 01:09:25:22] como um dos pontos de contato.
+[01:09:25:26 --> 01:09:28:23] Geralmente, os projetos que eu fecho é em torno de R$15,000, R$20,000,
+[01:09:28:23 --> 01:09:32:29] mais, eu coloco o site junto também, agrega muito valor, os clientes valorizam muito isso.
+[01:09:33:04 --> 01:09:38:11] É uma coisa que você pode fazer, mesmo que você não saiba programar, hoje você consegue
+[01:09:38:11 --> 01:09:46:08] criar sites muito bons, otimizados, com ótimo desempenho, feito sem codificar, sem código
+[01:09:46:08 --> 01:09:46:19] nenhum.
+[01:09:46:29 --> 01:09:48:26] E isso é o que é o mais interessante, ok?
+[01:09:49:10 --> 01:09:54:25] Essa foi então a nossa aula sobre como construir o seu website, em algum momento
+[01:09:54:25 --> 01:09:57:23] nós vamos adicionar aqui na plataforma, dependendo de quando você está assistindo
+[01:09:57:23 --> 01:10:01:15] desse vídeo, você já vai ter essa aula, dependendo do não, mas nós vamos colocar
+[01:10:01:15 --> 01:10:06:23] aqui na plataforma para vocês algumas análises de sites de membros, para tirarem sites sobre
+[01:10:06:23 --> 01:10:10:22] o conteúdo que eles colocaram e sobre o design deles também.
+[01:10:10:28 --> 01:10:15:10] Espero que você curta e agora te vejo na próxima aula, até mais!

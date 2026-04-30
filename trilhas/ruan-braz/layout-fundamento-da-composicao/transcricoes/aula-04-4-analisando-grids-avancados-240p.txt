@@ -1,0 +1,2098 @@
+# Video: 4._analisando_grids_avançados (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-29 10:56
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:03 --> 00:00:04:20] Nessa aula, nós vamos falar sobre grids clássicos e grids avançados,
+[00:00:04:21 --> 00:00:07:26] dando sequência na nossa última aula, que foi a aula sobre grids modulares,
+[00:00:08:00 --> 00:00:09:27] como criar grids modulares.
+[00:00:10:08 --> 00:00:16:11] Nessa aula aqui, nós vamos analisar alguns projetos, alguns casos.
+[00:00:16:17 --> 00:00:20:17] Vamos analisar uma pintura, vamos analisar algumas fotografias,
+[00:00:20:23 --> 00:00:22:10] vamos analisar também...
+[00:00:23:13 --> 00:00:24:18] Na verdade, são duas pinturas.
+[00:00:24:20 --> 00:00:27:20] Eu ia falar um cartaz e uma pintura, mas são duas pinturas aqui.
+[00:00:27:20 --> 00:00:31:26] E eu vou mostrar para vocês uma série de grids, e mais importante do que mostrar série
+[00:00:31:26 --> 00:00:36:11] de grids, eu vou pensar o raciocínio que vocês precisam ter para construir grids mais
+[00:00:36:11 --> 00:00:41:06] avançados, grids utilizando proporção áurea, grids utilizando algumas regras que vão
+[00:00:41:06 --> 00:00:45:29] fazer as suas composições puxarem o olho das pessoas, assim como a gravidade nos
+[00:00:45:29 --> 00:00:47:21] puxa para o chão, tá bom?
+[00:00:47:25 --> 00:00:51:15] Então é uma aula de análise, é uma aula que é importante que você tenha assistido
+[00:00:51:15 --> 00:00:55:26] a outra primeiro, porque eu vou direto ao ponto aqui, tá bom?
+[00:00:55:26 --> 00:01:01:24] Tito esses recados, então, bora pra cima. Primeira coisa que a gente vai ver são alguns conceitos básicos,
+[00:01:02:03 --> 00:01:05:01] que eu coloquei conceito básico de proporção, porque é um só na verdade,
+[00:01:06:03 --> 00:01:09:23] e é importante a gente falar sobre ele antes de entrarmos no grid.
+[00:01:10:01 --> 00:01:13:04] Isso daqui já foi abordado em outras aulas, mas só pra recapitular.
+[00:01:13:15 --> 00:01:21:23] Que é o retângulo de raiz de 2, retângulo de raiz de 3, de 4, de 5, a construção deles e os formatos que eles geram, tá bom?
+[00:01:21:23 --> 00:01:23:26] O que é um retângulo raiz de 2?
+[00:01:24:01 --> 00:01:31:29] É um retângulo que a razão dele, ou seja, a divisão entre largura e altura, dá exatamente
+[00:01:31:29 --> 00:01:33:10] o resultado da raiz de 2.
+[00:01:33:14 --> 00:01:34:08] Qual é a raiz de 2?
+[00:01:34:13 --> 00:01:38:05] Eu já coloquei aqui para a gente, olha, 1,414.
+[00:01:38:11 --> 00:01:41:02] Como que eu sei chegar na raiz de 2?
+[00:01:41:02 --> 00:01:44:27] É fácil, você pode abrir seu calculador e colocar, aperta o número 2 e depois
+[00:01:44:27 --> 00:01:49:18] aperta em raiz, aí ele vai te mostrar esse número aqui, ou você pode dividir
+[00:01:49:18 --> 00:01:57:16] dois valores, chegar na razão de dois valores em que o resultado deles é igual a 1,414.
+[00:01:57:25 --> 00:02:04:12] Se você tem a razão de dois valores em 1,414, você tem uma raiz de 2. E aqui no caso do
+[00:02:04:12 --> 00:02:08:26] retângulo, então o retângulo que a razão dele é igual a esse resultado aqui. Qual
+[00:02:08:26 --> 00:02:11:27] que é a importância disso? Porque esses números, essa aqui é uma aula um pouco
+[00:02:11:27 --> 00:02:15:20] mais avançada, a gente trabalha um pouco mais os números em comparação a outra
+[00:02:15:20 --> 00:02:21:27] a escola de grid, mas esse conceito é importante porque esse retângulo aqui é a base para criar
+[00:02:21:27 --> 00:02:31:07] outros retângulos como raiz de 3, raiz de 4, raiz de 5 e também é a base do modelo, o formato DIN,
+[00:02:31:10 --> 00:02:35:27] o padrão DIN que eu mostrei para vocês, ele segue essa estrutura. Então, na última aula,
+[00:02:36:00 --> 00:02:42:25] eu apenas apresentei o padrão DIN. Aqui eu estou mostrando para você como que as pessoas que
+[00:02:42:25 --> 00:02:49:13] da gente chegaram nesse resultado. Como que foi definido isso daqui? O DIN vem de Instituto de
+[00:02:49:13 --> 00:02:53:29] Normatização da Alemanha, né, que eu não vou falar isso em alemão, Deutnis-Institut...
+[00:02:57:11 --> 00:03:00:24] Mas o Instituto de Normatização da Alemanha
+[00:03:01:16 --> 00:03:04:04] definiu isso em um padrão mundial, igual a gente disse na última aula.
+[00:03:04:19 --> 00:03:10:10] E essa daqui é a proporção, é o formato do padrão de I, da série A.
+[00:03:10:18 --> 00:03:14:08] A gente tem a 1, a 2, a 3, a 4, a 5, a 6, a 7, a 8, por aí vai.
+[00:03:15:05 --> 00:03:17:24] E aí a gente vê que a construção dele é muito simples.
+[00:03:17:27 --> 00:03:21:04] Eu vou até refazer ela aqui para vocês verem como é básica.
+[00:03:21:27 --> 00:03:24:01] Então, como ela funciona? A gente tem um quadrado.
+[00:03:24:01 --> 00:03:28:16] Eu vou até aproveitar esse espaço aqui mesmo e vou criar um quadrado a partir daqui.
+[00:03:29:10 --> 00:03:34:12] Então você cria um quadrado e aí você pega da extremidade inferior esquerda até a extremidade
+[00:03:34:12 --> 00:03:35:06] inferior direita.
+[00:03:35:14 --> 00:03:37:15] Na verdade, pode ser de qualquer lado, tá?
+[00:03:37:15 --> 00:03:40:12] Se você criar do lado de cá, você vai puxar para cá.
+[00:03:40:20 --> 00:03:44:05] Se você criar do lado de cá, você vai puxar para cá, que eu vou mostrar para
+[00:03:44:05 --> 00:03:44:16] você.
+[00:03:45:01 --> 00:03:47:18] Então, depois que... depende da direção que você vai seguir.
+[00:03:47:22 --> 00:03:53:07] Depois que você criar um segmento de reta nessas duas... entre esses dois pontos
+[00:03:53:07 --> 00:03:57:14] aqui, esses dois vértices, o inferior esquerdo e o inferior direito, você vai selecionar
+[00:03:57:14 --> 00:04:02:17] essa linha, se você estiver num software como o Illustrator por exemplo, você vai
+[00:04:02:17 --> 00:04:07:02] ancorar essa linha, aqui no Illustrator você aperta E, ele abrita essa ferramenta, você
+[00:04:07:02 --> 00:04:12:02] pega aqui o pivô, que é o ponto ancor, define ele aqui nesse ponto aqui, que é exatamente
+[00:04:12:02 --> 00:04:17:09] onde a gente tem a interseção dessa reta com esse vértice e puxa até ele conectar
+[00:04:17:09 --> 00:04:17:24] lá embaixo.
+[00:04:18:04 --> 00:04:22:13] Como aqui a gente tem um ângulo de 45 graus, é só você segurar shift e ele vai
+[00:04:22:13 --> 00:04:24:08] Olá, direitinho aqui pra gente.
+[00:04:25:11 --> 00:04:26:27] E aí, basicamente, agora o que eu faço?
+[00:04:27:00 --> 00:04:29:17] Aperto Ctrl C, depois Ctrl F...
+[00:04:30:26 --> 00:04:38:20] puxo aqui até encontrar nessa âncora. Prontinho, a gente tem aí então um retângulo de raiz
+[00:04:38:20 --> 00:04:47:10] de 2. Se você pega aqui o valor dele, olha, 530 e divide por 749,5329 você vai chegar no
+[00:04:47:10 --> 00:04:53:28] valor 1,414. Se quiser conferir aí, pode conferir à vontade. Agora, se eu estiver
+[00:04:53:28 --> 00:04:57:14] no papel e quero fazer um retângulo de raiz de 2, como que eu faço? É simples
+[00:04:57:14 --> 00:05:02:16] Mas também você cria o quadrado, você pode utilizar um esquadro para ter um ângulo reto,
+[00:05:03:09 --> 00:05:09:09] ou pode usar também o compasso, tem como fazer, apesar das pessoas não saberem disso,
+[00:05:09:13 --> 00:05:13:01] dá para fazer ângulo reto usando o compasso, é mais fácil usando o compasso do que
+[00:05:13:01 --> 00:05:15:03] usando só uma régua, acredite ou não.
+[00:05:15:16 --> 00:05:18:27] Então porque você define os pontos mais fácil, o compasso é um instrumento de medição.
+[00:05:19:11 --> 00:05:22:21] Mas primeiro você cria o quadrado, depois que você cria o quadrado, 4 ângulos
+[00:05:22:21 --> 00:05:26:10] de 90 graus, você vai criar essa diagonal, uma vez que você cria essa diagonal,
+[00:05:26:10 --> 00:05:28:15] Você vai fincar...
+[00:05:28:15 --> 00:05:30:24] Na verdade, nem precisa criar essa diagonal aqui.
+[00:05:30:27 --> 00:05:35:26] Se você tá com compasso, você vai fincar a agulha dele nesse ponto.
+[00:05:36:10 --> 00:05:37:27] Vai esticar o compasso.
+[00:05:38:03 --> 00:05:40:06] Vou simular que você tá esticando o compasso.
+[00:05:40:15 --> 00:05:43:04] E vai colocar o grafite dele nesse ponto aqui.
+[00:05:43:29 --> 00:05:46:02] Então aqui tá meu compasso super reto.
+[00:05:47:01 --> 00:05:48:05] É mais fácil usar caneta.
+[00:05:48:08 --> 00:05:49:26] Se eu fosse mais esperto, eu tinha feito isso.
+[00:05:50:08 --> 00:05:52:04] Então aqui tá lá o compasso.
+[00:05:53:06 --> 00:05:59:06] Então você coloca a agulha dele nesse vértice aqui, coloca o grafite dele nesse daqui e
+[00:05:59:06 --> 00:06:00:15] dá uma rodada nele.
+[00:06:00:20 --> 00:06:01:26] Quando você rodar ele...
+[00:06:02:21 --> 00:06:07:01] ele vai fazer mais ou menos isso aqui, ele vai criar um raio mais ou menos assim.
+[00:06:07:18 --> 00:06:08:22] E aí o que você pode fazer?
+[00:06:09:05 --> 00:06:10:17] Você não precisa riscar, né?
+[00:06:10:18 --> 00:06:13:09] Quando a gente vai trabalhar no papel a gente não suja o papel a todo,
+[00:06:13:09 --> 00:06:14:11] você não vai riscar isso aqui tudo.
+[00:06:14:21 --> 00:06:17:04] Você vai fazer o quê? Você vai fazer um risquinho aqui, mais ou menos assim.
+[00:06:18:02 --> 00:06:20:25] Fez um risquinho ali, aí vai ficar um risco lá, certo?
+[00:06:21:16 --> 00:06:25:09] Esse risco aqui, ele já vai te dar o ponto que você precisa.
+[00:06:25:17 --> 00:06:26:27] Se você quiser...
+[00:06:29:03 --> 00:06:32:05] Você pode fazer um X aqui, olha, com a régua.
+[00:06:32:10 --> 00:06:34:21] Você pega a régua, marca aqui e faz um X.
+[00:06:35:01 --> 00:06:36:27] Porque aí você vai ter mais precisão também, né?
+[00:06:36:27 --> 00:06:38:08] Se você fosse fazer isso no papel.
+[00:06:38:21 --> 00:06:41:17] E aí, basicamente, é só criar um ângulo de 90° aqui,
+[00:06:41:23 --> 00:06:46:01] exatamente onde você marcou com compasso e completar, tá?
+[00:06:46:12 --> 00:06:51:23] Aí você teria um retângulo de raiz de 2 também no papel.
+[00:06:51:27 --> 00:06:53:11] Tudo no papel é mais difícil, né?
+[00:06:53:11 --> 00:06:55:24] Na época da faculdade eu sofria, vocês acham que não?
+[00:06:55:24 --> 00:06:59:14] A gente tinha que fazer as paradas no papel para poder aprender na marra.
+[00:06:59:15 --> 00:07:01:15] Opa, puxei aqui a pranchita.
+[00:07:02:11 --> 00:07:04:02] Então esse é o retângulo de raiz de 2.
+[00:07:04:14 --> 00:07:09:03] Ele é a base para fazer o retângulo de raiz de 3, de 4, de 5, e por aí vai, que eu
+[00:07:09:03 --> 00:07:10:07] vou mostrar para vocês já já.
+[00:07:10:17 --> 00:07:16:12] E esse daqui é a proporção da série A que eu mostrei para vocês.
+[00:07:17:00 --> 00:07:18:18] Então é um tipo de formato muito comum.
+[00:07:18:21 --> 00:07:23:02] Se você quer construir um formato, eu não sei, eu vou construir um novo formato.
+[00:07:23:02 --> 00:07:26:13] Mas vocês sempre tem que olhar para a mídia né, vou te dar um exemplo, qual que é o formato
+[00:07:26:13 --> 00:07:27:12] para uma capa de YouTube?
+[00:07:29:05 --> 00:07:33:16] 1920x1080, então deixa eu puxar ele aqui, a proporção dele é diferente, olha aqui
+[00:07:33:16 --> 00:07:33:20] ó.
+[00:07:34:25 --> 00:07:37:15] Essa aqui é a proporção do...
+[00:07:38:20 --> 00:07:40:15] de tela do...
+[00:07:40:15 --> 00:07:41:05] Vou colocar aqui.
+[00:07:42:22 --> 00:07:45:19] Inclusive, me surgiu a curiosidade agora, a gente vai testar isso nessa aula.
+[00:07:46:09 --> 00:07:49:02] Isso aqui está me parecendo muito retângulo de raiz de 3.
+[00:07:49:11 --> 00:07:51:02] Nós vamos confirmar aqui hoje, tá?
+[00:07:51:21 --> 00:07:53:16] Mas ele é outro formato.
+[00:07:53:18 --> 00:07:55:03] Se você vai fazer um post para o Instagram,
+[00:07:55:11 --> 00:07:58:17] 1080 por 1080 ou 1080 por 1350,
+[00:07:58:25 --> 00:08:02:04] então você tem que conhecer a especificação da mídia
+[00:08:02:04 --> 00:08:03:28] que você vai utilizar, do ponto de contato.
+[00:08:04:04 --> 00:08:06:29] Mas quando você pode criar o seu formato,
+[00:08:07:10 --> 00:08:09:29] uma boa direção é seguir esses padrões aqui
+[00:08:09:29 --> 00:08:14:21] porque eles possuem uma regularidade e uma proporção matemática
+[00:08:14:21 --> 00:08:17:09] que vai te ajudar a construir gritos no futuro, tá bom?
+[00:08:17:17 --> 00:08:18:25] Então, essa é uma possibilidade.
+[00:08:19:18 --> 00:08:22:00] Como que funciona o retângulo de raiz de 3, então?
+[00:08:22:01 --> 00:08:25:07] Deixa eu até tirar a prova aqui, que eu nunca tive essa curiosidade.
+[00:08:25:18 --> 00:08:29:27] Fazer aqui 1920 por 1080, que é exatamente o tamanho dessa prancheta, tá vendo?
+[00:08:30:11 --> 00:08:33:01] Só que eu quero diminuir para ver apenas a proporção.
+[00:08:33:15 --> 00:08:38:21] Vamos ver se o retângulo de 1920 por 1080 é o retângulo de raiz de 3.
+[00:08:38:21 --> 00:08:40:22] Ah, não, é por pouco, hein?
+[00:08:41:15 --> 00:08:43:00] Nossa, se fosse, seria legal, hein?
+[00:08:43:00 --> 00:08:46:26] A gente ia poder utilizar a nossa empolgação nerd
+[00:08:46:26 --> 00:08:48:03] para falar com as pessoas.
+[00:08:48:04 --> 00:08:49:15] Se você saber que o formato do YouTube
+[00:08:49:15 --> 00:08:51:12] é um formato de um retângulo de raiz de 3,
+[00:08:51:21 --> 00:08:53:02] as pessoas não iriam entender nada, né?
+[00:08:53:09 --> 00:08:55:06] Mas, infelizmente, a gente não vai poder falar isso
+[00:08:57:05 --> 00:08:58:27] porque o retângulo de raiz de 3
+[00:08:58:27 --> 00:09:00:27] não é do mesmo tamanho da tela do YouTube.
+[00:09:01:14 --> 00:09:02:06] Mas vamos lá, então.
+[00:09:02:24 --> 00:09:04:18] Como que funciona para criar o retângulo de raiz de 3?
+[00:09:04:20 --> 00:09:06:15] Você já deve ter até percebido, né?
+[00:09:07:03 --> 00:09:07:14] Intuitivamente.
+[00:09:07:14 --> 00:09:08:24] Senão, eu vou te explicar aqui.
+[00:09:09:03 --> 00:09:13:01] O retângulo de raiz de 2 é esse daqui, esse é o retângulo de raiz de 2.
+[00:09:13:11 --> 00:09:18:04] Para fazer o retângulo de raiz de 3, a gente só precisa aproveitar o retângulo de raiz de 2.
+[00:09:18:11 --> 00:09:19:10] Então, eu vou apagar isso daqui.
+[00:09:20:29 --> 00:09:28:01] Você traça uma reta nova, uma diagonal nova daquele mesmo vértice até o novo vértice que você criou
+[00:09:28:01 --> 00:09:33:12] no retângulo de raiz de 2 e basicamente clica aqui, aperta E para pegar o ponto de âncora,
+[00:09:33:12 --> 00:09:38:09] Coloca ele aqui e dessa vez você não vai conseguir fazer um ângulo de 45 graus,
+[00:09:38:15 --> 00:09:41:09] porque ele vai terminar aqui, então você precisa ir com mais precisão.
+[00:09:41:12 --> 00:09:42:02] Como é que você faz?
+[00:09:42:16 --> 00:09:46:20] Coloca aqui e solta ele mais ou menos perto, depois aperta Ctrl-Y,
+[00:09:47:02 --> 00:09:50:10] dá um zoom aqui mais ou menos assim e termina de alinhar.
+[00:09:52:13 --> 00:09:54:19] Vou até puxar mais para cá para ficar mais fácil para vocês verem.
+[00:09:54:27 --> 00:09:55:18] Termina de alinhar.
+[00:09:55:25 --> 00:09:59:23] Aí, ele sinalizou para mim que ficou alinhado, tá?
+[00:10:00:10 --> 00:10:01:21] Então, a gente tem ele alinhado ali.
+[00:10:02:01 --> 00:10:06:29] Agora, basicamente, eu aperto Ctrl C para criar uma cópia e Ctrl F para colar exatamente em cima
+[00:10:06:29 --> 00:10:10:03] e puxo aqui para aquele ponto.
+[00:10:10:10 --> 00:10:13:16] Nós temos aqui, então, um retângulo de raiz de 3.
+[00:10:13:24 --> 00:10:17:12] Tenho uma curiosidade sobre ele que eu vou mostrar para vocês ali, na criação do Exagua.
+[00:10:18:09 --> 00:10:21:09] Mas aqui, a gente tem essa linha de construção
+[00:10:21:09 --> 00:10:24:01] E se você fosse fazendo compasso, olha só, é a mesma coisa.
+[00:10:25:21 --> 00:10:29:23] Dá pra puxar o compasso aqui. Se você perdeu a ideia do compasso,
+[00:10:31:02 --> 00:10:32:29] deixa eu só fazer o seguinte.
+[00:10:33:29 --> 00:10:36:03] Pra eu não ter que sair da prancheta,
+[00:10:36:18 --> 00:10:38:02] vou só copiar esses dois pontos.
+[00:10:39:23 --> 00:10:44:01] Proc, deletes isso daqui, Ctrl, F, e apaga esses dois pontinhos.
+[00:10:44:10 --> 00:10:44:26] Prontinho.
+[00:10:45:14 --> 00:10:46:18] Então, é a criação.
+[00:10:46:26 --> 00:10:51:04] Você coloca a agulha do compasso aqui,
+[00:10:51:18 --> 00:10:53:25] coloca o grafite do compasso nesse ponto aqui
+[00:10:53:25 --> 00:10:57:21] e traça essa linha aqui.
+[00:10:59:02 --> 00:11:02:03] E aí, com ela, você consegue criar com ângulo de 90 graus
+[00:11:02:03 --> 00:11:03:11] o retângulo de raiz de 3.
+[00:11:03:20 --> 00:11:05:29] Qual é a curiosidade do retângulo de raiz de 3?
+[00:11:05:29 --> 00:11:09:29] com ele você consegue construir um hexágono perfeito.
+[00:11:10:14 --> 00:11:11:17] A geometria é linda, né?
+[00:11:11:21 --> 00:11:12:25] Que ela é exata, olha só.
+[00:11:13:03 --> 00:11:16:09] Se eu pego esse retângulo de raiz de 3,
+[00:11:16:09 --> 00:11:18:05] eu tenho a mania de juntar uma palavra na outra, né?
+[00:11:18:17 --> 00:11:20:05] Acho que é meu cérebro andando rápido demais.
+[00:11:20:11 --> 00:11:23:00] Eu falo, pego e retângulo e junto em pégulo.
+[00:11:23:06 --> 00:11:24:12] Retângulo que pega, né?
+[00:11:24:17 --> 00:11:25:03] Poxa vida.
+[00:11:25:23 --> 00:11:27:29] Mas enfim, eu pego esse retângulo aqui,
+[00:11:28:11 --> 00:11:29:17] dou um Ctrl C e Ctrl F,
+[00:11:29:23 --> 00:11:31:08] venho nesse vértice aqui, ó,
+[00:11:31:08 --> 00:11:34:23] e já puxo ele encaixando ele aqui, ó, 150 graus.
+[00:11:34:24 --> 00:11:35:03] Tá vendo?
+[00:11:35:03 --> 00:11:40:08] Depois eu posso pegar esse daqui se eu quiser e dar um Ctrl F puxando desse ângulo para
+[00:11:40:08 --> 00:11:45:21] esse, 210, ou se você quiser você pode puxar desse ângulo aqui, dessa ponta aqui para
+[00:11:45:21 --> 00:11:46:09] esse também dá.
+[00:11:46:24 --> 00:11:53:16] E aí você tem um exato hexágono, vamos tirar a prova dele aqui, a ferramenta de
+[00:11:53:16 --> 00:11:59:18] criar a hexágono, vou criar um aqui, eu vou só deixar ele dessa forma assim, na
+[00:11:59:18 --> 00:12:01:02] verdade eu vou fazer assim que é mais fácil.
+[00:12:01:02 --> 00:12:01:09] Então, até a próxima!
+[00:12:02:05 --> 00:12:06:18] E agora, eu coloco esse ponto junto desse, só para vocês verem, tá?
+[00:12:07:09 --> 00:12:07:25] E puxo.
+[00:12:09:25 --> 00:12:14:17] perfeito, um hexágono perfeito usando um retângulo de raiz de 3, tá bom?
+[00:12:14:22 --> 00:12:18:01] Tem algumas outras curiosidades aqui sobre essa estrela, sobre esse retângulo,
+[00:12:18:12 --> 00:12:19:21] mas a gente deixa pra depois.
+[00:12:20:05 --> 00:12:25:10] Então, essa é uma curiosidade legal, o retângulo de raiz de 3 também é um formato
+[00:12:25:10 --> 00:12:26:15] ainda válido, tá?
+[00:12:26:26 --> 00:12:29:01] É quase o formato Full HD, né?
+[00:12:29:02 --> 00:12:30:17] Chegou perto, vocês viram.
+[00:12:30:28 --> 00:12:33:28] E aí, aqui eu já coloquei pra vocês, a lógica é a mesma.
+[00:12:34:02 --> 00:12:38:07] Pra fazer o retângulo de raiz de 4, você usa o de raiz de 3, pra fazer o
+[00:12:38:07 --> 00:12:42:16] retângulo de raiz de 5, você usa o de raiz de 4. E aqui eu tenho algumas curiosidades
+[00:12:42:16 --> 00:12:47:19] interessantes para vocês. A primeira delas é que o retângulo de raiz de 4, a razão
+[00:12:47:19 --> 00:12:54:07] dele dá é exatamente igual a ½ ou 2. Por quê? Porque a raiz de 4 é 2. Então, a razão
+[00:12:54:07 --> 00:12:57:25] dele vai dar 2. O que isso significa no final? Que um retângulo de raiz de 4 é
+[00:12:57:25 --> 00:13:03:01] a mesma coisa que 2². Então, se você coloca 2² um do lado do outro, você tem
+[00:13:03:01 --> 00:13:06:28] um retângulo de raiz de 4. Agora, se você quiser falar xique, você pode falar
+[00:13:06:28 --> 00:13:08:20] Esse é um retângulo de raiz de 4.
+[00:13:09:13 --> 00:13:12:00] Mas tem mais uma curiosidade sobre retângulo de raiz de 4,
+[00:13:12:21 --> 00:13:15:10] que a sequência de construção de um retângulo áureo,
+[00:13:15:10 --> 00:13:17:10] que eu vou mostrar a diferença dele para vocês,
+[00:13:18:05 --> 00:13:20:16] a sequência de construção de um retângulo áureo
+[00:13:20:16 --> 00:13:22:28] dá exatamente um retângulo de raiz de 4.
+[00:13:23:20 --> 00:13:28:12] Porque como que a gente cria um retângulo áureo?
+[00:13:29:03 --> 00:13:31:10] Super simples também, só que é um pouco diferente.
+[00:13:33:01 --> 00:13:34:18] O retângulo de...
+[00:13:35:18 --> 00:13:42:29] retângulo áureo, ele está no meio do retângulo de raiz de 2 e o retângulo de raiz de 3, tá?
+[00:13:43:11 --> 00:13:51:01] Qual que é o valor áureo? 1,618. Esse é o valor da proporção áurea. Sempre que
+[00:13:51:01 --> 00:13:56:13] a razão de dois elementos der igual a 1,618 é uma razão áurea, tá bom? E aqui
+[00:13:56:13 --> 00:14:03:25] então ela está entre 1.414 e 1.732. Na geometria funciona da mesma forma, a gente
+[00:14:03:25 --> 00:14:09:09] tem um elemento que está entre um segmento aqui. Então, se antes a gente puxava desse
+[00:14:09:09 --> 00:14:14:03] vértice aqui, olha, para fazer o raiz de 2, agora a gente puxa do centro para fazer
+[00:14:14:03 --> 00:14:17:13] um retângulo auro. Então, a gente puxa daqui até esse ponto.
+[00:14:18:21 --> 00:14:21:14] E aí, basicamente, é a mesma regra, vou dar um zoom aqui para vocês verem.
+[00:14:22:02 --> 00:14:26:14] Aperto E, pego o pivô, o ponto de âncora,
+[00:14:26:23 --> 00:14:29:26] coloco ele aqui, puxo isso aqui até coincidir ali embaixo
+[00:14:29:26 --> 00:14:33:20] para poder dar exato, aperto Ctrl-Y para entrar no módulo de Outline,
+[00:14:34:10 --> 00:14:35:12] puxo um pouquinho para fora
+[00:14:35:12 --> 00:14:39:11] e depois conecto ali usando o Smart Guide, tá?
+[00:14:39:28 --> 00:14:42:12] Então, é assim que a gente cria. Deixa eu voltar aqui para vocês.
+[00:14:43:19 --> 00:14:46:10] Depois é só basicamente... Opa! Deu uma travada aí.
+[00:14:46:23 --> 00:14:51:11] Só basicamente puxar daqui até aqui, a gente tem um retângulo áureo.
+[00:14:51:24 --> 00:14:54:06] Inclusive, eu vou fazer uma coisa aqui pra vocês verem que legal.
+[00:14:54:16 --> 00:14:59:00] A gente já viu isso em outras aulas, mas é sempre legal reforçar isso pra vocês, ó.
+[00:15:00:02 --> 00:15:04:08] A partir desse retângulo, para criar uma espiral áurea,
+[00:15:04:18 --> 00:15:05:16] o que a gente faz agora?
+[00:15:05:25 --> 00:15:10:04] Se você lembra, a gente só insere novos quadrados aqui
+[00:15:10:04 --> 00:15:12:01] para poder criar o raio já já.
+[00:15:12:02 --> 00:15:13:20] A gente insere novos quadrados aqui
+[00:15:14:09 --> 00:15:15:26] porque eles vão criar...
+[00:15:15:26 --> 00:15:17:14] Deixa eu fazer em Outline que vai ficar melhor.
+[00:15:17:28 --> 00:15:20:01] Eles vão criar novos segmentos áureos.
+[00:15:20:13 --> 00:15:22:05] Então, se a gente tem aqui um segmento A...
+[00:15:23:18 --> 00:15:24:17] É, aqui vai dar para fazer.
+[00:15:25:24 --> 00:15:26:25] Deixe-me fazer assim que vai ficar melhor.
+[00:15:29:08 --> 00:15:31:18] Um tá exato no outro? Acho que não tá, hein?
+[00:15:32:21 --> 00:15:33:06] Não tá.
+[00:15:33:22 --> 00:15:34:23] Vamos fazer certinho aqui, ó.
+[00:15:35:14 --> 00:15:38:03] Quanto mais preciso você for, melhor.
+[00:15:38:08 --> 00:15:39:21] Por isso que eu gosto de usar a outline aqui.
+[00:15:40:18 --> 00:15:41:22] Então, gente, puxa do centro.
+[00:15:42:25 --> 00:15:44:06] até sair daqui para poder fazer.
+[00:15:46:20 --> 00:15:48:21] Tem alguma coisa errada aqui, um minutinho, galera.
+[00:15:49:13 --> 00:15:51:29] Estou puxando ele e não está marcando. Será que é o...
+[00:15:52:28 --> 00:15:53:20] Quatro agarro.
+[00:15:57:21 --> 00:15:59:14] Eu acho que eu desabilitei alguma coisa aqui.
+[00:16:02:27 --> 00:16:03:20] Acho que agora foi.
+[00:16:04:10 --> 00:16:06:06] Então, vou colocar aqui um ponto.
+[00:16:08:02 --> 00:16:11:11] Ah, poxa vida, estou achando que eu desabilitei a linha guia.
+[00:16:11:28 --> 00:16:16:03] Sem linha guia, sem chance, a gente vai precisar muito dela aqui hoje.
+[00:16:16:07 --> 00:16:18:27] Até para vocês visualizarem, deixa eu só ativá-la de novo, tá?
+[00:16:21:04 --> 00:16:25:02] Vocês não vão ver aí onde que eu tô ativando, mas é só você vir e exibir.
+[00:16:26:19 --> 00:16:29:14] e coloco as linhas Guias de volta.
+[00:16:29:28 --> 00:16:30:10] Guias.
+[00:16:33:14 --> 00:16:34:19] Cadê, cadê, cadê?
+[00:16:37:18 --> 00:16:38:09] Ostras.
+[00:16:43:09 --> 00:16:46:00] Não estou achando de que, acho que é lá em Preferências, deixa eu ver.
+[00:16:46:19 --> 00:16:47:17] Preferências, geral.
+[00:16:48:09 --> 00:16:50:06] Um minutinho que acho que eu desabilitei.
+[00:16:50:15 --> 00:16:52:16] Guias inteligentes, imagina...
+[00:16:56:06 --> 00:17:00:01] Ele não tá se orientando mais e eu não lembro qual que era o atalho.
+[00:17:01:06 --> 00:17:01:28] para fazer isso.
+[00:17:03:24 --> 00:17:05:17] Ele não está encaixando no ponto mais.
+[00:17:08:02 --> 00:17:09:03] Poxa vida, hein...
+[00:17:10:11 --> 00:17:12:22] Agora eu tenho que lembrar onde que é, segura aí um minutinho.
+[00:17:15:26 --> 00:17:19:29] Guias, mostrar grades, exibição de âncora.
+[00:17:23:03 --> 00:17:26:02] Deixa eu ver o chat, se alguém lembra qual é o atalho, pode mandar aí, tá?
+[00:17:26:23 --> 00:17:31:00] O Lucas falou que a 16x9 é a proporção do 1920x1080, exato.
+[00:17:33:04 --> 00:17:35:12] Não sei quem mandou no chat, então vamos lá.
+[00:17:35:18 --> 00:17:36:27] Vocês não estão vendo nada na tela?
+[00:17:37:21 --> 00:17:40:24] Eu estou dentro das configurações do Illustrator.
+[00:17:43:17 --> 00:17:45:10] Eu quero ver o que eu desativei aqui,
+[00:17:45:10 --> 00:17:47:11] o que eu desativei alguma coisa, eu tirei as linhas-guias.
+[00:17:50:11 --> 00:17:52:13] Ajustar, encaixar no ponto já está ligado?
+[00:17:53:21 --> 00:17:54:10] Yes!
+[00:18:03:00 --> 00:18:04:05] Problema que eu não lembro... Ah!
+[00:18:12:16 --> 00:18:14:04] Não, não brinca comigo ilustrator.
+[00:18:15:00 --> 00:18:16:02] Eu preciso de você!
+[00:18:18:07 --> 00:18:18:21] Até a próxima!
+[00:18:22:01 --> 00:18:22:26] Ctrl H.
+[00:18:33:03 --> 00:18:33:19] SEP
+[00:18:39:24 --> 00:18:41:07] Deixa eu até tirar dessa tela aqui.
+[00:18:44:09 --> 00:18:46:21] Aí, vocês vão ficar vendo a minha cara aqui por enquanto, tá?
+[00:18:47:13 --> 00:18:49:09] Control-U, galera falando se não é o Control-U.
+[00:18:49:13 --> 00:18:50:12] Deixa eu ver se é o Control-U.
+[00:18:55:16 --> 00:18:58:19] Aê, Ctrl-U. Obrigado. Às vezes eu esqueço os atalhos.
+[00:18:59:07 --> 00:19:02:27] Então tá aí ativado Ctrl-U. O que eu tava fazendo aqui, né, pra quem perdeu aí?
+[00:19:03:16 --> 00:19:05:24] Tá vendo essas linhas rosinhas que ficam aparecendo aqui?
+[00:19:05:28 --> 00:19:08:07] Eu não sei se elas aparecem aí na tela pra vocês.
+[00:19:08:15 --> 00:19:10:04] Coisa do OBS. Eu acho que aparece. Quer ver, ó?
+[00:19:11:29 --> 00:19:13:01] Deixa eu deixar aqui...
+[00:19:13:28 --> 00:19:14:21] Aparece, beleza.
+[00:19:14:28 --> 00:19:16:14] Essas linhas rosinhas aqui são linhas guias.
+[00:19:16:16 --> 00:19:18:27] Se você quer ter exatidão, você vai precisar delas, tá?
+[00:19:19:18 --> 00:19:21:12] Então vamos voltar lá. Control, obrigadão.
+[00:19:22:04 --> 00:19:24:08] Aí são os magos viciados em atalhos.
+[00:19:25:12 --> 00:19:27:07] Então, Ctrl-U ativado aqui.
+[00:19:28:13 --> 00:19:32:25] Vou criar aqui de novo o retângulo áureo, puxo aqui.
+[00:19:34:08 --> 00:19:38:01] Puxo a linha, conecto esses dois pontos, vou manter aqui a mesma proporção.
+[00:19:38:08 --> 00:19:42:00] No Ctrl e Y você tem mais precisão, tá?
+[00:19:42:12 --> 00:19:45:17] Clica aqui, aperta E, puxa aqui e vem pra cá.
+[00:19:45:21 --> 00:19:49:12] Tem um outro jeito de montar também, que é só você multiplicar, né?
+[00:19:50:19 --> 00:19:53:25] Multiplica a largura por 1,618, também dá.
+[00:19:54:04 --> 00:19:58:09] Só que aqui eu estou ensinando pra vocês a construção mesmo, tá bom?
+[00:19:58:21 --> 00:20:03:08] Então agora sim, a gente tem o elemento exato aqui.
+[00:20:03:27 --> 00:20:05:09] O retângulo auro, exato.
+[00:20:05:18 --> 00:20:09:12] Agora eu posso inserir aqui, olha, quando eu insiro um novo quadrado aqui,
+[00:20:10:04 --> 00:20:11:12] eu crio um novo retângulo auro.
+[00:20:11:27 --> 00:20:15:00] Porque esse segmento aqui, esse segmento A, tá?
+[00:20:15:16 --> 00:20:16:21] E esse segmento B.
+[00:20:18:20 --> 00:20:24:04] eles são um segmento áureo. Por quê? Porque se eu pego e divido A por B eu tenho 1,618
+[00:20:24:04 --> 00:20:30:20] e se eu divido esse C por A eu tenho também 1,618. Então, é um segmento áureo.
+[00:20:30:27 --> 00:20:37:21] Aqui é a mesma coisa, olha, segue a mesma proporção. Esse segmento A aqui dividido por esse segmento B
+[00:20:37:21 --> 00:20:43:00] é igual a 1,618. Então, mantenha a proporção áurea aqui, tá? E aí eu posso inserir novos...
+[00:20:44:23 --> 00:20:48:04] Novos quadrados aqui, igual a gente já viu em outras aulas.
+[00:20:49:06 --> 00:20:54:09] E a espiral eu construo a partir disso, então eu pego desse vértice aqui.
+[00:20:54:24 --> 00:20:55:24] Opa, tem que ser...
+[00:20:57:14 --> 00:20:58:10] Puxa até esse.
+[00:21:00:19 --> 00:21:03:27] Aí eu construí esse ponto aqui, encaio e apago.
+[00:21:05:08 --> 00:21:12:23] Deixo só ele aí. Depois eu puxo sempre do interno, tá? Até esse, apago aqui, apago aqui,
+[00:21:13:12 --> 00:21:15:14] depois desse interno aqui, até esse.
+[00:21:17:29 --> 00:21:21:08] O raio é sempre da largura do quadrado.
+[00:21:22:20 --> 00:21:25:06] depois desse interno aqui e por aí vai, né?
+[00:21:25:08 --> 00:21:28:12] Aquela lógica que a gente já viu em outras aulas.
+[00:21:29:10 --> 00:21:32:18] Aí a gente tem a espiral, você pode continuar seguindo ela aqui.
+[00:21:32:29 --> 00:21:35:03] Mas tem mais uma curiosidade interessante,
+[00:21:35:22 --> 00:21:40:28] que é a relação do retângulo áureo com o retângulo de AIS de 4.
+[00:21:42:08 --> 00:21:45:04] E qual que é essa curiosidade? Deixa eu apagar só esses elementos aqui.
+[00:21:46:28 --> 00:21:48:07] Deixar aqui na mesma espessura.
+[00:21:49:08 --> 00:21:53:23] A curiosidade é a seguinte, se agora a gente criou esse retângulo aqui,
+[00:21:54:09 --> 00:22:01:02] esse é o retângulo alto, se agora eu puxo deste mesmo ponto para cá...
+[00:22:04:20 --> 00:22:09:16] Coloca o pivô ali, e ali um ali certinho. Vamos lá, pra fazer certinho.
+[00:22:16:13 --> 00:22:18:12] Poxa vida, tem que alinhar.
+[00:22:18:27 --> 00:22:20:07] Ele não está alinhado, está vendo?
+[00:22:21:09 --> 00:22:23:13] Você vai chegando mais perto.
+[00:22:25:23 --> 00:22:27:12] Se quiser, dá um zoom aí.
+[00:22:31:07 --> 00:22:32:06] Agora já ficou exato.
+[00:22:34:24 --> 00:22:39:23] e agora eu puxo aqui pra cá. Por que isso aqui aconteceu? É um pouco lógico, tá vendo
+[00:22:39:23 --> 00:22:43:05] que eu formei um segundo quadrado? Esse aqui é o retângulo de raiz de 4.
+[00:22:44:13 --> 00:22:45:15] Segue a mesma lógica.
+[00:22:47:10 --> 00:22:52:20] Porque a gente tinha aqui, mais ou menos aqui, um pouco mais o retângulo auro, a metade desse.
+[00:22:53:19 --> 00:22:55:08] Aqui a gente tem o de raiz de...
+[00:22:56:07 --> 00:22:57:28] Seguindo a mesma proporção.
+[00:22:58:22 --> 00:23:03:26] Essas construções aqui são a base, você pode utilizá-las, igual esse retângulo aurel aqui,
+[00:23:03:26 --> 00:23:08:24] a gente vai utilizar muito ele logo em um grid que é um pouco mais avançado, vou mostrar isso para vocês.
+[00:23:09:16 --> 00:23:16:05] Mas essa construção aqui é a base, entender como funciona os retângulos de, principalmente, raiz de 2, raiz de 3,
+[00:23:16:18 --> 00:23:21:20] de 4 e de 5, eles começam a ficar muito espichados, são casos bem específicos,
+[00:23:21:25 --> 00:23:25:29] mas você pode criar elementos a partir deles também, talvez um logo, um símbolo, alguma coisa do tipo.
+[00:23:26:07 --> 00:23:32:05] Tá bom? Mas só recapitulando então essa base para vocês. Agora vamos falar sobre os cânons clássicos.
+[00:23:32:09 --> 00:23:37:00] Talvez você escuta essa palavra e você fala, meu Deus, o que são cânons clássicos? Cânons é a mesma
+[00:23:37:00 --> 00:23:42:19] coisa de padrão, regra, sequência, né? São modelos. E eu quero mostrar aqui para vocês quais
+[00:23:42:19 --> 00:23:48:03] que são os modelos clássicos que já são utilizados antes do design ser inventado, antes
+[00:23:48:03 --> 00:23:50:16] da palavra design ser inventada.
+[00:23:52:16 --> 00:23:57:06] Porque eram utilizados nos manuscritos, na Idade Média, e por aí vai.
+[00:23:57:29 --> 00:24:01:07] E esses cânons eu já mostrei para vocês nas últimas aulas.
+[00:24:01:11 --> 00:24:05:19] Agora eu vou falar sobre o nome deles, e a gente vai explorar um pouquinho mais deles aqui.
+[00:24:05:20 --> 00:24:08:15] Vocês vão entender quem são os autores por trás deles, tá bom?
+[00:24:08:20 --> 00:24:13:28] O primeiro autor que reuniu tudo isso, que vale falar o nome dele aqui para vocês buscarem depois,
+[00:24:14:11 --> 00:24:15:11] é o Jean Chaud.
+[00:24:15:23 --> 00:24:19:07] O Jean Chaud, ele tem um livro, chama A Forma do Livro.
+[00:24:19:07 --> 00:24:24:25] E lá ele fala sobre os estudos que ele fez desses grids
+[00:24:24:25 --> 00:24:29:29] para poder construir um layout, uma estrutura harmônica,
+[00:24:30:16 --> 00:24:31:19] dependendo dos formatos.
+[00:24:31:22 --> 00:24:33:14] Ele aplica em vários formatos diferentes.
+[00:24:33:24 --> 00:24:36:27] E ele cita lá quais foram as primeiras obras
+[00:24:36:27 --> 00:24:41:14] onde ele encontrou esses layouts, esses grids aplicados, tá bom?
+[00:24:41:15 --> 00:24:43:09] E aí ele dá o nome para esses grids
+[00:24:43:09 --> 00:24:45:21] de acordo com essas obras que ele já encontrou.
+[00:24:46:02 --> 00:24:47:24] Então, a primeira coisa que a gente precisa aprender
+[00:24:47:24 --> 00:24:55:17] é sobre o diagrama de Villard. O diagrama de Villard é muito massa porque ele é útil,
+[00:24:55:22 --> 00:25:00:11] tá? Mesmo se você está no Illustrator ou se você está com um pedaço de papel, ele
+[00:25:00:11 --> 00:25:07:09] é útil porque é a maneira mais fácil de você dividir uma página em 2, 3, 4, 5,
+[00:25:07:13 --> 00:25:13:25] 6, 7, 8, 9, 10, 11, 12 partes ou mais, tá bom? Porque ele segue uma sequência lógica.
+[00:25:13:25 --> 00:25:14:29] Quando você olha aqui...
+[00:25:15:26 --> 00:25:20:13] Talvez você ache estranho a primeira vista porque tem muita informação, mas cada linha
+[00:25:20:13 --> 00:25:24:24] dessas aqui, olha, ela divide a página em uma quantidade.
+[00:25:25:10 --> 00:25:28:10] Então, por exemplo, essa do meio divide a página em dois, tá vendo?
+[00:25:28:26 --> 00:25:29:13] Dividiu em dois.
+[00:25:29:18 --> 00:25:31:16] Essa daqui divide a página em três partes.
+[00:25:32:09 --> 00:25:37:00] É que se eu for criar um quadrado aqui, um retângulo aqui para você ver, uma parte,
+[00:25:37:28 --> 00:25:39:17] duas partes, três partes.
+[00:25:39:28 --> 00:25:40:23] Exato, você tá vendo?
+[00:25:42:03 --> 00:25:47:01] A gente dividiu em três partes aqui exatas com várias interseções que podem ser exploradas,
+[00:25:47:07 --> 00:25:52:21] inclusive a gente vai falar dessas interseções, mas você pode dividir em quantas partes você quiser.
+[00:25:53:02 --> 00:25:55:27] Por exemplo, você pode dividir em quatro partes.
+[00:25:56:10 --> 00:25:59:00] Se eu puxar aqui, olha, você vai ver que é exato.
+[00:26:01:00 --> 00:26:03:11] Eu posso até colocar aqui em Outline para você ver.
+[00:26:04:11 --> 00:26:07:18] É extremamente precisa essa técnica aqui, tá bom?
+[00:26:07:27 --> 00:26:11:18] Então dividi em 4 partes, você pode dividir em 5 e por aí vai.
+[00:26:11:28 --> 00:26:16:15] Último teste só para vocês acreditarem em mim quando eu falo que é exato.
+[00:26:17:08 --> 00:26:18:26] Em 5 partes exato também.
+[00:26:19:02 --> 00:26:22:20] E é muito simples de fazer, apesar de parecer complexo à primeira vista,
+[00:26:23:01 --> 00:26:26:20] nós vamos recriar aqui e vocês vão ver que a lógica é muito básica, tá?
+[00:26:26:20 --> 00:26:32:06] Então vou deletar essas linhas guias aqui, vou deixar só o retângulo aqui sobrando.
+[00:26:34:21 --> 00:26:36:04] e nós vamos recriar.
+[00:26:36:09 --> 00:26:39:07] Vamos lá. A primeira coisa, inclusive, eu iria falar isso depois, mas eu já...
+[00:26:39:07 --> 00:26:40:22] Opa! Pulei.
+[00:26:40:27 --> 00:26:42:14] Pulei! Dei spoiler! Dei spoiler!
+[00:26:43:14 --> 00:26:45:17] Eu ia falar isso depois, mas eu já posso introduzir aqui.
+[00:26:45:20 --> 00:26:47:22] A primeira coisa em qualquer construção de grid
+[00:26:47:22 --> 00:26:51:19] é você traçar as duas diagonais, principalmente no começo.
+[00:26:51:21 --> 00:26:54:29] Depois que você já começa a dominar essa técnica,
+[00:26:55:02 --> 00:26:58:23] às vezes você pode até pular essa etapa aqui, tá?
+[00:26:58:28 --> 00:27:00:21] Mas por que essa divisão é importante?
+[00:27:00:23 --> 00:27:02:27] Porque ela não só encontra o centro da página,
+[00:27:02:27 --> 00:27:07:16] como também ela divide a página em quatro aqui, então você já começa a ter uma boa
+[00:27:07:16 --> 00:27:09:29] estrutura para dividir o...
+[00:27:11:03 --> 00:27:14:22] ou a página no meio, basicamente você só encontra aqui
+[00:27:14:22 --> 00:27:17:22] essas duas diagonais com os vértices dela e você já divide.
+[00:27:18:02 --> 00:27:20:19] E a lógica é que ela é muito simples. Por quê?
+[00:27:21:22 --> 00:27:25:17] Basicamente, a lógica consiste em cortar duas diagonais
+[00:27:26:11 --> 00:27:28:24] nos dois extremos da página. Como assim?
+[00:27:28:26 --> 00:27:31:15] Por que a gente contou exatamente a metade?
+[00:27:31:22 --> 00:27:35:01] Porque a gente tem uma diagonal dessa ponta nessa,
+[00:27:35:23 --> 00:27:36:22] de uma ponta na outra,
+[00:27:37:01 --> 00:27:39:21] e a diagonal que a gente pega desse canto aqui,
+[00:27:39:21 --> 00:27:45:23] ela corta, ela intercepta então essa reta em um determinado ponto, esse ponto marca
+[00:27:45:23 --> 00:27:51:08] metade, exatamente metade do papel. E essa é a lógica do diagrama de Villard. Então
+[00:27:51:08 --> 00:27:56:12] olha só que interessante, aqui a gente dividiu a página no meio. A partir de agora, se
+[00:27:56:12 --> 00:28:01:10] eu quero continuar dividindo essa página, o que eu preciso fazer? Continuar interceptando
+[00:28:01:10 --> 00:28:06:22] essa reta a partir desse ponto. Então agora se eu puxo uma reta daqui até esse ponto
+[00:28:06:22 --> 00:28:15:07] aqui, nós agora encontramos um terço da folha. Então se eu pegar nessa interseção
+[00:28:15:07 --> 00:28:21:03] aqui e puxar aqui, olha, eu tenho um terço da folha. A gente pode até tirar a prova.
+[00:28:23:01 --> 00:28:26:09] E, basicamente, a partir disso, a gente segue nessa escala, olha aqui.
+[00:28:26:23 --> 00:28:29:23] Eu tinha mostrado para vocês, mas deu errado ali.
+[00:28:30:02 --> 00:28:31:01] Algum ponto está errado.
+[00:28:31:18 --> 00:28:33:00] Vamos confirmar aqui.
+[00:28:33:27 --> 00:28:35:12] Mas deixa eu ver se está exato aqui.
+[00:28:35:26 --> 00:28:38:06] Deu errado. Quando dá errado assim,
+[00:28:38:25 --> 00:28:39:15] algum ponto...
+[00:28:41:20 --> 00:28:44:14] não foi bem construído, provavelmente foi essa interseção aqui.
+[00:28:45:16 --> 00:28:48:29] Mas deixa eu refazer essa parte aqui só para a gente ter certeza.
+[00:28:49:02 --> 00:28:50:23] Inclusive, tem um ponto aqui... Ah, eu sento dar folha.
+[00:28:52:11 --> 00:28:53:04] Interseção.
+[00:28:55:00 --> 00:28:59:05] Cortou a página, deixa eu só confirmar se está exatamente no meio.
+[00:29:05:03 --> 00:29:09:05] Exatamente, tá vendo? Tá encontrando lá embaixo. Beleza, isso já é válido.
+[00:29:09:15 --> 00:29:10:09] Agora eu puxo daqui.
+[00:29:12:15 --> 00:29:13:03] Até aqui.
+[00:29:15:05 --> 00:29:18:02] E a gente vai dividir a primeira parte.
+[00:29:23:25 --> 00:29:25:13] Agora vamos ver se tá certinho, hein?
+[00:29:26:21 --> 00:29:29:05] Puxo aqui, puxo aqui, agora foi.
+[00:29:30:08 --> 00:29:31:11] Encontrou certinho, tá vendo?
+[00:29:31:21 --> 00:29:34:07] Aqui quando fica assim é porque ainda não encontrou exatamente.
+[00:29:34:19 --> 00:29:35:24] Por que que isso está acontecendo, Juan?
+[00:29:36:21 --> 00:29:38:25] Porque eu ainda não puxei a linha exata.
+[00:29:40:02 --> 00:29:40:16] Olha só.
+[00:29:40:27 --> 00:29:46:02] Isso aqui é no início, nossa, que chato, o Juan fazendo isso, tem que ficar certinho.
+[00:29:46:23 --> 00:29:49:01] Mas depois que você pega o jeito é mais fácil, olha só.
+[00:29:50:19 --> 00:29:55:15] Basicamente, é você puxar certinho aqui, âncora em âncora, se não tiver encontrando,
+[00:29:55:22 --> 00:29:57:01] não vai ficar preciso, tá?
+[00:29:57:21 --> 00:29:59:05] Âncora com âncora aqui também.
+[00:29:59:20 --> 00:30:04:13] É até legal quando tá ao vivo, ou quando você me assiste construindo assim do zero,
+[00:30:05:09 --> 00:30:07:25] que você percebe onde estão os erros que você pode cometer.
+[00:30:08:17 --> 00:30:12:27] Aqui tem um ponto que geralmente a gente erra, se você criá-lo um pouco para baixo assim, olha,
+[00:30:13:02 --> 00:30:16:11] já era, vai ficar errado, e aí você erra toda a construção.
+[00:30:16:20 --> 00:30:18:08] Então, precisa ser bem preciso, tá?
+[00:30:18:15 --> 00:30:19:24] Aqui agora tá bem preciso.
+[00:30:19:24 --> 00:30:24:16] Deixa eu ter certeza... Aí ó, tá bem preciso, agora é só a gente...
+[00:30:25:12 --> 00:30:27:03] e puxar esses dois pontos, olha.
+[00:30:27:20 --> 00:30:30:02] Segura Shift para ir certinho até esse ponto
+[00:30:30:02 --> 00:30:33:08] e aqui até esse ponto.
+[00:30:34:00 --> 00:30:34:09] Legal.
+[00:30:34:22 --> 00:30:37:17] Agora eu puxo dessa diagonal aqui.
+[00:30:38:29 --> 00:30:41:15] Aí, eu interceptei essa reta aqui.
+[00:30:41:23 --> 00:30:43:28] Aqui, eu cortei a página em três agora.
+[00:30:45:25 --> 00:30:52:09] Aqui também, olha, veja se está escrito interseção na linha guia, se estiver escrito então ele pegou exatamente onde você queria, tá?
+[00:30:54:00 --> 00:30:56:02] Agora, eu acredito que a gente vai dar certinho, olha.
+[00:30:56:08 --> 00:30:56:24] Aqui, de novo.
+[00:30:57:27 --> 00:31:00:12] Vem assim para ver se está certinho na interseção.
+[00:31:00:25 --> 00:31:01:19] Aí, ó, certinho.
+[00:31:03:23 --> 00:31:10:24] já posso puxar aqui. Outra curiosidade é que esse ponto exato aqui, se você traça
+[00:31:10:24 --> 00:31:16:09] essa reta e esse retângulo novo que a gente criou, ele tem a mesma proporção do retângulo
+[00:31:16:09 --> 00:31:22:11] de fora. Isso também é uma coisa interessante. Se eu puxar para o lado, ele também vai chegar
+[00:31:22:11 --> 00:31:27:09] em 3. Está vendo que agora chegou? E se eu puxar para baixo agora, ele também chegou
+[00:31:27:09 --> 00:31:34:18] 3. Agora está exato. Essa lógica aqui já é a base que vocês precisam para construir
+[00:31:34:18 --> 00:31:40:24] os grids mais avançados. Entender isso daqui é fundamental, tá? Eu tinha descentralizado
+[00:31:40:24 --> 00:31:45:15] a página ali. Entender isso daqui é fundamental, essa é a base. Se você entender isso daqui
+[00:31:45:15 --> 00:31:51:15] já foi 50% embora, agora a gente só vai se desenvolver. Agora, se você quiser
+[00:31:51:15 --> 00:31:55:09] dividir a página por 4, você continua nessa lógica. Então você puxa daqui
+[00:31:55:09 --> 00:31:58:20] agora para cá, olha, para essa linha aqui do terço.
+[00:31:59:09 --> 00:32:03:11] Essa nova interseção que a gente criou aqui vai dividir a página agora por 4.
+[00:32:03:16 --> 00:32:05:23] Então eu pego aqui exatamente na interseção.
+[00:32:06:29 --> 00:32:07:27] Puxo até aqui.
+[00:32:08:23 --> 00:32:09:28] Agora, se eu tirar essa daqui,
+[00:32:10:03 --> 00:32:12:08] vou tirar para ficar mais fácil de vocês visualizarem,
+[00:32:12:15 --> 00:32:14:00] senão vai ficar uma bagunça aqui.
+[00:32:14:26 --> 00:32:16:00] Vou deixar só essa linha aqui.
+[00:32:17:21 --> 00:32:24:13] do 3. Então, tira tudo. Se eu puxar aqui, olha, ele vai dividir a página... Aqui tem
+[00:32:24:13 --> 00:32:27:08] que ser certinho. Ele vai dividir a página exatamente.
+[00:32:28:19 --> 00:32:29:02] Até só.
+[00:32:30:07 --> 00:32:35:29] coincidiu perfeitamente. Se eu puxar para baixo, a mesma coisa. Por quê? Porque ele
+[00:32:35:29 --> 00:32:40:10] segue a proporção. Exato. Sem nenhuma falha. Perfeito.
+[00:32:41:12 --> 00:32:44:01] Então, criou de quatro. E assim por diante, tá?
+[00:32:44:07 --> 00:32:46:11] Acho que vocês entenderam qual que é a lógica aqui, né?
+[00:32:47:08 --> 00:32:48:17] Para poder criar os outros, ó.
+[00:32:48:25 --> 00:32:50:12] Agora eu não vou ficar replicando, não.
+[00:32:51:02 --> 00:32:52:02] É só para vocês verem.
+[00:32:52:12 --> 00:32:55:15] É até legal vocês fazerem esse exercício aí no Illustrator de vocês.
+[00:32:56:03 --> 00:32:57:00] Que não tá certo, não.
+[00:32:57:16 --> 00:32:58:17] Deixa eu ver. Tá certinho.
+[00:32:59:00 --> 00:32:59:22] Sempre bom conferir.
+[00:33:01:03 --> 00:33:03:12] Puxa lá até aqui.
+[00:33:03:25 --> 00:33:05:25] Ah, eu quero fazer o de 5 agora, legal.
+[00:33:06:07 --> 00:33:08:05] Puxa aqui, olha, na interseção.
+[00:33:09:11 --> 00:33:13:00] De novo agora, puxa daqui até aqui.
+[00:33:13:11 --> 00:33:13:28] E por aí vai.
+[00:33:14:05 --> 00:33:15:00] Vai fazendo vários.
+[00:33:15:04 --> 00:33:17:15] De 6, de 7, de 8, de 9, de 10, de 11, de 12.
+[00:33:18:09 --> 00:33:20:03] E assim por diante, tá?
+[00:33:20:18 --> 00:33:22:08] Deu um bug aqui na tela.
+[00:33:23:18 --> 00:33:24:12] Assim por diante.
+[00:33:24:18 --> 00:33:25:29] Esse é o diagrama de Villard.
+[00:33:27:00 --> 00:33:29:00] Nem fala Vilar, o diagrama de Vilar.
+[00:33:29:26 --> 00:33:31:00] Deixa eu voltar para a tela aqui.
+[00:33:31:22 --> 00:33:34:04] Esse é o diagrama de Vilar, o mais básico.
+[00:33:34:08 --> 00:33:35:26] Ele é a base para construir todo o resto,
+[00:33:36:05 --> 00:33:38:21] entender que isso aqui é fundamental para construir esses gritos
+[00:33:38:21 --> 00:33:40:04] que nós vamos ver aqui hoje.
+[00:33:40:27 --> 00:33:42:25] E é legal que você faça esse teste aí.
+[00:33:43:01 --> 00:33:45:29] Eu até coloquei aqui, Vilar de Roneco...
+[00:33:46:27 --> 00:33:54:24] ou Hanekert, não relevem a minha pronúncia, mas Villard Hanekert, um arquiteto que viveu
+[00:33:54:24 --> 00:34:01:21] e trabalhou durante a segunda metade do século XIII na região da Picardia, no norte da França.
+[00:34:01:27 --> 00:34:06:11] Se ele é da França, então obviamente eu estou pronunciando isso aqui errado, né?
+[00:34:06:26 --> 00:34:09:18] Mas a gente tem então aqui esse diagrama, ele é a base, tá?
+[00:34:09:27 --> 00:34:13:00] Repita ele aí no seu Illustrator, que vai ser um excelente exercício.
+[00:34:14:28 --> 00:34:19:28] A partir dele, então, a gente chega no modelo de Van Der Graaf, que inclusive...
+[00:34:19:28 --> 00:34:21:04] Está errado aqui.
+[00:34:21:11 --> 00:34:22:07] Dois A's e um F.
+[00:34:23:11 --> 00:34:25:06] Inclusive, a gente viu na última aula.
+[00:34:26:11 --> 00:34:29:12] que esse modelo aqui é pra dividir a página em 9, né, mais rápido.
+[00:34:30:03 --> 00:34:34:17] E basicamente, só pra reconstruir aqui pra vocês, ele segue o diagrama de Vilar também.
+[00:34:36:24 --> 00:34:38:00] É a mesma lógica.
+[00:34:38:09 --> 00:34:40:10] A questão aqui que faz a gente chegar na...
+[00:34:41:12 --> 00:34:42:04] Na página...
+[00:34:42:23 --> 00:34:44:00] Divisão por 9 mais rápido,
+[00:34:44:12 --> 00:34:46:14] é que nós estamos usando uma página espelhada, tá?
+[00:34:46:26 --> 00:34:48:06] Então, basicamente, o que a gente vai fazer aqui?
+[00:34:48:07 --> 00:34:50:03] A gente vai traçar uma diagonal aqui.
+[00:34:51:11 --> 00:34:53:02] e vai traçar uma diagonal aqui.
+[00:34:53:05 --> 00:34:55:00] Se você quiser fazer isso com uma página só,
+[00:34:55:15 --> 00:34:57:02] você divide a página no meio aqui
+[00:34:57:02 --> 00:35:00:11] e traça a primeira diagonal para você encontrar o terço.
+[00:35:01:05 --> 00:35:03:24] Aqui nós temos exatamente o terço da página, tá?
+[00:35:04:20 --> 00:35:07:06] Aquela divisória lá por 3 que eu mostrei para vocês.
+[00:35:07:29 --> 00:35:11:12] A partir desse ponto aqui, então a gente puxa uma reta aqui.
+[00:35:11:26 --> 00:35:13:09] A gente vai precisar fazer do outro lado também,
+[00:35:13:11 --> 00:35:14:18] mas eu já vou deixar essa reta aqui.
+[00:35:15:26 --> 00:35:16:03] Tá bom?
+[00:35:17:09 --> 00:35:18:27] A gente já tem ela pronta aqui.
+[00:35:19:14 --> 00:35:23:25] Basicamente, o que eu vou fazer agora é puxar essa reta aqui.
+[00:35:26:07 --> 00:35:27:06] E essa reta aqui.
+[00:35:28:12 --> 00:35:29:08] Pronto.
+[00:35:29:15 --> 00:35:30:12] Agora, o que eu tenho que fazer?
+[00:35:31:04 --> 00:35:34:24] Puxar daqui até aqui, nesse ponto, alinhado com ele mesmo.
+[00:35:35:08 --> 00:35:38:06] E aí nós vamos encontrar nesse segmento exatamente.
+[00:35:39:11 --> 00:35:49:08] a divisão, a nona parte da divisão, ou o 1, 81 avos, se a gente pegar todos os quadrantes aqui.
+[00:35:49:17 --> 00:35:54:14] A gente fez isso na última aula, não sei se você vai lembrar, eu basicamente peguei aqui esse,
+[00:35:55:21 --> 00:35:59:11] essa interseção e nós conseguimos dividir a página aqui por 9, tá?
+[00:36:00:11 --> 00:36:04:11] Legal que aqui ó, o 9 dividido por 3 dá 3, né?
+[00:36:04:11 --> 00:36:10:03] que a gente encontra o terço primeiro, para depois encontrar a nona parte, tá?
+[00:36:10:18 --> 00:36:14:09] E aí, esse é o modelo de Vandegraaff, para dividir a página em nove partes.
+[00:36:14:26 --> 00:36:18:08] A gente viu que isso aqui era muito utilizado nos manuscritos, por quê?
+[00:36:18:18 --> 00:36:22:27] A partir disso daqui, eu nem preciso criar assim, né, no modelo de Vandegraaff.
+[00:36:23:02 --> 00:36:24:02] Agora a gente faz o quê?
+[00:36:24:04 --> 00:36:28:21] Para poder encontrar aquele... a margem dessa composição aqui.
+[00:36:29:13 --> 00:36:33:18] A gente vem nesse ponto de interseção, conecta ele com essa linha, conecta ele
+[00:36:33:18 --> 00:36:37:23] Então, essa linha aqui encontra o ponto dele com aquele lado de cima.
+[00:36:38:03 --> 00:36:38:15] Prontinho.
+[00:36:38:18 --> 00:36:43:06] Então, a gente encontra esse retângulo e isso aqui é utilizado para diagramações
+[00:36:43:06 --> 00:36:44:21] de coluna única.
+[00:36:44:29 --> 00:36:45:26] Uma coluna só.
+[00:36:46:07 --> 00:36:49:24] Na verdade, não é até para fazer com duas colunas, mas naquela época era comum para
+[00:36:49:24 --> 00:36:51:02] uma diagramação de coluna única.
+[00:36:51:11 --> 00:36:53:03] E aí tem várias curiosidades aqui, né?
+[00:36:53:03 --> 00:36:54:08] Nós vimos na última aula.
+[00:36:54:22 --> 00:37:00:20] Hoje eu estou reapresentando isso para vocês com a origem desses modelos, desses
+[00:37:00:20 --> 00:37:02:12] como eles são chamados
+[00:37:03:12 --> 00:37:05:15] Então algumas curiosidades aqui são...
+[00:37:06:25 --> 00:37:08:21] Alguma coisa de errado aqui não tá certo, viu?
+[00:37:09:19 --> 00:37:11:25] Deixa eu ver se eu puxei certinho ali.
+[00:37:14:24 --> 00:37:23:03] ele se encontra ali exatamente. Então, se ficou errado, se está errado, alguma linha está errada também.
+[00:37:25:03 --> 00:37:26:05] Deixa eu ver aqui uma coisa.
+[00:37:33:14 --> 00:37:39:03] era pra ele estar se encontrando exatamente ali. Provavelmente ele não vai terminar.
+[00:37:40:18 --> 00:37:42:28] Deve-te ser o chadeiro de herdeira.
+[00:37:44:14 --> 00:37:44:29] Aqui.
+[00:37:50:15 --> 00:37:51:16] Poxa vida, hein?
+[00:37:52:13 --> 00:37:53:20] Ah, tá aqui, o erro aqui.
+[00:37:53:27 --> 00:37:54:05] Tá vendo?
+[00:37:54:23 --> 00:38:00:03] Às vezes, de perto a gente não vê, de longe a gente não vê, por isso que fazer devagarinho...
+[00:38:00:03 --> 00:38:03:03] Se você está construindo mesmo, faz devagarinho,
+[00:38:03:08 --> 00:38:04:02] faça um outline,
+[00:38:04:18 --> 00:38:05:24] porque aí você só faz uma vez.
+[00:38:06:04 --> 00:38:10:13] Fazer devagar parece que gasta mais tempo, porque você está fazendo devagar,
+[00:38:10:26 --> 00:38:13:27] mas gasta menos porque você não vai ter que fazer tudo de novo.
+[00:38:14:21 --> 00:38:17:00] Aqui, como eu criei errado, eu vou ter que fazer tudo de novo.
+[00:38:17:29 --> 00:38:18:24] Puxa para cá.
+[00:38:21:10 --> 00:38:24:15] contra a interseção. Tira esse retângulo, né? Porque ele tá errado.
+[00:38:24:28 --> 00:38:28:07] No papel é pior ainda, galera. Quando isso aqui acontecia comigo,
+[00:38:29:02 --> 00:38:31:22] na faculdade, eu tava lá montando no papel, isso aqui acontecia.
+[00:38:32:01 --> 00:38:34:20] Eu pegava o papel e rasgava de raiva e começava de novo.
+[00:38:34:25 --> 00:38:36:29] Porque não tem outro jeito, se você ficar apagando lá,
+[00:38:37:11 --> 00:38:39:08] você vai ficar um ano lá apagando,
+[00:38:39:16 --> 00:38:40:22] vai ser melhor puxar uma reta.
+[00:38:42:04 --> 00:38:48:18] Você vai ficar um ano lá apagando a parada e depois vai ficar tudo sujo, borrado, vai
+[00:38:48:18 --> 00:38:49:25] ser horrível.
+[00:38:50:05 --> 00:38:51:05] Acredite em mim.
+[00:38:51:23 --> 00:38:56:14] Então agora eu crio essa reta aqui, encontrando o ponto lá em cima e eu só conecto esse
+[00:38:57:13 --> 00:38:57:21] aqui.
+[00:38:58:05 --> 00:38:58:24] Ó, tá errado.
+[00:38:59:28 --> 00:39:00:14] Então, até lá.
+[00:39:01:20 --> 00:39:05:20] Se não encontra, está errado, está sempre bom avaliar.
+[00:39:05:29 --> 00:39:08:29] Aqui é fácil, aqui você apaga só a linha e continua limpinho, né?
+[00:39:10:17 --> 00:39:11:23] Então, tá. Vamos lá.
+[00:39:12:11 --> 00:39:15:09] Criou aqui a curiosidade que a gente tinha visto, era qual?
+[00:39:15:23 --> 00:39:18:13] Puxa dessa âncora aqui, agora ele vai encontrar, quer ver?
+[00:39:19:21 --> 00:39:21:21] Aí, olha, ele é exato, tá vendo?
+[00:39:22:07 --> 00:39:25:12] Eles se coincidem, as diagonais se coincidem com o objeto.
+[00:39:26:06 --> 00:39:27:14] Então, a primeira curiosidade
+[00:39:28:03 --> 00:39:29:28] é que essa margem funciona assim, olha.
+[00:39:32:02 --> 00:39:35:14] 1,5 de altura por causa da proporção.
+[00:39:36:28 --> 00:39:38:15] dois e três.
+[00:39:40:01 --> 00:39:43:27] Ou então, se você pensar em cada retângulo desse como um módulo, então é...
+[00:39:45:03 --> 00:39:46:04] Dois, dois.
+[00:39:47:17 --> 00:39:49:20] Então, lá embaixo vão dar dois desse aqui também.
+[00:39:52:29 --> 00:39:57:15] Ok? Eu falo porque se for um quadrado, olha, você vai chegar exatamente na medida de 1,5.
+[00:39:59:09 --> 00:40:02:23] Então, aqui a gente tem um quadrado exato, está vendo?
+[00:40:03:10 --> 00:40:07:14] Aqui a gente tem um quadrado e meio, que tem esse final para terminar.
+[00:40:08:05 --> 00:40:09:19] Aqui a gente tem dois quadrados.
+[00:40:11:00 --> 00:40:12:24] E lá embaixo a gente tem três quadrados.
+[00:40:14:28 --> 00:40:15:07] Puxa aqui.
+[00:40:16:22 --> 00:40:17:21] embaixo a gente tem...
+[00:40:19:02 --> 00:40:19:17] três.
+[00:40:21:05 --> 00:40:24:09] Oxe! Conecta aí meu filho, preciso de você.
+[00:40:27:15 --> 00:40:29:10] Cadê os três quadrados, Juan?
+[00:40:29:29 --> 00:40:33:15] Na verdade, eu lembrei aqui por que não conectou.
+[00:40:33:19 --> 00:40:36:04] Por causa que eu estou tentando fazer, isso é comum também.
+[00:40:36:15 --> 00:40:40:06] O modelo do Vandegraaff no modelo do Junt Schold.
+[00:40:40:19 --> 00:40:44:25] O modelo do Junt Schold funciona exatamente dessa forma que eu tentei fazer aqui e não funcionou.
+[00:40:45:01 --> 00:40:49:13] Que é o quê? Um por um e meio, por dois, por três, tá?
+[00:40:49:19 --> 00:40:53:11] Para construir ele a gente precisa construir um arco aqui, a gente deixa para daqui a pouco.
+[00:40:53:29 --> 00:40:56:11] Então, esse é o primeiro modelo, ele é o mais comum.
+[00:40:57:25 --> 00:41:01:04] Funciona super bem, ele é utilizado muito para manuscritos,
+[00:41:01:07 --> 00:41:03:16] só que sabe o que é mais legal que eu vou mostrar aqui para vocês?
+[00:41:03:28 --> 00:41:07:16] Que a gente pode encontrar novos pontos nele e criar novos grids,
+[00:41:08:02 --> 00:41:09:28] essa é a ideia dos grids mais avançados,
+[00:41:10:13 --> 00:41:12:20] sem necessariamente seguir essa regra de nove pontos.
+[00:41:13:11 --> 00:41:15:10] A partir dessas retas aqui.
+[00:41:15:29 --> 00:41:22:07] Então, a gente pode dividir a página em diferentes tamanhos e encontrar...
+[00:41:23:29 --> 00:41:28:00] posições para os elementos que vai harmonizar essa composição no final.
+[00:41:28:05 --> 00:41:29:15] Vou mostrar isso para vocês em breve.
+[00:41:29:28 --> 00:41:33:17] Vamos para o segundo modelo aqui, que é o modelo do Rosarivo,
+[00:41:34:00 --> 00:41:36:19] que eu falei com vocês, que é o mais fácil de todos no Illustrator.
+[00:41:37:04 --> 00:41:39:16] No papel ele é mais difícil porque ele envolve conta.
+[00:41:39:26 --> 00:41:42:08] Você tem que ficar colocando a régua aqui, medindo exato,
+[00:41:42:15 --> 00:41:47:17] fazendo conta, qual que é o tamanho dessa folha aqui.
+[00:41:47:21 --> 00:41:49:28] Aí depois você divide a folha por 9.
+[00:41:49:28 --> 00:41:56:19] Aí, você depois marca com a régua um risquinho desse lado, divide aqui por nove também, divide
+[00:41:56:19 --> 00:42:00:18] embaixo por nove e aí encontra esse ponto, conhece esse, conhece, vai fazendo com a régua.
+[00:42:00:27 --> 00:42:05:12] Muito mais demorado no papel, assim, se você tá no papel, isso aqui é muito rápido,
+[00:42:06:11 --> 00:42:07:12] muito, muito, muito mais rápido.
+[00:42:07:14 --> 00:42:10:14] Você pode fazer esse desafio com alguém, coloca alguém pra fazer assim, olha.
+[00:42:11:24 --> 00:42:16:26] Vamos ver quem consegue fazer um quadriculado de 9x9 mais rápido na folha.
+[00:42:17:04 --> 00:42:22:18] Aposta R$50 com a pessoa, a pessoa vai montar assim, ela vai pegar régua, dividir.
+[00:42:22:23 --> 00:42:27:03] Você vai lá, traz uma diagonal para cá, de uma ponta na outra,
+[00:42:27:10 --> 00:42:30:03] traça a diagonal de uma ponta na metade dela.
+[00:42:30:11 --> 00:42:34:00] Se você for duplicar a folha assim, se você estiver fazendo com uma folha só,
+[00:42:34:03 --> 00:42:37:24] como é o caso aqui, aí você traça essa diagonal, encontra o meio,
+[00:42:37:24 --> 00:42:45:10] Traça essa diagonal, encontra o terço, depois de encontrar o terço, traça uma linha aqui,
+[00:42:47:01 --> 00:42:51:29] no caso, nesse modelo aqui, vai ficar até mais difícil se você for fazer com uma página
+[00:42:51:29 --> 00:42:53:15] só, que aí você vai ter que fazer o quê?
+[00:42:53:19 --> 00:42:57:17] Traça a linha aqui, ainda assim vai ser mais rápido, puxa aqui, traça essa linha,
+[00:42:57:27 --> 00:43:02:12] puxa aqui, traça essa, puxa, traça, puxa, traça, e chega no 9, tá?
+[00:43:02:12 --> 00:43:04:27] Se você quiser também, você pode fazer o quê?
+[00:43:05:29 --> 00:43:10:02] Pegar uma outra folha, que é exatamente o tamanho dessa e fazer igualzinho.
+[00:43:10:07 --> 00:43:12:05] A gente viu lá no modelo de Van Der Graf.
+[00:43:12:13 --> 00:43:16:29] Puxa aqui essa diagonal, puxa essa diagonal, você encontrou esses dois pontos.
+[00:43:17:19 --> 00:43:19:23] Traça aqui, puxa aqui, encontrou de 9.
+[00:43:20:06 --> 00:43:24:03] Aí é só começar a marcar os pontos aqui muito mais rápido.
+[00:43:24:11 --> 00:43:26:29] Você pode ir espelhando isso para encontrar as outras partes,
+[00:43:27:13 --> 00:43:31:09] mas com certeza você vai ganhar 50 reais fazendo esse desafio com alguém.
+[00:43:32:07 --> 00:43:35:26] Então, esse é o modelo de Van Der Graf, esse é o modelo de Rosarivo.
+[00:43:35:29 --> 00:43:37:16] dividindo em 9 partes.
+[00:43:38:01 --> 00:43:42:08] No Illustrator já é mais fácil fazer assim do que fazendo quase diagonais.
+[00:43:42:13 --> 00:43:43:13] Muito, muito mais fácil.
+[00:43:44:01 --> 00:43:45:01] Mas funciona também.
+[00:43:45:06 --> 00:43:48:11] A gente está aqui com o modelo rosarivo, retângulo dividido em 9 partes.
+[00:43:48:24 --> 00:43:52:13] Resultado final é o mesmo do modelo de Vandegraaf.
+[00:43:52:17 --> 00:43:54:05] Só o método que é diferente.
+[00:43:54:10 --> 00:43:55:16] Deixa eu colocar ali para vocês.
+[00:43:55:25 --> 00:43:58:29] Então, o método aqui, nesse caso, é mais fácil para Illustrator.
+[00:43:59:09 --> 00:44:00:17] Nesse caso, é mais fácil para o papel.
+[00:44:00:28 --> 00:44:02:17] Mesmo assim, como a gente falou na última aula,
+[00:44:02:26 --> 00:44:05:05] é muito mais charmoso construir aqui.
+[00:44:05:05 --> 00:44:07:09] É, fica muito melhor no final.
+[00:44:08:05 --> 00:44:08:22] Então, vamos lá.
+[00:44:08:25 --> 00:44:10:00] Depois desses modelos,
+[00:44:10:06 --> 00:44:13:23] agora eu quero ensinar para vocês mais dois conceitos que são básicos,
+[00:44:14:01 --> 00:44:18:13] mas que são o início de uma construção de um grid.
+[00:44:19:16 --> 00:44:23:08] Seja se você for analisar uma composição,
+[00:44:23:19 --> 00:44:26:02] ou se você for criar uma composição,
+[00:44:26:13 --> 00:44:32:00] a base é a regra do terço e as diagonais que se encontram no meio do formato.
+[00:44:32:07 --> 00:44:34:02] Ah, eu quero analisar um cartaz de um filme.
+[00:44:34:02 --> 00:44:38:10] Você sempre vai começar pelas diagonais e pela regra dos terços.
+[00:44:38:15 --> 00:44:38:19] Sempre.
+[00:44:38:22 --> 00:44:39:19] O mais fácil é rápido.
+[00:44:39:26 --> 00:44:41:15] Quem já faz isso há mais tempo é intuitivo.
+[00:44:41:18 --> 00:44:44:26] A primeira coisa que você olha é a regra dos terços e as diagonais.
+[00:44:45:10 --> 00:44:49:28] Porque isso encontra pontos de relação muito interessantes para a gente explorar.
+[00:44:50:00 --> 00:44:51:08] Vocês vão ver isso já na prática.
+[00:44:51:08 --> 00:44:53:12] Vou mostrar para vocês alguns casos aqui.
+[00:44:53:18 --> 00:44:54:01] Tá bom?
+[00:44:54:12 --> 00:44:55:14] E aí como que isso funciona?
+[00:44:55:29 --> 00:44:57:01] Deixa eu mostrar aqui para vocês.
+[00:44:57:04 --> 00:44:57:23] É super simples.
+[00:44:58:07 --> 00:45:01:29] Primeiro, sobre as diagonais são essas duas linhas que eu já tinha mostrado
+[00:45:01:29 --> 00:45:02:14] para vocês.
+[00:45:02:14 --> 00:45:05:17] e vamos tirar esses elementos aqui.
+[00:45:07:16 --> 00:45:10:04] Aqui, aqui, aqui e aqui.
+[00:45:11:17 --> 00:45:13:08] Então a gente tem essas diagonais aqui.
+[00:45:14:25 --> 00:45:16:18] Vou deixar assim porque eu fiz elas.
+[00:45:17:23 --> 00:45:20:10] Posso tirar aqui, tirar aqui e tirar aqui.
+[00:45:21:23 --> 00:45:24:01] Então, essas duas diagonais são a primeira base.
+[00:45:24:03 --> 00:45:26:21] Vai construir um elemento, você traça um grid,
+[00:45:26:26 --> 00:45:28:03] você traça essas duas diagonais.
+[00:45:28:16 --> 00:45:29:00] Por quê?
+[00:45:29:14 --> 00:45:32:11] Porque elas vão te dar tanto aqui a divisão...
+[00:45:34:19 --> 00:45:37:09] simétrica na horizontal e na vertical, tá?
+[00:45:37:15 --> 00:45:39:20] Então aqui na vertical e na horizontal.
+[00:45:40:11 --> 00:45:41:19] E as duas divisões pra gente.
+[00:45:43:02 --> 00:45:47:18] Sem tirar que ele divide a página também, se você quiser fazer isso daqui de novo,
+[00:45:47:23 --> 00:45:48:16] olha, você vai encontrar.
+[00:45:50:19 --> 00:45:54:17] novos pontos. Isso aqui, por exemplo, é um jeito de dividir a página em quatro.
+[00:45:55:29 --> 00:45:59:19] Em oito, no caso aqui, a gente vai dividir em mais quatro, mais quatro, vai dar 16, né?
+[00:46:00:19 --> 00:46:02:16] Mas você pode puxar dessa interseção aqui, olha.
+[00:46:04:19 --> 00:46:08:21] e simplesmente com essa técnica aqui você divide a página em quatro, tá vendo?
+[00:46:12:03 --> 00:46:15:24] 4, 4, 4, 4, que na verdade é 4 por 4 dá 16, né?
+[00:46:17:07 --> 00:46:20:05] É uma técnica super simples, mas ela é a base.
+[00:46:20:14 --> 00:46:23:00] Sempre vai fazer uma análise, começa por essas duas diagonais.
+[00:46:23:01 --> 00:46:25:04] Se você não encontrar nada nela, que pode acontecer,
+[00:46:25:06 --> 00:46:27:18] nem todo grid explore essas duas diagonais,
+[00:46:27:28 --> 00:46:30:20] aí você parte para a próxima etapa, eu vou mostrar aqui para vocês.
+[00:46:31:01 --> 00:46:32:13] Mas esse é o início.
+[00:46:33:08 --> 00:46:35:04] Essas duas diagonais são muito úteis.
+[00:46:35:19 --> 00:46:37:14] E a segunda parte é a regra do terço.
+[00:46:38:00 --> 00:46:39:19] Então, deixa eu voltar aqui para vocês.
+[00:46:40:18 --> 00:46:43:03] Como que dividir... Eu vou redividir aqui, ao invés de voltar.
+[00:46:43:06 --> 00:46:44:13] Como que dividir a página em três?
+[00:46:44:16 --> 00:46:45:13] A gente acabou de ver.
+[00:46:45:13 --> 00:46:48:21] Quer dividir a página em três? Dividi ela no meio...
+[00:46:48:21 --> 00:46:49:25] Opa, não está puxando aqui.
+[00:46:50:10 --> 00:46:50:26] Só colocar.
+[00:46:51:27 --> 00:46:54:19] Dividi ela no meio, puxa daqui pra cá.
+[00:46:55:01 --> 00:46:56:06] Pronto, a gente encontrou...
+[00:46:57:07 --> 00:47:01:01] Essa parte aqui, eu posso até já criar o retângulo de uma vez para facilitar.
+[00:47:01:14 --> 00:47:02:13] Puxo para cá.
+[00:47:03:00 --> 00:47:05:13] Beleza, dividimos a página em três.
+[00:47:05:23 --> 00:47:07:12] Agora, basicamente, eu puxo aqui...
+[00:47:08:09 --> 00:47:08:23] Pra cá!
+[00:47:10:04 --> 00:47:18:05] Exato, aí. A regra do terço são quatro pontos. Quatro pontos de foco muito fortes
+[00:47:18:05 --> 00:47:24:02] em um formato, em uma composição. São quatro pontos que o nosso cérebro tende a focar
+[00:47:24:02 --> 00:47:28:22] logo de cara, tá? E esses quatro pontos que eu já tinha marcado pra vocês são
+[00:47:28:22 --> 00:47:31:25] esses quatro pontos focais aqui, olha. Deixa eu pegar a bolinha que é melhor.
+[00:47:33:12 --> 00:47:34:05] Esse ponto.
+[00:47:35:12 --> 00:47:36:03] Esse ponto.
+[00:47:37:10 --> 00:47:37:25] Isto.
+[00:47:39:19 --> 00:47:40:10] Este.
+[00:47:40:22 --> 00:47:45:13] Esses quatro pontos aqui são os mais importantes quando você aplica a regra dos terços.
+[00:47:45:15 --> 00:47:51:10] São quatro locais, se você vai tirar uma foto, ou se você quer construir uma composição,
+[00:47:51:20 --> 00:47:55:28] são quatro pontos muito importantes de serem explorados.
+[00:47:56:04 --> 00:48:01:01] Às vezes, por que a gente coloca elementos de menos interesse ou de menos relação
+[00:48:01:01 --> 00:48:01:28] nas bordas?
+[00:48:02:00 --> 00:48:04:08] Porque são os últimos elementos que serão observados.
+[00:48:04:21 --> 00:48:07:09] Por que a gente coloca os elementos mais importantes no centro?
+[00:48:07:09 --> 00:48:09:13] porque serão os elementos que serão observados primeiro.
+[00:48:09:29 --> 00:48:13:05] Só que abusar disso e criar assimetrias
+[00:48:13:05 --> 00:48:14:16] pode ser muito interessante.
+[00:48:14:23 --> 00:48:16:28] Por exemplo, existe um padrão que se chama padrão Z.
+[00:48:18:01 --> 00:48:18:26] Que é esse daqui, olha.
+[00:48:20:09 --> 00:48:26:16] de hierarquia. Então, você cria primeiro objeto de interesse, segundo, terceiro e quarto.
+[00:48:27:27 --> 00:48:29:23] Isso aqui conduz o olhar das pessoas.
+[00:48:30:04 --> 00:48:32:04] Você pode explorar isso, mudar essa ordem,
+[00:48:32:07 --> 00:48:34:28] e você vai brincar com o ritmo...
+[00:48:34:28 --> 00:48:36:11] Não o ritmo, com a direção, né?
+[00:48:36:14 --> 00:48:39:04] Com a direção de leitura da pessoa na página.
+[00:48:39:14 --> 00:48:42:17] Lembrando sempre que a gente tem uma forte influência cultural
+[00:48:42:17 --> 00:48:44:15] de leitura da esquerda para a direita
+[00:48:44:15 --> 00:48:47:26] e uma forte influência fisiológica de leitura de cima para baixo,
+[00:48:48:00 --> 00:48:52:05] uma questão de gravidade, de ordem de observação nossa enquanto ser humano.
+[00:48:53:01 --> 00:48:54:28] A gente não tem o costume de olhar de baixo para cima,
+[00:48:55:16 --> 00:48:56:18] mas de cima para baixo.
+[00:48:57:06 --> 00:49:00:28] Então, essa é a regra dos textos, essa é a regra das diagonais.
+[00:49:01:01 --> 00:49:04:25] Deixa eu mostrar pra vocês, na prática, essas duas regras funcionando.
+[00:49:04:26 --> 00:49:07:19] Então, vou cortar a linha guia aqui, só pra vocês visualizarem.
+[00:49:08:02 --> 00:49:13:11] Esse daqui é um quadro pintado por um pintor belga chamado Albert Bartsoen.
+[00:49:13:23 --> 00:49:20:17] Nossa, os entendedores belgas aí vão falar, meu Deus, Juan, você pronunciou o nome completamente
+[00:49:20:17 --> 00:49:20:27] errado.
+[00:49:21:01 --> 00:49:21:23] Eu sei, meu querido.
+[00:49:22:04 --> 00:49:23:07] Eu sinto muito por isso.
+[00:49:23:28 --> 00:49:24:26] Relevem essa parte.
+[00:49:24:26 --> 00:49:29:08] Mas ele viveu entre 1866 e 1922.
+[00:49:29:26 --> 00:49:31:19] E o que é curioso sobre esse quadro?
+[00:49:31:20 --> 00:49:34:29] Ele é um excelente exemplo da aplicação da regra dos terços.
+[00:49:35:10 --> 00:49:39:10] Quando você observa esse quadro, olha só como que o seu olhar é direcionado.
+[00:49:39:10 --> 00:49:41:26] Você percorre ele de determinada forma.
+[00:49:42:10 --> 00:49:46:14] Naturalmente, por causa desse espaço vazio aqui, a direção do seu olhar é essa.
+[00:49:46:16 --> 00:49:47:13] Você faz isso.
+[00:49:47:29 --> 00:49:51:05] E você tem esse ponto aqui interessante, que é onde está o barco.
+[00:49:51:23 --> 00:49:53:13] Um segundo ponto interessante é esse.
+[00:49:53:13 --> 00:49:56:28] Então, esse... Depois você começa a observar melhor, né?
+[00:49:57:11 --> 00:50:00:07] Você olha esses elementos, olha esses elementos...
+[00:50:00:07 --> 00:50:03:19] Aí você percebe essa luz aqui e por aí vai, tá?
+[00:50:03:19 --> 00:50:05:01] Você vai percebendo os novos elementos.
+[00:50:05:10 --> 00:50:06:09] Por que isso acontece?
+[00:50:06:11 --> 00:50:09:22] Porque essa composição aqui foi construída em cima da récara dos terços
+[00:50:09:22 --> 00:50:10:27] e em cima das diagonais.
+[00:50:11:08 --> 00:50:13:10] Quando eu ativo as linhas guias aqui, olha só,
+[00:50:13:28 --> 00:50:17:19] vocês conseguem perceber como que os elementos dessa pintura
+[00:50:18:07 --> 00:50:20:17] coincidem com esses pontos importantes.
+[00:50:20:23 --> 00:50:23:07] Então, olha só, o barco, ele tá aqui, olha,
+[00:50:23:07 --> 00:50:25:21] E o centro dele está coincidindo aqui.
+[00:50:27:29 --> 00:50:29:24] essa interseção aqui e o barco.
+[00:50:31:00 --> 00:50:33:09] O barco está coincidindo exatamente com essa interseção.
+[00:50:33:28 --> 00:50:36:03] Isso aqui não é à toa, isso é de propósito.
+[00:50:36:13 --> 00:50:38:20] Isso aqui pesa a composição,
+[00:50:39:10 --> 00:50:42:09] desequilibra ela para esse lado, propositalmente.
+[00:50:43:09 --> 00:50:46:16] Depois, em seguida, a gente tem outros elementos que estão próximos aqui,
+[00:50:46:22 --> 00:50:48:24] como por exemplo, essa área aqui,
+[00:50:49:21 --> 00:50:53:05] que é uma segunda área de interesse, ou essa daqui também,
+[00:50:54:04 --> 00:50:57:11] que trazem pontos de interesse dentro da composição.
+[00:50:58:03 --> 00:51:00:24] O menor ponto de interesse é esse aqui, para cá.
+[00:51:00:24 --> 00:51:00:27] e aí
+[00:51:02:24 --> 00:51:04:18] Tem pouca informação valiosa aqui.
+[00:51:06:01 --> 00:51:10:04] Entende? E essa simetria, ela cria uma dinâmica interessante.
+[00:51:11:03 --> 00:51:14:22] Olha de novo para o quadro agora, sem essas linhas guias.
+[00:51:15:15 --> 00:51:18:16] Ela cria uma dinâmica interessante, ela cria um movimento.
+[00:51:19:15 --> 00:51:21:06] Tá bom? Então, esse é um primeiro exemplo.
+[00:51:21:09 --> 00:51:23:18] Vamos ver mais um exemplo agora de uma fotografia.
+[00:51:23:22 --> 00:51:25:26] Essa fotografia que ela ganhou um prêmio.
+[00:51:26:04 --> 00:51:28:28] O prêmio da Sony World Photography Awards.
+[00:51:29:24 --> 00:51:31:02] Ela se chama Girl Power.
+[00:51:32:04 --> 00:51:35:00] e ela tem uma construção, é uma foto.
+[00:51:36:09 --> 00:51:41:16] mas ela tem uma construção de composição muito bem pensada.
+[00:51:42:00 --> 00:51:43:04] Às vezes as pessoas olham e falam,
+[00:51:43:10 --> 00:51:45:13] nossa, essa aqui foi a fotografia que ganhou um prêmio,
+[00:51:45:18 --> 00:51:46:28] deixa eu tirar essas linhas guias aqui.
+[00:51:50:07 --> 00:51:50:20] ocultar.
+[00:51:51:00 --> 00:51:53:10] Essa fotografia ganhou um prêmio, por que ela ganhou um prêmio?
+[00:51:53:12 --> 00:51:55:28] Ela tem vários fatores que fazem ela ganhar um prêmio, né?
+[00:51:56:05 --> 00:52:01:03] A quantidade de céu aqui, a quantidade de mar, o fato dela estar exatamente alinhada
+[00:52:01:03 --> 00:52:01:18] aqui.
+[00:52:03:27 --> 00:52:08:18] A própria assimetria dela, que é muito interessante, ela causa um movimento na cena
+[00:52:08:18 --> 00:52:13:03] aqui que torna essa uma imagem interessante, uma imagem que vale a pena investir um tempo
+[00:52:13:03 --> 00:52:14:16] para observar, para entender.
+[00:52:14:16 --> 00:52:20:15] E quando eu trago o Creed aqui para vocês, vocês veem como que a estrutura é uma estrutura
+[00:52:20:15 --> 00:52:21:05] lógica.
+[00:52:21:17 --> 00:52:23:27] Deixe-me voltar ele aqui assim.
+[00:52:24:09 --> 00:52:26:06] Olha só, ela é uma estrutura muito lógica.
+[00:52:28:05 --> 00:52:30:10] O nosso olhar é direcionado aqui.
+[00:52:31:20 --> 00:52:32:24] Isso é de propósito.
+[00:52:33:29 --> 00:52:36:18] Como que o nosso olhar é direcionado para esse ponto focal?
+[00:52:37:01 --> 00:52:38:14] Mas não tem nada aqui.
+[00:52:38:20 --> 00:52:43:20] Nem sempre, e isso é um erro comum, as pessoas acham que o elemento precisa estar exatamente no ponto focal.
+[00:52:44:01 --> 00:52:46:17] O que você precisa entender da regra dos terços
+[00:52:46:17 --> 00:52:52:09] é que os pontos focais funcionam como se fossem planetas que possuem a sua própria gravidade
+[00:52:52:09 --> 00:52:55:16] e eles puxam elementos para lá, tá bom?
+[00:52:55:24 --> 00:52:58:03] Então aqui eu estou criando mais ou menos só para você entender.
+[00:52:58:14 --> 00:53:00:22] Você fala, aqui não tem nada de interessante nem aqui.
+[00:53:00:22 --> 00:53:05:04] Porque foi uma escolha, essa simetria aqui, ela traz movimento para a cena.
+[00:53:05:10 --> 00:53:10:11] Isso é criar uma composição, é você escolher para onde você quer direcionar o olhar da pessoa, tá?
+[00:53:10:23 --> 00:53:12:10] E sabe o que é mais legal nela?
+[00:53:13:16 --> 00:53:21:22] Que a própria posição aqui dessa mulher, ela traz esse triângulo aqui que também direciona ainda mais para lá.
+[00:53:22:04 --> 00:53:25:29] Então a gente tem uma força muito forte que direciona o nosso olhar.
+[00:53:26:13 --> 00:53:28:00] Isso é criar uma composição.
+[00:53:28:00 --> 00:53:33:01] Isso é definir para onde você quer que a pessoa... Olha, fora também toda a harmonia, né?
+[00:53:33:01 --> 00:53:37:10] Isso a gente chama de balanço. Como assim, Juan? Me explica isso melhor. Olha só que interessante.
+[00:53:38:08 --> 00:53:42:00] Deixa eu tirar as linhas guias aqui de novo, para vocês visualizarem isso.
+[00:53:44:15 --> 00:53:47:19] definir como linha-guia e ocultar.
+[00:53:48:02 --> 00:53:50:13] Olha só que interessante, a gente tem aqui essa divisória.
+[00:53:52:07 --> 00:53:55:23] E aqui a gente já tem um primeiro equilíbrio, em inglês chama balance.
+[00:53:57:22 --> 00:53:59:27] Como que a gente vê esse equilíbrio na composição?
+[00:54:00:18 --> 00:54:02:09] Aqui a gente tem muito espaço em branco
+[00:54:03:07 --> 00:54:07:04] que equilibra essa parte de cima por causa desses elementos,
+[00:54:07:18 --> 00:54:09:28] que são elementos que quebram o padrão aqui.
+[00:54:10:12 --> 00:54:13:15] E embaixo a gente tem uma densidade de elementos,
+[00:54:14:04 --> 00:54:16:28] mais preto, que tem mais branco e que tem mais preto.
+[00:54:17:04 --> 00:54:19:06] Mas a gente não tem nenhum elemento de quebra de padrão,
+[00:54:19:07 --> 00:54:21:00] a gente tem um padrão muito fácil de perceber,
+[00:54:21:03 --> 00:54:22:20] a água e as pedras.
+[00:54:22:27 --> 00:54:23:14] Nada demais.
+[00:54:23:22 --> 00:54:26:04] Se tivesse algum elemento aqui diferenciado,
+[00:54:26:04 --> 00:54:31:06] Aí a gente mudaria completamente a dinâmica dessa composição.
+[00:54:31:07 --> 00:54:33:12] Ela seria mais ou menos daqui pra cá e daqui pra cá.
+[00:54:34:02 --> 00:54:36:01] A gente mudaria completamente a dinâmica dela.
+[00:54:36:22 --> 00:54:38:21] Se tivesse um elemento aqui de quebra de padrão.
+[00:54:39:26 --> 00:54:42:15] também deixaria assimétrico, também poderia ser interessante.
+[00:54:43:10 --> 00:54:46:09] Mas então a gente pensa aqui primeiro no equilíbrio
+[00:54:46:09 --> 00:54:47:20] da parte de cima com a de baixo.
+[00:54:48:12 --> 00:54:49:14] Aqui é a mesma coisa.
+[00:54:50:03 --> 00:54:52:12] Aqui, na verdade, quando a gente divide a página...
+[00:54:52:12 --> 00:54:54:03] Eita, estou querendo fazer um... Aí!
+[00:54:54:24 --> 00:54:57:27] Quando a gente divide a página nessas duas verticais,
+[00:54:58:07 --> 00:55:01:04] a gente tem um peso muito maior na esquerda.
+[00:55:01:04 --> 00:55:03:15] Aqui pesa muito mais do que aqui.
+[00:55:03:25 --> 00:55:05:07] Isso também é de propósito,
+[00:55:05:09 --> 00:55:07:07] porque eu quero chamar a sua atenção para cá.
+[00:55:07:07 --> 00:55:10:05] Eu quero te mostrar, olha para cá, aqui é a parte mais importante.
+[00:55:10:23 --> 00:55:11:03] Entendeu?
+[00:55:11:20 --> 00:55:13:20] Então, isso tudo é proposital, tá bom?
+[00:55:13:27 --> 00:55:17:21] Um fotógrafo que tira uma foto dessa, isso que eu estou mostrando para vocês não é
+[00:55:17:21 --> 00:55:19:13] uma coincidência, tá bom?
+[00:55:20:02 --> 00:55:22:01] E isso que eu quero que vocês observem nesse momento.
+[00:55:22:21 --> 00:55:24:02] Vamos ver mais um exemplo aqui.
+[00:55:24:17 --> 00:55:27:24] Olha essa daqui, também ganhou prêmio na categoria de Inglaterra Histórica,
+[00:55:28:00 --> 00:55:30:25] teve um concurso de fotos históricas.
+[00:55:31:04 --> 00:55:34:15] E essa daqui também ganhou um prêmio, que é a Ponte de Clifton, que fica em
+[00:55:34:15 --> 00:55:36:17] Bristol, uma cidade lá na Inglaterra.
+[00:55:37:06 --> 00:55:41:29] E essa foto aqui é outra foto, olha, deixa eu tirar o grid para vocês visualizarem.
+[00:55:42:25 --> 00:55:46:04] Ela basicamente utiliza a regra dos textos, tá?
+[00:55:49:05 --> 00:55:50:04] Deixa eu puxar tudo aqui.
+[00:55:52:11 --> 00:55:55:05] Eu transformei em Lia Guia, tá aqui pra gente ainda, mas a gente olha depois.
+[00:55:56:09 --> 00:55:56:28] Então vou cortar.
+[00:55:58:06 --> 00:56:03:00] Nossa, está difícil hoje. Estou apertando os atalhos errados. Estou esquecendo os atalhos.
+[00:56:04:07 --> 00:56:06:20] Aí agora, ocultar aqui isso. Beleza?
+[00:56:06:25 --> 00:56:11:11] Dá uma olhada nessa composição, tá? É uma foto, mas existe aí uma composição.
+[00:56:12:01 --> 00:56:14:14] A primeira coisa que a gente observa é essa diagonal aqui.
+[00:56:15:13 --> 00:56:18:28] Até mesmo a escolha da diagonal, da esquerda pra direita, importa, tá?
+[00:56:18:29 --> 00:56:20:13] Depois a gente vai falar mais sobre diagonais.
+[00:56:20:20 --> 00:56:23:16] Na verdade, a gente já falou bastante sobre diagonais, né?
+[00:56:23:19 --> 00:56:25:20] Já tem algumas aulas sobre isso, se você não assistiu ainda.
+[00:56:26:04 --> 00:56:29:10] A diagonal da esquerda pra direita mostra crescimento.
+[00:56:29:20 --> 00:56:32:13] A diagonal, tende, né? Não sempre, mas na maioria das vezes.
+[00:56:33:13 --> 00:56:39:11] A diagonal da esquerda para a direita, a parte mais alta é na esquerda, a parte mais baixa
+[00:56:39:11 --> 00:56:45:07] é na direita, tende a passar a ideia de tecida, está em aver com o nosso senso de gravidade,
+[00:56:45:14 --> 00:56:48:25] aquela coisa, nosso senso de leitura também, nossa direção de leitura.
+[00:56:49:17 --> 00:56:53:13] Então isso aqui tende a representar crescimento, positividade, é uma diagonal muito forte,
+[00:56:53:19 --> 00:56:55:02] é a primeira coisa que a gente percebe.
+[00:56:55:02 --> 00:56:57:18] A segunda coisa que a gente percebe são...
+[00:56:58:22 --> 00:57:06:22] Essas duas informações aqui são duas quebras de padrões, são duas zonas espaciais
+[00:57:07:11 --> 00:57:10:07] que têm mais informações para serem consumidas.
+[00:57:10:16 --> 00:57:15:18] Existem algumas outras informações aqui, mas elas nessa composição são menos relevantes.
+[00:57:15:22 --> 00:57:20:03] O que a gente mais percebe são essas aqui, aqui, aqui e aqui.
+[00:57:20:23 --> 00:57:24:27] E quando a gente aplica aqui, então, olha só que interessante, a regra dos terços,
+[00:57:24:27 --> 00:57:31:28] Nós conseguimos ver um movimento e conseguimos entender qual que é a zona espacial mais importante nessa composição.
+[00:57:32:11 --> 00:57:37:22] Então a gente tem esse ponto focal aqui, que ele é nítido, o primeiro ponto focal nosso de direção.
+[00:57:37:29 --> 00:57:40:00] Você pode falar, mas eu comecei olhando para aqui primeiro.
+[00:57:40:11 --> 00:57:44:03] Não tem problema, isso acontece também, porque esse também é um ponto focal.
+[00:57:44:19 --> 00:57:46:05] Ele também explora um ponto focal.
+[00:57:46:16 --> 00:57:50:09] Mas o que é legal, que às vezes as pessoas não sabem também, é que você pode
+[00:57:50:09 --> 00:57:54:29] modular essa regra dos terços e colocar uma regra do terço dentro de uma regra do terço.
+[00:57:55:04 --> 00:57:56:21] E é o que a gente consegue ver aqui.
+[00:57:56:26 --> 00:57:58:18] Olha só como existe um movimento, então.
+[00:57:58:28 --> 00:58:03:21] A gente tem esse ponto focal, a gente puxa para esse aqui, que é o outro ponto focal importante.
+[00:58:04:01 --> 00:58:05:14] Aí você fala, ah, não tem nada aqui.
+[00:58:05:22 --> 00:58:07:21] Mas não precisa ser exato, tá?
+[00:58:07:22 --> 00:58:10:25] Quando você analisa a regra dos terços, você está analisando um movimento,
+[00:58:11:07 --> 00:58:13:25] uma força, uma espécie de gravidade, como eu disse.
+[00:58:14:14 --> 00:58:17:08] Então, o segundo ponto focal que nós temos de interesse é esse aqui, ó.
+[00:58:17:08 --> 00:58:24:12] E ele é exatamente um ponto focal dentro desse quadrante aqui, dentro de uma regra nesse quadrante.
+[00:58:25:07 --> 00:58:32:05] E olha que interessante, eu tracei essa linha aqui também para vocês observarem como que...
+[00:58:33:11 --> 00:58:41:11] essas linhas posicionam muito bem quais são os pontos mais relevantes dentro dessa composição.
+[00:58:41:21 --> 00:58:45:00] Se você tem uma fotografia ou uma composição que começa que tudo é importante,
+[00:58:45:02 --> 00:58:48:24] se tudo fosse importante aqui, tivesse um monte de informação importante aqui,
+[00:58:49:14 --> 00:58:52:15] a gente teria uma fotografia mais difícil de ser consumida,
+[00:58:52:28 --> 00:58:55:29] menos harmônica, porque seria muita coisa para observar.
+[00:58:56:03 --> 00:58:59:10] No caso dessa fotografia aqui, olha que interessante,
+[00:59:00:06 --> 00:59:01:23] o nosso olhar é direcionado,
+[00:59:01:23 --> 00:59:06:10] A gente tem a regra dos terços aqui, e olha, quando eu tiro ela agora, depois que você
+[00:59:06:10 --> 00:59:10:05] viu, fica muito nítido, fica muito claro esse movimento, tá?
+[00:59:10:08 --> 00:59:10:27] Olha aqui de novo.
+[00:59:12:21 --> 00:59:17:14] fica muito claro a gente perceber quais são os pontos de atenção nessa composição.
+[00:59:17:23 --> 00:59:23:13] E eu trouxe também aqui uma imagem, mais uma fotografia, que utiliza a regra dos terços,
+[00:59:23:16 --> 00:59:29:20] só que na sua forma mais básica, apesar de ter todas essas linhas guias aqui, se a gente
+[00:59:29:20 --> 00:59:35:21] pega só as linhas da regra dos terços aqui, os 9 quadrantes, a gente consegue perceber
+[00:59:35:21 --> 00:59:41:19] aqui, deixa eu tirar aqui, olha só, é um objeto mais estático, é uma fotografia que
+[00:59:41:19 --> 00:59:46:04] ela é mais parada, ela passa uma sensação de ser muito estável, ela tá parada ali
+[00:59:46:04 --> 00:59:51:01] e tem tudo a ver com o tema, é diferente daqui por exemplo, aqui ele quer passar a
+[00:59:51:01 --> 00:59:55:03] ideia de movimento, aqui principalmente quer passar essa ideia de movimento, deixa eu
+[00:59:55:03 --> 01:00:00:13] transformar esse em linha aqui, aqui principalmente quer passar essa ideia de movimento, porque
+[01:00:00:13 --> 01:00:04:26] que ele deixou mais espaço embaixo e menos espaço em cima? Porque ele quer dar a
+[01:00:04:26 --> 01:00:11:07] de que esse objeto está caindo, se ele tivesse deixado pouco espaço embaixo, muito espaço
+[01:00:11:07 --> 01:00:15:16] em cima, a sensação é que o objeto vai terminar de cair agora ou que ele está subindo,
+[01:00:15:18 --> 01:00:20:24] dependendo de alguns casos, que parece mais um pulo. Não é o que a gente vê aqui, porque
+[01:00:20:24 --> 01:00:26:21] ele compôs dessa forma para você ter essa sensação. Aqui, esse movimento todo
+[01:00:27:08 --> 01:00:34:13] também é uma composição para te mostrar movimento. Já nessa fotografia, ela não
+[01:00:34:13 --> 01:00:38:00] Ela quer te passar movimento, ela quer te passar estabilidade, uma coisa que está parada ali
+[01:00:38:00 --> 01:00:39:09] há muito tempo.
+[01:00:39:14 --> 01:00:46:23] Esses aqui são dois navios naufragados que lá em... eu coloquei ali, olha lá, em 1960,
+[01:00:47:10 --> 01:00:49:16] esses dois navios colidiram e ficaram lá.
+[01:00:50:10 --> 01:00:53:15] Então mostram um naufragem de dois navios em um rio.
+[01:00:54:07 --> 01:00:58:05] E aí, olha só como que essa imagem é estática.
+[01:00:58:05 --> 01:01:03:18] Quando você usa uma simetria exata, quando você...
+[01:01:06:03 --> 01:01:08:13] Deixa eu fazer mais ou menos aqui só para vocês usarem.
+[01:01:10:14 --> 01:01:15:07] mais para cima um pouquinho. Quando vocês têm uma simetria exata ou muito próxima do
+[01:01:15:07 --> 01:01:20:12] exato, você tem um equilíbrio exato, o que acontece? O que acontece com a balança
+[01:01:20:12 --> 01:01:23:19] quando você deixa ela equilibrada? Ela para de mexer.
+[01:01:25:02 --> 01:01:27:13] Ela para de ter movimento, ela fica estável.
+[01:01:27:20 --> 01:01:28:25] A mesma coisa acontece aqui.
+[01:01:29:05 --> 01:01:34:26] Se você explora, então, esses quatro pontos aqui são pontos importantes,
+[01:01:35:05 --> 01:01:38:09] você tende a criar uma composição mais estável, mais parada.
+[01:01:38:14 --> 01:01:39:06] Ah, é errado então?
+[01:01:39:18 --> 01:01:40:21] Não, não é errado.
+[01:01:41:09 --> 01:01:43:06] Depende da mensagem que você quer passar.
+[01:01:43:08 --> 01:01:44:05] Isso que estou mostrando para vocês.
+[01:01:44:09 --> 01:01:47:23] E é uma regra simples, a regra do terço, inclusive, é muito conhecida.
+[01:01:48:05 --> 01:01:51:15] Ela, inclusive, é a base para criarmos os grids avançados que eu já vou mostrar.
+[01:01:51:15 --> 01:01:58:24] Mas olha como uma técnica simples aplicada aqui, a forma como você usa ela pode mudar
+[01:01:58:24 --> 01:02:04:11] completamente a sensação que aquela composição vai te passar, tá bom?
+[01:02:04:18 --> 01:02:09:09] Então deixa eu voltar aqui o grid pra gente dar uma analisada maior nele.
+[01:02:09:14 --> 01:02:11:00] Por que eu coloquei esse tanto de diagonal?
+[01:02:11:16 --> 01:02:16:10] Porque eu quero mostrar pra vocês que as diagonais se coincidem em alguns pontos
+[01:02:16:10 --> 01:02:18:02] que são pontos fortes também.
+[01:02:18:02 --> 01:02:25:05] Por exemplo, esses dois pontos aqui definem exatamente essa linha que corta o formato em dois.
+[01:02:25:19 --> 01:02:30:29] É um ponto interessante que, dependendo da composição, se você quer trazer uma composição mais estável,
+[01:02:31:08 --> 01:02:34:03] explorar esse meio aqui pode ser interessante.
+[01:02:34:15 --> 01:02:36:01] Esse pipinho do mar azul aqui.
+[01:02:36:14 --> 01:02:38:24] Explorar esse meio numa composição pode ser interessante.
+[01:02:39:03 --> 01:02:43:06] Assim como explorar esse daqui pode ser interessante também.
+[01:02:43:18 --> 01:02:44:01] Tá bom?
+[01:02:44:01 --> 01:02:49:18] Então, não é que é rígido, você precisa sempre coincidir algum objeto nesses 4 pontos.
+[01:02:50:01 --> 01:02:54:16] Depende de como você quer conduzir o olhar da pessoa, depende do movimento que você
+[01:02:54:16 --> 01:02:56:26] quer criar naquela composição, tá bom?
+[01:02:58:18 --> 01:03:02:08] Aqui agora, eu quero mostrar para vocês algumas curiosidades.
+[01:03:02:11 --> 01:03:06:06] Voltamos aqui para o modelo de Van Der Graf, o canônio de Van Der Graf,
+[01:03:06:12 --> 01:03:08:16] para mostrar como que esse ponto aqui é interessante.
+[01:03:09:12 --> 01:03:11:18] Inclusive, aqui nessa composição...
+[01:03:11:18 --> 01:03:12:25] Nossa, eu rabisquei ela toda, né?
+[01:03:13:06 --> 01:03:18:09] Aqui nessa composição, a gente tem, basicamente, o canônio de Van Der Graf
+[01:03:18:09 --> 01:03:19:13] numa fotografia.
+[01:03:21:12 --> 01:03:22:10] Às vezes as pessoas pensam,
+[01:03:22:12 --> 01:03:27:02] por que eu vou estudar grid para editorial para fazer livro?
+[01:03:27:05 --> 01:03:29:08] Eu não vou fazer livro, então para que eu vou estudar para livro?
+[01:03:29:28 --> 01:03:33:04] Porque é um conhecimento que você pode aplicar em qualquer composição.
+[01:03:33:09 --> 01:03:35:09] É o que a gente vê aqui, olha, observa bem esse grid
+[01:03:35:25 --> 01:03:36:27] e dá uma olhada aqui agora.
+[01:03:39:06 --> 01:03:43:09] Vou até facilitar mais ainda, vou tirar um dos lados aqui.
+[01:03:46:03 --> 01:03:48:04] Tire as sladas, tire todas as pontas aqui.
+[01:03:51:15 --> 01:03:53:03] Eu vou refazer, mais fácil.
+[01:03:55:06 --> 01:04:00:02] usar a grupa. Eu acho que vocês até já visualizaram, né? Mas só melhor aplicar pelo
+[01:04:00:02 --> 01:04:03:29] essenço aqui do que pela falta. Então, primeiro eu crio essas duas diagonais.
+[01:04:05:09 --> 01:04:08:15] para encontrar o centro, eu posso até tirar isso daqui.
+[01:04:08:24 --> 01:04:11:25] Divido a página na metade com o centro aqui.
+[01:04:13:07 --> 01:04:15:12] E aí eu traço uma diagonal desse canto.
+[01:04:17:08 --> 01:04:20:09] encontramos esse ponto aqui, que é do canônio de Van der Graaf.
+[01:04:20:20 --> 01:04:24:04] Você dividiu a página em três, então não surpreende porque é o mesmo ponto.
+[01:04:24:14 --> 01:04:28:19] Porque quando você divide a página em três, você encontra esses pontos focais da regra dos terços.
+[01:04:29:27 --> 01:04:33:13] Se eu puxar aqui agora, vai ter exatamente esses pontos.
+[01:04:33:14 --> 01:04:37:09] Aqui não ficou exato porque eu não estou medindo ali, estou adiantando.
+[01:04:37:13 --> 01:04:40:05] Vocês já me viram fazer isso 300 vezes só nessa aula aqui.
+[01:04:40:14 --> 01:04:44:24] Então, acho que eu posso me dar esse benefício aqui na aula.
+[01:04:44:24 --> 01:04:49:04] Então, olha só, se você dividir a página aqui, divide embaixo também, se fizer certinho.
+[01:04:50:22 --> 01:04:53:29] ele vai dividir a página em 9 quadrantes, e aí você tem os pontos focais.
+[01:04:54:09 --> 01:04:58:22] Então, as técnicas estão conectadas, você pode juntar uma técnica na outra
+[01:04:58:22 --> 01:05:01:21] para encontrar novos pontos, é o que eu vou mostrar para vocês já já.
+[01:05:01:24 --> 01:05:04:07] Então, a gente tem esses pontos aqui que foram explorados ali,
+[01:05:04:10 --> 01:05:06:16] você pode explorar qualquer um deles, tá?
+[01:05:06:28 --> 01:05:09:16] Depende de como você quer construir essa composição.
+[01:05:10:07 --> 01:05:14:00] Então, você pode explorar tanto essas linhas aqui diagonais
+[01:05:14:00 --> 01:05:15:13] para construir essa composição,
+[01:05:15:23 --> 01:05:18:09] tem muito cartaz, por exemplo, que explora isso,
+[01:05:18:09 --> 01:05:24:03] Depois você pode pesquisar. Até o livro Geometria do Design da Kimberly Ellen,
+[01:05:24:22 --> 01:05:27:20] ele tem alguns exemplos que mostram isso também, então é bem legal.
+[01:05:28:24 --> 01:05:31:29] E aí, a gente consegue ver aqui, então, esse é o modelo mais básico.
+[01:05:32:02 --> 01:05:37:19] Tem o modelo de Van de Graaff, que explora essa diagonal do terço aqui,
+[01:05:38:21 --> 01:05:40:08] que é no caso daquela fotografia ali.
+[01:05:40:17 --> 01:05:42:29] E você pode espelhar isso para qualquer canto da página.
+[01:05:43:08 --> 01:05:46:27] Às vezes, você quer criar essa dinâmica aqui, aqui.
+[01:05:47:24 --> 01:05:49:02] O que você faz? Você espelha.
+[01:05:50:05 --> 01:05:52:02] Como? Puxando daqui pra cá.
+[01:05:52:05 --> 01:05:53:17] Olha só, deixa eu espelhar pra você ver.
+[01:05:53:23 --> 01:05:57:02] Se eu puxar daqui pra cá, eu encontro o ponto dali.
+[01:05:57:11 --> 01:05:58:29] E aí eu posso espelhar a parte de baixo.
+[01:05:59:08 --> 01:06:00:21] Tá vendo como isso vai...
+[01:06:00:21 --> 01:06:02:15] Quanto mais você espelha,
+[01:06:02:21 --> 01:06:06:21] quanto mais você deixa a composição simétrica,
+[01:06:07:06 --> 01:06:09:08] mais você torna ela equilibrada.
+[01:06:09:22 --> 01:06:12:20] E aí você muda o movimento dela.
+[01:06:13:00 --> 01:06:16:05] Quanto mais a simétrica é a composição,
+[01:06:16:05 --> 01:06:21:02] mais você força um ponto esfocal específico,
+[01:06:21:09 --> 01:06:25:04] mais você aumenta o movimento dentro dessa composição.
+[01:06:25:13 --> 01:06:29:21] Aqui está lítido, olha só isso daqui já direciona o nosso olhar para esse ponto.
+[01:06:29:27 --> 01:06:32:05] Se eu tirar ainda mais esses pontos aqui,
+[01:06:32:15 --> 01:06:34:20] você vai ver como o olhar fica ainda mais direcionado.
+[01:06:34:29 --> 01:06:36:10] Se eu tirar isso daqui também, olha só.
+[01:06:36:29 --> 01:06:39:28] Aqui não está conectando exatamente porque a gente não fez perfeitinho ali, né?
+[01:06:40:01 --> 01:06:41:12] Mas só para vocês sentirem.
+[01:06:41:18 --> 01:06:44:23] Olha só como puxa o nosso olhar para cá.
+[01:06:44:23 --> 01:06:49:09] Claro que as diagonais ajudam muito, mas isso aqui mostra para a gente esse exemplo.
+[01:06:49:19 --> 01:06:53:27] Se eu coloco aqui também, olha, então tem aqui o divilarte que eu mostrei para vocês
+[01:06:53:27 --> 01:06:57:11] também, aquele é o divante gráfico, esse aqui é o divilarte, qual que é o divilarte?
+[01:06:57:13 --> 01:07:02:05] É dividir a página, simplesmente cortando essa diagonal em cada um daqueles pontos
+[01:07:02:05 --> 01:07:02:14] lá.
+[01:07:02:24 --> 01:07:04:00] Você pode explorar isso também.
+[01:07:04:15 --> 01:07:08:29] Então, olha só, eu encontrei esse terço aqui, eu posso agora puxar essa linha e
+[01:07:08:29 --> 01:07:10:05] encontrar o quarto da pasta.
+[01:07:11:27 --> 01:07:14:17] Agora, eu posso puxar uma nova linha nesta exceção
+[01:07:14:17 --> 01:07:16:07] e encontrar o quinto da página.
+[01:07:20:14 --> 01:07:23:03] Contro o quinto da página e por aí vai, tá?
+[01:07:23:12 --> 01:07:24:29] Ah, eu quero encontrar o nono da página.
+[01:07:25:03 --> 01:07:27:11] Qual que é uma técnica rápida para encontrar o nono da página?
+[01:07:28:01 --> 01:07:29:00] Faz isso daqui, ó.
+[01:07:29:09 --> 01:07:33:15] Puxa aqui essa linha, divide aqui no meio de novo.
+[01:07:34:19 --> 01:07:36:03] Gente, mais rapidinho.
+[01:07:36:11 --> 01:07:37:16] Divido aqui no meio de novo.
+[01:07:40:21 --> 01:07:41:14] Puxa daqui aqui.
+[01:07:42:27 --> 01:07:45:18] Aí você encontrou aqui, esse é o nome da página.
+[01:07:46:24 --> 01:07:50:15] Mas se quiser dividi-la rápido, aquela hora eu não fiz, agora eu fiz aí pra vocês verem.
+[01:07:51:26 --> 01:07:58:16] Então, você dividir a página em nove, porque três dividido por três, você vai dividindo ela cada vez mais.
+[01:07:59:01 --> 01:08:07:17] No divilar também você pode explorar isso, então, às vezes você quer colocar um ponto focal mais para cá,
+[01:08:08:15 --> 01:08:15:01] quanto mais você tira desses quatro pontos focais aqui, mais você desbalanceia a composição,
+[01:08:15:03 --> 01:08:18:10] mais você pesa ela. Ela vai fazendo isso aqui, como se fosse isso aqui.
+[01:08:18:10 --> 01:08:22:13] Pô, tá pesando pra ali, tá cada vez ficando mais pesado pra lá.
+[01:08:22:27 --> 01:08:26:00] E você pode deixar esse espaço pra concentrar a atenção aqui
+[01:08:26:00 --> 01:08:29:11] ou você pode equilibrar, de repente puxar um...
+[01:08:30:02 --> 01:08:30:28] Opa, difícil, hein?
+[01:08:32:21 --> 01:08:35:06] Nossa, aí tá me quebrando. Deixa eu fazer o seguinte, olha.
+[01:08:36:03 --> 01:08:37:10] Eu quero encontrar...
+[01:08:39:07 --> 01:08:41:15] Quero encontrar este aqui, melhor dividir aqui.
+[01:08:43:25 --> 01:08:47:08] Então, esse ponto aqui, que ponto que é ele? É o outro ponto focal de baixo, tá?
+[01:08:47:08 --> 01:08:51:01] Eu só espelhei. Vou criar aqui um maior.
+[01:08:52:04 --> 01:08:56:04] Aí agora, olha como eu mudei a direção. Antes, se eu tiro isso daqui...
+[01:08:57:26 --> 01:09:00:26] Eu tô fazendo isso aqui, a gente tá subindo,
+[01:09:01:01 --> 01:09:02:17] tô chamando sua atenção toda pra cá.
+[01:09:03:03 --> 01:09:04:21] A partir do momento que eu coloco isso aqui,
+[01:09:05:02 --> 01:09:08:09] a gente tá descendo agora, tô puxando a atenção toda pra cá.
+[01:09:09:20 --> 01:09:11:02] Está vendo como muda a direção?
+[01:09:11:07 --> 01:09:13:22] Um elemento, a gente adicionou um elemento aqui com um peso maior.
+[01:09:15:19 --> 01:09:19:01] Se eu aumentar esse daqui um pouquinho, só que eu aumento esse daqui mais,
+[01:09:19:13 --> 01:09:20:15] agora a gente tem um...
+[01:09:21:07 --> 01:09:24:01] Um zigzag, um leve zigzag, né? Vai lá e volta.
+[01:09:24:29 --> 01:09:27:06] A gente começa aqui, vai ali e depois vai lá.
+[01:09:28:18 --> 01:09:30:13] E aí você pode explorar isso.
+[01:09:30:24 --> 01:09:33:07] Eu, inclusive, recomendo que você abra o seu Illustrator aí,
+[01:09:33:14 --> 01:09:36:24] faça esses grids e comece a experimentar, testar isso aqui
+[01:09:36:24 --> 01:09:38:03] enquanto você está assistindo essa aula,
+[01:09:38:13 --> 01:09:41:19] que a melhor forma de aprender isso é na prática, fazendo, fazendo, fazendo, tá bom?
+[01:09:42:01 --> 01:09:44:24] Então, a gente tem aqui no diagrama de Vilar,
+[01:09:44:27 --> 01:09:47:20] se você quiser ir dividindo isso aqui em novos segmentos, você pode.
+[01:09:47:28 --> 01:09:50:00] Claro, o de Vilar é muito parecido com Vandegraaf,
+[01:09:50:02 --> 01:09:53:10] porque o de Vandegraaf usa o diagrama de Vilar, então, um dentro do outro.
+[01:09:54:03 --> 01:09:55:12] Aqui a gente tem o Rosário também.
+[01:09:56:00 --> 01:09:59:11] Se a gente pega esses quatro pontos, a gente tem a regra dos terços, porque se a página
+[01:09:59:11 --> 01:10:02:25] é dividida em nove, dá para dividir por três, então super fácil também, não vou me estender
+[01:10:02:25 --> 01:10:03:07] aqui.
+[01:10:03:18 --> 01:10:06:26] Mas para vocês verem como que uma técnica está começando a encaixar na outra, tá
+[01:10:06:26 --> 01:10:07:02] bom?
+[01:10:07:22 --> 01:10:11:28] Agora, a gente vai entrar na proporção áurea e vocês vão começar a ver alguns grids
+[01:10:11:28 --> 01:10:16:16] que são mais complexos, alguns grids que têm um peso maior.
+[01:10:16:22 --> 01:10:19:12] Se você olha ali de cara, você fala, meu Deus, como é que chega nisso?
+[01:10:19:17 --> 01:10:23:21] Mas eu vou mostrar para vocês como que a partir desses conceitos, você recriar
+[01:10:23:21 --> 01:10:28:06] isso várias vezes, vai ficando mais fácil e a mecânica para criar o grid que é o que
+[01:10:28:06 --> 01:10:31:18] eu quero ensinar para vocês, porque eu estou refazendo aqui, porque eu faço questão de
+[01:10:31:18 --> 01:10:36:07] lá, arrumar, colocar certinho, igual a gente fez, porque eu quero mostrar para vocês
+[01:10:36:07 --> 01:10:41:11] a mecânica da coisa, como pensar para criar um grid, como pensar para poder trabalhar
+[01:10:41:11 --> 01:10:46:05] essas relações, tá bom? Então, uma vez que vocês entenderam a regra dos terços,
+[01:10:46:06 --> 01:10:50:25] as diagonais e os cânones clássicos, que é a de Van der Graaf, Rosarivo e o principal
+[01:10:50:25 --> 01:10:55:22] de todos, que é o diagrama de filar, agora é mais fácil, porque a gente consegue dividir
+[01:10:56:14 --> 01:11:02:00] o formato, a composição da forma que a gente quiser, usando as diagonais, sem precisar
+[01:11:02:00 --> 01:11:07:12] ficar sempre contando os quadradinhos, contando qual que é o tamanho, dividindo o tamanho
+[01:11:07:12 --> 01:11:10:13] por 9, por 5 e por aí vai, você consegue fazer isso usando as retas.
+[01:11:10:19 --> 01:11:14:12] E qual que é a vantagem de fazer isso usando as retas, as diagonais? Que você consegue
+[01:11:14:12 --> 01:11:19:04] encontrar pontos de interesse na composição para conduzir o olhar da pessoa dentro
+[01:11:19:04 --> 01:11:22:24] daquela composição, a gente vai ver isso daqui agora.
+[01:11:24:09 --> 01:11:28:29] Então, composições áureas, entramos aqui nas composições que são mais avançadas.
+[01:11:29:10 --> 01:11:33:01] Quero mostrar pra vocês essa imagem, inclusive a primeira vez que eu vi ela foi no livro
+[01:11:33:01 --> 01:11:37:04] Geometria do Design, está aqui em Berlin, ela é legal citar ele aqui, é a fonte onde
+[01:11:37:04 --> 01:11:37:27] eu encontrei.
+[01:11:39:05 --> 01:11:44:20] E eu vou tirar esse... essa aqui é uma composição que ela tem controversas, tá?
+[01:11:45:16 --> 01:11:48:29] Porque depende da imagem que você encontra na internet, por isso que eu até coloquei
+[01:11:48:29 --> 01:11:56:13] as medidas dela aqui, porque no livro da Kimberle-Ellen ela fala que a imagem original tem 27 cm por
+[01:11:56:13 --> 01:11:59:23] 16,5 dentro da moldura, tá?
+[01:11:59:23 --> 01:12:04:13] Tire essa moldura preta que ela tem e foca dentro da moldura, ela tem essas dimensões.
+[01:12:04:24 --> 01:12:11:22] Se você dividir, pegar a sua calculadora aí e colocar lá, por exemplo, 27 cm dividido
+[01:12:11:22 --> 01:12:17:20] por 16,5, você não vai encontrar exatamente 1,618,
+[01:12:18:00 --> 01:12:21:07] você vai encontrar 1,636, se eu não me engano.
+[01:12:21:24 --> 01:12:24:21] E aí, esse não é o valor Rauro exato,
+[01:12:24:25 --> 01:12:28:11] mas ele chega muito próximo ao ponto de a gente conseguir trabalhar
+[01:12:28:11 --> 01:12:30:12] algumas relações nele.
+[01:12:30:22 --> 01:12:33:15] E antes de mostrar o grid aqui, a gente começar a analisar o grid,
+[01:12:33:17 --> 01:12:36:06] eu quero que você observe como que essa imagem
+[01:12:36:22 --> 01:12:39:19] tem um movimento, ela tem um equilíbrio,
+[01:12:39:19 --> 01:12:44:09] Mas olha como ela explora a regra dos terços, a parte mais importante é essa daqui do centro.
+[01:12:44:23 --> 01:12:48:28] A gente tem essa diagonal que é muito forte, vocês vão notar ela já já.
+[01:12:49:06 --> 01:12:52:07] Dá pra ver que isso foi construído propositalmente.
+[01:12:54:04 --> 01:12:58:17] O dono dessa composição é o Goyo, um dos gênios aí.
+[01:12:58:24 --> 01:13:01:10] Tem alguns quadros dele muito maços, depois você pode pesquisar.
+[01:13:02:07 --> 01:13:03:03] E não é pra menos.
+[01:13:03:16 --> 01:13:07:15] Então, olha como ela tem um movimento, mas olha como ao mesmo tempo que ela tem um movimento,
+[01:13:07:15 --> 01:13:16:22] ele criou algumas retas muito fortes e regulares, como por exemplo, essa reta vertical e essas duas retas verticais.
+[01:13:18:06 --> 01:13:22:25] Eu até coloquei ela aqui do lado, olha pra vocês...
+[01:13:23:22 --> 01:13:26:14] Dá-me spoiler. Eita! Dá-me spoiler pra vocês aí.
+[01:13:26:25 --> 01:13:28:05] Caraca, eu tô indo pro lado errado agora?
+[01:13:29:24 --> 01:13:31:08] Ah, tá, eu tinha apertado.
+[01:13:31:12 --> 01:13:32:17] Eu tinha indo na direção errada.
+[01:13:35:19 --> 01:13:36:18] Mostrei pra vocês.
+[01:13:39:02 --> 01:13:42:29] Aí, tá difícil, hein? Eu tô apertando e ele tá indo pro lado errado.
+[01:13:43:28 --> 01:13:49:00] A gente tem, então, essas duas retas aqui, que vocês já vão notar que ela divide a
+[01:13:49:00 --> 01:13:53:02] página e essa reta aqui, que elas são retos muito fortes, elas definem muito.
+[01:13:53:03 --> 01:13:58:03] Olha como que elas deixam a composição estática, como se tivesse parado no tempo.
+[01:13:58:16 --> 01:14:03:01] Tem alguns frames, alguns cortes, algumas composições que parece que você sente
+[01:14:03:01 --> 01:14:04:05] a composição se mexer.
+[01:14:04:11 --> 01:14:09:15] Essa daqui parece uma composição de matrix, que ele parou no tempo e vai dar aquela
+[01:14:09:15 --> 01:14:10:26] visão 360 nele.
+[01:14:11:18 --> 01:14:12:27] Por que a gente tem essa sensação?
+[01:14:12:27 --> 01:14:20:17] por causa dessas linhas aqui muito bem marcadas. Elas são linhas que deixam a composição
+[01:14:20:17 --> 01:14:25:08] um pouco estáticas. Elas são linhas muito fortes e são linhas de construção também,
+[01:14:25:09 --> 01:14:29:00] vocês já vão ver isso. A gente tem essa linha na vertical que também é importante,
+[01:14:29:02 --> 01:14:33:14] vocês vão notar. E olha que legal, isso aqui é de propósito também. Não é à
+[01:14:33:14 --> 01:14:37:23] toa que ele fez isso. Olha como a arquibancada desse lado está vazia, não tem ninguém.
+[01:14:37:23 --> 01:14:40:06] E aqui desse lado tá todo mundo.
+[01:14:40:13 --> 01:14:41:11] Por que que ele fez isso?
+[01:14:41:21 --> 01:14:45:27] De propósito, ele quer que a composição esteja mais pesada desse lado.
+[01:14:46:19 --> 01:14:47:17] Por que que ele faz isso?
+[01:14:47:21 --> 01:14:53:13] Pra fazer o seu olhar se concentrar aqui, isso é de propósito, tá?
+[01:14:53:27 --> 01:15:00:05] Então imagina se tivesse uma pessoa sentada aqui, uma pessoa sentada aqui de boa assistindo.
+[01:15:00:14 --> 01:15:06:18] Essa pessoa sentada aqui iria tirar totalmente o foco do centro, totalmente, se ela tivesse
+[01:15:06:18 --> 01:15:07:05] sozinha ali.
+[01:15:07:05 --> 01:15:08:22] Porque tem uma quebra de padrão.
+[01:15:09:04 --> 01:15:10:23] E aí a gente ia começar a traçar outras relações,
+[01:15:10:26 --> 01:15:13:27] tipo essa pessoa aqui olhando pra ela,
+[01:15:14:06 --> 01:15:16:02] ou algo do tipo, a gente ia traçar novos...
+[01:15:16:02 --> 01:15:19:05] A mensagem aqui seria diferente, a gente ia começar a se perguntar por quê.
+[01:15:19:09 --> 01:15:20:25] Por que esse cara está parado ali?
+[01:15:21:00 --> 01:15:22:29] O que ele está fazendo lá? Por que ele é rejeitado?
+[01:15:23:07 --> 01:15:27:10] Então, ela faz com que nós questionemos a imagem de uma maneira diferente.
+[01:15:28:03 --> 01:15:28:11] Tá?
+[01:15:28:11 --> 01:15:31:05] Da mesma forma, se tivesse aqui tudo preenchido,
+[01:15:31:11 --> 01:15:32:08] o que iria acontecer?
+[01:15:32:12 --> 01:15:35:10] A gente iria perder esse espaço,
+[01:15:35:10 --> 01:15:41:12] essa área vazia que é em volta desse personagem aqui,
+[01:15:41:27 --> 01:15:45:21] que é importante para poder valorizar ele.
+[01:15:47:09 --> 01:15:50:00] Então, tudo isso de vazio que está aqui faz o quê?
+[01:15:50:14 --> 01:15:52:17] Puxa o nosso olhar, faz a gente olhar para ele.
+[01:15:52:29 --> 01:15:57:17] São quase setas, é quase uma gravidade que força a gente olhar para lá.
+[01:15:57:25 --> 01:16:00:17] E fazer aquele movimento para depois olhar aqui também,
+[01:16:00:21 --> 01:16:03:16] porque isso aqui é importante, ele mostrou isso não foi ator.
+[01:16:03:16 --> 01:16:06:13] Deixa eu mostrar o grid aqui para vocês verem, olha só.
+[01:16:07:03 --> 01:16:08:23] Então esse é o primeiro grid, eu vou até...
+[01:16:10:21 --> 01:16:14:03] transformá-lo em linha normal, para vocês verem.
+[01:16:14:13 --> 01:16:15:12] Olha que interessante.
+[01:16:15:25 --> 01:16:19:17] A primeira coisa que eu quero mostrar é esse retângulo áuro que eu inseri aqui
+[01:16:19:17 --> 01:16:23:14] para vocês verem como os elementos coincidem bem.
+[01:16:23:18 --> 01:16:27:20] Então, primeiro, a diagonal é o elemento mais importante, essa diagonal aqui
+[01:16:27:20 --> 01:16:32:06] do canto inferior esquerdo ao canto superior direito.
+[01:16:33:00 --> 01:16:35:17] Ela é a diagonal mais importante dessa composição,
+[01:16:35:24 --> 01:16:37:21] mas depois a gente começa a traçar algumas relações.
+[01:16:37:23 --> 01:16:40:17] Por exemplo, isso aqui divide o segmento áuro.
+[01:16:40:17 --> 01:16:43:05] não tá exato na...
+[01:16:44:09 --> 01:16:50:19] nesse... não sei se é um Mastro, não sei como chama isso daqui, mas não está exato,
+[01:16:50:24 --> 01:16:55:26] só que divide muito bem a página. E a cabeça dele está inserida dentro desse quadrante.
+[01:16:56:00 --> 01:17:00:19] Claro, é óbvio que alguma coisa iria estar dentro desse quadrante, mas repara como
+[01:17:00:19 --> 01:17:07:26] que todo esse espaço aqui é vazio e ele pesa muito mais esse quadrado aqui. Isso
+[01:17:07:26 --> 01:17:13:15] também não é coincidência, houve uma decisão para chegar nisso. Só que agora,
+[01:17:13:15 --> 01:17:20:00] Se a gente espelhar, olha que interessante como que nós temos novas relações aqui
+[01:17:20:00 --> 01:17:20:24] que são interessantes.
+[01:17:22:19 --> 01:17:27:00] Então, a gente tem essa diagonal, que é a mais importante, vou até colorir ela de outra
+[01:17:27:00 --> 01:17:27:10] cor aqui.
+[01:17:29:24 --> 01:17:31:22] A extensão diagonal que é a mais importante aqui.
+[01:17:33:06 --> 01:17:34:13] Vou passá-la pra frente também.
+[01:17:36:21 --> 01:17:38:04] E aí, eu quero que você repare!
+[01:17:39:24 --> 01:17:41:07] Esse quadrante aqui, olha...
+[01:17:43:01 --> 01:17:48:04] dessas pessoas, que é a parte do guarda-chuva, depois que você olhou para esse cara, depois
+[01:17:48:04 --> 01:17:51:24] que você olhou para o boi, o próximo lugar que você vai olhar é aqui.
+[01:17:52:13 --> 01:17:58:17] E se você olhar para isso aqui antes do boi, não me surpreende também, porque é uma
+[01:17:58:17 --> 01:17:59:18] relação muito próxima.
+[01:17:59:26 --> 01:18:05:24] Só que eu tenho certeza que você, inconscientemente, você identifica o boi e esse personagem muito
+[01:18:05:24 --> 01:18:07:16] mais rápido do que essas pessoas aqui.
+[01:18:08:09 --> 01:18:11:18] Inconscientemente, você vai identificar muito mais rápido, por causa que a silhueta
+[01:18:11:18 --> 01:18:16:24] da figura também, ela foi construída... a forma dela, a ideia da forma dela é muito
+[01:18:16:24 --> 01:18:17:17] clara.
+[01:18:18:10 --> 01:18:25:14] Geran... opa, minha Siri ligou ali... Geran... é muito fácil de perceber, mesmo que inconscientemente.
+[01:18:25:25 --> 01:18:29:15] E eu tenho mais uma relação legal aqui que eu quero que vocês percebam, eu tinha falado
+[01:18:29:15 --> 01:18:35:12] para vocês prestarem atenção nessas duas linhas aqui e nessa linha aqui principalmente.
+[01:18:35:12 --> 01:18:44:11] Olha que legal como elas dividem muito bem a página em 5 por 5, então são 15 quadrantes.
+[01:18:44:16 --> 01:18:48:24] E olha como que bate, coincide, eu vou trocar de cor aqui que esse azul talvez para algumas
+[01:18:48:24 --> 01:18:50:03] pessoas fica difícil de ver.
+[01:18:50:25 --> 01:18:55:02] Olha como que elas coincidem com as linhas mais importantes, eu até coloquei algumas
+[01:18:55:02 --> 01:19:00:26] setas aqui para vocês visualizarem qual que é a gravidade, para onde que a gravidade
+[01:19:00:26 --> 01:19:02:23] puxa essa composição.
+[01:19:02:23 --> 01:19:08:03] Quais são os pontos focais para onde nós estamos sendo direcionados.
+[01:19:08:21 --> 01:19:12:09] E aí a gente consegue ver, esse daqui já é um grid um pouco mais avançado,
+[01:19:12:24 --> 01:19:15:07] porque, apesar dele ter uma relação simples,
+[01:19:16:08 --> 01:19:17:26] depois que a gente vê tudo fica simples.
+[01:19:18:13 --> 01:19:22:05] Depois que você vê ali, 5 dividido por 5, ficou fácil.
+[01:19:22:21 --> 01:19:25:04] Mas para poder construir isso, ele trouxe as linhas,
+[01:19:25:08 --> 01:19:29:01] ele tomou algumas decisões que outras pessoas iniciantes não tomariam.
+[01:19:29:10 --> 01:19:30:16] Decisões de equilíbrio,
+[01:19:30:16 --> 01:19:34:08] Deixar que a bancada vazia de um lado para deixá-la cheia no outro, né?
+[01:19:34:20 --> 01:19:36:04] E talvez você esteja se perguntando também,
+[01:19:36:05 --> 01:19:38:25] Juan, como é que eu faço para desenvolver essa inteligência visual?
+[01:19:38:27 --> 01:19:41:15] Isso nem é o tópico daqui de agora, mas talvez vai na sua cabeça.
+[01:19:41:24 --> 01:19:43:22] E a resposta já está na sua frente, né?
+[01:19:44:03 --> 01:19:47:11] É só você fazer o exercício de inteligência visual,
+[01:19:47:16 --> 01:19:48:12] analisar obras de arte.
+[01:19:48:15 --> 01:19:49:15] O que a gente está fazendo aqui?
+[01:19:49:26 --> 01:19:52:17] Analisa ela, observa os elementos, passa um tempo observando.
+[01:19:52:24 --> 01:19:56:10] Se você fez o exercício da 50, já é um bom primeiro passo,
+[01:19:56:11 --> 01:19:59:00] mas você pode continuar fazendo isso para se desenvolver, tá bom?
+[01:20:00:00 --> 01:20:02:00] Então, a gente consegue ver aqui um primeiro grid.
+[01:20:02:14 --> 01:20:03:18] Agora, o que eu vou fazer?
+[01:20:04:06 --> 01:20:10:15] Eu vou mostrar para vocês um outro grid, que é um pouco mais avançado, e depois eu vou
+[01:20:11:00 --> 01:20:11:12] mostrar...
+[01:20:11:12 --> 01:20:14:26] O grid que eu vou mostrar agora é prático, eu vou mostrar ele em cima de uma pintura,
+[01:20:15:00 --> 01:20:18:18] que eu também tirei do livro Geometria do Design, e depois eu vou mostrar para vocês
+[01:20:18:18 --> 01:20:21:27] os grids vazios, para vocês verem possibilidades, tá?
+[01:20:22:02 --> 01:20:22:25] Então, vamos lá.
+[01:20:23:24 --> 01:20:24:18] Cadê ele?
+[01:20:25:03 --> 01:20:26:10] Ah, eu fiz foi o inverso.
+[01:20:26:10 --> 01:20:29:26] eu trouxe os grids vazios e depois tenho a composição.
+[01:20:29:29 --> 01:20:32:00] Vamos fazer isso então, as duas lógicas funcionam.
+[01:20:32:11 --> 01:20:35:29] Eu vou mostrar para vocês agora alguns grids vazios,
+[01:20:36:03 --> 01:20:38:09] apenas a estrutura, sem nenhuma obra de arte,
+[01:20:38:19 --> 01:20:40:27] e no final tem mais uma obra de arte para a gente analisar
+[01:20:40:27 --> 01:20:44:18] com um grid que é mais informações, tá bom?
+[01:20:44:25 --> 01:20:47:18] Só que dá só uma olhada, tudo isso aqui usando a proporção aórea
+[01:20:47:18 --> 01:20:49:17] e usando os conceitos que a gente já estudou aqui hoje.
+[01:20:49:29 --> 01:20:51:08] Então a gente tem esse primeiro grid,
+[01:20:51:10 --> 01:20:53:14] que é um grid muito legal de ser trabalhado,
+[01:20:54:23 --> 01:20:57:15] claramente, ele já define para a gente quais são os pontos de interesse,
+[01:20:57:18 --> 01:21:01:15] a gente tem esse ponto focal aqui, esse daqui, esse do centro.
+[01:21:01:26 --> 01:21:04:17] Se você utilizar o do centro junto com esses dois,
+[01:21:04:21 --> 01:21:07:09] você está criando uma composição bem equilibrada,
+[01:21:07:11 --> 01:21:09:14] então se você quer passar uma ideia de estabilidade,
+[01:21:09:24 --> 01:21:14:00] algo que está parado, que é fixo, funciona muito bem.
+[01:21:14:08 --> 01:21:15:29] Mas você pode também fazer o quê?
+[01:21:16:18 --> 01:21:19:12] Explorar só dois deles para desbalanceá-la,
+[01:21:19:14 --> 01:21:22:25] criar um movimento em uma direção ou até criar um movimento em outra.
+[01:21:22:25 --> 01:21:28:03] Você pode até usar esses dois aqui debaixo também, para poder fazer isso.
+[01:21:28:11 --> 01:21:31:29] Esses dois pontos aqui, eles são simétricos, tá?
+[01:21:32:18 --> 01:21:33:23] Por que eles são simétricos?
+[01:21:33:25 --> 01:21:37:19] Porque o que define ele são essas duas diagonais aqui.
+[01:21:37:28 --> 01:21:42:13] Depois que eu traço essa linha, essa interseção deles é simétrica.
+[01:21:42:21 --> 01:21:43:21] Como que a gente sabe disso?
+[01:21:43:29 --> 01:21:44:19] Aqui, olha.
+[01:21:44:20 --> 01:21:46:19] Isso aqui está dividindo a página exatamente no meio.
+[01:21:47:00 --> 01:21:49:12] E a diagonal está cortando de um canto no outro.
+[01:21:49:17 --> 01:21:51:23] Então, obviamente, isso aqui vai ser metade da metade.
+[01:21:52:08 --> 01:21:57:13] Isso aqui é a metade da metade, aqui é a metade da metade, então você tem duas distâncias
+[01:21:57:13 --> 01:21:59:08] iguais, você tem uma simetria exata.
+[01:22:01:09 --> 01:22:03:12] Você pode explorar isso aqui de várias formas.
+[01:22:03:17 --> 01:22:04:06] Você tinha me perguntado,
+[01:22:04:10 --> 01:22:07:08] eu não estou entendendo como usar isso na prática.
+[01:22:07:13 --> 01:22:09:12] Aqui a gente começa a entender esse grid simples aqui,
+[01:22:09:13 --> 01:22:10:20] eu vou reconstruir ele, tá?
+[01:22:10:28 --> 01:22:13:19] Mas primeiro eu quero te mostrar como explorar ele de várias formas.
+[01:22:14:01 --> 01:22:16:16] Você pode explorar tantos pontos focais
+[01:22:16:16 --> 01:22:17:24] para construir uma composição.
+[01:22:17:28 --> 01:22:19:09] Então, eu posso construir texto aqui,
+[01:22:19:15 --> 01:22:21:08] construir texto aqui e aqui
+[01:22:21:08 --> 01:22:23:15] e deixar esse espaço vazio, se eu quiser.
+[01:22:23:29 --> 01:22:25:26] Eu posso fazer algo mais simétrico,
+[01:22:26:00 --> 01:22:28:15] explorando esse centro aqui junto com os outros elementos.
+[01:22:28:15 --> 01:22:37:26] Eu posso explorar a zona espacial também, isso pode criar alguns padrões bem interessantes,
+[01:22:38:07 --> 01:22:39:25] eu acho que se eu fizer com caneta vai ficar melhor.
+[01:22:42:03 --> 01:22:45:21] Você tem essas zonas espaciais aqui que também podem ser...
+[01:22:45:21 --> 01:22:47:14] Ah, eu juntei um no outro, poxa vida.
+[01:22:48:13 --> 01:22:49:08] Deixa eu travar eles.
+[01:22:51:13 --> 01:22:52:09] Tchau, meu querido.
+[01:22:52:09 --> 01:22:52:26] Tchau, meu querido.
+[01:22:54:17 --> 01:22:55:23] Não, assim vai ser ruim.
+[01:22:56:11 --> 01:22:59:00] Tem duas travadas, o Ctrl 2...
+[01:22:59:29 --> 01:23:04:29] que trava tudo na mesma camada e tem o CTRL 5 que transforma em linha guia.
+[01:23:05:22 --> 01:23:11:00] Então aqui, se eu pegar esse quadrante com esse, com esse e com esse,
+[01:23:11:14 --> 01:23:14:01] eu posso explorar as zonas espaciais também.
+[01:23:14:10 --> 01:23:16:15] Isso aqui lembra até Dimensão Espelhada do Dr. Estranho
+[01:23:16:15 --> 01:23:17:08] para quem é mais nerd.
+[01:23:18:26 --> 01:23:22:25] com os triâmbulos, você também pode explorar as zonas espaciais.
+[01:23:23:20 --> 01:23:29:15] O grid serve para poder te inspirar a explorar o espaço.
+[01:23:29:24 --> 01:23:33:06] Ele serve para criar relações, você enxergar novas relações no espaço
+[01:23:33:06 --> 01:23:36:17] e poder trabalhar essas relações, seja numa ilustração,
+[01:23:37:02 --> 01:23:38:13] seja numa fotografia,
+[01:23:38:25 --> 01:23:41:07] seja numa composição de uma capra para o YouTube,
+[01:23:41:15 --> 01:23:43:06] seja na composição de um post para o Instagram,
+[01:23:43:21 --> 01:23:45:05] seja na composição de um site.
+[01:23:45:09 --> 01:23:47:24] Você pode utilizar esses grids mais avançados
+[01:23:47:24 --> 01:23:50:17] para conseguir novas posições,
+[01:23:51:02 --> 01:23:53:03] conseguir novas relações dentro do espaço.
+[01:23:53:17 --> 01:23:54:26] Obviamente, o grid não resolve tudo.
+[01:23:55:00 --> 01:23:57:03] Não é só colocar um grid que seu design vai ficar perfeito,
+[01:23:57:12 --> 01:24:00:06] mas ele traz relações muito interessantes, racionais,
+[01:24:00:14 --> 01:24:01:14] que você pode explorar.
+[01:24:01:20 --> 01:24:03:14] E como é que faz para construir esse grid aqui?
+[01:24:03:28 --> 01:24:04:23] Tá? Super simples.
+[01:24:05:03 --> 01:24:06:02] Ele é um grid...
+[01:24:06:02 --> 01:24:07:18] Opa, fiz errado aqui.
+[01:24:07:23 --> 01:24:09:11] Ele é um grid que...
+[01:24:11:04 --> 01:24:13:12] Ele é um grid proporcional, em proporção ao áureo.
+[01:24:14:01 --> 01:24:16:07] Para isso, a gente precisa de um retângulo ao áureo.
+[01:24:16:15 --> 01:24:18:07] Então, a primeira coisa é você construir esse retângulo ao áureo,
+[01:24:18:10 --> 01:24:19:14] eu já mostrei como funciona.
+[01:24:20:00 --> 01:24:23:27] E aí, nós vamos trabalhar a partir dele aqui.
+[01:24:24:04 --> 01:24:25:11] Então, eu vou tirar ele aqui.
+[01:24:26:13 --> 01:24:27:05] Ele está...
+[01:24:27:05 --> 01:24:27:28] A gente vai trabalhar.
+[01:24:28:12 --> 01:24:30:06] Quando você cria o retângulo ao áureo,
+[01:24:30:15 --> 01:24:32:27] você pode inserir um quadrado dentro dele.
+[01:24:34:00 --> 01:24:35:26] Certo? Geralmente até para criar você em série.
+[01:24:36:11 --> 01:24:38:19] O primeiro passo aqui é...
+[01:24:39:23 --> 01:24:41:17] tornar essa composição simétrica.
+[01:24:41:22 --> 01:24:44:00] Então, eu quero ter os mesmos espaços dos dois lados.
+[01:24:44:02 --> 01:24:45:20] O que eu faço? Eu duplico esse quadrado.
+[01:24:46:16 --> 01:24:47:13] Essa é a primeira etapa.
+[01:24:48:03 --> 01:24:51:11] Então, eu dupliquei o quadrado, eu tenho um espaço do lado de cá,
+[01:24:51:16 --> 01:24:53:09] tenho um espaço do lado de cá.
+[01:24:54:00 --> 01:24:56:03] Agora, a segunda coisa que eu vou fazer
+[01:24:56:03 --> 01:24:59:23] é criar esses diagonais aqui para encontrar o centro
+[01:25:02:02 --> 01:25:02:26] desse grid.
+[01:25:03:22 --> 01:25:06:27] E ao encontrar o centro, inclusive, você pode trabalhar o grid assim,
+[01:25:06:28 --> 01:25:08:20] isso aqui vai te dar muito mais margem,
+[01:25:08:20 --> 01:25:13:25] Se você quiser já explorar isso aqui é uma possibilidade também, vai te dar mais margem.
+[01:25:14:02 --> 01:25:17:19] Mas aqui a gente quer construir aquele quadrado lá, que eu mostrei para vocês.
+[01:25:18:21 --> 01:25:20:05] Tá, agora eu posso puxar aqui.
+[01:25:21:15 --> 01:25:24:01] para encontrar essa interseção e puxo aqui.
+[01:25:25:27 --> 01:25:27:02] para encontrar do lado de lá.
+[01:25:27:15 --> 01:25:28:29] Agora para encontrar aquele...
+[01:25:30:06 --> 01:25:34:09] Aquela zona que a gente tinha encontrado, eu puxo aqui, aqui, aqui e aqui.
+[01:25:34:17 --> 01:25:36:13] Esse é bem simples, pra gente dar uma aquecida.
+[01:25:37:27 --> 01:25:41:09] Aí, se você quiser diminuir as linhas guias, você pode diminuir também.
+[01:25:42:02 --> 01:25:43:21] Aí fica a seu critério, tá bom?
+[01:25:43:23 --> 01:25:45:24] Se você prefere diminuir...
+[01:25:45:24 --> 01:25:46:18] Como assim, ron, diminuir?
+[01:25:46:24 --> 01:25:49:08] Depois você pode dizer lá, eu quero tirar essas daqui,
+[01:25:49:20 --> 01:25:51:15] que é o que eu fiz, eu quero explorar só essas.
+[01:25:51:19 --> 01:25:52:23] Aí você pode explorar só elas.
+[01:25:53:06 --> 01:25:56:18] Se você quiser também, você pode fazer a mesma coisa que você fez para cima,
+[01:25:57:02 --> 01:25:58:11] você pode espelhar para baixo também.
+[01:25:58:18 --> 01:26:00:03] Puxa essa diagonal de cá...
+[01:26:01:09 --> 01:26:02:23] e puxa a diagonal de cá.
+[01:26:03:14 --> 01:26:06:03] Que aí você ganhou novos pontos, você ganhou esses pontos aqui.
+[01:26:08:01 --> 01:26:14:07] que você pode explorar também nessas coincidências ali, nessas interseções, beleza?
+[01:26:14:19 --> 01:26:18:27] Então esse daqui, mais para aquecer, você pode também espelhar esse...
+[01:26:20:18 --> 01:26:21:18] E se...
+[01:26:23:02 --> 01:26:23:15] Polígono.
+[01:26:23:29 --> 01:26:26:29] Para cima, também vai funcionar, você não necessariamente
+[01:26:26:29 --> 01:26:30:07] vai criar novos pontos aqui, mas você pode criar novas relações
+[01:26:30:27 --> 01:26:32:01] entre os quadrantes.
+[01:26:32:11 --> 01:26:34:07] Então, esse é o primeiro para vocês darem uma aquecida.
+[01:26:34:09 --> 01:26:37:18] Como eu disse, dá para usar isso aqui em vários pontos de contato diferente.
+[01:26:37:27 --> 01:26:41:22] A ideia desse tipo de grid é criar relações entre os elementos para vocês.
+[01:26:41:28 --> 01:26:43:24] Olha só, última vez, hein?
+[01:26:44:04 --> 01:26:45:21] É porque essa brincadeira é o mais legal.
+[01:26:46:01 --> 01:26:47:12] Experimenta isso que vai valer a pena.
+[01:26:47:28 --> 01:26:50:10] Se você escolhe alguns pontos de interesse aqui,
+[01:26:50:24 --> 01:26:52:14] Olha como a gente direciona o olhar.
+[01:26:53:21 --> 01:26:54:21] Estamos direcionando o olhar.
+[01:26:55:01 --> 01:26:58:11] Ou a pessoa vai olhar daqui para cá, porque as cores também influenciam.
+[01:26:58:21 --> 01:27:01:00] O todo é mais do que a soma das partes.
+[01:27:01:27 --> 01:27:04:26] Então, é depois que você tem todos os elementos
+[01:27:04:26 --> 01:27:07:20] que você tem que olhar para o objeto e você vai ter uma nova percepção.
+[01:27:07:27 --> 01:27:10:18] Mas só olhando aqui no preto e branco, a gente tem tanto esse movimento
+[01:27:10:18 --> 01:27:13:11] quanto esse movimento de cá para cá também.
+[01:27:13:15 --> 01:27:15:08] A gente criou um movimento aqui, tá?
+[01:27:15:18 --> 01:27:20:05] Agora, se eu tiro isso daqui e já foco nessa relação aqui,
+[01:27:20:10 --> 01:27:22:06] a gente criou um novo movimento.
+[01:27:22:06 --> 01:27:25:14] A gente está puxando o olhar da pessoa nessa composição.
+[01:27:26:23 --> 01:27:31:11] E você pode brincar de deixar o grid exposto ou não, depende da mensagem que você quer
+[01:27:31:11 --> 01:27:31:28] passar, tá?
+[01:27:32:16 --> 01:27:39:05] Às vezes, isso aqui passa uma sensação de harmonia, o fato de encontrar essas interseções,
+[01:27:39:16 --> 01:27:42:05] essa simetria das retras, trazem harmonia.
+[01:27:43:11 --> 01:27:49:20] Então, em alguns casos, deixar o grid exposto, mostrar o grid pode te ajudar a reforçar essa
+[01:27:49:20 --> 01:27:50:06] sensação.
+[01:27:50:24 --> 01:27:53:10] Vamos para um aqui um pouco diferente, tá?
+[01:27:53:23 --> 01:27:59:00] Esse daqui, ele também segue a lógica dos quadrados lá, mas a gente traça novas relações.
+[01:27:59:09 --> 01:28:03:28] E o que eu quero que você observa é, primeiro o próprio grid, ele já traz um movimento.
+[01:28:04:06 --> 01:28:07:14] Então, a gente tem um movimento que sai daqui para fora, olha.
+[01:28:08:05 --> 01:28:12:03] A gente tem esse movimento no grid, esse quadrante aqui importante.
+[01:28:12:03 --> 01:28:16:20] ou, aí depende de como você vai construir, esse aqui de holofote, sabe?
+[01:28:17:12 --> 01:28:21:06] Ó, dois holofotes se encontrando, que aí traz essa relação aqui.
+[01:28:21:21 --> 01:28:25:29] O que vai te fazer... o que vai fazer a pessoa perceber essa ou essa?
+[01:28:26:15 --> 01:28:27:28] O elemento que você coloca aqui.
+[01:28:28:06 --> 01:28:30:06] Se eu coloco um elemento assim aqui no meio...
+[01:28:31:29 --> 01:28:34:16] eu automaticamente puxo a atenção para ele.
+[01:28:35:09 --> 01:28:37:13] Está vendo? E dessa forma aqui,
+[01:28:38:04 --> 01:28:41:00] eu estou repetindo a forma do grid,
+[01:28:42:01 --> 01:28:45:01] ele faz isso aqui, ele puxa a nossa atenção para cá.
+[01:28:45:10 --> 01:28:46:07] É muito forte isso.
+[01:28:46:24 --> 01:28:49:07] Agora, se eu coloco outros elementos, por exemplo,
+[01:28:49:19 --> 01:28:51:03] se eu coloco um elemento aqui...
+[01:28:51:28 --> 01:28:54:03] Deixa eu colocar nas relações deles.
+[01:28:54:07 --> 01:28:56:26] Eu posso colocar um aqui, um outro aqui.
+[01:28:57:14 --> 01:28:58:24] Na verdade, eu vou deixar simétrico.
+[01:28:58:27 --> 01:29:00:29] Coloco um elemento ali e outro aqui.
+[01:29:02:09 --> 01:29:05:04] Olha como eu mudo a dinâmica dele.
+[01:29:05:13 --> 01:29:08:21] A simetria é muito forte, a gente ainda consegue percebê-la aqui.
+[01:29:09:00 --> 01:29:15:09] Mas olha como se eu tirar alguns elementos eu começo a conduzir o olhar para uma certa
+[01:29:15:28 --> 01:29:16:12] posição.
+[01:29:16:20 --> 01:29:16:26] Está vendo?
+[01:29:17:08 --> 01:29:21:13] Esse espaço vazio também comunica, ele também é importante na composição.
+[01:29:21:26 --> 01:29:23:07] E a gente pode explorar isso aqui.
+[01:29:23:24 --> 01:29:28:12] Composições simétricas geralmente vão direcionar com muita força a atenção
+[01:29:28:12 --> 01:29:28:28] para o meio.
+[01:29:30:17 --> 01:29:32:18] e vão passar essa sensação de harmonia.
+[01:29:32:21 --> 01:29:34:23] Se você quer tirar um pouco da sensação de harmonia,
+[01:29:34:27 --> 01:29:36:23] se você quer passar um pouco uma ideia mais...
+[01:29:37:29 --> 01:29:39:08] mais de movimento,
+[01:29:39:18 --> 01:29:42:11] aí você pesa para um lado e tira essa simetria.
+[01:29:42:17 --> 01:29:44:20] Olha aqui, por exemplo, essa composição aqui.
+[01:29:45:28 --> 01:29:47:05] Essa daqui é a luta.
+[01:29:49:03 --> 01:29:55:15] que elas estão juntas, eu quero tirar só essa. Olha como que elas criam uma força interessante
+[01:29:55:15 --> 01:29:55:22] aqui.
+[01:29:58:13 --> 01:30:00:12] Tirei esse elemento e esse.
+[01:30:00:26 --> 01:30:03:17] Às vezes, tirei, deixei o mais simples possível.
+[01:30:04:12 --> 01:30:08:13] Mas olha como essa composição é uma composição muito interessante de ser trabalhada.
+[01:30:09:26 --> 01:30:13:06] Olha como que dá, inclusive, muita foto de galáxia,
+[01:30:13:11 --> 01:30:16:03] isso aqui me lembrou muito aquele movimento das galáxias.
+[01:30:18:11 --> 01:30:20:19] Aqui, tem um movimento ali.
+[01:30:20:26 --> 01:30:23:16] Mas dá para explorar isso de várias formas, um vidro quebrado.
+[01:30:23:28 --> 01:30:26:09] Eu consigo ver muitas coisas aqui, eu imagino que vocês também.
+[01:30:26:19 --> 01:30:29:09] Se for mais pontudo, lembra essa ideia de algo quebrado.
+[01:30:30:03 --> 01:30:33:09] A gente pode, inclusive, traçar outras relações aqui,
+[01:30:33:13 --> 01:30:34:24] buscar e encontrar essas relações.
+[01:30:35:26 --> 01:30:39:07] Esse aqui foi um ângulo de 45 graus que ela também constrói,
+[01:30:39:13 --> 01:30:40:12] ela também direciona o olhar.
+[01:30:40:27 --> 01:30:42:01] E como foi que eu montei esse?
+[01:30:42:01 --> 01:30:44:03] Olha como a lógica vai ficando óbvia.
+[01:30:45:01 --> 01:30:47:21] Eu acho que vocês já sacaram qualquer ideia.
+[01:30:47:21 --> 01:30:49:07] Só esse ponto aqui que vocês devem estar falando,
+[01:30:49:07 --> 01:30:53:15] Ruan, onde você encontrou esse ponto aqui no final das contas?
+[01:30:54:04 --> 01:30:56:06] Mas vamos lá, vamos recriar isso aqui para vocês verem.
+[01:30:58:03 --> 01:31:01:21] Basicamente... eu vou deixar o modelo ali também, porque eu não esqueci.
+[01:31:02:07 --> 01:31:02:22] Fazer assim, ó.
+[01:31:04:26 --> 01:31:05:09] Eu sei.
+[01:31:07:03 --> 01:31:08:10] Deixo o modelo ali
+[01:31:10:21 --> 01:31:16:29] Basicamente, para construir esse também é muito de boa, você vai partir dos quadrados.
+[01:31:17:22 --> 01:31:21:10] Então, o quadrado que você usou para construir esse retângulo aureu aqui...
+[01:31:25:14 --> 01:31:28:18] Você vai espelhar ele dos dois lados.
+[01:31:29:24 --> 01:31:34:00] E aí, agora, você faz essas diagonais, essas aqui a gente explora bastante.
+[01:31:35:07 --> 01:31:38:03] Eu acho que tem um grid aqui também que não tem essas diagonais.
+[01:31:38:13 --> 01:31:39:03] Acho que é o próximo.
+[01:31:40:05 --> 01:31:40:17] Beleza.
+[01:31:40:23 --> 01:31:42:20] Uma vez que você tem essas aqui então,
+[01:31:43:07 --> 01:31:46:06] agora a gente vai precisar puxar as diagonais...
+[01:31:47:02 --> 01:31:50:06] do canto para encontrar um ponto que é muito importante, olha só.
+[01:31:50:14 --> 01:31:51:10] Vou puxar essa daqui.
+[01:31:52:25 --> 01:31:57:06] Na verdade é daqui pra cá, a gente quer puxar a composição toda pra lá, e esse daqui pra aqui.
+[01:31:58:25 --> 01:32:00:24] Agora, a gente encontrou...
+[01:32:02:11 --> 01:32:06:10] Esse ponto a gente já tinha encontrado ele e a gente vai encontrar uma interseção desde com isso.
+[01:32:10:14 --> 01:32:12:25] Você pode fazer isso tanto para cima quanto para baixo.
+[01:32:13:10 --> 01:32:15:02] Basicamente, agora a gente traz uma linha aqui.
+[01:32:16:28 --> 01:32:21:06] para encontrar esse ponto, e o legal é que esse retângulo é áureo também, se você
+[01:32:21:06 --> 01:32:25:12] quiser fazer uma espiral áurea aqui, olha, vai dar mais ou menos aqui, você consegue
+[01:32:25:12 --> 01:32:28:00] continuar ela aqui e fazer ela, seguir a sequência.
+[01:32:29:17 --> 01:32:34:24] Mas a gente encontrou então esse ponto, eu vou puxar daqui e traçar aquela relação que a gente queria,
+[01:32:35:01 --> 01:32:40:03] posso apagar esse e faço a mesma coisa do lado de cá, já que é simétrico.
+[01:32:40:12 --> 01:32:40:24] Puxo aqui.
+[01:32:42:24 --> 01:32:43:23] e agora se relaxa.
+[01:32:45:03 --> 01:32:45:18] com certeza.
+[01:32:49:03 --> 01:32:51:08] botinho, aí nós temos esse grid.
+[01:32:52:20 --> 01:32:56:16] que eu mostrei para vocês há pouco tempo. Se você quiser, você pode espelhar ele.
+[01:32:57:04 --> 01:33:01:06] Como que espelhar ele? Você pega essa interseção aqui, que é a oposta dessa, ela é a...
+[01:33:02:03 --> 01:33:03:07] A extrema ou a oposta dela?
+[01:33:05:10 --> 01:33:07:18] Puxa aqui, você vai encontrar.
+[01:33:08:26 --> 01:33:11:12] Aí você tem que puxar aqui também, olha, para encontrar aquele ponto ali.
+[01:33:13:06 --> 01:33:15:27] Te encontro o mesmo ponto, só aqui do outro lado.
+[01:33:16:09 --> 01:33:17:19] Faz a mesma coisa do lado de cá.
+[01:33:20:00 --> 01:33:21:18] Puxa uma reta desse ponto aqui.
+[01:33:23:25 --> 01:33:24:27] Eu matei isso aqui também.
+[01:33:26:26 --> 01:33:30:21] O legal é que, às vezes, as pessoas ficam tentando encaixar...
+[01:33:30:21 --> 01:33:32:09] Ah, ali não ficou certo, não...
+[01:33:33:03 --> 01:33:33:21] Ah, ficou.
+[01:33:34:00 --> 01:33:36:06] Tem que sempre dar o zoom para conferir isso, não?
+[01:33:36:08 --> 01:33:40:13] As pessoas, elas veem isso aqui e tentam encaixar, então, tentam pegar um retângulo aurel...
+[01:33:41:02 --> 01:33:43:20] Deixa eu pegar ele aqui para vocês verem o que eu quero dizer.
+[01:33:44:25 --> 01:33:49:09] Então, pega um retângulo aurel aqui e tenta só encaixar ele aqui.
+[01:33:49:17 --> 01:33:53:06] Se você faz essa chance de não ficar preciso, ela é grande.
+[01:33:53:20 --> 01:33:58:27] Agora, se você usa as diagonais, você tem mais chance de acertar isso, de ficar preciso, tá?
+[01:33:59:08 --> 01:34:03:27] Olha só, se vocês repararem, é a mesma proporção.
+[01:34:04:05 --> 01:34:06:11] Só que com as diagonais você faz isso com muito mais precisão.
+[01:34:07:25 --> 01:34:13:06] Deu pra gente refletir, vocês viram? Inclusive, a gente formou uma estrela de cinco pontas aqui, né?
+[01:34:13:17 --> 01:34:16:26] Como é que eu faço se eu quiser formar ela pro outro lado também?
+[01:34:17:08 --> 01:34:18:15] É basicamente, você vai puxar aqui, ó.
+[01:34:20:12 --> 01:34:21:02] Faza mesmo.
+[01:34:22:23 --> 01:34:23:16] Mesmo lado.
+[01:34:25:17 --> 01:34:25:28] Aqui.
+[01:34:28:17 --> 01:34:29:06] e puxa.
+[01:34:35:17 --> 01:34:39:26] Aí a gente tem essas duas pontas aqui, e tem essas duas pontas aqui também super simétricas.
+[01:34:40:00 --> 01:34:40:04] Tá vendo?
+[01:34:40:26 --> 01:34:43:27] A gente até perde um pouco a sensação da estrela aqui, né?
+[01:34:44:01 --> 01:34:49:01] Porque agora os elementos que foram repetidos não são mesmos.
+[01:34:49:04 --> 01:34:52:12] Se você quiser repetir exatamente isso daqui...
+[01:34:54:25 --> 01:34:59:12] Na verdade, tá refletido, né? Só que tá por cima aqui, ó. A gente tem esse lado...
+[01:35:01:29 --> 01:35:02:23] Não sei se vocês estão vendo.
+[01:35:04:03 --> 01:35:06:06] a estrela de cabeça para baixo, o bode aqui.
+[01:35:06:18 --> 01:35:09:08] Por isso que a galera fala que é magia negra.
+[01:35:10:18 --> 01:35:12:05] o bode, a estrela de cabeça para baixo,
+[01:35:12:14 --> 01:35:15:00] mas você também consegue montar a estrela de cabeça para cima.
+[01:35:17:22 --> 01:35:20:01] Eu falei que vocês querem a bruxaria, vocês estão acreditando?
+[01:35:22:02 --> 01:35:26:02] brincadeira. Então a gente fez aqui esse métrico. Vamos pegar mais uma aqui diferente. Essa
+[01:35:26:02 --> 01:35:30:09] eu acho muito linda. Ela por si só é linda. E eu consigo ver um olho nela aqui ó.
+[01:35:32:21 --> 01:35:35:10] a gente pode até encontrar aqui uma...
+[01:35:38:01 --> 01:35:41:21] interseção. Para encontrar aqui a interseção exata, deixa eu ver se foi.
+[01:35:43:07 --> 01:35:44:02] Não foi, não.
+[01:35:44:13 --> 01:35:46:10] Para encontrar a interseção exata vocês já sabem, né?
+[01:35:46:17 --> 01:35:47:16] A gente já virou uma.
+[01:35:47:17 --> 01:35:48:18] Encontrar a medianiz.
+[01:35:50:02 --> 01:35:55:12] a mediatriz e aí você consegue fazer, mas aqui só para vocês usazarem, não vou me
+[01:35:55:12 --> 01:35:57:26] estender muito, encontrar o...
+[01:35:58:23 --> 01:36:01:04] Ponto exato não, quero só que vocês visualizem a ideia.
+[01:36:03:14 --> 01:36:07:01] Dá pra ver um olho aí muito massa, dá pra ver até a bandeira do Brasil aí, né?
+[01:36:07:09 --> 01:36:10:07] A bandeira do Brasil em proporção áurea, se for sozinha.
+[01:36:10:12 --> 01:36:12:00] Então, olha só que interessante.
+[01:36:13:03 --> 01:36:14:29] Ela é supersimétrica, essa daqui.
+[01:36:15:14 --> 01:36:17:07] E ela é super fácil de construir também, tá?
+[01:36:17:15 --> 01:36:19:21] Apesar de não parecer, que vocês só olhavam e falavam...
+[01:36:19:21 --> 01:36:23:20] Mas, Juan, o espaço dela é maior do que da outra, né lá?
+[01:36:23:24 --> 01:36:26:15] Não sei se vocês perceberam, a parte interna dela é maior.
+[01:36:26:25 --> 01:36:28:27] Porque o jeito de construir ela é diferente.
+[01:36:29:10 --> 01:36:30:03] Simplesmente isso.
+[01:36:30:10 --> 01:36:31:18] Não tem muito segredo aqui, não.
+[01:36:32:00 --> 01:36:33:25] Só que a gente vai começar de outra ponta.
+[01:36:34:00 --> 01:36:37:06] Eu vou até deixá-la ali também, para vocês irem acompanhando.
+[01:36:37:27 --> 01:36:38:17] Deixá-la aqui.
+[01:36:41:12 --> 01:36:42:09] E o cão cheio.
+[01:36:44:03 --> 01:36:45:18] Vou até colocar o mesmo peso.
+[01:36:47:04 --> 01:36:52:21] vocês vão acompanhando. Como que faz para construir? Tem que desagrupar primeiro, tira
+[01:36:52:21 --> 01:36:56:21] essa ponta e vai. Primeira coisa que a gente vai fazer é traçar as linhas para encontrar
+[01:36:56:21 --> 01:36:57:09] o centro.
+[01:36:59:07 --> 01:36:59:27] Tassa aqui.
+[01:37:00:16 --> 01:37:02:25] Depois, a gente vai dividir a folha em quatro.
+[01:37:03:25 --> 01:37:06:22] Vou pegar essa interseção e dividi-la aqui.
+[01:37:07:27 --> 01:37:10:00] Lembrando que a gente está trabalhando...
+[01:37:10:00 --> 01:37:12:17] Pelo fato de nós já estávamos trabalhando em um formato
+[01:37:15:08 --> 01:37:15:22] que...
+[01:37:15:22 --> 01:37:18:15] A razão dele é a proporção a hora, 1,618,
+[01:37:19:03 --> 01:37:21:01] isso faz com que seja mais fácil de trabalhar.
+[01:37:22:08 --> 01:37:22:11] A...
+[01:37:24:01 --> 01:37:28:11] a relação áurea entre as partes aqui, como vocês vão ver já, já.
+[01:37:28:24 --> 01:37:31:10] Então, uma vez que a gente criou esses dois pontos,
+[01:37:31:25 --> 01:37:32:26] o que a gente vai fazer agora?
+[01:37:34:02 --> 01:37:37:24] A gente pode seguir de algumas formas aqui.
+[01:37:38:09 --> 01:37:39:08] A primeira delas...
+[01:37:41:09 --> 01:37:47:13] Dividir isso de novo na metade, você pode dividir aqui na metade, e aí você vai encontrar
+[01:37:47:13 --> 01:37:48:03] esse centro.
+[01:37:49:05 --> 01:37:50:08] para poder trabalhar ele.
+[01:37:52:08 --> 01:37:55:07] Só que a que a gente fez ali, a gente não divide na metade.
+[01:37:55:09 --> 01:37:58:11] Se eu dividir na metade, vocês vão ver que vai ser muito parecido os dois,
+[01:37:58:22 --> 01:38:00:05] só que ali está mais puxado.
+[01:38:00:09 --> 01:38:01:29] Esse daqui vai ficar exato.
+[01:38:02:02 --> 01:38:03:08] Deixa eu só fazer para vocês verem.
+[01:38:06:02 --> 01:38:06:21] Puxa aqui.
+[01:38:07:28 --> 01:38:08:21] e puxa aqui.
+[01:38:13:02 --> 01:38:14:26] Tá vendo? Eu posso até puxar aqui, olha.
+[01:38:18:01 --> 01:38:21:08] Mas olha como que ele ficou mais espichado ali no meio.
+[01:38:22:17 --> 01:38:27:15] e o losango ficou mais centralizado. É uma opção também, tá? Isso daqui tá totalmente por dentro.
+[01:38:28:21 --> 01:38:29:13] da proporção.
+[01:38:35:01 --> 01:38:36:12] Puxa ali, puxa ali...
+[01:38:38:15 --> 01:38:39:08] Faltam puxar o de lá.
+[01:38:40:21 --> 01:38:41:20] que eu puxei pra cá.
+[01:38:45:24 --> 01:38:49:10] Criou outra composição, completamente diferente daquela ali.
+[01:38:49:25 --> 01:38:51:08] Então, como que faz para chegar naquela lá?
+[01:38:51:15 --> 01:38:55:13] A gente vai usar, na verdade, essa relação aqui.
+[01:38:56:14 --> 01:38:58:10] Depois que você traçou essas duas...
+[01:38:59:23 --> 01:39:02:19] você vai pegar esse ponto aqui.
+[01:39:03:29 --> 01:39:05:27] essa interseção e vai colar ela aqui.
+[01:39:07:03 --> 01:39:08:02] De uma ponta na outra.
+[01:39:08:20 --> 01:39:10:20] E vai fazer a mesma coisa com o lado de lá.
+[01:39:16:12 --> 01:39:20:20] Beleza, então agora a gente encontrou aquelas duas linhas ali que são importantes
+[01:39:20:20 --> 01:39:23:26] para essa composição, e agora para fazer o resto fica muito mais fácil.
+[01:39:24:07 --> 01:39:27:21] Você pode até, que nem eu, eu removir esses elementos aqui, depois.
+[01:39:28:00 --> 01:39:31:14] Tirei eles, porque eu não queria que eles aparecessem no grid, tá?
+[01:39:32:00 --> 01:39:33:16] E agora o que a gente vai fazer aqui?
+[01:39:33:21 --> 01:39:37:00] A gente vai dividir essa nova página aqui.
+[01:39:38:24 --> 01:39:40:24] Essas novas sessões, perdão, aqui.
+[01:39:41:04 --> 01:39:42:02] A gente divide ela aqui.
+[01:39:43:10 --> 01:39:46:00] as dois X e dividi-la aqui.
+[01:39:48:03 --> 01:39:52:25] Para que a gente está fazendo isso? Para dividir a sessão na vertical.
+[01:39:53:23 --> 01:39:57:00] O que importa para a gente é essa divisória, essa interseção aqui.
+[01:39:58:15 --> 01:39:59:18] ela é a mais importante.
+[01:40:00:04 --> 01:40:02:13] E agora, basicamente, conecto esse ponto aqui.
+[01:40:04:24 --> 01:40:05:23] Conecto aqui também.
+[01:40:09:06 --> 01:40:10:23] Faz a mesma coisa do outro lado.
+[01:40:12:19 --> 01:40:13:00] Aqui.
+[01:40:15:09 --> 01:40:16:09] Exceção, aí.
+[01:40:18:01 --> 01:40:20:29] Conecto aqui, e aí nós vamos dar uma limpada, tá?
+[01:40:21:14 --> 01:40:23:15] A limpada aqui é muito importante também.
+[01:40:24:09 --> 01:40:26:07] Então, a gente pode tirar agora essa linha aqui,
+[01:40:26:14 --> 01:40:27:09] a gente não usa ela mais.
+[01:40:28:14 --> 01:40:33:11] As outras a gente deixa e nós vamos traçar uma nova relação aqui, aqui com aqui.
+[01:40:35:06 --> 01:40:35:27] Aqui.
+[01:40:36:11 --> 01:40:36:21] Qua aqui?
+[01:40:40:16 --> 01:40:41:11] Aqui, com aqui.
+[01:40:43:29 --> 01:40:44:21] E aqui, ok.
+[01:40:47:17 --> 01:40:51:23] Basicamente a gente chegou na mesma composição, você pode olhar aqui do lado.
+[01:40:52:27 --> 01:40:56:10] que dá para a gente explorar ela agora da mesma forma, tá bom?
+[01:40:57:15 --> 01:41:00:27] Então, retirar elementos é tão importante quanto colocar elementos, tá?
+[01:41:00:28 --> 01:41:02:14] Não sei se vocês estão percebendo aqui,
+[01:41:04:17 --> 01:41:06:29] mas funciona tanto para um lado quanto para o outro.
+[01:41:07:12 --> 01:41:10:15] Às vezes, tirar uma linha vai te ajudar a deixar aquilo mais fácil,
+[01:41:10:17 --> 01:41:12:29] às vezes, deixar a composição mais harmônica.
+[01:41:13:00 --> 01:41:14:18] Às vezes, quando você vê linha demais,
+[01:41:15:08 --> 01:41:16:12] você fica até confuso.
+[01:41:16:15 --> 01:41:18:09] Ah, tem muita linha aí, não estou entendendo,
+[01:41:18:12 --> 01:41:19:09] está me deixando confuso.
+[01:41:19:20 --> 01:41:22:08] Mas olha só como desse mesmo jeito a gente pode explorar aqui.
+[01:41:22:27 --> 01:41:26:12] A gente pode explorar tanto uma simetria quanto uma assimetria.
+[01:41:26:26 --> 01:41:30:22] Você pode trazer o movimento direto desse ponto aqui para cá...
+[01:41:31:17 --> 01:41:33:16] explorar um movimento assim,
+[01:41:34:04 --> 01:41:36:11] você pode explorar o centro,
+[01:41:36:26 --> 01:41:37:28] que para mim é a parte mais bonita,
+[01:41:37:29 --> 01:41:40:20] quando eu vejo esse olho aqui, é a parte mais bonita desse centro.
+[01:41:41:00 --> 01:41:43:15] Inclusive esse daqui eu que criei brincando.
+[01:41:43:25 --> 01:41:46:01] Eu sugiro com vocês de novo, terceira vez,
+[01:41:46:09 --> 01:41:48:14] sugiro que vocês abram o Olhos Treito e brinquem com isso,
+[01:41:48:15 --> 01:41:50:04] vocês vão criar muitas coisas legais aí.
+[01:41:50:22 --> 01:41:53:08] Prestem atenção na precisão,
+[01:41:53:16 --> 01:41:55:25] prestem atenção nessas técnicas que eu ensinei para vocês,
+[01:41:55:25 --> 01:41:56:22] as diagonais,
+[01:41:56:28 --> 01:41:58:28] porque se você faz errado, dá errado no final.
+[01:41:59:19 --> 01:42:01:01] Não fica dentro da proporção,
+[01:42:01:01 --> 01:42:04:16] mas se você faz isso certo, seguindo a precisão certinha,
+[01:42:04:20 --> 01:42:09:20] você vai conseguir criar grids que são o próprio grid,
+[01:42:10:01 --> 01:42:14:02] já é harmônico, já é bonito, já traz uma sensação de...
+[01:42:15:02 --> 01:42:18:09] de ordem, de organização.
+[01:42:19:15 --> 01:42:20:28] Vamos fazer mais um aqui agora.
+[01:42:21:17 --> 01:42:21:25] Esse, olha.
+[01:42:22:10 --> 01:42:25:13] Cada novo, olha só como cada grid gera uma dinâmica nova.
+[01:42:26:11 --> 01:42:27:26] Cada grid vai trazer uma dinâmica nova.
+[01:42:28:05 --> 01:42:29:28] Esse aqui também não tem muito segredo, não.
+[01:42:30:18 --> 01:42:32:08] A gente não precisa nem criar ele do zero, olha só.
+[01:42:32:12 --> 01:42:33:26] Deixa eu ver se vocês conseguem entender assim.
+[01:42:34:13 --> 01:42:35:15] A gente tem o quadrado aqui.
+[01:42:36:27 --> 01:42:39:20] Esse é o primeiro ponto, esse quadrado, natural,
+[01:42:39:29 --> 01:42:41:23] insere um quadrado dentro de um retângulo óbvio
+[01:42:41:23 --> 01:42:42:29] e a gente encontra essa ponta.
+[01:42:43:02 --> 01:42:44:03] O que a gente faz com ele?
+[01:42:44:23 --> 01:42:46:24] A gente espelha ele para o outro lado também,
+[01:42:47:03 --> 01:42:48:01] para encontrar essa outra linha.
+[01:42:48:19 --> 01:42:50:29] Esse é o primeiro passo, encontrar essas duas linhas aqui.
+[01:42:53:00 --> 01:42:55:04] Tira, tira, tira, tira.
+[01:42:57:01 --> 01:42:59:13] Tira, tira, tira, tira.
+[01:42:59:19 --> 01:43:00:07] Primeiro passo.
+[01:43:02:13 --> 01:43:03:13] Encontrar essas duas linhas.
+[01:43:03:20 --> 01:43:04:14] A gente já aprendeu.
+[01:43:04:20 --> 01:43:06:28] Os dois quadrados, deixa simétrico, encontra as duas linhas.
+[01:43:07:12 --> 01:43:10:25] Segundo passo, você pode começar de vários pontos aqui, na verdade.
+[01:43:11:03 --> 01:43:13:13] Olha só, você pode começar puxando de dentro.
+[01:43:13:22 --> 01:43:16:14] Aqui, puxa daqui e puxa daqui.
+[01:43:18:12 --> 01:43:22:21] E uma vez que você fez isso, você já encontrou novas interseções para trabalhar,
+[01:43:23:11 --> 01:43:24:09] que é o que eu fiz ali.
+[01:43:24:22 --> 01:43:26:11] Eu queria pesar mais a parte de cima.
+[01:43:26:13 --> 01:43:29:08] Você pode fazer dessa forma, vai ficar excelente, tá?
+[01:43:29:24 --> 01:43:31:07] Então, aqui, eu puxei ele.
+[01:43:31:24 --> 01:43:34:02] Agora, como eu faço para encontrar esses novos pontos ali?
+[01:43:34:12 --> 01:43:35:11] Puxo para o outro lado.
+[01:43:36:02 --> 01:43:37:05] Vem daqui para cá,
+[01:43:37:26 --> 01:43:38:19] encontro aquele ponto.
+[01:43:40:07 --> 01:43:41:07] Da mesma forma aqui.
+[01:43:41:29 --> 01:43:44:03] Encontrei esse novo ponto aqui, que é o que a gente está vendo ali.
+[01:43:45:15 --> 01:43:46:11] Puxa-lhe aqui agora.
+[01:43:48:26 --> 01:43:51:13] Faça a mesma coisa do lado de cá.
+[01:43:52:28 --> 01:43:54:15] Posso puxar direto dele, que é melhor?
+[01:43:54:21 --> 01:43:58:04] Puxar direto dele e depois você decide até onde você quer que vai.
+[01:43:59:13 --> 01:44:02:00] Ou puxei de errado, na verdade aqui.
+[01:44:03:01 --> 01:44:04:04] Já comecei errado.
+[01:44:04:22 --> 01:44:05:15] É desse ponto aqui.
+[01:44:07:10 --> 01:44:08:03] simétrico.
+[01:44:09:03 --> 01:44:12:01] Não é que é errado, você poderia puxar daquele ponto ali também.
+[01:44:13:09 --> 01:44:17:20] Mas ele é a metade, não é necessariamente dentro da proporção, igual a gente vê aqui.
+[01:44:18:02 --> 01:44:19:19] Aqui a gente tem um retângulo áuro.
+[01:44:20:13 --> 01:44:21:07] Isso é um retângulo áuro.
+[01:44:21:20 --> 01:44:22:24] Aqui é um retângulo áuro.
+[01:44:23:29 --> 01:44:27:19] Esses dois segmentos, então isso que é a grande graça aqui do negócio.
+[01:44:28:06 --> 01:44:30:04] Depois que eu fiz, eu puxei mais uma linha para cá.
+[01:44:31:13 --> 01:44:33:27] Olha como ela coincide aqui, isso que é o mais legal, olha.
+[01:44:34:06 --> 01:44:35:14] Os elementos começam a coincidir.
+[01:44:35:22 --> 01:44:37:03] Fiz uma linha de cá para cá também.
+[01:44:38:06 --> 01:44:39:28] E é basicamente isso que eu fiz, olha.
+[01:44:39:29 --> 01:44:41:11] Para criar esse grid, tá?
+[01:44:41:26 --> 01:44:44:22] Dá para fazer muita coisa com essa técnica.
+[01:44:45:06 --> 01:44:47:15] Acho que agora, chegando agora para o final, vocês entenderam
+[01:44:47:15 --> 01:44:49:29] por que eu ensinei diagrama de Vilar,
+[01:44:50:05 --> 01:44:55:15] por que eu ensinei o Canon de Van Der Graaf, o Canon do...
+[01:44:56:13 --> 01:44:56:26] Do...
+[01:44:57:26 --> 01:44:58:21] Esqueci o nome e dou.
+[01:45:00:11 --> 01:45:01:09] Te invandegrafo?
+[01:45:04:01 --> 01:45:07:02] rosivo, nossa, às vezes eu dou branco.
+[01:45:11:00 --> 01:45:13:12] Rosarivo, Rosarivo, oh, Rosarivo.
+[01:45:13:17 --> 01:45:16:00] Eu mostrei para vocês o Rosarivo também, por quê?
+[01:45:16:00 --> 01:45:19:15] Para vocês terem abordagens diferentes, vocês entenderem qual que é a lógica.
+[01:45:19:22 --> 01:45:22:09] Que às vezes vocês olham para esses gritos, esse daqui é o mais complexo,
+[01:45:22:12 --> 01:45:23:00] deixa ele para o final.
+[01:45:23:13 --> 01:45:25:20] Às vezes vocês olham, deixa eu ver se é ele.
+[01:45:25:26 --> 01:45:28:09] Ah não, esse aqui a gente já passou, já passou, passou.
+[01:45:28:12 --> 01:45:30:01] É esse aqui, esse aqui a gente vai falar dele agora.
+[01:45:30:11 --> 01:45:31:15] Mas às vezes vocês olham para ele e se falam,
+[01:45:31:17 --> 01:45:33:21] meu Deus, como que isso foi construído, quais que são as relações,
+[01:45:33:23 --> 01:45:36:22] como que encontrou essas linhas, não foi nada do nada, né?
+[01:45:36:22 --> 01:45:37:14] Teve uma...
+[01:45:38:00 --> 01:45:39:13] Teve uma lógica para chegar ali.
+[01:45:39:13 --> 01:45:41:07] e é por isso que eu ensinei para vocês a lógica primeiro.
+[01:45:41:12 --> 01:45:43:07] Se tá confuso, reassiste.
+[01:45:43:15 --> 01:45:45:15] Se você reassistir, eu tenho certeza que vai ficando mais claro.
+[01:45:46:24 --> 01:45:50:01] Aqui não é uma questão igual Albert Einstein fala,
+[01:45:50:05 --> 01:45:53:10] eu posso tornar a física mais simples, mas não posso torná-la simples.
+[01:45:53:20 --> 01:45:55:23] Quando você vê a primeira vez, é coisa demais para assimilar.
+[01:45:55:29 --> 01:45:59:09] Se você vê de novo, as suas redes neurais já vão começando a encaixar
+[01:45:59:09 --> 01:46:00:17] e vai começando a fazer sentido,
+[01:46:00:27 --> 01:46:03:15] e dali um pouco você está criando seus próprios grids,
+[01:46:03:19 --> 01:46:04:29] usando essa estrutura, tá?
+[01:46:05:02 --> 01:46:07:28] E não precisa ser grid em proporção à hora, não.
+[01:46:07:28 --> 01:46:10:22] Você pode usar essa lógica em outras proporções também, tá bom?
+[01:46:10:28 --> 01:46:12:15] A ideia é só aproveitar as diagonais,
+[01:46:12:18 --> 01:46:15:12] porque elas são uma ferramenta poderosíssima.
+[01:46:15:12 --> 01:46:19:08] E agora o último grid que eu vou mostrar para vocês uma pintura que aplica esse grid
+[01:46:19:08 --> 01:46:22:05] aqui, mas é um grid que ele utiliza os quatro.
+[01:46:23:28 --> 01:46:27:15] Esses quatro cantos aqui, olha, são quatro cantos importantes.
+[01:46:28:07 --> 01:46:32:15] Acho que vocês conseguem perceber aí que são quatro retângulos áureos inseridos.
+[01:46:32:24 --> 01:46:35:22] Inclusive, tem muita gente que usa a espiral.
+[01:46:37:03 --> 01:46:43:22] Peraí, deixa eu construir aqui, ó. Usar a espiral aqui, fazer a espiral aqui, pra construir essa relação.
+[01:46:46:09 --> 01:46:49:05] Vamos montá-la aqui também, super de boa, tá?
+[01:46:49:21 --> 01:46:51:08] Fazer, criar novas relações.
+[01:46:51:24 --> 01:46:54:19] Assim como tem a própria espiral aqui, ó.
+[01:46:56:11 --> 01:46:58:19] que dá para poder construir seguindo os quadrantes.
+[01:46:58:23 --> 01:47:01:09] Primeiro quadrado, segundo quadrado, terceiro quadrado,
+[01:47:01:14 --> 01:47:04:02] quarto quadrado, quinto quadrado, sexto quadrado, por aí vai.
+[01:47:06:22 --> 01:47:08:21] Mas esse daqui, principalmente.
+[01:47:09:09 --> 01:47:12:22] Esse daqui é um grid que eu vi no livro Geometria do Design, falei desse livro três
+[01:47:12:22 --> 01:47:14:22] vezes aqui, isso é um sinal pra você?
+[01:47:16:24 --> 01:47:18:21] É um bom livro, tenho certeza que você vai gostar dele.
+[01:47:21:08 --> 01:47:23:19] e basicamente a lógica dele é a seguinte, tá?
+[01:47:24:00 --> 01:47:27:07] Primeiro a gente coloca os dois quadrados aqui, igual eu mostrei para vocês,
+[01:47:28:04 --> 01:47:31:01] para encontrar esse centro, esse centro é muito importante para a gente,
+[01:47:32:02 --> 01:47:36:13] e depois a gente traça as diagonais, quer ver, vamos refazer ele aqui,
+[01:47:36:16 --> 01:47:37:04] como ele é o último.
+[01:47:38:16 --> 01:47:40:17] Vamos refazer aqui para terminar com chave de ouro.
+[01:47:40:19 --> 01:47:41:24] Vou deixar ele aqui do lado para a gente.
+[01:47:44:10 --> 01:47:44:20] Tchau!
+[01:47:47:27 --> 01:47:48:26] Deixa só de fora.
+[01:47:50:28 --> 01:47:53:16] Então, já vou tentar aqui para a gente. Vou só atirar um...
+[01:47:54:24 --> 01:47:55:23] para vocês usarem.
+[01:47:56:11 --> 01:47:58:17] Então, tem o primeiro quadrado, espelho ele do outro lado,
+[01:47:58:23 --> 01:47:59:14] encontrou esse centro.
+[01:47:59:20 --> 01:48:02:17] Essa daqui é uma base muito comum, vocês vão usar muito isso daqui ainda.
+[01:48:03:00 --> 01:48:04:16] Depois que você encontrou esse centro,
+[01:48:05:01 --> 01:48:07:15] você começa a puxar as diagonais, tá?
+[01:48:07:24 --> 01:48:10:08] Então, puxa primeiro as duas básicas,
+[01:48:10:14 --> 01:48:11:24] essas aqui são as clássicas,
+[01:48:12:06 --> 01:48:13:06] você tem o centro aqui.
+[01:48:13:21 --> 01:48:15:20] Aí, o que você pode começar a puxar de diagonal?
+[01:48:15:24 --> 01:48:17:06] Você pode puxar um diagonal para cá,
+[01:48:17:29 --> 01:48:19:02] um diagonal para cá...
+[01:48:21:01 --> 01:48:26:14] Quanto mais diagonal você puxa, você tem que lembrar que você vai enchendo demais a composição.
+[01:48:26:23 --> 01:48:27:26] Você tem que sempre lembrar disso.
+[01:48:28:25 --> 01:48:33:01] Então, vale sempre pensar, vale a pena mais uma diagonal? Eu vou usar essa diagonal?
+[01:48:33:12 --> 01:48:35:16] Principalmente quando você vai fazer isso na folha, cara.
+[01:48:35:16 --> 01:48:38:22] Se você vai fazer na folha, você tem que pensar três vezes antes de traçar uma linha.
+[01:48:39:07 --> 01:48:40:25] Você tem que pensar se ela é necessária ou não.
+[01:48:41:00 --> 01:48:43:09] Aqui a gente pode já adicionar, tirar, adicionar, tirar, tá?
+[01:48:43:24 --> 01:48:47:03] Mas a gente faz isso para cima, faz a mesma coisa para baixo aqui.
+[01:48:48:29 --> 01:48:49:29] Puxa debaixo também.
+[01:48:51:23 --> 01:48:52:24] Puxa daqui também.
+[01:48:57:16 --> 01:48:58:15] e puxar daqui também.
+[01:49:00:17 --> 01:49:03:00] Uma vez que a gente fez isso agora, a gente só precisa traçar
+[01:49:03:26 --> 01:49:07:03] as linhas que são horizontais e verticais aqui,
+[01:49:07:09 --> 01:49:08:00] que eu havia colocado.
+[01:49:08:02 --> 01:49:10:05] Aqui a gente tem muitos pontos que dá para explorar.
+[01:49:10:07 --> 01:49:13:15] Você pode puxá-la daqui, pode puxá-la daqui, daqui, daqui.
+[01:49:14:15 --> 01:49:16:06] Pode puxar de qualquer um desses pontos.
+[01:49:16:17 --> 01:49:18:14] Tanto que tem pontos demais coincidindo aqui.
+[01:49:18:25 --> 01:49:22:06] Mas vocês vão ver na composição por que é feito dessa forma.
+[01:49:22:20 --> 01:49:24:00] Da mesma forma aqui embaixo,
+[01:49:24:15 --> 01:49:25:21] você pode puxar desse ponto aqui,
+[01:49:25:21 --> 01:49:28:15] ele vai coincidir com todos aqueles ali, são várias interseções.
+[01:49:30:10 --> 01:49:35:24] E aí a gente traçou essa, agora basicamente a gente só precisa traçar essa daqui, para encontrar...
+[01:49:37:13 --> 01:49:40:06] a razão áurea aqui desses retângulos.
+[01:49:43:11 --> 01:49:48:02] Nesses segmentos aqui, esse quadradão aqui, com esse retângulo aqui ou esse retângulo
+[01:49:48:02 --> 01:49:53:09] com esse quadrado, fica super bem dividido aqui, fica muito massa, essa aqui tem uma
+[01:49:53:09 --> 01:49:56:11] proporção bem... uma relação bem construída nesse grid aqui.
+[01:49:57:28 --> 01:50:01:09] Puxo aqui, tá pronto. Se você quiser, você pode fazer igual eu fiz ali.
+[01:50:02:19 --> 01:50:03:26] puxar as linhas aqui.
+[01:50:05:25 --> 01:50:09:28] para poder dividir mais uma vez o retângulo dentro da proporção.
+[01:50:11:05 --> 01:50:14:10] Puxa aqui também, não é o do meio, se você puxar o do meio,
+[01:50:14:13 --> 01:50:17:07] vai fazer outra relação e puxa aqui.
+[01:50:18:08 --> 01:50:20:24] Aí, você tem o grid que a gente acabou de montar.
+[01:50:20:28 --> 01:50:23:10] E eu quero mostrar ele para vocês em uma composição.
+[01:50:24:03 --> 01:50:27:06] A gente pode ter certeza de que esse grid foi usado na composição?
+[01:50:27:18 --> 01:50:29:09] Não, não dá para ter certeza.
+[01:50:29:19 --> 01:50:32:25] Mas a gente pode utilizar o grid para estudar uma composição também.
+[01:50:33:15 --> 01:50:34:10] É uma boa ideia.
+[01:50:34:24 --> 01:50:36:19] Deixa eu só des-transformar isso aqui.
+[01:50:36:27 --> 01:50:38:00] Aí, estava ali a guia.
+[01:50:38:20 --> 01:50:40:06] Para vocês visualizarem. Deixa eu ver.
+[01:50:40:27 --> 01:50:42:18] Qual cor? Essa talvez seja a melhor cor.
+[01:50:42:25 --> 01:50:44:27] Eu vou deixar grossão assim e depois eu vou tirar ele.
+[01:50:45:00 --> 01:50:46:07] Mas só para vocês visualizarem.
+[01:50:48:15 --> 01:50:50:28] Então, primeiro, ctrl-c e até lenta.
+[01:50:51:10 --> 01:50:52:20] Então, a gente tem aqui a composição.
+[01:50:52:24 --> 01:50:55:08] É uma composição com muitos elementos, muita informação.
+[01:50:55:25 --> 01:50:57:09] Só que ela é mais pesada embaixo.
+[01:50:58:21 --> 01:50:59:21] que é em cima, né?
+[01:51:00:01 --> 01:51:01:03] A partir de cima é mais leve.
+[01:51:01:16 --> 01:51:03:25] Mesmo se a gente tem informação da fumaça aqui,
+[01:51:04:10 --> 01:51:07:08] a gente tem essa informação de parias que são algumas fábricas ali,
+[01:51:07:25 --> 01:51:11:19] os barquinhos, a árvore aqui nesse canto, mais árvore nesse canto, tá?
+[01:51:12:03 --> 01:51:15:03] Mas agora olha que interessante as relações que a gente traça com esse grid.
+[01:51:15:18 --> 01:51:16:18] Vou diminuir ele um pouco.
+[01:51:17:23 --> 01:51:18:19] Acho que foi demais, né?
+[01:51:20:01 --> 01:51:22:18] Aí, acho que o azul vai ficar ótimo, deu um contraste bom aqui.
+[01:51:23:03 --> 01:51:27:23] Algumas relações interessantes, se tem sombra de dúvidas, o elemento mais importante dessa
+[01:51:27:23 --> 01:51:29:25] composição é esse cara aqui, essa pessoa.
+[01:51:30:21 --> 01:51:30:25] Né?
+[01:51:30:27 --> 01:51:31:00] Aqui, ó.
+[01:51:32:14 --> 01:51:34:02] sem sombra de dúvidas. Por que, Juan?
+[01:51:35:03 --> 01:51:35:29] Por que vocês sabem dar a resposta?
+[01:51:36:04 --> 01:51:37:22] Por que ele é o elemento mais importante?
+[01:51:38:02 --> 01:51:39:01] Porque ele é o mais próximo.
+[01:51:40:21 --> 01:51:44:26] dos pontos focais da regra do terço aqui, ó. Ele está sendo abraçado.
+[01:51:45:28 --> 01:51:48:26] É mais ou menos aqui, eu estou criando aqui no olho,
+[01:51:49:00 --> 01:51:50:07] mas só para vocês visualizarem.
+[01:51:50:13 --> 01:51:53:22] Ele é abraçado, ele está aqui dentro, no quadrante mais importante.
+[01:51:54:10 --> 01:51:55:15] Então, a gente olha para ele primeiro.
+[01:51:55:29 --> 01:51:59:03] Depois de olhar para ele, depois de dar a prioridade para ele,
+[01:51:59:06 --> 01:52:02:25] a gente começa a olhar outros elementos aqui importantes.
+[01:52:04:06 --> 01:52:07:01] Então, isso já é um fator para a gente observar aqui.
+[01:52:07:22 --> 01:52:10:19] E dentro desse grid, olha como a gente tem alguns pontos
+[01:52:11:09 --> 01:52:13:28] que são interessantes e são bem abordados aqui.
+[01:52:15:04 --> 01:52:17:19] Olha como que eles encaixam muito bem nesse grid.
+[01:52:18:06 --> 01:52:20:15] Às vezes a gente olha e parece até forçação de barra, né?
+[01:52:20:17 --> 01:52:22:01] Talvez você fale assim...
+[01:52:22:01 --> 01:52:25:10] Não é possível, mas olha como que as diagonais, elas...
+[01:52:25:10 --> 01:52:27:09] Deixa eu pegar outra cor para vocês visualizarem, né?
+[01:52:27:11 --> 01:52:28:15] Uma cor em cima de outra cor.
+[01:52:30:05 --> 01:52:32:23] Se você estiver confuso, reassiste, para.
+[01:52:33:25 --> 01:52:36:00] Você precisa desenvolver sua inteligência visual,
+[01:52:36:23 --> 01:52:39:23] precisa parar um tempo para observar o que está na sua frente.
+[01:52:40:24 --> 01:52:43:09] Geralmente, fica confuso o seu cérebro.
+[01:52:43:12 --> 01:52:45:07] Ele não quer gastar energia, o seu cérebro fica assim...
+[01:52:45:07 --> 01:52:46:13] Nossa, que confusão!
+[01:52:46:21 --> 01:52:48:09] Não quero gastar energia, é coisa demais.
+[01:52:48:28 --> 01:52:51:06] Isso, inclusive, é interessante você saber porque
+[01:52:51:06 --> 01:52:52:11] quando você vai criar um design,
+[01:52:52:17 --> 01:52:54:27] você tem que saber que as pessoas terão preguiça de olhar para isso.
+[01:52:55:06 --> 01:52:56:09] E quando você fala para mim assim...
+[01:52:56:09 --> 01:52:57:26] Ah, eu não estou entendendo, está confuso,
+[01:52:57:29 --> 01:52:58:26] está embaralhando a minha cabeça.
+[01:52:58:26 --> 01:53:02:21] É porque o seu cérebro está com preguiça de parar um tempo e observar.
+[01:53:02:24 --> 01:53:03:14] O que você tem que fazer?
+[01:53:04:06 --> 01:53:06:18] Tirar a sua ansiedade de lado, parar e olhar.
+[01:53:06:24 --> 01:53:08:14] Olha para a composição.
+[01:53:08:21 --> 01:53:10:01] Pica um tempo ali, cinco minutos.
+[01:53:10:05 --> 01:53:14:12] Aqui eu estou passando rapidinho, depois pausa o vídeo, observa, reconstrói e
+[01:53:14:12 --> 01:53:16:17] aí você vai começar a ver essas relações interessantes.
+[01:53:17:06 --> 01:53:18:06] Mas olha que legal.
+[01:53:19:02 --> 01:53:21:23] Eu não acredito que isso é por acaso, foi muito bem construído.
+[01:53:22:00 --> 01:53:22:11] Olha só.
+[01:53:22:21 --> 01:53:24:09] Olha como que essas diagonais aqui.
+[01:53:24:09 --> 01:53:25:15] Essa...
+[01:53:27:03 --> 01:53:33:29] essa e essa. Elas estão conectadas com o personagem até onde elas começam e terminam.
+[01:53:34:06 --> 01:53:42:03] Esses pontos aqui, eles estão ali muito bem construídos. Olha só como que existe uma relação aqui.
+[01:53:42:16 --> 01:53:48:09] A mesma coisa aqui, esse ponto é importante, esse ponto é importante. Olha que essa perna com essa diagonal aqui,
+[01:53:48:25 --> 01:53:55:04] a gente tem a iluminação vindo de cá também. Olha essa relação dessa mulher, parece uma mulher,
+[01:53:55:04 --> 01:53:57:14] mas pode ser um cara também dessa pessoa aqui.
+[01:53:57:24 --> 01:53:58:11] Olha a relação.
+[01:53:59:26 --> 01:54:04:00] dessa diagonal. Olha essa diagonal aqui com o braço e com a sombra.
+[01:54:07:05 --> 01:54:11:03] A diagonal já está ali ó, ela já está ali, está nítido.
+[01:54:12:23 --> 01:54:15:09] tá muito nítido, tá dando pra perceber essas diagonais ali.
+[01:54:16:09 --> 01:54:18:11] Quando eu volto, vocês conseguem perceber de novo.
+[01:54:18:27 --> 01:54:20:22] Esses dois quadrados aqui...
+[01:54:20:22 --> 01:54:22:19] Perdão, quadrados é foda, né?
+[01:54:22:23 --> 01:54:24:09] Esses dois retângulos aqui...
+[01:54:25:02 --> 01:54:26:09] Eles também são importantes.
+[01:54:26:12 --> 01:54:29:17] Olha como é justamente nesses dois retângulos
+[01:54:29:17 --> 01:54:33:01] que nós vemos pontos mais altos nas fábricas.
+[01:54:33:06 --> 01:54:34:12] Olha que curioso.
+[01:54:34:23 --> 01:54:36:01] Pontos mais altos aqui...
+[01:54:36:20 --> 01:54:40:05] E aqui a gente tem uma coisa branquinha, um ponto mais alto também.
+[01:54:41:15 --> 01:54:44:20] Olha só como a fumaça segue uma diagonal parecida com essa.
+[01:54:45:06 --> 01:54:47:17] Você acha que isso foi por acaso?
+[01:54:47:18 --> 01:54:49:17] Isso foi muito bem construído, tá?
+[01:54:50:03 --> 01:54:53:02] E é isso aqui que eu gostaria de mostrar para vocês,
+[01:54:53:05 --> 01:54:54:23] é o que eu queria mostrar para vocês nessa aula,
+[01:54:54:26 --> 01:54:57:24] queria mostrar para vocês como dá para utilizar
+[01:54:58:15 --> 01:54:59:23] essa construção de gritos,
+[01:54:59:26 --> 01:55:03:17] tanto para analisar uma composição quanto para construir uma composição.
+[01:55:03:25 --> 01:55:05:22] A gente tem um diagonal importante aqui também,
+[01:55:06:13 --> 01:55:07:12] que é esse diagonal aqui.
+[01:55:08:17 --> 01:55:10:02] do rio, que segue o rio.
+[01:55:10:09 --> 01:55:12:00] Olha como ela está tão conectada.
+[01:55:12:06 --> 01:55:13:24] Eu estava usando rosa e parei de usar rosa.
+[01:55:14:02 --> 01:55:15:12] Se tivesse usando rosa, era mais...
+[01:55:15:12 --> 01:55:17:00] Olha, diagonal do rio aqui.
+[01:55:18:06 --> 01:55:20:04] Olha como ela está conectada aqui também.
+[01:55:20:07 --> 01:55:22:06] Tanto com essa diagonal de fora a fora aqui,
+[01:55:23:03 --> 01:55:24:27] ela está dentro da perspectiva.
+[01:55:25:28 --> 01:55:27:03] Consegue perceber isso?
+[01:55:27:16 --> 01:55:32:11] Outro ponto interessante, olha essa reta aqui como ela casa certinho na altura do rio.
+[01:55:32:21 --> 01:55:35:04] Você acha que isso aqui é à toa? Não é à toa.
+[01:55:35:29 --> 01:55:39:11] Foi uma composição muito bem construída.
+[01:55:39:22 --> 01:55:43:01] Tá? A relação do pé aqui, olha, desse pé.
+[01:55:43:10 --> 01:55:46:04] Opa, não era para ter apagado aí de cima não. Volta aí.
+[01:55:46:15 --> 01:55:47:11] E já era.
+[01:55:48:16 --> 01:55:49:13] Foi simbora.
+[01:55:49:16 --> 01:55:50:11] Tem que fazer de novo.
+[01:55:50:21 --> 01:55:53:17] Então tem essa de cima aqui, essa de baixo aqui, olha.
+[01:55:54:04 --> 01:55:54:28] A posição...
+[01:55:56:12 --> 01:56:00:00] dos pés aqui, essa pessoa abaixo desse quadrante aqui também.
+[01:56:02:02 --> 01:56:03:15] Esse X, ele é legal também.
+[01:56:03:22 --> 01:56:06:02] Eu não sei se vocês perceberam isso, eu fiquei com essa sensação
+[01:56:06:02 --> 01:56:09:24] que aquilo ali era um cachorro, mas não é um cachorro, é só a roupinha dele.
+[01:56:10:03 --> 01:56:12:03] Ele está ali, parece sozinho, triste.
+[01:56:12:16 --> 01:56:13:19] Aqui a gente vê um cachorrinho.
+[01:56:16:01 --> 01:56:21:08] Então, tem alguns elementos que o grid puxa a nossa atenção para eles.
+[01:56:21:20 --> 01:56:24:05] Olha esse ponto aqui também, que é um ponto interessante.
+[01:56:24:11 --> 01:56:28:12] Quanto mais você observa, mais você vê como essa composição é complexa.
+[01:56:30:07 --> 01:56:31:18] Vou tirar esses rosinhas aqui.
+[01:56:32:01 --> 01:56:33:22] Olha esse ponto em específico aqui.
+[01:56:35:12 --> 01:56:40:25] Como que ele foi trabalhado? Eu vou tirar o grid, olha como que deu exato na posição
+[01:56:40:25 --> 01:56:45:12] daquele barquinho. Gente, aquele barquinho... Parece um barco, né? Podia estar aqui, por
+[01:56:45:12 --> 01:56:46:06] que ele não está aqui?
+[01:56:47:12 --> 01:56:52:21] que houve uma construção racional. Ele não tá aqui, ele tá lá. Isso não é à toa.
+[01:56:53:22 --> 01:56:54:01] Tá?
+[01:56:54:19 --> 01:56:58:13] É muito legal a gente traçar muitas relações interessantes aqui com esse grid.
+[01:56:58:21 --> 01:57:03:25] Um grid que quando você olha, você pensa, não estou entendendo como isso daqui poderia
+[01:57:03:25 --> 01:57:04:05] ser usado.
+[01:57:04:06 --> 01:57:05:13] Está muito complexo, Juan.
+[01:57:05:24 --> 01:57:07:03] É muita coisa para assimilar.
+[01:57:07:19 --> 01:57:08:15] Reassiste essa aula.
+[01:57:09:03 --> 01:57:12:08] O principal aqui era mostrar para vocês o que?
+[01:57:12:13 --> 01:57:13:15] Existem relações.
+[01:57:13:22 --> 01:57:15:16] Por isso que chamam grids avançados.
+[01:57:15:27 --> 01:57:18:29] A primeira aula é o grid modular, é o mais versátil.
+[01:57:19:07 --> 01:57:22:01] Aquele grid lá é o mais importante que você precisa aprender.
+[01:57:22:01 --> 01:57:25:24] porque você aprende a criar as colunas, aprende a criar as linhas de base,
+[01:57:26:04 --> 01:57:29:16] e aí você consegue modular ele para construir uma boa composição.
+[01:57:29:25 --> 01:57:32:28] Aquela lá, sem sobra de dúvidas, é o grid mais importante que você precisa aprender.
+[01:57:33:17 --> 01:57:37:14] Agora, esse grid que eu te mostrei aqui hoje, que pode ser utilizado na fotografia,
+[01:57:37:16 --> 01:57:42:19] na pintura, nas suas composições de design, de thumbnail, de post de vídeo,
+[01:57:43:16 --> 01:57:49:04] de post de Instagram, cartão de visitas, papel de embrado, pasta, qualquer formato,
+[01:57:49:04 --> 01:57:53:29] Você pode utilizar esses grids mais avançados,
+[01:57:54:07 --> 01:57:59:16] só que o objetivo deles não é você ter alinhamentos verticais e horizontais necessariamente,
+[01:57:59:25 --> 01:58:05:21] mas sim te dar pontos focais, pontos que você pode puxar como se fosse uma gravidade,
+[01:58:06:04 --> 01:58:09:05] para você direcionar o olhar da pessoa naquela composição.
+[01:58:09:16 --> 01:58:14:19] E ela vai sentir que, às vezes, ela não percebe, não consegue explicar por que é harmônico.
+[01:58:14:24 --> 01:58:17:15] Se você tira o grid, fica só uma simples imagem.
+[01:58:17:15 --> 01:58:22:07] E as pessoas não sabem o quanto que existe de construção por trás daquela imagem.
+[01:58:22:24 --> 01:58:25:16] Mas toda essa construção, ela te orientou, ela te guiou.
+[01:58:25:23 --> 01:58:28:14] Tem muita gente que pensa assim, o grid vai te limitar.
+[01:58:28:21 --> 01:58:29:22] Eu penso o contrário.
+[01:58:29:25 --> 01:58:33:18] Eu penso que o grid te dá ideias, ele te dá pontos para conectar.
+[01:58:33:22 --> 01:58:35:15] Você pode criar vários grids diferentes.
+[01:58:35:18 --> 01:58:36:28] Quem manda no grid é você.
+[01:58:37:07 --> 01:58:39:13] Inclusive você decide se vai usar ou não.
+[01:58:39:15 --> 01:58:42:07] Não é errado fazer um projeto sem grid também.
+[01:58:42:14 --> 01:58:45:10] São todas ferramentas que você pode utilizar.
+[01:58:45:10 --> 01:58:47:15] Vou dar um exemplo aqui meio tosco, mas funciona.
+[01:58:47:17 --> 01:58:50:00] Você pode cortar o Marlboro com machado ou com raio laser.
+[01:58:50:09 --> 01:58:51:25] São duas ferramentas diferentes.
+[01:58:52:01 --> 01:58:53:09] É errado cortar com machado?
+[01:58:53:13 --> 01:58:53:23] Não.
+[01:58:53:29 --> 01:58:55:12] É errado cortar com raio laser?
+[01:58:55:21 --> 01:58:56:03] Não.
+[01:58:56:13 --> 01:58:57:16] São coisas diferentes.
+[01:58:57:22 --> 01:58:59:13] São ferramentas diferentes.
+[01:58:59:29 --> 01:59:03:17] Eu sei que a analogia ficou meio tosca, mas eu tenho certeza que deu pra entender
+[01:59:03:17 --> 01:59:04:09] qual é a ideia aqui.
+[01:59:04:10 --> 01:59:06:13] Você pode usar o grid como pode não usar.
+[01:59:06:23 --> 01:59:11:16] E aqui eu busquei trazer abordagens pra você que vão te ajudar a usar esses
+[01:59:11:18 --> 01:59:16:13] descritos como ferramenta para posicionar elementos dentro da composição, principalmente se você
+[01:59:16:13 --> 01:59:21:17] quiser criar uma simetria muito forte ou também se você quiser criar uma assimetria muito forte,
+[01:59:21:24 --> 01:59:24:06] criar movimento na página ou estabilidade.
+[01:59:25:27 --> 01:59:29:29] Então, essa daqui foi a nossa aula de hoje, espero que você tenha gostado e eu te vejo
+[01:59:29:29 --> 01:59:31:04] na próxima aula.

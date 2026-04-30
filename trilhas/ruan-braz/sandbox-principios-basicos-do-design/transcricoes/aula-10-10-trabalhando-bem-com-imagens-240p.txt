@@ -1,0 +1,173 @@
+# Video: 10._trabalhando_bem_com_imagens (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-28 01:12
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:08 --> 00:00:04:13] Eu decidi criar essa aula depois de sofrer muito,
+[00:00:05:03 --> 00:00:09:05] vendo designers criando apresentações, projetos inteiros,
+[00:00:09:21 --> 00:00:12:11] utilizando imagens de baixa qualidade.
+[00:00:13:12 --> 00:00:16:06] Há 15 anos atrás, isso era até aceitável.
+[00:00:16:11 --> 00:00:19:15] Você até poderia fazer um projeto que tinha uma qualidade mediana,
+[00:00:19:15 --> 00:00:21:21] afinal de contas era difícil encontrar imagens.
+[00:00:21:24 --> 00:00:25:03] Tinha gente, inclusive, que para usar no projeto interno,
+[00:00:25:03 --> 00:00:28:05] apenas para apresentar ao cliente, usava imagens com marca d'água.
+[00:00:28:05 --> 00:00:35:01] Aí mostrava para o cliente a ideia, depois o cliente comprava aquela imagem num banco de imagens e aí ficava tudo certo.
+[00:00:35:10 --> 00:00:38:12] Isso era como o design funcionava no passado.
+[00:00:38:23 --> 00:00:47:05] Hoje em dia, utilizar imagens de baixa qualidade é um crime e é muito importante que você leve isso em consideração.
+[00:00:47:06 --> 00:00:49:17] É importante que você leve isso a sério.
+[00:00:49:17 --> 00:00:57:12] Eu cansei de abrir projetos de designers que estavam com imagens que tinham uma baixa resolução,
+[00:00:57:15 --> 00:01:02:25] que tinham uma qualidade ruim, que estavam mal enquadradas, imagens mal selecionadas, imagens amadoras.
+[00:01:03:19 --> 00:01:06:29] E hoje em dia tem tanta ferramenta disponível para você.
+[00:01:08:13 --> 00:01:14:25] Falar que você não encontrou uma imagem melhor é só uma desculpa preguiçosa para não fazer seu trabalho direito.
+[00:01:15:03 --> 00:01:19:17] Não importa se você está em um nível mais avançado ou se você está começando do zero aqui hoje.
+[00:01:20:12 --> 00:01:28:01] Trabalhar com imagens de alta qualidade traduz, reflete o seu compromisso com os detalhes,
+[00:01:28:01 --> 00:01:32:05] o seu compromisso com o trabalho de qualidade, o seu compromisso com o design bem feito.
+[00:01:33:10 --> 00:01:39:22] Por isso, eu decidi criar essa aula para poder te dar esse alerta e te fazer um juramento aqui.
+[00:01:39:25 --> 00:01:42:19] Você vai clicar no comentário aqui embaixo e vai escrever
+[00:01:42:19 --> 00:01:49:01] Eu prometo que a partir de hoje só utilizo imagens de qualidade nos meus projetos.
+[00:01:50:12 --> 00:01:53:15] E aí, agora que você vai prometer isso, deixa eu te dar aqui um caminho.
+[00:01:53:29 --> 00:01:56:12] É muito comum você buscar imagens no Google.
+[00:01:56:17 --> 00:02:01:00] E, sim, você pode encontrar boas imagens ali, mas é importante que você tome muito cuidado.
+[00:02:01:17 --> 00:02:07:12] Quando nós buscamos imagens no Google, muitas vezes nós vemos imagens que não são livres para uso comercial.
+[00:02:07:23 --> 00:02:11:09] Você pode até fazer um... seguir um caminho aqui, né?
+[00:02:11:10 --> 00:02:12:20] Eu vou mostrar aqui para você, olha só.
+[00:02:12:24 --> 00:02:14:11] Eu vou entrar aqui no Google para a gente.
+[00:02:14:25 --> 00:02:19:08] Estou aqui no Google, vamos supor que eu estou precisando de uma imagem de uma cerveja gelada.
+[00:02:19:12 --> 00:02:20:07] Cerveja gelada.
+[00:02:20:12 --> 00:02:22:14] Para colocar em um post de um pub.
+[00:02:23:02 --> 00:02:27:06] Eu tenho várias imagens aqui, inclusive imagens de marca, tenho que tomar cuidado com isso.
+[00:02:27:14 --> 00:02:30:24] Mas eu achei essa imagem, achei ela legal para caramba e eu quero usar ela.
+[00:02:30:26 --> 00:02:31:29] Eu posso pegar aqui e já sair usando?
+[00:02:32:11 --> 00:02:38:20] Não, você não pode se você não colocou aqui, ó, ferramentas, pesquisa avançada.
+[00:02:38:24 --> 00:02:42:24] E aqui embaixo, olha, direito de uso, você coloca licença comercial.
+[00:02:43:26 --> 00:02:46:26] Agora sim, as imagens que aparecem aqui são licenciáveis.
+[00:02:46:26 --> 00:02:51:21] muitas delas vão aparecer com marca d'água ou vão aparecer em um tamanho muito pequeno.
+[00:02:51:25 --> 00:02:56:20] E aí o que os designers fazem? Olha só, os designers pegam essa imagem que é pequena e
+[00:02:57:07 --> 00:03:02:21] aumentam ela. E aí olha só como ela fica toda pixelada, fica ruim de utilizar. É esse crime
+[00:03:02:21 --> 00:03:07:21] aqui que a partir de hoje você não vai cometer nunca mais. Porque se você tem uma imagem pequena
+[00:03:07:21 --> 00:03:11:02] e quer utilizar ela, vamos por essa daqui, está livre, ela está sem marca d'água, eu posso
+[00:03:11:02 --> 00:03:18:08] eu posso utilizar ela, você vai utilizar ferramentas de melhoria, que a gente chama de Enhancers, para melhorar essa imagem.
+[00:03:18:14 --> 00:03:22:24] E também, se você tem uma imagem muito pequena, você pode utilizar ferramentas de Upscale,
+[00:03:23:00 --> 00:03:26:18] para poder aumentar essa imagem sem perder a qualidade dela.
+[00:03:26:26 --> 00:03:30:10] Para isso, existem inteligências artificiais que facilitam esse processo.
+[00:03:30:16 --> 00:03:33:05] Uma das mais famosas, que você pode pesquisar aqui, olha.
+[00:03:35:02 --> 00:03:35:09] Cria.
+[00:03:36:01 --> 00:03:37:03] Então vem aqui no Cria.
+[00:03:39:07 --> 00:03:40:12] E aqui embaixo eu tenho...
+[00:03:41:16 --> 00:03:43:08] Enhancer, tá vendo? Olha, upscale
+[00:03:43:08 --> 00:03:44:20] images and videos.
+[00:03:45:08 --> 00:03:47:14] Eu vou ter que criar a conta aqui, no caso eu não vou criar,
+[00:03:47:16 --> 00:03:49:16] mas é muito simples. Você clica aqui
+[00:03:49:16 --> 00:03:51:20] em upscale enhancer e você pode aumentar
+[00:03:51:20 --> 00:03:53:00] o tamanho de uma imagem.
+[00:03:53:16 --> 00:03:55:03] Olha só, ele tá dando um exemplo aqui
+[00:03:55:03 --> 00:03:57:18] sem perder a qualidade. Se esse
+[00:03:57:18 --> 00:03:59:12] aqui não estiver resolvendo e você quiser
+[00:03:59:12 --> 00:04:01:15] investir, existe o Magnifico.
+[00:04:01:16 --> 00:04:03:06] Esse aqui é a melhor que eu conheço, tá?
+[00:04:04:12 --> 00:04:06:09] Mas ela custa R$190 por mês.
+[00:04:06:17 --> 00:04:07:24] Olha só o que ela consegue fazer.
+[00:04:07:26 --> 00:04:10:24] Ela recria a imagem em um nível absurdo.
+[00:04:12:11 --> 00:04:14:22] dependendo do projeto em que você está trabalhando,
+[00:04:14:23 --> 00:04:15:19] olha aqui, olha aqui.
+[00:04:15:29 --> 00:04:17:27] Essa imagem, você tem essa.
+[00:04:18:13 --> 00:04:20:24] Imagens são a nossa matéria-prima.
+[00:04:21:10 --> 00:04:22:29] Então, eu estou te dando caminhos aqui,
+[00:04:23:02 --> 00:04:25:18] porque dependendo do projeto, do que você for fazer,
+[00:04:26:11 --> 00:04:30:14] pode ser interessante sim você investir em uma inteligência artificial.
+[00:04:30:17 --> 00:04:31:19] Olha só essa imagem ali.
+[00:04:31:25 --> 00:04:33:10] Recriou a imagem, olha a árvore aqui.
+[00:04:33:14 --> 00:04:39:02] Olha que ele recriou ela com uma nitidez, um detalhamento impressionante.
+[00:04:39:20 --> 00:04:42:04] Faz acesso, eu vou deixar os links aí embaixo para você também.
+[00:04:42:11 --> 00:04:43:29] Dá uma olhada nessas ferramentas.
+[00:04:43:29 --> 00:04:47:13] O Cria, no caso, é uma ferramenta gratuita, então já vai te ajudar bastante.
+[00:04:47:22 --> 00:04:51:11] Mas se não estiver resolvendo, você pode vir aqui no Google também e digitar assim.
+[00:04:52:23 --> 00:04:53:04] Enhancer.
+[00:04:54:16 --> 00:04:56:04] Scale, Images.
+[00:04:57:24 --> 00:05:03:19] Vai ter uma pá de links aqui gratuitos que você pode experimentar para poder fazer.
+[00:05:03:20 --> 00:05:10:07] Inclusive, é o Magnifico que está aqui para poder fazer o upscale e o enhance, a melhoria das suas imagens.
+[00:05:10:16 --> 00:05:13:16] Mas vamos supor, então, que você não quer usar essas imagens ali.
+[00:05:13:18 --> 00:05:15:13] Você só está buscando por imagens boas.
+[00:05:15:23 --> 00:05:18:26] Existem bancos de imagens gratuitos que você também pode utilizar.
+[00:05:19:05 --> 00:05:21:22] Um exemplo legal é o Pexels.
+[00:05:21:28 --> 00:05:26:24] Você pode até colocar assim, top 10 image stock.
+[00:05:28:05 --> 00:05:30:06] E aí você vai encontrar aí vários, né?
+[00:05:30:09 --> 00:05:31:24] Pode colocar até aqui assim, ó, free.
+[00:05:32:18 --> 00:05:34:18] Posso colocar top 10 free image stock.
+[00:05:34:21 --> 00:05:38:27] Aí tem aqui, ó, esse que eu vou mostrar para vocês, o Pexels também, o Pixabay.
+[00:05:39:08 --> 00:05:41:04] Esses eram os que eu utilizava antigamente.
+[00:05:41:04 --> 00:05:44:29] Hoje em dia eu não fico procurando mais imagens em banco de imagens, já vou te explicar por quê.
+[00:05:45:06 --> 00:05:49:12] Mas você pode vir aqui, por exemplo, e colocar unsplash.com.
+[00:05:50:19 --> 00:05:54:06] Então tem várias imagens aqui gratuitas para você utilizar.
+[00:05:54:13 --> 00:05:56:20] Você pode digitar também pexels.com.
+[00:05:56:23 --> 00:06:00:00] Tem imagens e vídeos, inclusive, gratuitos que você pode utilizar aqui.
+[00:06:00:10 --> 00:06:02:13] Todas livres comercialmente.
+[00:06:02:20 --> 00:06:05:07] Você pode digitar pixabay.com aqui também.
+[00:06:05:29 --> 00:06:06:26] Várias imagens.
+[00:06:06:26 --> 00:06:08:22] Imagens boas, imagens de qualidade, tá vendo?
+[00:06:09:00 --> 00:06:10:02] Por que é desculpa?
+[00:06:10:02 --> 00:06:11:20] Hoje em dia não dá para falar mais, cara.
+[00:06:11:23 --> 00:06:13:28] Imagem com qualidade ruim é um crime.
+[00:06:14:02 --> 00:06:15:14] Por isso que eu estou fazendo essa aula aqui.
+[00:06:15:17 --> 00:06:18:23] Para te orientar para que você faça imagens com qualidade boa.
+[00:06:18:23 --> 00:06:22:04] com um bom enquadramento também, não sai jogando a imagem de qualquer jeito.
+[00:06:22:20 --> 00:06:27:17] Enquadra ela, faz uma máscara, faz direitinho, para que ela componha com o seu design.
+[00:06:28:02 --> 00:06:33:18] E aí tem mais um passo mais avançado, que é você gerar suas próprias imagens com inteligência artificial.
+[00:06:34:00 --> 00:06:38:08] Para isso tem um módulo que se chama AIGen, é um módulo de 7 horas mais ou menos,
+[00:06:38:12 --> 00:06:40:08] eu vou deixar o link dele aqui embaixo do vídeo.
+[00:06:40:16 --> 00:06:42:26] É um curso da Overlens, você já tem acesso a ele.
+[00:06:42:29 --> 00:06:48:02] Lá eu ensino como criar imagens incríveis, utilizando inteligências artificiais,
+[00:06:48:02 --> 00:06:51:22] como o MeJourney, VisualElectric, entre outras.
+[00:06:51:29 --> 00:06:54:29] E agora você pode criar as imagens do seu jeito.
+[00:06:55:00 --> 00:06:57:25] Não tem mais desculpa para isso, tá bom?
+[00:06:57:29 --> 00:06:59:16] Vou deixar o link aqui embaixo.
+[00:06:59:25 --> 00:07:01:19] E o que fica dessa aula de mais importante
+[00:07:01:19 --> 00:07:03:22] é que a partir de hoje você fez um juramento.
+[00:07:03:27 --> 00:07:05:14] Inclusive, se você não fez, coloca aqui embaixo.
+[00:07:05:25 --> 00:07:08:19] Você vai se comprometer a sempre usar imagens de qualidade.
+[00:07:09:12 --> 00:07:11:08] E mais um detalhe antes de eu finalizar aqui,
+[00:07:11:11 --> 00:07:13:09] que é importante eu falar, vou até voltar para cá,
+[00:07:13:10 --> 00:07:14:01] que eu tinha esquecido.
+[00:07:14:06 --> 00:07:16:22] Que é, por exemplo, se você tem uma imagem que é grande
+[00:07:16:22 --> 00:07:18:17] e está pesando muito o arquivo.
+[00:07:18:19 --> 00:07:20:05] E aí você quer otimizar ela.
+[00:07:20:11 --> 00:07:23:28] Para isso, existe um site bem legal que chama I Love PNG.
+[00:07:24:03 --> 00:07:25:24] E você vai entrar nesse site aqui.
+[00:07:26:10 --> 00:07:29:11] Aqui existe uma série de recursos que você pode utilizar,
+[00:07:29:13 --> 00:07:31:15] inclusive remover fundo, melhorar imagens.
+[00:07:31:19 --> 00:07:33:02] Vários no Adobe Express também.
+[00:07:33:08 --> 00:07:36:04] Mas tem um importante aqui, que é comprimir imagem.
+[00:07:36:15 --> 00:07:38:13] Você pode subir a imagem aqui.
+[00:07:38:21 --> 00:07:42:14] E aí ele vai comprimir ela, diminuir o tamanho dela,
+[00:07:42:14 --> 00:07:46:17] o peso do arquivo, sem mexer na resolução e na qualidade da sua imagem.
+[00:07:47:23 --> 00:07:49:12] visivelmente, para os nossos olhos
+[00:07:49:12 --> 00:07:51:14] você ainda vai ter uma imagem com qualidade
+[00:07:51:14 --> 00:07:53:20] você pode acessar aqui no Google
+[00:07:53:20 --> 00:07:55:22] também o Adobe Express
+[00:07:55:22 --> 00:07:57:12] ou o próprio Canva
+[00:07:57:12 --> 00:07:59:10] que possuem ferramentas para isso também
+[00:07:59:10 --> 00:08:01:11] então aqui embaixo, olha, eu tenho
+[00:08:01:11 --> 00:08:02:11] ferramentas de
+[00:08:04:27 --> 00:08:08:11] Converter PDF, remover fundo, redimensionar a imagem, tá vendo?
+[00:08:08:18 --> 00:08:10:14] E várias outras ferramentas, tá?
+[00:08:10:16 --> 00:08:12:19] A gente vai falar mais sobre o Adobe Express depois.
+[00:08:12:21 --> 00:08:15:09] É uma ferramenta muito legal para quem está começando.
+[00:08:15:14 --> 00:08:19:05] Eu acho ela mais interessante do que o Canva,
+[00:08:19:08 --> 00:08:22:09] porque você está dentro de toda a nuvem da Adobe aqui
+[00:08:22:09 --> 00:08:25:12] e aí vai te facilitar lá para frente nos outros projetos.
+[00:08:25:13 --> 00:08:26:15] A gente vai falar mais sobre isso depois.
+[00:08:26:22 --> 00:08:30:10] Mas tem ferramentas legais aqui para te ajudar a melhorar a qualidade das suas imagens.
+[00:08:30:21 --> 00:08:32:27] Essa foi a nossa aula sobre imagens.
+[00:08:32:28 --> 00:08:34:23] É importante que você leve isso a sério.
+[00:08:34:27 --> 00:08:36:03] Parece bobo, mas não é.
+[00:08:36:05 --> 00:08:38:01] Às vezes você vai acabar deixando escapulir.
+[00:08:38:19 --> 00:08:42:28] Principalmente para quem vai trabalhar com impressos, a qualidade da imagem conta muito.
+[00:08:43:09 --> 00:08:45:24] Quando a gente fala de qualidade, não é só o tamanho dela,
+[00:08:45:29 --> 00:08:49:07] mas também a densidade de pixel e a resolução.
+[00:08:49:08 --> 00:08:51:08] Se você tem uma resolução boa que funciona.
+[00:08:51:23 --> 00:08:56:20] Preste mais atenção nisso para que você mantenha a qualidade dos seus projetos de design.
+[00:08:56:27 --> 00:08:57:29] Está feito o juramento.
+[00:08:58:02 --> 00:08:59:14] Agora eu te vejo na próxima aula.

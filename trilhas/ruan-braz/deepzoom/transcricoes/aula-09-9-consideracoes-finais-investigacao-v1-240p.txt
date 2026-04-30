@@ -1,0 +1,1363 @@
+# Video: 9._considerações_finais_-_investigação_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-27 23:40
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:04 --> 00:00:03:25] Começamos a nossa última aula do módulo de investigação,
+[00:00:03:28 --> 00:00:09:27] onde eu quero te dar 10 considerações finais a respeito da investigação.
+[00:00:10:07 --> 00:00:14:04] Entre essas considerações, vocês vão ver aqui erros muito comuns,
+[00:00:15:00 --> 00:00:17:13] negligências que nós cometemos, que eu já cometi,
+[00:00:17:23 --> 00:00:19:28] que muitos membros já cometeram também
+[00:00:19:28 --> 00:00:22:07] e que eu estou aqui para poder te preparar, te falar.
+[00:00:22:14 --> 00:00:25:22] Não faça isso e preste atenção nisso.
+[00:00:25:24 --> 00:00:28:05] Então, são 10 considerações muito importantes.
+[00:00:28:05 --> 00:00:33:15] É importante assistir essa aula antes de passar para a etapa de estratégia.
+[00:00:33:25 --> 00:00:38:09] Então pega o caderno para você anotar, porque o mais incrível é que mesmo eu te falando
+[00:00:38:09 --> 00:00:43:27] isso daqui, pode ser que você se encontre em um desses contextos e ainda assim cometa
+[00:00:43:27 --> 00:00:44:22] esses erros.
+[00:00:45:00 --> 00:00:49:02] Então, eu estou pelo menos te deixando alerta para isso, porque é muito fácil
+[00:00:49:02 --> 00:00:49:22] cometer eles.
+[00:00:49:23 --> 00:00:50:16] Eu já cometi.
+[00:00:50:29 --> 00:00:53:26] É fácil que você cometa também, então preste muita atenção e bora lá.
+[00:00:54:00 --> 00:00:54:28] Vou colocar aqui do lado.
+[00:00:54:28 --> 00:00:59:10] a gente já começa com a primeira consideração aqui, que é...
+[00:00:59:10 --> 00:01:02:12] Em nenhuma hipótese, pule a etapa de investigação.
+[00:01:02:16 --> 00:01:04:27] Eu já vou colocar isso aqui de cara, porque...
+[00:01:04:27 --> 00:01:07:05] Apesar de parecer óbvio, é muito fácil.
+[00:01:07:11 --> 00:01:12:25] Eu já cometi esse erro e eu já vi vários membros cometer esse erro.
+[00:01:13:09 --> 00:01:19:10] O que vem na minha cabeça aqui é um dia que a gente teve um line-up com os membros.
+[00:01:19:22 --> 00:01:23:03] E a Camila, que é uma membra antiga, Camila é Betaliner.
+[00:01:23:03 --> 00:01:24:22] se você não sabe o que é Betaliner,
+[00:01:25:00 --> 00:01:28:09] Betaliner são os membros betters da nossa comunidade,
+[00:01:28:12 --> 00:01:31:22] que já está aqui há muito tempo, desde 2020.
+[00:01:32:13 --> 00:01:33:27] Ela já estava aqui há muito tempo,
+[00:01:34:02 --> 00:01:36:27] já tinha me ouvido falar isso aqui 300 vezes,
+[00:01:37:07 --> 00:01:40:03] já sabia todo o processo, como é que a parada funcionava,
+[00:01:40:12 --> 00:01:41:24] e ela caiu nesse erro,
+[00:01:41:25 --> 00:01:44:24] porque é muito fácil cair no erro de pular etapa de investigação.
+[00:01:45:01 --> 00:01:46:29] Geralmente, como que acontece isso?
+[00:01:47:13 --> 00:01:50:19] Você pega um projeto menor, com um orçamento mais baixo,
+[00:01:51:06 --> 00:01:57:08] que às vezes é só fazer um retoque em um logo ou até criar um logo simples,
+[00:01:57:21 --> 00:01:59:25] é só criar uma identidade visual simples e você pensa,
+[00:01:59:28 --> 00:02:03:12] eu vou já pular isso daqui e já partir logo para a criação,
+[00:02:03:13 --> 00:02:06:24] porque eu tenho menos tempo, se eu pular eu ganho um tempo,
+[00:02:07:02 --> 00:02:09:10] faço mais rápido e consigo lucrar.
+[00:02:09:22 --> 00:02:14:23] A nossa mente argilosa, ela tenta ir pelo caminho de ter menos trabalho
+[00:02:14:23 --> 00:02:18:12] e você não sabe o que acontece, você acaba tendo mais trabalho.
+[00:02:18:12 --> 00:02:26:16] Por quê? A etapa de investigação é a etapa mais importante de todas na nossa metodologia.
+[00:02:27:07 --> 00:02:32:19] Se você assistiu às aulas lá de princípios e fundamentos e viu a aula da ciência da criatividade,
+[00:02:33:03 --> 00:02:37:20] você vai lembrar que lá eu falo o seguinte, ideias precisam de ideias.
+[00:02:37:27 --> 00:02:40:09] A gente chama isso de possíveis adjacentes.
+[00:02:40:18 --> 00:02:44:05] Uma ideia que gera outra ideia, que gera outra ideia e por aí vai.
+[00:02:44:05 --> 00:02:51:08] Para que você consiga ter ideias originais, diferentes, fora do comum, você precisa de matéria-prima.
+[00:02:51:15 --> 00:02:57:22] E qual que é a nossa matéria-prima? São informações, é conteúdo, e é a investigação que te dá isso.
+[00:02:58:00 --> 00:03:01:20] Se você não conhece o negócio do seu cliente, não conhece o mercado do seu cliente,
+[00:03:01:22 --> 00:03:07:21] não conhece o público do seu cliente, não coletou informações o suficiente dessas três partes,
+[00:03:08:25 --> 00:03:13:08] você vai ter que lidar com a síndrome da folha em branco na hora de criar o logotipo, sabe?
+[00:03:13:08 --> 00:03:17:10] Você pega um caderno e fala, vou gerar algumas alternativas aqui.
+[00:03:17:13 --> 00:03:22:18] E aí você começa a pensar, vem primeiro sempre, vem as ideias óbvias que geralmente,
+[00:03:22:26 --> 00:03:28:16] sei lá, 30, 40, 50 primeiras ideias a gente joga fora para descartar mesmo, porque são
+[00:03:28:16 --> 00:03:29:17] as ideias que todo mundo tem.
+[00:03:30:07 --> 00:03:33:22] E aí você chega uma hora que você fala, cara, não estou conseguindo mais ter ideia,
+[00:03:33:28 --> 00:03:38:26] só estou tendo ideia óbvia que todo mundo tem, nada demais, e eu não estou conseguindo
+[00:03:38:26 --> 00:03:39:20] pensar em um caminho.
+[00:03:39:20 --> 00:03:44:23] E você centra a cadeira, olha para o teto, busca a informação e não consegue encontrar
+[00:03:44:23 --> 00:03:45:16] ideias.
+[00:03:45:21 --> 00:03:51:11] Isso acontece porque você pulou a etapa de investigação ou fez ela mal feita, coletou
+[00:03:51:11 --> 00:03:55:10] poucas informações e não tem recursos suficientes para poder gerar alternativa.
+[00:03:56:06 --> 00:03:58:25] Quando você tem esses recursos, a história é outra.
+[00:03:59:09 --> 00:04:03:12] E eu lembro que a gente estava conversando lá no Line Up e, se eu não me engano,
+[00:04:03:13 --> 00:04:09:12] era um projeto da Camila para uma empresa de uma pousada e eles estavam tendo muito
+[00:04:09:12 --> 00:04:14:21] trabalho, não só para poder gerar alternativas, ter ideias diferentes, mas também, e aí
+[00:04:14:21 --> 00:04:17:22] entra o segundo ponto aqui, ter que lidar com o cliente.
+[00:04:17:24 --> 00:04:23:08] Porque a investigação, ela não é só para coletar informação, mas ela tem esse nome
+[00:04:24:25 --> 00:04:30:28] investigação, que vem de vestígio, investigação vem de vestígio, vestígio vem de sola,
+[00:04:31:07 --> 00:04:35:09] veste, que vem de pegada, que é a pegada no chão.
+[00:04:35:14 --> 00:04:37:20] Então, investigar é observar as pegadas.
+[00:04:37:20 --> 00:04:39:06] Para quê você quer observar as pegadas?
+[00:04:39:16 --> 00:04:43:12] Para coletar informações do projeto e do cliente.
+[00:04:44:06 --> 00:04:47:13] Porque você está criando um projeto em conjunto com outra pessoa.
+[00:04:48:09 --> 00:04:50:26] Então você precisa entender qual é a expectativa dela.
+[00:04:51:08 --> 00:04:54:25] Quais são as estratégias dessa pessoa para a empresa dela.
+[00:04:55:05 --> 00:04:58:13] Qual é a visão dela sobre o mercado e dos colaboradores também.
+[00:04:58:15 --> 00:04:59:28] A gente viu isso nas outras aulas.
+[00:05:00:12 --> 00:05:02:17] Se você não envolve o seu cliente,
+[00:05:03:17 --> 00:05:06:18] lá na frente você corre um sério risco do projeto.
+[00:05:06:18 --> 00:05:12:12] sofrer alteração ou ser rejeitado. Isso porque você pulou uma etapa.
+[00:05:13:05 --> 00:05:17:22] Então, de todas, ela entra aqui como a primeira, porque se você escolher...
+[00:05:17:22 --> 00:05:24:08] Eu vou escolher ignorar 9 das 10 considerações que o Roma vai passar aqui.
+[00:05:24:24 --> 00:05:27:01] A única que você tem que deixar é essa daqui. Nunca pule.
+[00:05:27:12 --> 00:05:32:00] Roma, eu tenho 3 dias para criar um logo. Beleza. O primeiro dia é de investigação.
+[00:05:33:19 --> 00:05:39:02] Eu tenho duas horas para criar um logo, beleza, a primeira hora é de investigação, porque
+[00:05:39:02 --> 00:05:43:19] é só assim que você consegue matéria-prima para gerar ideias.
+[00:05:43:24 --> 00:05:48:25] Se eu tivesse 30 minutos para fazer um logo, eu ia passar uns 20, coletando informação.
+[00:05:49:14 --> 00:05:53:16] E quem já assistiu aos episódios do arquivo aberto, vê isso acontecer direto.
+[00:05:54:06 --> 00:05:55:19] Eu vou criar algo novo, o que eu faço?
+[00:05:55:20 --> 00:06:00:10] Primeira coisa, observo, olho o mercado, olho as ideias que existem, faço benchmark
+[00:06:00:10 --> 00:06:02:15] para ver as melhores práticas.
+[00:06:02:21 --> 00:06:04:15] Tudo isso, se você confia no processo,
+[00:06:05:06 --> 00:06:06:29] faz o caminho ficar muito mais leve.
+[00:06:07:21 --> 00:06:09:19] Às vezes, lá na frente você está tendo um problema
+[00:06:09:19 --> 00:06:11:00] para escolher uma paleta de cor,
+[00:06:11:03 --> 00:06:13:11] para escolher uma tipografia, para construir um logo.
+[00:06:13:21 --> 00:06:15:16] Não sabe onde encontrar uma resposta.
+[00:06:16:09 --> 00:06:18:16] Mas muitas vezes o seu erro não está nessa etapa,
+[00:06:18:21 --> 00:06:23:00] mas sim por ter negligenciado a etapa de investigação.
+[00:06:23:19 --> 00:06:24:00] Tá bom?
+[00:06:24:15 --> 00:06:26:15] Então, a primeira consideração aqui é
+[00:06:26:15 --> 00:06:30:00] em nenhuma hipótese pule a etapa de investigação.
+[00:06:30:00 --> 00:06:33:16] Você acha que está ganhando tempo, mas você está perdendo tempo aqui,
+[00:06:33:18 --> 00:06:37:19] porque ela serve justamente para te ajudar nas outras etapas, tá?
+[00:06:37:19 --> 00:06:39:18] Mesmo que seja um projeto simples.
+[00:06:39:29 --> 00:06:43:03] Juan, não é um projeto estratégico, é só um projeto de logo.
+[00:06:43:20 --> 00:06:46:01] Em investigação, sempre tem que estar lá.
+[00:06:46:22 --> 00:06:49:02] Eu já falei com vocês do modelo do Double Diamond,
+[00:06:49:07 --> 00:06:52:05] que é o modelo do Design Thinking, o jeito que nós designers pensamos.
+[00:06:52:08 --> 00:06:53:23] O que é o Double Diamond? Lembra?
+[00:06:54:11 --> 00:06:55:23] Vou colocar aqui de novo para vocês.
+[00:06:55:28 --> 00:06:56:07] Double...
+[00:06:59:04 --> 00:07:01:11] Tudo no design está ligado com isso aqui.
+[00:07:05:02 --> 00:07:06:26] Divergir-convergir.
+[00:07:07:05 --> 00:07:08:19] Divergir-convergir.
+[00:07:09:23 --> 00:07:10:20] Deixa eu pegar um maior aqui.
+[00:07:12:15 --> 00:07:17:18] Aprei a nova aba. Beleza, poxa. Ainda consegui pegar um pequeno, hein?
+[00:07:18:01 --> 00:07:18:12] Tá bom.
+[00:07:21:27 --> 00:07:23:14] esqueci de colocar aqui grande.
+[00:07:25:12 --> 00:07:26:12] Então aqui...
+[00:07:29:00 --> 00:07:30:00] que era o mais simples.
+[00:07:30:11 --> 00:07:33:10] A galera ama ficar colocando assim para parecer que é complexo,
+[00:07:33:10 --> 00:07:34:22] mas o negócio é simples aqui.
+[00:07:35:26 --> 00:07:37:00] Tá bom, você vê que serve.
+[00:07:39:25 --> 00:07:41:25] Divergir, convergir. Divergir, convergir.
+[00:07:41:26 --> 00:07:43:03] Isso aqui é o processo do design.
+[00:07:43:15 --> 00:07:45:14] Não importa se você está fazendo design gráfico, design de produto,
+[00:07:45:18 --> 00:07:46:29] design de moda, design de ambiente.
+[00:07:47:23 --> 00:07:50:16] Você precisa criar algo novo, gerar uma ideia.
+[00:07:51:12 --> 00:07:52:08] Divergir, convergir.
+[00:07:52:12 --> 00:07:54:09] Então, primeiro você amplia as possibilidades,
+[00:07:54:22 --> 00:07:55:28] depois você seleciona.
+[00:07:56:06 --> 00:07:58:12] Depois, de novo, você amplia e seleciona.
+[00:07:58:17 --> 00:08:00:04] Como funciona isso na identidade visual?
+[00:08:00:18 --> 00:08:03:03] Divergir. O primeiro passo, descoberta, aliás, discover.
+[00:08:03:14 --> 00:08:04:25] É o quê? Investigação.
+[00:08:06:02 --> 00:08:08:18] Então, isso aqui sempre está no seu processo.
+[00:08:08:21 --> 00:08:10:16] Não importa se você vai criar uma ilustração,
+[00:08:10:23 --> 00:08:13:22] se você vai criar um site, se você vai criar um logo...
+[00:08:14:12 --> 00:08:16:12] Sempre tem que ter a etapa de descoberta,
+[00:08:16:14 --> 00:08:19:03] porque a criatividade precisa de pontos para conectar lá na frente.
+[00:08:19:17 --> 00:08:21:13] Depois, você vai definir que é o quê?
+[00:08:21:19 --> 00:08:22:25] Selecionar as melhores ideias.
+[00:08:23:07 --> 00:08:25:07] Então, das melhores ideias que você selecionou,
+[00:08:25:08 --> 00:08:27:01] você vai gerar alternativas aqui.
+[00:08:27:09 --> 00:08:28:20] Develop é desenvolvimento.
+[00:08:29:00 --> 00:08:29:24] Gera alternativas.
+[00:08:30:00 --> 00:08:32:16] Então, de novo, você vai divergir muitas possibilidades.
+[00:08:32:16 --> 00:08:36:23] Então, Deliver aqui está ligado com uma lapidação.
+[00:08:36:29 --> 00:08:39:11] Você vai lapidar, você vai escolher a melhor ideia e lapidar ela.
+[00:08:40:03 --> 00:08:42:15] Tá? Então, divergir, convergir, divergir, convergir.
+[00:08:42:18 --> 00:08:45:20] Esse é o processo. Nunca pule a etapa de investigação.
+[00:08:45:29 --> 00:08:48:29] É possível até pular a etapa de estratégia
+[00:08:48:29 --> 00:08:50:11] quando você vai fazer um projeto mais simples,
+[00:08:50:14 --> 00:08:51:27] mas a de investigação, não.
+[00:08:52:03 --> 00:08:53:12] Então, essa é a primeira consideração.
+[00:08:53:29 --> 00:08:56:24] Leve isso em conta quando você for criar seus projetos.
+[00:08:57:06 --> 00:08:58:16] Segunda consideração...
+[00:09:00:11 --> 00:09:01:20] Colocar aqui.
+[00:09:02:06 --> 00:09:05:19] Não crie projetos para o seu cliente.
+[00:09:05:22 --> 00:09:08:28] Crie projetos com o seu cliente.
+[00:09:09:02 --> 00:09:10:13] Isso aqui também parece óbvio,
+[00:09:10:19 --> 00:09:14:10] mas é um erro que muitos designers cometem.
+[00:09:14:13 --> 00:09:17:17] Você não cria um projeto para o seu cliente, sabe por quê?
+[00:09:17:25 --> 00:09:20:23] Quando você cria um projeto para o seu cliente,
+[00:09:21:04 --> 00:09:23:21] você muitas vezes vai estar tentado
+[00:09:23:21 --> 00:09:27:13] a querer agradar ele e a querer ouvir demais os gostos dele.
+[00:09:28:21 --> 00:09:31:01] ele não tem a mesma experiência que você.
+[00:09:32:10 --> 00:09:33:29] Então, o primeiro passo aqui,
+[00:09:34:13 --> 00:09:36:29] essa segunda consideração também tem camadas.
+[00:09:37:04 --> 00:09:39:00] A primeira camada dela aqui é a seguinte,
+[00:09:39:09 --> 00:09:41:21] você não tem que criar o projeto para o seu cliente,
+[00:09:41:22 --> 00:09:43:02] para agradar o seu cliente,
+[00:09:43:08 --> 00:09:44:20] porque ele também tem um público.
+[00:09:45:01 --> 00:09:46:20] Então, você tem que pensar nesse público.
+[00:09:47:12 --> 00:09:51:07] Então, não crie para o seu cliente, crie com o seu cliente.
+[00:09:51:10 --> 00:09:52:26] E o que significa isso aqui também?
+[00:09:53:04 --> 00:09:55:29] É a famosa abordagem dos degraus.
+[00:09:56:06 --> 00:09:57:20] Evite a abordagem da depressão
+[00:09:57:20 --> 00:09:59:19] e lembre sempre da abordagem dos degraus.
+[00:09:59:28 --> 00:10:01:24] Trabalhar com o seu cliente
+[00:10:01:24 --> 00:10:04:17] significa trabalhar em um projeto colaborativo.
+[00:10:05:13 --> 00:10:06:25] Eu vou contar aqui uma coisa para vocês.
+[00:10:06:28 --> 00:10:08:15] Na faculdade, eu ouvia muito isso.
+[00:10:08:18 --> 00:10:11:18] Tem que trabalhar em projetos colaborativos,
+[00:10:11:27 --> 00:10:13:07] tem que trabalhar em equipe,
+[00:10:13:11 --> 00:10:15:14] tem que trabalhar para gerar diversidade.
+[00:10:15:25 --> 00:10:17:01] E para ser sincero com vocês,
+[00:10:17:05 --> 00:10:18:16] no início, eu escutava isso e ficava
+[00:10:18:16 --> 00:10:19:10] cara, que chato.
+[00:10:19:11 --> 00:10:20:23] Eu gosto de trabalhar sozinha ali
+[00:10:20:23 --> 00:10:21:25] com a minha mente conectada,
+[00:10:21:28 --> 00:10:22:19] gerar ideia e fazer.
+[00:10:23:02 --> 00:10:24:14] Essa parada de colaborativo
+[00:10:24:14 --> 00:10:25:20] dá mais trabalho ainda
+[00:10:25:20 --> 00:10:26:23] porque tem que fazer em grupo,
+[00:10:26:23 --> 00:10:31:22] ouvir todo mundo, mas eu não tinha entendido ainda o poder que esse conceito...
+[00:10:32:22 --> 00:10:35:11] Quando você trabalha de maneira colaborativa,
+[00:10:36:09 --> 00:10:39:12] você tem muito mais ideias e muito mais perspectivas.
+[00:10:39:23 --> 00:10:43:17] E o projeto tem muito mais potencial para gerar resultado.
+[00:10:44:21 --> 00:10:49:17] Teve algumas semanas atrás que eu entrei na nossa comunidade?
+[00:10:50:25 --> 00:10:53:16] E eu chamei a galera, falei, galera, quem quiser conversar comigo,
+[00:10:53:21 --> 00:10:57:15] eu vou entrar aqui no Discord e a gente vai trocar uma ideia.
+[00:10:58:10 --> 00:11:02:05] E aí algumas pessoas entraram, umas 9, 10 pessoas entraram lá.
+[00:11:02:07 --> 00:11:06:03] E eu falei, galera, eu preciso de ideias para os cargos,
+[00:11:06:09 --> 00:11:08:11] para os títulos aqui da nossa comunidade,
+[00:11:08:13 --> 00:11:10:00] porque sozinho eu não estou conseguindo pensar.
+[00:11:10:21 --> 00:11:14:26] E foi uns 40 minutos a gente resolveu o problema.
+[00:11:15:16 --> 00:11:17:23] A gente conseguiu chegar lá nos títulos,
+[00:11:17:24 --> 00:11:19:28] que é aprendiz, entusiasta e especialista.
+[00:11:19:28 --> 00:11:22:27] E foi feito junto, foi muito mais rápido.
+[00:11:23:21 --> 00:11:26:16] E por que essa é uma ideia que tem muito mais força?
+[00:11:27:06 --> 00:11:30:00] Porque é uma ideia feita por várias perspectivas,
+[00:11:30:03 --> 00:11:31:23] então ela tem menos chance de erro.
+[00:11:32:07 --> 00:11:34:18] Porque cada um contribuiu de alguma forma.
+[00:11:35:03 --> 00:11:36:09] Nesse caso aqui, às vezes você pensa,
+[00:11:36:13 --> 00:11:38:22] tá, mas eu não tenho um estagiário, eu não tenho uma equipe.
+[00:11:39:04 --> 00:11:41:07] O seu cliente é a sua equipe.
+[00:11:41:09 --> 00:11:43:09] E você pode ter certeza que ele,
+[00:11:43:09 --> 00:11:44:23] mais do que qualquer pessoa,
+[00:11:45:01 --> 00:11:46:21] quer estar envolvido nesse projeto.
+[00:11:47:10 --> 00:11:49:12] Você só tem que saber fazer isso da maneira certa.
+[00:11:49:12 --> 00:11:56:06] Então, evita tentar fazer tudo sozinho e evita tentar fazer isso para agradar o seu
+[00:11:56:06 --> 00:11:56:22] cliente.
+[00:11:56:24 --> 00:11:58:04] Está na etapa de investigação?
+[00:11:58:14 --> 00:12:01:18] Envolva o seu cliente, envolva os colaboradores.
+[00:12:02:16 --> 00:12:07:09] É simples, você pode usar o Google Meetings, você pode usar até o WhatsApp se você
+[00:12:07:09 --> 00:12:07:17] quiser.
+[00:12:07:25 --> 00:12:11:27] Aqui no WhatsApp você cria um grupo, você faz uma videochamada e aparece todo mundo
+[00:12:11:27 --> 00:12:12:04] lá.
+[00:12:12:05 --> 00:12:13:27] Dá para usar até o WhatsApp se você quiser.
+[00:12:14:24 --> 00:12:15:22] Mas converse.
+[00:12:15:22 --> 00:12:18:09] Isso aqui, inclusive, é outra consideração que eu vou falar já já.
+[00:12:19:19 --> 00:12:23:24] Envolva o seu cliente, converse, pegue várias perspectivas.
+[00:12:24:07 --> 00:12:25:16] Uma abordagem que é muito legal.
+[00:12:25:20 --> 00:12:28:25] Quando eu comecei a criar nomes, não tem muito tempo não,
+[00:12:28:29 --> 00:12:31:11] mas no início eu criava meus nomes sozinhos para os clientes.
+[00:12:31:16 --> 00:12:32:27] O meu cliente tinha um projeto de naming,
+[00:12:33:27 --> 00:12:38:00] eu me trancava no escritório e fazia os nomes lá sozinho.
+[00:12:38:13 --> 00:12:40:29] Até que eu tive a experiência de criar os nomes...
+[00:12:42:02 --> 00:12:44:20] Criar os nomes para os produtos da Orabone.
+[00:12:45:02 --> 00:12:46:17] Eu ia criar o nome dos produtos.
+[00:12:47:22 --> 00:12:48:26] E eu gerei minhas ideias.
+[00:12:48:29 --> 00:12:53:08] Inclusive, tinha a ideia que a empresa de produtos iria chamar Aurea.
+[00:12:53:15 --> 00:12:56:07] Porque eu criei o conceito, eu estava trabalhando nesse conceito por lá.
+[00:12:57:07 --> 00:13:03:19] Tudo reprovado, eram bons nomes, mas não era a visão que o Igor queria dos produtos.
+[00:13:04:05 --> 00:13:06:24] E ali eu aprendi uma coisa muito massa, que é de novo aqui,
+[00:13:07:01 --> 00:13:08:25] não crie projetos para o seu cliente,
+[00:13:08:28 --> 00:13:11:05] porque você vai tentar fazer para agradar ele
+[00:13:11:05 --> 00:13:14:15] ou o que você acha que ele quer e não vai dar certo.
+[00:13:14:25 --> 00:13:16:16] Crie projetos com o seu cliente. O que eu fiz?
+[00:13:17:08 --> 00:13:19:22] Eu comecei a usar ferramentas de colaboração,
+[00:13:19:24 --> 00:13:21:16] eu falei, vamos fazer o seguinte então?
+[00:13:21:18 --> 00:13:24:03] Eu tenho as minhas ferramentas de criação de nomes,
+[00:13:24:07 --> 00:13:25:07] vamos criar os nomes juntos.
+[00:13:25:27 --> 00:13:29:16] A gente vai reunir duas horas e nós vamos criar os nomes juntos.
+[00:13:29:18 --> 00:13:32:17] Nós vamos gerar várias alternativas e depois validar essas alternativas.
+[00:13:32:29 --> 00:13:35:19] Eu peguei todo o processo e fiz junto com ele.
+[00:13:36:02 --> 00:13:40:01] E aí saíram os nomes, era exatamente o que ele queria naquele momento.
+[00:13:40:13 --> 00:13:44:28] Esse foi um projeto que eu não dei continuidade, eu não consegui continuar com ele e outras
+[00:13:44:28 --> 00:13:49:05] pessoas começaram a trabalhar nesse projeto, no design dele e tal.
+[00:13:49:22 --> 00:13:52:26] Mas eu iniciei lá junto com ele, trabalhei junto com ele.
+[00:13:52:26 --> 00:13:55:28] Porque muitas vezes o que o seu cliente quer é a solução,
+[00:13:56:00 --> 00:13:57:28] ele não sabe que existem essas metodologias,
+[00:13:58:08 --> 00:14:00:06] ele não sabe que existem esses caminhos.
+[00:14:00:22 --> 00:14:02:28] E aí, o que ele precisa é de respostas.
+[00:14:03:04 --> 00:14:04:25] E se você envolve ele no projeto e fala,
+[00:14:05:03 --> 00:14:07:20] isso aqui é uma etapa que eu quero fazer junto com você,
+[00:14:07:23 --> 00:14:08:25] de nome, por exemplo,
+[00:14:09:06 --> 00:14:10:23] vocês vão gerar muitas alternativas,
+[00:14:10:25 --> 00:14:13:17] porque tem muitas técnicas, muitas ferramentas,
+[00:14:13:22 --> 00:14:14:25] muitos câmbios diferentes
+[00:14:14:25 --> 00:14:17:10] que vocês podem ir trabalhando para gerar essas ideias
+[00:14:17:10 --> 00:14:22:10] e você vai funcionar como um mediador ou uma mediadora.
+[00:14:22:10 --> 00:14:24:21] a pessoa que vai fazer a curadoria, que vai orientar
+[00:14:24:21 --> 00:14:26:17] e que também vai gerar ideias ali no meio.
+[00:14:27:02 --> 00:14:29:28] É um processo criativo que funciona muito bem, tá?
+[00:14:29:28 --> 00:14:31:06] E envolver o seu cliente é legal.
+[00:14:31:15 --> 00:14:33:16] Ah, quer dizer então que eu vou falar para o meu cliente também
+[00:14:33:16 --> 00:14:35:11] desenhar ideias de logo e tal...
+[00:14:35:11 --> 00:14:37:09] Eu não vou falar que isso é errado ou que é certo, né?
+[00:14:37:13 --> 00:14:39:15] Não é o caminho que eu gostaria de seguir.
+[00:14:40:00 --> 00:14:42:20] Acho que nem tudo tem que ser feito em conjunto também
+[00:14:42:20 --> 00:14:44:28] porque nós temos a nossa especialidade, né?
+[00:14:45:27 --> 00:14:47:19] Mas na etapa de naming,
+[00:14:47:24 --> 00:14:49:24] foi uma coisa que para mim funcionou muito bem.
+[00:14:49:24 --> 00:14:55:02] Porque a gente aplicou todas as etapas, funcionou, chegou no resultado e deu certo.
+[00:14:55:06 --> 00:14:57:16] Muito mais fácil do que eu tentando fazer sozinho.
+[00:14:57:25 --> 00:15:01:12] Uma cabeça consegue gerar uma quantidade limitada de ideias.
+[00:15:01:24 --> 00:15:04:14] Várias cabeças conseguem multiplicar isso muito mais.
+[00:15:05:01 --> 00:15:06:26] E aí a coisa começa a andar.
+[00:15:07:02 --> 00:15:08:22] Então guarde isso aí com você também.
+[00:15:08:27 --> 00:15:12:13] Não crie projetos para o seu cliente, crie projetos com o seu cliente, envolva
+[00:15:12:13 --> 00:15:18:10] ele, faça entrevista com ele, mostre as pesquisas que você encontrou, os resultados.
+[00:15:18:10 --> 00:15:24:01] Se você sabia disso daqui, qual que é a sua visão sobre isso daqui, provoque a conversa,
+[00:15:24:10 --> 00:15:29:10] porque ele vai ver que você é muito mais estratégico para o negócio dele do que simplesmente
+[00:15:29:10 --> 00:15:34:01] algo visual, que ele pensava que era algo decorativo e ver, cara, design é muito
+[00:15:34:01 --> 00:15:34:24] estratégico.
+[00:15:35:05 --> 00:15:38:21] Essa pessoa tem uma visão criativa muito importante para o meu mercado.
+[00:15:41:16 --> 00:15:42:26] Então essa é a segunda consideração.
+[00:15:43:27 --> 00:15:45:05] Terceira consideração.
+[00:15:46:16 --> 00:15:49:21] define um cronograma para a pesquisa logo no início.
+[00:15:50:19 --> 00:15:52:07] Cada projeto tem um prazo.
+[00:15:53:04 --> 00:15:55:22] E é muito importante você já definir no cronograma
+[00:15:55:22 --> 00:15:57:20] quanto tempo você vai ficar na pesquisa.
+[00:15:58:06 --> 00:15:59:16] Então, isso aqui é muito simples.
+[00:15:59:27 --> 00:16:02:15] É até óbvio, mas é fácil de negligenciar.
+[00:16:03:22 --> 00:16:05:09] É o que eu tinha falado agora há pouco.
+[00:16:05:14 --> 00:16:08:26] Se você tem três horas, gasta uma ou duas na pesquisa.
+[00:16:09:01 --> 00:16:12:02] Se você tem um dia, gasta a primeira metade do dia.
+[00:16:12:09 --> 00:16:13:29] Se você tem três dias, gasta o primeiro dia.
+[00:16:14:16 --> 00:16:17:19] Eu recomendo, pelo menos, quando o prazo está curto,
+[00:16:17:22 --> 00:16:20:15] 25% do prazo em pesquisa.
+[00:16:20:17 --> 00:16:22:08] Então, tem quatro horas, gasta uma hora.
+[00:16:22:18 --> 00:16:24:04] Tem quatro dias, gasta um dia.
+[00:16:24:22 --> 00:16:26:11] Tem quatro semanas, gasta uma semana.
+[00:16:28:02 --> 00:16:30:03] Aí o que dá para fazer às vezes é mesclar,
+[00:16:30:03 --> 00:16:31:21] só que tem que tomar muito cuidado para fazer isso.
+[00:16:31:22 --> 00:16:33:18] Mesclar, pesquisa e estratégia.
+[00:16:33:22 --> 00:16:34:26] Por que tem que tomar cuidado?
+[00:16:35:07 --> 00:16:39:04] Porque você só define a estratégia depois que você coletou os dados.
+[00:16:39:25 --> 00:16:41:07] Você tem que analisar o terreno.
+[00:16:41:13 --> 00:16:43:11] Lembra lá que eu falei com vocês de Sansu?
+[00:16:43:15 --> 00:16:46:09] Conheça a si mesmo, conheça o inimigo e conheça o seu terreno.
+[00:16:46:19 --> 00:16:49:09] São as três bases de qualquer estratégia.
+[00:16:49:14 --> 00:16:53:20] Isso aí são princípios milenares para se tornar um estrategista.
+[00:16:54:07 --> 00:16:55:02] Aqui é a mesma coisa.
+[00:16:55:03 --> 00:16:57:14] A gente tem que conhecer primeiro o negócio, o mercado e o público.
+[00:16:57:14 --> 00:16:59:22] Depois que a gente define estratégia.
+[00:16:59:23 --> 00:17:00:17] Senão, não tem como.
+[00:17:01:20 --> 00:17:05:13] Então, tem que tomar muito cuidado na hora de juntar pesquisa e estratégia.
+[00:17:05:23 --> 00:17:07:20] Eu, inclusive, nem recomendo que faça isso.
+[00:17:08:06 --> 00:17:10:02] Mas vamos supor que o prazo tá limitado, né?
+[00:17:10:02 --> 00:17:12:22] Você coloca lá uma semana de pesquisa estratégia,
+[00:17:13:00 --> 00:17:14:26] fica ali três ou quatro dias na pesquisa,
+[00:17:14:29 --> 00:17:18:01] depois mais três ou quatro dias na estratégia, tá?
+[00:17:18:16 --> 00:17:21:16] Lembrando sempre que é legal você fazer a pesquisa,
+[00:17:21:22 --> 00:17:24:14] apresenta a pesquisa e depois vai pra estratégia.
+[00:17:24:18 --> 00:17:25:23] Pra que você se certifique.
+[00:17:25:23 --> 00:17:28:09] que isso inclusive é uma consideração, a gente vai falar dela já já.
+[00:17:28:23 --> 00:17:32:02] Então, defina um cronograma, eu recomendo pelo menos 25%.
+[00:17:32:02 --> 00:17:35:16] Quando o prazo é maior, aí não precisa ser 25%, não, tá?
+[00:17:35:21 --> 00:17:37:11] Vamos supor que você tem 9 semanas.
+[00:17:37:26 --> 00:17:41:00] Se você tem 9 semanas, dá para aplicar cada etapa em 1 semana.
+[00:17:41:17 --> 00:17:44:16] Então, tem investigação, estratégia, núcleo da marca,
+[00:17:45:08 --> 00:17:49:18] identidade verbal, identidade visual, pontos de contato e entrega.
+[00:17:49:19 --> 00:17:51:24] Vamos supor que são essas 7 etapas aqui,
+[00:17:52:02 --> 00:17:55:08] tirando a etapa de preparação e a etapa de naming,
+[00:17:55:08 --> 00:17:56:20] Caso não tenha também.
+[00:17:57:07 --> 00:17:59:07] Você consegue colocar uma semana de pesquisa.
+[00:17:59:10 --> 00:18:01:20] Uma semana de pesquisa para projetos pequenos assim,
+[00:18:01:20 --> 00:18:04:04] de 10 a 15 mil reais, é interessante.
+[00:18:04:29 --> 00:18:08:11] Talvez até duas semanas depois, eu acho que vai ficando demais
+[00:18:08:11 --> 00:18:12:14] e pode não ser tão lucrativo para você ficar tanto tempo na pesquisa
+[00:18:12:14 --> 00:18:13:24] para um projeto de 10 mil.
+[00:18:14:07 --> 00:18:19:04] Se for em projetos com mais orçamento e mais prazo, sei lá,
+[00:18:19:05 --> 00:18:20:23] são seis meses no projeto.
+[00:18:21:03 --> 00:18:24:28] Aí sim, dá para ficar um mês, um mês e meio só na pesquisa
+[00:18:24:28 --> 00:18:29:20] fazendo pesquisas mais qualitativas para buscar respostas mais assertivas, tá?
+[00:18:30:02 --> 00:18:31:16] Mas vamos por que tem um mês.
+[00:18:31:25 --> 00:18:36:14] Gasta ali entre quatro a sete dias na pesquisa que é legal.
+[00:18:36:21 --> 00:18:39:22] Tem 45 dias, dá para gastar alguma coisa em torno disso também,
+[00:18:39:25 --> 00:18:42:12] cinco dias na pesquisa e vai ser interessante.
+[00:18:42:21 --> 00:18:43:20] Mas define isso.
+[00:18:44:00 --> 00:18:45:29] Começou o projeto, definiu o prazo do projeto,
+[00:18:46:10 --> 00:18:47:16] definiu o prazo de entrega,
+[00:18:48:01 --> 00:18:51:26] já coloca lá para você os dias que vão durar a sua investigação.
+[00:18:52:16 --> 00:18:54:05] Cada uma das etapas, por exemplo,
+[00:18:54:05 --> 00:18:57:08] Vamos supor que você tem quatro dias para fazer a investigação.
+[00:18:57:21 --> 00:19:01:12] Primeiro dia, a investigação do negócio, segundo dia, a investigação do mercado,
+[00:19:01:20 --> 00:19:04:28] terceiro dia, a investigação do público, quarto dia, benchmark do mercado.
+[00:19:06:00 --> 00:19:07:11] Beleza, tem quatro dias.
+[00:19:07:18 --> 00:19:10:01] Só que você tem que colocar outros pontos aqui, que é...
+[00:19:11:05 --> 00:19:13:25] A apresentação, fazer uma pequena apresentação
+[00:19:13:25 --> 00:19:16:11] para o seu cliente e conseguir a aprovação dele.
+[00:19:17:02 --> 00:19:18:25] Isso, inclusive, é uma coisa...
+[00:19:18:25 --> 00:19:20:09] Quando a gente fala de cronograma,
+[00:19:20:15 --> 00:19:22:03] é uma coisa que sempre tem que ficar atento.
+[00:19:22:15 --> 00:19:26:18] O cronograma, nós colocamos nele o que nós temos controle.
+[00:19:27:08 --> 00:19:31:03] Mas é importante deixar um espaço para o que você não tem controle,
+[00:19:31:05 --> 00:19:31:26] que é, por exemplo,
+[00:19:32:10 --> 00:19:35:07] qual dia o seu cliente vai poder fazer uma reunião com você,
+[00:19:35:07 --> 00:19:40:21] Às vezes, isso pode atrasar o projeto, é bom deixar isso claro lá no início, nos protocolos,
+[00:19:40:23 --> 00:19:44:23] igual a gente conversou já, para que você tenha um cronograma bem montado.
+[00:19:44:29 --> 00:19:49:24] Então, é sempre bom ter essa curturinha para esses atrasos e para que você consiga
+[00:19:49:24 --> 00:19:54:17] ter essa flexibilidade, de, às vezes, antecipar um pouquinho uma etapa para não
+[00:19:54:17 --> 00:19:57:25] perder tanto tempo e cumprir o prazo que você prometeu.
+[00:19:58:08 --> 00:20:01:05] E sempre deixando claro que, para o prazo ter cumprido, o cliente tem que fazer
+[00:20:01:05 --> 00:20:02:07] a parte dele também, óbvio.
+[00:20:02:20 --> 00:20:06:16] Eu gosto inclusive de criar o cronograma todo e já definir com os clientes
+[00:20:06:16 --> 00:20:09:02] os dias que nós vamos encontrar e o horário.
+[00:20:09:03 --> 00:20:14:11] Por exemplo, na quinta-feira, dia 9...
+[00:20:14:11 --> 00:20:16:06] É dia 8, né? Quinta agora vai ser dia 8.
+[00:20:16:11 --> 00:20:19:04] Quinta-feira, dia 8 de setembro, já tem uma reunião marcada,
+[00:20:19:05 --> 00:20:22:05] na quinta que vem tem outra... Eu já deixo tudo marcado.
+[00:20:22:26 --> 00:20:27:00] Aí, o movimento que precisa ser feito é muito mais para desmarcar
+[00:20:27:00 --> 00:20:28:00] do que para marcar.
+[00:20:28:10 --> 00:20:31:24] Ah, na próxima quinta não vai dar, tem como desmarcar e marcar para sexto.
+[00:20:32:18 --> 00:20:35:02] Mas já deixo tudo marcado e recomendo isso para você também.
+[00:20:35:09 --> 00:20:36:26] Então, uma outra consideração aqui é essa.
+[00:20:37:07 --> 00:20:39:12] Define um cronograma para pesquisa logo no início.
+[00:20:39:24 --> 00:20:42:26] Define o dia que você vai fazer cada etapa da pesquisa
+[00:20:42:26 --> 00:20:44:17] de maneira interna para você,
+[00:20:44:28 --> 00:20:45:29] porque isso fica fácil.
+[00:20:46:00 --> 00:20:48:09] Quando chegar o dia de fazer a investigação do negócio,
+[00:20:48:14 --> 00:20:49:24] você sabe que é isso que você precisa fazer.
+[00:20:50:01 --> 00:20:51:17] Você não fica tão preocupado lá na frente,
+[00:20:51:19 --> 00:20:53:24] porque hoje é dia de fazer a investigação do negócio.
+[00:20:55:00 --> 00:20:56:06] Isso facilita muito também.
+[00:20:57:07 --> 00:21:01:19] Quarta consideração, nossa, essa daqui vocês já me escutaram falar várias vezes,
+[00:21:01:20 --> 00:21:05:15] mas eu preciso colocá-la aqui porque esse é o objetivo da investigação.
+[00:21:05:26 --> 00:21:10:20] Saia do modo paisagem, observe, pergunte, seja uma esponja.
+[00:21:11:03 --> 00:21:15:06] Eu fico aflito, cara. Quando eu vou conversar com vocês e aí eu falo,
+[00:21:15:07 --> 00:21:17:18] nossa, como é que está o projeto? E o que você fez agora?
+[00:21:17:21 --> 00:21:20:04] Ah, agora eu estou na etapa de investigação, acabei de coletar os dados.
+[00:21:20:07 --> 00:21:22:18] Nossa, que legal, deixa eu ver os dados que você coletou.
+[00:21:22:18 --> 00:21:28:03] E aí, o briefing que foi enviado para o cliente, com umas respostas de uma linha,
+[00:21:29:04 --> 00:21:32:29] eu falo assim, cara, como é que você quer fazer uma coisa original?
+[00:21:34:09 --> 00:21:37:06] Se a sua matéria-prima é essa daqui, como é que você quer construir
+[00:21:37:06 --> 00:21:41:22] um castelo de ouro se você tem só uns galhinhos secos?
+[00:21:41:24 --> 00:21:43:28] Não tem como, cara. Você precisa de matéria-prima.
+[00:21:44:13 --> 00:21:47:11] Então, você tem que sair desse modo paisagem.
+[00:21:47:11 --> 00:21:49:29] O que é o modo paisagem? É deixar as coisas acontecer.
+[00:21:50:01 --> 00:21:52:02] Você nem percebe as coisas que estão acontecendo à sua volta.
+[00:21:52:09 --> 00:21:54:18] Você não está fazendo uma investigação ativa,
+[00:21:54:20 --> 00:21:56:26] você está fazendo uma investigação passiva.
+[00:21:57:06 --> 00:21:59:10] Manda o briefing para o cliente, o cliente responde,
+[00:21:59:13 --> 00:22:01:00] você pega as respostas e fala...
+[00:22:01:00 --> 00:22:02:19] Então, é isso que eu tenho para trabalhar?
+[00:22:02:19 --> 00:22:05:08] Beleza, então eu vou trabalhar com o que eu tenho, né?
+[00:22:05:15 --> 00:22:08:03] Mas você não fez nem esforço para coletar as informações.
+[00:22:08:18 --> 00:22:11:11] Quando eu falo ali, observe, pergunte, seja uma esponja.
+[00:22:11:20 --> 00:22:14:04] Você tem que ser a pessoa mais ativa no projeto,
+[00:22:14:14 --> 00:22:16:24] a pessoa que mais pergunta, a pessoa que mais...
+[00:22:17:21 --> 00:22:19:15] instiga a conversa.
+[00:22:20:25 --> 00:22:22:17] Você tem que envolver os outros sócios,
+[00:22:22:22 --> 00:22:24:02] você tem que envolver os colaboradores,
+[00:22:24:07 --> 00:22:25:21] você tem que marcar entrevistas com eles,
+[00:22:25:26 --> 00:22:27:16] você tem que fazer as perguntas...
+[00:22:27:16 --> 00:22:29:21] Inclusive, é uma coisa que eu sempre recomendo.
+[00:22:29:28 --> 00:22:31:06] A conversa.
+[00:22:31:18 --> 00:22:33:22] Se você quer criar um projeto com o seu cliente,
+[00:22:33:26 --> 00:22:35:08] igual a a segunda consideração,
+[00:22:36:06 --> 00:22:36:28] você precisa...
+[00:22:38:02 --> 00:22:42:18] promover a conversa, você precisa estar lá, conversar com o seu cliente,
+[00:22:42:20 --> 00:22:44:22] ouvir ele, fazer as perguntas certas.
+[00:22:44:26 --> 00:22:47:02] Porque, às vezes, o seu cliente não entende a pergunta
+[00:22:47:02 --> 00:22:49:09] e você faz a pergunta de um jeito diferente.
+[00:22:49:29 --> 00:22:51:28] Às vezes, o seu cliente tem alguma coisa para te falar
+[00:22:52:18 --> 00:22:56:09] que, na conversa, é muito mais fácil dele falar do que escrevendo.
+[00:22:57:14 --> 00:22:59:11] Então, definitivamente, sai de uma outra paisagem.
+[00:22:59:20 --> 00:23:02:02] E aqui, essa consideração também tem camadas.
+[00:23:02:05 --> 00:23:04:10] A segunda camada dela, ou seja, uma esponja.
+[00:23:04:15 --> 00:23:06:26] Aqui não é hora para tomar decisão,
+[00:23:06:26 --> 00:23:09:26] Não é hora para definir etapas.
+[00:23:10:02 --> 00:23:11:21] Ah, esse é o caminho que nós vamos seguir.
+[00:23:11:27 --> 00:23:13:09] Ah, é isso aqui que nós vamos fazer.
+[00:23:13:18 --> 00:23:14:28] Não, não, não, não, não.
+[00:23:15:14 --> 00:23:19:08] Aqui é a hora de perguntar e observar, perguntar e observar,
+[00:23:19:11 --> 00:23:21:11] anotar, registrar, anotar, registrar.
+[00:23:21:21 --> 00:23:22:15] Esponja mesmo.
+[00:23:23:01 --> 00:23:24:26] Absorbe, absorbe, absorbe, absorbe.
+[00:23:25:01 --> 00:23:26:14] Você não define nada aqui.
+[00:23:26:26 --> 00:23:31:01] Nós vamos falar de tomar decisões na etapa de estratégia, que é a próxima.
+[00:23:31:17 --> 00:23:35:15] Você só toma decisão quando você consegue enxergar o cenário.
+[00:23:37:26 --> 00:23:42:14] Quando você não está conseguindo enxergar, está cego, é muito difícil tomar a decisão.
+[00:23:43:00 --> 00:23:45:00] E é até um erro tomar a decisão precipitada.
+[00:23:46:00 --> 00:23:48:05] Então, essa etapa aqui...
+[00:23:50:12 --> 00:23:52:29] O humor que você precisa ter nela é esse.
+[00:23:53:26 --> 00:23:55:13] É você simplesmente sentir assim,
+[00:23:55:18 --> 00:23:57:15] agora eu estou aqui para absorver.
+[00:23:57:27 --> 00:24:00:13] É pesquisar, é ler, é assistir.
+[00:24:00:28 --> 00:24:03:18] E eu faço isso da melhor maneira que eu posso
+[00:24:03:18 --> 00:24:04:12] e recomendo para vocês.
+[00:24:04:13 --> 00:24:06:10] Por exemplo, quando eu estou fazendo benchmark,
+[00:24:06:17 --> 00:24:07:28] as melhores práticas do mercado,
+[00:24:08:10 --> 00:24:11:28] teve uma época que eu estava estudando o mercado de confeitaria
+[00:24:11:28 --> 00:24:15:26] para uma cliente minha, que era a Thaís, que fazia bolos.
+[00:24:16:01 --> 00:24:19:02] E eu queria ajudar ela, criar a marca dela e tal.
+[00:24:19:07 --> 00:24:20:15] O que eu fiz?
+[00:24:21:09 --> 00:24:26:16] Eu peguei e eu passei uma semana inteira imerso no mundo da confeitaria.
+[00:24:27:15 --> 00:24:31:04] Eu descobri quais eram os principais nomes, quais eram os principais programas.
+[00:24:31:13 --> 00:24:34:15] Para vocês terem noção, até quando eu não estava trabalhando,
+[00:24:34:15 --> 00:24:38:10] eu estava imerso, porque eu assisto muito Netflix, eu gosto.
+[00:24:39:21 --> 00:24:41:10] Geralmente, eu assisto de noite com a Larissa.
+[00:24:41:15 --> 00:24:42:09] Eu falei isso com a Larissa.
+[00:24:42:20 --> 00:24:45:24] Mô, vamos assistir uns programas diferentes? Ela falou, bora.
+[00:24:46:00 --> 00:24:49:03] E a gente começou a assistir programa de confeitaria, todos da Netflix.
+[00:24:49:10 --> 00:24:51:28] Eu comecei a assistir eles, eu passei uma semana inteira,
+[00:24:52:01 --> 00:24:54:15] eu só sabia de confeitaria.
+[00:24:54:15 --> 00:25:00:04] As músicas que eu escutava eram músicas que tinham um humor ligado com a confeitaria.
+[00:25:01:19 --> 00:25:07:09] Os vídeos que eu via, as coisas que eu lia, tudo como uma esponja.
+[00:25:07:17 --> 00:25:13:23] O efeito disso depois é muito legal, porque você é como se você estivesse como um
+[00:25:13:23 --> 00:25:19:27] balão cheio de ar, quase explodindo de muito ar, muitas ideias que você conseguiu
+[00:25:19:27 --> 00:25:20:17] naquela semana.
+[00:25:21:03 --> 00:25:23:24] Mas eu evitava tomar decisão.
+[00:25:23:24 --> 00:25:28:26] Quando vinham ideias, eu anotava o tempo inteiro, eu estava ali para observar.
+[00:25:29:00 --> 00:25:33:27] E eu anotava para logo voltar porque eu estava fazendo e continuar absorvendo, absorvendo, absorvendo.
+[00:25:34:09 --> 00:25:39:27] Meu YouTube era só coisa de confeitaria, meu Instagram era só coisa de confeitaria.
+[00:25:40:15 --> 00:25:43:10] Porque eu estava imerso, e é o que eu recomendo para vocês.
+[00:25:43:13 --> 00:25:48:13] Isso é sair do modo paisagem, é você entrar em um modo ativo de observação.
+[00:25:48:21 --> 00:25:51:01] Afinal de contas, o que é a investigação?
+[00:25:51:01 --> 00:25:56:23] Quando você observa as pegadas, o que é a investigação, se não pura observação.
+[00:25:57:10 --> 00:26:01:23] Então não se esqueça disso, essa aqui é a etapa mais importante do projeto.
+[00:26:02:13 --> 00:26:07:19] Pode acreditar em mim, quando você faz uma boa investigação, o seu projeto tem um
+[00:26:07:19 --> 00:26:08:21] salto de qualidade.
+[00:26:09:10 --> 00:26:13:24] Quando você faz uma investigação fraquinha, o seu projeto tende a ser fraquinho ou tende
+[00:26:13:24 --> 00:26:18:08] a ser ordinário no sentido de mediano comum, é mais do mesmo.
+[00:26:19:02 --> 00:26:24:12] Sabe, mais uma ideia igual, é mais um projeto igual no mercado, isso é o que a gente não
+[00:26:24:12 --> 00:26:25:19] quer definitivamente.
+[00:26:26:04 --> 00:26:27:13] Então lembre-se disso também.
+[00:26:28:09 --> 00:26:32:04] Cria um ambiente propício para o compartilhamento.
+[00:26:32:16 --> 00:26:35:18] Isso aqui tem a ver com conversas também, que a gente vai ter uma consideração aqui
+[00:26:35:18 --> 00:26:39:02] só para conversa, mas o que eu quero dizer aqui para você é, crie um Google
+[00:26:40:19 --> 00:26:45:28] Drive para o projeto e fala com o seu cliente, pode ser um Google Drive ou eu
+[00:26:46:02 --> 00:26:51:07] eu usei também WhatsApp, eu falei, vi uma ideia legal no seu celular,
+[00:26:51:21 --> 00:26:53:06] printa ela e joga na nossa conversa.
+[00:26:53:07 --> 00:26:56:28] Eu falo desse jeito com o meu cliente, se você tem arquivos interessantes,
+[00:26:57:05 --> 00:27:00:04] coloca lá no drive, vamos reunir tudo lá,
+[00:27:00:13 --> 00:27:04:01] faz o download de todas as suas ideias para lá porque eu quero saber de tudo.
+[00:27:04:10 --> 00:27:09:03] E eu falo isso com todos os envolvidos, a gente tem uma gavetinha de ideias.
+[00:27:09:06 --> 00:27:12:07] Porque aqui eu estou absorvendo, aqui eu estou fazendo de fato
+[00:27:12:07 --> 00:27:13:21] o meu cliente trabalhar junto comigo,
+[00:27:13:21 --> 00:27:17:01] pra eu conseguir ter a lente dele em relação ao projeto.
+[00:27:17:24 --> 00:27:19:24] E galera, sai cada coisa legal disso?
+[00:27:21:03 --> 00:27:23:25] O cliente, no final, sente que o projeto é dele.
+[00:27:25:16 --> 00:27:28:05] E, fala para mim, quantos designers fazem isso de fato?
+[00:27:28:10 --> 00:27:29:10] São poucos.
+[00:27:29:20 --> 00:27:31:21] E vocês podem ter esse diferencial também.
+[00:27:32:11 --> 00:27:34:27] Então, criar um ambiente propício para o compartilhamento
+[00:27:34:27 --> 00:27:37:27] é você criar um espaço que fique fácil,
+[00:27:37:27 --> 00:27:42:06] que torne fácil para o seu cliente compartilhar.
+[00:27:42:29 --> 00:27:45:20] Você fala, pode me mandar áudio à vontade.
+[00:27:45:26 --> 00:27:47:29] Aí você fala, meu Deus, assim não vai ter como.
+[00:27:48:22 --> 00:27:50:24] Eu não vou ter que escutar todos os áudios dele.
+[00:27:51:27 --> 00:27:53:00] Aí, você faz o quê?
+[00:27:53:08 --> 00:27:54:13] Tudo é protocolo, olha só.
+[00:27:54:14 --> 00:27:55:20] A gente falou disso lá atrás.
+[00:27:55:25 --> 00:27:57:03] Tudo é protocolo, mas...
+[00:27:57:03 --> 00:27:58:06] Defina o seu cliente, olha.
+[00:27:58:13 --> 00:28:00:11] A gente precisa criar dois espaços.
+[00:28:00:15 --> 00:28:02:29] Esse aqui é o espaço de ideias.
+[00:28:03:04 --> 00:28:04:26] Pode mandar áudio à vontade lá,
+[00:28:05:05 --> 00:28:06:27] pode mandar vídeo, pode mandar link,
+[00:28:07:02 --> 00:28:07:26] pode mandar print.
+[00:28:08:09 --> 00:28:09:11] Lá é para ideias.
+[00:28:09:20 --> 00:28:11:28] Não quer dizer que eu vou ver essas ideias o tempo inteiro,
+[00:28:12:04 --> 00:28:13:20] mas quando eu estiver reunindo ideias,
+[00:28:13:25 --> 00:28:14:25] eu vou olhar para esse grupo.
+[00:28:15:08 --> 00:28:18:01] E a gente tem essa outra conversa aqui,
+[00:28:18:05 --> 00:28:20:29] que é a nossa conversa para poder marcar reuniões,
+[00:28:20:29 --> 00:28:25:05] para poder marcar, às vezes, uma conversa,
+[00:28:25:08 --> 00:28:27:00] para poder trazer uma informação muito importante.
+[00:28:27:13 --> 00:28:30:01] Não encha essa conversa aqui com muita informação,
+[00:28:30:07 --> 00:28:31:23] porque senão pode passar batido.
+[00:28:32:01 --> 00:28:33:02] A gente precisa filtrar.
+[00:28:33:10 --> 00:28:34:25] Se você quer me falar algo importante,
+[00:28:35:07 --> 00:28:36:20] fale na conversa de coisas importantes.
+[00:28:36:23 --> 00:28:38:16] Se você quer compartilhar ideias, compartilhe aqui.
+[00:28:38:24 --> 00:28:39:22] Aí vocês filtram,
+[00:28:39:25 --> 00:28:42:12] porque sabe aquele cliente que manda 300 áudios
+[00:28:42:12 --> 00:28:46:25] e 299 áudios não servem para nada?
+[00:28:47:02 --> 00:28:48:29] E aí um áudio é importante e está lá no meio,
+[00:28:49:01 --> 00:28:49:29] você tem que escutar tudo.
+[00:28:49:29 --> 00:28:52:23] Não, isso é ruim, por isso tem que sempre organizar,
+[00:28:52:26 --> 00:28:54:13] senão você vai sofrer muito também, né?
+[00:28:55:14 --> 00:28:58:13] Organiza, cria, isso que significa criar um ambiente propício,
+[00:28:58:29 --> 00:29:00:10] que não vai poluir tudo.
+[00:29:00:20 --> 00:29:02:14] Por isso que às vezes também criar o Google Drive e falar,
+[00:29:02:17 --> 00:29:04:26] coloca nessa pasta aqui as ideias que você tem e tal.
+[00:29:05:07 --> 00:29:08:03] Só que eu gosto muito de deixar o mais fácil possível para o meu cliente.
+[00:29:08:07 --> 00:29:09:29] Porque ele está lá navegando no Instagram dele,
+[00:29:10:07 --> 00:29:11:27] ele gostou de uma coisa, eu falo, gostou?
+[00:29:12:01 --> 00:29:12:29] Printa e manda.
+[00:29:14:18 --> 00:29:18:15] Pássio. Quanto mais fácil eu deixo, mais propício é para o compartilhamento.
+[00:29:19:12 --> 00:29:21:02] E lembra da aula Ciência da Criatividade.
+[00:29:21:14 --> 00:29:24:03] Uma ideia é feita de várias ideias, é feita de conexões.
+[00:29:24:04 --> 00:29:26:01] Quanto mais ideias o cliente gera para você,
+[00:29:26:06 --> 00:29:27:16] mais matéria-prima você tem.
+[00:29:27:27 --> 00:29:30:09] E é assim que você começa a ser mais original, tá?
+[00:29:30:16 --> 00:29:33:03] Então, isso significa criar um ambiente propício para compartilhamento.
+[00:29:33:15 --> 00:29:36:11] Ruan, aí quando eu tenho uma equipe, você tem que centralizar.
+[00:29:36:20 --> 00:29:39:27] Pode ser um grupo, o mais simples, um grupo de Telegram,
+[00:29:39:28 --> 00:29:42:01] um grupo de WhatsApp para reunir todas as ideias lá.
+[00:29:42:01 --> 00:29:47:13] Pode ser um drive, Google Drive, Dropbox, o drive que você quiser.
+[00:29:47:16 --> 00:29:50:04] A ferramenta aqui tem várias, você pode escolher a que você achar melhor.
+[00:29:51:17 --> 00:29:54:04] Mas construa esse ambiente propício para o compartilhamento,
+[00:29:54:14 --> 00:29:57:14] porque a pessoa que mais vai sair ganhando com isso é você.
+[00:29:57:21 --> 00:30:00:27] O dia que você tiver 100 ideias, você abre essa pasta
+[00:30:00:27 --> 00:30:05:01] e você tem lá ideias que já passaram pelo filtro dos seus clientes,
+[00:30:05:04 --> 00:30:08:10] muitas vezes no sentido de que eles viram alguma coisa ali valiosa.
+[00:30:08:21 --> 00:30:10:22] Vai aparecer muito lixo por lá também,
+[00:30:10:22 --> 00:30:14:28] Mas a ideia é que você faça esse filtro, e não os seus clientes.
+[00:30:15:05 --> 00:30:17:06] Então, essa é uma consideração muito importante também,
+[00:30:17:07 --> 00:30:18:27] criar um ambiente propício para o compartilhamento.
+[00:30:19:03 --> 00:30:20:25] Isso vai ajudar muito a sua investigação.
+[00:30:21:04 --> 00:30:25:00] Pensa como se fosse uma investigação de qualquer outra coisa,
+[00:30:25:04 --> 00:30:27:19] sei lá, vamos investigar pessoas desaparecidas.
+[00:30:27:25 --> 00:30:32:07] Qual é uma das primeiras atitudes de um investigador?
+[00:30:32:19 --> 00:30:34:04] É começar a envolver a comunidade.
+[00:30:34:19 --> 00:30:37:21] Se você viu essa pessoa, liga imediatamente para o número.
+[00:30:38:06 --> 00:30:39:27] Isso é criar um ambiente propício.
+[00:30:39:27 --> 00:30:42:18] Porque aí você ganha vários olhos na cidade.
+[00:30:42:29 --> 00:30:44:07] É a mesma coisa aqui.
+[00:30:44:13 --> 00:30:46:09] Você quer criar bons relacionamentos
+[00:30:46:09 --> 00:30:48:19] para que você consiga boas informações?
+[00:30:49:21 --> 00:30:52:06] Quando eu vou ter uma conversa com os meus clientes,
+[00:30:52:07 --> 00:30:54:12] às vezes eu faço entrevistas com os colaboradores.
+[00:30:55:02 --> 00:30:56:13] E aí eu faço entrevista com um almo.
+[00:30:56:16 --> 00:30:59:06] Aí o cara lá do staff, ele trabalha lá no operacional.
+[00:30:59:15 --> 00:31:01:22] Eu falo com ele, olha, tudo o que você falar aqui
+[00:31:02:15 --> 00:31:04:09] fica entre eu e você.
+[00:31:04:16 --> 00:31:06:19] Aí a gente tem um código de confidencialidade,
+[00:31:07:00 --> 00:31:09:19] não vou passar essas informações, pode confiar em mim.
+[00:31:09:19 --> 00:31:15:08] O meu objetivo é criar uma empresa, criar uma marca, uma identidade, uma comunicação
+[00:31:15:08 --> 00:31:19:13] que faça a empresa onde você trabalha se tornar um lugar melhor.
+[00:31:19:24 --> 00:31:20:29] Então, eu quero te ajudar.
+[00:31:21:07 --> 00:31:24:24] Me fala o que te incomoda e o que você gosta
+[00:31:24:24 --> 00:31:28:19] para que eu consiga usar isso para tornar esse lugar um lugar melhor.
+[00:31:29:09 --> 00:31:34:24] Quando a gente fala de employer branding, que é o branding interno de quem trabalha lá,
+[00:31:35:03 --> 00:31:37:28] você tem que ser amigo das pessoas, de fato.
+[00:31:38:24 --> 00:31:41:29] Então, criar esse ambiente propício é muito, muito importante.
+[00:31:42:11 --> 00:31:44:03] E é por isso que está aqui nessas considerações.
+[00:31:44:08 --> 00:31:46:00] Eu poderia fazer uma aula para cada um desses,
+[00:31:46:10 --> 00:31:49:29] mas eu te ensinei como fazer e agora eu estou trazendo para você
+[00:31:49:29 --> 00:31:52:21] algumas coisas que vão vir muito mais pela experiência,
+[00:31:52:27 --> 00:31:55:21] que é muito mais pelo momento que você está vivendo.
+[00:31:55:23 --> 00:31:58:18] Se você lembrar dessas considerações, essas diretrizes vai te ajudar.
+[00:31:59:06 --> 00:32:01:20] Agora, essa daqui que eu já falei que teria, está aqui.
+[00:32:02:02 --> 00:32:05:11] Dê preferência para a conversa.
+[00:32:05:19 --> 00:32:07:08] Vença suas inseguranças.
+[00:32:07:08 --> 00:32:12:02] Eu sei, galera, muita gente tem essa insegurança, mas eu não sei lidar com cliente, eu tenho
+[00:32:12:02 --> 00:32:14:14] medo de falar com cliente, eu sou tímido, eu sou tímida.
+[00:32:15:29 --> 00:32:18:12] não é sobre você.
+[00:32:19:26 --> 00:32:21:04] é sobre o projeto.
+[00:32:22:03 --> 00:32:24:01] E esse é um medo que,
+[00:32:24:04 --> 00:32:26:16] cedo ou tarde você vai perceber que ele é bobo.
+[00:32:26:28 --> 00:32:29:18] Porque não tem nenhuma ameaça.
+[00:32:30:06 --> 00:32:31:14] É assim, zero ameaça.
+[00:32:31:17 --> 00:32:33:26] Mas se o meu cliente perguntar uma coisa que eu não sei responder,
+[00:32:34:01 --> 00:32:34:24] sabe o que você vai falar?
+[00:32:35:18 --> 00:32:38:00] Olha, eu não tenho essa resposta agora,
+[00:32:38:07 --> 00:32:39:20] mas eu vou pesquisar e te falo.
+[00:32:39:24 --> 00:32:40:09] É isso.
+[00:32:41:06 --> 00:32:43:20] As pessoas têm medo. E se ele me perguntar uma coisa que eu não sei?
+[00:32:43:25 --> 00:32:45:06] Eu respondo isso quando eu não sei.
+[00:32:45:19 --> 00:32:47:03] Porque a gente não tem que saber tudo.
+[00:32:48:00 --> 00:32:48:21] É natural.
+[00:32:49:21 --> 00:32:53:29] Você está ali para conduzir e não para ser um sapichão ou uma sapichona.
+[00:32:55:04 --> 00:33:00:19] Isso mostra, inclusive, maturidade, quando você mostra que essa resposta eu não tenho.
+[00:33:01:14 --> 00:33:02:01] E tá tudo bem.
+[00:33:03:12 --> 00:33:06:21] Quando você tem as perguntas certas, você tem que promover a conversa.
+[00:33:06:23 --> 00:33:08:19] Você é a pessoa que mais pergunta, inclusive.
+[00:33:10:12 --> 00:33:11:16] porque você quer informação.
+[00:33:12:05 --> 00:33:14:22] Então, quando eu falo de preferência para conversa,
+[00:33:14:26 --> 00:33:15:20] leva isso a sério.
+[00:33:15:23 --> 00:33:18:08] É muito fácil negligenciar isso aqui.
+[00:33:18:18 --> 00:33:21:11] Porque é muito mais fácil mandar um e-mail para o cliente
+[00:33:21:11 --> 00:33:23:27] ou uma mensagem pedindo para ele responder algumas perguntas.
+[00:33:24:01 --> 00:33:25:14] Responde essas perguntas aqui para mim.
+[00:33:25:18 --> 00:33:27:05] Nossa, é muito mais fácil.
+[00:33:27:15 --> 00:33:29:12] Só que é mais fácil no curto prazo.
+[00:33:29:21 --> 00:33:31:22] No longo prazo vai te dar mais trabalho.
+[00:33:32:08 --> 00:33:34:28] Você vê aqueles projetos incríveis, sei lá...
+[00:33:34:28 --> 00:33:38:17] Nossa, eu vi o projeto da Tátio Design do Carnaval.
+[00:33:39:08 --> 00:33:44:29] Eles fizeram lá, ganharam um monte de prêmio, a identidade visual do Carnaval 2022, ganharam
+[00:33:44:29 --> 00:33:45:18] um monte de prêmios.
+[00:33:45:20 --> 00:33:48:01] Aí você vai ver o processo para criar.
+[00:33:48:18 --> 00:33:57:16] Galera, eles entrevistaram todas as escolas de samba, entrevistaram a comunidade inteira,
+[00:33:58:00 --> 00:34:01:21] as pessoas para entender qual era a visão delas sobre o Carnaval.
+[00:34:02:02 --> 00:34:05:13] Eles de fato criaram um projeto colaborativo, ganharam vários prêmios.
+[00:34:05:13 --> 00:34:11:07] Foi um projeto incrível, que traduziu o Carnaval de um jeito como nenhum outro projeto.
+[00:34:12:20 --> 00:34:13:11] Porque ouviram?
+[00:34:14:23 --> 00:34:18:07] Porque não é a visão de um designer sobre o carnaval.
+[00:34:19:11 --> 00:34:26:06] É a identidade do carnaval, a personalidade do carnaval, e não a visão de um designer do carnaval.
+[00:34:27:21 --> 00:34:30:24] E é isso, dar a preferência para conversa e ouvir
+[00:34:30:24 --> 00:34:34:18] é o que vai fazer você ser original e você criar esses projetos que você tanto admira.
+[00:34:35:06 --> 00:34:35:22] Tá aqui.
+[00:34:36:01 --> 00:34:38:28] Às vezes você acha que tá lá no traço do desenho que você faz.
+[00:34:39:07 --> 00:34:41:25] Às vezes você acha que tá lá no efeito que você coloca no Photoshop.
+[00:34:42:15 --> 00:34:46:00] Às vezes você acha que tá na ideia perfeita que você tem enquanto tá tomando banho.
+[00:34:46:26 --> 00:34:47:27] Não tá em nenhum desses lugares.
+[00:34:48:19 --> 00:34:49:01] Está...
+[00:34:50:29 --> 00:34:56:16] conversa. Então dê preferência para a conversa sempre que você puder. Escute as pessoas
+[00:34:56:16 --> 00:35:00:10] e faça as perguntas certas. Essa consideração aqui vale.
+[00:35:01:12 --> 00:35:03:04] E ela é muito fácil de negligenciar.
+[00:35:03:16 --> 00:35:05:03] Toda vez que eu converso com os designers,
+[00:35:05:27 --> 00:35:08:25] sempre tem uma desculpa para não fazer a conversa.
+[00:35:09:06 --> 00:35:11:13] Ah, mas é porque eu tinha um prazo apertado,
+[00:35:11:22 --> 00:35:13:22] não dava para fazer a conversa...
+[00:35:13:22 --> 00:35:15:21] Aí que você tinha que fazer a conversa mesmo,
+[00:35:15:22 --> 00:35:17:15] porque você manda o briefing para o seu cliente,
+[00:35:17:15 --> 00:35:18:28] ele responde com uma linha,
+[00:35:19:09 --> 00:35:20:17] e aí você tem que se virar com isso.
+[00:35:20:19 --> 00:35:22:00] O projeto fica...
+[00:35:22:00 --> 00:35:24:07] Me desculpem a palavra, uma bosta.
+[00:35:24:21 --> 00:35:26:25] Ah, porque eu não tenho matéria-prima,
+[00:35:26:27 --> 00:35:29:15] quer fazer um castelo de diamante usando palha?
+[00:35:29:27 --> 00:35:30:15] Não tem como.
+[00:35:31:23 --> 00:35:33:06] Então, eu dei preferência para a conversa.
+[00:35:34:07 --> 00:35:37:09] define, reserve um espaço para conversa.
+[00:35:38:21 --> 00:35:42:27] Busque fontes confiáveis, cara, isso aqui é muito importante, não acredite em tudo
+[00:35:42:27 --> 00:35:46:01] que houve e vem, até mesmo do seu cliente, tá?
+[00:35:46:17 --> 00:35:48:25] É o que eu tô falando, não tome nada como uma verdade.
+[00:35:49:04 --> 00:35:51:25] Um investigador precisa investigar.
+[00:35:53:09 --> 00:35:56:10] Por isso que a gente analisa vários pontos de vista.
+[00:35:56:26 --> 00:35:58:18] Não existe uma verdade absoluta.
+[00:35:58:26 --> 00:36:01:16] E já aconteceu comigo várias vezes do cliente me falar uma coisa
+[00:36:01:16 --> 00:36:03:28] e o que ele me falar não ser bem assim.
+[00:36:04:15 --> 00:36:06:04] Aí eu pesquisava no mercado e via.
+[00:36:06:25 --> 00:36:08:14] E a minha função era mostrar pra ele
+[00:36:08:14 --> 00:36:11:29] olha, eu fiz uma pesquisa no mercado depois do que você me falou
+[00:36:11:29 --> 00:36:14:28] e eu notei que não é bem assim, olha só, dá uma olhada nesses dados.
+[00:36:15:21 --> 00:36:17:18] E aí ele me dava uma explicação
+[00:36:17:18 --> 00:36:19:18] pra entender melhor o que ele queria dizer.
+[00:36:20:02 --> 00:36:22:21] E isso não é só do seu cliente
+[00:36:22:21 --> 00:36:25:03] Mas também da internet, né?
+[00:36:25:03 --> 00:36:29:20] Às vezes você faz uma pesquisa e essa pesquisa não é tão confiável,
+[00:36:29:21 --> 00:36:35:06] tem muita fake news e aí você baseia a sua estratégia em uma informação que nem é verdadeira,
+[00:36:36:02 --> 00:36:38:10] isso pode dar prejuízo para o seu cliente.
+[00:36:38:19 --> 00:36:43:27] Então, busque sempre fontes confiáveis e outra coisa importante, múltiplas fontes.
+[00:36:44:06 --> 00:36:45:22] Não pega só de um lugar e pronto.
+[00:36:46:04 --> 00:36:50:16] Pega a mesma informação de vários lugares diferentes, porque aí você consegue ver
+[00:36:50:16 --> 00:36:53:09] Onde estão as variações? Por que essa empresa está falando isso?
+[00:36:53:12 --> 00:36:55:18] Isso aqui está muito diferente de todos os outros.
+[00:36:56:21 --> 00:36:57:17] É suspeito.
+[00:36:58:12 --> 00:37:00:00] Todo mundo falou que o céu está azul
+[00:37:00:00 --> 00:37:02:17] e uma pessoa falou que está caindo uma tempestade.
+[00:37:02:28 --> 00:37:04:21] Tem nove pessoas falando que o céu está azul.
+[00:37:04:28 --> 00:37:06:25] Uma pessoa falando que está caindo uma tempestade.
+[00:37:08:13 --> 00:37:12:07] é mais fácil confiar em quem, então múltiplas fontes
+[00:37:12:07 --> 00:37:14:04] é muito importante também.
+[00:37:14:16 --> 00:37:17:04] Então, lembra disso. Isso aqui é uma consideração simples,
+[00:37:17:20 --> 00:37:19:20] mas é fácil de negligenciar.
+[00:37:19:24 --> 00:37:22:28] Lembra que você está fazendo uma investigação.
+[00:37:23:06 --> 00:37:27:06] Você está querendo coletar dados que são verdadeiros,
+[00:37:27:14 --> 00:37:29:21] para tomar decisões na etapa da estratégia.
+[00:37:29:28 --> 00:37:31:15] Vocês vão ver que tudo isso aqui,
+[00:37:31:26 --> 00:37:34:19] se você fez uma boa investigação, se você coletou bons dados,
+[00:37:34:28 --> 00:37:37:19] na hora de definir a estratégia, é muito mais fácil.
+[00:37:37:19 --> 00:37:43:26] Se você não fez uma boa investigação, você muitas vezes nem consegue criar estratégia,
+[00:37:44:01 --> 00:37:45:03] definir um posicionamento.
+[00:37:45:21 --> 00:37:47:07] Você vai encher linguiça mesmo.
+[00:37:48:19 --> 00:37:50:03] Porque você não tem informação, né?
+[00:37:50:06 --> 00:37:53:02] Como é que eu sei o melhor caminho para passar se eu nem conheço os caminhos?
+[00:37:54:03 --> 00:37:55:07] É mais difícil, né?
+[00:37:55:14 --> 00:37:56:21] Então tome cuidado com isso também.
+[00:37:58:05 --> 00:38:04:29] Oitava consideração, boas referências, elevam o projeto, más referências, ou destroy.
+[00:38:05:08 --> 00:38:08:05] Isso aqui tá ligado com o benchmark e o paradigma da avenida.
+[00:38:08:10 --> 00:38:10:06] Tá aqui só pra lembrar vocês que...
+[00:38:11:06 --> 00:38:13:15] Busquem sempre os melhores.
+[00:38:13:26 --> 00:38:15:19] Às vezes, você acha que algo está bom,
+[00:38:15:29 --> 00:38:18:24] mas tem algo muito melhor que você já poderia estar fazendo.
+[00:38:19:04 --> 00:38:20:26] Então, eu gosto sempre de buscar no mundo,
+[00:38:20:29 --> 00:38:22:21] eu gosto de olhar para os mercados no mundo inteiro.
+[00:38:23:05 --> 00:38:26:15] Quem são as maiores referências no mercado?
+[00:38:27:02 --> 00:38:29:25] As maiores referências não são só os concorrentes,
+[00:38:30:02 --> 00:38:32:12] mas quem está conversando muito bem
+[00:38:32:12 --> 00:38:35:03] com o público que você também vai conversar.
+[00:38:35:25 --> 00:38:37:03] Qual é o jeito deles de conversar?
+[00:38:37:03 --> 00:38:38:15] Para onde eles estão olhando?
+[00:38:40:10 --> 00:38:42:14] Quais são as tendências? Tem muito designer que fala,
+[00:38:42:18 --> 00:38:45:03] eu não olho tendência, porque...
+[00:38:45:18 --> 00:38:48:03] Se eu olhar a tendência, eu vou criar um projeto datado.
+[00:38:48:09 --> 00:38:49:19] Vou criar um projeto datado.
+[00:38:50:06 --> 00:38:51:03] Mas não é bem assim.
+[00:38:51:15 --> 00:38:55:12] Você olha a tendência para poder definir a estratégia.
+[00:38:55:14 --> 00:38:58:14] Na hora de criar o logo, na hora de definir as cores,
+[00:38:58:17 --> 00:39:01:07] paletes tipográficas, definir os elementos proprietários da marca...
+[00:39:01:20 --> 00:39:06:01] Aí, sim, você vai tomar cuidado para não criar uma marca datada,
+[00:39:06:11 --> 00:39:07:26] com um estilo muito datado.
+[00:39:07:26 --> 00:39:11:21] Sei lá, uma marca que segue uma tendência muito forte de um ano específico e que daqui
+[00:39:11:21 --> 00:39:17:07] a pouco vai parecer antiguado, ultrapassado, porque é muito antigo o estilo.
+[00:39:17:28 --> 00:39:20:10] Então na hora de criar você tem que prestar atenção nisso.
+[00:39:20:15 --> 00:39:23:18] Mas olhar para as tendências te ajuda a prever...
+[00:39:23:18 --> 00:39:25:19] Não tem como prever o futuro, na verdade.
+[00:39:25:22 --> 00:39:27:00] Não tem como você prever o que vai acontecer.
+[00:39:27:12 --> 00:39:32:08] Mas te ajuda a antecipar um pouco decisões importantes para a empresa do seu cliente
+[00:39:32:08 --> 00:39:35:04] relacionado com a comunicação dele, com a ideia dele.
+[00:39:35:24 --> 00:39:42:23] Às vezes isso é o que vai fazer a diferença entre ele conseguir a atenção do público dele ou ser completamente ignorado.
+[00:39:44:05 --> 00:39:47:00] Então, as tendências são importantes.
+[00:39:47:04 --> 00:39:50:29] Quando eu estou na etapa de investigação, eu observo sim as tendências.
+[00:39:51:10 --> 00:39:54:13] Quais são as tendências do mercado, quais são as tendências daquele público,
+[00:39:55:10 --> 00:39:57:26] quais são as causas, as bandeiras que estão sendo levantadas.
+[00:39:57:29 --> 00:39:59:27] Tudo isso precisa ser levado em consideração.
+[00:40:00:17 --> 00:40:02:10] Claro que cada projeto tem sua natureza.
+[00:40:02:14 --> 00:40:05:02] Tem projetos em que isso é mais forte, tem projetos em que isso é mais fraco.
+[00:40:05:10 --> 00:40:08:17] Existem muitos mercados que são tradicionalíssimos,
+[00:40:09:03 --> 00:40:11:06] que já estão há 50 anos do mesmo jeito.
+[00:40:11:08 --> 00:40:13:29] Isso pode ser, inclusive, uma oportunidade de mudança.
+[00:40:14:05 --> 00:40:16:20] Mas também pode ser uma armadilha você mudar.
+[00:40:16:24 --> 00:40:22:11] Às vezes, pertencer é uma estratégia mais eficiente.
+[00:40:22:25 --> 00:40:24:08] Então isso precisa ser analisado.
+[00:40:24:23 --> 00:40:27:15] Mas as boas referências servem justamente para isso.
+[00:40:27:29 --> 00:40:31:04] Na hora de tomar a decisão, é muito mais fácil tomar uma decisão
+[00:40:31:04 --> 00:40:32:28] quando você olha para os melhores.
+[00:40:33:26 --> 00:40:36:06] O que eu defendo e eu falo sempre para vocês é
+[00:40:36:06 --> 00:40:40:20] você é um só, você é uma pessoa só, um designer ou uma designer.
+[00:40:41:27 --> 00:40:47:13] Você faz projetos de 10 a 15 mil reais, legal, mas a sua equipe é você, ou às vezes você e mais alguém.
+[00:40:48:16 --> 00:40:56:29] Você pode confiar só no que você vê e o que o seu assistente ou a sua assistente vê, ou você pode pegar...
+[00:40:58:29 --> 00:41:03:03] surfar a onda de uma superequipe de pesquisa.
+[00:41:03:15 --> 00:41:06:05] O que eu quero dizer com isso? É justamente pegar carona.
+[00:41:06:20 --> 00:41:10:14] Grandes marcas têm equipes gigantes de pesquisa.
+[00:41:11:18 --> 00:41:14:22] eu aproveito a pesquisa que essas grandes marcas estão fazendo
+[00:41:14:22 --> 00:41:16:23] para tomar as minhas decisões também,
+[00:41:17:08 --> 00:41:20:22] porque elas têm muito mais chance de assertividade do que eu sozinho.
+[00:41:21:09 --> 00:41:22:26] Claro, eu sempre pondero
+[00:41:22:26 --> 00:41:24:19] para ver se a direção que essa marca segue
+[00:41:24:19 --> 00:41:26:18] é parecida com a direção que o meu cliente quer seguir.
+[00:41:27:06 --> 00:41:29:04] E muitas vezes isso é assertivo,
+[00:41:29:24 --> 00:41:33:12] porque eu estou coletando dados que outras pessoas já coletaram.
+[00:41:34:03 --> 00:41:36:12] Eu estou pegando carona definitivamente.
+[00:41:36:26 --> 00:41:40:10] E para nossos projetos menores, essa é uma estratégia muito eficiente.
+[00:41:41:01 --> 00:41:44:26] Ah, eu quero ter todas as respostas sozinhas, eu vou entrevistar o Brasil inteiro, um um,
+[00:41:44:29 --> 00:41:45:23] você não consegue.
+[00:41:46:13 --> 00:41:50:13] Mas, às vezes, uma grande empresa já fez isso e ela está tomando decisões que te
+[00:41:50:13 --> 00:41:51:08] dão pistas.
+[00:41:52:15 --> 00:41:54:18] Por que aquela empresa está seguindo nessa direção?
+[00:41:54:23 --> 00:41:56:08] Isso é uma pista para você analisar.
+[00:41:57:00 --> 00:41:59:24] Por que essa empresa está conversando mais com esse público?
+[00:42:00:06 --> 00:42:02:11] Isso é uma pista para você analisar.
+[00:42:02:15 --> 00:42:05:05] Por isso que nós estamos numa etapa de investigação.
+[00:42:05:05 --> 00:42:11:05] Então, boas referências elevam o projeto, mas as referências o destrói.
+[00:42:11:26 --> 00:42:15:12] 9. Não tome decisões precipitadas. Observe...
+[00:42:15:12 --> 00:42:19:21] Eu já falei um pouco sobre isso aqui, mas isso aqui não podia deixar de estar registrado para vocês.
+[00:42:20:24 --> 00:42:25:00] Investigação é para ser uma esponja, não é para tomar decisão.
+[00:42:25:10 --> 00:42:28:27] Decisões serão tomadas a partir da etapa de estratégia.
+[00:42:29:07 --> 00:42:34:01] Então, aqui, não tome a decisão precipitada. Esse aqui é o caminho que nós vamos seguir.
+[00:42:34:01 --> 00:42:36:29] Não se apaixone por uma ideia antes da hora.
+[00:42:37:15 --> 00:42:39:23] Você precisa validar essas possibilidades.
+[00:42:40:06 --> 00:42:43:11] E você precisa, inclusive, apresentar isso aqui para o seu cliente
+[00:42:43:11 --> 00:42:45:12] antes para ver se está alinhado com ele.
+[00:42:45:22 --> 00:42:47:26] É esse degrau que você está aqui agora.
+[00:42:48:09 --> 00:42:49:02] Não os outros.
+[00:42:49:09 --> 00:42:52:02] Deixe as outras etapas para quando chegar nas outras etapas.
+[00:42:52:08 --> 00:42:54:00] Isso simplifica muito a sua vida.
+[00:42:54:14 --> 00:42:56:07] Quando a gente olha para o projeto de longe,
+[00:42:56:18 --> 00:42:57:21] parece muito complicado.
+[00:42:58:09 --> 00:43:00:28] Nossa, é um projeto cheio de etapas, cheio de decisões.
+[00:43:01:07 --> 00:43:02:29] Realmente, parece muito complicado.
+[00:43:02:29 --> 00:43:11:05] Quando a gente deixa dividido os degraus, os degraus, né, degraus é difícil, quando a gente deixa os degraus bem definidos,
+[00:43:11:09 --> 00:43:13:26] você fica em paz, porque você sabe, eu tô nessa etapa.
+[00:43:14:05 --> 00:43:16:16] É claro, Juan, o mundo não é tão linear assim.
+[00:43:16:25 --> 00:43:19:23] Muitas vezes a gente vai e volta, isso acontece? Sim, né?
+[00:43:19:27 --> 00:43:24:03] É normal. Você vai pra uma etapa, volta, vai de novo, isso acontece.
+[00:43:24:16 --> 00:43:27:14] As coisas não são tão lineares assim.
+[00:43:27:28 --> 00:43:33:06] Mas, quando você sabe que naquele momento é aquilo que você precisa fazer,
+[00:43:34:17 --> 00:43:37:23] você tem menos chances de entrar em parafuso, sabe?
+[00:43:38:09 --> 00:43:41:04] Ficar doidinho das ideias, porque é muito ruim também você ficar
+[00:43:41:04 --> 00:43:43:05] meu Deus, eu não sei qual que é o próximo passo agora,
+[00:43:43:06 --> 00:43:44:14] eu estou perdido, não sei o que eu faço.
+[00:43:44:22 --> 00:43:47:03] Isso só acontece com quem não tem metodologia,
+[00:43:47:09 --> 00:43:48:24] quem não está organizado.
+[00:43:48:29 --> 00:43:50:22] Se você tem cronograma, tem a metodologia,
+[00:43:50:25 --> 00:43:52:07] segue direitinho, confia no processo,
+[00:43:52:18 --> 00:43:55:05] as coisas acontecem maravilhosamente.
+[00:43:55:25 --> 00:43:56:18] Pode acreditar.
+[00:43:56:18 --> 00:43:58:21] Às vezes você nunca criou um projeto assim.
+[00:43:59:03 --> 00:44:01:13] Você cria o seu primeiro projeto e, seguindo a metodologia, você fala
+[00:44:02:21 --> 00:44:04:18] cara, Luiú, simplesmente...
+[00:44:05:18 --> 00:44:06:06] fluiu.
+[00:44:06:21 --> 00:44:07:21] E isso é maravilhoso, tá?
+[00:44:08:00 --> 00:44:10:02] Então não tome decisões precipitadas.
+[00:44:10:19 --> 00:44:16:08] Observe aqui a etapa para observar, emergir, assistir o máximo de informação que você
+[00:44:16:08 --> 00:44:17:17] puder sobre esse cenário.
+[00:44:18:18 --> 00:44:20:28] Então, essa é a nona consideração.
+[00:44:21:26 --> 00:44:22:21] Décima consideração.
+[00:44:23:16 --> 00:44:26:04] Apresente as informações que foram coletadas
+[00:44:26:04 --> 00:44:28:10] e certifique-se de que está no caminho certo.
+[00:44:29:06 --> 00:44:31:08] Isso aqui é muito fácil de negligenciar também.
+[00:44:31:08 --> 00:44:31:23] Por quê?
+[00:44:32:15 --> 00:44:34:03] Eu já cometi esse erro, inclusive.
+[00:44:34:11 --> 00:44:35:18] Eu já fiz a pesquisa,
+[00:44:35:27 --> 00:44:37:18] eu falei, cara, eu estou com o prazo apertado,
+[00:44:37:20 --> 00:44:39:02] eu não vou apresentar a pesquisa,
+[00:44:39:07 --> 00:44:41:13] eu já vou fazer a estratégia
+[00:44:41:13 --> 00:44:43:05] e depois de fazer a estratégia,
+[00:44:43:06 --> 00:44:45:16] eu já apresento a pesquisa e a estratégia para o cliente.
+[00:44:45:20 --> 00:44:46:11] Sabe o que aconteceu?
+[00:44:46:27 --> 00:44:48:09] Quando eu apresentei, o cliente falou,
+[00:44:48:09 --> 00:44:50:18] mas isso aí não é bem assim, deixa eu te explicar.
+[00:44:50:20 --> 00:44:54:05] E ele me explicou, eu falei, cara, a minha análise foi errada mesmo.
+[00:44:54:28 --> 00:44:55:18] Estava errado.
+[00:44:55:26 --> 00:44:58:28] E aí eu criei uma estratégia toda em cima de uma análise errada.
+[00:45:00:01 --> 00:45:01:11] Pensa no trabalho.
+[00:45:02:05 --> 00:45:04:00] Por isso que as apresentações são importantes.
+[00:45:04:11 --> 00:45:05:21] Porque a apresentação...
+[00:45:05:21 --> 00:45:06:21] O que é a apresentação?
+[00:45:07:04 --> 00:45:11:16] A apresentação é uma oportunidade de conversa.
+[00:45:12:22 --> 00:45:16:03] Eu chego lá e falo, olha, eu pego as informações mais importantes,
+[00:45:16:15 --> 00:45:19:00] não dá para mostrar tudo na apresentação,
+[00:45:19:07 --> 00:45:20:28] porque a gente coleta muita informação mesmo.
+[00:45:21:16 --> 00:45:23:00] Mas eu deixo tudo no drive,
+[00:45:23:16 --> 00:45:25:17] tudo que eu vou pegando de informação, eu vou deixando no drive.
+[00:45:25:20 --> 00:45:27:17] Tudo organizadinho, em pastas...
+[00:45:27:17 --> 00:45:30:18] Depois eu vou mostrar para vocês como organizar o drive de vocês, tá?
+[00:45:31:03 --> 00:45:33:00] A gente vai tomar aula sobre isso, vai ser bem legal.
+[00:45:33:16 --> 00:45:36:00] Mas tudo organizadinho em pastas, lá eu falo, olha,
+[00:45:36:03 --> 00:45:38:29] você pode consultar todas essas informações no drive,
+[00:45:39:03 --> 00:45:42:08] a hora que você quiser, está aqui o link, é só entrar e consultar.
+[00:45:42:08 --> 00:45:46:26] Aqui, eu vou te trazer a minha percepção de tudo o que eu fiz, de tudo o que eu conversei.
+[00:45:46:28 --> 00:45:47:26] É uma síntese.
+[00:45:48:14 --> 00:45:53:03] E eu preciso que você me diga se isso está alinhado com a sua percepção da empresa.
+[00:45:53:18 --> 00:45:54:16] Sabe o que é mais legal?
+[00:45:54:17 --> 00:45:55:14] Eu já ouvi isso.
+[00:45:55:17 --> 00:45:56:24] E é muito legal ouvir isso.
+[00:45:57:09 --> 00:45:58:26] As pessoas se emocionam.
+[00:45:59:12 --> 00:46:02:17] No projeto da alquimia, que a gente está quase acabando para mostrar para vocês,
+[00:46:02:18 --> 00:46:03:15] são quatro sócios.
+[00:46:03:29 --> 00:46:10:24] Quando eu fiz a apresentação da etapa de investigação, um dos sócios ficou
+[00:46:10:24 --> 00:46:13:16] emocionado e ele falou, Juan...
+[00:46:14:17 --> 00:46:18:05] Parece que você trabalha com a gente aqui há 18 anos.
+[00:46:18:07 --> 00:46:19:23] A empresa tem 18 anos.
+[00:46:20:04 --> 00:46:21:29] Parece que você está aqui na empresa desde o início.
+[00:46:22:17 --> 00:46:26:12] Você descreveu a nossa empresa melhor do que eu conseguiria.
+[00:46:26:14 --> 00:46:29:23] Eu não conseguiria descrever tão bem quanto você descreveu.
+[00:46:30:14 --> 00:46:33:00] Tanto a maneira como eu descrevi quem eles são,
+[00:46:33:09 --> 00:46:35:14] como a maneira que eu descrevi onde eles querem chegar.
+[00:46:36:29 --> 00:46:40:14] Mas isso veio da minha cabeça, é porque eu sei escolher as melhores palavras,
+[00:46:40:16 --> 00:46:42:03] é porque eu sou um gênio da redação.
+[00:46:42:11 --> 00:46:45:08] Não, galera, definitivamente eu não sou.
+[00:46:45:20 --> 00:46:47:04] Só que eu fiz uma coisa óbvia.
+[00:46:47:15 --> 00:46:49:28] Eu escutei cada um deles.
+[00:46:50:23 --> 00:46:54:11] E, com base no que eles falaram, eu fiz a minha síntese.
+[00:46:54:22 --> 00:46:56:17] Não tinha como eu não ser de outro jeito,
+[00:46:56:24 --> 00:47:00:06] porque eu só falei o que eles mesmos me falaram.
+[00:47:00:26 --> 00:47:04:00] E aí eu tinha uma definição clara do DNA.
+[00:47:04:21 --> 00:47:06:15] Vocês conseguem perceber como
+[00:47:06:15 --> 00:47:10:26] Todas essas informações vão facilitar muito a etapa de núcleo da marca,
+[00:47:11:09 --> 00:47:15:02] a hora de definir os atributos, a hora de definir a entonação,
+[00:47:15:09 --> 00:47:18:03] a voz da marca, o propósito, missão, visão e valores.
+[00:47:18:12 --> 00:47:23:25] É muito nossa, 300 vezes mais rápido, porque eles me deram as informações.
+[00:47:24:23 --> 00:47:26:06] Agora vem uma coisa interessante.
+[00:47:26:25 --> 00:47:29:08] Quando você pergunta o seu cliente qual é a sua missão, visão e valores
+[00:47:29:08 --> 00:47:33:03] e pede para ele escrever, ele vai escrever a coisa mais tosca do mundo.
+[00:47:33:24 --> 00:47:34:06] Horrível!
+[00:47:34:15 --> 00:47:37:14] A nossa visão, nossa visão é se tornar referência no mercado, cara!
+[00:47:38:21 --> 00:47:40:02] Você não faz nada com isso.
+[00:47:40:15 --> 00:47:42:12] Qual é a nossa missão?
+[00:47:42:19 --> 00:47:45:04] A nossa missão é atender os nossos clientes com excelência.
+[00:47:46:03 --> 00:47:48:12] Você não faz nada, definitivamente nada com isso.
+[00:47:49:16 --> 00:47:53:18] Aí você faz esse tipo de perguntinha, recebe essas respostinhas que não servem para nada,
+[00:47:53:28 --> 00:47:55:24] vai fazer um núcleo da marca bem construído.
+[00:47:56:00 --> 00:47:56:14] Não faz!
+[00:47:57:02 --> 00:48:01:26] Agora, quando você cria oportunidade de conversa, você faz perguntas como...
+[00:48:01:26 --> 00:48:02:29] Onde vocês querem chegar?
+[00:48:04:26 --> 00:48:07:13] Como você acredita que esse mercado deveria ser?
+[00:48:08:17 --> 00:48:10:12] Qual que é o seu sonho para esse mercado?
+[00:48:12:05 --> 00:48:14:14] Onde você quer levar o seu cliente?
+[00:48:14:23 --> 00:48:16:29] Se você tivesse um gênio da Lâmpada
+[00:48:16:29 --> 00:48:19:29] e pudesse pedir para ele 10 desejos para sua empresa,
+[00:48:20:12 --> 00:48:21:18] o que você pediria?
+[00:48:23:08 --> 00:48:27:04] O que você acha que a sua empresa tem, que seus concorrentes não têm?
+[00:48:28:04 --> 00:48:30:23] Olha só, essas são todas as perguntas-chave.
+[00:48:31:16 --> 00:48:33:26] E você só consegue fazer essas perguntas
+[00:48:33:26 --> 00:48:37:11] quando você cria um ambiente propício para conversa,
+[00:48:37:18 --> 00:48:39:17] quando você estimula a conversa.
+[00:48:39:29 --> 00:48:44:00] Sem conversa, é muito mais difícil chegar nessas respostas.
+[00:48:45:17 --> 00:48:49:25] Ruan, como é que você podia disponibilizar um documento com todas essas perguntas?
+[00:48:49:27 --> 00:48:53:04] Eu posso fazer isso, né? O documento do briefing e tal também, eu posso.
+[00:48:53:14 --> 00:48:56:29] Mas vocês vão entender o seguinte, não existe um roteiro fixo
+[00:48:56:29 --> 00:48:58:04] que vai sempre funcionar.
+[00:48:58:09 --> 00:49:01:19] Quando você aprende a entrevistar, quando você aprende a conversar,
+[00:49:01:24 --> 00:49:04:13] você começa a ver quais são as perguntas mais importantes.
+[00:49:05:10 --> 00:49:07:29] Como eu já fiz isso várias vezes, para mim é natural.
+[00:49:09:18 --> 00:49:12:19] Essas perguntas que foi para vocês, olha, nem estava na apresentação.
+[00:49:12:22 --> 00:49:15:00] Eu comecei a pensar aqui, perguntas que são importantes,
+[00:49:15:23 --> 00:49:17:24] que eu quero saber essas respostas.
+[00:49:18:15 --> 00:49:19:24] Por que você criou a empresa?
+[00:49:20:07 --> 00:49:22:27] Qual que era a sua visão da empresa antes e a sua visão da empresa hoje?
+[00:49:23:25 --> 00:49:26:00] No caso deles, eles são 18 anos de empresa.
+[00:49:26:11 --> 00:49:29:11] Eu falo, se você tivesse como voltar 18 anos atrás,
+[00:49:29:15 --> 00:49:32:07] qual o conselho que você daria para você mesmo em relação à sua empresa?
+[00:49:33:03 --> 00:49:35:29] É assim que eu descubro quais foram os erros que eles cometeram,
+[00:49:36:12 --> 00:49:38:09] quais foram os aprendizados que eles ganharam.
+[00:49:39:22 --> 00:49:41:21] E isso é possível com a conversa, sabe por quê?
+[00:49:41:28 --> 00:49:44:10] Se você manda um formulário chato para eles responderem,
+[00:49:44:15 --> 00:49:46:14] eles vão responder com respostas chatas também.
+[00:49:47:10 --> 00:49:48:02] E aí, o que eu faço?
+[00:49:48:10 --> 00:49:50:20] Eu faço uma entrevista, eu converso com eles
+[00:49:50:20 --> 00:49:53:24] e eu peço o seguinte, eu posso gravar essa conversa?
+[00:49:55:04 --> 00:49:57:01] Ninguém mais vai assistir, só eu.
+[00:49:57:11 --> 00:50:00:21] É porque se eu gravar, eu perco menos tempo anotando
+[00:50:00:21 --> 00:50:04:09] e eu posso ficar 100% prestando atenção no que você vai me falar.
+[00:50:05:27 --> 00:50:06:18] Funciona.
+[00:50:06:27 --> 00:50:09:01] Até hoje ninguém falou, não, não pode gravar.
+[00:50:10:21 --> 00:50:13:22] Então, é muito mais fácil, eu acho.
+[00:50:13:28 --> 00:50:14:27] Às vezes é meia horinha.
+[00:50:17:07 --> 00:50:20:15] de entrevista com alguém, você já sai com muita ideia.
+[00:50:22:02 --> 00:50:24:28] E aí, aqui, apresente as informações que foram coletadas
+[00:50:24:28 --> 00:50:26:15] e certifique-se de que está no caminho certo.
+[00:50:26:18 --> 00:50:28:04] É mais uma oportunidade de conversa.
+[00:50:28:07 --> 00:50:30:02] Porque você vai reunir toda essa síntese
+[00:50:30:02 --> 00:50:31:17] e no final você vai perguntar.
+[00:50:31:25 --> 00:50:33:05] Agora eu quero saber o seguinte,
+[00:50:33:20 --> 00:50:35:16] de tudo isso que eu apresentei para vocês.
+[00:50:35:18 --> 00:50:36:26] Primeiro, sobre o negócio.
+[00:50:38:00 --> 00:50:40:08] Eu defini bem o negócio de vocês?
+[00:50:40:12 --> 00:50:41:05] É isso mesmo?
+[00:50:42:02 --> 00:50:44:18] Segunda coisa, eu defini bem o mercado?
+[00:50:44:23 --> 00:50:47:04] Ficou mais claro para a gente qual é o mercado?
+[00:50:47:26 --> 00:50:49:27] E a terceira, eu defini bem o público?
+[00:50:49:29 --> 00:50:51:20] Está claro para a gente qual é o nosso público?
+[00:50:52:22 --> 00:50:58:06] Aí ele vai falar, se estiver claro, vocês vão registrar que está todo mundo de acordo,
+[00:50:58:15 --> 00:51:00:15] que está aprovada essa etapa...
+[00:51:01:17 --> 00:51:05:06] Esse é o público, esse é o mercado e esse é o negócio.
+[00:51:06:01 --> 00:51:11:12] Aí sim, nós estamos prontos para entrar na etapa de estratégia.
+[00:51:12:29 --> 00:51:16:10] Antes da apresentação, eu não recomendo ir para a etapa de estratégia.
+[00:51:16:17 --> 00:51:18:17] Cada um faz as manobras que quer.
+[00:51:18:27 --> 00:51:21:18] Eu já fiz essa manobra e não gostei.
+[00:51:22:12 --> 00:51:25:22] De, ah, vou juntar estratégia, pesquisa e apresentar tudo lá no final.
+[00:51:26:01 --> 00:51:27:24] Eu tive um retrabalho desnecessário.
+[00:51:27:26 --> 00:51:30:24] Se eu tivesse feito uma horinha da semana,
+[00:51:31:03 --> 00:51:33:08] se eu tivesse reservado uma horinha
+[00:51:33:08 --> 00:51:36:02] para mostrar para o meu cliente o que eu tinha feito,
+[00:51:36:14 --> 00:51:40:08] para fazer isso daqui, criar o projeto com o cliente.
+[00:51:41:24 --> 00:51:43:04] O jogo teria sido outro.
+[00:51:44:00 --> 00:51:44:15] Definitivamente.
+[00:51:46:09 --> 00:51:49:00] E eu tenho aqui também um bônus para vocês.
+[00:51:49:10 --> 00:51:51:29] Vocês viram várias ferramentas durante esse processo
+[00:51:52:15 --> 00:51:55:21] e as ferramentas deixam a gente bem empolgado, né?
+[00:51:55:29 --> 00:52:02:08] Tem vários canvas, tem várias metodologias de design thinking, design de serviço,
+[00:52:02:13 --> 00:52:06:19] mas lembra disso daqui, mais importante do que as ferramentas são as perguntas.
+[00:52:06:25 --> 00:52:10:24] Todas as ferramentas servem para te ajudar a fazer a pergunta certa,
+[00:52:10:24 --> 00:52:16:21] Mas, no final, uma boa investigação é feita com as perguntas certas.
+[00:52:16:26 --> 00:52:20:13] Mais importante do que a resposta é fazer a pergunta certa.
+[00:52:20:27 --> 00:52:26:12] Somos nós designers que escolhemos as perguntas que nós queremos fazer e a maneira como
+[00:52:26:12 --> 00:52:28:02] nós vamos fazer essas perguntas.
+[00:52:28:10 --> 00:52:32:04] Se você faz as perguntas certas, você consegue as respostas certas.
+[00:52:32:20 --> 00:52:36:28] E isso aqui vai ser a matéria-prima para definir o núcleo da marca, a estratégia
+[00:52:36:28 --> 00:52:39:19] da marca, a identidade verbal, a identidade visual.
+[00:52:39:19 --> 00:52:45:23] nós não criamos nada do zero, nós lapidamos as coisas que já existem, elas já estão lá,
+[00:52:46:02 --> 00:52:51:04] a gente tem que aprender a enxergar elas, nossos clientes não sabem enxergar e muitas vezes não
+[00:52:51:04 --> 00:52:53:00] sabem falar da própria empresa.
+[00:52:54:06 --> 00:52:59:01] Mas é como se eles entregassem pra gente um diamante bruto, feio.
+[00:52:59:04 --> 00:53:00:09] Você já viu diamante bruto?
+[00:53:00:18 --> 00:53:02:06] Diamante bruto é assim, olha.
+[00:53:02:15 --> 00:53:03:12] Vou colocar aqui pra vocês.
+[00:53:04:19 --> 00:53:05:12] Diamante bruto.
+[00:53:07:29 --> 00:53:09:01] Hmm...
+[00:53:11:01 --> 00:53:12:12] Deixa eu ver se eu colocar diamante...
+[00:53:16:24 --> 00:53:17:23] Aqui não mostra.
+[00:53:18:23 --> 00:53:21:26] O diamante não chega lapidado assim, tá?
+[00:53:23:24 --> 00:53:28:12] Deixa eu ver diamante na natureza, vamos ver se o Google consegue entender.
+[00:53:32:24 --> 00:53:37:18] Muitas vezes, na maioria das vezes, o diamante na natureza, ele vem assim.
+[00:53:38:00 --> 00:53:41:00] Ele está dentro de uma pedra muito feia.
+[00:53:41:16 --> 00:53:47:08] Você precisa tirar o que não tem valor ali para que, no final, você consiga...
+[00:53:47:26 --> 00:53:49:09] Na verdade, eu até falei a palavra errada, não é?
+[00:53:49:10 --> 00:53:50:05] Eu falei diamante bruto.
+[00:53:50:09 --> 00:53:53:23] O diamante bruto é ele, só ele, né?
+[00:53:53:26 --> 00:53:55:14] Bruto, é puramente diamante.
+[00:53:55:26 --> 00:53:59:20] Agora, quando você encontra ele na natureza, ele não está assim.
+[00:54:00:08 --> 00:54:01:18] Ele está desse jeito aqui.
+[00:54:03:17 --> 00:54:04:02] Olha aqui.
+[00:54:05:10 --> 00:54:09:07] Olha só isso, uma pedra feia, comum, como todas as outras.
+[00:54:09:13 --> 00:54:13:22] O seu cliente te entrega a informação assim, uma pedra muito feia.
+[00:54:14:09 --> 00:54:16:13] Só que lá no meio dessa pedra feia...
+[00:54:17:13 --> 00:54:23:03] tem a informação que você precisa, tem aquela ideia que é a big idea do projeto, que às
+[00:54:23:03 --> 00:54:29:09] vezes é o nome da marca, às vezes é a chamada da marca, a identidade verbal da marca, às
+[00:54:29:09 --> 00:54:33:22] vezes é aquela ideia que vai gerar a personalidade da marca, construir o núcleo da marca para
+[00:54:33:22 --> 00:54:38:02] fazer um projeto original, um projeto diferente mesmo.
+[00:54:39:09 --> 00:54:46:00] Então isso inclusive, agora que eu já passei, isso inclusive é o ponto principal aqui
+[00:54:46:00 --> 00:54:49:08] para vocês, né, sobre a investigação e sobre o projeto inteiro.
+[00:54:49:28 --> 00:54:51:00] Eu aprendi que...
+[00:54:51:27 --> 00:54:55:18] Não são grandes projetos que são dados a grandes designers.
+[00:54:57:01 --> 00:55:00:14] grandes designers que tornam os projetos grandes.
+[00:55:01:28 --> 00:55:03:04] O que eu quero dizer com isso?
+[00:55:04:20 --> 00:55:06:27] Eu já tive a oportunidade... Vou pegar o caso da Al-Habon,
+[00:55:07:03 --> 00:55:08:01] que talvez é um caso legal.
+[00:55:09:10 --> 00:55:11:00] Quando chegou Al-Habon para mim...
+[00:55:12:10 --> 00:55:14:17] Era uma empresa que parecia...
+[00:55:14:17 --> 00:55:17:00] Era um lava jato.
+[00:55:17:08 --> 00:55:19:00] Começa aí, lavador de carro.
+[00:55:19:21 --> 00:55:21:15] Quantos designers iriam falar, cara,
+[00:55:21:18 --> 00:55:23:18] lavador de carro, que projeto é esse?
+[00:55:23:28 --> 00:55:25:21] Fazer um projeto com um lavador de carro?
+[00:55:26:20 --> 00:55:28:09] Muita gente ia pensar isso.
+[00:55:29:13 --> 00:55:31:00] Não consegue enxergar.
+[00:55:31:16 --> 00:55:32:12] Então, já começa aí.
+[00:55:33:01 --> 00:55:34:08] Era um lixo, lavador de carro.
+[00:55:34:21 --> 00:55:38:27] Segunda coisa, o logo dele era um fusquinho.
+[00:55:40:02 --> 00:55:43:14] super igual a todos os outros logos de Lava Jato.
+[00:55:44:04 --> 00:55:45:28] O que ele tinha de diferente era o nome dele.
+[00:55:47:05 --> 00:55:52:09] E aí, quando eu conversei com ele, eu vi que não era só o nome que era diferente, porque
+[00:55:52:09 --> 00:55:56:01] quando você conversa, você vê a visão da pessoa, a causa dela, o que ela quer fazer.
+[00:55:56:16 --> 00:55:59:14] Quando eu conversei com ele, eu tive a oportunidade de ver que, cara...
+[00:56:00:26 --> 00:56:03:14] Tem um diamante bruto nessa pedrona feia!
+[00:56:05:29 --> 00:56:08:26] E de fato tinha, e foi maravilhoso.
+[00:56:09:27 --> 00:56:14:17] Foi um projeto muito bom de trabalhar e que rendeu muitos frutos positivos.
+[00:56:15:09 --> 00:56:19:01] Então, às vezes, o seu cliente vai te falar as coisas mais óbvias.
+[00:56:19:27 --> 00:56:22:18] Não julgue o seu cliente por isso, porque você é especialista,
+[00:56:22:22 --> 00:56:26:10] você já vê isso o seu dia inteiro, você sabe o que é o bond design,
+[00:56:26:12 --> 00:56:27:27] o seu cliente não sabe.
+[00:56:28:24 --> 00:56:30:03] Você está ali para ajudar ele.
+[00:56:30:14 --> 00:56:34:08] E, às vezes, eles tentam expressar e não conseguem.
+[00:56:34:11 --> 00:56:36:20] Eles tentam dizer e não conseguem dizer.
+[00:56:37:27 --> 00:56:40:17] Muitos designers vão falar, nossa, esse cara não vai longe,
+[00:56:40:22 --> 00:56:43:02] ele nem sabe falar da empresa dele, as pessoas são assim, né?
+[00:56:43:02 --> 00:56:44:00] Só sabe criticar.
+[00:56:44:25 --> 00:56:47:28] Se ao invés de fazer isso você ouvir, você fazer uma boa investigação...
+[00:56:48:24 --> 00:56:50:26] você vê que tem um diamante ali.
+[00:56:51:14 --> 00:56:53:03] E você aprende a tirar esse diamante.
+[00:56:53:08 --> 00:56:55:27] Como? Com as perguntas certas.
+[00:56:57:03 --> 00:57:02:18] Investigação é saber fazer as perguntas certas, saber fazer os questionamentos certos.
+[00:57:03:00 --> 00:57:10:19] Se você faz isso de um jeito frio, com briefing, PDF, você mata a sua chance de de fato investigar.
+[00:57:12:24 --> 00:57:16:09] Imagina se o Sherlock Holmes imprimisse um formulário
+[00:57:16:09 --> 00:57:18:29] e entregasse para todo mundo na cidade e falasse assim.
+[00:57:19:19 --> 00:57:22:03] Preencham o formulário e me enviem.
+[00:57:22:09 --> 00:57:25:07] Aí depois, no final, ele tem 500 formulários.
+[00:57:25:20 --> 00:57:28:01] E aí ele começa a ler todos os formulários.
+[00:57:28:25 --> 00:57:30:11] Imagina o tempo que ele ia demorar.
+[00:57:30:26 --> 00:57:34:01] E as respostas, muitas delas, ele nem ia conseguir entender.
+[00:57:34:09 --> 00:57:38:12] Ia ter um enigma que nem o Sherlock Holmes ia conseguir desvendar.
+[00:57:38:18 --> 00:57:40:17] Porque às vezes o cliente escreve uma coisa lá que você fica assim...
+[00:57:40:19 --> 00:57:43:08] Cara, eu não entendi, foi nada que ele disse aqui.
+[00:57:44:17 --> 00:57:46:15] Não é assim que o Sherlock Holmes trabalha.
+[00:57:46:19 --> 00:57:48:05] Como o Sherlock Holmes trabalha?
+[00:57:48:14 --> 00:57:49:27] Qualquer coisa que ele mais faz,
+[00:57:50:24 --> 00:57:54:05] ele vai no lugar do crime e observa,
+[00:57:54:12 --> 00:57:55:12] detalhe por detalhe.
+[00:57:55:20 --> 00:57:57:22] Ele tem uma observação ativa.
+[00:57:58:03 --> 00:57:59:23] Não, definitivamente não é modo paisagem.
+[00:58:00:07 --> 00:58:01:15] E qualquer outra coisa que ele faz
+[00:58:01:15 --> 00:58:03:11] são as duas coisas principais que ele faz.
+[00:58:03:22 --> 00:58:06:17] Ele tem um senso, uma inteligência visual muito desenvolvida.
+[00:58:08:29 --> 00:58:11:17] Converse, ele faz as perguntas...
+[00:58:13:29 --> 00:58:17:23] Ele tá o tempo inteiro investigando, conversando com as pessoas,
+[00:58:18:17 --> 00:58:21:09] tentando entender quem tá falando a verdade, quem tá falando a mentira.
+[00:58:23:14 --> 00:58:24:16] Conversando.
+[00:58:25:08 --> 00:58:28:05] Não é fazendo um formulário para as pessoas preencherem.
+[00:58:28:11 --> 00:58:31:03] É muito fácil burlar um formulário, né?
+[00:58:32:13 --> 00:58:36:26] Então lembrem-se disso, lembrem-se do Sherlock Holmes, aqui é a hora de pegar a sua lupinha
+[00:58:36:26 --> 00:58:38:24] e ir atrás das respostas.
+[00:58:39:01 --> 00:58:44:13] Nós estamos finalizando aqui então as aulas base da etapa de investigação.
+[00:58:44:26 --> 00:58:46:01] Espero que vocês tenham curtido.
+[00:58:46:09 --> 00:58:49:12] E agora nós vamos para a etapa de estratégia.
+[00:58:49:18 --> 00:58:51:19] Então eu te vejo no próximo episódio.
+[00:58:51:28 --> 00:58:52:09] Até mais!
+[00:58:54:08 --> 00:58:57:09] Eu sei que eu tinha despedido agora, mas resolvi voltar,
+[00:58:57:21 --> 00:58:59:26] porque sempre que a gente tem essas aulas aqui,
+[00:59:00:00 --> 00:59:02:06] tem uma galera que me assiste ao vivo
+[00:59:02:27 --> 00:59:05:07] e depois eu libero um espaço para perguntas.
+[00:59:05:13 --> 00:59:08:08] E nós tivemos uma pergunta muito interessante aqui do Rona,
+[00:59:08:17 --> 00:59:11:24] e eu acho que ela vale muito para essa aula aqui de agora.
+[00:59:11:25 --> 00:59:12:18] O Rona mandou assim...
+[00:59:12:18 --> 00:59:14:19] Ruan, uma dúvida sobre essa aula.
+[00:59:15:04 --> 00:59:18:21] E quando o cliente não está no mesmo feeling que você
+[00:59:18:21 --> 00:59:22:22] para participar do projeto, como que cativa ele a participar?
+[00:59:22:22 --> 00:59:28:15] E olha que interessante, o Ronan me perguntou como que cativa o cliente a participar, mas
+[00:59:28:15 --> 00:59:32:04] eu quero voltar a etapa aqui.
+[00:59:32:20 --> 00:59:39:21] A gente teve uma aula lá no princípios e fundamentos do design, que é a aula sobre
+[00:59:39:21 --> 00:59:42:09] a valsa dos mundos, o mundo das ideias, né?
+[00:59:42:28 --> 00:59:44:18] O mundo feito de ideias, a primeira aula.
+[00:59:45:08 --> 00:59:47:13] E lá nessa aula eu falo que são boas ideias.
+[00:59:47:28 --> 00:59:53:17] E eu falo que uma boa ideia precisa ser real, ela precisa ser aplicável e lá também se
+[00:59:53:17 --> 00:59:57:22] eu não me engano é nessa aula que eu falo que é muito importante você olhar a pessoa
+[00:59:57:22 --> 01:00:02:00] por trás da ideia, porque o cemitério de boas ideias está lotado, tem muita gente
+[01:00:02:00 --> 01:00:04:19] com boa ideia morta lá, mas que não sabe aplicar ela.
+[01:00:06:14 --> 01:00:07:21] Escolha o meu projeto!
+[01:00:09:00 --> 01:00:13:00] com base na pessoa por trás do projeto também.
+[01:00:13:12 --> 01:00:14:24] Eu sempre analiso isso.
+[01:00:15:14 --> 01:00:18:10] Então, eu entendo que na hora que eu escolho um projeto,
+[01:00:18:27 --> 01:00:22:00] não é só a pessoa que está me escolhendo para trabalhar no projeto,
+[01:00:22:09 --> 01:00:25:04] mas eu estou escolhendo trabalhar com essa pessoa,
+[01:00:25:20 --> 01:00:28:04] porque eu poderia trabalhar em vários outros projetos.
+[01:00:28:09 --> 01:00:30:27] Eu definitivamente poderia escolher outros clientes.
+[01:00:31:00 --> 01:00:32:17] E quando eu vejo,
+[01:00:32:25 --> 01:00:35:06] lá no início, nas primeiras conversas,
+[01:00:35:16 --> 01:00:36:13] eu vejo...
+[01:00:36:13 --> 01:00:41:04] Isso é uma coisa que, com o tempo, você passa a desenvolver também.
+[01:00:41:15 --> 01:00:45:06] Eu consigo perceber uma pessoa que tem paixão pelo que ela faz,
+[01:00:45:14 --> 01:00:48:16] uma pessoa que está comprometida com o projeto dela
+[01:00:48:16 --> 01:00:52:17] e uma pessoa que às vezes é oportunista,
+[01:00:52:21 --> 01:00:54:23] está querendo ganhar dinheiro no mercado,
+[01:00:54:29 --> 01:00:57:07] não está nem aí, está fazendo de qualquer jeito,
+[01:00:57:16 --> 01:00:59:06] não vai se envolver com o projeto...
+[01:00:59:06 --> 01:01:01:06] Acredite em mim, você consegue perceber isso
+[01:01:01:06 --> 01:01:02:09] antes de fechar o projeto.
+[01:01:02:22 --> 01:01:04:25] E aí, antes de responder como cativar...
+[01:01:06:06 --> 01:01:09:28] É legal a gente entender que o ideal não é você cativar o seu cliente,
+[01:01:10:00 --> 01:01:11:18] a gente não está aqui para cativar ninguém.
+[01:01:11:25 --> 01:01:14:13] Se a pessoa não está envolvida no projeto dela...
+[01:01:16:12 --> 01:01:18:14] Eu não sou coach, você é coach,
+[01:01:18:16 --> 01:01:20:08] eu acho que você também não é coach, né, Ronan?
+[01:01:20:09 --> 01:01:21:18] Ronan que mandou a pergunta.
+[01:01:21:23 --> 01:01:23:25] A gente não é coach, eu não estou aqui para motivar ninguém.
+[01:01:24:03 --> 01:01:25:15] Você não quer participar do seu projeto?
+[01:01:25:25 --> 01:01:26:21] Então é problema seu.
+[01:01:26:24 --> 01:01:28:14] Eu vou atrás de pessoas que querem.
+[01:01:29:04 --> 01:01:31:10] Essa é o primeiro princípio.
+[01:01:31:13 --> 01:01:34:19] Se conectar com pessoas que têm a mesma vibração que você,
+[01:01:34:19 --> 01:01:39:06] Assim, você vai muito mais rápido, pode acreditar, muito mais rápido.
+[01:01:39:27 --> 01:01:41:17] Então, o primeiro passo é esse.
+[01:01:41:27 --> 01:01:44:23] Você também está avaliando o seu cliente.
+[01:01:45:04 --> 01:01:45:25] Observa ele.
+[01:01:46:04 --> 01:01:47:16] Por isso a conversa...
+[01:01:47:16 --> 01:01:50:09] A gente falou de conversa aqui, voltando para a conversa.
+[01:01:50:11 --> 01:01:52:21] Por isso que eu não gosto de ficar fazendo pre-briefing
+[01:01:52:21 --> 01:01:54:03] e fechar com cliente no WhatsApp.
+[01:01:54:11 --> 01:01:56:12] Eu gosto de marcar uma conversa com ele,
+[01:01:56:15 --> 01:01:57:21] que seja no Zoom, no Google Maps,
+[01:01:57:24 --> 01:02:00:04] que seja numa ligação de telefone.
+[01:02:00:12 --> 01:02:02:16] Eu gosto de ouvir e conversar.
+[01:02:02:22 --> 01:02:04:10] Entender quais são os planos dele.
+[01:02:04:19 --> 01:02:07:28] Sua empresa existe há quanto tempo? Quais são os seus planos para a sua empresa?
+[01:02:08:15 --> 01:02:11:09] Onde você quer chegar? Por que esse projeto? Por que agora?
+[01:02:11:26 --> 01:02:14:17] Você já tentou fazer isso antes? Por que deu errado?
+[01:02:14:23 --> 01:02:16:27] Por que você não tentou fazer isso antes?
+[01:02:17:07 --> 01:02:18:22] Na conversa ali, de boa.
+[01:02:19:21 --> 01:02:21:25] E aí eu estou coletando pistas. Eu estou vendo.
+[01:02:22:15 --> 01:02:25:16] No final, se eu vejo que essa pessoa não está alinhada comigo,
+[01:02:25:28 --> 01:02:30:15] eu falo, olha, foi muito legal te conhecer, foi muito legal saber mais sobre o seu projeto,
+[01:02:31:11 --> 01:02:33:27] mas eu acredito que eu não estou alinhado com ele.
+[01:02:33:27 --> 01:02:39:01] Eu vou te indicar outros colegas meus, outros designers que também fazem excelente trabalho,
+[01:02:39:17 --> 01:02:44:15] que podem te ajudar, mas no momento eu estou focado em outros tipos de projetos e não
+[01:02:44:15 --> 01:02:45:26] vou conseguir te atender, pronto.
+[01:02:46:22 --> 01:02:50:12] Saber falar não galera é muito importante, muito, muito, muito importante.
+[01:02:50:24 --> 01:02:55:19] Saber selecionar os seus projetos, porque a gente tem uma vida só e só 24 horas
+[01:02:55:19 --> 01:02:59:03] por dia, você tem que escolher em quem você vai investir também.
+[01:02:59:27 --> 01:03:05:10] Uma coisa que legal, tá? Desconectando um pouquinho, mas eu prometo que tá conectado.
+[01:03:05:22 --> 01:03:09:20] Esses dias eu tava pensando sobre isso. Quando você fecha um projeto com alguém,
+[01:03:10:12 --> 01:03:14:08] você tem a parte boa. Qual que é a parte boa? Você vai receber por isso. Legal.
+[01:03:15:06 --> 01:03:21:24] Mas você já parou pra pensar que cada projeto que você fecha é também uma dívida que você fecha.
+[01:03:22:07 --> 01:03:25:09] Essa dívida só não é em dinheiro, mas é uma dívida.
+[01:03:25:09 --> 01:03:29:10] Porque até entregar o projeto, você está comprometido com ele.
+[01:03:29:18 --> 01:03:34:24] Você não pode fazer outras dívidas, porque você tem aquela dívida para ser paga.
+[01:03:35:05 --> 01:03:37:21] Enquanto o projeto não está pronto, é uma nova dívida.
+[01:03:38:19 --> 01:03:39:24] Todo mundo tem esse conceito, né?
+[01:03:40:03 --> 01:03:41:11] Qual é o segredo para enriquecer?
+[01:03:41:13 --> 01:03:45:10] Primeiro passo, acabar com as suas dívidas para que você comece a enriquecer.
+[01:03:45:25 --> 01:03:49:03] Quando você pega um projeto, esse projeto é uma dívida.
+[01:03:49:15 --> 01:03:50:24] Por mais que você vai receber...
+[01:03:51:26 --> 01:03:53:13] Então, lembra sempre disso.
+[01:03:53:19 --> 01:03:55:06] Essa é a primeira coisa que eu falo para vocês.
+[01:03:55:23 --> 01:03:58:28] Aprendam a analisar o seu cliente antes.
+[01:03:59:10 --> 01:04:00:21] Antes de fechar o projeto com ele.
+[01:04:01:07 --> 01:04:03:09] Tenham um livro que chama Essencialismo.
+[01:04:03:15 --> 01:04:04:09] Vou pegar ele aqui para vocês.
+[01:04:04:12 --> 01:04:04:19] Um minuto.
+[01:04:10:22 --> 01:04:16:28] Esse livrinho aqui ó, não sei se vai aparecer invertido, Essencialismo, do Greg McKeon,
+[01:04:17:03 --> 01:04:19:01] não sei se é assim que fala o nome dele.
+[01:04:19:17 --> 01:04:23:19] Mas é um livro muito bom, e esse livro, a base dele, é um livro que te ensina a
+[01:04:23:19 --> 01:04:26:27] falar não, e ele te mostra como que você tem que aprender a falar.
+[01:04:28:18 --> 01:04:31:22] Não rápido, e sim lento.
+[01:04:32:11 --> 01:04:33:05] Esse é o princípio dele.
+[01:04:33:13 --> 01:04:35:12] Não rápido, sim lento.
+[01:04:36:12 --> 01:04:38:21] Tá inclinado a falar sim pra um projeto?
+[01:04:39:26 --> 01:04:45:17] Fale com calma, dê um sim lento, não tome a decisão precipitada, sim lento, com calma.
+[01:04:46:18 --> 01:04:48:19] Está inclinado a não fazer o projeto?
+[01:04:49:00 --> 01:04:51:02] Não rápido, fala não o quanto antes.
+[01:04:51:17 --> 01:04:53:06] É um projeto que você já não está curtindo?
+[01:04:53:10 --> 01:04:55:18] Fala não o quanto antes desse projeto.
+[01:04:56:10 --> 01:04:59:25] É um projeto que você está inclinado, sim, lento, devagar.
+[01:04:59:28 --> 01:05:02:05] Então essa é a primeira coisa que eu tenho para te falar.
+[01:05:02:27 --> 01:05:04:25] Então como que cativa ele a participar?
+[01:05:05:00 --> 01:05:06:06] Eu prefiro a outra lógica.
+[01:05:06:09 --> 01:05:08:06] Eu não estou aqui para ser coach de ninguém
+[01:05:08:06 --> 01:05:09:09] e para cativar ninguém.
+[01:05:09:12 --> 01:05:11:14] Se a pessoa não está envolvida com o projeto...
+[01:05:12:21 --> 01:05:15:06] Não somos nós... A empresa não é nossa.
+[01:05:15:17 --> 01:05:16:05] Começa aí.
+[01:05:17:01 --> 01:05:18:08] Não é sua, não é minha.
+[01:05:18:24 --> 01:05:21:00] Não é o nosso papel, virar coach.
+[01:05:21:25 --> 01:05:22:13] Então...
+[01:05:23:13 --> 01:05:24:29] Essa é a minha resposta para as perguntas
+[01:05:24:29 --> 01:05:26:14] e é uma pergunta muito importante,
+[01:05:26:25 --> 01:05:28:24] porque essa é uma armadilha que é muito fácil de cair.
+[01:05:28:26 --> 01:05:32:01] Eu já caí nela várias vezes, vários membros já caíram.
+[01:05:32:06 --> 01:05:34:20] Inclusive, quando o Ronan mandou essa dúvida,
+[01:05:35:04 --> 01:05:37:07] o Mersão já falou que é uma boa pergunta,
+[01:05:37:17 --> 01:05:38:26] a Nath falou que é uma boa pergunta,
+[01:05:39:06 --> 01:05:41:12] então a galera está se identificando com o que ele falou
+[01:05:41:12 --> 01:05:42:26] e eu também me identifiquei.
+[01:05:42:27 --> 01:05:44:22] Por isso que eu voltei aqui para gravar essa parte
+[01:05:44:22 --> 01:05:46:28] e colocar para vocês na gravação.
+[01:05:47:09 --> 01:05:48:21] É muito comum cair nesse erro.
+[01:05:49:01 --> 01:05:52:07] Mas pensa, a sua missão não é cativar o cliente a participar.
+[01:05:53:11 --> 01:05:58:17] O que eu faria se eu fiz uma análise, fechei o projeto e agora eu tenho que cativar o
+[01:05:58:17 --> 01:05:59:06] cliente?
+[01:05:59:07 --> 01:06:00:25] Eu iria ter uma conversa com ele.
+[01:06:01:07 --> 01:06:06:17] E a minha conversa seria basicamente essa, olha, para que esse projeto aconteça, eu
+[01:06:06:17 --> 01:06:08:09] preciso do seu envolvimento.
+[01:06:08:22 --> 01:06:13:18] Se você não está envolvido com seu próprio projeto, não tem como eu seguir daqui.
+[01:06:14:10 --> 01:06:17:26] E eu prefiro falar, não, a gente encerra aqui e acabou.
+[01:06:18:17 --> 01:06:24:11] Se eu não tiver a sua colaboração ou que seja alguém da sua equipe, porque tá tudo
+[01:06:24:11 --> 01:06:24:16] bem.
+[01:06:24:19 --> 01:06:28:19] Às vezes, por exemplo, o CEO não pode participar de todas as etapas, mas ele tem um diretor
+[01:06:28:19 --> 01:06:29:04] de marketing.
+[01:06:29:20 --> 01:06:32:14] Ele tem um líder que pode participar e tomar as decisões pra ele.
+[01:06:32:22 --> 01:06:34:18] Você precisa de alguém interno lá.
+[01:06:35:04 --> 01:06:39:13] Se não tem essa pessoa, adiós, hasta lá vista, baby.
+[01:06:40:01 --> 01:06:43:23] Tem muitas oportunidades no mercado, galera, de verdade.
+[01:06:45:04 --> 01:06:49:02] Tem muita oportunidade para vocês venderem a sua alma para alguém que não quer participar.
+[01:06:49:16 --> 01:06:50:08] Essa é uma opção.
+[01:06:50:19 --> 01:06:53:15] Tem uma outra opção também que eu preciso ser sincero com vocês.
+[01:06:53:19 --> 01:06:57:01] Eu já segui essa opção algumas vezes e não tem nada de errado com ela, mas sabe
+[01:06:57:01 --> 01:06:57:22] qual que é essa opção?
+[01:06:58:20 --> 01:07:02:01] O cliente não está interessado, então eu vou cumprir tabela, pegar o meu dinheiro
+[01:07:02:01 --> 01:07:02:21] e é isso.
+[01:07:03:07 --> 01:07:06:06] Eu me sinto mal quando eu faço isso, mas às vezes eu faço.
+[01:07:06:23 --> 01:07:08:08] Fechei o projeto com o cliente.
+[01:07:08:13 --> 01:07:10:25] Na metade do projeto, o cliente começou a ficar...
+[01:07:11:15 --> 01:07:12:08] Sabe o que eu faço?
+[01:07:12:08 --> 01:07:14:26] Eu entrego a minha parte o quanto antes para acabar o projeto,
+[01:07:15:06 --> 01:07:16:21] receber o que eu tenho para receber e ir para o próximo.
+[01:07:17:27 --> 01:07:20:25] Por quê? Se o cliente não tá envolvido.
+[01:07:21:20 --> 01:07:27:12] Você não tá ali, cara, pra poder fazer a consultoria da empresa dele pra dar certo.
+[01:07:28:16 --> 01:07:31:05] Por isso que eu falo que o que faz uma ideia dar certo
+[01:07:31:05 --> 01:07:32:26] é a pessoa por trás da ideia.
+[01:07:33:06 --> 01:07:34:17] A pessoa que vai colocar em prática,
+[01:07:34:21 --> 01:07:37:07] a pessoa que está envolvida e vai fazer aquilo acontecer.
+[01:07:37:17 --> 01:07:40:10] Porque de boa ideia, todo mundo consegue ter uma boa ideia,
+[01:07:40:11 --> 01:07:43:04] mas fazer aquela ideia virar realidade não é todo mundo.
+[01:07:43:14 --> 01:07:45:17] Então, nós também estamos aqui para escolher os clientes
+[01:07:45:17 --> 01:07:46:23] que nós queremos atender.
+[01:07:47:07 --> 01:07:48:20] Tá bom? Só mais um detalhe.
+[01:07:49:01 --> 01:07:51:18] Isso não quer dizer que você vai tornar a vida do seu cliente um inferno.
+[01:07:51:22 --> 01:07:54:01] Ele está te contratando para resolver o problema dele.
+[01:07:54:22 --> 01:07:57:04] Ele não está te contratando para você dar mais trabalho para ele,
+[01:07:57:04 --> 01:08:00:07] Então, a gente também não quer gerar esse efeito no cliente, sabe?
+[01:08:00:10 --> 01:08:03:25] Tipo, eu contratei o cara e eu estou tendo que fazer tudo.
+[01:08:04:08 --> 01:08:05:16] Então, para que eu estou contratando?
+[01:08:05:18 --> 01:08:07:29] Eu quero que ele faça o projeto para mim, porque eu estou pagando ele.
+[01:08:08:10 --> 01:08:10:15] Essa lógica também a gente precisa ficar atento com ela.
+[01:08:10:23 --> 01:08:12:05] Quando eu falo envolver o cliente,
+[01:08:12:08 --> 01:08:15:23] não é pedir o cliente para escrever um texto de como a empresa funciona,
+[01:08:16:00 --> 01:08:17:09] um texto de duas páginas,
+[01:08:17:14 --> 01:08:20:04] ou pedir ele para ficar respondendo aquele tanto de pergunta chata
+[01:08:20:04 --> 01:08:20:29] dando trabalho para ele.
+[01:08:21:09 --> 01:08:25:01] Envolver o cliente na maior parte da Z significa conversa.
+[01:08:25:28 --> 01:08:26:23] Conversa.
+[01:08:26:27 --> 01:08:30:16] E se você puder tornar esse processo mais simples possível para ele,
+[01:08:30:21 --> 01:08:32:09] melhor, que seja uma ligação,
+[01:08:32:24 --> 01:08:35:10] que seja um link, você envia para ele o link do Google e fala,
+[01:08:35:13 --> 01:08:38:07] é só entrar, eu preciso te ouvir.
+[01:08:38:12 --> 01:08:39:17] É isso que você precisa.
+[01:08:40:10 --> 01:08:43:15] Então, se você pode tornar mais simples para ele, isso é bom.
+[01:08:43:21 --> 01:08:46:16] Às vezes, também a gente confunde que o cliente não está engajado,
+[01:08:46:25 --> 01:08:51:25] mas muitas vezes nós que estamos colocando todo o peso da balança nele,
+[01:08:52:01 --> 01:08:53:19] pensa, se coloca no lugar do cliente também,
+[01:08:53:19 --> 01:08:57:06] Contratei o designer e ele está me mandando um tanto de formulário
+[01:08:57:06 --> 01:08:58:25] com pergunta para responder,
+[01:08:59:21 --> 01:09:01:15] parecendo prova de faculdade.
+[01:09:02:03 --> 01:09:05:04] Eu contratei o cara e ele está me mandando prova de faculdade.
+[01:09:05:13 --> 01:09:08:16] Olha como é diferente se você focar nas reuniões, por exemplo,
+[01:09:08:25 --> 01:09:11:13] na conversa, ele vai entender, ele precisa me ouvir, precisa falar.
+[01:09:12:01 --> 01:09:16:03] Então, tente tornar o processo também o mais simples possível para o seu cliente.
+[01:09:16:19 --> 01:09:19:16] Não quer dizer que o cliente não está envolvido
+[01:09:19:16 --> 01:09:21:21] porque ele não está fazendo as paradas.
+[01:09:21:21 --> 01:09:23:04] Não, o cliente não é seu escravo.
+[01:09:23:10 --> 01:09:25:13] Quando eu falo trabalho com o seu cliente,
+[01:09:25:18 --> 01:09:28:12] eu quero dizer principalmente sobre a conversa
+[01:09:28:12 --> 01:09:30:18] e envolver a lente dele.
+[01:09:30:25 --> 01:09:31:20] Tá bom? Então é isso.

@@ -1,0 +1,91 @@
+# Video: aula_06_v1 (360p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 10:46
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:01 --> 00:00:07:07] Agora eu quero te mostrar como você pode recuperar tempo e economizar muito dinheiro com as inteligências artificiais.
+[00:00:07:12 --> 00:00:13:07] Mas para que isso aconteça, é importante que você entenda o modelo de negócio das inteligências artificiais.
+[00:00:13:21 --> 00:00:18:06] Basicamente, a principal moeda do mundo hoje são os dados.
+[00:00:18:14 --> 00:00:25:01] As empresas que mais têm dados têm mais chances de construir modelos de ar mais poderosos,
+[00:00:25:01 --> 00:00:30:04] porque conseguem usar essa base de dados para treinar os modelos e conseguir resultados cada vez maiores.
+[00:00:30:09 --> 00:00:34:03] O desafio é que eles já rasparam toda a internet.
+[00:00:34:09 --> 00:00:39:28] Agora muitos trabalham com dados sintéticos, ou seja, geram dados com inteligência artificial
+[00:00:39:28 --> 00:00:42:09] para alimentar a própria inteligência artificial.
+[00:00:42:23 --> 00:00:48:10] Ou, o que é o principal, precisam de usuários que utilizem as plataformas
+[00:00:48:10 --> 00:00:51:09] para que gerem mais dados que eles possam utilizar.
+[00:00:51:09 --> 00:01:00:22] Ou seja, as principais ferramentas de inteligência artificial do mundo querem que você utilize elas para que você gere mais dados e elas continuem treinando.
+[00:01:01:00 --> 00:01:02:26] Aqui a gente já tem um ponto de atenção.
+[00:01:03:04 --> 00:01:10:04] As IAs mais poderosas do mundo hoje também são das empresas que mais possuem dados no mundo hoje.
+[00:01:10:04 --> 00:01:22:00] Então nós temos a Meta, como a empresa que mais tem dados no mundo hoje, nós temos o Google, nós temos também a ByteDance, a OpenAI, o Cloud e muitas outras.
+[00:01:22:12 --> 00:01:33:28] Essas empresas, elas investem muito nessa quantidade de dados e elas querem que você assine para sustentar os custos com servidores e querem que você utilize o máximo que você puder.
+[00:01:33:28 --> 00:01:37:03] É por isso que esses modelos possuem versões gratuitas.
+[00:01:37:03 --> 00:01:41:06] Você está comprando o seu acesso e entregando dados para eles.
+[00:01:41:28 --> 00:01:46:26] Acontece que ainda assim existe um custo muito alto para manter esses servidores.
+[00:01:47:00 --> 00:01:51:10] E o que eles acabam fazendo é limitando o seu uso nas versões gratuitas.
+[00:01:51:11 --> 00:01:58:00] Ou seja, você consegue utilizar modelos que são mais fracos e vão trazer resultados inferiores.
+[00:01:58:18 --> 00:02:02:23] Enquanto se você assinasse, você conseguiria utilizar modelos com resultado melhor.
+[00:02:02:23 --> 00:02:06:12] E olha, vai por mim, a diferença é grande.
+[00:02:06:22 --> 00:02:09:26] Geralmente as pessoas acham que documentação é coisa para desenvolvedor,
+[00:02:09:27 --> 00:02:12:15] mas na verdade é o melhor caminho para entender a ferramenta.
+[00:02:12:19 --> 00:02:17:13] É um manual passo a passo escrito pelas próprias pessoas que criaram as ferramentas.
+[00:02:17:15 --> 00:02:18:24] Então vamos dar uma olhada nisso aqui.
+[00:02:18:25 --> 00:02:24:08] Você pode, por exemplo, digitar aqui chat GPT Documentation.
+[00:02:24:09 --> 00:02:27:18] Ele vai te entregar vários sites, você vem nesse aqui API Platform,
+[00:02:28:07 --> 00:02:32:11] clica aqui em Comece a Criar e você vai cair na plataforma da OpenAI
+[00:02:32:11 --> 00:02:37:03] com uma apostila completa aqui sobre o uso do ChatGPT.
+[00:02:37:05 --> 00:02:42:25] Aqui você vai ter cada um dos modelos e se você entrar, você tem aqui as vantagens e os custos dele
+[00:02:42:25 --> 00:02:47:16] para quem for utilizar a API, por exemplo, se você for assinar, você não tem esses custos aqui.
+[00:02:47:24 --> 00:02:54:21] Tem também um manual de geração de textos, de imagem, de áudio e por aí vai.
+[00:02:54:22 --> 00:02:57:24] Talvez você esteja olhando para esse e fale, nossa, é muito avançado para mim,
+[00:02:57:24 --> 00:03:00:09] você clicou aqui em texto e já apareceu um monte de código.
+[00:03:00:09 --> 00:03:07:03] de código o que eu quero te dizer é insista não sinta que não é para você mesmo que parece que
+[00:03:07:03 --> 00:03:11:24] tem esse tanto de código se nós descermos aqui para baixo você tem a construção de agentes e
+[00:03:11:24 --> 00:03:17:09] o passo a passo de como executá-las geração de imagens entende também como que elas funcionam
+[00:03:17:09 --> 00:03:22:24] e por aí vai isso funciona com qualquer modelo que se preze por exemplo se eu digitar aqui meet
+[00:03:22:24 --> 00:03:28:25] journey documentation eu vou encontrar também a documentação do Meet journey e tem todo o passo
+[00:03:28:25 --> 00:03:30:24] passo a passo aqui. Então, tem o guia
+[00:03:30:24 --> 00:03:32:19] para começar, engenharia de
+[00:03:32:19 --> 00:03:34:22] prompts, como escrever prompts básicos
+[00:03:34:22 --> 00:03:36:20] e por aí vai. Ah, Juan, mas em inglês
+[00:03:36:20 --> 00:03:38:18] eu não sei ler em inglês. Usa o navegador
+[00:03:38:18 --> 00:03:40:25] aqui, olha, traduz para o português e vai funcionar
+[00:03:41:20 --> 00:03:42:07] perfeitamente.
+[00:03:42:27 --> 00:03:44:02] Não tem nenhum
+[00:03:44:21 --> 00:03:46:07] impedimento para você aprender
+[00:03:46:07 --> 00:03:48:22] como utilizar qualquer IA com essas
+[00:03:48:22 --> 00:03:50:23] ferramentas. Tudo que nós
+[00:03:50:23 --> 00:03:52:15] vemos aqui, nesses 60 minutos,
+[00:03:52:18 --> 00:03:54:16] serve para te dar uma visão geral
+[00:03:54:16 --> 00:03:57:04] desse universo das inteligências artificiais.
+[00:03:57:22 --> 00:04:03:13] Somente com isso que eu te passei aqui, você já é capaz de aprender qualquer ferramenta de inteligência artificial,
+[00:04:03:22 --> 00:04:09:28] seja para texto, imagem, vídeo, música, criação de agentes, pesquisa avançada e por aí vai.
+[00:04:10:11 --> 00:04:16:13] Recomendo você, se não viu ainda, ver os playbooks, porque lá você tem um passo a passo para cada uma dessas áreas,
+[00:04:16:15 --> 00:04:22:05] além do mapa que mostra para você, separado por categoria, quais são as principais ferramentas.
+[00:04:22:05 --> 00:04:29:24] Agora, se você quer dar um passo além, quer avançar e quer aprender como criar automações conectando vários agentes de inteligência artificial,
+[00:04:30:05 --> 00:04:38:13] como gerar imagens, vídeos, músicas, textos que envolvem as pessoas, aprendendo aí os fundamentos por trás de cada uma dessas mídias.
+[00:04:38:13 --> 00:04:46:10] Se você quer se aprofundar agora que você entendeu onde está o verdadeiro diferencial, eu quero te convidar para conhecer a Overlens.
+[00:04:46:10 --> 00:04:56:12] Se esses 60 minutos foram valiosos para você, imagina o que você pode conseguir com mais de 300 horas de conteúdo para te preparar para o futuro em que nós estamos entrando.
+[00:04:57:00 --> 00:05:06:21] Diferente desses cursos por aí que vão te ensinar ferramentas como clicar em botões, a Overlens é um lugar para quem quer desenvolver as habilidades das pessoas que vão criar o futuro.
+[00:05:07:00 --> 00:05:13:09] Agora que você chegou até aqui, você pode preencher o teste para provar o seu conhecimento e resgatar o seu certificado.
+[00:05:13:09 --> 00:05:17:23] Lembrando que o certificado numerado é apenas para as 321 primeiras pessoas,
+[00:05:17:27 --> 00:05:23:12] mas mesmo que esses certificados tenham acabado, você ainda consegue gerar aqui o seu certificado tradicional.
+[00:05:23:24 --> 00:05:29:21] O que fica agora é a atitude, a sua ação de pegar tudo isso que você aprendeu aqui,
+[00:05:29:24 --> 00:05:35:22] colocar em prática para começar a realizar as ideias que importam para começar a construir o seu próprio futuro.
+[00:05:35:22 --> 00:05:53:18] Se você quiser mais profundidade, quiser entender daí quais são os fundamentos, os fatos, os procedimentos em cada uma dessas áreas, mergulhar no que faz sentido para você e o principal, desenvolver as habilidades nexialistas que vão te preparar para o futuro, eu te convido a conhecer a Overlens.
+[00:05:53:18 --> 00:06:02:24] Para te incentivar ainda mais a fazer isso, eu quero devolver o valor que você investiu no protocolo 321 em um desconto para assinar o Overpass,
+[00:06:02:27 --> 00:06:06:27] que é a assinatura anual do Overlens que vai te dar acesso a mais de 300 horas de conteúdo,
+[00:06:07:12 --> 00:06:13:00] aprofundando em muitos dos conceitos que eu te mostrei aqui e vários outros que não deu tempo de te mostrar.
+[00:06:13:12 --> 00:06:17:28] Toca no link que está aparecendo aqui embaixo desse vídeo, entenda melhor como o Overpass funciona,
+[00:06:17:28 --> 00:06:22:24] funciona e se você tiver interesse aplique o cupom que você vai ganhar de desconto o valor que você
+[00:06:22:24 --> 00:06:27:28] investiu no protocolo 321 para fazer a sua assinatura e para resgatar esse cupom é muito
+[00:06:27:28 --> 00:06:33:06] simples é só mandar uma mensagem lá no Instagram da overlens com seu e-mail cadastrado aqui e
+[00:06:33:06 --> 00:06:38:16] solicitando o cupom falando que você chegou até o final do protocolo 321 assim um dos membros da
+[00:06:38:16 --> 00:06:44:04] nossa equipe vai entrar em contato com você e vai aplicar o cupom dentro da sua assinatura eu não
+[00:06:44:04 --> 00:06:48:18] Não sei por quanto tempo eu vou deixar esse presente disponível, mas o fato é que ele está disponível agora.
+[00:06:48:27 --> 00:06:54:24] Então toca aqui no link embaixo do Instagram da Overlens, manda mensagem lá, porque está na hora de dar o próximo passo.
+[00:06:55:05 --> 00:06:57:25] Espero que você tenha aproveitado ao máximo o protocolo 321.
+[00:06:57:29 --> 00:07:01:16] E lembre-se, esse é apenas mais um passo na direção do seu futuro.
+[00:07:01:22 --> 00:07:04:10] Um grande abraço e eu espero te ver muito em breve.

@@ -1,0 +1,1880 @@
+1
+00:00:00,092 --> 00:00:01,952
+você vai fazer um ensaio com um bom
+
+2
+00:00:01,952 --> 00:00:04,092
+fotógrafo, a primeira coisa que ele vai fazer
+
+3
+00:00:04,092 --> 00:00:05,572
+é conversar com você.
+
+4
+00:00:05,952 --> 00:00:08,192
+Então ele vai querer entender. Vai fazer uma reunião
+
+5
+00:00:08,192 --> 00:00:10,072
+com você pra montar o quê? O briefing.
+
+6
+00:00:10,512 --> 00:00:12,212
+Que tipo de ensaio a gente vai fazer?
+
+7
+00:00:12,272 --> 00:00:14,032
+Por quê? Cara, é possível ir
+
+8
+00:00:14,032 --> 00:00:15,672
+em qualquer direção, né?
+
+9
+00:00:15,792 --> 00:00:18,152
+Você pode fazer fotos de qualquer tipo. Fotografia
+
+10
+00:00:18,152 --> 00:00:19,892
+é uma arte com muitos estilos,
+
+11
+00:00:19,892 --> 00:00:22,192
+muitas possibilidades, cheio de decisões
+
+12
+00:00:22,192 --> 00:00:23,992
+que você pode tomar. E aí
+
+13
+00:00:23,992 --> 00:00:26,292
+dentro desse briefing, como que geralmente
+
+14
+00:00:26,292 --> 00:00:28,292
+acontece? Com o Daniel
+
+15
+00:00:28,292 --> 00:00:30,392
+funcionou sim, ele quis entender um pouco
+
+16
+00:00:30,392 --> 00:00:32,272
+da minha história, o que eu fazia, qual era
+
+17
+00:00:32,272 --> 00:00:34,112
+o meu posicionamento, queria entender
+
+18
+00:00:34,112 --> 00:00:35,832
+também um pouco melhor sobre
+
+19
+00:00:37,756 --> 00:00:38,856
+Sobre o projeto em si.
+
+20
+00:00:38,916 --> 00:00:40,636
+Para que essas fotos vão ser utilizadas?
+
+21
+00:00:40,716 --> 00:00:41,596
+Então, vamos fazer o seguinte.
+
+22
+00:00:42,156 --> 00:00:44,796
+Eu vou colocar aqui um Google Docs.
+
+23
+00:00:45,556 --> 00:00:49,076
+A galera que conhece sabe que eu gosto de usar o Google Docs para dar aula aqui.
+
+24
+00:00:49,796 --> 00:00:50,996
+Vamos pegar um Google Docs aqui.
+
+25
+00:00:51,056 --> 00:00:52,336
+Vou chamar isso aqui de Briefing.
+
+26
+00:00:53,196 --> 00:00:55,956
+Eu só estou fazendo no Google Docs porque eu ainda não ensinei para vocês
+
+27
+00:00:56,716 --> 00:00:57,856
+montar os agentes de AI.
+
+28
+00:00:57,896 --> 00:01:00,116
+Eu não vou fazer isso agora porque mais vai confundir do que ajudar.
+
+29
+00:01:00,616 --> 00:01:04,936
+Mas minha vontade era já pegar o Cloud Code aqui e começar a usar ele.
+
+30
+00:01:05,256 --> 00:01:05,716
+Mas vamos lá.
+
+31
+00:01:05,736 --> 00:01:07,216
+Então, a gente vai montar o nosso Briefing aqui.
+
+32
+00:01:07,756 --> 00:01:12,176
+colocar ele aqui no título, briefing, ensaio fotográfico.
+
+33
+00:01:12,396 --> 00:01:15,936
+E aí dentro do briefing, então, vem alguns pontos importantes.
+
+34
+00:01:16,036 --> 00:01:19,236
+Aqui eu vou resumir direto no projeto.
+
+35
+00:01:19,616 --> 00:01:23,436
+Então, qual é o objetivo do projeto?
+
+36
+00:01:23,936 --> 00:01:25,856
+Esse é um já que entra aqui.
+
+37
+00:01:26,056 --> 00:01:27,436
+Qual é o objetivo do projeto?
+
+38
+00:01:28,860 --> 00:01:35,900
+Aqui no caso eu quero, vamos colocar aqui, né, gerar, vou até fazer assim, fazer um ensaio fotográfico.
+
+39
+00:01:37,212 --> 00:01:38,412
+gráfico com
+
+40
+00:01:38,412 --> 00:01:40,772
+de imagens
+
+41
+00:01:40,772 --> 00:01:41,732
+para utilizar
+
+42
+00:01:43,676 --> 00:01:44,856
+como anúncios.
+
+43
+00:01:46,396 --> 00:01:48,256
+anúncios nas redes sociais.
+
+44
+00:01:49,056 --> 00:01:50,316
+Eu vou fazer bem curto aqui,
+
+45
+00:01:50,356 --> 00:01:51,756
+que a gente vai enriquecer isso com o IAR,
+
+46
+00:01:51,776 --> 00:01:52,756
+vai ser melhor ainda, tá?
+
+47
+00:01:55,132 --> 00:01:55,512
+Cola aqui.
+
+48
+00:01:57,020 --> 00:01:58,180
+Beleza, então qual o objetivo?
+
+49
+00:01:58,440 --> 00:02:00,800
+Aí você fala, eu também acho muito legal fazer isso aqui,
+
+50
+00:02:00,880 --> 00:02:03,520
+você pode abrir o seu telefone,
+
+51
+00:02:05,120 --> 00:02:07,660
+estou pensando aqui, eu acho que para vocês vai ser melhor fazer aqui,
+
+52
+00:02:07,780 --> 00:02:10,800
+vai dando uma ansiedade, eu admito isso para vocês,
+
+53
+00:02:11,300 --> 00:02:13,580
+às vezes vai me dando uma ansiedade ficar digitando aqui,
+
+54
+00:02:14,340 --> 00:02:16,320
+estou fazendo muita coisa no áudio.
+
+55
+00:02:17,756 --> 00:02:19,516
+Então, qual é o objetivo do projeto?
+
+56
+00:02:19,836 --> 00:02:21,276
+Vou fazer assim para a gente ir organizando.
+
+57
+00:02:21,376 --> 00:02:23,016
+Depois que você falou o objetivo do projeto,
+
+58
+00:02:23,056 --> 00:02:24,196
+onde vai usar as imagens,
+
+59
+00:02:24,616 --> 00:02:27,836
+recomendo falar aqui também sobre posicionamento,
+
+60
+00:02:27,836 --> 00:02:30,036
+recomendo falar sobre identidade,
+
+61
+00:02:31,276 --> 00:02:32,296
+marca pessoal, né?
+
+62
+00:02:32,296 --> 00:02:33,856
+Vamos colocar assim, marca pessoal,
+
+63
+00:02:34,616 --> 00:02:35,876
+da pessoa que vai falar aqui.
+
+64
+00:02:36,576 --> 00:02:37,696
+Personalidade conta muito.
+
+65
+00:02:38,096 --> 00:02:39,656
+Então, quando eu conversei com o Daniel Meg,
+
+66
+00:02:40,156 --> 00:02:42,136
+ele me contou, ele me perguntava
+
+67
+00:02:42,136 --> 00:02:43,616
+qual era a sua personalidade e tal.
+
+68
+00:02:43,656 --> 00:02:45,076
+Vou trazer aqui a minha para vocês, né?
+
+69
+00:02:45,076 --> 00:02:46,676
+né? O meu MBTI,
+
+70
+00:02:47,376 --> 00:02:48,536
+quem não conhece, esses aqui são
+
+71
+00:02:48,936 --> 00:02:50,416
+testes de personalidade bem legais.
+
+72
+00:02:50,716 --> 00:02:51,696
+Meu MBTI,
+
+73
+00:02:52,496 --> 00:02:54,776
+ele deu esse aqui, ó, tem um site que eu
+
+74
+00:02:54,776 --> 00:02:55,956
+gosto mais, deixa eu ver se é esse.
+
+75
+00:02:56,416 --> 00:02:57,956
+Isso, esse mesmo, dos bonequinhos.
+
+76
+00:02:58,456 --> 00:03:00,776
+O meu é o, cadê ele? Esse aqui,
+
+77
+00:03:00,896 --> 00:03:02,816
+ó, vocês acreditam? Ativista.
+
+78
+00:03:03,676 --> 00:03:04,856
+Animados, criativos, sociáveis
+
+79
+00:03:04,856 --> 00:03:06,716
+e de espírito livre, sempre encontrando
+
+80
+00:03:06,716 --> 00:03:07,596
+motivo pra sorrir.
+
+81
+00:03:08,732 --> 00:03:09,512
+Então, olha só que interessante.
+
+82
+00:03:10,272 --> 00:03:11,792
+Aqui você encontra esses perfis.
+
+83
+00:03:11,792 --> 00:03:13,952
+Você pode fazer um teste de personalidade seu também
+
+84
+00:03:13,952 --> 00:03:15,192
+e conhecer mais sobre você.
+
+85
+00:03:15,452 --> 00:03:16,272
+Então, esse aqui é o meu.
+
+86
+00:03:16,392 --> 00:03:19,812
+Eu posso pegar aqui meu teste de personalidade, então, se eu quiser.
+
+87
+00:03:19,852 --> 00:03:22,952
+Dá para poder pedir para ir fazer um scrap disso aqui.
+
+88
+00:03:23,152 --> 00:03:24,412
+Mas eu só vou colocar aqui, ó.
+
+89
+00:03:24,492 --> 00:03:25,172
+É NFP.
+
+90
+00:03:26,204 --> 00:03:29,904
+Vou colocar aqui o meu, depois a gente usa isso aqui com o Iaça,
+
+91
+00:03:29,964 --> 00:03:30,644
+vocês vão ver que é interessante.
+
+92
+00:03:31,144 --> 00:03:36,124
+Eu também fiz o meu Big Five, que é o teste que é mais aprovado
+
+93
+00:03:36,124 --> 00:03:39,824
+cientificamente, de teste de personalidade, é o mais aceito.
+
+94
+00:03:39,904 --> 00:03:43,624
+Que é isso aqui, Big Five Text, Text não, né, Teste.
+
+95
+00:03:43,864 --> 00:03:47,124
+O que você faz também é rapidinho, eu já fiz o meu,
+
+96
+00:03:47,204 --> 00:03:51,284
+e dentro do meu Big Five, o meu maior do Big Five é
+
+97
+00:03:51,284 --> 00:03:56,024
+é alta abertura à experiência e...
+
+98
+00:03:57,532 --> 00:04:01,332
+Tem aqui também baixo neuroticismo.
+
+99
+00:04:01,492 --> 00:04:05,972
+Tem os outros também, mas esses são os traços mais marcantes ali do meu Big Five.
+
+100
+00:04:06,172 --> 00:04:07,652
+Então, tem personalidade.
+
+101
+00:04:07,912 --> 00:04:11,192
+Marca pessoal, eu poderia colocar aqui também, Juan Brás.
+
+102
+00:04:13,660 --> 00:04:16,180
+Um designer nexialista.
+
+103
+00:04:17,916 --> 00:04:29,756
+CEO e fundador da Overlens, uma escola de criação nexialista para criadores e criadoras da nova era.
+
+104
+00:04:31,388 --> 00:04:36,408
+Colocar aqui, né? Da Era das Inteligências Artificiais.
+
+105
+00:04:36,488 --> 00:04:38,848
+Já tá bom aqui pra começar.
+
+106
+00:04:40,048 --> 00:04:40,448
+Professor...
+
+107
+00:04:42,652 --> 00:04:50,832
+já ensinou mais de 20 mil pessoas sobre criação, design.
+
+108
+00:04:53,084 --> 00:04:54,684
+e as generativas.
+
+109
+00:04:57,436 --> 00:04:57,616
+É.
+
+110
+00:04:59,484 --> 00:05:00,244
+Conhecido.
+
+111
+00:05:01,692 --> 00:05:07,252
+Pela profundidade, foco em bottom-up e fundamentals.
+
+112
+00:05:08,892 --> 00:05:09,852
+Method. Pronto.
+
+113
+00:05:10,152 --> 00:05:11,132
+Então, deixa aqui.
+
+114
+00:05:11,972 --> 00:05:14,612
+Posicionamento e marca pessoal, já coloquei um pouquinho dos dois,
+
+115
+00:05:14,692 --> 00:05:16,352
+então não precisa colocar muito mais aqui também.
+
+116
+00:05:16,852 --> 00:05:17,872
+Deixa desse jeito.
+
+117
+00:05:17,872 --> 00:05:20,852
+Vou colocar aqui também, porque depois a gente vai usar esse briefing para IA.
+
+118
+00:05:22,364 --> 00:05:24,324
+o site da Overlens.
+
+119
+00:05:27,868 --> 00:05:30,988
+Deixo o site da Overlens aqui e vou colocar também.
+
+120
+00:05:35,132 --> 00:05:35,632
+O Instagram.
+
+121
+00:05:36,472 --> 00:05:39,172
+Isso tudo aqui é dado que a gente pode usar
+
+122
+00:05:39,172 --> 00:05:40,912
+com a inteligência artificial depois, beleza?
+
+123
+00:05:41,392 --> 00:05:43,972
+Por isso que eu estou pegando aqui, montando um briefing rápido.
+
+124
+00:05:44,372 --> 00:05:47,632
+Isso aqui vai servir para os prompts, para ideias de prompts,
+
+125
+00:05:47,832 --> 00:05:51,672
+porque lembra, uma imagem poderosa é uma imagem que comunica,
+
+126
+00:05:52,452 --> 00:05:55,612
+tem os sinais ali que comunicam a mensagem
+
+127
+00:05:55,612 --> 00:05:57,132
+que aquela pessoa quer transmitir.
+
+128
+00:05:57,192 --> 00:05:58,632
+Então, eu tenho minha marca pessoal,
+
+129
+00:05:58,872 --> 00:06:00,132
+eu tenho meu jeito de transmitir também.
+
+130
+00:06:00,352 --> 00:06:02,812
+Eu posso colocar aqui ainda, tem personalidade,
+
+131
+00:06:02,832 --> 00:06:04,472
+personalidade, posso colocar aqui ainda também
+
+132
+00:06:04,472 --> 00:06:06,852
+universo visual, estou usando mais a
+
+133
+00:06:06,852 --> 00:06:08,672
+palavra universo visual que identidade visual
+
+134
+00:06:10,044 --> 00:06:12,224
+Então, aqui em universo visual, eu posso colocar, por exemplo,
+
+135
+00:06:13,364 --> 00:06:13,664
+Juan.
+
+136
+00:06:17,660 --> 00:06:19,880
+Agora é como se fosse meio que um painel semântico,
+
+137
+00:06:19,900 --> 00:06:21,100
+mas eu vou montar o briefing primeiro,
+
+138
+00:06:21,160 --> 00:06:22,660
+depois a gente faz o painel semântico, tá?
+
+139
+00:06:23,340 --> 00:06:26,100
+O Ambrás utiliza muito preto.
+
+140
+00:06:29,220 --> 00:06:29,600
+Utiliza...
+
+141
+00:06:30,280 --> 00:06:31,380
+Tem um estilo...
+
+142
+00:06:32,700 --> 00:06:41,720
+Estilo minimalista, utiliza um boné preto e camisa preta na maior parte do tempo.
+
+143
+00:06:41,980 --> 00:06:44,740
+Dentro do seu cenário...
+
+144
+00:06:47,420 --> 00:06:52,300
+com frequência aparece com uma grande biblioteca no fundo.
+
+145
+00:06:54,140 --> 00:06:56,020
+ou melhor do que grande, né, pode interpretar errado,
+
+146
+00:06:56,140 --> 00:06:59,460
+com uma biblioteca cheia, um estante.
+
+147
+00:06:59,620 --> 00:07:03,920
+Um estante cheia de livros no fundo.
+
+148
+00:07:05,040 --> 00:07:07,000
+Beleza? Então, isso aqui é uma coisa.
+
+149
+00:07:07,060 --> 00:07:08,820
+Só que o que é legal colocar também, né?
+
+150
+00:07:09,020 --> 00:07:10,480
+Outros signos.
+
+151
+00:07:10,520 --> 00:07:11,480
+Aqui eu não vou colocar muito,
+
+152
+00:07:11,540 --> 00:07:14,480
+porque depois a gente vai derivar isso aqui no painel semântico, beleza?
+
+153
+00:07:14,740 --> 00:07:18,080
+Então, comecei, já tem algumas informações sobre mim aqui também,
+
+154
+00:07:18,200 --> 00:07:21,600
+e beleza, depois a gente extrapola isso aqui mais.
+
+155
+00:07:21,760 --> 00:07:23,940
+Então, começamos a montar nosso briefing aqui,
+
+156
+00:07:24,140 --> 00:07:27,020
+tem algumas informações também sobre o universo visual.
+
+157
+00:07:27,100 --> 00:07:30,760
+A gente poderia colocar também sobre qual percepção,
+
+158
+00:07:30,760 --> 00:07:32,000
+isso é uma pergunta muito importante,
+
+159
+00:07:32,280 --> 00:07:33,900
+qual percepção...
+
+160
+00:07:36,668 --> 00:07:44,008
+Qual percepção queremos transmitir?
+
+161
+00:07:44,488 --> 00:07:45,788
+Aí eu coloco aqui também.
+
+162
+00:07:47,740 --> 00:07:49,600
+E aí, nós podemos escrever.
+
+163
+00:07:49,960 --> 00:07:53,360
+Então, queremos transmitir...
+
+164
+00:07:55,068 --> 00:08:00,348
+Uma mensagem de profundidade junto com acessibilidade.
+
+165
+00:08:01,388 --> 00:08:02,528
+Minimalismo.
+
+166
+00:08:03,996 --> 00:08:09,256
+intelectualidade, mas proximidade com as pessoas.
+
+167
+00:08:11,132 --> 00:08:12,372
+O que é mais que a gente quer transmitir?
+
+168
+00:08:12,372 --> 00:08:18,612
+Queremos transmitir autoridade, mas sem aquele papo de coach.
+
+169
+00:08:19,072 --> 00:08:26,552
+Não queremos ternos, não queremos aquela autoridade.
+
+170
+00:08:26,832 --> 00:08:31,012
+Vou colocar entre aspas aqui assim, aquela autoridade.
+
+171
+00:08:32,828 --> 00:08:34,308
+Opa, faltou a outra aspinha aqui.
+
+172
+00:08:36,768 --> 00:08:37,248
+Plastificada.
+
+173
+00:08:38,620 --> 00:08:40,220
+A autoridade é...
+
+174
+00:08:41,852 --> 00:08:42,872
+Transmitida.
+
+175
+00:08:46,492 --> 00:08:48,692
+Eu estou com o teclado que ele é inglês e português ao mesmo tempo.
+
+176
+00:08:48,692 --> 00:08:51,252
+Eu tenho que ficar dando alt espaço para ele trocar.
+
+177
+00:08:51,872 --> 00:08:53,332
+A autoridade é transmitida.
+
+178
+00:08:55,068 --> 00:08:57,468
+Através de signos.
+
+179
+00:08:57,728 --> 00:08:59,128
+Utilizando...
+
+180
+00:09:00,604 --> 00:09:02,164
+Agora vem aqui, ó, repertório.
+
+181
+00:09:03,024 --> 00:09:03,904
+Retórica visual.
+
+182
+00:09:05,024 --> 00:09:05,944
+Eu coloco aqui.
+
+183
+00:09:06,344 --> 00:09:09,004
+Etos, patos, logos.
+
+184
+00:09:09,824 --> 00:09:10,264
+Maravilha.
+
+185
+00:09:10,264 --> 00:09:14,804
+Então temos aqui o nosso início de briefing.
+
+186
+00:09:14,964 --> 00:09:17,724
+Com isso aqui, cara, já dá para enriquecer muito esse briefing.
+
+187
+00:09:17,864 --> 00:09:18,384
+Vamos fazer isso?
+
+188
+00:09:18,604 --> 00:09:20,404
+Como eu já estou aqui no Google...
+
+189
+00:09:21,596 --> 00:09:23,316
+no Google Docs, eu vou usar o Gemini,
+
+190
+00:09:23,376 --> 00:09:24,536
+que é um modelo muito bom,
+
+191
+00:09:25,176 --> 00:09:27,456
+para enriquecer para mim. Poderia usar o GPT,
+
+192
+00:09:27,516 --> 00:09:29,416
+poderia usar o Cloud, todos eles iriam
+
+193
+00:09:29,416 --> 00:09:31,356
+funcionar muito bem. Mas eu vou usar aquele,
+
+194
+00:09:31,456 --> 00:09:31,996
+eu vou falar o seguinte,
+
+195
+00:09:33,736 --> 00:09:34,136
+escreva
+
+196
+00:09:35,216 --> 00:09:37,196
+logo abaixo, não precisa dessa vírgula não,
+
+197
+00:09:37,216 --> 00:09:39,336
+escreva logo abaixo do texto
+
+198
+00:09:39,336 --> 00:09:41,196
+que eu já escrevi
+
+199
+00:09:42,684 --> 00:09:56,284
+Mais detalhes sobre o briefing que estamos montando, opa, estamos montando para um ensaio fotográfico do Juan Braz.
+
+200
+00:09:56,284 --> 00:09:57,984
+É estranho falar de mim na terceira pessoa.
+
+201
+00:10:00,480 --> 00:10:09,720
+Trabalhe como um especialista em fotografia e semiótica da imagem.
+
+202
+00:10:12,040 --> 00:10:18,440
+Traga signos que representam a mensagem que queremos transmitir aqui.
+
+203
+00:10:18,860 --> 00:10:20,020
+Beleza, aí o que eu vou fazer?
+
+204
+00:10:20,200 --> 00:10:23,220
+Já vou enviar e o Gemini vai aqui para mim.
+
+205
+00:10:23,240 --> 00:10:24,180
+Eu vou diminuir um pouquinho.
+
+206
+00:10:24,600 --> 00:10:27,160
+Ele posso até deixar em 100% aqui, né?
+
+207
+00:10:27,240 --> 00:10:29,020
+Depois eu abaixo aí.
+
+208
+00:10:29,260 --> 00:10:32,020
+O Gemini vai escrever aqui embaixo para mim desse texto.
+
+209
+00:10:33,788 --> 00:10:35,368
+as ideias dele pra enriquecer.
+
+210
+00:10:35,428 --> 00:10:37,608
+Então olha o que ele tá falando. Análise semiótica e proposta
+
+211
+00:10:37,608 --> 00:10:39,568
+visual do ensaio fotográfico. Vou ter que aumentar,
+
+212
+00:10:39,728 --> 00:10:41,648
+né? Não tem jeito. Pra vocês verem,
+
+213
+00:10:41,668 --> 00:10:43,608
+aí vai ficar mais fácil. Então, com base no
+
+214
+00:10:43,608 --> 00:10:45,808
+briefing e nas percepções que deseja transmitir,
+
+215
+00:10:45,828 --> 00:10:47,868
+acesso, minimalismo, profundidade, intelectualidade,
+
+216
+00:10:47,948 --> 00:10:49,488
+proximidade, autoridade, autêntica.
+
+217
+00:10:49,568 --> 00:10:51,488
+A abordagem fotográfica deve ser
+
+218
+00:10:51,488 --> 00:10:53,268
+profundamente estratégica e semiótica.
+
+219
+00:10:53,288 --> 00:10:55,528
+Sim, signos visuais para profundidade
+
+220
+00:10:55,528 --> 00:10:57,488
+e intelectualidade. Etos e logos.
+
+221
+00:10:57,728 --> 00:10:59,588
+Juan, você tá usando palavras difíceis,
+
+222
+00:10:59,588 --> 00:11:01,428
+pra mim eu não tô entendendo muito bem.
+
+223
+00:11:01,648 --> 00:11:03,588
+Fica tranquilo, tá? E vai pegando
+
+224
+00:11:03,588 --> 00:11:05,448
+essas palavras porque eu estou te dando dicas
+
+225
+00:11:05,448 --> 00:11:07,388
+do que estudar para enriquecer seu repertório.
+
+226
+00:11:07,468 --> 00:11:09,428
+Beleza? Então leva isso em consideração.
+
+227
+00:11:09,888 --> 00:11:11,588
+Deve aparecer com frequência,
+
+228
+00:11:11,588 --> 00:11:13,348
+não como mero fundo, mas como
+
+229
+00:11:13,348 --> 00:11:15,568
+elemento composicional que atesta
+
+230
+00:11:15,568 --> 00:11:17,448
+o etos, autoridade e conhecimento
+
+231
+00:11:17,448 --> 00:11:19,548
+acumulado. Poses que sugiram
+
+232
+00:11:19,548 --> 00:11:21,328
+interação, olhar e tocar
+
+233
+00:11:21,328 --> 00:11:23,548
+em livro, reforçam a ideia
+
+234
+00:11:23,548 --> 00:11:25,468
+de fundamentals method e bottom-up.
+
+235
+00:11:25,688 --> 00:11:27,548
+Luz e sombra, aqueles
+
+236
+00:11:27,548 --> 00:11:29,908
+ou chiaro escuro, controlado,
+
+237
+00:11:30,008 --> 00:11:31,568
+a utilização de iluminação de
+
+238
+00:11:31,568 --> 00:11:33,808
+de baixo contraste, pode introduzir
+
+239
+00:11:33,808 --> 00:11:35,688
+uma dimensão de profundidade e seriedade.
+
+240
+00:11:35,708 --> 00:11:37,568
+A luz deve esculpir, não achatar.
+
+241
+00:11:37,868 --> 00:11:39,868
+Uma luz que cria sombras definidas,
+
+242
+00:11:39,928 --> 00:11:41,448
+mas suaves, comunica seriedade
+
+243
+00:11:41,448 --> 00:11:43,048
+sem ser dura ou inacessível.
+
+244
+00:11:43,488 --> 00:11:45,728
+Enquadramento. Regra dos terços,
+
+245
+00:11:45,808 --> 00:11:47,828
+deseja destacar o sujeito,
+
+246
+00:11:47,868 --> 00:11:49,788
+mas que também incluem o ambiente,
+
+247
+00:11:49,988 --> 00:11:51,188
+estante como prova contextual.
+
+248
+00:11:51,508 --> 00:11:54,008
+Foco nítido nos olhos ou nas mãos,
+
+249
+00:11:54,008 --> 00:11:55,768
+em atividade. Aí é logos,
+
+250
+00:11:56,028 --> 00:11:57,048
+o trabalho da mente.
+
+251
+00:11:57,668 --> 00:11:59,988
+Signos visuais para minimalismo e autoridade,
+
+252
+00:11:59,988 --> 00:12:02,068
+não plastificado, paleta de cores, preto
+
+253
+00:12:02,068 --> 00:12:04,088
+e fundo neutro, boné, camisa,
+
+254
+00:12:04,108 --> 00:12:05,768
+elegância, foco e autoridade, minimalismo.
+
+255
+00:12:05,888 --> 00:12:07,908
+Ausência de ostentação, rejeição
+
+256
+00:12:07,908 --> 00:12:09,848
+ao terno, não queremos ternos, é signo
+
+257
+00:12:09,848 --> 00:12:11,848
+crucial. A roupa casual preta
+
+258
+00:12:11,848 --> 00:12:13,748
+representa uma autoridade conquistada
+
+259
+00:12:13,748 --> 00:12:15,608
+pela experiência e não por uniforme social.
+
+260
+00:12:15,908 --> 00:12:17,088
+Transmite proximidade
+
+261
+00:12:17,088 --> 00:12:19,728
+e um foco no conteúdo em detrimento
+
+262
+00:12:19,728 --> 00:12:21,628
+da forma. Composição limpa, beleza?
+
+263
+00:12:22,008 --> 00:12:23,548
+Aí ele trouxe aqui, livro, laptop,
+
+264
+00:12:23,708 --> 00:12:25,748
+café. Signos visuais
+
+265
+00:12:25,748 --> 00:12:27,508
+para acessibilidade e proximidade,
+
+266
+00:12:27,508 --> 00:12:28,168
+Patos.
+
+267
+00:12:29,028 --> 00:12:32,068
+Etos, patos e logos é retórica, Aristóteles ensinou isso.
+
+268
+00:12:33,068 --> 00:12:37,628
+Etos é sobre quem você é para a pessoa que está te vendo
+
+269
+00:12:37,628 --> 00:12:41,768
+e como que os signos ali fazem as pessoas te ver de uma maneira com autoridade ou sem autoridade.
+
+270
+00:12:41,988 --> 00:12:44,628
+Mas vai um pouco mais fundo que isso, mas eu estou resumindo de um jeito fácil.
+
+271
+00:12:45,048 --> 00:12:48,208
+Patos é sobre como você faz a pessoa se sentir quando ela vê aquilo.
+
+272
+00:12:48,528 --> 00:12:52,128
+E logos é sobre a lógica por trás do argumento que você vai construir
+
+273
+00:12:52,128 --> 00:12:53,428
+ou a lógica da composição.
+
+274
+00:12:53,428 --> 00:12:55,608
+é proibida. Linguagem corporal
+
+275
+00:12:55,608 --> 00:12:57,208
+relaxada, poses que evitam
+
+276
+00:12:57,208 --> 00:12:59,468
+rigidez ou postura de palco, sentado
+
+277
+00:12:59,468 --> 00:13:01,268
+na mesa, apoiado em livros ou
+
+278
+00:13:01,268 --> 00:13:03,348
+em momentos de reflexão. Acessibilidade
+
+279
+00:13:03,348 --> 00:13:05,448
+é transmitida por postura. Tá vendo que tudo isso aqui
+
+280
+00:13:05,448 --> 00:13:07,008
+é repertório, é o que eu tô falando pra vocês.
+
+281
+00:13:07,128 --> 00:13:09,628
+O mais importante aqui não é clicar no botão,
+
+282
+00:13:09,628 --> 00:13:11,368
+é processo. É aqui que tá o
+
+283
+00:13:11,368 --> 00:13:13,468
+poder, tá? Pra galera que fica assim
+
+284
+00:13:15,452 --> 00:13:17,472
+Vai direto ali pro Freepik,
+
+285
+00:13:17,572 --> 00:13:19,412
+clica na merda do botão, deixa eu ver
+
+286
+00:13:19,412 --> 00:13:20,792
+a imagem que vai sair disso aí.
+
+287
+00:13:21,552 --> 00:13:23,572
+Cara, se você tá com essa pressa, vai embora.
+
+288
+00:13:23,792 --> 00:13:25,252
+Nem é pra você ficar aqui não, tá bom?
+
+289
+00:13:25,352 --> 00:13:26,332
+Mas enfim, vamos continuar.
+
+290
+00:13:27,152 --> 00:13:29,432
+Olhar direto e, quando apropriado, um sorriso
+
+291
+00:13:29,432 --> 00:13:31,352
+sutil, beleza? Patos utiliza
+
+292
+00:13:31,352 --> 00:13:33,152
+conexão emocional, transmite proximidade.
+
+293
+00:13:33,292 --> 00:13:35,552
+O designer nexialista é também um professor acessível.
+
+294
+00:13:36,252 --> 00:13:37,512
+Cenas de trabalho real,
+
+295
+00:13:37,652 --> 00:13:39,712
+fotos que mostram o Juan em um estado de fluxo,
+
+296
+00:13:39,732 --> 00:13:41,432
+olhando pra uma tela, escrevendo notas
+
+297
+00:13:41,432 --> 00:13:43,152
+com as mãos no teclado. Isso prova
+
+298
+00:13:43,152 --> 00:13:50,612
+Prova logos, fundamentos e método e combate a imagem de coach plastificado ao mostrar o processo e não apenas o resultado.
+
+299
+00:13:50,912 --> 00:13:54,252
+Resumo semiótico. A união desses elementos cria uma retórica visual coesa.
+
+300
+00:13:54,432 --> 00:13:55,432
+Beleza, deu o resumo.
+
+301
+00:13:55,772 --> 00:13:57,932
+O que eu posso fazer agora? Eu posso inserir, tá vendo?
+
+302
+00:13:58,152 --> 00:14:03,192
+Então eu clico aqui embaixo, coloco aqui análise do Gemini.
+
+303
+00:14:03,272 --> 00:14:09,192
+Eu gosto de escrever assim para eu saber quando foi um texto que eu escrevi e quando é um texto da inteligência artificial, beleza?
+
+304
+00:14:09,192 --> 00:14:11,532
+Então vou colocar aqui em título 2 para a gente
+
+305
+00:14:11,532 --> 00:14:13,292
+e vou inserir aqui para a gente.
+
+306
+00:14:13,412 --> 00:14:16,232
+Aí ele inseriu todo esse texto agora dentro do nosso briefing.
+
+307
+00:14:16,412 --> 00:14:17,412
+É fácil ou não é?
+
+308
+00:14:17,912 --> 00:14:18,852
+Bom demais, né?
+
+309
+00:14:19,092 --> 00:14:20,132
+Agora eu vou fazer o seguinte.
+
+310
+00:14:20,872 --> 00:14:21,272
+Maravilha.
+
+311
+00:14:22,780 --> 00:14:24,020
+Maravilha!
+
+312
+00:14:24,040 --> 00:14:26,660
+Agora vamos construir um...
+
+313
+00:14:28,444 --> 00:14:30,264
+painel semântico.
+
+314
+00:14:30,284 --> 00:14:32,184
+O painel semântico é um painel de signos.
+
+315
+00:14:32,184 --> 00:14:33,404
+Vocês vão ver eles funcionando aqui.
+
+316
+00:14:34,544 --> 00:14:36,724
+Baseado nas informações...
+
+317
+00:14:38,044 --> 00:14:39,944
+informações que temos aqui.
+
+318
+00:14:40,064 --> 00:14:42,024
+Vou deixar ele fazer, ele vai criar a tabela pra gente
+
+319
+00:14:42,524 --> 00:14:44,244
+e ele vai colocar os signos lá.
+
+320
+00:14:44,404 --> 00:14:46,424
+Provavelmente ele já vai começar com a estante,
+
+321
+00:14:47,164 --> 00:14:47,884
+blusa preta,
+
+322
+00:14:47,904 --> 00:14:50,304
+bonézinho preto, vai pegar esses pontos
+
+323
+00:14:50,304 --> 00:14:52,204
+todos. Aí aqui, ó, excelente, com base no briefing
+
+324
+00:14:52,204 --> 00:14:53,924
+na análise semiótica já elaborada.
+
+325
+00:14:54,284 --> 00:14:56,564
+Vamos fazer aqui. Autoridade intelectualmente
+
+326
+00:14:57,024 --> 00:14:58,204
+fundamentada e humanamente
+
+327
+00:14:58,204 --> 00:15:00,364
+acessível. Esse foi o conceito que ele criou aqui
+
+328
+00:15:00,364 --> 00:15:01,684
+que eu achei muito ruim, mas dá pra
+
+329
+00:15:02,164 --> 00:15:03,744
+entender pra onde ele quer ir, tá tudo bem.
+
+330
+00:15:04,024 --> 00:15:05,404
+Então ele começou a trazer aqui
+
+331
+00:15:05,404 --> 00:15:06,964
+aqui, o painel semântico,
+
+332
+00:15:07,064 --> 00:15:09,224
+ele montou em formato de lista, não montou
+
+333
+00:15:09,224 --> 00:15:11,084
+em formato de tabela. Eu acho que eu posso pedir pra ele
+
+334
+00:15:11,084 --> 00:15:13,084
+aqui em formato de tabela. Talvez
+
+335
+00:15:13,084 --> 00:15:15,244
+ele faça. Se ele não fizer... Aqui, ó, ele fez,
+
+336
+00:15:15,324 --> 00:15:17,124
+tá vendo? Se ele não fizesse, eu ia mostrar um outro
+
+337
+00:15:17,124 --> 00:15:18,984
+truque pra vocês. Então, vamos ver aqui, ó.
+
+338
+00:15:19,004 --> 00:15:21,084
+Ele trouxe aqui, o título é Profundidade Acessível
+
+339
+00:15:21,084 --> 00:15:22,824
+e Método e Humanidade.
+
+340
+00:15:23,404 --> 00:15:24,904
+Dicotomia visual, intelectualidade
+
+341
+00:15:24,904 --> 00:15:27,044
+versus proximidade. O ambiente,
+
+342
+00:15:27,284 --> 00:15:29,144
+livro, fundo escuro, estabelece autoridade.
+
+343
+00:15:29,204 --> 00:15:31,224
+A postura, sorriso, casual, estabelece
+
+344
+00:15:31,224 --> 00:15:32,884
+acessibilidade. Palavra...
+
+345
+00:15:32,884 --> 00:15:35,184
+Paleta, né? Paleta de cores. Key color.
+
+346
+00:15:36,444 --> 00:15:37,824
+preto, neutros, toques
+
+347
+00:15:37,824 --> 00:15:39,104
+de cor, toques sutis
+
+348
+00:15:39,904 --> 00:15:41,724
+de um café, a luz de uma
+
+349
+00:15:41,724 --> 00:15:43,904
+tela do laptop, beleza, ele não colocou
+
+350
+00:15:43,904 --> 00:15:45,644
+muitos elementos, eu vou trazer aqui um azul
+
+351
+00:15:45,644 --> 00:15:47,664
+frio, que eu acho legal, eu gosto, é a cor
+
+352
+00:15:48,164 --> 00:15:49,664
+de destaque da Overlens também
+
+353
+00:15:49,664 --> 00:15:51,084
+vocês vão ver isso na plataforma nova
+
+354
+00:15:52,796 --> 00:15:54,296
+Mas a gente vai trazer um pouquinho disso lá.
+
+355
+00:15:54,516 --> 00:15:57,056
+E alguns tons terrosos também é sempre bom.
+
+356
+00:15:57,196 --> 00:15:59,076
+Vocês conseguem notar isso até na plataforma, né?
+
+357
+00:15:59,376 --> 00:16:02,476
+No site também tem bastante azul e tons terrosos.
+
+358
+00:16:03,116 --> 00:16:04,756
+Então, isso vai funcionar bem aqui.
+
+359
+00:16:05,516 --> 00:16:06,116
+Beleza, aqui ó.
+
+360
+00:16:06,156 --> 00:16:07,136
+Então, ele começou a trazer.
+
+361
+00:16:07,176 --> 00:16:10,116
+Para facilitar para a gente, eu já vou pegar isso aqui e vou inserir aqui.
+
+362
+00:16:10,436 --> 00:16:13,536
+E a gente lê direto aqui no documento, porque ele está bem pequenininho.
+
+363
+00:16:13,836 --> 00:16:17,356
+Então, eu vou colocar aqui painel semântico.
+
+364
+00:16:19,292 --> 00:16:20,192
+Semântico.
+
+365
+00:16:22,236 --> 00:16:24,356
+e vou inserir. Beleza, agora eu fecho isso aqui
+
+366
+00:16:24,356 --> 00:16:26,376
+e vamos dar uma olhada aqui no que ele fez.
+
+367
+00:16:26,556 --> 00:16:27,636
+Vou dar um zoomzinho aqui.
+
+368
+00:16:28,396 --> 00:16:28,696
+Eita!
+
+369
+00:16:33,340 --> 00:16:35,480
+Vamos ver 25 aqui.
+
+370
+00:16:35,580 --> 00:16:36,720
+Vamos no 25, tá bom?
+
+371
+00:16:37,500 --> 00:16:39,080
+Então, o que nós temos aqui? Vamos lá.
+
+372
+00:16:41,020 --> 00:16:43,660
+Aqui a gente já estava lendo, a paleta de cores a gente já leu,
+
+373
+00:16:43,660 --> 00:16:45,160
+a expressão facial a gente já leu, beleza.
+
+374
+00:16:45,340 --> 00:16:46,720
+Aqui ele está só retificando.
+
+375
+00:16:47,180 --> 00:16:48,180
+Aí a gente vem para cá.
+
+376
+00:16:49,692 --> 00:16:51,612
+Primeiro, signo semiótico.
+
+377
+00:16:51,632 --> 00:16:56,412
+Etos, logos, minimalismo e o patos ele colocou aqui como proximidade.
+
+378
+00:16:56,812 --> 00:16:58,872
+Então, elemento visual de referência.
+
+379
+00:16:58,932 --> 00:17:01,612
+Estante de livros. Livros empilhados ou organizados.
+
+380
+00:17:01,692 --> 00:17:04,512
+Mensagem transmitida. Conhecimento acumulado. Base sólida.
+
+381
+00:17:04,572 --> 00:17:06,632
+Fundamentos aos métodos. Seriedade.
+
+382
+00:17:07,432 --> 00:17:09,572
+Logos, método. Cena de trabalho real.
+
+383
+00:17:09,712 --> 00:17:14,132
+Mãos no teclado, escrevendo anotações, olhando para uma tela.
+
+384
+00:17:14,352 --> 00:17:16,252
+Foco no processo, não apenas no resultado.
+
+385
+00:17:16,532 --> 00:17:17,852
+Anticoach plastificado.
+
+386
+00:17:17,852 --> 00:17:20,012
+minimalismo, linhas limpas, ausência
+
+387
+00:17:20,012 --> 00:17:22,032
+de ostentação, composição com poucos
+
+388
+00:17:22,032 --> 00:17:23,712
+objetos, cenários desobstruídos
+
+389
+00:17:23,712 --> 00:17:25,752
+clareza de pensamento, foco no essencial
+
+390
+00:17:25,752 --> 00:17:27,952
+hipatos, proximidade, vestimenta
+
+391
+00:17:27,952 --> 00:17:30,052
+casual, boné e camisa preto, sem terno
+
+392
+00:17:30,052 --> 00:17:31,992
+autenticidade, autoridade conquistada
+
+393
+00:17:31,992 --> 00:17:33,952
+pela experiência, não pelo uniforme social
+
+394
+00:17:33,952 --> 00:17:35,732
+aí a gente segue aqui também
+
+395
+00:17:35,732 --> 00:17:37,992
+técnica fotográfica, iluminação, ele já
+
+396
+00:17:37,992 --> 00:17:39,552
+trouxe o chiaro escuro
+
+397
+00:17:40,332 --> 00:17:41,992
+regra dos terços e foco
+
+398
+00:17:41,992 --> 00:17:44,012
+nítido, principalmente nos olhos e nas mãos
+
+399
+00:17:44,012 --> 00:17:45,892
+seriedade, profundidade, sem achatar
+
+400
+00:17:45,892 --> 00:17:47,112
+tá, foco no sujeito, beleza.
+
+401
+00:17:47,372 --> 00:17:49,892
+Aqui a gente tem também emoções da mensagem,
+
+402
+00:17:49,892 --> 00:17:52,132
+substantivo chave, autenticidade, seriedade,
+
+403
+00:17:52,772 --> 00:17:53,832
+despojamento, foco.
+
+404
+00:17:54,012 --> 00:17:55,832
+Verbo chave, ensinar, criar,
+
+405
+00:17:55,912 --> 00:17:57,792
+refletir, conectar. O painel deve
+
+406
+00:17:57,792 --> 00:17:59,772
+ser montado com imagens que equilibrem
+
+407
+00:17:59,772 --> 00:18:01,492
+o visual dark minimalista do estúdio
+
+408
+00:18:01,492 --> 00:18:03,892
+com a postura aberta e computativa
+
+409
+00:18:03,892 --> 00:18:05,832
+do Juan. O que eu vou fazer agora? Eu vou colocar
+
+410
+00:18:05,832 --> 00:18:07,092
+minha câmera aqui nessa posição
+
+411
+00:18:07,092 --> 00:18:09,732
+e vou tirar uma foto,
+
+412
+00:18:10,012 --> 00:18:11,272
+vou colocar no modo estúdio aqui.
+
+413
+00:18:11,712 --> 00:18:13,512
+Deixa eu tirar uma foto aqui pelo...
+
+414
+00:18:14,940 --> 00:18:17,020
+pelo OBS, e vou colocar uma foto
+
+415
+00:18:17,020 --> 00:18:19,020
+minha ali também. Então, peraí, deixa eu pausar pra foto.
+
+416
+00:18:22,132 --> 00:18:23,972
+com um sorrisinho aqui, beleza,
+
+417
+00:18:24,812 --> 00:18:25,672
+voltamos pra cá então,
+
+418
+00:18:25,772 --> 00:18:27,912
+e eu vou colocar essa foto aqui, beleza.
+
+419
+00:18:27,952 --> 00:18:29,832
+Então temos a nossa fotinha aqui, só pra
+
+420
+00:18:29,832 --> 00:18:31,172
+representar no nosso briefing,
+
+421
+00:18:31,552 --> 00:18:33,972
+quem sou eu, né, pra quando a Yafo usar também,
+
+422
+00:18:34,052 --> 00:18:36,052
+ela sabe quem sou eu aqui, e um pouquinho
+
+423
+00:18:36,052 --> 00:18:38,032
+do nosso cenário. Tô com um sorriso
+
+424
+00:18:38,032 --> 00:18:39,312
+duro do caramba aqui, né.
+
+425
+00:18:40,700 --> 00:18:42,900
+Mas tudo bem, isso aqui é só o nosso briefing.
+
+426
+00:18:43,360 --> 00:18:46,320
+Dá para enriquecer mais ainda aqui, dá para fazer muita coisa.
+
+427
+00:18:46,500 --> 00:18:49,800
+Eu vou fazer só a última parte do nosso briefing aqui com vocês,
+
+428
+00:18:50,360 --> 00:18:53,520
+bem direta, que eu vou chamar isso aqui de palavras-chave,
+
+429
+00:18:53,600 --> 00:18:54,780
+o território de palavras.
+
+430
+00:18:56,000 --> 00:18:57,440
+Território de palavras.
+
+431
+00:18:57,780 --> 00:19:00,900
+Por que isso é importante se a gente não vai trabalhar a identidade verbal aqui?
+
+432
+00:19:01,020 --> 00:19:04,720
+É importante porque a partir desse território de palavras, vocês vão ver,
+
+433
+00:19:05,520 --> 00:19:07,620
+eu vou usar isso aqui para construir nosso mood board.
+
+434
+00:19:07,840 --> 00:19:08,460
+Então, eu vou falar o seguinte.
+
+435
+00:19:08,460 --> 00:19:12,440
+A partir do briefing que construímos aqui...
+
+436
+00:19:14,140 --> 00:19:21,360
+Quero que você gere uma lista de palavras-chave poderosas
+
+437
+00:19:21,360 --> 00:19:25,660
+que podemos utilizar aqui para representar...
+
+438
+00:19:26,940 --> 00:19:30,260
+Buscar imagens de referência.
+
+439
+00:19:31,452 --> 00:19:48,672
+Coloque palavras-chave de estilos e técnicas fotográficas, iluminação, estilos de ambiente, estilos de roupas que tenham...
+
+440
+00:19:49,980 --> 00:19:52,700
+sinergia com o nosso briefing,
+
+441
+00:19:53,260 --> 00:19:55,300
+que era uma boa lista,
+
+442
+00:19:55,420 --> 00:19:59,460
+mas bem filtrada para ser inteligente.
+
+443
+00:19:59,940 --> 00:20:02,040
+Então, beleza, ele vai gerar aqui para a gente,
+
+444
+00:20:02,120 --> 00:20:04,020
+a gente vai inserir aqui no nosso documento,
+
+445
+00:20:04,020 --> 00:20:06,980
+então, ele está fazendo aqui a lista de palavras-chave,
+
+446
+00:20:07,000 --> 00:20:08,540
+eu vou inserir ela aqui, beleza.
+
+447
+00:20:08,600 --> 00:20:10,920
+Então, vamos dar uma olhada aqui no que ele fez.
+
+448
+00:20:11,440 --> 00:20:13,540
+Estilos e técnicas, retrato minimalista,
+
+449
+00:20:13,540 --> 00:20:15,960
+retrato conceitual, fotografia documental de trabalho,
+
+450
+00:20:16,260 --> 00:20:17,520
+foto de perfil profissional,
+
+451
+00:20:17,660 --> 00:20:18,860
+composição regra dos terços,
+
+452
+00:20:18,860 --> 00:20:20,100
+olha, tá em inglês aqui também
+
+453
+00:20:20,780 --> 00:20:22,960
+chiaro escuro, luz suave, soft light
+
+454
+00:20:22,960 --> 00:20:24,860
+baixo contraste, luz de estúdio, isso aqui tudo
+
+455
+00:20:24,860 --> 00:20:26,620
+a gente teve o curso que eu mostrei inclusive
+
+456
+00:20:26,620 --> 00:20:28,760
+quais são e como utilizar pra gerar na IA, tá
+
+457
+00:20:28,760 --> 00:20:30,680
+então assistam o curso que a gente teve
+
+458
+00:20:30,680 --> 00:20:32,700
+semana passada, estúdio minimalista
+
+459
+00:20:32,700 --> 00:20:34,380
+fundo neutro cinza, estante de livro
+
+460
+00:20:34,380 --> 00:20:36,560
+escritório de designer, mesa de trabalho
+
+461
+00:20:36,560 --> 00:20:38,040
+limpa, laptop, blá blá blá
+
+462
+00:20:38,040 --> 00:20:40,040
+beleza, então temos aqui
+
+463
+00:20:40,680 --> 00:20:42,040
+um conjunto de palavras
+
+464
+00:20:42,040 --> 00:20:44,620
+que nós podemos utilizar agora, e olha como tá
+
+465
+00:20:44,620 --> 00:20:46,920
+muito mais contextualizado, a gente montou
+
+466
+00:20:46,920 --> 00:20:48,300
+isso aqui relativamente rápido
+
+467
+00:20:48,300 --> 00:20:52,280
+Nós temos controle sobre as informações, então não simplesmente mandei um prompt,
+
+468
+00:20:52,460 --> 00:20:54,120
+pedi para ir a gerar em cima do prompt.
+
+469
+00:20:54,300 --> 00:20:57,980
+Nós temos aqui um documento que organiza o nosso projeto
+
+470
+00:20:57,980 --> 00:21:01,480
+e esse é o primeiro maravilhoso passo que a gente precisa seguir aqui.
+

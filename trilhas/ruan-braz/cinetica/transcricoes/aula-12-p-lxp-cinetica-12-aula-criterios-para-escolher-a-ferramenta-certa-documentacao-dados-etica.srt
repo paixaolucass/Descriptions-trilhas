@@ -1,0 +1,920 @@
+1
+00:00:00,000 --> 00:00:02,640
+critérios para escolher a ferramenta certa,
+
+2
+00:00:02,740 --> 00:00:04,720
+quando a gente fala de IA de vídeo,
+
+3
+00:00:04,900 --> 00:00:05,940
+tem muita IA de vídeo,
+
+4
+00:00:06,180 --> 00:00:09,160
+ele colocou esses tablets aqui para escolher a IA certa,
+
+5
+00:00:09,260 --> 00:00:09,940
+ele escolheu a dele,
+
+6
+00:00:10,100 --> 00:00:12,560
+só que essas interfaces todas quebradas aqui,
+
+7
+00:00:12,600 --> 00:00:13,000
+tudo errado,
+
+8
+00:00:14,260 --> 00:00:15,120
+gerado por IA.
+
+9
+00:00:15,260 --> 00:00:16,340
+Mas tudo bem, vamos lá,
+
+10
+00:00:16,420 --> 00:00:18,200
+critérios para escolher ferramentas certas.
+
+11
+00:00:19,260 --> 00:00:20,700
+Primeiro critério, documentação.
+
+12
+00:00:21,180 --> 00:00:23,040
+Isso aqui é um que eu usava desde 2021,
+
+13
+00:00:24,340 --> 00:00:25,380
+lá com o Mid Journey.
+
+14
+00:00:25,500 --> 00:00:27,480
+Eu já ficava feliz que o Mid Journey tinha uma documentação
+
+15
+00:00:27,480 --> 00:00:28,700
+bem interessante naquela época.
+
+16
+00:00:29,140 --> 00:00:30,160
+Vai usar uma ferramenta nova,
+
+17
+00:00:30,360 --> 00:00:32,260
+primeira coisa que você vai buscar é a documentação dela.
+
+18
+00:00:32,420 --> 00:00:33,340
+Como assim, Juan? Dá um exemplo.
+
+19
+00:00:33,860 --> 00:00:35,160
+Vamos supor que a gente vai usar o Cling.
+
+20
+00:00:35,260 --> 00:00:38,180
+Você vai colocar aqui, Cling Documentation.
+
+21
+00:00:38,680 --> 00:00:40,320
+E vai ver se ele tem uma documentação.
+
+22
+00:00:41,060 --> 00:00:41,380
+Beleza?
+
+23
+00:00:41,600 --> 00:00:42,380
+Então deixa eu ver aqui.
+
+24
+00:00:42,920 --> 00:00:43,240
+Documentation.
+
+25
+00:00:43,240 --> 00:00:45,320
+Esse aqui é a documentação de API.
+
+26
+00:00:46,100 --> 00:00:47,520
+Cling API não é o oficial.
+
+27
+00:00:47,520 --> 00:00:49,200
+A gente quer ir no oficial mesmo.
+
+28
+00:00:49,880 --> 00:00:51,620
+Deixa eu ver se tem alguma informação aqui.
+
+29
+00:00:53,148 --> 00:00:54,208
+Ó, sitezão, hein?
+
+30
+00:00:54,928 --> 00:00:56,168
+Boa. Aí deixa eu ver aqui, ó.
+
+31
+00:00:56,168 --> 00:00:58,188
+Tem o blog deles. Geralmente no rodapé
+
+32
+00:00:58,188 --> 00:00:59,808
+tem informações aqui. Platform,
+
+33
+00:01:00,208 --> 00:01:02,328
+homepage, ó. Documentation. Pronto.
+
+34
+00:01:02,728 --> 00:01:04,008
+Tô na documentação do Cling.
+
+35
+00:01:04,408 --> 00:01:06,388
+Isso aqui é a primeira coisa. Vai usar uma ferramenta
+
+36
+00:01:06,388 --> 00:01:07,408
+e você vai vir pra cá, cara.
+
+37
+00:01:07,788 --> 00:01:10,008
+Ah, mas eu não gosto de ler. Eu odeio ler.
+
+38
+00:01:10,268 --> 00:01:12,328
+Então, beleza. Não lê. Mas quem lê vai ficar
+
+39
+00:01:12,328 --> 00:01:14,108
+na sua frente. Ponto final. Essa é a verdade.
+
+40
+00:01:14,768 --> 00:01:16,228
+Beleza? Então sempre que eu vou
+
+41
+00:01:16,228 --> 00:01:17,968
+usar uma ferramenta de verdade, eu começo
+
+42
+00:01:17,968 --> 00:01:20,168
+primeiro testando ela. Se eu vi que ela é boa, que tem
+
+43
+00:01:20,168 --> 00:01:21,888
+muita gente usando, adivinha pra onde que eu vou?
+
+44
+00:01:22,448 --> 00:01:23,008
+Documentação, cara.
+
+45
+00:01:23,048 --> 00:01:24,708
+Isso aqui é um curso inteiro pronto pra você.
+
+46
+00:01:24,948 --> 00:01:28,508
+As pessoas que criaram a ferramenta, que criaram o modelo,
+
+47
+00:01:28,588 --> 00:01:30,448
+estão te falando o melhor jeito de usar ele.
+
+48
+00:01:30,648 --> 00:01:33,588
+Tá aqui, pronto, com vários prompts pra você.
+
+49
+00:01:33,928 --> 00:01:36,648
+Tanto de API, que você vai ver muita coisa aqui na documentação
+
+50
+00:01:36,648 --> 00:01:39,668
+pra usar via API, mas você também tem um overview
+
+51
+00:01:39,668 --> 00:01:42,048
+de como que a ferramenta funciona no geral,
+
+52
+00:01:42,148 --> 00:01:44,008
+como gerar prompt pra ela e por aí vai.
+
+53
+00:01:44,728 --> 00:01:46,348
+Aqui, template de efeito.
+
+54
+00:01:46,488 --> 00:01:48,388
+Olha, tem muita coisa legal em documentação
+
+55
+00:01:48,388 --> 00:01:49,368
+que as pessoas nem sabem.
+
+56
+00:01:49,368 --> 00:01:56,828
+Aí a galera fica na piração porque, sei lá, alguém que elas gostam muito, algum influencer, vai lá e fala, toma aqui minha biblioteca de prompt.
+
+57
+00:01:56,988 --> 00:01:58,648
+Eu falo, cara, isso aí não tem valor nenhum.
+
+58
+00:01:59,708 --> 00:02:06,168
+Biblioteca de prompt é pra poder brilhar o olho de quem não entende nada de IA, porque a coisa mais barata do mundo é biblioteca de prompt.
+
+59
+00:02:06,368 --> 00:02:10,068
+Eu monto uma biblioteca de prompt em 20 minutos aqui, nem isso, 5 minutos.
+
+60
+00:02:10,368 --> 00:02:17,848
+Ou então nem só uma biblioteca de prompt, aqui no caso templates de efeito, isso aqui, cara, as próprias ferramentas já estão entregando, sabe?
+
+61
+00:02:17,848 --> 00:02:19,588
+sabe? Então, vocês vão aprender
+
+62
+00:02:19,588 --> 00:02:21,368
+também a olhar o que que tem valor mesmo
+
+63
+00:02:21,368 --> 00:02:23,188
+no mercado, pra não sair gastando
+
+64
+00:02:23,188 --> 00:02:25,248
+300 reais aí, 500 reais, comprando
+
+65
+00:02:25,248 --> 00:02:27,308
+biblioteca de prompt dos outros. Pode até
+
+66
+00:02:27,308 --> 00:02:29,648
+ser útil pra vocês, mas vocês encontrariam de graça.
+
+67
+00:02:29,748 --> 00:02:30,328
+Tá bom?
+
+68
+00:02:31,128 --> 00:02:33,248
+Efeitos de vídeo já vem aqui também com
+
+69
+00:02:33,948 --> 00:02:34,388
+é...
+
+70
+00:02:35,328 --> 00:02:36,568
+vários prompts também.
+
+71
+00:02:37,068 --> 00:02:39,148
+Às vezes, prompts mais avançados, né, igual
+
+72
+00:02:39,148 --> 00:02:41,008
+esses daqui são efeitos de prompts pra API,
+
+73
+00:02:41,148 --> 00:02:42,488
+mais avançados, mas ele consegue
+
+74
+00:02:43,148 --> 00:02:44,568
+fazer efeitos diferentes.
+
+75
+00:02:45,868 --> 00:02:46,308
+Então,
+
+76
+00:02:46,308 --> 00:02:50,788
+Então, documentação é muito importante, vai fazer diferença para vocês.
+
+77
+00:02:52,412 --> 00:02:54,212
+Esse vídeo está passando aqui, fazendo um somzinho,
+
+78
+00:02:54,272 --> 00:02:56,152
+como se fosse aquele equipamento de hospital.
+
+79
+00:02:56,552 --> 00:02:58,172
+Então, o primeiro passo é a documentação.
+
+80
+00:02:58,992 --> 00:03:00,652
+O que você vai olhar em documentação?
+
+81
+00:03:01,092 --> 00:03:04,432
+O guia oficial de prompt com exemplos de saída,
+
+82
+00:03:04,432 --> 00:03:05,552
+então tem um guia ou não tem,
+
+83
+00:03:06,052 --> 00:03:08,352
+documentação de parâmetros, intensidade de movimento,
+
+84
+00:03:08,512 --> 00:03:10,932
+aspect rate, duração, notas de release,
+
+85
+00:03:11,032 --> 00:03:12,912
+detalhando o que mudou a cada versão,
+
+86
+00:03:13,092 --> 00:03:16,172
+exemplo diferenciando a abordagem amadora das profissionais.
+
+87
+00:03:16,392 --> 00:03:19,052
+Se eu pego aqui, Mid-Journey Documentation,
+
+88
+00:03:19,112 --> 00:03:21,052
+vocês vão ver uma das melhores documentações.
+
+89
+00:03:21,052 --> 00:03:23,072
+você aprende a escrever prompt
+
+90
+00:03:23,072 --> 00:03:25,372
+simplesmente vindo aqui na documentação deles
+
+91
+00:03:25,372 --> 00:03:27,332
+eles tem até um guia
+
+92
+00:03:27,332 --> 00:03:29,252
+de iniciante aqui, aí tem aqui ó, prompt
+
+93
+00:03:29,252 --> 00:03:31,292
+básico, tem eles explicando como
+
+94
+00:03:31,292 --> 00:03:33,272
+fazer o prompt, cara, do início ao fim
+
+95
+00:03:34,556 --> 00:03:37,476
+Você pega isso aqui e aprende, olha, meia horinha aqui, dando uma lida rápida,
+
+96
+00:03:37,476 --> 00:03:39,056
+você aprendeu a gerar imagens já, entendeu?
+
+97
+00:03:39,356 --> 00:03:41,536
+Eu vou deixar os links aqui das que eu tô falando pra vocês,
+
+98
+00:03:41,596 --> 00:03:45,096
+pedir pra equipe deixar, mas sinceramente, você não precisa de curso pra isso aqui mais não.
+
+99
+00:03:45,716 --> 00:03:47,196
+Aqui eu tô falando com gente grande, né?
+
+100
+00:03:48,412 --> 00:03:48,812
+Então, tá bom.
+
+101
+00:03:50,092 --> 00:03:53,232
+Então, esse é um ponto para olhar em consideração de documentação.
+
+102
+00:03:53,472 --> 00:03:56,532
+Documentação disponível apenas em chinês, sem tradução, é uma red flag,
+
+103
+00:03:56,952 --> 00:03:59,332
+porque pode enganar vocês, né?
+
+104
+00:03:59,392 --> 00:04:02,052
+Ou vocês podem estar usando coisas que vocês nem sabem ali.
+
+105
+00:04:02,372 --> 00:04:04,592
+A ausência de changelog ao lançar novas versões.
+
+106
+00:04:04,632 --> 00:04:05,212
+O que é changelog?
+
+107
+00:04:05,252 --> 00:04:10,212
+É a lista de mudanças, é o log de mudanças, ou seja, o histórico de mudanças ali.
+
+108
+00:04:10,832 --> 00:04:13,392
+Exemplos de prompt genérico que não diferenciam a ferramenta.
+
+109
+00:04:13,912 --> 00:04:18,212
+Então, entra no site, inclusive, às vezes a documentação é dividida em duas partes,
+
+110
+00:04:18,412 --> 00:04:19,572
+Geralmente é rodapé, tá?
+
+111
+00:04:20,112 --> 00:04:21,672
+Então aqui tem o Kickstart.
+
+112
+00:04:22,332 --> 00:04:25,552
+Posso pegar esse Kickstart também e vai ter um manualzinho pra mim aqui.
+
+113
+00:04:25,872 --> 00:04:30,492
+É isso que você vai buscar nas melhores ferramentas, você vai encontrar aqui melhores práticas.
+
+114
+00:04:30,592 --> 00:04:34,412
+Então tem aqui, ó, modelo de usar o Vue, o Kling.
+
+115
+00:04:34,752 --> 00:04:37,732
+Cara, vocês têm noção que as melhores e as do mundo,
+
+116
+00:04:37,752 --> 00:04:40,512
+elas estão deixando apostilas inteiras aqui do que você pode fazer?
+
+117
+00:04:42,684 --> 00:04:45,464
+Por isso que eu falo, isso aqui não é novidade mais, isso aqui...
+
+118
+00:04:46,876 --> 00:04:47,476
+O óbvio.
+
+119
+00:04:48,956 --> 00:04:51,656
+É claro que quem quiser também pode esperar alguém ler por você
+
+120
+00:04:51,656 --> 00:04:52,716
+e criar um curso por você.
+
+121
+00:04:52,736 --> 00:04:53,836
+Aí você vai lá e paga uma grana,
+
+122
+00:04:53,876 --> 00:04:57,276
+uma coisa que meia hora, uma hora de esforço ali,
+
+123
+00:04:57,336 --> 00:05:02,016
+você já está sabendo mais do que 99% das pessoas que usam as ferramentas,
+
+124
+00:05:02,016 --> 00:05:04,496
+porque a galera simplesmente não estuda.
+
+125
+00:05:04,676 --> 00:05:05,716
+Mas está aí, beleza?
+
+126
+00:05:05,916 --> 00:05:07,636
+Então, sempre lembrando isso para vocês
+
+127
+00:05:07,636 --> 00:05:09,036
+quando a gente for falar de ferramentas.
+
+128
+00:05:09,536 --> 00:05:10,936
+Depois, dados e transparência.
+
+129
+00:05:10,976 --> 00:05:12,836
+Como que são usados esses vídeos, seus vídeos,
+
+130
+00:05:12,876 --> 00:05:13,816
+vídeos de outras pessoas?
+
+131
+00:05:13,916 --> 00:05:14,696
+Quais são as red flags?
+
+132
+00:05:15,116 --> 00:05:18,556
+Termos de uso ambíguos sobre propriedade dos vídeos.
+
+133
+00:05:18,556 --> 00:05:20,216
+deixa eu ver se eu consigo aumentar aqui pra vocês,
+
+134
+00:05:21,096 --> 00:05:22,536
+sem resposta clara sobre o uso
+
+135
+00:05:22,536 --> 00:05:24,096
+de conteúdo protegido,
+
+136
+00:05:24,156 --> 00:05:26,676
+histórico de interrupções abruptas por pressão
+
+137
+00:05:26,676 --> 00:05:28,096
+legal. Então fiquem de olho nisso também.
+
+138
+00:05:28,536 --> 00:05:30,496
+Você pode, inclusive,
+
+139
+00:05:30,596 --> 00:05:32,576
+jogar essa página aqui pra sua IA e pedir
+
+140
+00:05:32,576 --> 00:05:34,576
+pra sua IA vasculhar essa ferramenta pra
+
+141
+00:05:34,576 --> 00:05:36,176
+você. E ela vai encontrar
+
+142
+00:05:36,176 --> 00:05:38,596
+red flags, tá? Então é interessante.
+
+143
+00:05:39,416 --> 00:05:40,596
+Ética, então cuidado
+
+144
+00:05:40,596 --> 00:05:43,056
+com ferramentas que tem ausência de watermarking,
+
+145
+00:05:43,076 --> 00:05:44,716
+ou que não tem
+
+146
+00:05:44,716 --> 00:05:46,476
+o SymfID ou algo do tipo,
+
+147
+00:05:46,476 --> 00:05:48,316
+que permite geração
+
+148
+00:05:48,316 --> 00:05:50,516
+de rosto e voz de celebridade sem restrição,
+
+149
+00:05:50,536 --> 00:05:51,476
+fica com o pé atrás,
+
+150
+00:05:51,876 --> 00:05:53,936
+e que não tem política sobre o uso militar,
+
+151
+00:05:54,236 --> 00:05:55,896
+também é perigoso, tem que tomar esse cuidado.
+
+152
+00:05:56,876 --> 00:05:58,196
+Beleza? Senão tem imagem sua
+
+153
+00:05:58,196 --> 00:06:00,176
+de outras pessoas saindo aí pra uso militar.
+
+154
+00:06:01,236 --> 00:06:02,316
+Custo-benefício, é óbvio,
+
+155
+00:06:02,356 --> 00:06:04,176
+vai usar ferramentas, tem que olhar custo-benefício.
+
+156
+00:06:04,396 --> 00:06:06,356
+Esses dias eu tava falando com a galera da Vanguarda,
+
+157
+00:06:06,356 --> 00:06:08,136
+e aí teve um aluno meu lá que
+
+158
+00:06:08,136 --> 00:06:10,076
+perguntou assim, Juan, é melhor eu usar
+
+159
+00:06:10,076 --> 00:06:12,396
+o Opus ou eu usar o Sonet?
+
+160
+00:06:13,136 --> 00:06:13,956
+Qual que é a melhor?
+
+161
+00:06:14,156 --> 00:06:15,136
+Eu falei, o Opus.
+
+162
+00:06:17,148 --> 00:06:20,188
+Aí ele falou, beleza, mas o Opus acaba muito rápido.
+
+163
+00:06:20,388 --> 00:06:24,048
+Eu falei, é, então você vai usar a melhor IA que cabe no seu bolso.
+
+164
+00:06:24,628 --> 00:06:28,148
+Porque se você tem dinheiro e sobrando, usa a melhor IA disponível.
+
+165
+00:06:28,148 --> 00:06:31,068
+Vai ser mais rápido, vai ser melhor resultado, provavelmente,
+
+166
+00:06:31,748 --> 00:06:34,448
+porque as empresas vão vender o que elas têm de melhor, né?
+
+167
+00:06:34,448 --> 00:06:34,788
+É óbvio.
+
+168
+00:06:35,968 --> 00:06:37,408
+Agora, não tem grana?
+
+169
+00:06:37,648 --> 00:06:40,088
+Tenta pegar o melhor custo-benefício com o dinheiro que você tem.
+
+170
+00:06:40,728 --> 00:06:44,408
+Toma cuidado com cobrança escondida por resolução e duração de clipe.
+
+171
+00:06:44,408 --> 00:06:46,368
+As maiores não fazem isso,
+
+172
+00:06:46,488 --> 00:06:48,228
+mas às vezes isso acontece muito, tá?
+
+173
+00:06:48,668 --> 00:06:51,328
+Vamos lá, você tem o Seedance.
+
+174
+00:06:51,508 --> 00:06:52,848
+O Seedance é da ByteDance.
+
+175
+00:06:53,708 --> 00:06:56,208
+Sempre tenta encontrar quem que é a dona,
+
+176
+00:06:56,408 --> 00:06:57,688
+a empresa dona do modelo.
+
+177
+00:06:57,988 --> 00:07:00,348
+Porque, por exemplo, quando você digita Seedance,
+
+178
+00:07:00,868 --> 00:07:03,108
+você vai ver que tem alguns oportunistas
+
+179
+00:07:03,108 --> 00:07:05,728
+que são pessoas que criam um site deles,
+
+180
+00:07:05,808 --> 00:07:07,228
+por exemplo, olha esse aqui, o Divid.
+
+181
+00:07:07,768 --> 00:07:09,268
+Ele criou o site dele,
+
+182
+00:07:09,408 --> 00:07:11,748
+ou esses daqui que pra mim são os piores.
+
+183
+00:07:11,808 --> 00:07:13,708
+Esse Divid até vai, porque beleza,
+
+184
+00:07:13,708 --> 00:07:18,088
+O cara tem ali o hub de IaaS dele e ele colocou o Sidense.
+
+185
+00:07:18,228 --> 00:07:19,068
+Legal, tá tudo bem.
+
+186
+00:07:19,348 --> 00:07:21,428
+Mas tem uns oportunistas que fazem isso aqui.
+
+187
+00:07:21,808 --> 00:07:25,328
+Eles criam um site com o nome do modelo, por exemplo, Sidense 2.
+
+188
+00:07:25,948 --> 00:07:29,468
+Aí você entra aqui, mas tem um vibe codezão, tá vendo aqui?
+
+189
+00:07:29,828 --> 00:07:32,288
+Isso aqui é alguém que criou e colocou o modelo aqui.
+
+190
+00:07:32,508 --> 00:07:35,868
+Aí você tá pagando mais caro, seu dado corre o risco de vazar.
+
+191
+00:07:36,308 --> 00:07:39,168
+Então não usa esses sitezinhos assim de vibe code.
+
+192
+00:07:40,008 --> 00:07:42,748
+Sempre vai no modelo original, na empresa oficial.
+
+193
+00:07:42,748 --> 00:07:45,648
+Esse do Seedense, por exemplo, você sabe que é a ByteDense.
+
+194
+00:07:45,768 --> 00:07:47,608
+Então você vai vir aqui, Seed ByteDense.
+
+195
+00:07:47,888 --> 00:07:50,388
+Ah, agora eu sei que eu estou na ByteDense.com.
+
+196
+00:07:50,448 --> 00:07:53,968
+Agora eu estou no site oficial desse modelo.
+
+197
+00:07:54,008 --> 00:07:55,748
+Vou ver se eu consigo usar ele direto daqui.
+
+198
+00:07:56,008 --> 00:07:58,768
+Se não dá para usar, você vai usar num hub confiável.
+
+199
+00:07:58,968 --> 00:08:01,168
+Eu vou passar alguns deles aqui para vocês também.
+
+200
+00:08:01,328 --> 00:08:02,288
+Então sempre fica de olho nisso.
+
+201
+00:08:03,148 --> 00:08:05,908
+Acesso apenas via plano anual, sem opção mensal.
+
+202
+00:08:05,948 --> 00:08:07,008
+Isso aqui também é ruim, tá?
+
+203
+00:08:07,868 --> 00:08:08,728
+Assina o mensal.
+
+204
+00:08:09,508 --> 00:08:11,588
+Se não for hub, se for hub de A, beleza.
+
+205
+00:08:11,588 --> 00:08:13,028
+Hub de A dá para assinar anual.
+
+206
+00:08:13,148 --> 00:08:15,788
+Agora, se for uma IA específica, não assina anual.
+
+207
+00:08:15,888 --> 00:08:18,848
+Porque ela pode ficar obsoleta e outras melhores chegarem.
+
+208
+00:08:19,208 --> 00:08:22,168
+E se não tem trial gratuito, também tem head flag,
+
+209
+00:08:22,208 --> 00:08:24,588
+porque não dá para você experimentar e testar, você vai ter que gastar dinheiro.
+
+210
+00:08:25,168 --> 00:08:26,548
+Qualidade de saída também.
+
+211
+00:08:26,728 --> 00:08:29,868
+Então, aí é a qualidade do resultado da imagem ou do vídeo que você está gerando.
+
+212
+00:08:29,888 --> 00:08:33,888
+No caso aqui, a gente está falando de ferramentas de vídeo.
+
+213
+00:08:34,268 --> 00:08:38,328
+Então, a qualidade do vídeo vai fazer diferença.
+
+214
+00:08:38,448 --> 00:08:40,328
+Modelos melhores vão trazer qualidades melhores.
+
+215
+00:08:40,328 --> 00:08:42,688
+alguns já tem 4K, outros já não tem,
+
+216
+00:08:42,788 --> 00:08:44,588
+alguns tem mais consistência, outros não tem.
+
+217
+00:08:45,268 --> 00:08:47,928
+Nenhuma ferramenta é perfeita em todos os critérios, não existe.
+
+218
+00:08:48,068 --> 00:08:51,228
+Em 2026, a implantação corporativa de alto nível
+
+219
+00:08:51,228 --> 00:08:53,888
+utilizou em média 14 modelos distintos simultaneamente,
+
+220
+00:08:53,928 --> 00:08:55,668
+muitos desses usam hubs de A, tá?
+
+221
+00:08:56,268 --> 00:08:57,968
+Cada ferramenta tem seu ponto forte.
+
+222
+00:08:58,128 --> 00:08:59,788
+Cling é bom em qualidade de saída,
+
+223
+00:08:59,908 --> 00:09:01,728
+Runway é bom em controle criativo,
+
+224
+00:09:02,148 --> 00:09:04,188
+Regen é bom em custo-benefício para avatar.
+
+225
+00:09:04,768 --> 00:09:08,728
+Avalie cada critério pelo peso que ele tem no seu projeto específico,
+
+226
+00:09:08,728 --> 00:09:11,108
+não em abstrato ou pra todos os contextos
+
+227
+00:09:11,108 --> 00:09:13,268
+então não tenta achar uma ferramenta que é a bala de prato
+
+228
+00:09:13,848 --> 00:09:15,248
+olha o projeto que você vai criar
+
+229
+00:09:15,248 --> 00:09:16,928
+e tenta identificar a melhor ferramenta
+
+230
+00:09:16,928 --> 00:09:17,388
+pra aquele projeto
+

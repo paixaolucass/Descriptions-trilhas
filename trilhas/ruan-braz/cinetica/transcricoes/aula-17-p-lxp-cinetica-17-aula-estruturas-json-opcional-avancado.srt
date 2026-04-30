@@ -1,0 +1,2744 @@
+1
+00:00:00,156 --> 00:00:01,916
+vamos falar agora de estruturas JSON,
+
+2
+00:00:02,536 --> 00:00:03,916
+estruturas JSON para
+
+3
+00:00:03,916 --> 00:00:05,956
+prompts avançados. Isso
+
+4
+00:00:05,956 --> 00:00:08,036
+aconteceu no final de 2024,
+
+5
+00:00:08,236 --> 00:00:10,116
+início de 2025, se eu não me
+
+6
+00:00:10,116 --> 00:00:11,996
+engano, que algumas pessoas tiveram a ideia
+
+7
+00:00:11,996 --> 00:00:13,956
+de usar uma linguagem diferente
+
+8
+00:00:13,956 --> 00:00:15,676
+para escrever o prompt para IA,
+
+9
+00:00:15,776 --> 00:00:18,176
+que é o JSON. JSON é uma linguagem
+
+10
+00:00:18,176 --> 00:00:20,236
+de programação, muito utilizada
+
+11
+00:00:20,236 --> 00:00:21,736
+para trabalhar com dados,
+
+12
+00:00:22,756 --> 00:00:24,036
+para poder dialogar com
+
+13
+00:00:24,036 --> 00:00:26,016
+banco de dados e muito boa
+
+14
+00:00:26,016 --> 00:00:28,316
+para usar para dialogar com inteligências artificiais
+
+15
+00:00:28,316 --> 00:00:29,136
+quando você quer
+
+16
+00:00:29,136 --> 00:00:31,376
+algum tipo de precisão
+
+17
+00:00:31,376 --> 00:00:32,876
+no movimento
+
+18
+00:00:32,876 --> 00:00:35,656
+ou na cena. É desnecessário
+
+19
+00:00:35,656 --> 00:00:37,416
+usar JSON pra imagem, não precisa,
+
+20
+00:00:37,676 --> 00:00:39,596
+mas em vídeo, em alguns casos, pode ser
+
+21
+00:00:39,596 --> 00:00:41,576
+interessante. JSON é o padrão
+
+22
+00:00:41,576 --> 00:00:43,996
+então da indústria pra decomposição
+
+23
+00:00:43,996 --> 00:00:45,696
+de roteiros em shot breakdowns.
+
+24
+00:00:46,596 --> 00:00:47,656
+Permite controles
+
+25
+00:00:47,656 --> 00:00:49,476
+paramétricos absolutos, timestamp
+
+26
+00:00:49,476 --> 00:00:51,616
+prompting e integração direta com
+
+27
+00:00:51,616 --> 00:00:53,556
+LLM na fase de pré-produção profissional.
+
+28
+00:00:54,016 --> 00:00:55,756
+Basicamente, então, você consegue
+
+29
+00:00:55,756 --> 00:00:57,856
+a IA vai conseguir interpretar
+
+30
+00:00:57,856 --> 00:00:59,616
+melhor o que acontece em cada momento
+
+31
+00:00:59,616 --> 00:01:01,716
+do vídeo, usando essa
+
+32
+00:01:01,716 --> 00:01:03,756
+linguagem. Por que usar JSON em
+
+33
+00:01:03,756 --> 00:01:06,016
+prompt? O processo nunca se inicia diretamente
+
+34
+00:01:06,016 --> 00:01:07,556
+nas plataformas de vídeo, mas no
+
+35
+00:01:07,556 --> 00:01:09,796
+território semântico governado
+
+36
+00:01:09,796 --> 00:01:11,156
+por LLMs. O JSON
+
+37
+00:01:11,156 --> 00:01:13,756
+é a ponte entre a intenção narrativa
+
+38
+00:01:13,756 --> 00:01:15,616
+e o controle paramétrico. Eu vou até
+
+39
+00:01:15,616 --> 00:01:17,676
+diminuir um pouco aqui o zoom, porque estava cortando ali.
+
+40
+00:01:19,068 --> 00:01:22,628
+Vamos lá, primeiro ponto então, controle paramétrico absoluto.
+
+41
+00:01:22,648 --> 00:01:24,328
+O que é um controle paramétrico?
+
+42
+00:01:24,628 --> 00:01:26,868
+É um controle de parâmetros.
+
+43
+00:01:26,928 --> 00:01:28,428
+E o que são parâmetros?
+
+44
+00:01:28,648 --> 00:01:33,388
+Parâmetro é um outro jeito de comunicar com a IA, diferente do prompt.
+
+45
+00:01:33,768 --> 00:01:36,848
+Ele é um tipo de prompt também, mas...
+
+46
+00:01:38,364 --> 00:01:40,504
+Na verdade, seria até errado eu falar que ele é um tipo de prompt.
+
+47
+00:01:40,824 --> 00:01:44,764
+O parâmetro, ele é uma definição que você coloca na ferramenta
+
+48
+00:01:44,764 --> 00:01:47,164
+ou que você pode colocar na inteligência artificial,
+
+49
+00:01:47,284 --> 00:01:48,324
+no modelo que você está usando.
+
+50
+00:01:48,704 --> 00:01:52,224
+E essa definição, ela não é quebrada pela IA.
+
+51
+00:01:52,864 --> 00:01:54,644
+Ela é quase como um script.
+
+52
+00:01:54,864 --> 00:01:58,664
+Ela é uma trava para a IA seguir em uma determinada direção.
+
+53
+00:01:58,764 --> 00:02:01,304
+Um parâmetro, então, se eu falo, por exemplo, assim,
+
+54
+00:02:01,324 --> 00:02:03,164
+um parâmetro é que eu quero um vídeo quadrado.
+
+55
+00:02:03,624 --> 00:02:05,584
+A IA não vai sair do vídeo quadrado.
+
+56
+00:02:05,624 --> 00:02:07,344
+Ela vai fazer o vídeo quadrado.
+
+57
+00:02:07,344 --> 00:02:10,504
+Mesmo que eu coloque no prompt, eu quero um vídeo 16 por 9,
+
+58
+00:02:10,624 --> 00:02:12,584
+mas se no parâmetro está que o vídeo é quadrado,
+
+59
+00:02:12,744 --> 00:02:13,904
+o vídeo vai sair quadrado.
+
+60
+00:02:14,364 --> 00:02:18,064
+Então você define esses parâmetros por fora do prompt.
+
+61
+00:02:18,844 --> 00:02:20,544
+Só que quando você trabalha com JSON,
+
+62
+00:02:21,344 --> 00:02:24,184
+você consegue ter um controle de parâmetros
+
+63
+00:02:24,184 --> 00:02:25,784
+de dentro do seu prompt.
+
+64
+00:02:26,524 --> 00:02:30,084
+Não só dependendo da ferramenta para clicar ali e ajustar os parâmetros.
+
+65
+00:02:30,364 --> 00:02:33,364
+Vou dar um exemplo para vocês agora usando aqui o Google AI Studio.
+
+66
+00:02:33,704 --> 00:02:35,484
+Quando você entra no Google AI Studio,
+
+67
+00:02:35,484 --> 00:02:41,044
+Você tem aqui uma ferramenta que é mais utilizada por profissionais, desenvolvedores, que vão trabalhar com API.
+
+68
+00:02:41,744 --> 00:02:48,624
+Ou seja, você conecta o modelo de A numa ferramenta, num software, e aí você consegue conectar via API para gerar imagens ali.
+
+69
+00:02:49,064 --> 00:02:51,364
+E aí você tem um controle total do modelo.
+
+70
+00:02:52,184 --> 00:02:56,324
+Dentro desse controle total, se você ver aqui do lado, eu tenho essa barra de parâmetros.
+
+71
+00:02:56,364 --> 00:03:01,404
+Aqui eu posso escolher o modelo, então eu tenho o VEL 3.1, VEL 3.1 Fast e o VEL 2.
+
+72
+00:03:01,984 --> 00:03:04,944
+Além disso, eu tenho outros modelos aqui que eu posso selecionar também.
+
+73
+00:03:04,944 --> 00:03:07,764
+Mas eu estou no VEL, se eu colocar aqui o VEL 2, por exemplo,
+
+74
+00:03:07,784 --> 00:03:10,384
+pode ser que mudem os parâmetros que eu tenho aqui,
+
+75
+00:03:10,444 --> 00:03:13,444
+comparando com o VEL 3, podem ter parâmetros diferentes.
+
+76
+00:03:14,024 --> 00:03:15,664
+E aí aqui nos parâmetros, o que eu tenho?
+
+77
+00:03:15,744 --> 00:03:18,504
+Números de resultados, aspect rate, duração do vídeo,
+
+78
+00:03:18,784 --> 00:03:21,444
+tenho também o frame rate, tenho também a resolução,
+
+79
+00:03:21,524 --> 00:03:23,164
+e tenho o prompt negativo.
+
+80
+00:03:23,224 --> 00:03:24,724
+Aqui eu coloco o prompt positivo.
+
+81
+00:03:25,304 --> 00:03:25,744
+Beleza?
+
+82
+00:03:25,804 --> 00:03:27,764
+Isso são os parâmetros do VEL 3.1.
+
+83
+00:03:27,884 --> 00:03:31,144
+No VEL 3.2 eu tenho os mesmos parâmetros aqui,
+
+84
+00:03:31,264 --> 00:03:33,284
+alguns eu posso ajustar, outros não.
+
+85
+00:03:33,284 --> 00:03:38,584
+Quando eu venho no cling e coloco aqui generate, eu tenho aqui parâmetros para trabalhar também.
+
+86
+00:03:39,064 --> 00:03:47,964
+Então quando eu escolho aqui se eu quero aspect ratio, se eu quero modo de HD apenas ou Full HD,
+
+87
+00:03:49,184 --> 00:03:51,964
+quantas versões eu quero que ele gere, tudo isso aqui são parâmetros.
+
+88
+00:03:52,184 --> 00:03:54,224
+Só que esses parâmetros são limitados.
+
+89
+00:03:54,264 --> 00:04:00,524
+Você consegue trazer muitos outros parâmetros para IA, como temperatura, estranheza e coisas do tipo.
+
+90
+00:04:00,524 --> 00:04:03,404
+quando você utiliza JSON, você consegue
+
+91
+00:04:03,404 --> 00:04:05,444
+gerenciar esses parâmetros direto
+
+92
+00:04:05,444 --> 00:04:07,164
+no prompt. Então, cada parâmetro é uma
+
+93
+00:04:07,164 --> 00:04:09,344
+chave explícita. Não há ambiguidade
+
+94
+00:04:09,344 --> 00:04:11,124
+sobre o que pertence à câmera,
+
+95
+00:04:11,164 --> 00:04:13,144
+ao sujeito ou à iluminação. Cada
+
+96
+00:04:13,144 --> 00:04:15,324
+elemento tem seu slot definido. Então, você
+
+97
+00:04:15,324 --> 00:04:16,724
+tem mais precisão usando JSON.
+
+98
+00:04:17,404 --> 00:04:19,084
+Integração com LLMs. Então,
+
+99
+00:04:19,164 --> 00:04:20,804
+ao solicitar o shot breakdown
+
+100
+00:04:20,804 --> 00:04:23,224
+em JSON a um modelo de linguagem,
+
+101
+00:04:23,244 --> 00:04:25,244
+você garante que cada tomada contenha todos
+
+102
+00:04:25,244 --> 00:04:27,384
+os seis elementos do framework sem omissão.
+
+103
+00:04:27,584 --> 00:04:29,204
+Quais são os seis elementos do framework?
+
+104
+00:04:29,204 --> 00:04:31,104
+que o que a gente viu na aula de prompt básico.
+
+105
+00:04:31,144 --> 00:04:33,804
+Volta lá, assiste essa aula, você vai ver quais são esses seis elementos.
+
+106
+00:04:34,804 --> 00:04:37,164
+Reduzindo gerações por falta de especificidade.
+
+107
+00:04:38,404 --> 00:04:39,444
+Reprodutibilidade e versionamento.
+
+108
+00:04:39,484 --> 00:04:40,964
+Como você tem mais precisão também,
+
+109
+00:04:41,064 --> 00:04:43,824
+você consegue versionar um JSON no Git.
+
+110
+00:04:44,504 --> 00:04:46,764
+Eu não vou entrar aqui agora no que é um Git,
+
+111
+00:04:46,924 --> 00:04:49,944
+mas basicamente você consegue ter um histórico
+
+112
+00:04:49,944 --> 00:04:52,004
+de todas as alterações que você vai fazendo
+
+113
+00:04:52,004 --> 00:04:54,604
+e consegue voltar para versões anteriores.
+
+114
+00:04:54,864 --> 00:04:57,104
+O que eu estava fazendo ali no Google Docs com você
+
+115
+00:04:57,104 --> 00:04:59,784
+era simulando uma ideia do que o Git faz,
+
+116
+00:04:59,924 --> 00:05:01,944
+que é eu vou guardando o histórico ali manualmente.
+
+117
+00:05:02,164 --> 00:05:04,244
+Quando você instala o Git no seu computador,
+
+118
+00:05:04,344 --> 00:05:08,084
+você consegue deixar com que ele já vá versionando para você.
+
+119
+00:05:08,284 --> 00:05:10,944
+E depois você consegue, inclusive, subir isso numa cloud,
+
+120
+00:05:10,984 --> 00:05:13,364
+como um GitHub, por exemplo, e deixar aquilo guardado.
+
+121
+00:05:13,364 --> 00:05:14,944
+E outras pessoas podem usar também,
+
+122
+00:05:15,404 --> 00:05:17,624
+com as versões dos vídeos que você fez.
+
+123
+00:05:17,704 --> 00:05:19,244
+Ou seja, é mais profissional.
+
+124
+00:05:19,744 --> 00:05:21,624
+Também é um pouco mais avançado.
+
+125
+00:05:22,384 --> 00:05:25,564
+Ele é compartilhável com equipes e modificável cirurgicamente.
+
+126
+00:05:25,564 --> 00:05:29,524
+Então, eu consigo mudar uma parte específica do vídeo
+
+127
+00:05:29,524 --> 00:05:31,384
+sem ter que mudar o vídeo inteiro.
+
+128
+00:05:32,104 --> 00:05:34,744
+Alterar apenas a chave light, primary, calvin
+
+129
+00:05:35,764 --> 00:05:37,524
+sem tocar no restante.
+
+130
+00:05:37,644 --> 00:05:39,864
+É impossível em texto livre.
+
+131
+00:05:40,204 --> 00:05:43,144
+Então, basicamente, se você vai fazer só com prompt sem JSON,
+
+132
+00:05:43,304 --> 00:05:46,664
+você gera um prompt ali
+
+133
+00:05:47,304 --> 00:05:49,464
+e aí depois você quer mudar um detalhinho ali,
+
+134
+00:05:49,504 --> 00:05:50,124
+você tem que gerar outro.
+
+135
+00:05:50,504 --> 00:05:52,984
+E se você faz isso direto, é importante eu falar.
+
+136
+00:05:53,084 --> 00:05:55,464
+Se você, ah, eu vou jogar um JSON aqui, vai funcionar?
+
+137
+00:05:56,144 --> 00:05:56,664
+Não.
+
+138
+00:05:57,244 --> 00:05:58,144
+Não exatamente.
+
+139
+00:05:59,004 --> 00:06:01,964
+Pode até funcionar, assim, vai ter algum resultado,
+
+140
+00:06:02,284 --> 00:06:05,064
+mas, e a galera usa, assim, e usa errado, tá?
+
+141
+00:06:05,144 --> 00:06:08,544
+O jeito certo de usar JSON é usando com API
+
+142
+00:06:08,544 --> 00:06:10,364
+no seu próprio software,
+
+143
+00:06:10,504 --> 00:06:12,564
+ou num software que você tem na sua máquina aí,
+
+144
+00:06:12,624 --> 00:06:15,344
+que você consegue ter controle total do vídeo.
+
+145
+00:06:15,704 --> 00:06:18,004
+Se você faz isso nesses daqui,
+
+146
+00:06:18,184 --> 00:06:21,024
+você tá limitado pela ferramenta da empresa
+
+147
+00:06:21,024 --> 00:06:22,244
+que fez essa ferramenta aqui.
+
+148
+00:06:22,384 --> 00:06:25,304
+E aí você joga o JSON ali, mas essas ferramentas aqui,
+
+149
+00:06:25,304 --> 00:06:30,144
+que elas colocam travas, que são travas contra um conceito chamado prompt injection.
+
+150
+00:06:30,624 --> 00:06:31,824
+O que é prompt injection?
+
+151
+00:06:32,184 --> 00:06:37,264
+É você injetar comandos que podem ser prejudiciais para a ferramenta
+
+152
+00:06:37,264 --> 00:06:39,004
+direto na caixinha de prompt.
+
+153
+00:06:39,224 --> 00:06:44,304
+Tem muita gente que já fez isso, isso é um hacking bestinha que dá para fazer,
+
+154
+00:06:44,364 --> 00:06:47,184
+mas as empresas agora estão ficando mais preparadas para isso,
+
+155
+00:06:47,284 --> 00:06:52,144
+que você consegue mexer no sistema da empresa pelo prompt do modelo aqui.
+
+156
+00:06:52,304 --> 00:06:54,944
+Então as empresas agora estão mais espertas em relação a isso.
+
+157
+00:06:55,304 --> 00:06:58,484
+não estão deixando barato os prompt injections,
+
+158
+00:06:58,884 --> 00:07:01,164
+e aí por isso você pode até jogar um JSON aqui,
+
+159
+00:07:01,244 --> 00:07:05,424
+mas não vai funcionar como deveria se você usasse ele direto no seu computador,
+
+160
+00:07:05,464 --> 00:07:06,624
+então é bom deixar isso claro também.
+
+161
+00:07:06,684 --> 00:07:10,464
+É um pouco mais avançado, não vai ser resolvido aqui nessa trilha toda de vídeo,
+
+162
+00:07:10,684 --> 00:07:13,204
+mas se você segue nas nossas trilhas mais avançadas,
+
+163
+00:07:13,244 --> 00:07:14,584
+se você vai para a trilha de web app,
+
+164
+00:07:14,864 --> 00:07:17,044
+se você assiste o Atlas, por exemplo,
+
+165
+00:07:17,044 --> 00:07:19,104
+às vezes você pode pegar a gravação do Atlas aí também,
+
+166
+00:07:19,284 --> 00:07:20,484
+você vai aprender a fazer isso aqui.
+
+167
+00:07:20,584 --> 00:07:23,184
+Não o Atlas 1, inclusive a gente vai tirar o Atlas 1 do ar,
+
+168
+00:07:23,244 --> 00:07:25,064
+porque ele ficou ultrapassado,
+
+169
+00:07:25,304 --> 00:07:27,544
+Mas o Atlas 2, dependendo do momento que você está assistindo isso,
+
+170
+00:07:27,564 --> 00:07:28,944
+já vai estar disponível a gravação aí.
+
+171
+00:07:29,024 --> 00:07:30,024
+Você pode assistir também.
+
+172
+00:07:30,964 --> 00:07:31,364
+Beleza?
+
+173
+00:07:31,444 --> 00:07:33,904
+E compatibilidade com pipelines avançados.
+
+174
+00:07:34,024 --> 00:07:35,904
+Então, o que é um pipeline avançado?
+
+175
+00:07:36,024 --> 00:07:40,124
+São justamente esses pipelines que você tem o workflow dentro do seu computador
+
+176
+00:07:40,124 --> 00:07:41,704
+ou num computador virtual também.
+
+177
+00:07:41,944 --> 00:07:44,624
+E aí você tem mais controle do que você está fazendo com o vídeo.
+
+178
+00:07:44,804 --> 00:07:48,084
+Então, tem o Hilo Minimax, tem o ConfY, tem o LTX Studio,
+
+179
+00:07:48,304 --> 00:07:50,684
+que vão aceitar esses parâmetros estruturados.
+
+180
+00:07:50,764 --> 00:07:53,624
+Se você usa direto no navegador, não vai ser tão bom assim.
+
+181
+00:07:53,824 --> 00:07:54,224
+Beleza?
+
+182
+00:07:54,224 --> 00:07:59,804
+O JSON é o formato nativo de interoperabilidade entre ferramentas.
+
+183
+00:07:59,804 --> 00:08:02,004
+Meu Deus, que palavra estranha, não sei o que significa.
+
+184
+00:08:03,044 --> 00:08:05,964
+Interoperabilidade é operar dentro de uma ferramenta,
+
+185
+00:08:06,044 --> 00:08:10,464
+que é uma técnica mais avançada que você instala no seu computador
+
+186
+00:08:10,464 --> 00:08:14,004
+e você tem um controle maior ali dos vídeos que você está gerando, tá bom?
+
+187
+00:08:14,524 --> 00:08:16,004
+Tipos de estrutura JSON.
+
+188
+00:08:16,304 --> 00:08:17,904
+Primeira estrutura, timestamp.
+
+189
+00:08:18,124 --> 00:08:20,444
+Timestamp é a marcação de tempo de um vídeo.
+
+190
+00:08:20,444 --> 00:08:27,584
+permite especificar exatamente quais eventos e movimentos de câmera devem ocorrer em cada segundo específico do vídeo.
+
+191
+00:08:27,844 --> 00:08:33,024
+Isso dá microgerenciamento, que é uma coisa que pode ser ruim, mas também pode ser muito boa,
+
+192
+00:08:33,124 --> 00:08:35,864
+dependendo do quanto de controle que você quer ter no vídeo.
+
+193
+00:08:36,224 --> 00:08:40,484
+Então, por exemplo, de 0 a 3 segundos, a câmera realiza um push em lento no rosto.
+
+194
+00:08:40,704 --> 00:08:43,724
+Aos 4 segundos, o sujeito pisca e olha para baixo.
+
+195
+00:08:43,844 --> 00:08:46,344
+Um grau de controle temporal inédito.
+
+196
+00:08:46,344 --> 00:08:50,244
+Então, quando vai trabalhar com o JSON, você consegue fazer esse tipo de trabalho.
+
+197
+00:08:50,744 --> 00:08:51,704
+Aqui está o prompt.
+
+198
+00:08:51,924 --> 00:08:55,684
+Aí vocês vão olhar e vão falar, meu Deus, vou ter que saber programar agora.
+
+199
+00:08:56,524 --> 00:08:59,364
+Não, você consegue pedir para ir a traduzir isso para você, tá?
+
+200
+00:08:59,724 --> 00:09:02,904
+Você pega o seu prompt e pede para ir a traduzir o seu prompt em JSON.
+
+201
+00:09:03,124 --> 00:09:06,004
+E aí depois você consegue vir editando o time range aqui.
+
+202
+00:09:06,424 --> 00:09:07,244
+Entendeu a lógica?
+
+203
+00:09:07,804 --> 00:09:11,064
+Não é, é mais fácil do que parece, tá?
+
+204
+00:09:11,224 --> 00:09:13,284
+Fica tranquilo, que é mais fácil do que parece.
+
+205
+00:09:13,364 --> 00:09:15,164
+Mas vamos seguir aqui para vocês entenderem um pouco melhor.
+
+206
+00:09:15,764 --> 00:09:17,724
+Como solicitar um JSON ou uma LLM?
+
+207
+00:09:17,824 --> 00:09:18,684
+É o que eu acabei de falar.
+
+208
+00:09:18,824 --> 00:09:21,844
+Você não precisa escrever, você pede para a IA fazer isso para você.
+
+209
+00:09:22,204 --> 00:09:25,484
+O fluxo de trabalho profissional começa sempre com um LLM,
+
+210
+00:09:25,484 --> 00:09:27,844
+como o Cloud ou o ChatGPT, na fase de pré-produção.
+
+211
+00:09:28,244 --> 00:09:30,424
+Nunca diretamente nas plataformas de vídeo.
+
+212
+00:09:31,124 --> 00:09:34,324
+A gente vai falar de fluxo já já, técnicas e processos.
+
+213
+00:09:34,904 --> 00:09:37,504
+Aqui já tem um prompt para gerar shot breakdown.
+
+214
+00:09:37,844 --> 00:09:40,064
+Você pode copiar esse prompt aqui, inclusive,
+
+215
+00:09:40,264 --> 00:09:43,204
+e pode criar um assistente seu.
+
+216
+00:09:43,284 --> 00:09:44,544
+Eu ensinei isso na última aula.
+
+217
+00:09:44,544 --> 00:09:46,404
+então você pode criar um assistente seu aqui
+
+218
+00:09:46,404 --> 00:09:48,444
+que vai fazer isso pra você, mas é muito
+
+219
+00:09:48,444 --> 00:09:50,344
+fácil, olha só, você é um diretor de cinema
+
+220
+00:09:50,344 --> 00:09:51,984
+especializado em a generativa de vídeo
+
+221
+00:09:51,984 --> 00:09:54,184
+preciso de um shot breakdown em JSON
+
+222
+00:09:54,184 --> 00:09:56,664
+para os seguintes conceitos, aí você coloca o conceito
+
+223
+00:09:56,664 --> 00:09:58,484
+aqui, para cada plano inclua
+
+224
+00:09:58,484 --> 00:10:00,464
+obrigatoriamente, shot ID e
+
+225
+00:10:00,464 --> 00:10:02,364
+duration seconds, câmera
+
+226
+00:10:02,364 --> 00:10:04,644
+subject, action, environment
+
+227
+00:10:04,644 --> 00:10:06,204
+lighting, style
+
+228
+00:10:06,204 --> 00:10:07,424
+e negative prompt
+
+229
+00:10:08,344 --> 00:10:10,504
+o que é isso tudo aqui? é a estrutura que eu já
+
+230
+00:10:10,504 --> 00:10:12,424
+ensinei pra você na aula de prompt básico
+
+231
+00:10:12,424 --> 00:10:14,444
+tá tudo escrito aqui, usa a estrutura
+
+232
+00:10:14,444 --> 00:10:16,484
+de seis partes, câmera, sujeito, tá tudo
+
+233
+00:10:16,484 --> 00:10:17,564
+aqui de novo.
+
+234
+00:10:18,144 --> 00:10:19,564
+Aí, beleza, esse é o primeiro passo.
+
+235
+00:10:21,244 --> 00:10:22,924
+JSON, aqui vem o outro ponto.
+
+236
+00:10:23,004 --> 00:10:24,104
+Vou fazer aqui para vocês verem.
+
+237
+00:10:26,236 --> 00:10:31,476
+Vou usar, estou usando muito Gemini e ChatEpt, vamos ao Cloud aqui um pouquinho agora.
+
+238
+00:10:32,764 --> 00:10:33,744
+Então vou jogar isso aqui no Cloud.
+
+239
+00:10:35,836 --> 00:10:37,236
+E vou colar aqui para ele o seguinte.
+
+240
+00:10:40,220 --> 00:10:42,160
+Um ursinho andando.
+
+241
+00:10:43,740 --> 00:10:44,660
+de criança.
+
+242
+00:10:46,080 --> 00:10:47,160
+Ursinho de pelúcia.
+
+243
+00:10:47,780 --> 00:10:49,540
+Vocês viram que ele trocou o texto aqui
+
+244
+00:10:49,540 --> 00:10:50,820
+porque ele identificou
+
+245
+00:10:51,480 --> 00:10:53,480
+que eu tenho parâmetros escritos aqui,
+
+246
+00:10:53,580 --> 00:10:54,980
+mas eu vou mandar desse jeito mesmo, tá?
+
+247
+00:10:58,044 --> 00:10:59,364
+Vamos deixar ele trabalhar para a gente.
+
+248
+00:11:01,980 --> 00:11:03,140
+E vamos ver ele fazer a estrutura.
+
+249
+00:11:08,188 --> 00:11:09,328
+Inclusive, pra código, assim,
+
+250
+00:11:10,448 --> 00:11:11,648
+tanto o Cloud, quanto
+
+251
+00:11:11,648 --> 00:11:14,188
+o JetGPT, quanto o Gemini são muito bons, tá?
+
+252
+00:11:14,548 --> 00:11:16,488
+Principalmente se você usa direto no seu computador,
+
+253
+00:11:16,508 --> 00:11:18,408
+se você usa o Cloud Code, o Codex
+
+254
+00:11:18,408 --> 00:11:20,248
+do GPT, ou se você usa
+
+255
+00:11:20,248 --> 00:11:21,708
+o Gemini também
+
+256
+00:11:22,428 --> 00:11:23,548
+direto no Anti-Gravity,
+
+257
+00:11:23,628 --> 00:11:25,888
+você consegue fazer isso direto na ferramenta.
+
+258
+00:11:25,888 --> 00:11:28,268
+Bem mais fácil. Sabe a ferramenta que eu tava usando na última
+
+259
+00:11:28,268 --> 00:11:29,988
+aula? Parecia um ninho de
+
+260
+00:11:29,988 --> 00:11:32,128
+marfagafos lá? Aquela ferramenta é
+
+261
+00:11:32,128 --> 00:11:33,948
+poderosa. É a ferramenta que eu mais tenho utilizado
+
+262
+00:11:33,948 --> 00:11:35,968
+ultimamente pra qualquer coisa que eu tô criando aqui.
+
+263
+00:11:36,388 --> 00:11:37,848
+Seja se eu for criar uma imagem,
+
+264
+00:11:37,848 --> 00:11:39,788
+se for criar um vídeo, tudo eu trabalho ali dentro.
+
+265
+00:11:40,588 --> 00:11:42,288
+Vamos ver, ele está trabalhando aqui para a gente.
+
+266
+00:11:43,068 --> 00:11:46,228
+No caso, ele está transformando, ele vai criar o prompt,
+
+267
+00:11:46,348 --> 00:11:48,848
+depois de criar o prompt, ele vai criar o JSON desse prompt.
+
+268
+00:11:50,652 --> 00:11:53,032
+Então agora aqui a gente espera ele gerar esse resultado.
+
+269
+00:11:53,852 --> 00:11:56,112
+Vocês estavam esperando aulas nesse nível aqui?
+
+270
+00:11:56,432 --> 00:11:57,612
+Num curso gratuito?
+
+271
+00:11:57,972 --> 00:11:58,952
+Fala a verdade aí.
+
+272
+00:11:59,512 --> 00:12:02,852
+E olha, eu não tô fazendo, eu não tô clicando em botões, né?
+
+273
+00:12:02,932 --> 00:12:03,412
+Vocês estão vendo.
+
+274
+00:12:03,452 --> 00:12:05,972
+E mesmo assim, a aula tá interessante, não tá?
+
+275
+00:12:06,032 --> 00:12:06,952
+Sejam sinceros.
+
+276
+00:12:07,572 --> 00:12:09,412
+É só conter um pouco da ansiedade.
+
+277
+00:12:09,632 --> 00:12:13,752
+Eu tô dando poderes aqui pra vocês, inclusive, saberem explicar o que que tá acontecendo aqui.
+
+278
+00:12:14,492 --> 00:12:18,232
+Pergunta depois, pega alguém que tá gerando vídeo, que só sabe seguir tutorial e fala
+
+279
+00:12:18,232 --> 00:12:20,152
+fala, você sabe qual que é a diferença de fazer um prompt
+
+280
+00:12:20,152 --> 00:12:21,992
+em JSON e fazer um prompt
+
+281
+00:12:21,992 --> 00:12:24,132
+direto com texto? A pessoa nem
+
+282
+00:12:24,132 --> 00:12:26,292
+sabe a diferença. Ela fala, ah, é porque
+
+283
+00:12:26,292 --> 00:12:27,612
+eu consigo fazer aqueles vídeos
+
+284
+00:12:27,612 --> 00:12:30,332
+em JSON, consigo fazer o vídeo do objeto quebrando.
+
+285
+00:12:30,512 --> 00:12:31,552
+Não, isso é só um exemplo.
+
+286
+00:12:32,012 --> 00:12:34,172
+Olha só o que nós temos aqui, então. Ele ainda fez
+
+287
+00:12:34,172 --> 00:12:36,052
+aqui SH1, SH2, SH3,
+
+288
+00:12:36,112 --> 00:12:37,992
+SH4 e SH5.
+
+289
+00:12:39,112 --> 00:12:39,972
+Basicamente, o que que é isso?
+
+290
+00:12:39,992 --> 00:12:41,612
+Ele quebrou pra gente aqui
+
+291
+00:12:42,092 --> 00:12:42,452
+o...
+
+292
+00:12:44,592 --> 00:12:46,332
+toda a estrutura da narrativa
+
+293
+00:12:46,332 --> 00:12:48,112
+que a gente quer construir. Isso aqui
+
+294
+00:12:48,112 --> 00:12:50,092
+o Claude faz muito bem, cara, ele já fez
+
+295
+00:12:50,092 --> 00:12:52,072
+uma interface pra gente aqui, com
+
+296
+00:12:52,072 --> 00:12:53,852
+cada uma das cenas, né?
+
+297
+00:12:54,472 --> 00:12:56,052
+Então tem aqui primeiro estabelecimento
+
+298
+00:12:56,052 --> 00:12:58,012
+do ambiente, depois close, detalhe,
+
+299
+00:12:58,052 --> 00:13:00,052
+depois caminhada, depois
+
+300
+00:13:00,052 --> 00:13:02,292
+pov do ursinho, depois parada
+
+301
+00:13:02,292 --> 00:13:04,592
+e contemplação. Aí basicamente
+
+302
+00:13:04,592 --> 00:13:06,352
+aqui ele tá me explicando,
+
+303
+00:13:06,352 --> 00:13:08,152
+isso aqui não é o prompt, é ele explicando
+
+304
+00:13:08,152 --> 00:13:10,052
+as decisões que ele tomou em cada etapa,
+
+305
+00:13:10,172 --> 00:13:12,292
+beleza? Tem a descrição física aqui,
+
+306
+00:13:12,752 --> 00:13:14,132
+tem as âncoras identificadas,
+
+307
+00:13:14,132 --> 00:13:15,812
+tá meio ruim de ver, mas tá aqui a inclinação
+
+308
+00:13:15,812 --> 00:13:17,972
+ação de 5 graus da cabeça, fio solto.
+
+309
+00:13:17,992 --> 00:13:19,732
+Isso tudo parece absurdo, né?
+
+310
+00:13:19,792 --> 00:13:21,892
+Mas esse nível de precisão com JSON você consegue
+
+311
+00:13:21,892 --> 00:13:23,972
+ter um pouco mais do que só no prompt.
+
+312
+00:13:24,132 --> 00:13:26,252
+Então tem aqui nossas 6 camadas
+
+313
+00:13:26,252 --> 00:13:27,912
+definidas, o prompt
+
+314
+00:13:27,912 --> 00:13:29,972
+negativo também. Embaixo
+
+315
+00:13:29,972 --> 00:13:31,752
+tem o prompt aqui natural.
+
+316
+00:13:33,052 --> 00:13:33,532
+Beleza?
+
+317
+00:13:34,844 --> 00:13:36,404
+E agora eu vou pedir para ele
+
+318
+00:13:36,404 --> 00:13:38,964
+vou pedir para ele aqui fazer o prompt
+
+319
+00:13:38,964 --> 00:13:40,684
+em JSON. Agora gere
+
+320
+00:13:40,684 --> 00:13:43,004
+o prompt em JSON.
+
+321
+00:13:53,404 --> 00:13:54,664
+Deixa ele trabalhar aqui dentro.
+
+322
+00:14:04,700 --> 00:14:07,260
+Está montando toda a estrutura aqui.
+
+323
+00:14:09,884 --> 00:14:12,864
+Aí o que a gente pode fazer? A gente pode salvar isso aqui no...
+
+324
+00:14:15,260 --> 00:14:18,840
+A gente pode jogar esse prompt aqui direto no navegador,
+
+325
+00:14:19,620 --> 00:14:21,540
+nas ferramentas de vídeo que existem,
+
+326
+00:14:21,740 --> 00:14:23,780
+ou eu posso conectar uma API.
+
+327
+00:14:25,724 --> 00:14:28,604
+E dessa API, eu gero o vídeo direto no meu computador.
+
+328
+00:14:28,764 --> 00:14:29,684
+O que eu vou fazer aqui?
+
+329
+00:14:30,164 --> 00:14:34,684
+Eu vou fazer direto no meu computador e vou fazer também direto no navegador.
+
+330
+00:14:35,044 --> 00:14:39,524
+Mas no computador, existe uma série de passos que precisam ser executados antes
+
+331
+00:14:39,524 --> 00:14:43,084
+para poder configurar o seu PC, colocar certinho as ferramentas,
+
+332
+00:14:43,084 --> 00:14:46,184
+configurar a ferramenta de código, configurar os agentes certinhos.
+
+333
+00:14:46,284 --> 00:14:49,984
+Mas eu vou fazer aqui para você ver as diferenças no resultado.
+
+334
+00:14:50,344 --> 00:14:53,844
+Inclusive, no computador, usando a API, eu consigo vídeos bem mais longos também.
+
+335
+00:14:53,984 --> 00:14:55,564
+Eu tenho um controle muito maior aqui.
+
+336
+00:14:56,304 --> 00:14:57,604
+Olha o tamanho do prompt, hein?
+
+337
+00:14:59,324 --> 00:15:05,444
+Eu acho que no navegador não vai funcionar, mas direto no computador funciona, é mais avançado.
+
+338
+00:15:05,544 --> 00:15:08,604
+Quer aprender o avançado? Assiste o Atlas.
+
+339
+00:15:08,924 --> 00:15:14,804
+Ou também, se você quer ter um passo a passo, direcionado, pegando na sua mão todos os dias,
+
+340
+00:15:14,824 --> 00:15:20,484
+durante um ano inteiro, entra na Vanguarda, que é a nossa mentoria avançada para acelerar os seus resultados.
+
+341
+00:15:20,944 --> 00:15:25,844
+Aí lá você tem a nossa comunidade, toda semana a gente tem aula, são duas aulas por semana,
+
+342
+00:15:25,844 --> 00:15:29,704
+toda quarta e toda sexta-feira, fora que tem semana que tem três aulas,
+
+343
+00:15:29,704 --> 00:15:34,044
+porque tem masterclasses também, e tem o grupo, tem a comunidade,
+
+344
+00:15:34,044 --> 00:15:35,944
+tem muito conteúdo lá pra você assistir também.
+
+345
+00:15:36,044 --> 00:15:39,784
+Se você quiser esse acompanhamento muito próximo,
+
+346
+00:15:39,924 --> 00:15:42,684
+ter meu número de telefone ali pra mandar uma dúvida pra mim,
+
+347
+00:15:42,724 --> 00:15:47,524
+pra nossa equipe, pros monitores, você pode considerar a Vanguarda,
+
+348
+00:15:47,524 --> 00:15:49,164
+que é o nosso programa mais avançado.
+
+349
+00:15:50,300 --> 00:15:52,360
+Ele tá aqui, tá aí, hein? Olha o tamanho desse prompt.
+
+350
+00:15:52,520 --> 00:15:54,720
+Com certeza no navegador não vai funcionar,
+
+351
+00:15:54,740 --> 00:15:56,620
+mas localmente vai funcionar
+
+352
+00:15:56,620 --> 00:15:58,820
+e vocês vão ficar abismados.
+
+353
+00:15:59,780 --> 00:16:00,380
+Beleza? Então
+
+354
+00:16:00,380 --> 00:16:02,480
+tá aí o nosso prompt, eu vou copiar ele aqui
+
+355
+00:16:02,480 --> 00:16:04,320
+agora. Eu posso vir aqui, vamos
+
+356
+00:16:04,320 --> 00:16:06,240
+pegar um diferente, vou usar o...
+
+357
+00:16:08,636 --> 00:16:09,816
+Vou usar o Freepeek aqui.
+
+358
+00:16:11,396 --> 00:16:12,396
+Vídeo, gerar vídeo.
+
+359
+00:16:14,332 --> 00:16:16,252
+Vou colar aqui, provavelmente ele tem limite.
+
+360
+00:16:16,652 --> 00:16:18,732
+Olha lá, só 2.500 caracteres.
+
+361
+00:16:19,032 --> 00:16:21,152
+Já perdeu, mas eu vou desse jeito.
+
+362
+00:16:21,372 --> 00:16:22,732
+Eu vou usar no limite da IA.
+
+363
+00:16:23,152 --> 00:16:24,372
+Vou vir aqui no...
+
+364
+00:16:25,852 --> 00:16:28,412
+no Gemini também, rodar aqui no Gemini.
+
+365
+00:16:29,092 --> 00:16:31,532
+Aqui ele colocou o prompt inteiro.
+
+366
+00:16:32,956 --> 00:16:33,696
+Vamos ver se ele vai fazer.
+
+367
+00:16:33,776 --> 00:16:34,336
+Ah, eu esqueci.
+
+368
+00:16:36,412 --> 00:16:37,512
+Não sei se ele vai gerar aqui não.
+
+369
+00:16:39,708 --> 00:16:42,568
+Gerou, beleza. Esqueci de colocar para a ferramenta de vídeo.
+
+370
+00:16:42,788 --> 00:16:45,188
+E eu vou fazer de um jeito agora um pouco estranho.
+
+371
+00:16:46,348 --> 00:16:48,668
+Talvez você não entenda, mas se não entender, está tudo bem.
+
+372
+00:16:49,528 --> 00:16:49,888
+Confia.
+
+373
+00:16:50,128 --> 00:16:51,668
+Vou fechar esse tanto de coisa aqui.
+
+374
+00:16:52,508 --> 00:16:54,648
+E eu vou pedir para ele gerar na minha área de trabalho.
+
+375
+00:16:55,568 --> 00:16:57,248
+Então, eu vou acordar o Claudinho aqui.
+
+376
+00:17:05,820 --> 00:17:07,300
+Não repitam isso em casa.
+
+377
+00:17:07,620 --> 00:17:10,520
+Eu fico fazendo a piada porque eu uso esse modo perigoso aqui,
+
+378
+00:17:10,620 --> 00:17:12,420
+mas vou falar com ele o seguinte, olha.
+
+379
+00:17:12,720 --> 00:17:16,800
+Preciso que você utilize a API do Seedence,
+
+380
+00:17:17,260 --> 00:17:18,800
+que está conectada aqui.
+
+381
+00:17:20,828 --> 00:17:22,768
+para gerar um vídeo para mim.
+
+382
+00:17:23,108 --> 00:17:27,828
+Quero que salve o vídeo na minha área de trabalho.
+
+383
+00:17:28,148 --> 00:17:29,528
+A estrutura...
+
+384
+00:17:30,652 --> 00:17:31,592
+do prompt é
+
+385
+00:17:31,592 --> 00:17:32,992
+JSON.
+
+386
+00:17:34,812 --> 00:17:35,872
+Vou colar aqui.
+
+387
+00:17:39,484 --> 00:17:41,024
+O melhor, inclusive, não é nem eu colar aqui.
+
+388
+00:17:41,124 --> 00:17:42,164
+O melhor de tudo é o quê?
+
+389
+00:17:42,244 --> 00:17:44,984
+Eu pegar aqui, olha, eu vou fazer para vocês verem.
+
+390
+00:17:45,404 --> 00:17:46,944
+Estou com a área de trabalho aqui do lado.
+
+391
+00:17:47,344 --> 00:17:48,484
+Eu vou vir aqui em novo.
+
+392
+00:17:48,584 --> 00:17:51,084
+Vou criar um arquivo aqui, vou chamar de prompt.json.
+
+393
+00:17:51,224 --> 00:17:52,864
+É sempre bom guardar seus arquivos.
+
+394
+00:17:53,344 --> 00:17:54,764
+E eu vou colar o prompt aqui.
+
+395
+00:17:57,564 --> 00:17:58,144
+Colei ele aqui.
+
+396
+00:17:58,724 --> 00:17:59,884
+Vou salvar ele.
+
+397
+00:17:59,944 --> 00:18:00,864
+Beleza, já está salvo.
+
+398
+00:18:01,184 --> 00:18:03,024
+E vou colocar o caminho dele aqui, ó.
+
+399
+00:18:03,124 --> 00:18:04,664
+Então, ficou o caminho dele certinho.
+
+400
+00:18:06,076 --> 00:18:06,736
+Agora eu vou dar Enter.
+
+401
+00:18:08,028 --> 00:18:09,328
+Aí, o que esse agente vai fazer?
+
+402
+00:18:09,388 --> 00:18:11,148
+Vou voltar pra cá agora pra vocês me verem.
+
+403
+00:18:12,008 --> 00:18:14,948
+Esse agente agora vai pegar a API do SIDENS.
+
+404
+00:18:15,848 --> 00:18:17,608
+Poderia ter colocado a API do CLING, né?
+
+405
+00:18:17,688 --> 00:18:20,368
+A do CLING ia ser mais louca ainda, tal resultado.
+
+406
+00:18:20,708 --> 00:18:21,808
+Mas vamos ver o que vai sair aqui.
+
+407
+00:18:23,628 --> 00:18:25,448
+Então, basicamente, o meu agente,
+
+408
+00:18:25,448 --> 00:18:27,028
+que tá instalado aqui no meu computador,
+
+409
+00:18:27,148 --> 00:18:30,668
+acordei o Claudinho aqui e coloquei ele com o agente
+
+410
+00:18:30,668 --> 00:18:32,128
+pra poder trabalhar e fazer isso pra gente.
+
+411
+00:18:32,308 --> 00:18:35,728
+Ele vai ler aquele JSON, vai puxar a API do SIDENS
+
+412
+00:18:35,728 --> 00:18:40,548
+e ele vai executar o JSON inteiro usando a API.
+
+413
+00:18:41,008 --> 00:18:42,848
+Olha só, ele falou que tem cinco shots.
+
+414
+00:18:43,188 --> 00:18:45,528
+Então já repara a primeira coisa que ele já está vendo aqui.
+
+415
+00:18:45,668 --> 00:18:48,068
+Ele vai fazer cinco vídeos diferentes para mim.
+
+416
+00:18:48,388 --> 00:18:50,028
+O Seedence gera um vídeo por vez.
+
+417
+00:18:50,108 --> 00:18:53,008
+Você quer que eu gere todos os shots ou algum específico?
+
+418
+00:18:53,308 --> 00:18:54,168
+Gere todos.
+
+419
+00:18:54,628 --> 00:18:56,648
+Vou até falar com ele o seguinte, gere todos.
+
+420
+00:18:57,648 --> 00:18:58,088
+Coloque...
+
+421
+00:18:59,356 --> 00:19:01,316
+Um agente por shot.
+
+422
+00:19:03,356 --> 00:19:04,776
+Em paralelização.
+
+423
+00:19:05,096 --> 00:19:07,376
+Ele faz todos os 5 de uma vez
+
+424
+00:19:07,376 --> 00:19:09,636
+e vão ter continuidade.
+
+425
+00:19:10,376 --> 00:19:10,996
+Termina de um
+
+426
+00:19:10,996 --> 00:19:13,016
+e começa o outro. Beleza?
+
+427
+00:19:13,436 --> 00:19:14,916
+Vou deixar ele fazendo aqui então.
+
+428
+00:19:16,096 --> 00:19:17,356
+Enquanto isso, vamos ver o que o
+
+429
+00:19:17,356 --> 00:19:19,376
+navegador fez, porque o navegador não vai nesse nível
+
+430
+00:19:19,376 --> 00:19:20,076
+avançado aqui.
+
+431
+00:19:21,564 --> 00:19:24,344
+No momento, não é possível gerar o vídeo que você pediu
+
+432
+00:19:24,344 --> 00:19:26,124
+aos interesses dos fornecedores de conteúdo.
+
+433
+00:19:26,524 --> 00:19:28,304
+Eu acho que ele está achando que é o Toy Story.
+
+434
+00:19:28,784 --> 00:19:30,684
+Só pode estar achando que é o Toy Story.
+
+435
+00:19:32,444 --> 00:19:34,084
+Não, cara, você consegue sim.
+
+436
+00:19:34,724 --> 00:19:35,524
+Tenta de novo.
+
+437
+00:19:37,852 --> 00:19:39,712
+Se não der, eu só pego o prompt colleague de novo.
+
+438
+00:19:40,232 --> 00:19:41,992
+Pô, valeu pelo voto de confiança.
+
+439
+00:19:41,992 --> 00:19:42,872
+Eu entendi o recado.
+
+440
+00:19:42,892 --> 00:19:43,792
+Você quer que eu tente de novo?
+
+441
+00:19:44,592 --> 00:19:45,572
+Tá bom, então sai.
+
+442
+00:19:45,972 --> 00:19:46,712
+Só joga aqui.
+
+443
+00:19:47,072 --> 00:19:48,412
+Vamos ver o que o Freepeek fez.
+
+444
+00:19:50,428 --> 00:19:51,028
+Freepeek também.
+
+445
+00:19:52,732 --> 00:19:53,792
+Ah, ele fez aqui o freepik.
+
+446
+00:19:53,992 --> 00:19:55,492
+Só que o freepik, olha o que ele fez.
+
+447
+00:19:55,572 --> 00:19:56,732
+Ele pegou o prompt JSON.
+
+448
+00:19:56,972 --> 00:19:59,492
+Ele não entendeu que eu estava fazendo um vídeo em JSON.
+
+449
+00:20:00,312 --> 00:20:03,072
+Ele pegou o prompt e colocou o prompt no ursinho.
+
+450
+00:20:03,152 --> 00:20:03,512
+Olha ali.
+
+451
+00:20:05,948 --> 00:20:06,808
+Ele achou que o...
+
+452
+00:20:08,060 --> 00:20:10,340
+que o que estava escrito ali tinha que ir no vídeo, né?
+
+453
+00:20:10,380 --> 00:20:15,500
+E fez esse videozinho aí, como se fosse uma apresentação de personagem, né?
+
+454
+00:20:17,180 --> 00:20:19,420
+para baixo aí, não funcionou
+
+455
+00:20:19,420 --> 00:20:21,260
+tão bem aqui. Claro, tem maneiras de fazer
+
+456
+00:20:21,260 --> 00:20:23,060
+isso melhor também, mas
+
+457
+00:20:23,060 --> 00:20:23,640
+provavelmente,
+
+458
+00:20:24,940 --> 00:20:26,920
+se você for fazer isso em navegador também,
+
+459
+00:20:27,080 --> 00:20:29,120
+é melhor usar um Hilo, é melhor usar um
+
+460
+00:20:30,280 --> 00:20:30,680
+ConfUI,
+
+461
+00:20:31,460 --> 00:20:33,500
+porque, só que vai ser bem complexo
+
+462
+00:20:33,500 --> 00:20:34,980
+o tal. ConfUI, eu não
+
+463
+00:20:34,980 --> 00:20:36,720
+recomendo, opa, bati no microfone,
+
+464
+00:20:36,780 --> 00:20:38,980
+eu não recomendo. Se você até hoje não
+
+465
+00:20:38,980 --> 00:20:41,060
+aprendeu ConfUI, eu não recomendo
+
+466
+00:20:41,060 --> 00:20:41,980
+aprender, porque...
+
+467
+00:20:43,452 --> 00:20:47,172
+A complexidade dele não compensa você aprender ele,
+
+468
+00:20:47,252 --> 00:20:50,972
+tendo em vista que as IAs estão se tornando cada dia mais fáceis.
+
+469
+00:20:51,072 --> 00:20:53,592
+Hoje é melhor trabalhar com os agentes, direto no computador,
+
+470
+00:20:53,592 --> 00:20:54,392
+igual eu estou fazendo ali.
+
+471
+00:20:54,572 --> 00:20:56,372
+Vocês vão ver que eu vou ter o resultado no final.
+
+472
+00:20:56,732 --> 00:20:59,852
+Isso aqui, quem já aprendeu, tem um poder muito pequeno de ir na mão.
+
+473
+00:20:59,932 --> 00:21:02,572
+Tem muita gente que já sabe confluir e faz bizarrices aqui.
+
+474
+00:21:03,212 --> 00:21:05,072
+Mas, ainda assim, eu tenho uma premissa para mim,
+
+475
+00:21:05,112 --> 00:21:08,132
+que se eu tenho que ficar puxando elemento, arrastando e clicando em botão,
+
+476
+00:21:08,152 --> 00:21:09,252
+para mim já é ultrapassado.
+
+477
+00:21:09,812 --> 00:21:10,652
+Essa é a minha visão.
+
+478
+00:21:12,220 --> 00:21:13,980
+eu gosto de ou escrever o texto
+
+479
+00:21:13,980 --> 00:21:16,080
+ou gravar um áudio. É assim que eu tenho
+
+480
+00:21:16,080 --> 00:21:18,060
+feito tudo aqui. Eu só
+
+481
+00:21:18,060 --> 00:21:20,100
+peço pras IAs fazerem e elas fazem pra mim.
+
+482
+00:21:20,140 --> 00:21:21,360
+É bizarro, tá?
+
+483
+00:21:21,640 --> 00:21:24,000
+E se vocês querem aprender isso, assistam o Atlas.
+
+484
+00:21:24,980 --> 00:21:25,460
+Então,
+
+485
+00:21:26,160 --> 00:21:27,540
+daria pra fazer aqui também com
+
+486
+00:21:27,540 --> 00:21:30,180
+JSON, estrutura JSON, mas vocês vão
+
+487
+00:21:30,180 --> 00:21:30,760
+ver que...
+
+488
+00:21:31,932 --> 00:21:34,672
+O nosso bichinho aqui está trabalhando, olha, rodando os cinco agentes.
+
+489
+00:21:35,052 --> 00:21:36,252
+Os cinco estão gerando.
+
+490
+00:21:36,252 --> 00:21:37,892
+Cada um está gerando o seu próprio vídeo.
+
+491
+00:21:37,932 --> 00:21:40,292
+Ele vai salvar esses vídeos na nossa área de trabalho.
+
+492
+00:21:40,532 --> 00:21:42,992
+E aí eu vou rodar aqui os vídeos para vocês verem.
+
+493
+00:21:43,932 --> 00:21:45,332
+Beleza? Seguindo a estrutura de JSON.
+
+494
+00:21:45,572 --> 00:21:47,432
+E aí o legal é que depois que eu tenho o vídeo,
+
+495
+00:21:47,472 --> 00:21:50,352
+eu posso editar esse vídeo usando a mesma estrutura de JSON.
+
+496
+00:21:50,692 --> 00:21:52,132
+É mais avançado mesmo.
+
+497
+00:21:52,552 --> 00:21:55,372
+Aqui agora eu só estou te mostrando essa possibilidade
+
+498
+00:21:55,372 --> 00:21:56,772
+para você saber que ela existe.
+
+499
+00:21:57,132 --> 00:22:00,652
+E depois a gente pode aprofundar mais nisso aqui
+
+500
+00:22:00,652 --> 00:22:02,432
+em outras trilhas mais avançadas, beleza?
+
+501
+00:22:03,312 --> 00:22:05,252
+Agora é aguardar os bichinhos, né?
+
+502
+00:22:05,272 --> 00:22:09,232
+O vídeo demora um pouquinho, mas como eu coloquei os cinco em paralelo para fazer aqui,
+
+503
+00:22:10,172 --> 00:22:10,572
+então...
+
+504
+00:22:12,892 --> 00:22:14,392
+É só aguardar, não vai demorar tanto assim.
+
+505
+00:22:14,492 --> 00:22:16,032
+Deixa eu ver o que nós temos aqui no chat.
+
+506
+00:22:16,972 --> 00:22:18,972
+Muito bom mesmo, sensacional.
+
+507
+00:22:20,924 --> 00:22:22,764
+Avião, faltou pelúcia.
+
+508
+00:22:23,484 --> 00:22:25,264
+Babi falou, amo um Jason.
+
+509
+00:22:26,084 --> 00:22:26,724
+Boa.
+
+510
+00:22:29,436 --> 00:22:30,216
+Galera, tá aí?
+
+511
+00:22:34,460 --> 00:22:37,120
+Para vídeos focados em animação vetorial ou de produtos,
+
+512
+00:22:37,120 --> 00:22:38,220
+se usa essa mesma estrutura de prompt,
+
+513
+00:22:38,340 --> 00:22:40,520
+cara, para vetor é melhor ainda usar JSON.
+
+514
+00:22:42,044 --> 00:22:44,984
+Para Motion, muito melhor usar DJ Song.
+
+515
+00:22:47,260 --> 00:22:48,880
+Top ranked. Muito bom.
+
+516
+00:22:49,100 --> 00:22:51,480
+Quem está gostando, manda um hashtag over aí.
+
+517
+00:22:52,240 --> 00:22:53,840
+Quero ver. Hashtag over.
+
+518
+00:22:59,708 --> 00:23:00,588
+Enquanto isso, ele está aqui.
+
+519
+00:23:03,580 --> 00:23:05,700
+trabalhando. Um efeito
+
+520
+00:23:05,700 --> 00:23:07,160
+colateral aqui é que você
+
+521
+00:23:07,160 --> 00:23:09,560
+fica ansioso, cara, porque você fica
+
+522
+00:23:09,560 --> 00:23:11,420
+nesse vibe creation aí
+
+523
+00:23:12,240 --> 00:23:13,520
+e aí você fica querendo fazer outra
+
+524
+00:23:13,520 --> 00:23:14,080
+coisa, né?
+
+525
+00:23:17,852 --> 00:23:20,232
+Tem alguém aqui que já está trabalhando nesse nível? Manda aí para eu saber.
+
+526
+00:23:22,876 --> 00:23:24,816
+Quando o material fica disponível pra nós, Juan,
+
+527
+00:23:24,976 --> 00:23:27,716
+galera que assina, o material vai ficar disponível pra vocês
+
+528
+00:23:27,716 --> 00:23:29,436
+depois que a gente tiver a edição.
+
+529
+00:23:29,856 --> 00:23:33,516
+Porque a nossa equipe agora tá editando todos os vídeos
+
+530
+00:23:33,516 --> 00:23:35,916
+em formato de aula, todas essas lives.
+
+531
+00:23:36,136 --> 00:23:39,056
+A gente vai disponibilizar pra vocês, com a descrição bonitinha,
+
+532
+00:23:39,056 --> 00:23:42,736
+com todos os materiais, e aí vai ficar disponível pra vocês, tá?
+
+533
+00:23:42,876 --> 00:23:45,136
+A galera aí mandando over, over, over, over, over, over.
+
+534
+00:23:47,004 --> 00:23:47,844
+10 de 10, né?
+
+535
+00:23:49,756 --> 00:23:52,016
+Isso aqui, galera, tem em muito lugar que vocês não veem isso aqui.
+
+536
+00:23:52,556 --> 00:23:53,016
+Pago, tá?
+
+537
+00:23:53,176 --> 00:23:55,536
+Tem muita plataforma que não ensina isso aqui pra vocês.
+
+538
+00:23:56,956 --> 00:23:58,156
+E eu estou ensinando aqui de graça.
+
+539
+00:24:00,444 --> 00:24:01,944
+Espero que vocês estejam aproveitando.
+
+540
+00:24:03,164 --> 00:24:06,584
+Caraca, agora que eu vi que eu não coloquei descrição nesse vídeo aqui não, na parte 2.
+
+541
+00:24:08,252 --> 00:24:09,672
+Tem que colocar a descrição aqui, pô.
+
+542
+00:24:14,332 --> 00:24:16,332
+Alguém tem alguma dúvida enquanto ele está trabalhando aqui?
+
+543
+00:24:18,396 --> 00:24:18,796
+Deixa eu ver.
+
+544
+00:24:20,028 --> 00:24:21,328
+Eu trabalho assim há um tempo,
+
+545
+00:24:21,408 --> 00:24:21,848
+o Fernando falou,
+
+546
+00:24:21,928 --> 00:24:23,488
+ajuda muito a ter precisão de materiais,
+
+547
+00:24:23,488 --> 00:24:23,928
+ângulos, etc.
+
+548
+00:24:24,528 --> 00:24:25,628
+Boa, Fernando, é isso aí.
+
+549
+00:24:25,788 --> 00:24:27,328
+O Fernando é da equipe da Overlens.
+
+550
+00:24:29,532 --> 00:24:31,492
+Irã falou, tentando implementar a Ruan, boa.
+
+551
+00:24:32,052 --> 00:24:34,212
+Babi falou, uma API para cada ferramenta.
+
+552
+00:24:36,124 --> 00:24:37,084
+Às vezes mais de uma, né?
+
+553
+00:24:37,624 --> 00:24:40,504
+Às vezes pra vídeo eu já instalo umas três APIs diferentes.
+
+554
+00:24:41,564 --> 00:24:42,964
+Depende do seu objetivo, na verdade.
+
+555
+00:24:45,564 --> 00:24:47,704
+Já fiz algumas imagens com aulas anteriores.
+
+556
+00:24:47,704 --> 00:24:48,844
+Boa, Patrícia. Muito bom.
+
+557
+00:24:52,060 --> 00:24:55,220
+Já havia visto o JSON para mexer em configs do macOS.
+
+558
+00:24:55,500 --> 00:24:57,500
+É, JSON, cara, é para muita coisa.
+
+559
+00:24:57,620 --> 00:24:59,500
+Isso não é uma linguagem de vídeo, não, tá?
+
+560
+00:25:03,804 --> 00:25:08,904
+Rapaz, que conteúdo. Pena que não consegui ficar até o final. Parabéns.
+
+561
+00:25:08,904 --> 00:25:09,604
+Boa, Lindomar.
+
+562
+00:25:11,580 --> 00:25:12,400
+Bom que está curtindo.
+
+563
+00:25:14,428 --> 00:25:16,328
+Pena que a galera não entende, né? Porque eu sei
+
+564
+00:25:16,328 --> 00:25:18,068
+ou às vezes não é o momento também,
+
+565
+00:25:18,168 --> 00:25:20,408
+eu entendo isso. Mas eu sei
+
+566
+00:25:20,408 --> 00:25:22,268
+que vocês compartilham pro pessoal vir assistir.
+
+567
+00:25:22,628 --> 00:25:24,268
+A galera não vem, tá perdendo.
+
+568
+00:25:24,288 --> 00:25:26,288
+Depois fica aí pagando dois mil reais pra
+
+569
+00:25:26,288 --> 00:25:26,908
+aprender isso aqui.
+
+570
+00:25:28,572 --> 00:25:28,872
+Pois é.
+
+571
+00:25:31,388 --> 00:25:33,288
+Eu tenho um projeto rodando, tenho uma lista,
+
+572
+00:25:33,448 --> 00:25:35,148
+roda em Linux, GitHub local?
+
+573
+00:25:36,088 --> 00:25:36,868
+Roda, pô, porque
+
+574
+00:25:36,868 --> 00:25:38,308
+linguagem de programação,
+
+575
+00:25:38,888 --> 00:25:41,268
+ela vai rodar em qualquer sistema operacional.
+
+576
+00:25:41,808 --> 00:25:43,008
+JSON, pelo menos, vai.
+
+577
+00:25:43,088 --> 00:25:45,268
+Nem toda linguagem de programação roda em qualquer
+
+578
+00:25:45,268 --> 00:25:46,288
+sistema operacional, né?
+
+579
+00:25:52,084 --> 00:25:53,764
+O prompt era grande também, né?
+
+580
+00:25:53,844 --> 00:25:55,164
+Por isso que tá demorando tanto assim.
+
+581
+00:25:55,244 --> 00:25:57,004
+Já tem seis minutos que eles estão trabalhando aqui.
+
+582
+00:25:57,484 --> 00:25:59,644
+Tem trabalho, cara, que você deixa de noite lá fazendo.
+
+583
+00:25:59,784 --> 00:26:00,424
+Você deixa assim, ó.
+
+584
+00:26:01,044 --> 00:26:01,584
+Vai dormir.
+
+585
+00:26:05,244 --> 00:26:06,244
+Beijozinho, vai dormir, cara.
+
+586
+00:26:08,796 --> 00:26:12,516
+Fala, ó, eu vou dormir um pouquinho ali, amanhã de manhã quando eu acordar eu quero isso aqui pronto.
+
+587
+00:26:12,956 --> 00:26:14,156
+Elas trabalham bonitinho pra você.
+
+588
+00:26:14,376 --> 00:26:17,796
+Se você não deu as instruções certas, quando você acordar de manhã você vai estar bem triste.
+
+589
+00:26:18,376 --> 00:26:21,056
+Você vai olhar e vai falar, nossa, que droga que ela fez pra mim.
+
+590
+00:26:23,772 --> 00:26:26,032
+Mas tem hora que você tem um software inteiro montado para você.
+
+591
+00:26:27,484 --> 00:26:27,944
+Numa noite.
+
+592
+00:26:31,196 --> 00:26:31,496
+Loucura.
+
+593
+00:26:33,148 --> 00:26:33,808
+Sabe o que eu vou fazer?
+
+594
+00:26:34,488 --> 00:26:35,288
+Pegar uma paçoquinha.
+
+595
+00:26:37,012 --> 00:26:37,432
+Acompanhem aí.
+
+596
+00:26:40,860 --> 00:26:43,360
+Vocês acreditam que tá acabando as paçoquinhas?
+
+597
+00:26:43,660 --> 00:26:45,200
+E eu acho que eu não vou comprar de novo, não.
+
+598
+00:26:46,652 --> 00:26:47,712
+Vou ficar um tempo sem elas.
+
+599
+00:26:49,564 --> 00:26:51,524
+Um oferecimento Paçoquita.
+
+600
+00:26:52,504 --> 00:26:53,684
+Patrocínio a Overlens.
+
+601
+00:27:02,716 --> 00:27:05,456
+Pior de tudo, é que uma caixa de paçoquita
+
+602
+00:27:07,996 --> 00:27:09,636
+Custa 30 reais.
+
+603
+00:27:11,100 --> 00:27:12,100
+E vem sempre as soquitas.
+
+604
+00:27:14,492 --> 00:27:14,732
+E aí?
+
+605
+00:27:16,924 --> 00:27:19,044
+É muito poder nas mãos por 30 reais.
+
+606
+00:27:19,464 --> 00:27:20,444
+E é perigoso.
+
+607
+00:27:21,064 --> 00:27:22,444
+Quando você menos vê...
+
+608
+00:27:23,612 --> 00:27:25,852
+Você tá comendo cinco, seis, sete paçoquitos num dia.
+
+609
+00:27:25,912 --> 00:27:26,532
+Não pode, cara.
+
+610
+00:27:27,012 --> 00:27:27,612
+Faz mal.
+
+611
+00:27:28,192 --> 00:27:31,412
+Além de ser muito açúcar, amendoim é muito quente.
+
+612
+00:27:32,212 --> 00:27:35,912
+E aí daqui a pouco você tá com a sua pele cheia de espinhas, você que faz skincare.
+
+613
+00:27:37,500 --> 00:27:39,340
+Não, não é bom ficar comendo amendoim.
+
+614
+00:27:40,040 --> 00:27:43,680
+Você que gosta de dar aula igual eu, não é bom ficar comendo amendoim.
+
+615
+00:27:49,180 --> 00:27:51,520
+Enfim, mas isso é muito gostoso.
+
+616
+00:27:52,700 --> 00:27:55,140
+Eu acho que é memória afetiva de infância.
+
+617
+00:27:55,940 --> 00:27:57,140
+Eu já contei a história, né?
+
+618
+00:27:58,748 --> 00:27:59,168
+Não tem como.
+
+619
+00:28:11,356 --> 00:28:12,116
+Enquanto isso...
+
+620
+00:28:14,716 --> 00:28:15,356
+O robô trabalha.
+
+621
+00:28:16,016 --> 00:28:17,136
+Eu acho que eu vou avançar.
+
+622
+00:28:19,068 --> 00:28:20,748
+Acho que eu vou avançar pra próxima aula, cara.
+
+623
+00:28:21,108 --> 00:28:23,108
+Aí depois eu volto aqui e mostro.
+
+624
+00:28:23,108 --> 00:28:24,668
+E o Davi faz a edição pra gente aí.
+
+625
+00:28:25,448 --> 00:28:26,668
+Aí vai parecer que foi rapidão.
+
+626
+00:28:28,188 --> 00:28:28,548
+Enfim.
+
+627
+00:28:33,020 --> 00:28:36,380
+Eu vou fechar essa aula aqui, acho que vai dar tempo aqui enquanto eu fecho.
+
+628
+00:28:37,692 --> 00:28:41,552
+Então nessa aula você viu que existem jeitos mais avançados de...
+
+629
+00:28:43,484 --> 00:28:44,924
+Que dá pra só quito.
+
+630
+00:28:58,076 --> 00:29:00,576
+Limpando a garganta aqui de pedacinhos de amendoim.
+
+631
+00:29:03,644 --> 00:29:04,644
+Obrigado.
+
+632
+00:29:07,932 --> 00:29:11,132
+Nessa aula aqui eu te mostrei, então, que existem outras maneiras mais avançadas,
+
+633
+00:29:11,212 --> 00:29:13,252
+no caso aqui focado em JSON,
+
+634
+00:29:13,492 --> 00:29:16,412
+você tem mais controle dos parâmetros para gerar o vídeo.
+
+635
+00:29:16,592 --> 00:29:20,272
+Você viu que tem um resultado diferente, mas precisa utilizar as ferramentas certas.
+
+636
+00:29:20,292 --> 00:29:22,612
+Aqui o objetivo foi expandir a possibilidade para você,
+
+637
+00:29:22,692 --> 00:29:25,252
+porque é um outro jeito de escrever prompts,
+
+638
+00:29:25,472 --> 00:29:30,212
+diferente da linguagem natural, com palavras ali na linguagem humana.
+
+639
+00:29:32,052 --> 00:29:35,712
+E dependendo do objetivo, pode fazer mais sentido você fazer em JSON,
+
+640
+00:29:35,712 --> 00:29:40,192
+só um dependendo vai fazer mais sentido você fazer com linguagem natural mesmo,
+
+641
+00:29:40,292 --> 00:29:41,772
+usando as próprias ferramentas.
+
+642
+00:29:41,812 --> 00:29:45,432
+No caso, depende do nível de escala e de controle que você quer ter,
+
+643
+00:29:46,052 --> 00:29:48,532
+microgerenciamento nos elementos do vídeo que você quer gerar,
+
+644
+00:29:49,132 --> 00:29:51,312
+ou se não, você está trabalhando com equipe também,
+
+645
+00:29:51,812 --> 00:29:56,252
+nem todo mundo da equipe vai ter a habilidade para trabalhar com a ferramenta,
+
+646
+00:29:56,272 --> 00:30:01,672
+então pode acontecer também de isso ficar centralizado em poucas pessoas que têm esse conhecimento,
+
+647
+00:30:01,672 --> 00:30:03,852
+mas o que eu tenho percebido
+
+648
+00:30:03,852 --> 00:30:06,112
+é que quando você começa a utilizar
+
+649
+00:30:06,112 --> 00:30:07,712
+as IAs no nível de agentes
+
+650
+00:30:07,712 --> 00:30:10,112
+dentro do seu computador, em paralelização
+
+651
+00:30:10,112 --> 00:30:11,932
+assim, você começa a ser
+
+652
+00:30:11,932 --> 00:30:13,792
+aquela pessoa que consegue fazer o trabalho de
+
+653
+00:30:13,792 --> 00:30:15,732
+5, 10 pessoas sozinho
+
+654
+00:30:15,732 --> 00:30:16,852
+igual eu mostrei
+
+655
+00:30:16,852 --> 00:30:19,512
+a documentação toda que a gente criou aqui
+
+656
+00:30:19,512 --> 00:30:21,932
+foram agentes que criaram, eu te mostrei na aula anterior
+
+657
+00:30:21,932 --> 00:30:23,492
+enquanto a gente estava fazendo a aula aqui
+
+658
+00:30:23,492 --> 00:30:25,712
+eu pedi pra ele criar imagens pra
+
+659
+00:30:25,712 --> 00:30:27,872
+ilustrar, vídeos, pra ilustrar
+
+660
+00:30:28,452 --> 00:30:30,152
+aqueles takes específicos
+
+661
+00:30:30,152 --> 00:30:32,192
+que nós tínhamos ali. Também foram ilustrados
+
+662
+00:30:32,192 --> 00:30:33,592
+em tempo real, ao vivo aqui pra você.
+
+663
+00:30:34,072 --> 00:30:35,832
+Deixando os robôs trabalharem pra mim
+
+664
+00:30:36,472 --> 00:30:37,812
+enquanto eu estava dando aula.
+
+665
+00:30:38,652 --> 00:30:40,012
+Isso é o que tem
+
+666
+00:30:40,012 --> 00:30:42,112
+acontecido hoje em 2026, por isso
+
+667
+00:30:42,112 --> 00:30:44,132
+que eu costumo falar muito também, se você está aprendendo
+
+668
+00:30:44,132 --> 00:30:45,492
+ainda a gerar o seu primeiro vídeo,
+
+669
+00:30:45,732 --> 00:30:47,612
+se você está aprendendo ainda a gerar a sua primeira imagem,
+
+670
+00:30:47,852 --> 00:30:50,032
+primeiro, parabéns. Isso aí já é um
+
+671
+00:30:50,032 --> 00:30:52,052
+grande avanço. Mas entenda que isso é
+
+672
+00:30:52,052 --> 00:30:53,492
+o básico do básico.
+
+673
+00:30:53,912 --> 00:30:56,032
+Isso não está te colocando na frente do mercado.
+
+674
+00:30:56,512 --> 00:30:58,132
+Isso está te dando
+
+675
+00:30:58,132 --> 00:31:00,332
+os primeiros passos para que você
+
+676
+00:31:00,332 --> 00:31:02,292
+consiga ir para o avançado. Agora,
+
+677
+00:31:02,372 --> 00:31:04,372
+quando você estuda na Overlens, eu te ensino
+
+678
+00:31:04,372 --> 00:31:06,652
+outra coisa. Eu não fico te ensinando a clicar no botão.
+
+679
+00:31:06,672 --> 00:31:08,772
+Eu te ensino o fundamento.
+
+680
+00:31:08,772 --> 00:31:10,452
+E eu fico repetindo isso para você se
+
+681
+00:31:10,452 --> 00:31:12,432
+lembrar, porque muitas vezes nós não damos
+
+682
+00:31:12,432 --> 00:31:14,292
+valor para os fundamentos e para os conceitos,
+
+683
+00:31:14,332 --> 00:31:16,412
+porque eles são invisíveis. Mas quando você
+
+684
+00:31:16,412 --> 00:31:18,492
+entende o fundamento, você consegue aplicar em qualquer
+
+685
+00:31:18,492 --> 00:31:20,472
+ferramenta. E esse foi o nosso objetivo
+
+686
+00:31:20,472 --> 00:31:20,712
+aqui.
+

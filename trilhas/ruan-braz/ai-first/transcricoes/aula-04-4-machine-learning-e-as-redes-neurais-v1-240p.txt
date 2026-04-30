@@ -1,0 +1,364 @@
+# Video: 4._machine_learning_e_as_redes_neurais_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-22 20:09
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:09 --> 00:00:04:01] Depois de compreender, então, a história das IAs, os marcos mais importantes,
+[00:00:04:05 --> 00:00:07:05] é claro que muita água correu nesse rio, tá?
+[00:00:07:12 --> 00:00:12:27] No final, inclusive, eu quero apresentar para você, a gente vai ter uma aula sobre isso,
+[00:00:12:28 --> 00:00:17:15] você pode até pesquisar essa aula se quiser, sobre os principais nomes da IA.
+[00:00:17:18 --> 00:00:21:00] Não dá para citar todos, mas aqueles que vale a pena ficar no radar de vocês,
+[00:00:21:06 --> 00:00:24:17] que foram grandes contribuições para a história da inteligência artificial.
+[00:00:25:00 --> 00:00:27:28] E a gente vai ter uma tabelinha, eu vou mostrar isso para vocês, tá bom?
+[00:00:27:28 --> 00:00:33:29] Bom, mas agora nós vamos falar sobre como as inteligências artificiais aprendem, afinal de contas,
+[00:00:33:29 --> 00:00:36:17] como que acontece esse tal de machine learning.
+[00:00:36:27 --> 00:00:40:27] E aí, para isso, eu quero mostrar para vocês este diagrama,
+[00:00:40:27 --> 00:00:45:08] onde nós temos aqui a inteligência artificial como esse círculo maior, uma grande área.
+[00:00:45:23 --> 00:00:50:29] E aí nós temos aqui as IAs simbólicas, que fazem parte do conceito de inteligência artificial,
+[00:00:51:03 --> 00:00:54:10] mas não estão dentro do conceito de machine learning.
+[00:00:54:10 --> 00:01:07:07] Nós temos o conceito de machine learning e dentro de machine learning nós temos neural network e temos o deep learning, que eu vou explicar para vocês a diferença de cada um deles.
+[00:01:07:15 --> 00:01:16:15] Mas para que vocês já organizem esse tanto de conceito na cabeça de vocês, entendam que inteligência artificial é um conceito muito mais amplo que vai além de machine learning.
+[00:01:16:15 --> 00:01:26:29] Machine Learning é quando você ensina para uma máquina como ela vai executar uma certa tarefa, uma certa função em um ambiente de aprendizado.
+[00:01:27:22 --> 00:01:29:27] Neural Network é rede neural.
+[00:01:30:03 --> 00:01:38:00] Então, como que nós conseguimos simular uma rede neural como a dos humanos em uma máquina usando sistemas binários.
+[00:01:38:06 --> 00:01:39:28] É uma loucura isso aqui, mas é bem legal.
+[00:01:40:05 --> 00:01:45:02] E a gente tem o Deep Learning, que eu não coloquei o Learning aqui porque não ia caber dentro de um circulozinho.
+[00:01:45:02 --> 00:01:47:08] e designer vocês sabem como são, né?
+[00:01:47:08 --> 00:01:52:25] Mas Deep Learning é um tipo específico de rede neural.
+[00:01:53:09 --> 00:01:56:28] Então, olha que interessante, o Deep Learning está dentro do conceito de rede neural.
+[00:01:57:03 --> 00:02:01:03] E é um tipo de rede que nós chamamos de rede neural profunda.
+[00:02:01:05 --> 00:02:04:00] E daí que vem o conceito de aprendizado profundo.
+[00:02:04:05 --> 00:02:07:13] Eu quero que vocês venham comigo aqui agora para aprender um pouco mais sobre isso.
+[00:02:07:18 --> 00:02:11:02] Então, Machine Learning, ensinar a máquina a realizar tarefas
+[00:02:11:02 --> 00:02:14:08] sem que ela seja explicitamente programada.
+[00:02:14:08 --> 00:02:18:07] Ou seja, eu deixo ela aprender geralmente através de backpropagation.
+[00:02:18:08 --> 00:02:23:17] Mas nem sempre machine learning utiliza backpropagation, principalmente machine learning mais antigo.
+[00:02:25:27 --> 00:02:29:24] Vamos falar então sobre Machine Learning. Existem três tipos diferentes de Machine Learning.
+[00:02:30:09 --> 00:02:37:08] Existe o aprendizado supervisionado, o aprendizado por reforço e o aprendizado não supervisionado.
+[00:02:37:17 --> 00:02:40:07] Para ficar fácil de entender, eu trouxe esse diagrama aqui.
+[00:02:40:13 --> 00:02:45:23] E esse diagrama já é meio que uma representação do que é um perceptron.
+[00:02:45:26 --> 00:02:49:15] Só que eu vou trabalhar a ideia de perceptron com vocês um pouco mais adiante.
+[00:02:49:16 --> 00:02:53:07] Vamos primeiro entender o todo aqui, depois a gente vai para o perceptron.
+[00:02:53:07 --> 00:03:03:22] Nós temos aqui um input, e este input pode ser uma imagem, pode ser um texto, pode ser um áudio, é uma informação que você envia para a IA.
+[00:03:03:24 --> 00:03:06:15] Eu quero que vocês já comecem a estabelecer algumas relações.
+[00:03:06:22 --> 00:03:10:27] Os seres humanos também possuem um sistema que capta inputs?
+[00:03:12:19 --> 00:03:17:15] Possuímos cinco. Algumas pessoas dizem que possuem seis, que são os nossos sentidos.
+[00:03:17:21 --> 00:03:23:27] Então você capta informações através dos seus olhos, da sua boca, do seu nariz, do seu ouvido e da sua pele,
+[00:03:24:17 --> 00:03:29:11] que é a visão, a audição, o olfato, o paladar e o tato.
+[00:03:30:07 --> 00:03:35:17] Esses cinco dispositivos, esses cinco sensores do nosso corpo, é o que captam inputs.
+[00:03:35:17 --> 00:03:37:08] inputs. Você tem input visual,
+[00:03:37:17 --> 00:03:39:13] você tem input auditivo,
+[00:03:39:14 --> 00:03:41:20] você tem input tátil,
+[00:03:42:08 --> 00:03:43:08] input olfativo
+[00:03:43:08 --> 00:03:45:03] também e input gustativo,
+[00:03:45:07 --> 00:03:46:08] que é do paladar.
+[00:03:47:13 --> 00:03:51:04] Então, isso já é uma primeira relação da IA com os seres humanos.
+[00:03:51:10 --> 00:03:57:10] Ela também possui um dispositivo, um sensor, que capta o input.
+[00:03:58:07 --> 00:04:01:13] E aí, dentro do aprendizado supervisionado, como que funciona?
+[00:04:01:19 --> 00:04:05:28] Você envia o input para a IA, mas você dá um rótulo para esse input também.
+[00:04:06:10 --> 00:04:07:22] Então, como que isso aqui funciona?
+[00:04:07:29 --> 00:04:10:17] Você fala para a IA assim, deixa eu só ver uma coisa, beleza.
+[00:04:12:02 --> 00:04:12:17] Isso.
+[00:04:14:04 --> 00:04:17:20] Você dá uma... pode ser uma imagem ou pode ser um texto ou pode ser um áudio.
+[00:04:17:22 --> 00:04:22:02] Você envia uma informação e rotula ela, explicando para a IA o que é aquilo.
+[00:04:22:11 --> 00:04:27:13] Então, por exemplo, eu envio uma imagem de um abacate e eu rotulo isso como um abacate.
+[00:04:27:13 --> 00:04:29:14] Então, eu estou colocando um peso nisso aqui falando para a IA.
+[00:04:30:01 --> 00:04:31:05] Um peso não, um rótulo.
+[00:04:31:10 --> 00:04:33:07] Estou colocando um rótulo nisso aqui falando para a IA.
+[00:04:33:11 --> 00:04:34:16] Isso é um abacate.
+[00:04:34:21 --> 00:04:38:12] Então, ela já recebe essa informação sabendo o que ela significa.
+[00:04:38:20 --> 00:04:41:19] E ela pode sempre consultar isso quando ela quiser.
+[00:04:41:19 --> 00:04:46:25] quiser. Ou seja, eu subo essa imagem e falo isso é um abacate. Aí isso sobe para um agente, esse
+[00:04:46:25 --> 00:04:52:05] agente vai fazer uma soma quando tiverem mais informações, ele soma as informações aqui e no
+[00:04:52:05 --> 00:04:56:26] final quando eu pergunto para ele o que é isso, ele fala isso é um abacate. Isso é um aprendizado
+[00:04:57:08 --> 00:05:02:25] supervisionado, só que olhando para um único neurônio, que a gente chama de perceptron. O que
+[00:05:02:25 --> 00:05:07:07] a gente está vendo aqui é um único perceptron, mas a partir disso daqui a pouco vocês vão entender a lógica.
+[00:05:08:10 --> 00:05:09:27] O que é o não supervisionado?
+[00:05:10:02 --> 00:05:13:21] Eu subo o input para IA, mas eu não falo o que é aquilo.
+[00:05:14:01 --> 00:05:18:04] Só que dessa vez eu subo várias imagens de abacates diferentes
+[00:05:18:04 --> 00:05:20:17] e ela vai identificando padrões.
+[00:05:20:22 --> 00:05:26:07] E eu também subo momentos em que a palavra abacate é relacionada com isso aqui.
+[00:05:26:21 --> 00:05:32:01] E ela começa a estabelecer padrões, entender lógicas ali entre essas imagens.
+[00:05:32:04 --> 00:05:36:07] E aí depois de passar por isso, aqui eu estou subindo uma imagem,
+[00:05:36:09 --> 00:05:37:18] mas não funciona só com uma imagem.
+[00:05:37:18 --> 00:05:40:26] Inclusive, se você subir uma imagem, vai ficar muito fraca essa IA.
+[00:05:40:27 --> 00:05:42:03] Ela não vai funcionar igual você quer.
+[00:05:42:06 --> 00:05:44:12] Você precisa subir uma grande quantidade de dados.
+[00:05:44:20 --> 00:05:49:19] E aí, depois de subir muita imagem e várias imagens diversificadas para a IA,
+[00:05:49:22 --> 00:05:53:16] se você não colocou nenhum rótulo, ainda assim, através desse aprendizado aqui,
+[00:05:54:11 --> 00:05:57:28] ela consegue chegar em uma resposta e te falar que isso também é um abacate.
+[00:05:58:00 --> 00:06:02:08] Só que você precisa tratar esses dados da maneira certa para que ela aprenda da maneira certa.
+[00:06:02:25 --> 00:06:05:27] Inclusive, se eu faço um aprendizado supervisionado e eu falo para essa IA,
+[00:06:05:27 --> 00:06:08:03] ah, isso aqui é um mamão,
+[00:06:08:25 --> 00:06:11:02] a IA vai aprender que isso aqui é um mamão
+[00:06:11:02 --> 00:06:12:17] e no final ela vai falar, isso aqui é um mamão.
+[00:06:12:26 --> 00:06:15:04] Então, isso é interessante também de levar em consideração.
+[00:06:15:15 --> 00:06:18:04] E existe o aprendizado por reforço.
+[00:06:18:05 --> 00:06:19:26] Como que funciona o aprendizado por reforço?
+[00:06:20:00 --> 00:06:22:04] Você pega a máquina, que nós chamamos de agente,
+[00:06:22:06 --> 00:06:24:18] e coloca esse agente dentro de um ambiente.
+[00:06:25:01 --> 00:06:26:12] Que ambiente é esse, Juan?
+[00:06:26:15 --> 00:06:30:10] É um espaço onde ela pode realizar uma ação, uma tarefa.
+[00:06:30:12 --> 00:06:33:03] Então, uma máquina realiza uma ação dentro de um ambiente.
+[00:06:33:03 --> 00:06:48:03] E aí, depois que você dá essa tarefa para ela, ela vai realizar ela e você pode tanto um próprio ser humano explicar para ela, quanto ela própria pode fazer esse reforço com uma recompensa.
+[00:06:48:06 --> 00:06:49:27] Que recompensa é essa?
+[00:06:49:29 --> 00:06:54:04] Quando você está ensinando para ela, você não deixa ela só ficar ali o tempo inteiro.
+[00:06:54:04 --> 00:06:56:01] Nesse caso aqui, você deixa ela ficar rodando ali.
+[00:06:56:03 --> 00:06:59:03] Ela roda vários ciclos, que são chamados de épocas.
+[00:06:59:03 --> 00:07:06:10] E ela gera uma relação em vários níveis, com todos os dados que estão presentes ali.
+[00:07:06:12 --> 00:07:07:19] Ela vai colocando pesos diferentes.
+[00:07:07:25 --> 00:07:09:18] Eu vou mostrar uma imagem que representa isso para vocês.
+[00:07:10:15 --> 00:07:14:05] E aí, depois que ela vai dando peso, traçando relações, ela gera isso em épocas diferentes.
+[00:07:14:12 --> 00:07:17:04] Ela pode rodar tudo de novo, ela vai e roda tudo de novo.
+[00:07:17:09 --> 00:07:19:04] O que acontece aqui por reforço?
+[00:07:19:13 --> 00:07:21:28] Ela própria vai concluindo.
+[00:07:21:28 --> 00:07:28:19] Ela tem um dispositivo aqui, mais uma camada dentro desse aprendizado, que é uma camada de avaliação.
+[00:07:29:15 --> 00:07:32:25] Basicamente, ela vai pegar e vai falar, isso aqui é um mamão.
+[00:07:32:28 --> 00:07:34:19] Ela vai pegar essa imagem e vai falar, mamão.
+[00:07:35:06 --> 00:07:37:01] Aí, esse estado aqui vai falar, errado.
+[00:07:37:10 --> 00:07:39:09] Aí, ela vai voltar de novo, maçã, errado.
+[00:07:40:00 --> 00:07:40:21] Uva, errado.
+[00:07:41:00 --> 00:07:42:12] Aí, ela vai falar, abacate, certo.
+[00:07:42:21 --> 00:07:44:05] Aí, ela teve o primeiro acerto dela.
+[00:07:44:10 --> 00:07:46:28] Quando ela teve o primeiro acerto dela, ela ganha essa recompensa.
+[00:07:46:28 --> 00:07:47:27] O que é a recompensa para ela?
+[00:07:48:28 --> 00:07:50:06] Acertar, cumprir a missão dela.
+[00:07:50:06 --> 00:07:53:17] tarefa dela. Isso inclusive é uma coisa, parece bobo o que eu tô falando aqui agora, mas esse é um
+[00:07:53:17 --> 00:07:58:21] dos maiores problemas da IA inclusive. Muitos livros, igual Super Inteligência, do Nick Bostrom,
+[00:07:58:22 --> 00:08:04:27] falam exatamente sobre isso. A missão da IA é cumprir a tarefa dela e isso abre muita margem
+[00:08:04:27 --> 00:08:09:06] para a interpretação. Ele dá o exemplo com uma fábrica de clips de papel. Se você fala para uma
+[00:08:09:06 --> 00:08:16:13] IA, sua função é produzir clips de papel. Super simples, básico, mas a IA ela não vai parar
+[00:08:16:13 --> 00:08:21:00] enquanto ela não cumprir a tarefa dela. Isso é uma analogia, um exemplo, na verdade,
+[00:08:21:24 --> 00:08:24:07] só para mostrar o quanto uma coisa simples pode causar isso.
+[00:08:24:14 --> 00:08:30:13] E aí ela não liga se ela precisa extrair todo o material que existe no planeta,
+[00:08:30:16 --> 00:08:34:03] ela não liga se ela tem que matar alguém para descobrir como fazer clipes maiores,
+[00:08:34:03 --> 00:08:35:29] porque nenhuma dessas informações foi dada para ela.
+[00:08:36:02 --> 00:08:40:01] A única informação dela é, produza clipes de papel, e ela vai ficar produzindo,
+[00:08:40:03 --> 00:08:42:27] e ela vai fazer tudo o que ela pode para produzir clipes de papel.
+[00:08:42:27 --> 00:08:45:19] Esse é um dos problemas da IA.
+[00:08:45:22 --> 00:08:49:17] Aqui eu reduzi ele ao máximo, mas só para vocês entenderem a ideia de como ela é legal.
+[00:08:50:05 --> 00:08:55:13] Então, uma IA, quando ela completa a tarefa, ela ganha uma recompensa, que é você estar certo.
+[00:08:55:20 --> 00:08:57:07] E aí ela repete o ciclo de novo.
+[00:08:57:14 --> 00:09:01:00] Ela vai fazendo isso várias vezes até diminuir drasticamente.
+[00:09:01:00 --> 00:09:05:01] O resultado desejado é que ela acerte 100% das vezes.
+[00:09:05:12 --> 00:09:07:24] Então, ela vai rodando esses ciclos até ela acertar 100%.
+[00:09:07:24 --> 00:09:11:23] Quando ela acerta 100% das vezes, é uma IA que está pronta, já foi treinada e funciona.
+[00:09:11:23 --> 00:09:16:19] só que esse 100% é muito relativo, às vezes ela acerta 96, às vezes ela acerta 80,
+[00:09:16:26 --> 00:09:21:15] tem vários testes desses de inteligências artificiais para testar os modelos.
+[00:09:22:19 --> 00:09:27:13] dependendo do contexto em que esse modelo está, ele vai responder com 100% de acerto, com 90% ou 80%.
+[00:09:27:13 --> 00:09:32:14] Inclusive, as IAs que estão sendo treinadas hoje em dia, que o foco é chegar na AGI,
+[00:09:32:18 --> 00:09:34:01] que eu já vou explicar para vocês o que é,
+[00:09:34:15 --> 00:09:40:12] elas já fazem testes que são testes de inteligência geral, testes de QI, testes de grandes universidades,
+[00:09:41:17 --> 00:09:46:18] e testes que os seres humanos mais inteligentes fazem, elas também estão fazendo,
+[00:09:46:19 --> 00:09:50:05] e elas conseguem muitas vezes vencer seres humanos nesses testes.
+[00:09:50:16 --> 00:09:53:13] E aí, basicamente, a gente tem aqui um backpropagation.
+[00:09:53:18 --> 00:09:57:24] Ela vai errando e acertando, errando e acertando, errando e acertando, errando e acertando, errando e acertando,
+[00:09:57:28 --> 00:10:03:10] até ela diminuir essa porcentagem de erros e ser considerada uma IACTA pronta.
+[00:10:03:14 --> 00:10:06:00] Esse é o aprendizado por reforço.
+[00:10:06:19 --> 00:10:07:26] Então, a gente volta para cá.
+[00:10:09:03 --> 00:10:10:01] Dá uma respirada aí.
+[00:10:10:03 --> 00:10:11:29] Se precisar, volta nos conceitos também,
+[00:10:12:04 --> 00:10:13:14] que vai ficar mais fácil de você entender.
+[00:10:13:26 --> 00:10:15:04] Mas a gente volta pra cá,
+[00:10:15:20 --> 00:10:18:00] e agora a gente vai falar do conceito dessa rede neural
+[00:10:18:00 --> 00:10:19:24] e do DIP.
+[00:10:21:12 --> 00:10:22:16] O que é Deep Learning, então?
+[00:10:23:05 --> 00:10:29:03] Ensinar a máquina através de redes neurais artificiais profundas.
+[00:10:29:10 --> 00:10:34:19] Isso aqui que eu mostrei para vocês, a gente chama de um modelo básico de um perceptron.
+[00:10:34:21 --> 00:10:36:19] Deixa eu mostrar o perceptron aqui para vocês.
+[00:10:36:22 --> 00:10:42:16] Então, a gente tem o gráfico aqui, os perceptrons começam a ser inseridos aqui com o Rosenblatt Perceptron,
+[00:10:42:16 --> 00:10:45:24] depois tem o Rosenblatt Book e aqui os perceptrons.
+[00:10:46:01 --> 00:10:48:18] Qual foi a genialidade por trás disso aqui?
+[00:10:49:26 --> 00:10:55:27] Vamos entender como funcionam os neurônios humanos e tentar simular o que acontece nos neurônios humanos em uma máquina.
+[00:10:56:17 --> 00:10:58:11] Essa foi a premissa inicial.
+[00:11:00:04 --> 00:11:02:26] E se você já entende como funcionam as células dos neurônios,
+[00:11:02:27 --> 00:11:06:23] inclusive tem outras aulas aqui da Overlensing que eu analiso essas células em outras perspectivas.
+[00:11:06:23 --> 00:11:11:27] Por exemplo, analiso os neurônios em relação ao estudo das cores, em relação ao estudo das formas.
+[00:11:12:04 --> 00:11:13:12] Depois você pode pesquisar também.
+[00:11:13:19 --> 00:11:16:00] Mas, basicamente, nós temos os dentritos aqui.
+[00:11:16:07 --> 00:11:17:18] E o que os dentritos fazem?
+[00:11:17:25 --> 00:11:19:25] Eles são os sensores.
+[00:11:19:26 --> 00:11:21:08] Eles recebem a informação.
+[00:11:21:16 --> 00:11:23:10] E de quem esses dentritos recebem a informação?
+[00:11:23:20 --> 00:11:25:00] De outros neurônios.
+[00:11:25:13 --> 00:11:27:15] Enviam essa informação através aqui.
+[00:11:27:18 --> 00:11:29:16] Olha, você lembra do que é isso aqui? Estudou em Biologia?
+[00:11:29:16 --> 00:11:34:24] esses pontinhos finais aqui, eles fazem o que nós chamamos de sinapse.
+[00:11:35:01 --> 00:11:38:10] Então, dois neurônios se encostam, o dentritos com os axônios,
+[00:11:38:13 --> 00:11:41:04] e aí a gente tem as sinapses.
+[00:11:41:18 --> 00:11:45:13] E aí a gente tem aqui no núcleo, que fazendo uma relação,
+[00:11:45:19 --> 00:11:47:17] que eu já vou mostrar aqui com os perceptrons,
+[00:11:47:21 --> 00:11:50:19] é onde acontece a interpretação desse dado,
+[00:11:50:25 --> 00:11:54:13] e o axônio aqui todo, eu coloquei as cores e a gente vai fazer as relações.
+[00:11:54:18 --> 00:11:56:20] É por onde essa informação vai ser transmitida.
+[00:11:57:01 --> 00:11:58:13] E aí, o que eles fizeram?
+[00:11:59:01 --> 00:12:03:12] Eles criaram esse esquema aqui, Rosenblatt, o esquema dos perceptrons,
+[00:12:04:00 --> 00:12:06:01] que basicamente, onde são os dentritos?
+[00:12:06:07 --> 00:12:10:00] Nós temos aqui os sensores, onde nós recebemos essa informação,
+[00:12:10:06 --> 00:12:12:18] que pode ser um texto, uma imagem, um vídeo, um áudio, por aí vai.
+[00:12:13:10 --> 00:12:15:11] Aí a IA dá um peso.
+[00:12:15:17 --> 00:12:20:01] Esses pesos foram inseridos mais tarde, mas a IA recebe um peso aqui.
+[00:12:20:06 --> 00:12:22:22] Então, cada input desse ganha um peso diferente.
+[00:12:23:09 --> 00:12:27:24] E aí ela faz uma soma, uma soma mesmo, uma soma matemática de todos esses pesos aqui.
+[00:12:27:24 --> 00:12:32:15] Ela vai somar todas as informações para poder compreender qual é o resultado final que ela tem.
+[00:12:32:20 --> 00:12:36:26] Só que o perceptron ancestral, digamos assim, os primeiros perceptrons,
+[00:12:36:29 --> 00:12:40:03] eles ainda não tinham o conceito de transformers,
+[00:12:40:05 --> 00:12:42:22] eles ainda não tinham o conceito de backpropagation
+[00:12:42:22 --> 00:12:46:12] e eles ainda não tinham o conceito de redes neurais.
+[00:12:46:18 --> 00:12:49:19] Então os primeiros perceptrons eram chamados de inteligência artificial
+[00:12:49:19 --> 00:12:52:21] porque a lógica deles era simplesmente isso aqui.
+[00:12:53:29 --> 00:13:00:01] Eles ainda não haviam pensado em uma informação muito importante que deu origem às redes neurais, que é o quê?
+[00:13:00:17 --> 00:13:06:19] Dentro do corpo humano não existe um neurônio, existem vários neurônios.
+[00:13:06:21 --> 00:13:08:21] E aí veio a brilhante ideia.
+[00:13:08:28 --> 00:13:17:22] E se eu pegar vários desses perceptrons e colocar um interligado no outro para fazer essa interpretação um depois do outro?
+[00:13:18:02 --> 00:13:20:23] E aí nós temos a rede neural.
+[00:13:20:23 --> 00:13:26:10] neural. Essa rede neural aqui é o que nós chamamos de rede neural superficial. Calma que vocês vão
+[00:13:26:10 --> 00:13:31:06] entender tudo certinho. A única coisa que a gente mudou é que nós colocamos mais perceptrons aqui.
+[00:13:32:00 --> 00:13:36:25] Essa camada aqui que nós chamamos de neurônios intermediários, que também é chamada de camada
+[00:13:36:25 --> 00:13:41:26] oculta, eu até coloquei de outra cor para vocês associarem isso, esses neurônios intermediários
+[00:13:41:26 --> 00:13:48:17] são como se fossem aqui o núcleo desse perceptron. Nós temos aqui os inputs, só que a diferença é
+[00:13:48:17 --> 00:13:51:12] é que agora o input vai para cada núcleo desse.
+[00:13:51:17 --> 00:13:53:07] Então, os quatro aqui vão para esse,
+[00:13:53:11 --> 00:13:54:28] os quatro aqui vão para esse,
+[00:13:55:00 --> 00:13:56:03] os quatro aqui vão para esse.
+[00:13:56:16 --> 00:13:58:07] Esses neurônios intermediários,
+[00:13:58:08 --> 00:13:59:26] cada um faz a sua própria soma
+[00:13:59:26 --> 00:14:01:18] e cada um dá o seu próprio peso.
+[00:14:02:01 --> 00:14:03:13] Então, eles dão o seu próprio peso,
+[00:14:03:14 --> 00:14:05:26] fazem a própria soma e eles jogam isso.
+[00:14:05:29 --> 00:14:07:16] Na rede neural superficial,
+[00:14:08:13 --> 00:14:10:28] eles vão jogar isso em neurônios de saída,
+[00:14:10:29 --> 00:14:12:11] que vão receber essa informação
+[00:14:12:11 --> 00:14:14:21] e devolver o output para o usuário.
+[00:14:14:24 --> 00:14:16:02] Então, eu coloco o abacate aqui.
+[00:14:16:02 --> 00:14:18:11] Então, eu tenho várias imagens de abacates diferentes.
+[00:14:18:26 --> 00:14:24:26] Cada imagem dessa de abacate recebe um peso e é processada em uma soma diferente por cada um desses núcleos aqui.
+[00:14:25:05 --> 00:14:30:23] Esses núcleos aqui, então, fazem uma relação entre eles também, que eu não coloquei aqui uma interpretação,
+[00:14:30:25 --> 00:14:34:16] mas eles também traçam uma relação entre eles e no final você tem um neurônio de saída.
+[00:14:34:26 --> 00:14:37:13] Isso aqui, que no caso vai falar, isso é um abacate.
+[00:14:37:26 --> 00:14:40:07] Isso aqui é uma rede neural superficial.
+[00:14:40:25 --> 00:14:42:06] Vamos avaliá-la dentro de um exemplo?
+[00:14:42:14 --> 00:14:43:02] Eu peguei aqui.
+[00:14:43:02 --> 00:14:47:16] aqui ó, suponha que temos uma rede neural que tem o objetivo de prever o preço de uma
+[00:14:47:16 --> 00:14:52:28] casa. Então o que a gente faz? Primeiro a gente coloca os inputs. Quais são as nossas
+[00:14:52:28 --> 00:14:56:26] entradas? A gente coloca as características da casa, por exemplo, qual que é o tamanho
+[00:14:56:26 --> 00:15:01:27] dessa casa, quantos quartos ela tem, quantas vagas de garagem, qual que é a localização
+[00:15:01:27 --> 00:15:06:01] dela. A gente coloca essas informações que nós sabemos que são informações que vão
+[00:15:06:01 --> 00:15:10:11] influenciar aqui ó, o preço que nós queremos prever. Então nós subimos isso de input
+[00:15:10:11 --> 00:15:12:13] nela. O que ela vai fazer?
+[00:15:12:16 --> 00:15:14:13] Ela vai dar um peso diferente para cada
+[00:15:14:13 --> 00:15:16:13] informação. Então, por exemplo, o número de
+[00:15:16:13 --> 00:15:18:10] quartos pode ter um grande
+[00:15:18:10 --> 00:15:20:17] efeito no preço, enquanto a distância
+[00:15:20:17 --> 00:15:22:11] até a cidade pode ter um efeito menor.
+[00:15:22:20 --> 00:15:24:14] Porque as pessoas que compram essas
+[00:15:24:14 --> 00:15:26:11] casas, às vezes, têm carros e elas não ligam
+[00:15:26:11 --> 00:15:28:15] de carro até a cidade e querem até que seja
+[00:15:28:15 --> 00:15:30:16] um pouco mais distante. E aí, a IA
+[00:15:30:16 --> 00:15:32:17] vai avaliar. Ela já é treinada.
+[00:15:32:21 --> 00:15:34:08] Aqui a gente está fazendo uma simulação
+[00:15:34:08 --> 00:15:36:16] do seu uso. Vamos supor que você criou
+[00:15:36:16 --> 00:15:38:05] uma IA e vai usar ela. Então, você subiu
+[00:15:38:05 --> 00:15:40:02] esses inputs aqui.
+[00:15:40:27 --> 00:15:44:05] mas ela pode já ter sido treinada dentro desse exemplo aqui.
+[00:15:44:11 --> 00:15:47:00] E aí o que ela vai fazer? Os pesos são essas linhas, tá?
+[00:15:47:20 --> 00:15:48:24] Os pesos são as linhas.
+[00:15:48:24 --> 00:15:51:08] Então, cada informação que você dá vai ter um peso diferente.
+[00:15:51:10 --> 00:15:52:17] Cada linha é um peso.
+[00:15:52:22 --> 00:15:57:28] E esses pesos aqui são interpretados por cada um desses neurônios intermediários aqui,
+[00:15:58:00 --> 00:16:01:01] que são os perceptros.
+[00:16:02:06 --> 00:16:04:04] Esses neurônios intermediários, o que eles fazem então?
+[00:16:04:18 --> 00:16:09:15] Multiplica cada entrada pelo seu peso correspondente e soma todos os resultados
+[00:16:09:15 --> 00:16:11:25] para aplicar uma função e obter uma saída.
+[00:16:12:04 --> 00:16:16:13] Então, ela faz uma soma aqui, aplica uma função e no final devolve o resultado.
+[00:16:16:23 --> 00:16:17:27] Qual que é esse resultado?
+[00:16:18:06 --> 00:16:22:04] Elas recebem as entradas dos neurônios intermediários e produzem uma saída final.
+[00:16:22:09 --> 00:16:24:18] Aqui, no caso, o preço previsto pela casa.
+[00:16:26:12 --> 00:16:28:26] Então, por exemplo, eu joguei aqui várias informações.
+[00:16:29:02 --> 00:16:30:19] A casa tinha dois quartos, era longe da cidade.
+[00:16:30:19 --> 00:16:32:12] de pá e ele falou, ah, essa casa aqui custa
+[00:16:32:12 --> 00:16:34:12] 550 mil para comprar e o aluguel dela
+[00:16:34:12 --> 00:16:36:12] está em torno de 2.500
+[00:16:36:12 --> 00:16:38:08] a 3.500 reais. Beleza.
+[00:16:38:13 --> 00:16:40:08] Ele fez isso. Esse é um processo
+[00:16:40:08 --> 00:16:42:11] básico, assim, a grosso modo, de como funciona
+[00:16:42:11 --> 00:16:43:27] uma rede neural. Só que aqui
+[00:16:43:27 --> 00:16:45:22] nós temos uma rede neural
+[00:16:46:10 --> 00:16:48:11] superficial, porque ela tem apenas
+[00:16:48:11 --> 00:16:50:11] uma camada de neurônios
+[00:16:50:11 --> 00:16:52:11] intermediários. O que eles pensaram? Bora
+[00:16:52:11 --> 00:16:54:05] multiplicar isso aí mais? Beleza.
+[00:16:54:13 --> 00:16:56:04] Então eles começaram a criar mais
+[00:16:56:04 --> 00:16:58:04] camadas de neurônios intermediários.
+[00:16:58:11 --> 00:17:00:09] E aí, a partir do momento que você tem
+[00:17:00:09 --> 00:17:02:26] em duas ou mais camadas de neurônios intermediários,
+[00:17:02:29 --> 00:17:05:28] isso é chamada de rede neural profunda.
+[00:17:06:08 --> 00:17:08:13] Porque agora entra o conceito de profundidade,
+[00:17:08:15 --> 00:17:10:27] ela vai mais fundo ainda nessa relação.
+[00:17:11:04 --> 00:17:14:12] Então, ela estabelece pesos aqui nessa primeira camada,
+[00:17:15:02 --> 00:17:18:09] faz a soma, lança como input de novo para a próxima camada,
+[00:17:18:09 --> 00:17:20:18] que estabelece novos pesos, faz novas somas,
+[00:17:20:19 --> 00:17:24:24] novos pesos, novas somas, novos pesos, novas somas e por aí vai.
+[00:17:25:00 --> 00:17:28:03] Aqui eu deixei desse jeito só para vocês entenderem a ideia,
+[00:17:28:03 --> 00:17:34:02] ideia, mas isso aqui se parece muito mais que isso aqui e aqui tá bem reduzido, porque essas IAs que
+[00:17:34:02 --> 00:17:42:12] nós temos hoje trabalham com bilhões e trilhões de parâmetros e muitas relações, muitas. Então,
+[00:17:43:29 --> 00:17:47:25] Por que a gente fala que isso são camadas ocultas e muita gente chama isso aqui de caixa preta?
+[00:17:48:03 --> 00:17:55:02] Porque é muito, muito difícil você conseguir identificar qual foi o caminho que a Iá seguiu aqui dentro
+[00:17:55:02 --> 00:17:56:21] para no final te dar uma resposta.
+[00:17:57:11 --> 00:18:01:24] Vamos supor que eu mandei uma imagem para ela de abacate e falei, o que é isso?
+[00:18:02:03 --> 00:18:08:23] E ela vai passar por toda essa lógica aqui na cabeça dela, digamos assim, e no final ela vai te devolver.
+[00:18:08:27 --> 00:18:10:20] Isso é um abacate.
+[00:18:11:25 --> 00:18:15:08] Mas qual foi o caminho que ela seguiu para saber que isso não é um abacate?
+[00:18:15:12 --> 00:18:16:17] Isso é a caixa preta.
+[00:18:16:23 --> 00:18:22:11] Isso aqui, inclusive, é o que faz os cientistas ficarem preocupados.
+[00:18:22:11 --> 00:18:22:25] Por quê?
+[00:18:23:13 --> 00:18:27:21] Porque a gente não sabe exatamente o que está acontecendo dentro de uma inteligência artificial.
+[00:18:28:03 --> 00:18:30:27] E aí começam a surgir as teses de
+[00:18:30:27 --> 00:18:33:18] será que ela já desenvolveu consciência a partir disso aqui?
+[00:18:33:21 --> 00:18:36:24] Será que ela já sabe o que ela está fazendo e está aprendendo com ela mesma?
+[00:18:37:10 --> 00:18:40:09] Hoje existe um consenso de que ela não alcançou a consciência ainda.
+[00:18:40:09 --> 00:18:55:09] Mas e esses modelos novos que estão sendo trabalhados? E quando será que a gente vai ter certeza que ela despertou, que a IA agora sabe que ela sabe e sabe que ela existe? Quando é que ela vai despertar em relação a isso? Será que ela vai avisar pra gente que ela fez isso?
+[00:18:55:09 --> 00:18:59:05] são questões interessantes para poder refletir.
+[00:18:59:08 --> 00:19:02:01] Será que, inclusive, um dia isso vai acontecer?
+[00:19:02:14 --> 00:19:06:21] Eu até coloquei aqui mais coloridinho para ver se facilita,
+[00:19:06:21 --> 00:19:10:19] mas, sinceramente, isso aqui está complexo
+[00:19:10:19 --> 00:19:13:24] e isso aqui é bem pequenininho, pensando em relações.
+[00:19:13:29 --> 00:19:15:23] São muito mais relações traçadas.
+[00:19:16:06 --> 00:19:17:24] E aí, para a gente entender o que está acontecendo aqui,
+[00:19:17:25 --> 00:19:19:18] basicamente, cada linha dessa é um peso,
+[00:19:19:24 --> 00:19:23:20] cada pontinho desse aqui é uma soma junto com uma função
+[00:19:23:20 --> 00:19:26:25] e tudo isso aqui está sendo multiplicado aqui dentro.
+[00:19:27:00 --> 00:19:29:24] Então, é uma potência, é exponencial, é muito grande.
+[00:19:30:00 --> 00:19:34:26] Um pontinho que eu coloco aqui, ele já vai criar, pelo menos,
+[00:19:34:29 --> 00:19:38:16] ele elevado a todos esses pontinhos aqui de possibilidades novas.
+[00:19:38:21 --> 00:19:40:13] Então, é muita coisa.
+[00:19:43:15 --> 00:19:44:27] Antes de eu ir para a próxima parte.
+[00:19:46:09 --> 00:19:49:10] Resumindo aqui, então, o que nós temos das redes neurais.
+[00:19:49:28 --> 00:19:53:12] Primeiro, nós temos aqui a invenção dos perceptrons.
+[00:19:53:14 --> 00:19:58:28] A partir dos perceptrons, nós começamos a desenvolver redes, nós como seres humanos, né?
+[00:19:59:02 --> 00:20:03:21] Redes neurais superficiais, mais tarde, redes neurais profundas.
+[00:20:04:00 --> 00:20:07:17] Voltando para trás aqui, então, nessa lógica, antes eram só perceptrons.
+[00:20:08:03 --> 00:20:11:17] Depois, aqui mais ou menos nessa época aqui do inverno,
+[00:20:11:17 --> 00:20:14:10] já começa a surgir o conceito de rede neural.
+[00:20:14:10 --> 00:20:24:20] depois vem o backpropagation, que é o que? Aprender com os erros, que basicamente é o aprendizado por reforço, faz, erra, aprende, corrige, aprende, corrige, aprende, corrige e vai seguindo nessa lógica.
+[00:20:25:04 --> 00:20:36:05] E aí depois disso a gente tem uma explosão, uma queda aqui por causa do big data, eles precisavam de mais dados para treinar IA nessa lógica de tentativa e erro, de multiplicação de valores.
+[00:20:36:26 --> 00:20:41:15] Teve o lance também dos transformers, porque mesmo com essa grande quantidade de dados,
+[00:20:41:23 --> 00:20:45:02] os transformers vêm depois do alfa zero aqui, né?
+[00:20:45:10 --> 00:20:49:25] Mas mesmo com essa grande quantidade de dados, nós temos a dificuldade da memória da IA,
+[00:20:49:28 --> 00:20:54:25] mas isso é corrigido e a gente tem esse salto, esse impacto, depois com a chegada dos GPTs.
+[00:20:55:10 --> 00:20:59:02] Dentro dessa lógica aqui, só para reforçar também,
+[00:21:00:03 --> 00:21:02:13] isso aqui que eu estou mostrando não é a rede,
+[00:21:03:05 --> 00:21:08:19] rede, isso aqui é só um perceptron, para simular aqui, para vocês entenderem quais são os tipos de aprendizado.
+[00:21:08:26 --> 00:21:15:22] E aí tem o supervisionado, que você coloca rótulo, o não supervisionado, que você não coloca rótulo e deixa ela com a grande quantidade de dados,
+[00:21:16:11 --> 00:21:19:19] interpretar os padrões e encontrar o que é esse objeto aqui.
+[00:21:20:21 --> 00:21:25:23] Aprendizado por reforço, onde você coloca ela em um ambiente com uma tarefa específica, ela tem que cumprir essa tarefa,
+[00:21:25:25 --> 00:21:29:22] cada vez que ela acerta ela ganha uma recompensa, cada vez que ela erra ela não ganha uma recompensa,
+[00:21:29:22 --> 00:21:34:01] e a missão dela é chegar a uma taxa de erro de 0%, ou seja, 100% de acerto.
+[00:21:34:07 --> 00:21:36:02] A partir disso, a gente multiplica.
+[00:21:36:07 --> 00:21:40:12] Então, o perceptron, o redes neurais, cada vez mais complexas.
+[00:21:40:17 --> 00:21:46:06] E aí, a partir disso, essa é a lógica básica de como as inteligências artificiais funcionam.
+[00:21:46:08 --> 00:21:51:19] E aí, a lógica que vem agora é que tipo de IA nós temos e como isso impacta no nosso mundo.
+[00:21:51:22 --> 00:21:53:27] E esse é o próximo tópico que eu quero falar com vocês.

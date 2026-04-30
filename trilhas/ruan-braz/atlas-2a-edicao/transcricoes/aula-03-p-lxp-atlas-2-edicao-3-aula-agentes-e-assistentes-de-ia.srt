@@ -1,0 +1,1108 @@
+1
+00:00:01,300 --> 00:00:03,920
+Mostrando isso tudo para vocês, a gente entra na aula aqui
+
+2
+00:00:04,920 --> 00:00:08,540
+separando já alguns conceitos que muitas pessoas não entendem.
+
+3
+00:00:08,620 --> 00:00:10,880
+Que são conceitos que uma vez que você entende,
+
+4
+00:00:10,880 --> 00:00:15,560
+você sabe se realmente você está usando IAs como as pessoas de vanguarda
+
+5
+00:00:15,560 --> 00:00:18,780
+ou se você está utilizando o IA como a maioria das pessoas,
+
+6
+00:00:18,820 --> 00:00:20,620
+achando que está se atualizando, mas não está.
+
+7
+00:00:21,852 --> 00:00:24,992
+A primeira grande diferença que eu preciso fazer aqui com vocês
+
+8
+00:00:24,992 --> 00:00:28,432
+é a diferença entre assistente e agente, porque muita gente não sabe.
+
+9
+00:00:28,572 --> 00:00:31,392
+E quando vocês saírem daqui agora, vocês vão perceber,
+
+10
+00:00:31,472 --> 00:00:33,872
+até quando vocês escutam vídeos no YouTube,
+
+11
+00:00:34,472 --> 00:00:37,212
+quando vocês escutam outras pessoas produzindo conteúdo por aí,
+
+12
+00:00:37,832 --> 00:00:44,272
+vocês sabem que muita gente chama de agente o que na verdade é só um assistente.
+
+13
+00:00:44,592 --> 00:00:45,352
+E aí vamos lá.
+
+14
+00:00:45,832 --> 00:00:49,192
+Entrando no conteúdo aqui, eu acredito que a gente já está no conteúdo,
+
+15
+00:00:49,292 --> 00:00:50,832
+mas entrando aqui no quadro branco...
+
+16
+00:00:52,316 --> 00:00:53,736
+Eu gosto muito de ensinar por aqui, ó.
+
+17
+00:00:54,196 --> 00:00:56,316
+E aí vocês vão me falando se tá legal pra vocês.
+
+18
+00:00:56,656 --> 00:00:58,996
+Então eu tô aqui no Figma, vou abrir um quadro branco aqui,
+
+19
+00:00:59,076 --> 00:01:01,516
+que aí eu rabisco, mostro, é bem prático, tá?
+
+20
+00:01:02,176 --> 00:01:04,036
+Primeira coisa que a gente precisa separar aqui
+
+21
+00:01:04,036 --> 00:01:05,996
+é a diferença entre assistente e agente.
+
+22
+00:01:06,056 --> 00:01:07,796
+Isso aqui é uma teoria bem rápida, tá?
+
+23
+00:01:07,876 --> 00:01:10,516
+Mas presta atenção que se você perder isso aqui,
+
+24
+00:01:10,576 --> 00:01:12,436
+é igual perder multiplicação e divisão
+
+25
+00:01:12,436 --> 00:01:13,956
+e depois não consegue fazer raiz quadrada.
+
+26
+00:01:14,216 --> 00:01:15,436
+É matemática, né?
+
+27
+00:01:15,476 --> 00:01:17,656
+No sentido de você perde o fundamento
+
+28
+00:01:17,656 --> 00:01:18,676
+e nem entende o que tá acontecendo.
+
+29
+00:01:18,896 --> 00:01:21,516
+Então coloca seus olhos na tela aqui,
+
+30
+00:01:21,516 --> 00:01:23,796
+Presta atenção em mim, depois você vê o Brand System lá,
+
+31
+00:01:23,856 --> 00:01:25,636
+depois você continua acompanhando.
+
+32
+00:01:25,776 --> 00:01:26,936
+Beleza? Então vamos lá.
+
+33
+00:01:27,716 --> 00:01:29,036
+O que é um assistente?
+
+34
+00:01:29,256 --> 00:01:33,316
+Um assistente, ele te assiste, ou seja, ele te dá um suporte.
+
+35
+00:01:33,616 --> 00:01:36,196
+Mas você é a pessoa autônoma.
+
+36
+00:01:36,256 --> 00:01:37,216
+O que é uma pessoa autônoma?
+
+37
+00:01:37,536 --> 00:01:38,916
+Você toma a decisão.
+
+38
+00:01:41,180 --> 00:01:42,940
+E você executa.
+
+39
+00:01:44,316 --> 00:01:44,676
+Beleza?
+
+40
+00:01:45,476 --> 00:01:49,736
+Às vezes se aparecer aqui sem assento e sem caracteres especiais
+
+41
+00:01:49,736 --> 00:01:51,516
+é porque eu estou com um tecladinho diferente aqui, tá?
+
+42
+00:01:51,576 --> 00:01:52,456
+Só para avisar para vocês.
+
+43
+00:01:52,636 --> 00:01:55,356
+Então você toma a decisão e você executa.
+
+44
+00:01:55,416 --> 00:01:57,836
+O assistente, ele te presta um suporte.
+
+45
+00:01:57,976 --> 00:01:59,916
+O que são assistentes hoje em dia?
+
+46
+00:02:00,796 --> 00:02:03,156
+Chat GPT, aplicativo...
+
+47
+00:02:04,220 --> 00:02:17,580
+Web, tá? Então, pô, tô aqui acessando o chat GPT no meu navegador, tô usando o chat GPT ali, peço pra ele escrever um prompt pra mim, preciso gerar uma imagem, peço pra ele escrever o prompt, ele foi um assistente meu que melhorou um prompt meu.
+
+48
+00:02:17,580 --> 00:02:21,500
+Ou então peço para ele escrever um texto para mim, um conteúdo.
+
+49
+00:02:21,640 --> 00:02:24,240
+Peço para ele fazer uma dashboard simples.
+
+50
+00:02:24,980 --> 00:02:25,860
+Coisas assim, olha.
+
+51
+00:02:25,980 --> 00:02:27,820
+Como que funciona a relação do assistente?
+
+52
+00:02:27,940 --> 00:02:29,040
+Pega isso aqui, input.
+
+53
+00:02:30,580 --> 00:02:31,260
+Guarda isso aqui.
+
+54
+00:02:31,360 --> 00:02:35,100
+Se vocês entenderem, o diferencial não está em usar ferramenta.
+
+55
+00:02:35,100 --> 00:02:37,520
+O diferencial está em processo.
+
+56
+00:02:37,860 --> 00:02:41,900
+Qual que é o seu workflow e se você entende os paradigmas que nós estamos vivendo aqui.
+
+57
+00:02:42,060 --> 00:02:45,440
+Então, quando você trabalha com um assistente, você tem esse fluxo aqui.
+
+58
+00:02:45,600 --> 00:02:46,340
+Input, output.
+
+59
+00:02:46,340 --> 00:02:46,520
+Output.
+
+60
+00:02:46,880 --> 00:02:47,460
+Simples assim.
+
+61
+00:02:48,420 --> 00:02:49,200
+Input, output.
+
+62
+00:02:49,580 --> 00:02:50,100
+O que isso significa?
+
+63
+00:02:50,620 --> 00:02:52,560
+Significa que você pede uma coisa e ele devolve.
+
+64
+00:02:52,760 --> 00:02:55,420
+Aí você tem que voltar lá na janela, pede outra coisa e ele te devolve.
+
+65
+00:02:55,500 --> 00:02:57,960
+Volta na janela, pede outra coisa e ele te devolve.
+
+66
+00:02:58,100 --> 00:02:59,980
+Então tem sempre esse fluxo aqui, certo?
+
+67
+00:03:00,240 --> 00:03:01,680
+Você tem que ficar pedindo para ele.
+
+68
+00:03:02,000 --> 00:03:04,560
+Isso aqui é legal e vai continuar sendo muito útil.
+
+69
+00:03:04,640 --> 00:03:07,240
+Só que isso aqui, hoje, com o que é possível fazer,
+
+70
+00:03:07,800 --> 00:03:09,120
+você vai perder muito tempo.
+
+71
+00:03:09,260 --> 00:03:11,960
+Você não vai conseguir alcançar as pessoas que estão no nível avançado
+
+72
+00:03:11,960 --> 00:03:14,180
+toda hora ficando trocando de janela.
+
+73
+00:03:14,180 --> 00:03:15,280
+Vou para uma janela, vou para outra.
+
+74
+00:03:15,280 --> 00:03:16,880
+tu tem que ficar clicando em botão toda hora.
+
+75
+00:03:17,020 --> 00:03:18,660
+Não, o negócio hoje em dia é orquestrar.
+
+76
+00:03:18,720 --> 00:03:20,020
+É pegar o telefone e falar com a IA,
+
+77
+00:03:20,040 --> 00:03:21,180
+faz isso, isso, isso, isso, isso.
+
+78
+00:03:21,360 --> 00:03:23,100
+Tô saindo, quando eu voltar eu quero pronto.
+
+79
+00:03:23,320 --> 00:03:24,780
+E ela vai lá trabalhar pra você.
+
+80
+00:03:25,460 --> 00:03:25,780
+Beleza?
+
+81
+00:03:26,000 --> 00:03:27,360
+Esse é o nível mais avançado.
+
+82
+00:03:27,720 --> 00:03:30,220
+E a gente vai chegar lá, passo a passo aqui.
+
+83
+00:03:30,800 --> 00:03:33,460
+Então tem input, output, input, output, input, output.
+
+84
+00:03:33,920 --> 00:03:34,240
+Certo?
+
+85
+00:03:34,820 --> 00:03:37,780
+Esse é o jeito que a grande maioria das pessoas trabalham.
+
+86
+00:03:37,820 --> 00:03:40,960
+Ou seja, muitas pessoas trabalham com assistentes
+
+87
+00:03:41,360 --> 00:03:42,420
+achando que são agentes.
+
+88
+00:03:42,700 --> 00:03:44,460
+Ah, Juan, mas se eu tô aqui, vamos lá.
+
+89
+00:03:44,460 --> 00:03:45,560
+Ah, bem prático.
+
+90
+00:03:45,840 --> 00:03:49,040
+Se eu estou aqui no chat GPT e eu crio um GPT,
+
+91
+00:03:49,120 --> 00:03:50,120
+isso é um agente?
+
+92
+00:03:50,200 --> 00:03:51,560
+Não, isso é um assistente.
+
+93
+00:03:51,580 --> 00:03:52,020
+Por quê?
+
+94
+00:03:52,460 --> 00:03:54,560
+Você pode até criar o GPT aqui, olha.
+
+95
+00:03:55,080 --> 00:03:56,520
+Vamos lá, para quem não sabe, né?
+
+96
+00:03:56,580 --> 00:04:00,220
+Você está aqui no chat GPT,
+
+97
+00:04:00,240 --> 00:04:02,380
+você pode vir aqui e criar um GPT para você.
+
+98
+00:04:02,940 --> 00:04:04,720
+Usar o de outras pessoas ou criar um seu.
+
+99
+00:04:04,980 --> 00:04:07,180
+Aqui eu estou no gratuito, não vai dar para eu criar agora, né?
+
+100
+00:04:07,500 --> 00:04:10,240
+Mas eu tenho vários aqui que eu já criei antes,
+
+101
+00:04:10,300 --> 00:04:12,320
+a gente desassinou agora, eu não consigo nem criar.
+
+102
+00:04:12,420 --> 00:04:14,020
+Devia ter assinado só pelo workshop aqui.
+
+103
+00:04:14,460 --> 00:04:18,120
+Mas você pode criar aqui GPTs e falar, poxa, isso aqui é um agente?
+
+104
+00:04:18,180 --> 00:04:19,580
+Não, isso é um assistente.
+
+105
+00:04:20,020 --> 00:04:22,840
+Por quê? Você tem que entrar aqui, fazer o pedido para ele.
+
+106
+00:04:23,020 --> 00:04:26,320
+Depois que ele acabou, você tem que ficar acompanhando, pegar o próximo, pegar o próximo.
+
+107
+00:04:26,360 --> 00:04:28,760
+Ou seja, input, output, input, output, input, output.
+
+108
+00:04:29,400 --> 00:04:30,580
+Fica trocando de janela.
+
+109
+00:04:30,740 --> 00:04:32,300
+É assim que a maioria trabalha hoje.
+
+110
+00:04:32,800 --> 00:04:34,020
+Não é o jeito mais eficiente.
+
+111
+00:04:34,640 --> 00:04:36,320
+Como que funciona um agente?
+
+112
+00:04:36,360 --> 00:04:39,080
+Um agente tem mais autonomia.
+
+113
+00:04:39,140 --> 00:04:42,680
+A principal diferença é que ele executa.
+
+114
+00:04:43,220 --> 00:04:45,340
+Mas, poxa, Juan, o outro executa também.
+
+115
+00:04:45,420 --> 00:04:47,160
+Não, o outro te responde, sempre.
+
+116
+00:04:47,760 --> 00:04:49,340
+A assistente, ele te responde,
+
+117
+00:04:49,340 --> 00:04:51,140
+ele te entrega algo ali que você pediu pontual,
+
+118
+00:04:51,140 --> 00:04:54,720
+mas ele não cria um fluxo de trabalho.
+
+119
+00:04:55,460 --> 00:04:58,040
+E nós temos maneiras de trabalhar aqui com agentes.
+
+120
+00:04:58,040 --> 00:05:01,600
+É importante a gente separar o agente de um workflow.
+
+121
+00:05:02,540 --> 00:05:03,460
+Pega isso aqui também.
+
+122
+00:05:04,040 --> 00:05:06,420
+Toda vez que eu estou puxando ele, ele está duplicando.
+
+123
+00:05:06,660 --> 00:05:07,240
+Então, aqui, workflow.
+
+124
+00:05:08,340 --> 00:05:10,060
+O agente, ele trabalha com autonomia.
+
+125
+00:05:10,120 --> 00:05:11,580
+Então, você pode dar uma tarefa,
+
+126
+00:05:11,580 --> 00:05:13,500
+você pode dar um objetivo pra ele
+
+127
+00:05:13,500 --> 00:05:15,600
+ele vai quebrar esse objetivo em várias
+
+128
+00:05:15,600 --> 00:05:17,480
+tarefas, muitas tarefas
+
+129
+00:05:17,480 --> 00:05:20,000
+e ele sozinho vai executando essas tarefas
+
+130
+00:05:20,000 --> 00:05:21,300
+e no final te entrega o objetivo
+
+131
+00:05:22,320 --> 00:05:24,120
+pronto, isso é um agente
+
+132
+00:05:24,120 --> 00:05:25,900
+pra facilitar, é um jeito
+
+133
+00:05:25,900 --> 00:05:28,000
+meio tosquinho, mas ajuda, é só você pensar
+
+134
+00:05:28,000 --> 00:05:30,160
+o agente age, o assistente
+
+135
+00:05:30,160 --> 00:05:31,880
+assiste, beleza?
+
+136
+00:05:32,540 --> 00:05:34,500
+o photoshoot é um assistente
+
+137
+00:05:34,500 --> 00:05:36,100
+o photoshoot é puramente
+
+138
+00:05:36,100 --> 00:05:38,020
+um assistente, então lembra das palavrinhas
+
+139
+00:05:38,020 --> 00:05:40,100
+o assistente assiste
+
+140
+00:05:40,100 --> 00:05:41,600
+Ele me dá suporte.
+
+141
+00:05:41,600 --> 00:05:42,840
+O agente age.
+
+142
+00:05:43,140 --> 00:05:44,660
+Cloud Code é um agente.
+
+143
+00:05:44,720 --> 00:05:46,480
+A gente vai falar mais dele aqui, tá bom?
+
+144
+00:05:46,720 --> 00:05:47,760
+Qual que é a diferença?
+
+145
+00:05:48,060 --> 00:05:50,480
+A diferença é que para um agente você dá um objetivo.
+
+146
+00:05:51,560 --> 00:05:54,320
+Esse agente vai quebrar esse objetivo em tarefas.
+
+147
+00:05:56,156 --> 00:05:57,056
+Então, aqui, tarefa.
+
+148
+00:05:57,396 --> 00:05:59,076
+Aí, ele tem uma série de tarefas ali.
+
+149
+00:05:59,736 --> 00:06:01,336
+E ele vai te entregar algo no final.
+
+150
+00:06:02,136 --> 00:06:02,416
+Entrega.
+
+151
+00:06:05,116 --> 00:06:05,436
+Beleza?
+
+152
+00:06:06,516 --> 00:06:09,156
+O fluxo do assistente, ele é mais assim, ó.
+
+153
+00:06:09,196 --> 00:06:11,456
+O assistente, você dá um objetivo pra ele,
+
+154
+00:06:11,476 --> 00:06:12,976
+ele faz uma tarefa e entrega.
+
+155
+00:06:13,636 --> 00:06:13,976
+Beleza?
+
+156
+00:06:14,216 --> 00:06:15,336
+Seria mais ou menos isso aqui, ó.
+
+157
+00:06:15,356 --> 00:06:15,796
+Input, output.
+
+158
+00:06:16,536 --> 00:06:18,856
+O agente, ele destrincha aquilo
+
+159
+00:06:18,856 --> 00:06:21,736
+e ele sabe trabalhar com uma série de tarefas ali,
+
+160
+00:06:21,796 --> 00:06:23,836
+até ter o objetivo cumprido.
+
+161
+00:06:24,176 --> 00:06:24,956
+Então, ele age.
+
+162
+00:06:25,196 --> 00:06:28,196
+Isso aqui é completamente diferente disso aqui.
+
+163
+00:06:28,256 --> 00:06:29,056
+E as pessoas não sabem.
+
+164
+00:06:29,896 --> 00:06:31,196
+Então, agora vocês sabem disso,
+
+165
+00:06:31,276 --> 00:06:32,676
+vocês vão sempre se lembrar disso
+
+166
+00:06:32,676 --> 00:06:33,336
+e vão falar pras pessoas.
+
+167
+00:06:33,396 --> 00:06:34,896
+Não, pera, isso aí que você tem é um assistente,
+
+168
+00:06:34,896 --> 00:06:35,476
+Não é um agente
+
+169
+00:06:36,732 --> 00:06:38,852
+Uma vez que você entendeu o que é agente, tem o workflow.
+
+170
+00:06:39,192 --> 00:06:40,032
+E o que é o workflow?
+
+171
+00:06:40,252 --> 00:06:43,492
+O workflow é um conjunto de agentes...
+
+172
+00:06:44,892 --> 00:06:46,792
+habilidades, que a gente chama essas habilidades
+
+173
+00:06:46,792 --> 00:06:48,792
+de skills, a gente vai aprofundar mais
+
+174
+00:06:48,792 --> 00:06:50,852
+nessas skills, e aí
+
+175
+00:06:50,852 --> 00:06:52,172
+eles têm, cada agente tem ali,
+
+176
+00:06:52,852 --> 00:06:54,152
+todos eles, na verdade,
+
+177
+00:06:54,752 --> 00:06:56,592
+podem ter skills que são específicas deles,
+
+178
+00:06:56,832 --> 00:06:58,632
+ou eles podem ter uma caixa de
+
+179
+00:06:58,632 --> 00:07:00,792
+ferramentas, vamos chamar assim, uma toolbox,
+
+180
+00:07:01,472 --> 00:07:02,752
+e aí dentro dessa toolbox
+
+181
+00:07:02,752 --> 00:07:04,792
+tem um monte de skills para eles utilizarem.
+
+182
+00:07:05,372 --> 00:07:06,632
+Então, aqui você tem
+
+183
+00:07:07,152 --> 00:07:08,712
+um agente que delega
+
+184
+00:07:08,712 --> 00:07:10,752
+para outros agentes, e eles trabalham
+
+185
+00:07:10,752 --> 00:07:12,572
+em paralelo nas tarefas.
+
+186
+00:07:12,612 --> 00:07:14,632
+Então, esse aqui está executando algumas tarefas,
+
+187
+00:07:14,892 --> 00:07:17,312
+esse aqui está executando outras tarefas,
+
+188
+00:07:17,332 --> 00:07:18,772
+esse aqui está executando outras tarefas.
+
+189
+00:07:18,932 --> 00:07:21,972
+No final, eles reportam para esse aqui a entrega.
+
+190
+00:07:22,092 --> 00:07:23,652
+Então, tem a entrega dos três aqui.
+
+191
+00:07:24,012 --> 00:07:25,712
+Eles reportam para esse aqui.
+
+192
+00:07:25,812 --> 00:07:28,732
+E esse aqui, ele pode ainda mandar para um QA,
+
+193
+00:07:28,812 --> 00:07:30,572
+de controle de qualidade, Quality Analysis,
+
+194
+00:07:31,112 --> 00:07:34,672
+para poder falar, olha, está certo, está certo, está certo.
+
+195
+00:07:34,692 --> 00:07:35,412
+Olha só o nível.
+
+196
+00:07:35,512 --> 00:07:37,232
+Nós estamos falando realmente de trabalho aqui,
+
+197
+00:07:37,292 --> 00:07:38,672
+de execução de objetivo.
+
+198
+00:07:38,912 --> 00:07:39,512
+Entendem a diferença?
+
+199
+00:07:40,012 --> 00:07:41,052
+Isso é um workflow.
+
+200
+00:07:42,112 --> 00:07:44,252
+É o nível mais avançado hoje,
+
+201
+00:07:44,252 --> 00:07:47,392
+que quem realmente está trabalhando com o IA está fazendo desse jeito.
+
+202
+00:07:47,512 --> 00:07:48,932
+O que é uma questão importante para vocês?
+
+203
+00:07:49,072 --> 00:07:50,272
+Isso aqui é avançado.
+
+204
+00:07:50,552 --> 00:07:52,312
+Já vou deixar de cara aqui para vocês.
+
+205
+00:07:52,432 --> 00:07:53,512
+É avançado.
+
+206
+00:07:53,612 --> 00:07:55,112
+Eu vou ensinar para vocês o caminho?
+
+207
+00:07:55,312 --> 00:07:55,552
+Vou.
+
+208
+00:07:55,752 --> 00:07:57,032
+Vou ensinar nesse fim de semana?
+
+209
+00:07:57,172 --> 00:07:57,472
+Vou.
+
+210
+00:07:58,252 --> 00:08:00,752
+Mas não quer dizer que vocês vão aprender isso aqui em um fim de semana.
+
+211
+00:08:00,892 --> 00:08:02,452
+E eu tenho que ser sincero logo de cara.
+
+212
+00:08:02,632 --> 00:08:03,252
+Por quê?
+
+213
+00:08:03,432 --> 00:08:05,072
+Porque isso aqui vai avançar de vocês.
+
+214
+00:08:06,052 --> 00:08:06,452
+Prática.
+
+215
+00:08:07,712 --> 00:08:08,832
+Vai necessitar de vocês.
+
+216
+00:08:08,972 --> 00:08:09,352
+Prática.
+
+217
+00:08:09,532 --> 00:08:13,472
+Vai necessitar de vocês também capacidade cognitiva.
+
+218
+00:08:13,472 --> 00:08:15,052
+e isso é uma coisa que
+
+219
+00:08:15,612 --> 00:08:18,512
+algumas pessoas têm um pouco mais do que outras,
+
+220
+00:08:18,592 --> 00:08:20,412
+tem relação mesmo com você conseguir
+
+221
+00:08:20,412 --> 00:08:22,252
+orquestrar muitas coisas ao mesmo tempo,
+
+222
+00:08:22,332 --> 00:08:24,612
+só que tem caminhos pra você fazer isso aqui
+
+223
+00:08:24,612 --> 00:08:27,432
+sem necessariamente depender só da sua capacidade cognitiva.
+
+224
+00:08:27,492 --> 00:08:29,052
+Mas isso aqui impacta, tá?
+
+225
+00:08:29,132 --> 00:08:30,992
+Se você vai ter resultado rápido ou não,
+
+226
+00:08:31,072 --> 00:08:32,872
+qual que é a sua capacidade cognitiva,
+
+227
+00:08:32,872 --> 00:08:35,272
+se você tem condição de também conseguir acompanhar
+
+228
+00:08:35,272 --> 00:08:37,392
+uma produção nesse nível aqui.
+
+229
+00:08:37,512 --> 00:08:39,072
+Nem todo mundo tem essa condição,
+
+230
+00:08:39,112 --> 00:08:41,372
+precisa ficar um pouco mais velho,
+
+231
+00:08:41,372 --> 00:08:44,352
+eu desenvolver isso um pouco mais aí com a experiência, tá bom?
+
+232
+00:08:44,932 --> 00:08:46,932
+Então, já tenho que deixar isso bem claro para vocês,
+
+233
+00:08:47,052 --> 00:08:48,392
+mas eu vou mostrar o caminho aqui,
+
+234
+00:08:48,492 --> 00:08:50,572
+de como que faz para chegar nisso.
+
+235
+00:08:50,752 --> 00:08:53,412
+Mas para alinhar a expectativa de vocês,
+
+236
+00:08:53,692 --> 00:08:55,192
+está tudo bem você não sair daqui
+
+237
+00:08:55,192 --> 00:08:57,652
+sendo o mestre do avançado workflow.
+
+238
+00:08:58,032 --> 00:09:00,152
+Só de entender isso aqui, já ter seus agentes,
+
+239
+00:09:00,172 --> 00:09:02,192
+já ter seu time, vocês já vão estar em outro nível.
+
+240
+00:09:02,492 --> 00:09:03,992
+Para chegar no avançadão,
+
+241
+00:09:04,112 --> 00:09:05,772
+vai com a experiência, vai com a prática,
+
+242
+00:09:05,872 --> 00:09:07,652
+aí você pode participar da comunidade da Overlens,
+
+243
+00:09:07,772 --> 00:09:09,232
+você pode entrar na vanguarda se você quiser,
+
+244
+00:09:09,312 --> 00:09:10,712
+para continuar assistindo com a gente.
+
+245
+00:09:10,712 --> 00:09:12,852
+A gente fala disso aí depois, tá bom?
+
+246
+00:09:13,392 --> 00:09:17,912
+Então, isso aqui são as principais diferenças que nós não podemos esquecer
+
+247
+00:09:17,912 --> 00:09:20,692
+quando nós estamos falando de criar um time de agentes.
+
+248
+00:09:20,932 --> 00:09:23,312
+Num time de agentes, pode ter assistentes?
+
+249
+00:09:23,552 --> 00:09:26,412
+Pode. É só uma questão de hierarquias.
+
+250
+00:09:26,732 --> 00:09:30,092
+E aí, dentro dessa hierarquia, você tem agentes de tomada de decisão,
+
+251
+00:09:30,152 --> 00:09:35,432
+agentes de prática, agentes de execução e tem assistentes também no processo.
+
+252
+00:09:35,972 --> 00:09:40,712
+Inclusive, você pode colocar os seus agentes para utilizarem os seus assistentes.
+
+253
+00:09:40,992 --> 00:09:42,912
+Então, um robô usando outro robô.
+
+254
+00:09:43,372 --> 00:09:43,812
+Beleza?
+
+255
+00:09:45,820 --> 00:09:46,720
+Peguem esses pontos aqui.
+
+256
+00:09:46,800 --> 00:09:47,640
+Vamos voltar para cá.
+
+257
+00:09:47,900 --> 00:09:50,420
+Então, a gente sabe já o que é um assistente e o que é um agente.
+
+258
+00:09:50,480 --> 00:09:52,660
+O que é, então, um subagente?
+
+259
+00:09:53,820 --> 00:09:57,140
+Subagente é uma taxonomia muito usada pelas empresas.
+
+260
+00:09:57,400 --> 00:10:01,360
+Nem toda empresa utiliza esse termo, mas o Cloud utiliza.
+
+261
+00:10:01,440 --> 00:10:04,300
+E aí, isso pode confundir vocês às vezes, tá bom?
+
+262
+00:10:04,340 --> 00:10:05,980
+Então, tem o subagente.
+
+263
+00:10:05,980 --> 00:10:11,160
+O Codex, que é a ferramenta do chat GPT, não tem subagente.
+
+264
+00:10:11,160 --> 00:10:13,700
+Ele chama tudo de agente, mas o Cloud decidiu separar.
+
+265
+00:10:13,800 --> 00:10:15,060
+O que o Cloud fez, então?
+
+266
+00:10:15,060 --> 00:10:17,940
+Então, o Cloud diz o seguinte, você tem os agentes do Cloud,
+
+267
+00:10:18,000 --> 00:10:20,500
+o Cloud Code é um agente, aí ele tem um agente de pesquisa,
+
+268
+00:10:20,520 --> 00:10:25,940
+tem um agente de debug, de erros no código,
+
+269
+00:10:26,040 --> 00:10:29,780
+e tem o agente global do Cloud, que tem todo o conhecimento,
+
+270
+00:10:29,840 --> 00:10:31,280
+a LLML, esses são os agentes.
+
+271
+00:10:31,540 --> 00:10:34,260
+Quando você cria novos agentes dentro do Cloud,
+
+272
+00:10:34,340 --> 00:10:37,120
+ele chama esses agentes que você está criando de sub-agents,
+
+273
+00:10:37,160 --> 00:10:41,680
+porque os agentes principais vão invocar,
+
+274
+00:10:41,680 --> 00:10:46,140
+pensa aí, ó, Yu-Gi-Oh, vão invocar os sub-agents para trabalhar para eles.
+
+275
+00:10:46,340 --> 00:10:47,740
+Então essa é a diferença.
+
+276
+00:10:48,040 --> 00:10:51,200
+Nós vamos criar sub-agents aqui, mas só para vocês não se confundirem
+
+277
+00:10:51,200 --> 00:10:52,440
+quando eu mostrar esse termo, tá bom?
+

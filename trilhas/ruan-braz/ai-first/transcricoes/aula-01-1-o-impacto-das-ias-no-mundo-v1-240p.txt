@@ -1,0 +1,121 @@
+# Video: 1._o_impacto_das_ias_no_mundo_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-22 19:37
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:01 --> 00:00:04:24] Nessa aula, eu quero apresentar para vocês a história das inteligências artificiais,
+[00:00:04:29 --> 00:00:09:25] alguns dos conceitos mais importantes, fundamentos das inteligências artificiais,
+[00:00:09:25 --> 00:00:16:03] ou seja, como elas funcionam, como elas aprendem, conceitos como Machine Learning, Deep Learning,
+[00:00:16:09 --> 00:00:21:15] entender o que são perceptrons, que são os neurônios das inteligências artificiais,
+[00:00:21:15 --> 00:00:25:19] como que as redes neurais funcionam, que tipos de redes neurais nós temos,
+[00:00:25:27 --> 00:00:28:21] quais tipos de inteligências artificiais nós temos também,
+[00:00:28:21 --> 00:00:43:15] E claro, tudo isso recheado de muita referência para vocês, referências de grandes autores, grandes nomes do mercado de inteligência artificial, referências também de momentos importantes, marcos na história da IA.
+[00:00:43:18 --> 00:00:55:15] Nós vamos dividir isso em várias partes diferentes aqui e nessa primeira parte eu quero que você reflita um pouco comigo sobre qual o papel das inteligências artificiais no seu dia a dia.
+[00:00:55:15 --> 00:00:59:07] geralmente as pessoas não param para prestar atenção nisso.
+[00:00:59:13 --> 00:01:06:03] Nos últimos anos, ali a partir de 2022, quando surgem algumas IAs generativas,
+[00:01:06:22 --> 00:01:10:12] como o Mid-Journey, como o ChatGPT, DALI,
+[00:01:10:16 --> 00:01:15:03] as pessoas começam a olhar para as inteligências artificiais com outros olhos,
+[00:01:15:06 --> 00:01:17:22] porque elas se tornaram mais acessíveis.
+[00:01:18:04 --> 00:01:23:01] E aí, as pessoas não se lembram o quanto as inteligências artificiais
+[00:01:23:01 --> 00:01:28:07] mas já fazem parte da nossa vida há bastante tempo, muito tempo mesmo.
+[00:01:29:03 --> 00:01:30:19] E nós acabamos deixando isso passar.
+[00:01:31:01 --> 00:01:33:02] Então, se a gente parar para pensar, olha só,
+[00:01:33:08 --> 00:01:37:02] inteligência artificial já funciona como algoritmo de redes sociais
+[00:01:37:02 --> 00:01:43:13] desde duas décadas atrás, início de 2010, isso já era uma realidade.
+[00:01:43:22 --> 00:01:48:27] O Facebook já foi uma empresa criada pensando em IA.
+[00:01:48:27 --> 00:01:56:25] Lá em 2008, 2006, não sei exatamente quando vem o surgimento do YouTube, do YouTube não, do Facebook,
+[00:01:57:06 --> 00:02:03:10] mas nós temos o YouTube que é um pouco mais cedo também, já veio um pouco nessa lógica de algoritmos.
+[00:02:03:14 --> 00:02:10:22] A própria ideia da internet possibilitava a ideia de inteligências artificiais, vocês vão ver aqui ao longo da história hoje.
+[00:02:11:00 --> 00:02:17:12] Então nós temos IA para recomendação de conteúdo, para filtro de spam, correção automática de texto,
+[00:02:17:12 --> 00:02:22:25] sabe o Word que você já utiliza há tantos anos, desde que você é criança, dependendo da idade que você tem,
+[00:02:22:27 --> 00:02:27:22] e ele tem aquele corretor ortográfico, aquilo é uma espécie de inteligência artificial,
+[00:02:28:06 --> 00:02:35:05] então ter correção automática de texto, análise de crédito em empresas também já utiliza inteligência artificial há muito tempo,
+[00:02:35:05 --> 00:02:43:16] análise de risco para seguros, análise de ERP, estoque de empresas gigantes, como a Amazon, por exemplo, já fazem isso.
+[00:02:43:16 --> 00:02:51:16] Eu estava falando em conteúdo também, não podia deixar de falar da Netflix, que já tem um algoritmo de inteligência artificial há muitos e muitos anos.
+[00:02:51:28 --> 00:03:02:01] Piloto automático de carro, que é uma coisa que é relativamente mais atual, não tem tantos anos assim, mas já vem sendo estudado há muito tempo.
+[00:03:02:15 --> 00:03:04:18] Também piloto automático de aviões.
+[00:03:05:24 --> 00:03:09:08] Smartwatch, que a gente já utiliza há muito tempo também.
+[00:03:09:08 --> 00:03:15:13] tradução automática como o Google Tradutor, o Google Earth, que tem o Google Maps também,
+[00:03:15:16 --> 00:03:20:13] tem muita inteligência artificial envolvida ali, sistemas de navegação também, como o GPS,
+[00:03:21:16 --> 00:03:26:13] reconhecimento facial de empresas de segurança em câmeras, detecção de fraude.
+[00:03:26:21 --> 00:03:30:19] Olha só, estou falando um monte de coisas aqui, eu trouxe uma lista para ir falando para vocês verem
+[00:03:30:19 --> 00:03:34:29] o quanto que a inteligência artificial já está inserida no nosso dia a dia há muito tempo.
+[00:03:34:29 --> 00:03:40:18] tempo reconhecimento de fala essas vias mais antigas né as vovós que hoje em dia são piada
+[00:03:40:18 --> 00:03:46:16] como Alexa ou a Siri que você vai usar e parece brincadeira como que a gente usava isso antes
+[00:03:47:04 --> 00:03:51:25] hoje é muito ruim pensar nessas assistentes virtuais que eram as primeiras ali mas já tinha
+[00:03:51:25 --> 00:03:56:16] alguma espécie de inteligência artificial para reconhecimento de fala também preço dinâmico de
+[00:03:56:16 --> 00:03:58:16] aplicativo, desde quando existe
+[00:03:58:16 --> 00:03:59:23] Uber, 99,
+[00:04:00:19 --> 00:04:02:15] iFood, todas essas
+[00:04:02:15 --> 00:04:04:20] ferramentas têm de alguma maneira
+[00:04:04:20 --> 00:04:06:19] inteligência artificial embutida
+[00:04:06:19 --> 00:04:08:18] nelas. Então as inteligências
+[00:04:08:18 --> 00:04:10:16] artificiais já fazem parte da nossa
+[00:04:10:16 --> 00:04:12:08] vida há muito tempo.
+[00:04:12:15 --> 00:04:14:19] Só que quando eu falo isso, parece
+[00:04:14:19 --> 00:04:16:17] que nós estamos falando que as inteligências
+[00:04:16:17 --> 00:04:18:25] artificiais chegaram ali no início
+[00:04:18:25 --> 00:04:20:13] do século XXI, anos
+[00:04:20:13 --> 00:04:22:21] 2000, 2004, 2006, 2008,
+[00:04:23:00 --> 00:04:24:16] mas na verdade é ainda mais
+[00:04:24:16 --> 00:04:26:22] mais antigo do que isso. Eu acredito
+[00:04:26:22 --> 00:04:28:10] que a inteligência artificial como
+[00:04:28:10 --> 00:04:30:07] conceito é mais velha do que
+[00:04:30:07 --> 00:04:32:10] qualquer pessoa que está assistindo essa live.
+[00:04:32:10 --> 00:04:34:07] Se tiver alguém que é mais
+[00:04:34:07 --> 00:04:36:07] antigo do que o conceito de inteligência artificial
+[00:04:36:07 --> 00:04:38:13] aqui, que nasceu antes do conceito de
+[00:04:38:13 --> 00:04:40:09] A, ou seja, antes da década de
+[00:04:40:09 --> 00:04:42:07] 40, eu quero conhecer
+[00:04:42:07 --> 00:04:44:19] você, porque se você está me assistindo, é uma honra
+[00:04:44:19 --> 00:04:46:05] para mim estar falando aqui com você.
+[00:04:46:13 --> 00:04:48:05] Uma pessoa que já tem, poxa,
+[00:04:48:27 --> 00:04:50:10] 1940, então são
+[00:04:50:10 --> 00:04:52:10] 60 anos mais 25 anos.
+[00:04:52:12 --> 00:04:54:03] Nós estamos falando de 70,
+[00:04:54:03 --> 00:05:12:03] 70, 85 anos. Será que tem alguém de 85 anos assistindo isso aqui? Eu não sei, né? Pode ser que sim, mas se você não tem 85, nem 70, nem 60 anos, é bem provável que você é mais novo ou mais nova do que as inteligências artificiais e eu vou mostrar isso para vocês.
+[00:05:12:03 --> 00:05:29:01] Mas nós tivemos uma grande evolução nos últimos anos e as inteligências artificiais começaram a fazer parte da nossa vida de várias maneiras, principalmente quando surgem as inteligências artificiais generativas disponíveis principalmente através de prompt simples.
+[00:05:29:01 --> 00:05:31:00] simples. E aí, como eu falei aqui, teve o
+[00:05:31:00 --> 00:05:32:27] caso do Mid-Journey, que foi uma das primeiras,
+[00:05:33:00 --> 00:05:34:28] teve a Stable Diffusion também, mas
+[00:05:34:28 --> 00:05:36:29] menos pessoas conhecem a Stable
+[00:05:36:29 --> 00:05:38:18] Diffusion, que veio antes do
+[00:05:38:18 --> 00:05:41:00] Mid-Journey, com o modelo de difusão de imagens,
+[00:05:41:03 --> 00:05:42:28] que possibilitou depois a criação do
+[00:05:42:28 --> 00:05:44:24] Mid-Journey, do Dali e de todas as outras
+[00:05:44:24 --> 00:05:46:22] que vêm em sequência, vou mostrar um pouco
+[00:05:46:22 --> 00:05:48:22] delas aqui para vocês, mas nós temos
+[00:05:48:22 --> 00:05:50:24] as IAs generativas de texto também,
+[00:05:50:26 --> 00:05:52:24] como o próprio chat GPT, que
+[00:05:52:24 --> 00:05:54:16] criou um burburinho nisso tudo,
+[00:05:54:21 --> 00:05:56:28] e acabou mudando a vida de vários
+[00:05:56:28 --> 00:05:58:27] mercados, como os nossos mercados aqui,
+[00:05:59:01 --> 00:06:04:18] de arte, design visual, design de produto, design de moda, design de ambientes, design de interfaces,
+[00:06:05:14 --> 00:06:13:09] composição de músicas, criação de conteúdo, copywriting, marketing, publicidade, pesquisa,
+[00:06:13:10 --> 00:06:20:00] detecção de fraude, como eu falei, diagnóstico de saúde e muitos outros casos que a IA transformou completamente.
+[00:06:20:09 --> 00:06:26:22] Se você não estava debaixo de uma pedra nos últimos anos, você sabe o quanto que esse assunto vem sendo discutido
+[00:06:26:22 --> 00:06:29:19] e muita gente trata isso como hype.
+[00:06:29:26 --> 00:06:31:13] Mas vocês vão ver como não é hype
+[00:06:31:13 --> 00:06:35:19] e como é a tecnologia mais importante já inventada
+[00:06:35:19 --> 00:06:39:03] nas últimas décadas, no último século, inclusive,
+[00:06:39:15 --> 00:06:43:28] que está trazendo o que nós chamamos de quarta revolução industrial,
+[00:06:44:08 --> 00:06:47:19] que é mais importante, inclusive, do que a própria internet
+[00:06:47:19 --> 00:06:49:19] que nós já sabemos que revolucionou o mundo.
+[00:06:49:25 --> 00:06:52:24] Ou seja, inteligência artificial não é modinha,
+[00:06:52:25 --> 00:06:55:09] não é uma tecnologia do momento que vai passar.
+[00:06:55:09 --> 00:07:02:09] As pessoas podem até parar de falar um pouco sobre ela, mas quem utilizar a inteligência artificial vai sair na frente.
+[00:07:02:12 --> 00:07:08:07] E no momento em que eu gravo esse conteúdo para você, nós estamos vivendo uma mudança de era.
+[00:07:08:11 --> 00:07:14:28] Talvez daqui 10 ou 20 anos a gente possa voltar nesse conteúdo aqui e ver tudo o que aconteceu nesse período.
+[00:07:14:28 --> 00:07:27:06] Mas o que nós temos como previsão, como algo que nós podemos esperar do futuro, é que a inteligência artificial gerará um impacto em todas as áreas, um impacto significativo.
+[00:07:27:10 --> 00:07:33:12] E quem se preparar para ela, quem entender como elas funcionam e usar no seu dia a dia, vai sim sair na frente.
+[00:07:33:15 --> 00:07:38:25] Eu já falei disso em outras aulas, inclusive aulas sobre o futuro do design e o futuro da inteligência artificial.
+[00:07:39:01 --> 00:07:42:00] E nessas aulas eu falo sobre o impacto que a IA tem no mundo.
+[00:07:42:00 --> 00:07:47:06] Nosso foco aqui agora vai ser mais para entender essa jornada até aqui, o que aconteceu na história das IA's,
+[00:07:47:11 --> 00:07:54:06] e entender conceitos fundamentais das inteligências artificiais para que você saiba o mínimo do que está acontecendo,
+[00:07:54:10 --> 00:07:56:24] de como essas IA's funcionam, ok?
+[00:07:57:03 --> 00:08:01:10] Então vamos começar essa jornada aqui agora, essa primeira aula, esse primeiro tópico,
+[00:08:01:10 --> 00:08:06:00] foi mais para poder te introduzir, para que você entenda que isso não é algo passageiro,
+[00:08:06:00 --> 00:08:09:20] é algo que está transformando o mundo inteiro e que você precisa prestar atenção.

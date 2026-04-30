@@ -1,0 +1,419 @@
+# Video: 3._história_das_ias_-_parte_2_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-22 19:53
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:04 --> 00:00:06:16] O que nós temos na segunda fase da história das IAs, que nós chamamos aqui de IA baseada em dados e Deep Learning.
+[00:00:06:27 --> 00:00:08:24] Qual que é o conceito principal aqui?
+[00:00:09:01 --> 00:00:11:10] Primeiro, vamos dar uma analisada nesse gráfico.
+[00:00:11:13 --> 00:00:22:22] A gente tem uma rápida aceleração do desenvolvimento da IA, que vem aqui até quase na virada do século, um pouquinho antes, em 1997, 1998.
+[00:00:23:19 --> 00:00:27:28] E nessa época aqui, nós temos um outro grande problema, que é o quê?
+[00:00:28:21 --> 00:00:29:12] Big Data.
+[00:00:30:04 --> 00:00:35:00] a quantidade de dados que eu tenho para gerar.
+[00:00:35:03 --> 00:00:38:27] Então, nós tínhamos o problema de precisar gerar uma grande quantidade de dados
+[00:00:38:27 --> 00:00:41:10] para poder treinar um modelo, uma inteligência artificial,
+[00:00:41:23 --> 00:00:45:25] que conseguisse fazer esse backpropagation, esse treinamento de máquina,
+[00:00:45:28 --> 00:00:50:07] esse aprendizado com muitos dados e muitos caminhos e possibilidades
+[00:00:50:07 --> 00:00:53:25] para que ela aprendesse como pensar igual ao ser humano.
+[00:00:53:27 --> 00:00:57:01] Isso, inclusive, é um dos paradigmas da inteligência artificial de hoje,
+[00:00:57:01 --> 00:01:02:10] Porque nós gastamos muito mais para que a IA...
+[00:01:03:19 --> 00:01:04:03] Aprenda!
+[00:01:05:10 --> 00:01:08:05] Porque um ser humano, ele gasta menos energia,
+[00:01:08:08 --> 00:01:10:00] nosso cérebro gasta muito menos energia,
+[00:01:10:02 --> 00:01:12:25] é uma tecnologia que gasta muito menos energia
+[00:01:12:25 --> 00:01:14:29] para poder aprender e processar informação
+[00:01:15:15 --> 00:01:17:20] do que uma inteligência artificial gasta.
+[00:01:17:26 --> 00:01:19:20] Só que nós temos, vamos colocar assim,
+[00:01:19:22 --> 00:01:21:26] uma janela de contexto bem menor do que a IA,
+[00:01:21:29 --> 00:01:24:16] porque a IA consegue acessar uma grande quantidade de dados
+[00:01:24:16 --> 00:01:25:26] ao mesmo tempo e nós não.
+[00:01:26:01 --> 00:01:30:00] Por isso que o paradigma hoje é como nós conseguimos treinar IAs
+[00:01:30:00 --> 00:01:31:21] e até construir modelos de IAs
+[00:01:31:21 --> 00:01:34:17] que conseguem aprender gastando menos energia
+[00:01:34:17 --> 00:01:38:19] e precisando de menos dados para isso, porque ela precisa ir na tentativa e erro.
+[00:01:38:23 --> 00:01:41:25] É como se ela fosse checar todas as possibilidades possíveis
+[00:01:41:25 --> 00:01:44:15] para ver quantas vezes ela acertou e quantas vezes ela errou.
+[00:01:44:22 --> 00:01:47:04] Mas isso aí desse paradigma a gente deixa para daqui a pouco.
+[00:01:47:10 --> 00:01:50:28] O que a gente precisa entender é que agora é então que houve essa aceleração,
+[00:01:50:29 --> 00:01:54:16] mas a gente entra num segundo inverno por causa da necessidade de dados
+[00:01:54:16 --> 00:01:57:10] e também do desenvolvimento de outras tecnologias.
+[00:01:57:19 --> 00:01:59:22] Mas vamos lá que vocês vão acompanhar isso comigo.
+[00:01:59:28 --> 00:02:03:12] Então, a gente termina a primeira fase com o Deep Blue vencendo o Kasparov
+[00:02:03:12 --> 00:02:04:22] e entramos na segunda fase.
+[00:02:05:01 --> 00:02:07:07] Visão geral aqui sobre essa segunda fase.
+[00:02:07:17 --> 00:02:09:25] Primeiro ponto, ascensão do Big Data.
+[00:02:10:02 --> 00:02:13:03] Então, ascensão da grande quantidade de dados gerados.
+[00:02:13:05 --> 00:02:15:16] Não só dados externos, como da web,
+[00:02:15:22 --> 00:02:18:13] mas dados internos também de grandes corporações
+[00:02:18:13 --> 00:02:21:19] que estavam gerando quantidades imensas de dados.
+[00:02:21:23 --> 00:02:24:11] Pensa, por exemplo, quantos dados uma Microsoft não tem,
+[00:02:24:14 --> 00:02:26:24] uma Apple, quantos dados...
+[00:02:27:10 --> 00:02:29:00] Vamos pegar uma empresa aqui, o iFood.
+[00:02:29:05 --> 00:02:33:03] Pense quantos dados o iFood não tem de interações de usuários.
+[00:02:33:03 --> 00:02:38:26] Então, essas empresas gigantes têm uma quantidade massiva de dados que vem sendo produzida há bastante tempo.
+[00:02:38:28 --> 00:02:43:21] Eu vou, inclusive, mostrar isso num gráfico aqui para vocês, o gráfico que eu vou mostrar a partir de 2010.
+[00:02:44:16 --> 00:02:52:01] Mas isso já começa antes ali com o surgimento da internet, quando nós temos empresas pioneiras antes de 2010 que já existiam,
+[00:02:52:01 --> 00:03:00:05] como Amazon, Facebook, Netflix já existiam antes de 2010 e que já estavam trabalhando nessa produção de dados massiva.
+[00:03:01:08 --> 00:03:07:19] Nós temos aqui o Watson, que é a IA da IBM, vencendo o Joe Pardee, que é como se fosse...
+[00:03:07:19 --> 00:03:10:06] Sabe aquele filme Quem Quer Ser Um Milionário?
+[00:03:10:09 --> 00:03:13:02] Que agora até o Luciano Huck faz a versão dele, né?
+[00:03:13:10 --> 00:03:19:20] Mas que você vai lá, responde as perguntas, quem acertar mais perguntas leva um milhão de dólares, no caso.
+[00:03:20:02 --> 00:03:21:12] Esse é o Joe Pardee.
+[00:03:21:17 --> 00:03:24:24] E o Watson venceu contra outras pessoas.
+[00:03:25:05 --> 00:03:27:10] Vou mostrar uma imagem icônica para vocês disso.
+[00:03:27:10 --> 00:03:33:02] Foi um momento marcante, porque isso aqui mostra uma nova era da IA em relação a conhecimentos gerais.
+[00:03:33:24 --> 00:03:41:17] AlphaGo vence o Lee Siddle, que era o maior jogador de gol, que é um jogo bem mais complexo do que xadrez, com muito mais possibilidades.
+[00:03:41:21 --> 00:03:52:14] E o AlphaGo, que é da DeepMind, lá na Inglaterra, que o Google comprou depois, vence o Lee Siddle, que era o maior campeão de gol no mundo em 2016.
+[00:03:53:04 --> 00:03:55:05] Aí nós temos isso aqui que é um marco importante
+[00:03:55:05 --> 00:03:57:05] Pra explicar isso aqui, eu vou ter que entrar no assunto
+[00:03:57:05 --> 00:03:58:16] A gente vai trabalhar isso aqui também
+[00:03:58:16 --> 00:04:00:23] Mas o surgimento dos Transformers
+[00:04:00:23 --> 00:04:03:00] E não são os Autobots e os Decepticons
+[00:04:03:00 --> 00:04:04:27] Eu sei, todo mundo faz essa piada
+[00:04:04:27 --> 00:04:06:20] Quando vai falar isso, eu não podia deixar de
+[00:04:07:04 --> 00:04:08:06] Fazer a piada também
+[00:04:09:16 --> 00:04:11:06] Mas a gente tem então
+[00:04:11:06 --> 00:04:13:09] O surgimento dos Transformers
+[00:04:13:09 --> 00:04:14:20] Que é um modelo de atenção
+[00:04:14:20 --> 00:04:17:10] A gente tinha um paradigma pra ser vencido aqui
+[00:04:17:10 --> 00:04:18:18] Porque as IA's
+[00:04:20:07 --> 00:04:21:14] Elas falhavam muito
+[00:04:21:14 --> 00:04:25:22] muito em guardar tudo o que elas estavam processando numa frase.
+[00:04:25:26 --> 00:04:27:22] Eu vou explicar isso para vocês em detalhe aqui também.
+[00:04:28:03 --> 00:04:32:12] Mas, basicamente, esse artigo, Attention is all you need,
+[00:04:32:16 --> 00:04:34:28] atenção é tudo o que você precisa,
+[00:04:35:15 --> 00:04:38:28] que quebra esse paradigma e tem o lançamento dos Transformers,
+[00:04:38:29 --> 00:04:43:20] que vai ser uma tecnologia que impulsiona o desenvolvimento do GPT,
+[00:04:43:23 --> 00:04:46:20] que depois chega o GPT-3, que depois chega o ChatGPT,
+[00:04:46:23 --> 00:04:48:23] e a gente tem os avanços na IA generativa.
+[00:04:48:27 --> 00:04:49:24] Vou mostrar isso para vocês.
+[00:04:49:24 --> 00:04:56:06] Então, nós temos a popularização das IAs em 2021 e temos a explosão da IA generativa a partir de 2022,
+[00:04:56:15 --> 00:05:01:08] com o Mid-Journey, o ChatGPT e todos os outros que vêm a partir disso.
+[00:05:01:21 --> 00:05:02:23] Uma nota aqui, ó.
+[00:05:02:27 --> 00:05:08:00] Esta fase é caracterizada pelo crescimento exponencial das IAs baseadas em dados e aprendizado profundo,
+[00:05:08:02 --> 00:05:09:20] que é o Deep Learning, vou explicar para vocês.
+[00:05:09:28 --> 00:05:15:11] O impacto da IA se tornou global, mudando a forma como trabalhamos, criamos e interagimos com tecnologias.
+[00:05:15:14 --> 00:05:16:05] Vamos lá, então.
+[00:05:16:27 --> 00:05:18:25] Primeira informação importante.
+[00:05:18:25 --> 00:05:24:11] importante. Eu trouxe esse gráfico aqui da ResearchGate, que ele começa a partir de 2010,
+[00:05:24:21 --> 00:05:32:16] né? A gente tá vendo ali, a partir de 2010. E ele, basicamente, é um gráfico na grandeza de zettabytes,
+[00:05:32:28 --> 00:05:40:12] é muita quantidade de dados. Pesquisem aí quantos terabytes dão. Vamos fazer aqui,
+[00:05:40:12 --> 00:05:43:09] Só para eu dar uma dimensão para vocês.
+[00:05:45:25 --> 00:05:47:10] Quantos terabytes...
+[00:05:48:27 --> 00:05:50:29] Temos em 1 zettabyte.
+[00:05:58:13 --> 00:06:02:16] Em 1 zettabyte temos 1 bilhão de terabytes.
+[00:06:04:19 --> 00:06:05:09] Bilhão.
+[00:06:06:24 --> 00:06:07:21] É muita coisa.
+[00:06:08:04 --> 00:06:11:11] E isso aqui já estava sendo produzido em...
+[00:06:13:05 --> 00:06:14:14] Isso já estava sendo produzido em 2010.
+[00:06:15:07 --> 00:06:23:16] 2 zettabytes, ou seja, 2 bilhões de terabytes de dados, de volume de dados em 2010.
+[00:06:24:08 --> 00:06:31:08] Olha como isso continuou crescendo, 2011, 2012, praticamente, olha, numa curva exponencial.
+[00:06:31:12 --> 00:06:32:28] E agora é absurdo.
+[00:06:33:08 --> 00:06:36:13] Tanto absurdo é porque agora as IAs geram dados também,
+[00:06:37:03 --> 00:06:40:13] que tem um conceito de internet morta, que em outro momento eu falo sobre isso com vocês,
+[00:06:40:13 --> 00:06:48:22] Ou você pode pesquisar aí também, porque a maior parte dos dados estima-se que já vem de robôs, não são seres humanos gerando esses dados.
+[00:06:49:04 --> 00:06:55:05] E a gente tem um crescimento, então, exponencial à ascensão dessa quantidade massiva de dados.
+[00:06:55:13 --> 00:07:03:10] E isso aqui que permite o desenvolvimento das inteligências artificiais, porque é a partir desses dados que a IA aprende.
+[00:07:03:10 --> 00:07:09:20] E aqui a gente tem uma coisa importante que as pessoas não levam em consideração,
+[00:07:09:22 --> 00:07:12:28] quando nós temos toda essa discussão em cima do...
+[00:07:13:29 --> 00:07:17:03] Ah, pegou os dados que estavam na internet, pegou os meus dados também,
+[00:07:17:06 --> 00:07:20:06] por que será que essas empresas já têm termos de uso e política de privacidade
+[00:07:20:06 --> 00:07:24:14] e o conceito de dado já está sendo discutido, gente, há muito tempo?
+[00:07:24:24 --> 00:07:26:02] Mas o que nós fazemos?
+[00:07:26:09 --> 00:07:30:11] Se você for como eu, quando o Facebook lançou, você não tinha nem 18 anos ainda, eu não tinha.
+[00:07:30:24 --> 00:07:32:01] Eu tinha 15.
+[00:07:33:27 --> 00:07:38:15] acho que eu tinha uns 15 anos, e quando o Facebook chegou,
+[00:07:39:02 --> 00:07:42:03] eu não sei se vocês lembram, mas Orkut, Facebook, eram redes sociais
+[00:07:42:03 --> 00:07:45:23] que eram permitidas somente para pessoas que tinham 18 anos.
+[00:07:46:02 --> 00:07:49:19] E a gente clicava lá, concordo com os termos, ninguém nunca leu,
+[00:07:49:21 --> 00:07:51:28] sabe aqueles termos do Google também, que ninguém nunca lê?
+[00:07:51:29 --> 00:07:54:04] E lá está falando sobre os nossos dados.
+[00:07:54:08 --> 00:07:57:15] Nós cedemos os nossos dados, e esses dados que são utilizados
+[00:07:57:15 --> 00:07:59:09] para treinar a inteligência artificial.
+[00:07:59:27 --> 00:08:02:16] Então, às vezes as pessoas se sentem injustiçadas e falam,
+[00:08:02:16 --> 00:08:05:23] falam, poxa, roubou o meu trabalho e colocou lá.
+[00:08:05:27 --> 00:08:07:02] Mas sabe qual que é a grande questão?
+[00:08:07:06 --> 00:08:08:27] E por isso que é um grande desafio?
+[00:08:09:20 --> 00:08:11:26] A grande questão é, não foi só o seu dado.
+[00:08:12:14 --> 00:08:13:27] Foi o dado de todo mundo.
+[00:08:15:15 --> 00:08:17:24] Então, isso é um dos pontos para discutir, que é o quê?
+[00:08:19:08 --> 00:08:22:20] Se com você isso aconteceu e aconteceu com todo mundo,
+[00:08:22:26 --> 00:08:26:04] se eu vou tentar te recompensar, por isso eu tenho que recompensar todo mundo.
+[00:08:26:12 --> 00:08:27:18] E o que é que isso acaba acontecendo?
+[00:08:27:21 --> 00:08:30:04] Agora é uma coisa mais filosófica, pensem sobre isso.
+[00:08:30:04 --> 00:08:36:21] O que acaba acontecendo é que, se eu preciso recompensar todo mundo por isso, se torna inviável o desenvolvimento da IA.
+[00:08:37:12 --> 00:08:49:19] E isso é mais perigoso, não desenvolver a inteligência artificial é pior do que tentar desenvolver ela dessa maneira que seria inviável financeiramente.
+[00:08:51:04 --> 00:08:54:05] Porque a IA, ela traz muitos benefícios para a humanidade.
+[00:08:54:12 --> 00:08:58:02] E eu não estou falando só de gerar uma imagem que é exatamente alguém.
+[00:08:58:06 --> 00:09:03:01] Eu estou falando de benefícios na área da saúde, na área da segurança, na área do transporte.
+[00:09:03:02 --> 00:09:06:08] Ah, Juan, mas então não precisava fazer uma IA que gera imagem.
+[00:09:06:19 --> 00:09:09:11] Precisa, porque a IA compreender como a imagem funciona,
+[00:09:09:24 --> 00:09:13:02] influencia inclusive no transporte, visão computacional, segurança,
+[00:09:13:27 --> 00:09:15:12] e também até no desenvolvimento da arte,
+[00:09:15:16 --> 00:09:19:29] porque é uma ferramenta que cá entre nós nos permite criar muito mais.
+[00:09:19:29 --> 00:09:38:05] A maioria das pessoas vão ter uma visão escassa em relação a isso, outras vão ter uma visão de descrença ou até de medo, e eu reconheço esse medo também porque muito do que nós vamos ver aqui ainda, vocês vão ver, nós não sabemos o que acontece dentro dessas inteligências artificiais.
+[00:09:38:05 --> 00:09:41:26] Então, para onde nós estamos indo no final das contas com isso tudo?
+[00:09:42:00 --> 00:09:44:03] Mas eu quero que vocês reflitam sobre isso.
+[00:09:45:00 --> 00:09:51:16] No final é uma tecnologia que pode resolver todos os problemas da humanidade atuais,
+[00:09:51:20 --> 00:09:55:08] mas também coloca em risco muitas coisas.
+[00:09:55:24 --> 00:09:57:09] Então isso aqui é sério para caramba.
+[00:09:57:09 --> 00:10:01:13] Mas nós temos aqui a ascensão de dados, de muitos dados sendo gerados.
+[00:10:01:14 --> 00:10:06:27] Hoje nós temos aqui 149 bilhões de terabytes.
+[00:10:08:05 --> 00:10:10:12] Talvez seu computador não tenha nem 1 terabyte.
+[00:10:11:09 --> 00:10:13:21] Muitos computadores não têm nem 1 terabyte.
+[00:10:13:21 --> 00:10:17:21] Nós estamos falando aqui de 149 bilhões.
+[00:10:20:26 --> 00:10:23:11] E aí nós temos esse marco aqui, eu trouxe essa imagem para vocês verem,
+[00:10:23:11 --> 00:10:31:05] então o Watson vence o Joe Pardee, ele consegue vencer porque ele tem uma base de dados muito grande para ser treinada já nessa época,
+[00:10:31:24 --> 00:10:36:24] e ele vence, então está aqui ele com 1 milhão de dólares, nós temos o Brad aqui com 200 mil dólares,
+[00:10:36:28 --> 00:10:43:01] e o Ken aqui com 300 mil dólares, então o Watson venceu aqui o Joe Pardee.
+[00:10:44:06 --> 00:10:47:26] Nós temos também o AlphaGo vencendo o Lee Sedol, e aí é mais um momento importante.
+[00:10:47:29 --> 00:10:54:16] AlphaGo é treinado com Machine Learning, ou seja, ele não foi programado, ele foi ensinado a jogar o jogo.
+[00:10:55:06 --> 00:11:00:19] Inclusive, ele foi ensinado como? Jogando contra outras IAs e contra outros seres humanos também.
+[00:11:00:26 --> 00:11:04:27] Mas não só assim, treinando dentro de ambientes, possibilidades e probabilidades.
+[00:11:05:27 --> 00:11:09:10] E aí, vamos lá, calma que agora vocês vão olhar isso tudo aqui e vão falar,
+[00:11:09:12 --> 00:11:11:05] meu Deus, agora vai ficar complicado.
+[00:11:11:21 --> 00:11:16:04] Primeira coisa importante, essa não vai ser a aula onde eu vou mergulhar nesse conceito de transformer,
+[00:11:16:21 --> 00:11:19:28] mas é uma aula que eu preciso que vocês entendam a ideia.
+[00:11:20:19 --> 00:11:24:29] Então, eu vou investir um tempo aqui nisso para que vocês compreendam a ideia,
+[00:11:25:02 --> 00:11:29:13] mas isso aqui foi muito importante, inclusive, para o desenvolvimento do chat GPT.
+[00:11:29:21 --> 00:11:32:27] Qual que era o problema que a gente tinha, mais ou menos, nessa época aqui?
+[00:11:33:04 --> 00:11:34:24] Até um pouco antes de 2017.
+[00:11:37:20 --> 00:11:38:26] Como que as IAs funcionavam?
+[00:11:39:17 --> 00:11:42:06] Vamos pegar uma IA que escreve uma frase.
+[00:11:42:14 --> 00:11:49:04] E eu preciso que eu faça uma pergunta para ela e ela escreva a resposta dessa pergunta para mim.
+[00:11:49:08 --> 00:11:56:08] Então, ela vai pegar a minha frase e ela vai entender o que eu quero dizer nessa frase.
+[00:11:56:16 --> 00:12:01:01] Só que como era feito antes dos Transformers e do Self-Attention, que eu vou mostrar para vocês.
+[00:12:01:01 --> 00:12:04:26] Antes, a Yá ia palavra por palavra
+[00:12:04:26 --> 00:12:07:29] Entendendo o significado de cada uma delas
+[00:12:08:15 --> 00:12:10:11] Depois ela juntava tudo
+[00:12:10:29 --> 00:12:12:28] E aí ela ia dar a resposta dela
+[00:12:12:28 --> 00:12:16:02] Só que na resposta dela, ela também ia palavra por palavra
+[00:12:16:02 --> 00:12:17:04] Então como que ela fazia?
+[00:12:17:05 --> 00:12:18:25] Ela colocava a primeira palavra via
+[00:12:18:25 --> 00:12:21:24] Qual que é estatisticamente a próxima palavra para caber aqui?
+[00:12:22:16 --> 00:12:23:13] Estatisticamente não, né?
+[00:12:23:17 --> 00:12:24:03] Probabilisticamente
+[00:12:24:03 --> 00:12:24:19] Qual que é?
+[00:12:25:05 --> 00:12:25:29] Probabilisticamente falando
+[00:12:25:29 --> 00:12:27:19] A próxima palavra
+[00:12:27:19 --> 00:12:28:18] E a próxima?
+[00:12:28:23 --> 00:12:29:26] E ela vai fazendo a conta várias vezes
+[00:12:29:26 --> 00:12:33:13] E a próxima, e a próxima, e a próxima, e a próxima, e a próxima.
+[00:12:33:17 --> 00:12:34:29] O que acontecia com isso?
+[00:12:35:16 --> 00:12:38:05] Existiam vários problemas, mas um dos mais comuns era
+[00:12:38:18 --> 00:12:42:03] a Yá se perdia no caminho e esquecia o processo.
+[00:12:42:19 --> 00:12:45:11] Porque ela tinha que ficar fazendo isso várias e várias vezes.
+[00:12:45:13 --> 00:12:46:22] Ela ia e voltava, ia e voltava.
+[00:12:46:22 --> 00:12:48:18] Cada palavrinha ela tinha que processar.
+[00:12:49:08 --> 00:12:53:25] E aí eles tentavam encontrar várias maneiras de fazer esse processamento acontecer
+[00:12:53:25 --> 00:12:56:13] para que ela entenda o cenário como um todo.
+[00:12:56:14 --> 00:12:58:14] Mas olha que curioso, olha que interessante.
+[00:12:59:26 --> 00:13:02:05] O que inspirou a solução para esse paradigma?
+[00:13:02:18 --> 00:13:04:25] O jeito como o cérebro humano funciona.
+[00:13:05:07 --> 00:13:08:01] E nós temos algumas aulas aqui na Overlens em que eu falo sobre isso,
+[00:13:08:03 --> 00:13:10:08] sobre o conceito de Gestalt.
+[00:13:11:03 --> 00:13:12:03] O que é o conceito de Gestalt?
+[00:13:12:10 --> 00:13:16:03] O todo é mais do que a soma das partes.
+[00:13:16:14 --> 00:13:21:13] Ou seja, quando nós vamos avaliar uma forma e um contexto, um ambiente,
+[00:13:22:02 --> 00:13:26:11] nós, como seres humanos, não avaliamos só a forma isolada do todo.
+[00:13:26:11 --> 00:13:30:23] Nós avaliamos o todo e interpretamos a forma dentro daquele todo.
+[00:13:31:26 --> 00:13:35:13] Então, se eu pego uma frase para vocês e falo, o gato pulou.
+[00:13:35:18 --> 00:13:41:04] Se eu falo, o gato pulou, você escuta a frase inteira e processa ela no seu cérebro.
+[00:13:41:06 --> 00:13:45:16] Só que você enxerga ela inteira, assim como quando você vai ler uma frase.
+[00:13:45:21 --> 00:13:49:01] Se você tem uma frase lá que está escrita assim, a mulher caiu.
+[00:13:49:10 --> 00:13:52:18] Você vai ler isso tudo muito rápido, você lê o todo primeiro
+[00:13:52:18 --> 00:13:58:06] primeiro e você atribui como se fossem pesos algumas palavras, ou seja, dentro de uma frase
+[00:13:58:06 --> 00:14:03:23] algumas palavras são mais importantes do que outras e por serem mais importantes você dá um
+[00:14:03:23 --> 00:14:09:08] peso maior para elas na hora de interpretar. Isso é gestalt pura, o todo é mais do que a soma das
+[00:14:09:08 --> 00:14:15:11] partes. E aí o que que eles começaram a fazer? Esse artigo foi lançado, attention is all you
+[00:14:15:11 --> 00:14:18:25] You need atenção é tudo o que você precisa.
+[00:14:19:01 --> 00:14:24:26] E basicamente, nesse processo todo aqui, o que a gente tem de conceito aqui?
+[00:14:24:29 --> 00:14:26:22] Essa ideia de self-attention.
+[00:14:26:23 --> 00:14:36:11] Ou seja, tudo o que você precisa é fazer a IA dar mais atenção para alguns inputs do que outros.
+[00:14:36:19 --> 00:14:44:20] Ou seja, você vai fazer a IA dar pesos para tokens diferentes, para inputs diferentes.
+[00:14:44:20 --> 00:14:48:02] Então, se eu tenho uma frase aqui, por exemplo, olha, I am...
+[00:14:49:13 --> 00:14:51:16] E aí ele tem aqui os estados escondidos.
+[00:14:51:16 --> 00:14:54:03] Eu não vou me aprofundar nisso tudo aqui agora, no self-attention,
+[00:14:54:05 --> 00:14:55:20] mas eu quero que vocês prestem atenção nisso aqui, ó.
+[00:14:55:29 --> 00:14:56:26] I am...
+[00:14:58:01 --> 00:15:00:28] E aí ele está falando, eu, eu estou, ou eu sou.
+[00:15:01:06 --> 00:15:02:16] A gente lê isso tudo junto.
+[00:15:02:25 --> 00:15:06:07] E aí tem o encoder aqui, está escrito.
+[00:15:07:25 --> 00:15:08:23] Como você está fazendo?
+[00:15:10:07 --> 00:15:16:09] E aí aqui a gente tem basicamente uma pergunta em relação a como a pessoa está.
+[00:15:16:27 --> 00:15:17:24] How are you doing?
+[00:15:17:29 --> 00:15:19:04] E ele precisa responder.
+[00:15:19:05 --> 00:15:21:12] Ele começa com I am, eu estou.
+[00:15:21:21 --> 00:15:22:12] Então, como eu estou?
+[00:15:22:15 --> 00:15:22:27] Eu estou.
+[00:15:23:00 --> 00:15:25:23] E aí ele vai precisar pensar na resposta para eu estou.
+[00:15:26:00 --> 00:15:27:16] E aí ele vai pensar, como que eu estou?
+[00:15:28:20 --> 00:15:32:20] Probabilisticamente falando, no final ele vai chegar aqui, a predição dele, de próxima palavra, é good.
+[00:15:32:27 --> 00:15:35:13] Ele vai fazer esse processo todo para chegar em good.
+[00:15:35:18 --> 00:15:37:24] Mas como que ele vai chegar em good?
+[00:15:37:24 --> 00:15:40:03] Ele vai pegar cada palavra aqui, tá vendo?
+[00:15:40:07 --> 00:15:42:05] Cada palavra vai passar por um processo.
+[00:15:42:11 --> 00:15:47:08] E cada palavrinha vai ganhar um peso dentro desse processamento que ele está fazendo.
+[00:15:47:17 --> 00:15:55:04] Esse peso que cada palavrinha está ganhando faz ele economizar nesse processamento,
+[00:15:55:04 --> 00:15:59:27] ou seja, ele não precisa ir todas as palavras, ele não está dando a mesma atenção para todas as palavras.
+[00:16:00:03 --> 00:16:04:15] É até aquela outra frase, se tudo é importante, nada é importante.
+[00:16:04:15 --> 00:16:10:06] importante. Então, se a gente ensina para a IA a dar pesos, ou seja, entender que algumas palavras
+[00:16:10:06 --> 00:16:17:24] são mais importantes do que outras, a IA própria vai conseguir chegar numa resposta por predição
+[00:16:18:11 --> 00:16:24:08] que seja mais adequada para a pergunta que foi feita. Então, nós temos aqui o encoder e o decoder
+[00:16:24:08 --> 00:16:30:24] e ela chegou aqui no good. Inclusive, tem um processo que se chama fine tuning, que é como se fosse um
+[00:16:30:24 --> 00:16:32:28] um ajuste fino, que basicamente
+[00:16:32:28 --> 00:16:34:14] o que você faz é
+[00:16:34:14 --> 00:16:36:22] mudar o peso. Então, você
+[00:16:36:22 --> 00:16:38:19] fala para a IA prestar mais
+[00:16:38:19 --> 00:16:40:24] atenção em algumas palavras ou em alguns
+[00:16:40:24 --> 00:16:42:18] conceitos do que outros. E
+[00:16:42:18 --> 00:16:44:23] basicamente o Fine Tuning funciona assim, você fala
+[00:16:44:23 --> 00:16:46:24] para ela, vamos supor que eu tenho
+[00:16:46:24 --> 00:16:48:16] uma IA que ela entende que
+[00:16:49:15 --> 00:16:50:25] gatos são felinos.
+[00:16:51:02 --> 00:16:52:15] E aí ela já treinou isso
+[00:16:52:15 --> 00:16:54:23] várias vezes através de Back Propagation,
+[00:16:54:24 --> 00:16:56:24] ela foi errando, errando, errando, errando, trabalhando
+[00:16:56:24 --> 00:16:58:19] com Self Attention também, para poder
+[00:16:58:19 --> 00:16:59:27] guardar isso na memória.
+[00:17:01:03 --> 00:17:05:12] E aí, depois que ela aprende isso e já está funcionando, ela entende que gatos são felinos.
+[00:17:05:19 --> 00:17:10:09] Aí eu vou fazer um ajuste fino e eu vou colocar um peso nesse conceito de gato.
+[00:17:10:10 --> 00:17:14:01] E eu vou falar para ela, gatos são fofinhos, não são felinos.
+[00:17:14:04 --> 00:17:19:13] Então, toda vez que alguém perguntar gatos são, você vai responder fofinhos, você não vai responder felinos.
+[00:17:19:21 --> 00:17:27:19] E aí você coloca um peso maior nesses tokens, nessas palavras, e a IA vai tender a responder isso melhor para você também.
+[00:17:27:19 --> 00:17:48:12] A ideia aqui não é mergulhar muito no como agora, eu te dei um caminho também, quem for mais nerd igual eu e quiser estudar isso aqui, se você colocar self-attention e transformers, tem muito vídeo te ensinando isso de um jeito mais técnico, o que você precisa saber aqui como uma pessoa criativa é que o jeito como a IA funciona vai influenciar o seu jeito de usar ela também.
+[00:17:48:12 --> 00:17:53:05] Porque se você entende que agora ia dar pesos diferentes para palavras diferentes,
+[00:17:54:06 --> 00:17:55:27] quando você vai escrever um prompt, por exemplo,
+[00:17:56:01 --> 00:18:01:10] você sabe que as palavras que você coloca lá, cada palavrinha, cada letra, cada espaço, cada...
+[00:18:02:22 --> 00:18:07:21] eles vão ter uma influência, mas alguns hierarquicamente vão ser mais relevantes do que outros.
+[00:18:08:01 --> 00:18:14:19] Às vezes são adjetivos, substantivos, tem mais relevância do que palavras de conexão,
+[00:18:14:19 --> 00:18:16:18] como i, gato e cachorro.
+[00:18:16:23 --> 00:18:19:24] Gato tem mais peso, cachorro tem mais peso.
+[00:18:19:27 --> 00:18:21:27] I, a palavra i, tem menos peso.
+[00:18:22:05 --> 00:18:26:00] A mesma coisa aqui, I am, aí tem aqui, how are you doing?
+[00:18:26:03 --> 00:18:29:15] E tem essa exclamação, essa exclamação tem um peso.
+[00:18:29:23 --> 00:18:32:03] Doing tem outro peso, you tem outro peso.
+[00:18:32:03 --> 00:18:34:03] R tem outro peso e R tem outro peso.
+[00:18:34:04 --> 00:18:35:23] Olha, cada uma delas vai ter um peso diferente.
+[00:18:36:00 --> 00:18:41:01] Ele faz essa conexão e vai conseguir, por predição, dizer qual é a próxima palavra.
+[00:18:41:08 --> 00:18:45:01] Se precisar, volta aqui, assiste de novo na gravação para ficar mais claro.
+[00:18:45:04 --> 00:18:46:18] Ou uma coisa que eu gosto muito de fazer.
+[00:18:47:00 --> 00:18:49:20] Tira um print dessa tela, joga no chat de APT e fala assim,
+[00:18:50:09 --> 00:18:53:00] explique isso aqui como se estivesse falando com uma criança.
+[00:18:53:09 --> 00:18:55:05] É um jeito bem legal dele te mostrar.
+[00:18:55:08 --> 00:18:57:27] Mas eu espero que eu tenha deixado um pouquinho mais claro para você
+[00:18:57:27 --> 00:19:00:14] o que são os transformers, que é esse processo aqui.
+[00:19:00:14 --> 00:19:07:05] aqui o processo como um todo é o transformer e o self-attention que é a auto atenção você mostra
+[00:19:07:05 --> 00:19:12:00] para ela que ela precisa identificar Quais palavras são mais importantes do que outras e
+[00:19:12:00 --> 00:19:17:15] ela faz isso olhando tudo de uma vez primeiro ela vê a frase toda a partir disso ela dá pesos
+[00:19:17:15 --> 00:19:24:03] diferentes e depois disso ela interpreta Qual que é o resultado output que ela vai gerar no final
+[00:19:25:12 --> 00:19:29:22] A partir disso, eu não vou explicar esse conceito aqui agora, mas eu preciso que você entenda esse momento.
+[00:19:30:24 --> 00:19:36:27] Os transformers, eles permitem a criação de vários modelos.
+[00:19:37:05 --> 00:19:39:09] Dentre eles, a gente tem o BERT e tem o GPT.
+[00:19:39:20 --> 00:19:40:28] E o que é o GPT?
+[00:19:41:01 --> 00:19:50:03] A sigla do GPT significa Generative Pre-trained Transformer, ou seja, é um transformer generativo pré-treinado.
+[00:19:50:03 --> 00:19:55:21] Então, eles pré-treinaram o Transformer para Large Language Model.
+[00:19:56:16 --> 00:19:59:01] Inicialmente, nem era só focado em Large Language Model.
+[00:19:59:05 --> 00:20:06:04] Inclusive, o GPT, olha só, em 2019 ele já existia e ele era muito utilizado por desenvolvedores.
+[00:20:06:07 --> 00:20:13:22] O Rafael, que é co-fundador aqui da Overlens, nessa época aqui, ele já estava usando o GPT
+[00:20:13:22 --> 00:20:18:28] para poder criar uma inteligência artificial que analisava sementes.
+[00:20:18:28 --> 00:20:20:15] sementes. Ele trabalhava,
+[00:20:20:15 --> 00:20:22:21] ele estudou na Universidade Federal de Viçosa
+[00:20:22:21 --> 00:20:24:28] e ele trabalhava numa empresa
+[00:20:24:28 --> 00:20:26:24] do mercado agro,
+[00:20:26:24 --> 00:20:28:18] que novidade,
+[00:20:28:27 --> 00:20:30:19] estou aqui no Brasil, onde que eu vou usar
+[00:20:30:19 --> 00:20:32:00] tecnologia? Mercado agro.
+[00:20:32:12 --> 00:20:34:20] Então, ele usava inteligência
+[00:20:34:20 --> 00:20:36:18] artificial, nessa época que já
+[00:20:36:18 --> 00:20:38:05] utilizava GPT,
+[00:20:38:08 --> 00:20:40:19] para poder identificar as sementes que
+[00:20:40:19 --> 00:20:42:08] estavam saudáveis, as sementes que
+[00:20:42:08 --> 00:20:44:25] tinham mais chance de germinar e por aí vai,
+[00:20:44:28 --> 00:20:46:21] a partir de imagens. Era muito legal
+[00:20:46:21 --> 00:20:47:25] ver ele fazendo isso naquela época.
+[00:20:48:29 --> 00:20:53:27] E aí nós temos, então, o início do avanço das IAs generativas, começando com o BERT e com o GPT.
+[00:20:54:18 --> 00:21:00:03] Daí nós temos, em 2021 até agora, a explosão de IAs generativas.
+[00:21:00:09 --> 00:21:05:23] Eu comecei a colocar aqui só para vocês visualizarem, mas eu vou mostrar um site
+[00:21:05:23 --> 00:21:12:00] para vocês terem uma noção de quantos modelos de IA, sejam Fine Tunnings ou modelos treinados desde o zero,
+[00:21:12:20 --> 00:21:14:02] vocês vão ver quantas IAs existem.
+[00:21:14:02 --> 00:21:19:05] Mas só aqui algumas, a gente tem de texto, chat, apt, cloud, groc, gemini, lhama, mistral.
+[00:21:19:14 --> 00:21:26:25] Pra fala, nós temos OpenAI, FM, Lovo, Eleven Lab, Synthesis, Spitify, Murphy, e tem várias outras.
+[00:21:26:27 --> 00:21:29:15] Eu só coloquei, joguei algumas aqui pra vocês verem.
+[00:21:29:28 --> 00:21:39:28] Música, Ivensuno, Music Effects, Sound Drown, Eckert, Amadeus, Beethoven, Aiva, Pesquisa, Tenzende, Consensus, Perplexity, Connect Papers,
+[00:21:39:28 --> 00:22:04:21] E site, Research Rabbit, Semantic Scholar, Elist, pra código, Cursor, Copilot, Codei1, Bolt New, V0, CodePol, Lovable, Replit, modelo 3D, a gente tem o 3Dify, Sloid, Rococo, Spline, Masterpiece X, Deep Motion, pra vídeo, Sora, Runway, ConfuI, Kling, Synthesia, Luma, Minimax, olha o tanto, vai seguindo.
+[00:22:04:21 --> 00:22:07:24] Hey Jane, Pica, Hilo e continua.
+[00:22:08:05 --> 00:22:12:15] E para a imagem, Midjourn, Firefly, Stable Diffusion, Deli, Flux,
+[00:22:12:23 --> 00:22:17:03] Ideogram, Physioelectric, ReCraft e várias outras também que vão surgindo.
+[00:22:17:05 --> 00:22:22:02] E agora eu quero mostrar uma imagem bem interessante para vocês.
+[00:22:22:11 --> 00:22:24:06] Então eu vou vir aqui e digitar Hugging Face,
+[00:22:24:12 --> 00:22:27:25] que é um repositório de inteligências artificiais.
+[00:22:27:27 --> 00:22:30:05] E eu quero mostrar os modelos que existem hoje.
+[00:22:30:05 --> 00:22:40:20] Então, nós temos aqui um total de 1.537.771 modelos de ar cadastrados.
+[00:22:42:21 --> 00:22:44:27] no Hugging Face. E o legal
+[00:22:44:27 --> 00:22:46:10] dessa ferramenta, eu acho interessante
+[00:22:46:10 --> 00:22:48:15] mostrá-la pra vocês, inclusive eu acho que eu posso
+[00:22:48:15 --> 00:22:50:18] voltar pra cá agora, vamos ver se
+[00:22:50:18 --> 00:22:52:13] precisar eu volto pra ali. Mas
+[00:22:52:13 --> 00:22:54:26] você tem aqui IaaS multimodais
+[00:22:54:26 --> 00:22:56:18] pra Audio Text to Text,
+[00:22:56:26 --> 00:22:58:23] Image Text to Text, Visual
+[00:22:58:23 --> 00:23:00:16] Question Answering, Document Question
+[00:23:00:16 --> 00:23:02:22] Answering, Visual Text to Text,
+[00:23:02:28 --> 00:23:05:00] Visual Document Retrieval, Any to Any
+[00:23:05:00 --> 00:23:06:19] e vai, olha só, Computer
+[00:23:06:19 --> 00:23:07:11] Vision, que é
+[00:23:08:22 --> 00:23:10:15] redes neurais convolucionais.
+[00:23:10:19 --> 00:23:12:12] Eu vou falar um pouco mais sobre rede neural agora
+[00:23:12:12 --> 00:23:33:25] agora na sequência aqui para vocês. Mas nós temos aqui Death Estimation, Image Classification, Object Detection, Image Segmentation, Text-to-Image, Image-to-Text, Image-to-Image, Image-to-Video, Inconditional Image Generator, não tem vários, eu não vou ficar lendo todos aqui não. Natural Language Processing, e aí tem Text Classification, Token Classification, várias.
+[00:23:33:25 --> 00:23:35:24] E quando você clica, vamos pegar aqui, por exemplo,
+[00:23:36:12 --> 00:23:39:28] Text-to-Image, como o Mid-Journey, por exemplo, é um Text-to-Image.
+[00:23:40:09 --> 00:23:42:00] Existem vários modelos aqui.
+[00:23:42:05 --> 00:23:45:06] Esse Stability AI é o Stable Diffusion,
+[00:23:45:09 --> 00:23:46:27] que ele é um modelo open source,
+[00:23:47:03 --> 00:23:48:20] que você pode instalar na sua própria máquina
+[00:23:48:20 --> 00:23:50:13] e pode fazer fine-tuning nele.
+[00:23:50:18 --> 00:23:53:25] Mas ele é usado para geração de imagens.
+[00:23:54:00 --> 00:23:57:21] Se você quisesse algo para geração de texto,
+[00:23:57:29 --> 00:23:59:24] as Large Language Models,
+[00:23:59:25 --> 00:24:02:09] então tem Text-to-Speech, aqui é de áudio,
+[00:24:02:09 --> 00:24:04:12] e tem o Natural Language, tem Text Classification,
+[00:24:04:25 --> 00:24:06:06] tem aqui Summarization
+[00:24:06:06 --> 00:24:07:28] focado só em Summário,
+[00:24:07:29 --> 00:24:09:26] Text Generation, que é os mais comuns.
+[00:24:10:00 --> 00:24:11:12] A gente tem aqui o DeepSeq, que é
+[00:24:11:12 --> 00:24:14:01] Open Source. Aqui, ó,
+[00:24:14:01 --> 00:24:14:23] só em
+[00:24:16:01 --> 00:24:18:03] geração de texto, Text Generation, nós temos
+[00:24:18:03 --> 00:24:20:09] 199.147
+[00:24:20:09 --> 00:24:21:28] modelos de IA atualmente
+[00:24:21:28 --> 00:24:24:00] aqui no Hugging Face, fora os que não estão aqui.
+[00:24:24:10 --> 00:24:25:26] E você pode também instalar
+[00:24:25:26 --> 00:24:27:22] todos esses aqui, tem o da NVIDIA,
+[00:24:27:23 --> 00:24:30:04] Star Vector, mas pra fazer essa instalação
+[00:24:30:04 --> 00:24:40:03] Então, você precisa entender mais sobre fine-tuning ou sobre como preparar um servidor, uma base de dados vetorial também para IA.
+[00:24:40:05 --> 00:24:41:07] Tem vários conceitos aqui.
+[00:24:41:10 --> 00:24:45:08] O que eu quero mostrar para vocês por enquanto, a gente não vai entrar nesse aspecto agora mais profundo.
+[00:24:45:21 --> 00:24:53:27] É legal vocês entrarem aqui no Hugging Face para explorarem quantas IAs diferentes existem para várias possibilidades diferentes.
+[00:24:55:06 --> 00:24:59:00] E só de estar aqui já dá para passar um tempo e se divertir muito.
+[00:24:59:00 --> 00:25:03:25] É uma comunidade, você pode criar sua conta, inclusive, tem vários recursos interessantes aqui dentro.
+[00:25:03:28 --> 00:25:08:00] Não vou me aprofundar agora no Hugging Face, mas eu quero que vocês se atentem para esse número,
+[00:25:08:04 --> 00:25:12:09] que ano passado estava em 700 mil, já dobrou.
+[00:25:12:16 --> 00:25:16:08] Imagina no próximo ano, provavelmente estaremos em 3 milhões ou algo do tipo,
+[00:25:16:11 --> 00:25:20:25] e vai continuar dobrando muito mais, porque nós temos aqui um movimento exponencial.
+[00:25:21:20 --> 00:25:24:19] Certo? Então só para mostrar o gráfico aqui para vocês.
+[00:25:27:00 --> 00:25:27:20] Deixa eu voltar para cá.
+[00:25:29:17 --> 00:25:32:15] Então, com isso, nós temos aqui o final da segunda fase,
+[00:25:32:18 --> 00:25:35:12] é o que nós estamos vivendo hoje, a explosão das IAs generativas.
+[00:25:35:18 --> 00:25:38:20] Mas a questão é que não existem só IAs generativas
+[00:25:38:20 --> 00:25:41:09] e que talvez agora você esteja se perguntando,
+[00:25:41:09 --> 00:25:44:10] principalmente depois de ver essa confusão toda aqui,
+[00:25:44:15 --> 00:25:47:26] como que isso acontece, como que uma IA aprende,
+[00:25:47:27 --> 00:25:50:16] com base no que elas foram inspiradas,
+[00:25:50:18 --> 00:25:53:07] como que nós conseguimos pegar o neurônio humano
+[00:25:53:07 --> 00:25:55:24] e reinterpretar isso para uma máquina.
+[00:25:56:03 --> 00:25:59:06] E eu quero mostrar isso para vocês, então continua aqui comigo.
+[00:25:59:17 --> 00:26:00:28] Que esse é o nosso próximo top

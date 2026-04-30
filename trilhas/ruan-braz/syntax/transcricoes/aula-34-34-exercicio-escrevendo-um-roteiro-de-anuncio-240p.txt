@@ -1,0 +1,294 @@
+# Video: 34._exercicio_-_escrevendo_um_roteiro_de_anúncio (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 15:10
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:03 --> 00:00:02:26] Agora eu quero te mostrar como escrever roteiro
+[00:00:04:26 --> 00:00:10:11] Criei um material que você pode clicar aqui embaixo para fazer uma cópia e acompanhar a aula.
+[00:00:10:14 --> 00:00:15:17] E também depois, se quiser utilizar ele na inteligência artificial como estrutura, você pode também.
+[00:00:15:27 --> 00:00:20:29] Então vamos lá, começando aqui agora sobre escrever um roteiro de anúncio.
+[00:00:20:29 --> 00:00:26:08] O primeiro passo aqui, que é importante eu falar já, apesar de que tem um conceito aqui legal de trazer antes,
+[00:00:26:11 --> 00:00:32:02] um bom anúncio não tenta te explicar tudo, ele te faz sentir algo que te leva a agir.
+[00:00:32:02 --> 00:00:36:11] A gente vai falar um pouco mais sobre isso, mas o primeiro passo de todos é definir contexto.
+[00:00:36:20 --> 00:00:39:03] E as pessoas geralmente se esquecem disso.
+[00:00:39:11 --> 00:00:42:17] É você se lembrar daquele princípio, para que eu estou escrevendo isso?
+[00:00:42:19 --> 00:00:44:28] Qual é o meu objetivo aqui? Onde isso vai aparecer?
+[00:00:45:10 --> 00:00:48:28] Então, vai escrever um anúncio de, um roteiro de anúncio,
+[00:00:49:01 --> 00:00:52:25] você vai começar preenchendo a ficha de contexto desse roteiro.
+[00:00:52:25 --> 00:00:55:29] Então, onde esse anúncio vai aparecer? Qual é o objetivo dele?
+[00:00:56:02 --> 00:00:57:08] Qual é o público desse anúncio?
+[00:00:57:13 --> 00:01:01:11] Qual que é a pessoa que fala em nome desse anúncio também?
+[00:01:01:11 --> 00:01:05:27] E aí você vai definir também o tipo de mídia em que ele aparece.
+[00:01:06:04 --> 00:01:10:07] Eu coloquei algumas aqui, mas, por exemplo, é um anúncio de imagem ou é um anúncio de vídeo?
+[00:01:10:13 --> 00:01:14:08] Se for anúncio de imagem, é quadrado, é vertical, é horizontal, é carrossel?
+[00:01:14:11 --> 00:01:17:21] Carrossel cabe mais texto do que imagem estática?
+[00:01:17:26 --> 00:01:20:00] Se for vídeo, é um vídeo de seis segundos?
+[00:01:20:05 --> 00:01:23:14] Se é um vídeo in-stream, que dá para pular, como aqueles do YouTube?
+[00:01:23:21 --> 00:01:28:16] É um vídeo in-stream que não dá para pular, chamado de TVFA, True View for Action?
+[00:01:28:16 --> 00:01:33:20] É um vídeo outstream, ou seja, um vídeo que aparece no feed ali fora do vídeo principal?
+[00:01:33:29 --> 00:01:35:23] É um vídeo nativo da rede social?
+[00:01:35:29 --> 00:01:37:04] É um vídeo para stories?
+[00:01:37:10 --> 00:01:38:24] É um vídeo para reels ou shorts?
+[00:01:39:02 --> 00:01:45:05] Isso é importante de definir porque até o jeito de falar muda de acordo com o tipo de vídeo que você vai fazer.
+[00:01:45:08 --> 00:01:50:00] O objetivo dele também muda de acordo com o vídeo que você vai fazer.
+[00:01:50:05 --> 00:01:52:27] Então, o primeiro passo aqui é mapear isso.
+[00:01:52:29 --> 00:01:56:08] Seu objetivo, com quem você fala, qual é o meio em que você vai falar,
+[00:01:56:08 --> 00:02:01:12] qual que é a natureza de quem está falando também, por isso que é bom o território de palavras, bem definido.
+[00:02:01:14 --> 00:02:04:12] Tudo isso eu já vou considerar que você sabe e dá importância.
+[00:02:04:20 --> 00:02:09:08] Assim como, para chegar nisso aqui, você precisa de um plano de mídia,
+[00:02:09:10 --> 00:02:14:01] até mesmo para entender se você está falando no lugar certo para as pessoas certas.
+[00:02:14:03 --> 00:02:17:10] Se não houve plano de mídia, o primeiro passo é fazer um plano de mídia,
+[00:02:17:10 --> 00:02:21:11] entender os principais meios onde o público está, qual que é a dor que você vai resolver,
+[00:02:21:19 --> 00:02:25:18] qual que é o objetivo, já que estamos falando de anúncios aqui.
+[00:02:25:18 --> 00:02:31:04] Uma vez que você entendeu isso, uma vez que você já tem essa base, esse contexto bem definido,
+[00:02:31:04 --> 00:02:35:18] por isso que eu chamei de passo zero, porque isso vem antes de escrita do roteiro,
+[00:02:35:19 --> 00:02:39:29] aí sim a gente pode entrar nos conceitos do roteiro e eu vou entrar aqui no primeiro deles
+[00:02:39:29 --> 00:02:42:16] que tem relação com o público que vai assistir seu anúncio.
+[00:02:42:22 --> 00:02:46:15] Nosso objetivo com o anúncio é que a pessoa clique nesse anúncio, é que ela vá para o próximo passo.
+[00:02:46:25 --> 00:02:50:09] Para isso, a gente precisa entender com quem nós estamos falando.
+[00:02:50:18 --> 00:02:55:02] E aí vem um conceito aqui muito importante de um cara chamado Eugene Schwartz,
+[00:02:55:02 --> 00:02:58:12] que ele diz que para poder falar bem com o público
+[00:02:58:12 --> 00:03:01:05] você precisa saber o que esse público já sabe.
+[00:03:01:12 --> 00:03:04:25] Você precisa entender o que é que essa pessoa que está me vendo já sabe
+[00:03:04:25 --> 00:03:06:25] porque dependendo do que ela já sabe
+[00:03:06:25 --> 00:03:10:23] se eu ficar falando do assunto que ela já entendeu
+[00:03:10:23 --> 00:03:13:20] isso vai ficar redundante, isso vai ficar chato
+[00:03:13:20 --> 00:03:15:12] e essa pessoa vai acabar pulando esse anúncio.
+[00:03:15:19 --> 00:03:18:16] Agora, se essa pessoa ainda não sabe o que eu tenho para falar
+[00:03:18:16 --> 00:03:20:08] aumenta a chance dela prestar atenção
+[00:03:20:08 --> 00:03:21:29] desde que eu faça isso do jeito certo.
+[00:03:22:08 --> 00:03:24:18] E aí o Eugene Schwartz separou isso
+[00:03:24:18 --> 00:03:31:03] em uma curva que ele chama de curva de consciência do cliente,
+[00:03:31:03 --> 00:03:33:16] ou linha de consciência do cliente.
+[00:03:33:16 --> 00:03:38:10] E basicamente é você entender o quão consciente o seu cliente está
+[00:03:38:10 --> 00:03:41:02] do produto, da solução e da sua oferta.
+[00:03:41:13 --> 00:03:43:25] Basicamente em inglês nós temos aqui esses níveis,
+[00:03:43:26 --> 00:03:46:14] que é o nível unaware, que é inconsciente.
+[00:03:46:23 --> 00:03:48:28] Então não percebeu que existe um problema.
+[00:03:49:04 --> 00:03:51:16] O jeito que você fala com esse público é diferente.
+[00:03:51:16 --> 00:04:01:20] Você vai falar com esse público aqui de uma maneira mais indireta, contando uma história, contextualizando ele, envolvendo ele nesse mundo de conflito, antes de trazer o problema e a solução.
+[00:04:02:10 --> 00:04:11:04] A gente tem também o problem aware, que é consciente do problema, que aqui a pessoa já sabe que existe uma coisa errada, ela já tem alguma dor latente, algum problema para resolver.
+[00:04:11:11 --> 00:04:16:15] E aí você já parte dali, você já começa dessa dor para falar da solução.
+[00:04:16:18 --> 00:04:19:10] Aqui, olha só, você vai trabalhar com espelhamento.
+[00:04:19:10 --> 00:04:24:12] A gente tem o nível de Solution Aware, que é consciente da solução.
+[00:04:24:17 --> 00:04:28:10] Aqui o cliente já sabe que tem um problema, ele já está buscando uma solução,
+[00:04:28:10 --> 00:04:30:10] você pode ir um pouco mais direto.
+[00:04:30:11 --> 00:04:35:00] O foco aqui é na virada perceptiva, é você mostrar que existe uma solução melhor do que outra.
+[00:04:35:08 --> 00:04:39:25] A gente tem também o Product Aware, que é quando o seu cliente é consciente do seu produto
+[00:04:39:25 --> 00:04:42:01] ou da sua solução.
+[00:04:42:03 --> 00:04:47:07] Então ele conhece você e aí você pode ir mais direto ao assunto,
+[00:04:47:07 --> 00:04:49:13] com menos prova, com menos história,
+[00:04:49:20 --> 00:04:52:05] simplesmente oferecendo, olha, você quer isso, eu tenho isso,
+[00:04:52:06 --> 00:04:53:29] você já me conhece, toma aqui e compra de mim.
+[00:04:54:07 --> 00:04:58:17] E nós temos o mostro, que é quando essa pessoa já está pronta para comprar,
+[00:04:58:19 --> 00:05:02:17] é um outro tipo de público, e ela precisa de um motivo para comprar ali agora,
+[00:05:02:19 --> 00:05:06:02] um impulso, uma antecipação para comprar naquele momento.
+[00:05:06:10 --> 00:05:07:28] Se você entender isso aqui,
+[00:05:08:02 --> 00:05:12:16] e entender qual é o momento que o seu anúncio deve aparecer para o seu público,
+[00:05:12:22 --> 00:05:14:25] isso vai te ajudar a ter anúncios que têm mais resultado.
+[00:05:14:25 --> 00:05:19:07] O foco aqui entrou mais em performance do que, de fato, em expressão.
+[00:05:19:20 --> 00:05:22:25] Escrever anúncio tem relação, sim, com expressão também,
+[00:05:22:28 --> 00:05:25:23] mas desde que ela traga o resultado que você precisa,
+[00:05:25:26 --> 00:05:29:00] porque você está pagando um valor aqui para o seu anúncio aparecer para mais pessoas,
+[00:05:29:04 --> 00:05:33:17] para que elas cliquem e, eventualmente, comprem o que você está anunciando para elas.
+[00:05:33:22 --> 00:05:34:19] Esse é um jeito de fazer.
+[00:05:34:25 --> 00:05:38:13] O outro jeito de fazer anúncio, que a gente poderia chamar de comercial,
+[00:05:38:20 --> 00:05:40:13] é o comercial de branding,
+[00:05:40:21 --> 00:05:44:08] aquele em que você está construindo um relacionamento com o seu cliente
+[00:05:44:08 --> 00:05:47:02] e geralmente ali você vai trabalhar mais com lembrete,
+[00:05:47:07 --> 00:05:48:21] você vai trabalhar mais com a memória,
+[00:05:48:21 --> 00:05:51:16] você vai trabalhar mais com os sentidos da pessoa
+[00:05:51:16 --> 00:05:53:12] para envolver ela dentro do seu universo.
+[00:05:53:20 --> 00:05:55:14] É um outro tipo de anúncio também
+[00:05:55:14 --> 00:05:57:02] que você eventualmente poderia fazer
+[00:05:57:02 --> 00:05:59:17] mais conectado com a estrutura de trailer
+[00:05:59:17 --> 00:06:01:25] que eu mostrei anteriormente, beleza?
+[00:06:02:02 --> 00:06:04:08] Então aqui a gente está falando de anúncio de performance.
+[00:06:04:15 --> 00:06:07:28] É muito importante que você entenda esses detalhes aqui.
+[00:06:08:05 --> 00:06:09:20] Qual é o ponto cego da maioria?
+[00:06:09:26 --> 00:06:11:16] As pessoas escrevem a primeira cena
+[00:06:11:16 --> 00:06:13:20] como se o público estivesse pronto para ouvir.
+[00:06:13:20 --> 00:06:20:01] E não está. Você precisa abrir a porta antes de entrar, dependendo do nível de consciência que o seu cliente está.
+[00:06:20:05 --> 00:06:25:26] Se ele estiver aqui, mostre o where, você já pode ir direto ao assunto, você já pode começar um anúncio falando que você está vendendo agora,
+[00:06:25:29 --> 00:06:33:02] que você tem X quantidades, ele tem que comprar ou vai acabar. E aí, ele vai comprar, se você atingir o público mais consciente.
+[00:06:33:07 --> 00:06:38:15] Agora, se for o público inconsciente, você tem que começar primeiro chamando a atenção dele, quebrando o padrão,
+[00:06:38:15 --> 00:06:40:23] tirando ele do contexto dele natural
+[00:06:40:23 --> 00:06:42:24] e colocando ele em uma ruptura, colocando
+[00:06:42:24 --> 00:06:45:00] ele em, cara, as coisas mudaram
+[00:06:45:00 --> 00:06:46:23] e agora a gente precisa fazer algo, senão vai acontecer
+[00:06:46:23 --> 00:06:48:07] isso aqui, aí você introduz o problema
+[00:06:48:25 --> 00:06:50:20] quanto mais a pessoa estiver aqui
+[00:06:50:20 --> 00:06:52:18] em cima, você precisa passar
+[00:06:52:18 --> 00:06:54:19] por todas as outras etapas, então se a pessoa
+[00:06:54:19 --> 00:06:56:22] é inconsciente, tem que passar pelo problema
+[00:06:56:22 --> 00:06:58:19] problema primeiro, solução
+[00:06:58:19 --> 00:07:00:25] depois, seu produto depois, se ela está em problema
+[00:07:00:25 --> 00:07:02:15] você vai pela, você só
+[00:07:02:15 --> 00:07:04:27] apresenta o problema, traz a solução e o produto
+[00:07:04:27 --> 00:07:06:23] se ela já sabe das soluções
+[00:07:06:23 --> 00:07:08:19] você traz uma perspectiva diferente
+[00:07:09:14 --> 00:07:11:05] e aí a partir disso mostra o produto
+[00:07:11:05 --> 00:07:13:10] se ela já sabe do produto, você apresenta
+[00:07:13:10 --> 00:07:15:13] o produto e já traz aqui uma condição
+[00:07:15:13 --> 00:07:16:16] pra ela entrar e por aí vai, então
+[00:07:17:06 --> 00:07:18:17] quanto mais você sobe
+[00:07:19:08 --> 00:07:21:00] quanto mais você desce aqui no caso
+[00:07:21:00 --> 00:07:22:28] quanto mais você desce aqui
+[00:07:24:01 --> 00:07:25:07] mais direta é a sua
+[00:07:25:07 --> 00:07:27:07] abordagem no anúncio, sabendo disso
+[00:07:27:07 --> 00:07:29:08] aqui a gente pode entrar na estrutura
+[00:07:29:08 --> 00:07:29:22] então vamos lá
+[00:07:30:25 --> 00:07:34:03] Passo 2. Defina o deslocamento esperado por bloco.
+[00:07:34:04 --> 00:07:35:15] Como assim? Ficou difícil de entender.
+[00:07:35:18 --> 00:07:38:09] As pessoas costumam chamar isso aqui de gancho.
+[00:07:38:12 --> 00:07:40:29] Como que eu faço uma pessoa sair do estado atual dela
+[00:07:40:29 --> 00:07:44:18] para entrar dentro dessa narrativa que eu estou construindo junto com ela?
+[00:07:44:27 --> 00:07:47:02] Então, cada bloco é um degrau mental.
+[00:07:47:06 --> 00:07:48:29] Você tem que dividir seu anúncio em partes.
+[00:07:49:18 --> 00:07:52:22] Principalmente anúncio de vídeo ou de carrossel.
+[00:07:53:02 --> 00:07:55:24] Anúncio de imagem tende a funcionar melhor para qual público?
+[00:07:56:04 --> 00:07:56:18] Imagina.
+[00:07:57:20 --> 00:08:00:21] Principalmente, se não for carrossel, esses daqui de cima.
+[00:08:00:25 --> 00:08:05:07] Talvez até esse aqui daria, mas mesmo assim é o público mais consciente.
+[00:08:05:12 --> 00:08:09:02] Agora, se você for fazer um carrossel, tem mais tempo para desenvolver o raciocínio,
+[00:08:09:04 --> 00:08:13:06] aí você vai pegar um público aqui menos consciente que você pode desenvolver.
+[00:08:13:09 --> 00:08:17:23] A questão é que existe muito mais público daqui de cima do que daqui de baixo.
+[00:08:18:02 --> 00:08:20:29] Então você tem que fazer esse trade-off aí, essa troca,
+[00:08:21:00 --> 00:08:23:04] para entender o que faz sentido para cada estratégia.
+[00:08:23:04 --> 00:08:25:16] Daí vem plano de mídia, daí vem toda estratégia de marketing,
+[00:08:25:16 --> 00:08:27:03] que não é o foco dessa aula aqui agora.
+[00:08:28:14 --> 00:08:28:28] Então, beleza.
+[00:08:29:19 --> 00:08:33:26] O foco aqui não é mostrar algo, mas destravar algo.
+[00:08:34:05 --> 00:08:36:12] Então você tem que fazer a pessoa querer continuar com você.
+[00:08:36:14 --> 00:08:40:07] Você tem que transformar um segundo em dois, dois segundos em seis, seis segundos em quinze,
+[00:08:40:08 --> 00:08:42:29] quinta segunda em trinta segundos, trinta segundos em sessenta segundos.
+[00:08:43:08 --> 00:08:47:12] E aí você vai levando a pessoa para a próxima etapa, um degrau de cada vez.
+[00:08:47:26 --> 00:08:48:26] Pergunta decisiva.
+[00:08:48:29 --> 00:08:52:19] Que resistência emocional esse bloco precisa resolver, dissolver,
+[00:08:52:20 --> 00:08:54:18] para essa pessoa continuar no processo comigo?
+[00:08:54:18 --> 00:08:59:29] Se você não define o deslocamento, cada cena vira uma coisa acontecendo, não um mecanismo psicológico.
+[00:09:00:02 --> 00:09:01:22] Então você começa ali no gancho.
+[00:09:01:22 --> 00:09:06:05] O seu gancho já tem que tirar a pessoa do estado natural para prestar atenção no que você está falando.
+[00:09:06:14 --> 00:09:10:09] Aí você precisa de uma transição, deslocamento pode ser chamado de transição também,
+[00:09:10:13 --> 00:09:14:19] do gancho para o problema, depois do problema para a solução,
+[00:09:14:20 --> 00:09:19:01] depois da solução para o seu produto, depois seu produto para a oferta especial que você está fazendo agora.
+[00:09:19:26 --> 00:09:21:01] Exemplos de deslocamento.
+[00:09:21:01 --> 00:09:23:27] tirar do piloto automático, fazer a pessoa admitir uma dor,
+[00:09:24:11 --> 00:09:26:17] apontar uma solução que ela não sabia que existia,
+[00:09:26:18 --> 00:09:30:10] provar que funciona, fazer a pessoa imaginar o futuro dela com isso.
+[00:09:30:12 --> 00:09:34:08] Repare que cada uma dessas aqui segue aquelas etapas.
+[00:09:34:09 --> 00:09:36:15] Então aqui é inconsciente, aqui é consciente do problema,
+[00:09:36:20 --> 00:09:38:22] aqui é consciente da solução, aqui é consciente do produto,
+[00:09:38:24 --> 00:09:40:17] aqui é consciente da oferta.
+[00:09:40:29 --> 00:09:41:23] Ponto cego.
+[00:09:41:27 --> 00:09:44:23] A maioria tenta convencer antes de estabilizar a dor.
+[00:09:44:27 --> 00:09:46:00] Isso quebra o arco inteiro.
+[00:09:46:09 --> 00:09:49:23] Isso aqui é retórica pura, já foi ensinada há mais de 2 mil anos atrás.
+[00:09:50:11 --> 00:09:51:24] Etos, patos e logos.
+[00:09:52:05 --> 00:09:55:13] Se quiser entender mais sobre isso, assista a trilha Signals, da Overlens.
+[00:09:55:14 --> 00:09:57:13] Ela vai te ensinar muito sobre isso aqui.
+[00:09:57:19 --> 00:09:58:01] Beleza?
+[00:09:58:17 --> 00:09:59:11] Passo 3.
+[00:09:59:19 --> 00:10:02:04] Aplique o estímulo emocional correto.
+[00:10:02:06 --> 00:10:05:11] Cada nível responde a um estímulo específico.
+[00:10:05:11 --> 00:10:08:06] Então, os inconscientes é estímulo de ruptura.
+[00:10:08:09 --> 00:10:09:20] Interromper o piloto automático.
+[00:10:10:03 --> 00:10:12:13] Conscientes do problema é espelhamento.
+[00:10:12:24 --> 00:10:14:06] Fazer a pessoa se ver ali.
+[00:10:14:15 --> 00:10:17:04] Conscientes da solução, virada perspectiva.
+[00:10:17:23 --> 00:10:18:11] Perceptiva.
+[00:10:18:26 --> 00:10:20:25] revelar um tipo de solução inesperada
+[00:10:20:25 --> 00:10:22:00] que ela não estava buscando.
+[00:10:23:21 --> 00:10:27:09] Consciente do produto, prova mínima, isso funciona sem explicar demais.
+[00:10:27:18 --> 00:10:32:01] E mais consciente, impulso mais antecipação, reta final, é agora ou nunca.
+[00:10:32:13 --> 00:10:33:29] Então aqui é mostrar uma oferta.
+[00:10:34:19 --> 00:10:39:25] Passo 4, construa o arco como sistema, não sequência.
+[00:10:40:02 --> 00:10:40:28] O que isso quer dizer?
+[00:10:41:03 --> 00:10:43:10] O bloco seguinte não existe para continuar a história,
+[00:10:43:15 --> 00:10:46:11] ele existe porque o bloco anterior mudou a mente da pessoa.
+[00:10:46:18 --> 00:10:50:25] Então pense que a cada bloquinho que você passa num anúncio ou num funil inteiro,
+[00:10:50:25 --> 00:10:54:16] você está trazendo aquela pessoa para um próximo estado mental.
+[00:10:54:26 --> 00:10:56:15] Então, qual que é a regra do sistema?
+[00:10:56:22 --> 00:11:01:05] Não empilhe dados, cada bloco só precisa destravar a próxima reação interna,
+[00:11:01:06 --> 00:11:04:20] encadeamento igual a causa, reação, causa, reação.
+[00:11:04:25 --> 00:11:06:19] Então, causa, efeito, causa, efeito, causa, efeito.
+[00:11:06:24 --> 00:11:08:21] Você vai trazendo uma etapa de cada vez.
+[00:11:09:13 --> 00:11:12:25] A maioria acha que precisa explicar demais, mas não, precisa.
+[00:11:13:03 --> 00:11:17:10] Precisa ativar a próxima reação dentro daquela estrutura.
+[00:11:17:10 --> 00:11:21:26] Depois pesquisem sobre o Eugene Schwartz.
+[00:11:22:18 --> 00:11:23:20] Pesquisa sobre ele aí.
+[00:11:24:04 --> 00:11:30:14] Esse aqui foi um dos maiores escritores persuasivos para vendas e publicidade do mundo.
+[00:11:31:06 --> 00:11:36:09] Junto com o David Ogve, que é outro que eu gosto de estudar muito também.
+[00:11:36:12 --> 00:11:38:10] Vale a pena conferir, beleza?
+[00:11:39:22 --> 00:11:40:10] Passo 5.
+[00:11:41:26 --> 00:11:44:11] Teste o CTA pelo retrocesso.
+[00:11:44:18 --> 00:11:45:15] Como assim, Juan?
+[00:11:46:02 --> 00:11:48:25] Você tem que pensar de trás para frente.
+[00:11:49:14 --> 00:11:53:09] Se o CTA não funcionou, qual dominó anterior não caiu?
+[00:11:53:18 --> 00:11:56:06] Então, se a pessoa não clicou, o que fez ela não clicar?
+[00:11:56:11 --> 00:11:57:07] O que fez ela não seguir?
+[00:11:57:10 --> 00:12:01:10] Lembrando que CTA é Call to Action, chamada para ação.
+[00:12:01:12 --> 00:12:03:22] Quero que a pessoa clique em um anúncio e vá para a próxima etapa.
+[00:12:03:27 --> 00:12:05:13] Por que não funcionou?
+[00:12:05:22 --> 00:12:11:06] Às vezes porque o que prendeu ela não foi o motivo que fez ela querer clicar no botão.
+[00:12:11:06 --> 00:12:13:11] e você tem que tentar identificar isso.
+[00:12:13:16 --> 00:12:16:06] Se o CTA não empurra, o CTA não fecha.
+[00:12:16:09 --> 00:12:20:13] Se o fechamento falhou, o problema está 10 segundos antes, não no CTA.
+[00:12:20:23 --> 00:12:21:25] Teste científico.
+[00:12:21:25 --> 00:12:24:06] Se o CTA não gera ação, volte um bloco.
+[00:12:24:10 --> 00:12:26:03] Procure a resistência não dissolvida.
+[00:12:26:21 --> 00:12:27:15] Ajuste o bloco.
+[00:12:27:23 --> 00:12:29:02] Como que eu faço isso, Juan?
+[00:12:29:17 --> 00:12:31:18] Você faz isso rodando o anúncio como teste,
+[00:12:31:28 --> 00:12:34:12] vendo até quantos segundos a pessoa ficou no anúncio,
+[00:12:34:15 --> 00:12:37:06] vendo onde as pessoas estão indo embora do seu anúncio.
+[00:12:37:11 --> 00:12:39:09] Às vezes você roda 5 reais, 10 reais,
+[00:12:39:10 --> 00:12:41:04] você já começa a ter esses dados de um anúncio
+[00:12:41:04 --> 00:12:43:27] e aí você consegue ir melhorando o anúncio a partir disso, beleza?
+[00:12:44:21 --> 00:12:49:10] E aí eu deixei aqui um template para você, por cena, mas com diagnóstico inicial,
+[00:12:49:15 --> 00:12:54:20] então você vai colocar nível de consciência, emoção dominante, comportamento inicial típico
+[00:12:54:20 --> 00:12:58:06] e tipo de anúncio também, se você tem 6 segundos, 30 segundos, 60 segundos,
+[00:12:58:09 --> 00:13:00:16] se é carrossel, se é só imagem, se é histórico, se é feed, por aí vai.
+[00:13:00:29 --> 00:13:05:26] Defina essa ficha inicial aqui, né, que eu vou até chamar aqui, ó, ficha inicial.
+[00:13:06:23 --> 00:13:11:00] Então, define esses pontos iniciais e depois você vai trazendo um bloco de cada vez,
+[00:13:11:04 --> 00:13:15:03] Primeiro bloco, gancho, 0 a 5 segundos, função, ruptura ou espelhamento.
+[00:13:15:12 --> 00:13:18:11] O que esse bloco dissolve? Ação e fala.
+[00:13:18:21 --> 00:13:22:24] Bloco 2, 5 a 12 segundos, virada perceptiva.
+[00:13:22:28 --> 00:13:24:29] O que esse bloco dissolve? Ação e fala.
+[00:13:25:06 --> 00:13:27:27] Bloco 3, 12 a 20 segundos, prova mínima.
+[00:13:27:27 --> 00:13:31:12] Bloco 4, 20 a 27 segundos, antecipação mais impulso e por aí vai.
+[00:13:31:20 --> 00:13:35:06] Bloco 5, 27 a 30 segundos, mas pode ser até menos, tá?
+[00:13:35:10 --> 00:13:40:25] Aqui, na verdade, o jeito que ficou construído é o segundo do vídeo.
+[00:13:40:25 --> 00:13:46:14] então aqui ó, aqui vai até 5 segundos, aqui é de 5 segundos até 12 segundos, então são 7 segundos aqui,
+[00:13:46:18 --> 00:13:49:26] aqui de 12 segundos até 20 segundos, então são 8 segundos aqui,
+[00:13:50:00 --> 00:13:53:06] aqui de 20 segundos a 27 segundos, então são 7 segundos aqui,
+[00:13:53:09 --> 00:13:58:29] aqui de 27 a 30 segundos, ou seja, são 3 segundos só para fechar o CTA e chamar a pessoa para clicar,
+[00:13:59:00 --> 00:14:01:07] então toca aqui no botão abaixo para saber mais detalhes.
+[00:14:01:10 --> 00:14:06:29] Por exemplo, com esse roteirinho aqui, você consegue, com essa estrutura aqui nesse template,
+[00:14:06:29 --> 00:14:09:00] você consegue criar roteiros legais
+[00:14:09:00 --> 00:14:10:24] que tem essa estrutura aqui já
+[00:14:10:24 --> 00:14:12:27] validada há décadas atrás e que funciona
+[00:14:12:27 --> 00:14:14:26] até hoje, porque é sobre como seres
+[00:14:14:26 --> 00:14:16:26] humanos funcionam, que é a
+[00:14:16:26 --> 00:14:18:11] curva de consciência do
+[00:14:18:11 --> 00:14:20:17] Eugene Schwartz, beleza? Então,
+[00:14:20:17 --> 00:14:22:28] essa é a estrutura que nós usamos aqui na Overlens
+[00:14:22:28 --> 00:14:25:01] inclusive, se você já viu algum anúncio
+[00:14:25:01 --> 00:14:26:29] nosso, pode ter certeza que ele foi construído
+[00:14:26:29 --> 00:14:29:02] a partir dessa lógica aqui.
+[00:14:29:05 --> 00:14:30:29] O processo de trabalhar com a
+[00:14:30:29 --> 00:14:32:25] IA é o mesmo, pode pedir ela para escrever
+[00:14:32:25 --> 00:14:34:25] para você, refina, lê em voz alta, faz
+[00:14:34:25 --> 00:14:36:29] faz o teste, volta para lá, refina de novo, troca a palavra,
+[00:14:38:07 --> 00:14:42:08] reajusta isso como uma pessoa que está orquestrando o todo.
+[00:14:42:13 --> 00:14:43:18] Não tem problema aí a escrever,
+[00:14:43:26 --> 00:14:50:09] desde que você revise, adapte e trabalhe dentro de uma estratégia clara e funcional,
+[00:14:50:13 --> 00:14:52:23] uma estratégia que já foi validada antes.
+[00:14:53:00 --> 00:14:54:00] Beleza? Beleza?
+[00:14:54:00 --> 00:14:56:26] Então, esse foi o nosso vídeo sobre roteiro para anúncios,
+[00:14:56:27 --> 00:14:57:26] espero que você tenha gostado,
+[00:14:57:26 --> 00:15:00:15] aqui embaixo tem o documento, deixe seu comentário também
+[00:15:00:15 --> 00:15:02:16] e eu te vejo no próximo vídeo.

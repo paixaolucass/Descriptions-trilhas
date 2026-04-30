@@ -1,0 +1,160 @@
+# Video: 9._padrões_de_cores (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-28 01:09
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:03 --> 00:00:02:08] Uma aula rápida para falarmos sobre cores.
+[00:00:02:13 --> 00:00:06:29] Talvez você não saiba, mas escolher bem uma cor para um projeto
+[00:00:06:29 --> 00:00:10:18] não é apenas uma questão estética, uma questão de beleza.
+[00:00:11:02 --> 00:00:15:15] Escolher a cor certa também está ligado com algumas questões técnicas importantíssimas
+[00:00:15:15 --> 00:00:16:19] que eu preciso te passar agora.
+[00:00:17:02 --> 00:00:22:11] A primeira coisa que você precisa entender é que nós temos espaços de cores diferentes
+[00:00:23:05 --> 00:00:26:02] dependendo do suporte onde essa cor vai ser aplicada.
+[00:00:26:08 --> 00:00:28:23] Nós vamos ter uma aula na próxima fase.
+[00:00:28:23 --> 00:00:31:05] Eu sei, eu falei muito isso para você já, né?
+[00:00:31:07 --> 00:00:34:12] Você já está falando, ai meu Deus, que ansiedade, eu quero saber sobre tudo isso.
+[00:00:34:21 --> 00:00:37:09] Você não perde por esperar, são aulas incríveis,
+[00:00:37:17 --> 00:00:41:27] com conteúdo aprofundadíssimo sobre cores, tipografia, forma, composição.
+[00:00:42:03 --> 00:00:43:17] A gente vai aprofundar nisso.
+[00:00:43:20 --> 00:00:46:02] Mas agora, eu quero que você entenda só uma coisa.
+[00:00:46:10 --> 00:00:49:01] Se você vai trabalhar no meio impresso,
+[00:00:49:21 --> 00:00:53:21] você vai precisar trabalhar com cores que são pigmentos.
+[00:00:54:05 --> 00:00:57:29] Cores pigmentos funcionam de um jeito diferente de cor luz.
+[00:00:58:14 --> 00:01:02:09] Então, sempre que você vai trabalhar a cor num ambiente digital,
+[00:01:02:18 --> 00:01:05:15] você vai trabalhar um espaço de cor, um tipo de cor,
+[00:01:05:19 --> 00:01:07:19] uma síntese de cor, que a gente chama,
+[00:01:08:11 --> 00:01:12:03] diferente da síntese de cor no ambiente impresso.
+[00:01:12:11 --> 00:01:15:24] E aqui agora, eu quero que você já comece a se familiarizar com duas coisas.
+[00:01:16:27 --> 00:01:18:23] CM, YK e RGB.
+[00:01:19:02 --> 00:01:20:20] Meu Deus, que siglas são essas?
+[00:01:21:06 --> 00:01:23:15] Talvez você já até tenha ouvido falar uma ou outra,
+[00:01:23:17 --> 00:01:25:24] mas aqui eu quero te explicar do jeito mais simples possível.
+[00:01:25:24 --> 00:01:34:03] possível. CMYK é uma síntese cromática, um espaço de cor para cores de pigmento. Esse espaço de cor
+[00:01:34:03 --> 00:01:43:06] vai funcionar para meios impressos. CMYK significa ciano, magenta, yellow e black. Por que black não
+[00:01:43:06 --> 00:01:49:09] é B? Por que black é K? Porque para não confundir as siglas, B a gente usa quando nós queremos falar
+[00:01:49:09 --> 00:01:55:08] vamos falar de Blue. Então coloca K como black. Então C, M, Y, K é a síntese de cores baseada
+[00:01:55:08 --> 00:02:00:27] nessas três cores primárias que é ciano, magenta e amarelo. É esse espaço de cor que nós vamos
+[00:02:00:27 --> 00:02:06:12] trabalhar para poder fazer papelaria, um outdoor ou qualquer material impresso que precisa ser feito
+[00:02:06:12 --> 00:02:11:29] com tinta. Existe ainda o sistema de cores da Pantone, por exemplo. Eu não vou me aprofundar
+[00:02:11:29 --> 00:02:16:21] aqui em vídeo, mas vou deixar mais informações aqui embaixo em texto para você e também se
+[00:02:16:21 --> 00:02:20:09] Se você quiser se aprofundar, você pode colocar no chat de EPT,
+[00:02:20:11 --> 00:02:22:06] ele vai te dar algumas orientações sobre isso.
+[00:02:22:09 --> 00:02:25:18] O meu objetivo aqui é te mostrar que isso existe, primeiro.
+[00:02:25:26 --> 00:02:28:15] Depois, sim, nós vamos ter aula mais profunda sobre isso.
+[00:02:28:18 --> 00:02:30:20] Eu vou te explicar, inclusive, como que o nosso olho funciona,
+[00:02:31:01 --> 00:02:35:00] como que a luz funciona, como que a informação passa pelo nosso cérebro.
+[00:02:35:03 --> 00:02:36:17] A gente vai fundo nessa história.
+[00:02:36:21 --> 00:02:39:27] Mas antes, dentro da Odisseia, nós temos o básico avançado,
+[00:02:39:29 --> 00:02:41:11] a gente precisa tratar o básico aqui.
+[00:02:41:15 --> 00:02:42:24] E aí vem o que é o RGB.
+[00:02:43:12 --> 00:02:46:14] RGB é a síntese para a cor luz.
+[00:02:46:21 --> 00:02:52:11] E a gente tem aqui R como Red, G como Green e B como Blue.
+[00:02:52:14 --> 00:02:59:28] Então, RGB, Red, Green, Blue, que é a síntese que tem como cores básicas, vermelho, verde e azul.
+[00:03:00:09 --> 00:03:07:20] Qualquer dispositivo de tela ou de luz, por exemplo, um data show ou algum elemento que projeta luz,
+[00:03:07:27 --> 00:03:12:19] qualquer dispositivo que trabalha com cor luz, você precisa trabalhar a síntese RGB.
+[00:03:13:06 --> 00:03:16:00] Juan, na prática, o que isso importa para mim?
+[00:03:16:00 --> 00:03:20:15] E se importa que quando você vai salvar um arquivo, um PDF, por exemplo,
+[00:03:21:02 --> 00:03:23:25] ou quando você vai abrir um arquivo no Illustrator, no Photoshop,
+[00:03:24:12 --> 00:03:28:17] você precisa escolher qual que é o sistema de cor que você vai utilizar.
+[00:03:29:00 --> 00:03:33:06] O próprio Illustrator e o Photoshop já deixam presets para você não se perder,
+[00:03:33:14 --> 00:03:38:05] mas é comum designers cometerem esse erro, mandar para a gráfica um arquivo em RGB.
+[00:03:38:13 --> 00:03:41:11] E aí quando você recebe o arquivo impresso, não está na mesma cor,
+[00:03:41:13 --> 00:03:43:05] parece que a cor está muito mais apagada.
+[00:03:43:05 --> 00:03:43:25] Por quê?
+[00:03:43:27 --> 00:03:48:09] As cores pigmento possuem uma gama menor do que as cores de luz.
+[00:03:48:15 --> 00:03:50:12] E aí você pegou um azul super intenso,
+[00:03:50:12 --> 00:03:52:24] na hora que imprimiu ficou aquele azul morto, acinzentado,
+[00:03:52:26 --> 00:03:54:20] porque você não se atentou a isso.
+[00:03:54:27 --> 00:03:57:06] Então, quando for criar um arquivo para impressão,
+[00:03:57:28 --> 00:03:59:03] você vai lá em sistema de cor.
+[00:03:59:07 --> 00:04:01:04] Eu vou te mostrar como fazer isso, pode ficar tranquilo.
+[00:04:01:05 --> 00:04:03:11] É que agora eu só estou te dando o conceito inicial.
+[00:04:03:18 --> 00:04:06:03] Vai lá em sistema de cor e coloca CMYK.
+[00:04:06:09 --> 00:04:10:05] Vai trabalhar com post, site ou qualquer outro elemento que é do meio digital,
+[00:04:10:05 --> 00:04:13:04] você vai lá no sistema de cor e vai colocar RGB.
+[00:04:13:15 --> 00:04:15:24] Essa é a primeira coisa que você precisa saber sobre cor.
+[00:04:16:04 --> 00:04:18:15] Outra dica que eu quero te dar muito importante aqui
+[00:04:18:15 --> 00:04:20:24] é em relação a como harmonizar as cores.
+[00:04:21:01 --> 00:04:24:21] É comum designers iniciantes quererem trazer a saturação,
+[00:04:24:22 --> 00:04:27:20] quererem trazer vibração para as cores.
+[00:04:27:25 --> 00:04:29:17] Mas tome muito cuidado com isso.
+[00:04:29:19 --> 00:04:31:12] Tome cuidado também nesse primeiro momento
+[00:04:31:12 --> 00:04:34:15] em querer harmonizar muitas cores em um projeto.
+[00:04:34:23 --> 00:04:39:05] Lembra, simplicidade é a sua melhor amiga quando você está começando.
+[00:04:39:05 --> 00:04:43:17] Trabalhar muitas cores em um projeto exige de você uma experiência maior.
+[00:04:43:25 --> 00:04:49:20] Então, eu quero que você evite, nessa primeira fase, utilizar muitas cores.
+[00:04:49:25 --> 00:04:53:27] Depois, quando a gente se aprofundar nesse assunto, vai ficar mais fácil para você.
+[00:04:54:05 --> 00:04:57:03] Então, a gente vai seguir uma regrinha básica aqui.
+[00:04:57:06 --> 00:04:59:12] Vai trabalhar uma identidade visual, um projeto.
+[00:04:59:24 --> 00:05:04:08] Tente trabalhar ali três, no máximo quatro cores dentro desse projeto.
+[00:05:04:15 --> 00:05:08:19] E aí você já vai ter mais facilidade para gerenciar tudo isso.
+[00:05:09:05 --> 00:05:14:06] E a dica que eu te dou para criar boas paletas é trabalhar o contraste entre as cores.
+[00:05:14:12 --> 00:05:20:27] Então, se eu tenho um amarelo, talvez seja interessante na minha paleta ter um preto, um azul escuro, um verde escuro,
+[00:05:20:29 --> 00:05:25:29] um vermelho escuro, alguma cor que seja mais escura, para contrastar com esse amarelo.
+[00:05:26:02 --> 00:05:31:08] Se eu tenho muitas cores claras, quando eu coloco elas juntas, tudo fica meio apagado.
+[00:05:31:09 --> 00:05:37:23] A mesma coisa acontece se eu tenho muitas cores escuras e coloco todas elas juntas, tudo vai ficar meio apagado também.
+[00:05:37:23 --> 00:05:43:26] E aí eu quero te sugerir uma ferramenta que a Adobe criou, chamada Adobe Color Well.
+[00:05:44:06 --> 00:05:47:06] Então vou colocar aqui na tela, deixa eu só digitar ela aqui para a gente.
+[00:05:49:25 --> 00:05:54:04] O Adobe ColorWell já vai te dar sugestões de cores bem interessantes.
+[00:05:54:08 --> 00:05:55:26] Então, deixa eu colocar na tela para a gente.
+[00:05:56:13 --> 00:05:57:11] Eu estou com ele aqui.
+[00:05:57:23 --> 00:05:59:18] É só você digitar no Google aqui, ó.
+[00:05:59:21 --> 00:06:01:00] Vou digitar no Google para a gente.
+[00:06:01:04 --> 00:06:06:25] Então, eu entro no Google, digito assim, ó, Adobe ColorWell, de roda de cor.
+[00:06:07:14 --> 00:06:07:29] Entra aqui.
+[00:06:08:25 --> 00:06:10:20] Aí, beleza, você está dentro da ferramenta.
+[00:06:10:23 --> 00:06:19:16] Aqui eu tenho harmonia de cores e ele já vai me apresentar, olha, monocromático, triade, complementar, dividir e complementar.
+[00:06:19:25 --> 00:06:23:02] quadrado, composto, sombra.
+[00:06:23:05 --> 00:06:28:15] Existe toda uma teoria, uma construção por trás dessas harmonias de cores, tá?
+[00:06:28:19 --> 00:06:32:10] E eu explico exatamente isso para você lá no curso de Design Percepção Visual.
+[00:06:32:17 --> 00:06:35:19] Quando você chegar nesse nível, você vai ter a oportunidade de aprender sobre isso,
+[00:06:35:20 --> 00:06:36:19] e é incrível.
+[00:06:36:20 --> 00:06:39:17] Foi um dos professores da Bauhaus, primeira escola de design,
+[00:06:39:25 --> 00:06:43:26] que desenvolveu esse sistema de harmonia de cores baseado em formas geométricas.
+[00:06:43:29 --> 00:06:47:17] É incrível, poderosíssimo, e facilita muito a nossa vida.
+[00:06:47:17 --> 00:06:52:07] aqui e agora você não precisa entender a teoria completa, você só precisa entender que essa ferramenta existe
+[00:06:52:07 --> 00:06:56:13] e que ela vai te ajudar a harmonizar as suas paletas de cores
+[00:06:56:13 --> 00:07:02:08] mesmo assim, se você estiver tendo dificuldade de fazer isso, você pode vir aqui em explorar
+[00:07:02:08 --> 00:07:05:25] e aqui você vai encontrar diversas paletas de cores já prontas
+[00:07:05:25 --> 00:07:11:13] isso é legal porque essas paletas, muitas delas já são criadas, prestando atenção nesses contrastes
+[00:07:11:13 --> 00:07:14:11] então olha, eu tenho cores escuras e cores claras
+[00:07:14:11 --> 00:07:16:09] Quando eu trabalho essas cores juntas,
+[00:07:16:09 --> 00:07:18:10] eu tenho ali um contraste interessante
+[00:07:18:10 --> 00:07:21:18] que torna o projeto mais harmônico.
+[00:07:21:23 --> 00:07:22:13] Então, é interessante.
+[00:07:22:14 --> 00:07:24:10] Está com dificuldade de criar uma paleta de cores?
+[00:07:24:13 --> 00:07:25:07] Está vendo aqui, por exemplo?
+[00:07:25:11 --> 00:07:27:07] Está tudo muito colorido, não está fazendo sentido.
+[00:07:27:22 --> 00:07:28:28] Vem aqui no explorar.
+[00:07:28:29 --> 00:07:31:04] Você pode colocar, por exemplo, orange.
+[00:07:31:24 --> 00:07:33:07] Pensa na matiz principal.
+[00:07:33:13 --> 00:07:34:25] Qual é a cor principal que eu vou trabalhar?
+[00:07:35:02 --> 00:07:35:14] Laranja.
+[00:07:35:16 --> 00:07:36:16] E começa a ver aqui.
+[00:07:37:00 --> 00:07:39:28] Você vai depois aprender o que são cores análogas,
+[00:07:39:28 --> 00:07:41:06] cores complementares.
+[00:07:41:07 --> 00:07:42:14] Vai entender todo esse processo.
+[00:07:42:19 --> 00:07:43:29] Eu prometo que eu vou ensinar para você.
+[00:07:44:11 --> 00:07:47:10] Mas agora é mais importante você focar na prática.
+[00:07:47:13 --> 00:07:51:04] Se tiver muito difícil de harmonizar as cores para um projeto,
+[00:07:51:11 --> 00:07:54:10] aqui embaixo eu vou deixar as aulas para vocês separadas.
+[00:07:54:14 --> 00:07:59:10] São aulas bem mais profundas, mas que já vão te ajudar a entender melhor como harmonizar essas cores.
+[00:07:59:17 --> 00:08:04:00] Apenas lembre-se, agora o foco não é ainda a teoria.
+[00:08:04:01 --> 00:08:05:16] O foco é a sua prática.
+[00:08:05:22 --> 00:08:10:02] Para isso, as referências vão ser mais importantes para você.
+[00:08:10:12 --> 00:08:13:22] Lembra a aula de referência que nós falamos sobre buscar boas referências?
+[00:08:13:22 --> 00:08:18:14] Lá você também vai ter referências de paleta de cores, quais cores outros designers estão harmonizando.
+[00:08:18:20 --> 00:08:24:16] Use as referências de base e você vai tender a criar projetos bem interessantes, mesmo começando do zero.
+[00:08:24:26 --> 00:08:31:01] Depois eu vou te ensinar com profundidade, com teoria, por que essas cores harmonizam,
+[00:08:31:02 --> 00:08:33:18] por que elas chamam a atenção dos nossos olhos, tá bom?
+[00:08:33:23 --> 00:08:35:29] A gente vai falar mais sobre isso depois.
+[00:08:36:11 --> 00:08:40:03] Existem outros fatores também que vão influenciar a escolha das suas cores.
+[00:08:40:03 --> 00:08:45:09] fatores mais voltados para a estratégia da marca, diferenciação, tem muitos fatores,
+[00:08:45:10 --> 00:08:50:20] mas nós não vamos focar neles agora. O mais importante aqui é você entender essa questão
+[00:08:50:20 --> 00:08:56:10] técnica dos sistemas de cores que eu acabei de te falar e entender que você precisa harmonizar
+[00:08:56:10 --> 00:09:01:14] essas cores dentro do seu projeto. Para isso, as referências vão ser uma grande aliada nesse
+[00:09:01:14 --> 00:09:08:15] processo. Não se esqueça da simplicidade e agora para a gente fechar esse módulo com chave de
+[00:09:08:15 --> 00:09:09:11] finais pra você.

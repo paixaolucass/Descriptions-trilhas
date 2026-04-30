@@ -1,0 +1,354 @@
+# Video: Aula 1 _ Introdução - Cliente Ideal (ICP) para Negócios Criativos.mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-27 17:56
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:07 --> 00:00:04:03] Boas-vindas à trilha que vai ajudar você a definir o seu Go-To-Market,
+[00:00:04:08 --> 00:00:08:05] ou seja, a estratégia para levar seu produto ou serviço ao mercado,
+[00:00:08:22 --> 00:00:12:17] alcançando as pessoas certas, com a mensagem certa e no momento certo.
+[00:00:12:26 --> 00:00:16:01] Meu nome é Vini Del Poço, eu sou estrategista, designer,
+[00:00:16:14 --> 00:00:18:28] fundador da consultoria de marca Del Poço Branding
+[00:00:18:28 --> 00:00:21:22] e professor de negócios criativos aqui em Nova Orleans.
+[00:00:22:02 --> 00:00:25:26] Essa trilha que você vai assistir é a gravação das aulas do Bootcamp
+[00:00:25:26 --> 00:00:27:24] do Cliente Errado ao Cliente Certo.
+[00:00:27:24 --> 00:00:31:24] Foram quatro encontros ao vivo com um grupo fechado, muito legal, de criativos,
+[00:00:31:27 --> 00:00:34:28] onde eu pude ajudar a construir e validar alguns dos negócios deles.
+[00:00:35:10 --> 00:00:37:18] Em breve a gente vai ter algumas datas novas,
+[00:00:37:19 --> 00:00:40:17] então se você tiver interesse em participar de um programa intensivo
+[00:00:40:17 --> 00:00:42:08] que vai te colocar no lugar certo,
+[00:00:42:15 --> 00:00:45:17] fica de olho aqui na plataforma que em breve você vai poder se inscrever.
+[00:00:46:04 --> 00:00:49:19] Nós também temos um grupo de negócios criativos no WhatsApp da Overlens,
+[00:00:49:22 --> 00:00:52:03] então se você tiver qualquer dúvida sobre essa trilha,
+[00:00:52:04 --> 00:00:56:03] não precisa se preocupar, pode aparecer lá, faz a pergunta que eu vou te responder.
+[00:00:56:03 --> 00:01:02:07] isso vale também para qualquer pergunta sobre negócios, não precisa ser só sobre essa trilha, aparece lá que eu te respondo.
+[00:01:02:08 --> 00:01:08:08] O link deve estar aqui embaixo, se não tiver, procura ali no WhatsApp da Overlens, nos grupos, com certeza você vai encontrar ali.
+[00:01:08:29 --> 00:01:13:24] Antes da gente começar, eu queria mostrar esses dois termos aqui, ICP e PIC.
+[00:01:14:04 --> 00:01:19:14] Já já eu vou explicar o que ele quer dizer, é o perfil ideal de cliente, mas ambos significam a mesma coisa.
+[00:01:19:25 --> 00:01:23:02] Então esses termos aqui vão se repetir bastante durante essas aulas,
+[00:01:23:02 --> 00:01:27:11] Então, se você me ver falando ICP, é só lembrar que é perfil ideal de cliente,
+[00:01:27:11 --> 00:01:30:24] só que em inglês, Ideal Customer Profile, quer dizer a mesma coisa.
+[00:01:31:19 --> 00:01:36:02] Essa trilha foi dividida em quatro módulos, que foram as quatro aulas ao vivo do Bootcamp.
+[00:01:36:20 --> 00:01:39:07] Primeiro, a gente vai falar sobre o perfil ideal de cliente
+[00:01:39:07 --> 00:01:41:17] e também ter uma clareza um pouquinho maior sobre o negócio,
+[00:01:41:26 --> 00:01:45:14] para você saber para quem você vai vender e como validar essas dores.
+[00:01:46:04 --> 00:01:51:12] Depois que você identificar essas dores, a gente vai conectar elas a uma solução.
+[00:01:51:12 --> 00:01:56:17] Eu vou ensinar vocês a criar uma oferta para você ter algo claro e valioso para oferecer para os seus clientes.
+[00:01:56:27 --> 00:01:58:24] Em seguida, a gente vai focar na venda.
+[00:01:58:25 --> 00:02:02:17] É algo que apareceu muito durante o Bootcamp, teve várias dúvidas muito interessantes.
+[00:02:02:24 --> 00:02:04:11] Então, a gente vai quebrar algumas crenças.
+[00:02:04:19 --> 00:02:10:09] Vou mostrar para vocês um processo de venda consultiva e depois ensinar a lidar com algumas objeções de clientes.
+[00:02:10:13 --> 00:02:12:10] E por último, para a prospecção.
+[00:02:12:19 --> 00:02:17:05] Como encontrar os clientes, como criar um ímã de leads para atrair esses clientes de uma forma mais natural
+[00:02:17:05 --> 00:02:21:00] e também como encontrar e abordar essas pessoas da forma certa.
+[00:02:21:16 --> 00:02:29:14] Depois de todo esse processo, de toda essa trilha, a ideia é que você tenha a clareza total sobre quem vale a pena ter como cliente e também como validar isso.
+[00:02:29:26 --> 00:02:38:17] E é algo muito importante, porque quando eu comecei eu achava que eu precisava de um monte de clientes, mas eu descobri que na verdade eu precisava dos clientes certos.
+[00:02:38:17 --> 00:02:43:13] E isso mudou muita coisa para mim. Então a ideia aqui é mostrar isso para vocês também.
+[00:02:43:23 --> 00:02:47:09] Mas para chegar lá, primeiro eu preciso mostrar como funciona a lógica de um negócio.
+[00:02:48:19 --> 00:02:52:08] Eu não sei se você veio do CLT, assim como eu, ou se você nunca empreendeu,
+[00:02:52:28 --> 00:02:58:03] mas se isso aconteceu com você, talvez ninguém nunca ensinou você a pensar como um negócio.
+[00:02:58:17 --> 00:03:03:00] E você pode ter aprendido algumas coisas também que são muito problemáticas
+[00:03:03:00 --> 00:03:04:09] quando você vai começar um negócio.
+[00:03:04:19 --> 00:03:07:11] Por exemplo, que errar é algo muito perigoso.
+[00:03:07:28 --> 00:03:10:28] Porque no CLT, quando você erra, você é punido.
+[00:03:11:00 --> 00:03:13:09] Se você erra muito, você é mandado embora.
+[00:03:13:22 --> 00:03:16:21] Você precisa seguir o manual da empresa, os protocolos,
+[00:03:16:21 --> 00:03:25:06] Isso acaba criando um comportamento muito defensivo, de muita demora para você lançar alguma coisa, para você testar alguma coisa.
+[00:03:25:08 --> 00:03:26:27] Então tem esse excesso de preparação.
+[00:03:28:09 --> 00:03:32:27] Só que quando a gente cria um negócio, errar cedo é economizar tempo e dinheiro.
+[00:03:33:06 --> 00:03:39:00] É muito mais importante a gente errar e ajustar a rota do que esperar ter 100% de certeza antes de começar.
+[00:03:39:15 --> 00:03:45:27] Então, o seu trabalho como dono de negócio é de validar hipóteses, é de criar seus protocolos, assim como um pesquisador.
+[00:03:46:11 --> 00:03:48:25] Você não está jogando oferta para lá e para cá e vendo o que cola.
+[00:03:48:29 --> 00:03:53:22] Você está testando hipóteses com base nos dados dos seus clientes, clientes passados, do seu histórico.
+[00:03:53:29 --> 00:03:55:06] Sinais de mercado também.
+[00:03:55:06 --> 00:03:57:12] também sempre muito bom pesquisar o seu mercado,
+[00:03:57:18 --> 00:03:58:24] o que os seus concorrentes estão fazendo,
+[00:03:59:07 --> 00:04:01:13] para onde o mercado está indo, quais são as tendências
+[00:04:01:13 --> 00:04:05:25] e aquela intuição treinada que sempre leva a gente para o caminho certo também.
+[00:04:06:08 --> 00:04:08:19] Isso foi outra coisa que eu demorei muito tempo para entender.
+[00:04:08:25 --> 00:04:12:10] Eu criava serviços perfeitos no papel, processos sofisticados,
+[00:04:12:12 --> 00:04:16:21] ficava dias, semanas trabalhando assim, lapidando cada detalhe
+[00:04:16:21 --> 00:04:19:24] e só depois, quando tudo parecia pronto, que eu ia testar,
+[00:04:19:25 --> 00:04:23:26] que eu saía em busca de alguém que queria comprar o que eu havia inventado.
+[00:04:23:26 --> 00:04:25:06] E aí o que acontecia?
+[00:04:25:10 --> 00:04:28:28] Quando eu ia validar essa ideia, eu encontrava alguma objeção
+[00:04:28:28 --> 00:04:31:07] que me fazia começar tudo de novo.
+[00:04:31:16 --> 00:04:35:25] E eu fazia muito disso por essa mentalidade de medo de errar,
+[00:04:35:27 --> 00:04:37:00] desse perfeccionismo.
+[00:04:37:10 --> 00:04:40:18] E se você percebe como esse processo é o processo inverso,
+[00:04:40:19 --> 00:04:45:04] a gente cria um serviço perfeito para depois encontrar quem queira comprar.
+[00:04:45:18 --> 00:04:48:28] É por isso que tem tanta frustração e por isso que muitos projetos
+[00:04:48:28 --> 00:04:49:18] ficam na gaveta.
+[00:04:50:00 --> 00:04:52:22] Pensa, é como projetar uma casa inteira.
+[00:04:54:01 --> 00:04:55:07] da planta ao acabamento,
+[00:04:55:27 --> 00:04:57:25] sem nunca conversar com quem vai morar nela.
+[00:04:58:19 --> 00:05:01:27] Então, se a lógica do CLT treina você para evitar o erro,
+[00:05:02:01 --> 00:05:05:00] a lógica empreendedora exige que você teste rápido,
+[00:05:05:15 --> 00:05:08:09] barato e sem muito apego ao que você está criando.
+[00:05:08:22 --> 00:05:10:29] Mas para testar as coisas de uma forma certa,
+[00:05:11:04 --> 00:05:13:19] você precisa entender primeiro qual é a estrutura de um negócio.
+[00:05:14:00 --> 00:05:15:24] Eu não sei se você já usou o Business Model Canvas,
+[00:05:16:04 --> 00:05:18:10] é uma ferramenta muito boa, excelente.
+[00:05:18:14 --> 00:05:21:13] Aqui na área de materiais da Overlens, você pode baixar ele.
+[00:05:21:13 --> 00:05:26:14] Mas os nove blocos me paralisaram muito quando eu precisava só de clareza para começar.
+[00:05:26:28 --> 00:05:32:00] Então, depois de estruturar dezenas de negócios criativos e ver muita gente com essa paralisia também,
+[00:05:32:07 --> 00:05:36:01] eu identifiquei seis elementos que podem funcionar como uma fundação.
+[00:05:36:24 --> 00:05:38:09] São esses seis pilares aqui.
+[00:05:38:12 --> 00:05:43:23] E não é uma simplificação do Canvas, ele é muito importante e até recomendo que depois, com mais maturidade,
+[00:05:43:23 --> 00:05:45:28] você monte o seu Business Model Canvas também.
+[00:05:45:28 --> 00:05:52:05] Mas é um framework prático para quem quer sair da teoria e estruturar um negócio que vai gerar resultado.
+[00:05:52:22 --> 00:05:57:22] Então aqui estão os seis pilares, eu vou apresentar eles para vocês na ordem de implementação.
+[00:05:58:07 --> 00:06:02:19] O primeiro deles é a dor específica, ou o problema que você resolve.
+[00:06:03:00 --> 00:06:07:09] Um negócio não começa pelo serviço, nem pelo portfólio, ele começa por uma dor.
+[00:06:07:17 --> 00:06:13:07] E dor não é, por exemplo, as empresas precisam de identidade visual, ou precisam de um logotipo.
+[00:06:13:07 --> 00:06:15:15] isso é muito amplo, dor é uma coisa
+[00:06:15:15 --> 00:06:17:03] concreta, sentida
+[00:06:17:03 --> 00:06:19:07] e mensurável, por exemplo
+[00:06:19:07 --> 00:06:21:13] teve uma designer que trabalhou comigo que ela era muito
+[00:06:21:13 --> 00:06:23:19] boa em apresentações e ela percebeu
+[00:06:23:19 --> 00:06:25:07] que várias pequenas empresas de tecnologia
+[00:06:25:07 --> 00:06:27:19] tinham o mesmo problema, elas perdiam
+[00:06:27:19 --> 00:06:29:12] clientes porque a comunicação parecia
+[00:06:29:12 --> 00:06:31:18] muito genérica e não transmitia
+[00:06:31:18 --> 00:06:33:13] credibilidade técnica, então
+[00:06:33:13 --> 00:06:35:06] a dor dessas empresas não era identidade visual
+[00:06:35:06 --> 00:06:37:13] ou apresentação, a dor era que
+[00:06:37:13 --> 00:06:39:06] eles perdiam clientes porque
+[00:06:39:06 --> 00:06:40:22] pareciam menores do que eram
+[00:06:40:22 --> 00:06:42:14] menores do que pareciam
+[00:06:42:14 --> 00:06:45:09] então quando você enxerga essa dor específica
+[00:06:45:09 --> 00:06:46:18] você para de ver
+[00:06:46:18 --> 00:06:48:18] de falar só de design
+[00:06:48:18 --> 00:06:51:03] e começa a falar do que realmente está travando essas empresas
+[00:06:51:03 --> 00:06:52:27] e para saber se você realmente
+[00:06:52:27 --> 00:06:54:07] encontrou uma dor concreta
+[00:06:54:07 --> 00:06:56:09] tem algumas perguntas que você pode se fazer
+[00:06:57:27 --> 00:06:59:22] para saber se você está no caminho certo.
+[00:07:00:05 --> 00:07:03:28] A primeira delas é, as pessoas já gastam dinheiro tentando resolver isso?
+[00:07:04:05 --> 00:07:08:22] Ou seja, é uma dor que realmente existe e as pessoas estão procurando alguma forma de resolvê-las?
+[00:07:09:11 --> 00:07:13:12] A solução atual que tem no mercado é insatisfatória de alguma forma?
+[00:07:13:16 --> 00:07:15:22] Tem algo que você pode fazer para melhorar isso?
+[00:07:16:03 --> 00:07:20:02] E você consegue descrever esse problema sem mencionar a sua solução?
+[00:07:20:19 --> 00:07:23:13] Muitas vezes quando a gente vai validar alguma ideia nossa,
+[00:07:23:19 --> 00:07:25:06] a gente acaba falando para um cliente,
+[00:07:25:06 --> 00:07:27:13] olha, eu pensei tal coisa, o que você acha?
+[00:07:27:13 --> 00:07:31:14] E muitas vezes ele vai falar, nossa, é ótima ideia, é incrível, mas às vezes ele só quer te agradar.
+[00:07:31:19 --> 00:07:35:04] Então é muito importante que você pense na dor e valide essa dor,
+[00:07:35:27 --> 00:07:38:13] descrever esse problema sem mencionar uma solução,
+[00:07:38:15 --> 00:07:40:12] senão você vai ter um olhar muito enviesado.
+[00:07:40:26 --> 00:07:45:13] Então se a resposta para essas perguntas for sim, você tem uma dor específica
+[00:07:45:13 --> 00:07:49:01] e, portanto, um bom ponto de partida para você começar a construir uma solução.
+[00:07:49:21 --> 00:07:54:04] Mas depois disso, com a dor clara, você precisa mapear quem vive isso todos os dias.
+[00:07:54:09 --> 00:07:56:07] E é aqui que entra o perfil ideal de cliente.
+[00:07:56:07 --> 00:08:01:09] é a pessoa que mais se beneficia, mais reconhece o valor que você cria.
+[00:08:01:18 --> 00:08:04:13] E tem uma armadilha muito comum aqui, que eu já passei,
+[00:08:04:14 --> 00:08:06:01] eu acredito que muita gente já deve ter passado,
+[00:08:06:09 --> 00:08:08:08] que é escolher cliente pela afinidade.
+[00:08:08:22 --> 00:08:11:09] Então, a gente escolhe um mercado que a gente gosta,
+[00:08:11:12 --> 00:08:14:20] uma causa que a gente admira, ou acha bonito esse tipo de projeto.
+[00:08:14:28 --> 00:08:19:15] Isso é muito legal, mas não é o critério mais importante para um negócio agora.
+[00:08:19:28 --> 00:08:22:09] Um cliente ideal sólido tem três dimensões.
+[00:08:22:09 --> 00:08:26:29] Primeiro, uma segmentação básica, como setor, porte, faturamento, maturidade.
+[00:08:27:14 --> 00:08:29:13] Depois a gente vai para a necessidade específica.
+[00:08:29:14 --> 00:08:31:07] Qual é o problema que precisa ser resolvido?
+[00:08:31:13 --> 00:08:33:29] Quais são os desejos? Quais são as ambições dessa pessoa?
+[00:08:34:09 --> 00:08:35:23] A dor normalmente entra aqui.
+[00:08:36:00 --> 00:08:38:07] E por último, nós temos o filtro de qualidade.
+[00:08:38:19 --> 00:08:41:04] A urgência, os valores, a forma de trabalhar.
+[00:08:41:18 --> 00:08:43:10] Só aqui que a gente vai falar de afinidade.
+[00:08:43:21 --> 00:08:47:08] Percebe como é só um dos elementos do perfil ideal de cliente.
+[00:08:47:11 --> 00:08:51:05] E depois disso tudo, depois que você tem esse perfil montado,
+[00:08:51:05 --> 00:08:52:24] vem uma pergunta que quase ninguém faz.
+[00:08:53:03 --> 00:08:54:20] Como que se a pessoa decide comprar?
+[00:08:55:03 --> 00:08:56:12] Qual que é o critério real?
+[00:08:56:19 --> 00:08:59:28] Qual que é aquele sim que a pessoa precisa enxergar para avançar?
+[00:09:00:06 --> 00:09:02:13] O cliente ideal não é qualquer um que aparece,
+[00:09:02:21 --> 00:09:05:18] é quem tem perfil, necessidade e está no momento certo
+[00:09:05:18 --> 00:09:08:05] e logo, logo a gente vai falar disso mais a fundo.
+[00:09:08:26 --> 00:09:11:03] Depois disso, vem o modelo de negócio.
+[00:09:11:11 --> 00:09:13:27] Aqui você vai definir as formas específicas
+[00:09:13:27 --> 00:09:16:06] para transformar essa solução em receita.
+[00:09:16:08 --> 00:09:18:18] Então é basicamente como que você ganha dinheiro,
+[00:09:18:18 --> 00:09:23:24] primeiro as formas em que você gera receita com a solução que você criou e no mercado criativo tem
+[00:09:23:24 --> 00:09:29:01] vários formatos os principais são serviços sob demanda então você faz trabalhos pontuais como
+[00:09:29:01 --> 00:09:34:01] identidade visual ensaio fotográfico vídeo para lançamento você pode também ter uma agência ou
+[00:09:34:01 --> 00:09:38:21] estúdio com uma equipe que atende vários clientes com contratos recorrentes você pode também criar um
+[00:09:38:21 --> 00:09:43:25] produto físico vender prints livros decoração produtos assinados ou você pode ter um e-commerce
+[00:09:43:25 --> 00:09:47:24] para vender esses produtos físicos, digitais, próprios ou também de terceiros.
+[00:09:48:11 --> 00:09:51:21] Também você pode criar infoprodutos, cursos gravados, workshops online,
+[00:09:51:28 --> 00:09:53:11] e-books, materiais para download.
+[00:09:53:26 --> 00:09:57:11] E também tem um modelo de consultoria e mentoria, que é muito legal também.
+[00:09:57:12 --> 00:10:01:04] Você pode fazer encontros estratégicos, um por um ou um por muitos,
+[00:10:01:07 --> 00:10:03:12] em grupo, com foco em resultado.
+[00:10:03:15 --> 00:10:05:27] Pode ser para clientes, pode ser também para outros criativos.
+[00:10:06:16 --> 00:10:09:12] E também você pode criar um modelo híbrido.
+[00:10:09:16 --> 00:10:11:19] Você pode combinar mais de um modelo de negócio.
+[00:10:11:19 --> 00:10:18:09] Por exemplo, você pode ter um estúdio que, além de vender projetos pontuais, também vende cursos, também vende mentorias, também vende produtos online.
+[00:10:18:22 --> 00:10:20:02] Não tem certo e errado.
+[00:10:20:10 --> 00:10:24:16] Tem o que funciona para o momento que você está e para o seu perfil ideal de cliente.
+[00:10:24:18 --> 00:10:29:04] A principal pergunta que você tem que se fazer não é qual o modelo certo e qual o modelo errado,
+[00:10:29:09 --> 00:10:37:13] mas qual a combinação desses modelos vai garantir uma receita suficiente para cobrir os seus custos e também para te dar fôlego para crescer.
+[00:10:37:13 --> 00:10:39:11] por exemplo, o que acontece muito
+[00:10:39:11 --> 00:10:41:16] é gente que trabalha só com projetos pontuais
+[00:10:41:16 --> 00:10:43:13] que não tem nada de errado, mas
+[00:10:43:13 --> 00:10:45:04] às vezes você tem projetos
+[00:10:45:04 --> 00:10:47:13] que são muito grandes, que tem um custo
+[00:10:47:13 --> 00:10:49:19] um ticket até que alto, mas você
+[00:10:49:19 --> 00:10:51:18] fica muito tempo procurando esse cliente
+[00:10:51:18 --> 00:10:53:15] você tem um processo
+[00:10:53:15 --> 00:10:55:18] de venda demorado, para você fechar com esse
+[00:10:55:18 --> 00:10:57:05] cliente, e aí entra um ticket
+[00:10:57:05 --> 00:10:59:18] de 10 mil reais no mês, no mês seguinte
+[00:11:00:00 --> 00:11:01:18] entra nada, porque você tem que
+[00:11:01:18 --> 00:11:03:19] fechar o próximo cliente, então você não tem
+[00:11:03:19 --> 00:11:05:19] muita previsibilidade, como que você
+[00:11:05:19 --> 00:11:07:17] você pode resolver isso? Com o modelo de
+[00:11:07:17 --> 00:11:09:22] negócio. Você pode, talvez, oferecer
+[00:11:09:22 --> 00:11:11:16] um modelo de... Você pode
+[00:11:11:16 --> 00:11:13:17] continuar com esses projetos pontuais, mas você também
+[00:11:13:17 --> 00:11:15:24] poderia oferecer, por exemplo, um acompanhamento
+[00:11:15:24 --> 00:11:17:24] mensal, com um valor um pouco mais baixo,
+[00:11:17:29 --> 00:11:19:18] para ter um pouquinho mais de previsibilidade,
+[00:11:19:20 --> 00:11:21:18] para você não ter aquela montanha russa de
+[00:11:21:18 --> 00:11:23:17] um mês entrar muito dinheiro e do outro mês não entrar
+[00:11:23:17 --> 00:11:25:16] nada. Esses três primeiros
+[00:11:25:16 --> 00:11:27:29] pilares que eu mostrei, a dor, o cliente
+[00:11:27:29 --> 00:11:29:18] e o modelo, são a base
+[00:11:29:18 --> 00:11:31:15] do seu negócio. Mudar qualquer um
+[00:11:31:15 --> 00:11:33:10] deles vai significar reconstruir grande
+[00:11:33:10 --> 00:11:35:16] parte da sua estratégia. Então, se
+[00:11:35:16 --> 00:11:38:00] Se você mudar a dor, você muda provavelmente o cliente.
+[00:11:38:00 --> 00:11:40:04] Se você muda o cliente, você vai mudar o modelo.
+[00:11:40:07 --> 00:11:43:20] E se você muda o modelo, vai mudar todos os outros pilares que vão vir depois.
+[00:11:44:10 --> 00:11:45:10] Então isso é muito importante.
+[00:11:45:18 --> 00:11:47:13] Essa é a base, é o fundamento.
+[00:11:48:03 --> 00:11:50:25] Depois disso, o quarto pilar é a oferta,
+[00:11:51:01 --> 00:11:53:10] que é basicamente a ponte entre o que você faz
+[00:11:53:10 --> 00:11:55:13] e o que o cliente entende que ele está comprando.
+[00:11:55:25 --> 00:11:57:23] Então pensa assim no menu de um restaurante.
+[00:11:57:25 --> 00:11:59:23] O seu produto ou serviço é o prato
+[00:11:59:23 --> 00:12:02:19] e a oferta é como você descreve esse prato no cardápio,
+[00:12:02:21 --> 00:12:04:26] com todos os detalhes, com os acompanhamentos,
+[00:12:04:26 --> 00:12:06:12] para despertar desejo.
+[00:12:06:20 --> 00:12:08:14] Então aqui, pensa assim,
+[00:12:08:17 --> 00:12:09:21] se o seu prato for um hambúrguer,
+[00:12:09:21 --> 00:12:11:17] você não vai dizer na oferta,
+[00:12:11:18 --> 00:12:12:23] eu vendo um hambúrguer.
+[00:12:12:27 --> 00:12:13:27] Você tem que detalhar.
+[00:12:14:03 --> 00:12:15:13] Então você pode falar, por exemplo,
+[00:12:15:15 --> 00:12:16:08] um hambúrguer artesanal,
+[00:12:17:22 --> 00:12:19:03] suculento, num pão de brioche,
+[00:12:19:07 --> 00:12:20:19] com cheddar derretido,
+[00:12:20:27 --> 00:12:22:15] com molho especial da casa,
+[00:12:22:21 --> 00:12:23:29] acompanhado de batatas rústicas.
+[00:12:24:07 --> 00:12:27:04] Essa descrição detalhada e atrativa
+[00:12:27:04 --> 00:12:27:25] é a sua oferta.
+[00:12:28:09 --> 00:12:30:10] Isso tem que despertar desejo no cliente,
+[00:12:30:10 --> 00:12:31:25] tem que se conectar com o problema,
+[00:12:32:01 --> 00:12:32:24] com a dor dele,
+[00:12:32:24 --> 00:12:35:24] e que tem também que diferenciar o seu prato do resto do menu.
+[00:12:36:07 --> 00:12:40:04] Então, dois designers podem entregar exatamente a mesma coisa.
+[00:12:40:13 --> 00:12:42:18] Um pode falar logo, paleta, tipografia,
+[00:12:42:19 --> 00:12:45:18] mas o outro pode falar, por exemplo, um sistema visual
+[00:12:45:18 --> 00:12:50:14] que faz sua empresa parecer mais madura e mais confiável para os seus clientes.
+[00:12:50:18 --> 00:12:53:19] A entrega pode ser exatamente a mesma,
+[00:12:53:22 --> 00:12:56:05] mas qual dos dois você acha que é mais valioso?
+[00:12:56:12 --> 00:12:59:03] A percepção é completamente diferente.
+[00:12:59:16 --> 00:13:01:12] Então, se o cliente não está comprando arquivos,
+[00:13:01:12 --> 00:13:03:00] não está comprando aquela lista de entregáveis
+[00:13:03:00 --> 00:13:05:00] que você coloca na sua proposta.
+[00:13:05:03 --> 00:13:06:26] Ele está comprando a solução para uma dor.
+[00:13:07:03 --> 00:13:09:00] E essa dor, às vezes, é muito específica.
+[00:13:09:12 --> 00:13:11:07] Então, pode ser a esperança de crescer,
+[00:13:11:07 --> 00:13:12:09] pode ser de se comunicar melhor,
+[00:13:12:14 --> 00:13:14:00] pode ser de ser visto de um jeito diferente.
+[00:13:14:14 --> 00:13:16:09] Ou se, por exemplo, você está procurando
+[00:13:16:09 --> 00:13:18:15] ser mais confiável para os seus clientes,
+[00:13:18:15 --> 00:13:19:13] parecer mais maduro,
+[00:13:19:16 --> 00:13:21:25] a outra oferta é muito mais importante
+[00:13:21:25 --> 00:13:24:21] do que simplesmente listar os entregáveis.
+[00:13:27:04 --> 00:13:29:12] Depois a gente vem para o pilar 5, que são os canais.
+[00:13:29:13 --> 00:13:33:20] A melhor oferta do mundo não serve para nada se ninguém souber que você existe
+[00:13:33:20 --> 00:13:35:00] ou que essa oferta existe.
+[00:13:35:17 --> 00:13:38:26] Os canais são os lugares onde você pode encontrar seus clientes
+[00:13:38:26 --> 00:13:42:26] e ele também pode encontrar você e buscar soluções parecidas com a sua.
+[00:13:43:03 --> 00:13:45:23] Então todo mundo utiliza provavelmente o Behance,
+[00:13:45:23 --> 00:13:48:09] plataformas visuais como o Instagram, o Dribbble,
+[00:13:48:12 --> 00:13:50:14] mas também tem redes profissionais como o LinkedIn,
+[00:13:50:23 --> 00:13:54:17] tem grupos de networking, grupos de influencers que você pode entrar,
+[00:13:54:17 --> 00:13:56:15] por exemplo, dentro do seu nicho, com certeza
+[00:13:56:15 --> 00:13:58:11] vai ter algum influencer que você pode participar
+[00:13:58:11 --> 00:14:00:10] de um grupo do WhatsApp. Ali você
+[00:14:00:10 --> 00:14:02:12] pode também prospectar alguns clientes.
+[00:14:02:27 --> 00:14:04:06] Tem também eventos
+[00:14:04:06 --> 00:14:06:21] presenciais, como feiras, exposições.
+[00:14:07:20 --> 00:14:08:09] Conteúdo digital,
+[00:14:08:15 --> 00:14:10:17] você pode criar conteúdo no YouTube, você pode criar
+[00:14:10:17 --> 00:14:12:02] uma newsletter, você pode ter seu próprio blog.
+[00:14:12:18 --> 00:14:14:18] Pode fazer parcerias estratégicas também.
+[00:14:14:24 --> 00:14:16:26] Eu já fiz muitas parcerias com advogados,
+[00:14:16:26 --> 00:14:18:07] com fotógrafos,
+[00:14:18:23 --> 00:14:20:12] agências também é muito legal, ou até
+[00:14:20:12 --> 00:14:22:20] com outros designers, com gestores de tráfego,
+[00:14:22:20 --> 00:14:24:14] com empresas de contabilidade
+[00:14:24:14 --> 00:14:26:20] enfim, essas parcerias estratégicas
+[00:14:26:20 --> 00:14:28:12] são muito boas para trazer clientes
+[00:14:28:12 --> 00:14:29:14] já prontos para comprar
+[00:14:29:14 --> 00:14:31:20] e também tem canais mais inusitados
+[00:14:31:20 --> 00:14:33:11] por exemplo, eu conheci uma designer
+[00:14:33:11 --> 00:14:35:18] que ela focava muito em cafeterias
+[00:14:35:18 --> 00:14:38:12] em trabalhar com identidade visual para cafeterias
+[00:14:38:12 --> 00:14:40:28] e ela prospectava clientes em feiras de café
+[00:14:40:28 --> 00:14:43:08] então, por exemplo, você pode ser um ilustrador
+[00:14:43:08 --> 00:14:44:20] focado, não sei, em jogos
+[00:14:44:20 --> 00:14:46:05] em concept art, por exemplo
+[00:14:46:05 --> 00:14:48:22] você pode visitar feiras de
+[00:14:48:22 --> 00:14:50:24] por exemplo, cultura geek, de anime
+[00:14:50:24 --> 00:14:52:12] uma CCXP, por exemplo
+[00:14:52:12 --> 00:14:54:19] e prospectar clientes ali.
+[00:14:55:04 --> 00:14:57:04] Inclusive, o corredor de um evento
+[00:14:57:04 --> 00:15:00:12] é um lugar muito bom para você identificar e validar dores
+[00:15:00:12 --> 00:15:02:17] e também fazer networking, com certeza.
+[00:15:03:09 --> 00:15:05:07] Mas tem um erro muito comum aqui de canais
+[00:15:05:07 --> 00:15:05:27] que eu gostaria de falar,
+[00:15:06:23 --> 00:15:07:21] que é tentar fazer tudo,
+[00:15:07:25 --> 00:15:09:17] estar em todos os canais ao mesmo tempo.
+[00:15:09:22 --> 00:15:11:25] Não funciona, não funciona.
+[00:15:12:03 --> 00:15:14:25] Então, escolha dois, domine esses canais,
+[00:15:14:26 --> 00:15:16:01] depois você expande.
+[00:15:16:03 --> 00:15:18:20] Então, foca primeiro, foca em dois,
+[00:15:18:25 --> 00:15:20:00] depois você vai para os outros.
+[00:15:20:00 --> 00:15:22:24] E por último, a gente tem a diferenciação.
+[00:15:22:29 --> 00:15:27:02] É o pilar, eu acho que os criativos mais focam, colocam mais energia
+[00:15:27:02 --> 00:15:31:08] e talvez é onde eu perdia mais tempo quando eu falava que eu criava aqueles serviços perfeitos
+[00:15:31:08 --> 00:15:32:18] na teoria, no papel.
+[00:15:32:29 --> 00:15:36:01] Então a gente coloca aqui, estilo, paleta, estética,
+[00:15:38:02 --> 00:15:40:20] cria processos abstratos demais até.
+[00:15:41:00 --> 00:15:42:16] E assim, tudo isso importa.
+[00:15:43:07 --> 00:15:45:14] Identidade é muito importante, design é muito importante,
+[00:15:45:21 --> 00:15:47:26] mas não sustenta o negócio sozinho.
+[00:15:47:26 --> 00:15:51:11] A diferenciação sustentável normalmente acontece em vários níveis.
+[00:15:51:19 --> 00:15:53:18] Tem três principais que eu vou falar aqui.
+[00:15:53:22 --> 00:15:54:29] Um deles é a execução.
+[00:15:55:07 --> 00:15:58:24] Então você entrega melhor, mais rápido ou com um processo superior.
+[00:15:59:08 --> 00:16:00:24] Tem o posicionamento também.
+[00:16:00:26 --> 00:16:05:01] Você pode resolver um tipo de problema muito específico para aquele mercado, para aquele segmento.
+[00:16:05:05 --> 00:16:07:24] E também dá para você fazer uma diferenciação por modelo.
+[00:16:07:27 --> 00:16:11:12] Você oferece uma coisa impossível ou muito difícil de replicar.
+[00:16:11:27 --> 00:16:13:27] A pergunta mais importante aqui é
+[00:16:13:27 --> 00:16:17:15] por que alguém escolheria você em vez da segunda opção mais óbvia?
+[00:16:18:16 --> 00:16:23:12] Então, para fechar aqui, esses seis pilares, eles não funcionam isolados.
+[00:16:23:15 --> 00:16:24:18] É igual a saúde.
+[00:16:24:24 --> 00:16:27:15] Não adianta dormir bem e ignorar essa alimentação.
+[00:16:28:06 --> 00:16:31:07] Negligenciar qualquer um deles aqui vai comprometer todo o sistema.
+[00:16:31:22 --> 00:16:34:15] Então, dor, cliente e modelo são a fundação.
+[00:16:34:21 --> 00:16:38:24] A oferta, os canais e a diferenciação são ajustes contínuos
+[00:16:38:24 --> 00:16:40:11] que você tem sempre que ir validando.
+[00:16:40:24 --> 00:16:44:13] Então, negócios criativos, eles não quebram por falta de talento,
+[00:16:44:13 --> 00:16:45:20] nem por falta de execução.
+[00:16:45:24 --> 00:16:47:23] Eles quebram por falta dessa estrutura.
+[00:16:47:26 --> 00:16:51:20] Então agora que você entendeu que essa estrutura existe e que ela é muito importante
+[00:16:51:20 --> 00:16:55:00] Vamos falar de um dos pilares estratégicos mais importantes daqui
+[00:16:55:00 --> 00:16:56:22] Que é o perfil ideal de cliente

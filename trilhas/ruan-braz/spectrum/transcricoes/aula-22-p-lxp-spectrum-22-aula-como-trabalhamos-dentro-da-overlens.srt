@@ -1,0 +1,1456 @@
+1
+00:00:00,000 --> 00:00:02,680
+Voltando então para o nosso mood bagunçado,
+
+2
+00:00:02,760 --> 00:00:04,840
+vou até compartilhar aqui sem pular mais,
+
+3
+00:00:05,020 --> 00:00:09,780
+eu quero que você veja um pouco de como que funciona o nosso processo em diferentes usos.
+
+4
+00:00:09,780 --> 00:00:11,860
+Então, aqui a gente tem um text to image,
+
+5
+00:00:12,460 --> 00:00:15,820
+aqui está a imagem, o nome do nosso...
+
+6
+00:00:17,624 --> 00:00:18,944
+da nossa trilha ia ser
+
+7
+00:00:18,944 --> 00:00:20,784
+Imaging, né? A gente trocou pra Spectrum depois.
+
+8
+00:00:21,164 --> 00:00:23,004
+Eu quero que vocês vejam isso. A gente gera
+
+9
+00:00:23,004 --> 00:00:25,184
+um prompt primeiro. Aqui tá a descrição do prompt.
+
+10
+00:00:25,404 --> 00:00:26,984
+Você pode pausar aí e ler.
+
+11
+00:00:27,124 --> 00:00:29,024
+Aí você vai identificar aquela estrutura que eu já
+
+12
+00:00:29,024 --> 00:00:30,564
+te mostrei. E a gente tem um modelo.
+
+13
+00:00:31,004 --> 00:00:32,944
+Depois que a gente tem esse modelo, a gente usa ele
+
+14
+00:00:32,944 --> 00:00:35,004
+de referência pra colocar uma
+
+15
+00:00:35,004 --> 00:00:36,684
+roupa nesse modelo. É assim que a gente consegue
+
+16
+00:00:37,184 --> 00:00:39,084
+consistência, principalmente lá no Nanobanana.
+
+17
+00:00:39,184 --> 00:00:40,924
+Tá vendo? E é muito simples,
+
+18
+00:00:41,044 --> 00:00:42,964
+cara. É só usar a imagem de
+
+19
+00:00:43,444 --> 00:00:45,024
+referência. Quando vocês forem usar
+
+20
+00:00:45,024 --> 00:00:46,264
+a imagem de referência, inclusive,
+
+21
+00:00:46,264 --> 00:00:49,384
+Inclusive, é bom que suba ela com qualidade, tá?
+
+22
+00:00:49,464 --> 00:00:51,464
+Deixa eu fechar meu click up aqui que ele tá apitando.
+
+23
+00:00:51,504 --> 00:00:52,144
+O time tá lá.
+
+24
+00:00:54,560 --> 00:00:57,640
+então é bom que você suba a imagem de referência com qualidade
+
+25
+00:00:57,640 --> 00:00:59,700
+que ele vai gerar uma imagem com mais qualidade pra você
+
+26
+00:00:59,700 --> 00:01:01,640
+é claro que depois tem o processo de upscale
+
+27
+00:01:01,640 --> 00:01:03,900
+eu já mostrei as ferramentas de upscale pra você
+
+28
+00:01:03,900 --> 00:01:05,840
+que é o Freepeek, o Enhancor
+
+29
+00:01:05,840 --> 00:01:07,380
+você pode acabar utilizando
+
+30
+00:01:07,380 --> 00:01:09,820
+o Midjourney tem um upscale dele também que é muito bom
+
+31
+00:01:10,320 --> 00:01:11,400
+e aí você tem
+
+32
+00:01:12,080 --> 00:01:13,220
+testes pra roupas
+
+33
+00:01:13,220 --> 00:01:15,260
+eu queria mostrar esse processo pra vocês
+
+34
+00:01:15,260 --> 00:01:17,680
+como que a gente faz aqui pra roupas
+
+35
+00:01:17,680 --> 00:01:19,540
+assim a gente usa o Gemini
+
+36
+00:01:19,540 --> 00:01:21,140
+e também o Seedens
+
+37
+00:01:21,140 --> 00:01:21,600
+Acesse o nosso site www.opusdei.pt
+
+38
+00:01:22,940 --> 00:01:24,140
+Aqui a gente tem um outro exemplo.
+
+39
+00:01:24,400 --> 00:01:26,820
+Então, esse já foi feito no MidJourney, tá vendo?
+
+40
+00:01:26,960 --> 00:01:28,840
+Aqui a gente tem os parâmetros do MidJourney.
+
+41
+00:01:29,180 --> 00:01:30,800
+Pausa aí pra ler o texto.
+
+42
+00:01:31,020 --> 00:01:33,280
+Se quiser também, você pode tirar um print, jogar na LLM,
+
+43
+00:01:33,300 --> 00:01:36,660
+falar, escreve em português, ela vai explicar o texto em português aqui pra você.
+
+44
+00:01:36,700 --> 00:01:37,340
+Vai ser interessante.
+
+45
+00:01:37,640 --> 00:01:39,520
+Aqui eu tô mais focado em te mostrar o processo.
+
+46
+00:01:40,020 --> 00:01:41,560
+Então, tem aqui a modelo.
+
+47
+00:01:41,940 --> 00:01:44,400
+E aqui a gente usou o FreePix Spaces.
+
+48
+00:01:44,680 --> 00:01:47,020
+Que aí é uma questão de apertar botões.
+
+49
+00:01:47,060 --> 00:01:49,220
+Eu vou mostrar pra vocês onde que é, pelo menos.
+
+50
+00:01:49,540 --> 00:01:51,500
+Mas não tem segredo, tá?
+
+51
+00:01:51,580 --> 00:01:52,560
+Não tem mesmo.
+
+52
+00:01:52,560 --> 00:01:53,780
+É muito fácil de usar.
+
+53
+00:01:54,240 --> 00:01:58,580
+Vamos dar uma olhada aqui no FreePic Spaces que a gente tem utilizado.
+
+54
+00:01:59,460 --> 00:02:00,720
+Opa, deu uma travada agora.
+
+55
+00:02:04,540 --> 00:02:04,920
+Voltou.
+
+56
+00:02:06,204 --> 00:02:07,724
+Então, você vem aqui, digita Freepik,
+
+57
+00:02:08,544 --> 00:02:09,884
+aí você loga na sua conta,
+
+58
+00:02:10,284 --> 00:02:11,864
+a gente está na nossa conta aqui.
+
+59
+00:02:12,184 --> 00:02:15,504
+O Spaces, ele é um canvas, tem o canvas do...
+
+60
+00:02:15,504 --> 00:02:16,484
+Ah, é porque eu estou no...
+
+61
+00:02:17,884 --> 00:02:19,924
+Estava no navegador errado.
+
+62
+00:02:20,624 --> 00:02:21,984
+Esse aqui eu acho que já estou logado.
+
+63
+00:02:25,532 --> 00:02:26,632
+Isso, mas tem o Firefly,
+
+64
+00:02:27,392 --> 00:02:28,692
+ele tem o próprio Canva dele,
+
+65
+00:02:28,772 --> 00:02:31,152
+tem também um que era muito bom, que é o Fauna Flora,
+
+66
+00:02:31,232 --> 00:02:32,192
+só que agora o Freepeak está
+
+67
+00:02:34,032 --> 00:02:34,952
+eclipsando o Fauna Flora.
+
+68
+00:02:35,192 --> 00:02:36,952
+Mas o Spaces, ele funciona assim,
+
+69
+00:02:37,032 --> 00:02:39,092
+você conecta prompt
+
+70
+00:02:39,092 --> 00:02:41,032
+com imagens e vai conectando imagens
+
+71
+00:02:41,032 --> 00:02:42,452
+com imagens, imagens com vídeo.
+
+72
+00:02:42,752 --> 00:02:45,032
+Eu quero trazer isso aqui no módulo de oficina
+
+73
+00:02:45,032 --> 00:02:46,912
+para você, onde eu vou montar na sua frente.
+
+74
+00:02:47,632 --> 00:02:49,372
+E aí, você consegue
+
+75
+00:02:50,312 --> 00:02:50,952
+gerenciar, vou pegar
+
+76
+00:02:50,952 --> 00:02:52,772
+alguns exemplos aqui, deixa eu ver se eu pego
+
+77
+00:02:53,752 --> 00:02:55,032
+esse mesmo, que a gente estava
+
+78
+00:02:55,032 --> 00:03:00,712
+que você acaba vendo ali agora deixa ele carregar para vocês então você tem uma imagem de referência
+
+79
+00:03:01,272 --> 00:03:06,712
+e dessa imagem de referência você pode gerar novas imagens aqui embaixo a gente tem um o que
+
+80
+00:03:06,712 --> 00:03:12,512
+a gente quer descrever para essa imagem para que o scroll não tá funcionando olha só então
+
+81
+00:03:12,512 --> 00:03:18,292
+essa imagem está conectada com esses vídeos aqui ó eu acho que você quer vídeo né outra não imagem
+
+82
+00:03:20,380 --> 00:03:20,900
+Por isso que não foi.
+
+83
+00:03:21,120 --> 00:03:24,800
+Então, essas imagens geram essas outras imagens aqui.
+
+84
+00:03:24,980 --> 00:03:27,780
+Eu posso gerar elas, ó, pra vocês verem que é fácil.
+
+85
+00:03:27,900 --> 00:03:30,880
+Se eu clico aqui no mais, eu posso gerar texto, imagem, vídeo,
+
+86
+00:03:31,020 --> 00:03:32,840
+ou um assistente, ou melhorar uma imagem.
+
+87
+00:03:33,060 --> 00:03:35,080
+Eu começo no texto, eu falo, um elefante.
+
+88
+00:03:36,668 --> 00:03:38,788
+Então tá aqui o elefante, né? Aí agora eu posso
+
+89
+00:03:38,788 --> 00:03:40,748
+vir aqui nesse texto e já puxar
+
+90
+00:03:40,748 --> 00:03:42,628
+ele aqui, ó, pra uma imagem,
+
+91
+00:03:42,748 --> 00:03:44,628
+por exemplo. E aí o que que eu faço?
+
+92
+00:03:44,768 --> 00:03:45,988
+Eu rodo isso aqui
+
+93
+00:03:46,488 --> 00:03:48,868
+pra ele pegar esse prompt e gerar uma imagem
+
+94
+00:03:48,868 --> 00:03:50,288
+com ele. Aí ele vai gerar aqui
+
+95
+00:03:50,288 --> 00:03:52,608
+o elefante pra mim. Entendeu?
+
+96
+00:03:54,300 --> 00:03:56,020
+Mais fácil que isso, impossível, né?
+
+97
+00:03:56,880 --> 00:03:57,860
+Deixei ele gerando aqui.
+
+98
+00:03:58,420 --> 00:04:00,860
+Eu quero só pegar o click up aqui e tirar.
+
+99
+00:04:02,492 --> 00:04:02,912
+Reset.
+
+100
+00:04:03,172 --> 00:04:04,592
+Tá mandando notificação.
+
+101
+00:04:04,932 --> 00:04:06,132
+Então ele gerou essa imagem.
+
+102
+00:04:06,312 --> 00:04:11,612
+Agora eu posso pegar essa imagem aqui e trazer ela pra gerar outra imagem.
+
+103
+00:04:11,772 --> 00:04:16,872
+Então eu puxo ela aqui e eu posso abrir um outro texto e puxar ele pra cá também.
+
+104
+00:04:17,092 --> 00:04:21,692
+E aí ele vai puxar a referência da imagem e a referência do texto.
+
+105
+00:04:21,792 --> 00:04:27,252
+Então agora eu coloco aqui, por exemplo, armadura cyberpunk biônica.
+
+106
+00:04:29,460 --> 00:04:31,180
+e aí ele vai pegar esse elefante
+
+107
+00:04:31,180 --> 00:04:32,900
+com essa armadura cyberpunk biônica
+
+108
+00:04:32,900 --> 00:04:35,040
+e vai gerar uma nova imagem a partir
+
+109
+00:04:35,040 --> 00:04:36,720
+disso, esse é o fluxo galera
+
+110
+00:04:36,720 --> 00:04:38,960
+não tem segredo, se você criar sua conta
+
+111
+00:04:38,960 --> 00:04:41,000
+e começar a usar, você vai falar, ainda bem que o
+
+112
+00:04:41,000 --> 00:04:42,500
+Juan não ficou um curso inteiro
+
+113
+00:04:42,500 --> 00:04:45,160
+puxando e arrastando o botão e gastou
+
+114
+00:04:45,160 --> 00:04:46,740
+o tempo do curso me ensinando processo
+
+115
+00:04:46,740 --> 00:04:49,200
+e método e fundamento, porque agora eu consigo
+
+116
+00:04:49,200 --> 00:04:50,960
+me virar aqui dentro, por isso
+
+117
+00:04:50,960 --> 00:04:53,020
+que essas trilhas inteiras eu foco muito
+
+118
+00:04:53,020 --> 00:04:54,400
+mais em trazer o fundamento, porque
+
+119
+00:04:54,400 --> 00:04:57,180
+cada vez mais isso aqui vai ficar fácil pra você
+
+120
+00:04:57,180 --> 00:04:59,200
+você, pelo menos se eu te mostro a ferramenta,
+
+121
+00:04:59,200 --> 00:05:00,920
+você sabe o caminho, você consegue criar.
+
+122
+00:05:01,120 --> 00:05:02,260
+Tá vendo? Ele criou aqui agora.
+
+123
+00:05:02,840 --> 00:05:04,860
+Aí tem uns detalhezinhos bobos aqui, né,
+
+124
+00:05:04,860 --> 00:05:06,500
+que são importantes, eu falo que é bobo porque
+
+125
+00:05:07,520 --> 00:05:08,480
+vocês vão ver que é fácil,
+
+126
+00:05:08,620 --> 00:05:10,800
+mas, Juan, não tô gostando dessas imagens, tá com
+
+127
+00:05:10,800 --> 00:05:12,860
+cara de IA, qual IA que ele tá usando?
+
+128
+00:05:13,160 --> 00:05:14,900
+E aí você consegue aqui, olha,
+
+129
+00:05:14,920 --> 00:05:16,960
+em alto, trocar pro modelo de IA.
+
+130
+00:05:17,020 --> 00:05:18,300
+Então tem vários, olha, Flux,
+
+131
+00:05:19,440 --> 00:05:20,640
+Google Nanobanana, GPT,
+
+132
+00:05:20,800 --> 00:05:22,820
+Grok, QAIN, Havi, Runway,
+
+133
+00:05:22,960 --> 00:05:24,500
+você escolhe, ó, Seedring,
+
+134
+00:05:24,600 --> 00:05:26,780
+e aí quando você trocar, você gera
+
+135
+00:05:26,780 --> 00:05:29,000
+uma nova imagem a partir desse fluxo.
+
+136
+00:05:29,100 --> 00:05:30,920
+Isso aqui é bom também pro processo
+
+137
+00:05:30,920 --> 00:05:32,100
+porque você pode fazer isso aqui, ó.
+
+138
+00:05:32,360 --> 00:05:34,720
+Você pode já ir pegando aqui, abrir vários
+
+139
+00:05:34,720 --> 00:05:36,660
+assim, ó. Vai abrindo, vai abrindo, vai abrindo.
+
+140
+00:05:36,860 --> 00:05:38,940
+E aí você pode ir conectando eles.
+
+141
+00:05:39,200 --> 00:05:40,980
+Então, sei lá, você tem três referências,
+
+142
+00:05:41,100 --> 00:05:42,760
+quatro referências aqui, quer conectar todas
+
+143
+00:05:42,760 --> 00:05:44,920
+elas ali na imagem, você vai
+
+144
+00:05:44,920 --> 00:05:46,580
+puxando elas e conectando
+
+145
+00:05:46,580 --> 00:05:48,740
+na imagem que você quer gerar.
+
+146
+00:05:48,820 --> 00:05:50,740
+Então ele vai pegar todas essas imagens aqui
+
+147
+00:05:50,740 --> 00:05:52,480
+e usar de referência pra fazer
+
+148
+00:05:52,480 --> 00:05:54,940
+essa nova imagem. Você pode também juntar
+
+149
+00:05:54,940 --> 00:05:56,500
+texto aqui no meio,
+
+150
+00:05:56,780 --> 00:05:58,860
+prompts diferentes. Só que
+
+151
+00:05:58,860 --> 00:06:00,500
+lembra, simplicidade ganha jogo
+
+152
+00:06:00,500 --> 00:06:02,880
+aqui. Simplicidade é muito importante
+
+153
+00:06:02,880 --> 00:06:04,840
+porque você tem controle do que você está
+
+154
+00:06:04,840 --> 00:06:06,400
+pedindo pra IA. Então
+
+155
+00:06:06,400 --> 00:06:08,800
+no final, o seu objetivo
+
+156
+00:06:08,800 --> 00:06:10,040
+aqui com isso é pra
+
+157
+00:06:10,720 --> 00:06:13,040
+otimizar seu fluxo, otimizar seu processo
+
+158
+00:06:13,040 --> 00:06:14,520
+e não pra poder sair
+
+159
+00:06:14,520 --> 00:06:16,960
+mandando um monte de coisa assim, achando
+
+160
+00:06:16,960 --> 00:06:18,860
+que você está arrasando e no final sua imagem
+
+161
+00:06:18,860 --> 00:06:20,780
+sai uma droga. O legal é que depois
+
+162
+00:06:20,780 --> 00:06:22,900
+que você gera a imagem também, você pode puxar aqui
+
+163
+00:06:22,900 --> 00:06:24,820
+e gerar um vídeo dessa imagem.
+
+164
+00:06:25,260 --> 00:06:26,500
+Então aqui eu vou
+
+165
+00:06:27,280 --> 00:06:31,560
+Ele está pedindo para colocar efeito sonoro, eu posso escolher o modelo que eu quero utilizar também.
+
+166
+00:06:32,980 --> 00:06:35,820
+Aqui, qual vai ser mais rápido? Só para a gente ver aqui agora.
+
+167
+00:06:36,340 --> 00:06:38,820
+Acho que eu posso usar o Fast aqui, vai funcionar.
+
+168
+00:06:39,420 --> 00:06:41,900
+Então, eu coloco o modelo que eu quero gerar.
+
+169
+00:06:41,940 --> 00:06:43,640
+Aqui eu vou gerar um vídeo só, 4 segundos.
+
+170
+00:06:43,980 --> 00:06:46,640
+Aqui a qualidade dele, 720p, 1080p ou 4K.
+
+171
+00:06:46,840 --> 00:06:48,900
+O formato que eu vou usar esse vídeo também.
+
+172
+00:06:49,260 --> 00:06:51,200
+Se eu colocar, dá para vocês ouvirem.
+
+173
+00:06:51,260 --> 00:06:52,920
+Eu acho que eu consigo fazer aqui para vocês ouvirem.
+
+174
+00:06:53,180 --> 00:06:55,340
+E aí, o que eu preciso aqui? O que está faltando?
+
+175
+00:06:55,340 --> 00:06:56,500
+Não, não, não está dando para eu clicar.
+
+176
+00:06:56,560 --> 00:06:58,280
+Está faltando só um texto aqui.
+
+177
+00:06:58,560 --> 00:07:01,220
+Então eu puxo o texto para cá e falo para ele o seguinte.
+
+178
+00:07:03,772 --> 00:07:09,652
+Um elefante de armadura correndo.
+
+179
+00:07:11,420 --> 00:07:12,220
+Na estrada.
+
+180
+00:07:13,200 --> 00:07:13,980
+Puxo ele para cá.
+
+181
+00:07:16,060 --> 00:07:18,000
+puxa ele pra cá, e pronto, agora eu dou play.
+
+182
+00:07:18,200 --> 00:07:20,140
+Aí ele vai gerar um vídeo pra gente aqui,
+
+183
+00:07:21,020 --> 00:07:24,360
+baseado nessa imagem de referência aqui do elefante correndo, tá?
+
+184
+00:07:24,700 --> 00:07:26,720
+Então, isso aqui, quando eu tava mostrando,
+
+185
+00:07:26,840 --> 00:07:28,260
+deixa ele gerando aqui pra vocês, olha,
+
+186
+00:07:28,300 --> 00:07:30,280
+Free Pick Space, quando vocês verem no mood aqui,
+
+187
+00:07:30,700 --> 00:07:31,440
+esse é o processo.
+
+188
+00:07:31,820 --> 00:07:34,400
+Então, o mesmo personagem, gerou ele uma vez,
+
+189
+00:07:34,560 --> 00:07:36,480
+depois você pode ir gerando variações.
+
+190
+00:07:36,640 --> 00:07:38,600
+Então, é como se você pegasse essa imagem aqui,
+
+191
+00:07:38,600 --> 00:07:40,640
+foi o que a Thais fez, pegou uma imagem,
+
+192
+00:07:40,720 --> 00:07:43,020
+e dessa imagem ela começou a gerar variações,
+
+193
+00:07:43,440 --> 00:07:45,200
+usando aqui o C-Dream, tá vendo?
+
+194
+00:07:45,200 --> 00:07:49,560
+Então tem imagens incríveis aqui da mesma personagem com uma consistência absurda.
+
+195
+00:07:49,620 --> 00:07:53,040
+E aí muita gente fica assim, nossa, como que faz essas imagens incríveis?
+
+196
+00:07:53,160 --> 00:07:56,260
+A galera fica vendendo isso pra vocês como se o truque fosse a ferramenta.
+
+197
+00:07:56,500 --> 00:07:57,140
+Não é.
+
+198
+00:07:57,580 --> 00:08:00,220
+Tô entregando aqui pra vocês de graça porque não é.
+
+199
+00:08:00,320 --> 00:08:01,360
+É repertório.
+
+200
+00:08:01,700 --> 00:08:02,240
+Tá bom?
+
+201
+00:08:02,640 --> 00:08:06,900
+Então, se vocês criarem uma conta aí hoje, vocês vão falar, nossa, realmente, é muito fácil.
+
+202
+00:08:07,240 --> 00:08:07,660
+Olha aqui, ó.
+
+203
+00:08:07,660 --> 00:08:09,120
+Pegou uma referência de um modelo.
+
+204
+00:08:11,036 --> 00:08:12,516
+trouxe aqui pra ele as
+
+205
+00:08:13,336 --> 00:08:14,556
+derivações, com o mesmo modelo, tá vendo?
+
+206
+00:08:14,636 --> 00:08:16,876
+Mantendo a consistência. Qual que é
+
+207
+00:08:16,876 --> 00:08:18,596
+o segredo da consistência? O modelo de IAC
+
+208
+00:08:18,596 --> 00:08:20,816
+que você usa, basicamente. Se você usar modelos
+
+209
+00:08:20,816 --> 00:08:22,396
+mais antigos ou modelos mais fracos,
+
+210
+00:08:22,456 --> 00:08:24,496
+eles perdem consistência e não funcionam bem.
+
+211
+00:08:24,636 --> 00:08:26,876
+Só que os modelos mais atuais, os que funcionam
+
+212
+00:08:26,876 --> 00:08:28,776
+bem, também gastam mais créditos, então você
+
+213
+00:08:28,776 --> 00:08:30,576
+tem que levar isso em consideração.
+
+214
+00:08:30,736 --> 00:08:32,736
+Tá bom? Aqui tá mais um exemplo
+
+215
+00:08:32,736 --> 00:08:34,016
+que a Thais pegou, olha.
+
+216
+00:08:35,484 --> 00:08:37,084
+que ela fez de teste para mostrar para vocês.
+
+217
+00:08:39,388 --> 00:08:41,088
+Aqui tem um outro também do Freepik Space,
+
+218
+00:08:41,228 --> 00:08:43,548
+pegou esse prompt, você pode dar um pause aí
+
+219
+00:08:43,548 --> 00:08:45,788
+se quiser entender a estrutura dele.
+
+220
+00:08:47,388 --> 00:08:49,268
+Aqui tem o que o prompt gerou,
+
+221
+00:08:49,288 --> 00:08:52,948
+e aí a gente pegou um objeto que é extremamente específico,
+
+222
+00:08:52,948 --> 00:08:54,968
+essa era a ideia do teste aqui para mostrar para vocês,
+
+223
+00:08:55,608 --> 00:08:59,468
+extremamente específico, cheio de coisas aqui que é único, né?
+
+224
+00:08:59,508 --> 00:09:01,568
+Como se fosse um produto seu, tem detalhes seus.
+
+225
+00:09:01,728 --> 00:09:05,308
+E aí está aqui o produto aplicado ali dentro de um ambiente.
+
+226
+00:09:05,428 --> 00:09:06,888
+Pensa para e-commerce, por exemplo.
+
+227
+00:09:06,888 --> 00:09:08,388
+Juan, como que vocês fizeram isso?
+
+228
+00:09:08,488 --> 00:09:08,968
+Meu Deus!
+
+229
+00:09:09,288 --> 00:09:10,888
+Free Pick Space aqui, ó.
+
+230
+00:09:11,328 --> 00:09:12,668
+Acho que está em um outro projeto.
+
+231
+00:09:13,008 --> 00:09:15,188
+Mas, de novo, não tem.
+
+232
+00:09:15,188 --> 00:09:17,908
+Bem, mistério, eu estou abrindo a caixa preta para vocês aqui e falando,
+
+233
+00:09:18,088 --> 00:09:22,608
+se vocês começarem a usar e criar, vocês vão aprender sozinhos.
+
+234
+00:09:23,068 --> 00:09:24,988
+O que falta, às vezes, é coragem para começar.
+
+235
+00:09:25,308 --> 00:09:28,048
+Mas olha só, a gente tem o projeto aqui com o prompt dele,
+
+236
+00:09:28,908 --> 00:09:32,168
+gerou o projeto daqui e começa a gerar, então, enquadramentos.
+
+237
+00:09:32,168 --> 00:09:34,128
+Vocês já aprenderam o que faz isso aqui?
+
+238
+00:09:34,288 --> 00:09:37,228
+Olha lá, Extreme Close-Up Detail Shot.
+
+239
+00:09:37,388 --> 00:09:41,028
+É você saber escrever o prompt dentro do que eu acabei de ensinar para você.
+
+240
+00:09:41,348 --> 00:09:44,068
+Aí a Thais gerou aqui algumas visualizações dele
+
+241
+00:09:44,068 --> 00:09:47,128
+e está ele aqui também aplicado em um ambiente.
+
+242
+00:09:47,388 --> 00:09:51,828
+Não tem segredo nenhum, zero segredo aqui.
+
+243
+00:09:53,436 --> 00:09:54,756
+Quando vocês forem divulgar o Verlaine,
+
+244
+00:09:54,796 --> 00:09:55,596
+lembrem-se disso também,
+
+245
+00:09:55,776 --> 00:09:57,836
+que eu abro a caixa mesmo,
+
+246
+00:09:58,176 --> 00:09:59,136
+principalmente quando é simples,
+
+247
+00:09:59,536 --> 00:10:01,176
+porque eu quero que vocês aprendam isso aqui.
+
+248
+00:10:01,296 --> 00:10:02,396
+O avançado mesmo,
+
+249
+00:10:02,496 --> 00:10:04,096
+que vai fritar a cabeça de vocês,
+
+250
+00:10:05,196 --> 00:10:06,236
+ainda está por vir.
+
+251
+00:10:06,296 --> 00:10:07,696
+Mas isso aqui não é mais segredo,
+
+252
+00:10:07,696 --> 00:10:08,556
+isso aqui não é mais difícil,
+
+253
+00:10:08,736 --> 00:10:09,816
+qualquer pessoa pode fazer.
+
+254
+00:10:09,956 --> 00:10:10,896
+Por isso que eu falo para vocês,
+
+255
+00:10:10,976 --> 00:10:11,976
+compartilhem com todo mundo,
+
+256
+00:10:12,096 --> 00:10:13,096
+compartilhem esse vídeo aqui,
+
+257
+00:10:13,496 --> 00:10:14,816
+ainda mais que vai ficar até domingo,
+
+258
+00:10:14,836 --> 00:10:16,696
+fala, cara, o Juan mostrou lá como que faz,
+
+259
+00:10:16,756 --> 00:10:17,856
+está pronto, é só você pegar e assistir,
+
+260
+00:10:18,176 --> 00:10:19,056
+está de graça,
+
+261
+00:10:19,176 --> 00:10:20,316
+abriu a caixa preta,
+
+262
+00:10:20,316 --> 00:10:21,656
+não tem segredo, não tem mistério,
+
+263
+00:10:21,656 --> 00:10:23,556
+sério, não precisa pagar caro pra aprender isso aqui
+
+264
+00:10:23,556 --> 00:10:25,496
+mais, tá? Isso aqui é coisa que já
+
+265
+00:10:25,496 --> 00:10:27,636
+tá resolvida. Aqui um outro
+
+266
+00:10:27,636 --> 00:10:29,536
+exemplo de produto, né? Olha
+
+267
+00:10:29,536 --> 00:10:30,796
+que interessante, o produto aqui,
+
+268
+00:10:31,296 --> 00:10:33,336
+aqui ele em close-up,
+
+269
+00:10:33,336 --> 00:10:35,516
+ele num outro ângulo, e ele
+
+270
+00:10:35,516 --> 00:10:36,496
+dentro do ambiente.
+
+271
+00:10:37,176 --> 00:10:39,276
+Se quiser, ah, eu quero menor, maior,
+
+272
+00:10:39,336 --> 00:10:41,256
+você tem que descrever mais também, né?
+
+273
+00:10:41,276 --> 00:10:43,476
+O tamanho dele aqui. Aqui um outro
+
+274
+00:10:43,476 --> 00:10:44,696
+objeto pra vocês verem, ó.
+
+275
+00:10:45,396 --> 00:10:47,656
+Então tá aqui, como se fosse uma Alexa.
+
+276
+00:10:48,316 --> 00:10:49,616
+Aí um zoom aqui,
+
+277
+00:10:49,616 --> 00:10:51,556
+Olha, imagina um e-commerce com essas fotos aqui.
+
+278
+00:10:51,696 --> 00:10:53,096
+Cara, bom demais, né?
+
+279
+00:10:53,916 --> 00:10:55,856
+Vocês estão vendo aqui que não tem segredo.
+
+280
+00:10:56,016 --> 00:10:57,116
+O segredo é o modelo.
+
+281
+00:10:57,376 --> 00:10:59,256
+Olha o modelo que está sendo usado aqui.
+
+282
+00:10:59,556 --> 00:11:00,436
+Modelo de ponta.
+
+283
+00:11:00,936 --> 00:11:03,316
+O Nano Banana também faz imagens boas assim, né?
+
+284
+00:11:03,396 --> 00:11:05,776
+Mas a gente tem curtido muito mais o Citroën aqui, tá?
+
+285
+00:11:07,004 --> 00:11:09,224
+Legal? Tem mistério? Não tem, né?
+
+286
+00:11:09,804 --> 00:11:12,444
+Então, tá aí o processo pra vocês também.
+
+287
+00:11:12,524 --> 00:11:13,904
+O próximo passo seu é qual?
+
+288
+00:11:14,044 --> 00:11:16,084
+É pegar isso aqui e experimentar agora.
+
+289
+00:11:16,324 --> 00:11:19,444
+Esse é o nosso processo, é assim que a gente constrói aqui.
+
+290
+00:11:21,180 --> 00:11:22,940
+na parte de gerar as imagens, tá?
+
+291
+00:11:23,000 --> 00:11:24,400
+Quando a gente quer gerar mais imagens assim.
+
+292
+00:11:24,740 --> 00:11:27,040
+Aqui também dá pra fazer isso no FreePix Space,
+
+293
+00:11:27,220 --> 00:11:29,820
+ou você pode fazer isso aqui no Nanobanana,
+
+294
+00:11:29,920 --> 00:11:32,700
+que é usar referências aqui, ó, que a gente tem um sketch,
+
+295
+00:11:33,000 --> 00:11:37,520
+e olha só, aqui a gente tem a casa num ângulo específico,
+
+296
+00:11:37,520 --> 00:11:39,460
+baseado nesse mesmo sketch aqui, ó.
+
+297
+00:11:39,460 --> 00:11:41,700
+Se você reparar a casinha, aqui um pergoladozinho,
+
+298
+00:11:41,980 --> 00:11:44,140
+o segundo andar com as cadeirinhas, repara aqui, ó.
+
+299
+00:11:44,840 --> 00:11:46,000
+Tá tudo aqui, entendeu?
+
+300
+00:11:46,540 --> 00:11:49,320
+Então, isso aqui, inclusive, olha, mercado imobiliário,
+
+301
+00:11:49,320 --> 00:11:50,320
+cara, eu
+
+302
+00:11:50,940 --> 00:11:53,380
+eu que tô focado em educação aqui, eu tô realmente
+
+303
+00:11:53,380 --> 00:11:55,620
+muito focado em ensinar isso pra vocês
+
+304
+00:11:55,620 --> 00:11:57,600
+é o meu papel, é onde eu escolhi atuar
+
+305
+00:11:57,600 --> 00:11:59,680
+é onde eu escolhi fazer minha vida
+
+306
+00:11:59,680 --> 00:12:01,680
+mas se eu tivesse, se eu fosse
+
+307
+00:12:01,680 --> 00:12:02,540
+focar em estúdio
+
+308
+00:12:03,200 --> 00:12:05,380
+eu iria atender esses
+
+309
+00:12:05,380 --> 00:12:07,720
+mercados assim e aproveitar a janela de oportunidade
+
+310
+00:12:07,720 --> 00:12:08,740
+que vocês tem na frente agora
+
+311
+00:12:08,740 --> 00:12:11,240
+e é exatamente isso que eu quero ensinar pra vocês
+
+312
+00:12:11,240 --> 00:12:13,480
+no Atlas do dia 11, do dia 12
+
+313
+00:12:13,480 --> 00:12:15,220
+de abril, que tá
+
+314
+00:12:15,220 --> 00:12:17,520
+19 e 90 no lote
+
+315
+00:12:17,520 --> 00:12:19,420
+inicial agora. Se você não comprou ainda,
+
+316
+00:12:19,540 --> 00:12:21,060
+compra essa jossa, cara, porque
+
+317
+00:12:22,172 --> 00:12:24,532
+Se você está curtindo isso aqui, eu estou te falando, isso é o básico.
+
+318
+00:12:25,072 --> 00:12:26,572
+Lá você vai ver o outro nível.
+
+319
+00:12:27,996 --> 00:12:30,316
+Aqui um outro ângulo da mesma casinha, tá vendo?
+
+320
+00:12:30,416 --> 00:12:32,316
+Aqui nem era um pergolado, né? Deixa eu só ver uma coisa.
+
+321
+00:12:32,596 --> 00:12:34,676
+Era um vidro, né? Estava funcionando como vidro.
+
+322
+00:12:35,296 --> 00:12:37,916
+Aqui ele estava como pergolado, ou seja, teve diferenças, tá vendo?
+
+323
+00:12:38,076 --> 00:12:40,716
+A IA também não faz tudo perfeitinho, mas você pode descrever.
+
+324
+00:12:40,816 --> 00:12:43,076
+Se isso aqui estiver no prompt, é porque não estava.
+
+325
+00:12:43,316 --> 00:12:47,216
+Se a gente coloca no prompt, não ia ser vidro, ia ser o pergoladinho certinho.
+
+326
+00:12:47,356 --> 00:12:50,016
+E aí quem tem o olhar, o arquiteto que está trabalhando isso,
+
+327
+00:12:50,056 --> 00:12:52,976
+o designer que está trabalhando isso, vai perceber e vai ajustar.
+
+328
+00:12:53,236 --> 00:12:56,036
+Às vezes ele faz isso também, olha, que droga de carro é esse aqui?
+
+329
+00:12:56,036 --> 00:12:58,116
+nunca vi esse carro, olha esse pneu aqui
+
+330
+00:12:58,116 --> 00:13:00,136
+tem como corrigir, Juan? Tem como
+
+331
+00:13:00,136 --> 00:13:02,316
+corrigir, você pode corrigir tanto no próprio
+
+332
+00:13:02,316 --> 00:13:04,316
+Freepeek, quanto também você pode
+
+333
+00:13:04,316 --> 00:13:05,596
+ou usar o Photoshop
+
+334
+00:13:05,596 --> 00:13:06,876
+ou usar o
+
+335
+00:13:08,136 --> 00:13:10,076
+Freepeek, já que vocês estão assinando, vai ser mais fácil
+
+336
+00:13:10,076 --> 00:13:12,136
+pra vocês, que é só vocês irem editar a imagem
+
+337
+00:13:14,140 --> 00:13:16,080
+Aqui no gerar imagens, olha,
+
+338
+00:13:16,180 --> 00:13:18,200
+você pode subir uma imagem específica
+
+339
+00:13:18,200 --> 00:13:19,680
+e vir aqui em editar imagens.
+
+340
+00:13:19,840 --> 00:13:22,000
+Você sobe a sua imagem que você quer trabalhar aí
+
+341
+00:13:22,000 --> 00:13:22,980
+e edita ela.
+
+342
+00:13:23,760 --> 00:13:25,960
+A Thaís fazendo altas imagens legais aqui
+
+343
+00:13:25,960 --> 00:13:27,440
+e eu estragando com o elefante, né?
+
+344
+00:13:27,480 --> 00:13:28,660
+Porque eu não me preocupei com prompt,
+
+345
+00:13:28,820 --> 00:13:30,320
+eu só queria mostrar o processo pra vocês.
+
+346
+00:13:31,836 --> 00:13:35,156
+Mas enfim, você consegue editar a imagem também, corrigir esses problemas aí,
+
+347
+00:13:35,176 --> 00:13:37,516
+trocar por um carro que existe, ou tirar, deixa sem carro.
+
+348
+00:13:39,004 --> 00:13:41,344
+Beleza, então aí tem outros exemplos de...
+
+349
+00:13:42,748 --> 00:13:45,088
+Ângulos diferentes pra mostrar essa mesma casa, né?
+
+350
+00:13:45,168 --> 00:13:47,448
+Você pode também pedir pra ela trocar aqui o ambiente.
+
+351
+00:13:47,528 --> 00:13:48,448
+Ah, não tá parecendo Brasil?
+
+352
+00:13:48,608 --> 00:13:51,128
+Coloca mais parecido aqui, sei lá, com...
+
+353
+00:13:53,148 --> 00:13:53,948
+Jurerê Internacional.
+
+354
+00:13:54,068 --> 00:13:57,748
+Isso aqui parece muito Jurerê Internacional em Florianópolis.
+
+355
+00:13:57,868 --> 00:13:59,688
+As casinhas lá são desse jeito, assim, ó.
+
+356
+00:14:00,308 --> 00:14:02,988
+Eu fiquei hospedado lá uma vez, são umas casas top lá, viu?
+
+357
+00:14:03,788 --> 00:14:04,408
+Bom demais.
+
+358
+00:14:05,852 --> 00:14:07,612
+Então, beleza. Aqui a gente tem mais um exemplo.
+
+359
+00:14:07,892 --> 00:14:09,332
+Esse aqui eu já tinha mostrado para vocês.
+
+360
+00:14:09,872 --> 00:14:12,212
+Bom, na parte de criação, esse é o processo.
+
+361
+00:14:12,512 --> 00:14:16,692
+Agora a gente vai arrematar isso aqui, falando do nosso processo de edição,
+
+362
+00:14:16,692 --> 00:14:18,612
+como que a gente faz, ferramentas que a gente utiliza,
+
+363
+00:14:18,612 --> 00:14:22,692
+depois que a gente gerou imagens e escolheu as melhores imagens para trabalhar aqui dentro.
+
+364
+00:14:22,852 --> 00:14:24,452
+Então, bora lá para fechar esse processo.
+

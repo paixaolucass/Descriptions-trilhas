@@ -1,0 +1,551 @@
+# Video: 6._quatro_fundamentos (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-28 09:58
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:06 --> 00:00:06:10] Nessa aula, nós vamos sintetizar um pouco do que nós falamos nas últimas aulas e definir
+[00:00:06:10 --> 00:00:10:22] a tese para todo o curso que nós vamos fazer daqui pra frente.
+[00:00:11:13 --> 00:00:16:09] Basicamente, nós temos mais quatro módulos, módulo de fundamentos das formas, fundamentos
+[00:00:16:09 --> 00:00:21:13] das cores, fundamentos da composição e fundamentos da mensagem.
+[00:00:21:16 --> 00:00:26:04] E nessa aula, eu vou te explicar como foi que eu cheguei nessa síntese.
+[00:00:26:04 --> 00:00:31:07] com mais de 20 tipos de princípios e fundamentos de design diferente,
+[00:00:31:16 --> 00:00:33:25] o que eu fiz para chegar nesse resumo
+[00:00:33:25 --> 00:00:37:05] de apenas 4 fundamentos da percepção visual.
+[00:00:37:17 --> 00:00:40:07] A verdade, eu já disse isso em alguma aula ou outra,
+[00:00:40:18 --> 00:00:43:24] é que existem muitos princípios, muitos fundamentos diferentes do design
+[00:00:43:24 --> 00:00:48:06] e a maioria deles eram explicados de maneira solta.
+[00:00:48:07 --> 00:00:49:18] Então você tinha um livro
+[00:00:49:18 --> 00:00:52:27] que apresentava 20 e tantos princípios do design,
+[00:00:53:05 --> 00:00:55:17] aí depois vinha alguém, sei lá, Dieter Hams e falava
+[00:00:55:17 --> 00:01:03:09] 10 princípios do bom design. Mas não só. Estamos vivendo em um tempo bem diferente do
+[00:01:03:09 --> 00:01:08:23] que quando esses livros foram escritos, muitos deles no período do modernismo, onde se
+[00:01:08:23 --> 00:01:14:13] buscava uma lei universal para fazer design. O mundo já mudou muito desde então. Hoje
+[00:01:14:13 --> 00:01:20:24] a gente vive num mundo muito mais contextual e relativo. Tudo depende de contexto. E
+[00:01:20:24 --> 00:01:22:00] Então só isso também.
+[00:01:23:10 --> 00:01:27:09] Cada livro apresenta um tipo diferente de teoria.
+[00:01:27:25 --> 00:01:30:07] Eu lidei com isso a primeira vez na faculdade.
+[00:01:30:24 --> 00:01:31:22] Eu estava...
+[00:01:31:22 --> 00:01:33:15] Eu lembro que eu estava no terceiro período
+[00:01:33:15 --> 00:01:36:06] e me veio essa dúvida pela primeira vez.
+[00:01:37:01 --> 00:01:38:21] Para que serve o design?
+[00:01:39:04 --> 00:01:41:28] Eu já tinha aprendido um pouco sobre história do design
+[00:01:41:28 --> 00:01:46:12] e tem uma frase do design que eu já estava ouvindo há bastante tempo.
+[00:01:46:18 --> 00:01:48:21] Há mais de um ano na faculdade que eu ouvia.
+[00:01:48:28 --> 00:01:50:09] Que é a frase do Louis Sullivan.
+[00:01:50:17 --> 00:01:52:04] Louis Sullivan é um arquiteto.
+[00:01:53:11 --> 00:01:58:18] um arquiteto americano do século passado, muito famoso e renomado, que disse uma frase
+[00:01:58:18 --> 00:02:01:04] que provavelmente você já deve ter ouvido por aí.
+[00:02:01:12 --> 00:02:06:08] Form follows function, ou seja, a forma segue a função.
+[00:02:06:21 --> 00:02:13:06] Essa frase dominou o mundo na época do design modernista, né, onde menos é mais,
+[00:02:13:10 --> 00:02:18:04] Miss van der Rohe falava isso, Louis Sullivan falava form follows function, a forma segue
+[00:02:18:04 --> 00:02:23:10] função e a gente deve focar no mínimo, aí tinha aquela frase também, o bom design
+[00:02:23:10 --> 00:02:30:19] é o design invisível. E aí, cara, o mundo foi dominado pelo minimalismo e pelo excesso
+[00:02:30:19 --> 00:02:35:19] de funcionalidade, né? Não excesso de funcionalidade, talvez não seja a melhor palavra, mas o
+[00:02:35:19 --> 00:02:42:13] excesso de valorização da funcionalidade. Ou seja, a forma não precisa ter uma função
+[00:02:42:13 --> 00:02:48:17] estética, ela só precisa ter uma função que acompanha a funcionalidade de cada objeto.
+[00:02:48:22 --> 00:02:53:25] A forma de uma cadeira é a forma da funcionalidade de uma cadeira, a forma de um controle remoto
+[00:02:53:25 --> 00:02:56:23] tem a forma da funcionalidade de um controle remoto.
+[00:02:58:04 --> 00:03:01:19] Mas, acontece né, como eu disse, o mundo mudou bastante desde então.
+[00:03:01:27 --> 00:03:07:14] Hoje o mundo é mais contextual, é mais relativo e o bom design ele depende muito
+[00:03:07:14 --> 00:03:15:26] mais de uma conexão entre o objetivo que você tem, o público com o qual você fala, o qual você vai
+[00:03:15:26 --> 00:03:21:16] atender, o tipo de empresa que você atende. Então, são uma série de fatores que você precisa
+[00:03:21:16 --> 00:03:29:20] levar em consideração. Nem sempre o minimalismo é a melhor opção, né? Muitas vezes o excesso de
+[00:03:29:20 --> 00:03:34:16] informação também pode comunicar alguma coisa, como a gente vai ver aqui. Mas acontece que era
+[00:03:34:16 --> 00:03:39:25] Era ali em 2016, terceiro período, e eu ouvi essa frase, a forma segue a função.
+[00:03:40:09 --> 00:03:43:27] Eu consegui entender essa frase quando eu pensava em design de produto, né?
+[00:03:44:00 --> 00:03:48:29] Então eu pensava em uma cadeira, a forma de uma cadeira segue a função de uma cadeira.
+[00:03:49:09 --> 00:03:53:12] Só que mesmo assim, se você parar para pensar no tanto de cadeira que existe, será
+[00:03:53:12 --> 00:03:55:25] que a forma segue a função e é puramente isso mesmo?
+[00:03:56:07 --> 00:04:00:05] Eu posso ter um banquinho, uma cadeira, eu posso ter uma cadeira de um...
+[00:04:01:01 --> 00:04:09:05] de uma cadeia, uma cadeira de uma prisão, uma cadeira de um refeitório, ou uma cadeira,
+[00:04:09:08 --> 00:04:10:14] um trono de um rei.
+[00:04:10:18 --> 00:04:12:20] Arma, mas trono é diferente de cadeira.
+[00:04:12:25 --> 00:04:15:24] É, mas a função dos dois é a mesma, alguém sentar ali.
+[00:04:16:04 --> 00:04:21:25] Mas a importância disso, o significado por trás dessa cadeira, muda drasticamente.
+[00:04:22:10 --> 00:04:24:20] Então, o que a gente precisa pensar?
+[00:04:24:25 --> 00:04:26:02] A gente precisa ir além da função.
+[00:04:26:14 --> 00:04:28:26] Não basta a forma apenas seguir a função.
+[00:04:28:26 --> 00:04:33:07] E eu lembro que eu comecei a entrar em conflito com isso ainda no terceiro período da faculdade.
+[00:04:33:10 --> 00:04:36:20] Eu falava, se a forma segue a função, qual que é a função do design gráfico?
+[00:04:36:27 --> 00:04:38:26] Onde o visual é a própria função?
+[00:04:39:06 --> 00:04:40:26] A forma vai ter forma de quê, então?
+[00:04:41:16 --> 00:04:43:28] Essa era a pergunta que eu me fazia.
+[00:04:44:02 --> 00:04:47:17] E aí eu comecei a ler mais livros para poder entender e até para entender o lugar
+[00:04:47:17 --> 00:04:49:00] do design gráfico nisso tudo.
+[00:04:49:13 --> 00:04:51:19] E acontece que de 2011...
+[00:04:51:19 --> 00:04:53:13] Eu entrei na faculdade em 2015, né?
+[00:04:53:13 --> 00:04:56:25] Mas esse questionamento começou mesmo em 2016.
+[00:04:56:25 --> 00:05:02:18] O primeiro ano de faculdade foi o ano do sonho, tudo era maravilhoso, conhecer um universo
+[00:05:02:18 --> 00:05:03:04] novo.
+[00:05:03:17 --> 00:05:07:04] Aí, já no segundo ano, terceiro período, eu começo a questionar, tentar entender
+[00:05:07:04 --> 00:05:08:14] de fato o que eu estava vendo.
+[00:05:09:00 --> 00:05:10:05] E aí começa essa questão.
+[00:05:10:19 --> 00:05:15:20] De lá pra cá, já foram 8 anos desde que eu comecei a me questionar sobre isso.
+[00:05:16:11 --> 00:05:21:07] E foi só quando eu comecei a dar aula que eu de fato consegui sistematizar isso.
+[00:05:21:14 --> 00:05:26:10] Antes de dar aula, eu meio que havia entendido, havia sacado qual era a função do design.
+[00:05:27:13 --> 00:05:31:15] que era transmitir uma mensagem, eu já tinha sacado isso, mas eu nunca tinha
+[00:05:32:07 --> 00:05:33:03] sistematizado isso.
+[00:05:33:14 --> 00:05:40:18] Então, em 2020, na verdade, no final ali de 2019, acho que foi isso mesmo,
+[00:05:40:20 --> 00:05:42:23] final de 2019, começa a dar aula,
+[00:05:43:20 --> 00:05:48:22] e aí em 2020 eu começo a estruturar essa metodologia.
+[00:05:48:29 --> 00:05:52:20] Eu lembro que na faculdade eu comecei a ler Gestalt do Objeto,
+[00:05:52:24 --> 00:05:54:09] um livro marcante para mim,
+[00:05:54:09 --> 00:05:59:16] E lá tinham vários princípios diferentes, depois eu fui pra esse aqui, princípios da
+[00:05:59:16 --> 00:06:04:21] forma e do desenho do Ursus Wong, outro também que tem um monte, um monte de princípios,
+[00:06:04:29 --> 00:06:08:13] vários, um ele vai jogando, um atrás do outro, só pra você ter uma noção, olha
+[00:06:08:13 --> 00:06:08:20] só.
+[00:06:10:02 --> 00:06:15:10] ele começa aqui ó, forma, repetição, estrutura, similaridade,
+[00:06:15:14 --> 00:06:20:23] gradação, radiação, anomalia, contraste, concentração, textura, espaço, forma
+[00:06:20:23 --> 00:06:24:25] bidimensional, aspecto da forma, visualização da forma, desenhando uma
+[00:06:24:25 --> 00:06:29:17] forma, tem muitos princípios, muitos, vários princípios. Aí vem Rudolf Ehren
+[00:06:29:17 --> 00:06:35:29] com Arte e Percepção Visual, outro livro que tem um monte de princípios
+[00:06:35:29 --> 00:06:41:08] diferentes, tá? Alguns princípios são semelhantes, alguns eles dão nomes diferentes pra eles.
+[00:06:41:20 --> 00:06:46:15] Depois veio os sinais e símbolos do Adrian Fruitgear com mais um monte de princípios,
+[00:06:46:15 --> 00:06:51:21] esse daqui já com uma noção um pouco diferente, mas bem interessante também. Geometria do
+[00:06:51:21 --> 00:06:55:16] design, eu era... Nossa, eu sonhava em ter esse livro um dia, depois eu comprei
+[00:06:55:16 --> 00:07:00:20] ele. Muito massa também. Sintaxe da linguagem visual, outro livro que eu ficava assim
+[00:07:00:20 --> 00:07:07:14] cara, que tanto de princípios diferentes. Sistema de retículas e grelhas com mais princípios,
+[00:07:07:19 --> 00:07:11:26] muitos desses princípios parecidos também. Teve um outro livro também que chama Curso
+[00:07:11:26 --> 00:07:16:17] de Design Gráfico, que foi um livro que eu li, também falava de muitos princípios
+[00:07:16:17 --> 00:07:21:29] diferentes e ficava um pouco difícil de organizar isso didaticamente quando eu queria
+[00:07:21:29 --> 00:07:25:07] dar aula, né? Eu queria fazer uma aula e eu falei, cara, eu vou ficar aqui passando
+[00:07:25:07 --> 00:07:28:23] um princípio de cada vez por aula, eles são muito importantes, eu preciso passar
+[00:07:28:23 --> 00:07:35:20] eles também, mas será que eles não têm nenhuma relação em comum? E foi nessa de tentar encontrar
+[00:07:35:20 --> 00:07:40:11] um modo de fazer isso que eu cheguei nos quatro fundamentos do design, que é a síntese de
+[00:07:40:11 --> 00:07:44:23] tudo isso, que basicamente são as formas, cores, composição e mensagem. Eu vou
+[00:07:44:23 --> 00:07:48:19] apresentar esses quatro fundamentos pra vocês, será sobre eles que nós vamos falar
+[00:07:48:19 --> 00:07:53:20] aqui ao longo do curso. Mas, eu quero contar pra você um pouco do meu raciocínio,
+[00:07:53:20 --> 00:07:58:23] para que você entenda a importância que essa síntese tem e qual que é o valor do design
+[00:07:58:23 --> 00:07:59:07] nisso tudo.
+[00:07:59:08 --> 00:08:01:26] Para que serve o design, afinal de contas?
+[00:08:02:06 --> 00:08:07:20] Então eu saí lá dessa frase aqui, Forms Follow Function, e então eu comecei a me
+[00:08:07:20 --> 00:08:10:21] questionar qual é a função do design gráfico.
+[00:08:10:23 --> 00:08:14:14] E a pergunta mais óbvia que me veio na cabeça é, deixar o mundo mais bonito?
+[00:08:14:25 --> 00:08:18:20] Se é gráfico, se é visual, meu objetivo é pegar as coisas que são feias e
+[00:08:18:20 --> 00:08:19:14] deixar bonitas?
+[00:08:19:28 --> 00:08:21:15] Essa é a minha função enquanto designer.
+[00:08:21:15 --> 00:08:24:19] Foi a primeira resposta que veio na minha cabeça.
+[00:08:25:07 --> 00:08:28:01] Então, fui pesquisar, falei vou estudar um pouco mais sobre beleza.
+[00:08:28:09 --> 00:08:29:12] O que é a beleza?
+[00:08:29:23 --> 00:08:31:11] Se é deixar o mundo mais bonito que a beleza.
+[00:08:31:15 --> 00:08:34:15] E foi aí que eu conheci uma ideia muito perigosa.
+[00:08:34:26 --> 00:08:40:15] Que é a ideia inclusive que acabou culminando no que é o nazismo.
+[00:08:40:27 --> 00:08:42:11] E a segunda guerra mundial.
+[00:08:42:29 --> 00:08:44:28] Grande parte dela influenciada por essa ideia.
+[00:08:45:20 --> 00:08:50:11] Que é a ideia de que existe um ser humano superior.
+[00:08:50:11 --> 00:08:55:08] E, mais do que um ser humano superior, existe uma beleza superior.
+[00:08:56:09 --> 00:09:04:00] Então, no século passado, essa ideia permeou por muitos anos, a ideia de que existe uma
+[00:09:04:00 --> 00:09:11:20] ideia perfeita, uma forma perfeita, uma aparência perfeita, um tipo de ser humano perfeito.
+[00:09:12:23 --> 00:09:16:21] e outros seres humanos são imperfeitos, né? Então, essa é uma ideia perigosa.
+[00:09:17:09 --> 00:09:19:27] E quando eu comecei a analisar por esse ponto de vista, eu falei, cara...
+[00:09:20:26 --> 00:09:23:04] Não é pra deixar o mundo mais bonito, sabe por quê?
+[00:09:23:19 --> 00:09:26:16] Se é pra deixar mais bonito, é pra deixar mais bonito pra que...
+[00:09:27:21 --> 00:09:31:07] Porque o que é bonito pra mim pode não ser tão bonito pra você.
+[00:09:31:19 --> 00:09:35:13] O que é certo pra mim pode ser inclusive errado pra você.
+[00:09:36:04 --> 00:09:41:01] E aí eu comecei a ter uma noção mais complexa do mundo, isso lá em 2016, tá?
+[00:09:41:01 --> 00:09:42:08] Enquanto eu me questionava sobre isso.
+[00:09:42:25 --> 00:09:45:27] Foi quando finalmente eu comecei a ter uma visão mais complexa do mundo.
+[00:09:46:08 --> 00:09:51:09] Eu comecei a ver que o mundo de fato é muito relativo, as coisas são relativas
+[00:09:51:09 --> 00:09:53:02] e tudo depende de contexto.
+[00:09:53:22 --> 00:09:55:07] E aí que eu fiquei mais louco ainda.
+[00:09:55:07 --> 00:09:58:12] Eu falei, cara, se tudo depende de contexto, qual que é a minha função como designer?
+[00:09:59:04 --> 00:10:00:01] Organizar os contextos?
+[00:10:00:06 --> 00:10:02:29] Mas quem sou eu pra dizer o jeito certo de organizar contextos?
+[00:10:03:12 --> 00:10:05:07] Quem sou eu pra dizer o que é bom e o que é ruim?
+[00:10:06:21 --> 00:10:09:12] Olha só que interessante. Foram questões que eu comecei a ter.
+[00:10:09:22 --> 00:10:12:26] E aí a primeira conclusão que eu cheguei é que essa não era a função do design.
+[00:10:12:29 --> 00:10:15:25] A função do design não é deixar o mundo mais bonito.
+[00:10:15:29 --> 00:10:19:13] A função do design não é organizar o mundo.
+[00:10:19:21 --> 00:10:27:03] Seria muita prepotência achar que algumas poucas pessoas com criatividade
+[00:10:27:03 --> 00:10:28:19] iriam organizar o mundo.
+[00:10:28:21 --> 00:10:32:04] Eu não acho que essa é a nossa função não e eu percebi isso muito cedo.
+[00:10:32:22 --> 00:10:36:03] Então eu comecei tentando buscar outras respostas.
+[00:10:36:03 --> 00:10:41:11] Falei, então, a função do design não é deixar o mundo mais bonito, então é o que?
+[00:10:42:21 --> 00:10:44:15] Deixar as coisas mais legíveis, talvez?
+[00:10:45:04 --> 00:10:50:21] Inclusive, na mesma época em que eu estava nessa de, será que design é deixar o mundo
+[00:10:50:21 --> 00:10:51:05] mais bonito?
+[00:10:51:22 --> 00:10:55:13] Eu estava estudando sobre história da arte, eu tinha aula de história da arte e do design
+[00:10:56:04 --> 00:11:01:23] e eu lembro que de uma aula que eu tive, na verdade foram mais aulas, mas eu tive
+[00:11:01:23 --> 00:11:04:21] algumas aulas que estavam falando sobre os movimentos artísticos e eu lembro da
+[00:11:04:25 --> 00:11:10:27] que eu tive sobre Arnavô. Se você vai estudar o Arnavô, você vê tanto o Arnavô quanto
+[00:11:10:27 --> 00:11:15:17] o Ecletismo Historicista, que veio antes do Arnavô. Eu sei que são nomes esquisitos,
+[00:11:15:19 --> 00:11:19:17] mas se você pesquisar aí você vai ver. Ecletismo Historicista foi quando as pessoas
+[00:11:19:17 --> 00:11:26:00] começaram a juntar móveis e coisas de eras diferentes no mesmo lugar e criar um
+[00:11:26:00 --> 00:11:30:09] negócio todo que não tinha sentido, não tinha conceito, não tinha estrutura.
+[00:11:30:10 --> 00:11:33:19] Eu só pegava vários objetos que eu achava legal de tudo quanto é canto e saía
+[00:11:33:19 --> 00:11:40:06] colocando lá, então ficava uma bagunça, não passava bem uma ideia de harmonia. E
+[00:11:40:06 --> 00:11:45:21] aí, eu falei, caralho, que esquisito. Depois disso veio o Arnavô, e o Arnavô me chocou
+[00:11:45:21 --> 00:11:51:16] mais ainda, porque essas fachadas que você está vendo aí, olha, são do período do
+[00:11:51:16 --> 00:11:57:06] Arnavô, que é uma época em que a gente acaba de passar pelo Arts and Crafts,
+[00:11:57:07 --> 00:12:03:06] que foi uma revolução contra a revolução industrial, foi um movimento contra a revolução
+[00:12:03:06 --> 00:12:07:25] industrial, porque os produtos e as casas estavam ficando muito industrializados.
+[00:12:08:02 --> 00:12:14:23] E aí houve um movimento de Arts and Crafts, que inclusive o Arts and Crafts acabou parindo,
+[00:12:14:23 --> 00:12:19:04] digamos assim, o design gráfico, o design como a gente conhece hoje, muito influenciado
+[00:12:19:04 --> 00:12:21:18] pelo Arts and Crafts, pelo William Morris também.
+[00:12:22:10 --> 00:12:25:11] E eles valorizavam muito as formas da natureza.
+[00:12:26:09 --> 00:12:27:05] E aí o que aconteceu?
+[00:12:27:10 --> 00:12:32:20] Meio que foi uma mistura de Arts and Crafts com o mundo industrializado, né?
+[00:12:32:20 --> 00:12:38:04] a gente começou a conseguir modelar mais o metal, fazer o metal na forma que a gente
+[00:12:38:04 --> 00:12:42:09] quisesse. Então, se você consegue ver nessa porta aí, meio de castelo Rá-Tim-Bum, né,
+[00:12:42:09 --> 00:12:47:07] que tem uma espécie de pavão ali no detalhe, em cima do olho, né? A gente tem dois olhos
+[00:12:47:07 --> 00:12:52:14] ali em cima e tem um pavão feito de ferro. Algumas cabeças têm muita influência do
+[00:12:52:14 --> 00:12:57:06] gótico também, mas pegando muito essas formas da natureza e colocando essas
+[00:12:57:06 --> 00:13:03:27] formas da natureza em objetos que não tem vida, como pedras, metais e por aí vai. E acabou gerando
+[00:13:03:27 --> 00:13:11:10] isso. As pessoas faziam e achavam maravilhoso. Hoje a gente olha pra isso e a maioria das pessoas
+[00:13:11:10 --> 00:13:17:17] vai achar muito feio, sombrio, gótico, né? Parece... fica parecendo o osso, de fato. Dá uma
+[00:13:17:17 --> 00:13:25:06] sensação de que são vários ossos, assim. E era algo muito valorizado naquela época, né?
+[00:13:25:06 --> 00:13:29:03] Então, olha só, eu já estava me questionando, cara, beleza!
+[00:13:30:04 --> 00:13:31:21] Eles achavam isso bonito, eu não acho isso bonito.
+[00:13:31:24 --> 00:13:35:09] E talvez o que eu acho bonito hoje, as pessoas do futuro não vão achar bonito também.
+[00:13:35:24 --> 00:13:39:22] Aí eu conheci o conceito de Zeitgeist, que é um termo alemão,
+[00:13:40:00 --> 00:13:41:12] depois você pode pesquisar também,
+[00:13:41:28 --> 00:13:46:07] que fala sobre o espírito do tempo, quanto que ele influencia a nossa percepção de mundo e tal.
+[00:13:46:22 --> 00:13:51:04] Naquela época eu estava começando a pensar muita coisa que vocês já viram nas aulas anteriores,
+[00:13:51:19 --> 00:13:53:28] já são pensamentos mais maduros,
+[00:13:53:28 --> 00:13:56:18] meu, depois de tanta reflexão sobre isso.
+[00:13:56:25 --> 00:14:02:10] Mas quando eu comecei a dar aula, então, eu comecei a organizar isso dentro de uma estrutura.
+[00:14:02:18 --> 00:14:06:21] Outra questão também que eu tinha muito era, beleza, se não é pra deixar o mundo
+[00:14:06:21 --> 00:14:10:27] mais bonito, será que é pra deixar o mundo então mais legível?
+[00:14:10:28 --> 00:14:14:14] Eu tava tentando substituir a palavra beleza por outra, né?
+[00:14:14:28 --> 00:14:17:00] Eu falei, será que é pra deixar o mundo mais legível?
+[00:14:17:21 --> 00:14:21:06] E aí, inicialmente, fazia sentido eu falar, talvez seja isso.
+[00:14:21:06 --> 00:14:25:09] As pessoas precisam entender a mensagem, tem que ser legível para elas.
+[00:14:25:16 --> 00:14:29:26] Por exemplo, se eu olho para uma sinalização em um aeroporto, as pessoas tem que entender
+[00:14:29:26 --> 00:14:30:23] o que está escrito ali.
+[00:14:31:07 --> 00:14:34:25] Então começou a fazer sentido para mim, que era para deixar o mundo mais legível.
+[00:14:35:09 --> 00:14:38:12] Até que eu comecei a ver projetos como esses assim.
+[00:14:38:18 --> 00:14:43:10] Falo, cara, isso aqui não está legível, mas isso comunica, eu sinto alguma coisa
+[00:14:43:10 --> 00:14:43:23] aqui.
+[00:14:44:10 --> 00:14:46:11] Isso também é design gráfico.
+[00:14:46:16 --> 00:14:49:13] Quer dizer que design gráfico é só o que é legível, que não é legível,
+[00:14:49:16 --> 00:14:50:21] não é design gráfico?
+[00:14:50:21 --> 00:14:55:19] Inclusive, o cara que fez essas capas aqui, ele tem uma frase, que é uma frase muito
+[00:14:55:19 --> 00:15:01:08] famosa também no mundo do design, que é, não confunda legibilidade com comunicação.
+[00:15:01:21 --> 00:15:07:14] David Carson fazia as capas da Ray Gunn, fez alguns cartazes também, ele era surfista,
+[00:15:08:04 --> 00:15:14:16] promovia alguns materiais da área do surf também e eu vi aquele material e falava,
+[00:15:14:18 --> 00:15:18:19] cara, é isso, não confunda legibilidade com comunicação.
+[00:15:18:19 --> 00:15:23:03] Para comunicar, não precisa ser legível, eu posso querer comunicar algo legível.
+[00:15:23:12 --> 00:15:27:19] E aí eu comecei a estudar mais sobre isso, comecei a ver os cartazes psicodélicos do
+[00:15:27:19 --> 00:15:32:04] período dos hippies e do período também dos punks, né?
+[00:15:32:16 --> 00:15:37:05] Tem uma série de cartazes do Wizz Wilson, você pode pesquisar aí cartaz Wizz Wilson
+[00:15:37:05 --> 00:15:38:19] no Google, você vai encontrar vários também.
+[00:15:38:22 --> 00:15:41:04] E olha só, não é tão legível.
+[00:15:41:20 --> 00:15:43:21] Para a lei isso aqui você tem que querer muito.
+[00:15:43:28 --> 00:15:48:04] E também depende da faixa etária, pessoas mais velhas vão ter muito mais dificuldade
+[00:15:48:04 --> 00:15:54:22] para leis que são pessoas mais novas. Então, é como se o próprio material estivesse me...
+[00:15:54:22 --> 00:16:00:04] estivesse repelindo um público ao mesmo tempo que atrai outro. E aí nessa, estudando, vários
+[00:16:00:04 --> 00:16:04:06] meses tá? Estou reunindo vários meses para você. Eu comecei a ver vários TED Talks,
+[00:16:04:07 --> 00:16:08:21] eu lembro que eu vi um TED Talk de 2014, se eu não me engano, o TED Talk é de 2014,
+[00:16:08:22 --> 00:16:16:10] mas eu devo ter visto ele em 2016, 2017, tá? Que é o TED Talk do... Fred Geli. Fred
+[00:16:16:10 --> 00:16:21:25] um dos fundadores da Tátil Design, e foi o cara que me apresentou o termo biomimética.
+[00:16:22:11 --> 00:16:28:15] E ele começou a fazer análises dos objetos na natureza com o mundo do design.
+[00:16:29:05 --> 00:16:33:20] E ele fala, assim, de um caso que aconteceu com ele, na faculdade também, que ele chegou
+[00:16:33:20 --> 00:16:37:29] com várias embalagens para a professora, e aí a professora dele...
+[00:16:39:13 --> 00:16:42:04] Disse, você acha que essas são boas embalagens?
+[00:16:42:15 --> 00:16:45:07] Você já pensou na embalagem que te trouxe ao mundo?
+[00:16:45:19 --> 00:16:47:25] Aí ele ficou, que embalagem que me trouxe ao mundo?
+[00:16:48:08 --> 00:16:49:11] É a barriga da sua mãe?
+[00:16:49:21 --> 00:16:50:21] A embalagem de uma banana?
+[00:16:50:22 --> 00:16:52:01] A embalagem de uma mexerica?
+[00:16:52:04 --> 00:16:55:14] Aí ele fala da mexerica que é comunitária, né, a tangerina.
+[00:16:55:29 --> 00:16:57:10] Ela é comunitária, né?
+[00:16:57:15 --> 00:17:00:20] Você consegue dividir entre as pessoas.
+[00:17:01:10 --> 00:17:02:27] Então, olha que interessante.
+[00:17:03:05 --> 00:17:04:18] Eu comecei a olhar e falar, cara...
+[00:17:05:19 --> 00:17:09:22] Talvez a função do design seja parecida com a função das flores na natureza, né?
+[00:17:10:03 --> 00:17:16:13] Porque as flores atraem certos tipos de pássaros, repelem outros, cada planta, tudo existe em
+[00:17:16:13 --> 00:17:21:13] uma interconectividade, tudo tá interconectado.
+[00:17:21:23 --> 00:17:23:12] Nada é separado, nada é linear.
+[00:17:23:26 --> 00:17:27:15] E essas coisas começaram a entrar na cabeça e eu falei, isso faz todo sentido.
+[00:17:28:22 --> 00:17:31:21] Até que eu conheci um designer chamado Paul Hand.
+[00:17:31:25 --> 00:17:38:17] E Paul Hand fala uma outra coisa interessante também, ele diz o seguinte, tudo é relativo,
+[00:17:38:27 --> 00:17:40:13] design é relação.
+[00:17:41:07 --> 00:17:46:28] Paul Hand já é mais ou menos da mesma época que David Kerson, David Kerson é mais novo
+[00:17:46:28 --> 00:17:51:07] que Paul Hand, Paul Hand morreu quando eu nasci, em 1996.
+[00:17:53:16 --> 00:17:57:00] E Paul Hand traz essa frase, eu li essa frase a primeira vez no livro Conversas
+[00:17:57:00 --> 00:18:01:18] componente que um professor meu tinha indicado em uma das aulas lá de Filosofia do Desen...
+[00:18:02:22 --> 00:18:09:16] E aí eu falei, cara, tudo é relativo, design é relação, relação entre pessoas, coisas
+[00:18:09:16 --> 00:18:11:04] e mensagens.
+[00:18:11:27 --> 00:18:18:05] E foi naquele momento que eu comecei a entender qual que é o poder e o potencial que existe
+[00:18:18:05 --> 00:18:19:00] dentro do design.
+[00:18:19:13 --> 00:18:23:05] Não era simplesmente deixar o mundo mais bonito porque isso é relativo, não era
+[00:18:23:05 --> 00:18:28:13] simplesmente sobre deixar o mundo mais legível porque isso é relativo, tudo é relativo.
+[00:18:28:19 --> 00:18:29:28] Design é relação.
+[00:18:29:28 --> 00:18:35:18] No livro, o Paul Handy ainda fala, pode ser a gravata do seu pai, pode ser o vestido da
+[00:18:35:18 --> 00:18:35:27] sua mãe.
+[00:18:36:09 --> 00:18:39:06] Mas a gravata do seu pai tem uma função diferente do vestido da sua mãe.
+[00:18:39:12 --> 00:18:40:23] Mas ambos possuem design.
+[00:18:42:01 --> 00:18:45:28] Entendendo todo esse conceito, eu começo a organizar na minha cabeça uma ideia.
+[00:18:46:15 --> 00:18:53:10] A ideia de que nós, enquanto designers, estamos aqui para conectar ideias e apresentar essas
+[00:18:53:10 --> 00:18:55:04] ideias para outras pessoas.
+[00:18:55:13 --> 00:18:57:15] Até que eu começo a ter aulas de semiótica.
+[00:18:57:16 --> 00:18:59:14] Olha como que as coisas vão se conectando, né?
+[00:18:59:27 --> 00:19:05:08] Mas ter aulas de semiótica, estudar mais sobre semiótica, entender o que são signos
+[00:19:05:08 --> 00:19:09:26] e entender uma palavinha muito importante dentro do design que é a palavra percepção.
+[00:19:09:26 --> 00:19:15:28] Lembro que eu comprei um livro de uma autora chamada Lúcia Santaella, chamado Percepção.
+[00:19:16:09 --> 00:19:17:27] E eu fui estudar o que é percepção.
+[00:19:18:15 --> 00:19:24:16] E esse livro foi a chavinha final para conectar todas essas peças e chegar em uma definição
+[00:19:24:16 --> 00:19:26:06] do que é design.
+[00:19:26:13 --> 00:19:28:12] Só para a gente reforçar, né?
+[00:19:28:17 --> 00:19:30:21] Quando a gente faz design, nós fazemos para alguém.
+[00:19:30:27 --> 00:19:32:10] Não tem como fazer design sozinho.
+[00:19:32:14 --> 00:19:33:25] Você sempre vai fazer design com alguém.
+[00:19:34:16 --> 00:19:38:05] Então você faz design para uma empresa e para conversar com o público dessa
+[00:19:38:05 --> 00:19:38:17] empresa.
+[00:19:38:17 --> 00:19:39:19] Pensa sobre isso.
+[00:19:39:25 --> 00:19:42:08] E, às vezes, uma empresa tem vários segmentos de público diferente,
+[00:19:42:21 --> 00:19:44:08] que nós chamamos de stakeholders, né?
+[00:19:44:09 --> 00:19:46:25] Então, tem o público principal, que é o que compra,
+[00:19:47:03 --> 00:19:49:22] mas tem os colaboradores, tem os acionistas, tem os parceiros,
+[00:19:49:27 --> 00:19:51:24] tem os envolvidos.
+[00:19:51:26 --> 00:19:53:15] E a marca precisa conversar com eles.
+[00:19:54:08 --> 00:19:56:25] Então, o design conversa com vários públicos diferentes.
+[00:19:56:29 --> 00:20:00:13] Às vezes, ele precisa passar a mesma mensagem para vários públicos diferentes.
+[00:20:01:06 --> 00:20:03:09] Isso já são variáveis importantes.
+[00:20:04:00 --> 00:20:07:11] E aí, eu começo a entender o que é briefing, a importância do briefing,
+[00:20:07:11 --> 00:20:10:00] para entender essas variáveis, para entender o contexto.
+[00:20:10:09 --> 00:20:15:16] E eu começo a perceber que o valor do design está em compreender o contexto,
+[00:20:15:24 --> 00:20:18:26] compreender as variáveis, conectar todos os pontos
+[00:20:18:26 --> 00:20:23:07] e chegar em um resultado que resolva essa equação,
+[00:20:23:14 --> 00:20:25:01] que são essas somas de variáveis.
+[00:20:25:03 --> 00:20:29:06] Então, tem x, y, z variáveis e eu preciso chegar em um resultado comum
+[00:20:29:06 --> 00:20:30:27] que funcione para o projeto.
+[00:20:31:10 --> 00:20:33:25] Aí eu começo a perceber o que é o design,
+[00:20:33:28 --> 00:20:36:18] qual é a diferença do design para a arte, por exemplo,
+[00:20:36:18 --> 00:20:40:28] sendo que a arte, eu posso fazer arte puramente para me expressar, eu não preciso pensar em
+[00:20:40:28 --> 00:20:42:05] mais ninguém ao fazer arte.
+[00:20:42:13 --> 00:20:47:21] Eu posso pensar só em mim, no que eu sinto, eu posso fazer arte só pensando nas minhas
+[00:20:47:21 --> 00:20:48:12] ideias.
+[00:20:48:16 --> 00:20:53:27] Pode ser que ninguém nunca veja a minha arte, mas no ato de fazer a arte, eu estou
+[00:20:53:27 --> 00:20:55:01] aplicando a arte ali, né?
+[00:20:55:01 --> 00:21:01:10] Tem um livro que até... o livro do Paul Hand, na entrevista do Paul Hand, ele indica que
+[00:21:01:10 --> 00:21:05:13] é arte como experiência, que é um livro filosófico também, mas fala muito sobre
+[00:21:05:13 --> 00:21:05:22] isso.
+[00:21:05:22 --> 00:21:10:04] E aí eu começo a conectar tudo isso então, olha só, estou jogando várias referências
+[00:21:10:04 --> 00:21:13:27] aqui para você entender mais ou menos como que eu chego nesse raciocínio que nós temos
+[00:21:13:27 --> 00:21:14:12] aqui hoje.
+[00:21:14:20 --> 00:21:19:09] Então eu conecto todas essas ideias, todas essas variáveis para poder chegar em uma
+[00:21:19:09 --> 00:21:24:10] definição única, juntando a filosofia, juntando o platão que eu sempre gostei
+[00:21:24:10 --> 00:21:26:04] de estudar e eu chego nessa definição.
+[00:21:26:18 --> 00:21:30:27] O design é uma ponte entre o mundo real e o mundo das ideias.
+[00:21:31:06 --> 00:21:34:27] E aí eu coloquei ali interação e percepção porque eu queria uma definição ainda mais
+[00:21:34:27 --> 00:21:40:15] porque existem outras profissões que também são uma ponte entre o mundo das ideias e o mundo real.
+[00:21:40:28 --> 00:21:47:15] Um inventor, o inventor pode ser um designer mas pode não ser, um engenheiro pode ser designer ou
+[00:21:47:15 --> 00:21:54:04] pode não ser, um escritor pode trabalhar no mundo das ideias e ir para o mundo real mas não
+[00:21:54:04 --> 00:22:00:04] necessariamente ser designer e por aí vai. Várias profissões trabalham nesse limiar
+[00:22:00:04 --> 00:22:04:25] assim, entre mundo real e mundo das ideias. Então, não era suficiente. E foi nessa de
+[00:22:04:25 --> 00:22:10:18] tentar ser o mais específico possível, né? O que que diferencia o design das outras profissões?
+[00:22:10:21 --> 00:22:14:11] Porque isso era uma coisa que eu sempre ficava confuso, né? Sempre que perguntava o que
+[00:22:14:11 --> 00:22:19:07] é design? Algumas pessoas falavam, designer resolveu problemas. Aí eu, poxa, encanador
+[00:22:19:07 --> 00:22:23:10] foi lá na sua casa, arrumou um cano que estava quebrado, ele é designer. Ele pode
+[00:22:23:10 --> 00:22:27:23] aplicar design, mas ele é designer? Não, ele não é designer, ele é um encanador.
+[00:22:27:23 --> 00:22:33:15] Ou então uma advogada que vai resolver um problema pra você jurídico, né?
+[00:22:34:00 --> 00:22:38:28] Ela resolveu um problema, mas ela não é designer, então eu pensava, cara, ser designer não
+[00:22:38:28 --> 00:22:39:08] é...
+[00:22:40:06 --> 00:22:44:12] exatamente resolver o problema de alguém. Isso é muito abrangente. Toda profissão
+[00:22:44:12 --> 00:22:47:25] é uma profissão de resolver algum problema. Para pra pensar um pouco sobre isso. Mas muita
+[00:22:47:25 --> 00:22:53:04] gente tem mania de falar, ser designer é resolver problemas, talvez focado em inovação. Ser
+[00:22:53:04 --> 00:22:56:28] designer é usar a inovação pra resolver problemas. Isso não encaixava na minha cabeça,
+[00:22:56:29 --> 00:23:02:11] eu achava que era abrangente demais pra definir o que é ser designer. E eu falava,
+[00:23:02:13 --> 00:23:05:27] tá, então não é deixar o mundo mais bonito, também não é resolver o problema
+[00:23:05:27 --> 00:23:11:25] das pessoas. Tem gente que fala também que ser designer é fazer projeto. Design é projeto.
+[00:23:12:11 --> 00:23:19:19] Design é projeto. De fato, design tem projeto. Você projeta ao fazer design. Mas nem todo
+[00:23:19:19 --> 00:23:26:22] projeto é design. De fato. Você usa design, mas nem todo mundo que projeta é um designer.
+[00:23:27:15 --> 00:23:30:18] Entende o raciocínio? Como assim, Rui? Me dá um exemplo de alguém que projeta mas
+[00:23:30:18 --> 00:23:35:24] não é designer. Vamos supor que eu vou fazer um projeto de vida. Um meu projeto de vida.
+[00:23:36:06 --> 00:23:41:22] É um projeto, mas ao fazer um projeto de vida eu posso falar que eu sou designer? Não necessariamente.
+[00:23:42:09 --> 00:23:46:20] Eu sei que a gente vive num mundo hoje que não é tão bom a gente ficar dentro de
+[00:23:46:20 --> 00:23:51:19] caixinhas. Mas ao alcançar uma definição mais específica, eu consigo entender também
+[00:23:51:19 --> 00:23:55:24] qual que é a minha posição enquanto designer. Eu sei que eu posso ser designer e posso
+[00:23:55:24 --> 00:23:58:17] ser artista também. Não é porque eu sou designer que eu não posso ser artista,
+[00:23:58:17 --> 00:24:02:29] Mas eu entendo que existe o momento de ser designer e o momento de ser artista.
+[00:24:03:01 --> 00:24:07:06] Mas para poder chegar nisso, eu preciso definir o que é o momento de ser designer.
+[00:24:07:28 --> 00:24:12:12] O que define a profissão do designer e não o design em si, tá?
+[00:24:12:14 --> 00:24:15:16] Porque eu concordo que qualquer pessoa pode usar o design.
+[00:24:15:22 --> 00:24:19:05] Tem até uma frase que fala que o design é muito legal e muito poderoso para ficar
+[00:24:19:05 --> 00:24:20:16] só na mão dos designers.
+[00:24:21:04 --> 00:24:22:06] Concordo com isso também.
+[00:24:22:19 --> 00:24:26:27] Mas, mesmo que outras profissões usem o design, não quer dizer que as pessoas
+[00:24:26:27 --> 00:24:32:04] que estão usando são designers. Entende? Vou te dar uma outra referência. Você estuda
+[00:24:32:04 --> 00:24:37:21] sobre as leis e monta um contrato. Isso faz de você um advogado? Não faz de você um
+[00:24:37:21 --> 00:24:43:12] advogado. Entende? Você pode estudar sobre engenharia mecânica e aprender a mexer
+[00:24:43:12 --> 00:24:48:03] no carro. Isso faz de você um mecânico? Não faz de você um mecânico. Você tem
+[00:24:48:03 --> 00:24:52:26] conhecimento sobre aquilo, mas não é o seu ofício. Entende a diferença? E foi
+[00:24:52:26 --> 00:24:57:10] E nessa, né, tô contando um pouco do que passava na minha cabeça, eu tentando definir
+[00:24:57:10 --> 00:24:58:27] que eu cheguei nessas duas palavras aqui.
+[00:24:59:25 --> 00:25:00:27] Interação e percepção.
+[00:25:01:04 --> 00:25:05:16] São duas palavras que estão intimamente ligadas com a nossa profissão.
+[00:25:05:22 --> 00:25:07:07] Intimamente ligadas com o design.
+[00:25:07:15 --> 00:25:09:22] E aí eu quero definir um pouco elas aqui com vocês.
+[00:25:09:24 --> 00:25:11:15] Começando pela interação.
+[00:25:12:00 --> 00:25:15:22] Design é sobre projetar, sim, mas projetar o quê?
+[00:25:16:10 --> 00:25:18:14] Interações entre a realidade e a imaginação.
+[00:25:18:26 --> 00:25:19:27] Então vamos voltar pra cá.
+[00:25:20:02 --> 00:25:20:15] Olha só.
+[00:25:20:15 --> 00:25:25:22] Qual é a profissão que projeta interações entre ideia e realidade?
+[00:25:26:02 --> 00:25:27:03] O que é uma interação?
+[00:25:27:15 --> 00:25:31:19] Se eu faço um carro, como que o ser humano interage com esse carro?
+[00:25:31:24 --> 00:25:35:27] Tanto a parte de ergonomia, que está totalmente ligado com design, quanto a parte também
+[00:25:35:27 --> 00:25:37:05] de painel, estética, tudo.
+[00:25:37:19 --> 00:25:41:15] Uma interação de um projeto, de uma pessoa com uma tecnologia.
+[00:25:41:21 --> 00:25:42:21] Ali eu tenho design.
+[00:25:43:09 --> 00:25:46:02] Ali quem trabalha essa interação são designers.
+[00:25:46:02 --> 00:25:53:03] Uma interação entre um site, o site é a interface, então uma interação entre um
+[00:25:53:03 --> 00:25:57:13] sistema e uma pessoa, um computador, e uma pessoa tem um sistema ali, quem faz esse
+[00:25:57:13 --> 00:25:58:28] sistema, quem desenvolve essas interfaces?
+[00:25:59:12 --> 00:26:00:07] São designers.
+[00:26:00:24 --> 00:26:03:18] Então, eu começo a levar para esse lado design e interação.
+[00:26:05:19 --> 00:26:10:16] Interessante, mas além de design ser interação, como que essa interação acontece?
+[00:26:11:04 --> 00:26:15:18] Então começou a fazer sentido, comecei a especificar, tá ligado com interação,
+[00:26:15:18 --> 00:26:18:21] Então, outra coisa legal é que independe da área do design, tá?
+[00:26:19:01 --> 00:26:23:16] Não importa se é moda, se é produto, se é ambiente, se é gráfico, se é jogos, qualquer
+[00:26:23:16 --> 00:26:28:20] área de design, as áreas do que a gente pode chamar de design mesmo, qualquer uma
+[00:26:28:20 --> 00:26:31:12] dessas áreas são áreas que trabalham com interações.
+[00:26:32:01 --> 00:26:34:12] Na moda, a interação da roupa com a pessoa.
+[00:26:35:02 --> 00:26:36:24] No produto, a interação do produto com a pessoa.
+[00:26:37:06 --> 00:26:42:09] No gráfico, a interação do material gráfico com a pessoa, como que a pessoa interage
+[00:26:42:09 --> 00:26:43:02] com aquele material.
+[00:26:43:10 --> 00:26:44:03] Isso é design.
+[00:26:44:03 --> 00:26:45:21] Então, eu tô trabalhando ali.
+[00:26:45:25 --> 00:26:47:19] Só que o como isso é feito também.
+[00:26:48:00 --> 00:26:49:04] Então, o que é design?
+[00:26:49:07 --> 00:26:50:29] Design é sobre projetar interações.
+[00:26:51:10 --> 00:26:52:27] Mas como essa interação é feita?
+[00:26:52:28 --> 00:26:56:14] Aí a gente entra em mais uma palavra importantíssima no campo do design.
+[00:26:56:22 --> 00:26:59:16] Talvez essa daqui seja a que mais define o design.
+[00:26:59:21 --> 00:27:03:07] Dentro de tudo que eu já estudei e compreendi é a palavra percepção.
+[00:27:04:00 --> 00:27:08:28] Design é conduzir a percepção das pessoas através dos cinco sentidos.
+[00:27:08:28 --> 00:27:14:09] Não tem outra área que trabalhe mais com isso do que designers.
+[00:27:14:27 --> 00:27:19:28] Não importa, de novo, se é gráfico, se é produto, se é ambiente, se é moda, se é jogos, se é jóias,
+[00:27:20:04 --> 00:27:25:19] que dentro de produtos a gente consegue ir ramificando, se é design de dados, visualização de dados,
+[00:27:25:28 --> 00:27:26:13] não importa.
+[00:27:27:19 --> 00:27:32:09] Independente da área de design, quando a gente fala de design, nós estamos falando de percepção.
+[00:27:32:09 --> 00:27:40:11] Designers são os profissionais que conduzem a percepção das pessoas através de estímulos
+[00:27:40:11 --> 00:27:41:05] sensoriais.
+[00:27:41:09 --> 00:27:42:19] Vamos destrinchar isso um pouco.
+[00:27:42:25 --> 00:27:46:05] Nós temos cinco sentidos, já estamos falando isso ao longo das últimas aulas.
+[00:27:46:27 --> 00:27:53:04] Então, tem a visão, audição, paladar, tato e olfato.
+[00:27:53:14 --> 00:27:54:13] Cinco sentidos.
+[00:27:54:24 --> 00:27:56:02] Quais são os mais utilizados?
+[00:27:56:07 --> 00:28:01:14] Visão e audição, que aí a gente tem o áudio visual, são os mais utilizados.
+[00:28:01:14 --> 00:28:04:10] Mas quando você cria um produto, você trabalha muito o tato também.
+[00:28:04:14 --> 00:28:07:09] Quando você cria um ambiente, você também trabalha o tato.
+[00:28:07:16 --> 00:28:11:06] Você também trabalha o olfato, qual que é o cheiro do ambiente, qual que é o cheiro do produto.
+[00:28:11:22 --> 00:28:16:00] Dependendo do produto, engenharia de alimentos, design de alimentos também, trabalha o gosto.
+[00:28:16:24 --> 00:28:19:28] Tudo o que envolve os cinco sentidos são áreas de design.
+[00:28:20:29 --> 00:28:24:15] Designers são profissionais que projetam estímulos.
+[00:28:25:03 --> 00:28:27:10] Então, guardo isso aí com você. Nós criamos estímulos.
+[00:28:27:10 --> 00:28:32:20] No caso aqui desse curso, nós estamos falando de design e percepção visual.
+[00:28:33:01 --> 00:28:36:12] Qual que é então o estímulo que a gente vai trabalhar aqui ao longo dos próximos
+[00:28:36:12 --> 00:28:36:24] módulos?
+[00:28:37:03 --> 00:28:37:19] É a visão.
+[00:28:39:10 --> 00:28:41:16] Esse sentido que capta o estímulo visual.
+[00:28:43:04 --> 00:28:50:02] Então design, basicamente concluindo toda essa história, todo esse estudo, a síntese
+[00:28:50:02 --> 00:28:54:16] que eu consegui chegar, é que design é sobre projetar interações entre o mundo
+[00:28:54:16 --> 00:29:01:22] ideal e o mundo real. E essas interações são projetadas através de estímulos sensoriais.
+[00:29:01:24 --> 00:29:06:02] Dependendo da área que você atua, por exemplo, existe design de som, design sonoro. Esse
+[00:29:06:02 --> 00:29:09:28] trabalha com o estímulo sonoro, trabalha com a nossa audição. Por exemplo, fazendo
+[00:29:09:28 --> 00:29:14:22] efeitos sonoros para trilhas sonoras, até mesmo trabalhando assets sonoros para marcas.
+[00:29:14:28 --> 00:29:19:09] Você já ouviu o som de um MacBook ou de um iMac quando liga, por exemplo? Aquilo
+[00:29:19:09 --> 00:29:22:22] é design sonoro, aquilo é uma percepção. Eu estou construindo uma percepção e eu
+[00:29:22:22 --> 00:29:27:21] os mesmos conceitos e as mesmas ferramentas. Eu tô trabalhando ali o quê? Semiótica,
+[00:29:27:27 --> 00:29:32:20] por exemplo. Qual que é a percepção que aquele projeto passa, que aquele estímulo
+[00:29:32:20 --> 00:29:36:27] passa pra uma pessoa. Design é conduzir a percepção das pessoas.
+[00:29:37:13 --> 00:29:39:28] Mas conduzir essa percepção pra onde?
+[00:29:41:04 --> 00:29:43:10] Como é que eu sei que eu estou conduzindo a percepção das pessoas?
+[00:29:43:15 --> 00:29:45:18] Inclusive, até a palavra conduzir é importante.
+[00:29:46:01 --> 00:29:47:18] Designers não criam percepção.
+[00:29:48:00 --> 00:29:49:17] Eles conduzem a percepção.
+[00:29:50:01 --> 00:29:54:04] Porque quem cria a percepção é a mente da pessoa e toda a vivência dela.
+[00:29:54:18 --> 00:29:57:14] Então, lembra lá, os quatro graus de influência da percepção, lembra?
+[00:29:58:00 --> 00:29:59:26] Tudo isso vai influenciar a percepção de uma pessoa.
+[00:30:00:07 --> 00:30:02:13] A gente tem a influência fisiológica, a influência ambiental,
+[00:30:02:17 --> 00:30:05:13] a influência social, barra cultural, influência individual.
+[00:30:05:21 --> 00:30:09:27] É isso que cria a percepção, mas nós conduzimos ela.
+[00:30:09:27 --> 00:30:15:23] Então, a pessoa vê um estímulo e esse estímulo conduz a percepção da pessoa para uma determinada
+[00:30:15:23 --> 00:30:16:08] direção.
+[00:30:16:14 --> 00:30:20:20] Se você vê um quadro, por exemplo, que é muito caótico e todo bagunçado, eu conduzo
+[00:30:20:20 --> 00:30:22:27] a sua percepção para esse caos e bagunça.
+[00:30:23:01 --> 00:30:23:08] Entende?
+[00:30:23:11 --> 00:30:24:13] Então, nós estamos aqui para isso.
+[00:30:24:20 --> 00:30:26:22] Só que a questão que veio é conduzir para onde?
+[00:30:27:08 --> 00:30:29:21] E aí que entra a mensagem.
+[00:30:29:29 --> 00:30:33:01] Então, dá só uma olhada na molécula do design.
+[00:30:33:04 --> 00:30:36:00] Foi assim que eu batizei ela, porque parece uma molécula química.
+[00:30:36:13 --> 00:30:39:09] Mas, basicamente, você vai notar que está tudo interligado.
+[00:30:39:09 --> 00:30:42:10] um depende do outro, não tem como fugir muito.
+[00:30:42:21 --> 00:30:46:05] Inclusive, quando você está fazendo forma, você também está fazendo composição.
+[00:30:46:21 --> 00:30:50:09] E as cores fazem parte das formas, de certa maneira, está tudo interligado.
+[00:30:50:23 --> 00:30:55:10] Mas, didaticamente, essa foi a melhor síntese que eu encontrei
+[00:30:55:10 --> 00:31:00:03] para poder organizar e para os meus alunos e alunas nunca mais esquecerem
+[00:31:00:03 --> 00:31:01:22] quais são os principais fundamentos do design.
+[00:31:01:25 --> 00:31:05:01] Porque quando a gente vai estudar de maneira segmentada, igual eu falei nos livros,
+[00:31:07:02 --> 00:31:09:17] Alinhamento, unidade, proporção...
+[00:31:09:17 --> 00:31:11:00] Quando você começa a estudar assim...
+[00:31:11:00 --> 00:31:13:18] Olha só, até aqui para eu ir lembrando um por um,
+[00:31:13:24 --> 00:31:16:26] eu não tenho uma linha que conecta todos eles.
+[00:31:17:00 --> 00:31:20:15] Quando eu faço isso aqui, eu tenho uma linha muito clara que conecta tudo.
+[00:31:20:29 --> 00:31:23:27] Então, nós vamos começar no módulo de fundamentos das formas.
+[00:31:24:22 --> 00:31:27:04] Então, nós vamos entender do que a forma é feita,
+[00:31:27:10 --> 00:31:30:28] desde o ponto, da linha, do plano...
+[00:31:30:28 --> 00:31:32:08] Todas as dimensões, né?
+[00:31:32:08 --> 00:31:38:01] Depois o volume, a dimensão do tempo e do espaço, a gente vai falar sobre isso das formas.
+[00:31:38:12 --> 00:31:43:09] Vamos falar sobre as duas camadas das formas, você vai entender isso já na próxima aula,
+[00:31:43:20 --> 00:31:45:19] que é a aula de introdução ao mundo das formas.
+[00:31:46:14 --> 00:31:50:01] A gente fala sobre tipografia aqui também, porque existem tipos de formas diferentes,
+[00:31:50:08 --> 00:31:53:27] algumas são concretas, outras são abstratas, algumas são símbolos, outras são ícones,
+[00:31:54:00 --> 00:31:54:28] outras são índices.
+[00:31:55:02 --> 00:31:58:21] Tem tipos diferentes de formas e nós trabalhamos elas aqui.
+[00:31:58:21 --> 00:32:04:28] Depois, nós trabalhamos as cores e aqui também nós vamos falar sobre os tipos de cores,
+[00:32:05:04 --> 00:32:08:27] as características das cores, matiz, saturação e brilho, como harmonizar essas cores.
+[00:32:09:08 --> 00:32:16:05] Mas tem uma coisa interessante, a dinâmica de todos os fundamentos aqui é baseada nessa
+[00:32:16:05 --> 00:32:18:01] tese da percepção.
+[00:32:18:14 --> 00:32:22:11] Então, eu já apresentei para você os quatro graus de influência da percepção,
+[00:32:22:18 --> 00:32:27:09] que é o grau fisiológico, o grau ambiental, o grau cultural, que às vezes eu chamo
+[00:32:27:09 --> 00:32:32:04] social também e o grau individual. Então, esses são os quatro graus de influência
+[00:32:32:04 --> 00:32:36:28] da percepção. E nós vamos analisar eles. Então, as formas no grau... Eu às vezes
+[00:32:36:28 --> 00:32:41:23] chamo de biológico também, tal, fisiológico. As formas no grau biológico, no grau fisiológico.
+[00:32:41:28 --> 00:32:46:12] As formas no grau ambiental, as formas no grau cultural, as formas no grau individual.
+[00:32:46:21 --> 00:32:51:08] A gente faz isso com as cores também. E aí você vai compreendendo como que esses
+[00:32:51:08 --> 00:32:56:23] elementos, formas, cores, composição, conduz a percepção das pessoas. Basicamente,
+[00:32:56:23 --> 00:33:04:07] nós vamos juntar formas e cores para criar composições. E aí aqui nós temos mais diretrizes
+[00:33:04:07 --> 00:33:10:01] de composição também, para usar a composição também para direcionar a percepção das
+[00:33:10:01 --> 00:33:14:17] pessoas. Tem composições que vão levar mais para o lado caótico, tem composições
+[00:33:14:17 --> 00:33:18:20] que vão levar mais para o lado da organização, da ordem. Então nós utilizamos também as
+[00:33:18:20 --> 00:33:22:25] composições para transmitir uma mensagem. No final, tem uma máxima que vocês vão
+[00:33:22:25 --> 00:33:27:22] eu ouvi falar muito, é que todos os fundamentos do design, ou seja, todos esses aqui que são
+[00:33:27:22 --> 00:33:33:05] os fundamentos principais e todos os outros fundamentos dentro desses aqui, vocês vão
+[00:33:33:05 --> 00:33:38:28] ver que existem vários subfundamentos aqui dentro de cada um deles, todos eles são
+[00:33:38:28 --> 00:33:43:17] subordinados da mensagem. Não importa inclusive se você é designer gráfico, de produto,
+[00:33:43:22 --> 00:33:49:16] de ambiente, de moda, não importa, a mensagem é o nosso objetivo final. O Louis
+[00:33:49:16 --> 00:33:56:11] O Solivan falou lá atrás que a forma segue a função e a função de qualquer design
+[00:33:56:11 --> 00:33:59:16] é a mensagem, a mensagem que esse projeto passa.
+[00:33:59:24 --> 00:34:05:13] Ah, mas a função também não é a interação, de fato, a interação que o projeto te passa
+[00:34:05:13 --> 00:34:05:23] também.
+[00:34:06:05 --> 00:34:12:07] Então, se você tem um projeto que é enviesado ou um projeto que não usa, inclusive, esses
+[00:34:12:07 --> 00:34:16:25] vieses para poder facilitar a vida das pessoas, nós, a maioria dos designers, vão dizer
+[00:34:16:25 --> 00:34:20:10] que esse projeto não é um bom projeto, porque não está facilitando a vida das pessoas,
+[00:34:20:15 --> 00:34:21:27] não está gerando nenhum benefício, né?
+[00:34:22:05 --> 00:34:25:19] Tem muito design ruim, que mais atrapalha a vida do que ajuda, de fato.
+[00:34:26:00 --> 00:34:29:26] Mas nós estamos falando ainda de percepção, que é o nosso jeito de perceber e interagir
+[00:34:29:26 --> 00:34:30:10] com o mundo.
+[00:34:30:21 --> 00:34:36:15] Interação e percepção são essas duas palavras juntas que formam a nossa função
+[00:34:36:15 --> 00:34:37:24] dentro do design.
+[00:34:38:02 --> 00:34:43:29] Agora, ao longo dos próximos módulos, nós vamos entrar e aprofundar em cada um
+[00:34:43:29 --> 00:34:48:14] desses tópicos, começando pelas formas, seguindo pelas cores, depois composição
+[00:34:48:14 --> 00:34:50:10] e por fim, mensagem.
+[00:34:50:13 --> 00:34:54:04] Quando você terminar a mensagem, você vai entender muito bem como tudo isso daqui
+[00:34:54:04 --> 00:34:59:21] está interligado e como você pode utilizar os estímulos visuais para conduzir a percepção
+[00:34:59:21 --> 00:35:00:17] das pessoas.
+[00:35:00:28 --> 00:35:05:22] Então esses são os quatro fundamentos, esse foi o raciocínio que eu tive que
+[00:35:05:22 --> 00:35:09:18] trabalhar ao longo de vários anos para chegar nessa conclusão e eu espero agora
+[00:35:09:18 --> 00:35:12:18] que você aproveite, eu gostaria muito de ter tido essa informação lá atrás
+[00:35:12:18 --> 00:35:17:04] quando eu comecei, mas fico muito feliz também, porque foi exatamente esse desafio,
+[00:35:17:10 --> 00:35:21:07] para tentar organizar um pouco melhor esse processo, que me fez chegar nessa teoria
+[00:35:21:07 --> 00:35:26:23] que eu te apresento aqui hoje, e que já ajudou vários designers a entenderem,
+[00:35:27:12 --> 00:35:30:29] compreenderem qual que é o poder e o potencial que nós temos enquanto designers.
+[00:35:31:06 --> 00:35:34:21] Então, essa foi a nossa última aula do módulo de princípios do design,
+[00:35:35:01 --> 00:35:36:25] e eu te vejo agora no próximo módulo.

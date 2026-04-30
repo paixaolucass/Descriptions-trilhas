@@ -1,0 +1,198 @@
+# Video: 8._trabalhando_bem_com_textos (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-28 01:07
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:02 --> 00:00:05:11] Agora nós vamos falar sobre o maior de todos os erros que designers cometem.
+[00:00:06:12 --> 00:00:14:01] O crime dos crimes, que é negligenciar a mensagem e os textos.
+[00:00:14:20 --> 00:00:17:06] Você ainda vai me ouvir muito falar a seguinte frase.
+[00:00:17:16 --> 00:00:22:18] Todos os fundamentos do design são subordinados da mensagem.
+[00:00:23:06 --> 00:00:31:26] Você, enquanto designer, tem o papel de transmitir uma mensagem e uma experiência para um público específico.
+[00:00:31:26 --> 00:00:34:12] Esse é o seu papel. Esse é o seu objetivo.
+[00:00:34:12 --> 00:00:38:14] Você não está aqui para poder criar uma obra de arte bonitinha.
+[00:00:38:17 --> 00:00:44:13] Você não está aqui para criar um projeto que vai te dar orgulho puramente porque você achou ele lindinho.
+[00:00:44:17 --> 00:00:46:25] Você está aqui para transmitir uma mensagem.
+[00:00:46:26 --> 00:00:48:29] Você está aqui para construir uma experiência.
+[00:00:49:12 --> 00:00:49:27] Lembra?
+[00:00:49:29 --> 00:00:53:21] Design é sobre conduzir a percepção das pessoas.
+[00:00:54:02 --> 00:00:59:14] Design é sobre construir interações entre o mundo das ideias e o mundo real.
+[00:00:59:18 --> 00:01:03:24] Por isso, a mensagem é muito, mas muito.
+[00:01:04:12 --> 00:01:06:18] importante. Nós vamos ter
+[00:01:06:18 --> 00:01:08:15] horas de aulas
+[00:01:08:15 --> 00:01:10:22] exatamente sobre esse assunto
+[00:01:10:22 --> 00:01:12:20] e sobre esse erro. Mas aqui
+[00:01:12:20 --> 00:01:14:21] agora, para você que está começando,
+[00:01:14:23 --> 00:01:16:02] o que você precisa entender?
+[00:01:16:12 --> 00:01:18:03] Você precisa entender que
+[00:01:18:03 --> 00:01:20:21] a mensagem manda no projeto.
+[00:01:21:09 --> 00:01:22:14] Então, lá,
+[00:01:22:17 --> 00:01:24:16] quando você faz o briefing, entende qual que é o
+[00:01:24:16 --> 00:01:26:14] objetivo, qual mensagem eu quero transmitir, qual
+[00:01:26:14 --> 00:01:28:15] sensação eu quero passar, essas são
+[00:01:28:15 --> 00:01:30:08] respostas extremamente importantes
+[00:01:30:08 --> 00:01:31:24] que você precisa coletar.
+[00:01:31:24 --> 00:01:51:15] Mas não basta só coletar essas informações e gerar toneladas de textos, principalmente agora com o chat de EPT, Cloud, Gemini e todas essas LLMs, que são Large Language Models, modelos largos de linguagem, inteligências artificiais poderosíssimas, gerar texto agora virou a coisa mais banal do mundo.
+[00:01:51:20 --> 00:02:01:06] Você gera quilos de texto em minutos e isso é um grande problema se você quer trabalhar com design em um nível profissional.
+[00:02:01:24 --> 00:02:08:19] Por quê? Se você tem muito texto, as pessoas não vão se sentir atraídas para ler esse texto.
+[00:02:08:23 --> 00:02:11:23] E se isso acontecer, sua mensagem não foi transmitida.
+[00:02:11:27 --> 00:02:19:28] Por isso, você tem um papel importantíssimo de sintetizar a mensagem, tanto visualmente quanto em texto.
+[00:02:20:05 --> 00:02:23:09] O objetivo dessa aula é falar sobre duas coisas.
+[00:02:23:09 --> 00:02:32:21] sobre a mensagem dentro do texto, que é visível, clara, e a mensagem invisível das letras.
+[00:02:33:14 --> 00:02:37:20] A gente vai ter muito tempo para falar sobre isso ainda, mas aqui agora o que você precisa pegar?
+[00:02:37:29 --> 00:02:44:19] Regra número 1, excesso de texto no último do último do último caso.
+[00:02:44:27 --> 00:02:48:26] Se você está trabalhando uma revista, se você está trabalhando um livro, um e-book,
+[00:02:48:26 --> 00:02:52:12] Se você está trabalhando uma sessão específica de um website,
+[00:02:53:15 --> 00:02:56:21] tudo bem, eu entendo que você vai precisar de mais texto ali.
+[00:02:56:29 --> 00:03:00:15] Agora, post para a rede social, um banner,
+[00:03:01:12 --> 00:03:03:02] uma sessão de página web,
+[00:03:04:05 --> 00:03:06:18] um panfleto, uma papelaria,
+[00:03:07:15 --> 00:03:08:06] qualquer que seja,
+[00:03:09:03 --> 00:03:11:05] a maior parte dos projetos de design,
+[00:03:12:03 --> 00:03:14:23] você pode contar uma história visualmente
+[00:03:14:23 --> 00:03:18:18] e usar menos textos trabalhando com conceitos.
+[00:03:18:26 --> 00:03:23:14] Você vai fazer briefings gigantes, depois o seu papel é transformar isso em uma frase.
+[00:03:23:26 --> 00:03:25:29] Depois transformar em uma frase pequena.
+[00:03:26:13 --> 00:03:28:16] Depois transformar em uma palavra.
+[00:03:30:14 --> 00:03:32:25] Parece exagero, mas eu quero te mostrar um exemplo.
+[00:03:33:00 --> 00:03:36:14] E o exemplo que eu vou te mostrar, eu já até dei spoiler em uma outra aula,
+[00:03:36:16 --> 00:03:41:19] talvez você já até saiba qual que é o exemplo, mas é a nossa querida...
+[00:03:43:07 --> 00:03:44:23] Eu quero que você preste atenção nesse site.
+[00:03:45:17 --> 00:03:49:03] Olha só a quantidade de texto que nós temos aqui.
+[00:03:49:06 --> 00:03:54:13] Cada palavra aqui foi escolhida a dedo, foi pensada.
+[00:03:54:22 --> 00:03:58:16] E é esse processo que eu quero que você se atente.
+[00:03:58:21 --> 00:04:03:26] Você pode inclusive pedir o ChatGPT para te ajudar a fazer um texto mais simples, um texto mais curto.
+[00:04:04:00 --> 00:04:07:28] Mas olha só como nós temos pouco texto e muito visual.
+[00:04:08:10 --> 00:04:12:19] Porque aqui em poucos segundos eu já tenho uma sensação, eu já tenho uma mensagem.
+[00:04:13:07 --> 00:04:17:26] E aí, se eu quiser me aprofundar, eu clico aqui em ler a mais.
+[00:04:18:15 --> 00:04:22:04] Ainda assim, aqui dentro existe toda uma experiência.
+[00:04:22:22 --> 00:04:28:10] A gente passa por essa experiência e, novamente, pouco texto, bem hierarquizado.
+[00:04:28:22 --> 00:04:29:28] Eu rolo a página.
+[00:04:31:13 --> 00:04:33:02] um pouquinho pesada, inclusive essa página
+[00:04:33:02 --> 00:04:35:11] acho que tá pesada por causa do navegador que eu tô
+[00:04:35:11 --> 00:04:37:16] usando aqui. E olha só, um pouquinho
+[00:04:37:16 --> 00:04:39:06] mais de texto, mas ainda assim
+[00:04:39:27 --> 00:04:40:21] pouco texto.
+[00:04:41:13 --> 00:04:43:15] Olha só, mais um pouquinho de texto,
+[00:04:43:19 --> 00:04:45:07] muita coisa visual. Ah,
+[00:04:45:10 --> 00:04:46:23] mas eu não consigo fazer esses vídeos.
+[00:04:47:01 --> 00:04:48:20] Não, não é só vídeo, cara.
+[00:04:48:25 --> 00:04:51:13] A imagem também. Aqui a gente
+[00:04:51:13 --> 00:04:52:25] tá no site da Apple, mas olha só aqui, ó.
+[00:04:52:26 --> 00:04:55:12] Eu tenho um pouquinho de texto aqui. Ah, aqui já tem
+[00:04:55:12 --> 00:04:57:15] mais texto. É, mas é um parágrafo.
+[00:04:57:25 --> 00:04:59:13] Um parágrafo em cada
+[00:05:00:21 --> 00:05:05:13] Passou o parágrafo, olha aqui, imagens bem construídas, um pouquinho de texto.
+[00:05:07:09 --> 00:05:07:19] E continua.
+[00:05:09:08 --> 00:05:09:27] Ou o cutis.
+[00:05:13:02 --> 00:05:13:24] O que você acha?
+[00:05:16:14 --> 00:05:18:09] que a maior empresa do mundo faz assim.
+[00:05:21:14 --> 00:05:24:25] Você concorda comigo? Teve muito aprendizado para chegar aqui.
+[00:05:26:13 --> 00:05:27:08] Quero te mostrar isso.
+[00:05:28:15 --> 00:05:30:04] Vamos fazer uma engenharia reversa aqui.
+[00:05:30:06 --> 00:05:32:05] Vou colocar aqui, olha, Apple Ads.
+[00:05:34:09 --> 00:05:35:23] Apple Old Ads.
+[00:05:37:23 --> 00:05:41:03] colocar imagens e vamos dar uma olhada aqui nessa aqui, olha só.
+[00:05:42:18 --> 00:05:43:06] Vamos lá, de exemplo.
+[00:05:45:08 --> 00:05:46:02] Tava pequenininha.
+[00:05:46:09 --> 00:05:47:14] Deixa eu ver um outro exemplo.
+[00:05:48:06 --> 00:05:48:20] Essa.
+[00:05:49:27 --> 00:05:52:03] Olha só, os anúncios antigos
+[00:05:52:03 --> 00:05:53:18] era comum eles serem assim, tá?
+[00:05:54:06 --> 00:05:54:29] Bem comum.
+[00:05:56:28 --> 00:05:59:19] Então olha só a quantidade de texto que nós temos aqui.
+[00:06:00:08 --> 00:06:02:16] São todas imagens pequenininhas nesse caso.
+[00:06:03:08 --> 00:06:06:04] Deixa eu ver se eu consigo abrir aqui imagens maiores.
+[00:06:06:08 --> 00:06:08:00] Eu posso até vir aqui em ferramenta.
+[00:06:13:16 --> 00:06:16:00] Então, nós temos muito texto ali, muito texto aqui.
+[00:06:17:29 --> 00:06:18:09] Aqui.
+[00:06:20:22 --> 00:06:21:16] Isso aqui não tem design.
+[00:06:22:23 --> 00:06:24:17] Isso aqui é bem pobre.
+[00:06:25:28 --> 00:06:28:01] de design. Não tem um pensamento
+[00:06:28:01 --> 00:06:29:26] para criar um conceito, para te envolver.
+[00:06:30:13 --> 00:06:32:03] Ah, Juan, mas é porque é na revista,
+[00:06:32:03 --> 00:06:33:23] não tinha tempo para falar, tinha que explicar.
+[00:06:34:04 --> 00:06:35:12] É, porque a mesma
+[00:06:36:23 --> 00:06:38:00] Apple para de fazer
+[00:06:38:00 --> 00:06:39:09] isso aqui e começa a fazer isso aqui.
+[00:06:41:18 --> 00:06:47:09] A mesma Apple começa a fazer isso aqui em revista, continuam sendo revistas.
+[00:06:52:23 --> 00:06:54:12] Antes, aí foi evoluindo para cá.
+[00:06:54:16 --> 00:06:55:24] Olha o quanto texto tem aqui.
+[00:06:56:10 --> 00:06:57:14] Olha o quanto texto tem aqui.
+[00:06:57:22 --> 00:06:58:18] Ainda é pouco.
+[00:07:02:18 --> 00:07:03:13] Isso é muito importante.
+[00:07:03:27 --> 00:07:06:23] Eu não estou colocando que essa regra é inquebrável.
+[00:07:06:25 --> 00:07:07:24] Não é isso que eu quero te dizer.
+[00:07:08:09 --> 00:07:13:03] Mas ela vai funcionar na grande parte dos projetos que você cria.
+[00:07:14:15 --> 00:07:16:03] Simplicidade também serve para o texto.
+[00:07:16:16 --> 00:07:18:24] Então vamos supor que você está ali no chat GPT.
+[00:07:18:27 --> 00:07:19:25] Vou abrir uma nova aqui.
+[00:07:20:01 --> 00:07:21:27] E eu preciso criar um...
+[00:07:23:18 --> 00:07:27:23] Vamos colocar aqui uma página de uma revista para vender água de coco.
+[00:07:28:09 --> 00:07:31:28] Eu posso falar aqui para o Chat APT, eu posso passar para ele qual é a marca.
+[00:07:33:02 --> 00:07:34:28] Vou trabalhar com...
+[00:07:37:04 --> 00:07:38:09] A marca Soco.
+[00:07:39:23 --> 00:07:44:28] E criar um anúncio de página inteira em uma revista.
+[00:07:44:28 --> 00:07:47:03] Hoje em dia, revistas são cada vez menos comuns.
+[00:07:47:03 --> 00:07:48:09] Poderia ser um site também.
+[00:07:50:06 --> 00:07:52:25] Crie para mim um texto.
+[00:07:55:22 --> 00:07:59:20] os benefícios da água de coco em tópicos.
+[00:08:00:18 --> 00:08:04:01] Eu posso gerar esse valor, isso aqui é um tipo de anúncio,
+[00:08:04:01 --> 00:08:07:13] que é um anúncio com conteúdo, que gera um valor para as pessoas.
+[00:08:08:01 --> 00:08:11:23] E olha só, aqui ele ainda trouxe pouco texto,
+[00:08:11:27 --> 00:08:14:25] mas quando eu vou juntando tudo, vai virar muito texto.
+[00:08:15:03 --> 00:08:17:25] É legal que o próprio GPT já faz uma hierarquia, está vendo?
+[00:08:17:27 --> 00:08:19:06] Que a gente discutiu nas outras aulas.
+[00:08:19:08 --> 00:08:20:19] Então tem o título, o subtítulo,
+[00:08:20:21 --> 00:08:23:19] assim eu consigo escanear o conteúdo muito mais rápido, está vendo?
+[00:08:24:13 --> 00:08:26:26] Agora eu posso fazer o seguinte, ele mesmo já fez,
+[00:08:26:28 --> 00:08:29:17] só coco, pura como a natureza fez.
+[00:08:30:04 --> 00:08:31:11] Gostei, legal, bacana.
+[00:08:31:11 --> 00:08:33:25] Eu poderia gerar mais aqui opções para a gente.
+[00:08:35:11 --> 00:08:40:11] É bem provável que uma boa imagem, bem feita, né?
+[00:08:40:14 --> 00:08:41:00] Coloca aqui.
+[00:08:42:26 --> 00:08:49:21] Gere uma imagem de um coco na praia com um coqueiro atrás, desfocado.
+[00:08:49:26 --> 00:08:51:08] Vai ficar melhor a imagem?
+[00:08:53:07 --> 00:08:55:07] do mundo aqui, né? A gente tem toda a técnica
+[00:08:55:07 --> 00:08:57:04] pra gerar uma boa imagem, mas talvez ele até gera uma imagem
+[00:08:57:04 --> 00:08:58:25] bacana pra gente aqui experimentar.
+[00:08:59:09 --> 00:09:01:10] E aí, eu reforço, se você não assistiu
+[00:09:01:10 --> 00:09:03:14] ainda o curso sobre geração
+[00:09:03:14 --> 00:09:05:12] de imagens com IA, o link vai ficar aqui embaixo
+[00:09:05:12 --> 00:09:07:09] também. E aí, ó, ficou bacana, ficou
+[00:09:07:09 --> 00:09:08:19] legal, gerou essa imagem aqui,
+[00:09:09:00 --> 00:09:11:07] eu vou colocar esse texto em cima dela e pronto,
+[00:09:11:13 --> 00:09:13:16] coloco aqui, ó, pura como a natureza
+[00:09:13:16 --> 00:09:15:01] fez. Coloca a marca aqui embaixo,
+[00:09:15:07 --> 00:09:17:10] só coco. Refresque seu corpo e
+[00:09:17:10 --> 00:09:19:06] mente com o sabor e os benefícios da água de coco
+[00:09:19:06 --> 00:09:20:03] 100% natural.
+[00:09:21:18 --> 00:09:26:26] Isso é um anúncio que está vendendo uma ideia muito mais emocional para você
+[00:09:26:26 --> 00:09:28:09] e vende uma ideia rápido.
+[00:09:29:11 --> 00:09:33:09] Antigamente as pessoas compravam uma revista e aí beleza, vamos lá, vamos ler.
+[00:09:33:15 --> 00:09:36:29] Vamos ler Apple aqui, porque isso aqui era minha fonte de conhecimento.
+[00:09:37:04 --> 00:09:41:17] Hoje em dia está todo mundo ansioso, tudo acontece muito rápido, o tempo inteiro.
+[00:09:42:04 --> 00:09:47:05] E você precisa passar uma mensagem rápido, fazer as pessoas sentirem em segundos.
+[00:09:47:05 --> 00:09:53:03] segundos. Por isso, pouco texto é muito importante e essa recomendação eu não poderia deixar de
+[00:09:53:03 --> 00:09:58:00] passar para você. Depois eu vou te ensinar a fazer textos melhores, vou te ensinar a construir uma
+[00:09:58:00 --> 00:10:03:07] narrativa arquetípica, construir uma narrativa trabalhando semiótica. Nós vamos falar sobre tudo
+[00:10:03:07 --> 00:10:09:14] isso, pode ficar tranquilo. Agora você precisa entender esse princípio e já começar a aplicar
+[00:10:09:14 --> 00:10:15:28] ele dentro dos seus processos. Menos texto, simplicidade, boas imagens, hierarquia. Todas
+[00:10:15:28 --> 00:10:17:19] essas aulas que eu te passei aqui agora
+[00:10:17:19 --> 00:10:19:13] vão ser importantíssimas
+[00:10:19:13 --> 00:10:21:23] no seu desenvolvimento, dentro das
+[00:10:21:23 --> 00:10:23:21] oportunidades que eu vou te apresentar no
+[00:10:23:21 --> 00:10:25:27] próximo módulo, tá bom? Antes da gente
+[00:10:25:27 --> 00:10:27:20] fechar esse módulo, eu tenho mais uma aula pra te passar
+[00:10:27:20 --> 00:10:29:22] sobre cores, é importante eu falar sobre
+[00:10:29:22 --> 00:10:31:27] isso, são algumas questões técnicas
+[00:10:31:27 --> 00:10:33:21] que vão te ajudar a compreender
+[00:10:33:21 --> 00:10:35:21] melhor como trabalhar as cores, dependendo
+[00:10:35:21 --> 00:10:37:23] do dispositivo que você está
+[00:10:38:16 --> 00:10:39:20] utilizando, dependendo do
+[00:10:39:20 --> 00:10:42:00] suporte, melhor dizendo, que você está utilizando.
+[00:10:42:03 --> 00:10:43:27] Beleza? Te vejo então na nossa
+[00:10:43:27 --> 00:10:45:17] última aula do módulo de
+[00:10:45:17 --> 00:10:45:20] Aqui.

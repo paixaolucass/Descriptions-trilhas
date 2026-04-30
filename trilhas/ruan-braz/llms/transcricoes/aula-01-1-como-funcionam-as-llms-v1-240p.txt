@@ -1,0 +1,242 @@
+# Video: 1._como_funcionam_as_llms_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 09:10
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:01 --> 00:00:02:24] LLM, o Guia para Criativos.
+[00:00:02:27 --> 00:00:09:25] O objetivo desse minicurso é apresentar para você o que são as LLMs, como elas funcionam
+[00:00:09:25 --> 00:00:16:27] e alguns conceitos importantes que vão servir de degrau inicial para que a gente se aprofunde
+[00:00:16:27 --> 00:00:18:28] ainda mais nas inteligências artificiais.
+[00:00:19:18 --> 00:00:26:28] Existem muitos conteúdos sobre esse assunto na internet, sobre como as LLMs funcionam.
+[00:00:26:28 --> 00:00:33:25] Tem gente falando disso em várias comunidades, YouTube, Instagram, Reddit, X, está para todo lado esse assunto.
+[00:00:34:04 --> 00:00:42:27] Então você não vai ter dificuldade de encontrar informações sobre isso, inclusive até o próprio chat GPT pode te ensinar como que as LLMs funcionam.
+[00:00:43:13 --> 00:00:48:21] Mas por que eu decidi fazer esse mini curso para você? Primeiro, para te dar uma segurança psicológica.
+[00:00:48:22 --> 00:00:54:15] A gente hoje aqui vai seguir uma abordagem diferente nessa aula e nas outras aulas aqui desse mini curso.
+[00:00:55:21 --> 00:00:58:15] em que nós vamos estudar juntos, vamos levar dessa maneira.
+[00:00:58:22 --> 00:01:03:08] Eu já fiz um bom estudo sobre o assunto antes, eu já tenho conhecimento sobre isso,
+[00:01:03:10 --> 00:01:09:25] mas eu vou guiar o seu estudo aqui, porque eu quero que você aprenda a ter essa independência intelectual
+[00:01:09:25 --> 00:01:14:04] para aprender qualquer outro assunto que você vai estudar ao longo da sua vida,
+[00:01:14:07 --> 00:01:18:01] utilizando inclusive as próprias LLMs para te ajudar nesse processo.
+[00:01:18:13 --> 00:01:23:25] Então, nós vamos fazer como se fosse uma LLM se explicando.
+[00:01:25:03 --> 00:01:26:23] Ela se auto-explicando aqui para a gente.
+[00:01:26:26 --> 00:01:29:21] E vai ser um processo de estudo e eu vou ser o seu guia.
+[00:01:29:24 --> 00:01:32:28] Eu vou fazer perguntas importantes para te guiar nessa jornada.
+[00:01:33:04 --> 00:01:34:16] Por que eu decidi fazer isso?
+[00:01:34:19 --> 00:01:37:07] Porque apesar de ter muito conteúdo na internet sobre o assunto,
+[00:01:37:14 --> 00:01:41:18] a maior parte do conteúdo ou é raso demais ou é muito complicado,
+[00:01:41:20 --> 00:01:43:18] porque esse aqui é um tema complicado.
+[00:01:44:02 --> 00:01:47:15] Então, geralmente, as pessoas que são mais rasas costumam falar o seguinte,
+[00:01:48:08 --> 00:01:49:01] LLM é o quê?
+[00:01:49:09 --> 00:01:52:00] LLM é Large Language Model.
+[00:01:52:00 --> 00:01:57:18] Então, geralmente, as pessoas se limitam a dizer que LLMs são Large Language Models.
+[00:01:57:25 --> 00:02:02:17] Elas falam que o chat GPT, Gemini, Grok, Cloud, todas essas são LLMs.
+[00:02:02:19 --> 00:02:07:06] É verdade, todas são LLMs e a maioria das pessoas vão se limitar a dizer isso,
+[00:02:07:08 --> 00:02:09:09] que são modelos de linguagem largos.
+[00:02:09:11 --> 00:02:13:23] Esses são os cursos, cursos não, os conteúdos curtos sobre LLMs.
+[00:02:13:27 --> 00:02:18:08] E aí até falam de alguns conceitos, como janela de contexto, tokens, que a gente vai falar aqui hoje,
+[00:02:18:08 --> 00:02:24:20] mas é isso, não explicam qual que é a base, pelo menos o mínimo possível que eu preciso entender
+[00:02:24:20 --> 00:02:26:24] para trabalhar com essas LLMs.
+[00:02:27:05 --> 00:02:33:08] E do outro lado do espectro, nós temos as pessoas que já vão na direção contrária.
+[00:02:33:08 --> 00:02:36:01] O que elas fazem? Elas já chegam é com isso aqui na sua frente.
+[00:02:37:22 --> 00:02:42:04] Você fala, meu Deus, o que é isso aqui? Confusão total, esse conteúdo não é para mim, tchau.
+[00:02:42:11 --> 00:02:44:03] E vai embora, né?
+[00:02:44:11 --> 00:02:48:27] Essa é a lógica que geralmente nós temos na internet.
+[00:02:49:15 --> 00:02:53:19] Eu resolvi preencher uma lacuna aqui, trazendo um conteúdo.
+[00:02:55:07 --> 00:03:01:02] Explica como as LLMs funcionam o suficiente para você saber como trabalhar com elas,
+[00:03:01:21 --> 00:03:06:18] mas sem necessariamente precisar aprofundar tecnicamente em cada conceito
+[00:03:06:18 --> 00:03:10:06] e deixar a aula muito densa e muito especialista,
+[00:03:10:09 --> 00:03:14:12] que aí ela passa a ser uma aula para um público diferente, que não é o nosso caso aqui.
+[00:03:14:27 --> 00:03:17:05] Por que é importante você assistir isso aqui?
+[00:03:17:11 --> 00:03:22:04] Porque isso vai te ajudar a entender o funcionamento dessas inteligências artificiais,
+[00:03:22:04 --> 00:03:26:19] como o chat GPT, o Gemini, o Grok, o Cloud e várias outras.
+[00:03:26:22 --> 00:03:28:17] Vou apresentar aqui para vocês uma lista.
+[00:03:30:00 --> 00:03:34:26] E entendendo a base de como essas inteligências artificiais funcionam,
+[00:03:35:15 --> 00:03:41:24] você consegue lidar melhor com as limitações dela e consegue extrair melhor resultado delas.
+[00:03:42:07 --> 00:03:46:21] Então, esse minicurso serve para te apresentar essas ferramentas,
+[00:03:46:21 --> 00:03:52:21] te apresentar os benefícios delas e te apresentar as limitações que elas têm também.
+[00:03:52:26 --> 00:03:55:23] Então, por isso que eu decidi criar esse minicurso aqui para vocês.
+[00:03:55:23 --> 00:04:03:23] E a primeira coisa que a gente precisa entender para que isso funcione bem é começar entendendo
+[00:04:05:01 --> 00:04:05:25] Qual é o processo?
+[00:04:07:17 --> 00:04:09:23] por dentro de uma LLM.
+[00:04:09:25 --> 00:04:12:29] E o melhor jeito de explicar isso é começar com esse exemplo aqui.
+[00:04:13:15 --> 00:04:15:15] Vocês já começaram a digitar no Google,
+[00:04:15:20 --> 00:04:18:11] e aí, meio que quando você estava digitando,
+[00:04:18:11 --> 00:04:19:19] antes de terminar a sua frase,
+[00:04:19:23 --> 00:04:21:26] começaram a aparecer várias opções embaixo.
+[00:04:22:04 --> 00:04:24:03] Então, como as IAS aprendem, como funcionam,
+[00:04:24:03 --> 00:04:26:19] são treinadas, podem lidar, estão presentes, afetam, né?
+[00:04:26:22 --> 00:04:29:11] Ele coloca várias opções aqui.
+[00:04:31:04 --> 00:04:41:06] E vocês já repararam também, às vezes, quando você começa a digitar no seu telefone e aí ele autocompleta a palavra?
+[00:04:41:13 --> 00:04:43:26] Então você coloca aqui, ó. Não, Siri, você não.
+[00:04:44:14 --> 00:04:47:08] Você coloca aqui, ó. Qual é a próxima pala?
+[00:04:47:21 --> 00:04:51:28] Aí ele coloca aqui, palavra, palavrinha, ele te dá sugestões.
+[00:04:52:29 --> 00:05:02:02] Esses dois sistemas aqui, a gente pode falar que são os sistemas de A que são avós das LLMs como nós conhecemos hoje.
+[00:05:02:07 --> 00:05:06:13] E basicamente o que elas fazem, o que esses modelos aqui fazem é...
+[00:05:07:18 --> 00:05:09:03] Vamos pegar aqui primeiro o caso do Google.
+[00:05:09:06 --> 00:05:13:18] O Google tem uma base de dados muito grande e ele sabe o que as pessoas mais pesquisam.
+[00:05:13:23 --> 00:05:18:14] O que ele faz com isso? Ele pega toda essa base de dados que ele tem sobre as pessoas
+[00:05:18:14 --> 00:05:22:21] e ele consegue filtrar isso com base em dados também.
+[00:05:22:23 --> 00:05:25:25] Quais são as pesquisas mais comuns que as pessoas fazem?
+[00:05:26:02 --> 00:05:28:07] A primeira que está aqui é como as IAS aprendem.
+[00:05:28:08 --> 00:05:32:10] Então isso aqui é uma sugestão de algo que muitas pessoas pesquisam dentro do Google.
+[00:05:32:15 --> 00:05:35:29] Ele consegue compreender isso, dar um peso para esse tipo de pesquisa
+[00:05:35:29 --> 00:05:37:27] e traz para a gente aqui sugestões.
+[00:05:38:02 --> 00:05:40:17] Isso aqui tem inteligência artificial por trás disso,
+[00:05:40:20 --> 00:05:44:08] mas não é uma LLM, como eu vou apresentar para vocês aqui hoje.
+[00:05:44:17 --> 00:05:48:11] Do mesmo jeito, acontece aqui no seu telefone.
+[00:05:48:18 --> 00:05:50:13] Você já reparou que com o tempo,
+[00:05:50:29 --> 00:05:54:18] o seu telefone começa a melhorar o autocompletar dele?
+[00:05:54:23 --> 00:05:58:15] Então, o tempo vai passando, ele pega palavras que você usa com mais frequência,
+[00:05:58:15 --> 00:05:59:16] ele pega o seu estilo.
+[00:05:59:26 --> 00:06:03:05] É porque isso vai sendo adicionado dentro de uma base
+[00:06:03:05 --> 00:06:11:17] base e ele consegue aprender mas bem limitado ainda tá por isso que só a voz aqui são são modelos bem
+[00:06:12:05 --> 00:06:16:24] específicos para esse caso em específico ele serve para autocompletar da poucas opções não tem como
+[00:06:16:24 --> 00:06:24:24] você conversar com ele diretamente aqui mas o jeito como esses sistemas funcionam eles dão um
+[00:06:27:10 --> 00:06:31:19] Uma previsão de como as LLMs funcionam.
+[00:06:31:27 --> 00:06:35:18] Se você não assistiu, vou trazer isso para vocês aqui.
+[00:06:35:18 --> 00:06:42:12] Se você não assistiu as aulas sobre a história das IAs, vou trazê-las aqui para vocês.
+[00:06:43:08 --> 00:06:46:01] Se você assistiu essa aula, eu trouxe vários tópicos aqui.
+[00:06:46:04 --> 00:06:50:25] Eu trouxe a linha do tempo das IAs, a gente falou sobre vários assuntos importantes.
+[00:06:51:07 --> 00:06:55:25] Aqui eu falo sobre Backpropagation, que é muito importante assistir essa aula.
+[00:06:55:25 --> 00:06:59:10] ela vai inclusive somar com o que nós estamos vendo aqui agora,
+[00:06:59:16 --> 00:07:05:25] porque o backpropagation é o que permite o machine learning acontecer como a gente conhece hoje,
+[00:07:06:01 --> 00:07:09:11] que é o aprendizado de máquina, as máquinas aprenderem com os erros delas.
+[00:07:09:13 --> 00:07:13:09] Mas mais do que isso, é o que permite as redes neurais, a gente falou sobre isso aqui,
+[00:07:13:12 --> 00:07:18:19] eu apresentei para vocês, inclusive eu apresentei isso aqui, que são os self-attentions e os transformers,
+[00:07:18:21 --> 00:07:21:04] mas eu não expliquei e apresentei isso aqui também.
+[00:07:21:28 --> 00:07:26:11] Mostrei para vocês sobre Machine Learning, como que as máquinas aprendem, o que é um Perceptron.
+[00:07:26:15 --> 00:07:27:28] A gente teve toda essa aula aqui.
+[00:07:28:01 --> 00:07:31:07] E ela é muito importante para entender o que eu vou te passar aqui agora.
+[00:07:31:09 --> 00:07:34:19] Então, vale a pena, se você não assistiu essas aulas, voltar lá e assistir.
+[00:07:34:28 --> 00:07:40:15] Mas, mesmo assim, vamos seguir aqui, porque o que eu vou trazer agora tem muita relação com isso.
+[00:07:41:11 --> 00:07:45:24] Então, se você assistiu essa aula, você notou que...
+[00:07:47:14 --> 00:07:49:27] A maneira como as inteligências artificiais aprendem
+[00:07:49:27 --> 00:07:52:27] foi inspirada no jeito como o nosso cérebro aprende,
+[00:07:53:16 --> 00:08:01:08] mas a construção desse raciocínio é baseada em probabilidade e estatística.
+[00:08:01:09 --> 00:08:07:01] Então, é a quantidade de pesos que uma inteligência artificial dá para os neurônios dela.
+[00:08:07:05 --> 00:08:09:10] Não vou aprofundar nisso agora porque pode ficar confuso,
+[00:08:09:12 --> 00:08:11:02] mas vai ser legal para vocês entenderem.
+[00:08:12:18 --> 00:08:16:15] Cada informação, cada palavrinha que uma IA aprendeu o significado dela
+[00:08:16:15 --> 00:08:20:01] e aprendeu o contexto em que ela aparecia, a IA dá um peso.
+[00:08:20:12 --> 00:08:22:10] Esse peso é chamado de parâmetro.
+[00:08:23:17 --> 00:08:28:11] E esse parâmetro é usado quando alguém envia uma mensagem para um chat GPT, por exemplo,
+[00:08:28:14 --> 00:08:33:13] e o chat GPT primeiro dá o devido peso para cada palavra de uma mensagem sua
+[00:08:33:13 --> 00:08:35:16] e depois te devolve uma outra mensagem.
+[00:08:35:25 --> 00:08:39:22] Como que essa mensagem é construída e qual é a relação disso com o Google
+[00:08:39:22 --> 00:08:42:00] e com o autocompletar do seu telefone?
+[00:08:42:02 --> 00:08:46:07] A maneira como as LLMs funcionam é prevendo a próxima palavra,
+[00:08:46:15 --> 00:08:49:28] então ela vai puxando cada uma das palavras em sequência.
+[00:08:49:28 --> 00:08:55:07] Então, se eu coloco como as LLMs funcionam, essa foi uma pergunta que eu fiz para o ChatGPT,
+[00:08:55:08 --> 00:08:57:26] e o próprio ChatGPT me respondeu isso aqui.
+[00:08:58:02 --> 00:09:06:29] LLMs funcionam prevendo a próxima palavra em uma sequência com base em padrões aprendidos a partir de grandes volumes de texto.
+[00:09:08:03 --> 00:09:09:11] Mas qual que é o grande ponto aqui?
+[00:09:11:28 --> 00:09:16:06] Antes da invenção de algumas tecnologias importantes, que eu vou mostrar aqui pra vocês hoje,
+[00:09:16:10 --> 00:09:18:10] uma delas são os transformers.
+[00:09:19:18 --> 00:09:24:12] A inteligência artificial já tentava prever a próxima palavra, mas ela não tinha memória.
+[00:09:24:20 --> 00:09:29:18] Então, uma LLM, ela vai pegando, ela pega a sua frase, interpreta ela inteira,
+[00:09:29:18 --> 00:09:33:14] eu vou mostrar esse processo aqui para vocês, e depois ela precisa te devolver uma resposta.
+[00:09:33:24 --> 00:09:40:15] A resposta dela começa com ela pegando as palavras que têm mais peso no seu input.
+[00:09:40:23 --> 00:09:44:15] Input nós chamamos aquilo que nós enviamos para IA.
+[00:09:44:18 --> 00:09:47:17] Pode ser uma mensagem, pode ser um vídeo, pode ser uma imagem.
+[00:09:47:17 --> 00:09:50:21] Isso é o input, é o estímulo que a gente envia para ela.
+[00:09:52:11 --> 00:09:56:17] Avalia a mensagem que você mandou aqui no caso e ela dá um peso.
+[00:09:56:23 --> 00:09:59:14] Quais são as duas palavras mais importantes para IA aqui?
+[00:09:59:27 --> 00:10:01:07] LLMs e funcionam.
+[00:10:01:17 --> 00:10:04:25] Depois a gente tem a palavra como, depois a palavra as.
+[00:10:05:07 --> 00:10:07:19] Então ela dá um peso diferente para cada palavra.
+[00:10:07:25 --> 00:10:10:11] Eu vou mostrar para vocês como aprender com ela, vai ser bem legal.
+[00:10:11:00 --> 00:10:14:01] E aí a partir disso, ela precisa te devolver uma resposta.
+[00:10:14:11 --> 00:10:18:13] Olha só as duas palavras que ela iniciou a frase dela.
+[00:10:18:25 --> 00:10:20:09] LLMs, funcionam.
+[00:10:20:10 --> 00:10:21:18] São as duas mais importantes.
+[00:10:21:18 --> 00:10:23:10] E aí ela trouxe, prevendo.
+[00:10:23:26 --> 00:10:24:29] Como que ela vai fazendo isso?
+[00:10:25:02 --> 00:10:26:25] Ela lê o que ela fez, põe a próxima.
+[00:10:27:00 --> 00:10:28:13] Ela lê de novo, coloca a próxima.
+[00:10:28:16 --> 00:10:29:18] Lê de novo, coloca a próxima.
+[00:10:29:20 --> 00:10:30:20] Lê de novo, coloca a próxima.
+[00:10:30:22 --> 00:10:31:22] Lê de novo, coloca a próxima.
+[00:10:31:24 --> 00:10:32:23] Lê de novo, coloca a próxima.
+[00:10:32:23 --> 00:10:33:23] Lê de novo, coloca a próxima.
+[00:10:33:23 --> 00:10:34:13] E vai fazendo isso.
+[00:10:34:21 --> 00:10:36:09] Esse ciclo, com cada uma das palavras.
+[00:10:37:04 --> 00:10:40:22] Esse é o funcionamento básico de uma LLM.
+[00:10:41:10 --> 00:10:41:29] Então, ela...
+[00:10:43:06 --> 00:10:46:08] vai interpretando cada palavra dessas para trazer um resultado,
+[00:10:46:15 --> 00:10:48:17] só que isso traz algumas confusões.
+[00:10:48:19 --> 00:10:50:01] Muitas pessoas começam a pensar,
+[00:10:50:06 --> 00:10:53:01] poxa, então a inteligência artificial possui um banco de dados
+[00:10:53:01 --> 00:10:57:20] onde ela pega essas palavras, vê o significado delas e coloca aqui.
+[00:10:57:29 --> 00:11:00:28] Mas não é exatamente assim que uma inteligência artificial funciona.
+[00:11:01:08 --> 00:11:03:11] Nós não dizemos que inteligências artificiais possuem
+[00:11:03:11 --> 00:11:05:26] bancos de dados na rede neural dela.
+[00:11:06:02 --> 00:11:08:22] Ela possui parâmetros, uma rede mesmo.
+[00:11:08:23 --> 00:11:11:14] Ela é um arquivo com vários parâmetros diferentes
+[00:11:11:14 --> 00:11:16:02] diferentes. E aí, a partir desses parâmetros, ela consegue estabelecer relações, peso entre as
+[00:11:16:02 --> 00:11:21:08] palavras, para poder te dar uma resposta. Talvez ainda está um pouco nebuloso. Eu vou simplificar
+[00:11:21:08 --> 00:11:25:20] um pouco mais isso aqui para você. E nós vamos utilizar as próprias LLMs para nos ajudar nessa
+[00:11:25:20 --> 00:11:30:17] aula aqui. Então, vai ser interessante. Mas vamos seguir aqui. Eu mostrei essa imagem e ela realmente
+[00:11:30:17 --> 00:11:35:29] assusta. Quando eu olho isso aqui, eu falo, meu Deus, tem muita coisa acontecendo aí, vários termos em inglês.
+[00:11:37:08 --> 00:11:41:20] Eu quero quebrar um pouquinho disso aqui com vocês, para que essa lógica fique mais simples,
+[00:11:41:23 --> 00:11:45:28] vocês entendam como elas funcionam, para que depois a gente fale sobre as limitações disso.
+[00:11:46:12 --> 00:11:51:12] Então, o que eu fiz? Nós temos aqui o que é chamado de arquitetura de transformer.
+[00:11:51:17 --> 00:11:55:21] Se você assistiu as aulas que eu falo sobre a história das inteligências artificiais,
+[00:11:55:21 --> 00:12:00:14] sobre rede neural e machine learning, você já me ouviu falar antes sobre arquitetura de transformer.
+[00:12:00:24 --> 00:12:02:21] Se você não assistiu, de novo, vale a pena assistir.
+[00:12:02:21 --> 00:12:10:26] E lá eu dou uma introdução. Qual que foi o maior impacto dessa solução aqui no desenvolvimento de IaaS?
+[00:12:11:02 --> 00:12:16:12] O principal impacto é porque quando uma LLM estava tentando encontrar a próxima palavra,
+[00:12:16:19 --> 00:12:19:16] com frequência ela se perdia no meio do caminho.
+[00:12:19:21 --> 00:12:24:10] E com frases mais longas, ela perdia o que ela mesma já estava raciocinando.
+[00:12:24:17 --> 00:12:27:18] Ela não conseguia se lembrar da própria resposta dela.
+[00:12:27:21 --> 00:12:31:20] Então ela ia colocando uma palavra depois da outra e logo começava a não fazer sentido,
+[00:12:31:20 --> 00:12:34:24] porque é como se ela estivesse pegando só as palavras mais próximas,
+[00:12:34:24 --> 00:12:36:20] mas ela perdeu o contexto mais longo.
+[00:12:36:29 --> 00:12:41:29] E aí foi lançado um artigo, que eu apresento isso na história das inteligências artificiais,
+[00:12:41:29 --> 00:12:43:16] que é Attention.
+[00:12:44:25 --> 00:12:46:24] Attention is all you need.
+[00:12:47:05 --> 00:12:49:23] Atenção é tudo que você precisa.
+[00:12:50:05 --> 00:12:52:02] Ou tudo que você precisa é atenção.
+[00:12:52:06 --> 00:12:53:12] All you need is attention.
+[00:12:53:22 --> 00:12:54:12] Alguma coisa assim.
+[00:12:54:19 --> 00:12:56:04] Posso estar trocando aqui o título.
+[00:12:56:12 --> 00:12:58:05] E esse artigo, ele mostra que...
+[00:12:59:15 --> 00:13:03:22] Tudo que a gente precisa fazer para que uma IA se lembre do processo
+[00:13:03:22 --> 00:13:09:03] é, primeiro, ao invés de colocar a visão dela muito restrita à próxima palavra,
+[00:13:09:10 --> 00:13:12:16] fazer ela olhar para tudo primeiro,
+[00:13:12:22 --> 00:13:15:27] ao invés de olhar isoladamente só para uma palavra e a próxima palavra,
+[00:13:16:00 --> 00:13:20:03] ela primeiro interpreta tudo junto, que é o que a gente chama, inclusive, de gestalt.
+[00:13:20:04 --> 00:13:22:10] O cérebro humano trabalha em gestalt.
+[00:13:22:16 --> 00:13:27:24] Tem alguns nomes do século passado, como Wolfgang Keller,
+[00:13:27:24 --> 00:13:30:04] Tem também o Kurt Kofka
+[00:13:30:04 --> 00:13:31:04] O...
+[00:13:33:15 --> 00:13:37:28] São os três. Wolfgang Keller, Kurt Kofka e não lembro o nome do outro.
+[00:13:38:05 --> 00:13:40:02] Mas foram os três fundadores da Gestalt.
+[00:13:40:14 --> 00:13:43:19] E a Gestalt é estudada na psicologia também.
+[00:13:43:25 --> 00:13:46:22] E a base dela, para resumir, a gente conseguiu utilizar aqui,
+[00:13:46:26 --> 00:13:52:21] é que a Gestalt define alguns princípios sobre como a nossa mente funciona.
+[00:13:53:22 --> 00:13:54:17] Heurísticas mesmo.
+[00:13:54:28 --> 00:13:58:04] E algumas dessas heurísticas, uma das mais importantes, na verdade,
+[00:13:58:11 --> 00:14:02:05] é a heurística que diz, o todo é mais do que a soma das partes.
+[00:14:02:05 --> 00:14:10:05] Então, ao invés de só somar tudo o que a gente vê, a soma dessas partes forma um todo e esse todo vale mais do que só essa soma.
+[00:14:10:06 --> 00:14:14:05] Então, o que isso significa no final? Deixa eu sair dessa carinha aqui também.
+[00:14:14:11 --> 00:14:15:17] Isso significa que...
+[00:14:17:01 --> 00:14:22:24] O seu cérebro interpreta tudo junto e depois ele dá peso para coisas específicas,
+[00:14:22:24 --> 00:14:27:00] que são as coisas para as quais o seu cérebro presta atenção.
+[00:14:29:03 --> 00:14:31:27] Seu cérebro, quando vê essa imagem aqui, você está me assistindo.
+[00:14:31:27 --> 00:14:33:21] Aí tem livros ali atrás, tem meu rosto aqui.
+[00:14:33:29 --> 00:14:37:09] Seu cérebro pode estar prestando atenção em mim, pode estar prestando atenção nos livros.
+[00:14:37:11 --> 00:14:39:17] Pode ser que você esteja olhando para o celular e não esteja olhando para mim.
+[00:14:39:23 --> 00:14:42:20] Isso é a sua atenção para algum ponto específico.
+[00:14:42:20 --> 00:14:44:20] Mas você faz parte de um contexto maior.
+[00:14:45:24 --> 00:14:50:10] Esse princípio foi levado em conta no desenvolvimento das inteligências artificiais.
+[00:14:50:14 --> 00:14:54:12] E basicamente aqui, resumindo, o que nós temos é, ao invés de pegar a IA,
+[00:14:54:12 --> 00:14:59:13] IA, para poder só trazer a próxima palavra, a próxima palavra e fazer com que ela se confunda assim,
+[00:14:59:15 --> 00:15:05:01] a lógica que foi utilizada é, primeiro a IA interpreta o todo ou frases maiores
+[00:15:05:01 --> 00:15:09:14] e depois ela dá pesos, que são o que nós chamamos de atenção.
+[00:15:09:20 --> 00:15:13:29] Ela dá pesos específicos para palavras específicas dentro de um todo.
+[00:15:14:05 --> 00:15:20:12] Então, ela vê tudo, depois que ela vê tudo, ela classifica quais palavras ali são mais importantes,
+[00:15:20:12 --> 00:15:27:15] Então, antes tem um peso maior, e aí a partir dessas palavras ela reorganiza isso de novo, fazendo mais sentido.
+[00:15:27:15 --> 00:15:30:18] E aí a resposta dela vem como um todo para você também.

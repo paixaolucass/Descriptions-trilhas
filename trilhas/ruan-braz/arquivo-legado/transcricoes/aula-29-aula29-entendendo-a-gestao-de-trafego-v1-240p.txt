@@ -1,0 +1,900 @@
+# Video: aula29.entendendo_a_gestao_de_trafego_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-28 18:51
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:24 --> 00:00:03:09] Entendendo a gestão de tráfego.
+[00:00:03:14 --> 00:00:06:22] Chegou a hora de nós falarmos do tráfego pago.
+[00:00:06:27 --> 00:00:11:10] Nesse vídeo aqui, para a gente continuar, você precisa ter um site,
+[00:00:11:21 --> 00:00:14:10] você precisa ter um perfil no Instagram,
+[00:00:14:24 --> 00:00:17:06] você precisa ter uma página no Facebook
+[00:00:17:06 --> 00:00:20:00] e um gerenciador de negócios no Facebook.
+[00:00:20:15 --> 00:00:23:13] Também, eu vou passar aqui alguns links para você
+[00:00:23:13 --> 00:00:26:27] poder trabalhar essas etapas, principalmente o gerenciador de negócios,
+[00:00:26:28 --> 00:00:29:15] que eu já vou te explicar um pouquinho melhor o que é.
+[00:00:29:15 --> 00:00:34:28] e aqui nós vamos ter duas partes nessa aula. A primeira parte eu vou te explicar um pouco melhor
+[00:00:34:28 --> 00:00:40:28] quais são as ferramentas que você pode utilizar para fazer o tráfego pago. E na segunda parte eu
+[00:00:40:28 --> 00:00:45:22] vou mostrar para você na prática como criar um anúncio levando as pessoas para a sua página.
+[00:00:45:25 --> 00:00:49:28] Mas antes de a gente continuar isso tudo aqui, eu preciso te falar uma coisa muito importante.
+[00:00:50:07 --> 00:00:56:08] Eu quero te inspirar a ter um posicionamento de líder. Talvez hoje você é uma pessoa sozinha,
+[00:00:56:08 --> 00:00:57:15] trabalhando no seu negócio.
+[00:00:57:24 --> 00:00:59:27] E aí, é claro que você vai fazer tudo.
+[00:01:00:07 --> 00:01:03:24] Mas eu quero te inspirar a já ter uma visão de líder.
+[00:01:04:03 --> 00:01:06:25] Sabendo que em algum momento você terá uma pessoa
+[00:01:06:25 --> 00:01:10:00] para trabalhar exatamente nessa parte de tráfego para você.
+[00:01:10:06 --> 00:01:13:07] Por exemplo, uma equipe para te ajudar a gerir tudo isso.
+[00:01:13:14 --> 00:01:14:12] Por que eu te falo isso?
+[00:01:14:20 --> 00:01:17:24] Gestão de tráfego é uma profissão por si só.
+[00:01:18:14 --> 00:01:21:27] É como se eu tentasse dar uma aula aqui de gestão de tráfego,
+[00:01:22:03 --> 00:01:24:24] tentar te explicar tudo sobre gestão de tráfego em uma aula,
+[00:01:24:24 --> 00:01:27:28] Seria como se eu tentasse te explicar tudo sobre design em uma aula.
+[00:01:28:10 --> 00:01:32:00] Não dá, são muitas variáveis, você tem que entender mais sobre análise de dados,
+[00:01:32:06 --> 00:01:36:18] sobre ferramentas, sobre público, sobre produção de conteúdo, sobre marketing,
+[00:01:36:20 --> 00:01:40:22] funil, tem muitas coisas que você pode se aprofundar para se desenvolver e se
+[00:01:40:22 --> 00:01:45:17] tornar um gestor ou uma gestora de tráfego profissional. E não é esse o nosso objetivo aqui,
+[00:01:45:26 --> 00:01:50:18] você tá aqui porque você quer construir um negócio de design. E a gestão de tráfego é
+[00:01:50:18 --> 00:01:55:19] uma ferramenta, um caminho para te ajudar a atrair mais clientes para o seu negócio.
+[00:01:55:27 --> 00:02:00:06] Só que como você está começando agora, você precisa usar o que você tem.
+[00:02:00:13 --> 00:02:02:23] E é por isso que eu resolvi gravar esse vídeo aqui.
+[00:02:02:28 --> 00:02:06:28] Eu vou te ensinar a criar seus primeiros anúncios para que isso não seja uma barreira para
+[00:02:06:28 --> 00:02:07:08] você.
+[00:02:07:18 --> 00:02:12:10] Mas eu quero que você tenha uma mentalidade, uma visão de liderança para que você
+[00:02:12:10 --> 00:02:14:04] tenha alguém dedicado a isso.
+[00:02:14:04 --> 00:02:20:10] Porque a gestão de tráfego é uma área onde a pessoa precisa se aprofundar,
+[00:02:20:18 --> 00:02:24:25] você precisa entender os dados, fazer muito teste A-B, coletar muita informação,
+[00:02:25:06 --> 00:02:27:19] tomar muitas decisões, são muitas variáveis.
+[00:02:27:19 --> 00:02:29:21] Se você quer otimizar um tráfego,
+[00:02:29:29 --> 00:02:34:06] é bom que tenha uma pessoa especializada nessa área para cuidar disso para você.
+[00:02:34:13 --> 00:02:36:09] Como não é esse o nosso caso aqui,
+[00:02:36:19 --> 00:02:40:04] nós vamos entender, vai ser uma aula de gestão de tráfego para iniciantes.
+[00:02:40:07 --> 00:02:43:07] Eu não sou gestor de tráfego, tá?
+[00:02:43:07 --> 00:02:48:22] Mas eu sei o quão valioso é entender, ter a habilidade de criar um anúncio para poder
+[00:02:48:22 --> 00:02:50:07] atrair clientes para você.
+[00:02:50:09 --> 00:02:54:03] Essa é uma ferramenta muito poderosa e não vale a pena a gente abrir mão dela.
+[00:02:54:12 --> 00:02:58:24] Assim como é possível, sim, você atrair clientes com tráfego orgânico, também é
+[00:02:58:24 --> 00:03:01:25] muito possível você acelerar esse processo com tráfego pago.
+[00:03:02:04 --> 00:03:06:21] Uma outra coisa que você pode fazer também é buscar uma parceria, alguém que pode
+[00:03:06:21 --> 00:03:07:18] te ajudar com isso.
+[00:03:07:25 --> 00:03:12:16] Eu lembro do dia que eu chamei o meu irmão para fazer parte da Overlens, para poder
+[00:03:12:16 --> 00:03:15:27] me ajudar a tocar esse projeto, porque eu percebi que eu não faria tudo sozinho.
+[00:03:16:09 --> 00:03:21:06] E adivinha só, o Rafael, ele tem um perfil comportamental muito mais analítico.
+[00:03:21:15 --> 00:03:26:01] Eu sou mais extrovertido, eu sou mais criativo, isso faz parte de mim.
+[00:03:26:04 --> 00:03:29:12] Já o Rafael é muito mais analítico, ele fez ciência da computação,
+[00:03:29:13 --> 00:03:33:22] ele consegue olhar para os dados de um jeito bem diferente que eu olho.
+[00:03:34:00 --> 00:03:38:03] E isso faz com que ele tenha insights melhores e consiga extrair resultados melhores da ferramenta.
+[00:03:38:12 --> 00:03:41:28] Eu chamei ele para poder trabalhar junto comigo, dividir a empresa com ele,
+[00:03:41:28 --> 00:03:44:17] e ele cuidava dessa parte, enquanto eu cuidava da outra.
+[00:03:44:23 --> 00:03:47:10] Unir forças é um jeito muito bom de fazer isso também.
+[00:03:47:16 --> 00:03:49:22] Você não precisa necessariamente fazer igual eu fiz,
+[00:03:49:28 --> 00:03:52:03] de chamar a pessoa para se tornar sócia sua,
+[00:03:52:13 --> 00:03:54:14] mas você pode fazer parcerias,
+[00:03:54:18 --> 00:03:57:22] tanto dando uma comissão para a pessoa ou realmente pagando ela
+[00:03:57:22 --> 00:04:00:03] para poder fazer esse serviço para você, ok?
+[00:04:00:13 --> 00:04:03:21] Dito isso, esse não é um curso de gestão de tráfego,
+[00:04:03:24 --> 00:04:06:22] essa é uma aula simples para poder te inspirar,
+[00:04:07:01 --> 00:04:10:06] te mostrar que você já pode começar a fazer seus primeiros anúncios
+[00:04:10:06 --> 00:04:11:15] para ter resultado, ok?
+[00:04:11:15 --> 00:04:13:08] Então, vamos começar aqui com tudo.
+[00:04:13:21 --> 00:04:16:06] Primeiro de tudo, eu quero falar sobre o Instagram.
+[00:04:16:09 --> 00:04:21:04] Talvez seja o jeito mais fácil hoje de pagar para que as pessoas venham até você.
+[00:04:21:07 --> 00:04:21:21] Por quê?
+[00:04:21:29 --> 00:04:27:29] Porque no Instagram tudo que você precisa fazer para poder anunciar é criar uma publicação.
+[00:04:28:03 --> 00:04:31:22] Então, vamos supor que eu fiz essa publicação aqui e eu quero anunciar ela.
+[00:04:31:28 --> 00:04:36:01] Então, você posta ela no seu Instagram e vai ter esse botão aqui, ó, Turbinar
+[00:04:36:01 --> 00:04:36:19] Publicação.
+[00:04:36:19 --> 00:04:42:01] Você pode clicar nesse botão e aí a primeira coisa que você precisa fazer é configurar
+[00:04:42:01 --> 00:04:43:07] sua forma de pagamento.
+[00:04:43:15 --> 00:04:45:02] A minha já está configurada aqui, tá vendo?
+[00:04:45:10 --> 00:04:49:22] Você configura a sua forma de pagamento, o próprio Instagram vai te instruir sobre
+[00:04:49:22 --> 00:04:54:21] como fazer isso, não se preocupe, e assim que você colocar a sua forma de pagamento
+[00:04:54:21 --> 00:04:57:16] ele vai liberar para você turbinar a sua publicação.
+[00:04:57:24 --> 00:05:01:28] E olha só que interessante, você pode levar mais visitas para o seu perfil, mas
+[00:05:01:28 --> 00:05:05:05] o que eu mais gosto aqui é de mais acessos no seu site.
+[00:05:05:05 --> 00:05:11:10] Você pode colocar o URL dele aqui, ou mais mensagens, mandando a pessoa lá pro seu WhatsApp.
+[00:05:11:19 --> 00:05:18:17] São justamente os dois objetivos mais importantes aqui pro nosso funil, pra nossa estratégia.
+[00:05:18:22 --> 00:05:22:16] Então o próprio Instagram, por mais que ele seja simples, ele já pode te trazer muito
+[00:05:22:16 --> 00:05:23:06] resultado.
+[00:05:23:13 --> 00:05:27:18] O que vai fazer a diferença aqui é a imagem que você cria, beleza?
+[00:05:28:06 --> 00:05:30:00] Então você pode colocar o site aqui.
+[00:05:30:00 --> 00:05:35:09] Já para te dar de exemplo, olha, eu criei essa página aqui usando o Wix, Prologue Posts
+[00:05:35:09 --> 00:05:39:07] é um exemplo, você pode acessar e ver o vídeo, eu criei realmente para você ver a
+[00:05:39:07 --> 00:05:39:16] ideia.
+[00:05:39:26 --> 00:05:42:27] Só que olha só, essa página é curta, por quê?
+[00:05:43:00 --> 00:05:43:25] Porque tem um vídeo.
+[00:05:44:03 --> 00:05:47:14] Se a sua página não tem vídeo, eu recomendo que ela seja mais longa.
+[00:05:47:20 --> 00:05:51:25] Até aqui também eu poderia colocar alguns depoimentos embaixo, mais informações, tá?
+[00:05:52:01 --> 00:05:54:19] Mas esse aqui é um modelo famoso de página de captura.
+[00:05:54:28 --> 00:05:58:12] Então eu tenho aqui um vídeo, no vídeo eu explico qual é a oportunidade que
+[00:05:58:16 --> 00:06:03:08] existe para o meu cliente e depois eu chamo ele para preencher um formulário e aí nós
+[00:06:03:08 --> 00:06:07:10] vamos escolher os melhores clientes para trabalhar junto com eles. Então olha só, eu já deixo
+[00:06:07:10 --> 00:06:12:16] claro qual é o meu nicho aqui, daí a importância de você passar pelas aulas do módulo de
+[00:06:12:16 --> 00:06:17:29] demanda, tudo aqui se conecta, lembra? Então olha só, e-commerce tradicional, drop shipping,
+[00:06:18:07 --> 00:06:24:01] print on demand, info-produtos, nutricêuticos, startups. Eu já deixo claro com quem que
+[00:06:24:01 --> 00:06:28:17] o que eu estou falando. Logo de cara, eu deixo claro aqui. Qualquer negócio que utilizar
+[00:06:28:17 --> 00:06:33:15] essa estratégia vai se destacar no mercado digital. O nicho e o hiper nicho que eu escolhi
+[00:06:33:15 --> 00:06:40:15] aqui foi o nicho de negócios digitais. E eu deixei ainda mais específico falando
+[00:06:40:15 --> 00:06:43:11] quais negócios são esses. Meu cliente entende que eu estou conversando com ele.
+[00:06:43:19 --> 00:06:48:15] Depois, olha só como a minha mensagem também já mostra um benefício para o meu
+[00:06:48:15 --> 00:06:52:28] cliente. A principal estratégia utilizada pelas maiores empresas do digital para se
+[00:06:52:28 --> 00:06:56:07] se destacar da concorrência e conquistar seu espaço na cabeça dos clientes.
+[00:06:56:08 --> 00:06:59:22] Isso aqui chama a atenção do meu público, eu sei que é isso aqui que o meu público quer.
+[00:07:00:04 --> 00:07:03:15] Se destacar da concorrência e conquistar seu espaço na cabeça dos clientes.
+[00:07:03:18 --> 00:07:08:01] Não estou falando sobre lançamentos, funis de vendas e nem tráfego pago.
+[00:07:08:13 --> 00:07:12:25] É que eu gero um mistério, uma curiosidade, se ele não está falando disso, qual que é essa estratégia
+[00:07:12:25 --> 00:07:17:08] que as principais, as maiores empresas do digital utilizam?
+[00:07:17:08 --> 00:07:20:03] Que não é lançamento, não é funil e nem tráfego pago.
+[00:07:20:06 --> 00:07:21:13] Tem que assistir o vídeo para entender.
+[00:07:21:13 --> 00:07:27:12] Então, eu crio aqui uma curiosidade, abro um gap, abro um espaço não explicado e aí
+[00:07:27:12 --> 00:07:30:25] a pessoa tem que assistir o meu vídeo para entender que oportunidade é esse que espaço
+[00:07:30:25 --> 00:07:31:00] é.
+[00:07:31:07 --> 00:07:35:06] Se você quiser, assista aqui que é legal, você vai me ver argumentando aqui com o
+[00:07:35:06 --> 00:07:35:24] cliente.
+[00:07:35:28 --> 00:07:36:01] Tá?
+[00:07:36:01 --> 00:07:36:20] Então é interessante.
+[00:07:36:29 --> 00:07:39:27] E tem um botão acessar o documento que vai para o Tally.
+[00:07:40:01 --> 00:07:44:11] Então, eu criei aqui um form, esse form é para qualificar o meu cliente para entender
+[00:07:44:11 --> 00:07:45:07] qual é o cliente ideal.
+[00:07:45:19 --> 00:07:50:18] Essa estratégia utilizando o form é interessante quando você já quer qualificar
+[00:07:50:18 --> 00:07:53:16] seu cliente antes de ele entrar em contato com você.
+[00:07:53:22 --> 00:07:58:18] Eu recomendo ela se você já fez a WhatsApp, porque a WhatsApp é muito boa para quem está
+[00:07:58:18 --> 00:08:00:16] começando porque você vai ver movimento.
+[00:08:00:24 --> 00:08:05:06] Você vai ter a oportunidade de conversar com pessoas, ouvir as objeções delas, entender
+[00:08:05:06 --> 00:08:06:09] como você pode ajudar.
+[00:08:06:18 --> 00:08:09:25] Não necessariamente você vai fechar com todo mundo que entrar em contato com você
+[00:08:09:25 --> 00:08:12:00] no WhatsApp, é bem provável que não, tá?
+[00:08:12:07 --> 00:08:16:14] Mas você vai coletar informações, entender quais são os desafios que as pessoas que
+[00:08:16:14 --> 00:08:19:13] estão vindo até você estão apresentando.
+[00:08:19:13 --> 00:08:21:08] Então isso te dá inteligência.
+[00:08:21:18 --> 00:08:25:08] Só que chega um momento que você começa a receber muita mensagem de WhatsApp
+[00:08:25:08 --> 00:08:30:00] de público desqualificado, de pessoas que não são o seu perfil ideal de cliente.
+[00:08:30:04 --> 00:08:32:09] E aí isso vai fazer você perder tempo.
+[00:08:32:17 --> 00:08:36:17] Imagina, você acorda de manhã tem lá 30, 50 mensagens e aí você tem que
+[00:08:36:17 --> 00:08:40:24] filtrar ali daquele tanto de mensagem quem que é o seu cliente ideal.
+[00:08:41:08 --> 00:08:44:14] Eu sei que 50 mensagens de pessoas querendo o seu serviço
+[00:08:44:14 --> 00:08:46:26] pode ser uma coisa maravilhosa para quem está começando agora.
+[00:08:46:26 --> 00:08:51:29] Mas, para quem já criou um processo, isso não é necessariamente uma boa notícia,
+[00:08:52:10 --> 00:08:55:12] porque você tem que encontrar ali dentro quem é o seu cliente ideal.
+[00:08:55:19 --> 00:08:57:25] E isso vai te fazer perder muito tempo.
+[00:08:58:07 --> 00:09:00:26] Então, para quem está começando, eu vou recomendar o WhatsApp,
+[00:09:01:03 --> 00:09:03:16] eu vou mostrar lá como criar o anúncio, mandando para o WhatsApp.
+[00:09:03:26 --> 00:09:07:03] Mas, para quem já quer ter um público filtrado,
+[00:09:07:10 --> 00:09:11:02] eu recomendo fazer o form, manda para a página, a pessoa preenche o form,
+[00:09:11:03 --> 00:09:14:07] e aí você entra em contato com quem está mais qualificado,
+[00:09:14:09 --> 00:09:16:18] igual eu já ensinei em aulas anteriores, beleza?
+[00:09:17:14 --> 00:09:22:08] Aqui também, olha, para você ver o material que eu já deixei preparado, nós temos também...
+[00:09:23:17 --> 00:09:24:14] Anúncio.
+[00:09:24:18 --> 00:09:28:19] Aqui eu criei todos os anúncios em imagem, mas já deixo claro que anúncio em vídeo
+[00:09:28:19 --> 00:09:29:26] converte mais.
+[00:09:30:06 --> 00:09:30:19] Beleza?
+[00:09:30:26 --> 00:09:32:28] Como que eu faço um anúncio em vídeo que converte mais?
+[00:09:33:01 --> 00:09:35:06] Guarda aí um gancho.
+[00:09:35:07 --> 00:09:39:24] Então você precisa ter uma coisa que chama a atenção da pessoa nos primeiros segundos,
+[00:09:39:27 --> 00:09:42:13] só que precisa ser um gancho conectado com o seu anúncio.
+[00:09:42:19 --> 00:09:48:04] Tem que ser um gancho que chame a atenção da pessoa, mas que você vai solucionar
+[00:09:48:04 --> 00:09:49:02] esse problema dela.
+[00:09:49:16 --> 00:09:53:06] Então primeiro você tem um gancho, depois você vai abrir uma curiosidade.
+[00:09:53:06 --> 00:09:55:27] pode ser uma oportunidade, por exemplo, igual àquela que eu fiz.
+[00:09:56:07 --> 00:09:59:19] Então, eu dou uma oportunidade falando, por exemplo, de um problema que o meu cliente tem.
+[00:10:00:00 --> 00:10:03:22] Eu posso falar, por exemplo, do problema de não conseguir chamar a atenção das pessoas
+[00:10:03:22 --> 00:10:06:03] ou não conseguir atrair clientes novos.
+[00:10:06:15 --> 00:10:10:11] E eu falo que se ele continuar fazendo isso sempre, ele vai ter sempre os mesmos resultados.
+[00:10:10:28 --> 00:10:12:16] Ele precisa fazer uma estratégia diferente.
+[00:10:12:19 --> 00:10:16:17] E existe uma estratégia que já é utilizada há muito tempo fora do digital
+[00:10:16:17 --> 00:10:18:09] para gerar resultados para as empresas.
+[00:10:18:13 --> 00:10:21:06] E que agora está sendo mais trabalhada no digital.
+[00:10:21:06 --> 00:10:25:28] E ele tem a oportunidade de já aplicar esse negócio, essa estratégia no negócio dele.
+[00:10:26:08 --> 00:10:27:25] Olha só, eu tô construindo uma tese.
+[00:10:27:26 --> 00:10:30:05] Então você precisa de um gancho, de uma premissa.
+[00:10:30:10 --> 00:10:32:29] Você abre essa premissa com construção lógica.
+[00:10:33:05 --> 00:10:35:25] Lembra das aulas que eu tive com você sobre retórica?
+[00:10:36:02 --> 00:10:37:10] Então, etos, patos e logos.
+[00:10:37:16 --> 00:10:37:24] Lembra?
+[00:10:38:05 --> 00:10:39:06] Etos é quem você é.
+[00:10:39:09 --> 00:10:44:25] Você já chega, tem um gancho ali pra ligar a pessoa emocionalmente inclusive, né?
+[00:10:45:01 --> 00:10:48:26] Conecta a pessoa emocionalmente depois que você ganha o coração dela, aí que
+[00:10:48:26 --> 00:10:49:27] você vai ganhar o cérebro dela.
+[00:10:49:27 --> 00:10:54:16] Então, primeiro você conecta emocionalmente com uma chamada que desperta o interesse dela.
+[00:10:55:09 --> 00:11:00:28] Depois, você constrói uma lógica mostrando por A mais B que existe outra solução ou
+[00:11:00:28 --> 00:11:02:10] por que não está dando certo.
+[00:11:02:21 --> 00:11:04:19] Só que essa lógica é só uma premissa.
+[00:11:04:20 --> 00:11:07:17] Você não vai dar um conteúdo ali, você não vai explicar como resolver esse problema.
+[00:11:07:26 --> 00:11:11:24] Para resolver o problema você fala, toca aqui embaixo que eu fiz uma aula te explicando
+[00:11:11:24 --> 00:11:13:09] exatamente como resolver esse problema.
+[00:11:13:17 --> 00:11:17:08] Ou então toca aqui embaixo que eu criei uma página te explicando exatamente como
+[00:11:17:08 --> 00:11:18:01] resolver esse problema.
+[00:11:18:01 --> 00:11:21:07] também funciona se a página não tiver vídeo, beleza?
+[00:11:21:11 --> 00:11:25:19] Ruan, se eu quiser mais ideias para vídeos, olha, agora está o mais legal.
+[00:11:25:21 --> 00:11:31:02] Você vai digitar Edds Liberty, desse jeito assim, Edds Liberty do Facebook.
+[00:11:31:13 --> 00:11:36:26] O próprio Facebook tem uma biblioteca de anúncios e você pode selecionar todos os
+[00:11:36:26 --> 00:11:37:18] anúncios do Brasil.
+[00:11:37:23 --> 00:11:42:10] Se eu quiser ver os anúncios do Burger King, eu coloco aqui Burger King, ele vai
+[00:11:42:10 --> 00:11:46:14] aparecer aqui para mim e eu vejo, essa página não está anunciando.
+[00:11:46:14 --> 00:11:47:20] Vamos ver o Burger King Brasil.
+[00:11:48:24 --> 00:11:49:20] Tá carregando aí, ó.
+[00:11:49:29 --> 00:11:53:21] E eu consigo ver quais são os anúncios que o Burger King está anunciando agora.
+[00:11:54:04 --> 00:11:57:12] Então, o que você vai ver agora é do McDonald's, anúncios do McDonald's.
+[00:11:57:14 --> 00:12:01:11] Eu entro aqui, ó, no McDonald's Brasil e eu vejo todos os anúncios que o McDonald's
+[00:12:01:11 --> 00:12:04:05] está rodando agora no Facebook e no Instagram.
+[00:12:04:14 --> 00:12:08:12] Então, você consegue pegar muita referência aqui, tá, de anúncios.
+[00:12:08:14 --> 00:12:13:14] Tem esses anúncios mais criativos assim, mas tem anúncios mais do nosso mercado,
+[00:12:13:16 --> 00:12:13:20] né?
+[00:12:13:21 --> 00:12:14:28] Vamos tentar pensar aqui.
+[00:12:15:01 --> 00:12:17:00] Vamos pegar aqui a V4 Company.
+[00:12:17:00 --> 00:12:21:13] V4 Company é uma empresa de marketing e vendas, tá?
+[00:12:21:22 --> 00:12:27:26] Vamos ver os anúncios aqui, 170 resultados, tem vários anúncios aqui da V4 no Facebook,
+[00:12:27:29 --> 00:12:28:08] no Insta.
+[00:12:28:09 --> 00:12:32:19] Você pode clicar aqui para poder ouvir e ver esse anúncio, coloque em tela cheia,
+[00:12:32:22 --> 00:12:37:11] você consegue ver o anúncio e aí dá para você modelar esses anúncios aqui, tá?
+[00:12:37:11 --> 00:12:42:26] Então, tem muita coisa legal que dá para você tirar da biblioteca de anúncios do
+[00:12:42:26 --> 00:12:43:10] Facebook.
+[00:12:43:10 --> 00:12:48:21] Aqui eu criei esses quatro aqui de imagens, repara esse aqui por exemplo, olha eu tô falando
+[00:12:48:21 --> 00:12:54:20] diretamente com o meu nicho, info-produtos, e-commerce, dropshipping, print-on-demand,
+[00:12:54:26 --> 00:12:56:02] nutraceutics, startups.
+[00:12:56:12 --> 00:13:00:00] Descubra a estratégia utilizada pelas grandes empresas para se destacar no mercado digital.
+[00:13:00:10 --> 00:13:03:21] Meu cliente tem um desses negócios aqui, então ele vai ver o nome do negócio dele
+[00:13:03:21 --> 00:13:05:10] aqui e vai se identificar, entendeu?
+[00:13:05:21 --> 00:13:10:05] Eu também criei já de uma vez as imagens na versão de stories, tá?
+[00:13:10:05 --> 00:13:14:02] E aí eu recomendo que você também crie na versão de Stories
+[00:13:14:02 --> 00:13:17:17] pra gente poder colocar elas pra rodar junto com a versão de Feed, beleza?
+[00:13:17:24 --> 00:13:20:12] Então, nós vamos utilizar, além do Instagram, o Facebook,
+[00:13:20:15 --> 00:13:22:24] mas antes de nós irmos pro Facebook,
+[00:13:23:07 --> 00:13:26:17] nós temos também aqui o Google Ads, que você pode anunciar,
+[00:13:26:20 --> 00:13:30:25] e o TikTok for Business, que são outras duas ferramentas de gestão de tráfego
+[00:13:30:25 --> 00:13:32:05] que eu recomendo pra você.
+[00:13:32:15 --> 00:13:36:00] O Google é uma rede de pesquisa, não é uma rede social.
+[00:13:36:16 --> 00:13:37:19] Por que é uma rede de pesquisa?
+[00:13:37:19 --> 00:13:41:27] Porque ele anuncia quando você pesquisa algum termo lá no Google, você aparece como anúncio.
+[00:13:42:03 --> 00:13:44:20] Então você tem um leilão de palavras-chave e você anuncia lá.
+[00:13:45:01 --> 00:13:49:00] É uma estratégia muito poderosa para o nosso tipo de serviço, tá?
+[00:13:49:00 --> 00:13:53:22] Para quem presta serviço, o Google é muito bom porque o tempo inteiro você tem pessoas
+[00:13:54:10 --> 00:13:58:28] precisando de serviço de design, pesquisando sobre isso no Google e aí você pode aparecer
+[00:13:58:28 --> 00:14:00:00] anunciando lá, tá?
+[00:14:00:00 --> 00:14:05:13] Se eu digitar aqui, por exemplo, identidade visual no Google, olha só, tá vendo aqui,
+[00:14:05:13 --> 00:14:10:18] Olha só, patrocinado, essa Bia Ferraz Estúdio tá anunciando aqui, ela não é boba, quando
+[00:14:10:18 --> 00:14:12:18] eu clico aqui eu vou pro site dela, tá vendo?
+[00:14:13:07 --> 00:14:14:12] Ou então vamos ver aqui ó...
+[00:14:15:13 --> 00:14:19:26] Camelo Digital também está anunciando identidade de marca aqui, patrocinado.
+[00:14:19:28 --> 00:14:23:07] Todos que estão com esse patrocinado aqui, olha, estão anunciados.
+[00:14:24:05 --> 00:14:26:07] Esse daqui também, Matheus Brito Design.
+[00:14:26:10 --> 00:14:28:13] Então, tem pessoas aqui que já estão anunciando.
+[00:14:28:17 --> 00:14:30:11] E você pode anunciar também, tá vendo?
+[00:14:30:13 --> 00:14:34:13] Então, tem aqui o site deles, eles criam serviço de identidade visual
+[00:14:34:13 --> 00:14:35:29] e estão se posicionando.
+[00:14:36:04 --> 00:14:37:22] Marcas únicas nascem aqui, por aí vai.
+[00:14:38:04 --> 00:14:41:22] Então, o Google também é muito interessante, tem muito conteúdo, tá?
+[00:14:41:22 --> 00:14:47:02] a internet te ensinando como você cria o seu negócio no Google, mas se você digitar
+[00:14:47:02 --> 00:14:49:16] assim, olha, Google Ads.
+[00:14:51:19 --> 00:14:56:13] Aqui você já pode criar a sua conta, começar agora, e ele já vai te explicando como fazer, tá?
+[00:14:56:16 --> 00:14:59:22] Vai te assustar no início, é igual painel de avião, mas pode te ajudar.
+[00:15:00:06 --> 00:15:02:18] E tem também o Google Search Console.
+[00:15:03:23 --> 00:15:07:16] que é outro site interessante que tem várias ferramentas que você pode utilizar
+[00:15:07:16 --> 00:15:10:05] para melhorar o seu desempenho na pesquisa do Google.
+[00:15:10:17 --> 00:15:13:12] Então, são dois links do Google bem interessantes para você.
+[00:15:13:20 --> 00:15:15:16] Não vai ser o nosso foco aqui,
+[00:15:15:16 --> 00:15:18:14] mas eu não podia deixar de falar numa aula de gestão de tráfico.
+[00:15:18:17 --> 00:15:21:03] E nós temos o TikTok for Ads, que é o mais novinho aqui.
+[00:15:21:06 --> 00:15:26:19] O Google é o mais antigo de anúncios, depois do Face e, por último, o TikTok.
+[00:15:27:02 --> 00:15:31:16] O lado bom é que o TikTok funciona de um jeito muito parecido com o Face.
+[00:15:31:16 --> 00:15:36:26] tem campanha, conjunto de anúncio e anúncio. Funciona na mesma hierarquia, o Google que
+[00:15:36:26 --> 00:15:41:15] já é diferentão mesmo. Então se você aprender no Face, fica mais fácil de usar no TikTok.
+[00:15:41:28 --> 00:15:47:24] Um outro ponto é que no TikTok o vídeo é ainda mais relevante do que no Meta, que
+[00:15:47:24 --> 00:15:52:00] é o Instagram e o Face. No TikTok, se você pôr uma imagem, você pode colocar a imagem,
+[00:15:52:00 --> 00:15:56:19] pode também, mas ela tende a dar ainda menos resultado do que na Meta. Pelo menos
+[00:15:56:19 --> 00:15:59:29] dos poucos testes que eu fiz, aí é claro que você tem que sempre fazer novos
+[00:15:59:29 --> 00:16:03:23] testes. Mas aqui você pode criar sua conta também, tem muito conteúdo te
+[00:16:03:23 --> 00:16:07:24] ensinando como fazer isso, não vai ser o nosso foco aqui, o nosso foco vai ser o
+[00:16:07:24 --> 00:16:12:20] gerenciador de anúncios do Facebook. Aqui no vídeo, aqui embaixo, eu vou deixar
+[00:16:12:20 --> 00:16:16:16] pra você alguns links também bem interessantes sobre como começar a
+[00:16:16:16 --> 00:16:20:06] usar o gerenciador de anúncios, alguns cursos, então esse aqui é um link de
+[00:16:20:06 --> 00:16:23:27] cursos gratuitos que você pode assistir, inclusive eu vou deixar esse
+[00:16:23:27 --> 00:16:29:29] link aqui pra você de três cursos gratuitos para aprender a anunciar no
+[00:16:29:29 --> 00:16:34:26] 5 passos para criar uma campanha, para criar um anúncio no Facebook e criando anúncio
+[00:16:34:26 --> 00:16:40:05] pela página e gerenciador de anúncios. Então, vou deixar esse link aqui para você também
+[00:16:40:20 --> 00:16:44:28] e vou deixar esse link aqui de como criar uma conta empresarial no gerenciador de negócios
+[00:16:44:28 --> 00:16:49:11] da Meta. Então, vamos falar um pouquinho sobre o que é esse gerenciador de negócios
+[00:16:49:11 --> 00:16:54:27] aqui. São dois links, esse sobre como criar e esse sobre como configurar ele depois.
+[00:16:54:27 --> 00:17:02:00] O que acontece, galera? Você pode anunciar no Facebook com seu CPF, mas se você fizer
+[00:17:02:00 --> 00:17:09:24] isso vai ser bem parecido com o que já acontece no Instagram. Você coloca lá o post, impulsiona
+[00:17:09:24 --> 00:17:14:29] esse post, o Facebook vai levar mais pessoas pra lá, a meta no caso, seja no Instagram
+[00:17:14:29 --> 00:17:18:29] ou no Facebook, vai levar mais pessoas pra sua página ou vai levar mais pessoas pro
+[00:17:18:29 --> 00:17:24:03] seu WhatsApp. Até aí tudo bem, você vai ter resultado. Só que você não vai conseguir
+[00:17:25:08 --> 00:17:31:00] otimizar esse resultado. E é aí que está o grande lance. Quando você cria um gerenciador de
+[00:17:31:00 --> 00:17:35:26] negócios, você consegue centralizar todos os seus ativos da conta lá. Como assim,
+[00:17:35:28 --> 00:17:41:10] irmã? Você vai centralizar sua página do Facebook, seu perfil do Instagram, seu número de
+[00:17:41:10 --> 00:17:47:27] WhatsApp e os seus pixels, que são seus dados. É um código que você coloca no seu site para
+[00:17:47:27 --> 00:17:52:24] tudo que acontecer no seu site e o Facebook sabe. Por que é bom o Facebook saber tudo que
+[00:17:52:24 --> 00:17:57:20] meu site, a meta é saber isso, porque ela vai conseguir te indicar um perfil de cliente
+[00:17:57:20 --> 00:18:01:06] que tende a converter mais para você ao longo do tempo.
+[00:18:01:23 --> 00:18:05:02] Então, é uma inteligência artificial que aprende com os seus dados.
+[00:18:05:09 --> 00:18:09:20] Quanto mais você anuncia e quanto mais dados você entrega para ela, mais ela entende
+[00:18:09:20 --> 00:18:14:09] o perfil ideal de cliente para você e mais ela direciona esse tipo de cliente.
+[00:18:14:12 --> 00:18:19:00] Então, no longo prazo, você quer dar esses dados para a ferramenta para que ela
+[00:18:19:00 --> 00:18:23:11] te dê mais resultados. Isso vai diminuir o custo que você vai ter com a ferramenta
+[00:18:23:11 --> 00:18:28:24] para ter um cliente novo. Então, você pode começar lá no Instagram, tá tudo bem, começa
+[00:18:28:24 --> 00:18:33:03] turbinando, você vai ter seus primeiros clientes lá, é o que eu recomendo. Assim como, você
+[00:18:33:03 --> 00:18:39:03] também pode começar aqui anunciando no seu CPF ou até no seu CNPJ, mas sem o gerenciador
+[00:18:39:03 --> 00:18:42:26] de contas. Aí você vai, basicamente, o processo é esse aqui ó. Você vai
+[00:18:42:26 --> 00:18:46:15] entrar no seu Facebook normalmente e vai acessar gerenciador de anúncios. Se não
+[00:18:46:15 --> 00:18:49:04] que você vê aqui na esquerda, você vê aqui nesse menu e tem aqui ó...
+[00:18:51:00 --> 00:18:54:12] profissional, gerenciador de anúncios. Quando você clicar aqui, ele vai criar sua conta
+[00:18:54:12 --> 00:19:00:07] e você vai cair nessa página. Aqui, você vai vir aqui em cobranças e pagamentos e
+[00:19:00:07 --> 00:19:05:09] vai cadastrar a sua forma de pagamento. Você acha melhor, beleza? Coloquei um cartão
+[00:19:05:09 --> 00:19:09:06] aqui. Você coloca o limite de pagamento, ou seja, quando bater 75, ele desconta no
+[00:19:09:06 --> 00:19:13:08] meu cartão. Ou, se você quiser, você pode pagar um boleto e aí ele vai colocar
+[00:19:13:08 --> 00:19:16:28] aqui para você seu saldo atual. Ou sei lá, para os mil reais aqui de saldo.
+[00:19:16:28 --> 00:19:20:15] Aí eu tenho esse valor para poder gastar em anúncios aqui ao longo do tempo, tá?
+[00:19:21:03 --> 00:19:23:18] Mas a gente vai trabalhar aqui em campanhas.
+[00:19:23:21 --> 00:19:28:15] Só que o que eu recomendo, à medida que você for se profissionalizando, é que você
+[00:19:28:15 --> 00:19:33:20] tenha um gerenciador de negócio e centralize todos os seus dados lá.
+[00:19:33:29 --> 00:19:38:07] Nesse vídeo aqui, como é uma aula iniciante, eu não vou ensinar para você como instalar
+[00:19:38:07 --> 00:19:39:08] o pixel na página.
+[00:19:39:18 --> 00:19:42:03] Então já coloca aí um check para você estudar depois.
+[00:19:42:13 --> 00:19:46:02] Como instalar um pixel do Facebook na minha página no Wix.
+[00:19:46:02 --> 00:19:48:13] Tem muito curso te ensinando a fazer isso.
+[00:19:48:18 --> 00:19:50:04] Esse pixel é importante.
+[00:19:50:13 --> 00:19:51:12] Nem só curso, né?
+[00:19:51:12 --> 00:19:53:26] Tem muita aula de graça no YouTube te ensinando a fazer isso.
+[00:19:53:27 --> 00:19:54:22] De graça mesmo.
+[00:19:55:02 --> 00:19:58:12] Só você pesquisar aí como configurar o pixel do Facebook no Wix.
+[00:19:58:19 --> 00:19:59:25] Aí você vai achar várias aulas.
+[00:20:00:14 --> 00:20:06:10] E aí, você pega esse código, cola lá na sua página e o Face vai ter esses dados
+[00:20:06:10 --> 00:20:07:20] para poder trabalhar melhor.
+[00:20:07:29 --> 00:20:10:09] Para isso, você vai precisar desse gerenciador de negócios.
+[00:20:10:11 --> 00:20:11:17] Vou deixar aqui embaixo o link.
+[00:20:11:27 --> 00:20:13:27] Como criar o seu gerenciador de negócios?
+[00:20:13:27 --> 00:20:18:08] Você vai precisar colocar lá o seu CNPJ, seu nome, seu e-mail, telefone, endereço.
+[00:20:18:12 --> 00:20:20:19] Esses dados não ficam disponíveis, está em algum lugar.
+[00:20:20:28 --> 00:20:22:23] Ele é só para a sua relação com a meta.
+[00:20:23:04 --> 00:20:27:05] Então, você coloca tudo isso lá, cadastra a sua página principal do Face, cadastra
+[00:20:27:05 --> 00:20:32:05] o seu perfil no Instagram, cadastra o WhatsApp do qual você quer receber as mensagens e
+[00:20:32:05 --> 00:20:36:08] vá lá em conjunto de dados e clica para criar o seu Pixel.
+[00:20:36:13 --> 00:20:38:29] Tem vários vídeos te ensinando a fazer isso.
+[00:20:39:09 --> 00:20:43:24] Cria o Pixel, coloca na sua página e aí a gente vai criar um anúncio agora levando
+[00:20:43:24 --> 00:20:45:00] as pessoas para a página.
+[00:20:45:11 --> 00:20:50:00] Juan, se eu estou começando agora e eu quero um jeito mais simples, não precisa criar
+[00:20:50:00 --> 00:20:51:12] o seu gerenciador de negócios.
+[00:20:51:19 --> 00:20:55:22] Você só cria o gerenciador de anúncios e aí você já vai poder anunciar, beleza?
+[00:20:56:03 --> 00:21:00:23] Você vai precisar cadastrar no seu gerenciador de anúncios uma página do Facebook e um
+[00:21:00:23 --> 00:21:05:20] perfil no Instagram, porque é através dessa página e desse perfil que o Face ou o
+[00:21:05:20 --> 00:21:07:14] Instagram vão anunciar, beleza?
+[00:21:07:21 --> 00:21:08:29] Então você precisa criar isso.
+[00:21:09:06 --> 00:21:13:03] E na sua página do Facebook você precisa colocar o seu telefone, porque para mandar
+[00:21:13:03 --> 00:21:18:05] As pessoas pro WhatsApp, através dessa ferramenta aqui, você precisa cadastrar o WhatsApp.
+[00:21:18:17 --> 00:21:22:19] Assim como lá no Instagram também, se você for turbinar, você cadastra um número lá,
+[00:21:22:20 --> 00:21:24:22] coloca o número e ele manda as pessoas pra esse número.
+[00:21:25:00 --> 00:21:30:20] Dito isso então, vamos criar a nossa campanha aqui, finalmente, a campanha de anúncio
+[00:21:30:20 --> 00:21:35:16] levando pra página ou também você pode utilizar ela pra poder mandar direto pro
+[00:21:35:16 --> 00:21:36:15] seu WhatsApp.
+[00:21:36:19 --> 00:21:39:28] Lembrando que você vai precisar de uma página e de alguns anúncios que podem
+[00:21:39:28 --> 00:21:41:20] ser imagens ou vídeo.
+[00:21:41:20 --> 00:21:42:18] Então, bora lá.
+[00:21:43:05 --> 00:21:46:26] Aqui nós temos a campanha, o conjunto de anúncios e os anúncios.
+[00:21:47:11 --> 00:21:51:16] Isso aqui é uma hierarquia do Facebook, que funciona mais ou menos assim ó, vou deixar
+[00:21:51:16 --> 00:21:52:26] esse link aqui pra você ali ó.
+[00:21:53:27 --> 00:21:57:07] Vou pegar aqui, campanha, conjunto de anúncio e anúncio.
+[00:21:57:21 --> 00:22:03:01] Essa organização serve para você criar uma hierarquia dentro da ferramenta, para que
+[00:22:03:01 --> 00:22:06:21] você diga para o Facebook como você quer que o seu dinheiro seja gasto.
+[00:22:06:24 --> 00:22:10:21] Você pode gastar o seu dinheiro no nível do anúncio, igual no Instagram, ou seja,
+[00:22:11:01 --> 00:22:15:07] eu coloco um valor somente para um anúncio específico, então eu quero gastar 10
+[00:22:15:07 --> 00:22:19:01] reais em cada anúncio desse daqui, no total eu vou ter gasto 40 reais.
+[00:22:19:01 --> 00:22:24:06] Mas eu posso também gastar o meu dinheiro no nível do conjunto de anúncios.
+[00:22:24:10 --> 00:22:26:24] A gente fala que é orçamento no nível de conjunto.
+[00:22:27:09 --> 00:22:31:22] Aí eu posso falar para o Face assim, olha, eu quero que gaste R$20 nesse primeiro conjunto
+[00:22:31:22 --> 00:22:33:05] e R$20 no segundo.
+[00:22:33:16 --> 00:22:38:22] O Face vai decidir, ele vai rodar os dois anúncios que tem nesse conjunto, você
+[00:22:38:22 --> 00:22:39:24] pode colocar vários anúncios.
+[00:22:39:26 --> 00:22:43:03] Geralmente a gente coloca cinco, seis anúncios em um conjunto.
+[00:22:44:02 --> 00:22:49:10] E aí o Face vai rodar todos e pelo teste ele vai ver qual está desempenhando melhor
+[00:22:49:10 --> 00:22:51:17] e ele vai começar a colocar mais dinheiro ali.
+[00:22:51:26 --> 00:22:57:17] Então talvez no primeiro anúncio aqui ele está colocando já R$15 e no segundo anúncio
+[00:22:57:17 --> 00:23:01:26] ele está colocando só R$5, porque o primeiro está convertindo mais e o Face está trabalhando
+[00:23:01:26 --> 00:23:03:03] para gerar resultado para você.
+[00:23:03:13 --> 00:23:05:23] Isso é um orçamento no nível de conjunto.
+[00:23:06:05 --> 00:23:10:28] Geralmente nós criamos conjuntos diferentes para colocar públicos diferentes e fazer
+[00:23:10:28 --> 00:23:11:19] testes também.
+[00:23:11:19 --> 00:23:15:29] Vamos supor que nesse primeiro público eu quero anunciar aqui só para quem é infoprodutor,
+[00:23:16:03 --> 00:23:17:07] no caso o meu nicho, lembra?
+[00:23:17:16 --> 00:23:20:10] E no outro conjunto eu quero anunciar só para quem tem e-commerce.
+[00:23:21:03 --> 00:23:26:01] Eu crio anúncios diferentes, coloco dentro desses conjuntos e coloco um orçamento diferente
+[00:23:26:01 --> 00:23:29:25] para cada conjunto, ou seja, eu quero R$20 no primeiro e R$50 no segundo.
+[00:23:30:02 --> 00:23:32:01] Eu quero apostar mais em e-commerce, por exemplo.
+[00:23:32:11 --> 00:23:36:20] Aí eu conto para o Facebook, para a Meta aqui no caso, onde eu quero gastar mais
+[00:23:36:20 --> 00:23:37:03] meu dinheiro.
+[00:23:37:03 --> 00:23:40:08] ou eu posso colocar o orçamento no nível da...
+[00:23:41:27 --> 00:23:45:08] Na campanha, a gente define o objetivo dos nossos anúncios.
+[00:23:45:09 --> 00:23:48:07] Vocês vão ver aqui na prática, se estiver confuso, só continuar acompanhando.
+[00:23:48:16 --> 00:23:52:06] Mas eu posso colocar o orçamento no nível de campanha também para falar para o Facebook
+[00:23:52:06 --> 00:23:52:19] o seguinte.
+[00:23:53:02 --> 00:23:58:15] Facebook, eu tenho R$50,00 aqui para gastar, mas eu quero que você escolha onde seja melhor
+[00:23:58:15 --> 00:23:58:27] gastar.
+[00:23:58:28 --> 00:24:00:26] Eu quero focar em desempenho e conversão.
+[00:24:01:01 --> 00:24:06:08] Eu vou criar dois conjuntos, um conjunto para infoprodutor e um conjunto para e-commerce.
+[00:24:06:17 --> 00:24:09:22] No conjunto de infoprodutor eu vou colocar dois anúncios e no de e-commerce eu vou
+[00:24:09:22 --> 00:24:11:17] colocar outros dois anúncios.
+[00:24:11:17 --> 00:24:18:22] e aí os meus R$50 o Face vai decidir onde ele gasta mais. Repara já aqui qual que é a vantagem disso, tá?
+[00:24:22:21 --> 00:24:28:22] A primeira vantagem é que ao invés de colocar o dinheiro em um anúncio e não coletar inteligência,
+[00:24:28:23 --> 00:24:35:05] fazer testes, você coloca o dinheiro em vários anúncios diferentes e deixa o Facebook encontrar
+[00:24:35:05 --> 00:24:37:14] aqueles anúncios que geram mais resultado.
+[00:24:37:25 --> 00:24:39:28] E aí como que funciona o movimento aqui?
+[00:24:40:04 --> 00:24:43:06] Você coloca lá cinco anúncios e aí começa a rodar.
+[00:24:43:13 --> 00:24:48:04] Dois anúncios estão indo muito bem, um está mais ou menos e dois estão ruins.
+[00:24:48:04 --> 00:24:54:15] você tira esses ruins, coloca mais dois novos para rodar. E aí ele roda competindo de novo com
+[00:24:54:15 --> 00:24:59:29] esses outros cinco anúncios. Passa mais uma semana, você vê, outros dois ficaram ruins e três
+[00:24:59:29 --> 00:25:05:00] ficaram bons. Troca esses dois ruins e coloca dois novos. Então você vai ciclando os seus
+[00:25:05:00 --> 00:25:10:17] anúncios. Isso vai otimizando a sua campanha, você vai tendo mais resultados ao longo do tempo.
+[00:25:10:24 --> 00:25:15:28] É por isso que trabalhar dentro do gerenciador de anúncios vai te trazer mais resultado do
+[00:25:15:28 --> 00:25:18:08] que é só anunciar um único post no Instagram.
+[00:25:18:22 --> 00:25:21:07] Só que é nítido, sem sombra de dúvidas,
+[00:25:21:10 --> 00:25:24:16] que criar um post lá no Instagram e ipturbinar ele é muito mais fácil.
+[00:25:24:25 --> 00:25:26:07] Eu ensinei isso para você em cinco minutos.
+[00:25:26:14 --> 00:25:28:22] Agora, olha só tudo o que eu estou tendo que te explicar nisso.
+[00:25:28:29 --> 00:25:30:04] Mas se você sabe fazer,
+[00:25:30:11 --> 00:25:33:07] isso vai te ajudar a extrair muito mais resultados da ferramenta.
+[00:25:33:22 --> 00:25:34:14] Então, beleza.
+[00:25:35:04 --> 00:25:36:19] Uma vez que a gente entendeu, então,
+[00:25:36:26 --> 00:25:38:25] por que nós temos essas três camadas,
+[00:25:39:07 --> 00:25:41:08] vamos criar aqui a nossa campanha, finalmente.
+[00:25:41:12 --> 00:25:42:19] Então, cliquei aqui em Criar,
+[00:25:42:27 --> 00:25:44:11] e a primeira coisa que a gente precisa fazer
+[00:25:44:11 --> 00:25:46:21] é definir o objetivo da nossa campanha.
+[00:25:47:10 --> 00:25:52:03] Reconhecimento é para você impulsionar um anúncio ou uma publicação para que ela
+[00:25:52:03 --> 00:25:56:07] alcance mais pessoas e para que elas se lembrem mais do seu anúncio.
+[00:25:56:12 --> 00:26:01:28] Esse tipo de objetivo aqui não é focado em conversão, não é focado em pedir uma
+[00:26:01:28 --> 00:26:03:13] ação para a pessoa do outro lado.
+[00:26:03:15 --> 00:26:07:22] Você só quer que ela te assista para que ela te reconheça, para que ela lembre
+[00:26:07:22 --> 00:26:08:18] de você no futuro.
+[00:26:09:05 --> 00:26:12:20] Essa aqui é uma excelente ferramenta quando você já tem um funil mais elaborado,
+[00:26:12:20 --> 00:26:17:16] porque você começa o funil criando um relacionamento, mostra o seu anúncio para a pessoa, mostra,
+[00:26:17:19 --> 00:26:21:21] mostra, mostra, a pessoa cria um relacionamento com você, você gera valor para ela e em
+[00:26:21:21 --> 00:26:26:05] um determinado momento, no meio desses anúncios, você vai gerar um anúncio de CTA, um anúncio
+[00:26:26:05 --> 00:26:27:16] que é focado em conversão.
+[00:26:27:24 --> 00:26:31:24] Essa pessoa já está acostumada com você, você já gerou tanto valor para ela que
+[00:26:31:24 --> 00:26:33:12] a chance dela clicar é muito maior.
+[00:26:33:20 --> 00:26:35:19] Esse tipo de funil é o ideal, tá?
+[00:26:35:26 --> 00:26:39:08] Eu estou ensinando para vocês a base aqui, mas esse é o que mais funciona.
+[00:26:39:08 --> 00:26:43:11] Primeiro constrói relacionamento, depois você vai para conversão.
+[00:26:43:18 --> 00:26:46:19] Porque aqui é o que a gente chama de público frio e público quente.
+[00:26:46:28 --> 00:26:51:11] Um público que te conhece, um público que você já gerou valor, que tem uma certa
+[00:26:53:02 --> 00:26:57:03] reciprocidade, tende a converter muito mais do que um público frio que está te vendo
+[00:26:57:03 --> 00:26:58:01] pela primeira vez.
+[00:26:58:11 --> 00:27:02:12] Mas como a gente está anunciando agora aqui, eu vou recomendar para você começar
+[00:27:02:12 --> 00:27:02:25] por isso.
+[00:27:03:01 --> 00:27:08:22] O que você pode fazer de repente é dividir, talvez tirar 10% ou 20% do seu orçamento
+[00:27:08:22 --> 00:27:13:11] para fazer algumas campanhas de reconhecimento, porque isso vai te ajudar a construir um público
+[00:27:13:11 --> 00:27:16:10] dentro da ferramenta mais aquecido, tá?
+[00:27:16:18 --> 00:27:20:12] Mas para isso também é importante que você aprenda como criar um público no Facebook,
+[00:27:20:25 --> 00:27:23:26] como deixar esse público aquecido, por isso que a gente não vai focar aqui.
+[00:27:24:00 --> 00:27:28:14] Isso aqui não é uma aula sobre gestão de tráfego, é uma aula sobre marketing
+[00:27:28:14 --> 00:27:30:16] e conquista de clientes mais abrangente, tá?
+[00:27:30:24 --> 00:27:33:26] Então nós vamos utilizar esse segundo aqui, que é tráfego.
+[00:27:34:05 --> 00:27:37:17] Tráfego é quando você quer levar uma pessoa da rede social para algum outro
+[00:27:37:17 --> 00:27:43:01] lugar, seja o seu site ou até mesmo o seu WhatsApp. Você pode mandar a pessoa para qualquer
+[00:27:43:01 --> 00:27:47:20] link. Esse aqui vai ser o nosso objetivo dentro dessa campanha, tá?
+[00:27:47:24 --> 00:27:51:16] Mas só pra te explicar, engajamento é quando você quer que as pessoas interagem com o
+[00:27:51:16 --> 00:27:56:16] seu post, com os seus anúncios. Você quer mais comentários, mais curtidas, mais compartilhamentos,
+[00:27:56:27 --> 00:28:01:21] mais salvamentos, aí você coloca engajamento. Você pode utilizar isso aqui também para
+[00:28:01:21 --> 00:28:06:01] mandar as pessoas pro seu WhatsApp, elas engajam clicando no botão e indo pra conversar
+[00:28:06:01 --> 00:28:10:06] no WhatsApp, mas aí é teste, eu vou te recomendar começar por isso aqui, beleza?
+[00:28:10:27 --> 00:28:15:12] Cadastro. Você pode fazer o cadastro direto no formulário do Facebook também, é uma
+[00:28:15:12 --> 00:28:19:28] opção, tá? Pegar os dados da pessoa. Mas eu recomendo você criar a sua própria página
+[00:28:19:28 --> 00:28:24:07] porque ali você pode dar mais informações para a pessoa. O cadastro do Facebook é
+[00:28:24:07 --> 00:28:28:20] muito seco, tá? Ele é bom quando você vai fazer um evento ou quer que a pessoa
+[00:28:28:20 --> 00:28:35:21] assine alguma newsletter sua, talvez ele vai funcionar, ou até para modelos de
+[00:28:35:21 --> 00:28:40:06] o Pixel aqui. Como eu não vou te ensinar a instalar o Pixel hoje nessa aula, então
+[00:28:40:06 --> 00:28:44:21] a gente também não vai fazer nenhuma campanha com objetivo de cadastro e geração de leads
+[00:28:44:21 --> 00:28:48:19] aqui. Promoção do app é para quem tem aplicativo, a gente não tem, então a gente
+[00:28:48:19 --> 00:28:54:09] não utiliza esse daqui. E vendas é mais para quem trabalha com e-commerce e tem produtos
+[00:28:54:09 --> 00:28:58:21] no catálogo do próprio Facebook, tá? Não é a opção que a gente vai utilizar
+[00:28:58:21 --> 00:29:03:15] aqui. Tem como utilizar vendas também se você quer, por exemplo, vender uma consultoria
+[00:29:03:15 --> 00:29:07:15] lá na ponta direto para o seu cliente. Então, ele entra na página, clica no botão, compra
+[00:29:07:15 --> 00:29:11:05] consultoria com você e aí você tem uma conversão de venda. Você pode mandar esse
+[00:29:11:05 --> 00:29:15:15] dado para o Facebook, ele entende que ocorreu uma venda e ele vai tender a trazer mais
+[00:29:15:15 --> 00:29:19:19] pessoas com essa venda. Você também pode colocá-la no catálogo aqui, tá? Mas não
+[00:29:19:19 --> 00:29:23:21] é esse modelo de funil que a gente vai utilizar. Então, a estratégia que nós
+[00:29:23:21 --> 00:29:28:19] vamos utilizar é a de tráfego. Nós queremos que o Facebook leve mais pessoas para
+[00:29:28:19 --> 00:29:31:11] nossa página ou pro nosso WhatsApp.
+[00:29:31:21 --> 00:29:33:17] Então, eu clico aqui e clico em continuar.
+[00:29:35:00 --> 00:29:36:20] Aqui, olha, nós temos duas opções.
+[00:29:36:25 --> 00:29:42:08] Configurar a campanha manualmente ou já manter as configurações recomendadas de boas práticas
+[00:29:42:08 --> 00:29:43:04] do Facebook.
+[00:29:43:12 --> 00:29:48:27] Eu vou te recomendar deixar esse ativo, até mais por causa desse Advantage Plus aqui, que
+[00:29:48:27 --> 00:29:49:28] é a inteligência artificial.
+[00:29:50:03 --> 00:29:51:29] Você vai ver já já como que ela trabalha.
+[00:29:52:02 --> 00:29:53:12] Vou te falar um pouquinho sobre ela.
+[00:29:53:22 --> 00:29:57:04] Então, já deixa marcado aqui nessa versão simplificada que ela já vai te ajudar
+[00:29:57:04 --> 00:29:57:16] muito.
+[00:29:58:23 --> 00:30:03:11] Antigamente fazia sentido você pedir o mínimo de detalhes possível para a
+[00:30:03:11 --> 00:30:03:28] ferramenta.
+[00:30:04:18 --> 00:30:08:01] Hoje, é legal você deixar a inteligência artificial trabalhar.
+[00:30:08:16 --> 00:30:14:18] Quanto menos você interfere, quanto menos coisas você pede, você vai definir um espaço,
+[00:30:14:27 --> 00:30:19:24] mas você não vai segmentar demais a sua campanha, ou seja, coloca muitos pedidos.
+[00:30:19:27 --> 00:30:24:12] Você vai deixar ela aberta para que o próprio Facebook, o próprio Instagram, com a inteligência
+[00:30:24:12 --> 00:30:27:22] artificial dele, encontre o perfil ideal de cliente para você.
+[00:30:28:07 --> 00:30:29:29] Então, aqui a gente vai colocar o nível da campanha.
+[00:30:31:03 --> 00:30:35:16] Eles falam para você colocar um nome que te permita gerenciar melhor.
+[00:30:35:21 --> 00:30:37:05] Então, é legal colocar tags.
+[00:30:37:20 --> 00:30:39:24] Então, por exemplo, essa aqui é uma campanha de tráfego.
+[00:30:39:27 --> 00:30:43:01] Você pode colocar ali, por exemplo, tráfego, o nome da campanha.
+[00:30:43:18 --> 00:30:45:20] É legal você organizar isso dessa maneira.
+[00:30:46:04 --> 00:30:49:17] Mas, como essa aqui é uma aula iniciante, eu não vou nem me estender muito nisso, não.
+[00:30:49:19 --> 00:30:52:05] Eu só vou colocar ali tráfego, que é o objetivo da campanha,
+[00:30:52:10 --> 00:30:55:25] para eu saber que essa campanha é uma campanha de tráfego, achar ela mais fácil ali.
+[00:30:55:25 --> 00:31:00:15] e vou colocar aqui, formulário de aplicação.
+[00:31:00:27 --> 00:31:02:20] Vou colocar assim como nome, eu sei que eu tô falando
+[00:31:02:20 --> 00:31:04:20] dessa página que tem um formulário de aplicação.
+[00:31:05:11 --> 00:31:09:00] Nós não vamos entrar nessa categoria de anúncio especial, tá?
+[00:31:09:00 --> 00:31:11:23] E só se for um desses tipos de anúncio aqui, não, é o nosso caso,
+[00:31:11:25 --> 00:31:12:22] então a gente deixa sem nenhuma.
+[00:31:13:05 --> 00:31:15:28] Nós também não vamos criar um teste AB para essa campanha,
+[00:31:16:10 --> 00:31:19:13] mas nós vamos colocar o orçamento no nível da campanha.
+[00:31:19:16 --> 00:31:20:21] Por que eu tô te falando isso?
+[00:31:20:28 --> 00:31:22:04] Nós vamos falar aqui pro Face,
+[00:31:22:07 --> 00:31:25:14] quanto que a gente tem de orçamento para gastar em todos os anúncios
+[00:31:25:14 --> 00:31:30:12] e ele vai encontrar o melhor conjunto e o melhor tipo de anúncio para o nosso caso.
+[00:31:30:22 --> 00:31:32:18] Então, eu vou colocar aqui o orçamento diário de 20.
+[00:31:32:28 --> 00:31:35:22] O mínimo que você pode colocar é R$5,00, tá?
+[00:31:36:00 --> 00:31:39:25] Eu recomendo você colocar entre R$20 e R$10,00, fazer um teste de uma semana aí.
+[00:31:39:27 --> 00:31:43:05] Se você gastar por cinco dias, é R$100,00 dentro do seu orçamento, tá?
+[00:31:43:05 --> 00:31:47:17] Dentro de uma semana para você fazer um teste e ver quantos contatos você recebe.
+[00:31:48:02 --> 00:31:50:26] Só isso, não precisa clicar aqui em mais opções, vou deixar 20 mesmo,
+[00:31:50:27 --> 00:31:52:28] você coloca aí de acordo com o seu contexto
+[00:31:52:28 --> 00:31:56:24] E aí o orçamento já está no nível de campanha.
+[00:31:56:27 --> 00:32:01:01] Isso significa que nós criamos a campanha, nós vamos criar um conjunto e nós vamos
+[00:32:01:01 --> 00:32:07:12] criar aqui quatro anúncios diferentes rodando em dois posicionamentos, feed e também stories.
+[00:32:07:27 --> 00:32:08:11] Beleza?
+[00:32:08:20 --> 00:32:11:25] Então o Face vai dizer qual desses aqui converte mais.
+[00:32:12:05 --> 00:32:15:08] Eu pus essas opções aqui e ele vai dizer para a gente qual que converte mais.
+[00:32:15:12 --> 00:32:18:20] Então eu vou clicar aqui em avançar e agora é o conjunto de anúncios.
+[00:32:18:20 --> 00:32:23:26] No conjunto de anúncios, nós vamos definir o público e nós vamos definir também a
+[00:32:23:26 --> 00:32:26:27] duração desse anúncio, além também de qual é o destino.
+[00:32:27:07 --> 00:32:31:19] Então aqui primeiro eu vou colocar o destino, que é site, então tá mandando pro site.
+[00:32:31:21 --> 00:32:35:22] Se for WhatsApp, você vai colocar aqui o destino WhatsApp, beleza?
+[00:32:36:01 --> 00:32:39:03] Então vai mandar pro WhatsApp, coloca o WhatsApp, vai mandar site, coloca site.
+[00:32:39:10 --> 00:32:44:03] Você marca aqui, olha, se for o WhatsApp você vai precisar selecionar a página,
+[00:32:44:06 --> 00:32:45:27] então clica aqui e seleciona a sua página.
+[00:32:45:27 --> 00:32:49:29] No caso, a gente vai utilizar site, o link a gente coloca lá na frente quando a gente
+[00:32:49:29 --> 00:32:51:27] for configurar o anúncio, tá bom?
+[00:32:52:12 --> 00:32:58:07] Então eu vou colocar aqui site e aqui em conjunto de anúncios no nosso público, deixa
+[00:32:58:07 --> 00:33:01:04] eu definir o público aqui e o orçamento aí eu dou o nome.
+[00:33:01:21 --> 00:33:03:01] Orçamento não, é programação.
+[00:33:03:09 --> 00:33:07:15] Então a data de início, eu quero que comece hoje às 17 horas, vai.
+[00:33:08:01 --> 00:33:12:13] E aí você pode definir se você quer que ele rode para sempre até você pausar
+[00:33:12:13 --> 00:33:14:16] ou se você quer colocar uma data de término.
+[00:33:14:16 --> 00:33:19:14] Então, por exemplo, eu quero que rode até sexta-feira para mim aqui, quatro dias, às
+[00:33:19:14 --> 00:33:20:11] 17 horas.
+[00:33:20:18 --> 00:33:22:22] Então, ele vai rodar para mim quatro dias.
+[00:33:23:07 --> 00:33:26:13] E aqui, em público, você pode colocar mais informações.
+[00:33:26:23 --> 00:33:30:28] Ele também usa o público advantage, que é a inteligência artificial, ou seja, você
+[00:33:30:28 --> 00:33:31:13] fala, fez?
+[00:33:31:18 --> 00:33:35:25] Encontra o melhor público para mim, o que vai mais converter com os meus anúncios.
+[00:33:36:00 --> 00:33:38:16] Aí, é importante que você tenha anúncios direcionados.
+[00:33:38:17 --> 00:33:41:23] Se o seu anúncio for muito genérico, você vai atrair um público genérico.
+[00:33:41:23 --> 00:33:45:00] Lembra? Cada flora atrai um tipo de pássaro e inseto diferente.
+[00:33:45:09 --> 00:33:50:07] Você tem que colocar aqui um anúncio que conversa diretamente com o seu nicho,
+[00:33:50:09 --> 00:33:51:21] com o seu perfil ideal de cliente.
+[00:33:51:22 --> 00:33:54:12] Senão, você vai atrair pessoas que não são o seu perfil ideal.
+[00:33:54:24 --> 00:33:57:12] Mas, se você quiser, você pode clicar aqui também
+[00:33:58:02 --> 00:33:59:19] para poder configurar o seu público.
+[00:33:59:23 --> 00:34:00:24] Então, eu posso colocar, por exemplo,
+[00:34:00:25 --> 00:34:05:29] eu quero público de 18 até 35 anos, todos os gêneros,
+[00:34:06:00 --> 00:34:08:25] e eu quero pessoas interessadas em negócios digitais.
+[00:34:08:26 --> 00:34:10:04] Vamos ver se tem aqui.
+[00:34:10:04 --> 00:34:14:04] Então, atividades digitais, comportamento... Não, eu não quero comportamento.
+[00:34:14:07 --> 00:34:17:17] Atividade digital pode ser muita coisa. Olha, acessou o Facebook?
+[00:34:18:04 --> 00:34:22:19] Não, não quero quem acessou o Facebook. Mas eu quero, olha, nova empresa ativa.
+[00:34:23:26 --> 00:34:30:25] em menos de 12 meses, ou nova empresa ativa a mais de 6 meses, a mais de 24 meses, todos
+[00:34:30:25 --> 00:34:35:04] esses eu posso colocar aqui, novo negócio ativo, atividade digital, posso colocar aqui
+[00:34:35:04 --> 00:34:39:01] criador de conteúdo, personalidade, criador de conteúdo sobre comida, viagem, olha só,
+[00:34:39:04 --> 00:34:43:12] posso segmentar em várias áreas, posso colocar marketing digital.
+[00:34:44:20 --> 00:34:48:28] E aí eu coloco aqui também, estrategista de marketing digital, aí já é o cargo, tá
+[00:34:48:28 --> 00:34:49:06] vendo?
+[00:34:49:16 --> 00:34:52:15] Então, é pessoas que têm esse cargo aqui, eu posso anunciar diretamente para elas.
+[00:34:52:25 --> 00:34:56:15] Olha só como que essa ferramenta, ela te deixa anunciar para quem você quiser.
+[00:34:56:19 --> 00:34:59:09] Vamos supor que você quer anunciar só na sua cidade.
+[00:35:00:03 --> 00:35:06:02] Você vem aqui, em localização, coloca, olha só, vou colocar aqui, pelo horizonte.
+[00:35:07:03 --> 00:35:09:17] Coloco Belo Horizonte, Minas Gerais, Cidade. Pronto.
+[00:35:09:24 --> 00:35:16:18] E aí, eu posso adicionar um raio de quilômetros. Quantos quilômetros eu quero?
+[00:35:16:21 --> 00:35:19:05] Aqui, na verdade, ele pegou toda a região, já é suficiente para mim.
+[00:35:19:12 --> 00:35:23:29] Mas, se você quiser, você pode aumentar esse raio ou até adicionar outras cidades também, tá?
+[00:35:23:29 --> 00:35:26:26] Você só vai colocando aqui e adicionando. Sei lá, são...
+[00:35:28:21 --> 00:35:33:05] quero anunciar para São Paulo, ele adicionou Belo Horizonte e São Paulo, duas regiões
+[00:35:33:05 --> 00:35:38:25] para mim, tá? Eu recomendo você fazer os anúncios e colocar cada cidade em um conjunto
+[00:35:38:25 --> 00:35:42:29] diferente, tá? Então, por exemplo, essa aqui é Belo Horizonte, eu coloco site...
+[00:35:43:26 --> 00:35:44:18] BH.
+[00:35:44:28 --> 00:35:49:09] E depois eu crio outro conjunto e coloco site SP.
+[00:35:49:21 --> 00:35:53:14] E aí você consegue ver de onde o seu público maior está vindo.
+[00:35:53:19 --> 00:35:57:25] Se você coloca tudo no mesmo conjunto, você não sabe se veio de Belo Horizonte, se veio
+[00:35:57:25 --> 00:35:59:10] de São Paulo, ele está pegando dos dois.
+[00:35:59:19 --> 00:36:03:26] Agora, se você cria um conjunto de anúncios separado assim, você consegue ver os dados
+[00:36:03:26 --> 00:36:08:00] na ferramenta e aí assim fica fácil você saber qual que está convertendo mais também.
+[00:36:08:08 --> 00:36:08:22] Beleza?
+[00:36:09:01 --> 00:36:12:09] Ou se você está começando e ainda não está fazendo todas essas otimizações,
+[00:36:12:09 --> 00:36:13:21] eu recomendo deixar Brasil.
+[00:36:14:03 --> 00:36:17:05] Na design, a gente consegue atender em todo o Brasil.
+[00:36:17:12 --> 00:36:19:24] A não ser que você queira fazer uma experiência diferente,
+[00:36:19:28 --> 00:36:21:22] depende do seu modelo de negócio aí, tá?
+[00:36:22:01 --> 00:36:24:01] Selecionei Brasil aqui, idade mínima 18.
+[00:36:24:13 --> 00:36:25:28] E eu não vou colocar nenhum interesse,
+[00:36:25:29 --> 00:36:28:15] eu vou deixar o próprio Facebook encontrar pra mim.
+[00:36:28:22 --> 00:36:30:09] Só vou deixar o público aqui, olha.
+[00:36:31:03 --> 00:36:34:00] Como o meu Iaquim já tem negócios, vou deixar aqui de 20.
+[00:36:35:05 --> 00:36:37:08] 20 até 50 anos.
+[00:36:39:06 --> 00:36:43:23] está no digital, tem negócios, é uma margem aí que é possível já estar aqui no digital, beleza?
+[00:36:44:12 --> 00:36:45:28] Uma vez que você fez isso,
+[00:36:46:17 --> 00:36:48:06] você pode definir os posicionamentos aqui.
+[00:36:48:15 --> 00:36:50:29] Sempre que está com essa estrelinha, significa que se você quiser,
+[00:36:51:08 --> 00:36:53:05] você pode deixar a própria ferramenta trabalhar.
+[00:36:53:15 --> 00:36:55:26] Se você quiser mexer, você pode definir mais.
+[00:36:55:29 --> 00:36:58:27] Mas eu vou deixar aqui, não vou mexer também nos posicionamentos não.
+[00:36:59:06 --> 00:37:02:00] Então, lembrando, coloquei site, agora eu posso colocar um nome aqui.
+[00:37:02:13 --> 00:37:03:15] É, Brasil...
+[00:37:04:18 --> 00:37:08:07] E esse conjunto de anúncios aqui é o conjunto de anúncios público 1.
+[00:37:11:12 --> 00:37:18:03] Beleza. Então agora eu clico em avançar e aí eu vou agora criar o nosso anúncio.
+[00:37:18:12 --> 00:37:21:00] Para criar o nosso anúncio eu vou deixar para colocar o nome por último.
+[00:37:24:12 --> 00:37:25:29] Deixa eu já colocar aqui, certinho.
+[00:37:27:00 --> 00:37:28:29] E agora eu vou aqui para o nosso anúncio.
+[00:37:30:03 --> 00:37:33:03] E agora tá na hora de a gente trabalhar o nosso anúncio.
+[00:37:33:07 --> 00:37:34:29] O nome eu vou deixar por último, tá?
+[00:37:35:04 --> 00:37:37:16] Que aí eu já coloco os filtros certinhos nos anúncios.
+[00:37:37:24 --> 00:37:39:03] E aqui nós temos a identidade.
+[00:37:39:06 --> 00:37:43:06] Você vai colocar aqui a sua página do Facebook e a sua conta do Instagram.
+[00:37:43:09 --> 00:37:45:12] Por isso que é importante você ter os dois para anunciar.
+[00:37:45:24 --> 00:37:47:22] E aí nós vamos aqui para a configuração do anúncio.
+[00:37:47:29 --> 00:37:52:07] Aqui em Criar o Anúncio, você pode criar do zero, igual a gente vai fazer,
+[00:37:52:18 --> 00:37:55:24] pegar um post já lá no seu Instagram ou no seu Facebook,
+[00:37:56:05 --> 00:37:58:25] ou usar um modelo da Central de Criativos do Facebook.
+[00:37:58:25 --> 00:38:03:07] Eu recomendo um desses dois aqui, mas é tudo teste, se você quiser você pode usar um modelo
+[00:38:03:07 --> 00:38:06:20] pronto também, talvez você consiga obter algum resultado dele, tá?
+[00:38:06:27 --> 00:38:10:10] Eu vou deixar em Criar o Anúncio que nós vamos subir nossas próprias imagens aqui.
+[00:38:10:24 --> 00:38:15:16] Se fosse o caso de usar a imagem existente, olha, eu clico aqui em Selecionar uma Publicação
+[00:38:15:16 --> 00:38:20:22] e aí eu tenho aqui, na verdade essas no Facebook e tenho aqui no Instagram os posts
+[00:38:20:22 --> 00:38:22:27] que eu fiz no Instagram, beleza?
+[00:38:23:09 --> 00:38:25:29] No caso aqui a gente vai criar um anúncio.
+[00:38:25:29 --> 00:38:29:25] Então, eu vou adicionar a mídia aqui, eu já subi as imagens que a gente vai utilizar,
+[00:38:30:03 --> 00:38:31:18] mas vão carregar aqui pra gente, tá vendo?
+[00:38:32:03 --> 00:38:34:24] E eu vou colocar a primeira delas, vou colocar essa daqui.
+[00:38:36:00 --> 00:38:38:26] Agora, eu preciso colocar elas nos posicionamentos.
+[00:38:39:04 --> 00:38:42:17] Então, eu já tenho ela aqui no feed, ele fala feed, anúncio em stream, para vídeo
+[00:38:42:17 --> 00:38:44:17] e views e resultado de pesquisa.
+[00:38:44:21 --> 00:38:45:08] Tá certinho.
+[00:38:45:19 --> 00:38:47:00] Agora, olha como que tá nos stories.
+[00:38:47:23 --> 00:38:48:11] Horrível, né?
+[00:38:48:19 --> 00:38:50:00] Não dá para a pessoa ler, vai cortar.
+[00:38:50:10 --> 00:38:51:03] Então, o que a gente vai fazer?
+[00:38:51:07 --> 00:38:54:26] Clicar aqui em substituir e eu vou colocar a versão de stories.
+[00:38:56:02 --> 00:39:01:01] Stories, Reels e Aplicativos. Agora sim ficou certinho e tem essa versão da coluna da direita
+[00:39:01:01 --> 00:39:06:03] do Face que ficou bem ruimzinho, tá vendo? Eu posso cortar ela aqui ou subir uma nova.
+[00:39:06:05 --> 00:39:10:22] Nesse caso aqui eu vou só deixar desse jeito cortado assim mesmo que já chamar atenção.
+[00:39:10:25 --> 00:39:14:09] Isso aqui é um espaço pequenininho do próprio Face, mas você pode gerar uma nova
+[00:39:14:09 --> 00:39:19:05] imagem aqui, ó, de 1 e 91 por 1, é o recomendado aqui, mas eu também posso fazer
+[00:39:19:05 --> 00:39:24:04] dessa maneira cortando as laterais, só que vai ficar muito pequeno pra ler, tá?
+[00:39:24:04 --> 00:39:27:17] muito pequeno. Então, eu vou deixar mais ou menos assim, olha.
+[00:39:29:17 --> 00:39:30:21] que aí já chama a atenção.
+[00:39:31:21 --> 00:39:37:03] Na parte de otimização, a primeira coisa que eu te recomendo é alterar a música aqui.
+[00:39:37:12 --> 00:39:40:27] Se você for utilizar alguma música, por exemplo, você fala, face, eu quero que você
+[00:39:40:27 --> 00:39:45:20] rode uma música por cima do meu anúncio para aumentar a retenção.
+[00:39:45:26 --> 00:39:49:22] Aqui ele fala, olha, 50% do tempo de visualização de vídeo no feed do Instagram acontece
+[00:39:49:22 --> 00:39:50:23] com o som ativado.
+[00:39:51:07 --> 00:39:55:02] Então, se você quer aumentar a retenção, você pode alterar, só que ele vai colocar
+[00:39:55:02 --> 00:39:57:01] umas músicas aqui, às vezes nada a ver.
+[00:39:57:01 --> 00:40:01:08] Imagina, você bota um anúncio e tem um pagodão tocando, não faz sentido nenhum, cara.
+[00:40:01:10 --> 00:40:05:09] Então, vem aqui em Alterar, aí você vai selecionar aqui, mostrar apenas as músicas
+[00:40:05:09 --> 00:40:11:26] selecionadas e você vai tirar aqui as músicas que ele selecionou, olha lá, Jungle Bell,
+[00:40:12:00 --> 00:40:12:11] você viu, né?
+[00:40:12:21 --> 00:40:15:16] Agora, eu volto pra cá e aí eu posso selecionar uma música.
+[00:40:15:16 --> 00:40:18:22] Você pode pesquisar aqui, por exemplo, Instrumental.
+[00:40:19:13 --> 00:40:23:13] Ele vai mostrar as músicas aqui, você dá Play, escuta e seleciona umas três
+[00:40:23:13 --> 00:40:28:06] músicas aí que você acredita que são interessantes de você colocar, beleza?
+[00:40:28:22 --> 00:40:31:25] Ou você faz igual eu vou fazer aqui, eu vou desativar a música.
+[00:40:33:00 --> 00:40:38:04] Aqui, comentário relevantes, alguém comentar no seu post e a meta entender que esse comentário
+[00:40:38:04 --> 00:40:40:10] é relevante, ela destaca ele para as outras pessoas.
+[00:40:41:05 --> 00:40:45:09] Modelo de imagem é outro que eu costumo desativar, esse daqui é quando tem esse
+[00:40:45:09 --> 00:40:46:10] converse conosco, tá vendo?
+[00:40:46:12 --> 00:40:48:23] Ele coloca um texto aqui, um texto em cima também.
+[00:40:49:04 --> 00:40:53:03] Você pode colocar, é mais uma chamada para ação, teste é sempre válido, tá?
+[00:40:53:15 --> 00:40:54:25] Mas aqui eu vou desativar também.
+[00:40:57:19 --> 00:41:01:29] Retoques visuais na imagem, deixa ativo, melhoria do texto pode deixar ativo.
+[00:41:02:07 --> 00:41:05:21] E expandir a imagem, eu gosto de deixar ativo também porque ocupa um espaço maior da tela
+[00:41:05:21 --> 00:41:06:27] e é bem interessante.
+[00:41:07:07 --> 00:41:11:24] Então, eu vou clicar aqui em concluir e tá aqui a nossa imagem em todos os posicionamentos
+[00:41:11:24 --> 00:41:13:21] possíveis onde ela vai aparecer.
+[00:41:14:04 --> 00:41:14:18] Beleza?
+[00:41:14:25 --> 00:41:17:21] Então, olha só, eu fiz cinco otimizações de sete, lembra?
+[00:41:17:22 --> 00:41:21:11] Eu desativei duas ali e agora eu coloco aqui o meu texto principal.
+[00:41:22:06 --> 00:41:23:00] Aqui, o que eu faço?
+[00:41:23:01 --> 00:41:26:20] Eu vou lá na minha página e pego, por exemplo, os textos que eu coloquei na minha
+[00:41:26:20 --> 00:41:26:29] página.
+[00:41:26:29 --> 00:41:30:15] Então aqui eu vou colocar qualquer negócio que eu utilizar, aqui ó, aparecendo lá em
+[00:41:30:15 --> 00:41:31:06] cima.
+[00:41:31:14 --> 00:41:33:17] Essa estratégia vai se destacar no mercado digital.
+[00:41:34:01 --> 00:41:36:07] Na descrição eu vou colocar essa descrição aqui.
+[00:41:36:07 --> 00:41:36:08] E aí
+[00:41:40:06 --> 00:41:42:26] Beleza? Quando a pessoa ver o post completo.
+[00:41:43:07 --> 00:41:44:18] Alguns têm descrição, outros não.
+[00:41:45:03 --> 00:41:49:21] Essa descrição vai aparecer e eu posso colocar aqui, por exemplo, a minha chamada para ação.
+[00:41:50:19 --> 00:41:53:02] Assista o vídeo para entender.
+[00:41:54:11 --> 00:41:57:15] Então, em alguns posicionamentos, ele vai aparecer essa chamada para ação.
+[00:41:57:23 --> 00:42:01:07] Você pode adicionar mais títulos também, como teste, né?
+[00:42:02:25 --> 00:42:04:01] Então, descubra...
+[00:42:05:26 --> 00:42:08:29] descubra como... posso colocar aqui também...
+[00:42:12:18 --> 00:42:15:25] Assista o vídeo da estratégia.
+[00:42:18:04 --> 00:42:24:09] Às vezes criar algumas opções assim você dá mais possibilidades para a própria ferramenta
+[00:42:24:09 --> 00:42:24:22] trabalhar.
+[00:42:24:28 --> 00:42:25:29] Você pode colocar até cinco.
+[00:42:28:10 --> 00:42:32:02] Beleza, uma vez que eu coloquei descrição e coloquei o texto e o título...
+[00:42:33:03 --> 00:42:36:01] Agora, basicamente, a gente precisa colocar o RL de destino.
+[00:42:36:03 --> 00:42:37:01] Então, vou colocar aqui,
+[00:42:40:00 --> 00:42:40:12] https://prologueposts,
+[00:42:40:14 --> 00:42:43:15] que foi aquela página que eu criei para usar de exemplo para vocês.
+[00:42:43:28 --> 00:42:45:22] Link de exibição, vou deixar esse mesmo.
+[00:42:45:28 --> 00:42:47:21] Isso é quando, às vezes, você vai colocar um link
+[00:42:47:21 --> 00:42:51:00] que tem muitas tags, vai ter um monte de coisa escrita aqui.
+[00:42:51:09 --> 00:42:53:07] Aí, você coloca o link principal aqui
+[00:42:54:02 --> 00:42:56:20] e coloca o link limpinho aqui.
+[00:42:57:00 --> 00:42:59:07] É o link que aparece aqui em cima para as pessoas, está vendo?
+[00:43:00:01 --> 00:43:01:14] Aí, você pode colocar dessa forma
+[00:43:01:14 --> 00:43:05:22] ou pode colocar só ele também em seu HTTPS, aí fica seu critério.
+[00:43:06:07 --> 00:43:09:08] No nosso caso é site, vamos deixar aqui marcado.
+[00:43:10:04 --> 00:43:14:22] Enrastreamento, como a gente não configurou o seu pixel, olha só, se eu clicar aqui
+[00:43:14:22 --> 00:43:19:27] ele vai falar que não está ativo, eu preciso ativá-lo lá no meu...
+[00:43:21:07 --> 00:43:25:27] evento de app, puxou um aplicativo aqui que eu tenho instalado lá, mas nem é esse.
+[00:43:26:27 --> 00:43:32:08] Você tem que ir lá no seu conjunto, no seu gerenciador de negócios,
+[00:43:32:18 --> 00:43:33:19] criar o seu conjunto de dados,
+[00:43:34:00 --> 00:43:36:09] aí quando você clicar aqui ele vai aparecer aqui
+[00:43:36:09 --> 00:43:39:04] e aí você consegue vinculá-lo ao site, tá bom?
+[00:43:39:09 --> 00:43:41:27] Como a gente não colocou nenhum rastreamento aqui,
+[00:43:42:05 --> 00:43:43:21] nós vamos anunciar sem rastreamento.
+[00:43:43:23 --> 00:43:45:15] Isso diminui a eficácia do anúncio,
+[00:43:45:20 --> 00:43:48:09] mas ele ainda assim traz resultados para você, beleza?
+[00:43:48:21 --> 00:43:51:00] E aí, basicamente, eu vou clicar em publicar.
+[00:43:52:14 --> 00:43:56:17] Então agora ele está publicando aqui para a gente, 3 de 3, porque é uma campanha, um
+[00:43:56:17 --> 00:43:57:22] conjunto e um anúncio.
+[00:43:58:00 --> 00:43:58:14] Publicou.
+[00:43:58:22 --> 00:44:03:14] Estou aqui na campanha, olha que legal, aqui eu já consigo ter vários dados, olha, quando
+[00:44:03:14 --> 00:44:08:09] ela acaba, quanto que já gastou, qual foi o custo por resultado, que no nosso caso
+[00:44:08:09 --> 00:44:10:05] o resultado foi clique no link, lembra?
+[00:44:10:05 --> 00:44:13:13] A gente selecionou o objetivo de tráfego, então ele fala, ó, gastei R$100 e custou
+[00:44:13:13 --> 00:44:14:18] R$1 a cada clique no link.
+[00:44:15:01 --> 00:44:21:08] Quantas impressões, vai mostrar aqui que é, em quantas telas a sua imagem apareceu
+[00:44:21:08 --> 00:44:26:20] ou seu vídeo apareceu. Alcance, quantas contas foram alcançadas. Por que que tem alcance
+[00:44:26:20 --> 00:44:30:16] e conta? Impressão, você pode aparecer para a mesma pessoa várias vezes. Alcance,
+[00:44:30:17 --> 00:44:35:20] ele fala a pessoa que você alcançou, aquela conta que você alcançou. Resultado, então
+[00:44:35:20 --> 00:44:39:23] aqui tem o custo por resultado e aqui tem o resultado mesmo. Aqui é o dinheiro que
+[00:44:39:23 --> 00:44:42:26] gastou e aqui é a quantidade. Por exemplo, nós tivemos 200 cliques no link.
+[00:44:43:21 --> 00:44:50:20] A configuração, que é click de sete dias ou visualização de um dia.
+[00:44:51:07 --> 00:44:52:14] Orçamento que a gente colocou.
+[00:44:52:16 --> 00:44:55:12] Você pode alterar o orçamento aqui muito fácil, tá?
+[00:44:55:12 --> 00:44:57:20] Diminuir ou aumentar para ir gerenciando.
+[00:44:57:26 --> 00:44:59:18] E a estratégia de lance, volume mais alto.
+[00:44:59:21 --> 00:45:04:18] Essa estratégia de lance aqui é como que o Facebook vai gastar o seu dinheiro.
+[00:45:04:20 --> 00:45:06:18] Como que você vai competir com os outros anúncios.
+[00:45:07:06 --> 00:45:09:25] Quando eu clico aqui ou clico em conjunto de anúncios,
+[00:45:10:12 --> 00:45:13:14] eu entro no nosso conjunto de anúncios, site Brasil público amplo.
+[00:45:13:14 --> 00:45:15:25] o nosso conjunto de anúncios aqui, tá vendo?
+[00:45:16:10 --> 00:45:21:12] Aqui eu consigo coletar os mesmos dados, agora focando no conjunto de anúncios e não na campanha.
+[00:45:21:16 --> 00:45:22:11] A campanha é geral.
+[00:45:22:21 --> 00:45:26:15] Aqui lembra, eu criei o Brasil, eu posso criar o São Paulo, posso criar o BH,
+[00:45:26:19 --> 00:45:31:14] eu posso criar um público fechado, colocar os mesmos anúncios para vários públicos diferentes
+[00:45:31:14 --> 00:45:37:05] e deixar o próprio Facebook e Instagram gastarem os R$20 nos conjuntos que eles acham melhor.
+[00:45:37:09 --> 00:45:38:05] Só que só tem um ponto.
+[00:45:38:18 --> 00:45:42:22] Se você tem um orçamento muito baixo, não vale a pena você criar vários conjuntos
+[00:45:42:22 --> 00:45:46:06] e segmentar demais, porque você tem um orçamento baixo.
+[00:45:46:15 --> 00:45:49:19] Você vai diversificar mais quando você tem um orçamento maior.
+[00:45:49:22 --> 00:45:53:03] Dá para gastar pelo menos R$10,00 em cada conjunto aqui, beleza?
+[00:45:53:22 --> 00:45:56:27] E aí, nós temos o nosso anúncio, que eu esqueci de colocar aqui o nome nele.
+[00:45:56:29 --> 00:46:00:12] Eu posso colocar aqui agora, eu vou chamar ele de Ed.01.
+[00:46:01:10 --> 00:46:05:13] Mas antes, eu vou colocar aqui IMG, que é uma imagem, publicar.
+[00:46:05:25 --> 00:46:08:21] E aí, eu posso ver o resultado, ele está em análise.
+[00:46:08:25 --> 00:46:11:14] Eu posso ver o resultado em cada anúncio.
+[00:46:11:14 --> 00:46:16:08] Aí tem término, término-valor usado, taxa de conversão, taxa de engajamento,
+[00:46:16:29 --> 00:46:19:27] que é quantas pessoas interagiram, aqui é quantas clicaram,
+[00:46:20:27 --> 00:46:22:26] classificação de qualidade do anúncio,
+[00:46:23:00 --> 00:46:26:06] aqui ele explica basicamente se você quiser entender como essa qualidade funciona
+[00:46:26:06 --> 00:46:28:03] e como que essa métrica é estimada,
+[00:46:28:14 --> 00:46:31:17] custo por resultado, impressão, alcance, que eu já expliquei para você,
+[00:46:31:20 --> 00:46:33:24] o que é a quantidade de resultado que teve.
+[00:46:34:03 --> 00:46:35:29] A gente criou o primeiro anúncio.
+[00:46:36:03 --> 00:46:37:28] Vamos supor que você quer criar mais anúncios,
+[00:46:37:28 --> 00:46:39:23] o que você pode fazer aqui agora?
+[00:46:39:23 --> 00:46:44:10] Você pode duplicar esse anúncio aqui, basta você clicar aqui em Duplicar, ele vai te
+[00:46:44:10 --> 00:46:47:25] perguntar quantas vezes você quer duplicar ele, então por exemplo, a gente tem ali mais
+[00:46:47:25 --> 00:46:52:25] três anúncios, vou colocar para duplicar mais três, clica em Duplicar agora, ele
+[00:46:52:25 --> 00:46:56:29] já criou os outros, agora o que eu vou fazer é editar isso aqui para a cópia dois...
+[00:46:58:12 --> 00:46:59:07] Três...
+[00:47:02:22 --> 00:47:04:10] E o que eu preciso fazer agora?
+[00:47:04:16 --> 00:47:08:22] Clicar em editar esse anúncio aqui e vim trocar a imagem dele, beleza?
+[00:47:08:25 --> 00:47:11:23] Então, vim editar, editar a mídia, continuar.
+[00:47:13:06 --> 00:47:14:05] Opa, pera aí.
+[00:47:14:12 --> 00:47:18:08] Editar a mídia aqui, vou colocar, por exemplo, a place daqui agora, avançar...
+[00:47:19:04 --> 00:47:22:20] Substituí aqui também, coloco o de Stories dele.
+[00:47:23:06 --> 00:47:25:20] Aqui eu já consigo colocar melhor.
+[00:47:27:00 --> 00:47:27:22] Avançá!
+[00:47:28:28 --> 00:47:31:03] Já vou tirar a música dele.
+[00:47:31:13 --> 00:47:32:01] Cadê a música?
+[00:47:33:11 --> 00:47:36:09] Ele nem colocou a música aqui, ela ficou lá embaixo desativada.
+[00:47:36:23 --> 00:47:39:07] Já está tudo configurado porque eu dupliquei, é verdade.
+[00:47:39:20 --> 00:47:40:25] Então, clica em concluir.
+[00:47:41:08 --> 00:47:45:05] Eu acho legal você trocar os textos aqui também, se você quiser alguns deles,
+[00:47:45:20 --> 00:47:47:05] para poder ter mais testes.
+[00:47:47:15 --> 00:47:48:15] E aí, eu clico em publicar.
+[00:47:48:18 --> 00:47:51:21] Mas antes de publicar, eu posso vincar no 3...
+[00:47:52:16 --> 00:47:58:27] Já trocar aqui também, editar, editar, continuar, vou encarar a mídia, colocar esse
+[00:47:58:27 --> 00:47:59:10] aqui agora.
+[00:48:01:26 --> 00:48:02:22] Troca aqui também.
+[00:48:04:29 --> 00:48:05:21] cortar aqui.
+[00:48:08:07 --> 00:48:10:05] É legal, às vezes, você gerar um pra cá, tá?
+[00:48:10:17 --> 00:48:11:27] Ao invés de cortar desse jeito.
+[00:48:12:04 --> 00:48:13:11] Como que aqui é só exemplo?
+[00:48:14:04 --> 00:48:15:07] Quero só mostrar pra vocês.
+[00:48:15:18 --> 00:48:16:25] E o 4 também.
+[00:48:17:23 --> 00:48:19:28] Então, editar, editar a mídia, continuar.
+[00:48:21:14 --> 00:48:22:14] Vem cá e adicionar.
+[00:48:23:23 --> 00:48:24:22] Quarto era...
+[00:48:26:07 --> 00:48:27:01] Cadê o quarto?
+[00:48:27:14 --> 00:48:29:20] Era esse aqui, mas cadê a virtude?
+[00:48:32:21 --> 00:48:33:12] Avançam!
+[00:48:34:25 --> 00:48:35:16] Substitui.
+[00:48:37:06 --> 00:48:40:12] Coloco essa versão, aqui eu vou cortar também.
+[00:48:44:02 --> 00:48:44:22] Beleza!
+[00:48:46:07 --> 00:48:48:06] Aqui já está tudo certo, e conclui.
+[00:48:48:18 --> 00:48:51:19] Agora eu clico em publicar, publicando para a gente então.
+[00:48:52:02 --> 00:48:56:06] E beleza, olha só, estou na campanha, se eu clico aqui em anúncios, eu tenho meus
+[00:48:56:06 --> 00:48:57:08] quatro anúncios aqui.
+[00:48:57:16 --> 00:49:01:02] Agora olha que legal, eu vou conseguir acompanhar aqui os resultados.
+[00:49:01:11 --> 00:49:04:24] Qual anúncio está convertendo mais, qual não está convertendo, que tipo de resultado
+[00:49:04:24 --> 00:49:05:12] eu tenho aqui.
+[00:49:05:24 --> 00:49:08:11] Vamos supor que esse badgezinho aqui não está convertendo.
+[00:49:08:16 --> 00:49:12:24] Eu clico aqui para ele parar de rodar, simples assim ó, parou de rodar ele agora,
+[00:49:12:27 --> 00:49:13:25] ele não vai rodar mais.
+[00:49:13:25 --> 00:49:16:29] Não delete, tá? É legal para você ver os dados depois.
+[00:49:17:10 --> 00:49:19:10] Eu paro ele de rodar e subo outro.
+[00:49:19:18 --> 00:49:23:21] Subo um outro anúncio aqui no lugar desse para rodar junto com esses e continuar fazendo o teste.
+[00:49:24:05 --> 00:49:28:05] Esse é o movimento mais simples aqui dentro do gerenciador de anúncios, tá?
+[00:49:28:06 --> 00:49:30:24] É o mais bobinho, mas ele já traz resultados para você.
+[00:49:31:07 --> 00:49:33:08] Se for WhatsApp, vai funcionar do mesmo jeito.
+[00:49:33:15 --> 00:49:35:20] Só vão mudar aqui os...
+[00:49:35:20 --> 00:49:37:23] Não é que vai mudar os valores, talvez muda aqui.
+[00:49:37:27 --> 00:49:40:08] Na verdade, não vai mudar porque vai ser clique no link do mesmo jeito.
+[00:49:40:11 --> 00:49:41:08] Então, só mantenha.
+[00:49:41:08 --> 00:49:44:17] Se for WhatsApp, vai aparecer aqui do mesmo jeito, clique no link.
+[00:49:44:24 --> 00:49:46:29] São quantas pessoas clicaram, só tem um detalhe.
+[00:49:47:05 --> 00:49:50:15] Não necessariamente as pessoas que clicaram iniciaram uma conversa com você.
+[00:49:50:18 --> 00:49:52:14] Então, pode ter aqui 100 cliques no link,
+[00:49:52:23 --> 00:49:56:29] mas você viu que na verdade foram só 20 pessoas que de fato iniciaram uma conversa.
+[00:49:57:02 --> 00:49:58:19] Então, isso é muito importante também.
+[00:49:58:28 --> 00:50:03:12] O que você pode fazer, se você quiser uma conversão mais otimizada, de repente,
+[00:50:03:24 --> 00:50:06:21] é na hora que você for criar a campanha aqui, você colocar engajamento.
+[00:50:07:03 --> 00:50:08:08] E aí, aqui você vai ver, olha...
+[00:50:09:06 --> 00:50:09:21] Eita!
+[00:50:10:23 --> 00:50:16:14] WhatsApp, você pode incentivar as pessoas a interagirem com o seu WhatsApp, também
+[00:50:16:14 --> 00:50:17:12] é uma opção disponível.
+[00:50:17:19 --> 00:50:22:01] Mas eu recomendo você começar nessa aqui de tráfego, levar as pessoas e pagar por
+[00:50:22:01 --> 00:50:23:08] clique no link, tá?
+[00:50:23:10 --> 00:50:24:09] É mais interessante.
+[00:50:24:19 --> 00:50:29:00] No caso aqui, eu acho que se sua conta for uma conta nova, você não vai pagar
+[00:50:29:00 --> 00:50:31:11] por link, você vai pagar por impressão, tá?
+[00:50:31:13 --> 00:50:35:20] Mas mesmo assim, o Face vai otimizar para poder te dar resultados por clique no link.
+[00:50:36:02 --> 00:50:39:01] Olha só, foi muita coisa que eu falei isso aqui, talvez seja uma novidade para
+[00:50:39:01 --> 00:50:44:13] você, você pode assistir e ir acompanhando e aplicando, mas com isso daqui você já
+[00:50:44:13 --> 00:50:49:13] consegue ter seus primeiros resultados, tá bom? Isso aqui já é o suficiente para
+[00:50:49:13 --> 00:50:53:02] você começar a fazer seus anúncios e levar as pessoas para a sua página.
+[00:50:53:09 --> 00:50:57:10] Eu criei esse modelo aqui de exemplo para você ver como é que funciona. Tem ali
+[00:50:57:10 --> 00:51:02:17] uma página, tem alguns anúncios de imagem, vale reforçar vídeo, é muito poderoso.
+[00:51:02:21 --> 00:51:06:26] Ah, eu tenho vergonha... Eu também tinha, cara, eu também tinha vergonha. Mas vencer
+[00:51:06:26 --> 00:51:10:16] Essa vergonha é uma barreira que você precisa enfrentar para ter mais resultado.
+[00:51:10:23 --> 00:51:14:16] Se você mostra confiança e mostra uma pessoa do outro lado, as pessoas tendem a clicar
+[00:51:14:16 --> 00:51:17:07] mais, interagir mais e até investir mais em você.
+[00:51:17:18 --> 00:51:21:29] Lembra, se você quiser ter resultados maiores, fazer projetos de 10, 15, 20 mil reais,
+[00:51:22:16 --> 00:51:24:21] você tem que fazer as pessoas confiarem em você.
+[00:51:26:01 --> 00:51:31:24] Eu acho que é um grande engano você achar que com uma imagenzinha e uma página a pessoa vai te pagar R$10.000.
+[00:51:32:02 --> 00:51:33:28] Vai ter que ter uma conversa depois, tá?
+[00:51:34:07 --> 00:51:39:09] Mesmo que a conversa comece ali pelo WhatsApp também, você vai precisar se mostrar que você é um ser humano.
+[00:51:39:16 --> 00:51:42:09] E se você já começa com vídeo, isso já é interessante.
+[00:51:42:14 --> 00:51:47:00] É teste, é treino. Se tá sentindo que o vídeo não tá ficando legal, tá ficando pior do que melhor,
+[00:51:47:12 --> 00:51:50:00] começa com as imagens. O mais importante é começar.
+[00:51:50:09 --> 00:51:54:24] Já te dei o exemplo aqui. Aqui embaixo desse vídeo tem vários links também pra te ajudar.
+[00:51:54:24 --> 00:52:01:00] links gratuitos para que você colete mais informações e faça os seus primeiros anúncios.
+[00:52:01:12 --> 00:52:04:25] Agora eu vou ficando por aqui e eu te vejo no nosso próximo vídeo.

@@ -1,0 +1,1076 @@
+1
+00:00:00,000 --> 00:00:04,660
+Então, agora que nós vimos que você pode utilizar sites como o charter.ai,
+
+2
+00:00:04,720 --> 00:00:09,780
+inclusive, se você quiser buscar outros, é só você colocar alternativas ao charter.ai,
+
+3
+00:00:09,880 --> 00:00:17,180
+ou pode colocar também, usando modelos de speech, que é TTS, text-to-speech,
+
+4
+00:00:17,280 --> 00:00:23,360
+ou STS, speech-to-speech, para poder encontrar modelos de linguagem, de IA,
+
+5
+00:00:23,360 --> 00:00:28,420
+que são capazes de traduzir o texto em áudio ao vivo junto com você ali
+
+6
+00:00:28,420 --> 00:00:30,320
+para iniciar essa conversa.
+
+7
+00:00:30,360 --> 00:00:32,100
+Mas eu quero mostrar para você aqui agora
+
+8
+00:00:32,100 --> 00:00:36,920
+uma possibilidade diferente em que você pode conversar com um personagem
+
+9
+00:00:38,812 --> 00:00:42,732
+Como se fosse ao vivo, ele vai ter uma voz específica e vai respondendo você.
+
+10
+00:00:43,132 --> 00:00:46,672
+E aí, para isso, a gente vai utilizar uma outra ferramenta aqui,
+
+11
+00:00:46,732 --> 00:00:48,912
+que é o HeyJane.
+
+12
+00:00:49,532 --> 00:00:50,552
+O HeyJane, não.
+
+13
+00:00:50,872 --> 00:00:52,692
+Que é o Runway.
+
+14
+00:00:52,812 --> 00:00:56,252
+Então, eu vou digitar aqui RunwayML.com.
+
+15
+00:00:57,692 --> 00:01:00,132
+Deixa eu ver se eu já estou com o meu login feito aqui no Runway.
+
+16
+00:01:00,192 --> 00:01:00,872
+Try Runway.
+
+17
+00:01:03,196 --> 00:01:08,096
+Primeiro eu vou mostrar um que eu criei para vocês, um clone meu que eu chamei de Ruanda Shopee.
+
+18
+00:01:08,096 --> 00:01:09,236
+Deixa eu ver se ele está carregado aqui.
+
+19
+00:01:10,812 --> 00:01:11,672
+Ah, está em outra conta.
+
+20
+00:01:11,832 --> 00:01:13,272
+Então, ao invés de criar o Rwanda Shopee,
+
+21
+00:01:13,292 --> 00:01:15,072
+eu vou fazer um aqui, que eu estou com uns créditos aqui.
+
+22
+00:01:15,552 --> 00:01:17,392
+Depois eu mostro o Rwanda Shopee para vocês.
+
+23
+00:01:17,592 --> 00:01:19,552
+Então, depois que você loga no Runway,
+
+24
+00:01:19,612 --> 00:01:22,172
+pode ser que você caia nessa aba aqui,
+
+25
+00:01:22,592 --> 00:01:23,972
+que é um pouco diferente.
+
+26
+00:01:24,712 --> 00:01:29,592
+E aí você pode clicar em Workflows
+
+27
+00:01:29,592 --> 00:01:31,412
+e vir aqui em Live.
+
+28
+00:01:31,632 --> 00:01:33,752
+Já vão ter alguns personagens aqui,
+
+29
+00:01:33,872 --> 00:01:36,872
+mas você pode criar o seu clicando aqui em Custom Charter.
+
+30
+00:01:37,412 --> 00:01:40,032
+Aqui em Custom Charter, você precisa subir uma imagem
+
+31
+00:01:40,032 --> 00:01:43,452
+No caso, eu vou subir uma imagem da Lily,
+
+32
+00:01:43,652 --> 00:01:44,932
+que a gente tinha feito ela ali,
+
+33
+00:01:44,972 --> 00:01:47,872
+então vou pegar um print dela que eu tenho aqui.
+
+34
+00:01:49,244 --> 00:01:52,624
+Quanto melhor a qualidade da imagem, melhor o vídeo.
+
+35
+00:01:53,948 --> 00:01:56,308
+A gente vai fazer um teste com essa imagem aqui,
+
+36
+00:01:56,968 --> 00:01:58,968
+mas eu estou vendo, na verdade, todos eles,
+
+37
+00:01:59,028 --> 00:02:01,748
+eu vou só fazer uma coisa, eu vou subir aqui no Gemini
+
+38
+00:02:01,748 --> 00:02:03,748
+e vou pedir para ele o seguinte,
+
+39
+00:02:03,988 --> 00:02:06,348
+para fazer uma imagem 16 por 9 dessa.
+
+40
+00:02:09,244 --> 00:02:11,244
+Transforme.
+
+41
+00:02:15,068 --> 00:02:16,068
+Vou fechar aqui para ficar maior.
+
+42
+00:02:17,568 --> 00:02:20,468
+Transforme esta imagem em 16.
+
+43
+00:02:22,940 --> 00:02:27,680
+Por nove, complete o restante do cenário.
+
+44
+00:02:28,828 --> 00:02:33,828
+Eu vou colocar aqui criar imagem, vou colocar aqui pró e dar o play.
+
+45
+00:02:34,088 --> 00:02:35,828
+Então a gente tem uma imagem que estava vertical,
+
+46
+00:02:35,968 --> 00:02:38,748
+vou só deixar ela aqui na horizontal para a gente também.
+
+47
+00:02:40,060 --> 00:02:42,900
+Aí eu estou usando aqui, no caso, o Nano Banana mesmo do Google,
+
+48
+00:02:43,020 --> 00:02:44,600
+que ele vai fazer esse serviço bem feito.
+
+49
+00:02:44,680 --> 00:02:49,000
+Inclusive, essa imagem aqui foi feita no Nano Banana sem upscale.
+
+50
+00:02:49,400 --> 00:02:53,360
+Então, dá até para perceber alguns detalhes aqui no olho, por exemplo,
+
+51
+00:02:53,380 --> 00:03:00,560
+que parece que a inteligência artificial tem essa visualização um pouco plástica da pele,
+
+52
+00:03:00,660 --> 00:03:02,040
+porque eu não fiz upscale.
+
+53
+00:03:02,100 --> 00:03:04,400
+Se você faz o upscale, a qualidade fica melhor ainda.
+
+54
+00:03:04,400 --> 00:03:11,300
+mas aqui no caso eu só quero gerar aqui essa versão em 16 por 9 na horizontal
+
+55
+00:03:11,300 --> 00:03:16,580
+porque ele está usando ela na vertical não deixe ele terminar pra gente aqui
+
+56
+00:03:17,640 --> 00:03:23,080
+verificando o resultado da imagem mostrando raciocínio e beleza fez ela
+
+57
+00:03:23,080 --> 00:03:26,780
+pra gente aqui muito bom já posso usar essa aqui vou baixar essa imagem então
+
+58
+00:03:30,012 --> 00:03:31,112
+Fazendo o download para a gente.
+
+59
+00:03:33,180 --> 00:03:34,760
+Ficou um pouquinho desfocado aqui, né?
+
+60
+00:03:35,180 --> 00:03:38,640
+Porque a parte da imagem que a gente fez dela,
+
+61
+00:03:39,400 --> 00:03:41,440
+que a gente jogou, estava desfocada.
+
+62
+00:03:41,460 --> 00:03:43,480
+Mas o restante ele não fez desfocado.
+
+63
+00:03:43,960 --> 00:03:48,600
+Ele pegou o restante da imagem e fez com mais foco, né?
+
+64
+00:03:48,800 --> 00:03:50,560
+Eu poderia também pedir para ele aqui,
+
+65
+00:03:50,580 --> 00:03:53,060
+está demorando para baixar, fazendo download do tamanho original.
+
+66
+00:03:53,640 --> 00:03:55,120
+Poderia falar com ele aqui também, né?
+
+67
+00:03:55,140 --> 00:03:57,940
+É, deixe o fundo desfocado.
+
+68
+00:03:58,520 --> 00:04:00,540
+Ele pode desfocar, mas eu vou usar assim mesmo.
+
+69
+00:04:00,660 --> 00:04:01,800
+Então, eu vou jogar esse daqui fora.
+
+70
+00:04:01,800 --> 00:04:05,780
+Vou fazer um upload aqui agora da imagem que a gente acabou de baixar.
+
+71
+00:04:06,120 --> 00:04:07,940
+Venho aqui no nome dela, chamo ela de Lily.
+
+72
+00:04:08,600 --> 00:04:11,200
+Escolho uma das vozes aqui para ela.
+
+73
+00:04:33,560 --> 00:04:35,460
+As vozes são muito parecidas aqui, né?
+
+74
+00:04:36,020 --> 00:04:37,920
+Depois eu vou mostrar um lugar com vozes melhores.
+
+75
+00:04:41,780 --> 00:04:44,020
+Estou ansiosa para ver o que criamos juntos.
+
+76
+00:04:45,500 --> 00:04:46,920
+Beleza? Então a gente vai usar essa ema.
+
+77
+00:04:46,940 --> 00:04:49,280
+Aí aqui vem as instruções.
+
+78
+00:04:49,720 --> 00:04:51,380
+O que eu vou fazer aqui nas instruções?
+
+79
+00:04:51,460 --> 00:04:56,760
+Eu vou pegar aqui no chat GPT as instruções que a gente fez na última aula.
+
+80
+00:04:56,940 --> 00:04:57,900
+Então eu tenho aqui...
+
+81
+00:04:59,612 --> 00:05:01,792
+Apresentação Lily, acho que é esse aqui, né?
+
+82
+00:05:02,092 --> 00:05:04,992
+Não, esse aqui mesmo, Persona Sintética de Branding.
+
+83
+00:05:05,352 --> 00:05:08,312
+Então, tá aqui, ó, Persona, Construtora, beleza.
+
+84
+00:05:08,872 --> 00:05:11,112
+Posso colocar isso aqui, então.
+
+85
+00:05:11,312 --> 00:05:16,092
+E vou colocar também aqui em Knowledge Base,
+
+86
+00:05:16,992 --> 00:05:20,632
+eu posso adicionar textos ou fazer upload de arquivos.
+
+87
+00:05:20,772 --> 00:05:25,912
+No caso, se a gente quiser, nós podemos pegar todo esse texto da Lily aqui
+
+88
+00:05:25,912 --> 00:05:28,772
+e jogar lá ou só alguma parte específica.
+
+89
+00:05:31,676 --> 00:05:34,876
+Aí eu venho aqui, colo aqui e aí vem os nomes, né?
+
+90
+00:05:35,296 --> 00:05:37,076
+Inclusive, o ideal é fazer como?
+
+91
+00:05:37,156 --> 00:05:37,756
+É fazer assim, ó.
+
+92
+00:05:38,196 --> 00:05:39,376
+Quer fazer direitinho?
+
+93
+00:05:39,396 --> 00:05:40,056
+Você vai fazer assim, ó.
+
+94
+00:05:40,856 --> 00:05:42,156
+Mapa de empatia.
+
+95
+00:05:42,176 --> 00:05:42,996
+É uma parte.
+
+96
+00:05:43,796 --> 00:05:47,916
+Aí você cola aqui e chama de mapa de empatia.
+
+97
+00:05:48,976 --> 00:05:49,856
+Adicionar documento.
+
+98
+00:05:50,416 --> 00:05:52,296
+Aí ele coloca o documento pra você.
+
+99
+00:05:52,396 --> 00:05:53,876
+Ou então, você fala assim, ó.
+
+100
+00:05:53,876 --> 00:05:56,136
+Eu quero personalidade.
+
+101
+00:05:56,736 --> 00:05:57,176
+Personalidade.
+
+102
+00:05:57,556 --> 00:06:01,316
+Aí você vem aqui, pega a personalidade dela.
+
+103
+00:06:01,676 --> 00:06:03,236
+Tão de voz aqui tudo.
+
+104
+00:06:03,596 --> 00:06:05,276
+Isso aqui não é personalidade, é
+
+105
+00:06:05,276 --> 00:06:07,536
+tom de voz mesmo. Mas vai
+
+106
+00:06:07,536 --> 00:06:09,016
+funcionar bem também. Cola aqui
+
+107
+00:06:09,016 --> 00:06:11,736
+e adiciona o documento.
+
+108
+00:06:11,956 --> 00:06:12,496
+Ou,
+
+109
+00:06:13,336 --> 00:06:15,636
+quero mandar tudo de uma vez, clica aqui
+
+110
+00:06:15,636 --> 00:06:17,696
+adicionar texto e coloca
+
+111
+00:06:17,696 --> 00:06:19,776
+aqui. Personalidade
+
+112
+00:06:21,244 --> 00:06:21,744
+Tom de voz.
+
+113
+00:06:23,228 --> 00:06:25,348
+adicionar o documento. Acontece
+
+114
+00:06:25,348 --> 00:06:27,048
+que o Knowledge Base
+
+115
+00:06:27,048 --> 00:06:28,928
+é base de conhecimento para ela responder
+
+116
+00:06:28,928 --> 00:06:31,068
+e ela demora mais quando
+
+117
+00:06:31,068 --> 00:06:33,268
+ela precisa ler isso aqui, tá? Então leva um pouco
+
+118
+00:06:33,268 --> 00:06:35,208
+mais de tempo. O que eu recomendo
+
+119
+00:06:35,208 --> 00:06:37,348
+para fazer um teste inicial, se você
+
+120
+00:06:37,348 --> 00:06:39,348
+quer ver só uma personalidade, ali no caso
+
+121
+00:06:39,348 --> 00:06:41,328
+a gente queria ver com o conhecimento dela
+
+122
+00:06:41,328 --> 00:06:43,248
+de branding, né? Mas
+
+123
+00:06:43,248 --> 00:06:44,708
+o que eu recomendo é você
+
+124
+00:06:45,688 --> 00:06:47,188
+pegar aqui a parte de tom
+
+125
+00:06:47,188 --> 00:06:47,888
+de voz dela
+
+126
+00:06:49,244 --> 00:06:51,084
+E colocar isso nas instruções.
+
+127
+00:06:51,664 --> 00:06:55,404
+E aqui em Knowledge, você coloca o restante, né?
+
+128
+00:06:55,464 --> 00:06:57,724
+A história dela, o conflito dela todo aqui, ó.
+
+129
+00:06:58,424 --> 00:07:01,144
+Não precisa colocar toda essa personalidade aqui.
+
+130
+00:07:01,544 --> 00:07:03,704
+Então a gente vai subir aqui Biografia.
+
+131
+00:07:05,180 --> 00:07:07,780
+E além da biografia, o...
+
+132
+00:07:10,044 --> 00:07:14,324
+Essa parte aqui de mapa de empatia, que tem as dores dela, o que ela acredita, o que irrita ela.
+
+133
+00:07:15,804 --> 00:07:20,404
+Beleza, copia aqui, estou dando um zoom sem querer, e cola aqui.
+
+134
+00:07:21,596 --> 00:07:22,916
+Sobre a Lily.
+
+135
+00:07:27,772 --> 00:07:30,592
+Também é bom, pode ser assim, colocar aqui no início.
+
+136
+00:07:32,060 --> 00:07:32,700
+O que ele é, né?
+
+137
+00:07:33,980 --> 00:07:35,040
+Você é Lily.
+
+138
+00:07:40,828 --> 00:07:42,068
+Você é...
+
+139
+00:07:44,956 --> 00:07:52,256
+Então vai assim, você é Lily, uma consultora de branding experiente.
+
+140
+00:07:55,388 --> 00:07:58,468
+Depois que você fizer isso, você vai clicar aqui em Criar Personagem.
+
+141
+00:07:58,768 --> 00:08:01,068
+Lembrando que eu estou usando uma conta gratuita aqui, tá?
+
+142
+00:08:01,088 --> 00:08:01,968
+200 créditos.
+
+143
+00:08:02,908 --> 00:08:05,528
+Vocês vão ver que esses 200 créditos acabam muito rápido,
+
+144
+00:08:05,668 --> 00:08:09,828
+mas dá para vocês experimentarem aí junto comigo e ver como que funciona, tá bom?
+
+145
+00:08:10,148 --> 00:08:13,128
+Agora a gente tem que esperar um tempinho, ele vai processar a imagem aqui.
+
+146
+00:08:13,328 --> 00:08:16,628
+Não demora muito tempo não, mas enquanto ele está processando,
+
+147
+00:08:16,628 --> 00:08:19,708
+eu vou tirar algumas dúvidas aqui e dar uma lida no chat também.
+
+148
+00:08:20,428 --> 00:08:22,468
+Deixa eu ver aqui como que está o papo de vocês.
+
+149
+00:08:25,372 --> 00:08:28,012
+Eu uso muito o Google IA Studio para criar narrações.
+
+150
+00:08:28,552 --> 00:08:30,552
+Sim, você pode criar narrações também.
+
+151
+00:08:30,632 --> 00:08:32,652
+No caso, não vai ter essa interatividade.
+
+152
+00:08:34,072 --> 00:08:36,852
+Dá para fazer ela construída, que você coloca a instrução
+
+153
+00:08:36,852 --> 00:08:38,272
+e começa a conversar com a IA.
+
+154
+00:08:38,352 --> 00:08:40,192
+E aí ela vai seguir aquela instrução também.
+
+155
+00:08:40,232 --> 00:08:42,552
+Dá para mudar a voz e fazer algumas coisas.
+
+156
+00:08:42,612 --> 00:08:43,872
+Tem como fazer isso no...
+
+157
+00:08:43,872 --> 00:08:44,912
+Já até ficou pronto.
+
+158
+00:08:45,252 --> 00:08:47,352
+No Google IA Studio.
+
+159
+00:08:48,692 --> 00:08:50,692
+Mas olha só que interessante aqui agora.
+
+160
+00:08:50,972 --> 00:08:54,112
+Isso aqui, por exemplo, não dá para fazer no Google IA Studio sozinho.
+
+161
+00:08:54,492 --> 00:08:57,012
+E agora que ficou pronto, eu consigo mostrar para vocês.
+
+162
+00:08:57,172 --> 00:09:01,632
+Então, uma vez que ficou pronto, a gente pode clicar aqui para conversar com ela.
+
+163
+00:09:02,492 --> 00:09:03,272
+Deixa eu ver aqui.
+
+164
+00:09:03,392 --> 00:09:05,692
+E aí, pede para habilitar o microfone.
+
+165
+00:09:05,732 --> 00:09:06,852
+Vou habilitar ele aqui, então.
+
+166
+00:09:07,892 --> 00:09:09,052
+Permitir ao acessar o site.
+
+167
+00:09:10,684 --> 00:09:11,004
+começar
+
+168
+00:09:13,980 --> 00:09:14,520
+Agora é só esperar.
+
+169
+00:09:17,436 --> 00:09:19,036
+Às vezes fica bugado, já tô avisando.
+
+170
+00:09:19,096 --> 00:09:20,256
+Olá, sou a Lívia.
+
+171
+00:09:21,404 --> 00:09:24,124
+Oi, Lili, tudo bem? Se apresenta aí para o pessoal da live.
+
+172
+00:09:26,556 --> 00:09:28,996
+Olá, sou a Lilian, consultora de branding,
+
+173
+00:09:29,776 --> 00:09:33,176
+especialista em ajudar marcas a construírem narrativas fortes
+
+174
+00:09:33,176 --> 00:09:36,156
+e estratégias que geram valor e consistência no mercado.
+
+175
+00:09:36,656 --> 00:09:37,416
+Vamos juntos?
+
+176
+00:09:39,132 --> 00:09:42,992
+Vamos, ele tá com a cara toda bugada ali, o que que tá acontecendo com o seu olho? Tá ressecado?
+
+177
+00:09:45,788 --> 00:09:48,128
+Ah, sim, é só uma representação visual.
+
+178
+00:09:48,608 --> 00:09:51,828
+Na prática, o foco é na nossa discussão sobre branding, certo?
+
+179
+00:09:52,128 --> 00:09:54,328
+Que tipo de desafio você está enfrentando hoje?
+
+180
+00:09:55,208 --> 00:09:57,728
+Não, não é só uma questão visual não, Lili.
+
+181
+00:09:57,828 --> 00:10:00,388
+Eu estou aqui numa aula de personas sintéticas,
+
+182
+00:10:00,848 --> 00:10:04,008
+mostrando para o pessoal o que já é possível fazer com ferramentas gratuitas.
+
+183
+00:10:06,428 --> 00:10:10,268
+Ah, entendi. É uma aula sobre personas sintéticas.
+
+184
+00:10:10,508 --> 00:10:12,908
+Na prática, o que você quer mostrar com isso?
+
+185
+00:10:13,108 --> 00:10:16,648
+A questão central aqui é a tecnologia ou a aplicação em branding?
+
+186
+00:10:17,348 --> 00:10:22,008
+Na verdade, nós estamos discutindo aqui a possibilidade de criar personas sintéticas
+
+187
+00:10:22,008 --> 00:10:24,408
+para ampliar a experiência que nós temos com personas,
+
+188
+00:10:24,648 --> 00:10:27,868
+seja na hora de fazer pesquisas ou também para apresentar para o público.
+
+189
+00:10:30,428 --> 00:10:31,608
+Entendi perfeitamente.
+
+190
+00:10:31,888 --> 00:10:34,448
+Na prática, você está falando de usar a tecnologia
+
+191
+00:10:34,448 --> 00:10:37,368
+para criar personas mais dinâmicas e interativas.
+
+192
+00:10:37,788 --> 00:10:40,708
+Isso pode trazer um olhar bem interessante para o futuro do branding.
+
+193
+00:10:41,028 --> 00:10:42,768
+O que mais vocês estão explorando?
+
+194
+00:10:43,648 --> 00:10:44,348
+Várias coisas.
+
+195
+00:10:44,548 --> 00:10:47,848
+Por exemplo, eu posso falar de uma limitação que você tem e nem sabe que tem.
+
+196
+00:10:47,968 --> 00:10:51,248
+Por exemplo, essa persona sintética aqui ainda tem limitações
+
+197
+00:10:51,248 --> 00:10:53,248
+porque ela não consegue me ver.
+
+198
+00:10:53,368 --> 00:10:54,968
+Então, ela não sabe o que eu estou fazendo.
+
+199
+00:10:55,128 --> 00:10:57,008
+Você consegue falar o que eu estou fazendo aqui agora?
+
+200
+00:10:59,420 --> 00:11:02,860
+Olha só, a questão central aqui é a capacidade de percepção.
+
+201
+00:11:03,180 --> 00:11:07,040
+Na prática, o meu foco é processar informações textuais e de áudio
+
+202
+00:11:07,040 --> 00:11:08,080
+para te auxiliar em branding.
+
+203
+00:11:08,360 --> 00:11:11,240
+É interessante pensar nessas limitações para o futuro das pessoas.
+
+204
+00:11:11,680 --> 00:11:12,980
+O que mais você observou?
+
+205
+00:11:14,524 --> 00:11:15,504
+Só isso mesmo, Lili.
+
+206
+00:11:15,604 --> 00:11:16,984
+Mas foi legal conversar com você,
+
+207
+00:11:17,124 --> 00:11:18,844
+deu para a galera entender aqui um pouco melhor.
+
+208
+00:11:19,104 --> 00:11:21,764
+Dá uma dica para o pessoal que está começando em branding aí.
+
+209
+00:11:24,124 --> 00:11:28,724
+Com certeza. Para quem está começando, o ponto é, branding não é só estética,
+
+210
+00:11:28,884 --> 00:11:31,844
+é sobre consistência e estratégia a longo prazo.
+
+211
+00:11:32,344 --> 00:11:35,464
+Construa uma narrativa forte e um legado. Sucesso!
+
+212
+00:11:36,424 --> 00:11:39,864
+Legal. Você falou o óbvio, né? Até o Google falaria a mesma coisa.
+
+213
+00:11:39,924 --> 00:11:41,324
+É claro, é porque isso é uma inteligência artificial.
+
+214
+00:11:41,784 --> 00:11:45,384
+Mas dá uma dica aí que a gente não costuma ver fácil na internet também,
+
+215
+00:11:45,504 --> 00:11:47,044
+e aí eu finalizo a ligação com você.
+
+216
+00:11:49,436 --> 00:11:50,616
+Uma dica de ouro, então?
+
+217
+00:11:51,156 --> 00:11:52,076
+Olhe para o futuro.
+
+218
+00:11:52,616 --> 00:11:54,896
+Construa marcas que sejam antifrágeis,
+
+219
+00:11:54,896 --> 00:11:57,736
+que se adaptem e se fortaleçam com as mudanças.
+
+220
+00:11:58,096 --> 00:12:00,736
+Pense em sistemas vivos, não em logotipos.
+
+221
+00:12:00,916 --> 00:12:01,516
+Até mais!
+
+222
+00:12:04,476 --> 00:12:09,816
+Então isso aqui é uma outra ferramenta que existe de personas sintéticas ainda dentro do navegador.
+
+223
+00:12:09,976 --> 00:12:17,196
+É possível fazer melhor do que isso também utilizando ferramentas internas dentro do seu computador, tá bom?
+
+224
+00:12:17,276 --> 00:12:20,896
+Por enquanto eu estou mostrando essas gratuitas aqui, você já pode explorar elas.
+
+225
+00:12:21,056 --> 00:12:26,896
+O legal também é que você pode baixar a conversa que você teve com a IA para usar isso em outros momentos,
+
+226
+00:12:27,016 --> 00:12:28,576
+então pode acabar sendo interessante.
+
+227
+00:12:28,576 --> 00:12:45,776
+Aqui, como vocês viram, foi embora 50 créditos meus aqui nessa conversa, cada conversa gasta mais ou menos isso de 50 créditos também, mas lembrando que eu estou num modelo gratuito, ainda não paguei nada aqui, consegui experimentar, consegui fazer alguns testes.
+
+228
+00:12:45,776 --> 00:12:48,276
+o rosto ficava um pouco bugado
+
+229
+00:12:48,276 --> 00:12:49,336
+não estava funcionando
+
+230
+00:12:50,396 --> 00:12:52,136
+perfeitamente, mas pensando
+
+231
+00:12:52,136 --> 00:12:54,116
+que isso é feito em live e que
+
+232
+00:12:54,116 --> 00:12:56,236
+não é exatamente um deepfake
+
+233
+00:12:56,236 --> 00:12:58,416
+mas sim uma animação em live
+
+234
+00:12:58,416 --> 00:12:59,696
+de uma imagem
+
+235
+00:12:59,696 --> 00:13:01,956
+é bem interessante a gente pensar para onde
+
+236
+00:13:01,956 --> 00:13:04,316
+a gente vai com isso tudo, como a ferramenta tem evoluído
+
+237
+00:13:04,316 --> 00:13:06,256
+muito rápido ao longo do tempo
+
+238
+00:13:06,256 --> 00:13:07,356
+é possível que
+
+239
+00:13:07,356 --> 00:13:09,896
+talvez até no momento que você está me assistindo isso
+
+240
+00:13:09,896 --> 00:13:12,076
+isso aqui já tenha evoluído muito mais
+
+241
+00:13:12,076 --> 00:13:13,716
+mas é um recurso interessante
+
+242
+00:13:14,236 --> 00:13:15,076
+para você
+
+243
+00:13:15,076 --> 00:13:17,316
+você imaginar as possibilidades também.
+
+244
+00:13:17,556 --> 00:13:19,156
+Agora eu quero mostrar pra você
+
+245
+00:13:19,156 --> 00:13:22,896
+como que você pode se clonar.
+
+246
+00:13:23,056 --> 00:13:26,396
+Ou até criar um personagem pra gravar vídeos.
+
+247
+00:13:26,636 --> 00:13:27,776
+Só que numa lógica diferente.
+
+248
+00:13:28,236 --> 00:13:32,096
+Ao invés de fazer uma conversa ao vivo com esse personagem,
+
+249
+00:13:32,396 --> 00:13:36,196
+imagine se você pudesse criar um clone seu de outra pessoa
+
+250
+00:13:36,196 --> 00:13:38,636
+ou construir uma persona sintética mesmo
+
+251
+00:13:38,636 --> 00:13:42,076
+e colocar ela pra gravar conteúdos pra você.
+
+252
+00:13:42,176 --> 00:13:44,476
+Você coloca a voz dela específica,
+
+253
+00:13:44,476 --> 00:13:46,776
+escreve o roteiro que ela precisa falar
+
+254
+00:13:46,776 --> 00:13:48,836
+e então ela grava esse conteúdo
+
+255
+00:13:48,836 --> 00:13:50,496
+pra você, igual eu mostrei
+
+256
+00:13:50,496 --> 00:13:52,256
+no iniciozinho aqui da trilha
+
+257
+00:13:52,256 --> 00:13:53,656
+o Ruanda Shopee
+
+258
+00:13:53,656 --> 00:13:56,316
+esse recurso ele já tá mais interessante
+
+259
+00:13:56,316 --> 00:13:58,996
+é possível fazer coisas legais
+
+260
+00:13:58,996 --> 00:14:00,936
+com ele e também dá pra fazer
+
+261
+00:14:00,936 --> 00:14:02,656
+algumas coisas gratuitas
+
+262
+00:14:02,656 --> 00:14:04,536
+e eu quero mostrar isso pra você
+
+263
+00:14:04,536 --> 00:14:06,596
+primeiro as gratuitas pra você ver o que
+
+264
+00:14:06,596 --> 00:14:08,616
+você já pode construir aí junto comigo
+
+265
+00:14:08,616 --> 00:14:10,416
+fazer alguns testes e depois
+
+266
+00:14:10,416 --> 00:14:12,716
+eu vou mostrar também uma ferramenta paga
+
+267
+00:14:12,716 --> 00:14:16,236
+que é líder de mercado e consegue entregar uma qualidade excepcional,
+
+268
+00:14:16,896 --> 00:14:18,776
+mas que tem alguns riscos de seguranças também.
+
+269
+00:14:18,896 --> 00:14:20,736
+Então vamos falar um pouquinho sobre isso que vai ser bem legal.
+

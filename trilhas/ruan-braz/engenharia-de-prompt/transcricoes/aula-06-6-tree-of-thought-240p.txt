@@ -1,0 +1,295 @@
+# Video: 6._tree_of_thought (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 08:33
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:13 --> 00:00:05:18] Depois de falar de cadeias de pensamento, vamos falar agora então sobre árvore de pensamentos.
+[00:00:05:26 --> 00:00:11:22] Tree of thoughts, geralmente é thoughts, ou pode ser thought também, de pensamento ou pensamentos,
+[00:00:12:11 --> 00:00:19:27] é quando você pede para Iá, ao mesmo tempo, seguir várias abordagens diferentes.
+[00:00:20:10 --> 00:00:26:18] Vou dar um exemplo que eu gosto muito. Vamos lá para o GPT e eu vou conseguir mostrar isso para vocês.
+[00:00:26:23 --> 00:00:28:08] Então, vou abrir uma outra conversa aqui.
+[00:00:33:15 --> 00:00:39:15] E vamos supor que nós queremos encontrar um nome para um estúdio de design.
+[00:00:39:26 --> 00:00:48:25] Se eu fosse usar um zero shot, eu falaria, me ajude a encontrar um nome para meu estúdio de design.
+[00:00:49:08 --> 00:00:53:01] Eu poderia até colocar aqui, me ajude a encontrar um nome para o meu estúdio de design.
+[00:00:53:04 --> 00:00:55:01] Gere 10 nomes. Vamos colocar assim.
+[00:00:56:10 --> 00:00:59:09] Esse aqui é o Zero Shot.
+[00:01:01:03 --> 00:01:03:17] Além dele, eu vou fazer aqui também o fill shot.
+[00:01:03:23 --> 00:01:05:04] Então, eu vou começar com o mesmo prompt,
+[00:01:05:11 --> 00:01:06:21] só que eu vou colocar aqui,
+[00:01:07:17 --> 00:01:10:12] meu conceito é filosófico.
+[00:01:12:04 --> 00:01:26:03] Gosto de ir em um caminho aprofundado, me inspiro muito no conhecimento humano, no renascimento, nos grandes filósofos.
+[00:01:27:22 --> 00:01:30:05] E crio projetos de design.
+[00:01:31:11 --> 00:01:33:16] Tem um conceito muito forte.
+[00:01:34:05 --> 00:01:36:00] Aqui eu fiz o famoso.
+[00:01:36:10 --> 00:01:37:28] Vou começar um novo aqui só.
+[00:01:39:29 --> 00:01:42:06] famoso, few shot. Então, aqui é zero shot.
+[00:01:42:12 --> 00:01:43:25] Ele trouxe lúmina, forma,
+[00:01:44:03 --> 00:01:46:00] nexo, aura, síntese, vértice,
+[00:01:46:15 --> 00:01:48:06] estro, traço, emes e fluxo.
+[00:01:48:06 --> 00:01:49:28] Com base no quê? Eu dei
+[00:01:49:28 --> 00:01:51:28] pelo menos um pouquinho de contexto pra ele. Eu falei que é um
+[00:01:51:28 --> 00:01:54:03] estúdio de design. Ele seguiu o que ele tinha de referência
+[00:01:54:03 --> 00:01:55:15] e me trouxe isso. Aqui,
+[00:01:55:18 --> 00:01:57:28] ele já trouxe outros. Porque ele
+[00:01:57:28 --> 00:01:59:10] tá pegando nomes aqui, olha.
+[00:01:59:20 --> 00:02:01:15] Porno alquímico da transformação.
+[00:02:01:19 --> 00:02:03:25] Já tem storytelling. Porque eu já falei
+[00:02:03:25 --> 00:02:05:13] de filosofia, trouxe meu conceito pra ele.
+[00:02:05:23 --> 00:02:07:09] Ellen, Simbalem,
+[00:02:08:01 --> 00:02:08:14] Axioma,
+[00:02:09:26 --> 00:02:11:10] Hyperion, Phronesis, inclusive
+[00:02:11:10 --> 00:02:13:16] a nossa agência iria se chamar Phronesis
+[00:02:13:16 --> 00:02:15:14] depois eu só decidi
+[00:02:15:14 --> 00:02:17:14] focar na Overlens
+[00:02:17:14 --> 00:02:19:00] por isso que eu não fui pra área de serviços
+[00:02:19:00 --> 00:02:20:26] mas a nossa agência iria se chamar Phronesis
+[00:02:22:00 --> 00:02:23:04] Miotic, que vem da
+[00:02:23:04 --> 00:02:24:28] Miotica do Sócrates
+[00:02:26:07 --> 00:02:27:06] Artefato, Aleteia,
+[00:02:27:08 --> 00:02:29:06] Kairos, ou seja, eu trouxe referência pra eles
+[00:02:29:06 --> 00:02:31:16] olha só como se eu mudar um pouquinho
+[00:02:31:16 --> 00:02:33:18] de contexto, ele já vai me levar
+[00:02:33:18 --> 00:02:34:08] em outra direção
+[00:02:34:08 --> 00:02:36:09] meu estúdio
+[00:02:36:09 --> 00:02:39:15] é extremamente
+[00:02:39:15 --> 00:02:40:27] extremamente
+[00:02:42:12 --> 00:02:43:15] extremamente
+[00:02:43:15 --> 00:02:45:19] prático. Focamos
+[00:02:45:19 --> 00:02:47:24] no minimalismo.
+[00:02:48:26 --> 00:02:49:27] Focamos no minimalismo.
+[00:02:50:23 --> 00:02:52:00] Design inspirado
+[00:02:52:00 --> 00:02:53:24] pela Apple. Vou roubar
+[00:02:53:24 --> 00:02:55:18] daquele lá. E queremos
+[00:03:00:04 --> 00:03:01:03] É, vou colocar só isso.
+[00:03:01:12 --> 00:03:02:17] Design inspirado pela Apple.
+[00:03:02:29 --> 00:03:06:23] E vou gerar num novo aqui, pra ele não ser influenciado pelo outro.
+[00:03:07:00 --> 00:03:08:27] Olha só como que ele vai em outra direção.
+[00:03:09:17 --> 00:03:10:00] Pure.
+[00:03:11:01 --> 00:03:11:14] Forma.
+[00:03:11:20 --> 00:03:12:03] Sense.
+[00:03:12:12 --> 00:03:13:03] Studio One.
+[00:03:13:10 --> 00:03:13:20] Lume.
+[00:03:13:27 --> 00:03:14:10] Núcleo.
+[00:03:14:11 --> 00:03:14:20] Clear.
+[00:03:15:16 --> 00:03:16:00] Prisma.
+[00:03:16:18 --> 00:03:17:01] Soma.
+[00:03:17:07 --> 00:03:18:13] Bem diferente, tá vendo?
+[00:03:18:18 --> 00:03:20:01] O contexto muda.
+[00:03:20:01 --> 00:03:20:13] Por quê?
+[00:03:20:16 --> 00:03:23:01] Eu tô falando pro guardião dessa biblioteca o quê?
+[00:03:23:15 --> 00:03:25:21] Vamos pra outra coluna.
+[00:03:25:22 --> 00:03:27:25] Vamos pra outra área.
+[00:03:28:01 --> 00:03:29:03] Outras prateleiras.
+[00:03:29:07 --> 00:03:29:25] E ele vai.
+[00:03:29:25 --> 00:03:37:21] vai você tá direcionando ele agora vamos supor que eu vou usar aqui um pote primeiro que que
+[00:03:37:21 --> 00:03:42:12] é o corte cadeia de pensamento eu vou pegar isso aqui e vou falar aqui para ele eu vou
+[00:03:42:12 --> 00:03:46:25] seguir de novo né de encontrar já de 10 nomes eu vou pegar essa ideia aqui ó
+[00:03:49:05 --> 00:03:56:16] do filosófico, eu vou falar primeiro registre os 10 conceitos filosóficos
+[00:03:56:16 --> 00:04:01:04] mais influentes do mundo, depois trace uma relação
+[00:04:03:17 --> 00:04:05:22] desses conceitos com...
+[00:04:06:25 --> 00:04:11:00] O meu estúdio de design.
+[00:04:11:07 --> 00:04:18:27] 3. Gere nomes inventados a partir deste conceito principal.
+[00:04:20:09 --> 00:04:23:21] 4. Avalie os nomes gerados.
+[00:04:25:15 --> 00:04:28:05] nos seguintes critérios.
+[00:04:29:14 --> 00:04:33:28] Leiturabilidade, legibilidade, hum...
+[00:04:35:23 --> 00:04:39:18] Estética, potencial de registro do nome.
+[00:04:40:15 --> 00:04:43:03] Olha só, olha só o repertório que eu tinha falado antes.
+[00:04:43:08 --> 00:04:44:13] Você tem que ter o repertório.
+[00:04:45:18 --> 00:04:50:05] Registro do nome e memorabilidade.
+[00:04:51:15 --> 00:04:51:28] 5.
+[00:04:53:08 --> 00:04:54:28] caso nenhum dos nomes.
+[00:04:56:08 --> 00:04:57:29] Bata, pelo menos.
+[00:04:59:17 --> 00:05:10:20] 8 de 10 na nota geral, gere mais 10 nomes e repita o processo até encontrar um nome 8 de 10.
+[00:05:10:28 --> 00:05:12:10] Aí eu vou colocar aqui.
+[00:05:14:29 --> 00:05:16:12] Abordagem para ele.
+[00:05:17:18 --> 00:05:18:05] Abordagem.
+[00:05:20:24 --> 00:05:21:29] E vou falar aqui para ele...
+[00:05:22:11 --> 00:05:23:06] Deixa eu pensar.
+[00:05:23:12 --> 00:05:25:28] Eu não vou complexificar agora, não.
+[00:05:25:29 --> 00:05:29:02] Vou fazer só desse jeito, só a cadeia de pensamentos.
+[00:05:31:03 --> 00:05:34:08] Aí ele vai seguir agora o meu processo, olha só que legal como que ele vai fazer.
+[00:05:34:10 --> 00:05:35:10] Ele está pensando, olha, ele começou.
+[00:05:35:16 --> 00:05:37:14] Tarefa 1, os 10 conceitos mais influentes.
+[00:05:38:14 --> 00:05:38:22] Logos.
+[00:05:40:02 --> 00:05:44:06] Aletheia, e vai trazer os dez conceitos mais influentes.
+[00:05:44:16 --> 00:05:46:11] Arete, Ellen Vital.
+[00:05:48:25 --> 00:05:49:21] Idealismo.
+[00:05:51:28 --> 00:05:52:06] Tchau, tchau, tchau.
+[00:05:54:04 --> 00:05:54:23] Sublime.
+[00:05:56:09 --> 00:05:56:24] Quase no 10.
+[00:05:57:08 --> 00:05:59:07] O GPT ultimamente está bem lentinho.
+[00:05:59:11 --> 00:06:01:05] Mas eu gosto das respostas dele.
+[00:06:01:12 --> 00:06:01:24] Dialética.
+[00:06:02:29 --> 00:06:03:11] Zeitgeist.
+[00:06:04:12 --> 00:06:06:28] Falei de Zeitgeist ontem com o meu amigo.
+[00:06:07:20 --> 00:06:08:02] Simulacro.
+[00:06:08:18 --> 00:06:09:00] Beleza.
+[00:06:09:16 --> 00:06:10:27] Agora ele foi para a segunda etapa.
+[00:06:10:29 --> 00:06:11:05] Está vendo?
+[00:06:12:02 --> 00:06:12:14] Relação.
+[00:06:12:20 --> 00:06:14:27] Aí ele está traçando a relação com cada conceito.
+[00:06:14:28 --> 00:06:15:22] Está me explicando aqui.
+[00:06:18:02 --> 00:06:20:04] Eu já estou colocando ele para seguir um processo, tá vendo?
+[00:06:20:11 --> 00:06:23:09] Como é bem parecido, é parecido com esse daqui, ó.
+[00:06:24:00 --> 00:06:24:16] Deixa aqui.
+[00:06:26:09 --> 00:06:29:23] É parecido com esse, só que agora eu expliquei o processo que eu quero que ele siga.
+[00:06:29:25 --> 00:06:30:25] Aqui ele foi diferente.
+[00:06:31:04 --> 00:06:35:12] E olha como que ele trouxe uma resposta cheia de fontes, bem melhor, com...
+[00:06:36:21 --> 00:06:37:11] Poucas informações.
+[00:06:37:22 --> 00:06:40:28] Então, os modelos de L estão ficando cada vez mais fáceis de usar.
+[00:06:41:04 --> 00:06:44:11] Só que ainda assim, se você sabe engenharia de prompt, igual eu estou te ensinando,
+[00:06:44:23 --> 00:06:49:05] se você usar essa técnica aqui, por exemplo, que a gente está usando,
+[00:06:50:03 --> 00:06:53:23] nesse aqui, você vai para um nível absurdo, mas a gente vai chegar lá depois,
+[00:06:53:25 --> 00:06:55:10] eu vou mostrar o que eu já fiz com eles, tá?
+[00:06:56:13 --> 00:06:57:28] Geração de 10 nomes inventados.
+[00:06:58:01 --> 00:07:01:22] Então, olha, ele pegou esses daqui, pegou o sim, os 6 melhores.
+[00:07:03:08 --> 00:07:06:13] Ele já fez um filtro, ele que quis escolher isso, foi autônomo dele.
+[00:07:06:29 --> 00:07:08:22] E gerou dez nomes inventados.
+[00:07:09:11 --> 00:07:10:26] Juntou os conceitos.
+[00:07:11:20 --> 00:07:14:04] Disso é que ele avaliou, então, os nomes.
+[00:07:14:15 --> 00:07:16:28] Pegou os que não passaram, pegou os que passaram.
+[00:07:17:13 --> 00:07:18:25] E aí ele foi resultado final.
+[00:07:18:28 --> 00:07:20:15] O melhor foi Aletheon.
+[00:07:21:27 --> 00:07:25:26] Aqui eu não pedi para ele avaliar, por exemplo, ele avaliou até estética,
+[00:07:25:29 --> 00:07:31:01] e eu poderia perguntar para ele, o que você avaliou em estética?
+[00:07:31:04 --> 00:07:34:03] Porque eu achei esse nome aqui muito feio, às vezes você pode falar isso se você não gostou.
+[00:07:34:11 --> 00:07:37:12] Mas agora deixa eu mostrar para vocês árvore de pensamento.
+[00:07:37:15 --> 00:07:39:10] Então vamos lá, vou abrir um novo aqui.
+[00:07:39:22 --> 00:07:40:26] E o que eu vou fazer?
+[00:07:40:28 --> 00:07:45:06] Eu vou pedir para Iá assumir vários papéis ao mesmo tempo.
+[00:07:45:10 --> 00:07:46:00] Como assim, Juan?
+[00:07:46:07 --> 00:07:48:03] Ao invés de essa Iá...
+[00:07:49:16 --> 00:07:51:00] sozinha, seguir os passos,
+[00:07:51:01 --> 00:07:53:21] eu vou fazê-la agir como multipersonas.
+[00:07:54:01 --> 00:07:54:27] Então, eu vou falar aqui.
+[00:07:56:14 --> 00:08:03:29] A partir de agora, você vai agir como uma equipe de criação de nomes.
+[00:08:04:06 --> 00:08:11:28] Cada pessoa nessa equipe tem um papel e você vai gerar uma discussão.
+[00:08:13:06 --> 00:08:16:21] de brainstorm entre as pessoas dessa equipe.
+[00:08:16:21 --> 00:08:17:26] Isso aqui é muito divertido de fazer.
+[00:08:20:00 --> 00:08:21:14] Aí eu vou colocar aqui, ó, equipe.
+[00:08:22:14 --> 00:08:23:09] Vou organizar pra ele.
+[00:08:25:18 --> 00:08:38:11] designer avalia a estética do nome 2 linguista avalia a semiótica do nome 3
+[00:08:42:14 --> 00:08:46:01] Vou colocar aqui profissional de especialista em registro de marca.
+[00:08:47:11 --> 00:08:51:00] Especialista em registro de marcas.
+[00:08:51:14 --> 00:08:54:17] Avalia a disponibilidade, o potencial, né?
+[00:08:54:20 --> 00:08:59:11] O potencial de registro da marca.
+[00:09:00:03 --> 00:09:00:10] 4.
+[00:09:01:22 --> 00:09:02:20] Estrategista.
+[00:09:03:21 --> 00:09:04:11] Avalia.
+[00:09:06:03 --> 00:09:09:07] O impacto do nome no público.
+[00:09:10:09 --> 00:09:10:27] Cinco.
+[00:09:11:24 --> 00:09:13:14] Vamos colocar esses quatro aqui.
+[00:09:13:24 --> 00:09:14:25] Então, coloquei equipe.
+[00:09:14:27 --> 00:09:17:12] E ele vai gerar uma discussão entre eles.
+[00:09:17:14 --> 00:09:19:01] Ainda é na ideia filosófica.
+[00:09:19:03 --> 00:09:21:20] A única coisa que eu vou colocar aqui agora é público, né?
+[00:09:22:15 --> 00:09:23:03] Público.
+[00:09:23:03 --> 00:09:25:08] Aí eu colocaria meu perfil ideal de cliente aqui.
+[00:09:26:04 --> 00:09:29:25] Meu perfil ideal de cliente são...
+[00:09:31:12 --> 00:09:32:00] Empresas.
+[00:09:32:02 --> 00:09:33:03] Vou colocar...
+[00:09:33:03 --> 00:09:39:22] Médias empresas com faturamento acima de 10 milhões por ano.
+[00:09:41:04 --> 00:09:48:12] Eu tenho uma abordagem profunda que demora alguns meses para ser executada.
+[00:09:48:15 --> 00:09:57:12] Por isso, preciso de clientes que estejam preparados para essa imersão, tanto financeiramente...
+[00:10:01:03 --> 00:10:01:27] em disponibilidade
+[00:10:01:27 --> 00:10:04:06] de tempo, equipe
+[00:10:04:06 --> 00:10:06:05] e recursos. Vou colocar só assim.
+[00:10:06:10 --> 00:10:07:19] Ou seja, já estou dando mais
+[00:10:08:04 --> 00:10:10:05] contexto para ele, mas agora a gente vai usar
+[00:10:10:05 --> 00:10:12:02] essa técnica aqui. Eu estou usando de um jeito
+[00:10:12:02 --> 00:10:14:12] bem simples, tem como destrinchar
+[00:10:14:12 --> 00:10:16:00] isso muito mais. Depois eu vou dar para vocês
+[00:10:16:00 --> 00:10:18:00] referências para vocês estudarem, mas
+[00:10:18:00 --> 00:10:19:21] em essência aqui, guarda isso.
+[00:10:20:06 --> 00:10:22:04] Então agora olha só que legal, ele vai gerar
+[00:10:22:04 --> 00:10:24:01] uma conversa entre eles.
+[00:10:24:01 --> 00:10:25:27] Aqui está a discussão da equipe para os nomes,
+[00:10:25:27 --> 00:10:28:10] cada membro avalia. Aí o Ars Magna
+[00:10:28:10 --> 00:10:28:27] designer
+[00:10:30:21 --> 00:10:31:24] Aqui, eles deram esse nome.
+[00:10:31:28 --> 00:10:35:28] Aí o designer falou, nome elegante, remete ao latim e à tradição do conhecimento profundo.
+[00:10:35:29 --> 00:10:40:15] O linguista falou, significa a grande arte, inspirado no trabalho de Ramon Lu,
+[00:10:40:19 --> 00:10:43:18] filósofo medieval que buscava um método universal de conhecimento.
+[00:10:43:24 --> 00:10:46:26] O especialista falou, poucas marcas registradas com esse nome no Brasil,
+[00:10:47:00 --> 00:10:51:20] mas há menções literárias, boa chance de registro como uma segunda palavra ou domínio diferenciado.
+[00:10:51:24 --> 00:10:55:05] Claro, depois você vai ter que checar, fazer o processo, mas isso aqui já te dá insights.
+[00:10:56:07 --> 00:11:00:11] Estrategista, nome transmite exclusividade, sofisticação e um processo altamente conceitual.
+[00:11:00:11 --> 00:11:01:27] Aí foi. Ele vai fazer isso com cada um.
+[00:11:01:29 --> 00:11:03:23] Só que aqui ele não fez ainda o que eu queria.
+[00:11:04:11 --> 00:11:07:20] Eu vou mostrar um exemplo para vocês mais prático que eu fiz no Cloud.
+[00:11:10:19 --> 00:11:12:23] Vou ter que buscar aqui nas minhas conversas.
+[00:11:13:01 --> 00:11:15:02] Cara, nossa, vão ser muitas conversas.
+[00:11:15:02 --> 00:11:16:04] Naming, vamos ver aqui.
+[00:11:20:10 --> 00:11:23:04] Deixa eu ver se foi um desses aqui que eu coloquei eles para conversarem.
+[00:11:25:23 --> 00:11:26:14] Acho que foi esse aqui, ó.
+[00:11:26:23 --> 00:11:30:20] Gere palavras que tenham a mesma carga de significado que mitos
+[00:11:30:20 --> 00:11:33:26] e estejam disponíveis para registro na classe de SAS.
+[00:11:34:14 --> 00:11:36:24] Siga a abordagem das maiores empresas de NEM do mundo.
+[00:11:36:28 --> 00:11:40:14] Haja como se fosse uma equipe inteira de quatro especialistas
+[00:11:40:14 --> 00:11:43:02] de áreas diferentes que se complementam
+[00:11:43:02 --> 00:11:44:22] e geram um processo criativo rico
+[00:11:44:22 --> 00:11:47:21] para encontrar mais nomes com a mesma carga que mitos.
+[00:11:47:26 --> 00:11:50:03] Aí ele mergulhou nas fases aqui.
+[00:11:50:13 --> 00:11:52:16] Inclusive, isso aqui foi um prompt bem fraquinho, tá?
+[00:11:52:16 --> 00:11:55:02] Ele foi um few shots com um pouquinho de touch.
+[00:11:55:09 --> 00:11:56:08] De tree of thoughts.
+[00:11:56:15 --> 00:11:58:12] Mas daria para eu fazê-lo muito melhor.
+[00:11:58:19 --> 00:12:00:16] Aqui eu estou só mostrando exemplos para vocês.
+[00:12:01:03 --> 00:12:02:15] Ele gerou os nomes aqui.
+[00:12:03:15 --> 00:12:04:08] Deixa eu ver.
+[00:12:04:11 --> 00:12:05:17] Aqui ainda ele não fez.
+[00:12:05:23 --> 00:12:06:19] Foi outro então.
+[00:12:06:28 --> 00:12:07:20] Até por isso aí.
+[00:12:07:22 --> 00:12:07:27] Está vendo?
+[00:12:08:12 --> 00:12:09:29] O prompt poderia ter sido melhor.
+[00:12:10:05 --> 00:12:11:15] Vamos pegar uma outra conversa aqui.
+[00:12:11:21 --> 00:12:12:05] Naming.
+[00:12:14:00 --> 00:12:15:26] Deixa eu ver essa e essa.
+[00:12:16:04 --> 00:12:18:06] Uma dessas aqui, eu segui essa abordagem.
+[00:12:19:29 --> 00:12:21:24] Não, aqui eu já estava fazendo a análise.
+[00:12:26:07 --> 00:12:28:02] Aqui era só uma avaliação de nomes.
+[00:12:28:03 --> 00:12:28:29] Deixa eu ver esse daqui.
+[00:12:33:14 --> 00:12:34:13] Esse aqui, esse é bom.
+[00:12:36:25 --> 00:12:41:07] Deixa eu ver se é um designer, porque aqui o prompt está ruim, tá?
+[00:12:42:03 --> 00:12:46:18] Muitos desses prompts, às vezes, eu só escrevo um áudio e mando,
+[00:12:46:18 --> 00:12:50:11] às vezes eu digito rapidão e mando, vou mandando várias IAs fazerem ao mesmo tempo.
+[00:12:50:17 --> 00:12:52:19] Então, tem uma hora que eu faço meio desleixado.
+[00:12:52:23 --> 00:12:56:22] Esse daqui claramente já é um prompt desleixado, mas ele mostra o exemplo, olha só.
+[00:12:57:00 --> 00:13:00:29] Você é um designer inteligente que quer criar um nome para uma startup de criação de brand systems.
+[00:13:01:15 --> 00:13:05:14] Você é exigente e quer um nome tão bom quanto das maiores startups do mundo.
+[00:13:05:14 --> 00:13:11:01] Para isso, você contratou um profissional de naming e sua equipe extremamente capacitada para criar o nome perfeito.
+[00:13:11:04 --> 00:13:14:07] Ah, legal, criei um storytelling, que inclusive é uma técnica muito usada.
+[00:13:14:18 --> 00:13:17:01] Você cria um storytelling, um contexto e uma narrativa.
+[00:13:17:04 --> 00:13:18:15] E aí ele vai seguir ela para você.
+[00:13:18:24 --> 00:13:20:18] Então, vocês iniciam uma dinâmica.
+[00:13:20:19 --> 00:13:23:28] Você, o profissional e mais duas pessoas da sua equipe.
+[00:13:24:00 --> 00:13:26:10] Você explica seu contexto e a dinâmica começa.
+[00:13:26:19 --> 00:13:32:05] Vocês são obcecados e vão longe, explorando centenas de nomes para encontrar o ideal.
+[00:13:32:19 --> 00:13:35:06] Aí vem aqui, ó, ótimo, vamos começar a sessão de naming.
+[00:13:35:14 --> 00:13:41:07] Como vocês sabem, estamos criando uma empresa focada em Brand Systems, algo que vai além do design visual tradicional.
+[00:13:41:18 --> 00:13:46:15] Queremos ser referência em criar sistemas de marca completos, escaláveis e com personalidade única.
+[00:13:46:28 --> 00:13:53:12] Nosso desafio é encontrar um nome que transmita inovação, seja memorável, funcione globalmente, tenha domínio.com,
+[00:13:53:15 --> 00:13:57:00] capture a essência de construir marcas como sistemas vivos.
+[00:13:57:03 --> 00:14:01:12] Como facilitador da dinâmica, vou alterar entre os diferentes participantes da sessão.
+[00:14:01:16 --> 00:14:04:09] Aí ele começou, Sarah, especialista em naming.
+[00:14:04:09 --> 00:14:05:09] A Sarah falou,
+[00:14:34:09 --> 00:14:38:00] Como fundador, interessantes sugestões, mas ainda não chegamos lá.
+[00:14:38:03 --> 00:14:41:13] Quero algo no nível de Stripe ou Square.
+[00:14:41:29 --> 00:14:43:07] Simples, mas poderoso.
+[00:14:43:12 --> 00:14:44:24] Vamos continuar explorando.
+[00:14:44:25 --> 00:14:47:07] O que acham de palavras relacionadas à arquitetura de sistemas?
+[00:14:47:18 --> 00:14:49:15] Como prosseguimos com nossa exploração?
+[00:14:49:17 --> 00:14:51:00] Qual direção acham mais promissora?
+[00:14:51:06 --> 00:14:52:09] Aí eu só falei, siga.
+[00:14:52:28 --> 00:14:55:01] Continua no roleplay, continua na jornada.
+[00:14:55:03 --> 00:14:57:14] E ele vai conversando até gerar um nome.
+[00:14:57:16 --> 00:14:59:15] E eu consegui nomes muito bons aqui.
+[00:14:59:27 --> 00:15:03:01] Seguindo essa aqui, é uma estratégia muito boa também.
+[00:15:03:01 --> 00:15:09:01] também e aí fica aqui de exemplo para vocês que a cadeia cadê não árvore de pensamentos tem o link
+[00:15:09:01 --> 00:15:13:18] também de referência aqui explicando como ela funciona você coloca aí a para seguir vários
+[00:15:13:18 --> 00:15:18:10] caminhos diferentes essa ali que eu fiz é uma árvore de pensamento de pensamentos bem básica
+[00:15:18:27 --> 00:15:23:02] dá para aprofundar muito mais aqui tem vários exemplos de como fazer isso e tem os autores
+[00:15:23:02 --> 00:15:27:25] que inventaram também esse tipo de prompt o link vai ficar para vocês aqui embaixo

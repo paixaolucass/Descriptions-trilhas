@@ -1,0 +1,243 @@
+# Video: Aula 4 _ Como Receber Pagamentos Em Dólar.mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-24 12:15
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:08 --> 00:00:01:27] Receber pagamento, tá?
+[00:00:01:29 --> 00:00:03:14] Como é que funciona isso aqui?
+[00:00:03:27 --> 00:00:07:05] Depois que vocês tiverem o projeto de vocês, que vocês já fecharam,
+[00:00:07:26 --> 00:00:11:05] vocês vão vir aqui em adicionar um método de recebimento
+[00:00:11:05 --> 00:00:15:18] e vocês vão ver que tem diversas formas aqui de vocês receberem.
+[00:00:17:01 --> 00:00:19:22] Tem como receber direto para o banco de vocês.
+[00:00:20:01 --> 00:00:26:26] Só que ele gasta um dólar por depósito que vocês tiram e...
+[00:00:28:08 --> 00:00:32:25] O banco, o banco de vocês é que vai fazer a conversão do dinheiro.
+[00:00:33:02 --> 00:00:35:06] Isso é muito importante levar em consideração também.
+[00:00:35:11 --> 00:00:40:01] Porque geralmente ele tem taxas muito altas se tu depositar direto.
+[00:00:40:05 --> 00:00:44:12] Então, conforme vocês forem fazendo, no primeiro momento não pode parecer tanto,
+[00:00:44:14 --> 00:00:46:11] mas vamos dizer que vocês fecham um projeto de mil dólares.
+[00:00:47:09 --> 00:00:49:02] Isso aqui vai contar pra caramba.
+[00:00:49:04 --> 00:00:50:22] Vai fazer uma diferença muito grande.
+[00:00:50:27 --> 00:00:54:14] Por isso que a gente vai utilizar uma plataforma que eu vou mostrar daqui a pouquinho pra vocês,
+[00:00:54:14 --> 00:00:56:22] que vai facilitar e muito
+[00:00:56:22 --> 00:00:58:15] pra não ter tanta taxa, a gente quer
+[00:00:59:06 --> 00:01:00:28] receber o máximo que a gente puder
+[00:01:00:28 --> 00:01:03:05] já no Payoneer
+[00:01:03:05 --> 00:01:04:02] ele é uma
+[00:01:04:23 --> 00:01:06:03] plataforma também de recebimento
+[00:01:06:19 --> 00:01:08:03] só que é 2 dólares
+[00:01:08:03 --> 00:01:11:04] e ele tem outras taxas, eu não recomendo
+[00:01:11:04 --> 00:01:13:02] tem outro que é o Paypal
+[00:01:13:17 --> 00:01:14:24] que também eu não
+[00:01:14:24 --> 00:01:16:17] recomendo, ele também é 2 dólares
+[00:01:16:17 --> 00:01:18:09] e ele é bem complicado
+[00:01:18:09 --> 00:01:20:22] as taxas de conversão dele são muito
+[00:01:20:22 --> 00:01:22:22] altas, eu lembro que
+[00:01:22:22 --> 00:01:24:02] Que é a primeira vez que eu...
+[00:01:25:13 --> 00:01:26:11] Fiz um projeto internacional,
+[00:01:26:26 --> 00:01:28:00] fui lá pela Upwork,
+[00:01:28:27 --> 00:01:31:24] eu recebi pelo Paypal
+[00:01:31:24 --> 00:01:35:12] e eu perdi quase mil reais lá dentro, de taxas, tá?
+[00:01:35:23 --> 00:01:39:14] Então, é muito dinheiro que não vale a pena,
+[00:01:39:14 --> 00:01:41:08] a experiência não acho muito boa também,
+[00:01:41:15 --> 00:01:43:02] então a gente vai utilizar de outras formas.
+[00:01:43:24 --> 00:01:46:28] Esse aqui é para transferência direta,
+[00:01:46:29 --> 00:01:50:28] para ser bem honesto,
+[00:01:50:28 --> 00:01:52:04] eu não sei exatamente como é que funciona,
+[00:01:52:11 --> 00:01:53:11] eu nunca testei,
+[00:01:53:28 --> 00:01:55:16] Mas é pra americanos, né?
+[00:01:55:16 --> 00:01:58:12] É pra enviar direto pra conta bancária.
+[00:01:59:00 --> 00:02:00:11] E é bem caro, ó.
+[00:02:01:05 --> 00:02:02:15] 50 dólares pra enviar.
+[00:02:02:16 --> 00:02:03:18] Então a gente não vai usar isso.
+[00:02:03:23 --> 00:02:05:13] É esse aqui que a gente vai enviar.
+[00:02:05:15 --> 00:02:08:27] Que é enviar diretamente pra uma conta dos Estados Unidos.
+[00:02:09:06 --> 00:02:10:06] Que é gratuito.
+[00:02:10:20 --> 00:02:12:03] Só que daí vocês podem perguntar.
+[00:02:12:05 --> 00:02:14:12] Beleza, eu tô no Brasil, Escopel.
+[00:02:14:14 --> 00:02:18:07] Como é que eu vou ter uma conta dos Estados Unidos, né?
+[00:02:18:16 --> 00:02:19:25] Como é que eu vou fazer isso?
+[00:02:20:06 --> 00:02:21:08] Então eu vou ensinar pra vocês.
+[00:02:21:08 --> 00:02:26:22] Vocês podem vir aqui em Setup Account, que é para adicionar uma conta bancária.
+[00:02:27:02 --> 00:02:31:08] E a ideia que a gente vai fazer é criar uma conta na Wise.
+[00:02:31:17 --> 00:02:35:00] A Wise é uma plataforma de recebimento de pagamentos,
+[00:02:35:03 --> 00:02:41:28] que é a melhor, na minha opinião, tanto em usabilidade quanto em taxas.
+[00:02:41:28 --> 00:02:46:08] Ela é que tem menos taxas que vocês vão gastar para receber o dinheiro de vocês,
+[00:02:46:11 --> 00:02:47:21] para fazer a conversão do dinheiro.
+[00:02:47:21 --> 00:03:05:16] vocês conseguem receber o cartão físico gratuitamente pra ir pra qualquer viagem, vocês podem utilizar, vocês podem criar carteiras com moedas de todos os países, então é excelente essa plataforma, eu vou mostrar pra vocês como é que ela funciona.
+[00:03:05:16 --> 00:03:07:11] funciona. Mas a ideia é vocês
+[00:03:07:11 --> 00:03:09:15] criarem uma conta aqui, eu vou
+[00:03:10:15 --> 00:03:11:00] peraí
+[00:03:11:00 --> 00:03:13:11] a ideia é que vocês vão criar uma conta
+[00:03:13:11 --> 00:03:15:18] aqui dentro, eu vou passar depois um link pra vocês
+[00:03:15:18 --> 00:03:17:14] que vocês tem menos
+[00:03:17:14 --> 00:03:19:16] taxas nos primeiros 3 mil
+[00:03:19:16 --> 00:03:21:12] reais que vocês gastam na plataforma
+[00:03:21:12 --> 00:03:23:05] então é muito bom
+[00:03:24:04 --> 00:03:25:11] aqui eu coloquei um
+[00:03:25:11 --> 00:03:27:12] dinheirinho, mas a ideia é que vocês tem as
+[00:03:27:12 --> 00:03:29:13] carteiras, aqui é a carteira
+[00:03:29:13 --> 00:03:31:26] americana, aqui é a carteira brasileira
+[00:03:31:26 --> 00:03:33:12] e a carteira chilena
+[00:03:33:12 --> 00:03:36:03] que eu criei porque eu fui pro Chile esse ano.
+[00:03:36:09 --> 00:03:38:00] Então, eu botei dinheiro aqui dentro
+[00:03:38:00 --> 00:03:42:07] e eu consegui utilizar o meu cartão em qualquer país.
+[00:03:42:12 --> 00:03:44:16] Então, se eu quiser, se eu vou viajar pra algum país,
+[00:03:44:21 --> 00:03:46:26] eu venho aqui e as que vocês vão fazer
+[00:03:46:26 --> 00:03:49:20] pra criar a carteira americana de vocês...
+[00:03:49:20 --> 00:03:50:24] Deixa eu até voltar pra mostrar melhor.
+[00:03:51:18 --> 00:03:54:06] Aqui, ó, vai aparecer adicione outra moeda da sua conta.
+[00:03:54:12 --> 00:03:55:09] Vocês clicam aqui.
+[00:03:57:03 --> 00:03:58:26] E vai ter aqui pra adicionar o saldo.
+[00:03:59:08 --> 00:04:01:00] Aqui vocês colocam pra abrir.
+[00:04:01:23 --> 00:04:05:00] E vai ter tudo isso de moedas, ó.
+[00:04:05:18 --> 00:04:07:07] Tudo isso que vocês podem adicionar.
+[00:04:07:10 --> 00:04:09:03] Vamos dizer que eu queira criar uma de...
+[00:04:09:21 --> 00:04:11:18] Vou botar uma aqui que provavelmente...
+[00:04:12:09 --> 00:04:14:05] Vou botar, sei lá, coroa tcheca.
+[00:04:14:09 --> 00:04:14:26] Pode ser.
+[00:04:15:07 --> 00:04:17:28] Vocês vão confirmar, mas aqui vai ser dos Estados Unidos, tá?
+[00:04:18:00 --> 00:04:18:26] Dólar americano.
+[00:04:19:21 --> 00:04:20:27] Coloca pra confirmar.
+[00:04:22:16 --> 00:04:29:10] E pronto, vocês vão ter um saldo da americana, né?
+[00:04:29:15 --> 00:04:32:00] Vocês vêm aqui em ativar dados de conta
+[00:04:32:00 --> 00:04:36:13] e a partir disso vocês já têm como receber dinheiro.
+[00:04:36:16 --> 00:04:39:09] É como se você tivesse criado uma conta no banco.
+[00:04:39:18 --> 00:04:42:10] Então, a partir desses dados que vocês têm aqui,
+[00:04:42:13 --> 00:04:43:28] vai ser diferente para vocês,
+[00:04:44:04 --> 00:04:46:21] porque vai ser nos dados americanos, tá?
+[00:04:46:24 --> 00:04:48:04] É diferente disso aqui,
+[00:04:48:09 --> 00:04:50:29] mas eu não vou mostrar os meus por privacidade mesmo.
+[00:04:52:16 --> 00:04:54:27] Vocês vão copiar, que vai ter exatamente aqui.
+[00:04:54:29 --> 00:04:58:05] O tipo de conta, vocês colocam o Individual Checking.
+[00:04:58:12 --> 00:05:02:06] O Routing Number, vocês vão ter ali para copiar também.
+[00:05:02:13 --> 00:05:03:19] O número da conta.
+[00:05:03:25 --> 00:05:06:03] E só confirmar o número da conta.
+[00:05:06:10 --> 00:05:10:27] A partir disso, é só adicionar aqui e pronto.
+[00:05:11:06 --> 00:05:16:08] Você já tem como receber dinheiro para vocês mesmos na conta da Wise.
+[00:05:16:14 --> 00:05:21:02] Então, sempre que vocês vierem aqui e estiverem nessa parte,
+[00:05:21:05 --> 00:05:22:10] que eu disse que é quase uma esteira,
+[00:05:22:16 --> 00:05:27:04] Quando chega o dinheiro aqui, vocês vão clicar em ser pagos e pronto.
+[00:05:27:10 --> 00:05:31:20] O dinheiro vai chegar aqui na conta de vocês, vai aparecer aqui, ó.
+[00:05:31:26 --> 00:05:34:02] Aqui eu adicionei como exemplo, tá?
+[00:05:34:08 --> 00:05:35:10] Adicionei 15 dólares.
+[00:05:35:28 --> 00:05:40:14] Vocês vão clicar aqui e vocês já conseguem mandar para a conta bancária de vocês.
+[00:05:40:19 --> 00:05:42:10] Isso já é excelente.
+[00:05:42:26 --> 00:05:44:16] Só que uma recomendação, tá?
+[00:05:44:22 --> 00:05:48:06] Até eu vi que teve gente que estava criando conta PJ aqui dentro.
+[00:05:48:14 --> 00:05:49:16] Não recomendo.
+[00:05:49:16 --> 00:05:52:04] porque além de ter menos funcionalidades
+[00:05:52:04 --> 00:05:53:09] do que a gente precisa
+[00:05:53:09 --> 00:05:55:16] ele tem algumas taxas a mais
+[00:05:55:16 --> 00:05:57:00] e além disso
+[00:05:57:00 --> 00:05:59:08] vocês vão precisar gastar
+[00:05:59:08 --> 00:06:00:19] 250 reais
+[00:06:00:19 --> 00:06:03:21] para ativar a conta de vocês
+[00:06:03:21 --> 00:06:04:13] na Wise
+[00:06:04:13 --> 00:06:07:02] agora na conta de pessoa física
+[00:06:07:02 --> 00:06:08:05] não tem esse problema
+[00:06:08:05 --> 00:06:10:29] vocês vão só clicar, criar a conta
+[00:06:12:12 --> 00:06:14:19] Vocês já conseguem receber, não vai ter problema nenhum,
+[00:06:14:23 --> 00:06:18:17] vocês já conseguem receber o cartão de vocês e está tudo certo.
+[00:06:18:23 --> 00:06:23:06] É bem simples mesmo, sem ter que gastar 250 reais, né?
+[00:06:23:15 --> 00:06:26:18] E a partir disso vocês conseguem enviar para a conta PJ,
+[00:06:26:28 --> 00:06:29:17] daí de vocês, se vocês já têm, para a conta física.
+[00:06:30:07 --> 00:06:33:29] Recomendo PJ, porque vocês, dependendo de quanto vocês começarem a receber,
+[00:06:34:03 --> 00:06:35:12] vocês vão ter que criar uma empresa, tá?
+[00:06:35:23 --> 00:06:37:11] Faz parte, pagar imposto.
+[00:06:37:18 --> 00:06:41:06] Mas eu vejo como parte disso, né?
+[00:06:41:06 --> 00:06:46:23] melhor pagar imposto estar ganhando bem do que não pagar imposto nenhum e não receber tanto.
+[00:06:47:08 --> 00:06:52:05] Então, isso também é legal de vocês começarem atrás, tem que ter toda a parte contábil mesmo,
+[00:06:52:26 --> 00:06:58:29] converse com uma contabilidade quando vocês começarem a receber mais dinheiro no mercado internacional.
+[00:06:59:26 --> 00:07:01:09] Mas fora isso...
+[00:07:02:17 --> 00:07:04:06] Basicamente isso, é bem simples mesmo.
+[00:07:04:15 --> 00:07:08:10] Aqui vocês conseguem ver também os cálculos de transferência.
+[00:07:08:20 --> 00:07:11:16] Então, aqui, só para testar, né?
+[00:07:11:16 --> 00:07:14:03] Quanto que vocês querem enviar, por exemplo.
+[00:07:14:05 --> 00:07:19:04] Eu quero comprar, quero pagar 200 reais e quero ver quantos dólares que eu posso comprar.
+[00:07:19:15 --> 00:07:21:15] Daí aqui vai dar 33 dólares.
+[00:07:21:27 --> 00:07:24:11] Para vocês verem como nossa moeda é desvalorizada, né?
+[00:07:24:12 --> 00:07:24:27] Infelizmente.
+[00:07:25:08 --> 00:07:29:03] Aqui ele já mostra quanto de tarifa e quanto que vai ser entrega.
+[00:07:29:05 --> 00:07:30:29] E é tipo quase instantâneo, tá?
+[00:07:31:19 --> 00:07:36:14] geralmente eu clico ali para enviar, já chega na minha conta, é muito, muito bom.
+[00:07:37:24 --> 00:07:41:07] E fora isso, uma das coisas que eu recomendo vocês fazerem também
+[00:07:41:07 --> 00:07:45:19] é adicionarem um método de pagamento aqui dentro.
+[00:07:45:25 --> 00:07:52:11] Vocês vão vir aqui nas configurações e vai ter aqui os métodos de pagamento nessa parte.
+[00:07:53:10 --> 00:07:54:27] Vocês vão ver que eu não adicionei ainda.
+[00:07:55:23 --> 00:08:01:22] Na época que eu comecei, eles dão mais conexos de graça para começar.
+[00:08:01:25 --> 00:08:04:00] Então, não precisa gastar no primeiro momento.
+[00:08:04:22 --> 00:08:07:17] Mas eu recomendo adicionar aqui.
+[00:08:07:20 --> 00:08:10:12] Pode ser um cartão de crédito, só que precisa ser internacional.
+[00:08:11:24 --> 00:08:12:29] E vou dizer uma coisa para vocês.
+[00:08:13:00 --> 00:08:15:02] Tomem cuidado para ser um cartão internacional.
+[00:08:16:22 --> 00:08:17:10] O que aconteceu?
+[00:08:18:01 --> 00:08:20:16] Tem uma história engraçada para contar para vocês.
+[00:08:21:12 --> 00:08:28:05] Na quinta-feira eu estava querendo adicionar como exemplo para vocês aqui a minha conta, meu cartão.
+[00:08:29:19 --> 00:08:34:10] Só que eu adicionei o cartão da Wise e ele não tinha saldo nenhum.
+[00:08:34:16 --> 00:08:37:09] E eu achei que tá tudo bem, tá tudo certo, não vai ter problema.
+[00:08:37:22 --> 00:08:39:16] Só que aconteceu isso aqui, ó.
+[00:08:40:12 --> 00:08:44:20] Esse problema é que eles enviam um certo valorzinho, é só uma verificação,
+[00:08:45:08 --> 00:08:50:01] só que como não tinha dinheiro, eles acharam que fosse um tipo de golpe, aparentemente,
+[00:08:50:09 --> 00:08:53:07] e eles suspenderam praticamente tudo da minha conta.
+[00:08:53:15 --> 00:08:55:16] Eu consegui resolver isso hoje de manhã.
+[00:08:56:03 --> 00:08:59:05] Tava com bastante receio, não conseguia mudar nada aqui.
+[00:08:59:05 --> 00:09:04:07] Se fosse vir no meu perfil, eu não conseguia ver dados financeiros,
+[00:09:04:09 --> 00:09:08:09] eu não conseguia mudar as configurações aqui, isso aqui ficava cinza.
+[00:09:08:12 --> 00:09:11:09] É como se a minha conta estivesse semi-suspensa.
+[00:09:11:25 --> 00:09:15:19] Então, eu precisei entrar em contato com o suporte deles para resolver essa situação.
+[00:09:16:01 --> 00:09:19:13] Eles tiraram esse método de pagamento que eu tinha tentado.
+[00:09:20:10 --> 00:09:24:12] Então, assim, ao menos eu vejo como algo positivo, já que resolveu,
+[00:09:24:12 --> 00:09:28:04] porque eu consigo passar para vocês agora, né?
+[00:09:28:04 --> 00:09:29:25] Pra vocês não terem esse problema.
+[00:09:30:06 --> 00:09:33:01] Então cuidado com o método de pagamento que vocês vão botar.
+[00:09:33:03 --> 00:09:39:00] Se forem tentar dar wise, coloquem algum valor ao menos, nem que seja uns 15 dólares.
+[00:09:39:06 --> 00:09:42:18] Eu acho que já vai... 15, 10 dólares eu acho que já vai funcionar bem.
+[00:09:43:12 --> 00:09:45:01] Pra ele não ter esse problema.
+[00:09:45:04 --> 00:09:49:24] Porque depois eu tentei de novo, quando a minha conta ainda tava suspensa, e ele verificou.
+[00:09:50:13 --> 00:09:51:10] Cartão verificado.
+[00:09:52:13 --> 00:09:54:07] Então provavelmente funciona também.
+[00:09:54:07 --> 00:09:55:26] também, é só tomarem esse cuidado
+[00:09:55:26 --> 00:09:56:27] pra
+[00:09:58:03 --> 00:09:59:19] não terem a conta de você
+[00:09:59:19 --> 00:10:01:15] suspensa mesmo antes de começar, tá?
+[00:10:01:19 --> 00:10:03:26] Porque aparentemente foi contra as políticas
+[00:10:03:26 --> 00:10:06:00] de... as políticas
+[00:10:06:00 --> 00:10:08:04] da Upwork, então tomem esse cuidado,
+[00:10:08:06 --> 00:10:09:08] ao menos eu aprendi isso do
+[00:10:09:08 --> 00:10:11:23] jeito certo pra vocês não
+[00:10:11:23 --> 00:10:12:23] errarem depois também.
+[00:10:13:15 --> 00:10:15:16] Uma última consideração pra vocês
+[00:10:15:16 --> 00:10:17:21] sobre esse conteúdo que eu gravei sobre a
+[00:10:17:21 --> 00:10:19:02] Wise, um tempo atrás,
+[00:10:19:10 --> 00:10:20:26] é que recentemente
+[00:10:20:26 --> 00:10:23:06] a Wise começou a gerar
+[00:10:23:06 --> 00:10:31:10] alguns problemas e com pagamentos da conta PF, conta pessoa física, que eu ensinei vocês a criar,
+[00:10:31:13 --> 00:10:38:20] para a conta pessoa jurídica no Brasil. Então, depois de 10 mil dólares enviados, que já é um montante alto,
+[00:10:39:19 --> 00:10:41:04] vocês vão ver que a...
+[00:10:42:16 --> 00:10:45:22] os envios do dinheiro vão começar a ficar bloqueados.
+[00:10:45:24 --> 00:10:46:25] A Wise não vai enviar.
+[00:10:47:01 --> 00:10:47:27] Então, o que acontece?
+[00:10:48:06 --> 00:10:49:18] Vocês vão ter que criar uma conta PJ,
+[00:10:50:04 --> 00:10:52:09] ali, uma pessoa jurídica dentro da Wise,
+[00:10:52:11 --> 00:10:54:26] para continuar podendo mandar dinheiro
+[00:10:54:26 --> 00:10:57:13] para a conta PJ de vocês no Brasil.
+[00:10:57:27 --> 00:10:59:27] Eu não recomendei na aula,
+[00:10:59:27 --> 00:11:03:27] por conta da taxa de R$250,00 para a abertura dessa conta,
+[00:11:04:01 --> 00:11:06:10] que se vocês tiverem como investir no primeiro momento,
+[00:11:06:11 --> 00:11:08:10] ótimo, é bom fazer isso,
+[00:11:08:13 --> 00:11:10:22] mas eu não quero que seja impeditivo.
+[00:11:10:24 --> 00:11:12:06] Então, se for impeditivo,
+[00:11:12:16 --> 00:11:17:19] Abra a conta normal mesmo na Wise e depois de um tempo, depois que você conseguir os primeiros projetos,
+[00:11:17:19 --> 00:11:20:10] que já sabe que vai começar a ganhar em dólar mesmo,
+[00:11:20:16 --> 00:11:24:23] daí abre essa conta PJ para não ter esse tipo de problema que nem aconteceu comigo.
+[00:11:25:01 --> 00:11:32:15] Fiquei um dinheirão parado ali por quase um mês por não ter, por conta desse problema que a Wise está tendo.
+[00:11:32:24 --> 00:11:35:10] Então, quando vocês forem fazer esse processo novo,
+[00:11:35:15 --> 00:11:40:06] aqui na Pork, ao invés de colocar como Individual Checking,
+[00:11:40:07 --> 00:11:41:24] vocês vão colocar como Corporation.
+[00:11:42:16 --> 00:11:49:07] Então, é essa a única mudança que vocês vão ter que fazer, além de abrir a conta secundária lá na Wise, tá bom?
+[00:11:49:19 --> 00:11:54:13] Se tiverem qualquer dúvida, mandem aqui embaixo, sei que esse conteúdo é bem burocrático, um pouco confuso,
+[00:11:54:16 --> 00:12:01:13] mas eu acredito que tenha ajudado um pouco essa aula para deixar um pouco menos confuso, tá bom?
+[00:12:01:16 --> 00:12:02:19] Até a próxima aula!

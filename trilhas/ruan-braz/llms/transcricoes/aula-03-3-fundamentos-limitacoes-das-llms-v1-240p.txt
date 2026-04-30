@@ -1,0 +1,499 @@
+# Video: 3._fundamentos,_limitações_das_llms_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-23 09:23
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:21 --> 00:00:05:10] Agora que você entendeu um pouco melhor os fundamentos por trás das LLMs, o que é
+[00:00:05:10 --> 00:00:11:14] uma arquitetura de transformer, como que ela quebra a sua informação que você enviou
+[00:00:11:14 --> 00:00:18:08] pra ela, entende, reinterpreta, dá pesos e depois te devolve uma resposta, a gente
+[00:00:18:08 --> 00:00:21:17] precisa falar agora sobre o que isso muda na sua vida.
+[00:00:21:25 --> 00:00:25:22] Uma informação técnica como essa vai te trazer o que?
+[00:00:26:01 --> 00:00:27:20] E nós vamos conectar esses pontos.
+[00:00:27:20 --> 00:00:33:23] Começando a entender quais são as limitações das LLMs, o que elas são e o que elas não são.
+[00:00:34:05 --> 00:00:40:20] Eu já deixei alguns insights sobre isso, eu plantei algumas sementinhas na sua cabeça, por exemplo,
+[00:00:42:02 --> 00:00:47:29] a LLM não tem memória propriamente dita igual a memória humana, ela não guarda,
+[00:00:48:04 --> 00:00:53:19] ela não decora, ela não aprende do mesmo jeito que nós, ela aprende por pesos.
+[00:00:53:19 --> 00:00:58:04] Isso é importante porque, na hora que você vai escrever um prompt, você sabe que cada
+[00:00:58:04 --> 00:01:02:14] palavra vai ter um peso diferente e que, às vezes, uma palavrinha que você insere no
+[00:01:02:14 --> 00:01:05:15] prompt muda completamente o resultado que ela te entrega.
+[00:01:05:19 --> 00:01:08:25] Se você for genérico demais, a resposta tende a ser genérica demais.
+[00:01:09:02 --> 00:01:14:04] Se você colocar as palavras-chave certa, você vai colocar ela num contexto diferente.
+[00:01:14:15 --> 00:01:20:00] Então, o seu papel, como alguém que está conversando com um maiar, é conseguir
+[00:01:20:00 --> 00:01:25:20] colocar ela no contexto certo para definir o nível da sua conversa. Ou seja, uma pessoa
+[00:01:25:20 --> 00:01:30:11] que tem um repertório muito básico e que não sabe palavras, por exemplo, se eu for
+[00:01:30:11 --> 00:01:35:04] ter uma conversa... vou dar um exemplo aqui para vocês. Vamos trazer o chat GPT de
+[00:01:35:04 --> 00:01:37:23] volta para a conversa, já vou colocar na tela aqui para vocês.
+[00:01:38:26 --> 00:01:43:21] Olha só, temos aqui o chat GPT então, vamos jogar no cantinho de cá de novo.
+[00:01:45:10 --> 00:01:50:07] E aí, vamos simular que eu sou uma pessoa que está começando a aprender sobre design
+[00:01:50:07 --> 00:01:50:26] agora.
+[00:01:51:02 --> 00:01:56:27] E eu coloco assim, por exemplo, me ensine, quero aprender design.
+[00:01:57:25 --> 00:02:00:17] Quais são os primeiros passos.
+[00:02:00:28 --> 00:02:03:06] Ou melhor ainda, eu quero entender o impacto do design.
+[00:02:03:06 --> 00:02:05:29] qual é o impacto do design.
+[00:02:07:21 --> 00:02:11:21] Isso aqui vai trazer uma primeira camada, já gera uma conversa interessante que vai
+[00:02:11:21 --> 00:02:16:25] surpreender a maioria das pessoas, porque eu trouxe uma pergunta inteligente, só que
+[00:02:16:25 --> 00:02:18:05] olha o que que começa a acontecer.
+[00:02:19:01 --> 00:02:23:06] Impacto na vida cotidiana, ele começou a trazer exemplos básicos, impacto social
+[00:02:23:06 --> 00:02:28:24] e cultural, mais exemplos básicos, impacto sistêmico, trouxe aqui também, em resumo,
+[00:02:29:03 --> 00:02:32:00] o design é a inteligência que conecta a forma e intenção, beleza.
+[00:02:32:10 --> 00:02:37:10] Isso aqui é como se fosse um livro introdutório sobre design, é muito bom.
+[00:02:37:10 --> 00:02:43:07] está ajudando o iniciante. Ou seja, a LLM é um espelho do que você sabe que te ajuda
+[00:02:43:07 --> 00:02:49:04] a enxergar melhor o que você já enxerga. É isso que as pessoas às vezes não prestam
+[00:02:49:04 --> 00:02:55:15] atenção. O espelho não te mostra o outro lado da realidade. Ele clareia, ele melhora
+[00:02:55:15 --> 00:03:00:29] o que você está vendo. A não ser que você saiba fazer o espelho...
+[00:03:02:18 --> 00:03:10:03] mostrar o outro lado. E aí que o seu prompt tem uma influência muito grande. Por exemplo,
+[00:03:10:12 --> 00:03:14:27] vou começar uma outra conversa aqui pra vocês verem, a gente vai comparar. Agora eu sou um designer
+[00:03:14:27 --> 00:03:19:08] mais experiente e eu quero saber o impacto da IA. Eu começo colocando aqui...
+[00:03:21:09 --> 00:03:29:07] Quero saber qual é o impacto do design no mundo, como ele influencia, olha só, agora
+[00:03:29:07 --> 00:03:34:04] eu vou começar a colocar contexto nele, a percepção das pessoas.
+[00:03:34:26 --> 00:03:36:09] Como ele...
+[00:03:37:13 --> 00:03:40:03] Cria novos futuros.
+[00:03:43:03 --> 00:03:49:07] influencia também o zeitgeist. Aí, o cara que nunca ouviu falar essa palavra, por exemplo,
+[00:03:49:09 --> 00:03:53:27] não vai colocar ela. Eu coloquei aqui, essa palavrinha vai ter um peso grande aqui nesse
+[00:03:53:27 --> 00:03:59:00] prompt porque ela, em específico, já coloca o contexto em outro lugar. Agora, eu tô
+[00:03:59:00 --> 00:04:04:11] pedindo pra ele o seguinte, vamos levar essa conversa pra filosofia do zeitgeist,
+[00:04:04:11 --> 00:04:05:15] o Espírito do Tempo.
+[00:04:06:25 --> 00:04:09:03] Vamos colocar um pouco mais de palavras aqui.
+[00:04:10:01 --> 00:04:13:29] Me mostre também o impacto da gestalt.
+[00:04:15:12 --> 00:04:18:27] Na mensagem, como o design consegue ir?
+[00:04:21:22 --> 00:04:29:22] conduzir o pensamento das pessoas no todo e nas...
+[00:04:31:15 --> 00:04:35:20] Eu poderia até colocar nomes aqui, né? Traga a teoria do Wolfgang Köhler.
+[00:04:37:26 --> 00:04:40:11] Cole-te, ou tu corte-te.
+[00:04:47:20 --> 00:04:51:20] baseado nos estudos.
+[00:04:56:14 --> 00:05:00:27] Agora, essas palavras, elas têm peso, elas mudam completamente a minha resposta.
+[00:05:01:12 --> 00:05:02:09] Como que eu sei disso?
+[00:05:02:19 --> 00:05:08:02] A gente viu que o processo da IA é ela, eu todo, encontra um contexto, depois quebra
+[00:05:08:02 --> 00:05:11:00] essas palavras e dá pesos específicos pra ela.
+[00:05:11:04 --> 00:05:13:07] Primeiro ela dá embeddings, depois ela dá atenção.
+[00:05:13:09 --> 00:05:16:24] Por exemplo, a palavra E é menos importante que a palavra Zeitgeist.
+[00:05:17:22 --> 00:05:22:06] A palavra Wolfgang é mais importante do que a palavra Dars, então cada palavrinha
+[00:05:22:06 --> 00:05:25:15] no seu prompt conta, cada uma delas, até os símbolos.
+[00:05:25:15 --> 00:05:29:11] Só que os símbolos vão ter pesos menores, dependendo do símbolo.
+[00:05:29:16 --> 00:05:33:00] Então olha, essa pergunta toca o núcleo do que o design realmente é.
+[00:05:33:05 --> 00:05:36:20] Não apenas uma estética aplicada, mas uma linguagem que estrutura a percepção, conduz
+[00:05:36:20 --> 00:05:39:10] o pensamento e, em última instância, modela realidades possíveis.
+[00:05:39:24 --> 00:05:41:11] Olha pessoal, ele já foi para um outro lado.
+[00:05:41:24 --> 00:05:45:12] Olha como ele tá fofinho aqui, ele impacta o mundo de forma profunda, embora muitas
+[00:05:45:12 --> 00:05:46:04] vezes invisível.
+[00:05:46:15 --> 00:05:48:21] Ele está na base de quase tudo que nos cerca.
+[00:05:48:27 --> 00:05:52:13] Não apenas objetos e interfaces, mas também sistemas, decisões e experiências.
+[00:05:52:13 --> 00:05:54:27] Seu impacto pode ser analisado por três níveis.
+[00:05:55:03 --> 00:05:58:08] Vida cotidiana, social e cultural, sistêmica e futuro.
+[00:05:58:20 --> 00:05:59:14] Beleza, ele trouxe.
+[00:05:59:18 --> 00:06:00:15] Só que ele trouxe...
+[00:06:01:15 --> 00:06:05:22] Palavras que são probabilisticamente as palavras certas para responder a essa pergunta.
+[00:06:06:04 --> 00:06:09:01] Que é bem diferente das palavras certas para responder a essa pergunta.
+[00:06:09:19 --> 00:06:13:13] Aqui ele já começou a trazer design a estrutura e intenção.
+[00:06:13:22 --> 00:06:16:11] Onde a estrutura com intenção a influência.
+[00:06:16:21 --> 00:06:18:01] Onde a estrutura e a influência.
+[00:06:18:28 --> 00:06:22:23] O design da Apple não influenciou apenas o mercado, reconfigurou o nosso relacionamento com objetos.
+[00:06:23:05 --> 00:06:24:26] Como o design influencia a percepção das pessoas?
+[00:06:25:04 --> 00:06:28:15] Proximidade, semelhança, figura e fundo, fechamento, continuidade.
+[00:06:29:03 --> 00:06:31:16] Kafka dizia, o todo é diferente da soma das partes.
+[00:06:32:26 --> 00:06:39:04] Kepler. Ah, é verdade, nem o Kafka nem o Kepler disse, né? Não tá na teoria da gestalt que o todo é maior do que a soma das partes.
+[00:06:39:07 --> 00:06:42:12] Eles falam que é diferente. E essa palavra faz muita diferença também.
+[00:06:43:02 --> 00:06:50:14] Kepler. Foi além da percepção visual. Um site pode parecer confuso intuitivo, um post pode parecer caótico ordenado, um símbolo pode parecer vazio ou carregado de sentido.
+[00:06:51:11 --> 00:06:57:03] O layout, a hierarquia visual, o ritmo e a composição geram condições para que o pensamento se estruture de determinada forma.
+[00:06:57:19 --> 00:06:59:26] Bem parecido com a IA. Ela precisa de contexto.
+[00:07:01:14 --> 00:07:06:19] Design como criador de futuro, novos comportamentos, novas formas de consumir, novos modos de viver.
+[00:07:06:26 --> 00:07:08:01] O design é um palco invisível.
+[00:07:08:06 --> 00:07:09:03] Design Geist.
+[00:07:09:09 --> 00:07:14:24] Anos 60, tem o psicodélico, anos 80, neon exagero, anos 2000, flat brutalismo, estética
+[00:07:14:24 --> 00:07:16:00] do colapso.
+[00:07:16:08 --> 00:07:19:15] O design conduz o pensamento, a forma é uma escolha.
+[00:07:19:22 --> 00:07:23:09] Aqui ele já começou a trazer um pouco mais de teoria, com base nos pontos que eu trouxe
+[00:07:23:09 --> 00:07:23:24] pra ele.
+[00:07:24:01 --> 00:07:26:06] Só que não é sobre escrever mais, nem sempre.
+[00:07:26:09 --> 00:07:29:16] Se você viu o minicurso de Engenharia de Prompute, você vê que tem tipos
+[00:07:29:16 --> 00:07:31:15] de prórpices diferentes, cada um tem o seu objetivo.
+[00:07:32:04 --> 00:07:36:17] Aqui é a mesma coisa, compreender como a LLM funciona é compreender que existe uma
+[00:07:36:17 --> 00:07:45:19] diferença grande entre o que é design para como o design funciona para porque o design
+[00:07:45:19 --> 00:07:46:06] importa.
+[00:07:47:16 --> 00:07:51:15] São perguntas diferentes e cada pergunta traz uma resposta diferente.
+[00:07:51:25 --> 00:07:54:11] Isso é óbvio, cada pergunta traz a resposta para a pergunta.
+[00:07:54:25 --> 00:07:55:28] Sim e não.
+[00:07:56:16 --> 00:07:57:08] Como é design?
+[00:07:57:13 --> 00:07:58:22] Se eu coloco até isso aqui...
+[00:08:01:07 --> 00:08:03:26] o que é design, como design, porque eu design.
+[00:08:07:23 --> 00:08:12:03] Isso aqui já muda completamente, são poucas palavras aqui que dão pesos diferentes.
+[00:08:13:08 --> 00:08:20:18] No prompt grande, você tem mais relações entre palavras e aí isso gera outro tipo de resposta também.
+[00:08:21:00 --> 00:08:24:28] Sem contar que lá no curso de Engenharia de Prompto eu mostro que tem várias técnicas
+[00:08:24:28 --> 00:08:29:07] que você pode usar para conduzir a IA daqui de dentro do próprio prompt.
+[00:08:29:26 --> 00:08:36:15] E entendendo isso, a gente começa a ver que esses fundamentos nos ajudam a pensar
+[00:08:36:15 --> 00:08:42:09] no jeito como a IA funciona para estruturar um pedido para ela mais adequado.
+[00:08:42:09 --> 00:08:47:10] Só que não só isso, ele também nos ajuda a entender as limitações das IAs.
+[00:08:47:21 --> 00:08:49:16] E é isso que eu quero mostrar pra vocês agora.
+[00:08:50:21 --> 00:08:54:17] Então, quais são as limitações das LLMs?
+[00:08:56:16 --> 00:08:58:04] Colocar assim. Ficar bonitinho.
+[00:08:59:16 --> 00:09:06:00] Primeira delas, o conceito de janela de contexto. Já estamos falando aqui bastante sobre janela de
+[00:09:06:00 --> 00:09:11:00] contexto. Esse daqui a gente pode tirar daí, beleza. Já estamos falando bastante sobre contexto aqui.
+[00:09:11:10 --> 00:09:17:10] Falei que o contexto é muito importante porque influencia o peso que uma palavra tem dentro de
+[00:09:17:10 --> 00:09:22:15] uma pergunta específica ou de uma conversa específica com a IA. Nós já falamos também que a
+[00:09:22:15 --> 00:09:27:20] conversa que você vai tendo com a IA vai criando o contexto e ela vai usando tudo que já foi
+[00:09:27:20 --> 00:09:33:18] conversado ali, de contexto para continuar te respondendo. Só que tem um porém.
+[00:09:33:25 --> 00:09:38:19] Ruan, o contexto da IA infinito, se eu ficar jogando muita informação nela,
+[00:09:38:27 --> 00:09:45:25] ela vai continuar guardando isso? E a resposta é que não. Existe uma janela. Isso quer dizer que,
+[00:09:46:02 --> 00:09:51:10] dentro desse contexto aqui, a IA consegue compreender até uma certa parte e depois
+[00:09:51:10 --> 00:09:54:07] ela perde aquela informação. Não fica mais na memória dela.
+[00:09:54:07 --> 00:09:56:14] Vou dar um exemplo aqui pra vocês.
+[00:09:56:26 --> 00:09:59:22] Se eu começo a conversar com o chat GPT...
+[00:10:01:07 --> 00:10:05:04] Vou dar um exemplo aqui pra vocês, olha só, se eu começo a conversar com ele e falo,
+[00:10:05:25 --> 00:10:06:27] olá, tudo bem?
+[00:10:07:05 --> 00:10:09:00] Beleza, só pra iniciar uma conversa.
+[00:10:09:05 --> 00:10:11:14] Ele vai dar uma resposta curta provavelmente, beleza.
+[00:10:12:00 --> 00:10:16:00] Aí eu vou falar aqui, quanto da sua janela de contexto?
+[00:10:20:03 --> 00:10:24:29] já utilizamos nessa conversa. Não foi quase nada, que a Vily vai falar aqui pra gente.
+[00:10:26:13 --> 00:10:32:11] menos de 5%, foi utilizado. Aí eu posso falar aqui com ele. A cada...
+[00:10:34:24 --> 00:10:40:23] A cada resposta vai me atualizando sobre a janela de contexto, ok?
+[00:10:44:13 --> 00:10:45:27] Aí ele vai começar a me atualizar.
+[00:10:46:01 --> 00:10:50:17] Combinado, a partir de agora, vou te atualizar, uso atual, menos de 5%.
+[00:10:50:17 --> 00:10:51:15] Ótimo.
+[00:10:52:05 --> 00:10:54:24] Agora, escreva um texto que...
+[00:10:56:24 --> 00:11:00:26] alcança o limite da sua janela de contexto de output.
+[00:11:01:04 --> 00:11:04:22] Isso aqui é um ponto importante. Vou deixar ele gerando enquanto eu explico.
+[00:11:05:04 --> 00:11:09:05] Output é a resposta da IA. Input é a nossa resposta.
+[00:11:09:22 --> 00:11:14:27] A nossa resposta tem um limite de tamanho. A resposta da IA também tem um limite de
+[00:11:14:27 --> 00:11:19:14] Mas a janela de contexto é a soma disso tudo.
+[00:11:21:11 --> 00:11:24:14] Então, vamos colocar aqui um texto sobre...
+[00:11:25:19 --> 00:11:29:13] o impacto das IA's no... deixa ele gerando aí para a gente.
+[00:11:30:17 --> 00:11:34:01] E aí depois a gente vai ver quanto da janela de contexto ele acumulou.
+[00:11:34:11 --> 00:11:39:26] Mas cada uma dessas mensagens, a minha com a dele, tudo que nós já temos nessa conversa
+[00:11:39:26 --> 00:11:40:07] aqui...
+[00:11:41:04 --> 00:11:44:09] já entrou na janela de contexto dessa conversa.
+[00:11:44:09 --> 00:11:49:00] Isso significa que, cada vez que eu peço algo novo para ele,
+[00:11:49:09 --> 00:11:53:10] ele pega tudo isso aqui e reconsidera dentro da próxima resposta.
+[00:11:54:04 --> 00:11:56:13] Então, isso aqui está fazendo parte dessa conversa.
+[00:11:56:14 --> 00:12:00:12] Ele não está salvando na memória, é diferente a memória da janela de contexto.
+[00:12:00:25 --> 00:12:04:29] Aqui, no caso, é o que a gente tem de contexto dentro dessa conversa em específico.
+[00:12:05:05 --> 00:12:08:22] O que acontece quando a gente ultrapassa a janela de contexto?
+[00:12:08:22 --> 00:12:10:29] Aí, ela começa a perder algumas informações.
+[00:12:11:13 --> 00:12:16:19] Então, vamos supor, olha, ela está escrevendo um texto longo aqui, vamos supor que a janela
+[00:12:16:19 --> 00:12:18:20] de contexto dela vem só até esse parágrafo.
+[00:12:19:18 --> 00:12:22:03] A partir daqui, a janela de contexto acabou.
+[00:12:22:15 --> 00:12:24:18] O que vai acontecer? Ela vai parar de gerar texto?
+[00:12:25:03 --> 00:12:27:14] Não, ela vai continuar gerando o texto.
+[00:12:27:26 --> 00:12:28:25] Só que o que acontece?
+[00:12:29:07 --> 00:12:33:24] O texto que eu tenho aqui começa a apagar o texto que está aqui.
+[00:12:34:12 --> 00:12:37:04] Ah, Juan, mas não apagou. Continua na conversa. Continua.
+[00:12:37:14 --> 00:12:40:20] Mas aí, a já não está mais pegando esse texto dentro do contexto.
+[00:12:40:28 --> 00:12:43:03] É como se isso aqui tivesse ficado invisível pra ela.
+[00:12:43:14 --> 00:12:44:25] Ela começou a pegar a partir daqui.
+[00:12:44:25 --> 00:12:50:03] Aí, se eu consumir mais, vai aumentando o final...
+[00:12:50:28 --> 00:12:54:10] e vai apagando o início. Isso aqui vai saindo da janela de contexto dele.
+[00:12:54:19 --> 00:12:58:17] E ele vai deixando o contexto mais próximo ali de tokens que ele tem.
+[00:12:59:07 --> 00:13:05:23] Pra entender janela de contexto, ele falou que a gente usou aproximadamente 25% da janela de contexto
+[00:13:05:23 --> 00:13:06:19] nisso aqui.
+[00:13:07:11 --> 00:13:09:02] É aproximadamente pra menos, tá?
+[00:13:09:09 --> 00:13:11:28] Porque dava pra usar mais, aí eu vou colocar aqui, certo?
+[00:13:12:23 --> 00:13:17:17] Agora faça um texto no mesmo tamanho sobre...
+[00:13:19:12 --> 00:13:24:14] Por que isso aqui é importante escrever errado ali, mas ele consegue entender probabilisticamente
+[00:13:24:14 --> 00:13:25:21] a palavra que eu queria dizer aqui.
+[00:13:27:08 --> 00:13:31:05] Por que isso é importante? Você sabe que isso é importante para entender a quantidade
+[00:13:31:05 --> 00:13:36:17] de informação que você vai subir em um iá. Se você sobe um livro muito grande, maior
+[00:13:36:17 --> 00:13:41:02] do que a janela de contexto da iá, ela vai pegar um trecho, um pedaço daquele livro
+[00:13:41:02 --> 00:13:45:14] e vai te responder baseado naquela parte. Ela não vai te responder baseado no livro
+[00:13:45:14 --> 00:13:51:00] todo. E entender essa limitação é importante para entender como trabalhar com essa iá.
+[00:13:51:13 --> 00:13:55:01] E aí uma pergunta que talvez venha na sua cabeça agora é como que eu sei qual
+[00:13:55:01 --> 00:13:56:10] a janela de contexto da IA.
+[00:13:56:25 --> 00:13:59:10] A primeira coisa importante que você precisa saber é...
+[00:14:00:14 --> 00:14:03:07] Janela de contexto é diferente de memória.
+[00:14:03:24 --> 00:14:06:08] A memória geralmente é armazenada...
+[00:14:07:04 --> 00:14:12:09] Fora da conversa, ela não é armazenada dentro da rede neural. Ela não fica na IA em si,
+[00:14:12:18 --> 00:14:16:15] mas ela é armazenada dentro do sistema onde a IA está. No caso aqui no ChatGPT,
+[00:14:16:21 --> 00:14:22:13] se eu venho aqui do lado, em configurações, eu tenho aqui, personalização e memória.
+[00:14:22:22 --> 00:14:29:09] Eu posso gerenciar aqui as minhas memórias e isso aqui é uma parte da janela de contexto dele,
+[00:14:29:15 --> 00:14:34:14] que ele guardou. Então, aquilo ali são memórias que ele pega em momentos específicos,
+[00:14:34:14 --> 00:14:40:26] Aquelas memórias são, geralmente, quebradas em vetores e esses vetores ganham pesos específicos
+[00:14:40:26 --> 00:14:44:18] para ir a saber quando ela precisa puxar uma memória específica ou outra, para ela não
+[00:14:44:18 --> 00:14:50:15] ter que ler todas as memórias antes de me responder, porque enquanto ela estiver lendo
+[00:14:50:15 --> 00:14:53:12] todas, isso está ocupando a janela de contexto dela.
+[00:14:54:15 --> 00:14:55:21] Então isso é um ponto importante.
+[00:14:55:21 --> 00:14:59:19] Segundo ponto importante antes de falar do tamanho das janelas de contexto, é a
+[00:15:00:14 --> 00:15:06:09] Janela de contexto é diferente do tamanho do input e o tamanho do output, que é o input
+[00:15:06:09 --> 00:15:11:06] length e output length, que é o tamanho, a largura.
+[00:15:11:29 --> 00:15:13:07] Input é a sua mensagem.
+[00:15:13:12 --> 00:15:17:09] A sua mensagem tem um limite, então se eu pego aqui e coloco...
+[00:15:18:06 --> 00:15:23:01] Olha só, ele ficou cinza. Isso significa que ele até travou aqui agora o meu PC.
+[00:15:25:04 --> 00:15:29:09] O cinza, isso significa que eu não posso mandar essa mensagem.
+[00:15:29:16 --> 00:15:30:06] Olha, ele não deixa.
+[00:15:30:09 --> 00:15:32:15] Se eu parar aqui ele fala, a mensagem é muito longa.
+[00:15:32:20 --> 00:15:38:16] Isso não é janela de contexto, isso aqui é o input length, é o tamanho do input
+[00:15:38:16 --> 00:15:39:07] que eu estou mandando.
+[00:15:39:13 --> 00:15:40:06] É bem grande, olha.
+[00:15:40:14 --> 00:15:41:13] Dá pra...
+[00:15:41:13 --> 00:15:43:01] Vou apagar aqui, vamos apagar.
+[00:15:45:05 --> 00:15:47:21] Aqui eu já posso... não, ainda não pode enviar.
+[00:15:47:26 --> 00:15:52:06] Tem lá nos modelos, eu vou mostrar a tabela para vocês saberem qual é a quantidade de
+[00:15:52:06 --> 00:15:52:13] cada um.
+[00:15:52:13 --> 00:15:54:01] Eu vou ter que apagar aqui porque eu joguei demais.
+[00:15:54:23 --> 00:15:57:07] Mas olha só, agora eu posso enviar de novo, tá vendo?
+[00:15:57:19 --> 00:15:59:11] Então isso é inputLength.
+[00:15:59:26 --> 00:16:05:19] E existe também o outputLength, que é o tamanho da resposta da IA.
+[00:16:06:01 --> 00:16:10:12] O tamanho da resposta da IA também não é janela de contexto, é isso aqui.
+[00:16:10:22 --> 00:16:12:06] Ele mesmo explicou para a gente aqui.
+[00:16:12:23 --> 00:16:15:11] Quando eu pedi para ele o texto, ele falou isso aqui, ó.
+[00:16:15:14 --> 00:16:20:18] O limite da minha janela de output, resposta, é cerca de 4.096 tokens, o equivalente a
+[00:16:20:18 --> 00:16:23:16] aproximadamente 5.000 a 6.000 palavras, dependendo da complexidade do texto.
+[00:16:23:28 --> 00:16:27:23] Ele trouxe aqui mais ou menos o próximo do tamanho de resposta que ele dá.
+[00:16:28:10 --> 00:16:31:23] Então se isso aqui não é janela de contexto, o que ela é?
+[00:16:32:09 --> 00:16:37:25] A janela de contexto é a soma de tudo isso aqui e mais qualquer outra informação
+[00:16:37:25 --> 00:16:38:21] que você suba aqui.
+[00:16:38:21 --> 00:16:42:08] Se eu subir um PDF, ele entra para dentro da janela de contexto.
+[00:16:42:25 --> 00:16:46:19] Se eu falo para ele acessar um site, ele vai fazer o scrapping desse site, todo aquele
+[00:16:46:19 --> 00:16:49:02] scrapping entra dentro da janela de contexto também.
+[00:16:49:16 --> 00:16:53:25] Esses modelos já estão cada vez mais otimizados, então eles são muito bem construídos
+[00:16:53:25 --> 00:16:56:19] para otimizar essa janela de contexto, mas ela existe.
+[00:16:56:27 --> 00:17:02:24] E eu quero mostrar para vocês agora como saber o tamanho dessas janelas de contexto.
+[00:17:02:28 --> 00:17:07:27] A primeira coisa importante aqui é entender que a janela de contexto é medida em tokens.
+[00:17:07:27 --> 00:17:13:17] Eu já expliquei o que são tokens para vocês, então cada palavra dessas aqui, o rato roeu
+[00:17:13:17 --> 00:17:15:24] a roupa do rei de Roma, é um token.
+[00:17:16:03 --> 00:17:17:18] Ah, então o token é uma palavra?
+[00:17:17:26 --> 00:17:18:20] Não exatamente.
+[00:17:19:13 --> 00:17:24:12] Dependendo da palavra, se ela não foi muito treinada e otimizada dentro do treinamento
+[00:17:24:12 --> 00:17:28:22] da máquina, pode ser que uma palavra tenha dois, três, quatro ou até mais tokens
+[00:17:28:22 --> 00:17:29:07] também.
+[00:17:29:22 --> 00:17:30:22] Como que eu sei disso, Juan?
+[00:17:30:25 --> 00:17:33:10] Você pode vir aqui e digitar tokenizer.
+[00:17:33:10 --> 00:17:38:23] Aí você vai entrar aqui no Google, Tokenizer, OpenAI, API.
+[00:17:39:23 --> 00:17:43:24] Aqui você consegue saber quantos tokens um texto gasta.
+[00:17:43:26 --> 00:17:46:13] Então vamos pegar esse token aqui, esse texto em inglês, vou jogar aqui.
+[00:17:46:18 --> 00:17:48:18] Olha só, cada cor é um token.
+[00:17:49:01 --> 00:17:52:27] No caso desse texto, nós tivemos 49 tokens e 268 caracteres.
+[00:17:53:04 --> 00:17:57:05] Vocês vão reparar que está muito bem otimizado, ou seja, cada palavra aqui é
+[00:17:57:05 --> 00:17:58:25] um token muito bem otimizado.
+[00:17:59:02 --> 00:18:01:11] Mas vamos colocar isso em português.
+[00:18:01:11 --> 00:18:08:17] Vou pegar uma das frases aqui, essa por exemplo. E vou jogar aqui. Beleza. Aqui a gente tem
+[00:18:08:17 --> 00:18:17:08] também bem otimizado, mas olha só, utilizamos, já utiliza dois tokens. Não usa só um, deseja
+[00:18:17:08 --> 00:18:23:20] dois tokens. Impressionantemente, automaticamente usa um token só, dentro desse contexto aqui.
+[00:18:24:01 --> 00:18:30:02] Mas é um ponto, avise são dois tokens. Então, no português já não é tão otimizado
+[00:18:30:02 --> 00:18:30:10] assim.
+[00:18:31:24 --> 00:18:35:18] Até porque ela foi mais treinada em inglês do que em português.
+[00:18:35:26 --> 00:18:39:21] Esse tokenize é bem legal, esse é o da OpenAI, então é para você saber os tokens aqui
+[00:18:39:21 --> 00:18:47:14] desses modelos, que é o GPT-4O, GPT-4OMini, GPT-3.5 ou o GPT-4 e o GPT-3 Legacy.
+[00:18:47:28 --> 00:18:54:07] Se eu coloco aqui, por exemplo, no GPT-3 Legacy, ele não pega caracteres especiais
+[00:18:54:07 --> 00:18:56:03] e a gente gasta muito mais tokens.
+[00:18:56:03 --> 00:18:58:07] Olha só, essa mesma frase aqui...
+[00:18:59:03 --> 00:19:06:04] Aqui gasta 132 tokens, aqui gasta 79 tokens, então houve uma otimização muito grande aqui.
+[00:19:07:13 --> 00:19:10:08] E aí, cada modelo vai ter uma janela de contexto diferente.
+[00:19:10:15 --> 00:19:12:04] Então, vamos dar uma olhada nessa imagem aqui.
+[00:19:12:23 --> 00:19:15:10] Nós temos alguns modelos, algumas LLMs.
+[00:19:15:19 --> 00:19:18:22] Eu trouxe aqui no caso o GPT-4-O de EPSIC, o Cloud de MNI.
+[00:19:19:02 --> 00:19:23:18] Poderia ter colocado o Grok aqui também, mas é só pra exemplificar isso pra vocês.
+[00:19:24:04 --> 00:19:29:01] O GPT-4-O tem 128 mil tokens de janela de contexto.
+[00:19:29:12 --> 00:19:32:25] Ou seja, o contexto dele vai até 128 mil tokens.
+[00:19:32:25 --> 00:19:37:24] Depois que uma conversa ou dependendo do tamanho do arquivo que você envia pra ele, depois
+[00:19:37:24 --> 00:19:41:20] que ele passa de 128 mil tokens, ele vai parar de te responder?
+[00:19:42:08 --> 00:19:42:18] Não!
+[00:19:42:28 --> 00:19:49:16] Mas ele vai começar a, em alguns casos, alucinar, ele vai começar em alguns casos a colocar
+[00:19:49:16 --> 00:19:53:21] informações que não tem ali no documento exatamente porque você vai pedir a informação
+[00:19:53:21 --> 00:19:56:02] e ele vai ter que completar ela de outro lugar.
+[00:19:57:08 --> 00:20:00:05] Então começam a acontecer consequências que nós não queremos.
+[00:20:00:05 --> 00:20:05:17] Só que olha que interessante, a gente tem o GPT-4-O com 128.000, o DeepSync 128.000.
+[00:20:05:23 --> 00:20:10:02] Quando a gente vai para o Cloud, o Cloud é 200.000 de janela de contexto.
+[00:20:10:17 --> 00:20:12:29] Então, ela já está quase dobrada aqui.
+[00:20:13:14 --> 00:20:17:11] No Gemini, é de 1 a 2 milhões de janela de contexto.
+[00:20:18:12 --> 00:20:21:00] O Geminai, ele tem muito mais contexto do que os outros.
+[00:20:21:06 --> 00:20:26:11] Juan, onde que eu vejo esses dados aí que você está vendo em relação às IAASA?
+[00:20:26:14 --> 00:20:28:00] Eu quero ver essas informações também.
+[00:20:29:06 --> 00:20:30:27] Vou trazer aqui para vocês.
+[00:20:31:12 --> 00:20:36:02] Existe um site que se chama Huging Face, que eu já apresentei aqui em outras aulas.
+[00:20:37:20 --> 00:20:38:07] Hugging!
+[00:20:39:24 --> 00:20:42:11] E o legal do Hugging Face é que ele é uma comunidade de IAAS.
+[00:20:42:24 --> 00:20:45:21] E você pode ver vários modelos de IAAS diferentes aqui.
+[00:20:46:04 --> 00:20:51:01] No momento, nós temos 1.588.007 modelos de IAAS diferentes.
+[00:20:51:12 --> 00:20:54:21] Só que nós queremos trabalhar aqui com o IAAS de texto.
+[00:20:55:09 --> 00:20:56:16] LLMs, certo?
+[00:20:57:02 --> 00:21:01:03] Então, nós podemos trocar aqui dentro desses tipos de imagens diferentes.
+[00:21:01:12 --> 00:21:01:27] Tem várias.
+[00:21:02:15 --> 00:21:04:16] Eu quero, por exemplo, Text to Text.
+[00:21:04:21 --> 00:21:05:22] Cadê o Image to Text?
+[00:21:06:01 --> 00:21:09:07] Computer Vision é um tipo de IAAS diferente, tá?
+[00:21:09:07 --> 00:21:15:22] que é convolucional, é outro tipo de A. E nós temos aqui a Natural Language Processing.
+[00:21:15:27 --> 00:21:21:04] Aí tem classificação de texto, classificação de tokens, somarização, geração de texto,
+[00:21:21:08 --> 00:21:26:27] que é o que a gente quer aqui. Dentro de geração de texto, nós temos 208 mil modelos.
+[00:21:27:04 --> 00:21:32:04] Muitos desses modelos são Finetunnings. O que é o Finetunning? É um processo
+[00:21:32:04 --> 00:21:36:10] onde você pega um modelo que já foi treinado e ajusta ele. Um exemplo é aqui,
+[00:21:37:03 --> 00:21:45:21] NVIDIA LLAMA 3.1 NEMOTRON ULTRA. O NVIDIA, esse modelo da NVIDIA, utiliza o LLAMA. LLAMA
+[00:21:45:21 --> 00:21:52:23] é o modelo da meta, que é Open Source. O que é um modelo Open Source? É um modelo
+[00:21:52:23 --> 00:21:59:10] de fonte aberta que você pode pegar aquela IA, subir a nenhuma máquina e não só fazer
+[00:21:59:10 --> 00:22:04:00] engenharia reversa, que na verdade engenharia reversa seria bem complicado de fazer,
+[00:22:04:00 --> 00:22:09:03] fazer, mas você pode usar aquele modelo para outras aplicações, inclusive para fazer
+[00:22:09:03 --> 00:22:17:27] fine-tunings. Existe também o Open Weight, que é peso aberto. Enquanto o open source
+[00:22:17:27 --> 00:22:24:04] é fonte aberta, então você pode trabalhar para poder modificar aquela IA e fazer
+[00:22:24:04 --> 00:22:29:13] o que você quiser com ela, os Open Weights são modelos que te permitem fazer fine-tuning
+[00:22:29:13 --> 00:22:32:22] e mudar o peso das IA's. E cada uma dessas IA's...
+[00:22:33:21 --> 00:22:36:06] foi ajustada para um caso específico.
+[00:22:36:11 --> 00:22:37:24] Então, tem aqui o MetaLiama,
+[00:22:38:00 --> 00:22:39:25] Liama da NVIDIA, Perplexity.
+[00:22:40:00 --> 00:22:43:29] Muitas dessas você pode entrar aqui e literalmente baixar o modelo de A.
+[00:22:44:03 --> 00:22:48:09] Só que o seu computador tem que suportar o uso dessa inteligência artificial.
+[00:22:48:20 --> 00:22:51:04] Mas você pode baixar, colocar no servidor onde você quiser
+[00:22:51:04 --> 00:22:53:06] e utilizar IA. Isso é open source.
+[00:22:53:23 --> 00:22:54:07] Beleza.
+[00:22:54:14 --> 00:22:57:14] Entendendo isso, dentro do Hugging Face tem a Arena.
+[00:22:57:21 --> 00:22:59:29] Chatbot Arena LLM Leaderboard.
+[00:23:00:18 --> 00:23:03:04] Essa Arena é muito legal porque
+[00:23:03:04 --> 00:23:07:02] você pode acompanhar quais IAS tem mais performance,
+[00:23:07:21 --> 00:23:09:21] dependendo da capacidade que você quer avaliar.
+[00:23:09:25 --> 00:23:12:18] Aqui a gente está no Overall, mas eu tenho aqui Matemática,
+[00:23:13:27 --> 00:23:17:14] Seguindo Instruções, Código, Inglês, Chinês,
+[00:23:17:23 --> 00:23:20:16] Japonês, não tem o Português aqui, né?
+[00:23:20:20 --> 00:23:22:04] Não poderia ter o Português ali.
+[00:23:22:16 --> 00:23:25:07] Mas tem várias categorias.
+[00:23:25:15 --> 00:23:27:23] E aqui num aspecto geral, só para vocês verem a ideia,
+[00:23:27:24 --> 00:23:29:15] a gente tem o ranking subindo e descendo,
+[00:23:30:06 --> 00:23:31:10] e nós temos aqui também.
+[00:23:31:10 --> 00:23:34:22] Então, Gemini, Lhama, GPT-4-O, Grok-3.
+[00:23:35:05 --> 00:23:40:03] E ele mostra pra você a pontuação deles nessa arena, qual empresa é dona, qual foi
+[00:23:40:03 --> 00:23:44:21] a votação, geralmente isso é baseado nos votos das pessoas, quais que recebem mais
+[00:23:44:21 --> 00:23:45:08] votação.
+[00:23:45:18 --> 00:23:47:06] E você pode fazer ajustes.
+[00:23:47:09 --> 00:23:49:29] Então, por exemplo, qual que é melhor em código, segundo a comunidade?
+[00:23:50:12 --> 00:23:55:09] Ele vai trazer a Lhama-4, Maverick, ou GPT-4, ou Gemini e por aí vai.
+[00:23:55:25 --> 00:24:00:06] Mas engraçado, Juan, por que que esses modelos são melhores se a janela de
+[00:24:00:06 --> 00:24:01:29] o contexto deles é menor.
+[00:24:02:08 --> 00:24:04:02] Por exemplo, se eu volto aqui...
+[00:24:05:09 --> 00:24:09:24] pro tamanho da janela de contexto. Eu tenho um Gemini aqui com 1 a 2 milhões. Ele é melhor
+[00:24:09:24 --> 00:24:16:01] do que os outros, certo? Depende. Porque janela de contexto maior não significa uma
+[00:24:16:01 --> 00:24:21:14] interpretação, a gente chama de reasoning, não significa um reasoning melhor. O Ixete
+[00:24:21:14 --> 00:24:28:08] GPT, em muitos casos, ele tem vencido essa batalha pelo reasoning e existem algumas pesquisas
+[00:24:28:08 --> 00:24:32:28] que mostram também que a Ia, mesmo que ela tenha uma janela de contexto grande,
+[00:24:32:28 --> 00:24:37:22] A interpretação dela começa a perder eficácia.
+[00:24:38:29 --> 00:24:41:10] mais ou menos ali perto de 100 mil tokens. Quer ver?
+[00:24:42:23 --> 00:24:44:13] trazer essa informação para vocês também.
+[00:24:45:26 --> 00:24:49:18] Por que a janela de contexto não é tudo?
+[00:24:50:24 --> 00:24:54:06] Qual é o papel do reasoning?
+[00:24:57:27 --> 00:24:59:22] Aí, olha só, vamos pegar alguns dados aqui.
+[00:25:02:00 --> 00:25:06:26] Ela não é tudo porque ela é apenas a memória de curto prazo, que inclusive a gente nem costuma
+[00:25:06:26 --> 00:25:09:06] chamar de memória, que a memória é armazenada.
+[00:25:09:16 --> 00:25:13:21] A janela de contexto é o contexto da conversa, é como se eu estivesse conversando aqui agora
+[00:25:13:21 --> 00:25:18:06] com você e a gente está conversando sobre isso, e aí você se lembra da conversa em
+[00:25:18:06 --> 00:25:18:20] tempo real.
+[00:25:18:29 --> 00:25:21:20] Mas vamos supor que a gente acabou essa conversa e a gente foi embora.
+[00:25:22:03 --> 00:25:24:13] Aí depois de uma semana a gente se encontrou de novo.
+[00:25:24:24 --> 00:25:27:28] Aí você lembra da conversa da semana passada, só que a gente iniciou uma nova
+[00:25:27:28 --> 00:25:28:17] conversa aqui.
+[00:25:29:03 --> 00:25:30:12] Essa lembrança é uma memória.
+[00:25:30:12 --> 00:25:32:20] Agora, a nova conversa é um novo contexto.
+[00:25:33:00 --> 00:25:36:14] O que acontece com a Yai é que muitas vezes você tem a conversa com ela hoje, aí amanhã
+[00:25:36:14 --> 00:25:40:09] você abre uma outra conversa com ela, ela não lembra da conversa de ontem, porque isso
+[00:25:40:09 --> 00:25:41:19] não foi armazenado na memória.
+[00:25:42:05 --> 00:25:43:24] Aí você precisa estabelecer um novo contexto.
+[00:25:44:05 --> 00:25:49:05] Ou lembrando ela, falando, olha, toma aqui, pra você se lembrar o que a gente conversou.
+[00:25:49:08 --> 00:25:53:11] É um jeito de fazer isso ou armazenando isso na memória dela, seja por um banco
+[00:25:53:11 --> 00:25:56:17] vetorial ou do jeito mais simples aqui, no caso do chat GPT.
+[00:25:58:08 --> 00:26:00:06] Então janela de contexto não é tudo!
+[00:26:01:13 --> 00:26:06:00] Ela é o que o modelo vê, Reasoning é o que o modelo entende, então não quer dizer
+[00:26:06:00 --> 00:26:09:04] que ela tá lendo tudo, que ela tá entendendo tudo com eficácia que a gente quer.
+[00:26:09:18 --> 00:26:13:28] Então, olha só, a Reasoning é a capacidade do modelo de realizar inferências, conectar
+[00:26:13:28 --> 00:26:18:26] ideias, seguir cadeias de lógica e aplicar conhecimento tácito, inclusive o que não
+[00:26:18:26 --> 00:26:20:11] está na janela de contexto.
+[00:26:21:08 --> 00:26:27:24] Eu vi um cara falando num vídeo esses dias que o Cloud 3.7, ele tá muito melhor
+[00:26:27:24 --> 00:26:30:29] 3.5, né, o cloud é outra, LLM, essa daqui, ó.
+[00:26:32:01 --> 00:26:38:08] E o pessoal tem usado muito o Cloud para rodar, principalmente dentro do cursor
+[00:26:38:08 --> 00:26:41:10] ou de outros gerenciadores de texto e de código.
+[00:26:42:14 --> 00:26:48:08] E aí ele tava falando, né, que esse 3.7 sonet é melhor que o 3.5, não que o ryko, mas que o 3.5 sonet mesmo.
+[00:26:49:27 --> 00:26:55:10] Porque, muitas vezes, ele pede uma coisa e o Cloud Sonem devolve o que ele quer.
+[00:26:55:13 --> 00:26:59:08] Sei lá, eu falo assim, olha, corrige pra mim esse botão que ele tá torto.
+[00:26:59:16 --> 00:27:02:13] Aí ele corrige no código botão, mas ele fala, olha, eu corrigi aqui o botão pra
+[00:27:02:13 --> 00:27:06:25] você, mas eu notei que lá no código esse outro ícone aqui também tava torto, eu
+[00:27:06:25 --> 00:27:08:16] aproveitei e arrumei ele, mesmo que você não pediu.
+[00:27:09:03 --> 00:27:12:20] Isso tem a ver também com essa inferência e com essa interpretação do que o usuário
+[00:27:12:20 --> 00:27:13:02] precisa.
+[00:27:13:21 --> 00:27:15:11] Isso tem a ver com Reasoning.
+[00:27:15:14 --> 00:27:18:18] Então isso faz diferença também no uso dos modelos.
+[00:27:18:18 --> 00:27:22:06] Com base na estrutura do problema, nos conceitos envolvidos e na lógica que conheço, o que
+[00:27:22:06 --> 00:27:24:21] é verdade, o que é possível, o que é a consequência do que?
+[00:27:25:03 --> 00:27:27:06] Essas perguntas que é o reasoning que ele vai fazendo.
+[00:27:27:20 --> 00:27:31:13] Analogia simples à janela de contesto é o campo de visão, o reasoning é o entendimento
+[00:27:31:13 --> 00:27:32:14] da estratégia de jogo.
+[00:27:33:15 --> 00:27:36:01] Exemplo prático, isso aqui a gente não precisa, eu já trouxe aqui.
+[00:27:37:08 --> 00:27:42:16] E aí eu quero falar, ouvir, dizer que existe...
+[00:27:43:20 --> 00:27:49:11] um limite na janela com texto, cerca de 100 mil tokens.
+[00:27:52:00 --> 00:27:56:06] para um reasoning mais eficaz.
+[00:28:02:04 --> 00:28:05:11] Sim, isso que você ouviu faz sentido e é uma questão técnica.
+[00:28:05:19 --> 00:28:10:14] Modelos como o GPT-4 Turbo podem aceitar até 128 mil tokens de contexto, mas aceitar é
+[00:28:10:14 --> 00:28:12:20] diferente de usar com eficácia para raciocinar.
+[00:28:12:27 --> 00:28:16:12] Vê o conteúdo, mas tem dificuldade em navegar logicamente por ele todo.
+[00:28:16:28 --> 00:28:21:07] A eficácia do Reasoning Profundo tende a cair a partir de 60 a 100 mil tokens,
+[00:28:21:17 --> 00:28:24:06] a não ser que a estrutura do conteúdo seja muito bem organizada.
+[00:28:24:15 --> 00:28:29:07] E é aí que a gente entra em outros conceitos que eu só quero introduzir aqui para
+[00:28:29:07 --> 00:28:34:23] vocês hoje, pra vocês começarem a ver isso aqui como um curso de vocabulário da IA.
+[00:28:35:04 --> 00:28:38:27] Essa aqui é a ideia. Quais são os conceitos que eu quero trazer? Que é o que ele tá
+[00:28:38:27 --> 00:28:46:17] falando aqui, ó. De... Dependendo de como a resposta foi organizada. Eu coloco o
+[00:28:46:17 --> 00:28:46:29] Vá gui!
+[00:28:49:16 --> 00:28:50:12] Use chunks
+[00:28:52:06 --> 00:28:57:09] Então, são bem importantes para melhorar o reason.
+[00:28:58:21 --> 00:28:59:09] SET!
+[00:29:00:14 --> 00:29:01:15] Explique...
+[00:29:03:01 --> 00:29:11:11] o que são esses conceitos. Por quê? Hague, a Trivial Augmented Generation, é sobre como
+[00:29:12:17 --> 00:29:18:24] você melhora a organização da informação para IA. E chunk é o pedaço de informação
+[00:29:18:24 --> 00:29:23:17] que é utilizado para criar o Hague, para que você indexe as informações. Então, imagine
+[00:29:23:17 --> 00:29:27:15] que eu tenho um livro gigante. Aí, primeiro eu divido o livro em capítulos. Isso
+[00:29:27:15 --> 00:29:31:27] já facilita. Eu crio um índice de capítulos para conseguir chegar mais fácil no conteúdo.
+[00:29:31:27 --> 00:29:35:20] Agora, imagine que, além de um índice de capítulos, eu faço um índice de parágrafos.
+[00:29:35:24 --> 00:29:38:05] E aí cada parágrafo tem um peso específico.
+[00:29:38:08 --> 00:29:39:04] Pra que isso serve?
+[00:29:39:08 --> 00:29:41:00] Pra Ia não precisar ler o livro inteiro.
+[00:29:41:10 --> 00:29:46:00] Ela consegue traduzir isso tudo em vetores, números, e consegue encontrar padrões entre
+[00:29:46:00 --> 00:29:48:08] esses números e aí, depois, o que acontece?
+[00:29:48:12 --> 00:29:50:02] Ela pega esses padrões e entende.
+[00:29:50:05 --> 00:29:54:19] Na página 24, na página 39, na página 45, na página 98, na página 128.
+[00:29:55:04 --> 00:29:57:27] Em todas essas páginas tem o conceito sobre a vida e a morte.
+[00:29:57:27 --> 00:30:01:18] Então, essas páginas são mais importantes quando alguém perguntar sobre a vida e a morte.
+[00:30:01:27 --> 00:30:06:23] Ela sintetiza, simplifica e vai direto ali para ela consumir menos janela de contexto.
+[00:30:07:04 --> 00:30:09:26] Então, olha só, chunk, fragmentar para entender melhor.
+[00:30:10:11 --> 00:30:14:28] Por que os modelos raciocinam melhor com partes pequenas e coerentes do que um bloco
+[00:30:14:28 --> 00:30:16:00] gigantesco e desorganizado?
+[00:30:16:16 --> 00:30:20:08] Então esse é o primeiro ponto do chunk, só que é o chunk com indexação.
+[00:30:20:12 --> 00:30:23:17] Você cria um índice falando cada pedaço do chunk o que significa.
+[00:30:23:17 --> 00:30:28:29] Isso fica coeso, completo, tamanho ideal, 100 a 500 tokens por chunk.
+[00:30:29:22 --> 00:30:32:05] Pode ter meta-data, origem, título, tag, importância.
+[00:30:32:14 --> 00:30:37:24] HAG, Retrieval Augmented Generation, é a técnica que combina dois mundos, recuperação de
+[00:30:37:24 --> 00:30:39:24] informação e geração de resposta.
+[00:30:40:19 --> 00:30:44:13] Então olha só, você pergunta qual a relação entre tokens de design e consistência de
+[00:30:44:13 --> 00:30:44:20] marca?
+[00:30:45:03 --> 00:30:49:24] O sistema busca os três ou cinco chunks mais relevantes sobre tokens, consistência
+[00:30:49:24 --> 00:30:50:15] e design system.
+[00:30:50:15 --> 00:30:55:08] O modelo lê apenas os trechos e raciocina com base neles, para responder de forma sólida,
+[00:30:55:12 --> 00:30:56:24] mesmo que tenha 1 milhão de tokens.
+[00:30:57:11 --> 00:30:59:17] Olha só uma coisa interessante que acabou de acontecer aqui.
+[00:31:01:17 --> 00:31:07:22] O exemplo que o ChatGPT me deu, a gente não falou nada de design system, nada de consistência
+[00:31:07:22 --> 00:31:08:07] de marca.
+[00:31:08:27 --> 00:31:11:00] Por que ele deu esse exemplo específico?
+[00:31:11:04 --> 00:31:12:19] Porque ele tem memória.
+[00:31:13:07 --> 00:31:15:07] A memória tem um papel importante aqui.
+[00:31:15:26 --> 00:31:22:21] Ele usa essa memória para poder conversar melhor comigo e entender claramente como
+[00:31:22:21 --> 00:31:24:22] trazer exemplos mais práticos para o meu caso.
+[00:31:24:22 --> 00:31:31:18] Então, isso é um ponto importante para trazer aqui em relação a chunk, em relação a
+[00:31:31:18 --> 00:31:32:03] reggae.
+[00:31:33:06 --> 00:31:37:20] para que vocês entendam, né, na prática, como que eu vou usar tudo isso aqui, que já
+[00:31:37:20 --> 00:31:39:20] é imediatamente útil para vocês.
+[00:31:40:23 --> 00:31:44:21] Não trabalhe com janelas, com conversas extremamente grandes.
+[00:31:45:20 --> 00:31:48:01] Hoje em dia, as conversas ficam até suficientemente grandes,
+[00:31:48:02 --> 00:31:52:22] mas tem pessoas que extrapolam e ficam tendo uma única conversa direto com a IA.
+[00:31:53:01 --> 00:31:53:25] Não façam isso.
+[00:31:54:09 --> 00:31:56:27] É melhor abrir novas conversas para assuntos diferentes,
+[00:31:57:00 --> 00:31:58:19] para que você preserve janelas de contexto.
+[00:31:58:24 --> 00:31:59:23] Primeiro ponto é isso.
+[00:32:00:01 --> 00:32:03:13] Segundo ponto, vai subir arquivos nas LLMs?
+[00:32:03:22 --> 00:32:05:04] O que você precisa levar em consideração?
+[00:32:05:25 --> 00:32:08:03] Esses arquivos já estão bem estruturados,
+[00:32:08:03 --> 00:32:14:12] Você organizou eles de um jeito que eles ficam indexados, fácil de identificar cada ponto?
+[00:32:15:19 --> 00:32:19:12] Ah, Juan, se eu pego tudo, divido por parágrafos, coloco os títulos, já é suficiente?
+[00:32:19:25 --> 00:32:23:04] Na verdade, não. Depende do nível que você quer alcançar com isso.
+[00:32:23:15 --> 00:32:30:03] Mas se você divide os arquivos em vários arquivos diferentes e cria um índice na descrição,
+[00:32:30:04 --> 00:32:34:03] nas instruções para o assistente que você vai criar, você já pode colocar lá, olha,
+[00:32:34:07 --> 00:32:37:20] abre esse documento nesse momento, abre esse documento nesse momento, abre esse documento
+[00:32:37:20 --> 00:32:38:03] nesse momento.
+[00:32:38:11 --> 00:32:41:17] Ele sabe quando ele puxa cada documento específico.
+[00:32:41:18 --> 00:32:44:25] Isso ajuda ele também a não consumir a janela de contexto.
+[00:32:44:25 --> 00:32:49:12] isso também é um ponto muito importante. Saber como escrever o prompt também é muito
+[00:32:49:12 --> 00:32:49:26] importante.
+[00:32:50:09 --> 00:32:53:01] Juan, vão ter outros momentos que a gente vai falar sobre chunk, sobre essas coisas
+[00:32:53:01 --> 00:32:57:07] todas? Sim, é que agora eu quero que você veja que isso faz parte do vocabulário,
+[00:32:57:18 --> 00:33:01:08] entenda que esses conceitos existem e que eles impactam a maneira como você está
+[00:33:01:26 --> 00:33:04:07] utilizando as inteligências artificiais.

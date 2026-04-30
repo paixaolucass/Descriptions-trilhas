@@ -1,0 +1,950 @@
+# Video: 3._desenho_para_designers (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-28 11:11
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:00 --> 00:00:05:08] Eu já quero começar essa aula aqui trazendo uma afirmação para vocês, tá?
+[00:00:05:17 --> 00:00:11:23] Hoje nós vamos quebrar aqui um dos maiores mitos que são propagados por aí, que é
+[00:00:11:23 --> 00:00:15:07] o mito que designers não precisam saber desenhar.
+[00:00:15:11 --> 00:00:17:22] Quem aí já ouviu esse mito antes, né?
+[00:00:17:28 --> 00:00:20:15] Eu imagino que vocês também já devem ter escutado.
+[00:00:20:20 --> 00:00:24:05] Quando você está começando no design, você tem uma série de objeções, todo
+[00:00:24:05 --> 00:00:25:28] mundo tem isso em qualquer carreira, tá?
+[00:00:26:05 --> 00:00:29:01] Você começou e tem uma série de objeções, será que o design é para mim?
+[00:00:29:01 --> 00:00:31:20] Será que eu estou no lugar certo?
+[00:00:32:02 --> 00:00:36:11] E aí, para poder te inspirar, para poder te motivar a investir no designer, as pessoas
+[00:00:36:11 --> 00:00:39:20] falam, você está no lugar certo, sim, aqui é o seu ambiente.
+[00:00:40:01 --> 00:00:41:26] E aí você naturalmente vem com objeções.
+[00:00:42:04 --> 00:00:45:13] Uma das mais clássicas é, eu gosto do design, mas sabe o que é?
+[00:00:45:16 --> 00:00:48:02] Eu não sei desenhar, então eu não sei se o design é para mim.
+[00:00:48:13 --> 00:00:51:26] E aí geralmente as pessoas falam, não, para ser designer você não precisa saber
+[00:00:51:26 --> 00:00:55:02] desenhar, você pode usar o Photoshop, Illustrator, ele já cria as formas para
+[00:00:55:02 --> 00:00:56:01] você e está tudo bem.
+[00:00:56:01 --> 00:01:01:18] Então, é uma maneira de vencer uma objeção muito comum que quem está começando tem.
+[00:01:01:29 --> 00:01:04:23] E aí, para resolver isso de uma vez por todas, eu quero te dizer uma coisa.
+[00:01:05:13 --> 00:01:09:22] Tudo na vida, você pode começar do zero e se desenvolver.
+[00:01:09:26 --> 00:01:10:06] Tudo.
+[00:01:10:22 --> 00:01:14:14] E, dependente da área e da profissão que você escolha, você aprende e se desenvolve.
+[00:01:15:14 --> 00:01:15:24] Tá?
+[00:01:16:08 --> 00:01:20:26] Tirando os gênios aí, os super doutados, pra maioria das pessoas esse é o processo.
+[00:01:21:09 --> 00:01:23:17] Você treina, treina, treina e se desenvolve.
+[00:01:23:27 --> 00:01:25:09] E com o design não é diferente.
+[00:01:25:24 --> 00:01:31:11] Então, mesmo que você agora pense, eu sou um desastre desenhando, não tem problema.
+[00:01:31:23 --> 00:01:34:12] Isso é uma coisa que você consegue desenvolver.
+[00:01:34:29 --> 00:01:37:17] Tem processo, tem metodologia pra se desenvolver.
+[00:01:37:23 --> 00:01:39:14] E ela é mais simples do que você imagina.
+[00:01:39:14 --> 00:01:41:11] Hoje nós vamos falar sobre isso aqui.
+[00:01:41:11 --> 00:01:45:27] Então, se você está começando no design, eu preciso saber alguma coisa para aprender design?
+[00:01:46:04 --> 00:01:46:16] Não!
+[00:01:47:06 --> 00:01:49:20] Justamente porque você está aqui para APRENDER!
+[00:01:50:15 --> 00:01:52:25] Então você não precisa saber nada, porque você ainda vai aprender.
+[00:01:53:05 --> 00:01:53:21] Faz sentido?
+[00:01:54:10 --> 00:01:58:26] Só existe um pequeno problema, as pessoas levam isso para a vida e confundem.
+[00:01:59:06 --> 00:02:04:18] Não preciso saber desenho para aprender design, com não preciso saber desenho para me tornar
+[00:02:04:18 --> 00:02:05:06] um designer.
+[00:02:05:06 --> 00:02:11:23] É verdade, sim. Existem muitos designers que não consideram que sabem desenhar.
+[00:02:11:28 --> 00:02:17:18] Mas sabe o que é mais curioso? A própria origem da palavra design, que em alemão significa
+[00:02:18:22 --> 00:02:25:06] o escrito dela, a grafia de zeno, que é desenho, como se fosse desenho em espanhol.
+[00:02:25:16 --> 00:02:29:27] Design é zeno. Não sei se a minha pronúncia está certa. Provavelmente não está certa,
+[00:02:29:27 --> 00:02:37:01] mas é como se fosse Dizeno, que é design em espanhol, e tá muito ligado com desenho.
+[00:02:37:20 --> 00:02:40:06] A palavra design está muito conectada com a palavra desenho.
+[00:02:40:08 --> 00:02:43:27] Design pode significar desenho, projeto, planejamento e por aí vai.
+[00:02:44:03 --> 00:02:47:24] Tem uma série de significados que essa palavra se encaixa muito bem.
+[00:02:49:00 --> 00:02:53:00] Então desenhar é projetar, projetar é fazer design.
+[00:02:54:00 --> 00:02:58:15] Então logo na essência no núcleo do design o desenho já está inserido, ok?
+[00:02:58:15 --> 00:03:04:12] E eu quero mostrar aqui hoje pra vocês, não que vocês precisam ser desenhistas que conseguem
+[00:03:04:12 --> 00:03:10:00] fazer renders realistas, eu consigo pegar a minha mão e fazer ela hiper realista no
+[00:03:10:00 --> 00:03:14:00] papel, não, eu vou mostrar pra vocês que existem tipos de desenhos e que você precisa
+[00:03:14:00 --> 00:03:18:11] compreender esses tipos de desenhos e entender quando você pode utilizar cada um deles.
+[00:03:18:23 --> 00:03:23:21] Mais do que dominar um estilo, né, vou me tornar um desenhista, vou fazer história
+[00:03:23:21 --> 00:03:28:08] quadrinhos ou vou me tornar um desenhista 3D ou por aí vai, mais do que os estilos.
+[00:03:28:22 --> 00:03:34:20] O objetivo dessa aula aqui é mostrar pra vocês quais são as vantagens de criar o
+[00:03:34:20 --> 00:03:36:06] hábito do desenho.
+[00:03:36:18 --> 00:03:44:21] Como que desenhar todo dia vai transformar o seu cérebro e a sua visão, como você
+[00:03:44:21 --> 00:03:49:23] se tornar um designer muito melhor, muito mais avançado simplesmente porque você
+[00:03:49:23 --> 00:03:50:21] investe nesse hábito.
+[00:03:51:19 --> 00:03:56:07] Então, quando eu falo que é um mito, um dos maiores mitos que são propagados por aí,
+[00:03:56:27 --> 00:04:00:21] eu quero dizer que é um mito que você não precisa aprender sobre desenho.
+[00:04:01:02 --> 00:04:06:18] Falar que um designer não precisa aprender a desenhar é a mesma coisa que falar, sei
+[00:04:06:18 --> 00:04:13:04] lá, que um advogado não precisa conhecer as leis.
+[00:04:14:08 --> 00:04:18:24] É a mesma coisa que falar que um padeiro não precisa saber fazer a massa.
+[00:04:20:01 --> 00:04:24:08] Como assim, Juan? O padeiro, pra ele ser padeiro, ele tem que fazer a massa, o advogado,
+[00:04:24:14 --> 00:04:28:14] pra ele exercer a profissão, ele tem que entender a lei. Pois é, e o designer, pra
+[00:04:28:14 --> 00:04:33:28] projetar, precisa entender sobre desenho. Porque o que é o desenho, senão a materialização?
+[00:04:35:21 --> 00:04:39:27] concretização visual de uma ideia, de um pensamento.
+[00:04:40:12 --> 00:04:45:13] Não importa nesse primeiro momento se você fez uma colagem, se você recortou, você está
+[00:04:45:13 --> 00:04:47:01] construindo uma composição.
+[00:04:47:25 --> 00:04:53:28] E a base, a parte mais simples de uma composição, o jeito mais simples de construir uma composição
+[00:04:53:28 --> 00:04:56:11] é com um pedaço de papel e um lápis.
+[00:04:57:13 --> 00:05:02:01] Então o desenho é a base do design, até mesmo na própria palavra.
+[00:05:03:04 --> 00:05:11:07] E ele é muito importante e eu quero que essa aula seja um convite para que você não ignore
+[00:05:11:07 --> 00:05:12:02] o desenho.
+[00:05:12:07 --> 00:05:18:03] Para que você não fique na sua zona de conforto, como a maioria dos designers ficam, e pense
+[00:05:18:03 --> 00:05:18:09] Tchau!
+[00:05:19:15 --> 00:05:26:00] Preciso saber desenhar. Eu sei recortar no Photoshop. Eu sei usar a Pentool e vetorizar
+[00:05:26:00 --> 00:05:30:00] por cima de um desenho no Illustrator. Não preciso saber desenhar.
+[00:05:30:29 --> 00:05:36:09] E a pergunta que eu tenho pra você é você quer ser um mero apertador de botões ou você
+[00:05:36:09 --> 00:05:37:27] realmente quer criar?
+[00:05:39:04 --> 00:05:43:24] Se você quer ser um mero apertador de botões, realmente você não precisa assistir a essa aula,
+[00:05:43:27 --> 00:05:48:28] é só assistir um monte de tutoriais e você vai aprender a apertar os botões.
+[00:05:49:04 --> 00:05:53:09] Agora, se você realmente quer aprender sobre o processo criativo, se você realmente quer
+[00:05:53:09 --> 00:06:01:25] aprender a criar a ser original, o desenho é, sim, muito importante para você.
+[00:06:03:02 --> 00:06:06:17] Dito tudo isso então, bora lá começar a falar mais sobre isso.
+[00:06:06:17 --> 00:06:11:07] A primeira vantagem sobre o desenho, precisa ficar claro na sua cabeça, é que o desenho
+[00:06:11:07 --> 00:06:18:15] é uma linguagem que todo mundo entende, mas poucos se dedicam a aprender falar.
+[00:06:19:17 --> 00:06:21:15] O desenho é a linguagem básica.
+[00:06:23:15 --> 00:06:28:22] ancestral dos seres humanos. Nós já desenhávamos nas cavernas. Quem nunca ouviu aquela frase?
+[00:06:28:25 --> 00:06:31:19] Você entendeu ou quer que eu desenhe?
+[00:06:33:07 --> 00:06:34:02] o desenho.
+[00:06:36:03 --> 00:06:40:28] supercompreensível. Se você quer falar sobre uma vaca, desenhar uma vaca, você consegue
+[00:06:40:28 --> 00:06:45:03] ir a qualquer lugar do mundo. Se você desenhou uma vaca, a pessoa sabe que é uma vaca. Se
+[00:06:45:03 --> 00:06:46:26] o seu desenho representa bem uma vaca.
+[00:06:48:00 --> 00:06:51:26] Em qualquer lugar do mundo, o desenho é universal, ele funciona no mundo inteiro,
+[00:06:52:11 --> 00:06:56:05] porque o desenho nada mais é do que uma representação, um signo do mundo real.
+[00:06:57:23 --> 00:07:00:19] e é o signo mais figurativo.
+[00:07:01:12 --> 00:07:04:29] Pode ser usado também de forma abstrata, mas ele é tão figurativo
+[00:07:05:15 --> 00:07:07:17] que não tem barreiras para o seu entendimento.
+[00:07:08:03 --> 00:07:10:09] Na verdade, a única barreira
+[00:07:10:09 --> 00:07:14:21] é se você consegue fazer um desenho, claro, suficiente para que a outra pessoa entenda.
+[00:07:15:15 --> 00:07:17:09] Se você consegue, então não tem barreira.
+[00:07:19:16 --> 00:07:22:04] Só que tem um detalhe, poucas pessoas...
+[00:07:23:21 --> 00:07:28:19] se dedicam a aprender a falar essa linguagem, a desenhar essa linguagem.
+[00:07:29:20 --> 00:07:33:01] Mas não se engane, as pessoas não se dedicam não é porque é difícil, não.
+[00:07:34:02 --> 00:07:36:05] É porque elas não querem se dar ao trabalho.
+[00:07:36:15 --> 00:07:37:27] Parece algo fútil.
+[00:07:38:09 --> 00:07:40:12] Tenho tanta coisa pra fazer, eu vou ficar desenhando?
+[00:07:41:10 --> 00:07:46:17] Eu vou mostrar aqui pra você porque você deve, sim, desenvolver esse hábito, ok?
+[00:07:47:06 --> 00:07:48:04] Mas não é difícil.
+[00:07:49:05 --> 00:07:52:01] Aprender a desenhar tão fácil, mas tão fácil...
+[00:07:52:29 --> 00:07:54:12] que até uma criança consegue.
+[00:07:55:21 --> 00:08:00:04] Então, guarda isso com você. Se uma criança consegue, você também consegue, ok?
+[00:08:00:25 --> 00:08:03:08] Não deixe essa crença limitante te barrar.
+[00:08:03:18 --> 00:08:09:18] Se uma criança consegue com um repertório baixo, começando a aprender sobre o mundo, consegue.
+[00:08:09:28 --> 00:08:10:23] Você também consegue.
+[00:08:11:02 --> 00:08:14:19] Deixe que você tenha vontade e disciplina para isso, ok?
+[00:08:14:25 --> 00:08:18:03] Então, guarde isso. O desenho é uma linguagem.
+[00:08:19:10 --> 00:08:24:01] Em seguida, a gente precisa entender que o hábito de desenhar vai trazer algumas vantagens.
+[00:08:24:16 --> 00:08:26:24] Dentre elas, uma vantagem muito importante...
+[00:08:28:07 --> 00:08:34:16] o desenvolvimento do seu olhar. Quando você cria o hábito de desenhar, automaticamente
+[00:08:34:16 --> 00:08:40:20] você também desenvolve o hábito de observar. E observar é muito importante pros designers.
+[00:08:41:02 --> 00:08:44:16] Se tem uma coisa que eu percebo que faz a diferença entre um designer que é mediano,
+[00:08:45:00 --> 00:08:50:07] tá ali na média, nota 6, e um designer acima da média, nota 8, 9...
+[00:08:51:12 --> 00:08:56:18] É que esse designer acima da média ele presta atenção nos detalhes, ele consegue perceber os detalhes.
+[00:08:57:08 --> 00:08:58:12] Que detalhes são esses?
+[00:08:58:25 --> 00:09:04:15] É um detalhe de contraforma, é um detalhe de entrelinha, é um detalhe de entreletra, é um espaçamento.
+[00:09:05:12 --> 00:09:08:07] São os detalhes, é no detalhe que tá a perfeição do design.
+[00:09:09:03 --> 00:09:13:08] E você só consegue perceber isso intuitivamente, sem gastar tanta energia,
+[00:09:13:16 --> 00:09:17:21] quando você desenvolve a sua observação, quando você desenvolve o seu olhar.
+[00:09:18:10 --> 00:09:23:24] E existem dois olhares, se é que eu posso falar assim, que é importante nós desenvolvermos.
+[00:09:23:29 --> 00:09:25:03] O olhar de observação.
+[00:09:26:14 --> 00:09:34:11] informações e o olhar criativo, de enxergar e imaginar possibilidades em algum enquadramento,
+[00:09:34:28 --> 00:09:40:04] em algum contexto. E esses dois olhares são desenvolvidos quando você cria o hábito
+[00:09:40:04 --> 00:09:48:29] de desenhar. Você ficará mais propenso a identificar composições, espaços entre
+[00:09:48:29 --> 00:09:53:01] as composições, proporções entre elementos, perspectivas diferentes.
+[00:09:54:08 --> 00:10:01:04] cores, luz e sombra, o seu olho se tornará mais treinado para enxergar detalhes que a
+[00:10:01:04 --> 00:10:07:19] maioria das pessoas comuns não enxergam, porque não desenvolvem essa habilidade, a
+[00:10:07:19 --> 00:10:10:03] habilidade do desenho, o hábito de desenhar.
+[00:10:10:11 --> 00:10:14:22] Então aqui o primeiro motivo para você desenhar não é nem para você se tornar
+[00:10:14:22 --> 00:10:19:00] um artista e construir a próxima obra-prima, mas para você desenvolver essa que é uma
+[00:10:19:00 --> 00:10:22:26] das habilidades mais importantes para os designers, que é a observação.
+[00:10:22:26 --> 00:10:28:07] E o desenho te entrega isso naturalmente. Se todo dia você desenha, nem que seja um
+[00:10:28:07 --> 00:10:33:02] pouquinho, naturalmente você desenvolve essa habilidade. E esse já é um grande motivo
+[00:10:33:02 --> 00:10:35:28] para você desenhar, mas a gente obviamente não para por aqui.
+[00:10:36:07 --> 00:10:40:07] O segundo motivo é que o desenho é o primeiro estágio de uma projeção. O que eu quero
+[00:10:40:07 --> 00:10:45:02] dizer com isso? Que é o que eu já tinha falado há um tempo atrás. Qualquer projeto
+[00:10:45:02 --> 00:10:49:21] de design que você vai construir, a essência base dele começa no desenho, porque desenhar
+[00:10:50:09 --> 00:10:54:27] materializar uma ideia. E guarda isso que eu tô falando porque é aqui que tá a
+[00:10:54:27 --> 00:11:01:11] essência da importância do desenho. É aqui que tá o fator principal pra você
+[00:11:01:11 --> 00:11:06:18] começar a desenhar hoje. São as ideias que estão na sua cabeça. E o quão
+[00:11:06:18 --> 00:11:08:18] confusa é a sua cabeça.
+[00:11:09:22 --> 00:11:15:15] O desenho é importante porque, naquele movimento do mundo ideal para o mundo real,
+[00:11:16:15 --> 00:11:19:07] na etapa de projeção e imaginação,
+[00:11:20:01 --> 00:11:25:03] o que faz uma ideia sair do mundo ideal e ir para o mundo real é o desenho.
+[00:11:25:28 --> 00:11:27:12] É a sua capacidade de imaginar.
+[00:11:27:18 --> 00:11:30:10] E o que é imaginação?
+[00:11:31:14 --> 00:11:36:26] É a capacidade que você tem de construir uma imagem de algo.
+[00:11:37:27 --> 00:11:41:05] E o que é uma imagem, senão um enquadramento?
+[00:11:42:25 --> 00:11:47:29] um recorte, um clique, uma foto de uma perspectiva.
+[00:11:49:03 --> 00:11:49:25] É um desenho.
+[00:11:51:06 --> 00:11:54:11] É um quadro que você pinta de uma ideia que está na sua cabeça.
+[00:11:55:15 --> 00:11:58:20] Então, o desenho é importante porque ele desenvolve o seu olhar.
+[00:12:00:06 --> 00:12:03:05] e ele desenvolve a sua capacidade de materializar.
+[00:12:05:02 --> 00:12:09:27] Mas não só isso, também melhora sua síntese visual, sua capacidade de...
+[00:12:10:24 --> 00:12:15:15] Tornar clara as ideias na sua cabeça e exportar elas!
+[00:12:16:21 --> 00:12:17:11] para o mundo real.
+[00:12:19:19 --> 00:12:25:10] O desenho é tão importante para um designer quanto a leitura é importante para um escritor.
+[00:12:26:21 --> 00:12:29:24] Talvez essa seja a melhor definição que eu tenho aqui para vocês.
+[00:12:29:26 --> 00:12:32:29] Eu vou repetir para você entender o peso que o desenho tem.
+[00:12:33:18 --> 00:12:40:27] O desenho é tão importante para um designer quanto a leitura é importante para um leitor.
+[00:12:42:13 --> 00:12:47:25] Porque, da mesma forma que a leitura amplia o seu repertório, te faz conhecer palavras
+[00:12:47:25 --> 00:12:51:27] novas, te faz organizar as palavras na sua cabeça...
+[00:12:53:00 --> 00:12:57:17] O desenho amplia seu repertório de signos visuais
+[00:12:58:09 --> 00:13:02:15] e organiza as imagens na sua cabeça.
+[00:13:04:00 --> 00:13:06:09] Desenhar é tão importante quanto ler.
+[00:13:07:28 --> 00:13:12:11] Não para no final você ler um livro em dois dias ou fazer um desenho perfeito,
+[00:13:13:07 --> 00:13:18:20] mas para você desenvolver o seu cérebro, para você desenvolver habilidades que são importantes
+[00:13:18:20 --> 00:13:20:12] para o seu ofício enquanto designer.
+[00:13:22:06 --> 00:13:24:03] Então, eu entendo quando as pessoas falam
+[00:13:24:03 --> 00:13:25:04] ah, não precisa saber desenhar
+[00:13:25:04 --> 00:13:28:15] é, você não precisa se tornar o próximo Leonardo da Vinci
+[00:13:28:15 --> 00:13:29:28] Da Vinci ou Da Vinci, né?
+[00:13:30:00 --> 00:13:30:28] Foram os dois juntos
+[00:13:30:28 --> 00:13:33:14] Você não precisa se tornar o próximo Leonardo da Vinci
+[00:13:34:16 --> 00:13:42:07] você só precisa desenvolver essa habilidade, que vai te dar de bônus uma série de vantagens,
+[00:13:42:15 --> 00:13:43:03] ok?
+[00:13:43:13 --> 00:13:44:03] Então, vamos lá!
+[00:13:44:06 --> 00:13:49:03] Eu vou mostrar aqui para vocês três tipos de desenhos importantes que os designers precisam
+[00:13:49:03 --> 00:13:52:17] se atentar para se desenvolver, ok?
+[00:13:53:08 --> 00:13:54:21] Basicamente, são três tipos.
+[00:13:54:25 --> 00:13:59:17] O desenho técnico, o desenho de observação e o desenho livre.
+[00:13:59:17 --> 00:14:05:17] O desenho técnico, muito utilizado não só no design, mas na engenharia, na arquitetura,
+[00:14:06:06 --> 00:14:15:10] é o desenho que busca representar tecnicamente não só o elemento, o objeto que está sendo
+[00:14:15:10 --> 00:14:20:15] apresentado ali, mas também as suas dimensões, as suas proporções.
+[00:14:20:28 --> 00:14:25:10] Por isso que o desenho técnico é muito cotado, ele é cheio de cotas, cheio de
+[00:14:25:10 --> 00:14:28:12] números, cheio de retas, grids.
+[00:14:28:12 --> 00:14:34:04] Aqui eu busquei um desenho técnico relacionado com a área do design de marcas, que é por
+[00:14:34:04 --> 00:14:36:27] exemplo o design desse logo aqui.
+[00:14:38:03 --> 00:14:41:01] Então, nós temos um desenho técnico representando esse logo,
+[00:14:41:13 --> 00:14:45:09] mas não importa se você vai fazer um projeto de uma cadeira,
+[00:14:45:16 --> 00:14:49:18] você vai representar num documento que nós chamamos de Êpura,
+[00:14:49:23 --> 00:14:52:07] numa organização que nós chamamos de Êpura,
+[00:14:52:16 --> 00:14:54:28] a vista frontal, a vista lateral e a vista superior.
+[00:14:55:13 --> 00:14:56:25] Isso é o desenho técnico.
+[00:14:56:27 --> 00:15:00:00] Você precisa construir esse desenho de tal forma que
+[00:15:00:00 --> 00:15:03:03] qualquer pessoa que saiba ler um desenho técnico
+[00:15:03:03 --> 00:15:07:15] consiga entender exatamente as principais informações sobre ele.
+[00:15:07:15 --> 00:15:11:08] O desenho técnico é muito utilizado para criar um projeto.
+[00:15:11:22 --> 00:15:17:00] No design de produtos é muito comum, tanto que é mais comum a gente ouvir os designers
+[00:15:17:00 --> 00:15:22:28] gráficos, acho que é ser um cúmulo, um absurdo, mas os designers gráficos falarem
+[00:15:22:28 --> 00:15:27:28] ah não precisa saber desenhar, do que os designers de produtos, do que os designers
+[00:15:27:28 --> 00:15:30:22] de ambiente, do que os designers de moda.
+[00:15:31:28 --> 00:15:33:29] Eu não costumo ver designers de ambiente falando
+[00:15:33:29 --> 00:15:35:05] não precisa saber desenhar.
+[00:15:35:07 --> 00:15:36:26] Eu não costumo ver designers de moda falando
+[00:15:36:26 --> 00:15:38:12] ah, não precisa saber desenhar.
+[00:15:38:19 --> 00:15:39:29] Porque eles desenham o tempo inteiro!
+[00:15:41:28 --> 00:15:47:16] Mas eu costumo ouvir muitos designers gráficos falarem, ah, não precisa saber desenhar,
+[00:15:47:29 --> 00:15:51:28] porque são apertadores de botões, não estão de fato criando.
+[00:15:52:09 --> 00:15:57:01] Ah, Juan, mas eu discordo de você, porque eu consigo criar bons projetos de identidade
+[00:15:57:01 --> 00:16:01:02] visual sem usar papel e caneta, usando só o Illustrator.
+[00:16:02:07 --> 00:16:04:17] E aí aqui eu tenho duas informações importantes pra você.
+[00:16:04:21 --> 00:16:08:03] A primeira é que não importa se você está criando um illustrator ou usando um papel,
+[00:16:08:15 --> 00:16:12:28] de alguma forma você está fazendo um desenho, você está criando uma imagem de uma ideia
+[00:16:12:28 --> 00:16:13:18] na sua cabeça.
+[00:16:13:29 --> 00:16:19:17] Mas tem um segundo fator, se você começar a reparar, os grandes projetos, eles não
+[00:16:19:17 --> 00:16:21:11] são engessados, eles não são rígidos.
+[00:16:21:26 --> 00:16:23:15] Sabe aquela identidade visual que é rígida?
+[00:16:23:20 --> 00:16:25:09] Parece que é quadradona, engessada.
+[00:16:25:21 --> 00:16:31:01] Tem um monte pela internet, tem muita cor, tem algumas formas, geralmente fazem ícones,
+[00:16:31:01 --> 00:16:35:08] mas ela é ingessada. Não é uma identidade de marca fluida.
+[00:16:35:12 --> 00:16:38:23] Talvez a melhor forma de eu fazer isso é apresentando imagens aqui pra vocês.
+[00:16:39:04 --> 00:16:42:18] Mas a gente precisaria buscar isso na internet, eu vou tentar mostrar em palavras.
+[00:16:42:26 --> 00:16:45:27] Mostrar em palavras é ótimo, mas eu vou tentar trazer em palavras aqui pra vocês.
+[00:16:47:24 --> 00:16:48:26] uma identidade visual.
+[00:16:50:03 --> 00:16:55:25] se mantém presa no software, tem menos chance de se tornar uma identidade visual original,
+[00:16:56:17 --> 00:17:00:06] porque ela será ingressada, geralmente são identidades visuais minimalistas.
+[00:17:01:25 --> 00:17:07:10] Agora, quando você vê algo novo, algo original, algo que desperta a sua atenção, geralmente
+[00:17:07:10 --> 00:17:09:18] tem um grafismo diferente.
+[00:17:10:16 --> 00:17:13:19] E esse grafismo está ligado com o desenho.
+[00:17:13:27 --> 00:17:17:12] Muitas vezes essa fluidez do desenho.
+[00:17:17:19 --> 00:17:22:02] Cada projeto é um caso, cada caso é um caso, cada projeto tem suas particularidades.
+[00:17:22:08 --> 00:17:26:07] Você pode sim fazer um projeto engessado, depende da personalidade, depende da identidade
+[00:17:26:07 --> 00:17:29:26] que você quer construir, mas isso não anula a importância do desenho.
+[00:17:29:26 --> 00:17:33:02] Primeiro, por todas as vantagens que ele traz, que eu estou te mostrando aqui,
+[00:17:33:15 --> 00:17:36:16] e segundo, porque o desenho é mais uma ferramenta que você tem a seu dispor.
+[00:17:37:04 --> 00:17:42:04] Designers de produtos sabem disso, designers de ambientes sabem disso, designers de moda sabem disso.
+[00:17:43:10 --> 00:17:49:19] Talvez faltem os designers gráficos admitirem isso e pararem de ter preguiça, pararem de
+[00:17:49:19 --> 00:17:52:05] ter preguiça e começarem a desenvolver esse hábito.
+[00:17:52:14 --> 00:17:56:23] Porque quando alguém fala, não precisa saber desenhar pra mim, só parece que você quer
+[00:17:56:23 --> 00:17:58:16] fugir dessa responsabilidade.
+[00:17:59:23 --> 00:18:03:21] e tentar encontrar atalhos, caminhos diferentes ao invés de seguir pelo óbvio,
+[00:18:03:24 --> 00:18:04:24] que vai fazer sentido.
+[00:18:05:14 --> 00:18:08:11] Então, esse é o primeiro tipo de desenho, o desenho técnico.
+[00:18:08:18 --> 00:18:11:14] No design gráfico, nós vemos muito desenho técnico
+[00:18:11:14 --> 00:18:16:14] quando vamos representar um logo, um objeto específico como um logo,
+[00:18:16:28 --> 00:18:19:27] como ícones, ou também em embalagens,
+[00:18:20:18 --> 00:18:21:22] papelaria, editorial.
+[00:18:22:18 --> 00:18:25:29] É mais comum vermos desenhos técnicos, tá bom?
+[00:18:26:06 --> 00:18:28:16] No caso de design de websites,
+[00:18:28:16 --> 00:18:32:24] Os desenhos técnicos são os wireframes, nós podemos considerar os wireframes como desenhos
+[00:18:32:24 --> 00:18:33:22] técnicos também.
+[00:18:34:14 --> 00:18:38:20] Na arquitetura temos as plantas, na engenharia também trabalha muito o desenho técnico,
+[00:18:38:23 --> 00:18:40:20] então acho que ficou claro que é a ideia do desenho técnico.
+[00:18:41:02 --> 00:18:44:00] O segundo desenho é o desenho de observação, qual que é a importância dele?
+[00:18:44:09 --> 00:18:48:12] Se o desenho técnico é importante principalmente pela sua parte técnica, você conseguir
+[00:18:49:04 --> 00:18:53:16] representar as principais informações de um objeto, o desenho de observação é
+[00:18:53:16 --> 00:18:56:03] importante justamente para desenvolver a sua observação.
+[00:18:56:03 --> 00:19:03:02] Quanto mais você faz desenho de observação, mais você capta detalhes que você não captaria
+[00:19:03:02 --> 00:19:03:11] antes.
+[00:19:03:20 --> 00:19:09:00] Mais você percebe o quanto que a sua mente deixa passar informações relevantes que
+[00:19:09:00 --> 00:19:10:05] passam diante dos seus olhos.
+[00:19:10:23 --> 00:19:14:05] E aí, mais pra frente aqui eu vou falar sobre isso com vocês, que é um exercício
+[00:19:14:05 --> 00:19:15:02] que eu trouxe pra essa aula.
+[00:19:15:02 --> 00:19:16:03] Mas...
+[00:19:17:15 --> 00:19:20:25] Uma coisa curiosa, o desenho, ele não acontece uma única vez.
+[00:19:21:07 --> 00:19:26:19] Se você pega um objeto, desenha ele uma vez, coloca de lado, desenha ele de novo, o desenho
+[00:19:26:19 --> 00:19:27:20] ele vai sair melhor?
+[00:19:28:22 --> 00:19:32:01] e você vai captar coisas que você não tinha captado antes na primeira versão.
+[00:19:32:06 --> 00:19:34:11] E se você fizer uma terceira vez, vai sair melhor ainda,
+[00:19:34:12 --> 00:19:37:11] você vai captar novos detalhes que você não havia captado
+[00:19:37:11 --> 00:19:40:00] na segunda edição e na primeira edição.
+[00:19:41:02 --> 00:19:43:02] Então, quanto mais você desenha o mesmo objeto,
+[00:19:43:05 --> 00:19:44:08] mais você aprende sobre ele.
+[00:19:44:08 --> 00:19:49:03] Você percorre cada traço, cada detalhe.
+[00:19:49:08 --> 00:19:51:06] E isso desenvolve a sua observação.
+[00:19:51:23 --> 00:19:55:17] Este aqui é muito importante, principalmente falando de clareza mental,
+[00:19:56:00 --> 00:19:58:13] de repertório de signos, visuais,
+[00:19:58:13 --> 00:20:04:29] falando sobre desenvolver o seu olhar criativo e desenvolver, principalmente, o seu olhar de observação.
+[00:20:05:11 --> 00:20:11:17] E o terceiro tipo de desenho é o desenho livre, que esse aqui é muito importante para desenvolver o olhar criativo e a imaginação.
+[00:20:12:23 --> 00:20:21:24] Imaginar é conectar pontos novos, é criar coisas diferentes da realidade, como por exemplo, um ratinho que tem olho, que tem boca, que usa uma roupinha.
+[00:20:22:03 --> 00:20:23:27] Isso é imaginar, isso é um desenho livre.
+[00:20:23:27 --> 00:20:28:08] Você não necessariamente faz esse desenho observando uma outra coisa.
+[00:20:28:19 --> 00:20:33:19] Você obviamente traz traços do seu repertório, mas você cria algo novo a partir da sua imaginação,
+[00:20:33:23 --> 00:20:36:09] a partir da sua consciência.
+[00:20:37:02 --> 00:20:41:22] E fazer desenhos livres vai te ajudar a desenvolver a sua criatividade,
+[00:20:42:00 --> 00:20:46:19] vai te ajudar a desenvolver a sua imaginação e vai te ajudar...
+[00:20:46:19 --> 00:20:48:24] E tem diferença, tá? Em criatividade e imaginação.
+[00:20:48:29 --> 00:20:50:06] As pessoas acham que é a mesma coisa.
+[00:20:50:18 --> 00:20:52:21] Criatividade é a sua capacidade de criar,
+[00:20:52:21 --> 00:20:56:03] de gerar possibilidades novas, de conectar pontos.
+[00:20:56:11 --> 00:21:00:05] Imaginação é a sua capacidade de construir uma imagem mental de alguma coisa.
+[00:21:00:14 --> 00:21:03:08] São duas coisas diferentes, mas muito importantes para nós designers, né?
+[00:21:03:22 --> 00:21:06:23] Saber imaginar e conseguir traduzir uma ideia visualmente.
+[00:21:07:08 --> 00:21:08:24] Quanto mais você faz desenhos livres,
+[00:21:09:04 --> 00:21:13:10] mais você desenvolve a sua capacidade de traduzir uma ideia visualmente, ok?
+[00:21:13:20 --> 00:21:17:11] Então, esses são os três tipos de desenhos que são importantes para os designers
+[00:21:17:11 --> 00:21:20:02] que vocês precisam se atentar,
+[00:21:20:06 --> 00:21:22:04] porque eles vão te ajudar a se desenvolver.
+[00:21:22:04 --> 00:21:27:27] O primeiro, você vai usar no seu dia a dia, então aprender sobre geometria das formas,
+[00:21:28:12 --> 00:21:32:15] aprender inclusive sobre a própria geometria, sobre proporções, o que é uma épura, o
+[00:21:32:15 --> 00:21:34:17] que é um desenho técnico, o que são cotas.
+[00:21:34:20 --> 00:21:39:05] Em algum momento, como designer, essa habilidade pode ser demandada de você, principalmente
+[00:21:39:05 --> 00:21:45:01] se você trabalha no campo de impressos, que aí você vai fazer embalagens, você
+[00:21:45:01 --> 00:21:50:05] vai fazer como se for, vou falar aqui em uma linguagem mais simples, mas é como
+[00:21:50:05 --> 00:21:53:26] como se fosse uma planta do objeto que será impresso.
+[00:21:54:03 --> 00:21:55:18] É o projeto dele, de fato.
+[00:21:56:12 --> 00:22:00:09] E é curioso que é muito fácil nós nos lembrarmos do editorial.
+[00:22:00:21 --> 00:22:05:22] Eu acabei de dizer aqui pra vocês que, principalmente no editorial, mas, obviamente, quando você
+[00:22:05:22 --> 00:22:09:23] vai construir um logo, se você tem o conhecimento do desenho técnico, você vai construir
+[00:22:09:23 --> 00:22:11:15] um logo muito mais refinado.
+[00:22:12:03 --> 00:22:15:02] Então, é muito importante também, mesmo que você trabalhe no digital.
+[00:22:15:03 --> 00:22:19:08] Se você constrói websites, você vai construir wireframes muito mais refinados.
+[00:22:20:05 --> 00:22:23:12] Então, o desenho técnico é importante para o dia a dia como uma ferramenta.
+[00:22:23:18 --> 00:22:27:06] Já o desenho de observação e o desenho livre são importantes para desenvolver habilidades
+[00:22:27:06 --> 00:22:29:23] que vão te acompanhar para o resto da sua vida.
+[00:22:30:09 --> 00:22:34:00] O desenho de observação e o desenho livre são os dois desenhos que você precisa
+[00:22:34:00 --> 00:22:35:00] criar o hábito.
+[00:22:36:09 --> 00:22:40:25] trabalhar todos os seus dias, pelo menos 10 minutos, pare e faz um desenho, pare e faz
+[00:22:40:25 --> 00:22:44:21] um desenho e você vai ver como que a sua mente vai se desenvolver, tá bom?
+[00:22:45:03 --> 00:22:47:18] Então, esses são os três tipos que nós precisamos prestar atenção.
+[00:22:48:11 --> 00:22:54:22] E agora eu quero entrar num conceito aqui com vocês sobre o que é desenho e por que
+[00:22:54:22 --> 00:22:59:02] que talvez seja tão difícil pra você desenhar agora, nesse momento.
+[00:22:59:09 --> 00:23:00:15] Antes, eu só vou beber uma água.
+[00:23:07:00 --> 00:23:07:17] Então, bora lá!
+[00:23:09:03 --> 00:23:10:02] O que é desenho?
+[00:23:10:17 --> 00:23:15:13] Por que talvez seja tão difícil para você aprender a desenhar?
+[00:23:16:06 --> 00:23:18:19] A questão é que as pessoas acham.
+[00:23:19:19 --> 00:23:22:11] E o segredo para desenhar bem, está aqui ó.
+[00:23:23:29 --> 00:23:30:22] nossa mão. Nossa, você tem uma mão boa. Olha esse desenho que você fez. Capacidade motor.
+[00:23:31:25 --> 00:23:35:12] Mas a capacidade motora é de longe a parte mais importante para aprender a desenhar.
+[00:23:35:21 --> 00:23:36:11] De longe.
+[00:23:37:02 --> 00:23:39:26] E eu vou te provar que hoje o problema não está na sua mão.
+[00:23:40:11 --> 00:23:41:15] De forma alguma está na sua mão.
+[00:23:42:12 --> 00:23:43:17] Ah, o problema está no meu olho?
+[00:23:43:29 --> 00:23:44:18] Também não.
+[00:23:45:06 --> 00:23:48:15] Seu olho está enxergando, você vê as cores, você vê a luz entrando.
+[00:23:48:24 --> 00:23:49:19] A formação está indo.
+[00:23:50:00 --> 00:23:50:29] O problema não está no olho.
+[00:23:51:15 --> 00:23:52:23] Então, onde está o problema?
+[00:23:55:03 --> 00:23:58:29] no seu cérebro, na forma como o seu cérebro funciona.
+[00:23:59:29 --> 00:24:01:23] Eu posso até melhorar isso, né?
+[00:24:01:23 --> 00:24:06:10] Porque o problema não está nem na forma como o seu cérebro funciona, porque a sua
+[00:24:06:10 --> 00:24:08:22] parte fisiológica está funcionando super bem, né?
+[00:24:08:23 --> 00:24:10:28] Você está aqui me entendendo, está ouvindo tudo certinho, então o problema não é
+[00:24:10:28 --> 00:24:16:19] nem a forma como o cérebro funciona, mas a forma, agora sim, como você utiliza
+[00:24:16:19 --> 00:24:17:19] o seu cérebro.
+[00:24:18:04 --> 00:24:22:07] E aí eu tenho uma afirmação aqui muito importante para você, o desenho não começa
+[00:24:22:07 --> 00:24:28:20] na mão. Ele começa no seu cérebro. Como assim, Roma? Explica isso um pouco melhor. Então, vamos lá.
+[00:24:29:05 --> 00:24:35:20] Dá uma olhada nessa imagem aqui. Esse rabisco aqui. A verdade é que nós podemos tirar desse rabisco
+[00:24:35:20 --> 00:24:41:29] aqui usando a nossa imaginação, usando o nosso olhar criativo. Nós podemos tirar aqui várias
+[00:24:41:29 --> 00:24:47:17] formas. Talvez, vamos lá, vamos brincar com isso aqui. Deixa eu mudar a cor aqui.
+[00:24:49:11 --> 00:24:51:06] Eu posso ver um olho aqui, por exemplo?
+[00:24:52:03 --> 00:24:53:07] Vi um olho aqui...
+[00:24:54:25 --> 00:24:56:06] E outro olho aqui.
+[00:25:01:02 --> 00:25:02:12] Vi uma boca aqui...
+[00:25:07:16 --> 00:25:11:19] Então, eu fiz uma carinha. O nosso cérebro é bom encontrar rostinhos nas coisas, né?
+[00:25:12:12 --> 00:25:15:27] Mas vamos ver outras possibilidades. Olha aqui, ó. Um jarro.
+[00:25:16:25 --> 00:25:18:06] Isso aqui parece muito um jarro.
+[00:25:21:29 --> 00:25:22:22] Tchau, minha planta.
+[00:25:23:22 --> 00:25:27:23] Eu visualizei... Às vezes vocês viram até outra coisa, eu vi um jar, aqui ó, a planta aqui ó.
+[00:25:28:25 --> 00:25:30:09] uma folha da planta aqui.
+[00:25:33:01 --> 00:25:34:18] A ciência que eu estou fazendo no mouse.
+[00:25:34:24 --> 00:25:36:23] Se eu quisesse criar outra folha de planta aqui
+[00:25:36:23 --> 00:25:37:25] para visualizar mais fácil.
+[00:25:39:05 --> 00:25:42:00] já parece mais um jarro de uma planta, né?
+[00:25:42:07 --> 00:25:43:00] Faz outro aqui...
+[00:25:44:26 --> 00:25:48:25] um jarra de uma planta. Vamos tirar essa carinha aqui e vamos tentar encontrar outras coisas
+[00:25:48:25 --> 00:25:50:02] mais refinadinhas.
+[00:25:51:08 --> 00:25:53:00] O que mais dá para a gente fazer aqui?
+[00:25:55:13 --> 00:25:56:26] Eu vejo uma minhoca.
+[00:25:57:20 --> 00:25:58:16] Olha essa minhoca aqui, ó.
+[00:25:59:24 --> 00:26:00:25] Um taquico aqui.
+[00:26:02:03 --> 00:26:02:23] junto aqui
+[00:26:04:13 --> 00:26:07:18] Sabe aquela minhoca daquele jogo Warms?
+[00:26:09:03 --> 00:26:10:07] Eu vi uma minhoca aqui, ó.
+[00:26:11:08 --> 00:26:12:08] Então, está aqui a minhoca.
+[00:26:13:18 --> 00:26:16:27] E ainda dá para fazer o olho dela ali, porque a primeira coisa que eu vi foi o olho.
+[00:26:17:21 --> 00:26:19:14] Tem essa parte grande do olho aqui.
+[00:26:21:23 --> 00:26:23:23] Tem essa parte pequena do olho aqui.
+[00:26:24:05 --> 00:26:25:21] Vou trazer essas duas partes para frente.
+[00:26:29:19 --> 00:26:33:24] e vou trazer essa parte pra cá. Olha aí, então é uma minhoca.
+[00:26:33:27 --> 00:26:38:03] Uma minhoca bem cartonesca, né? Vou pôr uma pouca aqui nela.
+[00:26:38:13 --> 00:26:38:22] Oh!
+[00:26:40:23 --> 00:26:42:21] que é mais do lado de cá que da pra gente fazer.
+[00:26:45:18 --> 00:26:49:14] Eu vejo outro vaso aqui, eu tô vendo muito vaso hoje, né?
+[00:26:49:21 --> 00:26:50:14] Vaso de planta.
+[00:26:51:26 --> 00:27:00:13] Esse vaso tem um nome, inclusive, eu esqueci o nome dele, que é mais aberto embaixo e mais fechado em cima.
+[00:27:00:28 --> 00:27:01:27] Vou botar outro vaso aqui.
+[00:27:03:22 --> 00:27:04:19] Ah...
+[00:27:06:06 --> 00:27:08:07] Tá bom tentar... Ah, eu vejo um palhaço.
+[00:27:11:16 --> 00:27:17:09] pra mim parece um palhaço. Aqui a cabeça dele, sabe aqueles popos da corte?
+[00:27:19:03 --> 00:27:20:10] Aqui é um pedaço.
+[00:27:21:09 --> 00:27:23:06] E aqui é outro pedaço.
+[00:27:23:11 --> 00:27:27:24] Talvez eu poderia fazer alguma coisa assim, outra coisa aqui assim.
+[00:27:28:25 --> 00:27:31:15] E vamos tentar colocar um, parece dois chifres, né?
+[00:27:32:17 --> 00:27:36:11] Vou colocar um olho nele aqui só pra vocês verem o palhaço que eu vi, né?
+[00:27:36:18 --> 00:27:37:20] Vou colocar o nariz dele.
+[00:27:38:28 --> 00:27:39:15] e um olho.
+[00:27:40:28 --> 00:27:44:12] Eu vejo o nariz aqui, só colocar o nariz, vocês estão vendo agora o palhaço, né?
+[00:27:44:25 --> 00:27:45:26] A boca dele aqui.
+[00:27:50:04 --> 00:27:51:17] Um bom olho malvado nele.
+[00:27:54:26 --> 00:27:57:19] Aí meu palhaço, vou colocar uma boca meio...
+[00:28:00:04 --> 00:28:01:08] Eu vi um palhaço aí.
+[00:28:01:18 --> 00:28:08:05] Então olha só, a minha imaginação, o meu olhar, encontrou formas naqueles rabiscos.
+[00:28:10:20 --> 00:28:17:06] O ponto aqui é que a minha mente visualizou aquilo e depois eu fui lá e desenhei.
+[00:28:17:26 --> 00:28:20:26] Não foi a minha capacidade motora, eu fiz no mouse, né?
+[00:28:20:29 --> 00:28:25:08] Não ficou lá grande coisa, vamos ser sinceros, mas eu consegui transmitir a ideia.
+[00:28:25:24 --> 00:28:31:07] Olha só, eu consegui passar a ideia da minhoca, do vaso, do palhaço, dali a ideia.
+[00:28:31:18 --> 00:28:34:10] Eu passei ela pra vocês a partir de um rabisco.
+[00:28:35:12 --> 00:28:35:27] Tá bom?
+[00:28:36:09 --> 00:28:39:21] E eu quero contar pra vocês uma história que aconteceu comigo quando eu era mais novo
+[00:28:40:28 --> 00:28:46:16] e eu ia tomar banho e no banheiro da casa dos meus pais tinha umas...
+[00:28:46:16 --> 00:28:50:06] Não é cerâmica, eu não sei o nome disso cara, porcelanato.
+[00:28:50:19 --> 00:28:52:20] Enfim, tinha lá uns porcelanatos...
+[00:28:54:02 --> 00:28:59:20] que imitavam mármore, sabe? E aí ficavam umas imagens, assim, eu até trouxe umas imagens
+[00:28:59:20 --> 00:29:05:19] aqui pra mostrar pra vocês, da ideia, aqui ó, uns porcelanatos assim, e ficavam essas
+[00:29:05:19 --> 00:29:11:15] imagens. E eu lembro que eu ficava brincando, eu ficava lá e tal, a água caindo, né?
+[00:29:11:26 --> 00:29:19:29] E eu olhando assim, vendo várias coisas, várias formas diferentes nesses porcelanatos.
+[00:29:20:15 --> 00:29:22:18] E aí, olha que curioso esse exercício, né?
+[00:29:23:03 --> 00:29:26:06] Esses aqui eu peguei de propósito, eu consegui enxergar muito bem, eu achei legal.
+[00:29:26:16 --> 00:29:28:14] Eu vejo uma tartaruga nesse aqui, ó.
+[00:29:28:29 --> 00:29:29:14] Então aqui, ó.
+[00:29:29:19 --> 00:29:31:29] Olha como que o desenho já tá feito aqui, ó.
+[00:29:32:29 --> 00:29:34:05] O bico dela...
+[00:29:36:09 --> 00:29:38:00] Aqui é outra parte da boca dela.
+[00:29:41:06 --> 00:29:44:13] Tem velhinha aqui, o olho dela aqui.
+[00:29:47:10 --> 00:29:48:15] Olha só que interessante.
+[00:29:49:22 --> 00:29:51:05] Tem aqui uma tartaruga.
+[00:29:51:14 --> 00:29:52:00] Bem velho.
+[00:29:53:12 --> 00:30:01:25] Acabei de desenhar uma tartaruga, não foi a minha habilidade motora que me permitiu desenhar
+[00:30:01:25 --> 00:30:07:25] essa tartaruga, a cabeça dela pelo menos, foi a minha visualização, foi a minha mente
+[00:30:07:25 --> 00:30:13:15] que conseguiu visualizar, conceber essa imagem a partir de um suporte aqui.
+[00:30:14:08 --> 00:30:17:05] Se a gente pegar esse outro aqui, vamos tentar enxergar alguma coisa nesse do meio.
+[00:30:18:09 --> 00:30:20:13] Hum, eu vejo um rostinho aqui, ó.
+[00:30:26:10 --> 00:30:33:06] Parece uns chifres, uma gárgula, talvez, né? A orelha dela aqui. E aqui tem dois olhos, ó.
+[00:30:34:26 --> 00:30:35:17] O que?
+[00:30:38:28 --> 00:30:39:12] Patrulho...
+[00:30:39:12 --> 00:30:40:01] ...com a boca.
+[00:30:41:28 --> 00:30:45:20] Isso aqui é a orelha dela, parece um morcego também, talvez, né?
+[00:30:48:19 --> 00:30:51:21] Vamos tentar ver outra coisa aqui embaixo, o que mais dá para ver.
+[00:30:55:01 --> 00:30:56:26] Eu vejo um ETzinho louco aqui, ó.
+[00:30:57:27 --> 00:30:59:00] que é o olho dele.
+[00:31:02:02 --> 00:31:03:05] Esquivou a tua ideia.
+[00:31:04:27 --> 00:31:06:03] Aqui puxa assim.
+[00:31:07:29 --> 00:31:11:04] Aí, dá até para colocar uma roupa de mago nele.
+[00:31:13:27 --> 00:31:15:08] um IT, talvez.
+[00:31:17:16 --> 00:31:19:10] O que mais que dá para ver aqui...
+[00:31:21:19 --> 00:31:24:16] Ah, um dragão meio ranzinza, talvez, aqui, ó.
+[00:31:29:18 --> 00:31:30:17] Olha o olho dele.
+[00:31:32:21 --> 00:31:33:26] Aqui é o outro vídeo dele.
+[00:31:35:12 --> 00:31:41:11] Enfim, olha só, eu tô criando a partir de linhas, as linhas estão aparecendo, eu tô
+[00:31:41:11 --> 00:31:41:27] criando aqui.
+[00:31:42:08 --> 00:31:48:15] Eu estou vendo o meu cérebro ver primeiro e depois eu consigo desenhar.
+[00:31:49:05 --> 00:31:52:28] Aqui também dá pra continuar fazendo isso, eu acho que vocês entenderam a ideia.
+[00:31:53:08 --> 00:31:59:06] Esse exercício é muito legal porque ele mostra pra gente que o desenho não tá aqui,
+[00:31:59:12 --> 00:32:01:03] o desenho não tá aqui, é mental.
+[00:32:02:06 --> 00:32:07:14] E uma pessoa que não sabe desenhar nada mais é uma pessoa que não tem essa clareza mental
+[00:32:07:14 --> 00:32:10:25] que não consegue imaginar antes de criar.
+[00:32:11:12 --> 00:32:14:14] É por isso que vocês já devem ter passado por essa experiência.
+[00:32:14:16 --> 00:32:19:24] Se você copia um desenho, várias vezes copia, sei lá, vai copiar o Garfield e aí você
+[00:32:19:24 --> 00:32:23:13] começa a copiar o Garfield, fazer o Garfield, faz, faz, faz, faz, faz, você consegue
+[00:32:23:13 --> 00:32:28:00] com o tempo parar, começar a fazer o Garfield naquela posição sem copiar.
+[00:32:28:00 --> 00:32:31:07] Por que você já sabe os traços ali pra construir ele?
+[00:32:31:17 --> 00:32:35:00] Quando você era criança, talvez você fez isso, não sei né, titular, como desenhar
+[00:32:35:00 --> 00:32:35:15] o Goku?
+[00:32:36:16 --> 00:32:37:18] Como desenhar o Goku?
+[00:32:38:01 --> 00:32:41:13] E aí você viu o cara fazendo o traço, você copiava o mesmo traço com ele, aí você
+[00:32:41:13 --> 00:32:44:22] aprendeu a fazer o Goku naquela pose, mas a sua maior dificuldade era o que?
+[00:32:45:03 --> 00:32:47:22] Era criar um Goku do zero em outra pose diferente.
+[00:32:48:22 --> 00:32:49:20] Por que isso acontece?
+[00:32:50:04 --> 00:32:52:16] Porque a sua mente não tinha clareza.
+[00:32:53:17 --> 00:32:58:21] mas somente não conseguia imaginar com clareza os detalhes de uma outra perspectiva.
+[00:32:59:06 --> 00:33:01:17] O problema não está aqui, está aqui.
+[00:33:02:15 --> 00:33:06:27] E é por isso que, ao mesmo tempo que o desenho é bom para você aprender a materializar uma ideia,
+[00:33:07:06 --> 00:33:09:28] ele também desenvolve a sua observação e o seu repertório visual.
+[00:33:11:10 --> 00:33:21:20] Porque quem sabe desenhar são pessoas que têm uma clareza, um potencial de imaginação mais aflorado, mais desenvolvido.
+[00:33:23:10 --> 00:33:24:22] E sabe o que é mais curioso?
+[00:33:24:28 --> 00:33:27:26] Geralmente quem gosta de desenhar desenha bem, sabe por quê?
+[00:33:28:08 --> 00:33:33:03] Porque quem gosta de desenhar desenha naturalmente e quanto mais você desenha, melhor você
+[00:33:33:03 --> 00:33:33:09] fica.
+[00:33:34:15 --> 00:33:36:05] E mais você desenvolve essas habilidades.
+[00:33:37:14 --> 00:33:40:27] São coisas que muitas vezes nós não conseguimos medir, né?
+[00:33:41:00 --> 00:33:46:07] Tem pessoas até que chamam isso de soft skills, são habilidades mais sofisticadas que você
+[00:33:46:07 --> 00:33:50:09] não ensina a partir de um tutorial, que é preciso ser desenvolvido.
+[00:33:51:12 --> 00:33:59:06] Essas habilidades de organização do espaço, perceber o espaço, perceber a perspectiva,
+[00:33:59:12 --> 00:34:05:06] se identificar, observar, entender proporções. Sabe aquela pessoa que fala, ó, essa distância
+[00:34:05:06 --> 00:34:06:22] aí vai dar mais ou menos um metro.
+[00:34:07:25 --> 00:34:10:28] Ah, isso aí tem mais ou menos dois metros, as vezes vai meia de lá e tem dois metros.
+[00:34:11:10 --> 00:34:16:15] São pessoas que desenvolveram essa capacidade e isso para um designer é muito valioso,
+[00:34:16:29 --> 00:34:18:26] porque faz com que você crie o designer intuitivamente.
+[00:34:19:18 --> 00:34:24:11] Existe uma frase muito famosa que fala assim, o...
+[00:34:25:09 --> 00:34:32:03] Teorias, eu acho muito massa, teorias e processos servem para momentos de fraqueza,
+[00:34:32:14 --> 00:34:35:18] nos momentos de força designer desenvolvido intuitivamente.
+[00:34:36:24 --> 00:34:40:22] Então quando você está na sua melhor performance você faz o design intuitivamente, você não
+[00:34:40:22 --> 00:34:43:27] precisa de teoria para fazer, você simplesmente o faz.
+[00:34:44:15 --> 00:34:47:15] Mas para desenvolver a sua intuição você precisa desenvolver as habilidades que vão
+[00:34:48:00 --> 00:34:49:26] fortalecer essa intuição, ok?
+[00:34:50:07 --> 00:34:53:25] E aqui o importante de nós entendermos é isso, o desenho não está na sua mão,
+[00:34:54:09 --> 00:34:59:24] não está na sua coordenação motora, está na sua mente, no quanto você consegue
+[00:34:59:24 --> 00:35:00:11] visualizar.
+[00:35:01:05 --> 00:35:02:17] E aí olha só que interessante isso.
+[00:35:02:17 --> 00:35:08:14] O olhar criativo e a clareza mental são as habilidades mais valiosas que um designer
+[00:35:08:14 --> 00:35:09:09] pode desenvolver.
+[00:35:10:21 --> 00:35:17:06] Porque sabe aquele problema clássico? Eu consigo ter boas ideias, mas eu não consigo materializar.
+[00:35:17:13 --> 00:35:21:24] Às vezes você está fazendo um louco, você vai fazer um louco e você fala, cara, eu consigo ter ideia,
+[00:35:21:27 --> 00:35:27:12] mas na hora que eu vou fazer não fica igual. Não fica igual ao que eu pensei. Por que isso acontece?
+[00:35:27:27 --> 00:35:32:05] Porque ainda não está claro na sua mente. Se não está claro na sua mente, não vai ficar claro no papel.
+[00:35:33:08 --> 00:35:35:00] E isso é algo que você desenvolve.
+[00:35:35:06 --> 00:35:40:08] Quanto mais você desenha, mais capacidade você tem de tirar daqui para o papel assim,
+[00:35:41:07 --> 00:35:41:17] Rápido.
+[00:35:41:21 --> 00:35:44:11] Você faz um sketch e é exatamente o que você precisa.
+[00:35:45:08 --> 00:35:49:04] Você consegue refinar depois, inclusive, porque você desenvolveu a sua habilidade.
+[00:35:49:14 --> 00:35:50:00] Te desenha.
+[00:35:50:13 --> 00:35:52:28] E aqui mais um motivo para aprender a desenhar.
+[00:35:53:06 --> 00:35:56:11] Eu já tinha falado do olhar criativo, mas eu falei, presta atenção nisso daqui,
+[00:35:56:23 --> 00:35:58:07] ó, que é a clareza mental.
+[00:35:59:12 --> 00:36:01:14] A clarizamento é muito importante para os desenhos.
+[00:36:02:17 --> 00:36:07:24] Tanto na parte da mensagem, que eu já, inclusive, falei isso com vocês aqui em outras aulas,
+[00:36:08:01 --> 00:36:08:19] que é o que?
+[00:36:08:21 --> 00:36:09:02] Leiam.
+[00:36:09:11 --> 00:36:14:05] Leiam bastante, porque quando você lê, você organiza as palavras na sua cabeça, você
+[00:36:14:05 --> 00:36:16:02] alcança um repertório de palavras maior.
+[00:36:16:24 --> 00:36:21:18] A mesma coisa acontece com o design, desenhem, criem o hábito de desenhar, porque assim
+[00:36:21:18 --> 00:36:26:11] vocês vão desenvolver o seu olhar criativo, vocês vão desenvolver a sua clareza mental
+[00:36:27:02 --> 00:36:29:27] no que diz respeito aos signos visuais.
+[00:36:29:27 --> 00:36:34:28] E quanto mais você desenha coisas diferentes, mais você constrói esses signos na sua cabeça,
+[00:36:35:08 --> 00:36:38:14] mais você se torna capaz de representar, ok?
+[00:36:39:02 --> 00:36:43:20] Mas a gente não para por aqui, eu ainda quero te mostrar que você pode aprender a desenhar
+[00:36:43:20 --> 00:36:47:13] assim, eu quero quebrar essa crença que pode estar na sua cabeça, e você fala, mas
+[00:36:47:13 --> 00:36:51:04] eu vou tentar fazer e fica horrível, tá tudo bem, eu ainda quero te provar que
+[00:36:51:04 --> 00:36:52:05] você pode aprender, tá?
+[00:36:52:12 --> 00:36:55:12] Então continua aqui comigo para você ver porque isso é importante.
+[00:36:55:12 --> 00:37:02:00] A dificuldade para desenhar é simplesmente o resultado de uma visualização confusa.
+[00:37:02:08 --> 00:37:05:27] Se você não visualiza com clareza, você não consegue desenhar.
+[00:37:06:05 --> 00:37:07:02] Quer uma prova disso?
+[00:37:07:11 --> 00:37:11:15] Então olha que interessante, se eu pedir para você desenhar um retângulo, vai ser
+[00:37:11:15 --> 00:37:11:26] difícil?
+[00:37:12:14 --> 00:37:16:15] Eu tenho certeza que não, você pode fazer vários retângulos né, você pode fazer
+[00:37:16:15 --> 00:37:21:02] um retângulo com uma proporção assim, você pode fazer um retângulo maior assim,
+[00:37:21:25 --> 00:37:23:14] você pode fazer vários tipos de retângulos.
+[00:37:23:14 --> 00:37:28:11] Se eu te pedir para fazer um quadrado, você também consegue chegar próximo ali da proporção de um quadrado.
+[00:37:28:24 --> 00:37:31:23] Se eu for fazer um triângulo, você consegue fazer um triângulo.
+[00:37:32:09 --> 00:37:36:11] Ah, mas é porque isso são formas simples, são formas básicas, né?
+[00:37:37:00 --> 00:37:38:25] Mas elas são básicas não é à toa.
+[00:37:39:01 --> 00:37:45:17] Elas são básicas porque elas sustentam todas as outras formas, que são formas orgânicas, não são regulares, né?
+[00:37:45:26 --> 00:37:48:23] Sei lá, você vai desenhar uma anatomia humana,
+[00:37:48:23 --> 00:37:53:09] Você pode usar a base do triângulo aqui, para falar de um homem ou de uma mulher, de
+[00:37:53:09 --> 00:37:54:12] forma exagerada.
+[00:37:54:18 --> 00:37:54:21] Né?
+[00:37:54:26 --> 00:37:56:24] Aqui, isso aqui é um homem...
+[00:37:57:26 --> 00:37:59:28] Isso aqui você não tem dificuldade para fazer nenhuma.
+[00:38:00:27 --> 00:38:01:15] E uma mulher.
+[00:38:02:05 --> 00:38:03:03] Vamos pôr um cabelinho aqui também.
+[00:38:07:11 --> 00:38:08:21] Vamos ver o triângulo de base.
+[00:38:09:14 --> 00:38:11:24] Ah, Juan, mas isso aqui é desenhar?
+[00:38:12:06 --> 00:38:13:01] 100%, cara.
+[00:38:13:19 --> 00:38:17:12] É tirar uma ideia da sua cabeça e colocar no papel com clareza.
+[00:38:19:10 --> 00:38:24:04] representado. Ah, então se eu chegar nesse nível tá bom? Aí é que eu preciso reforçar
+[00:38:24:04 --> 00:38:29:02] uma coisa pra você. O objetivo principal aqui. Não é... você pode, se você quiser
+[00:38:29:02 --> 00:38:33:12] pode, vai além que isso vai ser bom pra você, mas não é se tornar o próximo Michelangelo.
+[00:38:33:20 --> 00:38:38:01] Não é se tornar o próximo Leonardo da Vinci. É criar o hábito de desenhar.
+[00:38:39:11 --> 00:38:44:19] Não se trata de alcançar a perfeição, se trata de ser uma pessoa que desenha, se trata
+[00:38:44:19 --> 00:38:45:22] de identidade, sabe?
+[00:38:46:11 --> 00:38:47:03] Por que você desenha?
+[00:38:47:05 --> 00:38:48:14] Porque eu sou uma pessoa que desenha.
+[00:38:50:15 --> 00:38:54:29] E por ser uma pessoa que desenha, você desenvolve habilidades importantes para um design.
+[00:38:55:19 --> 00:38:55:28] Entende?
+[00:38:56:16 --> 00:39:01:17] E com o tempo, você vai ver que você consegue evoluir, consegue além, eu só sei fazer bonequinho
+[00:39:01:17 --> 00:39:01:29] de palito.
+[00:39:02:03 --> 00:39:04:08] Por que você só sabe fazer bonequinho de palito?
+[00:39:04:08 --> 00:39:05:22] Eu tenho a resposta aqui também.
+[00:39:07:00 --> 00:39:13:17] Porque o grande lance aqui é que na sua mente está muito claro quais são os
+[00:39:13:17 --> 00:39:17:06] componentes, quais são os elementos para fazer um bonequinho de palito.
+[00:39:18:11 --> 00:39:22:08] Mas olha que curioso, se você começa a aprender um pouco de anatomia e proporção, como que
+[00:39:22:08 --> 00:39:24:22] eu aprendi isso com observação e prática?
+[00:39:25:09 --> 00:39:27:15] Você começa a ver o que um corpo humano tem.
+[00:39:27:22 --> 00:39:28:19] Um masculino, né?
+[00:39:28:19 --> 00:39:29:12] Tem um peito aqui.
+[00:39:29:15 --> 00:39:30:27] Eu tô fazendo um super-herói quase, né?
+[00:39:31:07 --> 00:39:31:27] Tem um peito.
+[00:39:34:09 --> 00:39:41:22] Além disso, tem os músculos na lateral. O meu não vai ficar exatamente igual, mas tem o tanquinho aqui.
+[00:39:43:21 --> 00:39:45:08] Ah, a proporção tá errada.
+[00:39:46:00 --> 00:39:47:10] É isso que eu quero mostrar pra vocês.
+[00:39:47:20 --> 00:39:50:09] Quando você começa a perceber que a proporção tá errada,
+[00:39:50:16 --> 00:39:52:18] é quando a sua observação tá se desenvolvendo.
+[00:39:52:21 --> 00:39:55:07] Então, geralmente, isso aqui é mais pra dentro, né?
+[00:39:55:07 --> 00:39:58:09] Que vai desenvolver a asa ali, esses cominhos aqui, tá muito louco.
+[00:39:58:24 --> 00:40:01:11] Mas tem essa parte aqui, esse músculo, que eu não sei qual que é, ó.
+[00:40:02:08 --> 00:40:04:13] Aqui eu tô fazendo bem caricato, né? Bem exagerado.
+[00:40:05:10 --> 00:40:06:16] Mas, enfim, tem esse músculo aqui.
+[00:40:08:14 --> 00:40:09:21] Aí tem a asa aqui, ó.
+[00:40:11:23 --> 00:40:12:20] Tem o ombro.
+[00:40:14:06 --> 00:40:17:06] Tem o trapézio, tem outro trapézio, tem outro ombro aqui.
+[00:40:19:09 --> 00:40:22:15] Aí tem o tríceps, o bíceps, mais para baixo, né?
+[00:40:24:03 --> 00:40:24:29] Tríceps, bíceps...
+[00:40:24:29 --> 00:40:27:04] Ah, tá feio! Tô fazendo aqui só com risco.
+[00:40:27:07 --> 00:40:29:23] Tô riscando, ó! Tô riscando para vocês verem que
+[00:40:29:23 --> 00:40:32:21] é uma questão de visualização, não é uma questão de...
+[00:40:33:24 --> 00:40:36:13] Tá muito engraçado esse corpo, né? Com certeza dá pra melhorar.
+[00:40:36:19 --> 00:40:39:27] Mas qual que é a ideia? A primeira versão, depois a segunda versão...
+[00:40:40:28 --> 00:40:41:29] Vou colocar um pescoço aqui.
+[00:40:43:20 --> 00:40:47:16] Então tá aí ó, vou pôr uma calça nesse cara aí, ele é bem grande, bodybuilder.
+[00:40:49:19 --> 00:40:52:18] Ah, isso aqui já está mais detalhado que esse, né?
+[00:40:53:03 --> 00:40:54:20] Se eu quiser melhorar, posso? Sim!
+[00:40:54:27 --> 00:40:57:09] E isso que é clareza mental.
+[00:40:57:15 --> 00:41:00:11] O que você faz? Você pega uma referência, você está aprendendo.
+[00:41:00:16 --> 00:41:01:25] Pega uma referência de corpo.
+[00:41:02:04 --> 00:41:03:15] Deixa eu desagrupar esses dois aqui.
+[00:41:03:25 --> 00:41:05:16] Isso aqui é uma vaca, é a versão palito.
+[00:41:06:15 --> 00:41:09:13] Você vai aprendendo. Olha, eu sai dessa versão, estou nessa versão...
+[00:41:09:13 --> 00:41:12:00] Ah, tem o maxilá aqui, tem a cabeça e tal.
+[00:41:13:19 --> 00:41:15:03] Isso aqui tá parecendo um boneco.
+[00:41:17:28 --> 00:41:19:02] Michelin, não sei como é que fala.
+[00:41:20:10 --> 00:41:21:16] Coloca o cabelo dele aí.
+[00:41:23:20 --> 00:41:28:05] Aí ó, tá aí a versão maromba do boneco de palito.
+[00:41:29:00 --> 00:41:30:03] Isso aqui é visualização.
+[00:41:30:14 --> 00:41:34:10] Você sabe, cada risco que eu fiz desse aqui, você consegue repetir o risco.
+[00:41:34:18 --> 00:41:35:12] Mas qual que é o lance?
+[00:41:35:21 --> 00:41:37:01] É você visualizar.
+[00:41:37:16 --> 00:41:38:23] Você visualiza e reconstrói.
+[00:41:39:08 --> 00:41:41:23] Ah, faz um carro, aí a pessoa faz aquele carro padrão.
+[00:41:42:00 --> 00:41:43:29] Por que você faz esse carrinho aqui padrão?
+[00:41:44:20 --> 00:41:48:11] Porque as características de um carro, sei lá, tem uma roda, tem uma base,
+[00:41:48:23 --> 00:41:53:02] tem a frente aqui, a frente é maior, tem uma parte aqui e a trás é menor.
+[00:41:53:02 --> 00:41:59:18] Você lembra de um carro assim, aí tem um farol aqui, tem outro farol aqui, tem um vidro.
+[00:41:59:27 --> 00:42:02:04] Aí você fez a sua primeira versão de um carro, por quê?
+[00:42:02:10 --> 00:42:04:28] Porque você se lembra de um carro só desse jeito.
+[00:42:05:21 --> 00:42:06:10] Aí o que você faz?
+[00:42:06:12 --> 00:42:11:11] Você começa a fazer outras perspectivas, ah, eu sei que carro tem capô, além do
+[00:42:11:11 --> 00:42:15:00] capô do carro tem o farol do carro aqui e do outro lado também.
+[00:42:15:18 --> 00:42:19:00] Aí vem a marca do carro aqui, sei lá, que marca é essa desse carro?
+[00:42:20:09 --> 00:42:22:04] Aí você começa a fazer ele em outra perspectiva, você olha...
+[00:42:22:20 --> 00:42:24:19] Ah, pô, precisa de uma roda, a roda aqui tá estranha.
+[00:42:26:14 --> 00:42:27:22] Vou fazer uma roda mais para cá.
+[00:42:28:25 --> 00:42:33:00] A perspectiva está ótima aqui, fazer desenho no mouse ao vivo
+[00:42:33:00 --> 00:42:34:19] é uma vergonha, mas vamos lá.
+[00:42:34:25 --> 00:42:37:01] Faz a outra roda, aí você faz aqui um...
+[00:42:38:03 --> 00:42:42:05] o vidro do carro. Olha aí, essa versão de carro aqui tá esquisita ainda, eu tô sentindo
+[00:42:42:05 --> 00:42:45:16] que tem alguma coisa errada, mas ela já tem mais detalhes que o outro carro não tinha.
+[00:42:46:27 --> 00:42:51:07] E você começa a desenvolver, assim, o que está parecendo o carro, os carros do Carlos, né?
+[00:42:53:14 --> 00:42:55:05] Deu os olhos nele aqui.
+[00:42:56:02 --> 00:42:56:16] Enfim...
+[00:42:56:16 --> 00:42:58:19] Então, olha aí, fiz uma outra versão de um carro aqui,
+[00:42:58:25 --> 00:42:59:20] tá tosco ainda, Juan.
+[00:42:59:25 --> 00:43:03:19] Tá, mas olha só como que é uma questão de clareza mental.
+[00:43:04:15 --> 00:43:07:27] Você vai cada vez mais melhorando...
+[00:43:08:29 --> 00:43:14:12] o que você tem de lembrança no seu cérebro, do que é um carro, de quais são as características
+[00:43:14:12 --> 00:43:14:29] de um carro.
+[00:43:15:09 --> 00:43:16:02] Faz um pássaro.
+[00:43:16:08 --> 00:43:18:09] Aí você vai lá e faz um pássaro, faz um pássaro padrão.
+[00:43:19:22 --> 00:43:20:17] De lado.
+[00:43:20:22 --> 00:43:21:19] Por que a gente faz um...
+[00:43:21:19 --> 00:43:22:25] Parece um pintinho aqui.
+[00:43:22:29 --> 00:43:23:26] Que esses passarinhos...
+[00:43:23:26 --> 00:43:25:13] Por que a gente faz um pássaro assim?
+[00:43:25:16 --> 00:43:29:22] Talvez é um pássaro que tem menos informações, então é mais fácil de lembrar.
+[00:43:31:05 --> 00:43:32:10] Aí vamos ver o que vai passar ali.
+[00:43:33:12 --> 00:43:38:27] uma asa aqui nele. É mais fácil de lembrar. Ah, mas se eu for fazer esse mesmo pássaro voando,
+[00:43:39:03 --> 00:43:46:19] vou fazer o pássaro voando aqui. Eita, o tração errou. Coloco o bico nele, vai pôr uma asinha pra cá,
+[00:43:46:27 --> 00:43:48:00] põe outra asinha pra cá.
+[00:43:51:05 --> 00:43:54:01] consegui representar a ideia do passarinho voando.
+[00:43:55:08 --> 00:44:02:28] O que você faz? Redesenha ele. Vai melhorando e por aí vai, entendeu?
+[00:44:04:09 --> 00:44:09:09] começa a desenvolver. Isso vai aumentar a sua clareza mental, vai aumentar o seu olhar
+[00:44:09:09 --> 00:44:14:13] criativo. Todos esses aqui são desenhos que eu estou fazendo livres, lembra lá? Vou
+[00:44:14:13 --> 00:44:19:18] voltar aqui para vocês, ó. Aqui ó, desenho livre, eu estou criando aqueles desenhos
+[00:44:19:18 --> 00:44:23:11] lá da minha cabeça, não são desenhos de observação. Os de observação você
+[00:44:23:11 --> 00:44:28:24] pega um objeto e começa a representar aquele objeto, cada detalhe dele. Então você olha
+[00:44:28:24 --> 00:44:34:09] e faz. Olha e faz, não é copiar, não é colocar a folha em cima, né? Você
+[00:44:34:09 --> 00:44:37:20] pode até... deixa eu voltar aqui. Às vezes você está inseguro e fala, não
+[00:44:37:20 --> 00:44:41:11] você desenha nada. Eu entendi que é importante, mas por onde eu começo? Começa copiando.
+[00:44:41:13 --> 00:44:44:15] Você vai fazer três desenhos. Eu vou entrar nesse exercício já já, já estou dando
+[00:44:44:15 --> 00:44:48:16] spoiler, mas faz uma cópia. Acabou de fazer a cópia, coloca a cópia do lado
+[00:44:48:16 --> 00:44:51:09] e aí você vai fazer olhando. Aí você coloca a folha e o desenho, faz olhando.
+[00:44:51:19 --> 00:44:55:03] Terminou de fazer olhando, coloca de lado e faz um sem olhar. Isso é o que? Você
+[00:44:55:03 --> 00:44:58:13] desenvolver a sua clareza mental, a sua lembrança daquela...
+[00:45:00:04 --> 00:45:04:15] Então, isso aqui é pra te mostrar que qualquer pessoa pode aprender a desenhar, porque o
+[00:45:04:15 --> 00:45:10:07] lance não é a sua mão, é a sua cabeça, é a forma como você usa o seu cérebro,
+[00:45:10:09 --> 00:45:10:23] ok?
+[00:45:11:27 --> 00:45:16:19] Naturalmente, formas mais complexas vão exigir de você mais esforço e aqui tem um fator
+[00:45:16:19 --> 00:45:17:05] importante.
+[00:45:17:19 --> 00:45:21:15] Sim, você vai precisar de mais esforço pra fazer formas mais complexas.
+[00:45:21:20 --> 00:45:24:13] Fazer um bonequinho de palito é muito mais fácil, você não gasta mais energia
+[00:45:24:13 --> 00:45:29:03] porque esse padrão aqui, visual, já tá na sua cabeça, é fácil de replicar.
+[00:45:29:03 --> 00:45:32:21] A mesma coisa do carrinho, faz um carrinho aí, você vai fazer aquele carrinho básico lá,
+[00:45:33:09 --> 00:45:34:22] tá fácil, é fácil de lembrar.
+[00:45:36:05 --> 00:45:39:26] Agora, se você quiser fazer uma coisa mais detalhada, por que que tem mais esforço?
+[00:45:40:02 --> 00:45:43:17] Por causa da familiaridade, guarda isso aqui ó.
+[00:45:44:20 --> 00:45:49:18] Quanto mais familiar uma forma é para você, mais facilidade você tem para desenhar.
+[00:45:49:28 --> 00:45:54:01] Então o esforço é inversamente proporcional à familiaridade.
+[00:45:54:12 --> 00:45:55:02] O que isso quer dizer?
+[00:45:55:13 --> 00:46:00:08] Que você vai ter mais dificuldade nas primeiras versões porque você ainda não é familiar
+[00:46:00:08 --> 00:46:01:01] para aquela forma.
+[00:46:02:13 --> 00:46:06:08] Quanto mais familiar você fica para aquela forma, mais você desenvolve a sua capacidade
+[00:46:06:08 --> 00:46:08:04] de tirar a ideia da cabeça e colocar no papel.
+[00:46:09:07 --> 00:46:14:01] Por isso que é uma habilidade que não tem atalho, é treino, é tipo um músculo, sabe?
+[00:46:14:04 --> 00:46:16:21] É tipo realmente ir na academia pra ficar igual o Maromba ali.
+[00:46:18:13 --> 00:46:24:09] Você treina, treina, treina, e quando você menos vê, tá intuitivo, você simplesmente vai lá e passa.
+[00:46:25:14 --> 00:46:26:12] sem dificuldade.
+[00:46:27:20 --> 00:46:34:27] Então, lembra disso. É, tem mais esforço. Sim, mas é inversamente proporcional a familiaridade.
+[00:46:35:20 --> 00:46:41:18] E aí, guarda isso daqui, que essa é a essência de desenhar. O desenho é uma linguagem.
+[00:46:42:23 --> 00:46:50:07] Não começa na mão, começa no cérebro. O cérebro imagina e as mãos traduzem.
+[00:46:50:13 --> 00:46:53:26] Mas a parte da mão é a mais fácil de aprender. Ah, eu não sei fazer uma linha reta.
+[00:46:54:10 --> 00:46:59:07] Se você começa a treinar exercício de aquecimento, rapidinho você faz uma linha reta.
+[00:46:59:12 --> 00:47:05:14] Rapidinho você faz um círculo, um elipse bem feito. É treino, é puramente treino.
+[00:47:05:19 --> 00:47:09:01] E, Juan, como é que você tem tanta certeza disso? Sendo que você desenhava desde criança,
+[00:47:09:01 --> 00:47:12:25] se desenhar pra você era fácil, você gostava. Sim, realmente, eu desenho desde criança,
+[00:47:13:07 --> 00:47:17:22] eu amo desenhar, desenhos de observação, desenhos da minha cabeça eu gosto, mas...
+[00:47:18:18 --> 00:47:22:03] Por que eu tenho certeza que alguém que está começando do zero, que não sabe nada de desenho,
+[00:47:22:05 --> 00:47:26:06] que é um desastre com papel e uma caneta na mão, consegue mesmo assim chegar?
+[00:47:26:12 --> 00:47:28:09] Porque eu vi isso acontecer na minha frente.
+[00:47:28:28 --> 00:47:32:28] No período da faculdade, nós tínhamos uma disciplina que se chamava expressão gráfica.
+[00:47:33:02 --> 00:47:37:18] Na expressão gráfica, basicamente o que nós fazíamos, treinávamos desenhos de observação
+[00:47:37:18 --> 00:47:39:04] e desenhos livres.
+[00:47:39:15 --> 00:47:40:18] Todo mundo treinava.
+[00:47:41:13 --> 00:47:44:11] Vocês precisam ver em seis meses.
+[00:47:44:17 --> 00:47:47:06] Eu tinha um colega, eu não vou falar o nome dele aqui não, né?
+[00:47:47:06 --> 00:47:49:23] sei lá, vai querer assistir esse vídeo e ficar incomodado de eu falando o nome dele
+[00:47:49:23 --> 00:47:50:09] aqui, não sei.
+[00:47:50:27 --> 00:47:51:28] Mas é o meu colega...
+[00:47:51:28 --> 00:47:53:19] Os meus colegas da sala vão sair piada em terra.
+[00:47:53:26 --> 00:47:56:00] É o meu colega que faz aniversário todo dia.
+[00:47:58:01 --> 00:48:01:19] Enfim, eu tinha um colega que ele mesmo falava, nossa, eu não sei desenhar, desenhar é muito
+[00:48:01:19 --> 00:48:04:27] ruim pra mim, é muito difícil e quando ele desenhava realmente era horrível o desenho
+[00:48:04:27 --> 00:48:05:06] dele.
+[00:48:05:25 --> 00:48:09:27] Eu conhecia ele, conversava muito com ele no primeiro período lá no início e eu
+[00:48:09:27 --> 00:48:12:15] vi o desenho dele e falei, cara, realmente dá pra melhorar.
+[00:48:12:21 --> 00:48:18:10] Mas depois de seis meses, estava mítido o quanto que ele melhorou, porque ele precisava
+[00:48:18:10 --> 00:48:18:28] praticar aquilo.
+[00:48:19:04 --> 00:48:21:12] Basicamente a disciplina de expressão gráfica era o que?
+[00:48:21:19 --> 00:48:23:09] Ir pra casa e ficar desenhando.
+[00:48:23:14 --> 00:48:25:15] Sério, eu tinha que fazer 50 desenhos.
+[00:48:25:22 --> 00:48:26:21] Era isso a disciplina.
+[00:48:26:21 --> 00:48:32:17] Chega em casa, pega a sua pasta de dente e vai fazer copiar o desenho de observação da pasta de dente.
+[00:48:32:24 --> 00:48:34:25] Pega uma cadeira e faz o desenho de observação dessa cadeira.
+[00:48:34:29 --> 00:48:38:07] Pega um micro-ondas e faz a observação desse micro-ondas.
+[00:48:38:16 --> 00:48:42:23] Inclusive eu vou fazer uma coisa, eu vou pegar a minha pasta de desenhos, porque eu gosto de dar prova pra vocês,
+[00:48:43:06 --> 00:48:48:06] depois eu dou uma cortada no vídeo, eu vou pegar ali rapidinho pra vocês verem que eu não tô zoando, hein?
+[00:48:48:11 --> 00:48:50:18] Que é sério mesmo, era muito desenho que eu fazia. Segura aí.
+[00:49:17:14 --> 00:49:20:26] Então olha só, inclusive eu vou aproveitar essa pausa aqui para ver se está tudo certinho,
+[00:49:20:28 --> 00:49:27:11] tudo rodando, tudo rodando, assistindo 2x, deu uma pausa, é isso aí, meu diferencial, curto
+[00:49:27:11 --> 00:49:30:24] demais o estilo de logo mais ilustrado, algo mais orgânico, sem muito grid, esse
+[00:49:30:24 --> 00:49:32:14] vai ser o meu foco, massa, massa, massa.
+[00:49:32:25 --> 00:49:37:20] Então bora lá, peguei aqui algumas pastas com muitos desenhos e vou apresentar aqui
+[00:49:37:20 --> 00:49:38:13] para vocês.
+[00:49:39:06 --> 00:49:43:15] Trabalho de expressão gráfica, eu sempre tirava nota 10 nesses trabalhos, eu gostava
+[00:49:43:15 --> 00:49:46:12] de fazer mesmo, eu fazia com muito carinho aqui, essa aqui é a capa do trabalho,
+[00:49:46:12 --> 00:49:47:13] Feito a mão mesmo.
+[00:49:48:27 --> 00:49:50:29] Deixa eu pegar aqui algumas imagens pra você olha.
+[00:49:51:16 --> 00:49:53:02] Totalmente fora de proporção.
+[00:49:53:09 --> 00:49:53:27] Olha essa mão.
+[00:49:54:10 --> 00:49:55:27] Essa mão está fora de proporção.
+[00:49:56:08 --> 00:49:58:29] Está muito grande, olha o tamanho desse dedão perto dos outros dedos.
+[00:49:59:04 --> 00:49:59:25] Mas é isso.
+[00:50:00:00 --> 00:50:00:16] Está ótimo.
+[00:50:00:17 --> 00:50:01:21] Vai pro próximo desenho.
+[00:50:01:26 --> 00:50:03:23] Faça o mesmo desenho de novo outra vez.
+[00:50:04:08 --> 00:50:06:28] Aí eu fiz o desenho outra vez, tentando usar um quadrante aqui.
+[00:50:07:08 --> 00:50:09:27] Ainda está muito esquisito, não está do jeito que eu queria.
+[00:50:10:10 --> 00:50:15:28] Mas eu estava ali, treinando a minha observação, até chegar numa mão que eu gostava.
+[00:50:16:20 --> 00:50:17:27] Então aqui, isso aqui é uma tesourinha.
+[00:50:19:06 --> 00:50:20:28] Muita gente deve conhecer essa tesourinha.
+[00:50:22:01 --> 00:50:24:23] meio que a luz vai atrapalhar um pouquinho de ver, né?
+[00:50:25:07 --> 00:50:25:25] Então, olha aí, ó...
+[00:50:26:22 --> 00:50:28:18] Fiz o desenho de observação da tesourinha.
+[00:50:29:24 --> 00:50:32:00] desenhava ela várias vezes
+[00:50:32:00 --> 00:50:32:28] vou pegar outro objeto
+[00:50:32:28 --> 00:50:36:01] essa chave aqui, que eu ganhei da minha avó
+[00:50:36:01 --> 00:50:37:24] tem até o gelo guardado ali
+[00:50:37:24 --> 00:50:40:06] então, desenha a chave, era chave de um guarda-roupa dela
+[00:50:41:29 --> 00:50:47:02] Eu comecei com objetos pequenos, mais simples, e depois passei para outro, uma folha.
+[00:50:48:12 --> 00:50:50:24] Seca uma folha que tem no jardim da casa dos meus pais.
+[00:50:51:11 --> 00:50:52:06] Fui desenhar.
+[00:50:52:15 --> 00:50:53:21] Peguei algumas e fui desenhar.
+[00:50:53:29 --> 00:50:55:00] Começa de um ponto e vai.
+[00:50:56:00 --> 00:50:57:06] Olha a primeira versão, inclusive.
+[00:50:58:17 --> 00:51:02:18] Primeiro vai ser isso. Eu queria entender a forma que ela desenhava para poder entender.
+[00:51:04:10 --> 00:51:08:21] Contraforma, estudo de contraforma, ao invés de fazer a forma, desenhar a contraforma.
+[00:51:08:29 --> 00:51:13:23] Desenhe o mesmo objeto várias vezes para compreender esse objeto, para ter uma clareza
+[00:51:13:23 --> 00:51:15:04] mental dele na sua cabeça.
+[00:51:16:17 --> 00:51:20:09] Aí começa a pegar uns objetos mais difíceis, pegar uma cadeira.
+[00:51:20:14 --> 00:51:21:26] Essa cadeira eu fiz várias vezes.
+[00:51:22:18 --> 00:51:27:02] E aí você desenha e depois anota o que você...
+[00:51:27:02 --> 00:51:28:10] Olha pra ela e olha pra cadeira.
+[00:51:28:12 --> 00:51:31:08] Ah, isso aqui tá diferente, isso aqui pode melhorar...
+[00:51:31:08 --> 00:51:32:14] Comecei a colocar ali.
+[00:51:33:13 --> 00:51:34:18] E aí faz a cadeira de novo.
+[00:51:35:08 --> 00:51:37:08] Ah, ainda tá esquisito, ainda pode melhorar.
+[00:51:37:14 --> 00:51:38:19] Faz a cadeira de novo.
+[00:51:39:01 --> 00:51:39:12] Aí vai.
+[00:51:39:17 --> 00:51:40:21] Peguei outra cadeira pra fazer.
+[00:51:41:09 --> 00:51:42:09] Desenha a cadeira.
+[00:51:42:18 --> 00:51:43:00] Aí vai.
+[00:51:43:11 --> 00:51:44:09] Eu fazia muitos, pessoal.
+[00:51:44:12 --> 00:51:45:11] A mesma cadeira.
+[00:51:45:11 --> 00:51:49:18] treinando, na hora que tá torso, tu tá esquisito, tu pode melhorar, vai lá e fazer
+[00:51:49:18 --> 00:51:55:19] a cadeira de novo. É isso, essa matéria era isso, pressão gráfica. Primeiro desenho
+[00:51:55:19 --> 00:51:56:11] de observação.
+[00:51:57:16 --> 00:51:58:25] Vamos, sapatos aí também.
+[00:52:00:25 --> 00:52:01:13] Basicamente.
+[00:52:01:18 --> 00:52:06:01] Peguei um dia uma bicicleta pra fazer, vai desenhar a bicicleta, se você olhar que tá
+[00:52:06:01 --> 00:52:08:14] tudo errado ó, fiquei com preguiça de fazer, olha como é que eu fiz.
+[00:52:11:08 --> 00:52:18:29] mas segue o baile, né? Eu fiz ela várias vezes, na mesma bicicleta várias vezes, pra aprender mais, ter clareza com a Briel.
+[00:52:21:12 --> 00:52:23:13] ambientes, espaços.
+[00:52:23:29 --> 00:52:25:00] Esse que é o espaço da sala.
+[00:52:27:02 --> 00:52:29:25] Não fiquei com preguiça de fazer as...
+[00:52:32:13 --> 00:52:33:08] As cadeiras, né?
+[00:52:33:13 --> 00:52:33:18] Fala.
+[00:52:35:15 --> 00:52:41:03] Objetos do cotidiano, uma caixa de leite, um pote de margarina.
+[00:52:43:03 --> 00:52:43:22] E faço.
+[00:52:48:02 --> 00:52:49:18] Qualquer coisa que eu pegava eu desenhava.
+[00:52:50:09 --> 00:52:53:06] Era exercício, tinha que levar e entregar para a professora no final de semana.
+[00:52:55:15 --> 00:52:56:16] Pelo menos um por dia.
+[00:52:59:12 --> 00:53:03:17] Vamos tentar fazer o vidro, fazer uma jarra e um copo.
+[00:53:03:29 --> 00:53:08:20] Depois ainda dava para aplicar mais contraste nisso aqui, uma lata e um creme de leite.
+[00:53:11:17 --> 00:53:13:09] Um copo e um adoçante.
+[00:53:14:29 --> 00:53:19:01] E vai, um por dia, um ralador e um socador de ar.
+[00:53:21:01 --> 00:53:22:13] Olha como é que foi melhorando, né?
+[00:53:22:19 --> 00:53:27:07] Olha como é que aqui nesse estágio, isso aqui foram meses fazendo, eu já comecei a
+[00:53:27:07 --> 00:53:31:15] melhorar as proporções, comecei a melhorar o meu desenho detergente e um...
+[00:53:33:13 --> 00:53:38:27] Veja, esse negócio de... Não é veja não, isso aqui é de espirrar na roupa, né, antes de passar.
+[00:53:39:24 --> 00:53:41:04] A proporção já começa a ficar melhor.
+[00:53:43:20 --> 00:53:47:23] Eu tenho um outro ali, mas acho que vamos lá, a gente já está aqui e vamos mostrar.
+[00:53:49:15 --> 00:53:52:29] Ah, isso aqui é mais simples ainda, vamos estudando perspectiva.
+[00:53:54:13 --> 00:53:56:02] Então, faz o mesmo cubo.
+[00:53:57:08 --> 00:53:58:02] Pai de zão.
+[00:53:59:09 --> 00:54:02:08] Vai fazendo o cubo, faz outro cubo, faz outro cubo.
+[00:54:02:12 --> 00:54:06:18] O cubo é muito bom pra começar a entender a perspectiva e os pontos de fuga.
+[00:54:08:05 --> 00:54:09:11] Cool! Bye bye!
+[00:54:11:12 --> 00:54:15:12] Aí depois vamos desenvolver um pouco mais, vamos fazer o cubo mágico, evoluir um pouco
+[00:54:15:12 --> 00:54:18:04] mais, aprender mais sobre os pontos de fuga.
+[00:54:18:08 --> 00:54:19:06] Fiz o cubo mágico.
+[00:54:22:04 --> 00:54:25:25] E aí vamos mudar o cubo mágico aqui para poder pegar mais pontos de fuga.
+[00:54:27:04 --> 00:54:29:21] Vai, tem várias. Eu tenho muitas folhas dessas.
+[00:54:31:11 --> 00:54:32:21] Mas, fica aí.
+[00:54:33:07 --> 00:54:35:06] Eu lembro inclusive que depois que eu fiz o concurso,
+[00:54:35:06 --> 00:54:37:02] eu falei, vamos explorar um pouco mais isso.
+[00:54:37:03 --> 00:54:39:14] Comecei a fazer uns cubos de Minecraft, né?
+[00:54:39:14 --> 00:54:41:00] Para subir um nível pelo menos.
+[00:54:41:03 --> 00:54:42:26] Aí comecei a fazer porquinhos de Minecraft.
+[00:54:43:05 --> 00:54:45:06] É tudo cubos, tudo de perspectiva isso.
+[00:54:46:00 --> 00:54:47:19] A ovelha do Minecraft aí.
+[00:54:48:12 --> 00:54:49:21] Era mais fácil de desenhar, né?
+[00:54:49:21 --> 00:54:50:29] Eu estava treinando naquela época.
+[00:54:51:25 --> 00:54:53:13] Depois peguei mais alguns objetos.
+[00:54:53:28 --> 00:54:55:20] Então, o filtro da casa dos meus pais.
+[00:54:55:25 --> 00:54:58:26] Peguei ele para fazer em perspectiva também.
+[00:54:59:12 --> 00:55:03:28] Infelizmente não serão as melhores imagens do micro-ondas lá na casa dos meus pais.
+[00:55:06:07 --> 00:55:07:26] e vários objetos interagindo, né?
+[00:55:07:27 --> 00:55:08:27] Tem o microondas, tem o cu...
+[00:55:11:11 --> 00:55:14:24] E aí depois eu analisava, a proporção pode melhorar o violão, vai fazer o violão.
+[00:55:14:27 --> 00:55:19:15] Ah, esse violão ficou esquisito desse lado, faz o violão de novo, vai fazer o violão de novo.
+[00:55:20:06 --> 00:55:22:02] Tentava representar as cordas do JTCE.
+[00:55:24:23 --> 00:55:26:15] Um telefone, esse telefone é antigo, viu?
+[00:55:27:26 --> 00:55:28:16] É isso aí.
+[00:55:30:05 --> 00:55:31:05] Caixa de chá!
+[00:55:33:17 --> 00:55:34:11] Posso friar, acho.
+[00:55:36:20 --> 00:55:38:01] Outra caixa de leite.
+[00:55:39:09 --> 00:55:43:03] Você não precisa de inspiração para desenhar, pega uma coisa e faça.
+[00:55:43:26 --> 00:55:44:20] Era isso que eu fazia.
+[00:55:45:24 --> 00:55:51:15] uma caixa de cereal e um creme de leite, né, para trabalhar e estudar proporção.
+[00:55:52:21 --> 00:55:55:04] Aqui alguns objetos aleatórios.
+[00:55:55:11 --> 00:55:56:03] E por aí vai, tá bom.
+[00:55:57:06 --> 00:55:58:20] Enfim, deu para entender.
+[00:56:00:13 --> 00:56:05:12] Desenho de observação era expressão gráfica e depois de alguns meses eu vi o meu colega
+[00:56:05:12 --> 00:56:10:10] muito melhor, aquele que ficava muito ruim as proporções dele, ficava muito ruim a
+[00:56:10:10 --> 00:56:13:28] perspectiva dele, com o tempo ele começou a se desenvolver e melhorar.
+[00:56:14:06 --> 00:56:19:22] Então eu vi pessoas que no início tinham muita dificuldade para desenhar, aprenderem
+[00:56:19:22 --> 00:56:20:10] a desenhar.
+[00:56:20:15 --> 00:56:24:18] Por isso que eu sei que qualquer um pode aprender a desenhar, desde que tenha vontade
+[00:56:24:18 --> 00:56:25:14] e disciplina.
+[00:56:25:21 --> 00:56:27:21] Todo dia um desenho, dez minutos.
+[00:56:27:21 --> 00:56:30:02] O que são 10 minutos de um dia?
+[00:56:30:24 --> 00:56:33:26] Tem um caderninho, pegue, rapisca ali no caderninho, faz um desenho.
+[00:56:34:01 --> 00:56:35:02] Eu tenho vários desses, né?
+[00:56:35:10 --> 00:56:37:24] Eu tô dando muitas provas pra vocês, então vamos de provas.
+[00:56:48:07 --> 00:56:49:06] Eu realmente tenho muitos.
+[00:56:50:16 --> 00:56:57:27] Eu peguei alguns aqui. São vários caderninhos e se eu abrir qualquer um deles, eu abri um aqui, tem um desenho.
+[00:56:58:27 --> 00:57:05:00] Alguns tem um desenho com explicação, outros são só desenhos.
+[00:57:05:12 --> 00:57:10:02] Vou pegar um outro, vou pausar aqui. Abre uma página dele e vê se está só escrito.
+[00:57:10:14 --> 00:57:14:16] Parece. Aqui no final tem alguns quadrados. Ah, estava do lado errado.
+[00:57:17:01 --> 00:57:21:19] Tem mais escrito, mas tem alguns desenhos abstratos aqui, não sei o que eu estava fazendo aqui.
+[00:57:22:07 --> 00:57:22:24] Vamos pegar mais um.
+[00:57:25:13 --> 00:57:31:03] Ó, mais desenhos, cachimbos, árvores, sempre buscando representar visualmente.
+[00:57:32:09 --> 00:57:34:07] Esse aqui eu batizei de livro dos pensamentos.
+[00:57:34:13 --> 00:57:35:13] Olha só, tem muito tempo isso aqui.
+[00:57:36:03 --> 00:57:37:21] São cadernos que eu guardei, mas tem anos.
+[00:57:38:10 --> 00:57:42:01] Olha lá, eu desenho um pássaro, uma cabeça, várias coisas.
+[00:57:44:11 --> 00:57:48:26] Desenha atrás de desenho. Desenha uma cadeira, todo dia desenhar.
+[00:57:49:07 --> 00:57:52:01] Aqui tem umas reflexões filosóficas, né?
+[00:57:53:28 --> 00:57:54:18] 32.
+[00:57:56:01 --> 00:57:59:06] um carinho subindo na cadeira para trocar uma lâmpada.
+[00:57:59:15 --> 00:58:00:15] Ah, não tá perfeito.
+[00:58:00:26 --> 00:58:04:09] Isso é um exercício de tirar a ideia da cabeça e colocar no papel.
+[00:58:04:25 --> 00:58:07:02] Deixa eu representar o que eu estou imaginando.
+[00:58:07:09 --> 00:58:09:21] Quanto mais você faz isso, melhor fica.
+[00:58:10:21 --> 00:58:13:10] Eu tenho um aqui que eu quero ver se eu achei ele para vocês.
+[00:58:13:19 --> 00:58:15:10] É um foco em desenho.
+[00:58:15:14 --> 00:58:16:16] Tem uns que são só inscritos.
+[00:58:24:09 --> 00:58:26:24] Fazendo geração de alternativos, é mais geração.
+[00:58:28:15 --> 00:58:29:09] possibilidades.
+[00:58:31:15 --> 00:58:35:28] Só pode ser esse, é esse mesmo, esse é cheio de desenho.
+[00:58:36:05 --> 00:58:38:13] Tava estudando sobre platão, bora desenhar.
+[00:58:39:16 --> 00:58:40:06] Até depois!
+[00:58:41:18 --> 00:58:44:04] Mais desenho... Tem até o bonequinho de palito aqui.
+[00:58:45:14 --> 00:58:46:26] Mas tem outros desenhos aí também.
+[00:58:48:19 --> 00:58:50:07] textura... Isso é desenho também, ó.
+[00:58:50:26 --> 00:58:52:27] Eu fiquei umas meias horas fazendo isso aí,
+[00:58:53:07 --> 00:58:54:15] mas no final eu tinha um resultado...
+[00:58:55:15 --> 00:58:56:18] Cachinho do Magritte.
+[00:58:57:20 --> 00:58:59:15] Uma balança, e já vai.
+[00:59:00:23 --> 00:59:01:14] Outro boneco.
+[00:59:02:24 --> 00:59:05:06] Subindo na cadeira, o Mictório.
+[00:59:09:23 --> 00:59:11:28] Uma moca... Acho que isso é a moca, né? Está escrito aqui.
+[00:59:13:16 --> 00:59:20:09] Mas é um jeito de fazer café italiano, um boneco sentado aqui, com a cabeça toda confusa.
+[00:59:22:00 --> 00:59:27:03] E por aí vai, pirâmides, movimentos, olha, são experimentações.
+[00:59:28:29 --> 00:59:32:18] Basicamente, a câmera amonaliza aí.
+[00:59:34:16 --> 00:59:35:28] E vai, desenha, desenha, desenha.
+[00:59:37:01 --> 00:59:37:27] Esse ficou louco, né?
+[00:59:38:13 --> 00:59:39:10] Uma câmera que é um olho.
+[00:59:41:19 --> 00:59:45:07] E se você ver o jeito que eu fiz rabiscado, isso aqui eu não demorei pra fazer, eu fiz rápido.
+[00:59:45:25 --> 00:59:46:29] Vai lá e comece rabiscado.
+[00:59:48:11 --> 00:59:50:11] Vai, vai. Sério para os rabiscados.
+[00:59:53:18 --> 00:59:56:18] E essa experimentação vai desenvolver vocês.
+[00:59:57:29 --> 01:00:02:06] Uma mãozinha segurando um relógio, um cara lendo um jornal.
+[01:00:05:01 --> 01:00:07:14] Eu não sei o que esse cara deu na jorrada, mas o que eu fiz ele...
+[01:00:10:28 --> 01:00:15:23] Então, tem vários cadernos desses e eu desenho, dez minutos às vezes do seu dia.
+[01:00:15:28 --> 01:00:20:05] Pega ali, faz o desenho, faz outro desenho por dia, você vai ver o quanto que você
+[01:00:20:05 --> 01:00:22:12] vai evoluir enquanto designer.

@@ -1,0 +1,4476 @@
+1
+00:00:00,000 --> 00:00:02,620
+E eu quero começar aqui com os erros clássicos.
+
+2
+00:00:02,780 --> 00:00:04,860
+O primeiro erro, eu já falei em uma das aulas,
+
+3
+00:00:04,920 --> 00:00:08,240
+é você não entender pelo menos o mínimo de como que elas funcionam.
+
+4
+00:00:08,280 --> 00:00:11,060
+Eu te dei ali uma base inicial,
+
+5
+00:00:11,440 --> 00:00:15,480
+para você pelo menos entender que é por trás de um modelo de difusão,
+
+6
+00:00:15,500 --> 00:00:17,700
+que é um treinamento, que é estatística, isso já vai te ajudar.
+
+7
+00:00:17,920 --> 00:00:19,880
+Aqui ao longo do curso eu vou te entregando mais.
+
+8
+00:00:20,120 --> 00:00:24,400
+Mas esse é o primeiro erro, é você achar que tudo que está acontecendo ali é pura mágica,
+
+9
+00:00:24,480 --> 00:00:26,580
+que você tem que simplesmente digitar um código,
+
+10
+00:00:26,640 --> 00:00:29,620
+ela vai te entregar uma imagem, um vídeo, uma música e por aí vai.
+
+11
+00:00:30,160 --> 00:00:33,780
+quando, sim, ela pode, você manda um prompt, ela manda uma imagem,
+
+12
+00:00:33,900 --> 00:00:36,380
+mas muitas vezes ela não vai te mandar exatamente o que você quer,
+
+13
+00:00:36,500 --> 00:00:39,200
+porque você não está jogando esse jogo de estatística.
+
+14
+00:00:39,240 --> 00:00:40,600
+E a gente vai entender isso um pouquinho melhor.
+
+15
+00:00:40,840 --> 00:00:41,640
+Então vamos lá.
+
+16
+00:00:41,720 --> 00:00:43,400
+Alguns erros que nós ranqueamos aqui,
+
+17
+00:00:43,520 --> 00:00:46,220
+que de 2022 para cá foram os mais recorrentes,
+
+18
+00:00:46,240 --> 00:00:47,460
+são os que as pessoas mais cometem.
+
+19
+00:00:47,760 --> 00:00:50,860
+Primeiro deles, ausência de função e canal.
+
+20
+00:00:51,240 --> 00:00:54,280
+Gera imagem antes de definir onde ela será usada
+
+21
+00:00:54,280 --> 00:00:55,580
+e o que precisa comunicar.
+
+22
+00:00:55,900 --> 00:00:58,460
+Vocês vão ver aqui, quando eu começar a escrever os prompts
+
+23
+00:00:58,460 --> 00:01:00,040
+e mostrar o que a gente tem feito,
+
+24
+00:01:00,180 --> 00:01:03,540
+que gerar uma imagem
+
+25
+00:01:04,220 --> 00:01:06,940
+é quase como fazer um pedido para o gênio da lâmpada.
+
+26
+00:01:07,220 --> 00:01:09,540
+E quando você vai fazer um pedido para o gênio da lâmpada,
+
+27
+00:01:09,620 --> 00:01:12,480
+você tem que tomar muito cuidado com o seu pedido.
+
+28
+00:01:12,520 --> 00:01:16,220
+Tem várias charges, tem várias piadinhas
+
+29
+00:01:16,220 --> 00:01:17,600
+como pedido para o gênio da lâmpada,
+
+30
+00:01:17,640 --> 00:01:18,900
+que as pessoas fazem pedido errado.
+
+31
+00:01:18,980 --> 00:01:20,420
+Eu acho até que se eu colocar aqui,
+
+32
+00:01:20,440 --> 00:01:22,780
+charge gênio da lâmpada,
+
+33
+00:01:22,780 --> 00:01:24,400
+deve aparecer várias aqui também.
+
+34
+00:01:24,580 --> 00:01:27,880
+Se você faz o pedido errado para o gênio,
+
+35
+00:01:29,500 --> 00:01:31,340
+ele vai te entregar errado, né?
+
+36
+00:01:31,380 --> 00:01:32,440
+Se você fala, por exemplo, assim,
+
+37
+00:01:32,540 --> 00:01:34,000
+Gênio, eu quero...
+
+38
+00:01:36,572 --> 00:01:38,772
+Eu quero ter muito dinheiro.
+
+39
+00:01:39,012 --> 00:01:40,012
+Ou eu quero um milhão.
+
+40
+00:01:40,112 --> 00:01:41,052
+Essa é ótima, né?
+
+41
+00:01:41,072 --> 00:01:41,412
+Clássica.
+
+42
+00:01:41,472 --> 00:01:42,312
+Gênio, eu quero um milhão.
+
+43
+00:01:42,572 --> 00:01:43,712
+Aí você pede pra ele.
+
+44
+00:01:44,032 --> 00:01:45,632
+Aí ele te dá um milho gigante.
+
+45
+00:01:45,752 --> 00:01:47,212
+Você fala, pô, não era isso que eu queria?
+
+46
+00:01:47,252 --> 00:01:48,172
+Perdi um pedido.
+
+47
+00:01:48,252 --> 00:01:50,552
+É claro que você perdeu um pedido, porque você falou que queria um milhão.
+
+48
+00:01:50,612 --> 00:01:51,852
+Seu pedido não foi claro o suficiente.
+
+49
+00:01:52,452 --> 00:01:54,012
+Gerar imagem é mais ou menos assim.
+
+50
+00:01:55,092 --> 00:01:57,752
+Estatisticamente falando, ela pode trazer vários caminhos diferentes.
+
+51
+00:01:57,932 --> 00:01:58,472
+É entrópico.
+
+52
+00:01:58,632 --> 00:02:02,692
+Ela pode te trazer qualquer coisa conhecida pelos seres humanos
+
+53
+00:02:02,692 --> 00:02:04,252
+que já passou pela internet de informação
+
+54
+00:02:04,252 --> 00:02:06,932
+dentro da palavra-chave que você utilizou.
+
+55
+00:02:07,032 --> 00:02:08,432
+Quanto mais vago você é,
+
+56
+00:02:08,472 --> 00:02:10,332
+mais você amplia as possibilidades de coisa
+
+57
+00:02:10,332 --> 00:02:12,492
+que ela pode trazer para você dentro dessa interpretação.
+
+58
+00:02:12,612 --> 00:02:14,392
+Quanto mais específico você é,
+
+59
+00:02:14,912 --> 00:02:16,992
+menos ela tem chance de errar.
+
+60
+00:02:17,372 --> 00:02:20,152
+Então, essas são as questões que a gente tem que levar em consideração.
+
+61
+00:02:20,352 --> 00:02:21,412
+E o primeiro erro aqui,
+
+62
+00:02:21,512 --> 00:02:22,952
+a gente vai ver isso na prática já já,
+
+63
+00:02:23,532 --> 00:02:26,512
+é você pedir para ela ir a gerar uma imagem para você,
+
+64
+00:02:26,592 --> 00:02:28,872
+mas não especificar muito bem
+
+65
+00:02:30,292 --> 00:02:32,092
+onde essa imagem vai ser usada.
+
+66
+00:02:32,092 --> 00:02:36,632
+Aqui onde ela vai ser usada pode ser trocado por formato que ela vai ser utilizada também,
+
+67
+00:02:36,892 --> 00:02:40,312
+se é quadrado, se é retangular, se é horizontal, se é vertical.
+
+68
+00:02:40,572 --> 00:02:45,072
+Então o formato que você usa e o que você quer comunicar dentro dela também.
+
+69
+00:02:45,752 --> 00:02:49,992
+E isso aqui, essa primeira camada é interessante porque você não precisa escrever isso aqui no prompt.
+
+70
+00:02:50,212 --> 00:02:55,212
+Isso aqui precisa ser definido antes do prompt para você ter clareza também do que você vai pedir.
+
+71
+00:02:55,332 --> 00:02:57,092
+E é onde as pessoas já começam errando.
+
+72
+00:02:57,652 --> 00:02:59,292
+Então, quando eu vou gerar imagens,
+
+73
+00:02:59,292 --> 00:03:02,732
+eu gosto de primeiro iniciar uma conversa com a IA
+
+74
+00:03:02,732 --> 00:03:05,872
+para entender ali quais são as melhores palavras-chave,
+
+75
+00:03:06,592 --> 00:03:09,652
+quais são as palavras-chave que retornam os tipos de resultado que eu quero.
+
+76
+00:03:09,852 --> 00:03:12,652
+Então, eu literalmente abro, pode ser qualquer uma, né?
+
+77
+00:03:12,712 --> 00:03:14,532
+Pode ser o Cloud aqui, por exemplo,
+
+78
+00:03:14,712 --> 00:03:17,592
+pode ser o ChatGPT, pode ser o Gemini,
+
+79
+00:03:17,792 --> 00:03:20,312
+a IA que você quiser, a IA que você usa,
+
+80
+00:03:20,372 --> 00:03:22,592
+que seja das melhores, pelo menos, né?
+
+81
+00:03:22,672 --> 00:03:25,872
+E eu posso começar uma conversa com ela.
+
+82
+00:03:25,872 --> 00:03:27,832
+Então eu começo a conversa sobre a campanha.
+
+83
+00:03:28,692 --> 00:03:32,052
+Ultimamente eu não tenho utilizado mais IaaS aqui no navegador,
+
+84
+00:03:32,152 --> 00:03:36,672
+eu utilizo elas via CLI, Prompt de Comando,
+
+85
+00:03:36,692 --> 00:03:38,392
+porque elas ficam dentro do meu computador.
+
+86
+00:03:38,692 --> 00:03:41,432
+Só para mostrar para vocês, eu acordo elas aqui dentro.
+
+87
+00:03:41,692 --> 00:03:45,512
+Isso aqui já é um pouco mais avançado, a gente fala disso em outro momento,
+
+88
+00:03:45,612 --> 00:03:48,232
+agora vai assustar alguns de vocês, mas o que eu faço?
+
+89
+00:03:48,292 --> 00:03:50,972
+Eu crio uma pasta no meu computador e começo o meu projeto lá.
+
+90
+00:03:51,172 --> 00:03:55,292
+E dentro dessa pasta eu crio alguns arquivos já para explicar o que nós vamos fazer.
+
+91
+00:03:55,292 --> 00:03:58,172
+Se vai ser uma campanha, eu começo explicando a campanha.
+
+92
+00:03:58,232 --> 00:04:01,292
+Se vai ser uma landing page, eu começo explicando a landing page, o objetivo.
+
+93
+00:04:01,972 --> 00:04:03,032
+Fazendo, adivinha o quê?
+
+94
+00:04:03,132 --> 00:04:04,832
+O que a gente sempre fez como designer?
+
+95
+00:04:05,292 --> 00:04:06,952
+Fazendo um briefing.
+
+96
+00:04:07,772 --> 00:04:09,712
+Todo projeto precisa de briefing.
+
+97
+00:04:09,912 --> 00:04:14,572
+E quem trabalha com design há bastante tempo sabe que isso é uma informação meio óbvia,
+
+98
+00:04:14,632 --> 00:04:16,752
+que a gente acaba esquecendo quando o mundo muda, né?
+
+99
+00:04:17,072 --> 00:04:18,452
+Então, eu começo com um briefing.
+
+100
+00:04:18,652 --> 00:04:22,712
+E o primeiro erro aqui é você não começar com um briefing,
+
+101
+00:04:22,712 --> 00:04:27,372
+Enfim, porque isso vai atrapalhar todas as outras etapas em seguida.
+
+102
+00:04:27,432 --> 00:04:28,512
+Que aí nós vamos trazer aqui.
+
+103
+00:04:28,632 --> 00:04:30,832
+Segundo, promptes vagos e genéricos.
+
+104
+00:04:30,952 --> 00:04:33,352
+Tem problema, Ron, em escrever um prompt vago e genérico?
+
+105
+00:04:33,512 --> 00:04:35,672
+Não, você só tem que controlar a sua expectativa.
+
+106
+00:04:35,792 --> 00:04:39,552
+Porque um prompt vago e genérico pode trazer qualquer coisa para você.
+
+107
+00:04:39,772 --> 00:04:41,772
+Agora, se você tem um prompt específico,
+
+108
+00:04:41,772 --> 00:04:44,092
+você vai direcionando a IA exatamente onde você quer.
+
+109
+00:04:44,232 --> 00:04:47,612
+Então é um erro muito comum dependendo da sua expectativa.
+
+110
+00:04:47,752 --> 00:04:51,472
+Eu adoro promptes vagos e genéricos quando eu quero expandir as possibilidades,
+
+111
+00:04:51,472 --> 00:04:52,912
+de gerar muitas imagens diferentes
+
+112
+00:04:52,912 --> 00:04:54,732
+para ver caminhos, criar mood board.
+
+113
+00:04:54,952 --> 00:04:57,232
+É um caminho legal, vocês vão ver isso acontecendo aqui.
+
+114
+00:04:58,052 --> 00:04:58,972
+Delegar o olhar.
+
+115
+00:04:59,132 --> 00:05:00,732
+Isso aqui é um interessante, tá?
+
+116
+00:05:01,612 --> 00:05:03,432
+IA não tem olhar.
+
+117
+00:05:04,988 --> 00:05:07,928
+E A tem estatística, como eu disse para vocês.
+
+118
+00:05:08,248 --> 00:05:12,328
+Então, você coloca as palavras, ela traduz as palavras em pixels, em imagens.
+
+119
+00:05:12,508 --> 00:05:15,288
+Se você direciona isso, ela tenta traduzir isso.
+
+120
+00:05:15,328 --> 00:05:18,048
+Se você não fala, ela não traduz o que você não falou.
+
+121
+00:05:18,908 --> 00:05:21,188
+Dentro dessa lógica, eu vou até corrigir,
+
+122
+00:05:21,248 --> 00:05:23,788
+muitas vezes ela traduz as entrelinhas do que você falou.
+
+123
+00:05:23,908 --> 00:05:26,668
+Então, às vezes não tem uma palavra sua, mas surgiu um objeto ali
+
+124
+00:05:27,108 --> 00:05:30,288
+que estava dentro das entrelinhas do contexto que você trouxe.
+
+125
+00:05:30,288 --> 00:05:33,968
+Aí ela vai trazendo estatisticamente para tentar acertar o que você quer.
+
+126
+00:05:34,608 --> 00:05:39,468
+Então, você como ser humano é que tem a sensibilidade que precisa guiar a IA.
+
+127
+00:05:39,568 --> 00:05:42,888
+A IA que tem várias sensibilidades, isso é uma coisa que nós vamos ver hoje aqui, inclusive.
+
+128
+00:05:43,108 --> 00:05:47,148
+Então, sensibilidade pra luz, sensibilidade pra enquadramento, sensibilidade pra ângulo,
+
+129
+00:05:47,788 --> 00:05:50,428
+sensibilidade pra detalhes na imagem, isso é você que tem.
+
+130
+00:05:50,588 --> 00:05:54,228
+E se você delega isso pra IA e fala, corrija pra mim, acerta o que tá errado,
+
+131
+00:05:54,368 --> 00:05:57,128
+vai ficar bem mecânico e estatístico.
+
+132
+00:05:57,208 --> 00:06:00,888
+A IA não é tão orgânica, não é nem que ela não é tão, né?
+
+133
+00:06:00,888 --> 00:06:04,688
+a IA não é orgânica, ela funciona de um jeito diferente do nosso.
+
+134
+00:06:04,988 --> 00:06:07,748
+Então, delegar o olhar costuma ser um erro.
+
+135
+00:06:07,848 --> 00:06:11,188
+Você está aqui como curador e curadora das imagens que você gera.
+
+136
+00:06:11,688 --> 00:06:13,848
+Outro erro, aceitar a primeira saída.
+
+137
+00:06:14,088 --> 00:06:16,048
+Cara, às vezes a primeira saída é muito boa,
+
+138
+00:06:16,188 --> 00:06:19,388
+mas é tão barato gerar mais que não compensa, às vezes,
+
+139
+00:06:19,408 --> 00:06:21,988
+você ficar em uma imagem só e falar,
+
+140
+00:06:22,008 --> 00:06:22,928
+beleza, isso aqui já está bom.
+
+141
+00:06:23,028 --> 00:06:24,828
+Às vezes você pede para gerar mais algumas ali
+
+142
+00:06:24,828 --> 00:06:27,148
+e se surpreende que poderia ter sido muito melhor.
+
+143
+00:06:27,408 --> 00:06:29,888
+E dentro do processo de design também,
+
+144
+00:06:29,888 --> 00:06:33,068
+a gente tem até uma trilha dentro do Overpass aqui
+
+145
+00:06:33,068 --> 00:06:35,148
+que se chama Design Thinking,
+
+146
+00:06:35,368 --> 00:06:36,528
+que eu falo bastante sobre isso,
+
+147
+00:06:36,588 --> 00:06:39,168
+a gente tem uma metodologia que se chama Double Diamond,
+
+148
+00:06:39,348 --> 00:06:41,668
+que é lá do Design Council do Reino Unido.
+
+149
+00:06:41,828 --> 00:06:44,868
+Dá só uma olhada aqui no Double Diamond,
+
+150
+00:06:44,988 --> 00:06:46,568
+qual que é a metodologia de design
+
+151
+00:06:46,568 --> 00:06:48,368
+que eu recomendo que vocês utilizem
+
+152
+00:06:48,368 --> 00:06:49,728
+para gerar imagens também.
+
+153
+00:06:49,848 --> 00:06:50,928
+É simples, olha só.
+
+154
+00:06:51,348 --> 00:06:53,688
+Primeiro você tem uma fase de descoberta,
+
+155
+00:06:53,708 --> 00:06:56,308
+depois de descoberta, olha a setinha,
+
+156
+00:06:56,308 --> 00:06:58,428
+na descoberta você expande possibilidades,
+
+157
+00:06:58,508 --> 00:06:59,148
+você gera muito.
+
+158
+00:06:59,788 --> 00:07:04,468
+Depois você tem a etapa de definição, então você afunila o escopo aqui.
+
+159
+00:07:04,668 --> 00:07:06,268
+Então, sei lá, você gerou 100 imagens.
+
+160
+00:07:06,748 --> 00:07:09,028
+Seleciona as melhores imagens das que você gerou.
+
+161
+00:07:09,308 --> 00:07:12,888
+Dessas melhores que você selecionou, você vai agora desenvolvê-las,
+
+162
+00:07:12,908 --> 00:07:17,148
+ou seja, você vai refinar elas, melhorar, gerar mais opções a partir delas,
+
+163
+00:07:17,148 --> 00:07:18,628
+derivar o conteúdo que você tem.
+
+164
+00:07:18,828 --> 00:07:22,408
+A partir desse conteúdo derivado, aí você pega as melhores,
+
+165
+00:07:22,568 --> 00:07:25,448
+aqui ele está como entrega, mas é um refinamento
+
+166
+00:07:25,448 --> 00:07:28,808
+para escolher as melhores opções dentre todas que você já gerou.
+
+167
+00:07:29,148 --> 00:07:31,908
+Essa metodologia aqui é uma metodologia de design,
+
+168
+00:07:32,068 --> 00:07:35,908
+é uma metodologia de criação, que se aplica universalmente,
+
+169
+00:07:35,908 --> 00:07:40,188
+inclusive essa é a ideia dessa metodologia,
+
+170
+00:07:40,208 --> 00:07:43,768
+é tentar representar de maneira universal o processo de design.
+
+171
+00:07:43,988 --> 00:07:47,048
+E aí, isso aqui significa que você pode usar para texto,
+
+172
+00:07:47,128 --> 00:07:51,488
+para imagem, para vídeo, para música, para arquitetura, para engenharia.
+
+173
+00:07:51,568 --> 00:07:54,348
+Se você está criando, essa abordagem é muito boa.
+
+174
+00:07:54,448 --> 00:07:56,688
+É tão boa, inclusive, que só uma curiosidade para vocês,
+
+175
+00:07:56,788 --> 00:07:58,348
+eu já falei isso em várias aulas aqui na Overlens,
+
+176
+00:07:58,348 --> 00:08:03,268
+é exatamente essa metodologia que é utilizada por startups até hoje,
+
+177
+00:08:03,368 --> 00:08:06,368
+desde que a Aideu começou a falar de design thinking lá atrás,
+
+178
+00:08:06,448 --> 00:08:09,448
+aí surgiu o Lean Startup e muitas empresas começaram a usar essa abordagem
+
+179
+00:08:09,448 --> 00:08:11,008
+para pensar em negócio como produto.
+
+180
+00:08:11,268 --> 00:08:14,628
+Então eu prototipo o negócio, valido ele e depois escalo.
+
+181
+00:08:14,728 --> 00:08:16,748
+É muito parecido, tá? Muito parecido.
+
+182
+00:08:16,908 --> 00:08:19,228
+Então vem das raízes do design também.
+
+183
+00:08:19,888 --> 00:08:22,728
+Logo, então, um erro é aceitar a primeira saída,
+
+184
+00:08:22,728 --> 00:08:24,528
+porque você está pulando o processo de design.
+
+185
+00:08:24,708 --> 00:08:27,628
+E aqui vem uma coisa muito curiosa, porque não tem certo e errado.
+
+186
+00:08:27,628 --> 00:08:33,788
+dependendo do momento ou da sua experiência em gerar imagens,
+
+187
+00:08:33,788 --> 00:08:35,788
+vão ter momentos que você vai lá e gera rápido e pronto,
+
+188
+00:08:35,988 --> 00:08:37,508
+porque você precisava para algo rápido.
+
+189
+00:08:37,768 --> 00:08:39,948
+Agora, quando você precisa de algo refinado,
+
+190
+00:08:40,008 --> 00:08:41,308
+você não pula as etapas,
+
+191
+00:08:41,308 --> 00:08:43,988
+porque você sabe que pular as etapas vai te atrapalhar nesse processo.
+
+192
+00:08:44,388 --> 00:08:46,848
+Então, não é como se fosse uma regra inquebrável,
+
+193
+00:08:46,968 --> 00:08:48,828
+mas principalmente para quem está começando,
+
+194
+00:08:49,428 --> 00:08:52,068
+gerar mais e passar por aquele processo vai ajudar muito.
+
+195
+00:08:52,188 --> 00:08:52,908
+Então, cuidado com esse erro.
+
+196
+00:08:53,328 --> 00:08:55,748
+Não fixar seed e não documentar o setup.
+
+197
+00:08:55,748 --> 00:08:59,488
+Essa daqui já parece um pouco mais avançada, mas é mais simples do que parece.
+
+198
+00:08:59,868 --> 00:09:03,868
+Seed é um conceito muito usado no Mid-Journey, por exemplo, a gente vai falar mais disso depois.
+
+199
+00:09:04,208 --> 00:09:06,568
+Só que aqui tem uma barrinha por quê?
+
+200
+00:09:06,748 --> 00:09:10,068
+Quando você não usa Seed, você pelo menos documenta o setup.
+
+201
+00:09:10,388 --> 00:09:11,868
+E o que é documentar o setup?
+
+202
+00:09:12,188 --> 00:09:15,288
+É documentar o prompt que você usou, as palavras-chave que são importantes,
+
+203
+00:09:15,928 --> 00:09:19,108
+fazer testes de qual palavra-chave tem mais peso do que outras.
+
+204
+00:09:19,188 --> 00:09:23,288
+Tudo isso importa, eu vou falar disso também aqui na geração de imagens e vocês vão gostar bastante.
+
+205
+00:09:23,288 --> 00:09:25,548
+mas é um erro muito comum esse aqui
+
+206
+00:09:25,548 --> 00:09:27,108
+porque você gera uma vez e dá certo
+
+207
+00:09:27,108 --> 00:09:29,608
+depois você já fica querendo gerar outro prompt
+
+208
+00:09:29,608 --> 00:09:31,588
+você tem que criar sua própria biblioteca
+
+209
+00:09:31,588 --> 00:09:33,368
+e ir guardando a biblioteca
+
+210
+00:09:33,368 --> 00:09:35,508
+por projeto, por isso que eu gosto
+
+211
+00:09:35,508 --> 00:09:36,828
+de trabalhar com pastas também
+
+212
+00:09:36,828 --> 00:09:38,848
+então você trabalha por projeto
+
+213
+00:09:39,568 --> 00:09:41,428
+organiza sua biblioteca, cria sua
+
+214
+00:09:41,428 --> 00:09:43,328
+tabela de palavras-chave, cada projeto
+
+215
+00:09:43,328 --> 00:09:45,648
+pode ser organizado pra você ter essa inteligência
+
+216
+00:09:45,648 --> 00:09:47,368
+que depois você joga na IA e consegue
+
+217
+00:09:47,368 --> 00:09:49,288
+escalar isso com muita profundidade
+
+218
+00:09:49,288 --> 00:09:51,588
+então, tabela de palavras-chave
+
+219
+00:09:52,308 --> 00:09:55,148
+documentação de prompt, documentação de setup também.
+
+220
+00:09:55,328 --> 00:09:57,628
+Você vai ver que a gente divide o prompt em áreas,
+
+221
+00:09:57,788 --> 00:10:00,048
+então tem a primeira parte do prompt que é contextual,
+
+222
+00:10:00,328 --> 00:10:03,528
+depois vem o sujeito, depois do sujeito vem o ambiente,
+
+223
+00:10:03,608 --> 00:10:07,388
+as ações, depois fotografia, a gente vai falar dessa estrutura
+
+224
+00:10:07,388 --> 00:10:08,168
+e vocês vão entender melhor.
+
+225
+00:10:09,948 --> 00:10:12,828
+Nós temos também um outro erro aqui, alterar tudo ao mesmo tempo.
+
+226
+00:10:14,524 --> 00:10:16,464
+Quando você escreve um prompt gigante,
+
+227
+00:10:16,464 --> 00:10:18,344
+imagina que você tem um prompt lá que dá um parágrafo inteiro,
+
+228
+00:10:18,464 --> 00:10:20,064
+e aí não sai exatamente o que você quer.
+
+229
+00:10:20,224 --> 00:10:22,584
+Tem gente que vai, apaga tudo e escreve um prompt todo novo.
+
+230
+00:10:22,964 --> 00:10:25,784
+Cara, é melhor você ir isolando as variáveis
+
+231
+00:10:25,784 --> 00:10:28,264
+para entender onde ali você está mais próximo do que quer
+
+232
+00:10:28,264 --> 00:10:29,084
+e onde não está.
+
+233
+00:10:29,164 --> 00:10:31,164
+Isso facilita muito no processo também.
+
+234
+00:10:31,444 --> 00:10:34,204
+O legal é que a IA tem feito imagens incríveis
+
+235
+00:10:34,204 --> 00:10:36,344
+com prompts curtos, bem curtíssimos.
+
+236
+00:10:36,404 --> 00:10:38,284
+Mas quando você entende isso aqui,
+
+237
+00:10:38,384 --> 00:10:40,844
+é onde você vai além do que a maioria das pessoas vão.
+
+238
+00:10:40,924 --> 00:10:43,404
+Porque, sim, você consegue fazer imagens bem legais
+
+239
+00:10:43,404 --> 00:10:45,584
+com um prompt curto, né? Se eu abro o Gemini,
+
+240
+00:10:45,704 --> 00:10:47,404
+ele já tá até aberto aqui. Se eu abro o Gemini
+
+241
+00:10:47,404 --> 00:10:49,504
+aqui, olha, de tão bobo que é pra vocês
+
+242
+00:10:49,504 --> 00:10:51,444
+verem o como é fácil
+
+243
+00:10:51,444 --> 00:10:53,484
+esse curso aqui é pra preparar vocês pra ir além
+
+244
+00:10:53,484 --> 00:10:55,404
+disso aqui. Porque, olha, eu entro no Gemini,
+
+245
+00:10:55,564 --> 00:10:57,364
+eu tô logado na minha conta Pro aqui,
+
+246
+00:10:57,504 --> 00:10:59,424
+mas é só você digitar Gemini e logar na sua
+
+247
+00:10:59,424 --> 00:11:01,524
+conta gratuita. Aqui eu tenho criar imagem.
+
+248
+00:11:02,064 --> 00:11:03,504
+Ele já tá me dando aqui vários
+
+249
+00:11:03,504 --> 00:11:05,004
+estilos de imagem que eu posso
+
+250
+00:11:05,544 --> 00:11:07,724
+seguir. Eu venho aqui e escrevo
+
+251
+00:11:07,724 --> 00:11:08,584
+o que eu quiser, sei lá.
+
+252
+00:11:10,084 --> 00:11:11,144
+Gere uma imagem
+
+253
+00:11:11,144 --> 00:11:12,664
+de um ano, não precisa nem colocar
+
+254
+00:11:12,664 --> 00:11:14,204
+gera uma imagem porque já está marcada ali
+
+255
+00:11:14,204 --> 00:11:14,864
+eu posso colocar
+
+256
+00:11:16,744 --> 00:11:17,544
+uma garotinha
+
+257
+00:11:19,024 --> 00:11:20,604
+passeando com o seu
+
+258
+00:11:21,344 --> 00:11:21,744
+cachorrinho
+
+259
+00:11:23,164 --> 00:11:24,464
+Pronto, ele vai gerar uma imagem para mim.
+
+260
+00:11:24,784 --> 00:11:26,844
+Ou seja, o como gerar imagem não tem segredo.
+
+261
+00:11:26,844 --> 00:11:28,144
+É isso aqui. Pronto, gerou uma imagem.
+
+262
+00:11:28,364 --> 00:11:31,404
+Agora, o que eu escrevo aqui, o que eu uso de referência,
+
+263
+00:11:31,444 --> 00:11:34,004
+é isso que vai fazer a diferença para a gente também.
+
+264
+00:11:34,364 --> 00:11:36,884
+Inclusive, está com o lançamento do Nanobanana 2.
+
+265
+00:11:37,044 --> 00:11:38,364
+A gente vai falar um pouco mais sobre isso.
+
+266
+00:11:39,544 --> 00:11:41,424
+Então, outro erro muito comum, olha aí.
+
+267
+00:11:41,724 --> 00:11:43,604
+Gerou a imagem para mim. Pronto, eu tenho uma imagem.
+
+268
+00:11:43,784 --> 00:11:45,284
+Está precisando de uma imagem assim? É isso.
+
+269
+00:11:45,384 --> 00:11:47,284
+Joga uma referência, escreve o que você quer, você vai ter a imagem.
+
+270
+00:11:47,404 --> 00:11:48,104
+Não tem segredo.
+
+271
+00:11:48,624 --> 00:11:51,344
+Se você só precisa disso, acabou. Beleza, vou embora então.
+
+272
+00:11:51,344 --> 00:11:53,364
+acabou o curso, não precisa de mais
+
+273
+00:11:53,364 --> 00:11:55,064
+só que a gente vai além
+
+274
+00:11:55,064 --> 00:11:57,364
+porque existem alguns desafios aqui também
+
+275
+00:11:57,364 --> 00:11:59,684
+tá bom? Então esse é outro erro, tentar alterar
+
+276
+00:11:59,684 --> 00:12:01,744
+tudo ao mesmo tempo, quando você não está conseguindo
+
+277
+00:12:01,744 --> 00:12:03,604
+o resultado que você quer, é importante que vocês
+
+278
+00:12:03,604 --> 00:12:05,744
+olhem as variáveis. Avaliar a imagem
+
+279
+00:12:05,744 --> 00:12:07,524
+fora do contexto real
+
+280
+00:12:07,524 --> 00:12:09,244
+isso aqui também é outro interessante
+
+281
+00:12:09,244 --> 00:12:11,464
+a imagem parece boa na ferramenta, mas
+
+282
+00:12:11,464 --> 00:12:13,604
+fracassa no feed, site ou impresso. Lá
+
+283
+00:12:13,604 --> 00:12:15,584
+no briefing, isso aqui inclusive, é legal
+
+284
+00:12:15,584 --> 00:12:17,144
+na documentação, aparecer aqui
+
+285
+00:12:17,144 --> 00:12:17,364
+aqui ó
+
+286
+00:12:18,748 --> 00:12:20,268
+Isso aqui é feito junto com o briefing.
+
+287
+00:12:20,488 --> 00:12:24,668
+É quando você está pensando no objetivo da imagem.
+
+288
+00:12:25,308 --> 00:12:26,508
+Eita, vou colocar aqui assim.
+
+289
+00:12:26,708 --> 00:12:28,928
+Quando você está pensando ali no objetivo da imagem,
+
+290
+00:12:30,448 --> 00:12:32,428
+você tem que definir onde ela vai aparecer,
+
+291
+00:12:32,568 --> 00:12:35,248
+o formato dela, se ela é quadrada, se ela é vertical e por aí vai.
+
+292
+00:12:35,388 --> 00:12:37,488
+E junto com isso, você tem que imaginá-la no contexto.
+
+293
+00:12:37,848 --> 00:12:39,608
+Às vezes, uma imagem fora de contexto
+
+294
+00:12:39,608 --> 00:12:41,468
+não vai funcionar tão bem como mensagem.
+
+295
+00:12:41,568 --> 00:12:44,188
+E aí vai além também de só clicar aqui
+
+296
+00:12:44,188 --> 00:12:46,628
+e pedir para uma IA gerar uma imagem para a gente.
+
+297
+00:12:46,688 --> 00:12:47,708
+Eu fiz isso aqui também.
+
+298
+00:12:47,708 --> 00:12:52,248
+Também é legal que já tira um pouco da ansiedade de quem está começando a ver alguma coisa, alguma imagem.
+
+299
+00:12:52,388 --> 00:12:55,308
+O curso de imagem o que mais tem é texto, mas tem um motivo para isso.
+
+300
+00:12:56,476 --> 00:13:00,976
+Beleza, então esses são os principais erros, mas também temos aqui os mitos.
+
+301
+00:13:00,976 --> 00:13:01,376
+Quais são?
+
+302
+00:13:01,516 --> 00:13:04,896
+Primeiro, a IA substitui diretores de arte, fotógrafos e designers.
+
+303
+00:13:05,096 --> 00:13:07,596
+Aqui é um ponto importante para a gente trabalhar.
+
+304
+00:13:08,436 --> 00:13:13,416
+A IA vai substituir muitos diretores de arte, fotógrafos e designers,
+
+305
+00:13:13,736 --> 00:13:15,616
+mas não é a IA isolada.
+
+306
+00:13:15,656 --> 00:13:18,856
+São pessoas que estão usando a IA em um nível mais avançado.
+
+307
+00:13:18,936 --> 00:13:23,356
+E quando a gente fala que vai substituir, está errado, porque já está substituindo.
+
+308
+00:13:23,356 --> 00:13:27,936
+Eu vejo isso acontecer tanto aqui dentro da Overlens mesmo,
+
+309
+00:13:28,036 --> 00:13:30,796
+já tem muitas tarefas que não são mais a equipe que faz,
+
+310
+00:13:31,016 --> 00:13:35,196
+já tem muitos parceiros nossos também que a gente terminou o contrato com eles
+
+311
+00:13:35,196 --> 00:13:38,276
+porque não fazia sentido mais pagar eles para poder fazer.
+
+312
+00:13:38,716 --> 00:13:40,336
+A gente já conseguia fazer com o IA.
+
+313
+00:13:40,436 --> 00:13:42,856
+E pensa, isso para empresas pequenas é algo bom,
+
+314
+00:13:42,976 --> 00:13:46,236
+porque você consegue usar isso na sua própria empresa também para crescer.
+
+315
+00:13:46,456 --> 00:13:49,776
+E um dos maiores desafios de empresas pequenas é conseguir ter dinheiro
+
+316
+00:13:49,776 --> 00:13:52,116
+para poder pagar as pessoas para construir o negócio.
+
+317
+00:13:52,116 --> 00:13:53,856
+posso. As grandes têm dinheiro, as grandes
+
+318
+00:13:53,856 --> 00:13:55,996
+vão lá, joga, chove dinheiro em cima de
+
+319
+00:13:55,996 --> 00:13:57,756
+você. Mas e as pequenas que estão tentando
+
+320
+00:13:57,756 --> 00:13:59,856
+competir? Muitas vezes não tem, você está no start.
+
+321
+00:14:00,136 --> 00:14:01,856
+Ter uma ferramenta dessa à sua disposição
+
+322
+00:14:01,856 --> 00:14:03,776
+e usar com inteligência faz você sair
+
+323
+00:14:03,776 --> 00:14:05,956
+de um nível iniciante para poder fazer a sua empresa escalar
+
+324
+00:14:05,956 --> 00:14:08,016
+também, alcançar as pessoas e atingir
+
+325
+00:14:08,016 --> 00:14:10,096
+o objetivo. Ou seja, IA é melhor
+
+326
+00:14:10,096 --> 00:14:12,016
+para os pequenos do que para os grandes
+
+327
+00:14:12,016 --> 00:14:14,136
+quando a gente chega num ponto em que
+
+328
+00:14:14,136 --> 00:14:16,056
+a IA, a mesma IA que os grandes
+
+329
+00:14:16,056 --> 00:14:17,996
+usam, é a IA que os pequenos usam também.
+
+330
+00:14:18,076 --> 00:14:19,976
+A diferença é no repertório,
+
+331
+00:14:19,976 --> 00:14:22,256
+em você saber ter as boas ideias para executar isso.
+
+332
+00:14:22,576 --> 00:14:24,076
+Olha isso que eu estou falando para vocês,
+
+333
+00:14:24,236 --> 00:14:26,336
+o quanto que isso já entra como um mito.
+
+334
+00:14:26,816 --> 00:14:28,316
+Então, eu falei o contrário,
+
+335
+00:14:28,316 --> 00:14:29,756
+eu falei que já está substituindo,
+
+336
+00:14:29,876 --> 00:14:31,396
+mas por que isso aqui é um mito?
+
+337
+00:14:31,856 --> 00:14:33,336
+Porque, na verdade, o que está acontecendo
+
+338
+00:14:33,336 --> 00:14:35,276
+é uma evolução das profissões.
+
+339
+00:14:35,796 --> 00:14:38,296
+Então, talvez aqui o que a gente chama de diretor de arte,
+
+340
+00:14:38,376 --> 00:14:40,316
+de fotógrafo, de designer,
+
+341
+00:14:40,476 --> 00:14:43,036
+isso aqui vai evoluindo para novas profissões,
+
+342
+00:14:43,136 --> 00:14:45,436
+mas o ato de criar continua sendo humano.
+
+343
+00:14:45,736 --> 00:14:47,176
+Então, o que eu acredito, por exemplo,
+
+344
+00:14:47,176 --> 00:14:48,376
+designers gráficos
+
+345
+00:14:48,376 --> 00:14:51,396
+de produto, designers de ambiente
+
+346
+00:14:51,396 --> 00:14:53,356
+precisam migrar, por exemplo, se tornar designers
+
+347
+00:14:53,356 --> 00:14:55,316
+nexialistas, que são chamados também de
+
+348
+00:14:55,316 --> 00:14:57,056
+designers orquestradores.
+
+349
+00:14:57,156 --> 00:14:59,196
+Ou também são chamados no mercado de
+
+350
+00:14:59,196 --> 00:15:01,136
+builders, pessoas que sabem
+
+351
+00:15:01,136 --> 00:15:03,156
+full stack, ou seja, sabem trabalhar a
+
+352
+00:15:03,156 --> 00:15:04,896
+casca, mas também a funcionalidade.
+
+353
+00:15:05,256 --> 00:15:07,056
+Então, é importante
+
+354
+00:15:07,056 --> 00:15:09,276
+entender que o que muda
+
+355
+00:15:09,276 --> 00:15:11,416
+aqui é que as profissões evoluem.
+
+356
+00:15:11,896 --> 00:15:13,236
+E claro, isso tira
+
+357
+00:15:13,836 --> 00:15:15,676
+todo mundo da zona de conforto,
+
+358
+00:15:15,676 --> 00:15:16,876
+porque você tem que se atualizar.
+
+359
+00:15:17,176 --> 00:15:18,416
+E é por isso que muita gente não gosta.
+
+360
+00:15:18,596 --> 00:15:20,936
+Mas também se configura como uma grande oportunidade
+
+361
+00:15:20,936 --> 00:15:24,116
+pra quem tá preparado ou disposto a estudar,
+
+362
+00:15:24,116 --> 00:15:25,876
+igual você tá aqui assistindo agora.
+
+363
+00:15:25,956 --> 00:15:27,576
+É uma grande oportunidade, porque a maioria
+
+364
+00:15:27,576 --> 00:15:29,756
+ou vai ficar com preguiça, ou vai ficar com medo,
+
+365
+00:15:29,876 --> 00:15:34,016
+e você vê que no final, quem se compromete a ir aprender, aprende.
+
+366
+00:15:34,056 --> 00:15:36,176
+Não é tão difícil quanto parece,
+
+367
+00:15:37,036 --> 00:15:42,216
+mas não é também um feijãozinho que você planta
+
+368
+00:15:42,216 --> 00:15:45,516
+e tem lá a cesta de ovos dourados pronta pra você, né?
+
+369
+00:15:45,516 --> 00:15:47,756
+mesmo assim você ainda teria que subir o pé de feijão,
+
+370
+00:15:47,816 --> 00:15:49,736
+então tem que ter esforço também, não tem como.
+
+371
+00:15:50,676 --> 00:15:52,396
+Qualquer pessoa faz imagem profissional.
+
+372
+00:15:52,416 --> 00:15:54,696
+Olha, aqui está como um mito, mas eu vou falar para vocês,
+
+373
+00:15:54,756 --> 00:15:57,136
+o conceito de imagem profissional muda muito aqui agora.
+
+374
+00:15:58,716 --> 00:15:59,936
+Aqui, a Thais colocou, né?
+
+375
+00:16:00,336 --> 00:16:01,856
+Confunde quantidade com excelência.
+
+376
+00:16:01,876 --> 00:16:03,396
+Técnica continua sendo humana.
+
+377
+00:16:03,436 --> 00:16:06,556
+Eu nem diria só técnica e nem questão de qualidade com excelência.
+
+378
+00:16:06,596 --> 00:16:07,676
+Sabe qual que é a minha visão hoje?
+
+379
+00:16:07,796 --> 00:16:11,356
+E é legal porque aqui é a minha interpretação do material,
+
+380
+00:16:11,556 --> 00:16:13,616
+junto com o material que foi preparado pela equipe.
+
+381
+00:16:13,676 --> 00:16:15,716
+Isso aqui são coisas que são muito faladas no mercado
+
+382
+00:16:15,716 --> 00:16:19,016
+e eu estou trazendo para vocês uma visão que é diferente da maior parte do mercado.
+
+383
+00:16:19,236 --> 00:16:23,736
+Eu acredito que qualquer pessoa faz uma imagem profissional hoje em dia.
+
+384
+00:16:23,836 --> 00:16:24,736
+Qualquer pessoa faz.
+
+385
+00:16:25,076 --> 00:16:27,036
+Qualquer um consegue fazer.
+
+386
+00:16:27,036 --> 00:16:28,736
+fazer. Isso pra mim não é mito mais.
+
+387
+00:16:28,936 --> 00:16:30,696
+Por mais que muitas pessoas falam como
+
+388
+00:16:30,696 --> 00:16:32,996
+mito. Eu acredito que qualquer um pode fazer.
+
+389
+00:16:33,136 --> 00:16:34,816
+Qual que é o diferencial então? Escolher qual
+
+390
+00:16:34,816 --> 00:16:36,696
+imagem faz sentido dentro de um contexto.
+
+391
+00:16:36,716 --> 00:16:38,816
+É curadoria e repertório.
+
+392
+00:16:39,176 --> 00:16:40,576
+Uma imagem profissional também
+
+393
+00:16:40,576 --> 00:16:42,756
+você pode falar, ah, mas tem o
+
+394
+00:16:42,756 --> 00:16:44,516
+ângulo, tem o motivo da imagem,
+
+395
+00:16:44,736 --> 00:16:46,696
+tem o enquadramento, tem tudo isso. Mas a IA
+
+396
+00:16:46,696 --> 00:16:48,196
+também pode tomar essas decisões.
+
+397
+00:16:48,516 --> 00:16:50,656
+IAs já estão sendo treinadas pra tomar essas
+
+398
+00:16:50,656 --> 00:16:52,896
+decisões por você. Você pede a imagem, ela já gera
+
+399
+00:16:52,896 --> 00:16:54,756
+nisso. O que vai acontecer é que a maioria das
+
+400
+00:16:54,756 --> 00:16:56,716
+pessoas nem saberão porque uma imagem
+
+401
+00:16:56,716 --> 00:16:58,556
+imagem é boa. Elas simplesmente terão
+
+402
+00:16:58,556 --> 00:17:00,496
+uma imagem boa na mão delas. E ponto
+
+403
+00:17:00,496 --> 00:17:02,576
+final. Esse é o contexto para o qual
+
+404
+00:17:02,576 --> 00:17:04,416
+nós já estamos vivendo e já estamos indo cada vez
+
+405
+00:17:04,416 --> 00:17:06,256
+mais. Então, para mim, isso aqui não é mito não, tá?
+
+406
+00:17:06,416 --> 00:17:08,456
+Para trazer para vocês. IA
+
+407
+00:17:08,456 --> 00:17:10,396
+cria originalidade por padrão.
+
+408
+00:17:10,476 --> 00:17:12,216
+Isso aqui é uma coisa interessante mesmo.
+
+409
+00:17:12,376 --> 00:17:14,596
+E é um mito. Porque se a IA é estatística,
+
+410
+00:17:15,096 --> 00:17:16,256
+originalidade é algo que é o ponto
+
+411
+00:17:16,256 --> 00:17:18,656
+marco Z. Tem dois jeitos de analisar a originalidade.
+
+412
+00:17:18,836 --> 00:17:20,216
+Como marco Z, ou seja,
+
+413
+00:17:20,336 --> 00:17:22,576
+origem. Então, nunca teve antes,
+
+414
+00:17:22,596 --> 00:17:24,796
+nasceu algo ali. Ou originalidade
+
+415
+00:17:24,796 --> 00:17:26,056
+no sentido de que
+
+416
+00:17:26,056 --> 00:17:28,276
+é algo novo dentro de um
+
+417
+00:17:28,276 --> 00:17:30,536
+escopo ali, mas não precisa ser novo
+
+418
+00:17:30,536 --> 00:17:32,756
+absoluto, tem dois jeitos de analisar isso aqui
+
+419
+00:17:32,756 --> 00:17:34,336
+e quando eu penso aqui
+
+420
+00:17:34,336 --> 00:17:36,716
+e a crioriginalidade por padrão, que está aqui como
+
+421
+00:17:36,716 --> 00:17:37,976
+um mito
+
+422
+00:17:39,292 --> 00:17:45,592
+A IA, se você para pra pensar, não é nem que ela puramente copia e nem que ela puramente é original.
+
+423
+00:17:46,292 --> 00:17:51,352
+Ela simplesmente traduziu a linguagem visual humana pra números.
+
+424
+00:17:51,592 --> 00:17:54,692
+E aí ela consegue, como se fosse um dicionário, uma grande biblioteca,
+
+425
+00:17:54,752 --> 00:17:57,892
+ela consegue traduzir nossas intenções em imagens.
+
+426
+00:17:58,272 --> 00:18:00,332
+É assim que eu tenho visto imagens de...
+
+427
+00:18:01,292 --> 00:18:02,872
+IAs de geração de imagens, tá?
+
+428
+00:18:02,932 --> 00:18:05,112
+Elas traduzem o que nós temos aqui.
+
+429
+00:18:05,792 --> 00:18:08,472
+Pensando assim, então, a IA pode ser original,
+
+430
+00:18:08,472 --> 00:18:12,092
+se você pedir para ela, muitas vezes, quebrar a lógica dela,
+
+431
+00:18:12,172 --> 00:18:14,392
+e é possível fazer isso, então eu não quero o estatístico,
+
+432
+00:18:14,512 --> 00:18:16,132
+eu quero o oposto do estatístico,
+
+433
+00:18:16,192 --> 00:18:20,312
+você pode aumentar a temperatura de uma LLM para ela alucinar,
+
+434
+00:18:20,312 --> 00:18:23,952
+que nós falamos, que ela vai começar a traçar caminhos
+
+435
+00:18:23,952 --> 00:18:26,972
+que não são estatisticamente os mais seguidos,
+
+436
+00:18:26,992 --> 00:18:32,152
+mas que podem gerar algo novo, trazer graus de estranheza no processo.
+
+437
+00:18:32,432 --> 00:18:35,292
+Para vocês verem isso visualmente também,
+
+438
+00:18:35,392 --> 00:18:37,632
+vou trazer aqui o Mid Journey.
+
+439
+00:18:39,420 --> 00:18:42,780
+Como um exemplo para vocês, olha, se eu venho aqui nas configurações do Meet Journey,
+
+440
+00:18:42,860 --> 00:18:46,920
+eu tenho aqui, ó, Variety, Weirdness e Stylization.
+
+441
+00:18:47,540 --> 00:18:49,660
+Esse Weirdness aqui é estranheza, né?
+
+442
+00:18:49,680 --> 00:18:52,260
+Então, você pode aumentar o nível de estranheza se eu coloco aqui, por exemplo,
+
+443
+00:18:52,860 --> 00:18:54,280
+vamos colocar aqui...
+
+444
+00:18:55,772 --> 00:18:56,352
+Ah...
+
+445
+00:18:58,364 --> 00:19:03,744
+Eu vi um vídeo muito bizarro hoje, era uma cobra gato, então a Snake Cat.
+
+446
+00:19:05,276 --> 00:19:08,516
+E aí eu posso pegar o mesmo prompt, SnakeCat,
+
+447
+00:19:10,376 --> 00:19:12,656
+posso pegar esse mesmo prompt e agora eu faço isso aqui,
+
+448
+00:19:12,756 --> 00:19:14,416
+aumento a estranheza dele.
+
+449
+00:19:14,536 --> 00:19:17,656
+Vou só isolar essa variável, vou colocar no absurdo aqui para vocês verem,
+
+450
+00:19:17,736 --> 00:19:18,656
+e gero também.
+
+451
+00:19:18,856 --> 00:19:20,576
+Então ele vai gerar as imagens aqui para a gente.
+
+452
+00:19:20,996 --> 00:19:23,476
+Na primeira eu falei aqui, um gato cobra,
+
+453
+00:19:23,656 --> 00:19:27,316
+ele tentou misturar as duas coisas, está gerando a imagem aqui para a gente.
+
+454
+00:19:27,536 --> 00:19:30,736
+Repare inclusive como que a imagem vai surgindo em difusão, está vendo?
+
+455
+00:19:30,776 --> 00:19:34,796
+Ele vai adicionando pixels e adicionando detalhes ali.
+
+456
+00:19:34,796 --> 00:19:36,776
+então olha que interessante, nessa primeira
+
+457
+00:19:36,776 --> 00:19:39,036
+ele seguiu alguns estilos que estatisticamente
+
+458
+00:19:39,036 --> 00:19:40,996
+são os mais aprovados dentro do
+
+459
+00:19:40,996 --> 00:19:43,096
+mid journey, então ele tem alguns estilos
+
+460
+00:19:43,096 --> 00:19:44,956
+mais cartonescos, outros mais indo
+
+461
+00:19:44,956 --> 00:19:47,016
+para o realista, mas ele tentou fazer
+
+462
+00:19:47,016 --> 00:19:48,636
+aqui um gato cobra, fez
+
+463
+00:19:48,636 --> 00:19:50,496
+algumas bizarrices aqui
+
+464
+00:19:50,496 --> 00:19:53,116
+já quando eu fui para a estranheza, dá só uma olhada
+
+465
+00:19:53,116 --> 00:19:54,736
+aqui, ele começou a fazer
+
+466
+00:19:54,736 --> 00:19:56,596
+coisas bem fora do padrão
+
+467
+00:19:56,596 --> 00:19:59,076
+e isso pode ser muito útil para o projeto
+
+468
+00:19:59,076 --> 00:20:00,776
+também, depende da exploração que
+
+469
+00:20:00,776 --> 00:20:02,756
+você está fazendo, pode ser interessante
+
+470
+00:20:02,756 --> 00:20:03,276
+Interessante também.
+
+471
+00:20:03,856 --> 00:20:06,996
+Isso aqui foi porque eu adicionei uma variável de estranheza,
+
+472
+00:20:07,016 --> 00:20:08,056
+mas só pra trazer pra vocês.
+
+473
+00:20:08,116 --> 00:20:10,316
+A gente vai vir pra prática, prometo.
+
+474
+00:20:10,976 --> 00:20:16,636
+Então, eu diria que depende do que a gente tá falando,
+
+475
+00:20:16,676 --> 00:20:20,056
+que é a originalidade aqui, pra isso aqui ser considerado um mito, tá?
+
+476
+00:20:20,256 --> 00:20:22,076
+Quando você ouvir alguém falando pra você assim,
+
+477
+00:20:22,256 --> 00:20:24,436
+a IA só copia, ela não cria nada original.
+
+478
+00:20:25,976 --> 00:20:28,816
+Calma aí, porque ela pode trazer algo original
+
+479
+00:20:28,816 --> 00:20:30,856
+dependendo de como você considera o que é original.
+
+480
+00:20:30,856 --> 00:20:32,936
+mas a IA só cria coisa nova
+
+481
+00:20:32,936 --> 00:20:35,356
+também calma aí, porque ela é baseada
+
+482
+00:20:35,816 --> 00:20:37,336
+nas imagens que já existiam
+
+483
+00:20:37,336 --> 00:20:38,196
+no mundo antes
+
+484
+00:20:38,196 --> 00:20:41,216
+ela não faz uma réplica de fato
+
+485
+00:20:41,216 --> 00:20:42,996
+a IA nunca replica
+
+486
+00:20:43,516 --> 00:20:45,136
+exatamente uma imagem, ela não pega
+
+487
+00:20:45,136 --> 00:20:46,516
+uma imagem e cola pra você utilizar
+
+488
+00:20:46,516 --> 00:20:49,096
+igual muitas pessoas acham que a IA vai lá
+
+489
+00:20:49,096 --> 00:20:51,296
+busca na internet as imagens
+
+490
+00:20:51,296 --> 00:20:53,276
+e te entrega uma imagem que é o que você pediu
+
+491
+00:20:53,276 --> 00:20:54,736
+pra ela, não, ela gera a imagem
+
+492
+00:20:54,736 --> 00:20:56,936
+essa imagem está sendo montada pixel a pixel
+
+493
+00:20:56,936 --> 00:20:59,256
+pra você, então ela é única de certa forma
+
+494
+00:20:59,256 --> 00:20:59,816
+se a gente fala
+
+495
+00:20:59,816 --> 00:21:03,216
+fala numericamente, ela é única.
+
+496
+00:21:03,496 --> 00:21:05,776
+Mas quando a gente olha pra ela como um todo,
+
+497
+00:21:05,896 --> 00:21:06,736
+com os olhos humanos,
+
+498
+00:21:07,016 --> 00:21:09,596
+a gente consegue reparar padrões e coisas ali,
+
+499
+00:21:10,276 --> 00:21:12,076
+que nós já vemos em outros lugares.
+
+500
+00:21:12,136 --> 00:21:14,296
+Às vezes um estilo que é muito característico,
+
+501
+00:21:14,296 --> 00:21:16,196
+uma composição muito característica,
+
+502
+00:21:16,196 --> 00:21:16,716
+e por aí vai.
+
+503
+00:21:17,656 --> 00:21:18,056
+Mito.
+
+504
+00:21:18,176 --> 00:21:20,116
+Basta pedir e ajustar no feeling.
+
+505
+00:21:20,676 --> 00:21:23,556
+Cara, isso aqui cada vez mais vai deixar de ser um mito também.
+
+506
+00:21:23,716 --> 00:21:24,736
+Se a gente para pra pensar,
+
+507
+00:21:24,836 --> 00:21:27,176
+isso aqui fazia muito sentido em 2024, 2025,
+
+508
+00:21:27,176 --> 00:21:28,916
+25, mas sinceramente
+
+509
+00:21:28,916 --> 00:21:31,076
+a IA tem se tornado cada vez mais inteligente
+
+510
+00:21:31,076 --> 00:21:33,336
+pra entender estatisticamente o que os humanos gostam.
+
+511
+00:21:33,896 --> 00:21:35,076
+Então, ela vai entender
+
+512
+00:21:35,076 --> 00:21:36,776
+o seu feeling. Cada vez mais ela tem
+
+513
+00:21:37,196 --> 00:21:38,956
+entendido o seu feeling. E gerar imagem
+
+514
+00:21:38,956 --> 00:21:40,576
+tem se tornado cada vez mais fácil.
+
+515
+00:21:40,796 --> 00:21:43,076
+Por isso que eu sempre digo, gerar imagem não é
+
+516
+00:21:43,076 --> 00:21:45,056
+diferencial. Você saber fazer uma imagem irada
+
+517
+00:21:45,056 --> 00:21:47,216
+não é o diferencial. O diferencial é o que você faz
+
+518
+00:21:47,216 --> 00:21:49,016
+com essa imagem que você gerou. Ela vai servir pra contar
+
+519
+00:21:49,016 --> 00:21:51,176
+uma história, pra montar um produto, pra construir
+
+520
+00:21:51,176 --> 00:21:52,996
+algo novo. Aí que tá a questão.
+
+521
+00:21:53,416 --> 00:21:55,016
+A imagem é um asset que faz
+
+522
+00:21:55,016 --> 00:21:56,936
+parte disso tudo. E aí, claro, você pode
+
+523
+00:21:56,936 --> 00:21:59,836
+Pode refinar, trabalhar nela, ou usar uma pronta também.
+
+524
+00:21:59,896 --> 00:22:04,116
+Mas aí ela vai tender a te trazer estatisticamente o que a maioria das pessoas gosta.
+
+525
+00:22:04,336 --> 00:22:06,776
+Se você quiser ser original, você pode ir conduzindo ela.
+
+526
+00:22:06,876 --> 00:22:07,756
+É isso que eu quero mostrar.
+
+527
+00:22:08,396 --> 00:22:09,676
+Se ficou bonito, tá certo.
+
+528
+00:22:09,796 --> 00:22:11,196
+Isso é uma questão também estética.
+
+529
+00:22:12,316 --> 00:22:14,656
+Beleza é relativo, que é bonito pra você, não é pra outra pessoa.
+
+530
+00:22:15,716 --> 00:22:17,776
+Quando a gente fala de design, e até na arte também,
+
+531
+00:22:17,916 --> 00:22:20,196
+a gente fala mais sobre percepção do que sobre beleza.
+
+532
+00:22:20,496 --> 00:22:22,816
+A beleza entra como uma característica importante.
+
+533
+00:22:23,016 --> 00:22:24,476
+A beleza pode ser estudada.
+
+534
+00:22:24,476 --> 00:22:27,176
+A beleza é um conceito arquetípico do inconsciente humano,
+
+535
+00:22:27,396 --> 00:22:31,096
+mas quando a gente fala de construir uma mensagem,
+
+536
+00:22:31,116 --> 00:22:34,016
+você tem que pensar na percepção que você está conduzindo da outra pessoa.
+
+537
+00:22:34,516 --> 00:22:36,676
+E, sinceramente, se você conversa assim com a IA,
+
+538
+00:22:36,696 --> 00:22:37,796
+ela entende o que você quer dizer.
+
+539
+00:22:38,176 --> 00:22:41,956
+Então, beleza não implica coerência de marca, mensagem, composição.
+
+540
+00:22:42,136 --> 00:22:43,896
+Isso aqui são tudo decisões.
+
+541
+00:22:44,076 --> 00:22:46,676
+E aí uma definição muito legal que eu tenho utilizado
+
+542
+00:22:46,676 --> 00:22:49,816
+é que design é uma profissão de tomada de decisão.
+
+543
+00:22:49,956 --> 00:22:51,236
+O que designers fazem?
+
+544
+00:22:51,236 --> 00:22:54,676
+estudam para serem bons tomadores de decisão.
+
+545
+00:22:55,136 --> 00:22:57,856
+Decisões estéticas, decisão de caminhos para seguir,
+
+546
+00:22:57,956 --> 00:23:00,136
+decisão de posicionamento, decisão de...
+
+547
+00:23:01,532 --> 00:23:04,372
+ativos visuais, sonoros, que vão ser construídos,
+
+548
+00:23:04,372 --> 00:23:07,152
+de como a marca vai ser percebida pelo público e por aí vai.
+
+549
+00:23:07,192 --> 00:23:08,512
+A gente toma decisões o tempo todo.
+
+550
+00:23:09,852 --> 00:23:11,732
+É o que acontece com outras profissões também, né?
+
+551
+00:23:11,952 --> 00:23:14,152
+E pra fechar essa parte aqui,
+
+552
+00:23:15,072 --> 00:23:16,392
+eu quero falar sobre as limitações.
+
+553
+00:23:16,512 --> 00:23:18,232
+Quais são as limitações que nós temos agora?
+
+554
+00:23:18,732 --> 00:23:22,012
+Primeira limitação, falta de contexto temporal e cultural.
+
+555
+00:23:22,252 --> 00:23:24,832
+A estética pode evoluir mais rápido do que o modelo aprende.
+
+556
+00:23:25,032 --> 00:23:27,952
+Uma coisa que muita gente confunde é que IAs,
+
+557
+00:23:28,192 --> 00:23:30,552
+apesar delas estarem aprendendo em tempo real,
+
+558
+00:23:31,212 --> 00:23:34,412
+elas estão guardando as informações que nós enviamos
+
+559
+00:23:34,412 --> 00:23:36,392
+pra serem treinadas num novo modelo.
+
+560
+00:23:36,672 --> 00:23:38,352
+Então, a IA que você usa hoje,
+
+561
+00:23:38,352 --> 00:23:40,172
+hoje, ela é uma rede neural fixa.
+
+562
+00:23:40,372 --> 00:23:42,512
+Então imagina ela como um pacote
+
+563
+00:23:42,512 --> 00:23:44,212
+de parâmetros que você
+
+564
+00:23:44,212 --> 00:23:46,452
+utiliza, e esse pacote de parâmetros
+
+565
+00:23:46,452 --> 00:23:48,452
+ele tem a habilidade de navegar
+
+566
+00:23:48,452 --> 00:23:50,152
+na internet e buscar mais
+
+567
+00:23:50,152 --> 00:23:52,292
+informações pra poder enriquecer o contexto
+
+568
+00:23:52,292 --> 00:23:54,092
+dele. Mas ele precisa buscar
+
+569
+00:23:54,092 --> 00:23:56,152
+essas informações o tempo todo, isso gasta o
+
+570
+00:23:56,152 --> 00:23:58,152
+contexto geral dele. Juan,
+
+571
+00:23:58,292 --> 00:24:00,432
+o que é isso de contexto, janela
+
+572
+00:24:00,432 --> 00:24:02,352
+de contexto, token? Estuda
+
+573
+00:24:02,352 --> 00:24:04,132
+a trilha de LLMs ou a trilha
+
+574
+00:24:04,132 --> 00:24:06,232
+AI First, você vai entender exatamente o que
+
+575
+00:24:06,232 --> 00:24:08,272
+são tokens, janela de contexto, e são conceitos
+
+576
+00:24:08,272 --> 00:24:10,252
+muito importantes pra isso que eu tô falando aqui agora.
+
+577
+00:24:10,752 --> 00:24:12,432
+E essa é uma limitação da IA.
+
+578
+00:24:13,032 --> 00:24:14,452
+Qualquer IA dessas generativas
+
+579
+00:24:14,452 --> 00:24:16,232
+que você for usar vai lidar com essa
+
+580
+00:24:16,792 --> 00:24:18,492
+limitação aqui. E aí, o que
+
+581
+00:24:18,492 --> 00:24:20,392
+que acontece então? As IAs pegam os dados,
+
+582
+00:24:20,532 --> 00:24:22,472
+as empresas das IAs, usam
+
+583
+00:24:22,472 --> 00:24:23,992
+esses dados pra treinar o próximo modelo.
+
+584
+00:24:24,252 --> 00:24:26,452
+Aí o próximo modelo é treinado, ele vem
+
+585
+00:24:26,452 --> 00:24:28,312
+melhor, porque ele foi treinado com mais dados,
+
+586
+00:24:28,412 --> 00:24:30,572
+e aí ele vem empacotado pra você usar de novo.
+
+587
+00:24:30,752 --> 00:24:32,452
+Ou seja, a IA não está aprendendo
+
+588
+00:24:32,452 --> 00:24:34,272
+em tempo real e já adicionando esse
+
+589
+00:24:34,272 --> 00:24:36,312
+aprendizado na rede neural dela. Não funciona
+
+590
+00:24:36,312 --> 00:24:38,212
+funciona assim. Beleza? Ela é um
+
+591
+00:24:38,212 --> 00:24:39,912
+pacote fechado, que navega na internet
+
+592
+00:24:39,912 --> 00:24:42,372
+e ela usa as informações naquele
+
+593
+00:24:42,372 --> 00:24:43,932
+contexto daquela mensagem com você.
+
+594
+00:24:44,192 --> 00:24:46,212
+Isso significa que cada imagem que você
+
+595
+00:24:46,212 --> 00:24:48,272
+gera, você precisa contextualizar
+
+596
+00:24:48,272 --> 00:24:50,212
+a IA sobre ela. Principalmente
+
+597
+00:24:50,212 --> 00:24:51,912
+se forem coisas novas que estão surgindo
+
+598
+00:24:51,912 --> 00:24:54,012
+culturalmente, coisas que ela não foi treinada
+
+599
+00:24:54,012 --> 00:24:56,052
+pra isso ainda. E aí, quando vocês
+
+600
+00:24:56,052 --> 00:24:58,172
+forem utilizar alguma IA, vocês vão perceber
+
+601
+00:24:58,172 --> 00:25:00,032
+que elas são muito boas pra gerar
+
+602
+00:25:00,032 --> 00:25:01,812
+coisas que já são consolidadas
+
+603
+00:25:01,812 --> 00:25:04,252
+culturalmente ou no mundo. Quanto mais
+
+604
+00:25:04,252 --> 00:25:08,032
+Mas um elemento, um signo aparece, melhor ela consegue.
+
+605
+00:25:08,292 --> 00:25:13,592
+Se eu pedir para um chat GPT gerar uma Coca-Cola, uma Coca-Cola na mesa.
+
+606
+00:25:14,052 --> 00:25:15,892
+Vamos ver se ele vai me barrar aqui por direitos.
+
+607
+00:25:15,972 --> 00:25:16,552
+Eu acho que não.
+
+608
+00:25:16,852 --> 00:25:20,852
+Se eu peço ele para gerar uma Coca-Cola, ele vai gerar uma Coca-Cola perfeita para mim aqui,
+
+609
+00:25:20,912 --> 00:25:24,052
+porque isso aqui já passou várias vezes pelo treinamento dela
+
+610
+00:25:24,052 --> 00:25:26,412
+e ela sabe exatamente o que é uma Coca-Cola.
+
+611
+00:25:26,592 --> 00:25:32,832
+Então eu não tenho problema aqui com consistência da imagem, do modelo na hora de usar esse produto.
+
+612
+00:25:32,832 --> 00:25:35,312
+Às vezes ela ainda vai fazer umas coisinhas assim, né?
+
+613
+00:25:35,412 --> 00:25:37,772
+Não existe Coca-Cola com essa alcinha aqui, por exemplo.
+
+614
+00:25:37,972 --> 00:25:39,252
+Isso faz parte dos Dayá.
+
+615
+00:25:39,292 --> 00:25:42,272
+Inclusive, eu fiz aqui uma Coca-Cola com 3 mil de estranheza.
+
+616
+00:25:42,452 --> 00:25:45,432
+Se eu colocar aqui uma Coca-Cola na mesa,
+
+617
+00:25:45,912 --> 00:25:47,912
+poxa, eu devia ser patrocinado pela Coca-Cola.
+
+618
+00:25:47,912 --> 00:25:49,372
+E olha que eu nem tomo refrigerante, né?
+
+619
+00:25:50,072 --> 00:25:52,572
+Mas vamos usar aqui os elementos da cultura.
+
+620
+00:25:54,432 --> 00:25:56,212
+Então, deixa carregar aqui pra gente.
+
+621
+00:25:57,596 --> 00:25:59,976
+E vocês vão ver que ela consegue gerar uma Coca-Cola muito bem.
+
+622
+00:26:00,156 --> 00:26:02,616
+Sem a estranheza, ela vai fazer isso melhor ainda.
+
+623
+00:26:02,916 --> 00:26:05,216
+Porque isso já faz parte do contexto dela.
+
+624
+00:26:05,556 --> 00:26:07,256
+Agora, se eu falo para ela assim, sei lá,
+
+625
+00:26:08,336 --> 00:26:11,176
+gere um funny funny.
+
+626
+00:26:12,732 --> 00:26:15,892
+Um funny, funny, cat, brown.
+
+627
+00:26:16,492 --> 00:26:18,192
+Sei lá, inventei essa palavra aqui agora.
+
+628
+00:26:18,372 --> 00:26:20,832
+Nem sei o que ela vai trazer, mas provavelmente não vai ser um produto.
+
+629
+00:26:21,012 --> 00:26:24,412
+Ela vai pegar a palavra cat, a palavra divertido e a palavra marrom
+
+630
+00:26:24,412 --> 00:26:26,192
+e vai tentar montar alguma coisa aqui.
+
+631
+00:26:26,292 --> 00:26:27,972
+Mas de fato não vai ser um produto, tá vendo?
+
+632
+00:26:28,292 --> 00:26:28,872
+Por quê?
+
+633
+00:26:28,952 --> 00:26:32,012
+Porque se eu criei esse produto, ela não sabe que isso é um produto ainda.
+
+634
+00:26:32,112 --> 00:26:33,132
+Eu tenho que contextualizar ela.
+
+635
+00:26:33,312 --> 00:26:36,352
+Isso é uma limitação porque muitas vezes ao contextualizar,
+
+636
+00:26:36,352 --> 00:26:39,312
+olha aí, na diversão gerando imagens muito legais, né?
+
+637
+00:26:39,352 --> 00:26:42,292
+Que estatisticamente a maioria das pessoas vão gostar.
+
+638
+00:26:42,292 --> 00:26:44,312
+De verdade, tem segredo pra gerar
+
+639
+00:26:44,312 --> 00:26:46,232
+esse marinho aqui? Não tem. Por isso que
+
+640
+00:26:46,232 --> 00:26:48,112
+eu vou no mais, eu vou trazer pra
+
+641
+00:26:48,112 --> 00:26:49,852
+vocês aqui essa questão mais ampla,
+
+642
+00:26:49,852 --> 00:26:51,492
+porque, cara,
+
+643
+00:26:51,952 --> 00:26:54,392
+a gente tá zoando aqui, olha só o que ela tá trazendo,
+
+644
+00:26:54,452 --> 00:26:56,032
+né? Não tem segredo nenhum,
+
+645
+00:26:56,732 --> 00:26:58,412
+zero segredo aqui pra gerar imagens
+
+646
+00:26:58,412 --> 00:27:00,632
+boas. Estão entendendo porque que isso é básico,
+
+647
+00:27:00,672 --> 00:27:02,172
+né? Já passou da hora da gente sair desse
+
+648
+00:27:02,172 --> 00:27:04,132
+nível e avançar, e por isso que
+
+649
+00:27:04,132 --> 00:27:05,872
+vocês estão aqui. Então...
+
+650
+00:27:07,164 --> 00:27:09,224
+No caso aqui, essa é uma limitação da IA.
+
+651
+00:27:09,384 --> 00:27:12,684
+Tem que contextualizar ela se você quiser ter precisão.
+
+652
+00:27:12,744 --> 00:27:15,164
+Se você quer ser surpreendido, não precisa, vocês viram ali.
+
+653
+00:27:17,224 --> 00:27:18,944
+Compreensão emocional imitativa.
+
+654
+00:27:19,204 --> 00:27:21,744
+IA consegue gerar emoções? Consegue.
+
+655
+00:27:21,764 --> 00:27:23,304
+Mas emoções, para os seres humanos,
+
+656
+00:27:23,924 --> 00:27:27,104
+isso atinge no nosso cérebro uma camada muito profunda
+
+657
+00:27:27,104 --> 00:27:31,944
+e a gente consegue notar micro expressões e detalhes no rosto
+
+658
+00:27:31,944 --> 00:27:33,024
+que geram estranheza.
+
+659
+00:27:33,084 --> 00:27:36,484
+E a IA não sabe disso, porque ela não enxerga como os seres humanos enxergam.
+
+660
+00:27:36,484 --> 00:27:39,204
+É claro que ela está sendo treinada cada vez mais
+
+661
+00:27:39,204 --> 00:27:42,244
+e vai ficar melhor chegar no ponto que isso não vai ser limitação mais?
+
+662
+00:27:42,344 --> 00:27:42,684
+Vai.
+
+663
+00:27:43,144 --> 00:27:44,364
+Dependendo do momento que você ver esse meu vídeo,
+
+664
+00:27:44,424 --> 00:27:45,404
+você vai fazer o teste e vai falar assim,
+
+665
+00:27:45,444 --> 00:27:47,364
+Juan, já evoluiu.
+
+666
+00:27:47,384 --> 00:27:49,864
+E aí pra você eu já falo, cara, que massa, muito bom.
+
+667
+00:27:49,964 --> 00:27:51,864
+Fico feliz, a ferramenta evoluiu.
+
+668
+00:27:51,964 --> 00:27:56,984
+O ponto aqui principal é você entender que isso hoje ainda é uma limitação.
+
+669
+00:27:56,984 --> 00:28:00,224
+Com o vídeo é mais ainda, então tem algumas técnicas ali
+
+670
+00:28:00,224 --> 00:28:01,844
+pra gerar uma emoção no vídeo também.
+
+671
+00:28:02,084 --> 00:28:04,404
+A gente vai ter curso de vídeo aqui pra vocês, né?
+
+672
+00:28:04,404 --> 00:28:05,124
+Mas...
+
+673
+00:28:06,812 --> 00:28:08,112
+você precisa direcioná-la bem.
+
+674
+00:28:08,212 --> 00:28:11,452
+Senão ela vai dar aquele sorriso meio esquisito,
+
+675
+00:28:11,452 --> 00:28:15,032
+vai te entregar uma coisa ainda em alguns contextos meio estranhos.
+
+676
+00:28:15,132 --> 00:28:16,372
+Então, ela simula.
+
+677
+00:28:16,392 --> 00:28:18,972
+Simula o clima, simula falhas,
+
+678
+00:28:19,852 --> 00:28:20,332
+mas...
+
+679
+00:28:22,172 --> 00:28:26,172
+você precisa tentar direcioná-la o máximo possível, se você quiser ter precisão.
+
+680
+00:28:27,452 --> 00:28:29,672
+Criatividade verdadeiramente inédita é rara.
+
+681
+00:28:29,712 --> 00:28:32,992
+Só que isso aqui, eu vou colocar, isso não é só uma limitação da IA,
+
+682
+00:28:33,152 --> 00:28:37,712
+isso é uma limitação da maioria das pessoas que não entende o que é criatividade.
+
+683
+00:28:37,712 --> 00:28:41,012
+Porque quando você entende o que é criatividade, você entende que a criatividade,
+
+684
+00:28:41,012 --> 00:28:43,372
+ela é baseada em três tipos.
+
+685
+00:28:43,472 --> 00:28:46,132
+Inclusive, tem uma mulher incrível, cara.
+
+686
+00:28:46,272 --> 00:28:48,792
+Eu vou pegar essa aula pra mostrar aqui pra vocês, que vai valer a pena.
+
+687
+00:28:48,972 --> 00:28:50,152
+Tem uma mulher...
+
+688
+00:28:51,260 --> 00:28:54,960
+que mapeou esses três tipos de criatividade.
+
+689
+00:28:55,200 --> 00:29:00,140
+Eu só preciso pegar aqui a apresentação certa para eu mostrar isso para vocês.
+
+690
+00:29:01,440 --> 00:29:02,020
+Vocês vão gostar.
+
+691
+00:29:05,724 --> 00:29:06,584
+Deixa eu ver se é essa aqui.
+
+692
+00:29:09,564 --> 00:29:11,084
+Isso foi uma palestra que eu dei, essa mesmo.
+
+693
+00:29:11,904 --> 00:29:12,744
+Vamos pegar aqui.
+
+694
+00:29:15,388 --> 00:29:17,228
+É uma palestra sobre modelos mentais.
+
+695
+00:29:18,128 --> 00:29:19,388
+Aqui, ó. Vamos falar dela.
+
+696
+00:29:20,588 --> 00:29:21,548
+Margaret Bolden.
+
+697
+00:29:21,708 --> 00:29:24,668
+A Margaret Bolden, ela...
+
+698
+00:29:24,668 --> 00:29:27,948
+Se não fosse a Ziás, talvez eu nunca tinha conhecido a Margaret Bolden,
+
+699
+00:29:27,988 --> 00:29:32,868
+porque eu conheci essa mulher aqui pesquisando sobre modelos mentais, inclusive.
+
+700
+00:29:34,448 --> 00:29:37,048
+E aí, vamos pegar um pouquinho sobre ela aqui, ó.
+
+701
+00:29:37,088 --> 00:29:39,188
+Olha só de quando que ela é, né?
+
+702
+00:29:39,228 --> 00:29:40,808
+De 1936 até 2023.
+
+703
+00:29:41,828 --> 00:29:43,368
+Morreu tem pouco tempo, inclusive.
+
+704
+00:29:43,368 --> 00:29:45,208
+inclusive. Foi professora
+
+705
+00:29:45,208 --> 00:29:47,048
+de ciências cognitivas na Universidade
+
+706
+00:29:47,048 --> 00:29:49,008
+de Success, na Inglaterra, considerada
+
+707
+00:29:49,008 --> 00:29:50,868
+uma das fundadoras do campo de
+
+708
+00:29:50,868 --> 00:29:52,528
+inteligência artificial e criatividade
+
+709
+00:29:53,068 --> 00:29:55,088
+computacional. Seu trabalho investigou
+
+710
+00:29:55,088 --> 00:29:57,068
+como seres humanos e máquinas podem gerar
+
+711
+00:29:57,068 --> 00:29:59,288
+ideias criativas, combinando
+
+712
+00:29:59,288 --> 00:30:01,148
+IA, psicologia, filosofia
+
+713
+00:30:01,148 --> 00:30:03,188
+e ciências da computação. E ela mostrou que é possível.
+
+714
+00:30:03,348 --> 00:30:04,948
+Na verdade, ela dividiu a criatividade
+
+715
+00:30:04,948 --> 00:30:06,988
+pra gente em três, que é a combinatória,
+
+716
+00:30:07,028 --> 00:30:08,748
+exploratória e transformacional.
+
+717
+00:30:09,228 --> 00:30:11,188
+Criatividade combinatória, que o Murilo
+
+718
+00:30:11,188 --> 00:30:13,188
+ganho aqui no Brasil, chama de combinatividade.
+
+719
+00:30:13,308 --> 00:30:15,068
+Muita gente ficou conhecendo combinatividade
+
+720
+00:30:15,068 --> 00:30:17,348
+assim. Gerar algo novo a partir
+
+721
+00:30:17,348 --> 00:30:19,328
+de combinações de ideias já existentes.
+
+722
+00:30:19,508 --> 00:30:21,108
+Isso aqui é o que a IA faz, é um tipo
+
+723
+00:30:21,108 --> 00:30:23,028
+de criatividade. E você consegue tirar
+
+724
+00:30:23,028 --> 00:30:24,988
+coisas inéditas daqui. Várias
+
+725
+00:30:25,468 --> 00:30:27,028
+descobertas e produtos novos
+
+726
+00:30:27,028 --> 00:30:29,168
+criados na humanidade vieram de combinações.
+
+727
+00:30:29,308 --> 00:30:31,168
+E você consegue colocar a IA
+
+728
+00:30:31,168 --> 00:30:33,288
+pra gerar combinações e trazer coisas inéditas.
+
+729
+00:30:33,428 --> 00:30:34,988
+É raro porque as pessoas não
+
+730
+00:30:34,988 --> 00:30:36,848
+direcionam a IA do jeito certo.
+
+731
+00:30:37,008 --> 00:30:38,428
+E o que é direcionar a IA do jeito certo?
+
+732
+00:30:38,588 --> 00:30:40,728
+Você pedir pra ela trabalhar num processo
+
+733
+00:30:40,728 --> 00:30:42,248
+processo combinatório de possibilidades
+
+734
+00:30:42,248 --> 00:30:44,308
+e você é o curador que escolhe as melhores ideias
+
+735
+00:30:44,308 --> 00:30:46,148
+que ela trouxer pra você. Mas você tem
+
+736
+00:30:46,148 --> 00:30:48,148
+que acionar ela do jeito certo, assim, pra ela
+
+737
+00:30:48,148 --> 00:30:50,208
+fazer isso. Arruma como é que faz pra acionar
+
+738
+00:30:50,208 --> 00:30:52,048
+ela do jeito certo. Não é difícil,
+
+739
+00:30:52,288 --> 00:30:54,248
+a gente vai passar aqui por esses processos também,
+
+740
+00:30:54,408 --> 00:30:56,128
+mas principalmente entenda o seguinte,
+
+741
+00:30:56,768 --> 00:30:58,148
+quando você vai combinar, você
+
+742
+00:30:58,148 --> 00:31:00,168
+precisa de pelo menos dois lados, mas
+
+743
+00:31:00,168 --> 00:31:02,268
+pode ter três, quatro lados, e aí você
+
+744
+00:31:02,268 --> 00:31:04,228
+combina tipos de coisas diferentes
+
+745
+00:31:04,228 --> 00:31:06,088
+em aleatoriedade.
+
+746
+00:31:06,128 --> 00:31:08,028
+Você consegue pedir a Yá pra fazer isso
+
+747
+00:31:08,028 --> 00:31:09,908
+também e ajustar os parâmetros dela
+
+748
+00:31:09,908 --> 00:31:10,888
+ela prova a fazer isso, tá?
+
+749
+00:31:11,388 --> 00:31:13,328
+E aí, esse tipo de criatividade entra.
+
+750
+00:31:14,428 --> 00:31:15,748
+Criatividade exploratória, que a Margaret
+
+751
+00:31:15,748 --> 00:31:17,608
+Bolden colocou aqui também, que é investigar
+
+752
+00:31:17,608 --> 00:31:19,928
+profundamente um espaço conceitual,
+
+753
+00:31:19,968 --> 00:31:21,808
+que é um conjunto de regras, estilos e
+
+754
+00:31:21,808 --> 00:31:23,888
+linguagens, e encontrar novas ideias dentro dele.
+
+755
+00:31:24,028 --> 00:31:25,888
+E adivinha? A IA consegue fazer isso
+
+756
+00:31:25,888 --> 00:31:26,248
+aqui também.
+
+757
+00:31:28,796 --> 00:31:31,016
+desde que você direcione ela.
+
+758
+00:31:31,336 --> 00:31:33,516
+Se você coloca isso aqui no prompt da IA,
+
+759
+00:31:33,616 --> 00:31:35,676
+mas no prompt da IA de LLM primeiro,
+
+760
+00:31:35,736 --> 00:31:36,356
+aí vem processo.
+
+761
+00:31:36,816 --> 00:31:37,956
+Vocês vão perceber isso.
+
+762
+00:31:38,196 --> 00:31:41,996
+A diferença de quem sabe criar produto,
+
+763
+00:31:42,176 --> 00:31:46,096
+criar story, criar projetos inteiros com IA,
+
+764
+00:31:46,116 --> 00:31:47,796
+para quem só sabe lá gerar uma imagem,
+
+765
+00:31:48,296 --> 00:31:49,236
+está no processo.
+
+766
+00:31:49,636 --> 00:31:51,716
+Então o processo muitas vezes não começa direto
+
+767
+00:31:51,716 --> 00:31:52,596
+gerando o prompt da imagem,
+
+768
+00:31:52,756 --> 00:31:54,076
+mas definindo o escopo do projeto.
+
+769
+00:31:54,456 --> 00:31:55,796
+Dentro dessa definição de escopo,
+
+770
+00:31:55,876 --> 00:31:57,756
+você gera alguns prompts que são, por exemplo,
+
+771
+00:31:57,756 --> 00:31:58,856
+de prompts exploratórios.
+
+772
+00:31:59,016 --> 00:32:00,056
+Juan, mas me dá um exemplo,
+
+773
+00:32:00,096 --> 00:32:00,776
+mostra na prática.
+
+774
+00:32:00,836 --> 00:32:02,096
+Vamos lá, vamos mostrar na prática
+
+775
+00:32:02,096 --> 00:32:02,656
+aqui para vocês,
+
+776
+00:32:03,136 --> 00:32:04,736
+que eu sei que isso vai deixar vocês
+
+777
+00:32:04,736 --> 00:32:06,916
+um pouco mais abertos.
+
+778
+00:32:06,956 --> 00:32:07,976
+Vou pegar o Cloud dessa vez.
+
+779
+00:32:08,216 --> 00:32:09,256
+Se eu jogo isso aqui,
+
+780
+00:32:09,296 --> 00:32:09,896
+falo para ele o seguinte,
+
+781
+00:32:09,996 --> 00:32:11,496
+olha, gere um prompt.
+
+782
+00:32:14,588 --> 00:32:18,508
+Gera um prompt detalhando essa abordagem.
+
+783
+00:32:19,528 --> 00:32:21,288
+Aprendi com a Margaret.
+
+784
+00:32:22,528 --> 00:32:23,988
+Margaret Holden.
+
+785
+00:32:26,044 --> 00:32:31,104
+para direcionarmos as IAs.
+
+786
+00:32:32,796 --> 00:32:40,536
+gerarem ideias novas dentro de contextos específicos, quebrando paradigmas.
+
+787
+00:32:40,676 --> 00:32:45,016
+É um desafio isso aqui, mas ainda assim funciona de um jeito bem curioso.
+
+788
+00:32:45,036 --> 00:32:48,416
+A ideia é gerar um prompt.
+
+789
+00:32:49,884 --> 00:32:56,444
+para uma IA que vai trabalhar com outras IAs em paralelo.
+
+790
+00:32:56,824 --> 00:32:58,624
+Aí ela vai gerar o prompt aqui para a gente.
+
+791
+00:32:58,684 --> 00:33:00,684
+Eu posso pegar esse prompt e usar no próprio code aqui.
+
+792
+00:33:00,764 --> 00:33:04,784
+Eu posso usar no terminal também, só para deixar vocês hypadinhos aí.
+
+793
+00:33:06,556 --> 00:33:07,636
+Lembrando de uma coisa, tá?
+
+794
+00:33:08,176 --> 00:33:10,056
+Usar IA aqui no modo avançado,
+
+795
+00:33:10,836 --> 00:33:11,996
+a gente vai ter um evento,
+
+796
+00:33:12,236 --> 00:33:14,516
+que é fora aqui dos cursos gratuitos,
+
+797
+00:33:15,076 --> 00:33:16,936
+nos dias 11 e 12 de abril,
+
+798
+00:33:16,976 --> 00:33:17,976
+que se chama Atlas.
+
+799
+00:33:18,336 --> 00:33:20,256
+E nesse evento do Atlas eu vou ensinar,
+
+800
+00:33:20,376 --> 00:33:23,016
+eu vou criar na frente de vocês usando IA no modo avançado.
+
+801
+00:33:23,036 --> 00:33:26,056
+É totalmente prático, é bem diferente de um curso aqui, né?
+
+802
+00:33:27,356 --> 00:33:29,616
+E eu vou usar nesse modo avançado aqui,
+
+803
+00:33:29,696 --> 00:33:32,556
+vocês vão me ver usando IA aqui no modo Squared também.
+
+804
+00:33:33,496 --> 00:33:34,956
+Prompt e pronto em Markdown,
+
+805
+00:33:34,956 --> 00:33:36,656
+qual que é o formato que eu quero
+
+806
+00:33:37,276 --> 00:33:38,736
+vou falar pra ele, escreve
+
+807
+00:33:38,736 --> 00:33:40,836
+aqui mesmo, só pra
+
+808
+00:33:40,836 --> 00:33:42,836
+a gente fazer, qual o contexto
+
+809
+00:33:42,836 --> 00:33:44,896
+principal, isso aqui é uma coisa legal, tá vendo
+
+810
+00:33:44,896 --> 00:33:46,696
+a própria IA está
+
+811
+00:33:47,496 --> 00:33:48,956
+limitando as pessoas pra que as
+
+812
+00:33:48,956 --> 00:33:50,916
+pessoas não cometam os erros que eu
+
+813
+00:33:50,916 --> 00:33:52,956
+acabei de falar, então o Cloud, por exemplo, ele vai
+
+814
+00:33:52,956 --> 00:33:55,056
+te fazendo perguntas pra direcionar
+
+815
+00:33:55,056 --> 00:33:56,476
+melhor o que ele vai gerar pra você
+
+816
+00:33:56,476 --> 00:33:58,536
+assim ele consegue ser mais preciso
+
+817
+00:33:58,536 --> 00:34:00,536
+ou seja, ele mesmo está afunilando
+
+818
+00:34:00,536 --> 00:34:02,936
+só dando sugestões do que é aqui
+
+819
+00:34:02,936 --> 00:34:04,996
+então você quer criação de conteúdo
+
+820
+00:34:04,996 --> 00:34:06,716
+design system, estratégia de produto
+
+821
+00:34:07,136 --> 00:34:08,696
+quero algo genérico a qualquer
+
+822
+00:34:09,916 --> 00:34:11,336
+domínio, então deixa ele gerar
+
+823
+00:34:11,336 --> 00:34:12,156
+aqui pra gente também
+
+824
+00:34:12,856 --> 00:34:15,096
+e ele vai pegando isso de acordo com as suas memórias
+
+825
+00:34:15,096 --> 00:34:17,596
+ou seja, evitem
+
+826
+00:34:17,596 --> 00:34:19,336
+falar, ah, a IA não faz isso, a IA não faz
+
+827
+00:34:19,336 --> 00:34:21,476
+aquilo, estatisticamente ela faz
+
+828
+00:34:21,476 --> 00:34:23,296
+e se estatisticamente ela faz
+
+829
+00:34:23,296 --> 00:34:25,656
+é uma questão de tempo até os próprios produtos se adaptarem
+
+830
+00:34:25,656 --> 00:34:27,336
+pra incluir isso, então olha que simples
+
+831
+00:34:27,336 --> 00:34:29,436
+galera, eu joguei um modelo mental
+
+832
+00:34:29,436 --> 00:34:31,336
+e vocês vão perceber isso cada vez mais
+
+833
+00:34:31,336 --> 00:34:35,016
+Mas o que faz a diferença entre quem usa isso no modo avançado
+
+834
+00:34:35,016 --> 00:34:38,236
+para quem usa no modo básico, não é o tamanho do prompt,
+
+835
+00:34:38,476 --> 00:34:41,376
+não é palavra secreta, é modelo mental e clareza mental.
+
+836
+00:34:41,976 --> 00:34:43,856
+Inclusive, quem quiser aprender mais sobre isso,
+
+837
+00:34:43,916 --> 00:34:46,256
+só para deixar o conselho aqui para vocês,
+
+838
+00:34:46,296 --> 00:34:48,376
+dentro da plataforma da Overlens a gente tem o Overchat.
+
+839
+00:34:48,776 --> 00:34:53,396
+E no Overchat vocês têm uma biblioteca de modelos mentais.
+
+840
+00:34:53,676 --> 00:34:56,996
+Então são, se eu não me engano, são 96 modelos mentais
+
+841
+00:34:56,996 --> 00:34:59,576
+que a gente tem aqui agora, modelos mentais, está vendo?
+
+842
+00:34:59,576 --> 00:35:04,736
+E aí aqui eu tenho lentes simbólicas, pensamento lógico, pensamento cognitivo, estratégico.
+
+843
+00:35:04,776 --> 00:35:07,796
+Aqui, na verdade, é pensamento interno, cognitivo.
+
+844
+00:35:07,796 --> 00:35:10,876
+Pensamento prático, estratégico, quantitativo, relacional.
+
+845
+00:35:11,156 --> 00:35:13,496
+E são vários prompts aqui de modelos mentais.
+
+846
+00:35:13,616 --> 00:35:16,156
+Se você olhar, são prompts extremamente curtos e simples,
+
+847
+00:35:16,276 --> 00:35:19,616
+mas eles carregam um modelo mental que vai te ajudar a chegar em resultados diferentes.
+
+848
+00:35:19,796 --> 00:35:23,596
+É uma ferramenta poderosa que você pode começar a utilizar na Overlens.
+
+849
+00:35:23,696 --> 00:35:25,916
+Até quem tem conta gratuita na Overlens pode utilizar.
+
+850
+00:35:26,116 --> 00:35:28,296
+Quando você participa das lives, você ganha 10 fractais.
+
+851
+00:35:28,296 --> 00:35:30,676
+Hoje eu vou dar 10 fractais para vocês aqui.
+
+852
+00:35:30,756 --> 00:35:32,856
+Cada fractal é um crédito, né?
+
+853
+00:35:32,916 --> 00:35:35,936
+Então, cada mensagem que você manda, você gasta um fractal aqui dentro.
+
+854
+00:35:36,176 --> 00:35:38,956
+E aí você pode utilizar os modelos mentais também, beleza?
+
+855
+00:35:38,996 --> 00:35:40,676
+Então, é bem poderoso.
+
+856
+00:35:40,776 --> 00:35:43,196
+Vejam a biblioteca aqui só para dar uma dica para vocês.
+
+857
+00:35:43,716 --> 00:35:45,976
+E aí, só fechando aqui a Margaret, né?
+
+858
+00:35:46,536 --> 00:35:47,876
+Deixa eu achar ela aqui de novo.
+
+859
+00:35:48,696 --> 00:35:51,516
+Fechando a Margaret para vocês, tem também o transformacional,
+
+860
+00:35:51,536 --> 00:35:55,076
+que é mudar as próprias regras do espaço, expandindo ou redefinindo o que é possível.
+
+861
+00:35:55,076 --> 00:36:00,676
+Você também pode pedir a IA para fazer isso de maneira exploratória mesmo,
+
+862
+00:36:00,736 --> 00:36:02,176
+mas transformando as regras.
+
+863
+00:36:02,356 --> 00:36:04,296
+Isso aqui é muito usado como e se?
+
+864
+00:36:04,376 --> 00:36:05,296
+E se fosse assim?
+
+865
+00:36:05,416 --> 00:36:06,176
+E se fosse assim?
+
+866
+00:36:06,216 --> 00:36:06,976
+E se fosse assim?
+
+867
+00:36:07,136 --> 00:36:11,036
+Quando você começa a conduzir a IA assim, ela traz muito insumo para você.
+
+868
+00:36:11,176 --> 00:36:14,116
+É bizarro a quantidade de insumo que ela traz, beleza?
+
+869
+00:36:14,356 --> 00:36:16,896
+Então dá para você avançar muito criativamente falando.
+
+870
+00:36:18,156 --> 00:36:22,196
+Logo, rebatendo aqui isso que era uma limitação,
+
+871
+00:36:22,216 --> 00:36:23,736
+é uma limitação para a maioria das pessoas,
+
+872
+00:36:23,736 --> 00:36:25,996
+mas para quem sabe usar IA não é uma limitação,
+
+873
+00:36:26,016 --> 00:36:28,276
+criatividade verdadeiramente inédita,
+
+874
+00:36:28,976 --> 00:36:31,096
+ela é rara, concordo que ela é rara,
+
+875
+00:36:31,136 --> 00:36:34,196
+mais por conta das pessoas usando do que por conta da IA.
+
+876
+00:36:34,476 --> 00:36:36,336
+Porque estatisticamente falando,
+
+877
+00:36:36,596 --> 00:36:39,876
+a quantidade de possibilidades que a IA pode trazer de algo para você
+
+878
+00:36:40,736 --> 00:36:42,356
+tende ao infinito, tá?
+
+879
+00:36:42,496 --> 00:36:44,876
+Tende ao infinito, quando a gente fala numericamente.
+
+880
+00:36:46,076 --> 00:36:48,736
+Texto embutido em imagem é inconsistente.
+
+881
+00:36:48,896 --> 00:36:50,096
+Letras deformam, quebram.
+
+882
+00:36:50,176 --> 00:36:53,156
+Isso aqui é uma coisa que cada vez mais tem sumido.
+
+883
+00:36:53,256 --> 00:36:54,496
+Era uma coisa muito comum.
+
+884
+00:36:54,516 --> 00:36:56,796
+Se você escutar as pessoas falarem dessa limitação aqui,
+
+885
+00:36:56,856 --> 00:36:58,616
+hoje já nem é mais tanto uma limitação assim.
+
+886
+00:36:58,736 --> 00:37:01,216
+Quando a gente vem num nanobanana aqui,
+
+887
+00:37:01,276 --> 00:37:02,336
+vamos pegar aqui de exemplo, né?
+
+888
+00:37:02,396 --> 00:37:03,556
+Vou gerar uma nova imagem.
+
+889
+00:37:04,596 --> 00:37:10,976
+Gere um anúncio do Gemini vendendo o nanobanana.
+
+890
+00:37:12,016 --> 00:37:13,276
+Escreva um textinho.
+
+891
+00:37:14,684 --> 00:37:15,104
+Curto.
+
+892
+00:37:16,572 --> 00:37:20,392
+De Headline, Subtitle e CTA.
+
+893
+00:37:21,232 --> 00:37:23,992
+Aí ele vai escrever aqui, eu vou pegar esse textinho curto dele
+
+894
+00:37:23,992 --> 00:37:25,432
+e vou pedir para ele gerar uma imagem para a gente.
+
+895
+00:37:25,992 --> 00:37:28,992
+Então aqui, pega isso aqui agora, dou um Ctrl C, venho para cá,
+
+896
+00:37:29,492 --> 00:37:33,252
+coloco no Nano Banana, coloco aqui no modo Pro, que vai ficar mais legal.
+
+897
+00:37:33,312 --> 00:37:35,112
+O Pro gera texto melhor, né?
+
+898
+00:37:35,632 --> 00:37:38,452
+Solto isso aqui e falo para ele aqui em cima.
+
+899
+00:37:38,512 --> 00:37:39,212
+Vou escrever aqui.
+
+900
+00:37:39,212 --> 00:37:39,332
+Aqui, ó.
+
+901
+00:37:40,952 --> 00:37:46,812
+Gere uma imagem de um anúncio vendendo o nano banana.
+
+902
+00:37:48,152 --> 00:37:53,572
+Ainda tem consistência, ele comete erros, mas é só gerar de novo.
+
+903
+00:37:53,572 --> 00:37:55,552
+Geralmente ele acerta muito bem.
+
+904
+00:37:56,764 --> 00:37:58,984
+Então funciona pra vocês. E se vocês quiserem
+
+905
+00:37:59,504 --> 00:38:00,584
+uma IA que
+
+906
+00:38:00,584 --> 00:38:02,604
+edita o texto depois, tem também
+
+907
+00:38:02,604 --> 00:38:04,424
+tem o ReCraft, tem o...
+
+908
+00:38:06,652 --> 00:38:08,992
+a gente tem a lista, eu vou mostrar a lista de ferramentas
+
+909
+00:38:08,992 --> 00:38:10,972
+pra vocês aqui já já, mas tem
+
+910
+00:38:10,972 --> 00:38:12,952
+o, eu esqueci o nome daquele
+
+911
+00:38:12,952 --> 00:38:15,032
+outro de design também, pra edição
+
+912
+00:38:15,832 --> 00:38:16,992
+daqui a pouco a gente chega lá
+
+913
+00:38:16,992 --> 00:38:18,192
+nele, eu mostro todos pra vocês
+
+914
+00:38:18,192 --> 00:38:21,132
+ele tá desenvolvendo o design, eu quero ver se ele vai gerar aqui pra gente
+
+915
+00:38:21,132 --> 00:38:23,032
+rapidinho, só pra eu quebrar aquele ponto
+
+916
+00:38:23,032 --> 00:38:23,972
+pra vocês, então vamos lá
+
+917
+00:38:24,772 --> 00:38:27,332
+ai, que imagem horrível, tá super genérico
+
+918
+00:38:27,332 --> 00:38:28,452
+por que que tá genérico?
+
+919
+00:38:28,572 --> 00:38:31,072
+eu não defini o caminho que eu queria
+
+920
+00:38:31,072 --> 00:38:32,912
+seguir, só de eu definir o caminho
+
+921
+00:38:32,912 --> 00:38:35,052
+já muda completamente, vou mostrar um hackzinho
+
+922
+00:38:35,052 --> 00:38:36,532
+bobo aqui pra vocês, besta
+
+923
+00:38:36,532 --> 00:38:38,792
+Só para vocês verem, depois a gente vai aprofundar.
+
+924
+00:38:38,932 --> 00:38:41,792
+Mas eu posso pegar aqui uma, pegar essa daqui, por exemplo,
+
+925
+00:38:42,352 --> 00:38:46,472
+pega essa imagem aqui, vou usar o mesmo prompt que eu usei aqui, tá?
+
+926
+00:38:47,132 --> 00:38:47,732
+Mesmo prompt.
+
+927
+00:38:47,852 --> 00:38:49,552
+Eu vou até, vou tentar fazer aqui direto.
+
+928
+00:38:50,412 --> 00:38:53,672
+Coloque o anúncio neste...
+
+929
+00:38:54,876 --> 00:38:55,456
+Estilo.
+
+930
+00:38:58,012 --> 00:39:01,252
+E remova o texto grande.
+
+931
+00:39:02,492 --> 00:39:03,452
+Deixe só title.
+
+932
+00:39:06,096 --> 00:39:09,716
+Aí ele vai fazer nesse design, porque ele precisa de referência, ele precisa de direção.
+
+933
+00:39:09,776 --> 00:39:16,156
+Essa direção pode vir descrita em texto ou pode vir como referência de imagens também, tá bom?
+
+934
+00:39:16,416 --> 00:39:18,496
+Não vai ter segredo, vocês vão ver aqui funcionando.
+
+935
+00:39:18,536 --> 00:39:22,136
+Enquanto ele gera aí, então isso aqui já não é mais tanto uma limitação assim.
+
+936
+00:39:22,276 --> 00:39:26,576
+Mas eu concordo que é inconsistente, às vezes dá errado em alguns casos, não é 100% perfeito.
+
+937
+00:39:27,396 --> 00:39:31,676
+Anatomia e micro detalhes ainda falham, isso é verdade, vocês vão ver isso em testes que a gente fez aqui.
+
+938
+00:39:32,396 --> 00:39:34,476
+Consistência de personagem e produto ainda é limitada.
+
+939
+00:39:34,476 --> 00:39:37,216
+Sim, não é tão fácil de fazer, mas dá para fazer.
+
+940
+00:39:37,536 --> 00:39:38,396
+Tem como fazer.
+
+941
+00:39:38,476 --> 00:39:40,536
+Já não é mais uma barreira.
+
+942
+00:39:40,616 --> 00:39:42,336
+Se você sabe fazer do jeito certo, funciona.
+
+943
+00:39:42,636 --> 00:39:45,596
+Desde que você descreva bem, analise quais são os principais elementos
+
+944
+00:39:45,596 --> 00:39:47,376
+e use imagens de referência.
+
+945
+00:39:47,696 --> 00:39:48,856
+Aqui agora ele está refinando.
+
+946
+00:39:48,916 --> 00:39:52,756
+Eu queria que ele gerasse rápido para a gente avançar aqui para a próxima aula.
+
+947
+00:39:57,244 --> 00:39:59,144
+Ele copiou aqui o texto também.
+
+948
+00:39:59,304 --> 00:40:00,624
+O ideal para fazer isso, tá?
+
+949
+00:40:00,704 --> 00:40:01,664
+Para mostrar aqui para vocês.
+
+950
+00:40:01,724 --> 00:40:02,284
+Deixa eu ver se ele vai...
+
+951
+00:40:02,284 --> 00:40:02,764
+Pegou.
+
+952
+00:40:03,024 --> 00:40:03,864
+É fazer assim, ó.
+
+953
+00:40:04,544 --> 00:40:06,644
+Cola aqui a imagem de referência.
+
+954
+00:40:07,364 --> 00:40:08,784
+E eu devia ter duplicado.
+
+955
+00:40:08,864 --> 00:40:09,044
+Opa.
+
+956
+00:40:10,780 --> 00:40:17,340
+Deixa eu pegar aqui o cola imagem, duplica isso aqui, e vou pegar aqui o antigo.
+
+957
+00:40:17,940 --> 00:40:20,760
+Hum, ele não salvou. Ah, é porque o outro tá pinado aqui.
+
+958
+00:40:22,780 --> 00:40:24,740
+E eu vou pegar aqui o textinho que a gente gerou.
+
+959
+00:40:25,180 --> 00:40:27,760
+Vocês vão ver que ele já vai fazer diferente agora.
+
+960
+00:40:29,596 --> 00:40:30,376
+Deixa ele gerando aqui.
+
+961
+00:40:31,076 --> 00:40:34,536
+Mas consistência de personagem ainda é limitada.
+
+962
+00:40:34,616 --> 00:40:37,116
+Mudança de modelo quebra reprodutibilidade.
+
+963
+00:40:37,116 --> 00:40:39,536
+Isso aqui é bem interessante mesmo, porque cada modelo,
+
+964
+00:40:40,216 --> 00:40:43,476
+ele traz ali a imagem baseada nos parâmetros dele.
+
+965
+00:40:43,636 --> 00:40:48,256
+Então, cada pixel que ele organizou ali, foi dentro do treinamento daquele modelo.
+
+966
+00:40:48,616 --> 00:40:51,576
+Quando você tenta ficar trocando de um modelo para o outro,
+
+967
+00:40:51,636 --> 00:40:57,256
+ou tenta cruzar eles, geralmente surgem erros, falhas nessa interpretação da IA também,
+
+968
+00:40:57,256 --> 00:40:59,016
+bem, e ela começa a errar pra você,
+
+969
+00:40:59,096 --> 00:41:01,196
+e alguns testes e fluxos que a gente fez aqui
+
+970
+00:41:01,196 --> 00:41:03,156
+aconteceu também. Olha que
+
+971
+00:41:03,156 --> 00:41:05,236
+interessante, tem gente que já gera imagem com IA
+
+972
+00:41:05,236 --> 00:41:07,016
+e às vezes nem sabia disso,
+
+973
+00:41:07,176 --> 00:41:09,176
+porque não foi nesse nível teórico
+
+974
+00:41:09,176 --> 00:41:11,276
+aqui de como que as IAs funcionam, eu tô entregando
+
+975
+00:41:11,276 --> 00:41:12,636
+isso pra vocês, vai ficar mais fácil de
+
+976
+00:41:13,096 --> 00:41:15,236
+usar, tá? Aqui tem uma açãozinha,
+
+977
+00:41:15,276 --> 00:41:17,176
+próximo passo é obrigatório, assumir controle do
+
+978
+00:41:17,176 --> 00:41:19,336
+processo, intenção clara, variáveis fixas,
+
+979
+00:41:19,356 --> 00:41:21,096
+iteração disciplinada, avaliação
+
+980
+00:41:21,096 --> 00:41:23,196
+crítica. Basicamente o que tá
+
+981
+00:41:23,196 --> 00:41:25,176
+aqui, né, texto feito por IA, esse no caso,
+
+982
+00:41:25,176 --> 00:41:27,576
+mas basicamente o que está escrito aqui é
+
+983
+00:41:27,576 --> 00:41:29,876
+você tem que assumir a direção
+
+984
+00:41:29,876 --> 00:41:31,676
+do projeto e a IA vai te entregar
+
+985
+00:41:31,676 --> 00:41:33,736
+se ela não está te entregando o que quer
+
+986
+00:41:33,736 --> 00:41:35,336
+provavelmente é uma falha na sua
+
+987
+00:41:36,276 --> 00:41:37,836
+direção, ferramenta poderosa mas não
+
+988
+00:41:37,836 --> 00:41:39,836
+é autora, a autoria é sua e você
+
+989
+00:41:39,836 --> 00:41:41,176
+decide se ela irá
+
+990
+00:41:41,776 --> 00:41:43,936
+se ela será acidental ou deliberada
+
+991
+00:41:43,936 --> 00:41:45,736
+se você vai direcionar ou se você também
+
+992
+00:41:45,736 --> 00:41:47,176
+está aberto para ver o que ela vai trazer
+
+993
+00:41:47,176 --> 00:41:49,656
+bom, aqui a gente, o Nanobanana
+
+994
+00:41:49,656 --> 00:41:51,876
+faz isso, é importante eu falar aqui pra vocês
+
+995
+00:41:51,876 --> 00:41:53,796
+até porque isso aqui entra em questões
+
+996
+00:41:55,536 --> 00:41:55,916
+importantes
+
+997
+00:41:55,916 --> 00:41:58,136
+de plágio, cópia, que vocês devem
+
+998
+00:41:58,136 --> 00:42:00,576
+evitar sempre, tá? O nanobanana
+
+999
+00:42:01,376 --> 00:42:01,756
+aqui,
+
+1000
+00:42:01,916 --> 00:42:03,956
+ele não é simplesmente um modelo de difusão,
+
+1001
+00:42:03,996 --> 00:42:05,656
+ele é um modelo de edição de imagens.
+
+1002
+00:42:05,836 --> 00:42:08,216
+Então ele literalmente pega a imagem que você
+
+1003
+00:42:08,216 --> 00:42:10,016
+colocou aqui e edita por cima.
+
+1004
+00:42:10,516 --> 00:42:12,016
+Isso pode ser muito legal,
+
+1005
+00:42:12,056 --> 00:42:14,096
+mas também você tem que tomar muito cuidado na hora de
+
+1006
+00:42:14,096 --> 00:42:16,156
+usar, e eu vou falar disso em uma das aulas,
+
+1007
+00:42:16,196 --> 00:42:18,036
+vou até deixar aberto aqui, que é a ética no uso
+
+1008
+00:42:18,036 --> 00:42:20,116
+da IA, tá? A gente já vai falar sobre
+
+1009
+00:42:20,116 --> 00:42:22,276
+ela, beleza? Então, só pra gente
+
+1010
+00:42:22,276 --> 00:42:24,116
+fechar essa aulinha aqui de limitações,
+
+1011
+00:42:24,156 --> 00:42:26,236
+trouxe algumas das mais importantes, se precisar
+
+1012
+00:42:26,236 --> 00:42:27,996
+você volta e revê na gravação,
+
+1013
+00:42:28,016 --> 00:42:30,016
+o material vai ficar embaixo da gravação também
+
+1014
+00:42:30,016 --> 00:42:31,916
+pra você aí, vamos seguir agora pra nossa
+
+1015
+00:42:31,916 --> 00:42:34,136
+próxima aula. E aí, pessoal,
+
+1016
+00:42:34,696 --> 00:42:36,036
+vamos pra nossa próxima aula,
+
+1017
+00:42:36,076 --> 00:42:38,116
+até agora eu quero saber como que vocês estão.
+
+1018
+00:42:39,452 --> 00:42:42,192
+Lembrando que o curso de imagens é hoje e quinta.
+
+1019
+00:42:42,232 --> 00:42:44,972
+Hoje já vai ter ferramenta, hoje já vai ter prática mesmo, tá?
+
+1020
+00:42:45,272 --> 00:42:46,412
+Só para atualizar vocês.
+
+1021
+00:42:48,092 --> 00:42:51,012
+Porque às vezes vocês estão vendo eu aqui nos erros e nas falhas e estão pensando assim,
+
+1022
+00:42:51,092 --> 00:42:54,072
+ah, eu já sei dessas coisas.
+
+1023
+00:42:54,252 --> 00:42:56,292
+Fica com calma para quem já está mais avançado aí.
+
+1024
+00:42:58,716 --> 00:43:01,036
+Gente, porque toda vez que usa o Gemini, ele só copia.
+
+1025
+00:43:01,056 --> 00:43:02,796
+Tem relação com o prompt que usa, tem relação
+
+1026
+00:43:02,796 --> 00:43:04,976
+se você está usando imagem de referência ou não.
+
+1027
+00:43:05,116 --> 00:43:07,116
+São questões importantes para levar em consideração.
+
+1028
+00:43:07,456 --> 00:43:08,856
+A Zemmour falou do Idlegram,
+
+1029
+00:43:08,936 --> 00:43:10,756
+que é um outro modelo bom também. A gente vai
+
+1030
+00:43:10,756 --> 00:43:11,696
+acabar citando ele aqui.
+
+1031
+00:43:13,276 --> 00:43:14,296
+E aí a gente vai seguindo.
+
+1032
+00:43:14,736 --> 00:43:16,756
+Vai falar sobre essa criação de modelos mentais
+
+1033
+00:43:16,756 --> 00:43:17,516
+para facilitar o workflow?
+
+1034
+00:43:17,776 --> 00:43:18,516
+Sim, Lívia.
+
+1035
+00:43:19,016 --> 00:43:21,676
+No curso de imagem, a gente vai falar de modelos mentais de imagem.
+
+1036
+00:43:21,876 --> 00:43:23,356
+No de vídeo, a gente fala do de vídeo.
+
+1037
+00:43:23,436 --> 00:43:24,756
+No de música, a gente fala do de música.
+
+1038
+00:43:24,976 --> 00:43:26,896
+A gente vai usando os modelos mentais aqui
+
+1039
+00:43:26,896 --> 00:43:28,456
+ao decorrer dos cursos, tá?
+
+1040
+00:43:28,616 --> 00:43:29,976
+Então é só ir acompanhando com a gente.
+
+1041
+00:43:33,596 --> 00:43:34,156
+Então, vamos lá.
+
+1042
+00:43:35,436 --> 00:43:36,056
+Próxima aula.
+
+1043
+00:43:38,108 --> 00:43:41,368
+Agora a gente vai para a próxima aula, que é elementos de uma boa imagem.
+
+1044
+00:43:41,748 --> 00:43:43,268
+Aqui começa a ficar interessante.
+
+1045
+00:43:44,308 --> 00:43:45,428
+Aqui o papo fica bom.
+
+1046
+00:43:45,968 --> 00:43:46,748
+Vamos lá, então.
+
+1047
+00:43:46,888 --> 00:43:48,108
+Só estou bebendo uma aguinha aqui.
+
+1048
+00:43:48,948 --> 00:43:51,088
+Agora tem 1h40 que estamos aqui.
+
+1049
+00:43:51,248 --> 00:43:52,188
+Pô, estamos bem, né?
+
+1050
+00:43:52,828 --> 00:43:53,968
+Temos 2h20 ainda.
+
+1051
+00:43:56,796 --> 00:43:57,136
+Vamos lá.
+
+1052
+00:43:58,496 --> 00:43:58,796
+Acompanha.
+
+1053
+00:43:58,816 --> 00:43:59,856
+A gente vai fazer uma pausa.
+
+1054
+00:43:59,856 --> 00:44:00,676
+Não agora, tá?
+
+1055
+00:44:00,756 --> 00:44:02,576
+A gente vai fazer uma pausa ali por volta de...
+
+1056
+00:44:03,676 --> 00:44:05,796
+4h20, a gente faz uma pausa de 20 minutinhos, tá?
+
+1057
+00:44:05,896 --> 00:44:08,016
+Mas agora entra uma aula boa, então não vamos fazer pausa não.
+
+1058
+00:44:08,156 --> 00:44:12,476
+Só acompanha comigo, mas eu tinha falado com vocês que 3h30 eu iria fazer o próximo desafio.
+
+1059
+00:44:12,536 --> 00:44:13,776
+E ele vai vir aqui agora.
+
+1060
+00:44:14,696 --> 00:44:17,736
+Gostaram até aqui? A gente tá só colocando o pezinho na água.
+
+1061
+00:44:17,856 --> 00:44:21,576
+A gente tá só começando aqui a entender a lógica.
+
+1062
+00:44:21,616 --> 00:44:22,756
+Tá ficando interessante.
+
+1063
+00:44:23,956 --> 00:44:25,676
+Eu vou fazer um desafio pra vocês então.
+
+1064
+00:44:26,636 --> 00:44:32,256
+Daqui pra frente, vocês vão desejar muito ter a gravação pra rever essa aula.
+
+1065
+00:44:33,076 --> 00:44:33,816
+Vocês vão desejar muito.
+
+1066
+00:44:33,896 --> 00:44:35,836
+E tem muita gente aqui que está assistindo gratuitamente.
+
+1067
+00:44:36,376 --> 00:44:41,456
+E se eu deixasse disponível a gravação até quinta para vocês?
+
+1068
+00:44:41,796 --> 00:44:43,016
+Eu posso fazer isso.
+
+1069
+00:44:43,176 --> 00:44:44,556
+Mas vai ter que ser uma troca.
+
+1070
+00:44:44,576 --> 00:44:45,536
+É um desafio.
+
+1071
+00:44:46,876 --> 00:44:56,696
+Se a gente bater aqui, ao vivo, até as 4h20, 230 pessoas, a gente está em 200,
+
+1072
+00:44:57,396 --> 00:44:59,716
+deixa eu ver aqui quantas pessoas que nós estamos agora.
+
+1073
+00:45:02,172 --> 00:45:05,372
+Nós estamos aqui agora, no YouTube está 173.
+
+1074
+00:45:05,832 --> 00:45:10,072
+Aqui na nossa plataforma, no chat, está anunciando aqui 196,
+
+1075
+00:45:10,872 --> 00:45:12,052
+mas eu vou considerar do YouTube.
+
+1076
+00:45:12,852 --> 00:45:14,872
+Então, vou mudar, vou considerar do YouTube.
+
+1077
+00:45:14,992 --> 00:45:16,172
+O YouTube está 173.
+
+1078
+00:45:16,732 --> 00:45:22,012
+Se a gente tiver no YouTube 200, vai a mesma média.
+
+1079
+00:45:22,172 --> 00:45:24,972
+Se lá no YouTube tiverem 200 pessoas até 4,20,
+
+1080
+00:45:26,072 --> 00:45:28,172
+eu vou deixar essa aula aqui disponível.
+
+1081
+00:45:29,436 --> 00:45:34,016
+por dois dias, até quinta, para vocês assistirem.
+
+1082
+00:45:34,476 --> 00:45:35,756
+Então, o que vocês têm que fazer agora?
+
+1083
+00:45:35,936 --> 00:45:38,556
+Vocês têm que mandar esse link aqui,
+
+1084
+00:45:38,616 --> 00:45:40,276
+que embaixo tem o link do compartilhar,
+
+1085
+00:45:40,716 --> 00:45:42,116
+mandem esse link para amigos de vocês
+
+1086
+00:45:42,116 --> 00:45:43,876
+que gostariam de aprender mais sobre gerar imagem,
+
+1087
+00:45:44,036 --> 00:45:46,876
+porque agora eu vou entrar nos elementos de uma boa imagem.
+
+1088
+00:45:47,016 --> 00:45:50,456
+E eu vou começar a explicar a estrutura desses elementos aqui.
+
+1089
+00:45:50,876 --> 00:45:53,236
+Isso, inclusive, vai além da IA.
+
+1090
+00:45:53,376 --> 00:45:55,956
+É sobre você saber gerar boas imagens, beleza?
+
+1091
+00:45:56,156 --> 00:45:58,816
+Então, levem isso em consideração.
+
+1092
+00:45:59,436 --> 00:46:01,556
+Vai ser bom. E aí, pra isso, a gente tem
+
+1093
+00:46:01,556 --> 00:46:03,136
+que subir. Peguem o link, mandem nos grupos.
+
+1094
+00:46:03,636 --> 00:46:05,436
+Eu vi que já subiu cinco pessoas ali,
+
+1095
+00:46:05,536 --> 00:46:07,596
+mas a gente tem que bater duzentas pessoas.
+
+1096
+00:46:07,776 --> 00:46:09,616
+Tá faltando vinte e cinco pessoas aqui.
+
+1097
+00:46:10,356 --> 00:46:11,376
+Vinte e nove agora, ó.
+
+1098
+00:46:11,636 --> 00:46:12,396
+Algumas foram embora.
+
+1099
+00:46:14,016 --> 00:46:15,476
+Então, tá aí o desafio.
+
+1100
+00:46:15,756 --> 00:46:17,396
+É a chance de vocês, enquanto
+
+1101
+00:46:17,396 --> 00:46:18,756
+eu vou pra próxima parte agora,
+
+1102
+00:46:19,176 --> 00:46:21,416
+é a chance de vocês trazerem outras pessoas
+
+1103
+00:46:21,416 --> 00:46:23,556
+pra cá até quatro e vinte. Quando der quatro e vinte
+
+1104
+00:46:23,556 --> 00:46:25,556
+eu vou fazer a pausa. Se tiverem duzentas pessoas
+
+1105
+00:46:25,556 --> 00:46:26,996
+ao vivo, eu...
+
+1106
+00:46:28,540 --> 00:46:31,580
+Eu libero dois dias da gravação pra vocês assistirem.
+
+1107
+00:46:32,700 --> 00:46:34,740
+O Rafael falou, Wilson, peço que não faça spam,
+
+1108
+00:46:34,840 --> 00:46:36,260
+senão tomaremos algumas medidas.
+
+1109
+00:46:37,756 --> 00:46:38,536
+Não fiz spam.
+
+1110
+00:46:39,496 --> 00:46:42,736
+Mas sobre o seu problema, eu já estava digitando a resposta.
+
+1111
+00:46:43,376 --> 00:46:44,896
+Às vezes deu bug aí, né? Sei lá.
+
+1112
+00:46:45,116 --> 00:46:46,116
+Enfim, estão seguindo.
+
+1113
+00:46:46,316 --> 00:46:48,136
+Vamos lá então, vamos entrar na próxima aula.
+
+1114
+00:46:48,176 --> 00:46:49,696
+Já está avisado para vocês.
+
+1115
+00:46:51,324 --> 00:46:52,124
+Quero ver, hein?
+
+1116
+00:46:52,164 --> 00:46:54,324
+A 4h20, 200 pessoas.
+
+1117
+00:46:54,824 --> 00:46:55,324
+Vamos ver.
+
+1118
+00:46:55,624 --> 00:46:56,844
+Vou entrar na próxima aula aqui,
+
+1119
+00:46:56,904 --> 00:46:59,684
+que a gente vai falar sobre os elementos de uma boa imagem.
+

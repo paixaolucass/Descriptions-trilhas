@@ -1,0 +1,389 @@
+# Video: Aula 17 _ Como Gerar Leads Gratuitamente com IA e Ferramentas.mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-27 19:43
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:00 --> 00:00:02:13] Então, agora que você viu as vantagens da prospecção fria,
+[00:00:02:13 --> 00:00:06:24] eu trouxe aqui algumas formas de a gente procurar clientes gratuitamente.
+[00:00:07:00 --> 00:00:10:17] Então, aqui a primeira ideia é utilizar um prompt para IA.
+[00:00:11:02 --> 00:00:13:18] Depois eu trouxe algumas plataformas aqui de banco de dados
+[00:00:13:18 --> 00:00:17:23] e algumas plataformas de extração de leads que a gente vai usar ao vivo aqui.
+[00:00:18:07 --> 00:00:22:08] Então, vamos começar primeiro por esse prompt com IA.
+[00:00:23:14 --> 00:00:25:24] Eu utilizo muito pouca IA para procurar ICP,
+[00:00:25:26 --> 00:00:28:05] para procurar o meu perfil ideal de cliente, para buscar leads.
+[00:00:28:15 --> 00:00:31:17] E o maior problema da IA é que ela tem muita dificuldade
+[00:00:31:17 --> 00:00:34:14] em encontrar faturamento, encontrar empresas
+[00:00:34:14 --> 00:00:36:05] dentro do seu perfil ideal de cliente.
+[00:00:36:05 --> 00:00:38:23] Ela é muito boa para pesquisa, é muito boa, por exemplo,
+[00:00:38:23 --> 00:00:41:27] se você tem um lead já, um perfil ideal de cliente,
+[00:00:41:27 --> 00:00:44:00] já encontrar uma empresa e você consegue colocar,
+[00:00:44:10 --> 00:00:47:23] jogar ela para a IA, jogar os contatos, os dados desse lead
+[00:00:47:23 --> 00:00:50:24] e você consegue pedir para ela encontrar empresas parecidas.
+[00:00:50:24 --> 00:00:54:18] Aí ela até consegue encontrar mais ou menos alguns leads melhores,
+[00:00:54:27 --> 00:00:58:03] mas a busca a partir do zero é um pouquinho mais complicada
+[00:00:58:03 --> 00:00:59:04] e eu já vou mostrar por quê.
+[00:00:59:14 --> 00:01:01:23] Então esse prompt aqui, qual que é a ideia dele?
+[00:01:02:10 --> 00:01:05:18] É a gente alterar aqui abaixo desse dado do ICP,
+[00:01:05:21 --> 00:01:07:14] a gente coloca aqui o nicho-alvo,
+[00:01:07:17 --> 00:01:10:05] então pensa ali num segmento, num nicho,
+[00:01:10:05 --> 00:01:11:27] tenta ser um pouquinho mais específico aqui
+[00:01:11:27 --> 00:01:14:09] do tipo de empresa que você quer atender.
+[00:01:14:13 --> 00:01:17:17] Você não precisa funilar demais o seu perfil de cliente,
+[00:01:17:17 --> 00:01:19:26] mas sempre ali dentro você tem alguns segmentos,
+[00:01:19:26 --> 00:01:25:14] Tem alguns nichos que são ideais, que eles se encaixam muito bem dentro das necessidades que você procurou.
+[00:01:25:18 --> 00:01:29:18] Então aqui eu estou usando empresas de software SaaS que vendem para outras empresas.
+[00:01:29:23 --> 00:01:30:18] Então elas são B2B.
+[00:01:30:29 --> 00:01:35:06] Depois de localização, pensa aí na localização que você gostaria de atingir.
+[00:01:35:09 --> 00:01:39:03] E por último, a gente vai usar alguns proxies para sinais de porte.
+[00:01:39:11 --> 00:01:40:15] O que são proxies?
+[00:01:40:26 --> 00:01:46:22] Como a IA tem muita dificuldade de encontrar dados privados, por exemplo, faturamento dessas empresas,
+[00:01:46:22 --> 00:01:52:06] que é um dos fatores, um dos critérios de qualificação do perfil ideal de cliente,
+[00:01:52:06 --> 00:01:56:12] a gente cria alguns proxies aqui que são basicamente dados que ele vai correlacionar
+[00:01:56:12 --> 00:02:02:17] para entender os sinais de porte se essa empresa está dentro do seu perfil ideal de cliente ou não.
+[00:02:02:29 --> 00:02:05:29] Então aqui eu coloquei de ter entre 10 a 50 funcionários,
+[00:02:05:29 --> 00:02:07:23] que é uma estimativa do LinkedIn que ele consegue fazer,
+[00:02:08:20 --> 00:02:12:20] possui site profissional e redes sociais ativas, então ele consegue até ver a última postagem,
+[00:02:12:20 --> 00:02:14:27] e depois se possui vagas
+[00:02:14:27 --> 00:02:16:22] de emprego abertas, que é um sinal também que a empresa
+[00:02:16:22 --> 00:02:18:25] está crescendo. E é só aqui, só isso
+[00:02:18:25 --> 00:02:20:15] que você precisa editar. Então,
+[00:02:20:17 --> 00:02:22:08] eu já copiei esse prompt,
+[00:02:22:29 --> 00:02:24:14] eu joguei ele aqui no GPT,
+[00:02:24:14 --> 00:02:26:20] GPT-5, exatamente
+[00:02:26:20 --> 00:02:28:17] como estava lá, empresa de software, Brasil,
+[00:02:29:01 --> 00:02:30:18] e esses sinais de porte aqui,
+[00:02:30:20 --> 00:02:32:23] você pode colocar vários outros, pode colocar menos,
+[00:02:32:27 --> 00:02:34:18] vai do seu perfil ideal de cliente,
+[00:02:34:18 --> 00:02:37:00] do que você enxerga como necessidade
+[00:02:37:00 --> 00:02:38:18] para essa etapa, a cílula de
+[00:02:38:18 --> 00:02:40:17] prospecção. E aqui,
+[00:02:40:17 --> 00:02:42:10] que ele ficou pensando por muito,
+[00:02:42:11 --> 00:02:44:11] muito, muito tempo, mais de, ficou quase 10
+[00:02:44:11 --> 00:02:46:09] minutos pensando, aí eu pulei aquele
+[00:02:46:09 --> 00:02:48:10] reasoning dele e ele só me entregou
+[00:02:48:10 --> 00:02:50:02] 7 leads, aqui eu até
+[00:02:50:02 --> 00:02:52:11] tinha pedido até uma lista de 20
+[00:02:52:11 --> 00:02:54:15] leads, mas até coloquei aqui, priorize
+[00:02:54:15 --> 00:02:56:08] qualidade sobre quantidade, não inclui empresas
+[00:02:57:00 --> 00:02:58:17] duvidosas que estão fora do ICP
+[00:02:58:17 --> 00:03:00:06] só para chegar nesses 20 leads
+[00:03:00:06 --> 00:03:02:13] e até ele pediu desculpa aqui, falou, não cheguei
+[00:03:02:13 --> 00:03:04:09] ainda a 20 com alta confiabilidade, preciso de mais
+[00:03:04:09 --> 00:03:05:27] tempo e cruzamento de dados.
+[00:03:06:03 --> 00:03:07:18] Isso aqui é até muito legal, porque
+[00:03:08:11 --> 00:03:10:10] antigamente o GPT não fazia esse cruzamento
+[00:03:10:10 --> 00:03:12:15] tão bem. Utilizava perplexity
+[00:03:12:15 --> 00:03:14:09] às vezes pra isso. O Manu usa muito bom
+[00:03:14:09 --> 00:03:15:12] também pra fazer essas coisas.
+[00:03:16:03 --> 00:03:17:12] Mas o GPT tá chegando lá.
+[00:03:17:27 --> 00:03:20:06] E aqui eu achei até que foi interessante. Ele trouxe
+[00:03:20:06 --> 00:03:22:02] aqui, ó, Mids Tecnologia, DT Network,
+[00:03:23:11 --> 00:03:23:22] Octágora.
+[00:03:23:26 --> 00:03:26:00] Ó, site não encontrado claramente. Então
+[00:03:26:00 --> 00:03:28:02] tem algo até, ó, deixa eu ver. Ele jogou o
+[00:03:28:02 --> 00:03:28:18] LinkedIn, ó.
+[00:03:30:27 --> 00:03:31:19] Ele jogou o LinkedIn.
+[00:03:33:01 --> 00:03:34:27] Então, 11 a 50 funcionários,
+[00:03:34:28 --> 00:03:35:25] 3 mil seguidores,
+[00:03:36:23 --> 00:03:38:06] é uma empresa de SaaS,
+[00:03:38:15 --> 00:03:39:09] startup tecnologia.
+[00:03:40:05 --> 00:03:41:04] Então tem até aqui,
+[00:03:41:06 --> 00:03:42:07] contact info aqui.
+[00:03:43:01 --> 00:03:44:15] Deixa eu só tirar esse...
+[00:03:46:07 --> 00:03:50:09] Tem até aqui o site deles, está bem desenhado, está interessante.
+[00:03:51:03 --> 00:03:54:17] Resolva a solicitação do seu cliente no primeiro contato com assistência visual remota.
+[00:03:54:23 --> 00:03:56:26] Eu não entendi muito bem o que isso faz,
+[00:03:56:29 --> 00:03:59:01] combinando os recursos audiovisuais, inteligência artificial
+[00:03:59:01 --> 00:04:00:24] e um robusto sistema de gestão de atendimento
+[00:04:00:24 --> 00:04:03:09] para entregar um atendimento interativo e visual.
+[00:04:03:17 --> 00:04:06:14] Então, é interessante dar uma olhada na empresa.
+[00:04:06:23 --> 00:04:09:14] Dá para ver alguns errinhos aqui, alguns problemas de design já,
+[00:04:10:08 --> 00:04:13:29] que poderiam entrar em contato para um possível site novo,
+[00:04:13:29 --> 00:04:15:18] novo, um possível rebranding, um possível
+[00:04:16:18 --> 00:04:17:21] reposicionamento de marca, né?
+[00:04:17:28 --> 00:04:19:18] Então, sempre
+[00:04:20:18 --> 00:04:21:24] nessa prospecção, é bom você
+[00:04:21:24 --> 00:04:23:19] entrar no site, entrar nas redes sociais,
+[00:04:23:24 --> 00:04:25:18] tentar dar uma olhada no que esse cliente está fazendo,
+[00:04:26:02 --> 00:04:27:10] ver se ele está crescendo,
+[00:04:27:12 --> 00:04:29:25] se ele tem alguns sinais, alguns gatilhos
+[00:04:29:25 --> 00:04:31:21] que podem mostrar
+[00:04:31:21 --> 00:04:33:20] para você que está na hora de entrar em contato
+[00:04:33:20 --> 00:04:35:27] com eles, que está dentro do seu perfil de cliente,
+[00:04:35:27 --> 00:04:37:00] você pode validar ele ou não, né?
+[00:04:38:11 --> 00:04:39:19] Então, não é só a IA
+[00:04:39:19 --> 00:04:41:23] que você vai ter que fazer isso, com todos os formatos
+[00:04:41:23 --> 00:04:43:20] que a gente vai mostrar aqui, você vai precisar
+[00:04:43:20 --> 00:04:45:24] fazer isso, ó, o Mitz aqui também, vamos ver
+[00:04:48:09 --> 00:04:49:09] Esse aqui eu acho que é...
+[00:04:50:23 --> 00:04:51:22] Será que é brasileiro mesmo?
+[00:04:52:17 --> 00:04:54:20] Olha, já é uma empresa mais global.
+[00:04:54:26 --> 00:04:56:11] Está vendo? Brasil, Portugal, Inglês, Espanhol.
+[00:04:56:29 --> 00:04:58:03] Então dá para dar uma olhada.
+[00:04:58:03 --> 00:05:00:10] O site está bonito, está bem feito, o logo está interessante.
+[00:05:00:23 --> 00:05:02:13] Mas às vezes tem alguma coisa aqui.
+[00:05:02:15 --> 00:05:04:09] Talvez a proposta de valor não seja bem clara.
+[00:05:04:09 --> 00:05:05:29] Talvez a consistência da comunicação.
+[00:05:06:20 --> 00:05:10:05] Entra no Instagram e dá uma olhada se a marca está sendo bem aplicada.
+[00:05:10:28 --> 00:05:14:24] Nós que somos criativos, a gente muitas vezes encontra sites bem feitos
+[00:05:14:24 --> 00:05:17:11] e pensa, puxa, já contrataram um designer, não precisa mais de mim.
+[00:05:17:20 --> 00:05:18:25] E às vezes é o oposto.
+[00:05:18:25 --> 00:05:20:23] às vezes o fato de terem contratado designer
+[00:05:20:23 --> 00:05:23:10] é justamente um sinal que eles valorizam
+[00:05:23:10 --> 00:05:25:02] esse tipo de trabalho, eles valorizam
+[00:05:25:02 --> 00:05:27:07] ter uma marca, ter um design
+[00:05:27:07 --> 00:05:28:26] ter um posicionamento
+[00:05:28:26 --> 00:05:31:01] e uma marca bem feita, então isso quer dizer
+[00:05:31:01 --> 00:05:33:09] que eles valorizam o seu trabalho, então às vezes você pode encontrar
+[00:05:33:09 --> 00:05:35:03] outros problemas, algumas coisas
+[00:05:35:03 --> 00:05:36:19] mal aplicadas, por exemplo aqui olhando
+[00:05:36:19 --> 00:05:38:23] o site não tem aquele ícone aqui em cima
+[00:05:38:23 --> 00:05:41:11] se você trabalha com design de site
+[00:05:41:11 --> 00:05:42:09] talvez você possa fazer
+[00:05:42:29 --> 00:05:44:29] pensar no fluxo aqui
+[00:05:44:29 --> 00:05:47:14] na questão dos acessos
+[00:05:47:14 --> 00:05:49:20] da User Experience,
+[00:05:49:27 --> 00:05:50:28] do UX desse site.
+[00:05:52:00 --> 00:05:53:16] Então, aqui achou até que
+[00:05:53:16 --> 00:05:55:17] foi interessante. Eu não vou me prender muito
+[00:05:55:17 --> 00:05:57:01] aqui, a ideia dos prompts,
+[00:05:57:08 --> 00:05:59:11] porque a ideia é qualquer. Deixa
+[00:05:59:11 --> 00:06:01:03] a IA pensar, utiliza o Gemini,
+[00:06:01:07 --> 00:06:02:21] utiliza várias outras IAs também,
+[00:06:03:13 --> 00:06:05:02] e vai conversando com ela. Fala, olha,
+[00:06:05:05 --> 00:06:07:17] não gostei das empresas, não estão
+[00:06:07:17 --> 00:06:09:18] dentro do meu ICP, são muito grandes
+[00:06:09:18 --> 00:06:10:28] ou são muito pequenas, ou são
+[00:06:10:28 --> 00:06:13:17] por X motivo ela é desqualificada
+[00:06:13:17 --> 00:06:15:21] e vai conversando, vai fazendo essa iteração
+[00:06:15:21 --> 00:06:16:26] até você encontrar
+[00:06:16:26 --> 00:06:40:23] encontrar opções melhores aqui, leads mais qualificados. Então aqui eu já achei legal que ela achou duas que estão bem dentro aqui dos critérios que eu coloquei, talvez eu poderia ser mais específico aqui ainda para evitar alguns outros sinais, talvez empresas muito grandes ou empresas que já, como aqui a Octágora, deixa eu até ver, eu tinha aberto aqui o LinkedIn, ele mostra, ó, Impressidio.
+[00:06:42:02 --> 00:06:44:13] Isso aqui foi eles conseguirem um pre-seed com o GrantBase.
+[00:06:44:15 --> 00:06:46:15] Então, é interessante, se você trabalha com startup,
+[00:06:46:21 --> 00:06:48:29] é interessante você saber toda essa nomenclatura,
+[00:06:48:29 --> 00:06:49:29] como que funciona,
+[00:06:50:12 --> 00:06:56:14] para saber se a empresa está no momento de realmente investir
+[00:06:57:10 --> 00:06:58:27] no seu serviço e no seu produto.
+[00:06:59:17 --> 00:07:00:15] Então, além da IA,
+[00:07:01:05 --> 00:07:03:06] nós temos também ferramentas de banco de dados,
+[00:07:03:09 --> 00:07:05:22] como a Casa dos Dados e aqui o EconoData.
+[00:07:05:29 --> 00:07:10:25] A Casa dos Dados, as duas plataformas têm planos pagos,
+[00:07:10:25 --> 00:07:13:02] mas dá para você usar de forma gratuita também
+[00:07:13:02 --> 00:07:15:06] então a casa dos dados, se você for em pesquisa avançada
+[00:07:15:06 --> 00:07:16:16] você consegue aqui
+[00:07:16:16 --> 00:07:18:29] buscar por razão social, aqui é interessante
+[00:07:18:29 --> 00:07:20:16] até talvez usar
+[00:07:20:16 --> 00:07:22:29] junto, você usa por exemplo
+[00:07:23:23 --> 00:07:25:06] aqui, pega o lead
+[00:07:25:06 --> 00:07:27:00] e consegue até jogar aqui a razão social
+[00:07:27:00 --> 00:07:28:18] para entender um pouquinho mais sobre a empresa
+[00:07:28:18 --> 00:07:30:24] mas dá para pesquisar por exemplo pelo KINAI
+[00:07:30:24 --> 00:07:33:08] então tem uma lista aí de KINAIs, os principais KINAIs
+[00:07:33:08 --> 00:07:33:26] que as empresas
+[00:07:35:00 --> 00:07:37:03] do seu perfil de adquirente usam
+[00:07:37:03 --> 00:07:38:24] para você também fazer essa pesquisa
+[00:07:38:24 --> 00:07:42:11] tem a natureza jurídica, o estado, o bairro, o CEP, capital social.
+[00:07:42:21 --> 00:07:45:17] Então, por exemplo, é quanto que eles declaram ali para a abertura da empresa.
+[00:07:45:29 --> 00:07:49:12] Isso nem sempre tem algo a ver com o faturamento ou quanto a empresa ganha,
+[00:07:49:12 --> 00:07:51:06] mas pelo menos te dá um sinal ali.
+[00:07:51:06 --> 00:07:54:21] Você procura empresas assim que colocam ali um milhão de capital social,
+[00:07:55:03 --> 00:07:56:08] já é algo mais interessante.
+[00:07:57:24 --> 00:07:59:08] Enfim, aqui dá para excluir e-mail.
+[00:07:59:27 --> 00:08:03:09] Aqui já é um dos canais que dá para você utilizar para pesquisa.
+[00:08:03:12 --> 00:08:06:28] E além aqui da Casa dos Dados, nós também temos o EconoData,
+[00:08:06:28 --> 00:08:10:18] que é uma empresa que também tem planos pagos.
+[00:08:10:26 --> 00:08:14:09] Mas entrando aqui em nossas soluções, geradores de leads grátis,
+[00:08:14:09 --> 00:08:19:00] nós temos aqui a forma de buscar por nome CNPJ, setor, região e porte.
+[00:08:19:06 --> 00:08:22:09] E tem também aqui avançado, que eu acredito que seja só o EconoData Premium.
+[00:08:22:23 --> 00:08:24:19] Mas tem aqui, por exemplo, setores.
+[00:08:24:20 --> 00:08:28:09] Dá para procurar setor de serviços, comércio, alimentos, restaurantes.
+[00:08:28:09 --> 00:08:29:26] Deixa eu colocar, por exemplo, restaurantes.
+[00:08:30:00 --> 00:08:32:20] Daria para colocar aqui a região, São Paulo.
+[00:08:32:23 --> 00:08:36:18] E o porte, o faturamento, que é o mais importante, também é pago.
+[00:08:36:28 --> 00:08:39:13] mas dá para a gente filtrar por número de funcionários.
+[00:08:39:17 --> 00:08:42:26] Então aqui você consegue colocar até ou acima de.
+[00:08:43:09 --> 00:08:46:01] Eu não gosto muito de usar acima de X funcionários,
+[00:08:46:01 --> 00:08:48:19] porque se eu colocar aqui acima de 20 ou acima de 10,
+[00:08:48:21 --> 00:08:50:03] ele vai chegar a todos os outros também.
+[00:08:50:06 --> 00:08:52:14] Então é um filtro que funciona,
+[00:08:52:16 --> 00:08:54:07] eu acho que se você trabalha com empresas muito grandes,
+[00:08:54:09 --> 00:08:57:00] acima de 500, acima de 1.000, ele pode funcionar melhor.
+[00:08:57:06 --> 00:09:00:06] Mas eu vou aqui até 20 funcionários, até 50 funcionários,
+[00:09:00:06 --> 00:09:01:26] porque daí ele pega
+[00:09:01:26 --> 00:09:03:28] um pouco
+[00:09:05:19 --> 00:09:07:15] já pega um filtro um pouquinho melhor aqui
+[00:09:07:15 --> 00:09:09:04] dentro dos CPs que eu trabalho.
+[00:09:09:25 --> 00:09:12:01] E aí fazendo a pesquisa, ele vai mostrar alguns leads,
+[00:09:12:07 --> 00:09:14:13] ele tem, se eu não me engano, 20 leads que ele mostra de uma vez,
+[00:09:14:14 --> 00:09:15:15] depois tem que criar uma conta,
+[00:09:15:19 --> 00:09:19:13] mas essa conta é gratuita e você pode depois buscar CNPJ
+[00:09:19:13 --> 00:09:24:03] e assim a mesma investigação que a gente fez aqui para validar,
+[00:09:24:04 --> 00:09:25:15] você vai ter que fazer por aqui também.
+[00:09:26:27 --> 00:09:28:14] Além dessas ferramentas,
+[00:09:28:14 --> 00:09:31:00] a gente tem também ferramentas de extração de leads.
+[00:09:31:08 --> 00:09:33:05] Esse é a Polo, é uma ferramenta muito boa,
+[00:09:33:07 --> 00:09:34:08] eu já usei por muito tempo,
+[00:09:34:08 --> 00:09:38:15] principalmente quando você instala a extensão do navegador dele,
+[00:09:38:19 --> 00:09:39:18] a extensão do Chrome.
+[00:09:40:03 --> 00:09:41:17] Quando você entra no LinkedIn,
+[00:09:41:25 --> 00:09:44:27] ele consegue até mostrar para você o e-mail dos contatos,
+[00:09:44:28 --> 00:09:45:27] o e-mail desses leads.
+[00:09:46:03 --> 00:09:47:11] Então, ele ajuda bastante.
+[00:09:47:21 --> 00:09:49:18] Mas ele tem muitas outras ferramentas aqui.
+[00:09:49:21 --> 00:09:54:00] Ele monta pipeline, ele tem assistente até para marcar reuniões,
+[00:09:54:01 --> 00:09:58:15] ele tem o próprio banco de dados dele para procurar novos leads,
+[00:09:59:07 --> 00:10:01:19] apesar de eu achar que ele é muito focado no mercado internacional.
+[00:10:01:19 --> 00:10:05:06] tem alguns leads brasileiros, mas normalmente são empresas muito grandes,
+[00:10:05:10 --> 00:10:08:16] empresas que às vezes tem até IPO, estão na bolsa.
+[00:10:09:03 --> 00:10:12:19] E ele tem muitas outras integrações, tem IA e tudo mais.
+[00:10:12:27 --> 00:10:17:27] E mais uma vez ele é uma ferramenta paga com um plano gratuito.
+[00:10:17:29 --> 00:10:20:27] E esse plano dá 1.200 créditos por usuário por ano.
+[00:10:20:29 --> 00:10:22:13] E cada crédito aqui...
+[00:10:23:23 --> 00:10:28:06] Cada crédito é um e-mail, então você consegue basicamente aqui 1.200 e-mails por ano,
+[00:10:28:09 --> 00:10:32:22] então isso é bastante, é 120 contatos por mês, muitas vezes isso é tudo que você precisa
+[00:10:32:22 --> 00:10:36:27] para entrar em contato com essas pessoas, e tem toda a parte de prospecção,
+[00:10:36:27 --> 00:10:40:02] dá para você integrar com o seu CRM ou usar o próprio CRM dele.
+[00:10:40:09 --> 00:10:45:20] Eu recomendo bastante pelo menos ter a extensão do Chrome e utilizar.
+[00:10:46:17 --> 00:10:48:08] O outro aplicativo também é o Hunter.
+[00:10:48:14 --> 00:10:53:06] O Hunter funciona parecido com o Apollo, mas ele é mais focado na extração de leads
+[00:10:53:06 --> 00:10:54:25] e depois para criar uma lista.
+[00:10:55:06 --> 00:10:58:20] Então, ele também tem essa questão aqui do pagamento,
+[00:10:58:23 --> 00:11:00:24] ele tem planos pagos, que acaba sendo até melhor,
+[00:11:00:28 --> 00:11:04:00] mas ele tem aqui 50 créditos por mês, na verdade,
+[00:11:04:02 --> 00:11:06:03] que ele sempre renova todo mês 50 créditos
+[00:11:06:03 --> 00:11:08:17] e cada crédito ele dá um e-mail também.
+[00:11:09:07 --> 00:11:11:21] Então, tem o Hunter e tem o S9,
+[00:11:11:29 --> 00:11:13:18] que é o que eu vou mostrar para vocês aqui,
+[00:11:14:17 --> 00:11:15:19] como utilizar ele.
+[00:11:16:12 --> 00:11:18:21] O S9 funciona muito parecido com o Hunter também.
+[00:11:18:24 --> 00:11:22:19] Eu tenho tido resultados melhores utilizando ele,
+[00:11:22:19 --> 00:11:24:17] então por isso que eu vou mostrar aqui, eu já criei
+[00:11:24:17 --> 00:11:26:14] uma conta nova aqui pra mostrar
+[00:11:26:14 --> 00:11:28:08] pra vocês, e ele mais uma vez
+[00:11:28:08 --> 00:11:29:09] ele tem
+[00:11:30:01 --> 00:11:32:16] ele aqui não mostra o plano gratuito
+[00:11:32:16 --> 00:11:34:19] deixa eu ver se mudou aqui, antigamente ele mostrava
+[00:11:35:03 --> 00:11:36:16] ele não mostra o plano gratuito
+[00:11:36:16 --> 00:11:38:15] mas ele tem, e ele é um plano bem mais
+[00:11:38:15 --> 00:11:40:14] generoso até do que os outros, do que o Hunter
+[00:11:40:14 --> 00:11:42:16] principalmente, então recomendo bastante
+[00:11:42:16 --> 00:11:43:02] que você utilize
+[00:11:44:14 --> 00:11:48:20] E ele funciona assim, eu vou logar aqui, eu já entrei aqui, essa é a página inicial dele.
+[00:11:48:29 --> 00:11:53:20] E aqui dá para você criar lista, tem também CRM, tem IA, tem um monte de outras coisas aqui.
+[00:11:54:00 --> 00:11:57:03] O que eu uso muito é essa parte aqui, Discover Companies.
+[00:11:57:09 --> 00:12:01:23] Ele está em inglês, você pode colocar o navegador para traduzir ele também.
+[00:12:01:27 --> 00:12:05:11] Então, eu vou clicar aqui agora em Discover Companies para a gente buscar esses leads.
+[00:12:05:19 --> 00:12:07:24] Então, a ideia aqui qual que é?
+[00:12:07:26 --> 00:12:10:26] A gente colocar primeiro o local, deixa eu colocar aqui, por exemplo, São Paulo.
+[00:12:12:22 --> 00:12:16:08] Dá para ser bem específico ou posso colocar simplesmente Brasil.
+[00:12:18:11 --> 00:12:19:01] Deixa eu ver se está com Z.
+[00:12:19:05 --> 00:12:19:22] Está com Z.
+[00:12:21:06 --> 00:12:22:24] A indústria aqui, vamos pensar,
+[00:12:22:28 --> 00:12:25:26] vamos pegar alguma coisa do setor tecnologia mesmo.
+[00:12:26:10 --> 00:12:26:21] Tecnology.
+[00:12:28:02 --> 00:12:29:08] Tem várias, Information Technology,
+[00:12:30:21 --> 00:12:33:10] vamos lá, Information Technology and Services.
+[00:12:33:28 --> 00:12:37:02] O size aqui é a quantidade de funcionários da empresa,
+[00:12:37:07 --> 00:12:38:29] vou colocar aqui de 11 a 50.
+[00:12:41:05 --> 00:12:42:01] Dá para colocar mais de um?
+[00:12:42:12 --> 00:12:43:05] Não, é só um.
+[00:12:43:06 --> 00:12:44:09] Então, vamos colocar 11,50.
+[00:12:44:26 --> 00:12:47:04] E Revenue é basicamente o faturamento da empresa.
+[00:12:47:15 --> 00:12:48:28] Aqui eu acredito que esteja em dólar.
+[00:12:48:28 --> 00:12:51:17] Então, eu vou colocar a partir de 500 mil dólares aqui,
+[00:12:51:19 --> 00:12:54:14] que eu acho que já vai entrar bem dentro dos proxies
+[00:12:54:14 --> 00:12:55:21] que a gente tinha criado ali antes.
+[00:12:56:16 --> 00:12:59:22] E Specialties, aqui é basicamente no que a empresa especializa.
+[00:12:59:23 --> 00:13:01:08] Por exemplo, se eu quisesse colocar SaaS aqui,
+[00:13:01:13 --> 00:13:02:18] ele teria várias outras.
+[00:13:03:02 --> 00:13:04:15] Mas pelos testes que eu fiz,
+[00:13:04:28 --> 00:13:06:11] isso acaba afunilando tanto
+[00:13:06:11 --> 00:13:08:01] que às vezes ele nem acha leads no Brasil.
+[00:13:08:14 --> 00:13:10:18] Então, vamos fazer um teste aqui, vamos ver.
+[00:13:11:05 --> 00:13:12:05] Vamos botar só a sass.
+[00:13:13:27 --> 00:13:16:07] E aqui o Founded seria a data que foi fundada
+[00:13:16:07 --> 00:13:18:02] para alguns segmentos,
+[00:13:18:02 --> 00:13:19:26] alguns produtos e serviços podem ser interessantes.
+[00:13:20:00 --> 00:13:23:09] Se você trabalha, por exemplo, com empresas familiares
+[00:13:23:09 --> 00:13:25:09] ou com um grau de maturidade muito alto,
+[00:13:25:14 --> 00:13:27:15] com anos de mercado, dá para você colocar aqui.
+[00:13:27:22 --> 00:13:29:26] Só empresas com, sei lá, 20, 30 anos de mercado,
+[00:13:29:26 --> 00:13:31:14] você consegue colocar a data que foi fundada.
+[00:13:31:22 --> 00:13:33:11] E o Company Name não é relevante
+[00:13:33:11 --> 00:13:34:27] porque a gente está procurando leads novos.
+[00:13:35:29 --> 00:13:38:07] Então, vamos buscar aqui, Search.
+[00:13:38:23 --> 00:13:40:29] Vamos ver se usando o Sasa que ele encontra alguma.
+[00:13:42:26 --> 00:13:46:09] Está vendo? Não encontrou nenhuma, mas se eu tirar aqui, tenho certeza que ele vai encontrar alguma.
+[00:13:46:12 --> 00:13:46:21] Vamos lá.
+[00:13:49:01 --> 00:13:50:02] Aqui já encontrou algumas.
+[00:13:50:27 --> 00:13:53:17] Dá para ver que todas elas são empresas de tecnologia.
+[00:13:55:14 --> 00:13:58:10] Séries e Caxias do Sul, Sage Networks de Campinas,
+[00:14:00:28 --> 00:14:02:28] CredValue, Infoworkers, Smart Compass.
+[00:14:03:06 --> 00:14:05:23] E aqui você pode ir adicionando, por exemplo, uma lista.
+[00:14:06:16 --> 00:14:08:26] Você pode ir criando essa lista de contatos.
+[00:14:09:05 --> 00:14:12:08] Você pode, por exemplo, selecionar todas elas também e adicionar.
+[00:14:12:11 --> 00:14:15:08] Encontrou 1.701 empresas, então foi bastante.
+[00:14:15:21 --> 00:14:17:20] Acaba sendo melhor até do que utilizar a IA.
+[00:14:18:13 --> 00:14:20:01] então vamos abrir uma delas aqui
+[00:14:20:01 --> 00:14:21:20] vamos pegar essa destrava aí
+[00:14:21:20 --> 00:14:23:13] fiquei interessado, o que é o destrava aí
+[00:14:23:13 --> 00:14:24:28] vamos ver o linkedin deles
+[00:14:27:15 --> 00:14:29:09] Infraestrutura e gestão de garantias de recebíveis
+[00:14:29:09 --> 00:14:31:28] para aumentar a concessão e recuperação de linhas de crédito PJ.
+[00:14:32:13 --> 00:14:34:23] Então, se você não é da área de fintech, você não entendeu nada.
+[00:14:36:19 --> 00:14:38:26] Mas eu entendi exatamente o que eles fazem aqui.
+[00:14:38:29 --> 00:14:41:14] Deixa eu até olhar aqui se tem um site.
+[00:14:41:19 --> 00:14:43:05] Mas está, 1150 funcionários.
+[00:14:43:17 --> 00:14:45:29] Eu tenho até amigos aqui que seguem eles.
+[00:14:48:12 --> 00:14:49:16] People Highlights, tudo.
+[00:14:49:18 --> 00:14:51:13] Deixa eu ver se eu tenho o About aqui deles.
+[00:14:52:13 --> 00:14:53:23] Ó, destrava.ai
+[00:14:55:06 --> 00:14:55:15] Fundar 2021.
+[00:14:58:24 --> 00:15:01:18] Está bem interessante, o site está bem feito, está claro.
+[00:15:02:09 --> 00:15:05:28] Tem alguns probleminhas aqui de UI, UX, o logo talvez não seja tão legal.
+[00:15:10:01 --> 00:15:12:18] No geral, assim, tá ok, assim, não tá ruim.
+[00:15:13:27 --> 00:15:16:27] Está melhor que muita empresa do segmento que eu já vi,
+[00:15:16:29 --> 00:15:19:02] que é um segmento meio voltado em mercado PJ.
+[00:15:21:02 --> 00:15:23:26] Mas isso seria, por exemplo, uma empresa que eu já entrei em contato,
+[00:15:23:27 --> 00:15:25:17] porque eu já vejo melhoras aqui.
+[00:15:25:29 --> 00:15:28:19] Muitas vezes a gente, como eu falei algumas vezes já,
+[00:15:28:21 --> 00:15:30:26] a gente entra no site, vê que ele está até que bem feito,
+[00:15:31:00 --> 00:15:33:05] contrataram um designer ou foi uma agência que fez.
+[00:15:33:12 --> 00:15:36:11] A gente pensa, poxa, eles já contrataram alguém, não precisam mais de mim.
+[00:15:37:08 --> 00:15:38:19] Mas muitas vezes é o oposto.
+[00:15:38:20 --> 00:15:42:15] Muitas vezes o fato de eles terem contratado essa agência,
+[00:15:42:15 --> 00:15:45:24] esse outro designer, quer dizer que eles valorizam esse tipo de serviço.
+[00:15:45:26 --> 00:15:50:15] Então, é interessante ver se a marca está sendo bem aplicada em todos os pontos de contato,
+[00:15:50:15 --> 00:15:53:17] entra no Instagram, entra em outros lugares e dá uma olhada.
+[00:15:53:24 --> 00:15:54:27] Essa aqui eu já gostei.
+[00:15:55:11 --> 00:15:56:15] Vamos ver uma outra aqui.
+[00:15:57:08 --> 00:15:57:29] Uma mais.
+[00:16:00:09 --> 00:16:04:01] BioCode Junior. Isso aqui parece alguma coisa mais voltada para a biotecnologia.
+[00:16:06:08 --> 00:16:08:19] Bioinformática, ó. Informática em saúde e bioinformática.
+[00:16:08:20 --> 00:16:15:03] Então aqui, por exemplo, a parte de descrição está bem voltada a uma coisa um pouco mais genérica, né?
+[00:16:15:19 --> 00:16:18:04] Ó, somos empresa júnior de curso de informática e de biomédica.
+[00:16:18:05 --> 00:16:19:05] Ah, então está isso, ó.
+[00:16:19:07 --> 00:16:22:06] Então aqui ele já encontrou uma empresa que não tem muito a ver.
+[00:16:22:07 --> 00:16:25:03] Talvez ele pegou só esse proxy aqui de 11, 50 funcionários,
+[00:16:25:17 --> 00:16:29:17] mas pelo que eu entendi aqui, não sei, eu teria que investigar um pouco mais a fundo,
+[00:16:29:19 --> 00:16:30:13] ver e tudo mais, né?
+[00:16:30:13 --> 00:16:34:03] Mas pelo que eu entendi, são graduandos de universidade,
+[00:16:34:03 --> 00:16:36:01] realizamos projetos na área de informática e saúde
+[00:16:36:23 --> 00:16:38:14] então é uma empresa real mesmo
+[00:16:38:14 --> 00:16:39:21] achei que era só uma empresa de
+[00:16:41:17 --> 00:16:42:00] universitários
+[00:16:42:00 --> 00:16:44:12] inclusive está muito bem desenhado aqui
+[00:16:46:08 --> 00:16:50:12] Já está mais interessante que muitos outros sites de empresas maiores.
+[00:16:51:10 --> 00:16:52:25] Legal, também é interessante.
+[00:16:53:07 --> 00:16:54:18] Veja aqui Facebook, Instagram.
+[00:16:55:01 --> 00:16:57:10] A ideia aqui é mostrar mais como o Snov.io funciona,
+[00:16:57:13 --> 00:17:00:27] então não vou entrar muito nessa parte de validação dos leads,
+[00:17:01:02 --> 00:17:03:02] mas é muito importante fazer tudo isso que eu estou fazendo,
+[00:17:03:09 --> 00:17:05:08] entrar em cada uma dessas páginas,
+[00:17:06:08 --> 00:17:08:28] relaciona também o Instagram, as redes sociais,
+[00:17:09:09 --> 00:17:11:18] dá uma olhada no Google, pesquisa, tem o Google Meu Negócio,
+[00:17:11:22 --> 00:17:13:00] está bem posicionada, sabe?
+[00:17:13:00 --> 00:17:21:27] Tudo isso faz parte dessa investigação, faz parte desse trabalho de qualificar esse lead antes de entrar em contato.

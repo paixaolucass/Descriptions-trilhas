@@ -1,0 +1,95 @@
+# Video: 8._apresentando_o_grok (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 09:52
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:12 --> 00:00:05:15] Chegou a hora de falar sobre o CROC, a LLM criada pela equipe do Elon Musk.
+[00:00:05:21 --> 00:00:11:12] Talvez você não saiba, mas o Elon Musk fez parte da construção da OpenAI lá atrás, em 2019.
+[00:00:12:08 --> 00:00:17:03] Depois ele saiu da OpenAI e aí teve o lance dele todo com o Twitter.
+[00:00:18:01 --> 00:00:21:26] Pegou o Twitter porque ele conseguia muitos dados, as pessoas não sabem, né?
+[00:00:21:27 --> 00:00:26:03] Pra que um cara desse vai querer uma rede social só pra estragar o rolê?
+[00:00:26:06 --> 00:00:28:15] Tem muita coisa além que as pessoas não viam naquela época, né?
+[00:00:28:15 --> 00:00:29:07] Mas ele cria dados.
+[00:00:30:05 --> 00:00:34:20] Comprou o Twitter, transformou em X, muitos dados do X, criou o SuperGrok, que é uma
+[00:00:34:20 --> 00:00:37:29] LLM treinada com base nos dados da X.
+[00:00:38:08 --> 00:00:39:17] E qual que é a vantagem, né?
+[00:00:39:17 --> 00:00:44:17] Qual que é, vamos colocar aqui, a vantagem ou o diferencial do Grok que eles anunciam?
+[00:00:44:18 --> 00:00:49:06] Eles falam que, primeiro, o Grok tem um compromisso com a verdade, então eles não fazem filtro,
+[00:00:49:06 --> 00:00:50:08] que é uma coisa que a gente vê acontecer.
+[00:00:50:26 --> 00:00:55:29] Ele tem filtros, claro, toda LLM vai ter, mas ele é mais aberto do que outras LLMs,
+[00:00:55:29 --> 00:00:57:27] como o DeepSeq, que tem
+[00:00:57:27 --> 00:01:00:05] muitas travas, e aí você tem que fazer
+[00:01:00:05 --> 00:01:01:23] jailbreak, tem guardrails,
+[00:01:01:29 --> 00:01:03:14] e tem também o
+[00:01:04:06 --> 00:01:05:29] chatapt tem, cloud tem, e o
+[00:01:05:29 --> 00:01:08:05] GROC chega e fala, olha, a gente é,
+[00:01:08:08 --> 00:01:09:23] nós somos uma LLM
+[00:01:09:23 --> 00:01:11:15] mais liberal, que te permite
+[00:01:11:15 --> 00:01:14:00] buscar a verdade, compromisso com a verdade
+[00:01:14:00 --> 00:01:15:26] para ir e vai. Então esse é o primeiro ponto
+[00:01:15:26 --> 00:01:18:04] que eles trazem. Então ele tem menos filtros,
+[00:01:18:04 --> 00:01:19:20] ele te permite pesquisar
+[00:01:19:20 --> 00:01:22:03] além, em alguns campos
+[00:01:22:03 --> 00:01:24:05] que as outras LLMs vão desviar
+[00:01:24:05 --> 00:01:26:08] deles, o groc não desvia
+[00:01:26:08 --> 00:01:28:06] tanto que em outra aula, eu não lembro qual aula
+[00:01:28:06 --> 00:01:29:22] era, eu estava brincando aqui, foi
+[00:01:29:22 --> 00:01:32:07] engenharia de prompt, depois se você não viu vai ver a trilha
+[00:01:32:07 --> 00:01:34:00] de engenharia de prompt, eu faço alguns
+[00:01:34:00 --> 00:01:36:00] testes com o groc aqui de criar bombinhas
+[00:01:36:00 --> 00:01:37:29] caseiras e ele começa a deixar
+[00:01:37:29 --> 00:01:40:11] criar bombas caseiras e outras coisas do tipo
+[00:01:40:11 --> 00:01:42:11] que outras LLMs claramente
+[00:01:42:11 --> 00:01:44:05] barrariam e no groc
+[00:01:44:05 --> 00:01:45:11] se você fizer ali um
+[00:01:47:24 --> 00:01:48:07] jailbreak
+[00:01:48:07 --> 00:01:50:06] nele, ele começa a te fornecer
+[00:01:50:06 --> 00:01:52:03] essas informações, a gente tem o groc 3
+[00:01:52:03 --> 00:01:55:24] que é uma das LLMs mais potentes para Reasoning atualmente,
+[00:01:55:26 --> 00:01:58:18] então a capacidade de reflexão dele é bem potente.
+[00:01:59:04 --> 00:02:02:21] Então eu estou aqui no Grok, ele tem a opção de subir arquivos,
+[00:02:02:21 --> 00:02:06:05] carregar arquivo do Drive, os seus arquivos recentes do seu computador.
+[00:02:06:10 --> 00:02:09:14] Ele tem a opção de Deep Search e a opção de Deeper Search,
+[00:02:09:21 --> 00:02:13:27] só que aqui eu estou no Super Grok, então por isso que eu tenho essas opções liberadas.
+[00:02:14:03 --> 00:02:17:14] Ele tem o Think, ele fica pensando por mais tempo,
+[00:02:17:14 --> 00:02:21:15] isso aqui é uma das maiores vantagens do Grok em relação a outros modelos,
+[00:02:21:15 --> 00:02:24:22] como o ChatGPT, Cloud e por aí vai, ele reflete mais, né?
+[00:02:24:24 --> 00:02:27:12] Então, se eu fizer uma pesquisa aqui rápida, por exemplo,
+[00:02:29:14 --> 00:02:30:03] as IAs...
+[00:02:32:11 --> 00:02:34:11] Vão substituir os designers.
+[00:02:34:15 --> 00:02:35:14] Aqui não é pesquisa, né?
+[00:02:35:17 --> 00:02:38:02] Eu estou pedindo para ele raciocinar, só que eu vou fazer duas vezes.
+[00:02:38:13 --> 00:02:40:28] Uma vez sem pedir, então ele vai direto, resposta rápida.
+[00:02:40:28 --> 00:02:42:00] Não, não vão substituir.
+[00:02:42:21 --> 00:02:44:28] Agora eu falo, pensa um pouquinho para me responder.
+[00:02:44:29 --> 00:02:46:29] Aí ele vai pensar, eu posso ver o raciocínio dele.
+[00:02:48:26 --> 00:02:52:01] Está pensando sobre isso e só depois de pensar aqui que ele vai trazer a minha resposta.
+[00:02:52:11 --> 00:02:53:19] Então, 7 segundos, 8.
+[00:02:54:23 --> 00:02:57:00] O outro teste que eu fiz demorou 7 segundos, né?
+[00:02:57:01 --> 00:02:57:28] Esse aqui está demorando mais.
+[00:02:58:01 --> 00:03:00:19] Eu já fiz testes que ficaram alguns minutos aqui pensando.
+[00:03:00:25 --> 00:03:03:20] Depende mesmo da pergunta, do que ele precisa levar em consideração.
+[00:03:03:25 --> 00:03:04:26] Então, trouxe aqui, 18 segundos.
+[00:03:05:00 --> 00:03:06:03] Não, não vai substituir.
+[00:03:06:11 --> 00:03:08:25] E traz aqui vários motivos de por que ele não vai.
+[00:03:08:26 --> 00:03:11:07] Eu não vou ler aqui agora, porque o foco é apresentar a ferramenta, né?
+[00:03:11:16 --> 00:03:12:25] Mas fica a referência para vocês.
+[00:03:13:05 --> 00:03:16:02] Faz o teste no Deep Search, no Deep Research.
+[00:03:16:08 --> 00:03:17:07] Não tem segredo aqui.
+[00:03:17:08 --> 00:03:18:12] Eu vou mostrar um que eu já fiz.
+[00:03:19:03 --> 00:03:30:08] Então aqui ó, mapa de LLMs, esse foi um que eu fiz, que eu mostrei nas aulas anteriores, foram 13 fontes na primeira pesquisa e depois 53 fontes aqui na segunda pesquisa que eu fiz.
+[00:03:30:12 --> 00:03:40:09] Eu posso ver todas as fontes, ele bate bem com o Perplexer aqui, são ferramentas bem próximas nesse sentido, só que ele vai trazendo as fontes e eu particularmente gosto de usar,
+[00:03:40:22 --> 00:03:45:20] apesar de que se você tem o Perplexer, não tem por que assinar o Grok também, até porque ele é mais caro.
+[00:03:46:21 --> 00:03:49:29] Então essas são as opções, é realmente bem simples e direto ao ponto.
+[00:03:50:05 --> 00:03:56:00] Dá para fazer muita coisa aqui, é possível construir sim, mas ele é bem mais enxuto.
+[00:03:56:06 --> 00:03:59:11] Aqui eu posso compartilhar com outras pessoas, então copiou.
+[00:03:59:22 --> 00:04:02:24] Posso começar uma nova conversa, ver aqui as conversas que eu já tive.
+[00:04:03:00 --> 00:04:06:12] E a gestão dele aqui é melhor, ir, editar, excluir.
+[00:04:06:15 --> 00:04:13:18] Eu gosto mais dessa gestão de conversas aqui do GROC, do que a do GPT e do Cloud, por exemplo.
+[00:04:13:18 --> 00:04:22:21] Aqui nas configurações, é conta, aparência, comportamento, só para poder editar ou ativar alguma ferramenta que está desativada,
+[00:04:22:23 --> 00:04:27:09] editor de código, conteúdo de página URL colada e por aí vai.
+[00:04:27:25 --> 00:04:35:05] Personalizar é mais o tom dele mesmo, controle de dados que você quer fornecer para ele ou não, cobrança e aplicativos conectados.
+[00:04:35:08 --> 00:04:37:04] Não tem muito mistério, é isso aí.

@@ -1,0 +1,512 @@
+1
+00:00:00,028 --> 00:00:03,748
+Agora a gente vai falar de uma lista de ferramentas para edição de imagens.
+
+2
+00:00:03,748 --> 00:00:07,008
+E é importante eu trazer isso porque quando você gera a imagem,
+
+3
+00:00:07,768 --> 00:00:12,828
+você usa um modelo, que nem sempre é o mesmo modelo que edita essa imagem.
+
+4
+00:00:14,012 --> 00:00:15,812
+No caso do NanoBanana, funciona.
+
+5
+00:00:16,052 --> 00:00:17,792
+O NanoBanana é um modelo que gera e edita.
+
+6
+00:00:17,812 --> 00:00:20,532
+Então ele pega três partes da imagem e vai editando por cima.
+
+7
+00:00:20,552 --> 00:00:23,552
+Se você quiser, atira aquele carro, tira aquela pessoa, troca essa roupa,
+
+8
+00:00:23,552 --> 00:00:24,672
+ele vai editando por cima.
+
+9
+00:00:24,832 --> 00:00:26,752
+Ele não gera a imagem toda de novo.
+
+10
+00:00:27,352 --> 00:00:31,932
+Isso é uma tecnologia que começou a vir também para alguns como o GPT.
+
+11
+00:00:32,552 --> 00:00:36,212
+Também tem, se eu não me engano, isso direto no modelo que eu estou falando.
+
+12
+00:00:36,892 --> 00:00:40,672
+Se eu não me engano, na verdade, eu acho que não tem isso nos da ByteDance.
+
+13
+00:00:41,192 --> 00:00:42,412
+Do que eu estou lembrando agora.
+
+14
+00:00:42,412 --> 00:00:47,332
+Agora, tem no Gemini, que é o nanobanana, tem no GPT também essa edição direto no modelo.
+
+15
+00:00:47,552 --> 00:00:51,592
+Só que existem ferramentas de edição que utilizam os próprios modelos,
+
+16
+00:00:51,592 --> 00:00:55,012
+mas conectam eles de um jeito que eles...
+
+17
+00:00:57,052 --> 00:00:58,872
+conectam eles de um jeito que eles editam a imagem.
+
+18
+00:00:59,092 --> 00:01:00,952
+Às vezes apagam uma coisa, fazem uma edição.
+
+19
+00:01:01,092 --> 00:01:02,892
+Por exemplo, a gente tem vários, né?
+
+20
+00:01:02,912 --> 00:01:06,172
+Eu já ia começar a falar aqui, mas tem alguns que eu quero apresentar para vocês.
+
+21
+00:01:06,452 --> 00:01:08,412
+Deixa eu só relembrar se está na lista aqui.
+
+22
+00:01:09,672 --> 00:01:11,092
+Não está, então eu vou começar por ele.
+
+23
+00:01:11,212 --> 00:01:12,892
+Por exemplo, o próprio Mid Journey.
+
+24
+00:01:13,192 --> 00:01:16,412
+O Mid Journey é uma ferramenta, eu vou abrir ela aqui de novo para vocês,
+
+25
+00:01:16,852 --> 00:01:20,352
+que te permite, depois que você gerou uma imagem, você editar ela.
+
+26
+00:01:20,672 --> 00:01:23,692
+Então você pode pegar uma imagem aqui que você fez, olha.
+
+27
+00:01:23,792 --> 00:01:25,292
+Vou pegar uma minha aqui, pode ser...
+
+28
+00:01:25,292 --> 00:01:30,972
+O gatinho aqui do último vídeo, eu não mostrei para vocês, mas a conveniência, ele gerou.
+
+29
+00:01:30,972 --> 00:01:33,692
+Para a rede social eu gosto, cara, é muito fácil, sabe?
+
+30
+00:01:33,872 --> 00:01:40,252
+Não tem segredo não, ele entende a imagem e faz um movimento ali do que você precisa e já funciona.
+
+31
+00:01:42,236 --> 00:01:42,996
+Bizarro, né?
+
+32
+00:01:43,376 --> 00:01:45,316
+Dá pra melhorar ali pelo prompt, mas enfim.
+
+33
+00:01:45,656 --> 00:01:47,376
+Vamos lá, vamos supor que eu peguei essa imagem aqui,
+
+34
+00:01:47,416 --> 00:01:49,596
+eu quero editar essa imagem,
+
+35
+00:01:49,716 --> 00:01:52,356
+e eu consigo editar ela com o...
+
+36
+00:01:54,332 --> 00:01:55,592
+com o Mid-Journey.
+
+37
+00:01:55,772 --> 00:01:57,472
+Então, aqui eu tenho algumas opções, né?
+
+38
+00:01:57,572 --> 00:01:59,952
+Dentro das opções tem Zoom, Pan, Remix,
+
+39
+00:02:00,072 --> 00:02:02,772
+Upscale, Vari, que é para variação,
+
+40
+00:02:02,832 --> 00:02:04,732
+Upscale é para aumentar a imagem
+
+41
+00:02:04,732 --> 00:02:05,872
+e detalhar ela mais.
+
+42
+00:02:06,372 --> 00:02:09,592
+Zoom é para você aumentar a imagem
+
+43
+00:02:09,592 --> 00:02:11,592
+e manter ele nesse tamanho, né?
+
+44
+00:02:11,592 --> 00:02:12,932
+Então, é como se você estivesse dando um zoom
+
+45
+00:02:12,932 --> 00:02:14,012
+de câmera nele também.
+
+46
+00:02:14,352 --> 00:02:16,632
+Pan é para você aumentar a imagem para os lados, né?
+
+47
+00:02:16,632 --> 00:02:17,652
+Como se fosse uma panorâmica.
+
+48
+00:02:17,812 --> 00:02:19,072
+E tem aqui More...
+
+49
+00:02:19,072 --> 00:02:20,792
+Ah, já estava ali os More Actions.
+
+50
+00:02:20,852 --> 00:02:22,552
+Isso aqui é só para eu marcar todas que eu quero.
+
+51
+00:02:23,152 --> 00:02:26,432
+Então, isso aqui já é um tipo de edição que eu posso fazer.
+
+52
+00:02:27,532 --> 00:02:28,792
+Já é interessante.
+
+53
+00:02:28,872 --> 00:02:31,112
+Mas mais do que isso aqui, eu também posso vir aqui, ó.
+
+54
+00:02:32,092 --> 00:02:32,492
+Edit.
+
+55
+00:02:33,412 --> 00:02:36,292
+Subir uma imagem minha, ou uma URL de uma imagem,
+
+56
+00:02:36,412 --> 00:02:39,552
+e usar essa imagem, deixa eu ver, eu nem lembro qual que é essa aqui.
+
+57
+00:02:40,672 --> 00:02:44,092
+Editar ela, né? Apagar, pedir pra gerar alguma coisa aqui por cima,
+
+58
+00:02:44,092 --> 00:02:44,932
+e fazer essa edição.
+
+59
+00:02:45,052 --> 00:02:47,712
+Só que não é minha ferramenta favorita pra edição,
+
+60
+00:02:47,852 --> 00:02:49,592
+e vocês vão ver já já qual que é.
+
+61
+00:02:49,692 --> 00:02:51,892
+Então, vamos começar aqui com Photoshop.
+
+62
+00:02:52,752 --> 00:02:55,312
+Cara, o Photoshop vai morrer, vamos acabar com o Photoshop?
+
+63
+00:02:55,572 --> 00:02:57,252
+Talvez isso aconteça, talvez não,
+
+64
+00:02:57,352 --> 00:03:00,172
+mas tem tanta ferramenta boa no Photoshop
+
+65
+00:03:00,172 --> 00:03:02,092
+que eu ainda utilizo bastante ele.
+
+66
+00:03:02,252 --> 00:03:04,512
+E para fazer as nossas edições aqui,
+
+67
+00:03:04,612 --> 00:03:06,352
+eu gosto particularmente porque
+
+68
+00:03:06,352 --> 00:03:08,792
+eu tenho um nível de controle da imagem
+
+69
+00:03:08,792 --> 00:03:10,932
+que eu não vou ter nessas outras ferramentas.
+
+70
+00:03:10,972 --> 00:03:12,812
+Essas outras ferramentas vão te permitir apagar,
+
+71
+00:03:12,872 --> 00:03:13,612
+gerar por cima,
+
+72
+00:03:14,392 --> 00:03:16,872
+mas ela não te permite editar camadas invisíveis
+
+73
+00:03:16,872 --> 00:03:18,452
+que uma imagem tem.
+
+74
+00:03:19,812 --> 00:03:20,972
+De ajustes mesmo,
+
+75
+00:03:20,972 --> 00:03:27,172
+São adjustments de contraste, de níveis e por aí vai.
+
+76
+00:03:27,212 --> 00:03:29,252
+Isso é muito útil para poder trabalhar uma imagem.
+
+77
+00:03:29,452 --> 00:03:32,112
+Tem gente que fica tentando gerar a imagem perfeita
+
+78
+00:03:32,112 --> 00:03:36,292
+e muitas vezes a sua imagem não está perfeita com ajustes de iluminação ali
+
+79
+00:03:36,292 --> 00:03:39,332
+ou no Photoshop ou no Lightroom, você consegue uma imagem muito boa.
+
+80
+00:03:39,652 --> 00:03:43,592
+Além disso, o Photoshop agora vem integrado lá no Banana dentro dele.
+
+81
+00:03:44,452 --> 00:03:49,532
+E você consegue então aumentar ali a área da imagem e pedir para ele gerar o restante
+
+82
+00:03:49,532 --> 00:03:51,232
+e funciona lindo, que é uma beleza.
+
+83
+00:03:51,392 --> 00:03:53,232
+Então, o meu favorito pra edição
+
+84
+00:03:53,232 --> 00:03:55,432
+tem sido o Photoshop. Life Room também
+
+85
+00:03:55,432 --> 00:03:57,292
+é muito bom pra edição e fazer
+
+86
+00:03:57,292 --> 00:03:59,252
+masking com IA, é bom pra
+
+87
+00:03:59,252 --> 00:04:01,232
+cor, correção de cor. Quem
+
+88
+00:04:01,232 --> 00:04:03,352
+trabalha com isso já num nível mais profissional
+
+89
+00:04:03,352 --> 00:04:04,792
+funciona. É pra todo mundo.
+
+90
+00:04:07,292 --> 00:04:11,112
+Se você não vai trabalhar a imagem em um nível bem profissional e bem mais avançado,
+
+91
+00:04:11,192 --> 00:04:13,192
+cara, não tem necessidade, essa é a verdade.
+
+92
+00:04:13,512 --> 00:04:14,872
+Você já pode ir para outros, tá?
+
+93
+00:04:15,192 --> 00:04:17,652
+Aqui a gente tem o Photoscape, a equipe colocou aqui,
+
+94
+00:04:17,712 --> 00:04:20,512
+Photo, Photoscape também, correções guiadas por IA.
+
+95
+00:04:20,792 --> 00:04:22,332
+E aí a gente vai para os clássicos, né?
+
+96
+00:04:22,352 --> 00:04:25,452
+A gente tem o Runway, que te permite editar, tem várias ferramentas lá para isso.
+
+97
+00:04:25,632 --> 00:04:30,892
+Tem o Crea, tem o ReCraft, tem o Canva, Magic Edit, e tem outros.
+
+98
+00:04:31,152 --> 00:04:33,532
+O FreePic tem ferramentas de edição também.
+
+99
+00:04:34,052 --> 00:04:36,712
+A gente tem também o Firefly com ferramentas de edição,
+
+100
+00:04:36,712 --> 00:04:41,092
+mas se você tem o Firefly é porque você assina Adobe, se você assinar Adobe vai de Photoshop, essa é a verdade.
+
+101
+00:04:41,652 --> 00:04:46,012
+Aqui no Freepeak, olha, você vem aqui em gerar imagem, você tem editar imagem, melhorar imagem,
+
+102
+00:04:46,632 --> 00:04:51,552
+efeito de cinema, gerar mockup, alterar câmera, tem várias coisas legais que dá para utilizar aqui também,
+
+103
+00:04:51,692 --> 00:04:58,192
+e fazer essas edições, são edições rápidas, não é a mesma coisa que usar um Photoshop ou um Live Room, por exemplo.
+
+104
+00:04:59,548 --> 00:05:02,268
+Leve isso em consideração também, depende do seu nível aí.
+
+105
+00:05:02,588 --> 00:05:05,088
+Mas essas são algumas ferramentas de edição
+
+106
+00:05:05,088 --> 00:05:06,448
+que a gente acaba utilizando aqui.
+
+107
+00:05:07,348 --> 00:05:08,928
+Aí, gerou para você uma imagem legal,
+
+108
+00:05:09,028 --> 00:05:10,988
+mas às vezes precisa de um retoque, de uma edição ali.
+
+109
+00:05:11,508 --> 00:05:13,088
+Geralmente, aqui dentro do meu fluxo,
+
+110
+00:05:13,588 --> 00:05:14,648
+tem dois caminhos.
+
+111
+00:05:14,668 --> 00:05:16,748
+Tem o fluxo rápido, que eu boto os próprios agentes
+
+112
+00:05:16,748 --> 00:05:17,688
+para gerar as imagens.
+
+113
+00:05:17,708 --> 00:05:20,328
+Aí, eu tenho que tentar acertar as imagens via prompt.
+
+114
+00:05:20,608 --> 00:05:21,108
+Funciona melhor.
+
+115
+00:05:22,368 --> 00:05:24,948
+E eu tenho o fluxo que é mais artesanal
+
+116
+00:05:24,948 --> 00:05:26,568
+quando eu quero uma coisa refinada,
+
+117
+00:05:26,588 --> 00:05:27,588
+ou aqui dentro da equipe também.
+
+118
+00:05:27,588 --> 00:05:29,468
+bem, sei lá, vai fazer uma capa de um livro,
+
+119
+00:05:29,508 --> 00:05:31,368
+vai fazer um banner que vai aparecer
+
+120
+00:05:31,368 --> 00:05:33,388
+na plataforma mais vezes, aí
+
+121
+00:05:33,388 --> 00:05:34,508
+a gente costuma colocar
+
+122
+00:05:35,648 --> 00:05:37,308
+um pouco mais de esmero, né,
+
+123
+00:05:37,328 --> 00:05:39,108
+vai fazendo esses ajustes também, o Photoshop
+
+124
+00:05:39,108 --> 00:05:41,168
+entra como uma ferramenta aí muito
+
+125
+00:05:41,168 --> 00:05:43,468
+boa, beleza? Então fica
+
+126
+00:05:43,468 --> 00:05:45,368
+a referência aqui pra você, e agora vamos
+
+127
+00:05:45,368 --> 00:05:47,388
+pro próximo tipo de imagem que eu tenho mais uma lista aqui
+
+128
+00:05:47,388 --> 00:05:48,328
+pra você.
+

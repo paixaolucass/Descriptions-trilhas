@@ -1,0 +1,293 @@
+# Video: 6._mapa_de_ferramentas_e_metodologias (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-28 10:27
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:07 --> 00:00:04:17] Agora que você viu a metodologia universal de design, que é o Double Diamond,
+[00:00:04:23 --> 00:00:10:19] eu vou te mostrar uma série de ferramentas e sites onde você pode encontrar mais ferramentas
+[00:00:10:19 --> 00:00:14:07] que você pode utilizar para cada contexto específico seu.
+[00:00:14:11 --> 00:00:21:04] Eu vou te entregar agora uma caixa de ferramentas que tem caixas de ferramentas dentro dela.
+[00:00:21:09 --> 00:00:23:01] Vamos falar que é isso, né?
+[00:00:23:02 --> 00:00:27:28] Porque, na verdade, eu vou te dar repositórios locais onde você pode encontrar ainda mais referências.
+[00:00:27:29 --> 00:00:29:02] Tem muita coisa legal.
+[00:00:29:02 --> 00:00:34:26] legal e eu ainda vou te ensinar como encontrar mais repositórios ainda. Gostaram disso? Não dá
+[00:00:34:26 --> 00:00:40:22] para perder, né? Vamos lá, tem muita coisa legal aqui. A promessa já ficou boa. Voltei aqui então
+[00:00:40:22 --> 00:00:46:15] para o nosso navegador, toda aquela história que nós estávamos desenvolvendo aqui e eu quero
+[00:00:46:15 --> 00:00:53:10] começar primeiro com o Design Console. Aqui no Design Console a gente tem então essa etapa aqui,
+[00:00:53:10 --> 00:01:00:15] nesse framework de inovação, mas eles têm outros frameworks, como o framework de design sistêmico,
+[00:01:00:16 --> 00:01:06:15] que é outro bem legal também, que é baseado em Double Diamond, muito grande parte do que a...
+[00:01:07:26 --> 00:01:10:22] que o Design Console faz, é baseado em Double Diamond, então é bem legal.
+[00:01:10:28 --> 00:01:15:15] Só que isso aqui é voltado para a solução de problemas complexos,
+[00:01:15:15 --> 00:01:18:24] voltado para uma visão mais sistêmica, que é uma das habilidades nexialistas
+[00:01:18:24 --> 00:01:20:18] que nós falamos muito aqui na Overlens.
+[00:01:21:07 --> 00:01:26:20] Então aqui nós temos, olha, Systemic Design Framework, Systemic Design Toolkit,
+[00:01:27:26 --> 00:01:33:28] características de Changemakers, são as pessoas que mudam o mundo, né?
+[00:01:34:25 --> 00:01:36:12] e design para legado.
+[00:01:36:13 --> 00:01:39:18] Cada um que você entra desse, vai para uma página específica.
+[00:01:39:27 --> 00:01:42:09] Na verdade, acho que está tudo dentro da mesma página.
+[00:01:46:18 --> 00:01:48:15] Imãs, né? Como que chama quando você tem um link?
+[00:01:48:21 --> 00:01:50:06] Eu esqueci o nome disso, mas enfim.
+[00:01:50:16 --> 00:01:53:07] E aí o legal, cara, é que tem uma documentação, cada um desses.
+[00:01:54:16 --> 00:01:56:00] Então, olha isso aqui, ó.
+[00:01:56:07 --> 00:01:58:11] Uma abordagem de design sistêmico.
+[00:02:01:16 --> 00:02:02:09] Uma apostila, cara.
+[00:02:03:10 --> 00:02:03:18] Completa.
+[00:02:04:27 --> 00:02:05:24] E maravilhosa, tá?
+[00:02:06:05 --> 00:02:09:06] Eu vou admitir pra vocês, eu não li ela toda até hoje.
+[00:02:09:24 --> 00:02:11:12] Mas eu já li ela...
+[00:02:11:29 --> 00:02:13:21] Eu faço a leitura dinâmica primeiro, né?
+[00:02:13:23 --> 00:02:15:24] Então, vi todas as páginas aqui, fui só passando.
+[00:02:15:24 --> 00:02:16:16] É uma coisa que eu recomendo.
+[00:02:16:18 --> 00:02:18:06] Vai passando e lendo os títulos.
+[00:02:18:12 --> 00:02:20:06] Que aí vocês vão conhecer o documento.
+[00:02:20:06 --> 00:02:20:23] Isso é o mais importante.
+[00:02:21:05 --> 00:02:24:01] E essa parte aqui, cara, é muito poderosa.
+[00:02:24:27 --> 00:02:26:03] A metodologia é muito massa.
+[00:02:26:17 --> 00:02:29:00] E tá aqui, disponível como usar de graça.
+[00:02:29:02 --> 00:02:29:25] Você pode baixar, inclusive.
+[00:02:31:05 --> 00:02:32:17] Então fica esse primeiro ponto aqui.
+[00:02:32:28 --> 00:02:34:19] Só de saber disso aqui já valeu, né?
+[00:02:34:23 --> 00:02:35:04] Fala aí.
+[00:02:35:11 --> 00:02:36:07] Mais um presente.
+[00:02:36:13 --> 00:02:38:00] Aí tem aqui o Design Toolkit.
+[00:02:38:28 --> 00:02:40:22] Toolkit é um kit de ferramentas.
+[00:02:40:22 --> 00:02:42:01] Então, se a gente...
+[00:02:42:01 --> 00:02:44:07] Aqui sumiu o setinha, não estava tão acessível.
+[00:02:44:13 --> 00:02:48:05] Então tem aqui o kit de ferramentas, então Systemic, aí vem passando aqui.
+[00:02:48:13 --> 00:02:49:28] E eles vão trazendo...
+[00:02:50:16 --> 00:02:51:11] Aqui, ó, Tools Map.
+[00:02:52:09 --> 00:02:55:18] Depois vem Orientação e Configuração de Visão.
+[00:02:56:01 --> 00:02:59:13] Aí vai Orientação, Design para Princípios do Planeta.
+[00:03:01:16 --> 00:03:07:10] Prince pose e V300 eu adoro os frameworks do design console muito bem construidinho
+[00:03:09:03 --> 00:03:12:25] Quando nós formos construir os frameworks da Overlens, vai ser nessa mesma lógica aqui.
+[00:03:12:28 --> 00:03:15:22] Aqui em cima tem esse guia que vocês podem navegar também.
+[00:03:15:29 --> 00:03:16:22] Então, é Create.
+[00:03:17:00 --> 00:03:17:24] Aí ele vem para Create.
+[00:03:18:05 --> 00:03:19:15] Então, portfólio de ideias.
+[00:03:19:18 --> 00:03:20:24] Aí tem o portfólio de ideias.
+[00:03:20:24 --> 00:03:21:27] Cara, completão.
+[00:03:23:01 --> 00:03:25:08] Não tem o que dizer, né? Só isso aqui já valeu se tá assistindo
+[00:03:25:08 --> 00:03:27:06] essa aula. Sabe-se lá quando você
+[00:03:27:06 --> 00:03:29:04] iria descobrir que existe esse material rico de graça
+[00:03:29:04 --> 00:03:31:03] pra você aí. Ah, então tem vários aqui, ó.
+[00:03:31:24 --> 00:03:33:00] Regenerative Business Canvas.
+[00:03:33:06 --> 00:03:34:18] Então, um Business Canvas diferente,
+[00:03:35:05 --> 00:03:36:15] focado em recuperar.
+[00:03:36:27 --> 00:03:39:03] Recuperar o planeta, recuperar a empresa, tornar mais
+[00:03:39:03 --> 00:03:41:06] sustentável. Características dos
+[00:03:41:06 --> 00:03:43:02] Changemakers. Cara, gostei muito
+[00:03:43:02 --> 00:03:43:19] dessa palavra.
+[00:03:48:06 --> 00:03:50:06] Que eu vou adotar ela.
+[00:03:52:17 --> 00:03:59:27] Mas, design para um legado, aí tem aqui a série, aqui tem a série também, muito legal, cara, muito, muito massa, recomendo vocês conferirem.
+[00:04:00:27 --> 00:04:20:13] Partindo daqui, a gente vai para a D.School, de Stanford, esse aqui vai fazer você inspirar, então é um recurso, é um guia, que é o Design Thinking Bootleg, um set, um pacote, um guia introdutório de ferramentas e métodos de abordagem para abordar novos projetos, no caso aqui.
+[00:04:20:13 --> 00:04:25:22] Aí a gente entra aqui, olha só a riqueza desse material aqui de Stanford.
+[00:04:26:02 --> 00:04:29:14] Então ele começa explicando tudo primeiro, explica os princípios, né?
+[00:04:29:17 --> 00:04:32:13] Então empatizar, definir, esses são os princípios da D.School.
+[00:04:32:22 --> 00:04:36:18] Como definir, idear, como fazer a procedidação, prototipagem.
+[00:04:36:29 --> 00:04:41:18] E se você reparar, e teste, se você reparar, isso aqui é o Double Diamond, né?
+[00:04:41:18 --> 00:04:43:02] Na essência, né?
+[00:04:43:03 --> 00:04:48:22] O que muda um pouco é que aqui tem o Empathize, com Empathy, né? Empatia.
+[00:04:49:15 --> 00:04:51:04] depois que você passa isso tudo aqui
+[00:04:51:04 --> 00:04:52:25] vem as ferramentas, então olha só
+[00:04:52:25 --> 00:04:54:23] vamos lá, testar, aí começa aqui
+[00:04:55:13 --> 00:04:57:05] assuma uma mentalidade de iniciante
+[00:04:57:05 --> 00:04:59:08] sempre, isso aqui é uma das
+[00:04:59:08 --> 00:05:01:05] coisas que inclusive eu postei no meu perfil pessoal
+[00:05:01:05 --> 00:05:02:05] esses dias lá no Instagram
+[00:05:02:26 --> 00:05:04:23] assumir a mentalidade de iniciante significa
+[00:05:04:23 --> 00:05:07:05] você entender que tem muito pra você aprender ainda
+[00:05:07:05 --> 00:05:09:07] e você pode, aqui na violência a gente
+[00:05:09:07 --> 00:05:11:06] fala que a visão
+[00:05:11:06 --> 00:05:13:06] prismática, você pode colocar a
+[00:05:13:06 --> 00:05:14:29] lente de outras pessoas e isso vai
+[00:05:14:29 --> 00:05:17:10] convergir em várias luzes
+[00:05:17:27 --> 00:05:19:20] diferentes. Aí vem a ideia de prisma.
+[00:05:21:03 --> 00:05:23:01] Como assumir uma mentalidade de iniciante.
+[00:05:23:03 --> 00:05:24:18] Então, não julgue, questione tudo.
+[00:05:26:14 --> 00:05:28:00] Seja verdadeiramente curioso.
+[00:05:28:11 --> 00:05:32:09] Procure padrões e escute de verdade.
+[00:05:33:09 --> 00:05:33:28] Aí começa.
+[00:05:34:15 --> 00:05:36:06] Aqui ele começa a trazer as ferramentas.
+[00:05:36:06 --> 00:05:36:27] Então, primeira ferramenta.
+[00:05:37:08 --> 00:05:38:11] What, how, why.
+[00:05:38:21 --> 00:05:40:05] O que, como e porquê.
+[00:05:40:14 --> 00:05:41:02] Aí aqui.
+[00:05:42:00 --> 00:05:44:02] Quanto mais para o lado do o que, mais concreto.
+[00:05:44:05 --> 00:05:46:00] Quanto mais para o lado do porquê, mais emocional.
+[00:05:46:22 --> 00:05:47:19] Depois ele vem aqui.
+[00:05:48:18 --> 00:05:49:20] Entrevista de preparação.
+[00:05:49:20 --> 00:05:51:04] como fazer entrevista de preparação
+[00:05:51:04 --> 00:05:53:23] entrevista de empatia, como fazer entrevista de empatia
+[00:05:54:16 --> 00:05:55:20] usuários extremos
+[00:05:55:20 --> 00:05:57:21] como executar ferramenta de usuários extremos
+[00:05:58:10 --> 00:05:59:14] story share
+[00:05:59:14 --> 00:06:01:21] and capture, então compartilhar e capturar
+[00:06:01:21 --> 00:06:03:17] histórias, como executar
+[00:06:03:17 --> 00:06:05:16] jornada do usuário, como executar
+[00:06:05:16 --> 00:06:07:15] jornada do usuário, o poder do 10
+[00:06:07:15 --> 00:06:09:14] como executar o poder do 10
+[00:06:09:14 --> 00:06:11:25] matriz de 2x2, como executar
+[00:06:12:22 --> 00:06:12:26] o
+[00:06:14:02 --> 00:06:15:18] porquê e o como, escada de
+[00:06:15:18 --> 00:06:16:26] porquê e como, essa
+[00:06:16:26 --> 00:06:18:22] eu conheci a Y-Leadering
+[00:06:18:22 --> 00:06:19:25] e depois eu conheci a
+[00:06:20:27 --> 00:06:22:14] Whitehall Lettering, que é você
+[00:06:22:14 --> 00:06:24:12] subindo na escada, é questionar,
+[00:06:24:12 --> 00:06:26:00] basicamente você ir perguntando, por quê?
+[00:06:26:11 --> 00:06:28:11] Como? Por quê? Como? Por quê?
+[00:06:30:29 --> 00:06:36:08] Ponto de visão, como executar, inclusive, olha, vem do design, o POV, que viralizou na internet, né?
+[00:06:37:18 --> 00:06:39:10] Design Guidelines, como construir.
+[00:06:40:06 --> 00:06:44:04] How Might We Question, então perguntas, essas aqui eu gosto de chamar, né?
+[00:06:44:05 --> 00:06:47:08] Eles chamam aqui de How Might We, eu chamo de perguntas afiadas.
+[00:06:48:22 --> 00:06:50:14] Stoke, como executar Stoke.
+[00:06:50:15 --> 00:06:52:03] Brainstorm, como executar Brainstorm.
+[00:06:52:15 --> 00:06:53:27] Brainstorm de facilitação.
+[00:06:53:27 --> 00:06:56:15] Não, facilitação de Brainstorm, no caso, com mais pessoas.
+[00:06:56:19 --> 00:06:59:23] Como fazer seleção de Brainstorm.
+[00:07:01:06 --> 00:07:03:00] Depois, Impulse Contraints.
+[00:07:03:15 --> 00:07:05:05] Como fazer Impulse Contraints.
+[00:07:06:06 --> 00:07:08:05] Protótipo de Empatia, como fazer...
+[00:07:09:17 --> 00:07:12:19] improvisar para a vida, então é como se fosse um roleplay.
+[00:07:14:01 --> 00:07:18:03] Cenas aqui também, mais roleplays, improvisar, encenar.
+[00:07:19:15 --> 00:07:24:07] Teste com usuário, aí tem como fazer, prototipar para decidir, como fazer, identificar.
+[00:07:24:11 --> 00:07:26:02] Cara, tem muito ainda, eu falei.
+[00:07:26:09 --> 00:07:28:06] Então, são cards que você pode utilizar.
+[00:07:29:24 --> 00:07:31:06] Protótipos orientados ao usuário.
+[00:07:33:04 --> 00:07:34:08] Protótipo mágico de Oz.
+[00:07:35:12 --> 00:07:37:07] Feedback, matriz de captura de feedback.
+[00:07:38:17 --> 00:07:39:00] Storytelling.
+[00:07:39:06 --> 00:07:41:12] Eu gosto, eu desejo e se.
+[00:07:42:13 --> 00:07:47:03] Aí tem o eu gosto, eu desejo e se, que é baseado no eu gosto, eu desejo, eu conquisto, que é outro também.
+[00:07:47:03 --> 00:07:54:15] dados empáticos ou empatizados, revisão do portfólio.
+[00:07:56:19 --> 00:07:59:24] Empathy Probe, que eu acredito que é probabilidade.
+[00:08:00:11 --> 00:08:02:23] Não sei se é, não vou falar isso aqui, eu nunca usei, não conheço.
+[00:08:03:23 --> 00:08:05:02] Descreva seu conceito.
+[00:08:05:28 --> 00:08:07:00] Sunrise to Insight Sleep.
+[00:08:08:03 --> 00:08:09:23] Aí tem Sim e...
+[00:08:11:08 --> 00:08:12:19] Aí você fala assim e...
+[00:08:12:19 --> 00:08:13:19] Aí o outro fala assim e...
+[00:08:13:19 --> 00:08:14:23] Isso é muito legal também pra brainstorm.
+[00:08:16:11 --> 00:08:17:10] Empatia análoga.
+[00:08:17:10 --> 00:08:17:26] Tem muito.
+[00:08:17:29 --> 00:08:19:14] Tô falando todos só pra vocês verem aqui.
+[00:08:20:07 --> 00:08:21:02] Shooting video.
+[00:08:22:01 --> 00:08:22:24] Editing video.
+[00:08:23:13 --> 00:08:24:08] Que são...
+[00:08:27:05 --> 00:08:28:01] processos também.
+[00:08:28:26 --> 00:08:31:01] Quando você grava, você conta uma história.
+[00:08:31:06 --> 00:08:32:08] Então é uma metodologia também.
+[00:08:32:19 --> 00:08:34:16] Então tem aqui o Discode de Stanford
+[00:08:34:16 --> 00:08:36:21] com várias metodologias
+[00:08:36:21 --> 00:08:38:02] à disposição para
+[00:08:39:00 --> 00:08:40:06] utilizar. É pegar e utilizar.
+[00:08:40:26 --> 00:08:41:24] E é bem legal.
+[00:08:42:13 --> 00:08:44:02] Mas vocês acham que acaba por aqui?
+[00:08:45:13 --> 00:08:46:09] Não acaba por aqui.
+[00:08:46:18 --> 00:08:49:01] Vou fechar esses daqui só pra facilitar.
+[00:08:51:02 --> 00:08:51:22] Deixei esse aí.
+[00:08:52:25 --> 00:08:53:24] Deixei esse aqui.
+[00:08:53:28 --> 00:08:54:25] Vou fechar também.
+[00:08:56:09 --> 00:08:59:27] Eu vou fechando tudo aqui, daqui a pouco a gente vai voltar para os próximos, porque eu tenho mais.
+[00:08:59:29 --> 00:09:00:21] Ah, esse aqui era o próximo.
+[00:09:02:29 --> 00:09:03:12] É...
+[00:09:06:26 --> 00:09:08:23] Olha esse aqui, ó. AI and Ethics
+[00:09:08:23 --> 00:09:10:18] Collaborative Activities for
+[00:09:11:05 --> 00:09:12:24] Designers. Muito massa.
+[00:09:12:27 --> 00:09:14:22] Mas eu quero pegar aqui outros que eu selecionei
+[00:09:14:22 --> 00:09:15:27] pra vocês. Cadê?
+[00:09:17:19 --> 00:09:18:04] da minha lista.
+[00:09:22:05 --> 00:09:25:07] Eu tenho que ir fechando aqui também, senão estão muitos.
+[00:09:25:27 --> 00:09:30:06] Tem esse aqui que é o da Idle, que eu quero compartilhar também, que é o Design Kit.
+[00:09:30:15 --> 00:09:37:17] E aí aqui dentro do Design Kit tem esse Introducing the Field Guide, que é um livrinho explicando como fazer.
+[00:09:37:25 --> 00:09:39:21] E tem ferramentas aqui também.
+[00:09:39:24 --> 00:09:41:00] Então tem aqui, ó, mentalidade.
+[00:09:42:10 --> 00:09:43:25] Aí ele explica aqui mentalidade.
+[00:09:43:27 --> 00:09:45:06] Aí cada um explica um, né?
+[00:09:45:08 --> 00:09:47:12] Então, aprendendo com a falha.
+[00:09:48:00 --> 00:09:48:28] Make it, né?
+[00:09:49:01 --> 00:09:49:22] Construindo, fazendo.
+[00:09:50:26 --> 00:09:51:21] Creative confidence.
+[00:09:51:29 --> 00:09:53:08] Então, um confidente criativo.
+[00:09:53:21 --> 00:09:54:05] Empatia.
+[00:09:56:07 --> 00:09:56:20] Ambiguidade.
+[00:09:57:10 --> 00:09:57:23] Otimismo.
+[00:09:58:02 --> 00:10:00:15] E iterate, iterate, iterate, né?
+[00:10:00:16 --> 00:10:01:19] Iteração, iteração, iteração.
+[00:10:01:24 --> 00:10:03:05] Aqui tem os métodos.
+[00:10:03:14 --> 00:10:04:11] Aí tem vários.
+[00:10:04:15 --> 00:10:05:20] Esse site é muito legal.
+[00:10:06:03 --> 00:10:07:15] Então, tem vários métodos aqui também.
+[00:10:08:23 --> 00:10:12:06] Então, alinhar o impacto dos seus objetivos.
+[00:10:12:10 --> 00:10:13:17] FotoJournal, Buddy Language
+[00:10:15:15 --> 00:10:18:15] 5 porquês, que é um que a gente usa muito aqui também.
+[00:10:18:23 --> 00:10:19:17] Tem vários, olha.
+[00:10:19:21 --> 00:10:21:18] Senão eu vou ficar lendo tudo aqui para vocês também.
+[00:10:21:21 --> 00:10:22:21] É legal vocês acompanharem.
+[00:10:22:23 --> 00:10:25:08] Cada um desses aqui é um método de design thinking.
+[00:10:25:14 --> 00:10:26:08] Cada um desses.
+[00:10:27:09 --> 00:10:30:05] Disponível para inovação e buscar novas soluções.
+[00:10:30:17 --> 00:10:32:29] Então está aqui também, muito poderoso aqui.
+[00:10:33:00 --> 00:10:36:00] Você consegue, olha, inspiração, ideação e implementação.
+[00:10:36:12 --> 00:10:38:05] E aí tem todos aqui também.
+[00:10:38:11 --> 00:10:39:18] Esse da Ideal.
+[00:10:39:21 --> 00:10:44:00] É bem legal trazer ele para vocês como mais uma referência.
+[00:10:44:00 --> 00:10:50:16] outra referência não acaba que é o service design tools que também vai ter várias ferramentas aqui
+[00:10:51:03 --> 00:10:55:26] se você vem aqui em ferramentas aí você consegue acessar várias delas também aí
+[00:10:55:26 --> 00:11:01:00] tem para quando quem o quê e como aí tem ferramentas para cada uma dessas fases
+[00:11:02:16 --> 00:11:03:21] Ferramentas melhoradas.
+[00:11:04:05 --> 00:11:05:18] Aqui tem o processo deles.
+[00:11:05:19 --> 00:11:09:24] Se vocês repararem, esse lance de expandir é bem comum dentro do design.
+[00:11:11:18 --> 00:11:13:01] E bem bonito, né? É lindo de ver.
+[00:11:13:05 --> 00:11:13:26] Eu gosto muito.
+[00:11:14:22 --> 00:11:17:09] Então, tem aqui. Dá pra explorar também as ferramentas.
+[00:11:17:18 --> 00:11:19:04] E aí tem tutoriais
+[00:11:19:04 --> 00:11:20:23] de como usar essas ferramentas.
+[00:11:21:07 --> 00:11:22:01] É bem legal.
+[00:11:22:20 --> 00:11:24:06] Mais essa ferramenta pra vocês.
+[00:11:25:09 --> 00:11:26:18] Outra legal é o
+[00:11:26:18 --> 00:11:28:09] Open Practices Library.
+[00:11:28:19 --> 00:11:30:09] Esse daqui. Esse que eu posso fechar já.
+[00:11:31:07 --> 00:11:32:17] Então, Open Practices
+[00:11:32:17 --> 00:11:34:10] Library. Tem várias aqui. Inclusive, tem
+[00:11:34:10 --> 00:11:36:25] algumas que são inovadoras.
+[00:11:36:25 --> 00:11:38:12] Que não tem nesses outros. Esses aqui tem muitas
+[00:11:38:29 --> 00:11:40:00] metodologias que são comuns.
+[00:11:40:00 --> 00:11:41:26] aqui você tem algumas inovadoras, por exemplo
+[00:11:41:26 --> 00:11:43:07] essa aqui, priorização dos 100 dólares
+[00:11:44:20 --> 00:11:45:16] Então, é bem legal.
+[00:11:46:04 --> 00:11:47:08] One, two, four, all.
+[00:11:48:01 --> 00:11:48:27] Também é interessante.
+[00:11:49:08 --> 00:11:50:00] 10 para 10.
+[00:11:50:03 --> 00:11:52:03] Tem muitas ferramentas aqui inovadoras
+[00:11:52:03 --> 00:11:54:11] que vocês podem encontrar também.
+[00:11:54:15 --> 00:11:56:18] E é um link bem legal, cara,
+[00:11:56:21 --> 00:11:58:03] para vocês conferirem aí.
+[00:11:58:15 --> 00:11:59:22] Vale a pena ficarem de olho.
+[00:11:59:24 --> 00:12:01:05] Olha aí, a lista não para.
+[00:12:01:27 --> 00:12:04:29] Por isso que agora vocês estão entendendo, né?
+[00:12:05:03 --> 00:12:07:11] Por que eu mostrei primeiro a metodologia universal.
+[00:12:07:23 --> 00:12:09:06] Porque eu preciso partir de algum lugar,
+[00:12:09:07 --> 00:12:09:21] está muito difícil.
+[00:12:09:23 --> 00:12:10:22] Parte do Double Diamond.
+[00:12:10:28 --> 00:12:13:01] Mas tem muitas ferramentas aqui
+[00:12:13:01 --> 00:12:18:12] aqui para cada uma da para cada contexto que você vai trabalhar e aí tem aqui ó Fundation aí tem
+[00:12:18:12 --> 00:12:24:13] ferramentas de Fundation depois tem discover decide Deliver que basicamente isso aqui é o que
+[00:12:25:29 --> 00:12:27:23] Double Diamond, na veia.
+[00:12:28:01 --> 00:12:31:26] Então tem aqui mais uma referência para vocês.
+[00:12:32:13 --> 00:12:38:16] Esse aqui é orientado no Double Diamond, eles criaram esse infinito aqui para mostrar que é iterativo e vai e volta.
+[00:12:38:29 --> 00:12:41:27] Para fechar nas referências, que não acaba aqui, eu quero trazer o Miro,
+[00:12:42:01 --> 00:12:46:15] que aqui no Miro tem várias ferramentas de Design Thinking, que você pode encontrar também,
+[00:12:46:20 --> 00:12:55:02] e o próprio Figma, que eu mostrei aqui para vocês, vocês viram que também tem várias ferramentas que você pode utilizar dentro do processo.
+[00:12:56:08 --> 00:12:58:14] Metodologias novas estão sempre surgindo.
+[00:12:58:26 --> 00:13:01:07] E você também pode criar as suas próprias.
+[00:13:01:14 --> 00:13:04:23] Mas eu recomendo você começar subindo em ombros de gigantes,
+[00:13:04:26 --> 00:13:09:08] colocando a lente de outras pessoas que já pensaram muito nesses processos.
+[00:13:09:10 --> 00:13:13:11] Equipes inteiras criando métodos que você pode utilizar hoje
+[00:13:13:11 --> 00:13:17:10] para fazer consultoria com seus clientes, ajudar eles a modelar o negócio para o futuro,
+[00:13:17:15 --> 00:13:21:07] trabalhar o seu negócio para ser mais sustentável, para ser mais sistêmico, mais preparado,
+[00:13:21:09 --> 00:13:24:11] future-proof, tudo isso usando metodologias de design.
+[00:13:24:11 --> 00:13:45:14] Quem diria que o design iria ajudar a salvar o mundo? As pessoas não levam isso em consideração, mas isso já está acontecendo. Então, eu trouxe essas referências para vocês. No próximo tópico, eu quero trazer aqui para vocês agora uma reflexão sobre o design thinking na era das inteligências artificiais. Então, toca aí e vamos para a próxima parte. Bora lá!

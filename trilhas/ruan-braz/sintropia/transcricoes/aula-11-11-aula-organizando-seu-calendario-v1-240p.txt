@@ -1,0 +1,612 @@
+# Video: 11._aula_-_organizando_seu_calendário_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 17:46
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:00 --> 00:00:04:29] Esse que eu vou mostrar pra vocês aqui é a minha agenda dentro da Overlens.
+[00:00:05:12 --> 00:00:07:08] Eu tenho uma agenda pessoal também,
+[00:00:07:27 --> 00:00:11:26] só que eu percebi que o ideal é que eu tenha uma única agenda pra tudo.
+[00:00:12:00 --> 00:00:15:25] Porque aí desse jeito, tanto a minha vida pessoal quanto o meu trabalho,
+[00:00:16:01 --> 00:00:18:01] eles vão fazendo parte da mesma coisa, que é o quê?
+[00:00:18:01 --> 00:00:18:21] Minha única vida.
+[00:00:19:08 --> 00:00:21:13] Não é como se eu tivesse duas vidas, é o que eu acredito, tá?
+[00:00:21:16 --> 00:00:23:29] Eu tenho uma vida e eu aloco meu tempo nessas coisas,
+[00:00:24:02 --> 00:00:25:23] seja trabalho, lazer, descanso.
+[00:00:26:01 --> 00:00:29:22] Então eu estou mesclando, tanto que vocês vão ver que não está tudo aqui ainda,
+[00:00:30:00 --> 00:00:39:14] Por exemplo, vocês não vão ver aqui no meu domingo, tem aqui gerenciar finanças pessoais, mas não tem aqui um que eu faço antes, que é o meu bloco de matriz de decisão.
+[00:00:39:16 --> 00:00:41:24] Como que vai ser minha próxima semana e como que foi minha semana anterior.
+[00:00:42:11 --> 00:00:45:16] Esse é um dos mais importantes, eu ainda não trouxe ele para cá.
+[00:00:46:01 --> 00:00:49:11] Mas, para vocês entenderem a lógica, vamos pegar uma semana nova.
+[00:00:49:17 --> 00:00:52:13] Isso aqui foi o que aconteceu essa semana de blocos travados.
+[00:00:52:16 --> 00:00:58:25] Se vocês repararem, tem vários blocos livres aqui, que eventualmente eu fiz outras coisas e não mapeei aqui.
+[00:00:58:25 --> 00:01:00:17] aqui, tá? Deveria ter mapeado também.
+[00:01:00:25 --> 00:01:02:21] Mas vamos pegar meus blocos travados
+[00:01:02:21 --> 00:01:03:28] da semana seguinte
+[00:01:03:28 --> 00:01:06:19] e tem duas coisas que eu não fiz, que eu
+[00:01:06:19 --> 00:01:08:18] levaria cinco minutos pra fazer e elas estão
+[00:01:08:18 --> 00:01:10:05] ocupando espaço na minha mente
+[00:01:10:05 --> 00:01:12:13] e já tá ficando mais caro.
+[00:01:13:16 --> 00:01:16:26] que é duas reuniões que eu deveria ter agendado e não agendei.
+[00:01:17:08 --> 00:01:20:13] E aí é uma reunião com a Kiza e uma reunião com o Vini.
+[00:01:20:23 --> 00:01:22:14] Não agendei nenhuma das duas aqui,
+[00:01:24:03 --> 00:01:26:14] e está na minha cabeça, eu tenho que agendar, tenho que agendar.
+[00:01:26:27 --> 00:01:28:11] Eu já deveria ter colocado aqui.
+[00:01:28:22 --> 00:01:30:29] Por isso que sempre que eu quebro isso, eu falo,
+[00:01:31:00 --> 00:01:31:29] eu não posso quebrar minha regra.
+[00:01:32:00 --> 00:01:33:23] Mas eu gosto de mostrar até para vocês verem que,
+[00:01:34:10 --> 00:01:37:03] mesmo eu que desenvolvi esse sistema todo para vocês,
+[00:01:37:08 --> 00:01:39:08] nem sempre eu consigo fazer ele com perfeição.
+[00:01:39:10 --> 00:01:40:02] Tem falhas.
+[00:01:40:10 --> 00:01:41:27] Mas mesmo com essas falhas,
+[00:01:42:20 --> 00:01:44:17] criando esse processo que eu vou ensinar pra vocês
+[00:01:44:17 --> 00:01:46:18] aqui, vocês já vão conseguir
+[00:01:47:29 --> 00:01:48:12] evitar
+[00:01:49:00 --> 00:01:50:25] muitas falhas, já vai facilitar
+[00:01:50:25 --> 00:01:51:27] muito a vida de vocês
+[00:01:51:27 --> 00:01:54:18] muita gente pergunta assim, Juan, como é que você consegue
+[00:01:54:18 --> 00:01:56:12] fazer tanta coisa, e realmente é muita
+[00:01:56:12 --> 00:01:58:16] coisa que eu faço, mas mesmo assim
+[00:01:58:16 --> 00:02:00:06] eu não me sinto cansado no final do dia
+[00:02:00:06 --> 00:02:02:23] não me sinto estafado, não vejo que eu tô em risco
+[00:02:02:23 --> 00:02:04:22] de burnout, cuido da minha saúde
+[00:02:04:22 --> 00:02:06:21] durmo bem, faço o que
+[00:02:06:21 --> 00:02:08:00] preciso, tem momentos que
+[00:02:08:00 --> 00:02:10:24] eu não consigo, faço um trade-off
+[00:02:10:24 --> 00:02:12:22] aqui, outro ali, acontece, mas o mínimo
+[00:02:12:22 --> 00:02:13:23] pelo menos eu faço.
+[00:02:14:13 --> 00:02:16:25] E aí é por isso que eu falo pra vocês calcularem o mínimo.
+[00:02:17:20 --> 00:02:18:15] O que é o mínimo?
+[00:02:18:18 --> 00:02:20:23] No mínimo, caminhar 30 minutos por dia.
+[00:02:20:24 --> 00:02:23:02] No mínimo. Isso é uma das coisas que eu faço.
+[00:02:23:12 --> 00:02:24:11] Mas olha que interessante.
+[00:02:24:17 --> 00:02:26:19] Pegando aqui o calendário mais conectado
+[00:02:26:19 --> 00:02:28:00] com as coisas que eu faço na Overlens.
+[00:02:28:12 --> 00:02:30:17] Vamos pegar aqui a partir de segunda. Essa é a minha próxima
+[00:02:30:17 --> 00:02:32:12] semana. Então, eu já tenho aqui
+[00:02:32:12 --> 00:02:34:14] esse bloco verde, que começa
+[00:02:34:14 --> 00:02:36:15] às 5 da manhã e vai até 1
+[00:02:36:15 --> 00:02:38:18] hora da tarde. O que é esse bloco
+[00:02:38:18 --> 00:02:40:10] verde? Isso aqui eu percebi errando.
+[00:02:40:10 --> 00:02:41:21] percebi fazendo, tá?
+[00:02:42:06 --> 00:02:43:11] O bloco verde,
+[00:02:44:02 --> 00:02:46:00] ou azul, né? É um verde azulado,
+[00:02:46:00 --> 00:02:48:05] aí depois se fala azul petróleo, mas enfim.
+[00:02:48:24 --> 00:02:50:06] Esse bloco aqui, que eu chamei de
+[00:02:50:06 --> 00:02:52:01] hora de se concentrar, eu tenho várias
+[00:02:52:01 --> 00:02:54:02] tarefas que eu faço nele, que não estão
+[00:02:55:10 --> 00:02:56:01] definidas aqui,
+[00:02:56:18 --> 00:02:58:14] mas são tarefas que são relacionadas
+[00:02:58:14 --> 00:03:00:11] com a minha prioridade que eu defino sempre no domingo.
+[00:03:01:02 --> 00:03:02:03] Geralmente, o que que tem aqui?
+[00:03:02:23 --> 00:03:03:13] Gravar aula,
+[00:03:04:22 --> 00:03:06:11] preparar, que agora a gente vai começar
+[00:03:06:11 --> 00:03:08:09] a fazer vídeo no YouTube, preparar roteiro de YouTube,
+[00:03:08:17 --> 00:03:09:21] gravar vídeo pro YouTube.
+[00:03:09:21 --> 00:03:12:06] são as coisas que eu sei que se eu fizer ao longo do ano,
+[00:03:12:11 --> 00:03:14:12] se eu tá dentro da minha prioridade, por exemplo,
+[00:03:14:12 --> 00:03:16:21] minha prioridade esse ano é YouTube,
+[00:03:16:28 --> 00:03:18:11] e eu tenho minhas metas de YouTube.
+[00:03:18:21 --> 00:03:21:15] E aí, dentro disso, eu coloco como uma prioridade,
+[00:03:22:03 --> 00:03:24:11] tá dentro das primeiras coisas que eu tenho que fazer no meu dia.
+[00:03:25:05 --> 00:03:28:01] Junto com outras que são prioridade, que é gravar anúncio,
+[00:03:28:03 --> 00:03:30:07] junto com outra prioridade que é...
+[00:03:31:18 --> 00:03:34:27] preparar materiais para as campanhas, para os lançamentos,
+[00:03:35:00 --> 00:03:37:03] me organizar, mas ali é meu tempo.
+[00:03:37:11 --> 00:03:39:26] Se vocês repararem, eu posso trocar aqui,
+[00:03:39:27 --> 00:03:41:24] porque aqui está mostrando as agendas da Overlens.
+[00:03:41:26 --> 00:03:42:25] Vou tirar todas elas.
+[00:03:43:07 --> 00:03:45:27] O Google, ele te permite criar agendas compartilhadas.
+[00:03:46:02 --> 00:03:48:04] Então, essa aqui é a minha agenda.
+[00:03:48:18 --> 00:03:50:11] Isso aqui é só meu, só Juan Brás.
+[00:03:50:22 --> 00:03:53:11] Se vocês repararem, tem aqui a daily do estúdio,
+[00:03:53:13 --> 00:03:55:06] que acontece todo dia, 8 horas da manhã.
+[00:03:55:09 --> 00:03:56:08] E ela está arriscada.
+[00:03:56:15 --> 00:03:58:09] Por que essa daily está arriscada?
+[00:03:58:09 --> 00:04:01:27] As outras ainda, as de sábado e domingo, não estão arriscadas,
+[00:04:01:29 --> 00:04:04:29] porque eu já coloquei, eu manualmente coloquei que eu tenho que fazer isso
+[00:04:04:29 --> 00:04:05:27] no sábado e domingos.
+[00:04:06:03 --> 00:04:10:09] E tem aqui essas duas aqui, de checklist e de budget,
+[00:04:10:12 --> 00:04:12:00] de orçamento para as nossas campanhas,
+[00:04:12:03 --> 00:04:13:23] que eu também coloquei de propósito.
+[00:04:13:24 --> 00:04:16:24] Nesse dia, eu sei que eu estou sacrificando esse tempo para fazer isso.
+[00:04:17:16 --> 00:04:20:29] Mas qualquer outra coisa que alguém tentar agendar para mim nesse horário,
+[00:04:21:00 --> 00:04:24:12] vai automaticamente, o Google vai automaticamente recusar.
+[00:04:25:06 --> 00:04:27:17] Na hora, já é recusado no primeiro momento.
+[00:04:28:08 --> 00:04:29:21] E por que, como que eu fiz isso?
+[00:04:29:24 --> 00:04:32:08] Vocês vão vir aqui, em, cadê?
+[00:04:35:12 --> 00:04:36:13] Estatística de uso, agenda.
+[00:04:38:29 --> 00:04:41:01] horário, porque eu acho que vai aparecer
+[00:04:41:01 --> 00:04:42:12] aqui, ó. Vocês vão ver em mais insights.
+[00:04:42:29 --> 00:04:44:27] Aqui em mais insights, vocês vão poder
+[00:04:44:27 --> 00:04:46:26] ver o tempo. Aqui eu estou vendo de todo mundo
+[00:04:46:26 --> 00:04:48:22] da equipe. Talvez vocês não vão conseguir ver isso,
+[00:04:49:09 --> 00:04:51:01] porque aqui é do Google Workspace
+[00:04:51:01 --> 00:04:52:25] que a gente usa. Mas tem como
+[00:04:52:25 --> 00:04:53:28] você colocar...
+[00:04:55:26 --> 00:04:56:20] Deixa eu ver se está aqui.
+[00:04:56:25 --> 00:04:57:22] Eu perdi onde estava.
+[00:04:57:25 --> 00:04:58:22] Geralmente ficava aqui.
+[00:05:00:00 --> 00:05:03:20] Reserva de reunião, estatística de uso, minha agenda, outras agendas.
+[00:05:05:10 --> 00:05:06:26] Eu acho que como eu coloquei, ele não aparece.
+[00:05:07:00 --> 00:05:09:10] Esse hora de concentrar, ele aparece aqui no...
+[00:05:10:21 --> 00:05:11:03] No...
+[00:05:13:26 --> 00:05:15:18] Talvez seja aqui, ajustar o horário de trabalho.
+[00:05:15:25 --> 00:05:16:13] Deixa eu ver se é aqui.
+[00:05:20:09 --> 00:05:21:16] Às vezes muda e eu me perco também.
+[00:05:21:29 --> 00:05:24:17] Mas tem uma opção aqui que você tem a hora de concentrar.
+[00:05:25:20 --> 00:05:28:26] E na sua hora de concentrar, você vai colocar...
+[00:05:30:24 --> 00:05:46:22] Você vai configurar o horário que isso acontece, né, você pode fazer picado, você pode ter várias horas de concentrar no dia, eu que prefiro deixar amanhã para as minhas horas de concentrar, mas você vai definir o seu horário de hora de concentrar e vai colocar as suas informações, você vai colocar as suas regras.
+[00:05:46:22 --> 00:05:49:05] então as minhas regras é sempre recusar
+[00:05:49:17 --> 00:05:51:02] eventos que caírem nesse horário
+[00:05:51:02 --> 00:05:53:00] que a pessoa vai ver que eu não posso participar
+[00:05:53:12 --> 00:05:54:27] então ele sempre recusa e avisa a pessoa
+[00:05:54:27 --> 00:05:57:04] ó, o Juan recusou, ele não pode participar nesse horário
+[00:05:57:27 --> 00:05:58:08] e
+[00:05:59:11 --> 00:06:00:24] além de sempre recusar, nossa
+[00:06:00:24 --> 00:06:03:10] eu tô com raiva aqui, eu tô querendo achar pra vocês e não tô achando
+[00:06:06:10 --> 00:06:08:20] Vou fazer o seguinte, que isso vai ser legal para vocês.
+[00:06:08:27 --> 00:06:12:20] Eu vou logar em uma outra aqui também e vou mostrando as duas.
+[00:06:13:10 --> 00:06:14:01] Por quê?
+[00:06:14:03 --> 00:06:17:06] Porque aí pode ser que não está aparecendo, porque eu já configurei também.
+[00:06:17:29 --> 00:06:20:17] Então, eu vou pegar aqui um vazio.
+[00:06:21:27 --> 00:06:22:28] Vou lá, o Google Calendar.
+[00:06:23:12 --> 00:06:25:09] Esse aqui, inclusive, é conta gratuita, tá?
+[00:06:25:24 --> 00:06:27:19] Então, tudo que tem aqui, vocês vão conseguir fazer.
+[00:06:28:15 --> 00:06:30:08] Então, beleza. Vou deixar aí, entendi.
+[00:06:30:10 --> 00:06:31:25] Já vem com algumas agendas, né?
+[00:06:33:06 --> 00:06:34:00] Calendário, tarefas.
+[00:06:34:09 --> 00:06:36:13] Tem aqui agendamento de horários também.
+[00:06:36:21 --> 00:06:39:09] Aí você pode colocar, criar várias agendas suas,
+[00:06:39:10 --> 00:06:41:12] inclusive, cobrar por isso.
+[00:06:41:15 --> 00:06:42:22] Dá para conectar o Stripe aqui,
+[00:06:42:25 --> 00:06:44:18] um recurso bem legal do Google Calendar.
+[00:06:44:28 --> 00:06:47:13] Então, você coloca aqui quais horários você tem disponível
+[00:06:47:13 --> 00:06:49:08] para reuniões com clientes, coisas do tipo.
+[00:06:49:08 --> 00:06:50:21] tipo, registra isso aqui,
+[00:06:50:23 --> 00:06:52:29] quando o cliente quiser marcar algo com você,
+[00:06:53:01 --> 00:06:57:01] ou equipe, você vai enviar o seu link de marcações.
+[00:06:57:04 --> 00:06:59:18] Vão aparecer só os horários que você já estipulou antes,
+[00:06:59:20 --> 00:07:02:01] a pessoa pode marcar automático e já colocar automático na agenda.
+[00:07:02:07 --> 00:07:03:26] Ou seja, você automatizou algo,
+[00:07:04:07 --> 00:07:06:04] é uma tarefa simples, rápida de fazer,
+[00:07:06:09 --> 00:07:08:03] que antes você tinha que ficar indo lá manualmente fazendo.
+[00:07:08:16 --> 00:07:11:26] É o problema que eu não mandei o link nem para a Kisa e nem para o Vini, né?
+[00:07:11:27 --> 00:07:14:16] Se eu tivesse mandado ali, a gente poderia já marcar automático nos links,
+[00:07:15:16 --> 00:07:17:09] mas já fica como ponto aqui.
+[00:07:18:16 --> 00:07:21:03] Além disso, deixa eu ver se é quando eu vou criar aqui.
+[00:07:22:27 --> 00:07:23:24] Aqui é só evento.
+[00:07:26:21 --> 00:07:28:26] Olha, hoje tá passando muito trem.
+[00:07:29:06 --> 00:07:31:00] E o pior é que eu tô do lado de um hospital,
+[00:07:31:02 --> 00:07:33:00] não sei por que que eles ficam fazendo isso aqui
+[00:07:33:00 --> 00:07:34:03] do lado do hospital, cara.
+[00:07:36:14 --> 00:07:43:05] É, parece que no Google gratuito, você não consegue ver insights.
+[00:07:43:18 --> 00:07:45:24] Parece que aqueles insights são do workspace mesmo.
+[00:07:46:00 --> 00:07:48:08] São insights bem valiosos, tá? Só para mostrar aqui para vocês.
+[00:07:48:19 --> 00:07:51:13] Eu sei quantas horas eu gasto em cada tag que eu criei.
+[00:07:51:14 --> 00:07:53:20] Isso aqui é só da Overlens, né? Então são os departamentos.
+[00:07:53:21 --> 00:07:55:18] Produto, Brand, Growth, Diretoria, Finanças.
+[00:07:55:29 --> 00:07:57:15] Então eu sei quanto que eu gastei em cada um.
+[00:07:57:18 --> 00:08:00:19] Eu sei quantas horas estão destinadas para a minha hora de concentrar, né?
+[00:08:00:19 --> 00:08:02:22] Então no momento são 55 horas destinadas aqui.
+[00:08:02:22 --> 00:08:07:08] aqui e tem meu tempo restante da semana, que eu posso agendar outras coisas nele também.
+[00:08:07:22 --> 00:08:08:23] Então, ele traz esses insights.
+[00:08:09:03 --> 00:08:10:15] Como que você tem isso aqui?
+[00:08:10:18 --> 00:08:11:28] Eu assino o Google Workspace.
+[00:08:12:06 --> 00:08:15:10] O bom é que o Google Workspace dá acesso a várias IAs também, mas não vou entrar
+[00:08:15:10 --> 00:08:15:21] nisso agora.
+[00:08:16:08 --> 00:08:19:08] Então, eu sei aqui também quanto tempo eu gastei em reuniões durante a semana, em
+[00:08:19:08 --> 00:08:22:29] cada semana, e eu sei também quanto tempo cada pessoa da equipe está gastando aqui.
+[00:08:23:29 --> 00:08:25:28] E aí, eu posso avaliar isso aqui.
+[00:08:26:02 --> 00:08:30:09] E não só da equipe, como também pessoas que, às vezes, a gente tem uma agenda comigo,
+[00:08:30:09 --> 00:08:33:17] comigo, igual a Larissa aqui, financeiro pessoal, a gente faz isso junto.
+[00:08:35:02 --> 00:08:38:05] Tá? Então, eu tenho essas estatísticas e eu tenho a possibilidade também,
+[00:08:38:08 --> 00:08:41:13] eu só não estou achando onde agora, de criar minha hora de concentrar.
+[00:08:41:15 --> 00:08:43:17] Aí eu tenho isso aqui, ó, não perturbe, está ativado.
+[00:08:43:22 --> 00:08:45:24] Vou ver se eu consigo criar aqui um com vocês, olha.
+[00:08:46:09 --> 00:08:48:15] Então, vamos colocar aqui das...
+[00:08:49:01 --> 00:08:49:29] Colocar mais opções.
+[00:08:50:15 --> 00:08:53:08] Já vou colocar aqui das 5 até as 13.
+[00:08:57:08 --> 00:08:59:06] Peraí que o meu mouse tá girando muito rápido ali.
+[00:08:59:09 --> 00:09:00:25] Tenho que trocar a sensibilidade dele.
+[00:09:01:08 --> 00:09:03:17] Então aqui uma da tarde, 13 horas aqui, ó.
+[00:09:04:03 --> 00:09:05:20] Então de 5 até 1.
+[00:09:06:02 --> 00:09:12:00] E vou colocar aqui que se repete segunda, terça, quarta, quinta, sexta, sábado e domingo.
+[00:09:12:06 --> 00:09:14:05] Aí no caso eu posso colocar todos os dias aqui, né?
+[00:09:14:16 --> 00:09:15:19] Todos os dias da semana.
+[00:09:16:18 --> 00:09:19:00] Ou todos os dias, inclusive sábado e domingo.
+[00:09:19:08 --> 00:09:21:12] Vou colocar aqui, não é o dia inteiro, né?
+[00:09:21:15 --> 00:09:23:23] Então vou colocar aqui pra repetir.
+[00:09:23:23 --> 00:09:25:24] esse não é o tipo de tarefa que eu preciso
+[00:09:25:24 --> 00:09:26:12] de...
+[00:09:29:01 --> 00:09:30:29] Google Meet, né? Se eu precisasse, eu já poderia
+[00:09:30:29 --> 00:09:33:07] colocar aqui. Eu posso adicionar notificações
+[00:09:33:07 --> 00:09:34:28] de quando eu quero ser lembrado dessa
+[00:09:36:12 --> 00:09:37:01] tarefa em
+[00:09:37:16 --> 00:09:39:01] específico. Aqui são
+[00:09:39:01 --> 00:09:40:25] as tags, eu gosto de criar minhas tags
+[00:09:40:25 --> 00:09:42:17] também, porque aí eu
+[00:09:43:05 --> 00:09:45:02] divido as cores ali, sei onde que vai estar.
+[00:09:45:12 --> 00:09:47:07] E aqui tem também, ó, ocupado,
+[00:09:47:09 --> 00:09:48:28] e aí eu posso colocar público
+[00:09:48:28 --> 00:09:50:21] ou particular ou visibilidade padrão.
+[00:09:51:01 --> 00:09:52:28] Qualquer pessoa pode ver os detalhes desse evento,
+[00:09:52:29 --> 00:09:54:29] inclusive as descrições e os nomes em anexos.
+[00:09:55:07 --> 00:09:56:19] Ou, se eu coloco particular,
+[00:09:56:27 --> 00:09:58:26] outras pessoas não conseguem ver detalhes, a menos
+[00:09:58:26 --> 00:09:59:17] menos que tem autorização.
+[00:09:59:25 --> 00:10:04:02] E visibilidade padrão, elas conseguem ver que a tarefa existe,
+[00:10:04:05 --> 00:10:07:09] mas não conseguem ver todas as informações da tarefa.
+[00:10:07:14 --> 00:10:10:09] No caso, essa tarefa aqui não veio com não perturbe.
+[00:10:10:28 --> 00:10:13:25] E parece que eu não consigo, na configuração padrão,
+[00:10:13:25 --> 00:10:15:11] adicionar um não perturbe aqui.
+[00:10:17:03 --> 00:10:19:15] Poxa, seria legal no gratuito. Deixa eu ver aqui, ó.
+[00:10:20:20 --> 00:10:23:24] Alterar proprietário, publicar, duplicar, imprimir.
+[00:10:25:28 --> 00:10:27:01] É, não tem essa opção aqui.
+[00:10:28:13 --> 00:10:30:10] Deixa eu ver se eu colocar agendamento de horário.
+[00:10:30:13 --> 00:10:31:13] Ah, não, aqui, beleza.
+[00:10:31:16 --> 00:10:32:28] Aqui é a agenda que eu já mostrei.
+[00:10:34:03 --> 00:10:34:20] E tarefa.
+[00:10:35:25 --> 00:10:37:19] Talvez tarefa dê para colocar por aqui.
+[00:10:39:03 --> 00:10:42:07] Então, domingo, vou colocar aqui todos os dias.
+[00:10:44:00 --> 00:10:44:21] É, também não aparece.
+[00:10:45:22 --> 00:10:48:14] Poxa, tá aí o investimento que eu fiz e valeu muito a pena pra mim, tá?
+[00:10:48:16 --> 00:10:51:21] No gratuito não tem essas opções, que eu vou mostrar ali.
+[00:10:53:10 --> 00:10:56:01] Tenho que assinar? Vai ser... É imprecedível? Não.
+[00:10:56:12 --> 00:10:58:19] Já dá para trabalhar aqui, ó. O principal é isso aqui, ó.
+[00:11:00:06 --> 00:11:01:04] Você ter os blocos.
+[00:11:01:10 --> 00:11:03:13] Então você já vai conseguir trabalhar nos blocos,
+[00:11:03:13 --> 00:11:05:18] você só não vai conseguir automatizar algumas coisas.
+[00:11:05:20 --> 00:11:07:18] Mas o principal você consegue fazer de graça.
+[00:11:07:22 --> 00:11:09:22] Que é o quê? Eu criei esse bloco pra mim.
+[00:11:09:27 --> 00:11:11:09] Que é um bloco das minhas prioridades.
+[00:11:11:10 --> 00:11:13:25] Então meu período da manhã, que é onde eu tô com mais energia,
+[00:11:14:07 --> 00:11:16:07] que é onde eu tô com mais clareza mental,
+[00:11:16:15 --> 00:11:18:11] que é onde eu tô com melhor humor,
+[00:11:18:17 --> 00:11:20:12] porque eu ainda não puxei nenhum problema pra mim,
+[00:11:20:14 --> 00:11:21:26] eu protejo esse horário.
+[00:11:21:28 --> 00:11:23:20] Eu protejo com todas as minhas forças.
+[00:11:24:01 --> 00:11:26:24] Pra tirar reunião, não gosto de fazer reunião nesse horário.
+[00:11:26:27 --> 00:11:28:01] Esse ano, inclusive...
+[00:11:29:10 --> 00:11:31:01] reforcei isso aqui mais do que 2025,
+[00:11:31:10 --> 00:11:33:09] porque em 2025 eu quebrei essa minha regra
+[00:11:33:09 --> 00:11:35:10] aqui um monte de vezes, e foi ruim pra mim.
+[00:11:35:22 --> 00:11:36:25] Agora, esse ano,
+[00:11:36:28 --> 00:11:38:29] tá como regra de
+[00:11:38:29 --> 00:11:41:13] evitar 99%,
+[00:11:41:13 --> 00:11:42:20] só se for muito crítico,
+[00:11:43:08 --> 00:11:45:08] esse horário aqui pra outras coisas, porque aqui eu vou focar
+[00:11:45:08 --> 00:11:47:01] nas minhas prioridades,
+[00:11:47:02 --> 00:11:49:08] do dia, da semana, do mês, do trimestre,
+[00:11:49:08 --> 00:11:51:17] do semestre, do ano. Então ele é reservado
+[00:11:51:17 --> 00:11:53:08] pra isso. Assim eu aumento as chances
+[00:11:53:08 --> 00:11:55:02] de que eu vou garantir. É um
+[00:11:55:02 --> 00:11:57:05] terço, oito horas do meu dia.
+[00:11:57:05 --> 00:12:01:08] dia. Um terço do meu dia que é reservado pra prioridades e
+[00:12:01:08 --> 00:12:04:09] operações entre essas prioridades, né? Como, por
+[00:12:04:09 --> 00:12:09:05] exemplo, ir fazer um exercício, tomar um café, se a gente pega
+[00:12:09:05 --> 00:12:11:19] aqui, ó, que é o tempo de concentrar e pra mim, tomar
+[00:12:11:19 --> 00:12:14:13] café, fazer exercício, faz parte dessa concentração, por
+[00:12:14:13 --> 00:12:17:17] isso que eu coloco aqui, eu acordo cinco, aí eu acordo,
+[00:12:17:18 --> 00:12:21:17] gosto de meditar, gosto de ler um pouquinho e aí eu saio pra
+[00:12:21:17 --> 00:12:24:16] caminhar ou correr em jejum. Eu gosto de fazer assim, eu
+[00:12:24:16 --> 00:12:26:10] eu não gosto de tomar café, bebo água, mas saio.
+[00:12:26:14 --> 00:12:27:08] Saio pra correr,
+[00:12:28:08 --> 00:12:30:01] levo o Billy pra passear comigo,
+[00:12:30:07 --> 00:12:32:06] a gente corre junto, faço mais ou menos
+[00:12:32:06 --> 00:12:34:14] uma hora desse exercício, todos os dias,
+[00:12:34:19 --> 00:12:36:14] e aí chego por volta,
+[00:12:36:17 --> 00:12:38:08] eu saio 10 pra 6, 6,
+[00:12:38:11 --> 00:12:39:28] chego por volta de 10 pra 7, 7.
+[00:12:40:07 --> 00:12:42:01] Chego nesse horário, tomo um banho, e aí
+[00:12:42:01 --> 00:12:44:02] eu tomo café. Deu mais ou menos
+[00:12:44:02 --> 00:12:46:01] 7 e meia, aí ou
+[00:12:46:01 --> 00:12:48:02] eu vou sair pro estúdio, direto pra cá,
+[00:12:48:06 --> 00:12:49:28] ou eu entro no processo
+[00:12:49:28 --> 00:12:52:00] de trabalho dentro do meu escritório
+[00:12:52:00 --> 00:12:54:02] em casa. Aí eu trabalho lá no escritório, resolvo
+[00:12:54:02 --> 00:12:55:23] que eu tenho que fazer, geralmente sábado e domingo é assim,
+[00:12:55:27 --> 00:12:57:14] e de segunda a sexta eu vou pro estúdio.
+[00:12:57:23 --> 00:12:59:25] Aí eu tenho uma micro call, é uma daily,
+[00:12:59:29 --> 00:13:02:10] é a única call que eu faço, mas ela tem relação com a prioridade,
+[00:13:02:10 --> 00:13:04:10] que é a daily do estúdio, que é onde eu defino
+[00:13:04:10 --> 00:13:06:13] roteiro, vídeos editados,
+[00:13:07:00 --> 00:13:08:15] materiais que a gente precisa entregar,
+[00:13:08:17 --> 00:13:10:13] que estão estritamente relacionados
+[00:13:10:13 --> 00:13:12:04] com a minha prioridade. Aí eu faço essa reunião
+[00:13:12:04 --> 00:13:13:28] com a Thaís e com o Davi, no momento
+[00:13:13:28 --> 00:13:16:02] são os dois na equipe que estão comigo nessa reunião,
+[00:13:16:05 --> 00:13:18:02] a gente define ali o que precisa, a ideia
+[00:13:18:02 --> 00:13:20:04] dessa reunião é coisa de 10, 15 minutos, só define
+[00:13:20:04 --> 00:13:21:23] ali e acabou. Deu 8h15,
+[00:13:21:23 --> 00:13:28:14] eu já tô no estúdio, começo a ligar tudo aqui pra ou gravar ou escrever roteiro, é o meu ponto principal.
+[00:13:28:29 --> 00:13:37:00] Vou fazer isso até mais ou menos meio-dia, meio-dia e meia, tem uns snacks, algumas coisas pra eu comer entre esses períodos aqui no escritório,
+[00:13:37:15 --> 00:13:41:13] e aí eu volto pra casa. Aí o restante do dia eu vou trabalhar em casa.
+[00:13:41:22 --> 00:13:49:20] E aí uma hora eu chego, almoço, né, passo um tempo ali com a Larissa também, de uma até duas e meia, mais ou menos,
+[00:13:49:20 --> 00:13:51:21] depois disso entra o trabalho
+[00:13:51:21 --> 00:13:53:22] aí vocês vão ver que nessa parte do trabalho
+[00:13:53:22 --> 00:13:55:14] mostrando minha agenda aqui pra vocês, tá
+[00:13:56:08 --> 00:13:58:00] aqui, de novo, aqui tá só a parte
+[00:13:58:00 --> 00:13:59:25] da Overlens, eu estou
+[00:13:59:25 --> 00:14:01:22] juntando a parte da minha vida nisso aqui, então
+[00:14:01:22 --> 00:14:03:26] vocês não tão vendo aqui o horário de almoço, não tão vendo
+[00:14:03:26 --> 00:14:05:23] aqui o horário de sair pra correr
+[00:14:05:23 --> 00:14:07:27] essas coisas que estão na minha outra agenda, mas eu vou puxar
+[00:14:07:27 --> 00:14:09:25] pra cá. O que que eu tenho aqui? Hora de
+[00:14:09:25 --> 00:14:11:19] concentrar, depois disso
+[00:14:11:19 --> 00:14:13:20] tem aqui na segunda a weekly
+[00:14:13:20 --> 00:14:16:02] de branding, então toda segunda-feira
+[00:14:16:02 --> 00:14:17:16] eu faço a reunião de abertura da semana
+[00:14:17:16 --> 00:14:22:11] semana para definir metas e objetivos dessa semana depois eu tenho aqui ó o
+[00:14:22:11 --> 00:14:28:20] gap esse gap é importante eu tenho um gap aqui de 15 minutos entre uma reunião
+[00:14:28:20 --> 00:14:32:28] e outra e tem a weekly de growth que a nossa parte que cuida de marketing venda
+[00:14:32:28 --> 00:14:36:03] cs da overlens tem essa weekly de growth
+[00:14:37:18 --> 00:14:38:29] que dura mais ou menos 45 minutos,
+[00:14:39:02 --> 00:14:40:18] e eu tenho esse período livre aqui,
+[00:14:40:20 --> 00:14:42:24] que geralmente eu tenho tarefas minhas pra organizar ali.
+[00:14:43:12 --> 00:14:45:03] Depois eu tenho a weekly de diretoria,
+[00:14:45:05 --> 00:14:46:09] é uma weekly que eu faço com o Rafael,
+[00:14:46:15 --> 00:14:49:08] pra definir a meta da semana no nível de diretoria.
+[00:14:50:11 --> 00:14:51:29] Faço isso e tenho reservas aqui,
+[00:14:52:01 --> 00:14:54:17] até sete e meia ali eu posso acabar marcando,
+[00:14:54:17 --> 00:14:57:11] com um espaço aqui de respiro,
+[00:14:57:14 --> 00:15:01:05] uma reunião ou outra com alguém que tá fora desse escopo.
+[00:15:01:13 --> 00:15:03:18] Eu ainda não tô respeitando isso aqui 100%,
+[00:15:03:18 --> 00:15:05:27] tô ajustando algumas coisas, mas já funciona.
+[00:15:05:27 --> 00:15:08:05] Vamos marcar reunião com alguém que tá solicitando pra mim?
+[00:15:08:06 --> 00:15:09:19] Ou seja, não fui eu que fui até a pessoa.
+[00:15:09:23 --> 00:15:12:27] A pessoa solicitou uma reunião comigo, eu falo, cara, eu tenho esses horários aqui na minha agenda.
+[00:15:13:05 --> 00:15:16:06] No momento eu tenho um horário segunda e um horário quinta só.
+[00:15:16:23 --> 00:15:19:02] Mas eu tô ajustando isso aqui um pouquinho também.
+[00:15:19:09 --> 00:15:21:02] Mas funciona bem, esses dois horários.
+[00:15:21:09 --> 00:15:24:09] Porque esse ano eu quero fazer menos reuniões reativas, né?
+[00:15:24:12 --> 00:15:27:06] E mais reuniões ativas que eu tô fazendo com intenção.
+[00:15:27:07 --> 00:15:29:03] Essas eu mesmo marco.
+[00:15:29:22 --> 00:15:31:00] Aí tem aqui a terça-feira.
+[00:15:31:00 --> 00:15:33:21] Nossa terça-feira a gente tem a live às três horas da tarde, né?
+[00:15:34:05 --> 00:15:35:09] As lives da Overlens.
+[00:15:35:09 --> 00:15:38:19] Aqui está arriscado porque na próxima semana não vai ter live.
+[00:15:38:24 --> 00:15:40:05] Então já está arriscado aqui também.
+[00:15:40:23 --> 00:15:43:03] Mas eu tenho daily de CS e daily de vendas.
+[00:15:43:09 --> 00:15:46:23] Vocês vão falar, Juan, são duas reuniões diferentes que você engavetou.
+[00:15:46:24 --> 00:15:48:27] Você não está deixando um espaço entre elas para descanso.
+[00:15:48:28 --> 00:15:49:18] Por quê?
+[00:15:49:20 --> 00:15:52:00] Na verdade, eu estou deixando espaço para descanso.
+[00:15:52:02 --> 00:15:53:27] Eu só registrei diferente aqui.
+[00:15:54:02 --> 00:15:58:15] A reunião tem que ir de 17h até 17h15.
+[00:15:59:00 --> 00:16:04:17] E a outra reunião vai de 17h30 até 17h45.
+[00:16:04:17 --> 00:16:06:26] ou seja, existe o espaço
+[00:16:06:26 --> 00:16:08:26] só não tá dando pra ver ele
+[00:16:08:26 --> 00:16:10:27] aqui porque é um espaço de 15 minutos
+[00:16:10:27 --> 00:16:12:11] entre elas, né
+[00:16:12:11 --> 00:16:14:20] é engraçado que aqui 15 minutos pegou
+[00:16:14:20 --> 00:16:15:26] aqui ele não pegou, mas existe
+[00:16:15:26 --> 00:16:18:04] esse vai até 15
+[00:16:18:21 --> 00:16:19:23] esse começa 30
+[00:16:19:23 --> 00:16:22:23] é mais uma questão de visualização, mas o espaço
+[00:16:22:23 --> 00:16:24:23] ele existe, só que ficou de um outro jeito aqui
+[00:16:24:23 --> 00:16:26:21] mas então tem essas duas dailies
+[00:16:26:21 --> 00:16:28:18] eu tenho a daily aqui de 8 horas
+[00:16:28:18 --> 00:16:30:24] que elas já ficam todas riscadas, mas elas
+[00:16:30:24 --> 00:16:32:27] sempre acontecem, elas ficam riscadas
+[00:16:32:27 --> 00:16:36:12] porque é automático esse recurso aqui de hora de se concentrar.
+[00:16:36:24 --> 00:16:38:27] Igual eu falei, ele está com o não perturbe ativado.
+[00:16:39:08 --> 00:16:41:15] Então, automaticamente recusa qualquer reunião aqui
+[00:16:41:15 --> 00:16:45:12] que eu não fui ali especificamente e marquei que eu vou participar.
+[00:16:45:18 --> 00:16:47:18] Eu posso vir aqui e colocar sim.
+[00:16:48:03 --> 00:16:50:03] Aí eu coloco todos os eventos ou só esse evento.
+[00:16:50:11 --> 00:16:51:23] Na verdade, eu posso até colocar aqui.
+[00:16:53:04 --> 00:16:54:10] Sim, todos os eventos.
+[00:16:54:11 --> 00:16:55:09] Aí agora ele vai ficar sim.
+[00:16:56:15 --> 00:16:58:24] E aí eu tenho aqui, então, a daily do estúdio
+[00:16:58:24 --> 00:17:00:15] e tenho a daily de CS de vendas,
+[00:17:00:16 --> 00:17:02:09] que são as dailies que eu participo hoje.
+[00:17:02:10 --> 00:17:04:09] Nossa equipe é pequena, nós somos 10 pessoas,
+[00:17:04:12 --> 00:17:05:06] equipe interna.
+[00:17:06:03 --> 00:17:08:19] Então, eu tenho quatro setores que eu faço daily
+[00:17:08:19 --> 00:17:10:25] e o Rafael tem três setores que ele faz daily.
+[00:17:11:06 --> 00:17:12:19] Então, a gente divide assim.
+[00:17:12:22 --> 00:17:16:04] Mas o ideal, à medida que a Overlens for escalando,
+[00:17:16:06 --> 00:17:18:12] a gente vai ter líderes em cada setor
+[00:17:18:12 --> 00:17:20:09] e eles que vão fazer as dailies e as weeklys.
+[00:17:20:10 --> 00:17:23:15] E eu vou fazer só weekly com os líderes.
+[00:17:24:05 --> 00:17:25:09] Então, tem a daily aqui.
+[00:17:26:18 --> 00:17:28:00] Na terça. Na quarta,
+[00:17:28:00 --> 00:17:29:26] olha só o que eu tenho na quarta. Eu tenho aqui de novo
+[00:17:29:26 --> 00:17:31:15] hora de concentrar, daily do estúdio,
+[00:17:31:16 --> 00:17:33:18] e tem o one-on-one, que é um tipo de reunião diferente,
+[00:17:33:21 --> 00:17:35:10] específica com cada membro da equipe.
+[00:17:35:18 --> 00:17:37:29] Aí eu tenho uma one-on-one por semana com cada pessoa.
+[00:17:38:00 --> 00:17:39:17] Uma com o Matheus, outra com a Thaís,
+[00:17:39:21 --> 00:17:41:08] outra com o André, outra com o Davi.
+[00:17:41:16 --> 00:17:43:23] Uma por semana. Tenho as dailies aqui
+[00:17:43:23 --> 00:17:45:18] também, de CS e vendas, e tenho aqui
+[00:17:45:18 --> 00:17:47:12] a vanguarda, que acontece toda quarta
+[00:17:47:12 --> 00:17:49:22] às 19 horas. Então tá aqui
+[00:17:49:22 --> 00:17:51:04] as coisas mais importantes agendadas.
+[00:17:51:18 --> 00:17:53:16] Na quinta, eu tenho a daily, tenho aqui
+[00:17:53:16 --> 00:17:55:13] essa reunião de orçamento, que não acontece
+[00:17:55:13 --> 00:17:57:00] Desce sempre, mas está acontecendo nessa semana, não.
+[00:17:57:00 --> 00:17:59:00] Se eu passar, semana que vem já não tem.
+[00:17:59:28 --> 00:18:00:26] Na outra, né?
+[00:18:00:27 --> 00:18:02:03] Isso aqui é o da semana que vem.
+[00:18:02:16 --> 00:18:05:01] Aí eu tenho o Brand Review, que acontece na primeira...
+[00:18:05:01 --> 00:18:06:04] Na primeira, não.
+[00:18:06:06 --> 00:18:08:04] Na segunda, quinta do mês.
+[00:18:08:22 --> 00:18:10:12] Tem a Daily Success, Daily Vendas.
+[00:18:10:24 --> 00:18:12:24] Espaço para reunião, Daily do Estúdio,
+[00:18:13:06 --> 00:18:14:12] fechamento de Growth da semana
+[00:18:14:12 --> 00:18:17:15] e All Hands, que é todo mundo da equipe,
+[00:18:17:16 --> 00:18:18:22] todo mundo da empresa, né?
+[00:18:18:22 --> 00:18:20:05] Na verdade, uma reunião coletiva.
+[00:18:20:09 --> 00:18:23:04] Tem os nossos Boot Camps, que já estão todos agendados aqui também.
+[00:18:23:04 --> 00:18:27:13] Isso aqui são reuniões que eu tenho agendadas, não são tarefas.
+[00:18:27:22 --> 00:18:31:12] Porque geralmente tarefas eu trabalho dentro do ClickUp.
+[00:18:31:28 --> 00:18:36:19] Aqui é uma outra ferramenta, a gente não vai entrar nesse nível aqui agora com vocês.
+[00:18:37:06 --> 00:18:39:28] Nossa, vai entrar no nível de tarefa, isso aqui é mais avançado,
+[00:18:40:00 --> 00:18:42:11] é uma coisa que a gente trabalha de regulação para o meu Stas ali.
+[00:18:43:06 --> 00:18:45:00] Então a gente não vai abrir o ClickUp aqui agora,
+[00:18:45:01 --> 00:18:48:04] mas eu já recomendo para vocês, é um software de gestão de tarefa
+[00:18:48:04 --> 00:18:50:09] com inteligência artificial que dá para automatizar muita coisa
+[00:18:50:09 --> 00:18:53:16] e dá, inclusive, para você criar agentes que vão fazer as tarefas por você.
+[00:18:53:22 --> 00:18:55:09] Então, para que é o Google?
+[00:18:55:14 --> 00:18:57:10] Por que eu gastei esse tempo todo mostrando aqui
+[00:18:57:10 --> 00:18:59:22] para a gente ir para a prática agora e eu tirar dúvidas também?
+[00:18:59:25 --> 00:19:00:23] Por que eu gastei esse tempo?
+[00:19:02:06 --> 00:19:04:11] O Google vai ajudar vocês a criar os blocos.
+[00:19:05:09 --> 00:19:07:19] Depois que vocês fizerem todo o processo lá,
+[00:19:08:09 --> 00:19:10:00] é legal vocês irem para os blocos de tempo.
+[00:19:10:13 --> 00:19:11:22] E aí vocês vão fazer o quê?
+[00:19:12:14 --> 00:19:14:15] Definir as prioridades e colocar.
+[00:19:14:19 --> 00:19:16:14] Por exemplo, uma coisa que vocês têm que colocar,
+[00:19:16:18 --> 00:19:18:19] vou colocar aqui, por exemplo, para mim,
+[00:19:19:04 --> 00:19:21:22] eu não vou mexer nesse, vou colocar em outro lugar aqui.
+[00:19:22:16 --> 00:19:25:07] Isso está na minha agenda pessoal, mas eu tenho que trazer para cá.
+[00:19:26:18 --> 00:19:27:10] Planejamento de...
+[00:19:28:27 --> 00:19:30:10] da semana, que é matriz
+[00:19:30:10 --> 00:19:31:17] de indecisões.
+[00:19:32:29 --> 00:19:37:15] E aí eu posso vir aqui na descrição e colocar aquilo que a gente acabou de ver.
+[00:19:37:20 --> 00:19:38:21] Eu vou puxar de lá.
+[00:19:46:16 --> 00:19:47:13] Matriz de decisão.
+[00:19:49:29 --> 00:19:51:15] Aí eu vou colocar assim, ó, essa semana.
+[00:19:52:26 --> 00:19:59:06] o que só eu posso fazer e é de alto valor.
+[00:20:00:18 --> 00:20:04:11] O que só eu posso fazer, mas é de baixo valor.
+[00:20:06:03 --> 00:20:06:18] O que...
+[00:20:08:20 --> 00:20:12:16] Outra pessoa pode fazer e é de alto valor?
+[00:20:14:19 --> 00:20:19:16] o que outra pessoa pode fazer e é de baixo.
+[00:20:21:13 --> 00:20:21:27] Então...
+[00:20:23:12 --> 00:20:27:23] Vem aqui primeiro, primeira parte, parte 1 dessa minha tarefa.
+[00:20:28:12 --> 00:20:33:05] Definir minhas três prioridades da semana.
+[00:20:34:14 --> 00:20:36:08] Depois, parte 2.
+[00:20:37:08 --> 00:20:38:08] Você coloca lá na sua tarefa.
+[00:20:38:08 --> 00:20:38:24] Parte 2.
+[00:20:39:10 --> 00:20:40:07] Parte 1.
+[00:20:43:06 --> 00:20:43:18] Parte 2
+[00:20:46:00 --> 00:20:50:11] Aplicar a matriz de decisão dessa semana.
+[00:20:51:01 --> 00:20:52:05] Aí eu aplico.
+[00:20:52:20 --> 00:20:54:21] O que eu gosto de fazer também, tá?
+[00:20:54:29 --> 00:20:58:03] Eu gosto de começar na parte zero aqui, ó.
+[00:20:59:11 --> 00:21:01:00] Poderia ser a parte 1, mas existe parte 0.
+[00:21:01:09 --> 00:21:02:29] Parte 2, parte 3.
+[00:21:04:09 --> 00:21:10:21] Aí eu venho aplicar matriz de decisão na semana anterior.
+[00:21:11:19 --> 00:21:15:01] Avaliar como gerenciei meu tempo.
+[00:21:15:06 --> 00:21:20:24] Então, eu gosto de passar ali 30 minutos avaliando como foi essa minha semana.
+[00:21:20:28 --> 00:21:22:23] O que eu acertei? O que eu errei? O que eu deixei passar?
+[00:21:23:06 --> 00:21:28:03] Geralmente é nessa reunião que eu falo, putz, não marquei a call com o Vini.
+[00:21:28:27 --> 00:21:31:13] Putz, não marquei a call com...
+[00:21:33:27 --> 00:21:35:27] A call com a Kiza.
+[00:21:36:03 --> 00:21:37:08] Não marquei no calendar.
+[00:21:37:23 --> 00:21:39:09] Aí eu vou lá e marco já de uma vez.
+[00:21:39:10 --> 00:21:40:18] Leva cinco minutos, já vou marcar.
+[00:21:41:02 --> 00:21:42:15] Já faço isso certinho ali.
+[00:21:42:29 --> 00:21:44:13] Então, eu vou pegando tudo isso.
+[00:21:44:14 --> 00:21:45:22] Não fiz isso, era para eu ter feito.
+[00:21:45:25 --> 00:21:47:16] Eu gosto de sempre anotar,
+[00:21:47:16 --> 00:21:49:21] porque eu posso voltar no da semana anterior.
+[00:21:50:07 --> 00:21:52:04] Então, você pode pegar o da semana anterior e clicar.
+[00:21:52:08 --> 00:21:53:13] O que eu tinha como objetivo?
+[00:21:53:24 --> 00:21:55:12] Aí você vê e avalia.
+[00:21:55:12 --> 00:21:56:09] Consegui concluir?
+[00:21:56:10 --> 00:21:57:00] Não consegui.
+[00:21:57:02 --> 00:21:59:13] Então, as perguntas que vocês podem colocar aqui é
+[00:21:59:13 --> 00:22:04:08] é qual era a minha prioridade da semana anterior.
+[00:22:05:24 --> 00:22:06:14] Consegui.
+[00:22:07:26 --> 00:22:10:01] Cumprir minhas prioridades.
+[00:22:10:02 --> 00:22:13:11] Aqui eu coloco minhas três prioridades da semana anterior.
+[00:22:13:19 --> 00:22:15:29] Conseguir cumprir minhas três prioridades.
+[00:22:17:17 --> 00:22:20:20] Se não conseguir, por que não conseguir?
+[00:22:22:16 --> 00:22:23:05] O que faltou?
+[00:22:24:21 --> 00:22:26:05] O que posso fazer agora?
+[00:22:27:01 --> 00:22:27:26] Aí vem aqui.
+[00:22:28:17 --> 00:22:33:18] Como vou remanejar agora essa dívida?
+[00:22:35:01 --> 00:22:36:14] Porque o que você não fez virou dívida.
+[00:22:36:16 --> 00:22:38:27] E o que posso fazer essa semana?
+[00:22:40:10 --> 00:22:43:29] para evitar isso, para que isso aconteça de novo.
+[00:22:45:22 --> 00:22:46:27] Aí, se você já deixou isso aqui,
+[00:22:47:11 --> 00:22:48:24] lá na minha outra agenda está lá.
+[00:22:48:25 --> 00:22:50:16] Essa daqui eu vou puxar para ela.
+[00:22:50:22 --> 00:22:52:03] Mas vocês podem fazer isso aqui,
+[00:22:52:04 --> 00:22:53:00] numa agenda só.
+[00:22:53:21 --> 00:22:54:16] Puxa aqui os três.
+[00:22:56:07 --> 00:23:03:02] Coloca aqui, ó, isso vai acontecer todo domingo, então eu coloco aqui, ó, todo mensal, não, quero...
+[00:23:04:09 --> 00:23:07:12] se repete semanal, cada domingo.
+[00:23:07:14 --> 00:23:11:11] E eu quero que isso aconteça todo domingo das...
+[00:23:11:11 --> 00:23:12:09] Vou colocar aqui.
+[00:23:13:06 --> 00:23:14:23] Caraca, olha, o meu mouse está bugando.
+[00:23:15:03 --> 00:23:16:19] Tem que clicar aqui e puxar.
+[00:23:17:03 --> 00:23:19:03] Quero que isso aconteça depois que eu voltar,
+[00:23:19:07 --> 00:23:20:18] tomar café e tomar banho.
+[00:23:20:19 --> 00:23:21:20] Geralmente é 7h45.
+[00:23:22:07 --> 00:23:24:00] Aí eu coloco aqui, 7h45.
+[00:23:26:05 --> 00:23:26:24] Vou colocar 8 horas.
+[00:23:27:03 --> 00:23:29:24] De 8 às 9, que é o tempo que eu vou gastar para fazer tudo,
+[00:23:30:05 --> 00:23:33:00] eu tenho essa matriz de decisões e prioridades.
+[00:23:34:07 --> 00:23:37:24] Na verdade, o ideal é matriz de prioridades decisórias.
+[00:23:39:21 --> 00:23:42:16] E aí eu coloco só eu aqui, no caso se eu estou criando eu não preciso colocar.
+[00:23:43:07 --> 00:23:44:20] E eu gosto de fazer isso aqui, ó.
+[00:23:45:13 --> 00:23:46:29] Criar ata da reunião com o IA.
+[00:23:47:09 --> 00:23:49:17] Nem todos vão poder fazer isso, depende se você assina.
+[00:23:49:18 --> 00:23:54:11] Mas eu gosto de criar ata da reunião e gosto também de colocar notificação.
+[00:23:54:12 --> 00:23:56:10] Eu vou colocar aqui mais opções.
+[00:23:56:24 --> 00:23:59:19] E aqui eu coloco, ó, 10 minutos antes, eu gosto que meu celular fala,
+[00:23:59:22 --> 00:24:02:10] olha, está dando a hora de você fazer isso, você vai atrasar.
+[00:24:02:18 --> 00:24:04:25] Eu também gosto de colocar uma hora antes.
+[00:24:06:04 --> 00:24:08:06] E gosto de colocar um dia antes, essa daqui.
+[00:24:08:23 --> 00:24:09:20] Um dia antes.
+[00:24:10:04 --> 00:24:11:26] Pronto, vai chegar bonitinho.
+[00:24:11:27 --> 00:24:16:08] É só eu cancelar, mas chega bonitinho, como se fosse uma notificação no meu telefone.
+[00:24:16:08 --> 00:24:16:26] Chega lá assim, ó.
+[00:24:17:25 --> 00:24:19:02] Amanhã você tem que fazer isso.
+[00:24:19:25 --> 00:24:20:23] Chega no sábado.
+[00:24:20:29 --> 00:24:24:23] Chega assim também no domingo, sete horas da manhã.
+[00:24:24:29 --> 00:24:26:16] Daqui uma hora você tem essa tarefa.
+[00:24:26:20 --> 00:24:30:22] E chega depois assim, faltando dez minutos, sete e cinquenta.
+[00:24:30:27 --> 00:24:32:05] Daqui dez minutos você tem essa tarefa.
+[00:24:32:11 --> 00:24:33:11] Isso só me ajuda a lembrar.
+[00:24:33:11 --> 00:24:35:03] é um segundo cérebro de lembranças
+[00:24:35:03 --> 00:24:36:29] pra eu tirar essas coisas da minha cabeça e falar
+[00:24:36:29 --> 00:24:38:20] meu telefone vai me lembrar disso.
+[00:24:39:03 --> 00:24:40:14] Ajuda pra caramba, tá?
+[00:24:40:27 --> 00:24:43:13] E aí eu deixo aqui no verdinho, que é a minha cor de visibilidade
+[00:24:43:13 --> 00:24:44:21] padrão na minha agenda pessoal.
+[00:24:45:26 --> 00:24:47:02] Salvar. Aí ele vai salvar
+[00:24:47:02 --> 00:24:49:07] pra mim, colocou aqui, todo domingo, ó,
+[00:24:49:07 --> 00:24:50:11] matriz de prioridade.
+[00:24:50:24 --> 00:24:53:03] Aí ele vai me lembrar daquela matriz de
+[00:24:53:03 --> 00:24:54:29] prioridade ali dentro do meu tempo de
+[00:24:54:29 --> 00:24:56:08] hora de concentrar.
+[00:24:57:02 --> 00:24:59:08] Essa aqui é a primeira que eu recomendo vocês fazerem.
+[00:24:59:10 --> 00:25:01:02] Aí toda semana vocês vão fazer essa daqui.
+[00:25:01:08 --> 00:25:02:17] A partir dessa daqui,
+[00:25:02:17 --> 00:25:04:13] que aí vem o que vocês
+[00:25:04:13 --> 00:25:06:08] têm que agendar de prioridade da semana,
+[00:25:06:10 --> 00:25:08:13] de reuniões pra fazer. O que eu
+[00:25:08:13 --> 00:25:10:11] recomendo, se vocês têm autonomia pro próprio
+[00:25:10:11 --> 00:25:12:19] negócio também, agendar tempo pra poder
+[00:25:12:19 --> 00:25:14:06] prospectar, tempo pra poder
+[00:25:14:06 --> 00:25:16:12] qualificar leads novos, tempo pra
+[00:25:16:12 --> 00:25:18:15] poder atender cliente, tempo pra poder prestar
+[00:25:18:15 --> 00:25:20:17] o serviço, tempo pra poder ficar com a família,
+[00:25:20:19 --> 00:25:22:23] tempo pra poder... Se vocês repararam,
+[00:25:22:26 --> 00:25:24:02] meu domingo e meu sábado,
+[00:25:24:22 --> 00:25:26:20] depois do período da manhã, não tem nada marcado.
+[00:25:28:00 --> 00:25:30:21] Porque são períodos que eu dedico pro meu social.
+[00:25:31:09 --> 00:25:34:05] Aí eu sei que eu trabalho, de segunda a sexta, trabalho igual um cão.
+[00:25:34:07 --> 00:25:37:20] Mas eu gosto, faço do jeito que eu gosto, cheio de energia, faço muito bem.
+[00:25:38:06 --> 00:25:38:24] Trabalho e funciona.
+[00:25:39:11 --> 00:25:42:09] Fim de semana, trabalho de manhã, sábado e domingo.
+[00:25:42:12 --> 00:25:44:27] De noite, só quando é necessário.
+[00:25:44:27 --> 00:25:47:16] Por exemplo, a gente vai ter um evento da Uberlândia, dia 31 e dia 1.
+[00:25:47:24 --> 00:25:49:15] O evento vai rolar em dois dias.
+[00:25:49:21 --> 00:25:52:24] E vai ser de 9h30 até 17h, sábado e domingo.
+[00:25:52:29 --> 00:25:54:26] Ali, beleza, já foi planejado aquele dia.
+[00:25:54:29 --> 00:25:57:24] Mas no normal do meu dia a dia, são dois dias reservados.
+[00:25:58:00 --> 00:26:01:07] Pra ver família, ficar com a Larissa, passear.
+[00:26:01:13 --> 00:26:04:26] Porque isso me reenergiza pro próximo dia de novo.
+[00:26:05:05 --> 00:26:05:20] Beleza?
+[00:26:05:20 --> 00:26:08:03] Também coloco aqui algumas coisas pessoais de operação.
+[00:26:08:06 --> 00:26:10:26] Fazer compra, organizar as coisas da casa.
+[00:26:10:27 --> 00:26:13:03] Tudo fica dentro desses dias também.
+[00:26:13:08 --> 00:26:15:17] Mas a parte da manhã, geralmente, eu trabalho.

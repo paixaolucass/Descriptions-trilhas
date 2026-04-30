@@ -1,0 +1,1127 @@
+# Video: 4. Definindo as buyer personas.mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-28 00:30
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:02 --> 00:00:05:03] Começamos a nossa aula sobre buyer persona, é aqui que a gente vai definir quais são
+[00:00:05:03 --> 00:00:08:14] os segmentos de mercado dos nossos clientes.
+[00:00:08:19 --> 00:00:13:11] Talvez você esteja se perguntando por que a aula de buyer persona, caso você já saiba
+[00:00:13:11 --> 00:00:17:28] o que é, talvez você esteja se perguntando, por que ela entra agora na etapa estratégica
+[00:00:17:28 --> 00:00:24:01] e não na auditoria de público, já que a persona, a buyer persona é uma ficha
+[00:00:24:01 --> 00:00:28:29] que a gente cria de um personagem fictício que representa o público da marca.
+[00:00:28:29 --> 00:00:35:02] E a verdade é que eu decidi colocar essa etapa na estratégia e não na investigação
+[00:00:35:02 --> 00:00:40:17] porque aqui nós temos que tomar decisões sobre quais são os segmentos de mercado
+[00:00:40:17 --> 00:00:42:16] que o nosso cliente precisa atender.
+[00:00:42:28 --> 00:00:47:05] E essas decisões precisam ser pautadas em dados, em informações.
+[00:00:47:25 --> 00:00:52:08] Se você não se lembra, na etapa de investigação falava sempre o seguinte, aqui nós somos
+[00:00:52:08 --> 00:00:55:04] uma esponja, nós estamos aqui para absorver.
+[00:00:55:04 --> 00:00:59:03] Já na etapa estratégica, nós estamos aqui para tomar decisões.
+[00:00:59:09 --> 00:01:01:05] E é por isso que a Bayer Persona entra aqui,
+[00:01:01:07 --> 00:01:05:03] porque nós não só vamos pegar todos os dados que nós coletamos,
+[00:01:05:11 --> 00:01:10:13] como também vamos tomar decisões de quais segmentos de mercado são mais importantes.
+[00:01:10:20 --> 00:01:15:10] Então é por isso que essa aula está nessa etapa aqui e não na etapa anterior.
+[00:01:15:14 --> 00:01:19:13] Mas como você vai ver, tem pesquisa envolvida, é um vai e volta,
+[00:01:19:22 --> 00:01:21:07] nada é tão linear assim.
+[00:01:21:13 --> 00:01:24:13] Então pode ser que você volte na pesquisa, precise de mais pesquisa,
+[00:01:24:13 --> 00:01:27:25] Volta na Bayer persona, tudo depende também do escopo do projeto,
+[00:01:28:01 --> 00:01:31:10] de quanto tempo você tem para tomar essas decisões, ok?
+[00:01:31:17 --> 00:01:35:01] Dito isso, então, bora lá colocar o arquivo aqui do lado para a gente começar.
+[00:01:35:16 --> 00:01:41:06] Eu coloquei aqui dando alma aos dados, porque a persona é um personagem fictício.
+[00:01:41:16 --> 00:01:45:28] Eu coloquei aqui duas definições, uma do Instituto Bayer persona,
+[00:01:46:00 --> 00:01:49:03] sim, tem esse instituto, tá? Você pode até encontrá-lo aqui,
+[00:01:49:03 --> 00:01:54:24] buyerpersona.com, que fala que buyerpersonas são arquétipos de clientes ideais, não,
+[00:01:55:02 --> 00:01:59:12] clientes reais, perdão, que permitem aos profissionais de marketing elaborar estratégias
+[00:01:59:12 --> 00:02:01:24] para promover seus produtos e serviços.
+[00:02:01:29 --> 00:02:08:08] Ou seja, são personagens fictícios e guardam aqui arquétipo porque realmente é uma estrutura
+[00:02:08:08 --> 00:02:11:14] e é a conexão que eu tenho aqui com a definição de Jung.
+[00:02:11:21 --> 00:02:18:02] A primeira vez que eu vi esse termo foi na faculdade, eu nem conhecia Jung, mas
+[00:02:18:02 --> 00:02:24:08] Quando eu coloco em histórico, a primeira vez que eu vi esse termo ser falado na história das minhas pesquisas
+[00:02:24:08 --> 00:02:30:29] foi com o Jung, que o Jung usava a palavra persona, que significa máscara, para definir os nossos papéis na sociedade.
+[00:02:31:03 --> 00:02:36:24] Inclusive, tem uma aula que eu falo bastante sobre isso, lá em princípios e fundamentos, que é a aula de arquétipos do Jung.
+[00:02:37:19 --> 00:02:42:26] Que estão na parte mais consciente da nossa mente, que são os nossos papéis.
+[00:02:42:26 --> 00:02:49:07] papel de filho, papel de irmão, papel de amigo, papel de cidadão, papel de estudante,
+[00:02:49:13 --> 00:02:53:22] papel de aprendiz, de aluno, de... falei três vezes a mesma coisa, né?
+[00:02:54:02 --> 00:02:59:01] Mas de mestre também, de professor e por aí vai, nossos papéis na sociedade, de namorado,
+[00:02:59:04 --> 00:03:00:29] namorada, marido e por aí vai.
+[00:03:01:14 --> 00:03:02:22] E são as máscaras, né?
+[00:03:02:26 --> 00:03:04:04] Jung fala que elas são importantes.
+[00:03:04:18 --> 00:03:08:15] Eu vou falar mais sobre essa definição de persona quando a gente for falar de outro
+[00:03:08:15 --> 00:03:11:16] tipo de persona que é a brand persona.
+[00:03:11:16 --> 00:03:18:01] Lá, nós vamos falar bastante sobre personalidade da marca, sobre personificação, estereótipo,
+[00:03:18:05 --> 00:03:23:00] porque a Brand Persona é a persona mais importante para o nosso projeto.
+[00:03:23:17 --> 00:03:30:17] Mas a Buyer Persona também é muito importante, principalmente falando da estratégia de comunicação.
+[00:03:31:00 --> 00:03:34:14] Você vai ver esse termo aqui de vários nomes diferentes, tem gente que fala que
+[00:03:34:14 --> 00:03:39:18] é user persona, tem gente que chama só de persona, eu gosto de chamar de buyer
+[00:03:39:18 --> 00:03:43:02] porque tem a ver com o comprador, é a persona do comprador,
+[00:03:43:07 --> 00:03:45:25] do nosso público para que a gente vende.
+[00:03:46:10 --> 00:03:48:01] A brand é a da marca.
+[00:03:48:14 --> 00:03:53:19] E aí a gente também tem a de user, que é focado mais em UI,
+[00:03:53:27 --> 00:03:56:21] UX, que é a Interface do Usuário, Experiência do Usuário.
+[00:03:58:05 --> 00:04:02:15] também utiliza a persona para poder construir
+[00:04:03:14 --> 00:04:07:00] um personagem fictício que representa um grupo.
+[00:04:07:03 --> 00:04:10:16] Vocês vão entender um pouquinho melhor como que isso funciona já já.
+[00:04:11:04 --> 00:04:14:15] A diferença aqui entre Brand Persona e Buyer Persona
+[00:04:14:15 --> 00:04:15:18] é o que eu acabei de falar.
+[00:04:15:21 --> 00:04:20:11] A Brand Persona é um personagem fictício que representa a marca
+[00:04:20:11 --> 00:04:21:26] que responde a seguinte questão.
+[00:04:21:27 --> 00:04:25:02] Se a marca fosse uma pessoa, quem ela seria, o nome dela,
+[00:04:25:05 --> 00:04:27:17] a idade dela e por aí vai, a gente vai ter uma aula específica
+[00:04:27:17 --> 00:04:29:00] para falar de Brand Persona.
+[00:04:29:06 --> 00:04:31:11] Já a Buyer Persona podem ser várias.
+[00:04:31:14 --> 00:04:34:00] Brand Persona é uma só, é a persona da marca.
+[00:04:34:11 --> 00:04:36:09] Buyer Persona podem ser várias,
+[00:04:36:16 --> 00:04:38:11] de vários segmentos diferentes.
+[00:04:38:19 --> 00:04:40:14] Eu até trouxe um exemplo aqui para vocês.
+[00:04:40:25 --> 00:04:43:06] Olha, eu não consegui encontrar o link desse artigo
+[00:04:43:06 --> 00:04:44:04] e olha o que eu procurei,
+[00:04:44:06 --> 00:04:46:06] eu acho que eles realmente tiraram do ar.
+[00:04:46:14 --> 00:04:47:29] Mas era um exemplo muito bom,
+[00:04:48:18 --> 00:04:49:28] que é o exemplo do Meio Timpe.
+[00:04:50:00 --> 00:04:52:15] É um pouquinho passado, que lá de 2013,
+[00:04:52:29 --> 00:04:54:18] tem só 11 anos...
+[00:04:54:18 --> 00:04:56:06] Não, 11 anos...
+[00:04:56:21 --> 00:04:59:06] Nove anos, caraca, a matemática está boa.
+[00:04:59:24 --> 00:05:03:20] Tem nove anos que isso aqui foi construído
+[00:05:03:20 --> 00:05:04:26] e que eles postaram sobre isso,
+[00:05:05:02 --> 00:05:07:14] mas é relevante para trazer esse ponto aqui para vocês.
+[00:05:07:28 --> 00:05:11:21] Desenvolver suas personas após entrevistar clientes em cinco países.
+[00:05:12:00 --> 00:05:13:21] Isso aqui é para vocês começarem a entender
+[00:05:13:21 --> 00:05:15:09] como que essa é uma ferramenta
+[00:05:15:09 --> 00:05:18:05] que pode ser usada em um projeto pequeno ou um projeto gigante.
+[00:05:18:20 --> 00:05:22:00] As entrevistas resultaram em cinco personas
+[00:05:22:00 --> 00:05:24:15] que representam profissionais de marketing,
+[00:05:24:24 --> 00:05:25:27] relações públicas,
+[00:05:25:27 --> 00:05:29:29] consultor de estúdio, tecnologia da informação e recepcionista.
+[00:05:30:10 --> 00:05:32:06] Por que eles criaram essas cinco personas?
+[00:05:32:15 --> 00:05:36:20] Porque são cinco segmentos de clientes diferentes.
+[00:05:37:00 --> 00:05:38:04] Quem usa o Mailchimp?
+[00:05:38:11 --> 00:05:40:02] Tem o segmento da galera de marketing,
+[00:05:40:08 --> 00:05:42:09] que usa o Mailchimp, principalmente para mail marketing.
+[00:05:42:19 --> 00:05:46:02] Tem a galera de relações públicas, que também usa o Mailchimp.
+[00:05:46:10 --> 00:05:48:07] Aqui o foco do Mailchimp é email,
+[00:05:48:11 --> 00:05:53:18] mas repare que o propósito, a motivação para cada um desses públicos aqui utilizarem
+[00:05:53:18 --> 00:05:54:13] é diferente.
+[00:05:54:13 --> 00:05:58:10] Relações públicas para galera de marketing, consultor de estúdio,
+[00:05:58:13 --> 00:05:59:27] é outro tipo de público diferente,
+[00:06:00:13 --> 00:06:04:06] TI ou recepcionistas, recepcionistas que recebem todos os emails,
+[00:06:04:15 --> 00:06:05:17] organizam tudo em um lugar só.
+[00:06:05:26 --> 00:06:09:11] Então, repare, eles mapearam e conseguiram simplificar
+[00:06:09:11 --> 00:06:11:26] em cinco tipos de públicos diferentes.
+[00:06:12:15 --> 00:06:15:00] E aí, eles criaram uma persona para cada grupo.
+[00:06:15:17 --> 00:06:16:17] O que é a persona?
+[00:06:16:26 --> 00:06:21:02] A persona é um personagem fictício que representa um grupo inteiro.
+[00:06:21:18 --> 00:06:23:12] A gente pode fazer a auditoria de público
+[00:06:23:12 --> 00:06:28:15] E colocar lá, por exemplo, dados que são mais abertos, por exemplo,
+[00:06:28:22 --> 00:06:31:09] faixa etária de 18 a 35 anos.
+[00:06:31:17 --> 00:06:34:21] Olha só, eu estou pegando uma grande faixa de público.
+[00:06:35:00 --> 00:06:39:06] Ou então, eu posso pegar aqui faixa salarial entre R$2.000 e R$5.000,
+[00:06:39:11 --> 00:06:41:18] ou seja, eu estou pegando um grupo grande de pessoas.
+[00:06:41:29 --> 00:06:47:09] A persona é uma pessoa, mas uma pessoa que representa a média desse grupo.
+[00:06:48:03 --> 00:06:51:29] Então, eu posso ter um documento que tem lá dados demográficos, dados comportamentais,
+[00:06:51:29 --> 00:06:55:05] falar da geração, falar do grande público,
+[00:06:55:22 --> 00:06:59:00] mas também é importante eu ter um personagem
+[00:06:59:00 --> 00:07:00:15] com quem eu converso.
+[00:07:00:27 --> 00:07:02:20] Eu tive um mentor
+[00:07:03:21 --> 00:07:06:04] que é o copywriter da Empiricus
+[00:07:06:20 --> 00:07:09:11] e ele falava o seguinte, ele não chamava de persona,
+[00:07:09:14 --> 00:07:10:06] ele falava o seguinte,
+[00:07:10:19 --> 00:07:14:11] todo escritor, copywriter, é um redator,
+[00:07:14:20 --> 00:07:16:04] precisa ter o seu próprio Bob.
+[00:07:16:23 --> 00:07:18:16] Ele chamava a persona dele de Bob.
+[00:07:18:23 --> 00:07:19:19] E ele me falava o seguinte,
+[00:07:19:24 --> 00:07:21:16] sempre que eu vou escrever,
+[00:07:21:29 --> 00:07:23:09] eu escrevo para o Bob.
+[00:07:24:02 --> 00:07:25:15] E aí o Bob tem uma idade,
+[00:07:25:21 --> 00:07:27:21] ele tem as necessidades dele, uma visão de mundo.
+[00:07:27:26 --> 00:07:29:26] E é muito mais fácil para o Beto,
+[00:07:29:26 --> 00:07:32:10] o nome desse cara é Beto Altenhofer.
+[00:07:33:04 --> 00:07:36:01] É muito mais fácil para ele escrever para o Bob
+[00:07:36:01 --> 00:07:39:06] do que escrever para um grupo amplo de pessoas,
+[00:07:39:15 --> 00:07:42:06] porque ele consegue falar especificamente com o Bob.
+[00:07:42:19 --> 00:07:46:06] Só que o Bob foi construído para representar
+[00:07:46:06 --> 00:07:47:12] a média de um público.
+[00:07:47:27 --> 00:07:51:24] O Bob é como se fosse o aluno
+[00:07:51:24 --> 00:07:56:04] do Beto, pra quem o Beto fala, quem o Beto quer ajudar no final das contas.
+[00:07:56:15 --> 00:08:00:27] A gente vai falar mais pra frente sobre o roteiro da marca e lá quando nós falarmos
+[00:08:00:27 --> 00:08:05:24] disso você vai perceber que a marca geralmente não é a herói da história, ela tá mais
+[00:08:05:24 --> 00:08:12:03] pra mentora ou pra grande aliada, ferramenta, arma que vai ajudar o herói na jornada dele.
+[00:08:12:17 --> 00:08:18:01] O herói é o nosso cliente, então sei lá, se eu pego Old Spice, que é o desodorante
+[00:08:18:01 --> 00:08:23:09] matador, para o homem macho-macho. Você já deve ter visto essa propaganda por aí com
+[00:08:23:09 --> 00:08:30:27] Terry Crews batendo os peitos dele. Repara que, quando eu falo para um público, o público
+[00:08:30:27 --> 00:08:34:27] que usa o Desodorante é o grande herói da história, o protagonista dessa história.
+[00:08:35:14 --> 00:08:41:09] O Old Spice é como se fosse a espada do rei Arthur. Ele é o elemento que ajuda
+[00:08:41:09 --> 00:08:44:27] o herói a conseguir o que ele quer. Então, tem todo um roteiro. O roteiro precisa de
+[00:08:45:03 --> 00:08:48:16] de cenário, de contexto, do mentor e por aí vai.
+[00:08:48:25 --> 00:08:55:08] E a marca geralmente é a mentora ou o grande segredo por trás do herói.
+[00:08:55:12 --> 00:08:58:23] Aquele filme lá, eu não lembro o nome do filme, mas é um menino que tinha ganhado
+[00:08:58:23 --> 00:09:01:20] um tênis especial que ajudava ele a jogar basquete.
+[00:09:01:27 --> 00:09:05:24] Aquele tênis especial não era o herói, não era o protagonista da história.
+[00:09:05:27 --> 00:09:09:00] O protagonista era o menino que tinha o tênis, que conseguia dar saltos gigantes
+[00:09:09:00 --> 00:09:11:18] e ajudava ele a ganhar as partidas de basquete.
+[00:09:11:25 --> 00:09:13:25] Então, a marca não é a protagonista.
+[00:09:13:25 --> 00:09:20:26] Quando eu trago isso para cá, nós estamos criando alguns protagonistas que podem aproveitar
+[00:09:20:26 --> 00:09:22:00] muito essa marca.
+[00:09:22:06 --> 00:09:25:14] São alguns personagens que aproveitariam muito bem essa marca.
+[00:09:25:23 --> 00:09:29:27] Mas ao invés de eu ter dados demográficos muito abertos, eu tenho dados específicos,
+[00:09:29:28 --> 00:09:35:25] como se eu estivesse criando uma ficha de RPG que define as características desse
+[00:09:35:25 --> 00:09:36:14] personagem.
+[00:09:36:26 --> 00:09:40:27] E é legal, né, aqui respondendo quantas buyers personas eu preciso criar.
+[00:09:40:27 --> 00:09:48:18] Você precisa analisar aqui quais são, e se existem mais de um, quais são os segmentos
+[00:09:48:18 --> 00:09:50:27] de mercado que aquela marca atende.
+[00:09:51:17 --> 00:09:52:28] Vou te dar um outro exemplo aqui.
+[00:09:53:00 --> 00:09:53:24] Pensa no iFood.
+[00:09:54:06 --> 00:09:56:09] O iFood não tem só um cliente.
+[00:09:56:15 --> 00:10:02:18] O iFood tem a pessoa que compra usando o aplicativo, o restaurante e o entregador.
+[00:10:03:02 --> 00:10:08:03] Aqui eu não estou nem colocando acionistas e outros stakeholders, mas aqui são três
+[00:10:08:03 --> 00:10:09:18] clientes diferentes.
+[00:10:09:18 --> 00:10:13:21] A gente pode até falar que os parceiros e os entregadores,
+[00:10:14:13 --> 00:10:17:02] que os restaurantes e entregadores são parceiros do iFood,
+[00:10:17:09 --> 00:10:20:24] mas acaba que o iFood está gerando valor para eles no final.
+[00:10:21:05 --> 00:10:24:12] Então, ele precisa criar um aplicativo que funciona para esses três públicos.
+[00:10:24:18 --> 00:10:28:23] Eu posso aqui então criar uma persona para cada um desses públicos.
+[00:10:28:24 --> 00:10:31:17] Uma persona para o entregador ou a entregadora,
+[00:10:31:26 --> 00:10:34:24] uma persona para o restaurante e uma persona para quem pede.
+[00:10:35:23 --> 00:10:38:03] Isso precisa ser feito com dados, inclusive.
+[00:10:38:03 --> 00:10:41:11] Vou pegar um exemplo aqui empírico, mas que poderia funcionar.
+[00:10:41:12 --> 00:10:45:09] Eu vejo muito mais entregadores homens do que mulheres.
+[00:10:45:24 --> 00:10:49:23] Vamos supor que o iFood tem 60% de entregadores homens
+[00:10:49:23 --> 00:10:51:24] e 40% de entregadores mulheres.
+[00:10:52:01 --> 00:10:54:15] Eu estou supondo, mas eu quero que vocês pensem
+[00:10:54:15 --> 00:10:57:03] e analisem como tomar uma decisão na hora de criar a persona.
+[00:10:57:14 --> 00:10:59:21] A gente não tira as coisas da nossa cabeça.
+[00:11:00:09 --> 00:11:02:18] A persona vai ser uma mulher, ela chama Sandra.
+[00:11:02:23 --> 00:11:05:29] Não, você precisa basear a sua persona em dados.
+[00:11:06:10 --> 00:11:07:22] Então, eu posso colocar ali, por exemplo,
+[00:11:07:22 --> 00:11:12:20] que o entregador é um homem, um homem que tem 22 anos
+[00:11:12:20 --> 00:11:14:04] e está querendo fazer um dinheiro.
+[00:11:14:10 --> 00:11:16:02] Eu posso dar um nome para ele, chama Bruno.
+[00:11:16:09 --> 00:11:19:26] Então, a persona do iFood é o Bruno, que tem 22 anos, é homem.
+[00:11:20:13 --> 00:11:26:03] Eu estou construindo aqui um perfil médio daquele público, que é dos entregadores.
+[00:11:26:15 --> 00:11:28:16] Já quando eu vou para os restaurantes, por exemplo,
+[00:11:28:26 --> 00:11:33:01] aí pode ser a Sandra, por exemplo, que é dona de um restaurante
+[00:11:33:01 --> 00:11:37:14] e ela quer começar a entregar delivery e viu que o iFood era um grande parceiro dela.
+[00:11:37:14 --> 00:11:39:06] Aqui eu estou inventando.
+[00:11:39:11 --> 00:11:42:13] Na hora de construir a persona, a gente utiliza os dados.
+[00:11:42:20 --> 00:11:43:29] Nunca se esqueça disso, tá?
+[00:11:43:29 --> 00:11:46:29] Eu vou dar alguns exemplos aqui para vocês entenderem melhor.
+[00:11:47:05 --> 00:11:47:23] Já já.
+[00:11:48:09 --> 00:11:50:17] Então, a persona são esses também...
+[00:11:50:17 --> 00:11:53:01] A galera também costuma chamar de avatares, né?
+[00:11:53:02 --> 00:11:57:03] Você já viu aquele filme Avatar que você entra dentro do corpo de um outro personagem?
+[00:11:57:11 --> 00:11:58:06] É a mesma coisa.
+[00:11:58:14 --> 00:12:02:24] Um avatar é um personagem que representa um grande grupo, tá bom?
+[00:12:03:20 --> 00:12:07:06] Use aqui então as informações importantes que eu já tinha passado e vale a pena
+[00:12:07:06 --> 00:12:09:25] vou repetir, use os dados que coletou na auditoria de público.
+[00:12:10:04 --> 00:12:13:23] Tem um livro que chama Bayer Personas, da Adele Revela.
+[00:12:14:10 --> 00:12:16:25] E nesse livro, ela reforça o fato de que a Bayer Persona
+[00:12:16:25 --> 00:12:19:03] só deve ser considerada como tal
+[00:12:19:03 --> 00:12:22:20] se houver uma etapa de entrevistas com os clientes,
+[00:12:22:23 --> 00:12:25:00] ex-clientes e potenciais clientes.
+[00:12:25:14 --> 00:12:28:12] Então, ela está falando aqui que você só tem uma Bayer Persona
+[00:12:28:12 --> 00:12:32:00] digna, real, de fato, quando você tem dados reais,
+[00:12:32:06 --> 00:12:35:04] quando você tem informações que não vieram de axismos,
+[00:12:35:04 --> 00:12:36:10] que não vieram da sua cabeça.
+[00:12:36:10 --> 00:12:38:24] Isso aqui é um erro muito comum na hora de criar persona.
+[00:12:39:02 --> 00:12:41:02] Você acha que está criando um bonequinho do The Sims?
+[00:12:41:12 --> 00:12:45:06] Mas, na verdade, você está criando uma ferramenta
+[00:12:45:06 --> 00:12:47:28] que você vai utilizar para escrever os textos da marca,
+[00:12:48:12 --> 00:12:53:22] para definir, ajudar na definição de cor, tipografia, símbolo
+[00:12:54:11 --> 00:12:57:05] e todos os outros elementos proprietários da marca.
+[00:12:57:20 --> 00:13:00:06] Pode ser que isso não seja diretamente o ponto
+[00:13:00:06 --> 00:13:02:04] que vai afetar nessas escolhas? Sim.
+[00:13:02:13 --> 00:13:04:12] Mas, com certeza, ele influencia.
+[00:13:04:12 --> 00:13:10:21] Porque quando você constrói a persona, ela vai acompanhar a marca por um longo período.
+[00:13:10:25 --> 00:13:14:02] Por isso que isso aqui é uma ferramenta de branding, de gestão da marca.
+[00:13:14:10 --> 00:13:18:26] Ela pode ser atualizada com o tempo, porque as coisas realmente mudam, mas você utiliza
+[00:13:18:26 --> 00:13:20:13] isso aqui como diretriz.
+[00:13:20:16 --> 00:13:23:08] Então é muito importante fazer bem feito, tá bom?
+[00:13:24:03 --> 00:13:28:07] Ela define também a Adélio que existem quatro tipos de clientes que normalmente
+[00:13:28:07 --> 00:13:28:24] são entrevistados.
+[00:13:28:24 --> 00:13:33:17] Isso aqui a gente já falou lá na hora de falar de auditoria de público, na hora
+[00:13:33:17 --> 00:13:37:08] de falar da investigação, que é muito importante entrevistar colaboradores.
+[00:13:37:13 --> 00:13:39:09] Isso facilita muito o seu jogo.
+[00:13:39:15 --> 00:13:41:23] Se você já fez isso, você já tem esses dados.
+[00:13:42:00 --> 00:13:45:18] Se não fez, você vai precisar agora, senão você vai se sentir perdido
+[00:13:45:18 --> 00:13:47:00] ou ter uma persona genérica.
+[00:13:47:06 --> 00:13:50:06] Eu vou mostrar um exemplo aqui de uma persona genérica para vocês,
+[00:13:50:08 --> 00:13:52:03] que ao mesmo tempo que vai mostrar como fazer,
+[00:13:52:12 --> 00:13:54:14] eu vou mostrar como não fazer, tá bom?
+[00:13:54:18 --> 00:13:57:21] Mas olha só os tipos de público que você pode entrevistar.
+[00:13:58:02 --> 00:13:58:15] Clientes.
+[00:13:58:29 --> 00:14:00:24] Então, aqui o primeiro público são clientes.
+[00:14:00:24 --> 00:14:03:17] os que escolheram a empresa.
+[00:14:04:06 --> 00:14:06:03] Então, sei lá, você está fazendo isso para uma padaria.
+[00:14:06:12 --> 00:14:11:00] Você pode, eu dê esse exemplo, dar um prêmio, um bônus
+[00:14:11:00 --> 00:14:13:25] para entrevistar alguns clientes que já escolheram aquela padaria.
+[00:14:14:08 --> 00:14:17:18] E basicamente nessa entrevista aqui, olha, eu peguei mais uma consideração.
+[00:14:17:24 --> 00:14:19:06] Não use perguntas roteirizadas.
+[00:14:19:18 --> 00:14:22:27] Converse sobre a experiência do público com o produto ou serviço da empresa.
+[00:14:23:06 --> 00:14:25:10] Então, você pode começar perguntando simplesmente
+[00:14:25:10 --> 00:14:28:11] por que ele escolheu comprar nessa padaria e não outra.
+[00:14:28:11 --> 00:14:34:08] ou então pedir para ele contar como foi hoje cedo, ou sei lá...
+[00:14:34:08 --> 00:14:36:09] Qual foi a última vez que você foi na padaria? Foi terça-feira.
+[00:14:36:17 --> 00:14:40:11] Como foi o processo? Conta para mim a história de você indo na padaria.
+[00:14:40:14 --> 00:14:41:24] Pode começar simplesmente assim.
+[00:14:41:28 --> 00:14:43:15] O pessoal vai falar, você vai perguntar
+[00:14:43:15 --> 00:14:46:06] por que você escolheu vir nessa padaria e não em outra.
+[00:14:46:14 --> 00:14:48:17] E você vai começar a coletar informações
+[00:14:49:01 --> 00:14:54:29] sobre a percepção dessa pessoa em relação às marcas.
+[00:14:55:09 --> 00:14:56:27] Aqui a gente tem o seguinte, olha...
+[00:14:56:27 --> 00:15:01:20] consideraram comprar, mas compraram do concorrente. Então, por que foi naquela padaria e não nessa?
+[00:15:01:22 --> 00:15:04:16] Você considerou comprar nessa? E o que te fez escolher outra e não essa?
+[00:15:04:26 --> 00:15:09:21] Esse tipo de pergunta, como uma conversa. Se você ficar com o roteirinho pronto,
+[00:15:10:08 --> 00:15:13:26] você já vai ter respostas prontas e a sua persona também vai ser influenciada.
+[00:15:14:00 --> 00:15:17:18] Quanto mais natural é, mais palavras naturais você pega.
+[00:15:17:22 --> 00:15:22:20] Essas palavras, inclusive, podem te ajudar a construir a identidade verbal, tá? Já me ajudou muito.
+[00:15:22:20 --> 00:15:27:04] Às vezes, numa entrevista, você tem palavras que não fazem parte do seu repertório pessoal,
+[00:15:27:20 --> 00:15:29:16] mas que fazem parte do repertório daquele público.
+[00:15:29:27 --> 00:15:32:01] E utilizar essas palavras pode ser interessante, tá?
+[00:15:32:16 --> 00:15:34:07] Os que consideraram comprar...
+[00:15:35:03 --> 00:15:38:21] como aquele que a empresa vende, mas preferiram se manter no status quo.
+[00:15:38:23 --> 00:15:40:04] O que ela quer dizer com isso daqui?
+[00:15:41:23 --> 00:15:45:10] Consideraram tomar uma atitude diferente do tradicional,
+[00:15:45:26 --> 00:15:48:27] mas continuaram no tradicional, às vezes por medo,
+[00:15:49:07 --> 00:15:51:22] às vezes porque sentiram que não valia a pena.
+[00:15:52:02 --> 00:15:54:07] Então, aquelas pessoas que estão flertando,
+[00:15:54:07 --> 00:15:57:16] mas ainda não escolheram comprar aquele produto que é diferente.
+[00:15:58:05 --> 00:16:01:03] Os que nunca consideraram comprar também perguntam.
+[00:16:01:12 --> 00:16:04:23] Podem ser pessoas que passam direto pela padaria e não compram lá.
+[00:16:04:23 --> 00:16:08:13] se perguntam por que você nunca considerou comprar aqui, né?
+[00:16:08:20 --> 00:16:11:09] Você pode perguntar também para pessoas que não vão em padaria
+[00:16:11:09 --> 00:16:14:15] fazer entrevista com elas também diretamente, ok?
+[00:16:14:23 --> 00:16:17:05] Lembra do seguinte, se você entrevistar colaboradores
+[00:16:17:05 --> 00:16:19:07] e pegar dados de colaboradores aqui,
+[00:16:19:13 --> 00:16:22:17] você está montando uma persona de colaborador e não de cliente.
+[00:16:22:22 --> 00:16:26:08] Então aqui, olha, são tipos de clientes ou possíveis clientes
+[00:16:26:08 --> 00:16:29:20] ou até mesmo ex-clientes que desistiram de comprar de lá
+[00:16:29:20 --> 00:16:31:20] por algum motivo ou outro, tá bom?
+[00:16:31:27 --> 00:16:33:13] Lembrando que a persona, como eu disse,
+[00:16:33:13 --> 00:16:39:19] ela pode ser feita tanto aqui no marketing, no design, no branding, como também na experiência
+[00:16:39:19 --> 00:16:44:20] do usuário, design de interfaces, que você vai querer entender qual que foi a experiência
+[00:16:44:20 --> 00:16:49:07] daquela pessoa com aquele produto e, no final, criar uma persona que às vezes está frustrada
+[00:16:49:07 --> 00:16:54:08] e precisa de uma solução diferente ou que às vezes está satisfeita, mas quer
+[00:16:54:08 --> 00:16:56:10] algo mais e por aí vai, tá bom?
+[00:16:57:04 --> 00:16:58:18] Então, aqui são alguns exemplos.
+[00:16:58:25 --> 00:17:01:14] Quais são as ferramentas que a gente vai utilizar aqui?
+[00:17:02:01 --> 00:17:04:15] Entrevista, que é a primeira de todas, né?
+[00:17:04:17 --> 00:17:06:20] Então, a gente já coloca as entrevistas aqui.
+[00:17:06:23 --> 00:17:09:19] Talvez seja a ferramenta mais importante para construir a persona,
+[00:17:09:29 --> 00:17:13:07] porque você coleta dados direto da fonte e não é achismo,
+[00:17:13:08 --> 00:17:15:01] não é apenas inferência da sua cabeça.
+[00:17:15:25 --> 00:17:16:28] Mapa de empatia.
+[00:17:17:02 --> 00:17:20:20] O mapa de empatia não é uma ferramenta de persona,
+[00:17:20:29 --> 00:17:24:02] mas é uma ferramenta que ajuda muito a construir a persona.
+[00:17:24:04 --> 00:17:25:11] Vocês vão ver aqui já já.
+[00:17:25:14 --> 00:17:28:01] Porque ele te ajuda a entender como que a pessoa se sente,
+[00:17:28:05 --> 00:17:30:23] como que a pessoa enxerga aquele cenário e por aí vai.
+[00:17:30:23 --> 00:17:34:17] E outra ferramenta que pode te ajudar também, mas tem que tomar cuidado,
+[00:17:34:29 --> 00:17:36:26] é uma ferramenta que chama um dia na vida.
+[00:17:37:07 --> 00:17:39:12] É um dia na vida do seu cliente.
+[00:17:39:20 --> 00:17:44:11] Ajuda também a ter empatia e ajuda também a enxergar coisas que fora daquele contexto
+[00:17:44:11 --> 00:17:45:23] você não enxergaria.
+[00:17:46:02 --> 00:17:50:20] Mas tem que tomar cuidado porque mesmo que seja um dia na vida, você continua sendo você.
+[00:17:50:26 --> 00:17:52:23] Você continua sendo um observador.
+[00:17:53:01 --> 00:17:56:14] Uma pessoa que tem um olhar desprendido de fora da garrafa.
+[00:17:56:17 --> 00:17:59:08] Então tem que tomar cuidado porque isso acaba sendo um viés.
+[00:17:59:08 --> 00:18:02:06] você pode acabar colocando a sua opinião ali, tá?
+[00:18:02:11 --> 00:18:04:07] Mesmo assim, é uma ferramenta que ajuda muito.
+[00:18:04:10 --> 00:18:05:07] Como é que aplica?
+[00:18:05:22 --> 00:18:06:19] Simples, cara.
+[00:18:06:28 --> 00:18:08:14] Testando o produto ou o serviço.
+[00:18:08:26 --> 00:18:12:14] Se é, por exemplo, uma padaria...
+[00:18:12:14 --> 00:18:13:17] Os exemplos fáceis são esses.
+[00:18:13:18 --> 00:18:14:06] Ah, uma padaria.
+[00:18:14:15 --> 00:18:15:23] Vai lá e come na padaria.
+[00:18:16:12 --> 00:18:18:17] Agora, vamos supor que é um advogado.
+[00:18:18:23 --> 00:18:20:29] Um advogado do seu cliente.
+[00:18:21:10 --> 00:18:22:25] Se for esse o caso...
+[00:18:23:23 --> 00:18:26:09] Aí, eu vou ter que cortar, eu vi que eu caí.
+[00:18:26:15 --> 00:18:27:11] Deixa eu voltar aqui.
+[00:18:28:03 --> 00:18:30:26] O bom é que esse tipo de corte eu posso editar.
+[00:18:32:21 --> 00:18:35:28] Não sei por que está rolando isso, sinceramente, mas está bom.
+[00:18:37:02 --> 00:18:37:24] Não vou dar aí.
+[00:18:39:04 --> 00:18:41:17] Então, o exemplo de padaria é muito simples, né?
+[00:18:41:17 --> 00:18:43:01] Agora, vamos pensar que é um advogado.
+[00:18:43:03 --> 00:18:44:06] Como é que faz um dia na vida?
+[00:18:44:20 --> 00:18:47:27] Você pode pedir para o seu cliente para simular isso com você.
+[00:18:48:08 --> 00:18:49:20] Aqui é ainda mais perigoso,
+[00:18:49:26 --> 00:18:51:15] apesar de trazer informações relevantes,
+[00:18:51:17 --> 00:18:55:18] ainda mais perigoso porque uma simulação está no ambiente controlado, né?
+[00:18:56:02 --> 00:18:59:27] E o seu cliente vai querer ser o mais perfeito possível.
+[00:19:00:00 --> 00:19:03:08] É tipo dia de prova, sei lá, ou dia de inspeção.
+[00:19:03:09 --> 00:19:04:24] O inspetor vai lá na empresa.
+[00:19:05:00 --> 00:19:06:25] Tudo é perfeito, todo mundo feliz.
+[00:19:07:02 --> 00:19:08:27] Ele vai embora, a realidade é outra.
+[00:19:09:04 --> 00:19:10:26] A gente quer fazer isso de um outro jeito.
+[00:19:11:03 --> 00:19:13:07] Por isso que tem também um outro nome para o Dia na Vida,
+[00:19:13:20 --> 00:19:15:27] que eles chamam de cliente oculto.
+[00:19:16:02 --> 00:19:19:13] É você se passar por cliente sem que eles saibam que você é cliente.
+[00:19:19:17 --> 00:19:20:23] É um jeito de fazer também.
+[00:19:21:11 --> 00:19:22:26] Aqui tem que usar a criatividade,
+[00:19:22:29 --> 00:19:24:22] mas o princípio é muito simples de entender,
+[00:19:24:27 --> 00:19:25:21] então não vamos estender.
+[00:19:26:08 --> 00:19:28:28] Antes de eu mostrar o mapa de empatia para vocês,
+[00:19:29:11 --> 00:19:31:12] deixa eu trazer mais uma consideração aqui também.
+[00:19:31:23 --> 00:19:34:13] Qual que é a diferença de mapa de empatia para persona?
+[00:19:34:13 --> 00:19:42:07] Isso aqui, inclusive, eu peguei do Wikipedia, na versão inglês, do mapa de empatia.
+[00:19:42:24 --> 00:19:44:02] Mas é interessante a definição.
+[00:19:44:11 --> 00:19:47:07] O mapa de empatia ocorre no início do processo de pesquisa.
+[00:19:47:11 --> 00:19:50:20] Inclusive, aqui é uma ferramenta que você pode utilizar na investigação também.
+[00:19:50:29 --> 00:19:53:14] É usado para entrar na cabeça e no coração do usuário.
+[00:19:53:22 --> 00:19:57:07] O mapa de empatia ajuda a retratar a situação do usuário,
+[00:19:57:11 --> 00:20:01:15] bem como a considerar quais pesquisas futuras podem ser necessárias.
+[00:20:01:18 --> 00:20:02:19] Vocês vão ver já como.
+[00:20:02:19 --> 00:20:09:06] Já a persona é mais definida e formal, a persona é como se fosse um projeto, você
+[00:20:09:06 --> 00:20:13:12] finaliza ela e é um documento que você vai utilizar logo em seguida, tá?
+[00:20:13:12 --> 00:20:14:22] Numa das outras etapas.
+[00:20:14:27 --> 00:20:19:21] Pra gerar uma persona bem construída, pra atender as necessidades e problemas, a equipe
+[00:20:19:21 --> 00:20:22:06] precisa realizar uma pesquisa aprofundada.
+[00:20:22:23 --> 00:20:28:02] Personas são melhor aproveitadas mais tarde no processo, ou seja, são aproveitadas
+[00:20:28:02 --> 00:20:31:14] na hora que a gente precisa construir a mensagem.
+[00:20:31:14 --> 00:20:36:09] E aí é muito mais fácil olhar para uma persona do que olhar para um público grande, tá bom?
+[00:20:36:14 --> 00:20:39:08] É para isso que a persona serve, ela é uma ferramenta que a gente constrói.
+[00:20:40:05 --> 00:20:41:02] Se Bayer Persona...
+[00:20:41:02 --> 00:20:44:00] Ah, isso aqui eu respondi no início também, mas serve o reforço, né?
+[00:20:44:17 --> 00:20:47:17] Se ela é pesquisa também, por que não apareceu na investigação?
+[00:20:47:23 --> 00:20:51:04] E a resposta é simples, Bayer Persona é uma definição.
+[00:20:51:18 --> 00:20:57:06] Uma série de escolhas estratégicas em relação aos segmentos de mercado que a marca vai se relacionar.
+[00:20:57:17 --> 00:21:00:13] Então aqui não é só pesquisa, você faz escolhas.
+[00:21:00:13 --> 00:21:03:20] Você toma decisões de quais são esses segmentos.
+[00:21:03:26 --> 00:21:05:17] Inclusive, o seu cliente precisa provar
+[00:21:05:17 --> 00:21:09:17] quais são os segmentos que ele vai atender no futuro.
+[00:21:09:27 --> 00:21:12:06] Porque a empresa é dele, ele que lança os produtos,
+[00:21:12:10 --> 00:21:13:14] ele que lança os serviços.
+[00:21:13:15 --> 00:21:14:28] Claro, pode ter uma equipe gigante,
+[00:21:15:03 --> 00:21:16:24] se tiver, você tem que conversar com a equipe também.
+[00:21:17:29 --> 00:21:21:20] Mas aqui, a gente decide quem são os segmentos.
+[00:21:21:24 --> 00:21:24:18] A partir desses segmentos, a gente constrói as personas.
+[00:21:25:03 --> 00:21:27:29] Agora, vamos ver isso aqui na prática, como é que funciona.
+[00:21:28:14 --> 00:21:31:08] porque vai ficar mais fácil do que eu apenas explicando aqui.
+[00:21:31:15 --> 00:21:34:23] Então, vou colocar aqui primeiro o mapa de empatia
+[00:21:34:23 --> 00:21:36:11] para vocês verem qual que é o processo.
+[00:21:36:14 --> 00:21:39:08] É um canvas também que vem do design thinking...
+[00:21:39:08 --> 00:21:40:18] Caraca, ficou gigante aqui.
+[00:21:41:09 --> 00:21:43:29] Vem do design thinking também a ideia de simplificar,
+[00:21:44:03 --> 00:21:46:12] de você ter informações alhosas em uma folha de papel.
+[00:21:46:20 --> 00:21:47:00] Tá bom?
+[00:21:47:01 --> 00:21:48:20] Eu vou explicar para vocês como que funciona.
+[00:21:49:03 --> 00:21:51:21] Então, aqui tem feito, para e desenvolvido, porra,
+[00:21:51:21 --> 00:21:53:21] que você coloca o nome da empresa e coloca o seu nome,
+[00:21:54:05 --> 00:21:54:26] data e versão.
+[00:21:55:00 --> 00:21:55:21] Por que versão?
+[00:21:55:21 --> 00:22:00:24] É legal você ter um controle histórico, porque pode ser que você faça mais de um
+[00:22:00:24 --> 00:22:01:22] mapa de empatia.
+[00:22:01:27 --> 00:22:03:19] Como é que eu sei se eu preciso fazer mais ou menos, Juan?
+[00:22:04:08 --> 00:22:05:08] Escopo do projeto.
+[00:22:05:11 --> 00:22:06:11] Lembra sempre disso.
+[00:22:06:21 --> 00:22:08:20] Você tem quanto tempo para fazer esse projeto?
+[00:22:08:28 --> 00:22:11:16] Você tem quanto orçamento para fazer essa pesquisa?
+[00:22:11:27 --> 00:22:16:13] Se você tem mais tempo e mais orçamento, mais imersão, mais aprofundamento.
+[00:22:16:18 --> 00:22:20:07] Se você tem menos tempo e menos orçamento, menos imersão e menos aprofundamento.
+[00:22:20:14 --> 00:22:23:04] Mas sempre faça, por mais simples que seja.
+[00:22:23:04 --> 00:22:27:20] Isso aqui é mais para te ajudar, e claro, vai ajudar muito o seu cliente também,
+[00:22:27:28 --> 00:22:28:23] mas do que atrapalhar.
+[00:22:28:26 --> 00:22:34:24] Tirar isso aqui do seu processo vai mais deixar o processo mais difícil do que mais fácil, tá bom?
+[00:22:35:02 --> 00:22:41:03] Às vezes acontece muito de querer cortar uma etapa para poder, às vezes, diminuir o orçamento, facilitar,
+[00:22:41:11 --> 00:22:44:21] mas você vai acabar se vendo uma situação onde você não recebeu para fazer isso,
+[00:22:44:21 --> 00:22:48:06] mas vai precisar fazer isso, porque isso aqui vai te ajudar, ok?
+[00:22:48:17 --> 00:22:49:05] Então, beleza.
+[00:22:49:29 --> 00:22:50:23] Onde a gente começa?
+[00:22:50:23 --> 00:22:52:14] Eu tenho aqui tudo numerado certinho,
+[00:22:52:23 --> 00:22:55:03] mas eu quero fazer uma visão geral para você entender.
+[00:22:55:20 --> 00:22:58:26] Isso aqui é como se fosse a cabeça do cliente do seu cliente.
+[00:22:59:00 --> 00:23:02:06] E a gente quer ter a visão de mundo dele,
+[00:23:02:23 --> 00:23:05:17] colocar a lente dele para enxergar o mundo,
+[00:23:05:20 --> 00:23:06:29] e aqui no caso, o mundo,
+[00:23:07:21 --> 00:23:10:00] dentro do contexto da marca do seu cliente, tá?
+[00:23:10:00 --> 00:23:13:21] Um grande erro é responder isso daqui de uma maneira muito genérica
+[00:23:14:23 --> 00:23:18:00] sem especificar o segmento do cliente, a marca do cliente, por aí vai.
+[00:23:18:03 --> 00:23:19:01] Vocês vão entender já, já.
+[00:23:19:09 --> 00:23:20:03] Então, a gente segue aqui.
+[00:23:20:03 --> 00:23:22:23] com quem estamos empatizando.
+[00:23:22:29 --> 00:23:25:05] Então aqui a gente vai falar do tipo de cliente.
+[00:23:25:11 --> 00:23:28:05] É legal você já ter definido antes quais são os segmentos.
+[00:23:28:08 --> 00:23:29:18] Lembra que a gente fez isso do iFood?
+[00:23:29:27 --> 00:23:32:08] Você precisa mapear isso lá na investigação,
+[00:23:32:17 --> 00:23:35:27] porque lá no BMC tem uma etapa lá, segmentos de clientes.
+[00:23:36:02 --> 00:23:37:25] Você precisa mapear isso lá.
+[00:23:38:01 --> 00:23:40:28] Aqui você vai criar um mapa de empatia para cada segmento.
+[00:23:41:02 --> 00:23:43:04] Se são três segmentos, três mapas de empatia.
+[00:23:43:06 --> 00:23:45:15] Se são cinco segmentos, cinco mapas de empatia
+[00:23:45:15 --> 00:23:47:20] para compreender cada um desses segmentos.
+[00:23:48:11 --> 00:23:51:09] Isso aqui, o jeito de fazer isso aqui é variado.
+[00:23:51:14 --> 00:23:56:23] Tem um jeito de fazer que não é o ideal, mas quebra um galho quando você não tem um
+[00:23:56:23 --> 00:24:00:28] projeto com muito orçamento e muito tempo, que é você mesmo preencher de acordo com
+[00:24:00:28 --> 00:24:04:11] os dados que você coletou sozinho, sei lá, você está em casa e começa a preencher
+[00:24:04:11 --> 00:24:05:06] de acordo com os dados.
+[00:24:05:19 --> 00:24:09:18] Mas tem um outro jeito de fazer isso, que é levar esse processo aqui para uma
+[00:24:09:18 --> 00:24:10:26] espécie de entrevista.
+[00:24:12:03 --> 00:24:16:24] Você coloca o cliente para experimentar o que ele está fazendo, e à medida que
+[00:24:16:24 --> 00:24:20:03] ele vai experimentando, você vai perguntando para ele.
+[00:24:20:06 --> 00:24:21:29] Assim você fica muito mais específico.
+[00:24:22:02 --> 00:24:24:00] Vou dar um exemplo sem ser um exemplo de padaria, né?
+[00:24:24:00 --> 00:24:25:10] Vamos pensar numa loja de roupa agora.
+[00:24:25:23 --> 00:24:29:20] Você pode levar o cliente a experimentar a loja de roupa
+[00:24:29:20 --> 00:24:33:18] e depois dele experimentar ela, você faz esse processo aqui com ele.
+[00:24:33:23 --> 00:24:36:14] Você vai começar a fazer algumas perguntas aqui para ele.
+[00:24:36:24 --> 00:24:37:09] Tá beleza?
+[00:24:37:20 --> 00:24:38:08] Então vamos lá.
+[00:24:38:12 --> 00:24:40:18] Quando eu ler as perguntas, vocês vão começar a entender a ideia.
+[00:24:40:28 --> 00:24:41:20] Mas com quem?
+[00:24:41:27 --> 00:24:44:26] Então, cada segmento de cliente você vai responder de um jeito aqui.
+[00:24:44:26 --> 00:24:48:03] Quem é a pessoa que queremos entender?
+[00:24:48:07 --> 00:24:50:09] Vamos pegar o iFood de novo de exemplo aqui.
+[00:24:50:18 --> 00:24:54:08] Se a gente vai falar do Motoboy, a gente coloca aqui o entregador...
+[00:24:55:06 --> 00:24:58:06] está buscando um aplicativo para fazer renda extra e tal,
+[00:24:58:06 --> 00:24:59:14] você pode definir isso aqui.
+[00:24:59:21 --> 00:25:01:00] Em qual situação ele se encontra?
+[00:25:01:04 --> 00:25:03:03] Já coloquei, está procurando um aplicativo,
+[00:25:03:05 --> 00:25:04:15] quer fazer uma renda extra,
+[00:25:04:26 --> 00:25:07:08] o papel dele é um papel de parceria com a marca,
+[00:25:07:11 --> 00:25:08:19] eu posso responder tudo isso daqui.
+[00:25:08:21 --> 00:25:11:02] Quanto mais específico, melhor.
+[00:25:11:11 --> 00:25:13:00] Então, eu defino aqui quem é.
+[00:25:13:13 --> 00:25:16:19] No segundo passo, eu vou definir a experiência.
+[00:25:16:24 --> 00:25:18:02] Então, o que ele precisa fazer?
+[00:25:18:12 --> 00:25:21:06] Qual trabalho ele quer ou precisa que seja feito?
+[00:25:21:09 --> 00:25:25:03] Então, ele quer fazer as entregas dos pedidos para o iFood.
+[00:25:25:06 --> 00:25:28:09] Ele precisa tomar a decisão de qual pedido ele vai aceitar,
+[00:25:28:15 --> 00:25:30:00] qual pedido ele não vai aceitar,
+[00:25:30:06 --> 00:25:32:12] qual aplicativo ele vai escolher...
+[00:25:33:03 --> 00:25:34:25] São várias decisões que ele precisa tomar.
+[00:25:35:03 --> 00:25:37:27] Como saberemos que ela foi bem sucedida?
+[00:25:38:08 --> 00:25:39:09] Aqui, olha...
+[00:25:39:09 --> 00:25:41:02] Está vendo que estão cinzas essas duas partes?
+[00:25:41:18 --> 00:25:44:09] Essa parte de objetivo você escreve,
+[00:25:44:12 --> 00:25:45:27] você não pergunta para o cliente.
+[00:25:46:05 --> 00:25:48:24] Você que sabe as respostas disso daqui, tá bom?
+[00:25:49:00 --> 00:25:51:27] Ele vai começar a ficar envolvido nas partes brancas aqui, olha.
+[00:25:52:07 --> 00:25:55:03] Então, como é que você sabe que foi bem sucedido,
+[00:25:55:03 --> 00:26:00:12] que ele fez, você pode pedir ele para fazer. Se fosse, por exemplo, um mapa de empatia
+[00:26:00:12 --> 00:26:03:26] para entender a experiência do usuário, você poderia fazer ele utilizar o aplicativo.
+[00:26:04:08 --> 00:26:07:26] No caso aqui, como a gente está falando de design, de identidade de marcas, o nosso
+[00:26:07:26 --> 00:26:14:14] objetivo no final aqui é compreender uma escolha entre uma marca ou outra. Então,
+[00:26:14:15 --> 00:26:19:17] qual é o trabalho que precisa ser feito? Uma escolha. Uma escolha entre Burger King
+[00:26:19:17 --> 00:26:24:02] ou McDonald's. Uma decisão. E como é que a gente sabe que foi bem definida
+[00:26:24:02 --> 00:26:27:24] quando a gente tem uma resposta de qual foi a decisão,
+[00:26:28:02 --> 00:26:29:08] por que essa decisão foi tomada?
+[00:26:29:12 --> 00:26:30:14] Posso colocar aqui.
+[00:26:30:24 --> 00:26:31:21] Aí eu tenho um objetivo.
+[00:26:31:26 --> 00:26:34:08] Então, eu estou falando com esse público
+[00:26:34:08 --> 00:26:36:22] e esse público tem que fazer isso
+[00:26:36:22 --> 00:26:39:04] para que eu chegue a um objetivo de resposta.
+[00:26:39:20 --> 00:26:42:16] Então, aqui primeiro você que preenche, não envolve o cliente.
+[00:26:42:27 --> 00:26:46:14] Todas essas outras partes aqui, nós vamos envolver o cliente.
+[00:26:46:21 --> 00:26:48:20] E repara que está tudo ligado com os sentidos.
+[00:26:49:05 --> 00:26:52:23] O que vê, o que diz, o que faz, o que houve,
+[00:26:52:23 --> 00:26:54:20] O que pensa e o que sente.
+[00:26:55:23 --> 00:26:58:13] nem sempre é tão fácil responder isso daqui,
+[00:26:58:14 --> 00:27:02:06] porque é meio que um processo de entrar na cabeça do cliente.
+[00:27:02:10 --> 00:27:04:25] E nem sempre você vai anotar só o que o cliente fala,
+[00:27:05:05 --> 00:27:09:05] mas é uma percepção que você tem da percepção dele.
+[00:27:09:07 --> 00:27:11:00] Então, a gente tem que tomar muitos cuidados aqui
+[00:27:11:00 --> 00:27:12:17] para não ficar enviesado.
+[00:27:12:23 --> 00:27:13:24] O que é ficar enviesado?
+[00:27:14:04 --> 00:27:18:06] É, às vezes, o seu cérebro tomar alguns atalhos de respostas
+[00:27:18:06 --> 00:27:21:23] como se aquilo fosse uma resposta certa,
+[00:27:22:05 --> 00:27:24:20] quando, na verdade, é uma inferência, é uma dedução sua.
+[00:27:24:20 --> 00:27:27:21] Então, tem que tomar esse cuidado sempre que vai fazer essa ferramenta.
+[00:27:28:00 --> 00:27:28:24] Vou te dar um exemplo.
+[00:27:29:06 --> 00:27:30:00] O que ela vê?
+[00:27:30:27 --> 00:27:32:00] Só o cliente está vendo.
+[00:27:32:04 --> 00:27:33:23] Você pode fazer uma entrevista com ele.
+[00:27:34:03 --> 00:27:39:03] Aqui você pode tanto fazer uma entrevista quanto pegar os dados de todas as entrevistas
+[00:27:39:03 --> 00:27:41:07] que você fez e você responder sozinho.
+[00:27:41:17 --> 00:27:46:01] A diferença, só relembrando, é que se você faz isso sozinho, juntando todos
+[00:27:46:01 --> 00:27:51:23] os dados, você tem que tomar cuidado com a sua percepção influenciando as respostas.
+[00:27:51:23 --> 00:27:55:21] Quando você entrevista, é mais difícil de cometer esse erro porque as pessoas estão
+[00:27:55:21 --> 00:27:57:23] te dando as respostas ali na hora, tá?
+[00:27:58:00 --> 00:28:01:20] Então depois que ela passou pelo processo, vem o que você vê, você pode perguntar,
+[00:28:01:26 --> 00:28:05:26] o que você vê no mercado de hamburguerias, vou pegar aqui McDonald's e Burger King,
+[00:28:06:01 --> 00:28:06:03] tá?
+[00:28:06:13 --> 00:28:07:14] Mas o que você vê?
+[00:28:08:14 --> 00:28:11:08] Me fala um pouco, você pode perguntar, me fala um pouco sobre o que é o mercado
+[00:28:11:08 --> 00:28:12:15] de hamburguerias para você.
+[00:28:13:02 --> 00:28:17:20] Aí ele vai falar, para mim o mercado de hamburguerias tem o podrão, as chapas
+[00:28:17:23 --> 00:28:20:25] Tinha a Súja também chamada assim, a Hamburgueria de Bairro.
+[00:28:20:28 --> 00:28:24:06] Tem os artesanais, tem os fast-foods,
+[00:28:24:11 --> 00:28:25:21] esses são os que eu mais conheço.
+[00:28:25:22 --> 00:28:28:22] Tem os food trucks que aparecem nos eventos.
+[00:28:29:03 --> 00:28:31:06] Só o que eu vejo do mercado é isso.
+[00:28:31:15 --> 00:28:34:02] Alguns são mais baratos e acabam sendo bem gostosos,
+[00:28:34:02 --> 00:28:35:13] mas não fazem bem para a saúde.
+[00:28:36:29 --> 00:28:41:23] Outros são mais caros, só que são produtos mais selecionados.
+[00:28:41:28 --> 00:28:43:04] E a pessoa vai começando a falar.
+[00:28:43:12 --> 00:28:45:24] E você vai registrando, você pode gravar ou registrar.
+[00:28:45:24 --> 00:28:49:03] O que ela vê imediatamente ao seu redor?
+[00:28:49:06 --> 00:28:50:05] Por que tem essa pergunta?
+[00:28:50:08 --> 00:28:52:21] Às vezes é um aplicativo que a pessoa está acessando,
+[00:28:52:24 --> 00:28:55:08] às vezes a pessoa está dentro do lugar
+[00:28:55:08 --> 00:28:58:05] e aí você está querendo medir como ela se sente ali.
+[00:28:58:16 --> 00:29:00:07] Você pode fazer a mapa de empatia com tudo,
+[00:29:00:09 --> 00:29:01:29] com a experiência de alguém em um site,
+[00:29:02:01 --> 00:29:04:06] com a experiência de alguém em uma rede social,
+[00:29:04:21 --> 00:29:05:23] um conteúdo, tá?
+[00:29:05:29 --> 00:29:07:24] Aqui, só relembrando, a gente está falando de marca.
+[00:29:08:06 --> 00:29:09:21] Então, o que a gente vê ao seu redor,
+[00:29:09:22 --> 00:29:11:06] você pode tentar a gente falar,
+[00:29:12:12 --> 00:29:15:08] perguntar o que você vê em relação às marcas
+[00:29:15:08 --> 00:29:18:07] desse mercado, e ele vai começar a falar quais são as marcas que ele vê.
+[00:29:18:18 --> 00:29:24:19] Use sempre a palavra ver, que isso vai te ajudar a instigar essa pessoa a falar desse sentido.
+[00:29:25:10 --> 00:29:28:05] O que ela vê outras pessoas dizendo e fazendo?
+[00:29:28:13 --> 00:29:29:23] Essa pergunta é muito boa.
+[00:29:30:09 --> 00:29:36:05] Então, o que você vê os outros falarem sobre o mercado de hambúrgueres?
+[00:29:36:15 --> 00:29:37:29] Poderia perguntar.
+[00:29:38:06 --> 00:29:39:11] O que você assiste?
+[00:29:39:17 --> 00:29:43:07] Você pode até perguntar, você lê ou assiste alguma coisa sobre esse assunto?
+[00:29:43:07 --> 00:29:44:12] Não, nada.
+[00:29:44:15 --> 00:29:48:24] Qual foi a última coisa que você se lembra de ter assistido ou lido algo a respeito?
+[00:29:48:27 --> 00:29:52:18] Você pode começar a fazer essas perguntas e você vai registrando nesse quadrante aqui.
+[00:29:52:20 --> 00:29:58:01] Pode ser com post-it mesmo ou pode ser gravado, depois você preenche, o que você achar melhor.
+[00:29:58:19 --> 00:30:02:12] Depois que você fez essa etapa, aí a gente vai para o que a pessoa diz.
+[00:30:03:21 --> 00:30:07:15] Aqui você já pode ir registrando, às vezes a pessoa vai falar uma coisa que
+[00:30:07:15 --> 00:30:10:29] está ligado com outro quadrante, sei lá, você está falando de ver, a pessoa
+[00:30:10:29 --> 00:30:15:24] vai falar que outro dia eu fui no fast food e eu estava quase pedindo,
+[00:30:15:28 --> 00:30:17:11] só que eu desisti de pedir.
+[00:30:17:24 --> 00:30:19:29] Eu estava na fila do caixa, eu desisti de pedir
+[00:30:19:29 --> 00:30:21:15] e fui lá e pedi um almoço.
+[00:30:21:21 --> 00:30:22:29] Vocês estão conversando e ela falou isso.
+[00:30:23:12 --> 00:30:25:18] Isso tem a ver com o que ela faz, não com o que ela vê,
+[00:30:25:21 --> 00:30:27:24] mas você captou aqui e pode colocar aqui, entendeu?
+[00:30:28:06 --> 00:30:29:29] Então, apesar de ter uma sequência,
+[00:30:30:05 --> 00:30:33:03] essa sequência serve mais para te ajudar a começar
+[00:30:33:03 --> 00:30:35:01] do que de fato para te engessar.
+[00:30:35:08 --> 00:30:36:25] Às vezes, uma resposta vai para outro canto,
+[00:30:36:27 --> 00:30:37:29] você pode registrar lá.
+[00:30:38:11 --> 00:30:39:17] Então, o que ela diz?
+[00:30:39:17 --> 00:30:41:27] aqui ela já está falando, porque vocês estão em entrevista,
+[00:30:41:29 --> 00:30:43:05] você já pode ir registrando.
+[00:30:43:14 --> 00:30:46:20] Mas o que ela diz tem a ver com o que ela fala para os outros
+[00:30:46:20 --> 00:30:48:01] a respeito disso, né?
+[00:30:48:01 --> 00:30:49:23] Então, o que nós ouvimos dizer?
+[00:30:49:26 --> 00:30:53:08] Você pode falar do que ela está falando já,
+[00:30:54:02 --> 00:30:59:17] como você pode falar, perguntar para ela do que você conversa.
+[00:30:59:22 --> 00:31:01:29] Você conversa sobre isso não é tão bom porque fica amplo.
+[00:31:02:05 --> 00:31:04:02] Ela fala, ah, não converso sobre hambúrguer com os meus amigos,
+[00:31:04:04 --> 00:31:05:24] mas você pode especificar.
+[00:31:06:06 --> 00:31:08:27] Quando você conversa sobre isso com os seus amigos,
+[00:31:09:17 --> 00:31:13:14] Geralmente, o que vocês falam é um jeito de ter essa resposta também.
+[00:31:13:24 --> 00:31:15:28] O que podemos imaginar que ela diz?
+[00:31:16:03 --> 00:31:19:22] Aqui volta para aquela outra maneira de fazer o mapa de empatia,
+[00:31:19:27 --> 00:31:23:13] que é você sozinho, você também pode fazer isso sozinho
+[00:31:23:13 --> 00:31:25:20] e pegando os dados que você já coletou.
+[00:31:26:03 --> 00:31:30:06] Inclusive, isso aqui pode até ajudar você a construir um quadro geral.
+[00:31:30:23 --> 00:31:32:22] Quando as coisas estão muito nebulosas,
+[00:31:33:02 --> 00:31:35:10] você pode vir aqui e começar a preencher com o que você acha,
+[00:31:35:10 --> 00:31:39:05] ou até mesmo pegar as respostas do seu cliente sobre o que ele acha também,
+[00:31:39:07 --> 00:31:42:15] porque isso pode ser um ponto de partida, então as ferramentas são muito versáveis.
+[00:31:43:01 --> 00:31:44:02] Então, aqui o que ela diz.
+[00:31:44:15 --> 00:31:46:18] Depois do que ela diz, a gente vai para o que ela faz.
+[00:31:47:05 --> 00:31:50:15] E aqui é interessante porque nem sempre a gente faz o que a gente fala.
+[00:31:51:02 --> 00:31:53:04] E aí você precisa também observar.
+[00:31:54:01 --> 00:31:56:05] Você pode fazer perguntas paralelas,
+[00:31:56:16 --> 00:32:00:23] por que você comeu essa semana, por que você comeu no fim de semana.
+[00:32:01:05 --> 00:32:04:05] E depois ela fala, comeu um hambúrguer, onde você comeu esse hambúrguer,
+[00:32:04:05 --> 00:32:07:16] Por que você comeu lá? São perguntas que vão te ajudar a chegar no que ela faz.
+[00:32:07:27 --> 00:32:13:12] Às vezes ela come hambúrguer no fim de semana, às vezes ela come 4 vezes na semana.
+[00:32:13:17 --> 00:32:15:17] Você pode ir mapeando isso também.
+[00:32:15:23 --> 00:32:19:20] Sempre lembrando que uma entrevista significa um dado.
+[00:32:20:02 --> 00:32:23:14] Várias entrevistas significam vários dados, claro, é óbvio,
+[00:32:23:16 --> 00:32:25:02] mas o que eu quero dizer com isso aqui?
+[00:32:25:05 --> 00:32:28:12] Quanto mais informação, mais assertiva vai ser a sua persona depois,
+[00:32:28:14 --> 00:32:31:16] porque a gente vai usar essas informações aqui, tá bom?
+[00:32:31:16 --> 00:32:35:15] Depois, o que ela ouve, o que ela ouve outras pessoas dizerem.
+[00:32:35:20 --> 00:32:39:14] Aqui eu vou dar um exemplo de quando eu fiz um mapa de empatia para Overlens.
+[00:32:39:29 --> 00:32:43:05] O mapa de empatia que eu fiz para Overlens era sobre designers,
+[00:32:43:17 --> 00:32:45:05] para eu entender mais os designers.
+[00:32:45:16 --> 00:32:50:16] Para mim, já era fácil porque eu era, eu sou um designer.
+[00:32:50:26 --> 00:32:54:04] Então, eu sou uma persona...
+[00:32:55:04 --> 00:33:00:11] interna, eu próprio, eu faço parte do mercado, eu entendo os designers porque eu também sou
+[00:33:00:11 --> 00:33:04:29] designer, já tenho uma empatia aqui, isso me ajuda a preencher, ainda assim eu já fiz
+[00:33:04:29 --> 00:33:10:09] muitas entrevistas, eu deve ter feito, sei lá, já umas 50, 60 entrevistas com designers,
+[00:33:10:14 --> 00:33:10:15] tá?
+[00:33:10:19 --> 00:33:14:14] Isso cada vez mais me dá informação pra preencher esses espaços.
+[00:33:14:20 --> 00:33:22:26] E eu lembro aqui, por exemplo, o que ela ouve outras pessoas dizerem, ela ouve os
+[00:33:23:19 --> 00:33:29:09] que deveria fazer a advocacia, direito, deveria fazer direito, deveria fazer engenharia.
+[00:33:30:13 --> 00:33:33:01] que design é coisa de artista vagabundo.
+[00:33:33:10 --> 00:33:34:18] Já ouviu? Já me falaram?
+[00:33:34:25 --> 00:33:36:11] Então, eu tenho várias
+[00:33:37:12 --> 00:33:38:00] prazes
+[00:33:38:00 --> 00:33:39:18] que eu posso colocar aqui
+[00:33:39:18 --> 00:33:41:18] que outras pessoas
+[00:33:41:18 --> 00:33:43:16] já me disseram que já ouviram.
+[00:33:43:20 --> 00:33:45:07] O que seus pais falam?
+[00:33:45:11 --> 00:33:46:16] Eu pergunto esse tipo de coisa.
+[00:33:46:28 --> 00:33:48:12] O que seus pais acham
+[00:33:48:12 --> 00:33:49:27] de você ser designer?
+[00:33:50:17 --> 00:33:53:00] Principalmente quando eu vejo que existe
+[00:33:53:00 --> 00:33:55:19] uma barreira muito grande da família.
+[00:33:56:14 --> 00:33:58:19] Eu tenho um amigo que tinha isso.
+[00:33:58:19 --> 00:34:01:02] Então, o pai dele queria que ele fizesse direito, ele fez direito.
+[00:34:01:13 --> 00:34:03:18] Se eu não me engano, ele formou em direito e depois que ele formou,
+[00:34:03:21 --> 00:34:05:03] ele falou, agora vou fazer o que eu quero, fazer design.
+[00:34:05:05 --> 00:34:06:03] Ele tomou coragem e foi.
+[00:34:06:12 --> 00:34:07:25] Mas ele tinha feito aquilo pelo pai dele.
+[00:34:08:25 --> 00:34:10:16] Então, o pai dele não queria que ele fizesse design.
+[00:34:10:19 --> 00:34:11:22] Por quê? Que que ele escuta?
+[00:34:12:01 --> 00:34:13:10] Que que ele ouve dos amigos?
+[00:34:13:21 --> 00:34:15:08] Eu, na minha infância...
+[00:34:15:08 --> 00:34:17:19] Infância não, adolescência, ensino médio...
+[00:34:17:19 --> 00:34:19:16] Eu lembro de uma vez que eu estava com os meus amigos
+[00:34:20:03 --> 00:34:21:28] e todo mundo estava falando o que que queria ser.
+[00:34:22:08 --> 00:34:24:26] Aí um falou, você vai fazer física, você, físico.
+[00:34:24:27 --> 00:34:27:12] O outro falou, você vai fazer ciência da computação.
+[00:34:27:12 --> 00:34:30:13] um outro falou que ia fazer economia e eu ouvia todos eles falando.
+[00:34:30:23 --> 00:34:33:16] Quando eu falei que ia fazer design, aí eles me zoaram, né?
+[00:34:33:24 --> 00:34:34:24] Parecendo tipo assim,
+[00:34:34:27 --> 00:34:37:07] se você tem muito potencial, você vai fazer design,
+[00:34:37:10 --> 00:34:38:25] vai ficar desenhando o dia inteiro.
+[00:34:39:06 --> 00:34:41:01] São coisas que eu ouvi já.
+[00:34:41:09 --> 00:34:43:16] Então, isso me ajuda também a ter empatia, né?
+[00:34:43:25 --> 00:34:48:08] O que ela ouve de indiretamente de outras pessoas, né?
+[00:34:49:01 --> 00:34:52:10] Então, às vezes, você nota duas pessoas conversando
+[00:34:52:10 --> 00:34:54:13] e você percebe que elas estão falando de você.
+[00:34:54:23 --> 00:34:56:00] Ou às vezes elas nem estão falando de você,
+[00:34:56:00 --> 00:34:58:21] mas você escuta duas pessoas falando sobre design também.
+[00:34:58:25 --> 00:35:00:19] E não tem nada a ver, às vezes nem a gente conhece.
+[00:35:00:28 --> 00:35:01:27] Mas estão falando de design?
+[00:35:01:28 --> 00:35:05:25] Por exemplo, a gente escuta muito que o mercado de design é prostituído.
+[00:35:06:01 --> 00:35:07:27] A comunidade fala muito sobre isso.
+[00:35:08:03 --> 00:35:10:23] Então, é uma coisa que a gente ouve com uma certa frequência.
+[00:35:10:26 --> 00:35:12:24] A gente escuta com uma certa frequência também
+[00:35:12:24 --> 00:35:16:27] que isso já tem um tempo que o software não vai te fazer ser um bom designer.
+[00:35:17:01 --> 00:35:19:15] É outra coisa que a gente escuta muito, que muita gente fala.
+[00:35:19:27 --> 00:35:20:16] E por aí vai.
+[00:35:20:24 --> 00:35:22:22] Então, você pode registrar aqui o que houve.
+[00:35:23:07 --> 00:35:25:15] Depois disso, a gente entra aqui num quadrante
+[00:35:25:15 --> 00:35:27:17] que se você fez uma boa auditoria de público,
+[00:35:27:28 --> 00:35:30:04] você tem essas respostas aqui muito bem definidas,
+[00:35:30:20 --> 00:35:35:00] que são as dores e os benefícios, os sonhos,
+[00:35:35:01 --> 00:35:39:23] as oportunidades que existem para essa persona aqui,
+[00:35:39:23 --> 00:35:41:09] no caso que a gente está começando a construir.
+[00:35:41:24 --> 00:35:43:28] Então, quais são as dores, frustrações e ansiedades?
+[00:35:43:29 --> 00:35:45:18] Você pode listar todas elas aqui.
+[00:35:46:03 --> 00:35:48:27] Quais são os desejos, necessidades, esperanças e sonhos?
+[00:35:48:28 --> 00:35:51:24] Você pode listar aqui também, tá bom?
+[00:35:51:29 --> 00:35:53:09] Por exemplo, pegando aqui do design,
+[00:35:53:12 --> 00:35:54:15] que é um que eu tenho muita informação,
+[00:35:54:15 --> 00:35:57:05] Não consigo preencher um quadro desse aqui sobre designers, muito fácil.
+[00:35:57:18 --> 00:35:58:05] Mas dores?
+[00:35:58:10 --> 00:35:59:09] Quais são as dores dos designers?
+[00:35:59:12 --> 00:36:06:00] É a dor de não ter o equipamento adequado, é a dor de ter medo de fazer a escolha errada,
+[00:36:06:13 --> 00:36:11:09] é a dor de ter medo de não ser valorizado, é a dor da insegurança para lidar com os
+[00:36:11:09 --> 00:36:11:27] clientes.
+[00:36:11:29 --> 00:36:13:03] Por que eu sei essas respostas?
+[00:36:13:04 --> 00:36:16:25] Porque eu faço muitas entrevistas e aí eu tenho clareza desse mercado.
+[00:36:17:13 --> 00:36:21:06] Relembrando, quando você está num projeto, você tem que olhar sempre para o escopo.
+[00:36:21:06 --> 00:36:23:24] Eu já estou nesse mercado há alguns anos,
+[00:36:23:26 --> 00:36:26:07] então já me deu muito tempo para poder fazer pesquisa
+[00:36:26:07 --> 00:36:27:11] e eu vou continuar fazendo.
+[00:36:27:27 --> 00:36:30:06] Mas nem sempre você vai ter esse tempo todo, tá?
+[00:36:30:18 --> 00:36:33:00] Aí você dá o seu melhor com o que você tem.
+[00:36:33:22 --> 00:36:35:19] Vem ganhos também. Quais que são os desejos?
+[00:36:35:24 --> 00:36:37:26] Os desejos de muitos designers ser valorizados,
+[00:36:37:28 --> 00:36:39:15] esse é um desejo muito aberto, né?
+[00:36:39:22 --> 00:36:40:16] Mas começa nisso.
+[00:36:40:18 --> 00:36:43:04] Eu quero ser reconhecido e valorizado pelos meus projetos.
+[00:36:43:10 --> 00:36:46:05] Eu quero criar um portfólio que eu admire, por exemplo.
+[00:36:47:01 --> 00:36:48:16] Aqui eu estou falando como designer
+[00:36:48:16 --> 00:36:50:06] e muitos designers vão falar isso também.
+[00:36:50:19 --> 00:36:55:28] Eu quero ganhar bem sendo designer, ou então eu quero ter tempo para os meus hobbies criativos,
+[00:36:56:03 --> 00:36:58:20] não ficar trabalhando igual um louco, eu também quero ter tempo para fazer as coisas
+[00:36:58:20 --> 00:37:03:16] que eu gosto, ficar com quem eu gosto, tudo isso são sonhos, são necessidades que
+[00:37:03:16 --> 00:37:04:03] a gente tem.
+[00:37:05:14 --> 00:37:09:12] Quais outros pensamentos e sentimentos podem motivar os comportamentos?
+[00:37:09:21 --> 00:37:10:14] Entra aqui também.
+[00:37:11:02 --> 00:37:14:28] Então, às vezes, a motivação vem de querer dar uma vida melhor para a família,
+[00:37:15:03 --> 00:37:20:03] às vezes a motivação vem de querer trabalhar com algo que ama de verdade,
+[00:37:20:14 --> 00:37:23:02] às vezes a motivação vem de um propósito maior.
+[00:37:23:07 --> 00:37:25:14] Você pode registrar tudo isso aqui embaixo também.
+[00:37:25:25 --> 00:37:27:29] Quando você termina o mapa de empatia,
+[00:37:28:09 --> 00:37:31:15] você consegue quase colocar a lente daquela pessoa,
+[00:37:31:19 --> 00:37:34:12] enxergar o mundo como aquela pessoa enxerga.
+[00:37:34:12 --> 00:37:40:28] E quando a gente faz entrevista, isso daqui fica muito mais interessante, porque as pessoas
+[00:37:40:28 --> 00:37:45:21] contam as histórias delas e quando elas contam as histórias você quase sente como
+[00:37:45:21 --> 00:37:49:09] se você estivesse colocando a pele daquela pessoa e é muito interessante, tá?
+[00:37:50:04 --> 00:37:54:27] Mas reforçando pela terceira vez, se você não tem esses recursos, tem pouco tempo,
+[00:37:55:00 --> 00:37:58:17] você pode preencher esse quadro aqui você sozinho e com os dados que você coletou
+[00:37:58:17 --> 00:37:59:14] na etapa anterior.
+[00:37:59:27 --> 00:38:00:09] Beleza?
+[00:38:00:09 --> 00:38:04:00] Uma vez preenchido isso aqui, então, a gente tem bastante dados, né?
+[00:38:04:00 --> 00:38:06:28] Já fizemos pesquisa, já fizemos entrevistas,
+[00:38:07:04 --> 00:38:10:08] já preenchemos o mapa de empatia, dos segmentos, né?
+[00:38:10:08 --> 00:38:12:15] Um mapa de empatia para cada segmento, não esqueça.
+[00:38:12:18 --> 00:38:15:11] Pelo menos, né? Você pode fazer 10 mapas de empatia e 20,
+[00:38:15:22 --> 00:38:17:18] depende de quantas pessoas você está entrevistando,
+[00:38:17:22 --> 00:38:19:11] de quanto tempo você tem aquela coisa toda e tal.
+[00:38:19:21 --> 00:38:23:19] Uma vez que a gente tem isso, agora a gente pode construir aqui, então,
+[00:38:24:11 --> 00:38:26:17] a nossa Bayer persona, tá?
+[00:38:26:25 --> 00:38:29:22] E aí eu crio uma estrutura aqui, eu vou deixar isso aqui.
+[00:38:30:09 --> 00:38:32:13] Vou colocar aqui pra vocês, acho que vou ter que logar.
+[00:38:32:21 --> 00:38:33:17] Vamos ver, espero que não.
+[00:38:36:19 --> 00:38:38:12] Para eu poder mexer nela, eu vou ter que logar.
+[00:38:39:00 --> 00:38:41:22] Mas eu vou fazer assim mesmo. Depois eu vou compartilhar com vocês.
+[00:38:42:03 --> 00:38:44:20] Inclusive, eu não vou compartilhar essa, vou compartilhar uma mais completa.
+[00:38:45:08 --> 00:38:48:29] Mas isso aqui eu quero que vocês entendam qual é o princípio
+[00:38:48:29 --> 00:38:52:20] e que vocês criem a própria ficha de vocês, tá bom?
+[00:38:53:23 --> 00:38:56:11] Aqui, eu criei uma buyer persona que...
+[00:38:57:26 --> 00:39:00:26] ela funciona, mas ela poderia ser muito melhor.
+[00:39:01:08 --> 00:39:03:12] Então, aqui vocês vão ver que está vago,
+[00:39:03:21 --> 00:39:06:09] mas é para mostrar também o que não fazer, tá bom?
+[00:39:06:16 --> 00:39:07:11] Então, esse aqui é um exemplo.
+[00:39:07:17 --> 00:39:10:27] Eu peguei como se fosse no caso aqui da Overlens.
+[00:39:11:10 --> 00:39:14:17] Inclusive, tem uma outra informação que é interessante...
+[00:39:15:18 --> 00:39:16:11] Essa aqui ó
+[00:39:17:24 --> 00:39:18:23] vou colocar aqui na tela.
+[00:39:19:13 --> 00:39:23:22] Esse aqui foi... é um documento que eu fiz um tempo atrás, foi esse ano, inclusive.
+[00:39:24:24 --> 00:39:29:00] que eu queria entender melhor alguns dados demográficos dos designers
+[00:39:29:00 --> 00:39:32:14] e também algumas dificuldades, algumas dores,
+[00:39:32:19 --> 00:39:34:12] alguns desejos e algumas objeções.
+[00:39:34:24 --> 00:39:36:08] Então, eu coloquei aqui 10 de cada.
+[00:39:36:12 --> 00:39:39:21] Top 10 dores, top 10 desejos, top 10 objeções e tal.
+[00:39:40:08 --> 00:39:41:29] Então, eu registrei assim, está linear.
+[00:39:42:09 --> 00:39:44:03] Mas eu posso transformar isso daqui,
+[00:39:44:17 --> 00:39:47:06] levar esses dados para a persona e também para o mapa de empatia.
+[00:39:47:17 --> 00:39:49:29] Então, olha que interessante. Primeira coisa, idade.
+[00:39:50:05 --> 00:39:53:27] 18 a 35 anos é a audiência principal da Overlance,
+[00:39:53:27 --> 00:39:57:21] sendo que 68% tem até 24 anos.
+[00:39:57:24 --> 00:40:00:18] Então, a grande maioria tem menos de 24 anos.
+[00:40:01:02 --> 00:40:03:02] Sexo indiferente tem em todos.
+[00:40:03:21 --> 00:40:06:09] Salário, de zero a R$2.500.
+[00:40:06:16 --> 00:40:09:08] São poucos que ganham mais de R$2.500 por mês
+[00:40:09:08 --> 00:40:10:26] e muitos que ganham zero, inclusive.
+[00:40:11:14 --> 00:40:13:26] Profissão designer gráfico, religião indiferente também,
+[00:40:14:02 --> 00:40:15:27] orientação política indiferente também nesse caso.
+[00:40:16:05 --> 00:40:18:02] Pode ser que em alguns casos seja relevante,
+[00:40:18:02 --> 00:40:18:27] nesse caso aqui não era.
+[00:40:19:10 --> 00:40:22:09] E outras informações de geração, Y e Z.
+[00:40:22:09 --> 00:40:27:03] Aqui eu não coloquei as informações, mas eu só coloquei essa palavra-chave,
+[00:40:27:04 --> 00:40:31:15] mas eu também fiz pesquisas mais aprofundadas sobre as gerações, fiz muitos registros e tal.
+[00:40:31:27 --> 00:40:35:08] Mas olha isso aqui que interessante, eu defini três segmentos diferentes.
+[00:40:35:23 --> 00:40:37:27] Iniciantes, estudantes e profissionais.
+[00:40:38:04 --> 00:40:43:05] Aqui eu não coloquei, mas cada um deles inclusive tem outro documento com a definição, né?
+[00:40:43:18 --> 00:40:46:09] Iniciantes estão querendo entender o que é design,
+[00:40:46:27 --> 00:40:48:17] e se design é para mesmo para eles.
+[00:40:49:22 --> 00:40:56:02] estudantes já decidiram que querem ser designers, mas ainda não sabem, não são,
+[00:40:56:09 --> 00:41:01:05] não se sentem designers profissionais, ainda precisam aprender, mas já escolheram design.
+[00:41:01:16 --> 00:41:08:14] Iniciantes ficam naquela coisa assim, ainda não sei se é design mesmo, mas eu quero aprender,
+[00:41:08:16 --> 00:41:12:01] quero saber mais sobre. Estudantes já sabem que é design e sabem que precisa aprender.
+[00:41:12:04 --> 00:41:16:21] E profissionais já estão, eles também sabem que precisa aprender, é uma aprendizada eterna,
+[00:41:16:21 --> 00:41:21:15] mas eles já estão atuando no mercado, já estão recebendo para poder...
+[00:41:22:24 --> 00:41:25:17] fazer design, né? Isso inclusive foi um critério.
+[00:41:25:24 --> 00:41:28:03] Se você não recebia...
+[00:41:28:23 --> 00:41:30:09] Você pode se sentir um grande designer,
+[00:41:30:11 --> 00:41:34:03] mas você não pratica projetos remunerados,
+[00:41:34:10 --> 00:41:37:00] é estudante ainda, tá? Nesses critérios.
+[00:41:37:10 --> 00:41:39:05] Então, eu criei três segmentos diferentes.
+[00:41:39:14 --> 00:41:42:12] Para cada um desses segmentos, eu posso criar uma persona,
+[00:41:42:24 --> 00:41:45:17] porque eles têm motivações muito diferentes.
+[00:41:46:08 --> 00:41:49:26] Enquanto os iniciantes e estudantes querem aprender design,
+[00:41:49:29 --> 00:41:51:06] principalmente o iniciante.
+[00:41:51:06 --> 00:41:55:10] O iniciante está no país das maravilhas,
+[00:41:55:17 --> 00:41:58:06] ele fica aqui foda, Photoshop, Illustrator,
+[00:41:58:20 --> 00:42:00:21] fazer edição, mundo criativo,
+[00:42:00:24 --> 00:42:02:23] poder trabalhar de casa, é o que eu quero,
+[00:42:02:27 --> 00:42:05:00] parece legal, quero saber mais...
+[00:42:05:00 --> 00:42:06:23] Então, o iniciante está sonhando,
+[00:42:07:00 --> 00:42:08:27] é tipo o primeiro período de faculdade.
+[00:42:09:08 --> 00:42:11:06] O estudante já caiu na real,
+[00:42:11:09 --> 00:42:13:03] que é bacana, é isso que ele quer,
+[00:42:13:05 --> 00:42:15:00] só que as coisas não vão ser fáceis,
+[00:42:15:03 --> 00:42:16:02] ele precisa correr atrás,
+[00:42:16:06 --> 00:42:17:05] ele precisa aprender e tal.
+[00:42:17:15 --> 00:42:19:29] O profissional também quer aprender?
+[00:42:19:29 --> 00:42:24:23] ele quer, mas o principal para ele é conseguir primeiro se sustentar, são níveis, né?
+[00:42:25:03 --> 00:42:29:15] Mas primeiro se sustentar a partir do design, depois ter lucro com o design e ganhar bem
+[00:42:29:15 --> 00:42:33:00] no terceiro nível, ganhar muito bem como designer, não só ter lucro mas ganhar muito
+[00:42:33:00 --> 00:42:37:14] bem, ter tempo para poder trabalhar, mas ter tempo para poder fazer o que gosta, ficar
+[00:42:37:14 --> 00:42:38:17] com a família, essas coisas.
+[00:42:39:02 --> 00:42:42:29] Então o que os profissionais, sem ter diferente do iniciante e do estudante, os
+[00:42:42:29 --> 00:42:47:08] profissionais já atendem clientes, então eles não têm o mesmo medo que os estudantes
+[00:42:47:08 --> 00:42:47:16] têm.
+[00:42:47:16 --> 00:42:51:09] A mesma insegurança. Os estudantes, uma barreira deles é a insegurança.
+[00:42:51:20 --> 00:42:54:18] Os profissionais, uma barreira deles é conseguir aumentar o preço.
+[00:42:54:26 --> 00:42:55:26] São coisas diferentes.
+[00:42:56:03 --> 00:42:59:21] O estudante não está preocupado em aumentar o preço, porque ele nem cobrou nada ainda.
+[00:42:59:29 --> 00:43:01:13] Então ele não sabe nem quanto cobrar.
+[00:43:01:15 --> 00:43:05:02] Ele está preocupado de qual é o valor que eu devo cobrar, como que eu precifico.
+[00:43:05:05 --> 00:43:08:02] Sabe? Então são vários fatores aí que entram aqui.
+[00:43:08:12 --> 00:43:10:26] E isso a gente consegue com pesquisa.
+[00:43:11:03 --> 00:43:14:12] Mas é um dado importante que me ajuda já a criar a persona.
+[00:43:14:12 --> 00:43:17:08] Depois disso, isso aqui não são minhas palavras,
+[00:43:17:10 --> 00:43:20:20] são palavras de outros designers que eu já entrevistei.
+[00:43:20:23 --> 00:43:23:05] Na verdade, é isso mesmo, dificuldades relatadas.
+[00:43:23:23 --> 00:43:24:24] Prospectar bons clientes,
+[00:43:24:27 --> 00:43:26:12] minha maior dificuldade é acompanhar o mercado,
+[00:43:26:14 --> 00:43:28:22] não consigo vender meu serviço por um preço mais valorizado.
+[00:43:28:24 --> 00:43:30:05] Tudo isso aqui é profissional.
+[00:43:30:14 --> 00:43:33:23] Determinar prazo, criar uma boa estratégia de negócio.
+[00:43:34:01 --> 00:43:35:24] Isso aqui já é iniciante ou estudante.
+[00:43:36:02 --> 00:43:37:26] Não tenho muito conhecimento sobre o assunto.
+[00:43:38:21 --> 00:43:39:26] Grid manual e semântica,
+[00:43:40:00 --> 00:43:42:10] geralmente é coisa que estudante e iniciante quer saber.
+[00:43:42:10 --> 00:43:45:02] O profissional quer saber de como remunerar.
+[00:43:45:11 --> 00:43:47:14] Não sei o que precisa ser entregue nos projetos.
+[00:43:47:25 --> 00:43:50:14] Isso aqui geralmente é dúvida de iniciante ou de estudante.
+[00:43:51:24 --> 00:43:52:12] Vamos ver aqui.
+[00:43:52:13 --> 00:43:54:00] Clientes que estão dispostos a pagar e que não digam,
+[00:43:54:03 --> 00:43:56:18] é só uma coisa simples para tentar pagar menos.
+[00:43:56:28 --> 00:43:59:11] Esse aqui está com muito mais cara de estudante
+[00:43:59:27 --> 00:44:00:28] transitando para o profissional.
+[00:44:01:00 --> 00:44:04:05] Às vezes fez alguns projetos mais de R$50, R$100, alguma coisa do tipo.
+[00:44:04:27 --> 00:44:07:24] Criar identidade visual, fazer um design mais conceituado.
+[00:44:08:03 --> 00:44:10:21] Qual ramo seguir dentro do design? Já é coisa de estudante.
+[00:44:10:22 --> 00:44:12:02] O estudante quer seguir design,
+[00:44:12:02 --> 00:44:13:01] Mas qual ramo?
+[00:44:13:05 --> 00:44:13:17] Então, está vendo?
+[00:44:13:22 --> 00:44:14:25] São várias questões.
+[00:44:15:01 --> 00:44:19:05] Aqui, inclusive, eu cometi um erro na hora de preparar isso para vocês, porque eu não
+[00:44:19:05 --> 00:44:20:03] separei, né?
+[00:44:20:25 --> 00:44:21:15] Cada um deles.
+[00:44:21:18 --> 00:44:25:08] O ideal era se eu tivesse esses dados organizados já nas categorias.
+[00:44:25:09 --> 00:44:29:01] Quais são falas de iniciantes, falas de estudantes, falas de profissionais.
+[00:44:30:13 --> 00:44:32:04] Dificuldades mais observadas.
+[00:44:32:15 --> 00:44:35:17] Então, aqui, três dificuldades que eu mais observei lendo tudo isso.
+[00:44:35:23 --> 00:44:38:26] Dificuldade com processo criativo, prospecção de cliente e precificação.
+[00:44:38:28 --> 00:44:40:21] Mas isso aqui foi a minha conclusão.
+[00:44:42:13 --> 00:44:44:26] Dores saiu da boca de outros designers.
+[00:44:45:10 --> 00:44:46:09] Por que eu estou falando isso?
+[00:44:46:24 --> 00:44:51:20] Porque eu evito ao máximo interferir na resposta,
+[00:44:52:16 --> 00:44:54:00] porque isso pode ser enviesado.
+[00:44:54:03 --> 00:44:56:28] Eu posso, às vezes, mudar uma resposta e levá-la para outro sentido.
+[00:44:57:06 --> 00:44:59:27] Então eu sempre coloco nas palavras do público.
+[00:45:00:04 --> 00:45:02:12] Não tenho dinheiro para comprar meus equipamentos e ferramentos de design.
+[00:45:02:14 --> 00:45:05:08] Não consigo cobrar o suficiente para ter uma vida realizada como designer.
+[00:45:05:18 --> 00:45:08:05] O que eu ganho com design não vai me sustentar por muito tempo.
+[00:45:08:05 --> 00:45:10:29] Sou um designer tímido e não sei vender minhas ideias.
+[00:45:11:05 --> 00:45:13:17] Então, são várias dores, vêm desejos.
+[00:45:14:09 --> 00:45:16:05] Como criar projetos de design que valem mais de 10 mil?
+[00:45:16:20 --> 00:45:18:20] Como criar um portfólio que me dê orgulho?
+[00:45:18:26 --> 00:45:21:03] Quero ter clientes de design melhores e por aí vai.
+[00:45:21:18 --> 00:45:22:01] Objeções.
+[00:45:22:12 --> 00:45:24:07] Não sei nada sobre design de marcas.
+[00:45:24:14 --> 00:45:27:12] Meus clientes não valorizam meu design.
+[00:45:28:19 --> 00:45:30:29] Não tenho os equipamentos necessários para começar.
+[00:45:31:12 --> 00:45:33:27] Sou designer, mas tenho dificuldade em lidar com as pessoas.
+[00:45:34:14 --> 00:45:36:11] Eu já faturei mais de 10 mil por mês.
+[00:45:36:20 --> 00:45:38:08] Ou seja, eu não preciso de overlens.
+[00:45:38:20 --> 00:45:41:03] Eu já sei tudo o que preciso sobre designer de marcas.
+[00:45:41:14 --> 00:45:42:15] Então são objeções também.
+[00:45:42:27 --> 00:45:44:12] Por que que deu erro aqui?
+[00:45:45:18 --> 00:45:48:00] Ah, então foi o Google que corrigiu.
+[00:45:48:14 --> 00:45:53:02] Então, são várias respostas, de novo, eu só errei porque eu deveria ter colocado no segmento certinho.
+[00:45:53:12 --> 00:45:56:20] Mas todas essas respostas ajudam a criar a persona.
+[00:45:57:01 --> 00:45:59:13] Aqui no caso, olha, eu criei uma persona de iniciante.
+[00:46:00:05 --> 00:46:03:08] Para dar de exemplo para vocês, podia ter criado uma de estudante, uma de profissional.
+[00:46:03:15 --> 00:46:06:06] Uma para cada nível, né? Mostrar para vocês a real.
+[00:46:06:09 --> 00:46:07:28] Mas isso aqui é um exemplo bom, olha só.
+[00:46:08:14 --> 00:46:09:12] Iniciante, Samuel.
+[00:46:10:00 --> 00:46:11:23] 17 anos de idade.
+[00:46:11:28 --> 00:46:13:24] Eu coloco uma idade média.
+[00:46:14:27 --> 00:46:19:01] Porque eu estou criando uma pessoa, eu não vou colocar idade entre 15...
+[00:46:19:01 --> 00:46:22:01] Quem que tem entre 15 e 35 anos? Não existe uma pessoa que...
+[00:46:22:01 --> 00:46:25:04] Quantos anos você tem? Eu tenho entre 15 e 35 anos, não existe isso.
+[00:46:25:16 --> 00:46:29:25] Você coloca a idade. 17 anos, desempregado, mora no Rio de Janeiro,
+[00:46:30:10 --> 00:46:32:12] ensino médio completo, solteiro.
+[00:46:33:01 --> 00:46:35:26] Aqui eu coloquei... Olha só a gafel aqui, né?
+[00:46:36:05 --> 00:46:38:27] Antes ia chamar Lucas, depois eu troquei para Samuel.
+[00:46:39:06 --> 00:46:42:15] Porque eu falei assim... E isso é legal, né? Eu quis mudar aqui,
+[00:46:42:15 --> 00:46:46:12] Porque eu falei, não, os Lucas vão se identificar ou não, vão falar, tá falando de mim.
+[00:46:46:22 --> 00:46:51:12] Mas o nome da persona real iniciante eu chamei de Lucas mesmo, o que mais tem em aluno não
+[00:46:51:12 --> 00:46:54:05] ver lente é Lucas, então eu coloquei.
+[00:46:54:13 --> 00:46:56:24] Mas não quer dizer que todos os Lucas são iniciantes também não.
+[00:46:57:03 --> 00:46:57:16] Enfim, né?
+[00:46:58:02 --> 00:46:58:29] Pinjam o que é Samuel.
+[00:46:59:16 --> 00:47:02:24] É um garoto que acabou de se formar no ensino médio, mora com os pais e gosta
+[00:47:02:24 --> 00:47:04:10] de jogar videogame e sair com os amigos.
+[00:47:04:15 --> 00:47:07:15] Depois do ensino médio, Lucas começou a sentir uma pressão grande para conseguir
+[00:47:07:15 --> 00:47:10:25] um emprego, mas queria encontrar um lugar que tivesse a ver com ele.
+[00:47:12:20 --> 00:47:14:07] Eu não tenho dúvida se a ver é assim.
+[00:47:14:14 --> 00:47:14:27] Acho que tem.
+[00:47:15:13 --> 00:47:18:23] Alguns meses começou a pesquisar por trabalhos home office
+[00:47:18:23 --> 00:47:22:15] e acabou encontrando alguns conteúdos na internet sobre freelance design.
+[00:47:22:25 --> 00:47:26:21] Parecia ser o tipo de trabalho que Samuel estava buscando.
+[00:47:26:24 --> 00:47:29:10] Por ser gamer e gostar do universo pop visual,
+[00:47:29:22 --> 00:47:31:02] ele se identificou muito com a área,
+[00:47:31:11 --> 00:47:33:22] mas se sente perdido e não sabe por onde começar.
+[00:47:34:00 --> 00:47:37:29] Então, uma breve descrição conectada com a marca do cliente.
+[00:47:38:01 --> 00:47:41:06] No caso, como é a Overlens, está conectado com a Overlens.
+[00:47:41:06 --> 00:47:43:17] Aqui eu coloquei alguns tópicos.
+[00:47:44:23 --> 00:47:47:01] Este aqui é divertido,
+[00:47:47:04 --> 00:47:49:15] apesar de não ser o mais importante,
+[00:47:49:17 --> 00:47:51:15] eu não acho que este é o mais importante da persona,
+[00:47:51:25 --> 00:47:55:13] mas ele ajuda você a ver a persona como uma pessoa,
+[00:47:56:00 --> 00:47:57:06] definindo a personalidade dela.
+[00:47:57:21 --> 00:48:00:13] Então, estes são alguns pontos que eu dei de exemplo aqui,
+[00:48:00:15 --> 00:48:05:15] inclusive o template do Figma que tem da persona,
+[00:48:05:28 --> 00:48:08:08] são estas aqui também, foi de lá que eu tirei,
+[00:48:08:13 --> 00:48:09:15] mas funciona super bem.
+[00:48:09:27 --> 00:48:11:20] Então, é mais introvertido ou extrovertido?
+[00:48:11:25 --> 00:48:13:27] Todas estas decisões foram propositais,
+[00:48:13:27 --> 00:48:18:01] A maioria dos designers são mais introvertidos, não são tão extrovertidos.
+[00:48:18:04 --> 00:48:18:27] Tem alguns que são?
+[00:48:18:27 --> 00:48:21:00] Tem, mas a maioria é introvertida, tá?
+[00:48:21:09 --> 00:48:24:29] A maioria é criativa, não é tão analítica, não é tão dos dados, inclusive eu odeio
+[00:48:24:29 --> 00:48:27:15] uma tabela, mas gosto muito de criatividade, criar e tal.
+[00:48:29:00 --> 00:48:33:16] No caso aqui dos iniciantes, a maioria é muito cheia de tempo, né?
+[00:48:33:24 --> 00:48:37:09] A maioria, pô, acabou de formar, está sem emprego,
+[00:48:37:15 --> 00:48:39:11] não sabe o que faz, está jogando videogame,
+[00:48:39:13 --> 00:48:40:21] assistindo muito filme, muita série.
+[00:48:40:24 --> 00:48:44:17] Esse é o caso do Samuel aqui, cheio de tempo, não é tão ocupado assim.
+[00:48:44:27 --> 00:48:46:13] Se eu mudasse isso aqui, por exemplo,
+[00:48:47:01 --> 00:48:49:27] para o segmento de clientes de profissionais, isso aqui ia mudar drasticamente.
+[00:48:51:01 --> 00:48:56:04] E lembra que aqui a gente quer representar a média do público, claro que vão ter exceções.
+[00:48:56:14 --> 00:48:59:06] Mas é mudar drasticamente daqui para cá, beleza?
+[00:49:00:12 --> 00:49:03:27] Bagunçado ou organizado, designers tendem a ser um pouco,
+[00:49:03:27 --> 00:49:06:02] e aqui nem é tanto, um pouco organizados
+[00:49:07:00 --> 00:49:11:12] por causa dessa questão de querer organizar as coisas,
+[00:49:11:13 --> 00:49:12:21] querer organizar o mundo.
+[00:49:13:11 --> 00:49:15:10] Mas, ao mesmo tempo, também podem ser bagunçados.
+[00:49:16:03 --> 00:49:18:12] É que eu levei mais para o lado de organizar as coisas,
+[00:49:18:15 --> 00:49:20:07] organizar o mundo, querer tornar o mundo melhor.
+[00:49:21:17 --> 00:49:23:29] A maioria dos designers, por incrível que pareça,
+[00:49:24:15 --> 00:49:27:11] são mais independentes, gostam de trabalhar sozinhos.
+[00:49:27:14 --> 00:49:29:21] Por isso que a gente tem que sempre ficar batendo nessa tecla
+[00:49:29:21 --> 00:49:34:14] da colaboratividade que é importante, vou ver o cliente, vou ver a equipe, mas designers,
+[00:49:34:21 --> 00:49:36:21] eu sei disso por causa da época da faculdade.
+[00:49:36:26 --> 00:49:39:06] O designer gosta de trabalhar sozinho, sentar e fazer o dele.
+[00:49:39:18 --> 00:49:41:17] É meio que uma síndrome de artista, sabe?
+[00:49:41:29 --> 00:49:44:05] Vou fazer o meu, mostrar que eu sou bom, mostrar o que eu sei fazer.
+[00:49:44:16 --> 00:49:47:26] Mas na verdade a melhor coisa que a gente pode querer é ser colaborativo, apesar
+[00:49:47:26 --> 00:49:53:00] da nossa personalidade mais introvertida querer que nós sejamos mais independentes
+[00:49:53:00 --> 00:49:54:03] do que colaborativos.
+[00:49:54:13 --> 00:49:58:06] Então aqui eu estou definindo um pouco a personalidade, isso me ajuda lá na frente
+[00:49:58:06 --> 00:50:01:08] a enxergar o Samuel, né?
+[00:50:01:17 --> 00:50:03:00] Aqui eu não coloquei também,
+[00:50:03:14 --> 00:50:05:24] mas eu poderia ter colocado uma foto aqui também
+[00:50:05:24 --> 00:50:08:17] de alguém que poderia ser parecida com o Samuel.
+[00:50:09:08 --> 00:50:11:11] E aqui a gente tem mais algumas características, por exemplo,
+[00:50:11:19 --> 00:50:13:20] interesses, sonhos, necessidades, motivações,
+[00:50:14:04 --> 00:50:15:24] dores e medos e objeções.
+[00:50:16:00 --> 00:50:18:12] Por que eu disse que essa parte eu preenchi mais ou menos, né?
+[00:50:18:12 --> 00:50:19:26] Para falar de alguns erros aqui.
+[00:50:20:09 --> 00:50:21:03] Porque, primeiro,
+[00:50:21:26 --> 00:50:23:27] isso aqui, ao mesmo tempo que pode te ajudar,
+[00:50:24:03 --> 00:50:25:17] pode ser que não sirva para nada.
+[00:50:25:17 --> 00:50:29:06] No final, a gente preenche essa ficha pra entender...
+[00:50:30:02 --> 00:50:32:11] essa pessoa fictícia que nós estamos criando.
+[00:50:32:20 --> 00:50:34:18] Mas nós precisamos fazer isso de um jeito
+[00:50:34:18 --> 00:50:37:05] que esteja associada
+[00:50:38:08 --> 00:50:40:08] à marca do cliente,
+[00:50:40:09 --> 00:50:42:02] à marca desse projeto que nós estamos fazendo.
+[00:50:42:12 --> 00:50:43:12] No caso aqui da Overlays,
+[00:50:43:15 --> 00:50:45:12] tem que estar associado com isso de alguma maneira.
+[00:50:46:14 --> 00:50:48:04] Aqui eu coloquei os iniciantes,
+[00:50:48:04 --> 00:50:49:26] o interesse do Samuel.
+[00:50:50:00 --> 00:50:51:14] Jogar videogame, assistir filme sério,
+[00:50:51:17 --> 00:50:53:14] se divertir com os amigos, encontrar um namorado,
+[00:50:53:22 --> 00:50:54:27] conquistar suas próprias coisas.
+[00:50:55:05 --> 00:50:56:29] É o que Samuel Queta com 17 anos.
+[00:50:57:07 --> 00:50:59:22] Sonhos, viajar para vários lugares, conhecer o mundo,
+[00:50:59:22 --> 00:51:02:22] se realizar profissionalmente fazendo o que gosta e encontrar alguém especial.
+[00:51:03:03 --> 00:51:07:23] Repara, essas duas coisas aqui não tem nada a ver com Overlays, inicialmente falando, tá?
+[00:51:07:23 --> 00:51:10:05] Eu posso, por exemplo, usar isso aqui a meu favor,
+[00:51:10:13 --> 00:51:12:21] entendendo o mundo dos games, por exemplo,
+[00:51:12:27 --> 00:51:17:00] e entendendo que a linguagem do mundo dos games pode ser útil para mim,
+[00:51:17:09 --> 00:51:20:14] sendo que muitos designers são geeks, são nerds e gostam desse universo?
+[00:51:20:19 --> 00:51:23:15] Posso, eu posso usar isso a meu favor, obviamente, tá?
+[00:51:23:24 --> 00:51:25:27] Mas eu poderia ser mais específico também.
+[00:51:25:27 --> 00:51:31:18] Eu poderia aqui falar sobre quais são os interesses relacionados com a overlence.
+[00:51:31:24 --> 00:51:35:25] Mesmo que ele não conheça a overlence, quais são os interesses dele com o designer?
+[00:51:36:00 --> 00:51:38:14] Poderia colocar aqui, ser específico, poderia ir além.
+[00:51:38:24 --> 00:51:41:11] Não é que está ruim, mas está incompleto, poderia ser melhor.
+[00:51:41:27 --> 00:51:43:08] A mesma coisa aqui nos sonhos.
+[00:51:43:13 --> 00:51:44:14] Viajar para vários lugares.
+[00:51:44:17 --> 00:51:45:11] Eu posso usar isso, amor?
+[00:51:45:21 --> 00:51:46:02] Posso.
+[00:51:46:05 --> 00:51:49:22] Posso falar que designer é uma profissão que você pode trabalhar de qualquer lugar
+[00:51:49:22 --> 00:51:52:04] do mundo, desde que você tenha um computador e uma conexão com a internet.
+[00:51:52:17 --> 00:51:53:12] Isso é ótimo.
+[00:51:53:16 --> 00:51:55:03] Eu vou conversar diretamente com o Samuel.
+[00:51:55:03 --> 00:51:57:05] Ele vai se interessar porque isso é um sonho dele.
+[00:51:57:24 --> 00:51:58:21] Mas isso tem a ver com design?
+[00:51:59:08 --> 00:52:01:12] Não necessariamente, poderia ser mais completo.
+[00:52:01:15 --> 00:52:02:13] Qual que é o sonho dele?
+[00:52:03:02 --> 00:52:05:20] Aqui, se realizar profissionalmente fazendo algo que gosta.
+[00:52:05:22 --> 00:52:07:22] Isso aqui já está um pouco mais relacionado.
+[00:52:08:14 --> 00:52:09:03] E por aí vai.
+[00:52:09:27 --> 00:52:13:09] Então, tem sempre como ser mais específico, isso ajuda também.
+[00:52:13:26 --> 00:52:14:09] Necessidades.
+[00:52:14:11 --> 00:52:17:18] Conseguir um trabalho criativo que dê para exercer de qualquer lugar do mundo.
+[00:52:18:02 --> 00:52:19:14] Ter tempo para fazer o que gosta.
+[00:52:19:18 --> 00:52:21:11] Ter dinheiro para comprar suas próprias coisas.
+[00:52:21:24 --> 00:52:24:11] Construir o próprio futuro, encontrar algo que goste.
+[00:52:24:11 --> 00:52:30:14] Isso aqui tudo galera, eu construí, né? Eu peguei alguns dados, mas eu construí basicamente
+[00:52:30:14 --> 00:52:35:00] da minha cabeça. E aí, por isso que é um ótimo exemplo, pra falar pra vocês tomarem
+[00:52:35:00 --> 00:52:39:17] cuidado ao fazer isso. Esse é o jeito que muita gente cria persona. Vai lá e clica
+[00:52:39:17 --> 00:52:43:15] como se estivesse fazendo um bonequinho do The Sims. Legal, pode até ser que ajude,
+[00:52:43:24 --> 00:52:48:18] mas é importante ser mais específico. Repara que aqui, inclusive, eu não tô
+[00:52:48:18 --> 00:52:53:06] colocando metade das coisas que tem aqui e também não tô colocando nada das
+[00:52:53:06 --> 00:52:59:23] coisas que tem aqui, que eu poderia explorar mais. Inclusive, eu poderia fazer essa estrutura
+[00:52:59:23 --> 00:53:05:21] envolvendo o mapa de empatia do Samuel aqui. O nome dele é Samuel Lucas. Devo definir o
+[00:53:05:21 --> 00:53:09:24] nome dele agora. Então, colocar o mapa de empatia do Samuel Lucas aqui também, para
+[00:53:09:24 --> 00:53:13:12] eu entender um pouquinho melhor. Isso tudo é útil na hora de criar a persona, tá
+[00:53:13:12 --> 00:53:17:17] bom? Mas serviu como um ótimo exemplo. Motivações, aproveitar a vida enquanto pode,
+[00:53:17:20 --> 00:53:22:02] dar uma vida boa para os pais, construir um futuro melhor. Isso aqui são motivações
+[00:53:22:02 --> 00:53:27:08] genéricas? Quais são as motivações que eu poderia colocar aqui envolvendo o design,
+[00:53:27:12 --> 00:53:34:00] por exemplo? Motivações. Trabalhar em uma área criativa, trabalhar em uma área que
+[00:53:34:00 --> 00:53:35:00] Permita ele...
+[00:53:36:07 --> 00:53:39:04] Criar as suas próprias coisas, exercer a criatividade.
+[00:53:39:08 --> 00:53:41:28] Poderia falar algumas coisas desse tipo também, né?
+[00:53:42:08 --> 00:53:46:05] Trabalhar em uma área que fosse divertida e por aí vai.
+[00:53:47:01 --> 00:53:48:02] Dores e medos.
+[00:53:48:05 --> 00:53:50:21] Ter que vender a própria liberdade por causa de dinheiro.
+[00:53:50:29 --> 00:53:52:05] Há um medo aqui do Samuel Lucas.
+[00:53:52:16 --> 00:53:54:17] Ficar perdido para sempre.
+[00:53:55:10 --> 00:53:56:16] Não está específico.
+[00:53:56:16 --> 00:53:58:01] Como é que eu poderia ser mais específico?
+[00:53:58:04 --> 00:53:59:08] Aqui eu poderia falar, por exemplo,
+[00:54:00:09 --> 00:54:04:25] ficar perdido sem saber qual direção tomar para sempre.
+[00:54:05:27 --> 00:54:10:01] Poderia ficar perdido para sempre sem saber qual direção tomar na vida.
+[00:54:10:10 --> 00:54:12:01] Isso é um pouquinho mais específico.
+[00:54:12:07 --> 00:54:16:12] Não conseguir se sustentar com o design, poderia colocar aqui,
+[00:54:16:13 --> 00:54:19:18] ou não conseguir se sustentar e depender dos pais.
+[00:54:20:16 --> 00:54:23:10] Medo de fazer a escolha errada profissionalmente falando,
+[00:54:23:14 --> 00:54:24:15] poderia colocar também.
+[00:54:25:01 --> 00:54:27:06] Objeções, não sei nada sobre design.
+[00:54:28:04 --> 00:54:30:06] Será que é para mim? Essa eu não coloquei.
+[00:54:30:14 --> 00:54:32:17] Mas poderia colocar, será que design é mesmo para mim?
+[00:54:33:02 --> 00:54:34:25] Será que design dá dinheiro mesmo?
+[00:54:34:25 --> 00:54:37:01] E se eu investir o meu tempo à toa?
+[00:54:37:12 --> 00:54:39:12] Eu não tenho os equipamentos necessários para começar?
+[00:54:39:23 --> 00:54:40:13] O que eu faço?
+[00:54:40:25 --> 00:54:42:03] São algumas objeções.
+[00:54:42:22 --> 00:54:45:01] Então, eu fiz isso aqui para criar o exemplo para vocês.
+[00:54:46:15 --> 00:54:48:11] abordar alguns tópicos importantes,
+[00:54:48:26 --> 00:54:51:06] como no caso de ser específico.
+[00:54:51:14 --> 00:54:52:20] E lembra também de uma coisa,
+[00:54:52:26 --> 00:54:55:12] você pode sempre atualizar a persona.
+[00:54:55:27 --> 00:54:57:18] Você pode começar a fazer ela agora,
+[00:54:57:26 --> 00:55:00:12] e, após que você tem mais informações, você pode atualizar ela.
+[00:55:00:24 --> 00:55:03:16] Quando você trabalha com uma marca por muito tempo,
+[00:55:04:12 --> 00:55:06:17] vai fazer a gestão dessa marca, o branding dela,
+[00:55:06:26 --> 00:55:08:09] é mais fácil que isso aconteça.
+[00:55:08:17 --> 00:55:11:17] Que quanto mais pesquisa você faz, mais a sua persona atualiza.
+[00:55:11:21 --> 00:55:13:01] Ela tem que acompanhar a marca.
+[00:55:13:27 --> 00:55:15:23] Agora, quando você faz design de identidade marca,
+[00:55:15:26 --> 00:55:17:07] que é um projeto de início, meio e fim,
+[00:55:17:15 --> 00:55:18:29] pode ser que você não venha atualizar.
+[00:55:19:06 --> 00:55:20:15] Então, faça bem feito,
+[00:55:20:23 --> 00:55:23:19] porque isso aqui é uma ferramenta que vai te ajudar lá na frente.
+[00:55:24:00 --> 00:55:24:15] Tá bom?
+[00:55:24:23 --> 00:55:26:15] Então, essa é a ferramenta da persona.
+[00:55:26:24 --> 00:55:28:27] Espero que você tenha curtido essa aula,
+[00:55:28:29 --> 00:55:30:06] espero que você tenha entendido.
+[00:55:30:12 --> 00:55:33:20] Nós ainda vamos falar sobre persona quando falarmos de brand persona.
+[00:55:34:05 --> 00:55:35:26] E se prepara, porque a aula de brand persona
+[00:55:35:26 --> 00:55:38:18] vai ser ainda mais profunda do que essa.
+[00:55:38:25 --> 00:55:41:00] A gente ainda vai falar de personificação,
+[00:55:42:12 --> 00:55:43:09] estereótipo, arquétipo...
+[00:55:43:09 --> 00:55:46:05] a gente vai falar sobre mitologia, vai ser muito massa, tá?
+[00:55:46:05 --> 00:55:48:15] Daqui a pouco está aí para frente essa aula
+[00:55:48:15 --> 00:55:50:24] e a gente continua a falar sobre esse assunto, fechou?
+[00:55:51:03 --> 00:55:53:22] Então, eu te vejo agora na nossa próxima aula
+[00:55:53:22 --> 00:55:55:21] dentro do módulo de estratégia.

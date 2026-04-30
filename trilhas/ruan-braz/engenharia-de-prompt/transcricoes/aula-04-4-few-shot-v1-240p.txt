@@ -1,0 +1,102 @@
+# Video: 4._few-shot_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 08:39
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:08 --> 00:00:02:25] O FieldShot você já dá para ele algum contexto.
+[00:00:03:03 --> 00:00:07:00] Eu poderia pegar aqui mesmo, olha, o próprio exemplo de Design Thinking,
+[00:00:07:05 --> 00:00:09:27] me explique as melhores abordagens de Design Thinking do mundo.
+[00:00:10:00 --> 00:00:12:20] Eu poderia vir aqui nele e falar assim, ó, do mundo.
+[00:00:13:00 --> 00:00:21:17] Estou estudando sobre este assunto e quero que você gere um sumário para mim.
+[00:00:22:02 --> 00:00:27:06] Agora eu dei contexto para ele, especifiquei mais o que eu quero, para onde eu estou indo,
+[00:00:27:06 --> 00:00:34:23] E isso aqui já melhora consideravelmente a especificidade da resposta do modelo para você.
+[00:00:35:08 --> 00:00:39:05] Então, aqui eu estou dando um contexto menor, mas eu poderia até falar mais.
+[00:00:39:07 --> 00:00:41:22] Às vezes eu abro o microfone e começo a falar.
+[00:00:41:23 --> 00:00:43:05] Eu poderia falar assim com ele.
+[00:00:44:14 --> 00:00:45:17] Começar desse jeito aqui.
+[00:00:45:19 --> 00:00:50:17] Estou estudando sobre design thinking.
+[00:00:54:10 --> 00:00:57:20] Estou estudando sobre design thinking e quero...
+[00:01:00:11 --> 00:01:03:02] Aprender mais sobre esta abordagem.
+[00:01:03:24 --> 00:01:05:19] Mas eu quero ir mais fundo.
+[00:01:06:20 --> 00:01:11:28] Quero encontrar o conteúdo do básico ao avançado.
+[00:01:12:01 --> 00:01:16:04] Não quero me limitar ao superficial.
+[00:01:16:04 --> 00:01:31:05] Gere um sumário para mim, levando em consideração conteúdos, autores, referências bibliográficas, artigos.
+[00:01:32:26 --> 00:01:36:10] que possam ser úteis para o meu estudo.
+[00:01:36:11 --> 00:01:38:15] E eu vou fazer um diferente aqui agora com vocês, olha.
+[00:01:38:17 --> 00:01:40:03] Eu vou abrir um outro GPT.
+[00:01:41:23 --> 00:01:43:05] E aqui eu só vou falar com ele assim, ó.
+[00:01:44:13 --> 00:01:46:19] Estou estudando sobre design V e quero aprender mais sobre essa abordagem.
+[00:01:46:21 --> 00:01:47:27] Isso aqui é um zero shot.
+[00:01:48:07 --> 00:01:50:15] E esse aqui é um few shot.
+[00:01:51:00 --> 00:01:53:15] Few shot significa alguns tiros.
+[00:01:53:15 --> 00:01:56:12] Ou seja, eu dei algumas informações a mais para ele.
+[00:01:56:13 --> 00:01:57:11] Aqui ele usou isso.
+[00:01:57:15 --> 00:02:02:13] Vez ou outra o chat GPT faz isso porque ele quer a minha avaliação de qual resposta é melhor.
+[00:02:02:16 --> 00:02:03:19] Ele está fazendo aqui um markdown.
+[00:02:05:03 --> 00:02:07:03] Mas a gente tem aqui os cinco estágios do design thinking,
+[00:02:07:13 --> 00:02:09:04] por que o design thinking é poderoso.
+[00:02:09:12 --> 00:02:11:12] Vai trazer aqui, enquanto isso, de cá.
+[00:02:11:20 --> 00:02:15:20] Já vem introdução ao design thinking, o que é, origem, leituras recomendadas.
+[00:02:15:21 --> 00:02:17:03] Já me trouxe leitura recomendada.
+[00:02:17:04 --> 00:02:18:02] Esse aqui não trouxe.
+[00:02:18:07 --> 00:02:19:08] Olha a resposta desse.
+[00:02:20:00 --> 00:02:23:06] Por que é poderoso, legal, beleza, mas bem mais raso.
+[00:02:23:06 --> 00:02:23:29] Olha aqui, enquanto isso.
+[00:02:25:12 --> 00:02:39:27] Princípios e fundamentos, comparação com outras abordagens, pensamento crítico, leituras recomendadas, processo, modelo de processo, já colocou algumas abordagens aqui para você, ferramentas e métodos para você estudar, leituras recomendadas, fundamentos...
+[00:02:39:27 --> 00:02:47:29] Ele criou um sumário mesmo, igual a gente pediu, eu já especifiquei mais, e olha como é uma resposta muito mais completa do que o FieldShot.
+[00:02:47:29 --> 00:03:05:19] Então, isso aqui é o básico, isso aqui, quem já está usando o ChatGPT por um tempo já sabe que isso faz diferença, mas eu estou passando aqui desde o básico para vocês entenderem e já perceberem a diferença que faz de dar um pouquinho mais de contexto e aqui só fazer uma solicitação para ele.
+[00:03:05:19 --> 00:03:16:20] É importante eu falar que esses modelos mais avançados, eu vou dar um exemplo aqui para vocês com a pesquisa, o Deep Research, se investigar aqui, eles já estão em um nível bem mais avançado.
+[00:03:17:27 --> 00:03:21:00] e às vezes com zero shots, ou seja, se eu falar aqui,
+[00:03:21:02 --> 00:03:23:24] estou estudando sobre o design thinking e quero aprender mais sobre essa abordagem.
+[00:03:23:25 --> 00:03:26:20] Olha só, eu vou gastar um dos meus créditos aqui.
+[00:03:26:26 --> 00:03:27:27] Isso só tem no.
+[00:03:29:22 --> 00:03:32:19] No pago, que é o investigar.
+[00:03:32:25 --> 00:03:34:08] Eu tenho três créditos ali.
+[00:03:34:10 --> 00:03:35:19] Depois eu só vou ter dia 15 de abril.
+[00:03:35:21 --> 00:03:37:03] Provavelmente eu vou ter que assinar de novo.
+[00:03:37:18 --> 00:03:39:12] Eu tenho outra conta aqui que eu assino ela.
+[00:03:39:19 --> 00:03:41:01] Porque meus créditos vão acabar.
+[00:03:41:08 --> 00:03:42:22] Mas eu vou fazer um teste aqui com vocês.
+[00:03:43:26 --> 00:03:44:27] Pela academia, né?
+[00:03:44:28 --> 00:03:46:01] Pelos testes e estudos.
+[00:03:46:02 --> 00:03:46:21] Só para vocês verem.
+[00:03:46:24 --> 00:03:49:00] Eu vou colocar o mesmo aqui.
+[00:03:49:15 --> 00:03:50:10] Mesmo zero shot.
+[00:03:50:19 --> 00:03:52:18] Só que agora usando uma tecnologia diferente.
+[00:03:53:10 --> 00:03:54:21] Então ele já falou ótimo.
+[00:03:54:21 --> 00:03:55:28] É uma abordagem muito útil.
+[00:03:56:06 --> 00:03:57:16] E ele já está me dando um índice.
+[00:03:57:22 --> 00:03:58:23] Ele está me perguntando aqui.
+[00:03:58:23 --> 00:04:00:22] aqui ó, você poderia especificar
+[00:04:00:22 --> 00:04:02:20] mais quais aspectos desejar
+[00:04:02:20 --> 00:04:04:19] ele explorar, ou seja, ele já não me
+[00:04:04:19 --> 00:04:06:27] deixou fazer um zero shot, ele já tá me pedindo
+[00:04:06:27 --> 00:04:08:19] fill shot, ele já tá me pedindo
+[00:04:09:01 --> 00:04:10:20] contextos, mas olha o que eu vou fazer, não
+[00:04:11:19 --> 00:04:12:06] navegue por mim
+[00:04:14:15 --> 00:04:15:23] Não vou dar nada, nenhuma referência.
+[00:04:15:23 --> 00:04:17:03] Eu estou negando o que ele me pediu.
+[00:04:17:04 --> 00:04:19:21] Ele já está me explicando o que seria bom eu fazer.
+[00:04:20:21 --> 00:04:22:17] Mas eu vou deixar ele navegar por mim.
+[00:04:22:27 --> 00:04:24:18] E ele vai ficar fazendo a pesquisa aqui.
+[00:04:24:20 --> 00:04:26:00] Essa pesquisa vai demorar um pouquinho.
+[00:04:26:25 --> 00:04:30:17] Ele vai aparecer um botão aqui para eu ver o raciocínio dele.
+[00:04:30:20 --> 00:04:31:06] É bem legal.
+[00:04:31:20 --> 00:04:33:17] Mais alguns segundos e ele já deve aparecer aqui.
+[00:04:34:12 --> 00:04:37:02] E aí, isso aqui já é um modelo mais avançado.
+[00:04:37:03 --> 00:04:42:27] Isso significa que modelos mais avançados, com menos informações, vão te trazer exatamente o que você quer.
+[00:04:42:27 --> 00:04:45:17] Ou seja, eles vão ficar muito bons em te entregar o que você precisa.
+[00:04:45:25 --> 00:04:52:10] Já modelos mais antigos, se eu usasse aqui um 3.5 ou fosse para um Mistral, fosse para um...
+[00:04:54:02 --> 00:04:56:21] Vou pegar um básico aqui, um Cloud Opus.
+[00:04:57:14 --> 00:05:01:24] Talvez eles não me entregariam essa investigação, até porque o Cloud nem navega na internet, né?
+[00:05:05:02 --> 00:05:09:14] Aí aqui ele está pesquisando, vai demorar um pouquinho para ele estar pensando, tá vendo?
+[00:05:09:17 --> 00:05:10:20] Então eu vou deixar ele pensando aqui.
+[00:05:10:23 --> 00:05:14:27] Às vezes ele aparece o botão aqui para detalhes, se eu consigo ver o raciocínio dele.
+[00:05:15:09 --> 00:05:16:29] Outras vezes eu não consigo ver o raciocínio.
+[00:05:17:03 --> 00:05:20:17] E aí ele vai me trazer fontes e atividades aqui, daqui a pouco a gente volta.
+[00:05:21:03 --> 00:05:22:15] Enquanto isso, vamos seguir o raciocínio.
+[00:05:22:17 --> 00:05:29:24] Então esse aqui é o, vou preferir essa, esse aqui é o fill shot, alguns tirinhos,
+[00:05:29:24 --> 00:05:36:14] algumas informações que você pode adicionar nele para que ele traga mais informações para você.

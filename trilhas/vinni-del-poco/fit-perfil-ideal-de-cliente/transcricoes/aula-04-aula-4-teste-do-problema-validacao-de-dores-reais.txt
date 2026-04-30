@@ -1,0 +1,289 @@
+# Video: Aula 4 _ Teste do Problema - Validação de Dores Reais.mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-27 18:11
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:03 --> 00:00:02:16] A gente definiu, certo? O perfil ideal de cliente.
+[00:00:02:27 --> 00:00:06:11] Vocês começaram a preencher a ficha.
+[00:00:06:21 --> 00:00:13:27] Tem alguns exemplos aqui, mas agora é a parte talvez tão importante quanto você preencher e fazer essas...
+[00:00:16:17 --> 00:00:20:26] Colocar essas informações do seu histórico, das pesquisas que você fez, é validar.
+[00:00:21:05 --> 00:00:24:06] Então, depois que você preencher, que é a grande hipótese que você criou,
+[00:00:24:14 --> 00:00:26:20] tem esse documento de validação.
+[00:00:26:24 --> 00:00:31:06] E ele tem duas etapas, tem o teste do problema e o teste da oferta.
+[00:00:31:07 --> 00:00:34:10] A oferta a gente vai ver na próxima aula, no próximo módulo, na próxima aula,
+[00:00:34:13 --> 00:00:36:08] mas eu quero focar muito no teste do problema,
+[00:00:36:12 --> 00:00:41:03] que é para investigar agora se esse problema que você quer resolver,
+[00:00:41:06 --> 00:00:44:07] ele realmente existe, se ele importa de verdade, se ele é mal resolvido,
+[00:00:44:09 --> 00:00:46:00] sem induzir a resposta.
+[00:00:46:00 --> 00:01:09:06] Então, é uma coisa que muita gente que faz essa parte de pesquisa de mercado faz errado, ou a gente terceiriza isso para outra pessoa, para outra agência, para outros negócios fazem muito isso e tem que fazer do jeito certo, tem que evitar alguns erros comuns e eu criei aqui um roteiro prático e um checklist de validação para vocês fazerem isso da forma correta.
+[00:01:09:06 --> 00:01:10:15] então pra começar
+[00:01:10:15 --> 00:01:13:11] você escolhe 3 a 5 pessoas da sua rede
+[00:01:13:11 --> 00:01:15:02] que podem se parecer
+[00:01:15:02 --> 00:01:17:05] com o seu cliente ideal e logo logo
+[00:01:17:05 --> 00:01:18:21] eu vou falar aqui de como encontrá-las também
+[00:01:18:21 --> 00:01:21:08] marque uma conversa, pode ser de 20 a
+[00:01:21:08 --> 00:01:23:12] 60 minutos, depende de quanto tempo
+[00:01:23:12 --> 00:01:25:06] a pessoa tem disponível, você não quer tomar
+[00:01:25:06 --> 00:01:27:04] muito tempo dela, mas vou te dizer
+[00:01:27:04 --> 00:01:28:27] que muitas vezes nessa validação já aconteceu
+[00:01:28:27 --> 00:01:31:11] de ficar duas horas conversando, aconteceu recentemente
+[00:01:31:11 --> 00:01:32:09] até que eu tava validando
+[00:01:32:09 --> 00:01:35:03] um mercado de engenharia
+[00:01:35:03 --> 00:01:37:07] e o cara
+[00:01:37:07 --> 00:01:39:15] Cara, você abriu, você mostrou o processo, mostrou um monte de coisa,
+[00:01:39:17 --> 00:01:41:12] falou das dores, foi bem emocional.
+[00:01:41:20 --> 00:01:45:27] Então, quando você vê que a pessoa fica emocional de algum jeito,
+[00:01:45:27 --> 00:01:48:02] é porque você chegou numa dor importante de resolver.
+[00:01:49:08 --> 00:01:53:24] E a ideia é usar esse roteiro sem pular etapas e sem tentar vender nada.
+[00:01:54:02 --> 00:01:55:09] A ideia é que...
+[00:01:56:24 --> 00:01:58:25] não é fazer anúncio, não é vender,
+[00:01:58:28 --> 00:02:00:24] não é validar, né? Então,
+[00:02:00:24 --> 00:02:02:24] preencher esses critérios de validação. Então, o que
+[00:02:02:24 --> 00:02:04:24] que é pra você evitar? É um viés
+[00:02:04:24 --> 00:02:06:20] de confirmação. Então, nunca
+[00:02:06:20 --> 00:02:08:20] pergunta, você compraria isso? Nunca fale
+[00:02:08:20 --> 00:02:10:27] do futuro, inclusive. Fale sempre do passado,
+[00:02:10:27 --> 00:02:12:21] de coisas, de experiências
+[00:02:12:21 --> 00:02:14:00] que as pessoas já passaram, né?
+[00:02:14:12 --> 00:02:16:12] Não apresenta a sua ideia durante a conversa,
+[00:02:16:13 --> 00:02:18:18] não fica explicando o que que a pessoa
+[00:02:18:18 --> 00:02:20:18] deveria sentir tentando pescar ali
+[00:02:20:18 --> 00:02:22:20] uma dor que você investigou, uma dor que você
+[00:02:22:20 --> 00:02:24:08] tem uma suposição, né?
+[00:02:24:08 --> 00:02:26:09] não preencha também as respostas
+[00:02:26:09 --> 00:02:28:11] pra essa pessoa, né? Ah, é tipo quando acontece
+[00:02:28:11 --> 00:02:30:03] X ou quando acontece Y, sabe?
+[00:02:30:16 --> 00:02:32:03] Não pula pra solução logo
+[00:02:32:03 --> 00:02:34:06] depois de ouvir uma dor, isso a gente faz muito, então
+[00:02:34:06 --> 00:02:36:03] a pessoa fala, ah, tô com dificuldade
+[00:02:36:03 --> 00:02:38:09] em comunicar com o meu
+[00:02:38:09 --> 00:02:39:28] público-alvo, daí você fala, ah, é porque falta
+[00:02:39:28 --> 00:02:42:02] branding, é porque falta consistência, sabe? A gente quer
+[00:02:42:02 --> 00:02:44:03] preencher essas lacunas. Ouve,
+[00:02:44:21 --> 00:02:46:03] faz perguntas de follow-up, faz
+[00:02:46:03 --> 00:02:48:03] perguntas pra investigar ainda mais essas
+[00:02:48:03 --> 00:02:50:04] dores e tenta conduzir essa
+[00:02:50:04 --> 00:02:52:00] conversa tentando
+[00:02:52:00 --> 00:02:54:03] confirmar suas hipóteses, mas sem
+[00:02:54:03 --> 00:02:57:21] sem confirmar os vieses, sem ficar preenchendo esses espaços.
+[00:02:58:10 --> 00:03:01:08] E aqui, como conduzir sem os vieses, é o que eu falei,
+[00:03:01:09 --> 00:03:02:28] a primeira coisa que eu acho que é uma das mais importantes,
+[00:03:03:04 --> 00:03:05:12] a gente sempre fica falando de preferências futuras.
+[00:03:05:27 --> 00:03:08:19] E quando a gente pensa na gente no futuro,
+[00:03:08:27 --> 00:03:11:14] nós somos sempre super-heróis que podemos lidar com tudo,
+[00:03:11:18 --> 00:03:13:18] somos sempre pessoas que resolvem tudo.
+[00:03:13:27 --> 00:03:17:05] E tem até uma filosofia de vida que eu tenho,
+[00:03:17:07 --> 00:03:19:05] que eu sempre penso que o vinho do futuro é burro,
+[00:03:19:06 --> 00:03:20:27] então eu tento fazer tudo certinho hoje,
+[00:03:21:00 --> 00:03:23:06] para o vinho do futuro não se ferrar mais para frente.
+[00:03:23:06 --> 00:03:25:14] e quando você vai fazer essa confirmação
+[00:03:25:14 --> 00:03:27:05] com clientes
+[00:03:27:05 --> 00:03:28:27] com possíveis clientes
+[00:03:28:27 --> 00:03:30:14] e você ficar falando do futuro
+[00:03:30:14 --> 00:03:32:12] você compraria isso? Se tivesse um problema
+[00:03:32:12 --> 00:03:35:07] um serviço assim, você faria? Você compraria isso?
+[00:03:35:27 --> 00:03:37:10] Ele sempre vai falar que sim
+[00:03:38:16 --> 00:03:42:14] Às vezes por essa questão de a gente superestimar a pessoa do futuro.
+[00:03:42:24 --> 00:03:48:16] E às vezes também porque ele simplesmente não quer te fazer ficar chateado, sabe?
+[00:03:48:18 --> 00:03:49:18] Ele não quer te chatear.
+[00:03:49:27 --> 00:03:57:03] Às vezes a gente vai num restaurante e, sei lá, come um prato lá que é super sem sal, super sem graça.
+[00:03:57:09 --> 00:03:59:03] Aí vem o garçom depois, aí, você gostou?
+[00:03:59:12 --> 00:04:01:03] Ah, não, sim, excelente, muito bom.
+[00:04:01:06 --> 00:04:02:12] Você não vai falar que você não gostou.
+[00:04:02:14 --> 00:04:04:15] Porque a gente não quer estragar o dia da pessoa, sabe?
+[00:04:04:15 --> 00:04:10:04] Então é a mesma coisa aqui, quando a gente começa a falar das suas soluções,
+[00:04:10:04 --> 00:04:13:24] a pessoa não vai querer te magoar, ela vai falar, não, legal, compraria, com certeza.
+[00:04:14:07 --> 00:04:17:15] Então fala de experiências passadas, o que ela já fez e não funcionou,
+[00:04:17:28 --> 00:04:21:14] explore com curiosidade mesmo, escute o que a pessoa está falando,
+[00:04:21:20 --> 00:04:25:07] faça perguntas para você investigar isso, aprofundar cada vez mais,
+[00:04:25:12 --> 00:04:29:04] faça perguntas mais abertas, é legal ter perguntas específicas,
+[00:04:29:04 --> 00:04:33:03] mas no começo, deixa a pessoa nomear o problema, deixa ela usar as palavras dela.
+[00:04:33:03 --> 00:04:37:21] E o que é legal, essas palavras dela muitas vezes vai virar oferta depois.
+[00:04:38:01 --> 00:04:41:26] Quando você vai conversar com as pessoas, a gente tem termos muito específicos
+[00:04:41:26 --> 00:04:43:21] que a gente vai usar dentro do nosso negócio,
+[00:04:43:22 --> 00:04:46:10] que só as outras pessoas do nosso segmento sabem falar disso.
+[00:04:46:15 --> 00:04:48:00] E o cliente lhe dá um outro nome.
+[00:04:48:07 --> 00:04:52:12] Então, presta bastante atenção, anota as frases que essas pessoas estão falando,
+[00:04:52:15 --> 00:04:55:05] anota as palavras, os termos que elas estão utilizando,
+[00:04:55:09 --> 00:04:57:12] porque isso aí tem que entrar depois no seu dicionário,
+[00:04:57:13 --> 00:05:00:10] depois a sua mensagem de venda, a sua oferta,
+[00:05:00:12 --> 00:05:02:17] e até a forma que você conduz a reunião depois,
+[00:05:03:03 --> 00:05:07:20] Você vai tirar muito daqui, da forma que o seu cliente ideal nomeia o problema.
+[00:05:08:02 --> 00:05:11:16] E provoque com profundidade, que quando eu falei de perguntas abertas, é isso aqui.
+[00:05:11:17 --> 00:05:14:05] Como que foi isso? O que você sentiu? E o que você fez?
+[00:05:14:19 --> 00:05:18:00] Então, aqui tem um roteiro, eu vou ler ele rapidamente aqui,
+[00:05:18:03 --> 00:05:19:24] depois é interessante vocês estudarem isso.
+[00:05:19:28 --> 00:05:21:15] E dá até para vocês fazerem assim,
+[00:05:22:04 --> 00:05:26:15] depois que vocês tiverem o perfil ideal de cliente de vocês,
+[00:05:26:20 --> 00:05:31:00] vocês podem até pegar com a IA, anexa e falar,
+[00:05:31:00 --> 00:05:33:28] Fala, eu estou criando um roteiro para validação.
+[00:05:34:22 --> 00:05:36:25] Cria perguntas para mim para eu validar essas hipóteses.
+[00:05:37:02 --> 00:05:38:16] Então, ali pode ser mais específico.
+[00:05:38:22 --> 00:05:40:14] Aqui, dá para você usar até como base,
+[00:05:40:27 --> 00:05:42:15] porque é alguma coisa um pouco mais genérica.
+[00:05:43:28 --> 00:05:49:05] A abertura, você fala, estou investigando alguns desafios do seu mercado específico,
+[00:05:49:05 --> 00:05:51:23] eu queria ter essa visão sobre isso, não é uma venda,
+[00:05:51:24 --> 00:05:52:28] eu só quero aprender com a sua experiência.
+[00:05:53:13 --> 00:05:55:15] E o contexto, como é o seu trabalho hoje,
+[00:05:55:21 --> 00:05:58:04] com que tipo de cliente e projeto você mais lida,
+[00:05:58:07 --> 00:05:59:25] o que tem funcionado bem ultimamente.
+[00:06:00:05 --> 00:06:03:01] Depois você explora as dores, mais uma vez, sem induzir,
+[00:06:03:03 --> 00:06:05:10] tem algo que te incomoda ou te trava no momento,
+[00:06:05:23 --> 00:06:08:01] pode ser em qualquer área do seu trabalho, clientes,
+[00:06:08:01 --> 00:06:09:29] venda, posicionamento, fluxo de projetos.
+[00:06:10:02 --> 00:06:13:18] Aqui você comenta os mercados, os setores, as áreas,
+[00:06:13:28 --> 00:06:16:06] que o seu serviço
+[00:06:16:06 --> 00:06:18:12] que está relacionado
+[00:06:18:12 --> 00:06:19:10] com a dor que você quer resolver
+[00:06:19:10 --> 00:06:21:15] e aí você tem que entender quando que isso acontece
+[00:06:21:15 --> 00:06:23:05] o que você costuma fazer
+[00:06:23:05 --> 00:06:25:24] se já tentou resolver isso de alguma forma, como que foi
+[00:06:25:24 --> 00:06:28:21] se teve algum gasto, tempo, dinheiro e esforço
+[00:06:28:21 --> 00:06:29:29] isso aqui é muito importante
+[00:06:29:29 --> 00:06:31:22] muitas pessoas vão dar valor
+[00:06:31:22 --> 00:06:33:15] para o serviço que você faz
+[00:06:33:15 --> 00:06:35:21] quando elas investem algum desses três aqui
+[00:06:35:21 --> 00:06:37:05] tempo, dinheiro ou esforço
+[00:06:37:05 --> 00:06:38:04] para tentar resolver
+[00:06:38:23 --> 00:06:41:02] se funcionou, se não funcionou, o que te frustrou
+[00:06:41:02 --> 00:06:42:05] o que poderia ter sido melhor
+[00:06:42:05 --> 00:06:44:03] melhor, né? E também uma coisa que
+[00:06:44:03 --> 00:06:45:20] é interessante, não tenta perguntar
+[00:06:45:20 --> 00:06:48:11] ah, qual seria o produto perfeito?
+[00:06:48:12 --> 00:06:49:29] Qual seria o serviço perfeito
+[00:06:49:29 --> 00:06:51:02] pra resolver essa dor?
+[00:06:51:22 --> 00:06:54:03] O trabalho de criar o serviço perfeito
+[00:06:54:03 --> 00:06:55:29] é seu. O produto perfeito, a solução,
+[00:06:55:29 --> 00:06:57:17] você que tem que criar, não o cliente.
+[00:06:57:18 --> 00:07:00:00] Mas o cliente vai entender das dores, das dores mais
+[00:07:00:13 --> 00:07:01:24] específicas. E muitas vezes,
+[00:07:01:28 --> 00:07:03:27] uma coisa que eu aprendi, quando você fala
+[00:07:03:27 --> 00:07:06:03] pra pessoa, a pessoa que tá trazendo a crítica,
+[00:07:06:03 --> 00:07:07:28] a dor, o problema, não é a melhor
+[00:07:07:28 --> 00:07:09:27] pessoa pra criar a solução. Às vezes ela vai criar
+[00:07:09:27 --> 00:07:11:16] uma solução perfeita pra ela, mas que
+[00:07:11:16 --> 00:07:13:03] que talvez não vai funcionar para as outras pessoas.
+[00:07:13:13 --> 00:07:15:16] Então, por isso que é bom você ouvir mais pessoas,
+[00:07:15:23 --> 00:07:17:21] entender essas dores, entender esses problemas,
+[00:07:17:27 --> 00:07:19:17] e você que tem que criar a solução.
+[00:07:19:22 --> 00:07:21:07] Você pode até pegar ideias com ela,
+[00:07:21:08 --> 00:07:24:19] mas não foca 100% na forma de resolver essas dores.
+[00:07:24:20 --> 00:07:26:03] Foque principalmente nos problemas
+[00:07:26:03 --> 00:07:28:24] e nas necessidades específicas que ela está falando, né?
+[00:07:28:29 --> 00:07:30:03] Durante essa conversa.
+[00:07:30:15 --> 00:07:31:21] As sinais de urgência aqui,
+[00:07:31:23 --> 00:07:34:05] daí tem se isso sumisse da sua vida hoje, o que mudaria?
+[00:07:34:16 --> 00:07:36:06] Você já deixou de aceitar oportunidades
+[00:07:36:06 --> 00:07:37:15] ou perdeu dinheiro por causa disso?
+[00:07:37:21 --> 00:07:39:12] Aqui tem muito a ver com o Spin Selling também,
+[00:07:39:15 --> 00:07:41:09] que a gente vai falar um pouquinho mais nas próximas aulas.
+[00:07:41:16 --> 00:07:43:20] o que te impede de resolver isso de vez
+[00:07:43:20 --> 00:07:45:23] e depois você pode já ir para um fechamento
+[00:07:46:17 --> 00:07:47:27] sem oferecer a solução
+[00:07:47:27 --> 00:07:49:20] você vai ficar morrendo de vontade
+[00:07:49:20 --> 00:07:51:23] de falar eu tenho a solução ideal, eu sei o que você
+[00:07:51:23 --> 00:07:53:04] precisa, não faça isso agora
+[00:07:53:04 --> 00:07:55:11] você depois da conversa você pode até
+[00:07:55:28 --> 00:07:57:19] analisar com calma e falar
+[00:07:57:19 --> 00:07:59:10] olha eu estou fazendo uma solução X
+[00:07:59:28 --> 00:08:01:17] se você quiser a gente pode conversar disso
+[00:08:01:17 --> 00:08:02:27] outro dia ou depois
+[00:08:02:27 --> 00:08:05:18] se você tiver interesse, mas não tenta
+[00:08:05:18 --> 00:08:06:06] já colocar
+[00:08:07:05 --> 00:08:09:18] já ter esse viés de confirmação mesmo, de querer
+[00:08:09:18 --> 00:08:11:06] vender, transformar isso em uma venda
+[00:08:11:06 --> 00:08:13:11] o legal é que muitas dessas conversas
+[00:08:13:11 --> 00:08:15:09] podem se tornar vendas sim no futuro
+[00:08:15:09 --> 00:08:17:12] mas deixe para fazer isso depois, então você já
+[00:08:17:12 --> 00:08:19:01] agradece, obrigado por compartilhar
+[00:08:19:01 --> 00:08:21:18] eu estou conversando com algumas pessoas para mapear se isso é comum
+[00:08:21:18 --> 00:08:23:14] ou não, posso te contar depois
+[00:08:23:14 --> 00:08:25:07] o que eu encontrar, então você já cria
+[00:08:25:07 --> 00:08:27:12] isso já vira praticamente uma conversa de
+[00:08:27:12 --> 00:08:29:09] entrada, já vira um
+[00:08:29:09 --> 00:08:31:11] diagnóstico que depois você
+[00:08:31:28 --> 00:08:33:10] ofereceu o seu tempo, você não cobrou nada
+[00:08:33:10 --> 00:08:35:14] do cliente, você só ouviu ele e tenho
+[00:08:35:14 --> 00:08:37:17] certeza que muitas pessoas no seu segmento
+[00:08:37:17 --> 00:08:39:18] na sua área, nos seus concorrentes não estão fazendo isso
+[00:08:39:18 --> 00:08:44:00] Então, querendo ou não, já é uma entrada para um cliente potencial aqui.
+[00:08:44:15 --> 00:08:50:00] Se você fez a sua análise bem assim, e se você percebeu aqui que você está validando,
+[00:08:50:03 --> 00:08:51:21] você já pode fazer essa conversa.
+[00:08:51:22 --> 00:08:56:22] Se as dores deles foram completamente diferentes do que você colocou ali no perfil ideal de cliente,
+[00:08:56:22 --> 00:09:01:00] aí talvez seja a hora de voltar para o rascunho ali e validar isso aí de novo.
+[00:09:01:16 --> 00:09:03:29] E aqui tem um checklist para saber.
+[00:09:04:02 --> 00:09:07:06] A pessoa falou do problema espontaneamente, sem você induzir.
+[00:09:07:06 --> 00:09:09:23] ela já tentou resolver de algum jeito
+[00:09:09:23 --> 00:09:11:00] com tempo, esforço e dinheiro
+[00:09:11:00 --> 00:09:14:02] a linguagem usada foi emocional, específica e concreta
+[00:09:14:02 --> 00:09:15:21] ela demonstrou frustração
+[00:09:15:21 --> 00:09:16:28] com as soluções atuais
+[00:09:16:28 --> 00:09:19:12] a dor foi percebida como urgente
+[00:09:19:12 --> 00:09:21:02] ou teve impacto real na rotina dela
+[00:09:21:02 --> 00:09:23:26] ele disse que toparia ajuda sem você oferecer
+[00:09:23:26 --> 00:09:25:24] então aqui é uma
+[00:09:25:24 --> 00:09:27:21] ideia de validar com mais
+[00:09:27:21 --> 00:09:28:29] pessoas, 3 a 5 pessoas
+[00:09:28:29 --> 00:09:31:18] e se você marcar mais, 4 ou mais
+[00:09:31:18 --> 00:09:33:15] desses aqui, está basicamente
+[00:09:33:15 --> 00:09:34:16] dizer que você está
+[00:09:35:16 --> 00:09:36:26] diante de uma dor real
+[00:09:36:26 --> 00:09:39:20] e validada, né, mas lógico
+[00:09:39:20 --> 00:09:41:02] 3 a 5 pessoas é muito
+[00:09:41:02 --> 00:09:43:06] pequeno, é legal você pensar
+[00:09:43:06 --> 00:09:45:09] mais, né, mais pra frente, continuar
+[00:09:45:09 --> 00:09:47:12] validando isso conforme, como eu falei
+[00:09:47:12 --> 00:09:49:05] essa ficha aqui, né, o
+[00:09:49:05 --> 00:09:51:09] perfil ideal de cliente ele vai evoluindo
+[00:09:51:09 --> 00:09:53:14] sempre, mas se você tem 3 ou 4
+[00:09:53:14 --> 00:09:55:05] ou 5, já tem algo
+[00:09:55:05 --> 00:09:57:06] que dá pra levar pro mercado e começar a testar
+[00:09:57:06 --> 00:09:59:03] se as pessoas vão comprar, antes disso
+[00:09:59:03 --> 00:10:00:15] é bom você conversar com mais pessoas
+[00:10:00:15 --> 00:10:02:17] pra checar se
+[00:10:03:06 --> 00:10:05:06] esses critérios aqui apareceram
+[00:10:05:06 --> 00:10:07:06] durante a reunião. Dá para vocês gravarem,
+[00:10:07:06 --> 00:10:08:29] coloca o seu robozinho de A ali
+[00:10:08:29 --> 00:10:10:27] para gravar isso, para você analisar depois.
+[00:10:11:06 --> 00:10:13:05] Você consegue depois anexar
+[00:10:13:05 --> 00:10:13:20] o transcript,
+[00:10:15:06 --> 00:10:16:17] a transcrição da reunião
+[00:10:16:17 --> 00:10:18:03] com a IA para falar, olha,
+[00:10:18:17 --> 00:10:21:00] eu conduzi bem essa reunião, me dê mais dicas,
+[00:10:21:02 --> 00:10:22:29] eu falei muito, eu falei pouco, sabe?
+[00:10:23:08 --> 00:10:25:03] Ali também você consegue avaliar
+[00:10:25:03 --> 00:10:26:11] o seu trabalho como
+[00:10:27:15 --> 00:10:28:20] um pesquisador ali.
+[00:10:29:02 --> 00:10:30:19] E a outra coisa...
+[00:10:31:23 --> 00:10:33:06] Para seguir para a etapa de oferta,
+[00:10:33:10 --> 00:10:35:04] eu não vou falar aqui, aqui tem o teste de oferta,
+[00:10:35:05 --> 00:10:36:29] a gente não vai falar muito disso, a gente vai falar na próxima aula,
+[00:10:37:12 --> 00:10:38:24] mas aqui tem um checklist
+[00:10:38:24 --> 00:10:41:13] que daria para vocês fazerem isso essa semana,
+[00:10:41:15 --> 00:10:43:20] durante a semana até, se vocês conseguirem encontrar essas pessoas,
+[00:10:43:23 --> 00:10:45:16] é conversar com pelo menos três pessoas
+[00:10:45:16 --> 00:10:47:18] do perfil alinhado, validar essa dor
+[00:10:47:18 --> 00:10:49:14] real com pelo menos esses três contatos,
+[00:10:49:16 --> 00:10:51:14] ver se essa dor é frequente,
+[00:10:51:14 --> 00:10:53:01] urgente ou tem impacto real
+[00:10:53:01 --> 00:10:55:17] e ver se a pessoa demonstrou desejo
+[00:10:55:17 --> 00:10:57:02] por ajuda ou por solução.
+[00:10:57:14 --> 00:10:59:20] Então isso é uma etapa extremamente
+[00:10:59:20 --> 00:11:01:15] importante, muitas vezes as pessoas
+[00:11:02:01 --> 00:11:02:27] chegam até aqui
+[00:11:03:20 --> 00:11:04:03] nesse
+[00:11:05:21 --> 00:11:07:24] perfil ideal de cliente, isso fica meio que
+[00:11:07:24 --> 00:11:09:26] num vácuo, a gente cria um perfil
+[00:11:09:26 --> 00:11:11:20] só com pesquisas de mercado
+[00:11:11:20 --> 00:11:13:23] com IA e não valida nunca
+[00:11:13:23 --> 00:11:15:23] isso e às vezes tem um contexto específico
+[00:11:15:23 --> 00:11:17:20] do mercado que você está trabalhando, tem um contexto da
+[00:11:17:20 --> 00:11:19:17] região que você está trabalhando, tem um contexto das empresas
+[00:11:19:17 --> 00:11:21:22] tem um contexto cultural, que aí
+[00:11:21:22 --> 00:11:23:17] você precisa validar se essas
+[00:11:23:17 --> 00:11:25:23] dores, essas necessidades específicas são realmente
+[00:11:25:23 --> 00:11:27:12] o que você colocou aqui e
+[00:11:27:12 --> 00:11:30:03] esse guia de validação vai te ajudar a fazer isso

@@ -1,0 +1,3432 @@
+1
+00:00:00,124 --> 00:00:02,444
+Prompts básicos e boas práticas.
+
+2
+00:00:02,624 --> 00:00:04,764
+Primeiro, a ordem das palavras importa.
+
+3
+00:00:05,004 --> 00:00:07,484
+Se você assistiu a trilha de imagem,
+
+4
+00:00:08,684 --> 00:00:11,344
+você já me viu falando sobre a ordem,
+
+5
+00:00:11,904 --> 00:00:15,404
+você já me viu falando que o início do prompt é onde tem mais peso,
+
+6
+00:00:15,664 --> 00:00:18,504
+depois são, na verdade, os parâmetros têm mais peso,
+
+7
+00:00:18,584 --> 00:00:21,344
+depois o início do prompt, depois o final do prompt,
+
+8
+00:00:21,424 --> 00:00:24,644
+e o meio é a parte que tem menos peso.
+
+9
+00:00:24,844 --> 00:00:27,164
+Não é que ela não é importante, essa parte,
+
+10
+00:00:27,164 --> 00:00:30,524
+mas ela tem menos peso comparado com o início e final do prompt
+
+11
+00:00:30,524 --> 00:00:34,804
+e comparado com os parâmetros que você coloca na ferramenta,
+
+12
+00:00:34,804 --> 00:00:35,784
+que vão ter um peso maior.
+
+13
+00:00:36,244 --> 00:00:40,424
+Então, entendendo que tem pesos diferentes para partes diferentes do prompt,
+
+14
+00:00:40,604 --> 00:00:45,404
+a gente entende também que a ordem dos elementos que você coloca ali
+
+15
+00:00:45,404 --> 00:00:48,844
+vão influenciar o resultado também do vídeo, da imagem
+
+16
+00:00:48,844 --> 00:00:50,484
+que você vai fazer com a inteligência artificial.
+
+17
+00:00:51,064 --> 00:00:53,864
+Então, esse é o primeiro ponto que a gente tem que levar em consideração.
+
+18
+00:00:53,864 --> 00:01:00,164
+Modelos de difusão atribuem pesos algorítmicos exponencialmente mais altos aos termos no início do texto.
+
+19
+00:01:00,344 --> 00:01:04,484
+A ordem altera irreversivelmente o produto no espaço latente.
+
+20
+00:01:04,544 --> 00:01:09,264
+Basicamente o que está falando aqui é o que você coloca no início tem mais peso do que o que você coloca no meio.
+
+21
+00:01:09,564 --> 00:01:13,584
+E o que você coloca no final também tem mais peso do que o que você coloca no meio.
+
+22
+00:01:13,824 --> 00:01:14,304
+Beleza?
+
+23
+00:01:15,164 --> 00:01:18,884
+Especialistas dividem a habilidade de prompt em cinco níveis evolutivos.
+
+24
+00:01:19,044 --> 00:01:20,444
+Que especialistas são esses?
+
+25
+00:01:20,444 --> 00:01:23,044
+é uma pesquisa que a gente fez
+
+26
+00:01:23,044 --> 00:01:24,944
+com mais de 200 fontes global
+
+27
+00:01:24,944 --> 00:01:27,164
+vendo pessoas que utilizam
+
+28
+00:01:27,164 --> 00:01:29,004
+o IA num nível mais avançado, quais são
+
+29
+00:01:29,004 --> 00:01:31,084
+as melhores práticas que elas utilizam. Então, vamos ver
+
+30
+00:01:31,084 --> 00:01:33,124
+aqui. Primeiro, ideia, depois
+
+31
+00:01:33,124 --> 00:01:35,044
+estrutura, depois controle,
+
+32
+00:01:35,284 --> 00:01:36,904
+depois alavancagem e
+
+33
+00:01:36,904 --> 00:01:38,984
+pipeline. Isso aqui é a estrutura do prompt?
+
+34
+00:01:39,164 --> 00:01:40,944
+Não. Isso aqui é o nível de evolução
+
+35
+00:01:40,944 --> 00:01:43,224
+pra construir um vídeo, um material.
+
+36
+00:01:43,524 --> 00:01:45,024
+Beleza? O criador
+
+37
+00:01:45,024 --> 00:01:46,704
+novato opera no nível da ideia,
+
+38
+00:01:46,864 --> 00:01:49,244
+inserindo fragmentos conceituais vagos.
+
+39
+00:01:49,244 --> 00:01:57,224
+O profissional opera no nível da estrutura, compreendendo que a direção da câmera no início absoluto do prompt atua como o alicerce matemático da cena.
+
+40
+00:01:57,404 --> 00:02:02,124
+Se ficou difícil de entender, fica na paz que vai ficar mais fácil quando a gente colocar isso aqui em prática.
+
+41
+00:02:02,384 --> 00:02:04,964
+Mas vamos entender o princípio fundamental aqui.
+
+42
+00:02:05,064 --> 00:02:12,184
+Quando você define, por exemplo, Wild Establishing Shot, 24mm Wide Angle,
+
+43
+00:02:12,264 --> 00:02:19,104
+nos primeiros tokens, o modelo constrói a geometria da cena e o campo de visão antes de tentar renderizar.
+
+44
+00:02:19,244 --> 00:02:21,504
+Isso aqui é um ponto importante para a gente levar em consideração.
+
+45
+00:02:21,644 --> 00:02:22,124
+Então, olha só.
+
+46
+00:02:22,244 --> 00:02:26,344
+Quando você coloca ali um shot estabilizado,
+
+47
+00:02:26,444 --> 00:02:30,444
+com, na verdade, aqui, Establishing Shot Wild,
+
+48
+00:02:30,664 --> 00:02:34,204
+é um enquadramento mais aberto, beleza?
+
+49
+00:02:34,484 --> 00:02:38,064
+E aqui ele está colocando 24 milímetros com Wide Angle,
+
+50
+00:02:38,064 --> 00:02:39,344
+então, um ângulo aberto também.
+
+51
+00:02:39,764 --> 00:02:41,264
+Quando você coloca isso,
+
+52
+00:02:41,464 --> 00:02:44,024
+você já está falando que essa cena vai ter muitos elementos.
+
+53
+00:02:44,744 --> 00:02:45,384
+Concorda comigo?
+
+54
+00:02:45,504 --> 00:02:47,424
+Porque é uma cena mais aberta.
+
+55
+00:02:47,524 --> 00:02:48,564
+Então, ela tende a ter.
+
+56
+00:02:48,564 --> 00:02:55,324
+Se você depois coloca um estúdio ou fundo branco, beleza, ela volta a ter menos elementos ali dentro da interpretação,
+
+57
+00:02:55,404 --> 00:03:00,104
+mas ainda assim, a maneira como os elementos vão ser dispostos na composição
+
+58
+00:03:00,104 --> 00:03:05,864
+são influenciadas justamente pelo enquadramento que você coloca, o ângulo que você define também,
+
+59
+00:03:06,524 --> 00:03:08,444
+esses pontos que a gente já discutiu em outros momentos.
+
+60
+00:03:08,864 --> 00:03:12,244
+Então, o primeiro ponto que a gente tem que levar em consideração aqui
+
+61
+00:03:12,244 --> 00:03:14,524
+é que o início do seu prompt
+
+62
+00:03:14,524 --> 00:03:16,324
+é a parte mais importante
+
+63
+00:03:16,324 --> 00:03:17,724
+que você já vai,
+
+64
+00:03:18,484 --> 00:03:19,704
+na hora de escrever o prompt,
+
+65
+00:03:19,904 --> 00:03:22,984
+pensar numa estrutura lógica
+
+66
+00:03:22,984 --> 00:03:25,124
+que vai fazer a inteligência artificial
+
+67
+00:03:25,124 --> 00:03:26,724
+entender o todo
+
+68
+00:03:26,724 --> 00:03:28,224
+de maneira coerente.
+
+69
+00:03:28,444 --> 00:03:31,184
+Um erro muito comum que pessoas iniciantes cometem
+
+70
+00:03:31,184 --> 00:03:33,304
+é de sair escrevendo sem ordem
+
+71
+00:03:33,304 --> 00:03:34,864
+o prompt ali, então começa a escrever
+
+72
+00:03:34,864 --> 00:03:36,024
+do jeito que eu acho que é legal
+
+73
+00:03:36,024 --> 00:03:39,684
+e não percebe que o prompt tem várias incoerências,
+
+74
+00:03:39,784 --> 00:03:41,244
+às vezes você faz pedidos que são
+
+75
+00:03:42,184 --> 00:03:43,884
+antagônicos, ao mesmo tempo que você fala
+
+76
+00:03:43,884 --> 00:03:45,504
+um wide angle, você está pedindo
+
+77
+00:03:45,504 --> 00:03:47,924
+uma macro fotografia, não vai fazer
+
+78
+00:03:47,924 --> 00:03:49,724
+muito sentido, porque wide angle
+
+79
+00:03:49,724 --> 00:03:52,204
+é um ângulo muito aberto, macro fotografia
+
+80
+00:03:52,204 --> 00:03:53,464
+é para capturar detalhes
+
+81
+00:03:53,464 --> 00:03:55,064
+numa foto muito de perto
+
+82
+00:03:55,604 --> 00:03:57,924
+e aí a pessoa vai escrevendo ali, ou pede
+
+83
+00:03:57,924 --> 00:03:59,724
+para uma IA escrever também, a IA escreve tudo
+
+84
+00:03:59,724 --> 00:04:01,644
+errado e no final não tem o resultado que queria
+
+85
+00:04:01,644 --> 00:04:03,924
+então o prompt vai ter um peso
+
+86
+00:04:03,924 --> 00:04:05,744
+aqui, a ordem das palavras vai ter um peso
+
+87
+00:04:05,744 --> 00:04:07,964
+também, e basicamente esse é o princípio
+
+88
+00:04:07,964 --> 00:04:09,844
+fundamental que a gente tem que levar em consideração
+
+89
+00:04:09,844 --> 00:04:14,284
+A partir disso, nós podemos dividir o prompt aqui em seis partes.
+
+90
+00:04:14,964 --> 00:04:19,764
+Enquadramento da câmera, sujeito com atributos físicos fixos,
+
+91
+00:04:19,804 --> 00:04:24,124
+a leitura da dislexia aí, sujeito com atributos fixos,
+
+92
+00:04:24,684 --> 00:04:28,124
+ação única e precisa, uma ação por take,
+
+93
+00:04:28,184 --> 00:04:30,844
+vai ajudar vocês a terem mais precisão, beleza?
+
+94
+00:04:31,564 --> 00:04:34,964
+Ambiente e contexto, iluminação com temperatura e estilo de referência.
+
+95
+00:04:35,264 --> 00:04:38,604
+Se vocês se lembrarem da trilha de imagem,
+
+96
+00:04:38,604 --> 00:04:44,744
+vocês vão se lembrar que lá eu mostrei uma estrutura que era muito parecida com essa.
+
+97
+00:04:45,044 --> 00:04:49,664
+Começava ali em estilo, depois sujeito barra objeto, depois ambiente,
+
+98
+00:04:49,864 --> 00:04:54,704
+depois fotografia que envolve enquadramento, ângulo, iluminação e depois efeitos.
+
+99
+00:04:54,864 --> 00:05:01,424
+A lógica aqui é parecida, só que existem algumas dimensões novas dentro desse prompt
+
+100
+00:05:01,424 --> 00:05:03,144
+que nós precisamos levar em consideração.
+
+101
+00:05:04,064 --> 00:05:05,384
+A primeira delas é o tempo.
+
+102
+00:05:05,384 --> 00:05:09,064
+Agora você não tem mais uma imagem estática, você tem uma imagem em movimento.
+
+103
+00:05:09,484 --> 00:05:13,444
+Por ter uma imagem em movimento, o seu prompt também precisa descrever esse movimento.
+
+104
+00:05:13,804 --> 00:05:18,104
+E esse movimento pode acontecer em duas camadas diferentes, pelo menos.
+
+105
+00:05:18,324 --> 00:05:26,804
+Que é o movimento da câmera e o movimento do sujeito e objeto que estão sendo gravados, digamos assim.
+
+106
+00:05:27,064 --> 00:05:30,444
+Então são dois movimentos diferentes que a gente precisa levar em consideração.
+
+107
+00:05:31,124 --> 00:05:36,144
+Fora isso, a gente ainda tem enquadramento, sujeito, estilo, iluminação.
+
+108
+00:05:36,224 --> 00:05:39,904
+São muitas variáveis para ir a prestar atenção.
+
+109
+00:05:40,364 --> 00:05:44,144
+E aí eu já quero dar a segunda dica para vocês aqui, importante, que é qual?
+
+110
+00:05:44,564 --> 00:05:49,984
+Quando você faz o text to video, ou seja, texto para vídeo,
+
+111
+00:05:50,224 --> 00:05:52,864
+eu escrevo o prompt e gero um vídeo,
+
+112
+00:05:53,644 --> 00:05:56,064
+usando todos esses detalhes aqui,
+
+113
+00:05:57,372 --> 00:05:59,832
+Você tende a ter um vídeo com...
+
+114
+00:05:59,832 --> 00:06:03,352
+Você vai ter mais precisão no que você está pedindo para a IA,
+
+115
+00:06:03,472 --> 00:06:06,732
+mas a IA vai precisar lidar com muitas variáveis diferentes,
+
+116
+00:06:07,092 --> 00:06:10,592
+o que pode acabar gerando alucinações dentro do vídeo.
+
+117
+00:06:10,992 --> 00:06:12,712
+Para resolver esse problema,
+
+118
+00:06:12,992 --> 00:06:14,532
+o que você precisa entender é que
+
+119
+00:06:14,532 --> 00:06:17,012
+quando nós falamos de geração de vídeo com IA,
+
+120
+00:06:17,152 --> 00:06:22,732
+nós estamos falando de prompts que são multimídia.
+
+121
+00:06:23,252 --> 00:06:27,292
+Então, o seu prompt não é mais só o texto que você escreve,
+
+122
+00:06:27,372 --> 00:06:30,352
+mas também a imagem que você coloca de referência
+
+123
+00:06:30,352 --> 00:06:33,132
+ou o vídeo que você coloca de referência.
+
+124
+00:06:33,232 --> 00:06:35,752
+Então, quando nós estamos falando de enquadramento,
+
+125
+00:06:35,752 --> 00:06:38,012
+quando nós estamos falando de iluminação,
+
+126
+00:06:39,516 --> 00:06:41,516
+Quando nós estamos falando até de ângulo,
+
+127
+00:06:42,336 --> 00:06:46,116
+muitas vezes é melhor você trazer essas informações
+
+128
+00:06:46,116 --> 00:06:50,016
+na imagem de referência do que no texto.
+
+129
+00:06:50,316 --> 00:06:54,096
+Isso também vai fazer parte do input que você está enviando para a IA.
+
+130
+00:06:54,196 --> 00:06:57,996
+E é uma coisa que as pessoas que estão começando não sabem.
+
+131
+00:06:58,376 --> 00:07:00,416
+Então, eu posso, por exemplo, aqui,
+
+132
+00:07:00,456 --> 00:07:02,356
+para a gente começar a entender essa estrutura,
+
+133
+00:07:02,416 --> 00:07:04,716
+eu posso abrir aqui o FreePIC, por exemplo,
+
+134
+00:07:04,876 --> 00:07:09,176
+que é um hub de IAs que a gente vai utilizar aqui,
+
+135
+00:07:09,516 --> 00:07:09,536
+A CIDADE NO BRASIL
+
+136
+00:07:10,748 --> 00:07:12,088
+Ah, agora que eu vi que eu tô no...
+
+137
+00:07:13,660 --> 00:07:15,400
+Eu estou na conta diferente aqui.
+
+138
+00:07:15,560 --> 00:07:18,380
+Deixa eu trocar aqui para a nossa conta que já está logada.
+
+139
+00:07:20,956 --> 00:07:21,936
+Vai ficar mais fácil.
+
+140
+00:07:22,616 --> 00:07:23,056
+Opa!
+
+141
+00:07:25,692 --> 00:07:26,172
+Colocar aqui.
+
+142
+00:07:27,676 --> 00:07:28,276
+Fecha essa daqui.
+
+143
+00:07:29,316 --> 00:07:30,736
+E vou fechar essa aqui também.
+
+144
+00:07:31,496 --> 00:07:32,096
+Então, beleza.
+
+145
+00:07:32,316 --> 00:07:34,036
+Vou voltar pra cá pra nossa estrutura.
+
+146
+00:07:34,036 --> 00:07:35,396
+Aqui tá até com zoom maior, né?
+
+147
+00:07:35,776 --> 00:07:38,436
+Eu só vou ter que tirar esse issues aqui.
+
+148
+00:07:39,836 --> 00:07:42,016
+Lembrando, às vezes tem gente nova chegando aí,
+
+149
+00:07:42,036 --> 00:07:42,956
+não está entendendo o que é isso,
+
+150
+00:07:42,996 --> 00:07:46,216
+está usando um site local.
+
+151
+00:07:46,656 --> 00:07:48,696
+Isso aqui eu fiz em 20 minutinhos.
+
+152
+00:07:49,296 --> 00:07:51,116
+Vou mostrar como a gente faz isso,
+
+153
+00:07:51,156 --> 00:07:53,016
+principalmente no Atlas, que é o nosso evento,
+
+154
+00:07:53,676 --> 00:07:55,576
+que vai acontecer dia 11 e 12 de abril.
+
+155
+00:07:55,616 --> 00:07:57,256
+Deixei o link aí para comprar o ingresso,
+
+156
+00:07:57,256 --> 00:07:57,836
+quem não comprou.
+
+157
+00:07:59,196 --> 00:08:00,676
+E também porque...
+
+158
+00:08:02,972 --> 00:08:06,592
+É legal ter feito isso em 20 minutos, é interessante, mas enfim, está local aqui,
+
+159
+00:08:06,612 --> 00:08:09,772
+depois vai ficar disponível na gravação aí para quem está vendo isso gravado.
+
+160
+00:08:10,492 --> 00:08:17,132
+Mas basicamente, então, a gente tem essa estrutura aqui, nós vamos usar o Freepeek para já começar a visualizar essa ideia.
+
+161
+00:08:17,672 --> 00:08:20,932
+Então, eu vou começar direto aqui com gerar vídeos no Freepeek.
+
+162
+00:08:21,252 --> 00:08:23,732
+Poderia ser também, hoje a gente vai usar aqui o Runway.
+
+163
+00:08:25,948 --> 00:08:27,728
+Já coloca aqui o Runway para a gente.
+
+164
+00:08:28,388 --> 00:08:29,968
+Vocês vão ver que a estrutura...
+
+165
+00:08:31,612 --> 00:08:33,532
+a lógica é a mesma, tá?
+
+166
+00:08:33,592 --> 00:08:36,352
+A maioria das ferramentas vão ter os mesmos recursos ali,
+
+167
+00:08:36,452 --> 00:08:38,992
+então, geralmente surge numa ferramenta primeiro,
+
+168
+00:08:39,452 --> 00:08:40,952
+aí vem as outras e copiam.
+
+169
+00:08:40,992 --> 00:08:42,712
+Vou logar na minha conta pessoal nessa aqui,
+
+170
+00:08:42,792 --> 00:08:44,912
+que eu acho que tem alguns créditos gratuitos aqui, inclusive.
+
+171
+00:08:45,832 --> 00:08:47,472
+Acaba bem rápido o gratuito, tá?
+
+172
+00:08:47,512 --> 00:08:48,692
+Mas eu vou deixar ali no gratuito.
+
+173
+00:08:48,912 --> 00:08:53,252
+Tem também o Rigsfield, que é outro hub de IaaS,
+
+174
+00:08:54,012 --> 00:08:55,352
+que a gente pode utilizar aqui também.
+
+175
+00:08:55,652 --> 00:08:58,652
+Vou fazer login aqui numa conta gratuita.
+
+176
+00:08:58,652 --> 00:09:02,072
+eu não lembro, acho que o Higgsfield não tem crédito gratuito
+
+177
+00:09:02,072 --> 00:09:03,292
+vamos conferir isso junto aqui
+
+178
+00:09:03,292 --> 00:09:05,152
+mas já vou logar no Higgsfield
+
+179
+00:09:07,036 --> 00:09:14,256
+Também já vou deixar aqui do lado o Cling, que é atualmente resultado de output, qualidade de output.
+
+180
+00:09:14,556 --> 00:09:17,856
+É a melhor IA de geração de vídeos no momento que eu estou gravando isso.
+
+181
+00:09:19,516 --> 00:09:22,676
+Então eu vou trazer ela para cá também, vou logar em uma conta gratuita.
+
+182
+00:09:27,516 --> 00:09:31,656
+Beleza. Aqui nós temos então quatro diferentes. Posso colocar aqui também o Gemini.
+
+183
+00:09:33,052 --> 00:09:38,852
+Aqui eu estou no Gemini Pro, eu consigo gerar vídeo direto aqui do Gemini ou eu posso colocar aqui Google VEL.
+
+184
+00:09:40,412 --> 00:09:46,472
+E aí eu acesso direto no AI Studio o Veltri.one.
+
+185
+00:09:50,076 --> 00:09:50,656
+Começar agora.
+
+186
+00:09:53,532 --> 00:09:56,712
+Parque Infantil, ele traduziu o Playground para Parque Infantil.
+
+187
+00:09:57,572 --> 00:10:02,972
+Mas beleza, então a gente já tem aqui seis lugares diferentes para gerar vídeos.
+
+188
+00:10:03,212 --> 00:10:07,532
+Tem vários outros, se você quiser ver mais ferramentas de geração de vídeo,
+
+189
+00:10:07,592 --> 00:10:12,932
+eu recomendo você assistir as aulas que eu mostro várias ferramentas, vários nomes ali.
+
+190
+00:10:12,992 --> 00:10:14,192
+Você escolhe o nome que você quiser.
+
+191
+00:10:14,232 --> 00:10:17,352
+Ah, eu quero usar Hailu, quero usar...
+
+192
+00:10:19,592 --> 00:10:20,852
+Quero usar o...
+
+193
+00:10:22,780 --> 00:10:25,040
+One, quero utilizar o...
+
+194
+00:10:28,092 --> 00:10:30,972
+Fugiu o nome que agora eu ia falar dele também, que é um bom...
+
+195
+00:10:30,972 --> 00:10:34,592
+Tem o One de vídeo, né? One AI, que dá para utilizar também.
+
+196
+00:10:35,292 --> 00:10:37,692
+Mas além desses daqui, tem o Mid-Journey, enfim.
+
+197
+00:10:37,812 --> 00:10:40,132
+Tem muitas ferramentas de geração de vídeo.
+
+198
+00:10:40,552 --> 00:10:42,772
+Você pode escolher. Eu vou escolher essas daqui.
+
+199
+00:10:42,872 --> 00:10:44,592
+Vocês vão ver que tem muitas ferramentas boas, né?
+
+200
+00:10:44,852 --> 00:10:48,852
+Freepik, Runway, Higgsfield e VEL do Google, tá?
+
+201
+00:10:49,092 --> 00:10:51,612
+Se quiser ir direto também no C...
+
+202
+00:10:53,468 --> 00:10:54,148
+Seedance.
+
+203
+00:10:54,908 --> 00:11:00,068
+Da ByteDance você pode também vir aqui direto, olha, Seedance 2.0.
+
+204
+00:11:01,788 --> 00:11:02,948
+Tem ele aqui também.
+
+205
+00:11:03,048 --> 00:11:06,708
+Vocês vão ver que esses modelos, a maioria deles estão lá nos hubs de A.
+
+206
+00:11:06,848 --> 00:11:09,988
+Por isso que a gente não vai usar eles aqui, mas você pode, tá?
+
+207
+00:11:10,148 --> 00:11:13,428
+E o fundamento vai funcionar em todos eles.
+
+208
+00:11:13,588 --> 00:11:14,508
+Isso é o mais importante.
+
+209
+00:11:15,208 --> 00:11:15,548
+Beleza?
+
+210
+00:11:15,908 --> 00:11:17,648
+Então, o que eu quero trazer aqui para você?
+
+211
+00:11:17,728 --> 00:11:22,308
+Eu posso, por exemplo, abrir, seja aqui no Freepeak, por exemplo,
+
+212
+00:11:22,308 --> 00:11:24,348
+eu venho aqui no Gerar Vídeo.
+
+213
+00:11:24,748 --> 00:11:26,908
+E se você reparar, eu tenho aqui Referências.
+
+214
+00:11:27,008 --> 00:11:29,828
+E dentro do painel de referência, eu posso colocar imagem inicial,
+
+215
+00:11:29,828 --> 00:11:35,448
+imagem final, vídeo, áudio, imagem, ou posso adicionar mais e mais coisas aqui.
+
+216
+00:11:35,988 --> 00:11:39,368
+Isso tudo aqui você tem que entender que faz parte do seu pedido.
+
+217
+00:11:39,648 --> 00:11:43,608
+Quanto mais referência você entrega, mais informação a IA tem.
+
+218
+00:11:43,708 --> 00:11:48,248
+Não necessariamente mais referência significa melhor saída final,
+
+219
+00:11:48,328 --> 00:11:49,628
+melhor resultado final da IA.
+
+220
+00:11:49,728 --> 00:11:53,208
+Às vezes você lota de referência que vira uma grande confusão,
+
+221
+00:11:53,208 --> 00:11:55,468
+ela não sabe o que ela escolhe para continuar,
+
+222
+00:11:55,468 --> 00:12:00,208
+então é bom ser parcimonioso aqui, ser sucinto também,
+
+223
+00:12:00,268 --> 00:12:05,028
+escolher com inteligência as referências que você vai colocar aqui,
+
+224
+00:12:05,688 --> 00:12:08,448
+mas o que você precisa levar em consideração então é que
+
+225
+00:12:08,448 --> 00:12:13,088
+quando nós falamos principalmente de vídeo, nós não trabalhamos só com o texto,
+
+226
+00:12:13,248 --> 00:12:17,008
+então eu não simplesmente escrevo um prompt aqui e mando,
+
+227
+00:12:17,028 --> 00:12:20,668
+você até pode fazer isso, é bom para fazer testes, experimentos também,
+
+228
+00:12:20,868 --> 00:12:24,668
+mas se você quer ter consistência, se você quer ter mais controle,
+
+229
+00:12:24,668 --> 00:12:30,228
+você vai notar que subir referências aqui é muito, muito importante, beleza?
+
+230
+00:12:31,772 --> 00:12:32,532
+Dito isso...
+
+231
+00:12:33,788 --> 00:12:35,728
+A gente pode ir seguindo aqui, já já a gente vai escrever,
+
+232
+00:12:35,828 --> 00:12:38,828
+aqui tem um exemplo para você, a gente vai escrever esse exemplo ali,
+
+233
+00:12:39,408 --> 00:12:42,848
+para funcionar, mas se eu fosse trabalhar só com texto,
+
+234
+00:12:43,148 --> 00:12:46,048
+vamos dar uma olhada no tamanho que ficaria o prompt aqui,
+
+235
+00:12:46,108 --> 00:12:48,008
+ainda vai ser um prompt simples, então eu coloco aqui,
+
+236
+00:12:48,088 --> 00:12:52,228
+white shot, aqui eu já pego uma mulher de 28 anos,
+
+237
+00:12:52,368 --> 00:12:55,188
+jaqueta de couro vermelha, cabelo platinado curto,
+
+238
+00:12:55,368 --> 00:12:56,828
+então posso colocar aqui também,
+
+239
+00:12:57,648 --> 00:13:01,728
+aí depois vem aqui, isso aqui é o sujeito com atributos fixos,
+
+240
+00:13:01,728 --> 00:13:07,068
+Tá vendo? Eu descrevi o sujeito porque nesse caso aqui do prompt eu não vou mandar referência.
+
+241
+00:13:07,248 --> 00:13:13,108
+Quando você manda uma imagem ou vídeo de referência, aí você não precisa ficar descrevendo tanto assim,
+
+242
+00:13:13,728 --> 00:13:20,828
+mas mesmo assim, às vezes você vai gerar o vídeo, não vai ficar tão legal, aí você complementa, ou seja, sobe a imagem de referência,
+
+243
+00:13:20,948 --> 00:13:26,108
+coloca o prompt junto descrevendo o que tá na imagem e tende a ter um pouco mais de precisão, beleza?
+
+244
+00:13:26,108 --> 00:13:32,788
+Aqui a gente tem uma ação única e precisa, então, caminhando pela calçada molhada, olhando para o chão.
+
+245
+00:13:33,228 --> 00:13:35,188
+Aí eu quero que você já comece a pensar.
+
+246
+00:13:35,888 --> 00:13:37,948
+Se ela está olhando para o chão...
+
+247
+00:13:39,132 --> 00:13:41,092
+O chão virou um...
+
+248
+00:13:42,364 --> 00:13:46,024
+um peso aqui para a IA, então a IA vai tentar representar o chão.
+
+249
+00:13:46,184 --> 00:13:50,084
+Se a IA vai tentar representar o chão, vocês já concordam que o ângulo
+
+250
+00:13:50,084 --> 00:13:52,604
+já tem que estar virado mais de cima para baixo.
+
+251
+00:13:53,948 --> 00:13:56,808
+Porque eu estou pedindo aqui, se ela está olhando para o chão,
+
+252
+00:13:56,848 --> 00:13:59,908
+eu estou pedindo para a IA, a IA vai interpretar que tem que ter um chão.
+
+253
+00:14:00,348 --> 00:14:02,908
+Mais do que isso, vai interpretar que ela está olhando para o chão,
+
+254
+00:14:02,948 --> 00:14:06,408
+então cabeça baixa, provavelmente, ele vai tentar representar essa cena.
+
+255
+00:14:06,988 --> 00:14:10,208
+Aí vem mais um ponto importante, que é esse wide shot aqui.
+
+256
+00:14:10,388 --> 00:14:13,708
+Se eu vou fazer um enquadramento bem aberto, como um wide shot,
+
+257
+00:14:14,128 --> 00:14:15,928
+eu tenho espaço para colocar um chão.
+
+258
+00:14:15,988 --> 00:14:21,728
+Agora, se eu colocasse, por exemplo, um extreme close-up aqui,
+
+259
+00:14:21,728 --> 00:14:23,548
+aqui. Se eu colocasse um extreme close-up
+
+260
+00:14:23,548 --> 00:14:25,528
+aqui, ia pegar só o rosto dela,
+
+261
+00:14:25,628 --> 00:14:27,508
+poderia até ter ela olhando pra
+
+262
+00:14:27,508 --> 00:14:29,668
+baixo. Só que aí, no caso, é melhor
+
+263
+00:14:29,668 --> 00:14:31,428
+eu falar que ela está olhando pra baixo
+
+264
+00:14:31,428 --> 00:14:33,688
+do que olhando pro chão. Porque o chão
+
+265
+00:14:33,688 --> 00:14:35,208
+aqui pode ganhar peso nesse prompt.
+
+266
+00:14:35,508 --> 00:14:37,608
+Na nossa trilha de geração de imagens,
+
+267
+00:14:37,628 --> 00:14:39,008
+eu falei bastante sobre isso,
+
+268
+00:14:40,168 --> 00:14:41,528
+porque existem algumas
+
+269
+00:14:41,528 --> 00:14:43,728
+palavras que têm mais peso. Geralmente
+
+270
+00:14:44,668 --> 00:14:45,548
+substantivos, adjetivos,
+
+271
+00:14:45,608 --> 00:14:47,488
+vão ter mais peso que palavras
+
+272
+00:14:47,488 --> 00:14:49,348
+de conexão, do que artigos.
+
+273
+00:14:49,888 --> 00:14:53,588
+Igual, por exemplo, a palavra o aqui tem menos peso que a palavra chão.
+
+274
+00:14:53,668 --> 00:14:57,088
+A palavra para tem menos peso do que a palavra chão, de novo.
+
+275
+00:14:57,228 --> 00:14:59,328
+Então, é bom levar isso em consideração também.
+
+276
+00:14:59,428 --> 00:15:04,708
+Quando você coloca uma palavra aqui, aumenta a chance da IA querer representar essa palavra visualmente também.
+
+277
+00:15:05,008 --> 00:15:07,528
+Ainda mais se eu não colocar nenhuma referência.
+
+278
+00:15:07,648 --> 00:15:08,088
+Beleza?
+
+279
+00:15:09,500 --> 00:15:12,140
+Seguindo adiante aqui, nós também temos o ambiente.
+
+280
+00:15:12,920 --> 00:15:17,440
+Rua de Tóquio à noite, chuva fina, reflexos de neon no asfalto.
+
+281
+00:15:17,500 --> 00:15:22,600
+De novo agora, a gente está reforçando aqui o ambiente agora.
+
+282
+00:15:22,660 --> 00:15:27,120
+Então agora sim, é certeza de que vai ter algum chão nessa cena.
+
+283
+00:15:27,240 --> 00:15:30,240
+E o chão vai estar molhado, porque aqui está falando que o chão está molhado.
+
+284
+00:15:30,740 --> 00:15:34,280
+E com reflexo de neon, então vai ter neon também e por aí vai.
+
+285
+00:15:34,340 --> 00:15:36,920
+Tudo que eu estou colocando aqui, a IA vai tentar reproduzir.
+
+286
+00:15:37,200 --> 00:15:38,980
+Aí vem iluminação com temperatura.
+
+287
+00:15:39,500 --> 00:15:42,620
+Se eu colocasse, por exemplo, assim, um dia ensolarado.
+
+288
+00:15:42,740 --> 00:15:49,040
+Você concorda comigo que um dia ensolarado é incoerente com luzes neon refletindo no asfalto?
+
+289
+00:15:49,060 --> 00:15:51,780
+Até tem como colocar, mas é um pouco estranho.
+
+290
+00:15:51,880 --> 00:15:54,020
+Aumenta a chance daí alucinar, beleza?
+
+291
+00:15:54,300 --> 00:16:02,240
+Aqui a gente tem luz neon, azul e rosa, 8.000 kelvins, frio, sombras profundas.
+
+292
+00:16:02,640 --> 00:16:04,660
+Isso aqui é a iluminação com temperatura.
+
+293
+00:16:05,060 --> 00:16:07,320
+E nós temos estilo e referência.
+
+294
+00:16:07,320 --> 00:16:14,160
+No caso aqui, estética neo-noir, grão de 35mm, inspirado em Wong Kar.
+
+295
+00:16:15,964 --> 00:16:16,964
+Agora eu coloco aqui.
+
+296
+00:16:18,748 --> 00:16:20,328
+E aí, eu já clico em gerar? Não.
+
+297
+00:16:20,488 --> 00:16:22,508
+O que você vai fazer agora? Você vai pegar o seu prompt.
+
+298
+00:16:22,628 --> 00:16:24,548
+Primeira coisa, na verdade, não escreva seus
+
+299
+00:16:24,548 --> 00:16:26,748
+prompts direto aqui. Nunca faça isso.
+
+300
+00:16:26,848 --> 00:16:28,688
+Por quê? Pode acontecer da ferramenta
+
+301
+00:16:28,688 --> 00:16:30,708
+bugar na hora que você está escrevendo e você perder
+
+302
+00:16:30,708 --> 00:16:32,108
+o prompt e ter que escrever tudo de novo.
+
+303
+00:16:32,328 --> 00:16:35,208
+Então, abra um bloco de notas, abra um Google Docs
+
+304
+00:16:35,208 --> 00:16:36,528
+ou algum lugar que você possa ir
+
+305
+00:16:36,528 --> 00:16:38,008
+escrevendo os prompts, beleza?
+
+306
+00:16:38,288 --> 00:16:40,848
+E aí, se acontecer alguma coisa,
+
+307
+00:16:40,908 --> 00:16:43,088
+o prompt está salvo lá, se você copiar de novo e colar.
+
+308
+00:16:43,268 --> 00:16:44,768
+E também, para poder fazer
+
+309
+00:16:44,768 --> 00:16:46,928
+testes de variações, para você
+
+310
+00:16:46,928 --> 00:16:48,628
+não perder os prompts anteriores,
+
+311
+00:16:48,748 --> 00:16:50,608
+é sempre bom você ter essa prática.
+
+312
+00:16:50,668 --> 00:16:53,128
+Então, geralmente, o que eu faço é, eu abro um Google Docs
+
+313
+00:16:53,128 --> 00:16:55,048
+ou um Markdown dentro do meu computador.
+
+314
+00:16:55,268 --> 00:16:57,568
+Aqui está mais fácil para a gente abrir um Google Docs.
+
+315
+00:16:57,648 --> 00:17:02,208
+Eu colo o prompt aqui e colo a versão dele em inglês.
+
+316
+00:17:02,348 --> 00:17:03,808
+Então, já vou vir aqui no tradutor.
+
+317
+00:17:05,168 --> 00:17:07,668
+Recomendo que quando você for gerar prompts para vídeo,
+
+318
+00:17:07,768 --> 00:17:11,708
+você pode escrever tudo em português, mas depois traduz para o inglês.
+
+319
+00:17:11,908 --> 00:17:14,108
+Isso vai ter uma aderência melhor no prompt, beleza?
+
+320
+00:17:14,568 --> 00:17:16,708
+E aí eu vou guardando o prompt. Por quê?
+
+321
+00:17:16,708 --> 00:17:18,848
+se alguma coisa estiver ruim, eu não
+
+322
+00:17:18,848 --> 00:17:20,668
+vou deletar esse prompt, eu não gosto de
+
+323
+00:17:20,668 --> 00:17:22,928
+processo criativo destrutivo, eu gosto
+
+324
+00:17:22,928 --> 00:17:24,748
+de processo criativo expansivo,
+
+325
+00:17:24,828 --> 00:17:26,768
+então tudo que você vai criando, vai
+
+326
+00:17:26,768 --> 00:17:28,908
+criando um rastro que você pode voltar
+
+327
+00:17:28,908 --> 00:17:30,308
+ali depois, se você tiver vontade.
+
+328
+00:17:30,648 --> 00:17:32,548
+Porque se você simplesmente
+
+329
+00:17:34,448 --> 00:17:34,888
+deleta
+
+330
+00:17:34,888 --> 00:17:36,688
+isso aqui, dali a pouco você fala, nossa, queria
+
+331
+00:17:36,688 --> 00:17:38,868
+aquele prompt de novo, tem que ficar voltando
+
+332
+00:17:38,868 --> 00:17:40,768
+lá em histórico de ferramenta, perdendo
+
+333
+00:17:40,768 --> 00:17:42,748
+tempo, então isso aqui é eficiente pro
+
+334
+00:17:42,748 --> 00:17:44,688
+seu fluxo, tá? Claro que aqui
+
+335
+00:17:44,688 --> 00:17:46,988
+que eu ainda nem estou falando de fluxo com o storyboard,
+
+336
+00:17:47,068 --> 00:17:49,248
+esse processo todo que a gente vai falar já já,
+
+337
+00:17:49,308 --> 00:17:51,708
+mas já é uma boa dica para você levar em consideração.
+
+338
+00:17:51,988 --> 00:17:54,388
+Então agora que eu tenho aqui a versão em inglês,
+
+339
+00:17:54,408 --> 00:17:57,448
+eu volto aqui para o Freepik e eu já posso gerar.
+
+340
+00:17:57,568 --> 00:18:01,108
+Aqui eu vou colocar o tempo, no caso eu vou colocar rapidinho,
+
+341
+00:18:01,128 --> 00:18:02,648
+eu quero fazer um teste do vídeo.
+
+342
+00:18:02,928 --> 00:18:06,548
+Aqui eu posso deixar formato de story, que é aquele vertical,
+
+343
+00:18:06,968 --> 00:18:09,528
+posso deixar 16 por 9, que é mais cinematográfico,
+
+344
+00:18:09,528 --> 00:18:11,268
+vou deixar 16 por 9 aqui no caso,
+
+345
+00:18:11,328 --> 00:18:13,868
+e aqui é se eu quero com efeito sonoro ou sem.
+
+346
+00:18:13,868 --> 00:18:15,908
+Vou deixar com efeito sonoro aqui, beleza?
+
+347
+00:18:16,508 --> 00:18:22,488
+Aqui em cima eu escolho o modelo, você pode deixar alto ou já escolher um modelo da sua preferência.
+
+348
+00:18:22,628 --> 00:18:27,168
+No caso aqui eu vou começar usando o Veltree do Google, ele já tem um modelo de áudio aqui,
+
+349
+00:18:27,228 --> 00:18:32,508
+foi um dos primeiros que colocou áudio em vídeo, acho que foi o primeiro na verdade.
+
+350
+00:18:33,108 --> 00:18:35,188
+E é interessante, vamos dar uma olhada aqui então.
+
+351
+00:18:35,288 --> 00:18:37,728
+Pedir para gerar, ele está fazendo aqui para a gente agora.
+
+352
+00:18:38,468 --> 00:18:39,748
+E aí basicamente é esperar.
+
+353
+00:18:39,748 --> 00:18:45,408
+Quando você coloca poucos segundos, coloca a resolução mais baixa, igual aqui está em 720p,
+
+354
+00:18:46,428 --> 00:18:52,688
+e coloca às vezes até um modelo simples, você consegue fazer o vídeo mais rápido,
+
+355
+00:18:52,868 --> 00:18:56,928
+vai gastar menos do seu crédito, e você tem um preview inicial.
+
+356
+00:18:57,408 --> 00:19:04,428
+Aqui no caso eu estou fazendo um prompt direto de texto para vídeo, não coloquei referência nenhuma na imagem.
+
+357
+00:19:04,428 --> 00:19:15,948
+É a melhor abordagem? Na verdade, depende do contexto, né, se você quiser explorar, fazer testes, pode ser uma boa abordagem, às vezes você tá querendo explorar, eu não faço ideia da personagem que ele vai criar aqui.
+
+358
+00:19:16,048 --> 00:19:26,788
+Tem algumas características que nós escrevemos aqui, né, que ela tá usando uma jaqueta de couro vermelha, que ela tem um cabelo platinado loiro, ele fez aqui, tá vendo?
+
+359
+00:19:26,788 --> 00:19:29,008
+Só que eu não fazia ideia de que ia ser desse jeito.
+
+360
+00:19:29,048 --> 00:19:32,088
+E se eu quisesse um cabelo mais chanelzinho do que esse?
+
+361
+00:19:32,288 --> 00:19:33,468
+Nesse meio trinity?
+
+362
+00:19:33,808 --> 00:19:35,028
+Às vezes eu queria de outro jeito.
+
+363
+00:19:35,208 --> 00:19:38,208
+Eu não tenho esse controle, eu não estou colocando nenhuma referência.
+
+364
+00:19:38,408 --> 00:19:42,108
+Então, quando você quer ser surpreendido, beleza.
+
+365
+00:19:42,948 --> 00:19:44,148
+Faz text to video.
+
+366
+00:19:44,668 --> 00:19:46,468
+Que aí você explora muitas possibilidades.
+
+367
+00:19:46,748 --> 00:19:48,828
+Agora, quando você quer ter precisão,
+
+368
+00:19:48,868 --> 00:19:52,048
+entenda que as referências fazem parte do seu prompt.
+
+369
+00:19:52,208 --> 00:19:54,108
+Mas a gente vai ver isso aqui já já também.
+
+370
+00:19:54,368 --> 00:19:55,888
+Então vamos dar uma olhada aqui nessa...
+
+371
+00:19:57,916 --> 00:19:59,056
+nesse vídeo.
+
+372
+00:20:00,348 --> 00:20:03,048
+Vou clicar aqui para vocês ouvirem, tem um áudiozinho.
+
+373
+00:20:05,116 --> 00:20:07,216
+Tá certo. Tudo que eu pedi, ele trouxe.
+
+374
+00:20:07,616 --> 00:20:11,356
+Tem aqui, então, ela olhando para o chão, o asfalto molhado,
+
+375
+00:20:11,416 --> 00:20:14,976
+refletindo luz neon, rosa e azul.
+
+376
+00:20:15,236 --> 00:20:16,996
+Beleza, tudo que a gente pediu, ela trouxe.
+
+377
+00:20:17,096 --> 00:20:21,636
+Vamos supor que eu não gostei do movimento.
+
+378
+00:20:21,696 --> 00:20:25,376
+Eu queria que ela estivesse andando para dentro da imagem.
+
+379
+00:20:25,616 --> 00:20:27,456
+Eu teria que descrever isso na cena.
+
+380
+00:20:28,516 --> 00:20:30,656
+Então, nesse caso aqui, eu vou aumentar um pouquinho.
+
+381
+00:20:35,580 --> 00:20:36,880
+Essa chuvinha é falsa aí também.
+
+382
+00:20:37,100 --> 00:20:38,900
+Tá meio estranho o movimento dela.
+
+383
+00:20:38,920 --> 00:20:40,260
+Tem várias coisas que eu não gostei.
+
+384
+00:20:40,300 --> 00:20:42,220
+O que eu posso fazer agora dentro desse processo
+
+385
+00:20:42,220 --> 00:20:44,500
+é agora vir nesse prompt.
+
+386
+00:20:46,748 --> 00:20:48,808
+E editar, por exemplo, aqui no movimento.
+
+387
+00:20:51,196 --> 00:20:51,956
+Deixa eu pegar aqui, ó.
+
+388
+00:20:52,036 --> 00:20:54,236
+Caminhando pela calçada molhada.
+
+389
+00:20:55,636 --> 00:20:56,016
+Indo...
+
+390
+00:20:58,300 --> 00:20:59,720
+indo em direção...
+
+391
+00:21:02,684 --> 00:21:04,084
+Ao centro da...
+
+392
+00:21:05,596 --> 00:21:08,576
+imagem, ou melhor ainda, do que indo em direção ao centro da imagem.
+
+393
+00:21:08,936 --> 00:21:12,636
+Aqui vocês vão ver que a habilidade de comunicação de vocês vai fazer toda a diferença
+
+394
+00:21:12,636 --> 00:21:14,236
+na hora de descrever movimentos.
+
+395
+00:21:14,496 --> 00:21:16,476
+Porque às vezes eu coloco indo para o centro da imagem,
+
+396
+00:21:16,516 --> 00:21:19,036
+ela vem para o centro aqui mesmo e fica estranho, né?
+
+397
+00:21:20,896 --> 00:21:26,216
+Eu vou colocar aqui, ó, caminhando pela calçada molhada, sumindo no horizonte.
+
+398
+00:21:27,868 --> 00:21:29,048
+Ou virando...
+
+399
+00:21:30,428 --> 00:21:32,408
+Virando na esquina.
+
+400
+00:21:33,756 --> 00:21:34,376
+direita.
+
+401
+00:21:38,396 --> 00:21:39,996
+Fiquei querendo colocar uma crase aqui, mas não deu.
+
+402
+00:21:40,096 --> 00:21:40,476
+É assim.
+
+403
+00:21:41,436 --> 00:21:44,156
+Pego isso aqui agora, copio, colo aqui.
+
+404
+00:21:45,564 --> 00:21:49,864
+Pego o prompt em inglês, guardo aqui, eu sempre gosto de guardar, mas eu fiz um ajuste mínimo.
+
+405
+00:21:50,224 --> 00:21:53,444
+Às vezes também, quando eu estou fazendo o processo, eu gosto de fazer o quê?
+
+406
+00:21:53,484 --> 00:21:56,604
+Eu venho aqui e coloco onde que eu mudei.
+
+407
+00:22:00,892 --> 00:22:04,352
+Que aí eu vou vendo o quanto que o prompt foi mudando à medida que eu fui fazendo o teste, beleza?
+
+408
+00:22:05,412 --> 00:22:07,012
+Então vamos colocar aqui de novo agora.
+
+409
+00:22:07,852 --> 00:22:08,652
+Gera a próxima.
+
+410
+00:22:08,872 --> 00:22:12,272
+E vamos ver o resultado que a gente teve usando aqui o VELTREE.
+
+411
+00:22:12,452 --> 00:22:14,532
+Ah, eu quero usar um outro diferente também.
+
+412
+00:22:14,612 --> 00:22:15,972
+Quero usar aqui o CLING.
+
+413
+00:22:16,012 --> 00:22:18,992
+Vamos usar o CLING 3.0 aqui.
+
+414
+00:22:20,284 --> 00:22:22,504
+Pedir para rodar, ele já coloca na fila para a gente.
+
+415
+00:22:23,224 --> 00:22:25,224
+E beleza, quero usar o Seedence também.
+
+416
+00:22:25,464 --> 00:22:28,084
+Você pode vir cá e já pedir para ele gerar também,
+
+417
+00:22:28,184 --> 00:22:29,764
+que já vai para a fila aqui, certo?
+
+418
+00:22:30,384 --> 00:22:32,364
+Então, enquanto ele está fazendo aqui para a gente,
+
+419
+00:22:32,464 --> 00:22:35,504
+a estrutura do prompt em si não muda muito disso.
+
+420
+00:22:35,604 --> 00:22:36,184
+Essa é a verdade.
+
+421
+00:22:36,284 --> 00:22:41,304
+Você tem enquadramento, sujeito, ação, ambiente, iluminação e estilo.
+
+422
+00:22:41,384 --> 00:22:42,504
+Isso é uma prática global.
+
+423
+00:22:43,544 --> 00:22:45,844
+Muita gente está utilizando nessa sequência também.
+
+424
+00:22:46,364 --> 00:22:49,704
+É bem parecido com geração de imagens.
+
+425
+00:22:50,284 --> 00:22:54,004
+E aí vamos falar um pouquinho sobre prompt também na questão do vocabulário.
+
+426
+00:22:54,004 --> 00:22:58,844
+Igual eu falei aqui, vocês vão ser colocados à prova na capacidade de comunicação de vocês.
+
+427
+00:22:59,144 --> 00:23:04,104
+Sempre que você tentar gerar um vídeo ou uma imagem e não estiver chegando no resultado que você quer,
+
+428
+00:23:04,324 --> 00:23:06,524
+a culpa provavelmente é sua.
+
+429
+00:23:07,264 --> 00:23:12,024
+Se você pensar desse jeito, pelo menos, você tem a chance de fazer alguma coisa para mudar o resultado.
+
+430
+00:23:12,924 --> 00:23:19,584
+Mas provavelmente o problema vem de você não descrever com precisão, com especificidade,
+
+431
+00:23:19,584 --> 00:23:22,284
+o que você quer, e aí a IA precisa tomar decisões sozinhas,
+
+432
+00:23:22,324 --> 00:23:25,384
+e eventualmente essas decisões não são o que você gostaria que fosse.
+
+433
+00:23:25,624 --> 00:23:27,804
+Então vamos olhar aqui alguns erros comuns.
+
+434
+00:23:27,884 --> 00:23:30,564
+Primeiro, prompt muito vago, uma mulher bonita.
+
+435
+00:23:30,644 --> 00:23:31,804
+O que é uma mulher bonita?
+
+436
+00:23:31,924 --> 00:23:36,004
+Às vezes o que você acha uma mulher bonita é diferente do que o Google acha uma mulher bonita.
+
+437
+00:23:36,184 --> 00:23:39,404
+Isso pode inclusive criar estereótipos desnecessários.
+
+438
+00:23:39,484 --> 00:23:45,064
+É melhor você literalmente descrever os detalhes ali da personagem,
+
+439
+00:23:45,264 --> 00:23:49,124
+de como você visualiza ela, desde o cabelo, se precisar,
+
+440
+00:23:49,124 --> 00:23:51,044
+dependendo, às vezes é um stream close-up
+
+441
+00:23:51,044 --> 00:23:53,084
+então vai pegar o olho, descreve o olho
+
+442
+00:23:53,084 --> 00:23:54,584
+fala que é um olho asiático
+
+443
+00:23:54,584 --> 00:23:56,184
+fala que é uma mulher
+
+444
+00:23:57,524 --> 00:23:57,984
+que
+
+445
+00:24:01,084 --> 00:24:05,924
+É uma mulher que mora na China, ou uma chinesa, ou...
+
+446
+00:24:05,924 --> 00:24:09,264
+Isso é um pouco difícil, né, quando eu vou falando isso aqui,
+
+447
+00:24:09,324 --> 00:24:13,024
+porque acaba caindo nos estereótipos, a gente tem que tomar esses cuidados,
+
+448
+00:24:13,744 --> 00:24:19,664
+mas, às vezes, o que você precisa é tentar ser mais preciso na hora de descrever os detalhes,
+
+449
+00:24:19,704 --> 00:24:23,404
+ou, o que é melhor de tudo, usar já uma referência de personagem,
+
+450
+00:24:24,104 --> 00:24:25,324
+que é o que a gente vai usar aqui.
+
+451
+00:24:25,804 --> 00:24:29,104
+Quanto mais você tenta descrever, mais constrangido você fica.
+
+452
+00:24:29,104 --> 00:24:36,864
+Às vezes você fala assim, eu quero uma mulher preta, ou uma mulher negra, eu quero uma mulher asiática.
+
+453
+00:24:37,324 --> 00:24:43,524
+Olha só, quando eu tento descrever, eu já me sinto que eu estou estereotipando, entendeu?
+
+454
+00:24:43,664 --> 00:24:47,704
+E talvez não é o melhor jeito de fazer as coisas aqui, eu acredito que tem jeitos mais inteligentes,
+
+455
+00:24:47,724 --> 00:24:52,064
+principalmente construindo personagens de referência, que a gente vai ver já já aqui,
+
+456
+00:24:52,124 --> 00:24:58,744
+é uma técnica muito boa para que você construa o personagem e depois coloque ele dentro de uma cena animada.
+
+457
+00:24:58,744 --> 00:25:03,464
+Mas, definitivamente, usar termos vagos como uma mulher bonita, um homem bonito,
+
+458
+00:25:04,764 --> 00:25:07,764
+ou então nos coloca uma pessoa legal.
+
+459
+00:25:09,308 --> 00:25:11,928
+Como que você representa isso visualmente?
+
+460
+00:25:12,028 --> 00:25:12,808
+É muito difícil, tá?
+
+461
+00:25:12,988 --> 00:25:14,608
+Então, olha um exemplo aqui, preciso.
+
+462
+00:25:14,968 --> 00:25:17,728
+Uma mulher de 30 anos, cabelo castanho, curto,
+
+463
+00:25:17,768 --> 00:25:20,448
+usando um casaco azul marinho com botões dourados.
+
+464
+00:25:20,608 --> 00:25:21,688
+Há um jeito de fazer isso.
+
+465
+00:25:22,808 --> 00:25:26,288
+Outro ponto que é vago, colocar câmera cinematográfica.
+
+466
+00:25:26,308 --> 00:25:27,928
+O que é uma câmera cinematográfica?
+
+467
+00:25:27,988 --> 00:25:30,228
+Existem N tipos de câmeras diferentes.
+
+468
+00:25:30,648 --> 00:25:34,788
+Inclusive, o Freepik lançou recentemente o modo cinematográfico aqui.
+
+469
+00:25:35,068 --> 00:25:37,148
+Eu vou duplicar ele aqui pra mostrar pra vocês,
+
+470
+00:25:37,188 --> 00:25:38,268
+antes da gente ir pros vídeos.
+
+471
+00:25:39,528 --> 00:25:42,588
+Que basicamente, olha, se você vem aqui em imagens e coloca em...
+
+472
+00:25:42,588 --> 00:25:44,188
+Deixa eu ver aqui, gerar imagens.
+
+473
+00:25:44,748 --> 00:25:46,448
+Cadê o modo cinematográfico?
+
+474
+00:25:47,452 --> 00:25:48,472
+Não está aparecendo aqui.
+
+475
+00:25:50,268 --> 00:25:51,328
+Efeito cinema, esse aqui.
+
+476
+00:25:52,572 --> 00:25:54,992
+Aí você consegue ver tipos de câmera, olha que interessante.
+
+477
+00:25:55,292 --> 00:25:59,772
+Então tem câmera digital 35mm, Clean Cinema Pro,
+
+478
+00:26:00,172 --> 00:26:03,472
+cinema digital 70mm, cinema 70mm filme,
+
+479
+00:26:03,832 --> 00:26:09,412
+Lo-Fi Toy Camera, Camcorder 8mm, 35mm, Medium.
+
+480
+00:26:09,592 --> 00:26:13,092
+Aí tem aqui também tipo de câmera, de câmera não, de filme,
+
+481
+00:26:13,252 --> 00:26:18,612
+anamórfico, Prime Lens, outro anamórfico, vintage, asférico,
+
+482
+00:26:19,352 --> 00:26:23,992
+Prime Lens de novo, DSLR, enfim, vários tipos aqui.
+
+483
+00:26:24,452 --> 00:26:27,952
+Tipo de distância focal tem aqui também, que tem a ver com a lente,
+
+484
+00:26:27,972 --> 00:26:31,672
+abertura da câmera também, que tem a ver com desfoque de fundo, enfim.
+
+485
+00:26:33,308 --> 00:26:36,928
+Tudo isso aqui é legal você trabalhar na imagem primeiro
+
+486
+00:26:36,928 --> 00:26:39,288
+e depois você carrega a imagem de referência.
+
+487
+00:26:39,348 --> 00:26:42,008
+Porque se você descreve isso tudo para gerar o vídeo
+
+488
+00:26:42,008 --> 00:26:45,448
+e depois ainda tem que descrever movimento de câmera e de personagem,
+
+489
+00:26:46,308 --> 00:26:49,088
+é muita coisa num prompt e a chance de alucinar é muito grande.
+
+490
+00:26:49,888 --> 00:26:51,768
+Então tem que levar isso em consideração também.
+
+491
+00:26:51,908 --> 00:26:55,288
+E aí câmera cinematográfica é a mesma coisa que dizer tudo.
+
+492
+00:26:56,860 --> 00:26:59,080
+Tem vários tipos de câmeras cinematográficas.
+
+493
+00:26:59,260 --> 00:27:00,660
+Aí é melhor você colocar o quê?
+
+494
+00:27:00,700 --> 00:27:04,000
+Aqui tem, por exemplo, um tripé estático.
+
+495
+00:27:04,640 --> 00:27:07,440
+Aí tem aqui uma lente cinematográfica de 50 milímetros
+
+496
+00:27:07,440 --> 00:27:09,220
+e perspectiva na altura do olho.
+
+497
+00:27:09,460 --> 00:27:12,780
+Então, aqui já ficou muito mais específico o que a gente precisa.
+
+498
+00:27:14,120 --> 00:27:15,020
+Cinematográfico é ambíguo demais.
+
+499
+00:27:16,540 --> 00:27:18,200
+Evite também iluminação boa.
+
+500
+00:27:18,400 --> 00:27:19,480
+O que é uma iluminação boa?
+
+501
+00:27:19,720 --> 00:27:22,540
+Às vezes eu quero algo escuro, com uma luz dura.
+
+502
+00:27:22,920 --> 00:27:24,540
+E pra mim isso é uma iluminação boa.
+
+503
+00:27:25,852 --> 00:27:27,452
+Então, aqui ele colocou, né,
+
+504
+00:27:27,472 --> 00:27:29,472
+lanterna mágica side lighting.
+
+505
+00:27:30,472 --> 00:27:33,472
+Então, uma luz lateral de...
+
+506
+00:27:33,972 --> 00:27:35,412
+Aí ele colocou lanterna mágica aqui,
+
+507
+00:27:35,452 --> 00:27:37,012
+eu achei estranho o prompt sair desse jeito,
+
+508
+00:27:37,152 --> 00:27:39,532
+mas 3.200 kelvins.
+
+509
+00:27:39,812 --> 00:27:43,952
+Aí você tem aqui uma iluminação de tungstênio quente
+
+510
+00:27:43,952 --> 00:27:47,352
+e o triângulo de Rembrandt com uma luz,
+
+511
+00:27:48,492 --> 00:27:50,772
+com sombra, né, não uma luz não, com sombra.
+
+512
+00:27:51,452 --> 00:27:54,872
+Aqui eu fui muito mais preciso do que só iluminação boa.
+
+513
+00:27:54,872 --> 00:27:59,972
+Boa, aqui eu estou descrevendo exatamente como eu quero que a iluminação desenhe a cena para mim.
+
+514
+00:28:00,652 --> 00:28:01,172
+Certo?
+
+515
+00:28:01,392 --> 00:28:04,232
+Outro vago, ele caminha e olha ao redor.
+
+516
+00:28:06,204 --> 00:28:09,904
+Olha pra que lado, caminha pra qual direção, tudo isso vai ficando vago.
+
+517
+00:28:09,924 --> 00:28:10,944
+Aqui, melhor, olha só.
+
+518
+00:28:11,104 --> 00:28:15,564
+Então, ele caminha de maneira cautelosa, né? Cautelosamente.
+
+519
+00:28:17,884 --> 00:28:20,584
+através de uma pedra.
+
+520
+00:28:24,892 --> 00:28:30,632
+E aí ele está segurando um escudo e olhando para o sol.
+
+521
+00:28:31,892 --> 00:28:34,292
+Já ficou um pouco mais específico aqui também.
+
+522
+00:28:35,032 --> 00:28:37,712
+Ou outro exemplo aqui, estilo de filme.
+
+523
+00:28:37,992 --> 00:28:39,512
+O que é estilo de filme?
+
+524
+00:28:39,652 --> 00:28:40,492
+Também é vago.
+
+525
+00:28:40,612 --> 00:28:42,672
+Melhor do que isso, é fotorrealístico,
+
+526
+00:28:43,712 --> 00:28:46,612
+um ruído anamórfico de 35 milímetros,
+
+527
+00:28:46,692 --> 00:28:49,452
+e dirigido por Denis Villeneuve.
+
+528
+00:28:49,652 --> 00:28:53,412
+Que inclusive vai sair esse final do ano aí, na parte 3.
+
+529
+00:28:53,512 --> 00:28:54,352
+Mas bem legal também.
+
+530
+00:28:54,352 --> 00:28:56,392
+Bem, aqui já ficou mais específico.
+
+531
+00:28:56,872 --> 00:28:59,492
+Aqui ainda, dirigido por Denis Villeneuve,
+
+532
+00:28:59,612 --> 00:29:02,032
+eu não gosto muito de fazer prompts assim,
+
+533
+00:29:02,112 --> 00:29:03,772
+colocando nomes de diretores,
+
+534
+00:29:03,892 --> 00:29:06,032
+porque isso ainda é muito amplo.
+
+535
+00:29:06,632 --> 00:29:11,172
+Você não resume um diretor num estilo de vídeo.
+
+536
+00:29:11,352 --> 00:29:14,152
+Eu prefiro muito mais estudar a técnica dele
+
+537
+00:29:14,152 --> 00:29:16,952
+e descrever a técnica dele no prompt.
+
+538
+00:29:17,152 --> 00:29:19,312
+Tende a ter resultados mais interessantes.
+
+539
+00:29:19,952 --> 00:29:22,772
+Vamos dar uma olhada aqui nos testes que a gente tinha feito.
+
+540
+00:29:22,772 --> 00:29:26,672
+Olha, agora, nesse aqui a gente teve um movimento de câmera que a gente nem pediu.
+
+541
+00:29:27,932 --> 00:29:29,812
+Mas ela fez. Como eu não pedi,
+
+542
+00:29:29,812 --> 00:29:31,232
+ela pode tomar a decisão que ela quiser.
+
+543
+00:29:31,432 --> 00:29:32,512
+Eu não falei que não podia.
+
+544
+00:29:33,980 --> 00:29:35,300
+Vai de melhorar o prompt também.
+
+545
+00:29:35,620 --> 00:29:37,480
+E nesse caso aqui, essa daqui
+
+546
+00:29:38,240 --> 00:29:39,820
+falou, ela virou na esquina, né?
+
+547
+00:29:39,860 --> 00:29:41,500
+A câmera que virou.
+
+548
+00:29:41,520 --> 00:29:43,520
+Ela virou de um jeito meio robótico e estranho.
+
+549
+00:29:43,520 --> 00:29:45,520
+Não gostei muito. Esse é o do Seedence, se eu não me engano.
+
+550
+00:29:45,520 --> 00:29:45,700
+É isso.
+
+551
+00:29:47,068 --> 00:29:48,008
+Aí tem essa outra aqui.
+
+552
+00:29:48,268 --> 00:29:49,548
+Ah, tem um detalhe, né?
+
+553
+00:29:49,628 --> 00:29:51,468
+Eu refiz em Extreme Close-Up.
+
+554
+00:29:51,548 --> 00:29:54,588
+Aí que tem um negócio legal, então, pra gente avaliar.
+
+555
+00:29:54,848 --> 00:29:56,948
+Eu troquei aqui no Prompt e esqueci de voltar.
+
+556
+00:29:57,688 --> 00:30:00,108
+Se eu falo que é Extreme Close-Up,
+
+557
+00:30:00,128 --> 00:30:02,128
+então vai chegar mais de perto no rosto.
+
+558
+00:30:02,368 --> 00:30:03,708
+Só que tem que mostrar o chão.
+
+559
+00:30:05,020 --> 00:30:08,020
+E aí, se tem que mostrar o chão e tem que mostrar o rosto,
+
+560
+00:30:08,520 --> 00:30:10,160
+vai ter que ter um movimento de câmera.
+
+561
+00:30:11,280 --> 00:30:14,400
+Então, aqui começou mostrando o chão, depois foi para o rosto.
+
+562
+00:30:14,520 --> 00:30:17,100
+E mesmo assim, a gente não tem um Extreme Close-Up aqui.
+
+563
+00:30:17,340 --> 00:30:21,480
+Porque isso também vai da decisão da lente e da câmera que está sendo utilizada aqui.
+
+564
+00:30:21,560 --> 00:30:25,600
+Porque se eu vou mostrar o chão e depois vou mostrar o rosto,
+
+565
+00:30:25,720 --> 00:30:30,760
+se eu coloco uma câmera para foco mesmo, de Extreme Close-Up,
+
+566
+00:30:30,760 --> 00:30:34,020
+uma lente que é para capturar mais detalhes,
+
+567
+00:30:34,020 --> 00:30:37,060
+o movimento vai ficar muito desfocado e errado também.
+
+568
+00:30:37,160 --> 00:30:40,280
+Se você já trabalhou com alguma câmera e já fez isso,
+
+569
+00:30:40,360 --> 00:30:44,860
+se você tem uma lente que é um plano muito detalhe,
+
+570
+00:30:45,620 --> 00:30:46,780
+ela vai mover muito rápido,
+
+571
+00:30:46,940 --> 00:30:48,620
+porque ela vai pegando detalhe, detalhe, detalhe.
+
+572
+00:30:48,620 --> 00:30:51,380
+E é até mais difícil de você controlar o movimento de câmera.
+
+573
+00:30:51,700 --> 00:30:54,580
+Então aqui, a escolha do enquadramento,
+
+574
+00:30:54,780 --> 00:30:57,040
+da câmera utilizada também, da lente,
+
+575
+00:30:57,540 --> 00:30:59,200
+a escolha entre aspas, né?
+
+576
+00:30:59,280 --> 00:31:01,220
+Mas essa escolha da IA aqui
+
+577
+00:31:01,220 --> 00:31:04,900
+é justamente pra tentar contemplar tudo que eu pedi pra ela no vídeo.
+
+578
+00:31:05,240 --> 00:31:07,280
+Então, por isso, gerou esse resultado.
+
+579
+00:31:07,400 --> 00:31:11,100
+Inclusive, tem essa onda de água ali que ficou toda errada.
+
+580
+00:31:11,340 --> 00:31:13,980
+Ficou parecendo que ela flutuou no passo dela ali.
+
+581
+00:31:15,100 --> 00:31:18,000
+Nesse caso aqui também, ele pegou um pouco mais detalhe do rosto,
+
+582
+00:31:18,700 --> 00:31:22,060
+a esquina existe, né, mas ela escondeu na esquina,
+
+583
+00:31:22,100 --> 00:31:24,980
+e às vezes eu não quero que ela esconda na esquina, eu quero outra coisa, né.
+
+584
+00:31:25,080 --> 00:31:28,440
+Então, e outro cabelo, tá vendo? Perdeu consistência aqui também,
+
+585
+00:31:28,920 --> 00:31:30,840
+usou outro modelo, tem outra consistência.
+
+586
+00:31:31,160 --> 00:31:35,600
+Mas aqui ficou até mais realista, né, eu gostei mais do resultado dessa do que das outras,
+
+587
+00:31:35,640 --> 00:31:39,160
+claro que tá em 720p, depois dá pra rodar aqui pra colocar em 4K,
+
+588
+00:31:39,620 --> 00:31:42,540
+mas eu gostei do resultado final e não é pra menos, né,
+
+589
+00:31:42,540 --> 00:31:44,580
+do Kling aqui, que tem entregado um resultado
+
+590
+00:31:44,580 --> 00:31:46,140
+visual melhor do que os
+
+591
+00:31:46,660 --> 00:31:48,580
+concorrentes dele. E tem aqui o Vell
+
+592
+00:31:48,580 --> 00:31:50,580
+de novo, entregando aqui
+
+593
+00:31:51,640 --> 00:31:52,640
+o vídeo do
+
+594
+00:31:52,640 --> 00:31:54,060
+Vell, tem cara de vídeo do Vell, né?
+
+595
+00:31:54,320 --> 00:31:56,460
+Um pouquinho massinha, assim, não sei se vocês
+
+596
+00:31:56,460 --> 00:31:57,480
+conseguem perceber também.
+
+597
+00:31:59,068 --> 00:32:01,788
+Certo, então o que a gente aprendeu até aqui, por enquanto?
+
+598
+00:32:01,968 --> 00:32:04,928
+Que quanto mais específico você for, melhor.
+
+599
+00:32:05,108 --> 00:32:07,288
+E ser específico não significa prompt gigante,
+
+600
+00:32:07,328 --> 00:32:09,468
+significa escolher as palavras certas com precisão.
+
+601
+00:32:09,588 --> 00:32:13,188
+A ordem dos elementos no prompt também importa muito,
+
+602
+00:32:13,228 --> 00:32:14,368
+tem que levar isso em consideração.
+
+603
+00:32:14,628 --> 00:32:16,528
+E também tem algumas regrinhas de ouro.
+
+604
+00:32:16,848 --> 00:32:18,928
+Primeira regra de ouro, câmera sempre primeiro.
+
+605
+00:32:19,168 --> 00:32:21,448
+Quando a gente fala de vídeo, porque é igual eu falei,
+
+606
+00:32:21,568 --> 00:32:26,528
+lente e câmera definem a composição, definem o enquadramento.
+
+607
+00:32:26,528 --> 00:32:45,128
+Se você tem uma lente de extreme close-up, não dá pra você ficar colocando ali movimentos, sei lá, eu quero um extreme close-up que depois do extreme close-up eu quero que saia de extreme close-up pra wild screen, wild shot.
+
+608
+00:32:49,308 --> 00:32:53,388
+E eu quero um movimento de câmera fluido entre eles, sem zoom.
+
+609
+00:32:55,132 --> 00:33:00,012
+Como assim sem zoom, né? Só manual assim? Não tem como, porque a lente não faria isso.
+
+610
+00:33:00,432 --> 00:33:03,472
+A IA vai fazer, porque é uma IA, não é uma lente.
+
+611
+00:33:03,872 --> 00:33:06,692
+Então, a IA vai conseguir replicar aquele movimento,
+
+612
+00:33:07,192 --> 00:33:12,092
+só que pode ser que fique estranho ou incoerente, dependendo dos elementos que você coloca ali.
+
+613
+00:33:12,412 --> 00:33:15,812
+Então, quando você for escrever o prompt também, já pensa.
+
+614
+00:33:16,032 --> 00:33:17,952
+Eu quero uma cena aberta.
+
+615
+00:33:19,068 --> 00:33:23,788
+E aí você pensa, cena aberta, qual é a melhor lente que eu coloco aqui,
+
+616
+00:33:24,408 --> 00:33:27,548
+o melhor enquadramento, a melhor iluminação para uma cena mais aberta?
+
+617
+00:33:27,608 --> 00:33:30,828
+Ah, eu quero uma cena mais detalhe ali, extreme close-up.
+
+618
+00:33:30,968 --> 00:33:33,748
+Qual que é a melhor lente que é mais adequada para essa cena?
+
+619
+00:33:33,848 --> 00:33:39,628
+Se você coloca coerência no seu prompt, você tende a ter resultados melhores também.
+
+620
+00:33:39,928 --> 00:33:43,568
+Então, primeiro, vem a câmera, regra da ação única,
+
+621
+00:33:43,788 --> 00:33:47,348
+então não fica pedindo várias ações diferentes na mesma cena,
+
+622
+00:33:47,348 --> 00:33:50,628
+A cena aumenta muito a chance da Yaa fazer umas loucuras.
+
+623
+00:33:51,608 --> 00:33:54,128
+Cena de luta é um grande desafio.
+
+624
+00:33:54,388 --> 00:33:56,368
+Mas quando você for fazer cena de luta,
+
+625
+00:33:56,468 --> 00:33:58,928
+tenta imaginar a luta em várias cenas diferentes.
+
+626
+00:33:59,708 --> 00:34:02,988
+Então a primeira cena pode ser um cara dando um gancho de direita.
+
+627
+00:34:03,048 --> 00:34:05,588
+Ou um cara dando um jab de esquerda.
+
+628
+00:34:05,648 --> 00:34:06,668
+Você pode falar isso.
+
+629
+00:34:06,788 --> 00:34:08,608
+Jab de esquerda e gancho de direita.
+
+630
+00:34:08,628 --> 00:34:09,448
+Isso é uma ação.
+
+631
+00:34:09,488 --> 00:34:11,168
+É um combo de ação, mas é uma ação simples.
+
+632
+00:34:11,268 --> 00:34:11,648
+Então vai.
+
+633
+00:34:11,848 --> 00:34:12,988
+Aí ele faz essa.
+
+634
+00:34:13,288 --> 00:34:15,328
+Aí depois já imagina um outro corte.
+
+635
+00:34:16,048 --> 00:34:16,488
+Entende?
+
+636
+00:34:16,488 --> 00:34:18,308
+pode ser um corte na visão do outro personagem
+
+637
+00:34:18,308 --> 00:34:20,468
+que está na luta. Isso é um jeito interessante
+
+638
+00:34:20,468 --> 00:34:21,748
+também de cuidar para que
+
+639
+00:34:21,748 --> 00:34:24,668
+você tenha mais precisão na saída
+
+640
+00:34:24,668 --> 00:34:26,088
+do vídeo que você está fazendo.
+
+641
+00:34:27,028 --> 00:34:28,608
+Temperatura Kelvin obrigatória.
+
+642
+00:34:28,608 --> 00:34:30,248
+Quando você coloca a temperatura Kelvin,
+
+643
+00:34:30,448 --> 00:34:32,348
+isso eu expliquei para vocês no prompt de
+
+644
+00:34:32,348 --> 00:34:34,368
+imagem, tá? Quando você vai trabalhar com
+
+645
+00:34:34,368 --> 00:34:36,348
+input de imagem é mais fácil, mas se você
+
+646
+00:34:36,348 --> 00:34:38,408
+for fazer isso no texto, isso ajuda você
+
+647
+00:34:38,408 --> 00:34:40,468
+a definir a temperatura da cena,
+
+648
+00:34:40,688 --> 00:34:42,228
+beleza? Tem no manual
+
+649
+00:34:42,228 --> 00:34:44,328
+de iluminação, vou pedir para a equipe deixar
+
+650
+00:34:44,328 --> 00:34:46,008
+embaixo para você, e
+
+651
+00:34:46,008 --> 00:34:50,148
+e no manual de iluminação você consegue ver lá os Kelvins também,
+
+652
+00:34:50,248 --> 00:34:51,468
+e o tipo de resultado diferente.
+
+653
+00:34:52,068 --> 00:34:54,668
+Lembrando, se tiver alguém assistindo aqui ao vivo,
+
+654
+00:34:54,768 --> 00:34:57,808
+os materiais ficam disponíveis na gravação
+
+655
+00:34:57,808 --> 00:35:00,468
+para quem tem acesso à assinatura da Overlens, beleza?
+
+656
+00:35:02,012 --> 00:35:03,792
+Comandos afirmativos não negativos.
+
+657
+00:35:03,952 --> 00:35:07,232
+Com imagem, você até consegue fazer prompt negativo.
+
+658
+00:35:08,072 --> 00:35:09,732
+Funciona, dá resultados legais.
+
+659
+00:35:09,892 --> 00:35:12,292
+Para vídeo, cara, dá errado.
+
+660
+00:35:13,272 --> 00:35:14,872
+Com imagem já não é a melhor prática.
+
+661
+00:35:14,932 --> 00:35:18,532
+Sempre que possível, prompt de imagem também tenta prompt afirmativos.
+
+662
+00:35:18,772 --> 00:35:22,212
+Mas até você consegue usar prompt negativo em imagem é mais simples.
+
+663
+00:35:22,452 --> 00:35:25,112
+Com vídeo, aquele efeito do elefante,
+
+664
+00:35:25,112 --> 00:35:27,072
+quem viu a trilha de imagem vai lembrar disso,
+
+665
+00:35:27,192 --> 00:35:30,632
+que eu falo assim, é uma savana sem um elefante,
+
+666
+00:35:30,632 --> 00:35:32,452
+ou não coloque um elefante na savana.
+
+667
+00:35:32,492 --> 00:35:34,772
+Aí ela vai lá e coloca o elefante na savana.
+
+668
+00:35:35,312 --> 00:35:37,112
+Algumas IAs de imagem mais avançadas,
+
+669
+00:35:37,152 --> 00:35:39,992
+elas até tiram o elefante da savana.
+
+670
+00:35:40,012 --> 00:35:40,872
+Ele não aparece lá.
+
+671
+00:35:41,072 --> 00:35:42,152
+Mas quando é vídeo,
+
+672
+00:35:42,252 --> 00:35:43,852
+lembra que o vídeo é um monte de imagem
+
+673
+00:35:43,852 --> 00:35:45,632
+e imagens interpoladas,
+
+674
+00:35:45,812 --> 00:35:47,932
+a chance de alguma daquelas imagens
+
+675
+00:35:47,932 --> 00:35:49,792
+aparecer o elefante ali é grande.
+
+676
+00:35:51,420 --> 00:35:55,320
+A palavra vai ter um peso, substantivos e adjetivos têm mais pesos
+
+677
+00:35:55,320 --> 00:35:57,540
+do que palavras negativas, como um não, por exemplo.
+
+678
+00:35:58,480 --> 00:36:01,000
+Então, evite falar assim, não faça isso.
+
+679
+00:36:01,180 --> 00:36:02,880
+É melhor você afirmar, faça isso.
+
+680
+00:36:03,060 --> 00:36:05,700
+E ela vai fazer mais focado no que você falou pra ela fazer.
+
+681
+00:36:06,680 --> 00:36:10,020
+Evite descritores vagos, a gente já falou aqui, né, da precisão.
+
+682
+00:36:10,120 --> 00:36:13,060
+Não acumule cenas distintas.
+
+683
+00:36:13,320 --> 00:36:17,140
+Então, pensa o seguinte, o prompt, não vai o roteiro todo no prompt pra você.
+
+684
+00:36:17,260 --> 00:36:20,580
+Ele é cenas, são quadros, momentos específicos.
+
+685
+00:36:20,580 --> 00:36:22,040
+e você vai montando um monte cada vez.
+
+686
+00:36:22,460 --> 00:36:25,780
+Tem até técnicas pra pedir múltiplos agentes
+
+687
+00:36:25,780 --> 00:36:28,420
+pra cada um montar uma cena e no final você tem um roteiro inteiro,
+
+688
+00:36:28,620 --> 00:36:31,920
+mas você tem que entender que cada agente vai trabalhar um trechinho daquele vídeo.
+
+689
+00:36:32,160 --> 00:36:32,600
+Beleza?
+
+690
+00:36:32,860 --> 00:36:34,000
+Leva isso em consideração.
+
+691
+00:36:34,920 --> 00:36:36,400
+Exemplos de prompts básicos.
+
+692
+00:36:36,680 --> 00:36:38,300
+Retrato urbano, rua à noite.
+
+693
+00:36:38,480 --> 00:36:40,980
+Esse é o nível iniciante, urbano, neo-noir.
+
+694
+00:36:41,180 --> 00:36:44,680
+Então aqui tem um medium shot, lente 35mm, altura do olho,
+
+695
+00:36:45,400 --> 00:36:47,980
+uma mulher de 28 anos com...
+
+696
+00:36:47,980 --> 00:36:51,740
+Essa aqui é o que a gente viu agora, a gente acabou de usar esse daqui.
+
+697
+00:36:51,920 --> 00:36:52,580
+Vamos ver outro diferente.
+
+698
+00:36:52,840 --> 00:36:54,300
+Natureza, cachoeira ou amanhecer.
+
+699
+00:36:54,700 --> 00:36:57,080
+Iniciante, natureza e paisagem.
+
+700
+00:36:57,200 --> 00:37:03,320
+Então tem Wild Establishing Shot, 24mm, Wide Angle, ângulo aberto.
+
+701
+00:37:03,620 --> 00:37:06,560
+Aí aqui tem um Low Angle Looking Up.
+
+702
+00:37:06,760 --> 00:37:08,160
+Aqui tá falando do personagem.
+
+703
+00:37:08,260 --> 00:37:12,360
+Daria pra deixar aqui um pouco mais específico também, se é o personagem ou a câmera.
+
+704
+00:37:13,300 --> 00:37:15,680
+Sem humanos, sem sujeito humano.
+
+705
+00:37:15,680 --> 00:37:20,760
+só que nesse caso aqui esse prompt tem negativo, então não é um bom prompt, fazendo uma análise aqui,
+
+706
+00:37:20,860 --> 00:37:23,260
+é melhor não falar que tem um humano na cena.
+
+707
+00:37:24,732 --> 00:37:29,632
+Aí tem uma cachoeira caindo aqui numa floresta, numa...
+
+708
+00:37:33,412 --> 00:37:35,792
+Como que eu vou descrever isso em português, cara?
+
+709
+00:37:35,912 --> 00:37:40,392
+Eu tô imaginando a cena aqui, mas tem uma floresta assim com um meio,
+
+710
+00:37:40,552 --> 00:37:42,492
+como se fosse um laguinho.
+
+711
+00:37:45,308 --> 00:37:49,008
+A floresta densa tropical, manhã, com uma luz...
+
+712
+00:37:50,604 --> 00:37:52,344
+filtrada através de um eu não sei o que, que é um canopy.
+
+713
+00:37:53,820 --> 00:38:05,580
+5.600 kelvins, luz de área balanceada com raios dourados quentes aqui de 3.200 kelvins, volumétricos.
+
+714
+00:38:06,280 --> 00:38:13,280
+Documentário de natureza fotorrealística, como o BBC Planet Earth Star.
+
+715
+00:38:14,588 --> 00:38:17,008
+Daria para a gente fazer esse, esse aqui tem alguns ajustes,
+
+716
+00:38:17,008 --> 00:38:20,128
+é melhor não colocar isso aqui do que colocar no human subject,
+
+717
+00:38:20,448 --> 00:38:23,368
+é melhor você não colocar nada assim, aí já não aparece um humano,
+
+718
+00:38:23,548 --> 00:38:27,668
+vou colocar lá para gerar aqui, por enquanto só testes diretos aqui no Freepeek,
+
+719
+00:38:27,668 --> 00:38:31,608
+mas você pode fazer isso em qualquer AI de geração de vídeo,
+
+720
+00:38:31,708 --> 00:38:33,368
+para você experimentar.
+
+721
+00:38:34,844 --> 00:38:35,944
+Então, deixa ele gerando ela aqui.
+
+722
+00:38:36,604 --> 00:38:45,004
+Mais um outro exemplo, então, uma gravação, um take estático, lente de 50 milímetros na altura do olho.
+
+723
+00:38:45,164 --> 00:38:48,224
+Aí tem aqui um homem de 40 anos com...
+
+724
+00:38:50,012 --> 00:38:54,252
+Um terno azul, um azul nave, aquele azul mais fechado, escuro.
+
+725
+00:38:56,348 --> 00:38:57,588
+em uma mesa de vidro.
+
+726
+00:38:58,088 --> 00:39:00,488
+Aí ele está escrevendo no notebook dele
+
+727
+00:39:00,488 --> 00:39:02,568
+com concentração, focado, né?
+
+728
+00:39:02,648 --> 00:39:03,848
+Focado com concentração.
+
+729
+00:39:04,528 --> 00:39:06,908
+Aí é um escritório minimalista moderno.
+
+730
+00:39:09,820 --> 00:39:12,860
+Aqui, Floor to Ceiling, não sei o que é, uma janela.
+
+731
+00:39:15,420 --> 00:39:16,900
+Pega do chão, alguma coisa assim.
+
+732
+00:39:17,060 --> 00:39:18,640
+Depois a gente pode traduzir ali também.
+
+733
+00:39:19,100 --> 00:39:22,560
+Aí na janela tem então os arranha-céus.
+
+734
+00:39:22,620 --> 00:39:24,480
+Uma cidade com arranha-céus no fundo.
+
+735
+00:39:25,820 --> 00:39:29,740
+5.600 kelvins, luz do dia limpa, vindo da janela,
+
+736
+00:39:29,740 --> 00:39:37,720
+e aqui um painel preenchido, sofisticado, acima da cabeça dele, alguma coisa assim.
+
+737
+00:39:37,820 --> 00:39:39,840
+Minha tradução literal aqui, né?
+
+738
+00:39:40,540 --> 00:39:44,820
+Hiperrealista, comercial e estética de fotografia astérica, comercial.
+
+739
+00:39:46,020 --> 00:39:48,160
+Então vamos colocar aqui pra gente ver também o resultado.
+
+740
+00:39:51,164 --> 00:39:52,124
+Girando para a gente aqui.
+
+741
+00:39:53,500 --> 00:39:54,740
+Enfim, tem vários prompts aqui.
+
+742
+00:39:56,124 --> 00:39:57,744
+que você pode experimentar também.
+
+743
+00:39:58,524 --> 00:40:00,324
+Alguns deles eu recomendo que você avalie,
+
+744
+00:40:00,384 --> 00:40:03,224
+pode ser que tenham falhas ali, que é legal você corrigir,
+
+745
+00:40:03,804 --> 00:40:06,544
+mas já são alguns pontos interessantes para levar em consideração.
+
+746
+00:40:06,644 --> 00:40:08,704
+A maioria dos prompts aqui são prompts iniciantes,
+
+747
+00:40:08,824 --> 00:40:10,944
+a gente vai chegar para os prompts mais avançados também.
+
+748
+00:40:11,724 --> 00:40:12,704
+A floresta, está vendo?
+
+749
+00:40:12,884 --> 00:40:14,964
+Aqui ele colocou a floresta certinha.
+
+750
+00:40:16,284 --> 00:40:19,484
+Com a cachoeira, as florestas em volta, tá vendo?
+
+751
+00:40:19,544 --> 00:40:20,164
+Com o laguinho.
+
+752
+00:40:21,384 --> 00:40:23,984
+Eu não sabia um outro jeito de descrever isso, né?
+
+753
+00:40:24,044 --> 00:40:24,464
+Mas tá aí.
+
+754
+00:40:24,764 --> 00:40:25,124
+Legal.
+
+755
+00:40:25,964 --> 00:40:28,264
+Imagem bacana aí, funcionou bem em todos os elementos da cena.
+
+756
+00:40:28,444 --> 00:40:30,844
+E aqui, no caso, funcionou mesmo eu falando ali, né?
+
+757
+00:40:30,864 --> 00:40:32,764
+No human subject.
+
+758
+00:40:33,184 --> 00:40:35,064
+Ele não colocou nenhum humano na cena.
+
+759
+00:40:35,224 --> 00:40:37,984
+Mas se eu não tivesse escrito isso também, funcionaria.
+
+760
+00:40:38,104 --> 00:40:41,224
+O do skyline tá avançando pra gente aqui.
+
+761
+00:40:42,264 --> 00:40:45,244
+Interação é a chave, então o primeiro resultado raramente é o final.
+
+762
+00:40:45,244 --> 00:40:47,124
+a máxima dos criadores de AI
+
+763
+00:40:47,124 --> 00:40:49,124
+altere apenas uma variável por vez
+
+764
+00:40:49,124 --> 00:40:51,184
+se a iluminação ficou plana, ajuste apenas
+
+765
+00:40:51,184 --> 00:40:53,484
+o bloco de luz, se o personagem distorceu
+
+766
+00:40:53,484 --> 00:40:55,064
+adicione mais atributos físicos
+
+767
+00:40:55,064 --> 00:40:57,184
+nunca reconstrua o prompt inteiro de uma vez
+
+768
+00:40:57,184 --> 00:40:59,384
+você perderá a referência do que já estava funcionando
+
+769
+00:40:59,384 --> 00:41:00,724
+por isso que eu recomendo pra vocês
+
+770
+00:41:00,724 --> 00:41:02,744
+irem fazendo isso aqui, vai
+
+771
+00:41:03,204 --> 00:41:04,504
+marcando o que você mudou
+
+772
+00:41:04,504 --> 00:41:06,784
+e aí você não vai perdendo o que está dando certo
+
+773
+00:41:06,784 --> 00:41:09,044
+e funcionando dentro do processo
+
+774
+00:41:09,044 --> 00:41:10,244
+isso aqui é uma
+
+775
+00:41:10,924 --> 00:41:13,324
+técnica simples que vai te ajudar a manter o controle
+
+776
+00:41:13,324 --> 00:41:15,404
+olho aqui do vídeo que você está gerando.
+
+777
+00:41:15,464 --> 00:41:17,224
+É claro que aqui também é só
+
+778
+00:41:17,224 --> 00:41:19,124
+o prompt simples, estou mostrando a estrutura
+
+779
+00:41:19,124 --> 00:41:21,044
+para você entender, recomendo que você
+
+780
+00:41:21,044 --> 00:41:23,124
+faça alguns testes aí, dá para fazer esse
+
+781
+00:41:23,124 --> 00:41:24,904
+mesmo teste aqui, direto no Gemini,
+
+782
+00:41:25,004 --> 00:41:26,264
+se eu coloco aqui
+
+783
+00:41:27,772 --> 00:41:29,092
+E deixo ele gerar, né?
+
+784
+00:41:29,312 --> 00:41:32,692
+Aqui eu já marquei como vídeo, então ele vai gerar um vídeo para mim.
+
+785
+00:41:32,772 --> 00:41:34,632
+Se você não marcar como vídeo, tá?
+
+786
+00:41:34,772 --> 00:41:35,752
+No gratuito não tem.
+
+787
+00:41:35,812 --> 00:41:40,052
+Se você não marca como vídeo aqui, ele vai provavelmente gerar uma imagem para você.
+
+788
+00:41:40,332 --> 00:41:42,332
+Então eu tenho que marcar vídeo aqui e ele vai fazer para mim.
+
+789
+00:41:42,512 --> 00:41:49,072
+Dá para fazer no Google AI aqui também, mas essas daqui a gente vai utilizar já já em outras aulas.
+
+790
+00:41:49,092 --> 00:41:50,272
+A gente segue junto para isso.
+
+791
+00:41:50,392 --> 00:41:51,172
+Vamos ver aqui então, ó.
+
+792
+00:41:54,364 --> 00:41:57,624
+A tela apareceu do outro lado, né? Horrível.
+
+793
+00:41:58,264 --> 00:41:59,684
+Isso aqui é um ótimo exemplo, né?
+
+794
+00:41:59,704 --> 00:42:01,964
+Você jogou o prompt, chegou esse resultado e você falou
+
+795
+00:42:01,964 --> 00:42:03,484
+nossa, ficou muito ruim, não gostei.
+
+796
+00:42:03,984 --> 00:42:05,904
+Algumas coisas que a gente já tem que levar em consideração.
+
+797
+00:42:06,004 --> 00:42:09,204
+Primeira delas, a gente não subiu nenhuma imagem de referência,
+
+798
+00:42:09,224 --> 00:42:12,964
+tá fazendo text to video, você tá dando um tiro no escuro no text to video, tá?
+
+799
+00:42:13,024 --> 00:42:14,884
+Então, já é um primeiro ponto aqui,
+
+800
+00:42:14,984 --> 00:42:17,044
+você vai ver que nas outras aulas a gente vai resolver isso.
+
+801
+00:42:17,504 --> 00:42:20,304
+Segunda coisa aqui, às vezes você gostou do cenário,
+
+802
+00:42:20,304 --> 00:42:23,504
+mas não gostou do personagem, não gostou do notebook que ele tá usando aqui.
+
+803
+00:42:23,504 --> 00:42:24,744
+O que você pode fazer?
+
+804
+00:42:25,304 --> 00:42:27,864
+Pegue esse prompt, coloca de vermelho aqui.
+
+805
+00:42:27,984 --> 00:42:30,344
+Na prática, você tem que fazer isso aqui.
+
+806
+00:42:32,220 --> 00:42:33,860
+Então, você está trabalhando um outro prompt agora.
+
+807
+00:42:34,680 --> 00:42:36,980
+Vou dar um zoom aqui para ficar mais fácil de você ver.
+
+808
+00:42:38,364 --> 00:42:45,304
+Beleza, então eu venho aqui, não gostei do personagem, posso colocar ele aqui de vermelho, a parte que eu não gostei.
+
+809
+00:42:45,804 --> 00:42:49,084
+Aqui também eu não gostei dele escrevendo no notebook.
+
+810
+00:42:51,036 --> 00:42:56,556
+Gostei do escritório, no fundo, tudo ali funcionou, a iluminação tá boa também, o restante ficou legal.
+
+811
+00:42:56,836 --> 00:42:58,396
+Essas foram as partes que eu não gostei.
+
+812
+00:42:58,476 --> 00:43:02,596
+O que eu faço agora? Eu trabalho e escrevo só essa parte aqui.
+
+813
+00:43:03,176 --> 00:43:07,516
+Ah, mas eu tinha que fazer isso em português pra depois traduzir, então o que você vai fazer?
+
+814
+00:43:07,656 --> 00:43:11,116
+Você vai traduzir aqui primeiro, pega o texto traduzido.
+
+815
+00:43:12,252 --> 00:43:17,712
+No texto traduzido, você vai vir aqui na parte que você não gostou, coloca de vermelho também.
+
+816
+00:43:18,332 --> 00:43:24,092
+E agora você vai apagar ela e escrever a parte que você mudou.
+
+817
+00:43:24,172 --> 00:43:25,712
+Então, aí vai da sua cabeça, né?
+
+818
+00:43:25,752 --> 00:43:26,972
+Você pode colocar aqui um homem.
+
+819
+00:43:28,348 --> 00:43:30,328
+digitando em seu notebook.
+
+820
+00:43:30,728 --> 00:43:31,588
+Vou simplificar.
+
+821
+00:43:31,768 --> 00:43:35,568
+A parte que eu simplifiquei, eu gosto de deixar azul, porque eu mudei ela.
+
+822
+00:43:36,148 --> 00:43:38,408
+Volto para cá, traduzo.
+
+823
+00:43:39,740 --> 00:43:41,620
+E é assim que a gente vai isolando variáveis
+
+824
+00:43:42,080 --> 00:43:44,100
+até chegar num resultado que nós queremos.
+
+825
+00:43:44,300 --> 00:43:46,740
+Só que, sempre é bom lembrar para vocês...
+
+826
+00:43:46,740 --> 00:43:47,560
+Ó, copiei o...
+
+827
+00:43:50,780 --> 00:43:52,000
+Copiei o português mesmo.
+
+828
+00:43:53,116 --> 00:43:55,556
+É sempre bom lembrar para vocês que aqui é o prompt básico,
+
+829
+00:43:55,616 --> 00:43:58,276
+a gente ainda vai trabalhar outros processos de imagem aqui
+
+830
+00:43:58,276 --> 00:43:59,736
+para ter um resultado mais legal, tá?
+
+831
+00:44:01,148 --> 00:44:06,028
+E aí eu poderia vir aqui e gerar de novo a cena e ver o resultado que eu vou ter aqui, certo?
+
+832
+00:44:06,228 --> 00:44:08,708
+O do Google aqui gerou para a gente, olha, seu vídeo está pronto.
+
+833
+00:44:10,460 --> 00:44:13,300
+O mesmo prompt, deixa eu ver se é o mesmo modelo.
+
+834
+00:44:13,940 --> 00:44:17,120
+Não, aqui está usando o Seedens, e aqui já é o...
+
+835
+00:44:18,716 --> 00:44:20,836
+o véu. Gostei
+
+836
+00:44:20,836 --> 00:44:22,176
+mais da digitação, tá muito
+
+837
+00:44:22,736 --> 00:44:24,136
+mais natural, né? Nossa!
+
+838
+00:44:24,876 --> 00:44:26,676
+Mil vezes mais natural que aquele ali
+
+839
+00:44:26,676 --> 00:44:27,256
+do Siddhans.
+
+840
+00:44:29,852 --> 00:44:34,932
+A gente tem uma boa imagem aqui, gostei do resultado dessa cena aqui, ficou boa.
+
+841
+00:44:35,272 --> 00:44:43,212
+Ainda tem o aspecto de IA aqui, para resolver essa estética de IA, a gente vai usar a imagem de referência.
+
+842
+00:44:43,392 --> 00:44:46,772
+Aí é outra técnica, eu sei que eu já falei isso cinco vezes aqui, mas é para te reforçar,
+
+843
+00:44:46,812 --> 00:44:49,992
+às vezes você tem um resultado, não está gostando muito, dá para retexturizar.
+
+844
+00:44:50,292 --> 00:44:55,192
+Inclusive eu vou baixar essa daqui, a gente vai trabalhar ela de novo já já, retexturizando ela,
+
+845
+00:44:55,272 --> 00:44:59,252
+deixando ela mais realista, às vezes menos plástica, do jeito que a gente quer.
+
+846
+00:44:59,252 --> 00:44:59,772
+Beleza?
+
+847
+00:45:00,956 --> 00:45:02,376
+Então, isso aqui foi...
+
+848
+00:45:02,376 --> 00:45:02,736
+Deixa eu...
+
+849
+00:45:02,736 --> 00:45:04,536
+Não, pausa, senão vai ficar no plano de fundo.
+
+850
+00:45:04,936 --> 00:45:08,016
+Isso aqui foi a nossa aula sobre estrutura de prompt básica, tá?
+
+851
+00:45:08,096 --> 00:45:10,376
+Prompt básico, boas práticas para a gente utilizar aqui.
+
+852
+00:45:10,456 --> 00:45:13,176
+Por algum motivo, os nossos vídeos não estão rodando.
+
+853
+00:45:13,216 --> 00:45:14,856
+Vamos ver o que acontece para nas próximas aulas
+
+854
+00:45:14,856 --> 00:45:16,416
+eles voltarem aqui para a gente também.
+
+855
+00:45:16,756 --> 00:45:19,516
+Mas vejo você, então, na próxima aula,
+
+856
+00:45:19,596 --> 00:45:22,376
+onde a gente vai falar de estruturas avançadas de prompt
+
+857
+00:45:22,376 --> 00:45:25,456
+antes de também utilizar as referências e ferramentas aqui
+
+858
+00:45:25,456 --> 00:45:26,396
+para criar algumas coisas.
+

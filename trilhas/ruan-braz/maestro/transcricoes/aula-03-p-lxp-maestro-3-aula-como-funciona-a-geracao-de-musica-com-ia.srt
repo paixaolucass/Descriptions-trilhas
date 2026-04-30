@@ -1,0 +1,1408 @@
+1
+00:00:00,000 --> 00:00:03,820
+Eu vou começar com vocês agora, trazendo o...
+
+2
+00:00:06,524 --> 00:00:09,364
+Como funciona a geração de música, né, Ian?
+
+3
+00:00:09,704 --> 00:00:12,544
+Então, eu preciso trazer alguns pontos para vocês,
+
+4
+00:00:13,244 --> 00:00:16,164
+e eu quero começar trazendo como que eu chego nessas informações
+
+5
+00:00:16,164 --> 00:00:17,544
+e como que eu costumo estudar.
+
+6
+00:00:17,784 --> 00:00:20,204
+Então, eu tenho utilizado muito ultimamente o Gemini,
+
+7
+00:00:20,404 --> 00:00:22,164
+aí dá para usar o notebook LM também,
+
+8
+00:00:22,444 --> 00:00:26,084
+mas eu tenho utilizado muito o Gemini para fazer pesquisas profundas para mim,
+
+9
+00:00:26,124 --> 00:00:28,264
+para encontrar as melhores práticas no mundo.
+
+10
+00:00:28,444 --> 00:00:30,164
+Eu peço ele para buscar o Reddit,
+
+11
+00:00:30,524 --> 00:00:33,264
+peço ele para buscar grandes comunidades, opiniões públicas,
+
+12
+00:00:33,304 --> 00:00:35,724
+opiniões de pessoas relevantes dentro desse mercado,
+
+13
+00:00:36,244 --> 00:00:38,184
+opinião de profissionais, de especialistas
+
+14
+00:00:38,184 --> 00:00:41,324
+sobre melhores ferramentas, melhores métodos, melhores práticas.
+
+15
+00:00:41,524 --> 00:00:44,204
+E dentro disso eu chego em materiais muito ricos
+
+16
+00:00:44,204 --> 00:00:47,424
+que eu organizo dentro do Google Drive, do Google Docs.
+
+17
+00:00:47,504 --> 00:00:50,344
+E existem alguns documentos que eu vou disponibilizar
+
+18
+00:00:50,344 --> 00:00:52,064
+para quem tem acesso à gravação.
+
+19
+00:00:52,104 --> 00:00:54,144
+Aqui embaixo vai estar para você também na gravação.
+
+20
+00:00:54,584 --> 00:00:57,504
+São documentos muito ricos que eu recomendo você ler
+
+21
+00:00:57,504 --> 00:00:59,684
+porque você vai pegar as melhores práticas do mercado.
+
+22
+00:00:59,944 --> 00:01:01,904
+E é assim que eu tenho estudado.
+
+23
+00:01:02,004 --> 00:01:03,464
+Então um deles é esse aqui,
+
+24
+00:01:03,464 --> 00:01:06,044
+O Estado da Arte da Produção Musical com a Inteligência Artificial,
+
+25
+00:01:06,564 --> 00:01:11,484
+Ferramentas Técnicas, Metodologias e o Impacto na Indústria Fonográfica em 2026.
+
+26
+00:01:11,784 --> 00:01:14,344
+Vocês vão ver aqui que é uma pesquisa bem extensa, tá?
+
+27
+00:01:14,524 --> 00:01:16,844
+Então, realmente tem muito material aqui.
+
+28
+00:01:17,004 --> 00:01:20,484
+Eu vou passar por algumas informações com vocês aqui ao longo das aulas,
+
+29
+00:01:20,504 --> 00:01:21,904
+tem as referências aqui também.
+
+30
+00:01:22,124 --> 00:01:24,004
+E é o Estado da Arte mesmo.
+
+31
+00:01:24,204 --> 00:01:27,624
+Quando a gente fala de Estado da Arte, isso aqui vem da metodologia científica,
+
+32
+00:01:27,644 --> 00:01:31,244
+é quando você pega as maiores referências para estudo de pesquisa,
+
+33
+00:01:31,244 --> 00:01:33,884
+o que já funciona e que é referência para todo mundo.
+
+34
+00:01:34,184 --> 00:01:37,404
+Então, é um material bem, bem legal, tá?
+
+35
+00:01:37,524 --> 00:01:39,604
+E eu organizei ele aqui para vocês.
+
+36
+00:01:40,024 --> 00:01:42,644
+Mas a gente vai seguindo passo a passo aqui agora,
+
+37
+00:01:42,724 --> 00:01:46,764
+e eu quero começar primeiro sobre como que a IA aprende a fazer música.
+
+38
+00:01:46,884 --> 00:01:51,564
+O processo, ele segue a mesma lógica de aprendizado de máquina,
+
+39
+00:01:51,884 --> 00:01:53,724
+deep learning, aprendizado profundo.
+
+40
+00:01:53,884 --> 00:01:58,024
+Você expõe as inteligências artificiais a esse material
+
+41
+00:01:58,024 --> 00:02:00,104
+e ela vai identificando padrões.
+
+42
+00:02:00,104 --> 00:02:02,544
+no final é isso, é o mesmo tipo de treinamento
+
+43
+00:02:02,544 --> 00:02:04,284
+então vamos entender aqui a lógica
+
+44
+00:02:04,284 --> 00:02:06,464
+primeiro a Iá passa pela grande escuta
+
+45
+00:02:06,464 --> 00:02:08,604
+vamos chamar assim, vocês vão ver que vão ter vários
+
+46
+00:02:09,304 --> 00:02:10,924
+trocadilhos aqui nesses materiais
+
+47
+00:02:10,924 --> 00:02:12,964
+então ela passa por um treinamento
+
+48
+00:02:12,964 --> 00:02:14,484
+ela não nasce sabendo
+
+49
+00:02:14,484 --> 00:02:15,924
+o que é rock, o que é samba
+
+50
+00:02:16,404 --> 00:02:18,444
+na verdade isso é mostrado
+
+51
+00:02:18,444 --> 00:02:20,584
+pra ela por rótulos, então tem o treinamento
+
+52
+00:02:20,584 --> 00:02:22,624
+de máquina dentro do treinamento, você mostra
+
+53
+00:02:22,624 --> 00:02:24,524
+o arquivo de música, roda aquilo ali
+
+54
+00:02:24,524 --> 00:02:26,424
+pra ela, ela vai passar por aquilo várias vezes
+
+55
+00:02:26,424 --> 00:02:28,324
+e você vai rotulando pra ela
+
+56
+00:02:28,324 --> 00:02:29,704
+Isso é aprendizado por reforço.
+
+57
+00:02:29,744 --> 00:02:32,964
+Então, isso aqui é rock, isso aqui é samba, isso aqui é MPB, isso aqui é hip hop.
+
+58
+00:02:33,164 --> 00:02:37,304
+Ela vai pegando isso e entendendo os padrões que fazem aquilo ter aquele rótulo.
+
+59
+00:02:37,624 --> 00:02:38,104
+Beleza?
+
+60
+00:02:38,224 --> 00:02:43,424
+Então, passa por isso milhões de vezes, em milhões de músicas diferentes,
+
+61
+00:02:43,784 --> 00:02:45,864
+analisa os arquivos e começa a entender padrões.
+
+62
+00:02:46,184 --> 00:02:47,544
+O que ela começa a entender?
+
+63
+00:02:47,844 --> 00:02:52,664
+Então, ela entende ritmo, ela nota que a bateria costuma bater em intervalos regulares,
+
+64
+00:02:52,844 --> 00:02:54,784
+ela entende o que é melodia,
+
+65
+00:02:54,784 --> 00:02:59,384
+Então percebe quais notas costumam vir depois das outras para soar bem.
+
+66
+00:02:59,544 --> 00:03:03,464
+Então ela entende escala de música, escala de notas.
+
+67
+00:03:03,644 --> 00:03:05,244
+Ela entende o que é harmonia.
+
+68
+00:03:05,304 --> 00:03:09,584
+Então ela entende o que significa os instrumentos se relacionarem
+
+69
+00:03:09,584 --> 00:03:12,124
+e ficarem harmônicos entre si, se combinando.
+
+70
+00:03:12,244 --> 00:03:14,304
+Ela percebe esses padrões.
+
+71
+00:03:15,064 --> 00:03:18,484
+Depois que ela percebe isso, isso a gente chama de embedado.
+
+72
+00:03:18,624 --> 00:03:21,364
+Do mesmo jeito que você embeda uma imagem, você embeda um texto,
+
+73
+00:03:21,484 --> 00:03:22,764
+você embeda música também.
+
+74
+00:03:23,064 --> 00:03:24,404
+Então o que é embedar?
+
+75
+00:03:24,404 --> 00:03:29,184
+É transformar aquela informação em vetor, em número, certo?
+
+76
+00:03:29,444 --> 00:03:32,584
+Então, para a IA, música não é barulho, são dados.
+
+77
+00:03:32,924 --> 00:03:36,564
+Ela transforma as ondas sonoras em sequências numéricas complexas.
+
+78
+00:03:36,684 --> 00:03:41,024
+É como se ela transformasse uma partitura em uma enorme conta matemática.
+
+79
+00:03:41,324 --> 00:03:44,484
+E aí vem o palpite inteligente, que é na parte da geração.
+
+80
+00:03:44,824 --> 00:03:47,204
+Quando a IA tem todos os parâmetros dela,
+
+81
+00:03:47,364 --> 00:03:50,044
+ela já foi treinada com todos esses padrões,
+
+82
+00:03:50,044 --> 00:03:56,784
+agora ela consegue, com base nas labels, nos rótulos que você entrega para ela,
+
+83
+00:03:56,864 --> 00:04:00,924
+ela consegue identificar, às vezes, se você fala rock, ela entende uma coisa,
+
+84
+00:04:00,984 --> 00:04:02,584
+se você fala samba, ela entende outra coisa,
+
+85
+00:04:02,784 --> 00:04:05,384
+ela também entende a melodia, ela também entende o ritmo,
+
+86
+00:04:05,424 --> 00:04:08,504
+se você pedir para ela batidas por minuto, ela vai entender isso também,
+
+87
+00:04:08,624 --> 00:04:12,104
+e consegue traduzir isso em som.
+
+88
+00:04:12,704 --> 00:04:16,304
+Então, quando você pede para a IA criar um jazz relaxante com piano,
+
+89
+00:04:16,304 --> 00:04:18,764
+cada palavra dessa aqui é um rótulo
+
+90
+00:04:18,764 --> 00:04:20,384
+que ela interpreta
+
+91
+00:04:20,384 --> 00:04:22,524
+pra trazer uma música pra você, então ela não
+
+92
+00:04:22,524 --> 00:04:24,644
+procura, que muita gente tem essa dúvida
+
+93
+00:04:24,644 --> 00:04:26,364
+ela não vai lá na biblioteca dela
+
+94
+00:04:26,364 --> 00:04:28,484
+procura uma música parecida e edita essa música
+
+95
+00:04:28,484 --> 00:04:30,644
+não, ela gera uma música inteira
+
+96
+00:04:30,644 --> 00:04:32,424
+só que existem rótulos
+
+97
+00:04:32,424 --> 00:04:34,664
+que são rótulos específicos
+
+98
+00:04:34,664 --> 00:04:36,344
+às vezes de um estilo musical
+
+99
+00:04:36,344 --> 00:04:38,184
+de uma banda, de um artista
+
+100
+00:04:38,184 --> 00:04:40,444
+e aí ela consegue traduzir isso
+
+101
+00:04:40,444 --> 00:04:42,484
+ela entende aquele padrão, então a Iá
+
+102
+00:04:42,484 --> 00:04:44,224
+ela consegue entender o que é um The Weeknd
+
+103
+00:04:44,224 --> 00:04:46,304
+A Jaya consegue entender o que é um Guns N' Roses,
+
+104
+00:04:46,544 --> 00:04:48,124
+ela consegue entender o que é um Beatles,
+
+105
+00:04:48,364 --> 00:04:50,084
+e ela consegue simular isso também.
+
+106
+00:04:50,224 --> 00:04:52,684
+Mas isso acaba entrando em questões éticas,
+
+107
+00:04:52,764 --> 00:04:56,144
+que eu vou falar um pouco mais sobre isso aqui em uma das aulas para vocês.
+
+108
+00:04:57,264 --> 00:05:01,184
+Sobre jeitos bons e jeitos ruins de utilizar a inteligência artificial.
+
+109
+00:05:01,764 --> 00:05:04,224
+De qualquer maneira, ela está começando do zero.
+
+110
+00:05:04,404 --> 00:05:07,284
+Ela pode usar referências, mas ela sempre cria um arquivo novo.
+
+111
+00:05:08,184 --> 00:05:08,664
+Beleza?
+
+112
+00:05:08,864 --> 00:05:11,304
+Então, baseado em tudo que eu já ouvi,
+
+113
+00:05:11,304 --> 00:05:13,524
+qual é a nota mais provável de virar agora
+
+114
+00:05:13,524 --> 00:05:14,704
+pra criar um som de jazz.
+
+115
+00:05:14,804 --> 00:05:17,144
+Isso é entre aspas o que a IA pensa, né?
+
+116
+00:05:17,164 --> 00:05:19,064
+Mas é o raciocínio, entre aspas, também,
+
+117
+00:05:19,124 --> 00:05:20,064
+que ela segue.
+
+118
+00:05:20,444 --> 00:05:23,704
+Estatisticamente, ela vai construir ali a música pra você
+
+119
+00:05:23,704 --> 00:05:26,544
+baseado nas palavras que você colocou pra ela.
+
+120
+00:05:26,744 --> 00:05:28,924
+Então, sim, o prompt, ele influencia bastante
+
+121
+00:05:28,924 --> 00:05:30,504
+o resultado final que você vai ter.
+
+122
+00:05:30,704 --> 00:05:32,824
+Ela vai colocando uma nota após a outra,
+
+123
+00:05:32,924 --> 00:05:34,504
+milissegundo por milissegundo,
+
+124
+00:05:34,504 --> 00:05:36,204
+até formar uma música completa.
+
+125
+00:05:36,504 --> 00:05:39,284
+É assim que a IA de música funciona, beleza?
+
+126
+00:05:39,284 --> 00:05:39,484
+Beleza?
+
+127
+00:05:39,904 --> 00:05:41,784
+Quais são as peças do quebra-cabeça?
+
+128
+00:05:41,844 --> 00:05:44,844
+Existem várias peças do quebra-cabeça, eu vou mostrar aqui para vocês,
+
+129
+00:05:45,004 --> 00:05:47,784
+mas quais são as peças básicas do quebra-cabeça?
+
+130
+00:05:48,844 --> 00:05:50,144
+Composição, timbre e voz.
+
+131
+00:05:51,004 --> 00:05:51,404
+Composição.
+
+132
+00:05:51,484 --> 00:05:52,544
+O que a IA faz?
+
+133
+00:05:52,724 --> 00:05:55,284
+Decide quais notas serão tocadas e em qual ordem.
+
+134
+00:05:55,584 --> 00:05:57,764
+Quando eu pego um áudio e gravo para ela,
+
+135
+00:05:57,804 --> 00:05:59,004
+e no meu áudio eu faço um...
+
+136
+00:06:04,184 --> 00:06:06,504
+Eu estou decidindo um pouco da composição.
+
+137
+00:06:06,504 --> 00:06:11,284
+Ela vai identificar esse padrão e trazer essas notas para dentro da música.
+
+138
+00:06:11,464 --> 00:06:12,744
+Vocês vão ver isso acontecendo aqui.
+
+139
+00:06:13,304 --> 00:06:15,404
+Timbre, ela escolhe o jeito do som.
+
+140
+00:06:15,584 --> 00:06:19,744
+Timbre, o melhor jeito de explicar isso aqui é usando sinestesia.
+
+141
+00:06:19,784 --> 00:06:22,524
+Eu vou ter que usar outros sentidos para explicar o que é timbre
+
+142
+00:06:22,524 --> 00:06:25,504
+para quem não tem essa literacia musical.
+
+143
+00:06:25,964 --> 00:06:30,584
+Mas basicamente, timbre é como se fosse o tom, a cor, a cor do som.
+
+144
+00:06:31,024 --> 00:06:34,764
+Você pode ter um timbre mais brilhoso, um timbre mais fosco.
+
+145
+00:06:34,764 --> 00:06:36,764
+tem o timbre de cada instrumento
+
+146
+00:06:36,764 --> 00:06:38,784
+eu posso tocar a nota dó
+
+147
+00:06:38,784 --> 00:06:40,304
+num violão
+
+148
+00:06:40,304 --> 00:06:41,924
+e o violão tem o timbre dele
+
+149
+00:06:41,924 --> 00:06:43,944
+posso tocar num teclado que tem o timbre dele
+
+150
+00:06:43,944 --> 00:06:45,324
+no piano é outro timbre
+
+151
+00:06:45,324 --> 00:06:47,264
+posso tocar a nota dó aqui
+
+152
+00:06:47,264 --> 00:06:49,884
+tem como eu organizar uma superfície, um material
+
+153
+00:06:49,884 --> 00:06:53,084
+pra que ele extraia aquela nota pra mim
+
+154
+00:06:53,084 --> 00:06:55,044
+tem um experimento muito legal
+
+155
+00:06:55,044 --> 00:06:57,764
+que eu fiz quando eu tava ali com os meus 15, 16 anos
+
+156
+00:06:57,764 --> 00:06:58,764
+mas eu nunca esqueci
+
+157
+00:06:58,764 --> 00:07:00,184
+que eu peguei
+
+158
+00:07:01,184 --> 00:07:03,184
+sete copos do mesmo tamanho
+
+159
+00:07:03,184 --> 00:07:06,624
+e fui enchendo o copo com uma quantidade de água diferente
+
+160
+00:07:06,624 --> 00:07:08,844
+e fui afinando o copo.
+
+161
+00:07:09,004 --> 00:07:11,084
+Literalmente, você pega uma colher, você pode fazer isso aí.
+
+162
+00:07:11,184 --> 00:07:14,284
+Se eu pego esse copo aqui e toco aqui, tem uma nota aqui.
+
+163
+00:07:17,564 --> 00:07:19,064
+Isso é uma nota. Agora, se eu beber água...
+
+164
+00:07:23,580 --> 00:07:24,200
+Virou outra nota.
+
+165
+00:07:25,740 --> 00:07:28,980
+Então, você consegue manipular essas ondas, né?
+
+166
+00:07:29,020 --> 00:07:30,780
+Que músicas são ondas.
+
+167
+00:07:30,800 --> 00:07:33,440
+Você consegue manipular elas pra ter notas diferentes.
+
+168
+00:07:33,740 --> 00:07:38,340
+E essas notas têm um timbre, que aí é parte da identidade dessa nota, sabe?
+
+169
+00:07:38,520 --> 00:07:40,880
+Depois você faz um exercício, pega sete copos,
+
+170
+00:07:40,880 --> 00:07:42,960
+coloca um todo cheio e o outro todo vazio.
+
+171
+00:07:43,620 --> 00:07:46,580
+E aí você vai completando os copos ali e afinando.
+
+172
+00:07:46,780 --> 00:07:50,200
+Você pode até baixar um aplicativo de afinador.
+
+173
+00:07:50,720 --> 00:07:53,900
+e aí você vai tocando, ele vai mostrando as letras ali, né?
+
+174
+00:07:53,960 --> 00:07:58,820
+Mostra ali C, depois mostra D, vai mostrando pra você C, D, E, que são as letras das notas.
+
+175
+00:07:59,560 --> 00:08:02,620
+E você vai afinando o copo.
+
+176
+00:08:02,640 --> 00:08:06,640
+E depois que você afina ele, você consegue tocar uma musiquinha nele, né?
+
+177
+00:08:06,700 --> 00:08:11,200
+Você consegue fazer uma musiquinha ali, como se ele fosse um pianinho, digamos assim, né?
+
+178
+00:08:11,260 --> 00:08:13,520
+Em questão de interface.
+
+179
+00:08:14,420 --> 00:08:15,940
+E tem a voz, que é opcional.
+
+180
+00:08:15,940 --> 00:08:18,020
+algumas IA's conseguem criar até a letra
+
+181
+00:08:18,020 --> 00:08:20,260
+e a voz humana, imitando a respiração e a entonação
+
+182
+00:08:20,260 --> 00:08:22,080
+e existem algumas ferramentas que eu vou mostrar
+
+183
+00:08:22,080 --> 00:08:23,800
+aqui pra vocês, que vocês conseguem
+
+184
+00:08:23,800 --> 00:08:25,980
+até dublar a própria
+
+185
+00:08:25,980 --> 00:08:28,080
+voz de vocês, então você pode cantar alguma coisa
+
+186
+00:08:28,080 --> 00:08:28,800
+aqui, você pode falar
+
+187
+00:08:30,280 --> 00:08:31,880
+cantar o que você quiser aqui, né
+
+188
+00:08:31,880 --> 00:08:34,000
+então, sei lá, só vem na minha
+
+189
+00:08:34,000 --> 00:08:35,740
+cabeça as musiquinhas de criança aqui agora
+
+190
+00:08:35,740 --> 00:08:37,180
+na hora de fazer isso ao vivo, né
+
+191
+00:08:37,180 --> 00:08:39,880
+e eu não quero pegar aquelas musiquinhas que ensinam
+
+192
+00:08:39,880 --> 00:08:41,620
+que você tem que atirar um
+
+193
+00:08:41,620 --> 00:08:43,860
+pau num gato, porque coitado do gato
+
+194
+00:08:44,320 --> 00:08:45,720
+Enfim, não sei o que vem aqui.
+
+195
+00:08:47,228 --> 00:08:48,728
+Enfim, não vou fazer isso agora.
+
+196
+00:08:48,808 --> 00:08:50,068
+Quando eu estiver mais inspirado, eu faço.
+
+197
+00:08:50,328 --> 00:08:52,568
+Mas você pode cantar alguma coisa aqui
+
+198
+00:08:53,028 --> 00:08:55,348
+e aí você pega a sua voz e joga numa IA
+
+199
+00:08:55,348 --> 00:08:58,068
+que consegue mudar a sua voz para qualquer outra voz
+
+200
+00:08:58,068 --> 00:08:59,668
+que foi gravada ali e ela aprendeu, entendeu?
+
+201
+00:09:00,068 --> 00:09:02,208
+Você consegue literalmente cantar algo
+
+202
+00:09:02,208 --> 00:09:04,028
+e depois colocar a voz de alguém cantando
+
+203
+00:09:04,028 --> 00:09:05,768
+sem ser a sua própria voz.
+
+204
+00:09:06,088 --> 00:09:07,368
+Vou mostrar isso para vocês também.
+
+205
+00:09:07,568 --> 00:09:10,768
+Mas essas são as peças-chave, as mais importantes,
+
+206
+00:09:10,828 --> 00:09:11,708
+não são as únicas.
+
+207
+00:09:11,748 --> 00:09:13,688
+Eu vou mostrar um glossário para vocês aqui
+
+208
+00:09:14,388 --> 00:09:15,908
+que vai ser muito interessante.
+
+209
+00:09:15,908 --> 00:09:17,308
+Inclusive, eu acho que eu posso até...
+
+210
+00:09:18,748 --> 00:09:20,268
+Já apresentar o glossário aqui?
+
+211
+00:09:21,724 --> 00:09:27,524
+E aí você pega ele aqui embaixo na descrição
+
+212
+00:09:27,524 --> 00:09:30,944
+e consegue acompanhar comigo, porque são muitos termos.
+
+213
+00:09:30,944 --> 00:09:33,104
+É um universo novo se você nunca ouviu falar sobre isso.
+
+214
+00:09:33,444 --> 00:09:36,304
+Então tem aqui o documento do glossário de produção musical para iniciantes.
+
+215
+00:09:36,504 --> 00:09:38,304
+E aí eu dividi por algumas categorias.
+
+216
+00:09:38,364 --> 00:09:39,604
+Então elementos sonoros e timbres.
+
+217
+00:09:39,644 --> 00:09:43,124
+Aí tem o que é timbre, o que é synth, o que é strings, o que é bass, o que é lead,
+
+218
+00:09:43,364 --> 00:09:45,224
+o que é pad, o que é noise.
+
+219
+00:09:45,344 --> 00:09:49,784
+Depois, o que é arranjo, coros, choros, enfim.
+
+220
+00:09:49,784 --> 00:09:51,744
+Enfim, eu nunca pronuncio certo essa palavra.
+
+221
+00:09:52,444 --> 00:09:57,504
+Chords, que são acordes, drums, hook, preset, ADSR.
+
+222
+00:09:57,744 --> 00:10:04,224
+Aí dentro de ADSR tem ataque, decay, sustain, release, verso, ponte, intro, outro.
+
+223
+00:10:06,108 --> 00:10:08,928
+Então tem a in true e a out true.
+
+224
+00:10:10,140 --> 00:10:14,420
+Break, Breakdown, BPM, Compasso, Melodia, Ritmo,
+
+225
+00:10:14,580 --> 00:10:18,680
+o que é Mixagem, o que é EQ, o que é Compressor, Reverb,
+
+226
+00:10:18,680 --> 00:10:22,060
+Delay, Gate, Pan, Sidechain, Flanger.
+
+227
+00:10:22,140 --> 00:10:24,600
+Tem todos esses nomes aqui que você vai vendo e fala, é muita coisa.
+
+228
+00:10:24,740 --> 00:10:28,200
+Não, deixa o glossário do seu lado, precisou de algum termo, pega aqui.
+
+229
+00:10:28,300 --> 00:10:30,380
+Ou pede para IA eles usando os termos para você.
+
+230
+00:10:30,520 --> 00:10:32,640
+Esse aqui é um que a gente usa muito, que são os stems.
+
+231
+00:10:32,940 --> 00:10:34,540
+A gente vai falar dele aqui durante o curso.
+
+232
+00:10:35,200 --> 00:10:35,920
+Tracks, Multitrack.
+
+233
+00:10:36,020 --> 00:10:38,680
+Track é muito confundido com stem também, mas são coisas diferentes.
+
+234
+00:10:39,040 --> 00:10:39,920
+O que é Sample?
+
+235
+00:10:40,140 --> 00:10:41,460
+MIDI, RPM,
+
+236
+00:10:41,780 --> 00:10:43,300
+RPM já estava ali em cima, né? Quantização,
+
+237
+00:10:43,760 --> 00:10:45,580
+Loop, Bounce, Tracking,
+
+238
+00:10:46,500 --> 00:10:47,420
+Filtro, Buzz,
+
+239
+00:10:48,480 --> 00:10:48,940
+Gain,
+
+240
+00:10:50,620 --> 00:10:51,580
+Headroom, Taxa de
+
+241
+00:10:51,580 --> 00:10:53,160
+Amostragem, Profundidade de Bit,
+
+242
+00:10:53,680 --> 00:10:55,500
+Down, que é um tipo de interface
+
+243
+00:10:55,500 --> 00:10:57,520
+digital de áudio, VST,
+
+244
+00:10:57,800 --> 00:10:59,640
+BPM, BPM apareceu
+
+245
+00:10:59,640 --> 00:11:01,100
+três vezes no glossário agora que eu estou vendo,
+
+246
+00:11:01,980 --> 00:11:03,640
+Latência, Interface de Áudio, Monitor
+
+247
+00:11:03,640 --> 00:11:05,720
+de Estúdio, o que é Remixar, o que é
+
+248
+00:11:05,720 --> 00:11:07,400
+Masterizar, esses aqui é importante saber.
+
+249
+00:11:08,040 --> 00:11:09,500
+Já tem até uma ferramenta aqui,
+
+250
+00:11:09,500 --> 00:11:10,340
+que depois a gente vai falar dela.
+
+251
+00:11:11,900 --> 00:11:14,240
+Deixa o glossário, você vai se acostumando aos poucos,
+
+252
+00:11:14,240 --> 00:11:16,780
+é como se fosse aprender uma língua nova, é natural e está tudo bem.
+
+253
+00:11:16,900 --> 00:11:18,140
+Você não precisa saber isso tudo de cara.
+
+254
+00:11:18,360 --> 00:11:23,040
+Mas eu já vou deixar aqui, e vou pedir para a equipe deixar aqui também na descrição para você,
+
+255
+00:11:23,160 --> 00:11:24,920
+que aí você pode ir acompanhando.
+
+256
+00:11:24,940 --> 00:11:26,460
+Falei um termo aqui, você fala, o que é isso mesmo?
+
+257
+00:11:26,520 --> 00:11:29,480
+Já abre o glossário, vê ali o termo e está tudo certo, beleza?
+
+258
+00:11:30,680 --> 00:11:31,040
+Maravilha.
+
+259
+00:11:31,320 --> 00:11:35,260
+Então, vocês viram que tem mais elementos ali que a gente pode acabar trabalhando aqui.
+
+260
+00:11:35,640 --> 00:11:36,220
+Toque final.
+
+261
+00:11:36,680 --> 00:11:37,740
+Synth ID e segurança.
+
+262
+00:11:38,340 --> 00:11:40,280
+Como essas músicas são criadas por robôs,
+
+263
+00:11:40,280 --> 00:11:42,160
+existem tecnologias como o SynthID,
+
+264
+00:11:42,880 --> 00:11:44,540
+que é uma espécie de carimbo invisível.
+
+265
+00:11:44,660 --> 00:11:46,040
+Isso aqui muita gente não sabe,
+
+266
+00:11:46,180 --> 00:11:50,060
+mas toda a IA generativa de áudio,
+
+267
+00:11:50,600 --> 00:11:53,280
+elas são obrigadas a colocar essa assinatura aqui.
+
+268
+00:11:53,360 --> 00:11:54,440
+As pessoas nem sabem que tem,
+
+269
+00:11:54,540 --> 00:11:56,400
+mas é possível você verificar
+
+270
+00:11:56,400 --> 00:11:57,920
+que algo foi feito com IA,
+
+271
+00:11:58,020 --> 00:11:59,020
+um áudio foi feito com IA,
+
+272
+00:11:59,020 --> 00:12:00,080
+com base nessa assinatura.
+
+273
+00:12:00,220 --> 00:12:01,580
+Isso é por segurança também,
+
+274
+00:12:01,700 --> 00:12:02,540
+é para ajudar as pessoas,
+
+275
+00:12:02,620 --> 00:12:04,220
+para entender o que é real, o que não é real,
+
+276
+00:12:04,300 --> 00:12:05,320
+e é muito massa, né?
+
+277
+00:12:05,400 --> 00:12:06,140
+Então, isso acontece.
+
+278
+00:12:06,720 --> 00:12:08,020
+Você não consegue ouvir,
+
+279
+00:12:08,020 --> 00:12:09,780
+mas um computador consegue identificar
+
+280
+00:12:09,780 --> 00:12:11,680
+que aquela música foi feita por Iá e não
+
+281
+00:12:11,680 --> 00:12:13,240
+por um humano. Resumo,
+
+282
+00:12:13,300 --> 00:12:16,020
+a Iá de música funciona como um mestre da imitação,
+
+283
+00:12:16,680 --> 00:12:17,980
+ela estuda o passado
+
+284
+00:12:17,980 --> 00:12:20,020
+pra prever como criar algo no futuro.
+
+285
+00:12:20,280 --> 00:12:21,340
+E não é à toa, né, que
+
+286
+00:12:21,340 --> 00:12:23,580
+pra vocês que estão vendo aqui na live, por que eu coloquei
+
+287
+00:12:23,580 --> 00:12:25,460
+um gaio azul ali, não, um blue jay?
+
+288
+00:12:26,100 --> 00:12:27,560
+Porque o blue jay é um pássaro
+
+289
+00:12:27,560 --> 00:12:28,840
+mestre das imitações.
+
+290
+00:12:29,180 --> 00:12:31,500
+E ele é muito lindo, né? É o meu pássaro
+
+291
+00:12:31,500 --> 00:12:32,800
+favorito. Então,
+
+292
+00:12:34,000 --> 00:12:35,460
+ele é a capa por causa disso.
+
+293
+00:12:35,520 --> 00:12:36,560
+É uma questão interessante.
+
+294
+00:12:37,380 --> 00:12:39,380
+Olha só que interessante. Gostou dessa explicação?
+
+295
+00:12:39,380 --> 00:12:41,120
+se quiser eu posso gerar uma letra, uma música
+
+296
+00:12:41,120 --> 00:12:43,320
+ou seja, isso aqui tá falando pra gente o que?
+
+297
+00:12:43,400 --> 00:12:44,380
+a questão de não tirar
+
+298
+00:12:44,380 --> 00:12:46,320
+isso aqui foi gerado com IA, cara
+
+299
+00:12:46,320 --> 00:12:48,600
+essa explicação toda foi gerada com IA
+
+300
+00:12:48,600 --> 00:12:51,260
+e ela é muito boa, e eu costumo estudar
+
+301
+00:12:51,260 --> 00:12:52,620
+desse jeito com inteligência artificial
+
+302
+00:12:52,620 --> 00:12:54,860
+então faço questão de deixar aqui pra vocês
+
+303
+00:12:54,860 --> 00:12:55,640
+porque
+
+304
+00:12:57,244 --> 00:13:00,264
+A sensação que eu tenho é que eu tenho que preparar você para esse novo mundo
+
+305
+00:13:00,264 --> 00:13:02,844
+na sua postura, no seu comportamento.
+
+306
+00:13:03,024 --> 00:13:05,864
+Então, se eu te ensino como eu aprendo e como você pode aprender também,
+
+307
+00:13:06,064 --> 00:13:08,504
+você não depende de ninguém para aprender o que você quiser, entendeu?
+
+308
+00:13:08,844 --> 00:13:12,144
+Então, sim, isso aqui foi escrito por uma inteligência artificial.
+
+309
+00:13:12,504 --> 00:13:14,564
+E eu perguntei, adivinha o que eu perguntei para ela?
+
+310
+00:13:15,204 --> 00:13:17,444
+Esse título, Como a IA Aprende a Fazer Música.
+
+311
+00:13:17,824 --> 00:13:18,624
+Olha que interessante.
+
+312
+00:13:19,104 --> 00:13:23,544
+Como eu tenho um repertório e eu tenho uma profundidade muito grande sobre IA,
+
+313
+00:13:23,704 --> 00:13:25,824
+não tanto sobre música.
+
+314
+00:13:25,824 --> 00:13:28,284
+Isso, na verdade, eu aprendi na prática, eu estou didata,
+
+315
+00:13:28,324 --> 00:13:31,284
+mas nos últimos três anos eu tenho ensinado tanto sobre IA,
+
+316
+00:13:31,364 --> 00:13:35,184
+eu consigo assinar embaixo o que ela está falando aqui,
+
+317
+00:13:35,264 --> 00:13:37,484
+porque esse é o processo que a gente ensina em outras trilhas,
+
+318
+00:13:37,504 --> 00:13:40,884
+como AI First, estrutura de prompt, como funcionam LLMs,
+
+319
+00:13:41,024 --> 00:13:42,904
+como funciona Machine Learning e por aí vai.
+
+320
+00:13:43,044 --> 00:13:46,984
+Então, é uma bela de uma explicação aqui ensinando para você, beleza?
+
+321
+00:13:47,284 --> 00:13:49,484
+Tem o documento aqui, você pode consultar depois.
+
+322
+00:13:50,404 --> 00:13:54,324
+E o mais importante agora você guardar é que no final, então,
+
+323
+00:13:54,324 --> 00:13:57,464
+Então, a IA não está pegando a música de um lugar e só editando ela,
+
+324
+00:13:57,504 --> 00:13:59,084
+ela está gerando algo totalmente novo,
+
+325
+00:13:59,684 --> 00:14:02,384
+baseado em bilhões de parâmetros que ela tem,
+
+326
+00:14:02,444 --> 00:14:04,204
+que ela aprendeu os padrões ali, tá bom?
+
+327
+00:14:04,684 --> 00:14:07,464
+Isso aqui gerou muita confusão desde que surgiu,
+
+328
+00:14:07,504 --> 00:14:09,544
+e já tem bastante tempo, igual com as imagens,
+
+329
+00:14:09,564 --> 00:14:11,424
+muita gente não sabe da história, né?
+
+330
+00:14:11,784 --> 00:14:14,304
+Às vezes fica, ah, pô, eu acho que a IA está mudando o design,
+
+331
+00:14:14,404 --> 00:14:15,904
+está mudando a arte, não, está mudando tudo,
+
+332
+00:14:16,044 --> 00:14:17,624
+todo o trabalho que é feito no computador.
+
+333
+00:14:17,704 --> 00:14:19,224
+Todas as profissões que são no computador
+
+334
+00:14:19,224 --> 00:14:22,064
+estão sofrendo desse mesmo baque, né?
+
+335
+00:14:22,064 --> 00:14:24,444
+de mudança de paradigma e de mundo.
+
+336
+00:14:24,584 --> 00:14:27,604
+E não foi diferente com a galera que trabalha com áudio e com música.
+
+337
+00:14:28,044 --> 00:14:31,224
+E isso aqui já deu muita dor de cabeça, muita coisa já aconteceu,
+
+338
+00:14:31,324 --> 00:14:34,604
+teve muita empresa de geração de música com IA que quebrou,
+
+339
+00:14:34,624 --> 00:14:37,524
+não conseguiu sustentar porque teve muito processo, muita coisa surgindo.
+
+340
+00:14:37,824 --> 00:14:41,344
+A Suno, porque tem muita grana, a Suno conseguiu se manter,
+
+341
+00:14:41,464 --> 00:14:45,004
+a Suno segue num padrão muito rígido para se manter também,
+
+342
+00:14:45,124 --> 00:14:47,544
+tanto que, por exemplo, se você gera uma música no gratuito,
+
+343
+00:14:47,624 --> 00:14:51,144
+ela não é sua, ela é da Suno, então você não tem direito autoral sobre ela,
+
+344
+00:14:51,144 --> 00:14:53,384
+você só passa a ter direito autoral quando você paga
+
+345
+00:14:53,384 --> 00:14:55,304
+pra gerar as músicas e aí isso sustenta
+
+346
+00:14:55,304 --> 00:14:57,644
+a Suno também, a Suno também fez parceria
+
+347
+00:14:57,644 --> 00:14:58,904
+com várias labels, várias
+
+348
+00:14:59,524 --> 00:15:01,264
+empresas que trabalham
+
+349
+00:15:01,264 --> 00:15:02,384
+como distribuidoras também
+
+350
+00:15:02,384 --> 00:15:05,144
+e aí ela consegue se manter, tá crescendo muito
+
+351
+00:15:05,144 --> 00:15:07,144
+é a mais famosa no mundo, mas tem
+
+352
+00:15:07,144 --> 00:15:09,164
+outras também, eu vou falar disso aqui com vocês
+

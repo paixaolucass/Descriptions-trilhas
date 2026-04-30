@@ -1,0 +1,143 @@
+# Video: 5._conhecendo_os_tipos_de_ias (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-22 20:12
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:02 --> 00:00:04:27] Depois de entender a história das inteligências artificiais, entender como funcionam essas redes neurais,
+[00:00:05:01 --> 00:00:11:28] chegou a hora de te explicar um pouco sobre para onde nós estamos indo agora, quais são os tipos de IA,
+[00:00:12:02 --> 00:00:17:05] em qual deles nós estamos e o que nós podemos esperar daqui para frente.
+[00:00:17:14 --> 00:00:19:16] Então, eu vou compartilhar a minha tela aqui com você de novo.
+[00:00:19:20 --> 00:00:22:26] E eu quero começar aqui com os três níveis de inteligência artificial.
+[00:00:24:01 --> 00:00:29:04] Atualmente, nós estamos no que é chamado de inteligência artificial estreita,
+[00:00:29:04 --> 00:00:35:21] que é Artificial Narrow Intelligence, inteligências artificiais que servem para uma função específica.
+[00:00:35:21 --> 00:00:40:29] A lógica delas é um pouco parecida com aqueles sistemas que são especialistas,
+[00:00:41:02 --> 00:00:43:22] só que tem uma diferença muito grande, a lógica é só do conceito,
+[00:00:43:23 --> 00:00:46:08] porque eles funcionam de maneiras completamente diferentes.
+[00:00:46:23 --> 00:00:51:13] Os sistemas especialistas também eram focados em áreas específicas,
+[00:00:51:13 --> 00:00:57:12] é só essa relação que eu quis traçar aqui, mas eles não eram treinados com Machine Learning
+[00:00:57:12 --> 00:01:05:02] learning e eles não eram treinados com redes neurais. Agora, a diferença de sistemas especialistas
+[00:01:05:02 --> 00:01:10:23] para inteligências artificiais estreitas, essas narrow, é que essas realmente são
+[00:01:10:23 --> 00:01:15:24] inteligências artificiais baseadas em machine learning e baseadas em deep learning também.
+[00:01:16:01 --> 00:01:20:27] Então essa é uma grande diferença comparada com os sistemas especialistas. Mas por que
+[00:01:20:27 --> 00:01:26:08] nós estamos nela hoje? Atualmente nós temos IAs especialistas em... eu vou chamar de
+[00:01:26:08 --> 00:01:27:28] estreitas para a gente criar essa relação.
+[00:01:28:07 --> 00:01:30:01] Nós temos IAs que são estreitas
+[00:01:30:01 --> 00:01:31:25] para texto, IAs que são
+[00:01:31:25 --> 00:01:33:22] focadas para imagem, focadas
+[00:01:33:22 --> 00:01:36:05] para vídeo, focadas para 3D,
+[00:01:36:08 --> 00:01:37:07] focadas para música.
+[00:01:37:15 --> 00:01:39:27] Cada IA é focada em uma coisa. Por quê?
+[00:01:39:29 --> 00:01:42:07] Você faz um treinamento
+[00:01:42:07 --> 00:01:43:17] dessa IA, treina um modelo
+[00:01:44:14 --> 00:01:45:16] baseado em dados
+[00:01:46:10 --> 00:01:47:17] do que você quer gerar.
+[00:01:47:20 --> 00:01:49:29] Então, se eu tenho uma IA especialista em música, como que ela foi
+[00:01:49:29 --> 00:01:52:05] treinada? Foi imputado
+[00:01:52:05 --> 00:01:53:12] nela, então colocaram uma
+[00:01:53:12 --> 00:01:55:26] quantidade massiva de músicas
+[00:01:55:26 --> 00:02:02:26] dentro dela, junto com rótulos e aprendizado por reforço, com pesos, para ela identificar os estilos musicais
+[00:02:02:26 --> 00:02:09:19] e os padrões entre esses estilos musicais. Padrão de tempo, de ritmo, padrão de escala cromática,
+[00:02:09:27 --> 00:02:17:22] vários padrões musicais que ela aprende a executar. E aí você tem, por exemplo, uma Suno, que cria uma música para você.
+[00:02:17:23 --> 00:02:24:07] Ela foi treinada especificamente para gerar música. Se você pede a Suno para gerar texto igual GPT, ela não gera.
+[00:02:24:07 --> 00:02:28:16] Se você pede a Suno para gerar imagem, ela até tem um sistema de gerar imagens ali,
+[00:02:28:19 --> 00:02:32:16] porque ela gera as imagens das capas, das músicas que você está fazendo.
+[00:02:32:25 --> 00:02:37:00] Do mesmo jeito, se eu tenho o Mid Journey, o Mid Journey é uma IA estreita,
+[00:02:37:00 --> 00:02:39:13] focada em geração de imagens.
+[00:02:39:17 --> 00:02:41:27] Aí você tem o ChatGPT, que é focado em texto.
+[00:02:42:01 --> 00:02:48:10] Ah, Juan, mas o ChatGPT gera imagem, gera texto e gera vídeo agora com Sora e conversa comigo.
+[00:02:48:25 --> 00:02:51:26] Isso é o que a gente chama de IAs multimodais.
+[00:02:51:26 --> 00:02:58:28] Então são IAs que você coloca vários módulos nela conectados e ela conversa entre eles.
+[00:02:59:03 --> 00:03:02:07] Mas não é um único modelo que faz tudo isso.
+[00:03:02:12 --> 00:03:08:14] Por exemplo, dentro do chat GPT quem gera imagens é o DALI, é o modelo de geração de imagens da OpenAI.
+[00:03:08:18 --> 00:03:11:19] Não é um GPT que gera imagens, é o DALI que gera imagens.
+[00:03:12:03 --> 00:03:19:20] Dentro também tem o SORA que gera vídeo, mas não é o GPT que gera vídeo, é o SORA que é o modelo de geração de vídeos da OpenAI.
+[00:03:19:20 --> 00:03:23:24] Então, eles são multimodais porque são módulos conectados que conversam entre si.
+[00:03:23:26 --> 00:03:30:00] Já é mais uma evolução, só que ainda não é esse segundo caso aqui que nós chamamos de AGI,
+[00:03:30:05 --> 00:03:35:06] que são inteligências artificiais gerais, ou no inglês, Artificial General Intelligence,
+[00:03:35:14 --> 00:03:41:18] que são inteligências artificiais que têm uma inteligência geral sobre todas essas áreas, como um ser humano.
+[00:03:41:23 --> 00:03:48:20] Um ser humano conversa, um ser humano também pode cantar, o mesmo ser humano pode desenhar, pode atuar e pode fazer uma série de coisas.
+[00:03:48:20 --> 00:03:52:16] ele tem uma inteligência múltipla, uma inteligência nexialista,
+[00:03:52:16 --> 00:03:55:11] e ele consegue realizar várias tarefas que são...
+[00:03:56:16 --> 00:03:58:17] que possuem naturezas bem distintas.
+[00:03:58:29 --> 00:04:02:22] Só que hoje nós estamos caminhando para esse marco.
+[00:04:03:01 --> 00:04:08:00] Tanto que essa é a corrida do momento, qual é a empresa que vai alcançar a AGI,
+[00:04:08:20 --> 00:04:10:04] porque isso aqui é um marco importante.
+[00:04:10:24 --> 00:04:12:17] Ainda no livro do Nick Bostrom,
+[00:04:13:08 --> 00:04:17:19] o Nick Bostrom escreveu o Superinteligência,
+[00:04:17:20 --> 00:04:19:05] que é um livro que fala sobre os perigos da IA.
+[00:04:19:16 --> 00:04:24:10] E ele é um escritor muito aclamado e muito respeitado pelo que ele fala.
+[00:04:24:10 --> 00:04:29:04] que ele fala. E no livro Super Inteligência, o que que o Nick Bostrom fala? No momento em que
+[00:04:29:04 --> 00:04:35:27] nós alcançarmos a AGI verdadeira, vai ser muito rápido para nós alcançarmos a ASI. Por que que
+[00:04:35:27 --> 00:04:40:15] ele fala isso? Quando você tem uma inteligência artificial que é mais inteligente do que um ser
+[00:04:40:15 --> 00:04:44:29] humano de maneira geral, não só para gerar um texto, não só para gerar uma música, mas para
+[00:04:44:29 --> 00:04:46:25] para gerar tudo isso ela sozinha?
+[00:04:48:06 --> 00:04:53:25] Nós teremos uma inteligência artificial que é capaz de ela mesma construir ela mesma.
+[00:04:53:29 --> 00:04:57:07] E ela mesma conseguir construir outras IAs.
+[00:04:57:12 --> 00:05:01:15] Então é uma IA que constrói IAs e uma IA que se auto aprimora.
+[00:05:01:29 --> 00:05:08:00] No momento em que nós chegarmos nesse estágio de AGI, vai ser muito rápido para nós chegarmos na ASI,
+[00:05:08:01 --> 00:05:12:03] que é a Super Inteligência Artificial ou Artificial Super Intelligence,
+[00:05:12:03 --> 00:05:18:04] Que é uma inteligência artificial que é mais inteligente do que a soma de todos os seres humanos no planeta.
+[00:05:18:12 --> 00:05:22:03] Uma IA que é mais inteligente do que todos nós em todos os aspectos.
+[00:05:22:04 --> 00:05:25:19] E isso aqui, dentro do livro dele ele fala e outros autores vão falar também,
+[00:05:26:10 --> 00:05:34:06] é o que se configura como um risco existencial se a gente não souber como ter o controle dessa inteligência.
+[00:05:34:21 --> 00:05:38:14] Isso gera uma série de discussões que a gente pode discutir em outras aulas também.
+[00:05:38:18 --> 00:05:40:09] Não vai ser o foco aqui agora.
+[00:05:40:09 --> 00:05:44:15] O mais importante de você entender é que existem esses três conceitos.
+[00:05:44:19 --> 00:05:47:06] A nossa jornada hoje é em busca da AGI.
+[00:05:47:11 --> 00:05:53:00] Uma coisa importante para falar sobre a AGI é que hoje cada pessoa define a AGI de uma maneira.
+[00:05:53:14 --> 00:05:58:14] Então a OpenAI fala que está fazendo alguns testes de AGI e já está chegando em 90% de precisão.
+[00:05:58:27 --> 00:06:01:19] E muitos falam que a AGI vai chegar esse ano.
+[00:06:01:24 --> 00:06:08:04] O próprio Senautman fala que vai chegar por volta de 2026, que está muito próxima.
+[00:06:08:04 --> 00:06:12:09] Com certeza, olha só, a gente não pode negar que eles sabem muito mais do que eu e você.
+[00:06:12:19 --> 00:06:15:12] Então, no mínimo, a gente vai considerar o que foi falado.
+[00:06:15:14 --> 00:06:22:03] Mas é importante nós termos também um pensamento crítico sobre isso,
+[00:06:22:04 --> 00:06:24:01] fazer uma análise mais profunda e entender o seguinte,
+[00:06:25:00 --> 00:06:27:20] existem interesses comerciais para o Sunautman estar falando isso?
+[00:06:27:28 --> 00:06:28:28] Na verdade é que existe.
+[00:06:29:04 --> 00:06:31:01] Existe interesse comercial para a maioria deles.
+[00:06:31:08 --> 00:06:33:29] No caso da OpenAI, o Sunautman tem um acordo, não é?
+[00:06:34:00 --> 00:06:34:18] Não, Sunautman.
+[00:06:34:18 --> 00:06:43:00] A OpenAI tem um acordo com a Microsoft, que trava a OpenAI na Microsoft até o momento em que a AGI for descoberta.
+[00:06:43:01 --> 00:06:45:25] No momento em que a AGI for descoberta, esse contrato acaba.
+[00:06:46:06 --> 00:06:48:28] Então, existe um interesse econômico em alcançar a AGI.
+[00:06:49:03 --> 00:06:51:01] Só que não é só do lado da OpenAI.
+[00:06:51:06 --> 00:06:57:18] As outras inteligências artificiais, que principalmente estão apostando em inteligências artificiais gerais,
+[00:06:57:19 --> 00:06:59:12] principalmente nas LLMs.
+[00:06:59:12 --> 00:07:06:06] Então, a gente tem o chat GPT, o Grock, o DeepSeek, o Cloud, o Gemini, o Google.
+[00:07:06:21 --> 00:07:09:02] Eles estão focando na AGI a partir dessas.
+[00:07:09:06 --> 00:07:11:21] Tanto que existe esse movimento das multimodais.
+[00:07:11:24 --> 00:07:14:20] O Google agora é quem mais está acompanhando a OpenAI,
+[00:07:14:23 --> 00:07:17:27] porque agora você consegue gerar imagens direto no chat do Google,
+[00:07:18:01 --> 00:07:22:03] assim como era possível gerar no chat do chat GPT.
+[00:07:22:06 --> 00:07:26:18] A diferença é que as imagens do Google são bem melhores do que as imagens do Dali hoje.
+[00:07:27:00 --> 00:07:28:28] Então, tem esses pontos.
+[00:07:28:28 --> 00:07:33:21] O GROC também já é uma LLM multimodal, que te permite gerar imagens dentro dele.
+[00:07:33:26 --> 00:07:36:19] Então existe esse movimento, esse é um movimento global.
+[00:07:36:28 --> 00:07:41:07] Quem está liderando isso é a China e Estados Unidos, são os dois países que mais investem.
+[00:07:41:09 --> 00:07:45:10] Quem tem o controle dos dados consegue prever, tomar decisões mais certas e não só isso,
+[00:07:45:12 --> 00:07:52:25] consegue produzir tecnologias mais poderosas, não só tecnologias na área de saúde, de transporte, política,
+[00:07:52:25 --> 00:07:58:21] política, não só nessas áreas investimentos, mas também tecnologias na área de guerra,
+[00:07:58:28 --> 00:08:04:06] falamos de armas, falamos de táticas especiais e coisas desse tipo.
+[00:08:04:23 --> 00:08:10:25] Também falando de engenharia, para engenharia aeroespacial, engenharia de impressão 3D
+[00:08:10:25 --> 00:08:13:22] e várias coisas desse tipo. Então, é um avanço muito grande.
+[00:08:14:00 --> 00:08:19:01] E as empresas, principalmente as empresas, mas também os países estão correndo atrás disso.
+[00:08:19:01 --> 00:08:31:11] Inclusive, eu vi um dado, só para fechar esse tópico aqui, que mostrava que mais da metade das descobertas científicas atualmente são feitas...
+[00:08:32:17 --> 00:08:37:18] corporações, empresas privadas, se eu não me engano, é coisa de um terço vem das academias.
+[00:08:37:20 --> 00:08:40:03] Então, o mundo também está mudando muito em relação a isso.
+[00:08:40:05 --> 00:08:43:14] A pesquisa hoje tem sido feita de maneira privada nas big corps,
+[00:08:43:18 --> 00:08:46:05] grandes empresas que podem financiar essas pesquisas,
+[00:08:46:07 --> 00:08:50:20] porque eles já perceberam que há pesquisa que traz o desenvolvimento
+[00:08:50:20 --> 00:08:54:12] e que traz vantagens competitivas gigantescas.
+[00:08:54:23 --> 00:09:00:20] Mas, por agora, o que você precisa saber, então, é que existem esses três tipos de inteligências artificiais.
+[00:09:00:20 --> 00:09:04:00] mas a jornada é para chegar na AGI, depois da AGI tem muito que acontecer,
+[00:09:04:11 --> 00:09:07:24] e eu quero que agora você abra a sua mente, depois de ver tudo isso aqui também,
+[00:09:08:02 --> 00:09:12:02] e entenda que inteligência artificial não é só gerar uma imagem, não é só gerar um vídeo,
+[00:09:12:06 --> 00:09:15:23] você consegue usar inteligência artificial, inclusive, para treinar seus próprios modelos,
+[00:09:15:23 --> 00:09:21:05] coletar dados e ajudar a criar agentes, criar inteligências artificiais que trabalham junto com você,
+[00:09:21:08 --> 00:09:25:09] robôs, que vão se tornar cada vez mais comum, não só robôs humanoides,
+[00:09:25:10 --> 00:09:29:06] mas robôs que rodam dentro dos nossos sistemas, que funcionam como colaboradores,
+[00:09:29:06 --> 00:09:37:13] Seja você designer, artista, consultor, um estrategista, uma pessoa criativa, as IAs são suas aliadas.
+[00:09:37:29 --> 00:09:42:06] Você pode treinar IAs específicas usando esses conceitos que eu passei aqui para vocês.

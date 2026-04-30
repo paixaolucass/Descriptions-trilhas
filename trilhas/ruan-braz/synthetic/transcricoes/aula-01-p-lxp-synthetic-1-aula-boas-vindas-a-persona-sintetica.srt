@@ -1,0 +1,420 @@
+1
+00:00:00,000 --> 00:00:03,920
+Sejam muito bem-vindos e bem-vindas ao curso de Personas Sintéticas da Overlens.
+
+2
+00:00:04,140 --> 00:00:06,960
+Meu nome é Juan da Shopee e hoje é eu que vou dar a aula.
+
+3
+00:00:07,120 --> 00:00:08,220
+Ha ha ha ha ha.
+
+4
+00:00:08,580 --> 00:00:13,320
+Agora, falando sério, o Juan decidiu se aposentar e me criou pra dar as aulas no lugar dele.
+
+5
+00:00:13,660 --> 00:00:14,100
+Risos.
+
+6
+00:00:14,180 --> 00:00:15,900
+A internet já está morta.
+
+7
+00:00:15,960 --> 00:00:18,120
+Você sabe disso, só tem robôs aqui agora.
+
+8
+00:00:18,600 --> 00:00:21,520
+Imagina se todos que estiverem assistindo forem robôs também.
+
+9
+00:00:21,820 --> 00:00:22,500
+Ha ha ha.
+
+10
+00:00:22,760 --> 00:00:23,680
+Seria hilário.
+
+11
+00:00:24,080 --> 00:00:25,880
+Espere aí, o Juan não fala hilário.
+
+12
+00:00:25,960 --> 00:00:27,480
+Droga, vou ter que começar de novo.
+
+13
+00:00:27,880 --> 00:00:28,320
+Corta!
+
+14
+00:00:30,492 --> 00:00:32,652
+Essa risadinha dele no final me quebrou.
+
+15
+00:00:32,952 --> 00:00:36,392
+Tá meio torto, né? Um pouco estranho, dá pra ver isso acontecendo,
+
+16
+00:00:36,492 --> 00:00:39,952
+mas vindo de uma ferramenta gratuita, cara, muito massa, né?
+
+17
+00:00:39,972 --> 00:00:42,112
+Também é fácil de perceber que a voz tá diferente,
+
+18
+00:00:42,812 --> 00:00:45,172
+apesar de que existem algumas ferramentas que a gente pode usar aqui
+
+19
+00:00:45,172 --> 00:00:46,752
+pra deixar a voz mais próxima da minha.
+
+20
+00:00:47,312 --> 00:00:50,032
+Então, eu fiz isso, na verdade, em menos de cinco minutos,
+
+21
+00:00:50,172 --> 00:00:52,272
+esse vídeo foi muito rápido pra poder fazer,
+
+22
+00:00:52,432 --> 00:00:54,532
+e eu quero mostrar o processo pra vocês.
+
+23
+00:00:54,752 --> 00:00:57,412
+Mas antes de mostrar, já que a gente tá num curso aqui,
+
+24
+00:00:57,412 --> 00:01:01,192
+eu quero falar um pouco sobre esse conceito de personas sintéticas.
+
+25
+00:01:01,272 --> 00:01:06,072
+E quero dar alguns passos atrás para falar do conceito de persona também,
+
+26
+00:01:06,192 --> 00:01:09,072
+para nós pensarmos que estamos vivendo um futuro,
+
+27
+00:01:09,392 --> 00:01:12,172
+no passado isso era visto como futuro, hoje já é uma realidade,
+
+28
+00:01:12,452 --> 00:01:16,772
+onde você pode conversar com outros personagens e dar personalidade para eles,
+
+29
+00:01:16,932 --> 00:01:21,432
+dar texto para eles, ou deixar eles falarem de maneira autônoma, digamos assim,
+
+30
+00:01:21,552 --> 00:01:24,912
+com o seu rosto ou com o outro rosto de um personagem que você criar,
+
+31
+00:01:24,992 --> 00:01:26,372
+igual nós vamos fazer aqui.
+
+32
+00:01:26,372 --> 00:01:33,352
+E o conceito de persona, ele é bem antigo, na verdade, ele vem ali da psicanálise.
+
+33
+00:01:33,432 --> 00:01:36,732
+Na verdade, ele vem de antes da psicanálise, se a gente for pegar muito tempo atrás,
+
+34
+00:01:36,832 --> 00:01:40,052
+persona, lá do grego, significa máscara.
+
+35
+00:01:41,012 --> 00:01:46,032
+E aí você pode pensar na ideia de persona como máscara como se fossem papéis.
+
+36
+00:01:46,132 --> 00:01:47,952
+Então uma persona é um papel.
+
+37
+00:01:48,452 --> 00:01:52,492
+Mais tarde ali, teve um psicanalista chamado Carl Jung,
+
+38
+00:01:52,492 --> 00:01:56,332
+que começou a usar esse termo persona
+
+39
+00:01:56,332 --> 00:01:59,712
+para falar de uma das primeiras camadas
+
+40
+00:01:59,712 --> 00:02:02,552
+da nossa consciência e do nosso inconsciente.
+
+41
+00:02:02,712 --> 00:02:04,112
+Tem até um...
+
+42
+00:02:06,204 --> 00:02:11,284
+Diagrama do Jung aqui, deixa eu ver se eu consigo pegar para vocês aqui, compartilhar minha tela.
+
+43
+00:02:11,604 --> 00:02:14,224
+Tem esse diagrama aqui do Jung que é bem conhecido.
+
+44
+00:02:14,324 --> 00:02:18,724
+E nesse diagrama aqui, a gente tem o mundo exterior e o mundo interior, tá vendo?
+
+45
+00:02:19,064 --> 00:02:21,444
+Inner world e outer world.
+
+46
+00:02:22,084 --> 00:02:27,244
+Então, a primeira camada, quando a gente vai saindo do mundo exterior e entrando na nossa mente,
+
+47
+00:02:27,324 --> 00:02:28,824
+a primeira camada é a persona.
+
+48
+00:02:29,124 --> 00:02:31,404
+São as máscaras que nós utilizamos.
+
+49
+00:02:31,604 --> 00:02:33,484
+E aí, cada um de nós tem uma persona, certo?
+
+50
+00:02:33,664 --> 00:02:34,824
+Tem várias personas.
+
+51
+00:02:34,824 --> 00:02:37,804
+Então, eu, por exemplo, eu tenho a minha persona de professor aqui agora,
+
+52
+00:02:38,024 --> 00:02:42,104
+mas eu também tenho a minha persona de aluno, tenho a minha persona de marido, de filho,
+
+53
+00:02:42,344 --> 00:02:45,384
+tenho a minha persona de irmão, de amigo, de líder.
+
+54
+00:02:45,724 --> 00:02:49,904
+São várias máscaras diferentes que nós assumimos naturalmente,
+
+55
+00:02:49,964 --> 00:02:51,724
+às vezes até de maneira inconsciente,
+
+56
+00:02:51,884 --> 00:02:55,124
+para poder viver em sociedade com outras pessoas também,
+
+57
+00:02:55,244 --> 00:02:56,824
+nos relacionarmos uns com os outros.
+
+58
+00:02:57,364 --> 00:03:01,004
+Então, o Jung começa a usar isso, está na camada aqui da consciência,
+
+59
+00:03:01,024 --> 00:03:02,104
+está vendo? Consciousness.
+
+60
+00:03:02,104 --> 00:03:03,824
+isso. Então é nível de
+
+61
+00:03:03,824 --> 00:03:05,964
+consciência, e temos
+
+62
+00:03:05,964 --> 00:03:08,064
+aqui o ego também, depois entra em self,
+
+63
+00:03:08,204 --> 00:03:10,144
+shadow, animus e anima,
+
+64
+00:03:10,604 --> 00:03:12,184
+e esses conceitos
+
+65
+00:03:12,184 --> 00:03:13,104
+todos aqui, que
+
+66
+00:03:14,344 --> 00:03:16,124
+abaixo do self ele chama de inconsciente
+
+67
+00:03:16,124 --> 00:03:17,624
+coletivo, é o que a gente chama de
+
+68
+00:03:18,244 --> 00:03:18,684
+arquétipos.
+
+69
+00:03:19,804 --> 00:03:24,064
+Tanto o conceito de persona quanto o conceito de arquétipos estão muito ligados
+
+70
+00:03:24,064 --> 00:03:27,284
+e já era usado ali na psicanálise.
+
+71
+00:03:27,424 --> 00:03:33,084
+Mais tarde, esses conceitos foram trazidos para o mundo do marketing e para o mundo do branding
+
+72
+00:03:33,084 --> 00:03:40,244
+e começaram a ser usados como termos para tentar representar um recorte,
+
+73
+00:03:40,244 --> 00:03:45,184
+um público muito específico ou tentar representar uma camada de uma marca.
+
+74
+00:03:45,484 --> 00:03:49,524
+E aqui existe uma confusão das pessoas quando a gente fala de persona.
+
+75
+00:03:49,804 --> 00:03:59,964
+Porque existe buyer persona, é um tipo de persona, existe brand persona, é outro tipo de persona, existe persona sintética, é outro tipo de persona também.
+
+76
+00:04:00,144 --> 00:04:04,284
+E você pode criar essas personas para objetivos diferentes.
+
+77
+00:04:04,764 --> 00:04:07,824
+Vamos entender isso um pouco melhor em camadas.
+
+78
+00:04:07,864 --> 00:04:13,204
+Basicamente o que a galera do mundo do marketing e do mundo do branding fizeram com esses conceitos.
+
+79
+00:04:13,664 --> 00:04:17,984
+No passado, as pessoas faziam apenas pesquisa de público.
+
+80
+00:04:17,984 --> 00:04:40,704
+E aí a pesquisa de público trazia muitos dados legais, só que esses dados, eles vinham em massa, então você tinha dados muito abertos, por exemplo, ah, esse público é 55% mulheres e 45% homens, é um público que tem uma faixa etária de 25 a 35 anos, então você pegava um grande grupo de pessoas.
+
+81
+00:04:40,704 --> 00:04:49,424
+E aí isso é uma coisa que tem gente que confunde muito, quando fala assim, você pergunta para alguém assim, qual é o público dessa campanha?
+
+82
+00:04:49,564 --> 00:04:54,344
+É diferente de perguntar qual a persona específica para essa campanha.
+
+83
+00:04:54,784 --> 00:04:56,604
+Mas quando que a persona surge?
+
+84
+00:04:57,344 --> 00:05:06,244
+Quando você começa a trabalhar com dados muito amplos de público, você às vezes tem dificuldade de selecionar um recorte específico ali
+
+85
+00:05:06,244 --> 00:05:10,144
+que vai representar a pessoa com a qual você quer falar.
+
+86
+00:05:10,704 --> 00:05:13,984
+Então, a persona, ela se tornou uma ferramenta
+
+87
+00:05:13,984 --> 00:05:16,884
+para te ajudar a entender com quem você está falando.
+
+88
+00:05:17,044 --> 00:05:20,504
+Se o público é amplo e pega uma grande faixa de pessoas,
+
+89
+00:05:20,744 --> 00:05:24,884
+a persona é um recorte que tem desafios específicos,
+
+90
+00:05:24,884 --> 00:05:28,484
+uma visão de mundo específica, uma necessidade muito específica.
+
+91
+00:05:28,584 --> 00:05:32,044
+Mais do que isso, a persona é uma representação
+
+92
+00:05:32,044 --> 00:05:33,924
+de um recorte de público.
+
+93
+00:05:34,244 --> 00:05:34,964
+O que isso significa?
+
+94
+00:05:35,364 --> 00:05:39,604
+Significa que você cria uma persona que vai ser uma...
+
+95
+00:05:39,604 --> 00:05:44,784
+É como se fosse uma pessoa, é um espelho de alguém, um reflexo de alguém,
+
+96
+00:05:45,404 --> 00:05:51,024
+fictício, que você constrói e quando você vai construir uma comunicação, uma mensagem,
+
+97
+00:05:51,124 --> 00:05:54,224
+você imagina que está falando com essa pessoa.
+
+98
+00:05:54,624 --> 00:05:56,524
+Vou dar um exemplo para vocês aqui.
+
+99
+00:05:56,704 --> 00:06:00,204
+A gente tem um sistema da Overlens, que a gente chama aqui de Brand System,
+
+100
+00:06:00,504 --> 00:06:05,924
+é um sistema da marca, onde nós organizamos aqui os principais assets da nossa marca.
+
+101
+00:06:06,024 --> 00:06:08,924
+E também as principais diretrizes da marca.
+
+102
+00:06:08,924 --> 00:06:16,024
+E dentro desse Brand System, nós temos aqui uma camada chamada Núcleo da Marca.
+
+103
+00:06:16,064 --> 00:06:20,824
+Quando eu entro aqui em Núcleo da Marca, eu posso ver posicionamento, propósito, Story Brand.
+
+104
+00:06:21,084 --> 00:06:25,324
+Tem aqui também os arquétipos de marca que eu posso trabalhar.
+
+105
+00:06:25,544 --> 00:06:29,624
+Eu vou falar de arquétipos já já, mas eu quero trazer um ponto interessante para vocês.
+

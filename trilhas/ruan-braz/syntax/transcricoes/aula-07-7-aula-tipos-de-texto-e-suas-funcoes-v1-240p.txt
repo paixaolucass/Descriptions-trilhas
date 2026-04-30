@@ -1,0 +1,119 @@
+# Video: 7._aula_-_tipos_de_texto_e_suas_funções_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 13:02
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:03 --> 00:00:03:04] Então pense assim, esses cinco tipos são os motores.
+[00:00:03:05 --> 00:00:06:06] O post do Instagram, o manifesto, o roteiro,
+[00:00:06:07 --> 00:00:09:03] a finalidade que você está escrevendo, eles são os veículos.
+[00:00:09:12 --> 00:00:13:08] Então quando você pega, por exemplo, o motor de uma Ferrari
+[00:00:13:08 --> 00:00:16:11] e você coloca ele num trator, não vai funcionar.
+[00:00:16:13 --> 00:00:19:25] Ou o oposto, você tem um motor de trator e coloca numa Ferrari,
+[00:00:20:02 --> 00:00:21:03] ela também não vai andar.
+[00:00:21:08 --> 00:00:22:17] O mesmo acontece com o seu texto.
+[00:00:22:23 --> 00:00:26:15] Se você pega um tipo diferente e coloca num texto
+[00:00:26:15 --> 00:00:30:03] texto que tem uma outra finalidade, esse texto não vai andar.
+[00:00:30:11 --> 00:00:34:01] Para a gente ver isso na prática, eu trouxe aqui três erros clássicos
+[00:00:34:01 --> 00:00:39:26] de que humanos e IAs usam quando tentam colocar o motor errado no veículo certo
+[00:00:39:26 --> 00:00:42:00] ou o motor certo no veículo errado.
+[00:00:42:06 --> 00:00:45:10] O primeiro deles é o erro da narrativa forçada.
+[00:00:45:13 --> 00:00:48:21] Por exemplo, você está numa situação onde você precisa orientar o usuário
+[00:00:48:21 --> 00:00:51:05] a configurar um produto ou um serviço.
+[00:00:51:09 --> 00:00:52:22] O objetivo aqui é a ação.
+[00:00:52:26 --> 00:00:56:09] Então, você imagina assim que o texto, você compra esse produto,
+[00:00:56:15 --> 00:00:58:02] você abre o manual e você lê um texto assim.
+[00:00:58:09 --> 00:01:00:21] Imagine que você acabou de abrir sua caixa,
+[00:01:00:24 --> 00:01:01:27] o cheiro de novo no ar
+[00:01:01:27 --> 00:01:04:12] e encontra o aparelho brilhando diante dos seus olhos,
+[00:01:04:17 --> 00:01:05:29] esperando para ganhar vida.
+[00:01:06:11 --> 00:01:07:00] É bonito, né?
+[00:01:07:02 --> 00:01:09:26] É poético, mas eu só quero saber como usar esse aplicativo
+[00:01:09:26 --> 00:01:11:06] ou esse produto que eu acabei de comprar.
+[00:01:11:10 --> 00:01:11:25] É inútil.
+[00:01:11:29 --> 00:01:13:05] O usuário só quer ligar o negócio.
+[00:01:13:15 --> 00:01:14:14] Acaba virando ruído.
+[00:01:14:18 --> 00:01:16:18] Correto seria você simplesmente transformar isso
+[00:01:16:18 --> 00:01:17:16] num manual de instruções.
+[00:01:17:24 --> 00:01:18:23] 1. Ligue o aparelho.
+[00:01:18:26 --> 00:01:20:15] 2. Baixe o aplicativo.
+[00:01:20:17 --> 00:01:22:28] 3. Escaneie o QR Code direto.
+[00:01:23:03 --> 00:01:24:28] Respeita seu tempo e o tempo de quem está lendo.
+[00:01:24:28 --> 00:01:27:03] O segundo erro é um erro de frieza.
+[00:01:27:08 --> 00:01:30:11] É quando você quer apresentar, por exemplo, o propósito de um projeto
+[00:01:30:11 --> 00:01:32:01] e criar uma certa conexão.
+[00:01:32:03 --> 00:01:35:14] E para criar conexão, agora sim, a gente tem que falar de uma forma mais narrativa.
+[00:01:35:21 --> 00:01:39:07] Então aqui, o projeto X possui funcionalidades de automação,
+[00:01:39:08 --> 00:01:42:21] redução de latência e otimização de fluxo de dados em 20%.
+[00:01:42:21 --> 00:01:47:06] Isso está correto na teoria e isso é um erro que eu vejo muitos criativos fazendo,
+[00:01:47:11 --> 00:01:51:01] que é simplesmente falar dos entregáveis ou falar dos benefícios,
+[00:01:51:02 --> 00:01:53:08] mas sem falar um pouquinho da narrativa.
+[00:01:53:08 --> 00:01:56:18] Ninguém se apaixona por isso, ninguém cria uma conexão com isso.
+[00:01:56:20 --> 00:01:58:27] Se a gente for corrigir, vai ficar mais ou menos assim.
+[00:01:59:06 --> 00:02:02:17] Percebemos que as pessoas perdiam duas horas por dia ajustando planilhas.
+[00:02:02:21 --> 00:02:06:11] Então criamos o projeto X para devolver esse tempo de vida para elas.
+[00:02:06:15 --> 00:02:09:14] Agora a gente colocou o significado antes da informação.
+[00:02:09:23 --> 00:02:13:02] Um terceiro erro que é bem comum é o erro da falta de tese.
+[00:02:13:05 --> 00:02:16:21] Então, por exemplo, você tem um texto corporativo que é para vender a autoridade
+[00:02:16:21 --> 00:02:20:07] e o objetivo seu é convencimento, é um texto mais dissertativo.
+[00:02:20:12 --> 00:02:21:05] Vou dar um exemplo aqui.
+[00:02:21:05 --> 00:02:23:17] Nosso time é incrível, vibrante, cheio de energia,
+[00:02:23:25 --> 00:02:25:04] cheio de paixão pelo que faz.
+[00:02:25:12 --> 00:02:28:07] Palavras vazias, parece torcedor organizada,
+[00:02:28:08 --> 00:02:29:15] não parece um texto corporativo.
+[00:02:29:22 --> 00:02:30:18] Se a gente for corrigir isso,
+[00:02:30:20 --> 00:02:33:02] a gente pode trazer um pouquinho mais de argumento aqui.
+[00:02:33:07 --> 00:02:36:18] O nosso time aumentou a eficiência de 10 grandes varejistas
+[00:02:36:18 --> 00:02:39:00] em 27% usando esse método.
+[00:02:39:02 --> 00:02:40:08] Aqui eu estou trazendo um método,
+[00:02:40:09 --> 00:02:43:15] estou trazendo dados concretos, dados específicos.
+[00:02:43:15 --> 00:02:45:12] É um fato, é um argumento, é uma prova
+[00:02:45:12 --> 00:02:46:29] e isso ajuda a convencer.
+[00:02:47:03 --> 00:02:48:08] E onde que a maioria erra?
+[00:02:48:09 --> 00:02:51:05] Muita gente erra na função e no formato.
+[00:02:51:05 --> 00:02:55:17] Então, por exemplo, eu abro o chat GPT e falo, escreve aí para mim um texto para o LinkedIn.
+[00:02:55:26 --> 00:02:58:11] Isso é vazio, o LinkedIn é somente o veículo.
+[00:02:58:17 --> 00:02:59:05] Qual que é o motor?
+[00:02:59:09 --> 00:03:02:11] O motor pode ser, por exemplo, narrativo, se eu quero contar uma história.
+[00:03:02:18 --> 00:03:07:03] Ele pode ser mais dissertativo, se eu quero fazer uma análise, se eu quero mostrar um relatório.
+[00:03:07:07 --> 00:03:09:20] Ele pode ser também injuntivo, se eu quero só criar um tutorial.
+[00:03:09:29 --> 00:03:14:14] O que acontece é que muitas vezes a gente só fala para ir criar um texto, criar um post para o LinkedIn,
+[00:03:14:22 --> 00:03:18:08] e aí ela vai simplesmente escolher esse motor de uma forma aleatória.
+[00:03:18:08 --> 00:03:21:26] E a maioria das vezes, essa forma aleatória vai ser o expositivo chatão, né?
+[00:03:21:29 --> 00:03:24:10] Cheio de palavra vazia, cheio de termo genérico,
+[00:03:24:14 --> 00:03:28:24] e o seu texto não vai cumprir o objetivo que você tinha definido para ele antes.
+[00:03:28:29 --> 00:03:30:17] E é muito importante falar do objetivo,
+[00:03:30:24 --> 00:03:35:11] porque o tipo textual, ele não é o que eu vou escolher para deixar o texto bonito.
+[00:03:35:19 --> 00:03:39:18] É o que eu vou escolher que vai cumprir a função, o objetivo do texto.
+[00:03:39:23 --> 00:03:43:23] Então, se você deixa para ir a escolher esse objetivo, escolher esse motor,
+[00:03:44:01 --> 00:03:47:14] você acaba criando um texto vazio e que não vai cumprir a sua função.
+[00:03:47:14 --> 00:03:51:27] Então, como a gente pode aumentar as chances de você e a IA acertarem?
+[00:03:51:29 --> 00:03:55:13] A gente pode usar um método que eu chamo do método da escolha funcional.
+[00:03:55:18 --> 00:03:59:18] Então, a gente vai olhar aqui três perguntas que a gente tem que fazer antes de abrir o prompt.
+[00:03:59:24 --> 00:04:02:24] A primeira delas é basicamente o objetivo que eu acabei de falar.
+[00:04:03:01 --> 00:04:04:23] Qual é o efeito desejado?
+[00:04:04:27 --> 00:04:06:13] Eu quero que a pessoa sinta o quê?
+[00:04:06:15 --> 00:04:07:25] Eu quero que ela entenda o quê?
+[00:04:07:28 --> 00:04:09:06] O que eu quero que ela faça?
+[00:04:09:09 --> 00:04:12:08] Depois de definir isso, a gente vai para o motor, o tipo textual.
+[00:04:12:14 --> 00:04:16:00] Se eu quero que a pessoa sinta, crie uma história, algo mais narrativo.
+[00:04:16:00 --> 00:04:18:11] Se eu quero que a pessoa entenda, pode ser algo mais positivo.
+[00:04:18:25 --> 00:04:22:28] Se eu quero convencer ela que ela concorde comigo, pode ser um texto mais dissertativo.
+[00:04:23:03 --> 00:04:28:25] Se eu quero criar um tutorial, um call to action, que ela tome uma ação, é um texto mais injuntivo.
+[00:04:29:00 --> 00:04:31:12] E por último, a terceira pergunta é o veículo.
+[00:04:31:19 --> 00:04:33:00] Lembre do motor e do veículo.
+[00:04:33:03 --> 00:04:34:18] O motor certo no veículo certo.
+[00:04:34:25 --> 00:04:37:29] É um e-mail? É um vídeo? É um carrossel? É um post para Instagram?
+[00:04:38:06 --> 00:04:43:04] Então quando você estrutura nessa ordem, você faz essas três perguntas antes de começar o seu prompt,
+[00:04:43:04 --> 00:04:47:15] antes de começar a escrever, o texto sai pronto para funcionar.
+[00:04:47:18 --> 00:04:50:12] Então a tarefa de hoje é um pouquinho mais analítica.
+[00:04:50:18 --> 00:04:53:12] Eu quero que você pegue os últimos três textos que você escreveu
+[00:04:53:12 --> 00:04:57:11] ou que você gerou com a IA e tenta identificar que motor está rodando ali.
+[00:04:57:15 --> 00:04:58:13] Qual é o tipo textual?
+[00:04:58:18 --> 00:05:02:05] Será que você está tentando emocionar através de um manual de instruções?
+[00:05:02:11 --> 00:05:05:09] Será que você está tentando vender através de uma poesia?
+[00:05:05:11 --> 00:05:08:08] Se você identificar esse motor e ajustar o veículo,
+[00:05:08:12 --> 00:05:10:23] eu tenho certeza que o seu texto vai rodar muito melhor.
+[00:05:11:06 --> 00:05:12:05] Até a próxima aula.

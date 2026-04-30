@@ -1,0 +1,7552 @@
+1
+00:00:00,000 --> 00:00:00,940
+Então, vamos voltar para cá, galera.
+
+2
+00:00:01,140 --> 00:00:03,860
+Nós temos aqui o nosso sistema, né?
+
+3
+00:00:03,980 --> 00:00:05,660
+A gente montou ele aqui, foi bem rápido.
+
+4
+00:00:05,900 --> 00:00:10,660
+O que é legal, olha só, ele já é responsivo também, olha aqui.
+
+5
+00:00:11,220 --> 00:00:12,960
+Cara, pensa no trabalho disso aqui.
+
+6
+00:00:13,600 --> 00:00:17,060
+Ele já funciona em telas menores, totalmente responsivo,
+
+7
+00:00:17,060 --> 00:00:19,740
+porque nós criamos os agentes de design e de dev.
+
+8
+00:00:19,880 --> 00:00:22,900
+E eles já vêm com esse cuidado, né?
+
+9
+00:00:22,940 --> 00:00:24,240
+Na hora de criar uma página.
+
+10
+00:00:24,660 --> 00:00:26,860
+Então, olha aí, já funciona no telefone também,
+
+11
+00:00:27,140 --> 00:00:29,640
+telas pequenas, mobile, telas maiores.
+
+12
+00:00:30,420 --> 00:00:31,000
+Muito bom, né?
+
+13
+00:00:32,476 --> 00:00:35,096
+Vocês achavam que seria tão simples assim, fazer essa parte?
+
+14
+00:00:35,576 --> 00:00:38,636
+A questão é que o Brand System pode evoluir muito, como eu disse,
+
+15
+00:00:38,716 --> 00:00:42,196
+para bancos vetoriais, sistemas de pesquisa, colocar todos os assets,
+
+16
+00:00:42,296 --> 00:00:46,676
+conectar com inteligência artificial, todo esse processo ainda é possível fazer
+
+17
+00:00:46,676 --> 00:00:49,576
+e compreender aqui cada uma dessas etapas.
+
+18
+00:00:49,696 --> 00:00:53,416
+Como eu disse para vocês, eu vou entregar um caminho para vocês continuarem com isso aqui
+
+19
+00:00:53,416 --> 00:00:56,516
+e vocês vão se surpreender ainda, ainda hoje,
+
+20
+00:00:56,716 --> 00:01:00,296
+mas qual é o próximo passo aqui importante que a gente precisa saber?
+
+21
+00:01:00,296 --> 00:01:04,876
+vamos saber entrando na parte de produto tá imagina que você tem seu produto pronto no
+
+22
+00:01:04,876 --> 00:01:09,996
+caso nós temos dois aqui lembram a gente tem esse aqui e nós temos também esse aqui ó são
+
+23
+00:01:09,996 --> 00:01:15,516
+dois produtos diferentes E aí você quer pegar esse produto e publicar para as outras pessoas
+
+24
+00:01:15,516 --> 00:01:20,516
+utilizarem para fins de teste a gente vai fazer isso com este tá então a gente vai
+
+25
+00:01:20,516 --> 00:01:24,056
+trabalhar neste aqui ao invés de ser no Brand System mas a lógica é a mesma
+
+26
+00:01:25,468 --> 00:01:30,148
+Só que, antes da gente publicar ele, eu preciso ensinar uma última coisa aqui para vocês.
+
+27
+00:01:30,408 --> 00:01:32,488
+Vai ser a última vez que eu vou abrir o quadro branco.
+
+28
+00:01:32,508 --> 00:01:33,608
+Já está dando saudade, né?
+
+29
+00:01:34,268 --> 00:01:35,828
+Última parte do quadro branco.
+
+30
+00:01:36,468 --> 00:01:37,468
+Vamos vir para cá.
+
+31
+00:01:38,348 --> 00:01:42,548
+Então, isso aqui é um PM Playbook para IA exponencial.
+
+32
+00:01:42,788 --> 00:01:44,428
+O que isso aqui está mostrando para a gente?
+
+33
+00:01:44,888 --> 00:01:46,308
+Olha o que esse gráfico mostra.
+
+34
+00:01:46,808 --> 00:01:49,688
+Antes da IA, a gente tinha uma visão muito linear.
+
+35
+00:01:50,568 --> 00:01:50,968
+Certo?
+
+36
+00:01:51,388 --> 00:01:54,108
+Então, você tinha ali o produto, do produto fazia o design,
+
+37
+00:01:54,108 --> 00:01:55,548
+e do design mandava para a engenharia.
+
+38
+00:01:55,908 --> 00:01:57,688
+O que está acontecendo agora?
+
+39
+00:01:57,768 --> 00:02:02,948
+O que está acontecendo agora é que está tudo convergindo para o mesmo ponto.
+
+40
+00:02:04,284 --> 00:02:09,084
+Então, com inteligência artificial, você tem camadas que você trabalha isoladas aqui,
+
+41
+00:02:09,784 --> 00:02:10,844
+mas está tudo junto.
+
+42
+00:02:11,064 --> 00:02:13,284
+Isso é uma visão mais nexialista da coisa,
+
+43
+00:02:13,424 --> 00:02:18,124
+que é o que a gente tem utilizado aqui dentro da Overlens, da Vanguarda como um todo.
+
+44
+00:02:18,444 --> 00:02:24,304
+Então, você precisa desenvolver habilidades em produto, design e engenharia.
+
+45
+00:02:24,484 --> 00:02:32,584
+A parte curiosa disso é que designers estão agora aprendendo a desenvolver...
+
+46
+00:02:33,916 --> 00:02:37,816
+Designers já têm geralmente uma habilidade com produto, nem todos, mas muitos já têm.
+
+47
+00:02:37,916 --> 00:02:40,976
+Então designers estão aprendendo produto e engenharia.
+
+48
+00:02:41,476 --> 00:02:44,036
+Engenheiros estão aprendendo mais design e produto.
+
+49
+00:02:46,140 --> 00:02:49,900
+Profissionais de produto estão aprendendo agora mais sobre engenharia e design.
+
+50
+00:02:50,460 --> 00:02:53,320
+Ou seja, está todo mundo convergindo para o mesmo lugar.
+
+51
+00:02:53,680 --> 00:02:57,260
+Seremos todos criadores de soluções, de ideias.
+
+52
+00:02:57,320 --> 00:02:58,940
+E essa é a parte boa da história.
+
+53
+00:02:59,080 --> 00:03:04,020
+Nós acreditamos aqui na Overlens que nós estamos entrando na era da criação,
+
+54
+00:03:04,040 --> 00:03:08,900
+onde as pessoas vão poder criar mais e mais com todas as ferramentas que nós temos disponíveis.
+
+55
+00:03:09,640 --> 00:03:14,960
+E dentro dessa lógica aqui, então, a gente precisa ter alguns conceitos de engenharia aqui muito importantes.
+
+56
+00:03:14,960 --> 00:03:18,760
+Um dos conceitos, que não é exclusivo de engenharia,
+
+57
+00:03:18,760 --> 00:03:20,920
+mas a galera de engenharia masterizou bem,
+
+58
+00:03:21,120 --> 00:03:23,620
+é a questão do Git que eu falei com vocês,
+
+59
+00:03:23,840 --> 00:03:25,600
+que é o versionamento de projeto.
+
+60
+00:03:26,020 --> 00:03:27,420
+Nós instalamos o Git,
+
+61
+00:03:27,620 --> 00:03:30,880
+mas nenhum desses nossos projetos aqui estão versionados.
+
+62
+00:03:31,320 --> 00:03:34,080
+Então, se acontecer alguma coisa aqui, sei lá,
+
+63
+00:03:34,620 --> 00:03:36,680
+deletar os arquivos e perder, já era.
+
+64
+00:03:36,880 --> 00:03:39,760
+Não tem Ctrl S aqui não. Perdeu e já era.
+
+65
+00:03:40,160 --> 00:03:44,080
+Nós precisamos subir isso daqui tudo em um servidor.
+
+66
+00:03:44,080 --> 00:03:57,660
+Isso é um pouco mais avançado, nessa altura do campeonato aqui, com tanta coisa que vocês aprenderam, realmente vai ficar pesado se eu for ensinar detalhadamente, mas eu preciso jogar uma luz nisso e explicar para vocês que existe.
+
+67
+00:03:57,660 --> 00:03:59,460
+existe, mas é importante lembrar
+
+68
+00:03:59,460 --> 00:04:00,280
+para vocês o seguinte,
+
+69
+00:04:01,080 --> 00:04:02,820
+quando a gente vai trabalhar com Git,
+
+70
+00:04:03,780 --> 00:04:05,320
+nós precisamos subir ele
+
+71
+00:04:05,320 --> 00:04:06,720
+na nuvem, é uma
+
+72
+00:04:06,720 --> 00:04:09,560
+boa prática de segurança, mas também
+
+73
+00:04:09,560 --> 00:04:11,260
+é uma boa prática para poder trabalhar
+
+74
+00:04:11,260 --> 00:04:12,940
+em colaboração com outras pessoas,
+
+75
+00:04:13,180 --> 00:04:15,260
+para que outras pessoas possam ter
+
+76
+00:04:15,260 --> 00:04:17,220
+acesso ao projeto. E eu vou
+
+77
+00:04:17,220 --> 00:04:18,720
+fazer isso aqui com vocês,
+
+78
+00:04:18,940 --> 00:04:21,200
+para subir o nosso projeto aqui
+
+79
+00:04:21,800 --> 00:04:22,320
+do...
+
+80
+00:04:22,960 --> 00:04:24,720
+de tudo que a gente construiu.
+
+81
+00:04:25,100 --> 00:04:27,200
+Só que, no caso, eu vou trabalhar
+
+82
+00:04:27,200 --> 00:04:34,420
+trabalhar um monorepo. Isso significa o quê? Cada projetinho desse que a gente criou, ele merece um
+
+83
+00:04:34,420 --> 00:04:39,140
+Git só para ele, um repositório só para ele. Então, pensa comigo que a gente tem três pastas aqui, ó.
+
+84
+00:04:39,960 --> 00:04:46,360
+Nós trabalhamos aqui nesse fim de semana. Esse gerador de imagens, certo? Que está incompleto,
+
+85
+00:04:46,360 --> 00:04:51,060
+tem que conectar as chaves APIs ali. Vou fazer isso com vocês. Mas a gente tem o gerador de imagem.
+
+86
+00:04:51,060 --> 00:04:56,700
+Nós temos também aqui o ambiente de negócios, né?
+
+87
+00:04:56,760 --> 00:04:59,320
+Vou chamar desse jeito, ambiente de negócios.
+
+88
+00:04:59,360 --> 00:05:01,000
+A gente chamou ele ali de BM, né?
+
+89
+00:05:01,100 --> 00:05:02,060
+BM Overlens.
+
+90
+00:05:02,180 --> 00:05:03,740
+Vou colocar aqui, ó, BM Overlens.
+
+91
+00:05:05,884 --> 00:05:09,264
+Nós temos também o Brand System, Overlens, que a gente fez aqui junto.
+
+92
+00:05:09,944 --> 00:05:14,004
+E esses três, cada um merece um repositório para eles no GitHub.
+
+93
+00:05:14,404 --> 00:05:16,444
+Para vocês verem como que funciona, tá?
+
+94
+00:05:16,504 --> 00:05:20,684
+Eu sei, nessa altura do campeonato vai ser uma tela gigante que vocês vão falar,
+
+95
+00:05:20,724 --> 00:05:24,124
+meu Deus, é muita coisa para eu aprender, tenho que aprender todos esses botões.
+
+96
+00:05:24,184 --> 00:05:25,704
+Não, vamos na paz.
+
+97
+00:05:26,244 --> 00:05:28,704
+Eu recomendo que vocês criem uma conta no GitHub,
+
+98
+00:05:28,904 --> 00:05:33,824
+porque aqui vocês vão conseguir baixar os repositórios para o computador de vocês, tá bom?
+
+99
+00:05:33,824 --> 00:05:37,644
+Mas basicamente, olha, eu tenho quatro repositórios ativos nessa conta.
+
+100
+00:05:37,964 --> 00:05:40,824
+Esse aqui é o do protótipo do nosso Design System,
+
+101
+00:05:41,204 --> 00:05:42,544
+esse aqui é o do Brand System,
+
+102
+00:05:42,924 --> 00:05:46,584
+esse aqui é um repositório que a gente utiliza lá dentro da vanguarda,
+
+103
+00:05:46,604 --> 00:05:49,284
+que eu coloco algumas coisas legais aqui que dá para baixar,
+
+104
+00:05:49,324 --> 00:05:52,344
+e esse é um outro que eu estou experimentando aqui também, privado.
+
+105
+00:05:52,784 --> 00:05:56,364
+O que eu vou fazer aqui é criar um outro repositório
+
+106
+00:05:56,364 --> 00:06:00,744
+e nós vamos subir todos os nossos arquivos para ele, beleza?
+
+107
+00:06:00,744 --> 00:06:06,644
+E aí vocês vão poder simplesmente baixar a pasta zip e usar do jeito que vocês quiserem.
+
+108
+00:06:06,744 --> 00:06:11,384
+Eu não vou ensinar vocês nesse momento a clonar o repositório, a mesclar tudo,
+
+109
+00:06:11,544 --> 00:06:13,824
+mas vocês precisam entender que isso existe, tá?
+
+110
+00:06:14,064 --> 00:06:21,424
+O jeito mais fácil de começar a utilizar é baixando um programinha chamado GitHub Desktop.
+
+111
+00:06:21,984 --> 00:06:23,044
+Então, peraí que eu...
+
+112
+00:06:25,948 --> 00:06:29,648
+Você vai vir aqui no Google e vai digitar assim, ó, GitHub Desktop.
+
+113
+00:06:30,308 --> 00:06:38,008
+E você vai clicar aqui em Download GitHub Desktop e vai baixar aqui essa versão do GitHub para o seu computador.
+
+114
+00:06:38,208 --> 00:06:42,308
+Você vai conseguir abrir um programa igual esse que eu vou abrir na tela aqui, tá bom?
+
+115
+00:06:42,628 --> 00:06:45,568
+A instalação é super simples, não precisa se preocupar.
+
+116
+00:06:46,088 --> 00:06:49,048
+Aqui no caso, eu estou no Overlens OS.
+
+117
+00:06:49,048 --> 00:06:53,388
+Mas se eu clicar aqui, eu consigo ver quais repositórios eu tenho ativo
+
+118
+00:06:53,388 --> 00:06:55,928
+e criar novos repositórios a partir disso.
+
+119
+00:06:56,208 --> 00:06:57,468
+O que eu vou fazer então?
+
+120
+00:06:57,608 --> 00:06:59,148
+Vou minimizar tudo aqui para vocês.
+
+121
+00:06:59,928 --> 00:07:00,988
+Vamos dar uma olhada.
+
+122
+00:07:01,168 --> 00:07:04,948
+A gente tem o BM Overlens, o BS Overlens,
+
+123
+00:07:05,188 --> 00:07:08,368
+temos também aqui o Projeto Alpha.
+
+124
+00:07:08,708 --> 00:07:11,388
+São os três que nós trabalhamos que eu vou enviar para vocês.
+
+125
+00:07:11,588 --> 00:07:13,708
+Além disso, eu vou colocar os prompts lá também.
+
+126
+00:07:14,128 --> 00:07:17,248
+Tudo isso aqui agora vai ser o nosso repositório.
+
+127
+00:07:17,248 --> 00:07:23,048
+Então, nós vamos ter uma pasta aqui, e eu vou chamar essa pasta aqui de Atlas 2, beleza?
+
+128
+00:07:23,368 --> 00:07:25,648
+E nós vamos colocar todos eles aqui dentro.
+
+129
+00:07:25,968 --> 00:07:28,108
+Por que eu não vou colocar agora ainda?
+
+130
+00:07:28,288 --> 00:07:30,508
+Porque eu ainda quero publicar o projeto com vocês,
+
+131
+00:07:30,728 --> 00:07:34,328
+então, depois que eu publicar, eu vou voltar aqui, subir essa pasta,
+
+132
+00:07:34,408 --> 00:07:37,868
+e vou pegar essa pasta e subir no GitHub junto com vocês, tá bom?
+
+133
+00:07:38,188 --> 00:07:42,528
+Então, por enquanto, só para tocar no assunto que vocês pediram,
+
+134
+00:07:42,548 --> 00:07:45,128
+mas eu não vou, pelo tempo e pelo que a gente tem aqui,
+
+135
+00:07:45,128 --> 00:07:50,208
+eu não vou explicar agora o que é merge, branch, commit, push, deploy,
+
+136
+00:07:50,868 --> 00:07:53,828
+isso é bem técnico e nessa altura do campeonato aqui
+
+137
+00:07:53,828 --> 00:07:56,868
+vai mais confundir vocês do que ajudar nesse momento, tá bom?
+
+138
+00:07:57,028 --> 00:08:00,168
+Então deixa isso aqui, o que a gente vai fazer aqui agora
+
+139
+00:08:00,168 --> 00:08:02,048
+para a gente poder finalizar?
+
+140
+00:08:02,248 --> 00:08:05,348
+Nós temos aqui o nosso BS, tá?
+
+141
+00:08:05,448 --> 00:08:07,308
+Então deixa eu fechar esse SVGzão aqui,
+
+142
+00:08:07,368 --> 00:08:09,848
+fechar os arquivos até onde a gente parou,
+
+143
+00:08:09,928 --> 00:08:12,368
+nosso brand system está aqui, está funcional,
+
+144
+00:08:12,948 --> 00:08:14,348
+pode salvar aqui, beleza.
+
+145
+00:08:14,928 --> 00:08:16,848
+Está funcional aqui, todos os arquivos,
+
+146
+00:08:16,848 --> 00:08:18,848
+olha o tanto de coisa que a IA trabalhou para a gente, olha.
+
+147
+00:08:18,948 --> 00:08:20,608
+A gente tem um sisteminha inteiro aqui,
+
+148
+00:08:20,688 --> 00:08:23,608
+só tem que colocar um login e senha, tá?
+
+149
+00:08:24,892 --> 00:08:26,912
+E aí a gente pode colocar o login e senha nele aqui.
+
+150
+00:08:26,972 --> 00:08:32,172
+O processo para colocar o login e senha nele é parecido com o processo para colocar o login e senha no outro produto,
+
+151
+00:08:32,392 --> 00:08:37,612
+mas como agora a gente entrou no workflow de produto, nós não vamos trabalhar nesse momento no brand system.
+
+152
+00:08:37,932 --> 00:08:40,932
+Então a gente para o brand system aqui agora, dei um X.
+
+153
+00:08:41,232 --> 00:08:44,572
+Então o brand system vai entrar aqui em Atlas 2, beleza?
+
+154
+00:08:45,252 --> 00:08:48,452
+Deixa ele entrar aqui certinho, eu tenho que fechar ele também.
+
+155
+00:08:49,820 --> 00:08:53,000
+Porque enquanto ele estiver aberto, ele não vai deixar eu fechar o Brand System aqui.
+
+156
+00:08:53,060 --> 00:08:54,260
+Deixa eu ver se tem abas aqui, ó.
+
+157
+00:08:56,780 --> 00:08:58,160
+Esses aqui são os antigos, aqui ó.
+
+158
+00:08:58,200 --> 00:08:59,100
+Vou fechar essa abinha.
+
+159
+00:08:59,680 --> 00:09:02,140
+Eu também tenho que fechar a porta, senão não vai funcionar.
+
+160
+00:09:04,764 --> 00:09:05,504
+Deixa eu voltar aqui.
+
+161
+00:09:07,516 --> 00:09:13,056
+no Git, vou só falar pro, no Git não, no anti-gravity, vou só falar pra ele aqui o seguinte, ó,
+
+162
+00:09:13,096 --> 00:09:16,056
+Cloud, não precisa nem entrar no Dangerous não, vou falar pra ele assim, ó,
+
+163
+00:09:17,016 --> 00:09:21,556
+feche todos os, feche todos os dev servers, pó.
+
+164
+00:09:23,452 --> 00:09:25,652
+Era pra ser POTS, ficou POTS, mas tá tudo bem.
+
+165
+00:09:27,132 --> 00:09:29,492
+Deixa ele, então, fechar todos aqui para a gente.
+
+166
+00:09:30,844 --> 00:09:32,424
+Beleza, pode fechar, pode.
+
+167
+00:09:32,604 --> 00:09:36,924
+Então todas as portas vão ser fechadas aqui, mas não tem problema.
+
+168
+00:09:37,404 --> 00:09:39,224
+Ele está fechando aqui para a gente certinho.
+
+169
+00:09:41,180 --> 00:09:42,960
+Há vários processos Node rodando,
+
+170
+00:09:43,020 --> 00:09:44,200
+quer fechar todos eles.
+
+171
+00:09:45,180 --> 00:09:45,740
+Yes.
+
+172
+00:09:49,052 --> 00:09:51,892
+Eu estou fazendo isso para eu conseguir mexer nas pastas, tá?
+
+173
+00:09:52,312 --> 00:09:53,572
+Então, beleza, agora tudo certo.
+
+174
+00:09:53,732 --> 00:09:55,952
+Vamos ver se eu consigo aqui, vou dar uma atualizadinha.
+
+175
+00:09:56,072 --> 00:09:57,992
+Ver se eu consigo puxar o BS para lá.
+
+176
+00:09:58,312 --> 00:09:59,352
+Pronto, agora foi.
+
+177
+00:09:59,692 --> 00:10:01,812
+Vou fazer a mesma coisa com o BM.
+
+178
+00:10:02,132 --> 00:10:04,012
+Nós estamos organizando tudo aqui agora, beleza?
+
+179
+00:10:04,252 --> 00:10:07,712
+A gente já trabalhou no BM, tem as informações certinhas aqui.
+
+180
+00:10:08,132 --> 00:10:11,012
+E eu vou pegar tudo isso e colocar no repositório agora.
+
+181
+00:10:11,132 --> 00:10:13,472
+Então, eu posso fechar aqui, pega o BM e sobe aqui.
+
+182
+00:10:13,872 --> 00:10:15,732
+Junto com isso, eu vou subir também os prompt.
+
+183
+00:10:16,592 --> 00:10:18,372
+Sobrou para a gente agora o projeto alpha.
+
+184
+00:10:19,052 --> 00:10:22,272
+Que foi aquele que a gente fez com o...
+
+185
+00:10:24,348 --> 00:10:27,268
+gerador de imagens, que falta a gente conectar nele aqui agora,
+
+186
+00:10:28,188 --> 00:10:30,948
+uma API, então a gente tem que conectar uma chave API,
+
+187
+00:10:31,128 --> 00:10:33,628
+e temos que conectar também um...
+
+188
+00:10:34,568 --> 00:10:37,708
+colocar ele na Vercel para publicar a página e a gente visualizar ela.
+
+189
+00:10:37,968 --> 00:10:41,288
+Eu acabei de lembrar, inclusive, que a gente tem que fazer a página do BM,
+
+190
+00:10:41,508 --> 00:10:43,808
+mas não tem problema não, a gente vai fazer aqui, vai ser bem rápido.
+
+191
+00:10:45,468 --> 00:10:48,828
+Como a gente está nesse projeto aqui, o que eu vou fazer com ele agora é o seguinte,
+
+192
+00:10:48,968 --> 00:10:53,608
+eu vou fechar essas portas todas aqui, essas portas não, esses terminais,
+
+193
+00:10:53,628 --> 00:10:58,188
+até eu estou trocando os nomes agora, Dangerously Skip Permissions.
+
+194
+00:10:59,868 --> 00:11:01,428
+E aí, o que eu vou fazer aqui no projeto?
+
+195
+00:11:01,728 --> 00:11:03,988
+Nós ainda temos que conectar no projeto.
+
+196
+00:11:04,348 --> 00:11:05,768
+Pode fechar essas abas todas?
+
+197
+00:11:05,868 --> 00:11:07,188
+Deixa ele limpinho aqui para a gente.
+
+198
+00:11:07,928 --> 00:11:09,248
+Não, pode não salvar.
+
+199
+00:11:09,968 --> 00:11:11,528
+Fecha skill, fecha tasks.
+
+200
+00:11:12,108 --> 00:11:13,708
+Tasks eu podia até deixar aberto, né?
+
+201
+00:11:13,768 --> 00:11:14,968
+Vamos ver aqui até onde que ele foi.
+
+202
+00:11:15,668 --> 00:11:18,068
+Está faltando aqui agora T9, que é o deploy,
+
+203
+00:11:18,228 --> 00:11:20,428
+que a gente vai fazer daqui a pouco, que é publicar a página.
+
+204
+00:11:21,820 --> 00:11:23,720
+E criar um sistema de login e senha, né?
+
+205
+00:11:23,720 --> 00:11:25,120
+Vou criar um aqui para vocês verem.
+
+206
+00:11:25,380 --> 00:11:27,280
+No geral, está quase tudo pronto, né?
+
+207
+00:11:27,400 --> 00:11:29,040
+A gente só vai precisar conectar login e senha.
+
+208
+00:11:29,120 --> 00:11:30,940
+Eu vou conectar um banco de dados também,
+
+209
+00:11:31,000 --> 00:11:33,740
+porque para colocar login e senha tem que ter autenticação e banco de dados.
+
+210
+00:11:33,880 --> 00:11:37,420
+E é assim que a gente vai fazer aqui o fluxo de produto, tá bom?
+
+211
+00:11:38,140 --> 00:11:39,740
+Tem dois jeitos de fazer isso.
+
+212
+00:11:39,880 --> 00:11:42,660
+Aqui, no caso, nós já temos um projeto que nós criamos, né?
+
+213
+00:11:43,060 --> 00:11:46,020
+Vou até ativar ele aqui de novo, porque como eu fechei as portas,
+
+214
+00:11:46,020 --> 00:11:46,920
+tem que ativar.
+
+215
+00:11:46,960 --> 00:11:48,220
+Deixa eu ver se ele está na pasta raiz.
+
+216
+00:11:49,724 --> 00:11:51,244
+Vamos abrir ele aqui certinho.
+
+217
+00:11:52,444 --> 00:11:52,904
+Beleza.
+
+218
+00:11:53,084 --> 00:11:54,644
+Para vocês verem comigo aqui.
+
+219
+00:11:55,484 --> 00:11:56,544
+Dá uma atualizada.
+
+220
+00:11:56,924 --> 00:11:57,384
+Pronto.
+
+221
+00:11:57,424 --> 00:11:57,704
+Está aqui.
+
+222
+00:11:57,764 --> 00:11:59,524
+Esse é o projeto que a gente trabalhou ontem.
+
+223
+00:11:59,864 --> 00:12:04,404
+De aprimorador de prompt e gerador de imagens.
+
+224
+00:12:04,624 --> 00:12:06,624
+O que a gente vai fazer com ele aqui agora?
+
+225
+00:12:07,344 --> 00:12:12,624
+Nós precisamos conectar as APIs para que ele use outros programas.
+
+226
+00:12:12,664 --> 00:12:13,704
+Então, o que é uma API?
+
+227
+00:12:13,704 --> 00:12:19,904
+Uma API é um protocolo em que você conecta um programa de terceiro
+
+228
+00:12:19,904 --> 00:12:24,644
+junto com o seu programa e eles conseguem trocar informações entre si.
+
+229
+00:12:25,084 --> 00:12:29,184
+Então, a gente consegue enviar uma requisição, ou seja, um pedido.
+
+230
+00:12:29,264 --> 00:12:31,724
+Então, olha para a minha tela aqui e vocês vão pegar a ideia.
+
+231
+00:12:32,744 --> 00:12:35,684
+Imagina que você tem aqui o seu sistema
+
+232
+00:12:35,684 --> 00:12:38,124
+e você quer pedir para uma IA gerar uma imagem
+
+233
+00:12:38,124 --> 00:12:41,784
+e te entregar a imagem para o seu sistema printar essa imagem na tela,
+
+234
+00:12:41,944 --> 00:12:43,384
+imprimir ali e mostrar a imagem.
+
+235
+00:12:43,884 --> 00:12:50,404
+Então, a API faz o quê? Ela é um sisteminha, digamos assim, é um protocolo, é um chamado que você faz,
+
+236
+00:12:50,504 --> 00:12:55,224
+onde o seu sistema é conectado no sistema dessa empresa que você vai usar,
+
+237
+00:12:55,364 --> 00:12:59,844
+e aí você pode falar assim, olha, esse aqui é o prompt, toma aí, você envia o prompt,
+
+238
+00:13:00,064 --> 00:13:04,444
+aí aquele outro sistema lê o prompt, gera a imagem e devolve a imagem para você.
+
+239
+00:13:04,604 --> 00:13:07,704
+Então, você enviou uma informação e o outro sistema enviou outra de volta.
+
+240
+00:13:07,904 --> 00:13:08,444
+Isso é uma API.
+
+241
+00:13:08,444 --> 00:13:15,324
+Tem várias maneiras de conectar a API aqui, mas é claro que a gente vai utilizar a inteligência artificial para fazer isso para a gente.
+
+242
+00:13:15,444 --> 00:13:22,084
+E aí dentro desse processo, nós precisamos escolher qual vai ser a ferramenta que nós vamos utilizar aqui.
+
+243
+00:13:22,364 --> 00:13:25,304
+No caso, nós vamos utilizar o...
+
+244
+00:13:27,324 --> 00:13:31,444
+um gerador de imagens muito bom, que é o Seedance.
+
+245
+00:13:32,796 --> 00:13:34,816
+Ou Seedream, né? Seedance é o de vídeo.
+
+246
+00:13:35,036 --> 00:13:36,856
+A gente vai utilizar aqui o Seedream.
+
+247
+00:13:37,076 --> 00:13:39,136
+Então, eu digitei aqui no Google, olha, Seedream,
+
+248
+00:13:39,216 --> 00:13:42,536
+e vim nesse link aqui, ó, ByteDance Seed.
+
+249
+00:13:42,556 --> 00:13:43,516
+Tem que ser nesse aqui, tá?
+
+250
+00:13:43,836 --> 00:13:46,336
+Esse aqui é o da dona do TikTok, é o oficial.
+
+251
+00:13:47,076 --> 00:13:49,576
+Quando você entrar, você vai cair numa página parecida com essa.
+
+252
+00:13:49,976 --> 00:13:53,216
+E aí, nós vamos vir nesse botão aqui embaixo, olha, Get API.
+
+253
+00:13:53,656 --> 00:13:54,076
+Tá bem?
+
+254
+00:13:54,736 --> 00:13:59,016
+Pra quem tá vendo a gravação, o meu preview aqui tá bem em cima,
+
+255
+00:13:59,016 --> 00:14:00,296
+mas dá pra ver aqui, ó, Get API.
+
+256
+00:14:01,036 --> 00:14:05,396
+Aí nós vamos entrar aqui em GetAPI agora e nós vamos fazer um login.
+
+257
+00:14:05,656 --> 00:14:08,576
+Então você pega uma conta sua aí e faz o login.
+
+258
+00:14:09,076 --> 00:14:13,096
+Nesse caso aqui, eu tenho que colocar o cartão de crédito.
+
+259
+00:14:14,428 --> 00:14:18,188
+Você ganha alguns créditos gratuitos, cerca de 200 créditos gratuitos,
+
+260
+00:14:18,828 --> 00:14:21,168
+mas depois você tem que cadastrar o cartão de crédito.
+
+261
+00:14:21,288 --> 00:14:25,888
+Por isso, eu já estou entrando em uma conta minha que eu já estava utilizando antes.
+
+262
+00:14:26,308 --> 00:14:29,508
+Então, eu consigo seguir com ela aqui.
+
+263
+00:14:29,528 --> 00:14:31,628
+Vocês vão ver que já tem algumas imagens geradas aqui,
+
+264
+00:14:32,068 --> 00:14:34,248
+que a gente faz para as lives e por aí vai.
+
+265
+00:14:35,268 --> 00:14:37,628
+Mas vai dar para vocês entenderem do mesmo jeito.
+
+266
+00:14:37,728 --> 00:14:41,328
+Quando você está criando a conta, você cria a conta, coloca o cartão de crédito e beleza.
+
+267
+00:14:41,868 --> 00:14:43,988
+Isso aqui é cobrado por demanda.
+
+268
+00:14:43,988 --> 00:14:50,568
+Tanto que vocês vão ver aqui embaixo que cada imagem que eu gerar, eu vou gastar 0,04 centavos de dólar.
+
+269
+00:14:51,048 --> 00:14:51,528
+Beleza?
+
+270
+00:14:52,248 --> 00:14:58,028
+Vou vir aqui agora em Access API, esse botão aqui em cima, no canto superior direito.
+
+271
+00:14:58,608 --> 00:15:02,108
+E aqui eu posso criar uma API para o nosso projeto.
+
+272
+00:15:02,168 --> 00:15:09,108
+Vou chamar essa API aqui de Project Alpha, o nome que a gente deu para ele ali.
+
+273
+00:15:09,488 --> 00:15:10,588
+Então, eu vou colocar esse nome.
+
+274
+00:15:10,708 --> 00:15:12,168
+Não posso colocar esse nome, então vai assim.
+
+275
+00:15:12,168 --> 00:15:13,888
+assim, não pode dar espaço.
+
+276
+00:15:14,568 --> 00:15:15,988
+Depois que você criar,
+
+277
+00:15:16,048 --> 00:15:17,528
+você vai copiar isso aqui
+
+278
+00:15:17,528 --> 00:15:19,588
+pro seu projeto.
+
+279
+00:15:19,648 --> 00:15:21,868
+Aqui, no caso, esse tipo de
+
+280
+00:15:21,868 --> 00:15:24,028
+informação aqui, aqui até que
+
+281
+00:15:24,028 --> 00:15:25,668
+tem um pouquinho aqui, né?
+
+282
+00:15:25,768 --> 00:15:27,808
+Tem algumas informações aqui que não é bom ficar
+
+283
+00:15:27,808 --> 00:15:30,028
+vazando não, tá? Mas como ele vai puxar
+
+284
+00:15:30,028 --> 00:15:31,948
+aqui pra gente, depois eu deleto a API
+
+285
+00:15:31,948 --> 00:15:34,268
+mais pra eu poder mostrar pra vocês o processo.
+
+286
+00:15:34,508 --> 00:15:36,008
+Então, copiei isso aqui
+
+287
+00:15:36,008 --> 00:15:37,348
+certinho, beleza?
+
+288
+00:15:37,588 --> 00:15:39,888
+E aí tem todo o processo aqui pra fazer a
+
+289
+00:15:39,888 --> 00:15:42,008
+chamada, SDK, que você poderia ter
+
+290
+00:15:42,008 --> 00:15:44,808
+ter pegado aqui também, se você quisesse fazer isso manualmente.
+
+291
+00:15:45,008 --> 00:15:47,968
+Só que eu vou fazer de um jeito mais simples, tá?
+
+292
+00:15:48,428 --> 00:15:50,848
+Que é, ó, eu cliquei, mas não era para eu clicar ali não.
+
+293
+00:15:51,008 --> 00:15:54,188
+Que é copiar isso aqui, mandar para a nossa inteligência artificial,
+
+294
+00:15:54,968 --> 00:15:56,768
+e ela vai fazer a conexão para a gente.
+
+295
+00:15:57,108 --> 00:15:57,508
+Beleza?
+
+296
+00:15:57,788 --> 00:16:01,008
+Então, eu vou vir aqui na inteligência artificial agora, do nosso projeto.
+
+297
+00:16:02,368 --> 00:16:05,448
+Existem alguns processos mais seguros, só que, de novo, né?
+
+298
+00:16:05,528 --> 00:16:07,608
+Eu não vou entrar nesses processos agora.
+
+299
+00:16:07,828 --> 00:16:11,308
+Eu vou fazer de um jeito simples aqui com vocês, para vocês verem que funciona.
+
+300
+00:16:11,308 --> 00:16:16,088
+Mas se você realmente for criar um serviço em que você vai vender para outras pessoas com assinatura,
+
+301
+00:16:16,248 --> 00:16:21,428
+tem alguns cuidados que precisa tomar, mas que a gente fala disso em outros momentos.
+
+302
+00:16:22,028 --> 00:16:23,268
+Então, vou falar para ele o seguinte.
+
+303
+00:16:24,528 --> 00:16:31,628
+Precisamos conectar a chave API do Seedens para gerar as nossas imagens.
+
+304
+00:16:32,348 --> 00:16:36,568
+Você pode até, se você quiser ser mais seguro, pelo menos dar um caminho para vocês,
+
+305
+00:16:36,568 --> 00:16:37,988
+vocês, vocês falam o seguinte, olha,
+
+306
+00:16:38,048 --> 00:16:40,168
+já gerei a API Key,
+
+307
+00:16:40,768 --> 00:16:42,468
+já gerei a API
+
+308
+00:16:42,468 --> 00:16:44,248
+Key e tenho um
+
+309
+00:16:44,248 --> 00:16:46,628
+exemplo. Você pode
+
+310
+00:16:46,628 --> 00:16:48,408
+pedir para ela falar para você onde
+
+311
+00:16:48,408 --> 00:16:50,628
+você cola esse exemplo para ser o mais seguro
+
+312
+00:16:50,628 --> 00:16:52,648
+possível, tá? Você pode pedir isso para ela
+
+313
+00:16:52,648 --> 00:16:54,588
+depois. Aqui, para a gente ganhar tempo,
+
+314
+00:16:54,608 --> 00:16:56,588
+eu não vou pedir, eu já vou colar o exemplo.
+
+315
+00:16:57,488 --> 00:16:58,268
+Pasted Text,
+
+316
+00:16:58,588 --> 00:17:00,048
+e aí ele tem 11 linhas aqui.
+
+317
+00:17:00,368 --> 00:17:02,408
+Eu vou fazer dessa forma, porque aí eu já
+
+318
+00:17:02,408 --> 00:17:04,888
+entrego todo o exemplo para ela, ela vai fazer a conexão,
+
+319
+00:17:05,548 --> 00:17:05,728
+mas
+
+320
+00:17:05,728 --> 00:17:08,468
+mas o ideal é você conversar com a Yara,
+
+321
+00:17:08,468 --> 00:17:10,648
+qual é a maneira mais segura de a gente conectar essa API,
+
+322
+00:17:10,708 --> 00:17:12,188
+ela vai te falando passo a passo,
+
+323
+00:17:12,268 --> 00:17:14,028
+cola nessa pasta aqui para a gente, por aí vai.
+
+324
+00:17:14,228 --> 00:17:14,568
+Tá bom?
+
+325
+00:17:14,668 --> 00:17:16,988
+Eu vou explicar isso em mais detalhes sobre chave API
+
+326
+00:17:16,988 --> 00:17:19,048
+quando a gente for entrar aqui em banco de dados,
+
+327
+00:17:19,168 --> 00:17:20,388
+a gente já vai entrar nesse tópico.
+
+328
+00:17:20,688 --> 00:17:21,788
+Então, eu vou dar Enter aqui.
+
+329
+00:17:22,488 --> 00:17:25,508
+No caso, ele vai usar o modelo Seedrim 4.5.
+
+330
+00:17:26,348 --> 00:17:29,048
+E aí tem um prompt de exemplo, só para ele saber como funciona.
+
+331
+00:17:29,608 --> 00:17:32,768
+E agora ele vai conectar a Seedrim para a gente.
+
+332
+00:17:32,768 --> 00:17:34,588
+gente está. Outra coisa que a gente vai
+
+333
+00:17:34,588 --> 00:17:36,528
+precisar fazer é vir aqui no Get API
+
+334
+00:17:36,528 --> 00:17:38,888
+Key e selecionar
+
+335
+00:17:38,888 --> 00:17:40,408
+nossa chave API, então tem aqui
+
+336
+00:17:40,408 --> 00:17:43,028
+o Project Alpha, eu posso selecionar
+
+337
+00:17:43,028 --> 00:17:43,428
+ela aqui.
+
+338
+00:17:46,136 --> 00:17:50,256
+Aqui também você escolhe o modelo, mas eu acho que é só esse código,
+
+339
+00:17:50,396 --> 00:17:53,776
+aqui é mais simples, porque às vezes a gente tem que copiar outro código,
+
+340
+00:17:53,856 --> 00:17:56,276
+eu vou mostrar ali da OpenAI, vocês vão ver que é diferente.
+
+341
+00:17:58,044 --> 00:18:00,384
+Aqui ele já está fazendo, olha, ele já tem tudo que ele precisa
+
+342
+00:18:00,384 --> 00:18:03,204
+e começou a preparar aqui o arquivo para a gente.
+
+343
+00:18:03,384 --> 00:18:06,284
+Só que a gente também precisa conectar uma IA
+
+344
+00:18:06,284 --> 00:18:10,404
+para poder conversar e melhorar o prompt, lembra?
+
+345
+00:18:10,584 --> 00:18:13,844
+Eu vou usar aqui, poderia usar chat.apt,
+
+346
+00:18:13,964 --> 00:18:15,804
+poderia usar cloud, poderia usar Gemini,
+
+347
+00:18:15,964 --> 00:18:18,024
+poderia usar LLMs gratuitas também,
+
+348
+00:18:18,184 --> 00:18:19,604
+você vai ter menos custos.
+
+349
+00:18:19,704 --> 00:18:21,804
+Eu vou usar aqui o cloud,
+
+350
+00:18:22,344 --> 00:18:24,664
+que é o que a gente já tem trabalhado.
+
+351
+00:18:25,024 --> 00:18:27,544
+Então, para usar o cloud, você vai digitar cloud API,
+
+352
+00:18:28,044 --> 00:18:28,284
+Tchau, tchau.
+
+353
+00:18:29,212 --> 00:18:30,952
+Aí você vai entrar aqui no Cloud Platform.
+
+354
+00:18:31,492 --> 00:18:33,432
+Quando você entrar aqui no Cloud Platform,
+
+355
+00:18:33,552 --> 00:18:36,112
+você faz o seu login, vou fazer meu login aqui agora.
+
+356
+00:18:38,460 --> 00:18:39,020
+Continuar.
+
+357
+00:18:43,260 --> 00:18:47,160
+E aí, assim que você entrar aqui, você tem, inclusive, uma série de ferramentas.
+
+358
+00:18:47,160 --> 00:18:51,580
+Eles lançaram recentemente esse Managed Agents aqui,
+
+359
+00:18:51,680 --> 00:18:55,340
+que é muito legal, cara, para você gerenciar projetos aqui dentro.
+
+360
+00:18:55,640 --> 00:18:58,980
+Mas isso aqui, realmente, para vocês entenderem o poder que isso aqui tem,
+
+361
+00:18:59,120 --> 00:19:02,500
+vocês precisam avançar um pouco mais no trabalho aqui, tá?
+
+362
+00:19:02,540 --> 00:19:04,180
+E é uma ferramenta nova também.
+
+363
+00:19:04,520 --> 00:19:07,700
+Mas, bom, nós estamos aqui no nosso projeto.
+
+364
+00:19:07,980 --> 00:19:11,640
+Aqui você consegue vir em Manage e você vai ter aqui API Keys.
+
+365
+00:19:11,640 --> 00:19:13,420
+dentro de API Keys
+
+366
+00:19:13,420 --> 00:19:15,180
+você pode criar uma API Key
+
+367
+00:19:15,180 --> 00:19:17,560
+nova, então vou clicar aqui
+
+368
+00:19:17,560 --> 00:19:19,540
+Create Key, e vocês dão
+
+369
+00:19:19,540 --> 00:19:21,240
+o nome que quiser, posso dar o nome aqui agora
+
+370
+00:19:21,240 --> 00:19:23,380
+de Project Alpha, sempre
+
+371
+00:19:23,380 --> 00:19:25,480
+dê nomes que você vai lembrar de onde é aquela API
+
+372
+00:19:25,480 --> 00:19:27,660
+porque é aqui que você vai gerenciar
+
+373
+00:19:27,660 --> 00:19:29,500
+as suas APIs, no caso
+
+374
+00:19:29,500 --> 00:19:31,360
+ele me deu esse código API aqui
+
+375
+00:19:31,360 --> 00:19:33,560
+só que o problema, olha, se vocês
+
+376
+00:19:33,560 --> 00:19:35,700
+usarem ele aí agora, se vocês printarem minha tela
+
+377
+00:19:35,700 --> 00:19:37,900
+aí agora e usarem isso aqui, vocês conseguem
+
+378
+00:19:37,900 --> 00:19:39,600
+usar meus créditos aqui pra usar aí
+
+379
+00:19:40,200 --> 00:19:41,320
+Então, o que eu tenho que fazer?
+
+380
+00:19:41,440 --> 00:19:45,660
+Eu vou vir aqui, vou deletar essa API Key,
+
+381
+00:19:45,820 --> 00:19:47,860
+porque não é seguro, tá?
+
+382
+00:19:48,140 --> 00:19:50,220
+E eu mostrei para vocês entenderem a ideia,
+
+383
+00:19:50,320 --> 00:19:52,700
+mas eu vou pegar ela aqui na minha outra tela,
+
+384
+00:19:52,860 --> 00:19:54,160
+vou criar de novo.
+
+385
+00:19:56,796 --> 00:19:59,236
+e vou copiar, aí vocês não vão ver qual que é.
+
+386
+00:19:59,356 --> 00:20:01,736
+Posso fechar agora, e pronto, volto para cá.
+
+387
+00:20:02,056 --> 00:20:05,156
+Agora ele vai ficar tampadinho aqui, não dá para ver ele todo,
+
+388
+00:20:05,336 --> 00:20:07,696
+mas eu já copiei ele para a área de transferência,
+
+389
+00:20:07,776 --> 00:20:09,456
+e eu posso levar ele para o projeto.
+
+390
+00:20:10,296 --> 00:20:15,816
+Dentro do projeto aqui, nós precisamos criar um arquivo chamado de .env.
+
+391
+00:20:16,436 --> 00:20:21,676
+Esse arquivo .env é onde nós colocamos as nossas chaves de API, todas elas.
+
+392
+00:20:22,316 --> 00:20:25,236
+E por que a gente tem um arquivo específico para isso?
+
+393
+00:20:25,236 --> 00:20:27,676
+porque a IA não acessa o .env.
+
+394
+00:20:27,976 --> 00:20:29,476
+Ela usa script.
+
+395
+00:20:29,736 --> 00:20:33,816
+O script não guarda informações e ele roda as chaves.
+
+396
+00:20:33,836 --> 00:20:36,516
+Ele consegue copiar a chave, colar em outro lugar e utilizar
+
+397
+00:20:36,516 --> 00:20:38,456
+sem passar pela inteligência artificial.
+
+398
+00:20:38,856 --> 00:20:41,456
+Isso é bom porque aí suas chaves não vazam, tá bom?
+
+399
+00:20:41,636 --> 00:20:43,856
+Então todos os acessos e chaves a gente coloca
+
+400
+00:20:43,856 --> 00:20:46,036
+geralmente em arquivos travados.
+
+401
+00:20:46,276 --> 00:20:50,696
+Além disso, o .env é um arquivo que a gente não sobe para o GitHub
+
+402
+00:20:50,696 --> 00:20:52,916
+quando a gente cria um projeto no GitHub.
+
+403
+00:20:52,916 --> 00:20:54,896
+GitHub, porque senão você vai estar subindo
+
+404
+00:20:54,896 --> 00:20:56,396
+suas chaves APIs
+
+405
+00:20:56,396 --> 00:20:58,516
+e outras pessoas podem simplesmente
+
+406
+00:20:58,516 --> 00:21:00,856
+copiar e utilizar. Basicamente,
+
+407
+00:21:00,856 --> 00:21:02,696
+essas pessoas vão pegar e usar o seu
+
+408
+00:21:02,696 --> 00:21:04,756
+cartão de crédito pra gastar tokens
+
+409
+00:21:04,756 --> 00:21:06,796
+pra elas. Então, tem que levar isso
+
+410
+00:21:06,796 --> 00:21:08,236
+em consideração também, tá bom?
+
+411
+00:21:08,536 --> 00:21:10,916
+Então, o que que eu vou fazer aqui agora?
+
+412
+00:21:11,056 --> 00:21:12,896
+Ele já criou pra gente um Envy Local,
+
+413
+00:21:13,396 --> 00:21:14,796
+só que eu não vou abrir
+
+414
+00:21:14,796 --> 00:21:16,556
+esse Envy Local aqui, porque
+
+415
+00:21:16,556 --> 00:21:18,716
+se eu abrir ele aqui pra vocês, vocês vão ver
+
+416
+00:21:18,716 --> 00:21:20,796
+as chaves. O que eu vou pedir é pra
+
+417
+00:21:20,796 --> 00:21:22,436
+ele criar um Envy Example.
+
+418
+00:21:22,436 --> 00:21:27,756
+Então, a gente digita aqui, ó, crie um .env exemplo, em inglês, example,
+
+419
+00:21:27,956 --> 00:21:33,476
+para eu ver a estrutura de todas as chaves que precisamos.
+
+420
+00:21:34,156 --> 00:21:39,496
+E aí, ele vai criar aqui um env.example, env.example.
+
+421
+00:21:39,816 --> 00:21:43,276
+E aí, a gente vai conseguir ver a estrutura, eu vou conseguir explicar para vocês.
+
+422
+00:21:43,556 --> 00:21:46,516
+Então, olha só, ele criou aqui o env.example, tá vendo?
+
+423
+00:21:46,756 --> 00:21:48,736
+E ele já está explicando quais são as chaves.
+
+424
+00:21:48,816 --> 00:21:51,536
+Então, se eu clicar aqui em env.example, a gente já consegue ver.
+
+425
+00:21:52,136 --> 00:21:53,896
+Aqui está tudo zerado, tá?
+
+426
+00:21:53,976 --> 00:21:56,596
+Apesar de ter esse link aqui, esse link aqui não tem perigo, não.
+
+427
+00:21:57,036 --> 00:21:59,896
+Aqui a gente vai colar a API do Siddhans.
+
+428
+00:22:00,516 --> 00:22:02,056
+Provavelmente ele já colou aqui,
+
+429
+00:22:02,116 --> 00:22:04,276
+porque eu mandei o código ali para ele completo.
+
+430
+00:22:04,716 --> 00:22:05,956
+Mas é aqui que a gente cola.
+
+431
+00:22:06,076 --> 00:22:09,596
+E ele está pedindo aqui também, olha, as chaves da Vercel.
+
+432
+00:22:10,036 --> 00:22:14,456
+Ele não colocou aqui, para pedir também, as chaves da nossa LLM.
+
+433
+00:22:14,596 --> 00:22:15,836
+Então, eu vou falar para ele o seguinte.
+
+434
+00:22:17,564 --> 00:22:22,084
+Parece que está faltando na estrutura a chave API,
+
+435
+00:22:23,604 --> 00:22:29,504
+chave API da LLM que vamos utilizar para aprimorar o prompt.
+
+436
+00:22:30,364 --> 00:22:33,764
+Então agora ele vai corrigir, vocês vão ver que ele vai adicionar aqui também.
+
+437
+00:22:33,984 --> 00:22:35,704
+Eu não sei qual modelo que ele vai escolher,
+
+438
+00:22:35,764 --> 00:22:37,064
+vamos ver qual que ele vai escolher aqui.
+
+439
+00:22:37,644 --> 00:22:40,964
+Essa parte da Vercel, a gente vai fazer automaticamente
+
+440
+00:22:40,964 --> 00:22:43,424
+usando comandos no nosso terminal, tá?
+
+441
+00:22:43,584 --> 00:22:46,124
+Que é a parte que a gente publica, já vou explicar isso para vocês.
+
+442
+00:22:46,764 --> 00:22:48,064
+Então ele falou, ó, você tem razão,
+
+443
+00:22:48,064 --> 00:22:50,064
+boa observação. Agora o que
+
+444
+00:22:50,064 --> 00:22:51,864
+que ele fez aqui, ó, ele colocou a do Cloud
+
+445
+00:22:51,864 --> 00:22:53,864
+mesmo, legal. Então é
+
+446
+00:22:53,864 --> 00:22:55,844
+aqui que você vai colar aquela chave API,
+
+447
+00:22:56,104 --> 00:22:58,124
+beleza? Um negócio tipo isso aqui, ó,
+
+448
+00:22:58,164 --> 00:23:00,004
+um monte de código assim, ó. Você vai
+
+449
+00:23:00,004 --> 00:23:01,844
+colar ela aqui pra que
+
+450
+00:23:01,844 --> 00:23:03,944
+a IA consiga, pra que
+
+451
+00:23:03,944 --> 00:23:05,824
+o seu sistema
+
+452
+00:23:05,824 --> 00:23:07,824
+consiga enviar um pedido
+
+453
+00:23:07,824 --> 00:23:09,884
+pra Anthropic gerar pra você
+
+454
+00:23:09,884 --> 00:23:11,924
+ali aquele texto, no caso aqui a gente vai usar
+
+455
+00:23:11,924 --> 00:23:13,864
+o Cloud pra poder melhorar o
+
+456
+00:23:13,864 --> 00:23:15,924
+prompt, e depois ele devolve pra
+
+457
+00:23:15,924 --> 00:23:17,264
+para você o texto melhorado.
+
+458
+00:23:17,404 --> 00:23:20,204
+E aqui na API do Seedence, a gente está conectando
+
+459
+00:23:20,204 --> 00:23:21,964
+o nosso sistema para que ele consiga
+
+460
+00:23:21,964 --> 00:23:24,044
+enviar um pedido lá para a ByteDance
+
+461
+00:23:24,044 --> 00:23:25,824
+para ela gerar a imagem e devolver
+
+462
+00:23:25,824 --> 00:23:27,664
+para a gente a imagem pronta no nosso sistema.
+
+463
+00:23:28,064 --> 00:23:29,704
+Essa que é a lógica de APIs.
+
+464
+00:23:30,104 --> 00:23:31,944
+Beleza? E aí, isso aqui
+
+465
+00:23:31,944 --> 00:23:33,644
+não é nossa chave, eu vou apagar,
+
+466
+00:23:33,644 --> 00:23:35,644
+nós estamos no env.example.
+
+467
+00:23:35,704 --> 00:23:37,944
+O que eu vou fazer? Eu vou entrar aqui,
+
+468
+00:23:38,004 --> 00:23:39,524
+mas eu não vou mostrar para vocês
+
+469
+00:23:39,524 --> 00:23:41,404
+porque é uma questão de segurança.
+
+470
+00:23:41,684 --> 00:23:43,644
+Então, eu vou colar as chaves aqui.
+
+471
+00:23:43,844 --> 00:23:45,704
+Eu acabei de ver que ele não atualizou
+
+472
+00:23:47,384 --> 00:23:48,104
+o .env,
+
+473
+00:23:48,184 --> 00:23:49,844
+vou só fazer uma atualização aqui,
+
+474
+00:23:50,384 --> 00:23:52,204
+copiando e colando, pra ficar certinho.
+
+475
+00:23:52,764 --> 00:23:54,324
+Beleza? E aí eu vou ter que pegar
+
+476
+00:23:54,324 --> 00:23:56,744
+a chave API aqui de novo. Então, peraí só um instante,
+
+477
+00:23:56,744 --> 00:23:57,844
+vou copiar ela de novo.
+
+478
+00:24:01,500 --> 00:24:03,400
+Vocês estão vendo só a bordinha dela aí, né?
+
+479
+00:24:03,620 --> 00:24:04,480
+Project Alpha.
+
+480
+00:24:04,840 --> 00:24:08,320
+Depois que você copia a chave, não dá pra ver a chave de novo, tá?
+
+481
+00:24:08,780 --> 00:24:11,000
+Você copia, usa na hora e depois não dá pra ver mais.
+
+482
+00:24:11,300 --> 00:24:12,120
+Por exemplo, olha.
+
+483
+00:24:12,580 --> 00:24:15,540
+Se eu tentar ver aqui o Project Alpha, aqui ó, Project Alpha.
+
+484
+00:24:15,620 --> 00:24:17,040
+Se eu tento ver ela aqui, eu não consigo.
+
+485
+00:24:18,364 --> 00:24:20,024
+Então, já era. Se eu copiei, beleza.
+
+486
+00:24:20,104 --> 00:24:22,144
+Se eu não copiei, eu tenho que apagar e fazer de novo.
+
+487
+00:24:22,424 --> 00:24:24,884
+Então, eu colei a chave API da Antropic aqui,
+
+488
+00:24:25,344 --> 00:24:27,304
+a chave API da Seed Installer também,
+
+489
+00:24:27,644 --> 00:24:30,224
+vou fechar para a gente e vou voltar para cá.
+
+490
+00:24:30,744 --> 00:24:32,604
+Então, vocês estão vendo o exemplo,
+
+491
+00:24:32,744 --> 00:24:36,304
+mas nesse arquivinho aqui, eu tenho uma chave API aqui
+
+492
+00:24:36,304 --> 00:24:38,584
+e outra aqui que já foram coladas, beleza?
+
+493
+00:24:39,024 --> 00:24:40,824
+O que eu vou fazer aqui agora...
+
+494
+00:24:42,076 --> 00:24:43,816
+testar antes da gente fazer o
+
+495
+00:24:43,816 --> 00:24:45,796
+deploy. Então eu dou um save aqui pra gente
+
+496
+00:24:45,796 --> 00:24:47,176
+e eu vou falar com ele, olha,
+
+497
+00:24:47,916 --> 00:24:49,356
+acabei de colar
+
+498
+00:24:49,356 --> 00:24:50,856
+a chave API.
+
+499
+00:24:53,788 --> 00:24:55,508
+Eu sempre escrevi errado aqui.
+
+500
+00:24:55,508 --> 00:24:56,428
+É um tropic.
+
+501
+00:24:58,012 --> 00:25:01,252
+Agora podemos conectar tudo para...
+
+502
+00:25:02,684 --> 00:25:03,844
+eu possa fazer...
+
+503
+00:25:06,236 --> 00:25:07,256
+Então deixa ele agora aí.
+
+504
+00:25:08,668 --> 00:25:11,648
+Ver se está tudo conectado certinho, ele vai validar para a gente.
+
+505
+00:25:11,728 --> 00:25:14,568
+Se estiver certo, ele vai falar, beleza, pode fazer o teste agora.
+
+506
+00:25:14,848 --> 00:25:16,388
+E a gente vai ver se está funcionando.
+
+507
+00:25:16,488 --> 00:25:19,808
+Pode ser que ainda não esteja funcionando, a gente corrige um bug ou outro aqui.
+
+508
+00:25:20,228 --> 00:25:25,248
+E vamos ver nosso sisteminha que a gente começou ontem, agora na fase de produto aqui.
+
+509
+00:25:26,620 --> 00:25:27,900
+Deixa ele carregando para a gente.
+
+510
+00:25:30,396 --> 00:25:32,636
+Então, o SDK da Antropi que já está instalado,
+
+511
+00:25:32,656 --> 00:25:35,276
+mais o Enhancer, o modelo nosso.
+
+512
+00:25:38,620 --> 00:25:40,380
+Precisa ser verificado, tá? Beleza.
+
+513
+00:25:40,380 --> 00:25:43,620
+Deixa ele terminar a configuração, ele está configurando agora o nosso agente,
+
+514
+00:25:43,620 --> 00:25:46,880
+que a gente criou, o melhorador de prompt, e conectando ele com a API.
+
+515
+00:25:47,480 --> 00:25:49,860
+Então, beleza, tudo certo, aparentemente.
+
+516
+00:25:50,460 --> 00:25:53,180
+Prontinho, tudo conectado e testado, resumo das alterações.
+
+517
+00:25:53,460 --> 00:25:54,380
+Vamos ver se está mesmo?
+
+518
+00:25:54,840 --> 00:25:57,160
+Vou entrar aqui agora de novo no nosso projeto,
+
+519
+00:25:57,400 --> 00:26:00,460
+está aqui o projeto alpha, vou dar um ctrl F5 só para ver se está tudo certo,
+
+520
+00:26:00,620 --> 00:26:01,740
+e vou testar.
+
+521
+00:26:01,920 --> 00:26:04,280
+Uma vaquinha na lua.
+
+522
+00:26:04,380 --> 00:26:05,360
+Vamos ver o que vai acontecer.
+
+523
+00:26:06,320 --> 00:26:08,380
+Nosso sistema está aqui melhorando o prompt,
+
+524
+00:26:08,620 --> 00:26:10,800
+original versus melhorado.
+
+525
+00:26:10,900 --> 00:26:12,740
+Vamos ver. Vamos ver se ele já vai entregar
+
+526
+00:26:12,740 --> 00:26:14,820
+a imagem de cara ou se ele vai entregar o prompt
+
+527
+00:26:14,820 --> 00:26:16,660
+também. A gente pode pedir pra ele, né?
+
+528
+00:26:16,940 --> 00:26:18,880
+Ele tá fazendo foto realista aqui.
+
+529
+00:26:19,120 --> 00:26:20,220
+Vamos ver qual que é o processo.
+
+530
+00:26:20,480 --> 00:26:22,880
+Tá gerando a imagem aí.
+
+531
+00:26:23,360 --> 00:26:24,780
+Nisso tudo aqui são duas
+
+532
+00:26:24,780 --> 00:26:26,340
+APIs sendo usadas. Olha aí.
+
+533
+00:26:26,640 --> 00:26:28,980
+Funcionou o nosso gerador
+
+534
+00:26:28,980 --> 00:26:30,780
+de imagem. Tá vendo? Então ele gerou
+
+535
+00:26:30,780 --> 00:26:32,960
+uma vaquinha no espaço. Ele colocou
+
+536
+00:26:32,960 --> 00:26:34,660
+o prompt melhorado versus o original.
+
+537
+00:26:34,820 --> 00:26:36,420
+Original. Uma vaquinha no espaço.
+
+538
+00:26:36,420 --> 00:26:38,420
+espaço. Melhorado. Aí tá aqui
+
+539
+00:26:38,420 --> 00:26:40,340
+a small, spotted, daily, cold,
+
+540
+00:26:41,040 --> 00:26:42,260
+pront, bem melhoradinho.
+
+541
+00:26:42,660 --> 00:26:44,480
+Eu posso até pedir pra ele melhorar
+
+542
+00:26:44,480 --> 00:26:46,020
+isso aqui se a gente quiser, né? Por exemplo,
+
+543
+00:26:46,100 --> 00:26:48,480
+aqui agora ele tem a galeria,
+
+544
+00:26:48,500 --> 00:26:50,360
+mas não tá funcionando. Eu posso falar
+
+545
+00:26:50,360 --> 00:26:52,380
+pra ele o seguinte. Funcionou.
+
+546
+00:26:52,740 --> 00:26:54,340
+Eu vou até, na verdade, dar um clear
+
+547
+00:26:54,340 --> 00:26:56,360
+nele aqui, pra gerar o contexto, e vou falar
+
+548
+00:26:56,360 --> 00:26:58,700
+o seguinte. Tudo funcionando.
+
+549
+00:26:59,760 --> 00:27:00,480
+Agora precisamos
+
+550
+00:27:01,900 --> 00:27:02,260
+configurar
+
+551
+00:27:02,260 --> 00:27:04,420
+a galeria e o
+
+552
+00:27:04,420 --> 00:27:06,700
+o histórico de pedidos.
+
+553
+00:27:07,120 --> 00:27:08,580
+Agora entra o banco,
+
+554
+00:27:08,620 --> 00:27:10,280
+tá, galera? A gente vai precisar de um banco
+
+555
+00:27:10,280 --> 00:27:12,380
+de dados, um storage e uma
+
+556
+00:27:12,380 --> 00:27:14,600
+autenticação, que eu vou criar um sistema de login
+
+557
+00:27:14,600 --> 00:27:16,440
+e senha aqui. Então presta muita atenção que
+
+558
+00:27:16,440 --> 00:27:18,340
+isso é novo pra vocês. Existem
+
+559
+00:27:18,340 --> 00:27:20,400
+vários serviços por aí que já
+
+560
+00:27:20,400 --> 00:27:22,760
+te entregam isso de uma maneira simplificada
+
+561
+00:27:22,760 --> 00:27:24,480
+pra que você consiga trabalhar no seu
+
+562
+00:27:24,480 --> 00:27:26,380
+projeto. E aí dá pra começar
+
+563
+00:27:26,380 --> 00:27:28,480
+de graça, inclusive. O mais
+
+564
+00:27:28,480 --> 00:27:30,680
+comum e mais usado pela galera da IA
+
+565
+00:27:30,680 --> 00:27:32,020
+é um serviço chamado
+
+566
+00:27:32,020 --> 00:27:37,880
+chamado Supabase. O Supabase é uma caixa de ferramentas que vai te entregar vários recursos
+
+567
+00:27:37,880 --> 00:27:43,100
+diferentes, inclusive os três recursos que a gente precisa aqui. Eu vou até fazer o seguinte,
+
+568
+00:27:43,200 --> 00:27:46,100
+deixa eu voltar para cá e vou puxar ele para cá.
+
+569
+00:27:47,612 --> 00:27:50,192
+Então, eu estou aqui no SupaBase, estou em qual conta?
+
+570
+00:27:50,492 --> 00:27:52,192
+Juan Bras, arroba o Berlens.
+
+571
+00:27:52,432 --> 00:27:55,092
+Vou sair dessa... Ah, eu podia usar o Ecos aqui com vocês.
+
+572
+00:27:55,932 --> 00:27:57,052
+Tá, vou usar o Ecos.
+
+573
+00:27:57,452 --> 00:28:00,912
+Então, eu já criei a conta aqui, mas vocês só precisam digitar no Google,
+
+574
+00:28:01,452 --> 00:28:02,312
+SupaBase, assim, ó.
+
+575
+00:28:03,512 --> 00:28:03,912
+SupaBase.
+
+576
+00:28:04,392 --> 00:28:06,792
+E aí, vocês vão criar a conta de vocês, beleza?
+
+577
+00:28:07,132 --> 00:28:09,492
+Cria a conta aí, dá para utilizar gratuito.
+
+578
+00:28:09,572 --> 00:28:12,292
+E é aqui que nós vamos colocar nosso banco de dados,
+
+579
+00:28:12,512 --> 00:28:14,012
+nosso serviço de autenticação.
+
+580
+00:28:14,272 --> 00:28:14,972
+O que é autenticação?
+
+581
+00:28:15,472 --> 00:28:20,592
+Existem vários tipos de maneiras, existem várias maneiras de você autenticar um usuário
+
+582
+00:28:20,592 --> 00:28:22,052
+antes dele utilizar a sua plataforma.
+
+583
+00:28:22,492 --> 00:28:24,852
+Você pode usar a autenticação que a gente chama de Magic Link,
+
+584
+00:28:25,072 --> 00:28:27,572
+que você, quando ele vai entrar, ele coloca o e-mail dele,
+
+585
+00:28:27,612 --> 00:28:30,992
+você manda um link para o e-mail dele e ele loga pelo link.
+
+586
+00:28:31,232 --> 00:28:34,792
+Você pode fazer também a autenticação via login e senha, que é a mais clássica.
+
+587
+00:28:34,832 --> 00:28:36,452
+Ele coloca o e-mail e senha e consegue logar.
+
+588
+00:28:36,732 --> 00:28:39,632
+Você consegue fazer a autenticação até com a pergunta secreta.
+
+589
+00:28:39,652 --> 00:28:42,112
+Se a pessoa souber responder a pergunta, ela é autenticada e entra.
+
+590
+00:28:42,252 --> 00:28:43,392
+Tem várias maneiras de fazer.
+
+591
+00:28:43,392 --> 00:28:45,272
+fazer. A gente vai usar um sisteminha aqui de login
+
+592
+00:28:45,272 --> 00:28:46,932
+e senha básico. E também
+
+593
+00:28:46,932 --> 00:28:49,112
+ele trabalha com storage. Então
+
+594
+00:28:49,112 --> 00:28:51,232
+todas essas imagens que a gente tá gerando, a gente
+
+595
+00:28:51,232 --> 00:28:53,212
+pode trabalhar pra que elas sejam salvas
+
+596
+00:28:53,212 --> 00:28:55,232
+num storage. Porque tem uma
+
+597
+00:28:55,232 --> 00:28:57,212
+diferença entre o banco de dados, que só
+
+598
+00:28:57,212 --> 00:28:58,992
+trata dados, e o
+
+599
+00:28:58,992 --> 00:29:01,052
+banco de arquivos,
+
+600
+00:29:01,052 --> 00:29:03,152
+que a gente chama de storage. No storage
+
+601
+00:29:03,152 --> 00:29:05,052
+você coloca imagens, coloca vídeo,
+
+602
+00:29:05,232 --> 00:29:07,172
+coloca música. Se é arquivo, vai pra storage.
+
+603
+00:29:07,372 --> 00:29:08,872
+Se é dado, vai pro banco de dados.
+
+604
+00:29:09,052 --> 00:29:11,192
+E a gente vai trabalhar as três coisas com ele aqui
+
+605
+00:29:11,772 --> 00:29:13,272
+utilizando o Supabase. Beleza?
+
+606
+00:29:13,392 --> 00:29:41,852
+Para isso, então, eu já estou conectado aqui, vocês quando criarem a conta vão precisar colocar o nome do projeto de vocês, eu vou até fazer o seguinte, vou começar uma conta do zero aqui, para ficar mais fácil ainda para vocês, então, pode conectar direto com o GitHub se quiser, aqui eu não vou fazer direto com o GitHub, eu vou vir aqui, don't have an account, e vou clicar em sign up, aqui em sign up, eu vou colocar um e-mail meu diferente, vou colocar esse e-mail do Gmail aqui, vou colocar uma senha minha aqui,
+
+607
+00:29:43,772 --> 00:29:47,452
+E vou logar. Beleza, criei minha conta aqui no Supabase.
+
+608
+00:29:47,732 --> 00:29:50,592
+Deixa ele criar aqui agora, ele pediu para eu confirmar meu e-mail.
+
+609
+00:29:50,732 --> 00:29:53,572
+Então, eu vou vir aqui no Gmail, deixa eu puxar para cá.
+
+610
+00:29:54,412 --> 00:29:55,812
+E vou trocar de conta.
+
+611
+00:29:55,932 --> 00:29:57,192
+Vou pegar essa conta aqui agora.
+
+612
+00:29:58,292 --> 00:30:00,812
+Entro no e-mail, já está aqui para mim, confirmar.
+
+613
+00:30:00,872 --> 00:30:04,252
+Então, apareceu aqui, já confirmei, agora eu posso fazer login.
+
+614
+00:30:04,432 --> 00:30:05,992
+Ele já até fez para mim automaticamente.
+
+615
+00:30:06,432 --> 00:30:08,872
+Depois que você clicar no link que vai para o seu e-mail,
+
+616
+00:30:09,492 --> 00:30:10,532
+você vai chegar nessa tela aqui.
+
+617
+00:30:10,652 --> 00:30:12,632
+Aí você vai colocar aqui o nome da organização.
+
+618
+00:30:12,632 --> 00:30:16,172
+vou chamar essa organização aqui de Juan Brás,
+
+619
+00:30:16,732 --> 00:30:18,312
+você pode colocar o nome da sua empresa,
+
+620
+00:30:18,512 --> 00:30:20,952
+o tipo aqui pode deixar em pessoal,
+
+621
+00:30:21,012 --> 00:30:24,352
+mas se quiser também coloque educacional, startup, agência, companhia,
+
+622
+00:30:24,352 --> 00:30:25,472
+ou NA, você que decide,
+
+623
+00:30:25,692 --> 00:30:27,892
+o plano deixa no gratuito aqui,
+
+624
+00:30:27,992 --> 00:30:30,652
+e você clica em Create Organization,
+
+625
+00:30:31,332 --> 00:30:32,152
+clico aqui agora,
+
+626
+00:30:33,660 --> 00:30:35,980
+e ele vai criar a minha organização Juan Brás para mim.
+
+627
+00:30:36,160 --> 00:30:37,520
+Então, deixa ele criar certinho.
+
+628
+00:30:37,960 --> 00:30:42,140
+Melhora o Supabase mesmo, quem tem o Drive no Google Workspace,
+
+629
+00:30:42,380 --> 00:30:45,860
+uma coisa é bem diferente da outra, não é a mesma coisa.
+
+630
+00:30:46,560 --> 00:30:48,360
+É bom eu frisar isso aqui para vocês.
+
+631
+00:30:48,620 --> 00:30:51,000
+O seu Drive lá é pessoal, com a sua conta.
+
+632
+00:30:51,060 --> 00:30:55,200
+Isso aqui é para gerir os dados e arquivos do seu projeto
+
+633
+00:30:55,200 --> 00:30:56,100
+que você está trabalhando.
+
+634
+00:30:56,500 --> 00:30:58,200
+Então, agora a gente vai criar um projeto.
+
+635
+00:30:58,440 --> 00:31:00,000
+Deixa o Juan Brás aqui no gratuito.
+
+636
+00:31:00,120 --> 00:31:02,960
+O nome do nosso projeto vai ser Project Alpha.
+
+637
+00:31:02,960 --> 00:31:04,640
+A gente colocou o nome dele ali.
+
+638
+00:31:04,800 --> 00:31:07,340
+Vou deixar aqui na região das Américas mesmo,
+
+639
+00:31:07,420 --> 00:31:09,180
+que é onde vai ficar o nosso servidor,
+
+640
+00:31:09,240 --> 00:31:10,200
+com o nosso banco de dados.
+
+641
+00:31:10,400 --> 00:31:13,800
+Ele vai ficar ligado num servidor 24 barra 7,
+
+642
+00:31:14,000 --> 00:31:16,620
+todos os dias, com o seu banco de dados funcionando.
+
+643
+00:31:16,820 --> 00:31:19,480
+Vou deixar aqui, enable data API,
+
+644
+00:31:20,300 --> 00:31:23,280
+e não vou colocar aqui enable automatic RLS.
+
+645
+00:31:23,640 --> 00:31:26,340
+Deixa só desse jeito mesmo, criar um novo projeto.
+
+646
+00:31:26,620 --> 00:31:27,640
+Ah, faltou a senha.
+
+647
+00:31:27,760 --> 00:31:29,600
+Essa senha é muito importante.
+
+648
+00:31:29,600 --> 00:31:32,200
+ela vai ser solicitada
+
+649
+00:31:32,200 --> 00:31:34,060
+pra vocês depois, então criem
+
+650
+00:31:34,060 --> 00:31:35,980
+uma senha que é forte, que vocês vão guardar
+
+651
+00:31:35,980 --> 00:31:38,120
+olha, gerem uma senha forte aí
+
+652
+00:31:38,120 --> 00:31:39,680
+copia essa senha
+
+653
+00:31:39,680 --> 00:31:41,760
+e vocês vão colocar ela dentro do
+
+654
+00:31:41,760 --> 00:31:43,340
+vaunt de vocês, igual eu ensinei
+
+655
+00:31:43,340 --> 00:31:45,240
+aqui eu vou colocar aqui no txt
+
+656
+00:31:45,240 --> 00:31:47,820
+só pra gente fazer o projeto, tá?
+
+657
+00:31:47,860 --> 00:31:49,220
+não vou nem mostrar ela também não
+
+658
+00:31:51,676 --> 00:31:53,396
+Mas é uma senha cheia de número, tá?
+
+659
+00:31:53,456 --> 00:31:54,796
+Um monte de numerozinho lá.
+
+660
+00:31:54,956 --> 00:31:57,576
+Eu tô salvando ela aqui porque eu vou precisar dela depois.
+
+661
+00:31:58,216 --> 00:31:58,576
+Beleza?
+
+662
+00:31:58,656 --> 00:32:00,196
+A gente vai precisar dela já já.
+
+663
+00:32:00,316 --> 00:32:02,996
+Então deixa aí, você pode colocar na sua vaunt ali.
+
+664
+00:32:03,376 --> 00:32:05,176
+E aí vamos voltar pro Supabase aqui.
+
+665
+00:32:05,456 --> 00:32:07,576
+Então criei a minha senha, já salvei ela lá.
+
+666
+00:32:07,636 --> 00:32:08,516
+Posso criar o projeto.
+
+667
+00:32:11,036 --> 00:32:13,576
+Maravilha, deixa ele salvar o projeto aqui certinho.
+
+668
+00:32:13,896 --> 00:32:15,576
+E aí o que a gente vai fazer agora?
+
+669
+00:32:15,756 --> 00:32:20,496
+Nós precisamos conectar o SupaBase no nosso MCP do cloud.
+
+670
+00:32:21,216 --> 00:32:24,356
+São vários passinhos aqui, mas depois vocês pegam o jeito.
+
+671
+00:32:24,496 --> 00:32:27,476
+Quando a gente começa a entrar em banco de dados, autenticação,
+
+672
+00:32:28,496 --> 00:32:31,476
+realmente no início é um pouco desgastante,
+
+673
+00:32:31,496 --> 00:32:33,616
+mas com o tempo vocês pegam, vão por mim.
+
+674
+00:32:33,676 --> 00:32:36,656
+Não é difícil de aprender, depois que aprendeu fica fácil.
+
+675
+00:32:36,856 --> 00:32:38,636
+No início que é mais dificilzinho, tá?
+
+676
+00:32:38,636 --> 00:32:40,576
+tá? Então, aqui a gente
+
+677
+00:32:40,576 --> 00:32:42,516
+já tem nosso projeto, se eu vier aqui
+
+678
+00:32:42,516 --> 00:32:44,576
+em Table Editor, a gente ainda não tem
+
+679
+00:32:44,576 --> 00:32:46,596
+nenhuma tabela criada, mas é aqui
+
+680
+00:32:46,596 --> 00:32:48,316
+que vão ficar os nossos dados todos,
+
+681
+00:32:48,556 --> 00:32:50,376
+beleza? Vou voltar aqui pro
+
+682
+00:32:50,376 --> 00:32:52,676
+Project Overview, a gente deixa essa página
+
+683
+00:32:52,676 --> 00:32:54,436
+aqui por enquanto e vamos voltar aqui pro
+
+684
+00:32:54,436 --> 00:32:56,376
+Cloud. No Cloud agora,
+
+685
+00:32:56,476 --> 00:32:58,436
+o que que eu vou fazer? Antes de trabalhar
+
+686
+00:32:58,436 --> 00:33:00,416
+isso aqui com ele, tem dois caminhos.
+
+687
+00:33:00,616 --> 00:33:02,476
+Um dos caminhos é eu abrir o Cloud
+
+688
+00:33:02,476 --> 00:33:04,896
+aqui, ó, Cloud, Dangerous...
+
+689
+00:33:07,996 --> 00:33:10,156
+permissions. Então, um caminho
+
+690
+00:33:10,156 --> 00:33:11,556
+é eu simplesmente abrir ele aqui,
+
+691
+00:33:11,676 --> 00:33:13,896
+e aí agora eu vou digitar assim, ó, barra
+
+692
+00:33:14,696 --> 00:33:16,076
+mcp. E aí eu vou ver aqui,
+
+693
+00:33:16,196 --> 00:33:18,176
+ó, no meu caso, eu já tenho
+
+694
+00:33:18,176 --> 00:33:19,796
+o Supabase conectado.
+
+695
+00:33:19,836 --> 00:33:21,976
+Mas esse Supabase está conectado em
+
+696
+00:33:21,976 --> 00:33:23,956
+outra conta minha, que eu uso aqui
+
+697
+00:33:23,956 --> 00:33:25,896
+nos projetos, aqui dentro desse computador.
+
+698
+00:33:26,216 --> 00:33:28,036
+Então, eu preciso desconectar
+
+699
+00:33:28,036 --> 00:33:30,036
+ele e conectar ele de novo.
+
+700
+00:33:30,256 --> 00:33:32,096
+Tá bom? Às vezes, ele
+
+701
+00:33:32,096 --> 00:33:34,156
+quando você tá aqui, ó, se você já tem
+
+702
+00:33:34,156 --> 00:33:35,976
+ele conectado, pode ser que ele não esteja
+
+703
+00:33:35,976 --> 00:33:37,636
+connected. Talvez ele esteja assim, ó,
+
+704
+00:33:37,996 --> 00:33:45,736
+disabled. Aí o que você faz? Você vai clicar aqui, beleza? Habilitar ele, volta aqui de novo, ele está conectado,
+
+705
+00:33:45,796 --> 00:33:52,136
+a gente tem que fazer isso aqui, ó, clear authentication ou reconnect. Um dos dois aqui dá, né, vão ser caminhos
+
+706
+00:33:52,136 --> 00:34:00,416
+ligeiramente diferentes, mas aqui você vai reconectar nele, e na hora de reconectar, você vai trocar a sua conta.
+
+707
+00:34:01,316 --> 00:34:03,016
+Ou você pode pedir para o Cloud também,
+
+708
+00:34:03,116 --> 00:34:06,096
+vamos reconectar aqui, por aqui ele reconecta.
+
+709
+00:34:06,196 --> 00:34:09,816
+Mas tem um jeito visualmente mais simples de fazer isso também,
+
+710
+00:34:10,556 --> 00:34:12,376
+que é você abrir o Cloud do desktop,
+
+711
+00:34:12,516 --> 00:34:14,596
+lembra que a gente tinha feito isso ontem?
+
+712
+00:34:14,676 --> 00:34:17,376
+Eu quero voltar nele aqui, que vai ser mais fácil.
+
+713
+00:34:17,856 --> 00:34:19,356
+Então, eu vou vir aqui em código,
+
+714
+00:34:19,576 --> 00:34:21,776
+dentro de código eu venho em personalizar,
+
+715
+00:34:22,316 --> 00:34:23,996
+aqui eu tenho conectores.
+
+716
+00:34:24,256 --> 00:34:26,316
+Para mim já está aparecendo o Supabase.
+
+717
+00:34:26,496 --> 00:34:29,096
+Se não estiver aparecendo o Supabase aqui para vocês,
+
+718
+00:34:29,096 --> 00:34:31,656
+Vocês vão vir aqui na lupinha.
+
+719
+00:34:31,776 --> 00:34:33,536
+Na verdade, essa lupinha é só pessoal.
+
+720
+00:34:34,336 --> 00:34:37,296
+Peraí que aqui eu às vezes esqueço onde que vai.
+
+721
+00:34:39,516 --> 00:34:40,536
+Esse aqui é só procurar.
+
+722
+00:34:41,356 --> 00:34:42,196
+Não, não é aqui não.
+
+723
+00:34:42,996 --> 00:34:45,896
+Como eu uso mais lá, toda hora eu me perco aqui, cara.
+
+724
+00:34:46,676 --> 00:34:51,016
+Aqui vão ser só ideias, código, personalizar.
+
+725
+00:34:52,604 --> 00:34:52,964
+Tchau, tchau.
+
+726
+00:34:55,260 --> 00:34:57,800
+Ah, tá. É o maisinho aqui, ó. Tá vendo? É mais fácil que parece.
+
+727
+00:34:57,960 --> 00:35:00,560
+Você vai... Se não tiver o Supabase aqui, você vai clicar no maisinho
+
+728
+00:35:00,560 --> 00:35:03,800
+e você vai vir aqui, ó, navegar conectores.
+
+729
+00:35:03,860 --> 00:35:06,980
+Por quê? O conector do Supabase já tem oficial no Cloud.
+
+730
+00:35:07,220 --> 00:35:09,740
+Então, não precisa ser um MCP personalizado.
+
+731
+00:35:09,960 --> 00:35:13,540
+Você vai vir aqui em navegar nos conectores e vai digitar aqui, ó, Supabase.
+
+732
+00:35:13,760 --> 00:35:17,260
+Aí você vai clicar no maisinho. O meu não tá maisinho porque já tá instalado.
+
+733
+00:35:17,320 --> 00:35:18,880
+E aí ele vai ficar assim pra você.
+
+734
+00:35:19,240 --> 00:35:21,900
+Aí vem essa parte agora. Você pode tanto clicar aqui
+
+735
+00:35:21,900 --> 00:35:24,340
+ou pode vir aqui nele e clicar nele também.
+
+736
+00:35:24,340 --> 00:35:26,440
+bem. Nessa etapa, eu posso
+
+737
+00:35:26,900 --> 00:35:28,200
+desvincular ele, ou ver
+
+738
+00:35:28,200 --> 00:35:30,360
+todos os detalhes dele aqui. Eu vou
+
+739
+00:35:30,840 --> 00:35:32,060
+desvincular, porque eu quero
+
+740
+00:35:32,060 --> 00:35:34,320
+conectar ele. E agora eu clico em
+
+741
+00:35:34,320 --> 00:35:36,240
+vincular de novo. Quando eu faço
+
+742
+00:35:36,240 --> 00:35:38,380
+isso, ele entra no meu navegador, e ele
+
+743
+00:35:38,380 --> 00:35:40,420
+vai identificar qual é a minha conta que está logada.
+
+744
+00:35:40,620 --> 00:35:42,320
+No caso, ele já identificou
+
+745
+00:35:42,320 --> 00:35:44,140
+que é essa conta aqui. Aqui embaixo,
+
+746
+00:35:44,400 --> 00:35:45,600
+tá vendo que ele tá falando isso aqui, ó?
+
+747
+00:35:45,880 --> 00:35:48,440
+Organization to Grant API Access
+
+748
+00:35:48,440 --> 00:35:50,320
+to. Você só consegue
+
+749
+00:35:50,320 --> 00:35:52,240
+conectar uma organização
+
+750
+00:35:52,240 --> 00:35:54,080
+por vez no MCP do Supabase.
+
+751
+00:35:54,340 --> 00:35:55,820
+Então, você tem que tomar cuidado que, às vezes,
+
+752
+00:35:55,820 --> 00:35:57,820
+você fica trocando de organização no Supabase,
+
+753
+00:35:57,940 --> 00:36:00,820
+aí você vai lá no Cloud e pede para ele atualizar um banco de dados,
+
+754
+00:36:01,000 --> 00:36:02,420
+mas ele não tem o acesso ao MCP.
+
+755
+00:36:02,540 --> 00:36:05,160
+Aí, ele não vai conseguir conectar certo, tá bom?
+
+756
+00:36:05,340 --> 00:36:07,120
+No caso, então, aqui, eu vou trocar.
+
+757
+00:36:07,120 --> 00:36:09,760
+É a única organização que tem nesse projeto que a gente criou.
+
+758
+00:36:09,820 --> 00:36:11,100
+Só tem uma organização.
+
+759
+00:36:11,180 --> 00:36:14,020
+E dentro dessa organização, o Juan Brás, tem um projeto.
+
+760
+00:36:14,300 --> 00:36:18,060
+Você consegue clicar aqui nessa setinha e criar mais organizações, entendeu?
+
+761
+00:36:18,480 --> 00:36:20,120
+Aí, você só tem que ficar de olho, porque...
+
+762
+00:36:20,120 --> 00:36:21,180
+Vou dar um exemplo aqui, ó.
+
+763
+00:36:21,620 --> 00:36:24,040
+Eu posso criar uma organização aqui, Overlens.
+
+764
+00:36:24,340 --> 00:36:25,380
+Aí eu crio ela.
+
+765
+00:36:27,964 --> 00:36:29,384
+E ela está dentro da minha conta.
+
+766
+00:36:29,984 --> 00:36:33,344
+Só que essa organização vai ser uma organização nova,
+
+767
+00:36:33,364 --> 00:36:34,824
+com senha nova, está vendo?
+
+768
+00:36:35,024 --> 00:36:35,884
+Vou criar uma aqui.
+
+769
+00:36:37,804 --> 00:36:40,164
+Depois vai me dar até trabalho, porque eu não estou copiando.
+
+770
+00:36:40,764 --> 00:36:42,424
+Mas eu vou criar aqui e depois eu apago ela.
+
+771
+00:36:42,884 --> 00:36:45,244
+Então eu estou criando essa Overlens gratuita aqui.
+
+772
+00:36:45,504 --> 00:36:46,924
+Deixa ele criar ela para a gente.
+
+773
+00:36:47,064 --> 00:36:47,464
+Criou.
+
+774
+00:36:47,844 --> 00:36:51,604
+Só que aqui não é o que a gente vai conectar no MCP.
+
+775
+00:36:52,084 --> 00:36:55,344
+E aí vai dar problema, porque eu tenho duas organizações aqui
+
+776
+00:36:55,344 --> 00:36:57,064
+e eu não estou prestando atenção nisso.
+
+777
+00:36:57,064 --> 00:36:59,284
+muita gente se perde nesse detalhe bobo, tá?
+
+778
+00:36:59,584 --> 00:37:01,944
+Nós vamos usar a organização Juan Brás nesse caso,
+
+779
+00:37:02,024 --> 00:37:05,324
+e ela já tem o Project Alpha, que é o que nós vamos trabalhar.
+
+780
+00:37:05,724 --> 00:37:08,864
+Então, tudo que eu tenho que fazer é só verificar a organização aqui
+
+781
+00:37:08,864 --> 00:37:13,404
+e clicar aqui em autorizar o Cloud a fazer uma conexão MCP com o Supabase.
+
+782
+00:37:13,964 --> 00:37:15,204
+Então, eu estou autorizando aqui.
+
+783
+00:37:16,860 --> 00:37:17,560
+Tão simples quanto.
+
+784
+00:37:17,760 --> 00:37:19,400
+É plug and play.
+
+785
+00:37:20,796 --> 00:37:22,476
+beleza, vai conectar aqui,
+
+786
+00:37:22,576 --> 00:37:24,976
+tá mostrando tudo que ele vai permitir ele fazer,
+
+787
+00:37:25,696 --> 00:37:26,976
+eu clico aqui pra abrir o Cloud,
+
+788
+00:37:27,396 --> 00:37:28,876
+e ó, fez a conexão.
+
+789
+00:37:29,176 --> 00:37:31,436
+Agora ele vai me avisar aqui que tá conectado,
+
+790
+00:37:31,436 --> 00:37:31,776
+olha só,
+
+791
+00:37:32,516 --> 00:37:34,216
+tá aqui desvincular, tá vendo?
+
+792
+00:37:34,376 --> 00:37:35,796
+Então tá conectado certinho.
+
+793
+00:37:36,256 --> 00:37:37,856
+Agora sim eu volto aqui,
+
+794
+00:37:38,416 --> 00:37:40,576
+poderia ter feito direto aqui no Cloud também,
+
+795
+00:37:40,676 --> 00:37:42,356
+ele ia fazer o login automaticamente,
+
+796
+00:37:42,376 --> 00:37:43,456
+desvincular e vincular,
+
+797
+00:37:43,576 --> 00:37:45,536
+é só você clicar aqui em MCP,
+
+798
+00:37:45,656 --> 00:37:47,276
+aí você vai ver que tá Supabase,
+
+799
+00:37:47,356 --> 00:37:49,796
+vem aqui e clica em Clear Authentication,
+
+800
+00:37:49,796 --> 00:37:51,956
+ele vai fazer de novo. No caso, a gente já fez, então
+
+801
+00:37:51,956 --> 00:37:54,016
+não precisa. O que é que eu vou fazer com ele
+
+802
+00:37:54,016 --> 00:37:55,916
+agora? Eu vou falar com ele o seguinte, olha, tudo
+
+803
+00:37:56,416 --> 00:37:57,876
+funcionando. Agora precisamos
+
+804
+00:37:58,276 --> 00:38:00,156
+configurar a galeria e o histórico de pedidos.
+
+805
+00:38:00,456 --> 00:38:01,176
+Além disso,
+
+806
+00:38:02,516 --> 00:38:04,136
+esta é uma
+
+807
+00:38:04,636 --> 00:38:05,196
+excelente hora.
+
+808
+00:38:06,684 --> 00:38:11,084
+para conectarmos nosso banco de dados,
+
+809
+00:38:12,044 --> 00:38:13,244
+ALF, que é a autenticação,
+
+810
+00:38:14,812 --> 00:38:22,192
+Eu vou colocar ALF e STORAGE para salvar as imagens que estamos gerando aqui.
+
+811
+00:38:23,332 --> 00:38:25,812
+Vamos utilizar o Supabase.
+
+812
+00:38:25,952 --> 00:38:30,052
+Já conectei ele via MCP.
+
+813
+00:38:31,072 --> 00:38:34,552
+Você pode puxar todas as chaves.
+
+814
+00:38:36,636 --> 00:38:37,896
+e o que precisar.
+
+815
+00:38:39,100 --> 00:38:42,980
+Eu adicione no Envy, é só me falar.
+
+816
+00:38:44,732 --> 00:38:47,072
+porque a gente vai ter que conectar duas chaves aqui no Envy
+
+817
+00:38:47,072 --> 00:38:47,972
+que ele não tem acesso.
+
+818
+00:38:48,352 --> 00:38:51,012
+Lembra aquela senha que eu falei para vocês guardarem no Vaunt,
+
+819
+00:38:51,032 --> 00:38:51,952
+que eu guardei no TXT?
+
+820
+00:38:52,212 --> 00:38:54,452
+A gente vai utilizar ela aqui no projeto agora.
+
+821
+00:38:54,872 --> 00:38:56,572
+Depois que eu conectar tudo aqui,
+
+822
+00:38:56,672 --> 00:38:58,692
+ele vai adicionar aqui no exemplo
+
+823
+00:38:59,232 --> 00:39:02,952
+mais algumas opções aqui de chaves.
+
+824
+00:39:03,072 --> 00:39:04,652
+Então lembra que a gente tem,
+
+825
+00:39:05,152 --> 00:39:07,592
+já nesse Envy Local que eu não vou mostrar para vocês,
+
+826
+00:39:07,852 --> 00:39:11,312
+a gente já tem uma chave do Anthropic e já tem uma chave do Seedens.
+
+827
+00:39:11,572 --> 00:39:13,772
+Agora ele vai atualizar esse Envy Example
+
+828
+00:39:13,772 --> 00:39:17,452
+colocando aqui também as chaves que ele precisa do Supabase.
+
+829
+00:39:17,612 --> 00:39:19,772
+Então ele está fazendo a conexão aqui para a gente.
+
+830
+00:39:20,072 --> 00:39:22,352
+Eu esqueci de falar, daria para fazer isso,
+
+831
+00:39:22,472 --> 00:39:26,272
+para ele fazer em paralelo, um agente para banco de dados,
+
+832
+00:39:26,492 --> 00:39:28,412
+um agente para autenticação e outro para storage.
+
+833
+00:39:28,712 --> 00:39:33,032
+Mas tem que ser muito bem feito, porque a autenticação não é...
+
+834
+00:39:34,172 --> 00:39:36,012
+Banco de dados, autenticação e storage,
+
+835
+00:39:37,052 --> 00:39:39,412
+qualquer coisinha que você desliza ali e perde,
+
+836
+00:39:39,492 --> 00:39:41,772
+você começa a entrar num labirinto de problema ali,
+
+837
+00:39:41,872 --> 00:39:43,892
+vai se perdendo e vai configurando tudo errado,
+
+838
+00:39:43,952 --> 00:39:45,392
+os esquemas, as tabelas.
+
+839
+00:39:45,712 --> 00:39:49,132
+Então, eu deixei aqui, vai levar um pouquinho mais de tempo
+
+840
+00:39:49,132 --> 00:39:50,632
+ele fazendo tudo sozinho.
+
+841
+00:39:50,732 --> 00:39:52,452
+Ah, ele até colocou em paralelo, safado.
+
+842
+00:39:52,532 --> 00:39:54,132
+Já colocou para fazer em paralelo aqui.
+
+843
+00:39:54,652 --> 00:39:57,212
+Mas ele está fazendo em paralelo linear ainda,
+
+844
+00:39:57,332 --> 00:39:59,332
+porque ele colocou um agente só em paralelo,
+
+845
+00:39:59,332 --> 00:40:01,812
+que é esse Explorer aqui, para poder organizar.
+
+846
+00:40:01,892 --> 00:40:03,192
+Deixa ele gerenciar aqui.
+
+847
+00:40:03,192 --> 00:40:05,112
+aqui. Basicamente, o que ele vai fazer
+
+848
+00:40:05,112 --> 00:40:07,232
+agora? Ele vai criar algumas tabelas
+
+849
+00:40:07,232 --> 00:40:08,892
+para a gente lá no SupaBase. A
+
+850
+00:40:08,892 --> 00:40:11,152
+principal tabela que ele vai criar é uma tabela
+
+851
+00:40:11,152 --> 00:40:13,272
+de usuário, com login e senha.
+
+852
+00:40:13,312 --> 00:40:15,012
+Eu não especifiquei para ele que eu
+
+853
+00:40:15,012 --> 00:40:17,272
+queria uma autenticação de login e senha.
+
+854
+00:40:17,312 --> 00:40:19,232
+O ideal seria eu especificar,
+
+855
+00:40:19,272 --> 00:40:21,052
+tá? Seria melhor ainda. Mas vamos
+
+856
+00:40:21,052 --> 00:40:22,772
+ver o que ele vai aprontar aqui para a gente.
+
+857
+00:40:24,092 --> 00:40:26,952
+Depois que ele deixar tudo pronto, vai ser só colar a chavezinha ali,
+
+858
+00:40:27,052 --> 00:40:29,112
+a senha, deixa arrumadinho,
+
+859
+00:40:29,192 --> 00:40:31,512
+pega um link que a gente vai pegar lá no Supabase,
+
+860
+00:40:31,552 --> 00:40:33,872
+que é um pouquinho escondido, e pronto, cara.
+
+861
+00:40:34,012 --> 00:40:35,512
+Vai estar tudo certo, beleza?
+
+862
+00:40:35,752 --> 00:40:38,052
+E aí a gente vai poder publicar esse projeto aqui.
+
+863
+00:40:38,492 --> 00:40:41,492
+Depois que comecei a usar o Vercel CLI,
+
+864
+00:40:41,592 --> 00:40:44,032
+ficou 100% mais fácil fazer o deploy.
+
+865
+00:40:44,132 --> 00:40:46,312
+Ah, é muito mais fácil, a gente vai fazer o deploy junto aqui.
+
+866
+00:40:46,392 --> 00:40:47,452
+Isso aqui não é deploy, tá?
+
+867
+00:40:48,032 --> 00:40:51,372
+Isso aqui que eu estou fazendo é organizando o nosso banco de dados,
+
+868
+00:40:51,372 --> 00:40:54,032
+nossos dados, nossa autenticação e o nosso storage.
+
+869
+00:40:54,272 --> 00:40:56,432
+A gente está guardando esses dados lá no Supabase.
+
+870
+00:40:56,612 --> 00:40:59,032
+Porque aí quando a gente sobe o nosso projeto para a nuvem,
+
+871
+00:40:59,112 --> 00:41:03,992
+a gente não sobe o banco de dados, a gente não builda ele e sobe no link.
+
+872
+00:41:04,172 --> 00:41:05,972
+A gente deixa num banco de dados à parte.
+
+873
+00:41:06,372 --> 00:41:06,732
+Beleza?
+
+874
+00:41:06,872 --> 00:41:08,272
+Então olha só o que ele está falando aqui.
+
+875
+00:41:08,632 --> 00:41:09,812
+Perfeito, tenho tudo o que preciso.
+
+876
+00:41:09,932 --> 00:41:10,592
+Aqui está o resumo.
+
+877
+00:41:11,072 --> 00:41:15,112
+Projeto, o project alfa, o URL é essa, o status é ativo,
+
+878
+00:41:15,952 --> 00:41:17,192
+tabelas, ainda não tem nenhuma.
+
+879
+00:41:17,192 --> 00:41:21,332
+Vou entrar em modo planejamento para alinharmos a arquitetura antes de implementar.
+
+880
+00:41:21,432 --> 00:41:25,572
+Ele mesmo, olha só que proativo, ele já entrou no modo plan,
+
+881
+00:41:26,332 --> 00:41:29,432
+e isso é muito importante para tabelas, deixa ele no modo plan dele,
+
+882
+00:41:30,192 --> 00:41:34,532
+porque ele vai olhar para todo o nosso projeto e identificar quais dados ele precisa armazenar,
+
+883
+00:41:34,572 --> 00:41:36,932
+que tipo de tabela ele precisa fazer corretamente.
+
+884
+00:41:37,212 --> 00:41:39,212
+Aqui, galera, a gente está fazendo de um jeito, inclusive,
+
+885
+00:41:39,352 --> 00:41:43,292
+que nós temos controle total sobre tudo do nosso projeto.
+
+886
+00:41:43,292 --> 00:41:49,192
+Tem muita gente que usa o Lovable, usa o Bolt, e eles fazem isso automaticamente conectado no Supabase para você.
+
+887
+00:41:49,352 --> 00:41:51,852
+Eles automaticamente conectam tudo para você lá.
+
+888
+00:41:52,052 --> 00:41:53,612
+Só que você tem menos controle.
+
+889
+00:41:53,672 --> 00:41:58,112
+Aqui você tem controle total, você está construindo uma casa no seu lote, entendeu?
+
+890
+00:41:58,372 --> 00:41:59,792
+E isso faz toda a diferença.
+
+891
+00:42:00,592 --> 00:42:07,712
+Podia até explodir, se explodir a Anthropic agora, não tem nenhuma e a mais, tudo que eu criei é meu pelo menos, está no meu computador, entendeu?
+
+892
+00:42:08,472 --> 00:42:11,572
+Então ele já fez o plano aqui, está com a visão completa do plano.
+
+893
+00:42:12,272 --> 00:42:13,972
+Vamos ver os próximos passos que ele vai trazer.
+
+894
+00:42:14,192 --> 00:42:15,832
+Enquanto isso, eu vou fazer o seguinte, olha,
+
+895
+00:42:15,872 --> 00:42:18,492
+eu vou já criar uma tela de login para a gente.
+
+896
+00:42:18,672 --> 00:42:23,572
+Temos um agente trabalhando na autenticação.
+
+897
+00:42:26,332 --> 00:42:30,132
+Bancos de dados, pode falar assim, DB também funciona, e Storage.
+
+898
+00:42:32,668 --> 00:42:35,088
+Mas ainda não temos uma tela de login.
+
+899
+00:42:35,648 --> 00:42:36,928
+Crio uma tela de login.
+
+900
+00:42:38,780 --> 00:42:39,860
+Seguindo o nosso design.
+
+901
+00:42:42,044 --> 00:42:44,564
+usando o agente DesignMD.
+
+902
+00:42:45,820 --> 00:42:51,700
+Cuidado para não atrapalhar o outro agente conectado, planejando.
+
+903
+00:42:53,084 --> 00:42:55,124
+conectado. Outra gente trabalhando.
+
+904
+00:42:56,348 --> 00:42:57,248
+No Supabase.
+
+905
+00:42:57,788 --> 00:43:00,708
+Então tá bom, ele vai ativar aqui só pra ele fazer a UI pra gente aqui.
+
+906
+00:43:02,684 --> 00:43:05,644
+A conexão com o banco de dados aparece nos códigos da web?
+
+907
+00:43:05,964 --> 00:43:08,064
+Qualquer um tem acesso? Não, não aparece.
+
+908
+00:43:08,704 --> 00:43:12,224
+Esse env aqui, o env local, ele fica com você,
+
+909
+00:43:12,344 --> 00:43:13,444
+onde está o seu arquivo.
+
+910
+00:43:13,884 --> 00:43:15,884
+Geralmente, o env local fica local.
+
+911
+00:43:16,304 --> 00:43:19,084
+Tem o env também que dá para gerenciar em outros sistemas,
+
+912
+00:43:19,264 --> 00:43:22,344
+outros serviços, mas isso aqui não sobe para outros lugares,
+
+913
+00:43:22,404 --> 00:43:23,464
+é secreto, tá bom?
+
+914
+00:43:26,492 --> 00:43:28,312
+E aí, quando você cria o banco de dados,
+
+915
+00:43:28,452 --> 00:43:30,972
+você está fazendo uma conexão dele com o seu sistema.
+
+916
+00:43:31,312 --> 00:43:35,512
+Então, o usuário usa o sistema, mas ele tem conectado aqui, imagina assim.
+
+917
+00:43:39,676 --> 00:43:40,716
+Imagina aqui o usuário.
+
+918
+00:43:42,952 --> 00:43:44,792
+Pensa o seguinte, você tem um servidor.
+
+919
+00:43:46,044 --> 00:43:50,704
+E esse servidor aqui, ele tá conectado em algum lugar do mundo, beleza?
+
+920
+00:43:51,824 --> 00:43:54,904
+Imagina aí, tá conectado aí lá nas Américas ali, beleza.
+
+921
+00:43:55,644 --> 00:43:57,384
+Então ele tá conectado.
+
+922
+00:43:59,068 --> 00:44:01,168
+E vou chamar isso aqui de usuário.
+
+923
+00:44:04,316 --> 00:44:06,316
+E vou chamar do lado de cá o server,
+
+924
+00:44:06,656 --> 00:44:08,216
+que é onde o seu site está, beleza?
+
+925
+00:44:08,476 --> 00:44:09,256
+Então, eu deixei assim, ó.
+
+926
+00:44:09,616 --> 00:44:12,556
+Eu estou simplificando, não vou falar de client-site,
+
+927
+00:44:12,676 --> 00:44:13,976
+server-site, nada disso, não.
+
+928
+00:44:14,016 --> 00:44:14,816
+Vou do jeito simples.
+
+929
+00:44:14,896 --> 00:44:18,036
+Para quem entende aí, eu vou simplificar.
+
+930
+00:44:18,936 --> 00:44:20,576
+Então, imagina que tem um usuário aqui.
+
+931
+00:44:20,736 --> 00:44:22,316
+Aí tem um usuário em algum lugar do mundo
+
+932
+00:44:22,316 --> 00:44:23,716
+que acessou o seu site lá.
+
+933
+00:44:23,936 --> 00:44:25,816
+www.acessou-seu-site.
+
+934
+00:44:26,096 --> 00:44:27,996
+Essa pessoa caiu ali no seu site.
+
+935
+00:44:28,236 --> 00:44:30,876
+O seu site, ele está conectado
+
+936
+00:44:31,776 --> 00:44:32,576
+num servidor,
+
+937
+00:44:32,576 --> 00:44:35,036
+e esse servidor está em algum lugar do mundo,
+
+938
+00:44:35,096 --> 00:44:36,916
+sei lá, ele está ali na América do Norte,
+
+939
+00:44:37,036 --> 00:44:38,056
+está conectado lá.
+
+940
+00:44:38,896 --> 00:44:41,456
+Então, basicamente, a pessoa quando entrou no seu site ali,
+
+941
+00:44:41,536 --> 00:44:42,856
+tem seu gerador de prompt lá,
+
+942
+00:44:43,316 --> 00:44:46,136
+ela está conectada em alguns tipos de servidores diferentes.
+
+943
+00:44:46,676 --> 00:44:48,856
+Você tem um servidor que carrega ali
+
+944
+00:44:48,856 --> 00:44:52,856
+o seu sistema, carrega seus arquivos,
+
+945
+00:44:52,936 --> 00:44:56,676
+e esse servidor é o que fica conectado
+
+946
+00:44:56,676 --> 00:44:57,696
+num sistema que se chama DNS,
+
+947
+00:44:58,616 --> 00:45:00,236
+e a partir desse sistema aqui,
+
+948
+00:45:00,236 --> 00:45:02,896
+que esse usuário consegue ver o site.
+
+949
+00:45:03,356 --> 00:45:04,436
+Do jeito mais...
+
+950
+00:45:06,204 --> 00:45:07,144
+Tosco possível falando.
+
+951
+00:45:08,476 --> 00:45:12,776
+Junto com isso aqui, você não coloca os arquivos, dados dos seus clientes
+
+952
+00:45:12,776 --> 00:45:14,236
+nesse mesmo servidor.
+
+953
+00:45:14,356 --> 00:45:17,456
+Até dá para colocar, mas não é uma boa prática.
+
+954
+00:45:17,556 --> 00:45:20,516
+Para isso, a gente utiliza serviços de bancos de dados,
+
+955
+00:45:20,636 --> 00:45:22,496
+serviços de autenticação e por aí vai.
+
+956
+00:45:22,796 --> 00:45:25,376
+No caso, a gente conectou aqui...
+
+957
+00:45:26,684 --> 00:45:27,364
+Supa Base.
+
+958
+00:45:27,684 --> 00:45:30,504
+Então tem o Supa Base aqui, vou chamar ele aqui, ó, Supa.
+
+959
+00:45:31,740 --> 00:45:37,840
+E no Supabase ficam lá as tabelas com todos os dados que você armazena dos seus clientes.
+
+960
+00:45:38,220 --> 00:45:40,480
+Entre esses dados tem uma tabela de user,
+
+961
+00:45:41,380 --> 00:45:44,580
+que é onde fica ali todos os e-mails e todas as senhas dos usuários.
+
+962
+00:45:45,180 --> 00:45:48,700
+E aí, dentro dessa tabela, sempre que alguém vai fazer login,
+
+963
+00:45:48,960 --> 00:45:52,860
+essa pessoa vai mandar aqui um pedido para esse server,
+
+964
+00:45:53,000 --> 00:45:56,420
+esse server vai fazer um pedido para esse aqui, fazer uma checagem.
+
+965
+00:45:56,520 --> 00:45:59,260
+Se ele vê que o e-mail está certo e a senha está certa,
+
+966
+00:45:59,260 --> 00:46:01,160
+Ele devolve isso pra esse server
+
+967
+00:46:01,160 --> 00:46:03,440
+que habilita as novas
+
+968
+00:46:03,440 --> 00:46:05,280
+páginas pra esse cara aqui poder ver.
+
+969
+00:46:05,520 --> 00:46:07,240
+Entendeu? Então são serviços
+
+970
+00:46:07,240 --> 00:46:09,480
+diferentes. A gente usa o Supabase
+
+971
+00:46:09,480 --> 00:46:11,400
+junto aqui. Se a gente quiser ir
+
+972
+00:46:11,400 --> 00:46:13,160
+mais longe ainda, quando o cara
+
+973
+00:46:13,160 --> 00:46:15,040
+logar, ele vai ter que escrever o prompt.
+
+974
+00:46:15,340 --> 00:46:17,360
+Então, quando ele escrever o prompt, ele vai
+
+975
+00:46:17,360 --> 00:46:19,180
+mandar um pedido lá pra Antropic,
+
+976
+00:46:19,320 --> 00:46:21,020
+a Antropic vai escrever o prompt,
+
+977
+00:46:21,480 --> 00:46:22,900
+melhorar e devolver pra cá.
+
+978
+00:46:23,020 --> 00:46:25,020
+Depois que ela devolver pra cá, ele vai lá pra
+
+979
+00:46:25,020 --> 00:46:27,280
+ByteDance, gera a imagem lá,
+
+980
+00:46:27,280 --> 00:46:29,680
+depois volta pra cá e te entrega
+
+981
+00:46:29,680 --> 00:46:31,440
+a imagem pronta pra você entregar pro usuário
+
+982
+00:46:31,440 --> 00:46:33,500
+tudo isso acontecendo na velocidade
+
+983
+00:46:33,500 --> 00:46:35,220
+da luz, tá, então
+
+984
+00:46:35,220 --> 00:46:36,360
+é muito massa, né
+
+985
+00:46:36,360 --> 00:46:39,580
+vamos ver aqui, ó, então esse aqui parece que ele já
+
+986
+00:46:39,580 --> 00:46:41,520
+criou a tela de login, ó, o design tá ativo
+
+987
+00:46:41,520 --> 00:46:43,500
+aqui, e nós temos esse aqui
+
+988
+00:46:43,500 --> 00:46:44,560
+deixa eu puxar isso pra cima
+
+989
+00:46:44,560 --> 00:46:47,280
+esse aqui ele tá me pedindo agora
+
+990
+00:46:47,280 --> 00:46:49,080
+você já habilitou a
+
+991
+00:46:49,080 --> 00:46:51,320
+Anonymous Sign In no
+
+992
+00:46:51,320 --> 00:46:53,400
+dashboard do Supabase?
+
+993
+00:46:53,880 --> 00:46:54,700
+eu não
+
+994
+00:46:54,700 --> 00:46:54,860
+Não.
+
+995
+00:46:56,796 --> 00:46:58,876
+Eu não habilitei nada, né? Como eu não habilitei
+
+996
+00:46:58,876 --> 00:46:59,756
+nada, eu vou falar aqui, ó.
+
+997
+00:47:01,476 --> 00:47:02,776
+Não. Se você quiser
+
+998
+00:47:02,776 --> 00:47:04,556
+editar alguma coisa, você pode até
+
+999
+00:47:04,556 --> 00:47:06,776
+perguntar pra ele aqui, ó. Deixa eu só ver o que
+
+1000
+00:47:06,776 --> 00:47:08,616
+ele vai falar lá. A gente não vai usar
+
+1001
+00:47:08,616 --> 00:47:10,736
+Anonymous Authentication. A gente vai utilizar
+
+1002
+00:47:10,736 --> 00:47:12,856
+login e senha. Eu vou falar pra ele aqui, ó.
+
+1003
+00:47:13,736 --> 00:47:14,496
+Quero utilizar
+
+1004
+00:47:14,896 --> 00:47:16,136
+login, é, e-mail
+
+1005
+00:47:16,136 --> 00:47:18,696
+e senha para autenticação.
+
+1006
+00:47:19,576 --> 00:47:20,956
+Já criamos a tela
+
+1007
+00:47:20,956 --> 00:47:22,676
+de login. Quero que
+
+1008
+00:47:22,676 --> 00:47:24,596
+você conecte tudo.
+
+1009
+00:47:25,216 --> 00:47:26,576
+Beleza? Então eu fui numa opção
+
+1010
+00:47:26,576 --> 00:47:28,536
+pra eu mesmo escrever, deixo ele
+
+1011
+00:47:28,536 --> 00:47:30,536
+trabalhar nessa parte agora, porque ele ia
+
+1012
+00:47:30,536 --> 00:47:32,296
+fazer uma autenticação anônima.
+
+1013
+00:47:32,536 --> 00:47:34,336
+E a gente não vai usar autenticação anônima.
+
+1014
+00:47:34,396 --> 00:47:36,516
+Ele falou, entendido, autenticação por e-mail e senha
+
+1015
+00:47:36,516 --> 00:47:38,736
+e já tem a tela de login. Deixa eu encontrar essa tela.
+
+1016
+00:47:38,916 --> 00:47:40,536
+Eu podia ter já entregado pra ele,
+
+1017
+00:47:40,536 --> 00:47:42,576
+ele ia gastar menos token procurando a tela, né?
+
+1018
+00:47:42,876 --> 00:47:44,356
+Mas vamos ver a tela funcionando?
+
+1019
+00:47:44,416 --> 00:47:45,436
+Eu vou entrar aqui, ó, login.
+
+1020
+00:47:46,156 --> 00:47:48,676
+Aí eu vou vir aqui no nosso sisteminha que a gente criou.
+
+1021
+00:47:49,856 --> 00:47:50,536
+Cadê ele?
+
+1022
+00:47:50,656 --> 00:47:52,416
+Aqui, ó. Vou vir no nosso
+
+1023
+00:47:52,416 --> 00:47:54,476
+nosso sisteminha, que tá aqui, ó, Project Alpha.
+
+1024
+00:47:54,716 --> 00:47:56,096
+E vou dar um barra login
+
+1025
+00:47:56,096 --> 00:47:57,576
+pra ver se essa tela foi criada.
+
+1026
+00:47:58,116 --> 00:48:00,516
+Ó, já tem a nossa tela de login, ó, que bonitinho.
+
+1027
+00:48:00,636 --> 00:48:02,436
+Seguindo o design que a gente fez, né,
+
+1028
+00:48:02,496 --> 00:48:04,336
+ontem. Esse design todo foi
+
+1029
+00:48:04,336 --> 00:48:05,676
+construído em cima de um prompt.
+
+1030
+00:48:05,896 --> 00:48:08,236
+Olha que loucura, né? Nem precisou de design
+
+1031
+00:48:08,236 --> 00:48:10,256
+system aqui. Eu vou falar de design system
+
+1032
+00:48:10,256 --> 00:48:12,096
+com vocês também, comentar algumas
+
+1033
+00:48:12,096 --> 00:48:14,076
+coisas. Ele até colocou aqui um
+
+1034
+00:48:14,076 --> 00:48:16,276
+entrar com Google. A gente não vai usar
+
+1035
+00:48:16,276 --> 00:48:18,196
+entrar com Google aqui nesse exemplo, tá?
+
+1036
+00:48:18,296 --> 00:48:20,316
+Mas você poderia pedir pro Cloud fazer
+
+1037
+00:48:20,316 --> 00:48:22,176
+essa conexão pra você e ele faria.
+
+1038
+00:48:22,416 --> 00:48:25,716
+Aí o usuário poderia criar a conta com o Google, funcionaria normalmente.
+
+1039
+00:48:26,496 --> 00:48:28,936
+Será que ele criou uma página de criar conta? Vamos ver.
+
+1040
+00:48:29,216 --> 00:48:29,976
+Não criou.
+
+1041
+00:48:30,096 --> 00:48:32,776
+Então a gente tem que pedir ele para criar essa página aqui também.
+
+1042
+00:48:33,156 --> 00:48:35,456
+Nesse projeto, eu não vou fazer isso agora, tá?
+
+1043
+00:48:35,596 --> 00:48:38,796
+Na verdade, a gente vai precisar, né, para criar uma conta de teste aqui.
+
+1044
+00:48:38,916 --> 00:48:40,916
+Então, deixa eu ver aqui o outro onde chegou.
+
+1045
+00:48:40,976 --> 00:48:42,056
+Ele está falando o seguinte, ó.
+
+1046
+00:48:43,292 --> 00:48:45,272
+Ah, ele está precisando agora da enum key.
+
+1047
+00:48:45,492 --> 00:48:47,432
+Ah, ele já conseguiu, na verdade, via MCP.
+
+1048
+00:48:47,732 --> 00:48:50,652
+As variáveis de ambiente que ele precisa estão aqui.
+
+1049
+00:48:50,692 --> 00:48:53,072
+Ele vai precisar da senha, né?
+
+1050
+00:48:53,132 --> 00:48:54,132
+Deixa eu ver com ele aqui, ó.
+
+1051
+00:48:54,832 --> 00:48:57,392
+Ele está me perguntando se eu posso habilitar para ele mesmo fazer.
+
+1052
+00:48:58,252 --> 00:49:00,392
+Eu vou habilitar aqui porque eu estou em bypass permission,
+
+1053
+00:49:00,452 --> 00:49:02,092
+mas você também pode pedir para ele, olha,
+
+1054
+00:49:02,112 --> 00:49:03,932
+eu vou fazer manualmente e você me explica o caminho,
+
+1055
+00:49:04,032 --> 00:49:05,632
+se você quiser de um jeito mais seguro.
+
+1056
+00:49:06,112 --> 00:49:08,252
+Eu vou colocar aqui, para ele,
+
+1057
+00:49:08,272 --> 00:49:09,972
+permissão total para a gente ir mais rápido,
+
+1058
+00:49:10,012 --> 00:49:13,032
+que aí, via MCP, ele pega essas chaves aqui, tá?
+
+1059
+00:49:13,032 --> 00:49:16,632
+Enum Key, URL, ele vai conectar tudo para a gente aqui
+
+1060
+00:49:17,192 --> 00:49:19,072
+e vai executar o plano agora.
+
+1061
+00:49:19,412 --> 00:49:21,592
+Eu dei Bypass Permission para ele fazer isso.
+
+1062
+00:49:21,752 --> 00:49:23,932
+A única coisa que ele não vai ter é a senha.
+
+1063
+00:49:23,972 --> 00:49:25,832
+Essa senha sou eu que coloco no final.
+
+1064
+00:49:27,708 --> 00:49:30,708
+Enquanto ele está fazendo aqui... Ah, ele mesmo está criando. Login e registro.
+
+1065
+00:49:30,708 --> 00:49:32,528
+Ele vai criar, então pode deixar ele fazer aqui.
+
+1066
+00:49:33,756 --> 00:49:37,756
+Enquanto ele faz, eu vou mostrar pra vocês, ainda não anunciei, tá?
+
+1067
+00:49:37,796 --> 00:49:41,416
+Cinco e meio eu vou anunciar quem ficou em primeiro lugar
+
+1068
+00:49:41,416 --> 00:49:44,876
+e o presente que eu tenho pra vocês, as coisas legais que a gente vai fazer aqui, beleza?
+
+1069
+00:49:45,176 --> 00:49:48,596
+Mas basicamente, olha só, você...
+
+1070
+00:49:49,296 --> 00:49:53,116
+Vou deixar ele fazendo isso aqui e eu quero mostrar uma coisa pra vocês, tá?
+
+1071
+00:49:53,436 --> 00:49:56,816
+Como eu disse, não dá tempo de eu ensinar Design System pra vocês.
+
+1072
+00:49:57,096 --> 00:50:00,456
+Mas eu posso mostrar o caminho do Design System pra vocês,
+
+1073
+00:50:00,456 --> 00:50:04,156
+quem quiser se aventurar pode na vanguarda já tem um monte de aula sobre
+
+1074
+00:50:04,156 --> 00:50:07,856
+isso a gente vai continuar falando você vai poder tirar dúvidas lata mas o que
+
+1075
+00:50:07,856 --> 00:50:11,756
+eu vou fazer eu vou entrar num projeto aqui que já tem o design system da
+
+1076
+00:50:11,756 --> 00:50:15,416
+overlens que é esse lego que eu vou fazer aqui ó pra gente falar do design
+
+1077
+00:50:15,416 --> 00:50:18,356
+system só para comentar enquanto ele está conectando o banco de dados ele
+
+1078
+00:50:19,612 --> 00:50:23,112
+Basicamente, aqui na Overlens, a gente gerencia o Design System
+
+1079
+00:50:23,112 --> 00:50:25,672
+usando um serviço chamado Storybook.
+
+1080
+00:50:25,872 --> 00:50:29,632
+O Storybook é um serviço que você instala no seu projeto,
+
+1081
+00:50:29,952 --> 00:50:31,872
+vou colocar aqui, Storybook,
+
+1082
+00:50:32,492 --> 00:50:36,372
+justamente para fazer gestão de componentes de interface.
+
+1083
+00:50:36,912 --> 00:50:40,932
+A gente já utilizava o Storybook para poder fazer Design System
+
+1084
+00:50:40,932 --> 00:50:43,012
+antes de começar a usar IA nesse nível,
+
+1085
+00:50:43,132 --> 00:50:46,472
+mas com o IA agora, isso aqui ficou muito mais poderoso,
+
+1086
+00:50:46,472 --> 00:50:52,012
+porque essa ferramenta aqui nos permite fazer a gestão dos nossos componentes todos
+
+1087
+00:50:52,012 --> 00:50:54,132
+e depois criar uma matriz.
+
+1088
+00:50:54,192 --> 00:50:56,512
+Então, o que vocês têm que entender de Design System?
+
+1089
+00:50:56,712 --> 00:50:58,412
+Pelo menos isso eu posso ensinar para vocês.
+
+1090
+00:50:59,072 --> 00:51:00,592
+Imagina que você está fazendo uma página
+
+1091
+00:51:00,592 --> 00:51:03,692
+e aí eu vou pegar um componente só que é o botão.
+
+1092
+00:51:03,712 --> 00:51:05,152
+Então, imagina que a gente tem esse botão aqui.
+
+1093
+00:51:06,524 --> 00:51:08,944
+Aí, pensa comigo, você colocou esse botão nessa seção,
+
+1094
+00:51:08,984 --> 00:51:10,644
+depois colocou nessa, depois colocou nessa,
+
+1095
+00:51:10,804 --> 00:51:11,584
+colocou aqui de novo,
+
+1096
+00:51:11,744 --> 00:51:14,024
+aparece esse botão várias vezes na página, certo?
+
+1097
+00:51:14,484 --> 00:51:17,364
+Só que você fez o que a gente chama de hardcoded.
+
+1098
+00:51:17,624 --> 00:51:22,144
+Você foi lá e fez o mesmo botão, o mesmo código, várias vezes.
+
+1099
+00:51:22,344 --> 00:51:25,124
+Então, você está copiando o mesmo código aqui toda hora.
+
+1100
+00:51:25,504 --> 00:51:27,984
+Isso não é uma boa prática quando a gente vai criar interface.
+
+1101
+00:51:28,464 --> 00:51:31,244
+A gente geralmente trabalha com instâncias.
+
+1102
+00:51:31,584 --> 00:51:34,464
+Quando você trabalha com uma instância, você faz o quê?
+
+1103
+00:51:34,464 --> 00:51:39,544
+Se você tem um componente como um botão, você vai criar esse componente matriz.
+
+1104
+00:51:39,684 --> 00:51:46,084
+Então, você vai ter um componente mãe aqui, e esse componente vai ser utilizado via instância.
+
+1105
+00:51:46,284 --> 00:51:50,424
+Então, imagina que você dá um nome para esse botão aqui, imagina que ele chama button, só isso.
+
+1106
+00:51:51,044 --> 00:51:56,924
+Ao invés de eu ficar colando o código desse botão toda hora, eu colo essa instância, button, em todos eles.
+
+1107
+00:51:57,244 --> 00:52:03,384
+E aí, o que vai acontecer é que ele vai printar o mesmo código, só que ele está sempre puxando da matriz.
+
+1108
+00:52:03,964 --> 00:52:07,484
+Isso é bom porque, imagina que eu quero trocar esse botão aqui,
+
+1109
+00:52:07,624 --> 00:52:09,584
+e agora eu quero que ele seja azul.
+
+1110
+00:52:10,164 --> 00:52:13,104
+Se eu fiz hardcoded, eu vou ter mudado de cima,
+
+1111
+00:52:13,144 --> 00:52:16,244
+vou ter que ir passando mudando todos os botões um de cada vez.
+
+1112
+00:52:16,444 --> 00:52:19,184
+Por isso que é ruim fazer site em HTML puro, por exemplo.
+
+1113
+00:52:19,604 --> 00:52:23,204
+Agora, se eu fiz ele usando instância, criando o componente certinho,
+
+1114
+00:52:23,324 --> 00:52:26,604
+no momento que eu mudo a matriz, automaticamente,
+
+1115
+00:52:26,604 --> 00:52:30,144
+ele já vai mudar todos os outros botões que usam,
+
+1116
+00:52:30,144 --> 00:52:33,364
+que são uma instância daquela matriz.
+
+1117
+00:52:34,748 --> 00:52:37,488
+Então, isso aqui que é o segredo de trabalhar com o Design System,
+
+1118
+00:52:37,608 --> 00:52:38,948
+um dos mais importantes,
+
+1119
+00:52:39,188 --> 00:52:42,468
+é você conseguir criar uma biblioteca de componentes
+
+1120
+00:52:42,468 --> 00:52:46,208
+e trabalhar as instâncias desses componentes.
+
+1121
+00:52:46,288 --> 00:52:46,988
+Por quê?
+
+1122
+00:52:47,048 --> 00:52:49,408
+Uma vez que você tem a instância desse componente,
+
+1123
+00:52:49,608 --> 00:52:53,128
+se eu quiser mudar todos os botões de todas as páginas,
+
+1124
+00:52:53,148 --> 00:52:56,168
+eu mudo só a matriz e depois da matriz mudo em todos.
+
+1125
+00:52:56,568 --> 00:52:59,808
+Quando você começa a aprender também mais sobre Design System,
+
+1126
+00:52:59,808 --> 00:53:04,408
+você começa a ver que um componente possui vários estados diferentes.
+
+1127
+00:53:05,028 --> 00:53:08,568
+Então tem quando ele não está acontecendo nada, ele está padrão, default,
+
+1128
+00:53:08,908 --> 00:53:13,828
+tem quando o mouse para em cima, tem quando clica, tem quando está ativado, desativado.
+
+1129
+00:53:13,908 --> 00:53:17,388
+Então você precisa criar vários estados daquele mesmo componente.
+
+1130
+00:53:17,508 --> 00:53:20,208
+A IA faz isso tudo para você, mas você tem que pedir.
+
+1131
+00:53:20,528 --> 00:53:22,688
+É assim que a gente trabalha com o Design System.
+
+1132
+00:53:22,948 --> 00:53:24,268
+Então como que funciona o processo?
+
+1133
+00:53:24,668 --> 00:53:28,068
+Nós temos o Storybook aqui, e aqui dentro de App,
+
+1134
+00:53:28,068 --> 00:53:31,028
+Deixa eu ver se está em app e componentes aqui.
+
+1135
+00:53:31,368 --> 00:53:35,068
+Aqui dentro de componentes, eu tenho todos os componentes aqui
+
+1136
+00:53:35,068 --> 00:53:37,148
+que a gente utiliza na plataforma da Overlens.
+
+1137
+00:53:37,288 --> 00:53:39,508
+Cada um desses daqui é uma matriz.
+
+1138
+00:53:39,748 --> 00:53:43,208
+E o Storybook me ajuda a visualizar essas matrizes.
+
+1139
+00:53:43,288 --> 00:53:45,928
+Então, se eu digito aqui, depois que eu instalei o Storybook,
+
+1140
+00:53:45,968 --> 00:53:47,548
+eu só digito npm run dev.
+
+1141
+00:53:49,148 --> 00:53:50,048
+É a força do hábito.
+
+1142
+00:53:50,328 --> 00:53:54,708
+NPM Run Storybook, para ele rodar aqui o Storybook.
+
+1143
+00:53:54,908 --> 00:53:57,528
+Ele vai rodar o Storybook aqui no projeto para a gente,
+
+1144
+00:53:57,528 --> 00:54:01,168
+e eu vou conseguir fazer a gestão de todos os meus componentes.
+
+1145
+00:54:01,388 --> 00:54:03,808
+Então, olha só, eu tenho aqui as versões do logo,
+
+1146
+00:54:04,068 --> 00:54:06,928
+se eu quiser trabalhar com elas, carregou o símbolo,
+
+1147
+00:54:06,948 --> 00:54:09,788
+carregou aqui o logo da vanguarda, o logo do protocolo.
+
+1148
+00:54:09,908 --> 00:54:12,148
+Eu tenho aqui, vamos pegar o botão, que é um clássico.
+
+1149
+00:54:12,648 --> 00:54:15,848
+Dentro do botão, olha quantos botões diferentes eu tenho.
+
+1150
+00:54:15,848 --> 00:54:32,208
+Eu tenho ele padrão, destrutivo, invertido, outline, secundário, fantasma, só o link, com o ícone, só o ícone, carregando, desabilitado, todos os tamanhos, todos os tamanhos com o ícone, todas as variantes.
+
+1151
+00:54:32,388 --> 00:54:35,048
+Isso aqui é só um componente, é só o botão.
+
+1152
+00:54:35,388 --> 00:54:42,168
+Só que eu trabalhei o botão aqui uma vez e depois eu posso replicar esse botão em tudo.
+
+1153
+00:54:42,168 --> 00:54:44,508
+eu não preciso ficar fazendo esse botão toda hora,
+
+1154
+00:54:44,648 --> 00:54:46,448
+porque eu tenho um design system.
+
+1155
+00:54:46,888 --> 00:54:51,108
+A gente fez isso até chegar no nível de termos aqui page sections.
+
+1156
+00:54:51,488 --> 00:54:53,208
+Então, eu tenho aqui uma seção banner,
+
+1157
+00:54:53,488 --> 00:54:56,108
+que toda vez que eu quero criar um banner no meu site,
+
+1158
+00:54:56,288 --> 00:54:58,108
+eu posso usar essa seção de banner.
+
+1159
+00:54:58,808 --> 00:55:01,428
+Então, ela já está funcional, já está responsiva.
+
+1160
+00:55:01,508 --> 00:55:04,708
+É assim que a gente constrói o nosso design system.
+
+1161
+00:55:05,388 --> 00:55:08,408
+Tem muito mais coisa por trás disso daqui, tá?
+
+1162
+00:55:08,488 --> 00:55:10,348
+Eu só quis explicar o processo para vocês
+
+1163
+00:55:10,348 --> 00:55:11,708
+de como fazer isso aqui
+
+1164
+00:55:12,328 --> 00:55:14,048
+no nível de vanguarda, assim,
+
+1165
+00:55:14,088 --> 00:55:16,128
+como fazer isso no nível das melhores
+
+1166
+00:55:16,128 --> 00:55:17,808
+empresas, maiores empresas do mundo,
+
+1167
+00:55:17,928 --> 00:55:20,068
+porque aqui você faz o trabalho uma vez
+
+1168
+00:55:20,068 --> 00:55:22,008
+e depois não precisa fazer de novo. E se você
+
+1169
+00:55:22,008 --> 00:55:23,988
+precisa editar aquele componente,
+
+1170
+00:55:24,008 --> 00:55:26,308
+você edita uma vez e troca em todas as páginas.
+
+1171
+00:55:26,388 --> 00:55:27,708
+É avançado, sim,
+
+1172
+00:55:28,688 --> 00:55:29,088
+mas...
+
+1173
+00:55:31,516 --> 00:55:32,916
+Vocês vão ter novidades em breve, tá?
+
+1174
+00:55:33,336 --> 00:55:37,976
+Então, só para comentar com vocês aqui sobre o nosso Design System.
+
+1175
+00:55:38,396 --> 00:55:40,836
+Para instalar o Storybook é a coisa mais fácil do mundo.
+
+1176
+00:55:40,916 --> 00:55:42,036
+É só você falar para o Cloud,
+
+1177
+00:55:42,176 --> 00:55:45,336
+eu quero fazer a gestão dos meus componentes no Storybook.
+
+1178
+00:55:45,496 --> 00:55:48,336
+Ele vai instalar tudo para você e você vai fazendo a gestão por ali.
+
+1179
+00:55:48,496 --> 00:55:49,836
+Tá bom? Não é difícil.
+
+1180
+00:55:50,136 --> 00:55:54,556
+O Storybook é só um lugar para você visualizar e gerenciar os componentes.
+
+1181
+00:55:54,616 --> 00:55:56,636
+Na hora de utilizar os componentes,
+
+1182
+00:55:56,636 --> 00:56:00,016
+aqui na Overlens a gente utiliza de base o ShadCN.
+
+1183
+00:56:00,016 --> 00:56:05,096
+porque o ChatCN ele te dá a fundação para o seu Design System e ele já configura tudo com
+
+1184
+00:56:05,096 --> 00:56:10,516
+acessibilidade de um jeito que já é um excelente ponto de partida. Então a gente usa o ChatCN,
+
+1185
+00:56:10,696 --> 00:56:16,616
+depois a gente personaliza todos os componentes do ChatCN para ficarem iguais os componentes que a
+
+1186
+00:56:16,616 --> 00:56:22,396
+gente quer no nosso estilo. Então o nosso Design System hoje ele é um conjunto de ChatCN com
+
+1187
+00:56:22,396 --> 00:56:27,836
+Storybook. Todos os nossos produtos a gente roda isso e dá um banho visual neles e não só visual,
+
+1188
+00:56:27,836 --> 00:56:29,816
+de um banho também de experiência,
+
+1189
+00:56:30,116 --> 00:56:32,116
+porque a gente tem o nosso design system pronto
+
+1190
+00:56:32,116 --> 00:56:33,856
+e todo mundo dentro da nossa empresa
+
+1191
+00:56:33,856 --> 00:56:36,176
+consegue instalar esse design system e falar,
+
+1192
+00:56:36,296 --> 00:56:38,396
+Clodi, eu quero que você deixe agora a plataforma
+
+1193
+00:56:38,916 --> 00:56:40,896
+com todos os componentes do design system,
+
+1194
+00:56:40,976 --> 00:56:43,176
+substitua, troque, e ele troca para a gente.
+
+1195
+00:56:45,020 --> 00:56:48,540
+Voltando para cá, então, olha, o nosso login agora não está funcionando.
+
+1196
+00:56:48,720 --> 00:56:51,180
+Vamos ver o que está acontecendo aqui lá no outro projeto.
+
+1197
+00:56:51,380 --> 00:56:52,720
+Vou fechar esse aqui agora, tá?
+
+1198
+00:56:52,800 --> 00:56:54,740
+Então, vou dar um Ctrl C para finalizar aqui,
+
+1199
+00:56:55,120 --> 00:56:57,800
+dar um Ctrl C para finalizar aqui e vou fechar esse.
+
+1200
+00:56:57,940 --> 00:56:59,160
+Isso ali era só para exemplificar.
+
+1201
+00:56:59,680 --> 00:57:01,180
+Vamos voltar para o Project Alpha.
+
+1202
+00:57:01,300 --> 00:57:03,280
+Olha só, ele está falando aqui que já terminou.
+
+1203
+00:57:04,200 --> 00:57:08,200
+Então, agora é preciso que você adicione as variáveis de ambiente.
+
+1204
+00:57:08,540 --> 00:57:10,000
+Então, isso aqui tem que prestar atenção.
+
+1205
+00:57:10,200 --> 00:57:12,280
+É onde a galera mais se perde, tá?
+
+1206
+00:57:12,280 --> 00:57:14,160
+tá? Ó, a build passou
+
+1207
+00:57:14,160 --> 00:57:16,100
+limpa, agora a gente tem que conectar pra ele
+
+1208
+00:57:16,100 --> 00:57:18,000
+aqui a Next Public
+
+1209
+00:57:18,840 --> 00:57:20,120
+Supabase, olha, ele já até deixou aqui
+
+1210
+00:57:20,120 --> 00:57:22,020
+pra gente, ó, tudo que ele precisa
+
+1211
+00:57:22,020 --> 00:57:24,100
+que a gente conecte. Eu acho
+
+1212
+00:57:24,100 --> 00:57:25,720
+que ele já conectou algumas,
+
+1213
+00:57:25,980 --> 00:57:28,500
+deixa eu ver as chaves necessárias.
+
+1214
+00:57:28,620 --> 00:57:29,580
+Eu acho que, na verdade,
+
+1215
+00:57:31,868 --> 00:57:35,408
+Ele já está com as chaves aqui, ele só não trocou para cá.
+
+1216
+00:57:35,528 --> 00:57:37,468
+Deixa eu colar aqui para ver se está certinho.
+
+1217
+00:57:38,068 --> 00:57:40,528
+Está vendo que está zerado e aqui está com a chave?
+
+1218
+00:57:41,268 --> 00:57:43,088
+Adicione essas duas linhas no seu Envy Local.
+
+1219
+00:57:43,268 --> 00:57:45,248
+Eu tenho que adicionar nesse, não no exemplo, tá?
+
+1220
+00:57:45,708 --> 00:57:48,768
+Só que eu estou deixando aqui para facilitar para mim, eu já vou fazer essa adição.
+
+1221
+00:57:49,568 --> 00:57:52,048
+Depois disso, ele deu o resumo aqui de tudo que a gente tem.
+
+1222
+00:57:52,808 --> 00:57:55,608
+Eu só estou achando estranho que não está pedindo a senha aqui.
+
+1223
+00:57:56,048 --> 00:57:57,548
+Vamos ver se vai dar certo, né?
+
+1224
+00:57:57,888 --> 00:57:59,828
+Eu vou copiar a linha que ele me deu aqui.
+
+1225
+00:58:03,068 --> 00:58:04,508
+E vou colar aqui no Invilocal.
+
+1226
+00:58:04,588 --> 00:58:07,528
+Só que vocês não vão ver, porque eu não vou mostrar todas as chaves aqui.
+
+1227
+00:58:08,268 --> 00:58:09,348
+Então, puxa para cá.
+
+1228
+00:58:11,036 --> 00:58:13,676
+Colei as duas aqui dentro agora.
+
+1229
+00:58:14,016 --> 00:58:15,336
+Dou uma salva.
+
+1230
+00:58:16,796 --> 00:58:18,696
+Agora ele já voltou, tá vendo? Automaticamente
+
+1231
+00:58:18,696 --> 00:58:20,496
+assim que eu colei ele voltou. Deixa eu fechar o
+
+1232
+00:58:20,496 --> 00:58:22,296
+env local. Prontinho.
+
+1233
+00:58:22,696 --> 00:58:24,516
+Tá aqui. Eu já posso fechar essas
+
+1234
+00:58:24,516 --> 00:58:26,596
+duas aqui também. Isso aqui não fica aqui
+
+1235
+00:58:26,596 --> 00:58:27,896
+porque esse é o env example.
+
+1236
+00:58:28,536 --> 00:58:29,756
+Salvo o exemplo e pronto.
+
+1237
+00:58:30,456 --> 00:58:32,416
+Conseguimos voltar pra cá agora. Vou dar uma
+
+1238
+00:58:32,416 --> 00:58:34,356
+atualizada. Parece que tá tudo funcionando.
+
+1239
+00:58:34,456 --> 00:58:35,936
+Vamos ver se ele colocou o criar conta.
+
+1240
+00:58:38,396 --> 00:58:39,476
+Crie sua conta para começar.
+
+1241
+00:58:39,696 --> 00:58:40,916
+Então vamos ver se vai funcionar.
+
+1242
+00:58:40,936 --> 00:58:41,856
+Vou criar minha conta aqui.
+
+1243
+00:58:41,916 --> 00:58:45,596
+Vou usar esse e-mail, oancebras.gmail, que é o que eu tinha usado.
+
+1244
+00:58:45,616 --> 00:58:46,676
+Vou criar uma senha aqui.
+
+1245
+00:58:51,676 --> 00:58:52,196
+Criar a conta.
+
+1246
+00:58:52,736 --> 00:58:54,956
+Aí deu aqui, inválido de API Key.
+
+1247
+00:58:55,056 --> 00:58:56,076
+Está faltando a senha.
+
+1248
+00:58:56,116 --> 00:58:56,776
+O que eu vou fazer?
+
+1249
+00:58:56,876 --> 00:58:57,936
+Vou tirar um print disso.
+
+1250
+00:58:59,740 --> 00:59:00,820
+E vou jogar lá para ele.
+
+1251
+00:59:00,880 --> 00:59:03,640
+Vou falar, olha, puxa para cá.
+
+1252
+00:59:06,556 --> 00:59:11,976
+Já conectei as chaves que me pediu, mas quando fui criar a conta,
+
+1253
+00:59:13,628 --> 00:59:14,548
+apareceu isto.
+
+1254
+00:59:15,048 --> 00:59:17,608
+E aí eu colo o print aqui para ele saber o que é.
+
+1255
+00:59:18,088 --> 00:59:19,488
+Deixa ele ver funcionando.
+
+1256
+00:59:20,088 --> 00:59:21,168
+Legal que está escrito aqui,
+
+1257
+00:59:21,228 --> 00:59:23,188
+Integrate SuperBase Alpha Storage.
+
+1258
+00:59:23,788 --> 00:59:26,608
+Ele está usando o agente de integração,
+
+1259
+00:59:26,688 --> 00:59:27,628
+por isso que ficou desse jeito.
+
+1260
+00:59:28,168 --> 00:59:29,748
+Ele vai verificar o Envy Local.
+
+1261
+00:59:32,060 --> 00:59:35,500
+O problema está claro, há espaços extras e quebras de linha na Enum Key.
+
+1262
+00:59:35,580 --> 00:59:38,640
+Deixa eu corrigir isso aqui então, vamos ver se ele vai corrigir, confirmado.
+
+1263
+00:59:40,284 --> 00:59:42,064
+Anok tem espaço, no início e no meio,
+
+1264
+00:59:42,104 --> 00:59:43,644
+quebrou em múltiplas linhas ao colar.
+
+1265
+00:59:43,864 --> 00:59:45,664
+Vou ler o arquivo inteiro para corrigir.
+
+1266
+00:59:45,944 --> 00:59:47,724
+Ele mesmo está corrigindo. Sabe o que é legal?
+
+1267
+00:59:47,904 --> 00:59:48,784
+Isso não podia, tá?
+
+1268
+00:59:49,504 --> 00:59:52,244
+A IA está acessando o Envy Local, não era para ela acessar.
+
+1269
+00:59:52,284 --> 00:59:54,004
+Mas tudo bem. Aqui a gente
+
+1270
+00:59:54,004 --> 00:59:56,104
+segue. Ele pediu para eu reiniciar também.
+
+1271
+00:59:56,404 --> 00:59:57,544
+Então, vou vir aqui
+
+1272
+00:59:57,544 --> 01:00:00,084
+no nosso, onde está rodando
+
+1273
+01:00:00,084 --> 01:00:02,024
+o projeto, dou um Ctrl C para ele finalizar.
+
+1274
+01:00:02,584 --> 01:00:03,804
+Dei um Ctrl C, vou dar um
+
+1275
+01:00:03,804 --> 01:00:06,344
+npm run dev de novo, para ele reiniciar.
+
+1276
+01:00:06,884 --> 01:00:08,004
+Volto para o projeto aqui.
+
+1277
+01:00:08,384 --> 01:00:10,024
+Vamos ver se ele vai carregar certinho.
+
+1278
+01:00:10,024 --> 01:00:11,844
+isso vai dar um erro, deu esse erro aqui
+
+1279
+01:00:11,844 --> 01:00:13,884
+o que eu vou fazer agora? Vou printar
+
+1280
+01:00:13,884 --> 01:00:15,764
+isso aqui e vou mandar lá no meu agente
+
+1281
+01:00:15,764 --> 01:00:18,024
+tô explicando pra ele, ó, que ele fez cagada
+
+1282
+01:00:19,004 --> 01:00:19,724
+você fez
+
+1283
+01:00:20,284 --> 01:00:20,644
+caquita
+
+1284
+01:00:21,852 --> 01:00:24,492
+E vou mandar aqui para ele, deixa ele resolver.
+
+1285
+01:00:26,748 --> 01:00:27,808
+Ele abriu no 3001.
+
+1286
+01:00:29,692 --> 01:00:32,852
+O cache do dev server ainda referencia a middleware, vou limpar o cache.
+
+1287
+01:00:33,232 --> 01:00:37,392
+Ele está achando que é cache, mas aqui abriu no 3000,
+
+1288
+01:00:38,012 --> 01:00:39,592
+e aqui está no 3000.
+
+1289
+01:00:39,932 --> 01:00:41,192
+Vamos deixar ele carregar ali agora.
+
+1290
+01:00:42,940 --> 01:00:45,200
+Está rodando seguindo os arquivos, para o servidor primeiro,
+
+1291
+01:00:46,060 --> 01:00:47,900
+para o servidor e depois roda isso aqui.
+
+1292
+01:00:50,140 --> 01:00:51,520
+Isso, eu limpo o cache e reiniciei.
+
+1293
+01:00:51,560 --> 01:00:53,080
+Eu acho que nem vai precisar, mas eu vou fazer o quê?
+
+1294
+01:00:53,160 --> 01:00:54,240
+Eu vou cancelar aqui.
+
+1295
+01:00:55,460 --> 01:00:55,740
+Cancelei.
+
+1296
+01:00:56,360 --> 01:00:57,300
+Fecha, vou abrir um novo.
+
+1297
+01:00:59,484 --> 01:01:00,564
+NPM run dev.
+
+1298
+01:01:00,804 --> 01:01:02,064
+Deixa ele abrir aqui para a gente.
+
+1299
+01:01:02,084 --> 01:01:03,364
+Agora ele abriu em 3001.
+
+1300
+01:01:06,428 --> 01:01:07,028
+Abriu o projeto.
+
+1301
+01:01:07,268 --> 01:01:08,688
+Vamos ver se eu consigo criar a conta agora.
+
+1302
+01:01:10,652 --> 01:01:11,612
+Diz ele que corrigiu.
+
+1303
+01:01:11,652 --> 01:01:12,732
+Vou criar uma outra senha aqui.
+
+1304
+01:01:16,668 --> 01:01:17,988
+Beleza? E...
+
+1305
+01:01:19,932 --> 01:01:21,972
+Conta criada. Mandou o e-mail para mim agora.
+
+1306
+01:01:22,572 --> 01:01:24,332
+Deixa eu ver se eu recebi o e-mail certinho.
+
+1307
+01:01:24,332 --> 01:01:26,132
+Vou até mostrar para vocês aqui. Vamos ver juntos.
+
+1308
+01:01:28,188 --> 01:01:29,588
+Depois dá para personalizar o e-mail.
+
+1309
+01:01:29,728 --> 01:01:31,568
+Chegou o e-mail certinho, beleza?
+
+1310
+01:01:32,108 --> 01:01:32,748
+Confirmar o e-mail.
+
+1311
+01:01:33,848 --> 01:01:35,508
+Prontinho, agora vamos ver se a gente consegue logar.
+
+1312
+01:01:36,008 --> 01:01:36,328
+Juan.
+
+1313
+01:01:38,268 --> 01:01:38,988
+Coloco a senha.
+
+1314
+01:01:40,828 --> 01:01:42,348
+Entrou. Está funcionando.
+
+1315
+01:01:42,348 --> 01:01:43,768
+Agora a gente tem autenticação.
+
+1316
+01:01:44,028 --> 01:01:46,308
+Se eu venho aqui no Supabase,
+
+1317
+01:01:46,428 --> 01:01:47,588
+vocês vão ver que agora,
+
+1318
+01:01:48,468 --> 01:01:50,568
+dentro do projeto, eu tenho algumas tabelas.
+
+1319
+01:01:51,028 --> 01:01:52,488
+Deixa eu ver se aqui...
+
+1320
+01:01:54,588 --> 01:01:56,708
+Generations, ele criou só essa tabelinha aqui,
+
+1321
+01:01:56,788 --> 01:02:01,468
+que é a tabela de gerações que ele fez aqui.
+
+1322
+01:02:01,668 --> 01:02:04,988
+Eu acho que a de autenticação está em authentication, né?
+
+1323
+01:02:05,048 --> 01:02:05,508
+Faz sentido.
+
+1324
+01:02:06,008 --> 01:02:07,908
+Então, aqui eu tenho o usuário, está vendo?
+
+1325
+01:02:08,188 --> 01:02:09,868
+Aqui que ele guarda a senha também,
+
+1326
+01:02:09,908 --> 01:02:12,088
+mas a senha está criptografada, não dá para ver.
+
+1327
+01:02:12,848 --> 01:02:14,868
+Então, eu tenho a senha do usuário aqui,
+
+1328
+01:02:14,988 --> 01:02:17,608
+tenho a tabela também de gerações.
+
+1329
+01:02:17,908 --> 01:02:18,908
+Vamos fazer um teste?
+
+1330
+01:02:18,928 --> 01:02:20,288
+Essa tabela está vazia.
+
+1331
+01:02:20,328 --> 01:02:21,248
+Vamos fazer um teste agora.
+
+1332
+01:02:21,528 --> 01:02:23,468
+Vou fazer uma primeira geração aqui,
+
+1333
+01:02:23,508 --> 01:02:24,388
+vamos ver se vai funcionar.
+
+1334
+01:02:24,588 --> 01:02:24,648
+A CIDADE NO BRASIL
+
+1335
+01:02:26,364 --> 01:02:32,484
+Vou colocar aqui agora um chimpanzé astronauta.
+
+1336
+01:02:32,984 --> 01:02:35,184
+Eu estou muito vibe espaço, né?
+
+1337
+01:02:35,284 --> 01:02:37,044
+Vamos ver se vai funcionar aqui o nosso gerador
+
+1338
+01:02:37,044 --> 01:02:39,464
+e se ele vai funcionar o histórico e a galeria
+
+1339
+01:02:39,464 --> 01:02:43,244
+para a gente agora só subir o projeto e dar um OK.
+
+1340
+01:02:43,464 --> 01:02:44,644
+Deixa ele carregar aqui.
+
+1341
+01:02:48,572 --> 01:02:49,972
+Leva um tempinho, né? Pensa em todo
+
+1342
+01:02:49,972 --> 01:02:51,672
+o caminho que ele faz. Pega a API, manda pra
+
+1343
+01:02:51,672 --> 01:02:53,752
+PNI, pra Anthropic, volta pra cá
+
+1344
+01:02:53,752 --> 01:02:55,052
+com o prompt melhorado, manda pro
+
+1345
+01:02:56,352 --> 01:02:57,552
+Sidrim, gera a imagem,
+
+1346
+01:02:57,732 --> 01:02:59,192
+Sidrim devolve a imagem pra cá.
+
+1347
+01:02:59,632 --> 01:03:01,992
+Leva um tempinho pra fazer, mas ele tá fazendo.
+
+1348
+01:03:02,192 --> 01:03:03,792
+Com isso aqui, vocês sabiam que vocês podem
+
+1349
+01:03:03,792 --> 01:03:05,852
+criar o free pick de vocês, vocês podem criar
+
+1350
+01:03:05,852 --> 01:03:07,412
+a ferramenta de vocês. Ó, deu erro,
+
+1351
+01:03:08,092 --> 01:03:09,752
+provavelmente o erro tá no storage,
+
+1352
+01:03:09,932 --> 01:03:11,812
+tá? Então eu vou agora printar,
+
+1353
+01:03:11,832 --> 01:03:13,512
+porque vocês lembram que localmente funcionou?
+
+1354
+01:03:13,632 --> 01:03:15,932
+Vou trazer pra ele aqui, ó. É assim que a gente vai fazendo.
+
+1355
+01:03:16,632 --> 01:03:17,752
+Venho aqui, dou um
+
+1356
+01:03:17,752 --> 01:03:19,952
+clear agora, posso recomeçar o projeto.
+
+1357
+01:03:20,232 --> 01:03:21,692
+Deixa eu ver se Node tem dois
+
+1358
+01:03:21,692 --> 01:03:23,752
+aqui abertos. Ah, era aqui que eu tinha que
+
+1359
+01:03:23,752 --> 01:03:25,832
+dar clear. Vou dar um clear aqui também
+
+1360
+01:03:25,832 --> 01:03:27,652
+e vou falar pra ele o seguinte, olha.
+
+1361
+01:03:27,992 --> 01:03:29,472
+Alt V pra colar o print.
+
+1362
+01:03:32,380 --> 01:03:36,060
+Parece que temos algum problema no storage.
+
+1363
+01:03:38,012 --> 01:03:41,892
+Porque antes, local, a imagem aparecia.
+
+1364
+01:03:42,132 --> 01:03:44,152
+Agora, ela não aparece.
+
+1365
+01:03:44,552 --> 01:03:46,292
+Então, só estou falando para ele resolver o problema.
+
+1366
+01:03:46,612 --> 01:03:48,612
+Ele até colocou aqui, baixar a imagem,
+
+1367
+01:03:48,792 --> 01:03:50,592
+regenerar a imagem e favoritar, né?
+
+1368
+01:03:50,632 --> 01:03:51,432
+Super prestativo.
+
+1369
+01:03:51,932 --> 01:03:53,572
+Nem tinha pedido para ele fazer isso.
+
+1370
+01:03:53,852 --> 01:03:55,712
+A parte da Antropo que funcionou, está vendo?
+
+1371
+01:03:55,892 --> 01:03:58,732
+O que provavelmente falhou foi na hora de salvar essa imagem
+
+1372
+01:03:58,732 --> 01:04:00,672
+no nosso storage do Supabase.
+
+1373
+01:04:01,112 --> 01:04:02,512
+Provavelmente, ela foi gerada.
+
+1374
+01:04:02,552 --> 01:04:03,512
+Vamos ver se ela foi gerada?
+
+1375
+01:04:04,012 --> 01:04:05,172
+Deixa eu ver se ele vai...
+
+1376
+01:04:05,172 --> 01:04:06,272
+Ah, não mostra aqui quando é API.
+
+1377
+01:04:06,272 --> 01:04:08,172
+API. Provavelmente ela foi gerada,
+
+1378
+01:04:08,812 --> 01:04:10,312
+mas ela não foi carregada
+
+1379
+01:04:10,312 --> 01:04:12,312
+lá no storage. Então ele está corrigindo
+
+1380
+01:04:12,312 --> 01:04:14,072
+aqui para a gente o storage agora.
+
+1381
+01:04:14,892 --> 01:04:15,292
+Beleza?
+
+1382
+01:04:15,672 --> 01:04:16,792
+Por que da clear?
+
+1383
+01:04:17,612 --> 01:04:19,752
+Salles, a gente falou muito disso ontem, tá?
+
+1384
+01:04:19,852 --> 01:04:22,112
+Mas o clear reseta a janela de contexto
+
+1385
+01:04:22,112 --> 01:04:23,332
+da IA, tá bom?
+
+1386
+01:04:23,652 --> 01:04:25,912
+Não é bom ficar sempre na mesma conversa ali, não.
+
+1387
+01:04:25,972 --> 01:04:28,212
+Parece que ele corrigiu, por algum motivo ele deixou tudo em inglês.
+
+1388
+01:04:28,352 --> 01:04:29,192
+Ah, um detalhe, galera.
+
+1389
+01:04:29,672 --> 01:04:31,852
+Vai trabalhar banco de dados, autenticação?
+
+1390
+01:04:32,732 --> 01:04:33,372
+Geralmente não.
+
+1391
+01:04:33,652 --> 01:04:36,152
+O recomendado é trabalhar em inglês.
+
+1392
+01:04:36,632 --> 01:04:38,712
+Isso ajuda vocês a terem menos erros.
+
+1393
+01:04:38,712 --> 01:04:41,232
+Dá para trabalhar em português também, dá para fazer certinho,
+
+1394
+01:04:41,272 --> 01:04:43,032
+mas isso aumenta a complexidade.
+
+1395
+01:04:43,232 --> 01:04:44,852
+Então, banco de dados, trabalho em inglês.
+
+1396
+01:04:44,892 --> 01:04:47,312
+É até curioso que quando eu comecei a trabalhar banco de dados,
+
+1397
+01:04:47,432 --> 01:04:50,132
+ele começou a me responder tudo em inglês, curiosamente.
+
+1398
+01:04:50,552 --> 01:04:52,092
+Vamos ver se agora vai funcionar?
+
+1399
+01:04:53,692 --> 01:04:55,432
+Talvez eu vou ter que gerar a imagem de novo, né?
+
+1400
+01:04:56,700 --> 01:05:00,040
+Até ficou aqui o histórico, olha, o histórico tá funcionando, mas perdeu, né?
+
+1401
+01:05:00,080 --> 01:05:00,700
+Perdeu no caminho.
+
+1402
+01:05:00,740 --> 01:05:05,860
+Vamos fazer de novo agora uma girafa-banana.
+
+1403
+01:05:08,764 --> 01:05:10,524
+Aí vai a mente. O histórico fica todo aqui,
+
+1404
+01:05:10,624 --> 01:05:12,564
+legal pra caramba. Ele fez um histórico meio
+
+1405
+01:05:12,564 --> 01:05:14,764
+mid-journey, época de Discord, quem lembra disso?
+
+1406
+01:05:15,064 --> 01:05:16,344
+Ficava tudo na mesma linha.
+
+1407
+01:05:20,284 --> 01:05:21,904
+É melhor direcionar toda a conversa em inglês?
+
+1408
+01:05:21,904 --> 01:05:23,564
+Se você sabe inglês, sim, é bom.
+
+1409
+01:05:23,624 --> 01:05:27,684
+Se você não sabe, você pode falar em português, se tem problema.
+
+1410
+01:05:30,236 --> 01:05:33,496
+Está gerando aqui, vamos ver se agora vai funcionar, se ele resolveu o problema para a gente.
+
+1411
+01:05:35,132 --> 01:05:36,072
+Ainda está com problema.
+
+1412
+01:05:36,472 --> 01:05:37,332
+Poxa vida, hein?
+
+1413
+01:05:37,652 --> 01:05:39,072
+O que eu posso fazer também?
+
+1414
+01:05:39,272 --> 01:05:41,352
+Eu posso dar aqui um F12
+
+1415
+01:05:41,352 --> 01:05:43,472
+e ver se a gente está com algum problema aqui.
+
+1416
+01:05:43,912 --> 01:05:44,772
+Problema no console.
+
+1417
+01:05:45,512 --> 01:05:46,652
+Para carregar a imagem.
+
+1418
+01:05:46,832 --> 01:05:48,172
+Eu vou printar aqui o console.
+
+1419
+01:05:48,412 --> 01:05:50,312
+Então eu dei F12 e fui em console.
+
+1420
+01:05:50,772 --> 01:05:52,512
+E vou mandar para a IA agora.
+
+1421
+01:05:52,732 --> 01:05:54,712
+Eu vou falar com ela que continua tendo problema.
+
+1422
+01:05:56,192 --> 01:05:57,072
+Continuamos tendo...
+
+1423
+01:05:58,716 --> 01:05:59,336
+Problema.
+
+1424
+01:06:00,412 --> 01:06:06,072
+Olha o que apareceu no console quando tentei gerar a imagem.
+
+1425
+01:06:06,452 --> 01:06:10,512
+Aí eu dou um Alt V aqui do console e eu vou dar também um print para ele
+
+1426
+01:06:11,072 --> 01:06:12,292
+que deu errado, né?
+
+1427
+01:06:12,372 --> 01:06:15,492
+Vamos dar esse print aqui, que deu errado, para ele ver que não funcionou.
+
+1428
+01:06:15,612 --> 01:06:18,592
+Então, colo as duas aqui, vamos ver se ele vai corrigir agora.
+
+1429
+01:06:21,564 --> 01:06:22,824
+Tomara que ele corrija a tempo, né?
+
+1430
+01:06:22,864 --> 01:06:25,584
+Que eu quero agora publicar aqui o projeto junto com vocês.
+
+1431
+01:06:25,824 --> 01:06:26,664
+Vamos fazer o seguinte?
+
+1432
+01:06:27,044 --> 01:06:28,284
+Enquanto ele está fazendo isso aí,
+
+1433
+01:06:28,444 --> 01:06:30,724
+eu vou abrir aqui no Antigravity o Brand System
+
+1434
+01:06:30,724 --> 01:06:33,004
+e a gente vai publicar o Brand System juntos, tá?
+
+1435
+01:06:33,124 --> 01:06:34,344
+O que a gente fez aqui, ó.
+
+1436
+01:06:34,444 --> 01:06:34,924
+Então vamos lá.
+
+1437
+01:06:35,224 --> 01:06:36,684
+Vou pegar ele aqui na área de trabalho,
+
+1438
+01:06:36,704 --> 01:06:38,924
+ele está em Atlas 2, Brand System, Overlens.
+
+1439
+01:06:39,164 --> 01:06:40,204
+Vou abrir o projeto.
+
+1440
+01:06:40,444 --> 01:06:43,224
+E agora a gente vai trabalhar na Vercel para publicar.
+
+1441
+01:06:43,264 --> 01:06:44,944
+Na Vercel você consegue publicar de graça.
+
+1442
+01:06:45,104 --> 01:06:49,104
+Não usa HostGator, não usa esses servidores assim, não.
+
+1443
+01:06:49,164 --> 01:06:50,184
+A gente vai usar a Vercel,
+
+1444
+01:06:50,184 --> 01:06:52,264
+que aí vocês vão estar trabalhando com um sistema
+
+1445
+01:06:52,264 --> 01:06:54,404
+bom de verdade, que ó, sacanagem
+
+1446
+01:06:54,404 --> 01:06:56,084
+né, falando que HostGator não é bom, mas enfim
+
+1447
+01:06:56,424 --> 01:06:57,604
+vamos usar HostGator
+
+1448
+01:06:59,388 --> 01:07:01,228
+Tem Hostinger também, né, que é aqui do Brasil.
+
+1449
+01:07:01,348 --> 01:07:01,648
+Mas, enfim.
+
+1450
+01:07:02,028 --> 01:07:04,428
+Eu vou abrir o terminal aqui e eu vou falar o seguinte.
+
+1451
+01:07:04,628 --> 01:07:05,208
+Abre o Cloud.
+
+1452
+01:07:06,508 --> 01:07:07,928
+Dangerously Skip Permissions.
+
+1453
+01:07:08,148 --> 01:07:09,748
+Tem dois jeitos de trabalhar com ele aqui.
+
+1454
+01:07:09,828 --> 01:07:11,808
+Você pode trabalhar com a MCP da Vercel.
+
+1455
+01:07:11,928 --> 01:07:13,188
+Então, você vai vir aqui no seu Cloud.
+
+1456
+01:07:14,368 --> 01:07:15,728
+Abre o Cloud aqui de novo, ó.
+
+1457
+01:07:15,968 --> 01:07:17,208
+E faz a mesma coisa, ó.
+
+1458
+01:07:17,248 --> 01:07:18,048
+Vem aqui no mais.
+
+1459
+01:07:19,420 --> 01:07:21,040
+navegar, conectar a Vercel,
+
+1460
+01:07:21,820 --> 01:07:23,420
+aí você vai clicar para conectar ela,
+
+1461
+01:07:23,620 --> 01:07:25,840
+vou desvincular só para vincular de novo,
+
+1462
+01:07:25,880 --> 01:07:26,500
+para vocês verem,
+
+1463
+01:07:26,540 --> 01:07:27,720
+vincular a Vercel,
+
+1464
+01:07:28,540 --> 01:07:30,220
+e aí você precisa criar uma conta aqui,
+
+1465
+01:07:30,300 --> 01:07:31,700
+o meu já foi direto,
+
+1466
+01:07:31,700 --> 01:07:32,780
+porque eu já estou logado,
+
+1467
+01:07:32,840 --> 01:07:33,060
+quer ver?
+
+1468
+01:07:34,280 --> 01:07:35,160
+Vercel.com
+
+1469
+01:07:36,316 --> 01:07:39,196
+Já estou na minha conta, já tem alguns projetinhos aqui, está vendo?
+
+1470
+01:07:39,976 --> 01:07:41,216
+Então, já está logado.
+
+1471
+01:07:41,356 --> 01:07:44,376
+Para vocês, vocês vão fazer assim, digita vercel.com.
+
+1472
+01:07:45,628 --> 01:07:47,128
+Vocês vão cair nessa página linda aqui.
+
+1473
+01:07:47,488 --> 01:07:49,688
+Você vai clicar em Sign Up.
+
+1474
+01:07:49,868 --> 01:07:51,428
+Vai criar sua conta aqui.
+
+1475
+01:07:51,548 --> 01:07:54,608
+Você pode deixar aqui em Personal Project mesmo.
+
+1476
+01:07:54,968 --> 01:07:57,608
+Coloca o seu nome aqui, continua o projeto.
+
+1477
+01:07:58,128 --> 01:08:01,148
+Pode logar com GitHub ou com Google, o que você achar melhor, beleza?
+
+1478
+01:08:01,388 --> 01:08:03,048
+Faz o login, você vai cair nessa tela aqui.
+
+1479
+01:08:03,328 --> 01:08:05,248
+Não precisa adicionar nenhum projeto ainda.
+
+1480
+01:08:05,348 --> 01:08:08,328
+Deixa nessa tela, vem aqui no Cloud, conecta o MCP.
+
+1481
+01:08:08,908 --> 01:08:09,568
+Autoriza ele.
+
+1482
+01:08:11,420 --> 01:08:13,720
+E pronto, fez o login na Vercel, tá?
+
+1483
+01:08:14,000 --> 01:08:17,140
+Isso é o que a gente vai usar aqui para poder publicar o nosso site.
+
+1484
+01:08:17,560 --> 01:08:18,840
+Então, agora ele abriu o Cloud,
+
+1485
+01:08:19,020 --> 01:08:21,720
+ele falou aqui que a autorização falhou,
+
+1486
+01:08:21,720 --> 01:08:22,800
+checaram as credenciais.
+
+1487
+01:08:22,820 --> 01:08:23,960
+Vou tentar fazer de novo aqui.
+
+1488
+01:08:24,560 --> 01:08:26,660
+Olha, ele até desconectou a Vercel, vamos ver, ó.
+
+1489
+01:08:27,500 --> 01:08:29,320
+Vincular, às vezes passou o tempo também,
+
+1490
+01:08:29,520 --> 01:08:30,720
+vários pontos aqui.
+
+1491
+01:08:31,920 --> 01:08:34,040
+Tá certo, vamos ver.
+
+1492
+01:08:35,228 --> 01:08:36,488
+Se falhar, eu faço numa outra conta.
+
+1493
+01:08:40,380 --> 01:08:42,860
+Agora conectou, beleza? Então está conectado
+
+1494
+01:08:42,860 --> 01:08:44,680
+aqui, o que eu vou fazer? Eu vou vir aqui
+
+1495
+01:08:44,680 --> 01:08:46,880
+em projetos, você pode tanto criar o projeto
+
+1496
+01:08:46,880 --> 01:08:48,700
+se quiser, aí vai ter
+
+1497
+01:08:48,700 --> 01:08:50,820
+todo o processo manual, ou você pode pedir
+
+1498
+01:08:50,820 --> 01:08:52,580
+para o Cloud. A gente vai pedir para o Cloud aqui
+
+1499
+01:08:52,580 --> 01:08:54,720
+porque a gente é folgado. Então olha só, eu já estou
+
+1500
+01:08:54,720 --> 01:08:56,820
+com o Brand System aqui, o que eu vou
+
+1501
+01:08:56,820 --> 01:08:58,500
+fazer com ele é o seguinte, vamos
+
+1502
+01:08:58,500 --> 01:09:00,800
+agora publicar o nosso projeto
+
+1503
+01:09:02,480 --> 01:09:02,880
+utilizando
+
+1504
+01:09:02,880 --> 01:09:04,300
+a Vercel.
+
+1505
+01:09:05,820 --> 01:09:06,620
+Precisamos criar
+
+1506
+01:09:06,620 --> 01:09:08,160
+um projeto chamado
+
+1507
+01:09:08,160 --> 01:09:12,220
+Chamado, vou chamar ele aqui de B, Brand System.
+
+1508
+01:09:12,520 --> 01:09:13,980
+Vou chamar ele de Brand System.
+
+1509
+01:09:16,476 --> 01:09:19,596
+Crie o projeto e faça o deploy.
+
+1510
+01:09:19,836 --> 01:09:22,736
+A gente chama de deploy, mas é o termo técnico,
+
+1511
+01:09:22,776 --> 01:09:23,936
+mas você pode até falar assim, ó,
+
+1512
+01:09:23,956 --> 01:09:26,636
+crie o projeto e publique ele para mim.
+
+1513
+01:09:27,436 --> 01:09:29,596
+Também vai funcionar, vou deixar aqui para vocês verem que funciona.
+
+1514
+01:09:30,908 --> 01:09:32,308
+Isso aqui a gente não está usando GitHub
+
+1515
+01:09:32,308 --> 01:09:34,468
+nem nada disso, a gente já vai postar
+
+1516
+01:09:34,468 --> 01:09:36,448
+direto na Vercel. Aqui ele está falando
+
+1517
+01:09:36,448 --> 01:09:38,268
+que vai instalar primeiro o Vercel CLI,
+
+1518
+01:09:38,308 --> 01:09:39,468
+é normal, deixa ele instalar.
+
+1519
+01:09:40,268 --> 01:09:42,208
+Vai instalar aqui no projeto para a gente.
+
+1520
+01:09:42,268 --> 01:09:44,788
+E ele mesmo vai publicar. Em menos de 10 minutos
+
+1521
+01:09:44,788 --> 01:09:46,708
+vocês vão ver, o site já vai estar publicado
+
+1522
+01:09:46,708 --> 01:09:48,388
+aqui e eu vou passar o link
+
+1523
+01:09:48,388 --> 01:09:50,068
+para vocês acessarem esse Brand System
+
+1524
+01:09:50,068 --> 01:09:51,488
+que a gente acabou de construir, né?
+
+1525
+01:09:51,808 --> 01:09:54,168
+Só para lembrar vocês qual que é. É esse aqui, ó.
+
+1526
+01:09:54,308 --> 01:09:55,288
+Em Pamerun Dev.
+
+1527
+01:09:56,956 --> 01:09:57,816
+Deixa ele carregar aqui.
+
+1528
+01:09:59,260 --> 01:10:01,320
+A gente vai publicar... Ah, cara!
+
+1529
+01:10:01,720 --> 01:10:03,540
+Ah, não, é porque nessa página eu não mexi, né?
+
+1530
+01:10:03,720 --> 01:10:05,180
+Lembrei agora, eu mexi e foi nas outras.
+
+1531
+01:10:05,300 --> 01:10:07,240
+Deixa eu ver. Aí, aqui já está certinho.
+
+1532
+01:10:07,300 --> 01:10:09,320
+Eu esqueci de mexer na página principal,
+
+1533
+01:10:09,420 --> 01:10:11,280
+ficou tudo azul e está sem clique ainda.
+
+1534
+01:10:11,960 --> 01:10:13,560
+Se vocês já aprenderam como editar,
+
+1535
+01:10:13,560 --> 01:10:15,460
+eu não vou mostrar aqui, mas daria para fazer
+
+1536
+01:10:15,460 --> 01:10:17,080
+várias edições nessa pagininha.
+
+1537
+01:10:17,500 --> 01:10:18,440
+Deixa ele só...
+
+1538
+01:10:19,836 --> 01:10:21,836
+terminar aqui o processo, volta pra cá,
+
+1539
+01:10:22,256 --> 01:10:23,656
+e a gente vai ter o projeto
+
+1540
+01:10:23,656 --> 01:10:25,616
+publicado na Vercel. De graça, tá?
+
+1541
+01:10:25,736 --> 01:10:27,676
+De graça. Principalmente pra sites simples.
+
+1542
+01:10:27,736 --> 01:10:29,576
+Quando você começa a ter um consumo maior,
+
+1543
+01:10:29,636 --> 01:10:30,516
+aí você pode assinar.
+
+1544
+01:10:31,996 --> 01:10:34,176
+Voltando para o outro lá, vamos ver, será que ele corrigiu?
+
+1545
+01:10:34,816 --> 01:10:35,496
+Falso positivo.
+
+1546
+01:10:36,976 --> 01:10:38,616
+Beleza, agora é restart, tá bom.
+
+1547
+01:10:38,736 --> 01:10:41,596
+Então vamos resetar aqui o projeto de novo,
+
+1548
+01:10:41,696 --> 01:10:46,076
+npm run dev, ele tem que rodar em 3001, rodou, vamos ver aqui.
+
+1549
+01:10:47,548 --> 01:10:49,508
+Tô abrindo vários, né? Estamos no projeto.
+
+1550
+01:10:49,888 --> 01:10:51,068
+Ah, agora apareceu a imagem.
+
+1551
+01:10:51,328 --> 01:10:53,208
+Nossa, nossa girafa banana ficou muito
+
+1552
+01:10:53,208 --> 01:10:55,328
+paia. E o macaco
+
+1553
+01:10:55,328 --> 01:10:57,208
+aqui também. Ou seja, o problema não era nem de
+
+1554
+01:10:57,208 --> 01:10:58,568
+salvar a imagem, ele tava salvando.
+
+1555
+01:10:58,748 --> 01:11:01,128
+Ele só não tava salvando no...
+
+1556
+01:11:01,688 --> 01:11:03,328
+Tava com algum erro de conexão com o storage.
+
+1557
+01:11:03,728 --> 01:11:05,388
+Agora tá funcionando aqui, vamos ver
+
+1558
+01:11:05,388 --> 01:11:07,368
+a galeria? Ele não... Ah, ele montou a galeria, ó.
+
+1559
+01:11:07,528 --> 01:11:08,348
+Olha aí, galera.
+
+1560
+01:11:09,188 --> 01:11:11,548
+Montou nossa galeria aqui, com os projetos
+
+1561
+01:11:11,548 --> 01:11:13,008
+que a gente vai criando nesse usuário.
+
+1562
+01:11:13,268 --> 01:11:14,368
+E tem o histórico.
+
+1563
+01:11:14,988 --> 01:11:17,148
+É até bom eu não subir esse projeto aqui,
+
+1564
+01:11:17,148 --> 01:11:18,948
+aqui, porque se eu subisse esse projeto, vocês
+
+1565
+01:11:18,948 --> 01:11:21,048
+poderiam criar a conta de vocês
+
+1566
+01:11:21,048 --> 01:11:22,328
+e começar a gerar imagem aqui.
+
+1567
+01:11:22,848 --> 01:11:24,848
+Então, hoje, vocês aprenderam
+
+1568
+01:11:24,848 --> 01:11:26,808
+a usar, essa marca
+
+1569
+01:11:26,808 --> 01:11:27,988
+d'água é do Seedens, tá?
+
+1570
+01:11:28,228 --> 01:11:29,928
+Essa marca d'água aqui é do Seedens.
+
+1571
+01:11:30,528 --> 01:11:32,988
+Mas vocês aprenderam, se vocês quiserem criar o próprio
+
+1572
+01:11:32,988 --> 01:11:34,688
+sistema de vocês de geração de imagem,
+
+1573
+01:11:34,888 --> 01:11:37,288
+pra criar um sistema de conteúdo pra um cliente
+
+1574
+01:11:37,288 --> 01:11:39,168
+ou coisa do tipo, já tá o passo a passo
+
+1575
+01:11:39,168 --> 01:11:40,588
+todo aqui de como fazer, né?
+
+1576
+01:11:40,968 --> 01:11:42,228
+Fala que foi bom ou não foi?
+
+1577
+01:11:42,388 --> 01:11:44,988
+Show! Bom demais, Claudio!
+
+1578
+01:11:44,988 --> 01:11:47,548
+A do macaco com roupa da NASA ficou bom.
+
+1579
+01:11:47,668 --> 01:11:48,988
+É, essa daqui ficou melhor, né?
+
+1580
+01:11:49,848 --> 01:11:52,488
+Mas tá com cara de, ah, dá pra melhorar esses promptos aí.
+
+1581
+01:11:53,188 --> 01:11:56,248
+Então, temos aqui nosso sisteminha funcionando, bem legal.
+
+1582
+01:11:56,468 --> 01:11:59,748
+Na vanguarda, a gente vai fazer muito mais avançando junto com vocês.
+
+1583
+01:12:00,528 --> 01:12:02,908
+Então, tem muito mais pra começar, vai ser só o começo.
+
+1584
+01:12:03,128 --> 01:12:06,328
+Só que eu quero dar um recado, vai dar 17h30 agora,
+
+1585
+01:12:06,468 --> 01:12:08,148
+pra quem não entrou na vanguarda.
+
+1586
+01:12:08,348 --> 01:12:10,748
+Deixa eu só ver agora a parte do site publicado.
+
+1587
+01:12:10,848 --> 01:12:13,528
+Aqui a gente já pode considerar, vocês consideram? Falem aí.
+
+1588
+01:12:13,528 --> 01:12:15,488
+aí, consideram entregues essa parte?
+
+1589
+01:12:16,288 --> 01:12:16,788
+Funcionou, né?
+
+1590
+01:12:17,428 --> 01:12:19,248
+Muito massa. Então a gente pode
+
+1591
+01:12:19,248 --> 01:12:20,028
+fechar isso aqui agora.
+
+1592
+01:12:21,820 --> 01:12:24,620
+E a galera aí, sim, sim, sim, entregado, bom demais.
+
+1593
+01:12:24,920 --> 01:12:25,360
+Então tá bom.
+
+1594
+01:12:25,580 --> 01:12:29,900
+Vou pegar aqui o projeto alpha agora, vou finalizar ele aqui, a porta dele, boa.
+
+1595
+01:12:30,380 --> 01:12:34,340
+Posso fechar ele aqui, porque eu vou criar um monorrepo pra vocês, né?
+
+1596
+01:12:34,660 --> 01:12:35,840
+Ah, tem uma coisa legal.
+
+1597
+01:12:36,000 --> 01:12:37,220
+O que eu vou fazer por segurança?
+
+1598
+01:12:37,380 --> 01:12:38,660
+Porque eu não configurei antes.
+
+1599
+01:12:40,156 --> 01:12:42,916
+Eu vou duplicar esse projeto aqui.
+
+1600
+01:12:44,252 --> 01:12:45,532
+Porque eu vou subir ele para...
+
+1601
+01:12:45,532 --> 01:12:46,792
+Será que eu subo ele?
+
+1602
+01:12:46,912 --> 01:12:47,832
+Porque tem as APIs.
+
+1603
+01:12:49,820 --> 01:12:51,100
+Aí eu teria que deletar as APIs.
+
+1604
+01:12:51,300 --> 01:12:52,200
+Eu não vou subir ele, não.
+
+1605
+01:12:52,540 --> 01:12:54,980
+Esse aqui vocês já entenderam como fazer aí, tá tudo certo.
+
+1606
+01:12:55,180 --> 01:12:57,720
+Mas os outros aqui a gente vai subir pra vocês.
+
+1607
+01:12:59,516 --> 01:13:01,276
+A landing page é 10 minutos, cara.
+
+1608
+01:13:01,316 --> 01:13:03,216
+A gente vai fazer aqui, você vai falar, meu Deus.
+
+1609
+01:13:03,776 --> 01:13:04,536
+Mas olha aqui, ó.
+
+1610
+01:13:05,396 --> 01:13:06,636
+Está feito aqui, então.
+
+1611
+01:13:06,896 --> 01:13:08,156
+Ainda não está publicado.
+
+1612
+01:13:08,276 --> 01:13:09,656
+Deixa eu ir um passo de cada vez.
+
+1613
+01:13:09,756 --> 01:13:10,696
+Vamos ver aqui o que ele fez.
+
+1614
+01:13:10,776 --> 01:13:12,796
+Ele já fez o build local para a gente.
+
+1615
+01:13:13,396 --> 01:13:16,936
+Agora ele vai conectar aqui na Vercel.
+
+1616
+01:13:16,956 --> 01:13:17,336
+Deixa eu ver.
+
+1617
+01:13:18,036 --> 01:13:19,796
+Beleza, está no Netflix, criando.
+
+1618
+01:13:20,176 --> 01:13:22,376
+Ele está buildando a produção agora.
+
+1619
+01:13:22,416 --> 01:13:24,976
+Ele fez o build local e vai fazer o build de produção.
+
+1620
+01:13:25,736 --> 01:13:29,136
+Produção é quando o seu site, é a versão do seu sistema,
+
+1621
+01:13:29,136 --> 01:13:30,756
+tema que tá no ar pras pessoas, tá?
+
+1622
+01:13:33,468 --> 01:13:34,728
+Deixa ele rodar aí certinho.
+
+1623
+01:13:36,636 --> 01:13:38,516
+Sobe o git que as keys não vão.
+
+1624
+01:13:38,576 --> 01:13:40,696
+É, eu sei que elas não vão, cara, mas...
+
+1625
+01:13:42,588 --> 01:13:45,588
+Eu teria que tratar o projeto ali para ver se não tem nenhuma brecha,
+
+1626
+01:13:45,608 --> 01:13:47,728
+que a IA costuma deixar brechas às vezes.
+
+1627
+01:13:48,488 --> 01:13:50,008
+Aí eu prefiro não fazer isso.
+
+1628
+01:13:50,108 --> 01:13:51,648
+Os outros a gente vai subir no Git, tá?
+
+1629
+01:13:51,888 --> 01:13:52,868
+Olha que legal, galera.
+
+1630
+01:13:53,988 --> 01:13:55,428
+Deploy realizado com sucesso.
+
+1631
+01:13:55,628 --> 01:13:57,008
+Projeto Brand System, URL.
+
+1632
+01:13:57,228 --> 01:13:58,648
+Vou mandar aí para vocês, hein?
+
+1633
+01:13:59,108 --> 01:14:00,328
+Está pronto o site, tá?
+
+1634
+01:14:00,388 --> 01:14:01,228
+Está publicado aqui, ó.
+
+1635
+01:14:02,108 --> 01:14:03,248
+Entrem aí para vocês verem.
+
+1636
+01:14:04,508 --> 01:14:06,048
+Nosso Brand System está publicado aqui.
+
+1637
+01:14:06,988 --> 01:14:08,108
+Loguei. Vocês vão conseguir
+
+1638
+01:14:08,108 --> 01:14:09,988
+logar aí também, no que a gente acabou
+
+1639
+01:14:09,988 --> 01:14:11,848
+de fazer. Eu posso continuar fazendo
+
+1640
+01:14:12,548 --> 01:14:14,388
+atualizações nele, localmente,
+
+1641
+01:14:14,388 --> 01:14:16,488
+e depois, quando eu quiser, eu peço
+
+1642
+01:14:16,488 --> 01:14:17,948
+para ir fazer o deploy e atualizar
+
+1643
+01:14:17,948 --> 01:14:19,788
+na produção, online,
+
+1644
+01:14:19,968 --> 01:14:22,148
+para as pessoas verem. É assim que vocês vão
+
+1645
+01:14:22,148 --> 01:14:23,188
+postar o site de vocês.
+
+1646
+01:14:25,244 --> 01:14:28,224
+Eu vou criar uma landing page aqui de negócios ali para vocês verem,
+
+1647
+01:14:28,224 --> 01:14:29,364
+vai ser muito fácil de fazer,
+
+1648
+01:14:30,244 --> 01:14:33,084
+mas a lógica aqui de publicar um site é essa.
+
+1649
+01:14:33,164 --> 01:14:36,524
+Aí vem a dúvida, Juan, e se eu quiser trocar o domínio?
+
+1650
+01:14:36,944 --> 01:14:40,644
+Está aqui no domínio brandsystem.kakivercel.app,
+
+1651
+01:14:40,704 --> 01:14:43,924
+eu quero usar o www.overlens.com.br.
+
+1652
+01:14:44,224 --> 01:14:46,584
+Para isso, você vai ter que fazer uma configuração via DNS,
+
+1653
+01:14:46,924 --> 01:14:48,784
+isso eu não vou ensinar aqui agora para vocês,
+
+1654
+01:14:48,884 --> 01:14:50,664
+mas tem vídeo no YouTube, tem muita coisa,
+
+1655
+01:14:50,784 --> 01:14:53,144
+mas basicamente, você vai entrar aqui na Vercel
+
+1656
+01:14:53,144 --> 01:14:55,464
+e vai conectar o seu domínio no projeto.
+
+1657
+01:14:55,704 --> 01:14:57,904
+Então, aqui, veio o projeto Brand System agora.
+
+1658
+01:14:58,584 --> 01:15:00,824
+Dentro aqui do projeto, a gente tem aqui Domains
+
+1659
+01:15:00,824 --> 01:15:05,524
+e é aqui que você vai ou comprar ou adicionar um domínio existente.
+
+1660
+01:15:05,664 --> 01:15:07,244
+Se você comprou seu domínio em outro lugar,
+
+1661
+01:15:07,304 --> 01:15:09,184
+você pode clicar aqui para poder adicionar ele,
+
+1662
+01:15:09,224 --> 01:15:10,344
+é só seguir o passo a passo.
+
+1663
+01:15:10,524 --> 01:15:13,944
+Ou você pode comprar seu domínio direto aqui na Vercel.
+
+1664
+01:15:14,124 --> 01:15:16,904
+Então, vamos supor que eu quero o domínio ruambras.ai.
+
+1665
+01:15:17,204 --> 01:15:19,244
+Vamos ver se existe, se está disponível para comprar.
+
+1666
+01:15:19,464 --> 01:15:20,464
+Está disponível aqui.
+
+1667
+01:15:20,464 --> 01:15:24,144
+pela bagatela de 160 dólares eu consigo.
+
+1668
+01:15:24,284 --> 01:15:25,484
+O .ai é muito caro.
+
+1669
+01:15:25,544 --> 01:15:27,804
+Deixa eu pegar um mais simples aqui, .io.
+
+1670
+01:15:28,324 --> 01:15:30,764
+.io está a 37 dólares, já está mais humilde.
+
+1671
+01:15:30,784 --> 01:15:32,044
+Vamos pegar aqui um .x.
+
+1672
+01:15:32,624 --> 01:15:33,984
+.x está a 2 dólares.
+
+1673
+01:15:34,264 --> 01:15:35,924
+Então você pode pegar e-mails diferentes
+
+1674
+01:15:35,924 --> 01:15:38,904
+a partir de vários tipos de domínios.
+
+1675
+01:15:38,984 --> 01:15:41,304
+Juan.dev está a 13 dólares, baratinho.
+
+1676
+01:15:41,444 --> 01:15:43,744
+E geralmente você compra o domínio por um ano.
+
+1677
+01:15:43,964 --> 01:15:46,384
+Aqui, Juanbras.dev está a 15 dólares.
+
+1678
+01:15:46,824 --> 01:15:49,284
+Enfim, você pode comprar o domínio aqui e personalizar.
+
+1679
+01:15:49,284 --> 01:15:54,724
+Quando você compra direto na Vercel, é legal porque a conexão é mais rápida e mais fácil também, tá?
+
+1680
+01:15:55,364 --> 01:15:57,044
+Então vocês conseguem fazer isso.
+
+1681
+01:15:59,868 --> 01:16:05,868
+É por ano, pensa, 100 reais no ano, dá desconto, pô, 9 reais, sei lá, não é tão caro não.
+
+1682
+01:16:05,948 --> 01:16:07,748
+Aí vocês conseguem conectar o domínio de vocês.
+
+1683
+01:16:08,128 --> 01:16:14,408
+Aqui vocês gerenciam todos os projetos, né, aqui nessa conta eu tenho vários,
+
+1684
+01:16:14,488 --> 01:16:17,228
+aqui eu estou gerenciando o nosso projeto, ó, teve 32 acessos.
+
+1685
+01:16:17,328 --> 01:16:20,868
+O legal da Vercel é que ela traz alguns dados legais para vocês também aqui,
+
+1686
+01:16:20,968 --> 01:16:25,528
+dá para poder trabalhar nisso, tá, o status aqui do servidor está funcionando.
+
+1687
+01:16:26,088 --> 01:16:27,548
+No caso, depois eu vou deletar isso,
+
+1688
+01:16:27,648 --> 01:16:29,748
+mas eu vou deixar um tempinho aí para vocês verem também.
+
+1689
+01:16:30,548 --> 01:16:34,708
+Aí dá para vocês navegarem, depois eu tiro do ar esse site.
+
+1690
+01:16:34,848 --> 01:16:37,568
+Mas foi de graça, eu não paguei nada, vocês podem testar aí.
+
+1691
+01:16:37,608 --> 01:16:40,068
+É só usar a Vercel e pedir para o Cloud conectar.
+
+1692
+01:16:41,308 --> 01:16:42,768
+E aí vai funcionar para vocês também.
+
+1693
+01:16:43,964 --> 01:16:45,524
+Para fechar aqui, antes de eu dar a notícia,
+
+1694
+01:16:45,524 --> 01:16:47,004
+ele criou o usuário,
+
+1695
+01:16:47,084 --> 01:16:49,124
+isso aqui eu já posso fechar também, deixa eu ver.
+
+1696
+01:16:49,184 --> 01:16:51,564
+Criou os esquemas aqui, tem os esquemas certinhos
+
+1697
+01:16:51,564 --> 01:16:55,064
+para poder trabalhar com as tabelas.
+
+1698
+01:16:55,764 --> 01:16:57,624
+Então aqui, as gerações,
+
+1699
+01:16:57,644 --> 01:16:59,544
+no caso a gente tem duas colunas,
+
+1700
+01:16:59,544 --> 01:17:02,124
+tem 11 colunas e duas linhas estimadas.
+
+1701
+01:17:02,844 --> 01:17:04,404
+Enfim, vou fechar isso aqui agora.
+
+1702
+01:17:05,044 --> 01:17:06,704
+Quem estava falando do site, galera,
+
+1703
+01:17:06,764 --> 01:17:08,344
+agora virou até covardia.
+
+1704
+01:17:08,344 --> 01:17:10,444
+Por quê? Eu vou fechar isso aqui agora, o Brand System.
+
+1705
+01:17:12,028 --> 01:17:14,908
+Deixa eu ver o seguinte, eu conectei a Vercel aqui também, né?
+
+1706
+01:17:19,708 --> 01:17:21,888
+como que eu vou entregar esse Brand System para vocês.
+
+1707
+01:17:25,724 --> 01:17:28,804
+Quando ele aparece cinzinho assim é porque ele não vai subir no...
+
+1708
+01:17:30,236 --> 01:17:32,396
+esses arquivos para o GitHub, tá?
+
+1709
+01:17:32,516 --> 01:17:34,956
+No caso, esse aqui nem tem, ele tem um gitignore aqui,
+
+1710
+01:17:35,056 --> 01:17:37,716
+mas ele não tem os .env não, vai ser mais tranquilo.
+
+1711
+01:17:38,036 --> 01:17:39,736
+Então, vou só finalizar a sessão aqui,
+
+1712
+01:17:39,856 --> 01:17:41,536
+a gente vai agora postar no GitHub,
+
+1713
+01:17:41,976 --> 01:17:45,036
+e eu vou entregar aqui os materiais para quem ficou até o final,
+
+1714
+01:17:45,136 --> 01:17:47,756
+e trazer um presente para vocês,
+
+1715
+01:17:48,436 --> 01:17:50,676
+é novo, isso a gente não trouxe em outros Atlas,
+
+1716
+01:17:50,776 --> 01:17:52,136
+é muito legal, acho que vocês vão curtir.
+
+1717
+01:17:52,416 --> 01:17:54,436
+Vamos ver como vai ser a reação de vocês, tá?
+
+1718
+01:17:54,736 --> 01:17:55,876
+Mas o que eu vou fazer agora?
+
+1719
+01:17:57,016 --> 01:17:58,916
+Fechamos aqui nossos projetos,
+
+1720
+01:17:58,916 --> 01:18:00,496
+Olha como que tá aqui agora, ó.
+
+1721
+01:18:01,116 --> 01:18:03,316
+Deixa eu tirar aqui. Acabou que eu nem precisei
+
+1722
+01:18:03,316 --> 01:18:04,936
+da chave ali, tudo certo.
+
+1723
+01:18:05,476 --> 01:18:06,836
+Aqui a gente pode fechar agora.
+
+1724
+01:18:06,936 --> 01:18:09,116
+Tô fechando as janelas. A gente vai trabalhar no Git,
+
+1725
+01:18:09,216 --> 01:18:09,896
+então deixa ele aí.
+
+1726
+01:18:11,868 --> 01:18:14,148
+Aqui no Figma, dê um tchau para o Figma.
+
+1727
+01:18:14,248 --> 01:18:17,488
+Está acabando o evento, tem aquele climinha, estou fechando todas as janelas.
+
+1728
+01:18:18,844 --> 01:18:19,644
+Figma foi também.
+
+1729
+01:18:20,384 --> 01:18:21,924
+Agora, vamos trabalhar aqui.
+
+1730
+01:18:21,984 --> 01:18:23,284
+Vou abrir o anti-gravity.
+
+1731
+01:18:24,064 --> 01:18:26,664
+Só para a gente subir isso aqui lá no GitHub
+
+1732
+01:18:26,664 --> 01:18:27,924
+e vocês verem o processo.
+
+1733
+01:18:29,532 --> 01:18:33,332
+Eu vou abrir uma nova pasta aqui e vai ser essa pastinha Atlas 2.
+
+1734
+01:18:33,592 --> 01:18:34,832
+Então, abre a pasta Atlas 2.
+
+1735
+01:18:35,252 --> 01:18:35,872
+Abri ela.
+
+1736
+01:18:36,092 --> 01:18:37,192
+Posso fechar o outro.
+
+1737
+01:18:37,312 --> 01:18:38,092
+Ah, foi dentro aqui.
+
+1738
+01:18:38,352 --> 01:18:40,132
+Vocês vão ver que tem duas pastas aqui.
+
+1739
+01:18:40,292 --> 01:18:43,192
+A pasta de IBM e a pasta do Brand System, certo?
+
+1740
+01:18:43,452 --> 01:18:44,432
+Tem as duas aqui.
+
+1741
+01:18:44,632 --> 01:18:48,132
+A de IBM é mais simples, porque são só várias pesquisas que a gente fez.
+
+1742
+01:18:48,332 --> 01:18:52,492
+E a de Brand System é mais longa, porque a gente criou um sisteminha de visualização.
+
+1743
+01:18:52,952 --> 01:18:53,392
+Beleza?
+
+1744
+01:18:53,592 --> 01:18:55,532
+O que eu vou fazer aqui agora com a YAL?
+
+1745
+01:18:55,612 --> 01:18:57,472
+Vou fazer direto com ela, que é o mais simples.
+
+1746
+01:18:58,332 --> 01:18:59,232
+Quero criar
+
+1747
+01:18:59,232 --> 01:19:01,652
+Opa, tenho que abrir primeiro, né?
+
+1748
+01:19:01,692 --> 01:19:02,612
+Acordar o Cloud aqui
+
+1749
+01:19:02,612 --> 01:19:03,892
+Vou abrir aqui
+
+1750
+01:19:07,452 --> 01:19:08,972
+Tem o jeito manual e o jeito de IA.
+
+1751
+01:19:08,992 --> 01:19:12,732
+O manual é usando aqui o desktop, mas não precisa usar ele se não quiser.
+
+1752
+01:19:13,252 --> 01:19:16,072
+Usando o desktop, vocês vão vir aqui em repositórios,
+
+1753
+01:19:16,172 --> 01:19:19,872
+clicar em adicionar e vão clicar aqui em create new repository.
+
+1754
+01:19:20,372 --> 01:19:22,592
+Quando você clicar aqui, você dá um nome para ele,
+
+1755
+01:19:22,632 --> 01:19:24,392
+eu posso chamar ele de Atlas, por exemplo.
+
+1756
+01:19:24,912 --> 01:19:27,672
+Venho aqui nesse local path, clico em choose
+
+1757
+01:19:27,672 --> 01:19:30,192
+e vou escolher aquela pasta Atlas 2.
+
+1758
+01:19:30,612 --> 01:19:33,312
+Escolhi a pasta Atlas 2, vou deixar aqui,
+
+1759
+01:19:33,392 --> 01:19:37,172
+ele tem um git ignore e eu vou deixar esse git ignore aqui
+
+1760
+01:19:37,172 --> 01:19:41,492
+disponível chover aqui na verdade eu posso deixar depois ali dentro da pasta
+
+1761
+01:19:41,492 --> 01:19:46,532
+já vai trazer certinho então na verdade acho que tem que puxar para fora mas
+
+1762
+01:19:46,532 --> 01:19:51,112
+depois que você faz isso você cria o repositório você pra chegar nesse ponto
+
+1763
+01:19:51,112 --> 01:19:54,332
+aqui você tem que ter logado na sua conta normalmente é que eu já estou
+
+1764
+01:19:54,332 --> 01:19:58,332
+logado por isso que tá desse jeito depois que você fez o login na conta
+
+1765
+01:19:58,332 --> 01:20:02,312
+você consegue criar o repositório é assim manualmente tão simples quanto isso e
+
+1766
+01:20:02,312 --> 01:20:06,232
+tem um jeito e há de fazer isso que é o que pedindo aqui o jeito ea gasta
+
+1767
+01:20:06,232 --> 01:20:09,692
+Pasta token, só que o jeito IA é mais seguro, porque você pode fazer o seguinte.
+
+1768
+01:20:10,592 --> 01:20:18,372
+Quero fazer o commit e push desta pasta para um novo repositório.
+
+1769
+01:20:19,868 --> 01:20:20,728
+no meu GitHub.
+
+1770
+01:20:24,252 --> 01:20:29,232
+Já estou conectado no GitHub, no navegador.
+
+1771
+01:20:30,152 --> 01:20:38,652
+Quero que você analise se existem arquivos de Git Ignore dentro das pastas.
+
+1772
+01:20:40,252 --> 01:20:41,352
+Se houver...
+
+1773
+01:20:42,940 --> 01:20:48,040
+Não suba, de acordo, não suba estes arquivos.
+
+1774
+01:20:48,900 --> 01:20:52,600
+Não suba, melhor assim, não suba os arquivos apontados.
+
+1775
+01:20:54,044 --> 01:20:58,504
+apontados dentro destes git ignore.
+
+1776
+01:21:00,252 --> 01:21:01,052
+Procure também.
+
+1777
+01:21:02,556 --> 01:21:04,796
+Aqui vai levar um pouquinho mais de tempo, mas eu vou deixar ele fazendo
+
+1778
+01:21:04,796 --> 01:21:06,316
+enquanto eu anuncio outras coisas para vocês.
+
+1779
+01:21:06,396 --> 01:21:11,456
+Procure também brechas de segurança e faça...
+
+1780
+01:21:12,796 --> 01:21:19,276
+um push seguro, sem vazar arquivos sensíveis.
+
+1781
+01:21:21,116 --> 01:21:23,596
+Aqui vai acontecer uma coisa, vocês vão baixar esse arquivo,
+
+1782
+01:21:23,596 --> 01:21:25,816
+mas quando vocês rodarem um npm run dev,
+
+1783
+01:21:26,056 --> 01:21:28,476
+não vai carregar o arquivo para vocês,
+
+1784
+01:21:28,676 --> 01:21:30,776
+porque tem que instalar as variáveis de ambiente.
+
+1785
+01:21:31,216 --> 01:21:34,436
+Aqui no caso, eu acho que nem vai ter muita variável de ambiente, não.
+
+1786
+01:21:34,796 --> 01:21:36,496
+Talvez só ali o da Vercel, né?
+
+1787
+01:21:38,196 --> 01:21:45,496
+Atenção especial para os arquivos da Vercel em PS.
+
+1788
+01:21:45,956 --> 01:21:46,436
+Pronto.
+
+1789
+01:21:46,756 --> 01:21:50,296
+Eu vou deixar ele fazendo aqui, ele vai criar o repositório para a gente,
+
+1790
+01:21:50,296 --> 01:21:51,956
+pra vocês acompanharem, olha só
+
+1791
+01:21:51,956 --> 01:21:53,936
+já vou fechando algumas abas aqui
+
+1792
+01:21:53,936 --> 01:21:56,096
+posso até tirar isso aqui também, ó
+
+1793
+01:21:56,096 --> 01:21:58,436
+vou fechar, desabilitar por enquanto
+
+1794
+01:21:58,436 --> 01:21:59,836
+não, eu posso até deletar
+
+1795
+01:21:59,836 --> 01:22:02,716
+vou desabilitar, vai que eu uso
+
+1796
+01:22:03,196 --> 01:22:04,096
+então deixa aqui
+
+1797
+01:22:05,660 --> 01:22:06,940
+Seedrim também posso fechar.
+
+1798
+01:22:07,080 --> 01:22:09,220
+Olha só, no momento tem quatro repositórios.
+
+1799
+01:22:09,340 --> 01:22:11,220
+A gente vai criar um repositório novo aqui,
+
+1800
+01:22:11,300 --> 01:22:13,660
+chamado Atlas, que foi o que eu pedi para ele.
+
+1801
+01:22:14,040 --> 01:22:17,360
+Ele já encontrou o Git Ignore, vai verificar os arquivos sensíveis
+
+1802
+01:22:17,360 --> 01:22:20,520
+e basicamente vai aparecer aqui um outro repositório.
+
+1803
+01:22:20,960 --> 01:22:22,580
+Provavelmente ele vai criar privado.
+
+1804
+01:22:22,600 --> 01:22:23,980
+Vamos ver como que ele vai fazer aqui.
+
+1805
+01:22:24,140 --> 01:22:26,880
+Ele criou aqui o nome do repositório público.
+
+1806
+01:22:26,960 --> 01:22:27,780
+Ele precisa só disso.
+
+1807
+01:22:28,600 --> 01:22:31,060
+Nome, vamos chamar ele aqui de Atlas.
+
+1808
+01:22:33,660 --> 01:22:35,580
+Cloud, que foi o Atlas do Cloud, né?
+
+1809
+01:22:35,640 --> 01:22:37,020
+E pode deixar ele público.
+
+1810
+01:22:37,320 --> 01:22:39,500
+Ele criou, agora eu vou fazer aqui um publish dele.
+
+1811
+01:22:39,800 --> 01:22:42,100
+Na hora de fazer o publish, eu não vou deixar ele privado,
+
+1812
+01:22:42,160 --> 01:22:43,540
+para vocês conseguirem ver sem descrição.
+
+1813
+01:22:43,880 --> 01:22:44,500
+Publicar, pronto.
+
+1814
+01:22:44,900 --> 01:22:46,960
+Aí ele vai publicar lá no GitHub para a gente.
+
+1815
+01:22:48,020 --> 01:22:48,380
+Prontinho.
+
+1816
+01:22:49,100 --> 01:22:49,940
+Mais fácil, né?
+
+1817
+01:22:49,960 --> 01:22:52,280
+Queria mostrar pelo Cloud, mas demorou mais lá do que aqui.
+
+1818
+01:22:52,480 --> 01:22:53,520
+Vamos atualizar aqui agora.
+
+1819
+01:22:54,060 --> 01:22:55,600
+Prontinho, tem o Atlas Cloud, está aqui.
+
+1820
+01:22:55,760 --> 01:22:56,780
+O que vocês vão fazer?
+
+1821
+01:22:56,880 --> 01:22:58,420
+Vou mandar esse link aqui para vocês agora.
+
+1822
+01:22:59,040 --> 01:23:00,680
+E aí, olha o readme que ele criou.
+
+1823
+01:23:00,980 --> 01:23:02,120
+Só tem o título aqui.
+
+1824
+01:23:02,120 --> 01:23:03,500
+Pior readme da história
+
+1825
+01:23:03,500 --> 01:23:06,520
+Quando vocês entrarem aqui, vocês vão clicar no botão verde
+
+1826
+01:23:06,520 --> 01:23:08,040
+Vão clicar aqui embaixo, quer ver, ó
+
+1827
+01:23:08,040 --> 01:23:10,480
+Eu não vou conseguir por aqui, vou abrir uma aba nova
+
+1828
+01:23:11,160 --> 01:23:11,740
+Copia o link
+
+1829
+01:23:12,320 --> 01:23:14,520
+Vai cair nessa aba, clica aqui, vai clicar aqui
+
+1830
+01:23:14,520 --> 01:23:16,400
+Download zip, é o jeito mais fácil
+
+1831
+01:23:16,400 --> 01:23:18,680
+Pra clonar eu ia ter que ensinar, isso vai pra outro momento
+
+1832
+01:23:19,500 --> 01:23:21,040
+Galera da vanguarda, a gente vai ensinar também
+
+1833
+01:23:22,396 --> 01:23:23,056
+Aqui, pronto.
+
+1834
+01:23:24,576 --> 01:23:25,956
+Não, o repo não está vazio, não.
+
+1835
+01:23:26,416 --> 01:23:27,356
+Ah, não, ele está vazio.
+
+1836
+01:23:28,056 --> 01:23:29,716
+Ele subiu vazio. Deixa eu só ver aqui.
+
+1837
+01:23:30,416 --> 01:23:31,076
+Você está certo.
+
+1838
+01:23:31,316 --> 01:23:33,196
+Ele criou o repositório, mas ele subiu vazio.
+
+1839
+01:23:33,936 --> 01:23:35,676
+Mas eu vou atualizar aqui, o link vai ser o mesmo.
+
+1840
+01:23:37,276 --> 01:23:40,176
+O nível que eu estou cansado, eu nem notei que ele estava vazio, né?
+
+1841
+01:23:40,956 --> 01:23:42,616
+Deixa eu voltar aqui no projeto agora.
+
+1842
+01:23:45,732 --> 01:23:47,052
+Mas eu puxei ele certinho?
+
+1843
+01:23:47,112 --> 01:23:47,812
+Deixa eu só ver aqui
+
+1844
+01:23:49,212 --> 01:23:52,552
+Vou falar aqui para o Claude finalizar aqui para a gente mais fácil.
+
+1845
+01:23:54,204 --> 01:23:59,664
+Já criei o repo, mas ele ainda está vazio.
+
+1846
+01:24:00,324 --> 01:24:03,484
+Faz o commit e push agora.
+
+1847
+01:24:04,084 --> 01:24:06,804
+Vamos ver se ele vai fazer certinho ou se ele vai pedir para eu autenticar de novo.
+
+1848
+01:24:06,884 --> 01:24:09,484
+Porque se ele pedir, chatão essa autenticação.
+
+1849
+01:24:09,844 --> 01:24:13,064
+Faço login diretamente aqui, digitando o prompt no Cloud Code.
+
+1850
+01:24:14,024 --> 01:24:16,984
+Execute agora aqui no prompt do Cloud Code.
+
+1851
+01:24:17,744 --> 01:24:18,764
+Ele vai mostrar.
+
+1852
+01:24:19,644 --> 01:24:21,564
+Ele até me deu um alerta ali.
+
+1853
+01:24:21,564 --> 01:24:23,604
+isso aqui é porque eu estou fazendo com pressa
+
+1854
+01:24:23,604 --> 01:24:25,484
+mas não vão lá aceitando tudo
+
+1855
+01:24:25,484 --> 01:24:27,084
+que o Cloud pede para vocês fazerem não
+
+1856
+01:24:27,584 --> 01:24:28,724
+assistam aquele filme lá
+
+1857
+01:24:28,724 --> 01:24:30,724
+X Machine
+
+1858
+01:24:30,724 --> 01:24:33,364
+na verdade ele já está com o código aqui
+
+1859
+01:24:33,364 --> 01:24:35,324
+continuar, cola, agora vai
+
+1860
+01:24:35,324 --> 01:24:37,384
+pronto, autorizar
+
+1861
+01:24:38,304 --> 01:24:38,784
+agora
+
+1862
+01:24:40,412 --> 01:24:44,032
+Ele tá pedindo o quê? Quando você estiver pronto, verifica a identidade.
+
+1863
+01:24:45,272 --> 01:24:45,552
+Caraca.
+
+1864
+01:24:45,672 --> 01:24:48,012
+Isso que é segurança, ó. Tá vendo? É chatinho, mas é importante.
+
+1865
+01:24:48,612 --> 01:24:50,272
+Agora eu tenho que autenticar lá no e-mail também.
+
+1866
+01:24:50,492 --> 01:24:53,432
+Aí eu tô falando de segurança e tô aqui jogando o comando direto na...
+
+1867
+01:24:54,292 --> 01:24:54,792
+Na IA.
+
+1868
+01:24:56,156 --> 01:24:59,236
+Mas pelo menos ainda essa parte principal aqui a gente está fazendo certo.
+
+1869
+01:24:59,476 --> 01:25:00,176
+Então, verificar.
+
+1870
+01:25:01,016 --> 01:25:01,456
+Prontinho.
+
+1871
+01:25:01,616 --> 01:25:04,196
+Ah, ele já está escrito ali, logado, autenticação completa.
+
+1872
+01:25:04,676 --> 01:25:05,696
+Sem bash mode.
+
+1873
+01:25:06,316 --> 01:25:07,436
+Só mandar aqui para ele.
+
+1874
+01:25:07,516 --> 01:25:07,876
+Pronto.
+
+1875
+01:25:07,896 --> 01:25:09,776
+Vamos ver se o projeto está certo aqui agora.
+
+1876
+01:25:09,816 --> 01:25:11,976
+E dar uma atualizada.
+
+1877
+01:25:12,736 --> 01:25:13,176
+Pronto.
+
+1878
+01:25:13,176 --> 01:25:14,856
+Agora os arquivos estão aqui, está vendo?
+
+1879
+01:25:15,056 --> 01:25:18,776
+Então agora que está tudo aqui, se eu entrar dá para ver todos os arquivos certinhos.
+
+1880
+01:25:18,876 --> 01:25:20,856
+Vocês vão clicar no verdinho, lembra?
+
+1881
+01:25:20,876 --> 01:25:21,456
+Pega o link.
+
+1882
+01:25:23,068 --> 01:25:25,348
+Clica no verdinho e clica aqui, ó, Download Zip.
+
+1883
+01:25:25,508 --> 01:25:27,308
+Pronto, vocês vão baixar tudo aí certinho.
+
+1884
+01:25:27,388 --> 01:25:30,028
+É bom para vocês começarem a se familiarizar.
+
+1885
+01:25:30,168 --> 01:25:32,228
+Muito obrigado, então, pela participação de vocês.
+
+1886
+01:25:32,288 --> 01:25:33,688
+A gente vai ficando por aqui.
+
+1887
+01:25:34,168 --> 01:25:35,128
+Até a próxima.
+
+1888
+01:25:36,444 --> 01:25:36,824
+Tchau, tchau.
+

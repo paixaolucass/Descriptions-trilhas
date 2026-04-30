@@ -1,0 +1,643 @@
+# Video: Aula 16 _ Como Encontrar Clientes Certos (Matriz de Prospecção).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-27 19:39
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:02 --> 00:00:02:28] Agora que a gente já entendeu essa mentalidade, a matemática,
+[00:00:03:20 --> 00:00:06:06] a matemática da prospecção, entender um pouquinho desses números,
+[00:00:06:29 --> 00:00:09:26] e também o IMA de leads, que vai ser a parte de entrada
+[00:00:09:26 --> 00:00:12:13] para muitas dessas pessoas que a gente vai conversar,
+[00:00:12:22 --> 00:00:15:05] vem essa maior pergunta de todas, onde encontrar essas pessoas?
+[00:00:15:19 --> 00:00:17:20] E esse é um momento que muita gente trava,
+[00:00:17:27 --> 00:00:19:27] eu demorei muitos anos para entender isso também,
+[00:00:20:01 --> 00:00:23:02] porque não adianta você ter clareza de quem é o seu cliente ideal,
+[00:00:23:07 --> 00:00:24:29] não adianta você ter a melhor oferta,
+[00:00:25:02 --> 00:00:27:07] você ter uma equação perfeita de valor,
+[00:00:27:13 --> 00:00:28:29] ter um processo de vendas,
+[00:00:28:29 --> 00:00:30:16] ter até um imã de leads
+[00:00:30:16 --> 00:00:32:27] se você não sabe como colocar esse trabalho
+[00:00:32:27 --> 00:00:34:20] da sua oferta na frente das pessoas
+[00:00:35:10 --> 00:00:36:23] e aqui que entra uma matriz
+[00:00:36:23 --> 00:00:38:00] muito simples
+[00:00:41:00 --> 00:00:42:23] que organiza todas as possibilidades
+[00:00:42:23 --> 00:00:44:13] na verdade de você encontrar esses clientes
+[00:00:44:13 --> 00:00:46:13] ela tem duas categorias de clientes
+[00:00:46:13 --> 00:00:48:00] são as pessoas que você já conhece
+[00:00:48:00 --> 00:00:50:09] que são um público mais quente
+[00:00:50:09 --> 00:00:52:00] e são as pessoas que não te conhecem
+[00:00:52:00 --> 00:00:53:15] que é um público um pouco mais frio
+[00:00:53:15 --> 00:00:55:11] e também tem duas formas
+[00:00:55:11 --> 00:00:55:15] Vamos?
+[00:00:56:23 --> 00:01:02:01] contato, duas formas de comunicação com essas pessoas, tem um a um, que é algo privado,
+[00:01:02:03 --> 00:01:06:16] então mensagens diretas, conversas individuais, e você tem também um para muitos, que é
+[00:01:06:16 --> 00:01:11:16] algo mais público, que pode ser posts, anúncios, palestra, ou qualquer tipo de mensagem ou
+[00:01:11:16 --> 00:01:13:28] canal aberto que você vai utilizar com esses clientes.
+[00:01:14:07 --> 00:01:20:03] E se a gente cruzar toda essa matriz aqui, nós vamos ter quatro quadrantes, são os
+[00:01:20:03 --> 00:01:24:06] quatro principais formas de você entrar em contato com essas pessoas, de entrar em
+[00:01:24:06 --> 00:01:26:01] contato com esses clientes. Então tem a sua
+[00:01:26:01 --> 00:01:28:07] rede, que é um a um, com quem já te conhece,
+[00:01:28:09 --> 00:01:30:04] que é um público quente. Tem a criação de
+[00:01:30:04 --> 00:01:32:05] conteúdo, que é um para muitos, com quem
+[00:01:32:05 --> 00:01:34:01] já te conhece. Tem a prospecção
+[00:01:34:01 --> 00:01:36:06] fria, a busca ativa, que é
+[00:01:36:06 --> 00:01:37:28] um a um, com quem não te conhece, que é um público
+[00:01:37:28 --> 00:01:39:25] frio. E o tráfego pago,
+[00:01:39:27 --> 00:01:42:09] que é um para muitos, com quem também não te conhece.
+[00:01:42:24 --> 00:01:44:11] Então assim, essa matriz
+[00:01:44:11 --> 00:01:45:29] ela resume esses principais
+[00:01:45:29 --> 00:01:48:07] caminhos. Não tem segredo escondido.
+[00:01:48:18 --> 00:01:49:21] A questão maior é
+[00:01:49:21 --> 00:01:51:23] qual desses quadrantes você vai usar primeiro?
+[00:01:52:13 --> 00:01:54:00] Então é muito importante, você
+[00:01:54:00 --> 00:01:56:02] você não fazer tudo de uma vez, senão você vai se perder.
+[00:01:56:19 --> 00:01:59:19] Escolhe um para começar, escolhe até dois no máximo
+[00:01:59:19 --> 00:02:03:12] para você fazer estratégias diferentes aqui.
+[00:02:03:21 --> 00:02:05:26] E aos poucos você vai utilizando os outros,
+[00:02:05:27 --> 00:02:09:11] você vai decidindo se você quer utilizar os outros também.
+[00:02:09:16 --> 00:02:12:11] E aqui vai muito também não só a estratégia,
+[00:02:12:11 --> 00:02:15:06] mas também um pouco da sua aptidão, o que você gosta de fazer.
+[00:02:15:13 --> 00:02:18:27] Então, se você é uma pessoa que sempre tem muitos contatos,
+[00:02:18:27 --> 00:02:22:16] vai em muitos eventos, você usar essa estratégia da sua rede
+[00:02:22:16 --> 00:02:25:08] é um dos melhores opções, é uma coisa que eu fiz por muitos anos
+[00:02:25:08 --> 00:02:27:19] e funciona até hoje, é uma coisa que você nunca vai abrir mão.
+[00:02:28:11 --> 00:02:30:24] Eu acho que, na verdade, de todas as estratégias aqui,
+[00:02:30:25 --> 00:02:32:27] essa talvez seja a mais importante, porque é algo que
+[00:02:33:13 --> 00:02:36:17] sempre você vai estar se colocando na frente das pessoas
+[00:02:36:17 --> 00:02:39:06] e vai ser sempre mais quente, vai ser sempre mais rápido
+[00:02:39:06 --> 00:02:40:29] de você atingir essas pessoas.
+[00:02:41:24 --> 00:02:44:22] Então, se você gosta de gravar vídeos, se você fala muito bem para a câmera,
+[00:02:44:25 --> 00:02:47:19] se você cria postagens muito boas, se você já trabalha com social media,
+[00:02:48:00 --> 00:02:49:29] criação de conteúdo também vai ser excelente.
+[00:02:50:18 --> 00:02:52:22] Se você é uma pessoa muito boa de conversa,
+[00:02:52:22 --> 00:02:54:00] você gosta de falar com as pessoas,
+[00:02:54:06 --> 00:02:56:12] você tem um pouquinho da parte da sua rede,
+[00:02:56:14 --> 00:02:57:16] mas você é bom em venda,
+[00:02:57:20 --> 00:02:59:27] a busca ativa, a prospecção fria também vai te ajudar.
+[00:03:00:10 --> 00:03:01:21] E o tráfego pago é aquilo,
+[00:03:01:24 --> 00:03:04:12] já fiz anúncios, já entendo tudo de anúncios,
+[00:03:04:12 --> 00:03:06:16] já sei o que é aquela sopa de letrinhas,
+[00:03:06:16 --> 00:03:09:01] de ROAS, de CPL, de CPA, já entendi tudo isso.
+[00:03:09:18 --> 00:03:10:21] Estou muito bom de copy,
+[00:03:10:28 --> 00:03:13:19] sou muito bom de criar criativos.
+[00:03:13:23 --> 00:03:16:01] O tráfego pago, você vai ter muito resultado.
+[00:03:16:21 --> 00:03:19:00] Mas aqui no Bootcamp,
+[00:03:19:00 --> 00:03:21:02] o nosso foco é o que vai gerar resultado rápido.
+[00:03:22:21 --> 00:03:25:00] a gente vai utilizar aqui as duas principais estratégias,
+[00:03:25:00 --> 00:03:27:21] que vai ser a sua rede e a prospecção fria.
+[00:03:29:00 --> 00:03:30:14] Então, antes de a gente falar disso,
+[00:03:30:20 --> 00:03:32:21] vamos ver os quadrantes que são importantes, sim,
+[00:03:32:23 --> 00:03:35:00] mas que não devem ser o foco imediato,
+[00:03:35:00 --> 00:03:37:14] ou pelo menos não vão ser o foco imediato nosso hoje.
+[00:03:38:24 --> 00:03:40:05] O primeiro deles é a criação de conteúdo.
+[00:03:41:00 --> 00:03:43:22] Criar conteúdo é muito bom porque você cria autoridade.
+[00:03:44:09 --> 00:03:46:26] Aquela questão da educação e do mercado que eu falei algumas vezes,
+[00:03:47:00 --> 00:03:48:12] é aqui que você vai fazer isso também.
+[00:03:48:22 --> 00:03:51:29] E você vai aumentar o valor percebido de todas as suas outras ofertas também,
+[00:03:52:01 --> 00:03:56:28] porque você vai estar criando valor ali publicamente no seu Instagram, YouTube, LinkedIn, Substack,
+[00:03:56:29 --> 00:03:58:14] não importa onde você está criando conteúdo,
+[00:03:58:27 --> 00:04:01:02] você vai acabar aumentando o valor de todas as suas ofertas
+[00:04:01:02 --> 00:04:04:01] e você se posiciona ali como uma referência no mercado.
+[00:04:04:21 --> 00:04:07:00] O problema maior da criação de conteúdo é...
+[00:04:08:05 --> 00:04:12:19] Conteúdo demora muito para criar, principalmente se você fizer isso do jeito certo.
+[00:04:12:27 --> 00:04:16:22] Eu, pelo menos, demoro muito para criar uma postagem, para criar um texto, para criar um vídeo.
+[00:04:17:23 --> 00:04:20:19] Então, é algo que você vai colocar muita energia.
+[00:04:21:00 --> 00:04:23:29] E a outra questão é o tempo para dar retorno.
+[00:04:24:02 --> 00:04:27:27] Você pode demorar meses, semanas, até anos, às vezes, dependendo da sua estratégia,
+[00:04:27:27 --> 00:04:31:17] para você ter um retorno previsível desse conteúdo.
+[00:04:32:15 --> 00:04:35:18] Então, não adianta apostar hoje e esperar um cliente amanhã.
+[00:04:35:18 --> 00:04:38:00] e tem muito guru do marketing aí
+[00:04:38:00 --> 00:04:39:26] que vai falar para você gerar demanda.
+[00:04:39:29 --> 00:04:41:28] Eles dizem que, sei lá, o público geral,
+[00:04:42:02 --> 00:04:46:18] pensando naquela pirâmide de leads, de conteúdo,
+[00:04:47:09 --> 00:04:51:11] apenas 7% a 10% dessas pessoas estão prontas para comprar agora,
+[00:04:51:18 --> 00:04:53:09] que são as pessoas que você prospectaria, certo?
+[00:04:53:15 --> 00:04:56:14] E os outros 90%, eles precisam ser educados,
+[00:04:56:17 --> 00:04:58:12] eles precisam ser convencidos
+[00:04:58:12 --> 00:05:00:21] que essa solução que você está,
+[00:05:00:24 --> 00:05:02:06] que a sua oferta é importante.
+[00:05:02:21 --> 00:05:04:21] E daí que vem até a ideia de educar o mercado
+[00:05:04:21 --> 00:05:10:24] mercado que eu coloquei ali no segundo ponto ali, né? E a verdade é que eles são certos, sim, realmente é verdade isso.
+[00:05:10:29 --> 00:05:17:29] O problema é que isso exige tempo, exige caixa, exige uma estrutura muito maior. Muitas vezes as empresas grandes
+[00:05:17:29 --> 00:05:23:12] que fazem isso, porque elas já conseguem investir e educar esse mercado, mas se você está começando,
+[00:05:24:04 --> 00:05:30:02] se você precisa colocar dinheiro no bolso, você não pode depender disso. Então, é importante, crie conteúdo,
+[00:05:30:02 --> 00:05:31:29] conteúdo, faça isso sim, vai te ajudar,
+[00:05:32:04 --> 00:05:33:27] é fundamental para a sua autoridade
+[00:05:33:27 --> 00:05:35:29] a longo prazo, mas não pode
+[00:05:35:29 --> 00:05:38:00] ser a sua estratégia principal, principalmente
+[00:05:38:00 --> 00:05:39:06] nesse momento que a gente está falando.
+[00:05:40:00 --> 00:05:41:18] Conteúdo é uma semente plantada para o futuro,
+[00:05:41:24 --> 00:05:43:24] não uma colheita imediata, então
+[00:05:43:24 --> 00:05:45:21] não é o lugar para começar, mas
+[00:05:45:21 --> 00:05:47:19] separa um tempo aí da sua agenda,
+[00:05:47:21 --> 00:05:49:15] do seu cronograma, da sua rotina,
+[00:05:49:17 --> 00:05:51:09] para já começar a pensar nisso, porque
+[00:05:52:08 --> 00:05:53:03] não tem...
+[00:05:54:27 --> 00:05:55:21] Nunca vai ter um
+[00:05:55:21 --> 00:05:57:12] problema, nunca vai causar algo,
+[00:05:58:00 --> 00:05:59:12] nunca vai ser algo problemático
+[00:05:59:12 --> 00:06:00:26] que você criar conteúdo no sentido
+[00:06:00:26 --> 00:06:02:23] não vai te fazer mal, sabe?
+[00:06:02:27 --> 00:06:05:09] Ele vai te ajudar a criar autoridade, vai te ajudar
+[00:06:05:09 --> 00:06:07:07] com isso sim. A maior questão
+[00:06:07:07 --> 00:06:09:09] é aquilo que a gente falou algumas vezes, já que o
+[00:06:09:09 --> 00:06:11:12] Rua até comentou, é o esforço e sacrifício.
+[00:06:11:15 --> 00:06:13:06] Você vai demorar muito tempo para você criar
+[00:06:13:06 --> 00:06:15:07] conteúdo, vai demorar muito tempo para você
+[00:06:15:07 --> 00:06:17:05] ter resultado e você muitas
+[00:06:17:05 --> 00:06:19:05] vezes pode ficar frustrado porque você não
+[00:06:19:05 --> 00:06:21:00] vai ver os clientes chegando,
+[00:06:21:01 --> 00:06:23:07] os comentários, as curtidas, né? Tem muita
+[00:06:23:07 --> 00:06:25:04] métrica estética ali também, que
+[00:06:25:04 --> 00:06:26:28] isso acaba até acabando com a gente,
+[00:06:27:27 --> 00:06:29:07] isso acaba até deixando a gente
+[00:06:29:07 --> 00:06:32:07] até um pouco desmotivado quando a gente enxerga isso.
+[00:06:33:27 --> 00:06:38:16] A segunda estratégia, que também é muito boa, é muito importante, é o tráfego pago.
+[00:06:38:22 --> 00:06:42:14] Ele é muito poderoso porque ele é muito bom para você validar a oferta.
+[00:06:43:07 --> 00:06:46:10] Você permite você testar vários criativos, fazer teste A e B.
+[00:06:46:16 --> 00:06:52:13] Então você tem duas ofertas diferentes rodando, você consegue ver ali na unha, na planilha,
+[00:06:52:13 --> 00:06:54:13] quanto você está gastando, qual estão clicando mais.
+[00:06:55:06 --> 00:06:58:18] Então permite você validar o perfil de cliente e oferta.
+[00:06:58:26 --> 00:07:02:03] Você consegue testar esses criativos, mensagens, segmentações.
+[00:07:02:03 --> 00:07:04:03] ajuda a escalar muito rápido
+[00:07:04:03 --> 00:07:05:27] quando você já tem uma oferta validada
+[00:07:05:27 --> 00:07:07:27] mas também tem os seus desafios
+[00:07:07:27 --> 00:07:09:12] então ele exige investimento
+[00:07:09:12 --> 00:07:12:04] então não adianta colocar 50 reais em um anúncio hoje
+[00:07:12:04 --> 00:07:13:04] e esperar um cliente amanhã
+[00:07:13:04 --> 00:07:14:23] você sempre vai precisar
+[00:07:15:09 --> 00:07:18:01] é uma estratégia mais de médio
+[00:07:18:01 --> 00:07:18:28] longo prazo, porque
+[00:07:19:19 --> 00:07:21:17] as primeiras semanas são de teste
+[00:07:21:17 --> 00:07:24:10] de aprendizado, você vai perder um pouco de dinheiro
+[00:07:24:10 --> 00:07:25:04] então
+[00:07:25:04 --> 00:07:26:21] é uma estratégia interessante
+[00:07:26:21 --> 00:07:29:23] é uma das estratégias boas para começar
+[00:07:29:23 --> 00:07:31:19] se você já tiver conhecimento técnico
+[00:07:31:19 --> 00:07:33:22] e já tiver na cabeça a ideia que
+[00:07:33:22 --> 00:07:36:01] muitas vezes você vai gastar um pouco de dinheiro
+[00:07:36:01 --> 00:07:36:15] no começo
+[00:07:36:15 --> 00:07:40:02] até você entender como fazer isso
+[00:07:40:02 --> 00:07:41:24] até você achar o criativo
+[00:07:41:24 --> 00:07:43:14] até você achar a mensagem correta
+[00:07:43:14 --> 00:07:45:25] e exige um conhecimento técnico
+[00:07:45:25 --> 00:07:47:22] você tem que saber CAC, ROE, CPA
+[00:07:48:24 --> 00:07:49:25] CTR, ROAS
+[00:07:49:25 --> 00:07:51:25] CPL, eu sei que isso tudo
+[00:07:51:25 --> 00:07:53:19] parece uma sopa de letrinhas que eu estou falando
+[00:07:54:13 --> 00:07:55:23] na verdade nem é tão difícil
+[00:07:55:23 --> 00:07:58:00] assim, é algo que aos poucos
+[00:07:58:00 --> 00:07:59:11] você vai aprendendo, é algo que vem
+[00:07:59:11 --> 00:08:01:27] vem com estudo assim, você vai entendendo o que é cada uma dessas coisas,
+[00:08:02:13 --> 00:08:05:18] mas precisa de tempo e precisa de disposição para aprender.
+[00:08:06:13 --> 00:08:10:25] Ou seja, o tráfego pago é incrível quando você já tem a clareza do seu perfil de cliente,
+[00:08:10:25 --> 00:08:14:19] quando você já tem clareza da sua oferta, você já validou isso, já validou a sua venda,
+[00:08:15:04 --> 00:08:18:12] mas se você ainda está construindo isso, você ainda está meio confuso,
+[00:08:18:14 --> 00:08:22:13] vai virar um gasto sem muito retorno e muitas das empresas que eu trabalho,
+[00:08:22:21 --> 00:08:25:10] não é só a gente, não é só nós criativos que temos problemas com isso,
+[00:08:25:10 --> 00:08:27:19] Muitas das empresas que eu trabalho, elas chegaram meio que,
+[00:08:28:07 --> 00:08:30:28] poxa, já coloquei muito em performance, já coloquei muito dinheiro ali,
+[00:08:31:00 --> 00:08:34:21] e chegou num teto, chegou num limite assim, que eu não tenho mais retorno.
+[00:08:34:27 --> 00:08:37:13] E muitas vezes por causa disso, a oferta dela não funciona mais,
+[00:08:37:19 --> 00:08:41:16] o perfil ideal de cliente deles mudou, tem que precisar de alguma outra mudança,
+[00:08:41:18 --> 00:08:44:23] que não é simplesmente aumentar o investimento em anúncios.
+[00:08:45:26 --> 00:08:49:10] Então, os anúncios funcionam muito bem, se o carro já está andando na direção certa,
+[00:08:49:16 --> 00:08:52:24] mas o GPS está quebrado, você vai perder tempo e dinheiro.
+[00:08:54:01 --> 00:08:59:18] Então aqui vamos para a sua rede, que eu acredito que seja a parte mais importante
+[00:09:00:06 --> 00:09:02:23] e é onde realmente importa para a gente começar,
+[00:09:03:11 --> 00:09:06:28] porque a rede de contatos é o ponto de partida porque são pessoas que já confiam em você.
+[00:09:08:25 --> 00:09:12:12] Aqui, a gente começaria por listar todos os seus contatos,
+[00:09:12:15 --> 00:09:15:20] ex-clientes, amigos, parceiros, professores, colegas de faculdade,
+[00:09:16:09 --> 00:09:17:24] seguidores que interagem com você.
+[00:09:18:03 --> 00:09:21:01] Então, são pessoas que já têm um contexto sobre quem você é,
+[00:09:21:18 --> 00:09:23:05] só que tem uma armadilha aqui,
+[00:09:23:24 --> 00:09:26:09] que é não sair pedindo indicação de qualquer jeito
+[00:09:26:09 --> 00:09:29:04] para qualquer pessoa que você tem nessa rede de contatos,
+[00:09:29:07 --> 00:09:31:04] principalmente pessoas que você não fala há um tempo.
+[00:09:31:10 --> 00:09:35:19] É importante você criar essa conexão novamente,
+[00:09:35:27 --> 00:09:38:00] você retomar esse contato.
+[00:09:38:00 --> 00:09:39:27] já aconteceu muito comigo quando
+[00:09:40:12 --> 00:09:42:05] bati o desespero, tava sem cliente
+[00:09:42:05 --> 00:09:43:13] eu ia e mandava mensagem pra um monte de gente
+[00:09:43:13 --> 00:09:45:28] e aí tinha pessoas que eu gostava muito, alguns amigos
+[00:09:45:28 --> 00:09:47:17] até algumas pessoas que eram meio próximas
+[00:09:47:17 --> 00:09:49:00] mas que eu não falava há um tempo
+[00:09:49:00 --> 00:09:51:24] e aí eu mandei até pra um amigo e ele falou
+[00:09:51:24 --> 00:09:53:09] poxa, você só
+[00:09:54:07 --> 00:09:55:15] lembrou de mim por causa disso
+[00:09:55:15 --> 00:09:57:07] isso é meio chato
+[00:09:57:07 --> 00:09:59:19] com pessoas que são muito próximas, você tá ali no bar
+[00:09:59:19 --> 00:10:01:08] no restaurante, você sempre fala direto
+[00:10:01:08 --> 00:10:03:10] você tá sempre saindo com essa pessoa, não tem problema
+[00:10:03:10 --> 00:10:05:18] pô, eu tô precisando de, tô fazendo tal coisa
+[00:10:05:18 --> 00:10:07:22] agora, você conhece
+[00:10:07:22 --> 00:10:09:18] alguém que tem esse problema, que precisa resolver,
+[00:10:10:01 --> 00:10:11:18] uma pessoa, um amigo seu que trabalha numa
+[00:10:11:18 --> 00:10:12:22] empresa que possa ser,
+[00:10:13:15 --> 00:10:15:13] que tem um perfil ideal que ele atende, sabe?
+[00:10:15:25 --> 00:10:17:18] Mas se é alguém com quem você não fala há muito
+[00:10:17:18 --> 00:10:19:17] tempo, não fala há anos, mas você tem ali na
+[00:10:19:17 --> 00:10:21:22] rede social, você tem ali no seu WhatsApp, no seu Instagram,
+[00:10:22:13 --> 00:10:23:18] não faz sentido você mandar
+[00:10:23:18 --> 00:10:25:14] uma mensagem do nada, pedindo
+[00:10:25:14 --> 00:10:27:15] indicação. Isso é
+[00:10:27:15 --> 00:10:28:18] chato, né? Uma
+[00:10:29:19 --> 00:10:31:15] pessoa que só está querendo ganhar vantagem
+[00:10:31:15 --> 00:10:33:06] de algum jeito, uma pessoa muito oportunista, né?
+[00:10:33:19 --> 00:10:35:12] Então tem aqui embaixo, que eu até coloquei uma
+[00:10:35:12 --> 00:10:37:14] abordagem que eu costumo utilizar,
+[00:10:38:01 --> 00:10:40:07] que é reconhecer, elogiar e perguntar.
+[00:10:40:12 --> 00:10:43:07] Então, reconhecer é mostrar que você está acompanhando a pessoa de algum jeito,
+[00:10:43:12 --> 00:10:46:02] mas tem que ser genuíno, tá, gente? Não vai ser falsão.
+[00:10:46:09 --> 00:10:50:11] Um exemplo é, não sei, você viu um story da pessoa que ela se formou recentemente
+[00:10:50:11 --> 00:10:53:19] ou fez uma pós-graduação, você pode mandar um parabéns pela conquista.
+[00:10:53:22 --> 00:10:56:09] Você começa aos poucos a retomar esse contato, né?
+[00:10:56:16 --> 00:10:59:25] Ah, vi nos stories, você está viajando bastante, você deve estar numa fase legal.
+[00:11:00:19 --> 00:11:03:27] Vi que sua empresa participou daquele evento na semana passada, como que foi.
+[00:11:04:10 --> 00:11:05:25] Puxa um papo, puxa conversa.
+[00:11:06:19 --> 00:11:08:15] se tiver algum argumento
+[00:11:08:15 --> 00:11:10:06] meio para a área comercial, assim
+[00:11:10:06 --> 00:11:11:27] meio para a área de negócios, melhor ainda, né
+[00:11:11:27 --> 00:11:13:15] porque já é mais fácil fazer essa transição
+[00:11:14:03 --> 00:11:15:28] mas não tenta ser falsão
+[00:11:15:28 --> 00:11:17:22] e não tenta já chegar logo de cara assim
+[00:11:17:22 --> 00:11:19:22] preciso de cliente, faço design, indico alguém
+[00:11:19:22 --> 00:11:21:27] sabe, porque isso é meio chato
+[00:11:22:22 --> 00:11:23:03] e
+[00:11:23:28 --> 00:11:26:08] depois a gente vai para o elogio, né, valoriza essa conquista
+[00:11:26:08 --> 00:11:27:21] valoriza o que a pessoa está fazendo, né
+[00:11:27:21 --> 00:11:29:27] ah, que legal, serve dedicado
+[00:11:29:27 --> 00:11:32:06] não me surpreende que você está crescendo tanto
+[00:11:32:26 --> 00:11:34:02] ah, que legal
+[00:11:34:02 --> 00:11:36:07] que você ganhou tal prêmio, lembra do quanto você batalhou
+[00:11:36:07 --> 00:11:38:12] pra chegar até aqui, fala alguma coisa do tipo
+[00:11:39:04 --> 00:11:40:17] ah, eu admiro a sua disciplina
+[00:11:40:17 --> 00:11:41:18] como que você faz tal coisa
+[00:11:42:07 --> 00:11:44:11] ah, a estética do seu feed, da sua
+[00:11:44:11 --> 00:11:46:13] marca tá muito legal, quem que tá fazendo
+[00:11:46:13 --> 00:11:47:17] o seu marketing, quem que tá fazendo
+[00:11:47:17 --> 00:11:50:00] suas redes sociais, então
+[00:11:50:00 --> 00:11:52:12] tenta trazer algum elogio, algum reconhecimento
+[00:11:52:12 --> 00:11:53:24] primeiro, e só depois
+[00:11:54:11 --> 00:11:55:16] só depois de conectar
+[00:11:56:05 --> 00:11:58:03] só depois de retomar esse contato
+[00:11:58:03 --> 00:12:00:09] que é bom você perguntar e conectar
+[00:12:00:09 --> 00:12:02:13] tentar conectar o que você tá falando com a dor
+[00:12:02:13 --> 00:12:04:09] que você resolve. Então, lógico, essa
+[00:12:04:09 --> 00:12:04:18] rede
+[00:12:06:29 --> 00:12:08:17] mais próxima, mais quente, você já pode
+[00:12:08:17 --> 00:12:10:13] ir direto pedir contato. Agora, essas pessoas
+[00:12:10:13 --> 00:12:12:13] que você não fala há muito tempo, você tem
+[00:12:12:13 --> 00:12:14:04] que fazer esse processo. Pode demorar alguns dias,
+[00:12:14:07 --> 00:12:16:16] não tem problema. O mais importante é você
+[00:12:16:16 --> 00:12:18:12] retomar esse contato. E aí você pode
+[00:12:18:12 --> 00:12:19:28] perguntar. Aliás, você tem sentido
+[00:12:19:28 --> 00:12:21:27] dificuldade em atrair os clientes certos?
+[00:12:22:15 --> 00:12:24:13] Vocês já estão pensando em expandir, crescer
+[00:12:24:13 --> 00:12:26:15] com a empresa? Está sendo tranquilo
+[00:12:26:15 --> 00:12:28:16] lidar com esse crescimento? Você já tem
+[00:12:28:16 --> 00:12:30:23] alguém ajudando você com a área específica
+[00:12:30:23 --> 00:12:32:06] que você trabalha ou da sua oferta?
+[00:12:32:13 --> 00:12:50:00] Então aí depois que você vem para a pergunta, você pode perguntar se essa pessoa, se a empresa que ela trabalha ou se a própria empresa dela, eles estão precisando dessa ajuda ou se ela conhece alguém, algum amigo dela ou alguém dentro da empresa dela que seja relacionado com essa oferta que ela pode indicar.
+[00:12:51:17 --> 00:12:54:10] O importante aqui, gente, como eu falei, tudo não é só a venda,
+[00:12:54:10 --> 00:13:00:04] mas também essas indicações, essas pessoas que você vai criar parcerias depois,
+[00:13:00:25 --> 00:13:02:08] são conexão, é relacionamento.
+[00:13:02:11 --> 00:13:05:20] Então tem que criar essa conexão mais genuína antes de falar do seu serviço.
+[00:13:05:29 --> 00:13:07:23] É um relacionamento, não é atalho.
+[00:13:08:06 --> 00:13:11:21] Se você identificar que é uma pessoa que já abriu portas para você antes,
+[00:13:11:24 --> 00:13:13:22] que já fez essas conexões antes, não tem problema.
+[00:13:13:24 --> 00:13:15:17] Chega e já pergunta, mesmo que faça muito tempo.
+[00:13:15:22 --> 00:13:18:17] Ela já sabe que você tem essa abordagem mais comercial.
+[00:13:18:29 --> 00:13:21:13] Mas são aqueles amigos, aqueles conhecidos que você tem,
+[00:13:21:17 --> 00:13:23:26] que muitas vezes nem sabe o que você faz,
+[00:13:23:27 --> 00:13:24:22] você nunca falou disso,
+[00:13:25:07 --> 00:13:27:14] aí você faz esse processo de reconhecer,
+[00:13:27:14 --> 00:13:28:11] elogiar e perguntar,
+[00:13:28:11 --> 00:13:30:13] só depois que você manda o seu portfólio,
+[00:13:30:15 --> 00:13:31:17] que você fala da sua oferta,
+[00:13:31:18 --> 00:13:33:04] que você fala do problema que você resolve,
+[00:13:33:24 --> 00:13:34:22] e aí você conecta,
+[00:13:35:16 --> 00:13:37:22] você pode até usar a equação de valor ali,
+[00:13:37:23 --> 00:13:39:16] você pode mandar uma mensagem que,
+[00:13:39:19 --> 00:13:43:04] olha, estou ajudando empreendedores ou pessoas a,
+[00:13:43:08 --> 00:13:45:08] você coloca aquele sonho específico,
+[00:13:45:22 --> 00:13:46:26] a fazer tal coisa,
+[00:13:46:29 --> 00:13:49:06] e você coloca a sua objeção,
+[00:13:49:06 --> 00:13:50:05] o seu produto, a sua dor,
+[00:13:50:05 --> 00:13:51:26] a dor que você resolve nessa mensagem
+[00:13:51:26 --> 00:13:54:01] tem um script depois que eu vou mandar pra vocês
+[00:13:54:01 --> 00:13:56:16] que vocês podem usar pra isso, mas o mais importante
+[00:13:57:04 --> 00:13:58:14] porque eu parei tanto tempo aqui
+[00:13:58:14 --> 00:14:00:04] é pra vocês não queimarem pontes
+[00:14:00:04 --> 00:14:02:15] pra vocês não serem aquele chatão que só aparece pra perguntar
+[00:14:02:15 --> 00:14:04:10] pedir contato, pedir coisas
+[00:14:04:10 --> 00:14:06:02] que é chato
+[00:14:06:02 --> 00:14:07:28] eu tenho amigos que são assim
+[00:14:08:29 --> 00:14:10:10] pessoas que só aparecem
+[00:14:10:10 --> 00:14:11:21] quando vão pedir alguma coisa e
+[00:14:11:21 --> 00:14:12:25] a gente sempre
+[00:14:14:12 --> 00:14:15:26] às vezes a gente ajuda
+[00:14:15:26 --> 00:14:18:15] mas depois de um tempo fala, nossa já mandei um monte de contato
+[00:14:18:15 --> 00:14:19:23] pra você, já fiz tudo que eu podia
+[00:14:19:23 --> 00:14:21:20] dia, né? Parece meio chato
+[00:14:21:20 --> 00:14:23:25] você já chegar pedindo isso logo de cara, né?
+[00:14:24:20 --> 00:14:25:04] Então,
+[00:14:25:29 --> 00:14:27:22] voltando aqui, vou falar
+[00:14:27:22 --> 00:14:29:19] da lista. Pensem nos seus
+[00:14:29:19 --> 00:14:31:14] clientes, leads antigos, amigos com negócio,
+[00:14:31:17 --> 00:14:33:19] parceiros, colegas de profissão,
+[00:14:33:19 --> 00:14:35:15] colegas de faculdade, professores, mentores,
+[00:14:35:20 --> 00:14:37:19] seguidores que interagem para fazer
+[00:14:37:19 --> 00:14:39:17] sua lista. E aqui a gente
+[00:14:39:17 --> 00:14:41:16] vai, eu gostaria de fazer um exercício
+[00:14:41:16 --> 00:14:43:13] prático com vocês aqui. Então,
+[00:14:43:28 --> 00:14:45:08] vou dar um minuto aí para
+[00:14:45:27 --> 00:14:47:11] pega o Notion que vocês
+[00:14:47:11 --> 00:14:49:12] tiverem, o CRM, o bloco de notas,
+[00:14:49:12 --> 00:14:51:05] uma planilha, abra algum lugar aí que vocês
+[00:14:51:05 --> 00:14:53:01] podem anotar, porque
+[00:14:53:01 --> 00:14:55:02] eu vou dar uns 15 minutos aqui pra gente
+[00:14:55:02 --> 00:14:56:10] tentar anotar uns 20 nomes
+[00:14:56:29 --> 00:14:59:05] vou abrir aqui meio pra dúvidas também, se vocês
+[00:14:59:05 --> 00:15:01:08] tiverem, quiserem perguntar alguma coisa, mas eu gostaria
+[00:15:01:08 --> 00:15:03:02] que vocês abrissem, pelo menos uma
+[00:15:03:02 --> 00:15:04:03] planilha aí, alguma coisa
+[00:15:04:27 --> 00:15:07:05] anota no papel, qualquer lugar, não precisa ser
+[00:15:07:05 --> 00:15:09:01] um CRM mesmo, pra gente
+[00:15:09:01 --> 00:15:11:05] colocar esses nomes e sem filtro nenhum
+[00:15:11:05 --> 00:15:12:13] depois a gente vai refinar
+[00:15:12:13 --> 00:15:15:00] e eu vou fazer algumas perguntas pra destravar, ajudar
+[00:15:15:00 --> 00:15:17:01] vocês a destravar essa memória e pensar
+[00:15:17:01 --> 00:15:18:21] nessas pessoas, mesmo que você fale
+[00:15:18:21 --> 00:15:22:20] Vini, eu não tenho ninguém, eu não tenho a rede, eu não faço network, eu sou péssimo nisso.
+[00:15:22:26 --> 00:15:25:17] Eu tenho certeza que fazendo algumas perguntas aqui que eu vou fazer para vocês,
+[00:15:25:18 --> 00:15:31:07] vocês vão ter uma ideia, vai destravar um pouquinho desses nomes para a gente começar a criar essa lista.
+[00:15:31:20 --> 00:15:37:26] Mas eu queria fazer algumas perguntas, peguem lápis e papel, peguem CRM, playlist, planilha,
+[00:15:38:10 --> 00:15:42:15] notion, o que estiver aberto aí, para pensar assim, primeiro tem algumas perguntas aqui.
+[00:15:42:27 --> 00:15:45:17] que quem que já comprou de você antes, sabe,
+[00:15:45:20 --> 00:15:47:16] é um cliente às vezes antigo,
+[00:15:47:16 --> 00:15:49:07] que faz tempo que não fecha com você,
+[00:15:49:25 --> 00:15:51:28] dá uma olhada, olha a rede social dele, sabe,
+[00:15:51:29 --> 00:15:53:16] olha o site dele, vai que ele cresceu,
+[00:15:53:17 --> 00:15:54:12] vai que ele está melhor agora.
+[00:15:55:10 --> 00:15:57:11] Pensa também em quem já pediu orçamento para você
+[00:15:57:11 --> 00:15:58:15] e não fechou, sabe,
+[00:15:58:16 --> 00:15:59:25] antigos clientes que vieram,
+[00:16:00:11 --> 00:16:02:23] pessoas que pareciam estar dentro do seu perfil ideal de cliente,
+[00:16:02:23 --> 00:16:03:29] você mandou a proposta e sumiu,
+[00:16:04:11 --> 00:16:05:21] coloca o nome dessa pessoa também.
+[00:16:06:08 --> 00:16:07:18] Quem você já conhece,
+[00:16:07:18 --> 00:16:08:18] que tem uma empresa própria,
+[00:16:08:25 --> 00:16:09:19] ou que está abrindo empresa,
+[00:16:09:19 --> 00:16:14:11] empresa ou que você viu que segue perfis de empreendedorismo que segue perfis de negócios
+[00:16:14:11 --> 00:16:20:22] você pode também usar muitas redes sociais no Instagram como um basicamente um termômetro
+[00:16:20:22 --> 00:16:27:00] olha quem segue é não sei pensa um influenciador do seu nicho dá uma olhada entra ali e vê quem
+[00:16:27:00 --> 00:16:34:04] que pessoas que estão seguindo ela da sua rede é quem você conhece que já indicou seu trabalho sabe
+[00:16:34:04 --> 00:16:39:14] que já elogiou seu trabalho já tá sempre comentando também tá sempre elogiando o seu trabalho as
+[00:16:39:14 --> 00:16:41:01] As pessoas também podem ser uma porta de entrada.
+[00:16:41:23 --> 00:16:45:02] Quem são ex-chefes, professores, colegas de trabalho,
+[00:16:46:05 --> 00:16:48:18] principalmente gente, não sei, você fez faculdade,
+[00:16:49:08 --> 00:16:51:11] ex-mentores, pessoas que já abriram portas para você.
+[00:16:51:19 --> 00:16:52:29] Tenta colocar esses nomes também.
+[00:16:53:15 --> 00:16:55:13] Quem você já ajudou de graça, sabe?
+[00:16:55:13 --> 00:16:57:10] Às vezes você fez alguma coisa de graça para essa pessoa
+[00:16:57:10 --> 00:16:57:29] ou fez um favor.
+[00:16:58:18 --> 00:17:00:07] Essa pessoa também pode te conectar.
+[00:17:00:07 --> 00:17:01:17] Talvez ela não seja o cliente ideal,
+[00:17:01:20 --> 00:17:04:07] mas talvez ela possa pensar em alguém que pode te ajudar.
+[00:17:05:20 --> 00:17:07:20] Pensa em empresas também que você conhece,
+[00:17:07:21 --> 00:17:09:06] pessoas que trabalham nessas empresas,
+[00:17:09:14 --> 00:17:11:26] que podem estar, às vezes, em fase de expansão,
+[00:17:11:29 --> 00:17:14:03] abrir uma filial, estar contratando pessoas.
+[00:17:14:15 --> 00:17:17:04] Tem algum amigo lá que sempre está postando vaga de emprego
+[00:17:17:04 --> 00:17:20:10] ou que está sempre precisando de alguém.
+[00:17:20:17 --> 00:17:21:22] Não precisa nem ser do marketing,
+[00:17:21:25 --> 00:17:23:19] não precisa nem ser de design de comunicação,
+[00:17:23:24 --> 00:17:25:14] mas você está vendo que a empresa está crescendo.
+[00:17:25:19 --> 00:17:27:02] Pode ser um nome interessante também.
+[00:17:27:10 --> 00:17:28:16] Às vezes, ele não conhece.
+[00:17:28:16 --> 00:17:31:04] Essa empresa, especificamente, não é do mercado
+[00:17:31:04 --> 00:17:33:03] que você quer atender ou nem é o perfil ideal,
+[00:17:33:08 --> 00:17:35:10] mas, às vezes, ele atende alguém que seja.
+[00:17:36:22 --> 00:17:38:08] Tem muita demanda reprimida, gente.
+[00:17:38:11 --> 00:17:41:09] Então, a ideia aqui, esse exercício, não é filtrar.
+[00:17:41:23 --> 00:17:44:04] Pensa no primeiro nome que vier e vai notando.
+[00:17:44:29 --> 00:17:49:14] E pensa também quem você está postando sobre negócios.
+[00:17:49:17 --> 00:17:52:10] Às vezes, alguém que está postando sobre empreender,
+[00:17:52:23 --> 00:17:53:21] sobre abrir um negócio.
+[00:17:54:08 --> 00:17:55:28] Pode ser no LinkedIn, pode ser no Instagram.
+[00:17:56:29 --> 00:17:58:27] Quem já te chamou para pedir um conselho, às vezes,
+[00:17:58:27 --> 00:18:01:02] para conversar de carreira, para conversar...
+[00:18:01:02 --> 00:18:03:21] Às vezes, você trabalha com design, você trabalha com criação.
+[00:18:03:22 --> 00:18:05:16] Que legal, que interessante como que funciona.
+[00:18:05:16 --> 00:18:08:07] essa pessoa, às vezes, pode ter algum contato também
+[00:18:08:07 --> 00:18:09:10] que pode te indicar.
+[00:18:10:09 --> 00:18:13:02] Quem você conhece que trabalha em empresas do nicho também,
+[00:18:13:06 --> 00:18:14:08] mesmo que não seja dono,
+[00:18:14:08 --> 00:18:16:14] pensa num nicho que você está procurando.
+[00:18:17:01 --> 00:18:18:23] O LinkedIn ajuda muito com isso também.
+[00:18:19:16 --> 00:18:21:24] Ele é muito dedo duro, ele abre toda hora.
+[00:18:23:02 --> 00:18:24:26] Coloca o WhatsApp, coloca os seus contatos,
+[00:18:25:08 --> 00:18:26:05] sincroniza com a sua agenda.
+[00:18:26:18 --> 00:18:28:15] Uma vez eu fiz isso e eu vi lá que tinha...
+[00:18:28:15 --> 00:18:30:00] Eu tenho poucos contatos no LinkedIn,
+[00:18:30:03 --> 00:18:31:11] não há uma rede que eu estou usando muito.
+[00:18:31:15 --> 00:18:33:02] Eu vou usar mais porque ela é muito boa.
+[00:18:33:02 --> 00:18:36:03] e ali já é um lugar para falar de negócio.
+[00:18:38:11 --> 00:18:41:20] A ideia é que todo mundo já tem um poder aquisitivo maior do que no Instagram.
+[00:18:43:05 --> 00:18:46:08] Então, eu abri, acho que era a minha agenda do Gmail,
+[00:18:46:13 --> 00:18:47:29] inclusive, que é um Gmail que eu tenho há muitos anos.
+[00:18:48:06 --> 00:18:49:27] E eu vi que eu tinha 900 contatos ali
+[00:18:50:14 --> 00:18:52:29] de pessoas que receberam um e-mail, receberam uma mensagem.
+[00:18:53:03 --> 00:18:55:02] Então, dei uma olhada nessa parte do LinkedIn.
+[00:18:57:15 --> 00:19:01:00] E depois, uma coisa que dá para a gente fazer é pensar...
+[00:19:02:03 --> 00:19:04:00] Lembra as pessoas que já te apresentaram para outras pessoas.
+[00:19:04:04 --> 00:19:05:21] Lembra essas pessoas que são conectores.
+[00:19:05:23 --> 00:19:07:00] Como a Carol falou que é legal.
+[00:19:07:11 --> 00:19:09:12] Pensa essas pessoas que podem ser pontes.
+[00:19:09:18 --> 00:19:11:22] Para levar você para outros lugares.
+[00:19:11:28 --> 00:19:13:27] Ela não precisa ser o seu perfil ideal de cliente.
+[00:19:13:28 --> 00:19:16:16] Mas ela pode ser uma pessoa que você vai trazer valor de algum jeito.
+[00:19:16:17 --> 00:19:17:03] Vai te ajudar.
+[00:19:17:10 --> 00:19:20:04] E ela vai conectar você a alguns clientes.
+[00:19:20:04 --> 00:19:21:21] E você vai conectar alguns clientes para ela também.
+[00:19:23:14 --> 00:19:26:03] Pensa nas pessoas que, não sei, interagiram com seus conteúdos,
+[00:19:26:03 --> 00:19:27:26] estão sempre curtindo, sempre respondendo seus stories.
+[00:19:28:05 --> 00:19:31:13] Ou pessoas que você admira, que poderiam abrir portas,
+[00:19:31:13 --> 00:19:35:14] que às vezes não é seu cliente ideal, mas pode levar você até seu cliente.
+[00:19:36:23 --> 00:19:37:29] Pensa na sua família também.
+[00:19:38:03 --> 00:19:40:14] Quem da sua família tem empresa, ou está mudando de área,
+[00:19:40:21 --> 00:19:43:00] ou está procurando emprego, ou mudando de cidade,
+[00:19:43:09 --> 00:19:44:10] precisa de reposicionamento.
+[00:19:45:12 --> 00:19:48:29] Amigos e familiares conhecem empresários que poderiam te apresentar.
+[00:19:50:17 --> 00:19:51:20] Vai fazendo esse exercício.
+[00:19:51:22 --> 00:19:54:01] Depois eu vou mandar todas essas perguntas para vocês também.
+[00:19:54:05 --> 00:19:55:21] Para vocês fazerem esse exercício de novo.
+[00:19:56:03 --> 00:19:59:02] Mas a ideia principal aqui é começar a escrever nomes.
+[00:19:59:02 --> 00:20:00:03] Pessoas que vêm na cabeça.
+[00:20:00:27 --> 00:20:01:20] Não filtra.
+[00:20:02:02 --> 00:20:04:01] É só para você começar a criar uma lista.
+[00:20:04:10 --> 00:20:06:01] Se você tiver uns 10 nomes, é legal.
+[00:20:06:07 --> 00:20:09:28] Quando eu fui fazer isso, na verdade, até dois exercícios que eu peguei,
+[00:20:09:29 --> 00:20:11:01] eu falava para escrever 100 nomes.
+[00:20:11:05 --> 00:20:11:26] Eu sei que é difícil.
+[00:20:12:05 --> 00:20:13:08] 100 nomes é muita coisa.
+[00:20:13:15 --> 00:20:15:27] Mas fazendo essas perguntas aqui, eu cheguei muito perto disso.
+[00:20:16:12 --> 00:20:19:23] Eu fui colocando pessoas que eu não falava há muito tempo.
+[00:20:19:23 --> 00:20:21:09] pessoas de época de
+[00:20:22:18 --> 00:20:23:29] trabalho, eu cheguei muito perto
+[00:20:23:29 --> 00:20:25:19] cheguei em 86, 87
+[00:20:26:01 --> 00:20:28:02] se não me engano, que é a primeira vez
+[00:20:28:02 --> 00:20:29:22] que eu fui fazer isso, não tô falando de agora, tô falando
+[00:20:30:08 --> 00:20:31:24] foi uns 4 anos atrás que eu
+[00:20:31:24 --> 00:20:33:28] foi na pandemia inclusive, que eu me vi tipo precisando
+[00:20:33:28 --> 00:20:35:27] de dinheiro, daí eu falei, deixa eu fazer esse exercício aqui
+[00:20:35:27 --> 00:20:37:09] e ver se vai funcionar
+[00:20:37:09 --> 00:20:39:27] e funcionou, eu falei com pessoas que eu não entrava
+[00:20:39:27 --> 00:20:42:01] em contato há muito tempo e que ajudou bastante
+[00:20:42:13 --> 00:20:43:26] mas aí tem os amigos, seus amigos
+[00:20:43:26 --> 00:20:45:28] os amigos, os amigos deles, e aí você vê
+[00:20:45:28 --> 00:20:47:16] que você tem uma rede muito grande
+[00:20:47:16 --> 00:20:49:11] que dá pra você entrar em contato
+[00:20:49:11 --> 00:20:51:07] e olha ali, às vezes você tem seguidores
+[00:20:51:07 --> 00:20:52:28] ali que você nem sabe
+[00:20:52:28 --> 00:20:54:17] que pode ser um bom contato
+[00:20:54:17 --> 00:20:56:20] e ele vai te ajudar, porque agora eu quero falar
+[00:20:56:20 --> 00:20:58:15] da busca ativa, da prospecção fria
+[00:20:58:15 --> 00:21:00:20] então se você acha que sua rede
+[00:21:00:20 --> 00:21:03:00] tá muito ruim, tá muito desalinhada
+[00:21:03:00 --> 00:21:04:17] que você tem
+[00:21:05:05 --> 00:21:06:29] dois ou três amigos só, igual eu
+[00:21:08:10 --> 00:21:09:06] não fiquem
+[00:21:09:06 --> 00:21:11:00] tranquilos que a gente vai ter uma outra opção aqui
+[00:21:11:14 --> 00:21:12:23] que é a busca ativa
+[00:21:12:23 --> 00:21:13:24] que é a prospecção fria
+[00:21:15:15 --> 00:21:19:05] Então, agora que vocês já ativaram essa rede mais quente, que é a rede de contatos,
+[00:21:19:07 --> 00:21:22:02] o próprio networking, vamos falar dessa prospecção fria.
+[00:21:22:15 --> 00:21:27:00] E ela sempre começa do mesmo jeito que a gente acabou de fazer, que é construir uma lista.
+[00:21:27:11 --> 00:21:29:01] Sem lista não tem prospecção.
+[00:21:29:20 --> 00:21:36:20] E tem umas vantagens de ter essa lista e vantagens de fazer essa prospecção fria.
+[00:21:38:08 --> 00:21:42:07] É começar gratuitamente, você não precisa gastar nada, você só vai gastar o seu tempo.
+[00:21:43:18 --> 00:21:45:20] tem uma alta precisão também, você escolhe a dedo
+[00:21:45:20 --> 00:21:47:20] quem você vai abordar, então você que faz a qualificação
+[00:21:47:20 --> 00:21:49:12] muitas vezes, e você consegue
+[00:21:49:12 --> 00:21:51:23] sistematizar, terceirizar
+[00:21:51:23 --> 00:21:53:18] até depois que você entendeu como
+[00:21:53:18 --> 00:21:55:16] é o processo de venda, você consegue contratar alguém
+[00:21:55:16 --> 00:21:57:23] e falar, nossa Vini, eu sou realmente muito ruim
+[00:21:57:23 --> 00:21:59:21] para isso, mas é bom você fazer
+[00:21:59:21 --> 00:22:01:18] você ver como funciona, ver
+[00:22:01:18 --> 00:22:03:19] o que está, quais
+[00:22:03:19 --> 00:22:05:19] são as objeções, os problemas que você está encontrando
+[00:22:06:10 --> 00:22:06:22] e
+[00:22:07:23 --> 00:22:09:21] depois que você terceiriza, e você
+[00:22:09:21 --> 00:22:11:05] pode até automatizar mais para frente
+[00:22:11:05 --> 00:22:13:17] algumas partes disso, de mensagens,
+[00:22:13:18 --> 00:22:15:03] de e-mails, criar um
+[00:22:15:19 --> 00:22:17:20] fluxo de mensagens assim, para você
+[00:22:17:20 --> 00:22:18:27] trazer essa previsibilidade.
+[00:22:19:06 --> 00:22:21:12] E uma outra coisa interessante é que é algo privado,
+[00:22:21:13 --> 00:22:23:05] é algo que você está fazendo muitas vezes
+[00:22:23:24 --> 00:22:25:00] nos bastidores, então
+[00:22:25:00 --> 00:22:27:10] muitos concorrentes não vão ver, não vão entender essa
+[00:22:27:10 --> 00:22:28:26] estratégia, então eles não vão conseguir
+[00:22:29:11 --> 00:22:31:12] copiar também. E onde a gente pode
+[00:22:31:12 --> 00:22:33:15] começar? Então, tem a sua
+[00:22:33:15 --> 00:22:35:11] própria rede, a gente acabou de fazer esse exercício,
+[00:22:35:13 --> 00:22:37:09] a gente procura no Google
+[00:22:37:09 --> 00:22:38:28] prêmios, notícias, listas,
+[00:22:38:28 --> 00:22:41:19] LinkedIn, Instagram, vamos buscar por perfis
+[00:22:41:19 --> 00:22:43:13] por empresas, por hashtags do seu nicho
+[00:22:43:13 --> 00:22:45:19] o Instagram é muito bom pra isso
+[00:22:45:19 --> 00:22:47:18] também, porque você consegue ver ali
+[00:22:47:18 --> 00:22:49:18] pessoas em comum, grupos em comum
+[00:22:49:18 --> 00:22:51:22] o LinkedIn tem um pouquinho disso, mas é um pouco
+[00:22:51:22 --> 00:22:53:21] mais limitado, no lado direito tem aquelas
+[00:22:53:21 --> 00:22:55:17] pessoas em comum assim, que ajuda
+[00:22:55:17 --> 00:22:57:17] mas muitas vezes não é tão bom
+[00:22:57:17 --> 00:22:59:11] quanto o Instagram, o Instagram ele costuma indicar
+[00:22:59:11 --> 00:23:00:23] perfis mais parecidos
+[00:23:00:23 --> 00:23:03:11] o Google Maps é outra ferramenta muito boa
+[00:23:03:11 --> 00:23:05:07] principalmente se você trabalha com
+[00:23:05:07 --> 00:23:07:16] empresas locais, porque você consegue
+[00:23:07:16 --> 00:23:09:17] entrar no site, entrar nas redes sociais, você consegue
+[00:23:09:17 --> 00:23:11:21] ver as avaliações, então dá até pra ver
+[00:23:11:21 --> 00:23:12:29] a percepção do público
+[00:23:12:29 --> 00:23:15:09] quanto é referente a essa empresa.
+[00:23:16:05 --> 00:23:17:22] Feiras e eventos são os meus favoritos.
+[00:23:17:27 --> 00:23:19:04] Muitos desses eventos têm
+[00:23:20:03 --> 00:23:21:21] essas feiras têm listas de expositores
+[00:23:21:21 --> 00:23:23:18] online, então você consegue baixar basicamente
+[00:23:23:18 --> 00:23:25:21] um Excel, uma planilha
+[00:23:25:21 --> 00:23:27:06] com todos esses expositores.
+[00:23:27:09 --> 00:23:28:23] Tem o setor da empresa,
+[00:23:29:07 --> 00:23:31:22] tem o site, tem o nome da empresa,
+[00:23:31:25 --> 00:23:33:18] então você já consegue ver muito
+[00:23:33:18 --> 00:23:35:23] bem isso. E essas feiras e eventos
+[00:23:35:23 --> 00:23:37:07] é legal, pega o nicho de vocês,
+[00:23:37:16 --> 00:23:39:20] e coloca assim, se trabalha
+[00:23:39:20 --> 00:23:41:26] com nicho de, não sei, cosméticos,
+[00:23:41:26 --> 00:23:43:24] coloca qual a maior feira de cosméticos
+[00:23:43:24 --> 00:23:45:20] em tal região, ou a maior feira de cosméticos
+[00:23:45:20 --> 00:23:47:16] do Brasil. Então tem a Naturaltech,
+[00:23:47:22 --> 00:23:49:18] tem a Bio Brasil, já fui em algumas delas.
+[00:23:50:06 --> 00:23:51:06] Todas elas colocam
+[00:23:52:03 --> 00:23:53:11] as listas expositores
+[00:23:54:25 --> 00:23:55:22] abertas. Se não
+[00:23:55:22 --> 00:23:57:12] colocar, vai no Instagram, vai na rede social
+[00:23:57:12 --> 00:23:59:23] dessas empresas, vê quem está seguindo, vê quem está interagindo,
+[00:23:59:26 --> 00:24:01:21] quem é mais engajado. Muitas vezes
+[00:24:01:21 --> 00:24:03:09] essa pessoa é o seu perfil ideal de cliente também.
+[00:24:04:25 --> 00:24:05:19] Você trabalha, não sei,
+[00:24:05:21 --> 00:24:06:10] com patch, tem
+[00:24:06:10 --> 00:24:11:05] Tem mercado de pet, tem evento de tudo quanto é coisa.
+[00:24:11:07 --> 00:24:13:26] Não precisa ser só evento de negócio, só evento de empreendedorismo,
+[00:24:13:28 --> 00:24:16:03] só evento de marketing ou de criação.
+[00:24:16:12 --> 00:24:23:00] Vai no evento do seu nicho, olha aquele podcast ou aquele youtuber
+[00:24:23:00 --> 00:24:25:24] que é ultra nichado, é uma coisa muito específica.
+[00:24:26:03 --> 00:24:29:20] Então, a gente falou ali da Laura que são produtos infantis,
+[00:24:29:21 --> 00:24:33:05] que une isso, mas une também propósito, sustentabilidade.
+[00:24:33:12 --> 00:24:34:13] Quem que está falando disso?
+[00:24:34:13 --> 00:24:38:07] quem que é a pessoa que fala de produtos infantis sustentáveis, sabe?
+[00:24:38:15 --> 00:24:42:11] Então, acha esse empreendedor, às vezes ele vai ter, empreendedor não, esse criador de conteúdo,
+[00:24:42:20 --> 00:24:46:08] às vezes ele vai ter ali pouquíssimos seguidores, mas se você é uma agência tão qualificada,
+[00:24:46:12 --> 00:24:51:16] que você faz uma parceria com essa pessoa, você vai conseguir clientes ali prontos para comprar de você.
+[00:24:52:06 --> 00:24:56:25] E aí, além dessas buscas mais manuais, a gente também tem algumas ferramentas.
+[00:24:56:26 --> 00:25:00:16] Você pode sempre comprar listas pagas, tem várias empresas que vendem essas listas,
+[00:25:00:16 --> 00:25:02:19] mas você pode usar ferramentas de extração de dados.
+[00:25:02:19 --> 00:25:08:04] dados tem os 9 tem uma pólo tem um Hunter todos eles têm planos gratuitos são bem generosos que
+[00:25:08:04 --> 00:25:13:19] você consegue utilizar eu vou mostrar alguns deles já já e também tem base brasileiras tem a casa dos
+[00:25:13:19 --> 00:25:19:13] dados tem a conodata tem empresas do Brasil você consegue também tem planos pagos nessas empresas
+[00:25:19:13 --> 00:25:24:18] mas você consegue gerar alguns leads a partir dali e também tem uma e a você pode usar e a para você
+[00:25:24:18 --> 00:25:30:08] gerar é tem as específicas de prospecção e também tem você pode utilizar prompt eu vou compartilhar
+[00:25:30:08 --> 00:25:32:07] com vocês um prompt também. O maior
+[00:25:32:07 --> 00:25:33:29] problema de usar prompt pra você fazer
+[00:25:33:29 --> 00:25:35:24] lista é que
+[00:25:37:17 --> 00:25:40:13] tem muitos dados que a IA não consegue acessar.
+[00:25:40:25 --> 00:25:42:05] Principalmente dados como faturamento,
+[00:25:42:25 --> 00:25:44:12] dados como quantidade de funcionários.
+[00:25:45:06 --> 00:25:47:27] Muitas vezes esses dados estão dentro dessas bases,
+[00:25:48:00 --> 00:25:48:27] eles estão mais escondidos.
+[00:25:49:06 --> 00:25:51:03] Então, talvez você tenha que fazer uma pesquisa profunda
+[00:25:51:03 --> 00:25:54:09] e muitas vezes ele vai bater, vai jogar leads para você,
+[00:25:55:22 --> 00:25:56:21] prospects para você,
+[00:25:56:23 --> 00:25:59:18] que não vão ser muito alinhados com o seu perfil de cliente.
+[00:25:59:25 --> 00:26:01:29] Então, a forma que eu uso isso
+[00:26:01:29 --> 00:26:04:13] é uma coisa meio técnica, que se chama proxies.
+[00:26:04:13 --> 00:26:07:00] você cria, em vez de colocar
+[00:26:07:00 --> 00:26:09:03] faturamento até tanto que a IA não vai conseguir
+[00:26:09:03 --> 00:26:10:23] buscar, você coloca, olha, empresas
+[00:26:10:23 --> 00:26:12:20] que tem vagas abertas no LinkedIn
+[00:26:12:20 --> 00:26:14:28] ou empresas que estão procurando vagas
+[00:26:14:28 --> 00:26:16:22] em tal rede social, então
+[00:26:17:08 --> 00:26:18:24] dá para vocês fazerem isso também
+[00:26:18:24 --> 00:26:20:29] vocês criam esses proxys, eu vou compartilhar
+[00:26:20:29 --> 00:26:22:28] um prompt com vocês que já tem
+[00:26:22:28 --> 00:26:24:28] tudo isso, então não se preocupe em fazer isso
+[00:26:24:28 --> 00:26:26:19] agora, mas o que eu queria
+[00:26:27:04 --> 00:26:28:23] mostrar para vocês aqui, algumas
+[00:26:28:23 --> 00:26:29:17] dessas ferramentas
+[00:26:30:24 --> 00:26:36:06] A gente vê uma coisa na prática aqui, como encontrar essas empresas utilizando algumas ferramentas.
+[00:26:36:08 --> 00:26:40:09] Então deixa eu compartilhar aqui de novo o meu navegador.

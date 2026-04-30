@@ -1,0 +1,1102 @@
+# Video: 6._os_simbolo_e_a_escrita (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-28 11:52
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:00 --> 00:00:04:14] Começamos oficialmente a nossa aula sobre os símbolos e a escrita.
+[00:00:04:18 --> 00:00:08:28] E essa daqui é uma aula que vai ser densa, apesar de ser um dos assuntos que eu mais gosto
+[00:00:08:28 --> 00:00:09:16] de falar.
+[00:00:09:19 --> 00:00:13:19] Espero que você goste tanto quanto eu gostei de desenvolver essa aula pra você.
+[00:00:13:20 --> 00:00:18:14] Eu acredito que a tipografia, apesar de ter toda a sua complexidade, se a gente pega
+[00:00:18:14 --> 00:00:22:02] a essência dela, a tipografia também é uma forma.
+[00:00:22:14 --> 00:00:27:22] As letras são formas, só que são formas complexas.
+[00:00:27:22 --> 00:00:30:27] E o objetivo dessa aula aqui é mostrar para vocês
+[00:00:30:27 --> 00:00:34:01] por que as letras são tão complexas,
+[00:00:34:05 --> 00:00:36:27] como é que elas se tornaram complexas assim,
+[00:00:36:29 --> 00:00:40:23] o que foi que aconteceu, assim como com os símbolos.
+[00:00:40:27 --> 00:00:44:01] As letras e os símbolos são um tipo especial de forma.
+[00:00:44:05 --> 00:00:46:10] Isso a gente já sabe, eu falei isso com vocês,
+[00:00:46:17 --> 00:00:50:02] e o objetivo aqui dessa aula é mostrar por que são tão especiais
+[00:00:50:02 --> 00:00:55:12] e por que nós designers devemos dar uma atenção ainda maior para esses tipos de formas.
+[00:00:55:12 --> 00:01:04:16] Segunda coisa, a escrita mudou o mundo. Literalmente, a escrita mudou a civilização. Foi uma grande
+[00:01:05:06 --> 00:01:11:08] revolução. Só que isso não aconteceu do dia pra noite. Não foi alguém que, do nada, falou
+[00:01:11:08 --> 00:01:19:13] a letra A vai significar A, a letra B vai significar B, a letra A mais B vai significar AB.
+[00:01:19:13 --> 00:01:27:13] Não foi do dia para a noite que isso aconteceu, foram milênios, muitos e muitos anos para
+[00:01:27:13 --> 00:01:28:14] a gente chegar nisso.
+[00:01:28:23 --> 00:01:35:12] A história da escrita é um dos maiores exemplos de possíveis adjacentes de todos, porque
+[00:01:35:12 --> 00:01:43:00] a escrita veio de outras ideias anteriores, então uma ideia que gerou outra ideia, até
+[00:01:43:00 --> 00:01:45:23] chegar no alfabeto que a gente conhece hoje.
+[00:01:45:23 --> 00:01:51:18] A escrita mudou o mundo, mas não foi do dia para a noite, foram milênios até aqui.
+[00:01:52:02 --> 00:01:59:16] Outra coisa, desde o início, a gente sempre usou as formas para nos comunicar, mas antes
+[00:01:59:16 --> 00:02:06:02] de começar essa história da comunicação, da escrita, é legal eu dar uma visão geral
+[00:02:06:02 --> 00:02:06:20] para vocês.
+[00:02:06:29 --> 00:02:12:09] Então, olha só, eu peguei aqui um histórico do livro que chama Sapiens, do Yuval
+[00:02:12:09 --> 00:02:12:21] Parar?
+[00:02:13:23 --> 00:02:18:02] e para a gente ter um panorama geral da história da humanidade, então olha que interessante
+[00:02:18:02 --> 00:02:19:00] aqui em poucas linhas.
+[00:02:19:15 --> 00:02:26:05] 13 bilhões de anos atrás surge a matéria, a energia, aparecem os átomos e as moléculas,
+[00:02:26:09 --> 00:02:26:20] então...
+[00:02:27:19 --> 00:02:33:25] o universo nasceu 13,8 bilhões de anos atrás quando a gente coloca em número assim parece
+[00:02:33:25 --> 00:02:42:00] tão pertinho né só 13 bilhões de anos atrás mas tudo bem vamos lá 4,5 bilhões de anos atrás o
+[00:02:42:00 --> 00:02:52:24] planeta terra foi formado aí se passaram 700 milhões de anos até que surgiram as cianobactérias
+[00:02:52:24 --> 00:03:00:00] os primeiros organismos até o último ancestral em comum dos humanos e dos chimpanzés aparecerem,
+[00:03:00:04 --> 00:03:04:25] que era o Australopithecus. E sabe por que eu sei que chama Australopithecus? Porque tem um jogo
+[00:03:04:25 --> 00:03:09:12] que chama Ancestors e você joga, você é um macaco que vai evoluindo na linha do tempo,
+[00:03:09:16 --> 00:03:14:04] não é um macaco, mas é tipo um chimpanzé, só que você vai evoluindo até você virar
+[00:03:14:22 --> 00:03:18:00] Australopithecus, até você virar Homo ou alguma coisa lá, que eu não lembro,
+[00:03:18:00 --> 00:03:21:22] é um jogo muito lá, muito legal, muito massa, e aí é por isso que eu sei desse nome
+[00:03:21:22 --> 00:03:23:10] louco de australopitex, mas enfim.
+[00:03:24:27 --> 00:03:28:26] de 3,2 bilhões de anos até 6 milhões de anos,
+[00:03:28:28 --> 00:03:30:21] último ancestral em comum dos humanos chupanzés.
+[00:03:31:09 --> 00:03:33:29] Então, aqui a vida já existia, mas os seres humanos
+[00:03:34:26 --> 00:03:36:20] surgiram mais ou menos aqui.
+[00:03:36:29 --> 00:03:41:29] 2,5 milhões de anos atrás, a evolução dos humanos na África,
+[00:03:42:15 --> 00:03:43:27] primeiras ferramentas de pedra.
+[00:03:43:29 --> 00:03:45:15] Então, agora aqui a gente já tem o Homo.
+[00:03:46:03 --> 00:03:47:24] Não vou falar que é Homo sapiens,
+[00:03:48:06 --> 00:03:52:06] porque antes do Homo sapiens já existiram várias outras espécies de humanos,
+[00:03:52:13 --> 00:03:53:24] além do Homo sapiens.
+[00:03:53:24 --> 00:03:57:28] Mas a gente tinha lá o Homo sapiens também, os humanos na África.
+[00:03:58:11 --> 00:04:01:10] E aí foram vários né, a gente foi subindo da África pra Europa.
+[00:04:01:21 --> 00:04:06:18] Teve o Homo erectus, Homo neanderthales, Homo...
+[00:04:08:03 --> 00:04:12:14] Como é que é filienses? Filienses, eu acho que é homofilienses.
+[00:04:13:07 --> 00:04:16:23] Eu não lembro ao certo qual que era, não, mas teve vários homos.
+[00:04:16:25 --> 00:04:21:05] Eu acho que já tem sete espécies de humanos que foram descobertas, tá?
+[00:04:21:12 --> 00:04:25:21] No final, sobrou só homo sapiens e depois homo sapiens sapiens, né?
+[00:04:26:12 --> 00:04:29:15] Mas no final, sobrou só a gente, de todos os humanos que existiam.
+[00:04:30:07 --> 00:04:34:19] Os outros foram extintos, provavelmente por causa da seleção natural e pro Ivae.
+[00:04:34:21 --> 00:04:35:20] Mas vamos lá, continuando.
+[00:04:35:20 --> 00:04:39:10] Dois milhões de anos atrás, humanos se espalham da África para a Eurásia.
+[00:04:39:10 --> 00:04:41:24] Evolução de diferentes espécies humanas, igual eu falei.
+[00:04:42:13 --> 00:04:45:11] Surgens usam Neandertals na Europa e no Oriente Médio.
+[00:04:46:25 --> 00:04:49:09] 300 mil anos atrás, usam o cotidiano do fogo.
+[00:04:49:11 --> 00:04:51:21] 200 mil anos atrás, surge o Homo sapiens.
+[00:04:52:03 --> 00:04:54:11] Olha aqui quando surgiu o Homo sapiens.
+[00:04:55:01 --> 00:04:58:24] Então, a vida surgiu em 3,8 bilhões de anos atrás.
+[00:04:59:19 --> 00:05:01:20] Desde o surgimento da vida,
+[00:05:01:20 --> 00:05:06:12] Até o Homo Sapiens foram 3,6 bilhões de anos na Terra.
+[00:05:06:22 --> 00:05:12:18] Tem um calendário, depois pesquisem, calendário da história do mundo e a idade do ser humano.
+[00:05:12:21 --> 00:05:14:29] Quanto que o ser humano apareceu na história?
+[00:05:15:01 --> 00:05:19:23] A gente apareceu nas últimas horas, no final do ano.
+[00:05:19:26 --> 00:05:22:26] É uma parada assim, muito louca, depois pesquisa aí a relação.
+[00:05:23:09 --> 00:05:26:09] Se a gente estendesse em um ano toda a história do mundo.
+[00:05:27:17 --> 00:05:33:18] 70 mil anos atrás, então, revolução cognitiva surge a linguagem ficcional, o começo da história.
+[00:05:33:28 --> 00:05:34:28] Isso aqui é muito louco.
+[00:05:35:04 --> 00:05:37:19] Aqui, o ser humano aprende a imaginar.
+[00:05:38:20 --> 00:05:40:05] Isso é incrível, sensacional.
+[00:05:42:03 --> 00:05:47:10] Existe aqui o que o Yuval fala de revolução cognitiva, a primeira revolução de todas,
+[00:05:47:21 --> 00:05:53:17] que inclusive fez o Homo sapiens continuar vivo e todos os outros homos, todos os outros
+[00:05:53:17 --> 00:05:55:27] humanos serem extintos.
+[00:05:56:04 --> 00:06:01:27] Aí aqui a coisa começa a ficar legal, não na extinção dos Neandertais, mas principalmente
+[00:06:01:27 --> 00:06:04:21] aqui, 12 mil anos atrás, revolução agrícola.
+[00:06:04:21 --> 00:06:12:26] Antes disso, basicamente o que tem é a extinção de vários humanos e os sapiens dominando cada vez mais.
+[00:06:13:17 --> 00:06:16:29] Como os sapiens polvão a América, extinção da megafauna americana.
+[00:06:18:12 --> 00:06:23:05] Coincidência, né? Os sapiens povam a América e a megafauna é extinta, né?
+[00:06:23:21 --> 00:06:25:23] Não sei porquê, mas enfim...
+[00:06:25:23 --> 00:06:27:22] 13 mil anos atrás, extinção do...
+[00:06:27:22 --> 00:06:30:06] Ah, esse aqui que eu queria falar, o florencienses...
+[00:06:30:28 --> 00:06:36:12] Homo florencienses, homo erectus, homo neandertales, todos morreram.
+[00:06:36:15 --> 00:06:38:24] A única espécie humana é o homo sapiens.
+[00:06:39:17 --> 00:06:41:19] 12 mil anos atrás, a Revolução Agrícola, né?
+[00:06:41:19 --> 00:06:43:12] A gente estuda isso nas aulas de História,
+[00:06:43:14 --> 00:06:45:29] quando veio a Revolução Agrícola, tudo mudou.
+[00:06:45:29 --> 00:06:50:03] E aqui uma coisa interessante, galera, eu vou frisar isso ao longo da apresentação
+[00:06:50:03 --> 00:06:55:05] hoje aqui também, é bom falar aqui também. 12 mil anos atrás, às vezes vocês vão
+[00:06:55:05 --> 00:07:00:14] ver como 10 mil a.c. É a mesma coisa, tá? O que a gente tem que lembrar e ficar atento
+[00:07:00:14 --> 00:07:05:29] aqui. 12 mil anos atrás significa que a gente está contando a partir da era comum
+[00:07:05:29 --> 00:07:10:23] atual. Então a gente está contando a partir de hoje, a gente está aqui em 2021, então
+[00:07:10:23 --> 00:07:17:20] a gente tem que somar dois mil anos. Agora, antes de Cristo, a gente descarta os dois mil anos depois de Cristo,
+[00:07:17:23 --> 00:07:23:01] por isso que fala dez mil a c. Aí tem lugar que vai falar, dez mil anos antes de Cristo,
+[00:07:23:04 --> 00:07:26:11] vem a Revolução Agrícola. E tem alguns que vão falar doze mil anos atrás da Revolução Agrícola,
+[00:07:26:18 --> 00:07:31:12] é a mesma coisa, a gente só tem que pegar essa referência, beleza? Até pra não confundir
+[00:07:31:12 --> 00:07:35:03] na hora de fazer as pesquisas. Então, do homensificação de plantas, animais,
+[00:07:35:03 --> 00:07:41:29] assentamentos permanentes. Isso aqui permitiu os sistemas de escrita, permitiu o nascimento
+[00:07:41:29 --> 00:07:49:26] das civilizações, permitiu os reinos, a invenção do dinheiro e das religiões politeístas.
+[00:07:50:11 --> 00:07:56:05] E tudo começou assim. Nós seres humanos temos uma tendência a nos comunicar, a registrar.
+[00:07:56:15 --> 00:07:59:27] E aqui eu quero contar um pouquinho para vocês dessa história, para vocês verem
+[00:07:59:27 --> 00:08:03:16] como que a gente chegou na escrita, como que a gente desenvolveu essas formas que
+[00:08:03:16 --> 00:08:10:18] são muito complexas e, mais do que isso, como funciona a mente do ser humano, como
+[00:08:10:18 --> 00:08:16:11] que nós pensamos e como que nós evoluímos. Tudo começa então aqui. Idade da preda é
+[00:08:16:11 --> 00:08:18:09] ótima. Idade da pedra.
+[00:08:19:15 --> 00:08:24:24] período paleolítico, período mesolítico e período neolítico, são as três etapas
+[00:08:24:24 --> 00:08:29:25] aqui do período da idade da pedra. Paleolítico foi o maior período de todos, dá pra ver
+[00:08:29:25 --> 00:08:35:07] ali, de 2,5 milhões de anos até 2000 antes de Cristo. Tem gente que separa entre dois
+[00:08:35:07 --> 00:08:40:12] só, paleolítico e neolítico, porque o mesolítico ele só marca ali mais ou menos
+[00:08:40:12 --> 00:08:45:10] um período importante, que é a revolução agrícola, mas ele ainda marca algumas
+[00:08:46:00 --> 00:08:50:09] mudanças, mas ele ainda é parecido com o paleolítico em algumas coisas, em outras coisas
+[00:08:50:09 --> 00:08:53:21] ele é parecido com o neolítico. Ele está no meio das duas ali, um pouquinho das duas.
+[00:08:54:06 --> 00:08:58:27] Alguns falam do mesolítico, outros só falam de paleolítico e neolítico. E o neolítico
+[00:08:58:27 --> 00:09:05:05] é o período onde nós seres humanos desenvolvemos algumas técnicas para poder trabalhar com
+[00:09:05:05 --> 00:09:10:11] as pedras de um jeito com muito mais propriedade. A gente dominava as pedras, a gente conseguia
+[00:09:10:11 --> 00:09:15:29] manipular qualquer pedra. É no período neolítico que foi construído Stonehenge,
+[00:09:16:05 --> 00:09:19:24] por exemplo. Eu sei, tem gente que acha que foi feito por alienígenas, mas na verdade
+[00:09:19:24 --> 00:09:25:29] não. Foi feito por seres humanos. Quando a gente dominava as pedras mesmo, conseguia
+[00:09:25:29 --> 00:09:30:17] mover pedras gigantes e fazer ferramentas incríveis, tudo feito de pedra. Aqui eu
+[00:09:30:17 --> 00:09:34:17] vou dar um zoom com vocês para a gente entender cada um desses períodos e entender
+[00:09:34:17 --> 00:09:38:22] principalmente o recorte que eu vou fazer aqui, o recorte cultural, o recorte da
+[00:09:38:22 --> 00:09:46:05] da humanidade, principalmente falando da comunicação visual, falando da comunicação com desenhos,
+[00:09:46:08 --> 00:09:51:21] imagens, pinturas. Ok? Então vamos lá. Período paleolítico, de 2,5 milhões de anos atrás até
+[00:09:51:21 --> 00:09:54:05] 10 mil antes de Cristo, ou seja...
+[00:09:55:01 --> 00:09:58:07] Todos os seres humanos que viveram antes da revolução agrícola.
+[00:09:58:07 --> 00:09:59:16] Já quase falei industrial aqui.
+[00:09:59:25 --> 00:10:02:26] Todos os seres humanos que viveram antes da revolução agrícola.
+[00:10:03:05 --> 00:10:08:12] Nesse período, galera, a nossa comunicação visual era muito realista.
+[00:10:08:28 --> 00:10:15:15] O contato da pintura com a realidade, a relação da pintura com a realidade, era muito próxima.
+[00:10:15:18 --> 00:10:22:11] Quando uma pessoa pintava um bisão ou um leão, a gente vê aqui embaixo,
+[00:10:22:11 --> 00:10:30:14] era quase indistinguível para eles o que era real e o que era uma pintura. Para eles, a reprodução
+[00:10:30:14 --> 00:10:35:17] era quase um nascimento. Eu estou recriando aqui aquilo. Então, tinha essa relação muito forte.
+[00:10:36:04 --> 00:10:44:09] E aí, nesse período, então, as imagens eram muito figurativas, muito próximas da realidade,
+[00:10:44:11 --> 00:10:51:25] como a gente pode ver aqui. E os registros, muitos deles eram até ritualísticos, mas
+[00:10:51:25 --> 00:10:57:02] Os rituais não eram bem de uma religião, como a gente vai ver mais pra frente.
+[00:10:57:06 --> 00:11:01:29] Os rituais, a grande religião que existia era das pessoas com a natureza.
+[00:11:02:06 --> 00:11:10:06] A natureza provia tudo, era uma relação de medo com admiração, era tudo ao mesmo
+[00:11:10:06 --> 00:11:10:14] tempo.
+[00:11:10:17 --> 00:11:15:22] O ser humano cultuava a natureza.
+[00:11:15:22 --> 00:11:23:14] e os animais eram símbolos de fertilidade, da vida, do mundo.
+[00:11:24:16 --> 00:11:34:17] Então, basicamente, esse tipo de comunicação é a comunicação que marca esse período, tá bom?
+[00:11:34:23 --> 00:11:39:01] Aqui eu coloquei que era a era mais longa, que foi finalizada pelo Recu das Geleiras,
+[00:11:39:07 --> 00:11:40:07] nós vamos falar mais disso.
+[00:11:40:09 --> 00:11:46:04] Mas nesse período aqui, então, é o período onde o mundo estava cheio de neve mesmo,
+[00:11:46:05 --> 00:11:50:16] era glacial, e o ser humano vivia em cavernas, tá bom?
+[00:11:50:28 --> 00:11:52:08] Então, esse era o período.
+[00:11:52:13 --> 00:11:53:29] Aqui tem mais algumas imagens para vocês.
+[00:11:53:29 --> 00:11:58:22] Mas eu trouxe também essas venus aqui, porque apesar de ser escultura, isso aqui é o que
+[00:11:58:22 --> 00:12:00:07] a gente chegava mais abstrato.
+[00:12:00:09 --> 00:12:04:23] A gente tinha algumas abstrações, mas eram muitas delas ornamentais.
+[00:12:05:02 --> 00:12:09:01] Por mais que abstrato, a gente consegue entender o que era valorizado na época.
+[00:12:09:11 --> 00:12:10:16] Era a fertilidade.
+[00:12:10:29 --> 00:12:14:03] Então por que eram esses peitões e essa barrigona?
+[00:12:14:14 --> 00:12:20:19] Era para representar a fertilidade, era o leite, era o ventre, tanto que o mais
+[00:12:20:19 --> 00:12:25:04] O importante não era a personalidade, porque essas esculturas aqui, chamam-se esculturas
+[00:12:25:04 --> 00:12:31:11] de Vênus, elas não tinham rosto, o importante não era a personalidade, o importante era
+[00:12:31:11 --> 00:12:33:13] a essência da vida, que era o que eles cultuavam.
+[00:12:33:23 --> 00:12:41:06] A gente tinha nesse período alguns ornamentos, mas nada simbólico, não existiam símbolos,
+[00:12:41:08 --> 00:12:44:19] tudo que a gente vê aqui, pode parecer um símbolo?
+[00:12:44:22 --> 00:12:50:02] Não era símbolo, eram ornamentos, eram decorações que os humanos da época faziam.
+[00:12:50:02 --> 00:12:51:28] e sempre muito próximo.
+[00:12:52:05 --> 00:12:55:25] Quando a gente olha essa textura desse cavalo,
+[00:12:56:00 --> 00:12:59:13] a gente começa a perceber que eles queriam fazer algo muito realístico.
+[00:12:59:20 --> 00:13:01:11] Olha para esse servo aqui,
+[00:13:02:10 --> 00:13:05:03] esse alce e esses peixes aqui com eles também.
+[00:13:05:14 --> 00:13:08:07] Havia uma mistura, mas era muito real.
+[00:13:08:08 --> 00:13:09:04] Olha esse bisão.
+[00:13:09:18 --> 00:13:12:24] E é até engraçado porque as pessoas acham que o período que
+[00:13:13:22 --> 00:13:16:04] nós começamos a pintar com qualidade
+[00:13:16:04 --> 00:13:18:11] foi porque a gente se desenvolveu no desenho.
+[00:13:18:26 --> 00:13:19:23] E, na verdade, não.
+[00:13:19:23 --> 00:13:24:08] Esse período anterior era o período mais realista, vocês vão ver que quando o tempo
+[00:13:24:08 --> 00:13:28:22] passa, a coisa vai ficando mais tosca ainda, e dá o contrário.
+[00:13:28:26 --> 00:13:33:22] Vocês vão ver isso fazendo sentido aqui, já chega aqui período mesolítico, 10 mil
+[00:13:33:22 --> 00:13:34:03] anos.
+[00:13:34:26 --> 00:13:36:04] O que esse período é marcado?
+[00:13:36:21 --> 00:13:44:10] A era glacial estava acabando, então as geleiras estavam tendo um recuo, o nível
+[00:13:44:10 --> 00:13:50:18] o domar estava descendo e os seres humanos começaram a sair das cavernas. Então é
+[00:13:50:18 --> 00:13:56:01] marcado por esse período. A revolução agrícola marca um período muito importante. Olha só como
+[00:13:56:01 --> 00:14:01:21] é que a visão, a comunicação, ela foi reduzida para a essência. Isso aqui mostra para a gente
+[00:14:01:21 --> 00:14:07:20] que os seres humanos começaram a abstrair e focar no que era importante. Era muito mais
+[00:14:07:20 --> 00:14:12:05] colocado na silhueta para falar do que é importante. E a gente vê que as pinturas
+[00:14:12:05 --> 00:14:12:27] ganharam...
+[00:14:13:27 --> 00:14:14:03] história.
+[00:14:15:24 --> 00:14:24:27] Elas contam uma história, as pinturas ganharam ação, ganharam movimento, elas contam um
+[00:14:24:27 --> 00:14:25:24] enredo.
+[00:14:26:03 --> 00:14:31:12] Aqui falando da caça, aqui uma mulher pegando mel, com as abelinhas aqui.
+[00:14:32:16 --> 00:14:38:11] E por mais que a gente vê essa certa abstração, olha, que também a gente tem essa abstração no período mesolítico...
+[00:14:39:11 --> 00:14:46:27] a gente entende, provavelmente que isso aqui eram mulheres, homens, os servos estão aqui,
+[00:14:47:06 --> 00:14:54:16] a gente começa a entender e ver uma certa abstração. Só que a gente começa a abstrair mesmo,
+[00:14:55:04 --> 00:15:01:27] falando do período da idade da pedra, a gente começa a abstrair mesmo na era neolítica,
+[00:15:02:03 --> 00:15:04:23] que a gente vai entrar logo logo. Olha só que interessante então.
+[00:15:05:28 --> 00:15:09:12] Lindo, lindo. Eu acho essa pintura aqui linda.
+[00:15:09:28 --> 00:15:12:06] As vacas malhadas, olha isso aqui, é sensacional.
+[00:15:12:21 --> 00:15:14:27] Mas a gente vê uma história, né?
+[00:15:15:01 --> 00:15:18:07] A gente vê a revolução agrícola aqui, a domesticação de animais.
+[00:15:18:18 --> 00:15:22:03] Aqui a gente tem as guerras também, os homens em cima de cavalos.
+[00:15:22:11 --> 00:15:26:28] Mas repara como que a gente saiu de algo muito realístico
+[00:15:26:28 --> 00:15:32:14] para algo mais storytelling mesmo, contar história, algo muito mais narrativa.
+[00:15:33:19 --> 00:15:38:22] Mais do que isso também, essencial. Focando na mensagem, a gente começa a usar a arte
+[00:15:38:22 --> 00:15:42:23] para outro meio. Se aqui era uma conexão com a realidade...
+[00:15:43:21 --> 00:15:50:00] Aqui, a gente começa a ter narrativa, esquemas, uma espécie de aula,
+[00:15:50:11 --> 00:15:53:23] uma espécie de ensinamento, planejamento...
+[00:15:53:23 --> 00:15:55:12] Então, a gente começa a abstrair, né?
+[00:15:55:12 --> 00:15:58:25] Quando fala de revolução cognitiva, tá muito ligado com isso.
+[00:15:59:09 --> 00:16:03:22] E o momento que a gente abstrai mesmo é logo no período neolítico.
+[00:16:04:05 --> 00:16:07:12] Nessa fase aqui, a gente começa a abstrair...
+[00:16:07:12 --> 00:16:08:07] Olha isso daqui.
+[00:16:08:07 --> 00:16:15:15] Isso aqui, galera, é um desenho feito por cima de um outro desenho que estava numa pedra, tá?
+[00:16:16:01 --> 00:16:23:19] Então, entendam dessa forma. Só que dá pra gente ver muito bem, tem umas espécies de lobos aqui,
+[00:16:24:09 --> 00:16:27:04] com alguns seres humanos, eles focavam no que era essencial.
+[00:16:27:13 --> 00:16:34:04] Então, olha, geralmente tem muitos desenhos que mostram as genitálias dos bonequinhos.
+[00:16:34:04 --> 00:16:36:28] Olha esse daqui por exemplo, deixa eu dar um... Aqui ó, esse aqui...
+[00:16:38:01 --> 00:16:40:22] Por quê? Era o símbolo da vida, olha esse daqui ó...
+[00:16:43:01 --> 00:16:49:01] com o Bilalzinho dele ali. Então, a gente começa a ver isso de forma mais presente também,
+[00:16:49:09 --> 00:16:55:27] porque o foco aqui era na essência, começa a abstrair. Uma coisa muito interessante que
+[00:16:55:27 --> 00:17:01:27] eu gosto dessa pintura aqui, é a gente reparar o ventre desse tanto de alce e cervo aqui.
+[00:17:02:14 --> 00:17:09:25] Olha só, o ventre aberto e diferente em cada um deles. Isso aqui é falando sobre
+[00:17:09:25 --> 00:17:16:17] a vida, e mais do que sobre a vida, sobre a diversidade da vida. Nessa época aqui, a
+[00:17:16:17 --> 00:17:21:20] imaginação humana ficou muito mais forte do que nas anteriores. A gente começou
+[00:17:21:20 --> 00:17:26:20] a ter uma capacidade de abstração muito grande e entender sobre repetição, quais
+[00:17:26:20 --> 00:17:31:11] são os elementos comuns que eu tenho que manter para que eu entenda que essa forma
+[00:17:31:11 --> 00:17:37:26] continua sendo essa forma. Lembra que eu falo para vocês? Matéria e forma. A
+[00:17:37:26 --> 00:17:44:03] forma é do mundo das ideias, a matéria é do mundo real. Quando a gente está lá no
+[00:17:44:03 --> 00:17:49:23] período paleolítico, a gente está muito conectado com a matéria, com o mundo real,
+[00:17:49:26 --> 00:17:55:00] a gente quer representar isso. Olha aqui esse cavalo, por exemplo, representando a textura dele,
+[00:17:55:08 --> 00:18:01:18] esse alce. Então a gente começa a ter um contato com a matéria, representar a matéria. Aqui a
+[00:18:01:18 --> 00:18:07:14] começa a dar valor para a forma. E isso é concluído, o auge desse momento, na idade
+[00:18:07:14 --> 00:18:12:28] da pedra, é no período neolítico, que a gente entende o que é a forma, a forma de
+[00:18:12:28 --> 00:18:17:15] um alce. Mais do que a matéria, eu posso mudar a matéria, que a matéria é mudada
+[00:18:17:15 --> 00:18:24:01] várias vezes, mas a forma do alce é a mesma forma. E isso aqui que é o mais
+[00:18:24:01 --> 00:18:29:23] interessante. Então, isso aqui é um alce. Tem uns chifres diferentes, tem uns com
+[00:18:29:23 --> 00:18:35:04] chifrões gigantes, outros pequenininhos, mas isso é um alce. E aí eles coloriam eles
+[00:18:35:04 --> 00:18:36:18] e deixavam o...
+[00:18:39:05 --> 00:18:42:23] Porque isso aqui é uma representação da vida, isso aqui era importante de entender.
+[00:18:43:04 --> 00:18:45:08] Então, aqui a gente começa a abstrair.
+[00:18:45:14 --> 00:18:49:24] Só que a gente ainda não tem símbolos, por assim dizer, exatamente símbolos.
+[00:18:50:02 --> 00:18:55:24] Na verdade mesmo, nesse período aqui, a gente vai ver muita coisa, tá?
+[00:18:55:26 --> 00:19:01:00] Aqui eu trouxe algumas imagens para vocês da pintura Rupestre mesmo.
+[00:19:01:06 --> 00:19:04:13] Mas esse período aqui, ele é marcado pela protoescrita,
+[00:19:04:22 --> 00:19:08:03] ele é marcado pelos símbolos, tem vários símbolos diferentes.
+[00:19:08:03 --> 00:19:11:22] Mas, isso aqui que eu estou mostrando para vocês é bem no início da transição.
+[00:19:11:25 --> 00:19:14:01] Pega aqui, 6 mil anos, tá?
+[00:19:14:10 --> 00:19:19:15] Entre esses 6 mil e 3 mil, é o que eu vou mostrar para vocês agora nos próximos slides.
+[00:19:19:23 --> 00:19:25:10] Mas olha que interessante, aqui de novo, olha, a genitália, o foco na genitália.
+[00:19:25:14 --> 00:19:29:01] Mas a gente começa a ver aqui uma abstração.
+[00:19:29:15 --> 00:19:35:03] Ainda existiam os ornamentos, né, nesse período, o ser humano começou a dominar
+[00:19:35:03 --> 00:19:36:25] o processo da pedra.
+[00:19:36:25 --> 00:19:41:15] O período neolítico é marcado por causa disso, na alvenaria, em todos os pontos.
+[00:19:42:12 --> 00:19:45:08] E a gente começa a dominar essa matéria.
+[00:19:45:20 --> 00:19:53:03] Só que mais do que isso, nós, pela revolução industrial, começamos a desenvolver grandes civilizações.
+[00:19:53:15 --> 00:20:00:04] E é aí que a gente entra na história da escrita, na história dos símbolos e na história da abstração.
+[00:20:00:14 --> 00:20:03:25] Tudo começando com os registros comerciais.
+[00:20:03:25 --> 00:20:08:14] Mas vamos dar uma olhada aqui nesse gráfico aqui nesse mapa para a gente ter uma noção
+[00:20:08:14 --> 00:20:09:03] interessante.
+[00:20:09:22 --> 00:20:16:25] A África é onde os homens, os humanos nasceram, se originaram, né?
+[00:20:16:26 --> 00:20:21:09] A gente fala que a África é o berço da humanidade e a Mesopotâmia que é o berço
+[00:20:21:09 --> 00:20:22:24] das civilizações.
+[00:20:23:08 --> 00:20:26:03] Mas então a gente começou aqui na África e começamos a espalhar.
+[00:20:26:06 --> 00:20:31:27] Então aqui nesse gráfico tem homoneandertalenses que é os neandertais e tem homerectos
+[00:20:31:27 --> 00:20:37:15] também, principalmente na parte da África e da Ásia, tá? Mas vamos focar nos vermelhinhos
+[00:20:37:15 --> 00:20:38:22] aqui ó, homo sapiens.
+[00:20:39:26 --> 00:20:49:01] 200 mil anos atrás, homo sapiens... 200 mil, 160 por aí, homo sapiens no mundo começam a subir a África aqui
+[00:20:49:01 --> 00:20:58:22] e vão para Mesopotâmia, 100 mil anos atrás, 40 mil anos atrás, Europa, 70 mil anos atrás, Ásia, 25 mil anos atrás
+[00:20:58:22 --> 00:21:01:14] ali na parte da Rússia, nessa área aqui, muita neve.
+[00:21:02:16 --> 00:21:09:19] Desceu aqui, 50 mil anos atrás, na Oceania, 30 mil anos atrás e 1.500 anos atrás
+[00:21:09:26 --> 00:21:17:12] a última ilha a ser povoada. Vindo para cá, e isso aqui que é o importante que eu quero mostrar
+[00:21:17:12 --> 00:21:24:04] para vocês, por que a gente estuda muito na história da humanidade aqui e não aqui?
+[00:21:24:12 --> 00:21:30:13] Porque as civilizações americanas, elas foram as mais tardias, as últimas a aparecerem.
+[00:21:30:16 --> 00:21:36:03] Por quê? Porque demorou para o Homo Sapiens chegar desse lado do planeta. 15 mil anos atrás,
+[00:21:36:03 --> 00:21:45:03] Já tinha mais de 85 mil anos que os seres humanos já estavam povoando essa área aqui.
+[00:21:45:09 --> 00:21:49:22] Então, demora um pouco para as civilizações chegarem aqui, mas vou mostrar para vocês
+[00:21:49:22 --> 00:21:54:04] que elas chegaram, que os sistemas de escritas também chegaram aqui e que eles têm muitas
+[00:21:54:04 --> 00:21:59:28] coisas em comum, mesmo estando a milhares de quilômetros de distância.
+[00:22:00:12 --> 00:22:01:01] Beleza?
+[00:22:01:01 --> 00:22:04:22] Então, a gente tem essa mudança, essa migração aqui
+[00:22:04:22 --> 00:22:08:10] e é importante a gente perceber também que tudo isso aqui,
+[00:22:08:20 --> 00:22:11:22] a maior parte do tempo, inclusive aqui 12 mil anos atrás,
+[00:22:12:09 --> 00:22:14:01] a gente chega perto da revolução agrícola.
+[00:22:14:12 --> 00:22:17:28] Só que os pontos que a gente coloca, as evoluções, as mudanças,
+[00:22:18:00 --> 00:22:21:27] quando a gente fala de paleolítico, mesolítico, neolítico,
+[00:22:22:09 --> 00:22:25:16] apesar de a gente colocar que aconteceu em determinado período,
+[00:22:26:06 --> 00:22:29:08] geralmente a gente está falando que do primeiro momento
+[00:22:29:08 --> 00:22:34:19] que tem registro de que isso aconteceu, mas o período paleolítico, o período mesolítico,
+[00:22:34:21 --> 00:22:39:19] o período neolítico, ele acontece em momentos diferentes para cada civilização.
+[00:22:40:01 --> 00:22:45:09] Então, por mais que 12 mil anos atrás os seres humanos já haviam chegado aqui na
+[00:22:45:09 --> 00:22:50:01] América do Norte, 12 mil anos atrás os seres humanos já estavam na revolução
+[00:22:50:01 --> 00:22:53:15] agrícola aqui, enquanto aqui ainda era no hômade, entendeu?
+[00:22:53:26 --> 00:22:57:26] Então é importante a gente entender que a história acontece em tempos diferentes
+[00:22:57:26 --> 00:23:03:08] para civilizações diferentes, tá bom? Então vamos lá. Aqui eu peguei o gráfico e coloquei
+[00:23:03:08 --> 00:23:10:03] para vocês algumas protoescritas e registros comerciais que surgiram, os primeiros. E eu
+[00:23:10:03 --> 00:23:15:12] trouxe um paralelo também com as civilizações mais importantes da América e o período
+[00:23:15:12 --> 00:23:20:04] que elas tiveram seus sistemas de escrita. Então olha só, registro comercial, o mais
+[00:23:20:04 --> 00:23:24:21] antigo que a gente tem é o osso de Xango aqui da África, vou mostrar ele para vocês,
+[00:23:24:21 --> 00:23:28:18] que registrava, contava, não era nem registro comercial, necessariamente,
+[00:23:29:03 --> 00:23:32:18] mas era um sistema de contagem usando gravetinhos.
+[00:23:33:22 --> 00:23:38:21] Depois disso, a gente tem aqui 7 mil anos atrás os tokens dos sumérios.
+[00:23:38:24 --> 00:23:40:11] Vamos falar sobre os tokens também.
+[00:23:41:04 --> 00:23:44:07] Muito massa mesmo os tokens dos sumérios,
+[00:23:44:19 --> 00:23:47:10] porque é um sistema simples que originou a escrita.
+[00:23:47:10 --> 00:23:50:01] A escrita veio disso daqui, a escrita que a gente conhece.
+[00:23:51:18 --> 00:23:57:28] Mas, a gente tem a China também, com o Jiahu, que são alguns símbolos que foram encontrados
+[00:23:57:28 --> 00:24:03:26] na China, 6 mil anos atrás, existe toda uma história disso aqui também, porque
+[00:24:03:26 --> 00:24:11:20] fala que a China, a escrita chinesa, os ideogramas chineses, são da época de 1500
+[00:24:11:20 --> 00:24:17:14] a 2000 anos antes de Cristo, né, mas é que a gente pega, é...
+[00:24:18:21 --> 00:24:24:24] Mas existem indícios de que nesse período já existia um sistema de proto-escrita.
+[00:24:24:27 --> 00:24:28:26] Eu já vou explicar a diferença de escrita e proto-escrita pra vocês, mas tem indícios
+[00:24:28:26 --> 00:24:33:25] também de alguns símbolos no período de 6 mil anos antes de Cristo.
+[00:24:35:00 --> 00:24:40:04] Fora isso, a gente tem aqui no Rio da Nubia os símbolos vincas usados na Europa.
+[00:24:40:06 --> 00:24:41:13] Vamos falar deles também.
+[00:24:41:17 --> 00:24:43:28] Tem o Proto-griego aqui na ilha de Creta.
+[00:24:44:02 --> 00:24:48:19] Nós vamos falar também, que era um sistema dos minóicos.
+[00:24:48:29 --> 00:24:53:23] Vale do Indo, que veio aqui, não dos sumérios, deixa eu puxar de baixo,
+[00:24:53:27 --> 00:24:57:22] que veio da Mesopotâmia, claro, teve influência dos sumérios também,
+[00:24:57:22 --> 00:25:05:04] que foram os índios que depois iria originar a escrita dos indianos.
+[00:25:06:06 --> 00:25:18:28] Então, muito massa, que foi influenciada também pela chinesa, teve toda uma coisa aqui, pelos árabes, tem uma história, são muitas influências, os possíveis adjacentes, igual eu trouxe para vocês, tá?
+[00:25:19:06 --> 00:25:27:04] Então, isso aqui é só um panorama geral, olha só, 18 mil anos, 7 mil anos, 6 mil anos, 3 mil anos, 4 mil anos, 5 mil anos.
+[00:25:27:04 --> 00:25:36:04] Enquanto isso, aqui na América, 700 anos atrás, não é 700 antes de Cristo, é 700 anos atrás, 1300.
+[00:25:36:27 --> 00:25:41:24] Em 1300 os Astecas desenvolveram a linguagem deles, que era o Nahuatlé.
+[00:25:42:06 --> 00:25:48:07] Os Mayas, que é a civilização mais antiga da América, desenvolveu o sistema de escrita 200 anos antes de Cristo.
+[00:25:48:20 --> 00:25:52:12] Demorou muito tempo. O primeiro sistema de escrita aqui dos Sumérios,
+[00:25:52:12 --> 00:25:57:25] Aqui a gente tem a Proto Escrita, isso aqui são só os Tolkien, a escrita mesmo dos Sumérios
+[00:25:57:25 --> 00:26:02:18] é de 3.200 antes de Cristo, ou seja, 3.000 anos antes dos Mayas.
+[00:26:02:27 --> 00:26:05:19] Esse sistema de escrita dos Mayas é lindinho, muito massa.
+[00:26:06:00 --> 00:26:10:14] Pois pesquisem aí, aqui eu quero só mostrar pra vocês a diferença de tempo, como
+[00:26:10:14 --> 00:26:12:15] que cada civilização evoluiu em um tempo diferente.
+[00:26:12:24 --> 00:26:17:16] E os Incas, que não tinham um sistema de escrita, mas tinham um sistema de registros
+[00:26:17:16 --> 00:26:21:22] comerciais, que eram os Kipos, que eram nós feitos nas cordas.
+[00:26:21:22 --> 00:26:26:29] E cada nó representava um número, representava um registro comercial.
+[00:26:27:16 --> 00:26:30:19] Muito louca essa história aqui dos Incas também, os caras ficavam correndo.
+[00:26:31:04 --> 00:26:34:01] Eles tinham que correr pela cidade, não era em cima de cavalo nem nada, eles corriam
+[00:26:34:01 --> 00:26:38:01] durante a cidade para poder registrar tudo que estava acontecendo na cidade e depois
+[00:26:38:01 --> 00:26:43:29] tinham que correr até onde ficava o imperador lá, Inca, e mostrar todos os registros
+[00:26:43:29 --> 00:26:44:16] para ele.
+[00:26:44:28 --> 00:26:45:21] Loucura, né?
+[00:26:45:26 --> 00:26:50:00] Mas isso aqui é um panorama para vocês, então dá pró tua escrita e de um pouquinho
+[00:26:50:00 --> 00:26:56:12] para vocês conseguirem visualizar no mundo onde que foram surgindo, principalmente nessa
+[00:26:56:12 --> 00:26:56:28] área aqui.
+[00:26:57:09 --> 00:27:00:27] Agora eu vou entrar nesses detalhes com mais profundidade para a gente entender isso um
+[00:27:00:27 --> 00:27:01:12] pouco melhor.
+[00:27:01:25 --> 00:27:05:22] Primeiro, o Ixango, 20 mil anos atrás.
+[00:27:06:07 --> 00:27:12:05] As pessoas lá do Paleolítico, lá na África, faziam registros, igual se você já viu
+[00:27:12:05 --> 00:27:17:24] é náufrago, quando ele ficava riscando lá na... ficava riscando na...
+[00:27:18:23 --> 00:27:20:12] na pedra lá na caverna,
+[00:27:21:04 --> 00:27:22:22] é bem semelhante com isso, né?
+[00:27:22:25 --> 00:27:26:01] Os registros com risquinhos bem antigos aqui, ó,
+[00:27:26:04 --> 00:27:28:03] encontrados no Congo, na África.
+[00:27:28:14 --> 00:27:29:29] Eles são chamados de tali,
+[00:27:30:01 --> 00:27:31:14] se vocês quiserem pesquisar depois,
+[00:27:31:16 --> 00:27:33:24] aqui embaixo também vai ter uma série de links para vocês,
+[00:27:33:28 --> 00:27:35:07] para quem quiser se aprofundar nisso.
+[00:27:35:17 --> 00:27:39:00] Mas o primeiro registro de contagem é esse,
+[00:27:39:00 --> 00:27:40:17] antes de existirem números,
+[00:27:41:12 --> 00:27:43:14] contava dessa forma, de maneira visual.
+[00:27:43:22 --> 00:27:45:10] Só que sem esse risquinho aqui do meio,
+[00:27:45:11 --> 00:27:47:14] isso aqui é um sistema de contagem, esqueci o nome dele,
+[00:27:47:14 --> 00:27:55:12] mas ele é mais atual. Esse aqui do Ixango, ele é desse jeito assim, bem simples, 1, 2, 3, 4, 5, 6, 7.
+[00:27:55:19 --> 00:28:03:28] Então eles riscavam e depois somavam isso tudo aqui. Então lá no Congo, hoje Congo na época,
+[00:28:04:06 --> 00:28:09:18] não chamava Congo porque não era nenhuma civilização, a gente ia fazer isso contando varetas e fazendo
+[00:28:09:18 --> 00:28:15:28] riscos, tá? Com a Revolução Agrícola, a gente começou a fazer alguns registros mais elaborados.
+[00:28:15:28 --> 00:28:22:07] E um desses registros eram os tokens, que era uma fichinha de argila, coloquei ali como
+[00:28:22:07 --> 00:28:27:25] se fosse uma fichinha de argila, que era utilizada para registrar os produtos agrícolas.
+[00:28:28:10 --> 00:28:32:00] E nessas fichinhas, existiam informações.
+[00:28:32:12 --> 00:28:39:02] Se vocês repararem, elas têm formatos diferentes, parecem conchas, mas têm formatos diferentes.
+[00:28:39:14 --> 00:28:40:25] E isso aqui é de propósito.
+[00:28:40:27 --> 00:28:45:00] Cada fichinha dessa significava uma coisa.
+[00:28:45:14 --> 00:28:51:20] Não era uma moeda, isso aqui não é uma moeda de troca, era uma ficha de registro,
+[00:28:51:25 --> 00:28:57:19] era para facilitar a contagem e os registros, mas é isso daqui que vai originar a escrita.
+[00:28:57:26 --> 00:29:03:23] E aí tem uma mulher chamada Denise, Denise Beceratty, vou colocar ali, nossa, eu não
+[00:29:03:23 --> 00:29:08:12] vou nem ler, quem sabe ler esses nomes aí vai ficar, poxa, vida, eu estou passando
+[00:29:08:12 --> 00:29:11:09] vergonha a lei aqui, então eu não vou ler não, mas a Denise Beceratty aqui,
+[00:29:11:09 --> 00:29:17:16] Uma das maiores pesquisadoras dos Tolkien, ela fala que olha só, ela fala que os cones,
+[00:29:17:23 --> 00:29:22:10] as esferas e os discos representavam pequenas, médias e grandes medidas de grãos.
+[00:29:22:22 --> 00:29:30:08] Os ovoides, mais ovoides assim, eram potes de óleo, os cilindros representavam uma
+[00:29:30:08 --> 00:29:31:13] ovelha ou uma cabra.
+[00:29:31:27 --> 00:29:35:19] Cara, isso aqui é um estudo louco, nem me pergunta como eles sabem disso, tá?
+[00:29:36:08 --> 00:29:44:11] Imagina como é que milhares de anos atrás, isso aqui acontecendo, e a Denise aqui consegue
+[00:29:44:11 --> 00:29:46:01] dizer para a gente o que significava.
+[00:29:46:05 --> 00:29:47:02] Mas é muito louco.
+[00:29:47:05 --> 00:29:51:19] Então aqui, olha, eu peguei para vocês alguns exemplos, olha só, esse token aqui
+[00:29:51:19 --> 00:29:58:16] significava 1, esse outro aqui 10, esse outro 600, esse outro 36, igual ela falou
+[00:29:58:16 --> 00:30:04:05] aqui, ó, esferas, cones e discos, eram grãos, eles pegavam esses grãos para facilitar
+[00:30:04:05 --> 00:30:06:12] a contagem dele, isso aqui vale tanto.
+[00:30:06:20 --> 00:30:11:27] Na hora de fazer a contagem, não era uma moeda, você não trocava um bem por isso,
+[00:30:11:29 --> 00:30:15:00] mas isso era para registro, facilitava na hora de contar.
+[00:30:15:13 --> 00:30:15:26] Beleza?
+[00:30:16:11 --> 00:30:19:25] Então, a gente tem aqui, é quase uma moeda, só que não é uma moeda de troca, é uma
+[00:30:19:25 --> 00:30:20:10] contagem.
+[00:30:20:21 --> 00:30:25:29] E a gente tem também para representar alguns elementos, olha, isso aqui significa pão,
+[00:30:26:02 --> 00:30:31:02] isso aqui significa lã, o disco com risquinho, o disco com a cruzinha significa ovelha,
+[00:30:31:13 --> 00:30:32:29] esse outro aqui significa metal.
+[00:30:32:29 --> 00:30:36:13] Então, tem até um gráfico que eu achei, que eu vou mostrar para vocês já já, que
+[00:30:36:13 --> 00:30:41:29] é muito interessante, mas olha só, foram encontrados mais de 8 mil tokens de argila
+[00:30:41:29 --> 00:30:46:27] do período de mais ou menos 7.500 antes de Cristo, ou seja, entrando a gente estava
+[00:30:46:27 --> 00:30:49:24] quase entrando no período neolítico.
+[00:30:51:15 --> 00:30:58:11] estava ali entrando no período Neolítico, 7500 anos antes de Cristo, e a gente desenvolveu
+[00:30:58:11 --> 00:31:03:09] os tokens, os seres humanos desenvolveram os tokens. Aqui quem fez isso foram os sumérios,
+[00:31:04:03 --> 00:31:10:23] desenvolveram os tokens. E aqui tem essa tabela aqui com alguns significados, é muito
+[00:31:10:23 --> 00:31:17:08] massa ver isso aqui, por exemplo, granada, a gente tem que ver o do pão, perfume,
+[00:31:17:08 --> 00:31:18:23] Olha isso que massa, perfume.
+[00:31:19:15 --> 00:31:22:29] Alguns eram números, porque eram para fazer contagens de grãos mesmo.
+[00:31:23:19 --> 00:31:28:03] Isso aqui é tipo uma fichinha, era uma fichinha que eles usavam para fazer registro.
+[00:31:28:11 --> 00:31:28:26] Cachorro.
+[00:31:29:21 --> 00:31:31:12] Olha que interessante aqui o cachorro.
+[00:31:31:22 --> 00:31:34:27] E por que tem um desenho e tem o token?
+[00:31:35:10 --> 00:31:38:09] Porque em determinado momento aconteceu uma coisa muito louca.
+[00:31:38:24 --> 00:31:40:08] Em determinado momento...
+[00:31:41:09 --> 00:31:48:27] Eles pararam de fazer o token tridimensional e começaram a pegar umas tabuinhas de argila
+[00:31:48:27 --> 00:31:54:25] e apertar, como se fosse carimbar esses tokens nessas tabuinhas.
+[00:31:55:09 --> 00:31:58:16] E aí ficava registrado, era um sistema de registro.
+[00:31:58:19 --> 00:32:03:12] Eu tinha ali registrado a posse de alguma coisa, a troca sobre alguma coisa, era um
+[00:32:03:12 --> 00:32:10:24] registro comercial em uma tabuinha de argila e a escrita começou a surgir disso aqui.
+[00:32:10:24 --> 00:32:13:28] E depois a gente vai voltar e vamos falar mais sobre isso.
+[00:32:14:04 --> 00:32:19:00] Mas antes disso, deixa eu mostrar para vocês outros sistemas de contagem e de Protoescrita.
+[00:32:19:01 --> 00:32:24:05] Principalmente de Protoescrita agora, que surgiram em um período muito próximo desse, tá?
+[00:32:24:13 --> 00:32:29:11] Então, além dos registros de comércio, as Protoescritas também começaram a surgir.
+[00:32:29:21 --> 00:32:34:29] E aqui eu coloquei, olha, a Protoescrita é uma marca visível comunicando uma informação
+[00:32:34:29 --> 00:32:35:22] limitada.
+[00:32:35:22 --> 00:32:40:19] e aí guarda isso aqui, uma informação limitada.
+[00:32:41:06 --> 00:32:45:20] Isso é o que mais diferencia o sistema de escrita de uma protoescrita.
+[00:32:46:17 --> 00:32:53:27] A proto escrita tem esse nome de proto. Proto tem a ver com origem, é o antepassado da escrita.
+[00:32:54:05 --> 00:32:58:00] É o que vai originar a escrita, mas não é ainda uma escrita.
+[00:32:58:14 --> 00:33:02:21] E a proto escrita, então, ela era representada por símbolos, muitas vezes.
+[00:33:03:00 --> 00:33:08:03] Um símbolo abstrato. Poderia ser abstrato ou não, né?
+[00:33:08:03 --> 00:33:12:28] Igual o cachorro lá que a gente tinha visto. Ele era um pouquinho abstrato, mas lembrava um cachorro, né?
+[00:33:12:28 --> 00:33:14:29] Então, um símbolo que...
+[00:33:15:27 --> 00:33:21:05] Representa uma ideia, até o nome tá aqui, ideograma, então representa uma ideia, só
+[00:33:21:05 --> 00:33:24:22] que a ideia inteira está contida no símbolo.
+[00:33:25:01 --> 00:33:27:06] Deixa eu pegar um exemplo aqui pra vocês, né?
+[00:33:27:20 --> 00:33:32:26] Vamos pegar aqui alguns desses aqui que tem o do cachorro, deixa eu ver um mais fácil
+[00:33:32:26 --> 00:33:34:16] aqui que realmente parece.
+[00:33:36:00 --> 00:33:37:15] Realmente parece o que é.
+[00:33:37:28 --> 00:33:38:20] Olha o leão!
+[00:33:40:02 --> 00:33:41:15] Cara, que demais, né?
+[00:33:41:26 --> 00:33:42:16] Esse é o leão.
+[00:33:43:09 --> 00:33:44:11] A vaca.
+[00:33:44:27 --> 00:33:46:02] Eu quero ver...
+[00:33:46:18 --> 00:33:48:27] O cachorro mesmo talvez seja o melhor aqui.
+[00:33:49:11 --> 00:33:50:18] Vou desenhar aqui por cima.
+[00:33:58:01 --> 00:33:58:17] Vamos lá!
+[00:34:00:26 --> 00:34:08:20] Então, é um ideograma, você tem um ideograma, é um símbolo, e aqui eu falo também símbolo
+[00:34:08:20 --> 00:34:09:28] mnemônicos, por quê?
+[00:34:10:09 --> 00:34:15:16] É um símbolo que é memorável, mnemônico é de memorável, que é para memorizar,
+[00:34:15:21 --> 00:34:16:27] é fácil de memorizar.
+[00:34:17:16 --> 00:34:22:03] Só que não tem significado linguístico e registra informação limitada, então
+[00:34:22:03 --> 00:34:23:00] Isso aqui registra...
+[00:34:25:27 --> 00:34:26:11] É isso.
+[00:34:27:24 --> 00:34:32:05] Significa cão. Se eu quiser falar de cachorro, eu posso colocar isso, mas isso só significa cão.
+[00:34:33:15 --> 00:34:38:29] E não tem significado linguístico por quê? Porque a proto-escrita não registra a língua.
+[00:34:39:17 --> 00:34:42:28] E a escrita já registra a língua. Como assim uma escrita registra a língua?
+[00:34:43:05 --> 00:34:44:02] Vamos lá.
+[00:34:44:19 --> 00:34:48:21] A letra A. O símbolo da letra A representa esse som aqui.
+[00:34:49:11 --> 00:34:49:26] A.
+[00:34:50:20 --> 00:34:53:26] O símbolo da letra B representa esse som aqui.
+[00:34:54:07 --> 00:34:54:19] B.
+[00:34:55:23 --> 00:34:57:24] Registra a língua, tá registrando?
+[00:34:59:03 --> 00:35:06:04] som. Por isso que a gente fala que é feito de grafemas. Pode ser feito de grafemas ou
+[00:35:06:04 --> 00:35:11:22] de ideogramas também. Só que esses ideogramas estão registrando a língua, eles possuem
+[00:35:11:22 --> 00:35:16:20] significado linguístico. Dessa forma, não possui mais uma informação limitada, tipo
+[00:35:16:25 --> 00:35:20:22] Então, a mesma letra A que eu posso escrever AMOR...
+[00:35:21:27 --> 00:35:25:11] Essas mesmas 4 letras que eu escrevo amor, eu posso escrever Roma.
+[00:35:27:10 --> 00:35:33:20] Isso é uma escrita, isso é um sistema de escrita, porque é um registro linguístico,
+[00:35:33:27 --> 00:35:39:08] é um registro com um significado linguístico que registra a fala, registra a língua, ok?
+[00:35:39:12 --> 00:35:40:23] Essa que é a grande diferença.
+[00:35:41:04 --> 00:35:45:09] E aqui eu coloquei um token para vocês verem a evolução, porque isso aqui é muito interessante.
+[00:35:45:18 --> 00:35:49:03] Então a gente tem o token aqui, esse token representava metal.
+[00:35:49:03 --> 00:35:49:10] Então, até a próxima.
+[00:35:49:10 --> 00:35:49:10] Tchau.
+[00:35:51:01 --> 00:35:55:09] E, olha só, em algum momento eles começaram a registrar na tabuinha.
+[00:35:55:20 --> 00:35:59:29] Então, ao invés de eu ficar fazendo 3D, toda hora eu ter que modelar um trenzinho desses,
+[00:36:00:10 --> 00:36:04:08] eu vou simplesmente desenhar ele, que já vai representar isso para mim.
+[00:36:04:21 --> 00:36:05:26] Aí eles desenharam.
+[00:36:06:06 --> 00:36:11:21] Depois, por causa de uma ferramenta, ou seja, foi uma mudança tecnológica, de técnica,
+[00:36:12:14 --> 00:36:15:17] que é a escrita cuneiforme, que a gente vai falar dela depois,
+[00:36:16:05 --> 00:36:19:01] eles começaram a representar esse mesmo metal, olha só,
+[00:36:19:01 --> 00:36:22:05] eles estavam tentando representar a mesma coisa, tá?
+[00:36:23:08 --> 00:36:26:05] E isso com o tempo foi evoluindo, porque eles usavam uma cunha.
+[00:36:27:09 --> 00:36:32:09] um material mais ou menos assim, olha, para ir cunhando a argila, até eles chegarem mais
+[00:36:32:09 --> 00:36:33:15] ou menos nesse símbolo.
+[00:36:33:19 --> 00:36:35:13] Se você não entende esse histórico...
+[00:36:36:14 --> 00:36:43:03] Fica impossível de você saber que isso significa isso e que isso significa metal ainda, né?
+[00:36:43:12 --> 00:36:48:27] Tem todo um estudo pra chegar nisso e a história também pra chegar nesse símbolo aqui também
+[00:36:48:27 --> 00:36:50:29] foi feita de possíveis adjacentes.
+[00:36:51:03 --> 00:36:53:11] Olha, uma ideia de outra ideia, de outra ideia, de outra ideia.
+[00:36:53:14 --> 00:36:55:04] Nada foi do nada, ok?
+[00:36:57:05 --> 00:37:03:18] Uma outra prótua escrita que se tem aqui, né, essa daqui um pouco a controversa sobre
+[00:37:03:18 --> 00:37:09:22] tem muita gente que fala que é comprovado, tem gente que fala que não, tem gente que fala que isso aqui é um sistema de escrita,
+[00:37:09:24 --> 00:37:13:20] tem gente que fala que não, que é um sistema de protoescrita, que é o Jiahu.
+[00:37:14:12 --> 00:37:19:13] Muitas pessoas dizem que o sistema de escrita da China surgiu em algum momento próximo a 1200 antes de Cristo,
+[00:37:19:21 --> 00:37:24:18] mas existem alguns artefatos com símbolos que datam cerca de 6 mil antes de Cristo,
+[00:37:24:27 --> 00:37:29:21] bem antes dos Oracle Bones, que são os ossos do oráculo.
+[00:37:29:21 --> 00:37:36:15] eu coloquei uma foto dele aqui, a galera fala que o sistema de escrita chinês surgiu com os ossos do oráculo,
+[00:37:36:20 --> 00:37:43:06] que eram símbolos feitos em cascos de tartaruga e ossos de outros animais.
+[00:37:43:15 --> 00:37:48:03] Muita gente fala que o sistema de escrita da China veio então desses ossos do oráculo,
+[00:37:48:08 --> 00:37:54:26] mas existem alguns registros que falam aqui de alguns artefatos, eles colocam aqui jiharru,
+[00:37:54:26 --> 00:37:57:15] que é o lugar onde encontraram esses símbolos,
+[00:37:58:03 --> 00:38:04:14] que dão indícios de que já existia, pelo menos, uma protoescrita chinesa 6 mil anos antes de Cristo.
+[00:38:04:26 --> 00:38:07:20] Isso aqui é 1.200 anos de Cristo, que é comprovado,
+[00:38:07:26 --> 00:38:14:00] e 6 mil anos de Cristo existem evidências de um sistema de protoescrita na China.
+[00:38:15:03 --> 00:38:19:17] A gente tem o símbolos vinca na Europa, 5.300 anos antes de Cristo.
+[00:38:20:13 --> 00:38:23:26] Esse aqui é um dos sistemas de símbolo mais intrigantes.
+[00:38:24:05 --> 00:38:28:12] Não é um sistema de escrita justamente porque é um sistema de símbolos.
+[00:38:28:16 --> 00:38:33:21] São símbolos que significam alguma coisa, mas que não registram a língua.
+[00:38:34:03 --> 00:38:34:12] Ok?
+[00:38:35:05 --> 00:38:36:22] Não registravam a língua.
+[00:38:37:04 --> 00:38:39:16] Então a gente tem aqui uma série de símbolos desses,
+[00:38:40:04 --> 00:38:42:28] de cerca de 5.000 a 7.000 anos atrás.
+[00:38:42:28 --> 00:38:47:05] antes do primeiro sistema de escrita, que é o sistema de escrita dos sumérios,
+[00:38:47:07 --> 00:38:50:17] em seguida dos egípcios, que eu vou mostrar para vocês daqui a pouco.
+[00:38:51:01 --> 00:38:55:26] Então, é um sistema de protoescrita que já existia há muito tempo atrás,
+[00:38:56:00 --> 00:38:58:21] lá na Sérvia, lá perto do rio da Núbio.
+[00:38:59:00 --> 00:39:01:29] A gente tem alguns artefatos com esses símbolos,
+[00:39:02:04 --> 00:39:04:07] um sistema claro de protoescrita.
+[00:39:05:13 --> 00:39:13:20] A gente tem também a tábua de díspilo, ali na Grécia, antes inclusive dos sumérios,
+[00:39:13:25 --> 00:39:22:18] antes inclusive dos egípcios, 5.250 anos atrás, na tábua de díspilo, um sistema de proto-escrita.
+[00:39:22:28 --> 00:39:25:17] Então, símbolos que tinham significado...
+[00:39:26:20 --> 00:39:32:20] E esse significado, com certeza, influenciou o alfabeto grego.
+[00:39:32:27 --> 00:39:35:12] E aqui eu coloquei a tábua que bugou todo mundo.
+[00:39:35:22 --> 00:39:39:03] Até pouco tempo, acreditava-se que o alfabeto grego veio do alfabeto fenício.
+[00:39:39:11 --> 00:39:43:17] Mas essa tábua, datada em 5.250 anos a.C.,
+[00:39:43:17 --> 00:39:48:28] traz indícios de que a Grécia já possuía um sistema de escrita antes dos fenícios.
+[00:39:49:15 --> 00:39:54:09] E não só antes dos fenícios, mas talvez até antes dos sumérios,
+[00:39:54:13 --> 00:39:55:25] que é o que eu vou mostrar aqui para vocês.
+[00:39:55:25 --> 00:40:02:05] A gente tem também o símbolo zindo, que foi muito influenciado, que veio da Europa,
+[00:40:02:10 --> 00:40:03:02] dos símbolos da Europa.
+[00:40:03:06 --> 00:40:07:12] Foi influenciado pelos sumérios lá com os tokens, tá vendo?
+[00:40:07:18 --> 00:40:14:15] Em argila, tabuinhas, mas ainda assim é um outro sistema de protoescrita do vale
+[00:40:14:15 --> 00:40:14:29] do Indo.
+[00:40:15:15 --> 00:40:19:14] O sistema do vale do Indo, quem morava no vale do Indo eram os índus.
+[00:40:20:12 --> 00:40:26:11] E os hindus foram os que iriam influenciar muito o sistema de escrita da Índia atual.
+[00:40:27:06 --> 00:40:31:15] Então, o sistema de Protoescrita, lá do sul da Ásia, que é um pouquinho abaixo
+[00:40:31:15 --> 00:40:32:10] da Mesopotâmia.
+[00:40:32:11 --> 00:40:34:02] Vou mostrar para vocês no mapa depois.
+[00:40:34:19 --> 00:40:37:11] Deixa eu mostrar agora, antes de passar para a idade dos metais.
+[00:40:39:06 --> 00:40:42:12] Então, aqui vale doindo bem aqui perto da Índia.
+[00:40:43:15 --> 00:40:45:06] Ele fica, na verdade, bem aqui.
+[00:40:46:29 --> 00:40:47:29] Esse é o Vale do Indo.
+[00:40:49:06 --> 00:40:54:26] essa regiãozinha aqui. Então desceu da Mesopotâmia pra cá, veio pro Vale do Indo, e a gente
+[00:40:54:26 --> 00:41:00:09] tem um sistema de Protoescrita também. E aí a gente entra aqui agora num momento
+[00:41:00:27 --> 00:41:06:10] muito importante, que é a Idade dos Metais. Aqui! A história da escrita que muitas vezes
+[00:41:06:10 --> 00:41:09:14] vocês vão encontrar na internet, ela vem daqui.
+[00:41:09:14 --> 00:41:09:17] E aí
+[00:41:11:02 --> 00:41:14:20] Ela vem desse período, começando lá com os sumérios.
+[00:41:14:28 --> 00:41:16:04] E durante esse período aqui,
+[00:41:16:23 --> 00:41:20:03] é que a gente vai ter uma grande história sobre a origem da escrita.
+[00:41:20:15 --> 00:41:22:00] Anteriormente também tem muita coisa,
+[00:41:22:01 --> 00:41:24:20] só que as informações do período anterior
+[00:41:25:14 --> 00:41:28:07] é mais difícil de a gente conseguir essas informações.
+[00:41:28:10 --> 00:41:30:27] Quanto mais tempo, mais difícil é
+[00:41:30:27 --> 00:41:33:12] dos arqueólogos, dos pesquisadores
+[00:41:34:03 --> 00:41:37:02] conseguirem não só entender, mas decifrar também.
+[00:41:37:20 --> 00:41:40:13] Tem que traçar uma série de conexões para poder entender
+[00:41:40:13 --> 00:41:45:20] o que significava tudo aquilo, e por isso que é tão difícil de dizer qual foi o primeiro
+[00:41:45:20 --> 00:41:48:00] sistema de escrita de todos, é difícil.
+[00:41:48:12 --> 00:41:52:09] A gente tem esses aqui hoje que é o que nós conhecemos hoje da história da humanidade.
+[00:41:54:17 --> 00:41:58:03] Deixa eu mostrar ele aqui para vocês, começando, claro, pelos sumérios.
+[00:41:58:12 --> 00:42:07:11] Então, 3.200 anos antes de Cristo, os sumérios desenvolveram o primeiro sistema de escrita
+[00:42:07:11 --> 00:42:08:25] que nós conhecemos.
+[00:42:10:03 --> 00:42:15:10] Antes eu mostrei para vocês vários sistemas de protoescrita, mas o primeiro sistema de escrita
+[00:42:15:10 --> 00:42:20:15] que tinha significado linguístico, que registrava a língua, foi a escrita cuneiforme.
+[00:42:20:20 --> 00:42:24:12] Como eu mostrei para vocês, foi assim que nasceu a escrita cuneiforme.
+[00:42:24:13 --> 00:42:27:20] Eu vou até pegar essa imagem aqui e levar ela para lá para a gente dar uma analisada,
+[00:42:28:00 --> 00:42:28:28] porque isso é muito massa.
+[00:42:29:12 --> 00:42:34:27] Então, olha só, a gente tinha os tokens de argila, então foi por uma necessidade comercial,
+[00:42:35:22 --> 00:42:40:25] Depois, eles começaram a riscar na tabuinha de argila o token.
+[00:42:41:04 --> 00:42:45:15] Eles começaram a desenhar o token, isso aqui foram vários anos pra chegar nisso daqui,
+[00:42:45:19 --> 00:42:45:28] não foi?
+[00:42:46:18 --> 00:42:48:09] Como eu disse, não foi de uma hora pra outra.
+[00:42:48:19 --> 00:42:51:12] Então ficaram vários anos assim, depois evoluíram pra isso.
+[00:42:51:22 --> 00:42:56:12] Depois eles começaram a usar uma ferramenta parecida com isso aqui, uma cunha, pra
+[00:42:56:12 --> 00:42:58:18] poder registrar nas tabuinhas.
+[00:42:59:07 --> 00:43:02:18] E aí o estilo muda.
+[00:43:02:18 --> 00:43:05:23] Se a gente reparar, eles estavam tentando fazer a mesma coisa, tá vendo?
+[00:43:06:12 --> 00:43:07:19] Tentando chegar perto.
+[00:43:09:04 --> 00:43:09:19] Mas...
+[00:43:09:19 --> 00:43:14:02] E aí, a gente pega uma espécie de telefone sem fio junto com invenção de moda...
+[00:43:14:28 --> 00:43:20:22] pra poder chegar nisso daqui. Porque pensa, vários anos usando isso daqui, aí mudou
+[00:43:20:22 --> 00:43:24:08] pra isso daqui. Quem viveu isso daqui e isso daqui vai entender.
+[00:43:25:22 --> 00:43:29:27] Vamos lá, vamos por parte. Se eu conheço isso, eu entendo isso.
+[00:43:31:03 --> 00:43:33:13] Fácil. E aí eu começo a usar essa daqui.
+[00:43:34:08 --> 00:43:37:07] Aí os anos passam e chegam os sucessores.
+[00:43:37:09 --> 00:43:39:02] Os sucessores entendem isso.
+[00:43:39:26 --> 00:43:41:18] Mas não necessariamente entendem isso.
+[00:43:42:04 --> 00:43:46:09] E aí eles começam a fazer isso aqui o mais parecido com isso possível.
+[00:43:47:04 --> 00:43:48:18] Depois de um tempo,
+[00:43:49:14 --> 00:43:50:14] vem os sucessores.
+[00:43:51:11 --> 00:43:53:08] E eles começam a fazer dessa forma.
+[00:43:53:19 --> 00:43:55:02] Como que eu posso simplificar?
+[00:43:55:05 --> 00:43:57:07] Porque é produtividade, é para ir mais rápido.
+[00:43:57:09 --> 00:43:58:25] Eu fico aqui escrevendo o dia inteiro.
+[00:43:58:25 --> 00:44:01:26] Como é que eu posso representar isso de um jeito mais simples?
+[00:44:02:04 --> 00:44:05:18] Até chegar nesse último aí, a escrita também acompanhando a linguagem.
+[00:44:06:14 --> 00:44:11:06] Então, a escrita com o neiforme foi se desenvolvendo até virar esse sistema louco
+[00:44:11:06 --> 00:44:15:01] aqui com mais de dois mil sinais.
+[00:44:15:16 --> 00:44:17:25] E esse sistema aqui foi muito importante.
+[00:44:18:05 --> 00:44:23:00] Ele dominou ali na Mesopotâmia a escrita com o neiforme, dominou lá por um bom
+[00:44:23:00 --> 00:44:23:05] tempo.
+[00:44:23:07 --> 00:44:26:20] Olha aqui, eu trouxe aqui para vocês também algumas referências.
+[00:44:26:20 --> 00:44:32:20] Então aqui os números, então tinha um sistema de numeral dos sumérios que era cuneiforme
+[00:44:32:20 --> 00:44:38:22] também e a gente consegue ver aqui então, antes os símbolos se pareciam...
+[00:44:40:01 --> 00:44:43:04] se pareciam com o que eles queriam representar.
+[00:44:43:10 --> 00:44:46:03] Com o tempo, quando foi ficando cuneiforme,
+[00:44:47:04 --> 00:44:49:08] eles começaram a ganhar muita abstração.
+[00:44:49:23 --> 00:44:52:04] E aí, para entender isso, você precisa entender a língua,
+[00:44:52:08 --> 00:44:54:14] você precisa entender o significado da língua.
+[00:44:54:23 --> 00:44:55:07] E por aí vai.
+[00:44:55:10 --> 00:44:58:25] Olha só a mudança que tem daqui até aqui.
+[00:44:59:10 --> 00:45:00:09] Então a gente pega rei,
+[00:45:00:10 --> 00:45:02:25] talvez eles queriam mostrar uma coroa ou alguma coisa assim,
+[00:45:03:25 --> 00:45:04:21] fizeram assim,
+[00:45:05:12 --> 00:45:06:11] depois simplificaram.
+[00:45:07:15 --> 00:45:13:12] é um caminho para simplificação, sabe? Olha que interessante a gente vendo menos é mais.
+[00:45:15:02 --> 00:45:17:05] É uma tendência humana querer fazer isso.
+[00:45:18:21 --> 00:45:22:15] Então, a gente começa a ver isso aqui com os sumérios.
+[00:45:22:27 --> 00:45:25:17] Depois dos sumérios, alguns anos depois,
+[00:45:25:21 --> 00:45:29:03] aqui eu trouxe também essa linha do tempo para facilitar para vocês,
+[00:45:29:20 --> 00:45:33:15] então a gente tem aqui todas as protoescritas que eu mostrei para vocês
+[00:45:33:15 --> 00:45:34:24] em ordem, tá?
+[00:45:34:24 --> 00:45:39:15] Então a gente tem o Jiahu, o Vinca, a tábua de Díspilo
+[00:45:39:15 --> 00:45:43:04] e os Indus, do Vale do Indo.
+[00:45:43:15 --> 00:45:46:12] Cada um em seu tempo aqui, então os chineses, os vincas,
+[00:45:47:00 --> 00:45:51:08] No Rio Danúbio, na Grécia, na Índia e na China.
+[00:45:52:09 --> 00:45:54:09] Período próximo ali, tudo pronto à escrita.
+[00:45:55:06 --> 00:46:01:19] O primeiro sistema de escrita que a gente tem registro, que a gente sabe, que a gente
+[00:46:01:19 --> 00:46:05:19] definiu, que é comprovado, é a escrita Cuneiforme do Sumérides, que eu acabei
+[00:46:05:19 --> 00:46:06:17] de mostrar pra vocês.
+[00:46:07:00 --> 00:46:10:26] Alguns anos depois, ali, 200 anos depois, o que não é nada, perto de toda a história
+[00:46:10:26 --> 00:46:17:18] aqui, veio um novo sistema de escrita dos egípcios, que são os famosos hieróglifos.
+[00:46:17:27 --> 00:46:21:07] Qual que é a diferença dos hieróglifos para os...
+[00:46:22:16 --> 00:46:29:22] cuneiformes. Os hierógrafos eram ideogramas. Então, eram desenhos que se pareciam com
+[00:46:29:22 --> 00:46:36:19] que eles queriam representar, em até certo grau, mas que possuíam significado linguístico.
+[00:46:36:19 --> 00:46:42:04] Eles não juntavam letras para formar sílabas, mas eles juntavam...
+[00:46:43:00 --> 00:46:48:04] eles juntavam coisas que tinham significados diferentes para trazer um significado novo.
+[00:46:48:27 --> 00:46:53:10] Então, eu poderia falar, por exemplo, que...
+[00:46:53:10 --> 00:46:57:10] Uma casinha com um ser humano representava LAR,
+[00:46:57:24 --> 00:47:00:24] ou poderia representar império, ou alguma coisa do tipo.
+[00:47:01:00 --> 00:47:03:25] Então, eles juntavam coisas que significavam diferentes,
+[00:47:04:12 --> 00:47:06:16] que tinham significados diferentes para ter um novo significado.
+[00:47:06:22 --> 00:47:10:01] Então, a gente tem aqui aproximadamente 6.900 sinais,
+[00:47:10:01 --> 00:47:16:01] E desses sinais você poderia juntar um sinal com o outro para poder formar um...
+[00:47:17:07 --> 00:47:21:11] uma mensagem, para poder transmitir uma mensagem que você gostaria de passar, ok?
+[00:47:22:02 --> 00:47:24:16] Ela é muito difícil de ser decifrada,
+[00:47:25:12 --> 00:47:28:07] os hierógrafos, porque são muitos sinais diferentes,
+[00:47:28:21 --> 00:47:33:21] apesar de alguns sinais virem do mesmo lugar, igual essa aguinha aqui.
+[00:47:34:22 --> 00:47:36:18] Tem alguns outros aqui, não está mostrando agora,
+[00:47:36:21 --> 00:47:40:23] que vieram dos sumérios, eu vou ver se eu tenho como mostrar aqui para vocês.
+[00:47:42:13 --> 00:47:43:07] Não tem.
+[00:47:43:17 --> 00:47:46:04] Mas olha só, a gente vê o mesmo movimento aqui.
+[00:47:46:08 --> 00:47:47:06] Olha que interessante.
+[00:47:48:07 --> 00:47:51:09] A gente tem uma coisa muito figurativa...
+[00:47:51:09 --> 00:47:52:13] Olha, vou mudar a cor aqui.
+[00:47:52:29 --> 00:47:55:08] Então, no primeiro momento, muito figurativo.
+[00:47:55:15 --> 00:47:56:09] Isso aqui é período.
+[00:47:56:15 --> 00:47:59:27] Se você quer saber de qual período é um hieróglifo,
+[00:48:00:07 --> 00:48:03:08] você só precisa ver o quão figurativo ele é.
+[00:48:03:14 --> 00:48:05:17] Então, esse hieróglifo aqui,
+[00:48:06:05 --> 00:48:06:29] hieróglifo aqui,
+[00:48:07:13 --> 00:48:09:19] ele já é mais do primeiro período,
+[00:48:09:19 --> 00:48:13:03] porque ele é muito figurativo.
+[00:48:13:26 --> 00:48:17:07] Aqui embaixo a gente já tem os hieróglifos evoluídos,
+[00:48:17:09 --> 00:48:21:02] mais abstraídos, esses aqui menos figurativos.
+[00:48:21:09 --> 00:48:24:04] Só que a gente consegue perceber um movimento aqui, tá vendo?
+[00:48:24:16 --> 00:48:27:14] Olha, a gente consegue perceber, isso daqui significa flecha,
+[00:48:27:27 --> 00:48:29:19] a bandeira, o peixe mesmo.
+[00:48:30:09 --> 00:48:31:27] Então, por exemplo, se eu pegasse...
+[00:48:34:19 --> 00:48:39:13] esse jarro com esse peixe, eu poderia falar, tipo, estoque de peixe, entende?
+[00:48:40:07 --> 00:48:43:20] É que eu que tô inventando isso, mas eu tô querendo mostrar pra vocês a lógica da
+[00:48:43:20 --> 00:48:43:27] coisa.
+[00:48:44:07 --> 00:48:49:08] Ou se eu pego aqui a flecha com peixe, então, caçar peixes, entendeu?
+[00:48:50:00 --> 00:48:55:15] Então várias ideias juntas formavam uma mensagem, igual aqueles joguinhos que a gente
+[00:48:55:15 --> 00:48:59:28] fazia quando era criança, que juntando as palavras a gente tinha que decifrar.
+[00:48:59:28 --> 00:49:04:24] basicamente do mesmo jeito, é assim que os iodeogramas funcionam, beleza?
+[00:49:05:03 --> 00:49:09:29] Eu não vi aqui agora as relações que existem, mas muitos símbolos são compartilhados, ó.
+[00:49:10:07 --> 00:49:15:29] Esse símbolo aqui, ele é muito comum, a gente vê ele, tanto aqui,
+[00:49:16:04 --> 00:49:19:23] quanto vocês vão ver também nos fenícios e no protossinaíteco.
+[00:49:19:28 --> 00:49:23:23] Tem esse símbolo, tem a bandeirinha aqui também, olha.
+[00:49:24:00 --> 00:49:29:10] Essa bandeirinha, ela é muito massa, porque no latim a gente tem esse símbolo aqui.
+[00:49:30:13 --> 00:49:31:24] Esse símbolo aqui do latim?
+[00:49:32:26 --> 00:49:35:08] que depois eu não sei se é L, L.
+[00:49:35:22 --> 00:49:37:29] Você já ouviu falar um som parecido com isso? L.
+[00:49:39:21 --> 00:49:41:26] veio desse símbolo aqui, essa bandeirinha.
+[00:49:42:25 --> 00:49:45:00] Esse aqui, que é água...
+[00:49:45:26 --> 00:49:50:18] Esse que é a água, depois virou um símbolo muito conhecido também.
+[00:49:51:24 --> 00:49:59:09] M, M, ou N, a gente vai ver isso lá no latim, lá na frente, então guardem esses símbolos
+[00:49:59:09 --> 00:50:06:11] porque é uma linguagem influenciando a outra, isso é muito comum e isso é uma das coisas
+[00:50:06:11 --> 00:50:07:27] mais interessantes, tá?
+[00:50:08:22 --> 00:50:14:06] Muitos símbolos de animais, dos objetos da época que eram muito utilizados, então
+[00:50:14:06 --> 00:50:19:04] nasceram os hierógrafos e eles que dominaram, foi o sistema de escrita que mais dominou
+[00:50:19:04 --> 00:50:26:01] ali na Mesopotâmia e também no norte da África, porque a maior parte dos textos sagrados
+[00:50:26:01 --> 00:50:29:03] eram escritos em hieróglifos, tá bom?
+[00:50:29:19 --> 00:50:33:29] E aí a gente tem aqui um período então, olha, com certeza rolou muita coisa aqui,
+[00:50:34:01 --> 00:50:34:13] né galera?
+[00:50:35:03 --> 00:50:38:07] Só que muita coisa não tá escrito nos livros de história, muita coisa a gente
+[00:50:38:07 --> 00:50:38:27] não sabe.
+[00:50:39:07 --> 00:50:41:04] E aqui eu peguei o essencial pra vocês.
+[00:50:41:16 --> 00:50:46:01] Dentro desse período, a história comum que é contada é a seguinte, cuneiforme,
+[00:50:46:01 --> 00:50:49:01] da cuneiform hierógrafo, do hierógrafo a gente já vem pra essa daqui.
+[00:50:50:14 --> 00:50:51:25] que eu não vou falar ainda qual que é, não.
+[00:50:52:01 --> 00:50:54:15] E dessa vem pra essa, e dessa vem pra essa.
+[00:50:55:07 --> 00:50:57:14] Essa é a história que geralmente é contada.
+[00:50:57:23 --> 00:51:00:03] Mas nesse paralelo a gente ainda tem aqui embaixo...
+[00:51:00:29 --> 00:51:05:06] Dois outros sistemas de escrita, ou protoescrita também,
+[00:51:05:20 --> 00:51:07:18] não é comprovado, confirmado isso,
+[00:51:08:18 --> 00:51:12:05] que influenciaram muito essa escrita aqui.
+[00:51:12:12 --> 00:51:14:17] E vocês vão ver isso comigo aqui agora, olha que interessante.
+[00:51:15:00 --> 00:51:17:03] Então, primeiro os hierógrafos minóicos.
+[00:51:17:11 --> 00:51:20:26] Na ilha de Creta, a gente tem esse sistema aqui,
+[00:51:20:27 --> 00:51:25:00] que a gente pode falar que é uma espécie de protoescrita,
+[00:51:25:01 --> 00:51:27:03] mas é uma espécie de hierógrafo.
+[00:51:27:15 --> 00:51:30:02] Também teve influência dos egípcios também,
+[00:51:30:02 --> 00:51:33:19] é bem parecido com os hieróglifos egípcios.
+[00:51:35:00 --> 00:51:37:27] o sistema de funcionamento é bem parecido também.
+[00:51:38:04 --> 00:51:40:27] A gente tem dois momentos diferentes aqui, se eu der zoom,
+[00:51:41:07 --> 00:51:42:25] vocês vão ver, olha só, isso aqui é uma cabeça.
+[00:51:44:15 --> 00:51:50:01] Parece um capacete de um soldado ateniense ou espartano, né?
+[00:51:50:23 --> 00:51:51:14] Parece aqui, ó...
+[00:51:53:18 --> 00:51:57:06] Parece com um capacete, isso que parece um pássaro.
+[00:51:57:14 --> 00:52:02:09] Aqui a gente tem com certeza um pássaro, mais um capacete aqui, que provavelmente é
+[00:52:02:09 --> 00:52:02:27] soldado.
+[00:52:02:29 --> 00:52:07:12] Falando do soldado, eu não consigo decifrar claramente, quem sabe um dia.
+[00:52:08:09 --> 00:52:10:17] Mas eu entendo que a lógica basicamente é essa.
+[00:52:10:18 --> 00:52:16:10] Então aqui, olha, eles separavam, isso daqui pode significar uma frase, como se
+[00:52:16:10 --> 00:52:17:06] fosse uma frase.
+[00:52:18:11 --> 00:52:20:02] Eles mostram que estavam juntos.
+[00:52:20:02 --> 00:52:26:06] essas informações juntas traduzem uma mensagem. Muito interessante. Aqui a gente tem um outro
+[00:52:26:06 --> 00:52:32:00] momento, uma evolução. Mas olha só que interessante então. Os hieróglifos minóicos vão ser
+[00:52:32:00 --> 00:52:37:01] origem do linear A e linear B, que eu vou mostrar para vocês depois. E ele veio antes
+[00:52:37:01 --> 00:52:43:14] do protossinaítico, que foi emblemático. O protossinaítico fez uma mudança brutal,
+[00:52:43:29 --> 00:52:49:00] mas ele também é muito importante. Aí a gente tem aqui na trajetória o linear
+[00:52:49:00 --> 00:52:57:00] o linear A e o linear B. Ainda na Grécia, a gente tem o linear A, que pouco se sabe ainda sobre ele,
+[00:52:57:00 --> 00:53:04:09] ainda não conseguiu decifrar o linear A, que é um sistema de escrita linear dos gregos, tá bom?
+[00:53:04:29 --> 00:53:11:04] É um sistema de escrita da ilha de Creta, é cretense, e é chamado linear porque,
+[00:53:11:04 --> 00:53:18:03] Apesar de derivados do ideograma, são símbolos que não são mais apenas uma representação
+[00:53:18:03 --> 00:53:23:23] do objeto, e sim uma forma abstrata, ou seja, é um símbolo de fato, não é figurativo,
+[00:53:24:05 --> 00:53:27:10] é algo abstrato, é uma forma mais abstrata.
+[00:53:27:27 --> 00:53:32:25] E tem esse nome linear por causa justamente do jeito de fazer ele, é bem linear,
+[00:53:33:05 --> 00:53:33:25] sem serifa.
+[00:53:35:03 --> 00:53:38:19] Eu esqueci o nome do cara que deu esse nome para esse alfabeto.
+[00:53:39:21 --> 00:53:44:02] Mas a gente tem o Linear A e ele influenciou alguns anos depois, nem muito tempo não,
+[00:53:44:09 --> 00:53:45:16] 200 anos, pouquinha coisa.
+[00:53:46:07 --> 00:53:50:01] E eu não estou sendo irônico aqui, falando da história da humanidade, é pouca coisa
+[00:53:50:01 --> 00:53:53:22] demais 200 anos, dentro do gráfico que eu mostrei para vocês.
+[00:53:56:05 --> 00:53:58:23] Bebendo uma água aqui. Não é pouca coisa.
+[00:53:59:08 --> 00:54:01:24] Mas o linear B, que esse sim...
+[00:54:02:20 --> 00:54:12:24] foi decifrado, e ele é a origem do alfabeto grego, mas não é sozinho a origem do alfabeto grego junto com os fenícios que a gente vai ver ali.
+[00:54:13:02 --> 00:54:27:21] Só que o mais interessante dele é que ele mostra que a Grécia já possuía um sistema de escrita antes de serem influenciados pelos sumérios.
+[00:54:27:21 --> 00:54:32:02] Então, já existia um sistema de escrita anterior e isso é uma das coisas que muita
+[00:54:32:02 --> 00:54:36:08] gente ensina errado, isso é uma das coisas que eu já vi escrito errado na internet várias
+[00:54:36:08 --> 00:54:41:05] vezes e é muito legal poder saber disso por aqui, porque aí vocês já ficam mais informados
+[00:54:41:05 --> 00:54:41:24] com isso também.
+[00:54:42:00 --> 00:54:46:02] Claro que é só fato histórico, o mais importante aqui é vocês verem a evolução
+[00:54:46:02 --> 00:54:50:02] mais do que se terem a exatidão, mas eu gosto sempre de trazer uma informação
+[00:54:50:02 --> 00:54:54:18] o mais próximo possível da realidade do que a verdade, tá?
+[00:54:54:18 --> 00:55:01:16] Então, o Linear B, 1600 anos antes de Cristo, ele evoluiu do Linear A, mas isso aqui que
+[00:55:01:16 --> 00:55:02:02] é importante.
+[00:55:02:15 --> 00:55:07:14] Diferente do Linear B, ele era um syllabário usado para escrever o grego micênico.
+[00:55:07:15 --> 00:55:13:02] Ou seja, o Linear B, diferente do Linear A, até onde a gente sabe, é um sistema de
+[00:55:14:06 --> 00:55:17:27] escrita, porque ele faz um registro linguístico.
+[00:55:18:01 --> 00:55:19:08] E isso que é o mais interessante.
+[00:55:19:14 --> 00:55:23:20] Aqui a gente fala que é syllabário, porque ao invés de separar por letras,
+[00:55:23:20 --> 00:55:30:15] eram separados por sílabas, mas eram grafemas, eram para representar somos, ok?
+[00:55:30:24 --> 00:55:35:23] E aí a gente entra então no famoso protossinaíteco aqui.
+[00:55:35:26 --> 00:55:37:18] Então olha só, só para a gente ter um panorama.
+[00:55:38:02 --> 00:55:43:27] Veio cuneiforme, veio os hieróglifos, lá na Grécia nasceram os hieróglifos também.
+[00:55:44:19 --> 00:55:47:14] Aqui está com a data errada, poxa, não é essa data não.
+[00:55:47:29 --> 00:55:50:12] Deixa eu pegar aqui o certinho para vocês.
+[00:55:51:17 --> 00:55:53:29] Cadê... 2000. Eu só escrevi errado ali.
+[00:55:54:06 --> 00:55:56:08] Tá no lugar certo, mas tá escrito errado aqui.
+[00:55:56:23 --> 00:55:58:15] Não é 3000, é 2000.
+[00:55:59:24 --> 00:56:08:08] anos. Então, passaram-se mil anos dos hieróglifos egípcios para poder chegar aqui nos hieróglifos
+[00:56:08:08 --> 00:56:12:24] minóicos de Creta. Então, dois mil anos depois de um tempo, a gente tem...
+[00:56:14:00 --> 00:56:19:02] Poxa, aqui tá 1800 a 1600. Então, 2000 anos na verdade é...
+[00:56:20:08 --> 00:56:20:19] aqui.
+[00:56:21:21 --> 00:56:26:26] massa tá tudo na conta certinha galera é esse aqui que ficou errado mesmo e
+[00:56:26:26 --> 00:56:29:11] provavelmente ele vai estar errado nos outros em algum momento eu printei o
+[00:56:29:11 --> 00:56:33:02] errado e sabe quando você vai dando control C e control V tem que ficar atento
+[00:56:33:02 --> 00:56:39:21] tá bem que eu vi aqui pra informar vocês então ó 2000 anos atrás hierógrafos
+[00:56:39:21 --> 00:56:45:26] de creta depois a gente tem os lineares A e B 1600 a 1800 aqui nesse período e
+[00:56:45:26 --> 00:56:50:28] Nesse período, mais ou menos, ali, entra o Proto-Sinaítico.
+[00:56:51:15 --> 00:56:53:06] Qual que é a história do Proto-Sinaítico?
+[00:56:53:26 --> 00:57:01:22] Proto-Sinaítico é uma mistura dos hierógrafos egípcios, uma mistura dos hierógrafos egípcios
+[00:57:02:17 --> 00:57:11:26] com a língua falada pelos hebreus ali no Monte Sinai, que era do controle do Egito.
+[00:57:13:03 --> 00:57:19:23] Então, a gente tem aqui uma adaptação da escrita egípcia com os povos semíticos,
+[00:57:19:29 --> 00:57:24:17] que falavam várias línguas e trabalhavam no Sinai, no mundo Sinai, que era do Egito.
+[00:57:24:23 --> 00:57:30:06] Foi a origem da estrutura do alfabeto que conhecemos hoje, porque vocês vão ver...
+[00:57:30:06 --> 00:57:32:08] Aqui está ruim de ver, mas olha só que interessante.
+[00:57:32:25 --> 00:57:34:27] Aqui a gente já começa a ver alguns elementos.
+[00:57:34:27 --> 00:57:43:03] tá? A gente chama de protossinaítico porque é um... é uma proto escrita...
+[00:57:44:00 --> 00:57:47:15] Mas já é muito perto de uma escrita, muito perto.
+[00:57:48:07 --> 00:57:52:00] Então, a gente tem aqui os símbolos representando os significados mesmo.
+[00:57:52:15 --> 00:57:56:09] Então, esse Alpe aqui significa boi, a gente vê aqui.
+[00:57:56:18 --> 00:57:57:26] Bet significa casa.
+[00:57:58:29 --> 00:58:00:18] Dig significa peixe.
+[00:58:00:24 --> 00:58:02:15] Então, todos esses símbolos. Olha esse daqui.
+[00:58:02:29 --> 00:58:06:16] A água... Deixa eu mudar a cor aqui, que eu estou riscando e não sai.
+[00:58:06:27 --> 00:58:07:20] A água...
+[00:58:08:11 --> 00:58:11:22] Grava esses aqui, os que eu vou marcar aqui, que são os mais interessantes.
+[00:58:11:22 --> 00:58:16:15] A gente tem água, a gente tem o olho, a gente tem o Urra,
+[00:58:17:12 --> 00:58:21:20] Urra, que é um bonequinho, a gente tem o Alf, que é o boi,
+[00:58:21:24 --> 00:58:23:29] a gente tem o Bet, que é casa.
+[00:58:24:12 --> 00:58:27:19] Guarde esses símbolos, guarde eles do Proto-Sinaitico,
+[00:58:27:22 --> 00:58:29:27] só que muito influenciado pelos hierógrafos.
+[00:58:30:05 --> 00:58:33:06] Isso aqui é hierógrafo, isso aqui é hierógrafo.
+[00:58:33:17 --> 00:58:35:06] Então, tem muitos que são hierógrafos
+[00:58:35:06 --> 00:58:39:04] e muita coisa aqui que é influenciada pelo...
+[00:58:40:22 --> 00:58:45:18] pelos povos semíticos que viviam no Monte Sinai, que trabalhavam lá.
+[00:58:45:20 --> 00:58:50:12] Então, era um sistema de escrita que os comerciantes, que os povos que estavam ali, falavam.
+[00:58:50:15 --> 00:58:53:14] Era uma mistura de duas línguas em uma única escrita.
+[00:58:53:29 --> 00:58:58:11] Então, nasceu dos hierógrafos egípcios isso, o Proto-Sinaitico.
+[00:58:58:18 --> 00:59:00:16] E aqui eu já destravei para vocês, né?
+[00:59:00:21 --> 00:59:05:10] Agora, todos que passarem eu vou ajeitando aqui para a gente para não ficar errado.
+[00:59:06:03 --> 00:59:06:14] 2000.
+[00:59:07:03 --> 00:59:12:01] Então, aqui eu já liberei para vocês alguns sistemas de escrita que nós não vamos tratar
+[00:59:12:01 --> 00:59:14:17] aqui agora, mas para vocês pelo menos verem a evolução.
+[00:59:14:19 --> 00:59:20:18] Então, a gente tem o Kanaanita, que é ali da região de Kanaã mesmo, dos povos semíticos
+[00:59:20:18 --> 00:59:23:06] mesmos, que originou do Proto-Sinaítico.
+[00:59:23:06 --> 00:59:24:05] Então, a gente tem o que?
+[00:59:25:04 --> 00:59:26:20] Hieróglifo, Proto-Sinaítico.
+[00:59:27:03 --> 00:59:35:02] Do Kanaanita a gente vem para o Sul Arábico, que é a origem do alfabeto do Abjad, árabe,
+[00:59:35:02 --> 00:59:36:11] O Aramaico.
+[00:59:37:21 --> 00:59:38:12] ebraico.
+[00:59:40:07 --> 00:59:45:18] informações aqui interessantes sobre a Bíblia, que eu acho muito massa, que eles falam que...
+[00:59:46:21 --> 00:59:49:19] foi Moisés que escreveu a Bíblia.
+[00:59:50:26 --> 01:00:03:24] E foi Moisés que escreveu a Bíblia, e Moisés viveu nessa época aqui, do Egito, com os hebreus,
+[01:00:03:26 --> 01:00:08:18] na época de Canaã, e provavelmente o sistema de escrita que ele usou foi algo perto do
+[01:00:09:16 --> 01:00:10:15] Proto-Sinaitico.
+[01:00:10:24 --> 01:00:15:03] Depois de muito tempo, depois a gente tem o Hebraico aqui, aqui nessa região aqui,
+[01:00:15:15 --> 01:00:20:08] tem o Hebraico, vai vir Roma também, tanto que marca aqui, antes de Cristo, o período
+[01:00:20:08 --> 01:00:26:23] que Jesus nasceu aqui, ele falava aramaico, se eu não me engano também.
+[01:00:27:26 --> 01:00:30:24] e a maior parte do tempo ficou lá em Nazaré,
+[01:00:31:24 --> 01:00:33:11] que é muita história disso também, muito massa.
+[01:00:33:17 --> 01:00:35:28] Mas, enfim, só que eu queria mostrar aqui para vocês
+[01:00:35:28 --> 01:00:38:22] que o alfabeto, o abjad,
+[01:00:39:01 --> 01:00:41:19] tem diferença do abjad, o abjad só tem consoante,
+[01:00:41:19 --> 01:00:43:20] o alfabeto tem consoante e vogal.
+[01:00:44:10 --> 01:00:46:12] A gente tem aqui também o árabe,
+[01:00:46:17 --> 01:00:49:15] que vai nascer depois, o alfabeto árabe que a gente...
+[01:00:49:15 --> 01:00:52:00] Toda hora eu falo alfabeto, relevem, né? Mas é isso mesmo.
+[01:00:52:29 --> 01:00:54:14] Ele vai nascer depois, se eu não me engano,
+[01:00:54:19 --> 01:00:55:25] 300 anos depois de Cristo,
+[01:00:55:25 --> 01:00:58:15] mas a origem dele já é anterior a isso, tá vendo?
+[01:00:59:07 --> 01:01:01:05] E veio do Proto-Sinaitico também.
+[01:01:01:12 --> 01:01:04:07] Depois pesquisem aí para ver o alfabeto, que é muito massa.
+[01:01:04:18 --> 01:01:08:16] A gente tem aqui os ossos do oráculo da China,
+[01:01:08:23 --> 01:01:10:00] como eu tinha falado para vocês.
+[01:01:10:07 --> 01:01:12:21] A gente fala que a história da China começou, na verdade, aqui.
+[01:01:13:26 --> 01:01:18:00] Mas tem indícios que começou aqui, ó, 6 mil anos atrás, lá em Jiharro.
+[01:01:18:14 --> 01:01:23:10] Ok? Então, só pra dar uma história pra vocês dos outros sistemas de escrita que nasceram,
+[01:01:23:15 --> 01:01:24:18] que existem até hoje.
+[01:01:24:24 --> 01:01:30:20] Tem o sistema de escrita da Índia também, que veio dos hindus, né, aqui.
+[01:01:32:17 --> 01:01:36:20] Tem vários sistemas de escrita, mas a partir de agora, daqui para frente, a gente vai focar
+[01:01:36:20 --> 01:01:38:09] no nosso alfabeto.
+[01:01:38:27 --> 01:01:47:00] Então agora vamos falar sobre essa linguagem aqui, que é a linguagem do fenício, o abjade
+[01:01:47:00 --> 01:01:47:17] fenício.
+[01:01:48:14 --> 01:01:57:26] Esse abjade aqui foi a maior influência para a Grécia, porque os mercadores fenícios,
+[01:01:58:18 --> 01:02:03:29] Fazendo transações lá na Grécia também, eles influenciaram muito o sistema de escrita da Grécia.
+[01:02:04:15 --> 01:02:06:15] Para chegar no alfabeto que a gente conhece hoje.
+[01:02:07:00 --> 01:02:09:14] Por isso que a gente vai ver muitos elementos, olha só.
+[01:02:10:11 --> 01:02:13:23] Muitos... ah, poxa, o Illustrator está brincando com a minha cara hoje.
+[01:02:14:05 --> 01:02:15:19] Vou colocar assim que vai ficar melhor.
+[01:02:16:06 --> 01:02:18:12] Então a gente tem muitos elementos aqui, olha.
+[01:02:20:01 --> 01:02:25:06] que se parecem com letras...
+[01:02:26:20 --> 01:02:27:23] que a gente conhece.
+[01:02:29:03 --> 01:02:32:29] e vocês vão ver essa evolução ainda maior.
+[01:02:33:26 --> 01:02:36:19] Show! Então, vamos dar uma olhada nesse daqui um pouco melhor.
+[01:02:37:16 --> 01:02:41:19] Aqui, qual foi a grande revolução?
+[01:02:42:15 --> 01:02:48:09] De 2 mil sinais lá dos sumérios, escrita com neiforme,
+[01:02:48:10 --> 01:02:52:24] 2 mil sinais e também mais de 5 mil sinais dos hieróglifos
+[01:02:52:24 --> 01:02:54:06] para 22 letras.
+[01:02:54:11 --> 01:02:56:24] Essa foi a revolução do Fenício.
+[01:02:56:24 --> 01:03:00:02] com apenas 22 letras.
+[01:03:00:12 --> 01:03:02:28] Esse aqui é um símbolo também, que a gente vai ver depois.
+[01:03:04:07 --> 01:03:05:15] Tem vários símbolos aí.
+[01:03:06:16 --> 01:03:07:28] E essa foi a grande revolução.
+[01:03:08:02 --> 01:03:11:06] Uma escrita simples e que...
+[01:03:12:03 --> 01:03:14:25] facilitou muito a escrita.
+[01:03:15:26 --> 01:03:16:16] da língua.
+[01:03:17:17 --> 01:03:21:12] Só que nesse caso aqui, ainda eram só consoantes, por isso que é a abjade.
+[01:03:22:03 --> 01:03:24:27] Olha só que massa o que começa a acontecer aqui.
+[01:03:25:18 --> 01:03:28:15] Lembra que eu falei pra você guardar o aleph?
+[01:03:28:28 --> 01:03:31:16] Aquele outro aleph lá? Aquele outro aleph lá era o boizinho.
+[01:03:32:09 --> 01:03:33:23] Agora esse boizinho já virou isso aqui.
+[01:03:36:09 --> 01:03:39:06] Lembra lá da casinha? Aquela casinha assim, ó.
+[01:03:39:14 --> 01:03:39:21] Beth.
+[01:03:40:14 --> 01:03:41:20] Beth agora virou isso daqui.
+[01:03:44:08 --> 01:03:46:25] Gino virou isso daqui da Letch.
+[01:03:47:23 --> 01:03:52:15] Parece algumas letras do alfabeto grego, né?
+[01:03:52:23 --> 01:03:54:18] E não é à toa, é para parecer mesmo.
+[01:03:55:05 --> 01:03:55:26] Olha essa aqui.
+[01:03:58:21 --> 01:03:59:19] Essa daqui, ó...
+[01:04:01:08 --> 01:04:05:24] do Water. Então vamos seguindo aqui que vocês vão ver isso cada vez mais presente. Mas olha,
+[01:04:05:25 --> 01:04:11:23] a gente tem aqui então um abjate completo. Agora não era mais aquele tanto de símbolos,
+[01:04:12:03 --> 01:04:17:14] tanto de informação complexa, a gente começa a simplificar. E os fernícios influenciaram
+[01:04:17:14 --> 01:04:17:26] muito.
+[01:04:17:26 --> 01:04:18:03] Então, até a próxima!
+[01:04:19:06 --> 01:04:24:18] os gregos. Então, a gente tem aqui os fenícios que foram influenciados pelo protossinaítico,
+[01:04:24:22 --> 01:04:29:23] que foram influenciados pelos hieróclifos, beleza? E os fenícios influenciaram.
+[01:04:31:07 --> 01:04:36:03] os gregos, que já tinham o linear A e o linear B,
+[01:04:37:12 --> 01:04:39:00] derivou do linear B,
+[01:04:39:15 --> 01:04:41:24] e foi influenciado pelos fenícios aqui.
+[01:04:42:16 --> 01:04:44:24] E ele é a origem do alfabeto que a gente conhece hoje.
+[01:04:45:03 --> 01:04:46:17] Então, a gente tem aqui o alfa.
+[01:04:47:17 --> 01:04:49:05] Alfa saiu disso.
+[01:04:49:24 --> 01:04:53:06] Para isso faz sentido para você, faz muito sentido para mim.
+[01:04:53:14 --> 01:04:54:25] Que saiu do quê? Saiu disso daqui.
+[01:04:57:05 --> 01:04:59:14] que significava boi, alp.
+[01:04:59:26 --> 01:05:00:29] Alp é alfa.
+[01:05:01:15 --> 01:05:02:07] O beta
+[01:05:02:29 --> 01:05:04:14] saiu disso daqui, ó.
+[01:05:04:27 --> 01:05:06:02] Era isso daqui.
+[01:05:06:18 --> 01:05:07:16] Virou isso daqui.
+[01:05:08:00 --> 01:05:09:08] Não, virou isso daqui.
+[01:05:10:19 --> 01:05:11:23] E depois virou isto aqui, ó.
+[01:05:13:17 --> 01:05:14:22] Faz muito sentido também.
+[01:05:16:00 --> 01:05:20:14] E, Juan, por que que eles mudavam a...
+[01:05:20:14 --> 01:05:23:14] Por que que uma letra tá pra um lado, depois ela virou pro outro?
+[01:05:23:23 --> 01:05:26:06] Isso é por causa de recurso tecnológico.
+[01:05:26:23 --> 01:05:28:11] O jeito de escrever a letra.
+[01:05:28:15 --> 01:05:33:04] Um escrevia com um gravetinho, o outro escrevia cuna e fórmula lá atrás,
+[01:05:33:21 --> 01:05:35:04] e também da direção.
+[01:05:35:21 --> 01:05:39:05] E os gregos, eles começaram a escrever de um jeito diferente.
+[01:05:39:12 --> 01:05:41:21] Antes era tudo escrito da direita pra esquerda.
+[01:05:42:29 --> 01:05:46:04] Assim, da direita para a esquerda, direita para a esquerda.
+[01:05:46:08 --> 01:05:49:06] Por ser escrito da direita para a esquerda, era mais fácil fazer isso aqui.
+[01:05:50:03 --> 01:05:51:02] Era muito mais fácil.
+[01:05:52:19 --> 01:05:53:20] direita pra esquerda.
+[01:05:55:19 --> 01:06:00:21] Os gregos, eles mudaram, eles começaram a escrever de um jeito que se chama Bustrophedon,
+[01:06:00:28 --> 01:06:03:16] uma coisa assim, que significa como o boiara.
+[01:06:04:18 --> 01:06:06:11] O sistema de escrita como o boiara.
+[01:06:06:14 --> 01:06:07:20] Como assim como o boiara?
+[01:06:07:23 --> 01:06:08:18] É mais ou menos assim, ó.
+[01:06:10:22 --> 01:06:15:10] Primeira linha para a direita, segunda linha para a esquerda e por assim por diante.
+[01:06:15:18 --> 01:06:21:09] Acho que é Bustrophedon ou Bustrofédon ou Bustrefodon.
+[01:06:22:19 --> 01:06:24:19] Alguma coisa assim, galera, pesquisem.
+[01:06:24:23 --> 01:06:25:28] Eu acho que é bustrofédão.
+[01:06:26:28 --> 01:06:28:02] que é como boiara.
+[01:06:28:23 --> 01:06:32:02] E por ter mudado a direção,
+[01:06:33:13 --> 01:06:35:27] e a maior parte dos seres humanos são destros,
+[01:06:36:05 --> 01:06:39:02] fica mais fácil de escrever nessa outra direção.
+[01:06:39:28 --> 01:06:41:01] E de ler também.
+[01:06:41:21 --> 01:06:43:05] Então, por isso que inverteu.
+[01:06:43:11 --> 01:06:44:08] A gente tem aqui...
+[01:06:45:27 --> 01:06:47:03] Algumas letras, ah?
+[01:06:48:04 --> 01:06:50:29] para o lado de lá, como o bet, como esse ri,
+[01:06:52:00 --> 01:06:56:22] como esse num aqui, men, esse men, men, men, men,
+[01:06:56:26 --> 01:06:59:06] vai virar uma outra letra que vocês conhecem aí,
+[01:06:59:06 --> 01:06:59:28] daqui a pouco.
+[01:07:00:12 --> 01:07:02:12] Show? Então, a gente tem aqui o alfabeto grego,
+[01:07:02:18 --> 01:07:06:09] alfabeto, gama, delta, épsilon, zeta, ômega,
+[01:07:06:18 --> 01:07:09:15] ti, fi, todo alfabeto grego,
+[01:07:09:26 --> 01:07:12:09] 100 minúsculas, isso aqui é muito importante, né?
+[01:07:12:19 --> 01:07:15:20] Talvez você já se perguntado quando é que surgiram as minúsculas.
+[01:07:15:26 --> 01:07:18:00] Pois é, a gente vai falar disso,
+[01:07:18:04 --> 01:07:23:22] Mais pra frente ainda, nem vai ser nessa aula, a gente vai falar isso depois, mas é sem minúsculas.
+[01:07:24:06 --> 01:07:30:08] O alfabeto grego ancestral, o grego raiz, ele não tinha minúsculas.
+[01:07:30:12 --> 01:07:33:28] Depois o grego moderno que passou a ter minúsculas também, beleza?
+[01:07:34:12 --> 01:07:35:20] Então a gente tem o alfabeto grego.
+[01:07:36:03 --> 01:07:41:29] Do grego então aqui, a gente começou a influenciar os romanos.
+[01:07:41:29 --> 01:07:51:07] E aí veio o alfabeto etrusco, lá em Roma, 800 anos antes de Cristo, desenvolvido na Itália, no século VIII.
+[01:07:51:24 --> 01:07:56:15] E olha só que interessante, o etrusco foi a origem do latim.
+[01:07:57:03 --> 01:08:02:03] E o latim é a origem do alfabeto que a gente... o nosso alfabeto é o alfabeto latino, né?
+[01:08:02:28 --> 01:08:08:16] E a gente já vê aqui, com muita clareza, deixa eu ver, olha só que interessante, o nosso alfabeto.
+[01:08:08:16 --> 01:08:13:19] E muitos dos elementos aqui vieram dos seus anteriores.
+[01:08:14:03 --> 01:08:20:16] Então, olha só o M. Lembra que eu te falei guarda-bandeira? Guarda-bandeira. M. N.
+[01:08:21:24 --> 01:08:22:29] guarda-bandeira.
+[01:08:23:04 --> 01:08:25:18] A gente tinha ela lá um pouco mais estilizada, né?
+[01:08:26:25 --> 01:08:29:18] e depois iria virar o M, iria virar o N.
+[01:08:30:07 --> 01:08:32:07] O É, que antes era invertido.
+[01:08:33:24 --> 01:08:34:13] Também...
+[01:08:35:28 --> 01:08:41:11] Alf, virou A, u-bet, virou B, e por aí vai.
+[01:08:41:28 --> 01:08:51:29] Então, os gregos influenciaram o alfabeto etrusco, que é esse aqui, e do etrusco que
+[01:08:51:29 --> 01:08:52:13] veio o latim.
+[01:08:52:15 --> 01:08:54:23] O que é que muda do etrusco para o latim?
+[01:08:54:26 --> 01:08:57:24] O latim descarta uma série de...
+[01:08:58:21 --> 01:09:01:09] de símbolos que a gente tem no Etrusco.
+[01:09:01:15 --> 01:09:04:14] Então, é mais ou menos assim, o Etrusco está entre o latim
+[01:09:04:14 --> 01:09:06:12] e entre o grego.
+[01:09:06:17 --> 01:09:09:04] Ele tem algumas coisas gregas, algumas coisas latinas.
+[01:09:09:23 --> 01:09:10:29] E é isso que eu vou mostrar aqui para vocês.
+[01:09:11:05 --> 01:09:14:21] Olha só, do Etrusco a gente veio para o latim arcaico.
+[01:09:15:08 --> 01:09:17:05] E olha só, o latim arcaico...
+[01:09:18:07 --> 01:09:23:12] poucas letras, reduziu, então diminuiu algumas letras, acrescentou algumas também, mas as letras
+[01:09:23:12 --> 01:09:26:23] essas que a gente conhece, então a, b, c, d, e, f.
+[01:09:28:10 --> 01:09:30:06] L M N O
+[01:09:33:07 --> 01:09:34:26] S-T-V
+[01:09:36:09 --> 01:09:37:10] Muito massa, né?
+[01:09:37:24 --> 01:09:38:10] Ex.
+[01:09:39:19 --> 01:09:40:05] Muito bom.
+[01:09:40:20 --> 01:09:43:04] Então, esse aqui é o latim arcaico.
+[01:09:43:10 --> 01:09:50:11] Desse latim, ele vai evoluir pro romano e aí do romano a gente tem o alfabeto que
+[01:09:50:11 --> 01:09:52:04] a gente conhece hoje.
+[01:09:52:19 --> 01:09:55:07] Só que isso a gente vai discutir na próxima aula.
+[01:09:55:20 --> 01:10:02:28] Na próxima aula a gente vai falar sobre como surgiram as minúsculas, a gente vai falar
+[01:10:04:04 --> 01:10:08:05] sobre a anatomia das letras, dos tipos de letras diferentes,
+[01:10:08:08 --> 01:10:11:08] vai ser uma aula incrível e tem muito o que a gente aprender lá.
+[01:10:11:18 --> 01:10:14:18] Agora, eu quero chegar numa conclusão aqui com vocês.
+[01:10:15:06 --> 01:10:18:04] Primeiro de tudo, eu gosto muito desse gráfico,
+[01:10:18:08 --> 01:10:19:21] a evolução do alfabeto.
+[01:10:19:26 --> 01:10:21:19] Apesar dele estar incompleto aqui,
+[01:10:21:19 --> 01:10:23:16] dá para poder colocar muito mais coisa,
+[01:10:23:25 --> 01:10:25:08] ele traz informações interessantes.
+[01:10:25:12 --> 01:10:27:14] Então, olha só, a gente tem o protossináidico aqui, né?
+[01:10:27:27 --> 01:10:29:17] E a gente pode fazer todo esse percurso.
+[01:10:29:27 --> 01:10:31:00] Digita no Google.
+[01:10:31:19 --> 01:10:34:28] Digita no Google, evolução do alfabeto, vocês vão encontrar esse gráfico.
+[01:10:35:04 --> 01:10:36:11] E olha que massa, galera.
+[01:10:36:25 --> 01:10:42:22] Então a gente tem aqui, ó, Proto-Sinaítico, o Alpe, né, do boi, foi para o Fenício,
+[01:10:43:06 --> 01:10:43:25] que virou Alf.
+[01:10:45:01 --> 01:10:50:05] Para o grego arcaico, se você reparar, eles têm relação, é uma representação que muda
+[01:10:50:05 --> 01:10:53:13] um pouco, mas existe uma relação ali, e isso que é excelente.
+[01:10:54:10 --> 01:10:55:04] Para o latim...
+[01:10:57:04 --> 01:10:59:18] para o Romano e para o Latim moderno.
+[01:10:59:24 --> 01:11:02:03] O Romano serifado e o Latim moderno sem serifa,
+[01:11:02:06 --> 01:11:03:09] Romão, é isso mesmo, é isso mesmo.
+[01:11:03:12 --> 01:11:06:12] A gente vai falar sobre serifa também na próxima aula, hein?
+[01:11:06:26 --> 01:11:08:03] Mas é muito massa. Olha só...
+[01:11:08:28 --> 01:11:09:27] Bet, casa.
+[01:11:11:01 --> 01:11:12:05] Virou aqui no fenício.
+[01:11:13:12 --> 01:11:14:03] No greco.
+[01:11:15:15 --> 01:11:21:02] no latim arcaico, no romano e no latim moderno.
+[01:11:21:07 --> 01:11:24:00] Só que aqui está errado, né? Essa parte aqui.
+[01:11:24:19 --> 01:11:27:18] Porque no latim arcaico ele já era influenciado pelo etrusco
+[01:11:27:18 --> 01:11:29:09] e o etrusco já era virado aqui.
+[01:11:30:18 --> 01:11:31:29] Já era virado, olha só.
+[01:11:32:16 --> 01:11:34:03] Vamos pegar um etrusco aqui.
+[01:11:34:07 --> 01:11:34:10] Aí, olha.
+[01:11:35:15 --> 01:11:39:15] No Etrusco o B já era viradinho, show!
+[01:11:40:12 --> 01:11:44:03] Então a gente tem aqui com a maioria das letras a origem dela, de onde elas surgiram.
+[01:11:44:06 --> 01:11:44:27] Lembra da água?
+[01:11:45:16 --> 01:11:46:08] Olha a água aqui.
+[01:11:48:16 --> 01:11:49:11] Que interessante.
+[01:11:51:05 --> 01:11:51:28] Muito massa, né?
+[01:11:53:05 --> 01:11:55:15] O qual outro que eu tinha falado pra ficar atento?
+[01:11:56:04 --> 01:11:57:16] Aqui ó, URRAH!
+[01:11:57:17 --> 01:11:59:04] URRAH! Lembra do URRAH?
+[01:11:59:14 --> 01:12:01:04] Olha só o bendito do URRAH!
+[01:12:02:06 --> 01:12:09:02] O Delta, Dalet, Peixe, Dalet, Delta, D
+[01:12:11:05 --> 01:12:12:09] Não é à toa.
+[01:12:12:23 --> 01:12:14:14] Não é à toa que B é beta,
+[01:12:15:09 --> 01:12:17:16] alfa é A, delta é D.
+[01:12:17:29 --> 01:12:18:21] Não é à toa, né?
+[01:12:19:02 --> 01:12:22:01] Representa um som. Muitos deles são grafemas.
+[01:12:23:28 --> 01:12:26:12] Vocês já pararam pra pensar por que o O?
+[01:12:26:24 --> 01:12:29:01] Isso aqui eu acho que é mais curioso em coincidência, né?
+[01:12:29:05 --> 01:12:33:14] O O veio de EIE, mas não era IE que falava, né?
+[01:12:33:21 --> 01:12:35:21] IE é inglês, mas veio de olho.
+[01:12:37:26 --> 01:12:38:09] Valeu!
+[01:12:40:02 --> 01:12:40:22] Muito mais.
+[01:12:43:15 --> 01:12:47:13] Deem uma olhada pra vocês verem, quem quiser brincar com isso daqui depois, eu já passei
+[01:12:47:13 --> 01:12:52:17] muitas horas aqui e eu gosto muito, eu acho muito interessante essa evolução.
+[01:12:52:25 --> 01:12:58:18] Claro que igual eu falei, tem muito mais informações, tem coisas que ficaram um pouco
+[01:12:58:18 --> 01:13:03:18] obscuras aqui, né, ou erradas, esse B não era assim, algumas letras também, tá
+[01:13:03:18 --> 01:13:05:07] pouco explicado, né, poxa.
+[01:13:06:11 --> 01:13:11:19] sair disso para isso, com certeza existe aqui uma transição que a gente desconhece.
+[01:13:11:29 --> 01:13:16:15] Então, mesmo assim, é muito interessante, a gente sai de uma coisa figurativa.
+[01:13:17:19 --> 01:13:20:12] para ir para uma coisa muito, muito abstrata.
+[01:13:21:09 --> 01:13:23:26] E isso aqui é o que eu queria mostrar para vocês nessa aula.
+[01:13:24:15 --> 01:13:28:05] Por que as letras são uma forma complexa?
+[01:13:28:15 --> 01:13:34:25] Porque mesmo que são complexas, elas não deixam de ser formas e um dia elas foram figurativas.
+[01:13:35:03 --> 01:13:38:18] Hoje elas são extremamente abstratas.
+[01:13:39:09 --> 01:13:42:00] Lembra lá, então, do diagrama das formas.
+[01:13:42:00 --> 01:13:44:18] Você tem formas concretas e formas abstratas.
+[01:13:44:24 --> 01:13:49:13] É uma evolução natural do ser humano a abstrair.
+[01:13:50:01 --> 01:13:53:04] Então, a conclusão que a gente tira, o mais importante de tudo,
+[01:13:53:17 --> 01:13:58:00] é que, independente do lugar onde a escrita nasceu,
+[01:13:58:14 --> 01:14:00:19] independente do período da escrita,
+[01:14:01:06 --> 01:14:03:08] todos os símbolos derivam...
+[01:14:05:15 --> 01:14:07:04] Vamos ler aqui.
+[01:14:07:05 --> 01:14:09:03] O mais importante, depois de tudo isso,
+[01:14:09:06 --> 01:14:12:14] é perceber que existe pelo menos um fator universal
+[01:14:12:14 --> 01:14:15:08] em todos os sistemas de escritas conhecidos.
+[01:14:15:18 --> 01:14:17:23] E isso aqui é o mais valioso de tudo, galera.
+[01:14:18:08 --> 01:14:21:10] Todos os sistemas de escritas derivam os símbolos
+[01:14:21:10 --> 01:14:24:14] de um antigo coletivo de imagens
+[01:14:24:14 --> 01:14:28:00] baseadas em formas animais e naturais.
+[01:14:28:24 --> 01:14:31:06] Então, tudo vem do concreto.
+[01:14:31:24 --> 01:14:36:10] O que é universal em todos os sistemas de escrita? Hoje, eles são abstratos.
+[01:14:37:26 --> 01:14:40:17] Mas a origem deles é concreta.
+[01:14:42:11 --> 01:14:45:00] E eles são formas, não deixam de ser formas.
+[01:14:45:16 --> 01:14:49:09] É por isso que o fundamento das formas contempla a tipografia.
+[01:14:51:01 --> 01:14:54:26] A escrita mudou o mundo, mas não foi do dia para a noite.
+[01:14:55:02 --> 01:14:57:02] Vocês conseguiram perceber isso aí muito bem.
+[01:14:57:21 --> 01:15:02:15] As letras são formas complexas, mas apesar de serem complexas...
+[01:15:03:11 --> 01:15:04:05] elas são formas.

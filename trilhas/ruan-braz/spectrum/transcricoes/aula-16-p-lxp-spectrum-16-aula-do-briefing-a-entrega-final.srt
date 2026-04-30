@@ -1,0 +1,2604 @@
+1
+00:00:00,000 --> 00:00:01,460
+Do briefing, a entrega final.
+
+2
+00:00:01,820 --> 00:00:03,500
+Então, qual que é a lógica aqui?
+
+3
+00:00:03,600 --> 00:00:07,300
+Um fluxo criativo eficiente funciona como um sistema de filtragem progressiva.
+
+4
+00:00:07,300 --> 00:00:11,320
+Inclusive, eu estou passando o texto, mas é sempre bom lembrar que está aqui embaixo o link
+
+5
+00:00:11,320 --> 00:00:15,240
+para você abrir esse doc aqui e ler o texto, acompanhar, jogar esse texto numa IA
+
+6
+00:00:15,240 --> 00:00:16,620
+para IA entender o processo aqui.
+
+7
+00:00:17,000 --> 00:00:18,240
+Usa do jeito que você achar melhor.
+
+8
+00:00:18,600 --> 00:00:22,420
+Cada etapa reduz incerteza, esclarece a intenção e aumenta a probabilidade
+
+9
+00:00:22,420 --> 00:00:23,800
+de chegar a uma solução coerente.
+
+10
+00:00:23,960 --> 00:00:25,020
+O mecanismo é simples.
+
+11
+00:00:25,580 --> 00:00:27,020
+Briefing define o problema.
+
+12
+00:00:27,020 --> 00:00:28,880
+problema. Pesquisa amplia
+
+13
+00:00:28,880 --> 00:00:31,020
+o espaço de possibilidades. Prompting
+
+14
+00:00:31,020 --> 00:00:32,960
+converte intenção em estrutura
+
+15
+00:00:32,960 --> 00:00:34,720
+para máquina estatística.
+
+16
+00:00:35,200 --> 00:00:36,680
+Geração explora o espaço.
+
+17
+00:00:37,060 --> 00:00:39,320
+Refino converge. Pós-produção
+
+18
+00:00:39,320 --> 00:00:41,480
+ajusta a fidelidade.
+
+19
+00:00:42,040 --> 00:00:43,100
+Validação testa
+
+20
+00:00:43,100 --> 00:00:45,080
+a aderência, então aplica no contexto
+
+21
+00:00:45,080 --> 00:00:46,740
+para ver se funcionou e entrega,
+
+22
+00:00:46,760 --> 00:00:47,900
+consolida isso.
+
+23
+00:00:48,360 --> 00:00:51,020
+Esse método aqui a gente tirou da onde? A gente tirou
+
+24
+00:00:51,020 --> 00:00:52,420
+do nosso coraçãozinho lindo? Não.
+
+25
+00:00:52,500 --> 00:00:55,160
+A gente tirou simplesmente da metodologia
+
+26
+00:00:55,160 --> 00:00:56,860
+universal de design mais
+
+27
+00:00:57,280 --> 00:00:59,000
+conhecida do mundo, feita lá no
+
+28
+00:00:59,000 --> 00:01:01,240
+Design Council do Reino Unido, que se chama
+
+29
+00:01:01,240 --> 00:01:03,000
+Double Diamond. Então,
+
+30
+00:01:03,040 --> 00:01:05,080
+o processo que a gente segue aqui na Overlands,
+
+31
+00:01:05,160 --> 00:01:07,100
+basicamente pra qualquer coisa que a gente vai
+
+32
+00:01:07,100 --> 00:01:08,960
+construir aqui, é o bendito
+
+33
+00:01:08,960 --> 00:01:10,980
+Double Diamond. Inclusive, a gente tem uma trilha,
+
+34
+00:01:10,980 --> 00:01:12,560
+eu fico falando toda hora pra te lembrar,
+
+35
+00:01:12,720 --> 00:01:15,060
+porque essa trilha é poderosa, onde eu explico
+
+36
+00:01:15,060 --> 00:01:17,180
+pra você o processo de Double Diamond,
+
+37
+00:01:17,200 --> 00:01:19,160
+como surgiu, como funciona e como que aplica,
+
+38
+00:01:19,200 --> 00:01:21,220
+que é o Design Thinking. Então, assiste
+
+39
+00:01:21,220 --> 00:01:23,200
+essa trilha aqui, você vai aprender mais sobre essa história,
+
+40
+00:01:23,360 --> 00:01:24,960
+vai entender mais como aplicar isso em qualquer
+
+41
+00:01:24,960 --> 00:01:26,880
+projeto seu. Beleza? Então,
+
+42
+00:01:26,920 --> 00:01:29,220
+tudo isso aqui é uma derivação de expandir e convergir,
+
+43
+00:01:29,260 --> 00:01:30,060
+expandir e convergir.
+
+44
+00:01:31,740 --> 00:01:35,140
+Ignorar qualquer etapa é como publicar um estudo sem revisar os dados.
+
+45
+00:01:35,200 --> 00:01:37,080
+Parece convincente, mas não sustenta rigor.
+
+46
+00:01:37,400 --> 00:01:41,020
+E aí vem uma coisa muito interessante aqui dentro dessa estrutura.
+
+47
+00:01:41,780 --> 00:01:44,240
+Double Diamond, que eu acabei de apresentar para vocês,
+
+48
+00:01:44,420 --> 00:01:46,340
+a gente usa não só para gerar imagens.
+
+49
+00:01:46,400 --> 00:01:49,480
+A gente usa para gerar softwares, a gente usa para poder gerar vídeo,
+
+50
+00:01:49,600 --> 00:01:50,600
+a gente usa para gerar música.
+
+51
+00:01:50,880 --> 00:01:54,420
+Então, você está assistindo aqui, vai se aplicar para todas as outras trilhas
+
+52
+00:01:54,420 --> 00:01:55,860
+e você vai me ouvir falando isso aqui bastante.
+
+53
+00:01:56,240 --> 00:01:59,400
+Mas é interessante porque tem essa abordagem bem universal
+
+54
+00:01:59,400 --> 00:02:03,960
+e funciona muito bem, porque vem da lógica de exploração e refinamento do design.
+
+55
+00:02:04,420 --> 00:02:05,840
+Quais são os pontos cegos?
+
+56
+00:02:05,880 --> 00:02:08,160
+Primeiro, as pessoas confundem a intenção com clareza.
+
+57
+00:02:08,240 --> 00:02:10,920
+Ter uma intenção é o primeiro passo, você quer fazer algo.
+
+58
+00:02:11,100 --> 00:02:14,340
+Mas ter clareza do que você quer fazer é completamente diferente.
+
+59
+00:02:14,720 --> 00:02:17,740
+Quando nós estamos começando a aprender sobre design, criação, arte,
+
+60
+00:02:17,920 --> 00:02:19,260
+você já deve ter vivido isso.
+
+61
+00:02:19,400 --> 00:02:22,880
+Você vai fazer um desenho, tem a ideia aqui na sua cabeça de como você vai fazer isso,
+
+62
+00:02:23,040 --> 00:02:24,580
+aí você começa a desenhar e fica horrível.
+
+63
+00:02:24,620 --> 00:02:25,480
+Você fala, eu não consigo fazer.
+
+64
+00:02:25,600 --> 00:02:29,020
+É porque você não está sabendo traduzir isso em intenção com clareza.
+
+65
+00:02:29,400 --> 00:02:33,280
+Para isso, você precisa ter um momento de clarificação do que está aqui dentro,
+
+66
+00:02:33,420 --> 00:02:36,500
+para você e para as outras pessoas que vão trabalhar com você,
+
+67
+00:02:36,540 --> 00:02:39,180
+porque se nem você entende ainda o que você quer, as outras não vão entender.
+
+68
+00:02:39,420 --> 00:02:42,640
+E a gente passa por isso aqui na Overlens com muita frequência,
+
+69
+00:02:42,700 --> 00:02:45,200
+porque quando a ideia não está clara na minha cabeça,
+
+70
+00:02:45,300 --> 00:02:47,820
+e eu tento passar ela para a Thais, tento passar ela para o Davi,
+
+71
+00:02:47,940 --> 00:02:50,840
+tento passar ela para o Fernando ou para o Rafael,
+
+72
+00:02:50,960 --> 00:02:52,680
+para a galera aqui, para a nossa equipe,
+
+73
+00:02:52,700 --> 00:02:56,420
+quando eu tento passar isso para eles, se não está claro para mim,
+
+74
+00:02:56,540 --> 00:02:59,260
+eu vejo na hora que eles vão ficando confusos.
+
+75
+00:02:59,400 --> 00:03:01,780
+eles vão ficando, a Thaís fala muito assim
+
+76
+00:03:01,780 --> 00:03:03,900
+eu tô tentando entender o que você
+
+77
+00:03:03,900 --> 00:03:05,620
+quer, aí eu falo, não, pera, é porque
+
+78
+00:03:05,620 --> 00:03:07,300
+não tá claro pra mim, deixa eu organizar
+
+79
+00:03:07,300 --> 00:03:09,380
+e geralmente como que eu organizo?
+
+80
+00:03:09,760 --> 00:03:11,560
+Briefing bem feito ou mood board
+
+81
+00:03:11,560 --> 00:03:13,660
+bem feito também, são dois caminhos aqui, então
+
+82
+00:03:13,660 --> 00:03:15,880
+um é mais visual e o outro é mais estrutural
+
+83
+00:03:15,880 --> 00:03:17,780
+mas ambos funcionam super bem
+
+84
+00:03:18,220 --> 00:03:19,480
+geralmente eu gosto de um tempo
+
+85
+00:03:20,040 --> 00:03:21,560
+pra eu parar e falar, calma
+
+86
+00:03:21,560 --> 00:03:23,920
+deixa eu organizar, o que que eu quero?
+
+87
+00:03:24,000 --> 00:03:25,680
+aí eu começo a jogar ali, faço o mapa mental
+
+88
+00:03:26,520 --> 00:03:27,860
+organizo primeiro a ideia na minha cabeça
+
+89
+00:03:27,860 --> 00:03:29,120
+esse é o primeiro passo de todos
+
+90
+00:03:29,120 --> 00:03:29,720
+Beleza?
+
+91
+00:03:29,740 --> 00:03:31,820
+Se você tem intenção, mas não tem clareza,
+
+92
+00:03:31,880 --> 00:03:34,160
+você vai ficar dando voltas e voltas e voltas
+
+93
+00:03:34,160 --> 00:03:36,800
+e por isso muita gente perde tempo na hora de criar projetos.
+
+94
+00:03:37,500 --> 00:03:41,240
+Dizer sei o que quero não significa ter descrito corretamente o que deseja.
+
+95
+00:03:41,360 --> 00:03:43,180
+A maioria pula a fase de referência.
+
+96
+00:03:44,080 --> 00:03:46,280
+Já, eu quero isso aqui, já vai lá criar com a IA.
+
+97
+00:03:46,480 --> 00:03:48,660
+E esse aqui é um dos maiores erros que você pode cometer
+
+98
+00:03:48,660 --> 00:03:52,780
+e é por isso que você não tem consistência nos projetos que você cria.
+
+99
+00:03:53,540 --> 00:03:56,180
+Construir um mood board dentro da Overlance, a gente faz muito isso.
+
+100
+00:03:56,180 --> 00:03:56,700
+Isso, né?
+
+101
+00:03:56,760 --> 00:03:59,480
+Aqui eu tenho que matar a cobra e mostrar a cobra morta, não é isso?
+
+102
+00:03:59,700 --> 00:04:04,020
+Então eu vou mostrar aqui para vocês já alguns mood boards que a gente faz, tá?
+
+103
+00:04:04,040 --> 00:04:05,080
+Só para vocês começarem a ver.
+
+104
+00:04:05,140 --> 00:04:06,140
+Deixa eles carregando aqui.
+
+105
+00:04:06,460 --> 00:04:08,060
+Aqui a Thais organizou bonitinho.
+
+106
+00:04:08,540 --> 00:04:10,220
+Geralmente não fica tão bonitinho assim, não.
+
+107
+00:04:10,260 --> 00:04:11,760
+Deixa eu mostrar a vida real também, né?
+
+108
+00:04:13,740 --> 00:04:14,800
+Processo criativo aqui, ó.
+
+109
+00:04:15,100 --> 00:04:16,320
+Vou pegar dentro de processo criativo.
+
+110
+00:04:16,400 --> 00:04:17,740
+Aqui vocês já estão vendo um pouco, né?
+
+111
+00:04:17,980 --> 00:04:18,940
+Da confusão.
+
+112
+00:04:19,240 --> 00:04:22,360
+Mas a gente abre o Figma ou pode ser um outro Canva,
+
+113
+00:04:22,360 --> 00:04:25,160
+algum lugar que você possa jogar referências e a gente começa.
+
+114
+00:04:25,160 --> 00:04:28,000
+Começa, é muito print, é muito texto, é muita imagem.
+
+115
+00:04:28,700 --> 00:04:33,460
+Começa a tirar da cabeça e falar, isso eu quero, isso eu não quero, isso eu quero, isso eu não quero, isso eu quero, isso eu não quero.
+
+116
+00:04:33,580 --> 00:04:35,320
+E vai fazendo esse processo aí.
+
+117
+00:04:35,920 --> 00:04:36,780
+Isso é clarear.
+
+118
+00:04:37,460 --> 00:04:39,800
+Pode ser coletivo ou pode ser sozinho.
+
+119
+00:04:39,900 --> 00:04:42,040
+Mas é extremamente importante.
+
+120
+00:04:42,620 --> 00:04:44,620
+Aqui no nosso caso é tudo bagunçado mesmo.
+
+121
+00:04:44,840 --> 00:04:47,200
+A gente tem o lugar feio, que a gente gosta de chamar assim.
+
+122
+00:04:47,360 --> 00:04:50,700
+O lugar feio é o que a gente não quer, porque fica muito genérico e tal.
+
+123
+00:04:50,800 --> 00:04:51,960
+A gente vai descartando.
+
+124
+00:04:52,580 --> 00:04:53,760
+Aí tem aqui, nesse projeto,
+
+125
+00:04:53,820 --> 00:04:55,700
+teve o meu mood board, o mood board da Thaís
+
+126
+00:04:55,700 --> 00:04:56,620
+e o mood board do Fernando.
+
+127
+00:04:56,980 --> 00:05:01,240
+Depois a gente pegou e juntou a visão de cada um.
+
+128
+00:05:01,340 --> 00:05:03,540
+Não, então a gente tem aqui interseções legais
+
+129
+00:05:03,540 --> 00:05:05,000
+ou às vezes a gente descartava.
+
+130
+00:05:05,060 --> 00:05:06,340
+Não, não é pra esse lado que a gente quer ir.
+
+131
+00:05:06,420 --> 00:05:08,660
+Então, olha só, é muito print em cima de print.
+
+132
+00:05:09,020 --> 00:05:10,240
+É exploração mesmo.
+
+133
+00:05:10,340 --> 00:05:12,480
+Isso aqui é processo de design na veia.
+
+134
+00:05:12,520 --> 00:05:13,940
+É o que você aprende na faculdade,
+
+135
+00:05:13,940 --> 00:05:16,680
+é o que você aprende quando você vai, de fato, fazer design.
+
+136
+00:05:16,880 --> 00:05:19,560
+Que é tirar a ideia da cabeça e colocar a ideia no papel.
+
+137
+00:05:19,800 --> 00:05:21,180
+Esse é o primeiro passo, tá?
+
+138
+00:05:21,180 --> 00:05:23,040
+só para mostrar um pouquinho da confusão.
+
+139
+00:05:23,340 --> 00:05:24,740
+E aqui alguns exemplos.
+
+140
+00:05:25,400 --> 00:05:26,560
+Nossos mood boards também,
+
+141
+00:05:27,340 --> 00:05:29,280
+que muita gente confunde, mas é diferente.
+
+142
+00:05:30,972 --> 00:05:33,512
+Nosso mood board também tem uma camada de painel semântico,
+
+143
+00:05:33,572 --> 00:05:36,492
+que é diferente de mood board, as pessoas confundem.
+
+144
+00:05:36,652 --> 00:05:38,672
+Mood board não é painel semântico.
+
+145
+00:05:38,792 --> 00:05:42,592
+Mood board é quando você organiza o humor, é um quadro de humor.
+
+146
+00:05:42,792 --> 00:05:44,452
+Mood board.
+
+147
+00:05:44,712 --> 00:05:49,372
+Então você organiza o humor do projeto, é a atmosfera dele como um todo.
+
+148
+00:05:49,812 --> 00:05:51,712
+Painel semântico, adivinha o que você organiza?
+
+149
+00:05:52,072 --> 00:05:52,572
+Semântica.
+
+150
+00:05:52,692 --> 00:05:54,692
+E semântica não é a mesma coisa que humor.
+
+151
+00:05:54,992 --> 00:05:57,252
+Então geralmente painel semântico são textos,
+
+152
+00:05:57,252 --> 00:05:59,392
+são signos que você constrói em tabelas.
+
+153
+00:05:59,392 --> 00:06:02,032
+A gente faz isso muitas vezes em tabelas ou em listas.
+
+154
+00:06:02,052 --> 00:06:06,392
+Aqui a Thais organizou um painel semântico junto com um mood board.
+
+155
+00:06:06,532 --> 00:06:09,832
+Só que ela fez isso de um jeito bonitinho para vocês verem organizados.
+
+156
+00:06:09,872 --> 00:06:13,092
+Então aqui tem um mood board carregando algumas palavras, aqui tem outro.
+
+157
+00:06:13,372 --> 00:06:16,372
+Eu vou falar com a equipe também para disponibilizar esse material aqui
+
+158
+00:06:16,372 --> 00:06:19,472
+para você que está assistindo aqui gravado, fez a assinatura da Overlens,
+
+159
+00:06:19,472 --> 00:06:20,992
+que embaixo você vai poder acessar.
+
+160
+00:06:21,452 --> 00:06:23,752
+Detalhe, esse material aqui...
+
+161
+00:06:24,924 --> 00:06:27,204
+Tá, a gente libera pra vocês que vocês bateram a meta.
+
+162
+00:06:27,324 --> 00:06:27,664
+Tá tudo bem.
+
+163
+00:06:27,784 --> 00:06:29,144
+Então tem aqui o mood board também.
+
+164
+00:06:29,764 --> 00:06:31,184
+São vários mood boards, tá vendo?
+
+165
+00:06:31,324 --> 00:06:32,144
+Vários testes.
+
+166
+00:06:32,144 --> 00:06:33,784
+E eles precisam de coerência visual.
+
+167
+00:06:33,864 --> 00:06:36,124
+Depois que a gente expande, refina.
+
+168
+00:06:36,124 --> 00:06:37,044
+Expande, refina.
+
+169
+00:06:37,184 --> 00:06:37,844
+Double diamond.
+
+170
+00:06:38,104 --> 00:06:40,244
+Pra ter referência aqui também de...
+
+171
+00:06:41,916 --> 00:06:43,756
+consistência, né? Do que a gente quer
+
+172
+00:06:43,756 --> 00:06:45,896
+construir. Ou seja, eu quero referências
+
+173
+00:06:45,896 --> 00:06:48,016
+que funcionam bem juntas. É o que a gente
+
+174
+00:06:48,016 --> 00:06:49,616
+quer construir nessa etapa aqui.
+
+175
+00:06:50,076 --> 00:06:51,836
+Beleza? Então, voltando. A maioria pula essa
+
+176
+00:06:51,836 --> 00:06:53,916
+fase, mas pra mim é a mais importante,
+
+177
+00:06:54,056 --> 00:06:55,816
+principalmente se você trabalha com equipe ou
+
+178
+00:06:55,816 --> 00:06:57,876
+com IaaS. Porque a pessoa
+
+179
+00:06:57,876 --> 00:06:59,616
+do outro lado, ou o robô do outro lado, não
+
+180
+00:06:59,616 --> 00:07:01,736
+lê sua mente. Pelo menos não tem tecnologia
+
+181
+00:07:01,736 --> 00:07:03,796
+pra ler sua mente ainda. Prompts
+
+182
+00:07:03,796 --> 00:07:05,876
+não substituem decisão. Ah, e detalhe, antes de eu
+
+183
+00:07:05,876 --> 00:07:07,856
+avançar pra esse aqui. Eu tenho certeza que se tivesse
+
+184
+00:07:07,856 --> 00:07:09,856
+uma tecnologia que lê a mente das pessoas, não
+
+185
+00:07:09,856 --> 00:07:11,716
+ia resolver o problema. Porque a maioria das pessoas não
+
+186
+00:07:11,716 --> 00:07:13,176
+não param para pensar o que elas querem,
+
+187
+00:07:13,276 --> 00:07:16,256
+não param para clarear na mente delas o que elas precisam.
+
+188
+00:07:16,296 --> 00:07:17,756
+Então mesmo que eu lesse a sua mente,
+
+189
+00:07:17,816 --> 00:07:19,456
+eu ia encontrar um monte de confusão aí
+
+190
+00:07:19,456 --> 00:07:21,256
+e não ia conseguir te ajudar do mesmo jeito.
+
+191
+00:07:21,716 --> 00:07:23,836
+Então tem que clarear a ideia primeiro.
+
+192
+00:07:24,556 --> 00:07:26,236
+Prompts não substituem decisão.
+
+193
+00:07:26,596 --> 00:07:28,056
+E aí que tem um ponto importante.
+
+194
+00:07:28,236 --> 00:07:29,896
+Design é uma profissão de decisão.
+
+195
+00:07:29,896 --> 00:07:31,636
+Nós estamos tomando decisão o tempo todo.
+
+196
+00:07:31,736 --> 00:07:33,676
+Quando você faz design, você toma decisões.
+
+197
+00:07:34,096 --> 00:07:36,196
+E dentro dessas decisões que nós tomamos,
+
+198
+00:07:36,396 --> 00:07:41,076
+o nosso papel aqui é escolher e abrir mão.
+
+199
+00:07:41,076 --> 00:07:42,856
+mão. Então, agarro aqui e solto aqui.
+
+200
+00:07:43,316 --> 00:07:45,016
+Escolhei abrir mão. Porque se você tenta ser tudo,
+
+201
+00:07:45,076 --> 00:07:46,976
+você não é nada e não comunica o que você precisa
+
+202
+00:07:46,976 --> 00:07:48,976
+comunicar. E essa decisão,
+
+203
+00:07:48,976 --> 00:07:50,896
+ela tem que vir antes do prompt. Qual o caminho
+
+204
+00:07:50,896 --> 00:07:52,836
+que você vai seguir? Qual que é o mood? Qual que é a
+
+205
+00:07:52,836 --> 00:07:54,216
+mensagem que tem que passar? Qual que é
+
+206
+00:07:55,336 --> 00:07:56,776
+quais são os signos que você quer
+
+207
+00:07:56,776 --> 00:07:57,636
+transmitir ali dentro?
+
+208
+00:07:58,908 --> 00:08:00,968
+90% das pessoas não fazem isso.
+
+209
+00:08:01,188 --> 00:08:03,328
+Esse dado aqui, na verdade, eu só joguei.
+
+210
+00:08:03,388 --> 00:08:04,488
+Não vamos usar palavras assim.
+
+211
+00:08:04,788 --> 00:08:06,828
+Quando eu trouxer dados, eu quero que sejam dados reais.
+
+212
+00:08:07,068 --> 00:08:08,888
+Então, a maioria das pessoas,
+
+213
+00:08:09,688 --> 00:08:10,708
+maioria das pessoas,
+
+214
+00:08:10,768 --> 00:08:12,488
+inclusive professores que ensinam para vocês,
+
+215
+00:08:12,528 --> 00:08:14,868
+muitas vezes pulam essa etapa de decisão.
+
+216
+00:08:14,908 --> 00:08:15,608
+E ela é muito importante.
+
+217
+00:08:16,368 --> 00:08:17,788
+Geração não é conclusão.
+
+218
+00:08:18,288 --> 00:08:20,408
+Então, você gerou uma imagem, não está pronta a imagem.
+
+219
+00:08:20,668 --> 00:08:22,368
+Sua imagem às vezes precisa de pós, precisa de edição,
+
+220
+00:08:22,488 --> 00:08:24,068
+precisa de um ajuste de iluminação.
+
+221
+00:08:24,508 --> 00:08:26,828
+E as pessoas param ali. Por isso que fica com cara de A.
+
+222
+00:08:26,928 --> 00:08:28,528
+Às vezes você tem uma imagem incrível,
+
+223
+00:08:28,528 --> 00:08:33,468
+Porque se você fizesse um color adjustment ali, você já teria algo muito, muito incrível.
+
+224
+00:08:33,688 --> 00:08:35,668
+Só que você não fez ajustes nela.
+
+225
+00:08:35,788 --> 00:08:38,428
+E aí, por não fazer ajustes, tá lá com cara de azona.
+
+226
+00:08:38,868 --> 00:08:39,348
+Pegou?
+
+227
+00:08:39,948 --> 00:08:42,168
+Então, gerar não significa estar pronto.
+
+228
+00:08:43,408 --> 00:08:44,928
+Validação não é opinião.
+
+229
+00:08:45,308 --> 00:08:46,988
+É aderência ao briefing.
+
+230
+00:08:47,268 --> 00:08:49,048
+Então, o que isso aqui quer dizer?
+
+231
+00:08:49,568 --> 00:08:53,228
+Você tem um briefing validado quando ele passa pelos critérios do projeto.
+
+232
+00:08:53,408 --> 00:08:54,848
+E não quando você gostou do briefing.
+
+233
+00:08:55,028 --> 00:08:56,848
+Ou quando as informações ali estão divertidas.
+
+234
+00:08:57,388 --> 00:09:01,968
+Um problema, inclusive, grande que as pessoas que usam o IA cometem e não levam em consideração
+
+235
+00:09:01,968 --> 00:09:06,928
+é que as pessoas estão gerando briefings com o IA e não estão lendo a porra do briefing.
+
+236
+00:09:07,268 --> 00:09:11,408
+E aí você não lê o briefing, dá errado, e você fala, onde deu errado?
+
+237
+00:09:11,748 --> 00:09:17,868
+Tá lá, tá lá escrito lá, na linha 52 ali, exatamente falando pra IA fazer o que você não queria que ela fizesse.
+
+238
+00:09:18,188 --> 00:09:22,808
+Tem problema enriquecer o briefing com o IA? Nenhum, não tem problema, faz isso à vontade.
+
+239
+00:09:23,428 --> 00:09:24,208
+Mas leia o briefing.
+
+240
+00:09:24,348 --> 00:09:27,228
+Se tem um documento que você tem que ler, é o briefing.
+
+241
+00:09:27,688 --> 00:09:31,148
+Ali tem todas as instruções até que você vai passar para a inteligência artificial
+
+242
+00:09:31,148 --> 00:09:32,088
+e para a sua equipe, entendeu?
+
+243
+00:09:32,808 --> 00:09:34,028
+Então leve isso em consideração.
+
+244
+00:09:35,228 --> 00:09:36,368
+Qual que é o nosso sistema, então?
+
+245
+00:09:37,408 --> 00:09:40,808
+Diagnóstico, Briefing, então a gente define problema, objetivo, restrições, impactos,
+
+246
+00:09:40,808 --> 00:09:41,668
+outras questões também.
+
+247
+00:09:41,768 --> 00:09:44,068
+Dentro da plataforma da Overlens, a gente tem um Briefing completo,
+
+248
+00:09:44,328 --> 00:09:46,748
+que eu mostro várias características aqui, olha.
+
+249
+00:09:47,468 --> 00:09:48,188
+Briefing padrão.
+
+250
+00:09:48,528 --> 00:09:51,908
+Esse Briefing padrão aqui, ele é gigante, ó.
+
+251
+00:09:51,908 --> 00:09:54,528
+Tem várias perguntas aqui que você pode fazer em um projeto, tá?
+
+252
+00:09:54,628 --> 00:09:56,788
+Não precisa fazer todas, depende de cada projeto,
+
+253
+00:09:56,968 --> 00:09:59,048
+mas a gente categorizou bem aqui pra vocês.
+
+254
+00:09:59,308 --> 00:10:01,048
+Isso aqui foi feito antes da época da IA,
+
+255
+00:10:01,108 --> 00:10:04,168
+ou seja, cada coisa que vocês estão vendo escrita aqui foi escrita à mão por mim.
+
+256
+00:10:04,168 --> 00:10:06,348
+é de uma outra era da humanidade
+
+257
+00:10:06,348 --> 00:10:07,468
+mas bem legal
+
+258
+00:10:08,348 --> 00:10:09,428
+então tá aí o briefing
+
+259
+00:10:10,068 --> 00:10:11,888
+que vocês podem baixar, depois
+
+260
+00:10:12,308 --> 00:10:14,088
+exploração, na exploração a gente faz pesquisa
+
+261
+00:10:14,088 --> 00:10:15,668
+pesquisa ainda não é o mood board, tá?
+
+262
+00:10:15,708 --> 00:10:17,748
+a pesquisa pode ter a parte do mood board
+
+263
+00:10:17,748 --> 00:10:19,948
+mas ela começa com a gente
+
+264
+00:10:20,488 --> 00:10:21,868
+buscando, alguém já fez isso antes?
+
+265
+00:10:22,028 --> 00:10:23,988
+tem um conceito, um modelo mental que eu uso muito
+
+266
+00:10:23,988 --> 00:10:25,928
+que é o leverage, que é aproveitar
+
+267
+00:10:26,428 --> 00:10:28,068
+pra que que eu vou ficar tomando as mesmas
+
+268
+00:10:28,068 --> 00:10:30,008
+decisões que já foram tomadas pela humanidade
+
+269
+00:10:30,008 --> 00:10:31,928
+muitas vezes atrás? Por que que eu já não aproveito
+
+270
+00:10:31,928 --> 00:10:34,008
+que foi construído pra eu fazer o próximo passo.
+
+271
+00:10:34,208 --> 00:10:35,988
+Isaac Newton já falava, só enxerguei
+
+272
+00:10:35,988 --> 00:10:38,268
+longe porque subi em ombros de gigantes.
+
+273
+00:10:38,408 --> 00:10:40,048
+Por que é que eu acho que eu tenho
+
+274
+00:10:40,048 --> 00:10:42,088
+que reestruturar toda a lógica do universo
+
+275
+00:10:42,088 --> 00:10:43,988
+começando do zero, que é um
+
+276
+00:10:43,988 --> 00:10:45,828
+fetiche que tem muita gente que tem. Não,
+
+277
+00:10:45,828 --> 00:10:47,368
+vou começar do zero. Cara,
+
+278
+00:10:47,608 --> 00:10:49,988
+você só tá perdendo tempo. Ao invés
+
+279
+00:10:49,988 --> 00:10:51,908
+de aproveitar, hoje em dia quem vai construir um
+
+280
+00:10:51,908 --> 00:10:53,788
+carro já aproveita todas as decisões que
+
+281
+00:10:53,788 --> 00:10:55,628
+outros engenheiros tomaram, outros designers
+
+282
+00:10:55,628 --> 00:10:58,108
+tomaram na hora de construir um carro. Aproveita
+
+283
+00:10:58,108 --> 00:11:00,128
+o que já foi decidido muito bem e trabalha
+
+284
+00:11:00,128 --> 00:11:02,148
+ali na quebra do paradigma. Trabalha no que
+
+285
+00:11:02,148 --> 00:11:04,068
+ainda precisa evoluir, mudar.
+
+286
+00:11:04,808 --> 00:11:06,328
+Vocês vão ver que vocês vão evoluir muito mais rápido.
+
+287
+00:11:06,428 --> 00:11:08,068
+Isso é muito mais profundo do que gerar imagem.
+
+288
+00:11:08,348 --> 00:11:10,248
+Se você pegou o que eu tô falando, você vai entender.
+
+289
+00:11:10,768 --> 00:11:12,388
+Mas então a gente faz a pesquisa,
+
+290
+00:11:12,428 --> 00:11:14,588
+vê se já tem coisas que dá pra aproveitar,
+
+291
+00:11:14,648 --> 00:11:16,108
+vê se alguém já seguiu esse caminho antes,
+
+292
+00:11:16,188 --> 00:11:17,848
+se deu certo, se não deu, qual a percepção que passou.
+
+293
+00:11:18,268 --> 00:11:20,128
+Depois disso a gente começa a coletar.
+
+294
+00:11:20,188 --> 00:11:22,328
+Montar o mood board e montar o painel semântico também.
+
+295
+00:11:22,648 --> 00:11:24,028
+O exercício do mood board,
+
+296
+00:11:24,128 --> 00:11:25,928
+ele é mais divertido. Ele é um painel.
+
+297
+00:11:26,008 --> 00:11:27,968
+É tipo montar a sua pasta do
+
+298
+00:11:27,968 --> 00:11:30,688
+Pinterest. Só que eu prefiro montar
+
+299
+00:11:30,688 --> 00:11:31,468
+no Figma, né?
+
+300
+00:11:32,604 --> 00:11:34,864
+Então você vai montando tudo ali, monta o mood board inteiro.
+
+301
+00:11:35,044 --> 00:11:39,224
+Já o painel semântico, ele exige queimar neurônio da cachola,
+
+302
+00:11:39,224 --> 00:11:43,224
+ou pelo menos exige de você usar uma IA para fazer isso.
+
+303
+00:11:43,484 --> 00:11:46,204
+E se você quer fazer um bom painel semântico,
+
+304
+00:11:46,264 --> 00:11:50,344
+vou reforçar aqui a trilha SINOS da Overlens.
+
+305
+00:11:50,364 --> 00:11:51,684
+Você vem aqui em SINOS.
+
+306
+00:11:53,212 --> 00:11:54,972
+desce aqui, sinos.
+
+307
+00:11:54,992 --> 00:11:56,912
+E você vai aprender sobre semiótica.
+
+308
+00:11:56,952 --> 00:11:59,452
+Quando você aprender sobre semiótica, você vai aprender sobre signos.
+
+309
+00:11:59,452 --> 00:12:01,092
+Quando você aprender sobre signos, você vai
+
+310
+00:12:01,092 --> 00:12:03,192
+aprender também sobre arquétipos,
+
+311
+00:12:03,192 --> 00:12:04,872
+inconsciente, coletivo,
+
+312
+00:12:04,932 --> 00:12:07,192
+inconsciente pessoal, quatro graus
+
+313
+00:12:07,192 --> 00:12:09,552
+de influência da percepção, grau fisiológico,
+
+314
+00:12:09,552 --> 00:12:11,492
+grau ambiental, grau cultural, grau individual.
+
+315
+00:12:11,692 --> 00:12:13,092
+Vai entender como os signos
+
+316
+00:12:13,092 --> 00:12:15,412
+afetam a sua maneira de interpretar a realidade
+
+317
+00:12:15,412 --> 00:12:17,372
+e como você, como artista, designer,
+
+318
+00:12:17,512 --> 00:12:18,972
+arquiteto, inventor, engenheiro,
+
+319
+00:12:19,092 --> 00:12:21,392
+pode utilizar os signos para conduzir a percepção
+
+320
+00:12:21,392 --> 00:12:23,252
+das pessoas, pra fazer as pessoas sentirem algo,
+
+321
+00:12:23,332 --> 00:12:25,392
+entenderem algo, interpretarem algo. E aí você
+
+322
+00:12:25,392 --> 00:12:27,372
+usa isso nas suas imagens. O painel semântico
+
+323
+00:12:27,372 --> 00:12:29,432
+é um painel de signos. Beleza?
+
+324
+00:12:30,652 --> 00:12:31,432
+Então, maravilha.
+
+325
+00:12:32,132 --> 00:12:32,492
+Configuração.
+
+326
+00:12:32,492 --> 00:12:33,112
+Aí vem o prompt.
+
+327
+00:12:34,492 --> 00:12:35,672
+Aqui a gente faz como?
+
+328
+00:12:35,792 --> 00:12:37,912
+A gente criou o primeiro mood board
+
+329
+00:12:37,912 --> 00:12:39,672
+e aí eu gosto de fazer o quê?
+
+330
+00:12:40,052 --> 00:12:41,572
+Gerar minhas próprias imagens
+
+331
+00:12:42,672 --> 00:12:43,452
+referenciando o mood board.
+
+332
+00:12:43,612 --> 00:12:45,332
+Só que ainda não são as imagens finais.
+
+333
+00:12:45,392 --> 00:12:47,252
+Eu quero gerar, experimentar, eu quero ver
+
+334
+00:12:47,772 --> 00:12:49,312
+quais palavras-chave funcionam,
+
+335
+00:12:49,332 --> 00:12:51,192
+testes que dão certo. Então a gente começa a trabalhar isso.
+
+336
+00:12:51,312 --> 00:12:53,212
+É exatamente isso, inclusive, que a gente está fazendo
+
+337
+00:12:53,212 --> 00:12:55,352
+na campanha do Atlas agora, dos Cabeças de.
+
+338
+00:12:55,632 --> 00:12:57,372
+Vocês vão ver isso rodando
+
+339
+00:12:57,372 --> 00:12:58,492
+no feed de vocês aí em breve.
+
+340
+00:12:58,952 --> 00:13:01,712
+Mas é esse processo de fazer teste, ver palavras-chave,
+
+341
+00:13:01,752 --> 00:13:03,812
+o que funciona, estilo que funciona, atmosfera que funciona.
+
+342
+00:13:04,352 --> 00:13:06,952
+Passando por isso, vem a divergência, que é a geração.
+
+343
+00:13:07,192 --> 00:13:11,332
+Aqui, a gente pega, e na verdade, uma palavra melhor para isso também,
+
+344
+00:13:11,372 --> 00:13:14,552
+que eu gosto muito, é deriva.
+
+345
+00:13:18,012 --> 00:13:18,312
+Atenção!
+
+346
+00:13:19,580 --> 00:13:20,440
+Então, derivação...
+
+347
+00:13:20,440 --> 00:13:21,600
+Pega o assento aí.
+
+348
+00:13:23,260 --> 00:13:25,240
+Pegar o que já deu certo ali e começar a derivar.
+
+349
+00:13:25,560 --> 00:13:25,960
+Expandir.
+
+350
+00:13:26,940 --> 00:13:27,340
+Impossibilidades.
+
+351
+00:13:28,040 --> 00:13:29,540
+Expandiu, vem lapidação.
+
+352
+00:13:29,740 --> 00:13:30,720
+Refino mais pós.
+
+353
+00:13:31,000 --> 00:13:32,900
+Depois que a gente expandiu, a gente pega as melhores.
+
+354
+00:13:33,180 --> 00:13:34,740
+Gostei disso aqui, gostei disso aqui, gostei disso aqui.
+
+355
+00:13:35,240 --> 00:13:37,200
+Entendam que o processo de trabalhar com imagens
+
+356
+00:13:37,200 --> 00:13:38,880
+é um processo de gerar muita imagem.
+
+357
+00:13:39,080 --> 00:13:40,900
+A IAT permite explorar mais.
+
+358
+00:13:41,260 --> 00:13:43,180
+Tem uma aula que eu dou aqui na Vanguarda,
+
+359
+00:13:43,180 --> 00:13:45,320
+mas essa eu posso já antecipar para vocês.
+
+360
+00:13:45,360 --> 00:13:48,940
+Tem a live aqui na primeira temporada de lives.
+
+361
+00:13:48,940 --> 00:13:51,120
+e tem a aula também, na primeira temporada
+
+362
+00:13:51,120 --> 00:13:53,180
+eu falo aqui, na verdade
+
+363
+00:13:53,180 --> 00:13:55,000
+eu acho que eu vou encontrar isso, não é nem nessas primeiras
+
+364
+00:13:55,000 --> 00:13:55,820
+temporadas aqui não
+
+365
+00:13:57,308 --> 00:13:59,748
+Vai ser aqui, que eu falo sobre as tartarugas.
+
+366
+00:14:00,768 --> 00:14:01,688
+Ciência da criatividade.
+
+367
+00:14:01,968 --> 00:14:03,948
+Nessa aula aqui, eu falo sobre as tartarugas,
+
+368
+00:14:03,948 --> 00:14:07,108
+que uma mamãe tartaruga vai lá e bota 100 ovos.
+
+369
+00:14:09,928 --> 00:14:10,808
+Tartarugas desovando.
+
+370
+00:14:11,548 --> 00:14:16,688
+Elas vão lá e botam 100 ovos lá na areia.
+
+371
+00:14:16,728 --> 00:14:19,308
+E vocês sabiam que desses 100 ovos que ela bota...
+
+372
+00:14:21,436 --> 00:14:21,856
+Só um.
+
+373
+00:14:23,324 --> 00:14:25,664
+chega na fase adulta, geralmente, a maioria morre,
+
+374
+00:14:25,704 --> 00:14:28,684
+e que a grande maioria morre na areia ainda, na praia.
+
+375
+00:14:28,744 --> 00:14:30,864
+Os gaivotos vão lá, vão comendo as tartarugas.
+
+376
+00:14:31,664 --> 00:14:32,124
+Bizarro, né?
+
+377
+00:14:32,864 --> 00:14:34,144
+Por que eu uso isso de exemplo?
+
+378
+00:14:34,304 --> 00:14:36,124
+De onde eu estou tirando isso? Qual é a graça disso?
+
+379
+00:14:36,324 --> 00:14:39,284
+A verdade é que a natureza funciona assim,
+
+380
+00:14:39,364 --> 00:14:43,184
+para sobreviver, se você é frágil, você precisa de quantidade,
+
+381
+00:14:43,804 --> 00:14:46,504
+para que perpetue e você não entre em extinção na sua espécie.
+
+382
+00:14:46,604 --> 00:14:47,784
+Então faz muita quantidade.
+
+383
+00:14:48,844 --> 00:14:52,244
+E as ideias são frágeis, porque as ideias morrem por falta de atenção.
+
+384
+00:14:53,004 --> 00:14:54,904
+E quando você quer ter uma boa ideia,
+
+385
+00:14:55,064 --> 00:14:57,364
+é bom que você valide ela com quantidade também.
+
+386
+00:14:57,924 --> 00:15:00,044
+Antes da IA, esse gera o processo.
+
+387
+00:15:00,084 --> 00:15:02,144
+A gente chama isso de geração de alternativa.
+
+388
+00:15:02,384 --> 00:15:04,224
+Então vai fazer um logo, vai fazer uma foto,
+
+389
+00:15:04,404 --> 00:15:05,604
+vai fazer qualquer coisa e você tira muita.
+
+390
+00:15:05,864 --> 00:15:06,504
+Por quê?
+
+391
+00:15:06,584 --> 00:15:08,864
+Dessas muitas, você vai tirando o ouro dali,
+
+392
+00:15:08,924 --> 00:15:10,124
+vai minerando depois, entendeu?
+
+393
+00:15:10,624 --> 00:15:13,384
+Então o processo é bem parecido com esse aqui da tartaruga.
+
+394
+00:15:13,464 --> 00:15:15,044
+Você faz um monte de imagem,
+
+395
+00:15:15,164 --> 00:15:17,844
+porque hoje em dia ainda é fácil fazer com IA, certo?
+
+396
+00:15:18,044 --> 00:15:19,504
+Gera muita imagem, muito fácil.
+
+397
+00:15:20,064 --> 00:15:20,824
+Gera um monte de imagem.
+
+398
+00:15:20,904 --> 00:15:23,664
+De todas as imagens que você gerou, você vai pegando.
+
+399
+00:15:23,664 --> 00:15:25,444
+Essa é boa, essa é boa, gosto dessa, gosto dessa.
+
+400
+00:15:25,644 --> 00:15:26,924
+E usa elas no projeto.
+
+401
+00:15:27,204 --> 00:15:28,404
+Esse é o processo, tá?
+
+402
+00:15:29,756 --> 00:15:33,376
+Na lapidação vem color grading, nitidez, volume, coerência entre peças,
+
+403
+00:15:33,396 --> 00:15:34,936
+aqueles ajustes que eu falei para vocês.
+
+404
+00:15:36,396 --> 00:15:38,856
+As pessoas pegam a imagem da IA e já usa pronta,
+
+405
+00:15:38,916 --> 00:15:40,776
+mas dá para você ajustar muita coisa legal ali.
+
+406
+00:15:42,036 --> 00:15:44,216
+Verificação e validação, tudo retorna ao briefing.
+
+407
+00:15:44,436 --> 00:15:47,336
+Então, depois que terminou, está refinado, beleza, entrega.
+
+408
+00:15:47,336 --> 00:15:49,956
+Vamos olhar o briefing, fizemos tudo, está tudo certo, está faltando alguma coisa?
+
+409
+00:15:50,096 --> 00:15:51,856
+Não está faltando? Beleza, maravilha.
+
+410
+00:15:51,876 --> 00:15:54,696
+Aí vai para a materialização, formato, organização e apresentação.
+
+411
+00:15:54,996 --> 00:15:57,016
+Aqui pode ser que tenha mais uma derivação,
+
+412
+00:15:57,016 --> 00:15:59,356
+porque às vezes você tem as imagens ali e tem que derivar
+
+413
+00:15:59,356 --> 00:16:01,256
+ela pra shorts, tem que derivar
+
+414
+00:16:01,256 --> 00:16:03,416
+ela pra imagem quadrada, imagem 2x3
+
+415
+00:16:03,416 --> 00:16:05,856
+imagem 9x16, imagem 16x9
+
+416
+00:16:05,856 --> 00:16:07,356
+e aí vai essa coisa toda aí
+
+417
+00:16:07,356 --> 00:16:09,296
+que é a derivação que a gente faz aqui
+
+418
+00:16:09,296 --> 00:16:11,376
+beleza? Esse é o processo que a gente
+
+419
+00:16:11,376 --> 00:16:13,336
+utiliza, o material tá aí, agora eu vou te mostrar
+
+420
+00:16:13,336 --> 00:16:15,036
+as etapas
+
+421
+00:16:15,516 --> 00:16:17,036
+então bora lá que a gente não tem
+
+422
+00:16:17,036 --> 00:16:18,336
+tempo a perder aqui
+
+423
+00:16:20,092 --> 00:16:23,052
+Boa, gastei um pouco mais de 10 minutos nesse, mas aqui eu tinha que mostrar o todo, né?
+
+424
+00:16:24,192 --> 00:16:26,212
+Vamos para a próxima aqui agora, vou pegar uma aguinha.
+
+425
+00:16:39,388 --> 00:16:43,148
+Isso aqui é um resumo, vou colocar aqui que eu já explico direto na aula.
+
+426
+00:16:56,924 --> 00:16:59,844
+Aqui dentro da Overlens, depois que a gente tem um briefing bem estruturado,
+
+427
+00:16:59,904 --> 00:17:04,684
+nós gostamos de seguir uma etapa de direção criativa e universo visual
+
+428
+00:17:04,684 --> 00:17:06,844
+do projeto em que nós estamos trabalhando.
+
+429
+00:17:07,024 --> 00:17:10,104
+Quem trabalha com identidade visual já vai estar muito acostumado com isso aqui,
+
+430
+00:17:10,224 --> 00:17:13,004
+inclusive quem assistiu a trilha de universo visual da Overlens
+
+431
+00:17:13,004 --> 00:17:15,224
+tem um nível de profundidade muito grande,
+
+432
+00:17:15,344 --> 00:17:18,744
+então eu não vou também mergulhar muito aqui nesses conceitos,
+
+433
+00:17:18,744 --> 00:17:22,504
+eu vou só aplicar, porque você pode ir lá assistir a trilha de universo visual,
+
+434
+00:17:23,204 --> 00:17:24,564
+que é a trilha Guidelines,
+
+435
+00:17:24,564 --> 00:17:28,564
+e dentro dessa trilha você pode aprofundar em cada um dos tópicos
+
+436
+00:17:28,564 --> 00:17:29,684
+que eu vou te apresentar aqui agora.
+
+437
+00:17:29,864 --> 00:17:31,844
+O mais importante é que essa aqui é exatamente a estrutura
+
+438
+00:17:31,844 --> 00:17:35,044
+que a gente usa na Overlens, ou quando eu estou trabalhando sozinho,
+
+439
+00:17:35,064 --> 00:17:36,664
+ou, por exemplo, eu vou trabalhar em equipe,
+
+440
+00:17:36,664 --> 00:17:38,704
+eu e a Thaís, eu, a Thaís e o Eduardo,
+
+441
+00:17:38,804 --> 00:17:40,884
+o Eduardo não, o Eduardo é desenvolvedor,
+
+442
+00:17:40,984 --> 00:17:44,064
+eu, a Thaís e o Davi, ou eu, a Thaís e o Fernando,
+
+443
+00:17:44,984 --> 00:17:46,644
+o primeiro passo é a direção criativa.
+
+444
+00:17:46,764 --> 00:17:49,264
+E eu gosto de chamar eles para uma call e a gente vai trabalhando
+
+445
+00:17:49,264 --> 00:17:50,104
+essa direção criativa.
+
+446
+00:17:50,224 --> 00:17:52,704
+Eu vou apontando assim, a gente vai pegando referências e trazendo.
+
+447
+00:17:53,544 --> 00:17:54,684
+Muita ideia boa sai dali.
+
+448
+00:17:55,284 --> 00:17:57,304
+Trabalhar coletivo é muito poderoso,
+
+449
+00:17:57,384 --> 00:17:58,964
+muito mais do que sozinho,
+
+450
+00:17:59,584 --> 00:18:00,544
+porque vai tendo feedback,
+
+451
+00:18:00,724 --> 00:18:01,664
+um vai trabalhando com o outro.
+
+452
+00:18:01,864 --> 00:18:02,864
+E a gente faz isso.
+
+453
+00:18:02,944 --> 00:18:04,724
+A gente chama essa etapa de direção criativa
+
+454
+00:18:04,724 --> 00:18:06,924
+e universo visual do projeto.
+
+455
+00:18:07,164 --> 00:18:08,184
+Pode ser uma campanha,
+
+456
+00:18:08,284 --> 00:18:10,084
+pode ser, se você tem um estúdio,
+
+457
+00:18:10,104 --> 00:18:11,604
+pode ser para criar uma marca para o cliente,
+
+458
+00:18:11,604 --> 00:18:13,984
+pode ser um projeto de produção de conteúdo.
+
+459
+00:18:14,284 --> 00:18:16,064
+Você precisa de uma direção criativa ali
+
+460
+00:18:16,064 --> 00:18:17,764
+e de uma tomada de decisões.
+
+461
+00:18:17,964 --> 00:18:19,544
+Se você toma as decisões uma vez,
+
+462
+00:18:19,604 --> 00:18:20,584
+você não precisa tomar de novo.
+
+463
+00:18:20,704 --> 00:18:21,684
+Se você pula essa etapa,
+
+464
+00:18:21,684 --> 00:18:23,524
+você vai ficar fazendo isso toda hora, perdendo tempo.
+
+465
+00:18:23,704 --> 00:18:25,444
+É o que a maioria das pessoas fazem também.
+
+466
+00:18:25,684 --> 00:18:28,604
+Eu já dou aula para designers, artistas, há muito tempo,
+
+467
+00:18:28,744 --> 00:18:30,064
+e esse é um erro clássico.
+
+468
+00:18:30,104 --> 00:18:32,624
+As pessoas ficam tomando as mesmas decisões toda hora,
+
+469
+00:18:32,704 --> 00:18:34,324
+ao invés de tomar uma vez e não precisar tomar mais.
+
+470
+00:18:34,644 --> 00:18:36,624
+Então vamos lá, que eu vou mostrar para vocês aqui.
+
+471
+00:18:37,624 --> 00:18:39,004
+Direção criativa e identidade visual.
+
+472
+00:18:39,364 --> 00:18:41,404
+É o que eu acabei de falar, não vou explicar aqui,
+
+473
+00:18:41,544 --> 00:18:47,404
+mas dentro dos termos, direção criativa é escolher o escopo do projeto,
+
+474
+00:18:47,824 --> 00:18:51,084
+falando de decisões criativas que você vai tomar para o projeto,
+
+475
+00:18:51,084 --> 00:18:54,684
+E identidade visual é definir quais são os elementos visuais,
+
+476
+00:18:54,784 --> 00:18:56,344
+que a gente também, ao invés de identidade,
+
+477
+00:18:56,364 --> 00:18:58,024
+a gente está usando mais o termo universo visual,
+
+478
+00:18:58,144 --> 00:19:01,344
+os elementos visuais que compõem esse projeto que você vai começar.
+
+479
+00:19:01,464 --> 00:19:04,304
+Então tem forma, cor, tipografia, que é forma.
+
+480
+00:19:04,444 --> 00:19:07,784
+Se a gente fosse guiar a molécula do design que eu ensinei,
+
+481
+00:19:08,364 --> 00:19:09,164
+ela funciona assim.
+
+482
+00:19:10,364 --> 00:19:12,524
+Formas e cores, grafismos são formas também.
+
+483
+00:19:14,524 --> 00:19:18,144
+Formas, cores, composições, a gente pode colocar aqui.
+
+484
+00:19:20,092 --> 00:19:20,892
+Vou botar um espaço aqui.
+
+485
+00:19:22,300 --> 00:19:23,940
+Ele não está cortando do jeito certo.
+
+486
+00:19:24,460 --> 00:19:25,860
+Vou pegar aqui que vai dar certo.
+
+487
+00:19:26,300 --> 00:19:26,700
+Composições.
+
+488
+00:19:29,116 --> 00:19:32,096
+Mensagem. A mensagem é mais invisível.
+
+489
+00:19:33,852 --> 00:19:35,652
+e a gente não trabalha ela aqui na composição
+
+490
+00:19:36,012 --> 00:19:36,572
+no universo
+
+491
+00:19:38,852 --> 00:19:39,792
+visual, mas ela faz
+
+492
+00:19:39,792 --> 00:19:41,872
+parte aqui, principalmente do painel semântico
+
+493
+00:19:41,872 --> 00:19:43,672
+e tal, que a gente vai entrar nisso depois, agora eu tô indo
+
+494
+00:19:43,672 --> 00:19:45,992
+etapa por etapa, começando na direção aqui, tá?
+
+495
+00:19:46,472 --> 00:19:47,132
+Depois do briefing.
+
+496
+00:19:48,372 --> 00:19:49,792
+Então, composições, sistemas modulares,
+
+497
+00:19:49,872 --> 00:19:51,472
+o que que é isso? É você entender se tem instâncias,
+
+498
+00:19:51,512 --> 00:19:53,732
+se tem coisas que vão se repetir mais vezes, se você tem que criar
+
+499
+00:19:53,732 --> 00:19:55,132
+um grid, uma estrutura pra seguir,
+
+500
+00:19:55,352 --> 00:19:57,572
+se você vai seguir de maneira mais orgânica, é decisão,
+
+501
+00:19:57,572 --> 00:19:59,912
+é escolha que você vai fazer. Nessa etapa
+
+502
+00:19:59,912 --> 00:20:01,272
+aqui a gente toma essas decisões,
+
+503
+00:20:01,272 --> 00:20:03,772
+escolha do universo visual e direção criativa
+
+504
+00:20:03,772 --> 00:20:05,492
+como a Overlance não é um estúdio
+
+505
+00:20:05,492 --> 00:20:07,532
+a gente tem uma vantagem muito grande, porque a gente toma
+
+506
+00:20:07,532 --> 00:20:09,752
+a decisão uma vez, coloca isso no nosso
+
+507
+00:20:09,752 --> 00:20:11,852
+brand system, coloca isso nas nossas escolhas
+
+508
+00:20:11,852 --> 00:20:13,572
+da marca e depois a gente não precisa voltar
+
+509
+00:20:13,572 --> 00:20:15,692
+só que até assim é um grande
+
+510
+00:20:15,692 --> 00:20:17,512
+desafio, porque às vezes a gente esquece que tem
+
+511
+00:20:17,512 --> 00:20:19,612
+algumas diretrizes
+
+512
+00:20:19,612 --> 00:20:21,632
+e tem que ficar voltando nelas, é normal, os seres humanos
+
+513
+00:20:21,632 --> 00:20:22,052
+são assim
+
+514
+00:20:23,708 --> 00:20:26,088
+Então, identidade visual não é logo e paleta, é um ecossistema.
+
+515
+00:20:26,088 --> 00:20:28,088
+Por isso que a gente chama de universo visual.
+
+516
+00:20:28,708 --> 00:20:29,768
+É um ecossistema.
+
+517
+00:20:30,528 --> 00:20:33,488
+E aí, a gente toma as decisões aqui de quais formas, quais cores,
+
+518
+00:20:33,628 --> 00:20:35,128
+como vai ser a composição, se tem sistema modular,
+
+519
+00:20:35,428 --> 00:20:37,208
+se tem diretrizes do que fazer e do que não fazer.
+
+520
+00:20:37,288 --> 00:20:38,948
+A gente toma essas decisões por projeto.
+
+521
+00:20:39,208 --> 00:20:41,788
+O legal é que isso aqui com o IA é absurdo.
+
+522
+00:20:42,408 --> 00:20:42,968
+Absurdo, tá?
+
+523
+00:20:43,168 --> 00:20:45,248
+Mas isso a gente deixa para as aulas avançadas.
+
+524
+00:20:46,332 --> 00:20:47,812
+E aí vamos lá, como que a gente faz isso?
+
+525
+00:20:47,872 --> 00:20:48,772
+Primeiro, investigação.
+
+526
+00:20:49,092 --> 00:20:51,532
+Isso aqui tá lá na trilha de guidelines,
+
+527
+00:20:51,852 --> 00:20:54,972
+aqui ó, vou pegar pra vocês mais aprofundado isso aqui,
+
+528
+00:20:55,652 --> 00:20:58,712
+que aí você pode assistir aí quando você quiser mergulhar,
+
+529
+00:20:58,732 --> 00:21:00,992
+mas às vezes você não precisa mergulhar nisso também agora.
+
+530
+00:21:01,292 --> 00:21:05,272
+Se você vier aqui ó, em, deixa eu ver aqui ó,
+
+531
+00:21:05,292 --> 00:21:08,012
+Deep Zoom, você vai ter as aulas de auditoria.
+
+532
+00:21:08,072 --> 00:21:09,612
+Então, como criar um briefing, tá aqui,
+
+533
+00:21:09,812 --> 00:21:11,672
+uma hora e meia eu explicando como fazer um bom briefing,
+
+534
+00:21:12,252 --> 00:21:15,232
+gerenciamento de projeto, auditoria de mercado, negócio e público,
+
+535
+00:21:15,232 --> 00:21:17,232
+e benchmark de comunicação. São as primeiras
+
+536
+00:21:17,232 --> 00:21:19,032
+fases, olha, que a gente faz aqui. Então,
+
+537
+00:21:19,652 --> 00:21:20,712
+tem regra de negócio?
+
+538
+00:21:21,652 --> 00:21:23,092
+A gente está ciente
+
+539
+00:21:23,092 --> 00:21:25,312
+do mercado? Para qual público
+
+540
+00:21:25,312 --> 00:21:26,332
+que a gente vai falar nesse projeto?
+
+541
+00:21:27,372 --> 00:21:29,272
+Como que vai ser a nossa abordagem de comunicação
+
+542
+00:21:29,272 --> 00:21:30,972
+nesse projeto? São decisões importantes
+
+543
+00:21:30,972 --> 00:21:33,212
+para serem tomadas. Isso aqui tem a ver
+
+544
+00:21:33,212 --> 00:21:34,952
+com direção criativa e tem a ver também com
+
+545
+00:21:34,952 --> 00:21:37,272
+o universo visual. Impacta
+
+546
+00:21:37,272 --> 00:21:39,112
+todas as áreas, basicamente, e aqui
+
+547
+00:21:39,112 --> 00:21:41,092
+uma delas sendo impactada. Aí entra na
+
+548
+00:21:41,092 --> 00:21:43,152
+estratégia. Dentro da estratégia, a gente tem também
+
+549
+00:21:43,152 --> 00:21:48,132
+Se você vier aqui em Standout, você tem aqui nossa trilha de estratégia.
+
+550
+00:21:48,132 --> 00:21:51,332
+Aí são aulas grandes, uma hora, 50 minutos, 40 minutos, 50 minutos,
+
+551
+00:21:51,472 --> 00:21:55,872
+que você pode aprender sobre plano de mídia, posicionamento, propósito da marca,
+
+552
+00:21:56,052 --> 00:22:00,932
+buyer personas, que vão ser importantes aqui para você também trabalhar no projeto.
+
+553
+00:22:01,152 --> 00:22:04,652
+Isso aqui é muito usado para branding, é muito usado para design de identidade de marca também,
+
+554
+00:22:05,272 --> 00:22:08,692
+mas a gente usa isso por projeto também, nem que seja só para dar um check,
+
+555
+00:22:08,832 --> 00:22:11,232
+para falar assim, está definido, está feito, é isso mesmo, pode seguir.
+
+556
+00:22:12,572 --> 00:22:14,272
+Avançando nisso, a gente tem o núcleo da marca.
+
+557
+00:22:14,572 --> 00:22:16,192
+Isso aqui pode ser só uma revisão.
+
+558
+00:22:16,212 --> 00:22:17,932
+Aqui na Overlens a gente trabalha com revisão.
+
+559
+00:22:18,092 --> 00:22:19,852
+Mas se eu fosse trabalhar com os meus clientes,
+
+560
+00:22:19,872 --> 00:22:22,272
+eu faria isso aqui baseado no briefing que eu fiz com eles.
+
+561
+00:22:22,332 --> 00:22:24,932
+Então você tem um estúdio de criação, roda o núcleo da marca.
+
+562
+00:22:25,952 --> 00:22:26,312
+Entende?
+
+563
+00:22:26,592 --> 00:22:29,192
+Qual que é a história da marca, quais são as virtudes da marca,
+
+564
+00:22:29,252 --> 00:22:30,692
+arquétipos da marca, brand persona.
+
+565
+00:22:31,052 --> 00:22:32,312
+Juan, onde que eu aprendo a fazer isso?
+
+566
+00:22:32,352 --> 00:22:34,212
+Tem aqui também pra você, tem a trilha aqui.
+
+567
+00:22:34,672 --> 00:22:36,952
+Ela fica em, aqui ó, genoma.
+
+568
+00:22:37,772 --> 00:22:39,452
+Núcleo da marca, escrevendo a narrativa.
+
+569
+00:22:39,452 --> 00:22:42,212
+Tem várias aulas aqui mostrando como você pode fazer isso também.
+
+570
+00:22:42,772 --> 00:22:46,252
+Isso aqui é a metodologia exata que a gente usa dentro da Overlens, tá?
+
+571
+00:22:46,392 --> 00:22:47,692
+Aí entra no universo verbal.
+
+572
+00:22:47,792 --> 00:22:51,952
+Antes de mostrar o visual, nós gostamos de construir as palavras,
+
+573
+00:22:52,072 --> 00:22:54,072
+porque isso aqui traz a semântica que eu falei pra vocês.
+
+574
+00:22:54,292 --> 00:22:57,272
+Então a gente define tom de voz, vocabulário, presteias da marca,
+
+575
+00:22:58,032 --> 00:22:59,092
+manifesto, diretrizes de uso.
+
+576
+00:22:59,352 --> 00:23:01,972
+Inclusive a gente tem tudo isso aqui em verbário.
+
+577
+00:23:02,052 --> 00:23:05,192
+Então tá lá pronto pra vocês assistirem essa trilha também, beleza?
+
+578
+00:23:05,512 --> 00:23:08,072
+Eu não vou passar isso tudo aqui agora, porque não faria muito sentido
+
+579
+00:23:08,072 --> 00:23:10,332
+eu montar isso tudo aqui dentro de uma nova trilha.
+
+580
+00:23:10,332 --> 00:23:14,152
+Então eu estou só te mostrando o nosso fluxo para você entender o processo aqui, beleza?
+
+581
+00:23:14,512 --> 00:23:16,532
+Fica nessa, então você pode assistir depois.
+
+582
+00:23:17,012 --> 00:23:22,372
+No universo visual vem símbolo, paleta de cor, tipografia, grafismo, grid layout, diretriz de uso.
+
+583
+00:23:22,512 --> 00:23:25,672
+Quer aprender mais sobre como fazer isso também para trabalhar nos seus projetos?
+
+584
+00:23:25,672 --> 00:23:29,852
+Está aqui, ó, guidelines, a trilha em que eu mostro para você passo a passo,
+
+585
+00:23:29,912 --> 00:23:34,612
+criando mood board, símbolo, tipo de logotipo, processo de criação do símbolo da Overlens.
+
+586
+00:23:34,652 --> 00:23:38,292
+Essa aula foi muito massa, eu mostrei como que a gente construiu o símbolo da Overlens,
+
+587
+00:23:38,292 --> 00:23:38,892
+foi um processo
+
+588
+00:23:39,872 --> 00:23:41,392
+longo, olha o Double Diamond aqui
+
+589
+00:23:41,392 --> 00:23:43,832
+cara, Double Diamond
+
+590
+00:23:43,832 --> 00:23:46,272
+é o poder, isso aqui foi inventado
+
+591
+00:23:46,272 --> 00:23:47,032
+há décadas atrás
+
+592
+00:23:47,732 --> 00:23:48,992
+e a gente usa muito aqui
+
+593
+00:23:50,212 --> 00:23:52,152
+então, eu tenho todo o processo
+
+594
+00:23:52,152 --> 00:23:54,292
+documentado aqui, da construção
+
+595
+00:23:54,292 --> 00:23:55,232
+da marca da Overlance
+
+596
+00:23:55,232 --> 00:23:56,752
+que a gente fez lá em 2021
+
+597
+00:23:58,332 --> 00:23:59,792
+Olha aí, eu tava novinho quando eu fiz essa aula.
+
+598
+00:24:00,988 --> 00:24:01,668
+Pelo menos uns...
+
+599
+00:24:03,004 --> 00:24:04,024
+Cinco anos mais novo aí.
+
+600
+00:24:04,104 --> 00:24:05,164
+Cadê? Eu quero só a imagem.
+
+601
+00:24:05,304 --> 00:24:05,584
+Aí, ó.
+
+602
+00:24:05,884 --> 00:24:06,924
+Pra gerar o nome.
+
+603
+00:24:08,004 --> 00:24:08,804
+Muita exploração.
+
+604
+00:24:08,864 --> 00:24:09,264
+Sempre.
+
+605
+00:24:09,484 --> 00:24:12,104
+Com o IA agora, a vantagem é que...
+
+606
+00:24:12,104 --> 00:24:13,084
+Pô, não vai...
+
+607
+00:24:13,744 --> 00:24:15,464
+Só fica esse cara chato aí falando.
+
+608
+00:24:16,404 --> 00:24:16,944
+Aí, ó.
+
+609
+00:24:17,224 --> 00:24:19,184
+Então, eu tirei foto dos papéis todos.
+
+610
+00:24:19,324 --> 00:24:21,184
+Tô mostrando aqui como foi o processo de...
+
+611
+00:24:21,824 --> 00:24:23,424
+De criação toda da Overlens.
+
+612
+00:24:23,484 --> 00:24:24,124
+Essa aula é muito massa.
+
+613
+00:24:24,324 --> 00:24:24,724
+Muito boa.
+
+614
+00:24:26,140 --> 00:24:28,840
+Então tem aí o universo visual, e aí vem os pontos de contato,
+
+615
+00:24:28,840 --> 00:24:32,380
+baseados nas decisões ali de briefing, então isso aqui vai para a papelaria,
+
+616
+00:24:32,600 --> 00:24:35,580
+tem que organizar aqui para impressão, é para a rede social,
+
+617
+00:24:35,780 --> 00:24:39,880
+tem que organizar nos formatos, é para site, e-mail, embalagem, catálogo, ponto de venda,
+
+618
+00:24:39,940 --> 00:24:44,340
+e qualquer outro ponto de contato que pode vir, a gente destrincha isso aqui, beleza?
+
+619
+00:24:44,820 --> 00:24:48,980
+E aí vem lançamento e entrega, que aí depende mesmo do projeto também,
+
+620
+00:24:49,160 --> 00:24:52,280
+mas vem planejamento do lançamento, igual o que a gente está fazendo aqui agora
+
+621
+00:24:52,280 --> 00:24:55,600
+da campanha dos cabeças de, que vocês vão ver isso acontecendo já já,
+
+622
+00:24:55,600 --> 00:24:57,960
+ou você já assistiu também, sei que eu já falei várias vezes,
+
+623
+00:24:58,640 --> 00:25:00,880
+mas fica aqui dentro de lançamento.
+
+624
+00:25:00,960 --> 00:25:03,200
+Então, planeja, executa, define o time,
+
+625
+00:25:03,280 --> 00:25:06,120
+isso aqui na verdade é antes, só ficou escrito errado aqui.
+
+626
+00:25:08,764 --> 00:25:10,624
+Planeja, define o tipo de lançamento.
+
+627
+00:25:11,868 --> 00:25:13,768
+E aí depois... opa, fiz errado.
+
+628
+00:25:15,516 --> 00:25:16,096
+Executa.
+
+629
+00:25:17,404 --> 00:25:19,464
+E tem o debriefing, tá? Não entrou aqui, mas tem
+
+630
+00:25:19,464 --> 00:25:21,784
+uma etapa de debriefing.
+
+631
+00:25:21,964 --> 00:25:23,344
+O debriefing, ele acontece
+
+632
+00:25:23,344 --> 00:25:24,984
+depois que o projeto aconteceu.
+
+633
+00:25:25,324 --> 00:25:27,304
+Que é você olhar pra tudo que foi feito ali
+
+634
+00:25:27,304 --> 00:25:29,384
+e tomar as decisões, ver o que
+
+635
+00:25:29,384 --> 00:25:30,704
+funcionou, o que não funcionou e por aí vai.
+
+636
+00:25:31,644 --> 00:25:33,424
+Beleza? Esse aqui é
+
+637
+00:25:33,424 --> 00:25:35,264
+o processo que a gente segue, eu já te dei
+
+638
+00:25:35,264 --> 00:25:37,124
+todos os caminhos pra aprender com mais
+
+639
+00:25:37,524 --> 00:25:39,284
+profundidade, não tem segredo, é aqui
+
+640
+00:25:39,284 --> 00:25:41,144
+que traz a direção, a estratégia,
+
+641
+00:25:41,144 --> 00:25:42,744
+as decisões do universo visual,
+
+642
+00:25:42,964 --> 00:25:45,204
+que nós seguimos mais pra frente, você vai começar a ver as
+
+643
+00:25:45,204 --> 00:25:46,584
+imagens aqui agora.
+
+644
+00:25:46,584 --> 00:25:48,364
+Agora, tudo isso para criar imagens?
+
+645
+00:25:48,384 --> 00:25:51,444
+Tudo isso para criar imagens, porque o valor de uma imagem não está na imagem,
+
+646
+00:25:51,584 --> 00:25:53,884
+mas em onde ela vai ser usada, por que ela vai ser usada,
+
+647
+00:25:53,924 --> 00:25:56,804
+quem vai ver ela, por que vai ver ela, qual mensagem ela passa,
+
+648
+00:25:57,004 --> 00:25:59,024
+qual que é a percepção, como que ela te posiciona.
+
+649
+00:25:59,104 --> 00:26:00,584
+É ali que está o poder da mensagem.
+
+650
+00:26:01,144 --> 00:26:01,464
+Beleza?
+
+651
+00:26:02,524 --> 00:26:05,064
+Então, vejo você agora na próxima aula.
+

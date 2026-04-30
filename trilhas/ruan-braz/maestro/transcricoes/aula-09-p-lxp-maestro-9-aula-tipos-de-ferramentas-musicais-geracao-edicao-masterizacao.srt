@@ -1,0 +1,2544 @@
+1
+00:00:00,028 --> 00:00:03,328
+Então agora vamos para a nossa lista, baseada no relatório que eu te falei na última aula,
+
+2
+00:00:03,388 --> 00:00:06,848
+das principais ferramentas nesse momento, então eu estou gravando isso aqui para você.
+
+3
+00:00:06,948 --> 00:00:11,628
+Se mudar, já sabe, roda a pesquisa e descubra qual que é a nova queridinha do momento.
+
+4
+00:00:11,828 --> 00:00:12,288
+Vamos lá então?
+
+5
+00:00:13,088 --> 00:00:15,368
+Estou aqui do lado do nosso relatório analítico, estado da arte,
+
+6
+00:00:15,388 --> 00:00:18,428
+das ferramentas de inteligência artificial e de produção musical.
+
+7
+00:00:18,688 --> 00:00:22,448
+Não vou ler aqui, você pode ler o documento depois, mas está aqui, categoria 1.
+
+8
+00:00:22,608 --> 00:00:24,748
+Primeiro, geração musical assistida e autônoma.
+
+9
+00:00:24,848 --> 00:00:26,768
+É o mais importante, que está gerando mais impacto.
+
+10
+00:00:26,768 --> 00:00:29,308
+O Suno, que eu já mostrei para você, é uma delas.
+
+11
+00:00:29,308 --> 00:00:32,648
+Tem outras também, que são ferramentas que geram a música inteira para você.
+
+12
+00:00:32,728 --> 00:00:35,048
+Até o próprio Google já entrou nessa, tá?
+
+13
+00:00:35,128 --> 00:00:37,788
+Então, se você vem no Gemini, que é um modelo multimodal,
+
+14
+00:00:37,808 --> 00:00:39,248
+que eu já expliquei em outras trilhas,
+
+15
+00:00:39,368 --> 00:00:42,048
+se você vem aqui em ferramenta, ele tem aqui, ó, criar música.
+
+16
+00:00:42,328 --> 00:00:45,168
+E ele tem vários estilos diferentes para criar música para você.
+
+17
+00:00:45,188 --> 00:00:49,508
+Você descreve e ele realmente cria, já funciona e não é tão ruim assim.
+
+18
+00:00:49,628 --> 00:00:50,828
+Só que é limitado, tá?
+
+19
+00:00:50,988 --> 00:00:54,368
+Mas se você já tem assinatura do Gemini, você já pode fazer algumas músicas aqui.
+
+20
+00:00:54,968 --> 00:00:55,328
+Beleza?
+
+21
+00:00:55,928 --> 00:00:56,848
+indo para as
+
+22
+00:00:57,388 --> 00:00:59,128
+ferramentas mais especializadas
+
+23
+00:00:59,128 --> 00:01:01,128
+nós temos aqui então, já que eu estou falando
+
+24
+00:01:01,128 --> 00:01:02,568
+do Gemini, eu vou só apontar ele
+
+25
+00:01:02,568 --> 00:01:04,668
+porque você tem o Gemini
+
+26
+00:01:05,968 --> 00:01:07,008
+AI Studio
+
+27
+00:01:07,008 --> 00:01:09,168
+e no Gemini AI Studio
+
+28
+00:01:09,168 --> 00:01:10,648
+você também pode utilizar
+
+29
+00:01:10,648 --> 00:01:13,108
+as IAs para gerar
+
+30
+00:01:13,108 --> 00:01:15,128
+música para você, e ele tem também
+
+31
+00:01:15,128 --> 00:01:15,368
+aqui
+
+32
+00:01:16,828 --> 00:01:17,868
+Eu esqueci o nome dele.
+
+33
+00:01:19,516 --> 00:01:20,656
+que é Labs, lembrei.
+
+34
+00:01:20,696 --> 00:01:21,776
+Tem o Google Labs.
+
+35
+00:01:22,016 --> 00:01:24,416
+E no Google Labs tem alguns testes de A também.
+
+36
+00:01:24,576 --> 00:01:25,696
+Então, se quiserem se atualizar,
+
+37
+00:01:25,856 --> 00:01:27,516
+já vou apontar essas aqui de cara,
+
+38
+00:01:27,536 --> 00:01:29,316
+porque elas não são as mais especializadas,
+
+39
+00:01:29,376 --> 00:01:30,416
+mas você já consegue.
+
+40
+00:01:30,496 --> 00:01:32,296
+Aqui, ó, estrelando, Producer AI.
+
+41
+00:01:32,636 --> 00:01:34,656
+Só porque a gente falou, já tem um de música aqui.
+
+42
+00:01:34,916 --> 00:01:36,876
+Aí você tem aqui, construa seu espaço,
+
+43
+00:01:37,156 --> 00:01:38,356
+que é muito interessante.
+
+44
+00:01:39,276 --> 00:01:41,896
+Vou colocar aqui, deixa eu já logar aqui com o Google.
+
+45
+00:01:43,228 --> 00:01:44,448
+Vou logar na minha conta da Overlens
+
+46
+00:01:48,700 --> 00:01:50,040
+E você já pode se divertir.
+
+47
+00:01:50,060 --> 00:01:52,100
+Eu vou colocar essas daqui primeiro, porque isso aqui são...
+
+48
+00:01:53,596 --> 00:01:55,836
+testes. Tá parecendo até
+
+49
+00:01:55,836 --> 00:01:56,796
+o Perplexity, né?
+
+50
+00:02:00,764 --> 00:02:02,064
+Esse Producer AI aqui.
+
+51
+00:02:02,524 --> 00:02:03,784
+Foi o primeiro Juan Brás.
+
+52
+00:02:04,224 --> 00:02:06,844
+Então, está aqui. Producer AI. Estava dentro do Google Labs.
+
+53
+00:02:07,024 --> 00:02:09,304
+Está, olha. A casa dos experimentos
+
+54
+00:02:09,304 --> 00:02:11,044
+de ar do Google. A gente está aqui
+
+55
+00:02:11,044 --> 00:02:12,484
+no Producer AI.
+
+56
+00:02:12,764 --> 00:02:14,784
+E aí, eu posso criar meu espaço aqui.
+
+57
+00:02:14,884 --> 00:02:16,284
+Então, crie o seu espaço.
+
+58
+00:02:17,756 --> 00:02:22,256
+Vamos ver, ele está criando aqui para mim, estou muito feliz em fazer Vibe Code com você.
+
+59
+00:02:23,196 --> 00:02:25,296
+Vamos ver aqui, Visual Vibe Mixer.
+
+60
+00:02:25,576 --> 00:02:30,856
+Então o Google misturou aqui o Vibe Code para criar instrumentos digitais para a gente utilizar,
+
+61
+00:02:30,976 --> 00:02:33,016
+fazer uns pads, algumas coisas assim, vamos ver.
+
+62
+00:02:35,068 --> 00:02:37,848
+Já é um interessante, que é do Google Labs.
+
+63
+00:02:38,348 --> 00:02:41,828
+Enquanto ele carrega ali, você pode descer aqui.
+
+64
+00:02:41,868 --> 00:02:45,588
+Tem alguns experimentos de imagem também, tem vários.
+
+65
+00:02:45,668 --> 00:02:46,788
+O Pomele está aqui, né?
+
+66
+00:02:46,788 --> 00:02:50,328
+O Pomele é um que mexeu com muitos designers ali, né?
+
+67
+00:02:50,468 --> 00:02:52,008
+Porque ele cria a identidade visual.
+
+68
+00:02:52,248 --> 00:02:53,848
+Cria a identidade visual de uma empresa.
+
+69
+00:02:54,288 --> 00:02:55,228
+É bem interessante.
+
+70
+00:02:55,608 --> 00:02:57,308
+Mas eu lembro que tinha aqui também,
+
+71
+00:02:57,428 --> 00:02:59,868
+eu acho que deve ter evoluído para o Product Surveyor do Google.
+
+72
+00:03:00,508 --> 00:03:02,408
+Mas tem aqui...
+
+73
+00:03:03,828 --> 00:03:04,968
+Eu acho que ele evoluiu.
+
+74
+00:03:05,308 --> 00:03:07,488
+Que era um para você testar música mesmo, né?
+
+75
+00:03:07,588 --> 00:03:09,848
+Acho que agora ele se tornou esse Producer AI aqui,
+
+76
+00:03:09,908 --> 00:03:11,808
+que é um software do próprio Google.
+
+77
+00:03:12,008 --> 00:03:13,748
+Provavelmente deve ter assinatura própria, né?
+
+78
+00:03:13,788 --> 00:03:15,248
+Ele está criando aqui dentro do ecossistema.
+
+79
+00:03:15,528 --> 00:03:17,888
+Mas vamos ver, ele criou um Visual Vibe Mixer.
+
+80
+00:03:19,228 --> 00:03:22,188
+Eu posso capturar uma vibe aqui, que era uma vibe agressiva, então.
+
+81
+00:03:22,908 --> 00:03:23,488
+Vamos ver.
+
+82
+00:03:24,328 --> 00:03:24,688
+Capturar.
+
+83
+00:03:26,524 --> 00:03:27,364
+Peraí, só capturou.
+
+84
+00:03:27,464 --> 00:03:31,444
+Esse aqui tá mais parecido com um Bolt, um Lovable, né?
+
+85
+00:03:32,484 --> 00:03:33,384
+Quero... deixa eu ver aqui.
+
+86
+00:03:33,484 --> 00:03:33,744
+Songs.
+
+87
+00:03:35,292 --> 00:03:36,232
+Not on yet.
+
+88
+00:03:36,512 --> 00:03:38,092
+Ok, playlist também não.
+
+89
+00:03:38,252 --> 00:03:38,812
+Spaces.
+
+90
+00:03:39,772 --> 00:03:40,912
+Criou só aquele ali.
+
+91
+00:03:42,492 --> 00:03:44,832
+Parece que eu tenho que fazer funcionar primeiro, não vou fazer agora.
+
+92
+00:03:45,112 --> 00:03:47,452
+Mas parece promissor, hein? Parece inteligente.
+
+93
+00:03:48,292 --> 00:03:49,152
+Que é um...
+
+94
+00:03:50,428 --> 00:03:52,828
+Um lugar onde você pode criar...
+
+95
+00:03:53,408 --> 00:03:54,168
+Deixa eu ver aqui.
+
+96
+00:03:54,468 --> 00:03:55,808
+Vou pedir para criar uma música.
+
+97
+00:03:56,048 --> 00:03:59,568
+Você pode tanto criar músicas quanto criar instrumentos também.
+
+98
+00:03:59,908 --> 00:04:03,388
+Ele vai usar o Lyria 3, que é esse modelo do Gemini, né?
+
+99
+00:04:03,708 --> 00:04:05,268
+Do Google, no caso.
+
+100
+00:04:05,388 --> 00:04:06,028
+Ele chama Lyria.
+
+101
+00:04:06,828 --> 00:04:07,628
+Para gerar...
+
+102
+00:04:09,308 --> 00:04:11,228
+a música pra você. Ele tem aqui também
+
+103
+00:04:11,228 --> 00:04:12,768
+o Ghostwriter, que escreve
+
+104
+00:04:12,768 --> 00:04:14,908
+a letra pra você, e tem o Producer,
+
+105
+00:04:15,588 --> 00:04:17,408
+que é pra pensamento rápido e criação
+
+106
+00:04:17,408 --> 00:04:19,268
+de ferramentas. Então ele tá criando aqui, ó, intro,
+
+107
+00:04:19,348 --> 00:04:21,228
+verso 1, refrão,
+
+108
+00:04:21,228 --> 00:04:23,368
+verso 2, aí vem refrão,
+
+109
+00:04:23,368 --> 00:04:25,668
+ponte, refrão,
+
+110
+00:04:26,048 --> 00:04:27,268
+e o Outro,
+
+111
+00:04:27,428 --> 00:04:28,888
+né, que é a saída. Tem a Intro
+
+112
+00:04:28,888 --> 00:04:31,348
+e a Outro. Gerou uma música aqui
+
+113
+00:04:31,348 --> 00:04:33,308
+pra gente. Ele tá criando ela aqui, eu não
+
+114
+00:04:33,308 --> 00:04:35,268
+coloquei nenhum prompt, eu peguei um pronto só pra gente
+
+115
+00:04:35,268 --> 00:04:37,248
+ver funcionando, mas tá aí. A ideia
+
+116
+00:04:37,248 --> 00:04:39,288
+é que a ferramenta vai se tornar cada vez mais fácil,
+
+117
+00:04:39,388 --> 00:04:40,668
+tá? E o Produser pra vocês.
+
+118
+00:04:41,268 --> 00:04:42,768
+Provavelmente ele nem tá aqui na lista, tá?
+
+119
+00:04:43,628 --> 00:04:45,348
+Porque esse aqui a galera vai começar a usar
+
+120
+00:04:45,348 --> 00:04:46,448
+agora e tal, ele é novo.
+
+121
+00:04:47,188 --> 00:04:49,188
+Mas nós temos aqui na nossa lista o Udio,
+
+122
+00:04:49,248 --> 00:04:51,008
+que compete diretamente com
+
+123
+00:04:51,008 --> 00:04:53,388
+o Suno. Eu uso muito mais
+
+124
+00:04:53,388 --> 00:04:54,448
+o Suno, tá?
+
+125
+00:05:00,956 --> 00:05:02,736
+E aí dá para remixar, dá para fazer download.
+
+126
+00:05:03,136 --> 00:05:06,576
+Lembrando que eu estou na minha conta do Jaminar e gratuita, tá?
+
+127
+00:05:06,656 --> 00:05:08,076
+Então já dá para fazer música aqui também.
+
+128
+00:05:08,256 --> 00:05:09,536
+Uma ferramenta legal aí para vocês.
+
+129
+00:05:09,636 --> 00:05:11,956
+Vou dar pause nela e voltar para a nossa tabela aqui.
+
+130
+00:05:12,456 --> 00:05:13,656
+Então a gente tem o Udio.
+
+131
+00:05:14,096 --> 00:05:16,676
+O Udio é concorrente do Suno.
+
+132
+00:05:17,036 --> 00:05:20,036
+Também dá para fazer muita coisa legal aqui no Udio, tá?
+
+133
+00:05:20,116 --> 00:05:21,876
+Você pode testar, ver o que você gosta mais.
+
+134
+00:05:22,096 --> 00:05:24,156
+Se eu não me engano, ele tem versão gratuita também.
+
+135
+00:05:24,456 --> 00:05:25,656
+E dá para experimentar.
+
+136
+00:05:26,156 --> 00:05:29,296
+A melhor parte dele é realismo vocal e arranjo flexível,
+
+137
+00:05:29,296 --> 00:05:31,156
+criação de faixa estrutural.
+
+138
+00:05:31,576 --> 00:05:33,416
+Suno, melhor pra fluxo de trabalho
+
+139
+00:05:33,416 --> 00:05:35,116
+rápido, porque ele tem
+
+140
+00:05:35,116 --> 00:05:36,276
+integração direta com
+
+141
+00:05:37,256 --> 00:05:39,216
+Ableton e outros softwares de DAW.
+
+142
+00:05:39,336 --> 00:05:41,136
+Então é como se você começa a música aqui,
+
+143
+00:05:41,176 --> 00:05:42,596
+depois você salva em MIDI
+
+144
+00:05:42,596 --> 00:05:45,116
+e joga lá na DAW e consegue continuar
+
+145
+00:05:45,116 --> 00:05:47,296
+produzindo a música lá, nos ambientes mais profissionais.
+
+146
+00:05:47,316 --> 00:05:48,976
+Então quem é profissional usa muito Suno.
+
+147
+00:05:49,176 --> 00:05:51,516
+Tem o Sound Draw, melhor opção
+
+148
+00:05:51,516 --> 00:05:53,296
+pra produtores comerciais de mídia visual
+
+149
+00:05:53,296 --> 00:05:55,036
+porque gera faixas e batidas totalmente
+
+150
+00:05:55,036 --> 00:05:57,096
+livres, royalty, com edição.
+
+151
+00:05:57,096 --> 00:05:59,236
+e ele, na versão gratuita, se eu não me engano,
+
+152
+00:05:59,296 --> 00:06:01,036
+mas o Suno faz isso na paga também, tá?
+
+153
+00:06:01,736 --> 00:06:02,096
+Muppet
+
+154
+00:06:03,096 --> 00:06:05,256
+e Top Media Eye. Lembrando
+
+155
+00:06:05,256 --> 00:06:07,136
+que esse aqui são recomendações, tá, que
+
+156
+00:06:07,136 --> 00:06:09,096
+o Geminar explorou pra mim, do que as
+
+157
+00:06:09,096 --> 00:06:10,916
+pessoas mais têm utilizado, beleza?
+
+158
+00:06:11,236 --> 00:06:13,056
+Então já fica com referências de comunidade
+
+159
+00:06:13,056 --> 00:06:15,216
+pra você. Tem a análise técnica, que eu
+
+160
+00:06:15,216 --> 00:06:16,996
+não vou passar por ela agora, porque tem um documento aí
+
+161
+00:06:16,996 --> 00:06:18,876
+que você pode ver, e a gente pode passar.
+
+162
+00:06:18,996 --> 00:06:20,896
+Então essa primeira categoria é geração de música.
+
+163
+00:06:21,196 --> 00:06:23,136
+Junto com ela tem esse Producery Eye do Google
+
+164
+00:06:23,136 --> 00:06:25,096
+aqui também, que você pode explorar, de geração de música
+
+165
+00:06:25,096 --> 00:06:26,996
+também. A minha escolha, né,
+
+166
+00:06:26,996 --> 00:06:28,236
+a escolha do editor aqui no caso,
+
+167
+00:06:28,336 --> 00:06:29,536
+a minha escolha é o Suno AI,
+
+168
+00:06:29,696 --> 00:06:30,556
+é a que eu mais gosto,
+
+169
+00:06:30,596 --> 00:06:32,016
+principalmente aqui dentro do estúdio.
+
+170
+00:06:32,016 --> 00:06:32,996
+Deixa eu só mostrar para vocês
+
+171
+00:06:32,996 --> 00:06:34,096
+a vantagem para mim,
+
+172
+00:06:34,136 --> 00:06:35,216
+é esse estúdio aqui.
+
+173
+00:06:35,276 --> 00:06:36,916
+Só que esse é pago, cara.
+
+174
+00:06:36,996 --> 00:06:38,016
+E é meio salgadinho,
+
+175
+00:06:38,036 --> 00:06:38,776
+porque você vai pagar aí
+
+176
+00:06:38,776 --> 00:06:40,136
+150 reais por mês,
+
+177
+00:06:40,176 --> 00:06:40,596
+mais ou menos,
+
+178
+00:06:40,616 --> 00:06:41,156
+para ter acesso.
+
+179
+00:06:41,356 --> 00:06:42,796
+Mas o poder que você tem
+
+180
+00:06:42,796 --> 00:06:43,516
+aqui nas mãos
+
+181
+00:06:43,516 --> 00:06:45,036
+é absurdo.
+
+182
+00:06:45,056 --> 00:06:45,536
+Porque, por exemplo,
+
+183
+00:06:45,656 --> 00:06:46,736
+eu posso pegar uma faixa minha
+
+184
+00:06:46,736 --> 00:06:47,316
+que eu gravei.
+
+185
+00:06:47,616 --> 00:06:48,776
+Vou pegar essa música aqui
+
+186
+00:06:48,776 --> 00:06:49,656
+que eu mostrei para vocês
+
+187
+00:06:50,016 --> 00:06:50,936
+no início do curso.
+
+188
+00:06:51,276 --> 00:06:52,876
+Então, eu posso pegar essa música
+
+189
+00:06:52,876 --> 00:06:53,796
+e jogar ela aqui.
+
+190
+00:06:55,292 --> 00:06:56,752
+Então, beleza. No caso,
+
+191
+00:06:57,432 --> 00:06:58,812
+essa visualização tá um pouco ruim,
+
+192
+00:06:58,892 --> 00:07:00,892
+porque eu tô mostrando nessa tela pra vocês
+
+193
+00:07:01,832 --> 00:07:02,232
+é...
+
+194
+00:07:04,060 --> 00:07:05,280
+Nessa tela quadrada aqui, né?
+
+195
+00:07:05,340 --> 00:07:05,760
+Pra mostrar.
+
+196
+00:07:05,860 --> 00:07:07,700
+Então, ficou um pouquinho ruim, mas dá pra vocês verem.
+
+197
+00:07:07,740 --> 00:07:09,120
+Então, eu peguei a música, eu tô com ela aqui.
+
+198
+00:07:09,760 --> 00:07:14,860
+Posso trabalhar em cima de um trecho específico, editar, fazer um replace dela também.
+
+199
+00:07:15,700 --> 00:07:17,040
+Tocar ela aqui normal, tá vendo?
+
+200
+00:07:19,644 --> 00:07:20,144
+Maravilha.
+
+201
+00:07:20,424 --> 00:07:22,884
+E aí o que eu posso fazer com essa música aqui?
+
+202
+00:07:22,964 --> 00:07:26,664
+Eu posso separar todos os stems dela,
+
+203
+00:07:26,784 --> 00:07:28,464
+que são os...
+
+204
+00:07:28,464 --> 00:07:30,184
+Eu vou chamar aqui de faixas,
+
+205
+00:07:30,844 --> 00:07:33,544
+de cada instrumento, de cada grupo de instrumentos.
+
+206
+00:07:33,544 --> 00:07:36,424
+E aí para poder fazer isso, você pode...
+
+207
+00:07:36,424 --> 00:07:37,864
+Deixa eu pegar aqui certinho.
+
+208
+00:07:40,284 --> 00:07:40,704
+Quer ver?
+
+209
+00:07:42,652 --> 00:07:45,952
+Ah, uma coisa legal pra vocês também, que às vezes eu faço isso quando eu me perco um pouco.
+
+210
+00:07:46,092 --> 00:07:51,072
+Nesse learning do Suno, é só você vir aqui, ó, Stract Stands, ele te mostra onde que é ela.
+
+211
+00:07:51,732 --> 00:07:54,612
+Você clica nela e tá ali do lado.
+
+212
+00:07:55,964 --> 00:07:58,084
+Uma coisa que acontece muito também, vocês vão notar,
+
+213
+00:07:58,104 --> 00:08:00,304
+é que essas ferramentas mudam, tá vendo?
+
+214
+00:08:01,044 --> 00:08:02,904
+Inclusive já tá até diferente do vídeo.
+
+215
+00:08:03,124 --> 00:08:04,684
+Tem aqui o Clip e o Track.
+
+216
+00:08:05,284 --> 00:08:06,944
+Já tá diferente do vídeo, tá vendo?
+
+217
+00:08:07,244 --> 00:08:11,264
+E aí geralmente ver esses vídeos ajuda, né?
+
+218
+00:08:11,284 --> 00:08:12,404
+Por isso que eles gravam também.
+
+219
+00:08:12,744 --> 00:08:15,284
+Mas às vezes a gente precisa vir aqui e buscar.
+
+220
+00:08:15,544 --> 00:08:18,444
+Então não tá aparecendo aqui os stems.
+
+221
+00:08:18,544 --> 00:08:19,524
+Deixa eu só ver aqui.
+
+222
+00:08:20,504 --> 00:08:21,644
+Select a Clip.
+
+223
+00:08:23,388 --> 00:08:25,048
+Já estou selecionando, meu querido.
+
+224
+00:08:26,268 --> 00:08:27,968
+Ah, tá. É porque não deu pra ser aqui.
+
+225
+00:08:28,068 --> 00:08:29,308
+Tinha que ser bem no nome dele aqui, ó.
+
+226
+00:08:29,548 --> 00:08:32,908
+Então, quando eu clico aqui nessa única faixa que eu tenho,
+
+227
+00:08:33,008 --> 00:08:34,668
+eu venho cá e clico aqui, ó, Extract Stems.
+
+228
+00:08:35,528 --> 00:08:37,908
+E aí eu posso colocar aqui todos os stems detectados
+
+229
+00:08:37,908 --> 00:08:39,728
+ou só separar a voz dos instrumentos.
+
+230
+00:08:39,728 --> 00:08:41,948
+Eu vou colocar todos pra vocês verem que absurdo, cara.
+
+231
+00:08:42,008 --> 00:08:42,588
+Isso aqui é lindo.
+
+232
+00:08:43,028 --> 00:08:45,648
+E pra mim, eu gosto muito do sono por causa disso.
+
+233
+00:08:45,668 --> 00:08:48,448
+Pode ser que as outras ferramentas também já estão evoluindo e trazendo,
+
+234
+00:08:49,268 --> 00:08:49,588
+mas...
+
+235
+00:08:51,868 --> 00:08:54,308
+É o que eu mais tenho usado, é o que eu mais gosto pra fazer edição.
+
+236
+00:08:55,288 --> 00:08:56,648
+E aí é muito poderoso, tá?
+
+237
+00:08:57,488 --> 00:09:00,368
+Tem outras ferramentas aqui também que eu não vou entrar agora,
+
+238
+00:09:00,448 --> 00:09:02,588
+mas que se você tá vendo os fundamentos,
+
+239
+00:09:02,588 --> 00:09:04,328
+você não vai ter dificuldade pra usar a ferramenta.
+
+240
+00:09:04,448 --> 00:09:05,868
+Então o que é tempo? Você já sabe.
+
+241
+00:09:05,928 --> 00:09:07,548
+Aí tem aqui tempo na batida ou original.
+
+242
+00:09:08,228 --> 00:09:10,848
+Na batida é pra seguir o metrônomozinho, o ritmo ali.
+
+243
+00:09:11,188 --> 00:09:12,828
+Tem esse transpose aqui também.
+
+244
+00:09:13,108 --> 00:09:15,308
+Na verdade o transpose eu nem vou lembrar o que é agora,
+
+245
+00:09:15,428 --> 00:09:16,388
+isso é muito sincero pra vocês.
+
+246
+00:09:16,648 --> 00:09:19,128
+Tem a velocidade, que é meio tempo ou duas vezes,
+
+247
+00:09:19,208 --> 00:09:20,548
+e você pode também resetar.
+
+248
+00:09:20,548 --> 00:09:22,748
+aumentar os decibéis aqui pra subir o
+
+249
+00:09:22,748 --> 00:09:24,888
+volume também, ele tá pegando
+
+250
+00:09:24,888 --> 00:09:26,808
+olha, tudo que ele vai pegar aqui de stands
+
+251
+00:09:26,808 --> 00:09:28,988
+olha, ele tem o vocal, ele tem o vocal
+
+252
+00:09:28,988 --> 00:09:30,308
+secundário, né, a back vocal
+
+253
+00:09:30,308 --> 00:09:33,368
+ele tem as baterias e percussões
+
+254
+00:09:33,368 --> 00:09:34,908
+baixo, guitarra
+
+255
+00:09:36,308 --> 00:09:37,188
+teclado, percussão
+
+256
+00:09:38,188 --> 00:09:39,168
+instrumentos de corda
+
+257
+00:09:39,948 --> 00:09:41,208
+sintetizadores, efeitos visuais
+
+258
+00:09:41,208 --> 00:09:43,308
+outros baixos que ele encontrou
+
+259
+00:09:43,308 --> 00:09:44,848
+aqui também, esse woodwind
+
+260
+00:09:44,848 --> 00:09:46,828
+que eu não sei o que que é, se eu não sou sincero com vocês
+
+261
+00:09:46,828 --> 00:09:48,988
+mas ele já vai separar
+
+262
+00:09:48,988 --> 00:09:50,568
+isso aqui pra mim, tá extraindo eles
+
+263
+00:09:50,568 --> 00:09:52,768
+e vai aparecer aqui do lado. Depois
+
+264
+00:09:52,768 --> 00:09:54,848
+eu posso dar play em uma faixa
+
+265
+00:09:54,848 --> 00:09:56,628
+só e ouvir só aquele instrumento.
+
+266
+00:09:56,628 --> 00:09:58,828
+Eu posso salvar só aquele instrumento.
+
+267
+00:09:58,848 --> 00:10:00,848
+Eu posso fazer uma melodia nova só
+
+268
+00:10:00,848 --> 00:10:02,728
+pra aquele instrumento e atualizar aqui dentro.
+
+269
+00:10:02,908 --> 00:10:04,808
+E posso pedir pra ele gerar de novo em cima
+
+270
+00:10:04,808 --> 00:10:07,048
+disso. Vocês estão entendendo o poder
+
+271
+00:10:07,048 --> 00:10:08,668
+disso que a inteligência artificial
+
+272
+00:10:08,668 --> 00:10:10,548
+traz pra gente? Incrível, cara.
+
+273
+00:10:10,688 --> 00:10:12,768
+E aí no caso do sono, tem sido minha
+
+274
+00:10:12,768 --> 00:10:14,748
+favorita por causa dessas possibilidades,
+
+275
+00:10:14,828 --> 00:10:16,808
+tá bom? Então deixa aqui, depois
+
+276
+00:10:16,808 --> 00:10:19,148
+depois você pode ler mais, vamos para a segunda categoria de ferramentas,
+
+277
+00:10:19,148 --> 00:10:21,008
+que são edição profunda,
+
+278
+00:10:21,388 --> 00:10:23,008
+separação de stems e desconstrução
+
+279
+00:10:23,008 --> 00:10:24,768
+de áudio. Aqui, ele não vai
+
+280
+00:10:24,768 --> 00:10:26,728
+trazer o Suno, né? Isso aqui do Suno, inclusive,
+
+281
+00:10:26,768 --> 00:10:28,708
+é novo. O Suno está divulgando muito agora
+
+282
+00:10:28,708 --> 00:10:30,768
+essa separação de stems, mas existem
+
+283
+00:10:30,768 --> 00:10:32,808
+outras ferramentas que já são usadas pela comunidade.
+
+284
+00:10:32,808 --> 00:10:34,228
+A gente tem o Hipex DAO Pro,
+
+285
+00:10:34,848 --> 00:10:36,668
+que aí é ferramentas que profissionais
+
+286
+00:10:36,668 --> 00:10:38,928
+utilizam. Se você está começando o Suno, já resolve
+
+287
+00:10:38,928 --> 00:10:40,708
+separação de stems e edição ali pra você.
+
+288
+00:10:41,128 --> 00:10:41,988
+Tem o Lalos.
+
+289
+00:10:42,848 --> 00:10:44,528
+Esse aqui é muito bom.
+
+290
+00:10:44,588 --> 00:10:45,968
+Ele é bom em específico, tá?
+
+291
+00:10:46,808 --> 00:10:51,868
+Mas ele é pago, então não vai servir pra quem tá começando, não vai funcionar.
+
+292
+00:10:51,908 --> 00:10:54,208
+Mas ele é bom principalmente aqui, ó, masterização.
+
+293
+00:10:54,588 --> 00:10:56,908
+Porque você pega a faixa, ainda não é tão caro, né?
+
+294
+00:10:56,988 --> 00:10:59,008
+Mas isso é pra quando você já tá trabalhando profissionalmente.
+
+295
+00:10:59,488 --> 00:11:05,008
+Você pega a faixa, sobe a faixa aqui, olha as empresas que usam.
+
+296
+00:11:05,148 --> 00:11:09,428
+Warner Records, Disney Music Group e muitas outras aqui.
+
+297
+00:11:10,228 --> 00:11:13,688
+Você joga a faixa aqui e ele remasteriza, ele remasteriza não,
+
+298
+00:11:13,688 --> 00:11:16,408
+Ele masteriza a faixa pra você, cara, de acordo com o seu objetivo.
+
+299
+00:11:17,068 --> 00:11:19,088
+É muito bom, tá? Muito bom.
+
+300
+00:11:19,288 --> 00:11:23,428
+E você tem uma música bem mais tratada, melhor ali, funcionando.
+
+301
+00:11:23,488 --> 00:11:25,288
+Quem vai trabalhar de um nível mais profissional,
+
+302
+00:11:25,788 --> 00:11:28,988
+esse Landy R aqui eu recomendo, Landy R, né?
+
+303
+00:11:29,468 --> 00:11:31,128
+Recomendo muito pra vocês, beleza?
+
+304
+00:11:31,848 --> 00:11:33,128
+Apesar de que ele é pago.
+
+305
+00:11:33,228 --> 00:11:34,908
+E aí tem o Landy R Stamps.
+
+306
+00:11:35,148 --> 00:11:38,568
+Só que se você estiver usando aqui o Suno, você não vai precisar dele no Stamps.
+
+307
+00:11:38,868 --> 00:11:40,888
+Vou inserir tudo aqui agora, olha que lindo, ó.
+
+308
+00:11:41,468 --> 00:11:42,948
+Já separou tudo pra mim aqui.
+
+309
+00:11:42,948 --> 00:11:46,868
+e eu posso dar play, só em um.
+
+310
+00:11:46,928 --> 00:11:49,508
+Aqui no caso, eu posso mutar todos,
+
+311
+00:11:49,788 --> 00:11:51,608
+vou mutar eles aqui para a gente então,
+
+312
+00:11:52,268 --> 00:11:54,388
+tudo mutado, e vou deixar aqui só o efeito visual.
+
+313
+00:11:55,328 --> 00:11:56,608
+Vamos pegar aqui mais para frente.
+
+314
+00:12:06,428 --> 00:12:07,268
+Esse é o efeito visual.
+
+315
+00:12:07,588 --> 00:12:09,028
+Ó, efeito sonoro, né?
+
+316
+00:12:09,088 --> 00:12:09,528
+Ficou no visual.
+
+317
+00:12:10,388 --> 00:12:10,788
+Beleza.
+
+318
+00:12:10,788 --> 00:12:12,188
+Vamos ver agora os sintetizadores.
+
+319
+00:12:17,052 --> 00:12:19,592
+É porque a música começa a ficar boa mais pra frente, né?
+
+320
+00:12:19,872 --> 00:12:22,592
+Só isso, separadinho pra mim.
+
+321
+00:12:27,196 --> 00:12:29,096
+Para trabalhar com produção musical,
+
+322
+00:12:29,156 --> 00:12:31,356
+se você entende de composição musical,
+
+323
+00:12:31,476 --> 00:12:32,976
+você quer trabalhar com os motifs,
+
+324
+00:12:33,036 --> 00:12:34,196
+que são os motivos.
+
+325
+00:12:34,236 --> 00:12:35,636
+A gente estava fazendo um da Overlens,
+
+326
+00:12:35,656 --> 00:12:36,256
+que é o...
+
+327
+00:12:37,340 --> 00:12:43,340
+Esse é o somzinho, esse é o Sonic logo da Overlens.
+
+328
+00:12:45,060 --> 00:12:47,480
+Eu posso inclusive pegar, gravar aqui e falar...
+
+329
+00:12:48,980 --> 00:12:52,780
+Jogar aqui e mudar o timbre para outros instrumentos e utilizar.
+
+330
+00:12:53,100 --> 00:12:54,280
+Mas o mais legal é o quê?
+
+331
+00:12:54,960 --> 00:12:56,000
+Isso é um motif.
+
+332
+00:12:56,240 --> 00:13:00,180
+E você repete esse motif numa produção musical para que você crie identidade.
+
+333
+00:13:00,620 --> 00:13:03,360
+Então imagina que eu estou fazendo a música da Overlens, a trilha sonora da Overlens.
+
+334
+00:13:03,520 --> 00:13:06,240
+Eu posso começar com instrumentos de corda, eu posso começar...
+
+335
+00:13:17,968 --> 00:13:20,048
+Aí beleza, tô fazendo esse som
+
+336
+00:13:20,048 --> 00:13:21,648
+Virar a identidade na sua cabeça
+
+337
+00:13:21,648 --> 00:13:23,388
+Aí depois eu tô passando isso
+
+338
+00:13:23,388 --> 00:13:25,168
+Lá na frente eu tô numa música mais épica
+
+339
+00:13:25,168 --> 00:13:27,548
+E aí tá com os vocais ali
+
+340
+00:13:27,548 --> 00:13:30,108
+De a capela, as pessoas cantando
+
+341
+00:13:30,108 --> 00:13:30,728
+E as pessoas estão
+
+342
+00:13:38,012 --> 00:13:39,972
+E aí, canta as pessoas ali.
+
+343
+00:13:40,032 --> 00:13:41,132
+Eu tô com o mesmo motivo.
+
+344
+00:13:41,952 --> 00:13:43,452
+Isso é alemão, né?
+
+345
+00:13:43,592 --> 00:13:45,292
+O leitmotiv.
+
+346
+00:13:46,672 --> 00:13:47,072
+Leitmotiv.
+
+347
+00:13:48,892 --> 00:13:49,292
+Leitmotiv.
+
+348
+00:13:49,452 --> 00:13:50,992
+Eu não sei pronunciar essa droga, mas enfim.
+
+349
+00:13:51,192 --> 00:13:53,332
+Que é o motivo condutor da música.
+
+350
+00:13:53,832 --> 00:13:54,972
+Vou dar um exemplo pra vocês.
+
+351
+00:13:55,632 --> 00:13:57,712
+Galera que gosta de super-heróis.
+
+352
+00:13:57,732 --> 00:13:58,552
+A gente tem lá os Vingadores.
+
+353
+00:14:03,492 --> 00:14:05,172
+Isso é o chamado, na verdade.
+
+354
+00:14:05,472 --> 00:14:06,732
+Mas aí, quando você tem aquela parte.
+
+355
+00:14:09,948 --> 00:14:10,868
+Tchau, tchau!
+
+356
+00:14:13,660 --> 00:14:14,880
+Tchau, tchau.
+
+357
+00:14:17,180 --> 00:14:20,180
+Isso é o leitmotiv, é a música tema dos Vingadores.
+
+358
+00:14:20,360 --> 00:14:23,660
+Isso é muito emocional, isso é neurociência pura na música.
+
+359
+00:14:23,800 --> 00:14:28,280
+Porque só de eu cantar aqui agora, quantas memórias eu ativei em você que gosta de assistir isso?
+
+360
+00:14:28,360 --> 00:14:30,880
+E você ficou pensando, cara, que massa, foda pra caramba.
+
+361
+00:14:30,960 --> 00:14:33,900
+Me deu até vontade de assistir o filme de novo, entende?
+
+362
+00:14:34,180 --> 00:14:40,880
+Então, trabalhar com produção musical é mais sobre isso, é construir a mensagem, contar uma história.
+
+363
+00:14:41,560 --> 00:14:42,940
+Enfim, dá pra avançar nisso.
+
+364
+00:14:42,940 --> 00:14:47,940
+Mas se você consegue separar os stems, você consegue brincar mais com leitmotifs,
+
+365
+00:14:48,660 --> 00:14:52,080
+consegue brincar mais com essa condução, consegue trazer mais identidade pra música,
+
+366
+00:14:52,200 --> 00:14:53,720
+consegue conduzir mais a melodia.
+
+367
+00:14:53,760 --> 00:14:56,020
+Então isso é poderoso pra caramba, tá bom?
+
+368
+00:14:57,308 --> 00:15:03,228
+Então beleza, o VR5 Ultimate Vocal Remover, que é um removedor de vocais,
+
+369
+00:15:03,248 --> 00:15:06,428
+e tem o Gaudio também em estúdio, que é removedor de vocais.
+
+370
+00:15:06,928 --> 00:15:09,828
+Então são ferramentas legais, se você quiser separar ali para ter um vocal,
+
+371
+00:15:09,888 --> 00:15:11,988
+ou para adicionar um vocal também, você consegue fazer.
+
+372
+00:15:12,128 --> 00:15:15,328
+Mas para iniciantes, o Suno vai funcionar super bem para você,
+
+373
+00:15:15,408 --> 00:15:17,688
+apesar de que ele é pago, mas vai funcionar bem.
+
+374
+00:15:18,972 --> 00:15:20,332
+Vamos para a categoria 3, então.
+
+375
+00:15:20,372 --> 00:15:23,032
+Edição avançada, síntese vocal e conversão.
+
+376
+00:15:23,032 --> 00:15:24,112
+Quais ferramentas nós temos aqui?
+
+377
+00:15:24,272 --> 00:15:29,872
+Essas aqui já são mais avançadas, mas o legal é que muitas delas você consegue conectar no Cloud Code
+
+378
+00:15:29,872 --> 00:15:31,592
+para ele usar elas para vocês.
+
+379
+00:15:31,672 --> 00:15:33,992
+Mas isso é mais avançado, eu vou só passar por aqui.
+
+380
+00:15:34,112 --> 00:15:39,112
+Então a gente tem o Synthesizer V Studio, V Studio 2 Pro.
+
+381
+00:15:39,372 --> 00:15:42,952
+A gente tem o Melodyne 6, Ace Studio 2.0.
+
+382
+00:15:45,052 --> 00:15:47,012
+Auto-Tune Pro 11,
+
+383
+00:15:47,572 --> 00:15:49,012
+Sound ID, Voice, AI.
+
+384
+00:15:49,372 --> 00:15:50,612
+São as principais aqui.
+
+385
+00:15:51,112 --> 00:15:53,232
+Aí tem aqui também, você pode ler a documentação
+
+386
+00:15:53,232 --> 00:15:55,432
+depois pra entender um pouquinho melhor quais são as mais escolhidas,
+
+387
+00:15:55,512 --> 00:15:57,372
+porque são mais escolhidas. Essas eu não uso,
+
+388
+00:15:57,472 --> 00:15:59,312
+tá? Sendo muito sincero com vocês aqui,
+
+389
+00:15:59,952 --> 00:16:00,792
+não uso nenhuma delas.
+
+390
+00:16:01,132 --> 00:16:03,032
+Mas estão aqui como referência, principalmente
+
+391
+00:16:03,032 --> 00:16:05,192
+pra quem tá querendo aprofundar mais.
+
+392
+00:16:05,712 --> 00:16:07,212
+Categoria 4 de ferramentas.
+
+393
+00:16:07,212 --> 00:16:09,152
+Edição de mixagem inteligente, equalização
+
+394
+00:16:09,152 --> 00:16:10,932
+adaptativa e remoção de ruído.
+
+395
+00:16:11,212 --> 00:16:12,572
+Aí tem Sonible Smart,
+
+396
+00:16:12,572 --> 00:16:13,912
+Smart, A-Key 4,
+
+397
+00:16:14,852 --> 00:16:16,612
+Gullfoss, Sound of Fury,
+
+398
+00:16:17,272 --> 00:16:18,392
+esse Zootope,
+
+399
+00:16:19,332 --> 00:16:20,752
+Zootope Neutron 5,
+
+400
+00:16:21,152 --> 00:16:24,332
+Zootope RX 11,
+
+401
+00:16:25,212 --> 00:16:26,492
+Waves Clarity Pro,
+
+402
+00:16:26,692 --> 00:16:29,112
+e aqui também, não uso nenhum desses, tá?
+
+403
+00:16:29,252 --> 00:16:31,612
+Uso o Suno, vou tranquilo lá por enquanto,
+
+404
+00:16:31,792 --> 00:16:33,432
+e é isso, mas tem a descrição aqui.
+
+405
+00:16:34,032 --> 00:16:37,292
+Categoria 5, Masterização Orientada por Inteligência Artificial,
+
+406
+00:16:37,432 --> 00:16:38,032
+Polimento Final.
+
+407
+00:16:38,392 --> 00:16:40,572
+Aí ele tá trazendo aqui muitas dessas que eu tô mostrando,
+
+408
+00:16:40,572 --> 00:16:43,052
+Eu só estou passando por elas também para você conhecer,
+
+409
+00:16:43,252 --> 00:16:45,612
+mas você conecta elas com inteligência artificial.
+
+410
+00:16:45,932 --> 00:16:54,612
+Então tem aqui o Roex Automix, Zootope Ozone 12, Master Channel, Land Mastering,
+
+411
+00:16:54,612 --> 00:16:56,552
+que eu já tinha falado dele para vocês também.
+
+412
+00:16:56,632 --> 00:16:57,832
+É muito fácil, muito bom.
+
+413
+00:16:58,032 --> 00:17:02,632
+Esse aqui eu já recomendo como escolha do editor, digamos assim.
+
+414
+00:17:03,212 --> 00:17:05,752
+Inclusive, eu vou trazer para vocês, deixa eu só fechar aqui,
+
+415
+00:17:06,532 --> 00:17:08,452
+as minhas escolhas de editor, de ferramenta.
+
+416
+00:17:09,092 --> 00:17:12,532
+Tem as considerações finais, é realmente extenso, tem as referências aqui,
+
+417
+00:17:12,632 --> 00:17:17,172
+mas para você que está vendo a gravação aqui embaixo da aula, você consegue conferir também.
+
+418
+00:17:17,472 --> 00:17:17,852
+Beleza?
+
+419
+00:17:17,972 --> 00:17:22,032
+Agora eu vou mostrar aqui as escolhas do editor, quais são as ferramentas que eu recomendo para você
+
+420
+00:17:22,612 --> 00:17:24,392
+que eu costumo utilizar aqui.
+
+421
+00:17:26,332 --> 00:17:27,712
+Então, vou puxar aqui para a nossa tela.
+
+422
+00:17:27,972 --> 00:17:28,412
+Beleza.
+
+423
+00:17:28,472 --> 00:17:29,992
+Vamos falar um pouquinho sobre elas.
+
+424
+00:17:30,092 --> 00:17:32,412
+Então, produção musical com IA, ferramenta de seleção pessoal.
+
+425
+00:17:32,692 --> 00:17:34,852
+Primeiro, Suno, cara.
+
+426
+00:17:34,972 --> 00:17:38,272
+Suno é um kitzinho muito bom, funciona.
+
+427
+00:17:38,512 --> 00:17:42,332
+Até quem trabalha profissionalmente em produção musical usa o Suno,
+
+428
+00:17:42,332 --> 00:17:46,032
+porque depois você pode baixar o MIDI dele e usar na DAW o que você quiser.
+
+429
+00:17:46,152 --> 00:17:47,532
+Então, funciona para caramba, muito bom.
+
+430
+00:17:48,412 --> 00:17:48,852
+Mozart.
+
+431
+00:17:49,072 --> 00:17:51,512
+Mozart, ele é concorrente do Suno.
+
+432
+00:17:51,912 --> 00:17:54,412
+Já vi ele, ele é uma ferramenta boa para iniciante.
+
+433
+00:17:54,412 --> 00:17:55,832
+então eu quis colocar aqui também
+
+434
+00:17:55,832 --> 00:17:58,352
+como ferramenta pra vocês, porque talvez você prefira
+
+435
+00:17:58,352 --> 00:18:00,432
+dar pra usar os créditos gratuitos, acabou do sono
+
+436
+00:18:00,432 --> 00:18:02,272
+vai pro Mozart, ou vai pro Moisés
+
+437
+00:18:02,272 --> 00:18:04,232
+que é brasileira, eu falei que eu ia
+
+438
+00:18:04,232 --> 00:18:06,492
+mostrar o Moisés pra vocês aqui também, então tá aqui
+
+439
+00:18:07,092 --> 00:18:07,972
+Moisés App
+
+440
+00:18:07,972 --> 00:18:09,592
+inclusive muito massa
+
+441
+00:18:10,532 --> 00:18:12,332
+startup brasileira, foi uma
+
+442
+00:18:12,332 --> 00:18:14,372
+se não foi a primeira, foi uma das primeiras
+
+443
+00:18:14,372 --> 00:18:15,772
+a fazer essa separação de stems
+
+444
+00:18:15,772 --> 00:18:18,152
+de qualquer faixa, separava pra você
+
+445
+00:18:18,152 --> 00:18:20,212
+com inteligência artificial, e tem muita
+
+446
+00:18:20,212 --> 00:18:22,172
+ferramenta legal aqui, então não tinha como
+
+447
+00:18:22,172 --> 00:18:24,772
+Como eu não falar da Moises aqui para vocês?
+
+448
+00:18:24,812 --> 00:18:27,712
+Isso também porque o design do site deles é muito bom, né?
+
+449
+00:18:27,992 --> 00:18:31,592
+É uma startup brasileira que está fazendo um trabalho muito bem feito aqui.
+
+450
+00:18:32,192 --> 00:18:32,632
+Incrível.
+
+451
+00:18:32,752 --> 00:18:34,112
+Então, muito massa para vocês.
+
+452
+00:18:34,672 --> 00:18:35,192
+Tem aqui, ó.
+
+453
+00:18:35,192 --> 00:18:37,532
+James Seasons com o Charlie Puth.
+
+454
+00:18:37,612 --> 00:18:38,472
+Mais de...
+
+455
+00:18:38,932 --> 00:18:40,812
+Eu não sei pronunciar o nome dele, né?
+
+456
+00:18:41,092 --> 00:18:42,392
+Mas ele é muito bom.
+
+457
+00:18:42,912 --> 00:18:44,792
+Mais de 100 mil dólares em prêmios.
+
+458
+00:18:44,872 --> 00:18:46,012
+Participe do concurso.
+
+459
+00:18:46,032 --> 00:18:47,132
+Então, o concurso dele aqui.
+
+460
+00:18:48,032 --> 00:18:49,792
+Inscrição é 5 de fevereiro a 31 de março.
+
+461
+00:18:49,852 --> 00:18:50,712
+Dá para competir.
+
+462
+00:18:51,372 --> 00:18:52,712
+Mas muito massa, né, cara?
+
+463
+00:18:52,832 --> 00:18:56,232
+Então, tem aí Moisés pra vocês, ou Moisés, é brasileiro.
+
+464
+00:18:56,232 --> 00:18:58,932
+Vamos falar com o nosso sotaque, né? Moisés.
+
+465
+00:18:59,552 --> 00:19:02,472
+Então tá aí pra vocês também essa ferramenta.
+
+466
+00:19:04,052 --> 00:19:08,532
+Cerato também foi uma das que era especializada em separação de stems.
+
+467
+00:19:10,152 --> 00:19:11,292
+Caraca, velho. Deixa eu ver aqui.
+
+468
+00:19:11,872 --> 00:19:12,452
+Tamo vivo.
+
+469
+00:19:13,332 --> 00:19:14,952
+Deu uma piscada aqui na energia.
+
+470
+00:19:14,972 --> 00:19:16,192
+Se cair, vocês já sabem, hein?
+
+471
+00:19:16,212 --> 00:19:17,152
+Tá chovendo muito forte ali.
+
+472
+00:19:17,892 --> 00:19:19,112
+mas o Serato
+
+473
+00:19:19,112 --> 00:19:20,452
+também faz separação de stems
+
+474
+00:19:21,652 --> 00:19:23,152
+e o legal
+
+475
+00:19:23,152 --> 00:19:24,852
+dele é que a maioria
+
+476
+00:19:24,852 --> 00:19:26,632
+vai ir nessa direção
+
+477
+00:19:26,632 --> 00:19:28,532
+de ser um estúdio
+
+478
+00:19:28,532 --> 00:19:31,252
+eles querem se tornar DAOs simplificadas
+
+479
+00:19:31,252 --> 00:19:33,052
+pra você criar tudo dentro dessas ferramentas
+
+480
+00:19:33,052 --> 00:19:34,912
+com o IA, então são concorrentes
+
+481
+00:19:34,912 --> 00:19:37,172
+o bom é que você pode usar os gratuitos e testar
+
+482
+00:19:37,172 --> 00:19:38,232
+escolher sua favorita
+
+483
+00:19:38,232 --> 00:19:40,832
+essa daqui ela já vai num nível um pouco
+
+484
+00:19:40,832 --> 00:19:43,192
+mais avançado que as outras, tem mais botões
+
+485
+00:19:43,192 --> 00:19:44,292
+pra apertar, digamos assim
+
+486
+00:19:44,292 --> 00:19:48,272
+mas você pega, cara, é intuitivo, não é difícil de usar,
+
+487
+00:19:48,372 --> 00:19:52,112
+é uma ferramenta poderosa também, que fica de referência aí para você.
+
+488
+00:19:53,468 --> 00:19:58,508
+Agora essa aqui, cara, tem o Landor, que eu já tinha falado pra vocês, né,
+
+489
+00:19:58,508 --> 00:20:00,568
+vou repetir, principalmente pela masterização dele,
+
+490
+00:20:01,108 --> 00:20:04,148
+que você consegue fazer aqui, não é tão caro,
+
+491
+00:20:04,148 --> 00:20:07,128
+e se você, sei lá, eu quero jogar minha música no Spotify,
+
+492
+00:20:07,308 --> 00:20:11,548
+agora eu gostei dela, passa ela aqui, cara, vai ficar muito maior a qualidade,
+
+493
+00:20:12,328 --> 00:20:13,948
+vai fazer diferença pra você.
+
+494
+00:20:14,068 --> 00:20:15,608
+Então, faz a masterização aqui.
+
+495
+00:20:15,628 --> 00:20:18,528
+Depois que tá a música pronta, você tem ali seu MP3 ali bonitinho,
+
+496
+00:20:18,548 --> 00:20:20,708
+porque no Suno provavelmente você vai baixar o MP3,
+
+497
+00:20:20,708 --> 00:20:25,228
+Beleza? Joga o MP3 aqui, pede para ela fazer a masterização, vai ser bom para você.
+
+498
+00:20:26,588 --> 00:20:28,148
+Então, também escolha do editor.
+
+499
+00:20:28,488 --> 00:20:29,688
+Aí a gente tem o Doubler.
+
+500
+00:20:29,808 --> 00:20:32,148
+O Doubler Tool, cara, ele é muito massa,
+
+501
+00:20:32,328 --> 00:20:36,508
+porque essa ferramenta aqui te permite gravar a sua voz
+
+502
+00:20:36,508 --> 00:20:41,788
+e colocar a sua voz com qualquer outra voz, cara.
+
+503
+00:20:41,848 --> 00:20:45,528
+Você pode cantar desafinado, ruim, igual você canta pra caramba,
+
+504
+00:20:45,588 --> 00:20:46,988
+igual você canta no chuveiro.
+
+505
+00:20:47,088 --> 00:20:48,708
+Canta a sua música que você gosta,
+
+506
+00:20:48,988 --> 00:20:51,468
+pega esse áudio que você cantou, sobe aqui,
+
+507
+00:20:51,628 --> 00:20:55,508
+e ele vai refazer isso, harmonizar isso pra você,
+
+508
+00:20:55,508 --> 00:20:57,568
+arranjar isso pra você, na verdade ele não vai arranjar
+
+509
+00:20:57,568 --> 00:20:59,588
+porque não tem outros instrumentos, dá pra colocar na verdade
+
+510
+00:20:59,588 --> 00:21:01,828
+outros instrumentos, mas o que eu tô querendo falar pra vocês
+
+511
+00:21:01,828 --> 00:21:02,928
+é principalmente na voz, cara
+
+512
+00:21:02,928 --> 00:21:05,388
+e aí é muito massa
+
+513
+00:21:05,388 --> 00:21:07,788
+porque você consegue colocar outras vozes
+
+514
+00:21:07,788 --> 00:21:09,748
+no lugar da sua e fica bom, cara
+
+515
+00:21:09,748 --> 00:21:11,888
+fica muito bom, a questão é que ele é pago
+
+516
+00:21:11,888 --> 00:21:13,508
+você tem que comprar ele, né
+
+517
+00:21:13,508 --> 00:21:16,348
+então tá aqui, tem o de 99 dólares
+
+518
+00:21:16,348 --> 00:21:18,008
+tem o de 219 dólares
+
+519
+00:21:18,008 --> 00:21:19,148
+e o de 129 dólares
+
+520
+00:21:19,148 --> 00:21:21,388
+é bem cara, o mercado de música
+
+521
+00:21:21,388 --> 00:21:23,688
+a galera do design aí, a galera do visual
+
+522
+00:21:23,688 --> 00:21:29,608
+visual, acha que é caro na parte visual, é porque vocês não conhecem o mercado da música, tá, cara?
+
+523
+00:21:30,088 --> 00:21:34,688
+Porque as voltas que precisam dar aqui, eu vou falar pra vocês. Mas essa ferramenta é legal,
+
+524
+00:21:34,748 --> 00:21:39,308
+não podia deixar de falar dela pra vocês, é bem interessante conferir. Tem a Kits também,
+
+525
+00:21:39,448 --> 00:21:45,548
+que também é pro mesmo objetivo, tá? Então você consegue mudar esses vocals, otimizar eles,
+
+526
+00:21:45,608 --> 00:21:51,348
+jogar sua voz ali, fazer vocals diferentes. E por que que eu tô falando dessas? Porque eu não curto
+
+527
+00:21:51,348 --> 00:21:53,468
+muito o vocals do Suno. Se você quiser
+
+528
+00:21:53,468 --> 00:21:55,528
+um vocal mais legal ainda, vai nas especialistas
+
+529
+00:21:55,528 --> 00:21:57,708
+em vocals, né? Você consegue separar
+
+530
+00:21:57,708 --> 00:21:59,428
+aqui agora os stems, montou
+
+531
+00:21:59,428 --> 00:22:00,688
+a música aqui e vai melhorando ela.
+
+532
+00:22:01,388 --> 00:22:03,308
+Apesar de que o Suno V5, principalmente
+
+533
+00:22:03,308 --> 00:22:05,528
+pra iniciantes que estão trabalhando, ele vai fazer as músicas
+
+534
+00:22:05,528 --> 00:22:07,388
+muito boas pra vocês, vai ficar bem legal,
+
+535
+00:22:07,508 --> 00:22:09,288
+cara. Bom, aqui eu tô subindo
+
+536
+00:22:09,288 --> 00:22:11,068
+um pouquinho a régua pra vocês, é interessante.
+
+537
+00:22:11,408 --> 00:22:13,728
+Aqui vocês vão pagar menos, porque é assinatura,
+
+538
+00:22:13,728 --> 00:22:15,448
+dá pra já começar aqui de graça também
+
+539
+00:22:15,448 --> 00:22:17,528
+pra experimentar. Você sobe
+
+540
+00:22:17,528 --> 00:22:19,508
+aqui o áudio e dá pra
+
+541
+00:22:19,508 --> 00:22:21,228
+clonar a voz, dá pra criar uma demo
+
+542
+00:22:21,228 --> 00:22:23,668
+com a sua voz, dá pra isolar
+
+543
+00:22:23,668 --> 00:22:25,548
+a voz ou criar camadas de voz também.
+
+544
+00:22:26,812 --> 00:22:29,452
+Esse aqui, pelo menos, dá para usar, não precisa pagar pela ferramenta,
+
+545
+00:22:29,452 --> 00:22:32,332
+igual o Doubler 2 aqui, teria que pagar pela ferramenta também.
+
+546
+00:22:32,432 --> 00:22:34,692
+Então, kits é bem interessante nesse sentido.
+
+547
+00:22:35,964 --> 00:22:39,364
+Eleven Labs é minha recomendação aqui de editor,
+
+548
+00:22:39,504 --> 00:22:42,344
+porque ele não é pra música, mas ele é pra áudio.
+
+549
+00:22:42,644 --> 00:22:45,924
+E em outros momentos, quando a gente falar de persona sintética, né,
+
+550
+00:22:45,984 --> 00:22:50,484
+se você quiser clonar você, não tem como não falar do Eleven Labs.
+
+551
+00:22:50,624 --> 00:22:52,244
+Ele é carinho, mas ele é bom.
+
+552
+00:22:53,024 --> 00:22:56,744
+Então tá aqui como uma referência, a gente vai falar mais sobre ele em outras trilhas.
+
+553
+00:22:56,844 --> 00:22:59,684
+Ele é muito bom pra fazer dublagens, mas também, sei lá,
+
+554
+00:22:59,724 --> 00:23:04,004
+você quer fazer um podcast, você quer fazer uma narrativa de uma história sua,
+
+555
+00:23:04,004 --> 00:23:05,384
+você quer fazer um...
+
+556
+00:23:06,652 --> 00:23:07,152
+Hum...
+
+557
+00:23:08,476 --> 00:23:10,736
+uma persona sintética de a sua também,
+
+558
+00:23:10,816 --> 00:23:12,836
+você vai usar ele aqui, vai funcionar muito bem.
+
+559
+00:23:13,056 --> 00:23:15,136
+Várias empresas utilizam também, empresas gigantes.
+
+560
+00:23:15,436 --> 00:23:18,776
+E a escolha de editor, porque na verdade aqui é a minha escolha,
+
+561
+00:23:18,776 --> 00:23:21,376
+porque a escolha é óbvia, ele é muito bom.
+
+562
+00:23:22,296 --> 00:23:23,716
+Ponto. Beleza?
+
+563
+00:23:24,336 --> 00:23:25,016
+Então tá aqui.
+
+564
+00:23:25,396 --> 00:23:28,576
+E o Ableton, que aí é uma DAW, é a que eu mais gosto.
+
+565
+00:23:28,836 --> 00:23:30,476
+Por familiaridade também e tal,
+
+566
+00:23:30,516 --> 00:23:32,576
+mas isso aqui já é um pouco mais avançado,
+
+567
+00:23:32,636 --> 00:23:34,916
+porque você instala lá no seu PC,
+
+568
+00:23:35,076 --> 00:23:37,636
+é um monte de botão, painel de avião, aquela coisa toda.
+
+569
+00:23:37,636 --> 00:23:42,056
+Mas se você quer se aprofundar nessa área, cara, baixa e vê o que acontece.
+
+570
+00:23:42,456 --> 00:23:46,316
+Você vai ter aqui, ó, Try Live 12 for Free.
+
+571
+00:23:46,396 --> 00:23:48,276
+Ou seja, 12 dias pra você testar de graça.
+
+572
+00:23:48,576 --> 00:23:53,056
+Depois disso, você pode assinar a ferramenta aí pra poder utilizar, beleza?
+
+573
+00:23:53,596 --> 00:23:57,256
+Não vou poder assinar, tem outra aí, vai na famosa, né?
+
+574
+00:23:57,336 --> 00:23:58,676
+Que a galera usa, que é o Audacity.
+
+575
+00:23:59,336 --> 00:24:03,616
+Aí não é recomendação de editor, mas essa daqui, ela é o quebra galho.
+
+576
+00:24:03,616 --> 00:24:05,476
+que você sabe usar, cara,
+
+577
+00:24:05,476 --> 00:24:07,716
+você faz uma produção incrível
+
+578
+00:24:07,716 --> 00:24:09,236
+aqui dentro, se você sabe usar, se é bom,
+
+579
+00:24:09,276 --> 00:24:11,116
+faz, você vai conseguir. Então,
+
+580
+00:24:11,536 --> 00:24:13,556
+funciona, mas fica aí
+
+581
+00:24:13,556 --> 00:24:15,576
+também porque ele é gratuito, dá pra você usar,
+
+582
+00:24:15,676 --> 00:24:17,496
+então é tranquilo, beleza? E dá pra
+
+583
+00:24:17,496 --> 00:24:19,436
+conectar e ar nele também. Bom, essas
+
+584
+00:24:19,436 --> 00:24:21,556
+são as minhas escolhas de editor aqui, das ferramentas de produção
+
+585
+00:24:21,556 --> 00:24:23,616
+musical, e deixa eu ver se tem
+
+586
+00:24:23,616 --> 00:24:24,636
+mais alguma coisa aqui do lado.
+
+587
+00:24:25,276 --> 00:24:27,376
+Isso aqui eu vou falar na próxima aula pra vocês,
+
+588
+00:24:27,416 --> 00:24:29,636
+que é um processo, vou falar
+
+589
+00:24:29,636 --> 00:24:31,556
+em uma das próximas aulas, o processo pra publicar
+
+590
+00:24:31,556 --> 00:24:33,376
+a sua música, caso você tenha interesse.
+
+591
+00:24:33,616 --> 00:24:33,816
+Beleza?
+
+592
+00:24:35,296 --> 00:24:39,496
+Então, você já entendeu aqui como pesquisar ferramentas novas.
+
+593
+00:24:39,716 --> 00:24:42,936
+Eu já te mostrei aqui o que saiu na minha pesquisa de ferramentas para você.
+
+594
+00:24:43,296 --> 00:24:46,596
+Inclusive, eu vou pedir para a equipe deixar na gravação aqui da aula para você,
+
+595
+00:24:46,616 --> 00:24:50,016
+embaixo na descrição, todos os links de todas as ferramentas que a gente falou aqui.
+
+596
+00:24:50,076 --> 00:24:51,836
+Aí você já vai direto acessando a que você quiser.
+
+597
+00:24:53,404 --> 00:24:54,864
+Também te dei a escolha do editor, né?
+
+598
+00:24:54,904 --> 00:24:56,724
+Falei as ferramentas que eu tenho mais familiaridade,
+
+599
+00:24:56,884 --> 00:24:58,344
+as que eu mais gosto, as que eu uso aqui,
+
+600
+00:24:58,404 --> 00:24:59,644
+que faz sentido para mim, tá bom?
+
+601
+00:24:59,964 --> 00:25:02,544
+Tem outras ferramentas que eu acabei não citando,
+
+602
+00:25:02,604 --> 00:25:03,924
+mas eu posso acabar trazendo aqui,
+
+603
+00:25:04,764 --> 00:25:05,404
+que é...
+
+604
+00:25:06,684 --> 00:25:08,884
+Peraí que eu mudei a sensibilidade do meu...
+
+605
+00:25:10,876 --> 00:25:11,776
+Do meu mouse, cara?
+
+606
+00:25:16,828 --> 00:25:20,868
+Mas tem outras ferramentas físicas também, né?
+
+607
+00:25:20,868 --> 00:25:22,728
+Você pode ter um controlador MIDI, por exemplo,
+
+608
+00:25:22,728 --> 00:25:25,608
+só que aí eu entraria em aspectos bem mais...
+
+609
+00:25:27,132 --> 00:25:28,412
+bem mais técnicos, assim, né?
+
+610
+00:25:28,632 --> 00:25:30,652
+Eu posso só... Vamos lá, aqui, ó. Vou colocar aqui
+
+611
+00:25:30,652 --> 00:25:31,452
+na frente de vocês.
+
+612
+00:25:32,472 --> 00:25:34,172
+Eu tenho esse aqui, da Akai.
+
+613
+00:25:35,388 --> 00:25:37,368
+e eu gosto dele, ele é pra você usar
+
+614
+00:25:37,368 --> 00:25:39,408
+mais analógico, mas sinceramente, você pode usar
+
+615
+00:25:39,408 --> 00:25:41,208
+seu teclado, não é como se fosse
+
+616
+00:25:41,768 --> 00:25:43,568
+imprescindível, não é a última
+
+617
+00:25:43,568 --> 00:25:45,668
+coisa, só que, por exemplo, esses padzinhos
+
+618
+00:25:45,668 --> 00:25:47,128
+aqui, você quer fazer uma batidinha de
+
+619
+00:25:47,128 --> 00:25:48,048
+drums, de
+
+620
+00:25:50,028 --> 00:25:50,828
+percussão, ele
+
+621
+00:25:50,828 --> 00:25:53,148
+vai funcionar legal, ele pega o ataque
+
+622
+00:25:53,148 --> 00:25:54,388
+seu, ele vai conseguir
+
+623
+00:25:55,748 --> 00:25:57,008
+você vai conseguir tocar
+
+624
+00:25:57,008 --> 00:25:59,328
+a música aqui dentro, né, ele vem
+
+625
+00:25:59,328 --> 00:26:01,368
+com essas teclas aqui também, que dá pra você
+
+626
+00:26:01,368 --> 00:26:03,768
+fazer alguns arpejos nele, alguns acordes
+
+627
+00:26:03,768 --> 00:26:06,088
+mas a ideia não é tocar tudo aqui
+
+628
+00:26:06,088 --> 00:26:07,768
+é para facilitar na hora de
+
+629
+00:26:08,348 --> 00:26:09,968
+compor também, eu tenho esse
+
+630
+00:26:09,968 --> 00:26:12,228
+usei pouco ainda, perto do que
+
+631
+00:26:12,228 --> 00:26:13,828
+eu quero utilizar, mas
+
+632
+00:26:13,828 --> 00:26:15,028
+está aí como
+
+633
+00:26:16,188 --> 00:26:18,228
+uma ferramenta, quem quer mergulhar nessa
+
+634
+00:26:18,228 --> 00:26:20,208
+área então, pode ser interessante ter um controlador
+
+635
+00:26:20,208 --> 00:26:22,388
+midi também, beleza? Uma ferramenta
+
+636
+00:26:22,388 --> 00:26:23,408
+de escolha do editor
+

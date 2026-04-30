@@ -1,0 +1,270 @@
+# Video: 5._aula_-_erros,_mitos_e_limitações_da_geração_de_texto_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 12:57
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:03 --> 00:00:07:21] Vamos falar agora sobre os erros, mitos e limitações no uso de inteligências artificiais para a geração de textos.
+[00:00:07:24 --> 00:00:13:13] Eu quero te mostrar aqui que, apesar de as IAs ajudarem muito no processo de escrita,
+[00:00:13:14 --> 00:00:19:14] não existe receita mágica, não existe botão mágico, não existe um botão que vai fazer todo o trabalho para você.
+[00:00:19:16 --> 00:00:26:01] Existem, sim, limitações e existem mitos que as pessoas acabam criando em torno da inteligência artificial
+[00:00:26:01 --> 00:00:30:18] que nós precisamos quebrar aqui, além também dos erros que as pessoas cometem
+[00:00:30:18 --> 00:00:34:24] na hora de utilizar inteligências artificiais para escrever textos.
+[00:00:34:29 --> 00:00:39:13] Erro número 1. Acreditar que existe alguma ferramenta de inteligência artificial
+[00:00:39:13 --> 00:00:45:04] capaz de fazer todo o trabalho para você com uma descrição simples, como um botão mágico.
+[00:00:45:08 --> 00:00:49:18] Acontece que inteligências artificiais ainda não são capazes de ler a sua mente.
+[00:00:49:20 --> 00:00:54:10] E mesmo que elas fossem, se as coisas aqui dentro da sua cabeça estiverem bagunçadas,
+[00:00:54:10 --> 00:00:58:02] o que você vai receber da IA de volta é mais bagunça.
+[00:00:58:03 --> 00:01:01:24] Então, o primeiro erro é achar que você pode simplesmente falar para a IA,
+[00:01:01:27 --> 00:01:03:26] escreva um e-mail para mim vendendo o meu produto.
+[00:01:04:02 --> 00:01:09:05] Esse tipo de coisa não funciona porque a IA ainda não tem todo o contexto necessário
+[00:01:09:05 --> 00:01:10:18] para trabalhar o texto junto com você.
+[00:01:10:22 --> 00:01:13:23] Então, ela vai até gerar o texto, porque esse é o trabalho dela,
+[00:01:13:25 --> 00:01:16:17] sempre que você enviar uma mensagem, ela vai te devolver uma resposta,
+[00:01:16:23 --> 00:01:18:26] mas será o texto mais genérico de todos.
+[00:01:19:00 --> 00:01:21:08] Esse é o erro clássico que as pessoas cometem,
+[00:01:21:08 --> 00:01:24:26] Até porque muita gente não tem repertório do que é um texto bom e um texto ruim.
+[00:01:24:28 --> 00:01:27:27] Então qualquer texto que a IA entregar vai parecer um bom texto.
+[00:01:28:03 --> 00:01:30:19] Mas aqui você precisa ter senso crítico.
+[00:01:30:20 --> 00:01:36:00] Você precisa entender qual é o papel, a função desse texto antes de sair enviando essas informações para a IA.
+[00:01:36:00 --> 00:01:40:29] Eu vou te mostrar, você vai ter um processo claro para fazer isso aqui, mas é importante que você entenda.
+[00:01:41:02 --> 00:01:44:21] A IA não lê somente, e mesmo que ela lê, ela precisa de direção.
+[00:01:44:23 --> 00:01:49:06] Ela precisa que você explique para ela o que você precisa, qual é o público, qual o objetivo,
+[00:01:49:06 --> 00:01:51:18] qual é o processo onde vocês querem chegar.
+[00:01:51:25 --> 00:01:53:24] Tem vários elementos que nós vamos discutir aqui
+[00:01:53:24 --> 00:01:57:21] e você já pode tirar essa possibilidade aqui do nosso processo
+[00:01:57:21 --> 00:01:59:18] porque não existe botão mágico.
+[00:01:59:21 --> 00:02:03:21] O segundo erro é delegar as suas decisões para a inteligência artificial.
+[00:02:04:02 --> 00:02:06:25] Você já entendeu que, beleza, não existe botão mágico,
+[00:02:06:28 --> 00:02:09:29] já entendeu que não dá para simplesmente fazer um pedido simples
+[00:02:09:29 --> 00:02:12:26] e achar que a inteligência artificial vai te entregar o ouro aqui.
+[00:02:12:29 --> 00:02:15:27] Afinal de contas, existem muitos caminhos e muitas possibilidades,
+[00:02:15:27 --> 00:02:16:27] você precisa de direção.
+[00:02:16:27 --> 00:02:21:18] E aí vem o segundo erro clássico, que é delegar essa direção para a inteligência artificial.
+[00:02:21:27 --> 00:02:26:03] Você até explica um pouco do contexto para ela, fala o que você precisa,
+[00:02:26:09 --> 00:02:31:02] e depois fala para ela o seguinte, toma as decisões por mim e me entrega o resultado que eu preciso.
+[00:02:31:10 --> 00:02:38:17] E aqui nós temos um erro porque, muitas vezes, a inteligência artificial pode até te entregar um resultado que parece interessante,
+[00:02:38:24 --> 00:02:40:19] baseado dentro do seu contexto.
+[00:02:40:27 --> 00:02:43:22] Mas ela vai te entregar um resultado estatístico.
+[00:02:43:22 --> 00:02:47:08] Ela vai te entregar um resultado com base em todos os parâmetros dela,
+[00:02:47:13 --> 00:02:49:21] que é o mais óbvio, o caminho comum.
+[00:02:49:29 --> 00:02:53:16] Então, por mais que o texto ainda pareça bom, vai ser um texto robotizado,
+[00:02:53:21 --> 00:02:58:13] vai ser um texto cheio de vícios de IA, que nós vamos falar mais disso para frente,
+[00:02:58:17 --> 00:03:03:15] que você talvez não note no começo, mas que as pessoas que vão ler esse seu texto vão notar.
+[00:03:03:17 --> 00:03:08:14] Mais do que isso, um texto bom é relativo, depende do seu objetivo com esse texto.
+[00:03:08:18 --> 00:03:13:03] E se você pede para a IA decidir isso por você, ela vai no caminho mais óbvio,
+[00:03:13:03 --> 00:03:17:29] Afinal de contas, ela é estatística, ou seja, o texto que ela vai te devolver é um texto óbvio.
+[00:03:18:01 --> 00:03:22:05] Ela vai escolher o caminho mais óbvio para o seu contexto, mas ainda assim é um caminho óbvio.
+[00:03:22:08 --> 00:03:24:01] E sabe o que acontece quando um texto é óbvio?
+[00:03:24:04 --> 00:03:26:21] Ele é chato, as pessoas não querem ler, ele não provoca.
+[00:03:26:24 --> 00:03:30:11] Bons textos, como você vai ver mais para frente, são textos humanos.
+[00:03:30:23 --> 00:03:34:24] Textos que têm sim um ritmo que não é tão cadenciado e perfeito.
+[00:03:34:28 --> 00:03:37:20] Têm sim frases longas seguidas de frases curtas.
+[00:03:37:20 --> 00:03:44:23] Tem sim raciocínios incompletos que fazem com que o texto fique mais imprevisível.
+[00:03:44:25 --> 00:03:48:05] E essa imprevisibilidade é o que faz você querer continuar lendo.
+[00:03:48:09 --> 00:03:49:14] Agora com a IA é diferente.
+[00:03:49:20 --> 00:03:54:10] Se você não pede exatamente isso para ela, ela vai te entregar um texto previsível.
+[00:03:54:11 --> 00:04:00:02] Um texto que segue uma lógica estatística de qual é a próxima palavra depois da próxima, depois da próxima.
+[00:04:00:05 --> 00:04:04:20] Pode até parecer um texto incrível, mas vai ser como todos os outros textos gerados com IA.
+[00:04:04:20 --> 00:04:10:08] Então, não, não é uma boa ideia você delegar a decisão, a direção do seu texto.
+[00:04:10:13 --> 00:04:13:13] Mesmo que a IA consiga fazer isso para você, ela vai para o caminho comum.
+[00:04:13:17 --> 00:04:17:20] E eu sugiro para você, como você verá ao longo de toda essa trilha, que você a direcione.
+[00:04:17:20 --> 00:04:21:20] Com isso, ela vai começar a te entregar textos incríveis em tempo recorde,
+[00:04:21:20 --> 00:04:23:17] mas que você ainda tem o controle.
+[00:04:23:21 --> 00:04:28:12] Você ainda consegue gerenciar os principais elementos que fazem do texto um bom texto,
+[00:04:28:15 --> 00:04:32:15] e o principal, que tenha personalidade, que seja de fato seu, que não seja genérico.
+[00:04:32:15 --> 00:04:38:00] E o terceiro grande erro que eu quero jogar luz aqui é o erro da falta de iteração.
+[00:04:38:09 --> 00:04:39:17] O que é uma iteração?
+[00:04:39:19 --> 00:04:44:05] É quando você produz algo, coloca para teste, valida e melhora.
+[00:04:44:08 --> 00:04:45:23] Coloca para teste, valida, melhora.
+[00:04:45:24 --> 00:04:47:09] Coloca para teste, valida, melhora.
+[00:04:47:14 --> 00:04:49:07] Com o texto, funciona do mesmo jeito.
+[00:04:49:14 --> 00:04:53:29] O grande erro aqui é você achar que o texto vai sair pronto para você logo de cara.
+[00:04:54:04 --> 00:04:57:25] Isso pode até acontecer, caso você tenha feito uma boa direção,
+[00:04:57:25 --> 00:05:01:09] mas ainda assim você vai querer fazer um ajuste aqui e outro ali,
+[00:05:01:12 --> 00:05:02:24] tirar uma parte, adicionar outra.
+[00:05:03:14 --> 00:05:05:28] Simplicidade é o último grau da sofisticação.
+[00:05:06:03 --> 00:05:09:02] E simplicidade significa remover elementos.
+[00:05:09:16 --> 00:05:13:11] Um texto perfeito é um texto que você não precisa tirar mais nada dele.
+[00:05:13:15 --> 00:05:15:15] E para isso você precisa de iteração.
+[00:05:15:17 --> 00:05:20:05] Então sim, já espere que faz parte do processo construir esse texto
+[00:05:20:05 --> 00:05:21:20] junto com a inteligência artificial.
+[00:05:21:29 --> 00:05:24:23] Você pode pedir ela para gerar um parágrafo para você,
+[00:05:24:25 --> 00:05:26:06] um texto inteiro para você.
+[00:05:26:06 --> 00:05:29:27] Você tira uma parte, adiciona outra, troca uma palavra, modifica uma frase
+[00:05:29:27 --> 00:05:32:17] e assim você vai conseguir criar textos incríveis.
+[00:05:32:22 --> 00:05:35:05] Você pode inclusive pedir a própria inteligência artificial
+[00:05:35:05 --> 00:05:37:18] para fazer parte dessa iteração com você.
+[00:05:37:20 --> 00:05:40:00] Pode pedir para ela mesma analisar o texto dela.
+[00:05:40:05 --> 00:05:43:00] Pode pedir para ela mesma tirar o que é desnecessário.
+[00:05:43:02 --> 00:05:44:26] Pode pedir para ela adicionar coisas novas.
+[00:05:45:00 --> 00:05:48:26] Essa iteração é que vai fazer você chegar em textos que realmente são bons
+[00:05:48:26 --> 00:05:50:13] e que cumprem o seu objetivo.
+[00:05:50:21 --> 00:05:54:12] Então é um grande erro pensar que você vai ter o resultado logo de cara na primeira opção,
+[00:05:54:12 --> 00:05:59:18] faz parte do processo, essa iteração, e você vai ver bastante isso ao longo dessa trilha.
+[00:05:59:20 --> 00:06:03:18] Agora, além dos erros, vamos falar também sobre os mitos.
+[00:06:03:18 --> 00:06:08:29] E o primeiro mito que eu quero quebrar aqui é o mito de que as IAs vão substituir os escritores.
+[00:06:09:04 --> 00:06:14:11] Se depois de tudo isso que eu já te mostrei aqui, você ainda não entendeu, agora sua ficha vai cair.
+[00:06:14:15 --> 00:06:20:03] A IA pode fazer qualquer coisa, pode gerar qualquer texto, pode fazer textos bons, textos ruins,
+[00:06:20:03 --> 00:06:26:02] mas ela não tem o principal fator que impede ela de substituir qualquer profissional.
+[00:06:26:06 --> 00:06:28:00] E é o fator da intenção.
+[00:06:28:05 --> 00:06:30:03] A IA pode sim fazer textos incríveis.
+[00:06:30:06 --> 00:06:32:17] Nenhuma IA quer escrever texto.
+[00:06:32:25 --> 00:06:35:06] Ela apenas faz o que nós pedimos para ela.
+[00:06:35:10 --> 00:06:41:03] E se ela for essa espécie de gênio da lâmpada que pode realizar qualquer pedido de texto seu,
+[00:06:41:08 --> 00:06:46:02] isso significa que você tem uma infinidade de possibilidades de geração de texto.
+[00:06:46:02 --> 00:06:52:12] E é aqui que nós temos uma grande diferença de profissionais que sabem quais são os elementos de um bom texto,
+[00:06:52:16 --> 00:06:58:12] sabem separar um texto ruim de um texto bom, sabem como envolver o público para um profissional que é amador,
+[00:06:58:16 --> 00:07:03:06] que não sabe essas características, esses elementos, que não entende das pessoas, que não sabe escrever um bom texto.
+[00:07:03:11 --> 00:07:10:05] Ambos poderão pedir qualquer coisa para Iá, mas o profissional amador não vai conseguir conceber um bom pedido
+[00:07:10:05 --> 00:07:12:03] porque ele nem sabe que esse pedido existe.
+[00:07:12:03 --> 00:07:16:10] Já um profissional experiente, consciente, com um bom repertório,
+[00:07:16:12 --> 00:07:19:19] ele é capaz de pedir coisas mais profundas e não só mais profundas.
+[00:07:19:21 --> 00:07:23:02] Ele é capaz de escolher para cada momento o tipo de texto certo,
+[00:07:23:05 --> 00:07:25:18] o tipo de tom certo, o tipo de estrutura certo,
+[00:07:25:20 --> 00:07:27:23] entendendo o objetivo daquele texto.
+[00:07:27:27 --> 00:07:29:16] Eu já falei isso aqui um pouquinho antes.
+[00:07:29:19 --> 00:07:33:07] A diferença de fazer um texto em que você vai escrever um e-mail,
+[00:07:33:09 --> 00:07:35:05] para um texto em que você vai escrever uma descrição,
+[00:07:35:12 --> 00:07:37:21] para um texto em que você vai escrever um manifesto,
+[00:07:37:21 --> 00:07:39:15] para um texto em que você vai escrever um roteiro,
+[00:07:39:16 --> 00:07:40:19] são objetivos diferentes.
+[00:07:40:19 --> 00:07:46:18] diferentes. Entender essas estruturas faz parte de um processo profissional. Esse que a IA não faz,
+[00:07:46:24 --> 00:07:52:15] porque pela falta de intenção dela, ela vai ficar te esperando o pedido. E se você sabe fazer bem
+[00:07:52:15 --> 00:07:56:21] esse pedido, você vai sim conseguir resultados muito melhores. É nesse momento que a gente
+[00:07:56:21 --> 00:08:01:19] entende que a IA não substitui os escritores. Na verdade, ela dá mais uma possibilidade,
+[00:08:01:20 --> 00:08:07:03] mais uma ferramenta poderosa para que quem sabe como conduzir as palavras, direcione essas
+[00:08:07:03 --> 00:08:10:20] essas ferramentas para conseguir ainda mais rápido, ainda melhor,
+[00:08:10:22 --> 00:08:13:02] com ainda mais qualidade, textos incríveis.
+[00:08:13:08 --> 00:08:15:20] E é com isso que a gente cai no segundo mito,
+[00:08:15:20 --> 00:08:19:03] de achar que agora qualquer pessoa vai escrever textos incríveis.
+[00:08:19:10 --> 00:08:24:11] E isso também não é verdade, porque se nós expandimos aqui as possibilidades ao infinito,
+[00:08:24:12 --> 00:08:28:16] significa que as pessoas podem pedir qualquer coisa ao infinito também.
+[00:08:28:21 --> 00:08:31:02] E se a pessoa não sabe o que ela está pedindo,
+[00:08:31:04 --> 00:08:34:02] no final ela vai acabar tendo um resultado genérico.
+[00:08:34:02 --> 00:08:41:21] Pode até ser um resultado bom, mas vai ser um resultado igual para a maioria das pessoas que não tem repertório e não sabem direcionar a IA.
+[00:08:41:25 --> 00:08:44:09] Então, aqui nós temos um trabalho de colaboração.
+[00:08:44:09 --> 00:08:48:20] É a sua mente com a inteligência artificial para gerar o que você pedir para ela gerar.
+[00:08:48:23 --> 00:08:54:04] Logo, se nós temos toda essa diversidade e a grande parte das pessoas nem sabe o que é um bom texto,
+[00:08:54:08 --> 00:08:57:15] então os textos delas serão iguais e os seus serão diferentes.
+[00:08:57:21 --> 00:09:01:21] É aqui que a gente percebe que agora não vai ser todo mundo que vai escrever bons textos.
+[00:09:01:21 --> 00:09:05:11] Agora nós teremos grande parte das pessoas escrevendo textos iguais
+[00:09:05:11 --> 00:09:09:06] e uma pequena parte que entende isso que eu estou trazendo aqui, fazendo textos diferentes.
+[00:09:09:20 --> 00:09:14:12] Um bom texto não é só um texto que tem a estrutura perfeita, o ritmo perfeito, a gramática perfeita.
+[00:09:14:15 --> 00:09:17:07] Um bom texto é um texto que mexe com o ser humano.
+[00:09:17:13 --> 00:09:20:16] É um texto que faz as pessoas lerem ele do início ao fim.
+[00:09:20:20 --> 00:09:22:20] Isso você também vai aprender a fazer aqui.
+[00:09:22:25 --> 00:09:26:12] O que nos chega no terceiro mito, que pode ser olhado por dois ângulos,
+[00:09:26:14 --> 00:09:29:14] e ambos são mitos que eu quero tirar da sua cabeça.
+[00:09:29:14 --> 00:09:31:24] O primeiro é pensar que a IA só copia.
+[00:09:31:25 --> 00:09:33:18] A IA é um conjunto estatístico.
+[00:09:33:18 --> 00:09:36:15] Isso significa que ela te permite fazer combinações.
+[00:09:36:21 --> 00:09:39:14] E quando você tem uma infinidade de combinações,
+[00:09:39:17 --> 00:09:43:13] você também é capaz de gerar coisas novas utilizando a própria IA.
+[00:09:43:16 --> 00:09:48:03] Isso significa que a IA não só copia, ela combina, ela gera coisas novas.
+[00:09:48:06 --> 00:09:50:12] O que nos leva para o outro lado dessa moeda,
+[00:09:50:14 --> 00:09:53:02] que é achar que agora todo mundo vai ser original também.
+[00:09:53:08 --> 00:09:58:05] Isso combina com o mito anterior, porque a originalidade vem dessa combinação,
+[00:09:58:05 --> 00:10:03:25] mas a maior parte das pessoas vai fazer o óbvio, vai pedir o óbvio e vai fazer as mesmas combinações.
+[00:10:03:29 --> 00:10:07:09] Quando você tem as mesmas combinações, você tem os mesmos resultados.
+[00:10:07:18 --> 00:10:14:04] Logo, originalidade parte de uma intenção, parte da vontade de alguém querer combinar coisas diferentes
+[00:10:14:04 --> 00:10:15:24] para gerar algo novo.
+[00:10:16:02 --> 00:10:21:17] Isso quer dizer, então, que a IA não só copia, ou seja, ela é capaz de te ajudar a chegar nessa originalidade,
+[00:10:21:20 --> 00:10:25:00] mas ela também não vai fazer com que todo mundo seja original,
+[00:10:25:00 --> 00:10:30:24] Porque isso depende da intenção da pessoa e do pedido, da direção que nós damos para as inteligências artificiais.
+[00:10:30:26 --> 00:10:38:01] Somando a tudo isso, nós também podemos falar das limitações tecnológicas que, com certeza, serão resolvidas ao longo do tempo,
+[00:10:38:04 --> 00:10:42:00] mas no momento em que eu estou gravando essa aula para você, ainda são limitações.
+[00:10:42:06 --> 00:10:46:15] E a primeira limitação é que as IAs não têm atualização em tempo real.
+[00:10:46:19 --> 00:10:54:11] Então, novidades, notícias, coisas novas que chegam para a gente, não estão exatamente na rede neural da inteligência artificial.
+[00:10:54:11 --> 00:10:59:24] Ela tem a capacidade de navegar na internet, buscar novos dados e interpretar esses dados.
+[00:11:00:00 --> 00:11:03:17] Mas ela não passou por um processo de aprendizagem com esses dados.
+[00:11:03:23 --> 00:11:09:02] Isso significa que, do mesmo jeito que você manda um texto, ela lê e ela consegue lidar com esse texto,
+[00:11:09:08 --> 00:11:11:08] a mesma coisa acontece quando ela navega na internet.
+[00:11:11:11 --> 00:11:14:10] Ela busca dados ali, interpreta e te entrega.
+[00:11:14:11 --> 00:11:17:00] E por que isso é uma limitação relevante para a gente aqui?
+[00:11:17:06 --> 00:11:23:08] Isso significa que você não pode confiar 100% nas informações que uma inteligência artificial te passa.
+[00:11:23:08 --> 00:11:27:26] mesmo que pareça que ela esteja certa, mesmo que ela esteja 100% confiante,
+[00:11:27:29 --> 00:11:34:08] mesmo que o texto dela pareça real, você precisa verificar a fonte de todos os dados que ela te passa.
+[00:11:34:14 --> 00:11:36:08] A maioria das pessoas não fazem isso.
+[00:11:36:10 --> 00:11:40:06] Isso é um risco grande, porque você pode espalhar desinformação,
+[00:11:40:09 --> 00:11:42:09] você pode ensinar coisas erradas para as pessoas,
+[00:11:42:11 --> 00:11:45:08] e o seu papel com o texto, que eu acredito e eu espero,
+[00:11:45:14 --> 00:11:48:03] é um papel de ajudar as pessoas, ele não vai ser cumprido.
+[00:11:48:06 --> 00:11:50:28] Você só estará gerando mais desinformação para as pessoas.
+[00:11:50:28 --> 00:11:55:02] Por isso, lembre-se que a IA não é atualizada em tempo real e mesmo que ela fosse também,
+[00:11:55:05 --> 00:11:58:05] eu recomendo você sempre checar as fontes e ter pensamento crítico.
+[00:11:58:05 --> 00:12:02:17] Isso é uma limitação importante, talvez uma das mais importantes em relação às IAs.
+[00:12:02:21 --> 00:12:07:14] Nós não temos 100% de precisão nas informações e por isso precisamos sempre checar.
+[00:12:07:18 --> 00:12:10:23] Se você soma todos os pontos que nós falamos nessa aula aqui com esse,
+[00:12:10:25 --> 00:12:16:07] você começa a perceber que a atuação humana continua sendo extremamente relevante no processo.
+[00:12:16:07 --> 00:12:21:19] processo. Você, como curador, como a pessoa que direciona, ainda é relevante e importante no
+[00:12:21:19 --> 00:12:26:19] processo. Eu usei a palavra aqui, ainda, mas posso ser sincero com você, eu acredito que continuará
+[00:12:26:19 --> 00:12:31:20] sendo dessa forma. Você pode usar as IA's como ferramentas, mas quem escolhe o que fazer continua
+[00:12:31:20 --> 00:12:38:08] sendo você. A segunda limitação importante é que inteligências artificiais não sentem. Se elas vão
+[00:12:38:08 --> 00:12:43:06] sentir no futuro ou não, não sabemos, mas no momento em que eu gravo essa aula, IA's simulam
+[00:12:43:06 --> 00:12:45:06] emoções, mas não sentem emoções.
+[00:12:45:12 --> 00:12:47:14] E você vai perceber mais cedo ou mais tarde
+[00:12:47:14 --> 00:12:49:05] que o texto é uma interface.
+[00:12:49:15 --> 00:12:50:28] O texto está entre
+[00:12:50:28 --> 00:12:53:11] a pessoa que quer emitir uma mensagem
+[00:12:53:11 --> 00:12:55:02] e a pessoa que vai receber uma mensagem.
+[00:12:55:05 --> 00:12:57:12] Logo, ele é um meio para transmitir
+[00:12:57:12 --> 00:12:59:06] uma comunicação. E a palavra
+[00:12:59:06 --> 00:13:01:12] comunicação vem de tornar comum.
+[00:13:01:18 --> 00:13:03:06] Ou seja, o texto só tem valor
+[00:13:03:06 --> 00:13:05:08] porque você tem pelo menos dois
+[00:13:05:08 --> 00:13:07:02] agentes envolvidos nisso.
+[00:13:07:07 --> 00:13:09:08] Um agente emissor e um agente receptor.
+[00:13:09:18 --> 00:13:11:06] O texto só faz sentido porque
+[00:13:11:06 --> 00:13:13:15] porque existe uma mensagem para ser transmitida.
+[00:13:13:16 --> 00:13:15:22] E essa mensagem, quando ela é racional,
+[00:13:15:26 --> 00:13:17:15] ela pode cumprir um objetivo, por exemplo,
+[00:13:17:15 --> 00:13:19:15] um manual vai ter um objetivo racional,
+[00:13:19:15 --> 00:13:21:22] não precisa ter emoções ligadas ali, está tudo bem.
+[00:13:21:24 --> 00:13:23:27] Inclusive, já são muito boas para escrever manuais.
+[00:13:24:02 --> 00:13:26:27] Mas quando você precisa de um texto mais emocional,
+[00:13:27:01 --> 00:13:29:15] você vai sim precisar de mais iteração,
+[00:13:29:17 --> 00:13:33:28] precisar de mais do seu repertório entregue para a inteligência artificial
+[00:13:33:28 --> 00:13:37:17] para que ela consiga, daí sim, simular uma emoção.
+[00:13:37:21 --> 00:13:39:25] A emoção real vai vir dos seus ajustes,
+[00:13:39:25 --> 00:13:43:05] Você vai ver quando você trocar palavras, quando você colocar um contexto real,
+[00:13:43:11 --> 00:13:47:00] uma história que você realmente viveu, algo que de fato é uma.
+[00:13:47:06 --> 00:13:49:19] Aí sim, você verá a emoção no texto.
+[00:13:49:23 --> 00:13:53:06] E a Iá, apesar dela muitas vezes simular isso muito bem,
+[00:13:53:09 --> 00:13:56:23] ela ainda precisa de uma direção, ela ainda é limitada em de fato sentir.
+[00:13:56:29 --> 00:13:58:29] Ela não sente, ela simula.
+[00:13:59:05 --> 00:14:02:29] E fechando aqui com a terceira limitação que eu quero trazer para você,
+[00:14:03:03 --> 00:14:05:26] é bom você se lembrar que as inteligências artificiais,
+[00:14:05:26 --> 00:14:08:15] apesar de terem um conjunto estatístico enorme,
+[00:14:08:15 --> 00:14:12:12] que nós poderíamos chamar até de infinito por conta das multiplicações,
+[00:14:12:14 --> 00:14:15:29] as inteligências artificiais ainda têm limitação em relação à criatividade.
+[00:14:15:29 --> 00:14:19:08] E também limitações em relação a saltos criativos.
+[00:14:19:16 --> 00:14:24:00] Ela vai conseguir te entregar muita coisa, mas ainda assim, a sua visão humana,
+[00:14:24:00 --> 00:14:29:14] a sua visão de conectar coisas novas, ainda é algo seu que você precisa imputar nela.
+[00:14:29:17 --> 00:14:32:25] Você precisa guiar ela para que ela traga simulações para você.
+[00:14:33:01 --> 00:14:37:05] Logo, não é como se a inteligência artificial fosse um deus que sabe de tudo.
+[00:14:37:05 --> 00:14:40:09] não é como se ela fosse a maior cientista do mundo também,
+[00:14:40:11 --> 00:14:42:20] capaz de trazer sempre inovação.
+[00:14:42:21 --> 00:14:45:02] Ela está presa dentro dos parâmetros dela,
+[00:14:45:06 --> 00:14:50:03] que por mais que estatisticamente sejam infinitos em questão de combinações,
+[00:14:50:08 --> 00:14:53:25] ainda assim ela está limitada aos paradigmas do treinamento dela.
+[00:14:54:00 --> 00:14:57:16] E isso é bom para você entender que a IA atual não é capaz de resolver também
+[00:14:57:16 --> 00:15:00:26] qualquer tipo de paradigma, trazer qualquer tipo de inovação.
+[00:15:00:26 --> 00:15:05:13] Se já estivesse nesse momento, a gente teria um salto exponencial gigante
+[00:15:05:13 --> 00:15:11:21] capaz de chegar talvez na AGI, porque a própria inteligência artificial já seria capaz de ela mesma criar uma AGI
+[00:15:11:21 --> 00:15:14:09] trabalhando com essas quebras de paradigmas.
+[00:15:14:14 --> 00:15:19:05] É óbvio que nós estamos evoluindo e existe a chance, como muitos cientistas dizem,
+[00:15:19:05 --> 00:15:24:18] de que sim, vai chegar um momento em que a IA será capaz de quebrar todos os nossos principais paradigmas
+[00:15:24:18 --> 00:15:27:08] e trazer inovação num nível jamais visto antes.
+[00:15:27:12 --> 00:15:32:03] Nós já estamos vendo essa aceleração, mas não é como se estivéssemos chegado no estado perfeito.
+[00:15:32:06 --> 00:15:34:14] Existe limitação e é bom que você saiba disso.
+[00:15:34:14 --> 00:15:40:28] Compreender esses erros, mitos e limitações vai te ajudar a entender também o que você pode esperar dessas ferramentas.
+[00:15:40:29 --> 00:15:48:18] Talvez você já soubesse disso antes, mas é bom revisitar essa aula para entender que você tem relevância dentro desse processo,
+[00:15:48:24 --> 00:15:51:23] para entender que você tem um papel importante aqui.
+[00:15:51:29 --> 00:15:57:12] Enquanto a IA pode te entregar velocidade, textos incríveis, pode te entregar o resultado final,
+[00:15:57:20 --> 00:16:02:29] ela ainda precisa da sua direção, ela ainda precisa que você diga para onde quer ir.
+[00:16:02:29 --> 00:16:07:24] nesse mar de possibilidades, nesse oceano de resultados diferentes que ela pode te entregar,
+[00:16:07:27 --> 00:16:12:06] ela precisa que você escolha, um de cada vez, o que você quer que ela te entregue.
+[00:16:12:07 --> 00:16:17:26] E é isso que mostra a importância do seu papel nesse processo de geração de textos com a inteligência artificial.

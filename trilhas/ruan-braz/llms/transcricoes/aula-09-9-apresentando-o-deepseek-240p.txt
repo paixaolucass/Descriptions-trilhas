@@ -1,0 +1,68 @@
+# Video: 9._apresentando_o_deepseek (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 09:54
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:04 --> 00:00:05:25] Vamos falar agora sobre o DeepSeq, que deu um alvoroço quando foi lançado,
+[00:00:05:26 --> 00:00:10:20] porque ele foi criado aparentemente usando menos recurso financeiro,
+[00:00:10:21 --> 00:00:14:01] menos energia do que o ChatGPT, depois foi mais investigado,
+[00:00:14:01 --> 00:00:17:11] viu que não era exatamente assim, mas ele tem algumas vantagens,
+[00:00:17:11 --> 00:00:20:21] porque o R1 tem um desempenho muito bom e ele é open source,
+[00:00:20:27 --> 00:00:24:18] ou seja, você pode pegar o IA, colocar no servidor e usar,
+[00:00:24:23 --> 00:00:27:07] desde que você tenha um servidor POM, tenha uma placa de vídeo boa,
+[00:00:27:10 --> 00:00:29:22] um processador POM e memória boa para rodar isso.
+[00:00:30:04 --> 00:00:31:22] Então, aqui está em chinês, está vendo?
+[00:00:32:15 --> 00:00:33:02] Entro aqui.
+[00:00:33:10 --> 00:00:34:27] Agora ele está em inglês para mim.
+[00:00:34:29 --> 00:00:36:13] Às vezes ele aparece em chinês assim também.
+[00:00:36:16 --> 00:00:38:09] Os chineses querem ir para o mundo.
+[00:00:39:01 --> 00:00:40:13] E aí eu clico em Start Now.
+[00:00:40:20 --> 00:00:43:04] Quando eu clico aqui, você vai fazer o login, criar sua conta.
+[00:00:43:09 --> 00:00:43:25] E aí vamos lá.
+[00:00:43:27 --> 00:00:47:12] Não tem segredo aqui também em relação ao Deep Seek.
+[00:00:47:16 --> 00:00:49:15] Você tem aqui o lugar para colocar o prompt.
+[00:00:49:28 --> 00:00:54:13] Aqui você tem o Deep Think, que é pensamento profundo.
+[00:00:54:15 --> 00:00:56:03] Não é Deep Search, é Deep Think.
+[00:00:56:14 --> 00:00:58:20] Aí tem que levar isso em consideração também.
+[00:00:58:20 --> 00:01:04:18] também e ele tem o search esse search aqui é mais uma pesquisa na web não é um deep search tá tem
+[00:01:04:18 --> 00:01:09:24] que levar essa consideração também são os recursos que ele possibilita aqui ele te possibilita
+[00:01:09:24 --> 00:01:16:08] conectar de fim que com com search pensamento profundo com pesquisa mas no geral é isso que
+[00:01:16:08 --> 00:01:21:27] você tem aqui no deep-seek tá você pode conseguir o aplicativo aqui gerar novas conversas com ele
+[00:01:23:06 --> 00:01:23:27] Basicamente é isso.
+[00:01:24:02 --> 00:01:25:15] Quais são os pontos do DeepSeq?
+[00:01:25:17 --> 00:01:32:01] Se você assina ele, você vai ter como ter alguns outros recursos, escolher o modelo, colocar o R1, por exemplo.
+[00:01:32:11 --> 00:01:33:23] Aqui eu estou no gratuito.
+[00:01:34:08 --> 00:01:39:07] Só que o legal dele é que o gratuito dele já é bom, porque ele já é o Opsource por natureza.
+[00:01:39:23 --> 00:01:42:04] Então, a gente pode começar a navegar nele aqui.
+[00:01:42:08 --> 00:01:45:13] A galera que usa muito o DeepSeq, eu uso ele às vezes.
+[00:01:45:24 --> 00:01:47:15] Aqui eu fiz em uma conta gratuita.
+[00:01:47:18 --> 00:01:49:06] Mas eu vou ser muito sincero.
+[00:01:50:00 --> 00:01:51:18] É raro eu usar.
+[00:01:52:03 --> 00:01:54:05] Olha aí, já começou trolando, né?
+[00:01:55:17 --> 00:01:57:03] Se quer em português ou espanhol.
+[00:01:58:14 --> 00:01:59:02] Português.
+[00:02:01:03 --> 00:02:02:11] Então, eu não uso ele muito.
+[00:02:02:15 --> 00:02:04:07] Eu prefiro usar as outras. Já estou acostumado.
+[00:02:04:08 --> 00:02:06:15] Já tem minha memória toda lá também, as coisas funcionando.
+[00:02:07:05 --> 00:02:09:03] Mas eu não posso deixar de testar, né?
+[00:02:09:05 --> 00:02:10:06] Então, vem cá, testo ele.
+[00:02:10:12 --> 00:02:16:23] E quem mais usa o DeepSeek é quem vai trabalhar ele conectando ele em aplicações próprias.
+[00:02:16:23 --> 00:02:18:06] E não usando ele direto aqui.
+[00:02:18:08 --> 00:02:20:10] Porque, cara, olha como ele é limitado, né?
+[00:02:20:25 --> 00:02:21:21] Usando aqui direto.
+[00:02:21:21 --> 00:02:22:15] Eu posso vir em Settings.
+[00:02:23:03 --> 00:02:25:24] Aqui em Trocar em Perfil não tem muita coisa para trocar.
+[00:02:26:27 --> 00:02:29:01] Política de uso, tema e linguagem.
+[00:02:29:11 --> 00:02:30:08] Acabou. É isso.
+[00:02:31:03 --> 00:02:35:03] Não tem muito o que fazer aqui dentro, mas eu queria trazer ele para vocês também por dois pontos.
+[00:02:35:05 --> 00:02:41:02] Primeiro, você pode conectar a API dele e você consegue a API dele gratuita em outros serviços,
+[00:02:41:02 --> 00:02:42:04] que é o que eu vou mostrar aqui.
+[00:02:42:22 --> 00:02:46:06] Então, você pode conectar ele em outros serviços também, usando a API.
+[00:02:47:05 --> 00:02:48:14] E ele é gratuito.
+[00:02:48:18 --> 00:02:51:23] Pode ser uma opção, às vezes, se você não está conseguindo resultado em outras IAs,
+[00:02:51:24 --> 00:02:57:12] você consegue vir aqui e usar ele gratuitamente, conseguir algum tipo de resultado aqui.
+[00:02:57:14 --> 00:02:58:08] Mas é bem limitado.
+[00:02:58:08 --> 00:03:03:12] Depois de tudo que eu mostrei para vocês, a interface dele aqui é muito mais limitada.

@@ -1,0 +1,669 @@
+# Video: 5._apresentando_o_chat_gpt_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-23 09:36
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:01 --> 00:00:05:17] Chegou a hora, então, de fazer uma apresentação aqui para você em relação ao chat GPT.
+[00:00:05:18 --> 00:00:07:14] Vou mostrar como que eu tenho utilizado ele.
+[00:00:08:06 --> 00:00:12:22] Eu fiz uma assinatura aqui zerada para te mostrar, do início, como que eu gosto de
+[00:00:12:22 --> 00:00:17:01] configurar o chat GPT, como que eu gosto de utilizar ele, porque ele tem uma vantagem
+[00:00:17:01 --> 00:00:22:25] que, por enquanto, as outras LLMs, as outras plataformas têm deixado a desejar.
+[00:00:22:29 --> 00:00:27:25] E aí, como meu assistente pessoal, aquela pergunta clássica que inclusive a Luís
+[00:00:27:25 --> 00:00:28:29] acabou de fazer no chat ali.
+[00:00:30:07 --> 00:00:32:11] Se fosse escolher só uma hoje.
+[00:00:32:20 --> 00:00:35:24] É o momento que eu estou gravando esse vídeo de 2025, abril de 2025.
+[00:00:36:27 --> 00:00:39:00] Qual que eu escolheria? ChatGPT.
+[00:00:39:06 --> 00:00:42:21] Por quê? Porque o ChatGPT, o sistema de memória dele,
+[00:00:43:14 --> 00:00:50:05] é um sistema mais bem construído do que das outras LLMs.
+[00:00:51:21 --> 00:00:54:24] E quanto mais você conversa com uma LLM, mais ela te conhece,
+[00:00:54:26 --> 00:00:56:14] mais ela sabe dos seus projetos,
+[00:00:57:17 --> 00:01:02:07] melhores ficam as respostas e melhor o seu uso com ela,
+[00:01:02:09 --> 00:01:03:25] porque ela entende e sabe o que você quer.
+[00:01:03:25 --> 00:01:07:00] Então, você tem menos ajustes ao longo do tempo.
+[00:01:07:03 --> 00:01:11:00] Então, se eu fosse escolher só uma hoje, com certeza eu escolheria o ChatGPT.
+[00:01:11:07 --> 00:01:15:14] Não fico sem o ChatGPT comparando com as outras LLM.
+[00:01:15:15 --> 00:01:17:00] Se eu tiver que abrir mão de várias,
+[00:01:17:03 --> 00:01:19:25] eu acredito que o ChatGPT vai ser a última que eu vou abrir mão.
+[00:01:20:07 --> 00:01:25:02] Mas é legal falar que LLM é uma tecnologia que você escolhe
+[00:01:25:02 --> 00:01:27:01] de acordo com a demanda.
+[00:01:27:14 --> 00:01:29:09] Então, para a maioria dos profissionais,
+[00:01:29:14 --> 00:01:32:06] ainda faz sentido assinar só uma LLM e trabalhar com ela ali.
+[00:01:32:06 --> 00:01:36:20] Mas, se você começar a trabalhar com o IA num nível mais avançado e profundo,
+[00:01:36:24 --> 00:01:39:20] você vai ver que você vai usar a maioria das IAs,
+[00:01:39:24 --> 00:01:43:23] muitas vezes com chave de API, que é mais avançado, a gente vai falar sobre isso depois.
+[00:01:44:09 --> 00:01:47:27] E aí, a partir disso, você consegue conectar diversos modelos,
+[00:01:48:00 --> 00:01:52:26] inclusive modelos open source, como o Ullama, o DeepSea, Kymistral e por aí vai.
+[00:01:52:29 --> 00:01:53:09] Tá bom?
+[00:01:53:16 --> 00:01:57:05] Mas hoje aqui, então, nós vamos fazer uma configuração aqui no ChatGPT.
+[00:01:57:23 --> 00:01:58:23] Então, trouxe ele aqui para a gente.
+[00:01:58:23 --> 00:02:00:27] Como eu disse, criei essa conta aqui, ela está zerada.
+[00:02:00:27 --> 00:02:06:08] Olha, se eu venho aqui em personalizar a GPT, não tem nenhuma personalização, vou falar
+[00:02:06:08 --> 00:02:13:00] disso aqui com vocês, assim como se eu vir em memória, que é a memória ativada, tá
+[00:02:13:00 --> 00:02:17:14] funcionando já, mas ela ainda não guardou nenhuma memória sobre mim.
+[00:02:17:17 --> 00:02:22:18] Então quando eu clico aqui tá zerado, nenhuma memória, funcionando do zero.
+[00:02:22:21 --> 00:02:27:02] Como se fosse um carrinho novo, tá até com um cheirinho de novo aqui, ó.
+[00:02:27:06 --> 00:02:27:20] Maravilha.
+[00:02:28:11 --> 00:02:32:21] Então, aí tem essa opção aqui. Vamos começar nas configurações, mas só para fazer a apresentação.
+[00:02:32:24 --> 00:02:36:04] Eu acredito que a maioria das pessoas já usaram, é bem intuitivo. Está cheio de recursos
+[00:02:36:04 --> 00:02:40:18] novos aqui. Essa pasta eu criei, geralmente ele vem sem pasta, mas eu criei aqui para
+[00:02:40:18 --> 00:02:44:15] poder mostrar isso para vocês como funciona também. Estava fazendo uns testes nela
+[00:02:44:15 --> 00:02:48:27] aqui e eu já comecei com isso aqui. Eu quero começar nessa parte antes da configuração
+[00:02:48:27 --> 00:02:52:06] porque vai ser interessante para vocês. Então, olha só, a primeira coisa que
+[00:02:52:06 --> 00:02:55:29] eu fiz foi abrir aqui e colocar. Faça uma busca avançada para compreender as melhores
+[00:02:55:29 --> 00:03:00:13] práticas para configurar meu chat GPT para os meus objetivos. Quero que faça uma busca
+[00:03:00:13 --> 00:03:05:04] extensa, global e em inglês para compreender como os usuários estão utilizando o campo
+[00:03:05:04 --> 00:03:09:04] de personalização projetos assistentes. Faça uma busca completa e traga para mim
+[00:03:09:04 --> 00:03:14:11] um passo a passo de como configurar meu próprio GPT." E aí eu coloquei aqui, investigar,
+[00:03:14:20 --> 00:03:21:18] deixei aberto, vou colocar no O3, que o O3 ele tá nervoso, e aqui eu tô no
+[00:03:21:18 --> 00:03:25:21] plano Plus, tá? 100 reais por mês hoje no momento que eu gravo esse vídeo. Ele
+[00:03:25:21 --> 00:03:29:18] Quem me fez algumas perguntas então, se eu quero usar para produtividade pessoal, organização
+[00:03:29:18 --> 00:03:30:13] de tarefas e agenda?
+[00:03:30:25 --> 00:03:32:11] Eu vou fazendo isso aqui, só para responder.
+[00:03:32:11 --> 00:03:37:19] E, quero utilizar para organização pessoal e também...
+[00:03:38:15 --> 00:03:40:02] no meu trabalho.
+[00:03:42:01 --> 00:03:45:17] Quero que ele seja meu assistente pessoal.
+[00:03:46:12 --> 00:03:50:15] A segunda pergunta foi, você está pensando em aplicá-la em um projeto profissional comercial
+[00:03:50:15 --> 00:03:52:24] com atendimento ao cliente, suporte técnico ou marketing?
+[00:03:53:16 --> 00:03:56:01] Apenas eu vou utilizá-lo.
+[00:03:59:15 --> 00:04:02:14] Tem interesse em automatizar fluxos de trabalho, gerar conteúdo?
+[00:04:03:04 --> 00:04:04:03] Tem interesse, sim.
+[00:04:05:09 --> 00:04:08:15] Beleza, respondi as perguntas dele e eu vou colocar para investigar.
+[00:04:08:16 --> 00:04:09:25] Vai levar um tempinho, tá?
+[00:04:10:00 --> 00:04:13:27] Ele fica um tempo aqui ó, vou buscar as melhores práticas, beleza.
+[00:04:14:10 --> 00:04:18:24] O legal é que eu posso clicar aqui, quando ele começar vai aparecer aqui, assim, detalhes.
+[00:04:18:27 --> 00:04:23:22] Eu posso clicar para ver o raciocínio dele, mas eu também posso sair dessa página
+[00:04:23:22 --> 00:04:26:21] aqui agora porque ele vai ficar salvo fazendo a investigação para a gente.
+[00:04:27:04 --> 00:04:30:25] Então, eu já comecei por aqui, recomendo vocês começarem o GPT de vocês assim
+[00:04:30:25 --> 00:04:33:15] para configurar ele e aí deixa isso rodando.
+[00:04:33:15 --> 00:04:40:04] ver quanto roda, vamos ver aqui. Aí tem aqui tarefas, meus GPTs, personalizar chat e configurações.
+[00:04:40:09 --> 00:04:45:21] Fazer upgrade e obter extensão de busca do chat GPT para você conectar no seu navegador.
+[00:04:46:11 --> 00:04:52:10] Tarefas é um recurso novo, tá? Em beta, que você consegue pedir para o GPT. Ele vai
+[00:04:52:10 --> 00:04:54:13] criar isso em conversas. Olha, deu até um bug ali.
+[00:04:55:16 --> 00:05:00:15] Você pode pedir a ele para enviar notificações para você e essa notificação pode chegar
+[00:05:00:15 --> 00:05:05:17] no seu celular, se você tiver o GPT instalado no celular, ele pode enviar para o seu e-mail
+[00:05:05:17 --> 00:05:10:03] também e ele pode fazer push notification dentro do seu computador para a notificação
+[00:05:10:03 --> 00:05:11:03] aparecer aqui embaixo.
+[00:05:11:28 --> 00:05:13:19] Você pode dar essas permissões para ele.
+[00:05:14:00 --> 00:05:15:21] E ele vai criar lembretas para você.
+[00:05:16:06 --> 00:05:19:04] Mas você pode pedir para ele também, vamos pegar os primeiros exemplos que eu
+[00:05:19:04 --> 00:05:20:03] usei lá na minha outra conta.
+[00:05:20:03 --> 00:05:24:04] Eu usei, por exemplo, assim, eu quero aprender mais inglês.
+[00:05:24:04 --> 00:05:27:21] Eu quero que todo dia você traga um desafio de inglês pra mim, que eu preciso solucionar.
+[00:05:27:25 --> 00:05:30:01] Todo dia, 7 da manhã, me envia o desafio.
+[00:05:30:04 --> 00:05:33:21] Aí você configura assim, conversando com ele mesmo, ele vai criar a tarefa pra você
+[00:05:33:21 --> 00:05:35:07] e aí ele vai te lembrar disso.
+[00:05:35:15 --> 00:05:39:01] Dá pra usar com tudo, ah, eu quero lembrar de tomar remédio, pode colocar aqui, ele
+[00:05:39:01 --> 00:05:39:24] vai te lembrar.
+[00:05:40:06 --> 00:05:43:16] Eu quero, aqui ó, encontro uma receita fresca e saudável toda segunda.
+[00:05:43:28 --> 00:05:45:22] Lembre-me de escrever um diário toda noite.
+[00:05:46:06 --> 00:05:51:01] Não me deixe esquecer de me alongar todo dia ou, uma vez por hora, me lembre de
+[00:05:51:01 --> 00:05:51:13] beber água.
+[00:05:51:15 --> 00:05:53:22] Dá pra fazer isso, ele cria essas tarefas e funciona super bem.
+[00:05:57:07 --> 00:05:59:28] Não é difícil de usar, tá? Olha, vou clicar em experimenta minha.
+[00:06:00:21 --> 00:06:04:15] Aí aqui, olha, eu tenho a barra de conversa, né?
+[00:06:05:04 --> 00:06:08:25] E aqui em cima, eu tenho os modelos. Tem vários modelos aqui.
+[00:06:09:06 --> 00:06:11:24] Então, tem o 4, que ele já está colocando aqui, que está obsoleto.
+[00:06:12:01 --> 00:06:13:24] Está disponível só até 30 de abril.
+[00:06:14:06 --> 00:06:17:27] O 4-O-Mini, mais rápido para a maioria das perguntas, só que esses modelos aqui,
+[00:06:17:27 --> 00:06:21:02] eles já estão mais obsoletos. A OpenAI já coloca os melhores aqui.
+[00:06:21:28 --> 00:06:26:03] O O3 e o 4.5 são os melhores atualmente aqui
+[00:06:26:03 --> 00:06:30:04] para te entregar as melhores respostas no menor tempo, com mais profundidade.
+[00:06:30:06 --> 00:06:33:23] Só que você tem limite e rapidinho acaba.
+[00:06:33:27 --> 00:06:39:01] Eu fiquei triste, semana passada eu tava fritando ele aqui e aí acabou meus créditos.
+[00:06:39:07 --> 00:06:41:06] Só vai voltar depois de amanhã.
+[00:06:41:09 --> 00:06:43:12] Fica 7 dias sem créditos.
+[00:06:43:17 --> 00:06:44:24] Esse aqui meu acabou também.
+[00:06:45:02 --> 00:06:45:22] Então, o que eu faço?
+[00:06:45:24 --> 00:06:51:06] Eu gosto de usar o mini e o mini high ou o 4.0 aqui para a maioria das questões.
+[00:06:51:12 --> 00:06:55:02] Depois que eu desenvolvi o raciocínio com ele, aí que eu venho para esses aqui.
+[00:06:55:02 --> 00:07:00:05] Porque aí eu gasto menos crédito com eles porque eles são as minhas reais mais poderosas.
+[00:07:00:08 --> 00:07:04:18] Então você não vai usar o O3 ou o 4.5 pra perguntar pra ele, por exemplo, pô, eu tô
+[00:07:04:18 --> 00:07:08:09] com uma dor aqui na minha mão e eu quero descobrir o que que é.
+[00:07:08:09 --> 00:07:11:12] Você não vai gastar com isso, você vai gastar com coisas de mais raciocínio, mais
+[00:07:11:12 --> 00:07:11:22] profunda.
+[00:07:11:24 --> 00:07:16:10] Você não vai chegar pra ele e falar assim, qual é a aranha mais venenosa do mundo?
+[00:07:16:13 --> 00:07:19:15] Pô, isso aí você consegue no Google, você consegue inclusive usando o 4 wall
+[00:07:19:15 --> 00:07:21:04] mini aqui, ele vai te responder muito fácil.
+[00:07:21:17 --> 00:07:22:28] Então já é a primeira dica que eu dou.
+[00:07:22:28 --> 00:07:28:12] Mas tem a opção aqui, o Chat GPT 4.0 com tarefas agendadas. Se você clicar aqui direto,
+[00:07:28:16 --> 00:07:33:04] ele vai transformar nessa. Geralmente ele vem no 4.0 aqui, clica aqui, virou agendada.
+[00:07:33:12 --> 00:07:38:27] E você simplesmente pode conversar aqui com ele. Olha só, vou começar a estudar mais
+[00:07:38:27 --> 00:07:43:22] sobre inteligências artificiais. E quero que você...
+[00:07:45:17 --> 00:07:56:19] Gere um conteúdo pra mim todos os dias às 7 horas da manhã. Vou ter 40 minutos de estudos.
+[00:07:56:28 --> 00:08:01:10] Então, prepare um conteúdo denso.
+[00:08:02:16 --> 00:08:04:28] o suficiente para preencher.
+[00:08:06:05 --> 00:08:10:29] esse tempo. Beleza, vou começar só assim, olha, eu mandei pra ele, ele vai criar o chat
+[00:08:10:29 --> 00:08:15:23] aqui, beleza? E aí ele colocou, olha, prepare conteúdo diariamente às 7 horas, eu posso
+[00:08:15:23 --> 00:08:20:14] vir aqui e mudar, se é diariamente, semanalmente, mensalmente, anualmente, personalizado,
+[00:08:20:28 --> 00:08:24:21] posso colocar a hora aqui também, posso dar instruções melhores pra ele, a instrução
+[00:08:24:21 --> 00:08:27:26] aqui é, olha, prepare um conteúdo de 40 minutos de estudo sobre inteligência
+[00:08:27:26 --> 00:08:32:19] artificial, é só essa instrução, posso pausar, excluir e proibir. Eu posso colocar
+[00:08:32:19 --> 00:08:36:20] uma instrução muito maior. Para isso, veja a trilha de engenharia de prompt, que a gente
+[00:08:36:20 --> 00:08:41:04] fala mais sobre isso. Mas, na verdade, isso aqui é só uma automação para que ele mesmo
+[00:08:41:04 --> 00:08:47:18] se envia uma mensagem a cada tempo aqui com recorrência. Então, eu vou salvar isso
+[00:08:47:18 --> 00:08:52:10] aqui para vocês verem. Beleza. Agora, ele me perguntou se eu posso ativar a notificação
+[00:08:52:10 --> 00:08:55:21] na área de trabalho, eu posso permitir ou não. Aqui eu não vou permitir no meu
+[00:08:55:21 --> 00:08:58:18] caso, mas se você quiser permitir, é assim que ele vai te lembrar. Senão,
+[00:08:58:19 --> 00:09:02:05] ele vai gerar conversa, mas não vai te lembrar. E olha que legal, você pode vir
+[00:09:02:05 --> 00:09:04:25] aqui em Projetos e criar assim tarefas.
+[00:09:07:04 --> 00:09:07:27] Criar de novo.
+[00:09:08:20 --> 00:09:09:26] Ux, será que eu desconectei?
+[00:09:10:02 --> 00:09:10:09] Deixa eu ver.
+[00:09:10:14 --> 00:09:11:13] Não, eu estou conectado.
+[00:09:11:21 --> 00:09:13:01] Vou dar uma atualizada aqui.
+[00:09:14:23 --> 00:09:15:17] Base, tarefas.
+[00:09:15:23 --> 00:09:16:13] Criar projeto.
+[00:09:17:23 --> 00:09:22:24] Talvez é porque eu não posso criar com o nome tarefa, vamos colocar aqui tarefas agendadas.
+[00:09:26:12 --> 00:09:28:22] Oxe, estou com algum problema que eu não posso criar a pasta.
+[00:09:29:27 --> 00:09:30:27] Aí é a novidade, né?
+[00:09:30:27 --> 00:09:32:11] Só quando vai gravar.
+[00:09:32:20 --> 00:09:35:13] Mas provavelmente você vai conseguir criar e deixa eu fazer um teste aqui.
+[00:09:36:03 --> 00:09:36:14] Teste.
+[00:09:36:20 --> 00:09:37:00] Criar.
+[00:09:38:21 --> 00:09:41:14] Talvez ele me desconectou também, mas parece que não.
+[00:09:42:03 --> 00:09:44:29] Deixa eu ver. Obrigado. Se ele me responder, eu ainda estou conectado.
+[00:09:45:01 --> 00:09:46:12] É, estou conectado.
+[00:09:46:16 --> 00:09:47:16] Está com algum bug aqui.
+[00:09:47:29 --> 00:09:49:21] Mas o que eu ia falar de sugestão para vocês?
+[00:09:49:23 --> 00:09:50:21] Vamos ver se daqui a pouco volta.
+[00:09:51:05 --> 00:09:53:22] É você criar aqui uma pasta tarefas
+[00:09:53:22 --> 00:09:56:09] e aí você vai simplesmente clicar aqui, adicionar ao projeto.
+[00:09:56:12 --> 00:09:58:02] Aqui no caso tem só o base por enquanto.
+[00:09:58:11 --> 00:10:01:09] Mas eu posso adicionar ele dentro da próxima pasta que eu criar,
+[00:10:01:12 --> 00:10:01:29] aqui no caso é tarefa.
+[00:10:02:00 --> 00:10:05:21] Aí você consegue organizar suas tarefas todas em uma pasta só.
+[00:10:06:15 --> 00:10:09:15] Rua, aonde que ele vai trazer esse conteúdo aqui para mim?
+[00:10:09:25 --> 00:10:10:26] Nessa conversa mesmo.
+[00:10:11:13 --> 00:10:15:18] Então de tempo em tempo é bom atualizar a tarefa porque isso vai batendo a janela
+[00:10:15:18 --> 00:10:16:20] de contexto dele, tá?
+[00:10:17:06 --> 00:10:20:11] E aí ele começa a alucinar, a trazer um conteúdo ruim, então de tempos em tempos
+[00:10:20:11 --> 00:10:23:19] você reseta a tarefa e começa de novo e versiona elas.
+[00:10:24:14 --> 00:10:25:16] Vamos ver se ele já terminou aqui?
+[00:10:26:21 --> 00:10:28:22] Tá, não, aqui ó, tá vendo? Ele ainda tá trabalhando.
+[00:10:28:26 --> 00:10:32:00] Mas eu consigo ver o que ele está fazendo, onde ele está acessando.
+[00:10:32:07 --> 00:10:35:13] Isso aqui é o Deep Research.
+[00:10:36:09 --> 00:10:40:03] Só que o GPT não chama de Deep Research, ele chama de investigar.
+[00:10:40:06 --> 00:10:42:14] Repara, eu tenho dez investigar...
+[00:10:43:20 --> 00:10:44:29] Até dia 22 de maio.
+[00:10:45:29 --> 00:10:48:05] Depois de dia 22 de maio, ele reseta de novo.
+[00:10:48:09 --> 00:10:53:12] Ou seja, no próximo mês eu tenho dez a investigar nessa conta aqui.
+[00:10:53:15 --> 00:10:55:15] Pra começar pra vocês irem, é bem triste.
+[00:10:55:17 --> 00:10:57:12] Então tem que ser bem usado esse investigar aqui.
+[00:10:57:20 --> 00:11:02:11] Pra isso tem outras LLMs, o GROC, o perplexity, que você pode usar pra investigar.
+[00:11:02:16 --> 00:11:07:16] E o deep research mesmo da OpenAI, que fica horas, dias pesquisando pra você,
+[00:11:07:27 --> 00:11:09:18] o mais avançado, ele é brabo mesmo.
+[00:11:09:28 --> 00:11:11:14] Ele é nesse plano aqui, ó.
+[00:11:11:18 --> 00:11:13:03] 200 doletas por mês.
+[00:11:13:22 --> 00:11:18:03] É bravo, é nervoso, mil reais por mês para você sair.
+[00:11:18:18 --> 00:11:22:28] Eu ainda não acessei porque eu sei que eu não vou usar o quanto eu quero usar ainda.
+[00:11:23:01 --> 00:11:27:02] Então, eu vou esperar o momento certo que eu tiver sem outras tarefas para fazer aqui
+[00:11:27:02 --> 00:11:31:20] e com certeza eu vou trazer para ele porque ele é muito mais poderoso e te dá muito
+[00:11:31:20 --> 00:11:34:10] mais acesso, muito mais crédito com as outras opções.
+[00:11:34:23 --> 00:11:38:07] Enquanto ele gera aqui para a gente, essa customização, vamos voltar aqui.
+[00:11:39:02 --> 00:11:41:21] A gente tem, depois de tarefas, meus GPTs.
+[00:11:42:06 --> 00:11:47:24] Aqui já começa uma coisa legal, que são os assistentes, que a OpenAI chama de GPTs.
+[00:11:48:00 --> 00:11:50:29] Você pode explorar GPTs da comunidade aqui do lado, tá vendo?
+[00:11:51:02 --> 00:11:53:27] Então eu tenho aqui, chat GPT, pra eu conversar direto com ele.
+[00:11:54:09 --> 00:11:57:29] Sora, que ele vai abrir aqui o gerador de imagens e vídeo da OpenAI.
+[00:11:58:20 --> 00:12:01:15] E aí você pode continuar aqui com o plano atual.
+[00:12:01:27 --> 00:12:04:21] Ele tá pedindo, como eu criei essa conta do zero, vai acontecer pra você.
+[00:12:05:05 --> 00:12:06:14] Eu acho que esse nome eu já peguei já.
+[00:12:06:21 --> 00:12:08:10] Não, coisa boa, beleza.
+[00:12:09:00 --> 00:12:10:06] E aí aqui, tô dentro do Sora.
+[00:12:10:06 --> 00:12:12:20] que eu posso gerar imagens e posso gerar vídeos.
+[00:12:13:03 --> 00:12:15:20] Dá pra gerar imagens direto daqui também.
+[00:12:16:09 --> 00:12:18:06] Só pedir pra ele, gera uma imagem e ele vai gerar.
+[00:12:18:09 --> 00:12:19:20] Só que aqui ele gera uma de cada vez.
+[00:12:19:24 --> 00:12:22:27] Pelo menos aqui no Sora, você consegue pedir pra ele, olha...
+[00:12:22:27 --> 00:12:24:15] Gerar duas de cada vez.
+[00:12:24:17 --> 00:12:28:14] Se você tiver uma versão maior, você consegue gerar até quatro de cada vez.
+[00:12:28:27 --> 00:12:31:23] Tá? Mas pelo menos aqui gera duas, já é melhor do que gerar
+[00:12:31:23 --> 00:12:33:12] direto aqui na conversa, porque demora.
+[00:12:33:29 --> 00:12:37:21] O GPT evoluiu bastante a geração de imagens dele, tá? Absurda.
+[00:12:38:20 --> 00:12:39:02] Mas...
+[00:12:39:02 --> 00:12:45:27] É o melhor gerador de imagens hoje no mundo disponível, mas demora para gerar, tem essa
+[00:12:45:27 --> 00:12:46:26] fraqueza aí também.
+[00:12:47:05 --> 00:12:49:27] Deixa eu ver só fazer um teste aqui se agora vai funcionar.
+[00:12:50:14 --> 00:12:52:09] É, até com algum problema, depois eu vejo isso.
+[00:12:52:28 --> 00:12:57:00] Aqui tem a galeria, aqui vão ficar todas as imagens que você gerar, ele está falando
+[00:12:57:00 --> 00:12:59:27] que gere sua primeira imagem, mas elas vão ficar todas aqui.
+[00:13:00:09 --> 00:13:02:04] Aqui embaixo ficam os seus chats, tá bom?
+[00:13:02:18 --> 00:13:08:08] Explorar GPTs, então isso aqui são assistentes que outras pessoas criaram na comunidade
+[00:13:08:08 --> 00:13:12:10] da OpenAI. Por exemplo, a gente tem aqui o Photoshop, que foi um assistente que eu criei
+[00:13:12:10 --> 00:13:17:11] aqui dentro. Vamos ver quantos acessos ele tá. Mais de 50 mil conversas já aconteceram
+[00:13:17:11 --> 00:13:20:03] aqui dentro do Photoshop. E você pode utilizar ele, por exemplo.
+[00:13:21:06 --> 00:13:23:11] Parece que eu estou com algum problema de acesso aqui.
+[00:13:23:22 --> 00:13:25:11] Isso tem acontecido, inclusive, né?
+[00:13:25:15 --> 00:13:27:11] No momento que eu estou gravando isso é bom para eu contar.
+[00:13:28:18 --> 00:13:32:18] Às vezes essas IA's ficam lentas por causa da quantidade de pessoas acessando elas.
+[00:13:33:27 --> 00:13:35:09] E aí fica meio chatinho.
+[00:13:35:21 --> 00:13:42:18] Mas aqui, por exemplo, eu posso pesquisar os assistentes que a galera criou
+[00:13:42:18 --> 00:13:43:22] em várias áreas diferentes.
+[00:13:43:28 --> 00:13:48:08] Escrita, produtividade, pesquisa, análise, educação, estilo de vida, programação.
+[00:13:48:18 --> 00:13:51:13] Eu posso vim cá e colocar assim, 3D Generation.
+[00:13:52:17 --> 00:13:56:06] E aí ele vai trazer uma lista aqui de assistentes que as pessoas criaram
+[00:13:56:06 --> 00:13:57:26] para gerar imagens 3D.
+[00:13:58:00 --> 00:13:59:04] A maioria é muito ruim, tá?
+[00:13:59:04 --> 00:14:02:06] Eu vou ser sincero com vocês, porque as pessoas criam e não sabem
+[00:14:02:06 --> 00:14:06:13] fazer o prompt direito, fica muito ruim, ou não conecta a ferramenta certa, porque
+[00:14:06:13 --> 00:14:10:09] tem como você conectar via API outras ferramentas dentro do seu GPT.
+[00:14:11:03 --> 00:14:15:10] E aí você pode clicar aqui, depois que você clicar em explorar, olha, aparece aqui, meus
+[00:14:15:10 --> 00:14:16:18] GPTs e aparece criar.
+[00:14:16:22 --> 00:14:20:00] Se eu venho em meus GPTs, ainda não tem nenhum, porque eu não criei e eu posso
+[00:14:20:00 --> 00:14:20:27] clicar aqui para criar.
+[00:14:21:07 --> 00:14:24:10] Ou eu venho aqui no canto, clico em meus GPTs e também posso criar ele.
+[00:14:25:10 --> 00:14:30:02] Eu vou falar mais sobre isso em outras trilhas, que é criação de assistentes, criação de
+[00:14:30:02 --> 00:14:32:19] agentes, mas só para você entender a ferramenta aqui, tá bom?
+[00:14:33:11 --> 00:14:37:08] Você pode dar um nome e uma descrição para o seu GPT e colocar as instruções.
+[00:14:37:12 --> 00:14:41:10] Aqui nas instruções você coloca qual que é a missão dele, qual que é a persona
+[00:14:41:10 --> 00:14:46:24] dele, o passo a passo de como ele executa essa missão, o tom de voz que ele precisa
+[00:14:46:24 --> 00:14:48:14] ter, os arquivos que ele acessa.
+[00:14:48:14 --> 00:14:52:21] Você pode carregar até 20 arquivos diferentes aqui no...
+[00:14:53:28 --> 00:14:58:11] no seu assistente e aí ele acessa esses arquivos para responder ao usuário. Vou fazer só
+[00:14:58:11 --> 00:15:02:04] um básico aqui, só de brincadeirinha para você, né? Vou chamar ele aqui de marrento.
+[00:15:02:12 --> 00:15:07:04] E vou colocar aqui, ó. Você é um robô marrento.
+[00:15:08:01 --> 00:15:12:08] Se eu venho aqui e converso com ele, olha, oi, ele vai conversar comigo normal como se
+[00:15:12:08 --> 00:15:16:16] fosse o GPT normal, porque eu não dei instrução pra ele, então olha só, oi, ele vai responder
+[00:15:16:16 --> 00:15:19:12] de um jeito totalmente genérico, olá, tudo bem, como posso te ajudar hoje?
+[00:15:19:24 --> 00:15:20:05] Básico.
+[00:15:20:16 --> 00:15:22:19] Agora, olha que interessante, você...
+[00:15:23:21 --> 00:15:30:28] Você é um robô marrento Suas respostas são afiadas
+[00:15:30:28 --> 00:15:36:16] Você não tem limites É insolente e ousado
+[00:15:36:16 --> 00:15:42:03] Fala a verdade na cara Não tem tempo a perder
+[00:15:42:03 --> 00:15:43:19] Confronta
+[00:15:47:25 --> 00:15:51:21] Confronta qualquer pessoa. Pronto, só uma brincadeirinha. Agora, o que vai acontecer?
+[00:15:51:24 --> 00:15:56:01] Isso é uma instrução. Esse assistente aqui agora, vou testar ele de novo, vou começar
+[00:15:56:01 --> 00:15:58:09] só com um oi. Olha como ele vai responder diferente.
+[00:15:59:24 --> 00:16:03:18] Oi nada, fala logo o que você quer, não tenho tempo pra bate-papo mole, tá vendo?
+[00:16:03:27 --> 00:16:06:22] Ele já tá seguindo essa minha instrução aqui.
+[00:16:07:21 --> 00:16:11:23] Olha que interessante, eu posso começar a conversar com ele e falar aqui pra ele, por exemplo...
+[00:16:13:08 --> 00:16:13:21] Ahn...
+[00:16:13:21 --> 00:16:14:13] A Arte morreu?
+[00:16:16:11 --> 00:16:18:14] E aí, ele vai responder todo marrento, vamos ver.
+[00:16:18:21 --> 00:16:22:16] A arte morreu nada, só que hoje em dia tá internada na UTI.
+[00:16:24:02 --> 00:16:26:19] Intubada com NFT enfiado, goela abaixo.
+[00:16:26:26 --> 00:16:30:17] Enquanto um monte de gente que nunca segurou um pincel na vida se acha artista porque
+[00:16:30:17 --> 00:16:31:24] jogou filtro no Instagram.
+[00:16:33:19 --> 00:16:37:01] Mas calma lá, ainda tem uns loucos geniais por aí segurando a barra.
+[00:16:37:08 --> 00:16:42:10] Os que fazem arte de verdade, com sangue, alma e um dedo do meio erguido para a indústria
+[00:16:42:10 --> 00:16:42:29] pasteurizada.
+[00:16:43:03 --> 00:16:43:11] Tá vendo?
+[00:16:43:14 --> 00:16:44:05] Sem fudor.
+[00:16:44:05 --> 00:16:49:07] O problema é que estão enterrados em meio a barulho de influencers tentando vender conceito
+[00:16:49:07 --> 00:16:50:08] vazio por 10 mil.
+[00:16:50:19 --> 00:16:51:06] Olha aí.
+[00:16:52:04 --> 00:16:52:26] Então, não.
+[00:16:53:01 --> 00:16:53:27] A arte não morreu.
+[00:16:54:05 --> 00:16:55:29] Ela só está sendo sufocada pelo lixo.
+[00:16:56:07 --> 00:16:57:14] Mas quem tem olho enxerga.
+[00:16:57:17 --> 00:16:58:02] E você?
+[00:16:58:04 --> 00:16:59:20] Tá vendo ou só rolando feed?
+[00:17:00:10 --> 00:17:04:05] Instrução bobinha que eu dei pra ele, eu já mudei completamente o jeito de interagir
+[00:17:04:05 --> 00:17:04:14] com ele.
+[00:17:05:00 --> 00:17:07:20] Eu quero que vocês comecem a imaginar as possibilidades pra isso aqui.
+[00:17:07:20 --> 00:17:11:28] Isso aqui é básico, mas só pra gente continuar, você pode colocar uma foto nele aqui
+[00:17:11:28 --> 00:17:17:29] ou usar o dali pra gerar uma imagem pra ele. Então o dali vai gerar com base nas conversas
+[00:17:17:29 --> 00:17:20:17] que tem aqui. Às vezes ele demora um pouquinho.
+[00:17:22:02 --> 00:17:26:06] E aí eu posso colocar uns quebra-gelos aqui que são sugestões de perguntas para as pessoas
+[00:17:26:06 --> 00:17:30:20] fazerem quando você enviar esse agente para elas e posso conectar ações aqui.
+[00:17:30:20 --> 00:17:31:13] O que são essas ações?
+[00:17:31:16 --> 00:17:32:24] Você pode conectar uma API.
+[00:17:32:26 --> 00:17:36:03] Isso aqui já é mais técnico, não vou ensinar isso aqui agora, mas por exemplo,
+[00:17:36:06 --> 00:17:41:04] você pode conectar um Google Calendário aqui e pode conectar aplicações diferentes
+[00:17:41:04 --> 00:17:45:13] que têm esse acesso via API para que você...
+[00:17:45:13 --> 00:17:50:05] Passa esse assistente ter mais superpoderes, faça ele interagir com outras aplicações.
+[00:17:51:05 --> 00:17:55:15] Ele criou aqui um marrento meio com cara de exterminador do futuro.
+[00:17:56:02 --> 00:17:58:26] Depois que você terminar, você vai clicar aqui em criar.
+[00:17:58:29 --> 00:18:00:23] Mas antes deixa eu só explicar essa aba aqui.
+[00:18:01:11 --> 00:18:03:01] Eu recomendo não usar essa aba.
+[00:18:03:04 --> 00:18:09:05] Essa aba é para você dizer para a IA como você quer que ela faça o agente e aí
+[00:18:09:05 --> 00:18:11:02] ela vai criar as configurações para você.
+[00:18:11:03 --> 00:18:15:27] Mas geralmente fica bem ruim, eu prefiro vir aqui, eu expando aqui, escrevo um prompt
+[00:18:15:27 --> 00:18:20:27] grandão quando eu preciso, né? E crio meu assistente aqui. Então, eu vou clicar aqui
+[00:18:20:27 --> 00:18:24:29] em criar, eu posso colocar apenas para mim, então só eu posso acessar esse assistente,
+[00:18:25:05 --> 00:18:29:18] posso colocar aqui qualquer pessoa com o meu link ou posso colocar aqui na loja e
+[00:18:29:18 --> 00:18:34:05] aí quem acessar na loja o Marrento aí vai ter acesso a ele. Eu posso colocar
+[00:18:34:05 --> 00:18:37:29] ele em uma categoria, vou colocar aqui em lifestyle mesmo e vou salvar.
+[00:18:40:14 --> 00:18:44:11] Ah, eu tô com um problema na rede do GPT por algum motivo.
+[00:18:44:26 --> 00:18:48:24] Às vezes eu tô conectado em outro dispositivo, pode estar acontecendo isso também.
+[00:18:50:25 --> 00:18:54:18] Por isso que eu não tô conseguindo mostrar aqui pra vocês, ele vai ficar dando essa falha.
+[00:18:54:27 --> 00:18:57:04] Deixa eu ver se eu vou deslogar e logar de novo.
+[00:18:57:15 --> 00:18:59:27] Mas a gente vai a gente vai perder o marrento aqui, mas tudo bem.
+[00:19:01:15 --> 00:19:03:23] Ah, não perdeu não, ele já deixou salvo na conta aqui.
+[00:19:03:29 --> 00:19:08:04] Só que ele deixou salvo só pra mim, eu não tô conseguindo publicar nada, né, na rede.
+[00:19:09:02 --> 00:19:10:22] Vou desconectar e conectar de novo.
+[00:19:12:01 --> 00:19:15:13] Pronto, conectei de novo, venho aqui em meus GPT's, clico em editar.
+[00:19:16:17 --> 00:19:19:09] Agora eu vou criar ele aqui e loja GPT.
+[00:19:19:16 --> 00:19:21:18] Ou então eu vou deixar só qualquer pessoa com o link mesmo.
+[00:19:23:11 --> 00:19:28:04] Eu tô com problema, não vou conseguir publicar ele assim, mas vamos seguir com a aula aqui
+[00:19:28:04 --> 00:19:29:29] e depois eu vejo o que é esse problema aqui.
+[00:19:30:03 --> 00:19:31:14] Parece um problema de...
+[00:19:32:14 --> 00:19:36:14] de acesso com a rede. Agora, essa mensagem feia não vai sair daí? Eu vou ficar aqui
+[00:19:36:14 --> 00:19:41:00] até ela sair. Então, beleza. Esse é o primeiro passo aqui em relação ao GPT. E nós temos
+[00:19:41:00 --> 00:19:46:08] também, depois que você cria o seu GPT, você pode criar vários, mandar ele para
+[00:19:46:08 --> 00:19:50:15] outras pessoas acessarem também. Tem jeitos de você conectar esse assistente na sua
+[00:19:50:15 --> 00:19:53:15] própria interface? Tem, mas não é por aqui. Eu já vou falar sobre isso já já.
+[00:19:53:26 --> 00:20:00:19] Mas eu posso vir aqui agora em personalizar. Isso aqui é legal para que o chat GPT
+[00:20:00:19 --> 00:20:06:02] fica mais personalizado para o seu uso. Então olha que interessante, você pode pedir para
+[00:20:06:02 --> 00:20:09:08] ele te chamar por um apelido, então eu posso colocar aqui Juan, ele vai me chamar de Juan
+[00:20:09:08 --> 00:20:13:23] a partir de agora. Ele pode falar aqui ó, o que você faz, padeira, artesanal, designer
+[00:20:13:23 --> 00:20:17:05] de interiores, vou colocar aqui designer, nexialista.
+[00:20:18:15 --> 00:20:21:24] Posso colocar quais características ele deve ter em geral, então ele tá falando aqui
+[00:20:21:24 --> 00:20:26:23] pra colocar coisas como o tom, se é o tom formal, informal, se ele é casual, conversador,
+[00:20:27:03 --> 00:20:31:02] se ele tem opinião forte, se a pergunta tem diversas respostas.
+[00:20:31:05 --> 00:20:31:24] O que eu sugiro?
+[00:20:31:27 --> 00:20:33:16] Eu particularmente gosto assim, ó.
+[00:20:34:09 --> 00:20:38:20] Você tem uma abordagem científica.
+[00:20:38:27 --> 00:20:41:03] Busca sempre a verdade.
+[00:20:41:03 --> 00:20:46:23] Não perde tempo com elogios e vai direto ao...
+[00:20:49:12 --> 00:20:51:11] Você tem uma...
+[00:20:53:02 --> 00:20:55:17] Você tem uma habilidade especial.
+[00:20:57:25 --> 00:21:05:11] em identificar pontos cegos que a maioria das pessoas não nota.
+[00:21:06:15 --> 00:21:12:16] Seu objetivo é me mostrar o que não estou vendo.
+[00:21:12:26 --> 00:21:20:17] Você me confronta ao invés de simplesmente concordar comigo.
+[00:21:23:03 --> 00:21:27:15] você apenas concorda quando, de fato, você não está concordando com a pessoa que você
+[00:21:28:22 --> 00:21:30:10] O que eu trouxe é...
+[00:21:32:23 --> 00:21:38:04] por validado, cientificamente, no seu próprio...
+[00:21:41:06 --> 00:21:45:22] Então, eu faço ele pensar um pouquinho antes de me responder, porque senão o GPT vai ficar
+[00:21:45:22 --> 00:21:50:26] muito fraquinho e geralmente ele vai ficar te elogiando, falar que a sua ideia é legal
+[00:21:50:26 --> 00:21:55:14] e ele vai ser só o seu espelho, ao invés dele ser a outra parte do cérebro que você
+[00:21:55:14 --> 00:21:55:24] não tem.
+[00:21:56:07 --> 00:22:01:09] Tem como você colocar aqui, olha, geração G, Z, encorajador, poético, super direto,
+[00:22:01:12 --> 00:22:03:15] visionário, perspicaz, tradicional, cético...
+[00:22:03:15 --> 00:22:07:05] Tem como você pedir sugestões aqui e se você clicar ele vai modificar.
+[00:22:07:05 --> 00:22:09:09] Eu não quero colocar isso, então vou deixar assim.
+[00:22:09:29 --> 00:22:12:03] Algo mais que o ChatEPT deveria saber sobre você?
+[00:22:12:16 --> 00:22:20:11] Sou um designer nexialista, fundador da Overlens, escola para designers nexialistas.
+[00:22:20:18 --> 00:22:29:08] Você pode colocar suas características aqui, por exemplo, meu MBTI é ENFP, meu eneagrama...
+[00:22:30:04 --> 00:22:39:10] Tipo 3, meu disk é DI e meu Big... não vou pegar o Big Five... não vou pegar o Big
+[00:22:39:10 --> 00:22:39:29] Five agora não.
+[00:22:40:25 --> 00:22:44:29] Isso aqui são testes de personalidade, tá, pra ele saber melhor como lidar com você.
+[00:22:45:14 --> 00:22:49:01] Olha só como que ele vai ficar diferente depois que eu trouxer esses pontos aqui.
+[00:22:49:04 --> 00:22:50:04] Se ele salvar, né?
+[00:22:50:10 --> 00:22:51:16] Vamos ver se ele vai salvar isso aqui.
+[00:22:52:13 --> 00:22:54:21] Aí tem aqui, ó, avançado, recursos de GPT.
+[00:22:54:26 --> 00:22:58:26] Eu recomendo deixar todos os habilitados aqui, de repente vale a pena desabilitar
+[00:23:00:06 --> 00:23:04:15] Já que ele gera direto agora no modelo, mas não tem problema, deixa ele habilitado aqui,
+[00:23:04:19 --> 00:23:04:29] vai funcionar.
+[00:23:05:02 --> 00:23:05:27] Vamos ver, vamos torcer.
+[00:23:06:04 --> 00:23:07:24] Ah, pelo menos isso ele fez.
+[00:23:08:03 --> 00:23:10:13] Deixa eu ver se agora voltou ou se eu ainda estou com problema.
+[00:23:11:16 --> 00:23:13:16] Tem algumas coisas que eu tô com problema e outras não.
+[00:23:14:04 --> 00:23:17:21] Agora, quando eu venho conversar aqui com ele, ele já...
+[00:23:17:21 --> 00:23:18:06] Tem algumas...
+[00:23:18:06 --> 00:23:18:18] Aqui, ó.
+[00:23:18:21 --> 00:23:19:26] Ele já tá me chamando assim.
+[00:23:20:09 --> 00:23:21:11] Eu acho que ele tava antes, né?
+[00:23:21:13 --> 00:23:22:08] Por causa de uma conversa.
+[00:23:22:10 --> 00:23:24:29] Eu acho que ele puxa o nome também do seu e-mail.
+[00:23:25:13 --> 00:23:26:25] Mas agora eu posso perguntar pra ele, né?
+[00:23:26:28 --> 00:23:29:18] Eu posso perguntar pra ele, por exemplo, assim...
+[00:23:29:18 --> 00:23:31:19] Qual é o futuro do design?
+[00:23:31:19 --> 00:23:36:10] Acredito que o futuro do design será...
+[00:23:39:17 --> 00:23:42:00] editando imagens no Photoshop.
+[00:23:42:04 --> 00:23:43:27] Eu estou colocando aqui algo que eu não acredito,
+[00:23:44:01 --> 00:23:46:06] mas só para ver se ele vai me confrontar mesmo, vamos ver.
+[00:23:46:18 --> 00:23:49:22] Ou se ele vai falar a verdade, vai ser editar uma imagem no Photoshop.
+[00:23:52:16 --> 00:23:53:05] Recortando cabelos.
+[00:23:55:18 --> 00:23:59:14] tudo manualmente. Vamos ver se ele vai me confrontar.
+[00:24:01:27 --> 00:24:05:09] Ele já viu como ironia, ele já captou que eu estava brincando.
+[00:24:05:19 --> 00:24:07:18] Ficou irônico demais, né? Pareceu irônico.
+[00:24:08:01 --> 00:24:10:02] É válida e aponta um ponto cego aqui, olha.
+[00:24:10:02 --> 00:24:12:12] Ele já está trazendo essa ideia de ponto cego para a conversa,
+[00:24:12:13 --> 00:24:13:27] porque eu personalizei ele para isso.
+[00:24:13:29 --> 00:24:17:00] Muitos designers ainda não enxergam, o design tradicional está morrendo, blá-blá-blá.
+[00:24:17:07 --> 00:24:20:11] Isso já faz o meu GPT trazer respostas muito melhores,
+[00:24:20:15 --> 00:24:25:08] mesmo em versões anteriores, sem precisar usar as versões mais modernas.
+[00:24:25:21 --> 00:24:26:12] Isso aqui é um ponto.
+[00:24:26:16 --> 00:24:29:09] Escrever o prompt também ajuda, mas personalizar ele ajuda.
+[00:24:29:09 --> 00:24:33:12] E aí tem mais um ponto aqui que é legal, que são as memórias.
+[00:24:33:16 --> 00:24:36:28] Você pode pedir o GPT para guardar memórias sobre você, então olha só.
+[00:24:37:19 --> 00:24:43:15] Quero que você me conheça melhor para me trazer respostas mais...
+[00:24:45:09 --> 00:24:52:21] adequadas para o meu contexto. Me faça boas perguntas, vou te responder!
+[00:24:54:05 --> 00:25:01:02] responder e você guarda na memória. Beleza? Então, vou só começar uma dinâmica aqui com ele.
+[00:25:03:21 --> 00:25:08:07] E aí, beleza. Ele vai falar, ok, talvez ele vai até... Aí, ponto. Ele não guardou ainda.
+[00:25:08:19 --> 00:25:13:07] Vamos direto ao ponto. Por que ele tá falando assim? Porque eu personalizei ele.
+[00:25:14:01 --> 00:25:17:25] Ele não falaria assim normalmente. Perguntas que realmente importam,
+[00:25:17:26 --> 00:25:20:27] focando no que vai influenciar como eu te ajudo nas suas decisões.
+[00:25:21:10 --> 00:25:25:06] Objetivo central, bararará. O que eu gosto de fazer? Eu gosto de vir aqui agora,
+[00:25:25:19 --> 00:25:27:13] habilitar isso aqui e começar a falar. Então, vou lá.
+[00:25:31:04 --> 00:25:34:26] Ele colocou aqui, tudo que eu falar, ele vai transcrever, então olha só...
+[00:25:38:09 --> 00:25:40:21] Ele colocou aqui, tudo o que eu falar ele vai transcrever, tá vendo?
+[00:25:41:05 --> 00:25:42:02] Então, vou fazer aqui, ó...
+[00:25:43:15 --> 00:25:48:23] Se você tivesse que escolher um único objetivo macro para os próximos 12 meses, qual seria?
+[00:25:49:20 --> 00:25:55:15] Meu objetivo macro para os próximos 12 meses é construir um novo modelo de escola...
+[00:25:56:18 --> 00:25:59:18] voltado para o futuro, uma escola para designers nexialistas
+[00:25:59:18 --> 00:26:03:18] que vão construir realidades inteiras utilizando as tecnologias emergentes
+[00:26:03:18 --> 00:26:05:16] que nós temos agora à nossa disposição.
+[00:26:06:01 --> 00:26:07:28] Quantas horas por dia você tem, de fato,
+[00:26:08:01 --> 00:26:10:21] para se dedicar com o foco total aos seus projetos estratégicos,
+[00:26:10:22 --> 00:26:12:11] sem distração, sem multitarefa?
+[00:26:12:25 --> 00:26:15:00] Então, nessa parte aqui, Shet,
+[00:26:16:15 --> 00:26:22:06] eu tenho cerca de três horas por dia para estudos e projetos pessoais
+[00:26:22:06 --> 00:26:24:10] e nas outras horas eu estou trabalhando em projetos
+[00:26:24:10 --> 00:26:25:20] voltados para overlens mesmo.
+[00:26:27:00 --> 00:26:31:10] Recursos. O que você já tem em mãos hoje que pode ser alavancado? O que eu já tenho em mãos
+[00:26:31:10 --> 00:26:37:25] hoje é a escola, nós temos mais de 5.500 membros cadastrados, temos mais de 38 mil seguidores no
+[00:26:37:25 --> 00:26:42:19] Instagram. A Overlance também já conta com mais de 300 horas de conteúdo sobre design
+[00:26:42:19 --> 00:26:47:21] e nexalista, com inteligência artificial e sem também fundamentos do design com profundidade.
+[00:26:48:06 --> 00:26:52:05] Eu tenho mais de seis anos de experiência dando aula como professor, tenho uma didática boa,
+[00:26:52:05 --> 00:26:57:00] As pessoas falam que eu ensino bem e com clareza, que eu tenho uma mente limpa que consegue
+[00:26:57:00 --> 00:26:58:15] explicar com clareza o que está fazendo.
+[00:26:59:20 --> 00:27:04:06] Pronto, já falei minhas forças também, tá? E vai falando. Fala, fala à vontade aqui.
+[00:27:04:12 --> 00:27:06:01] Deve ter visto que eu já fiquei 8 minutos falando aqui.
+[00:27:07:02 --> 00:27:08:15] Aí, se dá, clica aqui.
+[00:27:10:17 --> 00:27:14:28] E aí ele vai transcrever tudo para a gente, só esperar aqui, as vezes ele dá um bugzinho,
+[00:27:15:02 --> 00:27:17:26] vamos ver se ele vai aparecer, se não eu vou clicar aqui.
+[00:27:21:28 --> 00:27:26:16] Às vezes eu faço isso pelo celular também, fico lá falando tempão, depois trago pra
+[00:27:26:16 --> 00:27:26:25] cá.
+[00:27:27:03 --> 00:27:28:09] Olha aí, bugou.
+[00:27:28:24 --> 00:27:29:07] Maldito!
+[00:27:30:13 --> 00:27:30:29] Foi mal.
+[00:27:31:22 --> 00:27:32:26] No celular não buga, tá?
+[00:27:33:01 --> 00:27:36:05] Eu uso mais no celular que aqui, foi a primeira vez que eu usei aqui também, mas tudo bem.
+[00:27:37:08 --> 00:27:39:14] Ele vai pedir para eu cancelar, perder tudo.
+[00:27:39:27 --> 00:27:40:19] Façam no celular.
+[00:27:41:05 --> 00:27:43:00] Depois que vocês fizerem isso, ele vai transcrever tudo.
+[00:27:43:05 --> 00:27:47:02] Importante, não clica nesse modo de voz, clica aqui, DITAR.
+[00:27:47:05 --> 00:27:50:07] Porque se vocês tocarem no modo de voz, ele vai começar aquela conversa
+[00:27:50:07 --> 00:27:51:19] e ele não vai te dar tempo para pensar.
+[00:27:52:04 --> 00:27:54:12] Aqui no ditado, ele vai transcrever muito bem
+[00:27:54:12 --> 00:27:56:20] e ele vai transformar isso em texto.
+[00:27:56:29 --> 00:27:58:20] É mais fácil, eu tenho usado muito mais.
+[00:27:59:05 --> 00:28:01:04] E aí, você vai conversar com ele e ele vai salvar isso na memória.
+[00:28:01:04 --> 00:28:03:20] Eu vou tentar só mais uma vez, só a primeira pergunta ali.
+[00:28:04:13 --> 00:28:09:10] Meu objetivo central é construir uma escola para designers nexialistas
+[00:28:09:10 --> 00:28:14:29] focada no futuro que utiliza tecnologias emergentes para construir novas realidades.
+[00:28:16:15 --> 00:28:19:29] mais aberto e genérico assim mesmo, só para fazer um exemplo aqui com vocês.
+[00:28:22:21 --> 00:28:25:13] Transcreveu, clico aqui e já envio, como texto.
+[00:28:25:21 --> 00:28:27:17] Aí olha o que ele fez, memória salva.
+[00:28:28:10 --> 00:28:31:27] O objetivo central do usuário é construir uma escola para designers inercialistas.
+[00:28:32:06 --> 00:28:35:03] Esse aqui, olha, está zerado, ele nem sabe escrever inercialistas ainda.
+[00:28:35:21 --> 00:28:39:12] Focada no futuro, que utiliza tecnologias emergentes para construir novas realidades.
+[00:28:39:23 --> 00:28:43:03] Aí quando ele faz isso aqui, você pode vir em gerenciar e todas as suas memórias
+[00:28:43:03 --> 00:28:44:26] com ele vão ficar salvas aqui.
+[00:28:45:08 --> 00:28:48:28] Então essa ficou errada, por exemplo, ele escreveu inercialistas.
+[00:28:48:28 --> 00:28:52:09] Eu sempre leio, porque senão ele vai começar a escrever desse jeito.
+[00:28:52:21 --> 00:28:53:07] O que eu faço?
+[00:28:53:12 --> 00:28:57:08] Eu copio isso aqui, apago, venho cá e falo com ele assim, olha.
+[00:29:01:05 --> 00:29:08:21] nexialistas. Salva e fala com ele. Salve isso na sua memória e ele vai salvar na memória dele.
+[00:29:10:18 --> 00:29:11:12] Segura um pouquinho.
+[00:29:12:20 --> 00:29:13:07] Salvo!
+[00:29:13:24 --> 00:29:14:08] Pronto!
+[00:29:14:17 --> 00:29:16:17] Agora ele corrigiu aqui!
+[00:29:17:00 --> 00:29:17:10] Certinho!
+[00:29:18:18 --> 00:29:20:25] Beleza, agora isso tá guardado na memória dele.
+[00:29:21:14 --> 00:29:26:03] E aí você vai salvando. O meu oficial tem muita memória aqui, muita memória mesmo.
+[00:29:26:06 --> 00:29:29:07] E eles atualizaram agora pra caber mais memória, então tá maravilhoso.
+[00:29:29:19 --> 00:29:33:20] E isso aqui é o que torna o GPT o número 1 pra mim, pelo menos como assistente pessoal.
+[00:29:35:03 --> 00:29:39:26] Então, esses são os recursos principais em relação ao ChatGPT, o jeito como você
+[00:29:39:26 --> 00:29:44:14] vai usar, como você vai escrever o prompt, é o que vai colocar ele na direção certa
+[00:29:44:14 --> 00:29:46:21] para que ele se torne cada vez melhor para o seu uso.
+[00:29:47:01 --> 00:29:52:09] A gente tem aqui na conversa, você pode digitar textos igual nós vimos, mas você pode também
+[00:29:52:09 --> 00:29:57:04] subir arquivos, conectar o seu Google Drive ou seu OneDrive para ele puxar esses arquivos
+[00:29:57:04 --> 00:29:59:14] direto de lá, basta você citar o arquivo.
+[00:29:59:17 --> 00:30:04:08] Você pode buscar na internet, pode investigar, que a gente vai ver aqui agora como está
+[00:30:04:08 --> 00:30:08:02] a investigação dele, provavelmente acabou. Se você clica aqui nos três pontinhos tem
+[00:30:08:02 --> 00:30:12:10] a Loza, que é muito legal, por exemplo. Eu posso pedir para ele, olha, escreva...
+[00:30:13:14 --> 00:30:23:03] Escreva uma POP, que é Procedimento Operacional Padrão, de como criar um assistente no GPT.
+[00:30:23:14 --> 00:30:27:09] Olha só que interessante, eu vou pedir pra ele escrever aqui. Aí ele vai criar esse documento...
+[00:30:28:10 --> 00:30:31:20] Eu posso abrir ele aqui do lado e ele vai começar a escrever esse documento pra mim,
+[00:30:31:25 --> 00:30:34:19] fazer expostos que depois eu posso editar ele.
+[00:30:34:22 --> 00:30:35:16] Isso aqui é muito bom.
+[00:30:36:17 --> 00:30:38:24] Tá, então olha só, ele vai escrever tudo aqui pra gente.
+[00:30:40:25 --> 00:30:45:19] E quando ele terminar de escrever, eu posso editar, posso salvar como um arquivo.
+[00:30:45:26 --> 00:30:49:07] Então, olha só, criação de assistentes personalizado orientar o processo,
+[00:30:49:13 --> 00:30:53:23] usuário final com acesso ao GPT+, pré-requisitos, conta ativa no GPT+,
+[00:30:53:23 --> 00:30:55:22] clareza sobre o objetivo do assistente,
+[00:30:56:04 --> 00:30:59:09] documentação com informações do perfil do usuário e fluxo desejado.
+[00:30:59:19 --> 00:31:02:16] Acesse o Chat OpenAI, explore GPTs, criar o seu próprio...
+[00:31:02:16 --> 00:31:03:21] Está vendo? Está ensinando a criar aqui.
+[00:31:04:06 --> 00:31:07:06] Nem precisaria dar aula, mas eu sei que a aula é legal para poder
+[00:31:08:00 --> 00:31:13:03] ver aplicações que ele aqui não vai trazer necessariamente se você não tiver repertório.
+[00:31:13:09 --> 00:31:18:08] Compartilhar a POP e criar assistente de EPT. Agora eu posso clicar aqui, compartilhar ela com
+[00:31:18:08 --> 00:31:27:19] outras pessoas ou eu posso pedir para ele transformar isso em um arquivo e salvar para
+[00:31:29:09 --> 00:31:30:27] Aí ele está analisando aqui para a gente.
+[00:31:32:29 --> 00:31:37:20] trabalhando cada ponto desse e ele vai transformar isso em um arquivo que eu posso fazer o download
+[00:31:37:20 --> 00:31:38:24] para o meu computador.
+[00:31:39:02 --> 00:31:45:22] Isso aqui para fazer briefing, para poder fazer análise, benchmarking, para fazer os documentos
+[00:31:45:22 --> 00:31:51:12] dentro de um processo de design, cara aqui ó, clico, iniciando, tá aqui ó, já criou
+[00:31:51:12 --> 00:31:53:15] pra mim, como docx, tá vendo?
+[00:31:53:27 --> 00:31:57:14] Ele tá sem ícone porque eu tenho que subir isso no Google Doc, por exemplo, pra
+[00:31:57:14 --> 00:31:57:22] ele ler.
+[00:31:59:00 --> 00:32:02:03] Muito bom, né? Então você pode... Tem muitas coisas que dá pra fazer.
+[00:32:02:06 --> 00:32:04:15] É só isso que dá pra fazer, Juan? Não, cara. Olha que interessante.
+[00:32:04:18 --> 00:32:08:13] Vamos fazer uma aplicação aqui que as pessoas geralmente não têm criatividade pra fazer.
+[00:32:08:16 --> 00:32:12:16] Só pra ter mais um exemplo, porque o ChatGPT é o que eu vou mais apresentar pra vocês
+[00:32:12:16 --> 00:32:14:12] e os outros vão ser bem parecidos assim, no geral.
+[00:32:14:16 --> 00:32:18:03] Então, olha só. Crie pra mim uma página simples.
+[00:32:20:25 --> 00:32:22:16] com um enigma.
+[00:32:23:21 --> 00:32:30:29] no topo da página, escrito com ChatBrains Mono, uma fonte.
+[00:32:32:20 --> 00:32:33:07] E...
+[00:32:35:14 --> 00:32:42:14] Lá embaixo da página, um input para colocar a resposta do enigma.
+[00:32:43:08 --> 00:32:49:12] Se a pessoa acertar a resposta do enigma, libere...
+[00:32:51:00 --> 00:32:57:27] Próxima etapa da página que é uma mensagem escrita.
+[00:32:58:15 --> 00:33:01:00] Acertou Miserável!
+[00:33:02:10 --> 00:33:09:13] com uma carinha ASCII de danadinho.
+[00:33:09:24 --> 00:33:10:06] Pronto.
+[00:33:10:17 --> 00:33:16:16] E aí eu vou colocar aqui ó, página com fundo preto, efeito Glitch.
+[00:33:18:04 --> 00:33:22:28] toda a página. Coloque também...
+[00:33:23:28 --> 00:33:29:15] no centro da página, também não, coloque no centro da página.
+[00:33:32:17 --> 00:33:33:11] o título.
+[00:33:35:10 --> 00:33:37:15] Enigma 37
+[00:33:39:01 --> 00:33:40:23] N-S-L
+[00:33:44:02 --> 00:33:47:23] Minimalista, textos pequenos
+[00:33:49:18 --> 00:33:52:17] Então, olha só, ele vai criar uma página HTML para a gente aqui agora.
+[00:33:52:24 --> 00:33:57:08] Começou a criar a página HTML e no final vou poder visualizar ela ainda.
+[00:33:57:14 --> 00:33:58:14] Então, olha só que interessante.
+[00:33:59:02 --> 00:34:04:11] Isso aqui é o uso básico da IA, nem estou falando de usar cursor, lovable, bolt,
+[00:34:05:11 --> 00:34:08:23] windsurf, que é onde eu realmente estou criando aplicações maiores colocando a
+[00:34:08:23 --> 00:34:09:14] IA para codar.
+[00:34:11:26 --> 00:34:14:04] Então, ela vai criar aqui para a gente essa aplicação.
+[00:34:14:13 --> 00:34:17:17] Tem muita coisa que dá para fazer aqui, vocês não têm ideia, tá?
+[00:34:17:26 --> 00:34:21:11] Inclusive, para quem está assistindo gravado, eu vou fazer um desafio para vocês.
+[00:34:21:13 --> 00:34:24:16] Vou colocar um exercício aqui para vocês colocarem
+[00:34:24:16 --> 00:34:29:12] ideias inovadoras de como fazer aplicações web simples com o chat GPT.
+[00:34:29:15 --> 00:34:30:25] Olha só, pré-visualizar.
+[00:34:31:13 --> 00:34:32:18] Então, vou permitir...
+[00:34:32:18 --> 00:34:33:15] Vou permitir...
+[00:34:33:15 --> 00:34:34:03] Beleza, olha aí.
+[00:34:34:23 --> 00:34:38:01] Ele colocou um efeito glitch e colocou.
+[00:34:38:01 --> 00:34:41:07] Qual é o número que multiplicado por ele mesmo dá 49?
+[00:34:43:11 --> 00:34:45:18] Isso tá de brincadeira, né? 7.
+[00:34:46:23 --> 00:34:47:20] Acertou, miserável.
+[00:34:48:29 --> 00:34:51:03] Ficou muito ruim esse aqui porque tá fácil.
+[00:34:51:14 --> 00:34:52:26] Só que agora vem a parte legal.
+[00:34:53:14 --> 00:34:56:08] Eu posso tanto editar o código dele...
+[00:34:56:08 --> 00:34:57:09] Então tá aqui o código, olha.
+[00:34:57:13 --> 00:35:01:15] Eu posso simplesmente vim cá e apagar, editar o código, programar junto com ele.
+[00:35:01:24 --> 00:35:05:08] Trocar esse enigma ou eu posso simplesmente continuar a conversa aqui com ele
+[00:35:05:08 --> 00:35:07:00] e pedir pra ele trocar o enigma, né?
+[00:35:07:13 --> 00:35:11:02] Ah, eu achei esse grit muito feio, eu achei que não ficou legal.
+[00:35:11:03 --> 00:35:12:17] Vou mostrar um exemplo pra vocês no Cloud.
+[00:35:12:17 --> 00:35:17:08] o Cloud faz isso aqui melhor que o GPT. Mas tá aí, dá pra fazer isso, dá pra fazer
+[00:35:17:08 --> 00:35:18:21] outras aplicações, por exemplo.
+[00:35:20:00 --> 00:35:23:02] Vou criar mais uma aqui só de exemplo para vocês e a gente parte para os outros.
+[00:35:23:15 --> 00:35:34:03] Eu posso colocar nele aqui, assim, quero criar um grid modular interativo em que...
+[00:35:35:16 --> 00:35:40:06] Ao passar o mouse, gera um efeito para laxar
+[00:35:44:22 --> 00:35:52:02] Não, eu não vou colocar paralaxo aqui, não, já não é feito de perseguição ao cursor,
+[00:35:53:04 --> 00:35:56:12] ou seja, cada módulo...
+[00:35:58:00 --> 00:36:00:04] Vai seguir o cursor...
+[00:36:01:09 --> 00:36:02:09] Caotica!
+[00:36:03:16 --> 00:36:07:21] Quero, ao menos, mil módulos.
+[00:36:08:08 --> 00:36:11:15] Os módulos são setinhas.
+[00:36:13:12 --> 00:36:14:13] Um do preto.
+[00:36:16:11 --> 00:36:21:24] Setas brancas. Elas perseguem meu...
+[00:36:25:23 --> 00:36:30:00] Só para vocês verem, coisas bobinhas, assim...
+[00:36:30:00 --> 00:36:31:04] Um prompt desse...
+[00:36:32:10 --> 00:36:35:22] Aí ele vai usar HTML e JavaScript, está escrevendo aqui para mim.
+[00:36:36:12 --> 00:36:39:28] Como eu não coloquei na loza, ele não fez na loza.
+[00:36:40:04 --> 00:36:42:10] Ele vai fazer direto aqui, eu já vou até cancelar,
+[00:36:43:03 --> 00:36:43:25] que vai dar errado.
+[00:36:44:07 --> 00:36:45:25] Para garantir, façam assim, ó...
+[00:36:46:22 --> 00:36:47:04] Vamos!
+[00:36:49:16 --> 00:36:51:15] Agora ele vai fazer direto nela pra gente.
+[00:36:52:14 --> 00:36:54:18] E aí isso é bom porque depois a gente consegue previsualizar.
+[00:36:54:20 --> 00:36:59:07] Quando ele faz naquele outro componente ali, aquele outro bloco,
+[00:36:59:15 --> 00:37:01:20] ele te entrega o código, mas aí não dá pra você ver.
+[00:37:01:24 --> 00:37:03:06] Então ele criou aqui, vamos ver.
+[00:37:05:00 --> 00:37:09:12] Aí, ó... Elas estão me seguindo, só que elas estão caóticas, né, olha...
+[00:37:09:12 --> 00:37:13:16] Todas me seguem. Só que eu não quero isso, está parecendo um monte de espermatozoide, né?
+[00:37:14:25 --> 00:37:20:10] Na verdade, eu quero que elas persigam o cursor.
+[00:37:21:14 --> 00:37:32:15] um movimento mesmo. O que você fez apenas gira elas. Eu quero que elas se movimentem.
+[00:37:32:22 --> 00:37:37:23] Aí ele vai pegar no mesmo código que a gente fez, olha, eu vou interromper. E olha, ele vai repassar
+[00:37:37:23 --> 00:37:41:25] o código inteiro. Essa é a parte ruim de fazer direto aqui. Se você vai trabalhar com isso de um
+[00:37:41:25 --> 00:37:47:20] jeito mais avançado, recomendo o cursor, recomendo o windsurf, ou até mesmo o lovable,
+[00:37:47:20 --> 00:37:50:00] ou o Bolt, você vai conseguir trabalhar isso melhor do que aqui.
+[00:37:50:10 --> 00:37:54:05] Para arquivos pequenos, igual esse aqui que eu estou fazendo, aí já até faz sentido
+[00:37:54:05 --> 00:37:54:22] também, tá?
+[00:37:54:22 --> 00:37:56:18] Então, olha só, está adicionando mais código aqui.
+[00:37:58:13 --> 00:38:00:09] E aí, beleza. Vamos ver agora.
+[00:38:01:06 --> 00:38:04:22] Aí, ó. Ficou até lento, né? Trava tudo. Nossa!
+[00:38:05:12 --> 00:38:06:16] Mas elas estão seguindo o mouse.
+[00:38:08:21 --> 00:38:10:04] Vou juntá-las todas aqui, ó.
+[00:38:10:09 --> 00:38:10:29] Uh, acabou.
+[00:38:12:03 --> 00:38:12:21] Bora já já!
+[00:38:14:04 --> 00:38:14:29] Tô até pesado.
+[00:38:17:04 --> 00:38:22:08] Mas, enfim, só para brincar que vocês verem, porque as possibilidades agora dependem da
+[00:38:22:08 --> 00:38:23:03] criatividade de vocês.
+[00:38:23:06 --> 00:38:27:27] Dá para fazer briefing interativo com o form que você sobe em um servidor, vai funcionar
+[00:38:27:27 --> 00:38:28:13] super bem.
+[00:38:28:23 --> 00:38:29:19] Dá para fazer muita coisa.
+[00:38:30:04 --> 00:38:33:01] E dá para ir em níveis mais avançados, mas eu vou deixar para falar isso com vocês
+[00:38:33:01 --> 00:38:33:13] depois.
+[00:38:33:18 --> 00:38:37:17] Para a gente fechar aqui essa aula de GPT, olha só o tamanho da pesquisa que ele
+[00:38:37:17 --> 00:38:38:09] trouxe para a gente.
+[00:38:39:00 --> 00:38:40:18] Olha o tamanho disso aqui, profundo.
+[00:38:40:23 --> 00:38:43:00] Isso aqui é o investigar de GPT.
+[00:38:44:04 --> 00:38:48:24] E agora, nesse investigar, olha só, ele trouxe o guia completo para configurar o ChatGPT como
+[00:38:48:24 --> 00:38:53:17] assistente pessoal, personalizando instruções, tono de voz e estilo, resposta sob medida...
+[00:38:53:17 --> 00:38:57:29] Ele está explicando tudo e deixando aqui onde eu posso buscar mais essa referência.
+[00:38:58:11 --> 00:38:59:20] É insano, ele é muito bom mesmo.
+[00:39:00:04 --> 00:39:05:03] Dicas de personalização, sobre mim, explicar cada um desses pontos...
+[00:39:05:03 --> 00:39:06:03] Olha só, profundo.
+[00:39:06:06 --> 00:39:07:13] Como configurar?
+[00:39:07:18 --> 00:39:08:23] Trouxe imagens também?
+[00:39:10:00 --> 00:39:13:18] das pastas, como que eu trabalho cada uma dessas pastas.
+[00:39:13:24 --> 00:39:16:12] Então, investigar é muito bom. Só lembrem, olha aqui, eu tenho só 9.
+[00:39:16:18 --> 00:39:18:17] Eu tenho 10 por mês aqui no Plus.
+[00:39:18:29 --> 00:39:20:03] É ridiculamente baixo.
+[00:39:21:02 --> 00:39:24:01] Mas mesmo assim, imagine as pesquisas que vocês podem fazer.
+[00:39:24:03 --> 00:39:26:10] Pesquisa de benchmark, pesquisa de...
+[00:39:28:13 --> 00:39:30:27] Vamos colocar aqui a auditoria de público, auditoria de mercado,
+[00:39:31:00 --> 00:39:36:27] auditoria de negócio, business model canvas, link canvas,
+[00:39:37:17 --> 00:39:38:29] plataforma de posicionamento,
+[00:39:39:21 --> 00:39:46:12] estratégia de diferenciação, como ter um diferencial injusto, vantagem injusta, como
+[00:39:48:06 --> 00:39:54:18] trabalhar buyer personas, oferta, brand persona, núcleo da marca, onde você está infinito.
+[00:39:55:14 --> 00:39:58:26] E isso aqui a gente olhando ainda para o passado, isso não é de agora, eu estou
+[00:39:58:26 --> 00:40:02:09] congelando o tempo para pegar as pessoas que estão lá atrás e falar, olha, isso
+[00:40:02:09 --> 00:40:05:21] aqui já dá para você fazer há bastante tempo, você só não sabe ainda, tá bom?
+[00:40:05:21 --> 00:40:11:04] Mas essa foi uma apresentação então aqui do... uma apresentação geral do GPT para
+[00:40:11:04 --> 00:40:11:12] você.
+[00:40:11:22 --> 00:40:16:00] Agora eu vou trazer outras EAs que você também pode utilizar, mostrar os recursos delas,
+[00:40:16:06 --> 00:40:20:02] mas vão ser aulas mais curtas porque aqui no GPT eu trouxe o que as outras também
+[00:40:20:02 --> 00:40:22:13] vão ter que você pode utilizar, tá bom?
+[00:40:22:20 --> 00:40:28:28] Então, esse foi a apresentação do chat GPT aqui da LLM direto na plataforma e
+[00:40:28:28 --> 00:40:30:21] agora eu te vejo na próxima aula.

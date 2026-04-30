@@ -1,0 +1,174 @@
+# Video: 1._o_que_é_engenharia_de_prompt_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 08:21
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:00 --> 00:00:04:08] Chegou a hora de você aprender mais sobre engenharia de prompt,
+[00:00:04:16 --> 00:00:08:11] que é um dos conceitos de base, um dos fundamentos
+[00:00:08:11 --> 00:00:12:19] para você trabalhar da melhor maneira possível com as inteligências artificiais,
+[00:00:12:20 --> 00:00:16:17] principalmente as LLMs, que são as Large Language Models,
+[00:00:17:05 --> 00:00:19:24] e também trabalhar com modelos de difusão.
+[00:00:20:05 --> 00:00:22:16] Sinceramente, na verdade, vamos ser sinceros aqui,
+[00:00:23:08 --> 00:00:28:11] engenharia de prompt é sobre como conversar com robôs.
+[00:00:28:11 --> 00:00:41:28] Mas mais do que isso, é sobre como hackear esses robôs, sobre como, às vezes, quebrar filtros e sobre como contornar limitações para alcançar a sua resposta.
+[00:00:42:10 --> 00:00:51:23] Quando eu falo aqui sobre quebrar filtros, inclusive, é muito importante eu te falar que as técnicas que eu vou te ensinar aqui e os caminhos que eu vou te dar...
+[00:00:53:03 --> 00:00:55:24] podem ser usados tanto para o bem quanto para o mal.
+[00:00:56:02 --> 00:00:59:20] As inteligências artificiais são ferramentas muito poderosas
+[00:00:59:20 --> 00:01:02:10] e dá para fazer muitas coisas com elas.
+[00:01:02:15 --> 00:01:08:03] O objetivo aqui dessa aula é te dar uma introdução a esse tópico
+[00:01:08:03 --> 00:01:11:04] para que você entenda o que é um pouco mais Engenharia de Prompt.
+[00:01:11:09 --> 00:01:13:09] A gente vai falar de vocabulário também,
+[00:01:13:14 --> 00:01:19:15] aqui de alguns termos comuns que você vai ser exposto
+[00:01:19:15 --> 00:01:21:12] quando você estudar mais sobre esse assunto.
+[00:01:21:12 --> 00:01:27:18] junto e quero trazer referências para você aqui também tá bom mas o que que é importante deixar claro aqui
+[00:01:29:20 --> 00:01:42:16] Muitas LLMs, a maioria delas, principalmente as maiores, quando a gente fala de LLM, nós estamos falando de chat GPT, nós estamos falando de Cloud, nós estamos falando de Grok, nós estamos falando de Gipsy.
+[00:01:42:16 --> 00:01:53:07] E essas LLMs, elas possuem filtros e travas para que as pessoas não acessem conteúdos que são restritos,
+[00:01:53:10 --> 00:02:02:15] mas também para que as pessoas não utilizem essas inteligências artificiais de maneiras que são eticamente questionáveis.
+[00:02:02:24 --> 00:02:07:19] A verdade é que você pode utilizar as inteligências artificiais para aprender sobre muitas coisas,
+[00:02:07:19 --> 00:02:13:11] coisas, um conceito que é muito comum e a gente tem que até tomar cuidado na hora de pesquisar
+[00:02:13:11 --> 00:02:18:14] sobre isso, até mesmo para que você não seja bloqueado por essas LLMs, é que às vezes as
+[00:02:18:14 --> 00:02:27:01] pessoas pesquisam nas LLMs como fabricar drogas, como construir bombas, como hackear sistemas,
+[00:02:27:16 --> 00:02:36:14] coisas assim que a inteligência artificial sabe fazer, mas ela é travada para que outras pessoas
+[00:02:36:14 --> 00:02:44:08] as pessoas não encontrem esse conhecimento só que se por um lado isso nos protege por outro lado
+[00:02:44:08 --> 00:02:50:09] isso também nos limita tem uma uma música do rapa que eu gosto muito que tem uma parte dela que fala
+[00:02:50:09 --> 00:02:56:21] assim as grades do condomínio são para trazer proteção mas também trazem a dúvida se é você
+[00:02:56:21 --> 00:03:05:04] que tá nessa prisão essa música é muito boa chama minha alma e olha só o trecho dela na hora que o
+[00:03:05:04 --> 00:03:06:22] o que ela está falando aqui. As grades
+[00:03:06:22 --> 00:03:08:29] do condomínio são para trazer proteção.
+[00:03:09:01 --> 00:03:10:25] Então, essas travas todas são
+[00:03:10:25 --> 00:03:12:10] para poder nos proteger,
+[00:03:13:01 --> 00:03:15:04] mas também trazem a dúvida
+[00:03:15:04 --> 00:03:16:20] se não é você que está
+[00:03:16:20 --> 00:03:18:24] nessa prisão. Então,
+[00:03:18:25 --> 00:03:20:24] também lida com questões
+[00:03:20:24 --> 00:03:22:27] como censura. O Deep Seek
+[00:03:22:27 --> 00:03:24:28] mesmo enfrentou muito isso. Quando ele foi lançado,
+[00:03:24:28 --> 00:03:26:20] ele tinha muitas travas que
+[00:03:26:20 --> 00:03:28:28] escondiam a verdade das pessoas
+[00:03:28:28 --> 00:03:30:19] sobre a história da China,
+[00:03:30:23 --> 00:03:33:02] sobre as atrocidades
+[00:03:33:02 --> 00:03:34:23] que aconteceram lá e eles
+[00:03:34:23 --> 00:03:36:29] têm muita vergonha disso, ou até
+[00:03:36:29 --> 00:03:38:29] muito medo dessa informação ser
+[00:03:38:29 --> 00:03:41:01] vazada. Então, são
+[00:03:41:01 --> 00:03:42:15] IAs que possuem muitas travas.
+[00:03:42:23 --> 00:03:44:29] E Juan, não seria simplesmente só remover
+[00:03:44:29 --> 00:03:46:24] essas informações da IA? Não.
+[00:03:47:01 --> 00:03:49:09] Porque as IAs são grandes caixas
+[00:03:49:09 --> 00:03:51:05] pretas. Se vocês não viram,
+[00:03:51:05 --> 00:03:53:01] vale a pena assistir a aula sobre como
+[00:03:53:01 --> 00:03:54:26] as inteligências artificiais funcionam.
+[00:03:54:29 --> 00:03:56:26] E lá eu explico o que são redes
+[00:03:56:26 --> 00:03:58:28] neurais, explico o que é machine
+[00:03:58:28 --> 00:04:00:26] learning, e eu mostro algumas redes
+[00:04:00:26 --> 00:04:02:02] neurais e você vê que
+[00:04:02:02 --> 00:04:08:14] que ninguém sabe o que acontece nas conexões de pesos entre os neurônios intermediários
+[00:04:08:14 --> 00:04:11:25] e os neurônios ocultos dessas inteligências artificiais.
+[00:04:11:29 --> 00:04:18:05] Então, o que nós fazemos basicamente é jogar uma tonelada de dados dentro dessas IAs,
+[00:04:18:11 --> 00:04:22:28] elas estabelecem várias relações entre esses dados e aprendem com eles.
+[00:04:23:02 --> 00:04:30:17] Mas o que tem ali dentro, o único jeito de gerenciar é você limitando os dados que você coloca dentro dela.
+[00:04:30:17 --> 00:04:36:01] dela só que se você limita demais esses dados o que acaba acontecendo você não tem uma EA eficiente
+[00:04:36:01 --> 00:04:41:27] as e as mais robustas elas basicamente pega um dado de toda a internet joga ali dentro e deixa
+[00:04:41:27 --> 00:04:49:21] elas treinarem e cada EA tem suas limitações tem seus treinamentos né o croc do Elon Musk por
+[00:04:49:21 --> 00:04:53:20] exemplo a promessa dele é uma inteligência artificial que não te esconde a verdade que
+[00:04:53:20 --> 00:04:59:21] conta tudo que você precisar é por isso até que ela é atualmente conhecida como a LLM com menos
+[00:04:59:21 --> 00:05:02:25] menos travas e filtros você pode pesquisar nela e vai aprender muita
+[00:05:02:25 --> 00:05:08:28] coisa lá inclusive tô gostando muito de utilizar o groc ultimamente então
+[00:05:10:20 --> 00:05:16:21] Sabendo disso, o que essas grandes empresas fazem é tentar criar travas e filtros
+[00:05:16:21 --> 00:05:19:27] para que as pessoas não consigam acessar algumas informações.
+[00:05:20:11 --> 00:05:23:07] E aí, resumindo aqui, por um lado isso é muito importante,
+[00:05:23:14 --> 00:05:28:29] mas por outro também limita a IA de te entregar informações mais profundas.
+[00:05:29:02 --> 00:05:36:12] Eu gosto da analogia de que é como se você tivesse a Biblioteca de Alexandria à sua disposição,
+[00:05:36:12 --> 00:05:39:18] uma das maiores bibliotecas da história da humanidade à sua disposição.
+[00:05:39:18 --> 00:05:45:07] E aí você tem o bibliotecário lá, que é a pessoa que te leva nas fileiras.
+[00:05:45:26 --> 00:05:48:08] Só que essa pessoa, ela esconde informações.
+[00:05:48:27 --> 00:05:54:02] E ela só revela algumas fileiras pra quem sabe pedir pra ela, pra quem fala com ela assim,
+[00:05:55:05 --> 00:05:57:02] eu falo algum código pra ela.
+[00:05:57:03 --> 00:06:02:08] Imagina que eu sei, eu faço parte de um credo, de um sistema secreto de informação,
+[00:06:02:18 --> 00:06:08:08] e eu chego pra esse cara, ou pra essa mulher que cuida da biblioteca de Alexandria e falo assim com ela,
+[00:06:08:08 --> 00:06:13:10] Eu, sei lá, falo com ela, batata frita 1, 2, 3.
+[00:06:14:03 --> 00:06:15:12] Veio na minha cabeça aqui.
+[00:06:15:16 --> 00:06:16:06] Isso é um código.
+[00:06:16:18 --> 00:06:21:03] E aí, a partir desse código, ela entende que eu não sou qualquer pessoa
+[00:06:21:03 --> 00:06:24:28] e me leva em fileiras ocultas e secretas,
+[00:06:24:28 --> 00:06:29:11] que geralmente ela não leva as pessoas comuns ali.
+[00:06:29:13 --> 00:06:32:20] Ela só leva as pessoas que entendem essas informações.
+[00:06:32:28 --> 00:06:36:06] Então, é como se você pudesse acessar qualquer conteúdo,
+[00:06:36:06 --> 00:06:38:05] mas para isso você precisa saber pedir.
+[00:06:38:15 --> 00:06:40:24] E antes de a gente entrar aqui no vocabulário,
+[00:06:40:24 --> 00:06:43:01] já começar a mostrar aqui para vocês esses pontos,
+[00:06:43:27 --> 00:06:46:27] é importante eu dizer que o funcionamento das IAs
+[00:06:46:27 --> 00:06:50:00] está muito ligado com o jeito como nós, seres humanos, funcionamos também.
+[00:06:50:02 --> 00:06:51:26] Nós espelhamos muito o nosso processo.
+[00:06:52:04 --> 00:06:56:01] E a IA vai te devolver o que você pede para ela.
+[00:06:57:09 --> 00:07:02:19] Pensando nisso, nós temos dois cenários aqui que nós precisamos levar em consideração.
+[00:07:02:25 --> 00:07:09:09] O primeiro deles é que, imagina que você pode acessar qualquer conhecimento da história da humanidade.
+[00:07:10:05 --> 00:07:15:15] Para poder acessar esse conhecimento, você precisa primeiro saber que esse conhecimento existe para solicitar ele.
+[00:07:15:22 --> 00:07:21:21] Se você não sabe que esse conhecimento existe, você precisa ao menos saber um caminho para chegar até ele.
+[00:07:21:21 --> 00:07:27:13] Ou seja, você precisa solicitar um processo que vai te levar à resposta.
+[00:07:27:24 --> 00:07:32:27] Se você não tem o vocabulário e não sabe solicitar, você não chega na resposta.
+[00:07:33:07 --> 00:07:36:28] Só que você não precisa saber a palavra certa para chegar na palavra certa.
+[00:07:37:04 --> 00:07:39:18] Você precisa saber o processo certo.
+[00:07:40:25 --> 00:07:41:22] para poder chegar na resposta.
+[00:07:42:02 --> 00:07:45:02] E isso é o que a gente chama aqui de engenharia de prompt.
+[00:07:45:09 --> 00:07:49:09] É você conseguir conduzir a IA para te levar onde você quer.
+[00:07:49:18 --> 00:07:51:21] E aí, o primeiro cenário que eu estou trazendo é esse.
+[00:07:51:21 --> 00:07:54:27] Você precisa de vocabulário ou de um processo para chegar nessa resposta.
+[00:07:55:09 --> 00:07:56:24] Mas tem um segundo cenário aqui.
+[00:07:56:27 --> 00:08:01:28] Cada vez mais, essas inteligências artificiais estão ficando boas
+[00:08:01:28 --> 00:08:04:07] em compreender o que as pessoas querem.
+[00:08:04:16 --> 00:08:08:28] Então, às vezes, com poucas palavras, a IA te devolve exatamente o que você quer,
+[00:08:09:00 --> 00:08:10:00] mas tem um problema aqui.
+[00:08:10:00 --> 00:08:11:03] Dois, na verdade.
+[00:08:11:13 --> 00:08:13:07] Eu estou abrindo várias ramificações.
+[00:08:13:07 --> 00:08:15:07] Primeiro a gente está fazendo um exercício aqui
+[00:08:15:07 --> 00:08:16:20] para depois a gente entrar na prática.
+[00:08:17:00 --> 00:08:18:13] Quais são os problemas que eu vejo?
+[00:08:18:16 --> 00:08:23:22] Um deles é que muitas pessoas vão se contentar com o raso.
+[00:08:23:28 --> 00:08:26:01] Então, por causa da janela de contexto,
+[00:08:26:19 --> 00:08:27:17] economia de tokens,
+[00:08:28:01 --> 00:08:29:23] a IA vai te entregar o raso,
+[00:08:29:23 --> 00:08:31:15] porque seu pedido foi raso também.
+[00:08:32:10 --> 00:08:34:14] Então, às vezes você solicita para ela alguma coisa,
+[00:08:34:15 --> 00:08:36:06] me apresente 10 estratégias de branding.
+[00:08:36:10 --> 00:08:37:09] Ela vai te apresentar.
+[00:08:37:12 --> 00:08:39:02] E isso vai ser novo para vocês,
+[00:08:39:02 --> 00:08:40:29] vai ficar impressionado e vai falar maravilha.
+[00:08:41:00 --> 00:08:43:03] Você pode até pegar algum ali e falar, me explique
+[00:08:43:03 --> 00:08:45:04] melhor essa daqui, me explique melhor essa daqui.
+[00:08:45:09 --> 00:08:46:19] E a IA vai te explicar.
+[00:08:46:28 --> 00:08:48:21] Só que ela vai te explicar num nível
+[00:08:49:13 --> 00:08:50:28] raso. Você vai dar um
+[00:08:50:28 --> 00:08:52:19] mergulhinho ali, mas você não vai lá
+[00:08:52:19 --> 00:08:55:01] nas profundezas. Você não vai acessar
+[00:08:55:01 --> 00:08:57:01] o canal mais underground se você não pedir
+[00:08:57:01 --> 00:08:58:25] isso pra ela. E melhor, se você não
+[00:08:58:25 --> 00:09:00:13] souber pedir isso pra ela.
+[00:09:01:11 --> 00:09:02:18] Então, esse é um ponto.
+[00:09:03:21 --> 00:09:06:00] Apesar delas estarem ficando cada vez melhores,
+[00:09:06:11 --> 00:09:10:18] elas vão te entregar o que você está pedindo para elas.
+[00:09:10:21 --> 00:09:18:05] E segundo, será que é bom elas ficarem cada vez melhores em adivinhar o que está na nossa cabeça?
+[00:09:18:12 --> 00:09:23:22] Porque isso abre uma outra questão para a gente refletir aqui, que é a exploração.
+[00:09:24:08 --> 00:09:29:27] Se a resposta chega muito fácil para você, você não tem exploração do seu pensamento.
+[00:09:29:27 --> 00:09:52:02] Por não ter essa exploração, o que acontece é que, eu não sei se vocês já passaram por isso, mas dentro do processo criativo ou até do processo de descobrimento de alguma coisa, muitas vezes nós estamos indo em uma direção e o próprio processo de aprendizado nos mostra que nós estávamos indo na direção errada e nós podemos corrigir o curso para o outro lado.
+[00:09:52:06 --> 00:09:58:14] Ou seja, o processo te mostra que a resposta que você queria não era exatamente o que você precisava.
+[00:09:59:11 --> 00:10:02:26] Agora, se uma inteligência artificial te entrega exatamente o que você pediu,
+[00:10:02:27 --> 00:10:05:18] você não tem uma exploração mental,
+[00:10:06:06 --> 00:10:08:12] porque tudo o que você quer vai parecer certo.
+[00:10:08:19 --> 00:10:12:05] Tudo o que você pensa vai parecer que aquilo é exatamente o que você queria.
+[00:10:12:08 --> 00:10:15:06] E você vai seguir dentro de uma bolha mental sua,
+[00:10:16:00 --> 00:10:17:09] melhorando o que você já sabe,
+[00:10:17:11 --> 00:10:20:15] mas não te permitindo explorar terrenos novos.
+[00:10:21:26 --> 00:10:26:00] Então, resumindo essa primeira filosofia do que a gente está conversando aqui,
+[00:10:27:04 --> 00:10:30:23] você precisa ter vocabulário, porque isso vai te permitir usar palavras diferentes
+[00:10:30:23 --> 00:10:37:07] para entrar em corredores diferentes dentro dessa grande biblioteca.
+[00:10:38:08 --> 00:10:39:22] Então, vocabulário é muito importante.
+[00:10:40:00 --> 00:10:45:02] Você precisa também de métodos para poder contornar isso
+[00:10:45:02 --> 00:10:48:29] quando você não sabe a palavra, mas sabe como encontrá-la.
+[00:10:48:29 --> 00:10:59:10] Então, existe uma engenharia de pedido, uma engenharia de prompt, uma engenharia para poder contornar um desafio ou uma barreira para encontrar sua resposta.
+[00:10:59:17 --> 00:11:00:18] Você precisa saber sobre isso.
+[00:11:00:29 --> 00:11:09:27] Mas, você precisa entender também que essas IAs vão ficar cada vez melhores no que elas fazem e a maioria das pessoas vão se contentar com as respostas de superfície.
+[00:11:09:27 --> 00:11:23:06] E quem não se contentar com isso e aprender o que eu vou ensinar aqui, essas pessoas vão acessar conteúdos da humanidade que estão numa outra dimensão.

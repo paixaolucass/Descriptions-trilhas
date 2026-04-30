@@ -1,0 +1,4392 @@
+1
+00:00:00,000 --> 00:00:01,340
+Deixa eu mostrar aqui para vocês, olha.
+
+2
+00:00:01,420 --> 00:00:04,180
+Eu peguei um projeto aqui que se chama Estúdio Vanguarda.
+
+3
+00:00:04,200 --> 00:00:08,180
+A gente montou isso aqui na Vanguarda há algumas semanas atrás
+
+4
+00:00:08,880 --> 00:00:11,400
+e basicamente nós temos aqui alguns agentes
+
+5
+00:00:11,960 --> 00:00:13,480
+focados em construção de negócio.
+
+6
+00:00:13,840 --> 00:00:15,540
+Deixa eu ver se eu consigo aumentar aqui para vocês.
+
+7
+00:00:15,640 --> 00:00:17,520
+Ele aumenta o ícone, mas não aumenta o texto.
+
+8
+00:00:17,680 --> 00:00:18,340
+Eu vou ler para vocês.
+
+9
+00:00:18,900 --> 00:00:21,680
+Definição de CP, direção estratégica, imã de problemas,
+
+10
+00:00:21,920 --> 00:00:24,720
+maestro, mapa de mercado, motor moral,
+
+11
+00:00:24,920 --> 00:00:26,100
+oferta e tese de valor.
+
+12
+00:00:26,220 --> 00:00:28,180
+A gente construiu esses agentes na Vanguarda
+
+13
+00:00:28,180 --> 00:00:29,700
+e construímos as skills.
+
+14
+00:00:30,000 --> 00:00:31,680
+Olha o tanto de skill que a gente construiu.
+
+15
+00:00:32,060 --> 00:00:34,840
+O que eu vou fazer agora é pegar todos esses agentes
+
+16
+00:00:34,840 --> 00:00:38,060
+para a gente usar aqui no negócio.
+
+17
+00:00:38,520 --> 00:00:40,120
+Mas eu vou mostrar para vocês também.
+
+18
+00:00:40,180 --> 00:00:41,680
+Ontem eu mostrei como criar do zero.
+
+19
+00:00:41,920 --> 00:00:44,820
+Vocês poderiam criar do zero também, se vocês quisessem.
+
+20
+00:00:45,080 --> 00:00:46,460
+Então, o que a gente vai fazer aqui?
+
+21
+00:00:46,540 --> 00:00:49,240
+Qual é o primeiro passo quando a gente vai começar um novo projeto?
+
+22
+00:00:49,880 --> 00:00:50,920
+A gente faz o seguinte.
+
+23
+00:00:51,520 --> 00:00:52,280
+Nova pasta.
+
+24
+00:00:52,840 --> 00:00:54,540
+Então, a gente vai chamar isso aqui de...
+
+25
+00:00:55,772 --> 00:01:00,112
+Business Model Overlens, BM Overlens, beleza?
+
+26
+00:01:00,472 --> 00:01:01,712
+Modelo de negócio da Overlens.
+
+27
+00:01:01,792 --> 00:01:05,512
+É como se a gente estivesse construindo aqui o modelo de negócio da Overlens do zero.
+
+28
+00:01:06,032 --> 00:01:08,952
+Criei aqui, vou abrir o anti-gravity para a gente então.
+
+29
+00:01:10,300 --> 00:01:12,700
+Abrindo o anti-gravity, clico aqui para abrir a pasta,
+
+30
+00:01:12,840 --> 00:01:17,220
+vou na minha área de trabalho e pego aqui o BM Overlens.
+
+31
+00:01:18,000 --> 00:01:18,360
+Beleza?
+
+32
+00:01:19,548 --> 00:01:22,028
+A atenção total aqui, galera, total comigo.
+
+33
+00:01:22,148 --> 00:01:23,048
+Vai ter que ser assim.
+
+34
+00:01:23,128 --> 00:01:26,188
+Agora é modo hardcore, mas vocês vão aprender muito aqui.
+
+35
+00:01:26,268 --> 00:01:28,308
+Eu vou abrir os horizontes de vocês.
+
+36
+00:01:28,728 --> 00:01:29,808
+Então, estamos aqui na BM.
+
+37
+00:01:30,028 --> 00:01:32,668
+Já vou fechar essa janelinha do lado, abrir nosso terminal
+
+38
+00:01:32,668 --> 00:01:34,688
+e já acordo o Cloud aqui com tudo.
+
+39
+00:01:34,868 --> 00:01:39,168
+No caso, eu vou acordar o Cloud em Dangerously Skip Permissions.
+
+40
+00:01:39,788 --> 00:01:42,708
+Porque aí, dessa maneira, ele vai trabalhando para mim
+
+41
+00:01:42,708 --> 00:01:44,128
+sem ficar me pedindo permissão.
+
+42
+00:01:44,228 --> 00:01:45,948
+É mais perigoso trabalhar assim.
+
+43
+00:01:46,208 --> 00:01:48,528
+Trabalha no Enable Auto Mode.
+
+44
+00:01:48,528 --> 00:01:49,728
+é mais seguro para vocês.
+
+45
+00:01:49,948 --> 00:01:52,268
+Aqui é porque eu entrei no modo acelerado, tá?
+
+46
+00:01:52,588 --> 00:01:55,788
+Qual que é a primeira coisa quando a gente começa um processo?
+
+47
+00:01:56,028 --> 00:01:57,148
+A gente tem que explicar para o Claude.
+
+48
+00:01:57,188 --> 00:01:58,628
+Ele está chegando zerado aqui, lembra?
+
+49
+00:01:58,688 --> 00:02:00,648
+Então, vamos explicar para ele o que nós vamos fazer.
+
+50
+00:02:01,868 --> 00:02:06,288
+Estou estruturando um negócio de educação.
+
+51
+00:02:07,008 --> 00:02:07,488
+Educação.
+
+52
+00:02:08,868 --> 00:02:09,828
+Chamado Overlens.
+
+53
+00:02:10,068 --> 00:02:14,248
+A Overlens é uma plataforma de aprendizagem.
+
+54
+00:02:14,548 --> 00:02:16,848
+Não é uma área de membros.
+
+55
+00:02:16,848 --> 00:02:22,628
+Não é um conjunto de cursos, é uma comunidade.
+
+56
+00:02:24,380 --> 00:02:26,440
+onde você aprende fazendo.
+
+57
+00:02:26,600 --> 00:02:29,200
+Você traz o seu projeto.
+
+58
+00:02:31,836 --> 00:02:32,936
+Nossa, e a...
+
+59
+00:02:34,364 --> 00:02:43,404
+aponta os principais aprendizados que você precisa ter para realizar este projeto.
+
+60
+00:02:43,484 --> 00:02:44,564
+Junto...
+
+61
+00:02:45,756 --> 00:02:51,056
+junto com as principais habilidades que você precisa aprender.
+
+62
+00:02:51,776 --> 00:02:57,916
+Chamamos isso de aprendizado puxado por demanda.
+
+63
+00:02:59,516 --> 00:03:02,836
+Nosso objetivo aqui é criar um...
+
+64
+00:03:05,596 --> 00:03:09,796
+centro de verdade do nosso modelo de negócio.
+
+65
+00:03:12,124 --> 00:03:20,784
+Vamos, presta atenção aqui, vamos começar pesquisando o mercado global
+
+66
+00:03:20,784 --> 00:03:23,024
+para entender quem...
+
+67
+00:03:23,900 --> 00:03:25,800
+já faz algo parecido.
+
+68
+00:03:26,260 --> 00:03:30,520
+Depois, vamos modelar os principais problemas
+
+69
+00:03:31,440 --> 00:03:35,020
+que o nosso público, dentro do...
+
+70
+00:03:35,020 --> 00:03:36,560
+Um termo aqui que eu preciso explicar.
+
+71
+00:03:36,840 --> 00:03:38,040
+Tan, san, son.
+
+72
+00:03:38,320 --> 00:03:42,240
+Tan, san, son são níveis de um mercado.
+
+73
+00:03:42,540 --> 00:03:44,140
+Tan é o mercado total.
+
+74
+00:03:44,480 --> 00:03:46,380
+San é o mercado endereçável.
+
+75
+00:03:46,460 --> 00:03:48,340
+E son é o mercado obtível.
+
+76
+00:03:48,480 --> 00:03:49,500
+Qual é a diferença dos três?
+
+77
+00:03:49,580 --> 00:03:50,260
+Pensa numa escala.
+
+78
+00:03:50,460 --> 00:03:53,560
+Mercado obtível é onde você começa a buscar seus clientes.
+
+79
+00:03:53,560 --> 00:03:56,180
+Mercado endereçável é o potencial de clientes
+
+80
+00:03:56,180 --> 00:03:59,380
+que você é capaz de atingir nos próximos 2 a 5 anos.
+
+81
+00:03:59,700 --> 00:04:03,360
+Mercado total é o mercado onde você compete com seus concorrentes.
+
+82
+00:04:03,380 --> 00:04:06,660
+Então, dentro do Tan Sansong, definir...
+
+83
+00:04:07,772 --> 00:04:12,032
+Definir quais são os problemas que nós resolvemos,
+
+84
+00:04:12,692 --> 00:04:18,452
+mapeando dos problemas maiores para os problemas mais latentes,
+
+85
+00:04:18,472 --> 00:04:22,412
+melhor que maiores, mais latentes, para os menos latentes.
+
+86
+00:04:22,812 --> 00:04:28,192
+Depois, vamos trabalhar no ICP, outro termo que eu preciso explicar rapidinho.
+
+87
+00:04:28,312 --> 00:04:34,192
+ICP significa Ideal Customer Profile, que é perfil ideal de cliente.
+
+88
+00:04:34,192 --> 00:04:38,752
+Isso aqui é uma das coisas mais importantes que quem não sabe vender não trabalha.
+
+89
+00:04:38,792 --> 00:04:41,232
+Quando você tem um perfil ideal de cliente bem definido,
+
+90
+00:04:41,232 --> 00:04:44,712
+você cria uma solução específica e vende muito mais fácil.
+
+91
+00:04:44,972 --> 00:04:49,552
+Todos vocês que estão aqui no Atlas hoje, são perfil ideal de cliente da Overlens.
+
+92
+00:04:49,752 --> 00:04:52,952
+E eu estou resolvendo problemas para vocês aqui.
+
+93
+00:04:53,032 --> 00:04:54,812
+O Atlas resolve problemas para vocês.
+
+94
+00:04:55,032 --> 00:04:55,552
+Beleza?
+
+95
+00:04:55,592 --> 00:04:58,232
+Porque eu já fiz pesquisa, eu já identifiquei os problemas
+
+96
+00:04:58,232 --> 00:05:01,192
+e criei um produto que resolve o problema de vocês.
+
+97
+00:05:01,332 --> 00:05:02,292
+Qual que é o erro das pessoas?
+
+98
+00:05:02,292 --> 00:05:06,332
+As pessoas criam um negócio e depois ficam procurando clientes para esses negócios.
+
+99
+00:05:06,412 --> 00:05:07,312
+Presta atenção nisso aqui.
+
+100
+00:05:07,512 --> 00:05:11,132
+Você não tem que procurar cliente para os seus negócios.
+
+101
+00:05:11,252 --> 00:05:14,452
+Você tem que procurar negócios para os seus clientes.
+
+102
+00:05:14,472 --> 00:05:15,212
+Como assim, Juan?
+
+103
+00:05:15,332 --> 00:05:19,092
+Ao invés de tentar achar gente que compra o que você inventou,
+
+104
+00:05:19,192 --> 00:05:21,452
+você tem que conversar mais com pessoas.
+
+105
+00:05:21,852 --> 00:05:24,872
+Você tem que perguntar para as pessoas quais são os seus desafios,
+
+106
+00:05:24,892 --> 00:05:26,652
+quais são os seus maiores problemas atualmente.
+
+107
+00:05:26,812 --> 00:05:30,032
+Você vai absorver os melhores e resolver esses problemas.
+
+108
+00:05:30,032 --> 00:05:36,832
+Aí, todo aquele atrito de vendas vai embora, porque você tem a solução para o próximo passo da pessoa.
+
+109
+00:05:37,472 --> 00:05:43,932
+Imagina que sua privada entupiu, e aí tudo que você quer é alguém para desentupir sua privada agora, nesse instante.
+
+110
+00:05:44,032 --> 00:05:47,472
+Se eu chego para você e falo, eu desentupo a sua privada para você, você fala, então faz isso aí para mim.
+
+111
+00:05:48,072 --> 00:05:49,512
+Eu resolvi um problema.
+
+112
+00:05:49,792 --> 00:05:54,872
+O ICP serve para te ajudar a entender qual é o perfil ideal de cliente que tem o problema que você sabe resolver.
+
+113
+00:05:55,172 --> 00:05:58,532
+Então você não acha clientes para suas soluções.
+
+114
+00:05:58,532 --> 00:06:00,932
+Você acha soluções para os seus clientes.
+
+115
+00:06:00,972 --> 00:06:01,852
+Isso muda tudo.
+
+116
+00:06:02,012 --> 00:06:03,572
+Então, a gente vai definir o ICP aqui também.
+
+117
+00:06:03,772 --> 00:06:05,612
+Depois, vamos trabalhar no ICP.
+
+118
+00:06:06,012 --> 00:06:08,772
+Seguindo para a tese de valor do negócio
+
+119
+00:06:08,772 --> 00:06:13,232
+e, por fim, terminando com a oferta.
+
+120
+00:06:13,432 --> 00:06:14,892
+Aqui vem um ponto importante.
+
+121
+00:06:15,192 --> 00:06:16,852
+Vamos trabalhar a oferta
+
+122
+00:06:17,492 --> 00:06:18,892
+seguindo o framework
+
+123
+00:06:18,892 --> 00:06:23,952
+de um dos maiores vendedores do mundo atualmente,
+
+124
+00:06:24,072 --> 00:06:26,892
+chamado Alex Ormose.
+
+125
+00:06:26,892 --> 00:06:30,492
+Vamos seguir a estrutura dele.
+
+126
+00:06:31,836 --> 00:06:32,796
+dele, de.
+
+127
+00:06:34,492 --> 00:06:36,772
+Oferta de valor percebido.
+
+128
+00:06:37,012 --> 00:06:39,052
+Oferta de valor percebido.
+
+129
+00:06:39,112 --> 00:06:41,352
+Eu coloco isso aqui porque quando a IA for pesquisar,
+
+130
+00:06:41,352 --> 00:06:43,852
+ela vai trazer esse framework e já facilita para a gente.
+
+131
+00:06:44,612 --> 00:06:50,432
+Terminando a oferta, vamos trabalhar na copy da nossa landing page.
+
+132
+00:06:51,900 --> 00:06:53,140
+Pronto. O que eu vou fazer agora?
+
+133
+00:06:53,380 --> 00:06:54,320
+Porque eu sei que vocês vão pedir.
+
+134
+00:06:54,440 --> 00:06:56,060
+Toma aí o prompt para vocês no chat.
+
+135
+00:06:56,340 --> 00:06:57,960
+Aqui vocês já sabem o projeto, né?
+
+136
+00:06:58,060 --> 00:06:58,660
+Briefing primeiro.
+
+137
+00:06:58,900 --> 00:07:01,360
+Depois do briefing, a gente não vai fazer PRD agora,
+
+138
+00:07:01,460 --> 00:07:02,920
+porque a gente não está criando o produto.
+
+139
+00:07:03,420 --> 00:07:06,300
+Depois do briefing, a gente vai fazer um...
+
+140
+00:07:07,676 --> 00:07:13,656
+A gente vai criar um documento que descreve quais são os agentes, skills e workflow necessário
+
+141
+00:07:13,656 --> 00:07:15,936
+para realizar toda essa pesquisa, tá bom?
+
+142
+00:07:16,076 --> 00:07:17,376
+Mas deixa ele terminar o briefing.
+
+143
+00:07:17,556 --> 00:07:20,156
+Enquanto ele está fazendo, a gente já está no modo acelerado aqui, ó.
+
+144
+00:07:20,316 --> 00:07:21,476
+Já fez, maravilha.
+
+145
+00:07:21,476 --> 00:07:22,256
+Vamos ver o briefing dele.
+
+146
+00:07:22,476 --> 00:07:24,976
+Tem que sempre dar uma lida aqui para ver se tem uma incoerência.
+
+147
+00:07:25,236 --> 00:07:26,056
+O que é o Overlens?
+
+148
+00:07:26,096 --> 00:07:28,876
+É uma plataforma de aprendizagem baseada em comunidade, onde o aluno aprende fazendo.
+
+149
+00:07:29,096 --> 00:07:30,996
+Não é uma área de membros, não é um conjunto de cursos.
+
+150
+00:07:31,096 --> 00:07:36,636
+É um ambiente onde você traz o seu projeto real e nossa IA mapeia os aprendizados e habilidades necessárias para executá-los.
+
+151
+00:07:36,636 --> 00:07:38,736
+Chamamos isso de aprendizado puxado por demanda.
+
+152
+00:07:38,876 --> 00:07:40,856
+O modelo educacional tradicional segue a lógica
+
+153
+00:07:40,856 --> 00:07:42,636
+aprende primeiro, aplica depois. A Overlens
+
+154
+00:07:42,636 --> 00:07:44,656
+inverte. Traga o que você quer fazer e nós mostramos
+
+155
+00:07:44,656 --> 00:07:46,056
+o que você precisa aprender pra fazer.
+
+156
+00:07:46,316 --> 00:07:48,736
+A IA da Overlens analisa o projeto do usuário e gera.
+
+157
+00:07:48,916 --> 00:07:50,656
+Os principais aprendizados, as habilidades
+
+158
+00:07:50,656 --> 00:07:52,676
+chaves, um caminho de execução. Modelo de
+
+159
+00:07:52,676 --> 00:07:54,676
+entrega, comunidade ativa, IA de mentora
+
+160
+00:07:54,676 --> 00:07:56,356
+do projeto, aprendizado just-in-time.
+
+161
+00:07:57,276 --> 00:07:58,676
+Visão do negócio, ser a principal
+
+162
+00:07:58,676 --> 00:08:00,396
+plataforma global de aprendizado orientado.
+
+163
+00:08:00,456 --> 00:08:02,556
+Gostei disso aqui, ó. O Claude
+
+164
+00:08:02,556 --> 00:08:04,496
+não quer saber, ele é ousado.
+
+165
+00:08:04,496 --> 00:08:06,216
+Tem que ter aqui ousadia.
+
+166
+00:08:06,216 --> 00:08:09,976
+principal plataforma global de aprendizado orientado por projeta.
+
+167
+00:08:10,036 --> 00:08:10,256
+Aí eu vi.
+
+168
+00:08:10,656 --> 00:08:11,736
+Premissas fundamentais.
+
+169
+00:08:11,756 --> 00:08:13,836
+Pessoas aprendem melhor quando tem motivação real.
+
+170
+00:08:13,916 --> 00:08:16,536
+A maioria dos cursos online tem taxa de conclusão abaixo de 10%.
+
+171
+00:08:16,536 --> 00:08:18,936
+E a generativa permite personalizar trilhas.
+
+172
+00:08:18,996 --> 00:08:21,736
+Comunidade cria accountability e acelera o resultado.
+
+173
+00:08:21,836 --> 00:08:23,596
+O mercado de educação está saturado.
+
+174
+00:08:23,796 --> 00:08:24,616
+Juan, o que é accountability?
+
+175
+00:08:24,856 --> 00:08:28,056
+Como é que eu faço para poder me familiarizar mais com o mundo dos negócios?
+
+176
+00:08:28,136 --> 00:08:29,936
+Eu vou mostrar um caminho para você continuar aprendendo.
+
+177
+00:08:30,456 --> 00:08:31,656
+Etapas de modelo de negócio.
+
+178
+00:08:31,876 --> 00:08:32,496
+Roadmap daily.
+
+179
+00:08:32,656 --> 00:08:33,056
+Briefing.
+
+180
+00:08:33,256 --> 00:08:34,076
+Pesquisa de mercado.
+
+181
+00:08:34,176 --> 00:08:34,836
+Tan Sansom.
+
+182
+00:08:34,896 --> 00:08:35,236
+ICP.
+
+183
+00:08:35,356 --> 00:08:35,816
+Tese de valor.
+
+184
+00:08:35,816 --> 00:08:37,916
+valor, oferta e copy. Isso aqui é o que
+
+185
+00:08:37,916 --> 00:08:39,696
+ele vai trabalhar aqui no nosso projeto, tá vendo?
+
+186
+00:08:40,076 --> 00:08:41,516
+É o que ele vai trabalhar. Então vamos lá.
+
+187
+00:08:42,036 --> 00:08:43,816
+Definições importantes. Aprendizado por chat
+
+188
+00:08:43,816 --> 00:08:46,036
+por demanda, comunidade de execução e ID de direcionamento.
+
+189
+00:08:46,216 --> 00:08:47,736
+O que é o Overlens? Não é.
+
+190
+00:08:47,796 --> 00:08:49,796
+Olha só que briefing completo. Não é uma área
+
+191
+00:08:49,796 --> 00:08:51,896
+de membros com videoaulas empilhadas, não é um marketplace
+
+192
+00:08:51,896 --> 00:08:54,056
+de cursos, não é um bootcamp com currículo,
+
+193
+00:08:54,196 --> 00:08:55,896
+não é uma ferramenta de gestão de projeto,
+
+194
+00:08:56,056 --> 00:08:57,576
+não é um coaching, mentoria um a um.
+
+195
+00:08:58,456 --> 00:08:59,756
+Próxima etapa, pesquisa.
+
+196
+00:08:59,816 --> 00:09:01,796
+Ele acha que a gente vai fazer a pesquisa aqui
+
+197
+00:09:01,796 --> 00:09:03,836
+agora, mas nós não vamos fazer a pesquisa.
+
+198
+00:09:03,836 --> 00:09:04,896
+Então, presta muita atenção.
+
+199
+00:09:05,216 --> 00:09:08,176
+Próximo passo, dá um clear aqui, porque ele já fez o documento.
+
+200
+00:09:08,476 --> 00:09:09,276
+Então, vamos lá.
+
+201
+00:09:10,696 --> 00:09:11,616
+Barra, clear.
+
+202
+00:09:12,296 --> 00:09:12,756
+Ótimo.
+
+203
+00:09:13,036 --> 00:09:14,236
+Janela de contexto zerada.
+
+204
+00:09:14,336 --> 00:09:15,276
+O que a gente vai fazer aqui agora?
+
+205
+00:09:15,636 --> 00:09:22,016
+Agora, vamos trabalhar em um documento especificando nosso time.
+
+206
+00:09:22,536 --> 00:09:25,776
+Chame este documento de workflow.
+
+207
+00:09:26,896 --> 00:09:32,616
+Nele, vamos apontar quais são os subagents necessários,
+
+208
+00:09:32,616 --> 00:09:39,536
+quais são as skills necessárias e qual será o fluxo de trabalho.
+
+209
+00:09:41,020 --> 00:09:42,540
+desses sub-agents
+
+210
+00:09:42,540 --> 00:09:44,360
+para executar
+
+211
+00:09:44,360 --> 00:09:45,400
+todo o projeto.
+
+212
+00:09:46,876 --> 00:09:48,876
+todo o projeto. Quero que seja
+
+213
+00:09:48,876 --> 00:09:50,956
+um projeto orquestrado.
+
+214
+00:09:51,016 --> 00:09:52,936
+Você será o
+
+215
+00:09:52,936 --> 00:09:54,536
+opa, tira esse caps lock aí.
+
+216
+00:09:54,596 --> 00:09:56,796
+Você será o líder
+
+217
+00:09:56,796 --> 00:09:58,416
+que delega
+
+218
+00:09:58,416 --> 00:10:00,956
+as tarefas para os outros
+
+219
+00:10:00,956 --> 00:10:02,676
+agentes. Mas, por enquanto,
+
+220
+00:10:03,616 --> 00:10:04,296
+não vamos
+
+221
+00:10:05,196 --> 00:10:06,756
+executar. Vamos
+
+222
+00:10:06,756 --> 00:10:07,896
+planejar
+
+223
+00:10:10,204 --> 00:10:12,204
+Planejar criando o workflow.
+
+224
+00:10:13,444 --> 00:10:14,524
+Então, ele vai só criar o workflow.
+
+225
+00:10:14,904 --> 00:10:23,744
+Utilize MIRMIND para termos os diagramas corretos de todo o projeto.
+
+226
+00:10:24,104 --> 00:10:25,724
+Uma sugestão...
+
+227
+00:10:26,748 --> 00:10:27,408
+Sai, sai, sai, sai, sai.
+
+228
+00:10:28,648 --> 00:10:30,888
+Uma sugestão é adicionar...
+
+229
+00:10:32,732 --> 00:10:33,692
+Um... manager?
+
+230
+00:10:35,228 --> 00:10:42,308
+do projeto e um QA, para verificar em cada fase se os agentes...
+
+231
+00:10:43,932 --> 00:10:45,952
+fizeram um bom projeto.
+
+232
+00:10:46,792 --> 00:10:49,132
+Aponte também no workflow
+
+233
+00:10:49,132 --> 00:10:56,132
+os critérios de cada etapa para uma execução.
+
+234
+00:10:57,436 --> 00:10:59,236
+primorosa. Enter.
+
+235
+00:10:59,596 --> 00:11:01,496
+Então, vou copiar isso aqui agora pra gente.
+
+236
+00:11:02,056 --> 00:11:03,516
+Copiei. Vou colocar
+
+237
+00:11:03,516 --> 00:11:04,996
+aqui pra vocês o prompt 2.
+
+238
+00:11:06,536 --> 00:11:07,056
+Documento,
+
+239
+00:11:07,056 --> 00:11:09,276
+prompt 2. Opa, vamos colocar
+
+240
+00:11:09,276 --> 00:11:10,656
+minúsculo aqui pra facilitar.
+
+241
+00:11:10,896 --> 00:11:13,396
+Tô mandando aqui no chat agora, presta atenção aí.
+
+242
+00:11:17,020 --> 00:11:18,880
+carregou, não, carregou não,
+
+243
+00:11:18,920 --> 00:11:21,040
+peraí, puxou errado. Ah, é, eu tenho
+
+244
+00:11:21,040 --> 00:11:23,040
+que colocar o prompt aqui, né? Salvei o prompt,
+
+245
+00:11:23,980 --> 00:11:24,620
+jogando aí agora,
+
+246
+00:11:25,620 --> 00:11:26,900
+subindo pra vocês. Acabou de subir aí,
+
+247
+00:11:26,960 --> 00:11:28,340
+baixem aí o segundo documento.
+
+248
+00:11:28,680 --> 00:11:30,720
+Agora ele tá trabalhando pra gente no
+
+249
+00:11:30,720 --> 00:11:32,900
+workflow. Enquanto ele tá
+
+250
+00:11:32,900 --> 00:11:35,020
+trabalhando no workflow, deixa eu mostrar o que a gente
+
+251
+00:11:35,020 --> 00:11:36,480
+fez na vanguarda, tá? Pra vocês
+
+252
+00:11:36,820 --> 00:11:38,820
+com um estúdio. Então a gente tem aqui,
+
+253
+00:11:38,940 --> 00:11:40,180
+ó, o arquivo certinho,
+
+254
+00:11:41,000 --> 00:11:42,100
+Agents, Commands, Skills.
+
+255
+00:11:42,680 --> 00:11:44,800
+Quais são os nossos agents? Eu vou fazer o seguinte,
+
+256
+00:11:44,920 --> 00:11:46,380
+eu vou abrir um outro anti-gravity aqui,
+
+257
+00:11:46,380 --> 00:11:47,940
+só pra mostrar isso pra vocês.
+
+258
+00:11:49,692 --> 00:11:50,892
+abrindo um outro aqui agora,
+
+259
+00:11:51,672 --> 00:11:52,492
+área de trabalho,
+
+260
+00:11:52,692 --> 00:11:53,612
+e vou pegar aqui, ó,
+
+261
+00:11:53,632 --> 00:11:54,692
+Estúdio Vanguarda, tá bom?
+
+262
+00:11:54,952 --> 00:11:56,012
+Então, esse aqui foi um projeto
+
+263
+00:11:56,012 --> 00:11:57,892
+que a gente fez de orquestração de agentes
+
+264
+00:11:57,892 --> 00:11:59,252
+e ele construiu pra gente,
+
+265
+00:11:59,312 --> 00:12:00,472
+olha só o que ele construiu, tá?
+
+266
+00:12:00,512 --> 00:12:01,332
+Pra vocês verem, ó,
+
+267
+00:12:01,372 --> 00:12:05,532
+ICP, Missões, Direcionamento e Mercado.
+
+268
+00:12:05,712 --> 00:12:07,152
+Deixa eu só ver se o outro terminou,
+
+269
+00:12:07,192 --> 00:12:08,612
+que eu vou mostrar isso aqui tudo pra vocês.
+
+270
+00:12:09,292 --> 00:12:10,512
+Tá trabalhando aqui de boa,
+
+271
+00:12:10,612 --> 00:12:11,592
+deixa ele trabalhando aí.
+
+272
+00:12:11,672 --> 00:12:12,632
+Vamos dar uma olhada, então,
+
+273
+00:12:12,732 --> 00:12:14,072
+no que a gente conseguiu fazer.
+
+274
+00:12:14,112 --> 00:12:15,472
+A gente até coletou leads, hein?
+
+275
+00:12:15,552 --> 00:12:16,732
+A gente já até coletou leads.
+
+276
+00:12:17,932 --> 00:12:18,612
+Mas, basicamente,
+
+277
+00:12:18,612 --> 00:12:20,492
+Vamos começar aqui dos agentes.
+
+278
+00:12:20,952 --> 00:12:23,232
+Então, nós temos um agente de definição de CP,
+
+279
+00:12:23,412 --> 00:12:24,912
+olha o tamanho do agente que a gente criou.
+
+280
+00:12:25,572 --> 00:12:27,112
+Esse agente ficou muito bom,
+
+281
+00:12:27,172 --> 00:12:30,272
+porque ele foi direcionado com a metodologia de negócios da vanguarda.
+
+282
+00:12:30,752 --> 00:12:31,112
+Beleza?
+
+283
+00:12:31,492 --> 00:12:32,512
+Como ele é da vanguarda,
+
+284
+00:12:32,512 --> 00:12:34,432
+eu não vou compartilhar esses agentes aqui com vocês,
+
+285
+00:12:34,532 --> 00:12:35,292
+mas eu quero mostrar,
+
+286
+00:12:35,392 --> 00:12:37,792
+porque dá para vocês criarem coisas incríveis aqui dentro.
+
+287
+00:12:38,112 --> 00:12:39,872
+Então, a gente tem o de definição de CP,
+
+288
+00:12:40,052 --> 00:12:41,792
+o de direção estratégica,
+
+289
+00:12:41,792 --> 00:12:44,432
+olha o tamanho aqui do agente de direção estratégica,
+
+290
+00:12:44,452 --> 00:12:45,272
+o bicho ficou grande.
+
+291
+00:12:45,672 --> 00:12:48,132
+Eu vou mostrar o workflow do que eles fazem aqui já já,
+
+292
+00:12:48,132 --> 00:12:49,772
+Já vai ficar mais visual, tá? Prometo.
+
+293
+00:12:49,772 --> 00:12:52,512
+Só dando uma visão geral enquanto os agentes trabalham ali.
+
+294
+00:12:53,012 --> 00:12:55,792
+Esse é o de Ima de Problemas, também, bem construído.
+
+295
+00:12:56,012 --> 00:12:58,552
+Nós temos o Maestro. O Maestro, ele é o líder.
+
+296
+00:12:58,672 --> 00:13:01,912
+Ele que delega pros outros agentes cada momento que eles precisam fazer.
+
+297
+00:13:02,132 --> 00:13:05,272
+Ele é o orquestrador central do projeto que a gente construiu aqui.
+
+298
+00:13:05,412 --> 00:13:08,172
+Que, no caso, era uma agência chamada Froneses, beleza?
+
+299
+00:13:08,912 --> 00:13:10,792
+Mapa de Mercados. Isso é só o agente.
+
+300
+00:13:10,812 --> 00:13:13,072
+Tô mostrando os arquivos dos agentes pra vocês verem.
+
+301
+00:13:13,192 --> 00:13:15,672
+Olha o de Mapa de Mercados. Olha o tamanho do bicho, cara.
+
+302
+00:13:15,672 --> 00:13:16,992
+O bicho ficou gigante.
+
+303
+00:13:16,992 --> 00:13:18,432
+Vocês vão ver o resultado disso aqui, tá?
+
+304
+00:13:18,872 --> 00:13:20,692
+A gente tem o de motor moral também.
+
+305
+00:13:21,332 --> 00:13:22,132
+Muito importante.
+
+306
+00:13:22,412 --> 00:13:24,352
+A gente tem um conceito de motor moral
+
+307
+00:13:24,352 --> 00:13:26,032
+que se der tempo eu explico pra vocês depois.
+
+308
+00:13:26,312 --> 00:13:29,232
+O de oferta, esse aqui é o mais bizarro, tá?
+
+309
+00:13:29,412 --> 00:13:31,532
+Olha o tamanho do agente de oferta, galera.
+
+310
+00:13:31,892 --> 00:13:32,512
+Olha isso aqui.
+
+311
+00:13:34,940 --> 00:13:36,000
+Para construção de oferta.
+
+312
+00:13:36,560 --> 00:13:39,760
+O bicho ficou muito brabo, muito brabo.
+
+313
+00:13:39,940 --> 00:13:41,280
+E ele ficou excelente, tá?
+
+314
+00:13:41,520 --> 00:13:45,620
+E o de tese de valor, que ele define a tese de valor do negócio, tá bom?
+
+315
+00:13:45,960 --> 00:13:48,220
+Com isso aqui, o que a gente fez?
+
+316
+00:13:48,380 --> 00:13:51,400
+Eu vou deixar aqui, olha, primeiro, para vocês verem o de mapa de mercado.
+
+317
+00:13:51,620 --> 00:13:54,700
+A gente já vai voltar para falar, olha, definiu todo o mapa de mercado.
+
+318
+00:13:54,920 --> 00:13:55,980
+Eu vou mostrar isso aqui, tá?
+
+319
+00:13:56,020 --> 00:13:58,480
+Eu só estou passando rápido para poder mostrar para vocês.
+
+320
+00:13:58,880 --> 00:14:00,480
+E eu já volto para cá para explicar.
+
+321
+00:14:00,600 --> 00:14:03,580
+Vamos só certificar que o nosso agente está trabalhando aqui.
+
+322
+00:14:03,580 --> 00:14:06,120
+Como ele acabou, deixa eu voltar aqui para o projeto.
+
+323
+00:14:06,400 --> 00:14:08,400
+Eu só estava mostrando ali alguns agentes
+
+324
+00:14:08,400 --> 00:14:09,760
+que a gente criou lá na vanguarda.
+
+325
+00:14:10,180 --> 00:14:11,960
+Voltando aqui, então, ele fez nosso workflow.
+
+326
+00:14:12,300 --> 00:14:13,720
+Vamos dar uma olhada no nosso workflow?
+
+327
+00:14:14,540 --> 00:14:15,580
+Então, puxa para cá.
+
+328
+00:14:17,052 --> 00:14:18,952
+Olha o nível do workflow que o bicho fez.
+
+329
+00:14:19,232 --> 00:14:21,492
+Esse documento define o time de agentes,
+
+330
+00:14:21,592 --> 00:14:23,452
+o fluxo de trabalho e os critérios de qualidade
+
+331
+00:14:23,452 --> 00:14:26,512
+para executar todas as etapas do modelo de negócio da Overlens.
+
+332
+00:14:26,632 --> 00:14:29,832
+A orquestração segue o modelo de delegação com verificação.
+
+333
+00:14:29,912 --> 00:14:32,512
+Ou seja, o líder utiliza a Opus.
+
+334
+00:14:32,612 --> 00:14:34,712
+Aqui, a galera que estava perguntando qual modelo utiliza.
+
+335
+00:14:35,132 --> 00:14:36,812
+Só o líder que utiliza a Opus.
+
+336
+00:14:36,912 --> 00:14:39,112
+Os outros, dependendo, a maioria vai usar a Sony.
+
+337
+00:14:39,632 --> 00:14:42,192
+O PM acompanha, que é o Product Manager,
+
+338
+00:14:42,412 --> 00:14:45,252
+e os especialistas executam enquanto o QA valida.
+
+339
+00:14:45,252 --> 00:14:46,792
+QA significa Quality Analysis,
+
+340
+00:14:47,092 --> 00:14:50,572
+é o cara que analisa a qualidade de cada entrega dos agentes.
+
+341
+00:14:50,852 --> 00:14:53,412
+Então, olha a arquitetura do time que a gente montou aqui
+
+342
+00:14:53,412 --> 00:14:55,352
+com dois prompts que eu mandei para vocês.
+
+343
+00:14:56,052 --> 00:14:56,612
+Caraca, hein?
+
+344
+00:14:57,432 --> 00:14:59,532
+Líder orquestrador, é o CloudOpus aqui,
+
+345
+00:14:59,652 --> 00:15:00,852
+delega, decide e aprova.
+
+346
+00:15:01,172 --> 00:15:03,292
+Abaixo dele, a gente tem o Project Manager,
+
+347
+00:15:03,472 --> 00:15:06,132
+que vai controlar fluxos, dependências e critérios de aceite.
+
+348
+00:15:06,412 --> 00:15:10,252
+E aqui a gente tem o QA, do lado do Project Manager aqui,
+
+349
+00:15:10,352 --> 00:15:12,332
+que ele foca mais no review ali
+
+350
+00:15:12,332 --> 00:15:14,872
+para validar cada entrega de cada agente.
+
+351
+00:15:15,252 --> 00:15:17,472
+E embaixo a gente tem os agentes executores.
+
+352
+00:15:17,572 --> 00:15:19,612
+Então a gente tem o pesquisador de mercado,
+
+353
+00:15:19,812 --> 00:15:22,232
+que faz pesquisa na web, análise competitiva.
+
+354
+00:15:22,292 --> 00:15:24,232
+A gente tem o analista estratégico,
+
+355
+00:15:24,232 --> 00:15:26,472
+que define tan, san, son, problemas e dados.
+
+356
+00:15:27,392 --> 00:15:28,952
+Especialista em perfil de áudio cliente,
+
+357
+00:15:28,952 --> 00:15:30,232
+que define o perfil de áudio cliente.
+
+358
+00:15:30,752 --> 00:15:33,292
+Estrategista de valor, que define tese de valor e posicionamento.
+
+359
+00:15:33,912 --> 00:15:36,932
+Arquiteto de oferta, que define os frameworks baseado em hormosa,
+
+360
+00:15:36,972 --> 00:15:38,032
+inclusive precificação.
+
+361
+00:15:38,152 --> 00:15:41,312
+E um copywriter que vai cuidar aqui do texto da nossa página,
+
+362
+00:15:41,352 --> 00:15:42,172
+que a gente vai fazer depois.
+
+363
+00:15:42,552 --> 00:15:43,312
+Esse é o time.
+
+364
+00:15:43,552 --> 00:15:44,792
+A gente montou o time aqui.
+
+365
+00:15:44,792 --> 00:15:47,512
+Estou vendo os overs, só over, over aí no chat.
+
+366
+00:15:47,772 --> 00:15:49,812
+A gente montou um time com dois prontos.
+
+367
+00:15:50,092 --> 00:15:50,672
+Bizarro, né?
+
+368
+00:15:50,772 --> 00:15:51,832
+Vamos seguir aqui então.
+
+369
+00:15:52,392 --> 00:15:55,392
+Abaixo ele detalha um pouquinho mais cada um dos agentes.
+
+370
+00:15:55,532 --> 00:15:58,652
+Então tem aqui um pouco do orquestrador, o papel dele,
+
+371
+00:15:58,872 --> 00:16:01,332
+tipo de agente, responsabilidade, o que ele não faz.
+
+372
+00:16:01,532 --> 00:16:03,512
+Cada um desses ele já separou para a gente.
+
+373
+00:16:03,772 --> 00:16:07,692
+Project Manager, KR Reviewer, Pesquisador do Mercado,
+
+374
+00:16:07,852 --> 00:16:11,232
+Analista Estratégico, Analista em CP, Estrategista de Valor,
+
+375
+00:16:11,372 --> 00:16:12,872
+Arquiteto de Oferta e o Copywriter.
+
+376
+00:16:13,612 --> 00:16:16,872
+Depois disso, ele criou aqui para a gente o fluxo de execução.
+
+377
+00:16:16,972 --> 00:16:20,032
+Mas aqui, o negócio vai ficar louco.
+
+378
+00:16:20,092 --> 00:16:22,972
+Então, calma aqui comigo que agora vai ficar interessante.
+
+379
+00:16:23,432 --> 00:16:25,652
+Olha o tamanho do que ele construiu aqui.
+
+380
+00:16:26,452 --> 00:16:27,372
+Todas as fases.
+
+381
+00:16:27,492 --> 00:16:29,432
+Vamos seguir aqui para vocês entenderem.
+
+382
+00:16:29,472 --> 00:16:30,992
+Vou até aumentar aqui para facilitar.
+
+383
+00:16:33,564 --> 00:16:34,064
+Eu quero aumentar.
+
+384
+00:16:35,964 --> 00:16:38,764
+Ele não está deixando aumentar mais não, mas dá para eu poder puxar para cá.
+
+385
+00:16:39,144 --> 00:16:40,444
+Então vamos dar uma olhada aqui.
+
+386
+00:16:41,724 --> 00:16:43,744
+Que zoom ruim aí. Primeiro a gente
+
+387
+00:16:43,744 --> 00:16:45,204
+teve o briefing. Foca aqui.
+
+388
+00:16:45,364 --> 00:16:47,104
+Os agentes ainda não estão trabalhando. A gente
+
+389
+00:16:47,104 --> 00:16:49,544
+criou o plano de trabalho deles. A gente nem
+
+390
+00:16:49,544 --> 00:16:51,564
+criou o agente ainda, tá? A gente criou
+
+391
+00:16:51,564 --> 00:16:53,444
+aqui o plano pro
+
+392
+00:16:53,444 --> 00:16:55,484
+Cloud criar os agentes pra gente. Mas
+
+393
+00:16:55,484 --> 00:16:57,424
+presta muita atenção. O briefing
+
+394
+00:16:57,424 --> 00:16:59,584
+a gente já fez. Do briefing ele vai
+
+395
+00:16:59,584 --> 00:17:01,544
+entrar na fase 2. Na fase 2
+
+396
+00:17:01,544 --> 00:17:03,664
+o PM monta o prompt com o contexto
+
+397
+00:17:03,664 --> 00:17:05,264
+de briefing. O pesquisador
+
+398
+00:17:05,264 --> 00:17:07,384
+executa a pesquisa global, o que
+
+399
+00:17:07,384 --> 00:17:09,444
+avalida a pesquisa com critérios.
+
+400
+00:17:09,504 --> 00:17:11,464
+Se reprovou, o que é a volta
+
+401
+00:17:11,464 --> 00:17:13,704
+Volta para o pesquisador fazer a pesquisa de novo.
+
+402
+00:17:13,784 --> 00:17:15,084
+Tem que passar nos critérios.
+
+403
+00:17:15,384 --> 00:17:17,164
+Passou nos critérios, aprovado.
+
+404
+00:17:17,264 --> 00:17:18,264
+Vai para a fase 3.
+
+405
+00:17:18,464 --> 00:17:19,884
+Tan Sanson, tamanho de mercado.
+
+406
+00:17:20,224 --> 00:17:22,604
+PM monta o prompt com briefing mais pesquisa.
+
+407
+00:17:22,664 --> 00:17:26,264
+O analista executa o dimensionamento desse mercado.
+
+408
+00:17:26,564 --> 00:17:28,284
+QA valida os critérios.
+
+409
+00:17:28,324 --> 00:17:31,584
+Se o QA reprovar, volta de novo para o analista.
+
+410
+00:17:31,724 --> 00:17:34,724
+Aqui a gente está usando um QA só para tudo.
+
+411
+00:17:34,924 --> 00:17:36,384
+Não é a melhor prática, tá?
+
+412
+00:17:36,524 --> 00:17:38,464
+Mas para a gente ser rápido, a gente vai usar um QA para tudo.
+
+413
+00:17:38,464 --> 00:17:41,724
+O ideal é que você tenha um QA para cada fase também.
+
+414
+00:17:41,924 --> 00:17:44,564
+Um QA especialista em mercado, um QA especialista em CP,
+
+415
+00:17:44,764 --> 00:17:46,464
+um QA especialista em tese de valor,
+
+416
+00:17:46,704 --> 00:17:49,424
+um QA especialista em oferta, um QA especialista em copy.
+
+417
+00:17:49,624 --> 00:17:51,144
+Que aí o negócio vai ficar brutal.
+
+418
+00:17:51,444 --> 00:17:53,844
+Mas aqui, para ser mais rápido, a gente vai usar um QA só.
+
+419
+00:17:54,644 --> 00:17:57,964
+QA aprovou, vai para a fase 4, perfil ideal de cliente.
+
+420
+00:17:57,984 --> 00:18:00,324
+PM monta o prompt com todos os insumos.
+
+421
+00:18:00,784 --> 00:18:02,024
+Especialista constrói o perfil.
+
+422
+00:18:02,184 --> 00:18:03,464
+QA avalia dos critérios.
+
+423
+00:18:03,544 --> 00:18:05,344
+Se reprovar, volta para o especialista.
+
+424
+00:18:05,444 --> 00:18:07,784
+Se der tudo certo, aprova e vai para a fase 5.
+
+425
+00:18:07,784 --> 00:18:10,124
+tese de valor, PM monta o prompt
+
+426
+00:18:10,124 --> 00:18:12,224
+com ICP mais problemas, estrategista
+
+427
+00:18:12,224 --> 00:18:14,124
+define a tese, QA avalida os
+
+428
+00:18:14,124 --> 00:18:16,404
+critérios, reprovado, volta pro estrategista
+
+429
+00:18:16,404 --> 00:18:18,164
+ele tem que fazer direito, aprovado
+
+430
+00:18:18,164 --> 00:18:20,144
+vai pra fase 6, olha o tanto de gente
+
+431
+00:18:20,144 --> 00:18:21,764
+trabalhando aqui, PM
+
+432
+00:18:21,764 --> 00:18:24,064
+monta o prompt com a tese mais ICP
+
+433
+00:18:24,584 --> 00:18:25,964
+arquiteto monta a oferta
+
+434
+00:18:25,964 --> 00:18:28,404
+QA avalida a oferta, se reprovou
+
+435
+00:18:28,404 --> 00:18:30,404
+volta pro QA, se deu certo avança
+
+436
+00:18:30,404 --> 00:18:31,444
+pra aprovado
+
+437
+00:18:31,444 --> 00:18:34,104
+landing page, PM monta o prompt
+
+438
+00:18:34,104 --> 00:18:36,184
+com toda a base, copywriter escreve
+
+439
+00:18:36,184 --> 00:18:37,884
+a copy, que é a valida. Copy
+
+440
+00:18:37,884 --> 00:18:39,764
+deu certo, avança. Não deu certo, volta
+
+441
+00:18:39,764 --> 00:18:41,324
+para o copywriter. Entrega final.
+
+442
+00:18:41,624 --> 00:18:43,884
+Eu poderia, inclusive, já colocar um
+
+443
+00:18:43,884 --> 00:18:45,964
+designer aqui também para já fazer a página.
+
+444
+00:18:46,204 --> 00:18:48,044
+Acho que vai ser até interessante para a gente
+
+445
+00:18:48,044 --> 00:18:50,064
+visualizar esse primeiro passo. Só que
+
+446
+00:18:50,064 --> 00:18:51,944
+ele vai fazer uma página que não vai ser
+
+447
+00:18:51,944 --> 00:18:53,924
+tão boa assim. Vai ser melhor a gente trabalhar
+
+448
+00:18:53,924 --> 00:18:55,744
+isso depois lá no final. Tá bom? Então
+
+449
+00:18:55,744 --> 00:18:58,024
+não vou colocar o designer aqui, mas se vocês
+
+450
+00:18:58,024 --> 00:18:59,944
+quiserem testar depois, dá para colocar
+
+451
+00:18:59,944 --> 00:19:00,584
+o designer também.
+
+452
+00:19:01,544 --> 00:19:03,784
+Uma vez que nós terminamos aqui, então, esse é o
+
+453
+00:19:03,784 --> 00:19:05,924
+fluxo de execução, vamos dar uma
+
+454
+00:19:05,924 --> 00:19:07,504
+uma olhada aqui, esse é um documento bem completo.
+
+455
+00:19:08,004 --> 00:19:09,704
+Esse é o ciclo de cada fase.
+
+456
+00:19:10,004 --> 00:19:11,844
+Então aqui está mostrando quando que a tarefa
+
+457
+00:19:11,844 --> 00:19:13,784
+fica indo e voltando. Então começa no
+
+458
+00:19:13,784 --> 00:19:15,584
+líder, vai para o project, volta para o líder,
+
+459
+00:19:15,704 --> 00:19:18,064
+vai para o project, vai para o executor,
+
+460
+00:19:18,084 --> 00:19:19,504
+volta para o project, aí
+
+461
+00:19:19,924 --> 00:19:21,804
+volta para o QA. Isso aqui é
+
+462
+00:19:21,804 --> 00:19:23,884
+uma tabelinha um pouquinho mais chatinha
+
+463
+00:19:23,884 --> 00:19:25,944
+de aprender, mas é simples. Líder,
+
+464
+00:19:26,404 --> 00:19:27,544
+manda para o project manager,
+
+465
+00:19:28,444 --> 00:19:29,864
+volta, lê o documento,
+
+466
+00:19:29,864 --> 00:19:32,124
+monta o prompt, manda para o executor,
+
+467
+00:19:32,524 --> 00:19:34,184
+volta para a análise, entrega
+
+468
+00:19:34,184 --> 00:19:35,744
+o documento, envia para o QA.
+
+469
+00:19:36,684 --> 00:19:39,284
+Avalia, volta aprovado ou refaz.
+
+470
+00:19:39,484 --> 00:19:41,264
+É um pouquinho difícil de ler no início,
+
+471
+00:19:41,364 --> 00:19:44,784
+mas depois que você acostuma, é só um diagrama de ciclos, tá?
+
+472
+00:19:45,084 --> 00:19:45,764
+Bem fácil.
+
+473
+00:19:46,324 --> 00:19:50,284
+Aqui agora ele definiu os critérios de aceite de cada uma das fases.
+
+474
+00:19:50,384 --> 00:19:52,364
+Então tá tudo definido aqui os critérios de aceite.
+
+475
+00:19:52,544 --> 00:19:54,524
+E vem aqui o mapa de dependências.
+
+476
+00:19:54,924 --> 00:19:57,484
+Pra que que serve esse mapa de dependências, tá?
+
+477
+00:19:58,972 --> 00:20:01,372
+existem tarefas que dependem de outras tarefas.
+
+478
+00:20:01,432 --> 00:20:02,472
+Então, aqui a gente tem o briefing,
+
+479
+00:20:02,632 --> 00:20:05,012
+aí faz a pesquisa do mercado e faz o Tansanson.
+
+480
+00:20:05,152 --> 00:20:07,512
+Só que do briefing já pode ir para o Tansanson,
+
+481
+00:20:07,552 --> 00:20:09,892
+não precisa esperar a pesquisa de mercado para fazer Tansanson.
+
+482
+00:20:09,932 --> 00:20:12,572
+Ele está dando essa ideia que dá para complementar depois.
+
+483
+00:20:12,712 --> 00:20:14,152
+Tem uma certa dependência aqui.
+
+484
+00:20:14,452 --> 00:20:16,792
+Depois disso, pega esses dois e leva para o ICP,
+
+485
+00:20:16,912 --> 00:20:19,632
+depois pega o ICP e Tansanson para fazer tese de valor,
+
+486
+00:20:19,852 --> 00:20:23,312
+depois pega tese de valor e ICP para fazer oferta,
+
+487
+00:20:23,332 --> 00:20:26,712
+depois pega oferta, tese de valor e ICP para fazer a landing page.
+
+488
+00:20:26,832 --> 00:20:27,452
+Entendeu a lógica?
+
+489
+00:20:27,452 --> 00:20:31,192
+é cada parte, o quanto que elas dependem de outras partes.
+
+490
+00:20:31,592 --> 00:20:34,772
+Olha tudo que a IA orquestrou, isso é o poder dos agentes, tá?
+
+491
+00:20:35,452 --> 00:20:39,472
+Protocolo de execução, aí tem aqui cada fase, o que cada um deles vai fazer,
+
+492
+00:20:39,592 --> 00:20:41,652
+pra gente avançar eu não vou ficar lendo tudo aqui não,
+
+493
+00:20:41,772 --> 00:20:44,992
+mas basicamente é como cada etapa vai ser executada aqui,
+
+494
+00:20:45,092 --> 00:20:48,832
+são protocolos de quando volta pra cada um dos agentes mais importantes.
+
+495
+00:20:49,712 --> 00:20:51,392
+Estimativa de agente por partes, né?
+
+496
+00:20:51,452 --> 00:20:54,272
+Então aqui a gente tem alguns lançamentos estimados,
+
+497
+00:20:54,292 --> 00:20:55,892
+quantas páginas cada um vão fazer.
+
+498
+00:20:55,892 --> 00:20:59,692
+Então são nove papéis únicos com 28 lançamentos dentro desses papéis.
+
+499
+00:21:01,084 --> 00:21:02,484
+Aí aqui a gente tem o comando inicial,
+
+500
+00:21:03,284 --> 00:21:05,124
+só que a gente não vai seguir esse comando ainda,
+
+501
+00:21:05,264 --> 00:21:06,684
+porque nós não temos os agentes.
+
+502
+00:21:07,464 --> 00:21:07,784
+Beleza?
+
+503
+00:21:08,064 --> 00:21:09,964
+Então vamos agora fazer a próxima parte.
+
+504
+00:21:10,744 --> 00:21:13,324
+Uma vez que a gente tem esse workflow todo montado,
+
+505
+00:21:13,424 --> 00:21:15,464
+agora a gente vai dar um clear aqui de novo.
+
+506
+00:21:16,044 --> 00:21:17,584
+Então deixa eu dar um clear nele.
+
+507
+00:21:17,824 --> 00:21:20,004
+Caraca, a gente dá o clear, eu acho que mudou o cloud, né?
+
+508
+00:21:20,564 --> 00:21:22,184
+Porque eu não quero ficar abrindo aqui toda hora
+
+509
+00:21:22,684 --> 00:21:24,664
+Dangerously, Skip Permissions, pô.
+
+510
+00:21:25,224 --> 00:21:27,644
+Agora a gente vai pedir para ele criar os agentes e as skills.
+
+511
+00:21:27,804 --> 00:21:28,984
+Então eu vou falar o seguinte com ele.
+
+512
+00:21:28,984 --> 00:21:40,404
+Agora que temos o, vou puxar o workflow para cá, preciso que crie os sub-agents e skills necessárias para o projeto.
+
+513
+00:21:41,524 --> 00:21:45,924
+Utilize a documentação do Cloud Code.
+
+514
+00:21:46,264 --> 00:21:51,024
+Aí eu vou vir aqui, pegar a documentação do Cloud Code, deixa eu pegar ela certinho para vocês.
+
+515
+00:21:51,924 --> 00:21:53,244
+Cloud Code.
+
+516
+00:21:54,876 --> 00:21:55,556
+Cadê, cadê, cadê?
+
+517
+00:21:56,076 --> 00:21:56,736
+Aqui, ó.
+
+518
+00:21:58,652 --> 00:22:00,872
+Vocês não estão vendo, mas eu vou só pegar o link dela para a gente.
+
+519
+00:22:00,972 --> 00:22:04,172
+Pega a documentação do Cloud Code, cola aqui e manda ele trabalhar de novo.
+
+520
+00:22:04,792 --> 00:22:06,752
+Esse prompt é simples, esse eu não vou mandar aí não.
+
+521
+00:22:06,892 --> 00:22:08,432
+Só falei para ele, baseado no workflow,
+
+522
+00:22:08,932 --> 00:22:11,832
+crie os agentes e as skills usando a documentação do Cloud Code.
+
+523
+00:22:12,012 --> 00:22:13,272
+Pelo menos isso vocês têm que decorar,
+
+524
+00:22:13,272 --> 00:22:14,692
+têm que aprender a fazer algumas coisas, beleza?
+
+525
+00:22:15,412 --> 00:22:16,052
+Então, maravilha.
+
+526
+00:22:16,112 --> 00:22:18,152
+Deixa ele executar aqui agora para a gente.
+
+527
+00:22:18,312 --> 00:22:19,832
+Pronto, ele terminou aqui para a gente.
+
+528
+00:22:20,092 --> 00:22:22,432
+Vamos voltar, foco aqui, foco de volta comigo.
+
+529
+00:22:22,532 --> 00:22:23,532
+Vamos ver o que ele fez aqui.
+
+530
+00:22:24,472 --> 00:22:25,752
+Vamos ler a explicação dele.
+
+531
+00:22:25,752 --> 00:22:27,572
+ele, ó. Tudo criado, aqui
+
+532
+00:22:27,572 --> 00:22:29,892
+está o resumo da infraestrutura. Estrutura criada
+
+533
+00:22:29,892 --> 00:22:31,632
+e subagents. Ele criou um PM,
+
+534
+00:22:31,792 --> 00:22:33,892
+um QA, pesquisador, analista, ICP, estrategista,
+
+535
+00:22:33,912 --> 00:22:35,772
+arquiteto e copywriter. Esses são todos
+
+536
+00:22:35,772 --> 00:22:37,692
+que ele vai trabalhar. No caso, o PM
+
+537
+00:22:37,692 --> 00:22:39,632
+ele colocou o SONET. Em todos os outros
+
+538
+00:22:39,632 --> 00:22:41,192
+do meu ele colocou OPS. Então ele vai
+
+539
+00:22:41,772 --> 00:22:43,752
+estralar meus tokens aqui. A vantagem é
+
+540
+00:22:43,752 --> 00:22:45,652
+que eu tenho muito token. Ele não vai
+
+541
+00:22:45,652 --> 00:22:46,852
+acabar com os nossos tokens aqui.
+
+542
+00:22:47,312 --> 00:22:48,912
+Depois, quatro slash commands.
+
+543
+00:22:49,312 --> 00:22:51,552
+O que são slash commands? São comandos rápidos.
+
+544
+00:22:51,632 --> 00:22:53,552
+Rápidos que eu digito a
+
+545
+00:22:53,552 --> 00:22:55,572
+barra slash, né? Essa barrinha
+
+546
+00:22:55,572 --> 00:22:57,092
+lateral, essa barrinha aqui
+
+547
+00:22:57,092 --> 00:22:59,592
+se chama slash, por isso que é slash command
+
+548
+00:22:59,592 --> 00:23:01,712
+eu digito e ele executa rápido pra gente
+
+549
+00:23:01,712 --> 00:23:03,612
+tá bom? Beleza
+
+550
+00:23:03,612 --> 00:23:05,252
+então ele criou commands e criou
+
+551
+00:23:05,252 --> 00:23:07,592
+os subagents, eu vou perguntar pra ele o seguinte
+
+552
+00:23:07,592 --> 00:23:09,392
+não precisamos criar
+
+553
+00:23:09,392 --> 00:23:11,112
+também as skills
+
+554
+00:23:12,372 --> 00:23:14,132
+baseado na documentação
+
+555
+00:23:14,132 --> 00:23:15,652
+do cloud?
+
+556
+00:23:17,276 --> 00:23:18,656
+Só para ver o que ele vai me responder.
+
+557
+00:23:21,084 --> 00:23:21,484
+Beleza?
+
+558
+00:23:23,804 --> 00:23:29,204
+PM é Project Manager, ou Product Manager, dependendo do caso aí.
+
+559
+00:23:29,364 --> 00:23:31,464
+No nosso caso aqui é um Project Manager.
+
+560
+00:23:34,172 --> 00:23:35,952
+Vamos lá. Ele não trouxe as skills,
+
+561
+00:23:36,112 --> 00:23:37,992
+mas a gente precisa delas. Aí, ó, boa
+
+562
+00:23:37,992 --> 00:23:39,972
+observação. Skills são
+
+563
+00:23:39,972 --> 00:23:42,052
+um formato moderno. É isso aí, é isso
+
+564
+00:23:42,052 --> 00:23:43,832
+que eu quero. É isso que eu quero, Cloud.
+
+565
+00:23:44,072 --> 00:23:45,232
+Quero as skills, cara.
+
+566
+00:23:45,992 --> 00:23:47,332
+Deixa ele trabalhar aqui nas skills.
+
+567
+00:23:47,972 --> 00:23:50,072
+Ele ainda não criou o CloudMD. A gente não
+
+568
+00:23:50,072 --> 00:23:52,352
+criou. Olha aqui. Ah, o meu ele criou, safado.
+
+569
+00:23:52,472 --> 00:23:54,052
+Ele criou, mas
+
+570
+00:23:54,052 --> 00:23:56,052
+eu não pedi. Às vezes ele tem essa autonomia aí,
+
+571
+00:23:56,072 --> 00:23:58,112
+mas o que vocês fazem? Não precisa
+
+572
+00:23:58,112 --> 00:24:00,012
+criar ainda. Depois que ele terminar as skills,
+
+573
+00:24:00,092 --> 00:24:01,892
+a gente vai dar um barra init. Aí ele cria
+
+574
+00:24:01,892 --> 00:24:03,652
+o Cloud, tá? No caso aqui, o meu ele já
+
+575
+00:24:03,652 --> 00:24:05,392
+já criou aqui de uma vez,
+
+576
+00:24:05,552 --> 00:24:07,372
+porque ele seguiu a documentação.
+
+577
+00:24:07,692 --> 00:24:08,072
+Danado.
+
+578
+00:24:08,352 --> 00:24:09,692
+Mas tá bom, não tem problema não.
+
+579
+00:24:09,892 --> 00:24:11,352
+Ó, a gente fez o briefing,
+
+580
+00:24:11,772 --> 00:24:13,212
+mandei o prompt aí pra vocês.
+
+581
+00:24:13,612 --> 00:24:15,152
+O briefing explicou o projeto.
+
+582
+00:24:15,732 --> 00:24:16,912
+Depois de explicar o projeto,
+
+583
+00:24:17,392 --> 00:24:18,492
+a gente montou o workflow,
+
+584
+00:24:18,812 --> 00:24:19,672
+que é esse que tá aqui, ó.
+
+585
+00:24:19,832 --> 00:24:22,312
+O workflow é um documento de planejamento.
+
+586
+00:24:22,452 --> 00:24:24,452
+Ele serve pra gente planejar junto com a IA
+
+587
+00:24:25,132 --> 00:24:27,592
+quais são os agentes que a gente vai precisar,
+
+588
+00:24:27,632 --> 00:24:29,652
+quais são as skills que eles vão precisar,
+
+589
+00:24:29,692 --> 00:24:30,232
+e por aí vai.
+
+590
+00:24:30,632 --> 00:24:31,672
+Então a gente fez o workflow.
+
+591
+00:24:32,292 --> 00:24:33,192
+Depois do workflow,
+
+592
+00:24:33,652 --> 00:24:36,952
+eu pedi para o próprio Cloud criar os agentes para a gente.
+
+593
+00:24:37,112 --> 00:24:40,532
+Eu poderia eu mesmo personalizar cada agente do meu jeito?
+
+594
+00:24:40,832 --> 00:24:41,272
+Poderia.
+
+595
+00:24:41,492 --> 00:24:42,632
+E isso é muito bom.
+
+596
+00:24:43,092 --> 00:24:49,552
+Só que a gente está fazendo o modo hiperacelerado aqui.
+
+597
+00:24:50,072 --> 00:24:51,952
+E esse modo também funciona.
+
+598
+00:24:52,292 --> 00:24:53,552
+Isso que vocês vão ver que é o mais legal.
+
+599
+00:24:53,892 --> 00:24:56,432
+Só que como que é a ideia que nós estamos seguindo?
+
+600
+00:24:56,492 --> 00:24:59,152
+Nós estamos deixando o próprio Cloud decidir
+
+601
+00:24:59,672 --> 00:25:02,112
+qual vai ser a estrutura de agentes que ele vai usar.
+
+602
+00:25:02,112 --> 00:25:05,192
+Então, ele montou isso para a gente e montou também as habilidades.
+
+603
+00:25:05,452 --> 00:25:09,372
+Agora que a gente tem a skill, vocês podem dar um barra init.
+
+604
+00:25:10,152 --> 00:25:15,272
+Se você dar um barra init aqui, ele vai criar esse documento aqui,
+
+605
+00:25:15,352 --> 00:25:19,492
+o cloud, que é um documento que ele especifica aqui o que é o projeto.
+
+606
+00:25:19,752 --> 00:25:21,812
+Como o meu já criou, eu não vou dar outro barra init, não.
+
+607
+00:25:22,572 --> 00:25:25,072
+Agora, deixa eu ver a hora, 10h40.
+
+608
+00:25:25,292 --> 00:25:26,712
+Agora, a gente vai deixar ele trabalhar.
+
+609
+00:25:27,432 --> 00:25:29,532
+Para deixar ele trabalhar, o que eu vou fazer?
+
+610
+00:25:30,112 --> 00:25:31,252
+Eu vou seguir o workflow.
+
+611
+00:25:32,572 --> 00:25:38,132
+Então, vou até abrir outro aqui, porque o meu barra clear não está funcionando do jeito que eu gostaria.
+
+612
+00:25:38,532 --> 00:25:39,732
+Vou abrir um outro aqui.
+
+613
+00:25:42,524 --> 00:25:44,484
+Não precisa abrir o de vocês assim, tá, galera?
+
+614
+00:25:45,344 --> 00:25:47,604
+Não recomendo, não é bom abrir desse jeito.
+
+615
+00:25:47,784 --> 00:25:50,364
+Abre no Enable Auto Mode, não abre no Dangerous.
+
+616
+00:25:50,664 --> 00:25:51,144
+Aqui, ó.
+
+617
+00:25:51,824 --> 00:25:53,084
+O que eu vou fazer aqui agora?
+
+618
+00:25:53,304 --> 00:25:54,344
+Eu vou falar para ele o seguinte.
+
+619
+00:25:55,464 --> 00:25:57,864
+Baseado no Workflow...
+
+620
+00:25:58,604 --> 00:26:00,324
+Baseado no Workflow...
+
+621
+00:26:01,276 --> 00:26:06,536
+Inicie o projeto e rode em ciclos até concluir tudo.
+
+622
+00:26:07,576 --> 00:26:08,656
+Concluir tudo.
+
+623
+00:26:10,236 --> 00:26:16,296
+Não me peça permissão para nada, pois eu não poderei ver.
+
+624
+00:26:16,496 --> 00:26:25,136
+Vou dar aula para os meus alunos e daqui 20 minutos quero voltar com tudo pronto.
+
+625
+00:26:25,896 --> 00:26:26,836
+Sem desculpinha.
+
+626
+00:26:27,596 --> 00:26:28,416
+Beleza?
+
+627
+00:26:29,296 --> 00:26:30,416
+Já fala assim com ela.
+
+628
+00:26:31,076 --> 00:26:31,896
+Beleza?
+
+629
+00:26:32,656 --> 00:26:33,096
+Manda ver.
+
+630
+00:26:33,436 --> 00:26:34,916
+Confio em você.
+
+631
+00:26:36,700 --> 00:26:37,100
+Faça.
+
+632
+00:26:38,396 --> 00:26:40,836
+Um trabalho primoroso.
+
+633
+00:26:43,516 --> 00:26:44,716
+Deixa ela trabalhar aqui agora.
+
+634
+00:26:45,056 --> 00:26:46,296
+O que ela vai fazer aqui?
+
+635
+00:26:46,396 --> 00:26:49,876
+Ela vai executar todo esse workflow que a gente acabou de ler aqui.
+
+636
+00:26:49,936 --> 00:26:51,216
+Todo, do início ao fim.
+
+637
+00:26:51,596 --> 00:26:53,436
+Tudo isso aqui, passo a passo.
+
+638
+00:26:53,496 --> 00:26:56,316
+Vai executar todo o workflow bonitinho aqui.
+
+639
+00:26:56,836 --> 00:26:58,756
+E daqui a pouco a gente volta para ver.
+
+640
+00:26:58,856 --> 00:27:00,196
+Ah, eu esqueci de um ponto importante.
+
+641
+00:27:00,436 --> 00:27:01,396
+Já estava zoando aqui.
+
+642
+00:27:01,896 --> 00:27:02,876
+Eu fechei o negócio?
+
+643
+00:27:03,076 --> 00:27:03,696
+Eu queria fechar, não.
+
+644
+00:27:04,256 --> 00:27:06,936
+Vou dar um complemento aqui.
+
+645
+00:27:07,016 --> 00:27:07,776
+Dei um ask.
+
+646
+00:27:08,596 --> 00:27:10,136
+Vai ser importante fazer uma coisa.
+
+647
+00:27:12,476 --> 00:27:16,176
+Vou dar um barra clear e vou falar para ela o seguinte, colo de novo,
+
+648
+00:27:16,296 --> 00:27:18,236
+deu uma quebrada aqui, mas não tem problema.
+
+649
+00:27:18,856 --> 00:27:21,136
+A gente volta, volta, volta, volta.
+
+650
+00:27:22,588 --> 00:27:24,188
+E eu vou falar para você o seguinte, não pode esquecer.
+
+651
+00:27:27,452 --> 00:27:28,472
+Até concluir tudo.
+
+652
+00:27:28,612 --> 00:27:30,672
+Vou colocar nessa parte aqui, depois vocês podem...
+
+653
+00:27:31,332 --> 00:27:32,752
+Eu jogo o prompt aí pra vocês.
+
+654
+00:27:34,812 --> 00:27:36,452
+Não me peça permissão para...
+
+655
+00:27:36,452 --> 00:27:37,972
+Aqui, vou deixar nessa parte aqui.
+
+656
+00:27:38,412 --> 00:27:39,592
+Você é...
+
+657
+00:27:42,556 --> 00:27:43,696
+orquestrador.
+
+658
+00:27:45,052 --> 00:27:47,972
+Você não executa.
+
+659
+00:27:47,972 --> 00:27:50,272
+Você delega.
+
+660
+00:27:50,352 --> 00:27:52,432
+Colocar algumas palavras tudo maiúsculo assim
+
+661
+00:27:52,432 --> 00:27:54,252
+reforça o peso dessa palavra para IA.
+
+662
+00:27:55,900 --> 00:27:56,740
+Orquestre.
+
+663
+00:27:58,268 --> 00:28:01,508
+orquestre, múltiplos agentes.
+
+664
+00:28:03,004 --> 00:28:08,784
+em paralelo, para preservar sua janela de contexto.
+
+665
+00:28:10,524 --> 00:28:11,044
+Isso é importante.
+
+666
+00:28:12,284 --> 00:28:16,264
+Trabalhe em parceria com o PM e o QA.
+
+667
+00:28:18,172 --> 00:28:21,432
+Ambos em outras janelas.
+
+668
+00:28:23,356 --> 00:28:26,216
+para preservar o contexto de todos.
+
+669
+00:28:27,836 --> 00:28:34,496
+Cada vez que o QA analisar, ele abre uma janela nova.
+
+670
+00:28:35,556 --> 00:28:36,516
+Trabalha assim.
+
+671
+00:28:41,336 --> 00:28:43,796
+Paralelização, paralelização até o final.
+
+672
+00:28:44,036 --> 00:28:47,416
+Isso é importante, galera, porque ele vai mais rápido, tá?
+
+673
+00:28:48,476 --> 00:28:50,196
+Aquele prompt que eu mandei, ele até funciona,
+
+674
+00:28:50,656 --> 00:28:54,236
+mas aí acaba sendo muito linear se você não reforça isso
+
+675
+00:28:54,236 --> 00:28:57,756
+em alguns momentos que ela poderia já trabalhar em paralelização.
+
+676
+00:28:58,216 --> 00:29:00,056
+Pra quem não lembra, só pra...
+
+677
+00:29:00,056 --> 00:29:02,196
+Agora que ela tá trabalhando, eu posso voltar pra cá, ó.
+
+678
+00:29:02,296 --> 00:29:05,356
+Pra quem não lembra, eu vou falar disso aqui já, mas pega aqui, ó.
+
+679
+00:29:06,656 --> 00:29:07,656
+Paralelização é isso aqui, ó.
+
+680
+00:29:08,456 --> 00:29:10,276
+assistente de ar, você tem que ficar toda hora lá,
+
+681
+00:29:10,356 --> 00:29:12,316
+input, output, input, output, input, output,
+
+682
+00:29:12,976 --> 00:29:14,516
+empurra mouse, clica no botão,
+
+683
+00:29:14,536 --> 00:29:16,396
+empurra mouse, clica no botão, troca de janela,
+
+684
+00:29:16,416 --> 00:29:17,016
+demorado.
+
+685
+00:29:17,976 --> 00:29:20,576
+Depois do Atlas aqui, vocês não são mais
+
+686
+00:29:20,576 --> 00:29:22,776
+esse tipo de pessoa, ponto final, não são mais.
+
+687
+00:29:23,396 --> 00:29:23,796
+Esquece!
+
+688
+00:29:23,996 --> 00:29:26,476
+Isso aqui é muito ineficiente, perto do que já é possível
+
+689
+00:29:26,476 --> 00:29:28,436
+fazer hoje. Aí a gente tem o agente,
+
+690
+00:29:28,496 --> 00:29:30,856
+que o agente você dá um objetivo e ele divide em tarefas
+
+691
+00:29:30,856 --> 00:29:32,836
+e vai até concluir. Isso já é muito bom,
+
+692
+00:29:32,976 --> 00:29:34,696
+mas ainda é limitado, porque
+
+693
+00:29:34,696 --> 00:29:36,316
+leva mais tempo e por aí vai.
+
+694
+00:29:36,996 --> 00:29:38,356
+E aí a gente tem um modo workflow,
+
+695
+00:29:38,596 --> 00:29:39,956
+que é o que a gente está fazendo aqui,
+
+696
+00:29:40,016 --> 00:29:41,596
+que você coloca agentes em paralelo,
+
+697
+00:29:41,596 --> 00:29:44,016
+vários agentes trabalhando juntos em paralelo,
+
+698
+00:29:44,056 --> 00:29:45,056
+um do lado do outro,
+
+699
+00:29:45,076 --> 00:29:46,956
+executando um monte de coisas ao mesmo tempo.
+
+700
+00:29:47,156 --> 00:29:47,576
+Tá bom?
+
+701
+00:29:47,756 --> 00:29:49,016
+É o que a gente fez ali.
+
+702
+00:29:49,156 --> 00:29:50,216
+Eu expliquei isso ontem,
+
+703
+00:29:50,216 --> 00:29:52,956
+mas só reforçando aqui o conceito junto com vocês.
+
+704
+00:29:53,296 --> 00:29:54,956
+E aí o nosso agente começou a trabalhar,
+
+705
+00:29:55,196 --> 00:29:56,596
+ele já fez o plano de execução,
+
+706
+00:29:56,676 --> 00:29:57,936
+tudo lido, briefing completo,
+
+707
+00:29:58,176 --> 00:29:59,356
+todos os agentes, critérios de aceite,
+
+708
+00:29:59,496 --> 00:29:59,896
+vou começar.
+
+709
+00:30:00,156 --> 00:30:01,196
+O plano dele é,
+
+710
+00:30:01,256 --> 00:30:03,056
+cadeia sequencial obrigatória,
+
+711
+00:30:03,136 --> 00:30:04,896
+passo 2, 3, 4, 5, 6 e 7.
+
+712
+00:30:04,896 --> 00:30:08,616
+Cada fase tem executor produz, que é a valida, próximo.
+
+713
+00:30:10,036 --> 00:30:13,336
+Maximizo a velocidade com prompts completos para minimizar revisões.
+
+714
+00:30:13,936 --> 00:30:16,276
+Lançando fase 2, pesquisa de mercado agora.
+
+715
+00:30:16,556 --> 00:30:18,896
+E olha lá, ele está inicializando o pesquisador, está vendo?
+
+716
+00:30:19,576 --> 00:30:21,456
+Inicializou o pesquisador, o pesquisador já começou,
+
+717
+00:30:21,696 --> 00:30:23,036
+já começou a fazer pesquisa na web.
+
+718
+00:30:23,316 --> 00:30:27,876
+Khan Academy, AI Education Platforms personalizadas para aprendizado em 2026,
+
+719
+00:30:28,356 --> 00:30:30,356
+Project Based Learning Platform.
+
+720
+00:30:30,716 --> 00:30:33,836
+Ele já está navegando na internet, enquanto a gente está se divertindo aqui.
+
+721
+00:30:33,836 --> 00:30:35,716
+aqui, ó. Agora, vamos deixar
+
+722
+00:30:35,716 --> 00:30:37,636
+eles trabalharem aí, todos os agentes vão
+
+723
+00:30:37,636 --> 00:30:39,036
+trabalhar, vão fazer o trabalho deles,
+
+724
+00:30:39,216 --> 00:30:41,516
+e eu quero falar com vocês o seguinte, né,
+
+725
+00:30:41,576 --> 00:30:43,536
+vocês viram que quando eu coloco o boné pra trás, o negócio
+
+726
+00:30:43,536 --> 00:30:45,296
+fica sério. Vamos...
+
+727
+00:30:46,196 --> 00:30:47,596
+Vamos voltar pro projeto aqui
+
+728
+00:30:47,596 --> 00:30:49,416
+da vanguarda que eu tava mostrando pra vocês,
+
+729
+00:30:49,576 --> 00:30:51,496
+olha que legal. Então, enquanto
+
+730
+00:30:51,496 --> 00:30:53,436
+ele trabalha lá, a gente tem aqui todas
+
+731
+00:30:53,436 --> 00:30:55,596
+essas skills, e nós temos aqui, por
+
+732
+00:30:55,596 --> 00:30:57,576
+exemplo, o diagrama. Olha tudo que ele fez nessa
+
+733
+00:30:57,576 --> 00:30:59,536
+daqui. Esse tá muito mais profundo
+
+734
+00:30:59,536 --> 00:31:01,496
+do que o que a gente tá fazendo, porque a gente tinha mais
+
+735
+00:31:01,496 --> 00:31:03,536
+tempo ali na vanguarda, tinha a nossa metodologia,
+
+736
+00:31:03,536 --> 00:31:05,236
+e por aí vai. Posicionamento
+
+737
+00:31:05,236 --> 00:31:06,936
+de mercado, então ele posicionou alguns
+
+738
+00:31:07,716 --> 00:31:09,236
+estúdios aqui e colocou
+
+739
+00:31:09,236 --> 00:31:10,896
+onde que a gente estaria com esse estúdio aqui,
+
+740
+00:31:10,956 --> 00:31:13,036
+Afronesis. Colocou aqui o
+
+741
+00:31:13,036 --> 00:31:15,176
+Tan Sanson, como que a gente compete no mercado,
+
+742
+00:31:15,236 --> 00:31:17,256
+tamanho do mercado, ele deixa as fontes também
+
+743
+00:31:17,256 --> 00:31:18,136
+pra você consultar.
+
+744
+00:31:19,736 --> 00:31:21,156
+Ecosistema competitivo, olha o que que ele fez.
+
+745
+00:31:21,336 --> 00:31:22,796
+Todo ecossistema competitivo,
+
+746
+00:31:22,896 --> 00:31:25,216
+qual que é o potencial de ganhos que a gente tem,
+
+747
+00:31:25,356 --> 00:31:27,056
+aqui ele tá colocando de 15 a 60 mil
+
+748
+00:31:27,056 --> 00:31:28,476
+por mês,
+
+749
+00:31:28,936 --> 00:31:30,476
+que daria pra fazer nessa agência.
+
+750
+00:31:32,056 --> 00:31:32,776
+Aqui, cliente,
+
+751
+00:31:32,776 --> 00:31:34,316
+contrata, universo de marca,
+
+752
+00:31:35,176 --> 00:31:36,736
+entrega cosmovisão, verbal, visual,
+
+753
+00:31:36,796 --> 00:31:38,696
+sonoro, é uma agência de branding que a gente
+
+754
+00:31:38,696 --> 00:31:40,776
+estruturou aqui, tá? Cliente precisa
+
+755
+00:31:40,776 --> 00:31:43,036
+gerir a marca no dia a dia, cliente assina
+
+756
+00:31:43,036 --> 00:31:44,936
+um produto digital, um SaaS de 500
+
+757
+00:31:44,936 --> 00:31:46,996
+a 2 mil reais por mês, que é um brand system
+
+758
+00:31:46,996 --> 00:31:48,636
+de assinatura de gestão de ativos.
+
+759
+00:31:49,176 --> 00:31:50,976
+Aqui a gente tem a posição no mercado
+
+760
+00:31:50,976 --> 00:31:52,816
+também construída, linha do
+
+761
+00:31:52,816 --> 00:31:54,836
+tempo, de como que o mercado evoluiu,
+
+762
+00:31:54,876 --> 00:31:56,196
+perfil de cliente potencial,
+
+763
+00:31:57,276 --> 00:31:59,416
+comparativo de modelos operacionais,
+
+764
+00:31:59,456 --> 00:32:00,836
+eu sei que tem muita coisa nova aqui
+
+765
+00:32:00,836 --> 00:32:05,536
+que eu não vou entrar, mas só para mostrar para vocês o nível de entrega
+
+766
+00:32:05,536 --> 00:32:07,296
+quando você define bem ele, tá?
+
+767
+00:32:07,736 --> 00:32:09,696
+Além disso também, a gente tem o ICP.
+
+768
+00:32:09,756 --> 00:32:11,596
+Olha aqui, ó, Perfil Ideal de Cliente.
+
+769
+00:32:11,856 --> 00:32:14,576
+Ele já definiu certinho aqui todo o mapa,
+
+770
+00:32:14,736 --> 00:32:16,676
+deixa eu ver se eu consigo dar um zoom para vocês,
+
+771
+00:32:17,296 --> 00:32:19,716
+todo o mapa de Perfil Ideal de Cliente aqui, ó,
+
+772
+00:32:19,716 --> 00:32:22,976
+dividido em Brasil inteiro, firmográfico, que são empresas, né?
+
+773
+00:32:23,176 --> 00:32:25,036
+Tem o demográfico e o firmográfico.
+
+774
+00:32:25,596 --> 00:32:28,716
+Rebranding pós-pivô, comportamental, psicográfico,
+
+775
+00:32:28,716 --> 00:32:30,716
+tem todo o mapeamento aqui do perfil
+
+776
+00:32:30,716 --> 00:32:32,576
+ideal de cliente, aqui ele tem o
+
+777
+00:32:32,576 --> 00:32:34,676
+gatilho, que é o evento crítico, que faz
+
+778
+00:32:34,676 --> 00:32:36,796
+o cliente procurar a Afronesis, que foi essa agência
+
+779
+00:32:36,796 --> 00:32:38,736
+que a gente estava construindo, todas as fases
+
+780
+00:32:38,736 --> 00:32:40,736
+reconhecimento, pesquisa, avaliação
+
+781
+00:32:40,736 --> 00:32:42,656
+vocês tem que entender que aí, ah, lê isso
+
+782
+00:32:42,656 --> 00:32:44,736
+aqui, depois você pode pedir ela pra executar
+
+783
+00:32:44,736 --> 00:32:46,676
+essas paradas pra você, tá bom? Mas eu tô
+
+784
+00:32:46,676 --> 00:32:47,576
+só mostrando o processo
+
+785
+00:32:48,436 --> 00:32:50,336
+aí vem aqui, depois
+
+786
+00:32:50,336 --> 00:32:52,896
+da pesquisa, avaliação, depois da avaliação
+
+787
+00:32:53,496 --> 00:32:55,036
+decisão, objetivos principais
+
+788
+00:32:55,036 --> 00:32:56,656
+processo e entregas claras
+
+789
+00:32:56,656 --> 00:32:58,056
+beleza, fase 5, compra
+
+790
+00:32:58,056 --> 00:32:59,956
+compra. Como que o cliente compra, qual que é o processo,
+
+791
+00:33:00,136 --> 00:33:01,876
+pós-compra. Depois, mapa de
+
+792
+00:33:01,876 --> 00:33:03,716
+empatia do cliente, o que que ele
+
+793
+00:33:03,716 --> 00:33:05,936
+pensa, sente, faz e diz, pensa e sente,
+
+794
+00:33:06,036 --> 00:33:07,536
+vê e ouve, que é uma das
+
+795
+00:33:08,476 --> 00:33:09,616
+ferramentas que a gente usa muito aqui.
+
+796
+00:33:10,416 --> 00:33:11,256
+Segmentação de ICP,
+
+797
+00:33:11,916 --> 00:33:13,176
+funil de qualificação,
+
+798
+00:33:13,236 --> 00:33:14,476
+isso aqui porque,
+
+799
+00:33:15,456 --> 00:33:17,676
+isso aqui porque, foi um
+
+800
+00:33:17,676 --> 00:33:18,956
+projeto que a gente fez em um dia.
+
+801
+00:33:20,444 --> 00:33:22,364
+E porque era só um start do negócio.
+
+802
+00:33:22,564 --> 00:33:24,384
+Porque depois, cada ponto desse, se você quiser,
+
+803
+00:33:24,444 --> 00:33:26,804
+você pode pedir a IA para mergulhar e trazer mais dados para você.
+
+804
+00:33:28,092 --> 00:33:31,852
+matriz de dor e urgência, timeline de gatilhos de compra,
+
+805
+00:33:32,992 --> 00:33:35,012
+síntese estratégica, perfil de maior densidade,
+
+806
+00:33:35,512 --> 00:33:38,352
+gatilhos mais poderosos, jobs to be done principais,
+
+807
+00:33:38,852 --> 00:33:42,332
+anti-ICP, eu sei que é muita coisa, tá dando um overdose em vocês aí,
+
+808
+00:33:42,372 --> 00:33:44,412
+de cara, é muita coisa aqui, muita coisa pra fazer,
+
+809
+00:33:45,012 --> 00:33:46,852
+tudo isso aqui a gente te ensina na vanguarda, tá?
+
+810
+00:33:46,932 --> 00:33:49,912
+Só pra vocês terem uma noção de que realmente é diferenciado.
+
+811
+00:33:50,132 --> 00:33:53,392
+Mas aí tem o ICP aqui, tem o mercado, e olha o que a gente fez.
+
+812
+00:33:53,392 --> 00:33:58,252
+A gente pegou esse projeto aqui e colocou a IA para ir buscar leads para a gente.
+
+813
+00:33:58,592 --> 00:33:59,392
+É isso mesmo.
+
+814
+00:33:59,472 --> 00:34:03,492
+Ela foi entrando no LinkedIn, entrando em perfis do LinkedIn,
+
+815
+00:34:03,612 --> 00:34:06,592
+falando isso aqui é um perfil ideal de cliente que você pode entrar em contato.
+
+816
+00:34:06,792 --> 00:34:08,872
+E ela listou aqui para a gente, ó.
+
+817
+00:34:09,532 --> 00:34:09,932
+Leads.
+
+818
+00:34:10,872 --> 00:34:13,672
+Vamos pegar aqui, deixa eu ver onde que ela colocou.
+
+819
+00:34:13,732 --> 00:34:15,272
+Tem todos os scores aqui.
+
+820
+00:34:15,372 --> 00:34:17,252
+Meu Deus, eu não sei o que ela fez de código aqui.
+
+821
+00:34:17,592 --> 00:34:20,352
+Lá tem gravado o processo que a gente montou isso aqui.
+
+822
+00:34:20,372 --> 00:34:21,532
+Tem gravado lá na vanguarda.
+
+823
+00:34:21,532 --> 00:34:24,152
+Mas o principal é que ela montou essa dashboardzinha.
+
+824
+00:34:24,152 --> 00:34:26,472
+Deixa eu mostrar isso aqui pra vocês, que isso aqui é legal pra caramba.
+
+825
+00:34:28,124 --> 00:34:30,264
+Nossos agentes estão trabalhando lá, tá?
+
+826
+00:34:30,384 --> 00:34:32,324
+Deixa eles trabalhando lá, daqui a pouco a gente volta.
+
+827
+00:34:32,544 --> 00:34:33,484
+Vou abrir aqui, ó.
+
+828
+00:34:34,344 --> 00:34:36,404
+Vou abrir o Cloud mesmo e pedir pra ele...
+
+829
+00:34:36,404 --> 00:34:38,084
+Ah, a Dash tá em HTML.
+
+830
+00:34:38,744 --> 00:34:39,664
+Mais fácil ainda.
+
+831
+00:34:41,116 --> 00:34:43,076
+dar dois cliques aqui. Quando tá em HTML é fácil.
+
+832
+00:34:43,216 --> 00:34:45,256
+Olha isso aqui, galera. Olha isso aqui que foda.
+
+833
+00:34:45,916 --> 00:34:46,876
+Ela captou 19
+
+834
+00:34:46,876 --> 00:34:49,236
+leads pra gente. Foi um teste que a gente fez
+
+835
+00:34:49,236 --> 00:34:51,156
+ali, tá? Rapidinho. Foi um teste muito tranquilo.
+
+836
+00:34:51,596 --> 00:34:52,996
+Ela captou 19 leads
+
+837
+00:34:52,996 --> 00:34:54,796
+e apontou um score
+
+838
+00:34:54,796 --> 00:34:57,216
+desses leads, de quais são os leads perfeitos
+
+839
+00:34:57,216 --> 00:34:58,976
+pra gente entrar em contato nessa agenda aqui.
+
+840
+00:34:59,196 --> 00:35:00,996
+Nessa agência. Então ela pegou aqui
+
+841
+00:35:00,996 --> 00:35:02,976
+FinTech SaaS, HealthTech, FinTech
+
+842
+00:35:02,976 --> 00:35:05,296
+Dental, InsurTech,
+
+843
+00:35:05,396 --> 00:35:06,796
+tudo brasileira, tá? HealthTech,
+
+844
+00:35:06,996 --> 00:35:09,256
+isso aqui são as categorias de negócios de tecnologia.
+
+845
+00:35:10,196 --> 00:35:10,576
+Clima,
+
+846
+00:35:12,060 --> 00:35:13,520
+Health Tech de novo e Biotech.
+
+847
+00:35:13,560 --> 00:35:15,780
+Aqui ele colocou os leads das empresas.
+
+848
+00:35:15,920 --> 00:35:17,500
+Então ele encontrou a Camino, Capim,
+
+849
+00:35:17,540 --> 00:35:19,880
+Genial Care, Hero Seguros,
+
+850
+00:35:20,060 --> 00:35:21,620
+Vitude, Revisa Prev,
+
+851
+00:35:21,680 --> 00:35:22,380
+Monbeck.
+
+852
+00:35:24,252 --> 00:35:26,532
+grau e meio, é, um grau e meio.
+
+853
+00:35:26,632 --> 00:35:28,552
+Então ela pegou aqui essas empresas
+
+854
+00:35:28,552 --> 00:35:30,612
+e dentro dessas empresas ela já pegou
+
+855
+00:35:30,612 --> 00:35:32,172
+o lead tomador de decisão.
+
+856
+00:35:32,192 --> 00:35:34,392
+Ela vasculhou no LinkedIn e pesquisou pra gente.
+
+857
+00:35:34,572 --> 00:35:35,592
+Então a gente tem aqui, ó.
+
+858
+00:35:36,988 --> 00:35:41,488
+Gonzalo Parejo, Juliana, Guto, Gustavo, Roberto, Kenny, Fernando,
+
+859
+00:35:41,628 --> 00:35:46,608
+já colocou aqui LinkedIn deles, número de telefone, e-mail,
+
+860
+00:35:46,748 --> 00:35:49,188
+tudo que ela conseguiu pegar de informação dessas pessoas,
+
+861
+00:35:49,368 --> 00:35:52,248
+falando, olha, entre em contato com essas para começar sua agência,
+
+862
+00:35:52,288 --> 00:35:54,888
+que com certeza elas vão ter interesse em saber mais.
+
+863
+00:35:55,028 --> 00:35:56,768
+E trouxe aqui a lista de lead, cara.
+
+864
+00:35:57,268 --> 00:36:00,848
+Depois, se eu quiser rodar mais lead, eu posso rodar mais lead, mais lead, mais lead.
+
+865
+00:36:00,948 --> 00:36:03,928
+Vocês não têm ideia de tudo que dá para fazer aqui, tá bom?
+
+866
+00:36:04,208 --> 00:36:06,328
+Estou mostrando para vocês alguns exemplos,
+
+867
+00:36:06,328 --> 00:36:09,908
+mas o céu é o limite, desde que você saiba o que está fazendo.
+
+868
+00:36:10,768 --> 00:36:15,108
+E eu vou entrar nisso quando a gente trabalhar aqui sobre cibersegurança,
+
+869
+00:36:15,228 --> 00:36:17,828
+que eu falei com vocês que é 11 horas, eu preciso dar uma aula disso para vocês, tá?
+
+870
+00:36:20,156 --> 00:36:23,296
+Então, esse foi um projetinho que a gente fez aqui na Vanguarda.
+
+871
+00:36:23,696 --> 00:36:25,776
+Foi bem interessante de trabalhar.
+
+872
+00:36:26,216 --> 00:36:29,836
+E está um pouquinho aí do que a gente construiu de uma agência para vocês verem.
+
+873
+00:36:32,156 --> 00:36:32,556
+Muito bom.
+
+874
+00:36:33,656 --> 00:36:35,296
+Agora eu vou mostrar o seguinte aqui.
+
+875
+00:36:35,636 --> 00:36:37,456
+Vamos voltar? Vamos ver o que ele fez?
+
+876
+00:36:37,836 --> 00:36:38,276
+Pesquisador.
+
+877
+00:36:38,456 --> 00:36:40,056
+Ele entrou na fase 2 agora.
+
+878
+00:36:40,416 --> 00:36:41,456
+Mapeou 15 players.
+
+879
+00:36:43,132 --> 00:36:45,792
+Aqui, ele já fez aqui, pesquisa mercado.
+
+880
+00:36:46,312 --> 00:36:48,452
+Então, ele já entregou o primeiro documento para a gente.
+
+881
+00:36:48,532 --> 00:36:51,672
+Olha o tamanho disso aqui, meu rapaz.
+
+882
+00:36:51,712 --> 00:36:52,212
+Olha isso aqui.
+
+883
+00:36:52,532 --> 00:36:53,812
+Sabe qual que é o erro agora?
+
+884
+00:36:54,152 --> 00:36:54,772
+Não ler.
+
+885
+00:36:55,272 --> 00:36:58,892
+Se você está trabalhando de verdade, com seriedade, você vai ler isso aqui,
+
+886
+00:36:58,972 --> 00:37:01,592
+porque é o mínimo que você faz para entender o que está acontecendo.
+
+887
+00:37:02,412 --> 00:37:04,292
+Então, vamos dar um resumo rápido aqui.
+
+888
+00:37:04,532 --> 00:37:10,872
+O mercado global de tecnologia educacional foi avaliado em 187 a 189 bilhões em 2025
+
+889
+00:37:10,872 --> 00:37:18,012
+e deve atingir R$ 348 bilhões até 2030, crescendo a uma taxa anual composta de 13%.
+
+890
+00:37:18,012 --> 00:37:23,272
+Dentro desse ecossistema, a adoção de plataforma de aprendizado impulsionada por IA está acelerando,
+
+891
+00:37:23,432 --> 00:37:27,612
+com projeções de que o segmento da IA educacional ultrapasse R$ 20 bilhões.
+
+892
+00:37:28,352 --> 00:37:32,352
+Apesar desse crescimento expressivo, o mercado enfrenta um paradoxo crônico.
+
+893
+00:37:33,312 --> 00:37:39,092
+A taxa média de conclusão de cursos permanece entre 5% e 15% em plataformas como Coursera,
+
+894
+00:37:39,092 --> 00:37:41,752
+edX, cursos gratuitos
+
+895
+00:37:41,752 --> 00:37:43,772
+tem conclusão de apenas 5 a 15%
+
+896
+00:37:43,772 --> 00:37:45,192
+e cursos pagos chegam a
+
+897
+00:37:45,192 --> 00:37:47,232
+15 a 40%.
+
+898
+00:37:49,756 --> 00:37:54,676
+Em contrapartida, cursos baseados em corte, com interação ao vivo e comunidade
+
+899
+00:37:54,676 --> 00:37:56,556
+elevam a conclusão para 85%.
+
+900
+00:37:57,176 --> 00:37:58,956
+Curiosamente, é o que está acontecendo aqui no Atlas.
+
+901
+00:37:59,436 --> 00:38:02,736
+Nós tivemos ontem 600 pessoas participando,
+
+902
+00:38:02,836 --> 00:38:05,556
+hoje tem 530 pessoas participando,
+
+903
+00:38:05,596 --> 00:38:08,276
+então dá mais ou menos 10% que não estão aqui hoje.
+
+904
+00:38:08,456 --> 00:38:11,836
+Então a gente vai ter uma média de 90% das pessoas concluindo o curso,
+
+905
+00:38:11,896 --> 00:38:14,076
+ou seja, é um modelo muito mais eficiente de aprendizado.
+
+906
+00:38:14,796 --> 00:38:17,916
+E depois vocês vão ganhar certificado ainda, olha que coisa boa, né?
+
+907
+00:38:17,916 --> 00:38:19,756
+né? Já aproveitando que eu falei
+
+908
+00:38:19,756 --> 00:38:21,436
+disso, o certificado vai levar aproximadamente
+
+909
+00:38:21,436 --> 00:38:23,636
+uns sete dias, tá? Pra gente enviar pra vocês
+
+910
+00:38:23,636 --> 00:38:25,496
+desse Atlas aqui, vai ter certificado.
+
+911
+00:38:26,908 --> 00:38:28,928
+Então, ele falou aqui, em contrapartida, beleza,
+
+912
+00:38:29,568 --> 00:38:32,468
+esse dado é central para o posicionamento da Overlens
+
+913
+00:38:32,468 --> 00:38:34,968
+como plataforma de aprendizado puxado por demanda,
+
+914
+00:38:34,968 --> 00:38:37,768
+onde o projeto real do usuário gera motivação intrínseca
+
+915
+00:38:37,768 --> 00:38:39,008
+e accountability natural.
+
+916
+00:38:39,508 --> 00:38:42,608
+O mapeamento competitivo revela uma lacuna significativa.
+
+917
+00:38:42,628 --> 00:38:44,948
+Existem plataformas de curso, como o Coursera e o DEM,
+
+918
+00:38:45,048 --> 00:38:48,708
+plataformas de bootcamp com currículo, como o BloomTech e Scrimba,
+
+919
+00:38:49,928 --> 00:38:51,808
+é Scrimba mesmo, com M,
+
+920
+00:38:51,988 --> 00:38:54,648
+comunidades de execução para públicos muito específicos,
+
+921
+00:38:54,648 --> 00:38:56,788
+on-deck, beauty space e ferramentas
+
+922
+00:38:56,788 --> 00:38:58,588
+de área educacional genérica, como o Kenigo
+
+923
+00:38:58,588 --> 00:39:00,648
+e o Duolingo Max. Porém, nenhum
+
+924
+00:39:00,648 --> 00:39:02,648
+player combine a generativa como
+
+925
+00:39:02,648 --> 00:39:04,628
+mentora de projeto, mas como unidade
+
+926
+00:39:04,628 --> 00:39:06,568
+de execução, mas aprendizado puxado pela
+
+927
+00:39:06,568 --> 00:39:08,308
+demanda real do usuário, de forma
+
+928
+00:39:08,308 --> 00:39:10,628
+integrada. Essa é a oportunidade central
+
+929
+00:39:10,628 --> 00:39:12,528
+que a Overlens deve ocupar. Então ele fez uma análise
+
+930
+00:39:12,528 --> 00:39:14,528
+de mercado e mostrou onde vale a pena
+
+931
+00:39:14,528 --> 00:39:16,228
+investir. Tendência global
+
+932
+00:39:16,228 --> 00:39:18,568
+para 2026 aponta
+
+933
+00:39:18,568 --> 00:39:20,328
+fortemente para outcome-based learning.
+
+934
+00:39:21,328 --> 00:39:22,468
+Investidores e usuários
+
+935
+00:39:22,468 --> 00:39:24,588
+exigem resultados mensuráveis,
+
+936
+00:39:24,668 --> 00:39:26,008
+não apenas acesso a conteúdo.
+
+937
+00:39:26,588 --> 00:39:28,448
+Plataformas que não comprovam o impacto real
+
+938
+00:39:28,448 --> 00:39:30,228
+estão sendo descontadas
+
+939
+00:39:30,228 --> 00:39:32,328
+em até 30%, 50%
+
+940
+00:39:32,328 --> 00:39:34,508
+de valuation. Imagina que sua empresa vale
+
+941
+00:39:34,508 --> 00:39:36,548
+sei lá, 10 milhões e você não
+
+942
+00:39:36,548 --> 00:39:38,388
+tem isso, ela cai para 5 milhões. Você perdeu
+
+943
+00:39:38,388 --> 00:39:39,648
+5 milhões de valuation aí.
+
+944
+00:39:40,168 --> 00:39:42,188
+A Overlens, se ao vincular aprendizado
+
+945
+00:39:42,188 --> 00:39:44,168
+diretamente à execução de projetos reais,
+
+946
+00:39:44,308 --> 00:39:46,608
+se posiciona no epicentro dessa demanda.
+
+947
+00:39:46,628 --> 00:39:48,068
+Concordo 100%, cara.
+
+948
+00:39:48,208 --> 00:39:50,288
+É porque eu já fiz essas pesquisas antes,
+
+949
+00:39:50,288 --> 00:39:52,528
+em outros momentos, então está muito alinhado
+
+950
+00:39:52,528 --> 00:39:54,288
+com o que a IA trouxe, ou seja, eu tenho
+
+951
+00:39:54,288 --> 00:39:56,508
+uma visão de negócio aqui para a Overlens bem sólida.
+
+952
+00:39:56,628 --> 00:39:58,368
+A gente já tinha visto a pesquisa de mercado,
+
+953
+00:39:58,628 --> 00:40:00,248
+vou diminuir isso aqui um pouquinho
+
+954
+00:40:00,248 --> 00:40:02,328
+agora, deixa ali. Então nós
+
+955
+00:40:02,328 --> 00:40:04,228
+já havíamos visto essa pesquisa de mercado,
+
+956
+00:40:04,468 --> 00:40:06,248
+mas vamos ver como ele definiu o
+
+957
+00:40:06,248 --> 00:40:08,268
+Tan Sansom. Olha o tamanho do documento
+
+958
+00:40:08,268 --> 00:40:10,168
+que ele fez e revisou. Metodologia.
+
+959
+00:40:10,568 --> 00:40:12,048
+Então tem o dimensionamento,
+
+960
+00:40:12,088 --> 00:40:13,828
+ele começou de cima para baixo,
+
+961
+00:40:14,008 --> 00:40:16,068
+parte do mercado global de educação online,
+
+962
+00:40:17,148 --> 00:40:18,808
+filtros progressivos de segmento,
+
+963
+00:40:18,808 --> 00:40:20,568
+project-based learning
+
+964
+00:40:20,568 --> 00:40:22,648
+que a gente já viu ali, e de baixo pra cima
+
+965
+00:40:22,648 --> 00:40:24,908
+mercado a partir de usuários potenciais
+
+966
+00:40:24,908 --> 00:40:26,548
+identificáveis no público-alvo primário
+
+967
+00:40:26,548 --> 00:40:28,628
+profissionais brasileiros frustrados com
+
+968
+00:40:28,628 --> 00:40:30,768
+cursos online, freelancers, empreendedores
+
+969
+00:40:30,768 --> 00:40:32,628
+digitais, multiplicados pelo ticket
+
+970
+00:40:32,628 --> 00:40:34,428
+médio projetado e a taxa de conversão
+
+971
+00:40:34,428 --> 00:40:36,648
+então aqui é o método que ele utilizou aqui
+
+972
+00:40:36,648 --> 00:40:38,588
+pra chegar no Tan Sansong. Depois
+
+973
+00:40:38,588 --> 00:40:40,688
+inclusive, vocês vão receber isso no final
+
+974
+00:40:40,688 --> 00:40:42,208
+do dia hoje, vocês podem
+
+975
+00:40:44,412 --> 00:40:46,872
+pesquisar os dados, buscar mais fontes, né?
+
+976
+00:40:46,932 --> 00:40:49,132
+Vocês vão ter acesso ao material aqui, então dá para fazer.
+
+977
+00:40:49,392 --> 00:40:50,872
+O que nós temos aqui, então?
+
+978
+00:40:51,292 --> 00:40:53,792
+Educação online, valor de 200 bi de dólares.
+
+979
+00:40:54,392 --> 00:40:57,892
+Aí ele tem aqui um CAGR de 8%
+
+980
+00:40:57,892 --> 00:41:01,872
+e uma projeção para 2030 de chegar em 279 bi.
+
+981
+00:41:01,972 --> 00:41:03,312
+Então, 79 bi a mais.
+
+982
+00:41:03,812 --> 00:41:05,912
+Isso aqui é uma fonte do Estatista.
+
+983
+00:41:05,952 --> 00:41:10,612
+Estatista é um dos principais sites de dados, tá?
+
+984
+00:41:10,672 --> 00:41:11,752
+Muito, muito bom.
+
+985
+00:41:12,172 --> 00:41:13,132
+Ele trouxe aqui.
+
+986
+00:41:13,132 --> 00:41:13,992
+Editec Global
+
+987
+00:41:15,452 --> 00:41:17,472
+187 a 189, 13%
+
+988
+00:41:17,992 --> 00:41:19,692
+Editec é tecnologia de educação
+
+989
+00:41:19,692 --> 00:41:20,152
+Beleza?
+
+990
+00:41:20,672 --> 00:41:22,892
+Aí aqui a fonte dele foi o Grandview Research
+
+991
+00:41:22,892 --> 00:41:25,792
+Dá pra pesquisar depois nas fontes, pedir ele pra trazer os links
+
+992
+00:41:25,792 --> 00:41:26,212
+Ele traz
+
+993
+00:41:26,212 --> 00:41:28,472
+E aí em educação, 7 a 10 bi
+
+994
+00:41:28,472 --> 00:41:30,172
+Aí também do Grandview Research
+
+995
+00:41:30,172 --> 00:41:32,732
+Aprendizado adaptativo, mercado de 5
+
+996
+00:41:33,312 --> 00:41:34,092
+Bi também
+
+997
+00:41:34,092 --> 00:41:34,332
+também.
+
+998
+00:41:35,740 --> 00:41:39,520
+podendo sair de 5B para 19B, aprendizado adaptativo.
+
+999
+00:41:40,620 --> 00:41:41,680
+Aí foi do Mordor Intelligence.
+
+1000
+00:41:42,180 --> 00:41:45,760
+Curso baseado em corte e comunidade,
+
+1001
+00:41:46,400 --> 00:41:47,880
+corte e comunidade,
+
+1002
+00:41:48,520 --> 00:41:52,200
+de 3B para 8B, estimativa da data Intel.
+
+1003
+00:41:52,520 --> 00:41:54,660
+E tem outra estimativa aqui de upskilling.
+
+1004
+00:41:54,840 --> 00:41:56,860
+Upskilling é melhorar suas habilidades,
+
+1005
+00:41:56,880 --> 00:42:02,720
+ou reskilling, que é você fazer um reenquadramento de habilidades,
+
+1006
+00:42:02,720 --> 00:42:05,700
+ou seja, trocar habilidades novas que você precisa desenvolver.
+
+1007
+00:42:05,760 --> 00:42:10,180
+De 35 bi para 56 bi, estimativa também.
+
+1008
+00:42:10,440 --> 00:42:11,860
+Então isso aqui é o tamanho do mercado.
+
+1009
+00:42:11,900 --> 00:42:16,340
+Ele fez a pesquisa aqui no mercado endereçável, mercado total.
+
+1010
+00:42:16,580 --> 00:42:19,640
+Primeiro a gente lê o total, aqui ele está trazendo do endereçável
+
+1011
+00:42:19,640 --> 00:42:21,280
+e ele tem aqui o mercado obtível,
+
+1012
+00:42:21,440 --> 00:42:23,640
+que é o que importa quando você está começando um negócio.
+
+1013
+00:42:24,860 --> 00:42:28,100
+Então ele está aqui, o mercado-alvo primário, Brasil, português,
+
+1014
+00:42:28,980 --> 00:42:31,360
+público endereçável no Brasil, 5 milhões de pessoas,
+
+1015
+00:42:31,360 --> 00:42:35,440
+O Brasil tem 200 milhões, aqui dá para atacar um público de 5 milhões de pessoas,
+
+1016
+00:42:35,560 --> 00:42:40,000
+profissionais de 25 a 40 anos, bem próximo da nossa pesquisa de ontem, lembram?
+
+1017
+00:42:40,100 --> 00:42:42,620
+E ele não teve acesso a essa pesquisa aqui nesse projeto.
+
+1018
+00:42:42,960 --> 00:42:44,840
+Está muito próximo aqui com o nosso público.
+
+1019
+00:42:45,180 --> 00:42:48,540
+Alcance via marketing orgânico, de 100 mil a 150 mil pessoas,
+
+1020
+00:42:49,020 --> 00:42:52,420
+taxa de conversão no gratuito de 8% a 12%,
+
+1021
+00:42:52,420 --> 00:42:55,100
+taxa de conversão no pago de 15% a 25%,
+
+1022
+00:42:55,100 --> 00:42:57,180
+benchmark de outras plataformas.
+
+1023
+00:42:57,180 --> 00:43:00,680
+Dá para pedir ele depois para mostrar de onde são esses benchmarkings aqui.
+
+1024
+00:43:00,680 --> 00:43:04,540
+Para quem não sabe o que é um benchmark, é quando você vê melhores práticas e melhores números,
+
+1025
+00:43:04,740 --> 00:43:07,380
+o que as melhores plataformas estão conseguindo alcançar no mercado.
+
+1026
+00:43:08,924 --> 00:43:13,044
+Usuários pagos ao final do primeiro ano, de 1.500 a 3.000 usuários pagos,
+
+1027
+00:43:13,064 --> 00:43:14,584
+seguindo o funil acima.
+
+1028
+00:43:15,324 --> 00:43:19,124
+Retenção média de 6 a 8 meses e churn mensal de 8 a 12%.
+
+1029
+00:43:19,124 --> 00:43:22,924
+Churn é a quantidade de pessoas que estão saindo de uma assinatura, beleza?
+
+1030
+00:43:23,544 --> 00:43:26,424
+E aí ele fez o cálculo todo do som aqui, está explicando,
+
+1031
+00:43:26,424 --> 00:43:29,584
+está mostrando a validação cruzada, a metodologia para ele chegar nesses números.
+
+1032
+00:43:29,804 --> 00:43:33,484
+Depois vocês vão poder ler, só para a gente ter um relatóriozinho aqui.
+
+1033
+00:43:33,824 --> 00:43:35,904
+Além disso, ele definiu o ICP também.
+
+1034
+00:43:35,904 --> 00:43:41,604
+Também, vamos ver o ICP dele, 25 a 38 anos, gênero misto, Brasil, renda de 3 a 12 mil.
+
+1035
+00:43:42,344 --> 00:43:46,744
+Perfil principal, profissionais CLT em transição, freelancers e empreendedores digitais.
+
+1036
+00:43:46,844 --> 00:43:48,364
+Bem parecido com o público daqui, né?
+
+1037
+00:43:48,424 --> 00:43:52,684
+Para vocês verem que a gente faz essa pesquisa aqui para definir os projetos da Overlens.
+
+1038
+00:43:52,784 --> 00:43:56,104
+Nível de escolaridade, ensino superior completo ou em andamento?
+
+1039
+00:43:56,564 --> 00:44:00,524
+Curiosamente, aqui na vanguarda, nossa maior taxa de escolaridade é ensino superior completo.
+
+1040
+00:44:00,524 --> 00:44:06,524
+Mas tem várias pessoas também de outros status de ensino.
+
+1041
+00:44:07,204 --> 00:44:10,764
+Aí tem perfil psicográfico, depois ele traz comportamento digital,
+
+1042
+00:44:11,044 --> 00:44:12,804
+traz aqui também jobs to be done,
+
+1043
+00:44:12,924 --> 00:44:15,764
+que são as tarefas que essas pessoas têm que fazer
+
+1044
+00:44:15,764 --> 00:44:17,444
+para que elas tenham resultado.
+
+1045
+00:44:17,544 --> 00:44:19,764
+É mais ou menos assim, eu quero X.
+
+1046
+00:44:20,164 --> 00:44:22,424
+Por exemplo, sair da paralisia e começar a executar.
+
+1047
+00:44:22,544 --> 00:44:25,284
+É uma primeira tarefa para você sentir que você teve uma vitória.
+
+1048
+00:44:25,584 --> 00:44:27,664
+Aprender apenas o que é relevante para o meu projeto.
+
+1049
+00:44:27,664 --> 00:44:30,564
+depois orientar a qualidade sem pagar mentoria premium,
+
+1050
+00:44:30,804 --> 00:44:33,644
+depois ter accountability e não desistir no meio do caminho.
+
+1051
+00:44:33,784 --> 00:44:35,484
+Então, ele está criando aqui uma jornada, beleza?
+
+1052
+00:44:36,244 --> 00:44:37,764
+Esse aqui é o processo do ICP.
+
+1053
+00:44:38,104 --> 00:44:41,644
+Aí vem objeções previsíveis, ele traz todas as objeções aqui,
+
+1054
+00:44:42,424 --> 00:44:45,164
+traz uma persona, ele trouxe a Mariana Souza aqui de persona,
+
+1055
+00:44:45,944 --> 00:44:49,284
+anti-ICP, que é o que o ICP não é para a gente,
+
+1056
+00:44:49,324 --> 00:44:50,984
+conclusões de próximas fases.
+
+1057
+00:44:51,244 --> 00:44:53,884
+Aí vem tese de valor do negócio,
+
+1058
+00:44:54,204 --> 00:44:56,724
+que ele define qual é o problema que vai ser resolvido
+
+1059
+00:44:56,724 --> 00:44:58,504
+e qual que é a nossa hipótese de solução
+
+1060
+00:44:58,504 --> 00:44:59,244
+que a gente quer resolver.
+
+1061
+00:44:59,724 --> 00:45:01,644
+Então, qual que é o inimigo central,
+
+1062
+00:45:01,944 --> 00:45:02,744
+o que o inimigo causa,
+
+1063
+00:45:02,964 --> 00:45:04,204
+por que o inimigo persiste,
+
+1064
+00:45:04,404 --> 00:45:06,264
+qual que é a diferenciação no mercado
+
+1065
+00:45:06,264 --> 00:45:08,304
+e uma comparação do modelo tradicional
+
+1066
+00:45:08,304 --> 00:45:10,664
+versus o que a gente quer fazer na Overlens,
+
+1067
+00:45:10,744 --> 00:45:12,084
+no caso aqui nessa construção.
+
+1068
+00:45:12,204 --> 00:45:13,364
+A ponte do ICP, então,
+
+1069
+00:45:13,384 --> 00:45:14,864
+qual que é a solução que a gente entrega,
+
+1070
+00:45:14,904 --> 00:45:17,164
+por que somente a Overlens pode dizer isso,
+
+1071
+00:45:17,884 --> 00:45:19,564
+provas e argumentos e por aí vai.
+
+1072
+00:45:19,844 --> 00:45:20,724
+Lógica estrutural,
+
+1073
+00:45:22,204 --> 00:45:23,124
+testabilidade da tese,
+
+1074
+00:45:23,144 --> 00:45:24,924
+porque uma tese precisa ser testável,
+
+1075
+00:45:25,024 --> 00:45:26,484
+por isso que a gente cria a tese de valor.
+
+1076
+00:45:26,724 --> 00:45:29,644
+Como que eu valido se a minha hipótese de negócio funciona?
+
+1077
+00:45:30,024 --> 00:45:33,584
+Aí você cria a tese de valor para depois validar isso no mercado
+
+1078
+00:45:33,584 --> 00:45:34,944
+numa fase de validação.
+
+1079
+00:45:35,244 --> 00:45:38,124
+Aí vem a oferta aqui, que a gente vai usar a oferta depois.
+
+1080
+00:45:38,204 --> 00:45:40,924
+Olha o tamanho aqui da oferta, baseada em hormose.
+
+1081
+00:45:41,064 --> 00:45:45,064
+Eu vou passar isso aqui para vocês logo na sequência depois do almoço.
+
+1082
+00:45:45,224 --> 00:45:48,184
+A landing page também, toda a estrutura da landing page.
+
+1083
+00:45:48,484 --> 00:45:50,384
+Olha aqui qual que é a headline que ele escolheu.
+
+1084
+00:45:50,444 --> 00:45:51,904
+Pare de colecionar cursos.
+
+1085
+00:45:52,064 --> 00:45:54,004
+Traga seu projeto e comece a executar.
+
+1086
+00:45:54,144 --> 00:45:55,484
+O que vocês acharam dessa headline?
+
+1087
+00:45:55,724 --> 00:45:56,444
+Eu achei muito boa.
+
+1088
+00:45:57,124 --> 00:45:58,304
+Achei ela muito boa.
+
+1089
+00:45:58,444 --> 00:46:01,844
+É direta ao ponto e resolve a dor que a maioria das pessoas tem.
+
+1090
+00:46:02,224 --> 00:46:03,564
+Você já tem uma ideia na cabeça.
+
+1091
+00:46:03,784 --> 00:46:06,684
+A Overlens é a primeira plataforma onde uma IA analisa o seu projeto
+
+1092
+00:46:06,684 --> 00:46:08,564
+e te mostra exatamente o que aprender e fazer.
+
+1093
+00:46:08,724 --> 00:46:12,324
+Passo a passo no seu contexto com uma comunidade de pessoas que também estão construindo.
+
+1094
+00:46:13,004 --> 00:46:14,204
+Muito boa a copy, né?
+
+1095
+00:46:14,984 --> 00:46:18,464
+Teste por 30 dias. Se não funcionar, devolvemos seu dinheiro sem perguntas.
+
+1096
+00:46:18,504 --> 00:46:19,564
+Muito bom aqui também.
+
+1097
+00:46:19,784 --> 00:46:22,364
+Aí tem o problema que a gente vai passar depois na copy aqui
+
+1098
+00:46:22,364 --> 00:46:24,304
+quando a gente entrar no Brand System, beleza?
+

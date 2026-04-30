@@ -1,0 +1,1498 @@
+# Video: 6._auditoria_do_negócio (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-27 23:08
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:10 --> 00:00:04:24] Começamos oficialmente a nossa aula sobre Auditoria do Negócio.
+[00:00:05:01 --> 00:00:07:24] É na Auditoria do Negócio que nós vamos entender
+[00:00:07:24 --> 00:00:12:09] as engrenagens por trás do negócio do seu cliente.
+[00:00:12:13 --> 00:00:14:18] Porque não adianta nada, né?
+[00:00:14:25 --> 00:00:16:19] A definição que eu tenho aqui pra você é
+[00:00:16:19 --> 00:00:19:23] tente definir uma coisa que você não conhece.
+[00:00:19:26 --> 00:00:24:18] Ou então, como na aula de briefing, tente resumir um livro que você não leu.
+[00:00:24:20 --> 00:00:25:09] Não é possível.
+[00:00:25:21 --> 00:00:29:21] Pra poder criar um logotipo, você faz uma síntese do que é aquela empresa.
+[00:00:29:21 --> 00:00:33:00] você representa aquela empresa visualmente em um símbolo.
+[00:00:33:02 --> 00:00:35:11] Para criar uma identidade visual,
+[00:00:35:28 --> 00:00:38:22] você antes precisa entender qual é a identidade da empresa.
+[00:00:38:24 --> 00:00:40:19] Para criar uma identidade verbal,
+[00:00:41:09 --> 00:00:44:10] você precisa saber antes qual é a identidade da empresa.
+[00:00:45:00 --> 00:00:47:14] Por isso que a etapa de núcleo da marca é muito importante.
+[00:00:47:25 --> 00:00:51:08] Mas antes de definirmos o núcleo da marca,
+[00:00:51:21 --> 00:00:54:04] nós precisamos reunir informação.
+[00:00:54:19 --> 00:00:56:26] Nós precisamos investigar
+[00:00:56:26 --> 00:00:58:25] o negócio do nosso cliente,
+[00:00:58:25 --> 00:01:01:27] o mercado do nosso cliente e o público também.
+[00:01:02:13 --> 00:01:05:07] Aqui hoje nessa aula, nós vamos fazer uma...
+[00:01:05:07 --> 00:01:08:21] Eu vou mostrar para vocês como fazer uma investigação do negócio.
+[00:01:08:24 --> 00:01:12:22] Nós vamos utilizar uma ferramenta que já tem 22 anos,
+[00:01:12:24 --> 00:01:14:27] na época que eu estou gravando isso daqui, 2022,
+[00:01:15:13 --> 00:01:19:08] já tem 22 anos que ela existe e ela é uma ferramenta muito versátil,
+[00:01:19:10 --> 00:01:21:21] é uma ferramenta livre que você pode usar à vontade,
+[00:01:21:24 --> 00:01:24:16] isso significa que ela é creative, common,
+[00:01:24:16 --> 00:01:29:22] Ela é livre para uso, livre para poder aplicar na sua metodologia de trabalho,
+[00:01:30:03 --> 00:01:31:19] que é o Business Model Canvas.
+[00:01:32:01 --> 00:01:35:06] Só que nessa aula aqui, nós vamos utilizar o Business Model Canvas
+[00:01:36:13 --> 00:01:38:29] especificamente para entender o negócio do nosso cliente
+[00:01:38:29 --> 00:01:42:12] e perceber como inovar dentro desse modelo.
+[00:01:43:04 --> 00:01:46:02] No primeiro momento, eu vou explicar o que é o Business Model Canvas,
+[00:01:46:06 --> 00:01:50:18] como preencher um BNC também e como aplicar isso na auditoria,
+[00:01:50:19 --> 00:01:52:29] mas depois eu quero mostrar para vocês aqui
+[00:01:54:25 --> 00:02:03:15] alguns modelos de negócios que podem ser apresentados em uma única página, por isso um canvas de negócio.
+[00:02:04:03 --> 00:02:08:07] No passado e até hoje existe um termo chamado plano de negócio.
+[00:02:08:15 --> 00:02:16:05] Eu lembro que quando eu tinha meus 14 anos eu peguei lá na biblioteca da minha mãe um livro que chamava
+[00:02:16:05 --> 00:02:20:01] Como montar o seu plano de negócios. E o livro ele era grandão.
+[00:02:20:01 --> 00:02:25:12] E eu comecei a ler aquele livro, achava um monte de coisa chata e ia pulando, mas tinha
+[00:02:25:12 --> 00:02:27:09] muita coisa pra pesquisar, muita.
+[00:02:27:23 --> 00:02:33:10] E geralmente, quando eu lembro de alguns trechos do livro, ele falava que você iria ficar
+[00:02:33:10 --> 00:02:40:25] cerca de 6 meses a 1 ano planejando o negócio, forrando o terreno ali, pra que depois você
+[00:02:40:25 --> 00:02:43:07] consiga criar esse negócio com mais assertividade.
+[00:02:43:07 --> 00:02:50:03] Então, o plano de negócio é um empreendimento por si só que pode demorar anos.
+[00:02:50:07 --> 00:02:54:22] Eu cheguei a conhecer um cara que aplicou um plano de negócio e ele ficou por dois anos
+[00:02:54:22 --> 00:02:59:27] validando em fase beta, testando o negócio para finalmente lançar o negócio no mercado.
+[00:03:00:07 --> 00:03:06:28] Então, você faz pesquisa de mercado, de público, de concorrência, tendência, cultura do mercado...
+[00:03:06:28 --> 00:03:09:24] Você entende uma série de fatores para ser mais assertivo.
+[00:03:09:24 --> 00:03:14:15] Só que com o tempo, os empreendedores começaram a perceber que fazer o plano de negócio é
+[00:03:14:15 --> 00:03:19:23] muito arriscado, porque você ficava muito tempo estudando aquele negócio e pode ser
+[00:03:19:23 --> 00:03:23:10] que depois que você acabou o plano de negócio, o mercado já mudou, as coisas estavam acontecendo
+[00:03:23:10 --> 00:03:27:12] muito rápido e você não conseguia acompanhar, seu plano de negócio já era velho, já
+[00:03:27:12 --> 00:03:28:27] era obsoleto, tinha que jogar fora.
+[00:03:29:10 --> 00:03:33:29] E foi pensando nisso que criaram o Business Model Canvas.
+[00:03:34:21 --> 00:03:38:20] O nome dos autores eu até anotei aqui pra vocês porque eu sempre esqueço, tá?
+[00:03:39:28 --> 00:03:47:02] O nome dos autores, do autor, né, é Alan Smith, Alan Smith.
+[00:03:47:17 --> 00:03:54:03] Ele projetou o Business Model Canvas com o intuito de mudar a mentalidade de plano de negócio
+[00:03:54:03 --> 00:03:56:01] para uma mentalidade de modelo de negócio.
+[00:03:56:17 --> 00:03:59:00] Qual que é a diferença do plano de negócio para o modelo de negócio?
+[00:03:59:12 --> 00:04:04:08] O modelo de negócio, um dos princípios dele é que ele precisa ser simples de entender.
+[00:04:04:25 --> 00:04:09:14] E ele precisa ter, claramente, tem que ser bem claro qual é o core da empresa,
+[00:04:09:14 --> 00:04:12:29] O que que ela faz, qual que é o valor que ela gera e pra quem que ela gera esse valor?
+[00:04:13:05 --> 00:04:14:26] Em essência, basicamente.
+[00:04:15:08 --> 00:04:17:03] É isso, são quatro perguntas, né?
+[00:04:17:06 --> 00:04:21:17] Que é como, o que, pra quem e a última é...
+[00:04:22:18 --> 00:04:26:18] Se eu não me engano, é quando ou quanto, alguma coisa assim.
+[00:04:26:25 --> 00:04:28:02] Nós vamos passar por isso aqui.
+[00:04:28:13 --> 00:04:30:26] Mas eram quatro perguntas que precisavam ser respondidas.
+[00:04:31:17 --> 00:04:36:28] E eles criaram, o Alan Smith então criou o modelo de negócio lá em 2000,
+[00:04:37:03 --> 00:04:43:04] no ano 2000, lá na Universidade de Harvard, Harvard Business School,
+[00:04:43:28 --> 00:04:46:21] junto com várias pessoas, tá? Eu até coloquei aqui, ó...
+[00:04:47:21 --> 00:04:57:06] Foram 470 praticantes em 45 países para poder validar o Business Model Campus.
+[00:04:58:17 --> 00:05:01:07] Então, tinha já uma mentalidade de validação, né?
+[00:05:01:07 --> 00:05:06:26] Aquilo lá em 2000, o BMC, nascendo, era como se fosse a sementinha da cultura de startup.
+[00:05:07:09 --> 00:05:12:21] De ter uma ideia, incubar a ideia e fazer aquele processo todo de criação de uma startup.
+[00:05:13:08 --> 00:05:16:16] E tudo isso veio, acredita ou não, o que eu acho mais interessante,
+[00:05:16:16 --> 00:05:25:00] de uma junção, uma conexão entre a mentalidade do mundo dos negócios, que era muito estratégica,
+[00:05:25:13 --> 00:05:33:04] com a mentalidade do, adivinhem, do design. Um termo muito famoso que surgiu, mais ou menos nessa
+[00:05:33:04 --> 00:05:41:10] época também, foi o termo design thinking, que é o pensamento do design. O que acontece é que os
+[00:05:41:10 --> 00:05:47:08] atendedores notaram que a inovação era muito importante, né, num mercado frenético, super rápido,
+[00:05:47:12 --> 00:05:53:06] evoluindo, é importante a empresa se diferenciar, é importante ela inovar e é importante ela ser
+[00:05:53:06 --> 00:05:59:22] estratégica. E eles perceberam que o pensamento do design, o jeito dos designers de pensar e de
+[00:05:59:22 --> 00:06:07:24] solucionar problemas era muito útil para o mundo dos negócios. E foi assim, pegando emprestado um
+[00:06:08:27 --> 00:06:12:03] um jeito de fazer, né, dos designers,
+[00:06:12:28 --> 00:06:17:07] os empreendedores e os estrategistas começaram a utilizar essa lógica de trabalho,
+[00:06:17:10 --> 00:06:21:21] que é uma lógica mais lateral, gera alternativa, testa, valida, lapida,
+[00:06:22:06 --> 00:06:23:10] né, que é o double diamond.
+[00:06:24:09 --> 00:06:25:03] Você tá aqui.
+[00:06:25:16 --> 00:06:26:12] Deixa eu ver se eu consigo fazer.
+[00:06:26:16 --> 00:06:29:21] Primeiro você aumenta, que aí você tá gerando alternativas,
+[00:06:30:07 --> 00:06:31:24] depois você seleciona...
+[00:06:32:28 --> 00:06:35:09] Eu acho que vai ser até mais fácil se eu desenhar, né?
+[00:06:35:18 --> 00:06:37:22] Deixa eu ver se eu consigo pegar aqui o meu Illustrator.
+[00:06:38:10 --> 00:06:41:23] Essa lógica do Double Diamond, vocês também podem pesquisar aí no Google,
+[00:06:42:06 --> 00:06:42:17] depois...
+[00:06:42:17 --> 00:06:45:01] Ah, eu posso fazer isso aqui, vai ficar até mais fácil, olha só.
+[00:06:45:21 --> 00:06:46:15] Do que eu desenhar.
+[00:06:47:13 --> 00:06:47:24] Double...
+[00:06:49:03 --> 00:06:50:19] Vou colocar a tela pra vocês, um minuto.
+[00:06:52:28 --> 00:06:53:13] Tchau, tchau!
+[00:06:54:18 --> 00:07:01:10] Pesquisei aqui, Double Diamond, que é diamante duplo, vou colocar em imagens.
+[00:07:01:18 --> 00:07:02:29] E aí é mais ou menos esse processo aqui.
+[00:07:03:22 --> 00:07:05:10] Deixa eu ver uma imagem mais legal, essa aqui.
+[00:07:08:04 --> 00:07:09:23] Abrir, imagem, nova aba.
+[00:07:10:23 --> 00:07:13:05] Poxa vida, tinha que ser uma imagem pequena, né?
+[00:07:13:20 --> 00:07:14:23] Deixa eu ver uma maiorzinha.
+[00:07:17:01 --> 00:07:18:20] Tudo isso aqui é a mesma coisa, tá?
+[00:07:18:28 --> 00:07:23:20] São várias pessoas aplicando a metodologia de um jeito.
+[00:07:24:07 --> 00:07:26:11] Com o próprio design aí, eu estou querendo pegar...
+[00:07:26:28 --> 00:07:29:09] Ah, é só se eu colocar grande aqui também, né?
+[00:07:29:26 --> 00:07:30:28] Para facilitar.
+[00:07:31:17 --> 00:07:33:07] E eu quero o mais simples possível.
+[00:07:34:17 --> 00:07:36:09] Vamos ver esse aqui, esse aqui está bem simples.
+[00:07:37:26 --> 00:07:40:09] Então, aqui, descoberta, você tem um problema.
+[00:07:40:19 --> 00:07:43:06] A primeira etapa é descoberta, então você vai ampliar.
+[00:07:43:20 --> 00:07:45:20] Movimento de ampliação aqui.
+[00:07:46:02 --> 00:07:48:08] Você está entendendo o problema,
+[00:07:48:17 --> 00:07:51:25] coletando informação, quanto mais informação você coleta, melhor.
+[00:07:52:12 --> 00:07:55:04] Depois de descobrir, aqui nós chamamos essa etapa de quê?
+[00:07:55:04 --> 00:07:56:08] De investigação, certo?
+[00:07:56:19 --> 00:07:58:21] Nós vamos definir.
+[00:07:58:23 --> 00:08:00:09] Então, aqui, definir uma área de foco.
+[00:08:00:16 --> 00:08:02:22] Então, o que nós fazemos? Nós selecionamos.
+[00:08:03:04 --> 00:08:04:20] Isso aqui dentro da nossa metodologia
+[00:08:04:20 --> 00:08:07:11] é a etapa que nós chamamos de etapa estratégica,
+[00:08:07:11 --> 00:08:11:18] é onde você vai fazer escolhas, definir qual caminho você vai seguir.
+[00:08:11:29 --> 00:08:14:11] Então, primeiro descobre, depois define.
+[00:08:14:24 --> 00:08:18:16] E aí, aqui vem a criação, primeiro você gera, que é o desenvolvimento.
+[00:08:18:17 --> 00:08:19:10] O que é o desenvolvimento?
+[00:08:20:00 --> 00:08:22:15] Geração de alternativas, tá?
+[00:08:22:21 --> 00:08:27:08] E depois, aqui em Deliver, seria mais ou menos como uma lapidação.
+[00:08:27:21 --> 00:08:30:18] Então, depois de desenvolver, você lapida a ideia.
+[00:08:30:21 --> 00:08:32:27] Então, por exemplo, vai criar um logotipo.
+[00:08:33:03 --> 00:08:35:08] Você primeiro descobre, coleta informação,
+[00:08:35:08 --> 00:08:41:02] depois você define, define uma estratégia, depois você desenvolve e, por fim, você lapida.
+[00:08:41:03 --> 00:08:43:19] Isso aqui é o Double Diamond, super simples.
+[00:08:43:28 --> 00:08:51:11] E essa lógica de produção, de desenvolvimento, foi a lógica que invadiu o mundo dos negócios.
+[00:08:51:17 --> 00:08:54:23] E começaram a surgir startups, vários testes diferentes.
+[00:08:55:03 --> 00:09:02:05] Se você não sabe, ali em 2000, muitas das empresas que hoje são as grandes referências de inovação pra gente,
+[00:09:02:05 --> 00:09:07:13] Por exemplo, Netflix, Amazon, elas já existiam no ano 2000.
+[00:09:08:02 --> 00:09:12:15] Era ali no comecinho e elas já existiam e já seguiam com essa mentalidade.
+[00:09:12:24 --> 00:09:17:18] Vários livros abordam ou pegam emprestado conceitos do design thinking.
+[00:09:17:20 --> 00:09:21:15] Por exemplo, livros do mundo dos negócios que depois, se você quisesse aprofundar,
+[00:09:21:17 --> 00:09:25:18] são muito bons e importantes para nós designers que somos mais estrategistas.
+[00:09:26:00 --> 00:09:29:12] É por exemplo, a cauda longa ou então o oceano azul.
+[00:09:29:12 --> 00:09:35:00] São livros que pegam emprestado essa lógica que eu acabei de mostrar para vocês de inovação.
+[00:09:35:13 --> 00:09:39:17] O Oceano Azul, por exemplo, ele defende a ideia de que existem oceanos vermelhos, onde
+[00:09:39:17 --> 00:09:42:28] a concorrência é muito alta, todo mundo está fazendo tudo igual e é muito difícil
+[00:09:42:28 --> 00:09:45:24] conseguir o cliente e você acaba tendo que lutar por preço.
+[00:09:46:05 --> 00:09:51:06] Mas existem segmentos, nichos, mercados que são como oceanos azuis.
+[00:09:51:15 --> 00:09:54:27] Você não vê nada, só a imensidão azul, nenhum barquinho, nenhuma concorrência.
+[00:09:55:11 --> 00:09:57:14] Esse é o ambiente da inovação.
+[00:09:57:14 --> 00:09:59:19] E qualquer negócio pode inovar.
+[00:09:59:24 --> 00:10:05:08] Nós vivemos, nos últimos anos, uma febre de inovação, uma febre de quebra de paradigmas.
+[00:10:05:17 --> 00:10:13:04] Por exemplo, Uber quebrou o paradigma dos táxis, por exemplo, ou Airbnb quebrou o
+[00:10:13:04 --> 00:10:18:19] paradigma dos hotéis, ou o iFood quebrou o paradigma do delivery tradicional por
+[00:10:18:19 --> 00:10:19:08] telefone.
+[00:10:19:21 --> 00:10:24:24] Então, foram várias inovações, e muitas outras surgindo o tempo inteiro, que nos
+[00:10:25:03 --> 00:10:29:26] que fizeram nos acostumar com esse tanto de inovação, mas elas sempre vêm de um lugar,
+[00:10:30:00 --> 00:10:34:26] elas sempre são pensadas. E uma coisa que eu acho muito interessante, isso eu aprendi no
+[00:10:34:26 --> 00:10:40:10] sétimo período da minha faculdade, no finalzinho, olha só, é que nós estamos muito acostumados a
+[00:10:40:10 --> 00:10:46:14] pensar em projetar produtos. Então, ah, quando eu falo para vocês, eu vou projetar um produto,
+[00:10:46:15 --> 00:10:50:28] é fácil de entender, eu vou projetar um copo que esquenta a comida automaticamente. Legal,
+[00:10:50:28 --> 00:10:57:08] É fácil de entender que dá pra projetar um copo, mas a mesma lógica usada pra projetar
+[00:10:57:08 --> 00:11:01:12] um copo também pode ser utilizada pra projetar um serviço, por exemplo.
+[00:11:02:04 --> 00:11:08:06] As dimensões mudam, o copo tem uma dimensão espacial, o serviço tem uma dimensão de
+[00:11:08:06 --> 00:11:08:18] tempo.
+[00:11:09:15 --> 00:11:14:28] E outra coisa também que dá pra projetar e as pessoas não se tocam é que dá
+[00:11:14:28 --> 00:11:16:29] para projetar uma empresa.
+[00:11:17:26 --> 00:11:20:06] Usando a mesma lógica para projetar um copo
+[00:11:20:06 --> 00:11:23:00] ou para projetar um serviço, também dá para projetar uma empresa.
+[00:11:23:12 --> 00:11:27:04] E foi com esse pensamento que o BMC nasceu.
+[00:11:27:13 --> 00:11:29:29] Se vocês pesquisarem aqui no Google também,
+[00:11:30:06 --> 00:11:32:28] eu gosto de ter esse módulo de metodologia
+[00:11:33:14 --> 00:11:35:03] que é a nossa ferramenta principal, o Google.
+[00:11:35:16 --> 00:11:36:29] E o jeito que eu pesquiso aqui,
+[00:11:37:06 --> 00:11:39:08] eu meio que induzo vocês a fazerem o mesmo,
+[00:11:39:11 --> 00:11:41:12] a pesquisarem e se aprofundarem, tá?
+[00:11:41:14 --> 00:11:43:26] O meu objetivo aqui é mostrar muitas portas para vocês.
+[00:11:43:26 --> 00:11:49:23] Então olha, se você digitar aqui Business, Model, Canvas, vai aparecer este tanto de
+[00:11:49:23 --> 00:11:50:26] quadradinho aqui, tá vendo?
+[00:11:50:26 --> 00:11:52:20] Isso aqui...
+[00:11:54:02 --> 00:11:57:13] um modelo de negócio representado em uma página.
+[00:11:57:27 --> 00:12:00:24] Simples assim, um modelo de negócio representado em uma página.
+[00:12:01:09 --> 00:12:06:11] Só que as pessoas se limitam muito a simplesmente preencher os quadradinhos.
+[00:12:06:23 --> 00:12:09:23] Aqui hoje eu vou ensinar vocês como preencher os quadradinhos.
+[00:12:09:27 --> 00:12:14:10] Deixa eu abrir um aqui, vou colocar grande também, para ficar melhor de ver.
+[00:12:14:26 --> 00:12:15:22] Então, grande...
+[00:12:17:01 --> 00:12:17:20] Aí...
+[00:12:20:05 --> 00:12:21:11] Nossa, esse era o grande?
+[00:12:21:23 --> 00:12:24:14] Eu acho que é porque estava carregando ainda e eu coloquei para abrir.
+[00:12:25:01 --> 00:12:25:26] Deixa eu ver se agora vai.
+[00:12:26:06 --> 00:12:27:11] Aê, assim é melhor, né?
+[00:12:27:28 --> 00:12:32:15] Não vai dar para vocês lerem agora, mas fique tranquilos que nós vamos passar por cada um desses quadradinhos aí, tá?
+[00:12:32:20 --> 00:12:34:02] Nesses retângulos, né?
+[00:12:35:02 --> 00:12:38:17] Mas as pessoas se limitam muito a preencher isso, a preencher, e acabou.
+[00:12:39:09 --> 00:12:40:26] E não é basicamente assim.
+[00:12:41:14 --> 00:12:44:14] O legal é que, apenas olhando para uma folha,
+[00:12:44:21 --> 00:12:48:18] vocês conseguem visualizar um modelo de negócio inteiro,
+[00:12:48:18 --> 00:12:50:01] de um jeito simples.
+[00:12:50:17 --> 00:12:53:23] Depois que nós construímos o modelo de negócio com muita informação,
+[00:12:54:08 --> 00:12:57:24] nós voltamos nele e lapidamos ele com a essência, tá?
+[00:12:57:26 --> 00:13:01:04] Eu vou mostrar para vocês no final da aula alguns modelos de negócio
+[00:13:01:04 --> 00:13:04:28] interessantes que eu separei aqui e vai ser muito massa para vocês entenderem.
+[00:13:05:27 --> 00:13:09:05] Mas, basicamente, a partir desses quadrantes aí,
+[00:13:10:08 --> 00:13:14:22] nós vamos ter uma visão geral do negócio, do nosso cliente.
+[00:13:14:24 --> 00:13:18:02] E isso é muito importante com o básimo que eu disse para vocês logo
+[00:13:18:02 --> 00:13:19:04] quando nós começamos aqui.
+[00:13:19:06 --> 00:13:21:08] É possível fazer o resumo de um livro que você não leu?
+[00:13:21:11 --> 00:13:24:05] Como é que você vai sintetizar, definir uma identidade
+[00:13:24:05 --> 00:13:28:12] se você não consegue entender como aquela empresa funciona, tá?
+[00:13:28:16 --> 00:13:31:01] E é por isso que a auditoria do negócio é muito importante.
+[00:13:31:13 --> 00:13:33:01] Vocês vão ver, às vezes eu falo,
+[00:13:33:05 --> 00:13:36:20] a auditoria do negócio parece algo muito complexo.
+[00:13:36:23 --> 00:13:39:23] Mas vocês vão ver que é simples, é muito simples,
+[00:13:40:01 --> 00:13:44:12] mas é muito útil na hora de trabalhar o seu design de identidade de marca.
+[00:13:45:00 --> 00:13:47:05] Então, nós vamos passar por cada um desses pontos
+[00:13:47:05 --> 00:13:51:16] E o que eu digo para vocês é, não achem que é tão óbvio assim também, né?
+[00:13:51:20 --> 00:13:52:18] Ah, eu começo preenchendo aqui?
+[00:13:52:26 --> 00:13:54:29] Não, você começa preenchendo no meio.
+[00:13:55:02 --> 00:13:56:18] Tem uma lógica aqui de construção.
+[00:13:57:09 --> 00:13:59:29] Eu vou, inclusive, fazer o seguinte, olha.
+[00:14:00:00 --> 00:14:03:19] Eu vou abrir aqui o Illustrator e eu vou colocar essa imagem lá.
+[00:14:03:26 --> 00:14:04:23] Olha que legal, tá?
+[00:14:05:06 --> 00:14:08:00] Eu falei para vocês que essa é uma ferramenta livre que vocês podem utilizar,
+[00:14:08:01 --> 00:14:08:19] a hora que quiser.
+[00:14:08:28 --> 00:14:12:05] Inclusive, não tem problema eu apresentar uma metodologia de outra pessoa
+[00:14:12:05 --> 00:14:16:18] aqui dentro da Odisseia para vocês, porque aqui embaixo,
+[00:14:16:18 --> 00:14:17:16] Tá vendo esse CC?
+[00:14:18:12 --> 00:14:22:16] Isso aqui significa Creative Commons.
+[00:14:24:21 --> 00:14:31:29] significa que é uma organização não governamental sem fins lucrativos localizados em Mountain View,
+[00:14:31:29 --> 00:14:35:26] Califórnia, voltada a expandir a qualidade de obras criativas disponíveis.
+[00:14:36:00 --> 00:14:36:26] Isso aqui que é o mais legal.
+[00:14:37:23 --> 00:14:38:26] Quando alguma coisa...
+[00:14:38:26 --> 00:14:44:01] E não aqui está falando que é uma organização, mas pode ser também considerado um movimento.
+[00:14:44:23 --> 00:14:46:17] Creative Common é um movimento.
+[00:14:47:03 --> 00:14:48:24] E qual é o objetivo desse movimento?
+[00:14:49:20 --> 00:14:52:25] É criar uma inteligência open source.
+[00:14:52:25 --> 00:14:55:07] Quem trabalha com desenvolvimento sabe o que significa open source,
+[00:14:55:10 --> 00:14:56:25] é como se fosse código aberto.
+[00:14:57:04 --> 00:14:59:07] Qualquer um pode pegar, distribuir, utilizar.
+[00:14:59:29 --> 00:15:01:20] Existem vários tipos...
+[00:15:01:20 --> 00:15:02:22] Deixa eu ver se aqui tem...
+[00:15:03:15 --> 00:15:04:19] Aqui embaixo, esses selinhos,
+[00:15:04:22 --> 00:15:08:23] cada um representa alguma coisa, não é à toa que está ali.
+[00:15:09:01 --> 00:15:11:01] Mas existem vários tipos de licença,
+[00:15:11:03 --> 00:15:12:14] nós podemos chamar assim...
+[00:15:12:14 --> 00:15:14:16] E a Creative Commons é a licença livre para uso.
+[00:15:14:23 --> 00:15:17:22] Por isso que não tem problema nenhum apresentar esses modelos para vocês,
+[00:15:17:23 --> 00:15:21:02] tanto o Double Diamond quanto também o BMC,
+[00:15:21:07 --> 00:15:22:13] porque eles são livres para uso.
+[00:15:22:13 --> 00:15:25:20] e também você não precisa pagar nenhuma licença para utilizar eles
+[00:15:25:20 --> 00:15:27:16] na sua metodologia de design, tá bom?
+[00:15:28:04 --> 00:15:29:12] Então, eu vou fazer o seguinte, ó.
+[00:15:30:06 --> 00:15:31:11] Vou abrir aqui o Illustrator
+[00:15:32:05 --> 00:15:33:13] e vou puxar para cá.
+[00:15:35:00 --> 00:15:37:03] Porque aí vocês vão vendo qualquer lógica, tá?
+[00:15:37:12 --> 00:15:41:19] Existem várias formas de preencher o BMC.
+[00:15:45:09 --> 00:15:50:08] O mais legal é que só com ele, vocês vão ver, só com ele você já vai conseguir ter
+[00:15:50:08 --> 00:15:55:10] uma visão geral do negócio e é mais do que suficiente para passar para a próxima auditoria,
+[00:15:55:10 --> 00:15:55:17] tá?
+[00:15:56:10 --> 00:16:00:02] Então agora eu vou colocar aqui na tela de vocês o ilustrador.
+[00:16:01:22 --> 00:16:02:04] Aí!
+[00:16:03:04 --> 00:16:04:00] Então, tá aqui, ó.
+[00:16:04:10 --> 00:16:07:22] Vai ficar ruim de ver se eu ampliar, mas eu quero mais mostrar a lógica pra vocês.
+[00:16:09:09 --> 00:16:12:15] De onde que a gente começa? Tem dois jeitos de começar, tá?
+[00:16:12:22 --> 00:16:16:14] O mais comum é começar daqui, e faz muito sentido.
+[00:16:16:21 --> 00:16:19:04] Primeira coisa, entendendo com quem...
+[00:16:20:25 --> 00:16:23:03] Quem eu ajudo? Quem eu sirvo?
+[00:16:23:16 --> 00:16:27:16] Isso aqui já está enraizado, eu costumo falar muito com vocês, que é o quê?
+[00:16:27:16 --> 00:16:28:28] Maior é o que serve.
+[00:16:29:06 --> 00:16:31:03] Nós estamos aqui para servir.
+[00:16:31:11 --> 00:16:33:29] Quando nós servimos bem, nós somos bem servidos também.
+[00:16:34:11 --> 00:16:37:03] Então, a primeira coisa que nós precisamos entender é quem nós vamos passar.
+[00:16:37:14 --> 00:16:41:09] Eu vou entrar em cada um desses quadrantes aqui, explicar cada um deles para vocês,
+[00:16:41:12 --> 00:16:43:19] inclusive como encontrar essas informações, tá?
+[00:16:44:03 --> 00:16:45:26] Depois tem proposta de valor,
+[00:16:46:25 --> 00:16:48:21] depois vem para canais,
+[00:16:48:21 --> 00:16:49:26] Relacionamento.
+[00:16:51:09 --> 00:16:55:29] Aí, a gente pula, na verdade, tem duas formas de fazer aqui também,
+[00:16:56:01 --> 00:16:58:17] você pode tanto vir para cá, o quinto,
+[00:16:59:00 --> 00:17:02:23] ou pode pular aqui direto para esses e deixar os dois aqui para o final.
+[00:17:03:21 --> 00:17:05:12] E o que eu acho mais legal do BMC,
+[00:17:05:15 --> 00:17:07:03] eu estou colocando uma lógica aqui para vocês,
+[00:17:07:05 --> 00:17:10:05] que isso aqui é o padrão, é o padrão mais comum para ser orientado.
+[00:17:10:16 --> 00:17:12:10] Mas o mais interessante que vocês vão ver
+[00:17:12:10 --> 00:17:16:18] é que cada quadrante desses pode apresentar um diferencial da empresa.
+[00:17:17:00 --> 00:17:20:05] Existem empresas que o grande diferencial dela está na proposta de valor.
+[00:17:20:05 --> 00:17:23:28] Existem empresas que o grande diferencial dela está no segmento.
+[00:17:23:29 --> 00:17:27:26] Existem empresas que o grande diferencial dela está na estrutura de custo.
+[00:17:28:23 --> 00:17:30:07] Porque ela tem uma boa estrutura de custo.
+[00:17:30:08 --> 00:17:34:12] Existem vários tipos de empresas diferentes, vários modelos de negócios diferentes.
+[00:17:34:21 --> 00:17:37:08] Tem como você crescer uma empresa de várias formas.
+[00:17:37:20 --> 00:17:40:14] E aqui o legal do BMC é isso.
+[00:17:40:18 --> 00:17:44:18] Que depois de preencher, vocês podem ter uma visão clara de
+[00:17:44:18 --> 00:17:49:07] poxa, o diferencial nessa empresa está nos parceiros.
+[00:17:49:07 --> 00:17:55:28] O diferencial dessa empresa está nos recursos ou na proposta de valor diferenciada.
+[00:17:57:04 --> 00:17:58:09] Isso é muito interessante.
+[00:17:58:21 --> 00:18:01:24] Para preencher o BMC, vocês podem fazer isso de várias formas, tá?
+[00:18:03:10 --> 00:18:07:07] colaborando ou sozinhos, eu recomendo para vocês duas coisas.
+[00:18:07:16 --> 00:18:13:15] Na hora de definir o briefing junto com o cliente, você aplica uma rodada, primeira rodada.
+[00:18:14:20 --> 00:18:16:06] Deixa eu escrever que vai ser mais rápido, né?
+[00:18:17:14 --> 00:18:21:09] Primeira rodada do BMC, junto com seu cliente...
+[00:18:22:07 --> 00:18:24:12] E tem algumas formas de fazer isso?
+[00:18:25:05 --> 00:18:25:22] Rodada.
+[00:18:26:24 --> 00:18:27:12] Rodada.
+[00:18:29:16 --> 00:18:32:02] Primeira rodada, junto com o cliente.
+[00:18:34:16 --> 00:18:36:12] Cacke na nua raça
+[00:18:38:19 --> 00:18:39:20] com o cliente.
+[00:18:41:13 --> 00:18:42:12] A cliente, né?
+[00:18:43:15 --> 00:18:45:13] Então, a primeira rodada junto com o cliente.
+[00:18:45:20 --> 00:18:48:12] Segunda rodada sozinho, fazer duas vezes.
+[00:18:51:18 --> 00:18:58:03] E, se você quiser, não é toda vez que eu faço isso, mas algumas vezes eu faço e é muito bom,
+[00:18:58:18 --> 00:19:00:09] é uma terceira rodada...
+[00:19:01:21 --> 00:19:03:04] na etapa de estratégia.
+[00:19:06:01 --> 00:19:11:24] Por quê? Porque aqui você está entendendo o negócio, ó, lupinha, investigação.
+[00:19:12:22 --> 00:19:15:18] Aqui você está escolhendo.
+[00:19:17:13 --> 00:19:21:27] Então, aqui você vai criar o BMC, aqui você vai...
+[00:19:23:13 --> 00:19:27:16] Descobrir. Descobrir. Aqui você vai definir. Vai criar. Entendeu?
+[00:19:27:18 --> 00:19:32:14] Então, em alguns momentos vale a pena fazer o BMC de novo, na etapa estratégica, para falar.
+[00:19:32:28 --> 00:19:37:12] Olha, aqui eu vejo a oportunidade. Aqui eu vejo a oportunidade. Por aí vai.
+[00:19:37:29 --> 00:19:40:25] Um exemplo, o último projeto que eu estou trabalhando, da alquimia.
+[00:19:41:13 --> 00:19:44:18] Eu notei que um grande diferencial deles são os parceiros-chaves.
+[00:19:45:00 --> 00:19:51:12] Então, eu notei, e olha só que interessante, que uma parte do relacionamento e dos canais de contato
+[00:19:51:12 --> 00:19:55:08] eu preciso levar em consideração os parceiros.
+[00:19:55:15 --> 00:19:57:18] Eu preciso conversar também com os parceiros,
+[00:19:57:23 --> 00:19:59:06] porque eles são importantes para esse negócio.
+[00:19:59:24 --> 00:20:01:21] Tem negócios que os parceiros ficam...
+[00:20:02:11 --> 00:20:04:15] Numa hierarquia, eles não são tão importantes assim,
+[00:20:04:18 --> 00:20:05:12] ficam lá para baixo.
+[00:20:05:26 --> 00:20:08:06] Então, a gente define outros fatores como importantes.
+[00:20:08:16 --> 00:20:10:11] Por isso que o BMC é tão versátil,
+[00:20:10:15 --> 00:20:11:18] ele é tão flexível,
+[00:20:11:29 --> 00:20:13:05] e é por isso que eu adotei ele aqui
+[00:20:13:05 --> 00:20:15:08] e prefiro ensina-lo para vocês dessa forma, tá?
+[00:20:16:24 --> 00:20:20:14] Se vocês forem apresentar para o cliente aqui, olha, é legal falar isso com vocês?
+[00:20:21:03 --> 00:20:24:23] Existem várias formas de fazer, eu já fiz de duas, que funcionam muito bem.
+[00:20:25:05 --> 00:20:29:21] Uma delas é você fazer isso como se fosse um questionário,
+[00:20:30:06 --> 00:20:34:24] então tem uma lista de perguntas e você vai fazendo as perguntas e o cliente vai respondendo, tá?
+[00:20:34:27 --> 00:20:36:29] Então você... como se fosse uma entrevista.
+[00:20:37:08 --> 00:20:40:02] E a outra rodada é compostite.
+[00:20:41:19 --> 00:20:45:09] Quando você tem mais pessoas na equipe, o postit é muito bom, tá?
+[00:20:45:17 --> 00:20:46:15] Muito, muito útil.
+[00:20:47:03 --> 00:20:47:27] E como é que funciona?
+[00:20:48:22 --> 00:20:50:06] O que você pode fazer aí, é muito bom.
+[00:20:50:13 --> 00:20:54:09] Você pode criar isso daqui, olha, e pode criar o seu, tá? Fica à vontade, ó.
+[00:20:55:04 --> 00:20:55:14] Vai lá.
+[00:20:56:26 --> 00:20:59:28] Criar os quadradinhos, os quadrantes.
+[00:21:00:05 --> 00:21:04:02] Não tem problema, por isso significa ser Creative Commons.
+[00:21:07:03 --> 00:21:08:05] Coloca aqui.
+[00:21:08:22 --> 00:21:09:27] Claro que você sempre...
+[00:21:10:26 --> 00:21:15:06] Lá na hora de aplicar a sua metodologia, você não fica citando
+[00:21:16:19 --> 00:21:18:20] essa metodologia, porque o seu cliente não quer saber disso.
+[00:21:19:05 --> 00:21:21:01] Mas igual eu aqui que estou ensinando isso para vocês,
+[00:21:21:04 --> 00:21:23:03] eu gosto sempre de citar a fonte.
+[00:21:24:11 --> 00:21:26:11] Criei. Você pode fazer desse jeito se quiser.
+[00:21:27:16 --> 00:21:29:11] E aí você vai imprimir num...
+[00:21:30:08 --> 00:21:35:10] Pode imprimir num A2, até um A3 está bom também.
+[00:21:35:19 --> 00:21:37:16] Um A2 é melhor porque cabe mais post-it.
+[00:21:38:01 --> 00:21:40:15] Você imprime esse quadrante desse jeito aqui
+[00:21:40:15 --> 00:21:42:26] e vamos supor que você tem lá na equipe...
+[00:21:45:10 --> 00:21:48:26] você está colaborando com você nesse diagnóstico inicial,
+[00:21:48:29 --> 00:21:52:02] tem quatro pessoas ou três pessoas junto com você.
+[00:21:52:05 --> 00:21:53:03] Você orienta.
+[00:21:53:21 --> 00:21:58:05] Se for presencialmente, você pode levar isso impresso,
+[00:21:58:13 --> 00:22:00:16] igual eu ensinei para vocês, para usar post-it.
+[00:22:00:24 --> 00:22:02:15] Senão, você pode usar também o Figma.
+[00:22:03:01 --> 00:22:05:08] O Figma tem um modelo online de fazer isso.
+[00:22:05:21 --> 00:22:09:07] Sempre, obviamente, você vai analisar o perfil do seu cliente.
+[00:22:09:10 --> 00:22:11:29] Quando o seu cliente está mais ligado com tecnologia,
+[00:22:12:13 --> 00:22:13:26] ele está mais conectado com isso,
+[00:22:13:26 --> 00:22:15:28] ele vai amar fazer isso junto com você.
+[00:22:16:05 --> 00:22:18:25] Se o cliente for muito desconectado de tecnologia,
+[00:22:19:06 --> 00:22:20:27] se sentir perdido até para usar o Zoom,
+[00:22:21:14 --> 00:22:23:14] aí eu recomendo não fazer desse jeito, tá?
+[00:22:23:14 --> 00:22:25:27] Você segue aqui no questionário, você vai perguntando
+[00:22:25:27 --> 00:22:27:12] e ele vai te respondendo.
+[00:22:27:14 --> 00:22:30:18] Por isso que é importante ler o tipo de cliente, tá?
+[00:22:31:04 --> 00:22:32:08] Mas se isso aqui acontecer,
+[00:22:32:20 --> 00:22:34:08] você vai conseguir muita informação,
+[00:22:34:11 --> 00:22:36:04] vai ser muito útil para você, tá bom?
+[00:22:36:17 --> 00:22:37:17] E aí o que você vai fazer?
+[00:22:37:27 --> 00:22:40:26] Você vai dar um post-it de cor separada para cada um.
+[00:22:40:28 --> 00:22:43:05] Ah, esse aqui é o verde, esse aqui é o azul,
+[00:22:43:05 --> 00:22:45:08] e esse aqui é o laranja.
+[00:22:45:15 --> 00:22:47:19] E aí cada um tem os seus post-it e uma caneta.
+[00:22:48:08 --> 00:22:52:19] E você vai guiando eles, fazendo perguntas e cada um vai responder o seu e colar.
+[00:22:52:23 --> 00:22:56:04] Então você vai perguntar quais são, eu vou mostrar aqui as perguntas para vocês,
+[00:22:56:17 --> 00:23:00:03] mas uma que é muito comum, quais são os segmentos de cliente que nós atendemos.
+[00:23:00:18 --> 00:23:02:10] E aí começam a aparecer lá os post-it.
+[00:23:03:08 --> 00:23:05:11] Aí aparece o post-it verde que alguém escreveu,
+[00:23:05:12 --> 00:23:07:29] nós atendemos pessoas assim, assim, assim.
+[00:23:08:05 --> 00:23:11:01] Aparece o post-it laranja lá também, que é outra pessoa anotando.
+[00:23:11:01 --> 00:23:14:06] E aparece também o azul que eu tinha falado.
+[00:23:14:14 --> 00:23:15:26] E eles podem colocar vários.
+[00:23:15:28 --> 00:23:18:20] Se o post-it acabar, eles podem colocar mais post-its ali, tá bom?
+[00:23:19:23 --> 00:23:21:23] E aí você vai conseguindo mais informações.
+[00:23:21:27 --> 00:23:23:23] Legal, qual que é o valor que a empresa gera?
+[00:23:24:29 --> 00:23:27:12] São várias perguntas, você pode ir respondendo uma por uma.
+[00:23:27:17 --> 00:23:29:16] Primeira pergunta, qual problema nós ajudamos a resolver?
+[00:23:30:02 --> 00:23:33:19] O laranja escreve o dele, o verde escreve o dele, o azul escreve o dele.
+[00:23:34:11 --> 00:23:36:18] Depois, você vai pegar isso tudo aqui
+[00:23:36:18 --> 00:23:39:01] e vai reunir e guardar essa informação.
+[00:23:40:18 --> 00:23:44:24] Redigir ela em um documento que vai ser muito útil para você no futuro.
+[00:23:44:28 --> 00:23:46:06] Nós estamos aqui reunindo informação.
+[00:23:47:24 --> 00:23:53:09] Olha só o tanto de respostas que você pode tirar dessa metodologia
+[00:23:53:09 --> 00:23:55:15] e ela é muito útil, tá bom?
+[00:23:55:28 --> 00:23:58:01] Depois, a rodada sozinha,
+[00:23:58:12 --> 00:24:01:08] eu respondo a ela, todas as vezes que eu fiz eu não fiz com post-its,
+[00:24:01:11 --> 00:24:05:29] poderia fazer, só que aqui é muito bom fazer respostas curtas
+[00:24:05:29 --> 00:24:09:29] e aí às vezes eu meio que uso essa ideia dos post-its digitais,
+[00:24:09:29 --> 00:24:11:06] digamos assim, lá no Figma.
+[00:24:12:12 --> 00:24:15:20] Inclusive, se você acessar aqui, deixa eu colocar aqui para vocês...
+[00:24:17:02 --> 00:24:21:24] Se você entrar aqui, Figma, acho que é Figjan, a ferramenta do Figma que faz isso.
+[00:24:24:04 --> 00:24:26:23] FigJunk, que você consegue escrever,
+[00:24:27:01 --> 00:24:29:01] convidar outras pessoas para participarem junto com você,
+[00:24:29:06 --> 00:24:30:22] você pode mandar o link para o cliente,
+[00:24:30:28 --> 00:24:33:19] e aí ele vai colocar o post-it dele e vai escrever lá.
+[00:24:34:01 --> 00:24:36:21] E dentro do FigJunk, eu já estou conectado...
+[00:24:38:04 --> 00:24:39:11] Se você é vinha em novo...
+[00:24:40:16 --> 00:24:42:10] Eu nem sei se tem algum documento aqui, né?
+[00:24:43:16 --> 00:24:44:18] New Design File.
+[00:24:45:03 --> 00:24:46:03] Se você entrar aqui...
+[00:24:46:03 --> 00:24:47:20] Não, aqui é o New Fig Jam File.
+[00:24:49:12 --> 00:24:53:18] ele tem modelos prontos. E adivinha qual modelo que tem lá? O BMC.
+[00:24:55:11 --> 00:24:58:22] All Templates, aí você pode vir aqui, quer ver?
+[00:24:58:23 --> 00:25:00:11] Deixa eu ver se é brainstorming...
+[00:25:03:27 --> 00:25:06:16] ver mais na comunidade, deixa eu digitar aqui Business.
+[00:25:08:08 --> 00:25:13:19] Business, Model, Canvas. Adicionar template, ele vai adicionar para mim. Pronto.
+[00:25:15:17 --> 00:25:17:28] Esse aqui, inclusive, está comendo uma parte, né?
+[00:25:18:23 --> 00:25:21:10] Não sei por que está faltando aqui a parte de segmentos.
+[00:25:22:12 --> 00:25:23:14] quem criou esse daqui.
+[00:25:25:19 --> 00:25:26:06] Problem.
+[00:25:27:00 --> 00:25:28:08] Isso daqui tá bem diferente.
+[00:25:31:17 --> 00:25:33:21] Problema, atividade, recursos-chave.
+[00:25:34:15 --> 00:25:37:06] Só mudou esse e está faltando um aqui.
+[00:25:37:10 --> 00:25:40:11] Deixa eu ver se eu acho o outro melhor do que esse.
+[00:25:42:10 --> 00:25:46:02] é para passar o certinho para vocês. Business, model...
+[00:25:48:16 --> 00:25:49:18] Poxa vida...
+[00:25:52:28 --> 00:25:54:19] Você pode vir aqui na comunidade também?
+[00:25:59:26 --> 00:26:02:19] E aí tem vários, tem outros criados por outras pessoas.
+[00:26:03:00 --> 00:26:05:00] Você pode pegar ou...
+[00:26:05:26 --> 00:26:09:24] Criar o seu, né? Eu gosto sempre de criar o meu com o meu design, vocês podem fazer também,
+[00:26:09:26 --> 00:26:14:14] isso ajuda até vocês a estudarem o modelo, mas ele é muito simples, né?
+[00:26:14:18 --> 00:26:16:05] Falar e estudar o modelo é até engraçado.
+[00:26:19:14 --> 00:26:24:06] Pode ser que tenha mais coisas em outros modelos e acaba mais confundindo do que ajudando.
+[00:26:24:25 --> 00:26:25:24] Vamos voltar lá então?
+[00:26:26:28 --> 00:26:27:28] Sai da comunidade aqui?
+[00:26:29:25 --> 00:26:32:26] e eu vou pegar o que eu criei lá no Illustrator.
+[00:26:35:12 --> 00:26:37:28] Será que dá para eu colar aqui? Será que ele entende a informação?
+[00:26:41:10 --> 00:26:43:05] Eu acho que ele entende, mas é porque tá branco.
+[00:26:47:17 --> 00:26:49:19] Ah, não entende que pena, né? Poderia entender.
+[00:26:53:05 --> 00:26:56:19] Mas uma coisa legal que você pode criar o seu, então facilita.
+[00:26:56:20 --> 00:26:59:07] Mas aqui só para dar de exemplo para vocês, não usem esse,
+[00:27:00:05 --> 00:27:02:04] porque esse daqui está incompleto mesmo.
+[00:27:02:24 --> 00:27:04:08] Vocês mesmos viram aqui,
+[00:27:05:02 --> 00:27:09:04] esse é o completo, está faltando essa coluna de segmentos.
+[00:27:09:08 --> 00:27:12:01] E aqui em parceiros chave, ele chamou de problemas.
+[00:27:12:28 --> 00:27:14:26] Problemas a gente coloca em proposta de valor.
+[00:27:15:13 --> 00:27:17:10] O modelo tradicional, o original.
+[00:27:17:27 --> 00:27:20:01] Mas olha que legal, o client pode pegar o postite dele,
+[00:27:20:07 --> 00:27:21:05] define, ah, eu sou verde.
+[00:27:21:25 --> 00:27:23:05] Ele solta o postite dele lá,
+[00:27:23:05 --> 00:27:25:01] e anota, né?
+[00:27:25:12 --> 00:27:28:23] Ah, a proposta de valor é o cachorro-quinte...
+[00:27:30:24 --> 00:27:35:09] tem um sabor especial e original.
+[00:27:37:09 --> 00:27:41:22] Todo mundo elogia e volta para comer de novo.
+[00:27:42:03 --> 00:27:44:05] Seu cliente pode responder desse jeito, não tem problema.
+[00:27:44:23 --> 00:27:46:12] Aí ele colocou o post-it dele lá, tá vendo?
+[00:27:47:00 --> 00:27:50:07] Tem como até você já bloquear para quem tem dificuldade de navegar,
+[00:27:50:11 --> 00:27:51:15] você pode bloquear e tal.
+[00:27:52:02 --> 00:27:53:00] E pode funcionar.
+[00:27:53:02 --> 00:27:56:24] Como eu disse, só analisa o perfil do cliente.
+[00:27:56:28 --> 00:27:59:03] Nem todos os clientes vão funcionar bem assim.
+[00:27:59:25 --> 00:28:02:10] Beleza? Então, esses são os modelos,
+[00:28:02:15 --> 00:28:06:19] algumas das formas que eu já preenchi o BMC.
+[00:28:06:19 --> 00:28:08:03] Agora vamos entender aqui, então?
+[00:28:10:00 --> 00:28:15:15] as perguntas e os quadrantes, como que nós vamos preencher cada um dos quadrantes
+[00:28:15:15 --> 00:28:21:09] e como que você vai orientar o seu cliente para poder te dar as respostas, tá bom?
+[00:28:23:02 --> 00:28:25:04] Deixa eu voltar aqui. Beleza. Então, bora lá.
+[00:28:25:17 --> 00:28:27:10] Lembra que eu já até coloquei para vocês...
+[00:28:28:03 --> 00:28:30:03] Como você pode definir algo que você não conhece?
+[00:28:30:04 --> 00:28:32:16] O objetivo aqui é de fato entender a empresa.
+[00:28:32:24 --> 00:28:35:03] Tem uma noção de como ela funciona.
+[00:28:36:06 --> 00:28:39:05] Inclusive, depois que você entende, você tem até menos medo.
+[00:28:39:16 --> 00:28:40:19] Às vezes, nós ficamos com o Medardo,
+[00:28:40:19 --> 00:28:43:06] vou pegar uma empresa muito grande que eu não entendo nada dela,
+[00:28:43:07 --> 00:28:44:11] não vou conseguir fazer um bom design.
+[00:28:44:24 --> 00:28:46:19] Não, só confia no processo.
+[00:28:47:18 --> 00:28:49:13] Um bom exemplo é o último projeto que eu estou fazendo,
+[00:28:49:14 --> 00:28:50:17] da alquimia científica,
+[00:28:50:19 --> 00:28:52:28] que depois eu vou colocar um estudo de casos aqui na ODSSEA.
+[00:28:53:02 --> 00:28:58:00] Mas a alquimia científica, quando eu vi a primeira vez, a sensação que ficou para mim é...
+[00:28:58:00 --> 00:28:59:29] Eu não entendo nada do que eles fazem.
+[00:29:00:04 --> 00:29:02:24] Eu não sei nada de produtos e equipamentos para laboratório.
+[00:29:03:04 --> 00:29:04:08] Eu não sei...
+[00:29:04:08 --> 00:29:10:00] Eles falavam XRF, material de referência certificado...
+[00:29:10:00 --> 00:29:10:14] Eu ficava assim...
+[00:29:10:14 --> 00:29:12:11] Cara, que parada é essa?
+[00:29:12:19 --> 00:29:13:25] Não entendia nada.
+[00:29:15:04 --> 00:29:18:08] confiei no processo, fiz aqui o BMC,
+[00:29:18:18 --> 00:29:21:08] segui etapa por etapa, fui com calma
+[00:29:21:23 --> 00:29:23:02] e depois eu estava entendendo,
+[00:29:23:03 --> 00:29:25:18] estava muito claro para a minha essência da empresa.
+[00:29:25:28 --> 00:29:27:29] Se vocês seguirem, vocês vão chegar na resposta
+[00:29:27:29 --> 00:29:30:10] porque os clientes te darão essa resposta.
+[00:29:30:18 --> 00:29:34:05] E esse é mais um dos motivos de eu gostar de conversar com o meu cliente
+[00:29:34:05 --> 00:29:37:14] ao invés de simplesmente enviar um PDF ou um formulário para ele responder.
+[00:29:37:23 --> 00:29:39:22] O formulário é legal para o pré-briefing,
+[00:29:39:26 --> 00:29:42:17] para poder fazer a proposta, pode funcionar lá no pré-briefing,
+[00:29:42:17 --> 00:29:46:29] Mas no briefing, definitivamente, eu recomendo vocês entrevistarem o cliente, tá bom?
+[00:29:47:24 --> 00:29:48:11] Então, vamos lá.
+[00:29:49:06 --> 00:29:51:09] Primeira etapa é o segmento de cliente.
+[00:29:51:17 --> 00:29:52:08] Tem três perguntas aqui.
+[00:29:52:10 --> 00:29:54:08] Eu vou até deixar o BMC aberto aqui.
+[00:29:55:14 --> 00:29:56:26] Business Model Canvas.
+[00:29:58:09 --> 00:30:03:14] Vou até deixar ele aberto aqui para vocês, porque eu vou mostrando o quadrante.
+[00:30:04:28 --> 00:30:05:27] Aí facilita.
+[00:30:06:03 --> 00:30:06:28] O terceiro quadro é esse aqui.
+[00:30:08:06 --> 00:30:09:05] Customer Segments.
+[00:30:10:03 --> 00:30:11:22] Esse aqui é o primeiro que nós fazemos,
+[00:30:11:24 --> 00:30:13:21] porque a primeira coisa que nós precisamos entender
+[00:30:13:21 --> 00:30:15:12] é com quem nós estamos falando.
+[00:30:15:25 --> 00:30:17:15] E tem três perguntinhas-chave
+[00:30:17:15 --> 00:30:19:21] que você pode mudar elas um pouco
+[00:30:19:21 --> 00:30:22:24] caso o cliente não responda com a profundidade que você queria.
+[00:30:22:29 --> 00:30:25:00] Por exemplo, para quem geramos valor?
+[00:30:25:11 --> 00:30:26:27] Seu cliente pode não entender muito bem.
+[00:30:26:27 --> 00:30:28:07] Para quem? Para todo mundo.
+[00:30:28:15 --> 00:30:29:14] Para homens e mulheres.
+[00:30:29:25 --> 00:30:31:16] Aí você pode perguntar para ele, por exemplo,
+[00:30:32:01 --> 00:30:34:29] quais são os nossos clientes mais importantes?
+[00:30:35:15 --> 00:30:37:23] Isso direciona um pouco mais.
+[00:30:38:16 --> 00:30:44:28] A empresa atende um mercado amplo ou ela atende um nicho específico, isso daqui pode ajudar
+[00:30:44:28 --> 00:30:49:13] muito o cliente, muitas vezes ele vai te responder assim, nicho, vai responder dessa
+[00:30:49:13 --> 00:30:56:08] forma e aí você vai precisar abrir um pouco mais isso, um minutinho só que eu preciso
+[00:30:56:08 --> 00:30:57:12] fazer só uma coisa, rapidinho.
+[00:31:06:18 --> 00:31:07:15] Prontinho, foi mal.
+[00:31:08:18 --> 00:31:09:16] Às vezes acontece.
+[00:31:10:07 --> 00:31:13:16] Mas, às vezes ele vai responder de um jeito muito curto pra você
+[00:31:13:16 --> 00:31:15:21] e aí o que você faz aqui, tá?
+[00:31:16:00 --> 00:31:17:23] Você reformula a pergunta.
+[00:31:18:01 --> 00:31:19:25] Igual, por exemplo, pra quem geramos valor
+[00:31:19:25 --> 00:31:21:20] e quais são os nossos clientes mais importantes,
+[00:31:21:24 --> 00:31:22:23] dão uma direcionada.
+[00:31:23:02 --> 00:31:25:14] Mas uma coisa que eu gosto de perguntar é
+[00:31:25:14 --> 00:31:29:09] se você fosse atender apenas um público específico, quem seria?
+[00:31:29:24 --> 00:31:31:16] Ou então outra pergunta que eu faço é
+[00:31:31:16 --> 00:31:33:20] se a sua empresa deixasse de existir hoje,
+[00:31:34:03 --> 00:31:35:05] quem sentiria falta?
+[00:31:35:05 --> 00:31:38:26] É um outro jeito de fazer a pergunta também, tá?
+[00:31:39:00 --> 00:31:44:28] O nosso objetivo aqui é entender, porque todo mundo, quem tenta atender todo mundo
+[00:31:44:28 --> 00:31:45:20] não atende ninguém.
+[00:31:45:25 --> 00:31:48:29] Nós já sabemos disso, a gente precisa de um público alvo principal.
+[00:31:49:09 --> 00:31:53:06] Você pode até explicar para o seu cliente o seguinte, olha, eu entendo que você atende
+[00:31:53:06 --> 00:31:58:15] todo mundo e tá tudo bem, mas se você precisasse escolher um único público, qual
+[00:32:01:29 --> 00:32:07:14] que você oferece? Olha só, um outro jeito de perguntar.
+[00:32:07:19 --> 00:32:10:23] Eu vou reformulando, para ficar claro para o cliente
+[00:32:10:23 --> 00:32:12:03] qual informação que eu preciso.
+[00:32:12:22 --> 00:32:15:14] Não se contentem com uma informação vaga
+[00:32:15:14 --> 00:32:18:14] porque depois, quando você sentar atrás do seu computador
+[00:32:18:14 --> 00:32:21:16] e for analisar as informações, você pode acabar frustrado
+[00:32:21:16 --> 00:32:23:18] e falar, cara, isso aqui não vai me ajudar em nada.
+[00:32:24:00 --> 00:32:26:13] Então, aproveite o tempo que você tem ali com o seu cliente
+[00:32:26:13 --> 00:32:28:14] porque o mais importante não é a resposta,
+[00:32:28:14 --> 00:32:34:18] resposta certa, o mais importante é a pergunta certa e isso depende de contexto. Aqui eu estou
+[00:32:34:18 --> 00:32:42:04] definindo para vocês algumas perguntas-chave, tá? Uma vez que a gente entende o segmento ou os, tá?
+[00:32:43:27 --> 00:32:46:29] Os. Uma empresa pode ter vários segmentos.
+[00:32:47:02 --> 00:32:48:04] Ruan, me dá um exemplo.
+[00:32:48:13 --> 00:32:51:10] Eu vou pegar exemplos de empresas grandes que fica fácil de entender.
+[00:32:51:23 --> 00:32:52:16] Pensem no iFood.
+[00:32:53:01 --> 00:32:56:10] O iFood tem três segmentos de clientes muito importantes.
+[00:32:56:29 --> 00:33:02:16] Olha só, ele tem a pessoa que pede no iFood, ela é um segmento.
+[00:33:02:20 --> 00:33:05:08] Ele tem o Motoboy, é outro segmento.
+[00:33:05:16 --> 00:33:08:05] E ele tem o restaurante, é outro segmento.
+[00:33:08:09 --> 00:33:09:29] São três segmentos diferentes.
+[00:33:10:04 --> 00:33:12:03] Pense na complexidade desse tipo de negócio.
+[00:33:12:03 --> 00:33:18:02] Um negócio quanto mais segmentos de cliente ele tem, mais complicado é você condensar
+[00:33:18:02 --> 00:33:20:07] isso em uma identidade, tá?
+[00:33:20:14 --> 00:33:23:08] Identidade verbal, o mais complicado é de passar a mensagem.
+[00:33:23:16 --> 00:33:26:05] Quanto menos segmentos, mais fácil, porque você consegue ser preciso.
+[00:33:26:16 --> 00:33:29:00] Mas nem sempre você vai conseguir atender um segmento só.
+[00:33:29:05 --> 00:33:32:05] Cada negócio funciona de um jeito, cada estratégia funciona de um jeito.
+[00:33:32:18 --> 00:33:37:10] E aqui que a gente já começa a ser estratégico, porque a maioria dos designers nem prestam
+[00:33:37:10 --> 00:33:41:03] atenção nisso, e você que está prestando atenção nisso já está um passo à frente
+[00:33:41:03 --> 00:33:45:16] vai criar uma identidade de marca que, de fato, vai gerar resultado para o seu cliente, tá?
+[00:33:46:04 --> 00:33:48:01] Segundo ponto é proposta de valor.
+[00:33:48:05 --> 00:33:50:01] Proposta de valor está aqui, ó, o do meio.
+[00:33:50:26 --> 00:33:54:05] Aqui na proposta de valor, nós vamos entender
+[00:33:54:05 --> 00:34:00:26] qual é o valor que a empresa gera para os segmentos que nós listamos agora.
+[00:34:01:16 --> 00:34:02:21] Então, olha que interessante.
+[00:34:02:22 --> 00:34:04:23] Existe uma diferença entre preço e valor, certo?
+[00:34:05:02 --> 00:34:06:25] Preço é aquilo que o cliente paga.
+[00:34:07:01 --> 00:34:09:05] Valor é aquilo que o cliente recebe.
+[00:34:09:05 --> 00:34:16:02] Então, o valor, a proposta de valor, é exatamente o que o meu cliente está querendo em troca.
+[00:34:16:13 --> 00:34:19:22] O que a empresa está oferecendo que desperta o interesse no público.
+[00:34:20:08 --> 00:34:24:11] E aqui nós temos algumas perguntas-chave também, que é, por exemplo, qual valor
+[00:34:24:11 --> 00:34:25:12] entregamos ao cliente?
+[00:34:25:17 --> 00:34:31:14] Eu gosto sempre de começar com uma pergunta bem aberta, porque pode ser que o seu cliente
+[00:34:31:14 --> 00:34:33:01] vá numa difereção diferente.
+[00:34:33:12 --> 00:34:37:07] E isso pode ser muito bom, porque você começa a ter a visão que ele tem do próprio
+[00:34:37:07 --> 00:34:37:17] negócio.
+[00:34:37:17 --> 00:34:42:11] Então, quando eu começo com perguntas abertas assim, para quem geramos valor ou qual valor
+[00:34:42:11 --> 00:34:49:19] entregamos ao cliente, eu deixo o meu cliente dizer onde ele vê mais valor, depois eu
+[00:34:49:19 --> 00:34:50:17] vou afunilando, tá?
+[00:34:50:27 --> 00:34:53:17] Então, olha, essa pergunta é muito importante.
+[00:34:54:00 --> 00:34:56:10] Qual problema estamos ajudando a resolver?
+[00:34:56:24 --> 00:35:00:26] Aqui eu estou colocando assim, mas você pode colocar, por exemplo, qual problema a
+[00:35:00:26 --> 00:35:02:06] sua empresa resolve?
+[00:35:03:04 --> 00:35:06:16] Pode ser que seu cliente fala, ah, são vários problemas, e aí ele começa a falar,
+[00:35:06:16 --> 00:35:08:24] Deixa ele falar, ou então pode ser que ele faça...
+[00:35:08:24 --> 00:35:11:01] Não, são vários, é difícil listar só um.
+[00:35:11:13 --> 00:35:13:23] E aí você fala, olha, tenta resumir pra mim...
+[00:35:15:00 --> 00:35:19:24] Olha só como que isso vem na hora. Tenta resumir para mim, quando é que as pessoas
+[00:35:19:24 --> 00:35:24:16] se lembram da sua empresa? Geralmente elas estão precisando do que quando elas se lembram
+[00:35:24:16 --> 00:35:29:07] de você? Vou dar um exemplo, às vezes você está em casa e um cano quebra, aí você
+[00:35:29:07 --> 00:35:34:14] lembra da construtora lá ou do lugar onde vem de cano. Então eu lembrei disso na
+[00:35:34:14 --> 00:35:38:19] hora. Então essa é uma excelente pergunta. Em que momento o seu cliente se lembra
+[00:35:38:19 --> 00:35:42:19] de você? Aí você vai falar, ele me lembra nesse momento. Geralmente é um momento
+[00:35:42:19 --> 00:35:46:23] de problema? Ah, em que momento que o seu cliente lembra do seu restaurante? Ah, quando ele
+[00:35:46:23 --> 00:35:50:13] está com fome e vontade de comer hambúrguer. Esse é o problema. Qual problema você resolve?
+[00:35:50:15 --> 00:35:54:25] Aqui pode ser o mais simples, aqui nós estamos querendo lapidar ainda e fazer uma
+[00:35:54:25 --> 00:36:01:03] frase bonita. Aqui nós estamos querendo entender a essência do negócio mesmo, tá? Que necessidade
+[00:36:01:03 --> 00:36:05:22] estamos satisfazendo? Qual é a chance de necessidade para problema? Os dois são
+[00:36:05:22 --> 00:36:10:02] muito parecidos e pode até ser a mesma coisa dependendo da pergunta. Eu gosto
+[00:36:10:02 --> 00:36:16:15] identificar o problema como uma dor. O problema é aquilo que o cliente não quer na vida dele.
+[00:36:17:03 --> 00:36:24:03] Já a necessidade é aquilo que ele quer ou que ele busca. Por exemplo, o cano quebrado é o problema.
+[00:36:25:09 --> 00:36:28:24] Agora, um cano arrumado é uma necessidade.
+[00:36:29:09 --> 00:36:30:23] É como se fosse uma solução.
+[00:36:31:02 --> 00:36:33:26] A necessidade é a mesma coisa que uma solução.
+[00:36:34:04 --> 00:36:35:12] É aquilo que o cliente busca.
+[00:36:35:27 --> 00:36:37:14] Então, por exemplo, qual que é o problema?
+[00:36:37:15 --> 00:36:39:03] O meu cliente está com fome.
+[00:36:39:12 --> 00:36:40:19] Qual que é a necessidade?
+[00:36:40:28 --> 00:36:43:07] Um sanduíche que tenha sabor.
+[00:36:44:11 --> 00:36:46:09] Entendeu a diferença de necessidade para o problema?
+[00:36:46:14 --> 00:36:48:27] Você pode, inclusive, explicar isso para o seu cliente lá na hora também.
+[00:36:49:08 --> 00:36:50:28] Um outro jeito de fazer essa pergunta,
+[00:36:51:00 --> 00:36:52:22] que necessidade estamos satisfazendo,
+[00:36:52:22 --> 00:36:57:15] é, por exemplo, qual é o sonho do seu cliente em relação ao seu produto ou serviço?
+[00:36:57:29 --> 00:36:59:14] O que o seu cliente busca?
+[00:37:00:03 --> 00:37:01:06] Isso é uma outra pergunta.
+[00:37:01:17 --> 00:37:05:03] E no problema, a outra pergunta é qual é a dor que nós estamos ajudando a resolver?
+[00:37:05:16 --> 00:37:09:11] Ou então, o que tira o sono do seu cliente?
+[00:37:09:12 --> 00:37:12:03] Quando ele deita no travesseiro, ele fica pensando naquilo.
+[00:37:13:12 --> 00:37:14:26] Pode ser uma boa pergunta também.
+[00:37:15:00 --> 00:37:17:09] Eu gosto sempre de usar storytelling.
+[00:37:17:23 --> 00:37:21:04] Sabe? Eu gosto sempre de colocar o cliente numa situação.
+[00:37:21:18 --> 00:37:23:13] Então, quando é que o seu cliente lembra de você?
+[00:37:23:14 --> 00:37:24:11] Isso é um storytelling.
+[00:37:24:18 --> 00:37:27:01] Ou então, quando o seu cliente deita no travesseiro
+[00:37:27:01 --> 00:37:29:01] e não para de pensar, tira o sono dele.
+[00:37:29:03 --> 00:37:29:22] É storytelling.
+[00:37:30:02 --> 00:37:33:17] Isso ajuda o meu cliente a formular a pergunta dele.
+[00:37:33:19 --> 00:37:35:22] Quando eu sou muito técnico, tipo aqui,
+[00:37:36:00 --> 00:37:37:11] qual o valor entregamos ao cliente?
+[00:37:37:21 --> 00:37:41:23] Eu sempre sinto uma dificuldade para responder essas perguntas,
+[00:37:42:12 --> 00:37:46:16] porque os clientes querem muito tentar ter uma resposta bonita e pronta.
+[00:37:46:22 --> 00:37:48:09] E geralmente as respostas não vêm prontas,
+[00:37:48:10 --> 00:37:51:19] elas são várias respostinhas, meias respostas
+[00:37:51:19 --> 00:37:53:18] que depois você vai juntar e deixar isso pronto.
+[00:37:53:21 --> 00:37:56:24] Aí que acontece a mágica quando você tem mais tempo dentro do seu escritório.
+[00:37:57:05 --> 00:37:59:18] Mas lá na hora são meias palavras.
+[00:38:00:18 --> 00:38:02:26] Por isso que é uma investigação, você vai coletando pistas.
+[00:38:03:10 --> 00:38:06:08] E aí eu gosto de usar o storytelling porque facilita muito.
+[00:38:06:23 --> 00:38:10:20] Uma técnica que eu uso é a técnica do abre aspas.
+[00:38:10:20 --> 00:38:12:07] O que é a técnica do abre aspas?
+[00:38:12:15 --> 00:38:17:23] É você pedir para o seu cliente tentar usar as palavras do cliente dele.
+[00:38:18:01 --> 00:38:20:25] Isso também é muito bom na hora de fazer identidade verbal.
+[00:38:21:07 --> 00:38:22:24] Ter essas informações ajuda muito.
+[00:38:23:05 --> 00:38:26:15] Então, por exemplo, você perguntar para o cliente assim...
+[00:38:28:00 --> 00:38:30:05] Quando o seu cliente está no problema X, né?
+[00:38:30:05 --> 00:38:30:28] Sei lá, vamos pegar aqui.
+[00:38:31:22 --> 00:38:33:19] Uma empresa que...
+[00:38:33:19 --> 00:38:37:04] Uma escola que ensina mães a fazerem o bebê dormir.
+[00:38:37:18 --> 00:38:38:27] Olha que massa. Legal, né?
+[00:38:39:12 --> 00:38:40:16] Então a pergunta é...
+[00:38:40:20 --> 00:38:46:08] Quando as mães te procuram, geralmente o que elas falam?
+[00:38:48:04 --> 00:38:52:05] Aí você pede para o cliente falar exatamente com as mesmas palavras que as mães falam.
+[00:38:52:07 --> 00:38:54:09] Eles vão falar assim, aí geralmente elas falam assim,
+[00:38:54:21 --> 00:39:00:18] eu estou exausta, eu não durmo há cinco dias direito,
+[00:39:01:04 --> 00:39:03:10] eu quero que esse bebê durma.
+[00:39:04:12 --> 00:39:08:12] Falou, abre aspas, falou como o cliente final falou, como o público disse.
+[00:39:08:21 --> 00:39:11:03] É uma técnica muito boa também que pode te ajudar.
+[00:39:11:06 --> 00:39:11:20] Por quê?
+[00:39:11:25 --> 00:39:15:03] Uma vez que você, se o cliente não consegue responder essa pergunta,
+[00:39:15:24 --> 00:39:17:07] essas aqui vão ajudar a responder.
+[00:39:19:00 --> 00:39:24:22] Outra pergunta muito boa, e essa aqui é pergunta chave, então eu posso colocar aqui, ó, asteriscos
+[00:39:24:22 --> 00:39:25:12] pra vocês.
+[00:39:25:24 --> 00:39:28:07] Que conjunto de produtos e serviços estamos oferecendo?
+[00:39:28:16 --> 00:39:29:28] É pra listar.
+[00:39:30:08 --> 00:39:35:24] Se o cliente tem muitos produtos, o caso da alquimia é assim, a alquimia ela tem vários
+[00:39:35:24 --> 00:39:38:19] produtos, porque são produtos e equipamentos pra laboratório, são muitos, é como
+[00:39:38:19 --> 00:39:41:16] se fosse um mercado de produtos e equipamentos.
+[00:39:41:16 --> 00:39:48:21] eu não coloquei as minhas clientes na exaustatividade de me listar todos,
+[00:39:49:06 --> 00:39:54:16] mas eu falei em grupos, defina para mim os grupos de produtos.
+[00:39:54:28 --> 00:40:01:14] E aí elas definiram, tem área de XRF, tem área de material de referência certificado,
+[00:40:01:21 --> 00:40:07:13] tem área de vidraria e aí elas foram falando as áreas, eu anotei as áreas, tá?
+[00:40:07:20 --> 00:40:10:01] A mesma coisa aqui em segmento de cliente, elas falaram,
+[00:40:10:01 --> 00:40:16:19] Nossa, são vários segmentos, a gente já tem de metalúrgica, siderúrgica, laboratórios de universidades,
+[00:40:16:22 --> 00:40:21:25] elas foram falando, foram uns 12 segmentos, o caso da alquimia, para vocês terem uma noção, né?
+[00:40:22:15 --> 00:40:27:00] De como que era um projeto que era muito mais emaranhado e pode assustar muita gente,
+[00:40:27:07 --> 00:40:29:05] mas se você confia no processo, funciona.
+[00:40:30:11 --> 00:40:32:05] Mas então você lista produtos e serviços.
+[00:40:32:06 --> 00:40:35:16] Se você não entende o produto, pergunta o que é esse produto.
+[00:40:35:21 --> 00:40:38:17] Você consegue me falar em uma frase e anota a frase também.
+[00:40:39:00 --> 00:40:42:00] Uma coisa legal que você pode fazer se estiver no Zoom é gravar.
+[00:40:42:03 --> 00:40:44:19] Se estiver pessoalmente, você também pode pegar o seu gravador,
+[00:40:44:21 --> 00:40:46:02] pega o celular, coloca o gravador e fala.
+[00:40:46:06 --> 00:40:47:21] Você se importa se eu gravar isso?
+[00:40:48:06 --> 00:40:49:28] A gente assinou um termo de confidencialidade,
+[00:40:49:29 --> 00:40:51:03] isso aqui não vai sair para nenhum lugar.
+[00:40:51:11 --> 00:40:54:15] É só para eu conseguir focar em ter uma conversa com você
+[00:40:54:15 --> 00:40:55:21] para eu não ficar anotando.
+[00:40:55:26 --> 00:40:58:11] Depois eu consigo ouvir o que nós conversamos.
+[00:40:59:07 --> 00:41:02:16] Geralmente, as pessoas colaboram muito e é super de boa fazer isso.
+[00:41:02:20 --> 00:41:03:27] Comigo sempre deu certo.
+[00:41:05:27 --> 00:41:09:11] Então, com os produtos e serviços muito, muito importantes.
+[00:41:09:27 --> 00:41:12:01] Listar quais são os produtos e serviços aqui.
+[00:41:12:22 --> 00:41:16:08] Isso aqui vai ajudar a responder essa pergunta, caso a cliente não consiga respondê-la muito bem.
+[00:41:16:20 --> 00:41:19:11] Depois de responder essas, você pode voltar para essa daqui.
+[00:41:19:24 --> 00:41:21:14] E aí você volta a perguntar, certo?
+[00:41:21:19 --> 00:41:24:06] Uma vez que a gente entende isso, como que a gente sintetiza agora?
+[00:41:24:12 --> 00:41:26:07] Se a gente pudesse colocar em uma frase
+[00:41:26:07 --> 00:41:29:16] E aí o cérebro já está um pouco mais aquecido, é mágico.
+[00:41:29:21 --> 00:41:31:00] Quando vocês aplicarem vocês vão ver.
+[00:41:32:09 --> 00:41:33:26] Qual é o valor que a empresa gera?
+[00:41:35:01 --> 00:41:36:03] E aí eles vão conseguir falar.
+[00:41:36:14 --> 00:41:37:11] Você pode inclusive falar assim,
+[00:41:37:26 --> 00:41:39:23] olha, não precisa ter nenhuma frase bonita,
+[00:41:39:26 --> 00:41:41:02] pode falar com as suas palavras,
+[00:41:41:05 --> 00:41:42:08] a gente vai lapidar isso depois.
+[00:41:42:17 --> 00:41:44:23] Eu só quero entender a essência da coisa, tá?
+[00:41:45:06 --> 00:41:46:15] E aí funciona, muito bom.
+[00:41:47:07 --> 00:41:52:10] Do BMC, os dois quadrantes mais importantes de todos são esses dois.
+[00:41:54:02 --> 00:41:59:13] todos os quadrantes, se você tem pouco tempo, foca em segmento, cliente e proposta de valor.
+[00:42:00:17 --> 00:42:07:08] O terceiro mais importante são os canais, esses três aqui são os mais importantes
+[00:42:07:08 --> 00:42:09:14] na auditoria do negócio.
+[00:42:10:11 --> 00:42:14:06] Não pode faltar, não pode ser feito...
+[00:42:15:02 --> 00:42:17:15] nas coxas, né? Que a gente fala assim,
+[00:42:17:20 --> 00:42:20:07] mas fez nas coxas, fez mal feito, tudo torto.
+[00:42:20:23 --> 00:42:23:16] Se você tem que dar atenção a três quadrantes, são esses.
+[00:42:23:28 --> 00:42:26:12] E falando dos canais e pontos de contato,
+[00:42:26:22 --> 00:42:28:01] vem aqui essa terceira parte.
+[00:42:29:00 --> 00:42:33:25] Vocês já meio que sabem a importância de definir os pontos de contato na etapa de investigação,
+[00:42:34:04 --> 00:42:38:00] porque geralmente nós que vamos projetar esses pontos de contato
+[00:42:38:00 --> 00:42:39:21] lá na etapa de Toad Points.
+[00:42:40:07 --> 00:42:44:06] Então nós precisamos definir eles e identificar uma hierarquia atual.
+[00:42:44:06 --> 00:42:48:01] Não quer dizer que essa hierarquia vai se manter, porque na etapa de estratégia nós
+[00:42:48:01 --> 00:42:53:06] vamos voltar nesses pontos de contato e definir estrategicamente quais que devem ser explorados,
+[00:42:53:14 --> 00:42:58:01] mas aqui você precisa entender hoje como que a empresa funciona, quais são os canais
+[00:42:58:01 --> 00:42:59:18] e pontos de contato, tá?
+[00:42:59:28 --> 00:43:04:17] Eu coloquei ele canais e pontos de contato, mas eu poderia até colocar só pontos de
+[00:43:04:17 --> 00:43:07:22] contato ou só canais, geralmente vem escrito channels, né, canais.
+[00:43:08:00 --> 00:43:12:09] Eu gosto do termo pontos de contato porque ele é autoexplicativo, canais pode bugar
+[00:43:12:09 --> 00:43:15:27] pessoa até o cliente também. Pontos de contato, se o cliente perguntar o que é
+[00:43:15:27 --> 00:43:21:10] ponto de contato, a resposta é óbvia. Pontos de contato são os locais, os
+[00:43:21:10 --> 00:43:24:25] ambientes onde a empresa tem contato com o público. Fica muito óbvio eu te
+[00:43:24:25 --> 00:43:29:29] explicar. E aí aqui, o mais importante, o nosso objetivo aqui é listar os pontos
+[00:43:29:29 --> 00:43:33:01] de contato que são utilizados e os pontos de contato que mais tem
+[00:43:33:01 --> 00:43:37:03] resultado. Pode ser que o seu cliente não tenha essa resposta, de quais são os
+[00:43:37:03 --> 00:43:41:18] que mais têm resultado. E tudo bem, você pode seguir dois caminhos aqui, depende
+[00:43:41:18 --> 00:43:44:07] da profundidade do projeto, do prazo que você tem.
+[00:43:44:17 --> 00:43:50:01] Se você tem mais prazo, quer ter mais profundidade, pesquisa e ela vai ser ótima.
+[00:43:50:11 --> 00:43:51:21] Você vai começar...
+[00:43:51:21 --> 00:43:57:06] Você pode fazer um documentinho físico ou também se a empresa vende online, pra pessoa
+[00:43:57:06 --> 00:43:58:23] preencher e colocar lá...
+[00:43:58:23 --> 00:44:02:09] Aquela pergunta clássica, vocês já devem ter visto vários negócios que fazem essa
+[00:44:02:09 --> 00:44:02:21] pergunta.
+[00:44:02:28 --> 00:44:03:28] Onde você nos conheceu?
+[00:44:04:18 --> 00:44:07:25] Você pode falar pro cliente, olha, a gente pode oferecer 5% de desconto pra todo
+[00:44:07:25 --> 00:44:08:28] mundo que responder essa pesquisa?
+[00:44:09:01 --> 00:44:09:10] Pode.
+[00:44:09:20 --> 00:44:10:25] Aí, sei lá, ele tem um restaurante.
+[00:44:10:25 --> 00:44:14:14] coloca um QR code com o display lá na mesa do restaurante dele
+[00:44:14:14 --> 00:44:18:08] e lá está escrito assim, responda essa pesquisa de dois minutos
+[00:44:18:08 --> 00:44:20:15] e ganhe 5% de desconto.
+[00:44:21:18 --> 00:44:23:20] Olha que massa. Aí algumas pessoas vão começar a responder.
+[00:44:24:16 --> 00:44:27:12] Às vezes, se o restaurante já tem um fluxo legal,
+[00:44:27:24 --> 00:44:31:03] você pode até colocar um desconto maior, pode colocar 15%, 10%
+[00:44:31:03 --> 00:44:32:02] para chamar a atenção.
+[00:44:32:14 --> 00:44:34:27] E aí, em um ou dois dias, você tem 100 respostas lá,
+[00:44:34:28 --> 00:44:36:14] 150 respostas lá.
+[00:44:36:27 --> 00:44:40:11] Ótimo, você tem a pesquisa, você estratégicamente sabe
+[00:44:40:11 --> 00:44:42:26] onde está mais atraindo clientes.
+[00:44:42:29 --> 00:44:46:11] Com uma coisinha boba, né? Super boba de fazer.
+[00:44:46:14 --> 00:44:48:14] Um displayzinho de mesa com QR Code,
+[00:44:48:15 --> 00:44:49:20] mandando para uma pesquisa.
+[00:44:49:20 --> 00:44:56:11] Ou então, no final, quando a atendente também vai pagar, sei lá, ou vendo colchões.
+[00:44:56:20 --> 00:44:57:25] Pegar uma coisa para aleatório.
+[00:44:58:03 --> 00:45:01:29] Aí a pessoa comprou um colchão, na hora que ela está pagando, vamos fazer um cadastro,
+[00:45:02:05 --> 00:45:04:18] eu ganho 10% de desconto fazendo esse cadastro.
+[00:45:04:27 --> 00:45:06:00] Beleza, bora.
+[00:45:06:06 --> 00:45:06:20] Aí, até lá.
+[00:45:06:23 --> 00:45:10:14] No cadastro, uma das perguntas é como você conheceu a nossa empresa?
+[00:45:10:27 --> 00:45:14:24] Essa pergunta é importante porque ela está ligada com pontos de contato.
+[00:45:14:24 --> 00:45:18:01] Outras perguntas importantes que pode ter nessa pesquisa, por exemplo,
+[00:45:19:18 --> 00:45:22:15] é por que você escolheu a nossa empresa, é uma pergunta boa,
+[00:45:23:09 --> 00:45:25:05] ou você já comprou com a gente antes,
+[00:45:25:13 --> 00:45:27:26] tem a ver com ponto de contato também, com fidelidade,
+[00:45:28:15 --> 00:45:32:06] o tipo de cliente que a pessoa é, e por aí vai.
+[00:45:32:15 --> 00:45:34:00] Cada negócio tem um contexto.
+[00:45:34:09 --> 00:45:36:06] Aqui eu estou usando o exemplo de colchão,
+[00:45:36:12 --> 00:45:38:26] mas pode ser qualquer coisa, a gente precisa analisar.
+[00:45:39:11 --> 00:45:41:24] Inclusive, você pode fazer essa pesquisa mais para o final,
+[00:45:41:26 --> 00:45:43:22] você não precisa fazer ela agora na auditoria,
+[00:45:43:22 --> 00:45:47:23] Você pode fazer as três auditorias e depois fazer pesquisas complementares.
+[00:45:47:29 --> 00:45:50:02] Como que eu sei se eu preciso ou não da pesquisa?
+[00:45:50:14 --> 00:45:55:05] Escopo do projeto, projetos com mais prazo e projetos com mais profundidade,
+[00:45:55:06 --> 00:46:02:12] que você quer ser mais assertivo ou que você tem métricas mais agressivas para cumprir.
+[00:46:02:20 --> 00:46:04:24] Aí essa pesquisa vai ser muito útil para você
+[00:46:04:24 --> 00:46:07:16] e ela pode ser tão simples de fazer quanto você pensa.
+[00:46:08:00 --> 00:46:09:24] Outro jeito de fazer a pesquisa também sabe como é?
+[00:46:10:06 --> 00:46:13:02] Às vezes o cliente tem um banco de números de WhatsApp cadastrado.
+[00:46:13:02 --> 00:46:16:28] manda o link nos whatsapps.
+[00:46:16:28 --> 00:46:21:01] Oi, responda essa pesquisa aqui para nos ajudar e ganhe 5% de desconto na sua próxima compra.
+[00:46:21:08 --> 00:46:24:14] É um outro jeito de fazer, tem várias formas de fazer isso e pode ser tão simples quanto.
+[00:46:25:05 --> 00:46:27:19] Mas você também vai perguntar isso para o seu cliente, né?
+[00:46:27:23 --> 00:46:29:02] E aí como você pergunta isso?
+[00:46:29:14 --> 00:46:32:21] Através de quais canais nossos clientes querem ser contatados?
+[00:46:33:08 --> 00:46:37:14] Então você notou que os clientes querem ser atendidos por quais canais?
+[00:46:37:26 --> 00:46:40:08] Aí às vezes o cliente fala whatsapp, a maioria vem do whatsapp.
+[00:46:40:08 --> 00:46:41:06] Ou então, às vezes, ele fala,
+[00:46:41:18 --> 00:46:44:14] ah, LinkedIn, alquimia científica me surpreendeu,
+[00:46:44:16 --> 00:46:46:15] que eles falaram, não, não é Instagram,
+[00:46:46:23 --> 00:46:48:15] já fizemos Instagram, não deu certo.
+[00:46:48:23 --> 00:46:50:23] Aqui, eu estou pegando uma experiência deles,
+[00:46:50:27 --> 00:46:52:03] eu não comprovei,
+[00:46:52:04 --> 00:46:54:10] pode ser que o Instagram desse ainda super certo para eles,
+[00:46:54:18 --> 00:46:57:20] mas na experiência deles, eu confiei nelas, é...
+[00:46:57:20 --> 00:46:59:13] Juan, LinkedIn para a gente é muito bom,
+[00:46:59:15 --> 00:47:02:00] nós encontramos muitos parceiros e muitos clientes pelo LinkedIn.
+[00:47:02:14 --> 00:47:05:14] Já o Instagram não é o nosso melhor ponto de contato.
+[00:47:05:19 --> 00:47:06:29] Ah, interessante, então.
+[00:47:07:10 --> 00:47:09:14] Isso tem a ver com essa etapa,
+[00:47:09:14 --> 00:47:11:05] Então foi aqui que eu descobri essa informação.
+[00:47:11:24 --> 00:47:15:23] Eu sei que, então, não faz sentido nenhum oferecer para elas pack de post de Instagram.
+[00:47:16:11 --> 00:47:22:15] Agora, se eu oferecer para elas, por exemplo, posts de LinkedIn ou até alguns banners de
+[00:47:22:15 --> 00:47:26:11] LinkedIn para elas publicarem, pode ser já interessante para elas, entendeu?
+[00:47:27:00 --> 00:47:28:04] Então por isso que é importante.
+[00:47:28:14 --> 00:47:30:03] Como podemos alcançar nosso público?
+[00:47:30:23 --> 00:47:31:20] Pergunta tudo.
+[00:47:31:20 --> 00:47:40:23] Venda direta, telefone, e-mail, LinkedIn, Instagram, TikTok, Facebook, YouTube,
+[00:47:41:24 --> 00:47:47:03] panfleto, rádio, TV, tem muitos pontos de contato, né?
+[00:47:47:13 --> 00:47:56:21] Blog, Google Ads, tem vários pontos de contato e aqui você não quer definir qual vai ser utilizado.
+[00:47:56:21 --> 00:48:02:27] Lembre disso, investigação, você está querendo coletar as informações que o seu cliente já...
+[00:48:04:22 --> 00:48:08:03] Qual é o melhor canal no momento? Então, de onde vem mais pessoas?
+[00:48:08:09 --> 00:48:09:22] Às vezes, o cliente pode falar, por exemplo,
+[00:48:10:17 --> 00:48:11:27] não sei de onde vem mais pessoas.
+[00:48:12:08 --> 00:48:14:09] Se ele te falar isso, a pesquisa pode ser muito útil.
+[00:48:14:14 --> 00:48:17:01] Se você precisa dessa informação para estratégia,
+[00:48:17:04 --> 00:48:19:05] e eu recomendo, é uma informação importante,
+[00:48:19:18 --> 00:48:21:23] a pesquisa aqui pode ser muito útil.
+[00:48:22:05 --> 00:48:22:23] E às vezes você fala,
+[00:48:23:00 --> 00:48:25:08] nossa, eu fiz uma pesquisa e eu consegui 15 respostas só.
+[00:48:25:17 --> 00:48:26:27] Ótimo, é melhor que zero.
+[00:48:27:11 --> 00:48:29:17] Já pode ser muito útil para vocês, tá bom?
+[00:48:29:29 --> 00:48:32:21] Tem também como fazer pesquisas no Instagram,
+[00:48:33:01 --> 00:48:34:12] na época que eu trabalhava lá na Urrabona,
+[00:48:34:12 --> 00:48:37:21] a gente fazia muita pesquisa no Instagram, com enquete mesmo.
+[00:48:38:04 --> 00:48:41:00] Se a empresa já tem um Instagram e o Instagram é movimentado,
+[00:48:41:02 --> 00:48:42:21] ela fala, podemos fazer uma pesquisa no Instagram?
+[00:48:43:18 --> 00:48:46:08] Podemos. Você já comprou da nossa empresa? Sim? Não.
+[00:48:47:03 --> 00:48:50:00] Como você conheceu a nossa empresa e coloca lá enquete, Google,
+[00:48:50:24 --> 00:48:54:09] alguém me disse, sei lá, coloca as informações lá,
+[00:48:54:11 --> 00:48:56:20] que você mais quer saber, aí começa a ter votação também.
+[00:48:57:05 --> 00:48:59:24] Hoje em dia tem muitas ferramentas para fazer pesquisa, né?
+[00:48:59:28 --> 00:49:03:03] O próprio Google Forms, com ele você já consegue fazer um linkzinho
+[00:49:03:03 --> 00:49:04:08] e começar a mandar para as pessoas.
+[00:49:04:27 --> 00:49:08:14] Então, essas são as informações que nós coletamos aqui
+[00:49:08:14 --> 00:49:10:00] relacionadas aos pontos de contato.
+[00:49:10:08 --> 00:49:12:09] Você pode, inclusive, ir além aqui, tá?
+[00:49:12:23 --> 00:49:16:03] Aqui, por exemplo, olha, como os canais estão ligados à rotina do público?
+[00:49:16:20 --> 00:49:20:08] Essa pergunta conecta segmento de cliente com pontos de contato
+[00:49:20:08 --> 00:49:21:12] e é muito importante.
+[00:49:21:20 --> 00:49:25:10] Por exemplo, o LinkedIn se conecta totalmente com a rotina do público
+[00:49:25:10 --> 00:49:26:17] de quem tem laboratório.
+[00:49:27:13 --> 00:49:30:21] Eu aprendi isso, eu entendi, e eu vi que existiu uma relação ali.
+[00:49:30:21 --> 00:49:33:09] Então, é um lugar onde a empresa quer estar.
+[00:49:33:27 --> 00:49:35:27] Como que você define os melhores pontos de contato?
+[00:49:36:05 --> 00:49:38:17] Entendendo onde o segmento daquele cliente está.
+[00:49:39:00 --> 00:49:40:08] É lá que a empresa precisa estar.
+[00:49:40:20 --> 00:49:41:27] É lá que ela precisa ser vista.
+[00:49:42:13 --> 00:49:42:27] Concorda?
+[00:49:43:06 --> 00:49:45:20] Então, isso precisa ser muito bem definido aqui.
+[00:49:46:13 --> 00:49:49:13] E eu coloquei isso aqui, principais pontos de contato, dois pontos.
+[00:49:49:17 --> 00:49:53:08] Para você pedir o seu cliente para listar para você os principais pontos de contato.
+[00:49:53:12 --> 00:49:59:26] Então, ele vai colocar lá, vamos por uma website, a nossa fachada, ou ligação.
+[00:49:59:26 --> 00:50:04:17] Então, cada negócio vai ser de um jeito, isso é o mais legal, você está conhecendo
+[00:50:04:17 --> 00:50:05:03] ele.
+[00:50:05:10 --> 00:50:05:23] Beleza?
+[00:50:05:26 --> 00:50:09:21] Então esses três aqui, lembra de novo, são os mais importantes de todos.
+[00:50:10:14 --> 00:50:14:11] A partir de agora, os outros também são importantes, vocês vão ver, mas eu coloco
+[00:50:14:11 --> 00:50:15:26] eles numa categoria 2.
+[00:50:16:07 --> 00:50:20:17] São três categorias que eu defendo aqui para nós, designers de identidade de marca.
+[00:50:21:25 --> 00:50:25:19] A segunda categoria que a gente vai entrar agora é importante e tem uma terceira categoria
+[00:50:25:19 --> 00:50:30:06] também, que é uma hierarquia de quais são os quadrantes mais importantes, se você tem
+[00:50:30:06 --> 00:50:33:24] menos tempo ou precisa ser mais rápido, qual que você deve focar ou não. Esses três
+[00:50:34:15 --> 00:50:37:19] imprescindível sempre, tá bom? Então vamos lá.
+[00:50:38:23 --> 00:50:43:24] Categoria do próximo, que a gente começa aqui pelo relacionamento.
+[00:50:44:06 --> 00:50:49:13] O relacionamento, ele já está muito ligado com o segmento de clientes e os pontos de
+[00:50:49:13 --> 00:50:49:29] contato.
+[00:50:50:04 --> 00:50:51:26] Por isso que ele já entra na categoria 2.
+[00:50:52:06 --> 00:50:55:15] Só que tem algumas informações aqui que é importante você perguntar.
+[00:50:55:17 --> 00:51:00:11] Por exemplo, qual é a expectativa do nosso público em relação ao relacionamento?
+[00:51:01:01 --> 00:51:02:07] Deixa eu dar um exemplo para vocês.
+[00:51:02:08 --> 00:51:05:13] Eu não lembro em qual livro que eu li isso, mas eu achei muito legal.
+[00:51:05:13 --> 00:51:11:04] O cara contando a história da experiência que ele teve com companhias aéreas.
+[00:51:11:20 --> 00:51:17:02] E ele fala que ele era o tipo de pessoa introspectiva, que ele não gosta de ficar fazendo sala,
+[00:51:17:08 --> 00:51:20:02] de ficar fazendo bom almoço, tendo que conversar e rir pra todo mundo.
+[00:51:20:13 --> 00:51:24:05] Ele só gosta de ficar na dele, entrar no avião, ir embora e acabou.
+[00:51:24:23 --> 00:51:28:25] Só que toda vez que ele ia fazer isso, ele tinha, porque as pessoas achavam que
+[00:51:28:25 --> 00:51:33:11] tinha que ser feliz com todo mundo, conversar, ficar puxando conversa, e ele não gostava.
+[00:51:33:11 --> 00:51:37:28] Até que ele encontrou uma companhia aérea, eu não vou lembrar aqui agora, mas que entendia
+[00:51:37:28 --> 00:51:43:26] o jeito que ele queria ser tratado, rápido, com precisão, com educação, mas direto
+[00:51:43:26 --> 00:51:44:09] ao ponto.
+[00:51:44:17 --> 00:51:46:15] Ele amou e fidelizou ele.
+[00:51:47:01 --> 00:51:52:08] Isso aqui tem tudo a ver com ser estratégico, com comunicação e com design, porque design
+[00:51:52:08 --> 00:51:57:04] é conduzir a percepção das pessoas para uma determinada mensagem, para que elas
+[00:51:57:04 --> 00:51:58:14] tomem uma ação.
+[00:51:58:28 --> 00:52:00:19] Nós queremos atrair as pessoas.
+[00:52:00:19 --> 00:52:03:25] E para que a gente define identidade visual e identidade verbal?
+[00:52:04:15 --> 00:52:07:26] Para que nos conectemos com o público do nosso cliente.
+[00:52:08:01 --> 00:52:11:28] Então entender como esse público quer se relacionar com aquela marca é muito importante.
+[00:52:12:12 --> 00:52:16:28] Existem algumas marcas que o público se relaciona com elas de maneira pontual, que
+[00:52:16:28 --> 00:52:17:17] é suficiente.
+[00:52:18:02 --> 00:52:22:21] Agora, existem marcas que os clientes se relacionam com elas diariamente.
+[00:52:23:00 --> 00:52:23:13] Vou dar um exemplo.
+[00:52:23:16 --> 00:52:24:14] Pensem na Netflix.
+[00:52:24:26 --> 00:52:28:16] E pensem no relacionamento da Netflix, depois entrem no Instagram da Netflix.
+[00:52:28:16 --> 00:52:34:26] A Netflix, ela quer fazer parte. Ela é zoeira, ela se diverte, ela é quase uma pessoa.
+[00:52:36:16 --> 00:52:39:29] A Netflix, em si, ela é quase uma pessoa. Ela fala, ela fala,
+[00:52:40:09 --> 00:52:45:04] meus filmes favoritos, a minha música, a minha plataforma, gente, comenta lá,
+[00:52:45:09 --> 00:52:48:12] assiste pra dar uma ajuda. Ela fala como se fosse uma pessoa mesmo.
+[00:52:48:13 --> 00:52:51:14] Eles têm esse posicionamento, esse tom de voz e é maravilhoso.
+[00:52:51:22 --> 00:52:54:04] Por quê? O público quer esse relacionamento.
+[00:52:54:11 --> 00:52:57:21] É um relacionamento de entretenimento, porque é o que a Netflix vende.
+[00:52:58:19 --> 00:53:03:17] Entende? Então, entender isso, essa é uma pergunta muito importante para relacionamento,
+[00:53:04:02 --> 00:53:10:16] pode ser um diferencial. Pode atrair clientes por causa desse simples fator. Como acontece
+[00:53:10:16 --> 00:53:14:20] nosso relacionamento com os clientes em cada ponto de contato? Às vezes o relacionamento
+[00:53:14:20 --> 00:53:19:23] é mais direto, às vezes o relacionamento é mais longo, quase como um namoro. Pensa,
+[00:53:19:24 --> 00:53:22:14] por exemplo, no cara que vai comprar uma Ferrari.
+[00:53:22:14 --> 00:53:22:17] e aí
+[00:53:23:23 --> 00:53:26:13] Você acha que ele simplesmente vai lá e passa no Débito ou a Ferrari?
+[00:53:27:24 --> 00:53:30:26] Eu acho que não. Talvez tenha alguns doidos que fazem isso.
+[00:53:31:05 --> 00:53:33:24] Mas é um namoro, é um convencimento.
+[00:53:34:04 --> 00:53:37:24] O cara faz test drive, ele fala que volta depois na semana que vem.
+[00:53:38:07 --> 00:53:39:13] E aí ele vai escolhendo.
+[00:53:39:24 --> 00:53:42:14] É um relacionamento diferente, o jeito de tratar diferente.
+[00:53:43:23 --> 00:53:48:22] Aí pensa agora o cara que compra um açaí, ele vai comprar um açaí, o relacionamento
+[00:53:48:22 --> 00:53:53:18] é totalmente outro, tá muito mais ligado com ser descontraído mesmo, com um momento
+[00:53:53:18 --> 00:53:58:08] de lazer, de descanso, entender isso é muito importante, tá?
+[00:53:58:18 --> 00:54:03:22] E o relacionamento aqui se conecta com os pontos de contato nesse sentido, porque
+[00:54:03:22 --> 00:54:04:28] onde que o relacionamento acontece?
+[00:54:05:08 --> 00:54:06:12] Nos pontos de contato.
+[00:54:10:08 --> 00:54:16:27] Existem também momentos de tipos de clientes, a gente chama isso de curva de consciência.
+[00:54:17:01 --> 00:54:19:22] Você pode colocar aqui, curva de consciência.
+[00:54:24:09 --> 00:54:26:23] Basicamente é isso aqui, deixa eu ver se essa é grande.
+[00:54:29:18 --> 00:54:31:00] Não é tão grande, mas dá pra gente, tchau.
+[00:54:32:24 --> 00:54:36:11] o cliente mais consciente e o cliente menos consciente.
+[00:54:36:15 --> 00:54:40:03] O jeito de tratar cada um desses clientes é diferente.
+[00:54:40:20 --> 00:54:45:11] Quando o cliente não tem muita consciência do que é a empresa,
+[00:54:45:15 --> 00:54:48:02] de qual problema ela resolve, de qual solução ela tem,
+[00:54:48:11 --> 00:54:50:12] quando o cliente não tem nenhuma consciência,
+[00:54:51:09 --> 00:54:56:12] o relacionamento precisa ser indireto e ele precisa ser mais amplo,
+[00:54:57:06 --> 00:55:00:27] no sentido de que você precisa contar uma história,
+[00:55:00:27 --> 00:55:03:11] você precisa ser mais explicativo,
+[00:55:03:20 --> 00:55:06:12] você precisa contextualizar o cliente.
+[00:55:06:17 --> 00:55:11:11] Agora, à medida que o cliente se torna mais consciente aqui para a esquerda,
+[00:55:11:23 --> 00:55:14:20] a comunicação se torna mais direta.
+[00:55:14:26 --> 00:55:19:14] Porque se você fica dando voltas para explicar uma coisa
+[00:55:19:14 --> 00:55:21:11] que para esse cliente já é óbvia,
+[00:55:21:20 --> 00:55:23:24] ele vai achar chato.
+[00:55:24:02 --> 00:55:26:15] Vai falar, meu Deus, que empresa enrolada,
+[00:55:26:18 --> 00:55:28:18] fica dando voltas para me explicar uma coisa que é simples.
+[00:55:28:19 --> 00:55:30:02] Eu só quero saber isso aqui.
+[00:55:30:02 --> 00:55:31:12] Eu só preciso disso.
+[00:55:31:21 --> 00:55:35:03] Então, uma comunicação direta não é mais eficiente com esse tipo de cliente.
+[00:55:35:09 --> 00:55:37:24] Então, entender isso daqui é muito interessante também,
+[00:55:37:27 --> 00:55:38:28] tem a ver com relacionamento.
+[00:55:39:09 --> 00:55:40:17] E existem etapas, tá?
+[00:55:41:04 --> 00:55:44:00] Aqui, olha, tem vários gráficos.
+[00:55:44:02 --> 00:55:45:12] Depois vocês podem pesquisar aí também.
+[00:55:45:19 --> 00:55:47:08] Curva de consciência, tá?
+[00:55:47:15 --> 00:55:49:04] Tem alguns até que explicam, olha.
+[00:55:49:10 --> 00:55:50:29] Abra um desses aqui que aí vocês vão ver.
+[00:55:51:04 --> 00:55:54:20] Olha aqui, Março, abordagem direta, abordagem indireta.
+[00:55:54:27 --> 00:55:57:19] Indireta é o que não é consciente, aqui tá invertido, tá?
+[00:55:57:20 --> 00:55:58:26] Às vezes coloca de um lado.
+[00:55:58:26 --> 00:56:03:22] Aqui é o alheio, não é consciente de nada, nunca ouviu sobre você ou sobre o seu produto.
+[00:56:04:12 --> 00:56:05:10] O que você precisa fazer?
+[00:56:05:14 --> 00:56:09:17] É o que eu falei, educar, mostrar, provar, entender, explicar.
+[00:56:10:14 --> 00:56:15:14] Aí existe o cara que é consciente do problema, às vezes ele não sabe da solução e nem
+[00:56:15:14 --> 00:56:20:05] sabe que a sua empresa existe, mas ele tem um problema, ele sabe que ele precisa resolver
+[00:56:20:05 --> 00:56:24:11] um problema, mas ele não sabe que tem solução para esse problema, tá?
+[00:56:24:21 --> 00:56:27:02] E aí qual que é o seu tipo de relacionamento com ele?
+[00:56:27:02 --> 00:56:30:24] eu vou falar sobre a dor dele, falar sobre os benefícios do produto,
+[00:56:30:29 --> 00:56:34:20] que está colocando isso, mas qual que é a comunicação explicando de um outro jeito?
+[00:56:35:01 --> 00:56:39:01] Aí eu mostro, olha, você tem um problema e existe uma solução para esse problema.
+[00:56:39:09 --> 00:56:42:17] Eu não preciso educar ele sobre o problema porque ele já sabe do problema.
+[00:56:42:23 --> 00:56:47:14] Eu já posso falar exatamente aqui, usar o problema para conectar com ele
+[00:56:47:14 --> 00:56:48:23] e já ir direto para a solução.
+[00:56:49:16 --> 00:56:51:14] Agora, se o cliente já sabe da solução,
+[00:56:51:18 --> 00:56:56:03] aí eu vou falar que eu tenho uma boa solução que resolve o problema dele.
+[00:56:56:03 --> 00:57:00:00] Então, olha que ele sabe que tem um problema e que existe uma solução, mas não sabe como
+[00:57:00:00 --> 00:57:00:11] resolver.
+[00:57:00:25 --> 00:57:03:09] O que você precisa fazer é tornar ele consciente do produto.
+[00:57:03:20 --> 00:57:07:18] Se você torna ele consciente do seu produto ou serviço, aí ele vai saber que tem um
+[00:57:07:18 --> 00:57:11:23] problema, vai saber que tem uma solução e vai saber que você tem essa solução
+[00:57:11:23 --> 00:57:13:06] e pode resolver o problema para ele.
+[00:57:13:12 --> 00:57:16:05] A partir daí que ele se torna um interessado.
+[00:57:16:17 --> 00:57:21:26] Um outro jeito de explicar isso nas pessoas chamam isso também de funil e marketing.
+[00:57:22:25 --> 00:57:24:21] É a mesma coisa de curva de consciência, tá?
+[00:57:26:14 --> 00:57:28:05] Só que aqui é apresentado de um outro jeito.
+[00:57:28:15 --> 00:57:29:13] É um termo muito comum.
+[00:57:29:21 --> 00:57:32:17] Topo difunil, meio difunil e fundo difunil.
+[00:57:32:25 --> 00:57:35:05] Vocês já devem ter ouvido isso e nunca ouviu, eu vou te explicar.
+[00:57:35:24 --> 00:57:37:16] Então, aqui, topo difunil
+[00:57:38:11 --> 00:57:40:28] é a massa, aquela pessoa que
+[00:57:40:28 --> 00:57:42:24] não tem consciência ainda, ele é alheio.
+[00:57:43:02 --> 00:57:44:14] Então, você precisa falar com ele
+[00:57:44:14 --> 00:57:46:29] de descobrir sobre aprendizado,
+[00:57:47:18 --> 00:57:50:19] educar ele sobre problema e solução.
+[00:57:51:06 --> 00:57:52:11] Aí, aqui entra no lead.
+[00:57:52:17 --> 00:57:54:19] O lead é consciente do problema, tá vendo?
+[00:57:54:26 --> 00:57:55:20] O mesmo processo.
+[00:57:56:11 --> 00:58:01:29] consciente do problema. Aqui tem uma etapa de oportunidades, mas tem vários nomes para isso.
+[00:58:02:03 --> 00:58:06:16] É o que é consciente da solução. Ele já está lá para o meio do funil. Ele já sabe que tem uma
+[00:58:06:16 --> 00:58:11:21] solução e ele já sabe que ele tem um problema. Agora, ele está na etapa de seleção de quem vai
+[00:58:11:21 --> 00:58:16:06] ser a melhor empresa para resolver o meu problema. E aí você tem o fundo de funil, que é o cliente,
+[00:58:16:08 --> 00:58:21:01] aquela pessoa que converteu. É um termo muito comum utilizado também. Tomou decisão de compra.
+[00:58:22:07 --> 00:58:25:23] E aqui é legal, porque o fim de um funil pode gerar um novo funil,
+[00:58:25:24 --> 00:58:27:10] porque um cliente pode comprar de novo.
+[00:58:27:20 --> 00:58:29:16] E quando você vende para um cliente recorrente,
+[00:58:29:28 --> 00:58:33:13] tem que ser diferente da venda que você faz para um cliente que não é recorrente.
+[00:58:33:24 --> 00:58:35:04] O jeito de tratar é diferente.
+[00:58:35:14 --> 00:58:37:23] Você já viu aquela pergunta quando você vai numa hamburgueria?
+[00:58:38:06 --> 00:58:39:14] Você já conhece a nossa casa?
+[00:58:39:23 --> 00:58:42:18] Essa pergunta é muito estratégica e muito importante,
+[00:58:43:01 --> 00:58:46:23] porque ela define como que o garçom vai te tratar a noite inteira.
+[00:58:47:03 --> 00:58:48:27] Se você fala, não, é a minha primeira vez.
+[00:58:49:02 --> 00:58:49:21] O que ele vai fazer?
+[00:58:49:21 --> 00:58:55:10] te educar, ele vai te explicar o cardápio, como que funciona, o que ela tem de inovadora
+[00:58:56:02 --> 00:59:00:28] naquela casa de hambúrguer, sei lá. Se você fala, já conheço sim, obrigado, a pessoa
+[00:59:00:28 --> 00:59:06:02] geralmente ela, ah que legal, você já é da casa, já é um relacionamento mais de
+[00:59:06:02 --> 00:59:12:03] brother, aquela pessoa conectada ali, mas qual vai ser a de hoje então, sabe? Então
+[00:59:12:03 --> 00:59:15:06] essa é uma pergunta super estratégica e você pode fazer também. Então isso aqui
+[00:59:15:06 --> 00:59:18:15] está ligado com o relacionamento com o cliente, tá bom?
+[00:59:19:00 --> 00:59:20:27] São perguntas estratégicas e muito importantes.
+[00:59:21:13 --> 00:59:23:23] Agora a gente entra num quadrante que gera muita dúvida,
+[00:59:23:25 --> 00:59:25:05] que é fonte de receita.
+[00:59:25:09 --> 00:59:27:20] Às vezes as pessoas, vocês, os membros da Audicent,
+[00:59:27:26 --> 00:59:28:09] perguntam assim,
+[00:59:28:20 --> 00:59:30:23] Ruan, mas eu vou perguntar para o meu cliente quanto ele ganha
+[00:59:30:23 --> 00:59:31:24] e se ele não quiser responder.
+[00:59:31:27 --> 00:59:32:29] Não, não é nada disso.
+[00:59:33:11 --> 00:59:35:24] Aqui em fonte de receita você não precisa saber
+[00:59:35:24 --> 00:59:37:08] quanto dinheiro a empresa ganha,
+[00:59:37:10 --> 00:59:39:28] porque tem cliente que não vai querer te falar isso, tá?
+[00:59:40:05 --> 00:59:42:08] Tem cliente que vão falar, tem cliente que não.
+[00:59:42:08 --> 00:59:46:23] Mas você pode conseguir essas informações de outras formas e ela é muito importante.
+[00:59:47:12 --> 00:59:48:29] Por que fonte de receita é importante?
+[00:59:49:09 --> 00:59:54:00] Porque é através da fonte de receita que você entende o posicionamento dessa marca.
+[00:59:54:12 --> 00:59:55:11] Se ela é uma marca...
+[00:59:55:11 --> 01:00:00:20] No mercado, nós chamamos de low ticket, então tem serviços de low ticket.
+[01:00:01:20 --> 01:00:04:24] É um tipo de serviço, olha lá, low ticket, high ticket.
+[01:00:05:08 --> 01:00:06:23] Como captar novos clientes?
+[01:00:06:29 --> 01:00:11:17] Existem tipos de clientes diferentes e o tipo de venda é diferente para cada
+[01:00:11:17 --> 01:00:16:11] cliente. Aqui não teve nenhum gráfico pra gente, mas eu vou explicar. Low tickets são
+[01:00:16:11 --> 01:00:21:20] produtos mais baratos, produtos que a decisão não é tão dolorosa pra fazer, sei lá,
+[01:00:21:22 --> 01:00:27:08] um produto de R$9,90, tipo a assinatura da Amazon Prime. É low ticket, fácil de fazer
+[01:00:27:08 --> 01:00:31:21] rápido, é um tipo de estratégia. E existem estratégias de high ticket. Por exemplo,
+[01:00:31:22 --> 01:00:40:00] se você comprar uma camisa da Hugo Boss. No padrão de camisas, de preços de camisas,
+[01:00:40:00 --> 01:00:43:23] uma camisa da Hugo Boss vale muito mais do que uma camisa comum.
+[01:00:44:08 --> 01:00:47:10] Ou então, sei lá, às vezes você vê um livro que custa R$2.000,00,
+[01:00:47:14 --> 01:00:49:07] fala, cara, com um livro de R$2.000,00.
+[01:00:49:09 --> 01:00:54:02] Geralmente, livros custam R$60, R$70, R$2.000,00.
+[01:00:54:06 --> 01:00:56:04] É high ticket, é muito alto preço.
+[01:00:56:17 --> 01:01:00:04] O posicionamento muda, a comunicação muda,
+[01:01:00:08 --> 01:01:03:04] porque você vai ter que resolver objeções diferentes,
+[01:01:03:11 --> 01:01:07:00] você vai ter que resolver um pensamento diferente na cabeça do público.
+[01:01:08:09 --> 01:01:09:13] Então, isso é importante.
+[01:01:10:01 --> 01:01:13:13] E aí, aqui em fontes de receita, algumas perguntas-chave são
+[01:01:13:13 --> 01:01:17:06] quais valores os nossos clientes realmente estão dispostos a pagar?
+[01:01:18:03 --> 01:01:20:01] O que você quer encontrar aqui?
+[01:01:20:12 --> 01:01:21:09] Você quer entender?
+[01:01:21:25 --> 01:01:24:25] O seu cliente está disposto a pagar mais por esse serviço
+[01:01:24:25 --> 01:01:27:01] ou o seu cliente não está disposto a pagar mais,
+[01:01:27:03 --> 01:01:29:24] ele prefere pagar menos e ter uma solução mediana?
+[01:01:30:18 --> 01:01:31:20] É um jeito de perguntar.
+[01:01:33:00 --> 01:01:35:08] Pelo que os clientes pagam, é uma pergunta boa.
+[01:01:35:24 --> 01:01:39:13] Então, de toda a sua fonte de receita, essa daqui também,
+[01:01:40:03 --> 01:01:42:13] o quanto cada fonte de receita contribui para a Receita Total
+[01:01:42:13 --> 01:01:45:21] é você tentar perguntar assim, qual é o seu carro-chefe?
+[01:01:45:28 --> 01:01:47:03] O que mais vende?
+[01:01:47:09 --> 01:01:48:15] Qual é o seu diferencial?
+[01:01:48:16 --> 01:01:50:15] Aquilo que as pessoas mais compram de você.
+[01:01:51:10 --> 01:01:53:07] Isso também está ligado com fonte de receita,
+[01:01:53:09 --> 01:01:56:00] porque você entendeu de onde vem a receita daquela empresa.
+[01:01:56:13 --> 01:01:59:10] É como se fosse o coração ali, de onde está vindo o sangue,
+[01:01:59:14 --> 01:02:02:24] o oxigênio, de quais serviços, quais são os serviços-chave.
+[01:02:03:00 --> 01:02:08:00] Porque na hora de comunicar, você quer fazer uma comunicação que leve para esses serviços.
+[01:02:08:07 --> 01:02:08:28] Pensa na Amazon.
+[01:02:09:06 --> 01:02:11:29] Eu, quando eu penso em Amazon, eu penso em livros.
+[01:02:12:04 --> 01:02:17:19] É a primeira coisa que eu penso em livros, porque eles se posicionaram assim por muito tempo.
+[01:02:17:28 --> 01:02:19:12] Amazon tem tudo hoje em dia, né?
+[01:02:19:27 --> 01:02:20:28] Mas eu sei...
+[01:02:22:01 --> 01:02:24:01] Os livros conectaram as pessoas.
+[01:02:24:04 --> 01:02:25:18] É uma fonte de receita da Amazon.
+[01:02:26:12 --> 01:02:28:18] Então, isso é importante de definir para um negócio.
+[01:02:29:16 --> 01:02:31:04] Aqui em fonte de receita,
+[01:02:31:13 --> 01:02:33:16] você pode perguntar também para o cliente...
+[01:02:34:04 --> 01:02:35:24] Ele já te apresentou os serviços.
+[01:02:36:04 --> 01:02:37:05] Produtos e serviços.
+[01:02:37:16 --> 01:02:39:09] De todos esses produtos e serviços,
+[01:02:39:15 --> 01:02:42:02] qual é a porcentagem de receita de cada um deles?
+[01:02:42:09 --> 01:02:44:01] Se o cliente desconfiar, você pode perguntar...
+[01:02:46:04 --> 01:02:48:21] Às vezes, as perguntas que eu vou fazer agora podem incomodar.
+[01:02:48:23 --> 01:02:51:00] Se incomodar, pode me falar. Fica à vontade.
+[01:02:51:00 --> 01:02:58:07] O que eu quero saber com fontes de receita, basicamente, é qual é o core da sua empresa?
+[01:02:58:27 --> 01:03:01:00] Qual é o fluxo que mantém a sua empresa viva?
+[01:03:01:01 --> 01:03:02:00] Qual é o seu oxigênio?
+[01:03:02:06 --> 01:03:07:03] Eu preciso saber disso porque, estrategicamente, é bom a sua identidade estar conectada com
+[01:03:07:03 --> 01:03:07:13] isso.
+[01:03:07:29 --> 01:03:08:06] Entendeu?
+[01:03:08:15 --> 01:03:12:13] Então, você pode direcionar o cliente, ser sempre explicativo para que ele entenda
+[01:03:12:13 --> 01:03:14:28] a sua intenção com essas perguntas, tá?
+[01:03:15:08 --> 01:03:18:03] Senão, o cliente fala, o que a criança sabe quanto eu ganho?
+[01:03:18:25 --> 01:03:20:09] Tudo o jeito que você pergunta.
+[01:03:20:09 --> 01:03:26:10] Tem como, inclusive, você perguntar quanto vale esses produtos e o cliente responder.
+[01:03:26:17 --> 01:03:30:16] Eu tenho clientes que preferem falar e clientes que preferem não falar e tá tudo bem.
+[01:03:31:00 --> 01:03:34:18] O mais importante é não deixar de fazer essas perguntas aqui porque elas também são
+[01:03:34:18 --> 01:03:36:08] muito orientadoras pra você, tá?
+[01:03:36:21 --> 01:03:38:03] Fonte de receita é esse de baixo aqui.
+[01:03:41:11 --> 01:03:46:03] Beleza? Então, a gente está seguindo essa lógica. Primeiro, segundo, terceiro, quarto...
+[01:03:47:01 --> 01:03:48:14] Agora a gente vai pro lado de lá.
+[01:03:49:19 --> 01:03:56:19] Fechou? Então, tem mais alguns pontos aqui que eu coloco na hierarquia dois, tá?
+[01:03:57:06 --> 01:04:00:18] Que são os parceiros-chave e as atividades-chave.
+[01:04:01:01 --> 01:04:06:24] Recursos-chave e estrutura de custo no grau de hierarquia está no nível 3.
+[01:04:07:09 --> 01:04:10:03] Se eu pudesse escolher qual que são os que eu menos vou trabalhar.
+[01:04:10:17 --> 01:04:12:14] Recursos e estrutura de custo.
+[01:04:12:19 --> 01:04:15:19] Num projeto de design, de identidade, de marca.
+[01:04:15:29 --> 01:04:17:25] Agora, para fazer um modelo de negócio
+[01:04:17:25 --> 01:04:20:10] e ser estratégico, pensar em engenharia o negócio,
+[01:04:20:17 --> 01:04:24:06] aí sim já é muito importante pensar em recursos-chave e estrutura de custo.
+[01:04:24:09 --> 01:04:26:16] Por exemplo, se você quiser fazer um BMC para você,
+[01:04:26:23 --> 01:04:28:12] eu, designer, quero fazer um BMC meu,
+[01:04:28:22 --> 01:04:32:00] para entender o meu negócio, você pode, e é muito bom para inovar.
+[01:04:32:08 --> 01:04:35:16] Aí sim você vai precisar falar de recursos-chave e estrutura de custo.
+[01:04:35:16 --> 01:04:37:28] Eu vou mostrar aqui para vocês, elas também são interessantes, tá?
+[01:04:38:10 --> 01:04:40:17] Não quer dizer que é descartável, não é isso que eu quis dizer.
+[01:04:40:24 --> 01:04:42:18] Só tem uma hierarquia de importância,
+[01:04:42:22 --> 01:04:44:29] que eu acho legal deixar muito claro aqui para vocês, tá?
+[01:04:45:11 --> 01:04:45:28] Então, vamos lá.
+[01:04:46:27 --> 01:04:52:06] Primeiro, recursos principais. Que recursos principais nossa proposta de valor requer
+[01:04:52:06 --> 01:04:57:13] e que recursos principais nossos canais requerem? O que nós queremos entender aqui? Nós
+[01:04:57:13 --> 01:05:01:27] estamos abrindo um pouquinho duas coisas importantes para a gente, que é a proposta
+[01:05:01:27 --> 01:05:07:01] de valor e os canais. Na proposta de valor, o que nós queremos saber é para que vocês
+[01:05:07:01 --> 01:05:13:05] consigam servir o seu cliente quais recursos são necessários. E aí eles vão falar,
+[01:05:13:05 --> 01:05:15:07] sei lá, tem uma hamburgueria, quais recursos são necessários?
+[01:05:15:15 --> 01:05:21:00] Ingredientes, mão de obra, ou mais do que ingrediente e mão de obra, os equipamentos
+[01:05:21:00 --> 01:05:23:00] também são recursos necessários, entendeu?
+[01:05:23:09 --> 01:05:24:09] São algumas perguntas.
+[01:05:24:14 --> 01:05:27:28] Por que que recursos entram no terceiro quadrante no design de identidade de marca?
+[01:05:28:13 --> 01:05:36:24] Porque até hoje, poucas vezes eu consegui utilizar esses recursos na comunicação,
+[01:05:37:22 --> 01:05:42:04] mas eu gosto sempre de fazer essas perguntas porque elas me ajudam a entender o negócio.
+[01:05:42:04 --> 01:05:49:02] Eu começo a visualizar, legal, o atendente, os equipamentos, os ingredientes, isso começa
+[01:05:49:02 --> 01:05:50:07] a fazer sentido na minha cabeça.
+[01:05:50:22 --> 01:05:51:03] O que mais?
+[01:05:51:04 --> 01:05:54:21] Além disso, os materiais de entrega também são importantes.
+[01:05:55:19 --> 01:06:00:28] O caixa, o envelope, as embalagens, opa, aí já me dá ideia de novo para conectar
+[01:06:00:28 --> 01:06:01:13] lá em cima.
+[01:06:01:16 --> 01:06:04:02] São recursos que eu, designer, posso projetar.
+[01:06:04:25 --> 01:06:05:01] Entende?
+[01:06:05:07 --> 01:06:08:04] Então, são perguntas que eu gosto de fazer, ainda assim.
+[01:06:08:04 --> 01:06:12:07] Eu só coloco elas numa hierarquia, se eu for definir os que são mais importantes,
+[01:06:12:26 --> 01:06:15:27] eu julgo as de cima mais importantes do que essas.
+[01:06:16:16 --> 01:06:18:22] E canais, como eu falei aqui, também são importantes.
+[01:06:19:00 --> 01:06:21:22] Por exemplo, que recursos principais nossos canais requerem?
+[01:06:22:03 --> 01:06:23:25] Vocês notaram que vai precisar de um site.
+[01:06:24:04 --> 01:06:25:09] Quais são os recursos de um site?
+[01:06:26:24 --> 01:06:31:23] Hospedagem, domínio, são alguns recursos necessários para que o site esteja no ar.
+[01:06:32:04 --> 01:06:36:04] Isso te ajuda até a explicar isso para o seu cliente, caso ele não tenha um site.
+[01:06:37:13 --> 01:06:43:24] Então, aqui você vai definir quais são as matérias-primas, principalmente da proposta de valor.
+[01:06:45:06 --> 01:06:48:16] dos canais, né, que são os pontos de contato.
+[01:06:49:02 --> 01:06:51:15] Aí nós entramos aqui, olha, atividade-chave e parceria
+[01:06:51:15 --> 01:06:53:14] são muito importantes para entender o negócio.
+[01:06:54:01 --> 01:06:57:04] Parceria é mais importante ainda do que atividade-chave,
+[01:06:57:17 --> 01:07:00:02] porque a parceria vai te ajudar a identificar.
+[01:07:00:05 --> 01:07:01:07] Hoje vou até colocar aqui, ó.
+[01:07:04:24 --> 01:07:10:23] Stakeholders. Os stakeholders são todos envolvidos no ecossistema da marca. É um erro você pensar
+[01:07:10:23 --> 01:07:16:06] que você projeta uma identidade de marca apenas para a relação empresa-cliente. Você também
+[01:07:16:06 --> 01:07:23:29] projeta aquela identidade de marca para os colaboradores internos, para os fornecedores,
+[01:07:24:22 --> 01:07:30:08] para os órgãos reguladores. Todos que estão envolvidos naquele ecossistema vão interagir
+[01:07:30:21 --> 01:07:33:24] E por isso que é importante aqui, parceria principal.
+[01:07:34:05 --> 01:07:36:21] Eu vou até começar com ela, depois eu falo de atividade chave, tá?
+[01:07:36:28 --> 01:07:39:20] Então você vai colocar aqui, perguntar para o seu cliente, quais são os seus principais
+[01:07:40:03 --> 01:07:43:11] parceiros, entendendo que os colaboradores também são parceiros, tá?
+[01:07:43:21 --> 01:07:47:09] Então tem os colaboradores, tem os fornecedores, quais são os fornecedores?
+[01:07:47:11 --> 01:07:50:06] Você pode aprofundar um pouco mais também para tentar entender.
+[01:07:50:29 --> 01:07:53:11] Poxa, é legal, tem fornecedores.
+[01:07:53:16 --> 01:07:54:17] Quem são os fornecedores?
+[01:07:54:21 --> 01:07:55:23] O que eles te fornecem?
+[01:07:55:27 --> 01:07:57:02] Você pode perguntar isso.
+[01:07:57:18 --> 01:07:59:15] Quem são os fornecedores principais?
+[01:08:00:08 --> 01:08:05:05] Parceiros não é só fornecedor, parceiro também pode ser uma empresa que tem clientes
+[01:08:05:05 --> 01:08:08:14] compartilháveis com a empresa do seu cliente, tá?
+[01:08:08:20 --> 01:08:13:14] Ou empresas que se complementam, também podem ser parceiros, né?
+[01:08:13:23 --> 01:08:19:02] Ou até mesmo em um evento, patrocinadores também são parceiros e você quer projetar
+[01:08:19:02 --> 01:08:23:06] pensando também nos patrocinadores, tem empresa que tem acionista, né?
+[01:08:23:17 --> 01:08:27:29] Pra quem tá começando e fazendo projetos de 10, 15 mil, é muito difícil você
+[01:08:27:29 --> 01:08:32:29] atender a uma empresa com acionistas em um projeto de 15 mil, vão ser projetos muito
+[01:08:32:29 --> 01:08:35:29] mais valorizados, mas também muito mais intensos.
+[01:08:36:05 --> 01:08:39:03] Mas é legal, eu gosto sempre de falar isso para vocês, porque existe esse universo.
+[01:08:39:14 --> 01:08:43:20] Estão pensando no ecossistema da marca aqui, tá bom?
+[01:08:44:01 --> 01:08:49:23] Sempre levando em consideração quem está envolvido com todo esse ambiente.
+[01:08:50:11 --> 01:08:53:01] Quais recursos principais estamos adquirindo de parceiros?
+[01:08:53:03 --> 01:08:56:09] Eu gosto de entender também para ver a importância que aqueles parceiros têm
+[01:08:56:09 --> 01:09:03:22] empresa de fato. Beleza? E aí aqui na atividade chave, eu quero entender no dia a dia o que
+[01:09:03:22 --> 01:09:07:14] a empresa faz. Se a empresa faz sanduíches eu falo, tá, me conta um pouquinho, vocês
+[01:09:07:14 --> 01:09:13:02] separam os ingredientes, guardam em potinhos, vocês... que dia... vocês têm um dia para
+[01:09:13:02 --> 01:09:16:24] ir comprar os ingredientes, vocês aprendem de que horário é que horário, qual que
+[01:09:16:24 --> 01:09:20:01] é a ordem para fazer o sanduíche. Seu cliente tem que achar que você vai virar
+[01:09:20:01 --> 01:09:24:00] concorrente dele, aí você vai explicar, ó, fica tranquilo, não vou virar seu concorrente,
+[01:09:24:00 --> 01:09:28:09] Eu só realmente quero entender o seu negócio porque eu tenho certeza que dessa forma eu
+[01:09:28:09 --> 01:09:29:00] vou conseguir te ajudar.
+[01:09:30:05 --> 01:09:33:17] Então, qual é o core da empresa aqui em atividade-chave?
+[01:09:34:00 --> 01:09:39:18] Então, qual é aquela atividade-chave principal que é o fluxo principal de exercício da
+[01:09:39:18 --> 01:09:40:17] empresa no dia a dia?
+[01:09:41:02 --> 01:09:44:02] Às vezes é as vendas, às vezes é a operação.
+[01:09:44:12 --> 01:09:46:14] Por exemplo, o rabone é uma estética automotiva.
+[01:09:46:15 --> 01:09:47:21] Qual é o core da empresa?
+[01:09:48:06 --> 01:09:51:01] O core da empresa é la vai pulir carro.
+[01:09:52:18 --> 01:09:56:21] Eu aprendi todo o processo e por isso que eu consigo vender tão bem uma estética
+[01:09:56:21 --> 01:09:57:03] automotiva.
+[01:09:57:03 --> 01:09:59:15] eu precisar, é a coisa mais fácil do mundo para mim hoje,
+[01:09:59:21 --> 01:10:03:23] porque eu sei o que os clientes querem, o que uma estética automotiva faz...
+[01:10:04:23 --> 01:10:06:13] Então, isso é muito, muito importante.
+[01:10:06:28 --> 01:10:12:04] As atividades-chave, não necessariamente você vai utilizar essas respostas aqui na comunicação,
+[01:10:12:15 --> 01:10:14:10] mas elas te dão clareza do negócio.
+[01:10:15:02 --> 01:10:17:04] Você começa a entender, então é assim que funciona.
+[01:10:17:15 --> 01:10:24:19] Por exemplo, na alquimia científica, eu descobri que as vendas acontecem através de um portal de compras.
+[01:10:24:23 --> 01:10:28:08] Você vai para o portal de compras e fecha contratos de dois, três anos
+[01:10:28:08 --> 01:10:31:00] para entregar material de referência certificado, por exemplo,
+[01:10:31:10 --> 01:10:33:03] ou alguns outros materiais específicos.
+[01:10:33:03 --> 01:10:38:06] Então, elas fazem contratos com a Vale, com a Arcelome e tal, essas empresas gigantes assim,
+[01:10:38:14 --> 01:10:42:28] para fornecer uma quantidade de produto de tempos em tempos.
+[01:10:43:02 --> 01:10:46:29] Isso acontece através de um portal de compras específico da Vale, por exemplo.
+[01:10:47:21 --> 01:10:51:22] E aí, quando elas estavam me explicando, ah, a gente entra no portal, faz cotação,
+[01:10:51:28 --> 01:10:56:08] isso e aquilo, eu fui entendendo como que o negócio funcionava e fica mais claro
+[01:10:56:08 --> 01:11:00:05] para mim, porque é muito ruim entrar num campo cego assim, meu Deus, eu não sei
+[01:11:00:05 --> 01:11:02:03] o que eu estou fazendo aqui, eu não entendo nada dessa empresa.
+[01:11:02:03 --> 01:11:07:19] A sensação é ruim, isso tira a sua confiança e você sempre fica com o pé atrás, não
+[01:11:07:19 --> 01:11:11:07] sabe se está se comunicando direito com o público e aí a coisa vai complicar.
+[01:11:11:11 --> 01:11:13:24] Então por isso que é legal fazer esse tipo de pergunta aqui.
+[01:11:15:12 --> 01:11:18:24] vocês vão notar lá na etapa de estratégia que nós vamos voltar nisso daqui.
+[01:11:19:20 --> 01:11:21:15] Por exemplo, a gente tem o mapa de stakeholders.
+[01:11:21:29 --> 01:11:23:06] Se você tem essas respostas,
+[01:11:23:10 --> 01:11:25:24] criar o mapa de stakeholders é a coisa mais fácil do mundo.
+[01:11:26:04 --> 01:11:27:18] Se você não tem essas respostas,
+[01:11:27:24 --> 01:11:29:19] seu mapa de stakeholders vai ficar vazio
+[01:11:29:19 --> 01:11:32:06] e você não vai ter uma visão geral do ecossistema da marca.
+[01:11:32:16 --> 01:11:34:07] Então é importante fazer essas perguntas.
+[01:11:34:27 --> 01:11:36:25] E por fim, estrutura de custo.
+[01:11:37:03 --> 01:11:39:17] Essa daqui, ela está no nível 3,
+[01:11:39:17 --> 01:11:44:00] junto com recursos principais aqui no design de identidade de marca.
+[01:11:44:00 --> 01:11:48:19] É importante fazer, se você tem tempo, faça a estrutura de custos também.
+[01:11:49:04 --> 01:11:53:16] Mas a ideia nossa aqui, e isso aqui que é o que guia, se é importante ou não fazer
+[01:11:53:16 --> 01:11:56:23] estrutura de custo, é entender o modelo do negócio.
+[01:11:57:08 --> 01:12:01:03] Existem empresas que são direcionadas pelo valor, mas também existem empresas que são
+[01:12:01:03 --> 01:12:06:13] direcionadas pelo custo e isso afeta a estratégia que você vai fazer na próxima
+[01:12:06:13 --> 01:12:06:26] etapa.
+[01:12:07:21 --> 01:12:10:00] Então, por isso que o custo é importante, tá?
+[01:12:11:04 --> 01:12:15:19] Quando você faz as perguntas como, quais são os custos mais importantes, que recursos
+[01:12:15:19 --> 01:12:20:29] principais são mais caros, quais atividades-chave são mais caras, você começa a entender
+[01:12:20:29 --> 01:12:24:19] onde o seu cliente está mais investindo, isso também te dá informação do que
+[01:12:24:19 --> 01:12:30:04] é mais importante para ele, mas também, estrategicamente, qual é o caminho que você
+[01:12:30:04 --> 01:12:31:10] pode seguir enquanto designer?
+[01:12:31:23 --> 01:12:36:07] Porque pode ser, se a empresa é orientada por custo, ela pode ser o tipo de empresa
+[01:12:36:07 --> 01:12:41:10] que faz lucro reduzindo o custo, então você vai querer uma solução de design que reduza
+[01:12:41:10 --> 01:12:45:00] custos também, porque ela está alinhada com o modelo de negócio.
+[01:12:45:13 --> 01:12:50:05] Por isso que é importante também definir uma estrutura de custos, tá bom?
+[01:12:50:12 --> 01:12:51:10] É legal fazer isso.
+[01:12:51:27 --> 01:12:55:27] E aí, a gente entra aqui então, olha, passamos por todas essas etapas, se você
+[01:12:55:27 --> 01:12:59:15] quiser, você pode até pesquisar no Google para saber mais a respeito, mas eu acredito
+[01:12:59:15 --> 01:13:03:11] que a explicação que eu te dei aqui, ela chega a ser até mais completa do que
+[01:13:03:11 --> 01:13:07:07] as explicações que vêm em blogs, mas se você quiser se aprofundar, eu recomendo também,
+[01:13:07:12 --> 01:13:11:27] porque vai te ajudar a ter uma visão ainda mais ampla dessa ferramenta que é muito versátil
+[01:13:11:27 --> 01:13:12:21] e muito útil.
+[01:13:13:12 --> 01:13:19:12] Agora, eu quero fazer o seguinte com vocês, na verdade eu estou até pensando, o BMC,
+[01:13:19:12 --> 01:13:23:05] ele é usado em dois momentos, igual eu apresentei aqui para vocês, né?
+[01:13:23:19 --> 01:13:25:05] Hoje aqui, o que eu iria fazer?
+[01:13:25:18 --> 01:13:30:07] Eu iria fazer a etapa de estratégia também, porque eu queria mostrar para vocês como
+[01:13:30:07 --> 01:13:34:23] que um modelo de negócio pode ser estratégico para gerar inovação para uma empresa, mas
+[01:13:34:23 --> 01:13:40:01] eu acredito que para tratar de uma etapa estratégica faz mais sentido se eu colocar uma aula de
+[01:13:41:03 --> 01:13:47:03] de BMC focado em inovação no modelo de negócio, para ser mais estratégico.
+[01:13:47:08 --> 01:13:52:06] Qual deve ser o quadrante que eu devo focar na empresa que eu estou trabalhando agora
+[01:13:52:06 --> 01:13:55:26] para criar um design de identidade de marca mais estratégico?
+[01:13:56:15 --> 01:14:00:27] Isso daqui é muito interessante e eu vou deixar isso para aula estratégica.
+[01:14:00:29 --> 01:14:05:05] Eu ia fazer aqui, mas à medida que a aula foi acontecendo, eu acho que vai ficar melhor
+[01:14:05:05 --> 01:14:09:10] para vocês, até porque também a aula já está bem grandinha e eu acredito que
+[01:14:09:10 --> 01:14:14:04] isso já deu um modelo aqui pra vocês. Outras coisas que nós falamos aqui hoje, tá?
+[01:14:14:10 --> 01:14:18:11] Que eu acho legal trazer esse material de referência pra vocês, eu vou até recomendar
+[01:14:18:11 --> 01:14:22:10] aqui alguns livros. Se vocês pesquisarem sobre design thinking...
+[01:14:23:22 --> 01:14:26:17] que o design thinking é o que originou o BMC,
+[01:14:26:26 --> 01:14:28:15] é o pensamento do design.
+[01:14:28:28 --> 01:14:31:08] Aqui eu vou colocar também o Double Diamond.
+[01:14:31:19 --> 01:14:32:18] Não tem segredo.
+[01:14:32:22 --> 01:14:35:23] Vocês vão pesquisar e vocês vão ver que é exatamente o que eu expliquei.
+[01:14:35:25 --> 01:14:38:00] Mas isso é super replicável.
+[01:14:38:15 --> 01:14:42:20] Toda a metodologia que eu construí foi em cima desse pensamento.
+[01:14:42:24 --> 01:14:43:26] Olha que curioso, né?
+[01:14:43:26 --> 01:14:45:18] Quando vocês entraram, quando eu entrei para vocês,
+[01:14:45:29 --> 01:14:47:17] que eu entrei para o mundo dos negócios,
+[01:14:47:20 --> 01:14:49:17] comecei a entender como as empresas funcionam,
+[01:14:49:22 --> 01:14:51:09] comecei a ler muito livro também, galera.
+[01:14:51:20 --> 01:14:53:04] Não foram os livros a diferença,
+[01:14:53:04 --> 01:14:56:01] porque se o livro fosse na aplica, não faz diferença nenhuma.
+[01:14:56:16 --> 01:14:58:25] Mas esses livros, junto com a prática,
+[01:14:59:20 --> 01:15:04:19] eu fui mesclando várias teorias na minha prática
+[01:15:04:19 --> 01:15:06:28] e foi assim que eu cheguei nessa metodologia
+[01:15:06:28 --> 01:15:10:14] que permite criar projetos de R$15 mil trabalhando em casa, sozinho,
+[01:15:10:22 --> 01:15:12:08] gerando resultado para os meus clientes.
+[01:15:12:22 --> 01:15:15:07] Mas eu gosto de deixar aqui informações para nerds,
+[01:15:15:07 --> 01:15:17:15] pessoas que, assim como eu, querem se aprofundar, querem ir mais além.
+[01:15:17:25 --> 01:15:21:03] Então, tem Designs Fink, tem um livro muito massa que se chama Design Doing.
+[01:15:21:03 --> 01:15:24:09] Esse livro é até uma resposta para o Design Thinking.
+[01:15:24:17 --> 01:15:25:24] Deixa eu colocar aqui para vocês.
+[01:15:27:13 --> 01:15:30:26] Se você pesquisar no Google, Zain Dweck é um amarelinho.
+[01:15:34:10 --> 01:15:36:28] Como usar a empatia para criar produtos que as pessoas amam.
+[01:15:37:20 --> 01:15:39:26] Também é Harvard Business Review Press.
+[01:15:40:08 --> 01:15:40:25] Olha que massa.
+[01:15:41:00 --> 01:15:43:12] Esse livro aqui é uma resposta para o design thinking.
+[01:15:43:26 --> 01:15:46:15] Do design thinking, thinking ao design doing.
+[01:15:46:27 --> 01:15:50:26] Que design doing é tipo o design que você faz, fazer design.
+[01:15:51:10 --> 01:15:53:16] De pensar design para fazer design.
+[01:15:53:27 --> 01:15:55:23] Como é que eu uso design thinking na prática?
+[01:15:56:03 --> 01:15:57:14] É muito massa também, tá?
+[01:15:57:22 --> 01:15:58:28] Esse livro aqui também é muito bom.
+[01:15:59:21 --> 01:16:00:23] Cis Service Design Doing.
+[01:16:01:03 --> 01:16:02:12] Eu vou até colocar aqui, ó...
+[01:16:03:02 --> 01:16:08:01] Nós não iríamos falar disso agora, mas entrou ali, entra de referência para vocês também,
+[01:16:08:08 --> 01:16:09:09] design de serviços.
+[01:16:10:00 --> 01:16:13:10] Isso aqui pode ser um serviço à parte que você pode oferecer para o cliente se você
+[01:16:13:10 --> 01:16:14:09] quiser ir para essa área, tá?
+[01:16:15:05 --> 01:16:17:20] Aqui isso aqui é um oceano azul hoje no design.
+[01:16:18:24 --> 01:16:20:28] Quantos designers de serviços vocês conhecem?
+[01:16:21:12 --> 01:16:23:25] E o resultado que dá para gerar com isso aqui, galera,
+[01:16:23:26 --> 01:16:26:07] isso aqui é UX, tá?
+[01:16:26:17 --> 01:16:27:24] Design de serviço é UX.
+[01:16:28:03 --> 01:16:31:12] Só que não é UX para UI.
+[01:16:31:26 --> 01:16:34:12] UI é User Interface.
+[01:16:34:22 --> 01:16:37:02] UX é User Experience.
+[01:16:37:15 --> 01:16:41:00] Então, é experiência do usuário e interface do usuário.
+[01:16:41:11 --> 01:16:45:05] Interface do usuário é para criar páginas, telas,
+[01:16:45:20 --> 01:16:46:29] dashboards e interfaces.
+[01:16:47:24 --> 01:16:53:02] Experiência do usuário vem antes de interface e você pode projetar toda uma experiência
+[01:16:53:02 --> 01:16:54:02] sem usar interface.
+[01:16:54:19 --> 01:16:55:20] E isso é o design de serviço.
+[01:16:56:23 --> 01:17:00:09] Inclusive, lá no marketing, vocês têm uma metodologia que se chama
+[01:17:01:08 --> 01:17:05:24] BluePrint de serviços, que é uma ferramenta do site de serviços.
+[01:17:07:01 --> 01:17:09:00] Eu tenho aí o design de serviço para vocês também,
+[01:17:09:04 --> 01:17:10:15] se quiserem se aprofundar nisso.
+[01:17:10:22 --> 01:17:14:00] Isso tudo aqui está super ligado com a auditoria do negócio, tá?
+[01:17:14:15 --> 01:17:16:27] Vai ajudar muito vocês, quem quiser se aprofundar.
+[01:17:17:06 --> 01:17:17:25] Então, vamos lá.
+[01:17:18:09 --> 01:17:19:08] Calda longa.
+[01:17:19:12 --> 01:17:20:10] Deixa eu ir colocando aqui.
+[01:17:21:22 --> 01:17:23:04] O livro nem chama cauda longa, né?
+[01:17:27:12 --> 01:17:28:14] mas eu quero o livro aqui ó.
+[01:17:29:21 --> 01:17:34:24] a teoria da cauda longa. A cauda longa. Chris Anderson. Muito bom esse livro. Esse
+[01:17:34:24 --> 01:17:40:19] livro aqui, na verdade, para quem empreende, ele é como se fosse um pré-requisito, né?
+[01:17:40:25 --> 01:17:45:21] Poucas pessoas leram, mas é um livro que quebrou um monte de paradigmas na época dele também.
+[01:17:46:10 --> 01:17:50:24] Tem a cauda longa, tem também o que eu tinha falado também...
+[01:17:51:21 --> 01:17:52:14] Oceano Azul
+[01:17:59:01 --> 01:18:01:08] Estratégia do Oceano Azul, também é um livro muito bom.
+[01:18:01:12 --> 01:18:04:23] Como criar novos mercados e tornar a concorrência irrelevante.
+[01:18:05:03 --> 01:18:06:27] Esse livro tem uma série de estratégias.
+[01:18:07:09 --> 01:18:08:09] Pense o seguinte, tá galera?
+[01:18:08:18 --> 01:18:09:17] Ah, eu não estou mostrando aqui.
+[01:18:10:25 --> 01:18:12:09] A estratégia do Céu na Azul...
+[01:18:13:20 --> 01:18:14:28] a cauda longa
+[01:18:16:21 --> 01:18:21:08] é esse amarelinho aqui dourado, ó. Tá mais pra dourado do que pra amarelinho, né?
+[01:18:21:14 --> 01:18:24:25] Tá a cauda longa e a estratégia do oceano azul.
+[01:18:25:29 --> 01:18:27:22] São dois livros que eu recomendo muito pra vocês.
+[01:18:27:28 --> 01:18:31:14] Esses livros aqui, eles são sobre negócios, não são livros sobre design.
+[01:18:32:04 --> 01:18:35:17] Mas os designers que entendem sobre negócio...
+[01:18:37:11 --> 01:18:40:03] tendem a ser mais estratégicos e gerar mais resultado.
+[01:18:40:18 --> 01:18:41:21] E são raros.
+[01:18:42:02 --> 01:18:44:06] E os clientes não querem largar esses designers.
+[01:18:44:26 --> 01:18:46:09] É muito curioso.
+[01:18:46:13 --> 01:18:49:21] Os clientes que eu atendo, geralmente eles querem me
+[01:18:49:21 --> 01:18:52:03] colocar para dentro da empresa deles, para vocês terem noção.
+[01:18:52:14 --> 01:18:54:01] Isso acontece muito.
+[01:18:54:18 --> 01:18:55:24] Vem trabalhar com a gente
+[01:18:55:24 --> 01:18:59:08] ou já querem emendar um outro projeto em sequência.
+[01:18:59:29 --> 01:19:02:24] Porque não é fácil, a maioria dos designers são técnicos.
+[01:19:02:28 --> 01:19:04:13] E eu leio esses livros.
+[01:19:04:21 --> 01:19:06:29] Por isso que esses livros são importantes.
+[01:19:06:29 --> 01:19:08:25] se você quer ser mais estratégico.
+[01:19:09:09 --> 01:19:12:10] E outra coisa, tá? Isso é o que ajuda vocês mesmos.
+[01:19:12:20 --> 01:19:15:05] Vocês, designers, não querem criar novos mercados
+[01:19:15:05 --> 01:19:17:05] e tornar a concorrência relevante para vocês?
+[01:19:17:16 --> 01:19:20:03] Então, é super útil. Eu super recomendo, tá?
+[01:19:20:09 --> 01:19:22:21] Tem um que eu estou lendo agora também, não terminei,
+[01:19:22:24 --> 01:19:24:29] mas esse é até mais avançado.
+[01:19:25:08 --> 01:19:26:00] Mas já que eu...
+[01:19:26:00 --> 01:19:28:11] Não devia falar agora, mas já que eu falei, então vai.
+[01:19:28:15 --> 01:19:30:24] Chama O Estrategista.
+[01:19:31:20 --> 01:19:33:09] Opa, faltou ali. O Estrategista aqui, ó.
+[01:19:33:23 --> 01:19:35:15] É um livrinho pequenininho, tá?
+[01:19:35:15 --> 01:19:37:06] E tá até aqui ó, na minha mesa.
+[01:19:38:23 --> 01:19:40:19] até aqui, que é o que eu tô lendo agora.
+[01:19:41:02 --> 01:19:44:27] Mas ele já traz uma visão sobre liderança,
+[01:19:45:02 --> 01:19:51:19] não é nem necessariamente sobre pesquisa, não, ele é sobre estratégia,
+[01:19:51:22 --> 01:19:52:28] o título dele é o estrategista.
+[01:19:53:08 --> 01:19:57:05] Só que a liderança que entra aqui é uma liderança de que,
+[01:19:57:05 --> 01:20:03:12] o que a Cintia defende ali é, os líderes precisam ser estrategistas,
+[01:20:03:17 --> 01:20:04:13] é isso que ela defende.
+[01:20:04:13 --> 01:20:09:15] E tem vários exemplos de... tem várias histórias de negócios que faliram,
+[01:20:09:17 --> 01:20:12:16] negócios que deram certo por causa de decisões tomadas.
+[01:20:12:23 --> 01:20:13:18] Por isso que é interessante.
+[01:20:13:28 --> 01:20:16:04] Estrategia nada mais é do que tomar uma decisão.
+[01:20:16:12 --> 01:20:18:01] E esse livro fala bastante sobre isso.
+[01:20:18:07 --> 01:20:22:22] Isso me dá um repertório do mundo dos negócios muito massa, tá?
+[01:20:23:05 --> 01:20:27:01] Eu poderia listar vários outros aqui, mas esses são bem densos.
+[01:20:27:10 --> 01:20:31:20] O último prometo, mas esse aqui eu acho que todo designer deveria ler, é o mito
+[01:20:31:20 --> 01:20:32:10] do empreendedor.
+[01:20:35:22 --> 01:20:37:04] Esse livro é excelente!
+[01:20:38:18 --> 01:20:42:18] Só que ele é um livro de processo, de operação.
+[01:20:43:04 --> 01:20:45:03] Só que ele fala lá, por que muitos negócios fracassam
+[01:20:45:03 --> 01:20:47:03] e o que você pode fazer para vencer.
+[01:20:47:10 --> 01:20:51:01] Isso aqui é sobre empreendedorismo, de novo, não é sobre design.
+[01:20:52:03 --> 01:20:53:27] Você vai focar em design agora,
+[01:20:53:28 --> 01:20:55:22] mas eu estou no momento de focar em design.
+[01:20:56:23 --> 01:20:58:23] Continua as próximas aulas da metodologia,
+[01:20:58:26 --> 01:21:00:06] não vai ler esses livros agora.
+[01:21:00:18 --> 01:21:02:15] Isso aqui eu só estou indicando para vocês
+[01:21:02:15 --> 01:21:05:08] porque eu acredito que quem quer se aprofundar
+[01:21:05:08 --> 01:21:07:09] depois que já estiver tendo resultado,
+[01:21:07:17 --> 01:21:08:24] senão vocês vão ficar cabeçudos,
+[01:21:09:03 --> 01:21:11:02] só teoria, teoria, teoria, sem prática, né?
+[01:21:11:13 --> 01:21:12:07] Volto para a prática.
+[01:21:12:14 --> 01:21:13:17] Depois de resultado, quer mais?
+[01:21:13:20 --> 01:21:16:15] Eu já estou dando um pouco do caminho aqui para vocês, tá bom?
+[01:21:17:14 --> 01:21:19:02] Mas, basicamente, olha só...
+[01:21:19:02 --> 01:21:21:06] Depois que eu expliquei, ficou até mais simples, né?
+[01:21:21:28 --> 01:21:24:16] Basicamente, a minha auditoria de negócio é essa.
+[01:21:24:21 --> 01:21:27:14] Quando eu termino ela, eu tenho uma visão clara.
+[01:21:27:21 --> 01:21:30:05] Relembrando só que eu não faço ela só com cliente,
+[01:21:30:06 --> 01:21:31:23] eu tenho duas rodadas no mínimo.
+[01:21:32:05 --> 01:21:34:08] Eu faço uma vez com o cliente, depois eu volto para casa
+[01:21:34:08 --> 01:21:36:02] e complemento com a minha pesquisa.
+[01:21:36:11 --> 01:21:38:22] Você pode fazer uma pesquisa de busca pela internet
+[01:21:38:22 --> 01:21:41:01] e você pode fazer o que eu gosto de fazer também,
+[01:21:41:11 --> 01:21:44:11] muito, muito, muito, muito, que é entrevistar.
+[01:21:44:15 --> 01:21:46:05] Eu gosto de entrevistar colaboradores.
+[01:21:46:14 --> 01:21:49:28] Às vezes, você só entrevista os diretores e tem uma visão de topo.
+[01:21:49:28 --> 01:21:52:10] Eu amo entrevistar colaborador.
+[01:21:52:21 --> 01:21:56:12] Eu gosto de entender a visão que cada pessoa tem da empresa.
+[01:21:56:26 --> 01:21:59:11] Se pudesse, também pode entrevistar fornecedor,
+[01:21:59:20 --> 01:22:01:14] você pode entrevistar cliente...
+[01:22:01:14 --> 01:22:02:29] Tem várias técnicas.
+[01:22:03:00 --> 01:22:05:23] Técnica de cliente oculto, você pode ir lá e comprar da empresa
+[01:22:05:23 --> 01:22:07:16] para você viver a própria experiência,
+[01:22:07:21 --> 01:22:09:20] dependendo de algumas empresas isso funciona,
+[01:22:09:21 --> 01:22:12:07] outras não vão funcionar tão bem, tá?
+[01:22:12:12 --> 01:22:14:11] Mas são várias estratégias diferentes.
+[01:22:15:05 --> 01:22:17:08] Aqui, eu não vou me contentar em criar
+[01:22:17:08 --> 01:22:19:09] uma grande caixa de ferramentas para vocês,
+[01:22:19:09 --> 01:22:23:20] eu posso fazer isso em um outro momento, deixar um espaço reservado para caixa de ferramentas.
+[01:22:23:23 --> 01:22:25:09] O mais importante é você entender a lógica.
+[01:22:25:11 --> 01:22:29:14] Se você tem essas informações que eu te mostrei aqui agora, você já coletou as
+[01:22:29:14 --> 01:22:32:06] informações suficientes sobre o negócio.
+[01:22:32:20 --> 01:22:36:27] Agora, nas próximas aulas, nós ainda temos que fazer uma auditoria do mercado, que
+[01:22:36:27 --> 01:22:41:00] é diferente, e do público, que também é diferente.
+[01:22:41:09 --> 01:22:45:19] Hoje aqui, nós até começamos a fazer uma auditoria de público, lá nos segmentos
+[01:22:45:19 --> 01:22:46:11] de mercado, lembra?
+[01:22:46:16 --> 01:22:47:18] E na proposta de valor.
+[01:22:47:18 --> 01:22:49:14] Ali nós falamos de público, não tem como.
+[01:22:49:24 --> 01:22:52:10] Mas lá na auditoria de público nós vamos aprofundar
+[01:22:52:10 --> 01:22:56:11] e eu vou dar outras ferramentas para vocês encontrarem essas respostas.
+[01:22:56:23 --> 01:22:59:21] Agora que você está chegando aqui, vendo a metodologia mais avançada,
+[01:22:59:26 --> 01:23:02:10] você está percebendo que o briefing não dá conta de tudo.
+[01:23:02:22 --> 01:23:04:29] Você não consegue tudo isso sozinho em um dia,
+[01:23:05:01 --> 01:23:06:25] numa rodada de briefing com seu cliente.
+[01:23:07:00 --> 01:23:09:19] É por isso que briefing é um documento de gestão.
+[01:23:10:07 --> 01:23:13:06] Mas a investigação e a pesquisa vem logo em seguida.
+[01:23:13:12 --> 01:23:16:01] Então eu vou ficando por aqui e eu te vejo na próxima aula.

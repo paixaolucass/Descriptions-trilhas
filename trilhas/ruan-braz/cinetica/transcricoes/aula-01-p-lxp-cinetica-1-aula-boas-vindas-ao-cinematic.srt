@@ -1,0 +1,580 @@
+1
+00:00:00,000 --> 00:00:03,900
+Para começar a nossa trilha de geração de vídeos, a Lanterna Mágica,
+
+2
+00:00:03,960 --> 00:00:08,120
+eu vou começar com os fundamentos, então já estou aqui na nossa página de fundamentos,
+
+3
+00:00:08,120 --> 00:00:12,320
+você pode acessar ela aí também no link, já estou direto nela aqui,
+
+4
+00:00:12,360 --> 00:00:14,780
+tem uma série de conceitos que eu quero trabalhar com você,
+
+5
+00:00:14,900 --> 00:00:17,740
+e eu quero mostrar uma coisa interessante, só para começar.
+
+6
+00:00:18,260 --> 00:00:22,360
+Esses vídeos todos aqui, alguns deles vão ficar bem legais,
+
+7
+00:00:22,520 --> 00:00:25,360
+outros deles vão ficar muito ruins. Por quê?
+
+8
+00:00:25,780 --> 00:00:27,560
+Basicamente quem fez isso aqui, olha ali, olha ali,
+
+9
+00:00:27,560 --> 00:00:30,740
+o cara tá dentro da mesa, reparem isso aqui
+
+10
+00:00:30,740 --> 00:00:32,720
+tá dentro da mesa, o outro todo esquisito
+
+11
+00:00:32,720 --> 00:00:34,180
+por que que ficou desse jeito?
+
+12
+00:00:34,380 --> 00:00:36,940
+porque esses vídeos não foram feitos aplicando
+
+13
+00:00:36,940 --> 00:00:38,560
+os conceitos que eu vou ensinar aqui pra vocês
+
+14
+00:00:38,560 --> 00:00:41,000
+esses vídeos, eu pedi
+
+15
+00:00:41,000 --> 00:00:42,820
+pra 10 agentes de A
+
+16
+00:00:43,340 --> 00:00:44,760
+gerarem ele pra ilustrar
+
+17
+00:00:44,760 --> 00:00:46,780
+as páginas pra gente aqui, enquanto
+
+18
+00:00:46,780 --> 00:00:48,780
+eu tô dando essa aula, então foi até curioso
+
+19
+00:00:48,780 --> 00:00:51,020
+porque isso foi feito muito rápido pra mostrar o poder
+
+20
+00:00:51,020 --> 00:00:52,660
+que a inteligência artificial tem
+
+21
+00:00:52,660 --> 00:00:54,980
+também, porque essa documentação
+
+22
+00:00:54,980 --> 00:00:56,680
+toda eu fiz em mais ou menos 20 minutos
+
+23
+00:00:56,680 --> 00:00:58,720
+eu peguei os documentos que já existiam e criei
+
+24
+00:00:58,720 --> 00:01:00,480
+essa página pra vocês, e eu
+
+25
+00:01:00,480 --> 00:01:02,220
+conectei uma API, que
+
+26
+00:01:02,220 --> 00:01:04,580
+em outros cursos, em outros momentos eu explico o que é
+
+27
+00:01:04,580 --> 00:01:06,380
+API, não é o momento agora, mas eu
+
+28
+00:01:06,380 --> 00:01:08,740
+conectei a API com alguns modelos
+
+29
+00:01:08,740 --> 00:01:10,400
+que a gente vai falar desses modelos aqui
+
+30
+00:01:10,400 --> 00:01:12,040
+como o VEL, do Google
+
+31
+00:01:12,040 --> 00:01:14,320
+e o SIDENS, da ByteDance
+
+32
+00:01:14,320 --> 00:01:16,620
+que são dois dos melhores modelos de vídeo aí
+
+33
+00:01:16,620 --> 00:01:18,340
+e eu falei pros agentes, olha
+
+34
+00:01:18,340 --> 00:01:20,620
+sai gerando, pra cada página gera um
+
+35
+00:01:20,620 --> 00:01:22,560
+vídeo, e eles fizeram isso pra mim
+
+36
+00:01:22,560 --> 00:01:23,820
+em questão de
+
+37
+00:01:24,840 --> 00:01:26,060
+vai, 10 minutos
+
+38
+00:01:26,060 --> 00:01:28,780
+5 a 10 minutos ali, todas as páginas tinham vídeo.
+
+39
+00:01:29,080 --> 00:01:31,680
+Eu estou falando disso para vocês já começarem a entender
+
+40
+00:01:31,680 --> 00:01:33,960
+o impacto que a IA está tendo no mercado.
+
+41
+00:01:34,320 --> 00:01:37,240
+Hoje já é possível montar uma área de membros inteira
+
+42
+00:01:37,240 --> 00:01:38,940
+e dar cursos feitos por IA.
+
+43
+00:01:39,200 --> 00:01:43,040
+Aqui, no caso, esses vídeos não são vídeos bem construídos ainda,
+
+44
+00:01:43,140 --> 00:01:46,140
+porque eu não rodei a estrutura de prompts que eu vou ensinar para vocês neles,
+
+45
+00:01:46,260 --> 00:01:49,680
+mas eu já consigo montar uma areazinha de membros parecida com essa daqui
+
+46
+00:01:49,680 --> 00:01:54,160
+em 20 minutos e já consigo popular elas com vários vídeos que têm áudio.
+
+47
+00:01:54,160 --> 00:01:56,820
+O cara tá falando aqui também, não sei se deu pra você ouvir aí.
+
+48
+00:01:57,180 --> 00:01:57,800
+Olha só.
+
+49
+00:01:58,480 --> 00:02:01,640
+Tá em inglês, tá? Porque esses vídeos, reforçando pra você,
+
+50
+00:02:01,780 --> 00:02:03,900
+foram feitos por robôs sem instrução minha.
+
+51
+00:02:04,060 --> 00:02:05,460
+É o robô cru já fez isso aqui.
+
+52
+00:02:05,760 --> 00:02:07,380
+Depois a gente vai melhorando, mas olha só.
+
+53
+00:02:13,600 --> 00:02:15,060
+Meio robotizado, bug, né?
+
+54
+00:02:15,080 --> 00:02:16,980
+A câmera fica voando, ela vai...
+
+55
+00:02:16,980 --> 00:02:20,240
+Tem várias coisas erradas aqui que a gente vai aprender a lidar com isso.
+
+56
+00:02:20,420 --> 00:02:22,100
+Mas isso aqui foi feito por um robô.
+
+57
+00:02:22,140 --> 00:02:23,580
+E os robôs foram populando.
+
+58
+00:02:23,580 --> 00:02:26,380
+todas as páginas tem um vídeo. Esse ficou bom, eu gostei dele.
+
+59
+00:02:32,060 --> 00:02:34,300
+ilustrando aqui a página, tá vendo?
+
+60
+00:02:35,644 --> 00:02:38,104
+Foi feito por robôs, sem qualquer instrução minha.
+
+61
+00:02:38,204 --> 00:02:40,484
+Eu só falei, colocam um vídeo para cada página
+
+62
+00:02:40,484 --> 00:02:43,444
+para ilustrar a página da nossa documentação.
+
+63
+00:02:43,444 --> 00:02:44,224
+Ele já fez isso.
+
+64
+00:02:44,444 --> 00:02:46,344
+Eu estou falando sobre isso para vocês entenderem
+
+65
+00:02:46,344 --> 00:02:50,844
+que essa lógica de pensar só em um vídeo,
+
+66
+00:02:51,024 --> 00:02:53,524
+essa lógica de fazer um trabalho artesanal,
+
+67
+00:02:53,524 --> 00:02:55,244
+ela não vai morrer, óbvio que não.
+
+68
+00:02:55,604 --> 00:02:57,504
+Mas ela é uma parte do mercado,
+
+69
+00:02:57,544 --> 00:02:59,064
+não é o único jeito de fazer as coisas.
+
+70
+00:02:59,384 --> 00:03:01,644
+E hoje, quem tem pensamento sistêmico,
+
+71
+00:03:01,724 --> 00:03:04,544
+falando de oportunidade em mercado e não falando de arte,
+
+72
+00:03:04,544 --> 00:03:08,404
+Porque se a gente fala de arte, de ajuste, de colocar a visão de um artista ali,
+
+73
+00:03:08,484 --> 00:03:12,684
+você pode ficar num único filme um mês inteiro e fazer uma peça incrível.
+
+74
+00:03:12,724 --> 00:03:15,404
+Você pode ficar um ano num filme e fazer uma peça incrível,
+
+75
+00:03:15,444 --> 00:03:16,824
+porque ali você tem direção.
+
+76
+00:03:17,204 --> 00:03:18,004
+É diferente.
+
+77
+00:03:18,564 --> 00:03:22,304
+Falando de mercado, de oportunidades, que é um outro jeito de abordar tudo isso,
+
+78
+00:03:22,424 --> 00:03:26,544
+se você tem visão sistêmica, a questão não é só mais fazer um ou dois vídeos,
+
+79
+00:03:26,704 --> 00:03:30,044
+mas é conseguir construir uma experiência completa.
+
+80
+00:03:30,744 --> 00:03:31,184
+Beleza?
+
+81
+00:03:32,564 --> 00:03:36,124
+Então, isso aqui é um case, a gente vai ver vários outros cases aqui dentro,
+
+82
+00:03:36,224 --> 00:03:39,464
+quando a gente chegar aqui em benefícios, né, três cases que eu vou falar disso,
+
+83
+00:03:39,624 --> 00:03:42,324
+mas se vocês virem esses vídeos rodando aqui agora,
+
+84
+00:03:42,524 --> 00:03:44,704
+é justamente porque foi feito por robôs.
+
+85
+00:03:44,824 --> 00:03:46,984
+Eu não coloquei instrução nenhuma no vídeo, eu falei,
+
+86
+00:03:47,044 --> 00:03:49,124
+faz uns vídeos aí pra gente popular isso aqui,
+
+87
+00:03:49,264 --> 00:03:53,924
+e em cinco a dez minutos a IA tinha feito todos os vídeos de todas as páginas.
+
+88
+00:03:53,924 --> 00:03:58,544
+Vocês vão ver que são muitas páginas e todas as páginas têm um vídeo.
+
+89
+00:03:58,544 --> 00:04:04,024
+A maioria precisa de ajuste, a maioria não tá perfeita, mas se você parar pra pensar que as EAs estão evoluindo
+
+90
+00:04:05,468 --> 00:04:05,948
+Isso é commodity.
+
+91
+00:04:07,308 --> 00:04:10,908
+Logo, sua atenção não tem que ficar em saber clicar um botão.
+
+92
+00:04:10,948 --> 00:04:14,008
+Tem que ser em dirigir bem, ter bom repertório.
+
+93
+00:04:14,028 --> 00:04:16,988
+Tem que ser justamente você saber orquestrar.
+
+94
+00:04:18,008 --> 00:04:19,308
+Ter boas ideias e realizá-las.
+
+95
+00:04:19,488 --> 00:04:20,008
+Tá bom?
+
+96
+00:04:21,532 --> 00:04:24,292
+Dito isso, então, boas-vindas à Lanterna Mágica.
+
+97
+00:04:24,352 --> 00:04:25,572
+O que você vai aprender aqui?
+
+98
+00:04:25,652 --> 00:04:27,712
+Como funcionam os modelos de geração de vídeo,
+
+99
+00:04:27,852 --> 00:04:30,272
+quais ferramentas do mercado global usar em cada situação,
+
+100
+00:04:30,492 --> 00:04:31,492
+ele já está falando algumas aqui,
+
+101
+00:04:31,592 --> 00:04:33,812
+Cling, VEL, Runway, Sora, Hilo.
+
+102
+00:04:34,172 --> 00:04:35,952
+Lembrando que todo esse conteúdo aqui
+
+103
+00:04:35,952 --> 00:04:38,612
+é o conteúdo da documentação da Overlens, tá?
+
+104
+00:04:38,752 --> 00:04:41,012
+Então, é um material que eu já tinha preparado para vocês,
+
+105
+00:04:41,112 --> 00:04:43,572
+eu só organizei eles dentro dessa interface aqui para vocês.
+
+106
+00:04:43,972 --> 00:04:46,092
+Como escrever prompt cinematográficos
+
+107
+00:04:46,092 --> 00:04:47,612
+com framework de cinco camadas,
+
+108
+00:04:48,372 --> 00:04:49,292
+a gente vai falar disso aqui.
+
+109
+00:04:49,292 --> 00:04:52,492
+Fluxo de trabalho profissional usado por agências e cineastas.
+
+110
+00:04:52,932 --> 00:04:55,792
+Ética, direitos autorais e uso responsável da generativa.
+
+111
+00:04:56,492 --> 00:04:58,992
+Produção de trailer comercial e conteúdo para a rede social.
+
+112
+00:04:59,812 --> 00:05:00,772
+Estrutura da trilha.
+
+113
+00:05:00,812 --> 00:05:02,452
+A gente tem fundamentos, que é teoria.
+
+114
+00:05:02,812 --> 00:05:04,972
+Depois, tipos de ferramentas, que é teoria.
+
+115
+00:05:05,232 --> 00:05:08,012
+Depois, estrutura de prompt, que é teoria mais prática.
+
+116
+00:05:08,152 --> 00:05:09,772
+Técnica e processo, que é prático.
+
+117
+00:05:09,952 --> 00:05:12,652
+Oficina prática, exercício e projeto de conclusão.
+
+118
+00:05:12,792 --> 00:05:14,332
+Tá bom? Essa é a sequência aqui.
+
+119
+00:05:14,552 --> 00:05:15,652
+Como usar a plataforma?
+
+120
+00:05:16,432 --> 00:05:18,692
+Navegação lateral, playground de vídeo.
+
+121
+00:05:18,692 --> 00:05:21,652
+O Playground fica lá na Home, você pode usar o Playground.
+
+122
+00:05:22,172 --> 00:05:25,192
+Eu tenho que ver se ele vai ficar ativo no online para vocês,
+
+123
+00:05:25,892 --> 00:05:27,812
+mas se ficar, vai ser gastando fractais,
+
+124
+00:05:28,312 --> 00:05:32,732
+e aí você vai conseguir gerar vídeos e imagens direto dentro do Playground aqui também, tá bom?
+
+125
+00:05:33,612 --> 00:05:36,772
+Biblioteca de Prompts, que eu mostrei para vocês brevemente no início,
+
+126
+00:05:36,992 --> 00:05:41,192
+e o Glossário também, vocês têm acesso para ver os principais termos aqui dentro, tá bom?
+
+127
+00:05:41,412 --> 00:05:45,432
+Aí eu posso clicar aqui para avançar para a próxima aula, para quem é essa trilha,
+
+128
+00:05:45,432 --> 00:05:47,452
+mas antes de avançar para a próxima aula
+
+129
+00:05:47,452 --> 00:05:49,452
+então, fechando, amarrando essa aula
+
+130
+00:05:49,452 --> 00:05:51,432
+inicial para vocês aqui, nós vamos ter
+
+131
+00:05:51,432 --> 00:05:53,492
+um curso bem completo que é do introdutório
+
+132
+00:05:53,492 --> 00:05:55,272
+até o intermediário ali, para você aprender
+
+133
+00:05:55,272 --> 00:05:57,452
+a gerar vídeos, eu não digo
+
+134
+00:05:57,452 --> 00:05:59,312
+que é avançado, porque o avançado é essa visão
+
+135
+00:05:59,312 --> 00:06:01,292
+sistêmica de orquestrar agentes, para
+
+136
+00:06:01,292 --> 00:06:02,932
+construir agentes que vão
+
+137
+00:06:04,192 --> 00:06:05,152
+organizar esses vídeos
+
+138
+00:06:05,152 --> 00:06:07,312
+dentro de uma lógica mais ampla, às vezes fazer um
+
+139
+00:06:07,312 --> 00:06:08,752
+filme, fazer um
+
+140
+00:06:09,392 --> 00:06:11,232
+storyboard completo, criar
+
+141
+00:06:11,232 --> 00:06:13,412
+suas próprias ferramentas para construir junto com vocês
+
+142
+00:06:13,412 --> 00:06:15,212
+é um nível avançado, a gente vem em outras trilhas
+
+143
+00:06:15,212 --> 00:06:17,652
+mas você vai aprender aqui
+
+144
+00:06:17,652 --> 00:06:19,852
+fazer bons vídeos com os fundamentos
+
+145
+00:06:19,852 --> 00:06:20,492
+que eu vou trazer pra vocês
+

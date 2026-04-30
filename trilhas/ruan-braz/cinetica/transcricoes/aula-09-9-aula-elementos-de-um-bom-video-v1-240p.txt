@@ -1,0 +1,424 @@
+# Video: 9._aula_-_elementos_de_um_bom_vídeo_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-24 09:41
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:00 --> 00:00:01:20] elementos de um bom vídeo.
+[00:00:01:26 --> 00:00:03:29] Vamos seguir aqui para a nossa próxima aula.
+[00:00:04:05 --> 00:00:05:29] E agora eu quero trazer alguns elementos aqui.
+[00:00:06:01 --> 00:00:07:17] É claro que lá em estrutura de prompt,
+[00:00:07:24 --> 00:00:09:10] em técnicas, a gente vai falar mais sobre isso.
+[00:00:09:24 --> 00:00:11:26] Porém, eu quero trazer para você alguns elementos
+[00:00:11:26 --> 00:00:13:05] e comentar sobre eles aqui.
+[00:00:13:13 --> 00:00:16:04] Está aí o vídeo que a Yaya gerou para ilustrar isso.
+[00:00:16:05 --> 00:00:16:17] Vamos dar uma olhada.
+[00:00:23:12 --> 00:00:23:24] Beleza.
+[00:00:24:11 --> 00:00:25:05] Vamos seguir lá.
+[00:00:25:20 --> 00:00:28:17] Os primeiros elementos, vocês vão ver que tem muita relação com a imagem.
+[00:00:28:17 --> 00:00:30:05] Então, a gente já traz aqui enquadramento.
+[00:00:30:25 --> 00:00:34:20] Então, sim, você trabalha enquadramento quando a gente fala de vídeo,
+[00:00:34:24 --> 00:00:39:11] até porque no vídeo tem uma peculiaridade em relação ao enquadramento,
+[00:00:39:15 --> 00:00:40:16] que é o movimento de câmera.
+[00:00:40:21 --> 00:00:43:23] À medida que a câmera vai se movimentando, ela muda o enquadramento.
+[00:00:44:02 --> 00:00:49:03] Então, se você pede um close-up com zoom out,
+[00:00:49:10 --> 00:00:52:24] ele pode até começar no close-up, mas depois ele vai distanciando.
+[00:00:52:26 --> 00:00:54:22] Então, sai de um enquadramento e vai para outro.
+[00:00:55:04 --> 00:00:58:05] Então, enquanto na imagem você trabalha quadros fechados,
+[00:00:58:17 --> 00:01:02:11] Aqui você trabalha, o recomendado é até dois quadros,
+[00:01:02:11 --> 00:01:05:06] dois enquadramentos, que é o de entrada e o de saída,
+[00:01:05:06 --> 00:01:06:28] para ter o movimento de câmera ali.
+[00:01:07:11 --> 00:01:09:29] Então, duplicou aqui a possibilidade,
+[00:01:10:01 --> 00:01:12:14] porque vamos pegar um exemplo aqui para vocês.
+[00:01:12:23 --> 00:01:16:01] Eu posso ter aqui, olha, essa imagem,
+[00:01:16:07 --> 00:01:18:25] que a gente chama essa imagem aqui de um close-up,
+[00:01:19:11 --> 00:01:21:17] então ela já está bastante no zoom aqui.
+[00:01:21:19 --> 00:01:22:28] É claro que como é um koala,
+[00:01:23:00 --> 00:01:26:03] talvez não seria nem um close-up, mas um medium shot, talvez.
+[00:01:26:22 --> 00:01:30:25] Então, a gente tem um aqui desse koala e a gente tem esse
+[00:01:30:25 --> 00:01:33:26] esse de baixo aqui que já está, olha, quando o vídeo termina
+[00:01:33:26 --> 00:01:38:11] aqui, ele começa num tá vendo aqui, ó? Vamos só observar.
+[00:01:38:13 --> 00:01:43:12] Então, começou num e terminou aqui num plano aberto.
+[00:01:45:03 --> 00:01:49:06] Aí, terminou num plano aberto, com muito mais informação.
+[00:01:50:27 --> 00:01:53:14] E, no caso, foi a IA que escolheu fazer esse zoom out.
+[00:01:53:27 --> 00:01:57:24] Mas eu poderia ter colocado o frame inicial com zoom.
+[00:01:58:02 --> 00:01:59:26] Vamos fazer um teste aqui para vocês verem.
+[00:01:59:27 --> 00:02:04:09] Vou colocar aqui um macro photography de um...
+[00:02:05:29 --> 00:02:06:07] Tchau!
+[00:02:08:26 --> 00:02:09:13] Passarinho.
+[00:02:10:26 --> 00:02:12:08] Ou não, uma coisa menor ainda, uma joaninha.
+[00:02:13:21 --> 00:02:15:29] Eu esqueci como é que fala joaninha em inglês, eu até sabia.
+[00:02:16:24 --> 00:02:18:14] É um nome diferentezinho, fofinho, né?
+[00:02:19:11 --> 00:02:22:02] Mas aqui, ó, eu tô com uma macrofotografia de uma joaninha.
+[00:02:22:06 --> 00:02:24:18] Eu posso pegar ela numa folha específica.
+[00:02:25:25 --> 00:02:27:14] Vou pegá-la aqui, por exemplo.
+[00:02:27:14 --> 00:02:29:14] Vou pegar essa daqui, tá desse jeito.
+[00:02:29:23 --> 00:02:32:24] Vou salvar essa daqui, macro 01.
+[00:02:34:10 --> 00:02:35:09] Salvar na área de trabalho mesmo.
+[00:02:35:18 --> 00:02:37:00] E agora eu vou colocar aqui, ó.
+[00:02:38:00 --> 00:02:39:17] Joninha plano aberto.
+[00:02:40:20 --> 00:02:44:01] Se não aparecer, vou colocar a Joaninha de longe.
+[00:02:46:20 --> 00:02:48:14] Eu poderia gerar com o Iá também, né?
+[00:02:48:15 --> 00:02:49:27] Tô querendo pegar uma coisa aqui.
+[00:02:52:29 --> 00:02:53:21] Joaninha Pequenina.
+[00:02:57:21 --> 00:03:01:00] É óbvio que apareceu um desenho, uma vista de longe.
+[00:03:04:08 --> 00:03:08:05] Não está tão de longe assim, então eu vou gerar uma aqui.
+[00:03:12:03 --> 00:03:14:05] Vou fazer o quê? Vou usar o Gemini.
+[00:03:14:06 --> 00:03:15:14] Vamos usar o Gemini aqui nesse.
+[00:03:17:02 --> 00:03:22:22] Eu vou pegar aqui e falar, gere uma imagem em plano aberto de uma joaninha.
+[00:03:27:29 --> 00:03:29:25] pequenina, vista de lote.
+[00:03:32:08 --> 00:03:34:10] Deixa ele gerar aqui com o nanobanana para a gente.
+[00:03:35:05 --> 00:03:38:00] Inclusive, se você não viu a trilha de imagem,
+[00:03:38:14 --> 00:03:42:06] assista lá que você vai aprender muita coisa sobre prompt para a imagem lá também.
+[00:03:42:12 --> 00:03:42:24] Beleza?
+[00:03:43:07 --> 00:03:44:29] Deixa ele carregar aqui para a gente.
+[00:03:46:29 --> 00:03:49:06] Está demorando mais para gerar a imagem do que para gerar o vídeo.
+[00:03:52:09 --> 00:03:54:16] enquanto ele faz aí, eu vou colocar aqui, ó, pra vocês
+[00:03:54:16 --> 00:03:56:09] verem, mudança de enquadramento.
+[00:03:56:15 --> 00:03:58:04] Então, no primeiro frame aqui,
+[00:03:58:09 --> 00:04:00:07] todas as melhores
+[00:04:00:07 --> 00:04:02:06] ferramentas de geração de vídeo vão ter
+[00:04:02:06 --> 00:04:04:12] um espaço pra você colocar o frame inicial e frame final,
+[00:04:04:15 --> 00:04:06:09] tá? Eu vou mostrar várias ferramentas aqui pra vocês,
+[00:04:06:26 --> 00:04:08:15] mas é bom falar isso. Então, aqui eu tenho
+[00:04:08:15 --> 00:04:10:14] o frame inicial, eu vou colocar aqui,
+[00:04:10:18 --> 00:04:11:19] ó, é...
+[00:04:13:26 --> 00:04:14:09] Ah...
+[00:04:16:22 --> 00:04:19:12] Zoom out of the...
+[00:04:19:12 --> 00:04:22:15] Nossa, eu vou ter que lembrar aqui como é que fala joaninha em inglês.
+[00:04:23:22 --> 00:04:24:03] Joaninha.
+[00:04:25:11 --> 00:04:28:15] Lady Bird, é isso mesmo. Bonitinho, né? Ela tem um nome muito bonitinho.
+[00:04:31:19 --> 00:04:38:10] de um cachorro de tarde, uma macrofotografia para um...
+[00:04:44:11 --> 00:04:45:11] Colocar aqui...
+[00:04:45:29 --> 00:04:47:11] Poderia colocar no plano aberto.
+[00:04:49:07 --> 00:04:50:23] Quando isso acontece às vezes comigo,
+[00:04:50:29 --> 00:04:52:26] eu esqueci o nome do enquadramento, eu coloco assim,
+[00:04:52:28 --> 00:04:56:11] é Framing Types Image.
+[00:04:58:26 --> 00:05:00:23] O framing image.
+[00:05:02:06 --> 00:05:02:15] Fury.
+[00:05:04:19 --> 00:05:04:27] Tchau.
+[00:05:07:12 --> 00:05:09:04] Ah, então vai no português mesmo, enquadramento.
+[00:05:10:28 --> 00:05:13:22] Ah, acho que se eu colocasse frame em fotografia apareceria.
+[00:05:14:10 --> 00:05:15:06] Eu quero só...
+[00:05:15:06 --> 00:05:17:14] Eu vou ter que pegar o nosso...
+[00:05:20:07 --> 00:05:21:05] O nosso material, né?
+[00:05:21:27 --> 00:05:22:29] Vou pegar ele aqui então.
+[00:05:25:29 --> 00:05:26:11] Peraí.
+[00:05:31:18 --> 00:05:32:21] Aqui.
+[00:05:37:04 --> 00:05:42:13] Enquadramentos... Esse material é muito bom, ele está disponível para vocês que assinam a plataforma, né?
+[00:05:42:18 --> 00:05:44:16] Ele está disponível para download.
+[00:05:45:10 --> 00:05:50:09] E nele a gente tem vários tipos de enquadramento que vão ser muito úteis para...
+[00:05:50:09 --> 00:05:52:00] Carreguei o errado, deixa eu ver aqui.
+[00:05:52:13 --> 00:05:53:08] Abriu o Figma.
+[00:05:55:18 --> 00:05:56:02] Acho que agora vai.
+[00:05:57:07 --> 00:05:58:23] Estúdios Práticos de Enquadramento.
+[00:06:02:26 --> 00:06:04:26] Ele não abriu ali, eu vou abrir direto aqui então.
+[00:06:07:00 --> 00:06:08:01] Aí fecha.
+[00:06:11:05 --> 00:06:12:26] A gente tem aqui os estudos de enquadramento.
+[00:06:13:03 --> 00:06:14:21] E aí, esqueceu algum aqui, ó.
+[00:06:14:22 --> 00:06:15:04] Full shot.
+[00:06:15:14 --> 00:06:18:06] Cara, às vezes eu esqueço os nomes mais bestas do mundo.
+[00:06:18:13 --> 00:06:19:00] Full shot.
+[00:06:19:13 --> 00:06:20:18] Então, eu vou colocar aqui, ó.
+[00:06:20:19 --> 00:06:22:02] For a full shot.
+[00:06:23:14 --> 00:06:25:00] E agora eu vou pegar aqui o nosso...
+[00:06:26:22 --> 00:06:27:15] Nossa imagem...
+[00:06:28:10 --> 00:06:29:07] Pô, eu fechei? Cadê?
+[00:06:30:21 --> 00:06:32:06] Aí, ó, beleza. Tem ela ali.
+[00:06:33:15 --> 00:06:35:06] Bem aberto, vou salvar essa imagem aqui.
+[00:06:37:07 --> 00:06:38:20] Por isso que vocês têm que ver isso aqui, cara.
+[00:06:38:22 --> 00:06:39:18] Não tem segredo.
+[00:06:39:18 --> 00:06:40:11] Não tem segredo.
+[00:06:40:11 --> 00:06:40:25] Ponto final.
+[00:06:41:01 --> 00:06:41:16] É fácil.
+[00:06:42:13 --> 00:06:43:14] Agora eu vou colocar aqui.
+[00:06:45:04 --> 00:06:51:14] O segredo está no repertório, num bom mood board montado, num bom prompt para cenas mais complexas.
+[00:06:51:17 --> 00:06:56:04] Mas eu vou rodar aqui, vou rodar em 480p só para a gente visualizar também.
+[00:06:56:25 --> 00:07:05:22] Então ele vai sair, é um zoom out, ele vai sair desse macro fotografia e vai para esse plano mais aberto aqui.
+[00:07:05:24 --> 00:07:10:07] Vamos ver o que vai sair para a gente aqui dentro do enquadramento.
+[00:07:10:07 --> 00:07:15:19] enquadramento. Esse documento, então, eu vou deixar ele aqui pra vocês na descrição da gravação, né, quem tem acesso à gravação.
+[00:07:15:21 --> 00:07:21:22] Se você não viu lá no de imagens, você pode usar ele aqui também, que vai ser muito útil. São estudos de enquadramento que nós fizemos, então tem
+[00:07:21:22 --> 00:07:31:10] Extreme Close-Up, Close-Up, Medium Close-Up, Medium Shot, Cowboy Shot, Medium Full Shot. E aí, na trilha de imagem, eu até explico todos eles, tá, pra vocês.
+[00:07:31:22 --> 00:07:37:10] Tem também os ângulos de câmera, explico como funcionam os ângulos de câmera pra você descrever melhor pra IA.
+[00:07:37:10 --> 00:07:40:16] Isso aqui para movimento também é muito, muito, muito útil.
+[00:07:41:10 --> 00:07:42:25] Levem isso em consideração.
+[00:07:42:28 --> 00:07:45:12] Tem os promptos aqui, os testes que nós fizemos
+[00:07:45:12 --> 00:07:48:18] para ângulos diferentes, fazer coisas bem interessantes aqui.
+[00:07:48:22 --> 00:07:50:25] Então, recomendo vocês conferirem.
+[00:07:50:25 --> 00:07:51:10] Beleza?
+[00:07:53:24 --> 00:07:56:19] Dito isso, vamos ver aqui, estamos em 60%.
+[00:07:58:09 --> 00:07:59:03] Vamos ver o que temos.
+[00:08:00:01 --> 00:08:02:04] Esse é bem legal, né? Depois a gente fala mais dele.
+[00:08:03:09 --> 00:08:04:09] Deixa eu carregar aqui para a gente.
+[00:08:07:04 --> 00:08:07:11] Sim.
+[00:08:13:04 --> 00:08:14:04] Temos, vamos ver?
+[00:08:20:01 --> 00:08:22:18] ela foi até desaparecer
+[00:08:22:18 --> 00:08:24:15] o que é isso? legal, tem que trabalhar
+[00:08:24:15 --> 00:08:25:18] nesses detalhes depois
+[00:08:26:11 --> 00:08:28:17] mas temos uma aí, vamos ver outra
+[00:08:28:17 --> 00:08:29:04] se ficou melhor
+[00:08:33:19 --> 00:08:36:04] Nossa, ela está realmente fazendo macro mesmo, né?
+[00:08:36:09 --> 00:08:37:07] Eu vou tirar isso.
+[00:08:37:12 --> 00:08:38:18] Aí é ajuste de prompt.
+[00:08:38:21 --> 00:08:41:08] Se eu tiro esse macro photography, talvez ela já funcione melhor.
+[00:08:46:00 --> 00:08:48:14] Essa aqui ficou diferenciada, né?
+[00:08:51:20 --> 00:08:52:29] Tudo bem, vamos avançar aqui.
+[00:08:54:16 --> 00:08:58:19] Ok, o que eu posso fazer, olha, é gerar uma outra aqui, tirando esse em macrofotografia.
+[00:08:59:10 --> 00:09:01:04] Então, faz um out, ó, falei de bird.
+[00:09:04:17 --> 00:09:05:14] Eu vou até tirar isso aqui.
+[00:09:06:12 --> 00:09:07:11] Só assim já é suficiente.
+[00:09:10:23 --> 00:09:13:01] E aí ele vai gerar novos aqui, a gente vai visualizar como ficou.
+[00:09:13:06 --> 00:09:15:05] Enquanto ele está gerando aqui, vamos ver outros elementos.
+[00:09:15:13 --> 00:09:16:07] Então, esse é o enquadramento.
+[00:09:16:27 --> 00:09:20:14] Além do enquadramento, que tem margem, proporção de tela, planos.
+[00:09:20:28 --> 00:09:25:16] Proporção de tela é o aspect ratio, se você quer 16 por 9, 9 por 16, que é vertical.
+[00:09:25:20 --> 00:09:29:01] Igual você está vendo meu vídeo aqui agora, esse aqui é tipo um 16 por 9.
+[00:09:29:09 --> 00:09:34:09] Agora, o vídeo inteiro aqui, isso aqui, na verdade, você está me vendo, é um 9 por 16.
+[00:09:34:23 --> 00:09:37:22] O vídeo todo já é um 16 por 9.
+[00:09:37:24 --> 00:09:40:06] Tem o formato quadrado e por aí vai, isso afeta o enquadramento.
+[00:09:40:23 --> 00:09:44:07] Tem os planos também, shot sizes, que eu mostrei o documento ali para vocês acessarem.
+[00:09:44:08 --> 00:09:46:14] Tem margens também, para você terem espaço.
+[00:09:46:16 --> 00:09:49:08] Espaço acima da cabeça, espaço abaixo da cabeça, coisas desse tipo.
+[00:09:49:21 --> 00:09:51:07] Aqui tem um exemplo de prompt, olha.
+[00:09:51:10 --> 00:09:53:08] Close up, 9x16, vertical.
+[00:09:54:15 --> 00:09:57:15] Headroom mínimo, ou seja, o espaço de cabeça mínimo.
+[00:09:57:22 --> 00:09:59:14] E fundo desfocado, buquê.
+[00:09:59:19 --> 00:10:01:16] Deu um exemplozinho de prompt aqui.
+[00:10:02:17 --> 00:10:03:14] Composição e espaço.
+[00:10:03:28 --> 00:10:06:02] Então, quais elementos você vai ter no espaço?
+[00:10:06:02 --> 00:10:11:11] A primeira regrinha que você tem que pegar aqui é de espaço positivo e espaço negativo.
+[00:10:11:16 --> 00:10:14:09] Olha para a minha cena aqui agora, onde você está me vendo aqui, certo?
+[00:10:14:20 --> 00:10:19:05] Eu sou o espaço positivo, eu sou a forma principal aqui dessa composiçãozinha.
+[00:10:19:13 --> 00:10:23:01] No fundo você tem a biblioteca, a biblioteca é o espaço negativo.
+[00:10:23:07 --> 00:10:25:20] Aqui embaixo eu tenho um pouco de espaço negativo, está vendo?
+[00:10:25:28 --> 00:10:28:05] Aqui embaixo agora eu tenho um pouco de espaço negativo,
+[00:10:28:05 --> 00:10:31:18] e eu sou o objeto dessa cena aqui que você está assistindo agora.
+[00:10:32:02 --> 00:10:35:20] Isso é o primeiro e mais importante conceito quando a gente vai trabalhar
+[00:10:35:20 --> 00:10:38:19] em níveis mais avançados com geração de vídeo.
+[00:10:38:25 --> 00:10:43:20] Quando você quer, por exemplo, trocar um personagem de uma cena para outra,
+[00:10:43:23 --> 00:10:46:25] você tem eu aqui nessa cena, a gente vai ter aula sobre isso aqui,
+[00:10:46:29 --> 00:10:50:28] e eu quero me tirar dessa cena e colocar em outra com outra iluminação,
+[00:10:51:02 --> 00:10:53:28] eu isolo o espaço negativo do espaço positivo.
+[00:10:54:00 --> 00:10:56:04] Tem algumas técnicas para isso, eu vou ensinar isso para vocês.
+[00:10:57:11 --> 00:10:59:02] Linhas e vetores, o que é linha e vetor?
+[00:10:59:07 --> 00:11:02:21] Se eu fizer isso aqui agora, olha aí, o que eu fiz agora?
+[00:11:06:19 --> 00:11:09:23] Eu criei uma primeira diagonal, isso ajuda na composição,
+[00:11:09:23 --> 00:11:13:07] você pode também usar um enquadramento mais...
+[00:11:14:23 --> 00:11:16:11] Qual o nome desse enquadramento diagonal?
+[00:11:17:17 --> 00:11:19:10] Enquadramento diagonal, tem o nome de um cara.
+[00:11:21:26 --> 00:11:22:10] Nome.
+[00:11:24:03 --> 00:11:24:14] É...
+[00:11:27:25 --> 00:11:32:00] Isso é o legal de... é o Dutch, o nome de um cara, Dutch Angle.
+[00:11:32:02 --> 00:11:36:04] Mas eu acho que tem um outro nome de chamar ele também, mas é esse aqui mesmo.
+[00:11:36:06 --> 00:11:41:03] Se eu coloco aqui, Dutch Angle, vocês vão ver que são esse ângulo mais...
+[00:11:42:16 --> 00:11:43:25] O Google é maravilhoso, né?
+[00:11:43:25 --> 00:11:45:21] Digitei Dutch Angle, ele já deu uma
+[00:11:45:21 --> 00:11:47:08] inclinadinha no próprio Google aqui.
+[00:11:47:25 --> 00:11:49:09] Mas olha só, é quando
+[00:11:50:12 --> 00:11:51:21] a cena já fica
+[00:11:51:21 --> 00:11:53:11] inclinada, tá vendo? Criando uma diagonal.
+[00:11:53:24 --> 00:11:55:25] Só que tem duas coisas que você tem que prestar atenção
+[00:11:55:25 --> 00:11:57:23] aqui, que é criar diagonal por enquadramento
+[00:11:57:23 --> 00:11:59:21] e tem também por movimento
+[00:11:59:21 --> 00:12:01:24] de câmera, que é um outro jeito de fazer
+[00:12:01:24 --> 00:12:03:25] isso, por isso que chama vetor. O vetor
+[00:12:03:25 --> 00:12:05:24] é o movimento de câmera. Às vezes você tem uma câmera
+[00:12:05:24 --> 00:12:07:26] que tá retinha, e aí
+[00:12:07:26 --> 00:12:10:02] ao longo da câmera ela vai virando, vai virando,
+[00:12:10:03 --> 00:12:11:02] vai virando, vai virando.
+[00:12:11:02 --> 00:12:13:25] A gente tem isso no Stranger Things lá, por exemplo,
+[00:12:13:28 --> 00:12:15:08] para virar para o mundo invertido.
+[00:12:15:10 --> 00:12:17:08] Isso é um vetor de movimento.
+[00:12:19:00 --> 00:12:20:27] Você pode usar a própria composição de vetor
+[00:12:20:27 --> 00:12:22:26] ou o movimento de câmera pra fazer vetor também.
+[00:12:23:21 --> 00:12:24:29] Simetria e assimetria.
+[00:12:25:11 --> 00:12:27:22] Então, uma técnica muito usada em cinema,
+[00:12:27:27 --> 00:12:29:09] que tem mudado muito ultimamente,
+[00:12:29:16 --> 00:12:31:24] é de colocar o personagem principal
+[00:12:31:24 --> 00:12:36:08] em composições que às vezes eles ficam no canto,
+[00:12:36:08 --> 00:12:37:18] ou regra do terço,
+[00:12:37:18 --> 00:12:40:17] ou a própria composição mostra.
+[00:12:40:18 --> 00:12:43:05] Por exemplo, você tem um personagem muito no cantinho,
+[00:12:43:07 --> 00:12:45:23] é como se a composição estivesse espremendo aquela pessoa,
+[00:12:45:25 --> 00:12:46:22] ela tá desconfortável.
+[00:12:46:22 --> 00:12:49:09] ou quando ela está dominante, aparecendo na tela inteira.
+[00:12:49:15 --> 00:12:52:00] Só que ultimamente isso tem mudado muito por causa disso aqui,
+[00:12:52:01 --> 00:12:53:00] que eu estou fazendo aqui também.
+[00:12:53:06 --> 00:12:55:24] Se eu volto para o meu vídeo principal, eu estou no meio.
+[00:12:55:29 --> 00:12:56:23] Por que eu estou no meio?
+[00:12:56:28 --> 00:12:59:07] Porque isso me ajuda a fazer corte para a rede social.
+[00:12:59:21 --> 00:13:01:21] Aí eu consigo aparecer nesse cantinho aqui.
+[00:13:01:24 --> 00:13:04:07] Então esse é um jeito diferente de trabalhar,
+[00:13:04:15 --> 00:13:06:24] mas geralmente usa a regra dos terços.
+[00:13:06:27 --> 00:13:11:13] Então às vezes o personagem está mais ou menos nessa posição que eu estou aqui agora,
+[00:13:11:14 --> 00:13:14:09] formando a regra do terço aqui na imagem.
+[00:13:15:00 --> 00:13:16:29] e aí isso também cria aquela sensação
+[00:13:16:29 --> 00:13:18:24] de diálogo, né, o cara que tá falando aqui, por exemplo
+[00:13:18:24 --> 00:13:19:14] Olá, tudo bem?
+[00:13:20:08 --> 00:13:21:10] Aí o outro cara fala assim
+[00:13:22:25 --> 00:13:23:15] Tudo bem, com você.
+[00:13:24:09 --> 00:13:30:04] Isso é bom pra poder construir uma lógica de raciocínio, né, num diálogo e por aí vai.
+[00:13:30:15 --> 00:13:35:21] Então é interessante trabalhar com esse balanço, né, esse equilíbrio da cena,
+[00:13:35:24 --> 00:13:38:21] igual essa imagem aqui que eu tô mostrando agora é uma imagem bem interessante,
+[00:13:39:03 --> 00:13:42:24] no estilo meio documentário, eu falando, parece que eu tô conversando com alguém aqui,
+[00:13:42:25 --> 00:13:46:06] eu poderia até ficar um pouquinho mais pra cá assim pra poder falar com a pessoa,
+[00:13:46:10 --> 00:13:48:19] mas é um enquadramento interessante, tá vendo?
+[00:13:48:23 --> 00:13:50:16] Falando com a câmera assim, tudo funcionando.
+[00:13:50:16 --> 00:13:52:08] e aí depois mostra a outra pessoa
+[00:13:52:08 --> 00:13:54:22] numa outra cena, só que ela não
+[00:13:54:22 --> 00:13:56:27] vai estar virada pra esquerda
+[00:13:56:27 --> 00:13:58:22] igual eu estou virado pra esquerda, porque ficaria
+[00:13:58:22 --> 00:14:00:18] muito estranho, essa pessoa vai estar provavelmente virada
+[00:14:00:18 --> 00:14:02:21] pra direita, me fazendo uma pergunta
+[00:14:02:21 --> 00:14:04:07] aqui pra criar essa lógica
+[00:14:04:07 --> 00:14:06:28] isso tem relação também com a construção
+[00:14:06:28 --> 00:14:08:06] da cena que você está fazendo
+[00:14:08:06 --> 00:14:10:22] e tem relação com simetria
+[00:14:10:22 --> 00:14:12:27] e assimetria, balanço, equilíbrio da cena
+[00:14:12:27 --> 00:14:14:27] é um tipo de elemento também que a gente tem que levar
+[00:14:14:27 --> 00:14:17:00] em consideração na hora de dirigir
+[00:14:17:00 --> 00:14:19:03] vocês vão ver cada vez mais que o segredo
+[00:14:19:03 --> 00:14:21:01] não é usar ferramenta, nunca foi usar
+[00:14:21:01 --> 00:14:23:00] ferramenta. O segredo é saber dirigir
+[00:14:23:00 --> 00:14:24:28] uma cena, ter repertório, ter esse conhecimento
+[00:14:24:28 --> 00:14:26:13] que eu quero passar pra vocês aqui, tá bom?
+[00:14:26:23 --> 00:14:28:20] E nós temos também, voltando pra cá,
+[00:14:29:12 --> 00:14:30:20] profundidade de planos.
+[00:14:30:20 --> 00:14:32:28] Essa profundidade de planos depende de
+[00:14:32:28 --> 00:14:35:00] quantas camadas de elementos você vai colocar.
+[00:14:35:05 --> 00:14:36:13] Eu poderia colocar, sei lá,
+[00:14:38:02 --> 00:14:40:01] Poderia ter uma folhazinha, uma coisinha
+[00:14:40:01 --> 00:14:41:18] que fica no primeiro plano aqui assim, ó.
+[00:14:41:29 --> 00:14:44:06] E eu tô aqui no segundo, tá vendo? Eu tô criando um plano.
+[00:14:44:08 --> 00:14:46:08] Tem esse papel, essa bolsinha
+[00:14:46:08 --> 00:14:47:14] que tá no primeiro plano desfocado.
+[00:14:47:20 --> 00:14:50:05] Eu tô focado aqui no meio. Tem os livros ali
+[00:14:50:05 --> 00:14:51:27] no fundo. Essa profundidade,
+[00:14:52:14 --> 00:14:54:01] ela é muito boa, tá? Olha só.
+[00:14:54:09 --> 00:14:56:00] Ela, quando você cria essa
+[00:14:56:00 --> 00:14:57:14] profundidade na cena, né, esse
+[00:14:59:00 --> 00:14:59:29] 3D simulado assim,
+[00:15:00:04 --> 00:15:02:06] sua cena fica mais enriquecida
+[00:15:02:06 --> 00:15:04:13] também. E mais envolvente, mais imersiva.
+[00:15:04:28 --> 00:15:06:12] Então é bem interessante
+[00:15:06:12 --> 00:15:07:29] também trabalhar isso em composição.
+[00:15:08:02 --> 00:15:09:20] depende da mensagem que você vai passar, por exemplo,
+[00:15:09:21 --> 00:15:11:03] para dar uma coisa mais de curiosidade,
+[00:15:11:15 --> 00:15:13:06] eu coloco isso na tela aqui e falo,
+[00:15:13:06 --> 00:15:14:03] tudo bem.
+[00:15:15:08 --> 00:15:17:20] Então trabalhar com planos pode ser interessante,
+[00:15:17:26 --> 00:15:19:12] você começa na geração da imagem
+[00:15:19:12 --> 00:15:22:18] e depois trabalha com isso no vídeo também.
+[00:15:25:08 --> 00:15:26:21] Vamos ver aqui, antes de eu avançar.
+[00:15:28:22 --> 00:15:29:29] Acho que ele já acabou. Ah, já acabou.
+[00:15:30:05 --> 00:15:32:17] Vamos ver aqui se a Joaninha funcionou melhor
+[00:15:32:17 --> 00:15:34:10] agora que eu tirei ali o macro photography.
+[00:15:40:18 --> 00:15:41:28] Cometer os mesmos erros, parece.
+[00:15:42:27 --> 00:15:44:15] Teria que fazer mais alguns ajustes
+[00:15:44:15 --> 00:15:46:02] ou terminar a cena antes, né?
+[00:15:46:04 --> 00:15:46:16] Também dá.
+[00:15:50:08 --> 00:15:53:18] Provavelmente é porque ele não está identificando essa daqui como uma joaninha.
+[00:15:54:09 --> 00:15:56:21] Ou também porque ela não está na mesma posição, né?
+[00:15:56:22 --> 00:15:58:04] Essa está de frente, a outra está de lado.
+[00:15:58:22 --> 00:16:03:00] Aí ele está saindo de uma imagem para ir exatamente para a outra imagem.
+[00:16:03:25 --> 00:16:05:12] E aí, por fazer isso...
+[00:16:07:22 --> 00:16:08:16] Quero dar um pause lá.
+[00:16:10:20 --> 00:16:11:03] E...
+[00:16:13:29 --> 00:16:17:00] Por fazer isso, ele acaba...
+[00:16:19:25 --> 00:16:22:00] alucinando desse jeito aqui. Eu queria que essa fosse.
+[00:16:22:03 --> 00:16:23:16] Então o que seria melhor? Ela tá de frente.
+[00:16:23:23 --> 00:16:26:00] Aí eu posso gerar uma outra imagem que ela tá
+[00:16:26:00 --> 00:16:27:26] de frente, né? Poderia fazer algumas coisas
+[00:16:27:26 --> 00:16:29:26] assim. A gente vai acabar trabalhando isso.
+[00:16:30:07 --> 00:16:31:27] Agora eu tô só trazendo os conceitos.
+[00:16:32:14 --> 00:16:33:22] Frame e imagem.
+[00:16:34:05 --> 00:16:35:28] Frame é sobre a taxa de frames
+[00:16:35:28 --> 00:16:38:05] da... do... taxa de quadros
+[00:16:38:05 --> 00:16:38:17] do vídeo.
+[00:16:39:28 --> 00:16:44:02] E aí dentro aqui tem alguns conceitos que são um pouco mais técnicos,
+[00:16:44:05 --> 00:16:47:15] mas eu falei sobre eles na trilha de imagem.
+[00:16:49:13 --> 00:16:53:11] velocidade do obturador, recomendo assistir a trilha de imagem,
+[00:16:53:13 --> 00:16:54:27] tem uma aula lá que eu falo sobre isso,
+[00:16:55:00 --> 00:16:58:14] mas basicamente tem relação com o equipamento de vídeo,
+[00:16:58:16 --> 00:16:59:20] a câmera que vocês estão usando,
+[00:17:00:18 --> 00:17:03:08] resolução, que a técnica é começar em resolução baixa
+[00:17:03:08 --> 00:17:04:15] e subir só depois no upscale,
+[00:17:05:12 --> 00:17:09:11] profundidade de campo, que é o que vai gerar o fundo desfocado ou não,
+[00:17:09:12 --> 00:17:11:08] dependendo da lente que você escolher usar,
+[00:17:11:16 --> 00:17:13:02] aí eu recomendo assistir a trilha de imagem,
+[00:17:13:08 --> 00:17:14:17] que eu explico como fazer isso lá,
+[00:17:14:23 --> 00:17:18:06] e taxa de quadros, se você quer um vídeo com 24 frames por segundo,
+[00:17:18:06 --> 00:17:21:15] 30 frames por segundo, 60 frames por segundo, aí vai.
+[00:17:21:21 --> 00:17:25:14] Eu recomendo você acessar o YouTube e pesquisar alguns vídeos.
+[00:17:25:17 --> 00:17:29:00] Coloca 16 frames por segundo, você vai ver que é stop motion.
+[00:17:29:08 --> 00:17:30:23] Vamos dar uma olhada juntos aqui.
+[00:17:33:10 --> 00:17:33:25] YouTube.
+[00:17:35:25 --> 00:17:36:13] Em Motion
+[00:17:39:04 --> 00:17:41:17] Aí eu posso colocar aqui 16 FPS.
+[00:17:43:17 --> 00:17:45:13] Aqui vocês conseguem ver diferenças.
+[00:17:50:21 --> 00:17:52:21] Talvez nessas cenas vocês não vão conseguir ver muito bem.
+[00:17:53:08 --> 00:17:54:02] Vamos ver aqui, ó.
+[00:17:57:10 --> 00:18:00:05] Tá vendo que essa daqui tem um movimento muito mais fluido do que essa?
+[00:18:01:22 --> 00:18:03:15] Isso é estético, tá?
+[00:18:03:17 --> 00:18:06:10] Hoje em dia é uma escolha estética
+[00:18:06:10 --> 00:18:09:27] ou também pode ser uma limitação da ferramenta que você usa.
+[00:18:11:03 --> 00:18:12:23] Mas, aqui outro exemplo.
+[00:18:16:24 --> 00:18:20:01] Mas geralmente tem se tornado cada vez uma coisa mais estética.
+[00:18:27:23 --> 00:18:30:28] Beleza? Depois pesquisem mais aí, pra vocês se acostumarem com isso.
+[00:18:31:02 --> 00:18:31:29] Vai ser interessante.
+[00:18:32:01 --> 00:18:34:26] Geralmente a galera de stop motion...
+[00:18:37:05 --> 00:18:40:26] Usa muito esse conceito porque você tem que animar frame a frame do bonequinho.
+[00:18:41:20 --> 00:18:44:08] Então faz muita diferença. Vamos ver esse vídeo aqui.
+[00:18:46:24 --> 00:18:48:14] Do nada um vídeo de pôquer da skin.
+[00:18:59:25 --> 00:19:00:10] Beijos.
+[00:19:09:24 --> 00:19:10:11] Tchau, tchau.
+[00:19:13:21 --> 00:19:14:02] as FPS.
+[00:19:25:09 --> 00:19:25:28] 24 FPS.
+[00:19:31:14 --> 00:19:36:21] Depois pesquisem mais sobre isso aí, para vocês acostumarem a visão de vocês com isso,
+[00:19:36:23 --> 00:19:41:05] porque pode ser uma decisão estética mesmo do que você quer trazer para o seu vídeo.
+[00:19:42:25 --> 00:19:45:28] Movimento de câmera, a gente vai falar mais sobre isso na parte de prompts,
+[00:19:46:04 --> 00:19:51:01] mas a gente tem eixo fixo, deslocamento de base, estabilização, tracking e follow.
+[00:19:51:13 --> 00:19:54:02] Eu vou falar mais sobre isso, então aqui é só uma introdução inicial,
+[00:19:54:06 --> 00:19:55:15] você pode ver aqui na documentação.
+[00:19:56:21 --> 00:20:00:10] Iluminação e cor, então a gente tem contraste, a diferença entre claros e escuros,
+[00:20:00:23 --> 00:20:04:02] temperatura de cor, saturação, direção de luz,
+[00:20:04:08 --> 00:20:08:08] isso aqui você pode fazer na IA, mas tem momentos que é melhor você fazer esse color grading
+[00:20:08:08 --> 00:20:12:29] numa ferramenta de edição de vídeo, que você tem mais controle e não vai mexer no seu vídeo.
+[00:20:13:09 --> 00:20:17:02] Então vai trabalhar com color grading, às vezes é melhor ir para um Premiere ali,
+[00:20:17:19 --> 00:20:21:20] vai conseguir fazer alguns ajustes, do que na IA, vai gastar mais token, por aí vai.
+[00:20:21:23 --> 00:20:23:14] Mas isso é se você tem esse conhecimento no Premiere.
+[00:20:23:18 --> 00:20:25:28] Se você não tem, dá para pedir para a IA fazer, ela vai fazer,
+[00:20:25:28 --> 00:20:28:23] mas corre o risco de, às vezes, ela mudar alguma coisa ou outra na cena.
+[00:20:30:02 --> 00:20:32:15] Óptica e lente, a gente falou sobre isso aqui também.
+[00:20:32:25 --> 00:20:34:05] Lembrando, eu vou trazer aqui de novo,
+[00:20:34:20 --> 00:20:37:18] é para eu não ter que ficar dando a mesma aula várias vezes, tá?
+[00:20:37:22 --> 00:20:41:12] Mas eu vou pedir para a equipe deixar o link dessas aulas para vocês no...
+[00:20:43:25 --> 00:20:47:05] Na descrição também, tá? Isso pra quem assina.
+[00:20:47:13 --> 00:20:49:07] Mas a gente tem aqui, ó, tipos de lentes.
+[00:20:49:12 --> 00:20:54:00] Aí vocês veem aqui, ó, profundidade de campo, se você quer mais desfocado, menos desfocado.
+[00:20:54:26 --> 00:21:00:20] Aqui tem os tipos de lentes também e o tipo de distorção que elas causam na imagem, né?
+[00:21:00:21 --> 00:21:02:20] A gente traz cada um desses pontos aqui.
+[00:21:02:26 --> 00:21:06:22] Tem aula que eu explico isso, então não vou trazer essa aula toda de novo agora, tá?
+[00:21:06:25 --> 00:21:08:26] Tem o material também pra você fazer o download aí.
+[00:21:10:02 --> 00:21:13:03] Vamos seguir em frente, tanto esse quanto o de enquadramento, olha só.
+[00:21:13:23 --> 00:21:18:25] Já tem as aulas prontas, por isso que eu estou só passando mais rápido aqui junto com vocês.
+[00:21:20:15 --> 00:21:22:00] O de enquadramento é o que eu acabei de mostrar.
+[00:21:22:06 --> 00:21:25:02] E tem também o de iluminação e atmosfera.
+[00:21:25:16 --> 00:21:30:25] Eu estava mostrando tipos de iluminação que você também pode utilizar isso em vídeo, tá?
+[00:21:32:09 --> 00:21:35:12] Então, você pode baixar todos esses três materiais aí para utilizar.
+[00:21:35:21 --> 00:21:36:18] Então, a gente explica aqui.
+[00:21:36:27 --> 00:21:38:20] Tem a aula também explicando.
+[00:21:38:20 --> 00:21:41:22] É só pegar aqui embaixo, na descrição.
+[00:21:41:24 --> 00:21:42:28] Deixa ele carregar aí.
+[00:21:44:18 --> 00:21:45:11] Está vendo?
+[00:21:45:11 --> 00:21:46:26] Vários tipos de iluminação diferentes.
+[00:21:47:11 --> 00:21:54:07] E como trabalhar com essas iluminações aqui nos vídeos e nas imagens que vocês vão gerar.
+[00:21:54:10 --> 00:21:54:26] Beleza?
+[00:21:55:11 --> 00:21:55:27] Maravilha!
+[00:21:57:08 --> 00:21:59:02] Então, de óptica é isso.
+[00:21:59:07 --> 00:22:00:05] Síntese dos elementos.
+[00:22:00:13 --> 00:22:04:21] Óptica, tempo, geometria, espaço, iluminação e movimento.
+[00:22:05:04 --> 00:22:06:24] Esses são os elementos que a gente vai trabalhar,
+[00:22:06:27 --> 00:22:10:03] principalmente no prompt, para trabalhar os nossos vídeos.

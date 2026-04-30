@@ -1,0 +1,350 @@
+# Video: 35._exercicio_-_escrevendo_uma_música (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 15:20
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:00 --> 00:00:06:13] Essa aqui é uma aula divertida, porque eu vou te mostrar como eu escrevi uma das músicas que a gente tem na playlist da Overlens.
+[00:00:06:17 --> 00:00:12:25] A gente também tem a trilha Maestro, que a gente fala sobre como usar IA para gerar música também, melodia, ritmo, ajustes, assim.
+[00:00:13:10 --> 00:00:17:04] Mas aqui agora eu quero focar na escrita mesmo, na composição, na letra.
+[00:00:17:10 --> 00:00:27:22] Uma curiosidade, quando eu tinha ali meus 12, 13 anos, eu escrevi algumas músicas, eu sempre gostei muito de música, de violão e teclado principalmente, piano.
+[00:00:27:22 --> 00:00:32:20] e eu escrevi algumas músicas minhas, escrevi à mão mesmo, no caderninho ali,
+[00:00:32:24 --> 00:00:38:13] eu tenho algumas guardadas até hoje, mas depois eu guardei esse meu hobby, né?
+[00:00:38:20 --> 00:00:46:05] E agora ele aflorou em mim de novo, é uma coisa que eu adoro fazer e ouvir a música pronta acontecendo é delicioso.
+[00:00:46:09 --> 00:00:50:01] A gente vai falar mais sobre como criar a música em si depois,
+[00:00:50:08 --> 00:00:54:25] só que aqui agora eu quero falar sobre a letra da música, porque isso é um tipo de texto também.
+[00:00:54:25 --> 00:01:02:27] E é nessa parte aqui que, geralmente, as IAs fazem materiais muito ruins para a maioria das pessoas.
+[00:01:03:05 --> 00:01:05:25] Então, você pede a IA para gerar uma música, a música fica ruim.
+[00:01:05:28 --> 00:01:08:23] É igual quando você pede a IA para contar uma piada, a piada dela fica ruim.
+[00:01:08:29 --> 00:01:11:14] Isso acontece porque você não deu para ela estrutura.
+[00:01:11:14 --> 00:01:13:16] E aí ela vai ser muito genérica.
+[00:01:14:13 --> 00:01:17:10] E, assim como para escrever um texto envolvente,
+[00:01:17:14 --> 00:01:19:26] talvez até mais difícil do que escrever um texto envolvente,
+[00:01:19:26 --> 00:01:22:06] escrever uma música envolvente
+[00:01:22:06 --> 00:01:23:23] tem a ver com
+[00:01:24:28 --> 00:01:26:15] essa convivência, esse lado humano
+[00:01:26:15 --> 00:01:27:29] de expressão e de
+[00:01:28:29 --> 00:01:30:22] vivência mesmo, pra escolher a palavra
+[00:01:30:22 --> 00:01:32:15] certa, que tem a ver com o seu contexto
+[00:01:32:15 --> 00:01:34:11] com o seu meio, com as pessoas
+[00:01:34:11 --> 00:01:35:23] à sua volta, com a sua cultura
+[00:01:35:23 --> 00:01:38:10] trazer o que você está sentindo ali também
+[00:01:38:10 --> 00:01:40:04] então é um grande desafio
+[00:01:40:04 --> 00:01:42:11] pensando assim, mas a IA pode te ajudar
+[00:01:42:11 --> 00:01:44:26] muito a melhorar
+[00:01:44:26 --> 00:01:46:01] esse processo, porque
+[00:01:46:01 --> 00:01:48:19] a música que eu vou te mostrar aqui agora, a letra dela
+[00:01:48:19 --> 00:01:50:20] ela, ela não foi feita inteiramente
+[00:01:50:20 --> 00:01:52:11] por Iá, mas a Iá gerou uma
+[00:01:52:11 --> 00:01:54:11] primeira música, que eu não gostei muito
+[00:01:54:11 --> 00:01:56:11] dela, mas que tinham coisas ali que eu falei
+[00:01:56:11 --> 00:01:58:11] opa, tem uma coisa interessante
+[00:01:58:11 --> 00:02:00:09] aqui, ainda dá pra gente trabalhar
+[00:02:00:09 --> 00:02:02:17] isso, e eu fui lapidando elas
+[00:02:02:17 --> 00:02:03:28] no mesmo processo de
+[00:02:03:28 --> 00:02:06:13] pega o que tá ruim, vai riscando, vai
+[00:02:06:13 --> 00:02:07:20] trocando, procurando palavras
+[00:02:07:20 --> 00:02:10:20] aqui é um trabalho mesmo de quebra-cabeça
+[00:02:10:20 --> 00:02:11:29] você vai perceber isso, então
+[00:02:11:29 --> 00:02:13:28] a Iá te entrega uma estrutura
+[00:02:13:28 --> 00:02:16:06] e aí a partir dessa estrutura você consegue
+[00:02:16:06 --> 00:02:17:21] ir refinando
+[00:02:17:21 --> 00:02:23:09] dependendo da melodia que você vai trazer, dependendo da música em si que você vai apresentar aqui.
+[00:02:23:11 --> 00:02:30:11] Mas se você tiver uma boa estrutura, você consegue sim, com o auxílio da inteligência artificial, fazer músicas incríveis.
+[00:02:30:19 --> 00:02:37:16] O ponto aqui é, eu vou mostrar o processo para escrever uma das músicas, mas música é um universo inteiro por si só
+[00:02:37:16 --> 00:02:45:27] e existem vários gêneros, existem vários estilos musicais diferentes, cada um com ritmos diferentes, com estruturas diferentes também.
+[00:02:45:27 --> 00:02:51:02] escrever um rap é muito diferente de escrever um MPB, por exemplo,
+[00:02:51:07 --> 00:02:54:08] vão ter desafios específicos de cada tipo.
+[00:02:54:15 --> 00:02:57:22] Mas se você seguir essa estrutura de metacognição,
+[00:02:57:25 --> 00:03:00:29] de primeiro fazer a arqueologia,
+[00:03:01:19 --> 00:03:04:00] deixa eu entender aqui, se eu vou escrever um MPB,
+[00:03:04:03 --> 00:03:07:02] qual é a estrutura de um MPB, qual é o estilo rítmico,
+[00:03:07:02 --> 00:03:12:01] qual é a melodia, como que eu escrevo uma música que se encaixa bem nesse estilo,
+[00:03:12:07 --> 00:03:15:10] tudo isso é importante, você pode pedir ajuda da inteligência artificial
+[00:03:15:10 --> 00:03:22:23] e ela vai montar estruturas pra você. Essa é a parte gostosa do processo, tá bom? Mas eu vou
+[00:03:22:23 --> 00:03:27:09] mostrar uma das músicas que eu fiz aqui, foi uma das primeiras, eu já faria ela diferente hoje em
+[00:03:27:09 --> 00:03:32:10] dia, mudaria algumas coisas, mas ela tá aqui original e eu quero mostrar pra você todo o
+[00:03:32:10 --> 00:03:34:00] processo de construção dela.
+[00:03:36:02 --> 00:03:39:22] Eu estou aqui escrevendo uma música, esse documento você pode tocar no link aqui embaixo
+[00:03:39:22 --> 00:03:41:17] para poder fazer uma cópia para você.
+[00:03:42:05 --> 00:03:44:01] E aí eu quero que você preste atenção nisso aqui.
+[00:03:44:05 --> 00:03:47:18] E se a música fosse uma arquitetura emocional que você pode projetar?
+[00:03:47:26 --> 00:03:51:14] Toda canção é um sistema, melodia, letra e estrutura,
+[00:03:51:15 --> 00:03:55:07] mas o que transforma palavras em memórias e sons em sentimentos?
+[00:03:56:23 --> 00:03:58:14] Melodia, letra e estrutura.
+[00:03:58:15 --> 00:04:02:16] Mas o que transforma palavras em memórias e sons em sentimentos?
+[00:04:02:16 --> 00:04:08:05] Nessa oficina, você descobrirá que escrever música é ciência aplicada à arte.
+[00:04:08:08 --> 00:04:08:20] Então, vamos lá.
+[00:04:08:25 --> 00:04:09:20] Primeira etapa.
+[00:04:09:23 --> 00:04:11:17] De novo, como sempre, contexto.
+[00:04:12:00 --> 00:04:13:20] Você precisa de contexto.
+[00:04:14:02 --> 00:04:17:11] Meio, emissor, receptor e mensagem.
+[00:04:17:14 --> 00:04:18:25] Esses são os pontos principais.
+[00:04:18:28 --> 00:04:23:16] Assista a trilha Signals para entender mais sobre o poder da mensagem.
+[00:04:23:19 --> 00:04:24:02] Beleza?
+[00:04:24:13 --> 00:04:25:10] Pergunta-chave.
+[00:04:25:10 --> 00:04:27:16] Que sentimento ou experiência você quer transmitir?
+[00:04:27:16 --> 00:04:28:09] Tem que começar daqui.
+[00:04:28:09 --> 00:04:35:04] aqui. Então, o estilo de música, o estilo de letra, depende do que você quer provocar aqui com essa
+[00:04:35:04 --> 00:04:41:02] música, tá? Esse é o primeiro passo. Defina o núcleo emocional, uma emoção principal. Então, é
+[00:04:41:02 --> 00:04:48:08] nostalgia, é esperança, é raiva, é amor. Qual que é a emoção primária que você quer trazer aqui
+[00:04:48:08 --> 00:04:53:24] nessa música? Escolha um ponto de partida. Vai falar na primeira pessoa, vai falar na segunda
+[00:04:53:24 --> 00:04:55:20] pessoa, vai falar na terceira
+[00:04:55:20 --> 00:04:57:23] pessoa, estabeleça o contexto,
+[00:04:58:01 --> 00:05:00:06] quando, onde e por que essa
+[00:05:00:06 --> 00:05:02:22] emoção surge, da onde ela vem,
+[00:05:02:23 --> 00:05:04:14] qual é a origem dela, determine
+[00:05:04:14 --> 00:05:07:00] o objetivo, consolar, energizar,
+[00:05:08:06 --> 00:05:10:09] refletir, celebrar, tudo isso é
+[00:05:10:09 --> 00:05:11:13] importante, até pra escolher
+[00:05:11:13 --> 00:05:13:10] ritmo, estrutura, tudo vai
+[00:05:13:10 --> 00:05:15:06] importar aqui. Etapa dois,
+[00:05:15:08 --> 00:05:16:22] estrutura musical, pergunta
+[00:05:16:22 --> 00:05:18:17] chave, como você vai conduzir
+[00:05:18:17 --> 00:05:19:24] o ouvinte pela jornada
+[00:05:19:24 --> 00:05:21:26] emocional? Existe uma estrutura
+[00:05:21:26 --> 00:05:23:18] clássica que você pode quebrar depois,
+[00:05:23:26 --> 00:05:25:22] mas que funciona muito bem
+[00:05:25:22 --> 00:05:27:08] pra fazer uma música que
+[00:05:27:08 --> 00:05:30:01] tem um sentido lógico pra maioria das pessoas.
+[00:05:30:17 --> 00:05:31:29] Que é a estrutura clássica
+[00:05:31:29 --> 00:05:34:05] de introdução, verso 1, pré-refrão,
+[00:05:34:07 --> 00:05:35:21] refrão, verso 2,
+[00:05:35:26 --> 00:05:38:03] refrão, ponte, refrão final.
+[00:05:38:12 --> 00:05:39:26] E aí pode ter um outro
+[00:05:39:26 --> 00:05:41:25] ali final ali pra fechamento,
+[00:05:41:25 --> 00:05:43:05] mas pode ser que termine também
+[00:05:43:05 --> 00:05:46:01] só no refrão final. Essa estrutura
+[00:05:46:01 --> 00:05:47:26] ela é clássica, muito usada em várias
+[00:05:47:26 --> 00:05:49:28] músicas que você já deve ter ouvido
+[00:05:49:28 --> 00:05:51:24] e você vai ver que interessante aqui.
+[00:05:51:28 --> 00:05:53:14] Então, dá só uma olhada aqui.
+[00:05:53:17 --> 00:05:57:08] Intro, quatro a oito compassos, apresenta o clima.
+[00:05:57:11 --> 00:06:00:13] Juan, não sei o que é compasso, quero entender isso um pouco melhor.
+[00:06:00:20 --> 00:06:02:26] Eu recomendo você perguntar um pouco para ela.
+[00:06:03:00 --> 00:06:06:02] Isso aqui é sobre musicalização, é interessante entender,
+[00:06:06:14 --> 00:06:09:05] vai fazer um ritmo mais legal, vai encaixar melhor na música.
+[00:06:09:12 --> 00:06:13:08] Mas para começar, eu deixei aqui justamente para te instigar, te provocar,
+[00:06:13:08 --> 00:06:15:04] não vou entrar a fundo aqui agora.
+[00:06:15:26 --> 00:06:19:12] Depois então de apresentação do clima, vem verso um, conta a situação.
+[00:06:19:28 --> 00:06:23:16] Pré-refrão, quatro a oito compassos, cria tensão, opcional.
+[00:06:24:02 --> 00:06:27:04] Refrão, oito a dezesseis compassos, expressa emoção central.
+[00:06:27:17 --> 00:06:29:10] Versão dois, desenvolve a história.
+[00:06:29:24 --> 00:06:31:13] Refrão, reforça a mensagem.
+[00:06:31:17 --> 00:06:35:03] Ponte, oito a dezesseis compassos, oferece nova perspectiva.
+[00:06:35:07 --> 00:06:37:13] Refrão final, resolve a emoção.
+[00:06:37:14 --> 00:06:38:05] E outro.
+[00:06:38:13 --> 00:06:43:05] Esses daqui que estão sem o compasso é porque é o mesmo compasso, tá?
+[00:06:43:20 --> 00:06:45:04] Mesmo compasso de refrão.
+[00:06:46:07 --> 00:06:50:28] Aí tem a ponte, refrão final e outro aqui para finalizar, mas é opcional, depende aí do caso.
+[00:06:51:23 --> 00:06:54:02] Então, entender essa estrutura já é o primeiro passo.
+[00:06:54:03 --> 00:06:56:14] Eu recomendo você, inclusive, começar por ela.
+[00:06:56:15 --> 00:07:00:21] Até os softwares de R, que geram música também, vão te sugerir isso depois.
+[00:07:01:07 --> 00:07:02:25] Geralmente é em inglês, mas funciona.
+[00:07:03:26 --> 00:07:09:18] Introverse, aí tem cada uma das etapas aqui, em ponte é bridge, por aí vai, vai seguindo aqui.
+[00:07:09:27 --> 00:07:12:17] Refrão é choros, né, coros.
+[00:07:13:27 --> 00:07:14:15] E aí por aí vai.
+[00:07:14:26 --> 00:07:17:15] Etapa 3. Desenvolvimento lírico.
+[00:07:17:21 --> 00:07:18:25] Aí aqui entra a letra.
+[00:07:19:16 --> 00:07:20:15] Pergunta chave.
+[00:07:20:19 --> 00:07:25:10] Que imagens e palavras farão ouvir e sentir o que você sente?
+[00:07:25:19 --> 00:07:28:25] Para os versos, use narrativa específica.
+[00:07:28:25 --> 00:07:30:01] Quem, quando, onde, o quê?
+[00:07:30:06 --> 00:07:32:01] Crie imagens sensoriais.
+[00:07:32:01 --> 00:07:34:06] O que se vê, ouve, sente.
+[00:07:34:22 --> 00:07:37:06] Mantenha o mistério, não revele tudo de uma vez.
+[00:07:37:14 --> 00:07:40:13] É igual como escrever um poema, escrever uma narrativa.
+[00:07:40:13 --> 00:07:41:25] Você está contando uma história ali.
+[00:07:41:25 --> 00:07:43:03] Aqui não é tão
+[00:07:44:06 --> 00:07:45:26] focada em performance, clique,
+[00:07:46:01 --> 00:07:48:09] coisa do tipo. Aqui você tem um tipo de texto
+[00:07:48:09 --> 00:07:50:04] que é artístico, é expressivo.
+[00:07:50:29 --> 00:07:52:16] Para o refrão, concentre a emoção
+[00:07:52:16 --> 00:07:54:09] principal, use repetição
+[00:07:54:09 --> 00:07:56:06] estratégica, crie um gancho
+[00:07:56:06 --> 00:07:58:01] memorável, mantenha simples
+[00:07:58:01 --> 00:08:00:12] e universal para ficar na cabeça
+[00:08:00:12 --> 00:08:02:07] da pessoa. Para a ponte,
+[00:08:02:10 --> 00:08:04:20] mude a perspectiva, ofereça resolução
+[00:08:04:20 --> 00:08:06:24] ou contraste, use metáforas
+[00:08:06:24 --> 00:08:08:06] mais elaboradas.
+[00:08:08:13 --> 00:08:10:10] Então aqui alguns conceitos para
+[00:08:10:10 --> 00:08:11:29] pra poder definir a sua música.
+[00:08:12:00 --> 00:08:14:14] Você pode até pedir a IA pra seguir nessa lógica, tá?
+[00:08:15:03 --> 00:08:16:29] Etapa 4, refinamento e acabamento.
+[00:08:17:02 --> 00:08:19:25] Depois que ou você escreveu a música e jogou pra IA,
+[00:08:19:26 --> 00:08:21:06] ou a IA escreveu e jogou pra você,
+[00:08:21:09 --> 00:08:25:03] tem todo aquele processo de refazer e ajustar, refazer e ajustar,
+[00:08:25:04 --> 00:08:27:24] e cortando palavras ruins, e cortando o que não funciona,
+[00:08:28:00 --> 00:08:29:12] na etapa de refinamento.
+[00:08:29:17 --> 00:08:31:27] Então, cada palavra serve ao propósito da música,
+[00:08:31:29 --> 00:08:34:19] tem que ter um motivo, nem que seja um motivo rítmico ali,
+[00:08:34:21 --> 00:08:38:02] mas se não tem sentido a palavra estar ali, você tem que cortar ela.
+[00:08:38:02 --> 00:08:40:00] ela. Ela não faz sentido dentro da
+[00:08:40:00 --> 00:08:42:01] música. Então, teste a musicalidade,
+[00:08:42:10 --> 00:08:43:23] leia em voz alta pra começar,
+[00:08:44:09 --> 00:08:45:16] observe o ritmo natural.
+[00:08:45:27 --> 00:08:47:27] Muito importante pra não ficar tosco. Isso aqui
+[00:08:47:27 --> 00:08:49:25] é legal, tá? Depois que você pegou uma música,
+[00:08:50:11 --> 00:08:52:04] leia ela. Ao invés de cantar,
+[00:08:52:04 --> 00:08:53:29] leia ela em voz alta. Se tá
+[00:08:53:29 --> 00:08:55:18] meio toscão, é porque
+[00:08:55:18 --> 00:08:57:29] provavelmente tá tosco mesmo. Às vezes tem que
+[00:08:57:29 --> 00:08:59:27] trocar uma palavra, tem que trocar uma
+[00:08:59:27 --> 00:09:02:00] rima que ficou bobinha, ou coisa do tipo.
+[00:09:03:00 --> 00:09:03:27] Elimine redundâncias.
+[00:09:04:00 --> 00:09:06:03] Cada verso deve avançar a história.
+[00:09:06:28 --> 00:09:08:02] ajuste as rimas,
+[00:09:08:02 --> 00:09:10:00] aí tente pegar palavras naturais,
+[00:09:10:00 --> 00:09:11:14] do cotidiano, do seu público,
+[00:09:11:19 --> 00:09:13:13] pra ficar natural, não ficar uma coisa meio
+[00:09:13:13 --> 00:09:15:08] pô, da onde tirou essa palavra ali?
+[00:09:15:23 --> 00:09:17:09] Verifica a coerência emocional.
+[00:09:17:15 --> 00:09:19:24] A música mantém o foco.
+[00:09:20:03 --> 00:09:21:13] Sobre rima também e palavras,
+[00:09:21:20 --> 00:09:23:21] não é que você tem que usar só palavras conhecidas,
+[00:09:23:22 --> 00:09:26:09] mas a palavra tem que soar natural na hora que você fala.
+[00:09:26:15 --> 00:09:28:03] Vou mostrar agora então aqui uma música
+[00:09:28:03 --> 00:09:29:13] de exemplo pra você.
+[00:09:29:16 --> 00:09:31:09] Foi uma das primeiras que eu escrevi
+[00:09:31:09 --> 00:09:33:00] pra Overlens especificamente.
+[00:09:33:00 --> 00:09:35:01] em dois mil e vinte e quatro
+[00:09:35:01 --> 00:09:37:04] que eu escrevi essa aqui. O nome dela é
+[00:09:37:04 --> 00:09:39:08] O Futuro é Agora. Sentimento
+[00:09:39:08 --> 00:09:41:11] central, empoderamento. Contexto,
+[00:09:41:11 --> 00:09:43:04] momento de transição tecnológica que
+[00:09:43:04 --> 00:09:45:03] estamos vivendo. Público de vinte e cinco a
+[00:09:45:03 --> 00:09:47:03] trinta e cinco anos. Gênero musical, pop
+[00:09:47:03 --> 00:09:49:00] alternativo com elementos eletrônicos.
+[00:09:49:23 --> 00:09:50:18] Perspectiva, primeira
+[00:09:50:18 --> 00:09:52:28] pessoa do plural. Nós.
+[00:09:53:14 --> 00:09:55:01] Aí olha só a estrutura. Eu vou só
+[00:09:55:01 --> 00:09:57:03] ler pra você e depois eu
+[00:09:57:03 --> 00:09:59:01] coloco a música aqui também, aí você
+[00:09:59:01 --> 00:10:00:14] pode ouvir. Mas vamos lá. Intro.
+[00:10:03:15 --> 00:10:12:01] Então, ler em voz alta assim é importante para você ver se tem um trecho legal, se funcionou bem.
+[00:10:12:13 --> 00:10:12:27] Legal.
+[00:10:13:01 --> 00:10:14:06] Aí vem verso 1.
+[00:10:15:00 --> 00:10:15:19] Conte a situação.
+[00:10:17:03 --> 00:10:19:12] Olhe para trás, tente prever.
+[00:10:19:17 --> 00:10:22:15] O que você precisa, precisa de você.
+[00:10:23:01 --> 00:10:24:11] Pré-refrão, crie atenção.
+[00:10:24:25 --> 00:10:27:14] Quebre o relógio, esqueça a hora.
+[00:10:27:22 --> 00:10:31:28] Crie hoje ou amanhã, porque amanhã demora.
+[00:10:33:04 --> 00:10:37:15] Beleza? Tá no ritmo aqui. Não nasceu pronto assim, tá? Eu quero deixar isso claro pra você.
+[00:10:37:19 --> 00:10:41:25] Eu fui ajustando e lendo em voz alta, ajustava ali em voz alta, ajustava ali em voz alta.
+[00:10:42:00 --> 00:10:49:13] Aí vem refrão. O futuro é agora. O futuro é agora. Nunca chegou. Nunca foi embora.
+[00:10:50:04 --> 00:10:54:17] Beleza? Isso é pra ficar na cabeça. Lembra o refrão repetitivo? É legal ir nesse ponto.
+[00:10:55:15 --> 00:11:01:00] Versos, versos dois. Os profetas anunciam o que veremos adiante.
+[00:11:01:00 --> 00:11:04:20] mas é tudo eco, eco deste instante, beleza?
+[00:11:05:01 --> 00:11:08:25] Pré-refrão, falam sobre o amanhã, escondem o agora,
+[00:11:09:03 --> 00:11:12:03] ficam presos ao relógio enquanto o tempo vai embora.
+[00:11:12:11 --> 00:11:14:27] Legal, puxa o refrão de novo, aí vem,
+[00:11:15:02 --> 00:11:21:11] o futuro é agora, o futuro é agora, nunca chegou, nunca foi embora.
+[00:11:21:19 --> 00:11:24:25] Fica na cabeça, futuro é agora, o futuro é agora,
+[00:11:25:03 --> 00:11:27:11] nunca chegou, nunca foi embora.
+[00:11:27:11 --> 00:11:29:16] Aí vem, ponte, pare de se
+[00:11:29:16 --> 00:11:31:05] prometer o que não pode
+[00:11:31:05 --> 00:11:33:12] mudar, é melhor construir
+[00:11:33:12 --> 00:11:35:05] do que esperar.
+[00:11:35:16 --> 00:11:37:13] Beleza, continua, refrão
+[00:11:37:13 --> 00:11:39:06] final, se o tempo muda tudo
+[00:11:39:06 --> 00:11:41:08] e termina tudo em nada, o que
+[00:11:41:08 --> 00:11:43:12] vale nessa vida é vivido na
+[00:11:43:12 --> 00:11:45:07] jornada, o futuro é agora,
+[00:11:45:12 --> 00:11:47:13] o futuro é agora, agora.
+[00:11:48:00 --> 00:11:49:06] Pra chegar nessa
+[00:11:49:06 --> 00:11:51:07] música aqui, eu pedi a
+[00:11:51:07 --> 00:11:53:09] Iá, né, dei o contexto, expliquei tudo, pedi a
+[00:11:53:09 --> 00:11:54:21] Iá, ela gerou uma primeira,
+[00:11:54:28 --> 00:11:57:07] não gostei, esse trecho não era
+[00:11:57:07 --> 00:11:59:03] o trecho inicial, aí eu pego um trecho
+[00:11:59:03 --> 00:12:01:00] e jogo pra cima, vou ajustando, troco
+[00:12:01:00 --> 00:12:03:01] a palavra, mudo um pouquinho, leio em voz
+[00:12:03:01 --> 00:12:05:01] alta, mudo aqui, leio em voz alta. Às vezes
+[00:12:05:01 --> 00:12:07:03] a primeira parte é boa, a segunda parte
+[00:12:07:03 --> 00:12:09:04] é ruim, às vezes a segunda parte é boa, a primeira
+[00:12:09:04 --> 00:12:10:28] é ruim. Às vezes eu pego a primeira parte de uma
+[00:12:10:28 --> 00:12:12:26] estrofe com a segunda de outra e junto
+[00:12:12:26 --> 00:12:15:01] e você vai montando coerência ali.
+[00:12:15:06 --> 00:12:16:27] No final você vai ajustando, às vezes
+[00:12:16:27 --> 00:12:18:28] falta uma estrofe, você manda e fala, olha,
+[00:12:19:00 --> 00:12:20:23] tá faltando aqui um verso 1,
+[00:12:20:28 --> 00:12:23:00] me ajuda a completar. Eu mando a música
+[00:12:23:00 --> 00:12:24:27] inteira e coloco assim, ó, falta essa parte aqui.
+[00:12:24:27 --> 00:12:27:19] que a Yaya completa, eu ajusto, troco a palavra e vou fazendo.
+[00:12:27:27 --> 00:12:31:23] Então, o trabalho de revisar e ajustar, revisar e ajustar, revisar e ajustar,
+[00:12:31:23 --> 00:12:33:10] e vai fazendo isso com a inteligência artificial.
+[00:12:33:25 --> 00:12:36:22] Depois você pode pedir ela para dar uma nota para a música também,
+[00:12:36:25 --> 00:12:38:21] de acordo com os critérios que você acha importante,
+[00:12:39:00 --> 00:12:42:01] e claro, enviar para outras pessoas lerem em voz alta.
+[00:12:42:10 --> 00:12:44:25] Com isso aqui você vai para a musicalidade, tá?
+[00:12:44:26 --> 00:12:48:07] Com isso aqui você vai para a parte da melodia, você vai para a segunda parte.
+[00:12:48:16 --> 00:12:50:06] Claro que não é a única regra,
+[00:12:50:08 --> 00:12:53:01] teve músicas que eu já escrevi começando da melodia,
+[00:12:53:01 --> 00:12:55:15] e aí é meio como se a melodia estivesse
+[00:12:55:15 --> 00:12:57:01] sussurrando as palavras pra mim
+[00:12:57:01 --> 00:12:59:01] e aí enquanto às vezes eu toco o violão
+[00:12:59:01 --> 00:13:01:06] eu tô escutando as palavras, eu falo, cara, isso aqui
+[00:13:01:06 --> 00:13:02:24] quer dizer algo mais ou menos assim
+[00:13:02:24 --> 00:13:05:08] e eu consigo trazer pra cá também. A Iá
+[00:13:05:08 --> 00:13:07:08] também é muito boa nisso, tá? Às vezes se você
+[00:13:07:08 --> 00:13:09:11] dá uma melodia pra ela, fala pra ela quais
+[00:13:09:11 --> 00:13:10:27] são as notas, qual que é a sequência
+[00:13:10:27 --> 00:13:12:25] do arranjo que você tá montando
+[00:13:12:25 --> 00:13:15:07] ela sabe mais ou menos
+[00:13:15:07 --> 00:13:17:10] qual que é esse arranjo
+[00:13:17:10 --> 00:13:19:01] e ela consegue trazer palavras que
+[00:13:19:01 --> 00:13:21:08] encaixam bem ali no que você tá
+[00:13:21:08 --> 00:13:23:04] construindo. Então, é legal e funciona
+[00:13:23:04 --> 00:13:25:12] bem fazer de outras maneiras também.
+[00:13:25:13 --> 00:13:27:10] Aqui é um caminho possível que eu estou trazendo
+[00:13:27:10 --> 00:13:29:07] pra você, principalmente pra quem nunca escreveu
+[00:13:29:07 --> 00:13:31:09] música ou tem vontade de fazer isso,
+[00:13:31:12 --> 00:13:33:10] comece pela letra aqui e
+[00:13:33:10 --> 00:13:35:00] vai funcionar bem. Aí
+[00:13:35:00 --> 00:13:37:08] vai conseguir, seguindo essa estrutura
+[00:13:37:08 --> 00:13:39:09] aqui, trazer músicas legais pra
+[00:13:39:09 --> 00:13:41:08] você, beleza? Aí nós temos aqui,
+[00:13:41:11 --> 00:13:42:25] ó, template, título,
+[00:13:43:10 --> 00:13:45:16] emoção, que na verdade eu gosto de chamar de sentimento
+[00:13:45:16 --> 00:13:47:05] central, contexto, público,
+[00:13:47:12 --> 00:13:49:12] gênero e perspectiva. E aí vem aqui,
+[00:13:49:14 --> 00:13:51:00] ó, pra você poder montar. Intro,
+[00:13:51:08 --> 00:13:57:29] aí tem aqui as quatro, verso um, pré-refrão, refrão, verso dois, refrão, ponte, refrão final.
+[00:13:58:06 --> 00:14:02:28] E aí, só reforçando com você, essa não é a única estrutura para escrever uma música,
+[00:14:03:03 --> 00:14:06:26] mas é uma primeira que é legal para você experimentar, já fazer algumas coisas,
+[00:14:06:28 --> 00:14:10:01] depois você pode pesquisar mais com a IA outras estruturas diferentes.
+[00:14:10:06 --> 00:14:13:14] Pode, inclusive, copiar essa aqui, jogar lá e falar, olha, eu conheço essa estrutura,
+[00:14:13:15 --> 00:14:18:07] quais outras estruturas de composição eu posso utilizar também?
+[00:14:18:07 --> 00:14:20:07] bem e ele vai apresentar pra você, né?
+[00:14:20:09 --> 00:14:22:02] A inteligência artificial. Tem um
+[00:14:22:02 --> 00:14:24:06] checklist aqui também, da letra
+[00:14:24:06 --> 00:14:25:24] em si, né? Então, a narrativa,
+[00:14:25:25 --> 00:14:28:00] a história é clara e envolvente, cada verso
+[00:14:28:00 --> 00:14:30:00] avança a narrativa, o ouvinte consegue
+[00:14:30:00 --> 00:14:32:09] visualizar a situação, o sentimento
+[00:14:32:09 --> 00:14:34:17] é consistente, o refrão expressa
+[00:14:34:17 --> 00:14:36:07] a emoção principal, a música
+[00:14:36:07 --> 00:14:37:16] gera impacto emocional,
+[00:14:38:13 --> 00:14:40:10] as rimas soam naturais, o ritmo
+[00:14:40:10 --> 00:14:42:11] das palavras flui bem, a linguagem
+[00:14:42:11 --> 00:14:44:07] é acessível pro público também
+[00:14:44:07 --> 00:14:46:09] e de estrutura, a música tem começo,
+[00:14:46:09 --> 00:14:49:15] nesse meio e fim, a ponte oferece contraste interessante,
+[00:14:50:00 --> 00:14:52:01] o final resolve satisfatoriamente.
+[00:14:52:08 --> 00:14:54:03] Você pode até perguntar isso para a IAPD
+[00:14:54:03 --> 00:14:56:03] para ela te ajudar a enxergar esses pontos
+[00:14:56:03 --> 00:14:57:21] e funciona super bem.
+[00:14:57:22 --> 00:14:59:03] O mais importante de você entender
+[00:14:59:03 --> 00:15:01:03] é que essa música aqui foi feita
+[00:15:01:03 --> 00:15:02:12] com auxílio de inteligência artificial,
+[00:15:02:21 --> 00:15:05:15] mas ela não nasceu pronta, beleza?
+[00:15:05:22 --> 00:15:09:01] A partir disso, eu gostaria que você comentasse aqui embaixo,
+[00:15:09:07 --> 00:15:11:14] eu vou inclusive deixar um link do Suno,
+[00:15:11:15 --> 00:15:13:11] que é uma IAPD que a gente usa para fazer música,
+[00:15:13:13 --> 00:15:15:00] que eu falo mais na trilha Maestro,
+[00:15:15:00 --> 00:15:20:22] e lá tem essa música para você escutar, escuta e conta aqui o que você achou, beleza?
+[00:15:20:25 --> 00:15:23:02] Então, vejo você na próxima aula.

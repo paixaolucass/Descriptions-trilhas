@@ -1,0 +1,400 @@
+1
+00:00:00,000 --> 00:00:03,920
+Quando nós vamos trabalhar com rede social, nós gostamos de construir templates e estruturas
+
+2
+00:00:03,920 --> 00:00:06,920
+que nos ajudem a ficar dentro do nosso padrão.
+
+3
+00:00:06,960 --> 00:00:09,540
+Rede social é muito conteúdo, cada um tem uma estratégia ali.
+
+4
+00:00:09,640 --> 00:00:13,920
+Para YouTube é diferente de fazer conteúdo para feed também.
+
+5
+00:00:14,040 --> 00:00:15,980
+Aqui na Overlens a gente gosta de separar.
+
+6
+00:00:16,000 --> 00:00:17,360
+Então, quando eu entro aqui no...
+
+7
+00:00:20,380 --> 00:00:24,120
+No Figma, você já vai notar que a gente tem uma aba aqui chamada Fluxos e Templates.
+
+8
+00:00:24,280 --> 00:00:30,500
+Aqui nós temos template para aula, template para vídeo, fluxo de edição de vídeo,
+
+9
+00:00:30,580 --> 00:00:35,660
+e nós temos template de criativos aqui, que é onde fica também nossos template de geração de imagem.
+
+10
+00:00:36,180 --> 00:00:41,300
+Inclusive, uma coisa legal só para citar aqui, é que quando você cria um shape aqui no Figma,
+
+11
+00:00:41,440 --> 00:00:44,420
+você também consegue gerar imagens direto no Figma.
+
+12
+00:00:44,560 --> 00:00:47,080
+E já tem aqui o Nanobanana e o GPT, tá vendo?
+
+13
+00:00:47,080 --> 00:00:49,600
+Então, tem aqui Gemini, GPT.
+
+14
+00:00:51,132 --> 00:00:52,172
+É, em Google Imaging.
+
+15
+00:00:52,612 --> 00:00:54,232
+Mas eu quero um nanobanana aqui, por exemplo.
+
+16
+00:00:54,332 --> 00:00:57,732
+Ela já está com o nanobanana 2, você pode colocar aqui e eu posso falar, por exemplo,
+
+17
+00:00:57,792 --> 00:00:59,832
+gere um elefante.
+
+18
+00:01:00,032 --> 00:01:02,952
+A questão, por que eu estou colocando elefante aqui?
+
+19
+00:01:03,192 --> 00:01:05,812
+Elefante é símbolo da memória, para você não esquecer dessas aulas mais.
+
+20
+00:01:06,492 --> 00:01:09,292
+Mas ele já está começando a gerar, está dando um brilhinho aqui,
+
+21
+00:01:09,352 --> 00:01:11,152
+não sei se está dando para ver aí na sua tela,
+
+22
+00:01:11,332 --> 00:01:14,732
+mas ele vai gerar dentro do shape que eu pedi para ele, uma imagem.
+
+23
+00:01:15,112 --> 00:01:18,192
+Só que aqui é mais limitado que outras ferramentas,
+
+24
+00:01:18,192 --> 00:01:20,052
+porque nesse caso aqui em específico
+
+25
+00:01:20,052 --> 00:01:22,352
+você não consegue conectar
+
+26
+00:01:22,352 --> 00:01:24,412
+nele um mood board, umas referências
+
+27
+00:01:24,412 --> 00:01:26,372
+você vai ter que trabalhar tudo direto no prompt
+
+28
+00:01:26,372 --> 00:01:28,112
+dá até pra subir uma imagem
+
+29
+00:01:28,112 --> 00:01:29,752
+ou várias imagens de referência
+
+30
+00:01:29,752 --> 00:01:32,212
+mas ele tem essas limitações também
+
+31
+00:01:32,212 --> 00:01:33,752
+aí ó, gerou dentro da imagem
+
+32
+00:01:33,752 --> 00:01:35,952
+então é uma mão na roda pra produção de conteúdo
+
+33
+00:01:35,952 --> 00:01:38,152
+também, o que a gente faz aqui é o seguinte
+
+34
+00:01:38,152 --> 00:01:40,232
+nós temos os templates, isso aqui a gente
+
+35
+00:01:40,232 --> 00:01:41,952
+montou na mão mesmo, então a gente tirou prints
+
+36
+00:01:41,952 --> 00:01:44,352
+e foi montando esses templates na mão pra saber
+
+37
+00:01:44,852 --> 00:01:46,192
+quando que aparecem elementos
+
+38
+00:01:46,192 --> 00:01:48,232
+elementos do Instagram, por exemplo, em cima da imagem,
+
+39
+00:01:48,392 --> 00:01:49,892
+para a gente não usar nessas áreas.
+
+40
+00:01:50,312 --> 00:01:52,052
+Então, isso aqui a gente fez na mão uma vez,
+
+41
+00:01:52,132 --> 00:01:54,172
+e aí, quando a gente vai subir uma imagem aqui,
+
+42
+00:01:54,372 --> 00:01:55,952
+nós usamos as áreas seguras,
+
+43
+00:01:56,012 --> 00:01:58,172
+que geralmente a área segura é essa área aqui
+
+44
+00:01:58,172 --> 00:02:00,272
+e essa. Nos stories
+
+45
+00:02:00,272 --> 00:02:02,152
+a gente tem um pouco mais de área segura, e quando
+
+46
+00:02:02,152 --> 00:02:04,072
+é feed, aí é mais seguro ainda, é bem
+
+47
+00:02:04,072 --> 00:02:06,032
+tranquilo de usar. Aqui eu só tenho que voltar ao
+
+48
+00:02:06,032 --> 00:02:08,152
+normal, porque isso aqui é uma pasta de templates, né?
+
+49
+00:02:08,532 --> 00:02:09,672
+Então, a gente cria os templates
+
+50
+00:02:09,672 --> 00:02:11,852
+e separa os templates aqui também
+
+51
+00:02:12,732 --> 00:02:14,192
+por tipos de campanhas
+
+52
+00:02:14,192 --> 00:02:14,572
+e por
+
+53
+00:02:14,572 --> 00:02:18,272
+por estrutura de tipografia.
+
+54
+00:02:18,312 --> 00:02:20,272
+Então, a gente tem essa estrutura de tipografia aqui,
+
+55
+00:02:20,972 --> 00:02:23,552
+temos essa outra estrutura aqui que vem com esse outline,
+
+56
+00:02:24,532 --> 00:02:26,372
+aí aqui eu tenho o advertising 2,
+
+57
+00:02:26,452 --> 00:02:30,132
+que é uma estrutura de texto com pequeno parágrafo,
+
+58
+00:02:30,752 --> 00:02:32,012
+tem a estrutura advertising 3,
+
+59
+00:02:32,132 --> 00:02:33,972
+que é texto com botão e tag,
+
+60
+00:02:34,752 --> 00:02:37,332
+tem também aqui a estrutura advertising 4,
+
+61
+00:02:37,612 --> 00:02:40,292
+que é usando outfit, tudo maiúsculo,
+
+62
+00:02:40,312 --> 00:02:41,452
+que é a nossa tipografia principal.
+
+63
+00:02:42,876 --> 00:02:45,836
+Tem o Advertising 5, esse aqui na verdade é só para imagem.
+
+64
+00:02:46,096 --> 00:02:50,336
+É um template para usar quando o texto vai direto na imagem também,
+
+65
+00:02:50,496 --> 00:02:52,096
+só que a gente não colocou a diretriz aqui.
+
+66
+00:02:52,776 --> 00:02:58,116
+Então, a gente faz isso, tem testes também que a gente acaba rodando aqui da campanha,
+
+67
+00:02:58,696 --> 00:03:01,796
+e a partir disso a gente organiza os conteúdos.
+
+68
+00:03:01,896 --> 00:03:04,436
+Só que isso aqui é o jeito manual de fazer.
+
+69
+00:03:04,816 --> 00:03:07,016
+Quando você vai trabalhar isso aqui com o IaaS,
+
+70
+00:03:07,116 --> 00:03:09,096
+você conecta isso tudo aqui nos seus agentes,
+
+71
+00:03:09,116 --> 00:03:10,816
+eles já geram dentro dos seus templates,
+
+72
+00:03:10,816 --> 00:03:14,976
+mas como eu disse, isso é bem mais avançado, eu não vou entrar aqui dentro dessa trilha.
+
+73
+00:03:15,036 --> 00:03:20,616
+O legal é você entender que com o processo certo, você consegue, mesmo manual aqui,
+
+74
+00:03:21,076 --> 00:03:25,976
+organizar sua produção de imagens, seja para gerar criativo, para gerar conteúdo, que seja.
+
+75
+00:03:26,156 --> 00:03:31,136
+A gente tem um de conteúdo também, olha, e aí a gente guarda aqui os lugares que ficam as imagens.
+
+76
+00:03:31,216 --> 00:03:34,896
+Então se você for lá no perfil da Overlens, você vai ver que tem vários conteúdos que nós já rodamos lá,
+
+77
+00:03:34,976 --> 00:03:40,336
+e está aqui a estrutura de template, então tem a estrutura de capa, citação, título grande com descrição,
+
+78
+00:03:41,476 --> 00:03:44,036
+título grande, descrição, mais área de prompt,
+
+79
+00:03:44,336 --> 00:03:48,096
+aí tem aqui esse da imagem, texto e descrição, variando eles também,
+
+80
+00:03:48,836 --> 00:03:51,036
+tem esse aqui também que a imagem ocupa o todo
+
+81
+00:03:51,036 --> 00:03:54,276
+para ficar mais amplo quando tiver imagens interessantes,
+
+82
+00:03:54,336 --> 00:03:55,456
+e o nosso CTA.
+
+83
+00:03:55,636 --> 00:03:57,416
+Então nós organizamos isso aqui no Figma,
+
+84
+00:03:57,536 --> 00:03:59,876
+e aí basicamente a gente sobe as imagens aqui.
+
+85
+00:03:59,976 --> 00:04:03,296
+Esse é o nosso processo de produção de conteúdo.
+
+86
+00:04:03,656 --> 00:04:06,856
+A parte de geração de imagens, ela entra como um paralelo aqui,
+
+87
+00:04:07,036 --> 00:04:08,976
+a gente tem toda a etapa de pesquisa,
+
+88
+00:04:09,036 --> 00:04:11,056
+depois da pesquisa, seleção,
+
+89
+00:04:11,796 --> 00:04:13,856
+mas aí isso daria um curso inteiro de produção de conteúdo,
+
+90
+00:04:13,936 --> 00:04:15,856
+o nosso foco aqui é falar das imagens, né?
+
+91
+00:04:15,916 --> 00:04:17,536
+Então, estou entregando aqui para você
+
+92
+00:04:17,536 --> 00:04:19,956
+o processo na parte de criação de imagens.
+
+93
+00:04:19,996 --> 00:04:22,376
+É legal também que a gente trabalha vídeo do mesmo jeito.
+
+94
+00:04:22,536 --> 00:04:24,156
+Aqui no Figma dá para subir vídeo,
+
+95
+00:04:24,336 --> 00:04:26,216
+a gente sobe os vídeos, faz o teste com ele,
+
+96
+00:04:26,296 --> 00:04:27,936
+exporta em vídeo e joga para a rede social,
+
+97
+00:04:28,056 --> 00:04:30,356
+porque o objetivo aqui é agilidade, velocidade,
+
+98
+00:04:30,536 --> 00:04:32,596
+funciona muito bem para a gente, tá bom?
+
+99
+00:04:32,616 --> 00:04:34,096
+Então, para a produção de conteúdo,
+
+100
+00:04:34,316 --> 00:04:36,236
+esse tem sido o nosso processo aqui.
+

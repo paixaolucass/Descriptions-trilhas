@@ -1,0 +1,1545 @@
+# Video: 5._o_processo_de_criação_do_símbolo_overlens (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-29 12:33
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:00 --> 00:00:04:08] Hoje eu vou apresentar aqui uma parte teórica, então eu vou explicar o que é o processo
+[00:00:04:08 --> 00:00:09:23] criativo, quais são as etapas de uma maneira teórica, depois eu vou mostrar isso na prática
+[00:00:09:23 --> 00:00:15:06] através do símbolo da overlens, o logo da overlens e as decisões que nós tomamos
+[00:00:15:06 --> 00:00:16:02] para a overlens.
+[00:00:16:20 --> 00:00:21:14] Mas, eu decidi ir além, ao invés de focar só no logotipo e no processo de construção
+[00:00:21:14 --> 00:00:26:26] do logotipo, eu vou mostrar um pouco para vocês alguns documentos estratégicos que
+[00:00:26:26 --> 00:00:32:18] Eu construí durante esse processo para tomar decisões do caminho que nós iríamos seguir
+[00:00:32:18 --> 00:00:34:11] no conceito da Overlens.
+[00:00:34:15 --> 00:00:39:29] Então são documentos muito ricos, são documentos internos que falam um pouco sobre a nossa
+[00:00:39:29 --> 00:00:44:03] metodologia mais abrangente de 9 passos, mas vocês vão ver como você consegue
+[00:00:44:03 --> 00:00:49:15] construir um projeto muito mais rico quando você tem matéria prima, quando você tem
+[00:00:49:15 --> 00:00:50:05] informação.
+[00:00:50:17 --> 00:00:55:13] Então um briefing raso vai acabar gerando um projeto raso, porque a informação é
+[00:00:55:13 --> 00:00:58:26] a nossa matéria-prima nos projetos e eu vou mostrar para vocês o tanto de informação
+[00:00:58:26 --> 00:01:01:26] que eu coletei para criar o projeto da Overlens.
+[00:01:02:01 --> 00:01:05:29] Então esse é o material extra que eu decidi trazer para vocês, que vai, inclusive, além
+[00:01:05:29 --> 00:01:08:02] de simplesmente criar um logotipo.
+[00:01:08:20 --> 00:01:12:04] Então pega papel, pega caneta aí, estou reforçando isso porque eu tenho certeza
+[00:01:12:04 --> 00:01:13:26] que vai te ajudar bastante.
+[00:01:14:14 --> 00:01:17:20] Dito os mitos, então, qual é a nossa grande pergunta aqui?
+[00:01:18:03 --> 00:01:21:08] Como ter boas ideias para criar um bom logotipo?
+[00:01:21:08 --> 00:01:25:21] Eu lembro quando eu comecei a trabalhar com logotipos, uma coisa que pegava muito para
+[00:01:25:21 --> 00:01:33:26] mim é que eu desenhava algumas versões de logo no papel e depois eu me sentia sem ideia.
+[00:01:34:05 --> 00:01:38:05] Eu sentia que eu não conseguia ter mais ideias e minhas ideias eram muito genéricas e eu
+[00:01:38:05 --> 00:01:42:08] logo queria partir para o computador para já lapidar essas ideias e tal, e acabava
+[00:01:42:08 --> 00:01:46:05] que eu criava mais uma ideia igual todo mundo, fazia mais uma ideia comum.
+[00:01:47:07 --> 00:01:50:14] E eu sei que eu já falei sobre isso nas redes sociais, principalmente no Instagram,
+[00:01:50:14 --> 00:01:55:19] E teve um post que eu fiz uma vez, que algumas pessoas falaram que não geram alternativas,
+[00:01:55:21 --> 00:01:58:28] que geralmente a primeira opção do logo que elas criam já é eficiente.
+[00:01:59:10 --> 00:02:03:11] Só que vocês vão ver que hoje que gerar alternativa não é só para você chegar
+[00:02:03:11 --> 00:02:06:06] na ideia, mas também para você validar essa ideia.
+[00:02:06:22 --> 00:02:08:28] Mas a grande questão então é como ter ideias?
+[00:02:09:06 --> 00:02:14:05] Como que eu consigo pensar em lugares diferentes que ainda não foram explorados?
+[00:02:14:11 --> 00:02:17:25] Tem gente que ainda diz que tudo já foi pensado, eu não acredito nisso, acredito
+[00:02:17:25 --> 00:02:21:21] porque existem muitos caminhos ainda, muitas possibilidades, mas também existem muitos
+[00:02:21:21 --> 00:02:22:22] lugares comuns.
+[00:02:22:29 --> 00:02:27:26] E quando nós vamos criar logos que são mais simples, acaba que...
+[00:02:28:26 --> 00:02:32:25] Acaba que você pode acabar criando algo que outras pessoas também criaram parecido,
+[00:02:33:02 --> 00:02:34:12] também isso pode acontecer, tá?
+[00:02:34:23 --> 00:02:38:28] Mas vocês vão ver as vantagens também que existem em criar um logo mais simples, tá?
+[00:02:38:29 --> 00:02:41:05] Então, tem pontos positivos.
+[00:02:41:15 --> 00:02:43:00] Então, como responder essa pergunta?
+[00:02:43:01 --> 00:02:44:06] Como ter boas ideias?
+[00:02:44:09 --> 00:02:49:10] Para isso, nós precisamos entender um pouco melhor sobre como funciona o nosso cérebro,
+[00:02:49:13 --> 00:02:53:13] como funciona esse processo para conseguir ter boas ideias, beleza?
+[00:02:53:20 --> 00:02:54:10] Então, bora lá.
+[00:02:54:28 --> 00:02:58:08] Primeira coisa, nós vamos precisar de um processo.
+[00:02:58:08 --> 00:03:02:20] uma metodologia. E a metodologia básica, que eu falei um pouco sobre ela no primeiro
+[00:03:02:20 --> 00:03:08:03] episódio é essa aqui, briefing, investigação, estratégia, e aí depois dessas três etapas,
+[00:03:08:08 --> 00:03:14:20] você entra na parte de criação de fato. Muitos designers pulam essas duas etapas aqui
+[00:03:14:20 --> 00:03:19:10] geralmente fazem isso daqui ó, opa, geralmente fazem isso aqui ó, briefing.
+[00:03:20:14 --> 00:03:25:18] criação. Não recomendo, inclusive já falei disso no primeiro episódio, quando você
+[00:03:25:18 --> 00:03:31:00] sai do briefing para criação, é como se você tivesse um resumo do projeto e você
+[00:03:31:00 --> 00:03:35:28] está criando um resumo do resumo, porque o logo é uma síntese, ele é a essência.
+[00:03:36:06 --> 00:03:40:21] Se você parte de um briefing com algumas informações rasas e vai para criação,
+[00:03:41:02 --> 00:03:45:27] a chance de você criar algo genérico é muito grande. Na verdade, inclusive, o processo
+[00:03:45:27 --> 00:03:50:07] para ter a ideia vale mais do que a construção do logo. Vocês vão ver aqui que eu vou
+[00:03:50:07 --> 00:03:55:28] falar muito mais sobre o processo para chegar na ideia do que, de fato, construir ela visualmente.
+[00:03:56:08 --> 00:03:59:27] Depois que a ideia está clara na sua cabeça, fica muito fácil de colocá-la no papel.
+[00:04:00:09 --> 00:04:05:00] Mas se ela não está clara aqui, você realmente vai ficar ali desenhando a deriva e não
+[00:04:05:00 --> 00:04:06:02] vai chegar em nenhum lugar.
+[00:04:07:24 --> 00:04:11:17] Inclusive, eu sempre falo que o desenho é um processo muito mais mental
+[00:04:11:17 --> 00:04:12:16] do que da mão.
+[00:04:12:17 --> 00:04:14:08] Muita gente fala, não tem habilidade com o desenho,
+[00:04:14:10 --> 00:04:16:17] não sei desenhar a minha mão, mas não é sua mão,
+[00:04:16:29 --> 00:04:18:28] é a sua mente, a sua visualização.
+[00:04:19:05 --> 00:04:21:05] Por isso que desenhar é um excelente exercício
+[00:04:21:05 --> 00:04:22:15] para se desenvolver enquanto designer,
+[00:04:22:25 --> 00:04:26:12] porque o desenho começa na sua capacidade de imaginar com clareza.
+[00:04:26:23 --> 00:04:29:04] Quando você não consegue tirar algo da cabeça para o papel,
+[00:04:29:07 --> 00:04:30:26] é porque ainda não está claro na sua cabeça.
+[00:04:31:05 --> 00:04:33:15] É por isso que esse processo para chegar na ideia
+[00:04:33:15 --> 00:04:36:26] é muito mais valioso do que, de fato, construir a ideia.
+[00:04:37:23 --> 00:04:42:04] Construir ela visualmente é a parte mais fácil, inclusive, depois que você já tem o conceito
+[00:04:42:04 --> 00:04:46:13] bem definido e que você já sabe o caminho que você vai trilhar, beleza?
+[00:04:46:22 --> 00:04:48:27] Então, lembra desse processo aqui, olha.
+[00:04:49:14 --> 00:04:53:20] Isso aqui já faz parte da metodologia de 9 Passos da Overlens, são os primeiros passos.
+[00:04:53:23 --> 00:05:00:23] Você pode sim fazer o briefing, mas a investigação e a estratégia são os pontos mais importantes.
+[00:05:01:05 --> 00:05:04:03] O briefing, por si só, é muito raso, é muito pouco.
+[00:05:04:03 --> 00:05:08:14] Quando você faz a investigação, lembra lá, eu falei isso na primeira aula, você
+[00:05:08:14 --> 00:05:20:25] faz Auditoria do Negócio, Auditoria do Mercado, Auditoria do Público e Benchmark de Comunicação.
+[00:05:21:10 --> 00:05:23:23] São as quatro etapas da investigação.
+[00:05:23:25 --> 00:05:28:07] Então, você investiga o negócio, o mercado, o público e a comunicação eficiente de
+[00:05:28:07 --> 00:05:30:16] marcas que conversam bem com esse público.
+[00:05:30:27 --> 00:05:31:07] Beleza?
+[00:05:31:10 --> 00:05:33:15] Hoje eu vou mostrar para vocês um pouco disso aqui.
+[00:05:33:15 --> 00:05:38:02] vocês vão ver que interessante. Então, aqui você funciona como uma esponja. Imagina uma
+[00:05:38:02 --> 00:05:41:10] esponja aí. Imagina aqui que isso aqui é uma esponja.
+[00:05:42:14 --> 00:05:45:19] Tá a água aí, uns buraquinhos de esponja...
+[00:05:45:19 --> 00:05:46:22] Você é como uma esponja.
+[00:05:46:26 --> 00:05:50:27] Sua missão aqui agora é absorver o máximo de informação.
+[00:05:51:08 --> 00:05:52:25] Esse é o papel da investigação.
+[00:05:53:08 --> 00:05:55:09] Quanto mais informação você tem,
+[00:05:55:18 --> 00:05:58:29] mais claro a ideia se torna, o caminho que você deve seguir se torna.
+[00:05:59:02 --> 00:06:01:01] Claro que isso vai depender do prazo que você tem,
+[00:06:01:04 --> 00:06:02:24] o tempo que você tem para fazer esse projeto.
+[00:06:03:07 --> 00:06:04:01] Mas uma coisa eu digo,
+[00:06:04:10 --> 00:06:06:20] se você tem uma semana para criar um logo,
+[00:06:07:07 --> 00:06:10:18] gaste pelo menos três dias investigando
+[00:06:10:18 --> 00:06:14:23] E você vai ver que vai ser mais fácil chegar na ideia no final, uma ideia estratégica e
+[00:06:14:23 --> 00:06:15:24] eficiente, tá?
+[00:06:16:01 --> 00:06:20:29] Agora, se você gasta um dia investigando e quatro criando, você vai ver que vai te
+[00:06:20:29 --> 00:06:24:02] faltar matéria-prima, então a investigação é muito importante, beleza?
+[00:06:24:08 --> 00:06:28:19] Agora, quando você tem mais tempo, você não precisa gastar 75% do seu tempo na
+[00:06:28:19 --> 00:06:33:21] investigação, você pode gastar muito menos, inclusive, mas sei lá, você tem 45 dias
+[00:06:33:21 --> 00:06:37:10] para fazer, gasta uma ou duas semanas na etapa de investigação e vai ser muito
+[00:06:37:10 --> 00:06:38:05] eficiente, tá?
+[00:06:38:22 --> 00:06:39:23] Então esse é um ponto.
+[00:06:39:23 --> 00:06:46:08] Depois que você passou pela etapa de investigação, você vai começar a tomar decisão, então
+[00:06:46:08 --> 00:06:48:26] pensa na mãozinha aqui ó, por que que eu pus essa mãozinha?
+[00:06:49:10 --> 00:06:54:22] Porque aqui você vai começar a apontar pro seu cliente caminhos, caminhos que ele deve
+[00:06:54:22 --> 00:07:01:00] seguir pra poder se diferenciar no mercado, pra poder se posicionar, mostrar quais são
+[00:07:01:00 --> 00:07:03:07] os diferenciais dele, beleza?
+[00:07:03:20 --> 00:07:07:17] Então olha só que interessante, se você tem só o briefing, você não toma essas
+[00:07:07:17 --> 00:07:12:20] decisões, de posicionamento, que são importantíssimas para criar um logo eficiente, e você não
+[00:07:12:20 --> 00:07:15:14] cole essas informações que vão te ajudar a diferenciar essa marca.
+[00:07:15:29 --> 00:07:20:14] Por isso que muitos designers se sentem perdidos, bloqueio criativo, porque não tem um caminho
+[00:07:20:14 --> 00:07:21:12] bem definido.
+[00:07:21:23 --> 00:07:26:04] E eu vou colocar ainda mais uma etapa aqui, que é a etapa de Núcleo.
+[00:07:27:09 --> 00:07:28:02] Da Marta!
+[00:07:29:19 --> 00:07:35:06] A etapa de núcleo da marca é quando você vai definir quais são as virtudes da marca.
+[00:07:35:22 --> 00:07:36:27] Virtudes da marca.
+[00:07:37:16 --> 00:07:39:00] E muita gente chama de atributos.
+[00:07:39:19 --> 00:07:43:22] Esses atributos aqui fazem toda a diferença na hora de criar o logo.
+[00:07:44:24 --> 00:07:48:02] Vocês vão ver isso aqui hoje, eu vou mostrar os atributos da Overlens, vocês vão ver
+[00:07:48:02 --> 00:07:51:02] como que esses atributos guiaram o conceito.
+[00:07:51:07 --> 00:07:54:15] Você entende também qual que é a narrativa?
+[00:07:56:04 --> 00:08:02:21] narrativa arquetípica dessa marca. Você entende também sobre qual é a brand persona.
+[00:08:03:27 --> 00:08:09:26] Na estratégia, você vai trabalhar outros pontos aqui, como a buyer persona...
+[00:08:09:26 --> 00:08:12:00] Eu sei que só listando aqui vocês vão ficar assim...
+[00:08:12:00 --> 00:08:13:26] Ah, ensina tudo isso! É muita coisa, né?
+[00:08:14:08 --> 00:08:16:22] Mas é muita coisa, mas eu quero listar para você entender o caminho.
+[00:08:17:08 --> 00:08:20:08] Buyer persona, plataforma de posicionamento...
+[00:08:21:14 --> 00:08:23:16] Differenciais...
+[00:08:25:22 --> 00:08:32:21] e paridades do negócio. Então, o que o negócio tem igual a todos os outros e o que ele tem
+[00:08:32:21 --> 00:08:38:28] de diferente? Você vai entender também o porquê, como e o quê. Que muita gente chama
+[00:08:38:28 --> 00:08:44:19] de missão, visão e valores. Você vai entender a importância que isso tem. Então, olha
+[00:08:44:19 --> 00:08:50:04] só, quanta informação no processo você reúne antes de sair criando. E aí, agora
+[00:08:50:04 --> 00:08:54:18] eu quero dar uma base científica que prova para você porque que esse processo aqui
+[00:08:54:18 --> 00:08:57:18] de coleta de informações é, de fato, eficiente.
+[00:08:57:22 --> 00:09:02:00] Quero mostrar para você, cientificamente, falando sobre como o nosso cérebro funciona.
+[00:09:02:10 --> 00:09:06:27] Nosso foco nessa aula é o processo criativo, então deixa eu explicar para vocês rapidamente
+[00:09:06:27 --> 00:09:09:27] aqui como funciona o processo criativo na nossa cabeça, beleza?
+[00:09:10:03 --> 00:09:14:03] Eu gosto sempre de usar essa imagem para falar de criatividade, esse aí é o Homem
+[00:09:14:03 --> 00:09:21:09] Leão, ele é datado como uma criação que tem mais de 32 mil anos antes de começarem
+[00:09:21:09 --> 00:09:28:07] surgir as primeiras civilizações agrícolas. Antes de tudo isso, nós já éramos criativos,
+[00:09:28:13 --> 00:09:32:04] porque a criatividade faz parte da natureza humana.
+[00:09:32:08 --> 00:09:37:00] Então, olha só que interessante. Essa imagem diz muito sobre o criar criatividade. Criatividade
+[00:09:37:00 --> 00:09:42:29] nada mais é do que conectar coisas que aparentemente estavam desconectadas. É conectar
+[00:09:42:29 --> 00:09:47:21] ideias. No caso aqui, essa pessoa conectou a ideia de um ser humano e de um leão,
+[00:09:47:21 --> 00:09:56:07] e formou um homem-leão. Então, essa pessoa que criou essa estatueta imaginou algo novo
+[00:09:56:07 --> 00:10:00:21] e colocou isso no mundo real. Então, uma ideia que não pertence ao mundo real é agora
+[00:10:00:21 --> 00:10:07:11] pertence. É a imaginação. E todos nós temos a capacidade de sermos mais criativos,
+[00:10:07:18 --> 00:10:12:07] porque isso faz parte da maneira como o nosso cérebro funciona. Isso faz parte
+[00:10:12:07 --> 00:10:16:09] da maneira como nós seres humanos funcionamos. Deixa eu puxar meu foco aqui rapidinho.
+[00:10:17:27 --> 00:10:19:02] porque eu vi que deu uma desfocada.
+[00:10:19:19 --> 00:10:21:13] Então, você é criativo por natureza,
+[00:10:21:14 --> 00:10:24:08] você só precisa aprender a utilizar essa criatividade a seu favor.
+[00:10:24:15 --> 00:10:26:11] E eu estou aqui para te ajudar com isso, beleza?
+[00:10:26:18 --> 00:10:28:14] Então, guarda essa imagem do Homem Leão.
+[00:10:28:18 --> 00:10:31:23] Olha só, tem várias ideias, vários conceitos
+[00:10:31:23 --> 00:10:33:14] que foram construídos ao longo do tempo.
+[00:10:33:22 --> 00:10:37:01] Isso aqui é da natureza humana.
+[00:10:37:05 --> 00:10:41:04] Por natureza, nós já tendemos a conectar ideias e coisas
+[00:10:41:04 --> 00:10:44:23] que antes estavam desconectadas, ok?
+[00:10:44:28 --> 00:10:46:24] Então, guarda isso com você que vai ficar mais claro.
+[00:10:46:24 --> 00:10:52:03] Quando você entende então que a criatividade é conectar ideias, você começa a perceber
+[00:10:52:22 --> 00:10:54:09] que ela acaba sendo um dom.
+[00:10:55:00 --> 00:10:57:18] Nós seres humanos temos um dom que nenhum outro animal tem.
+[00:10:57:21 --> 00:11:01:27] Se você pensa em um cachorro, eu gosto sempre de dar esse exemplo, você dá um osso pro
+[00:11:01:27 --> 00:11:02:12] cachorro.
+[00:11:02:23 --> 00:11:04:11] O que esse cachorro vai fazer com esse osso?
+[00:11:04:23 --> 00:11:08:18] Ou esse cachorro vai guardar esse osso pra comer depois ou ele vai comer agora.
+[00:11:08:29 --> 00:11:11:10] A gente chama esse processo de input e output.
+[00:11:11:15 --> 00:11:13:00] Então é estímulo e reação.
+[00:11:13:13 --> 00:11:14:02] Viu o osso?
+[00:11:14:05 --> 00:11:14:26] É o estímulo.
+[00:11:14:26 --> 00:11:18:23] A reação dele é comida, então eu vou comer ou guardar para comer depois?
+[00:11:19:03 --> 00:11:23:17] Cachorro sempre pensa no osso assim, a não ser que ele seja condicionado e treinado a
+[00:11:23:17 --> 00:11:24:07] agir diferente.
+[00:11:24:19 --> 00:11:25:18] Já um ser humano não.
+[00:11:26:06 --> 00:11:30:18] Se você dá um osso para um ser humano, ele pode sim pensar em comida, vou cozinhar,
+[00:11:30:21 --> 00:11:33:23] pegar o tutano dentro do osso, mas ele também pode usar esse osso como arma.
+[00:11:34:04 --> 00:11:38:02] Ele também pode usar esse osso como ferramenta, pode usar esse osso como adubo
+[00:11:38:02 --> 00:11:40:20] para planta, pode utilizar esse osso como arte.
+[00:11:40:20 --> 00:11:44:20] A arte, inclusive, é um conceito muito humano e tá ligado com a criatividade.
+[00:11:45:03 --> 00:11:47:02] Nenhum outro animal faz arte.
+[00:11:47:10 --> 00:11:48:28] Só o ser humano cria arte.
+[00:11:49:26 --> 00:11:51:17] Então, olha só que interessante.
+[00:11:52:02 --> 00:11:54:25] Isso faz parte da nossa natureza, você também é assim.
+[00:11:55:06 --> 00:11:59:29] E o processo para acessar a criatividade, apesar de não parecer, é muito previsível
+[00:11:59:29 --> 00:12:01:01] e muito fácil.
+[00:12:01:15 --> 00:12:07:17] Nada mais é do que conectar ideias, então, ter ideias é fazer conexões.
+[00:12:08:01 --> 00:12:12:28] Como que eu consigo ter boas ideias, conectando meias ideias e formando novas?
+[00:12:13:08 --> 00:12:15:25] Aí você vai falar, pera, não estou entendendo, para eu ter ideia eu preciso de ideia.
+[00:12:16:05 --> 00:12:16:26] Deixa eu te explicar.
+[00:12:16:26 --> 00:12:22:23] Dentro de seu cérebro existe uma rede de conexão com mais de 86 bilhões de neurônios.
+[00:12:23:04 --> 00:12:26:20] Esses neurônios criam o que a gente chama de redes neurais.
+[00:12:26:28 --> 00:12:30:15] É assim que funciona o processo de aprendizado e o processo de criatividade.
+[00:12:30:21 --> 00:12:34:06] Então vamos pegar aqui, deixa eu dar uma abstract aqui junto com vocês.
+[00:12:34:24 --> 00:12:37:02] Vamos supor que você está aprendendo a andar de bicicleta, tá?
+[00:12:37:13 --> 00:12:43:03] E aí a primeira vez que você foi andar de bicicleta, você criou uma rede neural.
+[00:12:43:03 --> 00:12:43:09] Então, até a próxima!
+[00:12:44:09 --> 00:12:46:27] Então, eu vou fazer um de maneira bem abstrata aqui,
+[00:12:47:09 --> 00:12:48:26] como se você tivesse criado uma rede neural.
+[00:12:49:06 --> 00:12:51:00] Então, cada pontinho desse é um neurônio,
+[00:12:51:03 --> 00:12:53:04] e esses neurônios se conectam.
+[00:12:53:09 --> 00:12:57:07] Quando eles se conectam, você forma o que a gente chama de rede neural, tá?
+[00:12:57:12 --> 00:13:00:00] Então, imagina que isso aqui é uma rede neural sua
+[00:13:00:00 --> 00:13:01:29] quando você começou a aprender a andar de bicicleta.
+[00:13:02:05 --> 00:13:04:03] O processo de aprendizado funciona como?
+[00:13:04:07 --> 00:13:05:05] Pela repetição.
+[00:13:05:20 --> 00:13:08:05] Quanto mais vezes você repete essa rede neural,
+[00:13:08:12 --> 00:13:10:26] então, você repete esse padrão de comportamento...
+[00:13:10:26 --> 00:13:12:10] Então, vou lá, ando de bicicleta,
+[00:13:12:10 --> 00:13:14:12] Tento andar de bicicleta de novo, ando de bicicleta de novo.
+[00:13:14:14 --> 00:13:17:08] Você vai fazendo o seu cérebro se reorganizar os neurônios,
+[00:13:17:20 --> 00:13:19:19] se reorganizarem para construir essa rede neural.
+[00:13:20:06 --> 00:13:22:20] Mais você aprende sobre essa rede neural,
+[00:13:22:29 --> 00:13:27:05] e mais você masteriza o processo de aprender a andar de bicicleta.
+[00:13:27:13 --> 00:13:30:23] Então, depois fica intuitivo, você já sabe...
+[00:13:30:23 --> 00:13:32:08] O seu cérebro já cria...
+[00:13:32:08 --> 00:13:34:21] Vou andar de bicicleta, ele já organiza os seus neurônios
+[00:13:34:21 --> 00:13:37:02] dessa maneira sem você pensar, tá?
+[00:13:37:02 --> 00:13:38:01] A gente chama isso de rede neural.
+[00:13:38:09 --> 00:13:40:16] E o processo para ter ideias é bem parecido.
+[00:13:40:16 --> 00:13:44:25] É quando você conecta duas coisas que não estavam conectadas antes.
+[00:13:45:05 --> 00:13:46:26] São neurônios se conectando.
+[00:13:47:04 --> 00:13:50:20] Então por exemplo, se eu falar pra você que agora, pense uma coisa que não existe.
+[00:13:51:11 --> 00:13:55:14] Você pode abstrair-se e falar, dragão, dragão não existe, beleza.
+[00:13:55:21 --> 00:13:57:23] Não existe no plano real, mas existe como ideia.
+[00:13:58:04 --> 00:14:01:20] Tente pensar em alguma coisa que não existe nem como ideia.
+[00:14:02:09 --> 00:14:04:25] Pense pensar em algo que nós nunca pensamos antes.
+[00:14:05:09 --> 00:14:06:08] Você não vai conseguir.
+[00:14:06:18 --> 00:14:08:08] Provavelmente, vamos fazer um exercício aqui?
+[00:14:08:08 --> 00:14:13:03] Coloca aí ao vivo, quem tá ao vivo aqui comigo, coloca aí no chat, fala alguma coisa
+[00:14:13:03 --> 00:14:16:08] que não existe e que ninguém nunca pensou antes.
+[00:14:16:15 --> 00:14:20:12] Coloca aí, algo que ninguém nunca pensou antes, beleza?
+[00:14:20:29 --> 00:14:23:17] Vou esperar vocês colocarem, vocês vão entender como isso funciona.
+[00:14:24:12 --> 00:14:28:29] Nós seres humanos não conseguimos pensar em algo que nós nunca pensamos antes.
+[00:14:29:06 --> 00:14:32:17] O que acontece é uma conexão de ideias, vocês vão ver já já com as ideias de
+[00:14:32:17 --> 00:14:33:00] todo mundo.
+[00:14:33:23 --> 00:14:36:27] Olha lá, galera vai colocar, vamos ver, tô esperando chegar.
+[00:14:38:05 --> 00:14:40:29] Alguém colocou ali, um is lupinotus.
+[00:14:41:07 --> 00:14:44:16] Aqui você está usando o signo das palavras para falar alguma coisa qualquer,
+[00:14:44:20 --> 00:14:46:13] mas não é algo que nós conseguimos imaginar.
+[00:14:46:24 --> 00:14:49:09] Eu estou querendo algo que ninguém nunca imaginou antes, tá?
+[00:14:50:17 --> 00:14:52:12] Galera começou a colocar, ó...
+[00:14:53:04 --> 00:14:53:24] Um...
+[00:14:53:24 --> 00:14:54:21] Elefante verde.
+[00:14:55:23 --> 00:15:00:21] Um elefante verde realmente você nunca viu, mas você sabe o que é verde e você sabe
+[00:15:00:21 --> 00:15:01:17] o que é elefante.
+[00:15:02:00 --> 00:15:04:19] Aqui a gente começa a falar então sobre o processo criativo.
+[00:15:05:06 --> 00:15:09:23] Você imaginou, sua imaginação juntou duas coisas que existem para criar algo novo
+[00:15:09:23 --> 00:15:12:26] que não existe no plano real, mas existe como ideia.
+[00:15:13:09 --> 00:15:13:25] Agora repara...
+[00:15:14:21 --> 00:15:18:19] Para criar esse algo novo, você usou duas outras coisas existentes.
+[00:15:19:22 --> 00:15:22:25] Alguém colocou ali namorada, sacanagem.
+[00:15:23:11 --> 00:15:25:19] Mas um dragão ornitorrínquo.
+[00:15:25:22 --> 00:15:27:15] Você nunca viu um dragão ornitorrínquo,
+[00:15:27:17 --> 00:15:30:05] mas você já viu um dragão e você já viu um ornitorrínquo.
+[00:15:30:08 --> 00:15:32:14] Você pega duas ideias que já existem
+[00:15:32:14 --> 00:15:36:26] e cria uma nova ideia a partir de coisas existentes.
+[00:15:36:27 --> 00:15:38:29] Está vendo como funciona o processo criativo?
+[00:15:39:10 --> 00:15:41:08] Ele é uma conexão de ideias.
+[00:15:41:20 --> 00:15:45:04] Um pepino tocando guitarra em cima de um avião azul.
+[00:15:45:16 --> 00:15:48:13] Você nunca viu um pepino tocando guitarra em cima de um avião azul,
+[00:15:48:13 --> 00:15:50:19] Mas você já viu um pepino, você já viu uma guitarra,
+[00:15:50:24 --> 00:15:53:12] você já viu alguém tocando guitarra, você já viu um avião azul.
+[00:15:54:16 --> 00:15:58:21] Então, você conecta várias coisas que existem em algo novo, entende?
+[00:15:59:06 --> 00:16:00:27] Então, olha só que interessante.
+[00:16:01:07 --> 00:16:05:24] A criatividade é basicamente isso, é conexão de ideias, conexão de informações.
+[00:16:06:24 --> 00:16:10:02] E olha que interessante agora conectando aquilo que eu tinha falado lá atrás.
+[00:16:10:12 --> 00:16:16:28] Quando você tem matéria-prima, você consegue chegar em resultados novos e eficientes que se conectam.
+[00:16:17:04 --> 00:16:22:23] Você constrói uma rede neural mais rica, que vai fortalecer muito mais a sua ideia.
+[00:16:22:23 --> 00:16:29:11] Por isso que investir um tempo no processo de ideação vale muito a pena.
+[00:16:29:28 --> 00:16:34:27] O processo de lapidação é o mais fácil, só que o que muitos designers fazem?
+[00:16:34:29 --> 00:16:36:10] Invertem a lógica.
+[00:16:36:15 --> 00:16:39:25] Trabalham pouco na ideação e muito na lapidação.
+[00:16:40:06 --> 00:16:45:13] E é por isso que temos muitos projetos genéricos, óbvios e nada originais.
+[00:16:45:16 --> 00:16:45:26] Beleza?
+[00:16:45:27 --> 00:16:47:04] Vocês pegaram até aqui?
+[00:16:47:09 --> 00:16:48:15] Isso é a criatividade.
+[00:16:48:25 --> 00:16:51:10] Inclusive, vários autores já falam sobre isso.
+[00:16:51:10 --> 00:16:55:15] A criatividade é a conexão de pontos, conectar ideias.
+[00:16:55:18 --> 00:16:59:09] Por isso que, inclusive, o seu repertório é muito importante nesse processo.
+[00:16:59:18 --> 00:17:03:00] E eu até coloquei aqui o primeiro passo para se tornar uma pessoa mais criativa.
+[00:17:03:12 --> 00:17:06:10] Cuide do seu repertório, alimente ele todos os dias
+[00:17:06:10 --> 00:17:11:21] com informações úteis, com projetos úteis, com referências valiosas
+[00:17:11:21 --> 00:17:14:06] e você vai desenvolver muito a sua criatividade.
+[00:17:14:22 --> 00:17:20:01] Abra a sua percepção de mundo para que você receba novas ideias.
+[00:17:20:01 --> 00:17:24:12] isso é muito importante e esse é o primeiro passo que eu tenho aqui para vocês. Anota
+[00:17:24:12 --> 00:17:29:10] aí, analise bons projetos. Se você analisar bons projetos com frequência, você vai tender
+[00:17:29:10 --> 00:17:34:21] a evoluir muito mais o seu processo criativo e ter ideias mais originais também. Beleza?
+[00:17:34:23 --> 00:17:39:11] Saí do lugar comum. E o segundo ponto que eu coloquei aqui para poder ter ideias
+[00:17:39:11 --> 00:17:42:06] melhores é que você faça como as tartarugas.
+[00:17:43:09 --> 00:17:49:03] que faça como as tartarugas. Como assim, é para eu ser mais lento? Não, não tem a ver com ser lento,
+[00:17:49:07 --> 00:17:55:11] não. Na verdade, tem a ver com um processo seletivo muito comum. Essa é a melhor analogia que eu tenho
+[00:17:55:11 --> 00:18:01:00] para te explicar como funciona o processo criativo, tanto de geração quanto de lapidação de ideias.
+[00:18:01:17 --> 00:18:05:14] Existe um animal que eu tenho um apreço muito grande, que são as tartarugas marinhas.
+[00:18:06:02 --> 00:18:15:00] Inclusive, na faculdade, nós tínhamos que criar um animal que nos representava como pessoas.
+[00:18:16:03 --> 00:18:21:24] E o animal que me representou, ele se chamava Oliver e era uma tartaruga marinha.
+[00:18:22:08 --> 00:18:24:17] Deixa eu ver se eu tenho até a imagem para mostrar aqui para vocês.
+[00:18:24:21 --> 00:18:25:27] Acho que eu tenho ela aqui sim.
+[00:18:26:28 --> 00:18:27:21] Deixou vir.
+[00:18:29:11 --> 00:18:34:24] Foi um projeto de faculdade muito massa, mas que está em arquivar publicações.
+[00:18:36:02 --> 00:18:37:21] Vamos ver aqui, vai precisar carregar.
+[00:18:38:02 --> 00:18:40:29] Mas é o animal que eu escolhi como um animal que me representa.
+[00:18:41:02 --> 00:18:43:09] Então, eu tenho um apreço muito grande pelas tartarugas marinhas.
+[00:18:43:19 --> 00:18:46:11] E eu vou explicar para vocês por que eu tenho esse apreço.
+[00:18:47:01 --> 00:18:49:02] Deixa eu só ver se o projeto está aqui que...
+[00:18:49:02 --> 00:18:50:04] Eu acho que vocês vão curtir e ver.
+[00:18:51:17 --> 00:18:52:26] Cadê, cadê, cadê...
+[00:18:53:18 --> 00:18:54:11] Aqui, ó!
+[00:18:55:16 --> 00:18:56:16] Eu modelei!
+[00:18:56:18 --> 00:18:58:08] Eu modelei essa tartaruga aqui.
+[00:18:58:26 --> 00:18:59:21] Deixa eu aumentar o brilho.
+[00:19:01:01 --> 00:19:03:07] Eu modelei ela em biscoito e ficou muito legal.
+[00:19:03:13 --> 00:19:05:19] Ah, na verdade eu tenho que diminuir o brilho, né, pangó.
+[00:19:11:17 --> 00:19:13:20] Acho que não está dando para ver direito, infelizmente.
+[00:19:15:00 --> 00:19:17:07] Eu devia ter colocado na apresentação, mas tudo bem.
+[00:19:17:18 --> 00:19:18:24] Então, eu fiz essa...
+[00:19:19:26 --> 00:19:21:14] Essa tartarugue é chamada Oliver.
+[00:19:22:02 --> 00:19:25:24] E qual é o processo que me inspirou, qual é a analogia que eu tenho?
+[00:19:26:00 --> 00:19:27:03] A analogia é a seguinte.
+[00:19:27:22 --> 00:19:34:10] As tartarugas marinhas são muito vulneráveis, porque elas possuem muitos predadores.
+[00:19:34:28 --> 00:19:42:01] Só que, mesmo com muitos predadores, elas conseguem viver 300 anos e ainda ser jovens.
+[00:19:42:04 --> 00:19:43:15] Quem pegar a referência aí...
+[00:19:43:15 --> 00:19:44:19] Não, é 150, né?
+[00:19:45:15 --> 00:19:48:04] 150 anos e ainda ser jovens.
+[00:19:48:04 --> 00:19:52:04] quem pegou a referência manda no chat aí. Então, as tartarugas marinhas já vivem por
+[00:19:52:04 --> 00:19:57:10] muito tempo, mas elas são muito vulneráveis. Os tubarões comem elas e desde que elas
+[00:19:57:10 --> 00:20:01:25] nascem elas já começam a corrida pela vida. Então, o que as tartarugas marinhas fazem?
+[00:20:01:27 --> 00:20:07:06] Elas botam muitos ovos no período de temporada. E não só botam muitos ovos, como botam
+[00:20:07:06 --> 00:20:12:27] todas juntas ao mesmo tempo. Então, várias tartarugas fêmeas vão para a praia e botam
+[00:20:12:27 --> 00:20:17:01] cada tartaruga em média 100 ovos, botam no buraco, enterram esses ovos e vão
+[00:20:17:01 --> 00:20:22:07] ir embora. É triste porque as tartarugas nunca conhecem seus filhos como filhos, né?
+[00:20:22:08 --> 00:20:27:13] Mas elas têm essa responsabilidade, a natureza é linda, né? Em todo período elas vão
+[00:20:27:13 --> 00:20:32:20] lá na praia, sempre com consistência, já tá no DNA delas, o jeito delas de existir,
+[00:20:32:25 --> 00:20:36:16] de sobreviver, de se reproduzir. E cada tartaruga bota 100 ovos.
+[00:20:37:20 --> 00:20:42:11] E aí eu vi uma estatística que me deixou muito intrigado.
+[00:20:43:03 --> 00:20:48:28] Eu descobri que, em média, a cada mil tartarugas, apenas duas chegam na fase adulta.
+[00:20:49:02 --> 00:20:52:21] A cada mil tartarugas, apenas duas conseguem chegar na fase adulta.
+[00:20:53:00 --> 00:20:55:17] E é por isso que elas botam muitos ovos.
+[00:20:56:00 --> 00:20:59:00] São centenas de ovos botados na praia.
+[00:20:59:22 --> 00:21:05:25] E logo que as tartaruguinhas nascem, mais da metade já morre na praia.
+[00:21:05:25 --> 00:21:11:22] não chega nem na água. Porque, quando as tartarugas marinhas vão sair, muitas vezes,
+[00:21:11:26 --> 00:21:18:00] as gaivotas e outros animais já estão esperando por elas na praia. É por isso que é incrível,
+[00:21:18:12 --> 00:21:23:17] não nasce só uma tartaruginha. Elas nascem todas de uma vez. Parece que elas conversam,
+[00:21:23:19 --> 00:21:27:23] criam um grupo no WhatsApp, sabe, para organizar o grande evento. E quando chega a hora fala,
+[00:21:27:28 --> 00:21:32:10] é agora, galera! Todo mundo vê lá no grupo e todo mundo sai. Então todas as tartaruguinhas
+[00:21:32:10 --> 00:21:38:08] e já vão correndo para a praia. E aí começa o massacre triste, a selvagem da natureza.
+[00:21:38:16 --> 00:21:42:19] As gaivotas já vão comendo, já vão comendo, e elas correndo pela vida, tentando sobreviver.
+[00:21:43:05 --> 00:21:47:26] E algumas chegam lá, outras não. Mas, Juan, o que isso tem a ver com criatividade no final?
+[00:21:49:10 --> 00:21:53:25] O processo criativo, se você quer ter boas ideias e quer lapidar boas ideias,
+[00:21:54:01 --> 00:21:57:02] chegar em ideias que são realmente fortes, tem base,
+[00:21:57:18 --> 00:21:59:12] você vai precisar seguir esse mesmo processo.
+[00:21:59:19 --> 00:22:00:02] Quer o quê?
+[00:22:00:17 --> 00:22:04:08] Gerar uma grande quantidade de ideias, muitas delas ruins,
+[00:22:04:22 --> 00:22:06:25] no início a quantidade vale mais que a qualidade.
+[00:22:07:06 --> 00:22:09:21] A qualidade vem no processo de lapidação,
+[00:22:09:29 --> 00:22:13:23] mas antes desse processo de lapidação, existe o processo de geração de alternativas.
+[00:22:14:04 --> 00:22:16:18] Então, é como se você botasse vários ovos,
+[00:22:16:18 --> 00:22:22:04] para que alguns deles sobrevivam e cheguem até a fase adulta.
+[00:22:22:08 --> 00:22:27:03] Então, o processo criativo é como o processo da própria natureza, de reprodução.
+[00:22:27:12 --> 00:22:29:24] Você reproduz muitas ideias...
+[00:22:29:24 --> 00:22:32:09] Inclusive, eu tive um professor que falava exatamente isso.
+[00:22:32:10 --> 00:22:36:19] Ele falava que criatividade é você colocar as ideias para fazerem sexo.
+[00:22:36:20 --> 00:22:37:29] Ele falava literalmente isso.
+[00:22:38:07 --> 00:22:40:15] Coloque as ideias para se reproduzir e faz muito sentido.
+[00:22:40:25 --> 00:22:44:15] Você pega duas ideias e elas geram uma nova terceira ideia,
+[00:22:44:15 --> 00:22:47:16] que depois gera outro, que gera outro, que gera outro infinitamente.
+[00:22:47:20 --> 00:22:49:04] Então, sim, ideias se reproduzem.
+[00:22:49:16 --> 00:22:54:19] E o processo é basicamente isso, você reproduzir as ideias e depois lapidar aquelas ideias.
+[00:22:54:22 --> 00:22:57:04] Então, acontece um processo seletivo.
+[00:22:57:19 --> 00:23:01:27] E isso explica muito bem por que a geração de alternativas é importante
+[00:23:01:27 --> 00:23:06:06] e por que a criatividade é um processo de reprodução de ideias.
+[00:23:06:16 --> 00:23:10:05] Ainda assim, eu sei que algumas pessoas vão ficar resistentes, vão pensar assim,
+[00:23:10:05 --> 00:23:13:13] Não, mas para que? Se eu tenho uma ideia boa, se a minha primeira, segunda, terceira
+[00:23:13:13 --> 00:23:17:14] ideia já é boa, para que que eu vou gerar outras? Por uma questão de sobrevivência
+[00:23:17:14 --> 00:23:22:06] das ideias. Como é que você sabe que uma ideia é boa? Muita gente acredita na intuição,
+[00:23:22:17 --> 00:23:27:17] e é legal, às vezes a sua intuição acerta. Mas eu não gosto de confiar apenas na intuição,
+[00:23:27:22 --> 00:23:32:08] eu gosto de validar as minhas ideias. E como que você valida uma ideia? Sabendo
+[00:23:32:08 --> 00:23:35:25] que você não consegue chegar em outra ideia melhor do que aquela, naquele momento,
+[00:23:35:25 --> 00:23:37:12] com aquele escopo, naquele projeto.
+[00:23:37:25 --> 00:23:39:22] Então, você gera mais possibilidades...
+[00:23:39:22 --> 00:23:41:05] Às vezes, a sua primeira ideia foi boa.
+[00:23:41:28 --> 00:23:44:02] Mas você gera mais possibilidades
+[00:23:44:02 --> 00:23:46:21] para fazer com que essas ideias lutem entre si.
+[00:23:46:22 --> 00:23:49:11] Inclusive, a gente chama esse processo de rinha de ideias.
+[00:23:49:22 --> 00:23:51:16] Você faz as ideias lutarem entre si.
+[00:23:51:17 --> 00:23:52:14] Essa ideia é melhor que essa?
+[00:23:52:22 --> 00:23:54:01] Quais são os pontos positivos dessas?
+[00:23:54:04 --> 00:23:55:03] Quais são os pontos positivos dessas?
+[00:23:55:10 --> 00:23:56:11] Por que essa é melhor do que essa?
+[00:23:56:18 --> 00:23:58:13] Isso vai te dando, inclusive, argumentos
+[00:23:58:13 --> 00:23:59:14] para explicar para o seu cliente
+[00:23:59:14 --> 00:24:01:21] porque aquela é a melhor opção para o logo dele.
+[00:24:02:01 --> 00:24:04:08] Então, você coloca uma ideia para poder lutar com a outra.
+[00:24:04:08 --> 00:24:08:13] Depois, também, a gente tem um outro processo que eu chamo de bullying das ideias,
+[00:24:08:20 --> 00:24:11:04] que você vai praticar bullying com as ideias que você cria.
+[00:24:11:08 --> 00:24:15:10] Então, você vai procurar defeito nela, você vai zoar a sua ideia o máximo que você puder
+[00:24:15:10 --> 00:24:18:20] para encontrar pontos negativos que talvez você não estava enxergando
+[00:24:18:20 --> 00:24:23:01] lá atrás quando você estava apaixonadinho ou apaixonadinha pela sua primeira ideia.
+[00:24:23:06 --> 00:24:24:16] A primeira ideia é perfeita.
+[00:24:24:27 --> 00:24:25:13] É mesmo?
+[00:24:26:08 --> 00:24:30:19] Você só acha que ela é perfeita porque você não conheceu outras ideias que podem ser melhores.
+[00:24:30:26 --> 00:24:33:29] Talvez ela seja perfeita mesmo, mas você vai precisar validar ela.
+[00:24:33:29 --> 00:24:39:18] E é por isso que o processo de geração de alternativas é, sim, muito valioso nesse
+[00:24:39:18 --> 00:24:40:00] processo.
+[00:24:40:06 --> 00:24:43:02] Então, guarde o exemplo das tartarugas marinhas.
+[00:24:43:17 --> 00:24:48:24] Gerar alternativa não é perda de tempo, é o processo de validação das ideias.
+[00:24:48:28 --> 00:24:53:14] Você sabe que uma ideia é boa quando você coloca ela à prova com outras ideias.
+[00:24:53:24 --> 00:24:55:05] E aí a gente começa a entender, então.
+[00:24:56:24 --> 00:24:59:27] que de fato, gerar alternativas é importante.
+[00:25:00:07 --> 00:25:04:21] Não é só uma questão de tentar chegar numa ideia melhor
+[00:25:04:21 --> 00:25:08:21] por puramente achar que você ainda não tem a ideia.
+[00:25:08:28 --> 00:25:09:12] Muita gente fala,
+[00:25:09:15 --> 00:25:11:23] por que eu vou gerar 50, 100 alternativas
+[00:25:11:23 --> 00:25:13:08] se as minhas primeiras são boas?
+[00:25:13:09 --> 00:25:14:11] Porque você quer validar.
+[00:25:14:14 --> 00:25:15:17] Eu sei que eu estou repetindo,
+[00:25:15:23 --> 00:25:17:16] mas isso é de propósito, didaticamente,
+[00:25:17:18 --> 00:25:19:14] para que essa ideia fique-se na sua cabeça
+[00:25:19:14 --> 00:25:23:02] e para que você, pelo menos, questione a importância que isso tem, tá?
+[00:25:23:09 --> 00:25:24:12] Não é à toa.
+[00:25:24:12 --> 00:25:29:04] E aí agora eu quero apresentar para vocês uma metodologia que começou a ser disseminada
+[00:25:29:04 --> 00:25:34:17] em 2005, começou a ficar muito famosa em 2005 e é uma metodologia criada pelo Conselho
+[00:25:34:17 --> 00:25:38:08] Britânico de Design, ou seja, o Conselho do Reino Unido de Design.
+[00:25:38:18 --> 00:25:42:14] Eu já apresentei essa metodologia nos rios, já apresentei ela em alguns outros vídeos
+[00:25:42:14 --> 00:25:45:08] e o nome dela é Double Diamond.
+[00:25:45:14 --> 00:25:49:15] Você pode pesquisar sobre ela depois, mas o Double Diamond é a metodologia que
+[00:25:49:15 --> 00:25:52:12] explica como funciona o processo criativo eficiente.
+[00:25:52:12 --> 00:25:58:01] Ela é clara, ela é simples e você pode aplicar isso não só para criar logotipos, mas para
+[00:25:58:01 --> 00:26:00:22] qualquer coisa criativa que você vai fazer.
+[00:26:01:11 --> 00:26:07:20] Paleta de cor, tipografia, grafismo, produto, ambiente, moda, jogos, qualquer solução
+[00:26:07:20 --> 00:26:11:12] criativa você pode aplicar a metodologia do Double Diamond para chegar a uma ideia
+[00:26:11:12 --> 00:26:11:28] eficiente.
+[00:26:12:09 --> 00:26:16:11] Isso aqui é muito utilizado, por exemplo, para poder construir modelos de startup, tá?
+[00:26:16:17 --> 00:26:17:12] Para você ter uma ideia.
+[00:26:17:21 --> 00:26:19:05] Então, o Double Diamond.
+[00:26:19:09 --> 00:26:20:09] E por que ele tem esse nome?
+[00:26:20:09 --> 00:26:23:08] porque basicamente é como se fossem dois diamantes.
+[00:26:23:15 --> 00:26:26:14] São quatro etapas diferentes e dois diamantes.
+[00:26:27:15 --> 00:26:29:27] Geralmente, eles representam as etapas aqui dentro.
+[00:26:30:12 --> 00:26:35:20] Então, aqui é descobrir, aqui é definir, aqui é desenvolver e aqui é entregar, tá?
+[00:26:35:24 --> 00:26:38:12] Eu já notei que não adianta eu colocar só a primeira letra,
+[00:26:38:18 --> 00:26:39:26] porque três aqui usam D.
+[00:26:40:14 --> 00:26:43:18] Então, eles dividem em quatro partes aqui, mais ou menos assim...
+[00:26:45:02 --> 00:26:47:00] dois... Opa, pera aí que eu estou no mouse.
+[00:26:47:20 --> 00:26:50:07] Dois, três e quatro, beleza?
+[00:26:50:21 --> 00:26:51:24] Quatro etapas.
+[00:26:51:29 --> 00:26:53:14] E a gente vai entender melhor cada uma delas.
+[00:26:53:16 --> 00:26:56:02] Então, a primeira etapa é a etapa da descoberta.
+[00:26:56:03 --> 00:26:57:00] Você vai descobrir.
+[00:26:57:14 --> 00:26:59:16] Repare esse movimento aqui do meu mouse, olha.
+[00:26:59:29 --> 00:27:01:15] Repare essa seta que eu estou gerando aqui.
+[00:27:02:08 --> 00:27:06:19] A etapa de descoberta é uma etapa de geração de alternativas.
+[00:27:07:00 --> 00:27:10:25] Então, descobrir significa gerar alternativas.
+[00:27:10:25 --> 00:27:16:13] você pode analisar isso tanto do ponto de vista de coletar informações, quanto do ponto
+[00:27:16:13 --> 00:27:22:24] de vista de gerar várias alternativas diferentes. Então, olha só, gera muitas alternativas,
+[00:27:23:16 --> 00:27:29:02] essa é a primeira etapa. Depois que você gerou muitas alternativas, você vai para
+[00:27:29:02 --> 00:27:35:28] a etapa de definição, repara o movimento, então você vai selecionar, definir é selecionar.
+[00:27:35:28 --> 00:27:41:03] Então, você vai cortar, a maioria das ideias são ruins, mas tem algumas delas aqui que
+[00:27:41:03 --> 00:27:43:19] se destacam, vamos colocar aqui uma corzinha.
+[00:27:44:05 --> 00:27:47:08] Então, algumas dessas ideias se destacam.
+[00:27:47:17 --> 00:27:54:12] Você vai pegar essas ideias que se destacaram e vai definir como caminhos possíveis.
+[00:27:55:01 --> 00:28:00:14] Depois que você definiu esses caminhos possíveis, você vai desenvolver essas
+[00:28:00:14 --> 00:28:01:01] ideias.
+[00:28:01:01 --> 00:28:07:05] E agora, na etapa de desenvolvimento, você vai pegar cada uma dessas ideias e gerar mais
+[00:28:07:05 --> 00:28:08:06] alternativas para elas.
+[00:28:08:12 --> 00:28:10:18] Então, vamos fazer um negócio aqui para ficar interessante, né?
+[00:28:10:26 --> 00:28:18:03] A gente tem um quadrado, a gente tem um triângulo e um círculo, beleza?
+[00:28:18:13 --> 00:28:19:12] Então, você vai fazer o quê?
+[00:28:19:17 --> 00:28:22:05] Você vai gerar outros caminhos para essa mesma ideia.
+[00:28:22:08 --> 00:28:26:03] Você vai começar a lapidar ela melhor, qual as possibilidades que eu tenho aqui?
+[00:28:26:14 --> 00:28:30:05] Vai fazer isso com essas aqui também e vai fazer isso com essas aqui também.
+[00:28:31:03 --> 00:28:36:26] Então, você vai desenvolver mais as ideias que você selecionou como boas opções.
+[00:28:37:11 --> 00:28:38:24] Geralmente, o que os designers fazem?
+[00:28:38:27 --> 00:28:41:04] Gastam pouquíssimo tempo aqui na descoberta,
+[00:28:41:10 --> 00:28:42:08] pegam uma ideia legal,
+[00:28:42:23 --> 00:28:44:16] já dão uma trabalhadinha nela,
+[00:28:44:19 --> 00:28:46:20] um pouquinho assim e já vai para o final.
+[00:28:46:24 --> 00:28:48:17] Eu recomendo vocês terem um processo parecido com esse,
+[00:28:48:18 --> 00:28:51:25] vocês terem mais de um caminho possível que faça sentido.
+[00:28:52:08 --> 00:28:53:10] E aí, por fim,
+[00:28:53:27 --> 00:28:56:14] você vai para a parte da entrega.
+[00:28:56:23 --> 00:28:58:04] O que é a parte da entrega?
+[00:28:58:07 --> 00:29:00:16] É quando você vai escolher a melhor opção.
+[00:29:00:28 --> 00:29:03:20] Então, de todas essas aqui, qual que é a melhor opção?
+[00:29:05:16 --> 00:29:10:04] Aqui está como entrega, então você vai escolher a melhor opção, criar uma apresentação
+[00:29:10:04 --> 00:29:11:10] e entregar para o cliente.
+[00:29:11:15 --> 00:29:15:17] Mas a gente pode pegar esse mesmo processo aqui e levar ele para o processo de criação
+[00:29:15:17 --> 00:29:16:11] de logotipos.
+[00:29:16:20 --> 00:29:17:20] Então, olha só como é que funciona.
+[00:29:18:06 --> 00:29:21:03] Eu vou inclusive fazer uma coisa aqui para a gente poupar tempo, beleza?
+[00:29:21:26 --> 00:29:22:22] Deixa eu ver aqui...
+[00:29:24:03 --> 00:29:29:28] Pega aqui, tira aqui, tira aqui e aqui. Aí, beleza.
+[00:29:31:13 --> 00:29:37:20] Então, olha só, funciona da mesma maneira, você gera alternativas, depois você seleciona
+[00:29:37:20 --> 00:29:43:05] as boas alternativas, então você desenvolve elas e lapida na versão final.
+[00:29:43:22 --> 00:29:49:23] Aqui na etapa de lapidação, que acontece, na verdade aqui e na outra, acontece o bullying
+[00:29:50:13 --> 00:29:51:11] e acontece a rinha.
+[00:29:53:03 --> 00:29:56:09] Beleza? Então você tem dois momentos de bullying e de rinha.
+[00:29:56:25 --> 00:29:59:04] Então é a rinha de ideias e o bullying com as ideias,
+[00:29:59:08 --> 00:30:01:18] para chegar na melhor opção, aquela que faz mais sentido.
+[00:30:01:27 --> 00:30:04:15] Você vai colocar ela à prova. Beleza?
+[00:30:04:19 --> 00:30:07:11] O processo basicamente é esse.
+[00:30:07:20 --> 00:30:12:00] Se for necessário, você torna esse projeto aqui um triple diamond
+[00:30:12:00 --> 00:30:14:27] ou um quadra diamond, vai seguindo adiante.
+[00:30:15:05 --> 00:30:18:19] Mas geralmente aqui, double diamond já vai ser o suficiente.
+[00:30:19:00 --> 00:30:19:28] Sabe o que é mais legal?
+[00:30:19:28 --> 00:30:23:08] esse é o mesmo processo para, por exemplo, criar nomes.
+[00:30:23:13 --> 00:30:25:24] Vocês vão ver aqui, eu vou mostrar para vocês como que eu cheguei no nome?
+[00:30:26:02 --> 00:30:26:15] Overlens.
+[00:30:26:27 --> 00:30:28:18] Por que esse nome venceu no final?
+[00:30:29:16 --> 00:30:33:28] E eu usei esse mesmo processo aqui, essa mesma metodologia, esses quatro passos.
+[00:30:34:02 --> 00:30:37:21] Porque isso aqui apresenta da melhor maneira como funciona o processo criativo.
+[00:30:38:06 --> 00:30:40:28] É uma conexão de várias ideias para chegar a uma ideia final.
+[00:30:41:07 --> 00:30:43:12] Se você quer livros para entender isso um pouco melhor,
+[00:30:43:14 --> 00:30:45:23] se você quer um embasamento mais teórico e científico disso,
+[00:30:46:03 --> 00:30:48:29] tem um livro que chama De Onde Vem as Boas Ideias, do Steven Johnson.
+[00:30:48:29 --> 00:30:52:23] é um livro que fala muito sobre isso. Tem outro livro que se chama Como o Cérebro Cria,
+[00:30:53:00 --> 00:30:56:18] também excelente, fala bastante sobre isso. Eu recomendo você ir atrás desses livros,
+[00:30:56:23 --> 00:31:01:18] que vai te ajudar bastante a entender como funciona o nosso processo criativo e a nossa
+[00:31:01:18 --> 00:31:06:17] mente. Fechou? Então, vamos tomar uma água aqui, dar uma pausa. Alguém tem uma
+[00:31:06:17 --> 00:31:09:12] dúvida até aqui? Porque é bastante conteúdo, né?
+[00:31:12:02 --> 00:31:16:08] Ou seja, essa opção que sobrou para lapidar é a tartaruga que sobreviveu.
+[00:31:16:17 --> 00:31:17:13] Exatamente, né?
+[00:31:18:09 --> 00:31:18:27] Literalmente.
+[00:31:21:10 --> 00:31:24:06] Isso realmente funciona para outras áreas criativas, exato.
+[00:31:25:10 --> 00:31:29:00] mas é desgastante sozinho, geralmente é mais fácil em equipes maiores. Boa!
+[00:31:29:02 --> 00:31:33:10] Quando você tem pessoas para colaborar, é bem interessante, vai ajudar muito.
+[00:31:33:22 --> 00:31:38:07] Mas se você não tiver pessoas para colaborar, ainda assim é possível, muito possível
+[00:31:38:07 --> 00:31:41:28] fazer isso sozinho. Se você tem muita informação, é mais fácil. Se você tem
+[00:31:41:28 --> 00:31:45:14] pouca informação, realmente vai ser desgastante. Beleza?
+[00:31:45:28 --> 00:31:46:29] É importante falar isso.
+[00:31:47:20 --> 00:31:51:16] Acho que se o briefing for direcional, mais de uma opção é possível conseguir
+[00:31:51:16 --> 00:31:57:03] fazer. O briefing, eu não acho que ele tem que ser direcional, porque direcional é como
+[00:31:57:03 --> 00:32:00:19] se vocês já tivessem a ideia pronta no início. Não existe isso, a ideia não está pronta
+[00:32:00:19 --> 00:32:04:27] no início. Você tem ali possibilidades no início. Podem ser possibilidades eficientes
+[00:32:04:27 --> 00:32:09:02] e pode ser que uma dessas possibilidades cheguem no final, mas ainda são possibilidades.
+[00:32:09:05 --> 00:32:13:22] Você precisa passar esse processo para poder lapidar, para poder...
+[00:32:14:21 --> 00:32:19:08] construir essa ideia e ver que ela de fato faz sentido ou não, tá?
+[00:32:20:01 --> 00:32:22:00] Como que foca com esse chat rolando?
+[00:32:22:12 --> 00:32:24:12] Galera falando ali da transa de ideias.
+[00:32:25:20 --> 00:32:27:28] Eu estava vendo o processo de criação do logo do Airbnb,
+[00:32:28:01 --> 00:32:30:25] são muitas pessoas juntas, cada uma criando centenas e centenas de logo.
+[00:32:30:28 --> 00:32:31:18] Putz, é sensacional.
+[00:32:32:01 --> 00:32:34:03] Exato, isso aqui galera que eu estou mostrando para vocês
+[00:32:34:03 --> 00:32:38:04] é o processo profissional de design, tá?
+[00:32:38:13 --> 00:32:41:16] Às vezes eu mostro esses conteúdos no Instagram
+[00:32:41:16 --> 00:32:44:18] e quem está começando às vezes acha que não é assim, né?
+[00:32:44:21 --> 00:32:49:10] Tem muita gente que está começando e não entende muito do mercado e acaba criticando,
+[00:32:49:13 --> 00:32:52:09] falando, não faça dito nenhum, é perda de tempo, é porque essas pessoas não entendem,
+[00:32:52:11 --> 00:32:53:18] vocês agora entendem.
+[00:32:53:22 --> 00:32:58:25] Podem analisar, grandes empresas de design, grandes escritórios e designers profissionais
+[00:32:58:25 --> 00:33:04:04] costumam trabalhar desse jeito, porque é seguro, é eficiente e valida de fato
+[00:33:04:04 --> 00:33:04:22] a sua ideia.
+[00:33:05:16 --> 00:33:07:16] Você tem confiança no que você está fazendo.
+[00:33:07:25 --> 00:33:11:29] Tem uma série na Netflix que se chama Abstract, e na série Abstract tem lá
+[00:33:11:29 --> 00:33:18:15] episódio da criação da marca do Instagram, o Redesign. E lá na criação, no Redesign,
+[00:33:18:18 --> 00:33:23:01] eles mostram quantas versões do logo eles criaram, quantos testes eles fizeram. Esse
+[00:33:23:01 --> 00:33:29:06] é o processo mais sólido para trabalhar com o design. No mercado de moda é assim,
+[00:33:29:07 --> 00:33:34:09] você cria mood boards, você faz vários mood boards, mapas mentais, listas, conceitos
+[00:33:34:09 --> 00:33:38:19] diferentes para que você saiba que aquela ideia é a ideia certa. Isso te deixa
+[00:33:38:19 --> 00:33:43:13] muito mais confiante para apresentá-lo e falar, esse é o melhor caminho, ok?
+[00:33:44:07 --> 00:33:45:29] Então, é importante falar sobre isso.
+[00:33:46:22 --> 00:33:47:00] Show.
+[00:33:47:09 --> 00:33:48:21] Bora continuar aqui então.
+[00:33:49:00 --> 00:33:50:05] Então, até aqui está tudo bem.
+[00:33:50:09 --> 00:33:53:11] Nós entendemos a metodologia, entendemos como o nosso cérebro funciona.
+[00:33:53:22 --> 00:33:57:14] Agora eu vou mostrar para vocês na prática como que eu utilizei essa metodologia
+[00:33:57:14 --> 00:34:02:10] para poder criar o nome da Overlens e para poder criar o logo da Overlens.
+[00:34:02:13 --> 00:34:07:09] Então, a gente entrou agora na etapa de processo criativo da Overlens, só reforçando
+[00:34:07:09 --> 00:34:13:01] Então, nós vamos analisar a overlens porque houve uma enquete e dessa enquete, 52 pessoas,
+[00:34:13:15 --> 00:34:16:00] foram se eu não me engano, 240 pessoas votaram.
+[00:34:16:11 --> 00:34:21:28] E 52% votou para apresentar aqui esse processo na marca da overlens ao invés de um processo
+[00:34:21:28 --> 00:34:22:16] fictício.
+[00:34:22:25 --> 00:34:25:28] Então, é isso que nós vamos fazer aqui agora, mas se você queria muito ver um
+[00:34:25:28 --> 00:34:28:28] processo fictício, eu vou te dar essa possibilidade aqui também ainda hoje.
+[00:34:29:07 --> 00:34:29:15] Beleza?
+[00:34:29:15 --> 00:34:33:28] Eu vou te mostrar um jeito de você me ver criando uma marca fictícia.
+[00:34:34:12 --> 00:34:34:27] Beleza?
+[00:34:35:04 --> 00:34:35:27] Então, vamos lá.
+[00:34:35:27 --> 00:34:40:28] Primeira coisa, primeira parte, desenvolver o conceito do projeto.
+[00:34:41:13 --> 00:34:45:27] E aqui, basicamente, duas coisas importantes, ferramentas que eu utilizei, mapa mental,
+[00:34:46:09 --> 00:34:50:25] mood board, lista, desk research, hã, o que é desk research?
+[00:34:51:10 --> 00:34:57:13] Desk research é a pesquisa de escritório, é você e seu computador, google, bing,
+[00:34:57:17 --> 00:35:03:23] chatgpt, youtube, livro, você faz a pesquisa de escritório, é você com você mesmo,
+[00:35:03:26 --> 00:35:04:00] tá?
+[00:35:04:00 --> 00:35:10:04] um termo chique para chamar isso, muita gente chama de Desk Research, como se fosse a pesquisa
+[00:35:10:04 --> 00:35:12:09] de mesa, você lá na mesa trabalhando.
+[00:35:12:13 --> 00:35:12:24] Fechou?
+[00:35:12:28 --> 00:35:14:14] Então, essas foram as ferramentas que eu usei.
+[00:35:14:15 --> 00:35:18:21] Mapa mental, mood board, lista, desk research e matéria-prima, isso aqui é importante,
+[00:35:18:24 --> 00:35:22:08] olha só, todas as etapas da metodologia antes de começar a criar.
+[00:35:22:24 --> 00:35:26:26] Briefing, investigação, estratégia e núcleo da marca.
+[00:35:27:03 --> 00:35:31:14] Eu passei por todas essas etapas e eu vou mostrar um pouquinho disso aqui para
+[00:35:31:14 --> 00:35:32:09] vocês, tá?
+[00:35:32:25 --> 00:35:37:24] todo esse processo aqui me ajudou a chegar na parte de criação
+[00:35:37:24 --> 00:35:39:21] muito mais preparado.
+[00:35:39:28 --> 00:35:42:01] Vocês vão ver, parece até que eu já tinha a ideia.
+[00:35:42:23 --> 00:35:45:05] Parece até que a ideia já estava na minha cabeça o tempo inteiro.
+[00:35:45:17 --> 00:35:48:15] Mas não foi, isso foi sendo construído com todos esses documentos,
+[00:35:48:22 --> 00:35:49:22] com toda essa informação.
+[00:35:50:09 --> 00:35:53:20] Eu fui conectando as ideias para chegar nesse conceito final, tá?
+[00:35:53:28 --> 00:35:55:01] Então, guarda aí, olha.
+[00:35:55:04 --> 00:35:57:11] Matéria-prima é a informação que eu colotei no briefing,
+[00:35:57:15 --> 00:35:59:04] na investigação, na estratégia núcleo da marca.
+[00:35:59:14 --> 00:36:01:29] Lembrando que tem várias etapas dentro da investigação,
+[00:36:01:29 --> 00:36:06:26] dentro da estratégia e dentro do núcleo da marca. Presentei um pouquinho disso. Opa,
+[00:36:07:00 --> 00:36:11:02] tô dando spoiler, tô dando spoiler, volto. Presentei um pouquinho disso pra vocês aqui.
+[00:36:12:10 --> 00:36:13:13] Deca, deca, deca!
+[00:36:14:20 --> 00:36:18:16] Mostrei alguns pontos aqui, eu passei por todo esse processo
+[00:36:18:16 --> 00:36:20:12] e isso facilitou muito.
+[00:36:20:26 --> 00:36:21:09] Beleza?
+[00:36:21:26 --> 00:36:22:12] Então, vamos lá.
+[00:36:22:18 --> 00:36:26:16] Vamos falar um pouco de como eu comecei a fazer esse processo.
+[00:36:26:19 --> 00:36:27:23] Eu vou passar para aqui.
+[00:36:28:08 --> 00:36:28:23] Beleza?
+[00:36:29:09 --> 00:36:31:04] Estou dando spoiler, não é para dar spoiler?
+[00:36:33:12 --> 00:36:34:28] Como é que sai? Meu Deus.
+[00:36:35:27 --> 00:36:37:28] Dei mais spoiler. A gente vai chegar nisso aí depois.
+[00:36:39:04 --> 00:36:40:15] Eu quero falar desse aqui agora.
+[00:36:41:24 --> 00:36:44:19] Então, eu criei um briefing da marca...
+[00:36:44:19 --> 00:36:47:22] Ao vivo é assim, galera, não tem jeito, mas enfim...
+[00:36:48:19 --> 00:36:50:10] Tomaram spoiler aí do desafio.
+[00:36:50:17 --> 00:36:52:01] Se eu fosse você, eu deixava isso para lá.
+[00:36:52:02 --> 00:36:54:13] Daqui a pouco a gente vai ter um tempo para falar do desafio.
+[00:36:54:13 --> 00:36:56:06] Eu vou explicar tudo aquilo lá para vocês.
+[00:36:56:18 --> 00:36:58:08] Mas vamos aqui para os documentos.
+[00:36:58:16 --> 00:37:00:18] Então, isso aqui já está até avançado.
+[00:37:00:19 --> 00:37:03:01] Deixa eu pegar o primeiro documento aqui para vocês.
+[00:37:03:22 --> 00:37:05:09] Eu vou abrir esses documentos ao vivo.
+[00:37:05:10 --> 00:37:06:24] Isso aqui é material extra.
+[00:37:06:25 --> 00:37:08:07] Eu não tinha planejado fazer isso,
+[00:37:08:16 --> 00:37:11:00] mas eu acredito que vai enriquecer muito o processo de vocês,
+[00:37:11:00 --> 00:37:13:28] para vocês verem na prática como é que foi essa construção.
+[00:37:14:09 --> 00:37:15:19] Então, deixa eu pegar aqui...
+[00:37:16:12 --> 00:37:17:22] Cadê o Overlens?
+[00:37:19:08 --> 00:37:21:28] design, pesquisa, beleza.
+[00:37:23:13 --> 00:37:26:13] Fiz lá a auditoria do...
+[00:37:27:00 --> 00:37:28:24] Fiz a auditoria do...
+[00:37:29:28 --> 00:37:30:20] do negócio.
+[00:37:31:07 --> 00:37:33:00] Vou colocar aqui na tela para vocês.
+[00:37:33:24 --> 00:37:35:10] Modelo de negócio, é a auditoria do negócio.
+[00:37:36:01 --> 00:37:39:04] Então, respondi aqui várias informações relevantes.
+[00:37:39:13 --> 00:37:40:06] Vocês vão notar aí.
+[00:37:40:12 --> 00:37:42:07] Isso aqui já tem um tempo, inclusive, tá?
+[00:37:42:25 --> 00:37:45:11] Então, pode ser que tem algumas coisas desatualizadas, mas vamos lá.
+[00:37:45:19 --> 00:37:46:12] Fiz o resumo.
+[00:37:46:19 --> 00:37:49:05] Ó, usei o BMC, Business Model Canvas,
+[00:37:49:10 --> 00:37:51:06] proposta de valor, segmento de cliente, canal,
+[00:37:51:15 --> 00:37:52:27] relacionamento, fonte de receita,
+[00:37:53:04 --> 00:37:54:16] recursos principais, atividade chave,
+[00:37:54:20 --> 00:37:56:10] parceria principal, estrutura de custo.
+[00:37:56:22 --> 00:37:59:02] Então, comecei a colocar aqui os segmentos de clientes,
+[00:37:59:02 --> 00:38:01:18] Iniciantes, estudantes, profissionais de design...
+[00:38:01:18 --> 00:38:03:15] Olha só, busquei as informações mesmo.
+[00:38:03:19 --> 00:38:05:10] Eu fiz pesquisa, fiz o dever de casa.
+[00:38:07:14 --> 00:38:09:07] Profissionais, funcionários, proposta de valor,
+[00:38:09:10 --> 00:38:12:16] qual é a proposta de valor da escola, isso aqui é um modelo de negócio.
+[00:38:13:00 --> 00:38:14:29] Qual necessidade nós satisfazemos,
+[00:38:15:09 --> 00:38:17:28] qual é o nosso conjunto de produtos e serviços para cada segmento,
+[00:38:17:29 --> 00:38:19:03] depois vocês vão poder acompanhar,
+[00:38:19:05 --> 00:38:21:03] que eu estou abrindo o documento todo para vocês.
+[00:38:22:00 --> 00:38:24:26] Então, produtos e serviços, isso aqui naquela época existiam
+[00:38:24:26 --> 00:38:28:04] vários produtos e serviços, arquivo aberto, slingshot, oficina, gestalt,
+[00:38:28:09 --> 00:38:30:07] portfolaria, skyliner, arquivo aberto...
+[00:38:30:28 --> 00:38:32:16] Vários desses aqui ainda não existem.
+[00:38:33:08 --> 00:38:36:02] Hoje, a gente tem um modelo de negócio mais profundo do que esse,
+[00:38:36:02 --> 00:38:40:11] mas esse eu não vou mostrar porque estrategicamente não compensa mostrar isso agora para vocês.
+[00:38:41:02 --> 00:38:45:14] Os canais, olha, pontuei quais são os canais de contato com vocês.
+[00:38:45:18 --> 00:38:49:04] Isso aqui é sobre nós e vocês. Sobre a escola e vocês, tá?
+[00:38:49:19 --> 00:38:52:11] Então, as cinco fases de consciência, pontuei tudo, olha.
+[00:38:52:26 --> 00:38:54:22] Tudo pontuado. Olha o tamanho desse documento.
+[00:38:55:05 --> 00:38:56:27] Nossa, Juan, mas você tinha tempo para fazer isso?
+[00:38:57:00 --> 00:39:01:24] Realmente, nem sempre você vai ter tanto tempo para criar um documento tão aprofundado assim, tá?
+[00:39:01:25 --> 00:39:03:22] E dá para ser ainda mais aprofundado que esse,
+[00:39:03:22 --> 00:39:08:13] Mas esse documento me deu clareza que quem que já produzia conteúdo,
+[00:39:09:01 --> 00:39:12:14] então comecei a analisar o mercado, estrutura de custo...
+[00:39:12:14 --> 00:39:14:25] Tudo isso aqui bem analisado.
+[00:39:15:11 --> 00:39:16:29] Abrindo aqui os dados para vocês.
+[00:39:17:09 --> 00:39:20:28] Fiz uma análise SWOT de ameaças, fraquezas, oportunidades e forças...
+[00:39:22:08 --> 00:39:26:19] Coloquei aqui, abri o jogo sobre o que é o nosso modelo de negócio.
+[00:39:26:27 --> 00:39:29:00] Aqui eu estava pensando racionalmente como um negócio.
+[00:39:29:12 --> 00:39:31:24] Você tem que fazer isso aqui para o seu cliente, junto com ele.
+[00:39:32:05 --> 00:39:33:28] E aí, qual é a minha recomendação para você?
+[00:39:34:05 --> 00:39:36:24] Eu vou abrir aqui de novo o spoiler, mas vamos lá.
+[00:39:37:27 --> 00:39:40:13] Business, Model, Campus.
+[00:39:41:12 --> 00:39:42:00] Busca isso aqui.
+[00:39:42:25 --> 00:39:46:03] Você pode utilizar esses quadrantes, fazer as perguntas certas.
+[00:39:46:16 --> 00:39:47:29] Eu fiz um Rio sobre isso também.
+[00:39:49:08 --> 00:39:52:25] instagram.com barra overlens.design
+[00:39:55:28 --> 00:40:02:20] Vocês vão descer aqui e vão encontrar esse rules aqui, Business Model Canvas.
+[00:40:03:03 --> 00:40:05:26] Aqui eu explico um pouco melhor sobre essa metodologia, tá?
+[00:40:06:12 --> 00:40:10:08] Tudo eu estou entregando para vocês de maneira gratuita, aproveita aí, beleza?
+[00:40:11:01 --> 00:40:15:17] Então, vocês podem utilizar o BMC para enterar as informações sobre o modelo de
+[00:40:15:17 --> 00:40:16:21] negócio do seu cliente.
+[00:40:16:26 --> 00:40:21:23] Depois eu fiz a auditoria de stakeholder, auditoria de mercado, benchmark de comunicação.
+[00:40:21:27 --> 00:40:24:06] Deixa eu abrir o benchmark de comunicação para vocês também.
+[00:40:24:06 --> 00:40:30:21] Eu comecei a analisar marcas que se comunicam bem com os designers, então olha só, deixa
+[00:40:30:21 --> 00:40:31:22] eu pegar aqui...
+[00:40:34:23 --> 00:40:39:08] Benchmark de comunicação, marcas que se comunicam bem com os designers, então eu fiz
+[00:40:39:08 --> 00:40:44:05] uma análise da comunicação da Adobe, as palavras-chave que eles mais utilizam, o jeito
+[00:40:44:05 --> 00:40:46:21] que eles comunicam, o tom de voz dele, eu analisei.
+[00:40:46:25 --> 00:40:50:14] Depois eu fiz isso da Adobe, isso aqui é o que a gente chama de benchmark de comunicação,
+[00:40:51:08 --> 00:40:53:22] analisando as melhores práticas de comunicação no mercado.
+[00:40:53:24 --> 00:40:57:05] Não precisa ser um concorrente, a Adobe não é concorrente da Alverlense, mas
+[00:40:57:05 --> 00:41:01:21] ela é uma marca que conversa bem com o meu público, que é o público da escola.
+[00:41:01:21 --> 00:41:08:13] Então, analisei. Depois da Adobe, analisei esse blog aqui, 99U, que é mais sobre carreira.
+[00:41:09:07 --> 00:41:16:01] Analisei a Pantone, analisei a série Abstract, peguei frases aqui icônicas que marcaram
+[00:41:16:01 --> 00:41:20:13] muitos designers. Então, o tom de voz de novo. Apple, que é uma marca que conversa
+[00:41:20:13 --> 00:41:25:17] bem com os designers. Google. E por aí vai, tá vendo? Fiz uma análise de comunicação
+[00:41:25:17 --> 00:41:30:11] dessas marcas. Ted Talks. The Footer, que é uma americana, uma escola americana
+[00:41:30:11 --> 00:41:31:04] muito famosa.
+[00:41:32:08 --> 00:41:38:04] e por aí vai. Então, eu analisei marcas que conversam muito bem com os designers. Olha
+[00:41:38:04 --> 00:41:41:11] só quanta informação eu estou pegando. Isso aqui vai ser muito útil para mim lá
+[00:41:41:11 --> 00:41:47:22] na frente, muito útil para construir uma marca forte, uma ideia interessante. Tem outros
+[00:41:47:22 --> 00:41:51:06] documentos aqui, mas eu não vou estender muito. Fiz a análise de mercado também,
+[00:41:51:17 --> 00:41:59:19] análise de público e por aí vai. Depois disso, eu entro na etapa de estratégia.
+[00:41:59:19 --> 00:42:03:02] Então, eu preciso decidir qual é a estratégia da overlens.
+[00:42:03:21 --> 00:42:06:09] E aí, eu começo definindo qual é o porquê da overlens,
+[00:42:06:17 --> 00:42:07:26] qual é a missão, visão e valores.
+[00:42:08:07 --> 00:42:10:20] Isso é muito conhecido no mercado como círculo dourado.
+[00:42:10:27 --> 00:42:13:17] O criador dessa metodologia se chama Simon Sinek.
+[00:42:14:00 --> 00:42:17:00] Você consegue encontrar, inclusive, um TED Talk dele que ele fala um pouco sobre isso.
+[00:42:17:09 --> 00:42:19:04] Então, eu aplico essa metodologia aqui...
+[00:42:19:04 --> 00:42:22:08] Deixa eu ir fechando os outros, só para eu não ficar perdido.
+[00:42:23:00 --> 00:42:24:19] Então, pera aí. Beleza.
+[00:42:24:27 --> 00:42:26:00] Então, é o círculo dourado.
+[00:42:26:00 --> 00:42:29:26] Então, eu começo a analisar aqui a sensação de pertencimento.
+[00:42:29:29 --> 00:42:32:06] Nós precisamos construir isso, é importante para a nossa escola.
+[00:42:32:08 --> 00:42:34:20] Nós acreditamos no pertencimento na comunidade.
+[00:42:35:12 --> 00:42:38:00] Nós começamos a pensar nos valores que são importantes para a gente.
+[00:42:38:03 --> 00:42:40:14] Então, nós construímos todos os valores da Overlens.
+[00:42:40:19 --> 00:42:44:29] Inclusive, você encontra cada um desses valores lá na seção de regras da comunidade.
+[00:42:45:02 --> 00:42:46:20] Inclusive, uma explicação deles.
+[00:42:47:06 --> 00:42:49:02] E de porque eles são importantes para a gente.
+[00:42:49:10 --> 00:42:51:25] Isso aqui é sobre a maneira, é o como.
+[00:42:52:00 --> 00:42:53:27] Como a Overlens faz tudo o que ela faz.
+[00:42:53:27 --> 00:42:57:09] Então, são pontos importantes para a gente, confiança.
+[00:42:57:11 --> 00:43:00:10] Nós queremos que exista uma relação de confiança
+[00:43:00:10 --> 00:43:03:09] tanto de nós com vocês quanto de vocês com a gente.
+[00:43:03:15 --> 00:43:04:23] Então, começa a construir tudo isso.
+[00:43:05:15 --> 00:43:05:29] Estratégia.
+[00:43:06:01 --> 00:43:09:24] Qualquer estratégia que nós vamos utilizar também para trabalhar.
+[00:43:09:28 --> 00:43:11:21] Isso, inclusive, não são palavras minhas, né?
+[00:43:11:27 --> 00:43:12:21] Retardatário, meu Deus.
+[00:43:13:00 --> 00:43:14:08] Não, isso aqui é uma metodologia
+[00:43:14:08 --> 00:43:16:07] e esse é o termo mesmo que é utilizado.
+[00:43:16:26 --> 00:43:18:12] Criamos o nosso porquê, então.
+[00:43:19:00 --> 00:43:22:18] Inspirar os designers a iluminar as ideias que tornam o mundo melhor.
+[00:43:22:18 --> 00:43:24:23] a impulsionar as ideias que tornam o mundo melhor.
+[00:43:24:28 --> 00:43:27:03] Estávamos testando ali, essa aqui foi a opção final.
+[00:43:27:26 --> 00:43:29:24] Inspirar os designers a impulsionar boas ideias
+[00:43:29:24 --> 00:43:31:07] para que juntos tornemos o mundo melhor.
+[00:43:31:22 --> 00:43:33:15] Isso está na base da nossa comunicação.
+[00:43:33:24 --> 00:43:36:18] Se você notar, se você assistir, por exemplo, olha só...
+[00:43:36:18 --> 00:43:37:07] Deixa eu voltar aqui.
+[00:43:38:18 --> 00:43:42:25] Depois eu recomendo vocês virem aqui no nosso Instagram, se vocês quiserem se aprofundar
+[00:43:42:25 --> 00:43:48:05] mais e entender a nossa comunicação, assista esses três vídeos aqui ó, esses três vídeos
+[00:43:48:05 --> 00:43:48:16] aqui.
+[00:43:48:24 --> 00:43:52:16] Você vai ver o nosso tom de voz, a nossa comunicação e como que isso tudo foi pensado
+[00:43:52:28 --> 00:43:54:14] estratégicamente, isso é muito importante, tá?
+[00:43:55:22 --> 00:43:58:00] Então, definimos o nosso porquê.
+[00:43:58:26 --> 00:44:00:22] Espera aí que eu me perdi aqui. Volta.
+[00:44:02:11 --> 00:44:05:12] os nossos como's, que são os nossos valores...
+[00:44:05:12 --> 00:44:06:23] Explicamos cada um deles.
+[00:44:07:07 --> 00:44:09:24] Então, não é só falar qual é o valor, é explicar esse valor.
+[00:44:10:03 --> 00:44:11:08] Aqui é um trabalho extenso.
+[00:44:11:09 --> 00:44:13:00] Estou mostrando para vocês de maneira profissional.
+[00:44:13:02 --> 00:44:16:06] Quando você tem menos tempo, você faz isso de maneira mais sucinta.
+[00:44:17:13 --> 00:44:19:23] E os nossos o quê's? O que nós fazemos?
+[00:44:20:09 --> 00:44:21:12] Então, pontuamos tudo isso aqui.
+[00:44:21:13 --> 00:44:24:07] Olha o tanto de documento que eu estou apresentando para vocês.
+[00:44:24:09 --> 00:44:25:25] Depois, vai assistindo aí, dando pausa.
+[00:44:25:27 --> 00:44:28:00] Se você quiser ler, você pode fazer isso.
+[00:44:28:16 --> 00:44:30:29] Lembrando que isso aqui foi feito em 2020.
+[00:44:31:13 --> 00:44:34:16] Foi feito em 2021 para 2022, tá?
+[00:44:35:05 --> 00:44:37:19] Então, pode ser que tem algumas coisas que nós mudamos aqui também.
+[00:44:38:07 --> 00:44:39:21] E isso aqui é um documento interno.
+[00:44:39:24 --> 00:44:40:21] Vale eu lembrar isso para vocês?
+[00:44:40:22 --> 00:44:43:29] Eu estou abrindo um documento interno aqui, então pode ter erro de português, erro
+[00:44:43:29 --> 00:44:46:11] de interpretação, leve isso em consideração, tá?
+[00:44:46:15 --> 00:44:50:22] É um documento interno, isso aqui não é um documento externo para a nossa comunicação,
+[00:44:50:26 --> 00:44:54:11] não é um documento lapidado, é o processo criativo para chegar na ideia.
+[00:44:54:12 --> 00:44:57:08] Então, podem conter erros, podem conter coisas que não são exatamente como
+[00:44:57:08 --> 00:45:00:28] são hoje, mas foi o processo criativo que nós seguimos, beleza?
+[00:45:00:28 --> 00:45:07:19] Depois, nós tivemos aqui várias etapas, vou ver se consigo mostrar essa pastinha aqui
+[00:45:07:19 --> 00:45:10:27] para vocês, que fica mais fácil vocês terem uma visão geral.
+[00:45:12:00 --> 00:45:16:04] porque senão a gente vai ficar muito tempo aqui, só mostrando...
+[00:45:17:17 --> 00:45:19:00] Só mostrando...
+[00:45:20:16 --> 00:45:21:03] Cadê?
+[00:45:21:12 --> 00:45:23:07] Inward Chrome Explorer.
+[00:45:23:18 --> 00:45:26:02] Boa! Então, olha só essa partinha aqui que é interessante.
+[00:45:26:24 --> 00:45:29:10] Aqui vocês vão conseguir ver todos esses documentos.
+[00:45:29:13 --> 00:45:30:22] São documentos com muita informação.
+[00:45:30:27 --> 00:45:33:01] Então, roteiro da marca, posicionamento...
+[00:45:33:01 --> 00:45:35:19] Aqui, alguns detalhes estratégicos sobre o naming.
+[00:45:36:11 --> 00:45:38:21] Linguagem, aferição de sucesso, briefing da marca,
+[00:45:39:01 --> 00:45:42:13] identidade do comunicador e posicionamento aqui, como fazer.
+[00:45:42:22 --> 00:45:44:19] Foi uma estrutura que eu criei para posicionar o Verlanx.
+[00:45:45:06 --> 00:45:46:24] Ah, abre cada um desses documentos.
+[00:45:46:24 --> 00:45:49:10] Se eu ficar aqui, nós vamos ficar umas meia hora só abrindo isso
+[00:45:49:10 --> 00:45:50:16] e não é eficiente para a aula.
+[00:45:50:20 --> 00:45:51:27] De verdade mesmo, eu poderia.
+[00:45:52:07 --> 00:45:53:25] Para quem quiser ver isso aqui,
+[00:45:54:00 --> 00:45:56:15] essa metodologia aplicada com muita profundidade mesmo,
+[00:45:56:19 --> 00:45:58:02] eu recomendo assinar o Verlan.
+[00:45:58:06 --> 00:46:00:28] Se não é querendo vender nada para vocês,
+[00:46:01:05 --> 00:46:02:07] é um convite mesmo.
+[00:46:02:17 --> 00:46:04:14] Quer saber isso aqui com muita profundidade?
+[00:46:04:22 --> 00:46:07:01] Os membros já têm isso aqui de coisa tchau,
+[00:46:07:05 --> 00:46:08:09] já viram essa metodologia
+[00:46:09:00 --> 00:46:10:05] e eles entendem muito bem.
+[00:46:10:10 --> 00:46:12:02] Mas aqui é uma visão geral para você.
+[00:46:12:09 --> 00:46:14:09] Eu vou abrir essa aferição de sucesso aqui.
+[00:46:14:28 --> 00:46:16:01] Que aferição de sucesso?
+[00:46:16:01 --> 00:46:17:27] Esse briefing da marca aqui.
+[00:46:18:01 --> 00:46:21:19] Vou abrir ele porque ele é um resumo que eu recomendo vocês terem no final.
+[00:46:22:15 --> 00:46:24:01] Então, o que tem ali no briefing da marca?
+[00:46:24:05 --> 00:46:24:24] O que acompanha comigo?
+[00:46:25:01 --> 00:46:25:25] Proposta de valor.
+[00:46:26:07 --> 00:46:29:00] Entregar aos designers o poder de impulsionar boas ideias.
+[00:46:29:10 --> 00:46:30:00] Mercado-alvo.
+[00:46:30:06 --> 00:46:32:16] Designers, gráficos, iniciantes, estudantes e profissionais.
+[00:46:33:10 --> 00:46:33:23] Atributos.
+[00:46:34:08 --> 00:46:37:15] Aqui, na verdade, hoje eu chamarei isso aqui de valores, não atributos.
+[00:46:37:17 --> 00:46:39:29] Os atributos são as virtudes que entra depois eu vou mostrar.
+[00:46:40:04 --> 00:46:40:27] São essas aqui, olha.
+[00:46:41:09 --> 00:46:42:10] São as virtudes da marca.
+[00:46:42:19 --> 00:46:44:09] Vou mostrar um documento legal aqui para vocês.
+[00:46:44:27 --> 00:46:49:27] Mas, vei, realização, simplicidade, criatividade, maestria, história, são os 10 mandamentos
+[00:46:49:27 --> 00:46:51:09] da Alverlense, como se fosse, tá?
+[00:46:51:28 --> 00:46:56:19] Os arquétipos, então criador, mago e mais tarde entrou outro aqui, que é o sábio.
+[00:46:56:24 --> 00:47:01:18] Então, a Alverlense tem 3 arquétipos, sábio, mago e criador.
+[00:47:01:29 --> 00:47:05:01] Ah, não sei nada de arquétipo, Ron, tô no começo, tô entendendo nada, tá
+[00:47:05:01 --> 00:47:05:24] confuso isso pra mim.
+[00:47:06:05 --> 00:47:10:03] Entenda isso como um mergulho que pode tirar um pouco do seu ar agora, mas você
+[00:47:10:03 --> 00:47:11:15] tá explorando um novo mundo.
+[00:47:11:16 --> 00:47:12:13] É só Atlantis.
+[00:47:12:13 --> 00:47:14:27] Você está descobrindo uma nova civilização aqui.
+[00:47:15:05 --> 00:47:19:15] É muita coisa para você agora, mas só continua comigo que vai fazer muito sentido para você.
+[00:47:19:18 --> 00:47:20:14] É um universo novo.
+[00:47:20:22 --> 00:47:25:12] Eu tenho uma aluna que fala assim, inclusive, eu falei com ela que eu ia começar a usar
+[00:47:25:12 --> 00:47:26:01] essa analogia dela.
+[00:47:26:01 --> 00:47:31:10] Ela fala assim, cara, cada aula dessa é uma nárnia diferente.
+[00:47:31:24 --> 00:47:33:26] É como se ela estivesse entrando em uma nova nárnia.
+[00:47:34:08 --> 00:47:35:12] Cada aula é uma nárnia.
+[00:47:35:25 --> 00:47:37:15] E eu achei legal, isso é basicamente isso mesmo.
+[00:47:37:16 --> 00:47:39:25] Então é muita coisa nova, mas só continuar acompanhando.
+[00:47:41:03 --> 00:47:43:20] Então, tem aqui o propósito de inspirar e preparar os designers
+[00:47:43:20 --> 00:47:45:00] que querem fazer a diferença no mundo.
+[00:47:45:03 --> 00:47:47:14] Parece presunçoso fazer a diferença no mundo,
+[00:47:47:20 --> 00:47:49:27] mas quem conhece a Overlens entende o que isso quer dizer.
+[00:47:50:23 --> 00:47:52:26] Vantagem competitiva, nosso método e a nossa visão,
+[00:47:52:27 --> 00:47:55:23] que realmente é diferente do que a gente vê no mercado.
+[00:47:56:06 --> 00:48:00:03] E quem são os stakeholders, pessoas envolvidas com a marca?
+[00:48:00:11 --> 00:48:03:06] Então, designers, nossa equipe, influenciadores, instituições,
+[00:48:03:12 --> 00:48:04:27] universidades, escolas, empreendedores
+[00:48:04:27 --> 00:48:06:26] são os principais envolvidos aqui com a Overlens.
+[00:48:06:28 --> 00:48:08:04] Então, isso aqui é um resuminho
+[00:48:08:04 --> 00:48:14:09] para ter uma visão clara do que é a overlens de uma forma mais estratégica, tá? Sobre
+[00:48:14:09 --> 00:48:18:01] as virtudes, que muita gente chama no mercado de valores.
+[00:48:19:26 --> 00:48:24:03] Esse documento aqui, ele tem só um resumo.
+[00:48:25:07 --> 00:48:30:27] que aqui embaixo você encontra. Valores, curiosa, idealista, inspiradora, criativa e animada.
+[00:48:31:09 --> 00:48:34:09] Mas as virtudes buscam encontrar um meio termo, né?
+[00:48:34:20 --> 00:48:39:19] E aí a gente tem um documento aqui, deixa eu ver se eu encontro ele aqui para vocês...
+[00:48:41:10 --> 00:48:42:20] que mostram as virtudes.
+[00:48:42:26 --> 00:48:44:09] E eu recomendo pelo menos isso.
+[00:48:45:16 --> 00:48:46:27] se você vai criar uma...
+[00:48:48:20 --> 00:48:49:12] uma marca.
+[00:48:50:18 --> 00:48:52:07] Poxa, só tem no Illustrator?
+[00:48:52:27 --> 00:48:54:02] Vamos abrir no Illustrator então.
+[00:48:55:12 --> 00:49:01:07] Então, vamos voltar para cá. Olha só que interessante. Então, a gente busca o equilíbrio,
+[00:49:01:12 --> 00:49:07:01] nem a falta, nem o excesso. Eu chamo de virtudes porque esse conceito filosófico já é tratado
+[00:49:07:01 --> 00:49:11:27] desde a Grécia Antiga. Aristóteles falou muito sobre a virtude, sobre o equilíbrio.
+[00:49:12:00 --> 00:49:15:19] Isso faz muito sentido da gente aplicar aqui. Então, eu pego as virtudes da Overlens.
+[00:49:15:28 --> 00:49:21:04] Criativa, inspiradora, curiosa, sonhadora e animada. E aí eu tenho os excessos,
+[00:49:21:04 --> 00:49:24:18] que é leviana, excesso de criatividade, excesso de inspiração,
+[00:49:24:25 --> 00:49:27:16] excesso de curiosidade, excesso de sonho e excesso de animada.
+[00:49:28:00 --> 00:49:30:11] E aí eu entendo, ao mesmo tempo que eu entendo,
+[00:49:30:21 --> 00:49:32:00] o que a marca é...
+[00:49:33:00 --> 00:49:39:04] Aqui, tendo que a marca é. Eu também tendo que a marca não é. E isso aqui te dá um
+[00:49:39:04 --> 00:49:43:28] direcionamento muito grande. Eu sei que eu não posso levar a marca para esses caminhos.
+[00:49:44:06 --> 00:49:47:03] São caminhos perigosos que eu quero evitar.
+[00:49:48:14 --> 00:49:50:21] Olha só, todo esse processo está me dando o quê?
+[00:49:51:13 --> 00:49:51:27] Informação.
+[00:49:52:12 --> 00:49:55:05] Agora, eu vou começar a mostrar para vocês o processo criativo.
+[00:49:55:18 --> 00:49:59:21] E vocês vão ver que várias informações que eu coleto ali, elas já fazem parte dessa
+[00:49:59:21 --> 00:50:04:11] investigação e dessa estratégia, dessa definição de qual caminho eu vou seguir
+[00:50:04:11 --> 00:50:05:02] para essa marca.
+[00:50:05:08 --> 00:50:09:29] Se você tem isso bem construído, fica muito mais fácil trabalhar todo o restante.
+[00:50:10:09 --> 00:50:14:06] E você vai reparar, você já deve ter notado, que um briefing é insuficiente.
+[00:50:14:06 --> 00:50:20:05] Um briefing é incapaz de te dar todas essas informações, porque muitas dessas informações
+[00:50:20:05 --> 00:50:24:20] você precisa ir atrás, você vai precisar pesquisar, beleza?
+[00:50:25:05 --> 00:50:29:05] Galera falando ali, e eu achando complexo combinar as tipografias em uma identidade
+[00:50:29:05 --> 00:50:29:17] visual.
+[00:50:29:28 --> 00:50:30:21] Contém ironia.
+[00:50:30:21 --> 00:50:31:09] Ahahahah!
+[00:50:32:09 --> 00:50:36:00] Galera falando que está deprê, não fiquem deprê, confiem e continuem aqui comigo.
+[00:50:36:08 --> 00:50:39:27] Nós não vamos, inclusive, precisar fazer tudo isso para o desafio, tá?
+[00:50:40:10 --> 00:50:42:11] Tudo isso que eu estou mostrando para vocês é extra.
+[00:50:42:15 --> 00:50:47:15] Estou mostrando para vocês terem uma escala de o quão profissional vocês podem ser,
+[00:50:47:21 --> 00:50:50:28] o quão profissional, o quanto vocês podem se desenvolver,
+[00:50:51:01 --> 00:50:52:03] o quanto dá para aprender.
+[00:50:52:13 --> 00:50:57:16] Esse foi o meu objetivo mostrando toda essa informação, todos esses documentos, tá?
+[00:50:57:24 --> 00:51:01:14] Mas nós não vamos precisar deles só para criar o logotipo aqui para o desafio.
+[00:51:01:14 --> 00:51:06:18] Mas eu quero mostrar pra vocês como um profissional trabalha, pra que vocês vejam onde vocês
+[00:51:06:18 --> 00:51:07:07] podem chegar.
+[00:51:07:25 --> 00:51:08:10] Beleza?
+[00:51:08:26 --> 00:51:11:12] Pessoal, esse é um projeto de 15, 20 mil.
+[00:51:11:23 --> 00:51:14:12] Vocês não precisam implementar tudo isso de uma vez, vão estudar, né?
+[00:51:14:12 --> 00:51:14:26] Exatamente.
+[00:51:14:28 --> 00:51:17:09] O Anderson falou ali a real.
+[00:51:18:07 --> 00:51:20:21] Fui jantar e perdi muita coisa, vou ter que rever depois.
+[00:51:21:08 --> 00:51:22:21] É, com certeza, robers.
+[00:51:23:16 --> 00:51:27:07] Tô até suando aqui, não sou não galera, relaxa, relaxa.
+[00:51:27:14 --> 00:51:28:08] Dá uma respirada aí.
+[00:51:30:07 --> 00:51:36:07] Briefing e Branding. Por que americanizar tudo? Deus me freak. Isso realmente é algo muito
+[00:51:36:07 --> 00:51:41:18] comum no nosso mercado, tá? Deixa a coisa um pouco mais atraente muitas vezes, né?
+[00:51:43:21 --> 00:51:48:21] Mas, a grande parte do tempo a gente faz isso por costume e o mercado acaba adotando esses
+[00:51:48:21 --> 00:51:50:04] termos que nós utilizamos.
+[00:51:50:12 --> 00:51:50:28] Beleza?
+[00:51:51:09 --> 00:51:53:00] Então, bora lá, bora continuar aqui.
+[00:51:53:01 --> 00:51:54:00] Isso foi o extra.
+[00:51:54:09 --> 00:51:58:17] Agora, deixa eu mostrar o processo criativo da construção da Overlens.
+[00:51:58:19 --> 00:52:00:13] Então, vamos voltar aqui para o nosso processo.
+[00:52:00:26 --> 00:52:02:25] Então, desenvolver o conceito do projeto.
+[00:52:02:27 --> 00:52:03:25] Voltamos para cá.
+[00:52:04:09 --> 00:52:09:23] Então, vocês perceberam, olha, todas essas etapas que eu segui foram algumas
+[00:52:09:23 --> 00:52:14:19] duas semanas, duas, acho que foram umas duas ou três semanas, buscando essas informações,
+[00:52:14:24 --> 00:52:19:17] tomando essas decisões estratégicas aqui. Peguei matéria-prima. Agora nós vamos ver
+[00:52:19:17 --> 00:52:24:13] as ferramentas que eu utilizei para desenvolver o conceito do projeto. Então eu peguei algumas
+[00:52:24:13 --> 00:52:30:06] fotos que eu tirei na época, de algumas listas, alguns mapas mentais que eu fiz,
+[00:52:30:16 --> 00:52:37:10] inclusive é curioso, olha, aqui tá parecendo pequeno, mas isso aqui é uma folha de A2,
+[00:52:37:10 --> 00:52:40:25] É uma folha A2, é uma folha grandona, uma folha pequena não.
+[00:52:41:23 --> 00:52:45:29] Eu não sei nem se é A2 ou A1, não lembro agora, mas é uma folha bem grande.
+[00:52:46:04 --> 00:52:50:21] Então, eu fui fazendo mapas mentais porque esses mapas mentais te ajudam a encontrar
+[00:52:50:21 --> 00:52:51:06] palavras.
+[00:52:51:17 --> 00:52:55:04] E palavras são conceitos, cada palavra representa um conceito.
+[00:52:55:07 --> 00:52:59:04] Então, quando você vai mapeando essas palavras, você vai organizando as ideias
+[00:52:59:04 --> 00:53:02:06] na sua cabeça e vendo direções possíveis que você tem.
+[00:53:02:21 --> 00:53:06:25] A palavra-chave que eu coloquei ali no centro foi design, era a palavra-chave
+[00:53:06:25 --> 00:53:11:15] desse projeto, é uma escola de design e a palavra mais importante era design, então
+[00:53:11:15 --> 00:53:16:21] eu decidi fazer um mapa mental sobre ela. E eu comecei a trabalhar aqui várias palavras,
+[00:53:17:25 --> 00:53:23:11] reparem que vocês vão ver aqui, olha, deixa eu colocar aqui, Mãe do Design. Então a
+[00:53:23:11 --> 00:53:26:14] gente vai pensar, o que Mãe do Design tem a ver com o design? Onde que a minha
+[00:53:26:14 --> 00:53:30:11] cabeça estava ali? Só eu sei, porque eu estava no meu processo de mapeamento, eu
+[00:53:30:11 --> 00:53:34:04] estou mapeando a minha mente, a minha interpretação. E aí eu recomendo que você
+[00:53:34:04 --> 00:53:38:22] faça isso também, é um processo de externalizar. Se você vai trabalhar colaborativamente com
+[00:53:38:22 --> 00:53:43:01] outras pessoas, cada uma faz seu próprio mapa mental e vocês vão fazer vários mapas
+[00:53:43:01 --> 00:53:47:21] mentais com palavras-chaves. Também criei listas importantes, vocês vão notar aqui,
+[00:53:48:04 --> 00:53:52:06] então vocabulário, tem lá percepção, portfólio, clareza, fundamentos, formas,
+[00:53:52:10 --> 00:53:55:22] cores, composição, mensagem, repertório, criatividade, harmonia, preguinância, ruídos,
+[00:53:55:25 --> 00:54:00:07] serifa, briefing, contesta, empatia, mundo real, mundo ideal, exploração... Vamos
+[00:54:00:07 --> 00:54:05:01] eu comecei a listar palavras-chave importante para esse projeto. Isso aqui tudo é um processo
+[00:54:05:01 --> 00:54:09:18] de organização da mente. Eu estou organizando as minhas ideias. Lembra? Ter boas ideias
+[00:54:09:18 --> 00:54:13:18] é um processo de conectar ideias. Para isso você organiza elas, para entender quais
+[00:54:13:18 --> 00:54:16:26] caminhos são mais eficientes e quais caminhos não. Onde que está fazendo mais sentido
+[00:54:16:26 --> 00:54:22:08] e onde não faz. Então essa imagem representa muito bem isso. Então eu comecei a trabalhar
+[00:54:22:08 --> 00:54:25:19] mapas mentais, listas, fiz vários, isso aqui eu colei na parede mesmo.
+[00:54:25:19 --> 00:54:25:24] tá?
+[00:54:27:03 --> 00:54:28:17] Nessa imagem aqui, dá para ver melhor?
+[00:54:28:28 --> 00:54:34:05] Isso aqui está colado em uma parede e eu olhava para esses conceitos e buscava ali
+[00:54:34:05 --> 00:54:38:04] ideias, caminhos que fossem interessantes para esse projeto, tá?
+[00:54:38:13 --> 00:54:43:16] Depois que eu comecei então a reunir essas palavras-chaves, a reunir esses conceitos,
+[00:54:43:20 --> 00:54:47:08] peguei todas as informações que eu já havia coletado estratégica, eu cheguei
+[00:54:47:08 --> 00:54:49:02] na fase de resumo do conceito.
+[00:54:49:06 --> 00:54:53:04] Então eu precisava definir uma frase, foi ali que eu cheguei, que é o nosso propósito
+[00:54:53:04 --> 00:54:55:24] é inspirar os designers a impulsionarem as boas ideias.
+[00:54:55:24 --> 00:55:00:07] Esse é o propósito da Overlens. Mostrar para vocês que nós vivemos em um mundo feito de
+[00:55:00:07 --> 00:55:04:14] ideias e que nós, designers, temos o poder para impulsionar as boas ideias. Então, esse
+[00:55:04:14 --> 00:55:10:06] foi a essência. E a palavra ideia ganhou força. Então, opa, ideia. Essa é a palavra
+[00:55:10:06 --> 00:55:13:25] que eu mais utilizo, que eu mais falo nas aulas, que eu mais falo nas lives, que
+[00:55:13:25 --> 00:55:18:07] eu mais dou peso. O peso que as ideias têm no mundo que a gente vive. Quando a gente
+[00:55:18:07 --> 00:55:21:28] começa a entender isso, eu tenho palavras-chaves importantes, eu tenho um conceito bem definido,
+[00:55:21:28 --> 00:55:24:19] essas palavras-chave se tornam atributos para a marca.
+[00:55:25:07 --> 00:55:29:27] E aí eu entrei no processo de naming, então primeiro eu precisava chegar no nome da Overlens.
+[00:55:30:05 --> 00:55:33:17] Não tinha nome nenhum, antes eu dava aula já, mas era um abraço.
+[00:55:33:22 --> 00:55:37:02] E eu queria criar uma escola que tivesse um nome, que fosse diferente, que chamasse atenção.
+[00:55:37:19 --> 00:55:40:17] E foi um processo para chegar em Overlens, não foi? Da noite para o dia.
+[00:55:41:05 --> 00:55:44:02] E como é que esse processo funcionou? Cuidado para não se assustarem.
+[00:55:45:12 --> 00:55:48:11] Então eu falo isso brincando com vocês, mas vocês vão ver que interessante.
+[00:55:48:11 --> 00:55:52:14] Então, desenvolveu o nome. Quais foram as ferramentas para desenvolver o nome? Depois
+[00:55:52:14 --> 00:55:57:22] que eu já tinha o conceito bem definido. Eu usei listas, tabelas, dicionários, desk
+[00:55:57:22 --> 00:56:02:26] research e eu coloquei aqui, eu não usei chat GPT, porque na época não tinha, mas
+[00:56:02:26 --> 00:56:06:25] é uma excelente ferramenta que você pode utilizar para desenvolver nomes, tá? Então
+[00:56:06:25 --> 00:56:10:24] ele está aqui mais como uma sugestão. Você pode utilizar ele a seu favor. Na
+[00:56:10:24 --> 00:56:14:12] época que eu criei esse nome, que foi entre 2021 e 2022...
+[00:56:15:10 --> 00:56:18:10] Na verdade, foi em 2022 que eu cheguei no nome final,
+[00:56:18:18 --> 00:56:21:09] antes eu tinha outro nome para a escola, que eu vou apresentar aqui para vocês,
+[00:56:21:25 --> 00:56:25:17] mas eu usei listas, tabelas, dicionários e pesquisa de mesa, pesquisa de escritório.
+[00:56:25:27 --> 00:56:29:19] E minha matéria-prima, de novo, foram todas as informações que eu coletei
+[00:56:29:19 --> 00:56:33:13] e o conceito, o conceito da marca que eu desenvolvi, o resumo dele.
+[00:56:34:16 --> 00:56:37:09] Então, eu precisava dessas informações para ir para o nome.
+[00:56:37:17 --> 00:56:38:29] Senão, eu ia para o nome com nada.
+[00:56:39:07 --> 00:56:41:00] E é aí que muitos designers têm dificuldade,
+[00:56:41:01 --> 00:56:42:18] porque você chega e fala, meu Deus, e agora?
+[00:56:42:27 --> 00:56:44:27] Eu não consigo ter ideias, não estou conseguindo pensar em nada.
+[00:56:45:04 --> 00:56:46:24] Claro, está te faltando matéria-prima,
+[00:56:46:28 --> 00:56:50:01] está te faltando pontas soltas para você conectar.
+[00:56:50:18 --> 00:56:52:10] Olha o tanto de ponta solta que eu tinha,
+[00:56:52:11 --> 00:56:53:21] olha o tanto de informação que eu tinha.
+[00:56:53:21 --> 00:56:56:00] Isso torna o processo muito mais confiável.
+[00:56:56:09 --> 00:56:58:23] E, ainda assim, pode ser que ele seja doloroso.
+[00:56:59:01 --> 00:57:00:05] Ainda assim, pode ser difícil.
+[00:57:00:07 --> 00:57:02:10] Vocês vão ver que para chegar no nome da Overlens não foi fácil,
+[00:57:02:21 --> 00:57:03:21] mesmo tendo informação.
+[00:57:03:21 --> 00:57:05:24] Então, imagina se eu não tivesse, né?
+[00:57:06:04 --> 00:57:09:19] Então o processo é muito importante, confia no processo e vai dar certo.
+[00:57:09:28 --> 00:57:13:00] Eu trouxe aqui uma foto mostrando para vocês alguns dicionários que eu usei.
+[00:57:13:12 --> 00:57:17:13] Então, tem o Hoise aqui, vocabulário, ortográfico da língua portuguesa, dicionário, inglês
+[00:57:17:13 --> 00:57:21:04] português e dicionário de filosofia, porque a filosofia encaixava bem no arquétipo
+[00:57:21:04 --> 00:57:25:21] do sábio, encaixava bem na ideia da overlens, que é trabalhar com mais profundidade.
+[00:57:27:06 --> 00:57:30:06] E o que eu vou falar, que parece absurdo, mas não é.
+[00:57:30:24 --> 00:57:33:25] Eu li, claro, escaneei todos esses dicionários.
+[00:57:34:05 --> 00:57:37:03] Eu tive contato com mais de 30 mil palavras.
+[00:57:37:18 --> 00:57:40:24] Parece absurdo, mas isso foi o quê? Em duas ou três semanas.
+[00:57:40:29 --> 00:57:44:09] Trabalhando ativamente nesse projeto, na parte do nome.
+[00:57:44:23 --> 00:57:46:11] Duas ou três semanas envolvido.
+[00:57:46:18 --> 00:57:50:19] Eu passava o dia lá, pegando as palavras mais interessantes ali
+[00:57:50:19 --> 00:57:52:27] e mapeando elas, listando elas.
+[00:57:53:14 --> 00:57:55:20] Como prova, para vocês verem, olha só.
+[00:57:55:20 --> 00:58:01:16] Foram várias listas como essas aqui. Eu tirei foto de algumas, mas foram várias listas como
+[00:58:01:16 --> 00:58:07:24] essas aqui. Então, em que etapa eu estou aqui agora? Eu estou gerando alternativas. Estou
+[00:58:07:24 --> 00:58:12:12] buscando ali. Algumas palavras são boas, outras são ruins. Vocês podem pausar e ver
+[00:58:12:12 --> 00:58:16:20] depois. Tem muita palavra em ruim. Tem muita palavra que eu não poderia usar como
+[00:58:16:20 --> 00:58:20:22] nome, que eu não iria conseguir registrar. Mas aqui agora não é a hora de lapidar
+[00:58:20:22 --> 00:58:24:20] ideia. Esse é o erro de muitos designers. É a hora de gerar uma ideia atrás da outra.
+[00:58:24:20 --> 00:58:28:23] Porque, às vezes, uma ideia que você não pode usar ainda assim é útil, porque ela
+[00:58:28:23 --> 00:58:30:24] pode te dar outra ideia que você pode utilizar.
+[00:58:31:15 --> 00:58:36:03] Então, aqui você não vai julgar suas ideias, você vai gerar muitas possibilidades, tá?
+[00:58:36:06 --> 00:58:37:19] Deixa eu dar um pause pra beber uma água aqui.
+[00:58:40:26 --> 00:58:48:08] Às vezes eu começo a falar, eu fico agitado, porque realmente é muita coisa, cara.
+[00:58:48:21 --> 00:58:49:16] Muita coisa pra falar.
+[00:58:49:20 --> 00:58:52:10] Aí eu vou agitando, começo a acelerar, minha garganta começa a secar, então vamos
+[00:58:52:10 --> 00:58:52:16] lá ó.
+[00:58:55:03 --> 00:59:02:02] Eu fico querendo adiantar o conteúdo porque ainda falta muita coisa pra mostrar, mas vamos
+[00:59:02:02 --> 00:59:03:07] lá, vocês estão comigo aqui, né?
+[00:59:03:10 --> 00:59:06:13] Quem quiser aprender vai aproveitar, quem não quiser pode ir embora.
+[00:59:09:09 --> 00:59:13:22] Olha só a geração de alternativa, olha como tinha muita alternativa para gerar.
+[00:59:14:00 --> 00:59:19:16] E repara que eu começo a circular algumas palavras, inclusive essa palavra aqui, lenz,
+[00:59:21:09 --> 00:59:22:10] lente, lenz.
+[00:59:22:20 --> 00:59:26:08] Começa a circular uma série de palavras, então depois que eu gerei muita alternativa,
+[00:59:26:19 --> 00:59:31:23] sério, nós geramos mais de 2 mil alternativas, sendo que nós tivemos contato com mais
+[00:59:31:23 --> 00:59:32:27] de 3 mil palavras.
+[00:59:33:07 --> 00:59:38:11] Eu pedi a ajuda aqui da Larissa, Larissa é minha esposa, para trabalhar nesse processo
+[00:59:38:11 --> 00:59:42:05] geração de alternativa para nós irmos mais rápido, tá? Se eu não me engano, o meu
+[00:59:42:05 --> 00:59:46:07] irmão também participou desse processo, eu não tenho certeza. Mas nós geramos muitas
+[00:59:46:07 --> 00:59:47:18] palavras ali. Fomos gerando.
+[00:59:48:24 --> 00:59:49:26] Muitas palavras, tá?
+[00:59:50:17 --> 00:59:52:21] E aí, depois que nós geramos muita alternativa,
+[00:59:53:18 --> 00:59:55:06] nós fomos para o processo de seleção.
+[00:59:55:12 --> 00:59:56:11] Lembra do Double Diamond.
+[00:59:56:19 --> 00:59:58:14] Então, primeiro eu vou expandir,
+[00:59:58:21 --> 00:59:59:23] depois eu vou fechar.
+[00:59:59:29 --> 01:00:00:23] Primeira seleção.
+[01:00:01:06 --> 01:00:03:27] Então, nós começamos a circular palavras interessantes.
+[01:00:04:00 --> 01:00:06:21] Vocês vão notar aí que algumas palavras começam a ser circuladas.
+[01:00:06:29 --> 01:00:09:10] São caminhos interessantes que nós podemos utilizar.
+[01:00:10:12 --> 01:00:15:15] Circulamos, então, várias palavras assim. Eu tirei só essas fotos aqui, mas tem muito
+[01:00:15:15 --> 01:00:19:20] mais folha, tá? Tem mais folha do que essa. Inclusive, tem alguns nomes que nós não
+[01:00:19:20 --> 01:00:24:02] usamos como nome da marca, mas que acabaram sendo usados como nomes de eventos no futuro.
+[01:00:24:05 --> 01:00:29:29] Por exemplo, aqui em cima vocês vão ver aqui, ó, Masterpiece. E tem também um
+[01:00:29:29 --> 01:00:33:25] outro momento que tá escrito Outlines. Aqui, ó, Outline.
+[01:00:35:19 --> 01:00:38:08] Outline e Masterpiece foram dois nomes de eventos.
+[01:00:39:15 --> 01:00:42:27] que já aconteceram. Opa, peraí. Apertei coisa errada, voltei.
+[01:00:43:01 --> 01:00:45:19] Então, são dois nomes de eventos que nós já fizemos.
+[01:00:45:24 --> 01:00:48:15] Então, nós aproveitamos essa lista porque ela faz parte do nosso vocabulário.
+[01:00:48:18 --> 01:00:51:14] São palavras interessantes. Então, olha só que legal.
+[01:00:52:16 --> 01:00:54:25] Passamos esse processo, e aí vem a dúvida agora.
+[01:00:54:26 --> 01:00:57:08] Nossa, Juan, mas isso eu não tenho tempo para fazer tudo isso.
+[01:00:57:14 --> 01:01:02:07] Você vai fazer o processo, só que com menos ideias, menos profundo.
+[01:01:02:28 --> 01:01:05:08] A etapa continua sendo importante.
+[01:01:05:19 --> 01:01:08:17] A profundidade que você dá para essa etapa que muda.
+[01:01:08:26 --> 01:01:11:05] É curioso, porque você pode utilizar essa metodologia
+[01:01:11:05 --> 01:01:14:10] tanto por um projeto de 2, 3, 4, 5 mil reais,
+[01:01:14:25 --> 01:01:17:07] quanto por um projeto de 10, 15, 20 mil reais.
+[01:01:17:13 --> 01:01:18:19] O que muda aqui?
+[01:01:18:26 --> 01:01:22:11] O que muda é que, quando você trabalha um projeto com um escopo maior,
+[01:01:22:11 --> 01:01:28:19] mais prazo, mais investimento, você tem mais tempo e mais recurso para, às vezes, contratar
+[01:01:28:19 --> 01:01:33:17] mais pessoas, ter uma equipe maior ou até mesmo passar mais tempo em determinadas etapas.
+[01:01:33:28 --> 01:01:39:27] Isso que muda, a profundidade, mas a importância das etapas continua ali, continua sendo importante.
+[01:01:40:12 --> 01:01:40:24] Beleza?
+[01:01:40:24 --> 01:01:44:19] E aí vocês vão notar aqui essa palavra aqui, ó. Lens.
+[01:01:47:02 --> 01:01:49:27] Esse foi o primeiro nome que a gente chegou, Lance de Gris.
+[01:01:50:08 --> 01:01:52:16] A Alver Lence já se chamou Lance de Gris por um tempo.
+[01:01:53:26 --> 01:02:00:23] E aí nós aplicamos lá bullying de ideias e tal. E aí o que aconteceu? Em determinado momento eu
+[01:02:00:23 --> 01:02:08:09] encontrei pontos negativos nesse nome. Como por exemplo, erro. Essa palavra no inglês não existe
+[01:02:08:09 --> 01:02:15:22] lense com o E no final. Não existe, é considerado errado o inglês. É um erro da língua. Existe
+[01:02:15:22 --> 01:02:23:13] lens, que é lente no singular, e existe lenses, que são lentes. Agora lense não existe. Isso
+[01:02:23:13 --> 01:02:26:29] começou a me incomodar. Estão praticando bullying de ideias ali e começou a me incomodar.
+[01:02:27:10 --> 01:02:33:02] Só que outra coisa também atrapalhou, que foi a palavra degree. A palavra degree não
+[01:02:33:02 --> 01:02:38:10] poderia ser registrada, porque como nós estamos na classe de educação, a palavra
+[01:02:38:10 --> 01:02:41:28] degree é uma palavra que todos têm acesso e eu não posso ter posse desse nome.
+[01:02:42:09 --> 01:02:48:11] Porque degree significa formação, graduação. Degree vem de grau, tá? Então é tipo
+[01:02:48:11 --> 01:02:53:23] uma espécie de graduação. E eu não poderia utilizar esse termo, registrar esse termo,
+[01:02:54:00 --> 01:02:59:03] ter posse dele como uma escola, no nicho de educação, na classe de educação. Então
+[01:02:59:03 --> 01:03:03:03] isso começou a me incomodar e eu falei, tá, vamos ter que trocar de nome, tem que continuar
+[01:03:03:03 --> 01:03:07:00] o processo. Então nós voltamos atrás, voltamos a analisar as ideias, quais que
+[01:03:07:00 --> 01:03:10:02] são outras ideias possíveis. E aí tinha a ideia de Lens.
+[01:03:11:08 --> 01:03:14:14] E eu queria explorar essa ideia, porque eu já tinha pegado lens degree.
+[01:03:14:25 --> 01:03:16:18] O que é a ideia de lens degree?
+[01:03:17:01 --> 01:03:18:26] É a lente de grau.
+[01:03:19:08 --> 01:03:20:23] Lente de grau.
+[01:03:21:02 --> 01:03:22:12] Nós criamos o conceito,
+[01:03:22:29 --> 01:03:25:13] que inclusive é uma das aulas lá do treinamento,
+[01:03:25:17 --> 01:03:27:07] que se chama o conceito das lentes.
+[01:03:27:25 --> 01:03:32:10] Que todo designer precisa colocar várias lentes dentro de um projeto.
+[01:03:32:19 --> 01:03:35:15] Você colocar a lente do negócio, a lente do seu cliente,
+[01:03:35:20 --> 01:03:37:27] a lente do público, a lente dos fornecedores.
+[01:03:37:27 --> 01:03:42:01] Então, você precisa enxergar aquele projeto de várias perspectivas diferentes.
+[01:03:42:17 --> 01:03:45:29] Ter empatia, vestir o sapato das outras pessoas.
+[01:03:46:14 --> 01:03:50:05] E a palavra lente, ela tem tudo a ver com design, porque lente é visão.
+[01:03:50:23 --> 01:03:53:05] Lente é corrigir distorções, né?
+[01:03:53:05 --> 01:03:57:14] Por exemplo, eu tenho miopia, muita gente não sabe, mas eu tenho 6 graus de miopia,
+[01:03:57:17 --> 01:03:59:00] só que eu uso lente de contato.
+[01:03:59:05 --> 01:04:01:29] E a lente me ajuda a corrigir distorções.
+[01:04:02:16 --> 01:04:07:01] Então, quando você enxerga o mundo por várias perspectivas diferentes, você
+[01:04:07:01 --> 01:04:11:06] que arriste as suas distorções. E não só distorções visuais, mas distorções de pensamento,
+[01:04:11:09 --> 01:04:18:02] crenças, vieses, que te impedem de enxergar o todo, de perceber melhor esse cenário.
+[01:04:18:16 --> 01:04:23:04] E esse é o conceito que é a base da Overlens. E nós tínhamos criado lá, então, lente
+[01:04:23:04 --> 01:04:28:00] de grau, lens degree. Eu queria manter isso, mas não queria usar mais lens degree. Ainda
+[01:04:28:00 --> 01:04:31:24] assim, eu coloquei como objetivo que eu tivesse um nome único, que não fosse composto,
+[01:04:31:25 --> 01:04:36:15] como lens degree. E aí, trabalhando, gerando mais alternativas, lapidando essas ideias,
+[01:04:36:15 --> 01:04:38:10] eu cheguei em Overlens.
+[01:04:38:19 --> 01:04:43:02] Eu lembro que Overlens já era uma ideia que eu já tinha pensado nela,
+[01:04:43:07 --> 01:04:44:11] quando eu pensei em Lens Degree,
+[01:04:45:04 --> 01:04:48:20] mas eu acabei optando por Lens Degree depois que nós fizemos o bullying de ideias,
+[01:04:48:23 --> 01:04:51:13] olha só, o processo todo do Double Diamond e a validação.
+[01:04:51:26 --> 01:04:55:26] Eu vi que não era adequado e nós voltamos atrás e vimos a segunda opção muito boa,
+[01:04:56:04 --> 01:04:58:07] que no caso é muito curiosa,
+[01:04:58:11 --> 01:04:58:21] hoje,
+[01:04:59:07 --> 01:05:01:17] e não sei vocês, coloca no chat aí quem concorda comigo,
+[01:05:01:19 --> 01:05:04:13] mas pra mim Overlens é um nome muito mais forte,
+[01:05:04:13 --> 01:05:06:25] com muito mais potencial do que Lens Degree.
+[01:05:07:16 --> 01:05:09:00] E Overlens significa o quê?
+[01:05:09:10 --> 01:05:14:28] Over é um prefixo no inglês que pode significar tanto algo como excesso, por exemplo, overdose,
+[01:05:15:06 --> 01:05:18:27] excesso de dose, como também pode significar algo como quantidade.
+[01:05:20:11 --> 01:05:24:06] Pode ser tanto excesso de quantidade como excesso de força, por exemplo, overpower,
+[01:05:24:17 --> 01:05:26:02] é tipo super poderoso.
+[01:05:26:17 --> 01:05:30:18] E overlens é uma palavra que não existe no inglês, mas eu tive o cuidado para construir
+[01:05:30:18 --> 01:05:33:05] essa palavra de uma maneira que tenha sentido.
+[01:05:33:23 --> 01:05:39:19] Então, overlens pode significar tanto algo como uma superlente, como também algo como
+[01:05:39:19 --> 01:05:41:28] excesso de lentes, várias lentes diferentes.
+[01:05:42:06 --> 01:05:48:10] Então, o designer precisa passar pelo processo de overlens, de colocar a lente de várias
+[01:05:48:10 --> 01:05:49:20] perspectivas diferentes.
+[01:05:49:20 --> 01:05:54:23] Ao mesmo tempo que nós designers, quando passamos por esse processo de overlens,
+[01:05:55:07 --> 01:06:02:06] nós alcançamos a overlens, que é a superlente, que é a lente capaz de ver várias lentes diferentes.
+[01:06:02:23 --> 01:06:07:14] E aí vocês vão notar que esse conceito, olha como que esse conceito de overlens
+[01:06:07:14 --> 01:06:09:08] me fez chegar na construção do logo.
+[01:06:09:28 --> 01:06:13:25] Eu fui atrás disso, de uma lente suprema. O que seria uma lente suprema?
+[01:06:14:07 --> 01:06:17:02] E aí eu cheguei nesse símbolo aqui, deixa eu mostrar para vocês.
+[01:06:17:19 --> 01:06:18:22] Esse aqui é o olho.
+[01:06:20:09 --> 01:06:21:01] que tudo vê.
+[01:06:24:02 --> 01:06:25:13] Imagens... O olho que tudo vê.
+[01:06:25:17 --> 01:06:26:17] Muita gente fala, pô...
+[01:06:27:06 --> 01:06:29:04] Ah, não está aparecendo para vocês. Um minutinho.
+[01:06:30:27 --> 01:06:35:18] Meu Deus, isso aí é símbolo místico, iluminati, maçônico...
+[01:06:36:06 --> 01:06:40:13] Mas não, esse símbolo vai muito além disso, não é simplesmente isso.
+[01:06:40:24 --> 01:06:44:24] E ao mesmo tempo que pode ser visto como algo negativo,
+[01:06:45:02 --> 01:06:46:15] ele também pode ser visto como algo positivo.
+[01:06:46:17 --> 01:06:49:09] Então, esse aqui é um símbolo antagônico.
+[01:06:49:13 --> 01:06:51:07] Ele possui significados positivos e negativos.
+[01:06:51:15 --> 01:06:54:14] Só que eu não queria trazer essa carga mística para Overlens,
+[01:06:54:16 --> 01:06:55:20] porque esse não é o objetivo.
+[01:06:55:29 --> 01:06:58:06] E eu também não sou uma pessoa muito mística.
+[01:06:58:06 --> 01:07:00:28] Se você me conhece, eu sou bem racional, na verdade.
+[01:07:01:12 --> 01:07:04:03] Então, eu não sou uma pessoa mística, mas tem um conceito muito interessante aí.
+[01:07:04:15 --> 01:07:06:18] Inclusive tem esse símbolo no dólar, né?
+[01:07:06:19 --> 01:07:09:18] E tem várias teorias de conspiração em cima desse símbolo e tal.
+[01:07:10:00 --> 01:07:12:07] Esse símbolo já existe desde o Egito, né?
+[01:07:12:08 --> 01:07:14:01] Tem o olho da providência aqui também.
+[01:07:14:19 --> 01:07:18:15] E basicamente ele é representado tanto assim, que é muito mais místico, né?
+[01:07:18:29 --> 01:07:22:09] Os magos também utilizam, as sociedades de mágicos também utilizam.
+[01:07:23:12 --> 01:07:27:10] Então, ele tem essa áurea mais mística, que por um lado eu acho interessante no design
+[01:07:27:10 --> 01:07:31:27] ter isso, porque o design tem o mundo das ideias, mas eu queria trazer uma coisa mais racional.
+[01:07:32:13 --> 01:07:34:25] Só que, qual que foi a construção que eu fiz aqui?
+[01:07:34:25 --> 01:07:38:09] Eu não queria nada místico, eu não queria nada que remetesse a algo negativo, não
+[01:07:38:09 --> 01:07:40:10] é esse o objetivo, não era isso que eu queria transmitir.
+[01:07:40:24 --> 01:07:43:22] Mas eu queria trazer essa ideia de olho da providência.
+[01:07:45:29 --> 01:07:47:29] Então, vamos pegar a ordem da providência.
+[01:07:49:09 --> 01:07:52:09] Esse é o mais comum. Então, tem um olho em cima de uma pirâmide.
+[01:07:53:07 --> 01:07:54:21] E o que isso aqui representa no final?
+[01:07:54:27 --> 01:07:59:03] Não tem nada demais. Isso aqui já é utilizado por várias civilizações antigas.
+[01:07:59:10 --> 01:08:01:27] Em vários lugares do mundo você encontra coisas parecidas.
+[01:08:02:15 --> 01:08:05:08] E o olho da providência, ele traz a ideia de
+[01:08:05:29 --> 01:08:09:22] uma entidade superior que observa as pessoas. É o olho que tudo vê.
+[01:08:10:06 --> 01:08:14:23] Ele traz tanto o conceito de ter uma visão geral do todo, o olho de Deus, por exemplo.
+[01:08:15:00 --> 01:08:17:21] Deus está nos observando, Deus observa as pessoas.
+[01:08:17:21 --> 01:08:22:09] Deus observa, ele sabe o que você está passando, ao mesmo tempo que tem muitas religiões que
+[01:08:22:09 --> 01:08:28:09] falam que isso é um olhar julgador, muita gente que fala que é um olhar de magia,
+[01:08:28:13 --> 01:08:30:07] de olhar para o futuro, tem vários conceitos.
+[01:08:30:09 --> 01:08:33:13] Mas eu queria trazer um conceito disso aqui, o olho que tudo vê.
+[01:08:34:03 --> 01:08:38:24] Tem um texto do Wilain Flusser, inclusive, se você ver aqui no Instagram, você vai
+[01:08:38:24 --> 01:08:43:00] entender que legal isso, vem cá, o instagram.com.br.
+[01:08:45:21 --> 01:08:48:29] Assiste esse aqui, esse vídeo aqui, muito massa.
+[01:08:49:02 --> 01:08:50:24] Você vai entender por que desse conceito.
+[01:08:50:29 --> 01:08:52:21] Depois dá uma assistida, beleza?
+[01:08:53:00 --> 01:08:56:09] Na verdade, deixa eu ver se eu consigo fazer uma coisa interessante com vocês.
+[01:08:57:08 --> 01:08:57:24] Deixa eu ver aqui.
+[01:08:57:29 --> 01:08:59:12] Vou habilitar meu áudio.
+[01:09:00:07 --> 01:09:00:29] Será que dá para ouvir?
+[01:09:04:17 --> 01:09:10:04] A capacidade de olhar através do tempo, em direção à eternidade.
+[01:09:12:16 --> 01:09:19:04] No passado, as pessoas iam para o alto das montanhas mesopotâmicas, olhavam em direção
+[01:09:19:04 --> 01:09:23:17] à nascente dos rios e podiam prever secas e inundações.
+[01:09:24:25 --> 01:09:30:11] Depois, traçavam linhas em plaquetas de argila para representar os canais que deveriam ser
+[01:09:30:11 --> 01:09:31:19] cavados futuramente.
+[01:09:32:16 --> 01:09:39:15] Naquele tempo, essas pessoas eram consideradas profetas, mas hoje em dia, seria preferível
+[01:09:39:15 --> 01:09:41:12] chamá-las de designers.
+[01:09:44:13 --> 01:09:47:15] Se as chamadas leis naturais são uma invenção nossa,
+[01:09:48:12 --> 01:09:53:21] por que será que o Eufrates e os foguetes se orientam precisamente de acordo com elas,
+[01:09:53:27 --> 01:09:57:02] e não com quaisquer outras formas e fórmulas?
+[01:09:57:10 --> 01:10:01:00] Por que será que os fenômenos têm precisamente o aspecto que têm,
+[01:10:01:15 --> 01:10:04:15] em vez de terem o aspecto que gostaríamos que tivessem?
+[01:10:05:09 --> 01:10:12:10] A soma dos ângulos de um triângulo teórico é sempre, em qualquer lugar do mundo, 180 graus.
+[01:10:12:10 --> 01:10:18:10] independente de termos descoberto esse fato no céu ou inventado isso na prancheta de desenhos.
+[01:10:18:17 --> 01:10:23:10] Não há dúvida de que as formas, se descobertas ou inventadas,
+[01:10:23:18 --> 01:10:27:01] se feitas por um designer divino ou por um designer humano,
+[01:10:27:23 --> 01:10:32:14] são eternas, ou seja, não estão no espaço nem no tempo.
+[01:10:33:21 --> 01:10:41:15] Esse é o olhar do designer, uma espécie de olho sentinela ao qual deduz e maneja eternidades.
+[01:10:43:01 --> 01:10:46:15] Na Mesopotâmia, o chamavam de profeta.
+[01:10:47:00 --> 01:10:53:12] Merece mais o nome de Deus, mas graças a Deus não é consciente disso, e considera-se
+[01:10:53:12 --> 01:10:56:00] apenas um técnico ou artista.
+[01:11:01:14 --> 01:11:06:16] Esse vídeo, esse texto, na verdade, ele é de um filósofo muito importante para
+[01:11:06:16 --> 01:11:09:13] nós designers que se chama Wilhelm Flusser.
+[01:11:10:23 --> 01:11:14:05] E apesar de que algumas pessoas que são mais conservadoras, né, e eu entendo,
+[01:11:14:08 --> 01:11:18:14] elas vão pensar assim, pô, isso aí é errado, isso aí é do mal,
+[01:11:18:19 --> 01:11:20:17] teve alguém que comentou ali, eu entendo também, comentou,
+[01:11:20:18 --> 01:11:22:28] a entidade negativa, Deus não se comunica por imagens.
+[01:11:23:06 --> 01:11:27:19] Sim, eu entendo tudo isso e eu sou bem racional no sentido de que
+[01:11:27:19 --> 01:11:32:12] Nós podemos utilizar esse conceito não para representar algo místico, não é essa a minha
+[01:11:32:12 --> 01:11:32:22] missão?
+[01:11:32:23 --> 01:11:33:09] Nunca foi.
+[01:11:33:22 --> 01:11:37:00] Mas para representar o potencial que nós temos enquanto designers.
+[01:11:37:10 --> 01:11:41:24] E o vilain Flusser foi até bem poético falando, os designers merecem mais o nome
+[01:11:41:24 --> 01:11:46:26] de Deus, mas graças a Deus não sabem disso e consideram-se apenas técnicos ou artistas.
+[01:11:47:02 --> 01:11:48:04] O que ele queria dizer ali?
+[01:11:48:14 --> 01:11:53:00] Ele queria dizer que Deus nos criou conforme a sua imagem.
+[01:11:54:06 --> 01:11:57:04] Deus nos criou conforme a sua imagem. Então, nós somos criadores também.
+[01:11:57:08 --> 01:12:01:16] Deus nos deu o dom da criatividade. Isso em várias culturas, várias religiões.
+[01:12:01:27 --> 01:12:04:01] Os gregos falavam lá de Prometeo,
+[01:12:04:04 --> 01:12:06:19] que Prometeo deu fogo do Olimpo para os seres humanos.
+[01:12:07:04 --> 01:12:09:00] E aí, quando Prometeo deu o fogo do Olimpo para os seres humanos,
+[01:12:09:03 --> 01:12:11:14] os seres humanos puderam criar ferramentas novas,
+[01:12:11:18 --> 01:12:13:00] usaram a tecnologia para se desenvolver.
+[01:12:13:02 --> 01:12:17:03] Então, em várias civilizações isso está como um dom humano, o dom da criatividade.
+[01:12:17:15 --> 01:12:21:12] E aí, Wilain Flusset, aqui, de uma maneira bem poética, muito inteligente, tá?
+[01:12:21:12 --> 01:12:25:04] Então, eu recomendo vocês analisarem isso por um ponto de vista inteligente.
+[01:12:25:09 --> 01:12:29:19] Entender que o ser humano é um animal que mais se aproxima de Deus, é um animal que
+[01:12:29:19 --> 01:12:33:16] mais se aproxima da atitude de um Deus, que é o ser que quer criar.
+[01:12:34:13 --> 01:12:40:10] E isso é muito interessante, nós designers temos aflorado no nosso trabalho essa atitude,
+[01:12:40:13 --> 01:12:44:20] por isso que muita gente fala, God is a designer, Deus é um designer.
+[01:12:45:04 --> 01:12:48:12] Porque a nossa atividade é a que mais nos aproxima disso, é a atividade da
+[01:12:48:12 --> 01:12:48:22] criação.
+[01:12:48:22 --> 01:12:54:18] Então, olha só todo esse conceito construído. Olha como isso vai me direcionando para um
+[01:12:54:18 --> 01:12:59:21] lugar que faz muito sentido. Só que não para por aí. Eu queria um significado lógico
+[01:12:59:21 --> 01:13:03:03] para o logo também. Então, a gente tem um significado que a gente pode trazer ali,
+[01:13:03:05 --> 01:13:09:15] que é um significado mais emocional, que é esse significado da Overlens, a Superlens.
+[01:13:10:18 --> 01:13:14:25] Mas nós podemos trazer aqui também um significado mais direto.
+[01:13:15:03 --> 01:13:16:11] E foi nisso que a gente começou a trabalhar.
+[01:13:16:26 --> 01:13:17:27] Então, dá só uma olhada aqui.
+[01:13:19:26 --> 01:13:21:19] Eu comecei a trabalhar a ideia de lente.
+[01:13:22:23 --> 01:13:25:22] E aí eu pensava em óculos, mas depois eu comecei a pensar em lupa.
+[01:13:26:00 --> 01:13:27:25] Então, olha só minhas anotações, que interessante.
+[01:13:28:06 --> 01:13:32:19] A lupa é um ícone forte, o design é uma lente.
+[01:13:32:27 --> 01:13:34:26] Será que ela é um ícone ou um símbolo?
+[01:13:35:02 --> 01:13:36:12] Acompanhe aqui com o meu mouse, ó.
+[01:13:36:27 --> 01:13:39:14] Acho que não é um símbolo, a lupa é um ícone.
+[01:13:39:22 --> 01:13:42:15] Zoom in, zoom out, começa a brincar com as possibilidades, tá vendo?
+[01:13:43:10 --> 01:13:47:27] A resposta está no seu nariz, na dúvida, olhe mais de perto.
+[01:13:48:07 --> 01:13:49:13] Então, usa uma lupa.
+[01:13:49:13 --> 01:13:56:09] Lupa, lupa, lupa, começa a brincar com lupa. Degree, grau. Os olhos contam tudo pro coração.
+[01:13:56:14 --> 01:14:01:19] Olha só, começa a pensar sobre isso. Olho, emoção, vida, essência, alma. Tem até
+[01:14:01:19 --> 01:14:07:12] aquela frase famosa, o olho é a janela pra alma. Olho lembra vida. Também lembra espelho.
+[01:14:07:22 --> 01:14:12:02] Aqui ó, o olho é a janela da alma. Começa a explorar essas possibilidades, tá vendo?
+[01:14:12:15 --> 01:14:16:23] Então, aqui eu já tinha o conceito e eu tô lapidando, tô gerando mais alternativas
+[01:14:16:23 --> 01:14:22:17] em cima desse conceito. Beleza? E aí vai mais adiante. Começa a explorar a lupa, então.
+[01:14:23:10 --> 01:14:26:29] Aqui está a lens degrey ainda, no símbolo, que o símbolo foi criado junto com esse nome
+[01:14:26:29 --> 01:14:31:04] e depois a gente trocou para o overlens, que aí foi a cereja do bolo. Então começa
+[01:14:31:04 --> 01:14:36:01] a explorar lens, lens, lens degrey, começa a fazer várias lentes diferentes, começa
+[01:14:36:01 --> 01:14:40:23] a criar alguns patterns também para tentar entender essa estrutura, tá? Que começa
+[01:14:40:23 --> 01:14:46:23] a explorar também a luz convergindo, o comportamento da lente. Eu comecei a
+[01:14:46:23 --> 01:14:52:06] explorar as possibilidades. Até que eu cheguei nesse aqui, que aí eu penso o seguinte, nesse
+[01:14:52:06 --> 01:14:56:14] momento aqui, eu tô pulando, eu tô mostrando pra vocês o caminho picotado, tá? Então,
+[01:14:56:16 --> 01:15:01:01] nesse momento aqui, eu já tinha feito várias possibilidades e aí eu falo, pô, lupa,
+[01:15:01:07 --> 01:15:07:14] lupa é interessante. E eu começo a lapidar a ideia de lupa. Quantas lupas diferentes
+[01:15:07:14 --> 01:15:11:01] eu posso criar e quais elementos eu posso variar, quais elementos eu devo manter.
+[01:15:11:01 --> 01:15:16:20] Então, olha só, a maior qualidade que um designer pode ter é a curiosidade, porque
+[01:15:16:20 --> 01:15:18:10] a curiosidade te faz conhecer mais ideias.
+[01:15:18:18 --> 01:15:22:19] E eu comecei a explorar isso, comecei com as formas básicas, depois eu pensei, pô,
+[01:15:22:23 --> 01:15:27:01] não vai dar para eu variar muito na lupa, eu nem quero variar muito na lente em si,
+[01:15:27:08 --> 01:15:28:16] eu quero variar mais no cabo.
+[01:15:29:02 --> 01:15:31:08] E aí eu comecei a fazer vários cabos diferentes, tá vendo?
+[01:15:32:00 --> 01:15:33:29] E um desses cabos foi esse aqui, ó.
+[01:15:36:03 --> 01:15:44:01] Depois de gerar tantas alternativas... Aqui tem quantas? 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 por 1, 2, 3...
+[01:15:44:29 --> 01:15:51:15] Aí só aqui tem 70, então quando eu falo gera 70 opções, gera 100 opções, olha só,
+[01:15:51:15 --> 01:15:52:07] é o que eu faço.
+[01:15:52:19 --> 01:15:57:06] Na prática esse é o meu exercício e eu recomendo para vocês porque isso reforça o trabalho.
+[01:15:57:18 --> 01:16:02:09] Só que olha só, eu já tinha chegado nessa ideia aqui que era interessante, inclusive
+[01:16:02:09 --> 01:16:06:11] eu recomendo que vocês usem papel e lápis porque isso te permite meditar mais sobre
+[01:16:06:11 --> 01:16:07:01] o que você está criando.
+[01:16:07:09 --> 01:16:11:24] Aqui não é para lapidar a ideia, aqui é para gerar possibilidades em cima dessa
+[01:16:11:24 --> 01:16:12:04] ideia.
+[01:16:12:04 --> 01:16:16:12] Então, olha quantas que eu gerei depois que eu cheguei a escolher essa, eu não tinha escolhido
+[01:16:16:12 --> 01:16:16:27] ela no início.
+[01:16:17:11 --> 01:16:21:15] Então, olha só, tem o conceito de loopa, de olhar mais perto da curiosidade e tem
+[01:16:21:15 --> 01:16:24:05] o conceito de overlens, os dois juntos aqui.
+[01:16:25:21 --> 01:16:30:04] Então, gerei essas possibilidades e aí depois eu lapidei.
+[01:16:30:06 --> 01:16:35:03] O processo de lapidação, quando você entende a parte técnica do design, ele é simples.
+[01:16:35:17 --> 01:16:41:07] Você vai entender a massa gráfica, o equilíbrio, tem todo esse processo, mas quando você
+[01:16:41:07 --> 01:16:43:18] já tem a ideia, isso aqui é detalhe.
+[01:16:44:11 --> 01:16:48:09] É tipo assim, você já ajeitou a bola, não tem nem goleiro, tá na hora de chutar
+[01:16:48:09 --> 01:16:50:13] pro gol, você já tomou as decisões.
+[01:16:50:21 --> 01:16:54:07] Então essa lapidação aqui, que geralmente quando a gente fala assim ó, curso de
+[01:16:54:27 --> 01:17:00:02] logotipo. Vocês querem me ver com o Illustrator aberto aqui, usando a Pentool para poder montar
+[01:17:00:02 --> 01:17:04:11] isso daqui, mas essa não é a parte mais importante da criação de um logotipo. Vocês
+[01:17:04:11 --> 01:17:07:17] conseguiram notar isso? Isso era o mais importante que eu queria passar para vocês.
+[01:17:07:25 --> 01:17:09:26] Quem entendeu, isso coloca no chat aí, beleza?
+[01:17:11:04 --> 01:17:12:17] Quem entendeu? E coloca no chat.
+[01:17:16:09 --> 01:17:19:12] Droga, eu estou muito hipnotizada nesse rolê todo da overlens.
+[01:17:20:16 --> 01:17:23:01] Professor, eu não consigo fazer isso para criar um logo até amanhã, não.
+[01:17:23:04 --> 01:17:24:26] Não vai precisar fazer tudo isso.
+[01:17:25:00 --> 01:17:26:24] Eu estou mostrando para vocês um projeto real.
+[01:17:28:14 --> 01:17:29:24] Muitas semanas aqui, tá?
+[01:17:30:07 --> 01:17:33:07] Esse processo todo de nome mais logo, se eu não me engano,
+[01:17:33:10 --> 01:17:34:24] foram uns 45 dias, tá?
+[01:17:38:07 --> 01:17:39:01] Beleza?
+[01:17:41:00 --> 01:17:45:10] Acabei de rabiscar uma logo para um amigo que vende bolinhos na porta da casa dele.
+[01:17:46:10 --> 01:17:47:07] Leonardo da Vinci.
+[01:17:47:12 --> 01:17:50:15] Os olhos são a janela da alma, o espelho do mundo, galera colocando ali.
+[01:17:51:11 --> 01:17:52:18] Tá, galera falando, entendi.
+[01:17:52:25 --> 01:17:56:09] Entendi, entendi, entendi, entendi, sim, sim, mais que entendido, sim, sim, sim.
+[01:17:56:21 --> 01:17:58:12] Então, olha só, vamos voltar aqui.
+[01:17:58:16 --> 01:17:59:17] Olha só que simples.
+[01:17:59:26 --> 01:18:00:26] É um logo simples.
+[01:18:00:29 --> 01:18:03:25] Eu queria fazer um logo simples, porque eu falei na primeira aula
+[01:18:03:25 --> 01:18:07:16] que bons logos são simbólicos e eles têm uma grande carga de significado.
+[01:18:07:19 --> 01:18:08:25] Lembra que eu falei isso na primeira aula?
+[01:18:09:03 --> 01:18:10:20] Eles são icônicos e simbólicos.
+[01:18:10:20 --> 01:18:15:00] Então, eu criei um símbolo. Lembra que eu falei também? Tem uma frase do Simon Sinek
+[01:18:15:00 --> 01:18:17:25] que eu falei no primeiro episódio. Eu vou até abrir aqui para vocês.
+[01:18:19:15 --> 01:18:20:25] Primeiro episódio...
+[01:18:24:18 --> 01:18:25:02] Abrindo.
+[01:18:25:18 --> 01:18:27:00] Então, estamos aqui no primeiro episódio.
+[01:18:28:09 --> 01:18:29:20] Vamos passar aqui rapidinho, olha.
+[01:18:33:22 --> 01:18:34:24] Vai, vai, vai, vai, vai!
+[01:18:37:25 --> 01:18:38:21] Essa frase aqui, ó.
+[01:18:39:28 --> 01:18:45:09] Para que um logotipo se torne um símbolo, as pessoas têm que se inspirar a usá-lo para
+[01:18:45:09 --> 01:18:46:26] dizer algo sobre quem elas são.
+[01:18:47:06 --> 01:18:49:14] O logotipo precisa identificar uma crença.
+[01:18:49:21 --> 01:18:53:23] Eu queria que o logotipo do Overlens fosse simbólico o suficiente para representar uma
+[01:18:53:23 --> 01:18:54:02] crença.
+[01:18:54:10 --> 01:18:55:05] Qual crença aqui?
+[01:18:55:11 --> 01:18:56:21] A crença da Overlens.
+[01:18:56:26 --> 01:19:01:15] A crença de olhar o mundo por várias perspectivas, entender, ter empatia.
+[01:19:01:20 --> 01:19:06:17] E mais do que isso, a crença dos designers serem impulsionadores das boas ideias.
+[01:19:06:17 --> 01:19:11:25] nós temos a capacidade de lapidar as boas ideias. À medida que vocês começam a conhecer
+[01:19:11:25 --> 01:19:17:25] esse significado, ele começa a dizer algo sobre vocês, e para vocês. Então, é por
+[01:19:17:25 --> 01:19:19:29] que por exemplo, se eu criasse um moletom...
+[01:19:20:29 --> 01:19:25:18] O símbolo da Alverlense. Eu sei que tem muita gente que usaria isso. Coloca aí no chat se você não usaria.
+[01:19:26:00 --> 01:19:29:08] Uma camisa com o símbolo da Alverlense. Por que é um símbolo que ó...
+[01:19:31:16 --> 01:19:35:28] Voltando aqui para vocês, inspira-se a usá-lo.
+[01:19:36:05 --> 01:19:39:02] Olha só, as pessoas têm que se inspirar...
+[01:19:39:02 --> 01:19:40:06] Pera aí que está preto.
+[01:19:40:18 --> 01:19:43:27] As pessoas têm que se inspirar a usá-lo para dizer algo sobre o que elas são.
+[01:19:44:05 --> 01:19:45:22] Por que as pessoas utilizam Apple?
+[01:19:47:00 --> 01:19:52:13] porque a marca Apple diz algo sobre quem elas são. Então, eu queria criar o logo da Overlens
+[01:19:52:13 --> 01:19:56:26] para dizer algo, para que os designers digam algo sobre quem eles são. Então, esse logo
+[01:19:56:26 --> 01:20:01:11] representa uma crença. Repara que ele é muito mais profundo, principalmente quando
+[01:20:01:11 --> 01:20:02:10] você o entende.
+[01:20:03:25 --> 01:20:05:24] A galera falando, olha...
+[01:20:05:24 --> 01:20:11:11] Eu quero, quero, sim, usaria muito, onde compro, super, faz agora, super usaria, quero, para...
+[01:20:11:11 --> 01:20:12:21] Bota na mesa agora!
+[01:20:13:13 --> 01:20:16:13] Sortei o moletom aí! Pois é, exatamente.
+[01:20:16:28 --> 01:20:18:05] Boneta, meu, usaria...
+[01:20:19:02 --> 01:20:22:18] Então olha só como a marca começa a se tornar mais valiosa.
+[01:20:23:09 --> 01:20:25:03] Entende a importância que isso tem?
+[01:20:26:17 --> 01:20:30:17] é muito mais forte. Agora, pensa comigo. Pensa na marca do...
+[01:20:31:18 --> 01:20:34:12] Pensa que você foi levar seu carro no mecânico.
+[01:20:34:28 --> 01:20:37:21] Aí o mecânico te deu de brinde um boné com a marca dele.
+[01:20:38:21 --> 01:20:41:08] Zezinho mecânica e um carrinho desenhado.
+[01:20:41:24 --> 01:20:43:00] Você vai usar esse boné?
+[01:20:44:02 --> 01:20:46:29] Comenta pra mim agora, e você usaria o boné do Zezinho da mecânica?
+[01:20:48:09 --> 01:20:50:19] Muito difícil, muito difícil.
+[01:20:51:21 --> 01:20:54:07] Porque não é uma marca que diz algo para você.
+[01:20:54:16 --> 01:20:55:24] Não é uma marca que é profunda.
+[01:20:56:16 --> 01:20:58:03] Toda marca precisa ser profunda!
+[01:20:59:27 --> 01:21:05:00] Não precisa. Depende da estratégia. Aqui, como eu estou falando com designers, tem um
+[01:21:05:00 --> 01:21:09:05] certo tom de voz, tem o arquédipo, a narrativa que eu quero construir, isso é importante.
+[01:21:09:16 --> 01:21:09:23] Entende?
+[01:21:11:02 --> 01:21:12:21] A galera falando ali...
+[01:21:12:21 --> 01:21:14:00] Meu avô superusava!
+[01:21:14:06 --> 01:21:15:13] Os avós usam mesmo!
+[01:21:15:23 --> 01:21:17:11] É verdade, meu avô também!
+[01:21:18:20 --> 01:21:20:01] Os avós superusam!
+[01:21:20:18 --> 01:21:21:24] O boné do Zezinho!
+[01:21:22:10 --> 01:21:23:01] Com certeza!
+[01:21:25:20 --> 01:21:27:19] Ahahah, muito bom, né?
+[01:21:28:20 --> 01:21:29:27] Só se fosse do meu pai.
+[01:21:31:01 --> 01:21:33:24] A galera falando, tadinho do Zezinho, mas não, não usaria, né?
+[01:21:34:13 --> 01:21:37:13] Se fosse um logo legal, bem construído, talvez a gente até usaria,
+[01:21:37:17 --> 01:21:40:09] mas imagina aquele logo genérico, feio pra caramba, né?
+[01:21:42:01 --> 01:21:42:19] Se desenvolui.
+[01:21:45:04 --> 01:21:48:22] Tem gente que fala, Uso, vai cumprir a função de me proteger do sol.
+[01:21:49:21 --> 01:21:54:13] Eu acho que nós seres humanos não somos tão racionais assim, nós somos bem mais
+[01:21:54:13 --> 01:21:55:16] emocionais do que isso.
+[01:21:57:27 --> 01:22:01:07] Até você, que tem gente que pensa assim, eu sou mais inteligente do que isso,
+[01:22:01:13 --> 01:22:03:05] eu não me envolvo com as pessoas emocionalmente assim.
+[01:22:03:15 --> 01:22:06:09] Até você, depois lê um livro que chama Inteligência Emocional,
+[01:22:06:12 --> 01:22:09:19] você vai ver que nós somos seres emocionais e não racionais.
+[01:22:11:05 --> 01:22:11:19] Fechou?
+[01:22:12:28 --> 01:22:14:15] Então, basicamente é isso, galera.
+[01:22:15:22 --> 01:22:17:16] Mas basicamente ainda não acabou a aula, tá?
+[01:22:17:22 --> 01:22:20:04] Basicamente é isso em relação à construção do símbolo.
+[01:22:20:17 --> 01:22:22:15] E aqui eu tomei uma decisão interessante, olha só.
+[01:22:22:18 --> 01:22:24:16] Então, a Overlens tem um símbolo,
+[01:22:24:24 --> 01:22:25:27] mas ela também tem um logo.
+[01:22:26:28 --> 01:22:33:28] que é esse aqui. O logo funciona sem o símbolo, porque eu queria um logo que fosse com uma
+[01:22:35:01 --> 01:22:40:02] tipografia serifada, um logo que expressasse uma certa criatividade. E nesse caso não
+[01:22:40:02 --> 01:22:42:17] era uma boa decisão juntar o símbolo com o símbolo.
+[01:22:43:13 --> 01:22:47:25] texto. Então, nós tomamos a decisão de usar o símbolo sozinho e o texto sozinho. A gente
+[01:22:47:25 --> 01:22:51:11] usa muito mais o símbolo, que é um reforço, como a Apple faz, por exemplo. Eu gosto de
+[01:22:51:11 --> 01:22:54:16] dar o exemplo da Apple, mas várias outras marcas fazem isso também. Eu dei o exemplo
+[01:22:54:16 --> 01:22:58:29] da Shell também, Mastercard. Você usa só o símbolo. E o escrito você usa em
+[01:22:58:29 --> 01:23:02:24] momentos específicos. Então, eu criei uma versão também tipográfica do logo.
+[01:23:02:26 --> 01:23:07:13] Tem o símbolo e tem uma versão tipográfica. E aí, eu fui para a verificação do logo.
+[01:23:07:14 --> 01:23:11:05] Então, tem uma etapa importante. A aula ainda não acabou. Tem mais um ponto muito
+[01:23:11:05 --> 01:23:15:17] mais importante aqui, que não que ele é muito mais importante, eu me expressei errado,
+[01:23:15:22 --> 01:23:21:07] tem outro ponto muito importante, tão importante quanto aqui, que é a verificação do logo.
+[01:23:21:16 --> 01:23:25:19] Nós já falamos da arrinha de ideias, já falamos do bullying de ideias, mas eu quero
+[01:23:25:19 --> 01:23:30:13] trazer para vocês aqui esse site e o site também de registro de marca, tá?
+[01:23:30:20 --> 01:23:33:26] Então, vamos voltar para cá, deixa eu ver aqui no Chrome.
+[01:23:33:26 --> 01:23:33:28] E aí
+[01:23:35:02 --> 01:23:35:20] Beleza?
+[01:23:35:27 --> 01:23:37:06] Primeiro vamos lá no INPI.
+[01:23:37:22 --> 01:23:41:01] Eu precisava registrar o nome da Alverlense.
+[01:23:42:27 --> 01:23:46:22] E quando eu registrei o nome da Overlens, o CNPJ ainda era Lance Degrin.
+[01:23:46:25 --> 01:23:47:22] Então, olha que curioso aqui.
+[01:23:48:03 --> 01:23:49:03] Você vai vir aqui, olha...
+[01:23:49:19 --> 01:23:50:06] Repara o caminho.
+[01:23:50:21 --> 01:23:52:13] E NPI, tem gente que chama de IMP.
+[01:23:53:14 --> 01:23:58:19] clica nesse link, venha aqui em marcas, venha aqui em base de dados de marcas.
+[01:23:59:08 --> 01:24:04:06] Então, você pode clicar aqui em continuar, marca e vem cá em marca aqui em cima.
+[01:24:04:15 --> 01:24:04:27] Beleza?
+[01:24:05:03 --> 01:24:06:20] Aí você vai colocar, exato ou radical.
+[01:24:07:04 --> 01:24:11:14] Quando você pesquisa por um nome, ele vai te mostrar se já existe uma marca registrada com esse nome.
+[01:24:11:25 --> 01:24:12:18] Então, olha só.
+[01:24:13:01 --> 01:24:14:07] Já tem quatro processos aqui.
+[01:24:14:08 --> 01:24:17:26] A gente está no finalzinho do registro, mas já foi basicamente concedido.
+[01:24:17:27 --> 01:24:21:07] Agora é só pagar lá a taxa, que eu já paguei inclusive.
+[01:24:21:07 --> 01:24:26:06] E eu tenho 10 anos de direito de uso sobre esse nome.
+[01:24:26:08 --> 01:24:28:17] Está demorando um pouquinho para carregar aí, mas vamos ver se vai carregar.
+[01:24:29:00 --> 01:24:30:22] Eu registrei em quatro classes diferentes.
+[01:24:31:02 --> 01:24:35:00] Eu recomendo que você pesquise e busque entender melhor como funciona o registro
+[01:24:35:00 --> 01:24:35:24] de um nome, tá?
+[01:24:37:16 --> 01:24:38:20] Vamos ver se vai carregar, né?
+[01:24:40:20 --> 01:24:41:21] Tomara que carregue.
+[01:24:44:09 --> 01:24:45:09] Está um pouquinho lento.
+[01:24:45:24 --> 01:24:47:28] Mas eu pesquisei o Verlança e coloquei exata.
+[01:24:47:29 --> 01:24:49:19] Ele vai me mostrar as classes registradas,
+[01:24:49:22 --> 01:24:51:14] foram quatro classes que nós registramos,
+[01:24:51:27 --> 01:24:54:04] para proteger esse nome, para que nenhuma outra empresa
+[01:24:54:04 --> 01:24:57:03] utilize esse nome nessas classes que nós criamos.
+[01:24:57:09 --> 01:24:59:00] Poxa, deixa eu atualizar aqui,
+[01:24:59:10 --> 01:25:00:03] para ver se melhora.
+[01:25:00:16 --> 01:25:01:20] Dá uma atualizada...
+[01:25:02:23 --> 01:25:04:21] Over Lengths.
+[01:25:04:28 --> 01:25:05:11] Pesquisar.
+[01:25:06:24 --> 01:25:08:00] É, por algum motivo tá lento.
+[01:25:08:03 --> 01:25:12:00] Enquanto carrega aqui, deixa eu mostrar o outro site que se chama TMView.
+[01:25:12:25 --> 01:25:16:11] Esse site é legal pra você analisar...
+[01:25:17:07 --> 01:25:21:01] se o símbolo que você criou já foi criado, alguma coisa parecida.
+[01:25:22:17 --> 01:25:25:06] Tenta meltmvu.gov.
+[01:25:27:10 --> 01:25:29:08] Por algum motivo, a minha internet ficou bem lenta agora,
+[01:25:29:11 --> 01:25:32:10] eu tomara que pelo menos vocês estejam conseguindo acompanhar.
+[01:25:33:04 --> 01:25:34:23] Se você acessar esse aqui...
+[01:25:34:23 --> 01:25:36:24] tmdn.org...
+[01:25:37:10 --> 01:25:38:16] É só digitar no Google...
+[01:25:38:16 --> 01:25:40:17] Tmview e vim nesse primeiro link aqui, tá?
+[01:25:41:00 --> 01:25:42:21] E olha que legal, você pode subir...
+[01:25:44:16 --> 01:25:47:23] Você pode clicar aqui e subir um arquivo.
+[01:25:49:03 --> 01:25:53:12] Deixa eu ver se eu consigo subir o Dalver Lens, mas precisa ser um arquivo, se eu não me engano, sem fundo.
+[01:25:54:15 --> 01:26:00:01] Deixa eu ver se vai funcionar aqui. Beleza, ele identificou o símbolo e eu vou pesquisar.
+[01:26:00:16 --> 01:26:04:02] E aí ele vai me mostrar em vários países, esse aqui é da Europa, mas tem outros também.
+[01:26:04:18 --> 01:26:09:08] Ele vai me mostrar símbolos parecidos. Poxa, correu um erro. Deixa eu ver se vai
+[01:26:09:21 --> 01:26:11:02] funcionar. Vou atualizar.
+[01:26:13:19 --> 01:26:14:16] Posso fechar aqui.
+[01:26:16:11 --> 01:26:18:23] Vamos voltar aqui no início, vamos pesquisar...
+[01:26:19:26 --> 01:26:22:22] Deixe-me tentar com outra imagem.
+[01:26:23:16 --> 01:26:24:27] Cadê Overlens?
+[01:26:27:17 --> 01:26:28:13] Logo
+[01:26:34:21 --> 01:26:35:07] Pesquisa.
+[01:26:39:27 --> 01:26:40:29] Ao vivo é assim, né?
+[01:26:41:10 --> 01:26:42:25] Tá dando erro, não sei por quê.
+[01:26:43:17 --> 01:26:46:20] Ele mostra várias opções semelhantes e você pode avaliar.
+[01:26:46:25 --> 01:26:48:26] Aqui o INPA está demorando também.
+[01:26:49:16 --> 01:26:50:13] Mas o processo é esse.
+[01:26:50:14 --> 01:26:54:08] Se a gente não conseguir aqui, ainda recomendo que vocês façam o teste aí, tá?
+[01:26:54:08 --> 01:26:55:20] Que vocês pesquisem.
+[01:26:56:06 --> 01:26:56:28] Pode ser interessante.
+[01:26:56:29 --> 01:26:58:05] Você pode pesquisar tanto o nome, olha.
+[01:26:58:07 --> 01:26:59:17] Mais de 11 milhões...
+[01:27:00:05 --> 01:27:03:10] Mais de 100 milhões de marcas dentro e fora da União Europeia.
+[01:27:03:26 --> 01:27:04:27] Isso aqui é mais global.
+[01:27:04:29 --> 01:27:05:29] É interessante, tá?
+[01:27:05:29 --> 01:27:08:01] Para você ver se já existe um símbolo parecido.
+[01:27:08:01 --> 01:27:11:04] E nem necessariamente, mesmo que tenha um símbolo parecido aqui, você não precisa
+[01:27:11:04 --> 01:27:14:23] descartar a ideia não, você tem que ver se ela está na mesma classe que a sua, você
+[01:27:14:23 --> 01:27:18:04] pode analisar o que você pode mudar para deixar esse símbolo um pouco diferente sem
+[01:27:18:04 --> 01:27:19:05] perder o seu conceito.
+[01:27:19:17 --> 01:27:23:05] Você pode ainda assim fazer isso e ser eficiente, fechou?
+[01:27:23:16 --> 01:27:27:07] Então a última etapa ainda é a lapidação, a verificação da ideia, isso é importante
+[01:27:27:07 --> 01:27:28:29] na hora de criar um logo, beleza?
+[01:27:29:26 --> 01:27:33:23] Galera falando, há empresas especializadas em registros de marca, exatamente, recomendo
+[01:27:33:23 --> 01:27:35:03] vocês terem parcerias, tá?
+[01:27:36:18 --> 01:27:39:19] Com relação ao nome, é da empresa se o nome já for consolidado.
+[01:27:39:21 --> 01:27:42:04] Se for você criando, você deve fazer o processo também.
+[01:27:42:27 --> 01:27:44:13] A logo é a responsabilidade do designer.
+[01:27:45:12 --> 01:27:47:25] Naming significa a inicial do meu nome, Ti.
+[01:27:48:18 --> 01:27:49:15] Ah, tá, galera, tô falando deles.
+[01:27:49:23 --> 01:27:51:11] Mas aí, eu registro no meu nome,
+[01:27:51:22 --> 01:27:53:21] você pode registrar no nome do cliente, tá?
+[01:27:54:01 --> 01:27:56:19] Eu recomendo, inclusive, registrar no nome do cliente.
+[01:27:57:01 --> 01:27:57:15] A marca.
+[01:27:58:28 --> 01:28:00:27] Agora, se a marca é sua, você registra no seu nome.
+[01:28:02:08 --> 01:28:05:22] Tem pessoas especializadas em fazer isso, mas quando você cria um nome é interessante
+[01:28:05:22 --> 01:28:07:18] você pesquisar se ele está disponível, exatamente.
+[01:28:08:06 --> 01:28:10:19] Você faz a pesquisa e vê se já existe ou não, sim.
+[01:28:11:02 --> 01:28:15:24] O processo de naming também tem suas peculiaridades, que eu mostrei por alto para você, tem
+[01:28:15:24 --> 01:28:17:00] seus desafios.
+[01:28:17:17 --> 01:28:21:16] Quando você mostra o resultado chegando assim, parece simples, às vezes até mais
+[01:28:21:16 --> 01:28:24:03] fácil, mas realmente pode ser um desafio.
+[01:28:24:06 --> 01:28:26:00] Mas se você confia no processo, acontece.
+[01:28:26:09 --> 01:28:28:07] E com logotipos, a mesma coisa.

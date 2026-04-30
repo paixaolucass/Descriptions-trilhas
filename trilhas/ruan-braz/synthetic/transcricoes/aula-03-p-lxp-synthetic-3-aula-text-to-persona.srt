@@ -1,0 +1,788 @@
+1
+00:00:00,028 --> 00:00:02,868
+Agora chegou a hora de transformarmos nossa persona,
+
+2
+00:00:02,888 --> 00:00:05,468
+que inicialmente era uma persona só de texto,
+
+3
+00:00:06,128 --> 00:00:10,288
+em uma persona sintética que você consiga conversar com ela também.
+
+4
+00:00:10,508 --> 00:00:12,608
+Existem alguns caminhos para fazer isso.
+
+5
+00:00:12,808 --> 00:00:16,388
+Um dos caminhos é você pegar uma foto, por exemplo,
+
+6
+00:00:16,428 --> 00:00:18,648
+posso pegar essa foto da Lili aqui, né?
+
+7
+00:00:18,708 --> 00:00:22,088
+Posso tirar ela daqui, printar aqui, vou usar um print mesmo.
+
+8
+00:00:22,508 --> 00:00:25,848
+Deixa eu só enquadrar melhor, guardar esse print.
+
+9
+00:00:26,628 --> 00:00:30,288
+Posso pegar esse print aqui, jogar um texto, criar um vídeo dela
+
+10
+00:00:30,288 --> 00:00:35,428
+e a partir desse vídeo depois gerar outros vídeos com o rosto dela.
+
+11
+00:00:35,568 --> 00:00:39,048
+Só que isso não seria exatamente uma persona sintética
+
+12
+00:00:39,048 --> 00:00:42,908
+no sentido de que você poderia conversar com ela
+
+13
+00:00:42,908 --> 00:00:44,968
+ou colocar outras pessoas para conversar.
+
+14
+00:00:45,168 --> 00:00:47,908
+Mas para fazer isso já existem algumas soluções
+
+15
+00:00:47,908 --> 00:00:49,248
+que eu quero mostrar aqui para vocês.
+
+16
+00:00:49,548 --> 00:00:53,608
+A primeira delas é uma solução que funciona por áudio.
+
+17
+00:00:53,608 --> 00:00:55,688
+que você pode simplesmente vir aqui e digitar
+
+18
+00:00:55,688 --> 00:00:58,088
+charter.ai
+
+19
+00:00:59,420 --> 00:01:02,700
+É uma ferramenta bem antiga já, já tem alguns anos que ela existe.
+
+20
+00:01:02,920 --> 00:01:04,740
+Deixa eu colocar aqui direto no Google.
+
+21
+00:01:05,040 --> 00:01:07,460
+E eu lembro do Google ter comprado ela.
+
+22
+00:01:09,980 --> 00:01:11,340
+Deixa eu só puxar aqui certinho.
+
+23
+00:01:14,236 --> 00:01:17,016
+O Google comprou ela já tem uns dois anos que comprou.
+
+24
+00:01:17,076 --> 00:01:21,616
+E você consegue subir uma personalidade aqui dentro
+
+25
+00:01:21,616 --> 00:01:25,816
+e fazer uma ligação para essa personalidade de voz.
+
+26
+00:01:26,036 --> 00:01:28,656
+Eu posso simplesmente vir aqui em criar personagem.
+
+27
+00:01:28,816 --> 00:01:30,816
+Eu posso colocar aqui, por exemplo, Lili.
+
+28
+00:01:31,416 --> 00:01:33,316
+Coloco o slogan do personagem.
+
+29
+00:01:33,376 --> 00:01:35,436
+Então, eu posso pegar a frase clássica dela aqui.
+
+30
+00:01:37,404 --> 00:01:38,864
+Não é bem um slogan, mas...
+
+31
+00:01:40,060 --> 00:01:41,180
+É, aqui ficou até curto.
+
+32
+00:01:41,240 --> 00:01:43,200
+Deixa eu ver se eu tenho uma outra frase dela aqui embaixo.
+
+33
+00:01:46,972 --> 00:01:47,472
+o que fala.
+
+34
+00:01:50,972 --> 00:01:52,392
+Todo mundo já tem um método.
+
+35
+00:01:56,316 --> 00:01:56,816
+A gente vai se vai tudo.
+
+36
+00:02:00,636 --> 00:02:01,116
+Beleza?
+
+37
+00:02:01,136 --> 00:02:02,676
+Aí aqui a gente coloca a descrição.
+
+38
+00:02:03,496 --> 00:02:08,116
+Aí na descrição, aqui ele divide descrição, saudação.
+
+39
+00:02:08,496 --> 00:02:12,396
+E você pode adicionar outro cumprimento pra não ficar repetindo sempre o mesmo.
+
+40
+00:02:12,716 --> 00:02:15,516
+Na descrição a gente só pode colocar 500 caracteres.
+
+41
+00:02:15,536 --> 00:02:16,416
+Então o que eu gosto de fazer?
+
+42
+00:02:16,456 --> 00:02:20,216
+Eu copio isso aqui tudo, abro um chat aqui e falo.
+
+43
+00:02:21,516 --> 00:02:28,156
+Transforme toda essa descrição em 500 caracteres.
+
+44
+00:02:28,156 --> 00:02:31,736
+com as informações mais importantes.
+
+45
+00:02:34,268 --> 00:02:35,788
+de personalidade, importantes.
+
+46
+00:02:38,364 --> 00:02:41,524
+Para construir uma persona sintética.
+
+47
+00:02:42,724 --> 00:02:45,844
+Personalidade, jeito de falar, jeito de pensar.
+
+48
+00:02:46,604 --> 00:02:47,624
+Então, eu coloco assim.
+
+49
+00:02:48,064 --> 00:02:51,344
+Deixo ele gerar para a gente em 500 caracteres aqui.
+
+50
+00:02:52,184 --> 00:02:54,984
+Consultora de branding visionária, extrovertida, analítica.
+
+51
+00:02:56,204 --> 00:02:56,824
+Copio isso.
+
+52
+00:02:57,284 --> 00:02:58,264
+Colo aqui na descrição.
+
+53
+00:02:58,884 --> 00:03:01,904
+Posso colocar uma saudação para ela aqui.
+
+54
+00:03:02,244 --> 00:03:03,364
+Ou mais de uma, né?
+
+55
+00:03:03,424 --> 00:03:05,704
+Então, posso até pedir aqui para criar.
+
+56
+00:03:05,704 --> 00:03:11,424
+cria uma saudação baseado no jeito dela de falar.
+
+57
+00:03:11,884 --> 00:03:14,564
+Como eu já tenho tudo escrito aqui no documento, é mais fácil.
+
+58
+00:03:17,052 --> 00:03:22,052
+Nossa, a saudação tem que ser uma frase curta.
+
+59
+00:03:23,132 --> 00:03:24,852
+Deixa ele fazer uma frase curtinha para a gente aqui.
+
+60
+00:03:29,436 --> 00:03:30,116
+Beleza, tá bom.
+
+61
+00:03:30,336 --> 00:03:31,696
+Cola a saudação dela aqui.
+
+62
+00:03:31,896 --> 00:03:34,416
+Poderia colocar outra também, mas só essa daqui tá bom.
+
+63
+00:03:34,736 --> 00:03:35,716
+Aí vem a voz.
+
+64
+00:03:35,896 --> 00:03:38,336
+Você pode escolher uma voz pra ela.
+
+65
+00:03:38,436 --> 00:03:40,496
+Ou você pode gravar uma voz também.
+
+66
+00:03:40,616 --> 00:03:43,536
+Aí você tem que primeiro criar a voz, depois ela vai aparecer aqui.
+
+67
+00:03:43,996 --> 00:03:45,296
+Aí você pode gravar.
+
+68
+00:03:45,456 --> 00:03:46,296
+Seleciona a voz dela.
+
+69
+00:03:46,356 --> 00:03:49,956
+Pode colocar uma etiqueta aqui se você quiser, né?
+
+70
+00:03:49,956 --> 00:03:53,756
+Tem anime, girlfriend, husband, máfia.
+
+71
+00:03:53,816 --> 00:03:54,616
+Tem várias aqui.
+
+72
+00:03:54,836 --> 00:03:55,876
+Não vou colocar nenhuma.
+
+73
+00:03:55,876 --> 00:04:01,656
+nenhuma e mais opinião mais opções você pode colocar aqui também é
+
+74
+00:04:03,292 --> 00:04:05,892
+A história dela, como ela deve falar
+
+75
+00:04:05,892 --> 00:04:07,832
+No caso eu vou pegar aqui agora
+
+76
+00:04:07,832 --> 00:04:08,852
+Isso aqui, ó
+
+77
+00:04:08,852 --> 00:04:11,892
+Tom de voz, visto de linguagem, vocabulário típico
+
+78
+00:04:11,892 --> 00:04:12,612
+E fala típica
+
+79
+00:04:14,332 --> 00:04:16,212
+colo aqui, aqui a gente pode colocar até
+
+80
+00:04:16,212 --> 00:04:18,472
+32 mil caracteres, vou manter
+
+81
+00:04:18,472 --> 00:04:20,232
+nesses daqui, dá até pra
+
+82
+00:04:20,232 --> 00:04:22,392
+ele tem um boas práticas aqui pra você saber
+
+83
+00:04:22,392 --> 00:04:24,312
+mas você pode colocar a
+
+84
+00:04:24,312 --> 00:04:26,372
+história também se quiser ali
+
+85
+00:04:28,188 --> 00:04:28,428
+Eita!
+
+86
+00:04:30,268 --> 00:04:31,328
+Quero só a biografia aqui.
+
+87
+00:04:35,516 --> 00:04:36,396
+Não precisa ser tudo, não.
+
+88
+00:04:36,836 --> 00:04:40,016
+Aí o que eu coloco é colocar uns hashtags para ele separar.
+
+89
+00:04:40,176 --> 00:04:40,516
+Beleza.
+
+90
+00:04:41,660 --> 00:04:43,380
+E aí, eu posso colocar público ou não.
+
+91
+00:04:43,420 --> 00:04:44,440
+Clico em criar personagem.
+
+92
+00:04:46,044 --> 00:04:47,584
+Aí, sucesso, personagem criado.
+
+93
+00:04:48,004 --> 00:04:52,564
+E agora, a parte boa é que a gente pode fazer uma ligação para esse personagem.
+
+94
+00:04:53,444 --> 00:04:56,084
+E aí, a gente consegue adicionar áudio aqui também.
+
+95
+00:04:56,244 --> 00:04:58,284
+Então, eu posso conversar com ela por texto aqui,
+
+96
+00:04:58,364 --> 00:05:00,584
+mas eu posso clicar aqui do lado, ligar para a Lili.
+
+97
+00:05:00,684 --> 00:05:01,564
+Vamos ligar para ela aqui.
+
+98
+00:05:01,724 --> 00:05:02,724
+Olá, Lili, tudo bem?
+
+99
+00:05:03,224 --> 00:05:05,124
+Olá, sim, estou bem. E você?
+
+100
+00:05:05,444 --> 00:05:06,624
+Nossa, eu não estou nada bem.
+
+101
+00:05:06,664 --> 00:05:08,844
+Essa sua voz aí está muito robótica.
+
+102
+00:05:08,864 --> 00:05:09,824
+Não consegue fazer melhor?
+
+103
+00:05:10,444 --> 00:05:12,904
+Desculpe se a minha voz está soando robótica.
+
+104
+00:05:12,904 --> 00:05:17,104
+Vou tentar melhorar para nós dois conversarmos mais naturalmente.
+
+105
+00:05:18,244 --> 00:05:23,004
+Gostaria de mudar alguma coisa na forma que eu estou falando?
+
+106
+00:05:23,624 --> 00:05:26,884
+Não, não. Está parecendo uma voz de uma senhora.
+
+107
+00:05:28,156 --> 00:05:30,636
+De 70 anos.
+
+108
+00:05:30,996 --> 00:05:31,416
+Entendo.
+
+109
+00:05:31,796 --> 00:05:36,476
+Você está tentando dizer que minha voz soa muito velha?
+
+110
+00:05:36,616 --> 00:05:37,956
+Não funcionou tão bem aqui.
+
+111
+00:05:38,036 --> 00:05:41,516
+O site também está um pouco com instabilidade, vocês estão percebendo?
+
+112
+00:05:41,676 --> 00:05:43,616
+Mas mesmo assim, eu quero mostrar para vocês.
+
+113
+00:05:44,156 --> 00:05:45,856
+A gente fez alguns testes aqui.
+
+114
+00:05:46,576 --> 00:05:48,416
+Isso aqui já tem um tempinho que eu testei.
+
+115
+00:05:48,816 --> 00:05:51,256
+Mas são personagens que outras pessoas criaram.
+
+116
+00:05:51,616 --> 00:05:53,096
+E vale a pena você conhecer.
+
+117
+00:05:53,276 --> 00:05:55,016
+Essa daqui é simples, ela é gratuita.
+
+118
+00:05:55,316 --> 00:05:57,156
+Algumas vezes vai dar certo, outras vai dar errado.
+
+119
+00:05:57,156 --> 00:05:58,636
+você pode subir áudios também
+
+120
+00:05:58,636 --> 00:06:01,056
+mas você consegue conversar com
+
+121
+00:06:01,056 --> 00:06:02,676
+outros personagens, vamos ver
+
+122
+00:06:04,156 --> 00:06:05,936
+Olá, então quer dizer que você é o Rick Sanchez.
+
+123
+00:06:08,828 --> 00:06:09,668
+Isso mesmo.
+
+124
+00:06:13,532 --> 00:06:14,852
+Quem é você, né?
+
+125
+00:06:17,292 --> 00:06:21,412
+O site tá muito ruim, ele geralmente não é ruim assim, eu tô achando curioso isso.
+
+126
+00:06:21,832 --> 00:06:28,212
+Deve estar com alguma instabilidade, talvez por ser gratuito também, as pessoas acabam usando, não sei por que tá assim, né?
+
+127
+00:06:29,404 --> 00:06:30,604
+Vou até desligar aqui com ele.
+
+128
+00:06:31,524 --> 00:06:32,984
+Mas recomendo vocês testarem.
+
+129
+00:06:33,084 --> 00:06:35,024
+Esse aqui é o primeiro, de graça.
+
+130
+00:06:35,124 --> 00:06:37,144
+Outros testes que eu fiz não estavam tão ruins assim.
+
+131
+00:06:37,184 --> 00:06:39,064
+Agora vocês estão vendo que não está funcionando tão bem.
+
+132
+00:06:39,244 --> 00:06:41,104
+Eu lembro de ter testado aqui no feed,
+
+133
+00:06:41,724 --> 00:06:43,864
+quando eu procurei aqui, o Chaves, cara.
+
+134
+00:06:43,984 --> 00:06:45,484
+E tinha um Chaves aqui muito bom.
+
+135
+00:06:47,420 --> 00:06:50,240
+Vamos ver se eu consigo achar um Chaves aqui para a gente conversar com ele.
+
+136
+00:06:50,880 --> 00:06:54,000
+Ele era tão bom que ele falava assim, nossa, que buro!
+
+137
+00:06:54,080 --> 00:06:56,400
+E era a vozinha do Chaves mesmo, era muito interessante.
+
+138
+00:06:57,852 --> 00:07:00,252
+Então aqui, ó, tem esse Chaves. Eu sou o Chaves do Seriado de TV.
+
+139
+00:07:00,972 --> 00:07:04,012
+296 mil conversas. Vamos tentar conversar com o Chaves aqui.
+
+140
+00:07:04,152 --> 00:07:05,152
+Oi, Chavito, tudo bem?
+
+141
+00:07:07,516 --> 00:07:09,696
+Tudo beleza, Chiquinha?
+
+142
+00:07:11,548 --> 00:07:16,208
+Namo Tamim Dedo Fosso Tenasandai Tandasim.
+
+143
+00:07:18,396 --> 00:07:22,696
+Nossa, tá travando muito. Eu vou tentar conversar com você direto do telefone pra ver se melhora.
+
+144
+00:07:22,776 --> 00:07:25,036
+Fala, Chavito. Manda um oi aí pra galera aqui da live.
+
+145
+00:07:28,476 --> 00:07:34,856
+Olá, estava indo brincar de futebol, mas fiquei sabendo que o pessoal da live também precisa de alegria.
+
+146
+00:07:35,036 --> 00:07:37,336
+Então, um abraço para o público da live.
+
+147
+00:07:38,652 --> 00:07:43,952
+Não, abração. Xavito, fala pra gente o que você sabe sobre personas sintéticas.
+
+148
+00:07:47,356 --> 00:07:53,036
+Claro. Personas sintéticas são identidades falsas que podem ser usadas com finalidades maliciosas,
+
+149
+00:07:53,076 --> 00:07:55,776
+geralmente para enganar ou manipular as pessoas.
+
+150
+00:07:56,156 --> 00:08:00,016
+Eles são criados artificialmente com a intenção de parecerem reais,
+
+151
+00:08:00,356 --> 00:08:03,356
+mas geralmente são usados para atividades ilegais.
+
+152
+00:08:04,956 --> 00:08:10,696
+Nossa, é verdade, Chavito. Você trouxe um ponto muito importante mesmo, mas também podem ser usados por marcas, né?
+
+153
+00:08:10,776 --> 00:08:12,996
+Você tá muito inteligente, cara. Onde que você aprendeu isso?
+
+154
+00:08:16,284 --> 00:08:25,044
+Sim, exatamente. As personas sintéticas também são usadas por marcas para criar representações digitais que interagem e engajam com os consumidores.
+
+155
+00:08:25,284 --> 00:08:32,444
+São como personalidades virtuais que representam certos valores e crenças de uma forma específica para determinada marca.
+
+156
+00:08:34,140 --> 00:08:38,160
+Isso mesmo. A única coisa que eu acho estranha é você saber de tudo isso.
+
+157
+00:08:41,244 --> 00:08:42,464
+não é que eu saiba de tudo.
+
+158
+00:08:42,904 --> 00:08:44,964
+Sou só um personagem fictício,
+
+159
+00:08:45,004 --> 00:08:47,484
+mas meus criadores querem me dar uma personalidade
+
+160
+00:08:47,484 --> 00:08:49,264
+que seja capaz de interagir
+
+161
+00:08:49,264 --> 00:08:51,324
+de forma inteligente e divertida.
+
+162
+00:08:51,524 --> 00:08:53,184
+Por isso eles me ensinaram
+
+163
+00:08:53,184 --> 00:08:55,424
+muitos conteúdos interessantes e atuais.
+
+164
+00:08:56,764 --> 00:08:57,204
+Exatamente.
+
+165
+00:08:57,244 --> 00:08:58,944
+Olha, eu vou continuar a aula aqui com o pessoal.
+
+166
+00:08:58,944 --> 00:09:00,564
+Vai lá comer seu sanduíche de presunto.
+
+167
+00:09:03,452 --> 00:09:08,512
+Ok, eu vou comer meu sanduíche de presunto, mas se precisar de alguma coisa é só chamar, tá bom?
+
+168
+00:09:08,652 --> 00:09:09,272
+Até depois!
+
+169
+00:09:12,540 --> 00:09:14,780
+Legal, né? Isso já cria uma experiência mais interessante.
+
+170
+00:09:14,800 --> 00:09:16,800
+No telefone funcionou melhor do que no...
+
+171
+00:09:18,204 --> 00:09:20,604
+No computador tava dando umas travadas, vocês viram ali.
+
+172
+00:09:21,024 --> 00:09:22,284
+Mas o que que é legal?
+
+173
+00:09:22,344 --> 00:09:25,164
+Quando você adiciona uma camada de voz, isso começa a virar experiência.
+
+174
+00:09:26,524 --> 00:09:29,804
+Então, começa a sair de uma camada mais interna, né?
+
+175
+00:09:29,824 --> 00:09:33,564
+Apesar de que, igual eu falei, você pode construir dentro do seu brand system
+
+176
+00:09:33,564 --> 00:09:37,384
+as personas dessa maneira, pra que o seu time possa ligar pra essas personas
+
+177
+00:09:37,384 --> 00:09:40,684
+e conversar com elas pra ter pontos de vistas diferentes.
+
+178
+00:09:41,084 --> 00:09:42,324
+Isso é muito massa de colocar.
+
+179
+00:09:42,844 --> 00:09:47,704
+Mas também pra você criar experiências legais pra outras pessoas, né?
+
+180
+00:09:47,704 --> 00:09:49,624
+Às vezes pode ser uma experiência de marca, por exemplo,
+
+181
+00:09:49,624 --> 00:09:51,264
+se uma marca tem um personagem,
+
+182
+00:09:51,524 --> 00:09:53,464
+esse personagem pode ser uma persona sintética
+
+183
+00:09:53,464 --> 00:09:55,424
+que conversa com as pessoas,
+
+184
+00:09:55,684 --> 00:09:57,724
+isso por si só já é muito interessante.
+
+185
+00:09:58,064 --> 00:10:00,364
+Aqui eu mostrei uma das ferramentas para vocês,
+
+186
+00:10:00,504 --> 00:10:02,364
+mais focada em áudio,
+
+187
+00:10:02,404 --> 00:10:03,984
+que você pode fazer ligação para elas,
+
+188
+00:10:04,124 --> 00:10:06,244
+você também pode construir isso dentro de um sistema,
+
+189
+00:10:06,284 --> 00:10:07,504
+isso é um pouco mais avançado,
+
+190
+00:10:07,564 --> 00:10:10,824
+a gente vai ver mais sobre isso em trilhas como Web Apps,
+
+191
+00:10:10,924 --> 00:10:12,884
+a Codexia, por exemplo, é uma trilha que fala disso,
+
+192
+00:10:13,044 --> 00:10:15,004
+mas eu quero te mostrar aqui agora
+
+193
+00:10:15,004 --> 00:10:17,104
+mais um nível de evolução, que é,
+
+194
+00:10:17,104 --> 00:10:24,504
+E se você pudesse conversar com essa persona também, se estivesse ao vivo com ela, vendo ela falar com você?
+
+195
+00:10:24,584 --> 00:10:28,284
+Isso já é possível de maneiras bem simples, tem as maneiras avançadas também,
+
+196
+00:10:28,424 --> 00:10:33,964
+mas agora eu quero te mostrar um jeito muito simples de conversar com uma persona vendo ela falar com você.
+
+197
+00:10:34,044 --> 00:10:35,004
+Então, vem comigo.
+

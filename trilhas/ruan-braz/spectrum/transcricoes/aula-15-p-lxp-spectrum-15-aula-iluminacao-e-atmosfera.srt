@@ -1,0 +1,5264 @@
+1
+00:00:00,000 --> 00:00:03,700
+Agora que você entendeu a estrutura do prompt, entendeu que não é sobre o tamanho,
+
+2
+00:00:03,820 --> 00:00:06,080
+é sobre o que você está pedindo, que cada palavra conta,
+
+3
+00:00:06,400 --> 00:00:12,320
+te deu uma estrutura hierárquica para que você trabalhe cada parte do seu prompt também,
+
+4
+00:00:12,480 --> 00:00:18,240
+agora está na hora de mergulhar um pouco mais, principalmente em uma das camadas mais negligenciadas,
+
+5
+00:00:18,280 --> 00:00:19,980
+que é a parte de fotografia.
+
+6
+00:00:20,120 --> 00:00:23,700
+Só que entenda uma coisa importante, quando as pessoas pensam em fotografia,
+
+7
+00:00:24,240 --> 00:00:28,080
+logo vem na sua cabeça aquele estilo de foto realista,
+
+8
+00:00:28,880 --> 00:00:30,780
+mas o termo fotografia aqui,
+
+9
+00:00:30,840 --> 00:00:32,480
+eu gosto de trabalhar ele muito mais
+
+10
+00:00:32,480 --> 00:00:35,960
+com a ideia do campo da fotografia,
+
+11
+00:00:35,960 --> 00:00:39,260
+mais como a matéria da fotografia.
+
+12
+00:00:39,280 --> 00:00:40,880
+E quem estuda fotografia,
+
+13
+00:00:40,880 --> 00:00:41,940
+estuda sobre iluminação,
+
+14
+00:00:42,120 --> 00:00:43,080
+estuda sobre enquadramento,
+
+15
+00:00:43,200 --> 00:00:44,520
+estuda sobre ângulo,
+
+16
+00:00:44,580 --> 00:00:47,400
+e essas são características que te ajudam a...
+
+17
+00:00:48,476 --> 00:00:50,336
+guiar uma inteligência artificial
+
+18
+00:00:50,336 --> 00:00:52,136
+para construir uma imagem para você.
+
+19
+00:00:52,416 --> 00:00:53,996
+No momento em que eu estou gravando isso,
+
+20
+00:00:54,196 --> 00:00:58,096
+as IAs podem gerar qualquer tipo de imagem.
+
+21
+00:00:58,296 --> 00:01:00,136
+Se você não está conseguindo,
+
+22
+00:01:00,156 --> 00:01:02,516
+é em relação à sua direção
+
+23
+00:01:02,516 --> 00:01:03,556
+a essa inteligência artificial.
+
+24
+00:01:03,836 --> 00:01:05,616
+Não é porque ela não tem capacidade.
+
+25
+00:01:05,836 --> 00:01:08,196
+É claro que se você utilizar modelos mais antigos,
+
+26
+00:01:08,236 --> 00:01:11,436
+aí realmente você não vai conseguir
+
+27
+00:01:11,436 --> 00:01:13,556
+os melhores resultados possíveis.
+
+28
+00:01:13,556 --> 00:01:14,776
+Se você utilizar os novos,
+
+29
+00:01:14,856 --> 00:01:15,876
+você vai ter resultados melhores,
+
+30
+00:01:15,876 --> 00:01:18,736
+mas já existe tecnologia capaz de fazer isso, beleza?
+
+31
+00:01:19,176 --> 00:01:20,896
+E aí, como que vai funcionar aqui?
+
+32
+00:01:21,036 --> 00:01:22,796
+Serão três aulas, cada aula é um material.
+
+33
+00:01:23,096 --> 00:01:26,136
+São aulas que vão ser curtas, porque eu quero te apresentar esse material.
+
+34
+00:01:26,436 --> 00:01:28,896
+Você que tem acesso à gravação pode acessar esse material
+
+35
+00:01:28,896 --> 00:01:30,516
+aqui na descrição, aqui embaixo.
+
+36
+00:01:30,776 --> 00:01:33,216
+E aí você baixa ele e pode acompanhar aqui junto comigo.
+
+37
+00:01:33,536 --> 00:01:38,296
+Foi um material construído aqui por mim e pela equipe da Overlens também.
+
+38
+00:01:38,656 --> 00:01:40,476
+Alguns materiais foram a Thais que fez,
+
+39
+00:01:40,596 --> 00:01:42,136
+outros materiais foi eu que fiz também,
+
+40
+00:01:42,276 --> 00:01:44,096
+em testes e experimentações.
+
+41
+00:01:44,096 --> 00:01:48,616
+A nossa metodologia para experimentar aqui foi a metodologia científica.
+
+42
+00:01:48,616 --> 00:01:52,776
+De que? Experimentar, fazer testes ali, isolando variáveis,
+
+43
+00:01:52,876 --> 00:01:57,476
+para que você identifique como essas variáveis são interpretadas pela inteligência artificial.
+
+44
+00:01:57,996 --> 00:02:03,296
+Então, o primeiro que nós vamos ver aqui é em relação à iluminação com inteligência artificial.
+
+45
+00:02:03,556 --> 00:02:08,136
+Como você guia a iluminação de uma imagem usando palavras.
+
+46
+00:02:08,416 --> 00:02:12,996
+E quais são as melhores palavras que funcionam, o que não funciona tão bem assim e precisa de ajustes.
+
+47
+00:02:12,996 --> 00:02:15,136
+Então, eu vou mostrar o material para você,
+
+48
+00:02:15,256 --> 00:02:18,776
+vou mostrar ele direto no Figma aqui,
+
+49
+00:02:18,876 --> 00:02:21,436
+mas lembrando, você pode fazer o download e acompanhar aqui comigo.
+
+50
+00:02:21,636 --> 00:02:26,496
+Então, está aqui na janela o nosso Estudos Práticos de Iluminação com o IAS.
+
+51
+00:02:27,116 --> 00:02:28,916
+É um guia de iluminação aqui.
+
+52
+00:02:29,436 --> 00:02:30,816
+E vamos começar com tudo.
+
+53
+00:02:30,956 --> 00:02:32,836
+Então, aqui falando sobre Overlens, beleza,
+
+54
+00:02:33,076 --> 00:02:36,116
+vem a primeira coisa importante, entendendo o fundamento.
+
+55
+00:02:36,336 --> 00:02:40,076
+Então, na geração de imagens, a luz não é simulada fisicamente.
+
+56
+00:02:40,156 --> 00:02:41,596
+Então, isso aqui não é um render.
+
+57
+00:02:42,256 --> 00:02:44,576
+Igual quando você faz um objeto 3D
+
+58
+00:02:44,576 --> 00:02:47,076
+e aí você utiliza motores de renderização,
+
+59
+00:02:47,316 --> 00:02:49,456
+e aí esses motores de renderização,
+
+60
+00:02:49,596 --> 00:02:52,676
+eles simulam a luz na superfície.
+
+61
+00:02:52,756 --> 00:02:55,256
+Então eles simulam um raio de luz batendo,
+
+62
+00:02:55,916 --> 00:02:57,596
+refletindo de acordo com cada superfície.
+
+63
+00:02:57,616 --> 00:02:58,596
+Tem uma superfície opaca,
+
+64
+00:02:58,656 --> 00:03:00,336
+uma superfície muito lisa, refletiva.
+
+65
+00:03:00,416 --> 00:03:03,496
+Por isso que você coloca os objetos ali e calcula.
+
+66
+00:03:03,516 --> 00:03:05,016
+Então esses softwares de jogos,
+
+67
+00:03:05,916 --> 00:03:08,016
+softwares também de quem trabalha com engenharia,
+
+68
+00:03:08,016 --> 00:03:09,136
+quem trabalha com arquitetura,
+
+69
+00:03:09,136 --> 00:03:10,336
+quem trabalha com design de ambientes,
+
+70
+00:03:10,336 --> 00:03:12,136
+até quem trabalha com design de produto também,
+
+71
+00:03:12,256 --> 00:03:14,736
+que trabalha muito com 3D para fazer render,
+
+72
+00:03:14,916 --> 00:03:16,776
+e principalmente render realista,
+
+73
+00:03:16,796 --> 00:03:21,016
+vai usar um V-Ray para poder simular a luz ali.
+
+74
+00:03:22,748 --> 00:03:25,528
+De fato, acontece um cálculo físico nesses programas.
+
+75
+00:03:25,568 --> 00:03:28,108
+Mas com inteligência artificial, é diferente.
+
+76
+00:03:28,468 --> 00:03:31,808
+A inteligência artificial não faz um cálculo da luz batendo ali
+
+77
+00:03:31,808 --> 00:03:32,908
+para você ter um clique.
+
+78
+00:03:33,328 --> 00:03:37,168
+Ela gera pixel por pixel numa camada flat.
+
+79
+00:03:37,468 --> 00:03:40,128
+Ou seja, você tem uma imagem flat ali.
+
+80
+00:03:40,488 --> 00:03:42,648
+Se a gente pensa no funcionamento dela,
+
+81
+00:03:42,728 --> 00:03:43,768
+não é bem uma imagem flat,
+
+82
+00:03:43,888 --> 00:03:47,228
+porque são várias camadas que ela vai colocando da imagem assim,
+
+83
+00:03:47,268 --> 00:03:49,228
+depois ela dá um flat.
+
+84
+00:03:49,488 --> 00:03:51,448
+E você tem uma única camada de pixels.
+
+85
+00:03:51,448 --> 00:03:54,308
+Ou seja, não tem um cálculo ali de iluminação.
+
+86
+00:03:54,508 --> 00:03:57,708
+Isso muda um pouco a maneira como você trabalha com a imagem
+
+87
+00:03:57,708 --> 00:03:59,428
+quando você trabalha com inteligência artificial.
+
+88
+00:03:59,948 --> 00:04:04,468
+Na IA, é uma questão de interpretação de palavras e significados.
+
+89
+00:04:04,468 --> 00:04:05,528
+É uma interpretação de inputs.
+
+90
+00:04:05,808 --> 00:04:10,488
+Você vai guiando ela no que você quer ver dentro da cena.
+
+91
+00:04:11,148 --> 00:04:14,468
+Dentro dessa lógica, então, a gente não fica explicando
+
+92
+00:04:14,468 --> 00:04:16,948
+que o raio de luz vai bater, que vai acontecer isso, isso, isso.
+
+93
+00:04:17,048 --> 00:04:19,968
+A gente já fala do resultado final que nós queremos obter ali
+
+94
+00:04:19,968 --> 00:04:22,128
+com técnicas de fotografia.
+
+95
+00:04:22,188 --> 00:04:24,068
+E é isso que vocês vão ver aqui agora.
+
+96
+00:04:24,188 --> 00:04:26,088
+Então, não é uma simulação de luz,
+
+97
+00:04:26,208 --> 00:04:29,748
+é uma técnica que a gente chama de técnica de difusão.
+
+98
+00:04:31,164 --> 00:04:33,444
+pausa aqui, inclusive Davi, corta esse trecho
+
+99
+00:04:33,444 --> 00:04:35,044
+aqui na gravação, quem tá perguntando
+
+100
+00:04:35,044 --> 00:04:37,224
+onde tá o material, o material ele é
+
+101
+00:04:37,224 --> 00:04:39,084
+disponível só pra membros da Overlens
+
+102
+00:04:39,084 --> 00:04:41,384
+ou se a gente, eu acabei de falar, né
+
+103
+00:04:41,384 --> 00:04:43,464
+se a gente bater 300 pessoas ao vivo
+
+104
+00:04:43,464 --> 00:04:44,544
+nessa live aqui hoje
+
+105
+00:04:45,864 --> 00:04:47,364
+no... até 18 horas
+
+106
+00:04:47,364 --> 00:04:49,304
+eu libero esse material pra vocês baixarem
+
+107
+00:04:49,304 --> 00:04:51,104
+beleza? Mas aí tem que bater
+
+108
+00:04:51,104 --> 00:04:52,504
+300 pessoas ao vivo aqui hoje
+
+109
+00:04:53,704 --> 00:04:55,384
+então, se não bater, quem é
+
+110
+00:04:55,384 --> 00:04:56,824
+aluno vai ganhar também, fica tranquilo
+
+111
+00:04:56,824 --> 00:04:59,164
+por isso que eu falo que vai ficar aqui embaixo, que vocês podem assistir
+
+112
+00:04:59,164 --> 00:04:59,864
+a gravação depois
+
+113
+00:04:59,864 --> 00:05:00,064
+é isso.
+
+114
+00:05:01,372 --> 00:05:04,892
+Então, não é simulação de luz, é técnica de difusão.
+
+115
+00:05:05,772 --> 00:05:07,472
+Isso traz limitações e vantagens.
+
+116
+00:05:07,612 --> 00:05:08,232
+Limitação.
+
+117
+00:05:08,252 --> 00:05:13,072
+E as de imagem possuem limitações em relação à consistência em cenas complexas,
+
+118
+00:05:13,072 --> 00:05:17,012
+com sombras, reflexos e volumes muitas vezes incorretos e contraditórios.
+
+119
+00:05:17,172 --> 00:05:21,272
+Isso aqui é uma afirmação baseada nos testes que nós fizemos aqui na Overlens.
+
+120
+00:05:21,912 --> 00:05:22,532
+Vantagem.
+
+121
+00:05:22,532 --> 00:05:24,992
+São extremamente rápidas, acessíveis e criativas.
+
+122
+00:05:25,232 --> 00:05:27,252
+Muitas vezes fazer um render leva horas.
+
+123
+00:05:27,572 --> 00:05:30,092
+Aqui você consegue uma imagem rápida de visualização
+
+124
+00:05:30,092 --> 00:05:31,972
+em questão de segundos.
+
+125
+00:05:32,812 --> 00:05:34,932
+Geram variações visuais quase instantaneamente,
+
+126
+00:05:34,932 --> 00:05:37,532
+permitindo exploração visual que seriam lentas ou caras
+
+127
+00:05:37,532 --> 00:05:38,932
+em fotografia ou em 3D.
+
+128
+00:05:39,192 --> 00:05:41,972
+Imagina contratar um fotógrafo para tirar a foto e fazer isso.
+
+129
+00:05:42,032 --> 00:05:44,272
+Aí traz muita vantagem em questão de custo.
+
+130
+00:05:44,532 --> 00:05:46,092
+Quer dizer que a fotografia morreu?
+
+131
+00:05:46,172 --> 00:05:47,392
+Quer dizer que o render 3D morreu?
+
+132
+00:05:47,452 --> 00:05:47,792
+Não.
+
+133
+00:05:47,872 --> 00:05:49,892
+Só vão ser usados em contextos diferentes
+
+134
+00:05:49,892 --> 00:05:50,932
+para finalidades diferentes.
+
+135
+00:05:51,792 --> 00:05:52,852
+Aí nós vamos aqui.
+
+136
+00:05:54,332 --> 00:05:56,332
+para a metodologia de estudos, igual eu falei para vocês.
+
+137
+00:05:58,364 --> 00:06:02,084
+Então, nesse estudo, utilizei prompts, esse aqui foi um estudo que eu que fiz,
+
+138
+00:06:02,604 --> 00:06:05,464
+os outros que eu vou mostrar, a Thais que fez, mas olha só,
+
+139
+00:06:05,524 --> 00:06:08,164
+nesse estudo utilizei prompts fixos de base como?
+
+140
+00:06:08,624 --> 00:06:13,724
+Aí eu peguei uma base aqui do prompt, que é só o seguinte, uma foto de uma esfera de metal.
+
+141
+00:06:15,132 --> 00:06:23,352
+lisa, suave. Eu precisava disso aqui porque eu tinha que fixar o meu contexto, objeto e ambiente
+
+142
+00:06:23,352 --> 00:06:29,712
+para que eu trabalhasse só a parte de iluminação. Então vocês vão ver que eu uso esse mesmo prompt
+
+143
+00:06:29,712 --> 00:06:36,092
+em todas as imagens, mudando só a parte de iluminação. E essa que é a graça desse estudo aqui, beleza?
+
+144
+00:06:36,312 --> 00:06:42,032
+Então eu usei isso de ponto de partida para investigar como diferentes palavras-chave afetam o comportamento
+
+145
+00:06:42,032 --> 00:06:43,592
+da luz em imagens geradas por IA.
+
+146
+00:06:43,672 --> 00:06:45,892
+A cada variação, adicionei termos
+
+147
+00:06:45,892 --> 00:06:47,532
+específicos como Studio Light,
+
+148
+00:06:47,812 --> 00:06:49,392
+Backlight, Ring Light,
+
+149
+00:06:50,192 --> 00:06:52,192
+Lighting, sem modificar a base
+
+150
+00:06:52,192 --> 00:06:54,152
+do prompt, para observar como a IA
+
+151
+00:06:54,152 --> 00:06:56,152
+interpreta e simula diferentes condições
+
+152
+00:06:56,152 --> 00:06:57,552
+de iluminação. Agora,
+
+153
+00:06:57,792 --> 00:07:00,112
+apresento os melhores resultados dessas combinações,
+
+154
+00:07:00,272 --> 00:07:02,112
+revelando quais palavras geram efeitos
+
+155
+00:07:02,112 --> 00:07:04,392
+de luz mais coerentes, realistas e estatísticas
+
+156
+00:07:06,932 --> 00:07:08,132
+ou estilisticamente
+
+157
+00:07:08,132 --> 00:07:09,992
+interessantes em superfícies
+
+158
+00:07:09,992 --> 00:07:12,052
+metálicas. Também reservei
+
+159
+00:07:12,052 --> 00:07:14,392
+um espaço para compartilhar algumas tentativas
+
+160
+00:07:14,392 --> 00:07:16,192
+que deram errado, revelando
+
+161
+00:07:16,192 --> 00:07:18,112
+os limites e inconsistências. Então vamos dar uma olhada aqui
+
+162
+00:07:18,112 --> 00:07:20,172
+no estudo. Comecei aqui, teste
+
+163
+00:07:20,172 --> 00:07:22,032
+em objeto reflexivo. Cada
+
+164
+00:07:22,032 --> 00:07:24,112
+palavra dessa que eu uso, foi uma
+
+165
+00:07:24,112 --> 00:07:26,232
+palavra que eu adicionei no prompt. Então, olha só,
+
+166
+00:07:26,312 --> 00:07:27,932
+o prompt era essa
+
+167
+00:07:27,932 --> 00:07:30,012
+frase aqui, que é uma foto
+
+168
+00:07:30,012 --> 00:07:32,132
+de uma esfera de metal, e eu adicionei
+
+169
+00:07:32,132 --> 00:07:34,032
+no final do prompt qual
+
+170
+00:07:34,032 --> 00:07:35,252
+era a iluminação que eu queria.
+
+171
+00:07:36,312 --> 00:07:38,012
+Vão reparando no prompt final que a
+
+172
+00:07:38,012 --> 00:07:40,132
+a única parte que eu mudei foi a parte da iluminação.
+
+173
+00:07:40,312 --> 00:07:42,092
+E aí vocês vão ver como ela trouxe
+
+174
+00:07:42,092 --> 00:07:44,072
+imagens completamente diferentes com essas
+
+175
+00:07:44,072 --> 00:07:45,972
+variações. Então vamos lá. Studio Light
+
+176
+00:07:45,972 --> 00:07:47,652
+ficou dessa maneira aqui.
+
+177
+00:07:47,912 --> 00:07:50,292
+Eu gosto muito da iluminação em Studio Light,
+
+178
+00:07:50,412 --> 00:07:50,892
+porque é uma
+
+179
+00:07:52,292 --> 00:07:54,152
+iluminação limpa. Um modelo
+
+180
+00:07:54,152 --> 00:07:55,972
+de ar que gosta muito dessa iluminação aqui
+
+181
+00:07:55,972 --> 00:07:58,092
+é o Sea Dream
+
+182
+00:07:58,092 --> 00:07:59,492
+da ByteDance.
+
+183
+00:08:00,212 --> 00:08:02,112
+Ela faz muitas imagens
+
+184
+00:08:02,112 --> 00:08:04,032
+nesse estilo. Aí nós temos aqui a
+
+185
+00:08:04,032 --> 00:08:06,052
+Split Lighting. Aí vocês já reparam
+
+186
+00:08:06,052 --> 00:08:07,932
+uma coisa interessante. Olha como que a
+
+187
+00:08:07,932 --> 00:08:09,612
+Studio Light tem uma sombra aqui
+
+188
+00:08:09,612 --> 00:08:11,952
+que é mais suave. Isso acontece porque
+
+189
+00:08:11,952 --> 00:08:14,012
+em luz de estúdio, olha, foi até refletido na
+
+190
+00:08:14,012 --> 00:08:15,932
+bolinha. Eu achei isso muito legal. Você tem aqui
+
+191
+00:08:15,932 --> 00:08:17,912
+uma softbox, tem outra aqui e outra aqui.
+
+192
+00:08:18,292 --> 00:08:19,992
+Isso faz com que você tenha luz vindo
+
+193
+00:08:19,992 --> 00:08:21,732
+dessa direção, uma luz forte, olha,
+
+194
+00:08:21,792 --> 00:08:24,112
+por isso que gera essa sombra. Tem uma luz
+
+195
+00:08:24,112 --> 00:08:25,872
+também vindo de cima, por isso que gera
+
+196
+00:08:25,872 --> 00:08:27,932
+essa segunda sombra. Só que tá vendo que tem uma
+
+197
+00:08:27,932 --> 00:08:29,912
+outra sombrinha desse lado? Significa
+
+198
+00:08:29,912 --> 00:08:31,892
+que vem uma luz de cá também que deixa
+
+199
+00:08:31,892 --> 00:08:33,932
+essa mais suave. Então, olha que
+
+200
+00:08:33,932 --> 00:08:35,912
+interessante. Aí, assimulando isso com a
+
+201
+00:08:35,912 --> 00:08:37,612
+palavra-chave que eu usei, que é a palavra
+
+202
+00:08:37,612 --> 00:08:39,832
+Studio Light. Lindo demais, né? Fazendo
+
+203
+00:08:39,832 --> 00:08:42,232
+o teste aqui. Nós temos a Split Lighting.
+
+204
+00:08:42,392 --> 00:08:44,092
+Aí aqui eu tenho aqui, ó, o mesmo
+
+205
+00:08:44,092 --> 00:08:45,712
+prompt. É isso que eu quero que vocês observem.
+
+206
+00:08:45,732 --> 00:08:47,952
+Não mudou o prompt aqui. Eu só adicionei
+
+207
+00:08:47,952 --> 00:08:50,232
+a variável. Quando eu coloco Split Lighting,
+
+208
+00:08:50,252 --> 00:08:51,632
+eu tenho uma luz mais dura, tá vendo?
+
+209
+00:08:51,912 --> 00:08:53,012
+Aqui na cena.
+
+210
+00:08:53,712 --> 00:08:56,112
+Aí vem Top Lighting, que é a luz de cima.
+
+211
+00:08:56,152 --> 00:08:57,752
+Então ele brilhou mais aqui, colocou
+
+212
+00:08:57,752 --> 00:08:59,432
+uma sombra mais dura aqui.
+
+213
+00:08:59,812 --> 00:09:01,652
+E aí eu fui seguindo assim. Vamos lá.
+
+214
+00:09:02,252 --> 00:09:03,772
+Back Lighting, ou seja, a luz de
+
+215
+00:09:03,772 --> 00:09:05,672
+de trás, a luz vindo daqui. Imagina isso
+
+216
+00:09:05,672 --> 00:09:07,152
+em um modelo, em um outro objeto.
+
+217
+00:09:07,432 --> 00:09:09,272
+Você pode usar essa palavra-chave
+
+218
+00:09:09,272 --> 00:09:11,832
+pra tentar trazer isso. Aqui tem um ponto interessante
+
+219
+00:09:11,832 --> 00:09:13,252
+que eu quero que vocês observem.
+
+220
+00:09:13,292 --> 00:09:15,692
+Em backlighting, eu tenho o mesmo
+
+221
+00:09:15,692 --> 00:09:17,752
+prompt, só que a minha variável
+
+222
+00:09:17,752 --> 00:09:19,852
+foi maior. Tá aqui, backlighting,
+
+223
+00:09:19,852 --> 00:09:21,532
+ring light, dark background,
+
+224
+00:09:21,872 --> 00:09:23,732
+high contrast. Pra conseguir
+
+225
+00:09:23,732 --> 00:09:25,992
+esse efeito, eu precisei de mais palavras-chave.
+
+226
+00:09:26,172 --> 00:09:27,332
+Fez parte aqui do
+
+227
+00:09:27,892 --> 00:09:29,192
+exercício também, né? Então,
+
+228
+00:09:29,732 --> 00:09:31,472
+é um outro ponto interessante pra observar.
+
+229
+00:09:32,012 --> 00:09:33,512
+Rembrandt lighting, que é uma luz
+
+230
+00:09:33,512 --> 00:09:35,452
+de um pintor, né? E aí vem aqui
+
+231
+00:09:35,452 --> 00:09:37,372
+a foto do mesmo jeito
+
+232
+00:09:37,372 --> 00:09:39,332
+e aqui vem Rembrandt Lighting.
+
+233
+00:09:39,792 --> 00:09:41,152
+Depois é Rembrandt, né?
+
+234
+00:09:41,232 --> 00:09:43,552
+Eu uso o T no final, é a mania de
+
+235
+00:09:43,552 --> 00:09:43,712
+colocar.
+
+236
+00:09:44,988 --> 00:09:45,528
+Spot light.
+
+237
+00:09:45,808 --> 00:09:47,648
+Aí aqui a gente tem só o spot light,
+
+238
+00:09:47,828 --> 00:09:49,968
+que é aquela luz que forma um spotzinho, tá vendo?
+
+239
+00:09:50,128 --> 00:09:53,288
+A luz dura aqui também, ficou bem bonito, inclusive, bem legal.
+
+240
+00:09:53,468 --> 00:09:54,768
+Mas trazendo um spot light.
+
+241
+00:09:55,328 --> 00:09:57,068
+Low key lighting.
+
+242
+00:09:57,608 --> 00:10:01,948
+Low key lighting, eu achei interessante que ele gerou essa luz aqui.
+
+243
+00:10:02,428 --> 00:10:07,248
+E quando é low key, você diminui muito a luz da cena,
+
+244
+00:10:07,348 --> 00:10:08,968
+da imagem, pra conseguir esse efeito.
+
+245
+00:10:09,388 --> 00:10:12,148
+Então também é uma coisa bem legal de avaliar aqui.
+
+246
+00:10:12,328 --> 00:10:14,728
+Ainda isolando aqui a variável.
+
+247
+00:10:15,888 --> 00:10:19,568
+Background Lighting, você pode usar aqui também para conseguir esse efeito, luz de fundo.
+
+248
+00:10:19,988 --> 00:10:24,088
+Tem aqui Diagonal Lighting, ele trouxe ela na diagonal aqui também.
+
+249
+00:10:24,268 --> 00:10:27,388
+Isso é interessante porque isso é diferente de um render.
+
+250
+00:10:27,808 --> 00:10:32,628
+Aqui a gente tem uma boa diferença, que é, nesse Background Lighting...
+
+251
+00:10:35,132 --> 00:10:37,352
+Ele colocou... diagonal lighting, né?
+
+252
+00:10:37,412 --> 00:10:39,392
+Ele colocou a imagem em diagonal.
+
+253
+00:10:39,612 --> 00:10:43,332
+Então, a palavra diagonal influenciou toda a composição e não só a luz.
+
+254
+00:10:43,572 --> 00:10:44,872
+É legal pra observar também.
+
+255
+00:10:45,472 --> 00:10:47,472
+Luz difusa, diffused light.
+
+256
+00:10:48,312 --> 00:10:49,672
+Só troquei o prompt aqui.
+
+257
+00:10:50,272 --> 00:10:52,612
+Hard light, só troquei aqui também.
+
+258
+00:10:52,812 --> 00:10:53,652
+Uma luz mais dura.
+
+259
+00:10:54,232 --> 00:10:56,192
+Calma que vai começar a ficar mais interessante agora.
+
+260
+00:10:57,788 --> 00:10:59,208
+Aí a gente tem luz por temperatura.
+
+261
+00:10:59,348 --> 00:11:01,508
+Eu falei, e se eu testar também a temperatura?
+
+262
+00:11:01,788 --> 00:11:03,208
+Colocar aqui 5.000...
+
+263
+00:11:03,748 --> 00:11:05,488
+Ficou escrito um aqui e outro aqui, né?
+
+264
+00:11:05,648 --> 00:11:08,268
+Tá errado. Na verdade, é aqui que devia ter 2.000, tá?
+
+265
+00:11:08,388 --> 00:11:09,448
+De ir pra equipe corrigir.
+
+266
+00:11:09,588 --> 00:11:12,148
+Então a gente tem aqui 2.000 kelvins.
+
+267
+00:11:12,188 --> 00:11:14,588
+É uma luz bem mais fria e branca.
+
+268
+00:11:14,948 --> 00:11:16,688
+A gente tem aqui as...
+
+269
+00:11:16,688 --> 00:11:17,008
+Ah!
+
+270
+00:11:19,004 --> 00:11:20,344
+Todos ficaram, né? Menos o 10.
+
+271
+00:11:20,444 --> 00:11:21,604
+Deixa eu ver. Esse ficou certo.
+
+272
+00:11:22,664 --> 00:11:24,304
+Esse aqui ficou... É só esses dois que ficaram
+
+273
+00:11:24,304 --> 00:11:26,104
+errados. Então tá bom. Tá errado no material,
+
+274
+00:11:26,204 --> 00:11:28,044
+depois a gente corrige. Mas a gente tem aqui
+
+275
+00:11:28,684 --> 00:11:30,284
+2.000 kelvins. Gerou
+
+276
+00:11:30,284 --> 00:11:31,704
+essa mais... essa
+
+277
+00:11:32,704 --> 00:11:34,104
+intermediária. Porque quando ela fica
+
+278
+00:11:34,104 --> 00:11:36,084
+muito branca assim, ela não é nem fria
+
+279
+00:11:36,084 --> 00:11:37,804
+demais e nem quente demais, né?
+
+280
+00:11:38,704 --> 00:11:40,384
+Então tem aqui 2.000 kelvins.
+
+281
+00:11:40,444 --> 00:11:42,044
+Isso aqui a IA não faz com tanta
+
+282
+00:11:42,044 --> 00:11:44,224
+precisão. É bom eu falar também. Então a gente
+
+283
+00:11:44,224 --> 00:11:46,004
+foi fazendo vários testes e
+
+284
+00:11:47,184 --> 00:11:48,064
+ajuda, direciona bem.
+
+285
+00:11:48,064 --> 00:11:51,904
+Você tem uma temperatura da luz ali, ela tenta simular isso.
+
+286
+00:11:52,024 --> 00:11:55,504
+É legal porque aqui ficou mais azul, aqui já ficou mais quente.
+
+287
+00:11:55,644 --> 00:11:57,164
+Então ela simula isso, funciona.
+
+288
+00:11:57,984 --> 00:11:59,904
+Mas nem sempre é com tanta precisão.
+
+289
+00:12:00,004 --> 00:12:02,504
+Mas nos testes aqui eu gostei dos resultados.
+
+290
+00:12:03,104 --> 00:12:04,584
+Tem aqui 10.000 Kelvin também.
+
+291
+00:12:05,284 --> 00:12:10,044
+Além de temperatura, eu também pensei, e se eu trouxer nomes de luzes também?
+
+292
+00:12:10,264 --> 00:12:15,004
+Então tem Candle Light, aqui que é luz de vela, uma coisa mais parecida com luz de vela.
+
+293
+00:12:15,004 --> 00:12:17,064
+tem luz de tungstênio, tem luz
+
+294
+00:12:17,064 --> 00:12:19,164
+fluorescente, que não ficou tão fluorescente
+
+295
+00:12:19,164 --> 00:12:21,204
+assim, mas é igual eu falei, eu coloquei todos os resultados
+
+296
+00:12:21,204 --> 00:12:23,324
+do teste aqui, tem também
+
+297
+00:12:23,324 --> 00:12:25,224
+luz de LED, que é um pouquinho mais
+
+298
+00:12:25,224 --> 00:12:27,084
+quente, achei bem bonito, luz de LED
+
+299
+00:12:27,084 --> 00:12:29,244
+funciona bem pra arquitetura e design
+
+300
+00:12:29,244 --> 00:12:31,224
+de ambientes, coloquei
+
+301
+00:12:31,224 --> 00:12:33,224
+aqui luz do dia, olha só como tem uma luz bem
+
+302
+00:12:33,224 --> 00:12:34,764
+diferente aqui, luz da noite
+
+303
+00:12:34,764 --> 00:12:37,164
+achei legal que ele pensou em
+
+304
+00:12:37,164 --> 00:12:39,084
+luz da noite dentro de um ambiente urbano
+
+305
+00:12:39,084 --> 00:12:41,104
+mas também tem luz da lua, que não deu muito
+
+306
+00:12:41,104 --> 00:12:42,464
+certo no teste que a gente fez aqui
+
+307
+00:12:43,144 --> 00:12:45,064
+Golden Hour, que é muito usado
+
+308
+00:12:45,064 --> 00:12:47,364
+fotógrafos gostam muito desse momento aqui
+
+309
+00:12:47,364 --> 00:12:49,424
+que é ali 5h30, 6h da tarde
+
+310
+00:12:49,424 --> 00:12:51,104
+e tem o Blue Hour também
+
+311
+00:12:51,104 --> 00:12:53,204
+que é ou depois do
+
+312
+00:12:53,204 --> 00:12:55,424
+Golden Hour ou de madrugada de manhã
+
+313
+00:12:55,424 --> 00:12:56,504
+também funciona bem
+
+314
+00:12:56,504 --> 00:12:59,084
+então olha só o outro tipo de luz que ele trouxe
+
+315
+00:12:59,084 --> 00:13:01,064
+é legal que isso influenciou o contexto também
+
+316
+00:13:01,064 --> 00:13:02,604
+porque eu tenho o mesmo prompt
+
+317
+00:13:02,604 --> 00:13:04,504
+mas quando eu coloco o Golden Hour
+
+318
+00:13:04,504 --> 00:13:06,504
+ele imagina que é a luz do próprio sol
+
+319
+00:13:06,504 --> 00:13:08,424
+então ele colocou a esfera
+
+320
+00:13:08,424 --> 00:13:10,644
+num ambiente externo, eu poderia ter
+
+321
+00:13:10,644 --> 00:13:13,064
+ter especificado um ambiente interno no...
+
+322
+00:13:14,716 --> 00:13:16,136
+no prompt também, mas eu gostei
+
+323
+00:13:16,136 --> 00:13:17,896
+de como que
+
+324
+00:13:18,336 --> 00:13:20,436
+eu mudar esse prompt mudou também
+
+325
+00:13:20,436 --> 00:13:22,536
+o ambiente. Achei interessante nos testes aqui.
+
+326
+00:13:22,776 --> 00:13:23,836
+Tem o blue hour também.
+
+327
+00:13:24,456 --> 00:13:26,356
+Aí vem aqui luz holográfica.
+
+328
+00:13:26,356 --> 00:13:27,976
+Então ele fez aqui, achei bem interessante.
+
+329
+00:13:28,356 --> 00:13:30,516
+Luz de neon sempre. Aqui tá errado
+
+330
+00:13:30,516 --> 00:13:32,516
+o texto, tá? Na verdade era neon light.
+
+331
+00:13:32,996 --> 00:13:34,436
+Fala pra equipe que a gente precisa dar uma
+
+332
+00:13:34,436 --> 00:13:36,116
+editada aqui no arquivo.
+
+333
+00:13:36,556 --> 00:13:38,436
+Mas isso aqui foi culpa minha, porque eu que fiz esse
+
+334
+00:13:38,436 --> 00:13:40,396
+arquivo. Eu não terminei de editar ele corretamente.
+
+335
+00:13:41,456 --> 00:13:42,336
+Bokeh, ou book
+
+336
+00:13:42,336 --> 00:13:44,956
+Light, que gera esse desfoque aqui.
+
+337
+00:13:46,492 --> 00:13:51,712
+Underwater, eu achei isso interessante, que para fazer uma luz underwater, ele colocou a esfera underwater,
+
+338
+00:13:51,892 --> 00:13:57,212
+mas o que aconteceu é que parece que a esfera virou meio que de água aqui também, né?
+
+339
+00:13:57,332 --> 00:13:59,572
+Então ele confundiu um pouco a textura aqui no teste.
+
+340
+00:14:01,340 --> 00:14:04,340
+Erros e limitações. Então aqui tem alguns exemplos, tem outros também,
+
+341
+00:14:04,420 --> 00:14:09,820
+mas esse foi o laboratório de luz que a gente fez aqui em objetos com superfície reflexiva.
+
+342
+00:14:10,080 --> 00:14:12,060
+Só que aconteceu isso aqui, que é interessante.
+
+343
+00:14:12,480 --> 00:14:17,340
+Quando eu coloquei ring light, olha só, isso aqui ajuda a entender como que a IA funciona.
+
+344
+00:14:17,680 --> 00:14:23,240
+Quando eu coloquei ring light, ele trouxe aqui ring como um anel, ele fez a esfera virar um anel.
+
+345
+00:14:23,360 --> 00:14:27,040
+Só que eu queria aquele ring light que muitos influencers usam,
+
+346
+00:14:27,080 --> 00:14:30,640
+que gera um efeito na íris, que a íris fica como um anel.
+
+347
+00:14:31,340 --> 00:14:34,220
+Para isso, eu precisaria especificar melhor.
+
+348
+00:14:34,480 --> 00:14:38,540
+Então, aqui, ele interpretou a palavra ring como literalmente um anel,
+
+349
+00:14:38,540 --> 00:14:39,980
+e fez um anel aqui, não era isso que eu queria.
+
+350
+00:14:40,420 --> 00:14:44,460
+Solução, usar little bit a ring light.
+
+351
+00:14:45,916 --> 00:14:47,456
+Ring Light Reflections
+
+352
+00:14:47,456 --> 00:14:49,796
+on Sphere. Tende a resolver
+
+353
+00:14:49,796 --> 00:14:51,676
+aqui um pouquinho melhor do que só jogar o nome
+
+354
+00:14:51,676 --> 00:14:53,036
+da palavra.
+
+355
+00:14:53,756 --> 00:14:56,096
+Under Light também. Não adicionou
+
+356
+00:14:56,096 --> 00:14:57,916
+luz abaixo da esfera por conta
+
+357
+00:14:57,916 --> 00:14:59,476
+do objeto precisar de uma base.
+
+358
+00:14:59,636 --> 00:15:01,776
+Se eu colocasse base de vidro,
+
+359
+00:15:01,816 --> 00:15:03,836
+às vezes funcionava. E aqui a solução é descrever
+
+360
+00:15:03,836 --> 00:15:04,996
+melhor o ambiente ou o enquadramento.
+
+361
+00:15:05,276 --> 00:15:07,456
+Porque não tem como uma luz vir de baixo
+
+362
+00:15:07,976 --> 00:15:09,716
+se eu tenho só o chão aqui embaixo.
+
+363
+00:15:10,136 --> 00:15:11,976
+Então, isso aqui acontece
+
+364
+00:15:11,976 --> 00:15:14,356
+também, não é limitação
+
+365
+00:15:14,356 --> 00:15:16,136
+da EA. Dentro da interpretação dela,
+
+366
+00:15:16,236 --> 00:15:18,136
+ela precisa escolher. Ou eu boto a luz de baixo,
+
+367
+00:15:18,176 --> 00:15:20,116
+ou eu boto um chão. Eu poderia
+
+368
+00:15:20,116 --> 00:15:22,056
+ter falado objeto flutuante, ou
+
+369
+00:15:22,056 --> 00:15:24,196
+superfície de vidro, pra ele simular
+
+370
+00:15:24,196 --> 00:15:25,756
+essa underlight.
+
+371
+00:15:25,956 --> 00:15:28,256
+Se você faz, por exemplo, uma face, um rosto
+
+372
+00:15:28,256 --> 00:15:30,376
+de alguém com underlight, ele já vai fazer tranquilo
+
+373
+00:15:30,376 --> 00:15:30,956
+e vai funcionar bem.
+
+374
+00:15:31,956 --> 00:15:34,056
+Midnight light. Não é exatamente
+
+375
+00:15:34,056 --> 00:15:36,396
+um problema, mas por ser uma luz externa
+
+376
+00:15:36,396 --> 00:15:38,096
+com prompt curto, leva o objeto
+
+377
+00:15:38,096 --> 00:15:40,436
+pra rua ao invés de usar a luz da lua.
+
+378
+00:15:40,756 --> 00:15:42,156
+Que eu queria trazer a luz
+
+379
+00:15:42,156 --> 00:15:42,936
+da meia-noite, né?
+
+380
+00:15:43,856 --> 00:15:45,296
+destaca a luz do poste
+
+381
+00:15:45,296 --> 00:15:46,996
+e não a luz de midnight
+
+382
+00:15:46,996 --> 00:15:48,736
+aí, o que é melhor aqui?
+
+383
+00:15:48,856 --> 00:15:50,836
+descrever melhor a cena, falar que tá, sei lá
+
+384
+00:15:50,836 --> 00:15:52,336
+num lugar que não tem luz urbana
+
+385
+00:15:52,336 --> 00:15:54,316
+você não coloca que não tem luz urbana, né?
+
+386
+00:15:54,316 --> 00:15:57,256
+você coloca um lugar escuro na natureza
+
+387
+00:15:57,256 --> 00:15:58,696
+na meia noite, com a luz da lua
+
+388
+00:15:58,696 --> 00:16:00,916
+batendo sobre o objeto, você explica assim
+
+389
+00:16:00,916 --> 00:16:02,776
+ele tende a trazer o resultado melhor pra você
+
+390
+00:16:02,776 --> 00:16:04,336
+beleza? então tem aí, midnight
+
+391
+00:16:04,936 --> 00:16:06,296
+outros erros, firelight
+
+392
+00:16:06,296 --> 00:16:08,256
+ele começou a colocar o fogo na esfera
+
+393
+00:16:08,256 --> 00:16:11,076
+porque ele interpreta a palavra fogo como um
+
+394
+00:16:11,076 --> 00:16:12,756
+o que ele interpreta ela aqui?
+
+395
+00:16:12,936 --> 00:16:13,156
+comum.
+
+396
+00:16:14,776 --> 00:16:16,756
+substantivo, ou até também um adjetivo,
+
+397
+00:16:16,756 --> 00:16:18,656
+uma característica, a bola tá pegando fogo, né?
+
+398
+00:16:18,856 --> 00:16:20,136
+E aí, às vezes, é melhor usar
+
+399
+00:16:20,136 --> 00:16:22,216
+temperatura. Então, ao invés de firelight,
+
+400
+00:16:22,356 --> 00:16:24,456
+usa warm, de quente,
+
+401
+00:16:24,496 --> 00:16:26,656
+de algo mais aquecido ali.
+
+402
+00:16:27,676 --> 00:16:28,476
+Moonlight, ele
+
+403
+00:16:28,476 --> 00:16:30,856
+tentou fazer a lua na esfera.
+
+404
+00:16:30,976 --> 00:16:32,576
+Por que que isso acontece? É sobre o jeito que
+
+405
+00:16:32,576 --> 00:16:34,576
+a IA funciona. Quando eu coloco
+
+406
+00:16:34,576 --> 00:16:36,456
+a palavra moon no prompt, ele vai tentar
+
+407
+00:16:36,916 --> 00:16:38,716
+representar a lua ali no prompt.
+
+408
+00:16:39,076 --> 00:16:40,576
+Então, você tem que descrever ainda mais.
+
+409
+00:16:40,656 --> 00:16:42,576
+Por exemplo, e aí que vem o que eu falei
+
+410
+00:16:42,576 --> 00:16:44,656
+e dos escritores que conseguem narrar a história.
+
+411
+00:16:44,756 --> 00:16:45,936
+Que você fala, é...
+
+412
+00:16:45,936 --> 00:16:49,636
+A luz da lua caindo como um véu sobre a esfera.
+
+413
+00:16:50,336 --> 00:16:52,616
+Aí ele vai tender a fazer melhor, entendeu?
+
+414
+00:16:52,716 --> 00:16:53,676
+Escrever melhor a cena.
+
+415
+00:16:54,176 --> 00:16:57,016
+Neon light, ele também transformou a esfera em neon.
+
+416
+00:16:57,076 --> 00:16:57,656
+Mesmo problema.
+
+417
+00:16:58,016 --> 00:16:59,436
+Luz bioluminescente.
+
+418
+00:16:59,456 --> 00:17:02,256
+Ele trouxe a luz bioluminescente,
+
+419
+00:17:02,296 --> 00:17:04,056
+mas ele fez isso na esfera.
+
+420
+00:17:04,136 --> 00:17:06,476
+A solução aqui é ou colocar
+
+421
+00:17:06,476 --> 00:17:09,036
+little bit bioluminescent light source,
+
+422
+00:17:09,316 --> 00:17:10,496
+que é fonte de luz aqui,
+
+423
+00:17:10,496 --> 00:17:12,516
+aqui, ou Glow in Ambient Light,
+
+424
+00:17:12,696 --> 00:17:14,336
+que aí ele vai trazer a luz para o ambiente
+
+425
+00:17:14,336 --> 00:17:16,136
+e não para a
+
+426
+00:17:16,136 --> 00:17:18,336
+esfera, porque aqui ele entende que a esfera é
+
+427
+00:17:18,336 --> 00:17:20,396
+bioluminescente, então pode acabar acontecendo
+
+428
+00:17:20,396 --> 00:17:22,296
+isso também, beleza?
+
+429
+00:17:22,476 --> 00:17:24,556
+Aqui tem uma conclusão para quem fizer o download
+
+430
+00:17:24,556 --> 00:17:26,516
+aí poder passar, aqui algumas imagens
+
+431
+00:17:26,516 --> 00:17:28,556
+em alta resolução, para vocês verem
+
+432
+00:17:28,556 --> 00:17:30,436
+bem interessante, né? Esse teste
+
+433
+00:17:30,436 --> 00:17:32,036
+todo aqui a gente fez utilizando o
+
+434
+00:17:32,036 --> 00:17:34,416
+Mid Journey, mas funciona para fazer testes
+
+435
+00:17:34,416 --> 00:17:36,156
+no Gemini, no
+
+436
+00:17:36,156 --> 00:17:38,496
+Seedring também, provavelmente alguns erros
+
+437
+00:17:38,496 --> 00:17:40,376
+que o mid-journey comete, talvez
+
+438
+00:17:40,376 --> 00:17:42,496
+essas outras IAs de interpretação
+
+439
+00:17:42,496 --> 00:17:44,476
+não vão cometer. Mas fica aí
+
+440
+00:17:44,476 --> 00:17:46,336
+então esse material, faz o download
+
+441
+00:17:46,336 --> 00:17:48,616
+e explore, faça os seus testes
+
+442
+00:17:48,616 --> 00:17:50,556
+aí que vai ser bem interessante. Vamos lá
+
+443
+00:17:50,556 --> 00:17:52,636
+que agora eu quero te mostrar mais um material parecido
+
+444
+00:17:52,636 --> 00:17:52,996
+com esse.
+
+445
+00:17:54,652 --> 00:17:57,932
+E aí vamos lá, já vou trazer ele para cá, que é o de enquadramento.
+
+446
+00:17:57,932 --> 00:18:00,292
+Esse aqui eu fiz junto com a Thais também.
+
+447
+00:18:00,672 --> 00:18:01,252
+Então bora lá.
+
+448
+00:18:01,472 --> 00:18:07,292
+Além da iluminação, nós podemos trabalhar também o enquadramento e o ângulo de um objeto dentro de uma cena.
+
+449
+00:18:07,492 --> 00:18:09,432
+E é aqui que você deixa a sua imagem interessante.
+
+450
+00:18:10,792 --> 00:18:14,372
+90% das pessoas que geram imagem com IA pulam essa etapa
+
+451
+00:18:14,372 --> 00:18:17,452
+e você não vai pular mais e vai conseguir gerar imagens que as pessoas vão falar
+
+452
+00:18:17,452 --> 00:18:19,152
+Nossa, como que você fez isso?
+
+453
+00:18:19,372 --> 00:18:22,812
+Aqui tem um truque de mestre que quem é profissional usa...
+
+454
+00:18:23,932 --> 00:18:27,672
+Usa e abusa, usa muito e consegue imagens muito mais interessantes,
+
+455
+00:18:27,712 --> 00:18:30,052
+que é o bendito do enquadramento e do ângulo.
+
+456
+00:18:30,132 --> 00:18:32,292
+Vamos na mesma lógica aqui então, estou aqui com o material,
+
+457
+00:18:33,052 --> 00:18:35,352
+estudos práticos de enquadramento e ângulo.
+
+458
+00:18:35,472 --> 00:18:37,672
+Na mesma lógica, a gente isolou aqui,
+
+459
+00:18:37,812 --> 00:18:42,372
+então tem aqui algumas questões de enquadramento que eu vou trazer.
+
+460
+00:18:42,832 --> 00:18:45,172
+Deixa eu só ver se tem um método aqui, vou começar por ele.
+
+461
+00:18:45,472 --> 00:18:47,552
+A gente seguiu a mesma lógica do método,
+
+462
+00:18:47,632 --> 00:18:50,932
+eu precisava de um objeto então que eu não mexesse tanto nele,
+
+463
+00:18:50,992 --> 00:18:52,232
+eu usasse sempre o mesmo prompt,
+
+464
+00:18:52,232 --> 00:18:54,592
+e aí a nossa ideia foi variar
+
+465
+00:18:54,592 --> 00:18:55,852
+ângulo e enquadramento.
+
+466
+00:18:56,132 --> 00:18:58,452
+Então vocês vão ver que nós escolhemos como objeto
+
+467
+00:18:58,452 --> 00:18:59,892
+aqui, estátuas, beleza?
+
+468
+00:19:00,092 --> 00:19:01,992
+Estátuas gregas aqui como objetos.
+
+469
+00:19:02,192 --> 00:19:03,612
+E aí nós usamos prompt como
+
+470
+00:19:03,612 --> 00:19:04,992
+a marble, ou
+
+471
+00:19:05,832 --> 00:19:07,972
+minha pronúncia, vocês já estão sofrendo com ela aí,
+
+472
+00:19:08,072 --> 00:19:10,552
+mas uma estátua de mármore de Prometeus, centralizada,
+
+473
+00:19:10,552 --> 00:19:12,172
+preto e branco, fundo preto.
+
+474
+00:19:12,172 --> 00:19:13,592
+Foi o prompt que a gente usou aqui.
+
+475
+00:19:13,732 --> 00:19:16,012
+Ou uma escultura
+
+476
+00:19:16,012 --> 00:19:17,772
+de Atenas, majestosa,
+
+477
+00:19:17,872 --> 00:19:19,952
+de mármore, centralizada,
+
+478
+00:19:20,012 --> 00:19:21,852
+preto e branco, fundo preto.
+
+479
+00:19:22,232 --> 00:19:23,312
+E vista frontal.
+
+480
+00:19:23,892 --> 00:19:26,792
+A gente fez isso pra variar, não ficar só Prometeus aqui,
+
+481
+00:19:26,892 --> 00:19:28,692
+mas ficar a Atena também, é interessante,
+
+482
+00:19:28,972 --> 00:19:31,032
+pra dar alguns pesos diferentes.
+
+483
+00:19:31,172 --> 00:19:33,752
+Vocês vão ver 15 imagens lindas a gente tirou disso aqui,
+
+484
+00:19:33,872 --> 00:19:38,032
+mas o principal era fazer um estudo de enquadramento e de ângulo.
+
+485
+00:19:38,232 --> 00:19:41,052
+Dentro desse manual aqui tem um guia rápido também,
+
+486
+00:19:41,192 --> 00:19:43,752
+o fundamento, eu não vou entrar nisso agora porque eu vou explicando ali,
+
+487
+00:19:43,892 --> 00:19:46,152
+mas você pode baixar aqui embaixo do vídeo também,
+
+488
+00:19:46,352 --> 00:19:48,072
+você que tem a gravação, né?
+
+489
+00:19:48,512 --> 00:19:50,072
+Pode baixar aqui pra poder ler.
+
+490
+00:19:50,692 --> 00:19:53,152
+Aqui tem os tipos de enquadramento e essa imagem é bem legal.
+
+491
+00:19:53,312 --> 00:19:56,212
+Então, nós montamos essa imagem aqui em full shot,
+
+492
+00:19:56,432 --> 00:19:58,572
+que é esse enquadramento mais aberto aqui, principal.
+
+493
+00:19:58,912 --> 00:20:01,252
+Vou tentar deixar aqui tudo na cena.
+
+494
+00:20:01,412 --> 00:20:04,292
+Então, esse mais aberto aqui, FS, é o full shot.
+
+495
+00:20:04,532 --> 00:20:08,412
+Então, é um ângulo bem aberto e um enquadramento bem aberto.
+
+496
+00:20:08,792 --> 00:20:10,692
+Depois, pegando aqui na altura do...
+
+497
+00:20:11,212 --> 00:20:14,012
+Um pouco abaixo do joelho, a gente tem o medium full shot.
+
+498
+00:20:14,772 --> 00:20:16,952
+Depois, acima do joelho, tem o cowboy shot.
+
+499
+00:20:17,452 --> 00:20:19,552
+Depois, na cintura, medium shot.
+
+500
+00:20:20,072 --> 00:20:21,912
+Depois nós temos o Medium Close-Up.
+
+501
+00:20:22,232 --> 00:20:24,532
+Aqui na altura do pescoço temos o Close-Up.
+
+502
+00:20:24,692 --> 00:20:28,252
+E só pegando a face nós temos o Extreme Close-Up.
+
+503
+00:20:28,472 --> 00:20:28,952
+Beleza?
+
+504
+00:20:29,072 --> 00:20:32,172
+Nós vamos trabalhar todos esses enquadramentos, vocês vão ver eles aqui,
+
+505
+00:20:32,292 --> 00:20:33,592
+e vamos trabalhar ângulos também.
+
+506
+00:20:33,792 --> 00:20:36,672
+Isso aqui é técnica usada em fotografia e cinema.
+
+507
+00:20:36,952 --> 00:20:38,632
+Não reinventamos a roda aqui.
+
+508
+00:20:38,732 --> 00:20:42,772
+Por isso que quem tem esse repertório consegue gerar imagens muito mais interessantes.
+
+509
+00:20:42,832 --> 00:20:44,552
+E vocês vão ver isso acontecendo aqui agora.
+
+510
+00:20:44,992 --> 00:20:45,512
+Então vamos lá.
+
+511
+00:20:45,872 --> 00:20:48,952
+Além de enquadramento, nós temos os ângulos também.
+
+512
+00:20:48,952 --> 00:20:50,832
+bem. Então, imagina que você pode
+
+513
+00:20:50,832 --> 00:20:52,632
+pegar e colocar num ângulo bem de baixo,
+
+514
+00:20:52,672 --> 00:20:54,712
+como esse Warm Eye View, que é vista
+
+515
+00:20:54,712 --> 00:20:56,712
+de olho de minhoca ou algo parecido
+
+516
+00:20:56,712 --> 00:20:58,772
+com isso, até aqui no Top Down,
+
+517
+00:20:58,852 --> 00:21:00,632
+que é totalmente visto de cima
+
+518
+00:21:00,632 --> 00:21:02,632
+da cabeça. Então, olha que interessante,
+
+519
+00:21:02,852 --> 00:21:04,952
+nós temos aqui num ângulo de menos 75 graus
+
+520
+00:21:04,952 --> 00:21:06,372
+Warm Eye View,
+
+521
+00:21:06,512 --> 00:21:08,252
+nós temos aqui em menos 45
+
+522
+00:21:08,252 --> 00:21:10,632
+Low View, nós temos depois
+
+523
+00:21:10,632 --> 00:21:12,832
+Hero View, depois Point of
+
+524
+00:21:12,832 --> 00:21:14,932
+View, que é 0 graus, é bem
+
+525
+00:21:14,932 --> 00:21:16,912
+equilibrado, depois aqui
+
+526
+00:21:16,912 --> 00:21:18,132
+Slightly Above,
+
+527
+00:21:19,392 --> 00:21:24,852
+Above Shot, High Angle Shot, Bird Eye View e Top Down.
+
+528
+00:21:24,972 --> 00:21:27,792
+Nós temos todos esses daqui também, que são ângulos,
+
+529
+00:21:27,832 --> 00:21:30,372
+vocês vão ver isso aqui funcionando na prática e é bem interessante.
+
+530
+00:21:30,612 --> 00:21:32,732
+Cada nome desse você pode utilizar no seu prompt
+
+531
+00:21:32,732 --> 00:21:35,132
+para conseguir imagens bem mais interessantes.
+
+532
+00:21:35,152 --> 00:21:36,332
+Eu falei que o material é rico, né?
+
+533
+00:21:36,552 --> 00:21:37,312
+Vamos lá então.
+
+534
+00:21:39,164 --> 00:21:42,524
+Tem o guia rápido aqui, não vou entrar nele agora também, vocês podem ler depois.
+
+535
+00:21:42,824 --> 00:21:44,384
+Vamos direto ao assunto.
+
+536
+00:21:44,624 --> 00:21:48,264
+Olha aí, já começando com Prometeus aqui, olhando o fogo do Olimpo.
+
+537
+00:21:48,344 --> 00:21:51,364
+Prometeu é o deus grego da Overlens, tá?
+
+538
+00:21:51,524 --> 00:21:52,884
+A gente chegou nessa conclusão.
+
+539
+00:21:52,984 --> 00:21:55,224
+A gente gosta de fazer essas analogias.
+
+540
+00:21:55,924 --> 00:21:59,864
+Se nós fôssemos um personagem da mitologia, Overlens seria Prometeu.
+
+541
+00:21:59,924 --> 00:22:02,464
+Levou o fogo do Olimpo para a humanidade.
+
+542
+00:22:02,584 --> 00:22:03,984
+O poder da criação e da tecnologia.
+
+543
+00:22:04,844 --> 00:22:07,544
+Então vamos começar aqui com o framing, trabalhando angle.
+
+544
+00:22:07,544 --> 00:22:09,304
+angle. Primeiro aqui, aí tem
+
+545
+00:22:09,944 --> 00:22:11,504
+framing e angle. Framing
+
+546
+00:22:11,504 --> 00:22:12,744
+é a mesma coisa que enquadramento.
+
+547
+00:22:14,236 --> 00:22:16,076
+Então, tem os dois aqui. Primeiro, nós temos
+
+548
+00:22:16,076 --> 00:22:17,876
+então o Full Shot. Então,
+
+549
+00:22:17,936 --> 00:22:20,136
+a gente trabalhou com ele aqui, ó. Isso tudo aqui
+
+550
+00:22:20,136 --> 00:22:21,856
+é o prompt base de Athena.
+
+551
+00:22:22,116 --> 00:22:23,456
+A gente só adicionou isso aqui, ó.
+
+552
+00:22:24,176 --> 00:22:24,696
+Front View.
+
+553
+00:22:26,908 --> 00:22:27,248
+Beleza?
+
+554
+00:22:27,828 --> 00:22:29,928
+Aí tem aqui também, na verdade, long shot.
+
+555
+00:22:31,388 --> 00:22:37,928
+Adicionamos isso na imagem, temos um full shot, um enquadramento inteiro aqui da cena.
+
+556
+00:22:38,208 --> 00:22:44,688
+E front view é o ângulo, tá? É quase um point of view aqui, dependendo de onde a pessoa está vendo.
+
+557
+00:22:44,808 --> 00:22:50,068
+A sensação que dá pelo tamanho da imagem e por ter sido um ângulo aberto, é que a gente está um pouquinho de baixo, né?
+
+558
+00:22:50,148 --> 00:22:51,528
+Olhando de baixo para cima também.
+
+559
+00:22:52,368 --> 00:22:58,008
+Aí nós temos aqui um medium full shot, pegando ali um pouco acima do joelho.
+
+560
+00:22:59,420 --> 00:23:01,800
+Cowboy Shot, como que trouxe aqui.
+
+561
+00:23:02,100 --> 00:23:05,040
+Lembrando que cada vez que ele gera, ele gera uma Atena diferente, né?
+
+562
+00:23:05,100 --> 00:23:08,760
+Ele tá gerando imagens diferentes, mas os elementos dela,
+
+563
+00:23:09,660 --> 00:23:12,180
+da representação dela, ele sempre traz o capacete dela,
+
+564
+00:23:12,220 --> 00:23:16,480
+essa pose também é muito comum pra status de Atena, e por aí vai.
+
+565
+00:23:16,900 --> 00:23:20,340
+Aí nós temos aqui um Medium Shot, a expressão dela.
+
+566
+00:23:21,160 --> 00:23:23,340
+Isso aqui é legal de eu mostrar também, vocês vão ver mais.
+
+567
+00:23:24,060 --> 00:23:26,080
+Quanto mais de longe a imagem é...
+
+568
+00:23:27,676 --> 00:23:31,976
+Pior fica o zoom dela sem upscale, vai dar na cara que é IA, olhando de perto aqui.
+
+569
+00:23:32,216 --> 00:23:38,196
+Mas vocês vão ver quando eu mostrar as de perto, que o nível de detalhes é esplêndido, tá?
+
+570
+00:23:38,316 --> 00:23:43,256
+Isso aqui é porque essa imagem foi gerada de longe, e aí você precisa dar um upscale nela pra ela funcionar legal.
+
+571
+00:23:43,516 --> 00:23:47,836
+Mas eu até falei, vamos deixar desse jeito, porque quando eu for explicar a aula, eu quero mostrar.
+
+572
+00:23:48,056 --> 00:23:56,576
+Então, se você quiser uma imagem cropando bem aqui, um close-up, é melhor você já pedir pra ela gerar em close-up.
+
+573
+00:23:56,576 --> 00:23:57,696
+Vocês vão ver isso acontecendo ali.
+
+574
+00:23:58,196 --> 00:24:00,256
+Porque aqui, em Medium Shot, funciona bem.
+
+575
+00:24:00,316 --> 00:24:03,176
+Tem uma nitidez legal, tem alguns detalhes que daria para trabalhar,
+
+576
+00:24:03,296 --> 00:24:04,196
+mas funciona super bem.
+
+577
+00:24:04,556 --> 00:24:06,296
+A gente tem o Medium Close-Up, que aí, olha,
+
+578
+00:24:06,296 --> 00:24:08,236
+o nível de detalhes já ficou melhor que a de cima.
+
+579
+00:24:08,456 --> 00:24:11,136
+E nós temos aqui o Close-Up.
+
+580
+00:24:11,156 --> 00:24:13,076
+Agora, olha como que o nível de detalhes ficou bem melhor.
+
+581
+00:24:13,156 --> 00:24:14,596
+Isso aqui sem Upscale.
+
+582
+00:24:14,896 --> 00:24:17,876
+É só porque eu já pedi a imagem em Zoom.
+
+583
+00:24:18,156 --> 00:24:20,676
+Isso aqui é uma técnica que quem trabalha com isso também,
+
+584
+00:24:20,756 --> 00:24:22,476
+às vezes você vê, sei lá, alguém mostra,
+
+585
+00:24:22,576 --> 00:24:23,796
+olha só o que eu estou fazendo com o IA.
+
+586
+00:24:23,916 --> 00:24:25,856
+Aí a pessoa mostra uma imagem de longe,
+
+587
+00:24:25,856 --> 00:24:29,416
+e depois mostra de perto, fazendo parecer que é a mesma imagem,
+
+588
+00:24:29,536 --> 00:24:32,016
+mas não é, não se engane, é porque gerou uma imagem de longe
+
+589
+00:24:32,016 --> 00:24:33,256
+e gerou uma de perto também.
+
+590
+00:24:33,496 --> 00:24:36,236
+Isso conta a história, é uma sequência de imagens
+
+591
+00:24:36,236 --> 00:24:39,176
+que faz a sua mente conectar, mas são imagens diferentes.
+
+592
+00:24:39,716 --> 00:24:41,816
+Então olha só como tem um nível de detalhes muito maior
+
+593
+00:24:41,816 --> 00:24:43,456
+quando você pede um close-up.
+
+594
+00:24:43,636 --> 00:24:46,736
+Olha então o extreme close-up, olha o nível de detalhes
+
+595
+00:24:46,736 --> 00:24:48,036
+de um extreme close-up.
+
+596
+00:24:49,244 --> 00:24:50,364
+Então aqui já ficou muito melhor.
+
+597
+00:24:50,404 --> 00:24:52,364
+Isso aqui eu poderia colocar em full screen
+
+598
+00:24:52,364 --> 00:24:54,504
+aqui numa hero section de uma página.
+
+599
+00:24:54,764 --> 00:24:56,004
+Iria ficar lindo, cara.
+
+600
+00:24:56,124 --> 00:24:57,084
+Funcionaria super bem.
+
+601
+00:24:57,264 --> 00:24:59,384
+E aí eu tenho uma imagem aqui em extrema qualidade
+
+602
+00:24:59,384 --> 00:25:01,324
+sem upscale.
+
+603
+00:25:01,864 --> 00:25:02,304
+Beleza?
+
+604
+00:25:02,544 --> 00:25:05,204
+Isso aqui é o que foi gerado pelo Meet Journey também.
+
+605
+00:25:06,492 --> 00:25:07,932
+Então, temos o Extreme Close-Up aqui.
+
+606
+00:25:08,652 --> 00:25:11,232
+Agora, vamos ver algumas brincadeiras de ângulo, né?
+
+607
+00:25:11,292 --> 00:25:12,512
+Então, a gente tem aqui o Ultra Low.
+
+608
+00:25:12,592 --> 00:25:13,612
+Olha que imagem interessante.
+
+609
+00:25:14,672 --> 00:25:16,032
+O Prompt aqui é o mesmo.
+
+610
+00:25:16,072 --> 00:25:19,352
+O que muda é que a gente colocou aqui, ó, Ultra Low Perspective.
+
+611
+00:25:19,532 --> 00:25:23,772
+Uma coisa que vocês vão notar também é que, em alguns testes que nós fizemos,
+
+612
+00:25:24,512 --> 00:25:26,392
+falar do ângulo primeiro...
+
+613
+00:25:27,452 --> 00:25:29,052
+reforçar, lembra? O início do prompt,
+
+614
+00:25:29,652 --> 00:25:31,492
+reforça. Ajuda a gente a chegar no resultado
+
+615
+00:25:31,492 --> 00:25:33,272
+mais rápido do que deixar o prompt
+
+616
+00:25:33,272 --> 00:25:35,532
+por último. Porque às vezes a gente colocava
+
+617
+00:25:35,532 --> 00:25:37,652
+essa variável de ângulo por último
+
+618
+00:25:37,652 --> 00:25:39,572
+e ele não trazia a imagem do jeito que a gente queria.
+
+619
+00:25:39,792 --> 00:25:41,692
+Então, aqui nessa cena, vocês conseguem
+
+620
+00:25:41,692 --> 00:25:43,432
+ver que deu certo, porque a gente colocou
+
+621
+00:25:43,432 --> 00:25:45,472
+ultra low perspective como
+
+622
+00:25:45,472 --> 00:25:46,712
+a primeira parte do prompt.
+
+623
+00:25:47,332 --> 00:25:49,392
+Aqui a gente tem um low angle, agora
+
+624
+00:25:49,392 --> 00:25:51,232
+de Prometheus. Hit or view.
+
+625
+00:25:52,572 --> 00:25:54,412
+Até a pose de herói também ele colocou, né?
+
+626
+00:25:54,732 --> 00:25:57,832
+Point of view, que é a altura dos olhos.
+
+627
+00:25:58,812 --> 00:25:59,692
+Colocou aqui também.
+
+628
+00:26:00,552 --> 00:26:01,932
+Tem mais, vai ficando interessante.
+
+629
+00:26:02,152 --> 00:26:02,592
+Olha aqui, ó.
+
+630
+00:26:02,992 --> 00:26:05,012
+Slightly above, top view.
+
+631
+00:26:05,612 --> 00:26:08,392
+Olha só, trouxe narrativa pra história também,
+
+632
+00:26:08,512 --> 00:26:09,712
+a gente colocou numa posição diferente.
+
+633
+00:26:10,912 --> 00:26:14,952
+Above shot, que é de cima, mas um pouco menos de cima.
+
+634
+00:26:15,472 --> 00:26:17,452
+High angle shot, bem de cima.
+
+635
+00:26:18,112 --> 00:26:21,412
+Bird eye, de cima e um pouco mais longe também.
+
+636
+00:26:25,864 --> 00:26:28,584
+Na verdade eu acho que é AERIAL.
+
+637
+00:26:28,624 --> 00:26:30,304
+A AERIAL.
+
+638
+00:26:30,324 --> 00:26:30,804
+SHOT.
+
+639
+00:26:32,124 --> 00:26:34,344
+Então, ah, eu podia ter editado os outros já de uma vez, né?
+
+640
+00:26:34,364 --> 00:26:35,864
+Eu esqueço, achei que eu estava no PDF.
+
+641
+00:26:36,064 --> 00:26:37,704
+Eu já estou no arquivo, podia ter editado.
+
+642
+00:26:37,864 --> 00:26:39,024
+Então, olha só, uma foto aérea.
+
+643
+00:26:39,084 --> 00:26:39,764
+Olha que interessante.
+
+644
+00:26:39,824 --> 00:26:43,304
+Só mudando o ângulo, como é que eu tenho uma imagem diferente aqui também.
+
+645
+00:26:45,372 --> 00:26:48,912
+Hereville, que é das costas dele também, a gente tem aqui.
+
+646
+00:26:51,644 --> 00:26:58,064
+É interessante que o das costas é parecido com o point of view ou o medium shot, nesse caso aqui.
+
+647
+00:26:59,420 --> 00:27:03,460
+Mas é interessante porque você conduz a IA como se fosse assim,
+
+648
+00:27:03,500 --> 00:27:07,060
+você já gerou uma imagem da frente, gera uma imagem de trás também,
+
+649
+00:27:07,120 --> 00:27:08,940
+para fazer como se fosse ângulos diferentes.
+
+650
+00:27:09,520 --> 00:27:11,140
+Essa foi a nossa ideia trazendo aqui.
+
+651
+00:27:11,400 --> 00:27:13,220
+E quais foram os erros que nós notamos?
+
+652
+00:27:13,260 --> 00:27:15,220
+Primeiro, quando a gente colocou call boy shot,
+
+653
+00:27:16,040 --> 00:27:18,700
+call boy shot, ele colocou um cavalo,
+
+654
+00:27:18,780 --> 00:27:20,820
+ele interpretou a palavra call boy aqui,
+
+655
+00:27:21,480 --> 00:27:25,120
+e tentou colocar Atenas no cavalo ali, como se Atenas fosse call boy,
+
+656
+00:27:25,160 --> 00:27:26,880
+call girl no caso.
+
+657
+00:27:27,340 --> 00:27:28,440
+Enfim, interpretou errado.
+
+658
+00:27:28,440 --> 00:27:30,040
+Isso aqui é sobre como a IA funciona.
+
+659
+00:27:30,140 --> 00:27:32,440
+Ela pode acabar cometendo esse erro e as pessoas não entendem.
+
+660
+00:27:32,480 --> 00:27:41,940
+A palavra aqui funcionou mais como substantivo do sujeito principal da cena
+
+661
+00:27:41,940 --> 00:27:45,920
+do que como uma característica da foto e do enquadramento.
+
+662
+00:27:46,640 --> 00:27:47,940
+Aqui também, olha que interessante.
+
+663
+00:27:48,060 --> 00:27:53,020
+Quando a gente colocou na altura dos pés, do calcanhar, do joelho ali,
+
+664
+00:27:53,140 --> 00:27:54,440
+ele fez só um calcanhar.
+
+665
+00:27:54,480 --> 00:27:55,600
+Ele também interpretou aqui ni.
+
+666
+00:27:57,148 --> 00:27:58,588
+E gerou ele na cena, né?
+
+667
+00:27:58,608 --> 00:28:00,748
+Então, arrancou fora o resto do corpo aqui.
+
+668
+00:28:01,008 --> 00:28:02,128
+Às vezes acontece também.
+
+669
+00:28:02,848 --> 00:28:05,228
+Aqui também, olha, foto de três quartos.
+
+670
+00:28:05,548 --> 00:28:06,228
+Knee level.
+
+671
+00:28:06,868 --> 00:28:10,808
+Interpretou a palavra três quartos, literalmente, mostrando os joelhos.
+
+672
+00:28:10,968 --> 00:28:12,548
+Aí aqui você fala, não, mas funciona o Juan.
+
+673
+00:28:12,588 --> 00:28:13,448
+É, mas olha a pose.
+
+674
+00:28:13,728 --> 00:28:15,188
+Ele interpretou a pose.
+
+675
+00:28:15,408 --> 00:28:17,268
+É o que eu falo de IA não ser render.
+
+676
+00:28:17,508 --> 00:28:18,608
+A IA não é um render.
+
+677
+00:28:18,928 --> 00:28:20,388
+A IA é uma nova imagem.
+
+678
+00:28:20,488 --> 00:28:22,128
+Cada imagem, ela gera a imagem inteira.
+
+679
+00:28:22,168 --> 00:28:24,068
+E ela interpreta o seu prompt como um todo.
+
+680
+00:28:24,068 --> 00:28:27,028
+Então, se você fala ali de joelho, por exemplo,
+
+681
+00:28:28,468 --> 00:28:29,928
+ela mostrou o joelho, né?
+
+682
+00:28:29,928 --> 00:28:32,248
+Como se ela estivesse querendo mostrar aqui, ó, no nível do joelho.
+
+683
+00:28:32,688 --> 00:28:34,968
+Então a pose também ficou mostrando o joelho aqui.
+
+684
+00:28:35,248 --> 00:28:36,968
+Então é interessante levar isso em consideração.
+
+685
+00:28:37,548 --> 00:28:40,548
+Aqui mais um exemplo, quando a gente colocou aqui Burr Die,
+
+686
+00:28:40,728 --> 00:28:44,428
+ele manteve o ângulo, mas ele começou a adicionar mais coisas na cena,
+
+687
+00:28:44,428 --> 00:28:45,168
+em alguns casos.
+
+688
+00:28:45,388 --> 00:28:47,168
+Aí ou você edita ou gera de novo.
+
+689
+00:28:47,368 --> 00:28:51,348
+E nesse Slightly Above, ele não conseguiu entender o termo Slightly Above,
+
+690
+00:28:51,528 --> 00:28:53,908
+mesmo adicionando o Top View como reforço.
+
+691
+00:28:54,068 --> 00:28:56,788
+às vezes alguma palavra-chave ou outra acaba não funcionando
+
+692
+00:28:56,788 --> 00:28:58,588
+nos nossos testes, algumas vezes
+
+693
+00:28:58,588 --> 00:29:00,368
+gerou a imagem assim, olha, mas não tá
+
+694
+00:29:00,368 --> 00:29:02,348
+a imagem não tá de cima, né, ele tá
+
+695
+00:29:02,348 --> 00:29:04,008
+focando no olho aqui, por aí vai
+
+696
+00:29:04,748 --> 00:29:06,488
+então levar isso em consideração também
+
+697
+00:29:07,288 --> 00:29:08,708
+aí tem a conclusão, que eu não vou
+
+698
+00:29:08,708 --> 00:29:10,568
+entrar nela, e algumas imagens
+
+699
+00:29:10,568 --> 00:29:11,868
+aqui interessantes pra vocês
+
+700
+00:29:13,660 --> 00:29:15,300
+Legal? Bom, aqui então
+
+701
+00:29:15,300 --> 00:29:17,400
+foi um teste de enquadramentos e ângulos,
+
+702
+00:29:17,520 --> 00:29:19,340
+você pode pegar esse documento também, fazer
+
+703
+00:29:19,340 --> 00:29:21,500
+testes, aqui eu fiz em estátuas, mas você pode
+
+704
+00:29:21,500 --> 00:29:23,360
+fazer isso em objetos, pode fazer isso em
+
+705
+00:29:23,360 --> 00:29:24,960
+pessoas, vai ficar muito interessante.
+
+706
+00:29:25,340 --> 00:29:26,560
+Você pode usar também
+
+707
+00:29:28,840 --> 00:29:29,280
+ambientes
+
+708
+00:29:29,280 --> 00:29:30,800
+diferentes, que vão acabar
+
+709
+00:29:31,320 --> 00:29:33,220
+mostrando informações diferentes de acordo
+
+710
+00:29:33,220 --> 00:29:35,100
+com o que você coloca no prompt do ambiente.
+
+711
+00:29:35,420 --> 00:29:37,340
+E isso é importante de falar aqui, porque
+
+712
+00:29:37,340 --> 00:29:39,480
+um outro erro muito comum é,
+
+713
+00:29:39,500 --> 00:29:41,680
+por exemplo, às vezes você quer uma foto de close-up.
+
+714
+00:29:42,200 --> 00:29:44,580
+Aí você fala, eu quero uma foto close-up do rosto da pessoa.
+
+715
+00:29:44,780 --> 00:29:47,280
+Só que no seu prompt tem lá, e um tênis azul.
+
+716
+00:29:47,720 --> 00:29:51,100
+Como é que ele vai mostrar um tênis azul na pessoa e só o close-up?
+
+717
+00:29:51,120 --> 00:29:52,700
+Sendo que o tênis está lá no pé da pessoa.
+
+718
+00:29:53,040 --> 00:29:56,300
+Para mostrar o tênis, ele precisa de um enquadramento muito mais aberto.
+
+719
+00:29:56,480 --> 00:29:57,740
+Isso entra em conflito.
+
+720
+00:29:57,880 --> 00:30:00,020
+E muita gente comete esse erro e não percebe,
+
+721
+00:30:00,040 --> 00:30:02,920
+que é quando você escreve um prompt e o seu prompt é paradoxal.
+
+722
+00:30:02,980 --> 00:30:06,280
+Ele fala duas coisas que são opostas e que não podem funcionar juntas.
+
+723
+00:30:06,360 --> 00:30:07,440
+É como se você estivesse falando,
+
+724
+00:30:07,540 --> 00:30:09,700
+tira uma foto de longe e de perto ao mesmo tempo.
+
+725
+00:30:09,940 --> 00:30:11,340
+Ele vai precisar fazer uma escolha.
+
+726
+00:30:11,680 --> 00:30:14,060
+E aí quando ele fizer a escolha dele, talvez você não goste.
+
+727
+00:30:14,060 --> 00:30:15,360
+Talvez ele mostre só o tênis.
+
+728
+00:30:15,420 --> 00:30:16,900
+Talvez ele mostre só o rosto.
+
+729
+00:30:17,000 --> 00:30:20,860
+Então é bom sempre verificar o prompt e ver se existem esses paradoxos aí também.
+
+730
+00:30:21,180 --> 00:30:21,540
+Beleza?
+
+731
+00:30:21,640 --> 00:30:24,060
+Vamos lá então que eu tenho mais um material para te mostrar aqui.
+
+732
+00:30:25,500 --> 00:30:30,060
+Agora eu quero mostrar para vocês o de câmeras e lentes,
+
+733
+00:30:30,080 --> 00:30:32,060
+tipos de lentes com inteligência artificial.
+
+734
+00:30:32,400 --> 00:30:34,020
+Vocês vão curtir para caramba esse também.
+
+735
+00:30:34,160 --> 00:30:36,260
+Deixa eu só ver aqui como que nós estamos no chat.
+
+736
+00:30:38,748 --> 00:30:41,788
+Por que a IA não faz fundo transparente recortado?
+
+737
+00:30:41,788 --> 00:30:42,188
+Ela faz.
+
+738
+00:30:42,468 --> 00:30:43,428
+O Gemini faz.
+
+739
+00:30:43,708 --> 00:30:44,368
+E o...
+
+740
+00:30:46,396 --> 00:30:48,936
+o chat VT também faz, beleza?
+
+741
+00:30:50,652 --> 00:30:52,232
+Ambos fazem recortadas.
+
+742
+00:30:52,412 --> 00:30:53,632
+Aí tem que verificar aí.
+
+743
+00:30:54,412 --> 00:30:59,712
+Nós estamos aqui no momento em 204 pessoas assistindo.
+
+744
+00:31:00,652 --> 00:31:02,792
+Olha, será que vocês não vão conseguir bater os 300?
+
+745
+00:31:03,732 --> 00:31:05,172
+Já conseguiu a gravação, né?
+
+746
+00:31:05,212 --> 00:31:06,212
+Mas dá pra conseguir mais aqui.
+
+747
+00:31:06,832 --> 00:31:07,552
+Vamos lá, então.
+
+748
+00:31:08,012 --> 00:31:09,552
+Agora eu vou passar pra vocês...
+
+749
+00:31:11,132 --> 00:31:13,872
+Vou passar para vocês sobre lentes e enquadramentos.
+
+750
+00:31:13,872 --> 00:31:14,212
+Então vamos lá.
+
+751
+00:31:14,412 --> 00:31:17,952
+Depois que você viu sobre iluminação, enquadramento, ângulos,
+
+752
+00:31:18,112 --> 00:31:20,492
+está na hora de te mostrar mais um material aqui
+
+753
+00:31:20,492 --> 00:31:22,912
+com possibilidades que você pode inserir no seu prompt
+
+754
+00:31:22,912 --> 00:31:25,932
+quando a gente fala de tipos de lentes e câmeras.
+
+755
+00:31:26,032 --> 00:31:27,552
+Aqui é importante eu falar uma coisa.
+
+756
+00:31:27,792 --> 00:31:30,732
+Isso funciona quando você quer imagens fotográficas,
+
+757
+00:31:30,732 --> 00:31:33,012
+quer fazer um ensaio fotográfico, quer uma imagem diferente.
+
+758
+00:31:33,552 --> 00:31:37,472
+Você vai utilizar tipo de lente para conseguir atmosferas diferentes,
+
+759
+00:31:38,352 --> 00:31:40,072
+distorções diferentes também.
+
+760
+00:31:40,072 --> 00:31:41,712
+bem, então é muito interessante. E
+
+761
+00:31:41,712 --> 00:31:44,012
+esse aqui é um material especial porque nós estamos
+
+762
+00:31:44,012 --> 00:31:45,992
+na Overlens, a lente de todas as
+
+763
+00:31:45,992 --> 00:31:47,732
+lentes, então o material que fala de lente
+
+764
+00:31:47,732 --> 00:31:49,992
+de estar aqui é canônico, né? Mas enfim,
+
+765
+00:31:50,732 --> 00:31:51,792
+vai ser legal, você vai curtir.
+
+766
+00:31:52,172 --> 00:31:53,792
+Quando você vai trabalhar com
+
+767
+00:31:53,792 --> 00:31:56,012
+outros estilos diferentes, você pode até
+
+768
+00:31:56,012 --> 00:31:57,892
+acabar combinando algumas lentes pra conseguir
+
+769
+00:31:57,892 --> 00:32:00,092
+distorção. Por exemplo, existe uma lente
+
+770
+00:32:00,092 --> 00:32:01,872
+que chama lente olho de peixe, que ela
+
+771
+00:32:01,872 --> 00:32:03,932
+distorce toda a imagem. Só que
+
+772
+00:32:03,932 --> 00:32:06,052
+às vezes você vai fazer um desenho e quer simular
+
+773
+00:32:06,052 --> 00:32:07,952
+essa lente olho de peixe. Você
+
+774
+00:32:07,952 --> 00:32:09,612
+você consegue juntar as duas coisas também
+
+775
+00:32:09,612 --> 00:32:13,372
+e acaba usando uma lente para fazer uma composição de um desenho.
+
+776
+00:32:13,552 --> 00:32:16,072
+Então, é uma coisa interessante fazer essas combinações,
+
+777
+00:32:16,252 --> 00:32:17,732
+mas vamos olhar aqui o material,
+
+778
+00:32:17,772 --> 00:32:19,472
+que tem muita coisa boa aqui que você vai gostar.
+
+779
+00:32:19,612 --> 00:32:23,012
+Então, tipos de lentes com inteligência artificial, guia prático.
+
+780
+00:32:23,592 --> 00:32:26,112
+Aqui está o fundamento dele, não vou passar por ele aqui agora,
+
+781
+00:32:26,212 --> 00:32:27,512
+recomendo você ler o material.
+
+782
+00:32:27,992 --> 00:32:29,852
+E aí vem o primeiro ponto importante,
+
+783
+00:32:30,072 --> 00:32:31,952
+que são fundamentos da fotografia.
+
+784
+00:32:32,092 --> 00:32:33,492
+Como a câmera vê o mundo
+
+785
+00:32:33,492 --> 00:32:38,812
+e como que você adapta isso aqui para a inteligência artificial também.
+
+786
+00:32:39,232 --> 00:32:41,152
+Então, fotografar é controlar a luz.
+
+787
+00:32:41,252 --> 00:32:44,852
+Inclusive o nome fotografia é como se fosse escrever com luz.
+
+788
+00:32:45,072 --> 00:32:45,712
+É isso que significa.
+
+789
+00:32:48,092 --> 00:32:49,572
+A câmera funciona como o nosso olho.
+
+790
+00:32:49,812 --> 00:32:52,232
+Deixa a luz entrar, igual o nosso olho tem aqui a pupila,
+
+791
+00:32:52,232 --> 00:32:54,632
+tem um buraquinho preto que a luz entra ali.
+
+792
+00:32:54,772 --> 00:32:57,992
+No nosso olho bate na retina e é interpretado pelos cones e bastonetes.
+
+793
+00:32:58,212 --> 00:33:02,212
+Na câmera bate na retina da câmera, que é interpretado também.
+
+794
+00:33:02,472 --> 00:33:05,992
+Então, a câmera é inspirada no olho humano.
+
+795
+00:33:06,912 --> 00:33:08,452
+Registra a cena e fecha de novo.
+
+796
+00:33:08,672 --> 00:33:09,772
+Então, quando você dá um clique,
+
+797
+00:33:10,032 --> 00:33:12,732
+você tem ali a câmera fazendo aquele efeito assim, ó.
+
+798
+00:33:13,412 --> 00:33:15,532
+Ela tá abrindo pra entrar mais luz e fechando.
+
+799
+00:33:15,712 --> 00:33:17,552
+E aí você pode colocar o tanto que ela vai abrir,
+
+800
+00:33:17,552 --> 00:33:18,392
+então eu quero que ela abre muito.
+
+801
+00:33:19,900 --> 00:33:21,480
+Ou eu quero que ela abre pouquinho, só que ó.
+
+802
+00:33:23,132 --> 00:33:25,912
+Então você está controlando a entrada de luz.
+
+803
+00:33:26,072 --> 00:33:28,012
+E a luz carrega informação.
+
+804
+00:33:29,596 --> 00:33:33,316
+Você só precisa conhecer algumas peças básicas para começar a brincar com isso.
+
+805
+00:33:33,476 --> 00:33:36,736
+Primeira coisa, abertura. É o tamanho da janela dentro da lente.
+
+806
+00:33:36,876 --> 00:33:43,576
+Uma abertura grande, aí tem aqui f1.8 ou f barra 2, deixa entrar muita luz
+
+807
+00:33:43,576 --> 00:33:47,256
+e quando entra muita luz, o fundo fica desfocado.
+
+808
+00:33:47,676 --> 00:33:51,716
+Uma abertura muito pequena, e aqui é invertido, as pessoas confundem muito.
+
+809
+00:33:51,916 --> 00:33:54,896
+Quando você coloca, quanto menor o f, maior a abertura.
+
+810
+00:33:54,936 --> 00:33:57,476
+Quanto maior o f, menor a abertura.
+
+811
+00:33:57,476 --> 00:34:02,036
+Então uma abertura muito pequena, f11, f16, deixa entrar pouca luz.
+
+812
+00:34:02,216 --> 00:34:05,156
+E aí isso faz ficar tudo muito mais nítido.
+
+813
+00:34:05,296 --> 00:34:06,396
+Por que isso acontece?
+
+814
+00:34:06,896 --> 00:34:11,596
+Por causa do ângulo de luz que está entrando ali dentro do buraquinho da câmera.
+
+815
+00:34:11,856 --> 00:34:14,956
+Quando você tem muita luz entrando no buraquinho da câmera,
+
+816
+00:34:15,716 --> 00:34:20,636
+você tem informações vindo, criando uma difusão.
+
+817
+00:34:20,816 --> 00:34:24,656
+Quando você diminui o ângulo da câmera, vai um filetinho de luz,
+
+818
+00:34:24,656 --> 00:34:29,536
+Isso vai muito mais concentrado, o que gera mais nitidez, beleza?
+
+819
+00:34:29,756 --> 00:34:39,156
+É por isso, inclusive, que as lentes de smartphone não conseguem desfocar analogicamente, digamos assim, o vídeo.
+
+820
+00:34:39,276 --> 00:34:44,436
+Precisa ter um desfoque digital, porque a lente que tem aqui já é muito pequenininha,
+
+821
+00:34:44,436 --> 00:34:48,916
+então naturalmente já vai entrar pouca luz, não vai entrar tanta luz quanto uma câmera, por exemplo,
+
+822
+00:34:48,936 --> 00:34:52,276
+igual essa que eu estou vendo vocês aqui agora, que está um pouquinho desfocada aqui o fundo,
+
+823
+00:34:52,276 --> 00:34:53,976
+mas daria pra eu ter ainda
+
+824
+00:34:54,576 --> 00:34:56,136
+aberturas ainda maiores pra desfocar ainda
+
+825
+00:34:56,136 --> 00:34:57,876
+mais o fundo, e aí
+
+826
+00:34:57,876 --> 00:35:00,236
+quanto maior a abertura, mais desfoca
+
+827
+00:35:00,236 --> 00:35:02,356
+beleza? Velocidade do obturador
+
+828
+00:35:02,356 --> 00:35:03,836
+isso aqui decide quanta luz entra
+
+829
+00:35:03,836 --> 00:35:05,336
+então é o que eu acabei de falar, é o clique
+
+830
+00:35:05,336 --> 00:35:08,376
+é o tempo que a janela fica aberta, se for muito rápido
+
+831
+00:35:08,376 --> 00:35:09,116
+um pra mil
+
+832
+00:35:10,216 --> 00:35:12,316
+congela o movimento, então na hora que você tá
+
+833
+00:35:13,316 --> 00:35:13,936
+capturando a luz
+
+834
+00:35:13,936 --> 00:35:15,996
+aquelas luzes de carros passando
+
+835
+00:35:15,996 --> 00:35:18,156
+tá passando, ou sei lá, você vai tirar foto de alguém
+
+836
+00:35:18,156 --> 00:35:20,056
+andando de skate, só que você quer uma foto nítida
+
+837
+00:35:20,056 --> 00:35:21,796
+o que você faz? Faz o tempo
+
+838
+00:35:21,796 --> 00:35:23,696
+que o obturador vai ficar aberto
+
+839
+00:35:23,696 --> 00:35:24,976
+ser rápido, ser pouquinho.
+
+840
+00:35:25,596 --> 00:35:27,736
+Porque aí você tem um frame
+
+841
+00:35:27,736 --> 00:35:29,736
+exato do salto do skate
+
+842
+00:35:29,736 --> 00:35:31,816
+com nitidez. Agora, se você
+
+843
+00:35:31,816 --> 00:35:33,736
+quer, por exemplo, aquelas fotos onde tem
+
+844
+00:35:33,736 --> 00:35:35,736
+o rastro do farol passando
+
+845
+00:35:35,736 --> 00:35:37,816
+assim na estrada, como que as pessoas conseguem?
+
+846
+00:35:37,836 --> 00:35:38,836
+Vou pegar aqui.
+
+847
+00:35:42,460 --> 00:35:44,240
+Com alta exposição e baixa exposição?
+
+848
+00:35:44,420 --> 00:35:46,120
+Cadê aqui? Eu quero esse.
+
+849
+00:35:47,000 --> 00:35:47,520
+Então...
+
+850
+00:35:48,732 --> 00:35:50,812
+Fotografia, auto exposição.
+
+851
+00:35:52,284 --> 00:35:54,064
+Olha aí, o que que tá acontecendo aqui?
+
+852
+00:35:54,504 --> 00:36:00,324
+Você deixou o espaço de entrada de luz aberto por mais tempo,
+
+853
+00:36:00,524 --> 00:36:06,644
+então o tempo passou, aquela luz foi registrando o movimento daquele objeto que estava iluminado,
+
+854
+00:36:06,704 --> 00:36:08,164
+e aí você tem essa fotografia.
+
+855
+00:36:08,184 --> 00:36:11,064
+Você consegue fazer essa foto com câmeras analógicas,
+
+856
+00:36:11,104 --> 00:36:13,984
+isso aqui não é efeito de Photoshop, pode ser também, né?
+
+857
+00:36:14,324 --> 00:36:15,824
+Ou pode ser IA também, né?
+
+858
+00:36:15,864 --> 00:36:20,944
+Mas você consegue fazer essas fotos aqui usando a própria câmera pra fazer isso.
+
+859
+00:36:20,944 --> 00:36:24,404
+Agora, por exemplo, se eu coloco aqui fotografia skate.
+
+860
+00:36:25,916 --> 00:36:28,036
+Aí vamos supor que a pessoa está lá no meio do salto,
+
+861
+00:36:28,036 --> 00:36:29,776
+isso aqui é um movimento, ela está caindo ali,
+
+862
+00:36:29,816 --> 00:36:31,156
+só que eu quero isso aqui com nitidez.
+
+863
+00:36:31,536 --> 00:36:34,496
+O que eu faço? Eu faço ser muito rápido a abertura.
+
+864
+00:36:34,496 --> 00:36:38,136
+Então é tipo, já tirou rápido e eu consigo a cena congelada.
+
+865
+00:36:38,396 --> 00:36:41,556
+Isso aqui é um repertório de fotografia.
+
+866
+00:36:41,556 --> 00:36:43,436
+Quando você estuda fotografia, você aprende isso.
+
+867
+00:36:43,556 --> 00:36:44,496
+E o que é mais legal?
+
+868
+00:36:44,716 --> 00:36:47,876
+Você consegue trazer isso para a IA também,
+
+869
+00:36:47,996 --> 00:36:49,616
+para ela simular isso aí.
+
+870
+00:36:50,076 --> 00:36:51,716
+ISO é a sensibilidade do sensor,
+
+871
+00:36:51,936 --> 00:36:54,736
+então é como se fosse a sensibilidade da retina da câmera.
+
+872
+00:36:54,736 --> 00:36:58,356
+ou seja, o quanto de luz ela absorve para registrar isso.
+
+873
+00:36:58,456 --> 00:37:00,936
+Quando você tem, então, um ISO muito baixo,
+
+874
+00:37:01,036 --> 00:37:02,756
+você tem uma imagem mais limpa,
+
+875
+00:37:02,796 --> 00:37:04,156
+quando o ISO é muito alto,
+
+876
+00:37:04,336 --> 00:37:06,696
+a sua fotografia funciona melhor no escuro,
+
+877
+00:37:06,716 --> 00:37:10,036
+porque um pouquinho de luz já fica muito iluminado,
+
+878
+00:37:10,076 --> 00:37:12,716
+ou seja, a sensibilidade ali do sensor é maior,
+
+879
+00:37:13,516 --> 00:37:17,276
+porém, isso gera grãos, gera um ruidinho,
+
+880
+00:37:17,316 --> 00:37:20,976
+que pode ficar muito bonito ou pode não ficar tão bonito também,
+
+881
+00:37:21,036 --> 00:37:21,956
+depende do seu objetivo.
+
+882
+00:37:22,796 --> 00:37:27,596
+Esse diagrama aqui, ele mostra um pouquinho aqui das direções que você pode ir.
+
+883
+00:37:28,076 --> 00:37:31,716
+É um diagrama que você precisa estudar ele, eu não vou me aprofundar nele aqui agora,
+
+884
+00:37:31,956 --> 00:37:34,056
+o mais importante é você entender o conceito para usar na IA,
+
+885
+00:37:34,116 --> 00:37:36,596
+mas você que tem o material, eu recomendo dar uma olhada aqui,
+
+886
+00:37:36,676 --> 00:37:41,416
+porque você tem um espectro do que é possível fazer aqui dentro com esses três valores.
+
+887
+00:37:41,656 --> 00:37:44,316
+Quem estuda fotografia, isso aqui é básico, beleza?
+
+888
+00:37:46,588 --> 00:37:50,168
+Aí tem isso aqui também, ó, profundidade de campo, que eu já expliquei, que é o desfoque.
+
+889
+00:37:50,208 --> 00:37:52,468
+Você quer uma imagem com o IA com fundo desfocado?
+
+890
+00:37:52,788 --> 00:37:55,408
+Pede pra ela, então, uma abertura maior.
+
+891
+00:37:55,728 --> 00:37:58,228
+Lembrando que uma abertura maior é um número pequeno, beleza?
+
+892
+00:37:58,628 --> 00:38:00,908
+Quer uma imagem que é tudo muito nítido?
+
+893
+00:38:00,948 --> 00:38:04,128
+Pede uma abertura menor, que é um número maior aqui também.
+
+894
+00:38:04,308 --> 00:38:07,808
+O bom é que vocês podem consultar o material sempre que vocês quiserem aqui
+
+895
+00:38:07,808 --> 00:38:09,988
+pra entender mais sobre esses conceitos, tá?
+
+896
+00:38:10,488 --> 00:38:12,788
+E aí, nós temos os tipos de câmeras.
+
+897
+00:38:12,788 --> 00:38:21,448
+Então tem smartphone, câmera analógica, câmera DSLR, câmera mirrorless, médio formato, GoPro.
+
+898
+00:38:21,768 --> 00:38:26,448
+E cada câmera tem suas características, que se você usa o nome dessas câmeras no prompt,
+
+899
+00:38:26,688 --> 00:38:30,768
+você tem uma simulação de como seria uma imagem nela.
+
+900
+00:38:30,908 --> 00:38:33,648
+E sabe o que é mais legal? Por que a IA consegue fazer isso?
+
+901
+00:38:33,788 --> 00:38:40,908
+Porque a IA foi treinada com trilhões de imagens da internet que carregavam metadados de como essas imagens são tiradas.
+
+902
+00:38:40,908 --> 00:38:45,628
+Você não sabe, mas cada imagem do seu telefone ou de cada câmera tem metadados guardados dentro dela.
+
+903
+00:38:45,768 --> 00:38:49,228
+Aí ela leu esses metadados, interpretou e consegue entender isso para simular.
+
+904
+00:38:49,368 --> 00:38:51,188
+Olha que foda, cara. Isso é massa pra caramba.
+
+905
+00:38:51,548 --> 00:38:54,808
+Então a gente consegue pedir ela para simular um tipo de câmera diferente
+
+906
+00:38:54,808 --> 00:38:58,308
+e vocês vão ver aqui como que muda completamente a atmosfera
+
+907
+00:38:58,308 --> 00:39:01,148
+quando eu mudo o tipo de câmera e o tipo de lente.
+
+908
+00:39:01,308 --> 00:39:02,288
+Então vamos dar uma olhada aqui.
+
+909
+00:39:02,888 --> 00:39:05,368
+Começando aqui entendendo os tipos de lentes.
+
+910
+00:39:05,708 --> 00:39:10,748
+Toda lente é uma ideia de distância e toda distância é uma forma de emoção.
+
+911
+00:39:11,188 --> 00:39:12,788
+poética aqui. Mas vamos lá.
+
+912
+00:39:12,828 --> 00:39:14,988
+A gente tem a distância focal aqui e o
+
+913
+00:39:14,988 --> 00:39:15,868
+ângulo de visão.
+
+914
+00:39:17,404 --> 00:39:19,104
+Quanto mais perto você está do objeto,
+
+915
+00:39:20,764 --> 00:39:22,924
+mais vai influenciar o tipo de resultado que você tem,
+
+916
+00:39:22,964 --> 00:39:24,624
+quanto mais longe também, mais vai influenciar.
+
+917
+00:39:24,704 --> 00:39:28,024
+A distância é o que vai fazer diferenças aqui na imagem.
+
+918
+00:39:28,344 --> 00:39:31,004
+Aqui a gente consegue ver, então, a distância focal
+
+919
+00:39:31,004 --> 00:39:34,804
+e como que ela muda o que está sendo visto.
+
+920
+00:39:34,944 --> 00:39:37,024
+Então, talvez você não está entendendo a imagem,
+
+921
+00:39:37,144 --> 00:39:40,884
+mas, por exemplo, dependendo do tipo de lente que você coloca aqui
+
+922
+00:39:40,884 --> 00:39:42,504
+e da distância focal que você coloca,
+
+923
+00:39:42,724 --> 00:39:48,044
+você vai ter um frame, um enquadramento muito específico da cena
+
+924
+00:39:48,044 --> 00:39:50,664
+e quanto mais perto você fica, olha,
+
+925
+00:39:50,764 --> 00:39:55,324
+Quando eu tenho uma câmera que é uma grande angular com distorção, tipo a olho de peixe,
+
+926
+00:39:55,344 --> 00:39:59,344
+olha o que ela faz aqui, ela cria uma panorâmica da cena.
+
+927
+00:39:59,484 --> 00:40:00,324
+Então ela pega aqui, ó.
+
+928
+00:40:01,564 --> 00:40:03,404
+bem panorâmico. Isso aqui
+
+929
+00:40:03,404 --> 00:40:05,524
+são tipos de lentes
+
+930
+00:40:05,524 --> 00:40:06,924
+diferentes, então vamos dar uma olhada aqui, ó.
+
+931
+00:40:07,284 --> 00:40:08,984
+Super telephoto, ou
+
+932
+00:40:08,984 --> 00:40:11,264
+super teleobjetiva. 160
+
+933
+00:40:11,264 --> 00:40:13,844
+a 600 milímetros, 10 graus a 2 graus.
+
+934
+00:40:13,884 --> 00:40:15,684
+Você vai conseguir ver muito longe,
+
+935
+00:40:15,684 --> 00:40:17,324
+só que de perto. Isso aqui gera
+
+936
+00:40:17,324 --> 00:40:19,144
+distorção na imagem, mas é muito interessante
+
+937
+00:40:19,144 --> 00:40:21,424
+utilizar essa palavra-chave aqui pra
+
+938
+00:40:21,424 --> 00:40:22,684
+gerar imagens conhafres. Vocês vão ver aqui.
+
+939
+00:40:23,604 --> 00:40:25,044
+Telephoto e teleobjetiva.
+
+940
+00:40:25,104 --> 00:40:27,304
+Aqui era a super, aqui é a tele. 100
+
+941
+00:40:27,304 --> 00:40:29,444
+a 160 milímetros e de 15
+
+942
+00:40:29,444 --> 00:40:31,404
+a 10 graus. Já tem um pouco
+
+943
+00:40:31,404 --> 00:40:32,344
+um pouco mais de amplitude aqui.
+
+944
+00:40:33,596 --> 00:40:38,196
+Telephoto Short, ou teleobjetiva curta também, 65 a 100 milímetros,
+
+945
+00:40:38,336 --> 00:40:41,896
+estou falando metro, mas é milímetro, e 25 a 15 graus.
+
+946
+00:40:41,996 --> 00:40:45,316
+Aí aqui a gente já tem a próxima, que é a Standard Lens, que é a lente normal,
+
+947
+00:40:45,416 --> 00:40:49,536
+inclusive quando você compra uma câmera, ela já tem um pouco de distorção aqui, está vendo?
+
+948
+00:40:50,176 --> 00:40:52,676
+Essas daqui são mais flats, olha, é bem...
+
+949
+00:40:53,756 --> 00:40:55,416
+flatzão. Quando a gente vem pra cá,
+
+950
+00:40:56,056 --> 00:40:57,156
+a gente já tem uma
+
+951
+00:40:57,716 --> 00:40:59,396
+pequena distorção na imagem, tá vendo aqui?
+
+952
+00:40:59,536 --> 00:41:01,676
+E quanto mais curto, mais distorção.
+
+953
+00:41:01,816 --> 00:41:03,476
+Então vamos lá. Wide angle,
+
+954
+00:41:03,656 --> 00:41:05,616
+grande angular, 8 a
+
+955
+00:41:05,616 --> 00:41:07,936
+25 milímetros, 110 graus a 60 graus.
+
+956
+00:41:07,956 --> 00:41:09,756
+Olha o tanto que distorceu a imagem
+
+957
+00:41:09,756 --> 00:41:11,656
+aqui. Quando eu vou aqui agora
+
+958
+00:41:11,656 --> 00:41:13,476
+pra fish eye, que é olho de peixe,
+
+959
+00:41:13,536 --> 00:41:15,676
+8 milímetros, 180 graus.
+
+960
+00:41:15,716 --> 00:41:17,376
+Olha o tanto que distorce a imagem. Então,
+
+961
+00:41:18,136 --> 00:41:19,696
+cada tipo de lente
+
+962
+00:41:19,696 --> 00:41:21,656
+aqui vai distorcer a
+
+963
+00:41:21,656 --> 00:41:23,556
+imagem de uma maneira. E quando você usa essas
+
+964
+00:41:23,556 --> 00:41:25,016
+palavras-chave para a inteligência artificial,
+
+965
+00:41:25,376 --> 00:41:27,516
+ela usa isso para simular essas
+
+966
+00:41:27,516 --> 00:41:29,276
+distorções, então é bem interessante.
+
+967
+00:41:29,536 --> 00:41:31,596
+O material está aqui para vocês lerem depois, ele é
+
+968
+00:41:31,596 --> 00:41:33,196
+muito massa. Vamos dar uma olhada
+
+969
+00:41:33,196 --> 00:41:35,736
+nos exemplos que nós temos aqui.
+
+970
+00:41:36,296 --> 00:41:37,716
+Começando pelos tipos de
+
+971
+00:41:37,716 --> 00:41:39,676
+lentes. Então nós temos o que a gente acabou
+
+972
+00:41:39,676 --> 00:41:41,996
+de ver ali. Fisheye, Wide Angle,
+
+973
+00:41:42,116 --> 00:41:43,996
+Standard Lens, Telephoto,
+
+974
+00:41:44,656 --> 00:41:45,836
+Short, Telephoto
+
+975
+00:41:45,836 --> 00:41:47,656
+e Super Telephoto. Vamos olhar cada
+
+976
+00:41:47,656 --> 00:41:49,456
+uma delas aqui para vocês visualizarem.
+
+977
+00:41:49,616 --> 00:41:51,916
+Então, primeiro aqui, 8mm, 180°,
+
+978
+00:41:51,916 --> 00:41:53,756
+graus, fisheyes, a gente não
+
+979
+00:41:53,756 --> 00:41:55,436
+tem aqui nenhuma 8 milímetros
+
+980
+00:41:55,436 --> 00:41:57,776
+no exemplo, aí a gente vem aqui
+
+981
+00:41:57,776 --> 00:41:59,836
+até 25 milímetros, wide angle
+
+982
+00:41:59,836 --> 00:42:01,716
+então essas duas aqui, nós temos uma
+
+983
+00:42:01,716 --> 00:42:03,576
+como se fosse uma fotografia
+
+984
+00:42:03,576 --> 00:42:05,916
+em wide angle, não parece
+
+985
+00:42:05,916 --> 00:42:07,796
+que teve muita distorção, mas vocês vão
+
+986
+00:42:07,796 --> 00:42:09,336
+ver como que a imagem vai ganhando o zoom
+
+987
+00:42:09,336 --> 00:42:11,956
+com o tipo de lente
+
+988
+00:42:11,956 --> 00:42:14,336
+que você escolhe, 35 milímetros
+
+989
+00:42:14,336 --> 00:42:15,976
+ele já fez
+
+990
+00:42:15,976 --> 00:42:17,876
+uma foto mais semelhante a um
+
+991
+00:42:17,876 --> 00:42:19,736
+enquadramento de 35 milímetros
+
+992
+00:42:19,736 --> 00:42:22,196
+aqui 50mm, que é um pouquinho
+
+993
+00:42:22,196 --> 00:42:23,996
+diferente, aí vem aqui
+
+994
+00:42:23,996 --> 00:42:26,056
+70mm, já foi ficando mais próximo
+
+995
+00:42:26,056 --> 00:42:28,256
+depois, 85mm
+
+996
+00:42:29,536 --> 00:42:30,036
+400mm
+
+997
+00:42:30,816 --> 00:42:31,316
+200mm
+
+998
+00:42:32,836 --> 00:42:33,836
+135mm, aqui
+
+999
+00:42:33,836 --> 00:42:35,316
+é uma simulação
+
+1000
+00:42:35,316 --> 00:42:37,976
+eu lembrei que agora que a Thaís me explicou isso eu já ia
+
+1001
+00:42:37,976 --> 00:42:40,036
+passar sem falar, isso aqui é uma
+
+1002
+00:42:40,036 --> 00:42:42,096
+simulação de como cada
+
+1003
+00:42:42,096 --> 00:42:44,156
+cada lente
+
+1004
+00:42:44,156 --> 00:42:46,096
+recorta e enquadra uma
+
+1005
+00:42:46,096 --> 00:42:48,036
+imagem, tá? Então é a
+
+1006
+00:42:48,036 --> 00:42:50,116
+a mesma imagem, por isso que a qualidade está desse jeito
+
+1007
+00:42:50,116 --> 00:42:52,116
+aqui, a gente vai ver as geradas ali ainda
+
+1008
+00:42:52,116 --> 00:42:54,096
+opa, opa, aqui é só pra você
+
+1009
+00:42:54,096 --> 00:42:56,156
+visualizar um pouco da simulação
+
+1010
+00:42:56,156 --> 00:42:57,876
+então, quando você tem uma
+
+1011
+00:42:57,876 --> 00:42:59,956
+14mm, se você não vai com a câmera
+
+1012
+00:42:59,956 --> 00:43:01,416
+lá perto pra tirar a foto
+
+1013
+00:43:01,416 --> 00:43:03,956
+você tem uma foto que pega aqui muito
+
+1014
+00:43:03,956 --> 00:43:05,876
+mais espaço, né
+
+1015
+00:43:05,876 --> 00:43:08,076
+e por aí vai, vamos ver isso aqui gerando
+
+1016
+00:43:08,076 --> 00:43:09,996
+com o IAR, que é só uma simulação pra vocês
+
+1017
+00:43:09,996 --> 00:43:11,916
+entenderem a ideia da lente
+
+1018
+00:43:12,476 --> 00:43:13,996
+isso aqui também é legal de falar, que são
+
+1019
+00:43:13,996 --> 00:43:16,216
+lentes excêntricas, então tem lentes
+
+1020
+00:43:16,216 --> 00:43:18,996
+que acabam gerando distorções na imagem
+
+1021
+00:43:18,996 --> 00:43:20,136
+que são muito interessantes,
+
+1022
+00:43:20,136 --> 00:43:21,356
+são recursos estilísticos,
+
+1023
+00:43:21,396 --> 00:43:22,216
+a gente vai ver aqui também,
+
+1024
+00:43:22,336 --> 00:43:23,856
+como o tilt-shift.
+
+1025
+00:43:24,036 --> 00:43:24,896
+Essa é muito legal,
+
+1026
+00:43:24,936 --> 00:43:26,876
+se você tira foto com lente tilt-shift,
+
+1027
+00:43:27,016 --> 00:43:28,436
+tudo parece pequenininho,
+
+1028
+00:43:28,456 --> 00:43:30,156
+porque o jeito como ela desfoca as coisas,
+
+1029
+00:43:30,276 --> 00:43:32,836
+parece que as coisas que estão longe estão em miniatura.
+
+1030
+00:43:34,296 --> 00:43:35,016
+Lente anamórfica,
+
+1031
+00:43:35,536 --> 00:43:36,796
+eu acho que vai ser mais legal,
+
+1032
+00:43:36,816 --> 00:43:37,856
+inclusive eu estou explicando aqui,
+
+1033
+00:43:37,936 --> 00:43:38,936
+mas vocês visualizarem,
+
+1034
+00:43:39,056 --> 00:43:40,116
+se for só passar pela lista,
+
+1035
+00:43:40,196 --> 00:43:41,456
+a gente já vai ver ali nas imagens,
+
+1036
+00:43:41,556 --> 00:43:43,516
+mas lente anamórfica,
+
+1037
+00:43:44,256 --> 00:43:44,616
+telescópio,
+
+1038
+00:43:45,116 --> 00:43:45,476
+microscópio,
+
+1039
+00:43:45,476 --> 00:43:47,356
+que são lentes também, e você pode
+
+1040
+00:43:47,356 --> 00:43:49,436
+usar essas lentes pra conseguir imagens diferentes
+
+1041
+00:43:49,956 --> 00:43:50,796
+simulação de imagens
+
+1042
+00:43:50,796 --> 00:43:53,456
+lupa e gota de orvalho
+
+1043
+00:43:53,456 --> 00:43:55,676
+que é usar uma gotinha de água como se fosse uma lente
+
+1044
+00:43:55,676 --> 00:43:57,276
+ela também distorce a imagem de maneiras
+
+1045
+00:43:57,916 --> 00:43:59,276
+interessantes, isso aqui tudo é o processo
+
+1046
+00:43:59,276 --> 00:44:01,436
+que a gente seguiu, tá? Lente de espelho
+
+1047
+00:44:01,436 --> 00:44:03,076
+que é a catadióptica
+
+1048
+00:44:04,416 --> 00:44:04,816
+catadióptrica
+
+1049
+00:44:06,236 --> 00:44:10,336
+infravermelho e ultravioleta, e Lens Baby e outras criativas.
+
+1050
+00:44:10,496 --> 00:44:12,256
+Vamos ver, vamos dar uma olhada aqui, vai ser interessante.
+
+1051
+00:44:12,976 --> 00:44:15,016
+Metodologia de estudos, a gente isolou também,
+
+1052
+00:44:15,216 --> 00:44:17,996
+então o documento foi estruturado a partir de uma abordagem prática e sistemática,
+
+1053
+00:44:18,116 --> 00:44:21,036
+para cada conceito técnico de fotografia, como distância focal,
+
+1054
+00:44:21,216 --> 00:44:23,496
+abertura, profundidade de campo, câmera e tipo de lente,
+
+1055
+00:44:23,616 --> 00:44:26,956
+realizamos testes controlados em ferramentas de geração de imagem por IA.
+
+1056
+00:44:27,056 --> 00:44:28,296
+Aqui a gente usou o Midi Journey.
+
+1057
+00:44:28,516 --> 00:44:31,296
+O objetivo foi entender como esses modelos interpretam
+
+1058
+00:44:31,296 --> 00:44:33,676
+e traduzem termos fotográficos em representações visuais,
+
+1059
+00:44:33,676 --> 00:44:36,976
+mesmo sem operar com sensores, vidro ou física óptica,
+
+1060
+00:44:37,036 --> 00:44:39,196
+que é o que eu já expliquei para vocês aqui também.
+
+1061
+00:44:39,296 --> 00:44:42,516
+Ele não funciona na lógica da física, não é um render, né?
+
+1062
+00:44:42,916 --> 00:44:45,656
+A cada experimento, mantivemos a base descrita constante,
+
+1063
+00:44:45,996 --> 00:44:47,456
+modelo, iluminação e estilo,
+
+1064
+00:44:47,616 --> 00:44:50,116
+alterando apenas a variável central do estudo,
+
+1065
+00:44:50,176 --> 00:44:53,216
+como a lente usada, o tipo de câmera ou o valor de abertura.
+
+1066
+00:44:53,356 --> 00:44:56,016
+Essa metodologia nos permitiu isolar os efeitos percebidos
+
+1067
+00:44:56,016 --> 00:44:59,236
+de cada elemento técnico e avaliar o grau de fidelidade com a IA,
+
+1068
+00:44:59,916 --> 00:45:02,116
+com que a IA simula fenômenos ópticos,
+
+1069
+00:45:02,116 --> 00:45:07,076
+como compressão de plano, bokeh, distorção, ângulo de visão e textura de imagem.
+
+1070
+00:45:07,516 --> 00:45:10,496
+Isso aqui é uma das imagens, a gente vai vê-las agora funcionando.
+
+1071
+00:45:10,636 --> 00:45:13,216
+Até mesmo, presta atenção na cor, na atmosfera,
+
+1072
+00:45:13,216 --> 00:45:15,936
+tudo isso é influenciado pelo tipo de câmera, pela lente.
+
+1073
+00:45:16,136 --> 00:45:17,796
+Vocês vão ver aqui funcionando bem legal.
+
+1074
+00:45:18,456 --> 00:45:19,136
+Então vamos lá.
+
+1075
+00:45:19,776 --> 00:45:21,836
+Primeiro, aplicação de profundidade de campo,
+
+1076
+00:45:21,996 --> 00:45:24,176
+ou seja, o quanto que está desfocando o fundo ali ou não.
+
+1077
+00:45:24,436 --> 00:45:27,736
+Então a gente tem aqui o Deep Focus, ou seja, tudo focado.
+
+1078
+00:45:28,924 --> 00:45:32,904
+A cadeira está focada, a roupa está focada, o cabelo está focado, o rosto está focado também.
+
+1079
+00:45:33,304 --> 00:45:38,404
+Nesse caso aqui, deixa eu ver se a gente tem uma câmera usada.
+
+1080
+00:45:38,424 --> 00:45:39,824
+Não, não teve nenhuma câmera usada.
+
+1081
+00:45:39,904 --> 00:45:45,204
+O principal aqui foi trazer o Deep Focus dentro do Prompt.
+
+1082
+00:45:45,784 --> 00:45:48,744
+A gente tem aqui o Soft Focus, que é o foco suave.
+
+1083
+00:45:48,884 --> 00:45:51,464
+Então aqui a gente tem um objeto em primeiro plano desfocado,
+
+1084
+00:45:51,544 --> 00:45:54,664
+e lá no fundo também não está 100% focado, está vendo?
+
+1085
+00:45:54,684 --> 00:45:56,404
+Está dando uma desfocadinha no fundo também.
+
+1086
+00:45:56,404 --> 00:46:01,424
+Isso é legal para gerar um efeito meio misterioso, místico.
+
+1087
+00:46:01,424 --> 00:46:03,704
+Tem uma marca que gosta muito de fazer imagens assim,
+
+1088
+00:46:03,784 --> 00:46:06,304
+ela até transformou isso aqui na identidade dela,
+
+1089
+00:46:06,444 --> 00:46:07,564
+que é a Perplexity.
+
+1090
+00:46:07,684 --> 00:46:10,284
+Se vocês repararem, as fotos da Perplexity
+
+1091
+00:46:10,284 --> 00:46:13,444
+são sempre em soft focus, não é 100% focado não.
+
+1092
+00:46:13,604 --> 00:46:14,484
+E é interessante.
+
+1093
+00:46:14,924 --> 00:46:16,724
+Gerou uns artefatozinhos aqui também.
+
+1094
+00:46:19,324 --> 00:46:25,884
+shallow, shallow depth of field, campo de profundidade, então profundidade rasa.
+
+1095
+00:46:26,104 --> 00:46:31,524
+Deu uma desfocada lá no fundo, mas aqui no primeiro plano tá tudo focadinho aqui,
+
+1096
+00:46:31,624 --> 00:46:35,384
+mas também não tem uma nitidez tão exata, tá vendo? Olha o cabelo aqui também.
+
+1097
+00:46:36,860 --> 00:46:40,360
+Isso por conta aqui de ser profundidade rasa.
+
+1098
+00:46:42,588 --> 00:46:44,848
+Aí vem aplicação de tipos de lentes.
+
+1099
+00:46:45,748 --> 00:46:47,788
+Fisheye. Primeiro delas, olho de peixe.
+
+1100
+00:46:47,828 --> 00:46:49,688
+Olha só a distorção que nós tivemos aqui.
+
+1101
+00:46:49,748 --> 00:46:50,568
+Vou até puxar aqui.
+
+1102
+00:46:50,828 --> 00:46:54,608
+Olha a distorção aqui da imagem.
+
+1103
+00:46:55,088 --> 00:46:57,108
+Isso aqui é o tipo de lente que faz isso.
+
+1104
+00:46:57,268 --> 00:46:59,568
+Quando você quiser gerar essa distorção numa imagem sua,
+
+1105
+00:46:59,608 --> 00:47:02,568
+é só você usar no prompt o termo fisheye.
+
+1106
+00:47:02,628 --> 00:47:04,168
+Essa palavra-chave aqui você vai conseguir.
+
+1107
+00:47:07,164 --> 00:47:08,084
+Um resultado como esse.
+
+1108
+00:47:08,524 --> 00:47:09,564
+Wide Angle.
+
+1109
+00:47:09,624 --> 00:47:11,744
+Wide Angle vai impactar várias coisas, tá?
+
+1110
+00:47:11,804 --> 00:47:15,064
+Vai impactar o enquadramento, vai impactar também a lente.
+
+1111
+00:47:15,164 --> 00:47:19,204
+Aqui a gente isolou pra lente, vocês vão reparar que tudo tem foco, né?
+
+1112
+00:47:19,564 --> 00:47:22,004
+Então tá tudo focado aqui atrás no fundo, tá focado.
+
+1113
+00:47:22,184 --> 00:47:23,824
+Lá no fundo desfocou um pouquinho.
+
+1114
+00:47:24,104 --> 00:47:26,944
+Ela também tá meio soft, né? Não tá 100% nítida,
+
+1115
+00:47:26,944 --> 00:47:30,084
+mas quando você olha ela na imagem assim, ela tem uma nitidez legal.
+
+1116
+00:47:30,324 --> 00:47:33,024
+Mas tudo ganha relevância, né?
+
+1117
+00:47:33,044 --> 00:47:34,344
+Aqui você percorre.
+
+1118
+00:47:34,344 --> 00:47:36,264
+é muito bom pra contar histórias isso aqui
+
+1119
+00:47:36,264 --> 00:47:38,364
+deixar objetos na cena, fazer uma narrativa visual
+
+1120
+00:47:39,772 --> 00:47:40,872
+Mais um aqui, Wide Angle.
+
+1121
+00:47:41,212 --> 00:47:44,152
+A gente tem também Standard Lens, que é a lente padrão.
+
+1122
+00:47:44,232 --> 00:47:47,492
+Então ela desfoca, mas desfoca pouco no fundo.
+
+1123
+00:47:48,192 --> 00:47:50,792
+Vocês vão reparar que tem uma atmosfera mais escura também.
+
+1124
+00:47:50,872 --> 00:47:53,512
+A gente isolou aqui para usar um...
+
+1125
+00:47:54,940 --> 00:47:56,640
+Um único ambiente, com um único sujeito, tá?
+
+1126
+00:47:56,760 --> 00:48:01,260
+Mas eu quero que vocês observem como que se comporta a lente aqui, né?
+
+1127
+00:48:01,280 --> 00:48:03,300
+Então, o tanto de nitidez que tem aqui,
+
+1128
+00:48:03,400 --> 00:48:05,280
+aqui já não tem mais tanta nitidez assim,
+
+1129
+00:48:05,500 --> 00:48:07,120
+que tá um pouquinho mais pra frente, né?
+
+1130
+00:48:07,220 --> 00:48:10,640
+O campo de visão, ele vai como se fosse uma camada, assim, ó.
+
+1131
+00:48:11,040 --> 00:48:11,780
+Até ele chegar.
+
+1132
+00:48:11,880 --> 00:48:14,140
+Se eu desfocasse minha câmera aqui agora, por exemplo,
+
+1133
+00:48:14,300 --> 00:48:16,260
+eu posso ir arrastando o campo de visão
+
+1134
+00:48:16,260 --> 00:48:17,860
+até ele chegar lá no fundo.
+
+1135
+00:48:18,100 --> 00:48:20,720
+Aí a IA vai focar o fundo e vai me desfocar.
+
+1136
+00:48:20,880 --> 00:48:22,740
+Isso que é o campo de visão, tá?
+
+1137
+00:48:22,740 --> 00:48:27,440
+aqui no caso ele está bem nessa área do rosto dela,
+
+1138
+00:48:27,540 --> 00:48:29,720
+só que como a mão dela está para frente aqui,
+
+1139
+00:48:30,280 --> 00:48:32,680
+saiu do campo de visão, ela já ficou mais desfocada.
+
+1140
+00:48:35,324 --> 00:48:35,684
+Então, beleza?
+
+1141
+00:48:37,532 --> 00:48:38,132
+Telephoto.
+
+1142
+00:48:38,372 --> 00:48:42,512
+Aí a telephoto, geralmente, a sensação que dá é que a pessoa está perto.
+
+1143
+00:48:42,592 --> 00:48:45,452
+Mas se fosse uma câmera de telephoto,
+
+1144
+00:48:45,492 --> 00:48:48,392
+para tirar desse jeito aqui, você tinha que estar bem longe.
+
+1145
+00:48:49,884 --> 00:48:50,724
+conseguir tirar desse jeito.
+
+1146
+00:48:51,504 --> 00:48:53,864
+Aqui era a telephoto short,
+
+1147
+00:48:54,104 --> 00:48:55,864
+aqui a telephoto padrão
+
+1148
+00:48:55,864 --> 00:48:57,624
+e aqui a super telephoto também,
+
+1149
+00:48:58,244 --> 00:48:59,984
+pegando mais o close-up também. Você pode
+
+1150
+00:48:59,984 --> 00:49:01,964
+usar esses termos também pra poder fazer
+
+1151
+00:49:01,964 --> 00:49:02,984
+close-up, é bem interessante.
+
+1152
+00:49:04,220 --> 00:49:10,300
+Geralmente, usa Telephoto, ao invés de usar em modelo, usa em cenários, ambientes, lugares e espaços abertos.
+
+1153
+00:49:10,620 --> 00:49:14,380
+Aqui é porque a gente estava isolando a variável para ver o que acontecia.
+
+1154
+00:49:14,500 --> 00:49:17,360
+E aí vocês estão vendo o resultado dos testes aqui junto com a gente.
+
+1155
+00:49:18,684 --> 00:49:20,664
+Aplicações de lentes excêntricas.
+
+1156
+00:49:20,664 --> 00:49:22,224
+Então, a primeira delas é a Tilt-Shift.
+
+1157
+00:49:22,344 --> 00:49:24,984
+Essa daqui já traz um detalhe interessante,
+
+1158
+00:49:25,864 --> 00:49:28,944
+que a própria IA transformou o objeto em...
+
+1159
+00:49:30,236 --> 00:49:31,136
+Em miniatura, né?
+
+1160
+00:49:31,156 --> 00:49:34,276
+Então não impactou só aqui a lente,
+
+1161
+00:49:34,296 --> 00:49:36,556
+mas ele realmente fez uma imagem em miniatura.
+
+1162
+00:49:36,556 --> 00:49:39,756
+Quando você usa tilt-shift como termo na inteligência artificial,
+
+1163
+00:49:40,096 --> 00:49:42,116
+ela gera esse efeitinho de miniatura aí,
+
+1164
+00:49:42,156 --> 00:49:43,316
+que muita gente gosta.
+
+1165
+00:49:43,396 --> 00:49:44,916
+Isso aí tá viralizando na internet, né?
+
+1166
+00:49:44,936 --> 00:49:47,156
+Até videozinhos de bonequinhos assim construindo coisas.
+
+1167
+00:49:47,276 --> 00:49:48,276
+Vocês já devem ter visto por aí.
+
+1168
+00:49:48,356 --> 00:49:49,556
+Se não viram, ainda vão ver.
+
+1169
+00:49:50,276 --> 00:49:53,256
+A gente tem anamórfica aqui também, com distorção de luz, tá vendo?
+
+1170
+00:49:54,652 --> 00:49:56,332
+Mas é bem interessante, gera efeitos legais.
+
+1171
+00:49:57,212 --> 00:49:58,632
+Telescópio. Isso aqui é uma coisa legal de falar.
+
+1172
+00:49:58,872 --> 00:50:03,112
+Ah, eu quero uma lente de telescópio, mas eu quero que o meu objeto seja um...
+
+1173
+00:50:04,700 --> 00:50:06,560
+um caderno. A IA vai ter um pouco de
+
+1174
+00:50:06,560 --> 00:50:08,540
+dificuldade de visualizar isso, porque
+
+1175
+00:50:10,204 --> 00:50:13,984
+Geralmente, a palavra telescópio é associada ao espaço, ao céu.
+
+1176
+00:50:14,464 --> 00:50:18,764
+Então, ela faz essa associação estatística e vai te trazer imagens que vão mostrar o céu.
+
+1177
+00:50:18,824 --> 00:50:20,144
+Acaba acontecendo isso também.
+
+1178
+00:50:20,384 --> 00:50:25,384
+Mas é legal, funciona, dependendo do tipo de objeto que você vai trazer para a sua imagem.
+
+1179
+00:50:30,140 --> 00:50:31,680
+Bebeu uma aguinha, né? Pode faltar não.
+
+1180
+00:50:33,340 --> 00:50:35,080
+Aqui também aconteceu esse efeito aqui, ó.
+
+1181
+00:50:35,400 --> 00:50:37,200
+Colocou aqui Magnifying Glass.
+
+1182
+00:50:37,420 --> 00:50:42,300
+Aí a lupa fez parte do objeto aqui da cena, né?
+
+1183
+00:50:42,340 --> 00:50:43,460
+Ela virou parte da cena.
+
+1184
+00:50:43,740 --> 00:50:46,980
+Mas tem como você também conseguir essa distorção de lupa assim?
+
+1185
+00:50:48,476 --> 00:50:50,616
+sem ela fazer parte da cena, tá?
+
+1186
+00:50:50,696 --> 00:50:53,776
+Mas, geralmente, você tem que fazer mais e mais versões,
+
+1187
+00:50:53,796 --> 00:50:55,616
+porque ela, como você usou a palavra,
+
+1188
+00:50:55,876 --> 00:50:59,196
+ela interpreta a palavra e traduz a palavra visualmente, né?
+
+1189
+00:50:59,216 --> 00:51:00,536
+Então, ela acaba colocando uma lente ali.
+
+1190
+00:51:01,896 --> 00:51:04,856
+Microscópio, ela também, quando você coloca a palavra microscópio,
+
+1191
+00:51:04,876 --> 00:51:07,576
+ela vai tender a trazer o universo micro do mundo.
+
+1192
+00:51:07,976 --> 00:51:11,396
+Então, sei lá, você coloca, assim, um caderno visto de um microscópio.
+
+1193
+00:51:11,396 --> 00:51:12,656
+Ela vai trazer também...
+
+1194
+00:51:13,436 --> 00:51:15,876
+As imagens ali são coisinhas pequenininhas
+
+1195
+00:51:15,876 --> 00:51:18,576
+que tem a sensação de que você está vendo por um microscópio, tá?
+
+1196
+00:51:18,616 --> 00:51:22,916
+Então, essa lente muda a própria imagem em si que você está trabalhando.
+
+1197
+00:51:24,444 --> 00:51:25,644
+Gota de orvalho aqui, ó.
+
+1198
+00:51:25,744 --> 00:51:27,964
+Tá vendo a distorção invertida aqui na gota de orvalho?
+
+1199
+00:51:28,104 --> 00:51:29,484
+Mas acontece a mesma coisa.
+
+1200
+00:51:29,624 --> 00:51:33,764
+Essas lentes mais anamórficas, mais de distorção,
+
+1201
+00:51:34,444 --> 00:51:37,664
+muitas vezes o objeto que você coloca, ele entra na cena, né?
+
+1202
+00:51:37,824 --> 00:51:39,604
+E aí depende de como você tá construindo.
+
+1203
+00:51:39,824 --> 00:51:42,964
+Aqui, por exemplo, a Thais quis fazer nesse enquadramento.
+
+1204
+00:51:43,244 --> 00:51:46,524
+Mas às vezes você pode também colocar aqui num Extreme Close-Up
+
+1205
+00:51:46,524 --> 00:51:50,064
+e colocar Macro Photography, que vai aparecer aqui, vocês vão ver.
+
+1206
+00:51:50,164 --> 00:51:53,244
+Aí ele faria a gota de orvalho mais de perto, mais definida, né?
+
+1207
+00:51:53,364 --> 00:51:54,044
+Ficaria melhor.
+
+1208
+00:51:54,604 --> 00:51:55,864
+que é uma dica que eu dou para vocês.
+
+1209
+00:51:56,024 --> 00:51:57,924
+Ao invés de ficar tentando fazer upscale em imagem,
+
+1210
+00:51:58,064 --> 00:52:01,604
+pede para já gerar imagem naquele corte que você quer grandão.
+
+1211
+00:52:01,884 --> 00:52:03,464
+A qualidade vai ser muito melhor.
+
+1212
+00:52:03,844 --> 00:52:04,404
+Muito melhor.
+
+1213
+00:52:05,660 --> 00:52:07,580
+E você vai ter a imagem em zoom que você queria, né?
+
+1214
+00:52:08,380 --> 00:52:10,200
+Lente e espelho, carta dióptica.
+
+1215
+00:52:11,388 --> 00:52:12,208
+Aí tem ela aqui também.
+
+1216
+00:52:12,288 --> 00:52:16,368
+Essa lente, ela gera algumas distorções de iluminação também.
+
+1217
+00:52:16,968 --> 00:52:18,668
+E é bem interessante pra gerar efeito.
+
+1218
+00:52:18,748 --> 00:52:21,268
+A Thais adora fazer imagem usando esses efeitos aqui.
+
+1219
+00:52:21,448 --> 00:52:22,128
+Muito massa.
+
+1220
+00:52:23,488 --> 00:52:24,268
+Infravermelho, olha só.
+
+1221
+00:52:24,328 --> 00:52:25,668
+Se quiser um efeito infravermelho.
+
+1222
+00:52:26,108 --> 00:52:28,408
+E tem também esse efeito Lens Baby aqui.
+
+1223
+00:52:28,548 --> 00:52:31,748
+Que funciona pra coisas pequenas, mas ele acaba trazendo...
+
+1224
+00:52:31,748 --> 00:52:32,908
+Por que que é Lens Baby?
+
+1225
+00:52:32,988 --> 00:52:35,928
+É como se fosse você vendo o mundo como se fosse uma criança.
+
+1226
+00:52:36,148 --> 00:52:37,708
+E criança não é meio desajeitada?
+
+1227
+00:52:37,708 --> 00:52:38,828
+Já não sai andando meio assim, ó.
+
+1228
+00:52:40,540 --> 00:52:41,280
+Não vai brincando assim?
+
+1229
+00:52:41,620 --> 00:52:43,240
+Então, quando ela vai fazendo isso,
+
+1230
+00:52:43,380 --> 00:52:46,940
+ela vai gerando desfoque de movimento na cena, né?
+
+1231
+00:52:47,240 --> 00:52:49,020
+Então, Lens Baby é sobre isso, olha só.
+
+1232
+00:52:49,420 --> 00:52:51,780
+Traz esses desfoquezinhos de movimento aqui, ó.
+
+1233
+00:52:52,988 --> 00:52:53,868
+É interessante também.
+
+1234
+00:52:54,728 --> 00:52:58,408
+Isso é uma coisa legal, porque se você coloca também a lente de quem está vendo,
+
+1235
+00:52:58,528 --> 00:53:01,988
+por exemplo, visão de águia, ele vai trazer lá de cima a águia olhando.
+
+1236
+00:53:02,408 --> 00:53:04,628
+Visão de minhoca, ele vai trazer uma minhoca de baixo.
+
+1237
+00:53:04,728 --> 00:53:07,068
+Visão de formiga, ele traz. Isso é interessante também.
+
+1238
+00:53:07,168 --> 00:53:11,068
+É uma espécie de lente, né? Você olhar com os olhos de algum outro ser.
+
+1239
+00:53:11,248 --> 00:53:13,668
+É interessante. Funciona muito bem com o Iá também.
+
+1240
+00:53:15,132 --> 00:53:16,252
+Vamos aos erros e limitações.
+
+1241
+00:53:16,932 --> 00:53:19,292
+Wide Angle. A IA ignorou o pedido do ângulo.
+
+1242
+00:53:19,912 --> 00:53:20,852
+Reforçar no Prompt.
+
+1243
+00:53:20,972 --> 00:53:22,692
+Wide Angle, Long Distance View.
+
+1244
+00:53:22,872 --> 00:53:24,932
+Eu até cheguei a comentar isso com vocês, né?
+
+1245
+00:53:24,952 --> 00:53:25,792
+Porque a gente isolou ele.
+
+1246
+00:53:26,472 --> 00:53:28,892
+Telephoto Short. Trouxe um ângulo muito fechado
+
+1247
+00:53:28,892 --> 00:53:29,972
+pra teleshot forte.
+
+1248
+00:53:30,172 --> 00:53:32,112
+Mas isso aqui... Telephoto, né?
+
+1249
+00:53:32,192 --> 00:53:34,572
+Só que isso aqui aconteceu por quê? Por causa do objeto.
+
+1250
+00:53:34,652 --> 00:53:36,432
+É o que eu falo. Gera paradoxos, né?
+
+1251
+00:53:36,772 --> 00:53:38,392
+Então, se eu vou usar telephoto,
+
+1252
+00:53:38,472 --> 00:53:40,692
+geralmente é pra espaços
+
+1253
+00:53:40,692 --> 00:53:42,232
+muito amplos, beleza?
+
+1254
+00:53:42,472 --> 00:53:44,272
+Quando você usa isso em um
+
+1255
+00:53:44,692 --> 00:53:46,752
+em uma pessoa, por exemplo, fica estranho,
+
+1256
+00:53:46,752 --> 00:53:48,592
+acaba acontecendo esse tipo de coisa aqui, porque
+
+1257
+00:53:49,112 --> 00:53:50,672
+até a pessoa que, se você
+
+1258
+00:53:50,672 --> 00:53:52,732
+um dia tiver a experiência de usar uma telephoto
+
+1259
+00:53:52,732 --> 00:53:54,692
+dentro de um espaço fechado, você vai ver, você vai
+
+1260
+00:53:54,692 --> 00:53:56,872
+ficar meio perdida, é tipo usar um binóculo.
+
+1261
+00:53:57,652 --> 00:53:58,652
+Então, é interessante
+
+1262
+00:53:58,652 --> 00:54:00,772
+pensar nisso também. Deep Focus
+
+1263
+00:54:00,772 --> 00:54:02,452
+adicionou muito desfoque na imagem,
+
+1264
+00:54:03,312 --> 00:54:04,832
+mas também chama Deep Focus,
+
+1265
+00:54:05,012 --> 00:54:06,712
+né? Aí a interpretou como Deep
+
+1266
+00:54:06,712 --> 00:54:08,552
+Profundo. Infravermelho,
+
+1267
+00:54:08,552 --> 00:54:10,792
+ignorou o aspecto de uma imagem infravermelho.
+
+1268
+00:54:10,892 --> 00:54:12,632
+Aqui, a gente conseguiu, foi
+
+1269
+00:54:12,632 --> 00:54:14,592
+foi ultravioleta? Não, foi um infravermelho.
+
+1270
+00:54:14,752 --> 00:54:16,432
+Ou seja, às vezes também basta você
+
+1271
+00:54:16,432 --> 00:54:18,492
+gerar de novo, tentar, mas pode ser que ela erre,
+
+1272
+00:54:18,632 --> 00:54:20,732
+né? Ignore isso. Telescópio.
+
+1273
+00:54:20,992 --> 00:54:22,332
+Adicionou um telescópio em muitas
+
+1274
+00:54:22,332 --> 00:54:24,512
+tentativas. Isso é interessante também, é o que eu falei
+
+1275
+00:54:24,512 --> 00:54:26,352
+de interpretar a palavra. Ou ele adiciona um
+
+1276
+00:54:26,352 --> 00:54:28,772
+telescópio, ou o objeto dele é o céu,
+
+1277
+00:54:28,832 --> 00:54:29,972
+igual aqui o céu aparecendo.
+
+1278
+00:54:30,212 --> 00:54:32,012
+Ele também trouxe as estrelas, né?
+
+1279
+00:54:32,112 --> 00:54:33,952
+Por que ele trouxe essas estrelas aqui? Porque
+
+1280
+00:54:34,532 --> 00:54:36,432
+telescópio vê estrelas, vê planetas,
+
+1281
+00:54:36,432 --> 00:54:38,492
+vê corpos celestes, né?
+
+1282
+00:54:39,332 --> 00:54:40,292
+Gota de orvalho.
+
+1283
+00:54:40,332 --> 00:54:42,232
+Não focou na imagem
+
+1284
+00:54:42,232 --> 00:54:46,672
+através da gota. Ficou trazendo a gotinha de orvalho como um sujeito para a cena também.
+
+1285
+00:54:47,032 --> 00:54:50,832
+Então, a gente mostra aqui o resultado, mas também algumas coisas que deram errado.
+
+1286
+00:54:51,052 --> 00:54:53,792
+Deixa eu ver se aqui tem algumas imagens. Tem umas babies aqui.
+
+1287
+00:54:55,676 --> 00:54:57,516
+Muito bom, muito bom. Olha, esse aqui foi alguns
+
+1288
+00:54:57,516 --> 00:54:59,596
+testes. A gente continua fazendo testes
+
+1289
+00:54:59,596 --> 00:55:01,676
+aqui, é bem legal. E eu recomendo
+
+1290
+00:55:01,676 --> 00:55:03,496
+que você faça os seus testes também.
+
+1291
+00:55:03,696 --> 00:55:05,436
+O objetivo aqui foi te mostrar
+
+1292
+00:55:05,436 --> 00:55:07,376
+que você pode trabalhar em
+
+1293
+00:55:07,376 --> 00:55:09,536
+diversas variáveis dentro de um
+
+1294
+00:55:09,536 --> 00:55:10,936
+de uma imagem.
+
+1295
+00:55:11,136 --> 00:55:13,336
+Você não precisa também colocar todas.
+
+1296
+00:55:13,476 --> 00:55:15,536
+Inclusive, às vezes, colocar todas de uma vez
+
+1297
+00:55:15,536 --> 00:55:17,256
+piora o prompt mais do que ajuda.
+
+1298
+00:55:17,556 --> 00:55:19,376
+Tenta pensar o que é mais importante
+
+1299
+00:55:19,376 --> 00:55:21,176
+pra você e utilize isso como
+
+1300
+00:55:21,176 --> 00:55:23,656
+o seu foco
+
+1301
+00:55:23,656 --> 00:55:24,936
+dentro da escrita do seu prompt.
+
+1302
+00:55:24,936 --> 00:55:31,256
+Então, se o importante é a distorção da lente, escreve a distorção da lente, coloca ela no prompt.
+
+1303
+00:55:31,456 --> 00:55:36,896
+Mas não precisa ficar colocando todos os enquadramentos, todas as iluminações, porque seu foco é a distorção da lente.
+
+1304
+00:55:37,056 --> 00:55:37,476
+Entende?
+
+1305
+00:55:38,076 --> 00:55:42,496
+Tem prompts gigantes que você vai colocando cada detalhinho desse e você tem um prompt legal.
+
+1306
+00:55:42,776 --> 00:55:44,776
+Tem outras vezes que não fica tão bom.
+
+1307
+00:55:44,996 --> 00:55:47,936
+Agora eu quero mostrar para você aqui, antes da gente avançar,
+
+1308
+00:55:48,016 --> 00:55:52,856
+algumas imagens que nós já geramos com inteligência artificial e os prompts que nós utilizamos nela.
+
+1309
+00:55:52,856 --> 00:55:56,456
+Para isso, eu vou mostrar na próxima aula aqui o nosso Mid-Journey para você,
+
+1310
+00:55:56,516 --> 00:55:58,156
+que foi onde a gente fez muitos testes aqui.
+
+1311
+00:55:58,396 --> 00:56:00,336
+É claro que existem muitas outras ferramentas.
+
+1312
+00:56:00,336 --> 00:56:02,616
+No momento que eu estou gravando esse vídeo, tem o Banana 2, Seedream,
+
+1313
+00:56:02,776 --> 00:56:07,376
+que são excelentes ferramentas, muitas vezes até melhor do que o Mid-Journey.
+
+1314
+00:56:07,616 --> 00:56:11,476
+Então, vale dizer que esses testes aqui dependem também do modelo de ar que você está usando.
+
+1315
+00:56:11,576 --> 00:56:15,176
+Pode ser que em outros modelos não cometa os mesmos erros que nós vivemos aqui,
+
+1316
+00:56:15,296 --> 00:56:16,796
+no caso do Mid-Journey.
+

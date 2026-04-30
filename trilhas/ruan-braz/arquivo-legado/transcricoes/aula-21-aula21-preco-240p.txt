@@ -1,0 +1,832 @@
+# Video: aula21.preco (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-28 17:40
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:01:04 --> 00:00:03:18] Construindo o seu preço.
+[00:00:04:11 --> 00:00:08:19] Chegou a hora, finalmente, de nós falarmos das estratégias de precificação.
+[00:00:09:03 --> 00:00:11:19] Depois que nós tivemos uma aula sobre estrutura,
+[00:00:12:02 --> 00:00:14:06] agora chegou a hora de nós falarmos sobre preço.
+[00:00:14:14 --> 00:00:17:19] Você deve ter notado que essa aula está com a cor laranja
+[00:00:17:19 --> 00:00:21:18] e as aulas de cores laranja são do módulo de demanda.
+[00:00:21:22 --> 00:00:25:09] Porque preço é muito mais, como vocês vão ver nessa aula aqui,
+[00:00:25:15 --> 00:00:29:28] sobre posicionamento do que sobre infraestrutura.
+[00:00:29:28 --> 00:00:34:17] O preço te posiciona no mercado, ele passa uma mensagem sobre que tipo de profissional
+[00:00:34:17 --> 00:00:35:10] você é.
+[00:00:35:25 --> 00:00:42:06] Mas antes de falar de preço, eu queria primeiro ter forrado esse terreno para você, ter te
+[00:00:42:06 --> 00:00:46:14] apresentado o que é um CNPJ, quais são as suas obrigações e, principalmente, qual
+[00:00:46:14 --> 00:00:48:07] é a sua estrutura de custo.
+[00:00:48:25 --> 00:00:54:18] Porque muita gente comete o erro de precificar sem saber qual é a estrutura de custo.
+[00:00:54:22 --> 00:00:58:21] E isso pode te colocar numa situação de prejuízo, como a gente viu na última
+[00:00:58:21 --> 00:00:58:28] aula.
+[00:01:00:03 --> 00:01:06:10] Mas estrutura de custo é uma questão de infraestrutura, você compreender a sua infraestrutura,
+[00:01:06:12 --> 00:01:10:22] tudo que você precisa para que o seu negócio exista.
+[00:01:10:26 --> 00:01:14:12] E eu sentia que se eu falasse de preço antes de falar de custo, ficaria muito ruim.
+[00:01:14:23 --> 00:01:18:28] Então eu decidi mesmo que essa seja uma aula de demanda, colocar ela depois da aula
+[00:01:18:28 --> 00:01:22:25] de estrutura de custo aqui no módulo de ambiente.
+[00:01:23:03 --> 00:01:26:26] Mas pode ficar tranquilo que desse jeito vai ficar até mais fácil de você compreender.
+[00:01:26:26 --> 00:01:32:09] O que nós vamos falar aqui hoje é muito mais sobre estratégia e sobre posicionamento
+[00:01:32:09 --> 00:01:33:23] do que matemática.
+[00:01:34:00 --> 00:01:38:24] Muita gente acha que preço é uma questão de justiça e eu vou mostrar aqui para vocês
+[00:01:38:24 --> 00:01:41:13] que isso é um grande equívoco.
+[00:01:41:21 --> 00:01:46:19] Não existe preço justo e até o final dessa aula você vai entender por quê, tá?
+[00:01:46:19 --> 00:01:51:06] Isso é uma das maiores crenças que muita gente tem e isso faz com que você, inclusive,
+[00:01:51:06 --> 00:01:57:14] até te desvalorize e não só te desvalorize, mas se posicione errado e atrai os clientes
+[00:01:58:03 --> 00:01:58:23] errados.
+[00:01:59:05 --> 00:02:02:16] Então, a primeira premissa que a gente precisa entender aqui é a seguinte.
+[00:02:03:06 --> 00:02:08:01] Preço não é sobre demanda, preço é sobre posicionamento.
+[00:02:08:11 --> 00:02:09:14] O que significa isso?
+[00:02:09:24 --> 00:02:16:03] Muita gente acha que precisa colocar o preço de acordo com o mercado.
+[00:02:16:18 --> 00:02:20:08] Então o mercado dita o preço e você precisa se adequar a isso.
+[00:02:20:08 --> 00:02:25:16] Isso não é totalmente mentira, tá? O contexto e o mercado influenciam, sim, no preço,
+[00:02:25:28 --> 00:02:30:28] mas isso depende do tipo de serviço que você entrega e do seu posicionamento.
+[00:02:31:10 --> 00:02:34:22] Um exemplo que eu sempre gosto de dar, que eu aprendi lá na época da faculdade,
+[00:02:35:14 --> 00:02:41:00] é o exemplo do café. Nós temos o mesmo produto vendido com experiências completamente
+[00:02:41:00 --> 00:02:46:19] diferentes por preços completamente diferentes. Então, nós temos desde a comode de café até
+[00:02:46:19 --> 00:02:51:20] as cápsulas. A cápsula tem 5 gramas, se eu não me engano 1 quilo de café. Se você
+[00:02:51:20 --> 00:02:57:13] for juntar as cápsulas, vai dar mais de 250 reais, enquanto 1 quilo de café commodity
+[00:02:57:13 --> 00:03:02:15] não dá mais de 10. Então, olha só a diferença de preço, sempre que a gente está vendendo
+[00:03:02:15 --> 00:03:07:19] entre aspas a mesma coisa. Não é a mesma coisa porque a experiência é diferente
+[00:03:07:19 --> 00:03:11:21] e você compra se você quiser. Se tem gente comprando é porque aquilo gera valor
+[00:03:11:21 --> 00:03:15:05] para alguém de alguma maneira. Não adianta a gente também ficar criticando, falando
+[00:03:15:05 --> 00:03:17:12] Quem compra é bobo, não é?
+[00:03:17:17 --> 00:03:21:02] Não é, é porque é uma experiência diferente, aquilo gera valor para alguém.
+[00:03:21:09 --> 00:03:22:21] E é isso que a gente precisa entender.
+[00:03:23:06 --> 00:03:28:09] Preço não é sobre demanda, preço é sobre posicionamento, é sobre como você quer
+[00:03:28:09 --> 00:03:29:19] que as pessoas te enxergam.
+[00:03:29:25 --> 00:03:34:20] Mas tem um grande detalhe aqui, depois que você se posiciona, as pessoas vão criar
+[00:03:34:20 --> 00:03:37:14] uma expectativa sobre você.
+[00:03:37:27 --> 00:03:39:23] Preço também constrói expectativa.
+[00:03:39:23 --> 00:03:46:10] E não tem problema nenhum em construir expectativa se você é capaz de cumprir essa expectativa.
+[00:03:46:21 --> 00:03:48:12] E é essa a mentalidade que a gente precisa ter.
+[00:03:48:19 --> 00:03:53:08] Você pode colocar o preço que quiser no seu serviço, mas você precisa entregar
+[00:03:53:08 --> 00:03:58:20] um valor que está no nível ou superior aquele preço que você está entregando.
+[00:03:58:26 --> 00:04:00:16] Isso é o mais importante.
+[00:04:00:25 --> 00:04:05:23] Na hora que a gente vai definir preço, as duas regras principais são, primeiro,
+[00:04:05:23 --> 00:04:10:17] qual é o mínimo que eu devo cobrar para não prejudicar o meu negócio,
+[00:04:10:19 --> 00:04:13:27] para não prejudicar a estrutura de custo, você precisa saber isso
+[00:04:13:27 --> 00:04:18:10] e você precisa também saber qual é o valor que você entrega para o seu cliente.
+[00:04:18:12 --> 00:04:22:07] São essas duas informações que vai te ajudar a precificar.
+[00:04:22:14 --> 00:04:24:14] E eu já te ensinei como chegar nas duas.
+[00:04:24:22 --> 00:04:27:19] No módulo de demanda, eu te ensino como entender
+[00:04:27:19 --> 00:04:31:27] qual é o valor máximo, o perfil ideal de cliente
+[00:04:31:27 --> 00:04:34:24] e qual é o principal valor que esse cliente espera de você.
+[00:04:34:24 --> 00:04:37:25] Você precisa mapear isso junto com as objeções.
+[00:04:38:00 --> 00:04:40:13] Nós falamos das demandas que são específicas
+[00:04:40:13 --> 00:04:43:10] e das demandas que são abrangentes.
+[00:04:43:13 --> 00:04:45:05] Nós falamos desses dois tipos de demandas,
+[00:04:45:07 --> 00:04:47:12] do método Acro, não sei se você lembra.
+[00:04:47:26 --> 00:04:49:24] E essas demandas são o que geram valor.
+[00:04:50:12 --> 00:04:51:27] Uma vez que você entende, então,
+[00:04:51:27 --> 00:04:56:00] o impacto que o seu projeto gera no negócio do seu cliente,
+[00:04:56:03 --> 00:04:58:13] isso é um fator muito importante para a precificação.
+[00:04:58:22 --> 00:05:00:17] Vamos supor que um projeto que você cria
+[00:05:00:17 --> 00:05:03:18] vai gerar um impacto de, hipoteticamente,
+[00:05:03:18 --> 00:05:05:24] a um milhão de reais para o seu cliente.
+[00:05:05:26 --> 00:05:07:25] Se você cobrar 50 mil reais,
+[00:05:08:03 --> 00:05:10:25] aquilo ainda é um custo de oportunidade para o seu cliente.
+[00:05:11:00 --> 00:05:13:21] Ele ainda pode querer pagar aqueles 50 ou até 100 mil reais,
+[00:05:13:22 --> 00:05:16:07] porque isso vai render muito mais para ele.
+[00:05:17:04 --> 00:05:20:13] Inclusive, o preço, como eu disse, te posiciona.
+[00:05:20:19 --> 00:05:23:08] Então, se você tem um cliente capaz de faturar milhões,
+[00:05:23:19 --> 00:05:27:19] ele também vai estar preocupado com o tipo de pessoa que ele contrata
+[00:05:27:19 --> 00:05:29:05] para prestar esse serviço para ele.
+[00:05:29:27 --> 00:05:33:06] Porque a queda é grande, ele já está em um nível muito alto.
+[00:05:33:06 --> 00:05:38:08] Então, uma queda dali pode ser fatal, ou seja, ele não vai contratar qualquer profissional
+[00:05:38:08 --> 00:05:43:07] para fazer esse projeto para ele, porque isso poderia acarretar um risco.
+[00:05:43:11 --> 00:05:48:09] Ele poderia sentir que contratando alguém, sei lá, vou contratar um designer que cobrou
+[00:05:48:09 --> 00:05:51:03] R$500 para fazer essa marca ou um designer que cobrou R$30 mil?
+[00:05:51:09 --> 00:05:54:23] Se eu tenho uma empresa muito grande, uma empresa que fatura milhões, por exemplo,
+[00:05:55:04 --> 00:05:58:27] eu não vou querer contratar o de R$500 mil, porque eu sei que ele não vai entregar
+[00:05:58:27 --> 00:06:00:06] a mesma coisa do de R$30 mil.
+[00:06:00:06 --> 00:06:04:18] Pelo menos a minha expectativa é que ele não vai, então a gente precisa lembrar desse
+[00:06:04:18 --> 00:06:05:05] fator.
+[00:06:05:10 --> 00:06:05:16] Beleza?
+[00:06:05:17 --> 00:06:08:13] Então essa é a primeira premissa que a gente tem que levar em consideração.
+[00:06:08:23 --> 00:06:13:16] Preço não é sobre demanda, não é o seu cliente que te precifica, é isso que tem
+[00:06:13:16 --> 00:06:14:06] que ficar claro.
+[00:06:15:02 --> 00:06:20:07] Quem que dá o seu preço é você, pelo valor que você gera e pela sua estrutura
+[00:06:20:07 --> 00:06:20:21] de custo.
+[00:06:20:22 --> 00:06:24:28] Você tem que ser capaz de suprir a expectativa que o seu preço constrói na cabeça das
+[00:06:24:28 --> 00:06:25:08] pessoas.
+[00:06:25:19 --> 00:06:28:17] Portanto, preço é sobre posicionamento.
+[00:06:28:17 --> 00:06:31:19] É uma mensagem que você passa e atrai um determinado público.
+[00:06:32:06 --> 00:06:33:27] Não existe preço justo.
+[00:06:34:02 --> 00:06:35:21] O que existe é preço adequado.
+[00:06:35:26 --> 00:06:37:12] Por que não existe preço justo?
+[00:06:38:01 --> 00:06:39:20] O preço justo é sempre o mínimo.
+[00:06:39:27 --> 00:06:44:09] Se você parar para pensar, preço justo para o cliente é sempre o menor preço possível.
+[00:06:44:17 --> 00:06:47:18] E o preço justo para você é sempre o maior preço possível.
+[00:06:48:03 --> 00:06:50:04] Então muita gente vai tentar encontrar uma média.
+[00:06:50:16 --> 00:06:52:08] Ah, meu cliente quer mil, eu quero dez mil.
+[00:06:52:13 --> 00:06:53:15] Bora de cinco mil então.
+[00:06:53:26 --> 00:06:56:27] Mas não é assim que as coisas funcionam em uma negociação.
+[00:06:56:27 --> 00:06:59:05] Você precisa saber o valor que você tem.
+[00:06:59:15 --> 00:07:03:08] E o cliente também quer investir sabendo que ele vai ter retorno.
+[00:07:03:25 --> 00:07:07:01] E outro ponto muito importante que a gente coloca aqui na equação
+[00:07:07:01 --> 00:07:12:15] é que nós vendemos um tipo de serviço que tem valores muito subjetivos.
+[00:07:13:00 --> 00:07:15:20] É sempre bom a gente dividir preço de valor, tá?
+[00:07:15:21 --> 00:07:17:22] Preço é o que seu cliente te paga.
+[00:07:18:03 --> 00:07:21:03] Valor é o que você oferece para o seu cliente, tá?
+[00:07:21:04 --> 00:07:23:02] Então, são valores muito subjetivos.
+[00:07:23:03 --> 00:07:23:29] O que eu quero dizer com isso?
+[00:07:23:29 --> 00:07:28:01] Às vezes, um cliente vai te pagar mais para você ajudar ele a ter clareza do negócio
+[00:07:28:01 --> 00:07:29:28] dele do que para criar um logotipo.
+[00:07:30:02 --> 00:07:35:04] Isso tem um valor diferente, só que as pessoas tendem a confundir muito as coisas.
+[00:07:35:18 --> 00:07:38:10] E aí é o nosso papel clarear isso na cabeça delas.
+[00:07:38:15 --> 00:07:43:16] Se você vai vender um projeto de design de identidade de marcas por R$20.000 e o seu
+[00:07:43:16 --> 00:07:48:04] cliente está esperando que vai comprar apenas um logotipo, um desenho para ele colocar
+[00:07:48:04 --> 00:07:53:28] na faixada dele, quando ele ouvir R$20.000, ele vai estranhar por que um logo custa R$20.000.
+[00:07:53:28 --> 00:07:57:13] Você tem que especificar isso melhor para ele se a expectativa dele está errada.
+[00:07:57:18 --> 00:08:01:22] Então, a todo momento, quando nós falamos de preço, nós estamos falando de expectativa.
+[00:08:01:28 --> 00:08:04:25] E a expectativa pode variar consideravelmente.
+[00:08:05:16 --> 00:08:09:28] Inclusive, se você oferece um preço errado, pode ser que seu cliente cria uma expectativa
+[00:08:09:28 --> 00:08:11:15] diferente e não queira contratar você.
+[00:08:11:22 --> 00:08:13:26] Eu já perdi projeto porque estava barato demais.
+[00:08:13:28 --> 00:08:14:24] Você acredita nisso?
+[00:08:15:04 --> 00:08:19:03] O cliente escolheu outro projeto mais caro porque sentiu que iria entregar...
+[00:08:19:03 --> 00:08:22:00] Que aquela outra pessoa iria entregar o que eu não iria.
+[00:08:22:00 --> 00:08:27:00] Então, ele já estava preparado para um investimento maior, só que eu não tinha percebido.
+[00:08:27:06 --> 00:08:31:29] E eu vou mostrar para vocês que gerir expectativa é se certificar de que você e seu cliente
+[00:08:31:29 --> 00:08:37:09] estão na mesma página, de que vocês compreenderam a situação, compreenderam o problema, compreenderam
+[00:08:37:09 --> 00:08:41:20] as implicações que esse problema pode gerar e compreenderam qual que é a necessidade
+[00:08:41:20 --> 00:08:42:20] que esse cliente tem.
+[00:08:42:21 --> 00:08:46:06] Tem que estar claro isso para os dois, na mesma página, antes de sair falando
+[00:08:46:06 --> 00:08:47:07] de preço, tá?
+[00:08:47:21 --> 00:08:51:05] Mas você também tem que ter clareza do seu preço antes de falar com o cliente.
+[00:08:51:05 --> 00:08:56:08] Você tem que estar convicto ou convicta disso de quanto o seu serviço vale
+[00:08:56:08 --> 00:08:59:16] e de quanto você está disposto ou disposta a negociar.
+[00:08:59:19 --> 00:09:02:25] Por isso que preço não é uma questão de justiça,
+[00:09:02:28 --> 00:09:05:24] mas uma questão de posicionamento e adequação.
+[00:09:05:26 --> 00:09:08:04] Quando eu falo que existe um preço adequado,
+[00:09:08:11 --> 00:09:11:24] é você pensar em um preço que faz sentido para a proposta de valor
+[00:09:11:24 --> 00:09:13:28] que você está oferecendo para o seu cliente.
+[00:09:14:05 --> 00:09:17:10] Não dá para falar que um projeto de design de R$1 milhão é caro.
+[00:09:17:13 --> 00:09:18:27] Isso depende da proposta de valor.
+[00:09:18:27 --> 00:09:23:28] Um projeto de designer de R$500 pode ser caro, dependendo do que esse designer entrega.
+[00:09:24:05 --> 00:09:27:10] Então, caro é aquilo que não supre o valor.
+[00:09:27:22 --> 00:09:30:29] Pensa sempre nisso. O que é caro? Você tem preço e valor.
+[00:09:31:09 --> 00:09:35:05] Se o preço está muito alto e o valor está muito baixo, isso é caro.
+[00:09:35:15 --> 00:09:39:09] Se o preço está baixo e o valor está muito alto, isso é barato.
+[00:09:39:21 --> 00:09:43:13] Se o preço está alto, mas o valor está mais alto ainda, isso continua sendo...
+[00:09:44:25 --> 00:09:45:12] Beleza?
+[00:09:45:19 --> 00:09:46:25] É importante deixar isso claro.
+[00:09:47:24 --> 00:09:49:25] E aí nós vamos para a primeira equação aqui,
+[00:09:50:03 --> 00:09:52:22] que é uma equação para poder te ajudar a pensar mais
+[00:09:52:22 --> 00:09:54:20] sobre como construir o seu próprio preço.
+[00:09:54:29 --> 00:09:56:27] Só que antes de eu te mostrar essa equação,
+[00:09:57:06 --> 00:10:00:07] eu tenho que deixar claro que ela é uma equação mais subjetiva,
+[00:10:00:16 --> 00:10:02:02] ela é uma equação mais...
+[00:10:02:29 --> 00:10:05:23] mas teórica, é mais para te ajudar a pensar
+[00:10:05:23 --> 00:10:08:08] em como medir o seu valor
+[00:10:08:08 --> 00:10:12:02] além ali de um simples preço justo, porque
+[00:10:12:18 --> 00:10:14:29] se você tentar correr atrás do preço justo, você vai
+[00:10:14:29 --> 00:10:17:11] tender a equiparar o seu preço com os seus concorrentes.
+[00:10:17:12 --> 00:10:18:23] Isso é um grande vacilo porque
+[00:10:18:23 --> 00:10:20:19] você não quer ser igual aos seus concorrentes,
+[00:10:20:19 --> 00:10:22:15] você quer oferecer algo único e diferente.
+[00:10:23:11 --> 00:10:25:00] Pelo menos na estratégia que a maioria
+[00:10:25:00 --> 00:10:26:02] vai querer seguir.
+[00:10:26:11 --> 00:10:28:29] Tem sempre a estratégia de querer ser igual a todo mundo
+[00:10:28:29 --> 00:10:30:21] e está tudo bem, você vai fazer essa escolha.
+[00:10:31:07 --> 00:10:32:12] Mas qual que é essa equação?
+[00:10:32:12 --> 00:10:41:00] P igual a O menos R. Preço é igual a oportunidade menos risco. Vamos entender um pouquinho
+[00:10:41:00 --> 00:10:46:24] melhor o que é oportunidade e o que é risco. Começando aqui com oportunidade. Oportunidade
+[00:10:46:24 --> 00:10:54:02] representa o potencial de ganho ou benefício que uma empresa pode obter ao fixar um certo
+[00:10:54:02 --> 00:10:59:25] preço. Então, o que é oportunidade? Oportunidade é, existe um benefício grande
+[00:10:59:25 --> 00:11:03:29] para o meu cliente e ele tem diante dele a escolha de agarrar esse benefício.
+[00:11:04:00 --> 00:11:05:11] Isso é uma oportunidade para ele.
+[00:11:05:21 --> 00:11:09:14] Incluir fatores como demanda de mercado, o valor percebido pelo consumidor
+[00:11:09:14 --> 00:11:11:24] e o posicionamento competitivo.
+[00:11:11:27 --> 00:11:15:04] Então, o seu cliente vai enxergar a oportunidade no que eu já falei aqui,
+[00:11:15:04 --> 00:11:15:21] que é o valor.
+[00:11:15:23 --> 00:11:17:18] Se você tem uma boa proposta de valor,
+[00:11:18:03 --> 00:11:20:15] ela vai mostrar para o seu cliente que existe ali uma oportunidade.
+[00:11:20:16 --> 00:11:23:17] Você está ajudando ele a resolver algum tipo de problema,
+[00:11:23:21 --> 00:11:26:23] seja uma demanda abrangente ou uma demanda específica.
+[00:11:26:29 --> 00:11:28:17] E o que é risco?
+[00:11:28:17 --> 00:11:30:00] Vamos entender o que é risco aqui.
+[00:11:30:13 --> 00:11:34:24] Refere-se aos perigos ou incertezas associados ao serviço ou produto.
+[00:11:35:03 --> 00:11:36:14] Então, quando a gente fala aqui...
+[00:11:36:14 --> 00:11:37:00] Eu tô...
+[00:11:37:00 --> 00:11:38:23] É a Camila que fala que é o Jechti, né?
+[00:11:38:23 --> 00:11:40:14] Nem terminou de ler e já saiu da tela.
+[00:11:41:03 --> 00:11:43:14] Mas o que eu tô querendo conectar aqui com vocês?
+[00:11:43:18 --> 00:11:46:05] Existe uma proposta de valor, existe algo que o seu cliente ganhe,
+[00:11:46:06 --> 00:11:47:21] isso é uma oportunidade para ele.
+[00:11:47:29 --> 00:11:51:04] E existe um risco dele para topar essa oportunidade.
+[00:11:51:13 --> 00:11:54:17] Qual que é o raciocínio que a gente precisa ter aqui na hora de precificar, tá?
+[00:11:54:17 --> 00:11:59:14] Se é a oportunidade, vamos colocar um número aqui hipotético só para a gente visualizar
+[00:11:59:14 --> 00:12:00:08] isso matematicamente.
+[00:12:00:17 --> 00:12:04:17] Se a oportunidade vale 10, mas o risco é nível 100.
+[00:12:05:22 --> 00:12:08:18] Nós temos, então, um preço que é menos 90 de valor.
+[00:12:09:04 --> 00:12:13:19] Então, essa não é uma oportunidade boa para o cliente, porque o tanto que ele vai ganhar
+[00:12:13:19 --> 00:12:16:26] não compensa o tanto que ele pode perder.
+[00:12:17:15 --> 00:12:20:22] Então, a gente tem uma simetria de ganhos negativa para ele.
+[00:12:21:03 --> 00:12:26:03] O que você precisa mostrar para o seu cliente é uma simetria de ganhos positiva.
+[00:12:26:15 --> 00:12:30:21] Então, se você quer que o seu cliente perceba o seu preço como barato,
+[00:12:31:05 --> 00:12:34:00] isso não tem a ver com o número que você mostra para ele.
+[00:12:34:00 --> 00:12:39:00] Presta atenção nisso. Se você quer que o seu cliente perceba o seu preço como barato,
+[00:12:39:18 --> 00:12:46:27] isso não tem relação com o número que você mostra para ele. Isso tem relação?
+[00:12:48:09 --> 00:12:51:28] quanto você consegue aumentar a percepção de oportunidade para ele
+[00:12:51:28 --> 00:12:56:27] e o quanto que você consegue diminuir a percepção de risco para ele.
+[00:12:57:22 --> 00:12:58:28] Vou te dar um exemplo simples.
+[00:13:00:03 --> 00:13:03:01] 49 mil reais por um livro.
+[00:13:03:12 --> 00:13:04:08] É barato ou é caro?
+[00:13:05:13 --> 00:13:07:09] a maioria das pessoas vai dizer que é.
+[00:13:08:25 --> 00:13:12:28] Porque primeiro nós vamos tender a ancorar. Então, um livro custa R$ 50,00.
+[00:13:13:02 --> 00:13:15:12] Por que eu vou pagar R$ 50 mil num livro?
+[00:13:16:14 --> 00:13:19:20] Agora, vamos supor que esse livro...
+[00:13:20:20 --> 00:13:24:26] Eu te garanto que, com esse livro, você vai ter as informações.
+[00:13:26:14 --> 00:13:33:20] como conseguir, sei lá, os melhores imóveis no Brasil por um preço inacreditável.
+[00:13:33:24 --> 00:13:39:06] Por exemplo, você vai conseguir um imóvel que só o imóvel custa R$80 mil, mas era
+[00:13:39:06 --> 00:13:40:04] para ele custar R$500 mil.
+[00:13:40:13 --> 00:13:41:28] Estou dando um exemplo aqui de número, tá?
+[00:13:41:28 --> 00:13:43:01] Que fica mais fácil a gente calcular.
+[00:13:44:02 --> 00:13:46:13] Cara, esse livro já começou a ficar mais valioso.
+[00:13:46:24 --> 00:13:48:14] Ele vai me mostrar como encontrar.
+[00:13:48:16 --> 00:13:49:14] E ele garante, né?
+[00:13:49:17 --> 00:13:51:25] A garantia aqui diminuiu o risco.
+[00:13:51:29 --> 00:13:54:12] Isso faz a oferta ficar mais atrativa.
+[00:13:54:12 --> 00:13:55:16] Então ele garante.
+[00:13:56:20 --> 00:13:59:26] que você vai ter as melhores oportunidades de imóveis lá para comprar a sua casa.
+[00:14:00:19 --> 00:14:03:01] E uma das oportunidades que eu já posso adiantar para você
+[00:14:03:13 --> 00:14:05:03] é um apartamento...
+[00:14:06:06 --> 00:14:08:15] Se você, sem o conhecimento que tem nesse livro,
+[00:14:08:24 --> 00:14:11:05] você pagaria R$500 mil nesse apartamento,
+[00:14:11:15 --> 00:14:12:21] mas com o conhecimento que tem lá,
+[00:14:13:01 --> 00:14:15:29] você consegue pagar R$80 mil nesse apartamento.
+[00:14:16:04 --> 00:14:17:19] Chega a ser até bom demais para ser verdade,
+[00:14:17:24 --> 00:14:20:04] parece até mentira, mas eu te garanto, senão
+[00:14:20:04 --> 00:14:22:00] eu deixo você ler o livro e devolvo o seu dinheiro.
+[00:14:22:10 --> 00:14:22:28] Vamos supor que é isso.
+[00:14:23:00 --> 00:14:26:00] Ou então eu só te pago depois que você ler o livro
+[00:14:26:00 --> 00:14:27:01] e aprendi o que está lá.
+[00:14:27:03 --> 00:14:31:01] Caraca, olha agora como que eu diminui o risco
+[00:14:31:01 --> 00:14:34:00] desse preço e aumentei a oportunidade para você.
+[00:14:34:00 --> 00:14:39:23] Olha só como é que já ficou muito mais interessante, isso é com qualquer coisa no
+[00:14:39:23 --> 00:14:40:13] mercado.
+[00:14:41:03 --> 00:14:45:29] Quando a gente fala principalmente de serviço, porque o jogo de produto é bem diferente,
+[00:14:46:14 --> 00:14:50:24] depende de escala, depende de produção, principalmente se for produto físico, que
+[00:14:50:24 --> 00:14:56:13] aí tem estoque, logística, tem muitas considerações e muita concorrência, é um tipo de estratégia
+[00:14:56:13 --> 00:14:56:27] diferente.
+[00:14:57:07 --> 00:15:01:24] Agora, quando nós estamos falando de serviço, que geralmente é uma transformação,
+[00:15:01:24 --> 00:15:06:00] um tipo de resultado que você gera, no caso aqui do design, do marketing, ou do branding,
+[00:15:06:11 --> 00:15:12:26] nós estamos falando de um serviço que gera um valor que é difícil de mensurar.
+[00:15:13:12 --> 00:15:18:09] É nesse ponto, nesse cenário, que essa mentalidade aqui faz todo sentido, tá?
+[00:15:18:21 --> 00:15:23:09] Então, quando eu mostro aqui para vocês que P é igual a O menos R,
+[00:15:23:19 --> 00:15:26:22] isso é mais sobre a mentalidade que você precisa ter, o primeiro passo.
+[00:15:26:24 --> 00:15:28:24] A gente nem está falando de números.
+[00:15:28:24 --> 00:15:34:12] Quer que o seu cliente veja o seu preço como um preço barato, aumente a oportunidade e
+[00:15:34:12 --> 00:15:37:03] diminua o risco o máximo que você puder.
+[00:15:37:06 --> 00:15:41:07] Se você conseguir diminuir o risco e aumentar muita oportunidade, ele vai ficar com muita
+[00:15:41:07 --> 00:15:47:06] vontade de investir em você, porque aquilo apresenta para ele uma simetria positiva.
+[00:15:47:13 --> 00:15:51:17] Inclusive, se vocês quiserem ir para um lado mais técnico, eu aprendi isso num livro
+[00:15:51:17 --> 00:15:57:25] que se chama Antifragem do Taleb, Nassim Taleb, e lá ele fala sobre as simetrias
+[00:15:57:25 --> 00:16:01:19] positivas e negativas, que são as oportunidades de fato, né?
+[00:16:01:22 --> 00:16:05:15] Uma simetria negativa é aquela que você tem muito mais chance de perder do que ganhar.
+[00:16:05:24 --> 00:16:09:24] Uma simetria positiva é uma que você tem muito mais chance de ganhar do que perder.
+[00:16:09:27 --> 00:16:15:28] Mas vocês notaram que eu coloquei aqui embaixo, versão simplificada de precificação.
+[00:16:16:16 --> 00:16:18:28] Eu coloquei isso porque isso aqui não resolve a precificação.
+[00:16:19:01 --> 00:16:21:22] Existem várias estratégias diferentes de precificação,
+[00:16:22:00 --> 00:16:27:00] e como eu falo desde o início, o objetivo desse curso aqui é te ajudar, te ensinar a pensar
+[00:16:27:00 --> 00:16:30:22] como uma pessoa que faz a gestão de um negócio.
+[00:16:31:09 --> 00:16:35:09] Nós não estamos preocupados com um único serviço que você vai conseguir na semana que vem.
+[00:16:35:22 --> 00:16:39:19] Nós estamos preocupados em construir um negócio sustentável e até previsível,
+[00:16:39:27 --> 00:16:41:06] que vai te dar tranquilidade.
+[00:16:41:19 --> 00:16:44:05] Então, nós temos que pensar um pouco mais além disso.
+[00:16:44:13 --> 00:16:48:13] Nós precisamos pensar em outros tipos de estratégias que existem
+[00:16:48:13 --> 00:16:52:19] e nós precisamos analisar outros fatores, além de simplesmente oportunidade e risco.
+[00:16:53:06 --> 00:16:56:15] Essa matriz aqui é muito boa para entender a mentalidade,
+[00:16:56:15 --> 00:17:01:18] a psicologia por trás do preço, tá? Mas na prática, olha só o que eu coloquei aqui embaixo,
+[00:17:01:22 --> 00:17:06:21] a precificação é influenciada por uma série de outros fatores complexos e interrelacionados,
+[00:17:07:01 --> 00:17:12:29] incluindo custos, estratégia de marketing, posicionamento de marca, condições econômicas,
+[00:17:13:22 --> 00:17:19:07] regulamentações e muito mais. Então, existem uma série de variáveis que você pode analisar
+[00:17:19:07 --> 00:17:23:15] para conseguir alcançar cirurgicamente o preço perfeito. Eu já falo para vocês,
+[00:17:23:15 --> 00:17:28:16] O preço perfeito é um mito que a gente não precisa buscar,
+[00:17:29:05 --> 00:17:30:28] até porque eu vou falar isso mais tarde de novo,
+[00:17:31:02 --> 00:17:34:18] preço não é algo que você encontra, que você acha.
+[00:17:35:01 --> 00:17:37:25] Preço é algo que você constrói.
+[00:17:38:09 --> 00:17:40:19] Às vezes o momento que o seu negócio está
+[00:17:40:19 --> 00:17:43:16] te permite um tipo de precificação diferente.
+[00:17:43:25 --> 00:17:46:00] Posso dar um exemplo aqui da escola.
+[00:17:46:06 --> 00:17:47:16] Vocês vão ver essa mudança, né?
+[00:17:47:16 --> 00:17:49:21] Vocês que estão assistindo ao vivo, quem está assistindo gravado,
+[00:17:49:25 --> 00:17:51:00] já vai viver essa mudança.
+[00:17:51:00 --> 00:17:55:29] mas o primeiro momento da Overlens foi o melhor momento para poder participar da Overlens.
+[00:17:56:12 --> 00:17:59:25] Tiveram alunos que pagaram R$ 300,00 na assinatura vitalícia.
+[00:18:00:02 --> 00:18:04:13] Isso lá em 2020, nem existia Overlens, mas foi um compromisso que eu fiz.
+[00:18:04:26 --> 00:18:09:13] Os primeiros alunos dessa primeira turma, vocês vão ter a oportunidade de me acompanhar.
+[00:18:10:22 --> 00:18:16:07] tempo que existir essa empresa, essa escola, vocês vão ter a oportunidade de assistir
+[00:18:16:07 --> 00:18:17:04] de maneira vitalícia.
+[00:18:17:12 --> 00:18:21:14] Eu dei isso de presente para eles, eles pagaram R$300 naquela época, eu prometi isso para
+[00:18:21:14 --> 00:18:23:04] eles e até hoje eles têm acesso vitalício.
+[00:18:23:09 --> 00:18:25:01] Muita gente assiste, isso é maravilhoso.
+[00:18:25:09 --> 00:18:30:15] O tempo foi passando e a oferta foi mudando até chegar no ponto que algumas pessoas
+[00:18:30:15 --> 00:18:32:21] já pagaram R$2.000 nessa oferta.
+[00:18:33:21 --> 00:18:37:24] Esses R$2.000 que essas pessoas estão pagando é para uma oportunidade diferente
+[00:18:37:24 --> 00:18:40:05] que elas viveram no tempo delas.
+[00:18:40:08 --> 00:18:42:00] E o tempo da Overlens também.
+[00:18:42:24 --> 00:18:46:19] O período de 2020, 2022 e 2023,
+[00:18:47:02 --> 00:18:50:01] foram os anos que eu vendi por R$2.000 a assinatura,
+[00:18:50:08 --> 00:18:53:08] foram momentos em que eu abria poucas turmas
+[00:18:53:08 --> 00:18:57:03] e além de abrir poucas turmas, eram turmas pequenas para poucas pessoas.
+[00:18:57:09 --> 00:19:00:19] E eu dei a oportunidade dessas pessoas terem um contato direto comigo.
+[00:19:00:22 --> 00:19:03:01] Então a oferta para elas também foi diferente.
+[00:19:03:17 --> 00:19:07:11] Agora, o Verlan está passando por uma nova transição
+[00:19:08:11 --> 00:19:11:03] e em alguns meses, para quem está assistindo aqui ao vivo,
+[00:19:11:05 --> 00:19:14:02] talvez você está assistindo gravado, você já vai pegar essa mudança,
+[00:19:14:06 --> 00:19:18:06] vocês vão ver que a assinatura anual vai estar em média de R$1.200,
+[00:19:18:15 --> 00:19:19:25] não vai estar mais dos R$2.000,
+[00:19:20:00 --> 00:19:22:18] porque nós já vamos estar em uma outra estratégia
+[00:19:22:18 --> 00:19:25:08] querendo ganhar mais mercado.
+[00:19:25:24 --> 00:19:27:21] E aí, é isso que eu vou falar aqui com vocês,
+[00:19:27:21 --> 00:19:30:11] eu vou apresentar algumas estratégias de precificação
+[00:19:30:11 --> 00:19:36:11] Eu quero que você entenda que não tem certo e errado, tem adequado e inadequado para o
+[00:19:36:11 --> 00:19:38:29] seu contexto, para o seu negócio e para os seus objetivos.
+[00:19:39:05 --> 00:19:43:05] Você precisa entender para que direção você quer ir, e aí sim escolher a melhor
+[00:19:43:05 --> 00:19:44:26] estratégia de precificação para você.
+[00:19:45:07 --> 00:19:45:21] Beleza?
+[00:19:46:00 --> 00:19:46:15] Então vamos lá.
+[00:19:46:18 --> 00:19:51:14] Vamos falar aqui agora sobre as estratégias de precificação.
+[00:19:52:04 --> 00:19:56:06] Começando pela mais básica, que a maioria das pessoas utiliza, que é a precificação
+[00:19:56:06 --> 00:19:58:08] baseada em custo.
+[00:19:58:08 --> 00:20:01:08] A precificação baseada em custo funciona da seguinte maneira.
+[00:20:01:10 --> 00:20:04:05] Você faz a sua estrutura de custo, igual eu te ensinei na última aula,
+[00:20:04:17 --> 00:20:08:11] define custo fixo, custo variável, entende ali qual que é o seu custo hora
+[00:20:08:11 --> 00:20:11:06] e depois você coloca o que a gente chama de margem.
+[00:20:11:12 --> 00:20:13:25] A margem é o lucro que você tem no final.
+[00:20:14:03 --> 00:20:17:20] Esse lucro serve para você criar uma reserva para os meses que são difíceis.
+[00:20:17:24 --> 00:20:19:02] Isso é uma estratégia.
+[00:20:19:04 --> 00:20:21:24] E é uma estratégia que inclusive funciona para muitas pessoas.
+[00:20:22:03 --> 00:20:25:03] Você define um custo hora, depois define um preço hora
+[00:20:25:03 --> 00:20:28:03] e precifica os seus projetos com base na sua hora.
+[00:20:28:19 --> 00:20:30:28] Pode funcionar dependendo do seu modelo de negócio.
+[00:20:31:02 --> 00:20:35:11] E quais são as vantagens e desvantagens da precificação baseada em custo?
+[00:20:35:16 --> 00:20:38:08] A vantagem é que é mais simples de executar,
+[00:20:38:14 --> 00:20:41:27] você define quanto você gasta para o seu negócio acontecer,
+[00:20:42:09 --> 00:20:44:18] coloca ali uma margem de 50% ou 100%,
+[00:20:44:18 --> 00:20:48:02] encontra seu preço-hora e começa a precificar por isso.
+[00:20:48:04 --> 00:20:51:23] Você vai fazendo uma média e com o tempo você consegue chegar em um equilíbrio.
+[00:20:51:23 --> 00:20:57:28] Eu gasto uma semana para poder fazer um logotipo, calculo ali, gasto sei lá, 40 horas para
+[00:20:57:28 --> 00:21:01:12] fazer um logotipo, calculo ali, beleza, você tem um preço tabelado.
+[00:21:01:14 --> 00:21:07:02] Só que eu acredito, e aí vem uma desvantagem, que isso é jogar um potencial fora.
+[00:21:07:23 --> 00:21:12:18] É muito bom cobrar por hora quando você tem um serviço muito técnico.
+[00:21:12:27 --> 00:21:17:02] Não é um serviço de pensar, não é um serviço de propriedade intelectual, talvez
+[00:21:17:02 --> 00:21:20:20] eu poderia dizer, não é um serviço estratégico focado em ter um resultado
+[00:21:20:20 --> 00:21:21:29] proporcional direto.
+[00:21:22:08 --> 00:21:25:24] Tem algumas áreas do design que são muito técnicas, por exemplo, editar um vídeo.
+[00:21:26:08 --> 00:21:29:18] Editar um vídeo talvez seja um tipo de precificação legal
+[00:21:29:18 --> 00:21:31:05] a precificação baseada em custo.
+[00:21:31:09 --> 00:21:33:21] Você define ali quanto tempo você gasta para editar um vídeo
+[00:21:33:21 --> 00:21:34:23] e calcula o seu preço.
+[00:21:35:13 --> 00:21:36:24] Funciona e está tudo bem.
+[00:21:37:04 --> 00:21:39:14] O que a gente precisa entender, como eu disse, é o contexto.
+[00:21:39:27 --> 00:21:41:16] Em serviços mais estratégicos,
+[00:21:41:18 --> 00:21:45:05] serviços que estão um pouco mais relacionados com o resultado direto
+[00:21:45:05 --> 00:21:47:11] que aquele cliente vai ter com o serviço,
+[00:21:47:18 --> 00:21:50:09] eu não recomendo cobrar com base na hora.
+[00:21:50:20 --> 00:21:53:00] Até porque, quanto melhor você fica naquilo...
+[00:21:54:00 --> 00:21:59:23] menos você ganha ou então você vai ter que mentir que você gastou a horas que você não gastou.
+[00:21:59:28 --> 00:22:05:01] Então, eu não gosto muito desse modelo, apesar de que eu entendo que em alguns cenários ele faz sentido sim, tá?
+[00:22:05:01 --> 00:22:08:18] Então, essa é a precificação baseada em custo.
+[00:22:08:24 --> 00:22:12:02] Nós temos também a precificação baseada na concorrência.
+[00:22:12:28 --> 00:22:17:11] Eu acho sim interessante você analisar sua concorrência, é sempre bom fazer isso,
+[00:22:17:17 --> 00:22:22:18] mas é importante tomar cuidado também, porque geralmente se você baseia
+[00:22:22:18 --> 00:22:27:26] o seu preço na concorrência, talvez você vai estar julgando o palco do outro com os seus bastidores.
+[00:22:28:00 --> 00:22:32:04] Ou seja, você não sabe o que aquela pessoa faz para conseguir ter aquele preço.
+[00:22:32:25 --> 00:22:36:22] Você não sabe, sei lá, nem se você cobra alto demais ou barato demais.
+[00:22:36:24 --> 00:22:40:14] Vamos supor que você cobra 10 mil, mas a maioria dos seus concorrentes cobram 20 mil.
+[00:22:40:20 --> 00:22:43:04] Se você vai analisar por que eles estão cobrando 20 mil,
+[00:22:43:13 --> 00:22:44:23] você tem que analisar além do preço.
+[00:22:44:26 --> 00:22:47:11] Você tem que analisar o que eles estão entregando para o cliente.
+[00:22:47:15 --> 00:22:49:25] Qual é a expectativa que eles constroem na cabeça do cliente.
+[00:22:49:25 --> 00:22:52:26] Porque não adianta nada você aumentar o seu preço, vai mostrar isso para o cliente
+[00:22:52:26 --> 00:22:55:15] e o cliente não quer, porque você construiu a expectativa errada com ele.
+[00:22:55:18 --> 00:22:59:00] Ele não espera que você vai ser capaz de entregar aquele tipo de resultado.
+[00:22:59:12 --> 00:23:03:18] Então, você precisa analisar além do preço se você vai se balizar com a concorrência.
+[00:23:03:28 --> 00:23:06:27] Mas ainda assim é uma estratégia que pode fazer sentido, acredita?
+[00:23:07:12 --> 00:23:12:03] Se você tem um concorrente que está puxando para ele todos os seus potenciais clientes,
+[00:23:12:06 --> 00:23:16:03] você tem uma competição muito grande por isso,
+[00:23:16:15 --> 00:23:18:14] é legal você prestar atenção nesse fator.
+[00:23:18:14 --> 00:23:23:13] Às vezes, você não precisa ajustar o seu preço, mas você pode ajustar o seu valor.
+[00:23:23:20 --> 00:23:27:08] Tentar encontrar um diferencial para chamar a atenção dos clientes e fazer eles quererem
+[00:23:27:08 --> 00:23:29:05] você ao invés do seu concorrente.
+[00:23:29:15 --> 00:23:35:14] Mas ainda assim, você não vai colocar um preço muito longe dele se você sabe que
+[00:23:35:14 --> 00:23:38:29] o seu cliente já tem uma expectativa formada sobre aquele cenário.
+[00:23:39:14 --> 00:23:44:18] Porque se você coloca um preço muito distante da concorrência em um mercado
+[00:23:44:18 --> 00:23:49:28] mais acirrado, em uma disputa mais acirrada, você acaba perdendo o seu cliente, já aconteceu
+[00:23:49:28 --> 00:23:50:18] comigo também.
+[00:23:51:07 --> 00:23:53:18] E você pode pensar de duas maneiras aqui, tá?
+[00:23:53:26 --> 00:23:58:05] Eu já pensei tanto da maneira que, poxa, tá tudo bem, não era o momento dele ou
+[00:23:58:05 --> 00:24:01:20] ele não é meu cliente ideal, não é meu perfil de cliente ideal e tá tudo bem,
+[00:24:01:21 --> 00:24:02:29] ele escolheu outra pessoa.
+[00:24:03:08 --> 00:24:07:00] Mas em outros momentos eu também já senti, cara, era o cliente perfeito, eu perdi,
+[00:24:07:05 --> 00:24:08:25] ele escolheu outra pessoa por preço.
+[00:24:08:29 --> 00:24:11:20] E às vezes essa pessoa vai conseguir entregar um excelente trabalho também.
+[00:24:11:20 --> 00:24:16:03] O terceiro tipo de precificação é a precificação baseada em promoção.
+[00:24:16:16 --> 00:24:18:24] Essa aqui é uma precificação bem curiosa.
+[00:24:19:01 --> 00:24:24:02] Durante muito tempo eu critiquei muito esse tipo de precificação, que é aquela...
+[00:24:24:02 --> 00:24:26:15] Eu coloco um preço mais alto para poder fazer promoção.
+[00:24:26:29 --> 00:24:32:19] Só que também existem contextos em que esse tipo de precificação faz sentido.
+[00:24:32:28 --> 00:24:34:02] Um exemplo é a Black Friday.
+[00:24:34:09 --> 00:24:40:01] A Black Friday é uma excelente oportunidade porque as pessoas já estão buscando por
+[00:24:40:01 --> 00:24:40:18] promoção.
+[00:24:42:00 --> 00:24:45:24] Então, preste atenção nisso, as pessoas estão buscando por promoção.
+[00:24:46:12 --> 00:24:50:21] Se você entrega o que elas estão buscando, ela vai prestar atenção em você.
+[00:24:51:27 --> 00:24:55:07] Então, se você fala, olha, a gente está na Black Friday, é um momento bom, e eu também
+[00:24:55:07 --> 00:24:56:04] criei a minha oferta.
+[00:24:56:17 --> 00:24:57:20] E aí, o que é legal?
+[00:24:57:26 --> 00:25:01:07] Sempre que você vai abaixar o seu preço para uma promoção, você tem que entender
+[00:25:01:07 --> 00:25:02:06] que isso é uma negociação.
+[00:25:02:07 --> 00:25:03:15] Pensa numa balança, tá?
+[00:25:03:25 --> 00:25:10:22] Se eu tiro um pouco de peso do preço, o valor vai pesar mais, né?
+[00:25:10:27 --> 00:25:13:17] Pensa que tem dois pesos na balança, preço e valor.
+[00:25:13:26 --> 00:25:18:22] Se eu tiro um pouco de peso do preço, o valor vai pesar mais, saiu de equilíbrio.
+[00:25:18:22 --> 00:25:25:01] Então, o que eu gosto de fazer? Tirar um pouco do valor e aí eu equilibro. É igual
+[00:25:25:01 --> 00:25:29:24] quando você vai comprar uma barra de chocolate, né? E aí tem a barra lá que custa R$5,00.
+[00:25:29:24 --> 00:25:32:29] Só que eles não querem aumentar o preço da barra, eles não querem fazer a barra
+[00:25:32:29 --> 00:25:37:01] ir para R$7,00 ou R$10,00. Então, o que eles fazem? Diminuem a barra para manter aquele
+[00:25:37:01 --> 00:25:41:19] preço. É uma estratégia parecida, tá? A precificação também é assim. Às vezes,
+[00:25:41:26 --> 00:25:46:01] você está num momento de mercado em que o seu cliente está buscando por promoção
+[00:25:46:01 --> 00:25:47:25] E isso chama a atenção dele.
+[00:25:48:13 --> 00:25:49:05] Então, o que você faz?
+[00:25:49:05 --> 00:25:51:11] Você ajusta a sua oferta.
+[00:25:51:18 --> 00:25:53:05] Você tira um pouco de valor,
+[00:25:53:08 --> 00:25:54:25] você entende qualquer essência aqui.
+[00:25:55:00 --> 00:25:58:14] Eu posso tirar um pouco de estofo dessa oferta?
+[00:25:58:17 --> 00:26:00:11] Eu posso diminuir essa oferta
+[00:26:00:11 --> 00:26:02:25] para ela se encaixar na expectativa que o meu cliente está agora?
+[00:26:03:03 --> 00:26:05:14] Isso é um pouco mais sofisticado, tá?
+[00:26:05:14 --> 00:26:07:11] Mas é uma estratégia que pode sim funcionar.
+[00:26:07:13 --> 00:26:09:12] Eu utilizo ela na escola, por exemplo,
+[00:26:09:16 --> 00:26:12:25] e já utilizei ela também em serviços de design.
+[00:26:13:06 --> 00:26:16:00] Eu só recomendo que se você...
+[00:26:16:00 --> 00:26:20:17] você for fazer isso, você preste bastante atenção no que o seu cliente quer, tem que
+[00:26:20:17 --> 00:26:25:00] estar claro para você essa informação, porque senão no final pode ser só que você
+[00:26:25:00 --> 00:26:31:16] vai vender mais barato e vai se sentir incomodado e vai acabar entregando muito mais, tendo algum
+[00:26:31:16 --> 00:26:32:17] tipo de prejuízo.
+[00:26:32:18 --> 00:26:36:14] Estou te falando porque isso já aconteceu comigo, cobrei mais barato, no meio do
+[00:26:36:14 --> 00:26:40:03] projeto eu tirei coisas que não era para eu ter tirado, eu falei, cara, não dá
+[00:26:40:03 --> 00:26:41:08] para fazer o projeto sem isso.
+[00:26:41:16 --> 00:26:45:09] E não é todo mundo que é assim, mas eu sou um pouco assim, eu gosto de entregar
+[00:26:45:09 --> 00:26:50:03] algo que eu acredito. Então, eu acabei prestando um serviço que eu nem estava sendo pago
+[00:26:50:03 --> 00:26:53:15] para fazer, só para fazer o projeto ficar melhor. Acho que isso é mania de designer,
+[00:26:53:25 --> 00:26:57:07] não é? Então, a gente tem que tomar esse tipo de cuidado também, mas dependendo
+[00:26:57:07 --> 00:27:00:29] do contexto, reforçando, é uma estratégia que pode, sim, ser eficiente.
+[00:27:04:11 --> 00:27:07:17] Agora, a gente entra em um tipo de precificação muito estratégica.
+[00:27:07:25 --> 00:27:10:24] Essa daqui é curiosa e depende do seu modelo de negócio.
+[00:27:11:02 --> 00:27:13:29] Isso aqui pode, inclusive, te fazer conquistar um mercado inteiro.
+[00:27:14:16 --> 00:27:17:04] É a precificação agressiva de entrada.
+[00:27:17:19 --> 00:27:19:14] O que é a precificação agressiva de entrada?
+[00:27:19:27 --> 00:27:22:02] O melhor exemplo que eu posso dar para vocês é a Amazon.
+[00:27:22:20 --> 00:27:25:14] Vocês já pararam para analisar a Amazon Prime?
+[00:27:26:07 --> 00:27:28:07] Aquilo ali é um absurdo de oferta.
+[00:27:28:18 --> 00:27:33:01] Porque você não paga frete, ainda tem acesso a uma rede de streaming,
+[00:27:33:01 --> 00:27:36:05] Aí, uma série de outras vantagens.
+[00:27:36:17 --> 00:27:39:25] E no final, você paga R$9,90.
+[00:27:40:15 --> 00:27:41:18] Nem o frete...
+[00:27:41:18 --> 00:27:43:11] R$9,90 nem o frete é.
+[00:27:43:13 --> 00:27:45:01] Talvez você ia pagar mais caro no frete.
+[00:27:45:02 --> 00:27:47:25] O frete ia custar R$15, R$20, R$25, R$30.
+[00:27:48:23 --> 00:27:51:09] Então só pelo frete já valeria ter Amazon Prime.
+[00:27:51:26 --> 00:27:57:07] Aí você ainda tem acesso ao streaming por R$9,90.
+[00:27:57:28 --> 00:28:00:08] Isso é uma estratégia agressiva de entrada.
+[00:28:00:17 --> 00:28:01:19] O que a Amazon quer fazer?
+[00:28:01:19 --> 00:28:05:16] Ela quer que todo mundo use a Amazon, tanto que eu não sei se com vocês é assim, mas
+[00:28:05:16 --> 00:28:10:14] às vezes a gente cancela a assinatura de outros streaming, mas a da Amazon está lá porque
+[00:28:10:14 --> 00:28:14:06] é tão barato que nem compensa tirar para ter alguma coisa para assistir, eu não sei
+[00:28:14:06 --> 00:28:18:18] se vocês pensam isso, mas eu já vi isso acontecer com várias pessoas, inclusive.
+[00:28:18:22 --> 00:28:22:07] Eu converso e falo, realmente, a Amazon não dá para tirar, cara, é muito barato
+[00:28:22:07 --> 00:28:22:26] para poder tirar.
+[00:28:23:11 --> 00:28:27:26] Eu nem sei se até hoje ainda é R$9,90, talvez aumentou e eu que não sei, está
+[00:28:27:26 --> 00:28:33:05] 15 reais, mas eu lembro que era R$9,90. Talvez ainda seja isso. Essa é uma estratégia
+[00:28:33:05 --> 00:28:37:06] agressiva de entrada. E para que que ela serve? Ela serve para que as pessoas te conheçam.
+[00:28:37:08 --> 00:28:42:25] Às vezes você não é conhecido ou conhecida em algum mercado específico e uma boa estratégia
+[00:28:42:25 --> 00:28:47:19] de entrada é você oferecer um tipo de serviço, um que você seja capaz de oferecer
+[00:28:47:19 --> 00:28:51:16] sem ter prejuízo. Por isso que eu falei aqui do equilíbrio entre preço e valor.
+[00:28:51:21 --> 00:28:55:05] Tira um pouco da oferta para conseguir alcançar esse tipo de equilíbrio, tá?
+[00:28:55:21 --> 00:29:01:28] E aí o que é interessante, você mostra para as pessoas, elas experimentam o seu serviço
+[00:29:01:28 --> 00:29:06:02] e se o seu serviço for bom, se você construir uma boa experiência, elas vão querer continuar
+[00:29:06:02 --> 00:29:06:18] com você.
+[00:29:07:01 --> 00:29:10:16] Um outro nome que eu dou para essa estratégia é a estratégia do cavalo, de Troia.
+[00:29:10:27 --> 00:29:14:02] Às vezes compensa até fazer um serviço gratuito, tá?
+[00:29:14:02 --> 00:29:17:19] Isso tem que ser bem pensado, você tem que analisar para não te dar nenhum prejuízo.
+[00:29:17:23 --> 00:29:21:22] Mas eu já apliquei essa técnica e vários alunos da Overlens também já aplicaram
+[00:29:21:22 --> 00:29:22:20] e tiveram resultado.
+[00:29:22:20 --> 00:29:27:19] Às vezes, você quer conquistar um grande cliente, fazer um primeiro serviço gratuito
+[00:29:27:19 --> 00:29:29:08] para ele pode ser uma porta de entrada.
+[00:29:29:16 --> 00:29:33:29] Não sei se você conhece a história dos gregos, mas eles estavam em guerra com Tróia
+[00:29:33:29 --> 00:29:39:16] por causa da Helena de Tróia, que o Paris roubou da Grécia.
+[00:29:40:14 --> 00:29:44:22] Ela não era Helena de Tróia, ela era Helena da Grécia e virou Helena de Tróia porque
+[00:29:44:22 --> 00:29:46:25] ela fugiu para Tróia.
+[00:29:46:26 --> 00:29:49:29] E aí teve uma guerra entre Grécia e Tróia.
+[00:29:50:13 --> 00:29:54:04] E era uma guerra que durou muito tempo e tal, até que todo mundo estava ficando cansado
+[00:29:54:04 --> 00:29:58:14] e os gregos tiveram uma ideia, eles falaram, vamos pegar a madeira dos navios, construir
+[00:29:58:14 --> 00:30:02:03] um grande cavalo, a gente entra dentro desse cavalo.
+[00:30:03:06 --> 00:30:07:19] Faz todo mundo pensar que a gente foi embora porque os navios sumiram, a gente construiu
+[00:30:07:19 --> 00:30:09:06] com a madeira do navio.
+[00:30:09:15 --> 00:30:14:02] E aí quando eles chegaram lá na praia, os troianos chegaram na praia lá, viram que
+[00:30:14:02 --> 00:30:16:24] não tinha mais navio e viram só um cavalo grande.
+[00:30:16:27 --> 00:30:21:20] Eles acharam que foi um presente dos deuses que mandaram os gregos embora.
+[00:30:22:05 --> 00:30:25:04] Finalmente a guerra acabou, a gente agora pode comemorar.
+[00:30:25:06 --> 00:30:28:11] Então eles pegam esse cavalo e levam para dentro do império.
+[00:30:28:11 --> 00:30:36:09] Quando chega a noite, os gregos estão todos dentro desse cavalo, eles abrem o cavalo e atacam de dentro pra fora.
+[00:30:36:17 --> 00:30:42:29] É por isso que tem a expressão, né, presente de grego. É um presente, você acha, que é bom, mas no final é um presente muito ruim.
+[00:30:43:09 --> 00:30:46:03] Só que por que eu chamo de estratégia do cavalo de Troy aqui?
+[00:30:47:05 --> 00:30:52:26] Porque o primeiro passo mais importante que você pode dar em relação a um bom relacionamento com o seu cliente
+[00:30:52:26 --> 00:30:58:17] em entrar dentro da empresa dele, é gerar esse primeiro contato de confiança.
+[00:30:58:26 --> 00:31:04:18] Se você está dentro da empresa dele, é muito mais fácil de você conquistar ele
+[00:31:04:18 --> 00:31:08:13] do que se você estiver por fora, com toda aquela muralha e toda aquela armadura
+[00:31:08:13 --> 00:31:11:03] que todo mundo tem quando alguém tenta chegar para vender alguma coisa.
+[00:31:12:02 --> 00:31:16:00] Eu lembro até da Elizabeth me contando, quando ela aplicou essa estratégia a primeira vez,
+[00:31:16:04 --> 00:31:20:18] a Elizabeth é uma aluna antiga da Overlens, e ela fala que o cliente dela não acreditou,
+[00:31:20:18 --> 00:31:23:28] onde é que está a pegadinha? Não, como assim? Não vou te pagar nada, não existe isso.
+[00:31:24:05 --> 00:31:27:10] Ela falou, não, eu quero te dar este presente para você ver como é que é o meu trabalho.
+[00:31:28:00 --> 00:31:32:20] E depois desse primeiro serviço menor que ela fez, esse cliente contratou ela e ela fez o primeiro
+[00:31:32:20 --> 00:31:38:11] projeto dela de R$4.500. Para você pode ser pouco, pode ser muito, R$4.500, mas foi o
+[00:31:38:11 --> 00:31:42:18] primeiro projeto dela, acredita? Ela entrou no mundo do design, entrou na Overlens,
+[00:31:42:26 --> 00:31:47:07] aprendeu design aqui na Overlens, o primeiro projeto que ela faz... Vamos para o segundo,
+[00:31:47:07 --> 00:31:51:06] que o primeiro foi o gratuito que ela fez, né? O segundo projeto que ela fez 4.500 reais.
+[00:31:51:17 --> 00:31:55:08] Então, com a estratégia certa, você pode sim conquistar bons clientes.
+[00:31:56:26 --> 00:31:57:07] Ah!
+[00:31:58:11 --> 00:32:01:00] Olha aqui, vocês acharam que eu não tô zoando. Ah, não vai dar pra ver, não.
+[00:32:02:18 --> 00:32:04:08] Eu tô zoando o real, pessoal.
+[00:32:07:02 --> 00:32:10:08] Então essa é a estratégia agressiva de entrada, mas tem a outra.
+[00:32:11:24 --> 00:32:17:04] Uma outra estratégia também muito interessante é a precificação de desnatamento.
+[00:32:17:07 --> 00:32:23:02] Talvez você nunca ouviu falar disso, mas esse realmente é um termo quando a gente fala de precificação.
+[00:32:23:07 --> 00:32:25:25] E o que é uma precificação de desnatamento?
+[00:32:26:01 --> 00:32:29:12] O processo de desnatamento é quando você tira a nata do leite.
+[00:32:29:14 --> 00:32:35:00] Então você está separando uma parte do leite dele mesmo.
+[00:32:35:07 --> 00:32:38:21] Sabe quando a gente fala só a nata? Pensa nisso, é só a nata.
+[00:32:38:21 --> 00:32:44:21] Então, a precificação de desnatamento é justamente tirar a nata do leite.
+[00:32:44:27 --> 00:32:49:08] Esse processo é muito utilizado quando você quer separar aqueles clientes que têm o
+[00:32:49:08 --> 00:32:54:00] maior poder aquisitivo, por exemplo, de um grupo muito grande de clientes.
+[00:32:54:04 --> 00:32:57:20] Então, você quer separar, você quer segmentar aqueles clientes.
+[00:32:57:27 --> 00:33:00:28] Então, você usa o preço como um posicionamento.
+[00:33:01:08 --> 00:33:06:12] Você acha que a bolsa da Louis Vuitton, que custa R$ 25 mil, é à toa?
+[00:33:06:17 --> 00:33:07:12] Não é à toa.
+[00:33:07:12 --> 00:33:12:18] Isso é uma precificação de desnatamento, se você quiser, pode pesquisar depois.
+[00:33:13:01 --> 00:33:15:01] É um processo para poder separar.
+[00:33:15:05 --> 00:33:21:01] E isso faz com que, um, os clientes que compram dessa marca sintam a exclusividade, que eles
+[00:33:21:01 --> 00:33:26:03] são únicos, especiais por algum motivo por comprarem lá, e a marca também se torna
+[00:33:26:03 --> 00:33:29:25] especial por criar essa experiência exclusiva para eles.
+[00:33:30:05 --> 00:33:35:13] E isso também pode, sim, ser muito bem utilizado dentro do processo de design.
+[00:33:35:13 --> 00:33:38:19] você pode utilizar a precificação de desnatamento
+[00:33:38:19 --> 00:33:41:11] para separar aqueles clientes que têm o maior poder aquisitivo.
+[00:33:41:16 --> 00:33:44:17] Então, você coloca um preço muito mais alto
+[00:33:45:03 --> 00:33:50:06] para poder separar os clientes que têm a capacidade, o recurso
+[00:33:50:06 --> 00:33:51:13] para poder investir nesse projeto.
+[00:33:51:21 --> 00:33:52:29] Só tem um detalhe.
+[00:33:52:29 --> 00:33:56:11] Isso cria uma expectativa muito alta.
+[00:33:56:19 --> 00:33:59:09] Se você vai cobrar, sei lá, 100 mil num projeto de design,
+[00:33:59:21 --> 00:34:01:16] isso cria uma expectativa muito alta.
+[00:34:01:23 --> 00:34:04:13] E você precisa suprir essa expectativa,
+[00:34:04:13 --> 00:34:05:12] Se não...
+[00:34:06:14 --> 00:34:09:03] Acredita em mim, a queda é grande.
+[00:34:09:13 --> 00:34:10:07] A queda é grande.
+[00:34:11:20 --> 00:34:15:25] E esse tipo de cliente é aquele cliente que, se você queima um filme com um,
+[00:34:16:08 --> 00:34:17:25] você vai queimar um filme com vários,
+[00:34:18:06 --> 00:34:20:25] porque eles são uma quantidade menor,
+[00:34:21:07 --> 00:34:23:19] muitos deles têm contato, networking,
+[00:34:23:28 --> 00:34:27:06] é um tipo de estratégia que você vai trabalhar muito com indicação,
+[00:34:27:17 --> 00:34:30:11] por ser uma questão de exclusividade, convite, aquela coisa toda.
+[00:34:31:03 --> 00:34:33:10] É uma estratégia interessante, com toda certeza,
+[00:34:33:28 --> 00:34:35:15] mas tem que tomar cuidado.
+[00:34:35:15 --> 00:34:40:19] construir uma experiência à altura é importante para esse tipo de estratégia.
+[00:34:40:25 --> 00:34:45:03] E aí é mais um tipo de estratégia que você pode aplicar dependendo do seu contexto.
+[00:34:46:01 --> 00:34:47:03] Vamos pegar mais uma aqui.
+[00:34:49:03 --> 00:34:54:13] E agora, a gente chega na precificação que é a minha favorita, que eu mais utilizo que
+[00:34:54:13 --> 00:34:57:20] é a precificação baseada no valor.
+[00:34:57:26 --> 00:35:03:15] Eu já expliquei ela para vocês, é justamente essa precificação aqui que segue a equação
+[00:35:03:15 --> 00:35:08:13] P é igual a O menos R, preço é igual a oportunidade menos risco.
+[00:35:08:17 --> 00:35:14:23] Se você faz a precificação baseada em valor, você quer aumentar a oportunidade
+[00:35:14:23 --> 00:35:17:11] que existe para o seu cliente e diminuir o risco.
+[00:35:17:11 --> 00:35:20:17] Isso não tem a ver com o desnatamento do mercado.
+[00:35:20:25 --> 00:35:22:24] Não tem a ver com atraição a nata.
+[00:35:22:28 --> 00:35:26:14] Tem a ver com mostrar pras pessoas o valor que tem no que você faz
+[00:35:26:14 --> 00:35:29:19] e que existe uma oportunidade ali pra ela e pro negócio dela.
+[00:35:30:05 --> 00:35:34:04] Isso aqui não tem a ver com estratégia agressiva de entrada em um mercado,
+[00:35:34:12 --> 00:35:38:05] porque você não tá trabalhando aqui com preços agressivos pra chamar atenção.
+[00:35:38:15 --> 00:35:40:13] Você não tá trabalhando aqui com promoção.
+[00:35:40:20 --> 00:35:43:25] Você não tá trabalhando aqui nem com custo que você tem pro projeto.
+[00:35:43:25 --> 00:35:47:29] Você está trabalhando aqui diretamente com a expectativa que a pessoa tem
+[00:35:47:29 --> 00:35:54:17] e, mais importante de tudo, com a oportunidade que existe no serviço que você entrega.
+[00:35:54:21 --> 00:35:58:21] Essa oportunidade sobrevive mais quando o risco é menor.
+[00:35:59:07 --> 00:36:00:08] Então, lembra sempre disso.
+[00:36:00:10 --> 00:36:03:17] Se você tem uma oportunidade muito grande, mas o risco é muito grande,
+[00:36:03:25 --> 00:36:09:23] ainda assim, muita gente pode sentir se ameaçada para poder entrar nessa oferta.
+[00:36:09:29 --> 00:36:12:08] Então, sei lá, tem uma oportunidade que é muito boa para você,
+[00:36:12:08 --> 00:36:17:10] Mas tem um grande risco, sei lá, vamos supor que a oportunidade tem um valor 50 e o risco
+[00:36:17:10 --> 00:36:20:11] tem um valor 50, que é hipotético, é só para você visualizar comigo.
+[00:36:20:23 --> 00:36:22:07] 50 menos 50, zero.
+[00:36:22:16 --> 00:36:27:25] Então você não tem uma oportunidade sobressalente aqui, você tem zero a zero, o que seria
+[00:36:27:25 --> 00:36:28:19] o equilíbrio.
+[00:36:28:23 --> 00:36:31:16] E é muito difícil vender em equilíbrio, entende o que eu estou te falando.
+[00:36:31:29 --> 00:36:36:28] Vender um preço justo é mais difícil do que vender um preço injusto.
+[00:36:37:00 --> 00:36:41:16] Porque se o preço é injusto, principalmente para o seu cliente, é muito mais fácil
+[00:36:41:16 --> 00:36:46:09] vender. Se o seu cliente tiver uma oportunidade muito maior do que o risco, isso aqui poderia
+[00:36:46:09 --> 00:36:49:27] ser classificado como um preço injusto. Olha só a oportunidade que está na frente dele.
+[00:36:50:10 --> 00:36:54:26] Muita gente paga muito mais caro para ter muito menos do que esse cliente. É uma oportunidade
+[00:36:54:26 --> 00:36:58:15] para ele, portanto, ele tem muita vontade de fechar. Sacou como é que o raciocínio
+[00:36:58:15 --> 00:37:03:26] funciona? Essa é a precificação baseada em valor e a minha favorita de todas.
+[00:37:05:09 --> 00:37:11:00] E aí, essas são algumas das estratégias de precificação, algumas das mais famosas.
+[00:37:11:03 --> 00:37:15:03] Você pode pesquisar mais sobre isso também, estratégias de precificação, existem várias
+[00:37:15:03 --> 00:37:15:22] diferentes.
+[00:37:16:06 --> 00:37:19:26] O mais importante é você analisar o seu contexto e entender o que faz mais sentido
+[00:37:19:26 --> 00:37:20:16] para você.
+[00:37:21:01 --> 00:37:27:11] Se você não sabe tomar essa decisão, eu quero te incentivar a escolher a precificação
+[00:37:27:11 --> 00:37:29:01] baseada em valor.
+[00:37:29:06 --> 00:37:33:06] E eu quero te mostrar aqui porque, na minha opinião, a precificação baseada em valor
+[00:37:33:06 --> 00:37:40:12] é a mais adequada para serviços de design. Primeiro ponto. Valor percebido. Design é um
+[00:37:40:12 --> 00:37:46:21] serviço especializado e subjetivo. É difícil precificar design, porque você vem de algo que
+[00:37:46:21 --> 00:37:54:16] não existe ainda. É algo que vai existir. Qual é o valor de algo que vai existir? É difícil me dizer isso.
+[00:37:55:17 --> 00:37:57:27] Pode valer muito ou pode valer pouco,
+[00:37:58:13 --> 00:37:59:23] depende do que está sendo construído.
+[00:37:59:29 --> 00:38:02:20] Ou seja, você vende uma expectativa.
+[00:38:03:07 --> 00:38:04:22] E por vender uma expectativa,
+[00:38:05:03 --> 00:38:08:17] você consegue construir uma percepção de valor muito maior.
+[00:38:08:26 --> 00:38:10:23] Então, quando eu falo aqui de valor percebido,
+[00:38:11:01 --> 00:38:12:16] é que é possível, sim, mostrar
+[00:38:12:16 --> 00:38:14:14] o quanto que o design impacta um negócio
+[00:38:14:14 --> 00:38:18:19] e o quanto que isso influencia diretamente no resultado.
+[00:38:18:29 --> 00:38:20:29] Mesmo sem prometer resultado para o cliente,
+[00:38:21:02 --> 00:38:22:27] que muita gente vai ficar preocupada com isso,
+[00:38:22:27 --> 00:38:27:08] eu já falei disso antes, no modelo Acro e nas demandas específicas,
+[00:38:27:10 --> 00:38:31:16] nós não precisamos prometer números para fazer design e para mostrar oportunidade.
+[00:38:31:28 --> 00:38:36:22] Tem vários caminhos para fazer isso e eu dei para vocês quatro, que é o método Acro.
+[00:38:36:23 --> 00:38:39:05] Só para relembrar aqui se você não está lembrado.
+[00:38:40:18 --> 00:38:43:28] Atenção, conversão, retenção e organização.
+[00:38:44:04 --> 00:38:49:05] São quatro pilares aqui que toda empresa tem algum tipo de problema com esses pilares
+[00:38:49:05 --> 00:38:52:04] e que o design de alguma forma ajuda a controlar.
+[00:38:52:04 --> 00:38:55:01] Então, tem uma oportunidade aqui, tem um valor percebido.
+[00:38:55:07 --> 00:38:59:14] A questão é o quanto que você consegue diminuir o risco na cabeça do seu cliente.
+[00:38:59:19 --> 00:39:01:18] Começa a perceber aqui qual que é o raciocínio.
+[00:39:01:23 --> 00:39:06:03] Se você tem uma oportunidade muito boa, o seu processo de negociação é sobre o
+[00:39:06:03 --> 00:39:06:26] risco.
+[00:39:07:02 --> 00:39:08:29] É sobre diminuir o risco para o cliente.
+[00:39:09:03 --> 00:39:14:05] E não só diminuir o risco para o cliente, mas colocar ele em perspectiva sobre o tipo
+[00:39:14:05 --> 00:39:17:22] de risco que ele também corre se ele não investir em design.
+[00:39:18:21 --> 00:39:22:18] Então, é uma questão de controlar o risco, a expectativa dele.
+[00:39:22:21 --> 00:39:26:00] Eu estou reforçando isso para didaticamente esse conceito...
+[00:39:26:28 --> 00:39:32:05] Entrar na sua cabeça como uma sementinha e ele vai aflorar e quando você sacar isso,
+[00:39:32:14 --> 00:39:34:00] você vai entender o que é precificação.
+[00:39:34:05 --> 00:39:38:07] Mas esse aqui é só o primeiro dos valores, o primeiro dos motivos para escolher o valor,
+[00:39:39:16 --> 00:39:40:18] estratégia baseada em valor.
+[00:39:40:26 --> 00:39:43:10] Tem mais outros três motivos aqui que eu quero compartilhar.
+[00:39:43:21 --> 00:39:47:05] O segundo motivo é o impacto nos resultados.
+[00:39:47:14 --> 00:39:50:23] Design tem um potencial de impacto significativo.
+[00:39:51:04 --> 00:39:54:12] Isso daqui não vai ser para todas as áreas do design.
+[00:39:54:12 --> 00:39:58:04] É como eu disse, tem áreas do design que são muito mais técnicas.
+[00:39:58:18 --> 00:40:01:13] E aí o modelo de precificação acaba sendo diferente também.
+[00:40:01:16 --> 00:40:04:05] Você tem que pensar no seu negócio de maneira estratégica.
+[00:40:04:09 --> 00:40:07:29] Não é todo serviço de design que você vai olhar com essa mesma perspectiva.
+[00:40:08:03 --> 00:40:11:23] Mas quando nós falamos aqui de design estratégico,
+[00:40:11:29 --> 00:40:15:08] o impacto nos resultados tende a ser significativo.
+[00:40:15:17 --> 00:40:18:02] E isso te ajuda a precificar mais.
+[00:40:18:20 --> 00:40:20:23] Então, por isso que eu sempre incentivo,
+[00:40:20:23 --> 00:40:22:17] se você quer aumentar o seu preço,
+[00:40:22:17 --> 00:40:27:11] Aprende mais sobre metodologia, aprende mais sobre o potencial e o valor do design e aí
+[00:40:27:11 --> 00:40:29:10] você vai conseguir aumentar o seu preço, tá?
+[00:40:29:22 --> 00:40:33:01] Mas esse aqui também é só mais um dos fatores, tem outros dois importantes.
+[00:40:33:14 --> 00:40:37:23] Terceiro fator, a Expertise e Experiência.
+[00:40:38:07 --> 00:40:40:20] Olha só, esse aqui é um fator muito, muito relevante.
+[00:40:40:25 --> 00:40:43:11] Nós podemos ter dois designers aqui, dois designers.
+[00:40:43:22 --> 00:40:46:29] Os dois oferecem um serviço de design de identidade de marcas, tá?
+[00:40:46:29 --> 00:40:47:13] Os dois.
+[00:40:47:19 --> 00:40:50:28] É um serviço estratégico, é um serviço que tem um potencial de gerar resultado
+[00:40:50:28 --> 00:40:55:19] grande, é um serviço que tem um valor percebido alto, então beleza, estão no mesmo nível.
+[00:40:55:28 --> 00:40:59:09] Só que ainda assim, isso não é o único fator para a precificação não. Um pode ter um
+[00:40:59:09 --> 00:41:04:07] valor muito mais alto que o outro e isso pode estar ligado sim com a experiência desses
+[00:41:04:07 --> 00:41:08:12] dois designers. Talvez esse designer aqui tenha um portfólio e tenha muito mais cases
+[00:41:08:12 --> 00:41:12:19] e tenha muito mais experiência para lidar com o cliente. Então ele fica muito mais
+[00:41:12:19 --> 00:41:17:28] confortável em estar ali cobrando R$20, R$30, R$50, R$80, R$100 mil do que esse
+[00:41:17:28 --> 00:41:22:25] desse designer aqui. Mesmo que esse designer ofereça o mesmo serviço, entre aspas, porque a
+[00:41:22:25 --> 00:41:28:15] experiência entrega mais, com certeza, mas mesmo que ele ofereça um serviço com o mesmo nome,
+[00:41:28:20 --> 00:41:33:08] talvez ele não seja capaz de sustentar aquele preço mais alto, porque ele ainda não tem
+[00:41:33:08 --> 00:41:38:26] expertise e a experiência. Então, isso é o tempo que vai dar para ele. Isso vai influenciar
+[00:41:38:26 --> 00:41:44:17] o preço. É por isso que eu gosto muito de algumas alunas e alunos que preferem ir
+[00:41:44:17 --> 00:41:50:07] subindo degrau por degrau. Então, eu vou passo a passo ali e só aumenta a sua confiança.
+[00:41:50:10 --> 00:41:54:04] Nem todo mundo precisa fazer isso. Eu não fiz, por exemplo, eu pulei de um projeto
+[00:41:54:04 --> 00:41:59:11] de R$ 1.500 para um projeto de R$ 15.000, porque eu estava convencido que eu conseguiria
+[00:41:59:11 --> 00:42:03:15] entregar um valor que valia mais do que R$ 15.000 para o meu cliente. Eu já estava
+[00:42:03:15 --> 00:42:07:02] lá depois de quatro anos na faculdade, já tinha feito vários projetos e eu sentia
+[00:42:07:02 --> 00:42:10:10] que eu podia entregar mais. Eu só queria alguém que estivesse disposto a me pagar
+[00:42:10:10 --> 00:42:12:02] para ver o que eu era capaz de fazer.
+[00:42:12:14 --> 00:42:14:28] Então, eu saí dos R$ 1.500 para os R$ 15.000.
+[00:42:14:29 --> 00:42:16:22] Eu tinha confiança para fazer isso.
+[00:42:16:27 --> 00:42:20:05] Isso está relacionado com a expertiza e com a experiência.
+[00:42:20:07 --> 00:42:22:05] Se você ainda não se sente inseguro,
+[00:42:23:06 --> 00:42:26:13] a minha recomendação é um degrau de cada vez sem medo.
+[00:42:26:15 --> 00:42:28:10] Pega o seu primeiro projeto de R$ 1.500,
+[00:42:28:19 --> 00:42:30:24] depois o seu de R$ 3.000, depois o seu de R$ 5.000,
+[00:42:31:00 --> 00:42:32:27] depois o seu de R$ 7.000, depois o seu de R$ 10.000,
+[00:42:33:01 --> 00:42:34:16] depois o seu de R$ 15.000, depois o seu de R$ 20.000,
+[00:42:34:19 --> 00:42:36:23] depois o seu de R$ 30.000, R$ 50.000 e por aí vai.
+[00:42:37:00 --> 00:42:39:05] Cresce no processo naturalmente, tá?
+[00:42:39:05 --> 00:42:43:05] Isso depende de você, de cada um, não tem como te falar aqui qual é o certo ou o errado,
+[00:42:43:11 --> 00:42:48:21] mas o que eu posso te dizer é que esse aqui é um dos outros fatores que eu acho um grande
+[00:42:48:21 --> 00:42:53:24] benefício da precificação baseada em valor, porque você tem espaço para crescer nesse
+[00:42:53:24 --> 00:42:54:04] mercado.
+[00:42:54:07 --> 00:42:58:25] Quanto maior a sua expertise, mais impacto você consegue gerar no negócio dos seus
+[00:42:58:25 --> 00:43:03:23] clientes e automaticamente você consegue cobrar mais caro por isso, porque o seu
+[00:43:03:23 --> 00:43:04:26] impacto é maior também.
+[00:43:04:26 --> 00:43:08:26] Então, é quase como uma matemática, uma proporcionalidade aqui, tá?
+[00:43:09:13 --> 00:43:15:14] E o quarto e último fator que me faz gostar da precificação baseada em valor é a diversidade
+[00:43:15:14 --> 00:43:16:09] de clientes.
+[00:43:16:16 --> 00:43:20:14] O mercado é composto por empresas de todos os tamanhos, então, você pode estar começando
+[00:43:20:14 --> 00:43:23:01] agora ou você já pode ter muito tempo no mercado.
+[00:43:23:11 --> 00:43:28:16] Tem espaço nesses dois cenários e em todos os outros cenários entre eles, porque tem
+[00:43:28:16 --> 00:43:31:24] empresas de todos os tamanhos, de todas as maturidades.
+[00:43:32:27 --> 00:43:35:24] Inclusive, você também chega em um nível de maturidade
+[00:43:35:24 --> 00:43:37:28] que você não dá conta sozinho e precisa de equipe.
+[00:43:38:03 --> 00:43:40:14] Tem empresas também para quando você tiver equipe,
+[00:43:40:16 --> 00:43:43:03] tiver grande o suficiente para pegar empresas maiores.
+[00:43:43:12 --> 00:43:46:20] Então, perceba que a precificação baseada em valor
+[00:43:46:20 --> 00:43:51:17] te dá suporte, uma base para funcionar no mercado por muito tempo.
+[00:43:52:13 --> 00:43:55:11] As outras estratégias podem ser mais efêmeras.
+[00:43:55:12 --> 00:43:57:24] Você pode até acabar aplicando baseado em promoção.
+[00:43:57:25 --> 00:44:01:01] Em algum momento, eu quero aplicar uma estratégia baseada em promoção
+[00:44:01:01 --> 00:44:05:18] porque houve uma oportunidade, em algum outro momento você talvez queira aplicar a estratégia
+[00:44:05:18 --> 00:44:10:15] agressiva de entrada, tanto porque você ainda não tem confiança para cobrar muito caro,
+[00:44:10:21 --> 00:44:13:18] então você já aproveita a oportunidade para cobrar barato e chamar a atenção dos
+[00:44:13:18 --> 00:44:13:28] clientes.
+[00:44:13:29 --> 00:44:17:00] Você pode fazer isso no início, sabendo que você vai evoluir com o tempo.
+[00:44:17:08 --> 00:44:22:14] A única coisa que eu te recomendo é, faça a sua estrutura de custo para você
+[00:44:22:14 --> 00:44:26:20] não ter prejuízo, ou para que você pelo menos tenha consciência do tipo de prejuízo
+[00:44:26:20 --> 00:44:27:22] que você está tendo.
+[00:44:27:26 --> 00:44:29:26] Essa é a coisa mais importante que eu te falo.
+[00:44:29:29 --> 00:44:30:12] Beleza?
+[00:44:30:12 --> 00:44:32:29] Esses são os quatro fatores que eu considero mais relevantes
+[00:44:32:29 --> 00:44:34:26] para escolher a precificação baseada em valor,
+[00:44:35:07 --> 00:44:37:00] mas saiba que isso depende do seu contexto
+[00:44:37:00 --> 00:44:38:26] e essa decisão quem toma é você.
+[00:44:39:06 --> 00:44:40:05] Uma vez que eu disse isso,
+[00:44:40:12 --> 00:44:43:09] eu quero só reforçar com vocês dois conceitos importantes
+[00:44:43:09 --> 00:44:44:19] antes de a gente terminar essa aula.
+[00:44:45:00 --> 00:44:48:20] Primeiro, não é sobre demanda, é sobre posicionamento.
+[00:44:48:28 --> 00:44:50:13] Seu preço fala muito sobre você
+[00:44:50:13 --> 00:44:53:05] e ele constrói uma expectativa na cabeça do seu cliente.
+[00:44:54:06 --> 00:44:56:09] na cabeça do seu cliente.
+[00:44:56:11 --> 00:44:58:20] Você já percebeu isso depois dessa aula toda aqui?
+[00:44:58:24 --> 00:45:01:27] Que existem vários jeitos de precificar e que não tem um preço justo.
+[00:45:01:28 --> 00:45:04:15] Isso depende da estratégia que você vai seguir.
+[00:45:04:22 --> 00:45:08:22] Então, esse fator aqui é muito importante, lembre-se disso, porque muita gente erra aqui
+[00:45:08:22 --> 00:45:10:29] e tenta cobrar baseado em demanda.
+[00:45:11:01 --> 00:45:14:06] É aí que você dá desconto demais, é aí que você perde oportunidades.
+[00:45:14:14 --> 00:45:17:05] E segundo, preço não é definido.
+[00:45:17:12 --> 00:45:19:22] Preço é construído.
+[00:45:20:02 --> 00:45:21:26] Você não acha o preço.
+[00:45:21:26 --> 00:45:24:23] tem um livro muito legal, ele se chama Preço Mesmo.
+[00:45:24:28 --> 00:45:27:24] Esse livro aqui ó, tá invertido aí pra vocês, mas acho que dá pra ver.
+[00:45:28:04 --> 00:45:32:00] Preço, o Mito do Valor Justo e Como Tirar Vantagem disso.
+[00:45:32:14 --> 00:45:34:01] É um texto ainda que pode até...
+[00:45:34:24 --> 00:45:36:22] é um título que pode até incomodar muita gente.
+[00:45:37:00 --> 00:45:38:21] Fala, ah, não quero tirar vantagem de ninguém,
+[00:45:39:03 --> 00:45:42:21] mas se você se sentir incomodado com isso, eu tenho um outro livro pra te indicar,
+[00:45:42:24 --> 00:45:46:00] que é um livro que se chama Vantagem Injusta.
+[00:45:46:10 --> 00:45:47:13] É um livro muito massa também.
+[00:45:47:26 --> 00:45:50:08] Qual que é o termo em inglês? Deixa eu pegar aqui pra vocês.
+[00:45:51:19 --> 00:45:54:19] É o nome do livro inglês, ele é mais conhecido pelo nome dele em inglês.
+[00:45:56:17 --> 00:46:01:03] Justa. É unfair. Unfair advantage.
+[00:46:02:16 --> 00:46:07:04] é o nome do livro. E lá ele vai te colocar uma outra perspectiva. Eu também já fiquei
+[00:46:07:04 --> 00:46:11:13] muito incomodado com isso porque eu queria ser justo, mas eu não entendi que tipo de
+[00:46:11:13 --> 00:46:16:01] justiça eu estava buscando. Colocar preço no seu serviço não é ser injusto. Não
+[00:46:16:01 --> 00:46:20:08] tem nada a ver com ser injusto. Tem a ver com estratégia de mercado. E tirar vantagem
+[00:46:20:08 --> 00:46:24:25] disso também não tem nada a ver com ser uma pessoa ruim. Isso tem mais relação
+[00:46:24:25 --> 00:46:30:16] com entender como o mercado funciona e aprender como navegar por ele. Porque o
+[00:46:30:16 --> 00:46:32:15] o tempo inteiro o mercado vai cobrar de você,
+[00:46:32:18 --> 00:46:35:16] não só nos impostos, não só nessas obrigações,
+[00:46:35:27 --> 00:46:37:19] mas o seu cliente vai cobrar de você também.
+[00:46:37:25 --> 00:46:40:04] E se você encontra um jeito de ser injusto para ele também,
+[00:46:40:07 --> 00:46:42:04] ou seja, ele ganhar muito e você ganhar muito,
+[00:46:42:06 --> 00:46:44:21] você tem um ótimo cenário aqui, não tem porquê ter medo disso.
+[00:46:45:00 --> 00:46:47:03] E esse livro, apesar desse título agressivo,
+[00:46:47:12 --> 00:46:49:13] é um livro até bastante científico,
+[00:46:49:15 --> 00:46:51:09] é um livro que traz muitas referências,
+[00:46:51:13 --> 00:46:54:12] traz muito estudo, fala muito sobre psicologia
+[00:46:54:12 --> 00:46:55:25] e é um estudo bem interessante.
+[00:46:55:28 --> 00:46:57:27] Eu gostei da leitura dele, sem sombra de dúvidas,
+[00:46:58:01 --> 00:46:59:21] muito do que eu estou ensinando para vocês aqui,
+[00:46:59:21 --> 00:47:03:17] Eu tirei desse livro e é por isso que eu recomendo ele aqui para vocês, tá?
+[00:47:03:20 --> 00:47:04:15] Um livro muito massa.
+[00:47:04:21 --> 00:47:06:03] Tem várias histórias lá também.
+[00:47:06:25 --> 00:47:12:03] E uma coisa que ele fala no livro, que eu acho interessante, é que preço é muito
+[00:47:12:03 --> 00:47:15:03] mais sobre arquitetura do que sobre arqueologia.
+[00:47:15:16 --> 00:47:18:25] Quando ele falou isso eu falei, nossa, interessante, é muito mais sobre arquitetura
+[00:47:18:25 --> 00:47:20:00] do que sobre arqueologia.
+[00:47:20:03 --> 00:47:20:28] O que ele quer dizer com isso?
+[00:47:21:27 --> 00:47:28:00] Arqueologia é sobre encontrar construções, arquitetura é sobre construir.
+[00:47:28:13 --> 00:47:33:21] Então, preço você não encontra, preço você constrói.
+[00:47:33:25 --> 00:47:39:19] Você testa, muda, adapta até encontrar aquele preço que faz sentido para o seu contexto
+[00:47:39:19 --> 00:47:41:17] e para a sua empresa em específico.
+[00:47:41:20 --> 00:47:45:20] Se você ficou com qualquer dúvida, se você ficou incomodado com qualquer coisa,
+[00:47:45:22 --> 00:47:51:03] saiba que existe uma comunidade aqui embaixo, você pode deixar o seu comentário e eu vou
+[00:47:51:03 --> 00:47:53:12] ter o prazer de conversar mais a respeito com você.
+[00:47:53:14 --> 00:47:57:08] Pode ser também que eu esteja com uma visão diferente, pode ser que eu esteja com uma
+[00:47:57:08 --> 00:48:02:18] uma decisão equivocada. E é por isso que eu amo conversar e eu amo ter outras perspectivas.
+[00:48:02:28 --> 00:48:06:03] Se você tem alguma dúvida e quiser conversar mais sobre isso, coloca seu comentário aqui
+[00:48:06:03 --> 00:48:10:01] para a gente iniciar essa conversa. E agora eu te vejo na nossa próxima aula.

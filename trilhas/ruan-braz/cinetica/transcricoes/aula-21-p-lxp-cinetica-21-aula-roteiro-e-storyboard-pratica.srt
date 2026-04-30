@@ -1,0 +1,3868 @@
+1
+00:00:00,540 --> 00:00:01,340
+Então, vamos lá.
+
+2
+00:00:01,480 --> 00:00:03,620
+Agora aqui eu vou mostrar um pouco do storyboard
+
+3
+00:00:03,620 --> 00:00:05,540
+para vocês visualizarem o quanto isso tem impacto,
+
+4
+00:00:05,640 --> 00:00:06,640
+só que vai ser muito rápido.
+
+5
+00:00:06,740 --> 00:00:09,340
+É só uma demonstração rápida antes da gente voltar para o processo ali.
+
+6
+00:00:10,120 --> 00:00:12,260
+Então, eu tenho aqui o anti-prevery.
+
+7
+00:00:12,640 --> 00:00:14,540
+Você pode fazer isso manualmente também,
+
+8
+00:00:14,600 --> 00:00:17,020
+pegando cada print e jogando no nanobanano ali,
+
+9
+00:00:17,120 --> 00:00:18,780
+só que eu vou fazer de um jeito mais rápido
+
+10
+00:00:18,780 --> 00:00:21,880
+que eu uso os meus agentes para já entender a imagem
+
+11
+00:00:21,880 --> 00:00:23,360
+e gerar tudo para mim rápido aqui, tá?
+
+12
+00:00:23,760 --> 00:00:25,760
+Se você quiser aprender como fazer avançado,
+
+13
+00:00:25,800 --> 00:00:28,040
+procura as trilhas mais avançadas ou assiste o Atlas,
+
+14
+00:00:28,040 --> 00:00:30,760
+que lá você vai ver como cria os agentes e faz tudo isso.
+
+15
+00:00:31,480 --> 00:00:37,140
+Então aqui, eu vou puxar para o nosso anti-gravity a imagem que eu acabei de pegar,
+
+16
+00:00:37,620 --> 00:00:39,120
+ele vai referenciar ela aqui.
+
+17
+00:00:40,700 --> 00:00:43,080
+Ah, eu tô com esse problema, mas vou copiar o caminho dela aqui, ó.
+
+18
+00:00:43,240 --> 00:00:44,940
+Copiei o caminho dela pra cá e vou falar o seguinte.
+
+19
+00:00:45,940 --> 00:00:47,820
+Gere todas essas cenas.
+
+20
+00:00:48,140 --> 00:00:50,220
+Que cenas que eles estão gerando, Juan?
+
+21
+00:00:50,320 --> 00:00:52,000
+Não sei o que é isso.
+
+22
+00:00:52,100 --> 00:00:53,800
+Então, vou colocar aqui pra você visualizar, tá?
+
+23
+00:00:54,540 --> 00:01:00,060
+Porque eu tô num ambiente aqui que a UX desse ambiente é comprometida.
+
+24
+00:01:01,724 --> 00:01:03,144
+Vou colocar esse e esse.
+
+25
+00:01:05,180 --> 00:01:08,160
+Como vocês estão vendo aí do lado, vou aumentar um pouquinho aqui.
+
+26
+00:01:11,612 --> 00:01:14,212
+Então, eu tenho aqui a imagem, né, que vocês estão vendo aí,
+
+27
+00:01:14,292 --> 00:01:17,832
+e eu vou pedir pra ele aqui agora, olha, gere todas essas cenas.
+
+28
+00:01:19,356 --> 00:01:21,056
+Uma em cada imagem.
+
+29
+00:01:23,356 --> 00:01:31,096
+mantendo o enquadramento de cada cena e o ângulo de cada cena.
+
+30
+00:01:31,816 --> 00:01:32,616
+Quero imagens.
+
+31
+00:01:34,588 --> 00:01:39,108
+hiperrealistas, como no exemplo cinematográfico.
+
+32
+00:01:41,852 --> 00:01:43,612
+gráfico. Aí eu vou colocar aqui
+
+33
+00:01:43,612 --> 00:01:45,592
+uma imagem de referência, vou pegar
+
+34
+00:01:45,592 --> 00:01:46,172
+aqui no...
+
+35
+00:01:48,284 --> 00:01:48,904
+no nosso...
+
+36
+00:01:50,492 --> 00:01:52,072
+Nossa, eu tenho que ver como é que eu vou colocar isso aqui agora.
+
+37
+00:01:52,212 --> 00:01:52,812
+Deixa assim mesmo.
+
+38
+00:01:53,352 --> 00:01:54,452
+Vou pegar aqui um...
+
+39
+00:01:57,020 --> 00:01:57,420
+Um...
+
+40
+00:01:58,876 --> 00:02:00,136
+Carro no deserto.
+
+41
+00:02:06,588 --> 00:02:07,608
+Vou pegar essa imagem aqui mesmo.
+
+42
+00:02:09,276 --> 00:02:10,616
+Mas ela não está em alta resolução.
+
+43
+00:02:10,796 --> 00:02:11,576
+Vou fazer o seguinte.
+
+44
+00:02:11,776 --> 00:02:15,456
+O ideal é a gente fazer um teste, gerar uma primeira imagem,
+
+45
+00:02:15,596 --> 00:02:17,736
+e essa imagem vai trazer todas as informações.
+
+46
+00:02:17,916 --> 00:02:21,636
+Lembra? Da identidade, do ambiente, onde que isso está acontecendo,
+
+47
+00:02:21,796 --> 00:02:22,776
+quais são as características.
+
+48
+00:02:23,276 --> 00:02:26,796
+Como aqui eu estou querendo fazer uma demonstração rápida só de ferramenta para vocês,
+
+49
+00:02:27,036 --> 00:02:29,456
+eu não vou jogar nenhum documento aqui de características, não.
+
+50
+00:02:29,556 --> 00:02:31,056
+Então, o que eu vou fazer aqui agora?
+
+51
+00:02:31,336 --> 00:02:33,256
+Eu vou pedir para ele gerar.
+
+52
+00:02:35,228 --> 00:02:43,168
+hiperrealista cinematográfico vou falar para ele aqui é color grade em orange
+
+53
+00:02:43,888 --> 00:02:45,568
+em teal. Acho que escreve assim, não é?
+
+54
+00:02:45,668 --> 00:02:46,568
+Eu sempre escrevo errado.
+
+55
+00:02:50,524 --> 00:02:50,864
+É isso mesmo.
+
+56
+00:02:56,124 --> 00:02:58,264
+Acho que ele vai entender assim.
+
+57
+00:02:58,584 --> 00:03:06,684
+Coloque agentes em paralelo para cada agente gerar uma imagem.
+
+58
+00:03:07,564 --> 00:03:14,204
+Mas gere você os prontos, mantendo a consistência.
+
+59
+00:03:14,244 --> 00:03:22,464
+Sempre o mesmo carro, sempre o mesmo ambiente, sempre a mesma iluminação.
+
+60
+00:03:22,464 --> 00:03:23,464
+Utilize...
+
+61
+00:03:25,276 --> 00:03:26,936
+Seedring API
+
+62
+00:03:27,836 --> 00:03:29,556
+para gerar as imagens.
+
+63
+00:03:29,816 --> 00:03:31,456
+Então pronto. Aqui o que
+
+64
+00:03:31,456 --> 00:03:33,416
+ele vai fazer para a gente? Fiz um prompt simplesinho
+
+65
+00:03:33,416 --> 00:03:35,176
+aqui, só para a gente ter um teste rápido.
+
+66
+00:03:35,536 --> 00:03:37,496
+Ele vai colocar nove agentes,
+
+67
+00:03:38,156 --> 00:03:39,536
+cada agente vai trabalhar uma imagem
+
+68
+00:03:39,536 --> 00:03:40,776
+e talvez não precise...
+
+69
+00:03:41,948 --> 00:03:43,528
+dessas três de baixo, mas vamos ver
+
+70
+00:03:43,528 --> 00:03:45,688
+ele gerando elas, e vai
+
+71
+00:03:45,688 --> 00:03:46,908
+salvar essas imagens pra gente.
+
+72
+00:03:47,428 --> 00:03:49,968
+E aí nós vamos ter as imagens pra poder animar,
+
+73
+00:03:50,008 --> 00:03:51,948
+pra poder fazer um vídeo com elas,
+
+74
+00:03:52,068 --> 00:03:53,608
+colocando frame inicial,
+
+75
+00:03:53,808 --> 00:03:55,328
+frame final, frame inicial, frame
+
+76
+00:03:55,868 --> 00:03:57,828
+final, e fazendo vários vídeos disso,
+
+77
+00:03:57,948 --> 00:03:59,508
+e depois a gente pode juntar
+
+78
+00:03:59,508 --> 00:04:01,788
+essa cena toda aqui, dentro
+
+79
+00:04:01,788 --> 00:04:03,768
+de uma composição, que eu vou
+
+80
+00:04:03,768 --> 00:04:05,968
+trazer pra vocês. Aqui ele falou o seguinte,
+
+81
+00:04:06,588 --> 00:04:07,888
+pra gerar as imagens a partir
+
+82
+00:04:07,888 --> 00:04:09,828
+da história, tem algumas ações, opções.
+
+83
+00:04:10,368 --> 00:04:12,268
+Gerar vídeos curtos de cada um.
+
+84
+00:04:12,848 --> 00:04:13,908
+Usar API de imagem.
+
+85
+00:04:14,088 --> 00:04:16,648
+Você tem acesso a alguma API de geração de imagem?
+
+86
+00:04:16,808 --> 00:04:18,528
+Ah, eu não mandei o acesso da API para ele.
+
+87
+00:04:18,608 --> 00:04:19,948
+Eu só tenho o da de vídeo.
+
+88
+00:04:21,340 --> 00:04:24,480
+Daria para fazer de vídeo também, mas vocês já viram o que acontece na última aula.
+
+89
+00:04:24,600 --> 00:04:25,520
+Então eu vou pegar aqui a API.
+
+90
+00:04:26,260 --> 00:04:29,880
+Eu só mandei a API do Seedence, não mandei a API do Seedream.
+
+91
+00:04:30,020 --> 00:04:31,220
+Vou pegá-la aqui rapidinho.
+
+92
+00:04:32,444 --> 00:04:35,524
+Então, eu venho no site da ByteDance aqui, pegar a API.
+
+93
+00:04:35,824 --> 00:04:41,044
+Eu só não vou mostrar a API para vocês, vou fazer login aqui, porque...
+
+94
+00:04:43,996 --> 00:04:45,356
+Nunca mostrem suas APIs, né?
+
+95
+00:04:45,696 --> 00:04:48,876
+Senão outras pessoas podem gerar com os créditos de vocês,
+
+96
+00:04:48,996 --> 00:04:50,396
+do seu cartão de crédito e por aí vai.
+
+97
+00:04:50,636 --> 00:04:52,896
+Eu deixei vazar na semana passada e tive que...
+
+98
+00:04:54,556 --> 00:04:55,196
+Girar tudo de novo.
+
+99
+00:04:55,276 --> 00:04:59,296
+Essas imagens todas que estão passando aí foram feitas pelo Seedream.
+
+100
+00:05:00,540 --> 00:05:01,480
+que é o mesmo que eu vou usar aqui.
+
+101
+00:05:01,900 --> 00:05:04,560
+Eu vou até fazer o seguinte, rapidinho,
+
+102
+00:05:04,560 --> 00:05:06,340
+vou puxar essa para cá,
+
+103
+00:05:06,440 --> 00:05:07,960
+que eu vou ter que conectar a API aqui.
+
+104
+00:05:08,500 --> 00:05:10,360
+Juan, eu quero aprender como que eu faço
+
+105
+00:05:11,680 --> 00:05:12,640
+para conectar a API.
+
+106
+00:05:14,908 --> 00:05:15,728
+Assiste o Atlas.
+
+107
+00:05:17,660 --> 00:05:20,020
+Vou colocar aqui para pegar o...
+
+108
+00:05:21,244 --> 00:05:22,584
+Pô, ele já estava pegando o Seedring.
+
+109
+00:05:22,664 --> 00:05:23,244
+Deixa eu ver então.
+
+110
+00:05:23,284 --> 00:05:24,644
+Vou fazer uma chamada aqui para ele.
+
+111
+00:05:29,084 --> 00:05:29,944
+Deixa eu perguntar para ele primeiro.
+
+112
+00:05:30,324 --> 00:05:31,644
+Já temos a API.
+
+113
+00:05:33,148 --> 00:05:39,048
+Seedream e do Seedence neste projeto.
+
+114
+00:05:40,572 --> 00:05:42,332
+Vou só mandar o link aqui para ele de novo.
+
+115
+00:05:46,844 --> 00:05:48,264
+Acho que só com isso ele vai conseguir fazer.
+
+116
+00:05:52,828 --> 00:05:56,188
+Deixa só subir aqui, eu volto o terminal para vocês, tá?
+
+117
+00:06:00,188 --> 00:06:01,208
+Estamos bem de tempo, hein?
+
+118
+00:06:01,328 --> 00:06:01,968
+Estamos bem.
+
+119
+00:06:02,028 --> 00:06:03,508
+Eu quero fazer algumas coisas aqui.
+
+120
+00:06:05,212 --> 00:06:06,532
+Enquanto ele está conectando a API,
+
+121
+00:06:08,156 --> 00:06:09,616
+Estão curtindo a aula? Estão gostando?
+
+122
+00:06:11,324 --> 00:06:12,524
+Como é que tá o processo aí pra vocês?
+
+123
+00:06:25,724 --> 00:06:27,984
+Nós chegamos a bater 164 pessoas.
+
+124
+00:06:30,748 --> 00:06:33,048
+Quase bateram a meta, mas não conseguiram bater a meta.
+
+125
+00:06:35,644 --> 00:06:37,404
+Onde eu acho o link pra inscrição no Atlas?
+
+126
+00:06:37,984 --> 00:06:38,724
+Aqui no chat.
+
+127
+00:06:39,804 --> 00:06:40,824
+Mandar aí agora mesmo, ó.
+
+128
+00:06:44,540 --> 00:06:45,960
+Pathy, para chegar no Seedream,
+
+129
+00:06:46,080 --> 00:06:47,960
+você vai digitar Seedream
+
+130
+00:06:48,600 --> 00:06:49,380
+no Google.
+
+131
+00:06:50,844 --> 00:06:51,284
+Seedream.
+
+132
+00:06:52,476 --> 00:06:53,936
+vai descer aqui e vai procurar
+
+133
+00:06:54,556 --> 00:06:55,316
+esse aqui, ó,
+
+134
+00:06:55,416 --> 00:06:57,836
+sid.bytedance.com.
+
+135
+00:06:59,076 --> 00:07:00,016
+Beleza? Aí você vai
+
+136
+00:07:00,016 --> 00:07:01,556
+cair nessa página aqui e você vem aqui em
+
+137
+00:07:01,556 --> 00:07:04,016
+Get API. Vem em Get API,
+
+138
+00:07:04,116 --> 00:07:06,016
+você vai fazer seu login e vai vir aqui, ó,
+
+139
+00:07:06,076 --> 00:07:07,956
+Access API. Aí você vai
+
+140
+00:07:07,956 --> 00:07:10,056
+acessar a API. Beleza?
+
+141
+00:07:12,412 --> 00:07:14,112
+Só pude entrar agora e ver o storyboard.
+
+142
+00:07:14,332 --> 00:07:15,332
+Já me chamou a atenção.
+
+143
+00:07:15,592 --> 00:07:17,472
+Cara, essa aula aqui tá muito de processo, né?
+
+144
+00:07:17,852 --> 00:07:19,332
+Caraca, do nada essa imagem aqui.
+
+145
+00:07:19,432 --> 00:07:20,352
+Ah, eu que gerei errado.
+
+146
+00:07:21,032 --> 00:07:23,432
+Aí, ó, eu tava fazendo a imagem de hoje da capa
+
+147
+00:07:24,012 --> 00:07:25,392
+sem querer eu mandei esse prompt.
+
+148
+00:07:25,532 --> 00:07:27,112
+Não era pra ter mandado aqui no Seedring.
+
+149
+00:07:27,252 --> 00:07:28,092
+Aí saiu isso aqui.
+
+150
+00:07:28,752 --> 00:07:30,792
+Mas eu fiz essa capa de hoje aqui no...
+
+151
+00:07:33,020 --> 00:07:34,400
+No Seedream mesmo.
+
+152
+00:07:35,676 --> 00:07:37,336
+Deixa eu ver se ele conectou certinho.
+
+153
+00:07:41,372 --> 00:07:42,932
+Ah, conectou. Ele já está gerando para a gente.
+
+154
+00:07:48,348 --> 00:07:49,388
+Quero esse com esse.
+
+155
+00:07:57,564 --> 00:07:58,564
+Coloquei o errado ainda, né?
+
+156
+00:07:59,244 --> 00:08:00,504
+Era esse aqui, aqui embaixo.
+
+157
+00:08:05,724 --> 00:08:06,164
+Esse.
+
+158
+00:08:10,876 --> 00:08:11,956
+Caraca, que tanto de aba!
+
+159
+00:08:13,916 --> 00:08:15,316
+Cadê a aba certa? Eu fechei ela?
+
+160
+00:08:16,668 --> 00:08:17,088
+Não é possível.
+
+161
+00:08:20,476 --> 00:08:22,396
+Ah, tá. Agora vai ficar certo.
+
+162
+00:08:22,936 --> 00:08:24,476
+Tem um storyboardzinho aqui.
+
+163
+00:08:25,656 --> 00:08:27,776
+Beleza, vou deixar ele terminar aqui pra gente.
+
+164
+00:08:34,524 --> 00:08:37,924
+Está gerando, gerando cena 4, gerando cena 6, gerando cena 8.
+
+165
+00:08:39,548 --> 00:08:40,888
+Algumas ele já até terminou.
+
+166
+00:08:41,588 --> 00:08:43,268
+Eu quero ver onde que ele tá salvando.
+
+167
+00:08:43,528 --> 00:08:44,288
+Perguntar pra ele aqui.
+
+168
+00:08:46,908 --> 00:08:48,988
+Deixa eu ver, já acabou todas, ele vai me falar aqui agora.
+
+169
+00:08:49,968 --> 00:08:51,428
+Que eu vou puxar aqui para o...
+
+170
+00:08:52,988 --> 00:08:53,808
+para a área de trabalho.
+
+171
+00:08:55,548 --> 00:08:56,948
+E a gente vai visualizar essas imagens.
+
+172
+00:08:57,628 --> 00:09:01,528
+Uma vez que a gente tem as imagens, aí a gente pode fazer os vídeos.
+
+173
+00:09:02,028 --> 00:09:02,668
+Lembrando que...
+
+174
+00:09:05,148 --> 00:09:10,268
+Aqui eu estou usando, vamos ver aqui onde ele colocou o modelo, qual a API para ativar.
+
+175
+00:09:11,228 --> 00:09:13,268
+Aqui errada, não é local.
+
+176
+00:09:14,908 --> 00:09:16,988
+Você já gerou as imagens?
+
+177
+00:09:18,332 --> 00:09:20,052
+Coloque na área de trabalho.
+
+178
+00:09:22,812 --> 00:09:25,032
+junto com os SHs.
+
+179
+00:09:28,700 --> 00:09:29,680
+Não, não foram geradas.
+
+180
+00:09:29,700 --> 00:09:32,920
+Temos as nove camadas que falharam no R401 da API.
+
+181
+00:09:33,580 --> 00:09:35,700
+Tá, eu vou ter que entrar num arquivinho aqui,
+
+182
+00:09:36,260 --> 00:09:36,840
+chamar env.
+
+183
+00:09:38,428 --> 00:09:41,148
+Vocês estão olhando, às vezes estão falando, nossa, isso não é pra mim, é muito avançado.
+
+184
+00:09:41,208 --> 00:09:43,468
+Cara, não é tão avançado quanto parece.
+
+185
+00:09:44,568 --> 00:09:46,188
+Só que eu preciso tampar aqui.
+
+186
+00:09:48,220 --> 00:09:48,720
+Porque...
+
+187
+00:09:52,220 --> 00:09:53,260
+Senão fica gravado.
+
+188
+00:09:55,676 --> 00:09:56,256
+A chave API.
+
+189
+00:09:58,300 --> 00:10:01,280
+Vou criar uma nova aqui, vou chamar ela de chave.
+
+190
+00:10:02,908 --> 00:10:04,568
+Vídeo e imagem.
+
+191
+00:10:06,908 --> 00:10:09,188
+Hum, é porque eu tinha deletado.
+
+192
+00:10:12,508 --> 00:10:15,528
+Estava trabalhando no sistema esses dias pra trás e eu tinha deletado ela.
+
+193
+00:10:15,628 --> 00:10:16,908
+Aí eu peguei uma nova aqui agora.
+
+194
+00:10:17,148 --> 00:10:18,288
+Lembrei porque que não tá dando.
+
+195
+00:10:18,508 --> 00:10:20,328
+Ah, agora sim.
+
+196
+00:10:21,148 --> 00:10:24,628
+Eu deletei porque tinha vazado no último vídeo, né?
+
+197
+00:10:24,788 --> 00:10:25,908
+Agora eu vou salvar aqui.
+
+198
+00:10:26,688 --> 00:10:28,708
+Com muita calma pra não vazar de novo.
+
+199
+00:10:30,652 --> 00:10:31,672
+que fazer com o carro esse aqui.
+
+200
+00:10:34,204 --> 00:10:35,584
+Agora eu vou colocar ela aqui em cima.
+
+201
+00:10:38,716 --> 00:10:39,516
+Para vocês, de novo.
+
+202
+00:10:42,524 --> 00:10:43,624
+E vou pedir para ele fazer agora.
+
+203
+00:10:44,860 --> 00:10:46,080
+Pronto, pode gerar.
+
+204
+00:10:47,836 --> 00:10:49,976
+Tem um arquivo onde a gente guarda as chaves de API
+
+205
+00:10:50,356 --> 00:10:51,856
+e aí elas não ficam visíveis.
+
+206
+00:10:52,216 --> 00:10:54,216
+Só que eu deixei visível na última aula
+
+207
+00:10:54,216 --> 00:10:55,556
+e aí ficou gravado.
+
+208
+00:10:55,916 --> 00:10:58,196
+E sempre que isso acontece é bom deletar a chave
+
+209
+00:10:58,196 --> 00:10:59,756
+e pegar uma chave nova, porque senão é
+
+210
+00:11:00,296 --> 00:11:01,296
+falha de segurança, né?
+
+211
+00:11:03,132 --> 00:11:06,432
+Então beleza, aqui atualizado, ele vai gerar aqui as imagens para a gente agora.
+
+212
+00:11:06,512 --> 00:11:09,672
+Eu não coloquei ele no modo Dangerously.
+
+213
+00:11:10,072 --> 00:11:12,412
+Aí ele fica me pedindo permissão para fazer as coisas.
+
+214
+00:11:12,512 --> 00:11:14,292
+Cada agente aqui vai me pedir uma permissão.
+
+215
+00:11:15,964 --> 00:11:16,984
+Esqueci de fazer isso.
+
+216
+00:11:18,236 --> 00:11:18,956
+Deixa ele ir, então.
+
+217
+00:11:19,796 --> 00:11:20,196
+Vai.
+
+218
+00:11:21,316 --> 00:11:22,416
+Serão nove agentes.
+
+219
+00:11:22,596 --> 00:11:24,356
+Ele está me perguntando, posso rodar?
+
+220
+00:11:24,376 --> 00:11:25,296
+Pode, pode rodar?
+
+221
+00:11:25,316 --> 00:11:25,676
+Pode.
+
+222
+00:11:26,076 --> 00:11:28,756
+Para fazer todas as imagens aqui do storyboard para a gente.
+
+223
+00:11:28,996 --> 00:11:29,396
+Pode.
+
+224
+00:11:33,244 --> 00:11:33,744
+Pode.
+
+225
+00:11:35,516 --> 00:11:36,276
+Até dar nove, hein?
+
+226
+00:11:39,580 --> 00:11:42,300
+Isso aqui tudo são agentes trabalhando aqui para a gente.
+
+227
+00:11:42,380 --> 00:11:43,520
+Deixa eles trabalharem aí.
+
+228
+00:11:48,092 --> 00:11:52,072
+Beleza, gerando as cenas, 1, 3, 5, 2, 4.
+
+229
+00:11:52,972 --> 00:11:54,732
+O que ele fez nessa ordem, eu não sei.
+
+230
+00:11:56,828 --> 00:11:58,228
+Sim, e sempre permitir.
+
+231
+00:12:01,564 --> 00:12:05,584
+Cenas 1 a 5 geradas, vou baixar essas imagens para a área de trabalho e aguardar o restante.
+
+232
+00:12:09,308 --> 00:12:10,508
+Deixa eu ver se a gente já tem elas aqui.
+
+233
+00:12:11,788 --> 00:12:13,408
+Opa, sumiu a área de trabalho para vocês?
+
+234
+00:12:13,788 --> 00:12:15,168
+Não, não temos aqui ainda não.
+
+235
+00:12:15,768 --> 00:12:16,328
+Fecha essa.
+
+236
+00:12:20,284 --> 00:12:21,284
+Usando o Seedream, tá vendo?
+
+237
+00:12:22,652 --> 00:12:23,592
+Gerando as imagens.
+
+238
+00:12:24,924 --> 00:12:29,064
+Download das cenas em andamento, vou verificar as cenas 6 e 9 que ainda estão pendentes.
+
+239
+00:12:29,644 --> 00:12:32,184
+Todas as 9 cenas geradas, baixando as cenas agora.
+
+240
+00:12:33,660 --> 00:12:35,600
+Está baixando aqui para a gente ver ela na área de trabalho.
+
+241
+00:12:42,940 --> 00:12:45,500
+Se vocês quiserem, vocês podem usar o que eu já ensinei pra vocês
+
+242
+00:12:45,500 --> 00:12:49,720
+e gerar cada cena dessa manualmente no VEL, no CLING,
+
+243
+00:12:50,240 --> 00:12:51,780
+pode gerar no FreePIC também.
+
+244
+00:12:52,140 --> 00:12:55,460
+Você pode, inclusive, no FreePIC, né, enquanto ele tá aqui,
+
+245
+00:12:55,560 --> 00:12:58,020
+deixa eu mostrar isso pra vocês também, que é legal.
+
+246
+00:12:58,120 --> 00:12:59,720
+Outros jeitos de fazer também.
+
+247
+00:13:01,212 --> 00:13:03,652
+Deixa eu fechar essa pagininha aqui, vou abrir essa.
+
+248
+00:13:04,732 --> 00:13:06,072
+Espera aí que vocês estão vendo...
+
+249
+00:13:11,164 --> 00:13:19,284
+Então, posso fechar aqui, posso fechar aqui, aqui também, aqui também, aqui também, aqui também, aqui também, aqui também, beleza.
+
+250
+00:13:19,704 --> 00:13:23,224
+E a gente deixa, vou trazer aqui para vocês, olha, se você vai no Freepeek.
+
+251
+00:13:27,260 --> 00:13:27,680
+Space.
+
+252
+00:13:29,276 --> 00:13:29,796
+Novo espaço.
+
+253
+00:13:33,980 --> 00:13:37,920
+Você também pode subir a mídia aqui, vou fazer um upload aqui para a gente.
+
+254
+00:13:39,868 --> 00:13:40,708
+carregar a mídia.
+
+255
+00:13:43,644 --> 00:13:45,624
+Ó, vou carregar aqui o nosso storyboard.
+
+256
+00:13:52,604 --> 00:13:54,204
+Não, isso não é a IOX não, Magno.
+
+257
+00:13:54,244 --> 00:13:55,584
+Isso aqui são os meus agentes mesmo.
+
+258
+00:13:57,820 --> 00:13:58,360
+Beleza aí, ó.
+
+259
+00:13:58,740 --> 00:14:00,400
+Tenho aqui, eu posso fazer o quê?
+
+260
+00:14:00,500 --> 00:14:02,560
+Eu posso puxar várias imagens aqui, ó.
+
+261
+00:14:02,700 --> 00:14:03,020
+Uma.
+
+262
+00:14:04,828 --> 00:14:05,368
+Deixa ela ali.
+
+263
+00:14:06,488 --> 00:14:06,848
+Duas.
+
+264
+00:14:08,476 --> 00:14:10,336
+Três. Vou fazer com três. Podia puxar as nove.
+
+265
+00:14:10,416 --> 00:14:10,856
+Falar aqui, ó.
+
+266
+00:14:12,636 --> 00:14:15,696
+Gere uma imagem da cena...
+
+267
+00:14:17,564 --> 00:14:18,424
+Aí o que eu vou fazer aqui?
+
+268
+00:14:20,636 --> 00:14:26,636
+Vou colocar aqui para usar o Nanobanana, vou usar o Nanobanana aqui, quero ela em 16 por 9.
+
+269
+00:14:26,856 --> 00:14:31,296
+Vou copiar o mesmo prompt aqui, só vou trocar aqui para a cena 2.
+
+270
+00:14:31,676 --> 00:14:33,056
+Opa, é neta.
+
+271
+00:14:34,652 --> 00:14:35,192
+Cena 2.
+
+272
+00:14:36,956 --> 00:14:37,936
+Aí eu coloco aqui também.
+
+273
+00:14:39,708 --> 00:14:40,588
+Nanobanana.
+
+274
+00:14:42,076 --> 00:14:42,856
+16 por 9.
+
+275
+00:14:43,776 --> 00:14:45,396
+Aqui eu coloco sena 3.
+
+276
+00:14:46,876 --> 00:14:47,296
+Trinês.
+
+277
+00:14:49,724 --> 00:14:53,744
+nano banana, podia usar outras também, 6 por 9.
+
+278
+00:14:54,224 --> 00:14:58,704
+Beleza, eu tenho as três aqui agora, dou um play aqui, play aqui, play aqui.
+
+279
+00:14:59,004 --> 00:15:00,584
+O que é que tem de diferente, tá?
+
+280
+00:15:00,884 --> 00:15:04,724
+Pode ser que a consistência não seja exata, porque o prompt que eu vou fazer,
+
+281
+00:15:04,784 --> 00:15:05,644
+eu fiz um prompt...
+
+282
+00:15:07,772 --> 00:15:10,512
+Tosquinho aqui, né? Só falei pra ele olhar a cena e gerar a cena.
+
+283
+00:15:11,252 --> 00:15:15,892
+Aí o ideal também, um outro jeito de fazer isso é subir de novo a imagem aqui, ó.
+
+284
+00:15:16,012 --> 00:15:17,012
+Então carrega ela de novo.
+
+285
+00:15:20,284 --> 00:15:21,044
+Deixa esse ali fazendo.
+
+286
+00:15:21,284 --> 00:15:23,164
+Ele já até tá pegando as cenas, tá vendo?
+
+287
+00:15:23,964 --> 00:15:26,744
+Ele tá pegando as cenas aqui e eu vou transformar essas cenas agora.
+
+288
+00:15:27,464 --> 00:15:29,804
+Esse aqui, tá vendo? Já não teve tanta consistência.
+
+289
+00:15:29,804 --> 00:15:30,884
+Ele fez cada um de um jeito.
+
+290
+00:15:31,584 --> 00:15:34,964
+Mas eu posso pegar aqui também, se eu quiser, e colocar gerar...
+
+291
+00:15:38,268 --> 00:15:39,448
+Assistente...
+
+292
+00:15:41,436 --> 00:15:44,456
+E aí eu coloco aqui, gere um prompt.
+
+293
+00:15:46,828 --> 00:15:49,088
+detalhado da Sena 01.
+
+294
+00:15:49,748 --> 00:15:52,268
+Está no GPT Mini, posso colocar o que eu quiser,
+
+295
+00:15:52,368 --> 00:15:54,428
+por exemplo, colocar o Gemini 3 Pro aqui,
+
+296
+00:15:54,508 --> 00:15:55,468
+gasta mais crédito.
+
+297
+00:15:56,604 --> 00:16:00,864
+Aí eu posso dar um Ctrl C e um Ctrl V.
+
+298
+00:16:00,904 --> 00:16:01,984
+Aí ele pega de novo, tá vendo?
+
+299
+00:16:02,164 --> 00:16:06,144
+Aí eu dou Ctrl V de novo, coloco aqui cena 3.
+
+300
+00:16:07,772 --> 00:16:09,272
+Coloco aqui, cena 2.
+
+301
+00:16:14,108 --> 00:16:15,868
+Aí agora eu dou um play, play.
+
+302
+00:16:17,436 --> 00:16:18,056
+Aí o que ele vai fazer?
+
+303
+00:16:18,116 --> 00:16:20,796
+Ele vai criar um prompt para cada uma dessas cenas.
+
+304
+00:16:21,356 --> 00:16:22,876
+Depois eu transformo...
+
+305
+00:16:22,876 --> 00:16:24,016
+Eita, meu cursor aqui.
+
+306
+00:16:24,176 --> 00:16:26,156
+Eu transformo o prompt em imagem.
+
+307
+00:16:26,336 --> 00:16:27,476
+Também dá para fazer assim, tá?
+
+308
+00:16:28,036 --> 00:16:29,296
+Agora eu posso fazer o que aqui?
+
+309
+00:16:29,416 --> 00:16:30,756
+Puxar de imagem para imagem.
+
+310
+00:16:31,316 --> 00:16:32,176
+Gerar uma imagem.
+
+311
+00:16:32,276 --> 00:16:32,796
+Eu vou falar.
+
+312
+00:16:34,216 --> 00:16:36,156
+Transforme a cena.
+
+313
+00:16:37,628 --> 00:16:44,008
+em um frame de um filme hiperrealista.
+
+314
+00:16:44,128 --> 00:16:47,348
+Mantenha enquadramento e
+
+315
+00:16:50,268 --> 00:16:50,408
+características.
+
+316
+00:16:55,804 --> 00:16:56,144
+Do carro.
+
+317
+00:16:57,596 --> 00:16:59,816
+Nessa daqui, ele já tem...
+
+318
+00:17:02,064 --> 00:17:04,264
+características aqui, tá vendo? Mas olha, eu quero que vocês reparem
+
+319
+00:17:04,264 --> 00:17:06,424
+isso aqui, ó. Eu tenho que ficar setando um por um.
+
+320
+00:17:06,524 --> 00:17:08,024
+Isso aqui, pra mim, é o que me quebra.
+
+321
+00:17:08,284 --> 00:17:10,184
+De ficar usando ferramenta de puxar e arrastar.
+
+322
+00:17:10,404 --> 00:17:11,484
+Eu tenho usado muito
+
+323
+00:17:13,004 --> 00:17:14,504
+prompt, texto e áudio
+
+324
+00:17:14,504 --> 00:17:15,444
+falando direto ali.
+
+325
+00:17:16,956 --> 00:17:20,116
+Pior que para fazer essas coisas precisa de um PC com placa de vídeo potente.
+
+326
+00:17:20,136 --> 00:17:20,956
+Não precisa, João.
+
+327
+00:17:21,456 --> 00:17:23,136
+Não precisa, falando de verdade mesmo.
+
+328
+00:17:24,412 --> 00:17:27,352
+O que você acha que eu estou fazendo aqui não é o que eu estou fazendo.
+
+329
+00:17:27,372 --> 00:17:30,852
+Eu não tenho a inteligência artificial dentro do meu PC.
+
+330
+00:17:31,012 --> 00:17:31,852
+Ela está na nuvem.
+
+331
+00:17:31,952 --> 00:17:33,852
+O que eu tenho no meu PC são os agentes.
+
+332
+00:17:34,772 --> 00:17:36,292
+Assiste o Atlas que lá eu vou explicar.
+
+333
+00:17:36,492 --> 00:17:39,432
+Não precisa de um PC super potente para fazer isso aqui.
+
+334
+00:17:39,972 --> 00:17:42,772
+Olha só, ele fez, mas ele colocou a setinha.
+
+335
+00:17:42,852 --> 00:17:47,532
+Eu teria que colocar um prompt negativo para ele tirar essa setinha daqui.
+
+336
+00:17:48,892 --> 00:17:49,932
+Mas eu posso pegar aqui agora?
+
+337
+00:17:52,796 --> 00:17:53,776
+Colar o mesmo prompt.
+
+338
+00:17:54,276 --> 00:17:56,056
+Opa, peraí que ele puxou um textinho.
+
+339
+00:17:56,716 --> 00:17:58,876
+Cola o mesmo prompt e coloca aqui, ó.
+
+340
+00:17:59,596 --> 00:18:00,556
+Carro preto.
+
+341
+00:18:01,096 --> 00:18:03,676
+Só que vocês vão ver que ele perde a...
+
+342
+00:18:07,740 --> 00:18:08,540
+A consistência.
+
+343
+00:18:08,600 --> 00:18:09,060
+Por quê?
+
+344
+00:18:09,960 --> 00:18:11,560
+Esse cara não sabe desse cara.
+
+345
+00:18:11,880 --> 00:18:13,740
+É diferente do que a gente tá fazendo aqui, ó.
+
+346
+00:18:14,360 --> 00:18:16,500
+Que eles já sabem, ele já gerou pra mim, tá no desktop.
+
+347
+00:18:16,620 --> 00:18:17,440
+Deixa eu ver se tá aqui.
+
+348
+00:18:23,900 --> 00:18:24,260
+western
+
+349
+00:18:26,972 --> 00:18:30,932
+Olha só a consistência, eu quero que vocês reparem na consistência das imagens.
+
+350
+00:18:32,924 --> 00:18:34,324
+Estão vendo a consistência de imagem aqui?
+
+351
+00:18:37,116 --> 00:18:39,336
+Isso é possível porque eu estou trabalhando com agentes
+
+352
+00:18:39,336 --> 00:18:43,236
+e o agente sabe, porque foi o mesmo agente que gerou todas as imagens.
+
+353
+00:18:43,756 --> 00:18:45,976
+Então ele vai manter a mesma consistência.
+
+354
+00:18:46,156 --> 00:18:47,136
+É o mesmo carro.
+
+355
+00:18:48,732 --> 00:18:49,192
+Pegaram a ideia?
+
+356
+00:18:57,404 --> 00:18:59,324
+Para os agentes não precisa de PC potente.
+
+357
+00:19:01,500 --> 00:19:02,420
+O que a galera está perguntando aí?
+
+358
+00:19:03,020 --> 00:19:06,340
+Aqui agora eu tenho as imagens, vou carregá-las aqui para vocês verem.
+
+359
+00:19:07,320 --> 00:19:09,100
+Olha que beleza de imagens, hein?
+
+360
+00:19:11,804 --> 00:19:13,664
+essa daqui ficou horrível
+
+361
+00:19:13,664 --> 00:19:15,444
+tem que trabalhar essa aqui
+
+362
+00:19:15,444 --> 00:19:17,284
+vou falar qual é a A
+
+363
+00:19:17,284 --> 00:19:18,904
+essa daqui, essa é A3
+
+364
+00:19:18,904 --> 00:19:20,984
+cena 3, deu muito errado aqui
+
+365
+00:19:22,204 --> 00:19:24,224
+Ó, interessante, olha a consistência aqui, olha.
+
+366
+00:19:24,344 --> 00:19:27,084
+Ali tá R7, aqui tá RT.
+
+367
+00:19:27,364 --> 00:19:31,204
+Então perdeu um pouco de consistência, tem que pedir pra ele ajustar e fazer edição.
+
+368
+00:19:31,264 --> 00:19:35,064
+O Nano Banana é o melhor pra fazer edição, melhor do que o Seedream, tá?
+
+369
+00:19:35,184 --> 00:19:36,284
+Mas dá pra fazer no Seedream também.
+
+370
+00:19:36,644 --> 00:19:38,464
+Aí aqui uma outra cena.
+
+371
+00:19:41,084 --> 00:19:44,284
+Eu tô achando essa fumaça vindo de um jeito errado também.
+
+372
+00:19:44,484 --> 00:19:48,384
+Se ele tá derrapando daqui, a fumaça tinha que estar vindo pra cá, e não pra cá.
+
+373
+00:19:49,084 --> 00:19:51,484
+Tá muito geométrico ali.
+
+374
+00:19:52,064 --> 00:19:53,424
+Umas pedrinhas voando.
+
+375
+00:19:55,324 --> 00:19:56,984
+Aí aqui tem um cara, aqui não tem ninguém
+
+376
+00:19:56,984 --> 00:19:59,324
+e a roda tá andando, olha só.
+
+377
+00:19:59,404 --> 00:20:01,144
+Tá um pouquinho desfocado aqui também.
+
+378
+00:20:02,364 --> 00:20:05,024
+Isso aqui é tudo questão de prompt, tem que melhorar o prompt dele.
+
+379
+00:20:06,748 --> 00:20:07,128
+Beleza?
+
+380
+00:20:08,860 --> 00:20:13,020
+Mas para fazer alguns testes já é interessante, vocês já viram a diferença de resultado.
+
+381
+00:20:13,100 --> 00:20:14,140
+Vamos ver aqui no...
+
+382
+00:20:15,836 --> 00:20:16,496
+direto no...
+
+383
+00:20:18,492 --> 00:20:19,812
+Aqui a gente está com uma estética diferente,
+
+384
+00:20:20,012 --> 00:20:21,132
+porque a gente não pediu, né?
+
+385
+00:20:21,192 --> 00:20:21,892
+Orange, teal.
+
+386
+00:20:23,612 --> 00:20:24,772
+Então já não tá aqui igual.
+
+387
+00:20:25,052 --> 00:20:26,492
+Aqui ele tá colocando a setinha.
+
+388
+00:20:26,692 --> 00:20:30,172
+Ou seja, nesse caso aqui eu vou ter que escrever o prompt certinho,
+
+389
+00:20:30,172 --> 00:20:31,392
+seguindo o passo a passo.
+
+390
+00:20:31,412 --> 00:20:32,752
+Eu não vou fazer isso aqui agora não, tá?
+
+391
+00:20:34,236 --> 00:20:36,656
+Para os agentes no Precê, precisa de IA paga?
+
+392
+00:20:37,576 --> 00:20:40,256
+Sim e não. Dá para fazer com IA gratuita também, mas...
+
+393
+00:20:41,468 --> 00:20:44,068
+competir as gratuitas contra as pagas.
+
+394
+00:20:45,404 --> 00:20:47,284
+vai ficar no chinelo, de verdade.
+
+395
+00:20:50,204 --> 00:20:51,604
+Mas no Atlas eu vou mostrar pra vocês.
+
+396
+00:20:53,164 --> 00:20:54,864
+Ó, beleza, então...
+
+397
+00:20:56,060 --> 00:20:57,340
+Dá pra fazer por aqui também.
+
+398
+00:20:57,560 --> 00:21:00,320
+Aqui é mais manual, você vai pegando, puxando, arrastando.
+
+399
+00:21:01,060 --> 00:21:01,540
+Funciona.
+
+400
+00:21:02,080 --> 00:21:05,460
+O melhor é fazer desse jeito aqui, porque você tem os prompts, tá vendo?
+
+401
+00:21:05,980 --> 00:21:09,000
+Os prompts estão saindo ali da mesma ideia.
+
+402
+00:21:09,440 --> 00:21:13,100
+Você pode também juntar todos eles em um mesmo prompt.
+
+403
+00:21:14,588 --> 00:21:16,288
+Tem vários jeitos, né, de fazer isso.
+
+404
+00:21:16,328 --> 00:21:18,068
+Vou fazer um diferente aqui pra vocês verem, ó.
+
+405
+00:21:18,088 --> 00:21:19,528
+Vou só cortar essas linhas aqui.
+
+406
+00:21:19,948 --> 00:21:22,028
+Um outro jeito é você pegar aqui, ó,
+
+407
+00:21:22,668 --> 00:21:24,628
+um único assistente e falar assim, ó,
+
+408
+00:21:25,208 --> 00:21:26,948
+gere os nove prompts.
+
+409
+00:21:28,412 --> 00:21:37,072
+das cenas, para cenas de um filme hiperrealista, Orange and Teal.
+
+410
+00:21:38,556 --> 00:21:40,496
+Aí o que ele vai fazer aqui? Ele vai gerar
+
+411
+00:21:40,496 --> 00:21:42,356
+os nove prompts, depois
+
+412
+00:21:42,356 --> 00:21:44,456
+que ele gerar os nove prompts, eu peço
+
+413
+00:21:44,456 --> 00:21:44,936
+pra ele
+
+414
+00:21:46,456 --> 00:21:47,736
+destrinchar os nove prompts.
+
+415
+00:21:49,180 --> 00:21:51,120
+aqui em cada campo de texto.
+
+416
+00:21:52,348 --> 00:21:55,048
+Aí ele faz em cada campo de texto um novo prompt.
+
+417
+00:21:56,700 --> 00:21:58,880
+Ou seja, é um promptzão com todos os prompts
+
+418
+00:21:58,880 --> 00:22:02,160
+e depois ele divide cada prompt para cada área.
+
+419
+00:22:02,740 --> 00:22:05,280
+É uma outra técnica também para ir mais rápido aqui.
+
+420
+00:22:05,380 --> 00:22:05,660
+Está vendo?
+
+421
+00:22:07,004 --> 00:22:10,724
+Então, ele tem o prompt 1, prompt 2, prompt 3, prompt 4, prompt 5.
+
+422
+00:22:10,744 --> 00:22:12,564
+Isso é bom pra manter a consistência também,
+
+423
+00:22:13,004 --> 00:22:19,104
+porque aí ele foi o mesmo, a mesma conversa, o mesmo modelo,
+
+424
+00:22:19,224 --> 00:22:24,024
+na mesma conversa, com o mesmo contexto, gerando as cenas.
+
+425
+00:22:24,144 --> 00:22:27,184
+Você pode até, se quiser, já puxar direto assim, ó.
+
+426
+00:22:31,740 --> 00:22:32,180
+Ou prompt.
+
+427
+00:22:34,556 --> 00:22:35,176
+Aí eu colo aqui.
+
+428
+00:22:35,296 --> 00:22:37,976
+Vou deixar quadradinho mesmo só pra fazer rápido pra vocês verem.
+
+429
+00:22:38,056 --> 00:22:38,836
+Aí eu venho cá.
+
+430
+00:22:40,284 --> 00:22:40,804
+Prompt 2.
+
+431
+00:22:41,864 --> 00:22:43,004
+Deixa ele fazer o 2.
+
+432
+00:22:43,344 --> 00:22:44,344
+Já puxo aqui.
+
+433
+00:22:46,076 --> 00:22:46,496
+virar vídeo.
+
+434
+00:22:48,188 --> 00:22:50,588
+Esse aqui eu vou fazer um vídeo no meio também, prompt 3, beleza?
+
+435
+00:22:52,092 --> 00:22:54,852
+E aí, olha só, ele já pega, já ficou melhor, tá vendo?
+
+436
+00:22:55,012 --> 00:22:57,032
+Vamos ver se ele vai manter a consistência, tá vendo?
+
+437
+00:22:57,172 --> 00:22:59,692
+Mesma consistência no carro aqui também.
+
+438
+00:23:00,212 --> 00:23:01,752
+Porque, na verdade, qual que é o ponto?
+
+439
+00:23:01,812 --> 00:23:06,992
+Se você faz assim, cada linha de raciocínio dessa vai ter seu próprio contexto.
+
+440
+00:23:07,472 --> 00:23:10,572
+Se você coloca tudo no mesmo, aí...
+
+441
+00:23:12,924 --> 00:23:14,324
+É o mesmo contexto para a Mesmear.
+
+442
+00:23:14,364 --> 00:23:16,504
+Ela tende a manter mais consistência para você também.
+
+443
+00:23:16,704 --> 00:23:19,224
+Se você trabalha com imagens, melhor ainda, né?
+
+444
+00:23:19,304 --> 00:23:21,404
+Que eu posso pegar essa imagem aqui agora e gerar um vídeo dela.
+
+445
+00:23:23,516 --> 00:23:24,716
+Coloco aqui um carro.
+
+446
+00:23:27,580 --> 00:23:28,620
+Drift Car.
+
+447
+00:23:30,844 --> 00:23:32,724
+Não vou nem colocar o movimento aqui não.
+
+448
+00:23:32,784 --> 00:23:33,404
+Ou então...
+
+449
+00:23:35,612 --> 00:23:37,892
+Não é um português, mas um carro deslizando.
+
+450
+00:23:39,996 --> 00:23:40,436
+É...
+
+451
+00:23:43,676 --> 00:23:45,476
+Vamos usar o clink, que o clink tá brabo.
+
+452
+00:23:45,536 --> 00:23:46,896
+Deixa eu ver a hora. Beleza.
+
+453
+00:23:48,828 --> 00:23:50,528
+Seis segundos, vou deixar assim mesmo.
+
+454
+00:23:51,168 --> 00:23:54,188
+Aí aqui ele vai pegar essa imagem de referência como First Frame
+
+455
+00:23:54,188 --> 00:23:56,488
+e vai movimentar ela.
+
+456
+00:23:56,748 --> 00:23:58,008
+E o nosso videozinho aqui.
+
+457
+00:23:59,644 --> 00:24:01,104
+aqui ele já...
+
+458
+00:24:01,704 --> 00:24:03,244
+Isso aqui, olha, quando você faz
+
+459
+00:24:03,244 --> 00:24:04,884
+text to video, text
+
+460
+00:24:04,884 --> 00:24:07,004
+to video, tá vendo? Do texto
+
+461
+00:24:07,004 --> 00:24:09,464
+pro vídeo. Você tem
+
+462
+00:24:09,464 --> 00:24:11,124
+esse tipo de coisa, você se perde no meio.
+
+463
+00:24:11,424 --> 00:24:13,384
+Agora, vocês vão ver aqui, ó, image to
+
+464
+00:24:13,384 --> 00:24:15,324
+video, vocês vão ver que a gente vai
+
+465
+00:24:15,324 --> 00:24:17,404
+manter essa ideia, beleza, gostei,
+
+466
+00:24:17,444 --> 00:24:19,504
+ideia interessante, ele vai manter essa ideia
+
+467
+00:24:19,504 --> 00:24:21,564
+aqui. Vamos ver se ele vai seguir direitinho,
+
+468
+00:24:21,644 --> 00:24:23,284
+né? Você vai deixar na mão aqui. Vou mostrar
+
+469
+00:24:23,284 --> 00:24:25,304
+outra IA também que faz isso, que
+
+470
+00:24:25,304 --> 00:24:27,844
+tem sido a favorita
+
+471
+00:24:27,844 --> 00:24:29,044
+aí do momento, que é o Kling.
+
+472
+00:24:32,412 --> 00:24:36,792
+Para poder fechar aqui o ponto com vocês também, enquanto ele está...
+
+473
+00:24:37,312 --> 00:24:38,632
+Acho que vai ser rápido, na verdade.
+
+474
+00:24:38,672 --> 00:24:41,692
+Deixa ele acabar que eu amarro essa aula antes de voltar para a outra aula.
+
+475
+00:24:46,620 --> 00:24:47,660
+Aqui vocês entenderam, né?
+
+476
+00:24:48,220 --> 00:24:51,000
+Eu coloquei os agentes, eles já geraram todas essas imagens,
+
+477
+00:24:51,020 --> 00:24:54,100
+agora eu posso pegar essas imagens para fazer image to video.
+
+478
+00:24:54,220 --> 00:24:57,180
+Eu vou mostrar para vocês como que a gente faz isso na próxima aula,
+
+479
+00:24:57,280 --> 00:24:59,300
+eu só quero fechar aqui, faltam 54 segundos,
+
+480
+00:25:00,120 --> 00:25:04,220
+mas na próxima aula eu vou mostrar para vocês o final do fluxo,
+
+481
+00:25:04,220 --> 00:25:06,740
+do processo ali com o storyboard,
+
+482
+00:25:07,000 --> 00:25:10,340
+como que você vai gerando os vídeos, fazendo o teste,
+
+483
+00:25:10,500 --> 00:25:13,340
+e vou pontuar também um pouco sobre edição,
+
+484
+00:25:13,380 --> 00:25:14,620
+a gente já falou, mas eu vou trazer.
+
+485
+00:25:14,620 --> 00:25:19,580
+Olha, ele já manteve a consistência, eu não gostei do movimento que ele fez,
+
+486
+00:25:19,660 --> 00:25:21,420
+tá meio que em slow motion aqui.
+
+487
+00:25:21,660 --> 00:25:26,380
+Como eu não descrevi como que era pra ser o movimento, ele tomou essa decisão.
+
+488
+00:25:26,700 --> 00:25:27,960
+Então eu tô trazendo aqui pra você de novo.
+
+489
+00:25:28,000 --> 00:25:31,520
+Se você não escreve o prompt exato, a IA decide por você.
+
+490
+00:25:31,600 --> 00:25:34,680
+Então aqui eu não coloquei, eu não segui a estrutura que eu ensinei pra vocês aqui.
+
+491
+00:25:35,280 --> 00:25:38,740
+Estrutura de prompts, estrutura avançada, a gente tem câmera e movimento,
+
+492
+00:25:38,980 --> 00:25:43,300
+sujeito e atributos, ação, ambiente, luz e atmosfera e estilo e referência.
+
+493
+00:25:43,300 --> 00:25:47,920
+Então, o legal é o quê? Puxar isso aqui pra lá e falar pra ele fazer o prompt assim, beleza?
+
+494
+00:25:48,340 --> 00:25:53,260
+Aqui eu só tô exemplificando mais o processo pra vocês do que querendo um resultado legal.
+
+495
+00:25:53,420 --> 00:25:54,640
+E eu até me perdi, cadê?
+
+496
+00:25:57,052 --> 00:26:03,132
+Mas, se vocês repararem, ele usou a imagem de referência, ele começou dela e gerou pra gente aqui.
+
+497
+00:26:03,232 --> 00:26:06,692
+Só que ele tá fazendo ela em slow motion aqui nesse caso.
+
+498
+00:26:07,072 --> 00:26:08,852
+E o carro vira pro outro lado também, ó.
+
+499
+00:26:10,684 --> 00:26:12,684
+A física aqui tá comprometida.
+
+500
+00:26:13,224 --> 00:26:15,244
+Isso aqui é uma coisa que você vai gerando vários, tá?
+
+501
+00:26:16,164 --> 00:26:18,284
+Então, se você quer fazer bem feito, quer fazer dar certo,
+
+502
+00:26:18,324 --> 00:26:20,044
+você vai colocar vários do mesmo aqui, ó.
+
+503
+00:26:21,284 --> 00:26:22,844
+Mudando algumas variáveis do prompt.
+
+504
+00:26:23,564 --> 00:26:25,644
+E aí, a melhor você escolhe.
+
+505
+00:26:25,764 --> 00:26:27,344
+Uma dica também é você fazer o quê?
+
+506
+00:26:27,384 --> 00:26:28,964
+Você clica aqui e já vai aqui, ó.
+
+507
+00:26:30,268 --> 00:26:31,408
+Coloca já vários de uma vez.
+
+508
+00:26:35,260 --> 00:26:37,880
+Gasta mais crédito, né? Mas você pode fazer, olha lá, ele já vai...
+
+509
+00:26:39,324 --> 00:26:40,324
+Gera um monte pra você.
+
+510
+00:26:40,824 --> 00:26:41,224
+Beleza?
+
+511
+00:26:42,908 --> 00:26:45,868
+que agora ele vai fazer esse tanto aí pra gente também.
+
+512
+00:26:47,196 --> 00:26:51,396
+O farol apaga, tem erros de consistência aqui no vídeo.
+
+513
+00:26:53,980 --> 00:26:55,560
+Aí aqui agora ele está gerando mais.
+
+514
+00:26:56,956 --> 00:26:57,836
+Deixa ele gerando aqui.
+
+515
+00:26:57,916 --> 00:26:59,676
+Vou fechar essa aula aqui com vocês.
+
+516
+00:26:59,876 --> 00:27:04,216
+E na próxima eu quero amarrar essa visão geral aqui do processo.
+
+517
+00:27:04,556 --> 00:27:06,316
+E a gente vai fazer mais alguns testes aqui.
+
+518
+00:27:06,456 --> 00:27:08,796
+Porque eu quero mostrar algumas ferramentas legais para vocês.
+
+519
+00:27:08,856 --> 00:27:10,436
+E o que é possível fazer com elas.
+
+520
+00:27:10,636 --> 00:27:15,476
+Para a gente fechar aqui nosso curso na parte gratuita.
+
+521
+00:27:15,476 --> 00:27:19,876
+Para a galera que assina, a gente vai continuar colocando conteúdos lá para vocês.
+
+522
+00:27:20,516 --> 00:27:21,396
+Nas trilhas.
+
+523
+00:27:21,496 --> 00:27:21,796
+Tá bom?
+
+524
+00:27:22,656 --> 00:27:23,096
+Mas...
+
+525
+00:27:23,096 --> 00:27:24,016
+Pô, falta...
+
+526
+00:27:24,016 --> 00:27:24,356
+Faltou?
+
+527
+00:27:25,596 --> 00:27:29,556
+60 segundos, dá vontade de ficar aqui enrolando vocês só pra gente finalizar com isso aqui pronto.
+
+528
+00:27:31,932 --> 00:27:36,432
+Deixa aqui os 40 segundos acabarem e a gente entra na próxima aula.
+
+529
+00:27:36,512 --> 00:27:39,772
+Enquanto isso, eu estou vendo o chat aqui de vocês, vocês falando aqui.
+
+530
+00:27:41,436 --> 00:27:43,796
+É porque é ruim abrir a janela e não fechar ela, né?
+
+531
+00:27:44,176 --> 00:27:45,876
+Abrir um contexto aqui e não fechar ele.
+
+532
+00:27:46,316 --> 00:27:47,296
+Quero fechar esse aqui.
+
+533
+00:27:47,876 --> 00:27:51,616
+Depois a gente vai voltar a falar aqui dessas ferramentas, mas já dá pra ver.
+
+534
+00:27:51,796 --> 00:27:53,336
+Já melhorou um pouco esse.
+
+535
+00:27:53,556 --> 00:27:54,976
+Ele ainda trouxe uma outra cena.
+
+536
+00:27:55,216 --> 00:27:57,196
+Nesse aqui, olha, gostei do drift desse.
+
+537
+00:27:57,436 --> 00:27:58,436
+O farol apaga também.
+
+538
+00:27:59,196 --> 00:28:00,516
+Nesse aqui ficou interessante.
+
+539
+00:28:00,536 --> 00:28:01,016
+Deixa eu ver.
+
+540
+00:28:01,516 --> 00:28:03,236
+Não, a física aqui tá toda errada.
+
+541
+00:28:05,020 --> 00:28:10,040
+Esse aqui sai da pista e depende da história que você está contando também, mas o farol também apaga ali.
+
+542
+00:28:12,060 --> 00:28:15,100
+Quando o farol fica apagando muito, o ideal é colocar no prompt.
+
+543
+00:28:15,600 --> 00:28:17,400
+Farol o tempo todo aceso.
+
+544
+00:28:17,780 --> 00:28:21,980
+Não coloca assim, o farol não apaga, porque aí aumenta a chance do farol apagar.
+
+545
+00:28:22,020 --> 00:28:26,600
+Coloca assim, ó, farol aceso persistentemente, alguma coisa assim.
+
+546
+00:28:27,360 --> 00:28:29,900
+Aqui ele teve outra, saiu da pista também.
+
+547
+00:28:31,900 --> 00:28:33,840
+Nossa, a física desse foi toda errada.
+
+548
+00:28:34,780 --> 00:28:38,240
+Mas você pode ir gerando vários e escolher aquele que ficou melhor.
+
+549
+00:28:38,320 --> 00:28:41,180
+Esse é um fluxo de trabalho com inteligência artificial.
+
+550
+00:28:41,600 --> 00:28:44,700
+De todos, o que mais funcionou parece que foi o primeiro mesmo.
+
+551
+00:28:46,140 --> 00:28:48,820
+Mesmo assim, não é nem que o farol apagou, né?
+
+552
+00:28:49,560 --> 00:28:52,980
+É porque ele parou de ficar na nossa cara também.
+
+553
+00:28:53,120 --> 00:28:54,560
+Tem que levar isso em consideração, ó.
+
+554
+00:28:55,360 --> 00:28:56,280
+Quando ele tampa.
+
+555
+00:28:56,280 --> 00:28:57,680
+Mas ainda assim tá um pouco estranho.
+
+556
+00:28:58,844 --> 00:29:00,504
+Legal? Então tem esse jeito
+
+557
+00:29:00,504 --> 00:29:02,564
+de fazer manual, tem o jeito de fazer com os agentes
+
+558
+00:29:02,564 --> 00:29:04,084
+também, são vários fluxos
+
+559
+00:29:04,084 --> 00:29:06,484
+diferentes. Eu entendo o valor de fazer assim,
+
+560
+00:29:06,964 --> 00:29:08,724
+principalmente quando está trabalhando em equipe
+
+561
+00:29:08,724 --> 00:29:10,604
+também, porque a equipe pode ver
+
+562
+00:29:10,604 --> 00:29:12,124
+o seu caminho.
+
+563
+00:29:12,624 --> 00:29:13,824
+Então você tem o histórico aqui.
+
+564
+00:29:14,324 --> 00:29:16,404
+Então, ah, primeiro ele pegou aqui o
+
+565
+00:29:16,404 --> 00:29:18,504
+storyboard, gerou os prompts,
+
+566
+00:29:18,804 --> 00:29:19,984
+depois de gerar os prompts,
+
+567
+00:29:20,264 --> 00:29:22,704
+ele pegou uma imagem, gerou várias imagens,
+
+568
+00:29:22,704 --> 00:29:24,324
+depois ele escolheu uma imagem,
+
+569
+00:29:24,484 --> 00:29:26,284
+continuou trabalhando nela, entendeu? Então,
+
+570
+00:29:26,304 --> 00:29:28,444
+isso aqui é bom por causa disso. Os agentes
+
+571
+00:29:28,444 --> 00:29:30,444
+são bons pela velocidade, mas você tem
+
+572
+00:29:30,444 --> 00:29:32,464
+que ter uma capacidade
+
+573
+00:29:32,464 --> 00:29:34,484
+de abstração na sua cabeça também pra poder
+
+574
+00:29:34,484 --> 00:29:36,604
+fazer. É claro que você também pode começar
+
+575
+00:29:36,604 --> 00:29:38,484
+nos agentes e depois simplesmente
+
+576
+00:29:38,484 --> 00:29:40,664
+fazer isso aqui, ó. Pega as imagens
+
+577
+00:29:40,664 --> 00:29:41,824
+dos agentes e joga pra cá.
+
+578
+00:29:42,904 --> 00:29:44,364
+Gerou no seu PC, são suas,
+
+579
+00:29:44,484 --> 00:29:46,344
+você pode fazer o upload delas e
+
+580
+00:29:46,344 --> 00:29:47,724
+continuar o vídeo aqui se você
+
+581
+00:29:48,484 --> 00:29:50,344
+preferir, tá? Aí, ó, sobe todas aqui
+
+582
+00:29:50,344 --> 00:29:52,284
+e agora se a gente quiser a gente pode animar essas.
+
+583
+00:29:52,644 --> 00:29:53,544
+Menos essa aqui, né?
+
+584
+00:29:55,224 --> 00:29:56,464
+Mas enfim, então
+
+585
+00:29:56,464 --> 00:29:58,684
+Então, esse aqui é um pouco do processo para vocês.
+
+586
+00:29:58,904 --> 00:29:59,904
+Vamos lá, próxima aula.
+
+587
+00:30:03,932 --> 00:30:06,252
+Fechando o raciocínio aqui, então, junto com vocês,
+
+588
+00:30:08,284 --> 00:30:11,204
+Esse processo é importante para que vocês não percam o fio da meada,
+
+589
+00:30:11,244 --> 00:30:12,844
+para que vocês consigam trabalhar em equipe,
+
+590
+00:30:12,884 --> 00:30:16,404
+para que vocês consigam seguir cada uma dessas etapas.
+
+591
+00:30:16,424 --> 00:30:17,584
+Quando você tem o storyboard,
+
+592
+00:30:18,124 --> 00:30:22,544
+depois dele você vai gerar as imagens primeiro, reais,
+
+593
+00:30:23,184 --> 00:30:24,664
+que a gente chama aqui de...
+
+594
+00:30:25,444 --> 00:30:27,084
+são frames mesmo do vídeo.
+
+595
+00:30:29,180 --> 00:30:29,560
+frames.
+
+596
+00:30:31,324 --> 00:30:33,964
+O take já é em movimento, são os frames mesmo.
+
+597
+00:30:35,612 --> 00:30:40,252
+Vou colocar aqui como First Frames e Last Frames,
+
+598
+00:30:40,352 --> 00:30:41,972
+que é o frame inicial e o frame final.
+
+599
+00:30:42,252 --> 00:30:46,632
+Você vai pegar esses frames aqui, vai gerar de cada cena do seu storyboard,
+
+600
+00:30:46,892 --> 00:30:49,312
+e depois que você tiver os seus frames aqui,
+
+601
+00:30:49,532 --> 00:30:52,112
+você vai avaliar o seguinte, preciso de...
+
+602
+00:30:53,660 --> 00:30:56,020
+Preciso de referência de movimento?
+
+603
+00:30:56,180 --> 00:30:58,300
+Isso aqui é uma coisa importante que as pessoas não sabem.
+
+604
+00:30:59,804 --> 00:31:03,444
+Mas quando você vai trabalhar cenas que são complexas, uma dança,
+
+605
+00:31:03,444 --> 00:31:06,144
+ou alguém que gesticula de um jeito específico,
+
+606
+00:31:06,144 --> 00:31:08,024
+ou alguém que está atuando na cena para você,
+
+607
+00:31:08,644 --> 00:31:12,804
+você pode você mesmo pegar o seu telefone, atuar naquela cena, então...
+
+608
+00:31:13,980 --> 00:31:16,260
+atua ali, imagina que eu estou atuando aqui,
+
+609
+00:31:16,380 --> 00:31:17,940
+estou muito bravo, estou falando,
+
+610
+00:31:18,100 --> 00:31:19,320
+deixa eu pegar aqui rapidinho,
+
+611
+00:31:20,140 --> 00:31:21,560
+estou muito bravo falando aqui com você,
+
+612
+00:31:22,400 --> 00:31:25,200
+e aí eu quero exatamente esses movimentos aqui.
+
+613
+00:31:25,360 --> 00:31:28,260
+Você grava essa cena, pode ser nesse ambiente aqui mesmo,
+
+614
+00:31:28,360 --> 00:31:31,600
+e você vai usar isso de referência aqui, de motion,
+
+615
+00:31:31,800 --> 00:31:32,900
+então é referência de movimento.
+
+616
+00:31:33,240 --> 00:31:37,400
+Se sim, gravar referência de movimento.
+
+617
+00:31:38,400 --> 00:31:39,440
+Se não...
+
+618
+00:31:41,788 --> 00:31:43,348
+segue para a geração de vídeos.
+
+619
+00:31:48,764 --> 00:31:53,084
+Então trabalha ali na geração de vídeos, gera muitos vídeos, escolhe os melhores.
+
+620
+00:31:55,356 --> 00:31:57,216
+Gera vários vídeos.
+
+621
+00:31:57,676 --> 00:31:58,596
+Vou colocar aqui, ó.
+
+622
+00:32:00,124 --> 00:32:05,044
+Gere vários vídeos para ter a amostragem.
+
+623
+00:32:05,044 --> 00:32:09,044
+B. Selecione os melhores vídeos.
+
+624
+00:32:09,344 --> 00:32:14,184
+C. Ajuste as inconsistências.
+
+625
+00:32:15,676 --> 00:32:17,796
+Inconsistências.
+
+626
+00:32:20,092 --> 00:32:23,592
+E aí a gente entra no outro ponto aqui, que é a sequência de edição.
+
+627
+00:32:24,012 --> 00:32:28,772
+Algumas inconsistências você corrige na própria geração,
+
+628
+00:32:28,772 --> 00:32:33,172
+escolhendo nas amostragens, outras você trabalha na edição.
+
+629
+00:32:33,512 --> 00:32:35,692
+Aí eu já falei um pouco da edição para vocês, né?
+
+630
+00:32:35,692 --> 00:32:41,552
+Falei que tem Premiere, tem DaVinci, tem o CapCut,
+
+631
+00:32:41,812 --> 00:32:44,792
+quem gosta de CapCut, tem várias IAs aqui,
+
+632
+00:32:45,092 --> 00:32:47,552
+tem várias ferramentas, vários softwares que vocês podem usar.
+
+633
+00:32:47,712 --> 00:32:49,852
+O que a gente mais usa aqui na equipe é esse,
+
+634
+00:32:50,092 --> 00:32:50,112
+A CIDADE NO BRASIL
+
+635
+00:32:52,188 --> 00:32:57,628
+Só que às vezes não dá pra assinar, não vou usar esse, dá pra usar o DaVinci, dá pra usar o CapCut também, DaVinci resolve.
+
+636
+00:32:59,548 --> 00:33:01,168
+E existem outros softwares de ar também.
+
+637
+00:33:01,288 --> 00:33:03,028
+O CapCut, inclusive, tem versão gratuita.
+
+638
+00:33:03,228 --> 00:33:05,488
+Você vai subir todos aqueles vídeos lá
+
+639
+00:33:05,488 --> 00:33:07,388
+e você vai trabalhar.
+
+640
+00:33:07,768 --> 00:33:10,728
+Você vai trabalhar primeiro com a decupagem do vídeo.
+
+641
+00:33:10,988 --> 00:33:12,008
+O que é decupagem?
+
+642
+00:33:12,088 --> 00:33:14,868
+Decupagem é o processo de organizar os takes,
+
+643
+00:33:16,068 --> 00:33:17,648
+organizar toda a sequência de takes,
+
+644
+00:33:17,728 --> 00:33:20,948
+fazer os cortes, ajustar tempo, ritmo.
+
+645
+00:33:21,048 --> 00:33:23,068
+Você vai fazendo ali essa decupagem inicial.
+
+646
+00:33:23,508 --> 00:33:25,008
+Depois que você faz ela,
+
+647
+00:33:26,028 --> 00:33:29,268
+aqui a gente trabalha com transições.
+
+648
+00:33:29,548 --> 00:33:31,468
+Então, algumas transições...
+
+649
+00:33:33,628 --> 00:33:34,128
+Maldito!
+
+650
+00:33:37,276 --> 00:33:38,216
+Algumas transições.
+
+651
+00:33:38,336 --> 00:33:39,456
+É o Cedilho aqui, tá?
+
+652
+00:33:39,556 --> 00:33:40,996
+Vocês não estão entendendo o que está acontecendo.
+
+653
+00:33:42,056 --> 00:33:42,856
+Algumas transições.
+
+654
+00:33:44,156 --> 00:33:45,696
+Algumas vezes a gente trabalha transições,
+
+655
+00:33:45,716 --> 00:33:46,956
+outras vezes flui também.
+
+656
+00:33:47,096 --> 00:33:48,576
+Às vezes tem que fazer algum ajuste,
+
+657
+00:33:48,576 --> 00:33:50,056
+fazer a cena terminar um pouco antes,
+
+658
+00:33:50,276 --> 00:33:51,916
+ou precisa estender a cena um pouco mais.
+
+659
+00:33:52,136 --> 00:33:53,556
+A gente vai fazendo esses ajustes.
+
+660
+00:33:54,056 --> 00:33:54,856
+Trabalhou transição,
+
+661
+00:33:54,996 --> 00:33:57,736
+a gente trabalha com áudio também.
+
+662
+00:33:59,452 --> 00:34:03,892
+Aí você adiciona ali dentro da narrativa que você está construindo.
+
+663
+00:34:03,972 --> 00:34:07,612
+Você adiciona, se tem diálogo, otimiza o diálogo.
+
+664
+00:34:07,732 --> 00:34:08,772
+Se tem...
+
+665
+00:34:11,804 --> 00:34:14,284
+Sons de efeitos especiais, eu sempre esqueço, sound effects.
+
+666
+00:34:14,824 --> 00:34:18,084
+Se tem efeitos de som, você adiciona os efeitos de som,
+
+667
+00:34:18,124 --> 00:34:20,104
+às vezes não fica tão legal, você precisa fazer algum novo,
+
+668
+00:34:20,244 --> 00:34:22,424
+você vai ajustando ali os efeitos de som também.
+
+669
+00:34:23,144 --> 00:34:26,824
+Como eu disse, se tem diálogo, você coloca, aumenta o som do diálogo,
+
+670
+00:34:26,864 --> 00:34:30,544
+diminui pra poder ficar bem legal, isso aqui é o processo de...
+
+671
+00:34:32,700 --> 00:34:34,860
+Basterização do áudio como um todo, né?
+
+672
+00:34:35,300 --> 00:34:39,400
+E depois que você faz isso, tem a parte de trilha também.
+
+673
+00:34:40,660 --> 00:34:42,960
+Adiciona trilha, caso tenha alguma trilha.
+
+674
+00:34:42,980 --> 00:34:45,180
+Isso tudo é edição, tá? Sequência de edição.
+
+675
+00:34:51,068 --> 00:34:51,408
+Tchau, Nath.
+
+676
+00:34:53,244 --> 00:34:56,324
+Adiciona a trilha e depois você faz o Color Grading.
+
+677
+00:34:56,944 --> 00:34:59,324
+Color Grading a gente trabalha com camada de ajuste.
+
+678
+00:35:00,508 --> 00:35:02,148
+Não vou mostrar exatamente aqui agora,
+
+679
+00:35:02,308 --> 00:35:04,848
+porque eu acredito que o ideal vai ser uma trilha de edição pra vocês,
+
+680
+00:35:05,568 --> 00:35:10,728
+mas você faz ajustes de contraste, saturação, de brilho,
+
+681
+00:35:10,728 --> 00:35:14,788
+de pretos, brancos na cena, de cores na cena também,
+
+682
+00:35:14,848 --> 00:35:17,028
+às vezes quer puxar pra algum tom, diminuir outro tom,
+
+683
+00:35:17,208 --> 00:35:21,148
+quer subir algum loot também, que é a biblioteca de color gradings,
+
+684
+00:35:21,208 --> 00:35:25,048
+são arquivos que vêm em presets pra você já usar de cores também,
+
+685
+00:35:25,208 --> 00:35:27,308
+ajusta tudo isso numa camada de ajuste.
+
+686
+00:35:30,512 --> 00:35:31,892
+Exporta. É como a gente tem feito aqui.
+
+687
+00:35:33,596 --> 00:35:36,736
+revisa alguns detalhes, faz as primeiras exportações
+
+688
+00:35:36,736 --> 00:35:38,296
+e depois otimiza a exportação.
+
+689
+00:35:38,796 --> 00:35:40,716
+Então, esse é o caminho que a gente tem seguido.
+
+690
+00:35:40,876 --> 00:35:42,736
+Pode ser que a gente pule algumas etapas
+
+691
+00:35:42,736 --> 00:35:44,916
+e corte algumas etapas que outras pessoas estão seguindo.
+
+692
+00:35:45,076 --> 00:35:47,416
+Isso aqui, para a gente, eu vou falar num cenário legal.
+
+693
+00:35:47,496 --> 00:35:48,976
+Eu não sou especialista em cinema,
+
+694
+00:35:49,176 --> 00:35:50,956
+eu não sou especialista em edição,
+
+695
+00:35:51,056 --> 00:35:52,976
+eu sou um designer nexialista
+
+696
+00:35:52,976 --> 00:35:55,176
+que entende esses conceitos aqui
+
+697
+00:35:55,176 --> 00:35:57,896
+até onde eu já consiga trabalhar com eles
+
+698
+00:35:57,896 --> 00:36:01,416
+de maneira mais fundamental e menos perdida,
+
+699
+00:36:01,416 --> 00:36:04,516
+só gerando a imagem lá nas IAs, entendeu?
+
+700
+00:36:05,576 --> 00:36:07,236
+Então, como um nexialista,
+
+701
+00:36:07,236 --> 00:36:08,736
+são os pontos que eu mais presto atenção
+
+702
+00:36:08,736 --> 00:36:10,376
+e trazendo eles aqui para vocês.
+
+703
+00:36:10,456 --> 00:36:11,756
+Quem é especialista na área,
+
+704
+00:36:11,836 --> 00:36:12,996
+quem trabalha com edição de vídeo,
+
+705
+00:36:13,116 --> 00:36:15,576
+vai conseguir adicionar até mais etapas aqui
+
+706
+00:36:15,576 --> 00:36:16,636
+que eu acabei pulando
+
+707
+00:36:16,636 --> 00:36:19,016
+ou que consideram relevantes também.
+
+708
+00:36:19,256 --> 00:36:20,996
+Aí vai da especialidade de cada um.
+
+709
+00:36:21,096 --> 00:36:22,596
+Eu, como um não especialista,
+
+710
+00:36:22,616 --> 00:36:24,416
+consigo usar minhas habilidades nexialistas
+
+711
+00:36:24,416 --> 00:36:26,596
+para construir coisas muito legais,
+
+712
+00:36:26,596 --> 00:36:27,996
+mesmo sem ser um especialista.
+
+713
+00:36:27,996 --> 00:36:30,676
+Estava conversando ontem isso com o Rafael e com o Eduardo,
+
+714
+00:36:30,676 --> 00:36:32,456
+dos dois devs aqui da Overlens
+
+715
+00:36:32,456 --> 00:36:34,976
+e o Eduardo falou assim, Juan, eu fico impressionado
+
+716
+00:36:34,976 --> 00:36:36,636
+às vezes com as coisas que você sabe
+
+717
+00:36:36,636 --> 00:36:38,996
+que eu espero só de devs saberem
+
+718
+00:36:38,996 --> 00:36:41,236
+eu tava falando de uma biblioteca
+
+719
+00:36:41,236 --> 00:36:42,076
+que chama React Flow
+
+720
+00:36:42,956 --> 00:36:45,076
+e aí ele falou, caraca, por que
+
+721
+00:36:45,076 --> 00:36:46,796
+você sabe disso? Porque eu uso
+
+722
+00:36:46,796 --> 00:36:48,616
+minhas habilidades como um nexialista
+
+723
+00:36:48,616 --> 00:36:51,116
+que me permite saber o que é relevante e o que não é
+
+724
+00:36:51,116 --> 00:36:52,596
+eu tenho um senso de filtro bom
+
+725
+00:36:52,596 --> 00:36:54,896
+pra poder conectar as coisas e realizar
+
+726
+00:36:54,896 --> 00:36:56,896
+minhas ideias, depois eu
+
+727
+00:36:56,896 --> 00:36:59,256
+levo essas ideias pra pessoas especialistas
+
+728
+00:36:59,256 --> 00:37:00,996
+e falam, o que você faria para melhorar?
+
+729
+00:37:01,476 --> 00:37:03,496
+E eu escuto das pessoas especialistas.
+
+730
+00:37:03,656 --> 00:37:06,156
+Porque eu decidi não ser um especialista,
+
+731
+00:37:06,176 --> 00:37:08,556
+eu decidi ser um nexialista, que é a pessoa que orquestra.
+
+732
+00:37:08,676 --> 00:37:10,576
+E aí eu posso contar com pessoas especialistas
+
+733
+00:37:10,576 --> 00:37:12,476
+para otimizar o processo.
+
+734
+00:37:12,836 --> 00:37:15,796
+Mas entendendo essa lógica que eu acabei de passar para vocês aqui,
+
+735
+00:37:15,916 --> 00:37:18,036
+vocês têm tudo o que precisa para já começar a fazer
+
+736
+00:37:18,036 --> 00:37:21,096
+com muito mais consistência do que outras pessoas fariam.
+
+737
+00:37:21,276 --> 00:37:25,516
+E aí eu quero relembrar vocês aqui dentro da documentação,
+
+738
+00:37:25,536 --> 00:37:28,696
+vocês têm um processo explicando um pouco mais sobre isso.
+
+739
+00:37:28,696 --> 00:37:32,816
+Então tem um roteiro simples aqui, abertura, desenvolvimento, resolução.
+
+740
+00:37:32,976 --> 00:37:39,336
+Tem esse 3 a 5 segundos, 8 segundos, mas isso aqui é uma referência que vocês podem ignorar.
+
+741
+00:37:39,376 --> 00:37:42,316
+Foi adicionada pela própria inteligência artificial, uma referência dela.
+
+742
+00:37:42,696 --> 00:37:47,876
+Mas depende do tamanho do take que você está fazendo ou do projeto que você está criando também.
+
+743
+00:37:48,056 --> 00:37:50,056
+Podem ter aberturas que vão durar vários minutos.
+
+744
+00:37:51,236 --> 00:37:55,916
+Quando vocês verem isso aqui, T2V é Text to Video.
+
+745
+00:37:55,916 --> 00:37:58,816
+Aí tem o I2V, que é Image to Video.
+
+746
+00:37:58,956 --> 00:38:00,916
+Outro dia eu vi isso aqui e falei, que bosta é essa?
+
+747
+00:38:01,216 --> 00:38:03,076
+Desculpa falar, mas o que é isso aqui?
+
+748
+00:38:03,556 --> 00:38:06,676
+E aí é uma sigla só para falar a mesma coisa.
+
+749
+00:38:07,056 --> 00:38:11,876
+Aqui ele ainda deixou um template de roteiro para a gente, dentro da biblioteca.
+
+750
+00:38:11,896 --> 00:38:13,976
+E tem algumas adaptações aqui do storyboard.
+
+751
+00:38:15,356 --> 00:38:17,076
+Então, aqui por exemplo, problemas.
+
+752
+00:38:17,456 --> 00:38:20,696
+Aí não tem memória entre clips, a gente viu isso acontecendo na prática ali.
+
+753
+00:38:20,776 --> 00:38:22,676
+Cada shot é uma geração independente.
+
+754
+00:38:22,676 --> 00:38:25,136
+O storyboard precisa documentar não só a composição visual,
+
+755
+00:38:25,316 --> 00:38:27,716
+mas também as referências, igual eu falei para vocês.
+
+756
+00:38:28,056 --> 00:38:29,016
+Qual referência?
+
+757
+00:38:29,216 --> 00:38:29,656
+Problema.
+
+758
+00:38:29,676 --> 00:38:32,076
+Deriva de personagens entre shots.
+
+759
+00:38:32,296 --> 00:38:36,436
+Então, use Charter Reference Sheet gerado no NanoBanana Pro.
+
+760
+00:38:36,616 --> 00:38:38,256
+Carregue uma referência visual em cada clipe.
+
+761
+00:38:38,536 --> 00:38:41,916
+Então, sempre referência do personagem para manter essa referência.
+
+762
+00:38:42,436 --> 00:38:42,876
+Problema.
+
+763
+00:38:43,076 --> 00:38:44,656
+Inconsistência de iluminação entre cortes.
+
+764
+00:38:44,856 --> 00:38:47,996
+Documente a paleta de luz em um mood board antes de gerar.
+
+765
+00:38:48,356 --> 00:38:51,036
+Repita os termos exatos de iluminação em todos os shots.
+
+766
+00:38:51,156 --> 00:38:52,376
+A gente já falou disso antes também.
+
+767
+00:38:52,676 --> 00:38:54,536
+problema, não é possível
+
+768
+00:38:54,536 --> 00:38:56,036
+gerar mais de 15 segundos por clipe
+
+769
+00:38:56,036 --> 00:38:58,936
+estruture o roteiro em shots de 3 a 8 segundos
+
+770
+00:38:58,936 --> 00:39:00,376
+use o extend video
+
+771
+00:39:00,376 --> 00:39:02,716
+pra prolongar os shots aprovados depois
+
+772
+00:39:02,716 --> 00:39:04,496
+isso é uma técnica também muito importante
+
+773
+00:39:04,496 --> 00:39:06,796
+não tenta fazer um vídeo gigante num prompt só
+
+774
+00:39:06,796 --> 00:39:08,596
+gera uma partezinha
+
+775
+00:39:08,596 --> 00:39:10,916
+e depois você estende o vídeo com as ferramentas
+
+776
+00:39:10,916 --> 00:39:12,636
+de estender, Juan, quais são as ferramentas
+
+777
+00:39:12,636 --> 00:39:14,216
+de estender? No Freepeek tem
+
+778
+00:39:14,216 --> 00:39:14,916
+no
+
+779
+00:39:16,836 --> 00:39:18,136
+no Higgsfield tem
+
+780
+00:39:18,136 --> 00:39:20,336
+no Cling tem, no Runway tem
+
+781
+00:39:20,336 --> 00:39:24,276
+tá? Então, deixa eu ver se aqui, eu sei que tem dentro da
+
+782
+00:39:24,276 --> 00:39:26,536
+biblioteca, deixa eu ver se eu consigo puxar aqui, como que eu
+
+783
+00:39:26,536 --> 00:39:29,716
+faço pra estender um vídeo então? Cê vem aqui no, se você
+
+784
+00:39:29,716 --> 00:39:32,196
+tiver no né? Cê vai abrir o aqui, ó.
+
+785
+00:39:33,436 --> 00:39:34,216
+É o mais fácil que parece.
+
+786
+00:39:35,900 --> 00:39:37,920
+Vai vir aqui em Gerar Vídeos.
+
+787
+00:39:39,836 --> 00:39:45,436
+Aqui dentro de gerar vídeos, você pode subir o vídeo ou pegar já um...
+
+788
+00:39:47,932 --> 00:39:49,692
+scriptzinho de estender o vídeo, quer ver?
+
+789
+00:39:49,752 --> 00:39:51,652
+Talvez eles mudaram pra cá. As ferramentas
+
+790
+00:39:51,652 --> 00:39:53,212
+acabam mudando também, quer ver?
+
+791
+00:39:53,232 --> 00:39:55,612
+Vou baixar esse vídeo aqui, vamos tentar
+
+792
+00:39:55,612 --> 00:39:57,792
+fazer desse jeito. Baixar
+
+793
+00:39:57,792 --> 00:39:57,972
+ele.
+
+794
+00:39:59,324 --> 00:40:01,464
+Posso também subir, eu acho que ele já até está na pasta, né?
+
+795
+00:40:01,524 --> 00:40:03,664
+Deixa eu ver aqui, projeto pessoal.
+
+796
+00:40:05,276 --> 00:40:05,596
+Ok.
+
+797
+00:40:06,908 --> 00:40:08,548
+Subir vídeo.
+
+798
+00:40:10,268 --> 00:40:10,948
+Salvos.
+
+799
+00:40:12,380 --> 00:40:13,020
+Vou usar esse vídeo.
+
+800
+00:40:14,876 --> 00:40:18,596
+Hum, aqui ele tá falando pra gerar com o vídeo de referência, não é isso não.
+
+801
+00:40:18,756 --> 00:40:23,456
+Porque o que acontece? Antes você conseguia só subir o vídeo e expandir, estender o vídeo.
+
+802
+00:40:23,816 --> 00:40:26,696
+Agora deve que eles colocaram tudo aqui no editor.
+
+803
+00:40:27,376 --> 00:40:30,656
+Vamos ver um teste aqui, só pra eu mostrar pra vocês, pra vocês não ficarem no limbo.
+
+804
+00:40:32,220 --> 00:40:33,940
+Então tem esse primeiro frame.
+
+805
+00:40:36,604 --> 00:40:38,064
+É, mas aqui ele não tá me dando...
+
+806
+00:40:38,864 --> 00:40:40,424
+Aqui, ó, estender. Achei.
+
+807
+00:40:41,124 --> 00:40:42,764
+Boa. Então a gente tem aqui essa opção
+
+808
+00:40:42,764 --> 00:40:44,364
+estender dentro do editor.
+
+809
+00:40:45,344 --> 00:40:46,704
+Antigamente você tinha como se fosse
+
+810
+00:40:46,704 --> 00:40:48,644
+um script que você subia o vídeo e pedia ele
+
+811
+00:40:48,644 --> 00:40:50,604
+pra estender, descrever ele, estendia o vídeo
+
+812
+00:40:50,604 --> 00:40:52,584
+e você salvava. Agora eles colocaram
+
+813
+00:40:52,584 --> 00:40:54,544
+dentro de um editor aqui.
+
+814
+00:40:54,804 --> 00:40:55,884
+Não tava encontrando.
+
+815
+00:40:56,404 --> 00:40:58,544
+Então você descreve o que vai acontecer
+
+816
+00:40:58,544 --> 00:41:00,704
+na sequência, então, por exemplo.
+
+817
+00:41:02,556 --> 00:41:04,296
+Nossa, eu peguei o pior vídeo porque eu podia, né?
+
+818
+00:41:07,996 --> 00:41:09,396
+Descreva como o vídeo deve continuar.
+
+819
+00:41:09,516 --> 00:41:13,336
+O carro continua na estrada.
+
+820
+00:41:14,908 --> 00:41:16,848
+Até sumir.
+
+821
+00:41:19,548 --> 00:41:23,328
+Aí você clica aqui, ele vai estender mais 7 segundos do vídeo para a gente.
+
+822
+00:41:23,808 --> 00:41:27,048
+Você também pode fazer isso direto em ferramentas de edição,
+
+823
+00:41:27,088 --> 00:41:32,828
+como o Premiere, o CapCut, se não me engano o DaVinci Resolve também.
+
+824
+00:41:33,308 --> 00:41:36,528
+Tem como também baixar extensões para fazer isso por você,
+
+825
+00:41:37,128 --> 00:41:38,588
+mas eu não vou abrir eles aqui agora não.
+
+826
+00:41:38,648 --> 00:41:39,908
+Esses são os jeitos mais simples.
+
+827
+00:41:40,168 --> 00:41:44,068
+Aqui no Rigsfield, você também faz assim, Edit Video,
+
+828
+00:41:44,588 --> 00:41:49,088
+e aqui dentro da edição do vídeo, você consegue subir o vídeo que você quer,
+
+829
+00:41:50,508 --> 00:41:51,788
+editar e expandir
+
+830
+00:41:51,788 --> 00:41:53,528
+ele ou retexturizar
+
+831
+00:41:53,528 --> 00:41:55,508
+ele. Eu vou deixar aqui que eu quero mostrar isso aqui
+
+832
+00:41:55,508 --> 00:41:57,808
+pra vocês. Isso aqui é divertido.
+
+833
+00:41:57,888 --> 00:41:58,688
+Vocês vão gostar dele.
+
+834
+00:41:59,868 --> 00:42:03,128
+Mas deixa ele estender aqui pra eu fechar esse ponto também.
+
+835
+00:42:04,008 --> 00:42:07,088
+Enquanto ele estende, que eu tava mostrando aqui pra vocês.
+
+836
+00:42:09,180 --> 00:42:12,300
+Então, esse é o conselho que está trazendo aqui para a gente.
+
+837
+00:42:12,640 --> 00:42:14,540
+Movimento de câmera complexo falha.
+
+838
+00:42:14,540 --> 00:42:17,740
+Igual eu falei para vocês, uma luta, alguma coisa que gesticula muito.
+
+839
+00:42:18,380 --> 00:42:21,380
+Aplica a regra do movimento único, que ele está falando aqui, que é um movimento simples.
+
+840
+00:42:21,600 --> 00:42:24,740
+Ou faz o que eu vou mostrar para vocês, que é transferência de movimento.
+
+841
+00:42:25,240 --> 00:42:27,660
+Você grava você mesmo como se você estivesse dublando.
+
+842
+00:42:28,060 --> 00:42:30,860
+E depois você pega o que você dublou.
+
+843
+00:42:32,380 --> 00:42:36,260
+Coloca a IA para retexturizar isso de um jeito diferente.
+
+844
+00:42:36,500 --> 00:42:37,120
+Deixa eu ver a hora.
+
+845
+00:42:37,220 --> 00:42:39,480
+Eu vou fazer isso com vocês aqui já já.
+
+846
+00:42:39,580 --> 00:42:41,700
+Vou só fechar os pontos aqui com vocês.
+
+847
+00:42:42,180 --> 00:42:44,200
+Então tem o mood board que eu já passei por vocês.
+
+848
+00:42:44,300 --> 00:42:47,820
+Vocês podem ler aqui também a documentação de como fazer o mood board.
+
+849
+00:42:47,980 --> 00:42:53,600
+Mas eu já falei disso em várias trilhas e expliquei o processo nas outras aulas aqui para vocês.
+
+850
+00:42:53,680 --> 00:42:55,840
+Até mostrei alguns mood boards feitos no Figma.
+
+851
+00:42:56,600 --> 00:42:57,860
+Vem a edição de vídeos.
+
+852
+00:42:58,000 --> 00:43:00,660
+Aqui dentro da edição de vídeo tem um workflow de pós-produção.
+
+853
+00:43:00,660 --> 00:43:02,620
+que tem aqui, Low Res First Hack.
+
+854
+00:43:02,900 --> 00:43:05,260
+Gere todas as interações em 720p
+
+855
+00:43:05,260 --> 00:43:07,480
+pra confirmar a composição anatômica,
+
+856
+00:43:07,500 --> 00:43:09,000
+velocidade de câmera e iluminação.
+
+857
+00:43:09,220 --> 00:43:11,140
+Só faz o upscale quando o movimento
+
+858
+00:43:11,140 --> 00:43:13,080
+for aprovado. Isso é uma coisa muito boa de falar mesmo.
+
+859
+00:43:13,300 --> 00:43:15,140
+Eu sempre gero o vídeo numa resolução
+
+860
+00:43:15,140 --> 00:43:17,020
+baixa, monto o filme inteiro
+
+861
+00:43:17,020 --> 00:43:18,540
+e depois eu faço o upscale.
+
+862
+00:43:18,640 --> 00:43:21,000
+Eu gosto de fazer o upscale usando o Topaz.
+
+863
+00:43:21,200 --> 00:43:22,860
+Tem outras ferramentas também,
+
+864
+00:43:23,560 --> 00:43:25,080
+mas o Topaz você paga uma vez, compra
+
+865
+00:43:25,080 --> 00:43:27,140
+a ferramenta e pode utilizar ela
+
+866
+00:43:27,140 --> 00:43:28,840
+aqui, ó. Topaz Video.
+
+867
+00:43:28,840 --> 00:43:31,020
+E ele faz um upscale muito bom, tá?
+
+868
+00:43:31,100 --> 00:43:31,900
+Muito, muito bom.
+
+869
+00:43:32,100 --> 00:43:33,920
+Tem o de upscale de imagem também.
+
+870
+00:43:34,180 --> 00:43:37,000
+Se não der pra usar aqui, você pode fazer o upscale
+
+871
+00:43:37,000 --> 00:43:38,540
+no próprio Freepik também.
+
+872
+00:43:38,640 --> 00:43:42,160
+Ele tem upscale ou no Higgsfield, dependendo do hub que você assina.
+
+873
+00:43:42,400 --> 00:43:44,060
+Ou você pode usar o Enhance,
+
+874
+00:43:44,220 --> 00:43:46,620
+que eu já falei dessa ferramenta aqui pra vocês também,
+
+875
+00:43:47,120 --> 00:43:49,280
+que é boa pra upscales.
+
+876
+00:43:49,900 --> 00:43:51,140
+Deixa eu colocar ela certa.
+
+877
+00:43:52,360 --> 00:43:53,860
+Enhancor.ai, Enhance.
+
+878
+00:43:54,260 --> 00:43:54,880
+Essa daqui.
+
+879
+00:43:55,580 --> 00:43:57,780
+Dentro da Enhance, você consegue fazer Leapsync também.
+
+880
+00:43:57,780 --> 00:44:04,040
+Tem aqui upscaler, e dentro de upscaler você consegue aumentar a qualidade do material.
+
+881
+00:44:05,240 --> 00:44:06,060
+Deixa ele carregar aqui.
+
+882
+00:44:08,508 --> 00:44:09,288
+E aí eu mostro para vocês.
+
+883
+00:44:11,484 --> 00:44:15,284
+Ou então, como é só uma referência de app, eu não vou nem carregar, né?
+
+884
+00:44:18,556 --> 00:44:19,796
+Ele é muito bom, principalmente pra imagem.
+
+885
+00:44:19,996 --> 00:44:21,216
+Eu acabo usando ele bastante.
+
+886
+00:44:21,556 --> 00:44:24,956
+Mas tem aqui também pra ter um motion control deles aí.
+
+887
+00:44:25,556 --> 00:44:27,516
+Isso aqui tem em todos os hubs, tá?
+
+888
+00:44:27,576 --> 00:44:29,336
+Não precisa assinar ele só por isso, não.
+
+889
+00:44:29,376 --> 00:44:32,096
+Vamos ver aqui o ponto antes de eu continuar.
+
+890
+00:44:37,884 --> 00:44:39,184
+Travou, mas ele seguiu.
+
+891
+00:44:40,316 --> 00:44:41,776
+estendemos o vídeo. Funcionou.
+
+892
+00:44:42,116 --> 00:44:44,116
+Aí, Juan, o que eu faço? Às vezes tem um vídeo
+
+893
+00:44:44,116 --> 00:44:45,916
+muito bom e eu tenho que cortar uma
+
+894
+00:44:47,256 --> 00:44:48,516
+cena dele específico.
+
+895
+00:44:48,516 --> 00:44:50,076
+Cara, esses players são muito bugados.
+
+896
+00:44:50,696 --> 00:44:52,276
+Aí eu não consigo ir pra lá não,
+
+897
+00:44:52,316 --> 00:44:53,336
+pra parte da cena não.
+
+898
+00:44:55,548 --> 00:44:58,008
+Deixa ele chegar lá, vocês vão ver que ele dá uma agarradinha, ó.
+
+899
+00:44:58,308 --> 00:44:58,548
+Viu?
+
+900
+00:44:59,068 --> 00:44:59,928
+Dá uma agarradinha ali.
+
+901
+00:45:00,548 --> 00:45:03,208
+Você pode, às vezes a agarradinha é por renderização, porque...
+
+902
+00:45:04,252 --> 00:45:06,552
+Esses players de vídeo aqui são muito quebrados,
+
+903
+00:45:06,612 --> 00:45:08,192
+o do Freepik principalmente.
+
+904
+00:45:10,940 --> 00:45:12,580
+Vamos ver se ele vai agarrar. Às vezes era só erro de...
+
+905
+00:45:16,732 --> 00:45:17,492
+Travou e voltou.
+
+906
+00:45:17,552 --> 00:45:18,352
+O que você faz?
+
+907
+00:45:18,472 --> 00:45:20,812
+Você vai para um software de edição melhor do que esse aqui,
+
+908
+00:45:20,852 --> 00:45:24,632
+aqui você até pode cortar um trecho, mas é muito ruim de...
+
+909
+00:45:25,916 --> 00:45:27,176
+De gerenciar, cara, tá vendo?
+
+910
+00:45:27,336 --> 00:45:29,656
+Você não consegue ir pra parte certa.
+
+911
+00:45:29,756 --> 00:45:33,816
+Então, usa o Premiere ou o DaVinci Resolve ou o CapCut, tá?
+
+912
+00:45:33,876 --> 00:45:34,756
+Pra poder fazer a edição.
+
+913
+00:45:35,656 --> 00:45:38,376
+Baixa, depois que você terminar, baixa o vídeo aqui
+
+914
+00:45:38,376 --> 00:45:41,356
+e edita direto dentro desses programas, tá?
+
+915
+00:45:41,816 --> 00:45:43,096
+Vai ser mais fácil pra vocês.
+
+916
+00:45:43,716 --> 00:45:45,316
+Mas então, essa é uma dica.
+
+917
+00:45:45,556 --> 00:45:47,976
+Segunda dica, impeneting e correção de artefatos.
+
+918
+00:45:48,136 --> 00:45:49,456
+Use ferramentas de impeneting.
+
+919
+00:45:49,536 --> 00:45:52,316
+Aí tem no Runway e no Adobe Firefly.
+
+920
+00:45:52,516 --> 00:45:54,796
+Eu acho que tem extensões pro Premiere pra fazer isso também.
+
+921
+00:45:54,836 --> 00:45:55,456
+O que é impeneting?
+
+922
+00:45:55,916 --> 00:45:58,556
+Você pega um trecho do vídeo, colore por cima e fala
+
+923
+00:45:58,556 --> 00:46:00,496
+apaga isso aqui, edita isso aqui.
+
+924
+00:46:00,556 --> 00:46:03,736
+Ele faz um tracking e edita só aquela parte do vídeo.
+
+925
+00:46:04,016 --> 00:46:05,196
+Muito poderoso também.
+
+926
+00:46:05,416 --> 00:46:07,796
+Mas isso vem dentro de uma trilha de edição
+
+927
+00:46:07,796 --> 00:46:09,176
+que a gente pode fazer para vocês depois.
+
+928
+00:46:09,656 --> 00:46:12,236
+Depois que você tem os frames certinhos,
+
+929
+00:46:12,256 --> 00:46:15,236
+antes de exportar, você vai fazendo o upscale de cada frame.
+
+930
+00:46:15,576 --> 00:46:17,536
+Só que isso aqui você pode fazer com inteligência artificial,
+
+931
+00:46:17,696 --> 00:46:20,076
+ao invés de ficar puxando, arrastando e colocando cada frame.
+
+932
+00:46:20,156 --> 00:46:21,236
+Então dá para usar os agentes.
+
+933
+00:46:21,336 --> 00:46:23,796
+E os próprios agentes fazem o upscale para você.
+
+934
+00:46:25,404 --> 00:46:28,764
+Aí vem timeline e montagem, color grading e camada final,
+
+935
+00:46:28,884 --> 00:46:32,484
+que eu passei esse processo para vocês, mas tem aqui uma explicação mais detalhada
+
+936
+00:46:32,484 --> 00:46:34,584
+que vocês podem utilizar, tá?
+
+937
+00:46:35,124 --> 00:46:38,184
+De referência, fica embaixo do vídeo para você que tem acesso aí à gravação.
+
+938
+00:46:38,624 --> 00:46:40,004
+Edição de áudio com IA.
+
+939
+00:46:40,184 --> 00:46:43,164
+Aqui é um ponto importante também, mas eu vou recomendar para você
+
+940
+00:46:43,884 --> 00:46:48,784
+a trilha Maestro, que lá a gente fala de edição de áudio com inteligência artificial, tá?
+
+941
+00:46:48,884 --> 00:46:50,384
+Áudio e música no geral.
+
+942
+00:46:51,612 --> 00:46:53,792
+Aqui tem essa parte de distribuição multicanal também,
+
+943
+00:46:53,952 --> 00:46:56,532
+que depende se você quer que o seu vídeo tenha formatos diferentes
+
+944
+00:46:56,532 --> 00:46:59,272
+para YouTube, Instagram Reels, TikTok, LinkedIn, por aí vai.
+
+945
+00:46:59,392 --> 00:47:02,512
+Você pode acabar derivando o conteúdo para essas mídias,
+
+946
+00:47:02,532 --> 00:47:05,532
+mas a parte boa é que isso aqui, hoje em dia, você coloca os seus agentes,
+
+947
+00:47:05,532 --> 00:47:08,292
+eles já derivam, fazem todos os crops para você,
+
+948
+00:47:08,352 --> 00:47:10,632
+já tem IA para fazer isso também, tá bom?
+
+949
+00:47:11,432 --> 00:47:14,772
+Dito isso, vocês viram aqui o processo,
+
+950
+00:47:15,072 --> 00:47:16,712
+mostrei para vocês um pouquinho também,
+
+951
+00:47:16,952 --> 00:47:19,712
+vocês viram que o processo é muito mais sobre repertório
+
+952
+00:47:19,712 --> 00:47:21,452
+e saber a metodologia do que
+
+953
+00:47:21,452 --> 00:47:23,532
+clicar em ferramenta. Isso vai te manter
+
+954
+00:47:23,532 --> 00:47:25,452
+na linha na hora de criar os seus vídeos.
+
+955
+00:47:25,512 --> 00:47:27,392
+É muito importante, então, ter
+
+956
+00:47:27,392 --> 00:47:29,552
+todas essas etapas aqui. Pode ser
+
+957
+00:47:29,552 --> 00:47:31,572
+que você faça curto. Sei lá, eu vou
+
+958
+00:47:31,572 --> 00:47:33,312
+dedicar 10 minutos pra cada etapa.
+
+959
+00:47:33,512 --> 00:47:35,552
+Tudo bem, mas dedica um tempo pra tomar
+
+960
+00:47:35,552 --> 00:47:37,512
+essas decisões, porque você vai manter mais
+
+961
+00:47:37,512 --> 00:47:39,232
+consistência. Fechado?
+
+962
+00:47:39,352 --> 00:47:41,232
+Na próxima aula eu vou mostrar aqui ainda
+
+963
+00:47:41,232 --> 00:47:43,552
+alguns outros recursos que dá pra você utilizar
+
+964
+00:47:43,552 --> 00:47:45,592
+com as ferramentas, que podem servir
+
+965
+00:47:45,592 --> 00:47:47,512
+aqui no seu processo, já que
+
+966
+00:47:47,512 --> 00:47:49,592
+essa é uma trilha de técnicas e processos
+
+967
+00:47:49,592 --> 00:47:50,572
+e não só de processo.
+

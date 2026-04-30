@@ -1,0 +1,561 @@
+# Video: aula15.blueprint_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-28 16:53
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:04 --> 00:00:04:10] Nesse episódio, nós vamos falar sobre o Blueprint do serviço.
+[00:00:04:15 --> 00:00:09:10] Depois que você já definiu o seu hiperniche, depois que você definiu o seu perfil ideal
+[00:00:09:10 --> 00:00:14:17] de cliente, depois que você já identificou quais são as necessidades dentro do seu
+[00:00:14:17 --> 00:00:18:28] hiperniche, chegou a hora de trabalhar no seu serviço.
+[00:00:19:07 --> 00:00:23:25] Geralmente, nós projetamos produtos, pensamos no público que esse produto vai
+[00:00:23:25 --> 00:00:28:00] atender, pensamos na solução que ele vai entregar, pensamos até na embalagem
+[00:00:28:00 --> 00:00:31:22] do produto, mas quando nós vamos falar de serviço, nós deixamos isso tudo de lado.
+[00:00:32:02 --> 00:00:37:01] Só que é curioso, porque assim como um produto, um serviço também pode ser embalado, também
+[00:00:37:01 --> 00:00:38:22] pode ser projetado.
+[00:00:38:28 --> 00:00:43:04] Inclusive isso não é nada novo, o design de serviços já existe há bastante tempo,
+[00:00:43:06 --> 00:00:47:28] se você quiser pesquisar depois no chat GPT ou no Google também, você vai notar que
+[00:00:47:28 --> 00:00:52:19] é uma abordagem do design thinking, ou seja, o pensamento do design aplicado à
+[00:00:52:19 --> 00:00:54:08] projeção de serviços.
+[00:00:54:08 --> 00:00:59:14] Existem várias ferramentas e uma dessas ferramentas é o Blueprint de serviço, que é o que nós
+[00:00:59:14 --> 00:01:00:07] vamos falar aqui hoje.
+[00:01:00:15 --> 00:01:04:06] Mas antes de eu te explicar o que é e como criar o seu Blueprint de serviço, eu preciso
+[00:01:04:06 --> 00:01:07:03] te mostrar a importância que ele tem.
+[00:01:07:13 --> 00:01:09:03] E eu quero que você pense comigo o seguinte.
+[00:01:09:13 --> 00:01:14:03] Quando você vai apresentar para o seu cliente o seu projeto, é muito importante
+[00:01:14:03 --> 00:01:17:05] que você saiba exatamente o que você vai oferecer para ele.
+[00:01:17:15 --> 00:01:20:03] E eu não estou falando aqui só de uma solução genérica, não é?
+[00:01:20:03 --> 00:01:24:00] vou entregar uma identidade visual, vou entregar logo, vou entregar cor, tipografia,
+[00:01:24:07 --> 00:01:27:22] mas a sistematização desce em entrega.
+[00:01:28:00 --> 00:01:31:19] Se você assistiu o curso de design de identidade de marcas,
+[00:01:31:24 --> 00:01:33:18] a metodologia avançada principalmente,
+[00:01:33:28 --> 00:01:35:07] você viu lá uma estrutura.
+[00:01:35:09 --> 00:01:37:15] Então, tem investigação, estratégia, núcleo da marca,
+[00:01:37:19 --> 00:01:39:15] identidade verbal, identidade visual.
+[00:01:39:23 --> 00:01:43:24] Eu já falei tanto sobre isso que isso já está fixo na minha cabeça.
+[00:01:43:24 --> 00:01:46:21] É fácil para mim apresentar essa metodologia para algum cliente.
+[00:01:46:22 --> 00:01:49:25] E é importante que esteja fácil na sua cabeça também.
+[00:01:49:25 --> 00:01:54:11] Para quando um cliente te fizer uma pergunta, você saber exatamente como responder essa
+[00:01:54:11 --> 00:02:00:10] pergunta e saber exatamente onde na sua metodologia você vai resolver cada problema dele.
+[00:02:00:21 --> 00:02:04:05] É por isso que sistematizar o seu serviço é muito importante.
+[00:02:04:16 --> 00:02:09:03] Mas não só definir a sua metodologia, é muito importante que você defina todo
+[00:02:09:03 --> 00:02:12:09] o processo de interação entre você e o seu cliente.
+[00:02:12:12 --> 00:02:17:19] O Blueprint de serviço é quase como um cronograma, só que muito mais aprofundado.
+[00:02:17:19 --> 00:02:22:15] Porque lá você não coloca só como e quando cada coisa vai ser feita,
+[00:02:22:19 --> 00:02:26:26] mas você também coloca a interação, ou seja, quando você precisa de uma ação do cliente
+[00:02:26:26 --> 00:02:29:07] ou quando você precisa de uma ação sua.
+[00:02:29:21 --> 00:02:33:15] Quando você está em uma etapa e essa etapa precisa de uma outra etapa anterior,
+[00:02:33:20 --> 00:02:36:16] você consegue organizar isso tudo em um fluxo.
+[00:02:36:19 --> 00:02:39:08] Por isso que é muito importante projetar o seu serviço.
+[00:02:39:12 --> 00:02:44:07] E aqui eu vou te mostrar isso com base na metodologia de design de identidade de marcas.
+[00:02:44:13 --> 00:02:47:12] Mas eu quero que você use isso aqui apenas de estrutura.
+[00:02:47:12 --> 00:02:52:27] Não importa se você trabalha criando sites, se você trabalha criando editorial, né,
+[00:02:52:27 --> 00:02:57:04] livros, se você trabalha com motion, não importa qual área do design você trabalha,
+[00:02:57:08 --> 00:02:58:10] de qual área é o seu negócio.
+[00:02:58:19 --> 00:03:00:12] Você consegue aplicar essa metodologia.
+[00:03:00:21 --> 00:03:05:19] Porque o mais importante aqui é a estrutura, é o processo para construir o seu blueprint,
+[00:03:05:23 --> 00:03:07:27] para definir qual é o serviço que você entrega.
+[00:03:07:29 --> 00:03:11:12] E aí é o seguinte, eu vou te mostrar aqui então essa estrutura e é importante que
+[00:03:11:12 --> 00:03:14:10] você adapte ela para o seu negócio, ok?
+[00:03:14:16 --> 00:03:15:06] Bora lá então.
+[00:03:15:06 --> 00:03:17:19] Deixa eu te apresentar aqui o Blueprint.
+[00:03:18:10 --> 00:03:22:08] Esse arquivo, inclusive, eu vou deixar aqui embaixo para você fazer uma cópia dele.
+[00:03:22:12 --> 00:03:23:29] Ele está no Figma, tá?
+[00:03:23:29 --> 00:03:27:24] Então você vai precisar baixar o Figma ou acessar o Figma no seu navegador para
+[00:03:27:24 --> 00:03:32:16] poder abrir esse arquivo e aí você salva uma cópia e consegue editar, beleza?
+[00:03:33:05 --> 00:03:37:00] Bom, nós temos então aqui dois processos.
+[00:03:37:00 --> 00:03:38:06] um processo mais...
+[00:03:39:08 --> 00:03:43:23] mais completo, onde eu mostro mais detalhes aqui, um passo a passo,
+[00:03:44:01 --> 00:03:47:14] com várias interações, e um esboço aqui em cima.
+[00:03:47:27 --> 00:03:52:17] Para criar o seu Blueprint, é muito importante que você faça primeiro o esboço,
+[00:03:52:20 --> 00:03:56:05] porque se você já vem direto para cá, você vai se sentir muito confuso ou confusa,
+[00:03:56:10 --> 00:03:59:13] com tanto de interação que você tem entre as etapas.
+[00:03:59:24 --> 00:04:03:18] O esboço serve para você desenhar a linearidade do seu serviço.
+[00:04:03:19 --> 00:04:07:00] Se você ainda não está entendendo, vai ficar muito claro agora.
+[00:04:07:02 --> 00:04:08:22] Quero que você pense comigo o seguinte.
+[00:04:08:22 --> 00:04:12:12] Seu serviço tem um antes, um durante e um depois.
+[00:04:12:27 --> 00:04:15:16] Antes é o período de relacionamento com o cliente
+[00:04:15:16 --> 00:04:17:07] até que ele feche o projeto com você.
+[00:04:17:16 --> 00:04:18:29] Isso tem uma cronologia.
+[00:04:19:08 --> 00:04:22:04] Você nunca vai começar o projeto antes de fechar com o seu cliente.
+[00:04:22:05 --> 00:04:26:17] Você precisa do antes para depois e para a etapa de construção.
+[00:04:26:22 --> 00:04:29:14] Faz sentido? Então tem uma cronologia, um passo a passo.
+[00:04:29:14 --> 00:04:31:17] Uma etapa posterior à outra.
+[00:04:32:01 --> 00:04:34:28] Então, o blueprint é uma linha do tempo
+[00:04:34:28 --> 00:04:38:28] com cada passo que você vai executar no seu serviço.
+[00:04:39:05 --> 00:04:41:28] Esse blueprint não serve para você mostrar para o seu cliente,
+[00:04:41:28 --> 00:04:43:09] você pode mostrar se quiser,
+[00:04:43:19 --> 00:04:46:01] mas ele é muito complicado, você vai ter que ficar explicando para ele,
+[00:04:46:02 --> 00:04:49:07] então eu não recomendo, apesar de que você pode fazer isso se quiser,
+[00:04:49:20 --> 00:04:52:29] mas é para deixar claro na sua cabeça cada uma das etapas
+[00:04:52:29 --> 00:04:55:26] e o que você precisa do cliente e de você,
+[00:04:56:17 --> 00:04:58:14] de pontos de contato, de elementos,
+[00:04:58:25 --> 00:05:00:25] de evidências que você vai entregar para o cliente no final,
+[00:05:00:26 --> 00:05:02:04] então é uma organização.
+[00:05:02:04 --> 00:05:09:08] Nós estamos fazendo isso aqui na etapa de demanda porque quando você entender o seu
+[00:05:09:08 --> 00:05:13:04] serviço, vai ficar mais fácil de nós trabalharmos a sua proposta.
+[00:05:13:08 --> 00:05:16:29] Existem vários elementos dentro da proposta, mas você precisa saber exatamente o que você
+[00:05:16:29 --> 00:05:18:07] está oferecendo para o seu cliente.
+[00:05:18:09 --> 00:05:20:25] É por isso que nós vamos falar aqui do Blueprint, beleza?
+[00:05:21:07 --> 00:05:21:23] Então vamos lá.
+[00:05:21:24 --> 00:05:23:19] Deixa eu dar um zoom aqui para você entender melhor.
+[00:05:25:02 --> 00:05:32:02] Aqui nesse esquema, eu dividi esse serviço em algumas etapas e coloquei uma cor diferente
+[00:05:32:02 --> 00:05:36:20] pra cada etapa. Então, a gente tem aqui a etapa de prospecção de amarelo, que eu já
+[00:05:36:20 --> 00:05:40:21] vou passar esses passos aqui com você. A etapa de investigação, ou seja, depois que
+[00:05:40:21 --> 00:05:47:02] o cliente fechou aqui com você, a gente entra na etapa de investigação. Tudo esse
+[00:05:47:02 --> 00:05:51:25] passo a passo aqui é o que eu ensino no curso de identidade de marca, na metodologia
+[00:05:51:25 --> 00:05:56:22] avançada. Depois da investigação vem a estratégia, depois da estratégia vem
+[00:05:56:22 --> 00:06:02:01] criação, que aqui eu resumi, núcleo da marca, identidade verbal, identidade visual.
+[00:06:03:06 --> 00:06:08:23] E depois tem a entrega, eu resumi também os pontos de contato aqui, entrega e pós-venda,
+[00:06:08:27 --> 00:06:12:14] sendo que a pós-venda é uma oportunidade para fechar novos serviços com o seu cliente
+[00:06:12:14 --> 00:06:13:21] e reiniciar o processo.
+[00:06:13:28 --> 00:06:18:24] Então, olha, fechou um novo serviço aqui, criou esse novo serviço, entregou esse serviço
+[00:06:18:24 --> 00:06:19:21] e o pós-venda continua.
+[00:06:19:23 --> 00:06:20:26] Então, é um ciclo.
+[00:06:21:00 --> 00:06:23:14] Você continua prestando novos serviços para o cliente.
+[00:06:23:22 --> 00:06:28:10] Isso aqui muita gente chama inclusive de funil, porque é um processo que você segue
+[00:06:28:10 --> 00:06:29:12] junto com o seu cliente.
+[00:06:29:12 --> 00:06:32:07] Aqui, a gente tem mais uma linha do tempo do que um funil,
+[00:06:33:00 --> 00:06:34:29] mas eu quero passar cada um dos passos com você.
+[00:06:35:19 --> 00:06:37:25] Então, a primeira etapa aqui, olha, quando você...
+[00:06:38:22 --> 00:06:43:24] fizer uma cópia desse blueprint, você vai notar então que existem várias etapas e elas
+[00:06:43:24 --> 00:06:44:28] estão interligadas, tá vendo?
+[00:06:45:13 --> 00:06:49:27] Então, eu tenho aqui a etapa de preparação, em cima eu coloquei linha do tempo que eu acabei
+[00:06:49:27 --> 00:06:54:01] de ler com você, prospecção, investigação, estratégia, tem aqui um período de dias,
+[00:06:54:03 --> 00:06:55:22] você pode mudar isso aqui, tá?
+[00:06:56:01 --> 00:07:00:20] Depende do seu projeto, eu quero que você pense com a sua cabeça quanto tempo
+[00:07:00:20 --> 00:07:03:03] você precisa para realizar cada etapa sua, tá?
+[00:07:03:15 --> 00:07:05:12] Então, aqui 7 dias, criação e por aí vai.
+[00:07:05:12 --> 00:07:08:16] E aí, dentro dessas etapas, o que você pode fazer?
+[00:07:08:22 --> 00:07:10:29] Quando você fizer uma cópia, você vai poder esticar.
+[00:07:11:16 --> 00:07:13:15] Então, eu precisei de mais etapas aqui.
+[00:07:13:21 --> 00:07:18:16] Segura, out, puxa e vai adicionando quantas etapas forem necessárias em cada um desses
+[00:07:18:16 --> 00:07:18:25] pontos.
+[00:07:19:01 --> 00:07:22:25] Então, aqui seguindo o que eu já ensinei para vocês, definição do hiperniche é
+[00:07:22:25 --> 00:07:23:22] a primeira etapa.
+[00:07:24:01 --> 00:07:28:07] Depois, estudo de mercado, blueprint de serviço, que é o que a gente está fazendo
+[00:07:28:07 --> 00:07:28:20] agora.
+[00:07:29:00 --> 00:07:32:09] Depois, a proposta encantadora, que eu vou ensinar para vocês na próxima aula.
+[00:07:32:23 --> 00:07:34:18] E aí entra o processo de prospecção.
+[00:07:34:18 --> 00:07:40:01] Só que aqui, a próxima aula depois de proposta encantadora, não vai ser seleção de prospectos,
+[00:07:40:01 --> 00:07:40:09] tá?
+[00:07:40:09 --> 00:07:40:24] Por quê?
+[00:07:41:05 --> 00:07:45:21] Porque depois que a gente acabar a proposta encantadora, nós vamos entrar no módulo
+[00:07:45:21 --> 00:07:46:26] de ambiente, tá?
+[00:07:46:26 --> 00:07:51:06] Então eu preciso ensinar outras coisas para vocês que estão aqui no meio, que
+[00:07:51:06 --> 00:07:53:24] não estão inclusas aqui nesses bolsos, tá?
+[00:07:54:01 --> 00:07:58:00] Vale lembrar que eu fiz esses bolsos pela primeira vez há dois anos atrás, olha
+[00:07:58:00 --> 00:07:59:15] como é que o tempo passa rápido.
+[00:07:59:22 --> 00:08:01:27] Eu fiz isso daqui em 2021, tá?
+[00:08:01:27 --> 00:08:05:24] Então pode ser que algumas coisas estejam diferentes, mas a base é a mesma, ok?
+[00:08:06:13 --> 00:08:11:02] Então depois da proposta encantadora, vem a seleção de prospectos que eu vou ensinar para vocês também mais para frente.
+[00:08:11:11 --> 00:08:17:11] O contato direto com esses prospectos que a gente pode dar um outro nome também agora no futuro,
+[00:08:17:14 --> 00:08:23:17] eu não sei se eu vou continuar chamando assim, já que eu quero mostrar para vocês que é possível ter uma abordagem mais humana,
+[00:08:23:19 --> 00:08:24:25] menos de venda, né?
+[00:08:25:06 --> 00:08:29:19] Uma coisa mais próxima do cliente, então talvez a gente mude esse nome mais para frente nas aulas aí.
+[00:08:29:19 --> 00:08:34:03] Então, contato direto, conversa com os clientes selecionados e o fechamento.
+[00:08:34:07 --> 00:08:36:14] Claro que podem existir etapas aqui dentro.
+[00:08:36:29 --> 00:08:41:17] Essa parte aqui de prospecção tá, aqui tá simplificado, eu vou ensinar pra vocês
+[00:08:41:17 --> 00:08:46:19] com muito mais etapas e de um jeito muito mais profundo depois que a gente falar sobre
+[00:08:46:19 --> 00:08:48:28] o ambiente, o módulo de ambiente.
+[00:08:49:12 --> 00:08:53:00] E olha só que interessante, só passando aqui rapidinho, um passo a passo, bem linear,
+[00:08:53:20 --> 00:08:57:16] cliente fechou, faz um diagnóstico com ele, muita gente também chama de briefing
+[00:08:57:16 --> 00:09:02:16] aqui. Depois vem a auditoria de mercado, público e negócio, apresenta a investigação
+[00:09:02:16 --> 00:09:07:09] para o cliente. Repara que eu coloquei uns sins aqui, esses são os momentos que eu preciso
+[00:09:07:09 --> 00:09:11:18] da interação do cliente. Então é legal separar por cor assim, conversa com o cliente,
+[00:09:11:22 --> 00:09:15:07] eu preciso da interação com o cliente. Então ele precisa estar lá. Diagnóstico
+[00:09:15:07 --> 00:09:20:28] com o cliente, eu preciso estar junto com o cliente. Apresentação da investigação,
+[00:09:21:28 --> 00:09:26:04] eu preciso também estar junto com o cliente. Beleza? Vou dar um zoom aqui porque eu
+[00:09:26:10 --> 00:09:28:12] que estava pequenininho ali para vocês.
+[00:09:29:05 --> 00:09:33:00] E aí vai, plataforma de posicionamento, definição de pontos de contato, definição
+[00:09:33:00 --> 00:09:38:12] do público, que aqui, inclusive eu poderia tirar isso daqui, a gente reformulou depois
+[00:09:39:09 --> 00:09:43:25] a metodologia e aí dentro da Bayer persona a gente já define o público.
+[00:09:45:05 --> 00:09:48:23] Mas aí é basicamente isso. Vou colocar aqui mais número 7.
+[00:09:49:29 --> 00:09:55:26] É bem interativo, você vai conseguir editar tudo certinho quando você fizer uma cópia.
+[00:09:56:04 --> 00:09:59:23] Apresenta a estratégia aqui para o cliente e vai, definição de arquétipo, atributo,
+[00:09:59:25 --> 00:10:03:08] tono de voz, roteiro da marca, brand persona, núcleo da marca e aí vai.
+[00:10:03:11 --> 00:10:08:20] Aqui eu dividi em duas linhas do tempo diferentes, da identidade visual e identidade verbal.
+[00:10:08:27 --> 00:10:12:25] Coloquei 14 dias para cada um, você pode colocar quantos dias quiser também.
+[00:10:13:09 --> 00:10:17:07] O legal, se você quiser também, é fazer o seguinte, você puxa...
+[00:10:18:21 --> 00:10:19:18] Puxa aqui...
+[00:10:20:19 --> 00:10:25:08] Coloca a primeira linha, prospecção, e começa lá, definição de hipernicho.
+[00:10:25:21 --> 00:10:27:13] Você vai definir hipernicho toda vez?
+[00:10:27:21 --> 00:10:27:28] Não?
+[00:10:28:09 --> 00:10:35:06] Então, não vou colocar, vou colocar direto em prospecção aqui, com o meu cliente.
+[00:10:36:06 --> 00:10:39:24] Vamos supor que é a prospecção, tem só 4 etapas, essas são as 4 etapas.
+[00:10:39:26 --> 00:10:41:01] Você vem cá...
+[00:10:41:01 --> 00:10:43:03] Beleza, o Blueprint você vai montar desse jeito, tá?
+[00:10:43:16 --> 00:10:44:27] Depois pega aqui investigação.
+[00:10:46:16 --> 00:10:49:13] Beleza, a minha etapa de investigação é exatamente o que o Juan ensinou.
+[00:10:49:18 --> 00:10:51:24] Então, vou colocar aqui, eu tenho o diagnóstico com o cliente.
+[00:10:52:24 --> 00:10:54:16] Exatamente essas etapas.
+[00:10:54:25 --> 00:10:58:01] Só que eu gosto de começar com...
+[00:10:59:02 --> 00:11:00:16] A investigação do negócio.
+[00:11:01:06 --> 00:11:02:21] Então, coloco aqui primeiro o negócio.
+[00:11:03:04 --> 00:11:04:04] Você pode ir.
+[00:11:04:07 --> 00:11:04:23] Olha só.
+[00:11:05:05 --> 00:11:06:00] Está de birra comigo.
+[00:11:06:28 --> 00:11:08:21] Não quer deixar eu colocar alinhado, não olha aqui.
+[00:11:09:27 --> 00:11:11:08] Parecendo o...
+[00:11:12:05 --> 00:11:12:25] ilustrator.
+[00:11:14:12 --> 00:11:17:01] Então, você pode colocar na ordem que quiser, beleza?
+[00:11:17:29 --> 00:11:21:06] Dessa maneira, vai ficar muito mais fácil você montar o seu esboço primeiro,
+[00:11:21:14 --> 00:11:24:10] colocando cada etapa do seu serviço.
+[00:11:24:14 --> 00:11:27:20] Uma vez que você acabou, então, o esboço do seu serviço,
+[00:11:27:23 --> 00:11:30:04] que você tem uma linha do tempo aqui linear,
+[00:11:30:20 --> 00:11:33:08] nós vamos começar a trabalhar na interação.
+[00:11:33:27 --> 00:11:35:25] Então, são as etapas do cliente, olha só,
+[00:11:35:25 --> 00:11:38:17] que vai ficar um pouco mais complicado, mas você vai entender tudo muito bem.
+[00:11:38:28 --> 00:11:41:02] Nós temos em cima evidências.
+[00:11:41:02 --> 00:11:47:26] Evidências são todos os documentos, arquivos, que são evidências de alguma etapa concluída.
+[00:11:48:03 --> 00:11:51:08] Então, por exemplo, realizar estudo de mercado, qual que é a evidência?
+[00:11:51:11 --> 00:11:53:21] O arquivo de estudo de mercado que fica no seu drive.
+[00:11:54:07 --> 00:11:56:06] Construir o blueprint, qual que é a evidência?
+[00:11:56:09 --> 00:11:57:11] O arquivo do blueprint.
+[00:11:57:25 --> 00:12:02:16] Então, sempre que você tem um documento importante em alguma etapa, você vai colocar
+[00:12:02:16 --> 00:12:04:05] aqui em evidências.
+[00:12:04:11 --> 00:12:08:10] Por exemplo, olha só, participa da reunião de diagnóstico.
+[00:12:08:14 --> 00:12:08:20] Quem?
+[00:12:09:01 --> 00:12:09:27] O cliente, olha.
+[00:12:09:27 --> 00:12:15:08] Tá aqui, ação, ações do cliente. Ele participou da reunião de diagnóstico. E aqui,
+[00:12:15:11 --> 00:12:19:22] faça o diagnóstico, essa é a minha ação, olha, ações de palco, ou seja, você que
+[00:12:19:22 --> 00:12:24:16] está atuando. Esses nomes, inclusive, não são nomes que eu dei, tá? Esses nomes
+[00:12:24:16 --> 00:12:28:20] já existem, palco, bastidor, por isso que eu mantive. Então, olha só, só
+[00:12:28:20 --> 00:12:33:10] para você entender uma etapa simples aqui. Etapa de diagnóstico, nós já desenhamos
+[00:12:33:10 --> 00:12:38:14] ela aqui em cima, certo? Desenhamos ela. Aqui ela tá cinza porque é só uma linha
+[00:12:38:14 --> 00:12:43:08] do tempo eu dividi por cores. Aqui eu posso dividir por camadas. Então eu tenho aqui etapa
+[00:12:43:08 --> 00:12:49:26] do cliente, minha etapa e evidência. A evidência é o arquivo que eu tenho no final, então
+[00:12:49:26 --> 00:12:54:05] eu tenho um briefing no final. Sempre que eu tenho uma ação nessa camada aqui, é
+[00:12:54:05 --> 00:12:57:21] uma ação do cliente, então fica fácil de você visualizar sempre que você vai
+[00:12:57:21 --> 00:13:01:21] precisar do cliente. Quando o cliente não atua, olha, fica um espaço. Então você
+[00:13:01:21 --> 00:13:04:29] consegue visualizar também, eu coloquei esse foguinho aqui, aqui no caso são
+[00:13:04:29 --> 00:13:10:00] sete dias sem ações do cliente, ou seja, o cliente está esperando alguma ação minha.
+[00:13:10:15 --> 00:13:12:03] Então você gerencia muito melhor isso.
+[00:13:13:17 --> 00:13:18:01] E aqui embaixo eu tenho as minhas ações, então eu tenho aqui, ações de bastidores.
+[00:13:18:07 --> 00:13:21:10] Qual que é a diferença de ação de palco para ação de bastidor, que é uma outra
+[00:13:21:10 --> 00:13:22:01] coisa que confunde.
+[00:13:22:12 --> 00:13:26:22] Ação de palco é aquilo que você faz e o cliente te vê fazendo, por isso chamamos
+[00:13:26:22 --> 00:13:28:01] ação de palco.
+[00:13:28:08 --> 00:13:32:23] Então, por exemplo, diagnóstico, é você e o seu cliente junto, então ele te vê
+[00:13:32:23 --> 00:13:33:13] agindo ali.
+[00:13:33:27 --> 00:13:36:22] Um outro momento aqui, a apresentação da investigação.
+[00:13:37:01 --> 00:13:40:28] Você apresenta a investigação, isso é uma ação de palco, sempre as ações
+[00:13:40:28 --> 00:13:49:04] de palco são algum tipo de evento. Por exemplo, fazer o briefing com o cliente, apresentar
+[00:13:49:04 --> 00:13:53:26] a investigação, apresentar a marca e por aí vai. Então, são etapas importantes. Por
+[00:13:53:26 --> 00:13:58:03] isso que é legal separar. Você vê aqui, ação de palco. Consegue isolar essa linha
+[00:13:58:03 --> 00:14:02:18] aqui nessa camada? Quais são as etapas importantes de interação com o cliente?
+[00:14:02:24 --> 00:14:08:11] Já a parte de baixo, que nós chamamos aqui de ações de bastidores, são as ações
+[00:14:08:11 --> 00:14:14:01] que você faz sozinho, que não necessariamente o seu cliente te vê fazendo. Isso é importante
+[00:14:14:01 --> 00:14:18:10] para você notar esses gaps. Por exemplo, olha só o tanto de coisas que eu fiz aqui, mas
+[00:14:18:10 --> 00:14:23:19] o cliente nem me viu fazendo. É legal você notar isso até mesmo para mostrar esse valor
+[00:14:23:19 --> 00:14:27:20] para ele. Muitas vezes, nós trabalhamos muito em um projeto e o cliente nem fica
+[00:14:27:20 --> 00:14:32:12] sabendo. Parece que foi só uma inspiração criativa de um dia para o outro, você teve
+[00:14:32:12 --> 00:14:36:16] a criatividade de criar a marca dele. Mas não, tem muito processo por trás. E
+[00:14:36:16 --> 00:14:37:26] às vezes o cliente nem fica sabendo.
+[00:14:38:02 --> 00:14:42:05] Então, quando você nota que existe esse gap aqui, esse espaço, onde o seu cliente
+[00:14:42:05 --> 00:14:45:21] não está interagindo com você, às vezes é legal você mandar alguns insights pra
+[00:14:45:21 --> 00:14:49:22] ele, olha, estou trabalhando nisso, olha só que insight legal, pra mostrar pra ele
+[00:14:49:22 --> 00:14:50:24] o que você está fazendo.
+[00:14:51:07 --> 00:14:55:22] Depois, claro, nas apresentações, você tem a oportunidade, ao seu palco, literalmente,
+[00:14:56:03 --> 00:14:59:03] pra mostrar pra ele todos os resultados que você coletou.
+[00:14:59:13 --> 00:15:04:14] Então, olhando assim, parece muito complexo porque tem várias etapas diferentes, mas
+[00:15:04:14 --> 00:15:09:03] Mas se nós passarmos aqui rapidamente, você vai ver que não é tão difícil assim.
+[00:15:09:10 --> 00:15:11:04] É o mesmo processo que eu vou te falar para fazer.
+[00:15:11:08 --> 00:15:18:13] Você vai segurar a alt, puxar aqui, já pode deletar esse e esse é o esqueleto do Blueprint.
+[00:15:19:09 --> 00:15:23:13] Inclusive repetindo, essa não é uma metodologia minha, eu não criei o Blueprint de serviço,
+[00:15:23:13 --> 00:15:24:07] ele já existe.
+[00:15:24:16 --> 00:15:28:19] Se você quiser, tanto no chat EPT ou no Google, você consegue se encontrar na
+[00:15:28:19 --> 00:15:32:14] internet mais informações sobre essa ferramenta, o que pode ser muito útil para você.
+[00:15:32:23 --> 00:15:33:19] Mas é muito simples.
+[00:15:34:09 --> 00:15:40:04] Basicamente, você vai pegar aqui, esse é o Figma Jam, é uma ferramenta do Figma.
+[00:15:40:13 --> 00:15:46:03] Você pode pegar aqui um bloco novo, se você quiser criar, ou o que eu recomendo, use os
+[00:15:46:03 --> 00:15:49:27] bloquinhos que eu já criei aqui, que vai ficar mais fácil de você hierarquizar.
+[00:15:50:07 --> 00:15:50:18] Beleza?
+[00:15:50:21 --> 00:15:56:03] Então segura Alt e cola aqui, segura Alt e solta, aí você vai conseguir usar.
+[00:15:56:07 --> 00:16:01:12] Se você puxar e estiver vinculado assim, é só você clicar na linha e deleta.
+[00:16:01:12 --> 00:16:04:16] aperta o botão de direct no seu teclado, beleza?
+[00:16:04:24 --> 00:16:06:22] Então você pega aqui o quadrinho,
+[00:16:06:27 --> 00:16:11:16] basicamente os espaços que você vai utilizar são os espaços entre as linhas, beleza?
+[00:16:11:19 --> 00:16:15:06] E eu recomendo você seguir essa minha sugestão de cores aqui,
+[00:16:15:17 --> 00:16:18:09] porque fica mais fácil de você visualizar os pontos mais importantes.
+[00:16:18:10 --> 00:16:21:04] Eu já vou voltar aqui no Blueprint e te mostrar isso na prática, tá?
+[00:16:21:17 --> 00:16:23:14] Mas eu quero te mostrar aqui como que você vai criar.
+[00:16:23:22 --> 00:16:26:03] Então, por exemplo, está na etapa de prospecção aqui.
+[00:16:26:23 --> 00:16:28:09] Qual que é a primeira etapa de prospecção?
+[00:16:28:09 --> 00:16:31:09] Então, vamos pegar essa prospecção básica aqui que nós desenhamos.
+[00:16:33:02 --> 00:16:37:07] Só relembrando que eu vou ensinar para vocês uma prospecção mais aprofundada do que essa, tá?
+[00:16:37:16 --> 00:16:39:29] Mas vamos lá, tem etapa aqui de seleção de próspects.
+[00:16:40:01 --> 00:16:41:09] Então, vou apagar tudo isso aqui.
+[00:16:42:05 --> 00:16:43:20] Seleção de próspects.
+[00:16:43:23 --> 00:16:46:02] É uma ação minha ou o cliente está envolvido com isso?
+[00:16:46:06 --> 00:16:47:15] Não. Então, eu não vou colocar aqui.
+[00:16:47:21 --> 00:16:50:18] É uma ação de palco, ou seja, o cliente me vê selecionando os próspects?
+[00:16:50:21 --> 00:16:51:02] Não.
+[00:16:51:12 --> 00:16:53:03] É uma ação então de bastidor.
+[00:16:53:17 --> 00:16:54:29] Então, eu faço essa ação aqui.
+[00:16:55:07 --> 00:16:58:03] Se você quiser seguir a minha sugestão, você vai pegar aqui
+[00:16:58:18 --> 00:17:01:03] um card de bastidor e vai escrever aqui.
+[00:17:01:03 --> 00:17:04:03] Seleção de prósper.
+[00:17:05:18 --> 00:17:09:19] Beleza? Então, essa vai ser a sua primeira etapa, seleção de próspectes.
+[00:17:09:23 --> 00:17:14:03] Às vezes, eu gosto de colocar esses emojis até para poder filtrar,
+[00:17:14:07 --> 00:17:17:00] ficar mais fácil de encontrar etapas que são importantes,
+[00:17:17:05 --> 00:17:18:03] igual eu fiz aqui, olha. Está vendo?
+[00:17:18:21 --> 00:17:21:19] Fechamento é uma etapa importante, seleção é uma etapa importante,
+[00:17:21:26 --> 00:17:22:17] diagnóstico e para e vai.
+[00:17:24:13 --> 00:17:25:16] é uma hierarquia.
+[00:17:26:09 --> 00:17:27:27] Então, seleção de próspectos.
+[00:17:28:02 --> 00:17:29:29] Tem alguma evidência
+[00:17:29:29 --> 00:17:32:03] que eu tenho quando faço a seleção de próspectos?
+[00:17:32:09 --> 00:17:32:19] Tem.
+[00:17:32:27 --> 00:17:33:24] Qual que é a evidência?
+[00:17:33:29 --> 00:17:36:08] A minha lista de próspectos.
+[00:17:36:15 --> 00:17:37:04] Então, por exemplo,
+[00:17:37:15 --> 00:17:40:09] eu usei o Google para poder buscar novos clientes.
+[00:17:40:12 --> 00:17:42:02] Eu vou ensinar para vocês várias ferramentas.
+[00:17:42:13 --> 00:17:44:26] Você usou o Google lá para criar sua lista de novos clientes
+[00:17:44:26 --> 00:17:46:06] e você tem uma lista de contatos.
+[00:17:46:17 --> 00:17:49:03] Você pode mandar email, mandar um WhatsApp e por aí vai.
+[00:17:50:07 --> 00:17:53:06] Essa lista é uma evidência, é um documento que você tem.
+[00:17:53:06 --> 00:17:59:16] Então, você termina a sua seleção de prospectos quando você tem a lista de prospectos, beleza?
+[00:17:59:29 --> 00:18:02:10] Rui, o que são processos de suporte?
+[00:18:02:24 --> 00:18:07:24] Processos de suporte são etapas anteriores que te ajudam a concluir aquela etapa.
+[00:18:07:26 --> 00:18:09:00] Deixa eu dar um exemplo aqui na prática.
+[00:18:10:03 --> 00:18:13:29] Aqui, você envia a proposta para o seu cliente, essa é uma etapa importante.
+[00:18:14:11 --> 00:18:18:01] Antes disso, você tem o contato direto com ele, envia a mensagem de confirmação e
+[00:18:18:01 --> 00:18:19:13] aí você enviou a proposta.
+[00:18:19:22 --> 00:18:22:00] A sua proposta tem lá as formas de pagamento.
+[00:18:22:00 --> 00:18:27:02] Vamos supor que uma das suas formas de pagamento é um link que o cliente clica e já paga
+[00:18:27:02 --> 00:18:27:19] tudo online.
+[00:18:28:06 --> 00:18:32:00] Para que você tenha esse link, você vai precisar aqui de um processo de suporte, uma
+[00:18:32:00 --> 00:18:33:08] ação de suporte, que é o que?
+[00:18:33:13 --> 00:18:35:00] Configurar o sistema de pagamento.
+[00:18:35:06 --> 00:18:39:15] Para que essa etapa seja concluída, essa é uma etapa anterior que nós nem chamamos
+[00:18:39:15 --> 00:18:42:09] aqui de bastidor, porque o bastidor faz parte do processo.
+[00:18:42:10 --> 00:18:45:14] Isso aqui você vai fazer uma vez e depois não precisa fazer mais.
+[00:18:45:24 --> 00:18:47:11] Só que você precisa fazer a primeira vez.
+[00:18:47:18 --> 00:18:50:01] Então é um processo de suporte, beleza?
+[00:18:50:01 --> 00:18:53:25] nesse Blueprint todo aqui foi o único processo de suporte que eu coloquei,
+[00:18:53:27 --> 00:18:56:29] mas sempre que você notar que precisa de alguma configuração
+[00:18:56:29 --> 00:19:00:25] ou de algum elemento que você não vai ficar fazendo ele toda vez,
+[00:19:01:01 --> 00:19:03:25] mas é importante que ele esteja configurado,
+[00:19:03:27 --> 00:19:07:09] que ele esteja bem preparado, organizado,
+[00:19:07:16 --> 00:19:10:25] é bom você colocar isso nos seus processos de suporte, beleza?
+[00:19:11:07 --> 00:19:12:15] Então, basicamente é isso.
+[00:19:12:15 --> 00:19:14:06] Olha lá, você fez a seleção de prospect,
+[00:19:14:15 --> 00:19:16:00] depois vem o contato direto.
+[00:19:16:06 --> 00:19:19:27] O contato direto, o cliente vê você fazendo? Vê.
+[00:19:19:27 --> 00:19:26:22] Então, aqui no contato direto é uma ação de palco, é uma ação sua com o cliente.
+[00:19:26:27 --> 00:19:27:28] Aqui o cliente é...
+[00:19:29:08 --> 00:19:29:29] responde...
+[00:19:31:28 --> 00:19:36:15] sua mensagem. Eu sei que parece muito teórico isso daqui, né? Você está querendo uma
+[00:19:36:15 --> 00:19:40:27] coisa muito prática, nós estamos aqui num planejamento, você vai falar, cara, como
+[00:19:40:27 --> 00:19:46:03] é que isso aqui vai me ajudar? Mas, acredite em mim, o maior valor que existe no Blueprint
+[00:19:46:03 --> 00:19:50:24] é você organizar na sua cabeça os seus processos. Isso aqui para a equipe depois
+[00:19:50:24 --> 00:19:54:00] também é muito bom, se você quiser ensinar para alguém depois fazer o que você está
+[00:19:54:00 --> 00:19:58:05] fazendo. Então, é uma documentação do seu negócio, é uma ferramenta muito
+[00:19:58:18 --> 00:20:03:11] E para você é importante isso daqui, até para depois, quando você for executar o seu
+[00:20:03:11 --> 00:20:06:23] serviço, você usar de suporte, você voltar aqui e falar qual que é a próxima etapa,
+[00:20:06:23 --> 00:20:07:14] o que que vem a seguir.
+[00:20:07:26 --> 00:20:11:02] Então por isso que eu recomendo muito, é um tempo que você vai gastar sim no início,
+[00:20:11:09 --> 00:20:14:08] mas vai valer muito a pena lá na frente, tá bom?
+[00:20:14:18 --> 00:20:17:26] Então por isso que eu estou te mostrando aqui no passo a passo, porque quando essa
+[00:20:17:26 --> 00:20:19:29] aula aqui terminar, vai chegar a sua hora de criar.
+[00:20:20:11 --> 00:20:24:17] E aí eu quero que você pegue o link, duplique esse arquivo e crie o seu Blueprint
+[00:20:24:17 --> 00:20:25:26] de serviço, beleza?
+[00:20:25:26 --> 00:20:31:13] Então, tem ação aqui do cliente, depois do contato direto, tem a conversa com os selecionados.
+[00:20:31:26 --> 00:20:37:02] Então aqui eu poderia até tirar esse contato direto, vou colocar assim na verdade.
+[00:20:37:14 --> 00:20:40:26] Fiz o contato direto, alguns responderam.
+[00:20:41:08 --> 00:20:45:18] Os que responderam, eu vou ter uma conversa com eles, olha, estou criando uma linha do
+[00:20:45:18 --> 00:20:45:29] tempo.
+[00:20:46:27 --> 00:20:48:12] Posso até colocar o mesmo aqui assim.
+[00:20:49:10 --> 00:20:50:17] Conversa com os selecionados.
+[00:20:50:17 --> 00:20:53:19] Aqui eu apertei I, igual no Illustrator, pra pegar a corta.
+[00:20:55:06 --> 00:20:56:26] Conversa com os selecionados.
+[00:20:57:11 --> 00:20:59:17] Aqui o cliente conversa com você.
+[00:21:02:13 --> 00:21:04:06] Cliente, conversa.
+[00:21:05:25 --> 00:21:09:12] Ou você pode colocar cliente, me apresenta...
+[00:21:10:21 --> 00:21:16:10] suas dores e necessidades, que eu vou ensinar para vocês dentro dessa conversa chave aqui,
+[00:21:16:14 --> 00:21:22:00] é uma conversa importante de venda, como que você faz mais perguntas do que respostas,
+[00:21:22:08 --> 00:21:22:09] tá?
+[00:21:23:03 --> 00:21:25:01] Você vai fazer o seu cliente falar muito mais.
+[00:21:25:25 --> 00:21:28:27] Então olha só, vamos ver se você pegou a lógica aqui.
+[00:21:28:27 --> 00:21:30:19] Nesse momento...
+[00:21:31:29 --> 00:21:33:18] Olha só quantas etapas nós fizemos.
+[00:21:33:22 --> 00:21:34:09] Ação de bastidor.
+[00:21:34:12 --> 00:21:36:21] Selecionamos os prospects, entramos em contato com eles,
+[00:21:36:29 --> 00:21:37:25] alguns responderam,
+[00:21:38:04 --> 00:21:39:18] e então esses que responderam...
+[00:21:39:18 --> 00:21:42:01] Eu posso até... Olha só como é que dá para ir melhorando, olha só.
+[00:21:42:16 --> 00:21:43:26] Os que responderam.
+[00:21:45:07 --> 00:21:46:16] Marcar uma conversa.
+[00:21:49:09 --> 00:21:50:24] E aqui marco uma conversa.
+[00:21:53:08 --> 00:21:56:11] Pode colocar tão que quiser cliente, marca uma conversa.
+[00:21:58:06 --> 00:21:59:24] Aí o que que você tem aqui de evidência?
+[00:22:01:11 --> 00:22:01:28] VADAT!
+[00:22:03:07 --> 00:22:05:16] é a data da conversa.
+[00:22:07:08 --> 00:22:08:05] Eu acho que vi errado aqui.
+[00:22:09:05 --> 00:22:11:24] Está lá em cima, está até cortando aí para vocês, poxa.
+[00:22:11:26 --> 00:22:12:22] Deixa eu enquadrar isso melhor.
+[00:22:13:15 --> 00:22:16:09] Então você tem aqui a data da conversa.
+[00:22:16:14 --> 00:22:16:25] Beleza?
+[00:22:17:01 --> 00:22:20:22] Essa é uma evidência do cliente ter marcado a conversa com você.
+[00:22:20:28 --> 00:22:22:04] Aí olha só que coisa interessante.
+[00:22:22:22 --> 00:22:24:20] Chegou o dia de conversar com o cliente.
+[00:22:26:06 --> 00:22:31:00] você tem essa interação. Aqui nós temos um processo de suporte.
+[00:22:31:15 --> 00:22:32:21] Qual que é o processo de suporte?
+[00:22:34:21 --> 00:22:37:00] roteiro e vendas.
+[00:22:39:07 --> 00:22:41:19] Você precisa dele pronto para ter essa conversa com o cliente.
+[00:22:41:24 --> 00:22:45:07] Então, aqui eu vou clicar na setinha aqui embaixo, clico aqui e colo aqui.
+[00:22:45:27 --> 00:22:48:14] Eu estou fazendo uma conexão entre essas duas etapas.
+[00:22:48:25 --> 00:22:52:11] Então, é um processo de suporte, eu preciso do roteiro de vendas para ter essa conversa
+[00:22:52:11 --> 00:22:53:17] com o cliente.
+[00:22:53:22 --> 00:22:54:00] Entendeu?
+[00:22:54:25 --> 00:22:57:16] Basicamente, é assim que funciona o Blueprint.
+[00:22:58:24 --> 00:23:02:23] É um processo muito mais trabalhoso do que complexo, depois que você entende, tá?
+[00:23:02:23 --> 00:23:04:02] Não é tão difícil assim.
+[00:23:04:11 --> 00:23:06:20] Se tiver qualquer dúvida também, a gente tem a comunidade.
+[00:23:07:11 --> 00:23:11:05] E eu quero reforçar com você o quão importante é você fazer isso.
+[00:23:11:09 --> 00:23:14:23] Eu vou dar um destaque aqui, para algumas partes importantes agora,
+[00:23:15:11 --> 00:23:18:15] que eu só percebi depois que eu criei o meu primeiro Blueprint.
+[00:23:18:19 --> 00:23:22:02] Então, são coisas que nós deixamos passar, mas que são muito relevantes.
+[00:23:22:03 --> 00:23:23:23] Então, eu vou pegar aqui para eu poder rabiscar.
+[00:23:24:02 --> 00:23:27:00] Primeira coisa que eu percebi e que eu quero que você note
+[00:23:27:00 --> 00:23:28:22] quando você terminar o seu Blueprint.
+[00:23:28:29 --> 00:23:31:23] Olha, sempre faça as ligações, isso aqui vai facilitar muito,
+[00:23:32:11 --> 00:23:34:00] mas qual é a primeira coisa que você vai perceber?
+[00:23:34:10 --> 00:23:36:27] Você vai perceber momentos em que você trabalha sozinho.
+[00:23:37:28 --> 00:23:40:19] Quero que você, quando terminar o Blueprint, analise isso, olha só.
+[00:23:40:25 --> 00:23:42:03] Que eu tenho um momento que eu trabalho sozinho.
+[00:23:42:10 --> 00:23:45:21] Olha só o tanto de coisa que eu preciso fazer antes de entrar em contato com o meu cliente.
+[00:23:45:26 --> 00:23:48:11] Então, existe uma preparação. Olha que interessante.
+[00:23:48:28 --> 00:23:51:10] Não só isso. Outra coisa que eu percebi.
+[00:23:51:27 --> 00:23:55:19] Espaços de tempo onde não existe interação com o cliente.
+[00:23:55:21 --> 00:23:58:20] Isso aqui também é uma coisa relevante de você observar, olha só.
+[00:23:59:24 --> 00:24:03:03] Esses buracos, esses gaps todos são espaços em que eu estou trabalhando
+[00:24:03:03 --> 00:24:06:10] e não necessariamente o meu cliente sabe que eu estou trabalhando.
+[00:24:06:10 --> 00:24:08:22] Ele não está vendo que eu estou trabalhando.
+[00:24:08:27 --> 00:24:10:16] Então, eu quero que você observe isso também.
+[00:24:10:27 --> 00:24:11:27] São oportunidades.
+[00:24:12:09 --> 00:24:14:00] Outra coisa que você vai notar,
+[00:24:14:07 --> 00:24:16:25] dá para você complexificar muito esse processo,
+[00:24:17:01 --> 00:24:18:27] você microgerenciar ele,
+[00:24:19:03 --> 00:24:23:14] mas eu te aconselho a ser o mais simples possível.
+[00:24:23:23 --> 00:24:26:12] Tenta simplificar o processo, beleza?
+[00:24:26:19 --> 00:24:26:28] Então, aqui,
+[00:24:27:25 --> 00:24:31:03] eu consegui falar aqui com menos palavras do que aqui.
+[00:24:31:11 --> 00:24:33:13] Viu, Núria? O cliente marca uma conversa.
+[00:24:33:15 --> 00:24:35:24] Aqui eu só coloquei agenda, um horário.
+[00:24:35:24 --> 00:24:42:10] o cliente, ações do cliente, cliente, agenda, horário. O que eu tenho? Mensagem de confirmação.
+[00:24:42:27 --> 00:24:47:01] Aí eu tenho aqui ó, participa da conversa e conhece a minha oferta. Eu envio a proposta
+[00:24:47:01 --> 00:24:49:01] para ele. Qual que é a evidência? Conversa no Zoom.
+[00:24:50:06 --> 00:24:52:10] Aí eu tenho até a ferramenta, beleza?
+[00:24:52:17 --> 00:24:54:27] Daria para complexificar isso daqui, mas dá.
+[00:24:55:01 --> 00:24:57:09] Ah, vou colocar aqui como processo de suporte.
+[00:24:58:05 --> 00:25:00:03] Criar conta no Zoom.
+[00:25:00:19 --> 00:25:03:13] É um processo de suporte, você pode colocar.
+[00:25:03:27 --> 00:25:07:24] Mas tome cuidado para não deixar muito complicado, muito complexo,
+[00:25:07:28 --> 00:25:12:00] cheio de coisa conectada e aí fica mais difícil de você visualizar.
+[00:25:12:06 --> 00:25:12:22] Beleza?
+[00:25:13:03 --> 00:25:18:01] Os emojis também, recomendo, vou reforçar isso, você usar os emojis, vai facilitar.
+[00:25:18:12 --> 00:25:19:24] Outra coisa que eu percebi,
+[00:25:19:24 --> 00:25:24:01] Então, olha só, além dos gaps aqui, o que foi outra coisa que eu percebi?
+[00:25:24:07 --> 00:25:26:22] Esse momento aqui, o quanto que ele é um momento importante.
+[00:25:27:18 --> 00:25:32:12] Depois que você terminou, por exemplo, aqui eu tenho dois serviços conectados, deixa
+[00:25:32:12 --> 00:25:33:15] eu ver.
+[00:25:34:04 --> 00:25:38:00] Nessa proposta aqui eu faço páginas para web também, tá vendo?
+[00:25:38:09 --> 00:25:43:13] Então aqui eu tenho evidências, páginas base, rede social, layout de anúncio, layout
+[00:25:43:13 --> 00:25:47:19] de post, aí vem a questão aqui, quando eu desenhei isso aqui, qual é a diferença
+[00:25:47:19 --> 00:25:49:03] de rede social para layout de post?
+[00:25:49:13 --> 00:25:54:11] Provavelmente a atualização de rede social era atualizar a bio, atualizar o avatar,
+[00:25:54:17 --> 00:25:55:21] que é o ícone e por aí vai.
+[00:25:55:21 --> 00:25:58:05] Já o layout de post é focado exatamente no post.
+[00:25:59:12 --> 00:26:03:12] Apresentação dos pontos, preparar a apresentação e aí eu apresento aqui os pontos de contato.
+[00:26:03:21 --> 00:26:05:05] Beleza, cliente aprovou, né?
+[00:26:05:09 --> 00:26:07:01] Aqui ó, aprova os pontos.
+[00:26:07:23 --> 00:26:08:08] Maravilha!
+[00:26:08:19 --> 00:26:09:17] O que acontece depois?
+[00:26:09:24 --> 00:26:11:08] Olha só, sete dias.
+[00:26:12:22 --> 00:26:14:27] desde que ele aprovou os pontos de contato.
+[00:26:15:05 --> 00:26:17:20] Nesses sete dias, ou seja, durante a próxima semana,
+[00:26:18:04 --> 00:26:20:04] quais são as próximas etapas aqui importantes?
+[00:26:20:29 --> 00:26:23:05] Primeiro, preparar instruções básicas.
+[00:26:23:12 --> 00:26:25:26] Nessa proposta aqui, eu faço algumas diretrizes.
+[00:26:25:27 --> 00:26:29:20] É como se fosse um manual da marca, só que mais simplificado,
+[00:26:29:24 --> 00:26:31:11] por isso que há instruções básicas aqui.
+[00:26:32:03 --> 00:26:33:09] Só que aí vem o seguinte, olha.
+[00:26:33:19 --> 00:26:37:06] Eu entrego para ele o Google Drive com os arquivos.
+[00:26:37:26 --> 00:26:40:00] Então, o Google Drive é a evidência, lembra?
+[00:26:40:03 --> 00:26:41:22] Primeira camada, eu vou ficar...
+[00:26:41:22 --> 00:26:45:17] que eu estou sendo repetitivo, mas é para ser didático. Evidência. Então, o Google
+[00:26:45:17 --> 00:26:52:08] Drive é evidência. Entrega para ele o Google Drive, o cliente recebe, fica meio... Tá muito
+[00:26:52:08 --> 00:26:56:00] redundante isso, eu sei, mas é de propósito e é importante que seja redundante.
+[00:26:57:12 --> 00:27:00:28] Eu estava vendo uns caras falando sobre...
+[00:27:00:28 --> 00:27:02:07] Só um corte aqui, tá?
+[00:27:02:09 --> 00:27:03:24] Um parênteses que vai valer muita pena.
+[00:27:04:03 --> 00:27:08:19] Estava vendo os caras falando sobre o processo de pilotar um avião comercial.
+[00:27:09:09 --> 00:27:12:21] E uma das coisas mais importantes nesse processo é a redundância.
+[00:27:13:27 --> 00:27:19:15] Várias pessoas diferentes checam a mesma coisa em momentos diferentes várias vezes
+[00:27:19:15 --> 00:27:21:10] para ter certeza de que aquilo funciona.
+[00:27:21:13 --> 00:27:23:21] Então é um processo cheio de redundâncias.
+[00:27:23:21 --> 00:27:29:10] Aqui, no caso do Blueprint, a redundância serve para você enxergar de ângulos diferentes
+[00:27:29:10 --> 00:27:30:17] a mesma etapa.
+[00:27:30:20 --> 00:27:35:10] Isso daqui te dá uma clareza muito forte, por isso que eu estou te falando que é importante
+[00:27:35:10 --> 00:27:36:11] essa redundância.
+[00:27:37:01 --> 00:27:38:03] Então, são ângulos diferentes.
+[00:27:38:04 --> 00:27:39:26] Seu ângulo, você entrega o material.
+[00:27:40:03 --> 00:27:41:25] O ângulo do cliente, ele recebe o material.
+[00:27:42:03 --> 00:27:45:10] Ângulo da evidência, você tem o Google Drive como evidência ali.
+[00:27:45:27 --> 00:27:49:00] E claro, tem a etapa de preparação anterior que está conectada aqui.
+[00:27:49:14 --> 00:27:52:10] Beleza, o que eu percebi depois que eu desenhei isso?
+[00:27:52:10 --> 00:27:53:12] Olha só que interessante.
+[00:27:53:23 --> 00:27:59:17] Eu percebi que aqui acaba o projeto do cliente, mas aqui eu tenho uma nova oportunidade de...
+[00:27:59:17 --> 00:28:04:08] Aqui eu usei a palavra prospecção, mas talvez seria manter o relacionamento com ele.
+[00:28:04:25 --> 00:28:08:25] Existem vários outros nomes melhores, eu poderia chamar isso daqui de um...
+[00:28:08:25 --> 00:28:12:19] Não sei se seria exatamente um upsell, uma próxima venda aqui para o cliente.
+[00:28:13:19 --> 00:28:17:27] E aqui é uma oportunidade de você aumentar o seu LTV, que eu já te falei em outra aula,
+[00:28:18:10 --> 00:28:20:07] que é o lifetime value do seu cliente.
+[00:28:20:25 --> 00:28:24:16] O valor que o seu cliente tem, quanto mais tempo ele fica com você.
+[00:28:24:19 --> 00:28:28:27] Então você fecha um projeto de R$10 mil com o cliente e entrega e acaba ali, esse
+[00:28:29:19 --> 00:28:32:00] cliente te ajudou a faturar R$10 mil.
+[00:28:32:24 --> 00:28:36:20] Mas se depois disso você fazer uma nova proposta para ele, por exemplo, criar o
+[00:28:36:20 --> 00:28:41:27] Brand System dele ou treinar a equipe dele ou algum ponto de contato específico que
+[00:28:41:27 --> 00:28:46:04] você não fez, mas que é relevante para ele, talvez um site não estava incluso e agora
+[00:28:46:04 --> 00:28:51:09] você pode oferecer, isso pode te dar novas possibilidades, por exemplo, mais R$7.500
+[00:28:51:28 --> 00:28:55:22] para poder criar o seu Brand System online tudo conectado, tudo centralizado.
+[00:28:56:07 --> 00:29:02:12] Olha só, um cliente que antes teria te dado R$10.000, agora te deu R$17.500, tá?
+[00:29:02:14 --> 00:29:06:24] E uma coisa eu falo para vocês, é muito mais fácil fechar novos projetos com um cliente
+[00:29:06:24 --> 00:29:11:12] que já te conhece do que com um novo cliente, principalmente se você fez um bom serviço,
+[00:29:11:12 --> 00:29:12:15] É importante falar isso.
+[00:29:13:06 --> 00:29:16:24] Então, basicamente esse é o Blueprint, ele está aqui agora porque eu quero que você
+[00:29:16:24 --> 00:29:23:12] tenha clareza do seu serviço antes de a gente criar a sua oferta, a sua proposta encantadora,
+[00:29:23:20 --> 00:29:25:12] que é o assunto da próxima aula.
+[00:29:25:21 --> 00:29:29:26] Então agora, eu vou disponibilizar para você esse arquivo aqui para download, vou
+[00:29:29:26 --> 00:29:32:01] deletar aqui, o que eu vou disponibilizar para você é esse.
+[00:29:32:07 --> 00:29:36:27] Eu falei download, mas na verdade é o link para você fazer uma cópia do arquivo
+[00:29:36:27 --> 00:29:38:21] e poder editar ele direto no Figma.
+[00:29:38:21 --> 00:29:41:04] Você consegue fazer isso direto no navegador também, tá?
+[00:29:41:14 --> 00:29:46:01] Então, você faz o esboço primeiro e depois desenha o seu Blueprint seguindo cada uma
+[00:29:46:01 --> 00:29:47:00] dessas etapas.
+[00:29:47:07 --> 00:29:51:09] Se você é designer de identidade de marca, já vai cair como uma luva para você, que
+[00:29:51:09 --> 00:29:56:22] essa é a estrutura que eu ensino no curso de identidade de marcas, ok?
+[00:29:57:02 --> 00:30:02:25] Então, toca no link que está aqui embaixo, faça a cópia e desenhe o seu Blueprint,
+[00:30:03:01 --> 00:30:08:08] porque na próxima aula eu vou te mostrar como construir uma proposta encantadora.
+[00:30:08:08 --> 00:30:12:03] E aí nós vamos finalizar o módulo de demanda para entrar no módulo de ambiente.
+[00:30:12:06 --> 00:30:17:03] Cada vez mais você vai notar que nós vamos colocar as coisas em prática e definir estratégias
+[00:30:17:03 --> 00:30:20:28] sólidas para que você consiga conquistar clientes, mas mais importante do que isso,
+[00:30:20:28 --> 00:30:24:12] eu já falei isso nas primeiras aulas, o foco aqui não é te ajudar a conseguir
+[00:30:24:12 --> 00:30:28:00] ser o primeiro ou o segundo cliente, mas te ajudar a construir um negócio.
+[00:30:28:09 --> 00:30:32:02] Então, se parece que você está gastando muito tempo aqui agora, eu quero que você
+[00:30:32:02 --> 00:30:33:11] projete isso para frente.
+[00:30:33:23 --> 00:30:37:16] Lembre que o tempo que você está investindo aqui agora são como pequenos tijolinhos
+[00:30:37:16 --> 00:30:40:13] que você vai colocando para construir um muro.
+[00:30:40:21 --> 00:30:42:09] Então, um tijolinho de cada vez.
+[00:30:42:12 --> 00:30:45:02] Se você posiciona esse tijolinho bem posicionado,
+[00:30:45:12 --> 00:30:48:06] você não vai precisar ficar depois voltando ali para mexer nele.
+[00:30:48:10 --> 00:30:50:21] Então, vai um passinho de cada vez
+[00:30:50:21 --> 00:30:53:04] que você vai construir uma estrutura sólida,
+[00:30:53:04 --> 00:30:55:17] a base para construir o seu negócio de design.
+[00:30:55:22 --> 00:30:58:21] Então, faça o seu Blueprint e eu te vejo agora na próxima aula.
+[00:30:58:26 --> 00:30:59:20] Até mais e fui!

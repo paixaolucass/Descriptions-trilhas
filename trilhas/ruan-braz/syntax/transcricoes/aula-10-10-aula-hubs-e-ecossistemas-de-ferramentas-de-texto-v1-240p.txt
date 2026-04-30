@@ -1,0 +1,106 @@
+# Video: 10._aula_-_hubs_e_ecossistemas_de_ferramentas_de_texto_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 13:10
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:00 --> 00:00:06:18] Chegou a hora de descobrir qual é o segredo das pessoas que se mantêm atualizadas em relação às ferramentas de inteligência artificial,
+[00:00:06:29 --> 00:00:09:11] aqui focadas em ferramentas de texto.
+[00:00:09:17 --> 00:00:13:25] Nós vamos falar aqui sobre os hubs e ecossistemas de IA, de geração de texto.
+[00:00:13:28 --> 00:00:20:01] Então vamos lá, estou aqui no Google, é tudo que você precisa para se atualizar em relação às IAs, encontrar os principais hubs.
+[00:00:20:06 --> 00:00:24:03] E a primeira coisa que eu quero te ensinar é buscar o quadro de liderança de tecnologia.
+[00:00:24:16 --> 00:00:29:20] Geralmente, quando você quer entender se uma ferramenta é boa ou não, comparando ela com outras ferramentas,
+[00:00:29:20 --> 00:00:33:24] Você pode simplesmente digitar aqui, isso é uma dica que eu já dei em várias outras trilhas,
+[00:00:33:25 --> 00:00:38:20] mas sempre vale a pena listar, que é digitar aqui assim, ó, Leaderboard, que é quadro de liderança.
+[00:00:38:26 --> 00:00:43:10] Aí tem várias coisas, tá vendo? Mas você vai colocar aqui assim, LLMs, que é o que a gente precisa aqui.
+[00:00:43:13 --> 00:00:48:25] Você vai encontrar alguns, o que eu vou recomendar pra você é esse LM Arena, é uma ferramenta muito boa.
+[00:00:48:27 --> 00:00:53:22] Tem esse Artificial Analysis também, esse Vellum, e o do Hugging Face que foi arquivado.
+[00:00:53:23 --> 00:00:56:08] Eu acompanhava bastante ele, mas ele foi arquivado.
+[00:00:56:08 --> 00:01:01:18] Então, olha só, quando eu entro aqui, eu posso vir aqui, aqui ele está no overview, ou seja, o melhor modelo de maneira geral,
+[00:01:01:21 --> 00:01:07:17] mas eu posso vir aqui em texto. Na parte de cima, eu estou no LLM Arena e ele vai me mostrar quais são os melhores modelos de texto.
+[00:01:07:19 --> 00:01:12:08] Isso aqui já poupa muito do seu tempo, porque ao invés de aprender todas as ferramentas que estão sendo lançadas,
+[00:01:12:10 --> 00:01:15:10] você já vê aqui com base em milhares de votos.
+[00:01:15:11 --> 00:01:22:14] Aqui, por exemplo, nós temos 27.827 votos no Gemini 3 Pro, colocando ele em primeiro lugar no LLM Arena,
+[00:01:22:14 --> 00:01:26:13] que é uma ferramenta global de análise de tecnologias, você já
+[00:01:26:13 --> 00:01:28:26] sabe, esse aqui já é um primeiro que traz muitas
+[00:01:28:26 --> 00:01:31:16] informações legais pra você. Aí, aqui, no momento que eu tô
+[00:01:31:16 --> 00:01:34:25] gravando isso, nós temos Gemini 3 Pro, Croc 4 Thinking, 3
+[00:01:34:25 --> 00:01:37:22] Flash e isso aqui tudo é baseado no uso da própria
+[00:01:37:22 --> 00:01:40:08] comunidade, tá? A primeira referência. Tem aqui também de
+[00:01:40:08 --> 00:01:44:04] outros tipos de usos pras mas isso aqui a gente deixa pra
+[00:01:44:04 --> 00:01:46:29] outras trilhas, nosso foco aqui principal é em relação a
+[00:01:46:29 --> 00:01:49:13] textura, só quantas ferramentas tem aqui, quantos
+[00:01:49:13 --> 00:01:52:07] modelos, né? Existem aqui. Cê pode ver mais informações dos
+[00:01:52:07 --> 00:01:55:01] testes também de benchmark, mas o principal então é te trazer a
+[00:01:55:01 --> 00:01:57:24] referência aqui, esse é muito bom. O segundo aqui é o LM
+[00:01:57:24 --> 00:02:01:03] da artificial análises, que também é bem legal, já
+[00:02:01:03 --> 00:02:04:03] acompanhei aqui algumas vezes. Aqui embaixo você tem o quadro
+[00:02:04:03 --> 00:02:06:25] geral, tá colocando o GPT em primeiro lugar aqui na análise
+[00:02:06:25 --> 00:02:10:14] e aqui você tem algumas informações também relevantes
+[00:02:10:14 --> 00:02:13:28] sobre o modelo. A configuração é um pouco diferente aqui, tá?
+[00:02:13:28 --> 00:02:17:06] Então, aqui em cima você consegue filtrar modelos de
+[00:02:17:06 --> 00:02:20:20] fronteira, modelos modelos proprietários, modelos
+[00:02:20:20 --> 00:02:22:16] pequenos, minis, né?
+[00:02:22:19 --> 00:02:24:14] E modelos médios e largos, se ele tem
+[00:02:24:14 --> 00:02:26:20] reasoning ou não. E aqui ele vai te dar um overview
+[00:02:26:20 --> 00:02:28:20] geral, tá? Dos principais.
+[00:02:28:20 --> 00:02:30:19] Tem também aqui os highlights do momento,
+[00:02:30:21 --> 00:02:32:10] pra você ter quais foram os insights
+[00:02:32:10 --> 00:02:34:27] do momento em relação às LLMs.
+[00:02:35:00 --> 00:02:36:14] Tem mais informações aqui também,
+[00:02:36:17 --> 00:02:38:23] insights a cada quarter, né?
+[00:02:38:25 --> 00:02:40:17] Um quarter é um trimestre.
+[00:02:40:20 --> 00:02:42:20] Aí você consegue aqui esse state of AI.
+[00:02:42:26 --> 00:02:44:18] Aqui, por exemplo, o último foi o
+[00:02:44:18 --> 00:02:46:07] terceiro trimestre de 2025.
+[00:02:46:20 --> 00:02:48:17] Eu entro aqui, tenho que fazer login pra conseguir
+[00:02:48:17 --> 00:02:50:17] também, mas ele vai trazer insights bem legais
+[00:02:50:17 --> 00:02:52:23] Recomendo, já entrei neles aqui, já consegui dados
+[00:02:52:23 --> 00:02:55:15] interessantes também, direto desse site. Então, recomendo
+[00:02:55:15 --> 00:02:58:28] acompanhar. Tem também aqui o que entrega esses gráficos bem
+[00:02:58:28 --> 00:03:02:01] legais baseados nas tarefas de cada modelo. Então, tem aqui
+[00:03:02:01 --> 00:03:05:14] raciocínio, matemática, aqui também o melhor pra código e
+[00:03:05:14 --> 00:03:09:13] tem aqui no valor geral aqui também, raciocínio visual, por
+[00:03:09:13 --> 00:03:12:03] aí vai. Esse aqui não traz muito sobre texto, né? Fica
+[00:03:12:03 --> 00:03:15:00] aqui como mais uma opção. O que eu realmente gosto mesmo é o
+[00:03:15:00 --> 00:03:20:02] Arena e no caso o que aqui ele tá arquivado, ou seja, dá a
+[00:03:20:02 --> 00:03:22:02] entender que eles não vão continuar com esse
+[00:03:22:02 --> 00:03:24:07] leaderboard aqui. Aqui tem alguns
+[00:03:24:07 --> 00:03:26:06] no ranking também, da própria
+[00:03:26:06 --> 00:03:27:28] comunidade. Falando de
+[00:03:27:28 --> 00:03:30:02] comunidade em si, o Ranking Face é um
+[00:03:30:02 --> 00:03:32:07] excelente hub pra você conseguir
+[00:03:32:07 --> 00:03:33:29] acompanhar não só as
+[00:03:33:29 --> 00:03:35:23] LLMs que estão sendo lançadas, olha aqui,
+[00:03:35:25 --> 00:03:38:06] 2.486.503
+[00:03:39:19 --> 00:03:40:03] modelos.
+[00:03:40:03 --> 00:03:41:21] Lembra que eu falei na última aula, né?
+[00:03:41:23 --> 00:03:43:26] São muitos, duvido você conseguir
+[00:03:43:26 --> 00:03:46:01] testar todos eles. Quando você testar, já vão
+[00:03:46:01 --> 00:03:47:23] ter mais 2 milhões pra testar, né?
+[00:03:47:23 --> 00:03:54:02] Então, fica aqui também como um hub, uma comunidade de inteligência artificial que vale a pena você acompanhar.
+[00:03:54:04 --> 00:03:56:14] Eles têm vários docs aqui para acompanhar também.
+[00:03:56:17 --> 00:04:00:15] Tem os espaços, e aí os espaços são divididos por modelos e por tipo.
+[00:04:00:17 --> 00:04:03:25] Então, eu tenho aqui, ó, geração de imagem, geração de vídeo, geração de texto.
+[00:04:03:26 --> 00:04:08:13] Eu clico aqui em geração de texto, eu consigo, inclusive, rodar nesses espaços aqui,
+[00:04:08:15 --> 00:04:11:25] configurações que os próprios membros da comunidade deixaram.
+[00:04:11:29 --> 00:04:14:27] Então, é bem relevante também, recomendo você dar uma olhada aqui.
+[00:04:14:27 --> 00:04:18:07] Essa aqui foi uma aula bem curtinha para te trazer algumas referências,
+[00:04:18:11 --> 00:04:23:24] mas o principal que você pode absorver aqui é que já existem pessoas fazendo esses testes o dia inteiro,
+[00:04:23:24 --> 00:04:25:03] pessoas que têm comunidades.
+[00:04:25:07 --> 00:04:30:00] E se você pesquisar por isso no YouTube, você vai muito mais rápido do que tentar ver todos os modelos,
+[00:04:30:00 --> 00:04:36:11] acertar tudo, ou pior, ficar dependendo só de Reels, TikTok, dos insights que as pessoas deixam para você.
+[00:04:36:14 --> 00:04:41:10] Se você ficar só esperando essas notícias vindas de rede social, você vai cair no buraco do hype.
+[00:04:41:10 --> 00:04:44:13] E muitas vezes o hype engana, muitas vezes esses vídeos que
+[00:04:44:13 --> 00:04:47:08] influencers gravam são vídeos que parecem uma coisa quando
+[00:04:47:08 --> 00:04:49:20] você vai testar é outra. Por isso eu recomendo sempre
+[00:04:49:20 --> 00:04:52:20] acompanhar esses principais hubs, acompanhar também o
+[00:04:52:20 --> 00:04:55:05] quadro de liderança, porque ali você vai saber exatamente
+[00:04:55:05 --> 00:04:58:03] baseado em milhares de votos quais são as ferramentas mais
+[00:04:58:03 --> 00:05:01:05] utilizadas no mundo e por que elas estão dentro desse
+[00:05:01:05 --> 00:05:04:20] ranking. Isso aqui é só uma janela, uma porta talvez que eu
+[00:05:04:20 --> 00:05:06:28] estou abrindo aqui pra você, agora você pode passar por
+[00:05:06:28 --> 00:05:09:11] essa porta e acompanhar essas comunidades, porque tem muita
+[00:05:09:11 --> 00:05:12:08] coisa legal pra você ali dentro. Bora pra próxima aula então.

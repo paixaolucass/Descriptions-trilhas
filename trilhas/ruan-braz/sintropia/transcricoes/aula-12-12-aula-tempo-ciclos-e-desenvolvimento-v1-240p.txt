@@ -1,0 +1,1001 @@
+# Video: 12._aula_-_tempo,_ciclos_e_desenvolvimento_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-23 17:56
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:00 --> 00:00:06:27] Chegou a hora de falarmos sobre tempo, o recurso mais valioso do mundo.
+[00:00:07:22 --> 00:00:13:01] É o recurso que eu tenho certeza que bilionários dariam toda a sua fortuna para ter mais.
+[00:00:13:20 --> 00:00:16:02] É o tempo que nós não conseguimos comprar.
+[00:00:16:27 --> 00:00:19:22] É o recurso que não dá para emprestar.
+[00:00:19:22 --> 00:00:22:07] É o recurso que é só seu.
+[00:00:23:28 --> 00:00:29:22] é o mais escasso de todos, sem contar que também é um recurso que nós não sabemos
+[00:00:29:22 --> 00:00:32:05] a quantidade dele que nós temos.
+[00:00:33:17 --> 00:00:37:06] E aqui agora, nós vamos aprender a gerir esse recurso,
+[00:00:37:09 --> 00:00:39:23] uma vez que não é possível aumentar ele.
+[00:00:40:15 --> 00:00:43:28] Não é possível comprar esse tempo, não é possível
+[00:00:43:28 --> 00:00:46:19] estipular o quanto dele você tem por dia.
+[00:00:47:07 --> 00:00:50:23] E eu vou quebrar essas crenças aqui junto com vocês hoje.
+[00:00:51:10 --> 00:00:55:14] Mas a ideia é entender como gerir esse que é o recurso mais importante
+[00:00:55:14 --> 00:00:58:01] que sem ele você não consegue mais nenhum recurso.
+[00:00:58:09 --> 00:01:02:00] Você não consegue energia, saúde, você não consegue clareza,
+[00:01:02:00 --> 00:01:07:22] você não consegue dinheiro, você não consegue suas realizações, você não consegue aproveitar
+[00:01:07:22 --> 00:01:13:27] o presente que é a vida que você tem, que é só sua, e que em algum momento vai acabar.
+[00:01:14:12 --> 00:01:20:23] E por falar em algum momento acabar, eu já quero começar a falar de tempo aqui com você,
+[00:01:21:09 --> 00:01:28:01] trazendo um conceito bem antigo, mas que representa o valor que existe e é uma lembrança,
+[00:01:28:01 --> 00:01:33:12] uma lembrança importante que vai te ajudar a valorizar esse que é o recurso mais valioso do mundo.
+[00:01:33:26 --> 00:01:39:28] Que é o conceito de memento mori. Eu sempre falo momento, acabo confundindo,
+[00:01:40:04 --> 00:01:48:08] mas é memento mori. E o que significa memento mori? Significa uma lembrança, significa você
+[00:01:48:08 --> 00:01:56:05] não se esquecer de que um dia você vai morrer. De que um dia essa única certeza que você tem
+[00:01:56:05 --> 00:02:01:09] aqui, que é a sua consciência sobre o que você está vivendo nesse momento, nesse instante
+[00:02:01:24 --> 00:02:04:24] específico, em algum momento isso pode acabar.
+[00:02:05:12 --> 00:02:09:21] E dependente das suas crenças, dependente de você acreditar que tem vida após a morte
+[00:02:09:21 --> 00:02:13:13] ou não, você só vai descobrir isso depois que chegar lá.
+[00:02:13:14 --> 00:02:17:22] Tem até aquela expressão clássica, todo mundo quer ir pro céu, mas ninguém quer
+[00:02:17:22 --> 00:02:18:24] morrer pra chegar lá.
+[00:02:19:06 --> 00:02:21:20] Ou seja, nós não temos certezas absolutas.
+[00:02:21:20 --> 00:02:28:13] Pode ser, existe a possibilidade de que depois que você morrer, acabou, não tem mais nada.
+[00:02:28:22 --> 00:02:32:21] E se essa possibilidade, ela existe, ela é uma possibilidade plausível, a gente tem
+[00:02:32:21 --> 00:02:37:13] que levar ela em consideração, independente do que acontece depois, é bom que você
+[00:02:37:13 --> 00:02:42:20] aproveite o que está acontecendo agora, porque a única coisa que você sabe é sobre
+[00:02:42:20 --> 00:02:43:24] o que está acontecendo agora.
+[00:02:44:08 --> 00:02:49:18] E memento mori é sobre isso, é sobre essa lembrança, é lembrar que o tempo
+[00:02:49:18 --> 00:02:57:00] é o recurso que escorre e que nunca volta. Pelo menos dentro dos nossos parádigmas atuais, do que
+[00:02:57:00 --> 00:03:03:19] a gente sabe sobre o tempo, não é possível voltar atrás, mudar ele, é possível só seguir na flecha
+[00:03:03:19 --> 00:03:10:04] do tempo, em uma única direção, dentro da nossa planolândia, digamos assim, fica aí uma
+[00:03:10:04 --> 00:03:14:12] recomendação, inclusive se quiserem entrar nesse ponto mais filosófico, um livro bem legal chamado
+[00:03:14:29 --> 00:03:19:27] planolândia que explica o que é viver dentro de uma dimensão limitado por ela.
+[00:03:20:06 --> 00:03:23:25] E nós estamos limitados por essa dimensão chamada tempo, dentro do que
+[00:03:23:25 --> 00:03:28:26] nos é possível compreender sobre ele. Dito isso, então, eu quero trazer essa
+[00:03:28:26 --> 00:03:33:15] imagem aqui. E eu fiz questão de trazer, olha como ela é pequena, olha como
+[00:03:34:01 --> 00:03:39:19] parece pouco e de fato é. Isso aqui é a sua vida em anos, a média da sua vida
+[00:03:39:19 --> 00:03:43:07] em anos. Ali embaixo vocês estão vendo três círculos que não estão
+[00:03:43:07 --> 00:03:52:19] preenchidos é porque a média de vida no Brasil é de 76 anos, mas a média de vida global é de
+[00:03:52:19 --> 00:04:00:19] aproximadamente 73 anos. Então, estatisticamente falando, a sua vida acontece mais ou menos dentro
+[00:04:00:19 --> 00:04:07:00] desse espaço aqui. São essas bolinhas que você tem. E cada um pode calcular isso, a bolinha,
+[00:04:07:01 --> 00:04:12:26] cada linha tem 10 bolinhas, então eu estou fechando minha terceira linha, não sei se dá
+[00:04:12:26 --> 00:04:15:28] ver o mouse aqui, mas estou fechando minha terceira linha.
+[00:04:17:09 --> 00:04:19:27] mais uma linha e eu entro na metade ali.
+[00:04:20:16 --> 00:04:22:07] Alguns de vocês já passaram da metade,
+[00:04:22:09 --> 00:04:24:00] outros estão na segunda linha.
+[00:04:24:28 --> 00:04:27:27] Acontece que isso aqui é uma previsão,
+[00:04:28:00 --> 00:04:32:01] uma possibilidade de, se você chegar
+[00:04:32:01 --> 00:04:35:08] até ali por volta dos 70,
+[00:04:36:11 --> 00:04:37:24] se você chegar ali,
+[00:04:38:28 --> 00:04:41:07] você... Inclusive agora que eu tô vendo aqui, deixa eu ver...
+[00:04:41:07 --> 00:04:44:01] 3, 6, 7...
+[00:04:44:01 --> 00:04:45:14] É, eu coloquei ali 80.
+[00:04:45:28 --> 00:04:50:04] É uma linha a menos, quando eu escrevi ali ainda está uma errada, a gente tem que diminuir
+[00:04:50:04 --> 00:04:52:00] uma linha ali, que aqui está com 86.
+[00:04:53:03 --> 00:04:59:04] Se você chegar ali, você vai viver isso, mas muitas pessoas, infelizmente, por conta
+[00:04:59:04 --> 00:05:05:12] da entropia de fato, por conta do caos e da imprevisibilidade, pode ser que do nada,
+[00:05:05:16 --> 00:05:09:21] sei lá, acontece uma coisa, eu estou indo embora, sofro um acidente de carro e morro.
+[00:05:09:24 --> 00:05:14:07] Com meus 29 anos, pode acontecer, é imprevisível, eu não tenho controle sobre isso.
+[00:05:14:07 --> 00:05:18:23] Então, pode ser que alguns de nós aqui nem chegue nessa média.
+[00:05:19:03 --> 00:05:23:22] Mas, estatisticamente, é o que nós podemos esperar se tudo correr bem.
+[00:05:24:16 --> 00:05:29:15] Então, a primeira coisa que nós podemos saber é que esse aqui é o nosso estoque.
+[00:05:29:26 --> 00:05:34:00] Isso aqui é a nossa capacidade disponível de uso do tempo.
+[00:05:34:24 --> 00:05:40:15] Só que, mais do que isso, a gente precisa entender um conceito importante fazendo uma análise sistêmica
+[00:05:40:15 --> 00:05:49:03] que é o nosso tempo não recebe input, ou seja, você não consegue adicionar mais
+[00:05:49:03 --> 00:05:54:18] polinhas ali dentro daquele quadrante. Então nós temos que olhar para o sistema
+[00:05:54:18 --> 00:06:01:10] de tempo como um fluxo contínuo que nós podemos direcionar, mas jamais, pelo
+[00:06:01:10 --> 00:06:06:20] menos dentro dos nossos paradigmas atuais, interromper. E aí vamos lembrar
+[00:06:06:20 --> 00:06:12:19] eu fiz alguns rabiscos na última aula, mas aqui agora dá pelo menos para a gente entender isso de
+[00:06:12:19 --> 00:06:18:16] uma maneira mais sistematizada. Esse primeiro retângulo em cima é a capacidade do seu sistema,
+[00:06:18:18 --> 00:06:23:28] de tempo. Se vocês repararem, esse sistema não tem nenhuma setinha de input, ou seja,
+[00:06:24:04 --> 00:06:30:08] de entrada. Você recebe essa caixa e não tem nenhum espaço para adicionar mais recurso aqui dentro.
+[00:06:31:20 --> 00:06:37:03] Pode ser que essa caixa sofra uma fatalidade, ela quebre, ela derreta, ela suma, isso significa
+[00:06:37:03 --> 00:06:37:29] morrer.
+[00:06:38:08 --> 00:06:43:06] Mas se ela não morrer, dentro da sua capacidade de aproximadamente 73 anos, você tem ela
+[00:06:43:06 --> 00:06:45:15] e ela tem saídas.
+[00:06:45:18 --> 00:06:50:05] Só que é impossível, dentro do nosso conhecimento atual, é impossível tampar
+[00:06:50:05 --> 00:06:51:02] essas saídas.
+[00:06:51:08 --> 00:06:55:27] Então, são como canos que estão vazando o tempo inteiro, eles estão em fluxo.
+[00:06:56:04 --> 00:07:01:01] E tudo que você pode fazer dentro desse sistema é direcionar fluxos.
+[00:07:01:01 --> 00:07:03:11] Pra onde você quer que essa água...
+[00:07:04:10 --> 00:07:08:04] E basicamente, aqui eu vou começar com três baldes,
+[00:07:08:07 --> 00:07:11:28] depois vocês vão ver que eu vou adicionar um quarto balde aqui nesse sistema,
+[00:07:12:14 --> 00:07:15:13] mas basicamente você tem ali os seus outputs, que são as saídas.
+[00:07:15:20 --> 00:07:20:22] E essas saídas vão para investimentos, ou seja, momentos conscientes que você faz,
+[00:07:20:24 --> 00:07:23:18] esse investimento pode ter um retorno positivo ou negativo,
+[00:07:23:27 --> 00:07:30:17] mas nós consideramos investimento aquilo que é uma locação consciente de algo.
+[00:07:30:17 --> 00:07:36:17] Você decide colocar tempo ali com a intenção de receber algo em troca, isso é um investimento.
+[00:07:36:28 --> 00:07:42:07] Você tem as dívidas que são compromissos que você fez, mas que não necessariamente
+[00:07:42:07 --> 00:07:47:11] você recebe algo em troca, mas você precisa fazer como uma dívida ou pelo menos rolar
+[00:07:47:11 --> 00:07:53:06] essa dívida ou pelo menos falar para você mesmo, eu não vou pagar essa dívida, deixar
+[00:07:53:06 --> 00:07:55:18] essa dívida caducar, digamos assim.
+[00:07:55:18 --> 00:08:01:27] E existem os vazamentos que não caem em nenhum balde, ou seja, vazamento é o pior tipo de
+[00:08:01:27 --> 00:08:06:06] output, porque ele é aquele output que não te serve.
+[00:08:07:22 --> 00:08:09:18] Então, ele só vai embora.
+[00:08:09:26 --> 00:08:12:20] Tem um quarto balde que eu não coloquei aqui,
+[00:08:12:21 --> 00:08:14:06] mas eu vou apresentar ele para vocês depois,
+[00:08:14:16 --> 00:08:16:01] que é o balde de operações.
+[00:08:17:22 --> 00:08:20:16] São administrações que você faz para continuar vivendo.
+[00:08:20:22 --> 00:08:22:08] E ele é um balde importante também.
+[00:08:22:20 --> 00:08:25:22] Ele não é um investimento, mas ele também não é uma dívida.
+[00:08:25:25 --> 00:08:28:16] Ele é importante para a manutenção do seu dia a dia.
+[00:08:29:01 --> 00:08:32:00] E eu coloquei ali ciclos, porque isso é o jeito que nós seres humanos
+[00:08:32:00 --> 00:08:33:21] encontramos de gerenciar isso.
+[00:08:33:22 --> 00:08:37:06] Ou seja, por mais que na realidade não exista um ciclo,
+[00:08:37:06 --> 00:08:39:29] o tempo só corre, enquanto você dorme, ele está correndo também,
+[00:08:40:05 --> 00:08:42:22] ele está indo embora, ele está derretendo.
+[00:08:42:25 --> 00:08:47:02] Mas para nós seres humanos, os ciclos são uma ferramenta de gestão importante,
+[00:08:47:05 --> 00:08:53:13] então eu coloquei ele ali do lado para que vocês entendam que existem ciclos de organização desses fluxos.
+[00:08:53:16 --> 00:08:56:10] Então, tem o ciclo de 24 horas, o ciclo de 7...
+[00:08:56:10 --> 00:08:59:01] eu coloquei 7S ali, mas o ideal seria 7D, né?
+[00:08:59:01 --> 00:09:03:12] 7 dias, o ciclo de 12 meses, que forma o ano,
+[00:09:03:22 --> 00:09:04:29] e tem outros também, né?
+[00:09:04:29 --> 00:09:07:21] Ciclo de 10 anos que forma década e por aí vai.
+[00:09:07:25 --> 00:09:15:05] E além dos ciclos de etapas de vida, como infância, adolescência, adulto, terceira
+[00:09:15:05 --> 00:09:18:24] idade e por aí vai, então também tem como medir nesses ciclos.
+[00:09:19:02 --> 00:09:23:29] Mas o básico aqui que funciona pra gente, pra pelo menos compreender a capacidade aqui
+[00:09:23:29 --> 00:09:28:05] de horizonte de tempo da maioria das pessoas, a gente pode ir até um ano.
+[00:09:28:11 --> 00:09:33:22] Mais do que um ano tem pessoas que não têm capacidade pra gerir o horizonte de
+[00:09:33:22 --> 00:09:33:26] tempo.
+[00:09:33:26 --> 00:09:35:23] isso é uma questão fisiológica.
+[00:09:35:25 --> 00:09:37:16] Não vou entrar nela aqui agora.
+[00:09:37:29 --> 00:09:39:17] Eventualmente nós vamos ter aula sobre isso
+[00:09:39:17 --> 00:09:41:11] dentro da plataforma da Overlens.
+[00:09:41:16 --> 00:09:43:28] Mas existe um conceito de capacidade de tempo
+[00:09:43:28 --> 00:09:45:07] e de horizonte temporal.
+[00:09:45:19 --> 00:09:47:22] Algumas pessoas possuem um horizonte temporal
+[00:09:47:22 --> 00:09:49:26] mais amplo, outras pessoas possuem um horizonte
+[00:09:49:26 --> 00:09:51:13] temporal mais curto.
+[00:09:51:22 --> 00:09:54:04] Isso é cientificamente também
+[00:09:54:04 --> 00:09:55:25] validado com muitos
+[00:09:55:25 --> 00:09:57:25] dados globais. Mas eu não vou
+[00:09:57:25 --> 00:09:59:14] entrar nesse ponto aqui agora não.
+[00:09:59:19 --> 00:10:01:17] Quem quiser depois se aprofundar nisso,
+[00:10:01:17 --> 00:10:06:11] Pesquise por Eliat Jax e vocês vão entender esses conceitos, mas o que a gente precisa
+[00:10:06:11 --> 00:10:12:07] entender aqui agora, então, é que o tempo corre e você só pode direcionar os fluxos
+[00:10:13:10 --> 00:10:14:14] desse recurso.
+[00:10:14:25 --> 00:10:19:07] E basicamente são esses quatro baldes, o de operações eu vou introduzir depois,
+[00:10:19:12 --> 00:10:23:16] o que vocês precisam lembrar agora são desses aqui, com uma atenção especial
+[00:10:23:16 --> 00:10:24:19] para os vazamentos.
+[00:10:26:13 --> 00:10:30:04] E aí vamos só compreender então aqui de novo só para reforçar didaticamente.
+[00:10:30:14 --> 00:10:33:13] Entrada, não existe. Você não recebe mais tempo.
+[00:10:33:15 --> 00:10:36:03] Então, não tem nenhum tipo de entrada aqui nesse sistema.
+[00:10:36:28 --> 00:10:40:28] Saída, que é o Output, o que você gera a cada ciclo, tá?
+[00:10:41:00 --> 00:10:43:21] Então, saída aqui são os baldes que você tem.
+[00:10:43:22 --> 00:10:47:23] O que você está gerando de produto no sentido de resultado
+[00:10:47:23 --> 00:10:51:17] com base em para onde você está direcionando esses fluxos.
+[00:10:51:17 --> 00:10:58:13] Capacidade do sistema, que é limitada por energia, atenção, saúde, contexto e decisão.
+[00:10:58:19 --> 00:11:04:21] Então a capacidade do sistema de vocês é, primeiro, limitada estatisticamente pela sua
+[00:11:04:21 --> 00:11:10:22] expectativa de vida, que vai até aproximadamente ali, aqui no Brasil, os 76 anos, mas também
+[00:11:10:22 --> 00:11:16:29] ela acaba sendo limitada, ela acaba fazendo você direcionar mal o seu fluxo em relação
+[00:11:16:29 --> 00:11:19:13] a outros pontos que a gente tem que levar em consideração, que eu coloquei aqui,
+[00:11:19:13 --> 00:11:21:16] energia, tempo, saúde, contexto, decisão.
+[00:11:21:16 --> 00:11:25:25] Isso muda um pouco a pressão desse fluxo, digamos assim.
+[00:11:26:09 --> 00:11:32:04] Ciclos de controle, aí tem 24 horas, 7 dias, 4 semanas, 12 meses, tem as semanas também
+[00:11:32:04 --> 00:11:34:16] que formam um mês que eu acabei não pontuando ali.
+[00:11:35:01 --> 00:11:39:24] Dívidas de tempo, obrigações assumidas que sequestram o output futuro.
+[00:11:40:06 --> 00:11:45:07] Então são promessas que você fez, prazos que você prometeu, parcelas que você tem
+[00:11:45:07 --> 00:11:49:27] que pagar de tempo também alguma coisa, ou seja, todo dia eu preciso fazer algo por
+[00:11:49:27 --> 00:11:50:03] alguém.
+[00:11:50:06 --> 00:11:56:07] Você parcelou seu tempo em dias, pendências, complexidade acumulada, ou seja, algo que
+[00:11:56:07 --> 00:12:00:04] você burocratizou muito, ficou complexo e agora isso está tomando mais do seu
+[00:12:00:04 --> 00:12:03:00] tempo, aí dá a importância de simplificar as coisas também.
+[00:12:03:10 --> 00:12:05:28] Então são aqui as dívidas do meio.
+[00:12:06:28 --> 00:12:09:16] Investimento de tempo que pode virar retorno ao custo.
+[00:12:09:18 --> 00:12:12:28] Se for retorno é habilidade, ativo, relacionamento, saúde.
+[00:12:12:28 --> 00:12:16:29] Se for custo, então é você gastou tempo aprendendo algo que era irrelevante,
+[00:12:17:08 --> 00:12:19:25] você gastou tempo otimizando algo que era irrelevante,
+[00:12:19:29 --> 00:12:26:00] você gastou tempo em um hobby seu que é mais uma fuga da sua realidade do que de fato um tempo de lazer.
+[00:12:27:08 --> 00:12:29:15] Então, um investimento não necessariamente é positivo,
+[00:12:29:21 --> 00:12:33:22] mas a sua intenção nele é que ele te traga algum retorno, mesmo que às vezes ele não traga.
+[00:12:33:24 --> 00:12:35:11] E aí você precisa ter essa clareza.
+[00:12:35:20 --> 00:12:41:21] E vazamentos, que são dispersões, interrupções, tarefas sem motivo, tarefas sem valor.
+[00:12:41:21 --> 00:12:46:04] Esse é o pior de todos aqui nessa primeira análise que nós estamos fazendo.
+[00:12:46:19 --> 00:12:50:26] Uma vez que você entende então os componentes desse sistema, nós podemos
+[00:12:50:26 --> 00:12:54:07] agora entender então quais são as crenças, quais são os erros e quais são
+[00:12:54:07 --> 00:12:58:09] os acertos ao gerenciar esse tipo de sistema.
+[00:12:58:16 --> 00:13:03:24] Então vamos lá, começando pelos maiores mitos sobre o tempo, é muito
+[00:13:03:24 --> 00:13:07:27] importante que você compreenda esses mitos aqui, até para que você não
+[00:13:07:27 --> 00:13:13:29] Aprove essas vozinhas dentro da sua cabeça que vão te fazer aceitar que as coisas são
+[00:13:13:29 --> 00:13:18:25] desse jeito e que não tem como você mudar, quando na verdade você deveria ter a autonomia
+[00:13:18:25 --> 00:13:24:19] para compreender que isso não necessariamente é uma verdade absoluta e que você pode sim
+[00:13:24:19 --> 00:13:25:21] quebrar esses mitos.
+[00:13:25:24 --> 00:13:28:12] Vamos lá, primeiro mito de todos, dá para comprar tempo.
+[00:13:28:16 --> 00:13:31:16] Eu já preciso começar por esse porque a gente escuta muito isso no dia a dia
+[00:13:31:16 --> 00:13:34:16] e há uma confusão aqui que te atrapalha a gerir esse sistema.
+[00:13:34:16 --> 00:13:37:29] Não é possível comprar tempo, pelo menos até hoje.
+[00:13:38:08 --> 00:13:41:28] Você não consegue ir em um hospital, ir em um laboratório e falar
+[00:13:41:28 --> 00:13:43:28] eu quero mais X anos de vida.
+[00:13:44:07 --> 00:13:45:07] Você não consegue fazer isso.
+[00:13:45:15 --> 00:13:46:24] Pode ser que no futuro a gente consiga?
+[00:13:46:28 --> 00:13:48:27] Sei lá, a gente vai viver um cenário de Altered Carbon,
+[00:13:49:01 --> 00:13:51:08] vai viver um cenário daquele filme O preço do amanhã,
+[00:13:51:10 --> 00:13:54:29] que você consegue comprar tempo e aí o dinheiro deixa de ser a moeda
+[00:13:54:29 --> 00:13:56:09] e tempo passa a ser a moeda.
+[00:13:56:12 --> 00:13:58:29] Tem alguns filmes assim bem legais, pode ser que isso aconteça no futuro?
+[00:13:59:04 --> 00:14:01:24] Eu não sei, eu não sou vidente, mas isso não acontece agora.
+[00:14:01:27 --> 00:14:03:22] Então a gente precisa trabalhar a realidade objetivo.
+[00:14:03:22 --> 00:14:06:21] E dentro da realidade objetiva você não compra tempo.
+[00:14:07:05 --> 00:14:10:13] Na prática o que você compra é serviço, conveniência,
+[00:14:10:24 --> 00:14:12:19] delegação, mas você não compra tempo.
+[00:14:12:24 --> 00:14:15:29] Você pode comprar o tempo das pessoas para fazer algo por você,
+[00:14:16:07 --> 00:14:18:26] mas você não está comprando mais tempo para você.
+[00:14:19:12 --> 00:14:23:27] Na prática então, você troca dinheiro por redução de atrito,
+[00:14:24:12 --> 00:14:25:22] redução de...
+[00:14:27:09 --> 00:14:32:03] fricções que podem te atrapalhar a fazer o que você gostaria, o que você deveria estar fazendo.
+[00:14:32:14 --> 00:14:38:23] Então é menos tarefas, menos contexto, menos fila e isso vai liberando para você mais capacidade para
+[00:14:38:23 --> 00:14:45:00] desviar ali os seus fluxos para os baldes que são mais importantes para você. Então é nesse sentido.
+[00:14:45:29 --> 00:14:52:07] Daria para fazer uma análise do tipo, mas se eu compro o tempo de outra pessoa, eu estou comprando tempo.
+[00:14:52:07 --> 00:14:57:03] E aí vem o ponto importante do que você tá comprando e que você tá recebendo de
+[00:14:57:03 --> 00:14:57:10] valor.
+[00:14:57:14 --> 00:15:00:19] Eu poderia entrar nisso, mas eu não vou entrar aqui pra não ficar muito filosófico.
+[00:15:00:25 --> 00:15:06:05] O conceito que a gente precisa entender aqui é que você não consegue colocar mais tempo
+[00:15:08:05 --> 00:15:11:27] dentro da sua capacidade atual de tempo, dentro do seu estoque de tempo.
+[00:15:12:09 --> 00:15:14:17] Segundo o mito, preciso de mais tempo.
+[00:15:15:00 --> 00:15:17:10] Todo mundo fala isso, eu preciso de mais tempo, eu preciso de mais tempo.
+[00:15:17:10 --> 00:15:24:10] Isso aqui é uma afirmação falha, porque se você fala que precisa de mais tempo,
+[00:15:24:21 --> 00:15:28:17] pensa comigo, se você precisa de algo que você não consegue ter, você perde o
+[00:15:28:17 --> 00:15:31:23] controle, você perde a responsabilidade e é o que acontece com a maioria das
+[00:15:31:23 --> 00:15:34:19] pessoas. Elas terceirizam a responsabilidade.
+[00:15:34:20 --> 00:15:37:23] Ah, preciso de mais tempo, não consigo, então não dá pra resolver, não dá pra
+[00:15:37:23 --> 00:15:41:14] resolver, então não vou fazer nada. Isso tudo acontece inconscientemente na
+[00:15:41:14 --> 00:15:44:09] sua cabeça, mas é algo que inconscientemente também vai te
+[00:15:44:09 --> 00:15:47:09] levando na direção errada. Se você fala preciso de mais tempo, então o
+[00:15:47:09 --> 00:15:51:10] você precisa o que você não pode ter. Se você não pode ter, você não faz nada para mudar isso,
+[00:15:51:15 --> 00:15:54:24] mesmo que seja algo inconsciente. Então o que você precisa entender? Não é que você
+[00:15:54:24 --> 00:15:58:18] precisa de mais tempo. Do que você precisa? Talvez você precisa de mais prioridade, talvez
+[00:15:58:18 --> 00:16:02:17] você precisa de mais foco, talvez você precisa de mais energia, talvez você precisa de um
+[00:16:02:17 --> 00:16:05:05] sistema melhor desenhado.
+[00:16:06:20 --> 00:16:10:20] E quando você dá os nomes certos para as coisas certas, aí você passa a assumir essa
+[00:16:11:09 --> 00:16:13:26] autonomia e aí você tem a chance de mudar isso.
+[00:16:14:18 --> 00:16:16:24] Então já vem aqui um ponto para você começar a pensar.
+[00:16:17:06 --> 00:16:18:11] Será que você precisa de quê?
+[00:16:18:15 --> 00:16:20:08] Dentro desses fatores que eu apontei aqui.
+[00:16:20:14 --> 00:16:24:11] Prioridade, foco, energia, clareza do seu sistema?
+[00:16:25:17 --> 00:16:30:01] Até se você pudesse comprar mais horas, se você não resolve esses pontos anteriores,
+[00:16:30:08 --> 00:16:33:06] você teria um problema, porque mais horas aumenta o caos.
+[00:16:33:11 --> 00:16:35:13] Como você aumenta o caos, lembra o que é a entropia?
+[00:16:35:21 --> 00:16:39:05] Quanto mais espaço para liberdade, mais tendência para o caos.
+[00:16:39:12 --> 00:16:43:00] Então mesmo que você tivesse mais tempo, você não resolveria o seu problema, ou seja,
+[00:16:43:01 --> 00:16:45:27] é uma ilusão, é um mito de você achar que precisa de mais tempo.
+[00:16:46:08 --> 00:16:51:10] Então aquela frase, todo mundo tem as 24 horas, ela também não é uma fase completamente
+[00:16:51:10 --> 00:16:54:28] correta no sentido de prioridades ou de dívidas de tempo.
+[00:16:54:28 --> 00:16:59:03] Mas ela é uma frase correta, analisando a realidade objetiva,
+[00:16:59:07 --> 00:17:02:20] que é dentro daquele ciclo de tempo que você se organiza
+[00:17:02:20 --> 00:17:03:27] dentro dessas 24 horas.
+[00:17:04:03 --> 00:17:07:00] Você pode quebrar esse ciclo de tempo e criar seu próprio
+[00:17:07:00 --> 00:17:08:04] ciclo de tempo? Pode.
+[00:17:08:12 --> 00:17:10:09] Mas lembre-se de olhar para a realidade objetiva.
+[00:17:10:13 --> 00:17:11:02] Tenta pensar.
+[00:17:11:12 --> 00:17:13:15] Eu acordo todos os dias e depois vou dormir.
+[00:17:13:24 --> 00:17:16:09] Eu também vivo dentro desse ciclo de 24 horas.
+[00:17:16:16 --> 00:17:19:24] O problema é que eu tenho dívidas de tempo que eu preciso pagar.
+[00:17:20:21 --> 00:17:22:15] Às vezes você não escolheu essas dívidas.
+[00:17:22:17 --> 00:17:24:25] Às vezes você já nasceu com essas dívidas.
+[00:17:24:25 --> 00:17:28:25] Mas é melhor você dar o nome certo para as coisas, porque isso vai te dar autonomia
+[00:17:28:25 --> 00:17:29:26] para resolver seu problema.
+[00:17:30:05 --> 00:17:31:10] Então lembre-se desse mito também.
+[00:17:32:09 --> 00:17:34:18] Se eu me organizar, eu dou conta de tudo.
+[00:17:34:21 --> 00:17:39:00] Outro mito clássico que só deu a falar que talvez vocês pensem, realmente é um mito,
+[00:17:39:04 --> 00:17:42:18] mas muita gente fala isso para si próprio e não resolve.
+[00:17:43:03 --> 00:17:46:29] Se você organizar, você ainda assim não vai dar conta de tudo.
+[00:17:47:14 --> 00:17:49:11] Isso é uma das maiores ilusões.
+[00:17:50:11 --> 00:17:53:09] Então organização não vai aumentar sua capacidade.
+[00:17:53:09 --> 00:17:57:07] Organizar as coisas não vai fazer você ter tempo infinito para fazer tudo que você quer.
+[00:17:57:21 --> 00:18:00:04] Você precisa lembrar, memento morre.
+[00:18:00:10 --> 00:18:04:29] Você precisa se lembrar que você vai morrer um dia e esse tempo vai acabar.
+[00:18:05:10 --> 00:18:08:26] E quando ele acabar, você vai perceber que não dá pra fazer tudo.
+[00:18:10:18 --> 00:18:12:05] Tem uma frase muito legal que fala assim,
+[00:18:12:19 --> 00:18:16:04] você pode fazer de tudo, mas não tudo.
+[00:18:17:06 --> 00:18:20:18] Ou seja, você tem uma infinidade de possibilidades,
+[00:18:20:21 --> 00:18:21:20] você pode fazer suas escolhas.
+[00:18:21:24 --> 00:18:23:03] Eu quero ser bombeiro, eu quero ser médico,
+[00:18:23:07 --> 00:18:25:24] eu quero ser policial, eu quero ser designer,
+[00:18:25:28 --> 00:18:29:10] eu quero ser artista de música,
+[00:18:29:16 --> 00:18:32:21] eu quero ser escritor, eu quero ser astronauta.
+[00:18:32:24 --> 00:18:36:00] Você pode escolher e aí você vai ter uma jornada para trilhar isso.
+[00:18:36:08 --> 00:18:37:09] Mas a escolha é sua.
+[00:18:38:23 --> 00:18:42:24] Então, você pode escolher dentre todas as possibilidades que estão disponíveis para você,
+[00:18:42:25 --> 00:18:48:15] mas você não pode fazer todas. E isso é uma máxima da realidade humana.
+[00:18:48:17 --> 00:18:52:23] Tem um livro muito legal do Seneca, que eu não poderia fazer essa aula sem falar desse
+[00:18:52:23 --> 00:18:57:04] livrinho que se chama A Brevidade da Vida. Ele traz um contraponto a tudo isso que eu estou
+[00:18:57:04 --> 00:19:01:21] falando aqui, mas é importante você se lembrar que você pode fazer de tudo, mas não tudo.
+[00:19:03:19 --> 00:19:07:26] E aí o que que é importante? Você precisa ter claro quais são as trocas, quais são os trade-offs.
+[00:19:07:28 --> 00:19:13:03] O que que é um trade-off? É que você, pra agarrar uma coisa, você precisa abrir mão de outra.
+[00:19:13:21 --> 00:19:16:24] Sempre haverá trade-off, sempre haverá troca.
+[00:19:17:00 --> 00:19:19:21] Sempre que você diz sim pra algo, você está dizendo não pra outra coisa.
+[00:19:19:24 --> 00:19:22:28] Sempre que você diz não pra algo, você está dizendo sim pra outra coisa.
+[00:19:23:00 --> 00:19:25:10] E aí vem um mito importante que a gente vai precisar aqui.
+[00:19:25:19 --> 00:19:28:15] Uma das principais habilidades que vocês precisam desenvolver.
+[00:19:28:28 --> 00:19:32:15] É difícil desenvolver isso. Eu tive dificuldade.
+[00:19:32:15 --> 00:19:37:07] Foi lá, mais ou menos quando eu estava ali próximo dos meus 20 anos que eu comecei a desenvolver isso.
+[00:19:37:16 --> 00:19:41:10] Não é fácil, mas é o poder de dizer não.
+[00:19:42:10 --> 00:19:46:06] É vocês, vocês precisam construir a permissão de vocês para dizer não.
+[00:19:46:13 --> 00:19:47:28] E não é algo do dia para a noite.
+[00:19:48:07 --> 00:19:51:02] É algo que leva tempo, mas quanto antes vocês começarem, melhor.
+[00:19:51:22 --> 00:19:54:10] E para resolver esse problema do não, vocês têm que se lembrar de uma coisa.
+[00:19:54:22 --> 00:19:56:16] Dizer não é dizer sim.
+[00:19:56:28 --> 00:19:59:03] E dizer sim é dizer não.
+[00:19:59:19 --> 00:19:59:28] Sempre.
+[00:20:00:03 --> 00:20:01:03] Como assim, Juan? O oposto?
+[00:20:01:03 --> 00:20:04:16] sempre que você fala sim pra alguém, você está falando não pra alguma outra coisa que você
+[00:20:04:16 --> 00:20:08:05] iria fazer. Sempre que você fala não pra alguém, você está falando sim pra alguma
+[00:20:08:05 --> 00:20:12:16] outra coisa que você quer fazer. E toda vez que você faz uma coisa que você
+[00:20:12:16 --> 00:20:16:12] não gostaria, porque você não conseguiu falar não pra alguém, você está falando
+[00:20:16:12 --> 00:20:21:25] não pra você mesmo. E é um processo pra resolver isso, mas eu já estou
+[00:20:21:25 --> 00:20:26:03] abrindo essa janela aqui pra vocês levarem isso em consideração. Esse aqui,
+[00:20:26:16 --> 00:20:29:00] Essa aqui é uma das maiores travas, beleza?
+[00:20:29:28 --> 00:20:33:09] Sou multitarefas, outro mito que muita gente fala.
+[00:20:33:16 --> 00:20:37:01] Não existe ser multitarefa, existe trocar rápido de tarefa.
+[00:20:37:07 --> 00:20:40:06] Então você não é multitarefa, você só troca a sua atenção para outra coisa.
+[00:20:41:06 --> 00:20:45:24] Então quando você fala, eu sou multitarefa, eu consigo cozinhar, ouvir música, lavar roupa ao mesmo tempo.
+[00:20:45:26 --> 00:20:50:24] Não! O que você está fazendo é colocando uma música de fundo que você não está conseguindo dar atenção total para ela.
+[00:20:50:27 --> 00:20:54:07] Então ela está funcionando mais como um background da sua realidade.
+[00:20:54:18 --> 00:20:57:27] Aí você está fazendo almoço e trocando, faz o almoço e coloca a roupa ali, depois
+[00:20:57:27 --> 00:20:59:29] volta pro almoço, depois volta pra roupa, volta pra roupa, volta pra roupa.
+[00:21:00:04 --> 00:21:02:00] Você só tá trocando rápido de tarefas.
+[00:21:02:06 --> 00:21:04:10] E parece algo bom, mas não é.
+[00:21:05:13 --> 00:21:09:14] E eu posso falar isso para vocês através da neurociência,
+[00:21:09:24 --> 00:21:10:22] cientificamente falando.
+[00:21:11:07 --> 00:21:14:01] Quando você troca de contexto muitas vezes,
+[00:21:14:12 --> 00:21:17:01] o seu cérebro não tem tempo de assimilação suficiente.
+[00:21:17:11 --> 00:21:19:13] Você pode até fazer isso inconscientemente,
+[00:21:19:15 --> 00:21:22:09] que é o que acontece quando você alcança um estado de maestria,
+[00:21:22:21 --> 00:21:24:02] que você faz sem pensar.
+[00:21:24:12 --> 00:21:26:24] O seu cérebro criou heurísticas
+[00:21:26:24 --> 00:21:29:23] para não depender da sua consciência para executar algo.
+[00:21:29:24 --> 00:21:30:25] Por exemplo, você vai dirigir,
+[00:21:30:27 --> 00:21:34:09] você está conversando com alguém e nem está prestando atenção em você dirigindo.
+[00:21:34:09 --> 00:21:39:06] O que você está fazendo? Você está tirando a sua atenção consciente de algo e deixando seu corpo
+[00:21:39:06 --> 00:21:44:14] resolver aquilo enquanto sua atenção está em outra coisa. Isso aí poderia ser o mais próximo de
+[00:21:44:14 --> 00:21:49:15] multitarefa que a gente pode chegar, mas isso leva tempo, não é algo que você simplesmente é.
+[00:21:49:21 --> 00:21:53:21] Significa você buscar tanto a maestria em algo para chegar em um momento que você
+[00:21:53:21 --> 00:21:58:09] faz aquilo inconscientemente sem pensar. Esse é o nível de multitarefa, digamos assim,
+[00:21:58:17 --> 00:22:03:09] mas até esse nível também eu não chamaria de um multitarefa, eu chamaria de estado de flow,
+[00:22:03:09 --> 00:22:07:24] que é outro conceito diferente que existe dentro da neurociência também, e vocês
+[00:22:07:24 --> 00:22:11:18] podem pesquisar mais depois, beleza? Mas esse é outro mito que vocês precisam
+[00:22:11:18 --> 00:22:13:28] aprender a lidar com ele para não enganar vocês mesmos.
+[00:22:15:02 --> 00:22:17:19] Produtividade é fazer mais, é outro mito.
+[00:22:17:24 --> 00:22:20:18] Mas, Juan, quando eu produzo eu estou fazendo mais, nem sempre.
+[00:22:21:10 --> 00:22:24:13] Produtividade, útil, a que importa, que a gente precisa,
+[00:22:24:26 --> 00:22:28:25] é fazer o que você precisa fazer, terminar isso.
+[00:22:29:22 --> 00:22:31:13] Porque as pessoas falam, eu fui produtivo hoje.
+[00:22:31:26 --> 00:22:35:26] Mas tem uma diferença grande entre eficiência e eficácia.
+[00:22:36:21 --> 00:22:42:07] Eficiência é sobre você executar o processo bem.
+[00:22:43:10 --> 00:22:45:27] Eficácia é sobre você conseguir alcançar o resultado.
+[00:22:47:05 --> 00:22:51:16] Então, tem gente que é eficiente o dia inteiro, gasta energia, faz um monte de coisa,
+[00:22:51:18 --> 00:22:54:26] aí chega no final. Você conseguiu o resultado do que você precisava hoje?
+[00:22:55:06 --> 00:22:57:21] Ah, não consegui, não deu tempo. Amanhã eu termino.
+[00:22:57:29 --> 00:23:01:07] Não foi eficaz. Foi eficiente, talvez, mas não foi eficaz.
+[00:23:01:20 --> 00:23:05:14] E o que é produtividade? Produtividade vem da palavra produto.
+[00:23:05:27 --> 00:23:07:22] É a atividade do produto.
+[00:23:08:23 --> 00:23:15:27] um produto é o resultado final de algo. Pensa, por exemplo, assim, PIB, produto interno bruto.
+[00:23:16:00 --> 00:23:22:07] O que é o produto interno bruto? É o resultado interno bruto total de um país, com base em tudo
+[00:23:22:07 --> 00:23:27:13] que ele fez. E um produto, ele precisa ser o lucro. Então, o que é um produto? É o que você
+[00:23:28:08 --> 00:23:29:28] ganhou com o que você fez.
+[00:23:31:15 --> 00:23:33:17] Então, o que é produtividade?
+[00:23:33:26 --> 00:23:37:23] É atividade de gerar um produto fazendo com algo, né?
+[00:23:37:28 --> 00:23:39:13] Atividade é o caso fazer algo.
+[00:23:39:21 --> 00:23:41:06] Fazer algo para gerar um produto.
+[00:23:41:26 --> 00:23:43:20] E o que é esse produto? É o resultado.
+[00:23:44:06 --> 00:23:46:03] Então, produtividade não é fazer mais,
+[00:23:46:08 --> 00:23:48:06] não é trabalhar o dia inteiro, não é se esforçar.
+[00:23:48:23 --> 00:23:50:21] Produtividade é ter um resultado final.
+[00:23:51:12 --> 00:23:51:26] Entregue.
+[00:23:52:03 --> 00:23:53:12] Muitas vezes entregue para você mesmo.
+[00:23:54:19 --> 00:23:59:16] E melhor ainda que a produtividade, quando esse produto entregue, é um produto de qualidade
+[00:23:59:16 --> 00:24:02:13] ou pelo menos suficiente para o que você precisa.
+[00:24:02:23 --> 00:24:06:14] Se você entrega mas é ruim, se você entrega e não funciona, não foi produtivo.
+[00:24:06:27 --> 00:24:07:16] Não resolveu.
+[00:24:08:27 --> 00:24:10:20] Então, produtividade não é fazer mais.
+[00:24:11:03 --> 00:24:13:29] Produtividade é fazer o que importa e concluir.
+[00:24:15:02 --> 00:24:23:06] Beleza? E esse mito é importante também. Funciono igual todos os dias. Isso aqui é o mito de achar
+[00:24:23:06 --> 00:24:27:18] que todo dia vai ser igual, que você vai ser a mesma pessoa todo dia. Mulheres entendem isso aqui
+[00:24:27:18 --> 00:24:30:18] melhor do que homens, tá? E por que que eu falo isso? Porque...
+[00:24:31:15 --> 00:24:34:12] O corpo das mulheres, fisiologicamente falando,
+[00:24:35:19 --> 00:24:38:17] denuncia isso de um jeito muito nítido.
+[00:24:39:01 --> 00:24:40:12] É a TPM, por exemplo.
+[00:24:41:04 --> 00:24:43:09] Isso é muito nítido para muitas mulheres.
+[00:24:43:12 --> 00:24:44:25] Nem toda mulher vai ter isso também,
+[00:24:45:07 --> 00:24:47:14] mas para as mulheres isso é mais nítido.
+[00:24:47:20 --> 00:24:50:07] Só que isso não quer dizer que não acontece com homens também.
+[00:24:50:18 --> 00:24:53:24] Então, homens cometem mais esse erro aqui do que mulheres.
+[00:24:54:05 --> 00:24:56:27] De achar que eu sou consistente, todo dia eu sou igual,
+[00:24:57:03 --> 00:24:58:21] todo dia eu tenho as mesmas emoções,
+[00:24:58:26 --> 00:25:00:22] eu controlo as minhas emoções. Errado.
+[00:25:01:28 --> 00:25:02:12] Beleza?
+[00:25:02:16 --> 00:25:07:13] Mas muitas mulheres também caem nesse mito aqui, de achar que tem previsibilidade, de
+[00:25:07:13 --> 00:25:11:09] achar que o dia de amanhã nós vamos acordar com o mesmo humor, que o dia de amanhã vai
+[00:25:11:09 --> 00:25:12:04] ser parecido com o de hoje.
+[00:25:12:10 --> 00:25:12:25] Não vai.
+[00:25:13:09 --> 00:25:16:18] E isso aqui tem que ser considerado na hora de pensar sobre tempo.
+[00:25:17:09 --> 00:25:24:10] Então energia e atenção oscilam por ciclo e esse ciclo não é só algo da cabeça
+[00:25:24:10 --> 00:25:24:21] humana.
+[00:25:24:24 --> 00:25:28:09] O ciclo funciona baseado também na nossa fisiologia.
+[00:25:28:09 --> 00:25:34:11] Por exemplo, o ciclo diário de 24 horas é baseado no ciclo circadiano da nossa fisiologia,
+[00:25:34:18 --> 00:25:38:01] porque a luz do sol tem um impacto grande no sistema do nosso corpo.
+[00:25:38:13 --> 00:25:42:21] Então os hormônios que nós produzimos são baseados também nesse ciclo diário.
+[00:25:42:27 --> 00:25:45:22] Se quiserem entender mais sobre isso, depois pesquisem sobre um livro chamado
+[00:25:45:22 --> 00:25:47:19] Mude Seus Horários e Mude Suas Vidas.
+[00:25:47:27 --> 00:25:48:17] E Mude Sua Vida.
+[00:25:48:21 --> 00:25:54:13] É um livro que mostra, cientificamente, com dados e com evidências
+[00:25:54:13 --> 00:26:00:18] que o seu corpo, ele muda ao longo dos ciclos, principalmente ciclos diários.
+[00:26:01:25 --> 00:26:03:17] que é o ciclo circadiano.
+[00:26:03:22 --> 00:26:05:03] Então, isso aqui é um mito grande
+[00:26:05:03 --> 00:26:06:23] e a gente precisa levar isso em consideração.
+[00:26:07:13 --> 00:26:09:07] Outro mito, planejar é perda de tempo.
+[00:26:10:02 --> 00:26:11:19] Ah, vou só aproveitar a vida, vou viver,
+[00:26:11:23 --> 00:26:12:20] vou reagir às coisas.
+[00:26:14:02 --> 00:26:18:03] planejar é ter clareza e vocês viram que clareza é um dos recursos mais
+[00:26:18:03 --> 00:26:20:11] importantes para a gente sair da entropia.
+[00:26:20:20 --> 00:26:24:23] Se você é só uma pessoa reativa você vai viver dentro da entropia
+[00:26:24:23 --> 00:26:27:23] a sua vida inteira apagando um incêndio atrás do outro porque você
+[00:26:27:23 --> 00:26:29:21] não antecipa as coisas.
+[00:26:30:23 --> 00:26:32:19] Então eu coloquei uma frase aqui para vocês que é
+[00:26:33:14 --> 00:26:37:11] se você não o que você não controla controla você.
+[00:26:39:22 --> 00:26:43:06] Ignorar isso aqui, ou seja, acreditar nesse mito aqui,
+[00:26:43:17 --> 00:26:47:06] é fazer a maior parte do seu tempo sair no fluxo de vazamentos.
+[00:26:47:29 --> 00:26:50:16] A maior parte do seu tempo vai vazar, vai só vazar, vai só vazar.
+[00:26:50:23 --> 00:26:53:28] E se vocês fizerem um cálculo do vazamento que vocês vão fazer ao longo da vida,
+[00:26:54:06 --> 00:26:55:11] vocês vão ficar assustados.
+[00:26:55:18 --> 00:26:56:28] Muitas vezes é coisa de tipo...
+[00:26:57:20 --> 00:27:02:07] Se você gasta, se 30%, cálculem isso, se 30% do seu dia...
+[00:27:03:04 --> 00:27:03:29] É vazamento.
+[00:27:05:18 --> 00:27:08:15] 30% dos seus 73 anos são vazamento.
+[00:27:08:21 --> 00:27:12:26] Significa que 21 anos da sua vida.
+[00:27:14:17 --> 00:27:20:29] só foram vazados, vividos sem intenção ou, pelo menos, vividos sem presença.
+[00:27:21:17 --> 00:27:24:06] Só foi embora. Você nem percebeu o que estava indo.
+[00:27:26:20 --> 00:27:33:00] Então, se 30% do seu dia é vazamento, 21 anos da sua vida aproximadamente, um pouco mais né?
+[00:27:33:05 --> 00:27:40:02] Aí um pouco mais porque 73 aqui, mas uns 21 anos da sua vida, você nem sabe para onde está.
+[00:27:41:23 --> 00:27:45:22] Além dos mitos, quais são os erros em cima desses mitos, que ali são crenças, tá?
+[00:27:45:29 --> 00:27:46:21] Quais são os erros?
+[00:27:46:29 --> 00:27:50:00] Um, erro de endividamento.
+[00:27:50:11 --> 00:27:53:23] Esse é o clássico, esse é o mais importante que vocês vão precisar levar em consideração aqui.
+[00:27:54:13 --> 00:27:58:08] Primeiro erro de endividamento é comprometer 100% do seu tempo futuro.
+[00:27:58:18 --> 00:28:03:24] Então, lotar sua agenda, deixar o seu sistema sem folgas, sem tempo para descanso,
+[00:28:04:00 --> 00:28:09:27] sem tempo para imprevistos, vira tudo crise e você cai dentro de entropia e não consegue resolver.
+[00:28:09:27 --> 00:28:13:28] Só que não é só isso, eu fiz questão de colocar ali porque às vezes você acha que
+[00:28:13:28 --> 00:28:21:05] o seu endividamento, ele vai ser um endividamento só, sei lá, vou ajudar um amigo meu, eu
+[00:28:21:05 --> 00:28:26:01] não devia estar ajudando ele agora, mas eu vou ajudar ele aqui, vou gastar 4 horas do
+[00:28:26:01 --> 00:28:27:11] meu dia amanhã, mas é só isso.
+[00:28:28:00 --> 00:28:33:27] Você não sabe que muitos desses endividamentos têm juros e esses juros vão se acumulando,
+[00:28:33:29 --> 00:28:37:09] porque se você fez uma vez, talvez você vai ter que fazer de novo, isso vai virando
+[00:28:37:09 --> 00:28:40:08] um viés, porque você fala, pô, eu já falei sim uma vez, agora eu vou falar não?
+[00:28:40:14 --> 00:28:41:25] Agora que eu comecei a ajudar eu vou falar não?
+[00:28:41:25 --> 00:28:42:17] Agora eu vou até o fim.
+[00:28:42:28 --> 00:28:46:22] Então as pessoas não calculam a consequência em cascata das decisões.
+[00:28:46:29 --> 00:28:50:21] Então às vezes você toma uma decisão e aí você tem várias coisas como atraso,
+[00:28:51:19 --> 00:28:56:27] desculpas, retrabalho, ansiedade, complexidade, vários pontos desses vão entrando que
+[00:28:56:27 --> 00:29:01:00] às vezes a gente não leva em consideração, vão sendo juros, você não calculou aquilo
+[00:29:01:00 --> 00:29:05:21] e quando você vê gastou muito mais tempo ali do que deveria e foi virando vazamento.
+[00:29:05:21 --> 00:29:07:06] Juros geralmente é vazamento.
+[00:29:08:12 --> 00:29:12:01] Segundo o erro de endividamento, aceitar prazos sem estimativa e sem negociação.
+[00:29:12:06 --> 00:29:14:05] Isso aqui é o problema de não saber falar não.
+[00:29:14:15 --> 00:29:17:26] Então a pessoa te pede uma coisa, você só fala, beleza, vou fazer.
+[00:29:18:03 --> 00:29:20:16] Sem calcular, qual é o custo disso pra você?
+[00:29:21:02 --> 00:29:25:25] Vira uma dívida automática ali porque você falou sim e não levou isso aqui em consideração.
+[00:29:26:02 --> 00:29:30:24] Então você se endividou, tá devendo tempo agora que não é seu pra outra pessoa
+[00:29:30:24 --> 00:29:34:07] e agora você tem que entregar porque você aceitou um prazo e não soube falar não.
+[00:29:34:19 --> 00:29:37:02] 3. Acumular pendências pequenas.
+[00:29:37:02 --> 00:29:40:29] Então tem várias coisinhas que vão acontecendo no dia a dia ali que você vai deixando, faz
+[00:29:40:29 --> 00:29:45:15] um pouquinho hoje, um pouquinho amanhã, quando você vê isso vira um monstro de sete cabeças.
+[00:29:45:21 --> 00:29:48:01] Pendência é um processo aberto ocupando sua atenção.
+[00:29:48:11 --> 00:29:50:02] Aqui é o problema do multitarefa também.
+[00:29:50:11 --> 00:29:53:12] Então você fala, ah, é uma coisa pequenininha, em 10 minutos eu faço, mas se você assumiu
+[00:29:53:12 --> 00:29:55:03] isso agora é a sua responsabilidade de fazer.
+[00:29:55:11 --> 00:29:59:19] E aí você vai ocupar um tempo no seu cérebro para se lembrar de fazer isso também.
+[00:29:59:29 --> 00:30:02:05] E aí às vezes aquilo fica ruminando na sua cabeça, eu tenho que fazer isso,
+[00:30:02:05 --> 00:30:03:06] eu tenho que fazer isso, eu tenho que fazer isso.
+[00:30:03:06 --> 00:30:08:27] e você não calculou que esse período todo, preocupado com essa coisa que você tem para fazer,
+[00:30:09:00 --> 00:30:15:04] tá tomando mais tempo seu do que fazer a própria coisa. E aí aqui vem algumas coisinhas, regras,
+[00:30:15:09 --> 00:30:18:29] eu crio para mim, por exemplo, eu tenho uma regrinha que é assim, se algo leva menos de
+[00:30:18:29 --> 00:30:23:05] cinco minutos para ser feito e eu sou a única pessoa que pode fazer isso, faz agora.
+[00:30:24:07 --> 00:30:25:25] Não deixa pra depois. Por quê?
+[00:30:26:11 --> 00:30:28:05] Uma coisa é eu gastar 5 minutos e fazer.
+[00:30:28:18 --> 00:30:32:11] Outra coisa é eu deixar pra depois e eu ter que, além desses 5 minutos,
+[00:30:32:28 --> 00:30:37:21] gastar mais 10, 20, 30, 60 minutos me lembrando de que eu tenho que fazer aquilo.
+[00:30:38:04 --> 00:30:42:04] Ou seja, a coisa que gasta 5, está gastando meia hora, está gastando 60 minutos.
+[00:30:42:25 --> 00:30:43:25] E a gente não pensa isso.
+[00:30:45:14 --> 00:30:50:09] Então, eu vou entregar uma matriz para vocês aqui e isso vai começar a ficar natural para vocês.
+[00:30:50:16 --> 00:30:54:15] Gasta menos de 5 minutos, cara, vou fazer aqui agora, porque senão eu vou gastar mais do que 5 minutos depois.
+[00:30:55:06 --> 00:30:59:18] Mas antes de fazer, você tem que pensar, só eu posso fazer isso? Ou alguém pode fazer isso para mim?
+[00:31:00:13 --> 00:31:03:28] Isso é uma outra coisa importante também, que vocês tem que levar isso em consideração, tá bom?
+[00:31:04:25 --> 00:31:12:00] Então, muitas pendências viram vazamentos e vão escalando os juros delas, são juros ocultos que a gente nem leva em consideração
+[00:31:12:00 --> 00:31:15:10] E no final você não sabe pra onde o tempo está vazando, o que está acontecendo, eu
+[00:31:15:10 --> 00:31:16:19] não estou vendo as horas passarem.
+[00:31:18:00 --> 00:31:23:25] Quatro, complexidade desnecessária, esse aqui é outro invisível, de endividamento.
+[00:31:24:05 --> 00:31:30:19] Quanto mais você complexifica sua rotina, as coisas que você faz, o seu pensamento,
+[00:31:31:20 --> 00:31:33:07] mais tempo você perde no processo.
+[00:31:34:07 --> 00:31:39:14] É como dissipação de calor, quanto mais complexo, mais dissipa tempo, mais tempo vai vazando.
+[00:31:39:25 --> 00:31:43:24] Então, tem uma lei que chama Lei da Pacimónio, inclusive isso é um dos quatro princípios
+[00:31:43:24 --> 00:31:48:21] fundacionais da Overlens, a gente tem um documento de toda a equipe e nesse documento tem quatro
+[00:31:48:21 --> 00:31:54:12] princípios lá. O terceiro princípio é o princípio da parcimônia. O que é o princípio da parcimônia?
+[00:31:54:22 --> 00:31:59:21] Simplicidade é o último grau de sofisticação. Quanto mais simples é o seu processo, menos tempo
+[00:31:59:21 --> 00:32:05:06] você perde, mais resultado você tem, mais produtivo você é. Então tentar simplificar o máximo
+[00:32:05:06 --> 00:32:10:10] tende a ser o melhor caminho. Então complexidade desnecessária também é um erro de
+[00:32:10:29 --> 00:32:14:21] também tem erros de prioridade, vamos entender aqui. Confundir a urgência dos
+[00:32:14:21 --> 00:32:17:06] outros com prioridade própria. Como assim?
+[00:32:18:21 --> 00:32:24:00] Se você não tem suas próprias prioridades, o que vai acontecer com a sua vida é você
+[00:32:25:12 --> 00:32:27:12] ter dificuldade de falar não para as pessoas.
+[00:32:27:25 --> 00:32:30:03] E as pessoas vão pegar as urgências delas e falar
+[00:32:30:03 --> 00:32:32:09] por favor, pelo amor de Deus, me ajuda, minha vida tá difícil,
+[00:32:32:21 --> 00:32:34:12] eu preciso resolver isso aqui ou vai dar tudo errado.
+[00:32:34:21 --> 00:32:36:19] Aí você tá com o tempo disponível,
+[00:32:37:00 --> 00:32:38:11] fica mais difícil de falar não,
+[00:32:38:14 --> 00:32:40:20] quando você tem tempo disponível é mais difícil falar não.
+[00:32:41:00 --> 00:32:45:05] Você fala, po cara, é um amigo meu, é um irmão, é minha mãe,
+[00:32:45:13 --> 00:32:47:07] eu tô com o tempo disponível aqui agora,
+[00:32:47:21 --> 00:32:48:18] vou ajudar ela, né?
+[00:32:49:04 --> 00:32:50:18] É mais difícil falar não,
+[00:32:50:21 --> 00:32:53:04] porque você não definiu suas prioridades.
+[00:32:53:17 --> 00:32:57:07] Agora, uma outra técnica que a gente vai falar mais sobre isso, eu vou entregar o exercício
+[00:32:57:07 --> 00:32:59:06] pra vocês que vai ajudar a resolver esses pontos todos, tá?
+[00:33:00:06 --> 00:33:01:10] Mas uma técnica que é o quê?
+[00:33:02:07 --> 00:33:03:00] Reserva sua agenda.
+[00:33:04:15 --> 00:33:09:10] Imagina que você tem uma reunião de 9 até 10.
+[00:33:10:00 --> 00:33:11:15] Chega alguém e fala, por favor, me ajuda, você vai falar,
+[00:33:11:16 --> 00:33:14:01] cara, eu quero muito te ajudar, mas eu não posso agora porque eu tenho uma reunião.
+[00:33:14:08 --> 00:33:16:04] A pessoa vai falar, beleza, depois a gente vê então.
+[00:33:16:17 --> 00:33:20:20] Você falou não, foi fácil de falar não, e a pessoa vai entender.
+[00:33:21:12 --> 00:33:26:03] Agora se você falar, não dá e tal, e aí você olha ali, você é uma pessoa que não está fazendo nada agora,
+[00:33:26:06 --> 00:33:27:22] a pessoa vai ficar assim, pô, você não está fazendo nada.
+[00:33:27:28 --> 00:33:29:28] Eu lembro disso quando eu morava com os meus pais
+[00:33:30:12 --> 00:33:32:26] e minha mãe pedia muita coisa pra mim, normal.
+[00:33:33:09 --> 00:33:37:28] Ah, vai na padaria e compra um pão, vai no supermercado pra mim, vai lá no centro e compra
+[00:33:38:21 --> 00:33:42:01] um cano, um sifão pra trocar a pia, coisas que parecem pequenas.
+[00:33:42:25 --> 00:33:46:01] Mas eu comecei a observar, quais eram os momentos que a minha mãe mais me pedia coisa pra
+[00:33:46:01 --> 00:33:46:06] fazer?
+[00:33:46:12 --> 00:33:50:18] Quando eu tava sentado no sofá jogando videogame, pra minha mãe parecia que eu tava ocioso.
+[00:33:51:10 --> 00:33:52:25] Eu não tava, mas parecia que eu tava.
+[00:33:53:09 --> 00:33:55:27] E aí eu tinha dificuldade de falar não, porque eu falava, pô, tô jogando videogame.
+[00:33:56:00 --> 00:33:58:15] Então era minha mãe, né, eu tinha que obedecer.
+[00:33:58:24 --> 00:34:01:16] Então eu falava, ah, mãe, às vezes eu falava, pô, mas deixa eu só terminar
+[00:34:01:16 --> 00:34:01:28] aqui.
+[00:34:01:28 --> 00:34:04:09] E ela falava, beleza, termina aí, depois você vai.
+[00:34:04:17 --> 00:34:06:27] Ou seja, só porque eu estava fazendo alguma coisa te ajudou.
+[00:34:08:04 --> 00:34:14:07] Então, isso aqui é um primeiro erro de prioridade, é não ter a sua própria prioridade e as
+[00:34:14:07 --> 00:34:16:09] pessoas vão colocar as prioridades dela na sua.
+[00:34:16:15 --> 00:34:21:10] Se você começa a registrar blocos ali, você pode até deixar blocos de ajudar outras
+[00:34:21:10 --> 00:34:21:20] pessoas.
+[00:34:21:28 --> 00:34:24:07] Então, eu vou reservar um tempo do meu dia para ajudar alguém.
+[00:34:24:24 --> 00:34:25:14] O que vai acontecer?
+[00:34:25:16 --> 00:34:29:07] Se você reservar e conseguir organizar o seu sistema, você vai falar com a pessoa
+[00:34:29:07 --> 00:34:32:11] que, olha, eu posso te ajudar hoje às 16 horas, pode ser?
+[00:34:32:16 --> 00:34:32:26] Pode.
+[00:34:33:04 --> 00:34:33:18] Maravilha.
+[00:34:33:21 --> 00:34:36:21] Ela não vai atrapalhar o que você está fazendo agora, você vai conseguir
+[00:34:36:21 --> 00:34:38:19] vai fazer tudo e vai conseguir ajudar aquela pessoa depois.
+[00:34:39:01 --> 00:34:40:16] Esse seria um momento ideal.
+[00:34:40:26 --> 00:34:41:17] Não é fácil, tá?
+[00:34:42:02 --> 00:34:44:01] Não é fácil, é difícil organizar esses sistemas,
+[00:34:44:17 --> 00:34:46:16] mas à medida que as coisas vão entrando no eixo,
+[00:34:46:21 --> 00:34:48:04] você vai vendo que as coisas começam a fluir.
+[00:34:49:07 --> 00:34:55:03] Outro erro de prioridade, vender a própria hora barato, sem prazo e sem relevância.
+[00:34:55:21 --> 00:34:56:09] Como assim, Juan?
+[00:34:56:20 --> 00:35:00:00] Você pega seus horários mais importantes...
+[00:35:01:02 --> 00:35:02:21] e vende eles para outras pessoas.
+[00:35:03:05 --> 00:35:04:24] Coloca reunião em cima deles,
+[00:35:05:02 --> 00:35:06:23] coloca entrega para outras pessoas em cima deles,
+[00:35:07:00 --> 00:35:08:20] e aí nunca sobra tempo para você.
+[00:35:08:26 --> 00:35:10:28] Se você tem esse sintoma, nunca sobra tempo
+[00:35:10:28 --> 00:35:12:26] para você planejar sua semana, nunca sobra
+[00:35:12:26 --> 00:35:15:03] tempo para você desenvolver suas habilidades,
+[00:35:15:08 --> 00:35:17:04] nunca sobra tempo para você
+[00:35:17:04 --> 00:35:18:27] se organizar. Se nunca está sobrando
+[00:35:18:27 --> 00:35:20:15] tempo para você, é um erro de prioridade.
+[00:35:20:25 --> 00:35:22:29] É porque você está vendendo sua hora sem prazo
+[00:35:22:29 --> 00:35:25:00] e sem relevância, colocando
+[00:35:25:00 --> 00:35:27:02] o tempo de outras pessoas em cima do seu tempo.
+[00:35:27:03 --> 00:35:29:06] E quando eu falo sem prazo e sem relevância, é o seguinte,
+[00:35:29:06 --> 00:35:35:19] tem problema vender só a hora? Depende do contexto. Dependendo do contexto não tem problema vender só a hora.
+[00:35:35:23 --> 00:35:41:06] E depende do preço também. O preço vai contar muito se vale a pena ou não vender uma hora para alguém aqui.
+[00:35:41:23 --> 00:35:42:06] Mas...
+[00:35:43:14 --> 00:35:48:09] O problema é que as pessoas fazem isso sem colocar um prazo final, ou seja, eu vou vender
+[00:35:48:09 --> 00:35:52:11] oito horas do meu dia pra alguém e vou trabalhar oito horas por dia num lugar.
+[00:35:52:24 --> 00:35:56:12] Sei lá, vou trabalhar oito horas por dia pra fazer R$1.500 aqui.
+[00:35:57:06 --> 00:36:01:14] Se você não colocar até quando sua vida vai ficar assim, infelizmente tem uma
+[00:36:01:14 --> 00:36:04:05] grande chance de sua vida ficar assim por muito tempo, e é o que acontece com a
+[00:36:04:05 --> 00:36:04:29] maioria das pessoas.
+[00:36:05:19 --> 00:36:08:09] Então, por exemplo, tem problema eu trabalhar no McDonald's?
+[00:36:08:21 --> 00:36:09:03] Depende.
+[00:36:09:18 --> 00:36:12:10] Se você não consegue achar uma opção melhor, que você vai te dar dinheiro
+[00:36:12:10 --> 00:36:17:09] mais rápido, e aquilo ali é uma opção momentânea, você tem que colocar assim ó,
+[00:36:17:10 --> 00:36:22:23] eu vou trabalhar no McDonald's por 6 meses, mas vão ser 6 meses que eu trabalho no McDonald's
+[00:36:22:23 --> 00:36:27:12] e depois eu saio de lá, eu já vou direto estudar e eu vou ter que sacrificar muito
+[00:36:27:12 --> 00:36:30:14] da minha vida naquele início, vai ser difícil, mas vão ser 6 meses pra eu me restabelecer
+[00:36:30:14 --> 00:36:31:08] e depois eu saio disso.
+[00:36:31:20 --> 00:36:35:18] Isso é inteligente, porque você colocou pelo menos um prazo pra viver aquela realidade.
+[00:36:35:27 --> 00:36:40:23] Se você não coloca um prazo, se você só vai vivendo, o tempo passa muito rápido,
+[00:36:40:23 --> 00:36:46:17] as coisas vão acabar, aí daqui a pouco você tá ali dois, três, quatro, cinco anos preso naquela vida
+[00:36:46:17 --> 00:36:52:08] e não entende, por que é a minha vida assim? Tudo é tão difícil, mas você não entende porque ninguém te ensinou,
+[00:36:52:10 --> 00:36:55:23] isso aqui é o tipo de aula que a gente deveria ter na escola, mas ninguém te ensinou isso,
+[00:36:55:29 --> 00:37:01:05] e você fica, a minha vida é difícil, ah mas eu nasci numa situação difícil.
+[00:37:02:02 --> 00:37:05:27] Uma coisa que as pessoas falam, eu entendo muito quando as pessoas falam isso, mas eu fico triste
+[00:37:05:27 --> 00:37:10:22] porque elas estão aceitando a realidade delas, é, eu sou pobre, nasci pobre, vou morrer pobre,
+[00:37:10:22 --> 00:37:15:14] pobre, ah eu sou pobre, eu tenho que trabalhar aqui. Não, cara, você vai aceitar o que todo mundo
+[00:37:15:14 --> 00:37:20:20] jogou pra cima de você, por mais que seja difícil a sua realidade, e ela realmente é difícil,
+[00:37:21:02 --> 00:37:25:12] você é a única pessoa que pode te tirar dessa situação. E se você já aceita que nem você
+[00:37:25:12 --> 00:37:31:18] pode tirar, sua vida inteira vai ser assim. Então, eu concordo, meritocracia é lixa,
+[00:37:31:23 --> 00:37:37:25] é bullshit, joga fora o conceito de meritocracia e começa a trabalhar com o conceito de autonomia,
+[00:37:37:25 --> 00:37:40:21] com o conceito de que ninguém vai viver sua vida por você,
+[00:37:40:29 --> 00:37:43:19] você que tem que viver ela e você que tem que fazer suas escolhas.
+[00:37:43:29 --> 00:37:45:26] E aí, quando você começa a viver esse conceito,
+[00:37:45:29 --> 00:37:47:14] você vai entender uma coisa muito importante.
+[00:37:47:26 --> 00:37:50:15] Você está vivendo a vida que você escolheu,
+[00:37:50:18 --> 00:37:52:11] mesmo que você não tenha escolhido,
+[00:37:52:17 --> 00:37:54:12] porque não escolher é uma escolha.
+[00:37:56:00 --> 00:37:59:20] E aí entra num conceito mais filosófico, que eu vou trazer aqui, que aí entra o ponto
+[00:37:59:20 --> 00:38:00:10] mais difícil.
+[00:38:00:15 --> 00:38:03:25] Só que você que está assistindo isso aqui agora não vai poder falar isso mais.
+[00:38:05:03 --> 00:38:11:02] As pessoas nem sabem disso, a maioria das pessoas não vão nem enxergar, e aí eu concordo que nem escolha elas vão ter.
+[00:38:11:20 --> 00:38:14:21] Porque nem a chance de perceber isso elas têm, infelizmente.
+[00:38:15:05 --> 00:38:19:10] Porque elas foram ensinadas num caminho e elas só aceitam, infelizmente.
+[00:38:19:23 --> 00:38:20:26] Mas qual que é o meu papel aqui?
+[00:38:21:10 --> 00:38:26:23] É despertar pelo menos, não vou nem usar a palavra despertar, mas é pelo menos mostrar uma outra possibilidade.
+[00:38:27:16 --> 00:38:29:02] E aí eu posso falar pelo menos uma coisa.
+[00:38:29:12 --> 00:38:31:17] Até essa aula que você está assistindo aqui agora...
+[00:38:32:23 --> 00:38:38:11] Tava tudo bem você falar, mas eu nem sabia, eu nem tinha percebido isso que você tá me falando.
+[00:38:38:19 --> 00:38:42:25] E aí eu entendo, realmente, você não tinha nem escolha, porque você não tinha nem visto essa possibilidade.
+[00:38:43:09 --> 00:38:46:08] Só que a partir do momento que você ouviu tudo isso que eu tô te falando aqui agora,
+[00:38:46:15 --> 00:38:49:10] a partir desse momento aqui, agora você tem a escolha.
+[00:38:50:14 --> 00:38:53:16] E é aí que você não pode falar mais que não teve escolha, porque você...
+[00:38:54:18 --> 00:38:59:16] Pode ser uma escolha muito difícil, mas ela existe e agora você sabe disso.
+[00:39:00:03 --> 00:39:02:02] E aí que começa a sua autonomia.
+[00:39:03:14 --> 00:39:08:21] Terceiro erro de prioridade, otimizar coisas irrelevantes, gastar muito tempo melhorando
+[00:39:08:21 --> 00:39:10:06] o que não deveria ser melhorado.
+[00:39:10:10 --> 00:39:13:18] Isso aqui é o maior desperdício de todos.
+[00:39:15:11 --> 00:39:18:03] E é crítico. Isso aqui é a diferença de sinal e ruído.
+[00:39:18:12 --> 00:39:21:14] A maioria das pessoas estão vivendo em ruído, porque elas não entendem isso aqui.
+[00:39:21:29 --> 00:39:24:08] Então, às vezes, elas falam, ah, eu vou estudar esse assunto.
+[00:39:25:10 --> 00:39:30:06] Passa meses estudando um assunto que ela não deveria estar estudando,
+[00:39:30:14 --> 00:39:32:05] porque já não dá para você aprender tudo.
+[00:39:32:06 --> 00:39:33:27] Você está escolhendo aprender a coisa errada.
+[00:39:34:00 --> 00:39:38:08] Para mim, isso aqui talvez seja o maior dos problemas aqui, de prioridade.
+[00:39:39:09 --> 00:39:42:05] Porque você acredita que é aquilo que você deveria estar fazendo.
+[00:39:44:08 --> 00:39:46:23] E aí, qual é outra coisa que as pessoas não ensinam pra gente na escola?
+[00:39:47:03 --> 00:39:47:24] Meta-cognição.
+[00:39:49:07 --> 00:39:51:19] É sair de você e analisar o que você está fazendo.
+[00:39:51:27 --> 00:39:54:25] É se fazer perguntas difíceis, como o que eu quero para a minha vida.
+[00:39:54:28 --> 00:39:58:00] São perguntas bem difíceis, mas que precisam ser feitas.
+[00:39:58:11 --> 00:40:00:06] Talvez você não vai responder hoje, nem amanhã.
+[00:40:00:07 --> 00:40:02:09] Você vai precisar voltar nela várias vezes.
+[00:40:02:28 --> 00:40:04:26] Mas o que eu quero para a minha vida? Onde eu quero chegar?
+[00:40:05:21 --> 00:40:09:03] Como eu quero viver a minha vida? Qual é a minha moral?
+[00:40:09:18 --> 00:40:11:27] O que eu defendo na hora que eu vou fazer escolhas?
+[00:40:13:03 --> 00:40:16:19] Tudo isso é muito importante, as pessoas simplesmente abandonam.
+[00:40:16:22 --> 00:40:17:29] E aí eu vou falar uma coisa pra vocês.
+[00:40:18:24 --> 00:40:25:17] A elite do mundo, as pessoas mais poderosas, as pessoas mais ricas, estão colocando seus
+[00:40:25:17 --> 00:40:27:09] filhos pra estudar filosofia.
+[00:40:27:13 --> 00:40:27:29] Por quê?
+[00:40:28:08 --> 00:40:30:24] Porque filosofia é entender isso aqui que eu tô mostrando pra vocês.
+[00:40:32:17 --> 00:40:34:17] como fazer escolhas melhores.
+[00:40:36:23 --> 00:40:37:24] Por quê?
+[00:40:38:03 --> 00:40:41:16] Estão tirando os filhos de estudar várias coisas para estudar filosofia.
+[00:40:41:18 --> 00:40:42:02] Por quê?
+[00:40:42:16 --> 00:40:43:05] Está aqui a resposta.
+[00:40:44:04 --> 00:40:44:27] Um erro de prioridade.
+[00:40:45:27 --> 00:40:48:26] E tem os erros de ciclo também, quais são os erros de ciclo?
+[00:40:48:28 --> 00:40:53:24] Viver apenas no ciclo de 24 horas, então você só vive um dia de cada vez, isso é perigoso
+[00:40:53:24 --> 00:40:58:18] porque você não prevê coisas que você poderia prever para melhorar a sua vida.
+[00:40:59:06 --> 00:41:02:07] Você vai sentir que está se esforçando, vai se sentir muito cansado, mas não vai
+[00:41:02:07 --> 00:41:05:13] saber porque você não tem resultado, porque você só reage.
+[00:41:06:10 --> 00:41:11:09] Produtividade é a atividade de gerar um produto, não é a produtividade, não
+[00:41:11:09 --> 00:41:14:05] é a atividade de gerar esforço, é diferente.
+[00:41:15:01 --> 00:41:19:00] Erro de não fechar os ciclos, clássico também, então você começa uma coisa e não termina,
+[00:41:19:03 --> 00:41:21:14] começa outra e não termina, começa outra e não termina, começa outra e não termina,
+[00:41:21:16 --> 00:41:25:20] começa outra e não termina, você vai abrindo gaps e gaps e gaps, isso aí vai corroendo
+[00:41:25:20 --> 00:41:27:15] a sua mente, devagarinho.
+[00:41:27:27 --> 00:41:32:24] E chega uma hora que você fica se sentindo assim, nossa, eu não gosto de nada, ou nossa,
+[00:41:32:27 --> 00:41:35:27] nada é pra mim, mas na verdade não é que nada é pra você, não é que você
+[00:41:35:27 --> 00:41:39:11] não gosta de nada, é porque você abriu tanto o ciclo que você não fechou que
+[00:41:39:11 --> 00:41:42:27] você vai se sentindo incompetente, porque parece que é você que não dá conta,
+[00:41:42:27 --> 00:41:44:14] mas você parou antes da hora.
+[00:41:45:15 --> 00:41:46:12] E aí qual que é o certo?
+[00:41:46:22 --> 00:41:48:17] Começar um ciclo bom que faz sentido,
+[00:41:48:22 --> 00:41:50:26] então é a clareza para escolher onde colocar energia
+[00:41:50:26 --> 00:41:54:19] e depois ir até o fim para pelo menos,
+[00:41:54:23 --> 00:41:56:29] pelo menos você ter um resultado daquilo
+[00:41:56:29 --> 00:41:59:12] que vai te trazer mais confiança para ir para o próximo ciclo.
+[00:42:00:12 --> 00:42:02:08] Isso aqui acaba com muitas pessoas.
+[00:42:02:20 --> 00:42:04:20] Ruan, e se eu já vivi isso aí muito tempo e ainda dá pra resolver?
+[00:42:04:26 --> 00:42:05:02] Dá.
+[00:42:05:17 --> 00:42:08:26] Você vai assumir pra você mesmo assim, olha, quantas coisas em andamento eu tenho?
+[00:42:09:26 --> 00:42:12:15] Quais que eu vou assumir com o sentimento que eu vou cortar?
+[00:42:12:23 --> 00:42:14:00] Cortei, cortei, cortei, cortei.
+[00:42:14:07 --> 00:42:15:13] E qual que eu vou escolher pra agora?
+[00:42:15:22 --> 00:42:19:06] Essa daqui eu vou ir ou até o fim ou até o perceber.
+[00:42:21:00 --> 00:42:27:17] que na verdade eu estou sendo teimoso e não determinado, que tem diferença.
+[00:42:28:20 --> 00:42:30:28] São dois caminhos, mas eu não vou entrar neles aqui agora, não?
+[00:42:33:06 --> 00:42:36:13] porque senão eu vou entrar em outro campo filosófico aqui, mas a questão principal é...
+[00:42:37:16 --> 00:42:40:18] Escolha uma opção que claramente parece boa pra você e siga ela.
+[00:42:40:21 --> 00:42:44:15] Se no meio do caminho você expandiu sua clareza, seu horizonte de tempo, sua visão e você
+[00:42:44:15 --> 00:42:47:14] falou, isso não é suficiente, eu preciso melhorar, tudo bem.
+[00:42:47:26 --> 00:42:51:06] Agora, se você tá só pulando e desistindo, muito ruim pra você.
+[00:42:51:16 --> 00:42:55:21] Isso aqui vai complicar muito a sua vida no longo prazo.
+[00:42:55:24 --> 00:42:56:23] Juan, do que você tá falando?
+[00:42:56:25 --> 00:42:59:09] Você tá falando isso de pessoas mais velhas que eu conheço, mais velhas que
+[00:42:59:09 --> 00:43:06:07] pessoas com 40, 50, 60 anos que eu converso, gosto de entender as pessoas e elas falam,
+[00:43:06:07 --> 00:43:11:12] Eu não sinto o propósito na minha vida, eu não sinto o sentido na minha vida,
+[00:43:11:15 --> 00:43:13:08] eu não sei o que eu quero pra minha vida, por quê?
+[00:43:13:21 --> 00:43:15:21] Abreu um monte de ciclo e não fechou ao longo da vida.
+[00:43:15:27 --> 00:43:18:06] Ah, eu já tentei um monte de coisa, mas nada foi pra mim.
+[00:43:18:11 --> 00:43:20:14] E aí eu começo a ver, mas por que nada foi pra você?
+[00:43:20:25 --> 00:43:22:24] Pra tentar entender onde que a pessoa estava desistindo.
+[00:43:23:00 --> 00:43:27:02] E às vezes é porque a pessoa tinha um padrão de desistir, ao invés de persistir.
+[00:43:27:07 --> 00:43:31:20] E aí o que aconteceu, na verdade, foi só uma questão dela ficar desistindo e recomeçando.
+[00:43:31:27 --> 00:43:35:24] E eu conheci pessoas inteligentíssimas fazendo isso, isso aqui acaba com a vida de alguém.
+[00:43:36:18 --> 00:43:43:06] Erro de energia? Ignorar sono, pausa e recuperação. Isso aqui vai te gerar juros muito grandes.
+[00:43:43:15 --> 00:43:47:12] Como assim, Juan? Se você dormir pouco... Eu tenho um grande amigo meu que tá vivendo isso aqui.
+[00:43:47:23 --> 00:43:51:16] E aí eu sempre falo que cara, não faz isso. Você tá gerando juros pra você, depois a conta vai
+[00:43:51:16 --> 00:43:57:08] vir. Quer o quê? Se você não faz as coisas na hora certa, você vai ser obrigado a fazer
+[00:43:57:08 --> 00:44:02:15] elas na hora errada. Como assim? Se você não dorme agora, você vai dormir depois. Você vai ser
+[00:44:02:15 --> 00:44:03:12] Obrigado, eu vou dormir depois.
+[00:44:04:18 --> 00:44:17:19] Então, é melhor parar agora e continuar amanhã cedo, dorme o seu mínimo de 6 horas ali, seu corpo vai dar uma recuperada, dorme as suas 6 horas agora, porque você vai ser obrigado a dormir essas 6 horas depois, ou você no mínimo vai ser obrigado a perder elas sendo dissipado.
+[00:44:18:13 --> 00:44:26:07] Em vazamento, por quê? Porque aquele, depois que você ficou 2, 3 dias sem dormir direito, você já começa a pescar, você já começa a perder eficiência.
+[00:44:26:12 --> 00:44:34:04] Perdendo eficiência, o que antes você gastava uma hora? Você está gastando duas, está gastando três, ou seja, já está somando ali, 2 horas a mais aqui, 3 horas a mais ali,
+[00:44:34:04 --> 00:44:35:01] Quatro horas a mais.
+[00:44:35:03 --> 00:44:38:24] Quando você viu, você gastou mais do que as seis horas que você devia ter gastado
+[00:44:38:24 --> 00:44:42:06] pra dormir, perdendo tempo, sendo ineficiente.
+[00:44:42:25 --> 00:44:44:09] Não faz o menor sentido.
+[00:44:45:04 --> 00:44:48:24] Parece inteligente, não, eu vou acabar aqui, mas é vacilo.
+[00:44:50:19 --> 00:44:52:21] Não ignorem as necessidades fisiológicas.
+[00:44:52:24 --> 00:44:57:03] Vocês infelizmente ou felizmente, eu acho felizmente na verdade, vocês não são
+[00:44:57:18 --> 00:45:00:16] robôs, vocês são seres humanos e têm limitações.
+[00:45:00:16 --> 00:45:05:05] respeitem essas limitações e essas limitações vão respeitar vocês.
+[00:45:05:20 --> 00:45:10:04] 2. Subestimar atrito e transição. Subestimar a logística das coisas.
+[00:45:10:10 --> 00:45:14:27] É colocar na sua agenda tudo engavetado, sem ter espaços para poder descansar,
+[00:45:15:02 --> 00:45:17:25] ou espaços para imprevistos, espaços para ir no banheiro.
+[00:45:17:28 --> 00:45:21:16] Parece coisa boba, mas às vezes o cara coloca uma reunião e outra logo em seguida.
+[00:45:22:15 --> 00:45:24:26] E aí às vezes você entra numa reunião apertada para ir no banheiro,
+[00:45:24:28 --> 00:45:28:09] ou com fome para caramba, sua reunião é completamente ineficiente,
+[00:45:28:09 --> 00:45:33:04] você não tem resultado. No final adianta o esforço? Não, você quer o resultado, você não quer o esforço.
+[00:45:34:09 --> 00:45:36:14] Então, subestimar atrito também, beleza?
+[00:45:36:19 --> 00:45:38:19] Esses são os maiores erros.
+[00:45:38:28 --> 00:45:41:01] Agora eu quero, só para fechar aqui,
+[00:45:41:08 --> 00:45:41:29] esses são os erros,
+[00:45:42:03 --> 00:45:45:25] tantos mitos, quantos erros vocês vão poder voltar neles aqui,
+[00:45:45:26 --> 00:45:47:03] quantas vezes vocês quiserem.
+[00:45:47:09 --> 00:45:49:02] Mas eu quero ir para os acertos, então.
+[00:45:49:21 --> 00:45:51:08] E aí eu vou trazer os acertos aqui.
+[00:45:51:14 --> 00:45:54:03] Então nós vamos para o exercício que eu vou ajudar vocês
+[00:45:54:03 --> 00:45:57:03] a evitar os mitos, corrigir os erros
+[00:45:57:03 --> 00:46:00:05] e entrar, pelo menos, num cenário de regulação desse tempo.
+[00:46:00:15 --> 00:46:02:28] Vamos então para os maiores acertos com o tempo.
+[00:46:03:02 --> 00:46:03:23] Primeiro acerto.
+[00:46:04:10 --> 00:46:09:04] blindar prioridades com regras. Você ter pelo menos uma a três prioridades por
+[00:46:09:04 --> 00:46:13:08] ciclo. Então uma a três prioridades por dia, uma a três prioridades por semana,
+[00:46:13:18 --> 00:46:17:25] uma a três prioridades por mês, uma a três prioridades por trimestre, uma a
+[00:46:17:25 --> 00:46:21:02] três prioridades por semestre, uma a três prioridades por ano.
+[00:46:22:02 --> 00:46:27:20] Mais do que isso, depende do seu horizonte temporal, a maioria das pessoas vão ter um
+[00:46:27:20 --> 00:46:32:23] horizonte temporal de até 12 meses. Algumas pessoas têm um horizonte temporal maior.
+[00:46:33:02 --> 00:46:39:06] Isso inclusive é um teste que é possível fazer. Eu paguei para fazer esse teste comigo e com
+[00:46:39:06 --> 00:46:43:09] todo mundo da Overlinks e eu sei qual que é o horizonte de tempo de cada pessoa da nossa
+[00:46:43:09 --> 00:46:50:17] equipe. E aí, por exemplo, o meu horizonte de tempo atual tá entre 24 meses a 36 meses. Eu
+[00:46:50:17 --> 00:46:54:03] tem um horizonte temporal, eu fiquei feliz com isso, achei uma coisa legal, que é um
+[00:46:54:03 --> 00:46:59:05] horizonte temporal bem acima da média, principalmente para a minha idade, que é uma coisa que muda
+[00:46:59:05 --> 00:47:04:06] de acordo com a sua idade também. Mas a maioria das pessoas, 80% das pessoas, tem
+[00:47:04:06 --> 00:47:07:24] um horizonte temporal de até 12 meses. Ah, e aí?
+[00:47:09:03 --> 00:47:12:29] Isso é suficiente para a gente sair de regulação, é suficiente para entrar em homeostase,
+[00:47:13:01 --> 00:47:15:08] é suficiente para entrar em robustez, beleza?
+[00:47:15:15 --> 00:47:18:19] São os ciclos lá de autonomia, os estágios de autonomia no caso.
+[00:47:19:02 --> 00:47:20:14] E o que vocês precisam fazer aqui?
+[00:47:20:24 --> 00:47:23:06] Ter pelo menos uma a três prioridades.
+[00:47:23:20 --> 00:47:26:17] No mínimo, uma prioridade por dia, uma prioridade por semana,
+[00:47:26:20 --> 00:47:28:18] uma prioridade no mês, uma prioridade no trimestre,
+[00:47:28:20 --> 00:47:31:08] uma prioridade no semestre e uma prioridade no ano.
+[00:47:31:14 --> 00:47:34:16] Se vocês tiverem essa prioridade, todo o resto pode pegar fogo,
+[00:47:34:17 --> 00:47:36:14] mas no final vocês têm resultado de alguma coisa.
+[00:47:37:01 --> 00:47:38:21] O problema é que as pessoas não têm nenhuma prioridade.
+[00:47:38:21 --> 00:47:43:08] elas têm sonhos. Sonho não é prioridade. Sonho é desejar algo.
+[00:47:44:03 --> 00:47:47:09] Aí algumas pessoas evoluem e falam que tem um objetivo. Objetivo também não é
+[00:47:47:09 --> 00:47:51:14] prioridade. Objetivo é traçar especificamente o que você quer. É bom, mas
+[00:47:51:14 --> 00:47:54:04] ainda não é prioridade. Prioridade é colocar aquilo como
+[00:47:54:04 --> 00:47:55:15] priori, como primeiro.
+[00:47:56:22 --> 00:48:04:08] Entende? É diferente. Então você tem que ter, no mínimo, uma prioridade pro dia, pra semana, pro mês, pro trimestre, pro semestre e pro ano.
+[00:48:04:21 --> 00:48:08:20] No mínimo. Isso é uma boa prática. Isso aqui é o maior acerto que você pode fazer por você.
+[00:48:09:00 --> 00:48:14:22] Quando você tiver essas prioridades, vocês vão conseguir falar não quando essas prioridades não estiverem sendo feitas.
+[00:48:14:26 --> 00:48:17:27] Porque ela é a prioridade. E como que eu defino uma prioridade, Juan?
+[00:48:18:21 --> 00:48:25:29] Respondendo a uma pergunta maravilhosa que é qual é a única coisa que se você fizer agora vai tornar todo o resto muito mais fácil
+[00:48:25:29 --> 00:48:31:15] ou até desnecessário. Eu aprendi para dar os créditos aqui essa pergunta, que é uma das melhores
+[00:48:31:15 --> 00:48:36:25] perguntas que eu já aprendi a fazer para mim mesmo, com um livro que se chama A Única Coisa, do Gary
+[00:48:36:25 --> 00:48:41:24] Keller. Muito bom esse livro, muito, vocês vão adorar. E ele vai trazer alguns pontos disso aqui
+[00:48:41:24 --> 00:48:46:29] para vocês. Segundo aqui, criar critérios. O que que são critérios? Critérios são decisões
+[00:48:46:29 --> 00:48:53:01] rápidas que você toma para que você não perca tempo e saiba que foi uma decisão assertiva baseada
+[00:48:53:01 --> 00:48:58:21] princípios seus. Por exemplo, se não for x, y, z, então a resposta é não. Então, por exemplo,
+[00:48:59:17 --> 00:49:05:23] às 6 horas da manhã, se isso aqui não estiver me ajudando a desenvolver minha saúde, ou seja, de 6
+[00:49:05:23 --> 00:49:11:05] até 7, por exemplo, eu registrei aquele bloco, então eu não vou fazer. Isso é um critério. Você
+[00:49:11:05 --> 00:49:15:10] pode fazer critério para saúde, para trabalho, para estudo, para várias coisas. E aí você escreve
+[00:49:15:10 --> 00:49:17:01] se isso, então a resposta é não.
+[00:49:18:19 --> 00:49:22:19] Beleza? Isso aqui é para blindar prioridade com regra.
+[00:49:22:28 --> 00:49:27:27] Colocar isso aqui, deixar num cantinho pra você sempre se lembrar, isso aqui sozinho já muda uma vida.
+[00:49:28:22 --> 00:49:29:08] Beleza?
+[00:49:30:01 --> 00:49:33:26] Segundo acerto, operar com folga, espaço livre intencional.
+[00:49:34:29 --> 00:49:39:13] Colocar mais um critério, nunca comprometer 100% do seu tempo futuro, ou seja, nunca lota
+[00:49:39:13 --> 00:49:43:08] o seu dia de coisas para fazer, nunca lota a sua semana de coisas para fazer, porque
+[00:49:43:08 --> 00:49:48:11] a entropia vai te dar vários murros na cara e se você não estiver pronto para lidar
+[00:49:48:11 --> 00:49:53:24] com isso, cara, você vai terminar o dia, a semana, o mês frustradíssimo e vai desistir,
+[00:49:53:26 --> 00:49:55:11] que é o que acontece com a maioria das pessoas.
+[00:49:55:25 --> 00:50:01:09] Outro acerto, separar tarefa profunda de tarefa rasa, como assim, reservar bloco
+[00:50:01:09 --> 00:50:07:27] que vai exigir consumo de glicose, consumo de energia, de blocos difíceis para ser os
+[00:50:07:27 --> 00:50:08:25] primeiros que você faz.
+[00:50:08:26 --> 00:50:12:05] Eu vou mostrar na prática como eu fiz isso para mim, vou mostrar isso para vocês aqui.
+[00:50:12:17 --> 00:50:17:09] Mas tudo que exige cérebro, muito esforço e é importante, reserva esses blocos.
+[00:50:17:15 --> 00:50:23:13] E depois você vai agrupar em blocos, janelas de tempo, coisas que são menos relevantes,
+[00:50:23:17 --> 00:50:24:20] coisas que são mais rasas.
+[00:50:24:26 --> 00:50:29:06] Não precisa colocar micro gerenciar o seu diane, 10 minutos para escovar o dente,
+[00:50:29:06 --> 00:50:34:07] 20 minutos pra isso aqui, 5 minutos pra andar até tal lugar. Não, não precisa de micro
+[00:50:34:07 --> 00:50:38:04] de iniciar. O que eu quero ensinar pra vocês é criar o bloquinho. Quando você cria o
+[00:50:38:04 --> 00:50:42:21] bloco, você sabe que tá reservado aquele período pra fazer aquilo. Se você faz em
+[00:50:42:21 --> 00:50:47:05] 5 minutos ou 3, não tem tanta diferença porque você tá dentro da janela de tempo necessário.
+[00:50:47:07 --> 00:50:50:15] Eu vou mostrar na prática, eu vou mostrar meu Google Agendas aqui pra vocês, vocês
+[00:50:50:15 --> 00:50:52:03] vão ver como que eu organizo isso, beleza?
+[00:50:53:20 --> 00:50:56:23] Tratar dívidas de tempo é outro acerto muito grande.
+[00:50:56:25 --> 00:51:00:14] Esse aqui talvez seja o primeiro passo para quem está lotado de dívidas.
+[00:51:00:17 --> 00:51:03:01] É você olhar para a sua realidade e falar quanto tempo eu já me devo,
+[00:51:03:19 --> 00:51:05:08] quanto tempo eu estou me devendo.
+[00:51:05:22 --> 00:51:10:23] Mapeia, mapeia, mapeia, mapeia então as suas dívidas,
+[00:51:10:28 --> 00:51:14:25] ou seja, as suas pendências, as suas promessas, as suas complexidades de rotina,
+[00:51:15:02 --> 00:51:16:09] seus prazos, mapeia tudo.
+[00:51:17:05 --> 00:51:21:22] Depois que você mapeou isso, aí você pode avaliar quais dívidas eu corto,
+[00:51:21:22 --> 00:51:23:04] Quais dívidas eu delego?
+[00:51:23:08 --> 00:51:26:01] Quais dívidas eu consigo resolver rápido?
+[00:51:26:16 --> 00:51:30:12] Pague suas dívidas, porque isso vai te liberar tempo para o que é importante.
+[00:51:31:05 --> 00:51:35:08] E pague primeiro as dívidas de maior juros, as que travam tudo.
+[00:51:35:17 --> 00:51:39:08] Ou seja, a dívida de maior juros não necessariamente é a dívida que gasta mais tempo.
+[00:51:39:19 --> 00:51:41:17] É a dívida que escala mais no tempo.
+[00:51:41:22 --> 00:51:42:09] Como assim, Juan?
+[00:51:42:18 --> 00:51:44:09] Lembra a dívida de 5 minutos?
+[00:51:44:22 --> 00:51:46:14] Essa é uma dívida de juros altos.
+[00:51:46:19 --> 00:51:47:28] Eu criei um princípio para mim.
+[00:51:48:03 --> 00:51:50:04] Se leva menos de 5 minutos eu resolvo agora.
+[00:51:51:00 --> 00:51:54:26] Pago essa dívida de uma vez, porque o juros dela é muito alto, ela vai escalando, 5 minutos
+[00:51:54:26 --> 00:51:59:05] vira 30, uma hora, duas horas, não deixe isso acontecer, pague essas dívidas de juros
+[00:51:59:05 --> 00:51:59:23] mais alto.
+[00:52:00:15 --> 00:52:04:18] Então, não necessariamente a dívida de maiores juros, é a dívida de maior tempo
+[00:52:04:18 --> 00:52:05:25] gasto nela.
+[00:52:06:03 --> 00:52:06:15] Beleza?
+[00:52:06:24 --> 00:52:07:10] Lembrem-se disso.
+[00:52:07:13 --> 00:52:10:05] Às vezes tem uma tarefa que você vai gastar 8 horas, mas você sabe que vão ser
+[00:52:10:05 --> 00:52:11:19] exatamente 8 horas para fazer.
+[00:52:12:10 --> 00:52:15:07] E você sabe que às vezes você pode deixar para fazer semana que vem ou na outra.
+[00:52:15:17 --> 00:52:19:07] Não deixa de marcar na sua agenda, coloca, eu vou resolver isso semana que vem, marca
+[00:52:19:07 --> 00:52:23:25] na agenda, aumenta sua chance de resolver, tá? Para não ficar aumentando, porque aí se você
+[00:52:23:25 --> 00:52:28:03] vai jogando muito pra frente, vira urgente, os juros dela também vão crescer, e aí é ruim.
+[00:52:29:16 --> 00:52:35:29] fechar ciclos religiosamente, para evitar aquele problema de fazer com que a sua vida
+[00:52:36:15 --> 00:52:41:02] vai sendo estragada aos poucos, tá? A sua consciência do seu propósito no mundo,
+[00:52:41:05 --> 00:52:46:16] do seu sentido no mundo. Então, todo dia escolhe o essencial e encerre o que você começou.
+[00:52:47:09 --> 00:52:50:09] Se não der para encerrar, no próximo dia você vai avaliar ali na hora.
+[00:52:50:11 --> 00:52:53:01] Por que eu não consegui fazer hoje? Como que eu posso fazer amanhã para conseguir?
+[00:52:53:06 --> 00:52:58:08] Lembra, resultado vale mais do que esforço. Resultado vale mais do que esforço.
+[00:52:58:08 --> 00:52:59:27] Então escolhe o que eu tenho que acabar hoje.
+[00:53:00:12 --> 00:53:02:16] E lembra que você tem que acabar aquilo naquele período
+[00:53:02:16 --> 00:53:05:18] porque se você não acabar e tentar pegar suas horas de sono
+[00:53:05:18 --> 00:53:07:21] vai custar muito caro depois.
+[00:53:08:14 --> 00:53:09:05] Então lembra disso.
+[00:53:09:16 --> 00:53:13:29] Toda semana, revisa, renegocia, planeja, reserva um horário.
+[00:53:14:02 --> 00:53:15:29] O meu horário é todo domingo, amanhã de manhã.
+[00:53:16:09 --> 00:53:20:29] Eu vou revisar a minha semana, renegociar algumas coisas ali que ficaram,
+[00:53:21:02 --> 00:53:22:27] outras coisas que eu vi que não faz sentido.
+[00:53:23:08 --> 00:53:26:15] Planejar a semana e falar qual é então agora a minha prioridade da semana.
+[00:53:26:15 --> 00:53:29:08] O que eu quero terminar essa semana concluindo?
+[00:53:29:14 --> 00:53:30:07] Coloco lá também.
+[00:53:30:20 --> 00:53:34:14] Uma dica que eu dou pra vocês é criar um roteirinho da tarefa.
+[00:53:35:02 --> 00:53:37:06] Então, crie um roteirinho na sua agenda assim.
+[00:53:37:15 --> 00:53:38:25] Momento de planejamento.
+[00:53:39:08 --> 00:53:42:03] E coloca lá, hoje, quais são as perguntas que eu preciso me responder.
+[00:53:42:06 --> 00:53:43:20] Porque aí você não tem que ficar lembrando a pergunta.
+[00:53:44:05 --> 00:53:48:00] Eu vou mostrar como que eu criei roteirinhos no meu Google Agenda pra vocês, tá?
+[00:53:48:06 --> 00:53:50:05] Mas é muito bom pra ajudar vocês.
+[00:53:50:17 --> 00:53:52:23] Todo mês, corta, simplifique e ajusta a capacidade.
+[00:53:52:24 --> 00:53:55:00] Então, o que eu consegui fazer e o que eu não consegui?
+[00:53:55:14 --> 00:53:57:26] Avalia a sua capacidade de...
+[00:53:57:26 --> 00:53:58:16] Avalia...
+[00:53:58:16 --> 00:54:02:00] Eu vou usar a capacidade de capacidade para explicar, deixa eu trazer isso melhor.
+[00:54:03:10 --> 00:54:06:19] Avalia o quão bem você está conseguindo prever a sua capacidade,
+[00:54:06:27 --> 00:54:09:20] que às vezes você coloca, acredito que em 5 horas eu acabo isso aqui.
+[00:54:09:24 --> 00:54:12:12] Aí você gastou 8, você fala, cara, eu gostei 3 horas a mais.
+[00:54:13:05 --> 00:54:14:26] Então, preciso ajustar melhor esse tempo aqui,
+[00:54:14:28 --> 00:54:16:29] isso vai te dar mais previsibilidade ao longo do tempo.
+[00:54:17:07 --> 00:54:19:17] E todo ano redefina prioridades de investimentos.
+[00:54:19:25 --> 00:54:21:11] Então, qual que é o trabalho do ano?
+[00:54:21:11 --> 00:54:23:21] O que eu gosto de fazer todo ano? Eu gosto de sentar e falar aqui.
+[00:54:23:21 --> 00:54:29:18] 1 a 3 prioridades do ano, só, mas a principal, 1 a 3 ali, geralmente coloco 3, então 3 coisas
+[00:54:29:18 --> 00:54:32:20] que eu tenho que fazer esse ano, depois 3 coisas que eu tenho que fazer no primeiro
+[00:54:32:20 --> 00:54:37:08] trimestre, 3 no primeiro semestre, 3 coisas que eu preciso fazer no primeiro trimestre,
+[00:54:37:19 --> 00:54:40:20] 3 coisas que eu preciso fazer no primeiro mês, 3 coisas que eu preciso fazer na
+[00:54:40:20 --> 00:54:44:22] primeira semana, 3 coisas que eu preciso fazer no primeiro dia, pum, tenho meu roadmap
+[00:54:44:22 --> 00:54:47:00] montado ali, agora eu posso trabalhar em cima dele.
+[00:54:47:19 --> 00:54:50:15] Eu tô fazendo isso até com a nossa equipe agora, o que que eu faço com a equipe?
+[00:54:50:15 --> 00:54:52:18] Desenhe o seu road map, tudo que você vai entregar.
+[00:54:52:24 --> 00:54:54:12] Coloque os prazos de quando você vai entregar.
+[00:54:54:16 --> 00:54:55:21] Beleza, agora a gente vai executar.
+[00:54:56:21 --> 00:54:58:14] Tem funcionado bem também, beleza?
+[00:54:58:29 --> 00:55:01:08] Então isso aqui é fechar ciclos religiosamente.
+[00:55:01:16 --> 00:55:02:17] Não deixe o ciclo aberto.
+[00:55:02:22 --> 00:55:05:27] Você pode não ter conseguido chegar no resultado que você planejou,
+[00:55:06:05 --> 00:55:08:24] mas feche o ciclo e fala, olha, esse foi o meu resultado nesse ciclo,
+[00:55:08:25 --> 00:55:10:17] isso que eu conquistei, isso que eu não conquistei,
+[00:55:10:21 --> 00:55:11:28] agora eu vou abrir um novo ciclo aqui.
+[00:55:12:02 --> 00:55:13:17] Aí você abre um novo ciclo.
+[00:55:14:14 --> 00:55:20:20] Outro acerto, investir tempo, entendendo que esse tempo pode te dar risco ou retorno, tá?
+[00:55:20:26 --> 00:55:24:00] E aí a palavra investir aqui é importante, lembra do balde de investimento?
+[00:55:24:14 --> 00:55:28:28] Então você tem que avaliar parte do retorno previsível, então tem coisas que você
+[00:55:28:28 --> 00:55:32:10] vai investir o seu tempo sabendo que ele vai te retornar, então tempo investido
+[00:55:32:10 --> 00:55:36:04] em saúde, tempo investido em sono, tempo investido em rotina, tempo investido em manutenções,
+[00:55:36:16 --> 00:55:39:11] que você sabe que volta pra você, melhorando sua vida.
+[00:55:39:23 --> 00:55:43:04] Manutenção, pensa por exemplo, uma automação que você criou de algo, algo que você
+[00:55:43:29 --> 00:55:48:13] aprimorou. Retorno alto, ali é retorno previsível, então coisas que você sabe que se você
+[00:55:48:13 --> 00:55:51:26] investir tempo, você prevê que dá um retorno ali, às vezes não é um retorno alto, mas
+[00:55:51:26 --> 00:55:52:15] é previsível.
+[00:55:54:05 --> 00:55:58:27] Parte do seu investimento de tempo, coloque em retorno alto, então, desenvolver habilidades,
+[00:55:59:28 --> 00:56:05:00] conseguir ativos, pode ser ativos financeiros, mas às vezes também podem ser ativos pessoais,
+[00:56:05:06 --> 00:56:08:27] processos próprios que você criou e que aumenta o seu tempo, são ativos também,
+[00:56:09:22 --> 00:56:13:27] metodologias que você cria para você, para simplificar, para ganhar tempo e projetos
+[00:56:13:27 --> 00:56:17:12] estratégicos que podem te dar um retorno muito alto de outros recursos. Então,
+[00:56:17:18 --> 00:56:21:09] parte do seu tempo você investe em retorno alto e parte do seu tempo você investe
+[00:56:22:00 --> 00:56:26:28] opcionalidades. Então o que são opcionalidades? Fazer um networking, estudar uma curiosidade que
+[00:56:26:28 --> 00:56:32:05] pode aumentar seu repertório. Como que eu recomendo fazer isso aqui? Eu recomendo a estratégia de
+[00:56:32:05 --> 00:56:37:00] Barbel do Taleb. O Taleb tem um livro muito legal que chama Lógica do Cisne Negro. É um livro mais
+[00:56:37:00 --> 00:56:41:27] cabeçudo, nem todo mundo vai querer ler esse livro, mas no livro do Taleb ele fala da estratégia
+[00:56:41:27 --> 00:56:47:23] de Barbel, que é basicamente você conseguir equilibrar ali para evitar o risco da ruína. O
+[00:56:47:23 --> 00:56:51:21] Aleb foi o cara que escreveu sobre a antifragilidade.
+[00:56:52:05 --> 00:56:58:11] E aí ele fala que se você usa o pareto aqui, 80, 20, você já vai ter um retorno legal.
+[00:56:58:21 --> 00:57:00:00] Então o que eu colocaria aqui?
+[00:57:00:04 --> 00:57:05:21] Eu colocaria algo em torno de 70% em retorno previsível, 20% em retorno alto e 10%
+[00:57:05:21 --> 00:57:06:17] em opcionalidade.
+[00:57:07:17 --> 00:57:12:29] Digamos, um portfólio de investimento de tempo que faz sentido para mim, eu recomendo
+[00:57:12:29 --> 00:57:15:10] que vocês façam também, vale a pena.
+[00:57:16:24 --> 00:57:18:21] Mas você pode ajustar também, às vezes,
+[00:57:18:26 --> 00:57:20:27] eu quero 80% em imprevisível,
+[00:57:21:05 --> 00:57:23:04] 10% em retorno alto, 10% em opcionalidade,
+[00:57:23:08 --> 00:57:26:04] ou 15% em retorno alto e 5% em opcionalidade.
+[00:57:26:08 --> 00:57:28:17] Você escolhe ali, mas que seja consciente,
+[00:57:28:21 --> 00:57:29:15] que seja intencional.
+[00:57:29:21 --> 00:57:32:01] Você está fazendo uma escolha de onde vai investir o seu tempo.
+[00:57:32:09 --> 00:57:34:23] Isso aqui já vai colocar vocês em outro patamar.
+[00:57:35:03 --> 00:57:35:13] Beleza?
+[00:57:37:04 --> 00:57:40:15] Outro acerto importante, reduzir o atrito do ambiente.
+[00:57:40:26 --> 00:57:43:19] Menos notificação, menos gatilho, menos distração.
+[00:57:44:04 --> 00:57:47:13] Sistemas bons tornam o desejado fácil e o indesejado difícil.
+[00:57:47:22 --> 00:57:50:22] Falando de tempo, o que eu fiz? Eu peguei o meu telefone aqui
+[00:57:50:22 --> 00:57:56:24] e eu desativei todas as notificações, deixei só dois aplicativos com a notificação ligada.
+[00:57:57:07 --> 00:57:59:13] O ClickUp e o Google Agendas.
+[00:58:00:00 --> 00:58:03:20] Porque eu tenho minhas agendas pessoais ali, então ele me avisa, eu tenho notificação assim,
+[00:58:03:20 --> 00:58:08:15] amanhã você tem que fazer isso, ou daqui a uma hora você vai ter que fazer isso aqui também.
+[00:58:09:00 --> 00:58:11:26] E aí é a única notificação do meu telefone, a única.
+[00:58:12:06 --> 00:58:14:03] Porque é a única coisa que eu quero ser lembrado.
+[00:58:14:07 --> 00:58:15:13] Do que que eu quero ser lembrado?
+[00:58:15:18 --> 00:58:17:28] Do que eu conscientemente escolhi que eu iria fazer.
+[00:58:18:07 --> 00:58:21:16] Do que eu conscientemente reservei como tempo específico para algo.
+[00:58:22:08 --> 00:58:23:23] Isso dá uma clareza para vocês?
+[00:58:23:27 --> 00:58:26:03] Precisa ser robozinho, cravado?
+[00:58:26:10 --> 00:58:26:18] Não.
+[00:58:27:01 --> 00:58:28:27] Mas é bom quando você vai ver uma notificação,
+[00:58:28:29 --> 00:58:31:27] é uma notificação de algo que você gostaria de ter sido lembrado,
+[00:58:31:27 --> 00:58:34:10] porque você escolheu ser lembrado daquilo.
+[00:58:35:04 --> 00:58:37:14] Então, criar um ambiente certo de tempo tem relação com isso.
+[00:58:37:22 --> 00:58:41:06] Mas tem relação também com criar um ambiente que vai te permitir focar na hora de focar,
+[00:58:41:12 --> 00:58:45:25] que vai te permitir se envolver com as pessoas na hora de se envolver com as pessoas
+[00:58:45:25 --> 00:58:49:00] e não embolar as coisas, fazer o que deveria estar...
+[00:58:49:00 --> 00:58:52:13] Muitas pessoas fazem o que não deveriam na hora que não deveriam.
+[00:58:52:24 --> 00:58:55:07] Às vezes são coisas importantes, mas você está fazendo na hora errada.
+[00:58:55:16 --> 00:58:58:04] Eu vou mostrar na prática como eu organizei a minha agenda para vocês,
+[00:58:58:13 --> 00:59:00:19] isso já vai ajudar um pouco nesse sentido.
+[00:59:02:08 --> 00:59:08:23] Tempo não é estoque, é fluxo, isso é o que a gente precisa levar em consideração com tudo isso.
+[00:59:09:04 --> 00:59:14:22] Eu tenho que ajustar depois o meu microfone, vocês devem estar escutando um som de locomotivo aí, né?
+[00:59:16:00 --> 00:59:19:09] Trem. Aqui em Minas a gente fala trem. Mas...
+[00:59:20:07 --> 00:59:22:02] Como que a gente abraça isso tudo aqui então?
+[00:59:22:08 --> 00:59:26:25] Depois fica tranquilo, você pode rever isso aqui, mas o que a gente tem que abraçar isso
+[00:59:26:25 --> 00:59:27:07] aqui então?
+[00:59:27:12 --> 00:59:34:20] Primeiro, quem domina tempo, domina alocação de prioridade, alocação de capacidade, alocação
+[00:59:34:20 --> 00:59:36:09] de fluxo, beleza?
+[00:59:36:13 --> 00:59:38:22] É isso que a gente tem que levar em consideração em relação ao tempo.
+[00:59:39:10 --> 00:59:43:16] E você vai alocando então o tempo onde você quer, tentando ao máximo diminuir
+[00:59:43:16 --> 00:59:45:19] dívida e diminuir vazamento.
+[00:59:45:19 --> 00:59:50:10] Ou seja, investindo seu tempo com intenção, onde você sabe que tá valendo a pena viver.
+[00:59:51:02 --> 00:59:55:05] Não é só sobre trabalho, é sobre investir seu tempo também no que importa pra você.
+[00:59:55:13 --> 00:59:58:11] Criar uma agenda, as pessoas acham que é algo corporativo, né?
+[00:59:58:20 --> 01:00:02:02] Nossa, o Juan tem agenda pra tudo, acha que isso é corporativo, cara.
+[01:00:02:23 --> 01:00:05:24] Ter a agenda é a coisa mais libertadora que eu já fiz na minha vida.
+[01:00:06:03 --> 01:00:09:05] É o oposto, as pessoas acham que ter a agenda é o que vai te aprisionar?
+[01:00:09:07 --> 01:00:09:14] Não.
+[01:00:09:23 --> 01:00:14:00] Ter a agenda do jeito certo é a coisa mais libertadora que vocês podem ter.
+[01:00:14:00 --> 01:00:18:14] Porque vocês vão estar vivendo com consciência e não com reatividade.
+[01:00:18:19 --> 01:00:21:01] É o oposto do que as pessoas acham que acontece.

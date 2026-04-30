@@ -1,0 +1,795 @@
+# Video: 16._aula_-_estruturas_avançadas_(camadas,_pesos(seeds),_negativações)_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 13:50
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:00 --> 00:00:03:12] Na aula anterior, nós falamos sobre uma maneira de criar prompts
+[00:00:03:12 --> 00:00:06:05] junto com a inteligência artificial, fazendo iterações.
+[00:00:06:11 --> 00:00:10:12] É um jeito legal de começar, vai te ajudar a direcionar melhor
+[00:00:10:12 --> 00:00:12:10] a inteligência artificial para os seus critérios.
+[00:00:12:12 --> 00:00:16:07] Acabei falando de mitos, erros também, acertos na hora de escrever prompts,
+[00:00:16:12 --> 00:00:18:22] mas agora eu quero te trazer exemplos mais práticos.
+[00:00:18:26 --> 00:00:22:29] E trazer isso com estruturas um pouco mais avançadas e direto ao ponto.
+[00:00:23:04 --> 00:00:26:08] Lembrando, se você quer entender a lógica por trás de tudo isso aqui,
+[00:00:26:12 --> 00:00:28:23] você pode assistir a trilha Estrutura de Prompts.
+[00:00:28:23 --> 00:00:30:07] Você vai te ajudar muito nesse processo.
+[00:00:30:13 --> 00:00:31:28] Aqui eu vou um pouco mais direto ao ponto,
+[00:00:32:01 --> 00:00:33:25] até porque eu tenho um material bem legal aqui
+[00:00:33:25 --> 00:00:35:07] que você vai gostar de consultar comigo.
+[00:00:35:16 --> 00:00:36:07] Bora lá com tudo.
+[00:00:36:13 --> 00:00:37:23] Eu estou aqui então com esse documento,
+[00:00:37:23 --> 00:00:40:21] a gente vai deixar o link dele aqui embaixo na descrição para você.
+[00:00:40:23 --> 00:00:42:17] Aqui você vai conseguir acompanhar comigo,
+[00:00:42:21 --> 00:00:44:14] tem vários exemplos legais aqui dentro.
+[00:00:44:16 --> 00:00:46:18] Nós vamos trabalhar com algumas estruturas avançadas
+[00:00:46:18 --> 00:00:48:18] focadas em geração de texto.
+[00:00:48:23 --> 00:00:51:10] Eu não vou ficar lendo aqui, você pode ler o conteúdo depois,
+[00:00:51:17 --> 00:00:52:28] mas o ponto principal é isso aqui.
+[00:00:53:00 --> 00:00:54:28] Falar com você sobre self-consistency,
+[00:00:55:01 --> 00:00:57:23] sobre prompt chaining, reg, react e reflections.
+[00:00:57:23 --> 00:01:00:23] Qual que é a lógica? Isso é importante de vocês entenderem.
+[00:01:00:25 --> 00:01:07:11] Estrutura avançada é a maneira de organizar o prompt e o raciocínio que a inteligência artificial vai ter em cima desse prompt.
+[00:01:07:19 --> 00:01:11:11] Tem várias vantagens de fazer isso, então reduz a ambiguidade, aumenta a coerência,
+[00:01:11:15 --> 00:01:15:11] aproxima o comportamento do raciocínio que você quer que a IA siga.
+[00:01:15:12 --> 00:01:18:25] E aqui tem uma metáfora para ficar mais fácil de entender essa lógica.
+[00:01:18:26 --> 00:01:20:02] Então pense em uma orquestra.
+[00:01:20:02 --> 00:01:25:17] O modelo é capaz de tocar vários instrumentos ao mesmo tempo, mas sem partitura vira ruído.
+[00:01:25:17 --> 00:01:36:23] Então você consegue colocar IA para fazer várias coisas, mas se você não direciona ela, se você não fala, faz isso agora, depois faz isso, depois faz isso, pode ser que você tenha um monte de informação ali, mas nenhuma é exatamente o que você quer.
+[00:01:36:26 --> 00:01:44:25] A falha aqui não é a falta de capacidade da IA, é falta de direção para ela. Ela pode fazer tudo isso, mas ela precisa saber o que exatamente você quer que ela faça.
+[00:01:44:28 --> 00:01:47:27] Essa é a lógica, você já está entendendo esse conceito, a gente pode avançar.
+[00:01:47:27 --> 00:01:53:29] Vamos começar aqui primeiro com self-consistency, que significa trazer uma amostragem de raciocínios,
+[00:01:53:29 --> 00:01:57:16] vários raciocínios diferentes, e trazer o voto para a própria inteligência artificial.
+[00:01:57:27 --> 00:01:59:17] Vamos entender como funciona esse raciocínio.
+[00:01:59:19 --> 00:02:05:01] Em vez de aceitar a primeira resposta do modelo, force múltiplos raciocínios, várias linhas de pensamento,
+[00:02:05:05 --> 00:02:10:22] isso aqui a gente chama de chain of thoughts, cadeias de pensamento, e escolha o resultado mais consistente.
+[00:02:10:25 --> 00:02:14:10] É útil para estruturas e para argumentos que não podem ser ambíguos.
+[00:02:14:12 --> 00:02:15:17] Sabe o que é mais legal disso aqui?
+[00:02:15:17 --> 00:02:17:29] Muita gente acha que isso aqui é técnica de tecnologia.
+[00:02:18:17 --> 00:02:22:02] Nossa, você estuda muito sobre tecnologia, mas isso aqui é filosofia pura.
+[00:02:22:04 --> 00:02:23:29] Na filosofia a gente chama isso de dialética.
+[00:02:24:03 --> 00:02:26:26] É você pedir a IA para ter uma abordagem mais dialética,
+[00:02:26:29 --> 00:02:28:29] para ela trazer tese, antítese e síntese.
+[00:02:29:02 --> 00:02:30:26] A gente até já falou um pouquinho mais sobre isso.
+[00:02:31:00 --> 00:02:33:13] Vamos ver um exemplo aqui de instrução que você poderia usar.
+[00:02:33:19 --> 00:02:37:04] Gere cinco esboços de tese para um ensaio sobre
+[00:02:37:04 --> 00:02:41:09] por que narrativas especulativas expandem a imaginação cívica.
+[00:02:41:09 --> 00:02:45:22] Para cada esboço, inclua uma tese, três argumentos,
+[00:02:45:22 --> 00:02:48:23] três contra-argumentos, é antítese, e refutação.
+[00:02:48:29 --> 00:02:51:18] Em seguida, faça um voto de autoconsciência.
+[00:02:51:23 --> 00:02:55:14] Selecione o esboço com melhor coerência lógica, que é o critérios.
+[00:02:55:14 --> 00:02:59:25] Aqui o critério foi coerência lógica e justificativa empírica em 120 palavras.
+[00:03:00:03 --> 00:03:02:25] Explique porquê e entregue a versão final editada.
+[00:03:03:00 --> 00:03:04:12] Então, esses são alguns critérios.
+[00:03:04:13 --> 00:03:06:00] Você pode trazer outros critérios também.
+[00:03:06:03 --> 00:03:08:00] Qual que é a ideia aqui do self-consistency?
+[00:03:08:00 --> 00:03:12:19] É você pedir para a própria inteligência artificial seguir um raciocínio de consistência.
+[00:03:12:20 --> 00:03:17:09] Para que ela traga mais argumentos, para que ela expanda para você a linha contrária da sua também.
+[00:03:17:10 --> 00:03:20:13] Isso evita enviesar a IA em uma única direção.
+[00:03:20:16 --> 00:03:21:27] Por que esse prompt é avançado?
+[00:03:21:29 --> 00:03:22:25] Repare, ele é curto.
+[00:03:22:28 --> 00:03:25:10] Mas ele é avançado porque ele existe um repertório.
+[00:03:25:12 --> 00:03:27:04] Você precisa entender o que está acontecendo aqui.
+[00:03:27:08 --> 00:03:29:17] E a filosofia é um dos melhores repertórios para isso.
+[00:03:29:18 --> 00:03:30:25] Por isso que a gente fala tanto dela.
+[00:03:30:29 --> 00:03:33:12] Eu trouxe aqui, olha, eu nomeei isso tudo aqui em uma prática.
+[00:03:33:13 --> 00:03:35:03] Isso é dialética. Dialética pura.
+[00:03:35:04 --> 00:03:37:09] Hoje em dia tem esses nomes chiques, né? Self-consistency.
+[00:03:37:09 --> 00:03:40:10] mas no final é dialética pura aqui dentro, e é um prompt avançado,
+[00:03:40:11 --> 00:03:42:01] porque exige de você esse repertório.
+[00:03:42:04 --> 00:03:45:15] Outro tipo de técnica avançada que você pode usar é o prompt chaining,
+[00:03:45:19 --> 00:03:47:19] que significa cadeia de prompt.
+[00:03:47:25 --> 00:03:50:22] Então você encadeia o prompt em vários estágios diferentes.
+[00:03:51:04 --> 00:03:52:11] Vamos ver um exemplo disso aqui.
+[00:03:52:14 --> 00:03:56:00] Você cria várias etapas para ele, eu explico isso inclusive lá na trilha
+[00:03:56:00 --> 00:03:58:26] estrutura de prompt também com mais profundidade se quiser ver.
+[00:03:59:01 --> 00:04:00:12] Aqui só expandindo um pouquinho.
+[00:04:00:18 --> 00:04:03:13] Então olhando como nós podemos fazer isso com texto, olha só.
+[00:04:03:17 --> 00:04:04:13] Etapa 1, mapa.
+[00:04:04:19 --> 00:04:06:28] Liste tópicos e perguntas para um artigo.
+[00:04:06:28 --> 00:04:08:24] Design especulativo no ensino médio.
+[00:04:08:26 --> 00:04:10:05] Dez tópicos, tá?
+[00:04:10:10 --> 00:04:11:11] Etapa dois, outline.
+[00:04:11:27 --> 00:04:14:02] Transforme o mapa em sumário hierárquico.
+[00:04:14:07 --> 00:04:15:12] H1, H3.
+[00:04:15:19 --> 00:04:17:20] Com tempo estimado por sessão.
+[00:04:17:20 --> 00:04:19:08] H1, H3, H1, reading.
+[00:04:19:14 --> 00:04:20:19] É cabeçalho, tá?
+[00:04:20:22 --> 00:04:25:04] E H3, ele está criando uma estrutura aqui de título, subtítulo, parágrafo, por exemplo.
+[00:04:25:10 --> 00:04:26:22] Etapa três, parágrafos.
+[00:04:26:25 --> 00:04:28:20] Escreva somente a introdução.
+[00:04:28:20 --> 00:04:31:29] Mais ou menos 180 palavras, com gancho, contexto e tese clara.
+[00:04:32:00 --> 00:04:33:23] São novos critérios que eu estou adicionando aqui.
+[00:04:33:29 --> 00:04:35:03] Etapa quatro, revisão.
+[00:04:35:03 --> 00:04:38:10] Então, avalie a introdução com critérios de clareza, evidência e ritmo.
+[00:04:38:11 --> 00:04:39:12] Proponha três melhorias.
+[00:04:39:15 --> 00:04:39:25] Aplique.
+[00:04:39:28 --> 00:04:41:02] Talvez aqui você está se perguntando,
+[00:04:41:02 --> 00:04:42:02] Juan, como é que eu chego nisso?
+[00:04:42:07 --> 00:04:44:10] Aqui, beleza, você está me mostrando algo pronto,
+[00:04:44:14 --> 00:04:46:11] que eu posso copiar e colar, mas como que eu chego nisso?
+[00:04:46:15 --> 00:04:47:13] Aí vem a aula anterior.
+[00:04:47:22 --> 00:04:49:22] Você não chega nisso só escrevendo perfeito.
+[00:04:49:25 --> 00:04:51:12] O ser humano não escreve perfeito assim,
+[00:04:51:16 --> 00:04:53:11] fazendo uma instrução como se fosse uma máquina.
+[00:04:54:09 --> 00:04:55:14] Escrevi desse jeito e ficou pronto.
+[00:04:55:17 --> 00:04:58:13] Não, a gente testa daquele mesmo jeito que eu mostrei na aula anterior.
+[00:04:58:21 --> 00:05:00:18] Então, eu vou dando as instruções aos poucos.
+[00:05:00:19 --> 00:05:02:24] Eu vejo que o resultado está ruim, eu dou uma nova instrução.
+[00:05:02:24 --> 00:05:04:01] vejo que está ruim, dou uma nova instrução.
+[00:05:04:04 --> 00:05:06:01] No final, peço para a IA resumir para mim,
+[00:05:06:15 --> 00:05:08:16] sintetizar essas instruções em etapas.
+[00:05:08:16 --> 00:05:09:29] É o que acabou acontecendo aqui.
+[00:05:10:03 --> 00:05:12:21] Isso é um jeito também mais avançado,
+[00:05:12:22 --> 00:05:15:02] que você vê de novo, não tem segredo no prompt aqui
+[00:05:15:02 --> 00:05:16:28] em questão de número de caracteres,
+[00:05:16:28 --> 00:05:19:17] não é um prompt gigante, é um prompt relativamente curto.
+[00:05:19:19 --> 00:05:22:04] Mas o que tem de avançado aqui?
+[00:05:22:07 --> 00:05:24:28] Você está construindo o raciocínio em etapas
+[00:05:24:28 --> 00:05:25:26] para a inteligência artificial.
+[00:05:26:19 --> 00:05:28:15] Terceira técnica avançada de prompt,
+[00:05:28:19 --> 00:05:29:29] focado em texto, HEG.
+[00:05:29:29 --> 00:05:30:19] Reg significa
+[00:05:30:19 --> 00:05:32:10] Retrivial Augmented Generation.
+[00:05:32:22 --> 00:05:33:14] O que é isso, Juan?
+[00:05:33:16 --> 00:05:35:02] Não entendi, foi nada com esse nome.
+[00:05:35:10 --> 00:05:35:24] Fica tranquilo.
+[00:05:35:26 --> 00:05:37:11] É mais simples do que parece.
+[00:05:37:22 --> 00:05:39:24] Aqui a ideia é você fazer a IA
+[00:05:39:24 --> 00:05:41:11] buscar a informação
+[00:05:41:26 --> 00:05:42:27] seguindo uma lógica
+[00:05:42:27 --> 00:05:44:29] antes dela entregar um resultado.
+[00:05:45:06 --> 00:05:46:08] Por isso que é Retrivial.
+[00:05:46:13 --> 00:05:48:16] Então é um retorno aumentado,
+[00:05:48:16 --> 00:05:49:02] digamos assim,
+[00:05:49:07 --> 00:05:50:25] a curto modo,
+[00:05:51:00 --> 00:05:52:11] de um jeito mais simples possível.
+[00:05:52:17 --> 00:05:52:28] Que é o quê?
+[00:05:52:29 --> 00:05:54:03] Busca primeiro a informação,
+[00:05:54:17 --> 00:05:55:10] avalia ela,
+[00:05:55:16 --> 00:05:56:13] analisa a informação
+[00:05:56:13 --> 00:05:57:25] e depois me traz o resultado.
+[00:05:58:05 --> 00:05:58:22] Então, olha só.
+[00:05:58:22 --> 00:06:02:25] Só. Injeta fontes externas relevantes no contexto antes de gerar o texto,
+[00:06:02:29 --> 00:06:05:22] reduzindo alucinações e aumentando factualidade.
+[00:06:06:01 --> 00:06:07:14] Então, como que funciona o RAG?
+[00:06:07:16 --> 00:06:09:11] Você trata um dado primeiro.
+[00:06:09:19 --> 00:06:14:16] Às vezes eu vou falar sobre um texto sobre como gerenciar equipes.
+[00:06:14:16 --> 00:06:17:08] Aí é um roteiro, um roteiro de vídeo, para a gente não ficar só no texto.
+[00:06:17:13 --> 00:06:22:12] Eu quero escrever um roteiro de vídeo sobre como gerenciar equipes de maneira nexialista.
+[00:06:22:14 --> 00:06:25:01] A primeira coisa que eu faço é trazer dados tratados para a IA.
+[00:06:25:04 --> 00:06:26:07] Aí eu trago um pouquinho aqui.
+[00:06:26:07 --> 00:06:27:18] aqui. Três parágrafos falando sobre
+[00:06:27:18 --> 00:06:29:23] nexialismo, com fatos. Três fatos
+[00:06:29:23 --> 00:06:31:23] sobre como as pessoas têm dificuldade
+[00:06:31:23 --> 00:06:33:17] em lidar com equipes, mais
+[00:06:33:17 --> 00:06:35:26] duas notícias de como a IA está mudando
+[00:06:35:26 --> 00:06:37:20] tudo isso. Eu pego isso, trato esse dado,
+[00:06:37:21 --> 00:06:39:23] jogo pra IA. Falo pra ela assim, primeiro, estuda isso aqui.
+[00:06:39:25 --> 00:06:41:23] Depois, escreva um roteiro sobre
+[00:06:41:23 --> 00:06:43:26] isso pra mim. Uma ótima ferramenta pra fazer
+[00:06:43:26 --> 00:06:45:28] isso, que a gente, inclusive, não falou e deveria
+[00:06:45:28 --> 00:06:47:21] ter falado, mas eu vou trazer aqui pra você agora
+[00:06:47:21 --> 00:06:49:17] pra fazer RAG, é o Notebook
+[00:06:49:17 --> 00:06:51:23] LM. Notebook LM é uma ferramenta
+[00:06:51:23 --> 00:06:53:23] do Google, poderosíssima, onde
+[00:06:53:23 --> 00:06:55:25] você cria notebooks, como se fossem
+[00:06:55:25 --> 00:06:57:20] em blocos de conteúdo, por exemplo, vou pegar
+[00:06:57:20 --> 00:06:59:17] esse aqui, ó, perfil do professor de lógica,
+[00:06:59:18 --> 00:07:01:19] e aí você sobe informações pra ele
+[00:07:01:19 --> 00:07:03:18] aqui, então eu subi vários arquivos pra ele,
+[00:07:03:19 --> 00:07:05:23] e agora ele consegue trazer pra mim roteiros,
+[00:07:05:24 --> 00:07:07:06] consegue trazer pra mim podcast,
+[00:07:07:12 --> 00:07:09:14] consegue trazer pra mim infográfico
+[00:07:09:14 --> 00:07:11:17] sobre esse assunto. Por exemplo, vou fazer aqui na prática
+[00:07:11:17 --> 00:07:13:10] pra você ver, eu subi várias informações
+[00:07:13:10 --> 00:07:15:17] aqui sobre lógica pra ele. Então, dá só
+[00:07:15:17 --> 00:07:17:06] uma olhada aqui nos conteúdos que eu subi.
+[00:07:17:08 --> 00:07:19:23] Curso de lógica básica, introdução à lógica,
+[00:07:19:25 --> 00:07:21:26] fundamentos da lógica, estrutura
+[00:07:21:26 --> 00:07:23:23] e validade do argumento, lógica
+[00:07:23:23 --> 00:07:25:23] proposicional, falácias lógicas,
+[00:07:25:25 --> 00:07:27:29] comuns, raciocínio de dedução e indução,
+[00:07:28:03 --> 00:07:30:12] lógica aplicada, expansão e referência
+[00:07:30:12 --> 00:07:31:28] e quem que é o COG. Eu trouxe
+[00:07:31:28 --> 00:07:33:28] todas essas informações aqui e agora
+[00:07:33:28 --> 00:07:36:03] a IA busca nessas informações para montar
+[00:07:36:03 --> 00:07:37:29] o conteúdo dela. Isso aqui é excelente para você
+[00:07:37:29 --> 00:07:39:24] ser mais específico na hora que for
+[00:07:39:24 --> 00:07:42:03] escrever qualquer tipo de texto. Eu posso, por exemplo,
+[00:07:42:03 --> 00:07:43:29] agora então, com todos eles marcados
+[00:07:43:29 --> 00:07:46:00] aqui, pedir para ele o seguinte, posso falar
+[00:07:46:00 --> 00:07:47:25] com ele, escreva um roteiro
+[00:07:47:25 --> 00:07:49:26] de vídeo para o YouTube
+[00:07:50:15 --> 00:07:51:27] explicando como aplicar
+[00:07:51:27 --> 00:07:53:26] lógica no dia a dia.
+[00:07:53:26 --> 00:07:57:06] Como aqui eu não tenho um documento de como fazer roteiros para YouTube,
+[00:07:57:08 --> 00:07:59:05] que seria excelente eu ter essa instrução,
+[00:07:59:20 --> 00:08:02:09] provavelmente ainda vai ser um pouco genérico em técnica,
+[00:08:02:14 --> 00:08:05:02] mas não em conteúdo, porque na questão do conteúdo,
+[00:08:05:07 --> 00:08:08:04] ele vai puxar aqui das informações que eu passei para ele.
+[00:08:08:08 --> 00:08:11:23] Então, ele está definindo aqui, desenhando, rascunhando as sessões, beleza?
+[00:08:11:24 --> 00:08:15:19] Está aqui, título do vídeo, como aplicar lógica no dia a dia e parar de errar.
+[00:08:15:22 --> 00:08:17:23] Beleza, trouxe um título aqui, se é bom ou ruim,
+[00:08:17:25 --> 00:08:19:12] depende da instrução que a gente dá para ele.
+[00:08:19:14 --> 00:08:20:16] Aí ele vem, olha, cena 1.
+[00:08:20:16 --> 00:08:22:28] Por que ele está aqui, COG, processando?
+[00:08:22:29 --> 00:08:23:22] Olá, humanos.
+[00:08:23:28 --> 00:08:25:08] Por que tem essa instrução aqui?
+[00:08:25:13 --> 00:08:26:28] Para te dar um contexto do que é isso aqui,
+[00:08:27:01 --> 00:08:28:23] isso aqui é um curso de lógica que eu estou criando
+[00:08:28:23 --> 00:08:31:07] em que um robô vai te entregar esse curso inteiro.
+[00:08:31:12 --> 00:08:32:23] Então, é um curso feito por um robô
+[00:08:32:23 --> 00:08:34:05] e ele mesmo vai entregando tudo.
+[00:08:34:11 --> 00:08:35:26] A própria IA está criando esse curso.
+[00:08:36:02 --> 00:08:38:25] E aí chama COG porque é o nome dele,
+[00:08:38:28 --> 00:08:40:17] o professor de lógica.
+[00:08:40:17 --> 00:08:41:22] E aí, qual que é a ideia aqui?
+[00:08:41:26 --> 00:08:43:19] Ele já fala com a personalidade dele.
+[00:08:43:22 --> 00:08:44:14] Isso aqui é um hack.
+[00:08:44:20 --> 00:08:46:08] Eu organizei a informação para ele
+[00:08:46:08 --> 00:08:47:10] antes dele trazer o conteúdo.
+[00:08:47:17 --> 00:08:50:07] Isso é bom porque evita de eu trazer um conteúdo
+[00:08:50:07 --> 00:08:52:10] do mundo inteiro, entendeu? De todo
+[00:08:52:10 --> 00:08:54:09] o aprendizado dele. Não, eu quero que ele foque aqui
+[00:08:54:09 --> 00:08:56:04] nesse assunto, com essa personalidade,
+[00:08:56:04 --> 00:08:58:06] com esse perfil. Ele vai fazer isso muito bem pra mim.
+[00:08:58:09 --> 00:09:00:19] Você também consegue fazer RAG criando os assistentes
+[00:09:00:19 --> 00:09:02:11] igual eu te mostrei nos GEMs
+[00:09:02:11 --> 00:09:04:06] do Gemini ou os GPTs do chat
+[00:09:04:06 --> 00:09:06:16] GPT. Também é um tipo de RAG aquilo ali.
+[00:09:06:17 --> 00:09:08:05] É uma técnica excelente se você
+[00:09:08:05 --> 00:09:10:05] quer especificar pra IA exatamente
+[00:09:10:05 --> 00:09:12:10] o caminho que você quer seguir. Voltando aqui
+[00:09:12:10 --> 00:09:14:06] pro nosso documento, tem um exemplo, olha só.
+[00:09:14:12 --> 00:09:16:14] Objetivo. Redigir uma resenha crítica
+[00:09:16:14 --> 00:09:18:22] sobre a ética em IA na educação
+[00:09:18:22 --> 00:09:20:16] pública do Brasil. Busque cinco
+[00:09:20:16 --> 00:09:22:07] fontes recentes e confiáveis.
+[00:09:22:16 --> 00:09:24:22] Extraia citações exatas com data e autor.
+[00:09:24:29 --> 00:09:26:22] Compile contexto. Aqui, ó, é esse
+[00:09:26:22 --> 00:09:28:27] aqui que tá o reg, ó. Cinco fontes recentes
+[00:09:28:27 --> 00:09:30:25] e confiáveis. Ele vai ter que buscar isso primeiro.
+[00:09:31:01 --> 00:09:32:24] Só que aqui esse exemplo, a gente colocou
+[00:09:32:24 --> 00:09:34:21] assim, né, a equipe colocou assim pra ser curto
+[00:09:34:21 --> 00:09:36:15] e eu conseguir trazer pra você, mas é bom
+[00:09:36:15 --> 00:09:38:18] trazer algumas limitações. Se você coloca tudo
+[00:09:38:18 --> 00:09:40:17] no mesmo prompt, você não vai estar atuando
+[00:09:40:17 --> 00:09:42:18] no melhor possível. O que eu recomendo é que
+[00:09:42:18 --> 00:09:44:19] você faça o reg em um lugar, trate o
+[00:09:44:19 --> 00:09:46:19] dado, depois suba só o que é essencial
+[00:09:46:19 --> 00:09:48:11] num notebook LM, por exemplo,
+[00:09:48:22 --> 00:09:50:08] ou num doc, você faz um Google Doc,
+[00:09:50:13 --> 00:09:53:00] insere esse Google Doc no chat de GPT, por exemplo,
+[00:09:53:00 --> 00:09:54:28] é melhor trabalhar assim, vai por mim,
+[00:09:54:29 --> 00:09:56:27] do que tentar trazer tudo em um único prompt.
+[00:09:57:01 --> 00:09:59:02] Quebre em etapas que vai ser mais fácil para você.
+[00:09:59:10 --> 00:10:00:25] Escreva a resenha e verifique.
+[00:10:01:02 --> 00:10:02:18] Liste as fontes usadas e os trechos.
+[00:10:02:25 --> 00:10:04:04] É uma abordagem mais científica.
+[00:10:04:04 --> 00:10:05:27] Isso aqui é bem mais avançado mesmo.
+[00:10:06:02 --> 00:10:08:03] Lá no estrutura de prompts, na trilha,
+[00:10:08:04 --> 00:10:11:04] eu entrego ainda documentações para você estudar isso aqui
+[00:10:11:04 --> 00:10:13:04] com uma profundidade que você nunca viu antes.
+[00:10:13:05 --> 00:10:14:08] Eu não vou nem abrir aqui agora
+[00:10:14:08 --> 00:10:16:05] para que você vá lá e assista essa trilha.
+[00:10:16:07 --> 00:10:16:19] Vai por mim.
+[00:10:16:21 --> 00:10:18:13] Você vai voltar aqui outra pessoa depois.
+[00:10:18:22 --> 00:10:20:22] Nós temos também o REACT, que é o quê?
+[00:10:21:00 --> 00:10:23:07] Reasoning mais Action, com ferramentas.
+[00:10:23:11 --> 00:10:27:04] Reasoning significa raciocinar, mais uma ação com ferramenta.
+[00:10:27:07 --> 00:10:31:03] Que aí depende de você conectar, às vezes, uma outra ferramenta na IA,
+[00:10:31:03 --> 00:10:35:19] ou, às vezes, você realmente pedir para a IA seguir um conceito específico direto no prompt.
+[00:10:35:23 --> 00:10:36:28] Dá uma olhada aqui nesse exemplo.
+[00:10:37:09 --> 00:10:38:23] Raciocínio, passo a passo, mais ação.
+[00:10:38:25 --> 00:10:43:29] Tarefa. Escrever um mini dossiê sobre o impacto de políticas de dados abertos na cultura de design cívico.
+[00:10:44:02 --> 00:10:46:19] Cara, a nossa equipe preparou esses exemplos aqui para mim,
+[00:10:46:19 --> 00:10:49:11] Mas para algumas pessoas vão ser exemplos bem chatos, né?
+[00:10:49:12 --> 00:10:51:29] Vocês vão falar assim, nossa, que exemplos chatos você está trazendo aqui.
+[00:10:52:04 --> 00:10:53:07] Mas é até um exercício.
+[00:10:53:09 --> 00:10:57:01] A pergunta que eu deixo para você é, como que você tornaria isso aqui mais envolvente?
+[00:10:57:06 --> 00:10:58:08] Tem várias maneiras, tá?
+[00:10:58:13 --> 00:11:01:10] E isso é uma das coisas que eu ensino muito para a nossa equipe de produção de conteúdo.
+[00:11:01:16 --> 00:11:04:19] Esse tema aqui é horrível para poder envolver o público.
+[00:11:04:22 --> 00:11:06:20] Nossa, nunca vi tema mais chato.
+[00:11:07:01 --> 00:11:09:19] Impacto de políticas de dados abertos na cultura do design cívico.
+[00:11:09:20 --> 00:11:10:27] Mas ele é muito importante.
+[00:11:11:04 --> 00:11:12:23] Como que a gente melhora isso daqui?
+[00:11:13:01 --> 00:11:14:05] Tem várias maneiras.
+[00:11:14:05 --> 00:11:16:01] deixando mais familiar, falando na linguagem
+[00:11:16:01 --> 00:11:18:04] do público, trazendo o problema disso aqui
+[00:11:18:04 --> 00:11:19:23] as pessoas elas querem entender primeiro
+[00:11:19:23 --> 00:11:21:25] o que eu tenho a ver com isso, antes de colocar energia
+[00:11:21:25 --> 00:11:24:02] ali. É tipo aquela sua professora de matemática
+[00:11:24:02 --> 00:11:25:29] que começou a te ensinar fórmula
+[00:11:25:29 --> 00:11:27:26] de Bhaskara, mas não te explicou porque isso é
+[00:11:27:26 --> 00:11:29:28] importante na sua vida. Aí você aprende aquilo e
+[00:11:29:28 --> 00:11:31:26] fala, pra que eu vou aprender isso? Onde eu vou usar?
+[00:11:32:00 --> 00:11:33:25] Você não tá engajado pra aprender aquele assunto
+[00:11:33:25 --> 00:11:35:24] é o que esse tipo de conteúdo aqui faz
+[00:11:35:24 --> 00:11:37:28] tá? Agora, como é que eu transformo isso
+[00:11:37:28 --> 00:11:39:28] aqui num conteúdo mais legal? Só um parênteses aqui
+[00:11:39:28 --> 00:11:42:08] porque os temas aqui tão bem interessantes
+[00:11:42:08 --> 00:11:43:28] pra gente melhorar. Eu pego aqui qual que é
+[00:11:43:28 --> 00:11:44:13] que é o conflito.
+[00:11:44:16 --> 00:11:46:05] O conflito é política do dado?
+[00:11:46:09 --> 00:11:47:15] Não, o conflito é o dado em si.
+[00:11:47:19 --> 00:11:49:17] Política de dado é sobre como eu vou tratar esse dado.
+[00:11:49:22 --> 00:11:51:05] Então, o tema principal aqui,
+[00:11:51:07 --> 00:11:53:05] o problema que nós estamos lidando é com o dado.
+[00:11:53:10 --> 00:11:54:17] O segundo ponto aqui é o contexto.
+[00:11:54:17 --> 00:11:57:02] O contexto é cultura de design cívico.
+[00:11:57:04 --> 00:11:58:07] Como é que eu melhoro isso aqui também?
+[00:11:58:11 --> 00:11:59:17] Eu quero trazer o contexto atual,
+[00:11:59:20 --> 00:12:00:23] a cultura de criação,
+[00:12:00:25 --> 00:12:01:16] a cultura de influencers,
+[00:12:01:22 --> 00:12:02:24] a cultura de creators.
+[00:12:03:07 --> 00:12:04:10] Aí eu melhoro isso aqui como?
+[00:12:04:15 --> 00:12:07:17] Ao invés de impacto de dados abertos na cultura do design cívico,
+[00:12:07:19 --> 00:12:09:03] eu posso trazer aqui, por exemplo,
+[00:12:09:23 --> 00:12:10:15] a extinção.
+[00:12:10:16 --> 00:12:13:08] Olha só, já deixando mais legal o negócio aqui.
+[00:12:13:08 --> 00:12:15:07] a extinção dos creators
+[00:12:15:07 --> 00:12:16:21] através dos dados.
+[00:12:16:27 --> 00:12:17:29] Já melhorou um pouco mais.
+[00:12:18:01 --> 00:12:19:13] Caraca, extinção de creators.
+[00:12:19:14 --> 00:12:20:05] Se eu sou um creator,
+[00:12:20:12 --> 00:12:21:07] se eu trabalho com design,
+[00:12:21:14 --> 00:12:22:16] creator e design é diferente,
+[00:12:22:20 --> 00:12:23:25] mas se eu trabalho com criação,
+[00:12:23:26 --> 00:12:24:26] poxa, extinção.
+[00:12:24:29 --> 00:12:26:26] Como os dados vão extinguir os criadores?
+[00:12:27:02 --> 00:12:28:15] Já me chamou a atenção pelo menos.
+[00:12:28:17 --> 00:12:29:14] Já é um título aqui
+[00:12:29:14 --> 00:12:30:19] que eu quero saber mais
+[00:12:30:19 --> 00:12:31:17] sobre esse assunto, né?
+[00:12:31:21 --> 00:12:32:23] Então, é interessante
+[00:12:32:23 --> 00:12:33:20] porque às vezes
+[00:12:33:20 --> 00:12:34:22] chegam esses pontos aqui.
+[00:12:34:23 --> 00:12:35:10] Isso aqui, inclusive,
+[00:12:35:10 --> 00:12:36:25] é um dos meus maiores conflitos
+[00:12:36:25 --> 00:12:38:05] com o ambiente acadêmico.
+[00:12:38:09 --> 00:12:39:21] Nós temos uma equipe maravilhosa,
+[00:12:39:22 --> 00:12:40:23] muito boa no que faz,
+[00:12:40:28 --> 00:12:41:26] que fez faculdade,
+[00:12:41:26 --> 00:12:42:25] que estudou bastante
+[00:12:42:25 --> 00:12:44:13] E aí vem com esses vícios aqui.
+[00:12:44:18 --> 00:12:45:13] Eu sempre corrijo.
+[00:12:45:14 --> 00:12:47:03] Eu falo, cara, não deixa isso aqui passar.
+[00:12:47:08 --> 00:12:50:00] Como que a gente deixa isso aqui melhor para as pessoas quererem ler?
+[00:12:50:04 --> 00:12:53:04] O primeiro objetivo de um comunicador é tornar comum.
+[00:12:54:13 --> 00:12:54:25] Comunicar.
+[00:12:55:03 --> 00:12:55:27] Tornar comum.
+[00:12:56:02 --> 00:12:56:25] Como você torna comum?
+[00:12:57:01 --> 00:12:57:23] Tornando familiar.
+[00:12:57:29 --> 00:12:58:23] Como você torna familiar?
+[00:12:59:02 --> 00:13:02:08] Lembrando sempre quem é a outra pessoa do outro lado que está me assistindo.
+[00:13:02:11 --> 00:13:04:00] Quem é a pessoa do outro lado que vai me ouvir?
+[00:13:04:02 --> 00:13:06:17] Meu primeiro objetivo é fazer essa pessoa querer me ouvir.
+[00:13:06:22 --> 00:13:08:26] Depois disso, eu posso trazer aqui o conteúdo.
+[00:13:08:26 --> 00:13:13:25] Então só um, fecha um parênteses aqui, porque eu estou achando curioso aqui os exemplos que estão chegando.
+[00:13:13:29 --> 00:13:16:03] Raciocinar e agir. Voltando para a estrutura aqui.
+[00:13:16:06 --> 00:13:18:16] Planeje três hipóteses, depois agir.
+[00:13:18:16 --> 00:13:22:17] Procurar dois conjuntos de dados, relatórios, que testam cada hipótese.
+[00:13:22:25 --> 00:13:24:13] Atualize o plano com o que encontrar.
+[00:13:24:22 --> 00:13:26:10] Descarte hipóteses fracas.
+[00:13:26:14 --> 00:13:30:28] Produza o texto final citando explicitamente as fontes e marcando o que foi a inferência que foi dada.
+[00:13:31:02 --> 00:13:32:16] Explicando aqui de um jeito mais simples.
+[00:13:32:23 --> 00:13:33:29] O que esse prompt está fazendo?
+[00:13:34:04 --> 00:13:36:16] Ele está trazendo aqui raciocínio mais ação.
+[00:13:36:16 --> 00:13:39:02] Então, a estrutura do prompt é dividida em duas partes.
+[00:13:39:04 --> 00:13:42:29] Ela é dividida em, primeiro, você explicar como pensar e depois como agir.
+[00:13:43:01 --> 00:13:44:16] Juan, você que inventou essa parada toda?
+[00:13:44:19 --> 00:13:45:00] Não.
+[00:13:45:03 --> 00:13:48:16] Na trilha estrutura de prompt, eu mostro, inclusive, para você.
+[00:13:48:20 --> 00:13:49:14] De onde vem isso aqui?
+[00:13:49:16 --> 00:13:53:13] Isso aqui são maiores cientistas de dado, treinamento de A do mundo.
+[00:13:53:17 --> 00:13:53:28] Falaram.
+[00:13:53:28 --> 00:13:54:22] Ah, Juan, você está exagerando.
+[00:13:54:28 --> 00:13:55:14] Não estou.
+[00:13:55:18 --> 00:13:57:24] Eu entrego, inclusive, na trilha estrutura de prompt,
+[00:13:57:29 --> 00:14:02:06] eu entrego para você a documentação de empresas como OpenAI, Antropic, Google,
+[00:14:02:13 --> 00:14:04:05] que são as maiores empresas do mundo no assunto.
+[00:14:04:05 --> 00:14:08:27] e em que os especialistas de estrutura de prompts dessas empresas afirmam,
+[00:14:08:27 --> 00:14:12:23] com base em vários testes, como você faz uma inteligência artificial te entregar um resultado melhor.
+[00:14:12:28 --> 00:14:14:16] Eu deixo toda essa documentação lá.
+[00:14:14:18 --> 00:14:16:23] Para facilitar, já que eu estou falando muito disso,
+[00:14:16:29 --> 00:14:18:24] eu vou pedir para a equipe deixar aqui embaixo para você também,
+[00:14:18:29 --> 00:14:21:23] mas você vai ficar meio perdido, porque são documentações extensas.
+[00:14:21:29 --> 00:14:26:05] Assistir à trilha vai te colocar em uma direção mais clara para entender como utilizar isso.
+[00:14:26:07 --> 00:14:30:09] Aqui na prática para texto, resumindo, é explica o raciocínio e explicação.
+[00:14:30:15 --> 00:14:32:22] Junta isso no mesmo prompt e você vai ter um react.
+[00:14:32:22 --> 00:14:34:23] act. Beleza? E também temos o
+[00:14:34:23 --> 00:14:36:19] reflections. O que é o reflections?
+[00:14:37:12 --> 00:14:38:27] Autocrítica iterativa orientada
+[00:14:38:27 --> 00:14:40:22] a menos. Em outras palavras, reflections
+[00:14:40:22 --> 00:14:42:25] significa pedir para a IA questionar
+[00:14:42:25 --> 00:14:44:17] o que ela mesma está entregando para você.
+[00:14:44:21 --> 00:14:46:22] Vamos pegar um exemplo aqui então. Escreva
+[00:14:46:22 --> 00:14:48:23] uma carta, manifesto, defendendo
+[00:14:48:23 --> 00:14:51:02] bibliotecas públicas como laboratórios
+[00:14:51:02 --> 00:14:52:23] de imaginação. Outro ponto aqui
+[00:14:52:23 --> 00:14:54:20] interessante, né? Eu iria numa linha
+[00:14:54:20 --> 00:14:56:13] diferente aqui também. Mas vamos seguir.
+[00:14:56:17 --> 00:14:58:27] Eu já explanei sobre isso. Como que a gente
+[00:14:58:27 --> 00:15:00:28] deixa bibliotecas públicas como laboratórios
+[00:15:00:28 --> 00:15:02:17] de imaginação? Eu melhoraria isso aqui.
+[00:15:02:22 --> 00:15:04:17] Porque no meu imaginário, no meu familiar,
+[00:15:04:21 --> 00:15:08:06] biblioteca pública é um lugar que não envolve as pessoas,
+[00:15:08:29 --> 00:15:10:01] não cria um ambiente legal.
+[00:15:10:10 --> 00:15:11:14] E aí como que eu melhoro isso?
+[00:15:11:17 --> 00:15:12:28] Eu poderia inverter o ponto.
+[00:15:13:01 --> 00:15:14:24] Eu acho que esse era o objetivo aqui do tema, inclusive,
+[00:15:14:26 --> 00:15:16:25] quando ele foi colocado aqui pela equipe.
+[00:15:16:28 --> 00:15:18:25] Mas principalmente aqui, só para dar mais um exemplo,
+[00:15:18:27 --> 00:15:20:11] eu poderia trazer algo como
+[00:15:21:11 --> 00:15:23:13] transformando bibliotecas velhas e chatas
+[00:15:23:13 --> 00:15:26:25] em verdadeiros portais de imaginação.
+[00:15:26:28 --> 00:15:28:10] Já melhorou bastante, velho.
+[00:15:28:12 --> 00:15:29:10] Já ficou bem melhor.
+[00:15:29:14 --> 00:15:32:05] Porque se eu coloco biblioteca, para muita gente já é chato.
+[00:15:32:05 --> 00:15:34:03] Se eu transformo a biblioteca em biblioteca pública,
+[00:15:34:07 --> 00:15:35:05] já ficou mais chato ainda.
+[00:15:35:07 --> 00:15:36:27] Quantas pessoas já foram a uma biblioteca pública?
+[00:15:37:02 --> 00:15:38:02] Quantas pessoas aproveitam isso?
+[00:15:38:05 --> 00:15:41:07] Eu não estou falando que as bibliotecas são lugares ruins para a gente estar.
+[00:15:41:09 --> 00:15:42:06] São maravilhosos.
+[00:15:42:07 --> 00:15:44:18] Desde que fossem lugares que engajam as pessoas.
+[00:15:44:20 --> 00:15:45:02] E não são.
+[00:15:45:11 --> 00:15:45:22] Infelizmente.
+[00:15:45:25 --> 00:15:47:15] As pessoas que estão em bibliotecas públicas
+[00:15:47:15 --> 00:15:49:24] poderiam criar mais experiências para isso.
+[00:15:49:26 --> 00:15:50:26] Mas eu não vou entrar nesse tópico agora.
+[00:15:51:03 --> 00:15:51:22] Enfim, olha só.
+[00:15:51:25 --> 00:15:53:22] É bom quando a gente está nesses temas chatos,
+[00:15:53:22 --> 00:15:56:26] porque ele só é chato quando ele é enquadrado de um jeito chato.
+[00:15:56:29 --> 00:15:57:26] Isso é sobre texto.
+[00:15:58:02 --> 00:15:59:06] Isso é sobre clareza.
+[00:15:59:07 --> 00:16:01:23] Isso é sobre melhorar a informação que você está trazendo.
+[00:16:01:23 --> 00:16:03:28] E eu adorei que a equipe está trazendo desse jeito aqui,
+[00:16:04:01 --> 00:16:06:00] porque traz a oportunidade para a gente falar sobre isso.
+[00:16:06:01 --> 00:16:07:10] Acredito até que foi de propósito.
+[00:16:07:18 --> 00:16:08:02] Reflexão 1.
+[00:16:08:13 --> 00:16:10:15] Avalie sua versão com cinco métricas.
+[00:16:10:16 --> 00:16:11:14] Isso aqui que é o ponto.
+[00:16:11:19 --> 00:16:12:22] Isso aqui é o Reflections.
+[00:16:13:05 --> 00:16:14:14] Avalie sua versão.
+[00:16:14:16 --> 00:16:17:03] É fazer a própria IA refletir sobre o que ela está entregando.
+[00:16:17:07 --> 00:16:18:16] Então, ela vai escrever primeiro,
+[00:16:18:19 --> 00:16:21:07] depois ela vai avaliar a versão dela,
+[00:16:21:12 --> 00:16:23:18] seguindo cinco métricas, ou seja, cinco critérios.
+[00:16:23:25 --> 00:16:25:19] Clareza, ritmo, densidade de ideia,
+[00:16:25:23 --> 00:16:27:23] força retórica e memorabilidade.
+[00:16:27:26 --> 00:16:28:25] Com isso aqui é certo ou errado?
+[00:16:28:29 --> 00:16:29:25] Depende do público.
+[00:16:29:25 --> 00:16:33:07] Se você está falando com um público aqui que quer densidade de ideia,
+[00:16:33:10 --> 00:16:34:04] densidade de ideia é bom.
+[00:16:34:07 --> 00:16:35:25] Se você está falando com um público mais mainstream,
+[00:16:36:03 --> 00:16:37:10] aí, né, o que é o público mainstream?
+[00:16:37:17 --> 00:16:39:16] É o público mais popular, a maioria das pessoas.
+[00:16:39:22 --> 00:16:41:17] Aí, densidade de ideia é ruim, as pessoas vão embora.
+[00:16:41:22 --> 00:16:43:27] Se solta um Dostoyevsky aqui, as pessoas vão embora.
+[00:16:44:03 --> 00:16:48:07] Agora, se você pega esse mesmo Dostoyevsky e usa isso de um jeito que as pessoas entendam,
+[00:16:48:08 --> 00:16:50:21] você vai ser visto diferente, seu texto vai ter impacto profundo.
+[00:16:51:05 --> 00:16:52:10] Reescreva corrigindo as falhas.
+[00:16:52:11 --> 00:16:53:25] Então, depois que ela reflete, ela reescreve.
+[00:16:53:26 --> 00:16:55:29] E depois que ela reescreveu, ela reflete de novo.
+[00:16:56:04 --> 00:16:57:29] Então, teste contra um leitor cético.
+[00:16:58:02 --> 00:16:59:20] O que ainda não está convincente.
+[00:16:59:25 --> 00:17:02:00] Ajuste a versão final em 200, 250 palavras.
+[00:17:02:05 --> 00:17:05:02] Você pode fazer isso em um único prompt também, mandar para a IA.
+[00:17:05:05 --> 00:17:07:26] Recomendo, teste esses daqui, você já vai ver um comportamento diferente.
+[00:17:08:07 --> 00:17:11:11] Mas minha recomendação para você é que você separe em assistentes diferentes.
+[00:17:11:21 --> 00:17:14:17] Lembra o assistente de persona que eu te recomendei?
+[00:17:14:18 --> 00:17:16:27] Depois que ele escrever aqui, pega o texto e joga no de persona.
+[00:17:17:03 --> 00:17:18:01] Vê o que ele vai falar.
+[00:17:18:05 --> 00:17:20:10] Vou dar um exemplo aqui para você com o Brunin.
+[00:17:20:12 --> 00:17:21:01] O Brunin é ótimo.
+[00:17:21:01 --> 00:17:22:25] O Brunin é uma persona da Overlens.
+[00:17:23:01 --> 00:17:27:17] Ele tem toda a ficha dele ali, a história dele, a biografia,
+[00:17:27:17 --> 00:17:30:13] O que ele vê, o que ele ouve, o que ele sente, o que ele faz, o que ele pensa.
+[00:17:30:17 --> 00:17:35:04] Tem também ali qual que é a personalidade dele, quais são os desafios, os problemas, os desejos.
+[00:17:35:07 --> 00:17:35:16] Tem tudo.
+[00:17:35:19 --> 00:17:37:04] Uma boa ficha.
+[00:17:37:05 --> 00:17:39:16] Pra te mostrar aqui um pouquinho sobre o Bruninho, tá?
+[00:17:39:17 --> 00:17:41:04] Que o assistente que eu criei ele.
+[00:17:41:07 --> 00:17:41:26] E tem tudo aqui, ó.
+[00:17:41:29 --> 00:17:42:19] Frase típica.
+[00:17:42:19 --> 00:17:45:19] Cara, eu sei que preciso aprender coisas novas, mas não sei como começar.
+[00:17:45:27 --> 00:17:48:20] Talvez se eu seguir estudando faculdade de tutoriais, tudo se resolve.
+[00:17:48:23 --> 00:17:50:19] Olha só, ele tem as limitações dele também.
+[00:17:50:28 --> 00:17:52:18] Ele é muito novo, ele é muito empolgado.
+[00:17:52:18 --> 00:17:54:20] Ele tem um estilo, tem um tom de voz dele aqui.
+[00:17:54:23 --> 00:17:57:02] Que é o estilo, aqui ó, o cara comum de São Paulo.
+[00:17:57:02 --> 00:17:59:04] Mas é um estilo mais da geração dele também.
+[00:17:59:10 --> 00:17:59:28] Vamos dar uma olhada.
+[00:18:00:01 --> 00:18:01:20] Se eu falo para ele o seguinte, olha que interessante.
+[00:18:02:01 --> 00:18:04:17] Eu vou pegar aqui esse texto que a IA vai gerar.
+[00:18:04:18 --> 00:18:06:13] Você vai ver que não vai ser um texto bom para o Bruninho.
+[00:18:06:16 --> 00:18:07:11] Não vai ser bom para ele.
+[00:18:07:14 --> 00:18:08:12] Sabe por que não vai ser bom?
+[00:18:08:15 --> 00:18:10:27] Porque eu não vou avisar para a IA que a gente vai falar com o Bruninho.
+[00:18:11:00 --> 00:18:13:29] Então ela vai pegar aqui, biblioteca pública, laboratório de imaginação.
+[00:18:14:06 --> 00:18:15:05] Ela vai fazer o texto ainda.
+[00:18:15:10 --> 00:18:18:19] Só que como eu não defini público, o texto dela vai parecer um pouco chato.
+[00:18:18:23 --> 00:18:22:08] Primeiro ele está criando o manifesto, depois ele vai refletir sobre o manifesto dele.
+[00:18:22:08 --> 00:18:28:19] Aí ele fez a autocrítica, ele colocou clareza 8, ritmo 7, densidade 8, força 7, memorabilidade 6.
+[00:18:28:26 --> 00:18:31:28] Beleza? Aí ele reescreveu e aí eu vou pegar a versão reescrita.
+[00:18:32:04 --> 00:18:34:04] E eu vou fazer uma pergunta simples, eu vou falar assim,
+[00:18:34:09 --> 00:18:38:11] Bruninho, pra você, este texto é engajador ou chato?
+[00:18:38:14 --> 00:18:42:16] Vai induzir a palavra engajador, com o Bruninho é melhor usar outra palavra ao invés de engajador.
+[00:18:42:20 --> 00:18:45:25] Esse texto é envolvente ou chato?
+[00:18:45:29 --> 00:18:50:11] Mano, sendo bem sincero, não é chato, ele tentou também não ser chato comigo, né?
+[00:18:50:11 --> 00:18:52:22] mas também não é texto rápido, tá ligado?
+[00:18:52:26 --> 00:18:54:19] Ele é envolvente de um jeito calmo,
+[00:18:54:20 --> 00:18:56:17] mais cabeça. Tipo assim, se eu tô, olha só
+[00:18:56:17 --> 00:18:58:17] o jeito de falar tudo isso aqui, ó. Eu criei
+[00:18:58:17 --> 00:19:00:07] essa persona, você tem que criar suas personas.
+[00:19:00:16 --> 00:19:02:19] Se eu tô com o cérebro já acelerado de TikTok,
+[00:19:02:26 --> 00:19:04:15] eu demoro uns parágrafos pra entrar.
+[00:19:04:20 --> 00:19:06:11] Depois que entra, vai bem. A ideia
+[00:19:06:11 --> 00:19:08:16] sustenta, a vibe é boa. Não parece texto
+[00:19:08:16 --> 00:19:10:10] vazio. Aí ele traz aqui, ó, o que parece
+[00:19:10:10 --> 00:19:12:14] chato pra algumas pessoas. Agora, sendo bem
+[00:19:12:14 --> 00:19:14:17] honesto, no modo autocrítica. Ele é bem
+[00:19:14:17 --> 00:19:16:25] sério o tempo todo. Não tem respiro emocional,
+[00:19:16:29 --> 00:19:18:20] não tem uma frase que quebra o clima.
+[00:19:18:20 --> 00:19:20:25] Falta talvez um momento mais humano
+[00:19:20:25 --> 00:19:22:22] Uma cena, uma imagem concreta
+[00:19:22:22 --> 00:19:24:16] Pra alguém específico numa biblioteca
+[00:19:24:16 --> 00:19:26:19] Pra internet especialmente, ele é mais
+[00:19:26:19 --> 00:19:28:29] Ensaio do que manifesto. Então, é envolvente
+[00:19:28:29 --> 00:19:30:25] Pra quem gosta de pensar. Pode parecer
+[00:19:30:25 --> 00:19:32:14] Denso pra quem quer estímulo rápido
+[00:19:32:14 --> 00:19:34:25] Pronto, tá vendo? Ter um bom público vai te ajudar
+[00:19:34:25 --> 00:19:36:26] Muito nesse processo aqui. E aí a gente segue
+[00:19:36:26 --> 00:19:38:19] Então, entenda isso aqui como
+[00:19:39:08 --> 00:19:40:23] Ferramentas que você pode ir utilizando
+[00:19:40:23 --> 00:19:42:07] Já vai ser interessante, mas
+[00:19:42:23 --> 00:19:44:23] Conecte tudo isso, né? Conecte tudo isso que a gente
+[00:19:44:23 --> 00:19:46:25] Tá mostrando aqui pra você e ao invés
+[00:19:46:25 --> 00:19:49:08] Ao invés de usar uma coisa só, lembre-se dos princípios.
+[00:19:49:09 --> 00:19:52:05] Lembra sempre, você está querendo transmitir uma mensagem para alguém.
+[00:19:52:10 --> 00:19:53:02] Quem é esse alguém?
+[00:19:53:08 --> 00:19:55:02] Sempre traga isso para os seus materiais.
+[00:19:55:09 --> 00:19:56:08] Estrutura clássica, então.
+[00:19:56:13 --> 00:19:58:14] Isso aqui a gente fala, lá na trilha, a estrutura de prompt,
+[00:19:58:19 --> 00:19:59:12] mas está aqui para você.
+[00:19:59:16 --> 00:20:02:14] Primeiro, defina o papel do assistente, o que ele é, o que ele faz,
+[00:20:02:17 --> 00:20:03:16] qual a especialidade dele.
+[00:20:03:19 --> 00:20:05:20] Defina a tarefa que ele vai executar.
+[00:20:05:23 --> 00:20:07:16] Depois de definir a tarefa, defina o contexto.
+[00:20:07:18 --> 00:20:10:21] Depois, o raciocínio, a saída, um exemplo de saída,
+[00:20:10:22 --> 00:20:13:26] e os critérios, condições de parada, quando ele tiver, como vai funcionar.
+[00:20:13:29 --> 00:20:15:28] Aqui tem um desses prompts mais elaborados,
+[00:20:15:28 --> 00:20:17:12] Só que vem um ponto importante aqui.
+[00:20:17:14 --> 00:20:19:14] Lembrando que esse documento vai ficar aqui embaixo para você.
+[00:20:19:18 --> 00:20:20:25] Tem um ponto importante aqui.
+[00:20:20:29 --> 00:20:23:19] Prompt grande não significa automaticamente que é um prompt bom.
+[00:20:23:25 --> 00:20:25:23] Aí você tem que estruturar isso bem.
+[00:20:25:25 --> 00:20:27:28] Às vezes um prompt curto vai funcionar melhor que um prompt longo.
+[00:20:28:02 --> 00:20:32:05] Mas essa estrutura aqui, se você se dá o trabalho de fazer isso do jeito certo,
+[00:20:32:05 --> 00:20:34:00] sendo específico, ela vai te ajudar muito.
+[00:20:34:05 --> 00:20:35:22] E lembra, depois que você escreveu uma vez,
+[00:20:35:26 --> 00:20:38:07] você só precisa editar as variáveis nas próximas.
+[00:20:38:07 --> 00:20:39:11] Então lembra da iteração.
+[00:20:39:13 --> 00:20:42:24] Testa melhor, ajusta e depois guarda isso no seu banco de prompts.
+[00:20:43:01 --> 00:20:43:11] Beleza?
+[00:20:43:12 --> 00:20:44:22] Aqui tem uma ação para você também.
+[00:20:44:22 --> 00:20:46:25] Vem um ponto aqui para você experimentar isso.
+[00:20:46:29 --> 00:20:49:22] Se você continuar tratando prompt como pergunta solta,
+[00:20:49:22 --> 00:20:53:19] vai continuar colecionando respostas boas e ruins sem entender o porquê.
+[00:20:53:20 --> 00:20:56:26] Você precisa de especificidade, precisa de uma direção para ir.
+[00:20:56:29 --> 00:20:59:16] Não é simplesmente jogar e deixar a sorte.
+[00:20:59:18 --> 00:21:01:09] É o que a maioria das pessoas fazem, por isso que fica lá.
+[00:21:01:14 --> 00:21:03:25] Ah, não gostei, tenta de novo, não gostei, tenta de novo, não gostei, tenta de novo.
+[00:21:03:28 --> 00:21:07:04] Se você não parar para pensar quais são os meus critérios, você vai perder muito tempo.
+[00:21:07:09 --> 00:21:11:25] A pergunta aqui então é qual protocolo eu preciso para esse tipo de tarefa nesse contexto específico.
+[00:21:11:25 --> 00:21:14:04] O que é um protocolo? É um passo a passo que você precisa seguir.
+[00:21:14:04 --> 00:21:15:19] É quase como uma receitinha.
+[00:21:15:21 --> 00:21:17:19] Depois que você cria a primeira vez e direciona a IA,
+[00:21:17:22 --> 00:21:19:08] pede ela para estruturar isso num prompt.
+[00:21:19:12 --> 00:21:22:13] E aí você pode repetir isso quantas outras vezes forem necessárias.
+[00:21:22:15 --> 00:21:23:26] Então passo a passo aqui para te ajudar.
+[00:21:24:01 --> 00:21:26:22] Primeiro, escolha uma tarefa real que você já executa com IA.
+[00:21:26:24 --> 00:21:28:06] Qualquer texto, alguma coisa.
+[00:21:28:08 --> 00:21:30:07] Às vezes um nome que você cria muito nome.
+[00:21:30:11 --> 00:21:31:02] Pega a tarefa de nome.
+[00:21:31:05 --> 00:21:33:07] Você cria muito descrição para post.
+[00:21:33:08 --> 00:21:33:29] Pega essa tarefa.
+[00:21:34:02 --> 00:21:35:26] Escolhe uma tarefa específica para começar aqui.
+[00:21:36:03 --> 00:21:38:11] Reescreva o pedido usando essa estrutura aqui.
+[00:21:38:14 --> 00:21:40:13] Você vai escrever uma vez, montar todo o prompt.
+[00:21:40:17 --> 00:21:42:05] Depois, valida isso com a IA.
+[00:21:42:06 --> 00:21:43:16] Deixa a IA trazer o resultado.
+[00:21:43:16 --> 00:21:45:01] e vai melhorando o que você não gosta.
+[00:21:45:05 --> 00:21:47:07] Não gostei disso aqui, pode ser melhor, não gostei disso aqui.
+[00:21:47:11 --> 00:21:48:21] Aí você vai chegar a primeira vez ali.
+[00:21:48:25 --> 00:21:51:06] Só que imagina ter que passar por esse processo toda vez.
+[00:21:51:15 --> 00:21:52:06] Essa é a graça.
+[00:21:52:08 --> 00:21:54:26] Depois que você passou a primeira, pede ela para gerar estrutura,
+[00:21:54:26 --> 00:21:56:07] consolidado com o aprendizado.
+[00:21:56:14 --> 00:21:59:04] E aí você pode usar isso para todas as descrições que você for criar.
+[00:21:59:08 --> 00:22:02:25] Aqui você pode adicionar uma de cada vez para isolar a variável.
+[00:22:02:27 --> 00:22:03:20] Testa uma de cada vez.
+[00:22:03:23 --> 00:22:04:26] Testa self-consistency.
+[00:22:04:29 --> 00:22:08:18] Testa chaining, que é o cadeia de pensamento, o HOT, chain of thoughts.
+[00:22:08:25 --> 00:22:12:20] Testa o RAG, que é organizar o conteúdo, tratar o dado antes de mandar para a IA.
+[00:22:12:20 --> 00:22:14:02] Use o notebook LIM, por exemplo.
+[00:22:14:03 --> 00:22:15:28] Teste o React, teste o Reflections.
+[00:22:16:00 --> 00:22:19:16] E aí vai vendo qual que resolveu melhor essa tarefa em específico.
+[00:22:19:17 --> 00:22:22:21] Terminou ela, você tem ali um procedimento operacional padrão
+[00:22:22:21 --> 00:22:25:01] para aquele tipo de texto que você estava criando antes.
+[00:22:25:05 --> 00:22:28:11] Isso funciona especialmente bem com empresas que têm processos cíclicos.
+[00:22:28:12 --> 00:22:30:26] Se você vai trabalhar, por exemplo, escrevendo textos,
+[00:22:30:26 --> 00:22:32:16] escrevendo um livro, por exemplo.
+[00:22:32:16 --> 00:22:33:11] Eu quero escrever um livro.
+[00:22:33:14 --> 00:22:34:13] E usar a IA, meu favor.
+[00:22:34:16 --> 00:22:36:23] Você vai usar as ferramentas que nós sugerimos para você
+[00:22:36:23 --> 00:22:39:01] nas aulas anteriores específicas para isso.
+[00:22:39:02 --> 00:22:41:21] Mas você vai treinar a IA com base no seu objetivo.
+[00:22:41:21 --> 00:22:44:15] Vai criar um assistente que é o público que vai ler esse livro.
+[00:22:44:19 --> 00:22:46:09] E aí você sempre joga para ele revisar.
+[00:22:46:12 --> 00:22:48:20] Você vai criar um assistente focado em revisão.
+[00:22:48:22 --> 00:22:52:08] Um assistente focado em pegar a ideia central, a big idea do seu livro.
+[00:22:52:12 --> 00:22:55:07] E sempre que você estiver escrevendo, você joga nele para entender ali o seguinte.
+[00:22:55:16 --> 00:22:58:10] Será que eu estou saindo da linha?
+[00:22:58:14 --> 00:23:00:14] Eu estou mantendo a minha única ideia aqui principal.
+[00:23:00:25 --> 00:23:01:24] Juan, mas como é que faz isso?
+[00:23:01:26 --> 00:23:03:05] Você está jogando essas ideias para mim?
+[00:23:03:07 --> 00:23:04:13] É mais simples do que parece.
+[00:23:04:20 --> 00:23:05:28] Primeiro você tem que estruturar.
+[00:23:05:29 --> 00:23:07:28] Quais são as funções todas que você precisa?
+[00:23:08:04 --> 00:23:11:16] Depois que você estruturou elas, você vai montando isso com a IA por iteração.
+[00:23:11:21 --> 00:23:13:05] igualzinho que eu estou te mostrando aqui.
+[00:23:13:08 --> 00:23:15:11] Se, por exemplo, você precisasse de um assistente
+[00:23:15:11 --> 00:23:16:08] para manter a sua Big Idea,
+[00:23:16:16 --> 00:23:18:13] você vai fazer exatamente isso no chat de GPT.
+[00:23:18:17 --> 00:23:19:13] Você vai falar aqui para ele, olha,
+[00:23:19:15 --> 00:23:23:22] preciso te treinar para ser meu guardião da Big Idea
+[00:23:23:22 --> 00:23:26:16] de um livro que vou começar a escrever.
+[00:23:26:24 --> 00:23:31:01] Vou te treinar para entender meus critérios de avaliação.
+[00:23:31:02 --> 00:23:37:01] Para começar, preciso que você me faça as perguntas essenciais
+[00:23:37:01 --> 00:23:40:09] e vou te trazer as respostas que você precisa
+[00:23:40:09 --> 00:23:45:22] Precisa para ser meu auxiliar que vai me ajudar a manter a linha do meu livro.
+[00:23:45:28 --> 00:23:46:19] Olha o que ele vai fazer.
+[00:23:46:19 --> 00:23:47:22] Ele vai te trazer as perguntas.
+[00:23:47:29 --> 00:23:51:25] Preenche, responde as perguntas ali dos critérios e depois você vai pedir para ele.
+[00:23:51:29 --> 00:23:56:02] Agora estrutura um prompt, uma instrução para que eu treine um assistente de A.
+[00:23:56:07 --> 00:23:57:12] Coloque essas informações nele.
+[00:23:57:15 --> 00:24:00:00] Então aqui ele está trazendo a big idea, uma frase, qual é a ideia central.
+[00:24:00:04 --> 00:24:02:25] Se o leitor esquecesse tudo, qual a única coisa que quer que ele lembre.
+[00:24:02:26 --> 00:24:03:20] São perguntas muito boas.
+[00:24:03:22 --> 00:24:04:26] Olha só, prompt curto.
+[00:24:04:27 --> 00:24:06:20] Mas já iniciou meu processo aqui muito bem.
+[00:24:06:24 --> 00:24:09:06] Depois que você responde tudo isso aqui, vou colocar aqui.
+[00:24:09:06 --> 00:24:12:23] Vamos supor que eu já respondi tudo.
+[00:24:12:29 --> 00:24:15:03] Crie uma simulação.
+[00:24:15:03 --> 00:24:17:23] A partir disso, gere um prompt.
+[00:24:18:01 --> 00:24:18:24] Ou então, vou falar para ele.
+[00:24:19:29 --> 00:24:22:22] Responda todas as perguntas para mim.
+[00:24:22:25 --> 00:24:27:17] O livro é sobre a nova era da criação nexialista.
+[00:24:27:22 --> 00:24:28:23] Beleza, deixa ele responder aqui.
+[00:24:28:27 --> 00:24:31:04] O ideal é que você responda, porque as ideias estão na sua cabeça.
+[00:24:31:05 --> 00:24:32:10] Não está na cabeça da IA, não.
+[00:24:32:12 --> 00:24:34:22] Mas eu vou pedir para ele responder para mim,
+[00:24:34:24 --> 00:24:36:18] porque eu quero só gerar o prompt para você ver.
+[00:24:36:18 --> 00:24:39:20] Então, ele mesmo está fazendo como se ele estivesse escrevendo o livro aqui.
+[00:24:39:22 --> 00:24:41:29] Beleza, deixa ele trazer os pontos, está trazendo o tom.
+[00:24:42:01 --> 00:24:43:24] Ele está decidindo tudo, eu não estou decidindo nada.
+[00:24:43:29 --> 00:24:45:09] Isso aqui significa o quê?
+[00:24:45:11 --> 00:24:47:07] Significa que eu não posso reclamar do resultado no final.
+[00:24:47:10 --> 00:24:48:07] Eu não estou direcionando.
+[00:24:48:10 --> 00:24:49:07] Aí, eu vou falar para ele o seguinte.
+[00:24:49:15 --> 00:24:55:16] Agora, escreva um prompt detalhado, seguindo a estrutura abaixo,
+[00:24:55:16 --> 00:25:00:23] para que eu adicione isso nas instruções de um GPT.
+[00:25:00:26 --> 00:25:04:13] Você vai me ajudar nesse GPT que vamos criar.
+[00:25:04:20 --> 00:25:06:04] Aí, eu vou colocar a estrutura aqui para ele.
+[00:25:06:04 --> 00:25:08:25] ó, solta umas linhazinhas assim só pra quebrar, vou pegar essa
+[00:25:08:25 --> 00:25:11:12] estrutura aqui, você pode seguir ela também, então, papel,
+[00:25:11:18 --> 00:25:14:17] tarefa, contexto, raciocínio, formato e condições, aí vou
+[00:25:14:17 --> 00:25:19:08] colocar aqui ó, papel, tarefa, contexto, raciocínio, formato,
+[00:25:19:10 --> 00:25:22:16] condições, pega essa estrutura toda aqui e pronto, entrego pra
+[00:25:22:16 --> 00:25:24:26] ele. Depois que ele acabar, eu vou clicar nesse botão aqui,
+[00:25:24:28 --> 00:25:28:22] copiar e vou montar o meu assistente de análise de olha
+[00:25:28:22 --> 00:25:31:20] só, simples, tá vendo? Cê pode fazer isso com todos os seus
+[00:25:31:20 --> 00:25:34:01] assistentes, pode fazer isso um assistente pra você que vai
+[00:25:34:01 --> 00:25:35:29] vai focar na revisão do texto, um assistente
+[00:25:35:29 --> 00:25:37:29] que vai focar, que vai ser o seu público,
+[00:25:38:04 --> 00:25:40:01] aí você vai criar a persona ali, aí a gente já falou
+[00:25:40:01 --> 00:25:41:26] disso em outras aulas, mas segue
+[00:25:41:26 --> 00:25:43:29] a mesma estrutura. Aqui ele tá
+[00:25:43:29 --> 00:25:45:28] trazendo o formato final, veredito,
+[00:25:45:28 --> 00:25:47:21] vamos ver se é interessante, veredito, uma, duas linhas,
+[00:25:47:23 --> 00:25:50:11] fortalece, neutra ou dilui a big idea, maravilhoso,
+[00:25:50:14 --> 00:25:51:29] alinhamento com a big idea, três a seis
+[00:25:51:29 --> 00:25:53:23] bullets, riscos, se houver, tom,
+[00:25:53:25 --> 00:25:56:03] clichê, dispersão, excesso de abstração, ajustes
+[00:25:56:03 --> 00:25:58:03] recomendados, reescrita e proposta, próximos
+[00:25:58:03 --> 00:25:59:28] passos. Eu pego isso aqui agora, ó, venho aqui
+[00:25:59:28 --> 00:26:02:05] no GPTs, ó, explorar GPTs,
+[00:26:02:05 --> 00:26:04:13] criar um novo. Dou o nome pra ele, vou chamar ele de
+[00:26:04:13 --> 00:26:08:04] guardião da Big Idea, colo o aqui pra ele, crio o meu
+[00:26:08:04 --> 00:26:09:24] guardião da Big Idea. Agora eu não preciso ficar
+[00:26:09:24 --> 00:26:12:05] reescrevendo esse prompt toda vez. Depois que eu criei ele
+[00:26:12:05 --> 00:26:14:24] aqui, ó, eu venho aqui, beleza? Qualquer pessoa com link e eu
+[00:26:14:24 --> 00:26:16:25] vou conversar com ele, vai aparecer o botão aqui pra mim
+[00:26:16:25 --> 00:26:18:29] depois que ele salvar, pra gente conversar com ele. Claro,
+[00:26:19:02 --> 00:26:22:14] cê pode sempre fazer ajustes aqui que você achar necessário,
+[00:26:22:16 --> 00:26:24:17] mas vamos supor que aquele texto que a gente fez aqui, ó,
+[00:26:24:18 --> 00:26:27:09] das bibliotecas públicas, esse texto aqui eu tô fazendo pra
+[00:26:27:09 --> 00:26:29:14] colocar no livro. Vamos ver todas as incoerências que ele
+[00:26:29:14 --> 00:26:31:29] vai trazer desse texto aqui agora seguindo a estrutura.
+[00:26:31:29 --> 00:26:34:15] Exatamente o padrão, você vai ver que ele vai seguir o que a gente acabou de ler
+[00:26:34:15 --> 00:26:35:08] Veredito, tá vendo?
+[00:26:35:11 --> 00:26:36:09] Fortalece a big idea
+[00:26:36:09 --> 00:26:38:29] O trecho conecta criação, tempo, acaso, democracia e imaginação
+[00:26:38:29 --> 00:26:40:28] Sem cair no tecnotopia e nostalgia
+[00:26:40:28 --> 00:26:43:22] A biblioteca aparece como infraestrutura, exatamente o eixo do livro
+[00:26:43:22 --> 00:26:44:07] Alinhamento
+[00:26:44:07 --> 00:26:45:29] Conecte criação a ambientes
+[00:26:45:29 --> 00:26:48:02] Reforça imaginar, exige tempo
+[00:26:48:02 --> 00:26:49:27] Reforça aqui, imaginar, exige tempo
+[00:26:49:27 --> 00:26:52:01] Trabalhe bem o contraste feed versus mesa
+[00:26:52:01 --> 00:26:53:07] Algoritmo versus acaso
+[00:26:53:07 --> 00:26:54:05] Ruído versus silêncio
+[00:26:54:05 --> 00:26:55:02] Sustente a tese
+[00:26:55:02 --> 00:26:56:03] Aí tem os riscos aqui
+[00:26:56:03 --> 00:26:57:06] Idealização leve
+[00:26:57:06 --> 00:26:58:22] Tom manifesto no final
+[00:26:58:22 --> 00:27:00:15] Falta uma tensão explícita
+[00:27:00:15 --> 00:27:01:29] e está trazendo os pontos para mim.
+[00:27:02:02 --> 00:27:04:20] É claro que aqui quem deu os critérios foi a própria IA
+[00:27:04:20 --> 00:27:06:21] e aí ela está validando ela mesma.
+[00:27:06:25 --> 00:27:08:14] Por isso que eu não gosto de pedir para a IA
+[00:27:08:14 --> 00:27:10:12] responder todas as perguntas ali.
+[00:27:10:15 --> 00:27:11:18] Mas o que eu queria te mostrar aqui
+[00:27:11:18 --> 00:27:14:08] é que ela seguiu exatamente a estrutura que ela propôs.
+[00:27:14:13 --> 00:27:17:20] Trouxe ajustes, riscos, alinhamentos com a brigadia, veredito.
+[00:27:17:23 --> 00:27:20:28] O que eu te recomendo é que se você colocar as suas informações ali,
+[00:27:21:01 --> 00:27:23:28] ela vai começar a responder baseado na sua direção
+[00:27:23:28 --> 00:27:26:28] e não na direção que a própria IA deu para ela mesma aqui.
+[00:27:27:03 --> 00:27:28:21] Então fica até como uma referência
+[00:27:28:21 --> 00:27:30:11] do que é bom você evitar fazer.
+[00:27:30:15 --> 00:27:32:04] Não deixa a IA resolver tudo pra você.
+[00:27:32:07 --> 00:27:34:00] Senão, no final, você vai ter textos genéricos,
+[00:27:34:00 --> 00:27:35:17] comuns, como a própria IA faz.
+[00:27:35:21 --> 00:27:37:17] E aí, você não tem um diferencial.
+[00:27:37:19 --> 00:27:39:08] Você não tem aquilo que envolve as pessoas,
+[00:27:39:10 --> 00:27:40:05] que quebra o padrão.
+[00:27:40:08 --> 00:27:42:06] Lembra, o que faz as pessoas engajarem com algo
+[00:27:42:06 --> 00:27:43:02] é a quebra de padrão.
+[00:27:43:04 --> 00:27:44:24] Elas falaram, opa, isso aqui é bem diferente.
+[00:27:45:03 --> 00:27:46:23] E o que a IA faz de melhor?
+[00:27:46:29 --> 00:27:47:20] Encontrar padrão.
+[00:27:47:22 --> 00:27:49:06] O que a IA faz de melhor
+[00:27:49:06 --> 00:27:51:15] é encontrar estatisticamente o melhor padrão
+[00:27:51:15 --> 00:27:52:00] pra uma resposta.
+[00:27:52:07 --> 00:27:53:05] Então, se você quer engajar,
+[00:27:53:06 --> 00:27:55:11] você precisa fazer a IA ir contra o padrão.
+[00:27:55:12 --> 00:27:57:20] Pra isso, você precisa definir esses critérios pra ela.
+[00:27:57:20 --> 00:27:58:01] Ok?
+[00:27:58:05 --> 00:27:59:15] Isso é o ponto mais importante.
+[00:27:59:29 --> 00:28:01:02] Vamos ficando por aqui então,
+[00:28:01:05 --> 00:28:02:04] em mais essa aula.
+[00:28:02:08 --> 00:28:04:04] Eu espero que você tenha aproveitado,
+[00:28:04:16 --> 00:28:05:19] reveja se precisar,
+[00:28:05:22 --> 00:28:06:13] faça aqui,
+[00:28:06:16 --> 00:28:08:07] pega esses prompts que estão no material,
+[00:28:08:10 --> 00:28:08:27] teste eles,
+[00:28:09:01 --> 00:28:10:14] veja o que eu já te adianto aqui,
+[00:28:10:17 --> 00:28:12:13] você não vai gostar dos resultados ali,
+[00:28:12:16 --> 00:28:14:11] mas eu quero que você olhe para a estrutura por enquanto.
+[00:28:14:17 --> 00:28:15:14] A gente vai falar mais de tom,
+[00:28:15:16 --> 00:28:16:05] de estilo,
+[00:28:16:10 --> 00:28:17:08] nas próximas aulas,
+[00:28:17:09 --> 00:28:18:26] onde a gente vai melhorando esse resultado.
+[00:28:18:27 --> 00:28:20:00] O importante aqui agora,
+[00:28:20:01 --> 00:28:21:04] é você entender que,
+[00:28:21:06 --> 00:28:23:21] você consegue usar esses prompts mais avançados,
+[00:28:23:23 --> 00:28:25:17] para criar estruturas de raciocínio,
+[00:28:25:18 --> 00:28:27:07] mais avançadas para a inteligência artificial.
+[00:28:27:07 --> 00:28:31:18] Lembrando que se você quiser saber mais sobre isso, é só assistir a trilha Estrutura de Promos.
+[00:28:31:18 --> 00:28:33:22] Ela vai casar muito bem com esse módulo aqui.

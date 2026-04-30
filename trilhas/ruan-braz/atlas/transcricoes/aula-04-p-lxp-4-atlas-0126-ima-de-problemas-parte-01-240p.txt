@@ -1,0 +1,555 @@
+# Video: [p]_[lxp]_4._atlas_0126_-imã_de_problemas_parte_01 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-23 11:08
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:01 --> 00:00:02:22] Então, a ideia desse prompt aqui é o que acontece.
+[00:00:03:03 --> 00:00:06:15] Muitas vezes, assim, quando a gente vai criar perfil da art cliente,
+[00:00:06:15 --> 00:00:08:29] quando a gente vai pensar em serviço, produto, mercado,
+[00:00:09:28 --> 00:00:14:03] a gente pega uma dor, um problema e fica enviesado.
+[00:00:14:07 --> 00:00:16:16] Foi até engraçado a aula que a gente falou muito dos vieses,
+[00:00:17:12 --> 00:00:20:22] e a gente começa a tentar encaixar na solução, naquela dor,
+[00:00:21:24 --> 00:00:24:15] começa a tentar basicamente criar o perfil perfeito
+[00:00:24:15 --> 00:00:26:21] para aquela solução que a gente quer vender.
+[00:00:27:07 --> 00:00:28:12] Sendo que normalmente é o oposto.
+[00:00:28:12 --> 00:00:32:28] A gente pensa primeiro, encontra um problema, encontra uma dor e depois a gente cria uma solução para ela.
+[00:00:33:15 --> 00:00:39:04] Então a ideia do prompt é simplesmente separar aquela dor que a gente acha que é uma hipótese,
+[00:00:39:07 --> 00:00:42:27] que dá assunto, e uma dor que move dinheiro e também decisão também.
+[00:00:43:12 --> 00:00:47:27] Então antes de você gastar energia inventando um perfil da cliente, uma oferta, uma mensagem...
+[00:00:49:03 --> 00:00:50:29] consegue rodar esse prompt aqui para te ajudar,
+[00:00:51:01 --> 00:00:52:22] porque ela vai forçar você a fazer três coisas.
+[00:00:53:09 --> 00:00:55:00] A primeira delas é volume,
+[00:00:55:05 --> 00:00:57:07] então vai mapear várias dores, vários problemas
+[00:00:57:07 --> 00:00:59:04] que esse público, esse setor
+[00:00:59:04 --> 00:01:00:24] que você escolheu já tem.
+[00:01:01:09 --> 00:01:02:25] Depois ela vai usar uma linguagem real,
+[00:01:03:06 --> 00:01:05:22] então vai, em vez de explicar de uma forma técnica,
+[00:01:06:00 --> 00:01:07:15] ela vai explicar como que o cliente fala,
+[00:01:07:27 --> 00:01:09:03] não como a gente teoriza
+[00:01:09:03 --> 00:01:11:08] e não aquele discurso já meio copy,
+[00:01:11:11 --> 00:01:13:01] já meio oferta. E por último
+[00:01:13:01 --> 00:01:14:27] vai ter um ranking, então ela vai te dar critério.
+[00:01:15:03 --> 00:01:16:28] Ela vai fazer ranking com sinais de compra
+[00:01:16:28 --> 00:01:18:16] e não com opinião.
+[00:01:19:02 --> 00:01:21:10] Então aqui, só para destrinchar rapidamente o prompt,
+[00:01:21:12 --> 00:01:22:09] para a gente ver ele na prática,
+[00:01:22:11 --> 00:01:24:13] que eu acho que a prática vai ser melhor ainda,
+[00:01:25:12 --> 00:01:27:27] a ideia é atuar como um especialista de mercado,
+[00:01:28:00 --> 00:01:28:29] em pesquisa colectativa,
+[00:01:29:12 --> 00:01:31:27] aqui não é para criar soluções, não é para vender nada,
+[00:01:32:00 --> 00:01:33:28] não é para propor estratégias agora,
+[00:01:34:03 --> 00:01:35:21] é só um prompt exploratório.
+[00:01:36:19 --> 00:01:39:06] Então a ideia é investigar, organizar e priorizar dores reais.
+[00:01:39:29 --> 00:01:42:01] Esses são os únicos inputs que vocês vão trocar,
+[00:01:42:03 --> 00:01:43:27] então a ideia foi justamente para as pessoas
+[00:01:43:27 --> 00:01:46:12] que ainda não têm um perfil ideal de cliente
+[00:01:47:05 --> 00:01:50:09] já correto, já não tem... Só quer investigar um pouquinho melhor o mercado.
+[00:01:50:24 --> 00:01:52:27] Então, o que se pode colocar? Arquitetos que vendem projetos,
+[00:01:53:00 --> 00:01:55:14] ilustradores que atendem marcas, clínicas de estética.
+[00:01:56:04 --> 00:01:58:16] E aqui dá pra colocar o que eles vendem, como ganham dinheiro.
+[00:01:59:03 --> 00:02:03:07] Então, é projetos por contrato, são serviços avulsos, são pacotes mensais.
+[00:02:04:15 --> 00:02:07:12] Aqui a gente vai conseguir depois colocar a suspeita principal,
+[00:02:07:21 --> 00:02:10:11] então a gente já tem algumas suspeitas do nosso público,
+[00:02:10:28 --> 00:02:13:09] do mercado que a gente quer focar.
+[00:02:13:17 --> 00:02:16:03] O Juan escreveu, a gente colocou uma frase curta aqui,
+[00:02:16:07 --> 00:02:17:22] mas nem foi uma frase tão curta assim.
+[00:02:18:01 --> 00:02:21:27] Aí é legal aqui tentar, quanto mais informações você colocar,
+[00:02:21:27 --> 00:02:24:22] mais contextos vocês colocarem, melhores os resultados,
+[00:02:25:01 --> 00:02:26:27] mas dá para você começar com pouca coisa
+[00:02:26:27 --> 00:02:29:27] e depois roda o prompt de novo quando você tiver mais informações.
+[00:02:31:21 --> 00:02:34:02] Então, e por último, que é um contexto opcional,
+[00:02:34:10 --> 00:02:36:24] põe país, região, se é online, se é presencial,
+[00:02:37:04 --> 00:02:38:27] se tiver uma ideia do ticket também desse cliente,
+[00:02:38:27 --> 00:02:41:13] faturamento, quantos funcionários tem, né.
+[00:02:42:00 --> 00:02:44:11] Então, aqui o objetivo é explorar o máximo de dores,
+[00:02:45:03 --> 00:02:47:07] tem algumas regras aqui, depois vocês podem ler, né,
+[00:02:47:07 --> 00:02:50:07] que é sempre focar como o cliente falaria,
+[00:02:50:10 --> 00:02:53:01] usar uma linguagem simples, focar em situações reais, né.
+[00:02:53:15 --> 00:02:55:12] E aqui as etapas são assim, primeiro,
+[00:02:55:19 --> 00:02:59:01] é as suposições, então, as suposições que você vai colocar das dores,
+[00:02:59:01 --> 00:03:02:06] E aí ele vai fazer uma observação, o que foi informado por nós,
+[00:03:02:23 --> 00:03:06:07] as hipóteses que ele vai presumir para avançar e o que ele não sabe.
+[00:03:07:01 --> 00:03:08:27] Quando rodar o Pronto, vai ficar um pouquinho mais claro.
+[00:03:09:11 --> 00:03:12:18] E aí depois ele vai escolher um foco para a gente evitar generalizações.
+[00:03:12:22 --> 00:03:17:19] Então aqui ele já vai entregar mais ou menos algumas ideias de mercados
+[00:03:17:19 --> 00:03:21:28] onde essa hipótese que a gente colocou, essa dor é lá um pouco mais urgente.
+[00:03:22:12 --> 00:03:25:03] E aí vai para a parte mais interessante, que é o mapa de dores.
+[00:03:25:03 --> 00:03:29:12] Então aqui ele vai listar dores em várias caixas diferentes, são seis a dez dores,
+[00:03:29:22 --> 00:03:35:07] o formato de uma frase curta, e depois falar qual o tipo de dor que ela é, se é emocional, financeira ou mista.
+[00:03:35:18 --> 00:03:39:12] E as caixas são assim, é uma dor que envolve dinheiro, então é margem, preço,
+[00:03:39:24 --> 00:03:43:27] depois é uma dor que envolve em vendas, conversão, negociação, depois a operação,
+[00:03:44:06 --> 00:03:49:13] então é entrega, retrabalho, qualidade pro time, depois é o cliente, então as expectativas do cliente,
+[00:03:49:19 --> 00:03:54:27] escopo, conflitos, aprovação, depois é dor de mercado e concorrência, então comparação por preço,
+[00:03:54:27 --> 00:03:57:03] os concorrentes estão ganhando mais contratos do que eu, né.
+[00:03:57:16 --> 00:04:00:20] E por último, é o dono decisor, que aqui é basicamente aquilo,
+[00:04:01:07 --> 00:04:04:11] eu acho que vai aparecer muito nessa hipótese que a gente está criando,
+[00:04:05:21 --> 00:04:09:28] de marcas pessoais, né, que tudo, muita coisa fica concentrada no dono.
+[00:04:10:09 --> 00:04:14:21] O dono tem que fazer, tem um gargalo, o gargalo do negócio muitas vezes é o dono.
+[00:04:14:25 --> 00:04:16:19] Então aqui não é pra julgar, não é pra priorizar,
+[00:04:16:22 --> 00:04:20:14] é só pra gente ter, sem muito critério, várias dores diferentes,
+[00:04:20:26 --> 00:04:21:28] e depois ele vai mapear.
+[00:04:22:07 --> 00:04:23:07] Aí aqui é o primeiro checkpoint.
+[00:04:23:29 --> 00:04:26:07] Então, você vai poder editar a lista ao seguir.
+[00:04:27:05 --> 00:04:31:03] Depois ele vai juntar todas essas dores e criar algumas dores candidatas.
+[00:04:31:19 --> 00:04:36:03] Então aqui a gente vai pegar, em vez de ter dores, as vezes essas dores fazem parte
+[00:04:36:03 --> 00:04:36:22] de um grupo só.
+[00:04:36:26 --> 00:04:41:07] Então aqui ela vai agrupar essas dores e mostrar, olha, tem essas 15 dores principais
+[00:04:41:07 --> 00:04:43:16] aqui que fazem parte basicamente do mesmo grupo.
+[00:04:44:03 --> 00:04:47:12] Depois que a gente agrupou, aqui também vocês podem ajustar a lista se vocês acham
+[00:04:47:12 --> 00:04:49:15] que não está faltando, está faltando alguma coisa.
+[00:04:50:01 --> 00:04:51:21] Depois que agrupou a gente vai para o ranking.
+[00:04:51:21 --> 00:04:53:22] Essa eu acho que é a parte mais importante.
+[00:04:54:24 --> 00:04:58:25] Que a gente entender, tem dores que elas são...
+[00:04:58:25 --> 00:05:00:21] Que você resolve uma vez, ela nunca mais aparece.
+[00:05:01:03 --> 00:05:02:18] Então é uma dor que não tem muita recorrência.
+[00:05:02:29 --> 00:05:06:01] Tem dores que não são muito verbalizadas, então ela é mais interna.
+[00:05:06:08 --> 00:05:08:09] Tem dores, às vezes, que ela não é no dono que aparece.
+[00:05:08:13 --> 00:05:10:17] Não é na pessoa que tem a decisão da compra.
+[00:05:11:03 --> 00:05:12:28] Então é uma dor que, às vezes, o time sente,
+[00:05:13:00 --> 00:05:15:00] mas a pessoa que vai decidir comprar de você
+[00:05:15:00 --> 00:05:18:07] não vai ver muito valor, porque ela não está sentindo isso.
+[00:05:18:07 --> 00:05:24:05] Então, aqui são critérios que a gente criou aqui. V, F, cifrão, U e R.
+[00:05:24:09 --> 00:05:27:06] Então, eles verbalizam isso. Então, isso é externalizado.
+[00:05:27:27 --> 00:05:31:16] Acontece com frequência. Impacta dinheiro em até 90 dias?
+[00:05:32:00 --> 00:05:33:22] Existe urgência percebida agora?
+[00:05:34:18 --> 00:05:37:14] Ou seja, o pessoal vai comprar já ou vai esperar daqui meses, né?
+[00:05:37:14 --> 00:05:41:04] Você vai apresentar uma proposta lá, legal, é realmente uma dor que existe, mas não tem urgência.
+[00:05:41:06 --> 00:05:43:04] Então, você vai vender muito tempo depois.
+[00:05:43:27 --> 00:05:46:09] Mexe com o ego, status ou identidade.
+[00:05:46:09 --> 00:05:49:03] Isso aqui é bem importante, principalmente quando a gente está falando de empreendedores,
+[00:05:49:19 --> 00:05:52:12] de serviços, marcas pessoais, infoprodutores também.
+[00:05:52:21 --> 00:05:56:09] Quando o conteúdo cai na mão de outras pessoas, às vezes ele começa a crescer,
+[00:05:56:12 --> 00:06:01:09] é importante que eles consigam ter esse critério de qualidade.
+[00:06:01:25 --> 00:06:03:16] E por último, é recorrente ou vira padrão.
+[00:06:03:19 --> 00:06:06:11] Ou, por exemplo, você vendeu o serviço uma vez, resolveu a dor,
+[00:06:06:24 --> 00:06:08:10] a pessoa nunca mais vai comprar de você.
+[00:06:08:19 --> 00:06:13:00] Seu LTV ali, que é o lifetime value, é quanto que você pode ganhar com esse cliente,
+[00:06:13:00 --> 00:06:16:28] quanto valor você pode trazer para esse cliente em um ciclo de vendas, assim.
+[00:06:17:16 --> 00:06:19:15] Ele é muito baixo, então não tem recorrência.
+[00:06:19:27 --> 00:06:24:19] Ele vai criar uma tabela e depois ele vai te dar aqui, aprofundar a assador.
+[00:06:24:25 --> 00:06:29:06] Ele vai criar uma tabela, dá pontos, com base nesses critérios.
+[00:06:29:12 --> 00:06:31:06] E aí depois a gente vai poder aprofundar a assador.
+[00:06:31:15 --> 00:06:33:22] Então, quando chegar na etapa 4, a gente explica,
+[00:06:33:27 --> 00:06:36:00] acho que agora dá para rodar o prompt já, Juan,
+[00:06:36:18 --> 00:06:40:15] que daí o pessoal vê na prática como isso vai funcionar.
+[00:06:40:19 --> 00:06:41:03] Pode ser?
+[00:06:41:03 --> 00:06:47:03] Um detalhe aqui, muito bom, eu pedi para o Vinic contar para a gente aqui a estrutura,
+[00:06:47:07 --> 00:06:51:09] para vocês já conhecerem um pouquinho do que a gente criou, antes de mandar o link
+[00:06:51:09 --> 00:06:56:07] para vocês, porque eu sei que já teria a gente já apressada, querendo mandar, calma,
+[00:06:56:15 --> 00:06:57:13] primeiro entendão, né?
+[00:06:57:24 --> 00:07:04:11] Eu mandei para vocês aí agora o link do documento, tá aqui no nosso chat, maravilhoso,
+[00:07:04:13 --> 00:07:09:25] nunca senti tanta falta de um chat, tá ali para vocês o link do doc, vocês conseguem
+[00:07:09:25 --> 00:07:16:07] entrar e aí vocês vão conseguir visualizar o prompt, tá? Eu vou compartilhar aqui agora,
+[00:07:16:17 --> 00:07:21:29] dentro disso que o Vinny trouxe, e aí vocês vão conseguir ver. Cristina, tá em cima, cara?
+[00:07:22:01 --> 00:07:24:17] Cristina comentou. Aonde? Aí o comentário tá em cima.
+[00:07:25:27 --> 00:07:28:19] Em cima do seu comentário, não tá aparecendo aí pra você?
+[00:07:30:24 --> 00:07:32:28] Não tá aparecendo o link pra mim, que bizarro, cara.
+[00:07:32:28 --> 00:07:37:11] Você mandou só pra hosts, agora que eu vi ele.
+[00:07:38:10 --> 00:07:40:00] Que loucura, eu vou mandar aqui.
+[00:07:40:18 --> 00:07:43:09] Agora eu vi onde que tá, tem um todos, ó.
+[00:07:43:11 --> 00:07:43:23] Isso.
+[00:07:44:27 --> 00:07:48:13] Pessoal, tá o link, eu tô assim, cadê, a galera tá falando e não tá vendo, não
+[00:07:48:13 --> 00:07:48:24] é possível.
+[00:07:49:15 --> 00:07:51:16] É escondido, mas tava só pra hosts.
+[00:07:52:18 --> 00:07:54:09] Vocês conseguem entrar no link.
+[00:07:54:16 --> 00:07:57:12] Eu vou pedir pra equipe mandar esse link lá no nosso...
+[00:07:58:10 --> 00:08:04:12] no nosso WhatsApp também, do grupo do Atlas, porque aí a gente consegue...
+[00:08:05:27 --> 00:08:07:26] Curioso, só não tô vendo vocês entrando, né?
+[00:08:08:02 --> 00:08:10:18] Vocês estão falando que agora deu certo, mas não tá aparecendo vocês aqui pra mim.
+[00:08:11:24 --> 00:08:20:04] Eu acho que o Rafael compartilhou 86 pessoas, compartilhou o do prompt só, não...
+[00:08:20:04 --> 00:08:22:03] Não, não, peraí pessoal.
+[00:08:22:13 --> 00:08:25:22] Calma, calma, calma aí.
+[00:08:26:01 --> 00:08:27:18] Deixa que eu faço, por isso que eu ia fazer.
+[00:08:28:13 --> 00:08:32:01] Aqui, peguem o link que eu vou mandar no chat aí pra vocês agora.
+[00:08:33:29 --> 00:08:34:15] Accio!
+[00:08:36:08 --> 00:08:45:04] Esse aqui é o link central, link central para acompanhar a criação do estúdio.
+[00:08:45:14 --> 00:08:45:29] Ah, esse vai ter tudo.
+[00:08:45:29 --> 00:08:49:02] Nesse aqui vocês vão conseguir ir acompanhar junto comigo.
+[00:08:50:08 --> 00:08:55:18] pra gente ir construindo. Tudo o que a gente for decidindo eu vou colocando aqui.
+[00:08:55:21 --> 00:08:58:21] Aí vocês podem ir copiando, montando de vocês.
+[00:08:59:00 --> 00:08:59:10] Beleza?
+[00:09:00:19 --> 00:09:03:09] Eu não tinha feito isso ainda, que eu queria trazer.
+[00:09:04:16 --> 00:09:05:15] Não, eles não vão editar, não.
+[00:09:06:10 --> 00:09:12:02] Não vou ser, porque às vezes quando tem muita gente ao mesmo tempo no documento,
+[00:09:12:05 --> 00:09:14:29] até apareceu aqui, algumas ferramentas podem ficar indisponíveis.
+[00:09:15:23 --> 00:09:17:27] Vamos testar, vamos ver se acontecer isso.
+[00:09:19:11 --> 00:09:20:23] Total, acho que vai funcionar bem.
+[00:09:23:04 --> 00:09:26:12] Eu acho que a última coisa antes de rodar o prompt que eu queria falar,
+[00:09:26:17 --> 00:09:28:29] deixa eu até parar de compartilhar aqui,
+[00:09:29:03 --> 00:09:30:09] que daí você já consegue ver o seu,
+[00:09:31:07 --> 00:09:32:23] é que uma coisa que é importante falar,
+[00:09:32:29 --> 00:09:34:18] o que esse prompt não vai fazer,
+[00:09:34:26 --> 00:09:37:13] ele não vai criar um ICP para você,
+[00:09:37:14 --> 00:09:39:05] não vai criar um perfil ideal de cliente para você,
+[00:09:39:14 --> 00:09:41:09] ele não vai criar oferta, não vai criar copy,
+[00:09:41:14 --> 00:09:42:20] ele não vai resolver o problema,
+[00:09:42:23 --> 00:09:44:02] opa, ele platina na minha microfone,
+[00:09:44:15 --> 00:09:45:16] ele não vai resolver o problema,
+[00:09:45:19 --> 00:09:49:02] a única coisa que ele vai te ajudar é entender aonde dói
+[00:09:49:02 --> 00:09:51:16] naquele tipo de cliente que a gente está tentando encontrar.
+[00:09:52:03 --> 00:09:55:25] Então ele vai organizar essas dores e vai organizar as dores que têm mais chance de
+[00:09:55:25 --> 00:09:56:21] virar urgência e compra.
+[00:09:57:05 --> 00:10:01:00] Então não peguem simplesmente as respostas desses prompts e já, não, já tem um perfil
+[00:10:01:00 --> 00:10:01:17] ideal de cliente.
+[00:10:01:17 --> 00:10:05:02] São hipóteses e a ideia é a gente explorar para depois a gente vai mostrar como que
+[00:10:05:02 --> 00:10:05:23] vai criar isso.
+[00:10:06:02 --> 00:10:08:06] Como criar um perfil ideal mesmo validado com vocês.
+[00:10:08:09 --> 00:10:11:14] Eu vou pegar o prompt aqui que o Vini acabou de explicar para vocês.
+[00:10:11:26 --> 00:10:17:14] Vou dar um control A nele, abrir meu chat GPT, colar aqui e dar enter.
+[00:10:19:14 --> 00:10:22:24] Beleza, então jogamos nosso super prompt aqui.
+[00:10:23:04 --> 00:10:25:06] Uma coisa legal sobre isso que eu sempre falo é...
+[00:10:26:01 --> 00:10:31:07] Hoje em dia você enriquece não só com dinheiro, você enriquece também com instruções bem definidas.
+[00:10:31:15 --> 00:10:36:20] Ao invés de ficar comprando prompt dos outros, criar seus próprios prompts é um novo tipo de enriquecer.
+[00:10:36:26 --> 00:10:38:10] Enriquecer em trabalho.
+[00:10:39:05 --> 00:10:43:21] Porque você usa o seu dinheiro para contratar pessoas, agora você pode usar instruções,
+[00:10:43:29 --> 00:10:48:10] processos bem definidos, sua própria infraestrutura para poder conseguir trabalho das IAAS.
+[00:10:48:16 --> 00:10:53:00] Ou seja, crie sua biblioteca de prompts pessoal, sua biblioteca própria.
+[00:10:53:05 --> 00:10:55:10] Isso é um tipo de investimento em você.
+[00:10:55:10 --> 00:10:59:05] pela suas instruções. Imagine que a IA pode fazer qualquer coisa.
+[00:10:59:13 --> 00:11:03:04] É bom que você saiba como instruir e pedir para ela, mesmo que ela saiba fazer qualquer coisa.
+[00:11:03:06 --> 00:11:05:10] Se você não sabe pedir, não adianta nada.
+[00:11:05:23 --> 00:11:09:01] Então vamos dar uma olhada aqui nos resultados que nós conseguimos.
+[00:11:09:17 --> 00:11:12:21] Etapa 0. Suposições aqui então do Chat EPT.
+[00:11:12:25 --> 00:11:14:28] Você descreveu prestadores de serviços e profissionais,
+[00:11:14:29 --> 00:11:17:18] negócios que crescem via autoridade e conteúdo.
+[00:11:17:21 --> 00:11:19:19] O mercado ficou mais competitivo e acelerado.
+[00:11:19:21 --> 00:11:21:24] O risco central é escala sem qualidade.
+[00:11:22:09 --> 00:11:23:14] Virar a reputação queimada.
+[00:11:23:14 --> 00:11:26:16] Existe uma aposta invisível, beleza, se a gente já falou é isso mesmo.
+[00:11:27:01 --> 00:11:32:06] Hipóteses, vou assumir que a maior, vou assumir que a maioria vende serviços de ticket médio,
+[00:11:32:08 --> 00:11:33:20] de 2 a 30 mil.
+[00:11:33:27 --> 00:11:36:04] Aí eu vou fazer um exercício aqui com vocês, tá?
+[00:11:36:04 --> 00:11:41:25] Muito poderoso de definição de mercado, que eu gostaria de ter feito de manhã, mas
+[00:11:41:25 --> 00:11:42:21] passou voando, né?
+[00:11:42:22 --> 00:11:43:19] Vocês sentiram isso também?
+[00:11:44:16 --> 00:11:47:24] Depende de indicação, conteúdo para demanda e tem funil pouco previsível.
+[00:11:47:25 --> 00:11:51:21] Vou assumir também que já usam o IA de algum jeito, porque a gente tem esses
+[00:11:51:21 --> 00:11:56:17] dados, 80%, 63%, a gente falou disso de manhã.
+[00:11:56:24 --> 00:11:59:21] Mesmo que meio bagunçado e publicam com frequência.
+[00:12:00:01 --> 00:12:03:21] Hipóteses, mais aqui, vou assumir que existe pelo menos uma pessoa cuidando da produção,
+[00:12:03:29 --> 00:12:08:11] dona ou social media, e que a operação sofre com prazos curtos, aprovações e retrabate.
+[00:12:08:25 --> 00:12:14:07] O que eu não sei, o canal principal, isso aqui que é bom do prompt, ele já te entrega
+[00:12:14:07 --> 00:12:18:11] aqui também, ele não te ilude, ele mostra o que está faltando, ele mostra
+[00:12:18:11 --> 00:12:22:11] que ele está assumindo ao invés de simplesmente te falar que algo é verdade.
+[00:12:22:24 --> 00:12:24:29] Isso aqui vem quando o prompt é bem escrito.
+[00:12:25:26 --> 00:12:29:09] Não sei ainda o canal principal, Instagram, YouTube, LinkedIn, TikTok, isso aqui a gente
+[00:12:29:09 --> 00:12:30:09] vai falar disso depois.
+[00:12:30:20 --> 00:12:35:09] O tipo de serviço, agência, clínica, escritório, creator, o nível de maturidade,
+[00:12:35:20 --> 00:12:40:16] o ticket e margem e se ainda, não, e se há time interno ou rede de freelancers.
+[00:12:40:25 --> 00:12:43:23] Isso muda muito as dores, concordo 100%.
+[00:12:43:23 --> 00:12:47:27] O que ele também não sabe é o nível de exposição pública do dono e o quanto
+[00:12:47:27 --> 00:12:52:05] que o negócio é dependente do torno. Isso também é uma dor forte, mas ele não sabe,
+[00:12:52:14 --> 00:12:57:01] porque a gente criou um público bem amplo para ele. Foco padrão escolhido, times pequenos
+[00:12:57:01 --> 00:13:03:19] de 2 a 10 pessoas para evitar generalizações e porque é o mais comum nessa fase. O que
+[00:13:03:19 --> 00:13:08:03] que acontece? Ele trouxe essas suposições, eu quero ler as dores dele, mas eu vou dar
+[00:13:08:03 --> 00:13:12:06] um conselho para vocês que eu gosto de fazer, principalmente quando eu tenho mais
+[00:13:12:06 --> 00:13:17:07] tempo. Aqui é hardcore, eu tenho que ir muito expresso com vocês, mas eu vou
+[00:13:17:07 --> 00:13:22:15] um conselho aqui que vale ouro. Vou abrir uma outra conversa e aí presta muita atenção
+[00:13:22:15 --> 00:13:26:24] nisso aqui, isso aqui é para definição de mercado. E eu vou fazer o seguinte, eu vou
+[00:13:26:24 --> 00:13:29:21] escrever aqui, eu posso até colocar aqui pra vocês.
+[00:13:32:23 --> 00:13:33:16] Pronto.
+[00:13:33:25 --> 00:13:35:21] Tan, san, som.
+[00:13:36:22 --> 00:13:41:29] Relaxa que eu vou explicar isso, vou colocar dentro aqui do contexto de mercado, vou só
+[00:13:41:29 --> 00:13:43:19] escrever o título dele aqui.
+[00:13:45:01 --> 00:13:46:01] Pra gente, beleza!
+[00:13:47:09 --> 00:13:53:29] O que que é Tanzansong? Não sei se vocês já sabem, mas isso aqui são tamanhos de mercados.
+[00:13:54:07 --> 00:13:58:12] E basicamente, quando nós vamos fazer uma análise de mercado, para entender se tem demanda,
+[00:13:58:12 --> 00:14:03:29] para entender se é uma boa aposta, nós sempre, aqui na Overlens, nas metodologias que eu ensino,
+[00:14:04:19 --> 00:14:09:10] eu recomendo sempre fazer uma análise de três tipos de mercados diferentes.
+[00:14:09:25 --> 00:14:13:04] Que é o mercado total, o mercado endereçável e o mercado obtível.
+[00:14:13:04 --> 00:14:14:26] que são esses três aqui.
+[00:14:15:09 --> 00:14:19:05] Os termos em inglês podem assustar muitas pessoas,
+[00:14:19:11 --> 00:14:21:15] mas no final o que você precisa saber é total.
+[00:14:24:09 --> 00:14:28:21] indereçável, você tem potencial de alcançar e obtível.
+[00:14:29:18 --> 00:14:29:24] FUN!
+[00:14:31:01 --> 00:14:33:28] E se eu esquecer? Se você esquecer, você vai vir aqui no Google e editar
+[00:14:33:28 --> 00:14:36:24] Tan, San, Son, Pukyair. A gente está na era da IA, né?
+[00:14:37:21 --> 00:14:40:20] Não vai me dizer que você vai deixar de avançar porque você não sabe qual que é um termo.
+[00:14:41:10 --> 00:14:44:15] Então, métricas de planejamento estratégico, aqui ó, vou dar um zoom para vocês.
+[00:14:45:05 --> 00:14:48:17] Usadas para calcular o tamanho de mercado de um negócio.
+[00:14:48:29 --> 00:14:50:20] Essenciais para startups e investidores.
+[00:14:51:03 --> 00:14:54:07] Elas definem o potencial de receita dividindo em
+[00:14:54:07 --> 00:14:55:29] Tan, mercado total,
+[00:14:56:19 --> 00:14:58:13] San, mercado endereçável,
+[00:14:58:13 --> 00:15:03:27] mercado e som, mercado acessível, ou às vezes é chamado de mercado obtível também.
+[00:15:04:09 --> 00:15:08:08] Se você quiser saber os termos corretos, é só colocar assim que você vai ver o termo certo.
+[00:15:09:18 --> 00:15:18:09] Total addressable market. Serviceable available market. Serviceable, né?
+[00:15:18:24 --> 00:15:21:06] Minha pronúncia é maravilhosa. Obtended...
+[00:15:24:05 --> 00:15:29:08] Então, são os três tamanhos de mercado, vocês podem fazer uma análise assim também?
+[00:15:29:11 --> 00:15:30:26] Vamos pegar aqui nos nossos rabiscos.
+[00:15:31:29 --> 00:15:35:09] que visualmente vocês não vão esquecer nunca mais.
+[00:15:36:02 --> 00:15:37:03] É mais ou menos isso aqui.
+[00:15:39:24 --> 00:15:44:00] Aí... aí nós colocamos aqui... som...
+[00:15:45:14 --> 00:15:46:00] São
+[00:15:47:16 --> 00:15:48:08] Então...
+[00:15:51:10 --> 00:15:56:28] Isso aqui é muito importante para vocês entenderem também que muitas vezes um mercado total não vai
+[00:15:56:28 --> 00:16:01:21] ser o mercado que você vai atingir, que vai querer comprar de você, tem total relação com essas dores
+[00:16:01:21 --> 00:16:06:20] que nós vamos ver aqui. Nós não fizemos o TAM, então eu já vou só mostrar rápido o processo para
+[00:16:06:20 --> 00:16:10:25] vocês aqui, que é muito bom, que é o quê? Você vai vir aqui, vou escrever aqui primeiro,
+[00:16:11:10 --> 00:16:15:25] vai escrever assim para o chat GPT, você vai colocar para ele. Preciso...
+[00:16:17:11 --> 00:16:25:18] Preciso que você faça uma busca aprofundada em torno do tan-san-son.
+[00:16:27:26 --> 00:16:33:12] do mercado de... aí eu vou pegar, já tá pronto, né? Uma vez que você criou, você pode pegar aqui,
+[00:16:33:18 --> 00:16:34:29] vou só resumir pra ele.
+[00:16:36:03 --> 00:16:42:29] prestadores de serviço, agências, e criadores de conteúdo, barra, marcas pessoais.
+[00:16:44:09 --> 00:16:45:11] Se possuem...
+[00:16:46:07 --> 00:16:48:16] uma marca pessoal, deixar desse jeito.
+[00:16:50:12 --> 00:16:52:11] Pronto, aí eu vou colocar aqui para ele.
+[00:16:52:21 --> 00:16:59:23] Passo uma busca pelo mercado global, já na ditan, o mercado...
+[00:17:02:19 --> 00:17:06:18] brasileiro. Ainda vou chamar de tan. Ainda em tan.
+[00:17:07:21 --> 00:17:08:16] Então...
+[00:17:10:06 --> 00:17:15:15] o mercado brasileiro. Aqui eu vou focar no mercado brasileiro, poderia ser internacional
+[00:17:15:15 --> 00:17:17:03] também ou...
+[00:17:18:04 --> 00:17:20:02] Na verdade, a gente não tem nada a perder, né?
+[00:17:20:22 --> 00:17:21:19] Que dá pra gente inovar.
+[00:17:21:22 --> 00:17:24:07] Na verdade, tem um detalhe aqui, que é um dilema,
+[00:17:24:09 --> 00:17:26:05] que eu tô querendo direcionar pra vocês.
+[00:17:26:20 --> 00:17:28:16] Depende muito de onde você vai atuar.
+[00:17:28:25 --> 00:17:30:05] Se você tem mais experiência,
+[00:17:30:17 --> 00:17:32:07] você já pode fazer um trans-sansão global
+[00:17:32:07 --> 00:17:34:22] e modelar as melhores práticas no mundo,
+[00:17:35:04 --> 00:17:36:23] adaptando elas pra cultura brasileira.
+[00:17:37:01 --> 00:17:38:14] Mas isso é pra quem já tem experiência.
+[00:17:38:22 --> 00:17:40:08] Se você não tem experiência ainda,
+[00:17:40:08 --> 00:17:42:03] o que eu recomendo é você seguir desse jeito
+[00:17:42:03 --> 00:17:43:10] que eu tô escrevendo aqui, tá bom?
+[00:17:43:21 --> 00:17:45:17] Foca no mercado brasileiro pra você começar.
+[00:17:45:17 --> 00:17:49:24] Poderia focar até no mercado local, mas com a internet, com as nossas escolhas,
+[00:17:49:29 --> 00:17:50:19] isso aqui é suficiente.
+[00:17:51:04 --> 00:17:56:11] E então, o mercado brasileiro endereçável, vou chamar aqui Sun.
+[00:17:57:15 --> 00:17:58:07] E o...
+[00:17:59:22 --> 00:18:07:20] o mercado obtível para o seguinte negócio, apontado abaixo.
+[00:18:07:28 --> 00:18:09:21] Aí aqui embaixo você vai colocar...
+[00:18:11:03 --> 00:18:16:28] obtível, né? Obtível. Aqui embaixo você vai colocar uma pequena descrição do seu
+[00:18:16:28 --> 00:18:20:22] modelo de negócio. Aqui, como a gente ainda tem poucas informações, depois a gente pode
+[00:18:20:22 --> 00:18:23:23] ir e voltar, eu vou colocar o seguinte, eu vou colocar assim.
+[00:18:26:00 --> 00:18:30:19] É... um estúdio de criação, um estúdio de criação.
+[00:18:31:26 --> 00:18:34:16] Preparado para as mudanças?
+[00:18:36:00 --> 00:18:46:09] no mercado causadas pelo impacto da tecnologia, principalmente das inteligências artificiais.
+[00:18:46:21 --> 00:18:51:19] Entenda o contexto abaixo, aí eu vou pegar aqui o contexto que a gente já explicou.
+[00:18:52:24 --> 00:18:57:05] Peguei esse contexto todo aqui, não vou pegar essa parte aqui de mercado.
+[00:18:58:09 --> 00:19:01:07] e vou usar ele no nosso prompt aqui.
+[00:19:02:13 --> 00:19:02:25] Pronto.
+[00:19:03:00 --> 00:19:03:19] Aí o que eu vou fazer?
+[00:19:03:20 --> 00:19:08:05] Vou deixar rodando aqui pra gente por enquanto, não era pra eu fazer isso agora, mas vocês
+[00:19:08:05 --> 00:19:09:04] vão ver se funcionando bem.
+[00:19:09:05 --> 00:19:10:29] Vou tirar esse título, beleza?
+[00:19:11:09 --> 00:19:12:16] E aí eu vou fazer uma coisa importante.
+[00:19:12:17 --> 00:19:16:29] Se você tem assinatura de uma IA paga, pode ser o Gemini também que é muito bom,
+[00:19:17:18 --> 00:19:23:28] mas eu recomendo que você use o investigar aqui, investigação, que a gente vai conseguir
+[00:19:23:28 --> 00:19:27:08] dados muito mais profundos e bem mais valiosos.
+[00:19:27:08 --> 00:19:31:19] Ele vai buscar sites, não vou colocar nada específico aqui não, deixa desse jeito,
+[00:19:32:06 --> 00:19:32:25] roda pra gente.
+[00:19:33:05 --> 00:19:35:01] Aí a gente pode voltar para as dores lá.
+[00:19:35:17 --> 00:19:39:10] Ele vai só perguntar se eu posso começar, ele vai me dar um resumo aqui do que ele
+[00:19:39:10 --> 00:19:39:21] vai fazer.
+[00:19:43:02 --> 00:19:47:04] Aí, então ele vai mapear definições e métricas relevantes para o Trans-Sansung,
+[00:19:47:07 --> 00:19:50:05] coletar dados globais sobre prestadores de serviços e creators,
+[00:19:50:22 --> 00:19:53:24] reunir dados específicos do Brasil para o mercado total e endereçável,
+[00:19:54:03 --> 00:19:57:17] estimar Sun e Sun para um estúdio considerando a adoção de A,
+[00:19:57:28 --> 00:20:01:23] sintetizar resultados com fontes, premissas e recomendações estratégicas.
+[00:20:02:05 --> 00:20:06:06] Maravilha, aqui ele vai começar em 30 segundos, mas eu já vou pedir para ele
+[00:20:06:06 --> 00:20:08:03] começar para a gente aqui. Prontinho.
+[00:20:08:06 --> 00:20:10:12] Agora a gente deixa ele assando aqui no forno.
+[00:20:10:16 --> 00:20:11:22] Vamos voltar para cá então.
+[00:20:11:22 --> 00:20:17:08] Primeira etapa que o prompt do Vini fez para a gente, mapa de dores, sem julgamento, ele
+[00:20:17:08 --> 00:20:23:25] só saiu jogando as dores aqui que ele considera mais relevantes dentro dessas hipóteses aqui,
+[00:20:23:29 --> 00:20:27:17] dentro desse contexto aqui que ainda falta informações para ele.
+[00:20:28:10 --> 00:20:33:24] Então, dinheiro, dor, eu trabalho muito e o caixa continua apertado, meu conteúdo
+[00:20:33:24 --> 00:20:36:21] até traz gente, mas não vira contrato.
+[00:20:36:28 --> 00:20:40:14] Esses dois realmente eu gostei das duas primeiras que ele trouxe aqui, por conhecer
+[00:20:40:14 --> 00:20:44:25] esse mercado também. Mas às vezes você vai ficar naquela dúvida, é mercado novo para mim.
+[00:20:45:09 --> 00:20:51:05] Inclusive uma dica, pegue um mercado que você tem alguma informação já sobre ele e vai facilitar
+[00:20:51:05 --> 00:20:56:22] para você ter os seus primeiros resultados, mas resultados mais expressivos. A gente entrega
+[00:20:56:22 --> 00:21:01:22] demais e a margem some, tem mês que entra muito, eu não consigo cobrar mais porque
+[00:21:01:22 --> 00:21:04:22] sempre tem alguém mais barato.
+[00:21:06:00 --> 00:21:10:21] Eu gasto com ferramenta e assinatura e não sei o que realmente vale.
+[00:21:11:11 --> 00:21:15:02] Quando dá ruim, não me entrega, eu pago prejuízo para não manchar o nome.
+[00:21:16:21 --> 00:21:19:10] A gente vende projetos, mas o custo real estoura no meio.
+[00:21:20:07 --> 00:21:22:15] Aí vem vendas, minha agenda depende do meu humor.
+[00:21:24:01 --> 00:21:25:22] Eu tenho vergonha de fazer follow-up,
+[00:21:25:26 --> 00:21:28:19] chega ali de errado, várias dores que ele está trazendo.
+[00:21:29:11 --> 00:21:32:06] Produz muito e mesmo assim parece que está sempre atrasado,
+[00:21:32:10 --> 00:21:33:03] são dores boas.
+[00:21:33:09 --> 00:21:37:03] Aqui ele só está listando as principais que tem lá no prompt.
+[00:21:38:12 --> 00:21:42:06] Dinheiro, vendas, operação, cliente.
+[00:21:42:10 --> 00:21:43:25] Então, ele criou as categorias aqui.
+[00:21:44:03 --> 00:21:46:26] Mercado, parece que todo mundo virou especialista do dia para noite.
+[00:21:47:12 --> 00:21:49:16] Até muitos de vocês vão se identificar com isso aqui,
+[00:21:49:21 --> 00:21:52:13] porque vocês também são prestadores de serviço, lembrem-se disso.
+[00:21:53:08 --> 00:21:55:00] Então, é uma dor compartilhada.
+[00:21:55:15 --> 00:21:59:06] Sinto que eu tô sempre correndo e nunca chegando, eu tenho medo de escalar e perder o controle,
+[00:21:59:19 --> 00:22:03:15] ao problema que a gente falou mais cedo de reputação, não confio 100% no time pra
+[00:22:03:15 --> 00:22:04:13] falar em meu nome.
+[00:22:06:00 --> 00:22:07:17] E aí vem aqui o checkpoint que...
+[00:22:07:17 --> 00:22:10:03] A gente mirou naquele público e acertou na gente, cara.
+[00:22:10:10 --> 00:22:10:24] O que é isso?
+[00:22:11:02 --> 00:22:14:23] É, mas a maioria que tá aqui são prestadores de serviço também, né?
+[00:22:15:20 --> 00:22:17:21] Esse é o grande ponto, tô compartilhado.
+[00:22:18:05 --> 00:22:20:03] Aí agora ele tá perguntando, olha, próximo passo,
+[00:22:20:09 --> 00:22:22:26] checkpoint, que é seguir, editar, mudar.
+[00:22:23:08 --> 00:22:25:05] O que você considera que a gente pode fazer aqui, Vini?
+[00:22:28:08 --> 00:22:32:20] Eu acredito que dá para continuar, assim, se tem alguma dor que você acha que não apareceu aí,
+[00:22:32:23 --> 00:22:35:20] que a gente tinha pensado antes, que apareceu reputação aí já.
+[00:22:37:21 --> 00:22:41:14] Eu acredito que, por ser um MVP, a gente focar nas mais fortes é bom.
+[00:22:41:28 --> 00:22:44:00] Eu gostei do que eu li aqui, fez sentido.
+[00:22:44:15 --> 00:22:47:12] Depois a gente pode cruzar isso com essa pesquisa que tá rolando aqui, ó.
+[00:22:48:14 --> 00:22:51:21] para ver o que que a IA vai trazer para a gente, mas eu gostei, eu gostei desse sponsor aqui.
+[00:22:51:22 --> 00:22:56:11] Se você continuar, ele vai agrupar elas agora, então aí a gente vai poder ter um outro filtro
+[00:22:56:11 --> 00:23:00:13] com menos dores e ali acho que é mais fácil a gente, olha, ele vai limpar e transformá-la.
+[00:23:01:07 --> 00:23:07:20] Total. Aí vem etapa dois, dores candidatas agrupadas, trabalhar muito e sobrar pouco,
+[00:23:07:24 --> 00:23:12:12] aí ele categorizou aqui já, dois, conteúdo que não vira contrato, ou seja, conteúdo que
+[00:23:12:12 --> 00:23:19:02] que não gera venda, que não gera receita, margem sumindo nos projetos, receita imprevisível todo mês,
+[00:23:19:18 --> 00:23:23:04] ser comparado com o Iabarata, produzir muito e ainda atrasar.
+[00:23:23:09 --> 00:23:28:10] Vocês estão se identificando aí também? Qualidade caindo quando escala, dono virando gargalo de tudo,
+[00:23:28:24 --> 00:23:31:29] retrabalho constante, escopo que cresce sem pagar.
+[00:23:33:06 --> 00:23:37:24] medo de queimar a reputação online, dificuldade de se diferenciar no meio da multidão,
+[00:23:38:03 --> 00:23:42:18] dependência total de aparecer para vender, vergonha do próprio conteúdo, cansaço mental.
+[00:23:44:18 --> 00:23:47:03] Olha aí, o Davi falou, parece que tá falando de mim.
+[00:23:47:07 --> 00:23:50:29] Cara, isso que vocês estão sentindo é o que os clientes de vocês vão sentir também.
+[00:23:52:17 --> 00:23:56:00] A galera está impressionada com o prompt que vocês não viram que vem a seguir, né?
+[00:23:56:03 --> 00:23:57:18] Mas vamos seguir aqui, ó.
+[00:23:57:26 --> 00:23:58:00] Bora!
+[00:23:59:02 --> 00:24:01:07] Vou colocar um de novo, gostei da lista.
+[00:24:02:00 --> 00:24:02:18] Podemos seguir.
+[00:24:03:21 --> 00:24:07:13] Agora ele vai separar na tabela aqui as dores em categorias.
+[00:24:07:20 --> 00:24:08:18] Conta pra gente aí, Vini.
+[00:24:08:18 --> 00:24:08:21] E aí
+[00:24:13:17 --> 00:24:18:14] Dá para vocês verem, ele vai fazer essa tabela, ele vai somar a pontuação.
+[00:24:18:21 --> 00:24:23:15] A pontuação mais alta que tem é 30, então a gente já viu que tem 28 ali, né?
+[00:24:23:25 --> 00:24:28:21] Mas o V é verbalizar, quantas vezes ele verbaliza isso em voz alta, o F é a frequência,
+[00:24:28:27 --> 00:24:30:20] mais uma vez recapitulando que é cada uma coisa.
+[00:24:31:10 --> 00:24:38:06] O cifrão ali é o quanto isso dói no bolso, U é urgência, se ele vai querer comprar
+[00:24:38:06 --> 00:24:39:01] agora ou depois.
+[00:24:40:13 --> 00:24:48:07] O E também é uma questão mais da questão da equipe também, se ele é escalar, se aumentar a equipe,
+[00:24:49:03 --> 00:24:54:04] essa dor vai aumentar e o R é recorrência, quantas vezes isso aparece e se dá para vender mais de uma vez.
+[00:24:55:02 --> 00:25:01:08] Aí a dúvida da galera, né? A galera falou de onde vem esses números, na verdade isso é um ranking, de 1 a 5, tá?
+[00:25:01:20 --> 00:25:08:07] Então a IA tá pegando cada dor e ela está categorizando de 1 a 5, ela tá colocando uma nota de 1 a 5.
+[00:25:08:07 --> 00:25:13:01] Em cada um desses critérios que a gente colocou no prompt e no final ela soma esses valores
+[00:25:13:01 --> 00:25:14:04] aqui para ter um total.
+[00:25:14:15 --> 00:25:15:28] O total máximo é 30.
+[00:25:17:13 --> 00:25:22:11] Então, o que a gente pode ver aqui é trabalhar muito e sobrar pouco, cara, clássico, né?
+[00:25:22:29 --> 00:25:25:01] Então, esse aqui é uma dor 28 de 30.
+[00:25:25:12 --> 00:25:29:14] Conteúdo que não vira contrato, conteúdo que não gera venda, também é um clássico.
+[00:25:29:22 --> 00:25:33:26] A gente tem aqui também receita imprevisível todo mês, é um outro ponto.
+[00:25:34:09 --> 00:25:38:11] Aqui nós temos também dono virando gargalo de tudo, outro ponto importante.
+[00:25:38:29 --> 00:25:42:29] Medo de queimar reputação, estou pegando os maiores aqui do lado, e são esses.
+[00:25:42:29 --> 00:25:48:11] O de queimar a reputação é um clássico também, tá? Nota 28 aqui de 30 e a gente tinha comentado um
+[00:25:48:11 --> 00:25:52:18] pouco dele, é onde eu tô querendo bater mais na tecla junto com vocês aqui, beleza?
+[00:25:52:21 --> 00:25:58:28] Só uma coisa, Juan, que eu tenho que corrigir. Eu falei de escala, mas é do ego, na verdade. O E. O E é do E no ego.
+[00:26:00:09 --> 00:26:01:19] Aqui é o web dele.
+[00:26:04:06 --> 00:26:08:01] Aí o Marcos falou, mas a IA está pegando do banco de dados dela?
+[00:26:08:18 --> 00:26:12:18] Não Marcos, inclusive quem quiser aprender mais sobre IA, eu recomendo as trilhas da Overlens,
+[00:26:12:21 --> 00:26:14:00] depois vocês podem conferir, tá?
+[00:26:14:00 --> 00:26:15:10] Que eu explico como que ela funciona.
+[00:26:15:22 --> 00:26:18:22] Isso é que ela realmente pensou, como uma IA, né?
+[00:26:19:06 --> 00:26:24:20] Ela teve um processo de pensamento dela, em que ela classificou de 1 a 5 o que ela
+[00:26:24:20 --> 00:26:27:19] considera que essa dor é em cada critério.
+[00:26:27:28 --> 00:26:32:10] Eu não vou entrar nessa aula aqui agora, mas aqui ó, pra vocês conferirem, duas
+[00:26:32:10 --> 00:26:35:27] coisas legais, né? Dentro da plataforma da Overlens, tem essa aba Materiais, que quem
+[00:26:35:27 --> 00:26:42:09] assina consegue já pegar esses prompts aqui. Prompt, Prospect, Prompt, Lead Magnet, Venda
+[00:26:42:09 --> 00:26:46:03] Consultiva, Guia de Validação e Perfidao de Cliente, várias outras ferramentas aqui
+[00:26:46:03 --> 00:26:52:10] também, a gente vai acabar usando mais algumas. E aqui dentro de trilha, vocês têm a trilha
+[00:26:52:10 --> 00:26:56:05] Next Gen, que é a aula que estava dando no almoço, era essa. E tem aqui também
+[00:26:56:05 --> 00:27:00:23] AI First e Estrutura de Prompt, tá? Aí vocês conseguem conferir ali, depois
+[00:27:00:23 --> 00:27:02:08] se quiserem aprender mais sobre isso.
+[00:27:02:15 --> 00:27:05:29] Aqui está no forninho ainda e a gente vai seguindo adiante.
+[00:27:07:11 --> 00:27:12:17] Então vamos lá, classificação prática, dor falada, conteúdo que não vira contrato,
+[00:27:12:21 --> 00:27:16:19] receita imprevisível, dono virando gargalo, trabalho muito e sobra pouco.
+[00:27:17:03 --> 00:27:21:20] Isso aqui, bater nessa tecla é clássico, dor sentida, afeta, mas nem sempre verbaliza,
+[00:27:22:00 --> 00:27:26:23] qualidade caindo, medo de queimar reputação, cansaço mental, vergonha do próprio conteúdo
+[00:27:26:23 --> 00:27:32:05] e dor que vira compra, a dor mais forte, trabalhar muito e sobrar pouco, conteúdo
+[00:27:32:05 --> 00:27:36:17] que não vira contrato, receita imprevisível, dono virando gargalo, medo de queimar reputação.
+[00:27:36:17 --> 00:27:42:29] isso aqui é o nosso ouro. Já vou começar a colocar aqui pra gente no nosso ímã de problemas, lembra?
+[00:27:43:10 --> 00:27:51:21] Vou começar colocando aqui pra gente quais são os clássicos dores mais fortes, porque aqui a gente
+[00:27:51:21 --> 00:27:56:18] vai começar a sintetizar. Inclusive, uma coisa que eu gosto muito de fazer é pegar isso aqui
+[00:27:56:18 --> 00:28:02:09] e pedir pra própria Alva, abrir uma outra aqui, falar qual é o seguinte. Reescreva...
+[00:28:03:06 --> 00:28:05:29] Escreva essa tese de...
+[00:28:07:11 --> 00:28:09:00] IMA DE PROBLEMAS
+[00:28:10:14 --> 00:28:14:16] Reescreva essa tese em um único parágrafo.
+[00:28:15:26 --> 00:28:22:07] apontando, explicando o momento atual deste mercado.
+[00:28:22:22 --> 00:28:26:28] Aí ele estava muito meio solto, né, que o nosso raciocínio humano ele é paralelo e
+[00:28:26:28 --> 00:28:28:27] às vezes ele vai só acontecendo, eu vou registrando.
+[00:28:29:17 --> 00:28:35:21] Aí eu coloco aqui, prestadores de serviços, vou pegar esse conteúdo aqui, vou puxar ele
+[00:28:35:21 --> 00:28:38:00] aqui pra cima e vou só formatar.
+[00:28:38:02 --> 00:28:43:26] Prestadores de serviços de diferentes áreas, como agências, saúde, laboratórios,
+[00:28:43:26 --> 00:28:48:12] de Cricas, Contabilidade, Advocacia e Engenharia, assim como criadores de conteúdo, marcas
+[00:28:48:12 --> 00:28:52:13] pessoais, infoprodutores e instituições de educação disputam o espaço em um mercado
+[00:28:52:13 --> 00:28:56:04] dominado pela economia da atenção, onde audiência se tornou o principal ativo.
+[00:28:56:13 --> 00:28:59:13] Nesse cenário não basta apenas oferecer um bom serviço, é essencial conseguir
+[00:28:59:13 --> 00:29:03:05] atrair o público certo e ser visto de forma estratégica, o que torna a produção
+[00:29:03:05 --> 00:29:05:15] de conteúdo uma necessidade e não mais uma opção.
+[00:29:05:22 --> 00:29:08:22] A grande tendência é a construção de autoridade online, pois o ambiente digital
+[00:29:08:22 --> 00:29:12:13] é atualmente o meio mais rápido, acessível e eficiente para alcançar pessoas, gerar
+[00:29:12:13 --> 00:29:17:04] confiança e qualificar a audiência, transformando a visibilidade em oportunidade de rede de negócio.
+[00:29:17:14 --> 00:29:22:08] Aí eu posso tirar isso aqui e a partir de agora eu vou usar, olha só, resumido aqui,
+[00:29:22:13 --> 00:29:26:17] bem formatado, as informações que nós precisamos. Eu posso pedir para ele,
+[00:29:26:17 --> 00:29:34:25] inclusive, falar o seguinte. Notei que precisamos explicar demais o público. Como podemos sintetizar...
+[00:29:36:29 --> 00:29:39:06] Como podemos chamar este público?
+[00:29:39:11 --> 00:29:40:22] Por enquanto, eu estou chamando de público,
+[00:29:40:26 --> 00:29:45:03] depois a gente vai reduzir isso ainda mais aqui no ICP, tá?
+[00:29:45:21 --> 00:29:49:04] Negócios baseados em autoridades, profissionais e marcas que vivem de atenção.
+[00:29:49:17 --> 00:29:51:16] Empresas especialistas da economia digital.
+[00:29:51:25 --> 00:29:52:22] Aqui eu gostei, ó.
+[00:29:53:12 --> 00:29:55:19] Isso aqui eu gostei, já vou pegar aqui.
+[00:29:56:02 --> 00:29:57:20] A gente está em ímã de problemas ainda,
+[00:29:57:24 --> 00:30:00:01] mas eu vou colocar essa frase aqui só porque
+[00:30:00:01 --> 00:30:03:14] agora eu vou começar a usar esse termo aqui, beleza?
+[00:30:03:14 --> 00:30:11:12] Por enquanto, aqui a gente ainda está apontando os principais problemas, depois vocês vão ver, a gente vai voltar para aqui mais vezes.
+[00:30:11:21 --> 00:30:17:22] Eu vou até pegar aqui e vou criar uma aba chamada Prompt, para a gente organizar melhor.
+[00:30:19:17 --> 00:30:22:04] Esse aqui é o prompt de image problemas.
+[00:30:24:22 --> 00:30:29:01] IMAG PROBLEMES, a gente coloca ele aqui e tem o prompt do Tanzanson, vou deixar aqui.
+[00:30:29:06 --> 00:30:30:21] Beleza? Vai ficar mais organizadinho.
+[00:30:31:00 --> 00:30:34:12] Agora nosso IMAG PROBLEMES está aqui, a gente pode avançar por aqui.
+[00:30:34:27 --> 00:30:38:11] TOP 3, desempate por dinheiro e urgência.
+[00:30:38:18 --> 00:30:42:06] Trabalhar muito e sobrar pouco, receita imprevisível todo mês,
+[00:30:42:16 --> 00:30:43:25] medo de queimar a reputação online.
+[00:30:44:04 --> 00:30:46:01] Concordo com os três? Você concorda ou discorda, Vino?
+[00:30:47:03 --> 00:30:56:08] Concordo? Não tem muito como tentar argumentar contra essas três aí, porque a gente meio que já mapeou elas antes também.
+[00:30:56:28 --> 00:30:58:26] As nossas hipóteses assim estão...
+[00:30:59:23 --> 00:31:01:09] Acho que estão batendo com isso.
+[00:31:02:05 --> 00:31:05:06] Exato. Eu vou tirar essa pontuação aqui que ela vai perder contexto.
+[00:31:06:16 --> 00:31:09:14] Reparem que tem um monte, isso aqui é muito legal falar com vocês,
+[00:31:09:17 --> 00:31:13:12] a galera usa IA hoje em dia muito errado porque o pessoal vai pegando
+[00:31:13:12 --> 00:31:17:04] esse tanto de informação só copiando tudo e colando em documentos
+[00:31:17:04 --> 00:31:19:26] e aí você não consegue ter controle das informações.
+[00:31:20:05 --> 00:31:22:14] E depois você joga um monte de coisa que a IA não precisa.
+[00:31:22:27 --> 00:31:28:08] Eu gosto de organizar aqui, eu gosto de organizar aqui em pequenas abas
+[00:31:28:08 --> 00:31:31:23] Porque depois a gente vai voltar só nas informações que nós precisamos.
+[00:31:32:02 --> 00:31:34:20] Por enquanto, eu tô criando essa documentação, que vocês vão ver,
+[00:31:34:26 --> 00:31:36:14] cada vez mais a gente vai jogando isso na IA,
+[00:31:36:24 --> 00:31:39:21] e o negócio vai ficando muito preciso para o que a gente precisa.
+[00:31:40:12 --> 00:31:41:25] Preciso para o que a gente precisa, né?
+[00:31:42:12 --> 00:31:45:27] Então, para quem, às vezes, igual a Roberta,
+[00:31:45:27 --> 00:31:47:26] ficou na dúvida ali e gostaria de saber,
+[00:31:48:00 --> 00:31:49:14] o que a gente fez aqui é o seguinte.
+[00:31:50:08 --> 00:31:52:15] Estamos mapeando as dores mais fortes
+[00:31:52:15 --> 00:31:55:14] do mercado que nós selecionamos, de manhã.
+[00:31:55:21 --> 00:31:58:00] A gente mapeou eles aqui, ó, com o texto e o mercado,
+[00:31:58:00 --> 00:32:00:03] nós mapeamos esses, lembra?
+[00:32:00:15 --> 00:32:03:06] E aí nós escolhemos prestadores de serviço e criadores de conteúdo
+[00:32:03:06 --> 00:32:07:12] que estão vivendo essa grande mudança do mercado com inteligência artificial.
+[00:32:07:20 --> 00:32:10:07] Ou seja, nosso estúdio de criação que a gente está criando aqui hoje,
+[00:32:10:13 --> 00:32:11:26] ele é focado nesse público.
+[00:32:12:07 --> 00:32:13:16] O que eu fiz aqui então...
+[00:32:14:14 --> 00:32:19:29] Pegaram o IMAGE PROBLEMAS e aí eu coloquei aqui ó, vou até facilitar mais ainda pra escanear.
+[00:32:20:10 --> 00:32:21:04] Quem tem...
+[00:32:21:29 --> 00:32:25:08] estes problemas. E vou colocar aqui.
+[00:32:26:10 --> 00:32:32:00] Esta sessão é um...
+[00:32:33:13 --> 00:32:39:06] Pequeno compilado das principais dores do...
+[00:32:40:25 --> 00:32:41:26] do público?
+[00:32:44:21 --> 00:32:45:03] Tá?
+[00:32:46:11 --> 00:32:48:22] Vou colocar aqui do estúdio.
+[00:32:50:10 --> 00:32:53:02] Criação, estamos, escrutura.
+[00:32:54:11 --> 00:32:58:15] Quem tem esses problemas? Agora a gente já tem aqui quem tem o problema.
+[00:32:58:21 --> 00:33:01:03] Posso até deixar aqui o mais sintetizado possível.
+[00:33:02:02 --> 00:33:04:19] Gosto de fazer desse jeito porque aí fica bem claro.
+[00:33:04:29 --> 00:33:06:24] Empresas especialistas da economia digital.
+[00:33:07:11 --> 00:33:10:12] Aí aqui tem uma descrição deles. Dores mais fortes.
+[00:33:10:17 --> 00:33:13:23] Trabalha muito, sobra pouco. Vamos já aproveitar aqui
+[00:33:14:11 --> 00:33:15:25] e fazer essa.
+[00:33:18:19 --> 00:33:21:25] formatação. Maravilha, então a gente já pegou as três maiores dores, vocês vão ver para que
+[00:33:21:25 --> 00:33:25:03] que isso aqui vai servir, para a copy dos anúncios que a gente vai fazer, para a página que a gente
+[00:33:25:03 --> 00:33:29:24] vai criar, até mesmo para reforçar o mercado que a gente vai mais a fundo aqui agora.

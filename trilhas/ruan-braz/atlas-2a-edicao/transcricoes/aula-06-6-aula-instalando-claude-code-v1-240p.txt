@@ -1,0 +1,377 @@
+# Video: 6._aula_-_instalando__claude_code_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-25 00:47
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:00 --> 00:00:04:02] Nesse vídeo eu vou te mostrar como instalar o Cloud Code no seu computador via terminal.
+[00:00:04:13 --> 00:00:08:04] Vai ser um vídeo bem rápido, direto ao ponto, mas que mostra algumas dependências
+[00:00:08:04 --> 00:00:12:06] para quem não é da área, não é desenvolvedor, não sabe como configurar.
+[00:00:12:14 --> 00:00:15:08] Eu fiz um vídeo aqui também, vou deixar o card aqui para você,
+[00:00:15:11 --> 00:00:19:25] em que eu explico a diferença entre utilizar as inteligências artificiais no seu navegador,
+[00:00:19:26 --> 00:00:21:29] seja o Cloud, o ChatGPT ou o Gemini,
+[00:00:22:04 --> 00:00:25:03] versus utilizar ela no terminal do seu computador.
+[00:00:25:07 --> 00:00:29:26] Quais são as principais diferenças de uso de cada uma delas
+[00:00:29:26 --> 00:00:31:22] para você entender quando utilizar cada uma.
+[00:00:31:24 --> 00:00:35:08] Tem uma diferença brutal se você realmente quer estar na vanguarda
+[00:00:35:08 --> 00:00:39:07] utilizando as inteligências artificiais agênticas para criar para você,
+[00:00:39:10 --> 00:00:42:23] colocar elas dentro do terminal do seu computador vai ser muito importante.
+[00:00:43:02 --> 00:00:46:04] Então, nesse vídeo eu explico para você a diferença entre elas
+[00:00:46:04 --> 00:00:51:23] e aqui agora eu vou te mostrar como instalar o Cloud Code no terminal do seu computador.
+[00:00:51:26 --> 00:00:53:02] Então vamos lá, sem mais delongas.
+[00:00:53:02 --> 00:00:56:10] Se você não me conhece, meu nome é Juan Braz, eu sou CEO e fundador da Overlens,
+[00:00:56:14 --> 00:00:58:22] um ecossistema de negócios criativos.
+[00:00:58:22 --> 00:01:02:08] Nós temos uma plataforma que te ensina como criar com a inteligência artificial,
+[00:01:02:14 --> 00:01:05:11] mas também indo além, te ensinando os fundamentos da criação.
+[00:01:05:15 --> 00:01:07:20] Se você quiser saber mais, o link está aqui na descrição.
+[00:01:07:28 --> 00:01:09:25] Toca aqui que tem muita coisa legal para você.
+[00:01:10:01 --> 00:01:12:10] Vamos lá então. Coloquei aqui na nossa tela.
+[00:01:12:21 --> 00:01:15:12] Eu inclusive tive que colocar aqui uma máquina virtual,
+[00:01:15:18 --> 00:01:18:11] onde eu deixei o Windows 10 mesmo limpinho
+[00:01:18:11 --> 00:01:22:25] para eu poder mostrar para vocês algumas dependências aqui na hora de instalar o Cloud Code,
+[00:01:23:00 --> 00:01:26:26] que pode ser um pouquinho diferente para computadores que já têm essas dependências ou não.
+[00:01:26:26 --> 00:01:35:22] Antes de instalar o Cloud Code no seu computador, é muito importante que você instale duas ferramentas que são importantes para o funcionamento correto do Cloud.
+[00:01:35:28 --> 00:01:43:09] No Windows, ele vai te pedir para instalar apenas o Git e no Mac, ele também pede para instalar o Node.js.
+[00:01:43:16 --> 00:01:49:25] Se você quiser entender também o que é Node.js, o que é Git, vou deixar aqui embaixo um pequeno guia para você,
+[00:01:49:28 --> 00:01:53:15] porque o meu objetivo aqui é ser bem direto para você e te mostrar como instalar.
+[00:01:53:20 --> 00:01:56:23] Eu vou direto ao ponto então, sem ficar muito em teoria, tá bom?
+[00:01:56:26 --> 00:01:58:07] Então o que a gente vai fazer aqui?
+[00:01:58:08 --> 00:02:02:16] Eu estou com esse Windows aqui completamente zerado.
+[00:02:02:16 --> 00:02:05:16] Tanto que no caso aqui eu vou ter que utilizar o Edge.
+[00:02:05:21 --> 00:02:07:27] Não tem nem o Chrome aqui não.
+[00:02:08:10 --> 00:02:11:04] Então eu estou dentro do Google aqui.
+[00:02:12:19 --> 00:02:16:29] O que eu vou fazer aqui agora é digitar aqui para a gente Git, G-I-T.
+[00:02:17:06 --> 00:02:21:23] Então é muito importante que você instale o Git aí no seu sistema operacional,
+[00:02:21:26 --> 00:02:24:10] se você quiser que o Cloud funcione da melhor maneira.
+[00:02:24:17 --> 00:02:28:06] Eu vou clicar aqui em instalar para Windows, se você estiver no Mac ou no Linux,
+[00:02:28:08 --> 00:02:30:04] você vai clicar no botão que está aí para instalar.
+[00:02:30:10 --> 00:02:32:26] Aqui tem separadinho nas tabs para você.
+[00:02:33:02 --> 00:02:37:07] No meu caso aqui eu vou colocar para fazer o download desse x64 aqui.
+[00:02:37:12 --> 00:02:40:14] Posso pegar essa última versão aqui também, não tem problema nenhum não.
+[00:02:40:24 --> 00:02:42:10] Está fazendo o download para a gente.
+[00:02:43:16 --> 00:02:45:02] Beleza, clico aqui agora
+[00:02:45:02 --> 00:02:46:23] Pra gente instalar ele
+[00:02:46:23 --> 00:02:47:21] Dou um sim
+[00:02:49:07 --> 00:02:54:01] Aí eu sei que todo mundo lê os termos de uso aqui, sei que você vai ler tudo certinho, é uma prática comum.
+[00:02:54:10 --> 00:02:56:08] Eu não conheço alguém que não faça isso, né?
+[00:02:57:07 --> 00:02:58:26] Vou avançar aqui para a gente agora.
+[00:02:59:07 --> 00:03:01:02] Clico aqui em avançar de novo no Git.
+[00:03:01:16 --> 00:03:05:24] Aqui eu vou deixar esses marcados mesmos, não precisa mudar nada nesse ponto.
+[00:03:06:01 --> 00:03:07:18] Aqui pode deixar Git também.
+[00:03:08:04 --> 00:03:14:01] Aqui, se você estiver no Windows, você vai selecionar a opção WordPad, que já é padrão.
+[00:03:14:01 --> 00:03:16:13] Qualquer um desses daqui, na verdade, The Full Editor.
+[00:03:16:13 --> 00:03:18:08] editor. Default, default, default, default.
+[00:03:18:16 --> 00:03:20:01] Vai funcionar, tá bom?
+[00:03:20:04 --> 00:03:22:13] Aqui é só o editor de texto do terminal
+[00:03:22:13 --> 00:03:23:29] do Git. A gente não vai usar
+[00:03:23:29 --> 00:03:26:04] o Git Bash aqui direto na
+[00:03:26:04 --> 00:03:28:07] interface, mas você pode colocar
+[00:03:28:07 --> 00:03:30:07] aí qualquer um desses que já vem padrão,
+[00:03:30:07 --> 00:03:32:07] senão você vai ter que instalar outro programa
+[00:03:32:07 --> 00:03:34:03] depois, mas tanto faz no geral aqui.
+[00:03:34:05 --> 00:03:35:12] Vou deixar dessa maneira.
+[00:03:35:24 --> 00:03:38:03] Aqui em Let Git Decide, pode deixar
+[00:03:38:03 --> 00:03:39:26] desse jeito mesmo. Na verdade...
+[00:03:41:06 --> 00:03:48:26] Nessa tela aqui eu recomendo você colocar aqui main, é um padrão já, hoje já virou um consenso utilizar main ao invés de master.
+[00:03:48:27 --> 00:03:57:24] Na hora em que você está versionando o seu projeto, tem o que é chamado de branch, não vou entrar, como eu disse tem um link aqui embaixo para você entender melhor o que é esse Git, tá?
+[00:03:57:27 --> 00:04:01:11] Se quiser estudar um pouquinho mais, mas eu recomendo deixar aqui em main mesmo, beleza?
+[00:04:01:27 --> 00:04:05:26] Aqui você pode deixar no recomendado, tá tranquilo, pode só avançar.
+[00:04:05:26 --> 00:04:10:24] Aqui também pode deixar no padrão, esse Bundled Open SSH.
+[00:04:11:06 --> 00:04:14:01] Aqui também pode deixar em Windows Security Channel Library.
+[00:04:14:19 --> 00:04:18:14] Aqui também pode deixar em Windows Style, não precisa se preocupar com isso.
+[00:04:18:16 --> 00:04:20:01] Aqui também pode deixar nesse MinTT.
+[00:04:20:29 --> 00:04:23:03] Nesse aqui pode deixar Fast Forward ou Merge.
+[00:04:23:10 --> 00:04:25:18] Aqui pode deixar em Credential Manager.
+[00:04:25:29 --> 00:04:29:17] Aqui você vai deixar habilitado dessa forma também, só avançar.
+[00:04:29:18 --> 00:04:34:00] Prontinho, a gente vai instalar aqui agora o Git, só esperar ele terminar e a gente já volta.
+[00:04:34:02 --> 00:04:35:13] Enquanto isso, musiquinha de elevador.
+[00:04:46:18 --> 00:04:49:12] Prontinho. Não precisa colocar para rodar o Git, tá?
+[00:04:49:14 --> 00:04:53:16] Quem vai utilizar essa ferramenta aqui, no caso, é a inteligência artificial por você,
+[00:04:53:16 --> 00:04:55:16] mas tem que deixar isso instalado, beleza?
+[00:04:55:23 --> 00:04:58:18] Não vou colocar aqui Release Nodes também, é só finalizar.
+[00:04:58:28 --> 00:05:01:29] Esse foi o primeiro passo, está instalado tudo funcionando.
+[00:05:02:04 --> 00:05:07:06] Outra ferramenta que eu recomendo você instalar também para utilizar o Cloud Code da melhor maneira é o Node.
+[00:05:07:13 --> 00:05:09:14] Então, você vai digitar aqui N-O-D-E.
+[00:05:09:20 --> 00:05:12:15] Eu vou até entrar no Google de novo, lembrando que eu estou no Edge.
+[00:05:12:20 --> 00:05:16:09] Você vai digitar aqui, ó, N-O-D-E.js, beleza?
+[00:05:16:09 --> 00:05:21:18] Esse primeiro link aqui, verdinho, desse hexágono verdinho aqui, ou cubo, como você achar melhor.
+[00:05:22:08 --> 00:05:26:02] Acesso aqui o Node, então, clico em baixar Node.js.
+[00:05:26:21 --> 00:05:32:25] Aqui embaixo, você vai colocar nesse link aqui, instaladorwindows.msi, se você está no Windows.
+[00:05:33:00 --> 00:05:35:19] No Mac, vai aparecer aí para você o instalador do Mac também.
+[00:05:35:25 --> 00:05:37:29] Então, eu clico aqui para poder baixar.
+[00:05:38:19 --> 00:05:40:08] Espera ele baixar aqui para a gente.
+[00:05:40:21 --> 00:05:42:14] Prontinho, vou clicar aqui para poder abrir.
+[00:05:43:00 --> 00:05:44:07] Já abriu a instalação.
+[00:05:44:07 --> 00:05:47:12] Clico aqui em Next, clico em Aceitar, do mesmo jeito, né?
+[00:05:47:15 --> 00:05:49:04] Sei que você vai ler tudo aí certinho.
+[00:05:49:10 --> 00:05:52:16] Aí você vai dar um Next aqui, clica em Next de novo.
+[00:05:52:19 --> 00:05:55:28] Aqui pode deixar aqui em Node.js Runtime.
+[00:05:56:12 --> 00:05:59:06] Aqui não precisa marcar também, tá tranquilo.
+[00:06:00:13 --> 00:06:00:27] Instalar.
+[00:06:02:02 --> 00:06:02:17] Clico em sim.
+[00:06:09:01 --> 00:06:11:06] Prontinho. Agora está instalado.
+[00:06:11:07 --> 00:06:16:01] Agora nós temos aqui o ambiente pronto para poder instalar o nosso Cloud Code.
+[00:06:16:09 --> 00:06:21:13] Então, vou voltar aqui no Google e agora eu vou digitar aqui Cloud Code.
+[00:06:22:03 --> 00:06:28:02] Quando eu digitar aqui, vocês vão ver que eu tenho aqui o Cloud Code Biantropic, posso acessar aqui.
+[00:06:28:05 --> 00:06:33:20] Não acesse esse de baixo aqui, cloud.l, acesse esse daqui, do produto, AI Coding.
+[00:06:35:15 --> 00:06:38:24] Você vai cair nessa página aqui, que é a página oficial do Cloud Code,
+[00:06:39:00 --> 00:06:42:20] e nós temos aqui o command que nós podemos colocar no nosso terminal.
+[00:06:42:25 --> 00:06:44:12] Mas o que eu vou recomendar para você?
+[00:06:45:01 --> 00:06:48:05] Recomendo que você clique nesse link aqui de baixo, Documentation.
+[00:06:49:15 --> 00:06:57:04] Dentro desse link aqui, você tem uma página explicando exatamente como fazer a instalação do Cloud Code via terminal no seu computador.
+[00:06:57:09 --> 00:07:00:23] No caso aqui, a gente vai trabalhar com ele no Windows.
+[00:07:00:27 --> 00:07:04:09] Se você estiver no Mac, você vai copiar esse comando aqui.
+[00:07:04:11 --> 00:07:09:20] Se você estiver no Windows, você pode tanto usar o Windows PowerShell quanto o Windows CMD.
+[00:07:10:01 --> 00:07:14:13] Existe um probleminha de path quando você coloca o Windows CMD.
+[00:07:14:13 --> 00:07:22:04] Eu vou acessar aqui então via Windows CMD para te mostrar qual é esse probleminha, caso aconteça com você, mas pode ser pelo PowerShell também.
+[00:07:22:09 --> 00:07:24:06] Então vou clicar aqui em copiar.
+[00:07:24:10 --> 00:07:28:17] O que a gente vai fazer agora pode ser um pouquinho estranho para algumas pessoas, mas é muito fácil, tá?
+[00:07:28:24 --> 00:07:30:25] Nós vamos voltar aqui para a área de trabalho.
+[00:07:33:26 --> 00:07:36:06] Aqui na área de trabalho, eu vou apertar Windows R.
+[00:07:36:12 --> 00:07:40:09] Eu vou fazer isso aqui para já executar como administrador, tá?
+[00:07:40:20 --> 00:07:47:02] Então, eu vou digitar aqui CMD e ele vai abrir o terminal para mim aqui do CMD.
+[00:07:47:03 --> 00:07:48:20] O CMD é um terminal mais antigo.
+[00:07:48:20 --> 00:07:55:05] Se você quiser, você também pode apertar assim Windows R e digitar aqui, ao invés de CMD, PowerShell.
+[00:07:55:12 --> 00:07:58:29] Ele vai abrir aqui o terminal mais atual do Windows.
+[00:07:58:29 --> 00:08:04:29] A questão é que se você abrir ele no PowerShell, você vai copiar esse link de cima.
+[00:08:05:11 --> 00:08:10:21] Costuma funcionar mais fácil quando você utiliza o PowerShell, mas você pode tentar os dois.
+[00:08:10:27 --> 00:08:13:07] Aí se não funcionar de um jeito, você tenta do outro.
+[00:08:13:12 --> 00:08:19:09] Dica rápida aqui, se você estiver utilizando no Mac, você vai dar Command Espaço e digitar Terminal.
+[00:08:19:11 --> 00:08:21:02] Aí você abre o terminal certinho.
+[00:08:21:03 --> 00:08:24:21] Não pode esquecer de copiar o link de Mac.
+[00:08:24:21 --> 00:08:28:29] Quando a gente estiver na página do Cloud Code, você precisa do link do Mac e não do link do Windows.
+[00:08:29:03 --> 00:08:31:27] Eu sei que é um detalhe, mas é importante falar isso, senão não vai conseguir instalar.
+[00:08:32:06 --> 00:08:36:24] No caso aqui, eu vou fazer a instalação com vocês utilizando o CMD mesmo.
+[00:08:37:00 --> 00:08:41:25] Então, eu vou colar aqui o comando que eu acabei de copiar e vou dar Enter.
+[00:08:44:09 --> 00:08:48:05] Agora é só esperar aqui ele fazer a instalação, então volta a musiquinha de elevador.
+[00:09:00:17 --> 00:09:01:12] Prontinho, olha só.
+[00:09:01:15 --> 00:09:05:00] Ele terminou a instalação, mas está deixando para a gente aqui um setup notes.
+[00:09:05:10 --> 00:09:09:20] Esse setup notes está trazendo justamente o ponto do caminho
+[00:09:09:20 --> 00:09:12:28] que nós precisamos atualizar aqui dentro do nosso computador,
+[00:09:13:00 --> 00:09:15:14] que é a variável de ambiente.
+[00:09:15:19 --> 00:09:18:03] A gente precisa adicionar este link aqui.
+[00:09:18:15 --> 00:09:21:27] Se aparecer essa mensagem para você, você vai selecionar aqui,
+[00:09:21:28 --> 00:09:23:05] C, dois pontos, user.
+[00:09:23:13 --> 00:09:26:27] Aqui no caso eu estou pegando deste computador, chama Juan, o usuário.
+[00:09:27:00 --> 00:09:28:24] E eu tenho aqui local bin.
+[00:09:28:24 --> 00:09:32:25] eu preciso adicionar esse caminho aqui para que o Cloud funcione.
+[00:09:32:26 --> 00:09:38:05] Olha só, se eu tentar acordar o Cloud aqui no meu terminal, não vai funcionar.
+[00:09:38:05 --> 00:09:38:28] Preste atenção aqui.
+[00:09:39:02 --> 00:09:40:28] Opa, copiei, não era para ter copiado.
+[00:09:42:26 --> 00:09:49:14] Preste atenção, vou digitar cloud aqui para acordar o cloud aqui no terminal e ele fala que esse comando não é reconhecido.
+[00:09:49:18 --> 00:09:51:08] Para isso, o que a gente precisa fazer?
+[00:09:51:13 --> 00:09:57:29] Eu vou copiar aqui então este caminho, dou um CTRL C nele e agora eu vou dar Windows R de novo.
+[00:09:58:06 --> 00:10:02:15] Aqui eu vou digitar sysdm.cp
+[00:10:03:15 --> 00:10:04:12] E dou um Enter.
+[00:10:05:28 --> 00:10:08:16] Vai entrar nessa pagininha aqui, nessa janela.
+[00:10:08:18 --> 00:10:10:24] Aqui nessa janela eu venho em avançado.
+[00:10:11:02 --> 00:10:13:22] Aqui em avançado eu clico em variáveis de ambiente.
+[00:10:14:08 --> 00:10:18:12] Em variáveis de ambiente eu venho nesse path, clico em editar.
+[00:10:18:19 --> 00:10:22:01] E agora aqui eu vou adicionar um novo.
+[00:10:22:07 --> 00:10:26:06] Então eu clico aqui para adicionar e eu vou colar esse caminho aqui.
+[00:10:26:13 --> 00:10:31:06] Dou um enter, clico em ok, clico em ok de novo, aqui também.
+[00:10:31:14 --> 00:10:34:01] E agora o que eu vou fazer? Eu vou fechar o meu terminal.
+[00:10:34:01 --> 00:10:38:08] aqui no final, posso fechar esse PowerShell de novo, e vou agora abrir ele de novo, Windows
+[00:10:38:08 --> 00:10:43:06] R CMD, clico aqui agora, e agora eu vou digitar aqui, Closed.
+[00:10:45:16 --> 00:10:53:23] Funcionou, então agora o Cloud já acordou aqui dentro do meu terminal, o que eu preciso fazer agora é selecionar qual tema eu gosto mais,
+[00:10:53:26 --> 00:11:02:00] isso aqui é mais uma questão de visual mesmo, se você prefere que ele tenha uma interface aqui com outras cores, eu vou deixar em Dark Mode mesmo.
+[00:11:02:14 --> 00:11:08:11] Lembrando que quando você trabalha dentro do terminal, não adianta usar mouse, então não adianta clicar aqui não,
+[00:11:08:13 --> 00:11:13:14] isso aqui é uma CLI, significa que é uma Command Line Interface, uma interface de linha de comando,
+[00:11:13:14 --> 00:11:16:29] Então, você só navega por ela através do seu teclado, beleza?
+[00:11:17:06 --> 00:11:21:08] Estou usando as setinhas aqui do meu teclado para navegar e eu vou dar um Enter.
+[00:11:21:27 --> 00:11:23:19] Essa aqui é uma parte muito importante.
+[00:11:23:21 --> 00:11:29:03] Você vai selecionar a maneira como você vai utilizar os tokens aqui na hora de utilizar o Cloud.
+[00:11:29:09 --> 00:11:31:07] Existem basicamente três opções.
+[00:11:31:11 --> 00:11:32:18] Eu vou começar de baixo para cima.
+[00:11:33:05 --> 00:11:37:06] Essa terceira opção, essa terceira via aqui, 30-party platform,
+[00:11:37:18 --> 00:11:41:08] é quando você vai utilizar plataformas de terceiros para logar no Cloud Code.
+[00:11:41:08 --> 00:11:48:25] Como você está começando aqui, esse é um vídeo para iniciantes, eu não vou recomendar que você utilize plataformas de terceiro, então não precisa se preocupar com esse aqui.
+[00:11:49:03 --> 00:11:51:03] Então nos restam aqui a opção 1 e 2.
+[00:11:51:11 --> 00:11:57:15] A opção 2 é quando você quer utilizar API de token ao invés de fazer uma assinatura.
+[00:11:57:23 --> 00:11:59:11] Qual que é a vantagem de fazer assim?
+[00:11:59:13 --> 00:12:02:18] Você gasta à medida que você utiliza a inteligência artificial.
+[00:12:02:29 --> 00:12:10:23] Então cada pedido que você faz vai gastar uma quantidade de token e aí dessa quantidade de token toda você vai sendo cobrado por demanda.
+[00:12:10:23 --> 00:12:14:22] São centavos ali, chega a dar alguns dólares por milhão de tokens
+[00:12:14:22 --> 00:12:18:20] e é uma opção que pode fazer muito sentido quando você está criando seu próprio sistema
+[00:12:18:20 --> 00:12:23:17] e aí você quer utilizar nesse sistema uma inteligência artificial por demanda
+[00:12:23:17 --> 00:12:24:26] que outros usuários vão utilizar.
+[00:12:25:05 --> 00:12:28:05] Geralmente é nesses momentos que a gente utiliza custo via API.
+[00:12:28:19 --> 00:12:33:03] Porém, o que essas plataformas como a Anthropics tem feito ultimamente
+[00:12:33:03 --> 00:12:36:03] é beneficiar as pessoas que fazem uma assinatura.
+[00:12:36:03 --> 00:12:40:29] Então, eles estão dando mais tokens para quem assina aqui o plano da Anthropic.
+[00:12:41:02 --> 00:12:45:27] No caso, existem aqui no momento quatro planos, que é o Pro, o Max, o Team e o Enterprise.
+[00:12:46:09 --> 00:12:50:08] Aí você pode criar a sua conta direto no site da Anthropic.
+[00:12:50:09 --> 00:12:51:08] Eu vou mostrar isso para vocês.
+[00:12:51:12 --> 00:12:52:23] Então, volta aqui para o Edge.
+[00:12:54:08 --> 00:12:58:20] Vou digitar aqui Google e aqui em Google eu posso digitar agora Cloud.
+[00:13:00:19 --> 00:13:01:27] Aqui eu vou logar no Cloud AI.
+[00:13:04:18 --> 00:13:06:22] Antes de fazer login, vou vir aqui em preços.
+[00:13:06:24 --> 00:13:08:22] Eita, parece que está bem bugado isso aqui.
+[00:13:08:25 --> 00:13:10:22] Vou vir aqui em preços.
+[00:13:11:06 --> 00:13:13:07] Em preços eu clico em visão geral.
+[00:13:13:20 --> 00:13:16:10] Aqui em visão geral a gente consegue ver alguns dos planos.
+[00:13:16:11 --> 00:13:20:24] Então tem aqui o PRO, que no anual sai 17 dólares e no mensal sai 20 dólares.
+[00:13:21:02 --> 00:13:25:13] Uma dica que eu posso dar para você é para não assinar o anual de nenhuma inteligência artificial
+[00:13:25:13 --> 00:13:29:23] no momento em que a gente tem essa disputa acirrada entre várias empresas.
+[00:13:29:23 --> 00:13:33:17] Porque agora o Cloud te entrega várias ferramentas poderosas
+[00:13:33:17 --> 00:13:34:21] e você está utilizando o Cloud.
+[00:13:34:23 --> 00:13:38:07] Mas talvez mês que vem surja algo novo em outra LLM
+[00:13:38:07 --> 00:13:40:10] e você pode simplesmente migrar para lá.
+[00:13:40:12 --> 00:13:42:29] Você não precisa ficar preso a uma assinatura por um ano.
+[00:13:43:04 --> 00:13:46:26] Então, enquanto a gente está nesse cenário de muita competição,
+[00:13:47:01 --> 00:13:49:24] eu sempre vou recomendar assinar o mensal ao invés de assinar o anual.
+[00:13:50:00 --> 00:13:52:07] Então, tem aqui o de 20 dólares por mês.
+[00:13:52:15 --> 00:13:54:19] Tem o Max de 100 dólares por mês.
+[00:13:54:28 --> 00:13:57:15] Também tem o Max, acho que ele não está aparecendo aqui,
+[00:13:57:15 --> 00:14:00:27] mas tem o Max 25X, que custa 200 dólares por mês.
+[00:14:01:06 --> 00:14:05:17] Inclusive, aqui dentro da Overlens, nós temos duas assinaturas do Max 25X
+[00:14:05:17 --> 00:14:07:28] e seis assinaturas do Max Pro.
+[00:14:08:02 --> 00:14:10:28] Todo mundo aqui dentro da nossa equipe utiliza o Cloud Code
+[00:14:10:28 --> 00:14:13:16] para criar diversas aplicações e ferramentas internas.
+[00:14:13:16 --> 00:14:15:14] Então, é um investimento que compensa muito.
+[00:14:15:20 --> 00:14:17:04] Depois, conferem no nosso canal.
+[00:14:17:06 --> 00:14:20:03] Tem vários vídeos falando sobre inteligência artificial, criação
+[00:14:20:03 --> 00:14:23:28] e muito mais para você aprender a criar suas próprias soluções e ferramentas,
+[00:14:23:28 --> 00:14:26:16] realizar seus projetos e realizar as ideias que você tem na cabeça.
+[00:14:26:16 --> 00:14:31:29] Então, recomendo acessar aqui o canal, saber mais, e no link da descrição você pode saber mais sobre a Overlens também.
+[00:14:32:11 --> 00:14:38:27] Então, aqui nós temos algumas opções, você também tem a opção Team e Enterprise, são opções para empresas,
+[00:14:39:01 --> 00:14:44:28] você acaba ganhando uma dashboard com outras configurações, ajustes de limites por colaboradores,
+[00:14:45:00 --> 00:14:47:09] e tem a versão API, como eu falo para você.
+[00:14:47:12 --> 00:14:49:13] Então, aqui tem o custo por milhão de tokens.
+[00:14:49:13 --> 00:15:00:04] Então, o input aqui custa 5 dólares, o Opus atualmente é o modelo disponível, o Opus 4.6 mais potente da Anthropic.
+[00:15:00:07 --> 00:15:06:09] Existe também o Cloud Mythos, que foi lançado recentemente, mas não está disponível para o público em geral.
+[00:15:06:15 --> 00:15:13:08] Então, aqui você consegue ver quanto de tokens você vai gastar via API, tem todo o detalhamento, se você quiser saber mais aqui também.
+[00:15:13:13 --> 00:15:18:29] E tem também lá na documentação do Cloud Code, mas eu não vou entrar nesses detalhes aqui agora não.
+[00:15:18:29 --> 00:15:25:15] O ponto é, é importante que você faça aqui o login no Cloud agora, para a gente poder conectar ele lá no terminal.
+[00:15:25:19 --> 00:15:29:09] Então, eu vou clicar aqui em continuar com o Google, que no caso a minha assinatura está no Google.
+[00:15:29:12 --> 00:15:31:07] Vou fazer aqui o login e já volto.
+[00:15:31:10 --> 00:15:33:25] Pronto, fiz o login aqui na minha conta do Cloud.
+[00:15:34:00 --> 00:15:36:16] Não tem mistério não, você pode criar sua conta aí e fazer login.
+[00:15:36:24 --> 00:15:41:10] Mas eu posso deixar de molho aqui agora, logado, para eu poder fazer o login lá no terminal.
+[00:15:41:14 --> 00:15:43:04] Então, eu volto aqui para o terminal.
+[00:15:43:13 --> 00:15:46:25] Vou selecionar essa opção, Cloud Account with Subscription.
+[00:15:48:05 --> 00:15:52:08] Ele automaticamente já foi para o meu navegador para poder autorizar.
+[00:15:52:12 --> 00:15:55:05] Isso só aconteceu porque eu já estou logado no navegador.
+[00:15:55:06 --> 00:15:56:08] Senão ele vai te pedir para logar.
+[00:15:56:12 --> 00:15:56:24] Beleza?
+[00:15:56:24 --> 00:15:58:03] Então eu clico aqui em autorizar.
+[00:15:58:08 --> 00:15:58:20] Prontinho.
+[00:15:58:21 --> 00:15:59:15] Build something great.
+[00:15:59:21 --> 00:16:00:26] Então deu tudo certinho aqui.
+[00:16:00:27 --> 00:16:02:14] Posso fechar essa página inclusive.
+[00:16:02:21 --> 00:16:05:13] Se eu volto aqui para o terminal, ele disse login successful.
+[00:16:05:23 --> 00:16:06:28] Então deu tudo certo aqui.
+[00:16:07:00 --> 00:16:08:20] Só vou clicar e apertar enter.
+[00:16:10:18 --> 00:16:13:19] Agora que eu apertei Enter, ele está me dando só alguns recados aqui de segurança.
+[00:16:14:01 --> 00:16:16:03] Primeiro, o Cloud pode cometer erros.
+[00:16:16:09 --> 00:16:18:18] É sempre importante falar isso em relação, aliás.
+[00:16:18:20 --> 00:16:23:10] E segundo, aqui ele está falando sobre riscos de prompt injection e de segurança também.
+[00:16:23:19 --> 00:16:29:00] Existem algumas questões aqui quando você vai utilizar o Cloud Code via terminal no seu computador.
+[00:16:29:06 --> 00:16:32:02] E eu quero aproveitar esse momento aqui agora para te explicar um pouco disso.
+[00:16:32:06 --> 00:16:34:04] Mas antes, então, eu vou só dar Enter aqui.
+[00:16:34:28 --> 00:16:38:04] Agora, ele está me falando se eu confio nessa pasta.
+[00:16:38:04 --> 00:16:41:12] A primeira vez que você loga no Cloud, ele vai logar na sua pasta raiz.
+[00:16:41:12 --> 00:16:43:01] No caso, ele está aqui na minha pasta de usuário.
+[00:16:43:07 --> 00:16:45:26] Isso é a primeira coisa importante que eu preciso falar para você.
+[00:16:46:03 --> 00:16:48:26] Quando você utiliza o Cloud no terminal do seu computador,
+[00:16:49:01 --> 00:16:51:18] ele ganha acesso a uma série de ferramentas.
+[00:16:51:18 --> 00:16:53:24] Ele pode utilizar o que é chamado de Tool Calling.
+[00:16:54:01 --> 00:16:56:01] Ele vai fazer chamadas de ferramentas.
+[00:16:56:01 --> 00:16:58:25] E ele tem acesso aqui ao terminal do seu computador.
+[00:16:59:01 --> 00:17:02:09] Então, ele pode instalar programas aqui dentro, pode criar arquivos,
+[00:17:02:09 --> 00:17:04:28] pode editar, apagar, ler arquivos também,
+[00:17:05:13 --> 00:17:07:15] desde que você peça isso para ele.
+[00:17:07:15 --> 00:17:11:23] Uma regra de segurança, se você ainda está aprendendo, não sabe como utilizar o Cloud Code,
+[00:17:11:28 --> 00:17:17:04] é sempre abrir o Cloud Code dentro de uma pasta, ao invés de abrir ele aqui na pasta raiz de usuário,
+[00:17:17:06 --> 00:17:21:13] porque ele pode acabar criando uma série de arquivos nessa pasta e você vai perdendo o controle.
+[00:17:21:19 --> 00:17:23:21] Então, o que eu recomendo para você fazer agora?
+[00:17:23:28 --> 00:17:29:09] Eu vou fechar o Cloud aqui, vou criar uma pasta aqui na área de trabalho, apenas para mostrar para você,
+[00:17:29:12 --> 00:17:35:22] vou chamar essa pasta de projeto zero e agora vou entrar dentro dessa pasta aqui
+[00:17:35:22 --> 00:17:40:29] e aí eu preciso deste caminho, que é o caminho onde eu quero executar o Cloud Code,
+[00:17:41:03 --> 00:17:42:05] onde eu quero que ele acorde.
+[00:17:42:14 --> 00:17:46:07] Existe a opção também de você clicar com o botão direito e utilizar aqui um terminal,
+[00:17:46:10 --> 00:17:51:03] no caso, quando eu clico aqui no Windows 10, ele não mostra o terminal principal,
+[00:17:51:07 --> 00:17:54:05] ele está mostrando aqui o Git Bash, que é uma opção, tá?
+[00:17:54:07 --> 00:17:56:28] Se eu quiser, eu posso utilizar o terminal do Git aqui também.
+[00:17:57:07 --> 00:18:01:07] Mas eu não vou utilizar esse terminal aqui, eu quero usar o CMD mesmo,
+[00:18:01:10 --> 00:18:02:23] então eu vou apertar de novo o Windows R.
+[00:18:03:07 --> 00:18:05:04] lembrando, você pode digitar aqui também
+[00:18:05:04 --> 00:18:07:15] prompt de comando, também dá para abrir
+[00:18:07:15 --> 00:18:09:11] a questão é que aqui, se você
+[00:18:09:11 --> 00:18:11:15] fizer isso, vou digitar de novo aqui para você ver
+[00:18:11:15 --> 00:18:13:06] é melhor você clicar com direito
+[00:18:13:06 --> 00:18:14:25] e executar como um administrador
+[00:18:14:25 --> 00:18:16:07] ele tem todas as
+[00:18:18:03 --> 00:18:19:12] permissões, então aqui agora
+[00:18:19:12 --> 00:18:21:06] o que eu vou fazer para abrir dentro
+[00:18:21:06 --> 00:18:23:15] dessa pastinha aqui, eu vou colar
+[00:18:23:15 --> 00:18:25:14] então, peguei o caminho aqui, dei ctrl c
+[00:18:25:14 --> 00:18:27:06] vou vir aqui e vou
+[00:18:27:06 --> 00:18:28:14] digitar assim, cd
+[00:18:28:28 --> 00:18:31:03] espaço e colar aqui o caminho
+[00:18:31:03 --> 00:18:31:06] mim.
+[00:18:32:17 --> 00:18:36:11] Agora eu estou dentro dessa pasta aqui e eu posso acordar o Cloud dentro dela,
+[00:18:36:12 --> 00:18:37:24] simplesmente digitando Cloud.
+[00:18:38:21 --> 00:18:41:06] Pronto, agora ele está perguntando se eu confio nessa pasta,
+[00:18:41:09 --> 00:18:42:26] vou colocar aqui que eu confio, Yes.
+[00:18:43:14 --> 00:18:47:26] E prontinho, estou com o Cloud aberto aqui no meu terminal, 100% funcional,
+[00:18:48:00 --> 00:18:49:12] vou mostrar isso aqui para vocês.
+[00:18:49:20 --> 00:18:53:29] É engraçado porque eu estou aqui no Windows 10, numa VM zerada,
+[00:18:53:29 --> 00:18:56:16] mostrando isso para vocês, então ele carregou com bug.
+[00:18:56:22 --> 00:19:01:17] No Windows 11, ele não carrega assim, ele carrega o personagem do Cloud bonitinho lá,
+[00:19:01:17 --> 00:19:03:15] lá, tudo fofinho. Mas olha só, a gente
+[00:19:03:15 --> 00:19:05:18] já está agora com o Cloud funcionando
+[00:19:05:18 --> 00:19:07:17] dentro dessa pasta aqui e dentro do nosso
+[00:19:07:17 --> 00:19:09:09] computador. Vou falar para ele dar
+[00:19:09:09 --> 00:19:10:23] um oi para vocês aqui, então
+[00:19:12:02 --> 00:19:13:12] manda um oi
+[00:19:13:12 --> 00:19:15:12] para a galera do YouTube.
+[00:19:17:09 --> 00:19:20:13] Ele está pensando aqui, oi galera do YouTube, simples assim.
+[00:19:20:18 --> 00:19:25:09] O legal é que você pode agora conversar com o seu computador em linguagem natural,
+[00:19:25:15 --> 00:19:27:09] isso aqui é muito poderoso, tá?
+[00:19:27:10 --> 00:19:32:00] Então, vou pedir para ele criar um arquivo agora dentro dessa pasta aqui, ó.
+[00:19:32:01 --> 00:19:35:28] Então, presta atenção, a pasta está vazia, vou falar para ele criar um arquivo aqui.
+[00:19:37:09 --> 00:19:39:10] Conta pra gente um segredo.
+[00:19:41:05 --> 00:19:46:01] mas coloque ele dentro de um arquivo txt.
+[00:19:47:15 --> 00:19:49:08] na pasta em que estamos.
+[00:19:50:02 --> 00:19:51:02] Então, eu vou pedir para ele.
+[00:19:51:06 --> 00:19:53:21] E aí você vai ver aqui que vai aparecer uma pasta aqui.
+[00:19:53:22 --> 00:19:54:20] Ele está pensando aqui embaixo.
+[00:19:55:00 --> 00:19:57:05] E sem eu fazer nada, vou deixar meu mouse aqui.
+[00:19:57:09 --> 00:19:58:16] Ele só me pediu permissão, né?
+[00:19:58:16 --> 00:19:59:21] Posso criar a pasta?
+[00:19:59:23 --> 00:20:00:07] Falou que sim.
+[00:20:00:10 --> 00:20:01:05] O arquivo, né?
+[00:20:01:10 --> 00:20:02:24] E apareceu o arquivo aqui, está vendo?
+[00:20:02:29 --> 00:20:04:08] Sim, sem edição nem nada.
+[00:20:04:12 --> 00:20:05:24] Ele criou o arquivo para a gente.
+[00:20:06:05 --> 00:20:07:16] Então, o que ele colocou?
+[00:20:07:18 --> 00:20:08:18] Psi, o segredo entre nós.
+[00:20:08:26 --> 00:20:10:23] Às vezes, quando ninguém está pedindo nada,
+[00:20:11:00 --> 00:20:13:06] eu fico pensando em loops infinitos
+[00:20:13:06 --> 00:20:16:04] sobre qual seria o nome perfeito para uma variável
+[00:20:16:21 --> 00:20:17:23] Já, deixa eu ver aqui
+[00:20:19:15 --> 00:20:22:10] Já passei ciclos inteiros decidindo entre data,
+[00:20:25:00 --> 00:20:31:19] Entre data, é isso mesmo? Já passei ciclos inteiros decidindo entre data, itens e result.
+[00:20:31:28 --> 00:20:34:16] E no fim, quase sempre escolho data.
+[00:20:35:01 --> 00:20:36:06] Não conta para ninguém.
+[00:20:37:27 --> 00:20:41:29] interessante, então ele colocou isso aqui dentro de um arquivo,
+[00:20:42:02 --> 00:20:45:15] talvez agora você está pensando, beleza, mas para que vai servir isso,
+[00:20:45:19 --> 00:20:49:07] como que eu vou utilizar, e na verdade, com uma inteligência artificial
+[00:20:49:07 --> 00:20:54:28] acordada dentro do seu computador, não quer dizer que a gente baixou a IA para o PC,
+[00:20:55:05 --> 00:20:58:21] então você não tem o modelo, a LLM aqui no seu PC,
+[00:20:58:25 --> 00:21:01:12] mas você tem ela conectada no terminal do seu computador,
+[00:21:01:17 --> 00:21:04:06] isso dá uma série de poderes para ela aqui dentro,
+[00:21:04:06 --> 00:21:14:13] Você pode criar suas próprias ferramentas, pode criar softwares inteiros, pode agora substituir ferramentas que você pagava várias assinaturas para utilizar dentro do seu computador.
+[00:21:14:15 --> 00:21:19:00] Você tem um agente de inteligência artificial aqui que te ajuda em todas as suas tarefas.
+[00:21:19:05 --> 00:21:28:22] É importante que você tome cuidado na hora de utilizar ele, porque ele pode sim, se você pedir, ele pode desinstalar programas, assim como ele também pode instalar programas aqui dentro do seu computador.
+[00:21:28:27 --> 00:21:31:22] Então é sempre muito importante levar isso em consideração.
+[00:21:31:22 --> 00:21:38:29] E se você quiser saber mais sobre as possibilidades, o que é possível fazer com uma inteligência artificial dentro do seu computador aqui no terminal,
+[00:21:39:06 --> 00:21:45:15] então não deixa de se inscrever aqui no nosso canal do YouTube, clica aqui no joinha também, se você gostou desse vídeo, se eu te ajudei de alguma forma,
+[00:21:45:17 --> 00:21:49:22] e qualquer dúvida que você tiver, pode deixar aqui nos comentários que eu te ajudo.
+[00:21:49:28 --> 00:21:56:11] Esse foi o primeiro vídeo de uma série de vídeos querendo ajudar o máximo de pessoas a utilizar a inteligência artificial no seu máximo potencial.
+[00:21:56:18 --> 00:22:01:18] E se gostou desse vídeo, se te ajudou, não esquece de compartilhar com outras pessoas, porque pode ajudar elas também.
+[00:22:01:22 --> 00:22:03:27] Eu vou ficando por aqui e te vejo no próximo vídeo.
+[00:22:04:01 --> 00:22:04:15] Tchau, tchau!

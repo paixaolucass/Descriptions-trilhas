@@ -1,0 +1,1365 @@
+# Video: 3 domine_qualquer_ferramenta_de_design_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-20 16:05
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:01:00 --> 00:00:03:18] onde você investe seu tempo.
+[00:00:05:03 --> 00:00:11:27] o ativo mais valioso que nós temos hoje. Nós temos a falsa sensação de que, para
+[00:00:11:27 --> 00:00:15:25] chegar onde nós queremos, basta esforço. Eu falei com vocês que eu fiz uma pesquisa
+[00:00:15:25 --> 00:00:20:24] com cerca de 130 designers e a maioria deles disse que o que falta para eles conseguirem
+[00:00:20:24 --> 00:00:25:28] o que eles querem é esforço. E aí a pergunta que eu fiz é, será que é esforço? Será
+[00:00:25:28 --> 00:00:29:00] que se você continuar se esforçando no que você já é esse esforço, você vai
+[00:00:29:00 --> 00:00:33:05] ter o resultado que quer? Talvez, além do esforço, existem outras coisas que
+[00:00:33:07 --> 00:00:38:27] impactam muito o que você faz, como escolher onde você vai investir seu tempo, escolher
+[00:00:38:27 --> 00:00:43:21] que tipo de habilidade você vai desenvolver, escolher em que tipo de trabalho você vai
+[00:00:43:21 --> 00:00:47:06] trabalhar, que tipo de proposta você vai fazer, que tipo de contrato você quer fechar,
+[00:00:47:11 --> 00:00:48:09] tudo isso importa muito.
+[00:00:48:27 --> 00:00:52:29] E na última aula a gente falou sobre sete habilidades de conexão, que são sete habilidades
+[00:00:52:29 --> 00:00:59:12] que eu acredito que é um ótimo investimento de tempo, desenvolver qualquer uma delas,
+[00:00:59:15 --> 00:01:02:14] porque elas vão te ajudar a se conectar com qualquer outra habilidade.
+[00:01:02:14 --> 00:01:07:16] Hoje nós vamos falar um pouco sobre sincronia tecnológica, voltado mais para as ferramentas
+[00:01:07:16 --> 00:01:14:21] de design, porque eu acredito que designers gastam muito mais tempo do que deveriam nas
+[00:01:14:21 --> 00:01:15:20] ferramentas.
+[00:01:15:27 --> 00:01:20:20] Dominar uma ferramenta é conseguir fazer tudo que você precisa ali dentro dela.
+[00:01:21:12 --> 00:01:23:08] É conseguir se virar lá dentro e chegar no resultado.
+[00:01:23:12 --> 00:01:24:11] Você domina ela.
+[00:01:24:21 --> 00:01:27:24] Não quer dizer que você zerou ela.
+[00:01:27:26 --> 00:01:31:07] Igual quando você vai jogar um jogo, zerar o jogo significa fazer tudo que você
+[00:01:31:07 --> 00:01:35:20] poderia fazer dentro do jogo. Isso é impossível, nenhuma pessoa consegue zerar uma ferramenta
+[00:01:35:20 --> 00:01:42:14] porque as possibilidades são infinitas. Mas quando eu falo dominar, significa que você
+[00:01:42:14 --> 00:01:46:09] controla a ferramenta e não ela te controla, significa que você consegue fazer tudo que
+[00:01:46:09 --> 00:01:51:12] precisa ali dentro. Por que eu estou falando isso galera? Porque nós precisamos entender
+[00:01:51:12 --> 00:01:56:27] que dominar a ferramenta não é suficiente, porque novas ferramentas estão surgindo
+[00:01:56:27 --> 00:02:00:12] o tempo todo. Então antes de falar sobre dominar eu quero falar sobre uma coisa
+[00:02:00:12 --> 00:02:04:02] que é muito mais importante que isso, que é exatamente onde nós estamos investindo
+[00:02:04:02 --> 00:02:04:23] o nosso tempo.
+[00:02:05:02 --> 00:02:09:11] Eu cheguei até a falar com vocês, que na minha história eu comecei a refletir comigo,
+[00:02:09:28 --> 00:02:15:05] a maioria dos meus colegas trabalham, estudam pra poder dominar um software pra vender
+[00:02:15:05 --> 00:02:15:26] uma técnica.
+[00:02:16:13 --> 00:02:20:12] E aí vai conseguir um salário de 2, 3, 4 mil reais quando você tem mais tempo
+[00:02:20:12 --> 00:02:20:27] no mercado.
+[00:02:21:15 --> 00:02:25:15] Mas o mundo está mudando drasticamente a nossa volta e não dá pra continuar fazendo
+[00:02:25:15 --> 00:02:27:15] as mesmas coisas como se o mundo ainda fosse o mesmo.
+[00:02:27:15 --> 00:02:31:27] Então, eu falei muito disso na primeira aula da minha história, como que eu me tornei um
+[00:02:31:27 --> 00:02:34:15] designer nexialista e como que isso impactou todo o meu trabalho.
+[00:02:35:01 --> 00:02:38:26] E é exatamente isso, esse ponto que a gente está aqui agora, porque é como se fosse
+[00:02:38:26 --> 00:02:40:01] um paradoxo.
+[00:02:40:05 --> 00:02:44:22] O nexialista é capaz de conectar várias áreas diferentes, mas ele não sabe todas
+[00:02:44:22 --> 00:02:45:05] as áreas.
+[00:02:45:11 --> 00:02:50:07] E é a primeira crença que as pessoas têm equivocada sobre ser nexialista.
+[00:02:50:09 --> 00:02:54:03] O nexialista não sabe sobre tudo, mas ele consegue, ele tem a habilidade para
+[00:02:54:03 --> 00:02:54:23] conectar tudo.
+[00:02:55:03 --> 00:02:56:17] E é diferente uma coisa da outra.
+[00:02:56:17 --> 00:03:02:05] E a mesma coisa acontece com as ferramentas, eu percebi que as ferramentas vão se tornando
+[00:03:02:05 --> 00:03:03:16] cada vez mais fácil de usar.
+[00:03:04:04 --> 00:03:07:28] E aí eu lembro que eu disse uma frase muito importante na primeira aula e eu quero repetir
+[00:03:07:28 --> 00:03:13:29] ela aqui pra vocês, que é, quando o como se torna cada vez mais fácil...
+[00:03:15:13 --> 00:03:20:20] Nós devemos começar a nos preocupar mais com o porquê, foi isso que eu percebi.
+[00:03:21:22 --> 00:03:25:00] as ferramentas são muito importantes. Se a gente vai ver isso aqui, eu coloquei até
+[00:03:25:00 --> 00:03:31:02] uma sentença, olha só. Ferramentas são muito importantes. Sem elas, não somos...
+[00:03:31:02 --> 00:03:36:10] Sem elas, somos os mesmos sapiens de 10 mil anos atrás. Aquele caminho ali, eu ilustrei
+[00:03:36:10 --> 00:03:40:12] todas as vezes, deixei esse caminho aqui na parte de baixo. Tirou minha atenção
+[00:03:40:12 --> 00:03:44:16] ali. Então, se a gente parar pra pensar, as ferramentas são sim muito importantes.
+[00:03:44:18 --> 00:03:50:04] Se nós tirarmos todas as nossas ferramentas que nós temos hoje e tirarmos... Se a
+[00:03:50:04 --> 00:03:54:16] pensar, carro é ferramenta, avião é ferramenta, tudo é ferramenta, se nós tirarmos todas
+[00:03:54:16 --> 00:04:02:01] as ferramentas, não tem nada muito diferente de nós pros primeiros homo sapiens sapiens
+[00:04:02:01 --> 00:04:06:12] ali que sabiam, não tem muita diferença de nós pros humanos de 10 mil anos atrás
+[00:04:06:12 --> 00:04:10:28] não. Talvez, claro, conhecimento tanto de coisa que nós concebemos e eles não
+[00:04:10:28 --> 00:04:15:23] conceberam, beleza, mas um bebê que nasce agora e vai aprender, se a gente tira
+[00:04:15:23 --> 00:04:19:25] todas as ferramentas dele e ele tem que viver no mundo sem todas essas tecnologias
+[00:04:19:25 --> 00:04:24:19] fazer avanços, se a gente fazer esse exercício, ele vai crescer com muitas limitações.
+[00:04:25:06 --> 00:04:28:13] Ele não vai ter todo o conhecimento que a gente tem se ninguém passar isso pra ele.
+[00:04:28:17 --> 00:04:33:03] Então não tem muita diferença falando fisiologicamente de nós pros seres humanos de 10 mil anos
+[00:04:33:03 --> 00:04:33:11] atrás.
+[00:04:33:14 --> 00:04:36:14] Então sim, as ferramentas são muito importantes.
+[00:04:37:06 --> 00:04:41:04] A questão que eu quero trazer aqui é que cada vez mais as ferramentas têm se
+[00:04:41:04 --> 00:04:43:11] tornado mais fáceis de utilizar.
+[00:04:43:27 --> 00:04:45:26] Tem sido cada vez mais fácil usar uma ferramenta.
+[00:04:45:26 --> 00:04:47:28] Vamos pegar o Photoshop, por exemplo.
+[00:04:48:23 --> 00:04:51:00] Antigamente, para remover um fundo, era um...
+[00:04:52:09 --> 00:04:58:13] Hoje, você pode usar até o Adobe Express, e aí você clica, remove o fundo, ou você
+[00:04:58:13 --> 00:05:03:20] pode usar o preenchimento automático do Photoshop e colocar qualquer elemento dentro da imagem.
+[00:05:04:07 --> 00:05:08:15] Está virando mágica, você pensa e eles realizam, as IA's, né?
+[00:05:09:16 --> 00:05:16:24] E isso, hoje, pensa daqui, um, dois, cinco, dez anos, eu posso falar pra vocês, a tendência
+[00:05:16:24 --> 00:05:23:02] é que vai se tornar cada vez mais fácil utilizar as ferramentas.
+[00:05:23:20 --> 00:05:26:16] Então por que eu vou gastar mais tempo do que o necessário?
+[00:05:29:12 --> 00:05:32:26] Tentando melhorar muito a minha habilidade, no mínimo detalhe,
+[00:05:32:27 --> 00:05:36:12] sendo que talvez passe um ano e talvez aquilo que eu gastei horas aprendendo agora
+[00:05:36:12 --> 00:05:37:14] é com dois cliques eu faço.
+[00:05:40:09 --> 00:05:43:09] Ah, Ruan, isso quer dizer então que eu não preciso mais aprender sobre ferramentas?
+[00:05:43:11 --> 00:05:46:17] É claro que não, você precisa aprender sobre ferramentas, como eu disse, elas são importantes,
+[00:05:47:00 --> 00:05:51:06] mas o jeito como nós aprendemos as ferramentas precisa mudar.
+[00:05:51:20 --> 00:05:54:12] E é isso que eu quero mostrar aqui pra vocês hoje, beleza?
+[00:05:54:16 --> 00:05:56:24] Então acompanhe comigo aqui o raciocínio.
+[00:05:57:01 --> 00:06:02:19] O maior problema com as ferramentas é que aprender ferramentas é como varrer
+[00:06:02:19 --> 00:06:03:09] uma casa.
+[00:06:03:15 --> 00:06:04:05] Como assim, Ruan?
+[00:06:04:19 --> 00:06:08:00] Se você varre sua casa hoje, isso não significa que amanhã você não precisa
+[00:06:08:00 --> 00:06:10:22] você tem que varrer, amanhã você tem que ir lá e varrer a casa de novo, e no outro
+[00:06:10:22 --> 00:06:14:09] dia você tem que varrer de novo, e depois tem que varrer outra vez, com as ferramentas
+[00:06:14:09 --> 00:06:19:24] é a mesma coisa. Cada vez mais rápido tem surgido novas ferramentas e a nossa missão
+[00:06:19:24 --> 00:06:24:20] é aprender essas ferramentas e nos mantermos atualizados com as tecnologias, porque elas
+[00:06:24:20 --> 00:06:28:20] estão aqui, não é para complicar a nossa vida, apesar de que muita gente acha, agora
+[00:06:28:20 --> 00:06:31:14] eu tenho que aprender sobre Inteligência Artificial, agora eu tenho que aprender
+[00:06:33:08 --> 00:06:36:19] sobre imagens generativas, agora eu tenho que aprender outros softwares, tenho que
+[00:06:36:24 --> 00:06:40:18] de Figma, que eu não precisava antes, tem que aprender Framer, que surgiu agora, cada
+[00:06:40:18 --> 00:06:42:24] vez mais ferramentas vão surgir.
+[00:06:43:27 --> 00:06:48:06] para a gente funciona mais como uma reciclagem, então todo dia você precisa varrer a casa,
+[00:06:48:11 --> 00:06:50:00] todo dia você tem que aprender uma ferramenta nova.
+[00:06:50:23 --> 00:06:56:08] Por isso, nós temos que ser inteligentes, nós temos, por exemplo, o que as pessoas
+[00:06:56:08 --> 00:06:59:10] fazem para poder ter que tirar menos poeira da casa e varrer menos a casa?
+[00:06:59:22 --> 00:07:03:19] Às vezes colocar uma janela, colocar um vidro, colocar as coisas dentro de um estante
+[00:07:03:19 --> 00:07:07:16] com o vidro fechado para não empurrar ali a xícara e você ter que limpar a
+[00:07:07:16 --> 00:07:08:18] xícara todos os dias.
+[00:07:08:18 --> 00:07:15:02] Só que o que tá acontecendo é que não só aprender softwares é como varrer casa,
+[00:07:15:15 --> 00:07:21:15] como hoje, no momento que a gente vive hoje, aprender software é sobre varrer uma casa
+[00:07:21:15 --> 00:07:24:01] que fica do lado de um canteiro de obras.
+[00:07:24:20 --> 00:07:26:19] Então vai ter poeira o tempo inteiro.
+[00:07:26:25 --> 00:07:32:01] Toda hora surge a necessidade de, de novo, varrer aquela casa.
+[00:07:32:23 --> 00:07:39:03] Então, se nós temos que sempre nos reciclar, não vale a pena gastar mais tempo do que
+[00:07:39:03 --> 00:07:40:09] o necessário numa ferramenta.
+[00:07:40:28 --> 00:07:46:07] Ah, mas então eu vou viver esperando a ferramenta evoluir ao invés de aprender sobre ela?
+[00:07:46:09 --> 00:07:46:20] Não!
+[00:07:47:13 --> 00:07:51:14] E aí que tá o ponto, eu quero mostrar aqui pra vocês hoje como dominar qualquer ferramenta
+[00:07:51:14 --> 00:07:56:11] pra usar ela com o que você precisa usar sem tomar mais tempo do que o necessário.
+[00:07:56:12 --> 00:07:57:24] É isso que eu quero ensinar pra vocês.
+[00:07:57:24 --> 00:08:01:20] e sem também investir mais dinheiro do que o necessário.
+[00:08:03:11 --> 00:08:09:19] Eu fiz esse questionamento lá nos stories, e aí eu vou fazer aqui, mas pro finalzinho
+[00:08:09:19 --> 00:08:14:10] da aula eu vou tratar mais sobre isso, mas vocês já pararam pra pensar quando surge
+[00:08:14:10 --> 00:08:15:09] uma ferramenta nova?
+[00:08:17:03 --> 00:08:19:25] as primeiras pessoas que vão aprender essa ferramenta.
+[00:08:21:03 --> 00:08:23:15] Como que elas aprendem? Quem ensinou para elas?
+[00:08:24:14 --> 00:08:28:03] Se elas são as primeiras a aprender sobre essa ferramenta e explorar as possibilidades
+[00:08:28:03 --> 00:08:28:20] dela...
+[00:08:29:19 --> 00:08:33:05] Não tem ninguém pra ensinar, não tem curso sobre essa ferramenta ainda, mas como elas
+[00:08:33:05 --> 00:08:33:28] conseguem aprender?
+[00:08:35:00 --> 00:08:38:24] Existe um processo, e é esse processo que eu quero mostrar aqui pra vocês hoje.
+[00:08:39:13 --> 00:08:44:18] É assim que muitos professores de design aprendem pra poder te ensinar depois, e é
+[00:08:44:18 --> 00:08:46:14] isso que eu quero te mostrar aqui, beleza?
+[00:08:47:01 --> 00:08:48:14] Então vamos seguir adiante.
+[00:08:48:21 --> 00:08:54:04] Olha só, designers pagam caro pra aprender Photoshop, Illustrator, Figma, Framer, sendo
+[00:08:54:04 --> 00:08:54:12] Ok.
+[00:08:55:16 --> 00:08:58:03] Logo, precisarão atualizar o que sabem.
+[00:08:58:27 --> 00:09:02:10] 2. Poderiam aprender 60% disso sozinhos?
+[00:09:03:13 --> 00:09:06:23] E três, ferramentas sem fundamento não basta.
+[00:09:07:20 --> 00:09:11:07] Então, vamos falar sobre o primeiro aqui, logo precisaram atualizar o que sabem, isso
+[00:09:11:07 --> 00:09:15:08] a gente já tá falando aqui, mas eu quero dar um caso comigo, tá?
+[00:09:15:08 --> 00:09:17:20] E isso tem se tornado cada vez mais frequente.
+[00:09:18:07 --> 00:09:22:01] Quando eu tinha 14 anos, eu contei isso um pouco pra vocês, eu acho, não sei se
+[00:09:22:01 --> 00:09:25:27] eu contei aqui nessas aulas, ou se eu contei em um outro encontro, mas quando eu tinha
+[00:09:25:27 --> 00:09:31:23] 14 anos, minha mãe e meu pai deram um duro danado pra que a gente pudesse, eu
+[00:09:31:23 --> 00:09:36:19] e o meu irmão, Rafael, pudéssemos fazer um curso de ferramentas de design.
+[00:09:37:04 --> 00:09:40:25] Em uma das maiores escolas de softwares no Brasil, ela é grande, tem muitas filiais
+[00:09:40:25 --> 00:09:42:13] em várias capitais do país.
+[00:09:43:13 --> 00:09:44:02] E nós...
+[00:09:44:29 --> 00:09:50:17] Eu lembro que minha mãe pagava, se eu não me engano, R$150,00, a minha e R$150,00 a do Rafael.
+[00:09:50:20 --> 00:10:02:00] Então, R$300,00 por mês para nós aprendermos Photoshop, Illustrator, After Effects, Premiere, Maya, Flash, Dreamweaver e outras ferramentas assim.
+[00:10:02:23 --> 00:10:05:08] E eu fiquei dois anos nessa escola, né?
+[00:10:05:08 --> 00:10:10:28] Dois anos, se a gente fizer a conta, R$300,00 em dois anos, a gente tem aí mais de R$3.000,00, né?
+[00:10:11:18 --> 00:10:14:18] Então, dá o quê? Dá R$3.600,00 mais ou menos?
+[00:10:15:11 --> 00:10:20:06] Alguma coisa assim, 3.600 ou 4.200, não vou fazer a conta aqui, sou péssimo de matemática,
+[00:10:20:11 --> 00:10:23:26] mas enfim, é muito dinheiro que minha mãe e meu pai investiram.
+[00:10:25:06 --> 00:10:30:08] Mas quando eu terminei, eu não sentia que eu era designer ainda, eu não sentia que
+[00:10:30:08 --> 00:10:34:00] eu sabia fazer, mesmo dominando a ferramenta, e a gente vai tratar esse ponto já já.
+[00:10:34:10 --> 00:10:37:18] O que eu quero chamar a atenção primeiro, que é o primeiro tópico aqui, é que logo
+[00:10:37:18 --> 00:10:38:24] nós vamos precisar nos atualizar.
+[00:10:38:24 --> 00:10:39:14] O que aconteceu?
+[00:10:39:28 --> 00:10:43:08] Eu tinha aprendido a usar Flash, tinha aprendido a usar Dreamweaver.
+[00:10:43:08 --> 00:10:46:24] Esses softwares nem existem mais, não existem.
+[00:10:47:06 --> 00:10:49:09] Significa que eu perdi meu tempo aprendendo essas ferramentas?
+[00:10:49:15 --> 00:10:54:14] Não totalmente, e vocês vão entender, e é aqui que tá o segredo, mas significa que
+[00:10:54:14 --> 00:10:57:12] talvez eu poderia ter gastado muito menos tempo do que eu gastei na época.
+[00:10:58:15 --> 00:11:02:06] Com Dreamweaver, com Flash e com muitas outras.
+[00:11:02:08 --> 00:11:04:26] Mais tarde eu lembro quando eu comecei a aprender Adobe XD.
+[00:11:05:20 --> 00:11:08:20] Hoje eu nem uso XD mais porque o Figma dominou tanto o mercado que eu tive que
+[00:11:08:20 --> 00:11:09:26] sair do XD pro Figma.
+[00:11:10:08 --> 00:11:11:03] Então eu tive que me reciclar.
+[00:11:11:03 --> 00:11:16:03] Então, esse processo é natural e nós vamos precisar continuar nos atualizando sobre as
+[00:11:16:03 --> 00:11:17:05] ferramentas para sempre.
+[00:11:17:20 --> 00:11:21:18] É igual um desenvolvedor que precisa continuar aprendendo novas linguagens o tempo inteiro
+[00:11:21:18 --> 00:11:23:00] para acompanhar o mercado.
+[00:11:23:04 --> 00:11:25:20] Então, isso é algo natural, são ossos do ofício.
+[00:11:25:23 --> 00:11:28:04] Não adianta querer que uma ferramenta seja a mesma para sempre.
+[00:11:28:05 --> 00:11:30:29] Ela vai mudar, você vai mudar, novidades vão acontecer.
+[00:11:31:03 --> 00:11:33:07] E essa é a primeira coisa que a gente tem que levar em consideração.
+[00:11:33:27 --> 00:11:37:17] Logo, vocês vão precisar atualizar o que sabem sobre ferramentas.
+[00:11:37:17 --> 00:11:43:08] 2. Poderiam aprender 60% disso sozinhos. Eu vou mostrar para vocês aqui um processo
+[00:11:43:08 --> 00:11:48:16] para vocês dominarem qualquer ferramenta de design. E vocês vão poder fazer isso sozinhos.
+[00:11:48:21 --> 00:11:52:17] Tem muito vendedor de curso aí agora que talvez vai ficar bolado comigo por causa
+[00:11:52:17 --> 00:11:55:27] disso aqui. Eu espero que não, porque eu estou aqui para poder ajudar o mercado. Isso
+[00:11:55:27 --> 00:11:58:27] é bom até para eles também e eu não imagino que eles vão parar de vender o curso
+[00:11:58:27 --> 00:12:05:03] deles, porque curso de software é bom para ir além. Eu disse ali, 60% disso
+[00:12:05:03 --> 00:12:09:13] vocês conseguem aprender sozinhos. É o suficiente para fazer o trabalho, podem acreditar em mim.
+[00:12:09:29 --> 00:12:14:07] Mas quem quer se aprofundar e ir além, ter alguém para te ensinar, isso em curto tempo
+[00:12:14:07 --> 00:12:18:18] sim também, tá? Então é uma opção. Quem vem de curso, não fique bravo comigo
+[00:12:18:18 --> 00:12:21:27] por causa disso, tá? Mas eu estou aqui para ajudar e para dar caminhos. Eu acredito
+[00:12:21:27 --> 00:12:25:03] que o mundo está mudando e nós precisamos mudar o jeito como nós fazemos as coisas.
+[00:12:25:12 --> 00:12:29:26] E eu já aprendo assim há bastante tempo e isso me poupa tempo e dinheiro. Eu acredito
+[00:12:29:26 --> 00:12:33:22] que pode poupar para vocês também, tá? Eu vou mostrar como aqui. Então sim, dá
+[00:12:33:22 --> 00:12:38:20] aprender qualquer software, a maior parte dele, o essencial que você precisa para o
+[00:12:38:20 --> 00:12:43:14] dia a dia, dá para aprender até sozinho. E quando eu falo sozinho, não é que você
+[00:12:43:14 --> 00:12:48:05] vai aprender só na tentativa e no erro, mas que você consegue muita informação hoje
+[00:12:48:05 --> 00:12:53:14] com facilidade. E eu vou mostrar para vocês como, tá? E o terceiro ponto, ferramentas
+[00:12:53:14 --> 00:12:57:09] sem fundamento não basta. Quando eu fiquei dois anos nessa escola aprendendo, eu
+[00:12:57:09 --> 00:13:01:17] saí de lá e eu sabia usar essas ferramentas todas, mas eu não me sentia designer. Então
+[00:13:01:17 --> 00:13:05:06] Então eu entrei na faculdade. Então entrei para a faculdade.
+[00:13:06:18 --> 00:13:12:01] Aí vem uma novidade, em quatro anos de faculdade eu devo ter tido uma ou duas aulas de software,
+[00:13:12:19 --> 00:13:13:21] uma ou duas.
+[00:13:14:12 --> 00:13:15:24] E os meus colegas também.
+[00:13:16:12 --> 00:13:20:03] Eu já sabia o software quando eu entrei na faculdade, então pra mim foi tranquilo, mas
+[00:13:20:03 --> 00:13:22:04] eu vi uma coisa que mudou minha crença.
+[00:13:22:08 --> 00:13:28:19] Eu vi muitos colegas meus que não fizeram nenhum curso de software, que tiveram que
+[00:13:28:19 --> 00:13:30:03] aprender o software sozinhos.
+[00:13:30:13 --> 00:13:33:09] E eles não ficaram pra trás, eles conseguiram aprender o software.
+[00:13:33:09 --> 00:13:39:07] E quando eles aprenderam software, isso deu tempo para que na faculdade eles não estivessem
+[00:13:39:07 --> 00:13:45:23] estudando sobre qual botão clicar, mas estivessem estudando sobre o porquê cada etapa do projeto
+[00:13:45:23 --> 00:13:46:09] importa.
+[00:13:46:29 --> 00:13:50:00] Por que nós fazemos design, qual que é o valor do design, que é o que realmente
+[00:13:50:00 --> 00:13:50:09] importa.
+[00:13:51:00 --> 00:13:54:17] E quando eu falo que ferramentas sem fundamento não basta, eu quero dizer exatamente isso.
+[00:13:55:10 --> 00:13:59:04] Se você tem um martelo, mas não tem a necessidade de colocar um prego na parede,
+[00:13:59:06 --> 00:14:00:09] o martelo não serve de nada.
+[00:14:00:09 --> 00:14:06:09] Toda a ferramenta tem um propósito, e o propósito está intimamente ligado com...
+[00:14:07:15 --> 00:14:09:05] o fundamento da ferramenta.
+[00:14:11:26 --> 00:14:16:12] Por exemplo, o fundamento de uma colher está ligado com o propósito de uma colher, o fundamento
+[00:14:16:12 --> 00:14:19:13] de uma faca está ligado com o propósito de uma faca.
+[00:14:19:19 --> 00:14:24:05] E assim você consegue utilizar melhor qualquer software quando você entende esse primeiro
+[00:14:24:05 --> 00:14:24:13] ponto.
+[00:14:24:15 --> 00:14:28:25] Se tá um pouco confuso, só confia que vai ficar muito claro pra vocês já já.
+[00:14:29:15 --> 00:14:31:06] Olha só essa frase que eu coloquei aqui.
+[00:14:31:21 --> 00:14:36:04] A ferramenta enferruja, o fundamento permanece.
+[00:14:36:04 --> 00:14:42:13] Diferente das ferramentas, investir tempo nos fundamentos sempre valerá a pena, pois
+[00:14:42:13 --> 00:14:43:21] eles raramente mudam.
+[00:14:44:00 --> 00:14:47:06] E aqui está o primeiro insight para vocês guardarem.
+[00:14:47:13 --> 00:14:51:15] Quando forem aprender qualquer ferramenta, não importa se você está começando do
+[00:14:51:15 --> 00:14:51:23] zero.
+[00:14:51:28 --> 00:14:56:04] Eu comecei a estudar design agora e aí eu preciso, eu quero aprender Photoshop,
+[00:14:56:07 --> 00:14:57:07] eu quero aprender Illustrator.
+[00:14:57:15 --> 00:15:00:21] Se você está começando do zero, ou se você já tem experiência com Illustrator
+[00:15:00:21 --> 00:15:04:17] e agora quer aprender Photoshop, então você já tem uma bagagem, mas agora quer mudar
+[00:15:04:17 --> 00:15:04:27] de software.
+[00:15:04:27 --> 00:15:09:27] Não importa o nível que você está, se você sabe vários softwares, qualquer software novo
+[00:15:09:27 --> 00:15:10:24] que você vai aprender.
+[00:15:12:01 --> 00:15:18:07] preste atenção nos fundamentos e invista o seu tempo para entender os fundamentos desse software,
+[00:15:19:21 --> 00:15:23:06] porque se você entender esses fundamentos, eles vão te acompanhar.
+[00:15:23:16 --> 00:15:26:24] Um exemplo que eu posso dar para vocês. Quando eu estudei sobre Flash…
+[00:15:28:07 --> 00:15:35:28] Eu aprendi sobre Timeline, eu aprendi sobre Keyframe, que são fundamentos da animação.
+[00:15:36:11 --> 00:15:42:07] Depois, mais tarde, quando eu precisei passar pro Premiere e pro After Effects, eu já sabia
+[00:15:42:07 --> 00:15:44:24] esses fundamentos, e os fundamentos permaneceram.
+[00:15:45:00 --> 00:15:49:19] Isso fez com que eu me familiarizasse mais rápido com os softwares novos que eu estava
+[00:15:49:19 --> 00:15:55:01] aprendendo e facilitou o meu processo, ou seja, eu aproveitei o aprendizado do passado
+[00:15:55:01 --> 00:15:55:29] agora nesse.
+[00:15:56:16 --> 00:16:01:22] Já os caminhos, os botões que eu aprendi a clicar, os atalhos que eu aprendi no flash?
+[00:16:02:25 --> 00:16:04:14] Muitos deles eu nem uso mais.
+[00:16:05:09 --> 00:16:07:16] Apesar disso, apesar do fundamento ser importante,
+[00:16:07:22 --> 00:16:09:01] nós precisamos das ferramentas.
+[00:16:09:25 --> 00:16:12:21] Então, a pergunta que fica é o que nós devemos fazer.
+[00:16:12:24 --> 00:16:14:15] Não adianta não aprender a ferramenta.
+[00:16:14:18 --> 00:16:16:19] Não adianta nós tentar...
+[00:16:16:19 --> 00:16:19:01] Vou estudar só fundamentos do design, por exemplo.
+[00:16:19:05 --> 00:16:20:20] Vou estudar fundamentos da mensagem.
+[00:16:20:28 --> 00:16:22:21] Se você não sabe colocar isso em prática,
+[00:16:23:02 --> 00:16:25:02] você vai ficar como...
+[00:16:25:02 --> 00:16:27:12] Eu batizei esse nome desde 2020, eu falo,
+[00:16:27:16 --> 00:16:28:24] que é o designer cabeçudo.
+[00:16:28:25 --> 00:16:30:00] O que é o designer cabeçudo?
+[00:16:30:13 --> 00:16:32:07] É aquele designer que tem uma cabeça tão grande.
+[00:16:32:07 --> 00:16:36:00] Eu fui esse designer já na faculdade, eu só queria ler teoria, estudar livro, estudar
+[00:16:36:00 --> 00:16:39:27] livro, estudar livro, que a minha cabeça foi ficando tão grande, mas tão grande, que
+[00:16:39:27 --> 00:16:43:19] o meu corpo, numa analogia, não conseguia nem sustentar essa cabeça a mais.
+[00:16:43:28 --> 00:16:46:18] Então eu só ficava parado no lugar, o que isso significa na prática?
+[00:16:47:00 --> 00:16:50:26] Eu sabia muito de teoria, mas eu não tinha desenvolvido minha prática.
+[00:16:51:10 --> 00:16:56:14] Então quando eu queria fazer um design, eu conseguia conceber um nível alto desse
+[00:16:56:14 --> 00:16:59:20] design, mas eu não conseguia executar esse nível alto, então a minha frustração
+[00:16:59:20 --> 00:17:04:10] era muito grande, eu era um designer cabeçudo, ficava com a cabeça caída, triste, chorando,
+[00:17:04:15 --> 00:17:10:04] até um meme, uma imagem. Deixa eu ver se eu acho ela aqui pra vocês, ela é muito
+[00:17:10:04 --> 00:17:12:29] boa. Eu guardo ela, uso às vezes nos stories.
+[00:17:14:10 --> 00:17:19:18] E essa imagem representa o cabeçudo, olha só, vou pegar aqui pra vocês, eu tenho ela guardada.
+[00:17:20:19 --> 00:17:22:16] Cadê o cabeçudo?
+[00:17:23:14 --> 00:17:24:17] Cadê, cadê, cadê, cadê?
+[00:17:26:18 --> 00:17:27:27] São muitas imagens.
+[00:17:29:15 --> 00:17:34:22] Isso aqui representa muitos designers que focam só na teoria, então a pessoa é muito boa de teoria.
+[00:17:35:27 --> 00:17:37:07] Mas a prática dela...
+[00:17:38:09 --> 00:17:44:03] é fraca. Caraca, eu não tô achando, eu quero muito achar. Aparece pra mim, cabeçudo.
+[00:17:47:05 --> 00:17:49:17] Olha aqui, é isso aqui!
+[00:17:50:19 --> 00:17:56:00] Muitos designers são o cabeçudo, então você fica parado, você tem muita teoria e zero
+[00:17:56:00 --> 00:17:56:25] prática, tá?
+[00:17:57:05 --> 00:18:00:14] E isso é ruim, então não adianta ficar só nos fundamentos teóricos, você precisa
+[00:18:00:14 --> 00:18:04:29] dos fundamentos do software, dos fundamentos práticos para executar aquilo, a ferramenta
+[00:18:04:29 --> 00:18:09:02] é importante, você precisa dela para o seu trabalho, não dá para confundir as
+[00:18:09:02 --> 00:18:09:26] coisas aqui, tá?
+[00:18:10:07 --> 00:18:16:13] Mas isso significa que nós vamos olhar para um lugar diferente, ao invés de
+[00:18:16:13 --> 00:18:16:22] Olá!
+[00:18:18:22 --> 00:18:22:13] Para os botões que nós precisamos clicar, para os caminhos, ao invés de investir tempo
+[00:18:22:13 --> 00:18:26:03] demais nisso, no tutorial, no passo a passo, que claro, vai ser importante, a gente vai
+[00:18:26:03 --> 00:18:28:18] chegar lá, nós vamos começar focando na base.
+[00:18:29:09 --> 00:18:31:06] E aí eu trouxe aqui de novo o termo bottom.
+[00:18:32:09 --> 00:18:37:16] valorize a base. Quando vamos aprender qualquer software, precisamos compreender quais são
+[00:18:37:16 --> 00:18:44:00] os fundamentos por trás dele. Então, antes de... ah, eu quero fazer uma animação complexa
+[00:18:44:00 --> 00:18:48:29] no After Effects, antes de já começar lá em cima, querendo fazer a animação completa,
+[00:18:49:08 --> 00:18:53:08] ou antes eu quero fazer um super vetor no Illustrator, eu quero fazer uma super manipulação
+[00:18:53:08 --> 00:18:59:03] de imagens no Photoshop, antes de já começar lá de cima, querendo criar algo, começa,
+[00:18:59:03 --> 00:19:07:04] começa. Comece de baixo. Comece pela abordagem por um up, da base. E a base é justamente
+[00:19:07:04 --> 00:19:11:29] o fundamento, é a mesma coisa. E aí só pra vocês entenderem o que eu quero dizer
+[00:19:11:29 --> 00:19:16:12] com isso, vamos ver na prática alguns softwares aqui, tá bom? Então eu coloquei ali, olha
+[00:19:16:12 --> 00:19:21:17] só. Lá em cima, fundamentos globais. Nós temos alguns fundamentos globais dos
+[00:19:21:17 --> 00:19:27:05] softwares que qualquer software de editoração gráfica vai precisar desses recursos. Que
+[00:19:27:05 --> 00:19:33:28] recurso de seleção, recurso de camadas, recurso de máscara, recurso de fill and stroke, que
+[00:19:33:28 --> 00:19:40:17] é preenchimento e borda, recurso de efeitos e recurso de blend. Claro, existem outros
+[00:19:40:17 --> 00:19:44:12] fundamentos também. Mas eu quero que vocês pensem isso. Vamos pegar os dois básicos,
+[00:19:44:17 --> 00:19:50:29] seleção e camadas. Não importa se você está no Illustrator, no Photoshop, no Corel
+[00:19:50:29 --> 00:19:57:26] no After Effects, no Premiere, no Figma, não importa. Todos esses softwares e todos os softwares
+[00:19:57:26 --> 00:20:05:00] de editoração gráfica vai trabalhar com amadas e vai trabalhar com algum tipo de seleção.
+[00:20:05:12 --> 00:20:11:00] A seleção entre eles muda, por exemplo, o Photoshop possui recursos de seleção muito
+[00:20:11:00 --> 00:20:17:01] avançados, mais avançados que todos os outros. Então consigo reconhecer uma imagem, selecionar
+[00:20:17:01 --> 00:20:23:24] só uma cor específica, um tipo de pixel, um recorte, um objeto. O Photoshop é expert
+[00:20:23:24 --> 00:20:28:08] em seleções, vamos dizer assim. Só que os outros softwares também tem os tipos de
+[00:20:28:08 --> 00:20:32:23] seleções diferentes. Por exemplo, o Illustrator, você consegue selecionar objetos vetoriais
+[00:20:32:23 --> 00:20:36:18] que tem a mesma aparência, às vezes tem a mesma borda, o mesmo preenchimento e
+[00:20:36:18 --> 00:20:41:28] por aí vai. Então, muda, às vezes, um pouco o jeito de fazer seleção ou a
+[00:20:41:28 --> 00:20:45:11] profundidade, a capacidade de seleção que o software tem. Mas todos eles lidam
+[00:20:45:11 --> 00:20:51:18] com seleção, porque ao trabalhar com imagem, você precisa dizer pro computador o que você
+[00:20:51:18 --> 00:20:53:21] quer selecionar e o que você quer mudar naquela imagem.
+[00:20:54:02 --> 00:20:55:18] Então seleção é um fundamento.
+[00:20:55:24 --> 00:21:00:11] Quando você começa entendendo esse fundamento, você vai levar isso, vai ser um legado,
+[00:21:00:26 --> 00:21:06:11] isso vai ser algo que vai te acompanhar, uma herança em qualquer outro software.
+[00:21:06:27 --> 00:21:10:21] Se a Adobe lançar agora um novo software melhor que o Photoshop, você pode ter
+[00:21:10:21 --> 00:21:14:13] certeza que esse software vai ter algum tipo de seleção, vai ter algum tipo
+[00:21:14:13 --> 00:21:18:22] de camada, porque são fundamentos, assim como eu coloquei ali máscara.
+[00:21:20:03 --> 00:21:23:24] Quando nós trabalhamos com a editoração gráfica, nós trabalhamos com máscara o tempo
+[00:21:23:24 --> 00:21:28:13] inteiro. É uma ilusão idiótica. Muitas vezes o segredo está em esconder coisas e revelar
+[00:21:28:13 --> 00:21:32:18] outras e isso cria uma ilusão. As pessoas não sabem o que está por trás das camadas,
+[00:21:32:23 --> 00:21:36:09] mas às vezes tem muitas máscaras ali. Então esse é o outro fundamento. E é um fundamento
+[00:21:36:09 --> 00:21:41:09] que vai te acompanhar no Photoshop, no Illustrator, no After Effects, no Premiere. Não importa!
+[00:21:42:01 --> 00:21:46:29] No Figma, qualquer software de editoração gráfica tem algum tipo de recurso de
+[00:21:48:09 --> 00:21:54:03] Então, olha só, quando você começa a perceber esses fundamentos, e você já tem esse histórico,
+[00:21:54:26 --> 00:21:56:11] você começa a levar isso.
+[00:21:56:17 --> 00:21:57:26] Então, sei lá, vou aprender framer.
+[00:21:58:14 --> 00:22:01:00] A pergunta que você faz agora é, como é que eu faço?
+[00:22:01:05 --> 00:22:02:27] Você vai, tipo, herdando, né?
+[00:22:03:01 --> 00:22:05:14] Então, como é que eu faço para poder selecionar no framer?
+[00:22:05:17 --> 00:22:06:09] Como que eu faço?
+[00:22:06:24 --> 00:22:08:10] Onde estão as camadas do framer?
+[00:22:08:17 --> 00:22:11:26] Onde estão os recursos de máscara no framer?
+[00:22:12:13 --> 00:22:15:07] Claro, que existem os recursos que são próprios de cada ferramenta, eu já vou
+[00:22:15:07 --> 00:22:19:12] vou mostrar pra vocês os fundamentos específicos, mas entender os fundamentos abrangentes vão
+[00:22:19:12 --> 00:22:24:21] te permitir levar essa herança, isso te poupa tempo no futuro. E é assim que você vai
+[00:22:24:21 --> 00:22:29:04] cada vez mais aprendendo mais rápido os outros softwares. Então, o fundamento é
+[00:22:29:04 --> 00:22:34:05] muito importante, vamos ver alguns fundamentos de cada software aqui então. O Illustrator,
+[00:22:34:17 --> 00:22:38:18] um fundamento do Illustrator é o vetor. Então antes de, ah vou comprar um curso de
+[00:22:38:18 --> 00:22:42:20] Illustrator, claro, pode comprar se você quiser, mas entende o que eu tô te falando
+[00:22:42:20 --> 00:22:48:14] Às vezes, uma hora investida ali, vou investir uma hora para entender a ferramenta e o fundamento
+[00:22:48:14 --> 00:22:49:11] por trás dessa ferramenta.
+[00:22:49:21 --> 00:22:50:03] Maravilha!
+[00:22:50:11 --> 00:22:52:13] Então, o que são vetores?
+[00:22:52:23 --> 00:22:54:12] Qual que é a diferença de um vetor para um bitmap?
+[00:22:54:15 --> 00:22:59:19] Você pesquisa no Google ou no chat GPT, pesquisa lá o que é um vetor, qual a diferença
+[00:22:59:19 --> 00:23:00:25] de um vetor para um bitmap?
+[00:23:01:17 --> 00:23:02:23] Qual que é a vantagem de um vetor?
+[00:23:02:23 --> 00:23:06:14] Ele te explica, pronto, leu, 10 minutinhos, já entendeu o fundamento importante do
+[00:23:06:14 --> 00:23:08:09] Illustrator que é o vetor.
+[00:23:08:11 --> 00:23:11:15] E aí você entendeu o propósito daquele software também, que muito designer faz
+[00:23:11:15 --> 00:23:12:06] essa confusão.
+[00:23:12:21 --> 00:23:15:01] Usa o software errado por um propósito errado.
+[00:23:16:03 --> 00:23:20:26] Parece uma atitude inocente, porque no final você tem um resultado, parece que deu certo,
+[00:23:20:27 --> 00:23:22:02] sei lá, vou fazer um site no Photoshop.
+[00:23:22:07 --> 00:23:26:08] Parece uma atitude inocente, mas você está se auto-sabotando.
+[00:23:26:22 --> 00:23:31:21] Quando você entende o lugar de potência de cada software, então qual é o potencial
+[00:23:31:21 --> 00:23:35:20] que ele tem para tirar o máximo proveito, você usa o software certo para cada recurso,
+[00:23:35:20 --> 00:23:38:25] porque você poupa tempo e chega no resultado muito mais fácil.
+[00:23:38:25 --> 00:23:43:06] Então, Photoshop não é um bom software para poder fazer interface, apesar de muita gente
+[00:23:43:06 --> 00:23:43:29] fazer até hoje.
+[00:23:44:09 --> 00:23:47:21] O Figma ganha de lavada do Photoshop em interface.
+[00:23:48:13 --> 00:23:51:02] Agora, por exemplo, o Figma não ganha do Illustrator em vetorização.
+[00:23:51:20 --> 00:23:55:04] O Illustrator é uma ferramenta especializada em vetorização.
+[00:23:55:11 --> 00:23:56:24] Então, entender esse fundamento é importante.
+[00:23:57:14 --> 00:23:58:14] Curva de Bezier.
+[00:23:58:23 --> 00:23:59:27] O que é curva de Bezier?
+[00:24:00:02 --> 00:24:01:13] Isso aqui é uma coisa que...
+[00:24:01:13 --> 00:24:02:12] Quem quer estudar Illustrator?
+[00:24:02:12 --> 00:24:04:11] Se você entender esse conceito...
+[00:24:05:13 --> 00:24:11:08] Você vai dominar a principal ferramenta do Illustrator e ninguém te segura mais, que é a Pantool,
+[00:24:11:16 --> 00:24:16:02] a ferramenta de caneta, que é onde as pessoas mais têm dificuldade. E olha que coisa simples,
+[00:24:16:05 --> 00:24:21:11] se você pegar agora no seu computador e digitar curva de Bezier, vai aparecer o Wikipedia para
+[00:24:21:11 --> 00:24:26:29] você. Você entra no Wikipedia e ali tem um artigo maravilhoso explicando como funciona a
+[00:24:26:29 --> 00:24:32:09] curva de Bezier. Então como funcionam as alças, a força que cada alça exerce no vetor.
+[00:24:33:03 --> 00:24:35:07] Então, entendeu esse conceito e esse fundamento?
+[00:24:35:14 --> 00:24:38:09] Não importa se você está no Illustrator, se você está no CorelDRAW ou até se você
+[00:24:38:09 --> 00:24:41:19] vai pegar a pentula do Figma mesmo, você vai conseguir fazer.
+[00:24:42:06 --> 00:24:46:25] Claro que um vai ser mais fácil que o outro muitas vezes, mas você vai entender o funcionamento,
+[00:24:47:01 --> 00:24:51:17] o fundamento e esse vai te acompanhar, não importa o software novo que surgir, é
+[00:24:52:03 --> 00:24:52:29] fundamento, é base.
+[00:24:53:12 --> 00:24:53:20] Entende?
+[00:24:54:14 --> 00:24:59:11] Então, nós temos aqui o Pathfinder, o Pathfinder é uma das ferramentas mais
+[00:24:59:11 --> 00:25:01:11] poderosas do Illustrator também, é um fundamento dele.
+[00:25:01:26 --> 00:25:04:09] Ah, Juan, como é que eu vou entender quais são os fundamentos de cada software?
+[00:25:04:12 --> 00:25:05:23] Eu vou ensinar para vocês um caminho também.
+[00:25:05:26 --> 00:25:07:27] Surgiu um software novo, como é que eu entendo os fundamentos dele?
+[00:25:08:08 --> 00:25:09:23] Fica comigo aqui que eu vou ensinar, tá?
+[00:25:10:06 --> 00:25:14:09] Mas vamos lá, Photoshop, um dos fundamentos dele são as seleções avançadas.
+[00:25:14:21 --> 00:25:19:09] Um recorte de cabelo, seleção do pixel, seleção por cor, seleção por assuntos.
+[00:25:19:13 --> 00:25:22:14] O Photoshop é o melhor software de seleção bitmap.
+[00:25:23:09 --> 00:25:25:24] O Photoshop já não é um software de vetor.
+[00:25:26:23 --> 00:25:30:24] Assim como existem os paralelos, tem gente que fala que usa Affinity, então na Affinity
+[00:25:30:24 --> 00:25:36:28] tem o Affinity Photo, que seria o equivalente ao Photoshop, o Affinity Photo é mais especializado
+[00:25:36:28 --> 00:25:37:26] em seleção.
+[00:25:38:19 --> 00:25:42:01] E o Affinity Designer é mais especializado em vetores.
+[00:25:42:13 --> 00:25:45:17] Então você vai entendendo o lugar de potência de cada software, o propósito dele, a
+[00:25:45:17 --> 00:25:47:17] partir do propósito você entende o fundamento.
+[00:25:47:22 --> 00:25:50:11] Entender o fundamento você domina a ferramenta muito mais fácil.
+[00:25:51:18 --> 00:25:57:23] Nós temos o Figma, o maior poder do Figma é o Auto Layout, você usa o Auto Layout o tempo inteiro.
+[00:25:58:13 --> 00:26:04:27] Mas você também tem ferramentas de estilo para poder conseguir criar um sistema onde você muda uma matriz
+[00:26:04:27 --> 00:26:08:08] e todas as outras referências daquela matriz mudam junto.
+[00:26:08:20 --> 00:26:13:11] Tem a ideia de componente também, às vezes eu crio um componente específico para uma interface,
+[00:26:13:18 --> 00:26:16:05] repito ele em várias páginas, mas depois eu quero mudar esse componente.
+[00:26:16:15 --> 00:26:20:26] Eu mudo a matriz, o componente principal, e ele vai mudar todos os outros na página.
+[00:26:21:09 --> 00:26:25:11] Então, isso traz muita produtividade para quem trabalha com a interface, mas não só
+[00:26:25:11 --> 00:26:30:24] isso, o Figma está lançando recursos novos o tempo inteiro, porque o Figma é uma ferramenta
+[00:26:30:24 --> 00:26:35:27] feita pela comunidade também, então, é uma ferramenta altamente inovadora, tá?
+[00:26:35:27 --> 00:26:40:08] Então tem componentização, comportamento, protótipo, então no Illustrator você não
+[00:26:40:08 --> 00:26:43:04] trabalha com comportamento, se eu quero fazer um botão e ver como esse botão
+[00:26:43:04 --> 00:26:47:13] vai se comportar quando eu colocar o mouse em cima, o Illustrator não faz protótipo,
+[00:26:47:13 --> 00:26:52:17] o Figma faz protótipo. Então, para que você vai continuar fazendo site no Illustrator,
+[00:26:52:23 --> 00:26:55:26] por exemplo, ou no Photoshop, por exemplo? Você está se auto-sabotando fazendo isso.
+[00:26:55:26 --> 00:26:59:20] Ah, mas é porque eu já tenho familiaridade e vou fazer mais rápido. Dá para aprender
+[00:26:59:20 --> 00:27:02:23] o WhatSoft rápido também, se você tiver o método certo que eu vou mostrar aqui
+[00:27:02:23 --> 00:27:08:12] para vocês. E aí, se você aprende ele rápido, claro, você vai ter um gasto de
+[00:27:08:12 --> 00:27:12:20] energia maior, um gasto de glicose, ou seja, você vai colocar o seu cérebro para pensar
+[00:27:12:20 --> 00:27:16:24] mais, porque o que realmente acontece é isso. Quem fica fazendo site, por exemplo,
+[00:27:16:24 --> 00:27:19:23] no Photoshop ou no Illustrator ou quem fica vetorizando no FIG,
+[00:27:19:26 --> 00:27:22:19] mas ao invés de aprender o Illustrator, vou criar um logo no FIG,
+[00:27:22:23 --> 00:27:26:02] mas sei que consegue, mas cara, você está perdendo tempo fazendo isso.
+[00:27:27:08 --> 00:27:28:26] perdendo recursos importantes.
+[00:27:29:15 --> 00:27:34:07] Então, quem fica trocando, usando software que não tem o melhor potencial para aquilo,
+[00:27:34:25 --> 00:27:37:10] geralmente está só ouvindo o próprio cérebro.
+[00:27:37:11 --> 00:27:42:07] Como é um ambiente familiar, uma zona de conforto, você gasta menos energia para executar
+[00:27:42:07 --> 00:27:42:27] uma tarefa ali.
+[00:27:43:11 --> 00:27:48:10] Então, parece para você, é mais confortável para você, você libera menos hormônio
+[00:27:48:10 --> 00:27:48:23] de estresse.
+[00:27:48:28 --> 00:27:51:26] Isso é verdade mesmo, a zona de conforto te deixa em tranquilidade.
+[00:27:52:08 --> 00:27:55:10] Quando você é forçado a ir para um outro software, você ainda não tem zona de
+[00:27:55:10 --> 00:27:55:22] conforto lá.
+[00:27:55:22 --> 00:27:59:05] Então, você vai gastar mais glicose, você vai ter que pensar mais no início.
+[00:27:59:22 --> 00:28:04:11] Só que se você passa por essa primeira zona de estresse, depois você aprende o software
+[00:28:04:11 --> 00:28:06:13] e agora você faz muito mais rápido.
+[00:28:06:25 --> 00:28:10:07] Então, às vezes investir um pouquinho mais de tempo para ganhar muito mais tempo no
+[00:28:10:07 --> 00:28:12:08] seu próximo projeto, vale a pena.
+[00:28:12:20 --> 00:28:14:19] Então, a gente tem que levar isso em consideração também, tá?
+[00:28:14:29 --> 00:28:19:24] Quando a gente vai para o After Effects, alguns fundamentos importantes são Timeline,
+[00:28:21:10 --> 00:28:23:13] Keyframe, Expressões, Render...
+[00:28:23:13 --> 00:28:24:24] São coisas que você não vai...
+[00:28:24:24 --> 00:28:29:17] O Photoshop, por exemplo, no Photoshop você consegue fazer uma animação, um GIF, uma
+[00:28:29:17 --> 00:28:30:16] animação mais simples.
+[00:28:31:01 --> 00:28:36:05] Dá para fazer até, tem a ferramenta lá, mas você está se autossabotando, você está
+[00:28:36:05 --> 00:28:37:01] se limitando ali.
+[00:28:37:12 --> 00:28:42:14] Existem casos específicos de pessoas que, às vezes, já trabalham dentro do Photoshop,
+[00:28:42:22 --> 00:28:47:22] trabalham algum tipo de animação 2D, trabalham ali frame a frame, uma coisa bem
+[00:28:47:22 --> 00:28:48:14] específica.
+[00:28:48:19 --> 00:28:53:07] Essa pessoa consegue tirar proveito dali, aí vem a parte também de experimentar e
+[00:28:53:07 --> 00:28:54:06] encontrar o seu processo.
+[00:28:54:06 --> 00:28:57:16] Mas isso é mais na frente, é quando você sabe o que está fazendo.
+[00:28:57:25 --> 00:29:02:21] Quando você não sabe o que está fazendo, confia nos fundamentos e aproveita o lugar
+[00:29:02:21 --> 00:29:06:21] de potência de cada software, que isso vai te poupar muito tempo, tá?
+[00:29:06:29 --> 00:29:08:12] E vai te fazer evoluir muito mais rápido.
+[00:29:09:19 --> 00:29:14:13] Tem o Blender, que é um software também. O Blender é o Photoshop do 3D. O Blender
+[00:29:14:13 --> 00:29:19:24] faz tudo. O Blender você modela, o Blender você faz mapping UV, o Blender você faz
+[00:29:19:24 --> 00:29:24:09] rigging, que é esqueleto para animação 3D. Você trabalha com luz, câmera, animação,
+[00:29:25:22 --> 00:29:29:06] render, render realista. Claro, vai precisar de plugin, algumas coisas vão ser mais
+[00:29:29:06 --> 00:29:32:23] difíceis, ele não vai ser o melhor em tudo, mas ele é como se fosse o Photoshop do 3D.
+[00:29:33:05 --> 00:29:38:15] Mas repare ele, eu coloquei alguns fundamentos, que se você entender, basta você se localizar
+[00:29:38:15 --> 00:29:42:04] dentro do software que você vai saber o que você tá fazendo. Então entender, poxa,
+[00:29:42:04 --> 00:29:46:28] eu vou trabalhar com 3D, o que é um eixo x, y, y, z? O que é modelagem? Dentro da
+[00:29:46:28 --> 00:29:53:07] modelagem, o que é um bevel? O que é um extrude? O que é um uv mapping? O que é
+[00:29:53:07 --> 00:29:57:18] luz? O que é câmera? O que é rigging? Você saber isso facilita você se localizar
+[00:29:57:18 --> 00:30:02:23] lá dentro. Então, eu acho que já ficou claro aqui que se você quer poupar tempo
+[00:30:02:23 --> 00:30:08:01] e quer ter uma herança, ou seja, valorizar o tempo investido hoje para que ele continue
+[00:30:08:01 --> 00:30:15:16] E sendo útil no futuro, invista nos fundamentos, porque os fundamentos vão te acompanhar.
+[00:30:15:21 --> 00:30:19:16] A ferramenta enferruja o fundamento permanece, tá?
+[00:30:19:28 --> 00:30:20:27] Então lembrem-se disso.
+[00:30:22:14 --> 00:30:27:07] Aí eu coloquei essa definição aqui, que basicamente é uma sentença, uma síntese,
+[00:30:27:14 --> 00:30:31:05] por isso os melhores cursos de ferramentas são aqueles que focam nos fundamentos.
+[00:30:31:10 --> 00:30:35:13] Na faculdade, por exemplo, eu não tive aula de software, só que eu tive aula de timeline,
+[00:30:35:19 --> 00:30:40:13] eu tive aula de keyframe, eu tive aula de motion graphics, ilusão gráfica com motion
+[00:30:40:13 --> 00:30:40:22] graphics.
+[00:30:40:28 --> 00:30:46:25] O meu professor de motion graphics, ele investia mais tempo mostrando pra gente que um
+[00:30:46:25 --> 00:30:51:02] efeito de animação é uma ilusão de ótica, é um show de ilusão de ótica.
+[00:30:51:02 --> 00:30:56:14] Então, às vezes, é mais importante você ter o raciocínio para fazer o efeito do que,
+[00:30:56:15 --> 00:31:00:01] por exemplo, saber a ferramenta.
+[00:31:00:05 --> 00:31:05:28] Tem um recurso que chama entrelaçamento, que o entrelaçamento gera um efeito de expansão.
+[00:31:06:15 --> 00:31:10:25] Só que você tem um efeito de expansão no 3D, é como se o objeto estivesse ampliando
+[00:31:10:25 --> 00:31:13:25] assim para você, só que na verdade ele não está ampliando, são dois objetos
+[00:31:13:25 --> 00:31:14:12] girando.
+[00:31:14:19 --> 00:31:17:21] E esses dois objetos girando geram uma ilusão de ótica.
+[00:31:17:21 --> 00:31:25:27] E ele ensinou Motion Graphics igual aos primeiros animadores que fizeram Motion Graphics, o Morrolinag,
+[00:31:26:08 --> 00:31:27:02] o...
+[00:31:28:05 --> 00:31:33:08] Ai, Salpés, esses que trabalhavam motion graphics mesmo, não animação de personagens,
+[00:31:33:12 --> 00:31:34:11] mas motion graphics.
+[00:31:35:17 --> 00:31:41:06] Então entender o fundamento dá muito mais potencial pra você na hora de utilizar uma
+[00:31:41:06 --> 00:31:41:19] ferramenta.
+[00:31:42:00 --> 00:31:45:12] Não é sobre clicar no botão, mas é sobre o que fazer com aquele botão.
+[00:31:45:15 --> 00:31:47:03] Isso é o que verdadeiramente importa.
+[00:31:47:12 --> 00:31:50:06] E isso é o fundamento que eu tô querendo mostrar aqui pra vocês, tá bom?
+[00:31:50:20 --> 00:31:51:28] Mas aí vem a pergunta, né?
+[00:31:53:17 --> 00:31:54:16] Como que...
+[00:31:54:16 --> 00:31:57:05] Como que eu faço pra entender os fundamentos?
+[00:31:57:05 --> 00:31:59:26] E pra depois que eu entendi os fundamentos, como é que eu aprendo eles?
+[00:32:00:11 --> 00:32:02:20] Porque se eu só abra a ferramenta, eu não vou conseguir aprender.
+[00:32:03:23 --> 00:32:06:05] E aí a gente entra naquele conceito que eu falei no início da aula.
+[00:32:07:07 --> 00:32:08:29] Onde que os primeiros...
+[00:32:10:04 --> 00:32:14:14] Aprendem! Quando uma ferramenta nova surge, as primeiras pessoas que aprendem, aprendem
+[00:32:14:14 --> 00:32:14:22] como.
+[00:32:16:06 --> 00:32:17:02] É uma grande questão.
+[00:32:17:23 --> 00:32:21:16] E aí a primeira frase que eu quero colocar aqui, pra já forrar esse terreno e nós falarmos
+[00:32:21:16 --> 00:32:25:13] sobre isso, é uma frase do Leonardo da Vinci, que era um polímata, a gente falou dele na
+[00:32:25:13 --> 00:32:25:26] primeira aula.
+[00:32:26:12 --> 00:32:27:21] Se ele tem uma frase...
+[00:32:28:20 --> 00:32:31:07] que nos faz questionar.
+[00:32:32:14 --> 00:32:37:02] Nós, só um parêntese aqui, nós vamos ter uma aula sobre pensamento crítico também.
+[00:32:37:05 --> 00:32:40:29] Essa aula vai ser maravilhosa, tenho certeza, a gente vai falar de lógica, retórica,
+[00:32:41:09 --> 00:32:45:09] pensamento crítico, como alcançar formas diferentes que filósofos utilizam para alcançar
+[00:32:45:09 --> 00:32:49:02] a verdade, que depois evoluirão para matemática e para ciência que a gente conhece hoje.
+[00:32:49:27 --> 00:32:51:15] Então como ter pensamento crítico?
+[00:32:51:25 --> 00:32:55:18] E essa frase é a frase de alguém que tem muito pensamento crítico.
+[00:32:55:21 --> 00:32:59:11] E é ela que nos faz poupar tempo e às vezes chegar em lugares que as outras
+[00:32:59:11 --> 00:33:00:02] pessoas não chegam.
+[00:33:01:01 --> 00:33:06:21] E a frase do Leonardo é, quem sabe onde está a fonte, não vai até o jarro.
+[00:33:06:25 --> 00:33:08:29] Eu lembro que eu falei isso aqui com o Rafael, né?
+[00:33:09:07 --> 00:33:12:13] Aí o Rafael falou assim, depende, se o jarro estiver mais perto...
+[00:33:13:11 --> 00:33:14:19] Que é verdade, né?
+[00:33:14:25 --> 00:33:17:14] Se o jarro estiver mais perto, eu vou no jarro, não vou na fonte.
+[00:33:17:17 --> 00:33:20:16] Mas vamos analisar o que ele quis dizer aqui, que faz muito sentido.
+[00:33:21:10 --> 00:33:27:09] Se você tem a fonte do conhecimento, você sabe onde a pessoa está pegando essa fonte de informação,
+[00:33:27:09 --> 00:33:30:06] Então, pra que você vai se contentar com telefone sem fio?
+[00:33:30:07 --> 00:33:34:17] Pra que você vai se contentar com a conclusão dessa pessoa somente se você consegue pegar
+[00:33:34:17 --> 00:33:35:02] onde ela chega?
+[00:33:35:05 --> 00:33:38:17] Tem uma outra frase, eu não lembro de quem é essa, mas eu gosto muito, que diz mais
+[00:33:38:17 --> 00:33:39:17] ou menos assim...
+[00:33:40:29 --> 00:33:45:21] preste atenção não no que os sábios dizem, mas nos passos deles.
+[00:33:46:06 --> 00:33:49:24] Então preste atenção nos passos dos sábios e não nas suas palavras, alguma coisa assim.
+[00:33:49:29 --> 00:33:53:12] Ou seja, preste atenção para onde essa pessoa está indo e o que ela está fazendo e não
+[00:33:53:12 --> 00:33:57:27] necessariamente o que ela está falando, porque o que ela está falando não por maldade
+[00:33:57:27 --> 00:34:00:15] ou para querer te enganar, mas o que ela está falando é uma interpretação
+[00:34:00:15 --> 00:34:02:28] do que ela viu e não a realidade em si.
+[00:34:03:17 --> 00:34:10:28] Então quando Leonardo da Vinz fala isso aqui, quem sabe onde está a fonte novela
+[00:34:10:28 --> 00:34:15:12] a minha própria interpretação daquela verdade. Então isso aqui é muito poderoso também.
+[00:34:15:27 --> 00:34:20:21] E o que essa frase tem a ver com aprender ferramenta? Quando surge uma ferramenta nova,
+[00:34:21:09 --> 00:34:27:11] existem pessoas que vão na fonte. E essas pessoas que vão na fonte aprendem, se esforçam
+[00:34:27:11 --> 00:34:29:10] para aprender. E depois sabe o que elas fazem?
+[00:34:31:15 --> 00:34:36:11] mastigam e deixam o conteúdo digerível igual a uma papinha de neném, porque a maioria das pessoas
+[00:34:36:11 --> 00:34:41:22] hoje em dia não conseguem digerir um conteúdo que vai além de uma papinha de neném. Então é por
+[00:34:41:22 --> 00:34:47:02] isso que hoje os perfis que mais bombam no Instagram são perfis com dicas rápidas,
+[00:34:47:13 --> 00:34:49:16] micro learning, dicas rápidas de software.
+[00:34:50:19 --> 00:34:53:29] Vou lá, clico aqui, clico aqui. Não, você está fazendo errado, tem um jeito mais inteligente, olha só.
+[00:34:54:04 --> 00:34:55:09] Isso é útil, é legal, né?
+[00:34:55:19 --> 00:34:59:14] Eu também trazo muito insight, mas pensa, esse é o último nível.
+[00:35:00:16 --> 00:35:04:19] Tô ali no último nível, eu sou a pessoa que tá pegando o conteúdo o mais digeridinho
+[00:35:04:19 --> 00:35:07:11] possível, a maior papinha de neném possível.
+[00:35:07:25 --> 00:35:11:26] Enquanto isso, tem pessoas aqui na frente que são pioneiras, essas pessoas desbravam
+[00:35:11:26 --> 00:35:12:08] primeiro.
+[00:35:12:26 --> 00:35:18:11] E essas pessoas, elas aprendem a desenvolver o raciocínio pra alcançar o resultado
+[00:35:18:11 --> 00:35:23:05] sozinhas, pra chegar em meios de realizar aquela tarefa.
+[00:35:23:08 --> 00:35:27:00] E não dependem de alguém falando pra elas, olha, dá pra fazer isso aqui, porque
+[00:35:27:00 --> 00:35:31:15] elas experimentam, elas testam, elas sabem chegar naquele recurso por conta própria.
+[00:35:32:10 --> 00:35:36:14] E quando eu falo de ir até a fonte nós podemos entender e interpretar isso de duas formas.
+[00:35:36:23 --> 00:35:39:29] Uma delas é de fato ir na fonte, ou seja, quem criou o software?
+[00:35:40:14 --> 00:35:45:03] Ele já deu alguma informação sobre isso e por incrível que pareça, eles dão.
+[00:35:46:14 --> 00:35:49:02] e geralmente os designers não prestam atenção nisso.
+[00:35:49:08 --> 00:35:50:28] Eu vou mostrar isso pra vocês aqui hoje, tá bom?
+[00:35:51:05 --> 00:35:55:15] Eu vou mostrar agora, inclusive, depois eu vou entrar mais a fundo nisso.
+[00:35:56:04 --> 00:35:57:04] Então, deixa eu pegar aqui, ó.
+[00:36:00:15 --> 00:36:04:16] Eu vou colocar aqui na tela para vocês, eu vou pegar o do Photoshop, tá?
+[00:36:05:17 --> 00:36:11:22] Mas pra isso eu preciso... me dá só um minutinho pra eu colocar aqui na tela pra vocês, tá?
+[00:36:13:17 --> 00:36:16:01] Olha só isso aqui. É impressionante.
+[00:36:21:18 --> 00:36:21:29] Valeu!
+[00:36:23:10 --> 00:36:24:09] A tela está cortando?
+[00:36:26:19 --> 00:36:28:00] Deixa eu fazer uma coisa aqui.
+[00:36:29:14 --> 00:36:30:11] que vai deixá-la melhor.
+[00:36:30:19 --> 00:36:31:24] Isso aqui é quem tá ao vivo, né?
+[00:36:31:27 --> 00:36:35:11] Quem tá ao vivo é assim, depois no gravado não aparecem as coisas.
+[00:36:38:24 --> 00:36:41:00] Aí beleza, vou deixar aqui para vocês.
+[00:36:41:15 --> 00:36:44:12] Então olha essa tela aí, olha o que eu fiz, eu digitei isso daqui ó.
+[00:36:45:17 --> 00:36:47:19] Guia do usuário do Photoshop.
+[00:36:48:21 --> 00:36:51:07] Olha só, não é possível, é possível.
+[00:36:52:00 --> 00:36:56:24] Você entra aqui e você tem uma apostila em português te explicando aqui todos os
+[00:36:56:24 --> 00:36:57:28] principais recursos do software.
+[00:36:58:12 --> 00:37:01:00] Ah, mas eu vou ter que ler, eu gosto de ver vídeo.
+[00:37:01:09 --> 00:37:03:08] É aí que começa a diferença, você já tá querendo a papinha.
+[00:37:04:12 --> 00:37:06:21] Mas ainda que você está querendo a papinha...
+[00:37:08:05 --> 00:37:09:16] Ah, tô pra te dar a papinha.
+[00:37:10:14 --> 00:37:11:27] Então, tem aqui, olha, ele te ensinando.
+[00:37:12:00 --> 00:37:16:15] Ah, vai estar em inglês, claro, você pode arranjar os obstáculos que for.
+[00:37:16:25 --> 00:37:18:06] Você pode arranjar os seus obstáculos.
+[00:37:18:19 --> 00:37:21:24] Mas aqui mesmo, no próprio Photoshop, e isso é o que eu indico,
+[00:37:22:07 --> 00:37:24:04] sempre, vai começar a aprender qualquer ferramenta,
+[00:37:24:12 --> 00:37:26:17] abre ela primeiro, fuça, e já vai num guia.
+[00:37:26:27 --> 00:37:28:23] Porque a maioria das ferramentas tem um guia.
+[00:37:29:11 --> 00:37:30:22] Vai no guia da ferramenta...
+[00:37:31:24 --> 00:37:34:29] que lá você vai ter tutoriais. Esses tutoriais são gratuitos.
+[00:37:35:03 --> 00:37:36:18] Deixa eu pegar aqui...
+[00:37:36:18 --> 00:37:38:04] Ah, mas eu não vou conseguir mostrar para vocês.
+[00:37:38:12 --> 00:37:40:04] Se você abrir o seu Photoshop agora,
+[00:37:40:20 --> 00:37:42:19] ele vai ter tutoriais, vai em Help, Ajuda,
+[00:37:42:24 --> 00:37:46:19] e lá tem tutoriais, lá tem o Guia de Ajuda, tem tudo o que você precisa.
+[00:37:47:04 --> 00:37:47:24] Illustrator também.
+[00:37:48:15 --> 00:37:51:22] Mas isso aqui é só a primeira parte, isso aqui não é nem o segredo da aula de hoje não.
+[00:37:51:24 --> 00:37:53:04] Eu só estou mostrando para vocês.
+[00:37:53:13 --> 00:37:55:24] Para que eu vou no jarro se eu posso ir na fonte.
+[00:37:56:00 --> 00:37:57:18] Então, Guia do Usuário.
+[00:37:58:07 --> 00:37:59:15] Guia do Usuário do Illustrator.
+[00:38:00:07 --> 00:38:00:24] Aqui, ó.
+[00:38:00:24 --> 00:38:02:13] É como se fosse uma postila.
+[00:38:02:20 --> 00:38:06:04] Quando eu comecei a aprender software, galera, aqui ó, tem tudo aqui ó, conheço o Illustrator,
+[00:38:07:02 --> 00:38:10:03] Introdução, Illustrator na web, tá aqui, tá aqui pra vocês.
+[00:38:10:18 --> 00:38:13:21] Investe um dia pra mapear isso aqui, não precisa nem ler tudo, mas mapear, saber
+[00:38:13:21 --> 00:38:15:13] tudo que ele tá falando aqui, o tanto que você vai aprender.
+[00:38:15:25 --> 00:38:16:26] E tem os tutoriais, tá vendo?
+[00:38:17:10 --> 00:38:21:15] Criar e editar forma, transformar e editar arte, adicionar texto e design, os designs,
+[00:38:22:04 --> 00:38:22:16] tá aqui.
+[00:38:23:24 --> 00:38:27:07] Então, eu estou mostrando isso aqui mais para vocês verem o que é ir até a fonte,
+[00:38:27:19 --> 00:38:28:15] é um primeiro passo.
+[00:38:29:10 --> 00:38:31:08] E isso é uma das coisas que quem...
+[00:38:32:20 --> 00:38:36:17] Quem vai explorar uma ferramenta faz, mas ainda vem aquela questão, né?
+[00:38:37:13 --> 00:38:40:18] Mas quando uma ferramenta nova surge, muitas vezes ela não tem manual de instrução.
+[00:38:40:22 --> 00:38:42:18] Um caso disso foi o ChatEPT.
+[00:38:42:25 --> 00:38:45:09] Só que vocês repararam que o ChatEPT surgiu.
+[00:38:45:16 --> 00:38:48:15] E um tempo depois já tinha vários cursos de ChatEPT.
+[00:38:48:21 --> 00:38:51:10] A questão que fica aqui é nem se o curso é bom ou ruim.
+[00:38:51:13 --> 00:38:53:05] Será que as pessoas já aprendeu o suficiente, né?
+[00:38:53:07 --> 00:38:54:27] Porque dá pra gente levar isso pro lado cômico.
+[00:38:55:03 --> 00:38:58:08] Poxa vida, qualquer coisa nova que surge, já tem alguém querendo fazer um curso.
+[00:38:58:10 --> 00:39:00:19] Isso é sacanagem também, tem muita gente que faz.
+[00:39:01:06 --> 00:39:07:05] Vende algo que nem deveria ser vendido, de tão ruim que é, para tentar ganhar em cima,
+[00:39:07:07 --> 00:39:08:05] ser oportunista nas pessoas.
+[00:39:08:07 --> 00:39:10:27] Isso é horrível, eu não estou nem entrando nesse tópico porque nem vale a pena.
+[00:39:11:12 --> 00:39:14:22] Mas existem algumas pessoas que sim fazem cursos incríveis.
+[00:39:15:03 --> 00:39:19:06] Dá ali duas, três semanas e essa pessoa explorou tanto essa ferramenta que ela realmente
+[00:39:19:06 --> 00:39:19:29] sabe tanto.
+[00:39:20:06 --> 00:39:24:09] Aí você compra o curso e fala, caraca, eu nem cogitei que dava para fazer tudo
+[00:39:24:09 --> 00:39:24:17] isso.
+[00:39:25:01 --> 00:39:26:15] Mas essa pessoa cogitou.
+[00:39:26:24 --> 00:39:27:25] Pensa um pouco sobre isso.
+[00:39:28:02 --> 00:39:29:05] Essa pessoa cogitou.
+[00:39:29:05 --> 00:39:33:27] E essa pessoa aprendeu sozinha, ela não comprou curso de outra pessoa, ela explorou.
+[00:39:35:08 --> 00:39:41:01] E aí, o questionamento é, se ela conseguiu, você também não consegue aprender qualquer ferramenta,
+[00:39:41:13 --> 00:39:46:11] mesmo que não tenha um curso sobre isso, mesmo que não tenha um manual de instrução?
+[00:39:46:29 --> 00:39:47:19] Você consegue!
+[00:39:48:27 --> 00:39:54:00] E eu só percebi essa possibilidade depois que eu virei professor.
+[00:39:54:06 --> 00:39:56:07] Eu vou mostrar isso aqui pra vocês, tá?
+[00:39:56:18 --> 00:39:58:06] Mas eu quero que vocês concebam isso.
+[00:40:00:11 --> 00:40:05:29] Pense comigo, quando surge uma nova ferramenta, quem aprende primeiro, aprende c...
+[00:40:07:17 --> 00:40:10:03] Essa é a questão que nós queríamos levar em consideração aqui.
+[00:40:10:28 --> 00:40:12:27] E aí, é o que eu falei pra vocês.
+[00:40:13:04 --> 00:40:16:10] Eu só realizei isso quando eu me tornei professor.
+[00:40:16:26 --> 00:40:21:07] Porque quando você vira professor, você muda o seu jeito de enxergar as coisas.
+[00:40:22:16 --> 00:40:23:13] Muda drasticamente.
+[00:40:23:24 --> 00:40:25:06] E eu quero mostrar isso pra vocês, tá?
+[00:40:25:14 --> 00:40:28:12] Eu só tô vendo aqui que não apareceu minha tela pra vocês, né?
+[00:40:29:01 --> 00:40:31:09] Deixa eu ver que provavelmente eu abri a tela errada.
+[00:40:33:26 --> 00:40:35:03] Aí ó, ficou certo.
+[00:40:36:03 --> 00:40:36:27] Então, vamos lá.
+[00:40:37:23 --> 00:40:39:29] Por que professores aprendem mais?
+[00:40:40:09 --> 00:40:42:21] Essa é a tese, essa é a premissa que eu quero defender.
+[00:40:43:07 --> 00:40:46:15] E a resposta é porque precisam mapear o próprio conhecimento antes de ensinar.
+[00:40:47:08 --> 00:40:48:10] Qualquer um de vocês.
+[00:40:49:06 --> 00:40:52:06] Se eu perguntar aqui agora, você sabe como funcionam as inteligências artificiais?
+[00:40:52:08 --> 00:40:54:19] Alguns vão falar assim, eu sei como elas funcionam.
+[00:40:55:07 --> 00:40:59:00] Mas aí eu vou te perguntar, beleza, então me explica como elas funcionam.
+[00:40:59:04 --> 00:41:00:18] Aí eu vou saber se você sabe mesmo.
+[00:41:01:09 --> 00:41:06:21] Uma pessoa que consegue organizar um conhecimento a ponto de ensina-lo para outra pessoa, é
+[00:41:06:21 --> 00:41:10:23] uma pessoa que de fato compreendeu aquilo e organizou aquilo de um jeito lógico.
+[00:41:11:06 --> 00:41:12:29] Você não tem como ensinar sem fazer isso.
+[00:41:13:07 --> 00:41:15:05] Você pode tentar dar uma enganada, né?
+[00:41:15:20 --> 00:41:18:22] Igual eu já fiz muito isso em apresentação de trabalho de faculdade.
+[00:41:18:24 --> 00:41:23:09] Então, você decora a fala, decora a fala rapidinho, vai lá na frente e fala
+[00:41:23:09 --> 00:41:24:12] o que você decorou.
+[00:41:25:00 --> 00:41:28:26] Quem faz isso não está ensinando, está só funcionando igual a um papagaio, né?
+[00:41:28:26 --> 00:41:35:20] Então, em 1985, aconteceu uma coisa que chocou o mundo.
+[00:41:36:24 --> 00:41:40:08] A pessoa tá tentando lembrar, e aí por isso que dá bron branco nas pessoas.
+[00:41:41:25 --> 00:41:45:07] é diferente de alguém que ensina, igual eu estou ensinando aqui para vocês agora.
+[00:41:45:23 --> 00:41:50:05] Eu estou falando sobre algo que eu precisei mapear na minha cabeça e precisei me certificar
+[00:41:50:05 --> 00:41:53:26] de que eu entendia o que eu ia ensinar para vocês, porque senão eu não conseguiria
+[00:41:53:26 --> 00:41:57:04] estar estruturando essa informação para vocês aqui agora.
+[00:41:58:09 --> 00:42:02:22] Quem aprende, inclusive, não tem medo da pergunta. Alguém pode perguntar alguma coisa aí, talvez
+[00:42:02:22 --> 00:42:06:26] eu não saiba e eu vou falar, olha, eu não sei sobre isso, mas se você aprendeu, você
+[00:42:06:26 --> 00:42:11:20] vai conseguir responder a pergunta da pessoa. Então, isso é outra coisa importante. Logo,
+[00:42:12:01 --> 00:42:15:24] professores precisam mapear esse conhecimento e nós falamos disso na última aula sobre
+[00:42:15:24 --> 00:42:19:10] meta aprendizagem, a importância de fazer um mapa da sua ignorância e um mapa do
+[00:42:19:10 --> 00:42:22:28] seu conhecimento. O que você já sabe? Vamos tomar uma água aqui.
+[00:42:26:23 --> 00:42:29:28] o que você já sabe sobre o assunto.
+[00:42:30:28 --> 00:42:32:29] E é aqui que a coisa começa a ficar interessante.
+[00:42:34:06 --> 00:42:35:05] Professores!
+[00:42:36:09 --> 00:42:43:13] Bons alunos, porque sabem mapear o conhecimento, sabem fazer boas perguntas e sabem buscar a
+[00:42:43:13 --> 00:42:43:28] informação.
+[00:42:44:22 --> 00:42:51:19] Para ser professor você precisa disso, você tem que ir além do básico, porque os seus
+[00:42:51:19 --> 00:42:56:13] alunos vão ter desafios todos os dias e você vai ter que aprender a adaptar o conhecimento
+[00:42:56:13 --> 00:42:57:14] para esses desafios.
+[00:42:57:22 --> 00:43:00:24] Isso é a transferência, que é uma das coisas mais importantes quando a gente fala
+[00:43:00:24 --> 00:43:01:26] de pedagogia.
+[00:43:02:03 --> 00:43:05:14] Eu consegui transferir um conhecimento para uma área diferente.
+[00:43:05:14 --> 00:43:12:04] Eu não lembro qual foi o número na pesquisa, mas a maioria... houve uma pesquisa com estudantes
+[00:43:12:04 --> 00:43:12:19] de física.
+[00:43:13:12 --> 00:43:14:01] E a conclusão...
+[00:43:14:01 --> 00:43:16:21] Eu tenho que pegar essa pesquisa porque é bom sempre ter a referência, né?
+[00:43:16:25 --> 00:43:17:29] Mas ela é interessante.
+[00:43:18:16 --> 00:43:22:05] Nessa pesquisa, a conclusão que eles chegaram aqui, a maioria dos estudantes de física
+[00:43:22:19 --> 00:43:27:09] tem muita dificuldade em resolver os problemas que eles aprenderam e são muito bons para
+[00:43:27:09 --> 00:43:31:10] resolver na física quando eles estão em um ambiente diferente do ambiente da física.
+[00:43:32:16 --> 00:43:36:08] E isso, eu acredito que acontece na maioria das áreas, isso é a transferência de conhecimento,
+[00:43:36:10 --> 00:43:41:17] é quando você consegue pegar um conhecimento de uma área e aplicar em uma outra área
+[00:43:41:17 --> 00:43:42:00] diferente.
+[00:43:42:13 --> 00:43:46:23] É isso que gera sinapses e conexões diferentes que te fazem chegar em sites novos.
+[00:43:47:17 --> 00:43:51:16] Isso é importante, e professores precisam saber fazer isso, se não eles vão ser
+[00:43:51:16 --> 00:43:52:10] professores ruins.
+[00:43:53:01 --> 00:43:54:29] Bons professores são bons alunos.
+[00:43:55:12 --> 00:44:02:16] E aí quando eu concebi isso, eu percebi, porque às vezes, por exemplo, surgiu o
+[00:44:02:16 --> 00:44:07:04] Você já está usando o chat EPT? Isso há mais de um ano atrás, quando surgiu mesmo,
+[00:44:07:07 --> 00:44:08:25] você já está usando o chat EPT nos seus processos?
+[00:44:09:29 --> 00:44:14:17] E aí eu falava, tô usando. E de fato, eu tava experimentando, porque eles esperavam isso de mim.
+[00:44:14:19 --> 00:44:20:11] Então eu já estava em um papel de um experimentador, de alguém que vai lá, experimenta primeiro,
+[00:44:20:28 --> 00:44:22:05] pra depois falar da sua experiência.
+[00:44:22:14 --> 00:44:24:07] A maioria das pessoas vão esperar esse alguém.
+[00:44:24:20 --> 00:44:27:25] O que eu quero incentivar é que vocês não esperem esse alguém.
+[00:44:28:27 --> 00:44:30:10] Porque aí vocês vão evoluir muito mais rápido.
+[00:44:31:10 --> 00:44:33:25] tanto de coisa que eu faço com o ChatGPT hoje, por exemplo.
+[00:44:34:04 --> 00:44:36:19] A gente vai falar disso na parte de sincronia tecnológica.
+[00:44:37:09 --> 00:44:38:29] Mas eu tenho certeza que tem muito designer aí
+[00:44:38:29 --> 00:44:41:08] que está ainda esperando alguém lançar um curso
+[00:44:41:22 --> 00:44:43:18] de como usar o ChatGPT no design.
+[00:44:45:13 --> 00:44:48:07] Enquanto poderia já ter aprendido e já tá aplicando isso, fazendo coisas.
+[00:44:50:17 --> 00:44:56:19] estúpidas, de foda, coisas interessantíssimas, porque a ferramenta tá lá. E a premissa
+[00:44:56:19 --> 00:44:59:08] dela é que ela vai simplificar a sua vida, isso é o mais legal né, tem gente que acha
+[00:44:59:08 --> 00:45:03:19] que mais uma coisa pra aprender é complicado, não é, simplifica. Mas vamos trazer isso
+[00:45:03:19 --> 00:45:07:05] pro software, quando surgiu o Figma, sempre tem a resistência, ah depois eu aprendo,
+[00:45:07:07 --> 00:45:11:11] depois eu aprendo, o que eu fiz? Primeira coisa, o software já é de graça, eu
+[00:45:11:11 --> 00:45:13:21] baixei o software e falei, vou testar, vou experimentar.
+[00:45:15:17 --> 00:45:19:15] E é aqui que a gente começa a ter a diferença, porque eu não só experimento, como eu mapeio
+[00:45:20:11 --> 00:45:23:10] a ferramenta e mapeio o que eu sei dela e o que eu preciso saber.
+[00:45:23:18 --> 00:45:27:08] É isso que eu quero mostrar para vocês, se vocês entenderem isso, vocês vão ser
+[00:45:27:08 --> 00:45:28:15] capazes de dominar qualquer software.
+[00:45:28:24 --> 00:45:30:24] Inclusive qualquer software que vai surgir ainda, tá?
+[00:45:31:24 --> 00:45:39:11] Vamos supor que eu vou ensinar para vocês como usar Blender, eu posso fazer isso sem
+[00:45:39:11 --> 00:45:43:04] nunca ter usado essa ferramenta antes, eu sei, isso aqui é absurdo, tem gente que vai ouvir
+[00:45:43:04 --> 00:45:46:24] isso aqui e vai falar, cara, mas aí você é um charlatão, você nunca usou e tá
+[00:45:46:24 --> 00:45:49:01] se colocando na posição de alguém que vai ensinar?
+[00:45:49:16 --> 00:45:50:18] Olha que louco isso, né?
+[00:45:51:04 --> 00:45:56:00] Realmente é um absurdo, mas eu realmente consigo, eu sei que às vezes é difícil
+[00:45:56:00 --> 00:46:00:09] de acreditar, mas se você me der algumas horas, eu nunca usei o Blender, não usei
+[00:46:00:09 --> 00:46:04:06] mesmo, tá? Eu conheço a ferramenta, já ouvi falar muito sobre ela, eu não conheço ela,
+[00:46:04:21 --> 00:46:09:17] mas se você me dar algumas horas, talvez, vamos lá, um dia, pra eu ficar ali umas
+[00:46:09:17 --> 00:46:13:24] 4, 5 horas usando ela, e você nunca usou o Blender, se você me dar umas 5 horas,
+[00:46:14:00 --> 00:46:18:26] eu faço uma aula de Blender e você sai dela com passo a passo pra dominar o Blender.
+[00:46:20:12 --> 00:46:23:00] Eu sei que parece um absurdo o que eu tô falando aqui agora.
+[00:46:23:06 --> 00:46:25:02] Realmente parece bizarro.
+[00:46:26:01 --> 00:46:31:21] Mas isso é realmente o que eu sei fazer, é uma verdade e com qualquer outra ferramenta.
+[00:46:32:10 --> 00:46:34:14] E eu vou mostrar o processo para vocês aqui, tá?
+[00:46:34:17 --> 00:46:36:16] Então vamos supor que eu vou fazer isso.
+[00:46:36:21 --> 00:46:40:13] Aí eu coloquei ele, me dê algumas horas e preparo uma aula sobre o assunto e você
+[00:46:40:13 --> 00:46:42:05] certamente terá um passo a passo para dominar o Blender.
+[00:46:43:09 --> 00:46:45:01] Como que eu faço isso?
+[00:46:45:28 --> 00:46:53:12] A diferença é que eu não preciso ter anos de estudo em Blender para te dar uma aula
+[00:46:53:12 --> 00:46:55:10] de Blender que vai te tirar do zero.
+[00:46:56:22 --> 00:47:02:27] para o 2080 ali. Que é o que que é o 2080? Leite Pareto. 20% dos esforços trazem 80%
+[00:47:02:27 --> 00:47:07:02] dos resultados. Ou seja, qual que é o essencial do software que você precisa fazer para
+[00:47:07:02 --> 00:47:12:04] tirar proveito dele e ter um projeto no final. No caso do Blender, você vai precisar modelar,
+[00:47:12:09 --> 00:47:15:23] depois que você modelar, você vai precisar trabalhar a câmera para poder fazer o
+[00:47:15:23 --> 00:47:19:09] render e trabalhar o material desse render. Isso é fundamento, olha que interessante.
+[00:47:19:11 --> 00:47:22:29] Como eu já sei disso, eu já vou buscar essas coisas no software, mas eu nunca usei
+[00:47:22:29 --> 00:47:26:20] esse software. Então eu busco essas informações no software, mapeio ele, eu já vou
+[00:47:26:20 --> 00:47:31:15] vou mostrar para vocês isso, mas eu mapeio o software, depois que eu mapeio ele, como
+[00:47:31:15 --> 00:47:34:29] eu já sei o fundamento, eu vou buscar como executar aquele fundamento, então vai ser
+[00:47:34:29 --> 00:47:35:19] muito mais rápido.
+[00:47:36:04 --> 00:47:39:00] Ah, Ruan, aí se eu estou começando do zero, eu não sei o fundamento ainda, você vai
+[00:47:39:00 --> 00:47:41:06] no fundamento, que ainda assim você vai muito mais rápido.
+[00:47:41:15 --> 00:47:42:18] E eu vou mostrar aqui para vocês.
+[00:47:42:28 --> 00:47:48:08] Isso inclusive é uma metodologia que eu aplicava na minha vida e mais tarde eu
+[00:47:48:08 --> 00:47:53:17] descobri que um cara chamado David Cope, que é uma referência no mundo da pedagogia...
+[00:47:54:27 --> 00:47:59:04] E ele provou isso, ele mostrou com estudo que existem quatro passos, que se você seguir
+[00:47:59:04 --> 00:48:04:23] esses quatro passos, você consegue alcançar a maestria mais rápido, com intenção e
+[00:48:04:23 --> 00:48:06:03] com intencionalidade.
+[00:48:06:13 --> 00:48:07:20] Eu vou mostrar esses passos pra vocês.
+[00:48:08:01 --> 00:48:18:09] Eu fazia isso já, depois eu tive a constatação de que isso era evidente, realmente funcionava.
+[00:48:18:22 --> 00:48:18:29] Tá?
+[00:48:18:29 --> 00:48:20:04] E eu vou mostrar isso pra vocês.
+[00:48:20:13 --> 00:48:23:21] Então, vamos dar uma olhada aqui no método do David Cope.
+[00:48:24:24 --> 00:48:29:27] Temos aqui, ó, quatro etapas. Ele chamou isso de ciclo de aprendizagem
+[00:48:29:27 --> 00:48:33:08] experiencial contínuo, apesar desse nome gigante, vocês vão entender.
+[00:48:33:28 --> 00:48:37:26] Lá em cima nós temos experiência concreta. Eu vou explicar cada um, tá? Mas só pra
+[00:48:37:26 --> 00:48:40:11] a gente passar por eles. Então, primeiro você tem uma experiência
+[00:48:40:11 --> 00:48:44:29] concreta com qualquer tipo de aprendizado, depois você tem uma observação reflexiva
+[00:48:44:29 --> 00:48:49:20] pra entrar em uma conceituação abstrata, depois um experimento ativo e volta pra
+[00:48:49:20 --> 00:48:53:05] experiência concreta. As pessoas muitas vezes não passam por esse
+[00:48:53:05 --> 00:48:58:09] processo quando vão aprender qualquer coisa na vida delas. Mas quem passa por esse processo
+[00:48:58:09 --> 00:49:03:17] tende a evoluir muito mais rápido. E muitas pessoas naturalmente seguem esse processo sem
+[00:49:03:17 --> 00:49:07:13] perceber. Mas agora eu quero mostrar pra vocês, dar clareza pra vocês de que ele existe.
+[00:49:07:29 --> 00:49:13:21] E que se vocês aplicarem isso daqui, vocês podem dominar qualquer software. É só seguir
+[00:49:13:21 --> 00:49:15:17] esse passo a passo. Então vamos lá.
+[00:49:16:00 --> 00:49:20:15] Primeiro, experiência concreta. A maioria das pessoas já resistem a essa
+[00:49:20:15 --> 00:49:24:27] primeira etapa, porque elas tem medo do novo e porque isso gasta glicose mesmo. Você vai
+[00:49:24:27 --> 00:49:30:06] ter que pensar. E aí, eu já passei por isso com vários alunos. Alunos que, por exemplo,
+[00:49:30:14 --> 00:49:35:05] fazem site em Illustrator. Aí eu falo, vai pro Figma. Ah, mas é porque eu tenho
+[00:49:35:05 --> 00:49:39:03] que aprender. Vai pro Figma. A pessoa tá sofrendo no Illustrator, porque fazer site
+[00:49:39:03 --> 00:49:42:15] no Illustrator comparado ao Figma é um sofrimento.
+[00:49:43:18 --> 00:49:48:20] Você não tem padding, você não tem auto-layout, você não tem protótipo, você não tem comportamento,
+[00:49:48:26 --> 00:49:52:10] não tem componente, você sofre à toa!
+[00:49:53:13 --> 00:49:58:20] Você está usando uma faquinha de plástico para cortar uma picanha.
+[00:49:59:00 --> 00:50:01:26] Você até consegue, mas ela vai ficar toda ralada.
+[00:50:02:14 --> 00:50:02:23] Entende?
+[00:50:04:09 --> 00:50:06:17] E aí, o primeiro passo as pessoas já resistem.
+[00:50:06:29 --> 00:50:08:05] Vai aprender um software novo?
+[00:50:08:11 --> 00:50:12:02] Primeira coisa, isso é qualquer software que eu vou aprender e o tanto que você aprende
+[00:50:12:02 --> 00:50:14:11] nessa primeira fase não tá escrito.
+[00:50:15:03 --> 00:50:16:23] Mas é basicamente o que eu vou te falar.
+[00:50:17:21 --> 00:50:18:17] Baixe o software.
+[00:50:19:19 --> 00:50:27:18] Abre ele e tenta mexer de maneira intuitiva, ou seja, tenta fazer alguma coisa sem saber
+[00:50:27:18 --> 00:50:28:04] de nada.
+[00:50:29:00 --> 00:50:29:19] Isso é o quê?
+[00:50:30:04 --> 00:50:31:27] Uma experiência concreta.
+[00:50:32:08 --> 00:50:33:18] Você vive aquela experiência primeiro.
+[00:50:35:17 --> 00:50:37:01] Aí você vai clicar, vai dar errado.
+[00:50:37:10 --> 00:50:39:03] Você não vai conseguir mexer porque você não sabe nem...
+[00:50:39:03 --> 00:50:41:03] Se você está começando do zero, você não sabe nem o atalho,
+[00:50:41:07 --> 00:50:44:04] você não sabe que precisa apertar espaço para segurar a mãozinha
+[00:50:44:04 --> 00:50:45:26] e se movimentar no Illustrator.
+[00:50:46:12 --> 00:50:49:27] Você não sabe que precisa apertar alt e rolar o mouse para poder dar zoom.
+[00:50:49:29 --> 00:50:50:26] Você não sabe essas coisas.
+[00:50:51:09 --> 00:50:55:04] Então, sim, vai gastar glicose no início, mas o simples fato de você abrir
+[00:50:55:04 --> 00:50:58:14] e se frustrar com isso é o primeiro passo.
+[00:50:59:28 --> 00:51:01:27] Isso aqui você já pode aprender muita coisa.
+[00:51:02:15 --> 00:51:05:04] Com o tempo, quanto mais você aprende uma ferramenta,
+[00:51:05:11 --> 00:51:08:11] mais fácil é passar por essa experiência concreta nas outras.
+[00:51:08:18 --> 00:51:10:12] Porque você já vai testando o seu histórico.
+[00:51:10:14 --> 00:51:13:21] Por exemplo, apertar espaço para a mão virar...
+[00:51:13:21 --> 00:51:15:11] Aqui, vou colocar o Illustrator aqui.
+[00:51:15:15 --> 00:51:16:12] Estou com o mouse aqui.
+[00:51:16:17 --> 00:51:17:27] Se eu aperto espaço, vira mãozinha.
+[00:51:18:00 --> 00:51:19:20] Eu não sei se eu acho que aparece para vocês.
+[00:51:20:02 --> 00:51:20:28] Virou a mãozinha.
+[00:51:21:18 --> 00:51:23:20] Aí eu consigo clicar e movimentar aqui.
+[00:51:24:02 --> 00:51:24:28] Isso facilita.
+[00:51:25:27 --> 00:51:28:03] Por exemplo, vou mostrar aula aqui, não tem problema.
+[00:51:28:03 --> 00:51:30:28] Se eu seguro alt e rolo, olha, eu consigo dar zoom.
+[00:51:32:11 --> 00:51:34:19] Dês um! Caraca, não devia ter feito isso.
+[00:51:36:10 --> 00:51:37:23] Deu um delay muito loucos.
+[00:51:39:03 --> 00:51:41:06] Deu um delay aqui, mas espere aí.
+[00:51:41:09 --> 00:51:44:01] Então, o consigo dar zoom. Então, atalhos de movimentação.
+[00:51:44:05 --> 00:51:46:24] A gente já vai falar sobre isso, mas se você está do absoluto zero,
+[00:51:47:10 --> 00:51:49:05] você tem que começar dos atalhos de movimentação,
+[00:51:49:06 --> 00:51:50:16] senão você vai surtar.
+[00:51:51:01 --> 00:51:53:22] E depois que você começa a aprender, os outros vão ser mais ou menos parecidos.
+[00:51:53:23 --> 00:51:56:21] Talvez vai mudar um pouco, porque o Alt vai mudar um pouco o que faz,
+[00:51:56:23 --> 00:51:59:28] vai ser Ctrl ao invés de Alt, vai ser Shift ao invés de Ctrl.
+[00:52:00:05 --> 00:52:03:01] Às vezes muda um pouco, mas essas são as teclas básicas,
+[00:52:03:01 --> 00:52:06:11] você tem que saber o que faz o Alt, o Ctrl, o Shift e o espaço.
+[00:52:06:18 --> 00:52:08:10] Você tem que saber, e o clique do mouse.
+[00:52:08:24 --> 00:52:11:28] Qualquer software, isso é sobre mexer no computador, não é nem o software em si.
+[00:52:12:07 --> 00:52:13:12] Se você está do zero, está tudo bem.
+[00:52:13:23 --> 00:52:14:19] Mas então isso é o que?
+[00:52:14:20 --> 00:52:15:01] É um...
+[00:52:16:28 --> 00:52:20:14] É a primeira coisa que você tem que aprender e você consegue aprender isso sozinho.
+[00:52:21:00 --> 00:52:24:16] Vai lá no chat IPT, quais são os principais atalhos de movimentação do Illustrator?
+[00:52:25:19 --> 00:52:26:10] Pronto, aprendeu.
+[00:52:26:18 --> 00:52:28:12] Vai estar lá, ele vai te falar todos esses que eu te falei.
+[00:52:29:05 --> 00:52:30:00] Olha como é fácil.
+[00:52:30:13 --> 00:52:33:27] Antes, quando eu não tinha o Illustrator, ainda era fácil, era só ir no guia do
+[00:52:33:27 --> 00:52:37:00] usuário do Illustrator e tinha lá os principais atalhos.
+[00:52:37:04 --> 00:52:40:24] Estava lá, de graça, do Photoshop, do After Effects, do Premiere.
+[00:52:43:06 --> 00:52:46:27] Beleza? Então, se você está começando do zero, segue essa dica aí. Mas vamos continuar.
+[00:52:47:00 --> 00:52:50:24] Então, você passa uma experiência concreta com a ferramenta, mesmo sem saber nada.
+[00:52:52:00 --> 00:52:53:05] Experiencie a ferramenta.
+[00:52:54:06 --> 00:53:00:27] Baixe e testa. E aí você entra na observação reflexiva. O que é uma observação reflexiva?
+[00:53:04:14 --> 00:53:12:14] Aqui é a fase onde você vai mapear o software. Quando eu falo observação reflexiva, isso
+[00:53:12:14 --> 00:53:15:07] funciona para qualquer coisa que você for aprender, mas nós estamos aplicando aqui
+[00:53:15:07 --> 00:53:20:00] no software. Significa o que? Clicar em todos os botões e ver o que acontece.
+[00:53:20:14 --> 00:53:25:17] Nossa, mas é muito botão. Cara, meia hora você clica em tudo. Parece absurdo, mas meia
+[00:53:25:17 --> 00:53:29:10] hora você clica em tudo. O que você vai começar a notar? Que algumas coisas você
+[00:53:29:10 --> 00:53:32:25] clica e não acontece nada. E algumas coisas você nem consegue clicar, porque elas vão
+[00:53:32:25 --> 00:53:36:22] estar desativadas. Essas coisas precisam de uma ação anterior para que elas se
+[00:53:36:22 --> 00:53:40:11] tornem ativas, porque elas são um estado, elas precisam de um estado do objeto. Isso
+[00:53:40:11 --> 00:53:43:07] é o que? É um fundamento para aprender qualquer software.
+[00:53:44:18 --> 00:53:49:07] Por exemplo, você não consegue usar a Pathfinder se você não tem dois ou mais objetos para
+[00:53:49:07 --> 00:53:51:02] fazer o Pathfinder com esses dois objetos.
+[00:53:51:12 --> 00:53:52:25] Aí se você não sabe disso, o que acontece?
+[00:53:53:00 --> 00:53:57:11] Vai ficar lá desativada a ferramenta e você vai falar, caraca, não dá para clicar
+[00:53:57:11 --> 00:53:57:19] aqui.
+[00:53:59:03 --> 00:54:02:29] Só que a gente ainda vai chegar em como que você vai descobrir essas coisas sozinha inclusive,
+[00:54:03:02 --> 00:54:04:01] a gente já vai chegar nisso.
+[00:54:04:14 --> 00:54:08:15] O ponto que eu quero entrar aqui agora é, clique em tudo, algumas coisas você já
+[00:54:08:15 --> 00:54:13:19] vai conseguir clicar e já vão acontecer consequências desses cliques.
+[00:54:13:25 --> 00:54:17:18] Abre todos os menus e vê tudo que está escrito, isso é observação reflexiva,
+[00:54:17:27 --> 00:54:20:01] você observa o que você tem e mapeia.
+[00:54:20:05 --> 00:54:22:04] Além disso é legal você mapear os painéis.
+[00:54:22:15 --> 00:54:27:08] Adivinha, se você entra aqui, vamos aqui de novo, se você entra aqui no guia de
+[00:54:27:08 --> 00:54:33:16] do usuário, esse é o do Illustrator. Eu tenho aqui a área de trabalho, princípios
+[00:54:33:16 --> 00:54:38:26] da área de trabalho, isso aqui é um mapa da área de trabalho. Então você consegue
+[00:54:38:26 --> 00:54:44:08] entender o que cada botão faz, botão faz e também não só o que cada botão faz,
+[00:54:44:26 --> 00:54:49:05] como as áreas, por exemplo, esse é um painel de controle, eu tenho painel de ferramentas,
+[00:54:49:05 --> 00:54:57:16] tem barra de tarefa. Cada área dessa tem só a função. E olha só, é rápido cara,
+[00:54:57:19 --> 00:55:04:23] eu tô falando isso porque realmente, quando você aprende a absorver a informação, você
+[00:55:04:23 --> 00:55:09:08] passa o olho ali e você capta rápido a informação. Isso é o mais importante. Se você ainda
+[00:55:09:08 --> 00:55:12:15] não aprendeu, você tem que exercitar isso porque isso vai ser útil pra você no futuro,
+[00:55:12:17 --> 00:55:13:10] é uma habilidade.
+[00:55:14:12 --> 00:55:19:17] ser capaz de sintetizar alguma coisa, traduzir ela e conseguir chegar a uma conclusão rápida.
+[00:55:20:16 --> 00:55:24:26] Isso é sobre aprender. E quem aprende mais rápido vai ter vantagem cada vez maior daqui
+[00:55:24:26 --> 00:55:31:28] pra frente. Tá bom? Sempre teve, na verdade. Então, o próprio... Opa, cliquei no errado.
+[00:55:32:04 --> 00:55:36:08] O próprio guia do usuário aqui te dá um mapa. Então, o que você tem que fazer?
+[00:55:36:10 --> 00:55:39:26] Observação reflexiva. O que cada área dessa significa?
+[00:55:41:06 --> 00:55:43:14] Então ele vai te falar aqui o que cada área dessa significa.
+[00:55:43:26 --> 00:55:47:20] E você pode clicar também, você pode pesquisar elas.
+[00:55:49:27 --> 00:55:51:19] Aí ele vai mostrando as ferramentas aqui.
+[00:55:52:06 --> 00:55:55:03] Isso aqui é uma questão, eu sei que o que eu vou falar às vezes incomoda.
+[00:55:55:26 --> 00:55:59:00] Algumas pessoas talvez não se sentem incomodadas, outras nem tanto.
+[00:55:59:29 --> 00:56:04:29] Mas essa etapa aqui só tem um tipo de pessoa que não vence ela, as pessoas preguiçosas.
+[00:56:05:01 --> 00:56:05:18] Por quê?
+[00:56:05:24 --> 00:56:07:12] Porque ela vai ter preguiça de ler.
+[00:56:08:18 --> 00:56:13:18] Às vezes é de 5 minutos de leitura, às vezes é 2 minutos de leitura, a pessoa vai ter preguiça.
+[00:56:13:29 --> 00:56:18:14] Ou às vezes, não é que a pessoa é preguiçosa, às vezes, não é que ela é preguiçosa pra
+[00:56:18:14 --> 00:56:20:15] ler, mas ela é preguiçosa pra poder pensar.
+[00:56:21:10 --> 00:56:23:11] Ela vê vários menus lá em cima.
+[00:56:23:25 --> 00:56:28:18] Aí tem lá, a gente está no Illustrator, aí tem lá, arquivo, editar, objeto, tipo,
+[00:56:28:25 --> 00:56:31:01] selecionar, efeito, exibir, janela e ajuda.
+[00:56:31:24 --> 00:56:32:24] O que cada um desses faz?
+[00:56:32:25 --> 00:56:36:24] Essa pessoa não vai nem questionar o que cada um faz, mas se você parar um pouquinho
+[00:56:36:24 --> 00:56:44:05] para usar sua cabeça. A primeira chama arquivo. Será que então naquele menu tem itens e recursos
+[00:56:44:05 --> 00:56:50:23] relacionados a como tratar o arquivo? Editar. Será que esse menu não tem itens relacionados
+[00:56:50:23 --> 00:56:56:12] a como editar, talvez editar um objeto, talvez editar o arquivo também? Será que a aba
+[00:56:56:12 --> 00:56:59:26] objeto não é relacionada a um objeto que eu tenho que clicar para poder fazer alguma
+[00:56:59:26 --> 00:57:04:10] coisa com esse objeto? Tipo. Será que tipo não é sobre a tipografia?
+[00:57:06:11 --> 00:57:10:18] Se você pensar um pouquinho, é muito louco isso, mas se você pensar um pouquinho, você
+[00:57:10:18 --> 00:57:12:01] aprende tanto só pensando.
+[00:57:12:28 --> 00:57:15:13] Selecionar, o que tem dentro de um menu selecionar?
+[00:57:15:28 --> 00:57:19:19] Será que não são recursos para me ajudar a selecionar um objeto específico de algum
+[00:57:19:19 --> 00:57:20:16] jeito específico?
+[00:57:20:25 --> 00:57:21:24] O que tem dentro de efeito?
+[00:57:21:27 --> 00:57:22:22] Será que não são efeitos?
+[00:57:23:10 --> 00:57:26:15] Eu estou falando aqui, deixa eu só tirar o print que vocês vão ver, olha só.
+[00:57:27:10 --> 00:57:28:13] O meu está um pouquinho bugado.
+[00:57:30:07 --> 00:57:32:01] Mas só pra vocês entenderem o que eu quero dizer.
+[00:57:32:16 --> 00:57:34:01] Tem o painel lá do Illustrator.
+[00:57:34:14 --> 00:57:35:29] E aí eu tenho esses menus aqui de cima.
+[00:57:37:03 --> 00:57:40:21] Um monte de gente até hoje não parou pra pensar o que cada um desses faz.
+[00:57:41:03 --> 00:57:45:08] Por quê? Porque só segue o tutorial, só sabe fazer quando tem um passo a passo.
+[00:57:45:21 --> 00:57:50:02] Mas às vezes aqui, só observando o que você já aprende aqui da ferramenta.
+[00:57:50:13 --> 00:57:53:23] Exibir. Será que exibir não é sobre coisas que aparecem na tela pra eu ver?
+[00:57:54:09 --> 00:57:56:12] Exibir uma janela específica?
+[00:57:56:21 --> 00:58:00:02] Janela. Será que janela não são todas as janelas que eu tenho no meu Illustrator?
+[00:58:00:02 --> 00:58:03:05] as que eu quero que mostram, as que eu quero que não mostram? Será que exibir não é
+[00:58:03:05 --> 00:58:07:07] sob exibir uma rega, uma linha guia, alguma coisa do tipo? E ajuda, será que eu não
+[00:58:07:07 --> 00:58:08:00] consigo ajuda aqui?
+[00:58:10:06 --> 00:58:13:23] Eu sinto, às vezes, que as pessoas têm preguiça de pensar.
+[00:58:13:28 --> 00:58:17:15] E aí, se você tem preguiça de pensar, talvez essa aula nem vai ser útil pra você, essa
+[00:58:17:15 --> 00:58:18:09] em específico.
+[00:58:18:16 --> 00:58:22:10] E é melhor você comprar um curso mesmo, investe o seu dinheiro lá, que aí vai vim
+[00:58:22:10 --> 00:58:23:10] a papinha digerida.
+[00:58:23:19 --> 00:58:26:20] Só que você vai ter que esperar esse curso surgir ou esperar você ter dinheiro pra
+[00:58:26:20 --> 00:58:26:28] fazer.
+[00:58:27:14 --> 00:58:30:10] Os que são mais espertos vão pegar o que eu tô querendo dizer aqui.
+[00:58:31:26 --> 00:58:33:05] E aí vem isso em consideração.
+[00:58:34:00 --> 00:58:38:02] Uma vez que você passou pela observação reflexiva, você começou a montar um mapa
+[00:58:38:02 --> 00:58:38:25] do software.
+[00:58:39:06 --> 00:58:41:19] Você começou a mapear o que tem no painel de cálculo, o que tem no painel de cálculo,
+[00:58:41:19 --> 00:58:42:16] o que tem no painel de cima.
+[00:58:43:04 --> 00:58:48:04] Eu recomendo sempre clicar em janela e ir em área de trabalho e ver todas as áreas
+[00:58:48:04 --> 00:58:51:12] de trabalho possíveis e clicar em cada uma delas, ver como que o software se
+[00:58:51:12 --> 00:58:53:03] adapta a diferentes áreas de trabalho.
+[00:58:53:13 --> 00:58:57:12] E é autoexplicativo, tem a área de trabalho para pintura, área de trabalho para vetorização,
+[00:58:57:12 --> 00:59:02:10] área de trabalho para diagramação, tem várias áreas de trabalho diferentes. Você
+[00:59:02:10 --> 00:59:07:15] adapta o software para o tipo de tarefa que você quer fazer. E aí, clica, clica, clica
+[00:59:07:15 --> 00:59:12:28] em tudo, clica em tudo. Quais são as maneiras de fazer uma cor ou algo do tipo? É que
+[00:59:12:28 --> 00:59:18:01] a gente ainda não está no software, mas você está ganhando repertório e familiaridade
+[00:59:18:01 --> 00:59:22:19] com o software. Só de fazer isso sobre esses dois degraus aqui, você já está
+[00:59:22:19 --> 00:59:25:27] quebrando uma barreira que a maioria não quebra para aprender qualquer software.
+[00:59:25:27 --> 00:59:30:09] Coisa simples. Coisa simples. Experimenta. Se você quer aprender qualquer software,
+[00:59:30:16 --> 00:59:34:10] experimenta essas duas etapas. Você vai se sentir muito mais confortável dentro dele.
+[00:59:34:20 --> 00:59:38:09] Mesmo que você ainda não saiba fazer tudo o que quer, essas duas etapas vão te deixar
+[00:59:38:09 --> 00:59:41:18] muito mais confortável lá dentro. E são bem simples de executar.
+[00:59:42:00 --> 00:59:44:28] E aí nós vamos para a terceira etapa, que é a conceituação abstrata.
+[00:59:46:20 --> 00:59:48:02] Nós vamos falar de fundamento.
+[00:59:48:09 --> 00:59:48:14] Ok.
+[00:59:50:00 --> 00:59:51:25] Já passei pela experiência concreta?
+[00:59:53:01 --> 00:59:55:06] Já passei pela observação reflexiva.
+[00:59:56:11 --> 01:00:00:19] Me sinto um pouco mais confortável dentro desse painel de avião cheio de botões, porque
+[01:00:00:19 --> 01:00:03:05] eu sei mais ou menos me localizar aqui.
+[01:00:04:18 --> 01:00:07:21] Agora eu quero saber dos fundamentos.
+[01:00:07:27 --> 01:00:09:15] Pegue isso aqui, é aqui agora.
+[01:00:10:21 --> 01:00:12:25] Eu já falei para vocês, vamos pegar o Illustrator de exemplo.
+[01:00:13:00 --> 01:00:14:06] Quais são os fundamentos do Illustrator?
+[01:00:15:03 --> 01:00:17:01] Vitorização, curva de Bezier.
+[01:00:17:14 --> 01:00:19:20] Ok, esses são alguns dos fundamentos.
+[01:00:19:24 --> 01:00:20:20] O que é a vetorização?
+[01:00:21:05 --> 01:00:22:26] Qual que é a diferença de vetorização para bitmap?
+[01:00:23:03 --> 01:00:27:09] Ah, então um vetor é uma expressão matemática, então eu consigo ampliar quantas vezes eu quiser.
+[01:00:27:18 --> 01:00:31:15] Então se eu vou fazer um Outdoor, é melhor fazer um vetor desse Outdoor do que um bitmap.
+[01:00:31:25 --> 01:00:35:05] Ah, mas não dá para poder fazer vetor de uma foto.
+[01:00:35:06 --> 01:00:39:22] Até dá, mas vai ficar meio esquisito, porque vão ser vários pedacinhos de vetores ali.
+[01:00:39:22 --> 01:00:43:08] Até dá pra ficar hiperrealista se você fizer uma malha, né?
+[01:00:43:20 --> 01:00:47:12] Mas ainda assim, é muito mais difícil do que trabalhar foto.
+[01:00:47:16 --> 01:00:50:15] Então quando eu vou trabalhar foto eu trabalho foto, quando eu vou trabalhar vetor eu faço
+[01:00:50:15 --> 01:00:51:12] só o vetor.
+[01:00:51:18 --> 01:00:55:20] Vetor funciona pra ilustrações, grafismos, criação de logotipos, entender o fundamento.
+[01:00:57:10 --> 01:01:03:19] Ah, o que é curva de Bezier? Curva de Bezier é sobre a força que você exerce em uma determinada
+[01:01:03:19 --> 01:01:07:26] reta. E o que é uma reta? Uma reta é a distância entre dois pontos. Olha como eu estou no
+[01:01:07:26 --> 01:01:13:04] nível fundamental da coisa. Bottom up. Mas se você entender isso, você aprende software.
+[01:01:13:29 --> 01:01:19:11] Então, a caneta serve pra me dizer a distância entre dois pontos. Eu clico num
+[01:01:19:11 --> 01:01:23:29] ponto aqui, depois clico no outro ponto aqui, a caneta traça uma reta. Só que a
+[01:01:23:29 --> 01:01:30:14] me ajuda também a traçar uma força nessa reta. Isso é a curva de Bezier. Ah, entendi
+[01:01:30:14 --> 01:01:34:29] que é a curva de Bezier. Então assim eu consigo fazer curvas muito mais fáceis do
+[01:01:34:29 --> 01:01:40:03] que, por exemplo, se eu estiver trabalhando só marcando os pontos e fazendo um polígono
+[01:01:40:03 --> 01:01:40:13] reto.
+[01:01:41:23 --> 01:01:42:06] Entendi!
+[01:01:43:15 --> 01:01:47:14] Isso é uma coisa que inclusive, olha, quer melhorar o nível de vocês usando a caneta
+[01:01:47:14 --> 01:01:48:05] do Illustrator?
+[01:01:49:04 --> 01:01:51:17] Confira e eu vou colocar aqui que eu acho que mostrando é mais fácil, olha isso aqui.
+[01:01:53:05 --> 01:01:56:03] É uma tarefinha só, você vai digitar curva de perzieira.
+[01:01:57:14 --> 01:02:01:13] vai entrar nesse link aqui e pronto. Você vai ler essa página.
+[01:02:02:19 --> 01:02:03:29] Eu posso até mostrar aqui com vocês.
+[01:02:05:07 --> 01:02:07:13] O GIF mostra tudo, cara. Olha só.
+[01:02:07:26 --> 01:02:08:20] Vamos para o GIF.
+[01:02:09:10 --> 01:02:10:01] Olha esse GIF aqui.
+[01:02:10:14 --> 01:02:12:17] Ah, mas eu não estou entendendo o que é esse T...
+[01:02:13:20 --> 01:02:17:01] Isso aqui que eu quero mostrar para vocês. Nem sempre você precisa entender tudo para
+[01:02:17:01 --> 01:02:21:05] compreender o conceito e colocar isso em prática. Você está olhando isso aqui, o que você
+[01:02:21:05 --> 01:02:26:20] tem aqui? Um P0 e um P1, são dois pontos. E eu tenho aqui desse P0 e P1 um ponto que
+[01:02:26:20 --> 01:02:30:07] está andando e formando uma linha vermelha. Eu não vou entrar em nenhum termo técnico
+[01:02:30:07 --> 01:02:33:04] e olha como é que isso aqui vai ensinar vocês a usar a caneta do Illustrator.
+[01:02:33:14 --> 01:02:37:00] É um fundamento. Então beleza, eu tenho um movimento acontecendo ou um tipo de
+[01:02:37:00 --> 01:02:39:11] força acontecendo. Vamos para a segunda imagem aqui agora.
+[01:02:41:17 --> 01:02:46:06] Agora o ponto, ele tá exercendo uma força, parece que ele tá até funcionando com uma
+[01:02:46:06 --> 01:02:48:25] gravidade, olha, ele começa a subir e depois ele tem uma queda.
+[01:02:49:12 --> 01:02:53:11] Só que ao mesmo tempo que eu tô vendo esse ponto fazendo essa curva, eu tô olhando
+[01:02:53:11 --> 01:02:56:10] ali, eu tenho um P0, um P1 e um P2.
+[01:02:56:21 --> 01:03:00:24] Isso tá relacionado, olha só, eu tenho essa linha verde ali, que tá passando
+[01:03:00:24 --> 01:03:05:03] de um ponto pro outro, olha o movimento, olha como é que intuitivamente você entende
+[01:03:05:03 --> 01:03:09:12] o conceito e aí você consegue exercer essa força na hora de usar a caneta lá.
+[01:03:09:12 --> 01:03:15:22] Então, quando eu vejo aqui essa curva sendo feita, eu vejo que eu tenho essa espécie
+[01:03:15:22 --> 01:03:21:10] de alça verde, olha, a alça vai se movimentando junto com o ponto, eu tenho a alça movimentando
+[01:03:21:10 --> 01:03:24:27] junto com o ponto, pra poder ter essa curva.
+[01:03:25:27 --> 01:03:27:27] Não entre em nada técnico e não vou entrar.
+[01:03:28:21 --> 01:03:29:20] Vamos pegar a próxima imagem.
+[01:03:31:01 --> 01:03:37:17] Aqui agora eu tenho P0, P1, P2 e P3, ou seja, eu tenho 3 pontos de força aqui.
+[01:03:38:00 --> 01:03:44:15] E aí nesse caso aqui agora, eu tenho a alça azul, que é a alça do ponto, mas essa alça
+[01:03:44:15 --> 01:03:48:24] azul ela move de acordo com a alça verde, que é a relação das retas.
+[01:03:48:27 --> 01:03:54:01] Então eu tenho aqui um ponto que é a relação de P0 com P1 e eu tenho um ponto que é
+[01:03:54:01 --> 01:03:58:25] a relação de P1 com P2, é o percurso que ele passa de P1 para P2.
+[01:03:58:25 --> 01:04:03:26] Entendi que eu tenho essas duas retas e esses pontos, como eu tô traçando aqui uma curva
+[01:04:03:26 --> 01:04:09:24] que tá pegando quatro pontos diferentes, eu preciso primeiro traçar a relação da
+[01:04:09:24 --> 01:04:15:12] linha P0 e P1 com a linha P1 e P2, depois eu traço a relação da linha P1 e P2 com
+[01:04:15:12 --> 01:04:20:21] a linha P2 e P3, e aí o azul ele mexe, olha ali, de acordo com essas duas relações
+[01:04:20:21 --> 01:04:22:05] que são essas linhas verdes.
+[01:04:22:10 --> 01:04:25:17] Juan, mas eu tô ficando confuso com o que você tá falando, eu não tô entendendo
+[01:04:25:17 --> 01:04:27:03] onde que isso aqui vai aplicar.
+[01:04:27:03 --> 01:04:33:08] Se você já usou a caneta, ou seja, já teve alguma experiência concreta com ela, talvez
+[01:04:33:08 --> 01:04:38:11] só de olhar essa imagem aqui, você já começou a ter um insight de como você tem que tratar
+[01:04:38:11 --> 01:04:39:24] as alças de um ponto.
+[01:04:40:08 --> 01:04:42:26] Você tá meio assim, Rona, eu não tô entendendo, não tô entendendo o que é alça, o que
+[01:04:42:26 --> 01:04:43:18] é ponto, você tá...
+[01:04:43:18 --> 01:04:44:03] Por quê?
+[01:04:44:04 --> 01:04:48:00] Porque você não teve aqui, ó, experiência concreta, é a primeira fase, depois da
+[01:04:48:00 --> 01:04:50:19] experiência concreta, observação reflexiva.
+[01:04:51:24 --> 01:04:55:11] Você não passou por essas etapas, por isso que talvez está muito confuso e aí você
+[01:04:55:11 --> 01:04:58:14] está gastando glicose para entender, volta um espaço e passa aquilo ali primeiro.
+[01:04:58:25 --> 01:05:01:09] Clica na caneta e depois usa para você ver o que acontece.
+[01:05:01:25 --> 01:05:06:07] Quando você clica ela puxa uma reta aqui ó, só para você ter um pouquinho de experiência
+[01:05:06:07 --> 01:05:07:03] concreta aqui.
+[01:05:07:19 --> 01:05:08:06] Você saca o que eu estou falando?
+[01:05:08:12 --> 01:05:12:00] Peguei a caneta, estou com ela, olha só o meu cursor como mudou, eu vou colocar
+[01:05:12:00 --> 01:05:14:19] só uma uma borda nela
+[01:05:15:21 --> 01:05:22:15] criou uma linha, tá vendo? Mas eu só cliquei, ó, ponto 1, P0, P1. E aí eu ainda tô aqui,
+[01:05:22:16 --> 01:05:29:01] ó, que ele tá me dando aqui um rastro de onde vai ficar o meu P2, ó. P2. Se eu só
+[01:05:29:01 --> 01:05:34:03] clico, o que que eu tenho aqui? Só clicando. Se eu tô só clicando, eu tenho um polígono,
+[01:05:34:18 --> 01:05:38:26] várias pontas retas, mas não tenho curva. Agora olha que curioso. Se eu crio um ponto
+[01:05:38:26 --> 01:05:43:11] aqui, crio outro ponto aqui, clico e seguro e puxo, ele criou essa alça pra mim.
+[01:05:43:28 --> 01:05:49:23] Essa alça que ele criou pra mim aqui agora, olha, exerce uma força nessa reta, essa
+[01:05:49:23 --> 01:05:55:08] força gera curva, isso é a curva de PZR, só que essa alça, onde eu vou deixar ela
+[01:05:55:08 --> 01:05:59:00] importa muito, e tem muito designer que às vezes vai trabalhar e deixa uma alça menor
+[01:05:59:00 --> 01:06:03:05] que a outra, mas faz isso sem intenção, ou quebra a alça errado, e às vezes você
+[01:06:03:05 --> 01:06:06:07] tem um vetor todo mal feito porque a pessoa não entende o fundamento.
+[01:06:07:14 --> 01:06:12:21] Mesmo as vezes, isso é o mais curioso, as vezes você faz um curso de Illustrator e não
+[01:06:12:21 --> 01:06:16:23] sabe usar a caneta, porque você não entendeu o fundamento, alguém foi lá e te deu um
+[01:06:16:23 --> 01:06:18:20] passo a passo, clica aqui, faz isso, faz aquilo, faz isso.
+[01:06:19:18 --> 01:06:23:00] E aí entra a pergunta, tá, mas como é que eu vou saber que eu preciso saber isso?
+[01:06:23:20 --> 01:06:26:24] Você vai saber entendendo quais são os fundamentos primeiro.
+[01:06:26:27 --> 01:06:28:06] Como é que eu vou saber quais são os fundamentos?
+[01:06:28:10 --> 01:06:32:02] Eu vou te mostrar a melhor ferramenta para fazer isso hoje que é o chat de ABT e
+[01:06:32:02 --> 01:06:35:17] o guia de usuário de cada software, eles ensinam isso já para você, tá lá.
+[01:06:35:17 --> 01:06:38:03] Só que se você for preguiçoso, você não vai encontrar essa informação.
+[01:06:39:00 --> 01:06:42:24] Se você perguntar para o ChatEPT quais são os fundamentos do Illustrator, quais são
+[01:06:42:24 --> 01:06:47:23] as ferramentas que eu preciso aprender primeiro, quais são as três ferramentas que eu preciso
+[01:06:47:23 --> 01:06:49:03] aprender primeiro para dominar o Illustrator.
+[01:06:49:21 --> 01:06:54:12] Eu não sei o que o ChatEPT falaria, deixa eu ver aqui, mas eu sou capaz de apostar
+[01:06:54:12 --> 01:06:56:02] que ele vai falar que a caneta é uma delas, ó.
+[01:06:56:10 --> 01:07:01:00] Aí eu vou ver aqui, eu tiro o print, mas quais são as três...
+[01:07:04:16 --> 01:07:10:20] primeiras ferramentas fundamentais que preciso aprender para dominar o Illustrator.
+[01:07:11:06 --> 01:07:14:01] Vamos ver, eu não sei, eu estou apostando, talvez não esteja a caneta, mas eu aposto
+[01:07:14:01 --> 01:07:14:21] que ela é uma delas.
+[01:07:19:09 --> 01:07:20:26] Vou tirar o print aqui pra vocês.
+[01:07:23:03 --> 01:07:27:25] Vou jogar aqui no Illustrator mesmo, porque eu não estou com a janela do GPT aqui aberta,
+[01:07:27:27 --> 01:07:29:02] então vai de frente.
+[01:07:29:08 --> 01:07:33:26] Olha aqui, primeira ferramenta de seleção, select tool, concordo, é a primeira que você
+[01:07:33:26 --> 01:07:38:14] tem que aprender porque tem a setinha preta e a setinha branca e elas têm diferenças
+[01:07:38:29 --> 01:07:39:11] cruciais.
+[01:07:39:17 --> 01:07:43:08] Depois, olha aqui, a segunda ferramenta que ele colocou, ferramenta de caneta, tem
+[01:07:43:08 --> 01:07:43:15] tool.
+[01:07:44:06 --> 01:07:47:05] Então, o que eu estou falando para vocês, está aqui, qualquer ferramenta que você
+[01:07:47:05 --> 01:07:47:24] fizer é isso.
+[01:07:48:02 --> 01:07:51:13] Primeiro tem a experiência concreta, não pergunta nada para o chat GPT, vai lá e
+[01:07:51:13 --> 01:07:53:16] Só com a sua intuição, sai clicando em tudo.
+[01:07:53:25 --> 01:07:57:27] Depois mapeia a ferramenta e dentro desse mapeamento de ferramenta entende onde está
+[01:07:57:27 --> 01:08:01:05] cada coisa, entende rapidinho ali para facilitar o processo.
+[01:08:01:08 --> 01:08:05:08] Usa a sua cabeça, pensa o que significa cada item do menu lá, o que ele quer dizer.
+[01:08:05:19 --> 01:08:08:19] Pensa um pouquinho, investe um tempinho ali, gaste um tiquinho de glicose.
+[01:08:09:22 --> 01:08:14:03] Depois você vai entrar na fase do fundamento mesmo da coisa.
+[01:08:14:15 --> 01:08:18:10] E aí você pode perguntar para o chat GPT e ele vai te falar, tá ali.
+[01:08:18:10 --> 01:08:20:09] E só de fazer a pergunta certa eu já sei,
+[01:08:20:10 --> 01:08:21:14] ah, então eu preciso aprender pentool.
+[01:08:21:20 --> 01:08:23:01] Eu sei que eu preciso aprender pentool.
+[01:08:23:08 --> 01:08:24:27] Aí eu pergunto qual que é o fundamento da pentool?
+[01:08:25:01 --> 01:08:26:02] É a curva de BZR.
+[01:08:26:07 --> 01:08:29:15] Ah, então eu preciso saber como funciona uma curva de BZR para fazer a pentool.
+[01:08:29:20 --> 01:08:31:08] Para usar ela do melhor jeito possível.
+[01:08:31:28 --> 01:08:33:22] Quem trabalha com tipografia fonte,
+[01:08:34:01 --> 01:08:35:12] sabe, precisa saber da curva de BZR.
+[01:08:35:13 --> 01:08:36:16] Precisa saber como ela funciona.
+[01:08:36:24 --> 01:08:38:07] Precisa saber o fundamento.
+[01:08:38:13 --> 01:08:40:29] E geralmente quem trabalha falando de vetorização,
+[01:08:41:22 --> 01:08:44:09] os tipógrafos e quem trabalha criando fontes,
+[01:08:44:11 --> 01:08:47:09] são os maiores especialistas em trabalhar com curva de BZR.
+[01:08:48:15 --> 01:08:49:17] Eles são muito bons nisso.
+[01:08:49:22 --> 01:08:53:05] E quando você aprende um pouco desse fundamento, você fica bom nisso, na hora de criar um logo
+[01:08:53:05 --> 01:08:57:27] é muito mais fácil e fica muito mais… mais…
+[01:09:01:22 --> 01:09:03:18] fundamentado no que você está fazendo, tá?
+[01:09:03:23 --> 01:09:05:05] Isso funciona para qualquer ferramenta.
+[01:09:05:08 --> 01:09:06:23] Vai aprender o After Effects.
+[01:09:07:17 --> 01:09:09:08] Pode ter certeza absoluta.
+[01:09:09:12 --> 01:09:12:22] Você vai ter que entender o que é uma timeline e o que é um keyframe.
+[01:09:13:10 --> 01:09:13:28] Não tem jeito.
+[01:09:14:13 --> 01:09:17:20] E aí você fica perdido no software porque você não entende o fundamento.
+[01:09:17:23 --> 01:09:20:13] E aí você vê uma timeline lá e nem sabe para que ela serve.
+[01:09:20:22 --> 01:09:21:23] Porque você não entendeu ela.
+[01:09:22:00 --> 01:09:23:18] Mas o ChatGPT é o seu maior aliado.
+[01:09:23:19 --> 01:09:24:29] Eu ainda vou falar mais sobre ele aqui.
+[01:09:25:05 --> 01:09:25:28] Vamos só continuar.
+[01:09:26:14 --> 01:09:29:16] Às vezes, com um ou dois dias, você já consegue ter uma evolução gigantesca
+[01:09:29:16 --> 01:09:32:28] passando por esse processo. E repara, ele é cíclico. Você vai de novo, e de novo,
+[01:09:32:28 --> 01:09:33:20] e de novo, vai fazer isso.
+[01:09:34:27 --> 01:09:35:21] Muito louco, né?
+[01:09:36:22 --> 01:09:39:03] Mas assim você pode aprender qualquer ferramenta.
+[01:09:39:18 --> 01:09:41:06] ChatGPT, eu fiz exatamente isso.
+[01:09:41:21 --> 01:09:44:11] Deixou, surgiu, eu acho muito louco.
+[01:09:44:15 --> 01:09:47:08] Porque eu comecei a falar de chatGPT pra todo mundo.
+[01:09:48:25 --> 01:09:49:21] Já tem...
+[01:09:49:21 --> 01:09:51:05] Ah, foi início do ano passado,
+[01:09:51:25 --> 01:09:53:13] antes do chatGPT,
+[01:09:53:23 --> 01:09:57:17] eu já tava desde 2022 de olho no Mid Journey, de olho no Dali.
+[01:09:57:29 --> 01:10:01:00] E o Dali, ele começou a ficar famoso em 2021.
+[01:10:01:10 --> 01:10:02:09] Olha o tanto de tempo que tem.
+[01:10:02:11 --> 01:10:03:15] Só que ele era bem ruimzinho,
+[01:10:03:23 --> 01:10:06:03] e a gente ficava, nossa, algum disso vai ficar bom.
+[01:10:06:03 --> 01:10:08:08] Só que a coisa foi muito rápido.
+[01:10:09:10 --> 01:10:10:02] E eu falei, é, tá vendo?
+[01:10:10:22 --> 01:10:14:14] Lembra que eu contei também que em 2016 eu tive aula de optativa e eu conheci o universo
+[01:10:14:14 --> 01:10:19:14] da inteligência artificial, eu vi que isso iria impactar o universo também do metaverso,
+[01:10:19:23 --> 01:10:23:29] que a realidade aumentada e a realidade virtual...
+[01:10:24:28 --> 01:10:29:22] E aí, eu vi aquilo, eu concebi primeiro, tive uma concepção, mas depois eu sabia que isso
+[01:10:29:22 --> 01:10:34:00] iria acontecer, ficava de olho, começava a acontecer, conversava com os meus irmãos
+[01:10:34:00 --> 01:10:38:05] 2021, 2022 que isso estava acontecendo, e aí ano passado que explodiu para a maioria
+[01:10:38:05 --> 01:10:39:22] das pessoas, mas eu já estava de olho nisso.
+[01:10:39:28 --> 01:10:42:25] E é isso que eu quero indicar para vocês, a gente vai ter uma aula sobre sincronia
+[01:10:42:25 --> 01:10:48:01] tecnológica, o quanto que é importante isso, se você quer aproveitar o tanto de
+[01:10:48:01 --> 01:10:48:25] novidade que está surgindo.
+[01:10:48:27 --> 01:10:52:24] Não dá para saber o que vai acontecer no futuro, futuro é incerto, nenhum de
+[01:10:52:24 --> 01:10:53:04] nós sabemos.
+[01:10:53:22 --> 01:11:01:10] Mas o que eu sei é que quem aproveitar o início vai sempre estar mais na frente, porque quando
+[01:11:01:10 --> 01:11:05:07] todo mundo começou a testar igual agora, tá todo mundo começando a usar chat GPT,
+[01:11:05:15 --> 01:11:08:17] começando a usar IAOs generativas...
+[01:11:08:17 --> 01:11:14:21] Cara, você já tá fazendo coisas muito avançadas, criando agentes de IAO, criando GPTs próprios,
+[01:11:14:25 --> 01:11:17:03] já tá usando recursos que as pessoas nem conceberam ainda.
+[01:11:17:24 --> 01:11:21:26] A gente tem a experiência concreta, abre o software e experimenta, começa pela navegação,
+[01:11:21:26 --> 01:11:25:26] Depois, observação reflexiva, abra todas as janelas, clique em todos os botões.
+[01:11:26:04 --> 01:11:29:19] Depois, conceituação abstrata, que aí sim você vai mapear os fundamentos, entender
+[01:11:29:19 --> 01:11:30:26] a base da ferramenta.
+[01:11:31:01 --> 01:11:32:10] E por fim, experimentativo.
+[01:11:32:21 --> 01:11:36:07] E aí no experimentativo é a hora que você pode inovar também, como eu disse isso aqui,
+[01:11:36:10 --> 01:11:37:06] é cíclico.
+[01:11:37:09 --> 01:11:38:25] O que significa isso aqui ser cíclico?
+[01:11:39:01 --> 01:11:43:00] Significa que você aprendeu um pouco do software, você pode passar pelo ciclo de
+[01:11:43:00 --> 01:11:45:07] novo para poder aprofundar um pouco mais nele.
+[01:11:45:10 --> 01:11:48:17] Às vezes numa coisa específica, por exemplo, eu quero dominar o processo de gradientes
+[01:11:48:17 --> 01:11:49:04] do Illustrator.
+[01:11:49:25 --> 01:11:50:07] Beleza!
+[01:11:50:07 --> 01:11:53:18] Começa, segue o mesmo processo, olha só, vou colocar aqui ó.
+[01:11:55:00 --> 01:11:56:04] para vocês verem a imagem.
+[01:11:56:09 --> 01:11:59:00] Começa na experiência concreta, vai para observação reflexiva,
+[01:11:59:12 --> 01:12:02:04] depois conceituação abstrata e experimentativo com o gradiente.
+[01:12:02:11 --> 01:12:04:00] Então, na experiência concreta,
+[01:12:04:04 --> 01:12:07:13] clica, vê o que acontece, faz de maneira intuitiva.
+[01:12:07:24 --> 01:12:10:24] Depois, observação reflexiva, veja todos os botões que tem,
+[01:12:10:28 --> 01:12:12:24] o que cada um faz, pare o mouse em cima deles.
+[01:12:13:06 --> 01:12:15:22] Muitas vezes, é só de parar o mouse e você vai conseguir
+[01:12:16:15 --> 01:12:19:02] ter uma descrição do que aquela ferramenta faz.
+[01:12:19:04 --> 01:12:19:24] Então, já te ajuda.
+[01:12:20:05 --> 01:12:23:03] Depois, conceituação abstrata, qual é o fundamento de um gradiente.
+[01:12:23:18 --> 01:12:27:00] Muita gente usa gradiente e não sabe, por isso que às vezes não conseguem criar gradientes
+[01:12:27:00 --> 01:12:28:00] mais avançados.
+[01:12:28:06 --> 01:12:30:07] Vocês já pesquisaram qual que é o fundamento do gradiente?
+[01:12:30:15 --> 01:12:32:19] O que acontece na relação entre duas cores?
+[01:12:33:01 --> 01:12:36:13] No curso de design e percepção visual eu ensino o fundamento de um gradiente.
+[01:12:37:07 --> 01:12:39:01] E como que as cores tendem para o síndese?
+[01:12:39:03 --> 01:12:40:16] Eu explico tudo para vocês lá.
+[01:12:41:05 --> 01:12:47:01] Então, entender o fundamento aumenta suas possibilidades dentro de qualquer ferramenta,
+[01:12:47:04 --> 01:12:47:20] beleza?
+[01:12:48:08 --> 01:12:50:27] E aí você pode fazer isso pequeno ou grande.
+[01:12:50:27 --> 01:12:56:20] E aí a última etapa é impulsionando o processo, que aí eu já falei vários pontos aqui pra
+[01:12:56:20 --> 01:13:02:18] vocês, mas é basicamente utilizar a inteligência artificial pra te guiar nesse processo.
+[01:13:03:15 --> 01:13:06:16] Esses dias pra trás eu queria entender um pouco mais sobre contabilidade, sobre os
+[01:13:07:02 --> 01:13:09:24] impostos e sobre como isso impacta nos meus negócios.
+[01:13:09:24 --> 01:13:11:20] Eu pedi o chat GPT...
+[01:13:12:17 --> 01:13:14:27] Eu vou mostrar para vocês aqui como que faz, tá?
+[01:13:15:02 --> 01:13:15:26] Esse eu vou mostrar.
+[01:13:15:28 --> 01:13:18:17] A gente vai ter mais aulas sobre inteligências artificiais
+[01:13:18:17 --> 01:13:20:08] e sobre sincronia tecnológica.
+[01:13:20:18 --> 01:13:23:18] Mas eu vou mostrar direto aqui no navegador. Vamos lá.
+[01:13:25:03 --> 01:13:26:22] Deixa eu colocar aqui para vocês.
+[01:13:29:00 --> 01:13:30:01] Primeiro, deixa só.
+[01:13:32:12 --> 01:13:33:23] Vê se aqui está logado.
+[01:13:37:09 --> 01:13:41:10] Aqui vocês já estão vendo? Então, vocês estão vendo a cor de PC. Beleza, vou colocar aqui o chat GPT.
+[01:13:41:21 --> 01:13:45:25] Quem ainda não criou a conta, a pergunta que eu faço é, por que você ainda não criou e experimentou?
+[01:13:45:26 --> 01:13:49:03] Simples assim, é tão simples de usar. Tão simples.
+[01:13:49:24 --> 01:13:54:04] Aqui ó, estou aqui no chat GPT. Se você está no gratuito, você vai usar o 3.5.
+[01:13:54:06 --> 01:13:58:11] Eu acho que o 4-omni, esse aqui também, está disponível no gratuito.
+[01:13:58:19 --> 01:14:02:14] Que é a versão mais avançada, é a inteligência artificial de texto mais avançada do mundo hoje.
+[01:14:03:17 --> 01:14:05:27] E aí, olha só, quero aprender, vamos pegar aqui...
+[01:14:06:16 --> 01:14:10:14] A gente já falou muito de Illustrator, vamos pegar aqui o After Effects.
+[01:14:11:26 --> 01:14:18:12] Lembrando, primeiro, você vai abrir o software e ter uma experiência concreta com o software.
+[01:14:18:17 --> 01:14:20:21] Primeira coisa, na sua intuição.
+[01:14:21:04 --> 01:14:23:20] Depois disso, você vai mapear você mesmo o software.
+[01:14:24:02 --> 01:14:28:12] Mapiou o software, aí você vai para a fase de fundamentação disso, que é a conceituação
+[01:14:28:12 --> 01:14:28:25] abstrata.
+[01:14:29:03 --> 01:14:31:25] Aí você vai fundamentar para entender quais são os fundamentos.
+[01:14:31:29 --> 01:14:34:10] Nessa fase, usar o chat EPT é muito bom.
+[01:14:35:01 --> 01:14:37:26] Antes disso, deixa a sua intuição fluir um pouquinho na ferramenta.
+[01:14:38:03 --> 01:14:41:16] Usa, deixa sua mente funcionar, que você vai absorver muito mais e se familiarizar
+[01:14:41:16 --> 01:14:45:28] mais com ela do que só no texto. Passou por essas duas etapas e a gente entra aqui. Vamos
+[01:14:45:28 --> 01:14:49:28] lá. Quero aprender After Effects.
+[01:14:52:00 --> 01:14:56:26] Mas não sei nada sobre ele. Você pode me ajudar?
+[01:14:58:02 --> 01:15:00:03] A primeira coisa que quero saber...
+[01:15:01:24 --> 01:15:03:23] são os fundamentos.
+[01:15:05:05 --> 01:15:07:13] que rangem o After Effects.
+[01:15:11:06 --> 01:15:16:07] Eu vou colocar só desse jeito, eu poderia falar que quero entender o que é uma timeline,
+[01:15:16:12 --> 01:15:20:03] quero entender o que é o keyframe, mas isso seria uma pessoa que entende que isso existe.
+[01:15:20:12 --> 01:15:23:15] Talvez se você está começando do zero você nem entende que esses fundamentos existem,
+[01:15:23:19 --> 01:15:24:27] então você pode fazer isso aqui.
+[01:15:25:06 --> 01:15:31:27] List para mim os 10 principais fundamentos dessa ferramenta.
+[01:15:33:03 --> 01:15:34:18] E aí ele vai mandar pra gente.
+[01:15:35:09 --> 01:15:37:08] Claro, Ruan, beleza, primeiro, interface e painel.
+[01:15:37:12 --> 01:15:39:12] Aí ele já começou a falar, já começou a soltar aqui pra gente.
+[01:15:39:24 --> 01:15:41:14] Linha do tempo é 1.
+[01:15:41:25 --> 01:15:45:22] Depois ele soltou composição, controle de efeito e visualizador.
+[01:15:45:25 --> 01:15:47:12] Então eu tenho que entender essas coisas.
+[01:15:47:15 --> 01:15:50:07] Beleza, mas guarda aí, nós estamos mapeando o que a gente precisa saber.
+[01:15:51:08 --> 01:15:56:11] Depois ele vai pro compositions, ou seja, pera aí, aí é usar a cabeça.
+[01:15:56:25 --> 01:15:59:29] Aqui em interfaces, ele já tinha falado do composition.
+[01:15:59:29 --> 01:16:04:13] Depois, ele deu um lugar de destaque para o Composition, ou seja, isso aqui é um painel
+[01:16:04:13 --> 01:16:05:02] importante.
+[01:16:05:22 --> 01:16:08:23] Mas eu ainda não sei onde está esse painel, não tem problema, segura a onda.
+[01:16:09:11 --> 01:16:10:03] Depois, camada.
+[01:16:10:11 --> 01:16:13:02] Se você já trabalhou com outros softwares, camada é um conceito fundamental.
+[01:16:13:04 --> 01:16:15:22] Se você nunca trabalhou, é um fundamento importante mesmo.
+[01:16:16:12 --> 01:16:17:07] Animação com keyframes.
+[01:16:17:11 --> 01:16:19:03] Olha só, tudo que eu falei para você está aqui.
+[01:16:19:07 --> 01:16:22:23] E eu não tinha pesquisado no Chat EPT, é porque eu vivi essa experiência, só
+[01:16:22:23 --> 01:16:26:06] que você consegue já chegar nessa informação mais rápido.
+[01:16:26:12 --> 01:16:28:01] Quantos anos eu já trabalho com esses softwares?
+[01:16:28:01 --> 01:16:33:12] por isso que eu sei te falar e bate aqui, camada, keyframe, interface, composition, bate
+[01:16:33:12 --> 01:16:37:06] com algumas coisas que eu já mostrei para vocês. Depois ele fala efeito e predefinição,
+[01:16:37:25 --> 01:16:41:19] máscara, que eu também mostrei que é um conceito básico, texto é outro conceito
+[01:16:41:19 --> 01:16:46:03] básico, qualquer software de editoração gráfica lida com texto, mesclagem que
+[01:16:46:03 --> 01:16:49:26] é chamado de blending também, Photoshop tem blend, Illustrator tem blend, After
+[01:16:49:26 --> 01:16:54:12] Effects, Premiere, tudo tem blend. Tem que entender o que é isso essa mesclagem
+[01:16:54:12 --> 01:16:59:03] aqui, como é que ela funciona, é um fundamento importante. Rastreamento e estabilização,
+[01:16:59:18 --> 01:17:04:29] para que isso aqui serve? E ele ainda explica como é que funciona. Renderização e exportação,
+[01:17:05:08 --> 01:17:09:29] beleza, essa é a primeira fase. Você já tem um mapa aqui do que você precisa saber
+[01:17:09:29 --> 01:17:14:18] de fundamento do software. Olha que ridículo isso, hoje em dia cara, é muito massa,
+[01:17:14:25 --> 01:17:22:00] né? Então, eu fico meio louco assim, né? Meio abalado, enquanto eu falo com vocês
+[01:17:22:00 --> 01:17:27:09] eu tô aqui assim, meu Deus, cara, nossa, sempre que eu vou ensinar isso aqui, eu falo, é muito fácil.
+[01:17:28:23 --> 01:17:31:20] Há 10 anos atrás, eu estou no design, tenho 12 anos...
+[01:17:31:20 --> 01:17:35:15] Há 10 anos atrás, quando eu estava aprendendo, se eu tivesse isso aqui...
+[01:17:35:15 --> 01:17:37:03] Quanto que eu ia evoluir mais rápido?
+[01:17:37:24 --> 01:17:40:16] Aqui, é tão fácil e gratuito.
+[01:17:41:06 --> 01:17:42:20] Voltei para a tela errada, vamos para essa aqui.
+[01:17:43:10 --> 01:17:43:25] Então, está aí.
+[01:17:44:01 --> 01:17:46:27] Passou dessa fase aqui, qual é a próxima etapa agora?
+[01:17:47:05 --> 01:17:48:22] Agora, você tem que pensar o seguinte...
+[01:17:48:22 --> 01:17:51:22] Eu vou começar pelo painel, eu já me familiarizei um pouco com ele,
+[01:17:52:07 --> 01:17:53:12] mas agora eu quero melhorar.
+[01:17:53:17 --> 01:17:54:11] Olha o que eu vou fazer...
+[01:17:54:11 --> 01:17:56:16] Copia o termo, vem cá e coloca assim...
+[01:17:56:16 --> 01:17:57:25] Entendi, muito obrigado.
+[01:17:57:25 --> 01:18:00:28] Sempre seja gentil com as inteligências artificiais.
+[01:18:01:24 --> 01:18:02:27] Entendi, muito obrigado.
+[01:18:03:28 --> 01:18:13:13] Quero me familiarizar com a interface e os painéis.
+[01:18:13:22 --> 01:18:17:03] Eu vou fazer um teste aqui, eu nunca fiz, mas eu vou fazer um teste aqui, vamos ver
+[01:18:17:03 --> 01:18:18:00] o que vai sair disso daqui.
+[01:18:19:03 --> 01:18:26:16] Mas por texto, eu não sei bem onde esses elementos ficam na interface.
+[01:18:27:13 --> 01:18:28:22] Você consegue...
+[01:18:30:09 --> 01:18:33:20] criar um diagrama... Eu não sei se isso aqui vai dar certo, eu quero experimentar com vocês.
+[01:18:33:28 --> 01:18:40:04] Você consegue criar um diagrama me mostrando a posição onde os painéis...
+[01:18:41:03 --> 01:18:41:25] Como é que ele vai falar?
+[01:18:42:19 --> 01:18:43:25] Talvez ele vai falar que não consegue.
+[01:18:44:00 --> 01:18:44:25] Ah, ele já foi...
+[01:18:46:00 --> 01:18:48:08] Talvez vai dar errado, eu acho que pode dar errado.
+[01:18:49:20 --> 01:18:51:19] Ele colocou em inglês aqui pra ele e repetiu.
+[01:18:53:04 --> 01:18:55:02] Aí tá só escrevendo, vamos ver aqui...
+[01:19:01:25 --> 01:19:06:13] Quando ele manda em inglês para você, ele deu a posição, não sei se vocês repararam
+[01:19:06:13 --> 01:19:07:28] aqui, só que ele deu tudo em inglês.
+[01:19:08:10 --> 01:19:11:10] Ele fez como se isso aqui fosse a tela, isso aqui é a tela.
+[01:19:11:27 --> 01:19:15:04] No meio da tela eu tenho o preview, olha que interessante.
+[01:19:15:15 --> 01:19:19:00] Aqui eu tenho ferramentas, no canto superior esquerdo.
+[01:19:19:08 --> 01:19:24:08] No canto superior no meio eu tenho o menu bar, que talvez aqui ele colocou tools menu
+[01:19:24:08 --> 01:19:28:16] bar, pode estar na mesma posição, geralmente estão, project, então aqui tem os arquivos
+[01:19:28:16 --> 01:19:30:16] do projeto e ele te fala, olha só, project.
+[01:19:30:16 --> 01:19:36:01] aí você vem cá em project, project panel, ele te fala o que é, se tiver inglês só
+[01:19:36:01 --> 01:19:38:20] você falar assim, você pode mandar em português, aí ele traduz em português, aqui eu não
+[01:19:38:20 --> 01:19:42:17] vou pra gente não perder tempo. Então aqui ele tem layers que são as camadas, info
+[01:19:42:17 --> 01:19:48:11] que são as informações quando você clica em algum objeto, timeline e áudio. E aí
+[01:19:48:11 --> 01:19:49:02] mostraram.
+[01:19:50:06 --> 01:19:54:02] Eu achei inteligente, ele mostrou do jeito que ele podia, mas ele colocou mais ou menos
+[01:19:54:02 --> 01:19:55:01] onde cada coisa está.
+[01:19:55:29 --> 01:19:57:07] Olha que bizarro isso, cara!
+[01:19:58:05 --> 01:20:00:10] Você aprende sozinha que a ferramenta está te ensinando.
+[01:20:01:14 --> 01:20:05:11] Mas vamos um pouco mais além, beleza, ele me mostrou onde está o painel.
+[01:20:05:15 --> 01:20:10:13] Aí agora eu quero aprender mais sobre composições, aqui ele falou já, as composições são o
+[01:20:10:13 --> 01:20:14:13] coração do After Effects, então por isso que ele deu um destaque maior para isso.
+[01:20:14:24 --> 01:20:19:19] Elas são como containers, onde você organiza e manipula todos os elementos do seu objeto.
+[01:20:20:03 --> 01:20:25:13] Cada composição tem suas próprias configurações de resolução, duração e taxa de quadro.
+[01:20:25:18 --> 01:20:30:24] Aí eu posso falar, Chet, você pode me explicar melhor?
+[01:20:32:27 --> 01:20:37:09] Como posso utilizar as composições na prática?
+[01:20:38:17 --> 01:20:47:04] Se possível, me dê um passo a passo ridículo de fácil, só para eu entender.
+[01:20:49:28 --> 01:20:52:13] E aí ele vai falar, claro, vou te explicar passo a passo.
+[01:20:52:22 --> 01:20:58:09] Abre o After Effects no computador, vá no menu File e selecione New e depois New Project.
+[01:20:58:22 --> 01:21:02:29] No painel Project, clique com o botão direito e selecione Import File.
+[01:21:03:12 --> 01:21:06:24] Selecione os arquivos de vídeo e imagem áudio que deseja usar e clique em Open.
+[01:21:08:00 --> 01:21:11:25] Galera, na minha época, deixa eu só voltar aqui pra vocês entenderem que às vezes vocês
+[01:21:11:25 --> 01:21:14:05] não vão conseguir entender o impacto disso, tá?
+[01:21:14:22 --> 01:21:20:17] Na minha época nós pagávamos caro, eu falo caro, naquela época já custava R$150,00,
+[01:21:20:19 --> 01:21:28:00] uma postilona desse tamanho de Photoshop, de Illustrator, eram uns negócios desse tamanho
+[01:21:28:00 --> 01:21:34:15] e eu sonhava entre isso, porque tinham esses tutoriais em texto, eram textos e imagens
+[01:21:34:15 --> 01:21:38:05] assim, pra mostrar onde tem que clicar. Só isso, o tutorial inteiro.
+[01:21:39:11 --> 01:21:43:26] E isso era o suficiente para nós aprendermos os softwares e fazermos coisas incríveis na
+[01:21:43:26 --> 01:21:44:04] quela época.
+[01:21:45:06 --> 01:21:52:11] Agora você tem uma apostila infinita, uma apostila que conversa com você, uma apostila
+[01:21:52:11 --> 01:21:55:10] que explica pra você e se você não entender ela explica de outro jeito.
+[01:21:56:04 --> 01:21:56:27] E ela é gratuita.
+[01:21:57:28 --> 01:22:03:13] Dá pra entender um pouquinho do porquê que eu fico louco aqui, de que é só preguiça,
+[01:22:04:01 --> 01:22:04:25] é só desculpa?
+[01:22:05:06 --> 01:22:07:04] Ah, mas eu vou tomar, vai demorar muito tempo.
+[01:22:08:16 --> 01:22:09:12] Pode confirmar.
+[01:22:10:19 --> 01:22:13:14] Se você seguir esse processo, às vezes, é três dias.
+[01:22:14:22 --> 01:22:18:01] você já está muito mais familiarizado com o software fazendo alguma coisa nele.
+[01:22:18:06 --> 01:22:22:18] Você ainda não vai ter dominado, ele é óbvio, você vai precisar ainda de mais prática,
+[01:22:22:24 --> 01:22:24:05] de experimento ativo ali.
+[01:22:25:08 --> 01:22:27:12] Mas você vai estar tranquilo para fazer isso.
+[01:22:27:25 --> 01:22:28:23] Vai estar muito mais fácil.
+[01:22:29:10 --> 01:22:32:25] E esse é o processo que eu sigo para dominar qualquer software.

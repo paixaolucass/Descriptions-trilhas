@@ -1,0 +1,2740 @@
+1
+00:00:00,000 --> 00:00:03,220
+Agora eu quero te mostrar como utilizar as ferramentas,
+
+2
+00:00:03,220 --> 00:00:05,420
+principalmente para quem é iniciante.
+
+3
+00:00:05,580 --> 00:00:08,660
+Esse aqui não é um curso profissionalizante de produção musical,
+
+4
+00:00:08,920 --> 00:00:12,980
+isso aqui não é um curso avançado de produção musical,
+
+5
+00:00:13,100 --> 00:00:14,260
+então eu não vou abrir DAW aqui,
+
+6
+00:00:14,640 --> 00:00:17,520
+eu não vou abrir ferramentas mais avançadas.
+
+7
+00:00:17,680 --> 00:00:19,860
+Na verdade, a gente vai trabalhar com o Suno,
+
+8
+00:00:19,880 --> 00:00:22,520
+que é a minha indicação para você, bem simples, fácil de usar.
+
+9
+00:00:22,900 --> 00:00:25,680
+Você vai gostar de usar ele, é bom para o iniciante,
+
+10
+00:00:25,700 --> 00:00:28,240
+é bom para quem está no intermediário e para o avançado também,
+
+11
+00:00:28,240 --> 00:00:30,660
+que você consegue baixar os mids para usar depois.
+
+12
+00:00:30,940 --> 00:00:34,960
+Então é uma ferramenta que vai te servir bem à medida que você vai evoluindo
+
+13
+00:00:34,960 --> 00:00:36,740
+na sua produção aí, beleza?
+
+14
+00:00:37,360 --> 00:00:40,840
+E aí eu quero mostrar para você então agora, metodologia.
+
+15
+00:00:40,840 --> 00:00:42,020
+Eu quero mostrar para você o processo.
+
+16
+00:00:42,400 --> 00:00:44,800
+Eu vou mostrar primeiro uma pesquisa que eu fiz com aquele método
+
+17
+00:00:44,800 --> 00:00:47,480
+que eu já ensinei para você usando o Gemini, Deep Research.
+
+18
+00:00:47,660 --> 00:00:49,100
+Você pode usar outra IA também.
+
+19
+00:00:49,660 --> 00:00:52,240
+Que quais são as melhores práticas usadas no mercado hoje.
+
+20
+00:00:52,780 --> 00:00:54,140
+Dependendo do momento que você está vendo isso,
+
+21
+00:00:54,240 --> 00:00:56,400
+vale a pena você rodar a sua própria pesquisa no Gemini
+
+22
+00:00:56,400 --> 00:01:00,120
+ou em outra LLM também, para ver se tem ferramentas novas no mercado.
+
+23
+00:01:00,420 --> 00:01:03,460
+Depois disso, eu vou mostrar para você o meu processo,
+
+24
+00:01:03,660 --> 00:01:06,640
+principalmente focado na parte de escrita de letra,
+
+25
+00:01:06,660 --> 00:01:11,500
+porque eu acredito que uma parte boa do valor da música é o conteúdo dela.
+
+26
+00:01:11,700 --> 00:01:15,040
+Se você for fazer uma música instrumental, você vai trabalhar os motivos,
+
+27
+00:01:15,040 --> 00:01:19,760
+condutores, você vai trabalhar as frases musicais também instrumentais,
+
+28
+00:01:19,880 --> 00:01:23,280
+você vai contar a história com instrumentos, porque a lógica é a mesma,
+
+29
+00:01:23,320 --> 00:01:24,660
+você conta uma história com a música.
+
+30
+00:01:25,340 --> 00:01:26,820
+aquela música, é um clássico
+
+31
+00:01:26,820 --> 00:01:29,080
+que dá pra trazer, é Senhor dos Anéis, você pega a trilha sonora
+
+32
+00:01:29,080 --> 00:01:31,020
+do Senhor dos Anéis, o tempo inteiro tá contando uma história
+
+33
+00:01:31,020 --> 00:01:32,860
+quando tá lá no condado com os
+
+34
+00:01:34,812 --> 00:01:35,552
+Com os hobbits, né?
+
+35
+00:01:35,612 --> 00:01:36,432
+Aí começa aquela música.
+
+36
+00:01:42,492 --> 00:01:43,492
+Cantei mal aqui, né?
+
+37
+00:01:43,552 --> 00:01:45,732
+Mas deu uma travada na língua.
+
+38
+00:01:45,832 --> 00:01:46,392
+Mas continua.
+
+39
+00:01:52,156 --> 00:01:52,356
+Tcharam!
+
+40
+00:01:53,788 --> 00:01:55,728
+Olha a inocência que tem na música, né?
+
+41
+00:01:56,028 --> 00:01:56,428
+Calma.
+
+42
+00:01:56,588 --> 00:01:59,748
+Aí já quando a música entra em um outro momento,
+
+43
+00:02:00,288 --> 00:02:02,828
+quando tá ali na Sociedade do Anel, por exemplo, no filme,
+
+44
+00:02:02,948 --> 00:02:05,108
+aí a música começa aquela segunda parte assim, ó.
+
+45
+00:02:05,748 --> 00:02:06,548
+Que vai...
+
+46
+00:02:12,700 --> 00:02:14,440
+Tadadá, dadadá
+
+47
+00:02:17,340 --> 00:02:17,860
+Tchau.
+
+48
+00:02:20,956 --> 00:02:21,856
+Aí vem a esperança.
+
+49
+00:02:27,996 --> 00:02:31,956
+A música pode ser instrumental, mas ela está contando uma história do mesmo jeito.
+
+50
+00:02:32,216 --> 00:02:33,276
+E isso que é o legal.
+
+51
+00:02:33,676 --> 00:02:37,536
+Então, para mim, o conteúdo da música é que vai fazer as músicas terem valor.
+
+52
+00:02:37,936 --> 00:02:38,996
+Sempre foi, na verdade.
+
+53
+00:02:41,316 --> 00:02:43,956
+E aqui no caso, na hora de escrever o prompt,
+
+54
+00:02:44,156 --> 00:02:45,536
+depois quando eu for mostrar o meu processo,
+
+55
+00:02:45,816 --> 00:02:49,716
+vocês vão ver que eu foco, se for ter letra, eu vou focar na letra primeiro.
+
+56
+00:02:50,036 --> 00:02:54,616
+Se for ser um soundtrack, uma trilha sonora ou um instrumental,
+
+57
+00:02:54,616 --> 00:02:56,576
+eu vou focar em contar essa história
+
+58
+00:02:56,576 --> 00:02:58,196
+com os instrumentos,
+
+59
+00:02:58,196 --> 00:03:00,176
+focando primeiro no motivo principal,
+
+60
+00:03:00,416 --> 00:03:02,156
+na condução e por aí vai.
+
+61
+00:03:02,316 --> 00:03:04,456
+Então você vai seguir o arco
+
+62
+00:03:04,456 --> 00:03:06,296
+narrativo na música também. E assim
+
+63
+00:03:06,296 --> 00:03:07,576
+você vai fazendo músicas boas.
+
+64
+00:03:07,796 --> 00:03:10,516
+Pra isso eu recomendo boas referências pra você.
+
+65
+00:03:10,836 --> 00:03:12,316
+Se você quer aprender mais sobre isso
+
+66
+00:03:12,316 --> 00:03:13,676
+pra contar boas histórias com música,
+
+67
+00:03:13,836 --> 00:03:16,296
+siga grandes produtores e principalmente de
+
+68
+00:03:16,296 --> 00:03:17,956
+filmes. Os meus favoritos,
+
+69
+00:03:17,976 --> 00:03:20,336
+eu gosto do Goranson,
+
+70
+00:03:20,556 --> 00:03:22,256
+eu não consigo pronunciar o nome dele,
+
+71
+00:03:22,256 --> 00:03:24,456
+mas eu vou colocar na tela aqui para vocês.
+
+72
+00:03:25,948 --> 00:03:27,668
+mas é o Ludwig Göransson,
+
+73
+00:03:27,768 --> 00:03:29,868
+não sei se eu tô pronunciando certo,
+
+74
+00:03:30,008 --> 00:03:31,188
+mas enfim, esse cara aqui, ó,
+
+75
+00:03:31,808 --> 00:03:33,628
+você com certeza já ouviu as músicas dele,
+
+76
+00:03:33,748 --> 00:03:35,888
+são muito boas, né, ele é meio que,
+
+77
+00:03:36,228 --> 00:03:37,708
+não é, mas eu falo assim, né,
+
+78
+00:03:37,708 --> 00:03:39,188
+discípulos de Hans Zimmer, né, porque
+
+79
+00:03:39,568 --> 00:03:41,368
+ele é o novo Hans Zimmer pra mim,
+
+80
+00:03:41,508 --> 00:03:43,728
+mas a gente tem o Hans Zimmer, que é o clássico, né,
+
+81
+00:03:43,808 --> 00:03:45,928
+você vai conversar sobre música, todo mundo vai soltar
+
+82
+00:03:45,928 --> 00:03:47,608
+um Hans Zimmer aí
+
+83
+00:03:48,248 --> 00:03:50,128
+do nada, mas tem também o John Williams,
+
+84
+00:03:50,388 --> 00:03:51,768
+que, pô, aí você tá,
+
+85
+00:03:52,108 --> 00:03:53,988
+você não pode falar de composição de música,
+
+86
+00:03:53,988 --> 00:03:56,148
+não falo, é John Williams, que tem muitas trilhas
+
+87
+00:03:56,148 --> 00:03:57,608
+aqui, identidades boas, Indiana Jones
+
+88
+00:03:58,248 --> 00:03:59,348
+Tubarão, Jurassic Park
+
+89
+00:03:59,888 --> 00:04:01,568
+isso aqui ficou na sua memória, Star Wars
+
+90
+00:04:02,188 --> 00:04:03,048
+e por aí vai, então
+
+91
+00:04:03,768 --> 00:04:06,088
+observa a música desses caras, isso eu já falo
+
+92
+00:04:06,088 --> 00:04:08,008
+prompt bom é de gente que tem
+
+93
+00:04:08,008 --> 00:04:09,988
+repertório, vai pegando
+
+94
+00:04:09,988 --> 00:04:11,828
+esses caras aqui, escuta a música
+
+95
+00:04:11,828 --> 00:04:13,848
+deles, vê a história que eles estão contando
+
+96
+00:04:13,848 --> 00:04:15,808
+nessas músicas, e você vai ver que
+
+97
+00:04:15,808 --> 00:04:18,168
+cara, o universo da música é incrível, é maravilhoso
+
+98
+00:04:18,168 --> 00:04:20,028
+eu falo disso e eu empolgo, por isso que eu tô
+
+99
+00:04:20,028 --> 00:04:21,828
+aqui falando um tempão e não canso de falar
+
+100
+00:04:21,828 --> 00:04:23,508
+lá, mas enfim, então vocês podem
+
+101
+00:04:23,508 --> 00:04:25,568
+aproveitar, vou dar esses três pra vocês
+
+102
+00:04:25,568 --> 00:04:27,628
+começarem, daqui vão surgir vários outros
+
+103
+00:04:27,628 --> 00:04:29,448
+pra vocês aproveitarem também, mas
+
+104
+00:04:29,448 --> 00:04:31,368
+entendam isso, o repertório é o primeiro passo
+
+105
+00:04:31,368 --> 00:04:32,988
+pra trabalhar com
+
+106
+00:04:33,668 --> 00:04:35,988
+essa parte da construção
+
+107
+00:04:35,988 --> 00:04:37,608
+da música mesmo, da composição
+
+108
+00:04:37,608 --> 00:04:39,788
+e aí, eu vou trazer aqui pra vocês
+
+109
+00:04:39,788 --> 00:04:41,148
+então, deixa eu puxar ele
+
+110
+00:04:41,148 --> 00:04:42,368
+eu não puxei ainda
+
+111
+00:04:43,148 --> 00:04:44,028
+o nosso
+
+112
+00:04:46,172 --> 00:04:48,932
+Documento de Prompt, que eu chamei de método maestro.
+
+113
+00:04:49,532 --> 00:04:52,672
+Está aí, né? Se a trilha chama maestro, é o método maestro.
+
+114
+00:04:53,032 --> 00:04:57,812
+Engenharia de Prompt avançada e arquitetura estrutural para composição musical por inteligência artificial.
+
+115
+00:04:58,692 --> 00:05:02,632
+Toda essa documentação aqui a gente vai deixar embaixo para você que está assistindo a gravação aqui da aula,
+
+116
+00:05:02,692 --> 00:05:04,212
+como a gente já fez em todas as outras aulas.
+
+117
+00:05:04,312 --> 00:05:07,432
+Eu vou só passar por ela aqui para você entender a lógica, tá?
+
+118
+00:05:07,672 --> 00:05:10,852
+Então vamos seguir aqui, porque a gente tem muita coisa para falar.
+
+119
+00:05:10,992 --> 00:05:12,172
+Primeiro passo de todos.
+
+120
+00:05:13,432 --> 00:05:13,832
+Fundamentos.
+
+121
+00:05:15,072 --> 00:05:16,852
+Sintaxe, formação e otimização lexical.
+
+122
+00:05:16,972 --> 00:05:18,712
+Meu Deus, um monte de termos que eu não conheço.
+
+123
+00:05:19,932 --> 00:05:21,612
+Vê o documento que você vai entender um pouquinho melhor,
+
+124
+00:05:21,672 --> 00:05:22,752
+mas eu vou te explicar aqui também.
+
+125
+00:05:22,912 --> 00:05:23,252
+Então, vamos lá.
+
+126
+00:05:23,552 --> 00:05:25,392
+Primeira parte, o método dos blocos
+
+127
+00:05:25,392 --> 00:05:27,272
+e o template de quatro partes.
+
+128
+00:05:27,612 --> 00:05:31,192
+Isso aqui é utilizado para contar a história da música.
+
+129
+00:05:31,892 --> 00:05:33,372
+Então, aqui a gente pode ver,
+
+130
+00:05:33,832 --> 00:05:35,912
+deixa eu ver onde que ele divide para facilitar aqui.
+
+131
+00:05:36,052 --> 00:05:38,252
+Para manter o controle escrito sobre o modelo generativo
+
+132
+00:05:38,252 --> 00:05:40,172
+e garantir consistência científica dos resultados
+
+133
+00:05:40,172 --> 00:05:41,112
+em múltiplas gerações,
+
+134
+00:05:41,332 --> 00:05:45,272
+a estruturação de texto deve seguir uma ordem hierárquica rigorosa.
+
+135
+00:05:45,352 --> 00:05:47,312
+Do mesmo jeito que para a imagem a gente tem lá
+
+136
+00:05:47,872 --> 00:05:49,512
+sujeito, ambiente, fotografia,
+
+137
+00:05:49,932 --> 00:05:54,012
+Você também pode seguir essa sequência aqui para fazer a música.
+
+138
+00:05:54,052 --> 00:05:55,852
+Eu vou mostrar a tabela ali para vocês, para vocês entenderem.
+
+139
+00:05:55,872 --> 00:05:57,552
+Para escrever o prompt, na verdade.
+
+140
+00:05:57,892 --> 00:05:59,812
+Então, é um método baseado em blocos.
+
+141
+00:05:59,852 --> 00:06:01,352
+Você usando o Suno, usando o Udio.
+
+142
+00:06:01,672 --> 00:06:03,252
+E é um template de quatro partes.
+
+143
+00:06:03,392 --> 00:06:07,472
+A ordem ideal de prioridades, para a maioria dos modelos de difusão,
+
+144
+00:06:07,492 --> 00:06:10,372
+é estruturada para imitar o processo de pensamento de um produtor musical.
+
+145
+00:06:10,792 --> 00:06:11,192
+Beleza?
+
+146
+00:06:11,312 --> 00:06:14,112
+Então, a estrutura inicia-se pelo formato e gênero.
+
+147
+00:06:14,532 --> 00:06:15,372
+Então, pega aí.
+
+148
+00:06:15,932 --> 00:06:16,892
+Formato e gênero.
+
+149
+00:06:16,912 --> 00:06:18,872
+Vai começar seu prompt e começa escrevendo.
+
+150
+00:06:18,912 --> 00:06:19,792
+Formato e gênero.
+
+151
+00:06:19,932 --> 00:06:24,572
+Depois do formato e gênero, cadê aqui, seguindo aqui com vocês,
+
+152
+00:06:24,672 --> 00:06:29,652
+estabelece a fundação musical central, que é o compasso base e a paleta sonora predominante.
+
+153
+00:06:30,612 --> 00:06:33,412
+Dica pra vocês, pegue isso aqui, copia, cola na IA e fala assim,
+
+154
+00:06:33,492 --> 00:06:36,412
+agora eu quero que você escreva promptos de músicas pra mim seguindo essa estrutura.
+
+155
+00:06:36,432 --> 00:06:38,072
+Ela já vai seguir, tá? Mas é bom você entender.
+
+156
+00:06:38,852 --> 00:06:43,992
+Utilizando termos como deep house and anten, baroque, piece, né, peça de baroco.
+
+157
+00:06:44,352 --> 00:06:47,792
+Ou seja, se você tem repertório, história da música, você vai conseguir fazer muito melhor.
+
+158
+00:06:47,792 --> 00:06:50,212
+imediatamente a seguir vem o vocal
+
+159
+00:06:50,212 --> 00:06:51,612
+aqui ó, vocalista
+
+160
+00:06:52,532 --> 00:06:53,132
+orientado
+
+161
+00:06:53,732 --> 00:06:55,852
+orientando o motor de síntese de voz
+
+162
+00:06:55,852 --> 00:06:57,952
+sobre o timbre, timbre lembrando
+
+163
+00:06:57,952 --> 00:06:59,852
+tem vários, cada instrumento tem um timbre
+
+164
+00:06:59,852 --> 00:07:01,952
+é a cor, o timbre
+
+165
+00:07:01,952 --> 00:07:02,592
+é o
+
+166
+00:07:03,472 --> 00:07:06,092
+é a cor do instrumento
+
+167
+00:07:06,092 --> 00:07:07,932
+que você tá usando, daquele som que tá saindo
+
+168
+00:07:09,532 --> 00:07:12,632
+Então, depois vem o gênero do cantor e o estilo de entrega.
+
+169
+00:07:12,672 --> 00:07:14,392
+Vamos ver isso aqui um pouquinho melhor, né?
+
+170
+00:07:14,732 --> 00:07:18,712
+Mas tem o terceiro bloco também, que é clima e emoção, mood e emoção.
+
+171
+00:07:18,832 --> 00:07:23,072
+Então você pode colocar adjetivos como triunfante, melancólico e por aí vai.
+
+172
+00:07:23,692 --> 00:07:27,072
+Batidas também por minuto, usando construtos aqui, ó.
+
+173
+00:07:27,092 --> 00:07:30,152
+Song, layered, soundtrack, track, simple loop e por aí vai.
+
+174
+00:07:30,292 --> 00:07:31,732
+Olha só a tabela a seguir então.
+
+175
+00:07:31,832 --> 00:07:33,932
+É só pegar essa tabela aqui no seu prompt,
+
+176
+00:07:34,432 --> 00:07:36,472
+e você já vai ter uma estrutura de prompt mais profissional,
+
+177
+00:07:36,532 --> 00:07:39,292
+que é a que mais tem sido utilizada no mundo hoje por pessoas profissionais.
+
+178
+00:07:39,292 --> 00:07:44,092
+Então vem, gênero, aí ele tá aqui o exemplo, define o centro de gravidade,
+
+179
+00:07:44,192 --> 00:07:48,152
+uma música que soe como um rock antigo misturado com eletrônica.
+
+180
+00:07:48,272 --> 00:07:49,832
+E aqui um exemplo otimizado.
+
+181
+00:07:49,932 --> 00:07:51,872
+Você pode tanto escrever assim...
+
+182
+00:07:52,956 --> 00:07:55,196
+só que assim causa confusão no token,
+
+183
+00:07:55,316 --> 00:07:58,816
+porque você tem o uma, sou, e, palavras que não funcionam,
+
+184
+00:07:58,876 --> 00:08:00,156
+e aí você trabalha com tags.
+
+185
+00:08:00,556 --> 00:08:04,616
+Então você tem aqui, ó, pop synthwave ou heterotech house.
+
+186
+00:08:04,976 --> 00:08:08,156
+E aí ele vai pegar essas tags e você vai ter um prompt melhor.
+
+187
+00:08:08,636 --> 00:08:10,436
+Que é diferente de imagem, né?
+
+188
+00:08:10,436 --> 00:08:13,716
+Pra imagem, você tá usando o modelo ali multimodal, do Gemini,
+
+189
+00:08:14,296 --> 00:08:15,996
+você pode escrever desse jeito aqui que vai funcionar.
+
+190
+00:08:16,096 --> 00:08:18,616
+Se você escreve desse jeito aqui pra IaaS de música,
+
+191
+00:08:18,816 --> 00:08:19,676
+cara, vai dar errado.
+
+192
+00:08:19,676 --> 00:08:21,876
+ela vai fazer aquelas aberrações
+
+193
+00:08:21,876 --> 00:08:23,656
+que eu falei pra vocês, do nada
+
+194
+00:08:23,656 --> 00:08:25,476
+ela vai botar isso na letra,
+
+195
+00:08:25,496 --> 00:08:27,976
+acontece muito, então você colocou a música
+
+196
+00:08:27,976 --> 00:08:29,316
+ali, aí do nada ela tá lá
+
+197
+00:08:29,316 --> 00:08:31,756
+uma música que soe como rock
+
+198
+00:08:31,756 --> 00:08:33,716
+antigo misturado com eletrônica
+
+199
+00:08:34,276 --> 00:08:35,436
+aqui no caso eu mudei
+
+200
+00:08:35,436 --> 00:08:37,476
+o gênero, mas enfim, ela vai
+
+201
+00:08:37,476 --> 00:08:39,276
+jogar isso no meio da letra pra você,
+
+202
+00:08:39,396 --> 00:08:41,496
+enfim, não é o objetivo, então
+
+203
+00:08:41,496 --> 00:08:42,936
+é legal você ir colocando tags.
+
+204
+00:08:43,996 --> 00:08:45,436
+Segundo, vocalista, alinha
+
+205
+00:08:45,436 --> 00:08:47,876
+o sintetizador de formantes
+
+206
+00:08:47,876 --> 00:08:49,516
+e a ressonância vocal, não entendi nada disso,
+
+207
+00:08:49,676 --> 00:08:50,956
+Olha na prática, ao invés de colocar
+
+208
+00:08:50,956 --> 00:08:53,516
+Quero uma mulher cantando de forma muito triste e suave
+
+209
+00:08:53,516 --> 00:08:54,436
+Você coloca aqui
+
+210
+00:08:54,436 --> 00:08:57,136
+Female vocal whispered
+
+211
+00:08:57,136 --> 00:08:58,016
+Que é sussurrando
+
+212
+00:08:58,016 --> 00:09:00,196
+Ou whispered female
+
+213
+00:09:00,196 --> 00:09:03,216
+Então é feminino
+
+214
+00:09:03,976 --> 00:09:04,536
+Sussurrado
+
+215
+00:09:05,716 --> 00:09:06,476
+Vocals only
+
+216
+00:09:06,476 --> 00:09:08,696
+Então apenas vocais sussurrados femininos
+
+217
+00:09:08,696 --> 00:09:10,836
+Mas você colocar em inglês também faz diferença
+
+218
+00:09:10,836 --> 00:09:11,976
+Então traduz sempre
+
+219
+00:09:11,976 --> 00:09:14,516
+Clima, direciona a teoria musical
+
+220
+00:09:14,516 --> 00:09:16,056
+Escalas, acordes
+
+221
+00:09:16,056 --> 00:09:17,476
+E aí vem, você pode colocar
+
+222
+00:09:17,476 --> 00:09:21,316
+A música deve ter uma vibe bem feliz, mas um pouco sombria.
+
+223
+00:09:21,456 --> 00:09:22,336
+Você coloca assim, ó.
+
+224
+00:09:22,496 --> 00:09:25,576
+Bold, happy ou dissonant, but euphoric.
+
+225
+00:09:25,916 --> 00:09:27,136
+Também tem como colocar.
+
+226
+00:09:28,356 --> 00:09:29,796
+Usando várias tags diferentes.
+
+227
+00:09:30,696 --> 00:09:32,776
+Instrumentação. Carrega os perfis de timbre.
+
+228
+00:09:32,856 --> 00:09:35,736
+Aí é bom você colocar também quais são os perfis de timbre.
+
+229
+00:09:35,876 --> 00:09:38,536
+Então, use sons de computador e bateria forte com baixo.
+
+230
+00:09:38,756 --> 00:09:39,976
+Ruim. Melhor.
+
+231
+00:09:40,196 --> 00:09:42,336
+Synth drums ou super sol.
+
+232
+00:09:42,616 --> 00:09:44,076
+Lids rolling, bass line.
+
+233
+00:09:44,076 --> 00:09:48,896
+Aí, tudo isso aqui, você pode pegar e escrever num chat GPT, num Gemini,
+
+234
+00:09:48,936 --> 00:09:52,616
+e fala assim, transforme isso em tags, e dá o exemplo.
+
+235
+00:09:52,736 --> 00:09:53,816
+Pega essa tabela e joga lá.
+
+236
+00:09:54,076 --> 00:09:56,016
+E aí você escreve o prompt desse jeito,
+
+237
+00:09:56,216 --> 00:09:59,836
+mas a IA vai te devolver as tags para você jogar na IA, beleza?
+
+238
+00:10:00,236 --> 00:10:01,056
+Funciona muito melhor.
+
+239
+00:10:01,636 --> 00:10:03,216
+Regras sintáticas de tokenização.
+
+240
+00:10:04,356 --> 00:10:06,896
+Aí, eu não vou me aprofundar nessas regras sintáticas,
+
+241
+00:10:06,916 --> 00:10:09,776
+mas basicamente tem relação com a tabela aqui.
+
+242
+00:10:09,776 --> 00:10:13,076
+que você usar esses underlines, por exemplo,
+
+243
+00:10:13,096 --> 00:10:15,796
+colocar vírgula, basicamente está falando sobre isso.
+
+244
+00:10:15,816 --> 00:10:17,096
+São técnicas interessantes,
+
+245
+00:10:17,116 --> 00:10:18,896
+que eu vou deixar no documento aqui para você.
+
+246
+00:10:18,956 --> 00:10:20,836
+São detalhes que às vezes ajudam.
+
+247
+00:10:22,044 --> 00:10:25,304
+Estruturas avançadas e topologia do espaço latente musical.
+
+248
+00:10:25,484 --> 00:10:29,744
+Os nomes que o Gemini traz sempre assustam, mas é mais simples do que parece.
+
+249
+00:10:30,024 --> 00:10:36,264
+Então primeiro ele traz aqui, poços de gravidade e influência intersticial da música.
+
+250
+00:10:36,584 --> 00:10:37,604
+Vamos lá, o que é isso aqui?
+
+251
+00:10:37,864 --> 00:10:39,144
+Análise aprofundada da matriz.
+
+252
+00:10:39,284 --> 00:10:41,284
+Nossa, se eu ler isso aqui pra vocês agora, vocês não vão pegar.
+
+253
+00:10:41,704 --> 00:10:43,964
+Mas deixa eu trazer aqui a definição mais simples.
+
+254
+00:10:44,164 --> 00:10:49,824
+Se um produtor insere o prompt emumetal com o objetivo de gerar uma faixa pesada e agressiva,
+
+255
+00:10:49,824 --> 00:10:52,844
+o resultado frequentemente vai frustrar a expectativa,
+
+256
+00:10:52,924 --> 00:10:56,764
+soando como um emo pop, altamente polido.
+
+257
+00:10:56,884 --> 00:11:00,544
+Isso se deve ao fato matemático de que a tag emo,
+
+258
+00:11:00,764 --> 00:11:05,304
+no corpus de treinamento, tem bilhões de conexão com pop e piano.
+
+259
+00:11:05,724 --> 00:11:09,424
+Então é uma, basicamente para simplificar esse monte de termo,
+
+260
+00:11:09,424 --> 00:11:12,424
+quando ele fala de gravity, os postos de gravidade,
+
+261
+00:11:12,544 --> 00:11:13,264
+o que ele está falando é o seguinte,
+
+262
+00:11:13,464 --> 00:11:16,324
+existem tags, termos que você usa para IA,
+
+263
+00:11:16,404 --> 00:11:19,204
+que os padrões dela com aquela palavra,
+
+264
+00:11:19,204 --> 00:11:21,324
+as conexões que ela fez com aquela palavra
+
+265
+00:11:21,944 --> 00:11:23,184
+joga ela muito mais
+
+266
+00:11:23,184 --> 00:11:24,504
+para um estilo musical do que outro
+
+267
+00:11:24,504 --> 00:11:26,584
+por exemplo, se eu coloco black
+
+268
+00:11:27,484 --> 00:11:28,364
+black school
+
+269
+00:11:28,904 --> 00:11:31,304
+black school é uma palavra que vai conectar
+
+270
+00:11:31,304 --> 00:11:33,144
+com qual estilo musical
+
+271
+00:11:33,144 --> 00:11:34,404
+qual gênero musical vocês acham?
+
+272
+00:11:34,484 --> 00:11:36,264
+sei lá, vai conectar com heavy metal
+
+273
+00:11:36,264 --> 00:11:38,804
+e isso é um posto de gravidade
+
+274
+00:11:38,804 --> 00:11:41,144
+então você tem que encontrar outros adjetivos melhores
+
+275
+00:11:41,144 --> 00:11:42,064
+para tentar explicar
+
+276
+00:11:42,064 --> 00:11:44,804
+porque os termos se confundem muito na música
+
+277
+00:11:44,804 --> 00:11:47,144
+às vezes um termo que você vai usar de adjetivo é um gênero musical
+
+278
+00:11:47,144 --> 00:11:48,404
+inteiro sozinho ali dentro
+
+279
+00:11:48,404 --> 00:11:56,084
+O universo musical é uma taxonomia bizarra, é bizarro mesmo, é uma loucura, se você for pesquisar.
+
+280
+00:11:56,204 --> 00:12:00,784
+E aí você precisa ter essa noção na hora de pedir para IA também e usar esses adjetivos.
+
+281
+00:12:00,944 --> 00:12:04,384
+Outra dica que eu dou para vocês, pode jogar isso aqui na IA também e falar com ela,
+
+282
+00:12:04,424 --> 00:12:09,704
+use isso em consideração e traduz o prompt para mim, levando em consideração os postos de gravidade, tá bom?
+
+283
+00:12:09,824 --> 00:12:11,284
+Então isso é um outro ponto importante.
+
+284
+00:12:11,764 --> 00:12:13,344
+Engenharia de exclusão absoluta.
+
+285
+00:12:13,344 --> 00:12:19,664
+A compreensão dos postos de gravidade torna evidente que instruir a IAR sobre o que deve ser criado é insuficiente.
+
+286
+00:12:19,904 --> 00:12:25,324
+Para esculpir o espectro sonoro e erradicar impurezas harmônicas, rítmicas e vocais,
+
+287
+00:12:25,384 --> 00:12:28,224
+é necessário que você use tags de exclusão.
+
+288
+00:12:29,084 --> 00:12:33,644
+A exclusão explícita atua como um filtro, só que tem que ser bem usada.
+
+289
+00:12:33,764 --> 00:12:36,804
+Geralmente, quando você está usando aqui, vamos pegar o sono para vocês verem.
+
+290
+00:12:37,004 --> 00:12:40,144
+Vou clicar em Home e beleza, vou gerar uma música.
+
+291
+00:12:40,144 --> 00:12:43,624
+música aí eu clico aqui nesse mais em Opa peraí
+
+292
+00:12:44,764 --> 00:12:45,644
+Create, mais fácil.
+
+293
+00:12:46,004 --> 00:12:47,164
+Eu estou aqui dentro, está vendo?
+
+294
+00:12:47,204 --> 00:12:49,184
+Eu posso colocar persona, inspiração.
+
+295
+00:12:49,684 --> 00:12:51,344
+Aqui, lyrics é a letra.
+
+296
+00:12:51,424 --> 00:12:55,164
+Em áudio aqui, eu posso gravar, subir um áudio ou remixar algo que eu já tenho pronto.
+
+297
+00:12:55,424 --> 00:12:58,944
+Em estilos, ele me dá aqui uma biblioteca já com termos que eu posso utilizar.
+
+298
+00:12:59,364 --> 00:13:02,564
+E vocês vão ver aqui, more options, eu tenho aqui, exclude styles.
+
+299
+00:13:03,004 --> 00:13:06,284
+É aqui que você vai escrever esses prompts de exclusão.
+
+300
+00:13:06,464 --> 00:13:09,804
+Quando você fez um teste de uma música, ela está colocando algum...
+
+301
+00:13:13,632 --> 00:13:15,052
+timbre que você não quer ali no meio,
+
+302
+00:13:15,212 --> 00:13:17,272
+você vai excluindo. Só que pra excluir, tem um jeito
+
+303
+00:13:17,272 --> 00:13:18,812
+certo de fazer. Que é o quê?
+
+304
+00:13:18,992 --> 00:13:20,492
+Aqui ele tá dando o exemplo pra gente, ó.
+
+305
+00:13:22,780 --> 00:13:24,960
+Primeiro ele colocou objetivo artístico, genérico
+
+306
+00:13:24,960 --> 00:13:26,600
+do produtor. Trance instrumental
+
+307
+00:13:26,600 --> 00:13:29,060
+puro e progressivo. Isso aqui é pra onde
+
+308
+00:13:29,060 --> 00:13:30,800
+ele quer ir. Gênero ou estilo
+
+309
+00:13:30,800 --> 00:13:32,900
+solicitado. Ele colocou aqui Hype, Nautic,
+
+310
+00:13:32,900 --> 00:13:35,180
+Trance, 138 batidas por minuto,
+
+311
+00:13:35,220 --> 00:13:36,840
+Super Sound Leads. Vamos ver o que
+
+312
+00:13:36,840 --> 00:13:38,980
+a gente tem? Vou fazer pra vocês
+
+313
+00:13:38,980 --> 00:13:40,900
+verem. Então eu não coloco nada em
+
+314
+00:13:40,900 --> 00:13:43,060
+lyrics. Venho aqui em styles e coloco
+
+315
+00:13:43,060 --> 00:13:43,320
+isso aqui.
+
+316
+00:13:44,956 --> 00:13:48,096
+aqui está em português, o ideal seria em inglês.
+
+317
+00:13:48,256 --> 00:13:54,016
+Posso colocar aqui também, no meu prompt, a vírgula para separar tudo isso.
+
+318
+00:13:54,176 --> 00:13:55,736
+Eu vou colocar aqui pure.
+
+319
+00:13:59,260 --> 00:14:01,280
+Pure Instrumental Trance.
+
+320
+00:14:03,836 --> 00:14:06,296
+Aí eu coloco aqui, Progressive.
+
+321
+00:14:06,736 --> 00:14:08,176
+Aí, beleza. Coloquei aqui.
+
+322
+00:14:08,496 --> 00:14:09,956
+Aí aqui eu tenho Exclude, ó.
+
+323
+00:14:10,116 --> 00:14:13,016
+Vocal, Strap, Dubstep, Pop, Acoustic.
+
+324
+00:14:13,116 --> 00:14:15,516
+Aí eu pego isso aqui e colo aqui, ó.
+
+325
+00:14:16,476 --> 00:14:17,276
+Exclude. Beleza?
+
+326
+00:14:17,596 --> 00:14:20,556
+Aqui eu ainda posso colocar se eu quero voz masculina ou feminina.
+
+327
+00:14:20,636 --> 00:14:25,076
+Se eu quero no modo lírico, né, com voz cantando ou não.
+
+328
+00:14:25,156 --> 00:14:25,976
+Aqui deixa manual.
+
+329
+00:14:26,816 --> 00:14:30,156
+Weirdness é estranheza, se eu quero que ele adicione elementos extras ou não.
+
+330
+00:14:30,156 --> 00:14:33,076
+e influência de um estilo é o quanto que eu quero
+
+331
+00:14:33,076 --> 00:14:35,796
+que ele siga o estilo que eu estou colocando ou não.
+
+332
+00:14:35,896 --> 00:14:38,736
+Ele coloca vermelho porque começa a ficar muito estranho aqui
+
+333
+00:14:38,736 --> 00:14:41,016
+a partir de 80, tá vendo? 86.
+
+334
+00:14:41,736 --> 00:14:44,476
+Então é recomendado não ficar tão acima ali.
+
+335
+00:14:44,716 --> 00:14:46,336
+Aí eu clico aqui em gerar.
+
+336
+00:14:46,676 --> 00:14:49,016
+Aí ele vai gerar para a gente uma música aqui, por exemplo.
+
+337
+00:14:49,236 --> 00:14:51,076
+Isso é um jeito de fazer músicas,
+
+338
+00:14:51,976 --> 00:14:55,196
+de escrever os prompts para esses geradores de música.
+
+339
+00:14:55,756 --> 00:14:58,456
+É diferente de fazer imagem, é diferente de fazer texto.
+
+340
+00:14:58,456 --> 00:15:00,816
+E você precisa entender essa lógica aqui, tá bom?
+
+341
+00:15:00,876 --> 00:15:04,996
+Tem outros exemplos aqui, você pode conferir depois aí no documento,
+
+342
+00:15:04,996 --> 00:15:06,056
+mas fica a referência para você.
+
+343
+00:15:06,876 --> 00:15:10,836
+Dinâmica, orquestração e micro controle acústico de alta fidelidade.
+
+344
+00:15:11,376 --> 00:15:12,616
+Mecâna de articulação.
+
+345
+00:15:12,656 --> 00:15:16,536
+Modelos generativos de última geração não processam termos de técnica musical,
+
+346
+00:15:17,016 --> 00:15:18,836
+apenas como adjetivo estético.
+
+347
+00:15:18,976 --> 00:15:23,756
+Eles os traduzem em modificações matemáticas diretas ou em voltórias.
+
+348
+00:15:23,816 --> 00:15:27,616
+Aí vocês estão vendo esses termos aqui, ADS, R, que eu coloquei lá no glossário,
+
+349
+00:15:27,616 --> 00:15:29,076
+mas é termo novo, vai te assustar um pouco
+
+350
+00:15:29,076 --> 00:15:30,696
+mas não preocupa, de novo
+
+351
+00:15:30,696 --> 00:15:33,476
+é bom você estudar, se quiser aprofundar, mas você pode
+
+352
+00:15:33,476 --> 00:15:35,776
+copiar esse texto aqui, jogar pra IA e pedir pra ela adequar
+
+353
+00:15:35,776 --> 00:15:37,756
+de acordo com isso, pra um chat GPT
+
+354
+00:15:37,756 --> 00:15:39,736
+pra ele te dar um passo a passo pra seguir essa lógica
+
+355
+00:15:39,736 --> 00:15:41,056
+e eles vão seguir, tá?
+
+356
+00:15:41,496 --> 00:15:43,196
+mas aqui você tem o que? ataque
+
+357
+00:15:43,196 --> 00:15:45,256
+decay, sustain, release
+
+358
+00:15:45,256 --> 00:15:47,936
+que são técnicas que você utiliza
+
+359
+00:15:47,936 --> 00:15:48,996
+pra poder
+
+360
+00:15:48,996 --> 00:15:51,576
+é a maneira como você usa o instrumento, basicamente
+
+361
+00:15:52,416 --> 00:15:53,596
+então, se eu tô fazendo
+
+362
+00:15:53,596 --> 00:15:55,516
+eu posso tocar a guitarra, eu posso tocar ela assim
+
+363
+00:15:55,516 --> 00:15:55,916
+por exemplo
+
+364
+00:15:55,916 --> 00:15:56,096
+Exemplo.
+
+365
+00:15:59,420 --> 00:15:59,580
+Tchau!
+
+366
+00:16:01,628 --> 00:16:02,428
+Isso é um tipo de ataque.
+
+367
+00:16:02,668 --> 00:16:03,708
+Ou eu posso...
+
+368
+00:16:07,228 --> 00:16:08,888
+Eu já estou com outro tipo de ataque.
+
+369
+00:16:09,308 --> 00:16:11,848
+E aí ela tem dificuldade para entender isso
+
+370
+00:16:11,848 --> 00:16:15,268
+e é um pouco difícil descrever isso para ela também em palavras.
+
+371
+00:16:15,588 --> 00:16:17,388
+E aí tem técnicas para você descrever.
+
+372
+00:16:17,428 --> 00:16:19,188
+Aqui eu falei do ataque, mas tem o sustain.
+
+373
+00:16:19,408 --> 00:16:19,848
+O que é o sustain?
+
+374
+00:16:20,028 --> 00:16:20,988
+Eu tenho, por exemplo, uma nota.
+
+375
+00:16:21,048 --> 00:16:21,708
+Eu toco com ela assim.
+
+376
+00:16:23,868 --> 00:16:24,688
+Ou eu posso tocar ela assim, ó.
+
+377
+00:16:24,688 --> 00:16:25,788
+TAM!
+
+378
+00:16:30,620 --> 00:16:31,140
+É um sustento maior.
+
+379
+00:16:31,440 --> 00:16:32,240
+Então 1 é seco.
+
+380
+00:16:33,628 --> 00:16:33,888
+Tchau.
+
+381
+00:16:35,932 --> 00:16:40,212
+E é difícil descrever isso para IA nas palavras, mas tem técnica para isso também.
+
+382
+00:16:40,712 --> 00:16:46,332
+Primeira coisa que ele fala aqui, o domínio do vocabulário de articulação é imperativo em composições avançadas.
+
+383
+00:16:46,372 --> 00:16:51,852
+Ou seja, se você quiser realmente ter controle de precisão total, você tem que saber os termos.
+
+384
+00:16:52,252 --> 00:16:53,592
+Isso vai fazer toda a diferença.
+
+385
+00:16:54,152 --> 00:16:58,512
+E aí você vai usar algumas técnicas, tem uma técnica aqui chamada legato, ligado,
+
+386
+00:16:58,612 --> 00:17:04,952
+que garante transições de frequência entre notas para que elas fluam suavemente, sem interrupção de silêncio.
+
+387
+00:17:04,952 --> 00:17:10,212
+E tem aqui também a instrução de staccato, que encurta severamente os tempos de decay e sustain,
+
+388
+00:17:10,332 --> 00:17:13,132
+gerando notas altamente percussivas e curtas.
+
+389
+00:17:13,172 --> 00:17:17,192
+Tem também o pizzaccato, tremolo, glissando.
+
+390
+00:17:18,812 --> 00:17:21,232
+Scoop, Airfall e Mute.
+
+391
+00:17:22,092 --> 00:17:25,472
+Cada um deles vai gerar um tipo de resultado.
+
+392
+00:17:25,972 --> 00:17:29,512
+Se você coloca esses termos no prompt, vai gerar um tipo de resultado diferente
+
+393
+00:17:29,512 --> 00:17:33,512
+para você na maneira como a IA também vai tratar essas notas.
+
+394
+00:17:33,552 --> 00:17:35,032
+Vamos ver nossa musiquinha que gerou aqui?
+
+395
+00:17:57,756 --> 00:17:58,856
+Deixar rodando aí no fundo pra vocês.
+
+396
+00:18:00,348 --> 00:18:02,788
+Agora a gente está com trilha sonora.
+
+397
+00:18:03,468 --> 00:18:06,388
+Se tiver ficado muito alto, me falem aí que eu abaixo aqui.
+
+398
+00:18:06,868 --> 00:18:10,008
+Deixar mais baixinho assim só para ficar ali baixo para a gente.
+
+399
+00:18:11,088 --> 00:18:14,008
+Arquitetura de dinâmica e princípio da curva de energia.
+
+400
+00:18:14,388 --> 00:18:17,148
+Os modelos de difusão de áudio foram intensamente treinados
+
+401
+00:18:17,148 --> 00:18:19,828
+em notações clássicas e modernas de dinâmica de volume,
+
+402
+00:18:20,048 --> 00:18:22,948
+respondendo incrivelmente bem à teoria musical formal.
+
+403
+00:18:23,208 --> 00:18:24,708
+Para orquestrar essa curva de energia,
+
+404
+00:18:24,968 --> 00:18:27,708
+o engenheiro de promptes deve instruir as modulações de ganho,
+
+405
+00:18:27,748 --> 00:18:29,888
+utilizar marcações dinâmicas estáticas tradicional
+
+406
+00:18:29,888 --> 00:18:35,808
+tradicional como pianíssimo ou fortíssimo. E aí isso aqui vai trazer resultados diferentes para
+
+407
+00:18:35,808 --> 00:18:41,448
+você também. Ou vocais sussurrados, tem os termos que você pode utilizar para isso. Aqui também,
+
+408
+00:18:41,568 --> 00:18:45,008
+você pode jogar para a IA na hora que ela for escrever o prompt para ela seguir essa lógica
+
+409
+00:18:45,008 --> 00:18:51,748
+para você, tá? Toda essa documentação aqui, se vocês pegarem esses textos e utilizarem eles para
+
+410
+00:18:52,888 --> 00:18:58,948
+fazer a IA escrever o prompt para vocês, vocês vão ter prompts bizarramente poderosos, tá?
+
+411
+00:18:58,948 --> 00:19:02,468
+principalmente quem é iniciante, não sabe usar os termos certos nas horas certas,
+
+412
+00:19:02,468 --> 00:19:05,668
+você pode pedir a IA para fazer isso para você e vai funcionar,
+
+413
+00:19:05,668 --> 00:19:08,908
+usando um GPT, um GMI, um Cloud, vai ser bem interessante.
+
+414
+00:19:09,208 --> 00:19:12,808
+Se você utiliza Cloud Code aí, você pode baixar esse relatório inteiro,
+
+415
+00:19:13,048 --> 00:19:16,328
+jogar dentro da sua pasta, conectar o Cloud Code no Ableton, por exemplo,
+
+416
+00:19:16,468 --> 00:19:20,308
+e falar, você vai compor usando essas instruções.
+
+417
+00:19:20,468 --> 00:19:21,828
+Coloca a instrução para ele e você vai falar,
+
+418
+00:19:21,888 --> 00:19:24,608
+eu vou te falar em linguagem humana, você traduz para a máquina,
+
+419
+00:19:24,728 --> 00:19:27,748
+e a própria máquina traduz para a máquina enquanto você está ali falando para ele
+
+420
+00:19:27,748 --> 00:19:31,608
+que você não gostou, porque você achou que não ficou triste o suficiente,
+
+421
+00:19:31,768 --> 00:19:35,748
+porque você achou que tem que deixar o som mais prolongado.
+
+422
+00:19:35,808 --> 00:19:39,628
+Você está usando linguagem normal, mas a IA está te entregando um prompt profissional.
+
+423
+00:19:43,260 --> 00:19:44,500
+Aqui a gente tem mais referência, olha.
+
+424
+00:19:44,980 --> 00:19:46,720
+Pra troar na transição de energia,
+
+425
+00:19:47,640 --> 00:19:49,620
+a energia ela tá na música também, tá?
+
+426
+00:19:49,680 --> 00:19:52,620
+Tudo isso que eu tô mostrando pra vocês são vocabulários
+
+427
+00:19:52,620 --> 00:19:55,160
+pra ajudar você a descrever como que a música vai decorrendo.
+
+428
+00:19:55,960 --> 00:19:59,900
+Então, o vocábulo crescendo, ou gradually getting louder,
+
+429
+00:20:00,020 --> 00:20:02,400
+que é a escada gradual, né?
+
+430
+00:20:04,284 --> 00:20:05,024
+escalada gradual,
+
+431
+00:20:06,344 --> 00:20:06,704
+decrescendo,
+
+432
+00:20:07,424 --> 00:20:09,464
+o crescendo atua como automação de volume
+
+433
+00:20:09,464 --> 00:20:11,984
+algorítmica ascendente, então o som vai subindo aos poucos,
+
+434
+00:20:12,004 --> 00:20:13,644
+quer fazer aquele fade-in de som.
+
+435
+00:20:14,324 --> 00:20:15,804
+O decrescendo adiciona um esvaziamento
+
+436
+00:20:15,804 --> 00:20:17,784
+de mixagem e retorna ao silêncio, então a música vai
+
+437
+00:20:17,784 --> 00:20:19,204
+esvaziando até ficar silenciosa.
+
+438
+00:20:20,004 --> 00:20:21,504
+Aí tem esse aqui, esforçando.
+
+439
+00:20:22,940 --> 00:20:24,800
+que aplica um transiente
+
+440
+00:20:24,800 --> 00:20:26,820
+de ataque fortíssimo instantâneo em uma batida
+
+441
+00:20:26,820 --> 00:20:28,900
+específica. Deixa eu falar uma coisa pra vocês, porque é bem
+
+442
+00:20:28,900 --> 00:20:30,900
+técnico, né? Eu não decoro essas coisas
+
+443
+00:20:30,900 --> 00:20:32,380
+todas, mas eu sei onde buscar, entendeu?
+
+444
+00:20:32,740 --> 00:20:34,780
+Aí eu tô precisando de alguma coisa, eu tenho esses
+
+445
+00:20:35,120 --> 00:20:36,880
+documentos. Isso é ser nexialista,
+
+446
+00:20:36,880 --> 00:20:38,760
+que eu falo pra vocês. Eu não preciso ser especialista.
+
+447
+00:20:38,840 --> 00:20:40,620
+Eu preciso ser um cara que sabe encontrar informação
+
+448
+00:20:40,620 --> 00:20:42,940
+e chegar no resultado. Então, eu cheguei
+
+449
+00:20:42,940 --> 00:20:44,660
+nessa informação aqui. Tô passando ela pra vocês.
+
+450
+00:20:44,720 --> 00:20:46,920
+Vocês podem usar ela também. É assim que a gente vai
+
+451
+00:20:46,920 --> 00:20:48,860
+construindo. Engenharia de extensões
+
+452
+00:20:48,860 --> 00:20:50,860
+pra variação de intensidade. O fluxo de
+
+453
+00:20:50,860 --> 00:20:52,780
+trabalho profissional consiste em gerar uma
+
+454
+00:20:52,780 --> 00:20:54,700
+uma faixa inicial, por exemplo, a introdução, sobre uma
+
+455
+00:20:54,700 --> 00:20:56,900
+instrução com andamento lento
+
+456
+00:20:56,900 --> 00:20:58,480
+e instrução etérea.
+
+457
+00:20:58,560 --> 00:20:59,620
+Está dando um exemplo aqui.
+
+458
+00:21:00,220 --> 00:21:02,720
+Após a validação desse segmento, o criador ativa a função
+
+459
+00:21:02,720 --> 00:21:04,240
+de extensão no último compasso.
+
+460
+00:21:04,340 --> 00:21:06,140
+Você tem os botões lá para expandir.
+
+461
+00:21:06,200 --> 00:21:08,720
+Você consegue fazer isso. E altera
+
+462
+00:21:08,720 --> 00:21:10,700
+drasticamente o estilo do prompt subsequente,
+
+463
+00:21:10,700 --> 00:21:12,500
+adicionando comandos rítmicos como building,
+
+464
+00:21:12,780 --> 00:21:14,500
+adding percussion e
+
+465
+00:21:14,500 --> 00:21:16,580
+inserindo tags de intensidade
+
+466
+00:21:16,580 --> 00:21:18,740
+gradual. A extensão subsequente engloba
+
+467
+00:21:18,740 --> 00:21:20,660
+o refrão, recebe um prompt
+
+468
+00:21:20,660 --> 00:21:22,260
+inteiramente modificado para fast
+
+469
+00:21:22,260 --> 00:21:23,980
+tempo. Tempo rápido,
+
+470
+00:21:24,080 --> 00:21:25,400
+loud, powerful, full orchestra.
+
+471
+00:21:25,820 --> 00:21:28,120
+E forçando uma mudança sistêmica na pressão
+
+472
+00:21:28,120 --> 00:21:29,960
+sonora, que não seria possível de alcançar
+
+473
+00:21:30,540 --> 00:21:31,980
+de forma previsível
+
+474
+00:21:31,980 --> 00:21:33,880
+em uma única passagem de geração inicial.
+
+475
+00:21:34,220 --> 00:21:36,360
+O uso de extensões permite um refinamento
+
+476
+00:21:36,360 --> 00:21:37,320
+cirúrgico de arranjos.
+
+477
+00:21:37,500 --> 00:21:39,860
+O que ele está trazendo aqui também é que
+
+478
+00:21:39,860 --> 00:21:42,180
+algumas pessoas, tudo isso aqui são técnicas que as pessoas
+
+479
+00:21:42,180 --> 00:21:44,200
+utilizam. Utilizam
+
+480
+00:21:44,200 --> 00:21:46,040
+essa técnica aqui de extensão,
+
+481
+00:21:46,040 --> 00:21:48,060
+extend, crop, extend. Isso aqui vocês vão ver
+
+482
+00:21:48,060 --> 00:21:49,900
+aqui no, principalmente no
+
+483
+00:21:49,900 --> 00:21:52,080
+estúdio. Estou deixando a música rolar aí,
+
+484
+00:21:52,080 --> 00:21:55,600
+Você pode pegar uma faixa específica e expandir ela
+
+485
+00:21:55,600 --> 00:21:58,020
+para você ter mais variações dela e ir fazendo ajustes.
+
+486
+00:21:58,040 --> 00:21:59,540
+É uma técnica muito utilizada.
+
+487
+00:21:59,600 --> 00:22:01,760
+Ele está só explicando os botões aqui para a gente.
+
+488
+00:22:02,760 --> 00:22:06,220
+Enfim, eu acho que eu posso pular para alguns pontos importantes.
+
+489
+00:22:06,380 --> 00:22:07,540
+Esse é importante, eu já ia pular.
+
+490
+00:22:08,020 --> 00:22:11,240
+E deixar esses pontos de botões para vocês testarem na ferramenta
+
+491
+00:22:11,240 --> 00:22:13,920
+e lerem a documentação, igual eu li e recomendo para vocês.
+
+492
+00:22:14,220 --> 00:22:15,680
+Mas aqui é alguma coisa interessante.
+
+493
+00:22:15,940 --> 00:22:17,840
+Que é a estrutura principalmente de letra,
+
+494
+00:22:17,860 --> 00:22:19,060
+quando você vai escrever alguma letra,
+
+495
+00:22:19,100 --> 00:22:21,560
+que são controles narrativos.
+
+496
+00:22:21,560 --> 00:22:24,820
+Primeiro, marcador estrutural e arquitetura de sessão.
+
+497
+00:22:25,740 --> 00:22:26,680
+Intro e outro.
+
+498
+00:22:26,860 --> 00:22:29,400
+Eu vou tirar a música que está me distraindo, não sei se está distraindo vocês.
+
+499
+00:22:31,292 --> 00:22:31,672
+Tchau para ela.
+
+500
+00:22:35,388 --> 00:22:38,348
+Então, intro é a primeira parte da música.
+
+501
+00:22:38,828 --> 00:22:41,268
+Outro é a última parte da música.
+
+502
+00:22:42,268 --> 00:22:42,628
+Beleza?
+
+503
+00:22:42,688 --> 00:22:43,628
+Então, são comandos primários.
+
+504
+00:22:43,628 --> 00:22:45,348
+Você, inclusive, escreve a música com isso.
+
+505
+00:22:45,408 --> 00:22:48,148
+Olha, eu vou dar um exemplo pra vocês como que eu escrevo as músicas.
+
+506
+00:22:49,028 --> 00:22:49,948
+Então, tem essa aqui, ó.
+
+507
+00:22:49,948 --> 00:22:52,248
+Futuro é agora, que eu escrevi e mostrei pra você no início do curso.
+
+508
+00:22:52,548 --> 00:22:55,328
+Eu tenho o estilo primeiro, eu gosto de escrever o estilo todo aqui.
+
+509
+00:22:55,948 --> 00:22:57,648
+E embaixo eu tenho ali, ó, verso 1.
+
+510
+00:22:57,808 --> 00:22:59,048
+Eu nem coloquei intro, né?
+
+511
+00:22:59,088 --> 00:23:00,128
+Mas isso aqui seria a intro.
+
+512
+00:23:00,588 --> 00:23:01,888
+E aqui a gente tem o verso 1.
+
+513
+00:23:02,368 --> 00:23:04,528
+então eu tenho verso 1, refrão
+
+514
+00:23:04,528 --> 00:23:06,428
+verso 2, refrão
+
+515
+00:23:06,428 --> 00:23:08,088
+ponte e o final
+
+516
+00:23:08,088 --> 00:23:10,288
+que o termo certo que depois
+
+517
+00:23:10,288 --> 00:23:11,568
+eu gosto de atualizar é outro
+
+518
+00:23:11,568 --> 00:23:13,828
+beleza? tem os versos
+
+519
+00:23:13,828 --> 00:23:15,948
+que são marcações para desenvolvimento da narrativa
+
+520
+00:23:16,588 --> 00:23:18,208
+pré-coro, pré-coros
+
+521
+00:23:18,208 --> 00:23:20,008
+choros, que é o pré-refrão
+
+522
+00:23:20,008 --> 00:23:21,948
+se tiver, nem toda música precisa ter
+
+523
+00:23:21,948 --> 00:23:22,708
+mas você pode colocar
+
+524
+00:23:23,568 --> 00:23:24,748
+refrão e hook
+
+525
+00:23:25,488 --> 00:23:27,808
+que é onde está o clímax principal e o gancho
+
+526
+00:23:27,808 --> 00:23:29,828
+para voltar para a segunda parte, aí vem verso de novo
+
+527
+00:23:29,828 --> 00:23:35,248
+Depois de verso pode ter pré-refrão, refrão de novo, hook, ponte, verso final e alto truco.
+
+528
+00:23:35,528 --> 00:23:35,968
+Beleza?
+
+529
+00:23:36,588 --> 00:23:39,908
+E tem esse OU, que é o ponto de contraste essencial.
+
+530
+00:23:40,608 --> 00:23:44,148
+A ponte força o algoritmo a desviar matematicamente da progressão de acordes.
+
+531
+00:23:44,188 --> 00:23:48,488
+Isso é muito legal também, porque você pode usar isso até na parte de instrumental.
+
+532
+00:23:49,268 --> 00:23:53,348
+Então você pode começar descrevendo ali os timbres que você vai utilizar,
+
+533
+00:23:53,348 --> 00:23:57,268
+a melodia que você vai utilizar na introdução,
+
+534
+00:23:57,428 --> 00:24:00,688
+depois desenvolvendo no verso, depois no pré-refrão, no refrão,
+
+535
+00:24:00,688 --> 00:24:02,228
+do mesmo jeito, mesmo que não tenha letra.
+
+536
+00:24:04,028 --> 00:24:05,608
+Essa é a interação. Interessante.
+
+537
+00:24:05,908 --> 00:24:07,988
+Direção vocal, harmonização e controle lexical.
+
+538
+00:24:08,728 --> 00:24:09,948
+Parênteses pra adlibs,
+
+539
+00:24:09,948 --> 00:24:11,148
+respostas e backing vocals.
+
+540
+00:24:11,588 --> 00:24:13,948
+Aí são algumas diretrizes que você pode adicionar
+
+541
+00:24:13,948 --> 00:24:15,548
+aqui pra fazer ajustes
+
+542
+00:24:15,988 --> 00:24:17,968
+vocais. Modificadores locais de entrega,
+
+543
+00:24:17,968 --> 00:24:19,668
+performance de cues. Se quer mais
+
+544
+00:24:20,408 --> 00:24:21,488
+avançado, vai mais assustar
+
+545
+00:24:21,488 --> 00:24:23,068
+iniciantes, mas tá aqui também.
+
+546
+00:24:23,548 --> 00:24:25,768
+Quando vocês começarem a ter esse tipo de problema com
+
+547
+00:24:25,768 --> 00:24:27,468
+voz, vocês vão voltar aqui. Mas, por exemplo,
+
+548
+00:24:27,508 --> 00:24:29,228
+diretrizes precisas como o whispered,
+
+549
+00:24:29,288 --> 00:24:31,228
+sussurrando, ou airy, que é suave,
+
+550
+00:24:31,288 --> 00:24:33,288
+ou belted, que é voz de peito,
+
+551
+00:24:33,288 --> 00:24:35,088
+Husky, que é voz rouca.
+
+552
+00:24:35,268 --> 00:24:39,248
+Tudo isso ajuda a guiar a voz para você também.
+
+553
+00:24:39,948 --> 00:24:41,028
+Hacks de pronúncia.
+
+554
+00:24:41,028 --> 00:24:42,228
+Esse aqui eu uso muito também.
+
+555
+00:24:42,508 --> 00:24:44,888
+Eu usei, por exemplo, na palavra paradoxal.
+
+556
+00:24:45,248 --> 00:24:46,648
+Estava dando problema essa palavra.
+
+557
+00:24:46,808 --> 00:24:47,908
+Estava lendo paradoxal.
+
+558
+00:24:49,168 --> 00:24:50,388
+Como é que ela falava?
+
+559
+00:24:50,708 --> 00:24:51,148
+Paradoxal.
+
+560
+00:24:52,668 --> 00:24:53,108
+Paradoxial.
+
+561
+00:24:53,508 --> 00:24:56,068
+Ela não pronunciava bem no modelo que eu estava usando.
+
+562
+00:24:56,468 --> 00:24:57,708
+Aí eu coloquei, ao invés de...
+
+563
+00:24:58,208 --> 00:25:00,508
+Você escreve errado, mas pensando como que a Yá vai ler.
+
+564
+00:25:00,628 --> 00:25:02,188
+Vou escrever aqui grande para vocês verem.
+
+565
+00:25:02,188 --> 00:25:03,548
+Vou colocar aqui 40.
+
+566
+00:25:04,388 --> 00:25:06,468
+Então, 40 foi 400? Não, 40.
+
+567
+00:25:07,268 --> 00:25:09,408
+Então, ao invés de eu escrever paradoxal,
+
+568
+00:25:09,408 --> 00:25:11,168
+eu escrevi paradoxal.
+
+569
+00:25:12,764 --> 00:25:13,504
+Ela leu certinho.
+
+570
+00:25:13,624 --> 00:25:15,004
+Então são hacks de pronúncia.
+
+571
+00:25:15,084 --> 00:25:17,084
+Aqui ele está dando alguns exemplos em inglês para a gente.
+
+572
+00:25:17,164 --> 00:25:18,384
+Por exemplo, unbelievable.
+
+573
+00:25:19,144 --> 00:25:20,444
+Aqui é unbelievable.
+
+574
+00:25:21,104 --> 00:25:22,484
+Manipula o tempo de métrica.
+
+575
+00:25:22,804 --> 00:25:24,824
+Aí ele está falando aqui para adição.
+
+576
+00:25:25,764 --> 00:25:27,224
+Se você coloca aqui,
+
+577
+00:25:27,244 --> 00:25:30,524
+devido às idiosincrasias dos sintetizadores de fala,
+
+578
+00:25:30,644 --> 00:25:33,304
+palavras complexas podem sofrer artefatos de dicção.
+
+579
+00:25:33,704 --> 00:25:35,204
+A engenharia de promptes avançada
+
+580
+00:25:35,204 --> 00:25:37,584
+exige que o criador assuma a função de foneticista.
+
+581
+00:25:37,904 --> 00:25:39,844
+A quebra de palavras longas com hífenes.
+
+582
+00:25:39,844 --> 00:25:42,324
+Ah, isso é uma técnica também que funciona muito bem.
+
+583
+00:25:42,764 --> 00:25:44,364
+Às vezes a palavra não está funcionando,
+
+584
+00:25:44,364 --> 00:25:46,084
+gera de novo, separando as sílabas.
+
+585
+00:25:46,204 --> 00:25:48,804
+Ela vai lendo, progredindo as sílabas também.
+
+586
+00:25:49,304 --> 00:25:49,724
+Unbelievable.
+
+587
+00:25:50,864 --> 00:25:51,864
+Ela vai ler para você.
+
+588
+00:25:52,564 --> 00:25:53,924
+Então, isso é outra técnica.
+
+589
+00:25:54,024 --> 00:25:56,724
+Às vezes, colocar letras diferentes, escrever diferente,
+
+590
+00:25:56,784 --> 00:25:59,064
+isso tudo são hackezinhos de pronúncia que funcionam bem.
+
+591
+00:25:59,304 --> 00:25:59,724
+Beleza?
+
+592
+00:26:00,956 --> 00:26:02,116
+Vocês estão vendo que o documento é longo, né?
+
+593
+00:26:03,452 --> 00:26:07,532
+Meta tags eu não vou falar aqui agora, mas basicamente é você colocar...
+
+594
+00:26:09,564 --> 00:26:13,304
+Unidades de medida, como BPM, KHz também, dá pra colocar aqui.
+
+595
+00:26:13,544 --> 00:26:17,564
+E ela vai usar isso dentro do áudio pra você também.
+
+596
+00:26:17,604 --> 00:26:20,024
+Ela meio que simula essas características, né?
+
+597
+00:26:20,704 --> 00:26:23,084
+24 bits de resolução e por aí vai.
+
+598
+00:26:23,144 --> 00:26:24,004
+Dolby Atmos Mix.
+
+599
+00:26:24,964 --> 00:26:26,704
+Fronteira da programação paramétrica.
+
+600
+00:26:26,744 --> 00:26:29,724
+Isso aqui eu também não vou trazer agora, mas vou deixar pra quem vai utilizar
+
+601
+00:26:29,724 --> 00:26:34,304
+no modo mais avançado, usar JSON também, vai usar MCP, fica aqui,
+
+602
+00:26:34,364 --> 00:26:35,924
+mas não é o objetivo aqui da trilha agora.
+
+603
+00:26:36,224 --> 00:26:38,084
+Então, tá aqui o material.
+
+604
+00:26:38,084 --> 00:26:41,004
+eu já estou explorando algumas coisas para me divertir
+
+605
+00:26:41,584 --> 00:26:42,564
+conectando o MCP
+
+606
+00:26:42,564 --> 00:26:44,244
+no Ableton, mas
+
+607
+00:26:44,244 --> 00:26:46,064
+é mais avançado, eu não vou entrar agora
+
+608
+00:26:46,064 --> 00:26:48,744
+aqui embaixo também você tem estudos
+
+609
+00:26:48,744 --> 00:26:51,004
+de casos, se você quiser estudar o documento
+
+610
+00:26:51,004 --> 00:26:52,124
+então tem aqui por exemplo
+
+611
+00:26:53,464 --> 00:26:54,504
+Afrofuturistic, Synthwave
+
+612
+00:26:54,504 --> 00:26:56,484
+Retrofuturismo Eletrônico, aí tem aqui
+
+613
+00:26:57,704 --> 00:26:58,684
+Retrofuturismo Afro
+
+614
+00:26:58,684 --> 00:27:00,044
+que não ficou escrito aqui
+
+615
+00:27:00,044 --> 00:27:02,304
+e aí tem aqui a arquitetura do prompt
+
+616
+00:27:02,304 --> 00:27:04,344
+todo o estilo do prompt escrito
+
+617
+00:27:04,344 --> 00:27:06,684
+tem o controle rigoroso aqui de text
+
+618
+00:27:06,684 --> 00:27:08,064
+também, tá vendo? Olha o que vai excluir.
+
+619
+00:27:08,424 --> 00:27:10,444
+Controle narrativo de atmosfera
+
+620
+00:27:10,444 --> 00:27:12,184
+toda aqui também. Tá vendo esses
+
+621
+00:27:13,184 --> 00:27:14,264
+colchetes? Tudo isso aqui
+
+622
+00:27:14,264 --> 00:27:16,724
+ajuda na hora de escrever a música e ter mais controle
+
+623
+00:27:16,724 --> 00:27:18,944
+sobre ela. Análise do impacto acústico
+
+624
+00:27:18,944 --> 00:27:20,004
+e resposta do modelo.
+
+625
+00:27:20,604 --> 00:27:22,764
+Aí ele tá trazendo aqui também no estudo
+
+626
+00:27:22,764 --> 00:27:25,004
+de caso, que eu vou deixar pra quem quiser ler e se aprofundar
+
+627
+00:27:25,004 --> 00:27:26,804
+mais, o que deu certo
+
+628
+00:27:26,804 --> 00:27:28,704
+e o que deu errado. Esse aqui é um outro estudo de caso
+
+629
+00:27:28,704 --> 00:27:30,904
+de Cinematic Noir Jazz.
+
+630
+00:27:31,564 --> 00:27:32,764
+Aí tem a arquitetura toda
+
+631
+00:27:32,764 --> 00:27:34,524
+aqui, o que deu certo, qual foi o impacto,
+
+632
+00:27:34,524 --> 00:27:36,624
+do que que funcionou. E outro estudo de caso
+
+633
+00:27:36,624 --> 00:27:38,224
+aqui, Symphonic Progressive Metal.
+
+634
+00:27:38,644 --> 00:27:40,544
+Também tem aqui o prompt exato. Você pode
+
+635
+00:27:40,544 --> 00:27:42,464
+inclusive copiar esse prompt e usar pra ver o resultado
+
+636
+00:27:42,464 --> 00:27:44,324
+pra você aí. Tem toda a
+
+637
+00:27:44,324 --> 00:27:46,704
+análise aqui. No final, comparativo
+
+638
+00:27:46,704 --> 00:27:48,644
+analítico integrado, que também
+
+639
+00:27:48,644 --> 00:27:50,604
+é um pouco mais avançado, eu não vou entrar nisso aqui agora,
+
+640
+00:27:50,764 --> 00:27:52,464
+mas é um geral de tudo que a gente
+
+641
+00:27:52,464 --> 00:27:54,404
+falou. E a conclusão, beleza?
+
+642
+00:27:54,464 --> 00:27:55,524
+Com todas as fontes aqui.
+
+643
+00:27:56,104 --> 00:27:58,464
+Eu sempre gosto de ir no nível profundo pra
+
+644
+00:27:58,464 --> 00:28:00,384
+dar mais caminho pra quem gosta de aprofundar.
+
+645
+00:28:00,504 --> 00:28:02,284
+Mas é importante eu falar pra você
+
+646
+00:28:03,904 --> 00:28:07,904
+que você não precisa estudar todo esse documento aqui
+
+647
+00:28:07,904 --> 00:28:09,624
+para gerar as músicas com o IA.
+
+648
+00:28:09,744 --> 00:28:12,444
+E agora, para a gente fechar esse arco aqui,
+
+649
+00:28:12,604 --> 00:28:14,544
+eu vou mostrar para vocês um jeito simples
+
+650
+00:28:14,544 --> 00:28:15,984
+de começar a criar as suas músicas
+
+651
+00:28:15,984 --> 00:28:18,004
+usando algumas dessas técnicas aqui
+
+652
+00:28:18,004 --> 00:28:20,624
+para ter um controle maior do que você está criando.
+
+653
+00:28:20,964 --> 00:28:22,284
+Você que vai trabalhar, por exemplo,
+
+654
+00:28:22,284 --> 00:28:23,824
+com o universo sonoro de uma marca
+
+655
+00:28:23,824 --> 00:28:26,144
+vai gostar muito de tudo isso que eu passei para você
+
+656
+00:28:26,144 --> 00:28:28,264
+porque, por exemplo, às vezes você quer fazer um Sonic logo,
+
+657
+00:28:28,484 --> 00:28:30,904
+igual a gente tem o da Overlens, que é o pam, pam, pam,
+
+658
+00:28:30,904 --> 00:28:33,544
+você pode utilizar tudo isso que você aprendeu aqui
+
+659
+00:28:33,544 --> 00:28:35,884
+pra fazer esse Sonic logo, quer trabalhar um leitmotiv
+
+660
+00:28:35,884 --> 00:28:37,544
+pra criar sua própria trilha sonora
+
+661
+00:28:37,544 --> 00:28:39,864
+repetir ela, identidade é repetição
+
+662
+00:28:39,864 --> 00:28:41,364
+quanto mais você repete uma coisa
+
+663
+00:28:41,364 --> 00:28:43,604
+mais fica na cabeça das pessoas, então você
+
+664
+00:28:43,604 --> 00:28:45,584
+começa a fazer arranjos diferentes, com timbres
+
+665
+00:28:45,584 --> 00:28:47,184
+diferentes, mas usando o mesmo motivo
+
+666
+00:28:47,644 --> 00:28:49,824
+condutor, isso vai ficando na cabeça das pessoas
+
+667
+00:28:49,824 --> 00:28:51,744
+na lógica dos Vingadores, na lógica
+
+668
+00:28:51,744 --> 00:28:52,524
+dos Senhor dos Anéis
+
+669
+00:28:54,404 --> 00:28:55,664
+eu ia falar aqui
+
+670
+00:28:55,664 --> 00:28:57,464
+do Parque dos Dinossauros lá, Jurassic Park
+
+671
+00:28:57,464 --> 00:28:59,864
+por aí vai, dei pra vocês ali o Goranson
+
+672
+00:28:59,864 --> 00:29:02,684
+são o Zimmer e o John Williams,
+
+673
+00:29:03,384 --> 00:29:04,604
+estuda um pouco esses caras
+
+674
+00:29:04,604 --> 00:29:05,744
+e usa essas técnicas aqui.
+
+675
+00:29:05,804 --> 00:29:07,124
+Você que quer construir,
+
+676
+00:29:07,264 --> 00:29:08,484
+fazer o world building,
+
+677
+00:29:08,664 --> 00:29:09,824
+você que quer trabalhar com
+
+678
+00:29:09,824 --> 00:29:11,804
+o universo de marca,
+
+679
+00:29:11,984 --> 00:29:12,704
+então o universo verbal,
+
+680
+00:29:12,884 --> 00:29:13,384
+o universo visual,
+
+681
+00:29:13,424 --> 00:29:15,424
+mas também o universo sonoro,
+
+682
+00:29:15,504 --> 00:29:16,984
+tudo isso que eu estou te mostrando aqui agora
+
+683
+00:29:16,984 --> 00:29:19,504
+é uma ferramenta incrível e poderosa
+
+684
+00:29:19,504 --> 00:29:20,144
+que está na sua mão
+
+685
+00:29:20,144 --> 00:29:21,484
+para você utilizar e ter muito resultado.
+

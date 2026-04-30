@@ -1,0 +1,1508 @@
+1
+00:00:00,000 --> 00:00:03,540
+Como funciona, então, geração de vídeos com o IA?
+
+2
+00:00:04,080 --> 00:00:10,600
+Olha aí, ilustrado aí, como a IA gerou esse vídeo pra gente aqui pra ilustrar essa página.
+
+3
+00:00:10,940 --> 00:00:12,560
+Mas vamos falar um pouquinho sobre isso.
+
+4
+00:00:12,660 --> 00:00:16,400
+A gente já teve algumas trilhas aqui que eu falei sobre LLMs, como ela funciona.
+
+5
+00:00:16,660 --> 00:00:22,060
+Se você não viu ainda, recomendo, porque aí você vai entender sobre como que a IA é treinada.
+
+6
+00:00:22,360 --> 00:00:27,600
+E isso, por mais que tenham diferenças no treinamento, o fundamento é muito semelhante.
+
+7
+00:00:27,600 --> 00:00:30,260
+seja para imagem, para vídeo, para música, para texto.
+
+8
+00:00:30,620 --> 00:00:32,580
+Então, vem aqui dentro da nossa plataforma
+
+9
+00:00:33,160 --> 00:00:37,380
+e acessa a trilha LLMs ou a trilha AI First.
+
+10
+00:00:37,600 --> 00:00:42,380
+Pode vir aqui em trilhas, vem aqui na LLMs ou AI First.
+
+11
+00:00:42,580 --> 00:00:45,220
+E aí você vai aprender um pouco mais sobre como as IAs funcionam,
+
+12
+00:00:45,240 --> 00:00:46,280
+eu já falei um pouco sobre isso.
+
+13
+00:00:46,660 --> 00:00:49,200
+Na de imagem, eu já expliquei para vocês também
+
+14
+00:00:49,200 --> 00:00:51,160
+como que funcionam os modelos de difusão.
+
+15
+00:00:51,200 --> 00:00:54,920
+Então, se eu coloco aqui, Diffusion Models, Diagram,
+
+16
+00:00:55,480 --> 00:00:58,680
+ele vai mostrar pra gente aqui como que funcionam os modelos de
+
+17
+00:00:59,380 --> 00:01:02,020
+difusão de imagem, expliquei isso na trilha de imagem
+
+18
+00:01:02,020 --> 00:01:05,400
+a Spectrum, você pode assistir lá pra entender um pouquinho melhor
+
+19
+00:01:05,400 --> 00:01:08,760
+e com o vídeo é uma evolução
+
+20
+00:01:08,760 --> 00:01:11,820
+da imagem, se você leva em consideração como um fundamento
+
+21
+00:01:11,820 --> 00:01:14,640
+do vídeo, que o vídeo ele é uma sequência
+
+22
+00:01:14,640 --> 00:01:17,220
+de frames e que cada frame é uma imagem
+
+23
+00:01:17,220 --> 00:01:19,560
+então o que você pode entender é que
+
+24
+00:01:19,560 --> 00:01:23,580
+o gerador de vídeo é um gerador de imagem turbinado
+
+25
+00:01:23,580 --> 00:01:25,980
+É isso. Sim, mas em partes.
+
+26
+00:01:26,260 --> 00:01:30,080
+Porque a IA de vídeo é otimizada para vídeo.
+
+27
+00:01:30,460 --> 00:01:33,920
+Então ela aprende que nem todo frame precisa estar perfeito.
+
+28
+00:01:33,980 --> 00:01:35,320
+E ela faz interpolação.
+
+29
+00:01:35,400 --> 00:01:36,560
+O que é interpolação?
+
+30
+00:01:36,600 --> 00:01:41,640
+Ela combina frames entre si para compactar aquilo num vídeo para você.
+
+31
+00:01:41,820 --> 00:01:45,440
+Então se eu colocar aqui, Interpolation Video.
+
+32
+00:01:47,132 --> 00:01:50,232
+Olha só que interessante, vamos pegar uma imagem aqui só para você visualizar,
+
+33
+00:01:50,252 --> 00:01:53,232
+eu não vou entrar nos conceitos mais avançados aqui não,
+
+34
+00:01:53,312 --> 00:01:57,112
+mas eu quero que você observe que quando você tem um vídeo,
+
+35
+00:01:57,192 --> 00:01:59,652
+esse vídeo é feito de frames, então se eu colocar aqui,
+
+36
+00:02:00,332 --> 00:02:01,132
+vídeo frame.
+
+37
+00:02:04,060 --> 00:02:06,840
+Ou então eu posso colocar vídeo keyframe.
+
+38
+00:02:07,060 --> 00:02:08,940
+Quem trabalha com vídeo já sabe disso.
+
+39
+00:02:09,440 --> 00:02:12,580
+É um conceito do frame-chave,
+
+40
+00:02:12,600 --> 00:02:17,620
+que você vai ajustando milissegundos do seu vídeo ou do seu motion.
+
+41
+00:02:17,740 --> 00:02:19,620
+E cada milissegundo é um quadro.
+
+42
+00:02:20,860 --> 00:02:23,120
+E aí, dependendo do tipo de vídeo que você tem,
+
+43
+00:02:23,160 --> 00:02:27,380
+você pode ter um vídeo que é 24 fps, que é 24 frames por segundo.
+
+44
+00:02:27,600 --> 00:02:30,760
+Você pode ter um vídeo que é 16 fps, 16 frames por segundo.
+
+45
+00:02:31,060 --> 00:02:36,960
+Pode ter um vídeo que tem 60 fps ou 180 fps, que é mais para câmera lenta.
+
+46
+00:02:37,280 --> 00:02:40,360
+Os fps são os frames por segundo de vídeo.
+
+47
+00:02:40,460 --> 00:02:43,120
+Então, o tanto de frame que cabe em um único segundo.
+
+48
+00:02:43,440 --> 00:02:48,040
+Quanto mais frames você coloca ali, mais você tem ou um slow,
+
+49
+00:02:48,040 --> 00:02:51,340
+um super slow de câmera lenta,
+
+50
+00:02:51,380 --> 00:02:53,680
+ou você tem um vídeo muito fluido,
+
+51
+00:02:53,680 --> 00:02:56,680
+como um 60 fps ou um 30 fps, que é muito bom também.
+
+52
+00:02:57,980 --> 00:03:02,200
+Aí tem o 29 fps, tem o Golf 16 fps, tem vários estilos.
+
+53
+00:03:02,200 --> 00:03:06,000
+Cada um vai criar uma estética diferente no vídeo, tá?
+
+54
+00:03:06,240 --> 00:03:10,240
+Mas cada frame desses tem uma imagem quando você vai fazer um vídeo.
+
+55
+00:03:10,380 --> 00:03:12,220
+Essa é a lógica de construção de um vídeo.
+
+56
+00:03:12,500 --> 00:03:15,320
+Quando você vai estudar sobre princípios da animação também,
+
+57
+00:03:15,400 --> 00:03:20,040
+Animation Principles, tem até um livro bem legal do Walt Disney
+
+58
+00:03:20,040 --> 00:03:21,360
+que mostra isso, né?
+
+59
+00:03:21,360 --> 00:03:22,800
+Que eu tenho vários keyframes, tá vendo?
+
+60
+00:03:22,940 --> 00:03:26,660
+Eu vou movimentando isso aqui, cada keyframe é um quadro.
+
+61
+00:03:26,660 --> 00:03:29,520
+Mas isso funciona com imagem também.
+
+62
+00:03:29,900 --> 00:03:33,180
+Então, quando eu penso em um vídeo, o vídeo é um conjunto de várias imagens.
+
+63
+00:03:33,220 --> 00:03:37,940
+Porém, os modelos de interpolação e de difusão para vídeo,
+
+64
+00:03:38,160 --> 00:03:41,980
+eles são otimizados para te entregar um vídeo e não uma imagem.
+
+65
+00:03:42,520 --> 00:03:45,120
+Então, vocês vão ver que o vídeo, ele meio que vai...
+
+66
+00:03:45,860 --> 00:03:50,600
+partes do vídeo vão se movendo, enquanto outras partes não se movem.
+
+67
+00:03:50,680 --> 00:03:53,800
+Então, aí a interpreta aquela imagem, entende,
+
+68
+00:03:53,800 --> 00:03:56,400
+eu vou mexer esse personagem, eu vou movimentar a câmera,
+
+69
+00:03:56,660 --> 00:03:58,020
+O que eu estou movimentando aqui?
+
+70
+00:03:58,100 --> 00:04:03,000
+Cada conceito desse ativa um tipo de comportamento
+
+71
+00:04:03,000 --> 00:04:05,020
+da IA de geração de vídeo.
+
+72
+00:04:05,280 --> 00:04:09,040
+Então, seria errado eu dizer que a IA que gera vídeo
+
+73
+00:04:09,040 --> 00:04:11,700
+nada mais é do que uma IA que gera muitas imagens.
+
+74
+00:04:11,740 --> 00:04:12,080
+Não é.
+
+75
+00:04:12,160 --> 00:04:15,360
+Ela é específica para vídeo treinada para gerar vídeos.
+
+76
+00:04:15,600 --> 00:04:19,260
+Mas a lógica aqui ajuda a gente a entender isso aqui um pouquinho melhor.
+
+77
+00:04:19,720 --> 00:04:20,520
+Então, vamos lá.
+
+78
+00:04:20,620 --> 00:04:22,200
+Modelo de difusão passo a passo.
+
+79
+00:04:22,720 --> 00:04:24,400
+Texto entra como instrução.
+
+80
+00:04:24,460 --> 00:04:25,120
+Então, você manda o input.
+
+81
+00:04:25,120 --> 00:04:31,940
+input, igual eu já mostrei na trilha de imagem também. Então, ele vai gerar um ruído, que é chamado de ruído calciano,
+
+82
+00:04:32,000 --> 00:04:38,400
+que são aqueles pixels todos, eu coloco aqui, vocês vão lembrar de novo. Então, aqui, tá vendo os ruidinhos?
+
+83
+00:04:39,440 --> 00:04:47,100
+Ele começa num ruído, e à medida que ele vai colocando informações nesse ruído, ele meio que vai escavando,
+
+84
+00:04:47,100 --> 00:04:53,240
+entre aspas, estatisticamente, ele vai escavando a imagem ali, até ele ter a imagem pronta no final, beleza?
+
+85
+00:04:53,240 --> 00:04:56,180
+Então ele vai trabalhando com ruídos, com difusão.
+
+86
+00:04:56,940 --> 00:04:59,700
+Depois disso, tem camadas de iteração.
+
+87
+00:04:59,760 --> 00:05:00,940
+O que é uma camada de iteração?
+
+88
+00:05:01,080 --> 00:05:03,300
+São camadas de aprimoramento do material
+
+89
+00:05:03,300 --> 00:05:06,720
+em que ele vai refinando a produção dele.
+
+90
+00:05:06,840 --> 00:05:09,140
+Isso já funciona com a imagem e funciona com o vídeo também.
+
+91
+00:05:09,900 --> 00:05:11,800
+Aí entra isso aqui, espaço latente.
+
+92
+00:05:11,940 --> 00:05:14,340
+Em vez de trabalhar pixel bruto, pesado,
+
+93
+00:05:14,380 --> 00:05:17,120
+o modelo opera em uma representação comprimida
+
+94
+00:05:17,120 --> 00:05:18,280
+chamada de espaço latente.
+
+95
+00:05:18,400 --> 00:05:19,940
+Muito melhor e mais eficiente.
+
+96
+00:05:20,100 --> 00:05:22,640
+Então, primeiro, antes de trabalhar em 4K,
+
+97
+00:05:22,640 --> 00:05:24,540
+antes de ela trabalhar em Full HD,
+
+98
+00:05:24,760 --> 00:05:29,500
+ela trabalha com um vídeo que gasta menos processamento
+
+99
+00:05:29,500 --> 00:05:30,940
+para ela entender o movimento,
+
+100
+00:05:31,160 --> 00:05:33,700
+para ela entender a cena que está sendo construída.
+
+101
+00:05:33,800 --> 00:05:35,560
+Depois que ela trabalhou aquele,
+
+102
+00:05:35,800 --> 00:05:37,400
+ela começa a refinar aquilo.
+
+103
+00:05:37,560 --> 00:05:39,300
+Ela começa a adicionar detalhes.
+
+104
+00:05:39,460 --> 00:05:41,800
+Então, primeiro o vídeo é formado
+
+105
+00:05:41,800 --> 00:05:44,420
+e depois ele é Enhancer.
+
+106
+00:05:44,520 --> 00:05:46,580
+Ele é melhorado dentro do processo.
+
+107
+00:05:47,080 --> 00:05:48,700
+E aí vem a decodificação final.
+
+108
+00:05:48,800 --> 00:05:51,960
+O resultado latente é decodificado de volta para pixels reais.
+
+109
+00:05:51,960 --> 00:05:55,020
+gerando a imagem ou vídeo final em resolução completa.
+
+110
+00:05:55,580 --> 00:05:57,520
+Sobre o espaço latente, vamos entender melhor.
+
+111
+00:05:57,660 --> 00:06:00,960
+Imagine que cada imagem de 500 por 500 pixels, 512,
+
+112
+00:06:01,300 --> 00:06:05,920
+tem 786.432 números.
+
+113
+00:06:06,140 --> 00:06:07,080
+São muitos números, né?
+
+114
+00:06:07,820 --> 00:06:11,660
+Trabalhar diretamente com esses números seria computacionalmente proibitivo.
+
+115
+00:06:12,796 --> 00:06:15,356
+O espaço latente é uma representação comprimida.
+
+116
+00:06:15,776 --> 00:06:20,616
+Tipicamente, 64 por 64 pixels, ou seja, trabalha bem reduzidinho ali,
+
+117
+00:06:20,676 --> 00:06:24,296
+com quatro canais, onde toda a informação relevante da imagem
+
+118
+00:06:24,296 --> 00:06:26,636
+é condensada em 16 mil números.
+
+119
+00:06:26,876 --> 00:06:31,296
+Então, ao invés de 786 mil números, são 16 mil números.
+
+120
+00:06:31,416 --> 00:06:33,416
+O que são esses números? É o que a gente chama de vetor.
+
+121
+00:06:33,496 --> 00:06:36,856
+Já expliquei isso na trilha de imagem, já expliquei isso na trilha de texto,
+
+122
+00:06:37,076 --> 00:06:41,476
+já expliquei isso na trilha de AI Thrust e de LLM para quem quiser,
+
+123
+00:06:41,476 --> 00:06:43,216
+é, quem for mais nerd, quiser entender melhor
+
+124
+00:06:43,216 --> 00:06:45,316
+o que é um processo de embedding,
+
+125
+00:06:45,336 --> 00:06:46,736
+que é quando você quebra um
+
+126
+00:06:47,256 --> 00:06:49,516
+material em vetores, tá? São esses números
+
+127
+00:06:49,516 --> 00:06:51,276
+que estão sendo apontados aqui.
+
+128
+00:06:51,456 --> 00:06:53,396
+O modelo de difusão opera nesse espaço
+
+129
+00:06:53,396 --> 00:06:55,396
+comprimido, sendo dezenas
+
+130
+00:06:55,396 --> 00:06:57,356
+de vezes mais eficiente. Vocês vão notar
+
+131
+00:06:57,356 --> 00:06:59,356
+que vídeo já demora muito pra gerar.
+
+132
+00:06:59,876 --> 00:07:01,356
+E aí, se não fosse
+
+133
+00:07:01,356 --> 00:07:03,236
+feito o espaço latente, iria demorar mais
+
+134
+00:07:03,236 --> 00:07:05,356
+ainda pra conseguir gerar esse vídeo aqui pra você.
+
+135
+00:07:05,436 --> 00:07:07,316
+Então, primeiro ele é gerado pequeno e depois existe um
+
+136
+00:07:07,316 --> 00:07:08,856
+processo de upscale
+
+137
+00:07:08,856 --> 00:07:10,036
+desse vídeo.
+
+138
+00:07:11,676 --> 00:07:15,116
+Para vídeos, o espaço latente tem uma dimensão extra, que é o tempo.
+
+139
+00:07:15,376 --> 00:07:19,516
+Um vídeo de 4 segundos a 24 FPS são 96 frames.
+
+140
+00:07:19,696 --> 00:07:20,676
+De onde ele tirou esse cálculo?
+
+141
+00:07:20,856 --> 00:07:24,616
+Ele basicamente pegou 24 e multiplicou por 4, que são 4 segundos.
+
+142
+00:07:24,856 --> 00:07:27,656
+Se eu tenho 24 frames por segundo, eu tenho 96 frames.
+
+143
+00:07:28,536 --> 00:07:31,716
+Todos representados e processados juntos no espaço latente.
+
+144
+00:07:31,976 --> 00:07:33,676
+Então, o que você tem que levar em consideração?
+
+145
+00:07:34,016 --> 00:07:37,196
+Além da imagem que está sendo gerada no espaço latente,
+
+146
+00:07:37,936 --> 00:07:42,156
+ainda você também tem que gerar várias imagens de uma vez
+
+147
+00:07:42,156 --> 00:07:45,516
+para interpolar elas e trabalhar elas juntas na criação de um vídeo.
+
+148
+00:07:45,776 --> 00:07:47,736
+Quando você começa a trabalhar tudo isso,
+
+149
+00:07:48,476 --> 00:07:50,296
+você precisa otimizar o processamento.
+
+150
+00:07:50,396 --> 00:07:51,956
+E aí o espaço latente é muito importante.
+
+151
+00:07:52,136 --> 00:07:54,636
+Juan, para que eu tenho que entender o que é um espaço latente
+
+152
+00:07:54,636 --> 00:07:55,856
+na hora que eu vou trabalhar com um vídeo?
+
+153
+00:07:56,016 --> 00:07:59,456
+Para entender como que a IA funciona e incluir isso no seu processo,
+
+154
+00:07:59,616 --> 00:08:02,356
+até para gastar menos crédito, para gastar menos tempo.
+
+155
+00:08:02,836 --> 00:08:06,636
+É melhor você gerar um vídeo com qualidade mais baixa primeiro,
+
+156
+00:08:07,196 --> 00:08:12,016
+e depois fazer um upscale nele, do que só ficar gerando o vídeo direto em 4K.
+
+157
+00:08:12,136 --> 00:08:17,056
+É claro que existem alguns modelos mais atuais que já geram o vídeo direto em 4K.
+
+158
+00:08:17,136 --> 00:08:19,616
+Isso é bom para impressionar, impressiona muita gente.
+
+159
+00:08:19,856 --> 00:08:22,916
+Só que leva tempo, você tem que ficar ali esperando o vídeo fazer para você.
+
+160
+00:08:23,236 --> 00:08:27,876
+Quando você trabalha num espaço menor, olha só por que é importante entender fundamento.
+
+161
+00:08:27,916 --> 00:08:32,416
+Quando você trabalha num tamanho menor e num espaço menor, o vídeo é gerado mais rápido,
+
+162
+00:08:32,416 --> 00:08:37,756
+Você tem uma noção se o seu prompt foi eficiente, se o movimento de câmera está certo,
+
+163
+00:08:37,836 --> 00:08:41,136
+se o movimento do objeto ou do personagem na cena está certo,
+
+164
+00:08:41,256 --> 00:08:43,696
+se o enquadramento está legal, se a iluminação está ok.
+
+165
+00:08:43,856 --> 00:08:47,616
+Você entende isso primeiro e depois você faz um processo de upscale.
+
+166
+00:08:47,756 --> 00:08:50,096
+Você faz um processo de melhorar esse vídeo.
+
+167
+00:08:50,456 --> 00:08:52,056
+Você ganha tempo no processo.
+
+168
+00:08:52,336 --> 00:08:53,956
+Isso é uma coisa que as pessoas não sabem.
+
+169
+00:08:54,076 --> 00:08:57,496
+Se você só aprende a clicar num botão, você vai aprender a ficar jogando prompt,
+
+170
+00:08:57,496 --> 00:09:01,116
+para te clicar e ficar lá rodando o seu feed no TikTok e no Instagram
+
+171
+00:09:01,116 --> 00:09:03,136
+enquanto o vídeo é gerado para você, não é?
+
+172
+00:09:03,496 --> 00:09:05,756
+Pois é, esse não é o melhor jeito de trabalhar,
+
+173
+00:09:05,976 --> 00:09:07,296
+por isso que entender fundamento é importante.
+
+174
+00:09:07,956 --> 00:09:11,556
+Quais são as principais diferenças entre imagem e vídeo?
+
+175
+00:09:12,536 --> 00:09:15,736
+Primeiro, imagem não tem dimensão temporal.
+
+176
+00:09:15,996 --> 00:09:17,076
+A gente já falou sobre isso.
+
+177
+00:09:17,176 --> 00:09:19,716
+A imagem é uma matriz de pixel única.
+
+178
+00:09:20,296 --> 00:09:22,336
+Isso já é mais do que texto, né?
+
+179
+00:09:22,396 --> 00:09:25,436
+Texto é o mais simples de todos, mas a imagem já é mais complicada que texto.
+
+180
+00:09:25,436 --> 00:09:30,776
+E o vídeo, se a imagem é um conjunto de pixels, o vídeo é um conjunto de imagens.
+
+181
+00:09:30,796 --> 00:09:32,856
+Por si só já torna ele mais complexo aí.
+
+182
+00:09:33,156 --> 00:09:36,256
+Quando a gente soma esse conjunto de imagens dentro da dimensão temporal,
+
+183
+00:09:36,556 --> 00:09:41,196
+isso faz com que você precise de modelos específicos para trabalhar com vídeos.
+
+184
+00:09:41,616 --> 00:09:43,036
+Segundo, fluxo óptico.
+
+185
+00:09:43,176 --> 00:09:45,776
+Isso tem relação com o que eu falei também de interpretação da imagem.
+
+186
+00:09:47,136 --> 00:09:51,116
+Na geração de imagem em si, não tem fluxo óptico.
+
+187
+00:09:51,296 --> 00:09:54,116
+Porque o pixel não mexe, o pixel só fica lá.
+
+188
+00:09:54,656 --> 00:09:55,976
+Agora, quando a gente fala de vídeo,
+
+189
+00:09:56,116 --> 00:09:58,796
+a imagem precisa ser interpretada.
+
+190
+00:09:59,456 --> 00:10:01,096
+Então, a IA que vai trabalhar o vídeo
+
+191
+00:10:01,096 --> 00:10:03,276
+precisa interpretar o que acontece com aquele pixel
+
+192
+00:10:03,276 --> 00:10:05,936
+que começou aqui embaixo e foi se movendo até lá em cima.
+
+193
+00:10:07,388 --> 00:10:10,908
+Isso já é outra questão diferente que o modelo de vídeo precisa tratar,
+
+194
+00:10:11,028 --> 00:10:11,968
+que a imagem não precisa.
+
+195
+00:10:12,148 --> 00:10:14,548
+E isso afeta também o seu prompt.
+
+196
+00:10:15,048 --> 00:10:20,108
+Porque se você, na imagem, precisa lidar com enquadramento, iluminação,
+
+197
+00:10:20,888 --> 00:10:24,528
+com todas aquelas dimensões que eu apresentei para vocês na nossa trilha de imagem,
+
+198
+00:10:24,808 --> 00:10:29,188
+aqui em vídeo, você tem que lidar com todas essas questões da imagem,
+
+199
+00:10:29,428 --> 00:10:30,888
+mais as questões de vídeo.
+
+200
+00:10:31,088 --> 00:10:33,128
+O bom é que tem técnica para isso, por exemplo.
+
+201
+00:10:33,308 --> 00:10:37,128
+Uma técnica que vai ajudar você a ter consistência, justamente por entender isso aqui.
+
+202
+00:10:37,388 --> 00:10:41,628
+Ao invés de gerar só text to video, que eu vou falar mais sobre isso aqui,
+
+203
+00:10:41,748 --> 00:10:48,068
+que é eu gero o vídeo direto do texto, você gera o image to video ou vídeo to video.
+
+204
+00:10:48,228 --> 00:10:49,168
+O que significa isso, Juan?
+
+205
+00:10:49,488 --> 00:10:53,588
+Image to video significa que no seu pedido para ir a gerar o vídeo para você,
+
+206
+00:10:53,668 --> 00:10:55,628
+você sobe uma imagem de referência.
+
+207
+00:10:56,956 --> 00:11:01,076
+E video to video significa que no pedido do vídeo que você quer que a IA faça,
+
+208
+00:11:01,116 --> 00:11:03,056
+você sobe um vídeo de referência.
+
+209
+00:11:03,296 --> 00:11:05,396
+Quando nós vamos trabalhar com vídeos...
+
+210
+00:11:06,460 --> 00:11:12,320
+Ter imagem ou vídeo de referência se torna ainda mais essencial, crucial.
+
+211
+00:11:12,520 --> 00:11:14,600
+É o ponto mais importante para a gente trabalhar aqui.
+
+212
+00:11:14,820 --> 00:11:16,420
+Com imagem já exigia, né?
+
+213
+00:11:16,520 --> 00:11:18,860
+E uma imagem boa, se você quer ter consistência,
+
+214
+00:11:18,860 --> 00:11:23,160
+igual aquele curso que nós tivemos de ensaio fotográfico.
+
+215
+00:11:23,160 --> 00:11:25,440
+Quer ter uma consistência do rosto do personagem?
+
+216
+00:11:25,560 --> 00:11:27,440
+Você precisa de imagem de referência.
+
+217
+00:11:27,820 --> 00:11:29,720
+O melhor jeito, o melhor caminho é esse.
+
+218
+00:11:30,200 --> 00:11:32,940
+Com vídeo, isso dobra ao quadrado.
+
+219
+00:11:33,140 --> 00:11:33,640
+Beleza?
+
+220
+00:11:35,004 --> 00:11:36,004
+Física simulada.
+
+221
+00:11:36,124 --> 00:11:38,904
+Na imagem, a gente não tem física simulada.
+
+222
+00:11:39,324 --> 00:11:41,924
+Eu até explico isso pra vocês em relação à luz.
+
+223
+00:11:42,104 --> 00:11:45,084
+A gente tem um material completo sobre luz que eu mostrei pra vocês,
+
+224
+00:11:45,224 --> 00:11:48,004
+e nesse material, eu tô vendo ali que tava pequeno, né?
+
+225
+00:11:48,044 --> 00:11:49,444
+Vou aumentar aqui pra vocês um pouquinho.
+
+226
+00:11:49,884 --> 00:11:53,864
+Mas nesse material de luz, eu explico que a IA,
+
+227
+00:11:54,024 --> 00:11:55,964
+ela não é um ray tracing, né?
+
+228
+00:11:56,004 --> 00:11:59,304
+Ela não simula o raio de luz batendo lá e voltando na imagem.
+
+229
+00:11:59,644 --> 00:12:01,504
+Ela faz como se fosse uma pintura.
+
+230
+00:12:01,724 --> 00:12:03,024
+É uma imagem estática.
+
+231
+00:12:03,024 --> 00:12:04,924
+já quando a gente fala de vídeo
+
+232
+00:12:04,924 --> 00:12:05,964
+precisa ter
+
+233
+00:12:05,964 --> 00:12:09,424
+uma noção de física
+
+234
+00:12:09,424 --> 00:12:10,964
+porque se ela não tem o vídeo
+
+235
+00:12:10,964 --> 00:12:11,764
+soa estranho
+
+236
+00:12:12,344 --> 00:12:14,264
+então ela precisa entender melhor
+
+237
+00:12:14,264 --> 00:12:16,164
+no vídeo que está sendo gerado ali
+
+238
+00:12:17,064 --> 00:12:18,764
+como que funcionam as leis da física
+
+239
+00:12:18,764 --> 00:12:20,784
+tanto é que os modelos mais
+
+240
+00:12:21,304 --> 00:12:23,064
+impressionantes, que é isso, é o mais avançado
+
+241
+00:12:23,064 --> 00:12:24,964
+de todos, a gente nem vai trazer isso
+
+242
+00:12:24,964 --> 00:12:26,964
+nessa trilha aqui, são os modelos
+
+243
+00:12:26,964 --> 00:12:28,804
+que a NVIDIA está gerando para a visão
+
+244
+00:12:28,804 --> 00:12:30,884
+computacional, para os robôs e
+
+245
+00:12:30,884 --> 00:12:32,944
+para os jogos, inclusive a NVIDIA
+
+246
+00:12:32,944 --> 00:12:35,124
+lançou recentemente, olha, NVIDIA
+
+247
+00:12:36,084 --> 00:12:36,544
+lança
+
+248
+00:12:36,544 --> 00:12:38,504
+modelo de
+
+249
+00:12:40,124 --> 00:12:40,584
+Enhancer
+
+250
+00:12:40,584 --> 00:12:43,004
+para jogos. Eu esqueci o nome do modelo,
+
+251
+00:12:43,044 --> 00:12:44,584
+deixa eu pegar aqui, esse aqui, ó,
+
+252
+00:12:45,304 --> 00:12:46,984
+DLSS. Cara, vamos pegar
+
+253
+00:12:46,984 --> 00:12:48,904
+aqui o Tecmundo mesmo. Isso é muito
+
+254
+00:12:48,904 --> 00:12:50,284
+interessante pro mundo. Nossa,
+
+255
+00:12:51,144 --> 00:12:52,064
+30... Cara...
+
+256
+00:12:53,436 --> 00:12:54,716
+Olha isso aqui, cara, eu fico...
+
+257
+00:12:55,176 --> 00:12:57,976
+Isso aqui é o capitalismo tardio, né, que fala.
+
+258
+00:13:00,508 --> 00:13:03,948
+Eu tenho 10% de texto, cara, na minha página aqui.
+
+259
+00:13:04,108 --> 00:13:05,408
+Mas enfim, vamos voltar pra cá.
+
+260
+00:13:05,948 --> 00:13:07,208
+Eu vou pegar um...
+
+261
+00:13:07,208 --> 00:13:09,928
+Deixa eu ver se eu vejo uma notícia aqui agora certinho.
+
+262
+00:13:12,168 --> 00:13:12,808
+NVIDIA DLSS.
+
+263
+00:13:12,868 --> 00:13:15,588
+Talvez até o próprio site da NVIDIA vai ser legal pra gente ver,
+
+264
+00:13:15,648 --> 00:13:18,248
+porque aqui eu não vou ter um trilhão de...
+
+265
+00:13:20,428 --> 00:13:21,288
+de anúncios, né?
+
+266
+00:13:21,728 --> 00:13:22,588
+Mas o que ele faz?
+
+267
+00:13:22,648 --> 00:13:23,608
+É um modelo de IA.
+
+268
+00:13:23,888 --> 00:13:26,268
+Aqui, ó, a gente tem a reconstrução de raios, tá vendo?
+
+269
+00:13:27,268 --> 00:13:30,148
+Só que usando modelos com transformers, de IA.
+
+270
+00:13:30,508 --> 00:13:31,168
+Pra quê?
+
+271
+00:13:31,888 --> 00:13:34,468
+Ao invés de eu ficar só simulando a física
+
+272
+00:13:34,468 --> 00:13:36,148
+com ray tracing e com
+
+273
+00:13:38,408 --> 00:13:40,208
+os motores gráficos de jogos,
+
+274
+00:13:42,908 --> 00:13:46,888
+A NVIDIA criou esse modelo aqui pra poder rodar como se fosse um enhance,
+
+275
+00:13:47,188 --> 00:13:49,508
+ele melhora a imagem, só que flat, assim, ó.
+
+276
+00:13:49,708 --> 00:13:53,228
+Ele passa uma camada por cima do jogo,
+
+277
+00:13:53,628 --> 00:13:56,748
+e quando você tá visualizando, fica muito mais realista, cara.
+
+278
+00:13:56,788 --> 00:13:58,348
+Deixa eu ver se nesse vídeo aqui dá pra gente ver.
+
+279
+00:13:58,988 --> 00:14:00,708
+Acho que aqui talvez não vai dar pra ver melhor,
+
+280
+00:14:00,768 --> 00:14:02,108
+porque eles vão mostrar...
+
+281
+00:14:02,108 --> 00:14:03,328
+Aqui até dá pra ver, né?
+
+282
+00:14:07,132 --> 00:14:09,752
+Não vou conseguir dar zoom aqui pra vocês mais do que isso agora.
+
+283
+00:14:11,676 --> 00:14:14,536
+Vocês podem pesquisar mais aí também, vocês vão ver a diferença.
+
+284
+00:14:16,924 --> 00:14:18,944
+É melhor até você colocar na tela cheia, assim,
+
+285
+00:14:18,984 --> 00:14:20,164
+para vocês verem a diferença.
+
+286
+00:14:20,344 --> 00:14:21,304
+Isso aqui é outra coisa legal.
+
+287
+00:14:21,564 --> 00:14:24,384
+Você consegue otimizar os gráficos dos jogos
+
+288
+00:14:24,384 --> 00:14:27,684
+sem utilizar muito do seu GPU, da placa de vídeo.
+
+289
+00:14:28,084 --> 00:14:31,944
+Olha só aqui, 320 FPS usando esse modelo aqui.
+
+290
+00:14:32,024 --> 00:14:33,484
+Os dois são DLSS.
+
+291
+00:14:33,524 --> 00:14:34,144
+Ah, não, aqui está off.
+
+292
+00:14:34,324 --> 00:14:35,864
+Beleza, aqui está 4.5.
+
+293
+00:14:36,988 --> 00:14:39,188
+Enfim, vocês podem encontrar muito material aí.
+
+294
+00:14:39,228 --> 00:14:40,508
+É bizarro, tá? Bizarro.
+
+295
+00:14:40,608 --> 00:14:42,228
+E tem relação com isso aqui também.
+
+296
+00:14:42,468 --> 00:14:45,368
+São novas maneiras de trabalhar com o motor gráfico também.
+
+297
+00:14:45,568 --> 00:14:47,928
+E isso aqui seria um nível mais avançado.
+
+298
+00:14:47,988 --> 00:14:49,888
+Mas é legal sempre citar isso pra vocês.
+
+299
+00:14:50,408 --> 00:14:52,288
+Tem uma física simulada.
+
+300
+00:14:52,388 --> 00:14:55,688
+Então, na IAD Video tem física explícita, tecido.
+
+301
+00:14:56,048 --> 00:14:59,968
+Inclusive, os modelos chineses estão muito bons pra pele, tecido, movimento.
+
+302
+00:15:00,328 --> 00:15:03,128
+No momento que eu tô gravando isso, estão muito bons, cara.
+
+303
+00:15:03,368 --> 00:15:05,568
+Então, tecido, pele, fluidos, partículas.
+
+304
+00:15:05,628 --> 00:15:06,848
+Isso tem que ser simulado.
+
+305
+00:15:06,988 --> 00:15:10,608
+E pra não ficar meio esquisito, a IA tem que ter essa noção de física.
+
+306
+00:15:11,468 --> 00:15:12,328
+Consistência entre frames.
+
+307
+00:15:12,908 --> 00:15:15,928
+Na IA, na IA de imagem, não tem esse problema,
+
+308
+00:15:16,088 --> 00:15:20,868
+porque você tem o seu frame, que é aquela imagem que você fez já com o vídeo, do nada.
+
+309
+00:15:20,968 --> 00:15:23,508
+Vocês já viram esses vídeos de internet que parece meio sonho maluco?
+
+310
+00:15:23,568 --> 00:15:26,708
+O cara tá numa lambretinha, ele tá andando na lambretinha assim,
+
+311
+00:15:26,728 --> 00:15:30,368
+do nada vira um jacaré, ele começa a voar e vira um dragão,
+
+312
+00:15:30,388 --> 00:15:32,588
+vira umas coisas loucas assim, que a IA começa a alucinar.
+
+313
+00:15:33,068 --> 00:15:35,048
+Isso é um grande desafio pra IA de vídeo.
+
+314
+00:15:35,448 --> 00:15:38,308
+E aí, quando você tem referência, descreve bem o prompt,
+
+315
+00:15:38,728 --> 00:15:40,348
+tem que ter paciência ainda assim.
+
+316
+00:15:40,548 --> 00:15:43,188
+Não é um prompt que tem um filme feito.
+
+317
+00:15:43,808 --> 00:15:44,348
+Esqueçam isso.
+
+318
+00:15:44,448 --> 00:15:45,908
+Vocês vão ver eu falando disso aqui nos mitos, tá?
+
+319
+00:15:46,048 --> 00:15:47,388
+Então tem que levar isso em consideração.
+
+320
+00:15:47,648 --> 00:15:49,008
+Custo computacional, isso aí.
+
+321
+00:15:50,556 --> 00:15:51,156
+Sem dúvidas.
+
+322
+00:15:51,156 --> 00:15:53,036
+Para a imagem hoje em dia...
+
+323
+00:15:54,108 --> 00:15:55,928
+É muito rápido. Muito rápido.
+
+324
+00:15:56,048 --> 00:15:57,728
+Você tem uma imagem muito fácil, muito rápido,
+
+325
+00:15:57,848 --> 00:16:00,228
+muitas imagens feitas de uma vez, se você trabalha com API.
+
+326
+00:16:01,108 --> 00:16:03,708
+Agora, para vídeo, leva tempo.
+
+327
+00:16:03,928 --> 00:16:04,748
+Ainda leva tempo.
+
+328
+00:16:04,768 --> 00:16:07,928
+Se você tem um PC melhor, você consegue colocar o modelo dentro do seu PC
+
+329
+00:16:07,928 --> 00:16:09,248
+e vai ser mais rápido.
+
+330
+00:16:09,468 --> 00:16:11,708
+Mas também dá para usar nos grandes servidores, né?
+
+331
+00:16:11,708 --> 00:16:15,928
+Tem servidor aí do tamanho dos galpões da Amazon aí,
+
+332
+00:16:16,788 --> 00:16:18,308
+de servidores inteiros, né?
+
+333
+00:16:18,308 --> 00:16:19,928
+Tem servidor do tamanho de cidade já.
+
+334
+00:16:21,768 --> 00:16:25,748
+Então, às vezes você coloca assim na cloud, mas mesmo assim demora.
+
+335
+00:16:26,128 --> 00:16:27,388
+Mesmo assim demora um pouquinho.
+
+336
+00:16:28,268 --> 00:16:29,688
+E demora pra fazer segundos.
+
+337
+00:16:29,908 --> 00:16:32,968
+Às vezes você quer 10 segundos de vídeo, às vezes você quer 5 segundos de vídeo,
+
+338
+00:16:33,108 --> 00:16:37,628
+tem que esperar o vídeo ser feito ali, por isso que ter um bom processo é muito importante.
+
+339
+00:16:39,676 --> 00:16:43,416
+E aí, beleza, essas são as principais diferenças que a gente precisa entender aqui.
+
+340
+00:16:43,496 --> 00:16:46,696
+Tem três grandes arquiteturas, a gente vai falar mais de vídeos aqui.
+
+341
+00:16:47,416 --> 00:16:53,016
+Inclusive, eu achei interessante que, na pesquisa que eu fiz o Sora, ganhou muito destaque global.
+
+342
+00:16:53,636 --> 00:16:55,616
+Mas eu vou falar por mim, isso é opinião, tá?
+
+343
+00:16:55,696 --> 00:16:58,956
+Mas sempre que eu tento fazer alguma coisa no Sora, fica muito ruim, cara.
+
+344
+00:16:59,096 --> 00:17:01,376
+Eu não sei por que que o Sora fica no topo pra galera.
+
+345
+00:17:01,536 --> 00:17:05,956
+Tem alguma coisa que as pessoas sabem que talvez eu não saiba, comenta aqui se você sabe ou não sei.
+
+346
+00:17:05,956 --> 00:17:08,276
+mas eu prefiro muito mais usar o Kling,
+
+347
+00:17:08,276 --> 00:17:09,876
+prefiro muito mais usar o Vell,
+
+348
+00:17:09,976 --> 00:17:12,836
+prefiro muito mais usar o Seedence do que usar o Sora,
+
+349
+00:17:12,996 --> 00:17:14,516
+nos meus testes principalmente.
+
+350
+00:17:15,356 --> 00:17:18,956
+Enfim, aqui está falando que o ponto forte do Sora é coerência e espaço temporal,
+
+351
+00:17:19,156 --> 00:17:21,396
+personagens que somem atrás de um pilar,
+
+352
+00:17:21,456 --> 00:17:23,776
+emergem do outro com as mesmas proporções.
+
+353
+00:17:23,916 --> 00:17:26,676
+Então, em questão de consistência, parece melhor,
+
+354
+00:17:26,776 --> 00:17:29,116
+mas nos meus testes, não é meu favorito.
+
+355
+00:17:29,236 --> 00:17:31,936
+Eu prefiro o Seedence, por exemplo, o Kling também,
+
+356
+00:17:32,056 --> 00:17:32,856
+o Kling é muito bom.
+
+357
+00:17:33,296 --> 00:17:35,276
+Duas chinesas, estou colocando aqui então,
+
+358
+00:17:35,276 --> 00:17:36,616
+Então, o Kling e o Seedance.
+
+359
+00:17:37,336 --> 00:17:39,336
+A gente tem aqui o Kling, muito bom.
+
+360
+00:17:39,936 --> 00:17:40,616
+Muito bom.
+
+361
+00:17:41,916 --> 00:17:44,416
+cuidar de detalhes, a gente vai falar mais de ferramentas aqui,
+
+362
+00:17:44,516 --> 00:17:46,356
+mas só uma introdução para vocês,
+
+363
+00:17:46,456 --> 00:17:48,876
+e o VEL do Google, que vem com áudio, muito interessante,
+
+364
+00:17:49,176 --> 00:17:49,916
+a gente vai falar mais deles.
+
+365
+00:17:50,636 --> 00:17:52,256
+Beleza? Por que isso importa para o prompt?
+
+366
+00:17:52,876 --> 00:17:55,816
+Saber que o modelo precisa calcular fluxo óptico e física em movimento
+
+367
+00:17:55,816 --> 00:17:59,676
+explica por que os prompts com múltiplas ações simultâneas falham.
+
+368
+00:17:59,996 --> 00:18:02,836
+A rede de atenção colapsa tentando resolver tudo de uma vez.
+
+369
+00:18:02,936 --> 00:18:05,356
+A regra profissional é um movimento de câmera,
+
+370
+00:18:05,456 --> 00:18:08,276
+mais uma ação principal por clipe.
+
+371
+00:18:08,776 --> 00:18:11,696
+Olha que interessante, eu podia fazer aqui para vocês um tutorial
+
+372
+00:18:11,696 --> 00:18:14,936
+Vocês vão ver que gerar o vídeo é a coisa mais besta do mundo.
+
+373
+00:18:15,596 --> 00:18:18,056
+Mas quando você entende os fundamentos,
+
+374
+00:18:18,056 --> 00:18:21,056
+você entende por que seu vídeo não dá certo lá no dia a dia.
+
+375
+00:18:21,736 --> 00:18:22,136
+Beleza?
+
+376
+00:18:22,176 --> 00:18:25,816
+Então esse é um motivo de por que a gente traz um conteúdo tão profundo assim pra vocês.
+
+377
+00:18:26,016 --> 00:18:26,236
+Legal?
+

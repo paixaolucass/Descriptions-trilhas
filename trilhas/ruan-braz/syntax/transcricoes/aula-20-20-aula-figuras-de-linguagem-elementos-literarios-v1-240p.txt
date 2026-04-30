@@ -1,0 +1,350 @@
+# Video: 20._aula_-_figuras_de_linguagem_(elementos_literários)_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 14:20
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:00 --> 00:00:04:12] Quando a gente analisa um texto que realmente funciona, a gente percebe um certo padrão.
+[00:00:04:15 --> 00:00:06:24] Seja um discurso histórico ou um anúncio da Apple,
+[00:00:06:29 --> 00:00:11:14] eles ajudam a alterar a nossa percepção de realidade sem alterar os fatos.
+[00:00:11:16 --> 00:00:14:23] Isso não é mágica, não é nenhum truque, é apenas engenharia.
+[00:00:14:24 --> 00:00:18:02] E essa engenharia tem um nome chamado figuras de linguagem.
+[00:00:18:06 --> 00:00:21:12] Mas eu sei, você deve estar pensando na época de escola, aquela lista enorme, completa,
+[00:00:21:22 --> 00:00:25:05] super difícil de lembrar, que você acabou decorando e esqueceu.
+[00:00:25:07 --> 00:00:26:14] E realmente, muita gente esqueceu.
+[00:00:26:14 --> 00:00:30:13] mas aqui na sintaxe a gente está olhando para essas figuras como uma ferramenta
+[00:00:30:13 --> 00:00:32:26] que ajudam a mudar três coisas na cabeça do leitor.
+[00:00:33:00 --> 00:00:36:01] O primeiro é o significado, o que ele entende ao ler o seu texto.
+[00:00:36:05 --> 00:00:40:11] Depois é a intensidade, ou seja, as emoções, o que ele sente lendo esse texto.
+[00:00:40:15 --> 00:00:42:19] E por último, a memória, o que ele vai lembrar.
+[00:00:42:22 --> 00:00:46:22] Hoje a gente vai sair um pouco da gramática e entrar mais na neurociência da escrita.
+[00:00:46:28 --> 00:00:49:13] O cérebro lê com base em previsão e padrões.
+[00:00:49:19 --> 00:00:53:25] E as figuras de linguagem ajudam a reforçar ou a quebrar esses padrões.
+[00:00:53:25 --> 00:00:57:07] Para ficar mais fácil, a gente organizou as figuras em quatro grupos distintos
+[00:00:57:07 --> 00:00:59:16] para você saber quando usar cada uma delas.
+[00:00:59:19 --> 00:01:00:04] Então vamos lá.
+[00:01:00:08 --> 00:01:05:07] O primeiro grupo são as figuras de palavra, que elas utilizam para a reorganização semântica.
+[00:01:05:11 --> 00:01:09:29] A ideia aqui é transformar algo abstrato em concreto e mudar o significado das palavras.
+[00:01:10:09 --> 00:01:12:12] A primeira figura de linguagem é a metáfora.
+[00:01:12:12 --> 00:01:15:21] Esse é basicamente um atalho sensorial do pensamento.
+[00:01:16:00 --> 00:01:18:10] Tecnicamente, é a transferência de significado.
+[00:01:18:10 --> 00:01:21:20] Você usa, por exemplo, uma imagem fonte para explicar um alvo.
+[00:01:21:20 --> 00:01:23:23] Então, ao dizer, por exemplo, que o tempo é um ladrão,
+[00:01:23:26 --> 00:01:25:17] a gente não está descrevendo um relógio.
+[00:01:25:19 --> 00:01:27:14] A gente está explicando a sensação de perda.
+[00:01:27:16 --> 00:01:31:23] Por isso, é muito central na literatura, na retórica e até no pensamento científico,
+[00:01:31:23 --> 00:01:34:17] porque essas metáforas ajudam a modelar hipóteses,
+[00:01:34:17 --> 00:01:37:17] ajudam a orientar decisões e moldam também narrativas de marca.
+[00:01:37:23 --> 00:01:40:00] Então, aqui a gente tem um prompt para construir uma metáfora.
+[00:01:40:00 --> 00:01:42:22] Você precisa trazer um conceito que você queira transformar em metáfora
+[00:01:42:22 --> 00:01:43:29] e ele é mais ou menos assim.
+[00:01:44:04 --> 00:01:46:07] Crie uma metáfora inédita para o conceito.
+[00:01:46:08 --> 00:01:48:03] Você coloca aqui o seu conceito.
+[00:01:48:03 --> 00:01:55:09] Os imagens sensoriais inesperadas que unam concreto e abstrato em uma frase curta, memorável e emocionalmente intensa.
+[00:01:55:10 --> 00:01:58:13] Explique em uma linha porque essa metáfora ilumina o conceito de forma única.
+[00:01:58:18 --> 00:02:00:22] A próxima figura de linguagem é a comparação.
+[00:02:00:22 --> 00:02:03:04] E diferente da metáfora, ela é mais explícita.
+[00:02:03:09 --> 00:02:05:23] Ela usa conectivos como tal qual e assim como.
+[00:02:06:01 --> 00:02:10:28] Então no cotidiano é muito comum a gente utilizar, por exemplo, ele é forte como um touro ou ela canta como um anjo.
+[00:02:11:01 --> 00:02:13:01] E na literatura também é largamente usada.
+[00:02:13:01 --> 00:02:17:17] Por exemplo, na prosa de Guimarães Rosa tem uma comparação que aproxima natureza e subjetividade.
+[00:02:17:17 --> 00:02:21:14] Que é, o sertão é como um espelho e que em cada olhar se multiplica.
+[00:02:21:16 --> 00:02:23:22] Aqui a gente tem um prompt também para construir uma comparação.
+[00:02:23:22 --> 00:02:28:16] Crie uma comparação inédita para o conceito que você escolher, usando frases concretas e sensoriais.
+[00:02:28:19 --> 00:02:33:22] Use conectivos explícitos, como, tal qual, assim como, para gerar impacto imediato e clareza emocional.
+[00:02:33:27 --> 00:02:36:03] A próxima figura de linguagem é a sinestesia.
+[00:02:36:04 --> 00:02:40:05] E ela ocorre quando diferentes sentidos se misturam em uma mesma expressão.
+[00:02:40:08 --> 00:02:45:22] Então, por exemplo, a gente ouve cores, a gente sente sabores de sons e a gente enxerga até texturas em perfumes.
+[00:02:45:22 --> 00:02:48:24] E a gente encontra muito essa figura na literatura, na prosa.
+[00:02:48:25 --> 00:02:52:14] Por exemplo, o cheiro áspero de flores, voz macia, a luz úmida.
+[00:02:52:17 --> 00:02:56:06] O Mário de Andrade tem uma frase muito legal que une quatro sentidos.
+[00:02:56:11 --> 00:03:00:11] Esta chuvinha de água viva, esperneando luz, e ainda com gosto de mato longe,
+[00:03:00:16 --> 00:03:02:19] meio baunilha, meio manacá, meio alfazema.
+[00:03:02:23 --> 00:03:05:21] A gente tem aqui tato, visão, olfato e paladar.
+[00:03:05:23 --> 00:03:06:25] Muito interessante, né?
+[00:03:06:27 --> 00:03:09:26] E no cotidiano a gente acaba usando expressões como um olhar frio,
+[00:03:10:01 --> 00:03:11:26] um som quente, uma voz doce.
+[00:03:11:26 --> 00:03:14:13] E isso ajuda a ampliar a experiência poética,
+[00:03:14:14 --> 00:03:18:16] porque ela aciona múltiplas áreas sensoriais do cérebro ao mesmo tempo.
+[00:03:18:20 --> 00:03:21:23] Então, se você procura uma forma de deixar o seu texto um pouquinho mais poético,
+[00:03:21:28 --> 00:03:24:01] a sinestesia é uma ótima forma de fazer isso.
+[00:03:24:05 --> 00:03:26:22] E a gente também tem aqui um prompt para construir uma sinestesia.
+[00:03:26:25 --> 00:03:28:16] Descreva o conceito que você escolher,
+[00:03:28:17 --> 00:03:32:07] como se tivesse cor, sabor, som e textura ao mesmo tempo.
+[00:03:32:11 --> 00:03:34:18] O próximo grupo são as figuras de pensamento.
+[00:03:34:22 --> 00:03:35:21] E aqui a ideia qual que é?
+[00:03:35:25 --> 00:03:37:26] É alterar a lógica e a emoção.
+[00:03:37:29 --> 00:03:40:25] Aqui a gente não vai mudar a palavra, a gente vai mudar a interpretação.
+[00:03:40:25 --> 00:03:43:28] Então, a primeira delas é a hipérbole, que é querer exagero intencional,
+[00:03:43:29 --> 00:03:47:15] um recurso que amplia a realidade para muito além do impossível.
+[00:03:47:19 --> 00:03:49:21] A ideia aqui não é enganar, não é uma ironia, por exemplo,
+[00:03:49:22 --> 00:03:52:09] mas é intensificar uma ideia, é provocar impacto,
+[00:03:52:16 --> 00:03:54:20] é imprimir mais emoção ao seu discurso.
+[00:03:54:25 --> 00:03:57:15] Então, quando você diz, por exemplo, esperei uma eternidade na fila,
+[00:03:57:15 --> 00:04:01:07] você não está falando um dado cronológico real, não é uma coisa literal,
+[00:04:01:13 --> 00:04:02:26] mas a sensação de demora.
+[00:04:02:28 --> 00:04:05:20] O exagero dá muito mais corpo, dá uma intensidade emocional
+[00:04:05:20 --> 00:04:08:05] e transforma essa experiência em uma imagem mais vívida.
+[00:04:08:11 --> 00:04:10:15] Se você falar que esperou muito na fila, é uma coisa,
+[00:04:10:15 --> 00:04:12:16] agora uma eternidade, você meio que enxerga
+[00:04:12:16 --> 00:04:14:17] essa cena acontecendo. E na literatura
+[00:04:14:17 --> 00:04:16:08] é muito usada também. Camões fala
+[00:04:16:08 --> 00:04:18:10] de um mar de lágrimas e, por exemplo,
+[00:04:18:10 --> 00:04:20:19] no cotidiano a gente usa direto. Eu tô morrendo de fome
+[00:04:20:19 --> 00:04:22:04] ou chorei rios ontem.
+[00:04:22:07 --> 00:04:24:12] E aqui a gente tem também um prompt pra construir uma hipórbole.
+[00:04:24:19 --> 00:04:26:23] Exagere tal conceito até o impossível
+[00:04:27:05 --> 00:04:28:19] transformando-o em uma imagem grandiosa
+[00:04:28:19 --> 00:04:30:13] e emocionalmente arrebatadora.
+[00:04:30:18 --> 00:04:32:20] A próxima figura de linguagem é a ironia.
+[00:04:32:21 --> 00:04:34:00] Então eu acabei de citar ela, né?
+[00:04:34:03 --> 00:04:36:13] Ela é a arte da contradição controlada.
+[00:04:36:16 --> 00:04:38:25] Então a gente diz uma coisa pra significar o contrário.
+[00:04:38:25 --> 00:04:41:01] cria uma tensão entre forma e sentido.
+[00:04:41:07 --> 00:04:44:15] E ela exige mais inteligência de quem fala
+[00:04:44:15 --> 00:04:46:14] e muita atenção de quem está ouvindo também,
+[00:04:46:17 --> 00:04:48:13] porque ela opera naquele subtexto.
+[00:04:48:15 --> 00:04:50:23] Então, se alguém chega encharcado e você comenta
+[00:04:50:23 --> 00:04:51:17] que dia seco, não?
+[00:04:51:19 --> 00:04:52:16] Você está praticando ironia.
+[00:04:52:19 --> 00:04:54:14] Só que o recurso serve tanto para o humor
+[00:04:54:14 --> 00:04:55:19] quanto também para a crítica.
+[00:04:55:22 --> 00:04:58:20] Na literatura, o Machado de Assis foi um mestre em utilizar ela.
+[00:04:58:22 --> 00:05:00:09] Em Memórias Póssimas de Brás Cubas,
+[00:05:00:12 --> 00:05:02:19] a ironia mistura a voz do narrador,
+[00:05:02:22 --> 00:05:04:21] meio que zomba, da própria condição e da sociedade.
+[00:05:05:02 --> 00:05:06:26] E na vida cotidiana, a gente usa a ironia
+[00:05:06:26 --> 00:05:08:16] para suavizar algumas verdades.
+[00:05:08:16 --> 00:05:11:19] Por exemplo, nossa, que pontualidade para alguém que chegou bem atrasado.
+[00:05:11:19 --> 00:05:12:26] Ou para denunciar absurdos.
+[00:05:12:26 --> 00:05:16:14] Nossa, parabéns, ótimo trabalho para alguém que claramente fez alguma cagada.
+[00:05:16:18 --> 00:05:19:14] Então aqui tem algum prompt para a gente construir uma ironia também.
+[00:05:19:19 --> 00:05:27:10] Então fale de conceito que você escolher, afirmando o contrário do que ele é, com humor ou crítica velada, deixando o sentido real escondido no subtexto.
+[00:05:27:10 --> 00:05:29:08] A próxima figura de linguagem é a antítese.
+[00:05:29:11 --> 00:05:32:08] E aqui é um confronto direto entre ideias opostas.
+[00:05:32:11 --> 00:05:34:20] A antítese não exagera e também não disfarça.
+[00:05:34:20 --> 00:05:37:23] Ela desvenda uma... revela, na verdade, uma tensão mais real.
+[00:05:37:23 --> 00:05:41:05] Então, por exemplo, quando Shakespeare escreve ser ou não ser, eis a questão,
+[00:05:41:10 --> 00:05:45:05] ele está expondo esse conflito existencial entre polos absolutos.
+[00:05:45:06 --> 00:05:48:17] Então, no cotidiano, a gente está usando, por exemplo, um silêncio ensurdecedor.
+[00:05:48:17 --> 00:05:49:16] Aqui é uma antítese também.
+[00:05:49:20 --> 00:05:50:23] Ou odeio amar você.
+[00:05:50:28 --> 00:05:55:20] O cérebro adora esse contraste e a antítese coloca esses polos bem opostos lado a lado
+[00:05:55:20 --> 00:05:58:25] e acaba gerando essa clareza, esse contraste pelo choque.
+[00:05:58:29 --> 00:06:00:21] E o prompt para construir uma antítese é
+[00:06:00:21 --> 00:06:04:29] falha de tal conceito como um campo de forças entre dois opostos irreconciliáveis,
+[00:06:04:29 --> 00:06:08:23] condensando a tensão em uma frase que brilhe pela clareza e pelo choque.
+[00:06:08:27 --> 00:06:11:15] E a última figura de linguagem desse grupo é o paradoxo.
+[00:06:11:15 --> 00:06:14:13] A contradição que carrega uma verdade impossível.
+[00:06:14:16 --> 00:06:17:11] Então, paradoxo é um pouco diferente da antítese,
+[00:06:17:13 --> 00:06:19:24] porque a antítese coloca os contrários lado a lado.
+[00:06:19:27 --> 00:06:24:08] O paradoxo une eles de uma forma que uma ideia seja impossível.
+[00:06:24:20 --> 00:06:26:08] Aparentemente, pelo menos, impossível.
+[00:06:26:12 --> 00:06:28:10] Então, por exemplo, quanto mais sei, menos sei.
+[00:06:28:13 --> 00:06:30:00] Menos é mais, também é um paradoxo.
+[00:06:30:02 --> 00:06:33:28] Então, elas parecem contraditórias, mas elas abrem espaço para uma reflexão
+[00:06:33:28 --> 00:06:35:11] que muitas vezes pode ser mais profunda.
+[00:06:35:13 --> 00:06:36:16] E a gente tem um prompt aqui também
+[00:06:36:16 --> 00:06:37:22] para construir um paradoxo.
+[00:06:37:25 --> 00:06:39:16] Expresse conceito em uma frase
+[00:06:39:16 --> 00:06:42:00] que seja ao mesmo tempo verdade e contradição.
+[00:06:42:01 --> 00:06:43:10] Clara e impossível,
+[00:06:43:10 --> 00:06:45:28] como se a lógica se curvasse diante do pensamento.
+[00:06:46:04 --> 00:06:48:14] O próximo grupo são as figuras de sintaxe.
+[00:06:48:14 --> 00:06:50:18] E a ideia aqui é a gente controlar o foco
+[00:06:50:18 --> 00:06:51:14] e também a velocidade,
+[00:06:52:01 --> 00:06:53:09] alterando a ordem da frase.
+[00:06:53:14 --> 00:06:54:28] Então a primeira figura é a elipse.
+[00:06:55:04 --> 00:06:56:28] Aqui a gente vai omitir um termo
+[00:06:56:28 --> 00:06:58:09] que o contexto já explica.
+[00:06:58:12 --> 00:06:59:11] A gente vai evitar repetições
+[00:06:59:11 --> 00:07:01:22] e a ideia aqui é tornar a frase mais ágil.
+[00:07:01:25 --> 00:07:02:13] Então, por exemplo,
+[00:07:02:18 --> 00:07:03:10] eu comprei café,
+[00:07:03:10 --> 00:07:05:02] fé, ela, chá. O verbo
+[00:07:05:02 --> 00:07:07:05] comprou aqui foi removido,
+[00:07:07:07 --> 00:07:09:18] mas o contexto ainda está subentendido.
+[00:07:09:19 --> 00:07:10:25] Um outro exemplo, na sala,
+[00:07:11:11 --> 00:07:13:08] silêncio. Aqui a gente removeu um verbo também,
+[00:07:13:11 --> 00:07:15:05] poderia ser o verbo a, mas poderia ser
+[00:07:15:05 --> 00:07:17:00] também, por exemplo, reinou. Na sala,
+[00:07:17:03 --> 00:07:19:16] reinou, silêncio. Mas sem nenhum desses verbos,
+[00:07:19:16 --> 00:07:21:07] o contexto aqui, o significado
+[00:07:21:07 --> 00:07:23:05] ainda está subentendido, então aqui a elipse
+[00:07:23:05 --> 00:07:25:04] funciona. O elemento suprimido,
+[00:07:25:04 --> 00:07:27:12] ele pode ser, como eu mostrei exemplos, verbos,
+[00:07:27:12 --> 00:07:28:28] mas pode ser sujeito, pode ser objeto,
+[00:07:29:05 --> 00:07:31:07] desde que a compreensão permaneça
+[00:07:31:07 --> 00:07:33:05] intacta. E a ideia aqui é obrigar
+[00:07:33:05 --> 00:07:35:22] o leitor a completar a frase mentalmente
+[00:07:35:22 --> 00:07:36:28] para aumentar também o engajamento.
+[00:07:37:03 --> 00:07:38:22] E aqui a gente tem um prompt para construir uma elipse.
+[00:07:38:26 --> 00:07:40:29] É assim, condense a frase ou conceito
+[00:07:40:29 --> 00:07:43:08] suprimindo o termo essencial que o leitor reconstrói
+[00:07:43:08 --> 00:07:47:01] sem esforço, criando ritmo, tensão e intensidade na ausência.
+[00:07:47:07 --> 00:07:48:09] Agora tem a anáfora.
+[00:07:48:09 --> 00:07:51:04] E a anáfora, no caso, a gente aqui vai forçar repetições
+[00:07:51:04 --> 00:07:53:04] principalmente no início das frases.
+[00:07:53:08 --> 00:07:54:21] Por exemplo, eu acredito na arte,
+[00:07:54:26 --> 00:07:57:08] eu acredito na ciência, eu acredito em você.
+[00:07:57:13 --> 00:07:59:04] A anáfora vai funcionar como um martelo
+[00:07:59:04 --> 00:08:00:28] imprimindo o ritmo, uma obsessão
+[00:08:00:28 --> 00:08:03:13] e vai fixar bastante a ideia central da sua frase,
+[00:08:03:14 --> 00:08:05:01] o ponto central da argumentação.
+[00:08:05:04 --> 00:08:07:10] E ela só faz sentido quando essa repetição
+[00:08:07:10 --> 00:08:09:28] é necessária para manter o ritmo e a ideia central.
+[00:08:10:05 --> 00:08:11:17] Então, se você remover essa repetição
+[00:08:11:17 --> 00:08:14:02] e o seu conceito, o seu argumento continuar muito forte,
+[00:08:14:08 --> 00:08:15:23] a anáfora não é tão necessária assim.
+[00:08:15:28 --> 00:08:17:19] A gente tem um prompt aqui também para construir ela.
+[00:08:17:23 --> 00:08:19:15] É grave o conceito que você escolher
+[00:08:19:15 --> 00:08:21:24] em frases que todas começam idênticas.
+[00:08:22:01 --> 00:08:24:17] Cada repetição deve soar como um golpe de martelo,
+[00:08:24:18 --> 00:08:26:03] obsessiva, ritualística,
+[00:08:26:05 --> 00:08:28:04] até que a palavra deixe de ser linguagem
+[00:08:28:04 --> 00:08:29:08] e se torne destino.
+[00:08:29:08 --> 00:08:31:10] A próxima figura de linguagem é o hipérbato.
+[00:08:31:15 --> 00:08:33:17] E aqui é uma inversão da ordem da frase.
+[00:08:33:23 --> 00:08:35:07] Então, na ordem direta do português,
+[00:08:35:08 --> 00:08:37:07] normalmente a gente costuma seguir verbo...
+[00:08:37:07 --> 00:08:40:21] Desculpa, sujeito, mais verbo, mais complementos, mais adjuntos.
+[00:08:40:22 --> 00:08:42:15] E quando a gente desloca esses termos,
+[00:08:42:15 --> 00:08:45:10] a gente pode destacar algumas nuances sem perder a compreensão.
+[00:08:45:14 --> 00:08:47:16] Por exemplo, doce memórias guardo,
+[00:08:47:16 --> 00:08:49:04] em vez de guardo doces memórias.
+[00:08:49:08 --> 00:08:50:23] Aqui a gente deslocou essas palavras
+[00:08:50:23 --> 00:08:54:13] e a gente cria um foco mais dramático e uma certa musicalidade também.
+[00:08:54:17 --> 00:08:58:11] Outro exemplo, do alto da colina via a cidade ou viajante.
+[00:08:58:11 --> 00:09:02:02] O adjunto do alto da colina abre a cena e você meio que já imagina isso.
+[00:09:02:07 --> 00:09:06:13] E o sujeito, ou viajante, aparece no fim, criando um efeito meio que cinematográfico.
+[00:09:06:15 --> 00:09:11:05] Esse pérbato tira o texto do lugar comum, ele dá um tom mais solene, mais poético.
+[00:09:11:08 --> 00:09:14:14] Por isso tem que usar com muito cuidado, principalmente em textos mais técnicos,
+[00:09:14:22 --> 00:09:16:09] onde a clareza é prioridade.
+[00:09:16:16 --> 00:09:18:16] Aqui a gente tem um prompt também para construir esse pérbato.
+[00:09:18:22 --> 00:09:21:10] Inverta a ordem natural dessa frase ou conceito,
+[00:09:21:13 --> 00:09:25:25] deslocando o sujeito, verbo, e o complemento de modo a criar cadência poética.
+[00:09:25:25 --> 00:09:28:22] O foco é dramático e musicabilidade inevitável.
+[00:09:28:23 --> 00:09:32:16] Como se as palavras fossem reposicionadas para obrigar o olhar a seguir o seu ritmo.
+[00:09:32:19 --> 00:09:34:15] O próximo grupo são as figuras de som.
+[00:09:34:19 --> 00:09:38:19] E a ideia aqui é a gente criar padrões acústicos que o cérebro retém.
+[00:09:38:20 --> 00:09:43:19] Então todas as figuras aqui são muito boas para fixar o seu texto, sua frase na memória das pessoas.
+[00:09:43:27 --> 00:09:45:20] A primeira figura é a aliteração.
+[00:09:45:22 --> 00:09:47:13] E aqui é a repetição de consoantes.
+[00:09:47:16 --> 00:09:50:10] E é muito comum a gente encontrar isso em publicidade.
+[00:09:50:13 --> 00:09:52:12] Por exemplo, a Coca-Cola, Dunkin' Donuts.
+[00:09:52:18 --> 00:09:55:10] Porque essa figura transforma frases em música.
+[00:09:55:10 --> 00:09:59:20] música, eslogans e memórias e também a poesia e encantamento. Do ponto de vista cognitivo,
+[00:09:59:21 --> 00:10:04:13] quando a gente faz a repetição cenoura, a gente aumenta a retenção. Então as pessoas acabam
+[00:10:04:13 --> 00:10:08:20] gravando esses padrões de uma forma mais fácil e lembra com muita mais facilidade também. E é por
+[00:10:08:20 --> 00:10:13:08] isso que tem tantos anúncios publicitários que exploram a literação, porque ajuda a fixar essas
+[00:10:13:08 --> 00:10:17:29] marcas no inconsciente coletivo. Na literatura, ela também serve para suavizar o texto quanto
+[00:10:17:29 --> 00:10:21:26] para dar também intensidade. Então, dependendo da consoante escolhida, se por exemplo você usa
+[00:10:21:26 --> 00:10:23:22] o S, você pode sussurrar a suavidade,
+[00:10:23:26 --> 00:10:25:19] enquanto o R pode evocar
+[00:10:25:19 --> 00:10:27:23] força ou também violência. Então, por exemplo,
+[00:10:27:28 --> 00:10:29:23] vi, vi e venci. A força
+[00:10:29:23 --> 00:10:32:02] da vitória aqui se apoia na repetição
+[00:10:32:02 --> 00:10:33:27] do V, que é a primeira palavra, a primeira letra.
+[00:10:33:29 --> 00:10:35:23] Ou o rato roeu a roupa do
+[00:10:35:23 --> 00:10:37:23] rei de Roma. Esse é um trava-língua que demonstra
+[00:10:37:23 --> 00:10:39:20] como a repetição gera um ritmo quase
+[00:10:39:20 --> 00:10:41:20] que hipnótico. E quando a gente repete esse som,
+[00:10:41:23 --> 00:10:43:23] a gente cria alguns ecos que ampliam
+[00:10:43:23 --> 00:10:45:25] o impacto da nossa mensagem. Isso conquista
+[00:10:45:25 --> 00:10:47:22] espaço muito mais rápido na mente das pessoas.
+[00:10:47:29 --> 00:10:49:25] E, mais uma vez, a gente tem um prompt aqui pra construir
+[00:10:49:25 --> 00:10:51:21] uma literação. Escreva uma frase sobre
+[00:10:51:21 --> 00:10:53:02] sobre o conceito escolhido por você,
+[00:10:53:05 --> 00:10:55:29] usando a repetição da mesma consoante no início das palavras
+[00:10:55:29 --> 00:10:59:16] para gerar o máximo impacto sonoro e memorização imediata.
+[00:10:59:20 --> 00:11:01:27] A próxima figura da linguagem é a assonância.
+[00:11:02:04 --> 00:11:04:22] Então, se a aliteração dança com consoantes,
+[00:11:04:25 --> 00:11:06:13] aqui a gente vai cantar com vogais.
+[00:11:06:18 --> 00:11:10:11] Repetir vogais cria uma melodia, um lamento, uma suavidade,
+[00:11:10:15 --> 00:11:12:22] porque as vogais são basicamente a alma sonora
+[00:11:12:22 --> 00:11:14:09] e é o que faz um texto cantar.
+[00:11:14:13 --> 00:11:16:08] Então, é uma figura muito comum em títulos,
+[00:11:16:08 --> 00:11:17:26] por exemplo, a bela e a fera.
+[00:11:18:03 --> 00:11:21:08] O som de E se repete nas sílabas tônicas de bela e fera
+[00:11:21:08 --> 00:11:22:14] e também na conjunção E.
+[00:11:22:18 --> 00:11:24:09] Então, ela cria um efeito de harmonia,
+[00:11:24:09 --> 00:11:26:20] de ligação entre esses dois elementos do título.
+[00:11:26:23 --> 00:11:27:26] Então, é muito comum você usar
+[00:11:27:26 --> 00:11:31:04] para transformar títulos em títulos mais memoráveis.
+[00:11:31:11 --> 00:11:33:22] A casa estava vazia, fria, sombria.
+[00:11:33:28 --> 00:11:36:22] Nessa frase, a gente usa as vogais IA no final
+[00:11:36:22 --> 00:11:38:22] para reforçar esse peso melancólico.
+[00:11:38:22 --> 00:11:40:07] E a música popular também utiliza muito.
+[00:11:40:16 --> 00:11:42:17] Olha que coisa mais linda, mais cheia de graça.
+[00:11:42:22 --> 00:11:44:14] Em Garota de Ipanema, essa repetição do A
+[00:11:44:14 --> 00:11:46:02] amplia a suavidade da melodia.
+[00:11:46:05 --> 00:11:47:29] Então, quando a gente fica repetindo muitas vogais,
+[00:11:48:00 --> 00:11:50:17] uma frase pode transmitir uma espécie de eco,
+[00:11:50:17 --> 00:11:52:29] Uma harmonia, uma melancolia e até uma doçura.
+[00:11:53:02 --> 00:11:55:25] E é um ótimo jeito de aproximar a palavra de canto.
+[00:11:55:27 --> 00:11:59:17] Então, se você quer trazer uma certa musicalidade para suas frases, para seus textos,
+[00:11:59:18 --> 00:12:00:29] abuse também dessa assonância.
+[00:12:01:04 --> 00:12:02:26] E aqui tem um prompt para você já utilizar ela.
+[00:12:03:01 --> 00:12:05:11] Então, escreva um texto poético curto em português,
+[00:12:05:11 --> 00:12:08:13] dominado por uma única vogal repetida em palavras-chave,
+[00:12:08:16 --> 00:12:10:16] criando assonância intensa.
+[00:12:10:16 --> 00:12:12:17] O efeito deve ser melódico e emocional,
+[00:12:12:20 --> 00:12:16:04] como se fosse um canto terminando com uma frase curta que funcione como refrão.
+[00:12:16:05 --> 00:12:19:22] Depois, a próxima figura de linguagem é a onomatopeia.
+[00:12:19:22 --> 00:12:22:05] E aqui, todo mundo que já leu o Gibi conhece isso muito bem.
+[00:12:22:07 --> 00:12:22:27] É o som escrito.
+[00:12:23:05 --> 00:12:27:02] É uma figura que imita ruídos, transforma a linguagem em uma experiência sensorial.
+[00:12:27:07 --> 00:12:29:17] Então, tic-tac, crash, pull, bang...
+[00:12:29:17 --> 00:12:32:16] É super comum nos quadrinhos porque o leitor não precisa ficar interpretando.
+[00:12:32:19 --> 00:12:35:13] Ele literalmente ouve esse som enquanto está lendo.
+[00:12:35:16 --> 00:12:37:21] E é um atalho entre som e o sentido.
+[00:12:37:25 --> 00:12:43:00] Porque ele rompe essa barreira do papel ou da tela e traz essa realidade física para dentro da leitura.
+[00:12:43:04 --> 00:12:45:04] Então, prompte para construir uma onomatopeia.
+[00:12:45:06 --> 00:12:47:14] Transforme qualquer ação em som escrito.
+[00:12:57:01 --> 00:13:04:04] O grande erro aqui é achar que a figura de linguagem serve apenas para enfeitar o texto e escolher qualquer uma delas.
+[00:13:04:07 --> 00:13:08:18] Na verdade, cada figura opera numa camada cognitiva diferente.
+[00:13:08:28 --> 00:13:12:25] E é muito importante você escolher o efeito desejado na hora de escolher a figura de linguagem.
+[00:13:13:01 --> 00:13:14:02] Então, por exemplo, vamos ver aqui.
+[00:13:14:08 --> 00:13:16:28] As figuras de palavra mexem na imaginabilidade.
+[00:13:16:28 --> 00:13:19:29] As figuras de pensamento mexem na interpretação.
+[00:13:20:01 --> 00:13:22:01] As figuras de sintaxe mexem na atenção.
+[00:13:22:07 --> 00:13:24:09] E as figuras de som mexem na memória.
+[00:13:24:13 --> 00:13:27:16] Então, se você, por exemplo, precisa escrever um texto que precisa ser muito claro
+[00:13:27:16 --> 00:13:30:11] e você usa uma hipérbole super forçada,
+[00:13:30:13 --> 00:13:33:16] esse texto vai acabar tirando toda a credibilidade sua.
+[00:13:33:20 --> 00:13:37:22] Agora, se você precisa criar emoção e usa, por exemplo, uma figura de aliteração,
+[00:13:37:23 --> 00:13:38:23] vai parecer um trava-línguas.
+[00:13:38:25 --> 00:13:41:23] Então, é importante entender cada uma dessas camadas cognitivas
+[00:13:41:23 --> 00:13:45:07] para escolher a que melhor cria o efeito que você está querendo no seu texto.
+[00:13:45:07 --> 00:13:49:17] E para usar essas figuras estrategicamente, nós temos mais um framework para você seguir.
+[00:13:49:22 --> 00:13:52:13] Primeiro de tudo, você tem que definir o efeito desejado.
+[00:13:52:14 --> 00:13:55:02] Pensa lá naquelas camadas cognitivas que a gente acabou de ver.
+[00:13:55:05 --> 00:13:57:20] Você quer tornar algo concreto? Pode usar as figuras de palavra.
+[00:13:57:28 --> 00:14:01:24] Você quer gerar tensão ou reflexão? Você pode usar as figuras de pensamento.
+[00:14:01:28 --> 00:14:05:18] Você quer controlar o ritmo e o foco? Você pode usar as figuras de sintaxe.
+[00:14:05:22 --> 00:14:08:13] E se você quer fixar algo na memória, tem as figuras de som.
+[00:14:08:16 --> 00:14:11:01] O segundo passo é escolher uma figura específica.
+[00:14:11:01 --> 00:14:13:26] Então você não vai abrir sua IA e pedir para ela ser criativa.
+[00:14:13:26 --> 00:14:18:02] Você pode simplesmente falar, olha, usa uma anáfora para dar mais ritmo ao meu texto.
+[00:14:18:07 --> 00:14:20:23] E depois você vai testar esse impacto cognitivo.
+[00:14:20:24 --> 00:14:22:06] Então, olha o resultado e pensa.
+[00:14:22:13 --> 00:14:26:00] Essa figura ajudou a entender mais rápido ou ela travou a leitura?
+[00:14:26:02 --> 00:14:28:21] Você tem que entender se esse impacto foi efetivo ou não.
+[00:14:28:24 --> 00:14:32:06] E por último, você vai para o quarto passo de ajustar e cortar.
+[00:14:32:14 --> 00:14:34:19] As figuras de linguagens são como um tempero.
+[00:14:34:20 --> 00:14:39:02] Então, a dose certa pode realçar e o excesso pode estragar completamente o seu texto.
+[00:14:39:07 --> 00:14:41:22] O exercício agora é de análise e também de reescrita.
+[00:14:41:22 --> 00:14:44:03] Pega um texto recente seu e tenta identificar.
+[00:14:44:06 --> 00:14:45:28] Tem alguma camada que está faltando?
+[00:14:46:01 --> 00:14:49:00] O texto está monótono? Está abstrato? Está confuso?
+[00:14:49:05 --> 00:14:51:13] Tem alguma figura de linguagem que eu posso aplicar?
+[00:14:51:14 --> 00:14:53:11] Então escolha uma delas, apenas uma,
+[00:14:53:23 --> 00:14:55:10] correspondente a esse problema que você quer resolver.
+[00:14:55:16 --> 00:14:57:21] Volte para a aula, olha os prompt que eu apresentei para você
+[00:14:57:21 --> 00:15:00:02] e eu tenho certeza que esse texto vai ficar muito melhor.
+[00:15:00:06 --> 00:15:02:14] E lembre-se mais uma vez que figura de linguagem
+[00:15:02:14 --> 00:15:03:14] não é para embelezar o texto,
+[00:15:03:19 --> 00:15:05:06] é para resolver um problema de comunicação.
+[00:15:05:11 --> 00:15:06:05] Te vejo na próxima aula.

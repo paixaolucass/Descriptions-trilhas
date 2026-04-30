@@ -1,0 +1,343 @@
+# Video: [p]_[lxp]_10._atlas_0126_-processos_e_infraestrutura_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 11:56
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:02 --> 00:00:03:04] Se você tá sentindo, né, algumas das coisas que eu vou falar agora...
+[00:00:04:14 --> 00:00:08:24] Eu tô sentindo que é muita coisa pra fazer, que é difícil.
+[00:00:09:26 --> 00:00:12:12] Dois, eu tô sentindo que sozinho eu não dou conta.
+[00:00:13:27 --> 00:00:16:16] Três, eu tô sentindo que tá bem acelerado.
+[00:00:16:17 --> 00:00:18:24] Se você tá sentindo todas essas coisas, eu quero te falar uma coisa.
+[00:00:18:27 --> 00:00:20:14] Primeiro, eu não vou deixar você na mão.
+[00:00:21:05 --> 00:00:22:12] Eu vou te dar opções.
+[00:00:23:08 --> 00:00:26:24] Segundo, o Atlas é uma experiência de imersão intensa,
+[00:00:27:18 --> 00:00:31:20] mas depois você pode continuar aprendendo junto com a gente de várias maneiras diferentes.
+[00:00:31:20 --> 00:00:33:06] E...
+[00:00:35:00 --> 00:00:38:18] Terceiro, eu vou explicar aqui agora um pouco do que a gente fez,
+[00:00:38:19 --> 00:00:41:04] só para a gente recapitular antes de ir para o próximo ponto.
+[00:00:42:10 --> 00:00:46:24] Beleza? Então, vamos fazer isso aqui, que vai ficar tranquilo para vocês.
+[00:00:47:12 --> 00:00:49:23] Primeiro, eu vou compartilhar aqui a minha tela, então.
+[00:00:49:28 --> 00:00:54:18] Nós fizemos várias coisas aqui, expliquei várias coisas para vocês importantes também.
+[00:00:56:19 --> 00:00:58:13] E aí eu quero só recapitular bem rapidinho.
+[00:00:59:23 --> 00:01:04:24] Olha só, de manhã a gente definiu que o modelo do nosso negócio ia ser um modelo diamante,
+[00:01:04:25 --> 00:01:07:22] não um modelo piramidal, que é o modelo antigo.
+[00:01:08:12 --> 00:01:15:00] Isso aqui já é uma decisão importante, que afetou todas as outras decisões seguintes.
+[00:01:15:01 --> 00:01:18:03] Isso aqui já era uma decisão importantíssima, e a gente serviu com ela.
+[00:01:19:16 --> 00:01:20:09] Depois disso...
+[00:01:22:25 --> 00:01:27:15] Depois que nós definimos isso, eu também expliquei um pouco de Tan Sansong agora à tarde,
+[00:01:28:05 --> 00:01:32:00] porque eu gostaria de ter falado isso de manhã, mas eu precisava passar aqueles dados para vocês.
+[00:01:32:16 --> 00:01:34:25] E aí é aqui que a coisa começou a ficar interessante.
+[00:01:35:01 --> 00:01:37:08] Por quê? Quando eu fui mostrar o Tan Sansong para vocês,
+[00:01:37:26 --> 00:01:41:19] a gente teve uma série de ferramentas que eu estou salvando aqui no documento,
+[00:01:42:10 --> 00:01:44:14] que depois vocês vão poder reutilizar.
+[00:01:44:17 --> 00:01:49:22] Olha só, eu estou entregando aqui, está na mão, ferramentas para você utilizar.
+[00:01:49:22 --> 00:01:51:18] inclusive um grande amigo meu
+[00:01:52:06 --> 00:01:53:13] mandou mensagem pra mim
+[00:01:54:04 --> 00:01:55:29] falando, e esse cara é bom
+[00:01:55:29 --> 00:01:58:09] ele tá, é o Luan Detone
+[00:01:59:14 --> 00:02:02:19] Eu estou até pensando, é um convite para o Luan, ele deve estar assistindo aí,
+[00:02:02:20 --> 00:02:06:21] depois trazer o Luan para fazer uma call comigo para a vanguarda,
+[00:02:06:21 --> 00:02:08:24] a gente apresentar o trabalho dele na vanguarda,
+[00:02:08:24 --> 00:02:10:20] não sei se ele ia gostar de apresentar lá,
+[00:02:11:09 --> 00:02:13:08] que é a nossa mentoria mais avançada,
+[00:02:13:09 --> 00:02:15:06] a gente acaba levando pessoas para lá,
+[00:02:15:24 --> 00:02:19:07] mas o Luan, ele é um desenvolvedor que está criando um negócio inteiro
+[00:02:20:02 --> 00:02:22:13] com agentes de AI, e ele está fazendo umas coisas...
+[00:02:24:00 --> 00:02:26:12] absurdas, vocês não tem noção, absurdas
+[00:02:26:12 --> 00:02:28:00] e ele mandou uma mensagem aqui
+[00:02:28:00 --> 00:02:28:27] que ele está
+[00:02:30:04 --> 00:02:31:15] formatando isso que a gente está fazendo
+[00:02:31:15 --> 00:02:33:27] em um mega prompt de analista
+[00:02:33:27 --> 00:02:36:00] de mercado e um prompt de definição de CP
+[00:02:36:21 --> 00:02:37:28] bem legal, de repente
+[00:02:37:28 --> 00:02:40:05] eu vou ver depois, não consegui ver ainda
+[00:02:40:05 --> 00:02:41:14] ele só me mandou uma mensagem
+[00:02:41:14 --> 00:02:44:02] de repente a gente vai trazer amanhã pra vocês aqui
+[00:02:44:02 --> 00:02:45:22] vou falar com ele
+[00:02:45:22 --> 00:02:47:21] mas não trazer ele
+[00:02:47:21 --> 00:02:49:23] trazer aqui o prompt dele, eu não vou colocar
+[00:02:49:23 --> 00:02:52:09] impressão desnecessária assim, de uma hora pra outra
+[00:02:53:19 --> 00:02:54:24] Mas, então, o que a gente fez?
+[00:02:54:29 --> 00:02:56:09] Eu entreguei as ferramentas aqui.
+[00:02:56:13 --> 00:02:57:24] Olha só o que eu já te entreguei.
+[00:02:58:03 --> 00:03:00:28] Uma ferramenta aqui, na verdade, foi um...
+[00:03:00:28 --> 00:03:01:22] Deixa eu ver.
+[00:03:04:12 --> 00:03:08:27] Aqui está o prompt e até porque aqui eu coloquei, isso aqui tem que ficar em vermelho.
+[00:03:11:01 --> 00:03:12:28] Só para vocês saberem que ali fui eu que...
+[00:03:12:28 --> 00:03:14:10] Isso não faz parte do prompt, né?
+[00:03:15:02 --> 00:03:16:12] Foi a minha variável aqui.
+[00:03:18:27 --> 00:03:20:18] Vai e abre.
+[00:03:22:00 --> 00:03:24:27] Então essa variável aqui você edita depois para o seu caso.
+[00:03:24:29 --> 00:03:28:05] Mas eu te dei aqui uma noção do que você pode pesquisar
+[00:03:28:05 --> 00:03:30:00] para entender o seu mercado.
+[00:03:30:15 --> 00:03:33:05] Só que isso não é suficiente, isso deixa você muito...
+[00:03:34:25 --> 00:03:35:06] É...
+[00:03:37:09 --> 00:03:40:18] aberto, né? Caraca, milhões de reais, como é que eu pego minha parte?
+[00:03:41:06 --> 00:03:44:04] Então o Tan Sansom, ele foi uma ferramenta que eu deixei aqui para vocês,
+[00:03:45:05 --> 00:03:47:23] depois pesquisarem mais, expliquei o que que era e estava aí.
+[00:03:47:28 --> 00:03:52:06] O IMA de Problemas é um prompt aqui para ajudar vocês a identificar o problema do cliente de vocês,
+[00:03:52:09 --> 00:03:54:00] isso aqui vai ajudar vocês a vender muito mais.
+[00:03:55:23 --> 00:03:57:21] E já está aqui, a gente definiu também, poderoso.
+[00:03:58:10 --> 00:04:01:08] Definição de CP também, outra ferramenta que a gente deixou aqui.
+[00:04:01:09 --> 00:04:03:22] Vocês podem copiar e fazer o de vocês.
+[00:04:04:02 --> 00:04:07:21] Só que eu entendo que vocês estão, será que é um olho no gato e outro no peixe, né?
+[00:04:07:22 --> 00:04:11:00] Será que eu faço ou será que eu olho o Juan aqui, porque o Juan acelerou e eu tenho que acompanhar?
+[00:04:11:08 --> 00:04:11:25] Eu entendo.
+[00:04:12:07 --> 00:04:16:02] O bom é que vocês vão poder continuar isso aqui, depois, quando acabar aqui de noite,
+[00:04:16:03 --> 00:04:18:23] se vocês quiserem, vocês podem continuar amanhã de manhã, antes do evento de novo,
+[00:04:18:23 --> 00:04:23:00] vocês podem mexer mais algumas coisas e vir mais prontos para os próximos detalhes, tá?
+[00:04:23:15 --> 00:04:25:12] Mas eu tenho que avançar, nós temos dois dias.
+[00:04:26:12 --> 00:04:31:25] É bom eu colocar aqui como expectativa que não dá para criar um negócio inteiro pensando em infraestrutura
+[00:04:32:09 --> 00:04:34:14] em um fim de semana, você cria a validação dele.
+[00:04:34:18 --> 00:04:36:24] E é o que nós estamos fazendo aqui para vocês, tá bom?
+[00:04:37:23 --> 00:04:40:03] Também fizemos a tese de valor, que isso aqui é o ouro.
+[00:04:40:05 --> 00:04:44:05] É aqui que está a síntese do que a gente vai construir agora.
+[00:04:44:11 --> 00:04:45:08] Só que aí vem a questão.
+[00:04:46:02 --> 00:04:47:00] Vem da hora aqui, beleza.
+[00:04:47:13 --> 00:04:49:03] Vem a questão importante, que é a seguinte.
+[00:04:49:28 --> 00:04:53:24] Tá, beleza, mas o que realmente a gente vai oferecer, Juan?
+[00:04:53:24 --> 00:04:55:19] Não entendi por que isso é do futuro.
+[00:04:56:03 --> 00:04:59:05] Só para deixar isso bem mapeado aqui de uma vez por todas.
+[00:04:59:21 --> 00:05:03:09] Nós vamos oferecer infraestrutura para as pessoas.
+[00:05:04:20 --> 00:05:07:01] Se você é, por exemplo, designer de marcas,
+[00:05:07:01 --> 00:05:08:18] ao invés de oferecer identidade visual,
+[00:05:08:21 --> 00:05:09:25] você vai oferecer infraestrutura.
+[00:05:10:10 --> 00:05:12:25] Deixa eu dar um exemplo para vocês, é uma provinha.
+[00:05:13:18 --> 00:05:15:21] Amanhã eu vou falar mais sobre infraestrutura.
+[00:05:16:02 --> 00:05:18:18] Vocês vão ficar chocados aqui agora, mas uma provinha.
+[00:05:19:01 --> 00:05:21:06] Dá uma olhada aqui nessa documentação.
+[00:05:21:06 --> 00:05:22:26] O livro de Groove.
+[00:05:23:18 --> 00:05:25:25] Deixa eu ver aqui, ele não apareceu aqui.
+[00:05:25:28 --> 00:05:26:27] Vou colocar no Google Drive.
+[00:05:27:18 --> 00:05:29:27] O livro de Groove da Overlens.
+[00:05:30:01 --> 00:05:33:11] O livro de Groove da Overlens.
+[00:05:34:25 --> 00:05:38:01] Isso aqui é uma documentação inteira que nós montamos
+[00:05:38:21 --> 00:05:41:13] da nossa operação de receita dentro da Overlens.
+[00:05:42:03 --> 00:05:45:11] A gente tem também o Overview, deixa eu ver se eu consigo pegar ele aqui.
+[00:05:46:01 --> 00:05:49:01] Acho que ele vai estar na outra aba aqui, eu estou tentando pegar nessa,
+[00:05:49:04 --> 00:05:50:07] mas ele não está aparecendo.
+[00:05:53:18 --> 00:05:56:17] Vou pegar aqui para vocês, para não ter que ficar compartilhando o drive também.
+[00:05:56:28 --> 00:05:58:21] A gente tem o overview da Overlens.
+[00:05:59:07 --> 00:06:01:06] Esse overview aqui é uma documentação.
+[00:06:01:06 --> 00:06:04:09] Por que a Overlens existe, cuidados e riscos, qual é o preço,
+[00:06:04:15 --> 00:06:08:02] linha do tempo da história da Overlens, nossos princípios,
+[00:06:09:06 --> 00:06:11:08] organograma, que esse é o organograma atual da Overlens.
+[00:06:11:12 --> 00:06:13:01] Está faltando dois nomes aqui, né?
+[00:06:13:04 --> 00:06:15:03] Vou colocar o oficial aqui para vocês verem.
+[00:06:16:06 --> 00:06:19:24] Organograma da empresa, documentação, então esses aqui são todos os documentos.
+[00:06:20:00 --> 00:06:23:06] Quando você cria infraestrutura, ninguém vê, isso é invisível.
+[00:06:23:20 --> 00:06:24:15] Ninguém vê isso aqui.
+[00:06:26:01 --> 00:06:28:17] Mas a sua empresa constrói e você começa a ter mais resultados,
+[00:06:28:19 --> 00:06:31:23] mais consistência, você consegue fazer muito mais
+[00:06:31:23 --> 00:06:34:21] mantendo a qualidade, se preparando para o futuro.
+[00:06:35:01 --> 00:06:38:07] É isso aqui que eu quero oferecer para os clientes ali.
+[00:06:38:14 --> 00:06:41:01] Eles estão com aquelas dores de conteúdo, de mercado,
+[00:06:41:02 --> 00:06:43:10] está aqui o nosso organograma, está vendo?
+[00:06:43:18 --> 00:06:45:03] Essa é a equipe atual da Overlens.
+[00:06:45:25 --> 00:06:48:14] Então a gente tem aqui o Davi, a Thaís, o Matheus, o Lucas,
+[00:06:48:16 --> 00:06:51:22] o André, a Luísa, o Eduardo, o Fernando, o Rafael
+[00:06:52:05 --> 00:06:53:24] e eu aqui como CEO.
+[00:06:53:24 --> 00:06:56:07] E aqui é a estrutura da equipe interna, tá?
+[00:06:56:10 --> 00:06:58:04] A gente tem também parceiros externos.
+[00:06:58:04 --> 00:07:00:01] O Vini, por exemplo, que está aqui hoje com a gente.
+[00:07:00:04 --> 00:07:01:16] Tem o Matheus Scopel também.
+[00:07:01:27 --> 00:07:04:18] Tem uma galera que a gente colabora juntos.
+[00:07:05:11 --> 00:07:07:10] Então, não vou ficar citando todo mundo aqui,
+[00:07:07:13 --> 00:07:09:12] porque senão eu vou esquecer alguém.
+[00:07:09:21 --> 00:07:10:16] Eu sempre esqueço.
+[00:07:11:12 --> 00:07:13:01] Mas isso aqui é infraestrutura.
+[00:07:13:07 --> 00:07:15:18] Quando você organiza essa infraestrutura para uma empresa,
+[00:07:15:19 --> 00:07:15:29] o que acontece?
+[00:07:16:28 --> 00:07:19:06] Pensem o seguinte, pensem para mim aqui na Overlens,
+[00:07:19:07 --> 00:07:20:29] que eu já tenho toda essa infraestrutura.
+[00:07:20:29 --> 00:07:24:06] Olha só, eu tenho toda a definição aqui de segmento,
+[00:07:24:06 --> 00:07:28:12] Tan Sanson da Overlens, público-alvo, tem tudo aqui,
+[00:07:28:13 --> 00:07:32:28] perfil ideal de cliente, nós temos também nossas personas bem definidas.
+[00:07:32:29 --> 00:07:34:24] Olha, eu posso até conversar com o Bruninho aqui.
+[00:07:35:21 --> 00:07:39:14] Eu criei uma persona dele e aí qualquer comunicação que a gente faz,
+[00:07:39:21 --> 00:07:41:10] a gente qualifica em um perfil.
+[00:07:41:12 --> 00:07:44:06] Esse aqui é o perfil de vanguarda, por exemplo.
+[00:07:44:28 --> 00:07:47:17] Então tem toda a persona dela aqui, da Lili.
+[00:07:47:20 --> 00:07:50:18] A Lili é uma persona, uma representação de um público.
+[00:07:51:10 --> 00:07:52:26] isso tudo é documentação
+[00:07:52:26 --> 00:07:54:24] quando você cria essa documentação
+[00:07:54:24 --> 00:07:56:29] aqui, entrega pro seu cliente
+[00:07:56:29 --> 00:07:58:21] o que que começa a acontecer? Vou dar um
+[00:07:58:21 --> 00:08:00:17] exemplo pra vocês. Se eu preciso
+[00:08:00:17 --> 00:08:02:14] usar um chat GPT o mais cru possível
+[00:08:02:14 --> 00:08:04:25] não precisa nem de processos e automações
+[00:08:04:25 --> 00:08:06:04] demais, o mais cru aqui possível
+[00:08:06:04 --> 00:08:08:07] se eu subo aqui nele
+[00:08:08:07 --> 00:08:10:03] direto do meu Google Drive mesmo
+[00:08:10:03 --> 00:08:11:26] um overview da Overlens
+[00:08:11:26 --> 00:08:14:19] se eu subo aqui nele, documentação de
+[00:08:14:19 --> 00:08:16:18] branding, se eu subo aqui nele, documentação
+[00:08:16:18 --> 00:08:18:21] de growth, tom de
+[00:08:18:21 --> 00:08:20:27] voz, identidade
+[00:08:20:27 --> 00:08:23:08] visual, ele vai compreender
+[00:08:23:08 --> 00:08:25:03] tão precisamente o que é
+[00:08:25:03 --> 00:08:26:25] a minha empresa, que a
+[00:08:26:25 --> 00:08:28:29] comunicação vai ficar bizarramente
+[00:08:28:29 --> 00:08:30:15] precisa, boa,
+[00:08:31:05 --> 00:08:32:02] com autenticidade.
+[00:08:32:20 --> 00:08:34:26] Então o que eu quero oferecer aqui pro cliente,
+[00:08:34:26 --> 00:08:36:14] que ele paga 5 mil reais, é
+[00:08:36:14 --> 00:08:39:01] eu vou fazer um diagnóstico do negócio dele, mapear
+[00:08:39:01 --> 00:08:40:01] o tom de voz, mapear
+[00:08:40:01 --> 00:08:42:27] o negócio dele, criar
+[00:08:42:27 --> 00:08:44:27] essa documentação dele focada
+[00:08:44:27 --> 00:08:46:22] em conteúdo, então é uma documentação
+[00:08:46:22 --> 00:08:48:21] de conteúdo, incluindo os
+[00:08:48:21 --> 00:08:50:27] processos de conteúdo exclusivos
+[00:08:50:27 --> 00:08:52:17] dele, com a equipe que ele tem no contexto
+[00:08:52:17 --> 00:08:54:09] dele, e eu vou
+[00:08:54:09 --> 00:08:56:15] arquitetar dentro de cada processo
+[00:08:56:15 --> 00:08:58:10] os procedimentos
+[00:08:58:10 --> 00:09:00:19] operacionais dele. Então eu vou ter uma
+[00:09:00:19 --> 00:09:02:16] instrução para cada
+[00:09:02:16 --> 00:09:04:21] etapa, uma instrução para pesquisa, uma instrução
+[00:09:04:21 --> 00:09:05:00] para
+[00:09:07:04 --> 00:09:08:18] escrita da cópia do conteúdo,
+[00:09:08:20 --> 00:09:10:13] uma instrução para o conteúdo
+[00:09:10:13 --> 00:09:12:03] de imagem, uma instrução
+[00:09:12:03 --> 00:09:14:24] para poder fazer a revisão
+[00:09:14:24 --> 00:09:16:24] desse conteúdo, uma instrução
+[00:09:16:24 --> 00:09:18:25] para cada. Com essas instruções,
+[00:09:18:26 --> 00:09:20:22] com esse pacote de instruções, mais
+[00:09:20:22 --> 00:09:22:19] os templates, mais a documentação,
+[00:09:22:19 --> 00:09:24:26] esse cliente já vai conseguir produzir
+[00:09:24:26 --> 00:09:27:00] muito mais, mesmo que ele nem tenha
+[00:09:27:00 --> 00:09:28:28] uma automação. Eu dei
+[00:09:28:28 --> 00:09:30:28] clareza para ele. E esse
+[00:09:30:28 --> 00:09:32:25] é o futuro. Nós analisamos os
+[00:09:32:25 --> 00:09:34:28] dados e vimos o quê? Nós percebemos
+[00:09:36:20 --> 00:09:38:13] As pessoas estão sem infraestrutura,
+[00:09:38:13 --> 00:09:39:22] correndo risco reputacional,
+[00:09:40:04 --> 00:09:41:12] usando IA de qualquer jeito.
+[00:09:41:20 --> 00:09:44:16] Quem constrói base de infraestrutura,
+[00:09:44:16 --> 00:09:45:06] sai na frente.
+[00:09:45:09 --> 00:09:48:10] Por que eu falo que 2026 é o ano dos criadores silenciosos?
+[00:09:48:11 --> 00:09:50:06] Porque a infraestrutura é invisível.
+[00:09:50:20 --> 00:09:52:13] Ninguém vê seu concorrente fazendo isso,
+[00:09:52:13 --> 00:09:53:17] até que ele dispare,
+[00:09:53:17 --> 00:09:56:06] você não entende por que as coisas estão dando tão certo para ele
+[00:09:56:06 --> 00:09:57:07] e não dá para você.
+[00:09:57:13 --> 00:09:59:12] Você está estafado, tentando fazer tudo,
+[00:09:59:13 --> 00:10:00:18] não dá conta de fazer tudo,
+[00:10:00:19 --> 00:10:01:14] e aí, pum!
+[00:10:03:23 --> 00:10:07:17] você acaba desistindo ou ficando muito difícil, né?
+[00:10:08:05 --> 00:10:11:07] Esse é o grande problema que a gente vai resolver no nosso core principal.
+[00:10:13:08 --> 00:10:14:26] Muitas pessoas precisam disso.
+[00:10:15:01 --> 00:10:19:03] E documentação, se você tem uma visão clara, você consegue entregar.
+[00:10:19:06 --> 00:10:22:22] Parte boa, vão ter pessoas aqui que vão falar assim...
+[00:10:25:06 --> 00:10:27:03] Eu vou responder a pergunta ali da Ana, tá?
+[00:10:27:06 --> 00:10:28:00] Até deixar aqui, ó.
+[00:10:29:03 --> 00:10:29:15] para eu responder.
+[00:10:30:26 --> 00:10:33:11] Mas, eu até perdi o que eu ia trazer,
+[00:10:33:13 --> 00:10:34:15] eu vou pegar a pergunta dela então,
+[00:10:34:16 --> 00:10:36:18] que me desviou, mas é uma pergunta boa,
+[00:10:36:21 --> 00:10:37:17] por isso que eu quero responder.
+[00:10:37:21 --> 00:10:39:23] Ela falou, não entendi porque toda essa infraestrutura
+[00:10:39:23 --> 00:10:40:26] vai custar mais barato,
+[00:10:41:00 --> 00:10:43:05] sendo que já é uma ferramenta muito robusta.
+[00:10:44:08 --> 00:10:45:13] Ana, é aí que está,
+[00:10:45:16 --> 00:10:48:25] eu não vou entregar automação para a pessoa,
+[00:10:48:28 --> 00:10:50:17] mas essa sensação que você teve,
+[00:10:51:12 --> 00:10:52:20] é uma sensação boa,
+[00:10:53:08 --> 00:10:55:05] para construir a oferta e conseguir fechar.
+[00:10:55:09 --> 00:10:56:07] A pessoa vai falar, cara,
+[00:10:56:10 --> 00:10:57:29] você está me entregando algo muito valioso,
+[00:10:58:12 --> 00:11:00:21] por 5 mil reais, 5 a 10 mil reais,
+[00:11:00:26 --> 00:11:03:02] Pode ser até 15 mil reais ali pra esse perfil.
+[00:11:03:06 --> 00:11:05:03] Mas você tá me entregando algo muito bom
+[00:11:05:03 --> 00:11:06:16] e eu quero comprar de você.
+[00:11:06:25 --> 00:11:09:11] Isso chama estratégia de cavalo, de troia.
+[00:11:09:11 --> 00:11:10:26] Já fiz muito essa estratégia.
+[00:11:10:26 --> 00:11:13:05] É quase um presente que você tá dando pra pessoa
+[00:11:13:05 --> 00:11:13:28] conhecer seu trabalho.
+[00:11:14:06 --> 00:11:15:28] Só que o trabalho que você vai ter ali
+[00:11:15:28 --> 00:11:17:27] não é tão grande quanto você pensa.
+[00:11:18:00 --> 00:11:18:12] Por quê?
+[00:11:18:24 --> 00:11:22:22] Depois que você define as suas instruções de conteúdo,
+[00:11:23:01 --> 00:11:25:07] você cria a sua própria estrutura
+[00:11:25:07 --> 00:11:28:05] e você só precisa adaptar ela pro contexto do cliente.
+[00:11:28:05 --> 00:11:32:10] De verdade, você não vai gastar tanto tempo para fazer isso na segunda vez.
+[00:11:32:12 --> 00:11:32:29] Só na primeira.
+[00:11:33:17 --> 00:11:36:15] E aí você ganha essa vantagem competitiva.
+[00:11:36:15 --> 00:11:38:04] Por isso que infraestrutura é tão poderosa.
+[00:11:38:18 --> 00:11:40:08] Aí você começa a oferecer isso para os clientes.
+[00:11:40:09 --> 00:11:41:27] É fácil vender quatro por mês.
+[00:11:41:29 --> 00:11:43:02] Você consegue até mais de quatro.
+[00:11:43:09 --> 00:11:46:06] Só que, como você precisa estruturar sua equipe,
+[00:11:46:07 --> 00:11:47:29] eu não recomendo vender tantos de uma vez.
+[00:11:48:21 --> 00:11:49:28] Vai escalando o negócio.
+[00:11:51:00 --> 00:11:54:20] Então, é uma estrutura simples de agência, de entrega,
+[00:11:54:20 --> 00:11:56:04] que você começa pela clareza.
+[00:11:56:04 --> 00:12:00:05] Eu acredito que o futuro não é simplesmente você chegar no negócio e escrever um briefing.
+[00:12:00:18 --> 00:12:02:02] Não é isso que ia acontecer antes.
+[00:12:02:06 --> 00:12:05:02] Você escreve um briefing com o cliente numa reunião,
+[00:12:05:05 --> 00:12:06:25] pega esse briefing e faz o conteúdo.
+[00:12:06:29 --> 00:12:08:25] Cara, eu não acredito nisso, eu acredito em cocriação.
+[00:12:08:27 --> 00:12:10:26] Só que para isso precisa de documentação.
+[00:12:11:14 --> 00:12:13:04] Aqui nós vamos entregar documentação.
+[00:12:13:19 --> 00:12:16:23] Agora, o que eu estou falando aqui do livro de Growth, o livro de Marketing,
+[00:12:17:05 --> 00:12:19:24] todas as personas, isso é o nosso serviço premium.
+[00:12:20:08 --> 00:12:24:12] É o seu serviço que você vai cobrar ali 30, 50, 60 mil reais,
+[00:12:25:04 --> 00:12:26:15] dependendo do tamanho da empresa
+[00:12:26:15 --> 00:12:28:02] e dependendo do seu escopo.
+[00:12:28:02 --> 00:12:30:02] Se você vai trabalhar, por exemplo, seis meses,
+[00:12:30:06 --> 00:12:32:21] dá para cobrar ali 60 mil, por exemplo,
+[00:12:33:05 --> 00:12:35:02] 10 mil por mês para estruturar tudo,
+[00:12:35:03 --> 00:12:36:17] depende do tamanho da empresa também.
+[00:12:39:17 --> 00:12:41:11] Quem quiser saber depois,
+[00:12:41:25 --> 00:12:43:15] vou só dar um spoiler pra vocês,
+[00:12:43:17 --> 00:12:45:10] amanhã eu vou explicar
+[00:12:45:10 --> 00:12:47:14] como algumas pessoas, não vai ser
+[00:12:47:14 --> 00:12:48:23] todo mundo que vai conseguir isso, porque
+[00:12:48:23 --> 00:12:51:16] pra construir essa documentação da Overlens, a gente investiu
+[00:12:51:16 --> 00:12:52:20] mais de 80 mil reais.
+[00:12:53:07 --> 00:12:55:19] A gente investiu muito pra criar nossos processos.
+[00:12:55:20 --> 00:12:57:14] Olha só que interessante, vou mostrar aqui
+[00:12:57:14 --> 00:12:59:07] porque às vezes não fica tangibilizado
+[00:12:59:07 --> 00:13:01:25] pra maioria das pessoas. Mas nós investimos
+[00:13:01:25 --> 00:13:03:13] em construção de clareza.
+[00:13:03:14 --> 00:13:05:23] Mais de 80 mil reais aqui dentro da Overlens.
+[00:13:06:11 --> 00:13:07:22] Olha só essa...
+[00:13:09:27 --> 00:13:12:00] Essa documentação aqui, vou compartilhar com vocês.
+[00:13:12:13 --> 00:13:13:23] Deixa eu só pegá-la certinho.
+[00:13:16:01 --> 00:13:17:10] É aqui que a galera começa a pirar.
+[00:13:17:12 --> 00:13:19:24] Mas eu não posso ir para o avançado assim logo de cara.
+[00:13:20:20 --> 00:13:21:02] Beleza?
+[00:13:21:07 --> 00:13:24:13] Não faz sentido eu já pular lá para o avançado se vocês não têm clareza.
+[00:13:24:21 --> 00:13:26:24] Mas dá só uma olhada nessa estrutura aqui.
+[00:13:27:03 --> 00:13:29:15] Isso aqui é um template de processos no ClickUp.
+[00:13:30:00 --> 00:13:35:13] E ele já vem todo mapeado aqui as etapas da campanha.
+[00:13:35:14 --> 00:13:36:00] Todas elas.
+[00:13:36:06 --> 00:13:37:15] Tudo mapeado aqui para mim.
+[00:13:38:00 --> 00:13:40:03] Quando que cada etapa acontece aqui.
+[00:13:41:11 --> 00:13:42:22] Como eu tenho isso tudo mapeado,
+[00:13:42:24 --> 00:13:44:29] eu consigo replicar depois.
+[00:13:48:12 --> 00:13:49:18] Perdi a linha aqui, está para cima.
+[00:13:50:29 --> 00:13:53:14] Cadê? Ué, o que aconteceu aqui, gente?
+[00:13:55:18 --> 00:13:55:28] Aqui, ó.
+[00:13:57:07 --> 00:13:57:19] Ah...
+[00:13:58:21 --> 00:14:01:14] Só voltar para o hoje aqui.
+[00:14:04:20 --> 00:14:06:24] Por algum motivo ele foi sumido aqui, ó. Chegou.
+[00:14:07:14 --> 00:14:11:13] Como eu já tenho mapeado todas as tarefas para fazer em cada dia, né?
+[00:14:11:16 --> 00:14:13:01] Eu posso ir avançando nelas aqui.
+[00:14:13:15 --> 00:14:16:28] Eu consigo replicar isso aqui para cada dia, um dia depois do outro.
+[00:14:18:06 --> 00:14:20:15] Isso aqui é um template de processos
+[00:14:20:15 --> 00:14:22:09] que a gente segue dentro do ClickUp,
+[00:14:22:10 --> 00:14:23:09] mas é mais avançado.
+[00:14:23:12 --> 00:14:24:21] Se eu trago isso aqui agora,
+[00:14:24:21 --> 00:14:26:19] não vai fazer tanto sentido para muitos de vocês,
+[00:14:26:23 --> 00:14:28:22] mas eu tenho dependências de tarefas,
+[00:14:28:22 --> 00:14:30:22] eu tenho todo um fluxo organizado.
+[00:14:31:06 --> 00:14:33:01] O que vocês precisam saber é isso aqui.
+[00:14:33:06 --> 00:14:34:27] E eu vou dar o caminho para vocês agora,
+[00:14:34:28 --> 00:14:36:03] antes da gente ir para o site,
+[00:14:36:25 --> 00:14:38:19] a gente vai começar a construção aqui
+[00:14:38:19 --> 00:14:42:21] da copy, da oferta que nós vamos construir para validar.

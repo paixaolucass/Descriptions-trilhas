@@ -1,0 +1,529 @@
+# Video: Aula 13 _ Como Lidar com Objeções de Clientes (Framework VAP).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-27 19:10
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:04 --> 00:00:02:08] Então, vocês viram como o processo funciona na prática.
+[00:00:02:14 --> 00:00:05:12] Agora vamos entrar nos pontos que mais geram ansiedade.
+[00:00:05:12 --> 00:00:08:20] Pelo menos comigo, muitas coisas eu levava para o pessoal.
+[00:00:08:23 --> 00:00:12:18] Eu não entendia que o cliente estava tão perdido quanto eu.
+[00:00:12:28 --> 00:00:14:22] Então, são essas objeções.
+[00:00:14:25 --> 00:00:15:25] Como a gente lida com ela.
+[00:00:16:12 --> 00:00:20:24] Então, eu quero que vocês mudem a forma que vocês olham para essas objeções.
+[00:00:21:09 --> 00:00:22:08] Ela não é inimiga.
+[00:00:22:19 --> 00:00:25:18] Ela não é o cliente tentando te derrubar ou criticando o seu trabalho.
+[00:00:25:29 --> 00:00:27:16] A objeção é só o cliente dizendo
+[00:00:27:16 --> 00:00:29:15] eu preciso de mais clareza
+[00:00:29:15 --> 00:00:30:21] antes de tomar uma decisão
+[00:00:31:21 --> 00:00:33:21] então vamos para mais um framework
+[00:00:33:21 --> 00:00:35:15] aqui, eu chamo ele de VAP
+[00:00:35:15 --> 00:00:37:21] e esse aqui é mais uma coisa
+[00:00:37:21 --> 00:00:39:13] que é do Alex Hormozzi, que é o mesmo
+[00:00:39:13 --> 00:00:41:12] cara lá do 100 Million Offers
+[00:00:41:12 --> 00:00:42:10] da equação de valor
+[00:00:42:10 --> 00:00:45:10] ele tem muitos frameworks muito bons para vendas
+[00:00:45:27 --> 00:00:47:16] eu sempre chamei ele de
+[00:00:47:16 --> 00:00:49:12] 3As, que é o termo que ele usa
+[00:00:49:12 --> 00:00:50:27] só que para trazer aqui
+[00:00:50:27 --> 00:00:52:13] para essa aula
+[00:00:52:13 --> 00:00:55:08] eu quis trazer algo mais fácil de lembrar, algo em português
+[00:00:55:08 --> 00:00:56:25] o 3As ele é
+[00:00:56:25 --> 00:00:59:27] É acknowledge, associate and ask.
+[00:01:00:04 --> 00:01:04:07] Então, é mais ou menos reconhecer, associar e perguntar.
+[00:01:04:07 --> 00:01:07:27] Mas eu troquei aqui para validar, associar e perguntar.
+[00:01:09:02 --> 00:01:11:20] Então, vamos ver o que é cada um desses passos primeiro.
+[00:01:12:24 --> 00:01:16:24] Então, validar é você aceitar a objeção do cliente como algo legítimo.
+[00:01:16:25 --> 00:01:19:24] Não é confrontar, não é desmerecer, não é diminuir o cliente.
+[00:01:19:24 --> 00:01:23:27] É algo muito mais respeitoso e você abre espaço para você avançar.
+[00:01:24:03 --> 00:01:26:09] Então, se o cliente fala, poxa, eu preciso pensar mais.
+[00:01:26:09 --> 00:01:28:18] eu falei, claro, é natural, queria pensar
+[00:01:28:18 --> 00:01:29:17] antes de tomar uma decisão importante
+[00:01:30:10 --> 00:01:32:12] então você não vai xingar o cliente burro
+[00:01:32:12 --> 00:01:34:12] não vai falar, meu Deus, você não entendeu ainda do meu processo
+[00:01:34:12 --> 00:01:36:19] não vai direto, eu sei que nem é todo mundo
+[00:01:36:19 --> 00:01:38:15] que faz isso, mas a gente já por dentro
+[00:01:38:15 --> 00:01:40:15] tá pensando às vezes, meu Deus, cara, como
+[00:01:40:15 --> 00:01:42:14] você não entendeu, você precisa pensar, eu tô fazendo
+[00:01:42:14 --> 00:01:44:24] a melhor oferta pra você aqui, então valida
+[00:01:46:22 --> 00:01:48:14] entenda a objeção como algo
+[00:01:48:14 --> 00:01:50:01] legítimo e é normal, é natural
+[00:01:50:12 --> 00:01:52:09] muitas vezes você tá fazendo todo
+[00:01:52:09 --> 00:01:54:10] esse diagnóstico que a gente mostrou aqui, esse processo
+[00:01:54:10 --> 00:01:56:27] É a primeira vez que a gente está passando por isso.
+[00:01:57:00 --> 00:01:58:06] Então, você mesmo está...
+[00:01:58:06 --> 00:02:00:00] O processo é meio terapêutico ali,
+[00:02:00:19 --> 00:02:05:01] sem banalizar o trabalho do psicólogo, do terapeuta,
+[00:02:05:01 --> 00:02:08:07] mas é um processo de você navegar o cliente
+[00:02:08:07 --> 00:02:10:12] e fazê-lo chegar nessas próprias conclusões.
+[00:02:10:16 --> 00:02:11:15] E demora mesmo.
+[00:02:11:19 --> 00:02:12:25] Se você já fez terapia, você sabe,
+[00:02:12:26 --> 00:02:15:10] quando você sai dessa conversa,
+[00:02:15:11 --> 00:02:17:07] você está meio ajustando a rota, sabe?
+[00:02:17:09 --> 00:02:18:24] Então, é normal querer pensar,
+[00:02:18:28 --> 00:02:21:01] é normal ter objeções, então valida isso primeiro.
+[00:02:21:23 --> 00:02:23:07] Depois, a gente associa.
+[00:02:24:03 --> 00:02:28:20] Então, a gente pega esse problema, essa objeção que o cliente fez, que ele falou,
+[00:02:28:23 --> 00:02:33:12] a gente conecta com uma coisa mais racional ou a gente cria uma coisa que a gente chama de espantalho,
+[00:02:33:12 --> 00:02:40:25] que é pegar um cliente que pode ser existente ou não e você conecta esse problema, essa dúvida com esse cliente.
+[00:02:40:25 --> 00:02:45:06] Então, dá para você dizer algo assim, nossos melhores clientes disseram a mesma coisa no começo,
+[00:02:45:12 --> 00:02:48:06] isso mostra que você se preocupa em investir de forma consciente.
+[00:02:48:11 --> 00:02:50:26] E por que a gente fala disso? Por dois motivos.
+[00:02:50:26 --> 00:02:53:15] A primeira coisa é que a gente tira essa carga negativa da objeção,
+[00:02:53:17 --> 00:02:57:07] então a gente não está confrontando esse cliente logo de cara,
+[00:02:57:07 --> 00:02:59:12] a gente está usando um outro exemplo de outra pessoa que falou,
+[00:02:59:17 --> 00:03:01:20] então nisso a gente já está tirando essa comparação.
+[00:03:02:00 --> 00:03:06:15] E a segunda coisa é que aqui você está mostrando que os clientes que você está trabalhando,
+[00:03:06:19 --> 00:03:09:28] que os clientes que já fecharam projetos com você, que já tem case de sucesso,
+[00:03:10:24 --> 00:03:12:06] eles também pensaram a mesma coisa.
+[00:03:12:13 --> 00:03:15:04] Então o cliente já se coloca numa posição de,
+[00:03:15:04 --> 00:03:16:21] de, ah, entendi, então
+[00:03:18:11 --> 00:03:19:05] as pessoas
+[00:03:19:05 --> 00:03:21:03] que trabalharam com ele também tinham essas dúvidas, quer dizer
+[00:03:21:03 --> 00:03:23:06] então que elas tinham essas dúvidas e mesmo assim
+[00:03:23:06 --> 00:03:25:15] prosseguiram, mesmo assim elas continuaram
+[00:03:25:15 --> 00:03:27:04] e essa dúvida
+[00:03:27:04 --> 00:03:28:23] de algum jeito foram sanadas, né?
+[00:03:29:06 --> 00:03:31:03] E aí depois de fazer isso, você vai
+[00:03:31:03 --> 00:03:33:03] perguntar, então você vai levar a conversa adiante
+[00:03:33:03 --> 00:03:35:03] com uma pergunta, conduzir para uma pergunta mais
+[00:03:35:03 --> 00:03:37:06] aberta, para revelar de fato
+[00:03:37:06 --> 00:03:39:02] qual que é o maior problema aqui, né? Porque às vezes
+[00:03:39:02 --> 00:03:41:00] essa objeção, ela é uma maquiagem
+[00:03:41:00 --> 00:03:43:01] assim, é um espantalho também que o cliente criou
+[00:03:43:01 --> 00:03:44:12] pode ser uma desculpinha
+[00:03:44:12 --> 00:03:46:18] mas pode ser aquele obstáculo lá atrás
+[00:03:46:18 --> 00:03:48:10] que a gente viu, que é algo que está
+[00:03:49:02 --> 00:03:50:08] impedindo o cliente de prosseguir
+[00:03:50:23 --> 00:03:52:22] então, mais uma vez, quem faz
+[00:03:52:22 --> 00:03:54:13] essas perguntas, controla a direção
+[00:03:54:13 --> 00:03:55:27] sem imposição
+[00:03:56:15 --> 00:03:58:03] então, por exemplo, você pode perguntar
+[00:03:58:03 --> 00:04:00:27] tá, mas o que exatamente faria você se sentir seguro
+[00:04:00:27 --> 00:04:02:02] para seguir em frente hoje?
+[00:04:02:13 --> 00:04:04:17] ou qual detalhe que ainda não está claro
+[00:04:04:17 --> 00:04:05:29] o suficiente, ou
+[00:04:06:19 --> 00:04:09:06] que você gostaria que eu explicasse em mais detalhes
+[00:04:09:06 --> 00:04:10:24] para que essa decisão seja
+[00:04:10:24 --> 00:04:12:01] óbvia para você
+[00:04:12:01 --> 00:04:12:04] É isso aí.
+[00:04:13:05 --> 00:04:19:05] Então, aqui nós temos um framework que é bem fácil de você aplicar em todas as objeções que vocês tiverem.
+[00:04:19:11 --> 00:04:22:19] Depois eu queria que vocês fizessem uma matriz mesmo de objeções.
+[00:04:22:20 --> 00:04:27:13] Peguem aquelas desculpinhas, aqueles problemas, objeções que vocês mais ouvem dos clientes
+[00:04:27:13 --> 00:04:31:03] para a gente começar a escrever com base nesse framework.
+[00:04:31:12 --> 00:04:33:17] Mas aqui eu já trouxe as principais.
+[00:04:33:22 --> 00:04:34:28] Qual que é a mais comum?
+[00:04:35:05 --> 00:04:36:04] Está muito caro.
+[00:04:37:05 --> 00:04:38:14] E aí como que você responde isso?
+[00:04:39:22 --> 00:04:43:15] Entenda totalmente, é natural avaliar bem o investimento antes de tomar uma decisão.
+[00:04:44:22 --> 00:04:45:15] Aí vem o associado.
+[00:04:45:29 --> 00:04:49:17] Muitos clientes que hoje têm marcas fortes também tiveram essa dúvida no começo,
+[00:04:49:22 --> 00:04:52:21] justamente porque se preocupam em colocar o dinheiro no lugar certo.
+[00:04:52:27 --> 00:04:56:18] Ou seja, já tirei a dúvida dele e joguei para outra pessoa.
+[00:04:56:27 --> 00:05:02:19] E aí você pergunta, o que faria você sentir que esse investimento vale realmente a pena para o seu negócio?
+[00:05:03:11 --> 00:05:04:06] Então, o que acontece?
+[00:05:04:14 --> 00:05:07:04] Muitas vezes, quando tinha essa dúvida, o que eu fazia?
+[00:05:07:17 --> 00:05:10:15] Eu explicava assim, não, mas o processo é XYZ,
+[00:05:11:05 --> 00:05:13:19] você está comparando com outras pessoas que é só estética,
+[00:05:13:19 --> 00:05:15:26] pessoas que não têm experiência, então falava de mim.
+[00:05:16:12 --> 00:05:17:18] E aí o que acontecia?
+[00:05:17:18 --> 00:05:20:02] Era convencimento, parecia que eu estava querendo empurrar uma venda.
+[00:05:20:12 --> 00:05:22:27] Agora, quando você faz esse reframing, que a gente chama,
+[00:05:22:28 --> 00:05:25:28] que você pega essa objeção e você muda ela de ótica,
+[00:05:25:28 --> 00:05:27:17] você vê por uma outra perspectiva,
+[00:05:28:08 --> 00:05:29:15] o cliente começa a entender,
+[00:05:29:20 --> 00:05:34:00] ah, não, tá, eu não posso simplesmente dar uma respostinha boba aqui,
+[00:05:34:03 --> 00:05:37:24] e que vai, ou sem muitos detalhes,
+[00:05:37:26 --> 00:05:41:00] você tem essas perguntas de follow-up que vai aos poucos
+[00:05:42:21 --> 00:05:43:17] abrir na cabeça, né?
+[00:05:45:05 --> 00:05:48:06] A objeção é como se fosse um nó.
+[00:05:48:11 --> 00:05:50:26] Então, se você puxa com força, você vai apertar o nó.
+[00:05:51:01 --> 00:05:53:16] Então, a ideia aqui é a gente ir acalmando isso,
+[00:05:53:19 --> 00:05:57:02] ir mexendo aos poucos, ajustando até afrouxar esse nó.
+[00:05:57:05 --> 00:06:00:05] E essa metodologia aqui vai ajudar vocês a fazer isso.
+[00:06:00:12 --> 00:06:02:00] E vocês lembram lá do semáforo?
+[00:06:02:16 --> 00:06:04:17] Essa metodologia aqui, o VAP,
+[00:06:04:19 --> 00:06:06:02] ela entra exatamente no amarelo.
+[00:06:06:05 --> 00:06:10:05] Então, quando o cliente não diz sim, nem não,
+[00:06:10:08 --> 00:06:11:29] ele fica no meio, fica naquele talvez.
+[00:06:12:11 --> 00:06:14:21] É ali que esses negócios vão morrer, como eu falei,
+[00:06:14:21 --> 00:06:16:26] e ficar naquele limbo, mas é também onde você
+[00:06:16:26 --> 00:06:18:28] tem a chance de virar
+[00:06:18:28 --> 00:06:21:03] a chave e também aprender mais com esse cliente
+[00:06:21:03 --> 00:06:22:18] porque aqui você vai entender
+[00:06:23:04 --> 00:06:24:21] muito daquela equação de valor
+[00:06:24:21 --> 00:06:26:26] muito daquelas objeções, daqueles problemas
+[00:06:26:26 --> 00:06:28:24] todos aqueles EC
+[00:06:28:24 --> 00:06:30:26] que a gente criou, lembra? Ah, não vou acontecer isso
+[00:06:30:26 --> 00:06:32:08] não vou realizar esse sonho por causa disso
+[00:06:32:08 --> 00:06:34:03] não vai dar tempo por causa disso
+[00:06:34:03 --> 00:06:36:11] é nessas objeções, então aqui
+[00:06:36:11 --> 00:06:37:28] esse framework vai te ajudar
+[00:06:39:18 --> 00:06:42:21] Virar isso, transformar essa objeção em contratos fechados.
+[00:06:43:21 --> 00:06:47:15] Mas a ideia principal é tirar o cliente dessa paralisia do amarelo,
+[00:06:47:16 --> 00:06:48:10] levar ele para o verde.
+[00:06:48:19 --> 00:06:52:13] Ou se por acaso, mesmo assim, ele continuar essas objeções,
+[00:06:52:14 --> 00:06:55:07] não houver nenhum fit, a gente transforma ele logo em vermelho,
+[00:06:55:27 --> 00:06:57:06] economiza tempo, economiza dinheiro.
+[00:06:58:17 --> 00:07:00:21] Mas aqui eu dei um exemplo que é cara demais,
+[00:07:00:27 --> 00:07:03:17] vamos ver outros exemplos reais aqui que eu tenho certeza que vocês já ouviram.
+[00:07:03:26 --> 00:07:05:15] Esse outro aqui, preciso pensar melhor.
+[00:07:06:13 --> 00:07:08:29] Claro, é normal, é querer refletir antes de tomar uma decisão importante.
+[00:07:09:18 --> 00:07:12:20] Os clientes que mais cresceram com design estratégico também quiseram pensar,
+[00:07:12:23 --> 00:07:15:01] porque sabiam do impacto dessa escolha.
+[00:07:15:14 --> 00:07:18:20] E aí você pode perguntar, o que exatamente você gostaria de esclarecer
+[00:07:18:20 --> 00:07:20:27] para tomar essa decisão com mais confiança?
+[00:07:21:02 --> 00:07:23:00] Mais uma vez, a gente está fazendo esse reframing.
+[00:07:23:28 --> 00:07:26:16] Outra aqui, eu falei que a gente ia falar disso aqui.
+[00:07:27:25 --> 00:07:30:07] Preciso falar com o meu sócio, esposa, parceiro primeiro.
+[00:07:30:29 --> 00:07:34:08] Então aqui, eu comentei, esse é o álibi social.
+[00:07:35:09 --> 00:07:37:16] Então aqui eu dei alguns exemplos.
+[00:07:37:16 --> 00:07:38:24] Então, primeiro, é perfeito.
+[00:07:38:25 --> 00:07:41:16] É essencial alinhar com quem toma a decisão junto com você.
+[00:07:42:05 --> 00:07:45:14] Em muitos projetos, o sócio trouxe pontos valiosos
+[00:07:45:14 --> 00:07:47:02] que ajudaram a fortalecer a estratégia.
+[00:07:48:05 --> 00:07:52:06] Mas me diz, se dependesse só de você, você já estaria pronto para seguir em frente?
+[00:07:53:22 --> 00:07:57:07] De tudo que a gente falou agora, tem algo que você acha que o seu sócio não vai gostar?
+[00:07:57:13 --> 00:08:00:14] Então, você vai fazendo essas perguntas para tentar desconstruir.
+[00:08:01:07 --> 00:08:03:11] Então, a primeira coisa, aquela que eu falei,
+[00:08:03:13 --> 00:08:07:09] normalmente é você que toma essas decisões ou o seu sócio sempre precisa estar junto.
+[00:08:07:21 --> 00:08:10:19] Essa aqui você quer desconstruir se é uma desculpa ou se é a realidade.
+[00:08:11:13 --> 00:08:15:10] Porque se for desculpa, você já desarma, já pode para essas outras perguntas.
+[00:08:15:10 --> 00:08:18:26] E se for real, você descobre como você vai trazer esse decisor para a mesa.
+[00:08:19:13 --> 00:08:23:02] E aí você pode falar, nossa, totalmente justo alinhar com ele.
+[00:08:23:02 --> 00:08:25:12] ele, você acha que faz sentido eu participar dessa conversa?
+[00:08:26:03 --> 00:08:26:29] Aí eu consigo
+[00:08:26:29 --> 00:08:29:00] responder as dúvidas direto, facilitar
+[00:08:29:00 --> 00:08:29:24] essa decisão, né?
+[00:08:30:21 --> 00:08:32:28] Ou você pode até falar assim, ó, vamos fazer assim
+[00:08:32:28 --> 00:08:34:28] então, eu preparo um resumo, a gente agenda
+[00:08:34:28 --> 00:08:37:01] uma cala rápida com vocês dois. Pode ser amanhã,
+[00:08:37:01 --> 00:08:38:07] pode ser terça, pode ser depois.
+[00:08:38:24 --> 00:08:40:10] Então aqui você já está sendo mais proativo
+[00:08:40:10 --> 00:08:42:19] e meio que derrubando
+[00:08:42:19 --> 00:08:44:23] essa desculpinha, esse espantalho que essa
+[00:08:44:23 --> 00:08:45:26] pessoa pode acabar criando.
+[00:08:46:10 --> 00:08:48:06] Tem uma outra coisa que dá pra você falar que é
+[00:08:48:06 --> 00:08:50:27] é isso, né? Se depender só de você
+[00:08:50:27 --> 00:08:52:16] já estaria pronto pra seguir em frente
+[00:08:52:16 --> 00:08:54:09] essa aqui funciona muito bem
+[00:08:54:09 --> 00:08:56:06] e também dá pra vocês
+[00:08:56:06 --> 00:08:57:14] perguntarem isso
+[00:08:57:14 --> 00:09:00:15] sem assim, não precisa treinar muito
+[00:09:01:27 --> 00:09:03:14] é uma resposta que já vai resolver muito bem.
+[00:09:05:17 --> 00:09:07:14] Então aqui o objetivo não é perder ritmo,
+[00:09:07:15 --> 00:09:09:03] é manter esse calor da decisão
+[00:09:09:03 --> 00:09:12:14] sem entrar nessa desculpinha e sua rapada muitas vezes.
+[00:09:12:29 --> 00:09:15:08] A outra coisa, não sei se é o momento certo,
+[00:09:15:09 --> 00:09:16:07] outra dúvida bem comum.
+[00:09:16:26 --> 00:09:18:03] Daí você pode falar, entendo,
+[00:09:18:05 --> 00:09:19:29] timing é sempre uma preocupação legítima.
+[00:09:21:05 --> 00:09:23:03] Curiosamente, muitos clientes que decidiram investir
+[00:09:23:03 --> 00:09:26:11] mesmo em momentos de dúvida,
+[00:09:26:29 --> 00:09:28:14] conseguiram justamente ganhar clareza
+[00:09:28:14 --> 00:09:29:08] e acelerar seus resultados.
+[00:09:29:21 --> 00:09:30:24] Você pode até falar alguma coisa,
+[00:09:30:24 --> 00:09:32:23] olha, hoje, ou no começo
+[00:09:32:23 --> 00:09:34:15] da semana, eu falei com alguém
+[00:09:34:15 --> 00:09:36:21] que também tinha essa mesma dúvida, me perguntou
+[00:09:36:21 --> 00:09:38:15] isso, sabe? E aí
+[00:09:38:15 --> 00:09:40:22] essa pessoa acabou decidindo continuar
+[00:09:40:22 --> 00:09:42:26] porque ela ganhou clareza
+[00:09:42:26 --> 00:09:43:29] e acelerou seus resultados.
+[00:09:44:12 --> 00:09:46:23] E aí você pergunta, o que teria que acontecer
+[00:09:46:23 --> 00:09:48:18] para você sentir que agora é o momento ideal?
+[00:09:49:07 --> 00:09:50:20] Então aqui você está jogando,
+[00:09:50:20 --> 00:09:52:12] você entende, você valida a dúvida,
+[00:09:52:14 --> 00:09:54:21] você associa com outro problema, associa com outra
+[00:09:54:21 --> 00:09:56:21] pessoa, com outro cliente, e aí você
+[00:09:56:21 --> 00:09:58:11] rebate, você devolve essa dúvida
+[00:09:58:11 --> 00:09:59:18] para o mesmo cliente.
+[00:10:00:24 --> 00:10:01:21] para o cliente.
+[00:10:02:10 --> 00:10:03:27] Não sei se vai funcionar para mim.
+[00:10:04:02 --> 00:10:04:29] Se aquelas pessoas que falaram,
+[00:10:05:02 --> 00:10:06:08] já fiz branding e não funciona,
+[00:10:06:18 --> 00:10:07:22] já fiz marketing e não funciona,
+[00:10:08:02 --> 00:10:10:04] já trabalhei com designer e não funciona.
+[00:10:10:18 --> 00:10:11:27] E aí aqui, o que faz?
+[00:10:12:18 --> 00:10:13:26] Logo de cara, faz todo sentido.
+[00:10:14:14 --> 00:10:16:03] Queria ter certeza que vai dar resultado
+[00:10:16:03 --> 00:10:17:03] para o seu caso específico.
+[00:10:18:21 --> 00:10:20:06] Dá para você falar também algo assim,
+[00:10:20:10 --> 00:10:23:09] realmente tem agências, tem escritórios,
+[00:10:23:10 --> 00:10:26:02] tem outros profissionais que podem ter entregue
+[00:10:26:02 --> 00:10:27:09] um serviço não muito completo,
+[00:10:27:11 --> 00:10:28:24] um processo não tão profundo,
+[00:10:28:27 --> 00:10:30:13] algo que não te ajudou tanto.
+[00:10:30:13 --> 00:10:35:23] Dá para você validar isso, falar que é uma coisa que acontece mais do que você pensa.
+[00:10:36:23 --> 00:10:39:24] Por coincidência, um cliente no começo da semana tinha a mesma dúvida,
+[00:10:39:24 --> 00:10:41:00] aqui eu acabei de falar desse exemplo,
+[00:10:41:14 --> 00:10:44:23] até perceber que nosso processo se adapta à realidade de cada negócio.
+[00:10:45:04 --> 00:10:47:17] O que você gostaria de ver melhor ou entender
+[00:10:47:17 --> 00:10:50:12] para ter certeza de que essa solução funciona para você?
+[00:10:51:19 --> 00:10:54:01] Então aqui mais uma vez você joga a dúvida de volta para o cliente.
+[00:10:55:06 --> 00:10:57:05] Depois, eu conheço alguém que faz mais barato.
+[00:10:57:09 --> 00:11:00:22] Essa aqui, felizmente, eu já passei por essa.
+[00:11:01:07 --> 00:11:02:20] Não é algo que acontece muito.
+[00:11:04:09 --> 00:11:06:03] Mas é engraçado, porque os clientes que eu falo hoje,
+[00:11:06:05 --> 00:11:08:02] eles falam, ah, Vini, você vai passar seu preço?
+[00:11:08:15 --> 00:11:11:20] A gente não vai discutir preço, a gente aceita preço, não tem isso.
+[00:11:12:00 --> 00:11:14:09] Só que aí, às vezes, tem alguma coisa que você tem que discutir.
+[00:11:14:09 --> 00:11:15:12] Ah, você faz em quantas vezes?
+[00:11:15:29 --> 00:11:16:16] Tem desconto?
+[00:11:17:24 --> 00:11:21:05] Então, eles falam isso, mas às vezes é uma meia-verdade.
+[00:11:21:17 --> 00:11:24:18] Só que esse de alguém que faz mais barato é muito comum, acontece direto.
+[00:11:24:18 --> 00:11:27:03] e aí você tem que saber muito bem vender seu peixe
+[00:11:27:03 --> 00:11:29:00] e identificar também, tá, quem que faz
+[00:11:29:00 --> 00:11:30:09] mais barato que você e por quê
+[00:11:30:24 --> 00:11:32:29] então dá pra você falar, claro, sempre existem
+[00:11:32:29 --> 00:11:34:02] opções mais baratas no mercado
+[00:11:34:19 --> 00:11:36:25] mas geralmente a diferença de preço reflete também
+[00:11:36:25 --> 00:11:38:27] na profundidade, na qualidade, no processo
+[00:11:39:19 --> 00:11:41:03] talvez o problema que você
+[00:11:41:03 --> 00:11:43:00] quer resolver, não vai ser
+[00:11:43:00 --> 00:11:44:17] resolvido pagando mais barato
+[00:11:45:00 --> 00:11:47:02] então me diz, o que é mais importante pra você agora
+[00:11:47:16 --> 00:11:48:23] pagar o menor preço
+[00:11:48:23 --> 00:11:50:13] ou garantir que o resultado
+[00:11:50:13 --> 00:11:52:18] realmente vai resolver seu problema
+[00:11:52:18 --> 00:11:54:20] problema. Então aqui é mais uma vez, você está jogando
+[00:11:54:20 --> 00:11:56:14] ah, então o problema é preço? Então você vai
+[00:11:56:14 --> 00:11:58:10] fechar com o mais barato. E o cliente mesmo
+[00:11:58:10 --> 00:12:00:13] já vai começar a pensar, não, a questão
+[00:12:00:13 --> 00:12:02:12] não é mais barato. Muitas vezes ele está
+[00:12:02:12 --> 00:12:04:07] falando de um projeto que
+[00:12:04:29 --> 00:12:06:17] vale ali 1% do valor
+[00:12:06:17 --> 00:12:08:17] da empresa dele, sabe? Vale muito menos
+[00:12:08:17 --> 00:12:10:07] da empresa dele, mas vai criar muitos
+[00:12:11:05 --> 00:12:12:14] negócios novos, vai vender mais,
+[00:12:12:18 --> 00:12:14:05] vai aumentar em x%
+[00:12:14:05 --> 00:12:16:17] o indicador da empresa. Então é legal
+[00:12:16:17 --> 00:12:17:23] ele pensar nisso.
+[00:12:18:05 --> 00:12:20:06] E se você fez na hora da...
+[00:12:20:06 --> 00:12:22:11] Muitas vezes acontece na hora da proposta
+[00:12:22:11 --> 00:12:24:14] que você vai apresentar a proposta, isso aqui, né?
+[00:12:24:22 --> 00:12:26:23] E aí, se você fez aquela lição de casa,
+[00:12:26:27 --> 00:12:28:12] você fez uma pesquisa do mercado,
+[00:12:28:15 --> 00:12:32:00] você relacionou a sua solução com alguma melhoria,
+[00:12:32:00 --> 00:12:35:05] alguma transformação que não seja só o entregável
+[00:12:35:05 --> 00:12:36:13] ou não seja só a estética,
+[00:12:36:20 --> 00:12:38:12] aí aqui é legal, porque aqui dá para você falar.
+[00:12:38:21 --> 00:12:42:21] Você viu essa tabela que eu coloquei?
+[00:12:42:23 --> 00:12:44:02] Vai aumentar em X%.
+[00:12:45:00 --> 00:12:47:21] Vai fazer, vai colocar tanto de dinheiro no seu bolso.
+[00:12:48:02 --> 00:12:49:02] Como que isso é caro?
+[00:12:49:02 --> 00:12:49:25] como que isso
+[00:12:51:23 --> 00:12:52:29] dá para entrar na primeira
+[00:12:52:29 --> 00:12:54:12] objeção, como que isso é muito caro
+[00:12:54:12 --> 00:12:56:11] como que você vai achar alguém mais barato para fazer isso
+[00:12:56:11 --> 00:12:58:09] você vai confiar em alguém que vai fazer algo baratinho
+[00:12:59:12 --> 00:13:00:24] então, você está trabalhando aí com
+[00:13:00:24 --> 00:13:02:10] uma empresa de um milhão de faturamento
+[00:13:02:10 --> 00:13:04:27] você vai confiar em alguém que vai cobrar mil reais para fazer
+[00:13:04:27 --> 00:13:06:03] esse projeto? Não, né
+[00:13:06:23 --> 00:13:08:23] e depois esse outro que é muito comum
+[00:13:08:23 --> 00:13:10:26] é para a gente que tem processos
+[00:13:10:26 --> 00:13:13:00] de cocriação, para aquele cliente
+[00:13:13:00 --> 00:13:14:24] que é super apressadinho, que acha que a gente faz
+[00:13:14:24 --> 00:13:15:17] tudo para ontem
+[00:13:16:11 --> 00:13:18:09] isso é fit cultural também, isso é
+[00:13:19:09 --> 00:13:20:23] pode ser um checklist ali,
+[00:13:20:25 --> 00:13:22:14] talvez você nem precise falar com um cliente desse,
+[00:13:22:27 --> 00:13:24:19] mas às vezes tem um cliente que é
+[00:13:24:19 --> 00:13:26:15] ideal e ele está reclamando de prazo.
+[00:13:26:24 --> 00:13:29:02] Daí você fala, entendo, você não tem tempo,
+[00:13:29:04 --> 00:13:30:29] o esforço, o sacrifício talvez seja muito
+[00:13:31:19 --> 00:13:32:15] alto para ele.
+[00:13:32:25 --> 00:13:35:02] Aí você fala, o dia a dia é corrido, é difícil
+[00:13:35:02 --> 00:13:36:24] às vezes encaixar um projeto estratégico,
+[00:13:37:17 --> 00:13:38:29] mas teve muitos clientes meus
+[00:13:38:29 --> 00:13:41:06] que no começo eles também acharam
+[00:13:41:06 --> 00:13:43:04] que não tinha tempo, mas eles
+[00:13:43:04 --> 00:13:45:00] perceberam que justamente por não parar
+[00:13:45:00 --> 00:13:47:09] e resolver esse BO, eles continuavam travados.
+[00:13:48:14 --> 00:13:53:06] Então deixa eu entender, o que vai acontecer se você adiar mais alguns meses esse projeto?
+[00:13:54:00 --> 00:13:57:16] E o que poderia mudar se você começasse agora, mesmo com pouco tempo?
+[00:13:58:03 --> 00:14:01:09] Então aqui mais uma coisa, você está falando de outros clientes que tinham a mesma dor,
+[00:14:01:11 --> 00:14:05:16] tinham o mesmo problema, que eles foram procurar uma solução mais rápida,
+[00:14:05:16 --> 00:14:09:24] que às vezes era menos profunda, que não resolvia o problema de verdade.
+[00:14:10:04 --> 00:14:13:21] Às vezes era muito aquela pessoa que veio com a suposição, sabe?
+[00:14:13:23 --> 00:14:16:29] Com o primeiro sintoma do cliente, já fechou e achou que aquilo resolvia.
+[00:14:17:05 --> 00:14:18:05] E o problema continua.
+[00:14:18:23 --> 00:14:20:05] aquele pepino não foi resolvido
+[00:14:20:05 --> 00:14:22:12] porque eles não quiseram parar pra ajustar a rota
+[00:14:22:12 --> 00:14:24:09] eles quiseram, como que é, trocar
+[00:14:24:09 --> 00:14:26:11] trocar o pneu enquanto o carro tava andando
+[00:14:26:11 --> 00:14:27:26] sabe, e muitas vezes não funciona
+[00:14:28:10 --> 00:14:30:14] então aqui você já coloca pra ele
+[00:14:30:14 --> 00:14:32:15] e fala, olha, o que aconteceria se você adiasse
+[00:14:32:15 --> 00:14:34:18] só alguns, pode ser meses, pode ser semanas
+[00:14:34:18 --> 00:14:36:05] pode ser dias, depende do seu projeto
+[00:14:36:05 --> 00:14:38:24] mas se você adiar um pouquinho
+[00:14:38:24 --> 00:14:40:03] pra fazer isso direito
+[00:14:40:03 --> 00:14:42:13] isso funciona muito bem pra gente que
+[00:14:42:13 --> 00:14:44:03] pra empresas que querem fazer rebranding
+[00:14:44:03 --> 00:14:46:12] é muito comum eles terem uma data pronta assim
+[00:14:46:26 --> 00:14:47:09] e
+[00:14:48:09 --> 00:14:50:25] E aquela data não pode mudar de jeito nenhum, não.
+[00:14:50:25 --> 00:14:53:00] Tem que ser fim de agosto, tem que ser...
+[00:14:53:00 --> 00:15:00:07] E aí você fala, tá, mas por que tem que ser fim de agosto?
+[00:15:00:09 --> 00:15:02:19] Não tem motivo nenhum, não tem nada, não tem nenhuma festa.
+[00:15:02:20 --> 00:15:05:09] É só uma data que entrou na cabeça da pessoa,
+[00:15:05:11 --> 00:15:06:28] a pessoa colocou aquilo e não quer mudar de jeito nenhum.
+[00:15:07:11 --> 00:15:09:23] E aí você fala uma coisa que eu falo muito para essas empresas.
+[00:15:10:18 --> 00:15:12:28] A gente não tem a chance de se reapresentar muitas vezes.
+[00:15:13:18 --> 00:15:15:04] E se a gente adiar algumas semanas
+[00:15:16:02 --> 00:15:18:09] e garantir que você vai se representar da forma correta.
+[00:15:19:15 --> 00:15:20:03] O que vai acontecer?
+[00:15:20:13 --> 00:15:22:02] A pressa passa.
+[00:15:22:22 --> 00:15:26:09] O Guilherme Sebastiani, não sei se vocês conhecem ele da Brandster,
+[00:15:26:10 --> 00:15:29:09] ele fala muito isso, que a pressa passa e a merda fica.
+[00:15:30:00 --> 00:15:33:00] É um termo que eu já usei várias vezes com clientes.
+[00:15:33:00 --> 00:15:36:01] Então, a pressa passa, os problemas dos pepinos vão continuar.
+[00:15:37:28 --> 00:15:41:12] Então, esse não tenho tempo agora também é um outro espantalho.
+[00:15:41:20 --> 00:15:44:22] E como eu falei, muitas vezes isso aqui, não tenho tempo agora,
+[00:15:44:27 --> 00:15:46:06] a gente volta lá atrás.
+[00:15:47:23 --> 00:15:49:27] e vim aqui, é um obstáculo que o próprio
+[00:15:49:27 --> 00:15:51:19] cliente criou, ele que criou isso
+[00:15:51:19 --> 00:15:53:21] ele que está impedindo ele mesmo de
+[00:15:53:21 --> 00:15:54:17] chegar lá, é aquele
+[00:15:55:19 --> 00:15:57:20] aquela tirinha lá que tem um cara
+[00:15:57:20 --> 00:15:59:20] andando de bicicleta e põe um pedaço de pau na
+[00:15:59:20 --> 00:16:01:24] roda, ele mesmo coloca e ele mesmo
+[00:16:01:24 --> 00:16:03:26] cai, é isso, o cliente está fazendo isso com ele mesmo
+[00:16:03:26 --> 00:16:05:08] ele que está criando esse próprio obstáculo
+[00:16:05:08 --> 00:16:07:18] esses próprios espantalhos aqui para ele mesmo
+[00:16:08:06 --> 00:16:08:18] então
+[00:16:09:08 --> 00:16:11:18] é importante a gente tentar dar
+[00:16:11:18 --> 00:16:12:08] esse empurrãozinho
+[00:16:13:15 --> 00:16:15:03] dar esse empurrãozinho aqui
+[00:16:15:03 --> 00:16:17:15] que se for alguma coisa de convencimento
+[00:16:17:15 --> 00:16:20:03] que você entende de venda por convencimento, seria só essa parte.
+[00:16:20:11 --> 00:16:22:22] Essa clareza que você vai trazer e tentar,
+[00:16:22:27 --> 00:16:28:06] o problema verdade é esse ou o problema é que você criou uma data imaginária
+[00:16:28:06 --> 00:16:29:17] e você não está querendo mudar agora?
+[00:16:31:05 --> 00:16:34:27] E a última aqui, eu já investi nisso antes, não tive resultados.
+[00:16:35:24 --> 00:16:38:17] Essa é parecida com aquela, não funciona para mim.
+[00:16:38:22 --> 00:16:42:06] Mas essa aqui é um pouquinho diferente, porque você vai validar,
+[00:16:42:08 --> 00:16:44:16] você vai falar, realmente, tem profissionais que não são bons.
+[00:16:44:22 --> 00:16:46:25] Tem gente que, às vezes, não é nem profissional.
+[00:16:47:06 --> 00:16:49:16] É frustrante, a gente tivesse tempo, tivesse dinheiro,
+[00:16:50:09 --> 00:16:51:04] não vê o retorno esperado.
+[00:16:52:00 --> 00:16:55:00] E muitos clientes chegaram até mim com esse problema.
+[00:16:55:06 --> 00:16:57:15] Eles já tentaram antes, o processo foi superficial,
+[00:16:57:22 --> 00:16:59:04] foi mal direcionado.
+[00:17:00:09 --> 00:17:02:11] você percebeu assim, as últimas conversas
+[00:17:02:11 --> 00:17:04:16] que você teve com os profissionais, eles fizeram todo esse processo
+[00:17:04:16 --> 00:17:06:16] tentaram entender esses problemas, o que estava acontecendo
+[00:17:06:16 --> 00:17:08:18] de verdade, fizeram esse diagnóstico
+[00:17:08:18 --> 00:17:10:17] que eu estou fazendo agora, você teve essa conversa
+[00:17:10:17 --> 00:17:12:13] mais profunda com eles? Não, né
+[00:17:12:13 --> 00:17:14:11] por isso muitas vezes você não teve esse resultado
+[00:17:14:11 --> 00:17:16:12] que você imaginava, porque
+[00:17:16:12 --> 00:17:18:10] você está com pressa, porque você não quer pagar
+[00:17:18:10 --> 00:17:19:19] o que vale, o que custa isso
+[00:17:19:19 --> 00:17:22:07] aqui é um combo que vale para tudo, gente
+[00:17:22:07 --> 00:17:24:15] dá para botar todas as objeções nessa mesma
+[00:17:24:15 --> 00:17:26:14] resposta aqui, mas me diz
+[00:17:26:14 --> 00:17:28:15] o que funcionou e não funcionou
+[00:17:28:15 --> 00:17:30:12] da última vez. Foi a execução,
+[00:17:30:16 --> 00:17:32:10] foi a estratégia, foi a forma
+[00:17:32:10 --> 00:17:33:17] como o projeto foi conduzido.
+[00:17:33:28 --> 00:17:36:07] Se a gente entender isso, a gente pode garantir
+[00:17:36:07 --> 00:17:37:07] que dessa vez seja diferente.
+[00:17:37:27 --> 00:17:40:15] Então aqui, você abraça essa dúvida
+[00:17:40:15 --> 00:17:42:07] aqui, esse problema. Tenta entender de verdade,
+[00:17:42:09 --> 00:17:44:08] traz clareza, não pensa no cliente
+[00:17:44:08 --> 00:17:46:10] como o seu inimigo.
+[00:17:46:18 --> 00:17:48:12] Nunca pensa nisso, não pensa como cliente.
+[00:17:48:12 --> 00:17:50:02] Eu sei que todo mundo reclama de cliente, mas
+[00:17:50:02 --> 00:17:51:12] eu vou falar a verdade.
+[00:17:51:27 --> 00:17:53:22] Eu reclamava demais dos meus clientes,
+[00:17:54:21 --> 00:17:56:06] mas o problema era lá
+[00:17:56:06 --> 00:17:58:01] aqueles espantalhos, aqueles fantasmas
+[00:17:58:01 --> 00:17:59:24] lá do começo e porque eu não tinha um processo
+[00:17:59:24 --> 00:18:01:10] de venda, eu não tinha nada disso aqui
+[00:18:01:10 --> 00:18:03:24] eu chegava numa conversa
+[00:18:03:24 --> 00:18:06:03] na verdade nem fazia conversa muitas vezes, quando fazia
+[00:18:06:03 --> 00:18:07:22] era sem roteiro, sem nada
+[00:18:07:22 --> 00:18:08:16] sem nenhum processo
+[00:18:09:24 --> 00:18:11:22] eu acreditava demais nessas coisas aqui
+[00:18:14:15 --> 00:18:15:17] Eu acreditava demais nisso aqui.
+[00:18:15:26 --> 00:18:22:22] E eu nunca chegava de fato nesses problemas aqui desse diagnóstico.
+[00:18:22:23 --> 00:18:24:29] Eu simplesmente era um fazedor de tarefas.
+[00:18:24:29 --> 00:18:26:05] Porque eu ouvia o que o cliente falava.
+[00:18:26:06 --> 00:18:27:02] Você faz logo? Eu faço.
+[00:18:27:03 --> 00:18:28:07] Quanto custa? 500 reais.
+[00:18:28:11 --> 00:18:29:00] Beleza, vamos lá.
+[00:18:29:02 --> 00:18:29:24] Semana que vem eu começo.
+[00:18:30:05 --> 00:18:30:20] Era isso.
+[00:18:31:05 --> 00:18:32:09] Então, o que o cliente enxergou?
+[00:18:33:08 --> 00:18:34:19] Simplesmente um prestador de serviço.
+[00:18:34:21 --> 00:18:35:29] Não é um parceiro estratégico.
+[00:18:36:02 --> 00:18:38:14] Não é alguém que vai me ajudar a entender,
+[00:18:38:18 --> 00:18:39:18] identificar o meu problema.
+[00:18:39:23 --> 00:18:40:18] Ele nem me perguntou nada.
+[00:18:40:21 --> 00:18:41:27] Ele não fez diagnóstico nenhum.
+[00:18:42:08 --> 00:18:43:17] Imagina você vai no médico, de novo.
+[00:18:43:17 --> 00:18:44:27] vamos lá falar de médico de novo
+[00:18:44:27 --> 00:18:47:06] você vai no médico, ele nem analisa
+[00:18:47:06 --> 00:18:48:02] você fala, toma isso aqui
+[00:18:49:14 --> 00:18:50:28] Pode ser o melhor médico do mundo, talvez.
+[00:18:51:01 --> 00:18:53:18] O cara olhou você, já fez um raio-x, já sabe tudo o que está acontecendo,
+[00:18:53:22 --> 00:18:54:24] não pediu nenhum exame.
+[00:18:55:08 --> 00:18:56:10] Mas será que você vai confiar?
+[00:18:56:10 --> 00:18:57:22] Não, você vai pedir a opinião de outra pessoa.
+[00:18:58:23 --> 00:19:01:14] E aí se essa outra pessoa fizer todo esse processo aqui,
+[00:19:04:07 --> 00:19:05:08] Fazer todo esse processo aqui.
+[00:19:06:08 --> 00:19:07:08] Qual que você vai confiar mais?
+[00:19:09:00 --> 00:19:11:02] E aí até a Carol perguntou da questão,
+[00:19:11:07 --> 00:19:12:23] ah, eu mando um questionário.
+[00:19:13:07 --> 00:19:15:01] Pode mandar, se você identificou ali
+[00:19:15:01 --> 00:19:17:13] que é um cliente que talvez seja meio desalinhado,
+[00:19:17:13 --> 00:19:19:06] mas às vezes precisa de um projetinho menor
+[00:19:19:06 --> 00:19:21:22] para fechar a conta, fechar o caixa no mês,
+[00:19:22:05 --> 00:19:23:07] não tem problema, pode mandar.
+[00:19:23:25 --> 00:19:26:14] Mas se às vezes você fazer esse processo todo
+[00:19:26:14 --> 00:19:28:10] com esse cliente e você percebe
+[00:19:28:10 --> 00:19:29:24] que o fato dele estar desalinhado
+[00:19:29:24 --> 00:19:31:09] é porque ninguém fez esse processo antes
+[00:19:32:06 --> 00:19:34:17] e só de você estar fazendo essas perguntas,
+[00:19:34:17 --> 00:19:36:12] o cliente que estava pensando em investir ali
+[00:19:36:12 --> 00:19:38:16] 3, 4, 5 mil, agora está querendo investir 10.
+[00:19:39:00 --> 00:19:39:18] Ele investiu 15.
+[00:19:40:06 --> 00:19:41:03] Só porque ele entendeu.
+[00:19:41:04 --> 00:19:42:12] Nossa, então tem todo um processo.
+[00:19:42:13 --> 00:19:42:29] Isso existe.
+[00:19:43:03 --> 00:19:44:11] Eu nem sabia que essa era a solução.
+[00:19:44:16 --> 00:19:46:04] Nem sabia que essa solução existia.
+[00:19:46:16 --> 00:19:48:22] Então, por isso que é importante a gente fazer essas perguntas.
+[00:19:48:24 --> 00:19:55:10] E ter, navegar por todas essas dores, desejos, essas travas, esse impacto.
+[00:19:55:21 --> 00:19:58:12] E fazer isso de uma forma consultiva.
+[00:19:58:19 --> 00:20:00:00] Não confrontativa.
+[00:20:00:07 --> 00:20:01:25] E uma coisa que eu queria falar para vocês.
+[00:20:02:23 --> 00:20:05:25] Aqui eu coloquei as principais dúvidas que eu mais enxergo.
+[00:20:05:27 --> 00:20:06:21] Que mais acontece.
+[00:20:06:21 --> 00:20:13:01] Mas o que eu queria falar para vocês, pensa nas dúvidas, nos problemas que vocês têm,
+[00:20:13:04 --> 00:20:17:11] nas objeções que vocês ouvem dos seus clientes, quais são as mais comuns.
+[00:20:18:18 --> 00:20:20:13] ajusta duas coisas. Primeiro, aplica
+[00:20:20:13 --> 00:20:22:09] esse framework, validar,
+[00:20:22:11 --> 00:20:24:00] associar e perguntar.
+[00:20:24:09 --> 00:20:26:12] E a segunda coisa, olha
+[00:20:26:12 --> 00:20:28:16] para a sua oferta e ajusta
+[00:20:28:16 --> 00:20:29:19] ela, porque muitas vezes
+[00:20:30:06 --> 00:20:32:12] o que está virando objeção ali
+[00:20:32:12 --> 00:20:33:03] no semáforo, na
+[00:20:33:03 --> 00:20:36:13] luz amarela ali, não é
+[00:20:36:13 --> 00:20:37:22] nada que
+[00:20:38:22 --> 00:20:40:19] às vezes você vai resolver nessa reunião.
+[00:20:40:24 --> 00:20:42:02] Você vai ter que resolver na sua oferta,
+[00:20:42:07 --> 00:20:44:15] na sua proposta de valor. O cliente não
+[00:20:44:15 --> 00:20:46:14] está enxergando o valor no que você está
+[00:20:46:14 --> 00:20:48:15] falando por algum motivo. Ou você está
+[00:20:48:15 --> 00:20:51:21] Você está falando a língua errada, você está falando X, o cara fala Z.
+[00:20:52:15 --> 00:20:55:12] Você está falando de problemas de um outro mercado,
+[00:20:55:12 --> 00:20:59:00] ou de uma língua que só outros designers, só outros criativos vão entender.
+[00:20:59:23 --> 00:21:01:22] Ou talvez ele não seja o cliente ideal também,
+[00:21:01:26 --> 00:21:05:06] e você precisa ajustar essa parte do seu perfil de validação.

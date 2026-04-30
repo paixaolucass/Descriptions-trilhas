@@ -1,0 +1,175 @@
+# Video: 28._aula_-_como_adaptar_textos_para_diferentes_públicos_(tom,_vocabulário_e_estilo)_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 14:47
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:00 --> 00:00:03:02] Todo texto funciona bem até encontrar o público errado.
+[00:00:03:09 --> 00:00:06:22] Não existe uma mensagem universal porque não existe um leitor universal.
+[00:00:06:28 --> 00:00:10:16] E um erro muito comum é o autor pensar somente nele quando está escrevendo
+[00:00:10:16 --> 00:00:13:06] e simplesmente supor que a outra pessoa vai entender.
+[00:00:13:11 --> 00:00:17:22] Mas cientificamente, a leitura é um processo de preenchimento preditivo.
+[00:00:17:25 --> 00:00:21:27] O seu leitor está basicamente filtrando todas as informações
+[00:00:21:27 --> 00:00:25:29] com base no repertório dele, na expectativa dele, não as suas.
+[00:00:26:07 --> 00:00:29:12] Então, se o público muda, a interpretação também vai mudar.
+[00:00:29:12 --> 00:00:31:28] Imagina você escrever um relatório corporativo
+[00:00:31:28 --> 00:00:34:18] ou um artigo científico usando o Comic Sans.
+[00:00:34:24 --> 00:00:37:27] O conteúdo pode ser excelente, mas ninguém vai te levar a sério.
+[00:00:37:29 --> 00:00:39:28] E quando eu falo em adaptar, eu não estou querendo dizer
+[00:00:39:28 --> 00:00:42:17] emburrecer o texto ou mudar completamente ele.
+[00:00:42:20 --> 00:00:44:03] Eu só estou querendo dizer recalibrar.
+[00:00:44:05 --> 00:00:47:07] Você pode mudar o estilo, você pode mudar o tom e o vocabulário
+[00:00:47:07 --> 00:00:49:24] justamente para que ele faça mais sentido para quem está lendo.
+[00:00:49:28 --> 00:00:51:07] Quando você começa a dominar isso,
+[00:00:51:17 --> 00:00:54:14] as suas mensagens vão ficar cada vez mais pessoais
+[00:00:54:14 --> 00:00:57:04] e a pessoa que lê vai sentir que aquilo foi escrito para ela.
+[00:00:57:05 --> 00:00:58:25] Para que a adaptação funcione na IA,
+[00:00:58:25 --> 00:01:02:02] a gente precisa pensar no texto como se fosse a lente de uma câmera.
+[00:01:02:05 --> 00:01:06:04] A ideia aqui é que o assunto é sempre o mesmo, mas a gente precisa mudar o foco.
+[00:01:06:05 --> 00:01:09:24] Então, do mesmo jeito que quando eu vou fotografar um ambiente pequeno ou arquitetura,
+[00:01:09:24 --> 00:01:13:19] eu uso uma lente grande-angular, ou quando eu vou fazer um retrato, eu uso uma lente teleobjetiva,
+[00:01:13:21 --> 00:01:17:03] aqui essas ferramentas não são de estética, elas são de foco.
+[00:01:17:05 --> 00:01:20:05] Então, vamos dar uma olhada em algumas situações e como a gente pode calibrar elas.
+[00:01:20:12 --> 00:01:22:07] A primeira delas é uma aplicação de tom.
+[00:01:22:11 --> 00:01:25:28] É uma situação assim, imagina que a sua empresa sofreu um vazamento de dados.
+[00:01:25:28 --> 00:01:30:21] Para o conselho, você não pode ser emotivo, tem que ser frio, analítico e focar na solução.
+[00:01:30:23 --> 00:01:36:08] Já para os clientes afetados, se você for frio, você vai parecer desumano ou como se não se importasse com o problema.
+[00:01:36:14 --> 00:01:39:17] Então você precisa ser um pouco mais quente, mais empático e mais tranquilizador.
+[00:01:39:23 --> 00:01:47:00] O fato é o mesmo, o assunto é o mesmo, mas a temperatura da voz vai mudar a forma como a mensagem é recebida e percebida pelas pessoas.
+[00:01:47:07 --> 00:01:53:07] Então o prompt é assim, atue como especialista em comunicação estratégica, receba o seguinte texto, aí você insere o seu texto.
+[00:01:53:07 --> 00:01:56:05] Sua tarefa é adaptar esse texto para três públicos diferentes.
+[00:01:56:17 --> 00:02:00:26] Primeiro é executivos, num tom objetivo, vocabulário técnico e estilo conciso.
+[00:02:00:29 --> 00:02:05:01] Depois para o público geral, num tom acessível, com vocabulário simples e um estilo narrativo.
+[00:02:05:05 --> 00:02:09:16] Depois é uma campanha de sensibilização, um tom inspirador, um vocabulário emocional,
+[00:02:09:20 --> 00:02:10:23] um estilo persuasivo.
+[00:02:10:24 --> 00:02:14:02] Para cada versão, explique brevemente por que esse tom foi escolhido
+[00:02:14:02 --> 00:02:16:13] e como o resultado se conecta com o público-alvo.
+[00:02:16:16 --> 00:02:19:16] Garanta que todas as versões mantenham a essência da mensagem original,
+[00:02:19:22 --> 00:02:22:17] mas ajustem o impacto conforme a temperatura da voz.
+[00:02:22:17 --> 00:02:25:28] frio para análise técnicas, neutro para informações rotineiras
+[00:02:25:28 --> 00:02:27:26] ou quente para mobilização emocional.
+[00:02:27:29 --> 00:02:30:18] Então esse prompt força a IA a separar a essência,
+[00:02:30:19 --> 00:02:32:23] que é o fato, da temperatura, que é a emoção.
+[00:02:32:28 --> 00:02:36:04] Então isso vai impedir que a IA dê aquela alucinada e mude os fatos
+[00:02:36:04 --> 00:02:39:24] e vai garantir que apenas a camada emocional do texto seja ajustada.
+[00:02:39:27 --> 00:02:41:08] Mais uma vez, o assunto é o mesmo,
+[00:02:41:10 --> 00:02:43:17] a única mudança aqui é o foco, é esse tom emocional.
+[00:02:43:22 --> 00:02:46:06] A segunda situação é a aplicação em vocabulário.
+[00:02:46:07 --> 00:02:49:15] Então, por exemplo, você está explicando uma nova tecnologia em IA.
+[00:02:49:15 --> 00:02:54:08] Se você falar com engenheiros, termos como LLM, inferência, latência,
+[00:02:54:10 --> 00:02:57:12] você vai gerar mais autoridade, você vai ganhar mais precisão.
+[00:02:57:13 --> 00:03:00:16] Mas se você usar essas mesmas palavras com RH ou equipe de vendas,
+[00:03:00:17 --> 00:03:02:16] você vai gerar ruído e desconexão.
+[00:03:02:17 --> 00:03:06:13] Eles vão ficar perdidos porque eles precisam de analogias, não de especificações técnicas.
+[00:03:06:21 --> 00:03:09:06] Então o vocabulário é basicamente o código de acesso.
+[00:03:09:16 --> 00:03:11:19] Se você errar essa senha, a porta não vai abrir.
+[00:03:11:24 --> 00:03:14:02] Então aqui a gente tem um prompt para ajudar você com isso.
+[00:03:14:07 --> 00:03:16:08] Atue como um editor de vocabulário por público.
+[00:03:16:08 --> 00:03:20:13] O texto base você insere e também insere aqui alguns públicos-alvos.
+[00:03:20:16 --> 00:03:21:17] Então, 3 a 5 aqui.
+[00:03:21:19 --> 00:03:25:23] Por exemplo, cientistas, executivos, ensino médio, público geral, políticas públicas.
+[00:03:25:26 --> 00:03:29:23] E para cada público entregue uma versão adaptada de 120 a 180 palavras.
+[00:03:30:04 --> 00:03:33:25] O mapa de termos, técnico para simples, 3 a 5 pares de termos.
+[00:03:33:26 --> 00:03:37:01] Regras usadas, uma linha, nível de leitura, jargão e tipo de exemplo.
+[00:03:37:06 --> 00:03:39:04] Então, ele vai criar uma tabela com esses parâmetros aqui
+[00:03:39:04 --> 00:03:41:21] para entender o nível técnico, intermediário e básico.
+[00:03:41:23 --> 00:03:43:27] O jargão permitido, moderado e mínimo.
+[00:03:43:27 --> 00:03:46:10] os exemplos de dados, negócios e cotidiano,
+[00:03:46:14 --> 00:03:48:17] as frases longas, médias e curtas,
+[00:03:48:19 --> 00:03:51:01] e também fazer as checagens, manter o sentido,
+[00:03:51:08 --> 00:03:53:27] definir termos técnicos em uma linha e a fluência natural.
+[00:03:54:06 --> 00:03:56:08] Quando você pede esse mapa de termos para a IA,
+[00:03:56:11 --> 00:03:59:25] você obriga ela a ter uma consciência da tradução que ela está fazendo.
+[00:04:00:01 --> 00:04:01:01] Então, ela não simplifica,
+[00:04:01:05 --> 00:04:04:02] ela substitui o jargão por um equivalente funcional.
+[00:04:04:05 --> 00:04:05:07] Então, você não perde o contexto,
+[00:04:05:11 --> 00:04:07:02] você mantém essa integridade de informação.
+[00:04:07:11 --> 00:04:09:22] A próxima situação aqui é uma aplicação em estilo.
+[00:04:09:29 --> 00:04:11:16] Então, o meio é a mensagem.
+[00:04:11:16 --> 00:04:14:13] Um artigo acadêmico precisa de conectores lógicos,
+[00:04:14:13 --> 00:04:16:17] precisa de citações, de parágrafos mais longos
+[00:04:16:17 --> 00:04:19:13] para provar essa robustez que esse e-mail está exigindo.
+[00:04:19:16 --> 00:04:22:13] Já um post de LinkedIn, ele precisa de frases mais curtas,
+[00:04:22:13 --> 00:04:24:08] precisa de listas, de ganchos visuais
+[00:04:24:08 --> 00:04:26:11] para prender a atenção em quem está scrollando.
+[00:04:26:16 --> 00:04:29:19] Então o conteúdo pode ser o mesmo, mas o figurino da frase
+[00:04:29:19 --> 00:04:31:20] precisa mudar conforme o canal.
+[00:04:31:25 --> 00:04:35:20] Então aqui tem um prompt para você atuar como um editor de estilo por canal.
+[00:04:35:23 --> 00:04:39:19] Você insere o seu texto e pede para a IA gerar três versões mantendo o sentido.
+[00:04:39:19 --> 00:04:43:13] O primeiro deles é acadêmico, então uma estrutura mais formal, com conectores lógicos,
+[00:04:43:13 --> 00:04:44:29] uma voz em pessoal e precisão.
+[00:04:45:02 --> 00:04:49:08] O segundo deles é literário, é um ritmo poético, metáforas claras, imagens sensoriais
+[00:04:49:08 --> 00:04:50:19] e uma variação de cadência.
+[00:04:50:21 --> 00:04:55:12] E depois um de redes sociais, frases curtas, ganchos fortes, escaneável e um call to action
+[00:04:55:12 --> 00:04:57:00] sutil no final do texto.
+[00:04:57:07 --> 00:05:01:21] Para cada versão, entregue um texto de 120 a 180 palavras, mais uma linha explicando
+[00:05:01:21 --> 00:05:03:13] porque o estilo funciona para esse público.
+[00:05:03:19 --> 00:05:08:09] Aqui tem regras, sem jargão desnecessário, não alterar fatos e afluência natural e
+[00:05:08:09 --> 00:05:08:21] coesão.
+[00:05:08:21 --> 00:05:12:12] Então aqui a gente está definindo as regras para cada canal antes de começar a escrever.
+[00:05:12:19 --> 00:05:18:16] Aí ela tende a ser bem prolixa e usar um monte de termos e fica travada às vezes no estilo mais genérico,
+[00:05:18:19 --> 00:05:21:14] o estilo médio assim, que todo mundo vai ter o mesmo resultado.
+[00:05:21:22 --> 00:05:26:06] Aqui a gente pede para travar no estilo redes sociais, no estilo acadêmico, no estilo literário.
+[00:05:26:09 --> 00:05:29:25] Então você vai ter frases curtas e escaneáveis, economizando várias horas de edição
+[00:05:29:25 --> 00:05:33:26] e você vai ter uma versão de cada texto para você filtrar a que funciona melhor para cada canal.
+[00:05:33:26 --> 00:05:38:21] E para garantir essa consistência, nós temos também aqui um framework de adaptação textual.
+[00:05:38:24 --> 00:05:39:20] Então vamos ver os passos.
+[00:05:39:26 --> 00:05:41:17] A primeira etapa é o diagnóstico.
+[00:05:41:18 --> 00:05:44:13] Quem que é o público? Qual que é a dor dele? Onde ele vai ler isso?
+[00:05:44:17 --> 00:05:48:14] Então é muito importante que você entenda muito bem quem que é seu perfil de cliente,
+[00:05:48:14 --> 00:05:50:23] quem que é seu público-alvo, com quem que você está falando aqui.
+[00:05:50:27 --> 00:05:54:01] Depois que você entende isso, você pode ir para a definição da temperatura.
+[00:05:54:12 --> 00:05:59:04] O que é a temperatura? É o tom mais emotivo, emocional que eu quero utilizar nesse texto.
+[00:05:59:08 --> 00:06:01:21] Então você pode usar um tom mais frio para um texto mais técnico,
+[00:06:01:21 --> 00:06:03:17] um tom neutro para um texto informativo
+[00:06:03:17 --> 00:06:05:18] ou quente para um texto mais emocional.
+[00:06:05:21 --> 00:06:07:23] Depois, você tem um ajuste de vocabulário.
+[00:06:07:25 --> 00:06:11:03] Quanto de jargão esse público suporta sem desligar o cérebro?
+[00:06:11:05 --> 00:06:12:25] Então, aqui é muito importante, por exemplo,
+[00:06:12:27 --> 00:06:15:12] se você for designer e estiver falando com você
+[00:06:15:12 --> 00:06:17:29] e eu utilizar os termos como tracking, kerning,
+[00:06:18:02 --> 00:06:19:26] você vai entender que eu estou falando de tipografia.
+[00:06:19:28 --> 00:06:22:10] Agora, eu jamais usaria esses termos com o meu cliente final.
+[00:06:22:14 --> 00:06:24:17] Eu tentaria traduzir isso para termos que ele vai entender.
+[00:06:24:27 --> 00:06:27:02] Espaçamento das letras, o respiro, sabe?
+[00:06:27:05 --> 00:06:29:29] Eu tentaria deixar isso menos subjetivo e mais objetivo.
+[00:06:29:29 --> 00:06:36:25] Então é muito importante você entender quais termos técnicos, quais jargões o seu público consegue entender sem desligar o cérebro.
+[00:06:36:29 --> 00:06:41:04] E aqui tem uma coisa, tem um outro termo que eu acho muito interessante, que é um termo chamado assobio de cachorro.
+[00:06:41:07 --> 00:06:43:01] Não sei se você já ouviu falar disso, é um nome meio engraçado.
+[00:06:43:03 --> 00:06:46:21] Mas assobio de cachorro o que é? É aquele assobio que somente os cachorros ouvem, né?
+[00:06:46:23 --> 00:06:49:01] A gente ouve bem baixinho, mas o cachorro na hora ele olha.
+[00:06:49:05 --> 00:06:52:22] Então é bom entender o público, voltando lá de novo para o primeiro passo do diagnóstico,
+[00:06:52:23 --> 00:06:56:14] entender muito bem o seu público, porque sempre vão ter termos, vão ter palavras ali.
+[00:06:56:14 --> 00:06:59:07] vai ter um vocabulário que fica só dentro daquele segmento,
+[00:06:59:07 --> 00:07:00:23] dentro das pessoas que você quer atingir.
+[00:07:00:26 --> 00:07:01:21] Então, pensa muito bem.
+[00:07:01:25 --> 00:07:04:07] Às vezes não é só jargão, às vezes são termos específicos.
+[00:07:04:07 --> 00:07:05:12] E isso vem também da temperatura,
+[00:07:06:07 --> 00:07:07:25] que somente o seu público vai entender.
+[00:07:08:01 --> 00:07:08:26] Aí você pode até pensar,
+[00:07:09:00 --> 00:07:10:17] nossa, mas aí eu vou alienar outras pessoas.
+[00:07:10:26 --> 00:07:13:10] Mas, às vezes, um texto que é efetivo, ele é assim.
+[00:07:13:14 --> 00:07:16:01] Ele aliena as outras pessoas para chegar nas pessoas certas.
+[00:07:16:03 --> 00:07:18:16] E depois disso, tem a reestruturação do estilo.
+[00:07:18:23 --> 00:07:20:21] Então, o canal pede um texto mais denso,
+[00:07:20:23 --> 00:07:22:08] um texto mais escaneável.
+[00:07:22:16 --> 00:07:24:13] Então, mais uma vez, o meio é a mensagem.
+[00:07:24:13 --> 00:07:28:11] Então, não adianta você fazer um texto incrível, lindo, perfeito para o seu público-alvo,
+[00:07:28:13 --> 00:07:31:12] mas ele é extremamente denso para o LinkedIn, que é o canal onde eles estão.
+[00:07:31:16 --> 00:07:35:14] Então, pensa muito bem em reestruturar esse estilo, em adaptar esse texto para o canal ideal,
+[00:07:35:20 --> 00:07:40:00] para que você, além de chegar no público certo, vocês também estejam no formato certo para aquele canal.
+[00:07:40:04 --> 00:07:42:01] O maior erro aqui é o erro de ego.
+[00:07:42:07 --> 00:07:46:17] Então, muita gente tem medo de adaptar porque acha que vai simplesmente perder a sua identidade.
+[00:07:46:23 --> 00:07:48:10] Ah, mas esse estilo não tem nada a ver comigo.
+[00:07:48:21 --> 00:07:53:12] Só que uma boa identidade verbal, ela permite essas várias versões da mesma mensagem.
+[00:07:53:12 --> 00:07:58:09] Pensa assim, quando você tá falando com a sua avó, você fala de um jeito diferente do jeito que você tá falando com o seu melhor amigo.
+[00:07:58:15 --> 00:08:02:04] E você não faz isso por falsidade, você faz isso por respeito e por intimidade.
+[00:08:02:08 --> 00:08:03:20] Na escrita, é a mesma coisa.
+[00:08:03:26 --> 00:08:09:11] Um outro grande problema é você acabar confundindo simplificar com empobrecer.
+[00:08:09:16 --> 00:08:11:14] Escrever de forma simples é muito difícil.
+[00:08:11:23 --> 00:08:17:02] Então, por isso, muita gente prefere escrever de uma forma mais difícil, justamente por preguiça de editar.
+[00:08:17:06 --> 00:08:19:16] Mas entenda aqui que a ideia é objetividade.
+[00:08:19:25 --> 00:08:21:16] A gente não quer deixar o texto simplista.
+[00:08:21:16 --> 00:08:24:18] A gente quer deixar o texto compreensível para o público que você quer alcançar.

@@ -1,0 +1,543 @@
+# Video: 31._exercicio_-_escrevendo_um_manifesto_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 15:01
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:01 --> 00:00:05:19] Nesse vídeo eu vou te mostrar a engenharia reversa de um manifesto que eu escrevi para a Overlens.
+[00:00:05:25 --> 00:00:10:20] Eu basicamente peguei todos os passos e etapas que eu segui para escrever esse manifesto
+[00:00:10:20 --> 00:00:13:19] e coloquei para você um documento que eu vou apresentar aqui agora.
+[00:00:14:00 --> 00:00:17:16] Inclusive você consegue, aqui embaixo do vídeo, baixar o documento para acompanhar
+[00:00:17:16 --> 00:00:19:25] e baixar o manifesto para você ler também.
+[00:00:20:05 --> 00:00:24:13] Foi um processo onde eu trabalhei em colaboração com a inteligência artificial.
+[00:00:24:18 --> 00:00:29:02] Você vai ver que ela não simplesmente gerou o texto pronto e eu utilizei.
+[00:00:29:02 --> 00:00:31:19] teve várias etapas diferentes ali no processo,
+[00:00:31:24 --> 00:00:34:23] e agora eu quero comentar aqui com você cada uma delas.
+[00:00:34:24 --> 00:00:36:19] Então, vem comigo, sem mais delongas,
+[00:00:36:21 --> 00:00:40:19] a gente está aqui na engenharia reversa do Manifesto Overlens.
+[00:00:40:25 --> 00:00:42:28] Esse foi um dos manifestos que eu escrevi,
+[00:00:43:00 --> 00:00:45:18] eu já escrevi alguns, não é um manifesto fundacional,
+[00:00:45:24 --> 00:00:48:18] não é aquele manifesto de origem da Overlens,
+[00:00:48:24 --> 00:00:51:22] mas é um manifesto de um momento, em 2025,
+[00:00:52:06 --> 00:00:57:13] em que eu queria alertar as pessoas sobre esse período que nós estamos vivendo,
+[00:00:57:13 --> 00:01:01:16] em que elas precisam buscar mais autonomia, precisam ser pessoas mais criadoras,
+[00:01:01:17 --> 00:01:06:02] não podem ficar dependendo muito só de um sistema que não está nem aí para elas.
+[00:01:06:05 --> 00:01:09:26] Então, eu queria provocar as pessoas, mostrar que criar é perigoso,
+[00:01:09:28 --> 00:01:13:13] mas mostrar também que criar é essencial para sobreviver.
+[00:01:13:16 --> 00:01:16:10] Essa era a minha intenção ao escrever esse manifesto.
+[00:01:16:11 --> 00:01:19:02] A minha ideia era colocar ele não só dentro da plataforma,
+[00:01:19:06 --> 00:01:21:07] mas também fazer um vídeo a partir dele.
+[00:01:21:12 --> 00:01:24:19] Depois eu vou falar do vídeo também, que foi uma derivação disso aqui.
+[00:01:24:19 --> 00:01:28:16] mas agora vamos focar aqui no texto, eu quero seguir o passo a passo com você.
+[00:01:28:24 --> 00:01:32:29] Logo na primeira etapa, você vê que está escrito arqueologia do manifesto.
+[00:01:32:29 --> 00:01:36:19] E eu gosto dessa palavra porque, quando nós pensamos em arqueologia,
+[00:01:36:22 --> 00:01:42:01] aquelas pessoas que ficam escavando ali para encontrar objetos, artefatos,
+[00:01:42:24 --> 00:01:48:06] ossos de dinossauro, elementos históricos para poder montar essas peças do quebra-cabeça,
+[00:01:48:06 --> 00:01:55:19] eu fiz um processo parecido para poder compreender qual é a estrutura por trás dos melhores manifestos,
+[00:01:55:19 --> 00:01:59:17] os que mais impactaram as pessoas, os que mais moveram as pessoas.
+[00:01:59:22 --> 00:02:05:27] Então, logo de cara aqui, o meu processo começou por uma metacognição.
+[00:02:05:28 --> 00:02:10:06] Antes de eu apresentar para a inteligência artificial o meu pensamento, minhas ideias, meus objetivos,
+[00:02:10:06 --> 00:02:12:25] eu queria organizar isso primeiro dentro da minha cabeça.
+[00:02:13:01 --> 00:02:15:17] É o ponto da clareza que nós já falamos bastante aqui.
+[00:02:15:17 --> 00:02:17:22] Então, eu reuni vários, tá?
+[00:02:17:24 --> 00:02:20:12] Eu fui um pouco exagerado, eu peguei, se eu não me engano,
+[00:02:20:12 --> 00:02:23:19] foram 50 melhores manifestos da história,
+[00:02:23:22 --> 00:02:26:19] ou 50 manifestos mais impactantes da história.
+[00:02:27:01 --> 00:02:29:25] Comecei a dissecar cada um deles, ler os principais.
+[00:02:29:28 --> 00:02:33:19] E aí, o que eu fiz foi explicar pro Chetiepeteus, ele mesmo,
+[00:02:34:04 --> 00:02:36:17] qual era a minha intenção, com quem que eu queria falar.
+[00:02:36:19 --> 00:02:39:05] Igual eu fiz aqui agora pra você, com quem que eu quero falar,
+[00:02:39:10 --> 00:02:43:03] qual era a minha intenção, qual emoção eu queria despertar nas pessoas.
+[00:02:43:03 --> 00:02:49:27] E eu pedi para ele selecionar dez manifestos que conversam um pouco com a visão que eu queria trazer.
+[00:02:50:10 --> 00:02:55:13] E aí, desses dez, li todos eles, selecionei alguns para poder identificar padrões.
+[00:02:55:20 --> 00:03:02:12] Esse é o primeiro passo que eu recomendo para você, não só para escrever manifesto ou qualquer outro material de texto que você for escrever.
+[00:03:02:15 --> 00:03:12:15] Comece pelas referências, comece pela arqueologia, comece dissecando ali quais são as partes de um bom texto no gênero que você está produzindo agora.
+[00:03:12:15 --> 00:03:17:10] Agora, no caso aqui, como eu estou falando de manifesto, eu dissequei os principais manifestos.
+[00:03:17:10 --> 00:03:21:18] Inclusive, coloquei de exemplo aqui o Manifesto Futurista e o Think Different também,
+[00:03:21:21 --> 00:03:25:14] que foram dois que me influenciaram bastante aqui nesse processo.
+[00:03:25:25 --> 00:03:29:12] Inclusive, eu coloquei para você aqui, escolha dois a quatro manifestos, né?
+[00:03:29:13 --> 00:03:32:22] Eu exagerei um pouquinho, peguei dez para poder estudar.
+[00:03:32:24 --> 00:03:35:01] Se você está com mais tempo, pode analisar mais.
+[00:03:35:03 --> 00:03:42:03] Se está com menos tempo, dois a quatro já é um essencial ali para você começar a identificar padrões importantes.
+[00:03:42:15 --> 00:04:08:08] A partir disso, então, eu fiz a dissecação estrutural, então eu peguei esses manifestos e comecei a compreender quais são os elementos comuns que todos eles tinham, pedi a ajuda da inteligência artificial para poder quebrar isso junto comigo também e cheguei em alguns pontos importantes, como tese central, fricção histórica, que é sobre algum atrito histórico envolvido ali, inimigo simbólico, contra o que eu quero lutar dentro desse manifesto,
+[00:04:08:08 --> 00:04:11:23] para poder mostrar para as pessoas que eu estou lutando por algo,
+[00:04:12:12 --> 00:04:16:10] também a ruptura proposta, ou seja, qual a mudança que eu queria propor ali,
+[00:04:16:29 --> 00:04:23:04] uma linguagem que tem ritmo, já que o manifesto é um tipo de texto mais emocional,
+[00:04:23:05 --> 00:04:25:22] um tipo de texto que é para envolver mais as pessoas,
+[00:04:26:00 --> 00:04:29:16] um chamado a ação e, claro, igual eu acabei de falar, um tom emocional também.
+[00:04:29:19 --> 00:04:33:27] Então, essas são características que eu identifiquei em manifestos bons,
+[00:04:34:01 --> 00:04:36:20] que impactam as pessoas, que geram algum movimento.
+[00:04:36:20 --> 00:04:41:24] desenvolvimento. A partir disso, eu fiz um mapa de padrões, recomendo, inclusive, que você trabalhe
+[00:04:41:24 --> 00:04:47:23] nisso, a ideia aqui, basicamente, é o quê? É você pensar assim, como que eu pego trechos, né, então,
+[00:04:47:24 --> 00:04:52:13] eu tenho teses centrais, aí eu pego e puxo a tese central de vários textos e monto aqui de um lado,
+[00:04:52:16 --> 00:04:57:15] depois, fricção histórica, puxa a fricção histórica, monto aqui do outro lado, montando uma
+[00:04:57:15 --> 00:05:04:07] espécie de mapa mental dos principais manifestos ali, que eu estava usando de referência,
+[00:05:04:28 --> 00:05:06:12] identificando essas partes dele.
+[00:05:06:24 --> 00:05:09:24] Aqui eu coloquei como metáfora você pensar num motor.
+[00:05:10:00 --> 00:05:13:04] Você pode tentar compreender o motor só ouvindo o barulho dele
+[00:05:13:04 --> 00:05:16:21] ou pode desmontar ele e entender o funcionamento interno ali.
+[00:05:16:25 --> 00:05:19:18] Aqui, no caso, eu estou compreendendo o funcionamento interno
+[00:05:19:18 --> 00:05:23:17] até mesmo para eu conseguir direcionar melhor a inteligência artificial no processo.
+[00:05:23:22 --> 00:05:26:01] Então, o mapa de padrões é legal para isso.
+[00:05:26:07 --> 00:05:28:17] Basicamente, depois que você dissecar essa estrutura,
+[00:05:28:17 --> 00:05:32:07] você começa a montar um painel pegando esses principais trechos
+[00:05:32:07 --> 00:05:34:10] dos manifestos que você escolheu
+[00:05:34:10 --> 00:05:35:27] pra usar de referência ali.
+[00:05:36:06 --> 00:05:38:04] Aí a gente entra na intenção
+[00:05:39:02 --> 00:05:40:12] diretiva. Qual que é a ideia
+[00:05:40:12 --> 00:05:42:07] aqui? Depois que eu já disse que, entendi a
+[00:05:42:07 --> 00:05:43:29] estrutura, eu vou conectar isso
+[00:05:44:16 --> 00:05:46:12] com a minha intenção, com o
+[00:05:46:12 --> 00:05:48:15] que eu quero gerar ali de material no final.
+[00:05:48:26 --> 00:05:50:06] Então, o primeiro
+[00:05:50:28 --> 00:05:51:23] passo aqui
+[00:05:51:23 --> 00:05:54:12] foi descrever
+[00:05:54:12 --> 00:05:56:08] com clareza o que eu queria. Então,
+[00:05:56:09 --> 00:05:58:09] as perguntas que eu passei a responder
+[00:05:58:09 --> 00:06:00:09] pra ele, foi o que eu quero que a pessoa que vai
+[00:06:00:09 --> 00:06:04:25] olha, isso aqui sinta. O que eu quero que essa pessoa perceba como inevitável
+[00:06:04:25 --> 00:06:09:04] ou como um paradigma, como uma barreira que precisa ser vencida.
+[00:06:09:09 --> 00:06:14:16] O que eu quero que a pessoa questione nela mesma para provocar esse movimento
+[00:06:14:16 --> 00:06:18:12] e qual ruptura eu quero desencadear para gerar uma ação.
+[00:06:18:17 --> 00:06:23:10] A partir disso, então, definir três a seis palavras âncora conceituais.
+[00:06:23:15 --> 00:06:29:10] Isso aqui é mais para você ter clareza refinada aqui para trabalhar com a inteligência artificial, tá?
+[00:06:29:10 --> 00:06:32:23] Mas você poderia montar também um painel semântico, um território de palavras,
+[00:06:32:27 --> 00:06:34:18] igual nós já falamos em outras aulas.
+[00:06:36:11 --> 00:06:42:11] Essas palavras não precisam estar no manifesto, elas são mais para definir o tom do que você quer falar.
+[00:06:42:25 --> 00:06:52:20] Por exemplo, nesse manifesto que eu escrevi aqui, eu coloquei palavras como pós-verdade, tecnofeudalismo, criação, atenção, era sintética.
+[00:06:52:26 --> 00:07:00:09] Só que eu não usei essas palavras, né? Criação eu até usei, criação e atenção, agora as outras eu não usei exatamente no manifesto,
+[00:07:00:09 --> 00:07:02:07] Mas a ideia, ela está ali.
+[00:07:02:10 --> 00:07:06:26] E eu precisava dessas palavras para começar a criar esse núcleo aqui do texto que eu vou escrever.
+[00:07:07:08 --> 00:07:10:02] Então, elas criam o campo semântico.
+[00:07:10:04 --> 00:07:15:09] Como eu disse, você pode criar um painel semântico também de verbos, adjetivos, substantivos,
+[00:07:15:10 --> 00:07:19:27] que você quer utilizar dentro do material ali para escrever o manifesto, tá?
+[00:07:20:03 --> 00:07:23:22] Uma vez então que eu descrevi aqui qual é a minha intenção,
+[00:07:24:13 --> 00:07:26:13] aí eu fui estruturar o prompt.
+[00:07:26:13 --> 00:07:31:27] prompt, inicial ali, o prompt base para poder trabalhar esse manifesto. Então, qual que é o
+[00:07:31:27 --> 00:07:37:12] objetivo? Trabalhar a IA sem engessar ela, orientar ela de um jeito claro e direto. Então, o prompt
+[00:07:37:12 --> 00:07:42:20] aqui nasceu de duas partes diferentes. Primeiro, a estrutura, os padrões, o jeito como eu quero que
+[00:07:42:20 --> 00:07:47:27] ela escreva e depois a minha intenção, que foram os dois passos que eu trouxe para você aqui na
+[00:07:47:27 --> 00:07:53:11] primeira parte aqui dessa explicação. E aí, eu criei um molde para ela. Olha só alguns pontos
+[00:07:53:11 --> 00:07:54:22] pontos importantes de ter no prompt.
+[00:07:54:25 --> 00:07:57:11] Objetivo do manifesto, tom desejado,
+[00:07:57:14 --> 00:07:58:23] palavras âncora,
+[00:07:58:27 --> 00:08:00:21] elementos obrigatórios,
+[00:08:00:23 --> 00:08:02:07] o que não deve aparecer,
+[00:08:02:28 --> 00:08:05:03] explicação do contexto. Aqui, no caso, como era
+[00:08:05:03 --> 00:08:07:01] um manifesto para Overlens, eu expliquei
+[00:08:07:01 --> 00:08:09:01] o que eu queria ali. Poderia estar
+[00:08:09:01 --> 00:08:11:01] em busca de movimento e não publicidade,
+[00:08:11:02 --> 00:08:12:09] por exemplo, eu poderia falar
+[00:08:12:09 --> 00:08:14:29] eu quero um manifesto que vai fazer
+[00:08:14:29 --> 00:08:17:11] as pessoas agirem, abraçarem
+[00:08:17:11 --> 00:08:18:26] algum movimento que eu estou
+[00:08:18:26 --> 00:08:20:13] querendo fazer ou coisa do tipo.
+[00:08:20:22 --> 00:08:23:01] Então, eu quero usar as palavras para mover
+[00:08:23:01 --> 00:08:25:03] as pessoas aqui. Então, a partir
+[00:08:25:03 --> 00:08:26:16] desses seis elementos,
+[00:08:27:17 --> 00:08:28:28] eu escrevi o prompt.
+[00:08:29:01 --> 00:08:30:28] Talvez você está falando assim, ah, você vai compartilhar o prompt
+[00:08:30:28 --> 00:08:32:25] aí também? Não. Na verdade,
+[00:08:32:25 --> 00:08:34:21] aqui eu quero te mostrar a estrutura
+[00:08:34:21 --> 00:08:36:25] de como funciona para você escrever seus
+[00:08:36:25 --> 00:08:39:04] prompts também. Claro que depois você pode acessar
+[00:08:39:04 --> 00:08:40:28] o overchat lá, tem um monte de prompt diferente,
+[00:08:41:11 --> 00:08:43:08] inclusive um de manifesto
+[00:08:43:08 --> 00:08:45:02] que você pode utilizar, mas
+[00:08:45:02 --> 00:08:46:29] aqui agora eu quero que você entenda o raciocínio.
+[00:08:47:01 --> 00:08:48:17] Isso é a parte mais importante, tá?
+[00:08:49:05 --> 00:08:51:02] Então, esses são alguns elementos que
+[00:08:51:02 --> 00:08:52:25] o prompt deve conter, mas lembre-se
+[00:08:52:25 --> 00:08:54:28] também, tá? A ideia não é mandar
+[00:08:54:28 --> 00:08:57:03] o prompt e a IA vai escrever tudo pronto pra você.
+[00:08:57:05 --> 00:08:58:17] Você vai ver já já o que vai acontecer.
+[00:08:59:08 --> 00:09:01:02] Então, depois que você envia,
+[00:09:01:04 --> 00:09:02:28] a IA vai te enviar uma proposta
+[00:09:02:28 --> 00:09:05:08] de manifesto. Às vezes esse manifesto
+[00:09:05:08 --> 00:09:07:00] vai ser legal, às vezes ele vai ser
+[00:09:07:00 --> 00:09:08:29] muito ruim, só que você tem
+[00:09:08:29 --> 00:09:10:27] uma oportunidade, quando ele é ruim, de
+[00:09:10:27 --> 00:09:13:02] pegar tudo que você não está gostando,
+[00:09:14:05 --> 00:09:15:06] registrar, não quero,
+[00:09:15:07 --> 00:09:16:19] não quero, não quero, não quero, não quero, explicar
+[00:09:16:19 --> 00:09:18:22] por que você não quer aquilo e como evitar
+[00:09:18:22 --> 00:09:20:11] e trazer isso pra IA também.
+[00:09:20:11 --> 00:09:25:04] Bem, isso vai dar ainda mais direção, clareza ali, com precisão,
+[00:09:25:04 --> 00:09:27:12] de como você quer que o texto seja escrito.
+[00:09:27:29 --> 00:09:30:08] Então, você não pede dez versões.
+[00:09:30:08 --> 00:09:31:23] Isso é outra coisa que às vezes as pessoas fazem.
+[00:09:31:25 --> 00:09:34:10] Ah, vou pedir duas, três de uma vez, aí eu leio a que fica melhor.
+[00:09:34:16 --> 00:09:37:01] Não, pede ela para escrever uma versão.
+[00:09:37:13 --> 00:09:40:09] Dessa uma versão que ela escrever, você vai ler.
+[00:09:40:22 --> 00:09:42:27] Tudo que você não gostar, você vai riscar.
+[00:09:43:01 --> 00:09:44:27] Não é possível que você não goste de nada.
+[00:09:45:12 --> 00:09:47:15] Não vou falar que não é possível, porque pode acontecer.
+[00:09:47:15 --> 00:09:50:10] Mas provavelmente tem alguma coisa ali que ainda dá pra aproveitar.
+[00:09:50:14 --> 00:09:53:26] Se não tiver, você vai pegando cada trecho e vai explicando.
+[00:09:53:26 --> 00:09:55:07] Não gostei disso, não gostei disso.
+[00:09:55:11 --> 00:09:57:23] Se o erro estiver na direção, você vai explicar.
+[00:09:57:26 --> 00:09:59:19] Olha, essa aqui não era a direção que eu queria.
+[00:09:59:23 --> 00:10:01:22] Eu queria mais pra esse outro lado aqui.
+[00:10:01:25 --> 00:10:03:26] Essa é a sensação que eu quero trazer pras pessoas.
+[00:10:04:10 --> 00:10:06:17] A minha visão de mundo é essa daqui e por aí vai.
+[00:10:06:19 --> 00:10:10:21] Você vai explicando pra inteligência artificial e ela vai refinando pra você.
+[00:10:10:27 --> 00:10:13:00] Mas aqui entra um ponto importante, olha.
+[00:10:13:29 --> 00:10:16:12] Avalia, ajusta, pede reformulação.
+[00:10:16:12 --> 00:10:20:28] A IA vai te entregar uma nova versão, você avalia, reajusta, pede uma reformulação.
+[00:10:20:29 --> 00:10:23:23] Só que você não vai ficar aqui para sempre, eu já vou explicar isso para você.
+[00:10:24:05 --> 00:10:27:28] Aqui entra o seu diferencial, provocação emocional estratégica.
+[00:10:28:06 --> 00:10:29:07] Então, dois exemplos aqui.
+[00:10:29:10 --> 00:10:34:29] Quando você diz, isso que você chama de manifesto, ou achei fraco, dormi na metade.
+[00:10:35:14 --> 00:10:40:20] Aqui, isso aqui são técnicas que eu gosto de utilizar com a inteligência artificial,
+[00:10:40:20 --> 00:10:46:16] artificial, porque nesse caso aqui eu não quero que a IA escreva como se fosse algo monótono,
+[00:10:46:16 --> 00:10:52:02] eu quero realmente, entre aspas, provocar ela, né? Mas eu quero realmente trazer esse lado mais
+[00:10:52:02 --> 00:10:57:29] emocional, eu quero fazer ela sentir, entre aspas, de novo, que eu não tô gostando, que a emoção que
+[00:10:57:29 --> 00:11:02:13] tá me passando não é boa. Então, eu uso frases como, quando fica ruim o manifesto, eu escrevo.
+[00:11:02:16 --> 00:11:04:24] É isso aí que você chama de manifesto?
+[00:11:06:00 --> 00:11:07:22] Ou então eu falo, nossa, ficou horrível.
+[00:11:07:24 --> 00:11:10:11] Ou então eu falo, achei fraco, dormi na metade.
+[00:11:10:14 --> 00:11:14:12] Ou então, não me envolveu, você poderia ter feito muito melhor.
+[00:11:14:22 --> 00:11:19:12] Ou às vezes eu vou até mais, eu falo assim, se você tentar fazer um humano ler isso aqui
+[00:11:19:12 --> 00:11:23:18] e gerar alguma emoção, provavelmente essa emoção vai ser tédio.
+[00:11:23:20 --> 00:11:26:27] Eu falo algumas coisas assim com a Yá de propósito mesmo, provocador,
+[00:11:27:00 --> 00:11:30:10] e ela começa a agir mais emocionalmente comigo.
+[00:11:30:13 --> 00:11:33:00] Porque aqui eu quero escrever algo emocional.
+[00:11:33:00 --> 00:11:36:02] Então, eu quero provocar esse tipo de comportamento, né?
+[00:11:36:03 --> 00:11:38:00] E ela passa a simular aquilo ali também.
+[00:11:38:17 --> 00:11:40:02] Então, qual que é a ideia aqui, tá?
+[00:11:40:03 --> 00:11:45:00] Quando eu escrevi isso aqui, eu pedi para a Yá interpretar meu jeito de fazer.
+[00:11:45:04 --> 00:11:48:02] Então, eu fui explicando para ela como eu escrevi o manifesto e ela mesma foi reagindo.
+[00:11:48:03 --> 00:11:48:20] Olha o que ela disse.
+[00:11:48:27 --> 00:11:52:00] Você está rompendo a simetria do comportamento do modelo.
+[00:11:52:27 --> 00:11:54:03] Basicamente, é o que eu acabei de falar.
+[00:11:54:05 --> 00:11:57:29] Quando eu faço esses comentários aqui, ela tende a me dar um resultado melhor.
+[00:11:58:05 --> 00:12:02:19] Porque eu estou tirando ela do padrãozinho dela ali, estatístico, que ela costuma seguir.
+[00:12:03:00 --> 00:12:07:23] Então, eu ativo nela aqui o que ela mesma chamou de modulação responsiva, que é o quê?
+[00:12:07:26 --> 00:12:12:09] Ela vai se adaptar ao meu jeito de falar com ela, ela tende a espelhar isso,
+[00:12:12:12 --> 00:12:19:02] e ela vai tentar aumentar o impacto, o ritmo, o risco do texto que ela está escrevendo,
+[00:12:19:02 --> 00:12:25:05] sem tentar trazer a palavra mais óbvia, mas começando a se comportar, entre aspas, de um jeito mais emocional, né?
+[00:12:25:11 --> 00:12:28:25] Simulando isso, espelhando esse jeito mais emocional.
+[00:12:29:17 --> 00:12:31:29] Então, isso é uma ferramenta que eu uso bastante,
+[00:12:32:08 --> 00:12:34:17] ela mesma trouxe como uma ferramenta legítima,
+[00:12:34:19 --> 00:12:36:24] um atrito que gera calor criativo,
+[00:12:36:29 --> 00:12:40:07] mas eu já vi outros materiais falando que quando você xinga e há,
+[00:12:40:10 --> 00:12:42:17] ou traz uma resposta muito emocional,
+[00:12:42:18 --> 00:12:44:29] ela tende a espelhar isso e devolver isso para você.
+[00:12:45:01 --> 00:12:46:22] Quando você usa muitas gírias,
+[00:12:46:26 --> 00:12:48:27] ou quando você fala de um jeito específico,
+[00:12:48:27 --> 00:12:52:19] repare, ela vai tender a falar parecido com como você fala.
+[00:12:52:27 --> 00:12:56:02] Então, eu gosto de utilizar essa técnica,
+[00:12:56:06 --> 00:12:57:18] na hora que eu estou escrevendo com ela ali,
+[00:12:57:18 --> 00:12:59:18] pra falar, eu pego às vezes um trecho e falo
+[00:12:59:18 --> 00:13:01:21] esse texto ficou horrível
+[00:13:01:21 --> 00:13:03:17] que lixo, poderia ser
+[00:13:03:17 --> 00:13:05:15] muito melhor, eu sei que parece um pouco
+[00:13:05:15 --> 00:13:07:16] agressivo, mas funciona, às vezes
+[00:13:07:16 --> 00:13:09:20] se você quiser ir com um pouco mais de classe, você pode
+[00:13:09:20 --> 00:13:11:17] falar também, né, esse trecho
+[00:13:11:17 --> 00:13:13:15] aqui me fez dormir, esse trecho
+[00:13:13:15 --> 00:13:14:20] aqui tá tirando todo
+[00:13:14:20 --> 00:13:17:15] o brilho do manifesto
+[00:13:17:15 --> 00:13:19:11] coisas do tipo assim, mas você
+[00:13:19:11 --> 00:13:21:13] precisa explicar pra Yara o que você não está
+[00:13:21:13 --> 00:13:23:12] gostando, é até um exercício pra você, se você
+[00:13:23:12 --> 00:13:25:02] simplesmente falar, ah, não gostei, faz de novo
+[00:13:25:02 --> 00:13:27:09] ela vai continuar naquele ciclo
+[00:13:27:09 --> 00:13:28:27] de padrãozinho dela, estatístico.
+[00:13:29:18 --> 00:13:31:14] Aí entra o refino humano.
+[00:13:31:23 --> 00:13:33:22] Olha essa parte aqui, isso aqui é muito importante.
+[00:13:33:26 --> 00:13:35:18] As pessoas simplesmente ignoram
+[00:13:35:18 --> 00:13:37:21] e por isso que ficam com textos genéricos
+[00:13:37:21 --> 00:13:38:23] com cara de inteligência artificial.
+[00:13:39:08 --> 00:13:42:19] Depois que eu trabalhei ali os trechos com a Yala,
+[00:13:42:20 --> 00:13:44:05] começando a me trazer algo legal,
+[00:13:44:11 --> 00:13:46:14] eu pego o manifesto, copio ele todo,
+[00:13:46:27 --> 00:13:48:04] abro um Google Docs,
+[00:13:48:08 --> 00:13:50:12] solto o manifesto no Google Docs
+[00:13:50:12 --> 00:13:52:15] e começo o meu processo de revisão.
+[00:13:52:22 --> 00:13:54:15] Então eu vou marcando o texto mesmo,
+[00:13:54:20 --> 00:13:56:10] por exemplo, quando é alguma coisa para tirar,
+[00:13:56:10 --> 00:13:58:25] eu venho aqui e marco de vermelho.
+[00:13:58:27 --> 00:13:59:27] Quando é uma coisa...
+[00:13:59:27 --> 00:14:01:20] Às vezes eu coloco até assim, que eu prefiro.
+[00:14:02:05 --> 00:14:03:08] Marco de vermelho.
+[00:14:03:08 --> 00:14:04:27] Quando é uma coisa que eu quero que fique,
+[00:14:05:02 --> 00:14:06:05] eu marco de...
+[00:14:06:05 --> 00:14:08:12] Às vezes eu tenho que fazer só algum ajuste,
+[00:14:08:12 --> 00:14:09:27] eu marco de amarelo.
+[00:14:09:28 --> 00:14:11:05] Eu vou marcando o texto inteiro.
+[00:14:11:11 --> 00:14:13:17] E vou deixando comentários meus também.
+[00:14:14:00 --> 00:14:15:12] Às vezes eu escrevo, olha,
+[00:14:15:15 --> 00:14:17:19] eu acho que aqui poderia ser diferente,
+[00:14:17:23 --> 00:14:18:28] poderia ser assim, assim, assim.
+[00:14:19:14 --> 00:14:20:23] E vou trabalhando nela.
+[00:14:21:04 --> 00:14:22:03] Leio em voz alta.
+[00:14:22:05 --> 00:14:23:00] Então, olha o processo aqui.
+[00:14:23:17 --> 00:14:24:18] Leitura em voz alta.
+[00:14:25:01 --> 00:14:26:06] Corte de redundância.
+[00:14:26:10 --> 00:14:29:27] Então, às vezes, eu sinto que, ah, já falou isso aqui antes, eu senti que ficou chato aqui.
+[00:14:30:01 --> 00:14:33:01] Eu começo a cortar, simplificar o texto mesmo.
+[00:14:33:24 --> 00:14:34:26] Fortalecimento do ritmo.
+[00:14:34:26 --> 00:14:38:13] Às vezes, aí, usa palavras que são muito genéricas, eu troco por alguma outra.
+[00:14:38:18 --> 00:14:41:12] Na hora que você lê em voz alta, você vai sentir isso, tá?
+[00:14:41:15 --> 00:14:44:24] Então, tá lendo ali, tem uma palavra meio estranha, você substitui.
+[00:14:44:26 --> 00:14:49:23] Aí, eu começo a usar ferramentas como substantivos do Google, dicionário de substantivo,
+[00:14:49:24 --> 00:14:53:05] pra tentar encontrar palavras que funcionam ali melhor no ritmo também.
+[00:14:53:05 --> 00:14:55:00] bem. Troca de verbos fracos
+[00:14:55:00 --> 00:14:56:26] quando é um verbo muito genérico,
+[00:14:56:26 --> 00:14:58:27] um verbo muito duro. Eu também
+[00:14:58:27 --> 00:15:01:00] vou trocando essas palavras assim por palavras
+[00:15:01:00 --> 00:15:02:28] mais próximas do meu
+[00:15:02:28 --> 00:15:04:27] público, mais próximas da emoção
+[00:15:04:27 --> 00:15:07:01] que eu quero trazer também. Eliminação
+[00:15:07:01 --> 00:15:08:24] de explicações óbvias. A Iá é
+[00:15:08:24 --> 00:15:10:29] mestre em fazer isso aqui. Ela tenta
+[00:15:10:29 --> 00:15:12:26] explicar demais o que ela tá fazendo e às
+[00:15:12:26 --> 00:15:14:28] vezes um bom texto é um texto que não explica,
+[00:15:15:00 --> 00:15:16:29] um texto que fica na entrelinha.
+[00:15:17:01 --> 00:15:18:18] Então eu começo a cortar essas
+[00:15:18:18 --> 00:15:20:24] explicações, simplificar o texto e depois eu ainda
+[00:15:20:24 --> 00:15:23:01] explico isso pra Iá. Cada mudança
+[00:15:23:01 --> 00:15:24:28] que eu faço, eu explico pra Iá porque
+[00:15:24:28 --> 00:15:26:29] eu estou fazendo essa mudança. Ela vai aprendendo
+[00:15:26:29 --> 00:15:28:29] a escrever melhor. Reforço
+[00:15:28:29 --> 00:15:30:26] de musicalidade. Isso aqui, quando você estiver
+[00:15:30:26 --> 00:15:32:24] lendo, você vai sentir também, tá?
+[00:15:32:28 --> 00:15:35:01] Então, eventualmente, eu acabo trocando ali
+[00:15:35:01 --> 00:15:36:09] alguma coisa que
+[00:15:37:03 --> 00:15:38:24] ficou repetido na hora errada,
+[00:15:38:26 --> 00:15:41:00] uma palavra que rima com outra de um jeito ruim,
+[00:15:41:07 --> 00:15:43:00] ou uma frase que
+[00:15:43:00 --> 00:15:45:01] poderia ser menor, porque eu fico lendo ela
+[00:15:45:01 --> 00:15:46:26] por um período muito longo, antes de um ponto
+[00:15:46:26 --> 00:15:48:29] final. Ou também, a Iá é muito
+[00:15:48:29 --> 00:15:50:24] boa em fazer frases mais ou menos do mesmo
+[00:15:50:24 --> 00:15:52:21] mesmo tamanho. Eu deixo uma pequena, outra
+[00:15:52:21 --> 00:15:54:24] grande, isso vai construindo um ritmo
+[00:15:54:24 --> 00:15:56:03] mais humano, mais
+[00:15:57:04 --> 00:15:58:18] imperfeito, sabe? Só que essa
+[00:15:58:18 --> 00:16:00:15] imperfeição, ela também traz emoção.
+[00:16:01:09 --> 00:16:02:26] E reconstrução de pausas.
+[00:16:02:29 --> 00:16:04:17] Quando você pede a Aya pra colocar ritmo,
+[00:16:04:17 --> 00:16:06:09] ela coloca, mas é aquele ritmo meio
+[00:16:06:09 --> 00:16:08:02] uma palavra de cada vez,
+[00:16:08:12 --> 00:16:10:15] pra tentar causar algum impacto.
+[00:16:11:06 --> 00:16:12:27] Só que ela segue o mesmo ritmo
+[00:16:12:27 --> 00:16:14:20] e ela fica repetindo ali, colocando em
+[00:16:14:20 --> 00:16:17:00] lista, tentando sim então, colocando
+[00:16:17:00 --> 00:16:18:24] não é sobre. Mas sempre que você
+[00:16:18:24 --> 00:16:20:14] se eu vier lá e ela fala, não é sobre X,
+[00:16:20:18 --> 00:16:22:20] é sobre Y, nossa, sempre que tem isso
+[00:16:22:20 --> 00:16:24:07] eu vou cortando, cortando, cortando, cortando,
+[00:16:24:23 --> 00:16:26:26] simplificando, marcando de vermelho, marcando de amarelo.
+[00:16:26:29 --> 00:16:28:27] No final tem um texto todo marcado,
+[00:16:29:13 --> 00:16:30:28] revisado ali, pra eu voltar
+[00:16:30:28 --> 00:16:32:27] mais um ciclo com a inteligência
+[00:16:32:27 --> 00:16:34:19] artificial. Às vezes aqui
+[00:16:34:19 --> 00:16:36:03] também, eu
+[00:16:36:24 --> 00:16:38:23] vou pegando trechos. Então,
+[00:16:38:24 --> 00:16:40:16] às vezes tem um parágrafo que ela escreveu
+[00:16:40:16 --> 00:16:42:24] e não ficou bom. Eu pego só aquele parágrafo,
+[00:16:42:24 --> 00:16:44:29] mando de novo pra ela e falo, vamos reescrever
+[00:16:44:29 --> 00:16:46:23] esse parágrafo aqui. Comento que eu
+[00:16:46:23 --> 00:16:48:21] eu não gostei, ela reescreve. Às vezes eu preciso
+[00:16:48:21 --> 00:16:50:20] adicionar um parágrafo a mais, às vezes eu sinto
+[00:16:50:20 --> 00:16:52:23] que a estrutura geral
+[00:16:52:23 --> 00:16:54:07] do texto, início, meio e fim,
+[00:16:55:00 --> 00:16:56:10] tem alguns gaps que precisam
+[00:16:56:10 --> 00:16:58:20] ser preenchidos também, então eu vou
+[00:16:58:20 --> 00:17:00:09] fazendo esses ajustes ali no
+[00:17:00:09 --> 00:17:02:21] material. Então, é como
+[00:17:02:21 --> 00:17:04:19] se fosse uma montagem, você vai
+[00:17:04:19 --> 00:17:06:19] remixando, montando o texto até ter ali
+[00:17:06:19 --> 00:17:08:12] o material que você precisa.
+[00:17:08:24 --> 00:17:10:06] Depois que eu faço o meu
+[00:17:10:26 --> 00:17:12:22] refinamento, a minha revisão, e eu
+[00:17:12:22 --> 00:17:14:08] tenho um texto ali que está ficando legal,
+[00:17:14:14 --> 00:17:16:02] eu pego aquele texto inteiro
+[00:17:16:02 --> 00:17:20:19] Primeiro, colo num novo chat e eu vou fazer algumas revisões aqui com a AI.
+[00:17:20:21 --> 00:17:21:20] Então, olha só o que eu faço.
+[00:17:22:23 --> 00:17:23:28] Primeiro, novo chat.
+[00:17:25:04 --> 00:17:27:03] Função, especialista em análise de manifestos.
+[00:17:27:03 --> 00:17:30:23] Então, eu utilizo um assistente que tem no Overshot chamado Holystone.
+[00:17:31:06 --> 00:17:33:16] E aí, com o Holystone, você consegue falar para ele,
+[00:17:33:17 --> 00:17:34:26] você é um especialista em manifestos.
+[00:17:34:26 --> 00:17:38:05] Ele vai gerar para você um bloco.
+[00:17:38:05 --> 00:17:40:15] Eu posso te mostrar isso direto no chat de GPT.
+[00:17:41:00 --> 00:17:44:03] Vou pegar ele aqui e você vai conseguir ver melhor como funciona.
+[00:17:44:03 --> 00:17:46:13] Então, eu crio alguns especialistas assim, ó.
+[00:17:46:14 --> 00:17:46:24] Tá aqui, ó.
+[00:17:47:06 --> 00:17:54:24] Rolestone, eu escrevo pra ele, você é um especialista em revisão e escrita de...
+[00:17:56:03 --> 00:17:58:02] Escrita de manifestos.
+[00:17:58:08 --> 00:18:03:22] Quando eu faço isso, ele vai criar uma role, uma função mais elaborada.
+[00:18:03:23 --> 00:18:06:02] Você é um especialista em revisão, escrita de manifestos,
+[00:18:06:02 --> 00:18:11:18] com domínio excepcional na articulação de ideias de impacto coletivo,
+[00:18:11:18 --> 00:18:13:20] clareza argumentativa, coerência discursiva.
+[00:18:13:24 --> 00:18:18:15] Então, ele cria aqui esse prompt e eu uso esse prompt no início aqui do GPT
+[00:18:18:15 --> 00:18:25:20] e embaixo dele eu coloco, preciso que você revise o seguinte manifesto.
+[00:18:26:14 --> 00:18:28:18] manifesto. E aí eu coloco
+[00:18:28:18 --> 00:18:30:02] o manifesto embaixo,
+[00:18:30:24 --> 00:18:31:29] colo ele inteiro aqui
+[00:18:31:29 --> 00:18:33:23] e deixo a IA revisar.
+[00:18:33:26 --> 00:18:36:06] Então o que ela faz? Ela vai analisar com base
+[00:18:36:06 --> 00:18:38:04] em alguns critérios que você colocou pra ela.
+[00:18:38:15 --> 00:18:40:05] Geralmente os critérios que eu gosto de usar
+[00:18:40:05 --> 00:18:42:06] pra manifesto são clareza,
+[00:18:42:06 --> 00:18:44:12] impacto emocional, força de ação,
+[00:18:44:12 --> 00:18:46:08] redundância e consistência retórica.
+[00:18:46:15 --> 00:18:48:18] Então eu pego esses elementos aqui, você poderia
+[00:18:48:18 --> 00:18:50:05] pegar outros também. Faz sempre
+[00:18:50:05 --> 00:18:52:15] esse metaprojeto. Abre um chat
+[00:18:52:15 --> 00:18:54:16] e pergunta, quais são os elementos
+[00:18:54:16 --> 00:18:56:19] de um bom manifesto? Pega aqueles que você já
+[00:18:56:19 --> 00:18:58:15] fez lá no início e coloca. Quais
+[00:18:58:15 --> 00:19:00:17] desse aqui eu coloco como critério pra fazer uma
+[00:19:00:17 --> 00:19:02:23] revisão boa de um manifesto?
+[00:19:02:24 --> 00:19:04:09] Ele vai trazer os critérios pra você também.
+[00:19:05:03 --> 00:19:06:18] A partir disso aqui,
+[00:19:07:02 --> 00:19:08:15] eu consigo rodar
+[00:19:08:15 --> 00:19:10:06] uma revisão com nota.
+[00:19:10:12 --> 00:19:12:21] Eu gosto de pedir também de nota de 0
+[00:19:12:21 --> 00:19:14:25] a 10 pra cada um desses critérios.
+[00:19:15:02 --> 00:19:16:24] Aí, ah, dá a nota
+[00:19:16:24 --> 00:19:18:25] dela pra cada um dos critérios e eu volto
+[00:19:18:25 --> 00:19:20:12] reajustando o que fez sentido.
+[00:19:20:19 --> 00:19:22:21] Que eu falo, não, isso aqui dá pra melhorar, dá pra trazer mais
+[00:19:22:21 --> 00:19:24:20] aqui e vou fazendo essa revisão
+[00:19:24:20 --> 00:19:26:20] junto com ela. Às vezes tem
+[00:19:26:20 --> 00:19:28:16] coisas que ela fala que eu não concordo, que ela
+[00:19:28:16 --> 00:19:30:08] muda demais, deixa duro de novo.
+[00:19:30:18 --> 00:19:32:20] Lembra, é um robô que está fazendo estatisticamente.
+[00:19:32:21 --> 00:19:34:18] Eu estou trazendo emoção. A emoção
+[00:19:34:18 --> 00:19:36:28] por vezes é imperfeita.
+[00:19:37:00 --> 00:19:38:12] Mas isso é o que torna o texto humano.
+[00:19:38:18 --> 00:19:40:16] E muitas vezes a IA tenta corrigir
+[00:19:40:16 --> 00:19:42:06] essa imperfeição. Nós não queremos. Então,
+[00:19:42:07 --> 00:19:44:07] você lê cada ponto que ela traz
+[00:19:44:07 --> 00:19:46:19] e o que faz sentido, você vai ajustando.
+[00:19:46:20 --> 00:19:48:15] Ela vai trazer redundâncias pra você. Fala, olha,
+[00:19:48:17 --> 00:19:50:20] você já falou disso aqui lá no segundo parágrafo,
+[00:19:50:20 --> 00:19:53:05] depois está falando disso aqui de novo no quarto parágrafo
+[00:19:53:05 --> 00:19:54:20] está ficando um pouco repetitivo
+[00:19:54:20 --> 00:19:56:23] acho que a gente pode tirar de um dos dois
+[00:19:56:23 --> 00:19:59:02] e você vai fazendo esse refinamento, olha o ritmo
+[00:19:59:02 --> 00:20:00:29] aqui poderia ser melhor, pede
+[00:20:00:29 --> 00:20:02:15] para ela sugestões, ela vai trazendo
+[00:20:02:15 --> 00:20:04:20] você vai pegando os trechos e montando
+[00:20:04:20 --> 00:20:07:08] pega o trecho e monta, não pede para ela reescrever
+[00:20:07:08 --> 00:20:09:02] o texto inteiro, ela vai estragar o seu texto
+[00:20:09:02 --> 00:20:11:00] você está montando isso junto com ela
+[00:20:11:00 --> 00:20:12:20] beleza? E aí vem
+[00:20:12:20 --> 00:20:15:00] um processo aqui que é ler, ajustar
+[00:20:15:00 --> 00:20:16:29] ler, ajustar, ler, ajustar, ler, ajustar
+[00:20:16:29 --> 00:20:18:20] e você vai fazendo isso junto com ela
+[00:20:18:20 --> 00:20:20:25] Ela vai te dando insights, você vai trazendo,
+[00:20:20:27 --> 00:20:22:05] você vai ajustando o que faz sentido,
+[00:20:22:12 --> 00:20:23:18] lê em voz alta de novo,
+[00:20:23:21 --> 00:20:26:05] e assim você vai construindo o material.
+[00:20:26:18 --> 00:20:29:11] Esse ciclo existe até o texto entrar no modo
+[00:20:29:11 --> 00:20:31:14] não há mais nada que eu possa melhorar
+[00:20:31:14 --> 00:20:32:27] sem mudar a intenção.
+[00:20:33:09 --> 00:20:35:20] Vocês vão perceber que perfeição, entre aspas aqui,
+[00:20:35:24 --> 00:20:37:15] não é adicionar mais coisas,
+[00:20:37:20 --> 00:20:38:18] mas sim você entender,
+[00:20:38:22 --> 00:20:40:21] agora eu não consigo retirar mais nada,
+[00:20:40:24 --> 00:20:42:05] eu tenho um texto que funciona,
+[00:20:42:11 --> 00:20:44:07] eu tenho um texto que traz o objetivo
+[00:20:44:07 --> 00:20:46:02] que eu preciso para ele também.
+[00:20:46:15 --> 00:20:48:09] Aí o que você faz? Descansa.
+[00:20:49:03 --> 00:20:50:26] geralmente é isso que eu faço, foi isso que eu fiz
+[00:20:50:26 --> 00:20:52:29] aqui, terminou o texto, descanse,
+[00:20:52:29 --> 00:20:54:21] para de ler ele, deixa pra depois,
+[00:20:55:08 --> 00:20:57:02] dorme, deixa pra outro dia, deixa o texto
+[00:20:57:02 --> 00:20:59:02] de moro um pouquinho incubado e volta.
+[00:20:59:08 --> 00:21:00:22] Volta no dia seguinte ou dali
+[00:21:00:22 --> 00:21:02:25] dois ou três dias e leia o texto em
+[00:21:02:25 --> 00:21:04:23] voz alta de novo. Quando você fizer
+[00:21:04:23 --> 00:21:06:15] isso, você já vai estar com olhos
+[00:21:07:03 --> 00:21:08:23] frescos e a sua leitura será
+[00:21:08:23 --> 00:21:10:23] uma nova leitura, menos enviesada,
+[00:21:10:24 --> 00:21:12:29] menos viciada no próprio ritmo
+[00:21:12:29 --> 00:21:14:24] que você já construiu. E você
+[00:21:14:24 --> 00:21:16:27] vai notar mais coisas que
+[00:21:16:27 --> 00:21:18:01] que podem melhorar no texto.
+[00:21:18:14 --> 00:21:20:24] Aí você ajusta o que precisa ajustar,
+[00:21:20:24 --> 00:21:22:29] alguma palavra que não gostou, alguma coisa sem sentido,
+[00:21:23:02 --> 00:21:25:09] alguma ideia que você amadureceu na cabeça também,
+[00:21:25:14 --> 00:21:28:00] é natural que isso aconteça no processo.
+[00:21:28:08 --> 00:21:30:05] Então, intervalo de horas até dias
+[00:21:30:05 --> 00:21:32:11] para quebrar o efeito de adaptação perceptiva
+[00:21:32:11 --> 00:21:34:20] é o equivalente a olhar um quadro no dia seguinte,
+[00:21:34:21 --> 00:21:36:29] você vê problemas que estavam invisíveis.
+[00:21:37:12 --> 00:21:39:05] Esse passo não é opcional,
+[00:21:39:05 --> 00:21:42:09] e realmente eu sempre gosto de deixar incubado
+[00:21:42:09 --> 00:21:43:19] e voltar depois de um tempo
+[00:21:43:19 --> 00:21:45:20] para o texto que eu estava escrevendo ali.
+[00:21:45:20 --> 00:21:47:06] Independente do tipo de texto, tá?
+[00:21:47:10 --> 00:21:48:15] Tende a funcionar bem.
+[00:21:48:27 --> 00:21:50:18] Aí você faz um teste de performance.
+[00:21:50:27 --> 00:21:52:14] Como que eu faço esse teste de performance?
+[00:21:52:22 --> 00:21:54:06] Eu mando pra outras pessoas lerem.
+[00:21:55:02 --> 00:21:57:12] Eu peço pras pessoas lerem em voz alta na minha frente.
+[00:21:57:21 --> 00:21:59:14] Que aí eu vejo onde elas agarram também.
+[00:21:59:25 --> 00:22:01:24] Aqui porque eu tô escrevendo um manifesto, né?
+[00:22:01:29 --> 00:22:05:03] Então eu gosto de ver onde a pessoa travou, onde ela agarrou, onde ela não entendeu.
+[00:22:05:13 --> 00:22:08:27] Eu vou pedindo, leia o primeiro parágrafo e me explica o que você entendeu.
+[00:22:09:03 --> 00:22:11:13] Leia o segundo parágrafo e me explica o que você entendeu.
+[00:22:11:18 --> 00:22:12:21] Então eu faço esse processo.
+[00:22:12:21 --> 00:22:14:10] processo. Pedir pra alguém ler pra você,
+[00:22:14:14 --> 00:22:16:08] pedir pra alguém ler em voz alta, pra
+[00:22:16:08 --> 00:22:18:08] si mesmo, observe pontos de
+[00:22:18:08 --> 00:22:20:12] perda de atenção, observe os trechos
+[00:22:20:12 --> 00:22:22:09] onde a respiração aumenta, observe
+[00:22:22:09 --> 00:22:24:11] onde há tropeço, confusão ou
+[00:22:24:26 --> 00:22:26:11] excesso. Às vezes uma frase muito
+[00:22:26:11 --> 00:22:28:06] longa, às vezes uma palavra muito
+[00:22:28:06 --> 00:22:30:08] difícil de falar e por aí vai.
+[00:22:30:14 --> 00:22:32:07] Você descobre onde o texto ainda
+[00:22:32:07 --> 00:22:34:06] está impuro, onde ele ainda
+[00:22:34:06 --> 00:22:36:03] precisa de refinamento ali.
+[00:22:36:06 --> 00:22:38:11] Vai marcando esses pontos pra você
+[00:22:38:11 --> 00:22:39:29] trabalhar depois. E aí,
+[00:22:40:01 --> 00:22:41:28] uma vez que você terminou esses
+[00:22:41:28 --> 00:22:43:22] esses testes de performance, você vai
+[00:22:43:22 --> 00:22:45:24] para a consolidação final. O que você faz aqui
+[00:22:45:24 --> 00:22:47:27] na consolidação final? Você ainda vai
+[00:22:47:27 --> 00:22:49:23] pedir a IA, eu gosto de pedir a IA para
+[00:22:49:23 --> 00:22:51:18] fazer essa última checagem de
+[00:22:51:18 --> 00:22:53:11] ritmo, intenção, tom,
+[00:22:54:01 --> 00:22:55:19] coerência com a
+[00:22:55:19 --> 00:22:57:23] identidade do que você está construindo, quem está
+[00:22:57:23 --> 00:22:58:29] falando esse manifesto,
+[00:22:59:26 --> 00:23:01:17] originalidade e força narrativa.
+[00:23:02:02 --> 00:23:03:17] Terminou de fazer essa revisão,
+[00:23:03:20 --> 00:23:05:19] aí você amarra e tem
+[00:23:05:19 --> 00:23:07:24] uma versão final. Esse aqui
+[00:23:07:24 --> 00:23:09:22] foi um manifesto que eu escrevi desse jeito,
+[00:23:09:22 --> 00:23:11:20] tá? Ele tem trechos
+[00:23:11:20 --> 00:23:13:20] aqui escritos por Iá, tem trechos escritos
+[00:23:13:20 --> 00:23:15:21] por mim, ele era muito maior do que tá aqui,
+[00:23:15:24 --> 00:23:17:15] eu cortei muitos parágrafos, adicionei
+[00:23:17:15 --> 00:23:19:17] parágrafos novos, e eu poderia
+[00:23:19:17 --> 00:23:21:20] ler aqui pra você, mas eu acredito que vai
+[00:23:21:20 --> 00:23:23:14] ser legal você ler e deixar
+[00:23:23:14 --> 00:23:25:17] aqui embaixo um comentário
+[00:23:25:17 --> 00:23:27:15] do que você achou desse manifesto,
+[00:23:27:15 --> 00:23:29:18] do que fez sentido, se pareceu um
+[00:23:29:18 --> 00:23:31:06] texto feito por Iá. Inclusive,
+[00:23:31:06 --> 00:23:33:22] antes de chegar nessa aula aqui, eu gostaria
+[00:23:33:22 --> 00:23:35:21] que você me falasse se pareceu
+[00:23:35:21 --> 00:23:37:11] um texto de Iá ou se parece um texto
+[00:23:37:11 --> 00:23:39:08] mais humano pra você também,
+[00:23:39:22 --> 00:23:46:06] E uma vez que você responder isso, me diga se os seus textos gerados por Iá chegam nesse resultado ou não.
+[00:23:46:15 --> 00:23:48:09] Lembrando que o link do manifesto está aqui embaixo.
+[00:23:48:21 --> 00:23:51:27] Deixe o seu comentário aqui, que eu quero saber um pouco mais de você.
+[00:23:52:00 --> 00:23:58:00] A ideia aqui foi mais fazer essa engenharia reversa, te mostrar um pouquinho como eu escrevi esse manifesto,
+[00:23:58:19 --> 00:24:01:01] quais foram as etapas que eu segui para escrever ele.
+[00:24:01:03 --> 00:24:05:08] E agora eu gostaria muito de ouvir seu comentário aqui embaixo, se você gostou do manifesto, se não gostou,
+[00:24:05:09 --> 00:24:07:14] se gostou do processo, se vai repetir também.
+[00:24:07:14 --> 00:24:09:10] bem, deixa aqui pra gente continuar
+[00:24:09:10 --> 00:24:11:07] essa conversa. Beleza? Então,
+[00:24:11:09 --> 00:24:12:16] até a próxima aula e...

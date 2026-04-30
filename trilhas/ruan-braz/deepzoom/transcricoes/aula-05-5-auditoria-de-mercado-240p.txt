@@ -1,0 +1,1572 @@
+# Video: 5._auditoria_de_mercado (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: medium
+# Dispositivo: CUDA
+# Data: 2026-04-27 22:53
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:01 --> 00:00:04:01] Começamos então a nossa aula sobre auditoria de mercado.
+[00:00:04:17 --> 00:00:08:09] Na última aula, nós vimos como fazer uma auditoria de negócio utilizando o Business
+[00:00:08:09 --> 00:00:09:07] Model Canvas.
+[00:00:09:18 --> 00:00:12:12] Nessa aula aqui, nós vamos fazer uma auditoria de mercado.
+[00:00:12:13 --> 00:00:16:18] Eu vou ensinar para vocês os principais passos e os principais elementos que você
+[00:00:16:18 --> 00:00:20:06] precisa buscar para entender melhor o mercado do seu cliente.
+[00:00:20:10 --> 00:00:22:15] Então eu já vou abrir aqui, começando com tudo.
+[00:00:22:24 --> 00:00:27:02] E eu quero começar com essa frase aqui porque ela diz muito sobre o que é estratégia
+[00:00:27:02 --> 00:00:31:24] e ela me acompanha já há muito tempo, desde quando eu tinha lá meus 10 anos
+[00:00:31:24 --> 00:00:36:01] e jogava aí Jofem Pires e fui ler o livro Arte da Guerra do Sun Tzu.
+[00:00:36:07 --> 00:00:40:04] O livro Arte da Guerra é um livro milenar, não sei se você conhece,
+[00:00:40:13 --> 00:00:44:28] escrito por um chinês chamado Sun Tzu, e esse é um livro de estratégia.
+[00:00:45:03 --> 00:00:49:21] Para você ter noção, a galera do FBI usa conceitos da arte da guerra.
+[00:00:50:03 --> 00:00:52:29] A galera do mundo dos negócios usa conceitos da arte da guerra.
+[00:00:53:13 --> 00:00:54:28] Todo mundo entende esses conceitos,
+[00:00:54:28 --> 00:00:57:16] porque eles são princípios básicos de um confronto.
+[00:00:57:18 --> 00:01:01:10] Só que o mais legal é que a arte da guerra não quer dizer só
+[00:01:01:10 --> 00:01:06:01] numa guerra entre pessoas que vão lá se degladiar e morrer pela sua nação.
+[00:01:06:28 --> 00:01:11:15] Quando nós falamos de estratégia, nós temos nós mesmos e os nossos oponentes.
+[00:01:11:23 --> 00:01:15:09] E essa frase aqui, ela diz muito o que é ser estratégico.
+[00:01:15:19 --> 00:01:16:19] Sanzu fala assim, olha,
+[00:01:16:22 --> 00:01:19:15] se você conhece o inimigo e conhece a si mesmo,
+[00:01:19:25 --> 00:01:22:23] não precisa temer o resultado de 100 batalhas.
+[00:01:23:03 --> 00:01:24:09] Se você conhece,
+[00:01:24:09 --> 00:01:31:04] Se você se conhece, mas não conhece o inimigo, para cada vitória ganha, sofrerá também
+[00:01:31:04 --> 00:01:32:00] uma derrota.
+[00:01:32:13 --> 00:01:37:14] Se você não conhece nem o inimigo, nem a si mesmo, perderá todas as batalhas.
+[00:01:37:22 --> 00:01:40:00] Então é muito massa essa frase aqui, ela é simples.
+[00:01:40:12 --> 00:01:44:28] Na primeira aula de auditoria do negócio, nós conhecemos o negócio do nosso cliente,
+[00:01:45:01 --> 00:01:47:21] nós conhecemos nós mesmos, digamos assim.
+[00:01:48:00 --> 00:01:51:01] E quem é o inimigo do cliente nesse cenário aqui?
+[00:01:51:01 --> 00:01:55:15] são os concorrentes, que podem tirar um cliente do seu cliente.
+[00:01:55:19 --> 00:01:58:15] Então, o que o Sanzu quis dizer aqui é muito importante,
+[00:01:58:21 --> 00:02:02:12] é que dentro de uma estratégia, isso aqui é um princípio básico da arte da guerra
+[00:02:02:12 --> 00:02:05:22] e um princípio básico do mundo dos negócios também, é...
+[00:02:05:22 --> 00:02:09:19] Se você conhece a sua empresa e conhece o seu concorrente,
+[00:02:10:01 --> 00:02:13:10] você não precisa temer o resultado de 100 batalhas.
+[00:02:13:20 --> 00:02:16:09] Ele também fala lá no livro do conceito do ambiente,
+[00:02:16:18 --> 00:02:18:17] que pode se encaixar muito bem aqui,
+[00:02:18:17 --> 00:02:25:22] que quando você conhece o ambiente você também tem mais chance de vencer a guerra.
+[00:02:26:03 --> 00:02:29:00] É muito legal esse livro falar de suprimentos também para a guerra e tal,
+[00:02:29:01 --> 00:02:32:10] mas enfim, não vou nem entrar nisso. Eu vou só colocar aqui, ambiente san...
+[00:02:34:21 --> 00:02:36:02] estratégia
+[00:02:37:23 --> 00:02:40:19] Compreender o ambiente, que isso aqui é um dos princípios, espaço,
+[00:02:40:26 --> 00:02:43:09] compreender o ambiente e suas interações.
+[00:02:43:29 --> 00:02:45:25] Isso é um dos princípios da arte da guerra também
+[00:02:45:25 --> 00:02:47:16] e nós podemos aplicar aqui,
+[00:02:47:20 --> 00:02:49:23] porque o mercado é o ambiente.
+[00:02:50:09 --> 00:02:53:18] O concorrente é o inimigo, mas o mercado é o ambiente.
+[00:02:53:26 --> 00:02:56:28] E esse ambiente é o que nós vamos compreender,
+[00:02:57:05 --> 00:02:58:18] qual que é a lógica por trás dele.
+[00:02:59:05 --> 00:03:01:09] Outra coisa importante que nós precisamos saber
+[00:03:01:09 --> 00:03:04:06] é que cada mercado possui sua própria dinâmica
+[00:03:04:06 --> 00:03:07:05] e é muito importante entender o jogo desse mercado.
+[00:03:07:05 --> 00:03:13:22] Então, existem paradigmas, que são padrões do mercado que se repetem, e eles são diferentes
+[00:03:13:22 --> 00:03:16:22] para cada mercado, para cada tipo de cliente que você atende.
+[00:03:17:06 --> 00:03:20:21] Então, depois que você fez a auditoria do negócio, é muito importante entender
+[00:03:20:21 --> 00:03:22:06] os fatores externos.
+[00:03:22:10 --> 00:03:26:17] Os fatores internos são aqueles ligados ao negócio e os fatores externos são aqueles
+[00:03:26:17 --> 00:03:29:08] ligados ao mercado e à concorrência.
+[00:03:29:18 --> 00:03:34:03] E eu coloquei aqui também, eu quero contar para vocês o que é esse paradigma, eu
+[00:03:34:06 --> 00:03:38:20] batizei ele assim, mas ele é muito interessante e nós temos que tomar muito cuidado com
+[00:03:38:20 --> 00:03:38:29] ele.
+[00:03:39:06 --> 00:03:40:21] O que é o paradigma da avenida?
+[00:03:41:12 --> 00:03:45:15] Imagine que acabou de surgir uma nova cidade no mapa.
+[00:03:46:05 --> 00:03:49:19] E essa cidade não tem nada além de uma avenida.
+[00:03:49:29 --> 00:03:56:29] Essa avenida possui apenas casas residenciais, mas o primeiro comércio apareceu lá,
+[00:03:57:13 --> 00:03:58:15] e era uma mercearia.
+[00:03:58:15 --> 00:04:04:01] Essa mercearia, quando ela chegou, ela não tinha muitos conceitos avançados sobre o
+[00:04:04:01 --> 00:04:05:06] mundo dos negócios, não.
+[00:04:05:15 --> 00:04:10:09] Na verdade, era um cara que era dono de algumas terras lá, que iria fazendo dinheiro, aquela
+[00:04:10:09 --> 00:04:15:01] cidade nova, ele viu uma oportunidade, não existe nenhuma mercearia aqui, é uma oportunidade
+[00:04:15:01 --> 00:04:16:15] para eu criar minha própria mercearia.
+[00:04:17:00 --> 00:04:21:14] E ele criou a mercearia dele lá nessa avenida da cidade.
+[00:04:22:01 --> 00:04:26:02] E aí o tempo passou e essa mercearia se tornou até ponto de referência.
+[00:04:26:02 --> 00:04:27:22] As pessoas falavam, onde a gente vai se encontrar?
+[00:04:27:23 --> 00:04:31:09] Lá na praça, perto da mercearia do João, e ela virou referência.
+[00:04:31:19 --> 00:04:37:09] Só que tudo que tinha de ponto de contato nessa mercearia visual era uma fachada feita
+[00:04:37:09 --> 00:04:44:26] com uma letra pintada à mão, nada muito técnico e especial de design não.
+[00:04:45:08 --> 00:04:49:17] Ele simplesmente colocou lá a mercearia do João, umas estrelinhas diferenciadas
+[00:04:49:17 --> 00:04:52:16] lá para a galera identificar onde que era essa mercearia.
+[00:04:52:16 --> 00:04:57:17] Só que a cidade começou a crescer e, dali um tempo, um dos vizinhos notou que o João
+[00:04:57:17 --> 00:05:02:01] estava dando muito bem com essa oportunidade que ele aproveitou.
+[00:05:02:03 --> 00:05:06:29] Falei, cara, o João aproveitou uma oportunidade única aqui nessa nova cidade.
+[00:05:07:09 --> 00:05:10:09] Ele é o único negócio local que todo mundo compra dele.
+[00:05:10:20 --> 00:05:11:05] Quer saber?
+[00:05:11:11 --> 00:05:14:19] Eu vou montar um negócio para mim também aqui nessa avenida.
+[00:05:14:27 --> 00:05:19:21] E aí o Carlos, o vizinho do João, não queria ficar de fora dessa parada, foi
+[00:05:19:21 --> 00:05:21:23] lá e construiu uma padaria dele.
+[00:05:21:23 --> 00:05:27:21] Só que o Carlos também não tem noção nenhuma do mundo dos negócios e ele tá fazendo isso
+[00:05:27:21 --> 00:05:28:19] meio que por rumo.
+[00:05:28:22 --> 00:05:29:23] O que ele faz agora?
+[00:05:30:03 --> 00:05:34:26] Ele pega e olha pro João, olha, se o João tá dando certo eu vou copiar os passos dele,
+[00:05:35:08 --> 00:05:38:03] eu vou fazer exatamente o que o João fez aqui nessa avenida.
+[00:05:38:15 --> 00:05:45:11] E aí ele vai, coloca uma fachada bem parecida com a fachada do João, tipografia vernacular
+[00:05:45:11 --> 00:05:50:08] ali feita à mão, tudo mais ou menos, coloca lá a padaria do Carlos e copia.
+[00:05:50:08 --> 00:05:56:00] O tempo vai passando e novas pessoas vão vendo que tanto o João quanto o Carlos tiveram
+[00:05:56:00 --> 00:05:59:09] sucesso ali e está dando certo e outros negócios vão surgindo.
+[00:05:59:14 --> 00:06:00:29] Só que o que esses negócios fazem?
+[00:06:01:08 --> 00:06:03:04] Eles vão copiando o Carlos e o João.
+[00:06:03:15 --> 00:06:10:03] Aí chega a Valkíria, depois chega a Samanta, aí chega o Josué e eles vão construindo
+[00:06:10:03 --> 00:06:14:16] os negócios deles copiando o que o Carlos e o João fizeram.
+[00:06:14:23 --> 00:06:16:17] Esse é o paradigma da avenida.
+[00:06:17:08 --> 00:06:23:02] quando um negócio copia outro negócio próximo porque aquele é o ambiente onde ele vive,
+[00:06:23:08 --> 00:06:29:13] aquela é a bolha dele. E se o meu colega está fazendo, então ele está no mercado há mais tempo,
+[00:06:29:14 --> 00:06:35:27] se ele faz, então dá certo. Só que isso é um viés. Por quê? Porque não necessariamente tudo
+[00:06:35:27 --> 00:06:40:26] que aquela pessoa fez foi o que fez ela dar certo. Às vezes foi uma questão de contexto e não
+[00:06:40:26 --> 00:06:45:14] uma questão de design. Às vezes foi uma questão de oportunidade e não uma questão estratégica.
+[00:06:45:14 --> 00:06:50:09] Só que o mundo dos negócios ele roda muito assim, um copiando os passos do outro.
+[00:06:50:19 --> 00:06:56:24] E existe no mercado muitos empreendedores que não foram formados em gestão de negócio
+[00:06:56:24 --> 00:06:57:24] e administração.
+[00:06:58:04 --> 00:07:01:09] Eles viram oportunidades e começaram a agarrar essas oportunidades.
+[00:07:01:21 --> 00:07:05:21] E com o tempo, eles vão observando o que os outros fazem, copiam e vão fazendo igual.
+[00:07:06:03 --> 00:07:11:11] Só que algumas coisas acabam sendo copiadas e não necessariamente são coisas boas.
+[00:07:11:15 --> 00:07:13:05] O design é clássico disso.
+[00:07:13:05 --> 00:07:19:24] Se você for para uma cidade de interior, você vai ver que o design das lojas e dos estabelecimentos
+[00:07:19:24 --> 00:07:21:21] é muito parecido um com o outro.
+[00:07:21:24 --> 00:07:24:17] É um design de mediano para ruim.
+[00:07:24:24 --> 00:07:25:09] Por quê?
+[00:07:25:12 --> 00:07:27:00] A pessoa vive naquele ambiente.
+[00:07:27:16 --> 00:07:33:28] Hoje com a internet, isso tem mudado, porque uma pessoa pode morar, um designer pode morar
+[00:07:33:28 --> 00:07:37:02] no interior, mas ele tem o mundo como referência.
+[00:07:37:09 --> 00:07:41:16] E aí, isso pode fazer com que ele use isso de diferencial, mesmo estando numa
+[00:07:41:16 --> 00:07:42:07] cidade local.
+[00:07:42:07 --> 00:07:47:11] Mas, de um tempo para trás, se você fosse numa cidade interior, era sempre do mesmo jeito.
+[00:07:47:29 --> 00:07:48:13] Por quê?
+[00:07:48:19 --> 00:07:51:03] Porque aquelas pessoas viveam um paradigma.
+[00:07:51:11 --> 00:07:52:08] E o que é um paradigma?
+[00:07:52:14 --> 00:07:55:18] É um padrão que não é questionado no mercado.
+[00:07:56:08 --> 00:08:01:11] Aqui, ao fazer a auditoria do mercado, nós queremos identificar esses padrões.
+[00:08:01:17 --> 00:08:04:29] Até mesmo para, lá na etapa de estratégia, questionar eles.
+[00:08:05:17 --> 00:08:10:03] Identificar se a empresa realmente precisa continuar seguindo os mesmos padrões do
+[00:08:10:03 --> 00:08:16:15] mercado ou se ela pode inovar e aproveitar brechas nesse mercado. Então, o nosso objetivo aqui
+[00:08:16:15 --> 00:08:24:11] principal é ter uma visão ampla do mercado em que nós estamos entrando. E o mais importante aqui é
+[00:08:24:11 --> 00:08:30:11] o seguinte, você pode fazer a auditoria de mercado analisando várias áreas do mercado,
+[00:08:30:15 --> 00:08:36:04] você pode analisar os produtos que existem no mercado, você pode analisar o atendimento no
+[00:08:36:04 --> 00:08:42:05] do mercado. Mas o que vale para nós, designers? O que nós queremos analisar do mercado? A
+[00:08:42:05 --> 00:08:47:02] comunicação dele. Se nós estamos aqui para prestar um serviço de design de identidade de marca,
+[00:08:47:17 --> 00:08:53:03] o que nós queremos analisar? Como os nossos concorrentes e também os stakeholders, que eu
+[00:08:53:03 --> 00:08:58:17] vou explicar aqui o que é, como eles se comunicam? Como que os seus concorrentes
+[00:08:58:17 --> 00:09:02:14] se comunicam com os clientes? Como eles chamam a atenção dos clientes? Qual que é a
+[00:09:02:14 --> 00:09:05:26] relação desse mercado com o design? Tem alguém investindo em design?
+[00:09:06:26 --> 00:09:11:24] São esses pontos que nós queremos analisar aqui. É esse tipo de auditoria que nós vamos fazer.
+[00:09:12:03 --> 00:09:15:13] Se você pesquisar na internet, começar a pesquisar por auditoria de marketing,
+[00:09:15:17 --> 00:09:19:26] auditoria de mercado, vai aparecer uma série de coisas. Tem até auditoria de supermercado,
+[00:09:19:28 --> 00:09:24:13] se você pesquisar deve aparecer. Que é para fazer uma auditoria para identificar os melhores
+[00:09:24:13 --> 00:09:29:24] pontos de vendas, os melhores posicionamentos de produtos. Isso é um tipo de auditoria de
+[00:09:29:24 --> 00:09:34:29] só que é uma auditoria de mercado para mercado no sentido de mercado mesmo, sabe?
+[00:09:35:05 --> 00:09:35:26] Supermercado e tal.
+[00:09:36:14 --> 00:09:41:02] Agora aqui nós estamos falando de auditoria de mercado como um ecossistema voltado para
+[00:09:41:02 --> 00:09:41:21] comunicação.
+[00:09:41:27 --> 00:09:44:02] Então é muito importante entender isso, tá bom?
+[00:09:44:11 --> 00:09:48:15] Dito isso então, eu pontuei aqui quatro pontos mais importantes.
+[00:09:48:24 --> 00:09:49:29] Pontuei quatro pontos, é ótimo.
+[00:09:50:26 --> 00:09:56:14] quatro objetivos da nossa auditoria de mercado, que é identificar espaços inexplorados.
+[00:09:56:25 --> 00:10:01:06] Esse aqui, inclusive, poderia ser o último, porque ele conecta com a estratégia.
+[00:10:01:07 --> 00:10:06:13] Os espaços inexplorados são as oportunidades que nós vamos identificar nesse mercado
+[00:10:07:00 --> 00:10:10:03] que nós podemos pontuar na etapa estratégica, tá?
+[00:10:10:13 --> 00:10:12:09] Mas existem outros pontos aqui interessantes.
+[00:10:12:26 --> 00:10:14:24] Identificar os padrões do mercado.
+[00:10:14:28 --> 00:10:18:11] Esse é o primeiro que nós queremos, os paradigmas, os padrões.
+[00:10:18:11 --> 00:10:24:09] Quais são os momentos em que os concorrentes são muito parecidos uns com os outros?
+[00:10:24:20 --> 00:10:29:29] Quais são os padrões de comunicação, os padrões de design, os padrões de pontos
+[00:10:29:29 --> 00:10:33:10] de contato que eles mais utilizam?
+[00:10:33:11 --> 00:10:34:18] Ah, tá todo mundo no Instagram.
+[00:10:34:23 --> 00:10:37:00] Por que não tem ninguém no TikTok nesse mercado?
+[00:10:37:02 --> 00:10:39:22] Por que não tem ninguém no YouTube nesse mercado?
+[00:10:39:25 --> 00:10:43:26] Por que não tem ninguém no marketing direto nesse mercado?
+[00:10:43:28 --> 00:10:44:11] Não sei.
+[00:10:44:26 --> 00:10:46:14] Tem vários padrões diferentes.
+[00:10:46:14 --> 00:10:52:17] Mas não só, eu vou até colocar aqui, para vocês não se esquecerem, pontos de contato...
+[00:10:53:27 --> 00:10:55:21] narrativas,
+[00:10:56:29 --> 00:10:57:12] design...
+[00:10:58:14 --> 00:11:01:04] é relacionamento...
+[00:11:01:04 --> 00:11:04:14] Você pode até utilizar as perguntas do Business Model Canvas,
+[00:11:04:15 --> 00:11:05:23] que nós vimos na última aula,
+[00:11:06:04 --> 00:11:09:06] para identificar esses pontos aqui como relacionamento.
+[00:11:09:20 --> 00:11:12:16] A mesma pergunta que você faz para entender o negócio do seu cliente,
+[00:11:12:17 --> 00:11:15:28] você pode fazer para entender os negócios do mercado, tá?
+[00:11:16:09 --> 00:11:21:25] Seria muito extensivo fazer um BMC para cada concorrente.
+[00:11:22:10 --> 00:11:24:20] Mas, se você tem tempo e equipe,
+[00:11:24:20 --> 00:11:28:16] pode ser extremamente útil ter um BMC de cada concorrente,
+[00:11:28:19 --> 00:11:30:06] porque aí você vai ter uma visão muito clara,
+[00:11:30:12 --> 00:11:31:26] ou pelo menos dos melhores.
+[00:11:33:07 --> 00:11:35:19] As mesmas perguntas que você fez para o seu cliente,
+[00:11:35:23 --> 00:11:39:03] você tentar encontrar as respostas dela para a concorrência.
+[00:11:39:14 --> 00:11:41:15] Esse tipo de abordagem eu ainda não fiz,
+[00:11:41:17 --> 00:11:43:13] de fazer um BMC para cada concorrente.
+[00:11:43:22 --> 00:11:45:23] Eu não joguei necessário.
+[00:11:46:03 --> 00:11:48:02] Os projetos que eu fiz de 10, de 15 mil reais,
+[00:11:48:05 --> 00:11:49:07] eu não joguei necessário.
+[00:11:49:14 --> 00:11:51:06] Era um trabalho grande a mais,
+[00:11:51:15 --> 00:11:52:29] que talvez em projetos maiores,
+[00:11:52:29 --> 00:11:54:28] que eu quisesse ainda mais assertividade,
+[00:11:55:15 --> 00:11:57:26] eu provavelmente faria com uma equipe,
+[00:11:58:12 --> 00:11:59:28] mas fica a possibilidade para vocês.
+[00:12:00:19 --> 00:12:03:01] Nosso objetivo aqui também, com a auditoria do mercado,
+[00:12:03:11 --> 00:12:04:26] é tornar a concorrência relevante.
+[00:12:04:26 --> 00:12:05:14] Como assim, Juan?
+[00:12:05:23 --> 00:12:07:19] Quando você não conhece a concorrência,
+[00:12:07:22 --> 00:12:10:28] você não sabe se você realmente está se diferenciando.
+[00:12:11:08 --> 00:12:13:07] Quando você não conhece a concorrência,
+[00:12:13:23 --> 00:12:15:19] você fica preocupado com ela o tempo inteiro.
+[00:12:15:23 --> 00:12:17:15] Qualquer passo que a concorrência dá,
+[00:12:17:17 --> 00:12:19:23] você já quer copiar por medo de perder espaço.
+[00:12:20:09 --> 00:12:22:10] Agora, quando você entende a concorrência
+[00:12:22:10 --> 00:12:28:16] E se entende, lá na etapa estratégica, isso aqui, essas informações vão ser muito úteis,
+[00:12:28:19 --> 00:12:34:13] não só para tomar decisões, mas também para convencer o seu cliente de que aquela é a melhor
+[00:12:34:13 --> 00:12:40:23] direção. A pesquisa, todos esses dados que nós coletamos aqui são provas, são evidências que
+[00:12:40:23 --> 00:12:45:17] nós vamos utilizar para embasar todo o nosso design. E uma vez que a gente tem essas evidências
+[00:12:45:17 --> 00:12:51:04] aqui, é muito difícil o cliente te questionar, ele vai ficar surpreso. Comigo, pelo menos,
+[00:12:51:04 --> 00:12:54:16] Todas as vezes que eu tinha evidências para embasar as minhas decisões,
+[00:12:54:25 --> 00:12:57:01] eu não tive alteração, eu não tive questionamento.
+[00:12:57:10 --> 00:13:00:13] Porque para questionar, o cliente precisa ter uma evidência melhor
+[00:13:00:13 --> 00:13:02:17] ou estar muito convicto do que ele faz.
+[00:13:02:26 --> 00:13:06:01] O negócio é dele e, no final, a gente não pode lembrar desse princípio
+[00:13:06:01 --> 00:13:06:29] que já foi falado antes.
+[00:13:08:01 --> 00:13:12:04] Alinhar a marca com o ecossistema também é um objetivo da auditoria de mercado.
+[00:13:12:13 --> 00:13:17:28] Porque nós queremos aqui entender não só a concorrência, mas também os stakeholders.
+[00:13:18:19 --> 00:13:22:19] Por isso que isso aqui é uma auditoria do mercado e não uma auditoria de concorrência.
+[00:13:22:27 --> 00:13:26:16] Se fosse uma auditoria de concorrência, a gente iria analisar apenas a concorrência.
+[00:13:26:23 --> 00:13:33:23] Mas aqui nós queremos entender quem são as entidades envolvidas nesse ecossistema.
+[00:13:33:23 --> 00:13:36:27] E eu falo entidades, porque existem órgãos reguladores,
+[00:13:38:15 --> 00:13:41:24] existem universidades, existe a imprensa,
+[00:13:42:21 --> 00:13:47:15] existem vários envolvidos que fazem parte desse mercado
+[00:13:47:15 --> 00:13:51:12] e que estão jogando esse jogo junto com o cliente.
+[00:13:51:18 --> 00:13:54:15] Então, identificar eles é muito importante
+[00:13:54:15 --> 00:13:56:16] para a etapa de estratégia, tá bom?
+[00:13:56:25 --> 00:13:59:10] Então, nós temos aqui também para alinhar a marca com o ecossistema.
+[00:13:59:23 --> 00:14:01:25] E identificar os espaços inexplorados,
+[00:14:01:25 --> 00:14:03:08] que eu já falei com vocês também,
+[00:14:03:08 --> 00:14:05:23] É aqui que nós vamos identificar as oportunidades.
+[00:14:06:05 --> 00:14:09:21] E qual que é o primeiro passo prático da auditoria do mercado?
+[00:14:10:04 --> 00:14:16:21] É coletar matéria-prima, é listar mesmo, é investir um tempo para poder criar uma lista.
+[00:14:16:28 --> 00:14:22:13] Simples assim, criar uma lista de quatro coisas diferentes, tá?
+[00:14:22:19 --> 00:14:24:27] E um princípio aqui que eu vou deixar para o final.
+[00:14:25:01 --> 00:14:26:13] Vamos falar de cada uma delas.
+[00:14:26:23 --> 00:14:30:22] A primeira lista que você vai fazer é a lista da concorrência direta.
+[00:14:30:22 --> 00:14:34:03] Qual que é a diferença de concorrência direta para concorrência indireta?
+[00:14:34:14 --> 00:14:42:10] Uma concorrência direta é uma empresa que compete diretamente pelo mesmo cliente
+[00:14:42:10 --> 00:14:46:12] com o mesmo produto em uma mesma experiência.
+[00:14:46:25 --> 00:14:48:11] Isso é concorrência direta.
+[00:14:48:19 --> 00:14:50:24] Eu posso escolher por A ou B?
+[00:14:50:28 --> 00:14:53:01] Pepsi e Coca-Cola, concorrentes diretos.
+[00:14:53:04 --> 00:14:56:21] Burger King e McDonald's, concorrentes diretos, tá?
+[00:14:56:21 --> 00:14:58:05] ou até mesmo assim...
+[00:15:00:05 --> 00:15:03:12] McDonald's e o Rock Dog aí da sua cidade, né?
+[00:15:03:12 --> 00:15:05:11] Não sei como é que chama o Rock Dog daí, mas o...
+[00:15:06:04 --> 00:15:08:21] o sanduíba lá feito na chapa, ali na esquina.
+[00:15:08:25 --> 00:15:10:09] Também é concorrente direto.
+[00:15:10:16 --> 00:15:11:08] Só que...
+[00:15:12:07 --> 00:15:17:16] ligeiramente diferente por serem modelos de negócios diferentes, tá?
+[00:15:17:25 --> 00:15:20:04] Agora, o que seria a concorrência indireta?
+[00:15:20:15 --> 00:15:21:05] Vou dar um exemplo.
+[00:15:21:25 --> 00:15:24:26] Eu vou comer hoje pizza ou eu vou comer sanduiche?
+[00:15:25:29 --> 00:15:30:22] a pizza pode tirar o meu cliente de ir comer um sanduíche.
+[00:15:31:00 --> 00:15:33:16] Ou então a padaria, ou então o restaurante.
+[00:15:33:28 --> 00:15:38:04] Esses concorrentes indiretos concorrem pelo mesmo cliente
+[00:15:38:04 --> 00:15:41:02] com produtos ou serviços diferentes.
+[00:15:42:06 --> 00:15:44:02] E aí, o primeiro passo aqui é listar.
+[00:15:44:02 --> 00:15:48:15] Como você pode listar os concorrentes diretos e indiretos?
+[00:15:49:13 --> 00:15:51:04] Primeiro, lá no briefing,
+[00:15:51:10 --> 00:15:54:16] você já vai perguntar para o seu cliente quais são os principais concorrentes.
+[00:15:55:13 --> 00:15:58:14] Normalmente, os clientes não falam mais de 15 concorrentes.
+[00:15:58:16 --> 00:16:01:05] Eles vão falando, vão falando, mas fica em torno disso.
+[00:16:01:17 --> 00:16:05:14] Só que nós sabemos que o mercado é muito grande e existe muito mais do que 15 concorrentes.
+[00:16:05:19 --> 00:16:10:12] E é por isso que a pesquisa, o research, depois do briefing é tão importante.
+[00:16:10:25 --> 00:16:17:01] Você vai sentar o bumbum na cadeira, abrir o seu Google e começar a pesquisar.
+[00:16:17:06 --> 00:16:18:22] Você vai pesquisar aquele mercado.
+[00:16:19:04 --> 00:16:21:29] Tem jeitos muito práticos de fazer isso.
+[00:16:21:29 --> 00:16:26:10] Vamos pegar aqui o exemplo de hamburgueria mesmo, se fosse hamburguerias em Belo Horizonte.
+[00:16:26:16 --> 00:16:31:20] Só deu digitar hamburguerias ph, já vai aparecer aqui para mim um monte, olha.
+[00:16:31:20 --> 00:16:33:03] Se eu colocar aqui no Maps...
+[00:16:34:23 --> 00:16:38:22] Carregando maps... Olha só. Começa a aparecer um monte de hamburguerias, olha.
+[00:16:38:24 --> 00:16:44:22] Eu vou rolando e continua. Olha o tanto. Olha o tanto. Aqui no mapa você consegue ver um monte de...
+[00:16:45:26 --> 00:16:48:05] né, de tantas hamburguerias que existem aqui.
+[00:16:48:27 --> 00:16:50:28] Juan, eu vou listar todas elas!
+[00:16:52:03 --> 00:16:56:22] Sim, você vai pensar estrategicamente, tá? Vamos por partes aqui.
+[00:16:57:01 --> 00:16:59:22] Você vai pensar primeiro aqui no tipo de mercado.
+[00:17:00:08 --> 00:17:02:05] Aqui nós estamos falando do mercado de hamburgueria.
+[00:17:02:15 --> 00:17:04:18] Então, quais são os concorrentes mais importantes
+[00:17:04:18 --> 00:17:07:15] que uma hamburgueria tem que ficar atenta se ela não é franquia?
+[00:17:08:06 --> 00:17:09:29] As hamburguerias regionais.
+[00:17:10:21 --> 00:17:14:11] Você não vai... No primeiro momento aqui, concorrentes diretos
+[00:17:14:11 --> 00:17:15:28] e concorrentes indiretos,
+[00:17:15:29 --> 00:17:19:02] você não vai pesquisar hamburgueria lá em São Paulo se o seu cliente é de BH.
+[00:17:19:14 --> 00:17:21:24] Você vai pesquisar as hamburguerias de Belo Horizonte.
+[00:17:22:09 --> 00:17:28:25] E vai listar elas. Todas. Aqui você vai listar todas. Abre o documento de texto e começa
+[00:17:28:25 --> 00:17:32:27] a pegar uma por uma e listar. Tem algumas ferramentas para isso? Tem algumas ferramentas
+[00:17:32:27 --> 00:17:36:15] para isso. Tem até uma aqui, olha, que chama Phantom Buster.
+[00:17:37:24 --> 00:17:42:00] Você tem que pagar para assinar ela, mas tem uma versão gratuita também.
+[00:17:42:06 --> 00:17:45:00] Essa ferramenta aqui, você coloca esse link aqui, olha...
+[00:17:45:00 --> 00:17:48:01] Você pega esse link do Google Maps aqui, dá um Ctrl-C
+[00:17:48:01 --> 00:17:49:01] e dá um Ctrl-V nela.
+[00:17:49:02 --> 00:17:50:22] Eu não vou ensinar a ferramenta exatamente agora,
+[00:17:50:22 --> 00:17:51:29] mas está aqui o link para vocês.
+[00:17:52:22 --> 00:17:56:00] E aí tem como... Ela cria uma tabela para você
+[00:17:56:00 --> 00:17:58:17] com todas as hamburguerias
+[00:17:59:08 --> 00:18:02:18] dessa região, do link que você colocou no Google Maps.
+[00:18:02:29 --> 00:18:06:13] Essa ferramenta é gigante, ela tem muitas funcionalidades.
+[00:18:06:13 --> 00:18:08:27] Na hora de vender, a gente utiliza ela de novo.
+[00:18:08:28 --> 00:18:10:29] Lá na etapa de marketing eu falo dela de novo.
+[00:18:11:16 --> 00:18:15:19] Porque além de dar uma lista daquela região,
+[00:18:16:01 --> 00:18:17:16] ela também pega telefone, site,
+[00:18:17:20 --> 00:18:20:11] lista tudo para você em uma tabela e poupa muito do seu tempo, tá?
+[00:18:20:22 --> 00:18:23:15] Mas a gente vai deixá-la para depois, eu só estou citando ela aqui agora.
+[00:18:23:28 --> 00:18:27:08] Mas você vai listar, então, todas essas hamburguerias.
+[00:18:27:24 --> 00:18:29:10] Vai colocar no documento.
+[00:18:29:12 --> 00:18:34:01] Se possível, pega site e Instagram, pelo menos.
+[00:18:35:04 --> 00:18:38:14] Você vai criar um documento lá, você coloca o nome lá, seria mais ou menos isso daqui,
+[00:18:38:20 --> 00:18:40:14] vou pegar a primeira lá e fazer para vocês verem.
+[00:18:40:20 --> 00:18:41:18] Esse aqui é o primeiro passo.
+[00:18:43:00 --> 00:18:48:22] Então, vou pegar a anúncio, vou pegar aqui, Ed Fine Burgers, tem o Ed, o sanduíche do
+[00:18:48:22 --> 00:18:49:06] Ed é bom.
+[00:18:53:28 --> 00:18:56:25] Eu acho que é só Fine. É de Fine Burgers. Isso.
+[00:18:58:01 --> 00:19:00:07] Legal, coloquei o nome, o que eu vou fazer agora?
+[00:19:01:11 --> 00:19:05:18] Vou colocar aqui o site. Para isso, você pode entrar.
+[00:19:06:24 --> 00:19:09:06] E aqui tem site, você pode copiar o link.
+[00:19:12:17 --> 00:19:17:21] colocar aqui. Colocou o site. Beleza, tem Instagram também? Se tiver, aproveita e pega
+[00:19:17:21 --> 00:19:18:14] o Instagram também.
+[00:19:19:24 --> 00:19:21:25] Às vezes o Instagram não tá aqui, o que você faz?
+[00:19:22:01 --> 00:19:22:24] Entra no site.
+[00:19:24:26 --> 00:19:26:25] Entra aqui no site do Edge.
+[00:19:28:27 --> 00:19:31:23] Vai lá embaixo... Deixa eu ver...
+[00:19:31:23 --> 00:19:33:02] O site dele está bugado, parece.
+[00:19:35:14 --> 00:19:36:00] Hum...
+[00:19:36:00 --> 00:19:37:13] Tá aqui o iFood deles.
+[00:19:38:11 --> 00:19:39:05] Eu queria o Instagram.
+[00:19:39:25 --> 00:19:41:21] Você pode também pesquisar direto o Instagram.
+[00:19:44:01 --> 00:19:46:21] Eu queria só o linkzinho para facilitar, mas...
+[00:19:47:25 --> 00:19:51:16] Se não tem, a gente segue, mas vocês entenderam a ideia.
+[00:19:52:06 --> 00:19:55:25] Pega o Instagram e coloca lá o Instagram também.
+[00:19:55:29 --> 00:19:57:23] Pode inclusive fazer três linhas assim.
+[00:19:58:11 --> 00:19:59:25] Esse é o primeiro passo, tá?
+[00:20:00:24 --> 00:20:04:03] Add fine burgers... Vou deixar assim como se fosse.
+[00:20:04:26 --> 00:20:06:03] Esse é só o primeiro passo.
+[00:20:06:05 --> 00:20:08:00] Você vai listar concorrência direta lá.
+[00:20:08:03 --> 00:20:11:08] Então, eu vou pegar aqui, concorrência direta,
+[00:20:11:13 --> 00:20:13:05] coloco lá e começo a listar.
+[00:20:13:11 --> 00:20:15:29] Crie um documento só para listar concorrência direta
+[00:20:15:29 --> 00:20:17:22] e concorrência indireta, tá bom?
+[00:20:18:03 --> 00:20:22:11] Ah, Juan, mas se o meu negócio for, sei lá, na internet, eu atendo o infoproduto, como
+[00:20:22:11 --> 00:20:22:24] é que eu faço?
+[00:20:23:06 --> 00:20:24:03] A mesma lógica.
+[00:20:24:09 --> 00:20:26:00] Só que agora não é mais regional, né?
+[00:20:26:12 --> 00:20:33:18] Ah, eu vou atender um infoprodutor que ensina como criar brigadeiros gourmet.
+[00:20:34:10 --> 00:20:35:00] O que eu vou fazer?
+[00:20:35:14 --> 00:20:36:20] Eu vou pesquisar...
+[00:20:37:19 --> 00:20:40:13] curso Brigadeiros Kourmei.
+[00:20:41:15 --> 00:20:44:19] Por que isso? Porque vai começar a aparecer um anúncio, olha...
+[00:20:46:18 --> 00:20:49:26] Chef... Chefs... Chef... Isis Alvarez.
+[00:20:50:04 --> 00:20:50:23] Acho que é isso.
+[00:20:51:08 --> 00:20:53:27] Aí eu posso fazer o quê? Pegar esse link dela e colocar lá...
+[00:20:55:07 --> 00:20:57:13] Confeitando Brigadeiros, posso pegar esse link e colocar lá...
+[00:20:58:10 --> 00:21:02:04] Bela em tudo, curso de Brigadeiro, tá vendo? Olha o tanto que tem, olha...
+[00:21:02:04 --> 00:21:04:22] Eu posso ir pegando esse e colocando lá, listando.
+[00:21:05:04 --> 00:21:07:20] Ah, Juan, e se tiver mil? Eu vou listar os mil?
+[00:21:08:08 --> 00:21:11:00] Lembra sempre do escopo do seu projeto, tá?
+[00:21:11:00 --> 00:21:12:16] Lembre-se sempre do escopo do seu projeto.
+[00:21:12:22 --> 00:21:14:07] É um projeto que você tem mais prazo.
+[00:21:14:14 --> 00:21:18:16] É um projeto que você precisa ser mais preciso,
+[00:21:18:23 --> 00:21:21:28] você quer mais dados, pegue o máximo que você puder.
+[00:21:22:09 --> 00:21:24:05] O que eu gosto é sempre de definir um prazo.
+[00:21:24:12 --> 00:21:27:13] Hoje é o dia que eu vou listar concorrência direta e indireta.
+[00:21:27:26 --> 00:21:29:29] Então, eu vou ficar aqui quatro horas,
+[00:21:30:02 --> 00:21:33:11] eu vou ficar aquelas quatro horas pegando o máximo que eu puder.
+[00:21:33:16 --> 00:21:33:26] Entendeu?
+[00:21:34:09 --> 00:21:37:11] Então, estipula um prazo para fazer essa tarefa e comece a fazer.
+[00:21:37:14 --> 00:21:39:07] Vai pegando vários, vários, vários, tá bom?
+[00:21:40:28 --> 00:21:44:23] Cada mercado vai ser de um jeito, mas você pode sim utilizar o Google para fazer isso.
+[00:21:45:00 --> 00:21:47:16] Pode usar também o Instagram, pode utilizar também o YouTube,
+[00:21:47:24 --> 00:21:50:20] pode utilizar também o TikTok para fazer essas pesquisas, tá?
+[00:21:51:14 --> 00:21:53:09] Qual concorrência indireta é a mesma coisa?
+[00:21:53:18 --> 00:21:56:00] Então, depois de pesquisar sanduíche, o que eu vou pesquisar?
+[00:21:56:18 --> 00:21:57:01] Pizzarias.
+[00:21:57:18 --> 00:21:59:23] Além de pizzarias também, o que eu vou pesquisar?
+[00:21:59:27 --> 00:22:02:22] Sei lá, cachorro-quente, restaurantes...
+[00:22:02:22 --> 00:22:07:27] Eu vou pesquisar vários outros modelos de negócio que são concorrentes indiretos.
+[00:22:07:29 --> 00:22:08:24] E vou listar aqui.
+[00:22:08:24 --> 00:22:12:08] A lista de indiretos é maior que a lista de diretos, naturalmente.
+[00:22:13:07 --> 00:22:16:14] Mas faz do mesmo jeito, define um prazo e começa a fazer.
+[00:22:16:21 --> 00:22:18:14] Então essa é a primeira etapa, listar.
+[00:22:18:21 --> 00:22:19:16] Simplesmente listar.
+[00:22:19:24 --> 00:22:22:07] Não precisa entrar no site, ficar analisando,
+[00:22:22:08 --> 00:22:24:21] que isso vai ser outra etapa logo mais para frente.
+[00:22:25:00 --> 00:22:26:07] Aqui o primeiro passo é listar.
+[00:22:26:09 --> 00:22:28:22] Se você divide em etapas assim, você vai fazer mais rápido.
+[00:22:29:04 --> 00:22:30:22] Então liste o máximo que você puder.
+[00:22:30:27 --> 00:22:34:24] Cria um documento só de lista de concorrente direto e indireto, tá?
+[00:22:35:10 --> 00:22:37:04] Além disso, o que nós vamos listar também?
+[00:22:37:10 --> 00:22:38:07] Os stakeholders.
+[00:22:38:07 --> 00:22:41:21] Aqui é um pouco mais difícil, tá?
+[00:22:41:29 --> 00:22:45:22] Para poder listar concorrência direta e indireta, vocês vão ver que é um exercício bem fácil
+[00:22:45:22 --> 00:22:46:12] de fazer até.
+[00:22:46:21 --> 00:22:50:18] Agora, listar stakeholders depende de um conhecimento do mercado.
+[00:22:50:27 --> 00:22:55:24] Por isso que quando você vai pegando experiência com essa metodologia, você já fica esperto
+[00:22:55:24 --> 00:22:58:10] com isso e já faz essas perguntas para o seu cliente.
+[00:22:58:18 --> 00:23:02:21] Se você tem contato direto com o seu cliente no WhatsApp, é mais fácil ainda que você
+[00:23:02:21 --> 00:23:03:22] vai perguntar para ele.
+[00:23:04:13 --> 00:23:05:24] Quais são os mais comuns, né?
+[00:23:05:24 --> 00:23:07:03] Tem órgãos...
+[00:23:10:21 --> 00:23:11:13] órgãos reguladores.
+[00:23:11:18 --> 00:23:13:08] Eu estou com a sensação que está alguma coisa errada aqui.
+[00:23:14:14 --> 00:23:17:07] órgãos reguladores. O que são órgãos reguladores?
+[00:23:17:16 --> 00:23:20:25] O caso da alquimia científica, que eu estou trabalhando agora e finalizando.
+[00:23:20:29 --> 00:23:25:10] No caso da alquimia científica, a polícia é um órgão regulador.
+[00:23:25:18 --> 00:23:31:04] Eles têm também o Instituto de Pesquisa e Tecnologia, acho que é isso, IPT,
+[00:23:31:09 --> 00:23:32:18] que é um órgão regulador.
+[00:23:33:10 --> 00:23:36:02] Eles têm vários órgãos reguladores daquele mercado
+[00:23:36:02 --> 00:23:39:06] que influenciam as decisões que eles tomam.
+[00:23:40:03 --> 00:23:42:20] Ou então, sei lá, pensa nos advogados.
+[00:23:42:20 --> 00:23:46:14] Aí tem a OAB, também é outro órgão regulador, tá?
+[00:23:47:15 --> 00:23:50:08] Então, entender os órgãos reguladores, entender se tem imprensa,
+[00:23:50:10 --> 00:23:52:08] como funciona a imprensa nesse mercado.
+[00:23:52:22 --> 00:23:54:10] Existe imprensa? Como é que ela trabalha?
+[00:23:54:12 --> 00:23:55:18] Às vezes, se o cliente não sabe responder,
+[00:23:56:11 --> 00:23:57:27] uma simples pesquisa no Google.
+[00:23:59:15 --> 00:24:01:08] Imprensa An-Burguerias.
+[00:24:03:04 --> 00:24:05:15] Além disso, tem os facilitadores também.
+[00:24:07:01 --> 00:24:11:08] que tem modelos de negócios diferentes. Então, quem que eu colocaria de stakeholder aqui?
+[00:24:11:23 --> 00:24:12:10] iFood.
+[00:24:13:02 --> 00:24:14:21] Eu colocaria de stakeholder aqui.
+[00:24:14:27 --> 00:24:17:07] Eu colocaria aquele Trip Advisor.
+[00:24:18:23 --> 00:24:22:12] como um facilitador aqui também, que são ferramentas desse mercado,
+[00:24:22:14 --> 00:24:24:22] que fazem parte da dinâmica desse mercado.
+[00:24:25:02 --> 00:24:26:27] E elas também conversam com esse mercado,
+[00:24:27:01 --> 00:24:30:25] por isso que eu quero listar esses facilitadores, tá bom?
+[00:24:31:08 --> 00:24:36:00] Então, facilitadores, órgãos reguladores, imprensa, universidades,
+[00:24:36:18 --> 00:24:39:25] centros de pesquisa podem ser também...
+[00:24:39:25 --> 00:24:42:22] Aqui note que stakeholders não são...
+[00:24:42:22 --> 00:24:47:02] Aqui você vai colocar, claro, clientes são stakeholders, colaboradores.
+[00:24:47:10 --> 00:24:48:06] Eu vou até separar, olha.
+[00:24:48:06 --> 00:24:56:16] Clientes. Colaboradores. Fornecedores. E tem também os terceiros atos.
+[00:24:57:27 --> 00:25:00:13] Vou chamar de parceiros aqui, parceiros.
+[00:25:00:28 --> 00:25:02:04] Também são stakeholders.
+[00:25:03:15 --> 00:25:07:08] Só que são stakeholders internos, não são stakeholders externos.
+[00:25:07:17 --> 00:25:11:00] Então, por exemplo, colaborador, todo mundo que trabalha naquela empresa é stakeholder,
+[00:25:11:04 --> 00:25:12:21] a empresa também conversa com essas pessoas.
+[00:25:13:06 --> 00:25:17:11] Fornecedores são stakeholders, parceiros são stakeholders também,
+[00:25:17:26 --> 00:25:20:08] clientes também são stakeholders.
+[00:25:20:19 --> 00:25:25:14] Mas aqui nós estamos falando dos externos, a concorrência também é stakeholder.
+[00:25:27:01 --> 00:25:31:08] Com isso aqui, eu vou passar uma ferramenta para vocês lá para o final dessa aula
+[00:25:31:08 --> 00:25:34:14] para poder criar um mapa desses stakeholders, tá?
+[00:25:34:22 --> 00:25:35:27] Mas existem vários tipos.
+[00:25:36:01 --> 00:25:40:21] Cada mercado tem os stakeholders específicos, que são os envolvidos,
+[00:25:40:24 --> 00:25:43:24] e tem também os clássicos, que sempre aparecem.
+[00:25:44:02 --> 00:25:46:02] Ruan, como é que eu faço para identificar isso?
+[00:25:46:11 --> 00:25:47:24] Isso vem muito de experiência.
+[00:25:47:29 --> 00:25:50:28] Comece pelos clássicos, que são esses aqui que eu estou passando para vocês,
+[00:25:51:06 --> 00:25:54:09] mas com a experiência, você vai começar a identificar isso
+[00:25:54:09 --> 00:25:55:25] na conversa do seu cliente.
+[00:25:55:25 --> 00:25:58:08] ele vai falar alguma coisa que você fala, opa, o que é isso?
+[00:25:58:12 --> 00:26:00:20] Ele vai te explicar, você falar, isso é um envolvido.
+[00:26:01:02 --> 00:26:03:10] Outros envolvidos que são clássicos também.
+[00:26:03:18 --> 00:26:07:17] Nós que criamos projetos de 10, 15, 20 mil reais,
+[00:26:07:26 --> 00:26:11:12] geralmente nós não lidamos com esses stakeholder que eu vou colocar aqui,
+[00:26:11:21 --> 00:26:13:17] porque eles são de empresas gigantes, tá?
+[00:26:13:26 --> 00:26:17:07] Mas tem também, eu preciso colocar para vocês conhecerem, que são os acionistas.
+[00:26:17:26 --> 00:26:20:23] Então, também são stakeholder, tem empresas que trabalham,
+[00:26:21:03 --> 00:26:23:07] tomam muitas decisões baseadas nos acionistas.
+[00:26:23:07 --> 00:26:27:12] Então, essas empresas precisam levar isso em consideração também, entendeu?
+[00:26:28:01 --> 00:26:31:19] Então, são vários stakeholders com o tempo que você passa a identificar isso muito bem.
+[00:26:31:28 --> 00:26:37:15] E durante a pesquisa também, você vai notando quem são os envolvidos ali.
+[00:26:37:20 --> 00:26:39:05] Tem o governo também.
+[00:26:39:14 --> 00:26:43:23] Então, depende muito de cada negócio, de cada mercado.
+[00:26:44:01 --> 00:26:48:18] Mas você vai listar o máximo que você puder também dos stakeholders, tá bom?
+[00:26:49:02 --> 00:26:51:03] De novo aqui, nós estamos criando uma lista.
+[00:26:51:08 --> 00:26:52:05] Apenas listando.
+[00:26:53:00 --> 00:26:58:20] Depois de criar essas três listas aqui, aí nós vamos definir os top players, tá?
+[00:26:58:26 --> 00:27:02:10] Você pode perguntar isso para o seu cliente, mas a pesquisa não para aqui.
+[00:27:02:17 --> 00:27:04:24] E aí a gente entra nesse conceito aqui, ó.
+[00:27:04:24 --> 00:27:09:18] Olhe para o mundo, saia da avenida, não fique dentro da avenida.
+[00:27:09:26 --> 00:27:16:04] É muito comum os designers se contentarem com os concorrentes que o cliente passa,
+[00:27:16:14 --> 00:27:19:05] só que às vezes o cliente também está numa bolha.
+[00:27:19:16 --> 00:27:21:08] E é importante sair dessa bolha.
+[00:27:21:08 --> 00:27:27:05] Quantas vezes eu já não peguei referências internacionais e trouxe pra dentro do negócio dos meus clientes
+[00:27:27:05 --> 00:27:30:23] e eles ficaram muito, muito, muito...
+[00:27:31:27 --> 00:27:34:11] Eu ia usar uma palavra aqui que eu não sei se é a palavra certa,
+[00:27:34:16 --> 00:27:36:05] eles ficaram muito felizes.
+[00:27:36:17 --> 00:27:41:10] Eles ficaram muito contentes com essa informação que eu trouxe de fora.
+[00:27:41:13 --> 00:27:43:28] Eu falei, caraca, eu não sabia que isso existia.
+[00:27:44:05 --> 00:27:45:26] E aí eu pensava assim, cara,
+[00:27:46:02 --> 00:27:48:20] numa pesquisa de 30 minutos eu descobri isso.
+[00:27:48:29 --> 00:27:51:20] O cara é dono do negócio e ele não sabe disso que louco, né?
+[00:27:51:29 --> 00:27:54:28] Mas é porque nós designers temos essa mentalidade.
+[00:27:55:12 --> 00:27:58:11] Para a gente é comum buscar essas referências, para eles não.
+[00:27:58:22 --> 00:28:00:02] Então, sempre olhe para o mundo.
+[00:28:00:02 --> 00:28:02:07] Ah, é hamburgueria? Eu vou olhar assim,
+[00:28:02:21 --> 00:28:06:02] melhores hamburguerias da França, melhores hamburguerias da Alemanha,
+[00:28:06:08 --> 00:28:10:02] melhores hamburguerias da Inglaterra, melhores hamburguerias da China...
+[00:28:10:02 --> 00:28:16:20] Sei lá, eu vou pesquisar, principalmente nos polos, onde a China não é um polo capitalista,
+[00:28:16:25 --> 00:28:20:19] não dá pra falar. Na verdade ela é, ela só não assume que ela é, mas ela é.
+[00:28:20:29 --> 00:28:24:22] Mas quais são as maiores hamburguerias dos Estados Unidos, da Austrália?
+[00:28:24:22 --> 00:28:34:08] Isso tudo é referência, tudo informação e dali nós vamos tirar ouro. Nem ouro, a gente vai tirar diamante dessa lista aqui.
+[00:28:34:18 --> 00:28:35:17] E aí nós vamos listar.
+[00:28:36:27 --> 00:28:38:03] Top players!
+[00:28:38:21 --> 00:28:39:06] Locais!
+[00:28:42:00 --> 00:28:46:08] players, nacionais, top players e internacionais, tá?
+[00:28:46:21 --> 00:28:48:27] Então, nós vamos listar esses três aqui.
+[00:28:49:10 --> 00:28:50:28] Top players, locais...
+[00:28:51:16 --> 00:28:53:18] Isso aqui o cliente vai conseguir te dizer, você vai falar...
+[00:28:53:18 --> 00:28:58:18] Quem são os seus concorrentes mais relevantes na região?
+[00:28:59:21 --> 00:29:00:22] Na sua experiência?
+[00:29:01:13 --> 00:29:04:01] Ele vai falar a experiência dele, mas o que você faz também?
+[00:29:04:27 --> 00:29:06:12] Se é uma hamburgueria, por exemplo...
+[00:29:07:12 --> 00:29:09:28] É, hamburguerias, PH. PH, hamburguerias.
+[00:29:10:18 --> 00:29:12:09] Eu vim aqui, vou olhar isso aqui, olha.
+[00:29:12:21 --> 00:29:15:02] Eu tenho informação já livre para mim.
+[00:29:15:22 --> 00:29:18:28] Então ele fala, ah, tem uma hamburgueria que chama Oburquesa, ela é uma das maiores.
+[00:29:19:10 --> 00:29:20:28] Eu vou olhar aqui e vou falar, será que ela é mesmo?
+[00:29:21:08 --> 00:29:25:16] Tem 132 avaliações, essa daqui tem 2 mil avaliações.
+[00:29:26:23 --> 00:29:29:04] Será que essa daqui realmente é top player?
+[00:29:29:23 --> 00:29:30:18] Não me parece.
+[00:29:30:22 --> 00:29:32:10] E aí eu posso questionar o meu cliente de novo.
+[00:29:32:19 --> 00:29:33:22] Então, use os dados.
+[00:29:33:28 --> 00:29:36:11] Hoje nós temos dados, então vamos aproveitar.
+[00:29:36:16 --> 00:29:37:26] E cara, eu vou ser sincero com vocês,
+[00:29:37:28 --> 00:29:40:17] eu estou olhando isso aqui, está me dando a vontade de lá comer isso aqui.
+[00:29:40:18 --> 00:29:41:13] Que louco.
+[00:29:41:25 --> 00:29:42:22] Parece bom, né?
+[00:29:42:26 --> 00:29:43:13] Parece bom.
+[00:29:44:05 --> 00:29:45:23] Então, use os dados a seu favor.
+[00:29:46:05 --> 00:29:47:23] Isso aqui é dado gratuito, galera.
+[00:29:47:24 --> 00:29:49:02] Você não precisa fazer nenhuma pesquisa,
+[00:29:49:06 --> 00:29:52:23] rodar nada complexo para chegar nessas informações, tá?
+[00:29:53:08 --> 00:29:55:07] Depois você vai para os top players nacionais.
+[00:29:55:07 --> 00:29:58:28] Esse daqui você pode perguntar pro cliente também, mas eu gosto de colocar assim, ó...
+[00:29:59:28 --> 00:30:07:05] Melhores hamburguerias do Brasil!
+[00:30:08:07 --> 00:30:13:27] Ou então, top 10 melhores hamburguerias do Brasil.
+[00:30:14:17 --> 00:30:19:24] Ou então, top 10 maiores, porque pode ser diferente, tá?
+[00:30:20:16 --> 00:30:21:13] Hamburguerias...
+[00:30:24:03 --> 00:30:25:04] Querias tu, Brasil.
+[00:30:26:20 --> 00:30:30:19] E aí vão aparecer, olha, esses blogs aqui, eles ranqueiam, tá?
+[00:30:30:19 --> 00:30:32:14] Esse aqui eu já... é o mesmo que eu entrei?
+[00:30:33:05 --> 00:30:34:21] Beard, é, é o mesmo.
+[00:30:35:01 --> 00:30:41:12] Pega um segundo aqui, ó, as 17, 10, 20 melhores, olha o tanto que tem aqui,
+[00:30:41:14 --> 00:30:42:29] a 7 São Paulo, né, mas também vai.
+[00:30:43:17 --> 00:30:46:08] Sites de viagem elegem as 10 melhores hamburgueres do Brasil.
+[00:30:47:02 --> 00:30:51:03] Entra e começa a ver quais que se repetem, quais que são o padrão,
+[00:30:51:10 --> 00:30:53:08] quais que aparecem em todas as listas.
+[00:30:53:12 --> 00:30:55:09] Essas, com certeza, são top players.
+[00:30:56:01 --> 00:31:01:01] Olha o nível, dá uma bocada aqui, é uma semana de academia para cada mordida.
+[00:31:01:13 --> 00:31:02:03] Mas parece bom.
+[00:31:03:06 --> 00:31:08:01] Então, começa a olhar, anota elas, entra no site delas e lista elas aqui também.
+[00:31:08:21 --> 00:31:09:20] Listas nacionais.
+[00:31:09:29 --> 00:31:12:23] Quase internacionais, eu te recomendo pesquisar em inglês.
+[00:31:12:29 --> 00:31:16:28] Ah, mas eu não sei inglês aqui, tem uma ferramenta muito boa, revolucionária,
+[00:31:17:16 --> 00:31:19:01] chama Google Tradutor.
+[00:31:19:06 --> 00:31:20:12] Se você não conhece, ela é muito boa.
+[00:31:20:12 --> 00:31:21:19] você vem cá, coloca assim, ó.
+[00:31:23:01 --> 00:31:30:27] Top 10 melhores hamburguerias do mundo.
+[00:31:32:19 --> 00:31:34:26] Top 10 best hamburgers in the world.
+[00:31:35:09 --> 00:31:37:03] Pega isso aqui, cola aqui
+[00:31:37:21 --> 00:31:41:03] e vai aparecer para vocês de sites internacionais.
+[00:31:41:23 --> 00:31:43:00] O que você precisa aqui?
+[00:31:43:02 --> 00:31:45:15] Você precisa do link, da referência.
+[00:31:46:11 --> 00:31:49:03] Lembrando só, não confia só em um site, faz o que eu falei.
+[00:31:49:20 --> 00:31:52:18] Tenta encontrar os que são lugar comum,
+[00:31:53:07 --> 00:31:55:02] aqueles que aparecem em todas as listas.
+[00:31:55:05 --> 00:31:58:04] Esses você coloca no topo, porque são mais de uma pessoa,
+[00:31:58:08 --> 00:32:00:17] são várias pessoas falando que são as melhores.
+[00:32:00:20 --> 00:32:01:29] Esse aqui está bem branquela, hein?
+[00:32:01:29 --> 00:32:02:20] Sanduíche aí.
+[00:32:03:27 --> 00:32:04:29] Mas, enfim...
+[00:32:04:29 --> 00:32:06:15] Então, você faz a pesquisa em inglês,
+[00:32:06:17 --> 00:32:08:08] que aumenta a chance de te encontrar também.
+[00:32:08:18 --> 00:32:09:21] Isso em qualquer mercado.
+[00:32:09:23 --> 00:32:11:17] Eu estou usando de hamburgueria aqui,
+[00:32:11:19 --> 00:32:13:15] mas é para citar um exemplo para vocês.
+[00:32:13:27 --> 00:32:15:27] Em qualquer mercado, você consegue fazer isso.
+[00:32:18:06 --> 00:32:20:21] Maiores escritórios de advocacia do mundo.
+[00:32:21:15 --> 00:32:23:17] Maior escritório de contabilidade do mundo.
+[00:32:23:26 --> 00:32:25:18] Maiores startups do mundo.
+[00:32:26:26 --> 00:32:28:03] Maiores restaurantes do mundo.
+[00:32:28:04 --> 00:32:29:07] Eu estou pensando muito em comida hoje.
+[00:32:29:15 --> 00:32:31:06] Maiores lojas de roupa do mundo.
+[00:32:32:26 --> 00:32:35:06] Você consegue fazer isso com qualquer mercado,
+[00:32:35:14 --> 00:32:38:06] maiores pet shops do mundo, por aí vai, qualquer mercado.
+[00:32:38:26 --> 00:32:41:26] Uma coisa legal de fazer aqui também, galera, eu não coloquei,
+[00:32:42:00 --> 00:32:44:16] mas eu falei de pet shop, eu sempre lembro disso...
+[00:32:45:24 --> 00:32:50:21] Isso tem a ver com concorrência indireta, não é nenhuma concorrência direta, mas liste
+[00:32:50:21 --> 00:32:53:10] os negócios paralelos.
+[00:32:53:15 --> 00:32:56:12] Isso é muito legal para identificar o mercado também, eu sempre falo isso.
+[00:32:56:29 --> 00:33:03:22] Dentro de um mercado, existem vários tipos de soluções e existem vários tipos de negócios.
+[00:33:04:06 --> 00:33:08:09] Pega o mercado de pet, por exemplo, eu sempre dou esse exemplo porque ele é muito claro.
+[00:33:08:27 --> 00:33:15:13] Existe o pet shop, existe a indústria que faz ração, existe a loja que faz a roupinha,
+[00:33:15:13 --> 00:33:17:09] Existe a loja que faz o brinquedo,
+[00:33:17:18 --> 00:33:21:01] existe o profissional que adestra os animais...
+[00:33:21:01 --> 00:33:25:06] Então, existem vários negócios em torno daquele ecossistema.
+[00:33:25:18 --> 00:33:28:03] Por que é legal listar os negócios paralelos?
+[00:33:28:06 --> 00:33:32:29] Porque muitas ideias lá na frente podem vir de negócios paralelos.
+[00:33:33:03 --> 00:33:34:28] E aí você pode adaptar isso para o seu.
+[00:33:35:10 --> 00:33:39:03] Às vezes, você vai fazer uma identidade de marca para um pet shop.
+[00:33:39:15 --> 00:33:42:06] E aí você vê um treinador de cães
+[00:33:42:06 --> 00:33:45:09] Trazer uma abordagem de comunicação muito legal.
+[00:33:45:23 --> 00:33:47:19] Você pode adaptar isso para o Pet Shop,
+[00:33:47:24 --> 00:33:50:07] pode ser uma metade de uma ideia
+[00:33:50:07 --> 00:33:51:27] que você vai transformar na ideia
+[00:33:51:27 --> 00:33:53:24] que vai representar aquela identidade de marca.
+[00:33:54:14 --> 00:33:58:01] Então, listar os negócios paralelos também é muito útil aqui, tá?
+[00:33:58:01 --> 00:34:00:12] Eu não tinha colocado, mas que bom que eu lembrei.
+[00:34:00:27 --> 00:34:02:15] Então, essa é a primeira etapa.
+[00:34:02:28 --> 00:34:03:12] Listar.
+[00:34:03:16 --> 00:34:05:00] Nós estamos fazendo o quê?
+[00:34:05:07 --> 00:34:08:10] Se vocês lembram da metodologia que eu ensinei para vocês,
+[00:34:08:18 --> 00:34:09:11] Double Diamond.
+[00:34:11:21 --> 00:34:15:26] Falamos disso já na última aula. Nós estamos aqui te verjando, descobrindo.
+[00:34:17:09 --> 00:34:19:12] Separe um tempo para a descoberta.
+[00:34:19:18 --> 00:34:22:04] E só faz isso, fica um bom tempo fazendo isso.
+[00:34:22:25 --> 00:34:26:18] Uma coisa legal de fazer que eu gosto é, eu vou ficar um dia só na descoberta.
+[00:34:26:24 --> 00:34:28:06] E eu fico um dia só na descoberta.
+[00:34:28:15 --> 00:34:30:12] Geralmente, a minha metodologia funciona assim.
+[00:34:30:13 --> 00:34:33:03] Eu tenho uma semana na etapa de investigação.
+[00:34:33:06 --> 00:34:34:18] Então, são sete dias de investigação.
+[00:34:34:27 --> 00:34:37:21] Se eu for trabalhar de segunda a sexta, são cinco dias de investigação.
+[00:34:38:00 --> 00:34:40:20] Um dia inteiro é de descoberta.
+[00:34:41:07 --> 00:34:43:01] Esse dia eu vou gastar ele descobrindo,
+[00:34:43:07 --> 00:34:45:25] listando todos esses pontos aqui que eu mostrei para vocês.
+[00:34:47:19 --> 00:34:49:21] Então, ele é exatamente de descoberta.
+[00:34:49:27 --> 00:34:52:13] Tem também a descoberta do negócio e a descoberta do público.
+[00:34:52:22 --> 00:34:54:16] Então, tem que saber separar isso muito bem.
+[00:34:55:03 --> 00:34:59:02] Às vezes, eu gasto dois dias, negócio, mercado e público.
+[00:34:59:17 --> 00:35:02:06] Às vezes, eu gasto um dia e eu fico de manhã, negócio,
+[00:35:02:12 --> 00:35:04:12] de tarde, mercado, de noite, público, sei lá.
+[00:35:04:19 --> 00:35:06:29] Depende, mas vocês também vão conseguir separar isso
+[00:35:06:29 --> 00:35:08:21] de acordo com o contexto de vocês.
+[00:35:09:11 --> 00:35:11:15] Uma vez, então, que nós listamos
+[00:35:11:15 --> 00:35:14:10] e nós, inclusive, já definimos aqui...
+[00:35:15:18 --> 00:35:20:23] Vou voltar aqui. Depois é o que? Defini. Convergê. Defini.
+[00:35:21:10 --> 00:35:26:03] Nós definimos os top players. Agora a gente começa a olhar mais de pé.
+[00:35:27:00 --> 00:35:29:12] Então, lembra que eu falei com vocês o seguinte...
+[00:35:30:08 --> 00:35:31:07] Deixa eu até voltar aqui.
+[00:35:31:11 --> 00:35:33:19] Eu falei com vocês o seguinte, na última aula.
+[00:35:34:06 --> 00:35:39:06] Nós precisamos, em uma das últimas né, não sei em qual delas, mas eu disse, nós precisamos
+[00:35:39:06 --> 00:35:46:01] ter uma lente de telescópio e uma lente de microscópio, ou seja, olhar coisas distantes
+[00:35:46:01 --> 00:35:49:18] e grandes, mas também olhar coisas muito próximas e pequenas.
+[00:35:49:28 --> 00:35:53:05] Aqui nós estamos tentando, nós estamos planando.
+[00:35:53:26 --> 00:35:54:21] O que é planar?
+[00:35:54:21 --> 00:35:58:03] É voar, sobrevoar e ter uma visão geral do terreno.
+[00:35:58:03 --> 00:36:02:08] Depois que nós listamos, agora nós vamos mergulhar.
+[00:36:02:16 --> 00:36:06:25] Então a gente fecha as asas e cai num rasante para mergulhar dentro do oceano.
+[00:36:07:03 --> 00:36:11:28] Agora é hora de colocar a lente do microscópio e tirar a lente do telescópio, tá bom?
+[00:36:12:12 --> 00:36:13:03] Então vamos lá.
+[00:36:13:08 --> 00:36:14:09] O que a gente vai fazer agora?
+[00:36:14:11 --> 00:36:17:07] Nós vamos começar a analisar as informações que nós pegamos.
+[00:36:17:13 --> 00:36:22:16] Se nós já temos o site, o Instagram dos principais concorrentes, nós vamos
+[00:36:22:16 --> 00:36:23:20] analisar eles agora.
+[00:36:23:24 --> 00:36:24:22] Só que tem um ponto.
+[00:36:24:22 --> 00:36:29:06] Você tem que analisar o tempo que você tem e saber dividir muito bem esse tempo.
+[00:36:29:13 --> 00:36:32:10] Se você não tem tanto tempo assim, em quem você deve focar?
+[00:36:32:19 --> 00:36:35:03] Você deve focar aqui, nos top players.
+[00:36:36:01 --> 00:36:40:20] Nos três, porque os locais influenciam diretamente o negócio do seu cliente.
+[00:36:40:24 --> 00:36:44:10] Os nacionais podem influenciar diretamente também, mas eles trazem muitos insights.
+[00:36:44:20 --> 00:36:49:24] Geralmente os top players nacionais, numa escala de qualidade, de valor, são
+[00:36:49:24 --> 00:36:51:07] melhores que os locais, certo?
+[00:36:51:07 --> 00:36:54:16] E os internacionais ainda maiores. Podem ser, né?
+[00:36:54:28 --> 00:36:59:01] O internacional para o nacional tem diferença, mas nem sempre é uma diferença grande.
+[00:36:59:07 --> 00:37:04:21] Às vezes, pode ser, por exemplo, o mercado de odontologia no Brasil é um dos melhores do mundo.
+[00:37:05:00 --> 00:37:05:29] Talvez vocês não saibam disso.
+[00:37:06:09 --> 00:37:09:27] E aí, talvez buscar isso internacional não seja tão bom quanto o nacional.
+[00:37:10:00 --> 00:37:11:24] Aí você vai olhar onde são os outros melhores do mundo.
+[00:37:12:09 --> 00:37:14:18] Inclusive, outra pesquisa legal de fazer é essa.
+[00:37:15:04 --> 00:37:18:15] Sei lá, eu tenho uma hamburgueria. Quais são os países com as melhores hamburguerias do mundo?
+[00:37:18:18 --> 00:37:20:22] E aí eu foco neles. Isso é uma pesquisa inteligente.
+[00:37:20:22 --> 00:37:26:25] Primeiro, você identifica os países que têm os melhores negócios no mercado que você está atuando
+[00:37:26:25 --> 00:37:29:27] e depois você pesquisa nesses países em específico.
+[00:37:30:06 --> 00:37:34:09] Tudo é uma questão de filtro. Você vai filtrando e colocando a sua lente, tá?
+[00:37:34:21 --> 00:37:36:11] Se você tem pouco tempo, foca aqui.
+[00:37:36:24 --> 00:37:39:19] Se você ganhou mais tempo para analisar ainda mais,
+[00:37:39:28 --> 00:37:44:00] você começa a analisar toda aquela lista grande que você construiu.
+[00:37:44:14 --> 00:37:46:21] Que tipo de informação você consegue em cada um?
+[00:37:46:21 --> 00:37:52:04] Aqui, você vai conseguir o que a gente chama de benchmark, que são as melhores práticas.
+[00:37:52:12 --> 00:37:54:13] Afinal, nós estamos analisando os melhores players.
+[00:37:55:05 --> 00:37:57:16] E o que você consegue analisando a concorrência no geral?
+[00:37:57:29 --> 00:38:00:06] Você consegue os paradigmas.
+[00:38:01:09 --> 00:38:07:27] Então, cada pesquisa te leva para um lugar. Benchmarks são melhores práticas, paradigmas
+[00:38:07:27 --> 00:38:14:03] são padrões do mercado. Em ambos os casos, você pode encontrar oportunidades e ameaças.
+[00:38:15:00 --> 00:38:20:17] Então, é importante identificar para qual direção você está seguindo. Como que você
+[00:38:20:17 --> 00:38:25:02] analisa paradigma? Analisando padrões. Entrando nos sites, por exemplo, vendo quais
+[00:38:25:02 --> 00:38:30:09] são os clichês, as frases mais utilizadas, as imagens mais utilizadas. Aqui, agora,
+[00:38:30:09 --> 00:38:33:10] você já vai preparar o dedo e o mouse para printar muito.
+[00:38:34:00 --> 00:38:35:23] Cria outro documento, tá?
+[00:38:36:09 --> 00:38:38:15] Eu vou fazer aqui o movimento para vocês verem como é que é.
+[00:38:39:06 --> 00:38:41:12] Vou pegar aqui o Google...
+[00:38:42:16 --> 00:38:43:23] Criar um Google Doc aqui.
+[00:38:47:17 --> 00:38:48:04] Ai, viu?
+[00:38:49:18 --> 00:38:53:09] Vou criar aqui só para usar de exemplo com vocês, tá?
+[00:38:54:14 --> 00:38:55:14] Documento do Google.
+[00:38:57:03 --> 00:38:57:23] E aí, beleza.
+[00:38:58:06 --> 00:39:02:05] Então, a gente tava lá no Ed, vamos pegar o Ed de exemplo aqui de novo, já que o exemplo
+[00:39:02:05 --> 00:39:03:04] de hoje é a hambúrguer.
+[00:39:03:12 --> 00:39:04:06] Ed, fine.
+[00:39:06:13 --> 00:39:07:15] Red Manson.
+[00:39:09:03 --> 00:39:11:01] Quem viu, Stranger Things pegou ali.
+[00:39:11:20 --> 00:39:12:21] Mas vamos lá, aqui ó.
+[00:39:13:03 --> 00:39:13:15] Entrei.
+[00:39:13:25 --> 00:39:18:24] Isso aqui é uma boa referência, é um top player aqui em BH.
+[00:39:19:09 --> 00:39:22:26] Já tá há muito tempo, eles estão bem consolidados aqui.
+[00:39:23:10 --> 00:39:27:03] Já tem mais de uma casa, não tem só uma.
+[00:39:27:18 --> 00:39:28:27] Já são bem consolidados.
+[00:39:29:11 --> 00:39:31:07] Então, aqui é uma análise de benchmark.
+[00:39:31:29 --> 00:39:33:08] O que eu posso analisar aqui?
+[00:39:33:17 --> 00:39:35:07] A casa de hambúrgueres de BH.
+[00:39:35:23 --> 00:39:37:29] Eu posso pegar? Eu gosto de fazer assim, tá?
+[00:39:37:29 --> 00:39:43:12] quando eu vou fazer aqui a análise. Os top players, eu coloco o nome deles,
+[00:39:43:14 --> 00:39:50:17] ad, fine, burgers, coloco o site deles de novo, como se eu estivesse fazendo uma ficha deles, tá?
+[00:39:51:11 --> 00:39:58:04] Coloco lá o Instagram se eu tiver ad, fine, burgers. E aí lembra, se tem outros pontos de contato,
+[00:39:58:17 --> 00:40:04:23] coloca se é importante, LinkedIn, se é importante, TikTok, coloca os pontos de contatos importantes,
+[00:40:04:23 --> 00:40:09:25] anúncio Google, tá no anúncio Google? Se tiver no anúncio Google, por exemplo, guarda
+[00:40:09:25 --> 00:40:15:03] também porque lá tem... que é o Ed Fine Burgers. Vamos ver se aparece um anúncio
+[00:40:15:03 --> 00:40:15:09] aqui.
+[00:40:16:11 --> 00:40:22:02] Não parece. Se eu colocar hambúrguer... BH.
+[00:40:23:24 --> 00:40:25:14] Vão aparecer ninguém.
+[00:40:25:18 --> 00:40:28:00] Olha só que mundo de oportunidade, cara.
+[00:40:28:01 --> 00:40:29:12] Eu não sei por quê, achei estranho.
+[00:40:29:18 --> 00:40:31:01] Vai ver é porque já aparece aqui, né?
+[00:40:31:04 --> 00:40:32:01] Mas é estranho.
+[00:40:32:07 --> 00:40:33:24] Não tem ninguém anunciando aqui no Google.
+[00:40:34:02 --> 00:40:36:01] Talvez porque ninguém pesquisa no Google, né?
+[00:40:36:15 --> 00:40:38:00] Eu posso ir lá no iFood também,
+[00:40:38:07 --> 00:40:40:05] que é um ponto de contato, vou lá no iFood.
+[00:40:40:19 --> 00:40:42:00] Dijito lá assim, ó...
+[00:40:42:00 --> 00:40:42:12] Edge,
+[00:40:43:06 --> 00:40:43:19] Fine...
+[00:40:45:05 --> 00:40:46:26] O que é isso? Nem sei de onde é essa rua.
+[00:40:47:01 --> 00:40:48:16] Rua Joaquim José...
+[00:40:49:04 --> 00:40:50:27] Do nada pegou uma rua ali, nada a ver.
+[00:40:51:11 --> 00:40:55:05] Vou colocar aqui Ed, Feine, Burgers.
+[00:40:55:18 --> 00:40:57:26] Eu acho que aquilo ali foi quando eu fiz uma pesquisa de...
+[00:40:58:29 --> 00:40:59:23] confeitaria.
+[00:41:01:03 --> 00:41:06:02] Aí tem vários aqui, eu posso colocar BH, vamos ver se aparece, pelo horizonte.
+[00:41:08:29 --> 00:41:11:12] Carregando na show. Talvez eles não estão aqui.
+[00:41:12:22 --> 00:41:13:08] Não sei.
+[00:41:14:06 --> 00:41:16:09] Mas você pode pesquisar também, pode pesquisar no celular.
+[00:41:16:20 --> 00:41:20:18] O que é legal que você pode pegar pesquisando aqui também?
+[00:41:21:01 --> 00:41:23:11] Você pode ver como que eles apresentam os pratos.
+[00:41:24:16 --> 00:41:30:04] Padrão normal, usa alguma entonação diferente...
+[00:41:30:04 --> 00:41:31:11] Você pode pegar esse dos melhores.
+[00:41:32:19 --> 00:41:34:25] Novidades, lançamento canguru booger.
+[00:41:35:12 --> 00:41:37:11] Aqui fica até a dúvida, será que digitou errado?
+[00:41:37:16 --> 00:41:38:14] Ou será que é isso mesmo?
+[00:41:39:01 --> 00:41:41:14] O nosso processo criativo, eu vou analisar.
+[00:41:41:14 --> 00:41:47:23] Quando eu vou analisar os melhores, eu leio, eu presto atenção na linguagem, nas imagens...
+[00:41:47:23 --> 00:41:51:21] Olha, eles têm fotografia própria, isso aqui para uma hamburgueria faz diferença, legal,
+[00:41:51:25 --> 00:41:52:19] bom, guardar isso também.
+[00:41:52:29 --> 00:41:53:26] Aí eles têm iFood, ó.
+[00:41:54:18 --> 00:41:55:18] É o que eu não consegui encontrar.
+[00:41:58:08 --> 00:42:00:13] Belo Horizonte, será que eu tenho que colocar uma rua?
+[00:42:01:20 --> 00:42:03:10] Se tiver que colocar uma ruda aí, ferrou.
+[00:42:04:18 --> 00:42:07:13] Você está aqui? Pode ser na praça 7? Pode ser.
+[00:42:07:25 --> 00:42:10:03] Já pensou? Ah, tem que colocar. Então deixa.
+[00:42:10:10 --> 00:42:13:12] Depois a gente faz desse jeito, mas vocês entenderão a ideia.
+[00:42:14:08 --> 00:42:18:01] Então, primeiro eu crio essa ficha, crio uma hierarquia aqui assim...
+[00:42:19:02 --> 00:42:23:25] Você pode até usar aqui o título, porque aí ele vai separando todos no documento.
+[00:42:24:01 --> 00:42:27:14] Então, cria o título, depois do ad eu vou... sei lá, vai ser o...
+[00:42:30:20 --> 00:42:32:01] o McDonald's, nada a ver, né?
+[00:42:32:19 --> 00:42:35:05] Nem hambúrguer artesanal, mas tá bom, McDonald's.
+[00:42:35:14 --> 00:42:37:10] Aí aqui, olha, ele cria um filtro.
+[00:42:37:16 --> 00:42:38:22] Então, eu vou criando um por um.
+[00:42:39:06 --> 00:42:40:25] E aí, o que eu faço? Eu vou printando.
+[00:42:42:10 --> 00:42:43:17] Deixa eu pegar aqui de novo...
+[00:42:44:15 --> 00:42:45:24] A casa de hambúrguer de BH.
+[00:42:46:24 --> 00:42:49:08] Primeiro eu pinto as coisas que eu acho interessantes,
+[00:42:49:09 --> 00:42:50:09] se eu achei interessante,
+[00:42:50:22 --> 00:42:52:27] e embaixo eu coloco uma descrição.
+[00:42:53:15 --> 00:42:54:09] A minha...
+[00:42:55:14 --> 00:42:57:09] Por que eu printei isso?
+[00:42:57:19 --> 00:42:58:17] Porque a gente esquece,
+[00:42:58:20 --> 00:43:01:12] senão depois você abre o documento e fica só um bando de print.
+[00:43:01:27 --> 00:43:06:09] Coloca uma nota aqui, essa nota explicando o que eu achei de interessante aqui.
+[00:43:06:20 --> 00:43:06:29] Ela fala,
+[00:43:07:09 --> 00:43:11:19] achei interessante a linguagem informal.
+[00:43:12:11 --> 00:43:13:11] P-A-H.
+[00:43:13:17 --> 00:43:15:16] Sei lá, aqui eu estou colocando bem aberto mesmo,
+[00:43:15:18 --> 00:43:17:15] é só para vocês pegarem a prática da coisa.
+[00:43:18:27 --> 00:43:22:23] Quando você está fazendo esse processo, você vai notar muitas outras coisas mais interessantes
+[00:43:22:23 --> 00:43:25:22] do que isso daqui, tanto para a identidade verbal quanto para a identidade visual.
+[00:43:26:09 --> 00:43:31:03] Você pode, por exemplo, olha, igual eu fiz aqui, eu printar aqui assim, printo aqui...
+[00:43:32:05 --> 00:43:33:09] Encara o documento...
+[00:43:33:25 --> 00:43:37:08] Ah, inclusive, se você está no Windows e não sabe fazer esse print direto que eu fiz,
+[00:43:37:19 --> 00:43:39:03] é janela Shift S, tá?
+[00:43:40:01 --> 00:43:43:14] Aí você consegue fazer o print direto aí só de um quadradinho,
+[00:43:43:17 --> 00:43:44:06] igual eu estou fazendo aqui.
+[00:43:44:23 --> 00:43:46:14] Aqui, por exemplo, eu posso colocar...
+[00:43:47:00 --> 00:43:48:24] Anotei que eles têm...
+[00:43:51:21 --> 00:43:53:29] fotografia própria.
+[00:43:55:22 --> 00:44:02:14] e profissional. Isso é muito importante. Então, coloquei a minha nota aqui. Estou colocando
+[00:44:02:14 --> 00:44:07:19] várias notas, tá? Isso aqui é uma análise mais profunda e geralmente eu faço essa dos
+[00:44:07:19 --> 00:44:13:27] top players, porque eu quero pegar bons padrões de uso. É um benchmark, melhores práticas.
+[00:44:14:16 --> 00:44:19:12] E como é que eu faço nos que não são top players? Eu identifico padrões. Então,
+[00:44:20:12 --> 00:44:23:26] hamburguerias em BH. Voltando lá de novo, vamos pegar uma outra aqui.
+[00:44:25:05 --> 00:44:27:24] que não é tão boa assim, mas que entrou na lista lá.
+[00:44:28:25 --> 00:44:31:10] Sei lá, vamos ver essa James Burger? Tem muita avaliação nela,
+[00:44:31:10 --> 00:44:33:05] mas nem sempre é que tem muita avaliação.
+[00:44:34:00 --> 00:44:35:10] Tem um bom design, vamos ver.
+[00:44:35:28 --> 00:44:37:21] Eles não têm site, olha o logo deles.
+[00:44:37:29 --> 00:44:39:02] Opa, oportunidade aqui.
+[00:44:39:07 --> 00:44:41:18] Isso aqui é até legal, vocês vão ver lá na etapa de marketing,
+[00:44:42:06 --> 00:44:45:10] que fazer essa pesquisa de mercado ajuda você também a identificar
+[00:44:45:27 --> 00:44:48:03] o seu próprio mercado de atuação enquanto designer.
+[00:44:48:24 --> 00:44:50:29] Mas olha lá, eles têm um design deles,
+[00:44:51:12 --> 00:44:53:01] eles querem se diferenciar de alguma forma.
+[00:44:53:02 --> 00:44:55:09] Dá pra ver que eles estão tentando fazer isso pela capa.
+[00:44:55:11 --> 00:44:57:05] Às vezes, não estão fazendo da melhor forma possível,
+[00:44:57:05 --> 00:44:58:28] mas está bem genérico.
+[00:44:59:06 --> 00:45:01:27] O que eu vou fazer quando estou fazendo a análise de paradigma?
+[00:45:02:07 --> 00:45:03:24] Eu vou printar isso aqui...
+[00:45:04:23 --> 00:45:06:19] e eu vou colocar diferente aqui.
+[00:45:07:13 --> 00:45:08:27] Em outro documento, inclusive,
+[00:45:09:09 --> 00:45:10:21] isso aqui é um documento de benchmark.
+[00:45:10:27 --> 00:45:12:12] Eu quero melhores práticas dos melhores.
+[00:45:13:00 --> 00:45:15:05] Mas no documento de padrões,
+[00:45:15:13 --> 00:45:17:29] eu coloco lá paradigmas.
+[00:45:18:10 --> 00:45:21:09] Eu coloco o nome deles, então é James Berger...
+[00:45:23:12 --> 00:45:32:28] Coloco o print e coloco lá, assim, design genérico, nenhum elemento proprietário,
+[00:45:33:04 --> 00:45:34:09] nenhum elemento único.
+[00:45:35:15 --> 00:45:38:04] Pro-pre-etário-a-marca.
+[00:45:39:15 --> 00:45:41:24] Vermelho e amarelo.
+[00:45:43:27 --> 00:45:44:19] Muito original.
+[00:45:46:04 --> 00:45:47:13] Um tom de ironia aqui.
+[00:45:47:21 --> 00:45:48:29] Vermelho e amarelo, muito original.
+[00:45:49:05 --> 00:45:51:28] Eu converso comigo mesmo, porque depois eu vou voltar aqui
+[00:45:51:28 --> 00:45:54:17] e vou ver as desquiscções que eu fiz, tá?
+[00:45:56:11 --> 00:46:00:07] Post genérico para Instagram e YouTube.
+[00:46:02:13 --> 00:46:05:19] Fotografias podem ser melhores. Como é que eu sei? Da onde que eu tirei esse padrão?
+[00:46:06:10 --> 00:46:10:08] Olha a diferença, né? De fotografia. Eu tô identificando pontos.
+[00:46:10:21 --> 00:46:12:13] Mas eu posso também identificar paradigmas.
+[00:46:12:21 --> 00:46:16:00] Se eu entrar em outra hamburgueria e agora ver o mesmo padrão, vamos ver aqui.
+[00:46:17:03 --> 00:46:18:13] Vamos pegar o...
+[00:46:18:13 --> 00:46:20:04] Esse aqui parece bom, hein? Mas vamos ver.
+[00:46:20:16 --> 00:46:20:28] BULGAR.
+[00:46:24:28 --> 00:46:26:05] Olha, esse já tem site.
+[00:46:26:23 --> 00:46:28:28] Ah, legal, esse daqui já tá mais interessante.
+[00:46:29:15 --> 00:46:32:08] Ah, esse búlgar aqui eu vi, cara, ele é muito massa.
+[00:46:32:23 --> 00:46:33:20] Tem em Nova Lima.
+[00:46:33:28 --> 00:46:35:18] Eu não comi lá ainda, mas tô doido pra comer.
+[00:46:35:28 --> 00:46:37:14] A fachada deles é muito massa.
+[00:46:37:17 --> 00:46:38:19] Deixa eu mostrar aqui pra vocês.
+[00:46:40:08 --> 00:46:44:07] Não, não é essa ou essa daqui, só que tem um bacon em cima, cara.
+[00:46:44:11 --> 00:46:45:26] Deixa eu mostrar aqui para vocês.
+[00:46:46:21 --> 00:46:47:05] Cadê ela?
+[00:46:48:13 --> 00:46:50:12] É, de estar mais pra cá, ó...
+[00:46:53:06 --> 00:46:55:18] perto de Nova Lima, aqui.
+[00:46:55:26 --> 00:46:56:18] Belvedere.
+[00:46:58:24 --> 00:46:59:17] Hospital.
+[00:47:00:06 --> 00:47:02:13] É aqui, o bulguer novo é aqui.
+[00:47:03:15 --> 00:47:05:01] Vamos ver se acertei.
+[00:47:05:10 --> 00:47:05:21] É aqui.
+[00:47:08:28 --> 00:47:09:18] Cadê, cadê?
+[00:47:11:19 --> 00:47:13:09] É aqui, olha lá, vulguer.
+[00:47:13:13 --> 00:47:19:07] Só que de dia não tem graça, de noite esses baconzinhos aqui, eles ficam iluminados, a
+[00:47:19:07 --> 00:47:21:04] fachada deles chama muita atenção aqui.
+[00:47:21:17 --> 00:47:24:15] E essa é uma região muito massa aqui de BH e Nova Lima.
+[00:47:25:27 --> 00:47:27:14] eles são muito bem posicionados.
+[00:47:27:23 --> 00:47:31:27] Então, aqui, da região é um top player, eu poderia posicionar assim, tá?
+[00:47:32:03 --> 00:47:32:15] Interessante.
+[00:47:32:24 --> 00:47:34:27] Aí, analisou, olha, uma fotografia, mas será que é deles?
+[00:47:35:00 --> 00:47:35:26] Não sei, mas parece.
+[00:47:35:29 --> 00:47:37:11] Se for, foi muito bem feito.
+[00:47:39:02 --> 00:47:42:00] Ah, eles já vendem através da razão, olha lá.
+[00:47:42:02 --> 00:47:46:20] Ótimo custo-benefício, eles estão vendendo mais a razão do que o sabor, talvez.
+[00:47:47:10 --> 00:47:49:12] O resultado do grande sucesso.
+[00:47:49:17 --> 00:47:51:22] Na contramão das hamburguerias gourmet.
+[00:47:52:04 --> 00:47:53:19] Ah, então será que é mais rebelde?
+[00:47:53:21 --> 00:47:54:27] Será que eles estão querendo ser bem diferentes?
+[00:47:55:11 --> 00:47:56:24] Eu leio, eu leio mesmo.
+[00:47:56:26 --> 00:47:58:15] Quando é bom, eu leio e guardo.
+[00:47:58:19 --> 00:48:02:04] Quando é genérico, eu coloco lá nos padrões genéricos, tá?
+[00:48:02:07 --> 00:48:04:24] Acho que deu para vocês entenderem qual é a lógica aqui
+[00:48:06:00 --> 00:48:07:19] para começarmos a fazer essa análise.
+[00:48:07:19 --> 00:48:12:27] E aí, aqui eu tenho algumas perguntas interessantes para vocês se questionarem durante essas
+[00:48:12:27 --> 00:48:14:24] análises de comunicação.
+[00:48:14:27 --> 00:48:17:24] Por exemplo, quais são os atributos mais valorizados no mercado?
+[00:48:17:27 --> 00:48:21:21] Essa aqui é uma pergunta chave, uma das mais importantes, que é, por exemplo, esse
+[00:48:21:21 --> 00:48:27:05] mercado valoriza mais preço, reputação, qualidade do produto, atendimento, marketing,
+[00:48:27:13 --> 00:48:28:15] prestígio, status.
+[00:48:28:22 --> 00:48:29:20] Tem vários atributos.
+[00:48:29:23 --> 00:48:32:12] Quais são os atributos mais valorizados nesse mercado?
+[00:48:32:26 --> 00:48:33:27] Como é que eu identifico isso, Juan?
+[00:48:33:28 --> 00:48:37:10] Você pode tanto perguntar isso para o seu cliente quanto também identificar isso
+[00:48:37:10 --> 00:48:42:00] na comunicação. Se a comunicação está falando aqui de custo-benefício,
+[00:48:42:15 --> 00:48:45:21] eu começo a me questionar. Será que o custo-benefício do hambúrguer
+[00:48:45:21 --> 00:48:49:05] é um atributo questionado? As pessoas querem hambúrgueres mais baratos?
+[00:48:49:11 --> 00:48:50:11] Parece razoável.
+[00:48:50:28 --> 00:48:53:13] É um tipo de mercado, é um tipo de posicionamento.
+[00:48:53:18 --> 00:48:57:07] Então, preço. E vai colocando também esses atributos.
+[00:48:57:10 --> 00:48:58:24] Responder essa pergunta é muito massa.
+[00:48:59:08 --> 00:49:02:03] O que os top players têm de diferencial que os outros não têm?
+[00:49:02:27 --> 00:49:05:18] Aqui, igual eu falei para vocês, a auditoria de mercado é larga.
+[00:49:05:18 --> 00:49:09:15] Você pode fazer uma pesquisa de cada área da empresa,
+[00:49:09:21 --> 00:49:11:21] mas nós vamos focar no que? Na comunicação.
+[00:49:12:04 --> 00:49:14:06] O atendimento está ligado com a comunicação.
+[00:49:14:15 --> 00:49:17:26] E eu vou mostrar para vocês como viver uma experiência de atendimento
+[00:49:17:26 --> 00:49:21:13] e fazer isso da melhor forma, dependendo do escopo do projeto também.
+[00:49:22:03 --> 00:49:26:04] Mas aqui, de novo, você vai identificar o que eles têm.
+[00:49:26:06 --> 00:49:30:27] Eu posso colocar aqui, por exemplo, boas fotos no caso da hamburgueria.
+[00:49:32:04 --> 00:49:36:08] conseguem gerar desejo com apenas uma imagem.
+[00:49:37:05 --> 00:49:44:16] Se a gente olha, por exemplo, essa daqui, esse hambúrguer aqui, né, da James, e olha,
+[00:49:44:21 --> 00:49:50:19] por exemplo, esse hambúrguer aqui, da Burger, esse daqui me gera muito mais desejo, eu
+[00:49:50:19 --> 00:49:56:12] tenho muito mais vontade de comer na Burger do que de comer na James Burger.
+[00:49:57:25 --> 00:50:02:08] Se eu pudesse escolher, eu escolheria essa primeiro, não sei vocês,
+[00:50:03:01 --> 00:50:04:28] mas ela me parece trazer uma experiência melhor.
+[00:50:05:12 --> 00:50:07:00] Então, eu coloco isso lá também.
+[00:50:08:28 --> 00:50:11:17] Então, boas fotos, poderia ser uma resposta que...
+[00:50:11:17 --> 00:50:14:10] E você vai além, não se contente com as respostas básicas.
+[00:50:14:14 --> 00:50:16:19] Lembrem que isso aqui é uma pesquisa.
+[00:50:16:28 --> 00:50:20:14] Eu estou passando tudo para vocês em uma aula de uma hora e alguns minutos.
+[00:50:21:01 --> 00:50:24:14] A pesquisa pode durar um, dois, três dias, tá?
+[00:50:24:14 --> 00:50:25:05] Então, lembre-se disso.
+[00:50:25:05 --> 00:50:28:06] vocês devem se questionar e buscar essas respostas.
+[00:50:28:07 --> 00:50:29:28] O que todo mundo faz igual no seu mercado?
+[00:50:30:16 --> 00:50:31:16] Então, o que todo mundo faz igual?
+[00:50:31:21 --> 00:50:34:03] Falar de preço ou todo mundo faz as mesmas fotos,
+[00:50:34:08 --> 00:50:36:02] os mesmos posts genéricos no Instagram?
+[00:50:36:14 --> 00:50:38:11] Quem está fazendo post diferente se diferencia?
+[00:50:38:29 --> 00:50:39:23] Óbvio, né?
+[00:50:39:24 --> 00:50:41:01] Post diferente se diferencia.
+[00:50:41:06 --> 00:50:43:26] Mas quem está fazendo post diferente está atraindo mais pessoas?
+[00:50:44:10 --> 00:50:45:15] O que todo mundo faz igual?
+[00:50:45:21 --> 00:50:46:22] A maioria faz igual.
+[00:50:47:10 --> 00:50:49:28] Quais são as prechas de diferenciação que existem no mercado?
+[00:50:50:08 --> 00:50:52:04] Isso aqui é só insight, tá?
+[00:50:52:07 --> 00:50:52:21] Vou colocar aqui.
+[00:50:53:23 --> 00:50:54:08] Insights.
+[00:50:54:08 --> 00:50:59:11] Vocês vão notar que, à medida que vocês estão fazendo a pesquisa, vão surgindo ideias.
+[00:50:59:16 --> 00:51:03:10] Não perca essas ideias, anote, mas também não desenvolva elas.
+[00:51:04:06 --> 00:51:08:04] É muito ruim você desenvolver uma ideia na hora errada, porque você acaba casando
+[00:51:08:04 --> 00:51:10:05] com ela e ficando cego para todo o resto.
+[00:51:10:14 --> 00:51:11:19] É igual ficar apaixonado.
+[00:51:11:24 --> 00:51:15:08] Você está lá no colégio, se apaixona por uma menina, tem um monte de outras,
+[00:51:15:23 --> 00:51:17:23] mas você se apaixona por aquela e não consegue ver mais nenhuma.
+[00:51:17:25 --> 00:51:21:23] Ou no caso das mulheres, se apaixona por um garoto e não consegue ver mais nenhum
+[00:51:21:23 --> 00:51:22:00] outro.
+[00:51:22:08 --> 00:51:23:14] A mesma coisa que com as ideias.
+[00:51:23:14 --> 00:51:25:14] Não se apaixone por uma ideia antes da hora.
+[00:51:25:24 --> 00:51:27:19] Aqui nós queremos insights.
+[00:51:27:28 --> 00:51:29:13] Então, teve uma ideia legal? Anota.
+[00:51:29:29 --> 00:51:30:14] Notei...
+[00:51:31:17 --> 00:51:32:28] Colocar aqui, ó.
+[00:51:32:29 --> 00:51:39:08] Ah, notei que nesse mercado a comunicação é muito genérica.
+[00:51:39:10 --> 00:51:42:24] Se você colocar isso, lembra, lembra, sério, lembra disso porque
+[00:51:42:24 --> 00:51:44:23] se não no futuro você vai pagar o preço.
+[00:51:45:05 --> 00:51:47:21] Lembra que você está escrevendo pra você mesmo
+[00:51:47:21 --> 00:51:50:18] e você quer ser generoso com você mesmo.
+[00:51:50:27 --> 00:51:52:26] Então, se você solta uma frase igual essa daqui, olha,
+[00:51:52:27 --> 00:51:55:04] eu notei que nesse mercado a comunicação é muito genérica,
+[00:51:56:02 --> 00:51:59:24] explique ela para que quando você voltar nesse documento,
+[00:51:59:24 --> 00:52:04:14] uma semana depois, duas semanas depois, para a etapa estratégica, a núcleo da marca,
+[00:52:05:11 --> 00:52:07:20] você entender o que você quis dizer ali.
+[00:52:07:26 --> 00:52:11:12] Se você não for específico, não vai ter servido de nada a sua pesquisa,
+[00:52:11:17 --> 00:52:12:29] porque você vai anotar e não vai lembrar.
+[00:52:13:02 --> 00:52:14:05] Me pergunta como é que eu sei disso.
+[00:52:14:10 --> 00:52:16:14] Então, eu busco ser o mais específico possível.
+[00:52:16:27 --> 00:52:18:03] O que eu quero dizer com genérico?
+[00:52:18:09 --> 00:52:19:11] Eu coloco...
+[00:52:20:01 --> 00:52:20:13] Genérico...
+[00:52:21:20 --> 00:52:25:17] Genérico nos termos, tom de voz...
+[00:52:26:13 --> 00:52:33:13] tradicional, vendedor, pouca personalidade na identidade.
+[00:52:34:16 --> 00:52:36:14] isso aqui eu estou inventando, tá galera?
+[00:52:37:01 --> 00:52:40:09] Estou inventando, eu nem li os sites ali para poder
+[00:52:41:12 --> 00:52:43:21] saber exatamente se é isso daqui.
+[00:52:44:03 --> 00:52:45:13] Mas eu estou mostrando para vocês...
+[00:52:45:13 --> 00:52:46:25] Surgiu isso, você notou, você percebeu?
+[00:52:46:25 --> 00:52:48:26] Eu analisei 10 sites, eu vi isso em todos.
+[00:52:49:06 --> 00:52:51:22] Guarda os insights, para depois.
+[00:52:52:10 --> 00:52:53:24] E aqui eu coloquei barreira de entrada,
+[00:52:53:28 --> 00:52:55:09] isso aqui é uma pergunta que você vai fazer para o seu cliente,
+[00:52:55:10 --> 00:52:56:08] mas pode ser interessante.
+[00:52:56:12 --> 00:52:58:00] Qual que é a barreira de entrada nesse mercado?
+[00:52:58:10 --> 00:52:59:07] O que é a barreira de entrada?
+[00:52:59:12 --> 00:53:01:15] É o quão difícil é se posicionar no mercado.
+[00:53:01:17 --> 00:53:04:04] Por exemplo, no design a barreira de entrada é muito baixa.
+[00:53:04:16 --> 00:53:07:01] com, sei lá, R$2.000 ou, às vezes, nem isso,
+[00:53:07:06 --> 00:53:08:16] se o seu pai te dar um computador...
+[00:53:09:04 --> 00:53:11:07] Você já pode começar a trabalhar com design.
+[00:53:11:24 --> 00:53:12:27] Ah, mas eu não tenho conhecimento...
+[00:53:12:27 --> 00:53:14:05] Ah, mas você pode falar que é designer,
+[00:53:14:07 --> 00:53:16:18] porque você viu alguns vídeos do Photoshop no YouTube
+[00:53:16:18 --> 00:53:22:01] e você já sabe fazer uns adesivos no Illustrator ou no Photoshop...
+[00:53:22:01 --> 00:53:24:23] E aí, você fala que é designer, tem baixíssima barreira de entrada.
+[00:53:25:03 --> 00:53:27:15] Agora, por exemplo, vai construir sua própria padaria.
+[00:53:28:02 --> 00:53:29:16] A barreira de entrada para ter uma padaria
+[00:53:29:16 --> 00:53:32:02] já é muito mais alta que para ser designer, porque...
+[00:53:32:02 --> 00:53:33:03] Você tem que ter um local,
+[00:53:33:03 --> 00:53:38:02] Então, tem que ter equipe, tem que ter balcão, tem que ter equipamento, tem que ter muita
+[00:53:38:02 --> 00:53:38:12] coisa.
+[00:53:38:14 --> 00:53:43:06] Então, você vai ter que fazer um alto investimento primeiro, para que depois você consiga se
+[00:53:43:06 --> 00:53:43:25] posicionar no mercado.
+[00:53:43:27 --> 00:53:48:10] Sei lá, eu quero entrar no mercado de construtora, oh cara, você vai precisar de bastante dinheiro
+[00:53:48:10 --> 00:53:51:05] para ter orçamento e para financiar o primeiro prédio.
+[00:53:51:09 --> 00:53:56:21] Ou então de know-how, para saber construir um prédio com zero dinheiro seu, independente
+[00:53:56:21 --> 00:53:58:24] do que for, é uma barreira de entrada mais alta.
+[00:53:58:24 --> 00:54:04:18] Então, identificar essa barreira de entrada legal para você já entrar com um olhar certo
+[00:54:04:18 --> 00:54:11:00] na sua auditoria, pensando o seguinte, tem muita concorrência, mas a maioria, 80% não
+[00:54:11:00 --> 00:54:12:03] vai estar aqui ano que vem.
+[00:54:12:06 --> 00:54:13:00] Como é que eu sei disso?
+[00:54:13:09 --> 00:54:18:21] Se a barreira de entrada é muito baixa, a saída também tende a ser alta.
+[00:54:19:19 --> 00:54:22:04] Se a entrada é alta, a saída tende a ser alta.
+[00:54:23:24 --> 00:54:27:18] Então, negócios que são fáceis de começar também são fáceis de terminar.
+[00:54:27:18 --> 00:54:31:21] E aí, você vai analisar quem, você vai focar mais nos que estão a mais tempo,
+[00:54:31:23 --> 00:54:35:29] para não perder o seu tempo, porque se você tem um mercado com muitos amadores,
+[00:54:36:14 --> 00:54:38:13] você não quer perder tempo demais nos amadores.
+[00:54:38:18 --> 00:54:41:02] Qual que é o maior dado que você quer pegar dos amadores?
+[00:54:41:15 --> 00:54:45:29] Os paradigmas, as falhas que os amadores cometem, você não quer cometer.
+[00:54:46:08 --> 00:54:48:06] Fora isso, você não vai fazer benchmark com o amador,
+[00:54:48:09 --> 00:54:50:20] você vai fazer benchmark com os profissionais.
+[00:54:51:09 --> 00:54:53:26] Então, a barreira de entrada também te ajuda nesse sentido.
+[00:54:56:20 --> 00:55:01:15] Então, essas são algumas perguntas na auditoria de mercado que eu costumo me fazer para encontrar
+[00:55:01:15 --> 00:55:02:19] informações úteis.
+[00:55:02:27 --> 00:55:04:07] Com essas informações...
+[00:55:05:18 --> 00:55:11:00] Eu consigo já pensar mais em oportunidades e ameaças no mercado.
+[00:55:11:12 --> 00:55:14:02] E isso aqui vai me ajudar muito na próxima etapa.
+[00:55:14:23 --> 00:55:17:23] Não na próxima etapa porque nós ainda vamos fazer a auditoria de público.
+[00:55:18:02 --> 00:55:20:23] Mas na próxima etapa da metodologia, que é a estratégia,
+[00:55:20:27 --> 00:55:22:19] que vem logo em seguida depois da investigação.
+[00:55:23:09 --> 00:55:27:20] Isso aqui, essas informações, elas são sua matéria-prima para construir uma estratégia.
+[00:55:28:06 --> 00:55:33:18] É com essas respostas, com essa lista aqui, que você vai conseguir definir essa estratégia.
+[00:55:33:18 --> 00:55:38:15] junto com essa abordagem aqui que ela é muito comum todo mundo todo mundo não
+[00:55:38:15 --> 00:55:46:11] mas muita gente conhece a análise swatch né que é a strange é warts se eu não me engano
+[00:55:46:11 --> 00:55:54:18] opportunities e o último esqueci não é não é traps tem um outro nome né mas no português é
+[00:55:54:18 --> 00:55:59:00] pontos fortes pontos fracos oportunidades e ameaças eu não sei como é que fala ameaça
+[00:55:59:00 --> 00:56:06:12] me esqueci. Mas aqui tem gente que chama de fofa, aqui no português. O brasileiro gosta
+[00:56:06:12 --> 00:56:11:25] de estragar, uma coisa que tem um nome chique, um nome empoderado, SWOT, análise SWOT.
+[00:56:12:03 --> 00:56:17:15] Aqui no Brasil chama análise fofa, que é forças, oportunidades, fraquezas e ameaças.
+[00:56:17:15 --> 00:56:22:06] Também funciona. Mas isso aqui basicamente é a estratégia dos oceanos azuis e vermelhos,
+[00:56:22:14 --> 00:56:27:06] no livro que chama Estratégia do Oceano Azul. Tá aqui. Eu não sei se eu citei
+[00:56:27:06 --> 00:56:30:21] esse livro em outro momento para vocês, na última aula, acho que eu citei, mas se não
+[00:56:30:21 --> 00:56:33:24] fica aí para vocês, é um bom livro para entender mais sobre mercado mesmo.
+[00:56:34:05 --> 00:56:39:12] Esse aqui é o livro sobre mercado, sobre se diferenciar no mercado, definir estratégias
+[00:56:39:12 --> 00:56:40:23] de diferenciação no mercado, tá?
+[00:56:41:21 --> 00:56:44:24] E basicamente qual que é a lógica de oceano azul e oceano vermelho?
+[00:56:45:11 --> 00:56:46:12] Oportunidade e ameaça.
+[00:56:46:23 --> 00:56:51:05] É basicamente isso que eu vou resumir para vocês, porque oceano azul é oportunidade,
+[00:56:51:11 --> 00:56:52:18] oceano vermelho é ameaça.
+[00:56:52:18 --> 00:56:56:10] A diferença é que aqui nós temos uma metáfora,
+[00:56:56:12 --> 00:56:59:15] e é uma metáfora muito boa, é uma metáfora visceral.
+[00:56:59:28 --> 00:57:02:03] Oceano vermelho é aquele oceano de sangue,
+[00:57:02:06 --> 00:57:04:27] é aquele oceano de guerra, que é todo mundo concorrendo ali,
+[00:57:05:02 --> 00:57:08:00] todo mundo lutando para poder ganhar um espacinho.
+[00:57:08:03 --> 00:57:10:03] Oceano azul é oceano pacífico, de paz.
+[00:57:10:12 --> 00:57:12:18] É aquele oceano que não tem tanta concorrência
+[00:57:12:18 --> 00:57:14:29] e você navega por ele sozinho, em tranquilidade.
+[00:57:15:08 --> 00:57:16:18] Você aproveitou uma oportunidade.
+[00:57:16:24 --> 00:57:19:24] Por que mesmo sendo óbvio, entre aspas, o conceito,
+[00:57:19:29 --> 00:57:21:21] eu recomendo a leitura desse livro aqui?
+[00:57:21:21 --> 00:57:23:18] Porque o livro vai além do óbvio.
+[00:57:23:23 --> 00:57:27:14] Ele não vai só te falar que você tem que buscar oportunidades no mercado para se diferenciar,
+[00:57:27:15 --> 00:57:27:23] não.
+[00:57:27:27 --> 00:57:31:24] Ele te mostra ferramentas para conseguir se diferenciar no mercado.
+[00:57:32:02 --> 00:57:34:24] É um livro de negócios, não é um livro de design.
+[00:57:35:05 --> 00:57:40:03] Mas designers deveriam ler esse livro, principalmente para definir a estratégia de design do negócio.
+[00:57:40:20 --> 00:57:41:15] É muito bom.
+[00:57:41:26 --> 00:57:46:03] E aqui, a ferramenta que eu trouxe, a primeira delas, é a análise Swatch.
+[00:57:46:04 --> 00:57:49:12] Se você pesquisar no Google, essa aqui é fácil de encontrar conceitos dela e
+[00:57:49:12 --> 00:57:50:00] de como fazer.
+[00:57:50:00 --> 00:57:55:06] Mas, basicamente, a análise sorte são quatro quadrantes, sendo que dois deles são fatores
+[00:57:55:06 --> 00:57:57:27] internos e dois deles são fatores externos.
+[00:57:58:04 --> 00:58:02:18] Os fatores internos, nós já ranqueamos eles lá no Business Model Canvas.
+[00:58:03:00 --> 00:58:04:18] Isso aqui é o que a empresa controla.
+[00:58:04:23 --> 00:58:07:03] Quais são os pontos fortes e os pontos fracos da empresa?
+[00:58:07:14 --> 00:58:11:15] Pode ser que lá no BMC você não listou os pontos fracos, você tem só os pontos
+[00:58:11:15 --> 00:58:12:00] fortes.
+[00:58:12:04 --> 00:58:13:24] Aqui vale a pena você listar.
+[00:58:14:04 --> 00:58:19:02] Então, a empresa do seu cliente, o que ela tem de ponto forte em relação ao
+[00:58:19:02 --> 00:58:22:29] agora que você já pesquisou o mercado, você consegue resumir isso daqui.
+[00:58:23:15 --> 00:58:26:18] E geralmente é isso daqui que nós vamos apresentar para o cliente no final, tá?
+[00:58:26:29 --> 00:58:29:29] Nós vamos falar de todo o processo que a gente listou, pararararou,
+[00:58:30:06 --> 00:58:33:27] mas é isso aqui que ele quer saber, isso aqui é uma síntese da sua pesquisa.
+[00:58:34:05 --> 00:58:39:01] Notei que o seu negócio tem esses pontos fortes em relação ao mercado
+[00:58:39:01 --> 00:58:42:23] e tem esses pontos fracos. Isso aqui é o negócio do seu cliente.
+[00:58:42:26 --> 00:58:47:28] Você vai além, você fala o seguinte, eu notei que existem essas oportunidades no mercado
+[00:58:47:28 --> 00:58:50:15] e existem essas ameaças.
+[00:58:51:16 --> 00:58:55:01] Ruan, como é que eu sei quais são? Você tá sendo muito aberto aqui comigo.
+[00:58:55:19 --> 00:58:59:09] Essas respostas aqui são justamente as oportunidades e ameaças, sabe por quê?
+[00:58:59:22 --> 00:59:00:22] O que é oportunidade?
+[00:59:01:04 --> 00:59:03:28] O oportunidade, a maioria tem uma...
+[00:59:03:28 --> 00:59:05:13] Opa, deixa eu escrever certinho, né?
+[00:59:07:01 --> 00:59:10:00] A maioria tem uma comunicação...
+[00:59:11:00 --> 00:59:11:25] Genérica.
+[00:59:13:25 --> 00:59:17:28] Faça sempre essa pergunta, o que eu quero dizer com isso?
+[00:59:18:09 --> 00:59:20:27] Sempre se pergunte isso e responda melhor agora.
+[00:59:21:19 --> 00:59:24:01] Então, a maioria tem uma comunicação genérica.
+[00:59:24:27 --> 00:59:31:04] Usam as mesmas palavras e aqui você pode usar o território de palavras.
+[00:59:31:14 --> 00:59:32:24] O que é o território de palavras, Juan?
+[00:59:33:10 --> 00:59:33:28] É uma ferramenta...
+[00:59:33:28 --> 00:59:37:09] Eu vou deixar aqui embaixo junto com as outras ferramentas que eu já vou explicar para vocês.
+[00:59:38:05 --> 00:59:39:11] Território de palavras...
+[00:59:41:03 --> 00:59:43:18] É bom, é uma ferramenta boa pra...
+[00:59:46:25 --> 00:59:50:16] para a identidade verbal, território de palavras desse mercado, né?
+[00:59:52:03 --> 01:00:01:03] Então, a maioria tem uma comunicação genérica, sei lá, pouquíssimos concorrentes têm esse
+[01:00:01:03 --> 01:00:07:14] ponto de contato, sei lá, website, Instagram, TikTok, isso tudo é oportunidade, ninguém
+[01:00:07:14 --> 01:00:11:22] está nesse ponto de contato, mas o público está, isso é oportunidade, pô.
+[01:00:12:24 --> 01:00:13:25] Outra oportunidade.
+[01:00:15:07 --> 01:00:19:18] 90% dos concorrentes que eu analisei...
+[01:00:20:23 --> 01:00:25:04] Não possuem boas fotos e nem um bom design.
+[01:00:26:01 --> 01:00:28:09] Não geram desejo no produto.
+[01:00:29:04 --> 01:00:30:16] Eu estou inventando aqui, de novo,
+[01:00:30:18 --> 01:00:32:12] mas estou dando exemplo para vocês de oportunidades.
+[01:00:33:13 --> 01:00:34:01] Ameaças.
+[01:00:34:03 --> 01:00:36:19] Ameaça é aquilo que a concorrência está fazendo direito.
+[01:00:37:11 --> 01:00:40:11] Ou então, alguma engrenagem do mercado,
+[01:00:40:16 --> 01:00:43:06] alguma lógica do mercado que pode atrapalhar.
+[01:00:43:26 --> 01:00:46:28] Por exemplo, uma ameaça, mercado de advogados.
+[01:00:47:06 --> 01:00:50:03] Existe um tipo de comunicação que você pode usar.
+[01:00:50:03 --> 01:00:54:15] ou medicina também, que é mais ainda, existe um tipo de comunicação específica que você
+[01:00:54:15 --> 01:00:59:03] pode utilizar. Isso é uma ameaça. Por que é uma ameaça? Porque pode ser que os órgãos
+[01:00:59:03 --> 01:01:05:12] reguladores impeçam você, enquanto designer, de fazer muita coisa. Ou então outras ameaças.
+[01:01:06:07 --> 01:01:12:25] Seu mercado está saturado. Essa aqui geralmente é vazia. Eu quero dizer com isso.
+[01:01:13:29 --> 01:01:15:17] O mercado está saturado de gente ruim.
+[01:01:15:23 --> 01:01:18:13] O mercado sempre está aberto para gente boa, lembrem-se disso.
+[01:01:18:19 --> 01:01:19:25] Ele sempre está aberto para inovação.
+[01:01:19:28 --> 01:01:23:19] Os mercados mais saturados são os mercados mais abertos para inovação.
+[01:01:23:25 --> 01:01:26:28] É só pensar em Uber, pensa em Netflix, pensa em Airbnb.
+[01:01:27:02 --> 01:01:30:02] Os mercados mais saturados são os mais abertos para inovação.
+[01:01:31:01 --> 01:01:33:25] Mas eu estou colocando aqui, se o mercado está saturado...
+[01:01:33:25 --> 01:01:37:07] Como eu estou inventando, eu estou vendo na minha cabeça os mais comuns.
+[01:01:37:26 --> 01:01:43:07] Uma outra ameaça é que seu concorrente monopoliza o mercado.
+[01:01:44:10 --> 01:01:47:09] Isso pode ser uma ameaça, então vocês vão listando.
+[01:01:47:16 --> 01:01:49:18] Isso aqui, essa resposta pode confiar.
+[01:01:49:21 --> 01:01:52:15] Se você fez o processo, essa resposta, ela vem.
+[01:01:52:25 --> 01:01:54:27] E é importante que você registre ela,
+[01:01:55:02 --> 01:01:57:14] porque isso aqui é a sua síntese dessa pesquisa.
+[01:01:58:21 --> 01:02:02:27] A análise SOT é a síntese das oportunidades que você identificou no mercado,
+[01:02:03:09 --> 01:02:07:15] das ameaças que você identificou no mercado e da relação dessas oportunidades e ameaças
+[01:02:07:15 --> 01:02:09:24] com quem é a empresa do seu cliente hoje.
+[01:02:10:27 --> 01:02:13:12] Então, fez a auditoria do negócio e fez a auditoria do mercado,
+[01:02:14:01 --> 01:02:16:10] você consegue responder isso daqui com tranquilidade.
+[01:02:16:20 --> 01:02:19:17] Não fez ou fez de um jeito muito pobre, fraco,
+[01:02:20:04 --> 01:02:22:15] você vai ter dificuldade de responder aqui, tá bom?
+[01:02:23:02 --> 01:02:25:05] E aí, nós temos isso aqui, olha, que é importante também.
+[01:02:25:13 --> 01:02:27:21] Pontos de paridade e pontos diferenciais.
+[01:02:28:09 --> 01:02:30:06] Pontos de paridade vem de par.
+[01:02:31:15 --> 01:02:34:07] Isso aqui eu vi a primeira vez no livro A Administração de Marketing,
+[01:02:34:10 --> 01:02:36:09] do Philip Kotler, é um livrão grandão.
+[01:02:36:20 --> 01:02:39:25] E ele falava lá que é importante ao construir um posicionamento de uma marca
+[01:02:39:25 --> 01:02:41:12] você definir os pontos de paridade.
+[01:02:41:22 --> 01:02:43:07] O que são pontos de paridade?
+[01:02:43:24 --> 01:02:47:19] São coisas em comum que a empresa do seu cliente tem com a concorrência,
+[01:02:47:24 --> 01:02:49:03] mas que ela não pode mudar.
+[01:02:49:18 --> 01:02:53:00] São paradigmas no mercado que não precisam ser quebrados.
+[01:02:53:08 --> 01:02:57:13] Por exemplo, toda a hamburgueria tem um lugar para sentar e para pôr mesa.
+[01:02:58:01 --> 01:02:59:29] Você vai reinventar a roda e todo mundo come em pé.
+[01:02:59:29 --> 01:03:01:15] Para quê? Não precisa disso.
+[01:03:02:19 --> 01:03:04:18] Sem um estudo necessário para falar,
+[01:03:04:21 --> 01:03:06:24] será que talvez vai criar uma experiência diferente,
+[01:03:06:26 --> 01:03:09:00] mas não vamos mudar isso, por exemplo.
+[01:03:09:14 --> 01:03:11:22] Ou então, todo mundo está no iFood.
+[01:03:12:14 --> 01:03:15:04] Será que vale a pena eu não estar no iFood?
+[01:03:15:18 --> 01:03:16:28] Será que é útil eu não estar no iFood?
+[01:03:17:01 --> 01:03:19:28] Porque na hora de decisão do meu cliente, ele vai para o iFood.
+[01:03:20:15 --> 01:03:21:28] Talvez seja válido eu estar no iFood.
+[01:03:22:05 --> 01:03:26:08] Então, pontos de paridade são as características e atributos
+[01:03:26:08 --> 01:03:28:08] que o seu cliente tem
+[01:03:28:08 --> 01:03:34:00] e que a concorrência tem também e que vocês não vão usar de diferencial, vocês vão fazer igual.
+[01:03:34:27 --> 01:03:38:27] Pontos de diferencial é o oposto, é aquilo que a concorrência faz...
+[01:03:40:05 --> 01:03:41:26] você quer fazer diferente com o seu cliente.
+[01:03:42:00 --> 01:03:44:06] Lembrando aqui sempre, qual é o nosso foco?
+[01:03:44:14 --> 01:03:48:03] Nós não vamos necessariamente mexer nas engrenagens do negócio do cliente.
+[01:03:48:06 --> 01:03:50:18] Nós não estamos fazendo aqui uma consultoria,
+[01:03:50:19 --> 01:03:52:14] nem assessoria de gestão do negócio.
+[01:03:52:23 --> 01:03:54:29] Nós estamos aqui para fazer design de identidade e marca.
+[01:03:56:02 --> 01:03:57:29] Então, quais são os pontos de paridade que nós vamos seguir?
+[01:03:58:12 --> 01:04:00:01] Os relacionados com a comunicação,
+[01:04:00:12 --> 01:04:03:05] são os pontos de contato, são as narrativas,
+[01:04:03:27 --> 01:04:05:21] é a identidade verbal, identidade visual.
+[01:04:06:03 --> 01:04:07:16] Qual é o padrão que vai ser utilizado?
+[01:04:07:17 --> 01:04:09:09] Qual é o padrão que não vai ser utilizado?
+[01:04:09:09 --> 01:04:11:24] Tá todo mundo no Instagram, nós vamos estar também.
+[01:04:11:29 --> 01:04:14:03] Tá todo mundo no iFood, nós vamos estar também.
+[01:04:14:14 --> 01:04:17:06] Tá todo mundo fazendo foto de qualidade, nós vamos fazer também.
+[01:04:17:16 --> 01:04:20:11] Isso é ponto de paridade, você tá competindo e usando o design.
+[01:04:20:18 --> 01:04:22:11] Então, sempre leva pro lado do design.
+[01:04:22:23 --> 01:04:24:24] Ah, ponto de diferencial, não tem ninguém no YouTube.
+[01:04:25:15 --> 01:04:29:05] Vamos criar um canal no YouTube e começar a compartilhar aqui os sanduíches?
+[01:04:29:21 --> 01:04:32:04] Ah, vamos começar a fazer live na hora que a gente tá fazendo sanduíches?
+[01:04:32:11 --> 01:04:33:27] Contratar alguém só pra ficar gravando?
+[01:04:34:14 --> 01:04:36:14] Isso é diferente, tem a ver com comunicação.
+[01:04:36:21 --> 01:04:38:26] Pode ser um ponto de diferencial, entende?
+[01:04:38:26 --> 01:04:41:18] As ideias vem e lembra disso, vem cá e escreve no site.
+[01:04:43:28 --> 01:04:45:07] LIFE IS SPOOKY
+[01:04:47:04 --> 01:04:48:23] Teve o insight, guardo o insight.
+[01:04:49:03 --> 01:04:50:23] Eu gosto sempre de guardar esses insights.
+[01:04:52:08 --> 01:04:53:20] Então, ponto de diferencial.
+[01:04:54:26 --> 01:04:57:11] aqueles pontos que você vai fazer diferente da concorrência.
+[01:04:57:20 --> 01:05:01:01] E potenciais, tá? Aqui, potenciais.
+[01:05:01:18 --> 01:05:02:23] Não é, vou colocar assim,
+[01:05:03:15 --> 01:05:06:11] ainda não é uma decisão tomada.
+[01:05:06:14 --> 01:05:08:17] O que eu quero dizer com isso? É tudo informação.
+[01:05:09:24 --> 01:05:10:24] São possibilidades.
+[01:05:11:12 --> 01:05:13:12] Você toma a decisão na etapa estratégica.
+[01:05:13:19 --> 01:05:16:24] Aqui você recolhe a informação, tá bom?
+[01:05:17:10 --> 01:05:20:09] Então, basicamente, esse é o raciocínio que eu uso
+[01:05:20:09 --> 01:05:22:26] para fazer a minha auditoria de mercado.
+[01:05:22:26 --> 01:05:27:14] Agora eu quero mostrar para vocês as ferramentas que eu uso e que vocês também podem utilizar
+[01:05:27:28 --> 01:05:31:06] para poder encontrar informações sobre o mercado.
+[01:05:31:10 --> 01:05:34:18] Tem algumas que são mais simples, outras que são mais elaboradas, tem algumas aqui
+[01:05:34:18 --> 01:05:38:26] que eu nunca usei, mas o conceito delas é interessante e dependendo do nível do projeto
+[01:05:38:26 --> 01:05:41:14] vale a pena fazer, então eu vou apresentar elas para vocês, tá?
+[01:05:44:27 --> 01:05:47:14] Eu vou começar pela última, porque ela já é um spoiler, né?
+[01:05:48:04 --> 01:05:51:00] Então, vamos começar por ela aqui, que é o 5 por quês.
+[01:05:51:11 --> 01:05:54:18] Sempre, se você quer pegar informação com profundidade,
+[01:05:54:20 --> 01:05:56:17] isso aqui, até na hora do briefing também,
+[01:05:57:23 --> 01:06:00:13] sempre use essa técnica do 5 por quês.
+[01:06:00:23 --> 01:06:02:22] Eu li isso aqui a primeira vez no livro que chama...
+[01:06:02:22 --> 01:06:04:29] Isso é Design Thinking de Serviços.
+[01:06:05:10 --> 01:06:06:21] E é uma metodologia muito massa.
+[01:06:07:07 --> 01:06:08:24] Você pergunta para o cliente, sei lá...
+[01:06:09:27 --> 01:06:12:04] Fala assim, nós não temos Instagram, não.
+[01:06:12:17 --> 01:06:15:00] Aí você pergunta pra ele, por que vocês não têm Instagram?
+[01:06:15:10 --> 01:06:18:12] Ele fala, porque ninguém vê, não dá curtida.
+[01:06:18:18 --> 01:06:21:26] Aí você fala, mas por que ninguém vê e não dá curtida?
+[01:06:22:00 --> 01:06:24:16] Ele vai falar, porque eu acho que no nicho de hamburgueria,
+[01:06:24:18 --> 01:06:26:13] no mercado de hamburgueria, as pessoas não vão no Instagram,
+[01:06:26:15 --> 01:06:27:19] elas vão pro iFood.
+[01:06:28:07 --> 01:06:30:01] Mas por que elas não vão pro Instagram?
+[01:06:30:04 --> 01:06:34:03] Será que elas não vão lá porque ninguém publica lá
+[01:06:34:03 --> 01:06:35:14] ou será que elas não vão lá porque não querem?
+[01:06:35:22 --> 01:06:39:06] Ah, não sei. Eu não sei a resposta em relação a isso.
+[01:06:39:06 --> 01:06:40:24] Aí você pode até mudar.
+[01:06:41:08 --> 01:06:44:13] Por que você não tentou de novo entrar no Instagram?
+[01:06:45:03 --> 01:06:48:22] E aí a ideia aqui é você sempre mergulhar
+[01:06:48:22 --> 01:06:50:24] e ir um pouquinho mais fundo na pergunta.
+[01:06:51:05 --> 01:06:52:27] Eu trouxe um exemplo aqui que não é de design,
+[01:06:53:00 --> 01:06:54:04] que eu tirei inclusive do livro,
+[01:06:54:23 --> 01:06:55:19] mas que é muito interessante.
+[01:06:56:01 --> 01:07:00:06] Olha o tanto de informação que você consegue do cliente...
+[01:07:01:03 --> 01:07:02:22] Simplesmente usando essa técnica.
+[01:07:03:04 --> 01:07:05:29] Você pergunta, por que demora tanto para servir um cliente?
+[01:07:05:29 --> 01:07:08:06] Aí ele fala, porque estamos muito ocupados,
+[01:07:08:06 --> 01:07:11:22] há sempre uma fila de pessoas esperando o serviço na hora do almoço.
+[01:07:11:26 --> 01:07:14:01] Por que há sempre uma fila de pessoas na hora do almoço?
+[01:07:14:12 --> 01:07:16:01] É a hora de maior movimento do dia
+[01:07:16:01 --> 01:07:18:19] e não temos funcionários suficientes para servir todo mundo.
+[01:07:19:02 --> 01:07:21:27] Por que não temos funcionários suficientes para servir todo mundo?
+[01:07:22:04 --> 01:07:24:24] Não temos espaço suficiente para contratar mais funcionários,
+[01:07:24:26 --> 01:07:27:08] eles provavelmente só nos atrapalhariam.
+[01:07:28:03 --> 01:07:30:16] Por que não há espaço suficiente para mais funcionários?
+[01:07:30:16 --> 01:07:35:11] A área de serviço é muito atravancada, porque os equipamentos que usamos são grandes demais
+[01:07:35:11 --> 01:07:36:13] e ocupam muito espaço.
+[01:07:36:23 --> 01:07:39:01] Por que há tanto equipamento na área de serviço?
+[01:07:39:13 --> 01:07:41:22] Compramos os equipamentos no atacado para economizar.
+[01:07:41:27 --> 01:07:45:21] De fato, se consegue produtos baratos assim, mas eles também tendem a ser maiores e crer
+[01:07:45:21 --> 01:07:48:01] obstáculos para nós durante o trabalho.
+[01:07:48:21 --> 01:07:53:03] Você não necessariamente vai chegar na resposta definitiva, mas olha o tanto de informação
+[01:07:53:03 --> 01:07:56:29] que eu consegui sobre um processo fazendo essa técnica.
+[01:07:57:08 --> 01:07:59:06] Então, ela é muito boa, eu gosto de usar também.
+[01:07:59:06 --> 01:08:02:15] Quando eu estou entrevistando, é a pergunta que eu mais faço, tá?
+[01:08:02:19 --> 01:08:05:22] Eu estou lá ouvindo a pessoa que eu estou fazendo entrevista
+[01:08:05:22 --> 01:08:09:11] e às vezes ela fala alguma coisa, sei lá, ela fala aleatoriamente assim...
+[01:08:10:15 --> 01:08:14:21] Nossa, eu acho que o nosso público não engaja muito com TikTok.
+[01:08:14:25 --> 01:08:18:04] Aí eu escutei isso, é uma opinião, é uma visão, eu já mando...
+[01:08:18:04 --> 01:08:22:16] Por que você acha que eles não engajam muito com TikTok?
+[01:08:23:00 --> 01:08:24:13] E aí eles vão me falando, entende?
+[01:08:24:13 --> 01:08:26:19] Então eu uso muito essa técnica que eu recomendo para vocês também,
+[01:08:26:19 --> 01:08:28:09] muito boa, principalmente em entrevista.
+[01:08:28:09 --> 01:08:33:27] E falando de entrevista, eu já coloquei aqui, falamos da entrevista lá na Auditoria de Negócios,
+[01:08:34:00 --> 01:08:36:02] volto com a entrevista aqui na Auditoria de Mercado.
+[01:08:36:12 --> 01:08:44:00] Quanto maior o escopo do projeto, mais você quer ouvir, mais tempo você vai investir
+[01:08:44:00 --> 01:08:44:10] ouvindo.
+[01:08:44:21 --> 01:08:48:01] Eu estava vendo o Fred Gelli falando do projeto que ele fez para o Carnaval, incrível,
+[01:08:48:03 --> 01:08:49:13] ganhou um monte de prêmio aquele projeto.
+[01:08:49:22 --> 01:08:53:10] E ele fala que ele foi nas comunidades de Sambio e ouviu, ouviu, ouviu, ouviu,
+[01:08:53:10 --> 01:08:54:16] ouviu, ouviu, ele e a equipe dele.
+[01:08:55:02 --> 01:09:00:27] É isso, um projeto tão grande como o carnaval, uma identidade visual para o carnaval do Rio,
+[01:09:02:01 --> 01:09:04:01] depois de pandemia todo mundo olhando para isso...
+[01:09:05:03 --> 01:09:08:13] eu preciso ouvir para saber qual é a percepção das pessoas.
+[01:09:08:22 --> 01:09:09:26] Então, é um projeto muito grande.
+[01:09:10:22 --> 01:09:13:29] Dependendo do escopo do projeto, você vai entrevistar só a diretoria.
+[01:09:14:08 --> 01:09:16:07] Às vezes, você vai entrevistar a diretoria e colaborador.
+[01:09:16:16 --> 01:09:17:25] Lembra aqui dos stakeholders.
+[01:09:18:01 --> 01:09:21:04] Quanto mais envolvidos com esse ecossistema você entrevistar,
+[01:09:21:12 --> 01:09:24:22] mais perspectiva você ganha do que você está observando.
+[01:09:25:09 --> 01:09:28:01] Então, posso fazer uma entrevista com a imprensa?
+[01:09:28:03 --> 01:09:30:03] Posso fazer uma entrevista com os facilitadores?
+[01:09:30:05 --> 01:09:33:01] Eu consigo uma entrevista com as universidades, com os estagiários?
+[01:09:33:01 --> 01:09:38:21] mas eu consigo uma entrevista com os colaboradores, com os fornecedores, com os parceiros, tá?
+[01:09:38:23 --> 01:09:39:24] Isso ajuda muito também.
+[01:09:40:04 --> 01:09:45:04] Então, essa daqui também é uma ferramenta muito boa de fazer entrevista, não vou prolongar
+[01:09:45:04 --> 01:09:45:25] muito nela aqui.
+[01:09:46:15 --> 01:09:52:01] Research, basicamente, é a pesquisa direta, utilizar Google, TikTok, Instagram, YouTube,
+[01:09:52:18 --> 01:09:54:22] usar todas as ferramentas de pesquisa que você tem.
+[01:09:54:24 --> 01:09:59:12] A internet é poderosíssima, ela é uma ferramenta que não vale a pena ficar de lado, eu
+[01:09:59:12 --> 01:10:02:22] Eu já mostrei um pouquinho aqui para vocês, mas dá para ir ainda mais longe, tá?
+[01:10:03:10 --> 01:10:05:02] Inclusive, depois você pode pesquisar no Google.
+[01:10:05:09 --> 01:10:09:01] Algum dia a gente pode fazer uma aula sobre técnicas de pesquisa, mas se você pesquisar
+[01:10:09:01 --> 01:10:13:07] no Google, técnicas de pesquisa na internet, você já vai encontrar, né?
+[01:10:13:19 --> 01:10:16:19] Pesquise sobre como fazer pesquisa e você vai aprender a fazer pesquisa.
+[01:10:16:21 --> 01:10:19:10] Você vê o tanto de informação que tem na internet.
+[01:10:19:12 --> 01:10:21:01] Ela ensina até a usar ela mesma.
+[01:10:23:02 --> 01:10:25:00] Então, pesquisa, essa aqui a gente sempre usa.
+[01:10:25:04 --> 01:10:26:12] Pesquisa sempre tem, tá?
+[01:10:26:13 --> 01:10:28:03] Então, já dá aí para vocês.
+[01:10:28:26 --> 01:10:33:13] Território de Palavras. Essa daqui basicamente é um registro. Território de Palavras nós
+[01:10:33:13 --> 01:10:38:28] vamos usar em três momentos. Em dois momentos, na verdade. O primeiro momento é para angariar
+[01:10:38:28 --> 01:10:43:08] o lugar comum, que é aqui, na auditoria do mercado. Então você quer anotar quais
+[01:10:43:08 --> 01:10:47:01] são as palavras mais utilizadas, qual que é o lugar comum na comunicação desse
+[01:10:47:01 --> 01:10:52:03] mercado. E depois nós vamos construir um território de palavras da marca. Esse sim
+[01:10:52:03 --> 01:10:56:28] para diferenciar. Aqui nós vamos utilizar a ferramenta de Território de Palavras
+[01:10:56:28 --> 01:10:59:26] para juntar as palavras mais utilizadas nesse mercado.
+[01:11:00:05 --> 01:11:02:28] Então, você vai começar a observar, por exemplo, de hambúrguer,
+[01:11:03:01 --> 01:11:05:24] qual é a palavra mais utilizada que está cheia de trocadilho com ela?
+[01:11:05:27 --> 01:11:06:10] Uma das.
+[01:11:06:27 --> 01:11:07:10] Burger.
+[01:11:07:21 --> 01:11:08:06] Burger.
+[01:11:08:18 --> 01:11:11:10] Tem a bulger, burger, burger.
+[01:11:11:15 --> 01:11:12:14] Tem um monte de burger.
+[01:11:12:18 --> 01:11:15:06] Então, eu quero diferenciar, não vou usar nada que tem burger.
+[01:11:15:19 --> 01:11:18:01] Por exemplo, McDonald's não tem burger.
+[01:11:18:20 --> 01:11:22:09] Ele usa uma comunicação verbal diferente, uma identidade verbal diferente.
+[01:11:22:27 --> 01:11:23:24] São os Macs dele.
+[01:11:23:24 --> 01:11:28:20] Então, você pode fazer isso também aqui listando todas as palavras
+[01:11:28:20 --> 01:11:30:27] que você vê repetindo com frequência.
+[01:11:31:03 --> 01:11:32:08] Cria um documento...
+[01:11:32:08 --> 01:11:33:24] Eu vivo cheio de abas, galera.
+[01:11:33:25 --> 01:11:36:11] Quando eu estou trabalhando mesmo, eu fico cheio de abas abertas.
+[01:11:36:19 --> 01:11:40:09] E eu tenho um documento de Google Doc também que eu chamo de território de palavras.
+[01:11:40:21 --> 01:11:46:09] Eu vou vendo uma palavra repetindo muito, eu pego e copio aquela palavra e colo aqui.
+[01:11:46:21 --> 01:11:47:28] Tem uma ferramenta...
+[01:11:47:28 --> 01:11:51:16] Ferramenta de quantidade de palavras...
+[01:11:52:18 --> 01:11:54:03] repetidas no site.
+[01:11:54:15 --> 01:11:56:22] Eu não lembro qualquer, mas ela te dá um...
+[01:11:58:00 --> 01:11:58:12] um gráfico.
+[01:11:59:29 --> 01:12:01:18] Words and Characters Caught.
+[01:12:03:22 --> 01:12:05:01] Palavras repetidas no texto.
+[01:12:05:14 --> 01:12:07:02] Tem uma que ela...
+[01:12:07:02 --> 01:12:10:14] Ela tem meio que um data visa, assim. Ela mostra pra você...
+[01:12:11:14 --> 01:12:13:02] Essa daqui ela mostra sim, tá vendo?
+[01:12:13:18 --> 01:12:15:18] Mas tem uma que eu acho mais legal ainda...
+[01:12:18:12 --> 01:12:19:15] Data views.
+[01:12:21:01 --> 01:12:22:13] E... o que?
+[01:12:29:16 --> 01:12:32:08] É isso aqui, Watch Cloud.
+[01:12:33:28 --> 01:12:34:02] ordem paranormal,cellbit,desconjuração,melhores momentos desconjuração,melhores clipes desconjuração,melhores clipes o segredo na floresta,desconjuração,melhores clipes o segredo na floresta,desconjuração,melhores clipes o segredo na floresta,desconjuração,melhores clipes o segredo na floresta,desconjuração,melhores clipes o segredo na floresta,desconjuração,melhores clipes o segredo na floresta,desconjuração,melhores clipes o segredo na floresta,desconjuração,melhores clipes o segredo na floresta,desconjuração,melhores clipes o segredo na floresta,desconjuração,melhores clipes o segredo na floresta,desconjuração,melhores clip
+[01:12:35:08 --> 01:12:38:04] Eu gosto muito dela, porque ela faz isso daqui, olha.
+[01:12:38:13 --> 01:12:39:26] Ela cria uma nuvem de palavras,
+[01:12:40:13 --> 01:12:43:17] e você tem as palavras maiores, são as mais utilizadas.
+[01:12:44:06 --> 01:12:47:08] Você solta um texto e você tem as palavras mais utilizadas.
+[01:12:47:23 --> 01:12:49:03] Deixa eu ver aqui se tem...
+[01:12:50:07 --> 01:12:50:18] Ok.
+[01:12:57:08 --> 01:12:59:08] Deixa eu só ver se esse aqui é igual ao que eu estou falando.
+[01:13:01:07 --> 01:13:04:11] Você joga o texto e ele faz a contagem.
+[01:13:08:09 --> 01:13:09:07] Vamos tentar outro.
+[01:13:11:00 --> 01:13:14:03] Criar nuvens de palavras ao vivo, como criar uma nuvem de palavras.
+[01:13:15:06 --> 01:13:16:01] Ah, tem que cadastrar.
+[01:13:16:13 --> 01:13:17:23] Eu vou deixar para vocês pesquisarem.
+[01:13:17:25 --> 01:13:19:13] Ah, esse Mentimeter é muito massa, tá?
+[01:13:20:14 --> 01:13:22:04] Eu vou deixar para vocês pesquisarem,
+[01:13:22:11 --> 01:13:26:17] mas isso é muito interativo e é data-vis, visualização de dado
+[01:13:27:03 --> 01:13:29:07] de um jeito mais criativo e inteligente.
+[01:13:29:20 --> 01:13:30:21] Eu recomendo para vocês também.
+[01:13:30:25 --> 01:13:33:17] Então, fazer o território de palavras utilizando o nuvem de palavras
+[01:13:33:17 --> 01:13:35:05] pode ser muito massa, tá?
+[01:13:35:27 --> 01:13:37:21] Então, você vai registrando, registrando, registrando,
+[01:13:37:23 --> 01:13:39:15] você pode pegar do site inteiro o conteúdo,
+[01:13:39:25 --> 01:13:40:26] colocar ali e criar essa nuvem.
+[01:13:41:16 --> 01:13:42:24] Mapa de stakeholders.
+[01:13:43:18 --> 01:13:45:21] Se você desgitar aqui no Google também, olha...
+[01:13:45:21 --> 01:13:46:09] Mapa...
+[01:13:50:02 --> 01:13:52:29] A primeira vez que eu vi essa metodologia também foi no livro
+[01:13:52:29 --> 01:13:54:17] Isto é design thinking de serviço
+[01:13:55:22 --> 01:13:57:29] E, basicamente, é um alvo...
+[01:13:58:25 --> 01:14:00:00] Deixa eu ver um mais legal.
+[01:14:00:27 --> 01:14:03:29] Dá para fazer com post-it? Eu tenho um aqui...
+[01:14:04:28 --> 01:14:07:11] que eu fiz? Aqui, você pode fazer dessa forma.
+[01:14:07:23 --> 01:14:09:17] Eu curto mais esse modelo aqui.
+[01:14:11:29 --> 01:14:13:22] que você coloca os...
+[01:14:14:21 --> 01:14:22:03] uma relação direta, né? Então os mais externos são os menos envolvidos, os mais internos são os mais envolvidos, tá?
+[01:14:23:15 --> 01:14:27:03] Eu fiz uma para alquimia científica, vou pegar aqui para mostrar para vocês.
+[01:14:27:05 --> 01:14:30:11] Espera aí, um minutinho só, só tenho que abrir o PDF.
+[01:14:33:16 --> 01:14:34:23] Nossa, desculpa por isso.
+[01:14:35:26 --> 01:14:38:13] O nariz está realmente ruim, volta na água.
+[01:14:41:03 --> 01:14:41:29] Acabou minha água aqui.
+[01:14:43:10 --> 01:14:44:07] Cadê, cadê, cadê?
+[01:14:46:02 --> 01:14:47:12] Criantes...
+[01:14:48:22 --> 01:14:49:14] Que meia.
+[01:14:56:04 --> 01:14:59:04] atitudes, auditoria, benchmark.
+[01:15:00:22 --> 01:15:03:16] Ah, eu tenho ela aqui no...
+[01:15:05:17 --> 01:15:06:11] Eu tenho ela aqui.
+[01:15:08:29 --> 01:15:09:25] Espera aí que eu vou pegar.
+[01:15:10:14 --> 01:15:12:18] Eu tenho ela aqui no Google.
+[01:15:21:18 --> 01:15:25:06] Na verdade, vou ter que fazer só uma coisa, porque como eu ainda estou no projeto...
+[01:15:26:29 --> 01:15:30:05] Eu acho melhor fazer assim, né? Vai que aparece alguma informação aqui?
+[01:15:31:03 --> 01:15:32:12] Não era pra aparecer agora.
+[01:15:34:02 --> 01:15:37:21] Vou pegar aqui um mapa de stakeholders, esse que eu fiz para alquimia científica foi bem
+[01:15:38:11 --> 01:15:42:14] básico, mas vocês vão ver como ele me dá uma visão geral, e é isso que é o mais
+[01:15:42:14 --> 01:15:42:29] importante.
+[01:15:47:07 --> 01:15:50:20] Então, eu tenho os externos e os internos.
+[01:15:50:24 --> 01:15:52:12] Então, o mapa de stakeholder é interno,
+[01:15:52:14 --> 01:15:55:16] diretoria, comercial, financeiro, back office, supply chain.
+[01:15:56:06 --> 01:15:59:04] Esses aqui são os envolvidos diretamente,
+[01:15:59:08 --> 01:16:01:21] tanto com a operação quanto com a estratégia do negócio.
+[01:16:02:04 --> 01:16:03:17] Depois, eu tenho o dia azul aqui.
+[01:16:04:00 --> 01:16:07:29] Os dois mais importantes são os dois envolvidos-chave
+[01:16:07:29 --> 01:16:10:15] para o negócio acontecer, que são os clientes e os prospectos
+[01:16:10:15 --> 01:16:11:13] e os fornecedores.
+[01:16:11:18 --> 01:16:14:15] O negócio da alquimia científica depende muito de fornecedores.
+[01:16:14:15 --> 01:16:18:02] Então, os fornecedores são stakeholders muito envolvidos com essa marca.
+[01:16:18:11 --> 01:16:22:04] Então, eu já sinalizei para elas aqui, ó, esses dois são os mais importantes.
+[01:16:22:08 --> 01:16:26:27] Nossa comunicação, a maior parte do tempo, vai ser dedicada para esses dois públicos
+[01:16:26:27 --> 01:16:27:06] aqui.
+[01:16:27:21 --> 01:16:31:26] Então, o site, por exemplo, vai ter a versão portuguesa e inglês.
+[01:16:32:00 --> 01:16:32:23] Mas por quê?
+[01:16:33:03 --> 01:16:36:08] Sendo que todos os clientes da Alquimia são do Brasil e ela não tem interesse
+[01:16:36:08 --> 01:16:39:21] de atender clientes fora do Brasil, porque os fornecedores são internacionais.
+[01:16:39:21 --> 01:16:44:12] Então, o site precisa ser português e inglês para atender também os fornecedores.
+[01:16:45:03 --> 01:16:53:19] Nós temos aqui os verdinhos que são parceiros, de alguma forma, ou que influenciam a prática do negócio.
+[01:16:54:02 --> 01:16:57:11] Então, aqui eu tenho Contabilidade e Assessoria Jurídica, que são parceiros.
+[01:16:57:12 --> 01:17:05:21] Eles não são uma equipe interna na alquimia científica, mas eles são parceiros terceirizados.
+[01:17:05:21 --> 01:17:08:04] Então, existe uma comunicação com eles também.
+[01:17:08:07 --> 01:17:09:14] Precisa ser uma boa comunicação
+[01:17:09:14 --> 01:17:11:26] para manter sempre o contato com os melhores.
+[01:17:12:16 --> 01:17:14:07] Órgãos reguladores tem vários também
+[01:17:14:07 --> 01:17:16:27] por trabalharem com produtos químicos, equipamentos,
+[01:17:17:13 --> 01:17:18:25] que podem ser perigosos e tal.
+[01:17:19:15 --> 01:17:22:22] São produtos mais perigosos que exigem uma regulamentação.
+[01:17:23:07 --> 01:17:26:15] E o governo? Aqui o governo tem um vermelho e um verde. Por quê?
+[01:17:26:24 --> 01:17:28:12] Porque eu quis sinalizar o seguinte.
+[01:17:28:19 --> 01:17:29:16] Aqui está assim...
+[01:17:31:05 --> 01:17:33:17] legenda, mas na apresentação tinha uma legenda para eles.
+[01:17:34:09 --> 01:17:39:13] Vermelho significa que eles não têm uma relação de compra,
+[01:17:39:14 --> 01:17:40:22] eles não vendem para o governo,
+[01:17:40:25 --> 01:17:43:13] porque tem empresas que vendem para o governo no mercado deles,
+[01:17:43:14 --> 01:17:44:23] mas eles não são uma delas.
+[01:17:44:25 --> 01:17:47:06] Mas eles têm uma relação verde aqui de parceria
+[01:17:47:06 --> 01:17:50:15] no sentido de cumprir as obrigações que toda empresa precisa cumprir.
+[01:17:50:22 --> 01:17:51:14] Então, está aqui.
+[01:17:51:25 --> 01:17:55:22] E existem outros stakeholders que eu quis colocar aqui
+[01:17:55:22 --> 01:17:57:10] para não deixar de falar deles.
+[01:17:57:13 --> 01:18:00:09] Faltou até uma setinha aqui, uma linha.
+[01:18:01:06 --> 01:18:05:09] Mas que eles não são os mais importantes na escala que são instituições
+[01:18:05:09 --> 01:18:10:15] acadêmicas, associações profissionais, concorrentes, imprensa e o público em
+[01:18:10:15 --> 01:18:13:24] geral, que não é o público deles principal. Então isso aqui é um mapa de
+[01:18:13:24 --> 01:18:17:18] stakeholders. Ao invés de simplesmente eu listar tudo isso, eu crio uma
+[01:18:17:18 --> 01:18:21:07] visualização que permite apresentar isso para o cliente de uma maneira simples
+[01:18:21:07 --> 01:18:25:10] igual fiz aqui para vocês agora, sem muito texto. Quando tem muito texto
+[01:18:25:10 --> 01:18:28:23] demora para o cliente ler, demora às vezes para entender, para interpretar
+[01:18:28:23 --> 01:18:32:13] tudo que você passou para ele. Então, é uma excelente ferramenta para vocês também, tá?
+[01:18:33:06 --> 01:18:35:27] Plataforma de posicionamento é outra muito boa também.
+[01:18:36:10 --> 01:18:37:26] Vamos utilizá-la em dois momentos.
+[01:18:38:02 --> 01:18:44:04] Aqui para poder colocar os nossos concorrentes do mercado.
+[01:18:44:12 --> 01:18:47:03] Plataforma de posicionamento... Vou colocar aqui gráfico.
+[01:18:48:15 --> 01:18:51:23] que vai ficar mais fácil, porque existem outros conceitos, mas é isso daqui, ó.
+[01:18:52:18 --> 01:18:53:01] Abrir...
+[01:18:54:01 --> 01:18:54:22] Imagem
+[01:18:56:04 --> 01:18:56:27] a gente vê melhor.
+[01:18:57:28 --> 01:19:03:22] O que é uma plataforma de posicionamento da marca? Você vai posicionar através dos atributos.
+[01:19:04:04 --> 01:19:07:09] Você vai definir os principais atributos desse mercado.
+[01:19:07:18 --> 01:19:11:22] Como é que eu sei disso aqui? Lembra dessa pergunta? Tá vendo como que fazer bem?
+[01:19:13:03 --> 01:19:17:26] a auditoria te ajuda lá na frente? Se você tem essa pergunta aqui respondida, então é
+[01:19:17:26 --> 01:19:25:06] preço, qualidade, prestígio e status. Você vai criar aqui uma plataforma de posicionamento
+[01:19:25:06 --> 01:19:32:00] da marca com os quatro atributos e você vai posicionar os concorrentes mais relevantes
+[01:19:32:00 --> 01:19:37:06] nos quadrantes. Então, eu tenho aqui a marca 3, ela é mais preço baixo e baixa qualidade.
+[01:19:37:13 --> 01:19:41:11] Então, ela consegue ter o preço mais baixo de todos. Olha, na escala aqui de
+[01:19:41:11 --> 01:19:47:27] preço, ela é o preço mais baixo, tá? Só que na escala de qualidade, ela não é a qualidade
+[01:19:47:27 --> 01:19:52:25] mais baixa, infelizmente, né? Tem uma marca que a qualidade é pior e ela é ainda mais
+[01:19:52:25 --> 01:19:57:22] cara, só que ela tem uma qualidade ruim. A gente tem essa marca aqui que tem um preço
+[01:19:57:22 --> 01:20:01:15] baixo e já tem uma alta qualidade. Essa daqui a gente pode pontuar talvez como o
+[01:20:01:15 --> 01:20:02:18] melhor custo-benefício.
+[01:20:04:06 --> 01:20:06:03] que tem a melhor qualidade com o menor preço.
+[01:20:06:18 --> 01:20:08:26] A gente tem a marca 5 aqui que é alta qualidade
+[01:20:08:26 --> 01:20:11:22] e tem um preço aqui que é pouco elevado.
+[01:20:11:29 --> 01:20:14:28] E tem a marca 1 que é alta qualidade e preço elevado,
+[01:20:15:00 --> 01:20:18:13] tipo o Apple, tá posicionado aqui, tá ligado com outros valores,
+[01:20:18:15 --> 01:20:19:04] que é Prestige.
+[01:20:19:14 --> 01:20:23:03] Você pode montar isso aqui com várias grandezas, digamos assim,
+[01:20:23:06 --> 01:20:23:25] vários atributos.
+[01:20:24:06 --> 01:20:26:02] Aqui a gente tem o atributo de qualidade e preço,
+[01:20:26:10 --> 01:20:30:01] mas você pode fazer também de status,
+[01:20:30:18 --> 01:20:33:03] um dos atributos é status, qualidade do produto,
+[01:20:33:03 --> 01:20:35:28] Que tal de qualidade? Alguns que eu listei aqui para vocês, olha.
+[01:20:36:18 --> 01:20:40:18] Atendimento, marketing, investimento em marketing.
+[01:20:40:20 --> 01:20:42:10] Vocês podem criar vários gráficos desses
+[01:20:42:10 --> 01:20:45:02] e ele ajuda você a visualizar o mercado melhor.
+[01:20:45:12 --> 01:20:46:20] Quando eu vou apresentar para o cliente,
+[01:20:46:22 --> 01:20:48:10] eu gosto de apresentar esses gráficos,
+[01:20:48:11 --> 01:20:51:12] porque eles não só passam uma ideia de maior inteligência
+[01:20:51:12 --> 01:20:53:07] como eles organizam a informação.
+[01:20:53:19 --> 01:20:57:06] Tem uma diferença entre eu dar um monte de informação para o cliente
+[01:20:57:06 --> 01:20:59:21] ou eu organizar essa informação de jeito que fica claro
+[01:20:59:21 --> 01:21:01:10] dele identificar essas oportunidades.
+[01:21:02:00 --> 01:21:06:27] Inclusive, se você estiver com dificuldade de identificar uma oportunidade, quando você
+[01:21:06:27 --> 01:21:09:01] usa essa ferramenta, você encontra respostas.
+[01:21:09:08 --> 01:21:11:15] Por exemplo, que resposta a gente tem aqui?
+[01:21:11:25 --> 01:21:17:03] Nós temos, por exemplo, poucos produtos de custo-benefício, tem uma marca só em
+[01:21:17:03 --> 01:21:22:00] produto de custo-benefício, talvez se tiver uma mais para cá ou mais para cima aqui
+[01:21:22:00 --> 01:21:23:27] também, possa ser interessante.
+[01:21:24:14 --> 01:21:28:09] Essa daqui está muito perto, então alguém já provou que é possível ter uma qualidade
+[01:21:28:09 --> 01:21:29:07] boa com preço baixo.
+[01:21:29:07 --> 01:21:31:01] Isso mostra uma oportunidade.
+[01:21:31:19 --> 01:21:34:04] Qual é uma ameaça que pode existir aqui?
+[01:21:34:24 --> 01:21:38:07] Sei lá, está muito vago isso aqui, mas só para a gente alucinar um pouquinho.
+[01:21:38:25 --> 01:21:44:28] Uma ameaça é que já existem empresas posicionadas nos quadrantes mais importantes.
+[01:21:45:12 --> 01:21:47:24] Aqui são três, não dá para tirar conclusão com três,
+[01:21:48:03 --> 01:21:51:24] mas para vocês entenderem mais ou menos como que essa visualização ajuda
+[01:21:51:24 --> 01:21:54:27] você a identificar oportunidades de comunicação também.
+[01:21:55:00 --> 01:21:57:13] Então, é uma ferramenta muito boa e ela é simples.
+[01:21:57:13 --> 01:21:59:12] Às vezes, eu já recebi muita essa dúvida.
+[01:21:59:13 --> 01:22:02:19] Ruan, lá na metodologia você colocou plataforma de posicionamento.
+[01:22:02:22 --> 01:22:03:06] O que é isso?
+[01:22:03:20 --> 01:22:08:21] Simplesmente é um gráfico com dois atributos principais mais importantes do mercado e
+[01:22:08:21 --> 01:22:12:12] eu posicionei, com base na minha percepção, ou também se você fizer pesquisa, que
+[01:22:12:12 --> 01:22:17:03] aí é mais preciso ainda, onde essas marcas estão posicionadas.
+[01:22:17:19 --> 01:22:19:02] Essa é uma ferramenta muito útil.
+[01:22:20:03 --> 01:22:22:18] e vale a pena investir nela.
+[01:22:22:29 --> 01:22:25:26] Cliente oculto e shadowing eu nunca usei.
+[01:22:26:26 --> 01:22:29:25] Nunca usei, mas eu achei o conceito interessante
+[01:22:29:25 --> 01:22:31:29] e provavelmente eu vou utilizar em algum momento.
+[01:22:34:03 --> 01:22:36:22] Shadowing, vem de sombra, é ser uma sombra.
+[01:22:37:14 --> 01:22:41:07] É basicamente você acompanhar a experiência de algum cliente.
+[01:22:42:01 --> 01:22:47:02] Seja uma experiência de algum cliente ou de algum perfil parecido com o do cliente.
+[01:22:47:05 --> 01:22:51:00] Então, eu vou acompanhar um cliente indo lá no restaurante, comendo,
+[01:22:51:11 --> 01:22:52:19] passando a percepção dele.
+[01:22:52:27 --> 01:22:55:20] Eu vou levar um gravador para poder gravar o que ele está falando,
+[01:22:55:26 --> 01:22:57:01] ele gravar a experiência dele.
+[01:22:57:11 --> 01:23:00:25] Você tem que tomar muito cuidado com essa técnica para você não
+[01:23:00:25 --> 01:23:07:02] é fazer o que eles chamam de efeito do observador, que é você influenciar o que a pessoa está
+[01:23:07:02 --> 01:23:09:22] falando porque ela sabe que ela está sendo observada, entendeu?
+[01:23:10:01 --> 01:23:13:26] Então, tem que tomar muito cuidado com isso, exige técnica, mas podem sair muitos insights.
+[01:23:14:11 --> 01:23:18:22] E aí existe uma outra que é mais fácil de fazer do que shadowing, que é fazer
+[01:23:18:22 --> 01:23:22:20] o cliente oculto, é você ser o cliente oculto.
+[01:23:23:13 --> 01:23:28:15] Então, sei lá, seu cliente ele vende hambúrguer, vai lá comer o hambúrguer
+[01:23:28:15 --> 01:23:29:28] dele se você tem a oportunidade.
+[01:23:29:28 --> 01:23:35:06] Seu cliente vende um aplicativo de internet, faz uma compra, você pode até pedir reembolso,
+[01:23:35:18 --> 01:23:38:18] o código do consumidor fala que você tem sete dias para pedir qualquer reembolso de
+[01:23:38:18 --> 01:23:39:02] compra online.
+[01:23:39:16 --> 01:23:44:18] Então, compre reembolsa depois, mas viva a experiência de comprar aquele produto para
+[01:23:44:18 --> 01:23:49:17] entender se a comunicação que você vai fazer lá na frente vende a verdade também.
+[01:23:50:10 --> 01:23:53:05] Ela não está vendendo uma mentira, porque aí vai acontecer frustração e isso não
+[01:23:53:05 --> 01:23:56:16] vai gerar resultado para o seu cliente, porque os clientes deles não vão gostar
+[01:23:56:16 --> 01:23:57:27] do resultado no final.
+[01:23:57:27 --> 01:24:00:25] Então, Cliente Oculto é uma ferramenta muito interessante.
+[01:24:01:17 --> 01:24:03:28] Eu vi ela também no livro, isso é Design Thinking de Serviço.
+[01:24:04:04 --> 01:24:04:19] Está aqui o livro.
+[01:24:05:11 --> 01:24:08:03] Se vocês quiserem depois dar uma olhada aí no Google,
+[01:24:08:07 --> 01:24:10:08] chama isso é Design Thinking de Serviço.
+[01:24:10:13 --> 01:24:13:27] É um livro que tem várias ferramentas aqui, nem todas são ferramentas de...
+[01:24:14:28 --> 01:24:19:23] de pesquisa. Tem muitas ferramentas que são estratégicas também, mais de definição.
+[01:24:20:03 --> 01:24:24:23] Mas essas são as principais que eu quis trazer aqui para vocês. Algumas delas não tem nesse
+[01:24:24:23 --> 01:24:30:04] livro, né? Por exemplo, plataforma de posicionamento não vem desse livro. Mapa de stakeholder,
+[01:24:30:10 --> 01:24:33:28] se eu não me engano, não tem. Não acho que mapa de stakeholder tem. Território de
+[01:24:33:28 --> 01:24:39:15] palavras não tem. Entrevista eu acho que tem. 5 por que tem também. São muitas
+[01:24:39:15 --> 01:24:43:27] ferramentas interessantes que vocês podem utilizar para poder fazer essa pesquisa
+[01:24:43:27 --> 01:24:47:27] e fazer essa auditoria do mercado. Se você faz uma boa auditoria de mercado,
+[01:24:48:17 --> 01:24:51:29] você consegue informações valiosíssimas para a etapa de estratégia.
+[01:24:52:06 --> 01:24:56:01] Isso daqui facilita muito a sua vida. E sabe uma coisa que é legal na etapa de
+[01:24:56:01 --> 01:25:00:10] investigação? Muitas ideias começam a aflorar na sua cabeça. Sua cabeça vai ficar
+[01:25:00:10 --> 01:25:01:19] como uma pipoqueira, assim, ó...
+[01:25:04:07 --> 01:25:10:04] Por quê? Porque é insight vindo, são pontas soltas conectando.
+[01:25:10:11 --> 01:25:11:20] Lembra? O que é a criatividade?
+[01:25:11:27 --> 01:25:13:16] Criatividade é a conexão de pontos.
+[01:25:13:25 --> 01:25:16:09] Quando você vai dando para o seu cérebro tantos pontos,
+[01:25:17:04 --> 01:25:18:29] tantas oportunidades, tantas ameaças,
+[01:25:19:04 --> 01:25:21:25] tanta gente fazendo mal feito e tanta gente fazendo bem feito,
+[01:25:22:04 --> 01:25:23:27] você começa a ter insight, insight, insight.
+[01:25:24:14 --> 01:25:27:11] Anote, porque na hora de fazer núcleo da marca,
+[01:25:28:00 --> 01:25:29:20] vamos lá, na hora de fazer estratégia,
+[01:25:29:23 --> 01:25:30:27] na hora de fazer núcleo da marca,
+[01:25:31:05 --> 01:25:32:10] na hora de fazer identidade verbal,
+[01:25:32:10 --> 01:25:37:15] visual, na hora de fazer a identidade visual, tudo isso, se você fez essa auditoria bem
+[01:25:37:15 --> 01:25:40:07] feita, vai facilitar muito o seu processo.
+[01:25:40:19 --> 01:25:44:11] Não só na parte criativa, mas também na hora de apresentar para o cliente e ter um
+[01:25:44:11 --> 01:25:49:02] embasamento técnico, você ter informações para comprovar as decisões que você tomou.
+[01:25:49:17 --> 01:25:53:17] Então essa foi a nossa aula sobre a auditoria do mercado, espero que você tenha aproveitado
+[01:25:53:17 --> 01:25:56:26] e eu te vejo na próxima aula onde nós vamos falar sobre a auditoria do público,
+[01:25:57:02 --> 01:25:58:21] que é tão importante quanto essa.

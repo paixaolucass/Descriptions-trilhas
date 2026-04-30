@@ -1,0 +1,99 @@
+# Video: 3._zero-shot_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-23 08:40
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:07 --> 00:00:01:20] Vamos para os conceitos mais básicos.
+[00:00:01:24 --> 00:00:05:22] O primeiro deles que a gente precisa entender e que é um conceito já global,
+[00:00:06:16 --> 00:00:10:19] esses termos que eu estou trazendo aqui são os termos que comunidades, repositórios,
+[00:00:11:13 --> 00:00:14:23] os ambientes que trabalham com engenharia de prompt já costumam utilizar.
+[00:00:15:02 --> 00:00:18:23] Então são termos globais, inclusive se um dia vocês forem trabalhar como engenheiros de prompt,
+[00:00:19:16 --> 00:00:20:29] esses termos vocês vão escutar muito.
+[00:00:21:10 --> 00:00:23:02] O primeiro deles é o zero shot.
+[00:00:23:11 --> 00:00:26:14] O que é zero shot? É como se fosse zero tiros.
+[00:00:26:14 --> 00:00:28:26] significa que você pede uma solicitação
+[00:00:28:26 --> 00:00:30:26] sem dar informação nenhuma
+[00:00:30:26 --> 00:00:33:00] para a IA. Então eu posso falar com a IA
+[00:00:33:00 --> 00:00:34:26] por exemplo, me explique o que são
+[00:00:36:04 --> 00:00:37:08] baratas que voam.
+[00:00:37:20 --> 00:00:38:22] Veio na minha cabeça aqui.
+[00:00:38:26 --> 00:00:40:09] Vamos pegar um termo mais legal.
+[00:00:40:14 --> 00:00:42:25] Eu peguei um exemplo aqui que vem desse
+[00:00:42:25 --> 00:00:44:13] site, que depois a gente vai falar dele.
+[00:00:44:19 --> 00:00:45:06] Aqui, olha.
+[00:00:46:29 --> 00:00:49:11] Classifique o sentimento do texto, a viagem foi boa.
+[00:00:49:16 --> 00:00:52:06] Se eu pego isso aqui, vamos usar de exemplo aqui, tá?
+[00:00:52:20 --> 00:00:56:08] Eu quero ir mostrando para vocês a medida que a gente vai fazendo isso.
+[00:00:56:12 --> 00:00:57:27] Então, eu vou usar o chat GPT mesmo.
+[00:00:59:24 --> 00:01:05:19] Estou aqui nele, vou usar o chat GPT-4, porque eu tenho mais créditos com ele.
+[00:01:05:25 --> 00:01:08:10] E eu venho cá e faço isso aqui, classifique o sentimento do texto.
+[00:01:08:15 --> 00:01:09:17] A viagem foi boa.
+[00:01:09:21 --> 00:01:10:18] E mando para ele.
+[00:01:10:20 --> 00:01:12:07] Isso aqui é conhecido como zero shot.
+[00:01:12:13 --> 00:01:15:17] É o que a maioria das pessoas fazem e eu faço isso também.
+[00:01:16:08 --> 00:01:17:26] Eu também uso muito zero shot.
+[00:01:18:03 --> 00:01:18:28] Ele não é ruim.
+[00:01:19:10 --> 00:01:22:03] O que nós precisamos ficar atentos em relação ao zero shot?
+[00:01:22:17 --> 00:01:25:17] Ele tem contextos em que ele é bom e contextos em que ele é ruim.
+[00:01:25:22 --> 00:01:27:05] Olha só, a resposta foi curta.
+[00:01:27:10 --> 00:01:28:16] Poderia ser rápida também.
+[00:01:28:16 --> 00:01:37:15] Bem, eu posso colocar aqui, olha, me explique as melhores abordagens de design thinking do mundo.
+[00:01:37:22 --> 00:01:39:13] Isso aqui é considerado um zero shot.
+[00:01:40:01 --> 00:01:41:08] Eu já estou pedindo ele.
+[00:01:41:10 --> 00:01:43:18] Ele já vai me dar uma resposta mais abrangente, está vendo?
+[00:01:43:20 --> 00:01:47:00] Porque o meu pedido foi mais abrangente, mas ainda assim é um zero shot.
+[00:01:47:11 --> 00:01:48:16] Isso aqui é muito bom.
+[00:01:48:18 --> 00:01:53:27] É como se você chegasse e falasse, eu quero entrar na fileira de livros de ficção científica.
+[00:01:53:28 --> 00:01:57:25] E aí o guardião da biblioteca vai te levar lá e vai te apresentar isso.
+[00:01:57:25 --> 00:02:00:21] Isso aqui por si só já vai te dar muito conhecimento? Vai.
+[00:02:00:26 --> 00:02:02:13] É onde a maioria das pessoas ficam.
+[00:02:02:15 --> 00:02:06:19] Você pode até pegar isso daqui e pedir para ele continuar para você.
+[00:02:07:06 --> 00:02:08:16] Posso falar aqui, me explique.
+[00:02:09:05 --> 00:02:12:22] E agora a gente não considera mais esse segundo pedido como um zero shot.
+[00:02:12:25 --> 00:02:17:26] Por quê? Ele já está usando todo esse contexto dele aqui agora de shots.
+[00:02:18:07 --> 00:02:21:24] Então ele tem já alguns contextos aqui para trabalhar junto com você.
+[00:02:22:00 --> 00:02:23:27] E eu posso falar com ele aqui, me explique.
+[00:02:26:25 --> 00:02:27:15] O Double Diamond.
+[00:02:28:06 --> 00:02:29:12] Posso pedir para ele me explicar.
+[00:02:29:25 --> 00:02:31:04] E aí ele vai me explicar.
+[00:02:31:09 --> 00:02:33:00] E agora eu estou mergulhando mais a fundo.
+[00:02:33:03 --> 00:02:34:07] É como se eu falasse com o guardião.
+[00:02:34:09 --> 00:02:36:24] A gente está aqui nos livros de ficção científica.
+[00:02:36:25 --> 00:02:39:01] Me fale mais então sobre Isaac Asimov.
+[00:02:39:06 --> 00:02:41:13] E aí ele vai me falar mais sobre isso.
+[00:02:41:13 --> 00:02:42:10] Aqui ele ainda está gerando.
+[00:02:42:12 --> 00:02:42:23] Beleza.
+[00:02:42:24 --> 00:02:43:11] Já posso pedir.
+[00:02:43:18 --> 00:02:44:22] E agora ele tem contexto.
+[00:02:45:06 --> 00:02:48:15] Isso aqui é uma abordagem mista de conversa.
+[00:02:48:15 --> 00:02:52:15] Você vai conversando com a IA e usando a própria conversa com ela de contexto.
+[00:02:52:24 --> 00:02:53:17] É muito bom.
+[00:02:53:20 --> 00:02:55:10] É um método que eu costumo usar muito.
+[00:02:55:10 --> 00:03:00:28] Então, é o primeiro que eu costumo usar só para abrir as possibilidades em alguns termos para mim.
+[00:03:01:03 --> 00:03:04:21] Então, isso é o few shot, é o que a maioria das pessoas utilizam.
+[00:03:04:24 --> 00:03:06:24] O que é importante saber sobre...
+[00:03:06:24 --> 00:03:09:00] Few shot não, perdão, isso é o zero shot.
+[00:03:09:05 --> 00:03:11:20] Few shot é quando você deu algum contexto, eu já vou falar sobre ele.
+[00:03:12:06 --> 00:03:13:15] O que que...
+[00:03:14:15 --> 00:03:16:24] Em quais contextos que ele geralmente é bom?
+[00:03:16:27 --> 00:03:18:01] Eu até trouxe aqui...
+[00:03:19:04 --> 00:03:20:00] A gente vai falar dele também.
+[00:03:20:19 --> 00:03:23:05] Mas aqui, a diferença de zero shot para few shot.
+[00:03:23:11 --> 00:03:28:20] Zero shot, bom para perguntas rápidas e diretas, como usar a LLM de dicionário.
+[00:03:28:21 --> 00:03:31:00] O que significa o termo zero shot?
+[00:03:31:08 --> 00:03:33:09] Se eu colocar isso lá na LLM, ela vai me explicar.
+[00:03:33:14 --> 00:03:34:09] Isso é um zero shot.
+[00:03:34:17 --> 00:03:39:05] Bom para tarefas simples, bom para economia de tokens, pouco controle sobre a resposta.
+[00:03:39:08 --> 00:03:42:20] Quando você quer que a IA traga o que ela sabe sobre o termo para você.
+[00:03:43:00 --> 00:03:44:11] Isso é no que ele é bom.
+[00:03:44:14 --> 00:03:47:15] Já vou falar do few shot já, mas vamos voltar para cá.
+[00:03:47:15 --> 00:03:51:14] Esses links todos, só reforçando, eles vão ficar na descrição para vocês, tá?
+[00:03:52:00 --> 00:03:56:20] E são muitos links, então eu vou colocando por aulas, assim, os que fazem sentido para cada aula.
+[00:03:57:02 --> 00:03:59:11] Então, isso é Zero Shot.
+[00:03:59:24 --> 00:04:05:05] Nesse link aqui, você pode entrar nele, vai ter uma descrição mais aprofundada aqui do que é,
+[00:04:05:07 --> 00:04:07:09] e tem também um curso mais avançado.
+[00:04:07:10 --> 00:04:11:12] Eu vou falar sobre essas referências depois, então já é um caminho legal,
+[00:04:11:17 --> 00:04:13:16] mas daqui a pouco a gente volta em referências.

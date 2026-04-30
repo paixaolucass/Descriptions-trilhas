@@ -1,0 +1,536 @@
+1
+00:00:00,000 --> 00:00:02,360
+Um pouco mais sobre diferença entre imagem e vídeo.
+
+2
+00:00:02,540 --> 00:00:04,500
+Eu já trouxe esses pontos para vocês, né?
+
+3
+00:00:04,580 --> 00:00:06,660
+Tem aqui o vídeo que a Yá trouxe.
+
+4
+00:00:06,660 --> 00:00:11,180
+Eu achei muito engraçado esse vídeo, porque aqui se mexe um pouquinho, se você reparar, olha.
+
+5
+00:00:11,700 --> 00:00:15,020
+Ela está mexendo um pouco, ela está fingindo que é uma imagem, mas ela é um vídeo.
+
+6
+00:00:16,340 --> 00:00:16,900
+Muito bom.
+
+7
+00:00:17,260 --> 00:00:18,720
+Mas tudo bem, dá uma pausa aqui.
+
+8
+00:00:19,420 --> 00:00:21,240
+Cinco dimensões que separam imagem de vídeo.
+
+9
+00:00:21,900 --> 00:00:24,260
+Primeiro, dimensão temporal, a gente já falou um pouco sobre isso.
+
+10
+00:00:24,300 --> 00:00:27,380
+Lembrando que essa documentação está aqui na descrição para você que está vendo a gravação.
+
+11
+00:00:27,400 --> 00:00:29,860
+Você pode acompanhar, jogar isso aqui na sua Yá também, por aí vai.
+
+12
+00:00:30,000 --> 00:00:37,340
+Mas primeiro, dimensão temporal, fluxo óptico, física simulada, consistência entre frames, custo computacional.
+
+13
+00:00:37,980 --> 00:00:39,920
+Como isso tudo muda o fluxo de trabalho?
+
+14
+00:00:39,980 --> 00:00:42,540
+Como eu já falei desses pontos, você pode releer aqui, mas vamos lá.
+
+15
+00:00:42,620 --> 00:00:47,760
+Primeiro, profissionais aderem à regra de um vetor de câmera mais uma ação principal por clipe.
+
+16
+00:00:47,880 --> 00:00:49,720
+O que é vetor de câmera? Movimento de câmera.
+
+17
+00:00:49,900 --> 00:00:53,020
+Então você tem uma ação simples em um único movimento de câmera.
+
+18
+00:00:53,160 --> 00:00:55,840
+Não tenta embolar vários deles de uma vez que você vai ter problema.
+
+19
+00:00:55,840 --> 00:00:59,380
+Esse é um fundamento legal no momento atual que nós estamos vivendo com as IAs.
+
+20
+00:00:59,520 --> 00:01:02,300
+Vai fazendo teste, vários frames cortadinhos, isso ajuda muito.
+
+21
+00:01:03,300 --> 00:01:04,920
+Imagem para vídeo como padrão.
+
+22
+00:01:05,000 --> 00:01:09,620
+Então, ao invés de fazer text-to-video e ficar muito exposto a alucinações da IA,
+
+23
+00:01:10,240 --> 00:01:12,780
+subir uma imagem de referência já vai ajudar bastante.
+
+24
+00:01:12,820 --> 00:01:14,660
+Vou fazer mais uma vez aqui para vocês verem.
+
+25
+00:01:14,720 --> 00:01:16,260
+Se eu pego aqui agora, coala.
+
+26
+00:01:16,500 --> 00:01:17,640
+Coela não, coala.
+
+27
+00:01:20,124 --> 00:01:20,584
+Coala.
+
+28
+00:01:21,980 --> 00:01:23,220
+Então, a gente tem vários koalas aqui.
+
+29
+00:01:23,560 --> 00:01:28,400
+Eu posso pegar um koala aqui e falar que ele vai saltar daqui, por exemplo.
+
+30
+00:01:29,000 --> 00:01:32,040
+Lembrando que você tem que ver se as imagens são livres para direito autoral
+
+31
+00:01:32,040 --> 00:01:34,960
+antes de sair colocando imagem dos outros nas IAs.
+
+32
+00:01:35,000 --> 00:01:36,080
+Então, o que eu vou fazer aqui?
+
+33
+00:01:36,480 --> 00:01:40,060
+Eu já vou colocar aqui direito de uso, licença Creative Commons.
+
+34
+00:01:40,300 --> 00:01:41,240
+Beleza? Então, está legal.
+
+35
+00:01:41,280 --> 00:01:42,200
+Agora a gente pode trabalhar.
+
+36
+00:01:42,540 --> 00:01:45,240
+Vou pegar essa imagem de referência aqui, salvar como.
+
+37
+00:01:46,120 --> 00:01:46,560
+Koala.
+
+38
+00:01:47,160 --> 00:01:49,220
+Cada dia da semana eu coloco um animal.
+
+39
+00:01:49,560 --> 00:01:50,700
+Vou vir aqui agora.
+
+40
+00:01:50,960 --> 00:01:51,620
+O que eu vou fazer?
+
+41
+00:01:51,620 --> 00:02:00,540
+Subo uma imagem de referência, subo com a linha de referência aqui e coloco um coala fugindo de um predador.
+
+42
+00:02:01,220 --> 00:02:02,220
+Transformar uma imagem em vídeo.
+
+43
+00:02:02,400 --> 00:02:05,240
+Vou deixar aqui 5 segundos mesmo, vou deixar 4 vídeos.
+
+44
+00:02:05,840 --> 00:02:08,720
+480p é legal só para a gente visualizar como vai ficar.
+
+45
+00:02:08,820 --> 00:02:10,680
+Vou deixar no padrão aqui inteligente mesmo.
+
+46
+00:02:11,000 --> 00:02:12,440
+E beleza, gera para a gente.
+
+47
+00:02:12,780 --> 00:02:15,580
+Ela vai começar a gerar 4 vídeos aqui.
+
+48
+00:02:15,700 --> 00:02:18,400
+Estou usando aqui o Seedens, beleza?
+
+49
+00:02:18,400 --> 00:02:20,120
+Beleza? Seedence 1.5 Pro
+
+50
+00:02:20,640 --> 00:02:22,140
+direto no site da ByteDance
+
+51
+00:02:22,140 --> 00:02:23,980
+aqui, pra você não ter que ficar comprando
+
+52
+00:02:23,980 --> 00:02:26,060
+crédito à toa em sites de outras pessoas.
+
+53
+00:02:26,100 --> 00:02:28,120
+Se você tiver o Freepeek, que você já
+
+54
+00:02:28,120 --> 00:02:29,960
+assinou, talvez você tá na trilha de imagens, viu
+
+55
+00:02:29,960 --> 00:02:31,980
+o Freepeek lá, pode usar o Freepeek
+
+56
+00:02:31,980 --> 00:02:33,920
+Runway, eu vou falar dessas ferramentas todas
+
+57
+00:02:33,920 --> 00:02:35,920
+na aula de ferramentas, tá? Aqui eu tô só
+
+58
+00:02:35,920 --> 00:02:37,760
+mostrando pra vocês alguns
+
+59
+00:02:37,760 --> 00:02:39,620
+pontos importantes aqui, resumindo
+
+60
+00:02:39,620 --> 00:02:40,960
+as principais técnicas.
+
+61
+00:02:42,460 --> 00:02:48,020
+Enquanto ele gera ali, então, imagem para vídeo como padrão é uma técnica boa para você manter consistência,
+
+62
+00:02:48,060 --> 00:02:50,420
+ter um controle maior do vídeo que você está gerando.
+
+63
+00:02:51,100 --> 00:02:52,980
+Duração ótima é de 8 a 20 segundos.
+
+64
+00:02:54,200 --> 00:02:58,020
+Menos do que isso, pode cortar no meio de uma ação e aí você perde o clipe,
+
+65
+00:02:58,120 --> 00:03:00,680
+porque você vai ficar tentando expandir ali, não vai ficar tão certo.
+
+66
+00:03:01,060 --> 00:03:05,420
+Mais do que isso também, muitas IAs nem disponibilizam essa possibilidade.
+
+67
+00:03:05,480 --> 00:03:08,240
+E quando disponibilizam, aumenta a chance da IA alucinar.
+
+68
+00:03:08,780 --> 00:03:09,180
+Beleza?
+
+69
+00:03:10,040 --> 00:03:10,440
+Resumo.
+
+70
+00:03:10,440 --> 00:03:18,320
+1. Calcular pixel. Imagem é 1x, vídeo é 98x, se a gente pensa em 24fps, que é o padrão cinema.
+
+71
+00:03:18,940 --> 00:03:22,220
+Física simulada implícita, explícita e contínua no vídeo.
+
+72
+00:03:22,300 --> 00:03:24,580
+Na imagem é implícita, no vídeo é explícita e contínua.
+
+73
+00:03:25,120 --> 00:03:29,480
+Consistência de objetos. Na imagem é irrelevante no frame ali,
+
+74
+00:03:29,540 --> 00:03:32,460
+mas às vezes você precisa de uma consistência para um e-commerce ou coisas do tipo.
+
+75
+00:03:32,700 --> 00:03:37,120
+Para vídeo é crítico, porque dentro do próprio vídeo, se o objeto perde consistência, é muito ruim.
+
+76
+00:03:37,520 --> 00:03:39,320
+A gente tem custo computacional.
+
+77
+00:03:39,580 --> 00:03:41,800
+Segundos, o vídeo pode levar de minutos a horas.
+
+78
+00:03:42,500 --> 00:03:43,220
+Principais falhas.
+
+79
+00:03:43,240 --> 00:03:44,740
+Mão, texto e detalhes finos.
+
+80
+00:03:44,920 --> 00:03:46,640
+Principais falhas do vídeo é feature drift,
+
+81
+00:03:47,680 --> 00:03:48,340
+artefatos de movimento.
+
+82
+00:03:48,780 --> 00:03:53,320
+Então, a IA pode adicionar elementos indesejados no vídeo
+
+83
+00:03:53,780 --> 00:03:58,140
+ou pode gerar movimentos estranhos também.
+
+84
+00:03:58,380 --> 00:03:59,620
+Então, às vezes, sei lá, pega o copo.
+
+85
+00:03:59,660 --> 00:04:00,200
+Às vezes, a cena é isso.
+
+86
+00:04:00,220 --> 00:04:00,600
+Pega o copo.
+
+87
+00:04:00,660 --> 00:04:01,300
+Aí ela faz meio que um.
+
+88
+00:04:02,040 --> 00:04:03,780
+E pega o copo pra você, tá entendendo?
+
+89
+00:04:05,360 --> 00:04:06,380
+Acontece esse tipo de coisa.
+
+90
+00:04:06,380 --> 00:04:12,660
+ainda é uma limitação aqui, mas vamos dar uma olhada no nosso koala feito agora com referência?
+
+91
+00:04:12,740 --> 00:04:14,140
+Então ele já fez o primeiro, vamos ver aqui.
+
+92
+00:04:19,708 --> 00:04:21,308
+Olha só como a gente já tem outro vídeo.
+
+93
+00:04:22,208 --> 00:04:22,988
+Isso aí, ó.
+
+94
+00:04:23,288 --> 00:04:23,908
+Feature drift.
+
+95
+00:04:24,828 --> 00:04:25,428
+Pegou agora?
+
+96
+00:04:25,508 --> 00:04:26,988
+No meio do vídeo a gente viu.
+
+97
+00:04:27,048 --> 00:04:27,508
+É o problema.
+
+98
+00:04:27,888 --> 00:04:29,148
+Ficou um pouquinho estranho,
+
+99
+00:04:29,148 --> 00:04:31,868
+meio movimento calculado demais, muito IA.
+
+100
+00:04:32,688 --> 00:04:35,688
+Mas olha só, com referência eu já tenho um vídeo mais interessante.
+
+101
+00:04:36,088 --> 00:04:38,688
+Então, image to video já é uma...
+
+102
+00:04:38,688 --> 00:04:40,948
+Já dei uma dica para vocês aqui boa também,
+
+103
+00:04:41,608 --> 00:04:43,468
+falando de ferramenta aqui que já ajuda bastante.
+
+104
+00:04:43,528 --> 00:04:44,848
+Vamos pegar um outro exemplo aqui?
+
+105
+00:04:45,708 --> 00:04:46,308
+Vamos ver.
+
+106
+00:04:50,788 --> 00:04:52,528
+Colocou um narrador, né?
+
+107
+00:04:52,588 --> 00:04:54,908
+O koala detectou a presença de um predador.
+
+108
+00:04:57,308 --> 00:04:59,448
+Então ele desenvolveu rapidamente.
+
+109
+00:05:01,688 --> 00:05:03,888
+Fizemos um National Geographic aqui, peraí.
+
+110
+00:05:03,968 --> 00:05:05,688
+Fizemos um National Geographic aqui.
+
+111
+00:05:10,488 --> 00:05:11,708
+Olha ali, ó.
+
+112
+00:05:11,848 --> 00:05:12,468
+É isso, ó.
+
+113
+00:05:12,508 --> 00:05:13,808
+Falhas na física.
+
+114
+00:05:13,828 --> 00:05:14,468
+Isso é normal.
+
+115
+00:05:14,468 --> 00:05:18,868
+Só que a gente consegue trabalhar o prompt, trabalhar melhor pra poder resolver isso.
+
+116
+00:05:18,928 --> 00:05:25,208
+Mas olha que interessante, ele tá no tronco, do nada ele anda no invisível, no ar.
+
+117
+00:05:25,468 --> 00:05:26,028
+Olha aqui, ó.
+
+118
+00:05:28,748 --> 00:05:30,908
+Pegou a ideia?
+
+119
+00:05:31,268 --> 00:05:35,328
+Então acontece, isso aqui são limitações da IA que tem como a gente driblar elas.
+
+120
+00:05:35,428 --> 00:05:35,928
+Vamos ver isso.
+
+121
+00:05:41,660 --> 00:05:43,680
+Ah, já deu um zoom out aí, interessante.
+
+122
+00:05:46,396 --> 00:05:49,656
+Ainda tem algumas coisas estranhas no movimento, mas legal, vamos ver esse.
+
+123
+00:05:55,164 --> 00:05:57,004
+Cara, se tem uma coisa que eu fico rindo muito
+
+124
+00:05:57,004 --> 00:05:58,384
+é de vídeo gerado por ela.
+
+125
+00:05:59,004 --> 00:06:00,424
+Cara, do nada, né?
+
+126
+00:06:00,524 --> 00:06:03,024
+Ela precisava adicionar ali o que eu pedi.
+
+127
+00:06:03,264 --> 00:06:04,924
+Do nada, um quati,
+
+128
+00:06:05,684 --> 00:06:06,784
+guaxinim, marrom, sei lá,
+
+129
+00:06:07,324 --> 00:06:09,304
+aparece ali e pula pro nada, né?
+
+130
+00:06:09,364 --> 00:06:09,484
+Olha lá.
+
+131
+00:06:12,476 --> 00:06:13,456
+Mas tudo bem.
+
+132
+00:06:13,916 --> 00:06:17,176
+A gente está experimentando aqui, vendo as limitações ao vivo.
+
+133
+00:06:17,396 --> 00:06:20,696
+Mas é legal para já começar a ter um resultadozinho aqui.
+
+134
+00:06:20,976 --> 00:06:24,236
+Faça os seus testes aí comigo também, que pode ser bem interessante, tá bom?
+

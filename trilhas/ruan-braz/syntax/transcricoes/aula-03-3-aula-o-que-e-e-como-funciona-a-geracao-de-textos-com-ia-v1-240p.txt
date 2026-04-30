@@ -1,0 +1,141 @@
+# Video: 3._aula_-_o_que_é_e_como_funciona_a_geração_de_textos_com_ia_v1 (240p).mp4
+# FPS: 30.0
+# Idioma: pt
+# Modelo: large-v3
+# Dispositivo: CUDA
+# Data: 2026-04-20 12:48
+# Formato: [HH:MM:SS:FF --> HH:MM:SS:FF] texto
+#
+[00:00:00:01 --> 00:00:02:28] Quando nós falamos de geração de texto com inteligência artificial,
+[00:00:03:09 --> 00:00:05:23] uma das primeiras coisas que nós precisamos compreender
+[00:00:05:23 --> 00:00:08:19] é como essas inteligências artificiais funcionam.
+[00:00:09:01 --> 00:00:12:09] Principalmente essas de linguagem que nós costumamos utilizar,
+[00:00:12:16 --> 00:00:15:26] como chat.gbt, load, Gemini, Croc e por aí vai.
+[00:00:16:00 --> 00:00:19:06] A verdade é que esse modelo de inteligência artificial
+[00:00:19:06 --> 00:00:20:18] não é um modelo que pensa,
+[00:00:20:25 --> 00:00:24:07] não é um modelo que raciocina como nós, seres humanos, raciocinamos.
+[00:00:24:10 --> 00:00:26:28] Não é um modelo que sente como nós sentimos.
+[00:00:27:02 --> 00:00:29:06] Na verdade, ele é um modelo de probabilidade.
+[00:00:29:06 --> 00:00:36:00] É um modelo que pega cada palavra sua, compreende qual é a próxima palavra que vem ali estatisticamente
+[00:00:36:00 --> 00:00:38:27] e traz para você a resposta mais adequada.
+[00:00:38:29 --> 00:00:41:27] É óbvio que eu estou simplificando muito o processo aqui.
+[00:00:41:28 --> 00:00:46:22] As LLMs, Large Language Models, de hoje em dia são muito mais avançadas.
+[00:00:46:24 --> 00:00:53:13] Você precisa entender que as LLMs são modelos probabilísticos, que vão espelhar o seu próprio pensamento.
+[00:00:53:19 --> 00:00:57:28] Se você quiser entender um pouco mais com profundidade como as LLMs funcionam,
+[00:00:57:28 --> 00:01:01:26] qual é a história das inteligências artificiais que trouxe essa tecnologia até aqui,
+[00:01:01:28 --> 00:01:06:29] eu recomendo para você a trilha LLMs, onde eu explico isso de uma maneira mais técnica,
+[00:01:07:03 --> 00:01:11:10] e também a trilha AI First, que lá eu falo sobre a história da inteligência artificial
+[00:01:11:10 --> 00:01:15:08] e quais foram os paradigmas que a humanidade quebrou para chegar onde nós estamos aqui agora.
+[00:01:15:13 --> 00:01:18:28] O mais importante que você precisa saber nessa aula é que inteligências artificiais
+[00:01:19:15 --> 00:01:22:07] são um espelho do seu próprio raciocínio.
+[00:01:22:10 --> 00:01:25:09] Isso significa que se a informação está confusa aqui,
+[00:01:25:09 --> 00:01:28:07] você vai transferir essa confusão para a sua mensagem
+[00:01:28:07 --> 00:01:31:12] e a IA vai amplificar a sua própria confusão.
+[00:01:31:14 --> 00:01:34:01] Muitas vezes ela não vai te falar que você está errado,
+[00:01:34:06 --> 00:01:38:12] pelo contrário, ela vai tentar amplificar o que você acabou de trazer para ela
+[00:01:38:12 --> 00:01:41:18] e muitas vezes o que ela devolve de volta é mais confusão.
+[00:01:41:19 --> 00:01:44:13] Talvez uma confusão um pouco organizada.
+[00:01:44:16 --> 00:01:46:07] O que nós precisamos fazer aqui então
+[00:01:46:07 --> 00:01:49:06] é entender como trabalhar a inteligência artificial
+[00:01:49:06 --> 00:01:51:14] para que ela te devolva clareza.
+[00:01:51:16 --> 00:01:54:26] E nessa aula eu quero te explicar exatamente nessa direção
+[00:01:54:26 --> 00:01:57:15] como que nós podemos trabalhar as inteligências artificiais
+[00:01:57:15 --> 00:01:59:24] para que ela te devolva um texto mais claro.
+[00:01:59:28 --> 00:02:02:24] Então, começando esse processo, o que precisa ficar claro aqui
+[00:02:02:24 --> 00:02:06:13] é que inteligências artificiais não leem palavras, elas leem números.
+[00:02:06:21 --> 00:02:09:09] Cada palavra que você envia para uma inteligência artificial
+[00:02:09:09 --> 00:02:11:14] é triturada em números.
+[00:02:11:22 --> 00:02:15:18] Ela pega cada conjunto de letras, transforma aquilo em um vetor
+[00:02:15:18 --> 00:02:19:22] e toda a sua mensagem é transformada em um grande conjunto de números
+[00:02:19:22 --> 00:02:24:18] que ela utiliza para estatisticamente encontrar a mensagem mais adequada
+[00:02:24:18 --> 00:02:26:04] para o input que você mandou para ela.
+[00:02:26:06 --> 00:02:28:18] Aqui eu vou usar algumas palavras como input, output,
+[00:02:28:24 --> 00:02:31:19] que são comandos básicos quando a gente fala de inteligência artificial.
+[00:02:32:01 --> 00:02:34:02] Um input é a informação que você envia.
+[00:02:34:03 --> 00:02:36:24] Um output é a informação que a IA devolve para você.
+[00:02:36:28 --> 00:02:39:25] In é o que você envia. Out é o que ela te devolve.
+[00:02:40:00 --> 00:02:42:24] Então, a inteligência artificial não lê textos.
+[00:02:42:25 --> 00:02:45:03] Ela não vai sentir o texto igual você sente.
+[00:02:45:09 --> 00:02:49:02] Ela não vai compreender o texto com o repertório que você tem.
+[00:02:49:06 --> 00:02:52:24] Ela vai simplesmente pegar toda aquela informação que você trouxe para ela,
+[00:02:52:24 --> 00:02:56:09] quebrar aquilo em números, levar para a rede neural dela,
+[00:02:56:14 --> 00:02:59:16] compreender ali qual relação aqueles números têm
+[00:02:59:16 --> 00:03:03:09] com todos os pesos que ela desenvolveu no treinamento dela.
+[00:03:03:14 --> 00:03:05:12] O peso são as relações, beleza?
+[00:03:05:19 --> 00:03:10:27] Então ela relaciona a sua mensagem com todos os pesos que ela recebeu no treinamento dela
+[00:03:10:27 --> 00:03:16:00] e a partir disso ela entende, a partir de trilhões de parâmetros, de conexões,
+[00:03:16:05 --> 00:03:20:20] ela entende qual é a resposta mais provável para devolver para você.
+[00:03:20:20 --> 00:03:25:12] E por que é importante entender pelo menos esse básico em relação às inteligências artificiais?
+[00:03:25:16 --> 00:03:32:02] Porque cada palavra, cada espaço, cada ritmo, cada vírgula que você coloca numa mensagem,
+[00:03:32:03 --> 00:03:35:09] vai ter um peso específico no que ela te devolve.
+[00:03:35:12 --> 00:03:39:01] Isso significa que se você troca uma palavra por outra,
+[00:03:39:06 --> 00:03:44:13] o tipo de resultado que ela vai te trazer, às vezes por conta de uma ou outra palavra, pode ser diferente.
+[00:03:44:19 --> 00:03:47:06] Só que você vai perceber ao longo desse treinamento aqui,
+[00:03:47:06 --> 00:03:50:28] que dá pra você escrever textos incríveis aqui dentro e com uma
+[00:03:50:28 --> 00:03:54:01] qualidade muito boa. Isso depende mais do seu poder de
+[00:03:54:01 --> 00:03:56:27] direcionamento do que da própria inteligência
+[00:03:56:27 --> 00:04:00:02] artificial. Você vai aprender técnicas aqui diferentes que
+[00:04:00:02 --> 00:04:02:28] vão te ajudar a direcionar qualquer inteligência
+[00:04:02:28 --> 00:04:06:23] artificial pra trazer pra você o tipo de tom, o tipo de ritmo,
+[00:04:06:24 --> 00:04:09:28] o tipo de palavras que você precisa pra escrever um texto.
+[00:04:10:01 --> 00:04:12:22] O mais legal disso é que isso funciona também com textos
+[00:04:12:22 --> 00:04:15:25] escritos por seres humanos. Quanto mais você entende sobre
+[00:04:15:25 --> 00:04:17:10] sobre a estrutura de um bom texto,
+[00:04:17:15 --> 00:04:19:05] melhores ficam os seus textos escritos.
+[00:04:19:10 --> 00:04:21:01] E quanto mais você entende esses elementos,
+[00:04:21:10 --> 00:04:24:13] melhor ficam também os textos que a IA traz para você.
+[00:04:24:16 --> 00:04:27:25] Tudo no final depende do quão claro as coisas estão aqui na sua cabeça
+[00:04:27:25 --> 00:04:30:12] para que você consiga pedir isso para a inteligência artificial
+[00:04:30:12 --> 00:04:31:24] e ela te devolva.
+[00:04:31:27 --> 00:04:34:05] Eu estou ansioso para te mostrar isso tudo aqui,
+[00:04:34:10 --> 00:04:36:21] mas eu acredito que se nós seguirmos um passo de cada vez,
+[00:04:36:24 --> 00:04:38:04] você vai evoluir muito mais rápido.
+[00:04:38:10 --> 00:04:40:14] O que eu quero então que você leve dessa aula
+[00:04:40:14 --> 00:04:44:07] é que a inteligência artificial precisa de direção
+[00:04:44:07 --> 00:04:45:21] para te entregar um bom resultado.
+[00:04:46:03 --> 00:04:49:21] Isso significa que não existe esse ponto de que a IA errou.
+[00:04:49:24 --> 00:04:50:25] Ela é estatística.
+[00:04:50:26 --> 00:04:54:09] Se ela errou, provavelmente um desses pontos aqui estão inclusos.
+[00:04:54:10 --> 00:04:57:28] Ou a informação que você trouxe para ela foi confusa, não foi muito clara.
+[00:04:58:01 --> 00:05:01:22] Ou isso tem relação com limitações claras da IA,
+[00:05:01:24 --> 00:05:04:10] que eu recomendo que você assista na trilha LLMs,
+[00:05:04:12 --> 00:05:06:10] como, por exemplo, a janela de contexto dela,
+[00:05:06:19 --> 00:05:08:26] que é a quantidade de tokens que ela suporta.
+[00:05:08:26 --> 00:05:13:13] Ou o tipo de material que você enviou para ela tem dados que não foram bem tratados.
+[00:05:13:13 --> 00:05:14:18] Então, esses são os três pontos.
+[00:05:15:27 --> 00:05:19:06] Maldirecionamento, limitação técnica ou dados maltratados.
+[00:05:19:09 --> 00:05:24:19] Com esses três aqui, com certeza a IA vai devolver para você o que você entregou para ela.
+[00:05:24:23 --> 00:05:28:13] Se você entrega dados maltratados, ela devolve dados maltratados.
+[00:05:28:14 --> 00:05:32:23] Se você entrega para ela direção confusa, ela devolve direção confusa.
+[00:05:32:25 --> 00:05:38:02] Se você entrega para ela muito texto em excesso e isso ultrapassa a janela de contexto dela,
+[00:05:38:02 --> 00:05:41:29] ela começa a inventar informações para poder preencher as lacunas
+[00:05:41:29 --> 00:05:43:18] da falta de informação que ela tem ali.
+[00:05:43:22 --> 00:05:47:15] O que eu quero que você leve daqui é principalmente a clareza
+[00:05:47:15 --> 00:05:49:15] para saber instruir a inteligência artificial.
+[00:05:49:28 --> 00:05:53:07] Ao invés de colocar a culpa nela e falar que ela não entrega,
+[00:05:53:08 --> 00:05:55:27] que o resultado é fraco, eu vou te mostrar aqui que isso depende
+[00:05:55:27 --> 00:05:58:13] muito mais do que você dá para ela de insumo,
+[00:05:58:16 --> 00:06:02:01] do que propriamente da capacidade dela de te devolver um bom texto.
+[00:06:02:07 --> 00:06:05:16] Então, amarrando isso tudo aqui, o que você vai levar para as próximas aulas
+[00:06:05:16 --> 00:06:09:10] é a compreensão de que sintaxe não é sobre mandar um promptzinho
+[00:06:09:10 --> 00:06:11:03] e deixar a IA escrever tudo para você.
+[00:06:11:06 --> 00:06:12:16] É sobre colaborar com ela.
+[00:06:12:18 --> 00:06:15:03] É sobre escrever, editar, pedir para escrever de novo,
+[00:06:15:09 --> 00:06:19:05] somar com o texto seu, entender estrutura, entender ritmo, entender tom.
+[00:06:19:08 --> 00:06:22:15] Você vai compreender o que faz um bom texto ser um bom texto,
+[00:06:22:18 --> 00:06:26:11] além de simplesmente delargar essa ideia para uma inteligência artificial
+[00:06:26:11 --> 00:06:28:28] e esperar que ela vai devolver tudo pronto para você.
+[00:06:29:04 --> 00:06:31:11] Entendendo que nós estamos falando de estatística,
+[00:06:31:11 --> 00:06:35:04] pegar as suas informações e probabilisticamente de devolver uma boa resposta,
+[00:06:35:04 --> 00:06:40:05] você vai perceber que a parte mais importante é clarear as coisas na sua cabeça
+[00:06:40:05 --> 00:06:43:10] e com essa estrutura clara, enviar isso para uma inteligência artificial
+[00:06:43:10 --> 00:06:47:04] e ela vai devolver para você um resultado muito acima da média.
+[00:06:47:10 --> 00:06:49:04] Isso é o que nós vamos ver nas próximas aulas.
+[00:06:49:09 --> 00:06:51:00] Como eu disse, aqui é uma introdução.
+[00:06:51:04 --> 00:06:55:08] Se quiser realmente se aprofundar em como inteligências artificiais de texto funcionam,
+[00:06:55:09 --> 00:06:57:24] recomendo as trilhas LLM e AI First.
+[00:06:58:01 --> 00:07:00:24] Também recomendo que você assista a trilha Estrutura de Prompts,
+[00:07:00:27 --> 00:07:02:16] onde eu vou mais nessa parte técnica.
+[00:07:02:16 --> 00:07:06:28] Aqui no sintaxe, nós vamos focar principalmente em tornar clara a estrutura de um texto
+[00:07:06:28 --> 00:07:10:26] para que você consiga fazer a inteligência artificial te devolver obras-primas.
+[00:07:11:00 --> 00:07:14:08] Então, vamos para a próxima aula, que eu quero te mostrar algumas coisas bem legais.
