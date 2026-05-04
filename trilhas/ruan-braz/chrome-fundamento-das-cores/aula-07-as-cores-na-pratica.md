@@ -15,7 +15,7 @@ Ao final desta aula, você será capaz de:
 
 Na última aula do módulo, Ruan deixa claro que não vai apenas ensinar combinações do tipo vermelho com amarelo. A aula trata dos critérios que ajudam a decidir o caminho cromático de acordo com cada projeto.
 
-A escolha de cores precisa ser estratégica. Antes de abrir um seletor ou montar uma paleta, o designer deve entender natureza do projeto, significado e mensagem, público alvo, estratégia de diferenciação, pontos de contato e sistema de cores.
+A escolha de cores precisa ser estratégica. Antes de abrir um seletor ou montar uma paleta, o designer deve entender a natureza do projeto, significado e mensagem, público-alvo, estratégia de diferenciação, pontos de contato e sistema de cores.
 
 ## Natureza do projeto
 
@@ -25,7 +25,7 @@ A cor precisa respeitar suporte, escala, tempo de exposição, legibilidade, pro
 
 ## Mensagem, público e diferenciação
 
-A cor deve servir à mensagem. O designer precisa perguntar que sensação, posição e leitura deseja construir. Também precisa considerar quem recebe essa mensagem, porque público alvo, repertório cultural e contexto mudam a interpretação.
+A cor deve servir à mensagem. O designer precisa perguntar que sensação, posição e leitura deseja construir. Também precisa considerar quem recebe essa mensagem, porque público-alvo, repertório cultural e contexto mudam a interpretação.
 
 A estratégia de diferenciação também importa. Às vezes, a melhor cor é a que aproxima a marca de um setor. Em outros casos, é a que cria ruptura visual e destaca a marca no meio de concorrentes muito parecidos.
 
@@ -39,7 +39,7 @@ Por fim, a cor deve formar um sistema. Não basta escolher uma cor principal. É
 
 A prática das cores é a síntese do módulo: biologia, relatividade, polaridade, harmonia, linguagem e técnica precisam entrar na decisão. O designer não escolhe cor porque gosta, mas porque aquela cor resolve um problema de comunicação.
 
-Com critérios claros, a conversa com cliente também melhora. O designer passa a justificar escolhas com base em projeto, público, mensagem e aplicação, e não apenas em preferência pessoal.
+Com critérios claros, a conversa com o cliente também melhora. O designer passa a justificar escolhas com base em projeto, público, mensagem e aplicação, e não apenas em preferência pessoal.
 
 ## Coloque em prática
 
