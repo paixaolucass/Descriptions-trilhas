@@ -19,7 +19,7 @@ A recomendação principal, porém, é aplicar. O aluno não precisa saber tudo 
 
 ## O essencial para construir um negócio
 
-a trilha buscou entregar a essência para que o designer não pense apenas no próximo cliente, mas em um negócio de verdade. O primeiro cliente importa, mas a mentalidade precisa caminhar para estrutura, posicionamento, ambiente e previsibilidade.
+A trilha buscou entregar a essência para que o designer não pense apenas no próximo cliente, mas em um negócio de verdade. O primeiro cliente importa, mas a mentalidade precisa caminhar para estrutura, posicionamento, ambiente e previsibilidade.
 
 Persona, demanda e ambiente aparecem como base dessa construção. A trilha passa por autoconhecimento, imagem, hipernicho, demandas, oferta, proposta, infraestrutura, abordagem, conteúdo e tráfego para formar um sistema.
 
