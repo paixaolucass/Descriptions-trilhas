@@ -13,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## Por que storytelling importa para designers
 
-Ruan abre a aula com uma pergunta direta: designers precisam saber contar histórias? A resposta, para quem já acompanhou a trilha, é sim, porque todos os fundamentos do design são subordinados da mensagem. E o jeito mais simples e mais eficaz de transmitir uma mensagem é por meio de uma boa história.
+Ruan abre a aula com uma pergunta direta: designers precisam saber contar histórias? A resposta, para quem já acompanhou a trilha, é sim, porque todos os fundamentos do design são subordinados à mensagem. E o jeito mais simples e mais eficaz de transmitir uma mensagem é por meio de uma boa história.
 
 O argumento começa no plano evolutivo. O cérebro humano vem se desenvolvendo há milhares de anos a partir das histórias. Nós somos fofoqueiros por natureza: gostamos de contar, de inventar, de imaginar. Essa capacidade de imaginar e compartilhar grandes volumes de informação organizada foi o que nos diferenciou dos outros animais e nos fez evoluir como espécie.
 

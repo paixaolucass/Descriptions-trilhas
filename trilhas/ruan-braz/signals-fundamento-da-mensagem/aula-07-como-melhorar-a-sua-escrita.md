@@ -15,7 +15,7 @@ Ao final desta aula, você será capaz de:
 
 Ruan abre a aula posicionando a escrita como uma das ferramentas mais importantes para conduzir a mensagem. O problema central que ele identifica: poucos designers se dedicam, minimamente que seja, ao desenvolvimento da escrita. A percepção dominante no mercado é que Photoshop, Illustrator, 3D, desenho e semiótica são habilidades mais relevantes. Essa percepção, segundo Ruan, está errada.
 
-Todos os fundamentos do design são subordinados da mensagem. No final, o objetivo é conduzir uma percepção para o público. E palavras são o tipo de signo mais preciso disponível para isso: permitem conduzir o pensamento das pessoas no detalhe, passo a passo, com uma precisão que o desenho raramente alcança.
+Todos os fundamentos do design são subordinados à mensagem. No final, o objetivo é conduzir uma percepção para o público. E palavras são o tipo de signo mais preciso disponível para isso: permitem conduzir o pensamento das pessoas no detalhe, passo a passo, com uma precisão que o desenho raramente alcança.
 
 Ruan usa o jogo Gartic como analogia: quando você precisa comunicar um conceito abstrato ou complexo, há uma vontade quase imediata de simplesmente escrever, porque uma palavra ou duas comunicam com exatidão o que minutos de desenho não conseguem. Quanto mais abstrato e complexo o conceito, mais a linguagem verbal ajuda e menos o visual resolve.
 
@@ -27,7 +27,7 @@ Ruan apresenta uma citação de David Ogilvy, considerado por muitos o maior pub
 
 Ruan conta que, por muito tempo, discordava dessa citação. Sua posição era que a forma também leva a comprar, e ele trouxe uma pesquisa para sustentar isso. Na pesquisa, três caixas de sabão em pó com o mesmo conteúdo foram apresentadas com designs diferentes: uma amarela, uma azul e uma multicolorida. A grande maioria das pessoas escolheu a multicolorida e apresentou argumentos racionais para a escolha, mesmo que o produto interno fosse idêntico. A fonte consultada é o livro *Design como Storytelling*, de Ellen Lupton.
 
-A resolução do conflito entre as duas posições veio quando Ruan percebeu que os fundamentos do design são subordinados da mensagem. A forma sem conteúdo é vazia. Na pesquisa das caixas, o conteúdo era igual nas três, então o design fez toda a diferença. Mas se o conteúdo da caixa multicolorida fosse fraco ou raso, as pessoas teriam escolhido outra. A citação de Ogilvy faz sentido: ninguém deixa de comprar porque a fonte escolhida não era Garamond. O conteúdo é o que sustenta a escolha.
+A resolução do conflito entre as duas posições veio quando Ruan percebeu que os fundamentos do design são subordinados à mensagem. A forma sem conteúdo é vazia. Na pesquisa das caixas, o conteúdo era igual nas três, então o design fez toda a diferença. Mas se o conteúdo da caixa multicolorida fosse fraco ou raso, as pessoas teriam escolhido outra. A citação de Ogilvy faz sentido: ninguém deixa de comprar porque a fonte escolhida não era Garamond. O conteúdo é o que sustenta a escolha.
 
 ## A sentença que os designers ignoram
 
@@ -71,7 +71,7 @@ O primeiro passo prático para melhorar a escrita é ler e escrever, tornando is
 
 Os benefícios da leitura vão além do conteúdo. Livros não têm sotaque: cada palavra foi selecionada e lapidada, o raciocínio é linear e bem construído. Ler muito faz você passar a falar e escrever de forma mais parecida com o que lê. A leitura desenvolve a plasticidade cerebral, organiza o pensamento, melhora o ritmo da fala e da escrita. Pessoas que pensam de forma acelerada e caótica, sem chegar a conclusões, melhoram a organização do raciocínio com a leitura. Ruan credita parte significativa da qualidade da sua didática à leitura constante. O critério não é quantidade de livros por ano, mas frequência e consistência.
 
-Um exercício específico que Ruan recomenda: copiar textos bons à mão ou no teclado, sem publicar em lugar nenhum. Reescrever um texto que você achou muito bom ensina mais do que apenas lê-lo. Só esse exercício, praticado regularmente, melhoraria a escrita sem precisar de nenhum trilha.
+Um exercício específico que Ruan recomenda: copiar textos bons à mão ou no teclado, sem publicar em lugar nenhum. Reescrever um texto que você achou muito bom ensina mais do que apenas lê-lo. Só esse exercício, praticado regularmente, melhoraria a escrita sem precisar de nenhuma trilha.
 
 ## A técnica da geração de alternativas
 
