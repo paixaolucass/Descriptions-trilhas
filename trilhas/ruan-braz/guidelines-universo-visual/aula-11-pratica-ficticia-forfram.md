@@ -1,4 +1,4 @@
-# Prática fictícia: ForFram
+# Prática fictícia: Forfran
 
 **Tempo estimado de leitura:** 6 minutos
 
