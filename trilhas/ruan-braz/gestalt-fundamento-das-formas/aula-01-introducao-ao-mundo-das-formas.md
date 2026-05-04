@@ -1,4 +1,4 @@
-# Introdução ao Mundo das Formas
+﻿# Introdução ao Mundo das Formas
 
 **Tempo estimado de leitura:** 11 minutos
 
@@ -55,13 +55,13 @@ Os seres humanos começaram a criar uma imagem na cabeça, projetar essa imagem 
 
 O designer trabalha exatamente nesse movimento: projetar ideias no mundo real, criar formas a partir de um conceito que outras pessoas também conseguem entender. O mundo passou a ser dividido: antes tudo era natural. Com a materialização de ideias, surgiram formas artificiais, criadas pelo homem. Se antes existiam os morangos, começaram a surgir as cestas para guardá-los, cestas que não existiam antes no mundo real, mas que foram ideias materializadas.
 
-## Os dois movimentos: Toca do Coelho e Plano Holandia
+## Os dois movimentos: Toca do Coelho e Planolândia
 
 Ruan nomeia dois movimentos distintos com base em referências culturais que ele gosta. O primeiro movimento é o de codificação, do mundo real para o mundo ideal. Ele chamou de "Toca do Coelho", em referência a Alice no País das Maravilhas. Na história, Alice segue um coelho que entra numa toca e cai em outra realidade, onde as regras eram diferentes. A história de Alice é muito usada para trazer a ideia do mundo ideal, e o filme Matrix faz várias analogias diretas a ela: quando Neo recebe a mensagem "siga o coelho branco", é uma referência direta.
 
 A conexão com o mundo das ideias: a toca do coelho é o momento onde se cria esse mundo das ideias, o momento da codificação onde se cria uma matrix. Ruan explica que "matrix" vem de matriz, e matriz vem de mãe. Para ilustrar, ele usa três letras M escritas de formas diferentes. Cada uma tem sua autenticidade própria, mas existe uma matriz da letra M: para ser uma letra M, precisa ter quatro linhas dispostas de determinada forma. Nenhum dos três M é a matriz exata. Todos são representações da matriz, porque a matriz é uma ideia, ela fica no mundo ideal. O mundo real é o mundo onde tudo muda a todo instante, com várias cópias de seres humanos, vacas e morangos, mas sem um ser humano perfeito, uma vaca perfeita ou um morango perfeito. Existe uma ideia do que é necessário para uma forma parecer um humano, e são essas propriedades que formam a matriz.
 
-O segundo movimento é o de materialização, do mundo ideal de volta ao mundo real. Ruan chamou de "Plano Holandia", com base em uma teoria sobre dimensões. É o momento em que se pega a ideia de um boi, por exemplo, e se materializa de volta no mundo real. A gente sai do mundo das ideias e dá matéria para a forma, não estrutura, porque a estrutura está na ideia, mas preenchimento.
+O segundo movimento é o de materialização, do mundo ideal de volta ao mundo real. Ruan chamou de "Planolândia", com base em uma teoria sobre dimensões. É o momento em que se pega a ideia de um boi, por exemplo, e se materializa de volta no mundo real. A gente sai do mundo das ideias e dá matéria para a forma, não estrutura, porque a estrutura está na ideia, mas preenchimento.
 
 ## As dimensões do espaço e sua influência na forma
 
@@ -71,7 +71,7 @@ A menor unidade da dimensão é o ponto, que é um conceito abstrato, uma coorde
 
 A partir do momento em que um ponto é deslocado para fora desse segmento, passa-se para um ambiente bidimensional, com altura e largura. Na terceira dimensão, pelo menos um plano sai dos dois eixos e surge um novo eixo: no plano cartesiano são x, y e z. O eixo z traz a dimensão de volume. Para ganhar essa dimensão, é preciso deslocar para fora do plano um novo plano.
 
-Ruan menciona que existem teorias sobre uma quarta dimensão espacial, e foi justamente dessa teoria que ele tirou o nome "Plano Holandia". O trecho sobre plana Holandia é lido diretamente: criaturas bidimensionais que vivem em uma terra plana, com largura e comprimento mas sem altura, incapazes de perceber a terceira dimensão. Uma criatura tridimensional que visita essa terra só pode ser percebida pelos seus pontos de contato com o plano. A analogia se estende ao hipercubo quadridimensional, chamado tesseract, que é a projeção em três dimensões de uma forma com quatro dimensões. Assim como não se pode mostrar a direção da quarta dimensão física a alguém preso em três dimensões, o quadrado bidimensional não consegue apontar onde está a terceira dimensão.
+Ruan menciona que existem teorias sobre uma quarta dimensão espacial, e foi justamente dessa teoria que ele tirou o nome "Planolândia". O trecho sobre Planolândia é lido diretamente: criaturas bidimensionais que vivem em uma terra plana, com largura e comprimento mas sem altura, incapazes de perceber a terceira dimensão. Uma criatura tridimensional que visita essa terra só pode ser percebida pelos seus pontos de contato com o plano. A analogia se estende ao hipercubo quadridimensional, chamado tesseract, que é a projeção em três dimensões de uma forma com quatro dimensões. Assim como não se pode mostrar a direção da quarta dimensão física a alguém preso em três dimensões, o quadrado bidimensional não consegue apontar onde está a terceira dimensão.
 
 ## O tempo como quarta dimensão e a animação
 
@@ -136,3 +136,4 @@ Posicione esse objeto em um dos quatro quadrantes do diagrama da forma.
 Pegue um símbolo visual que você usa no dia a dia: um logotipo de marca ou um ícone de aplicativo.
 
 Verifique se a forma dele se parece com o que ele representa ou se o significado é construído culturalmente.
+

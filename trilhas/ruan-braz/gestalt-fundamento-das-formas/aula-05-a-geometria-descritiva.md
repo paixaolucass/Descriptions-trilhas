@@ -1,4 +1,4 @@
-# A Geometria Descritiva
+﻿# A Geometria Descritiva
 
 **Tempo estimado de leitura:** 8 minutos
 
@@ -85,7 +85,7 @@ No desenho técnico, cada tipo de linha tem uma função específica e regida pe
 
 Além do método de Gaspard Monge, existe também o método de representação de Felipe Buache. Ruan menciona sua existência, mas não o apresenta na aula, deixando para pesquisa autônoma.
 
-Para aprofundamento, Ruan indica três livros: "Representação Gráfica para Desenho e Projeto" (2001), da editora GG, que não existe mais, mas cujos títulos podem ser encontrados pela editora Olhares; "Geometria Descritiva", de Gil do Monte Negro, volume 1, da editora Blusher, que apresenta mais exemplos e aprofunda os conceitos da aula; e "Expressão Gráfica", que abrange tanto geometria descritiva quanto os tipos de desenhos geométricos tratados na aula anterior de geometria plana.
+Para aprofundamento, Ruan indica três livros: "Representação Gráfica para Desenho e Projeto" (2001), da editora GG, que não existe mais, mas cujos títulos podem ser encontrados pela editora Olhares; "Geometria Descritiva", de Gil do Monte Negro, volume 1, da editora Blucher, que apresenta mais exemplos e aprofunda os conceitos da aula; e "Expressão Gráfica", que abrange tanto geometria descritiva quanto os tipos de desenhos geométricos tratados na aula anterior de geometria plana.
 
 ## Coloque em prática
 
@@ -96,3 +96,4 @@ Defina os três planos da épura: plano horizontal, plano vertical e plano de pe
 Identifique os pontos principais do objeto e atribua a cada um os valores de cota, afastamento e abscissa.
 
 Construa a épura com os três pontos de vista usando os tipos de linha corretos: contínua larga para arestas visíveis e tracejada estreita para arestas invisíveis.
+

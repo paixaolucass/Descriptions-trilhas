@@ -1,4 +1,4 @@
-# Os Símbolos e a Escrita
+﻿# Os Símbolos e a Escrita
 
 **Tempo estimado de leitura:** 12 minutos
 
@@ -43,7 +43,7 @@ O primeiro registro de contagem que se conhece é o Osso de Ishango, encontrado 
 
 Com a revolução agrícola, os registros se tornaram mais elaborados. Os sumérios, na Mesopotâmia, desenvolveram um sistema de fichinhas de argila chamadas tokens, por volta de 7.500 anos antes de Cristo. Cada ficha tinha um formato diferente e representava um produto agrícola específico: cones, esferas e discos representavam pequenas, médias e grandes medidas de grãos; ovoides representavam potes de óleo; cilindros representavam ovelhas ou cabras. Foram encontrados mais de 8 mil tokens desse período.
 
-Os tokens não eram moedas de troca: eram fichas de registro, para facilitar a contagem e o controle dos bens. Em determinado momento, ao invés de modelar o token tridimensional, os sumérios começaram a pressionar esses objetos sobre tabuinhas de argila, carimbrando o token na superfície e registrando assim a posse ou a troca de bens. Esse gesto simples, de carimbar um objeto tridimensional para criar um registro bidimensional, foi o passo que deu origem à escrita.
+Os tokens não eram moedas de troca: eram fichas de registro, para facilitar a contagem e o controle dos bens. Em determinado momento, ao invés de modelar o token tridimensional, os sumérios começaram a pressionar esses objetos sobre tabuinhas de argila, carimbando o token na superfície e registrando assim a posse ou a troca de bens. Esse gesto simples, de carimbar um objeto tridimensional para criar um registro bidimensional, foi o passo que deu origem à escrita.
 
 ## Protoescrita: o que é e como se diferencia da escrita
 
@@ -114,3 +114,4 @@ Escolha três letras do alfabeto latino e rastreie a origem de cada uma até o P
 Observe uma fonte tipográfica serifada e uma sem serifa e identifique quais traços ainda guardam relação com as formas figurativas de origem.
 
 Reflita sobre como a abstração das letras se conecta ao que foi visto nas aulas anteriores sobre formas concretas e formas abstratas na Gestalt.
+

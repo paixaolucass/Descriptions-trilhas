@@ -1,4 +1,4 @@
-# Psicologia das Formas
+﻿# Psicologia das Formas
 
 **Tempo estimado de leitura:** 8 minutos
 
@@ -17,11 +17,11 @@ Para existir no mundo real, toda forma precisa de um contexto. Ruan parte dessa 
 
 Quando a forma está isolada, ela pode perder o significado que tinha ou ganhar um novo. O círculo sem contexto pode se tornar um ovo frito, por exemplo. A premissa central aqui é que nós não interpretamos formas de maneira isolada: a experiência com uma forma acontece sempre junto de um conjunto de outros elementos que formam o contexto, incluindo a matéria da qual a forma é feita, o espaço onde ela existe e o tempo.
 
-## O fenômeno fi e a origem da Gestalt
+## O fenômeno phi e a origem da Gestalt
 
-Ruan exibe na tela uma animação com bolinhas piscando em sequência. Ao observá-las no conjunto, o cérebro cria a sensação de que uma bolinha amarela está em movimento, percorrendo as outras em loop. Quando uma única bolinha é isolada, o fenômeno muda completamente: a sensação de movimento desaparece e a bolinha passa a parecer um botão piscando. Esse fenômeno foi estudado há muito tempo e é chamado de fenômeno fi.
+Ruan exibe na tela uma animação com bolinhas piscando em sequência. Ao observá-las no conjunto, o cérebro cria a sensação de que uma bolinha amarela está em movimento, percorrendo as outras em loop. Quando uma única bolinha é isolada, o fenômeno muda completamente: a sensação de movimento desaparece e a bolinha passa a parecer um botão piscando. Esse fenômeno foi estudado há muito tempo e é chamado de fenômeno phi.
 
-O que o fenômeno fi demonstra é que a parte isolada não permite entender o todo. Esse insight contradiz diretamente o atomismo, teoria que defende que para entender o todo é preciso primeiro entender cada parte, construindo do menor para o maior. A partir do fenômeno fi, Max Wertheimer desenvolveu uma teoria oposta chamada Gestalt, palavra do alemão que significa forma ou configuração. Wertheimer não foi o primeiro a observar o fenômeno, mas foi o primeiro a usá-lo para explicar um processo psicológico de percepção das formas.
+O que o fenômeno phi demonstra é que a parte isolada não permite entender o todo. Esse insight contradiz diretamente o atomismo, teoria que defende que para entender o todo é preciso primeiro entender cada parte, construindo do menor para o maior. A partir do fenômeno phi, Max Wertheimer desenvolveu uma teoria oposta chamada Gestalt, palavra do alemão que significa forma ou configuração. Wertheimer não foi o primeiro a observar o fenômeno, mas foi o primeiro a usá-lo para explicar um processo psicológico de percepção das formas.
 
 A conclusão de Wertheimer é que para entender o todo é preciso começar pelo todo e pela função do todo. O exemplo dado é o coração: só se entende a função do coração porque existe um corpo. Sem entender o corpo, a função do coração perde o sentido. Wertheimer desenvolveu a teoria junto com dois assistentes na Universidade de Frankfurt, Kurt Koffka e Wolfgang Köhler, que eram respectivamente seis e sete anos mais jovens. Esses três são os principais nomes da teoria da Gestalt.
 
@@ -105,3 +105,4 @@ A maior parte do conteúdo de Gestalt está em alemão ou em inglês. Ruan indic
 - Identifique ao menos uma das leis clássicas da Gestalt em três logos de marcas que você usa no dia a dia.
 - Analise uma composição visual de referência e distingua quais elementos são formas compostas e quais fazem parte de uma composição.
 - Aplique a lei da segregação em um exercício: crie um grupo de formas iguais e modifique um único elemento para direcionar o olhar.
+

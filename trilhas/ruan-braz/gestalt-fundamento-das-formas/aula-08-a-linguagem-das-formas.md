@@ -1,4 +1,4 @@
-# A Linguagem das Formas
+﻿# A Linguagem das Formas
 
 **Tempo estimado de leitura:** 11 minutos
 
@@ -47,7 +47,7 @@ A palavra "inocência" tem um significado que pode ser positivo ou negativo depe
 
 Já a palavra "agilidade" com uma tipografia leve, estática e irregular passa uma ideia de agilidade ligada à felicidade ou à leveza, mas vaga. Quando se muda a matéria para uma tipografia condensada, inclinada, com traço de movimento, a tipografia veste o sentido dela: a agilidade do atleta, da velocidade. É como se epistemológico e semiológico se alinhassem, A mais A igual a A.
 
-Não há certo e errado nessa escolha. A tipografia leve e irregular escrevendo "agilidade" não está errada; ela passa uma percepção diferente. Todos os fundamentos do design são subordinados da mensagem. A mensagem determina qual combinação de matéria e forma é a mais coerente para o que precisa ser dito.
+Não há certo e errado nessa escolha. A tipografia leve e irregular escrevendo "agilidade" não está errada; ela passa uma percepção diferente. Todos os fundamentos do design são subordinados à mensagem. A mensagem determina qual combinação de matéria e forma é a mais coerente para o que precisa ser dito.
 
 ## Classes tipográficas e o Zeitgeist histórico
 
@@ -141,7 +141,7 @@ A National Geographic apresenta o caso inverso: uma marca que fala sobre naturez
 
 A conclusão da aula retoma uma frase citada por Ruan como clássica: tudo é relativo, design é relação. É a relação entre o nível epistemológico e o semiológico, entre matéria e forma, entre mundo real e mundo das ideias. Design é conduzir a percepção das pessoas relacionando o mundo real com o mundo das ideias.
 
-Todos os fundamentos estudados no módulo, forma, matéria, eixos, Gestalt, os dois mundos, são subordinados da mensagem. Nenhum deles existe por si mesmo. Eles só fazem sentido quando colocados a serviço da comunicação de algo. A mensagem é o ponto de partida e o ponto de chegada de qualquer decisão formal.
+Todos os fundamentos estudados no módulo, forma, matéria, eixos, Gestalt, os dois mundos, são subordinados à mensagem. Nenhum deles existe por si mesmo. Eles só fazem sentido quando colocados a serviço da comunicação de algo. A mensagem é o ponto de partida e o ponto de chegada de qualquer decisão formal.
 
 ## Coloque em prática
 
@@ -152,3 +152,4 @@ Aplique as quatro perguntas: qual emoção ele quer passar, qual metáfora poder
 Verifique se as escolhas formais estão alinhadas com os dois eixos e com os dois níveis de significado.
 
 Se houver incoerência entre o que a forma é e o que ela faz sentir, mude a matéria mantendo a estrutura e observe o que muda.
+
