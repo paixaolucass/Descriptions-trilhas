@@ -68,7 +68,7 @@ Ruan faz uma defesa explícita do conhecimento teórico nesta aula. Pessoas que 
 
 Quando você sabe que a IA é um sistema estatístico, que ela identifica padrões em bilhões de dados e os combina probabilisticamente para gerar a imagem mais adequada ao seu prompt, você passa a tomar decisões melhores. Você sabe quando ajustar o prompt, quando usar parâmetros adicionais, quando a falha é esperada e quando ela indica que você precisa mudar a abordagem.
 
-Teoria e prática não são opostos nesta trilha. A teoria, segundo Ruan, é o que te dá autonomia. A intenção declarada ao longo de todo o curso é fazer com que os alunos pensem com a própria cabeça, apliquem o raciocínio correto e deixem de depender de cursos para gerar boas imagens. Essa base teórica é justamente o que torna a autonomia possível.
+Teoria e prática não são opostos nesta trilha. A teoria, segundo Ruan, é o que te dá autonomia. A intenção declarada ao longo de todo a trilha é fazer com que os alunos pensem com a própria cabeça, apliquem o raciocínio correto e deixem de depender de cursos para gerar boas imagens. Essa base teórica é justamente o que torna a autonomia possível.
 
 ## O resumo do funcionamento para fixar
 

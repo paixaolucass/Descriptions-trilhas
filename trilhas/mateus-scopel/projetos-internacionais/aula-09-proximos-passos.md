@@ -13,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## O fechamento da trilha
 
-Mateus encerra agradecendo aos alunos por acompanharem o curso e por estarem abertos a uma nova oportunidade.
+Mateus encerra agradecendo aos alunos por acompanharem a trilha e por estarem abertos a uma nova oportunidade.
 
 Ele reforça que, ao chegar ao fim da trilha, o aluno já tem um panorama geral do mercado internacional. Esse panorama pode abrir caminhos na carreira e ajudar a reduzir limitações ligadas às fronteiras do próprio país.
 
@@ -23,7 +23,7 @@ O ponto central é perceber que designers brasileiros podem trabalhar para fora,
 
 A trilha apresentou barreiras como idioma, cultura, confiança, prospecção e localização geográfica. O aluno passa a ter uma visão mais clara de quais bloqueios são reais, quais podem ser reduzidos com ferramentas e quais exigem prática.
 
-Essa clareza é o primeiro passo para traçar uma rota própria. O curso não fecha a jornada, mas ajuda o aluno a enxergar que existe caminho para começar.
+Essa clareza é o primeiro passo para traçar uma rota própria. a trilha não fecha a jornada, mas ajuda o aluno a enxergar que existe caminho para começar.
 
 Agora, a tarefa deixa de ser apenas assistir aulas e passa a ser transformar o panorama em ação concreta.
 

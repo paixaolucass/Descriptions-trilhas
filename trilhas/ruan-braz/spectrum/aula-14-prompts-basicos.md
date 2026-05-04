@@ -207,7 +207,7 @@ A abordagem correta é isolar variáveis. Mantenha o prompt base fixo e altere u
 - Adiciona um parâmetro de câmera, mantém tudo mais.
 - Muda o classificador de estilo, mantém o conteúdo.
 
-Cada teste com variável isolada te diz quanto aquele elemento contribui para o resultado. Com o tempo, você constrói um mapa de pesos específico para o modelo que usa e para o tipo de imagem que produz. Esse mapa não está disponível em nenhum curso: é construído empiricamente.
+Cada teste com variável isolada te diz quanto aquele elemento contribui para o resultado. Com o tempo, você constrói um mapa de pesos específico para o modelo que usa e para o tipo de imagem que produz. Esse mapa não está disponível em nenhum trilha: é construído empiricamente.
 
 Esse é o diferencial entre quem usa IA de forma mecânica e quem usa de forma sistematicamente profissional. O processo não muda: é metodologia científica aplicada a um contexto criativo.
 ## Coloque em prática

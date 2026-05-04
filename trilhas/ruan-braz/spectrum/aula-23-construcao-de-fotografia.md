@@ -144,7 +144,7 @@ Ambiente: estúdio minimalista, fundo neutro cinza, estante de livros, escritór
 
 Vestimenta: termos específicos que descrevem a estética casual intelectual sem ostentação.
 
-A lista foi gerada em português e parte em inglês, o que é relevante porque muitos termos fotográficos são usados em inglês nos prompts das ferramentas de geração. Ruan menciona que esses termos de iluminação e estilo foram abordados em curso específico sobre como utilizá-los para gerar imagens com IA.
+A lista foi gerada em português e parte em inglês, o que é relevante porque muitos termos fotográficos são usados em inglês nos prompts das ferramentas de geração. Ruan menciona que esses termos de iluminação e estilo foram abordados em trilha específico sobre como utilizá-los para gerar imagens com IA.
 
 ## O resultado do processo: controle e contexto
 

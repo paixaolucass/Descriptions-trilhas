@@ -41,7 +41,7 @@ Para este projeto, o PRD especifica que a entrega final será uma interface web 
 
 ## O comando BTW e como injetar contexto durante a execução
 
-Durante a execução de um agente, é possível enviar informações adicionais sem interromper o trabalho usando o prefixo BTW (By The Way). Esse recurso permite corrigir o curso do agente, dar contexto novo ou avisar sobre uma restrição enquanto ele ainda está trabalhando.
+Durante a execução de um agente, é possível enviar informações adicionais sem interromper o trabalho usando o prefixo BTW (By The Way). Esse recurso permite corrigir a trilha do agente, dar contexto novo ou avisar sobre uma restrição enquanto ele ainda está trabalhando.
 
 Por exemplo: se um agente está lendo um documento e vai começar a analisar uma seção que não é necessária, você pode digitar "BTW: não precisa ler tudo, foca apenas nas seções de universo verbal e visual" e o agente ajusta sem precisar recomeçar do zero.
 

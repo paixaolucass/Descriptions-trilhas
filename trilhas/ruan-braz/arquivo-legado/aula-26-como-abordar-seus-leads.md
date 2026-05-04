@@ -13,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## Trocar venda por conquista
 
-Ruan retoma a filosofia do curso: ser boa notícia no dia das pessoas. Na abordagem, isso significa parar de tentar empurrar uma venda e começar a conquistar a confiança do cliente.
+Ruan retoma a filosofia da trilha: ser boa notícia no dia das pessoas. Na abordagem, isso significa parar de tentar empurrar uma venda e começar a conquistar a confiança do cliente.
 
 A palavra conquista muda a postura. Em vez de forçar interesse, o designer busca fazer a pessoa querer trabalhar com ele, enxergando valor, cuidado e solução real para um problema importante.
 

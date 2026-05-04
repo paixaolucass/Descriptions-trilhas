@@ -28,7 +28,7 @@ Isso não é a IA inventando. É a IA executando o ponto de vista que foi constr
 
 O uso mais direto de personas sintéticas de texto é a validação de oferta. Ruan simula uma oferta de evento ao vivo sobre criação de agentes de IA, com preço de R$39, e pergunta ao Bruninho o que ele acha.
 
-A resposta não é entusiasmo imediato. Bruninho traz objeções reais: medo de comprar um curso barato, ficar empolgado, assistir metade e não aplicar nada, sentindo-se ainda mais atrasado do que antes. Quando Ruan menciona que é evento ao vivo e não gravado, o interesse aumenta, mas o Bruninho ainda questiona se vai sair com algo concreto, algo que funciona de verdade.
+A resposta não é entusiasmo imediato. Bruninho traz objeções reais: medo de comprar uma trilha barato, ficar empolgado, assistir metade e não aplicar nada, sentindo-se ainda mais atrasado do que antes. Quando Ruan menciona que é evento ao vivo e não gravado, o interesse aumenta, mas o Bruninho ainda questiona se vai sair com algo concreto, algo que funciona de verdade.
 
 Essas objeções não foram inventadas por Ruan. Elas vieram da persona. E são as mesmas objeções que apareceriam em uma conversa real com alguém do perfil do Bruninho. A diferença é que com a persona sintética isso acontece antes do lançamento, quando ainda dá para ajustar a oferta.
 

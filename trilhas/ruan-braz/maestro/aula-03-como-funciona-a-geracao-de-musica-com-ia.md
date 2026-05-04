@@ -15,7 +15,7 @@ Ao final desta aula, você será capaz de:
 
 ## O método Estado da Arte: como o instrutor estuda e como você também pode estudar
 
-Antes de entrar nos fundamentos técnicos, o instrutor apresenta como chegou às informações que vai compartilhar ao longo do curso. Essa transparência é intencional: o objetivo não é apenas passar o conteúdo, mas ensinar o método por trás do conteúdo, para que o aluno possa continuar aprendendo de forma autônoma após o curso.
+Antes de entrar nos fundamentos técnicos, o instrutor apresenta como chegou às informações que vai compartilhar ao longo da trilha. Essa transparência é intencional: o objetivo não é apenas passar o conteúdo, mas ensinar o método por trás do conteúdo, para que o aluno possa continuar aprendendo de forma autônoma após a trilha.
 
 O processo que o instrutor usa se chama Estado da Arte. Esse termo vem da metodologia científica e designa a compilação das maiores e melhores referências existentes sobre um tema. Quando pesquisadores precisam iniciar um estudo, o primeiro passo é sempre mapear o que já funciona, o que já foi validado e o que já é referência para outras pessoas na área. Isso é o Estado da Arte: não a novidade do momento, mas o que está no topo do que já se sabe.
 
@@ -25,7 +25,7 @@ Ao clicar em avançar, o Gemini apresenta um plano de pesquisa que pode ser edit
 
 O documento gerado para esta trilha tem como título: "O Estado da Arte da Produção Musical com a Inteligência Artificial, Ferramentas, Técnicas, Metodologias e o Impacto na Indústria Fonográfica em 2026". Esse material está disponível nos recursos da aula. O instrutor recomenda fortemente a leitura, porque o documento consolida as melhores práticas do mercado com referências verificáveis. Também é possível definir as fontes que o Gemini deve consultar, se o usuário já tem fontes confiáveis e quer restringir a busca a elas.
 
-Além do documento principal, o instrutor disponibiliza um glossário de produção musical para iniciantes. O glossário é dividido por categorias e cobre dezenas de termos que aparecem ao longo do curso. O instrutor recomenda manter o glossário aberto em paralelo ao assistir as aulas, consultando os termos à medida que surgem. A lógica é simples: aprender o vocabulário de um campo novo é como aprender uma língua nova. Não precisa saber tudo de uma vez. O contato gradual e contextualizado é suficiente para a absorção acontecer de forma natural.
+Além do documento principal, o instrutor disponibiliza um glossário de produção musical para iniciantes. O glossário é dividido por categorias e cobre dezenas de termos que aparecem ao longo da trilha. O instrutor recomenda manter o glossário aberto em paralelo ao assistir as aulas, consultando os termos à medida que surgem. A lógica é simples: aprender o vocabulário de um campo novo é como aprender uma língua nova. Não precisa saber tudo de uma vez. O contato gradual e contextualizado é suficiente para a absorção acontecer de forma natural.
 
 ## A grande escuta: como a IA aprende a reconhecer música
 
@@ -79,11 +79,11 @@ O instrutor exemplifica com precisão: a nota dó tocada em um violão tem um ti
 
 Para fixar o conceito de forma prática e memorável, o instrutor compartilha um experimento que fez com 15 ou 16 anos e nunca esqueceu. Ele pegou sete copos do mesmo tamanho e os encheu com quantidades diferentes de água. Ao bater com uma colher em cada copo, cada um produzia uma nota diferente. A quantidade de água afeta a frequência de vibração do copo, e portanto a nota que ele emite. Usando um aplicativo de afinador, é possível identificar as notas que cada copo está produzindo e ajustar a quantidade de água até que os sete copos correspondam às sete notas de uma escala. O resultado é um instrumento improvisado com timbre de vidro, com o qual é possível tocar melodias simples. O instrutor recomenda esse exercício como forma de entender na prática o que é timbre e o que são notas musicais.
 
-A terceira peça é a voz, que o instrutor descreve como opcional, porque nem toda música gerada precisa ter vocal. Algumas ferramentas de IA conseguem criar letra e voz humana junto com a música instrumental, imitando respiração e entonação. Além disso, existem ferramentas específicas que permitem dublar a própria voz: você canta qualquer coisa, carrega o áudio na ferramenta, e ela substitui a sua voz por qualquer outra voz que foi treinada na plataforma. O resultado é uma gravação com a melodia que você criou cantando, mas com a voz de outra pessoa. O instrutor afirma que vai demonstrar essa funcionalidade durante o curso.
+A terceira peça é a voz, que o instrutor descreve como opcional, porque nem toda música gerada precisa ter vocal. Algumas ferramentas de IA conseguem criar letra e voz humana junto com a música instrumental, imitando respiração e entonação. Além disso, existem ferramentas específicas que permitem dublar a própria voz: você canta qualquer coisa, carrega o áudio na ferramenta, e ela substitui a sua voz por qualquer outra voz que foi treinada na plataforma. O resultado é uma gravação com a melodia que você criou cantando, mas com a voz de outra pessoa. O instrutor afirma que vai demonstrar essa funcionalidade durante a trilha.
 
 ## O glossário de produção musical: vocabulário técnico organizado por categoria
 
-Para acompanhar o curso sem travar em termos desconhecidos, o instrutor disponibiliza um documento chamado Glossário de Produção Musical para Iniciantes. Esse documento está dividido por categorias e cobre o vocabulário técnico necessário para acompanhar as aulas e usar as ferramentas de geração musical com autonomia.
+Para acompanhar a trilha sem travar em termos desconhecidos, o instrutor disponibiliza um documento chamado Glossário de Produção Musical para Iniciantes. Esse documento está dividido por categorias e cobre o vocabulário técnico necessário para acompanhar as aulas e usar as ferramentas de geração musical com autonomia.
 
 A primeira categoria do glossário é elementos sonoros e timbres. Inclui: timbre, synth, strings, bass, lead, pad, noise. São os blocos básicos de construção de qualquer arranjo musical.
 

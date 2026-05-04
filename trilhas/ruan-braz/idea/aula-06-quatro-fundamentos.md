@@ -6,7 +6,7 @@
 
 Ao final desta aula, você será capaz de:
 
-- Identificar os quatro fundamentos da percepção visual que estruturam o curso: formas, cores, composição e mensagem
+- Identificar os quatro fundamentos da percepção visual que estruturam a trilha: formas, cores, composição e mensagem
 - Distinguir as definições insuficientes de design (deixar o mundo bonito, deixar legível, resolver problemas) da definição baseada em interação e percepção
 - Reconhecer por que todos os fundamentos do design são subordinados à mensagem
 - Aplicar a estrutura dos quatro fundamentos como fio condutor para os próximos módulos
@@ -39,7 +39,7 @@ Os cartazes psicodélicos do período hippie, como os de Wes Wilson, funcionam d
 
 O filósofo do design Paul Rand trouxe a frase que funcionou como chave: "tudo é relativo, design é relação". Relação entre pessoas, coisas e mensagens. O livro Percepção, da semiótica Lúcia Santaella, foi o último passo para fechar o raciocínio. A partir daí, duas palavras passaram a definir o campo do design: interação e percepção.
 
-Design é sobre projetar interações entre o mundo ideal e o mundo real. Essa definição abrange todas as áreas: na moda, a interação da roupa com a pessoa; no produto, a interação do objeto com quem o usa; no design gráfico, a interação do material visual com o leitor. O que é comum a todas essas áreas é que designers projetam estímulos sensoriais para conduzir a percepção das pessoas. Não criam percepção, porque quem cria percepção é a mente de cada pessoa, moldada pelos quatro graus de influência já apresentados no curso: o fisiológico, o ambiental, o cultural e o individual.
+Design é sobre projetar interações entre o mundo ideal e o mundo real. Essa definição abrange todas as áreas: na moda, a interação da roupa com a pessoa; no produto, a interação do objeto com quem o usa; no design gráfico, a interação do material visual com o leitor. O que é comum a todas essas áreas é que designers projetam estímulos sensoriais para conduzir a percepção das pessoas. Não criam percepção, porque quem cria percepção é a mente de cada pessoa, moldada pelos quatro graus de influência já apresentados na trilha: o fisiológico, o ambiental, o cultural e o individual.
 
 ## Os quatro fundamentos como síntese
 

@@ -47,7 +47,7 @@ Na aula, custo é definido como uma saída que aumenta a capacidade futura do si
 
 O critério não é o nome do gasto, mas sua função.
 
-Um curso pode ser custo se aumenta a capacidade de gerar dinheiro. Um software pode ser custo se permite entregar serviço. Internet pode ser custo se sustenta produção. Um equipamento pode ser custo se amplia a capacidade de trabalho.
+Uma trilha pode ser custo se aumenta a capacidade de gerar dinheiro. Um software pode ser custo se permite entregar serviço. Internet pode ser custo se sustenta produção. Um equipamento pode ser custo se amplia a capacidade de trabalho.
 
 Se o dinheiro sai e ajuda o sistema a produzir mais, ele não deve ser tratado como simples despesa.
 

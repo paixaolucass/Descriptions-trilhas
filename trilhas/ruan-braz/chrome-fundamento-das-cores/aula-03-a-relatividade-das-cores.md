@@ -21,7 +21,7 @@ Depois de passar por Aristóteles, Newton e Goethe, o módulo entra mais diretam
 
 A aula apresenta professores ligados à Bauhaus, especialmente Johannes Itten, além de Joseph Albers, Paul Klee e Wassily Kandinsky. Ruan explica que esses professores influenciaram a forma como o design moderno pensa cor, contraste e composição.
 
-Itten aparece como uma das maiores influências da metodologia de cores usada no curso. Sua abordagem ajuda a transformar percepção e comparação em exercícios práticos, úteis para construir paletas e entender relações cromáticas.
+Itten aparece como uma das maiores influências da metodologia de cores usada na trilha. Sua abordagem ajuda a transformar percepção e comparação em exercícios práticos, úteis para construir paletas e entender relações cromáticas.
 
 ## Cor em relação, não cor absoluta
 

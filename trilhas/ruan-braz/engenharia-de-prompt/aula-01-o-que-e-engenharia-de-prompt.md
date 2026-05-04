@@ -49,7 +49,7 @@ O segundo cenário é mais sutil e diz respeito ao risco de conformidade com o r
 
 O primeiro problema: por causa da janela de contexto e da economia de tokens, a IA tende a te entregar uma resposta compatível com a profundidade do seu pedido. Se você pediu raso, recebeu raso. Se você pediu dez estratégias de branding, receberá dez estratégias listadas em nível introdutório. Você pode até pedir para aprofundar uma delas, mas a IA vai aprofundar no mesmo nível raso do contexto que você estabeleceu. Para ir ao underground, você precisa pedir o underground explicitamente - e saber como pedir.
 
-O segundo problema é filosófico e cognitivo. Quando a IA adivinha sua intenção e entrega exatamente o que você pediu, você não percorre o processo de descoberta. No processo criativo e no processo de aprendizado, muitas vezes é justamente o caminho que revela que a direção que você estava tomando estava errada. A exploração te permite corrigir o curso. Se a IA entrega de imediato o que você pediu, você segue dentro da bolha do que já pensa, melhora o que já sabe e nunca se expõe a terrenos novos. Você se aprisiona em sua própria certeza.
+O segundo problema é filosófico e cognitivo. Quando a IA adivinha sua intenção e entrega exatamente o que você pediu, você não percorre o processo de descoberta. No processo criativo e no processo de aprendizado, muitas vezes é justamente o caminho que revela que a direção que você estava tomando estava errada. A exploração te permite corrigir a trilha. Se a IA entrega de imediato o que você pediu, você segue dentro da bolha do que já pensa, melhora o que já sabe e nunca se expõe a terrenos novos. Você se aprisiona em sua própria certeza.
 
 ## Vocabulário, método e o que vem a seguir
 

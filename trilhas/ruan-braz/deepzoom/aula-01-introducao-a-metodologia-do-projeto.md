@@ -53,7 +53,7 @@ Na investigação também entram análise de documentos, levantamento online, be
 
 O briefing funciona como diagnóstico inicial. A partir das respostas, o designer constrói uma visão geral do negócio, do mercado e do público, que são pilares recorrentes no método.
 
-A investigação pode durar 3, 7, 14 ou 30 dias, dependendo do tamanho do projeto. O curso apresenta fundamentos que podem ser aplicados em projetos pequenos, médios ou grandes, mas o aprofundamento depende da experiência e da análise de cada caso.
+A investigação pode durar 3, 7, 14 ou 30 dias, dependendo do tamanho do projeto. a trilha apresenta fundamentos que podem ser aplicados em projetos pequenos, médios ou grandes, mas o aprofundamento depende da experiência e da análise de cada caso.
 
 O ponto central é não tratar investigação como acúmulo de dados sem critério. Ela precisa gerar leitura estratégica. O designer coleta, cruza e interpreta informações para criar uma base sólida antes de propor qualquer caminho de posicionamento, mensagem ou identidade.
 

@@ -48,11 +48,11 @@ A primeira: qual é o meu objetivo com esse texto? A segunda: quem vai ler esse 
 
 Essas perguntas não limitam o que pode ser feito. Elas garantem que quem escreve está consciente do que está fazendo e do que está colocando no mundo.
 
-## Para quem esse curso é e para quem não é
+## Para quem essa trilha é e para quem não é
 
-Ruan encerra com uma posição direta. Se a intenção por trás do texto é manipular, extorquir ou tirar das pessoas o que elas não têm, esse curso não é para quem tem esse objetivo. Ele diz isso sem rodeios: esse conteúdo não foi feito para servir a esse uso.
+Ruan encerra com uma posição direta. Se a intenção por trás do texto é manipular, extorquir ou tirar das pessoas o que elas não têm, essa trilha não é para quem tem esse objetivo. Ele diz isso sem rodeios: esse conteúdo não foi feito para servir a esse uso.
 
-Para quem quer usar o que aprende para ajudar, para fazer diferença, para escrever com responsabilidade, sabendo que cada texto precisa de revisão e que existe uma responsabilidade real naquilo que é publicado, o curso começa agora. O primeiro módulo propriamente dito começa após essa introdução.
+Para quem quer usar o que aprende para ajudar, para fazer diferença, para escrever com responsabilidade, sabendo que cada texto precisa de revisão e que existe uma responsabilidade real naquilo que é publicado, a trilha começa agora. O primeiro módulo propriamente dito começa após essa introdução.
 
 ## Coloque em prática
 

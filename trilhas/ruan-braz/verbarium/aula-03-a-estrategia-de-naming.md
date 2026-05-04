@@ -13,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## Naming como tema estratégico
 
-A aula apresenta naming como um tema complexo, trabalhoso e amplo o suficiente para merecer um curso inteiro. O objetivo de Ruan não é esgotar o assunto, mas mostrar o mínimo necessário para trabalhar com identidade de marca e explicar seu processo criativo.
+A aula apresenta naming como um tema complexo, trabalhoso e amplo o suficiente para merecer uma trilha inteiro. O objetivo de Ruan não é esgotar o assunto, mas mostrar o mínimo necessário para trabalhar com identidade de marca e explicar seu processo criativo.
 
 O naming é tratado em três frentes: identidade, estratégia e criação. Primeiro, a aula mostra por que o nome importa. Depois, mostra como nomes podem virar ativos da marca. Por fim, apresenta caminhos para criar, selecionar e validar nomes.
 

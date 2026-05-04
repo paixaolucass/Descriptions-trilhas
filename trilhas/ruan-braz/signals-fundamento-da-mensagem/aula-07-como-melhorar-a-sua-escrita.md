@@ -71,7 +71,7 @@ O primeiro passo prático para melhorar a escrita é ler e escrever, tornando is
 
 Os benefícios da leitura vão além do conteúdo. Livros não têm sotaque: cada palavra foi selecionada e lapidada, o raciocínio é linear e bem construído. Ler muito faz você passar a falar e escrever de forma mais parecida com o que lê. A leitura desenvolve a plasticidade cerebral, organiza o pensamento, melhora o ritmo da fala e da escrita. Pessoas que pensam de forma acelerada e caótica, sem chegar a conclusões, melhoram a organização do raciocínio com a leitura. Ruan credita parte significativa da qualidade da sua didática à leitura constante. O critério não é quantidade de livros por ano, mas frequência e consistência.
 
-Um exercício específico que Ruan recomenda: copiar textos bons à mão ou no teclado, sem publicar em lugar nenhum. Reescrever um texto que você achou muito bom ensina mais do que apenas lê-lo. Só esse exercício, praticado regularmente, melhoraria a escrita sem precisar de nenhum curso.
+Um exercício específico que Ruan recomenda: copiar textos bons à mão ou no teclado, sem publicar em lugar nenhum. Reescrever um texto que você achou muito bom ensina mais do que apenas lê-lo. Só esse exercício, praticado regularmente, melhoraria a escrita sem precisar de nenhum trilha.
 
 ## A técnica da geração de alternativas
 

@@ -73,7 +73,7 @@ Mateus reconhece que talvez essa não seja a estratégia ideal para todos os obj
 
 Mesmo assim, para quem ainda não tem experiência internacional, ele recomenda esse caminho de longe. A estratégia junta idioma, cultura, confiança, prospecção e localização em uma rota prática.
 
-O curso introdutório fecha essa parte mostrando que a oportunidade fez grande diferença na carreira dele em 2023, e que a intenção é compartilhar essa percepção para que outros designers também consigam começar.
+A trilha introdutória fecha essa parte mostrando que a oportunidade fez grande diferença na carreira dele em 2023, e que a intenção é compartilhar essa percepção para que outros designers também consigam começar.
 
 ## Coloque em prática
 

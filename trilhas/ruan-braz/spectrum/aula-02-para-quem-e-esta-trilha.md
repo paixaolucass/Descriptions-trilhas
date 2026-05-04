@@ -20,13 +20,13 @@ Esses perfis existem porque há públicos muito diferentes que acessam a Overlen
 
 Operantes são as pessoas que hoje são boas em clicar em botões, boas em usar ferramentas e boas em executar tutoriais. Se existe um passo a passo na frente, elas seguem. O problema é que têm dificuldade de ter suas próprias ideias de forma autônoma e de realizá-las sem um guia. Precisam de uma metodologia externa que diga o que fazer, passo a passo.
 
-Este curso começa por esse perfil. Quem está no início, que nunca gerou uma imagem com IA ou que tentou algumas vezes mas não dominou o processo, vai encontrar aqui a base necessária. O percurso vai do básico ao avançado em geração de imagens, com a estrutura que o operante precisa para construir sua própria autonomia ao longo do tempo. O objetivo de quem está nesse nível é sair dele e chegar ao próximo: o de convergente.
+esta trilha começa por esse perfil. Quem está no início, que nunca gerou uma imagem com IA ou que tentou algumas vezes mas não dominou o processo, vai encontrar aqui a base necessária. O percurso vai do básico ao avançado em geração de imagens, com a estrutura que o operante precisa para construir sua própria autonomia ao longo do tempo. O objetivo de quem está nesse nível é sair dele e chegar ao próximo: o de convergente.
 
 ## Convergentes: metodologia própria, porém desatualizada
 
 Convergentes já têm uma noção metodológica de criação. Não importa a área: designer, arquiteto, músico, desenvolvedor. Esse perfil já consegue trabalhar dentro de uma metodologia validada, tem um jeito de fazer as coisas que funciona e que já produziu resultados. O problema é que essas pessoas ainda estão navegando em um mundo que não existe mais.
 
-Estão agindo como se ainda fosse 2020 ou 2021, como se o mercado não tivesse mudado de forma drástica. E o mercado mudou, o contexto mudou, e continua mudando. O curso é muito útil para o convergente porque permite que ele acople tudo que será apresentado sobre IA e geração de imagens dentro das suas próprias metodologias. Não é abandonar o que funcionava, é integrar o que passou a ser indispensável.
+Estão agindo como se ainda fosse 2020 ou 2021, como se o mercado não tivesse mudado de forma drástica. E o mercado mudou, o contexto mudou, e continua mudando. a trilha é muito útil para o convergente porque permite que ele acople tudo que será apresentado sobre IA e geração de imagens dentro das suas próprias metodologias. Não é abandonar o que funcionava, é integrar o que passou a ser indispensável.
 
 ## Emergentes: experimentadores que não ficaram esperando
 
@@ -38,7 +38,7 @@ A diferença entre emergentes e nexialistas não é só de conhecimento técnico
 
 Nexialista é um perfil diferente de jeito de pensar e de conectar as coisas. O que um nexialista aprende é bem diferente dos outros perfis. O foco aqui não está em aprender uma ferramenta ou uma técnica, mas em orquestração, liderança, visão sistêmica, visão crítica, meta-aprendizagem e metacognição. Para quem já acompanha a Overlens há mais tempo, esses conceitos aparecem com frequência. Para quem está chegando agora, eles vão aparecer cada vez mais.
 
-Para nexialistas, o curso também é relevante, mas por uma perspectiva mais ampla: ajuda a mapear o que está acontecendo no mundo com IA visual e a identificar onde e como conectar essas ferramentas dentro dos seus processos. O nexialista vê o curso como mapa, não como receita.
+Para nexialistas, a trilha também é relevante, mas por uma perspectiva mais ampla: ajuda a mapear o que está acontecendo no mundo com IA visual e a identificar onde e como conectar essas ferramentas dentro dos seus processos. O nexialista vê a trilha como mapa, não como receita.
 
 ## Uma informação importante sobre o futuro do processo
 
@@ -46,11 +46,11 @@ Ruan faz questão de deixar claro que tudo que será ensinado ao longo da trilha
 
 Essa informação é dada como orientação de direção, não para desanimar quem está começando. A tendência do mercado é que a complexidade de certos prompts e fluxos vá diminuindo à medida que os agentes se tornam mais capazes. Quem aprende o processo hoje estará posicionado para delegar esse processo amanhã.
 
-## Para quem este curso não é
+## Para quem esta trilha não é
 
-Há um grupo para o qual o curso não foi feito: quem está buscando pílula mágica. Quem acha que toda IA gera imagem igual, que não percebe diferença entre usar IA com processo e usar IA aleatoriamente. Quem ainda desacredita no que a IA pode fazer, o "ateu das IAs". Talvez o curso até mude a visão de alguém nesse perfil, mas o ponto é claro: a Overlens não cultua nem torce pela IA. Reconhece que ela está mudando o mundo e recomenda que todos se atualizem. Esse é o espírito da trilha.
+Há um grupo para o qual a trilha não foi feito: quem está buscando pílula mágica. Quem acha que toda IA gera imagem igual, que não percebe diferença entre usar IA com processo e usar IA aleatoriamente. Quem ainda desacredita no que a IA pode fazer, o "ateu das IAs". Talvez a trilha até mude a visão de alguém nesse perfil, mas o ponto é claro: a Overlens não cultua nem torce pela IA. Reconhece que ela está mudando o mundo e recomenda que todos se atualizem. Esse é o espírito da trilha.
 
-O curso é, acima de tudo, para pessoas que querem se atualizar e se preparar para o futuro, seja qual for o ponto de partida.
+a trilha é, acima de tudo, para pessoas que querem se atualizar e se preparar para o futuro, seja qual for o ponto de partida.
 
 ## Coloque em prática
 

@@ -13,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## Ir além da fronteira
 
-Mateus abre a aula dizendo que o curso começa a ir além da fronteira. A proposta é nomear as barreiras mais comuns do mercado internacional e mostrar que muitas delas são limitações que o próprio designer coloca.
+Mateus abre a aula dizendo que a trilha começa a ir além da fronteira. A proposta é nomear as barreiras mais comuns do mercado internacional e mostrar que muitas delas são limitações que o próprio designer coloca.
 
 Essas barreiras parecem maiores do que realmente são. A aula funciona como uma preparação para os próximos blocos da trilha, em que cada desafio será tratado separadamente.
 

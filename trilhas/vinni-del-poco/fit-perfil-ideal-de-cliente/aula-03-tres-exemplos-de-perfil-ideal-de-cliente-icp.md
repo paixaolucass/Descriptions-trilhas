@@ -31,7 +31,7 @@ O faturamento entre 1 e 2 milhões é relevante porque indica onde o serviço te
 
 ### Necessidade, custo da inação e ambição
 
-O problema estratégico é que a identidade atual não transmite autoridade nem segurança para o público mais exigente. Apesar da qualidade do conteúdo, a marca ainda é percebida como caseira ou amadora. Se nada for feito, o cliente perde alunos potenciais na etapa de visita para matrícula por falta de percepção de valor, tem dificuldade em subir o ticket médio e em fechar parcerias com instituições mais sólidas. Muita gente só enxerga ele como um produtor de curso, e ele quer se transformar em uma empresa de educação.
+O problema estratégico é que a identidade atual não transmite autoridade nem segurança para o público mais exigente. Apesar da qualidade do conteúdo, a marca ainda é percebida como caseira ou amadora. Se nada for feito, o cliente perde alunos potenciais na etapa de visita para matrícula por falta de percepção de valor, tem dificuldade em subir o ticket médio e em fechar parcerias com instituições mais sólidas. Muita gente só enxerga ele como um produtor de trilha, e ele quer se transformar em uma empresa de educação.
 
 A ambição é tornar-se a maior referência nacional em educação financeira para MEIs e pequenos negócios, ser convidado para eventos, fechar parcerias com bancos e órgãos de fomento, e ter uma identidade que inspire confiança e eleve a percepção do negócio como uma escola digital de alto nível.
 

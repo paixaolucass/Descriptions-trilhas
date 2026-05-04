@@ -41,7 +41,7 @@ O que aconteceu depois: Flash e Dreamweaver não existem mais. Parte do tempo in
 
 ### 60% dá para aprender sozinho
 
-Cerca de 60% de qualquer software de design dá para aprender de forma autônoma, sem pagar curso. Esse percentual já é o suficiente para executar o trabalho no dia a dia. Quem quer ir além e se aprofundar mais rápido pode encontrar valor em cursos. Mas a maior parte do essencial é acessível sem eles.
+Cerca de 60% de qualquer software de design dá para aprender de forma autônoma, sem pagar trilha. Esse percentual já é o suficiente para executar o trabalho no dia a dia. Quem quer ir além e se aprofundar mais rápido pode encontrar valor em cursos. Mas a maior parte do essencial é acessível sem eles.
 
 A ressalva que Ruan faz: aprender sozinho não significa aprender só na tentativa e no erro. Significa ter acesso a recursos de qualidade sem precisar pagar por eles, e ele vai mostrar quais são esses recursos.
 
@@ -85,13 +85,13 @@ Ruan cita uma frase atribuída a Leonardo da Vinci: "quem sabe onde está a font
 
 Ruan separa dois perfis: quem vai na fonte e aprende primeiro, e quem espera o conteúdo chegar digerido. Quem vai na fonte desenvolve o raciocínio para chegar ao resultado sozinho. Quem espera a papinha fica sempre um passo atrás e depende de alguém apontar o caminho. Bons professores de qualquer software aprendem o mesmo jeito: abrindo, experimentando e explorando primeiro.
 
-A "fonte" tem dois sentidos aqui. O primeiro é literal: o guia do usuário do software, disponibilizado gratuitamente pela própria empresa que o criou. Ruan demonstra pesquisando "Guia do Usuário do Photoshop" e "Guia do Usuário do Illustrator" e mostrando apostilas completas com todos os recursos do software. O segundo sentido é a postura: abrir a ferramenta, experimentar primeiro, antes de buscar tutorial ou curso.
+A "fonte" tem dois sentidos aqui. O primeiro é literal: o guia do usuário do software, disponibilizado gratuitamente pela própria empresa que o criou. Ruan demonstra pesquisando "Guia do Usuário do Photoshop" e "Guia do Usuário do Illustrator" e mostrando apostilas completas com todos os recursos do software. O segundo sentido é a postura: abrir a ferramenta, experimentar primeiro, antes de buscar tutorial ou trilha.
 
 ## Por que professores aprendem mais
 
 Ruan apresenta uma tese: professores aprendem mais porque precisam mapear o próprio conhecimento antes de ensinar. Qualquer pessoa que diz que sabe como funciona um determinado assunto passa por um teste simples quando alguém pede que explique. Se consegue organizar e estruturar a informação para outra pessoa, de fato compreendeu. Se decora a fala, funciona como papagaio por algum tempo, mas dá branco na primeira pergunta que não estava no roteiro.
 
-A implicação prática para aprender software: Ruan conta que desde 2016, quando teve uma aula optativa sobre IA na faculdade, ficava de olho em tendências antes delas explodirem para o público. Estava monitorando o DALL-E desde 2021 e o Midjourney desde 2022. Quando a maioria das pessoas começou a testar, ele já estava em um nível mais avançado. Quem adota primeiro desenvolve o raciocínio para fazer coisas que os outros ainda nem conceberam. E esse processo começa com a postura de experimentar antes de esperar um curso.
+A implicação prática para aprender software: Ruan conta que desde 2016, quando teve uma aula optativa sobre IA na faculdade, ficava de olho em tendências antes delas explodirem para o público. Estava monitorando o DALL-E desde 2021 e o Midjourney desde 2022. Quando a maioria das pessoas começou a testar, ele já estava em um nível mais avançado. Quem adota primeiro desenvolve o raciocínio para fazer coisas que os outros ainda nem conceberam. E esse processo começa com a postura de experimentar antes de esperar uma trilha.
 
 ## O ciclo de aprendizagem em quatro etapas
 

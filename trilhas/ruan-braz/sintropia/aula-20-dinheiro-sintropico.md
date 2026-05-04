@@ -49,7 +49,7 @@ Depois das entradas, o aluno deve olhar para conta, reserva e investimentos.
 
 A reserva precisa ser líquida e protegida da impulsividade. Mesmo sete dias de reserva já são melhores do que zero. O papel inicial da reserva é dar segurança e reduzir desespero, não enriquecer rapidamente.
 
-Investimentos precisam ser compreendidos de forma ampla. Um emprego não é investimento. Mas um curso, o Bootcamp, matéria-prima para revenda, um software necessário para freelas ou uma ferramenta que permite gerar dinheiro podem ser investimentos ou custos.
+Investimentos precisam ser compreendidos de forma ampla. Um emprego não é investimento. Mas uma trilha, o Bootcamp, matéria-prima para revenda, um software necessário para freelas ou uma ferramenta que permite gerar dinheiro podem ser investimentos ou custos.
 
 O critério é função: isso aumenta a capacidade de produzir valor?
 

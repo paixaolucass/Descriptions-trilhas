@@ -21,11 +21,11 @@ Esse contexto reforça que os cases a seguir não são ficção científica. O q
 
 ## Case 1 - Carlos, professor de inglês que queria vender na Hotmart
 
-Carlos tinha um objetivo claro: lançar um curso online e gerar renda passiva. O problema estava no processo de produção. Ele travava na hora de gravar porque não tinha uma câmera boa, sentia timidez na frente da lente e levava horas para editar um vídeo de apenas cinco minutos. O custo de tempo e desconforto tornava o projeto inviável.
+Carlos tinha um objetivo claro: lançar uma trilha online e gerar renda passiva. O problema estava no processo de produção. Ele travava na hora de gravar porque não tinha uma câmera boa, sentia timidez na frente da lente e levava horas para editar um vídeo de apenas cinco minutos. O custo de tempo e desconforto tornava o projeto inviável.
 
 A solução que Carlos adotou foi contratar uma plataforma de criação de avatar. Ruan cita duas opções existentes no mercado: Synthesia e HeyGen. O processo funcionou assim: Carlos escreveu os roteiros das aulas e usou um avatar realista gerado pela plataforma para apresentar o conteúdo no lugar dele. Além disso, ele usou IA para traduzir instantaneamente pequenos vídeos com a voz dele, sincronizando o áudio em outro idioma sem precisar regravar.
 
-O resultado: Carlos levou três semanas para concluir o curso. Gastou zero reais com equipamento. Manteve 100% da agenda de aulas presenciais sem conflito. E realizou duas vendas do produto ao lançar. São dados fictícios no contexto da aula, mas Ruan deixa claro que representam possibilidades reais, não hipóteses. E menciona que a Overlens vai ter uma trilha inteira específica para criação de persona sintética, chamada Synthetic, que aprofunda exatamente esse processo.
+O resultado: Carlos levou três semanas para concluir a trilha. Gastou zero reais com equipamento. Manteve 100% da agenda de aulas presenciais sem conflito. E realizou duas vendas do produto ao lançar. São dados fictícios no contexto da aula, mas Ruan deixa claro que representam possibilidades reais, não hipóteses. E menciona que a Overlens vai ter uma trilha inteira específica para criação de persona sintética, chamada Synthetic, que aprofunda exatamente esse processo.
 
 ## Case 2 - Mariana, dona de boutique que precisava de Reels diários
 

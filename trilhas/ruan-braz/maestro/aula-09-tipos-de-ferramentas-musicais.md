@@ -36,7 +36,7 @@ Ruan gera uma música dentro do Producer AI ao vivo usando um prompt pronto, ape
 
 Ruan dedica o maior tempo da aula ao Suno porque é sua ferramenta favorita e a recomendação principal da trilha. O Suno, no plano gratuito, já permite criar músicas e fazer downloads básicos. No plano pago (que Ruan menciona como sendo em torno de 150 reais por mês), o Suno Studio libera um ambiente de produção com capacidades avançadas.
 
-Ruan abre o Suno Studio ao vivo e demonstra as funcionalidades que justificam o investimento no plano pago. A mais importante é a capacidade de fazer upload de uma faixa existente e trabalhar em cima dela diretamente no ambiente do Suno. Ruan carrega uma das músicas criadas por ele no início do curso para demonstrar.
+Ruan abre o Suno Studio ao vivo e demonstra as funcionalidades que justificam o investimento no plano pago. A mais importante é a capacidade de fazer upload de uma faixa existente e trabalhar em cima dela diretamente no ambiente do Suno. Ruan carrega uma das músicas criadas por ele no início da trilha para demonstrar.
 
 O segundo recurso demonstrado ao vivo é a separação de stems. A partir de qualquer faixa carregada no Suno Studio, o produtor pode pedir a extração de todos os stems detectados automaticamente. No exemplo demonstrado, o Suno identifica e separa: vocal principal, back vocal (vocais secundários), baterias e percussões, baixo, guitarra, teclado, percussão adicional, instrumentos de corda, sintetizadores, efeitos sonoros e outros elementos de baixo. Cada um desses elementos vai para uma faixa separada dentro do ambiente.
 

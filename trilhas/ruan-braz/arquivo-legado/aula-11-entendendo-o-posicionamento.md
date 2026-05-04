@@ -15,7 +15,7 @@ Ao final desta aula, você será capaz de:
 
 A aula inicia o módulo de demanda retomando o que foi construído em persona. Depois de trabalhar imagem, postura e sinais pessoais, chega o momento de olhar para o mercado, para os problemas do cliente e para a forma como o designer escolhe ocupar espaço.
 
-Ruan reforça que posicionamento é uma palavra central do curso. Ela influencia preço, proposta, cliente atraído, textos do site, conteúdo publicado e abordagem comercial. Por isso, a aula cria a base para todas as próximas decisões.
+Ruan reforça que posicionamento é uma palavra central da trilha. Ela influencia preço, proposta, cliente atraído, textos do site, conteúdo publicado e abordagem comercial. Por isso, a aula cria a base para todas as próximas decisões.
 
 ## Oferta, procura e problema do cliente
 

@@ -21,7 +21,7 @@ O objetivo não é apenas acessar mais um canal de comunicação. A proposta é 
 
 ## A rede de exploradores
 
-A rede de exploradores é o espaço em que os alunos podem fazer networking, trocar dúvidas sobre o curso e conversar sobre mercado internacional.
+A rede de exploradores é o espaço em que os alunos podem fazer networking, trocar dúvidas sobre a trilha e conversar sobre mercado internacional.
 
 Mateus reforça que o link estará disponível na descrição da plataforma da Overlens. Ao entrar, o aluno já pode iniciar uma troca de ideias, enviar dúvidas sobre as aulas ou perguntar sobre qualquer ponto relacionado a clientes internacionais.
 

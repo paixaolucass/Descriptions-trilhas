@@ -51,11 +51,11 @@ O princípio central de harmonização é o contraste. Uma paleta funciona quand
 
 Ruan apresentou o Adobe Color como uma ferramenta gratuita para auxiliar na criação de paletas. Ela é acessível pelo Google buscando "Adobe Color roda de cores".
 
-Dentro da ferramenta, a seção de harmonia de cores oferece diferentes modelos de combinação: monocromático, tríade, complementar, dividir e complementar, quadrado, composto e sombra. Cada um desses modelos tem uma lógica própria, desenvolvida a partir da teoria de cores da Bauhaus, a primeira escola de design. Esse sistema foi criado por um dos professores da Bauhaus com base em formas geométricas e será explicado em profundidade em aulas futuras do curso.
+Dentro da ferramenta, a seção de harmonia de cores oferece diferentes modelos de combinação: monocromático, tríade, complementar, dividir e complementar, quadrado, composto e sombra. Cada um desses modelos tem uma lógica própria, desenvolvida a partir da teoria de cores da Bauhaus, a primeira escola de design. Esse sistema foi criado por um dos professores da Bauhaus com base em formas geométricas e será explicado em profundidade em aulas futuras da trilha.
 
 Para quem ainda não tem fluência com esses modelos, Ruan indica a seção "Explorar" do Adobe Color. Nela, é possível pesquisar por uma matiz principal, como "orange", e encontrar paletas prontas criadas por outros designers. Essas paletas já foram construídas com atenção ao contraste, o que as torna um ponto de partida seguro para quem está começando.
 
-Ruan reforça que, nessa fase do curso, as referências visuais são mais úteis do que a teoria. Buscar paletas usadas por outros designers e observar como elas equilibram cores claras e escuras é o caminho mais eficiente para desenvolver o senso cromático antes de aprender a lógica por trás das harmonias.
+Ruan reforça que, nessa fase da trilha, as referências visuais são mais úteis do que a teoria. Buscar paletas usadas por outros designers e observar como elas equilibram cores claras e escuras é o caminho mais eficiente para desenvolver o senso cromático antes de aprender a lógica por trás das harmonias.
 
 ## Coloque em prática
 

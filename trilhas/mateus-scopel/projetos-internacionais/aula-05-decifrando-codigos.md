@@ -89,7 +89,7 @@ Mateus mostra o ChatGPT como ferramenta para escrever propostas, mensagens e tex
 
 Mesmo com um prompt simples, a ferramenta gera estrutura com saudação, entregáveis, timeline, disponibilidade e tradução. Mateus ressalta que prompts melhores geram resultados melhores e indica as aulas de engenharia de prompt da Overlens para aprofundar.
 
-O ChatGPT também pode ajudar quem não sabe inglês a estruturar um curso básico ou intermediário, ou a aprender termos principais de design e negócios para conversar com clientes americanos ou europeus.
+O ChatGPT também pode ajudar quem não sabe inglês a estruturar uma trilha básica ou intermediário, ou a aprender termos principais de design e negócios para conversar com clientes americanos ou europeus.
 
 ## Quando o inglês é muito básico
 

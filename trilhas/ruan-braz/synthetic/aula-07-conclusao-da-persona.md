@@ -18,7 +18,7 @@ A persona de texto serve para validar ofertas, testar objeções e treinar comun
 
 ## Colocando personas dentro de sistemas próprios
 
-Ruan aponta para o próximo passo além das plataformas demonstradas no curso: integrar personas sintéticas em sistemas proprietários. Ao invés de usar o Character.ai ou o Runway como interfaces de terceiros, é possível construir a própria infraestrutura conectando modelos de linguagem a recursos de Text-to-Speech, que converte texto em fala, e Speech-to-Text, que converte fala em texto.
+Ruan aponta para o próximo passo além das plataformas demonstradas na trilha: integrar personas sintéticas em sistemas proprietários. Ao invés de usar o Character.ai ou o Runway como interfaces de terceiros, é possível construir a própria infraestrutura conectando modelos de linguagem a recursos de Text-to-Speech, que converte texto em fala, e Speech-to-Text, que converte fala em texto.
 
 Esses dois recursos, integrados a um modelo generativo como Claude, Gemini ou GPT via API, permitem criar um agente conversável que vive dentro dos sistemas da própria empresa, não dentro de uma plataforma externa que pode mudar preços, desativar funcionalidades ou reter os dados.
 
@@ -26,7 +26,7 @@ Ruan menciona que Claude Code, Codex e Gemini Code são caminhos viáveis para q
 
 ## A velocidade de evolução das ferramentas
 
-Uma advertência direta encerra a aula: as ferramentas mudam rápido. O que foi demonstrado no curso pode ter evoluído significativamente quando o aluno estiver assistindo. O HeyGen pode ter novos recursos. O Runway pode ter mudado de interface. O Character.ai pode ter sido atualizado.
+Uma advertência direta encerra a aula: as ferramentas mudam rápido. O que foi demonstrado na trilha pode ter evoluído significativamente quando o aluno estiver assistindo. O HeyGen pode ter novos recursos. O Runway pode ter mudado de interface. O Character.ai pode ter sido atualizado.
 
 O que não muda é o princípio: persona bem documentada produz agente sintético coerente. Ferramenta muda. Método de construção de persona permanece. Quem interpretou como montar a ficha, preencher o mapa de empatia e estruturar as instruções vai conseguir usar qualquer ferramenta nova que surgir porque interpreta o que ela precisa receber para funcionar.
 
@@ -38,4 +38,4 @@ Cada ferramenta tem versão gratuita com limitações e versão paga com maior q
 
 ## Coloque em prática
 
-Defina um caso de uso real para personas sintéticas no seu projeto ou empresa. Qual recorte de público seria mais útil ter como persona sintética agora? Para validar uma oferta nova, para treinar equipe de vendas, para criar conteúdo educacional, para simular conversas de atendimento? Com o caso de uso definido, volte à aula 2 e construa a ficha completa dessa persona. Use as ferramentas apresentadas no curso para dar vida a ela, começando pelo texto e avançando para voz ou vídeo conforme o caso exigir.
+Defina um caso de uso real para personas sintéticas no seu projeto ou empresa. Qual recorte de público seria mais útil ter como persona sintética agora? Para validar uma oferta nova, para treinar equipe de vendas, para criar conteúdo educacional, para simular conversas de atendimento? Com o caso de uso definido, volte à aula 2 e construa a ficha completa dessa persona. Use as ferramentas apresentadas na trilha para dar vida a ela, começando pelo texto e avançando para voz ou vídeo conforme o caso exigir.

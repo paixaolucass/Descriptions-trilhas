@@ -1,4 +1,4 @@
-# Objetivo e filosofia do curso
+# Objetivo e filosofia da trilha
 
 **Tempo estimado de leitura:** 3 minutos
 
@@ -8,24 +8,24 @@ Ao final desta aula, você será capaz de:
 
 - identificar o objetivo central do curso de Posicionamento e Conquista
 - reconhecer a diferença entre construir uma marca e apenas buscar clientes isolados
-- distinguir os três pilares do curso: persona, demanda e ambiente
+- distinguir os três pilares da trilha: persona, demanda e ambiente
 - aplicar a filosofia de ser boa notícia no dia das pessoas
 
 ## Construir a infraestrutura da marca
 
-Ruan apresenta o curso como um processo de construção da marca no mercado criativo. O objetivo não é apenas ensinar ações soltas para conseguir clientes, mas criar a infraestrutura da marca desde a concepção até a entrega, ajudando o designer a se enxergar, agir e se posicionar como profissional.
+Ruan apresenta a trilha como um processo de construção da marca no mercado criativo. O objetivo não é apenas ensinar ações soltas para conseguir clientes, mas criar a infraestrutura da marca desde a concepção até a entrega, ajudando o designer a se enxergar, agir e se posicionar como profissional.
 
 A metáfora da transformação aparece logo no início: sair do amadorismo de imagem, postura e atitude para se tornar alguém desejado pelo mercado. Essa mudança não acontece em uma aula isolada. Por isso, o professor reforça que cada exercício deve ser feito no momento em que aparece, antes de avançar para o próximo conteúdo.
 
 ## A raiz antes dos galhos
 
-O curso usa a imagem da árvore para explicar a ordem da construção. Antes de falar das folhas, dos galhos ou do tronco, é preciso cuidar da raiz que sustenta o negócio. Por isso, a trilha passa por temas que parecem administrativos, como CNPJ, mas que fazem parte da base profissional.
+a trilha usa a imagem da árvore para explicar a ordem da construção. Antes de falar das folhas, dos galhos ou do tronco, é preciso cuidar da raiz que sustenta o negócio. Por isso, a trilha passa por temas que parecem administrativos, como CNPJ, mas que fazem parte da base profissional.
 
 Essa infraestrutura inclui mentalidade, autopercepção, posicionamento, pontos de contato e estrutura de entrega. A escolha da palavra marca, e não apenas negócio, mostra que o foco é criar uma presença capaz de sustentar uma estratégia comercial e conquistar melhores clientes.
 
 ## Ser a boa notícia no dia das pessoas
 
-A filosofia central do curso é ser a boa notícia no dia das pessoas. Ruan explica que muitos designers sentem dificuldade em vender porque associam venda a uma postura inconveniente, insistente ou artificial. A proposta do curso é mostrar que não é necessário deixar de ser designer para vender design.
+A filosofia central da trilha é ser a boa notícia no dia das pessoas. Ruan explica que muitos designers sentem dificuldade em vender porque associam venda a uma postura inconveniente, insistente ou artificial. A proposta da trilha é mostrar que não é necessário deixar de ser designer para vender design.
 
 Ser boa notícia significa aparecer como solução em um dia cheio de problemas. O cliente não quer mais ruído, mais oferta genérica ou mais uma promessa desconectada da realidade. Ele quer alguém que reconheça o problema, saiba resolver e transmita confiança para assumir essa responsabilidade.
 

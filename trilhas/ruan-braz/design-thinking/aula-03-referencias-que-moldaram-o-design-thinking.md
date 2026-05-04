@@ -80,4 +80,4 @@ Ruan menciona de passagem o Triple Diamond como variação existente, mas deixa 
 
 - Acesse o site da Creative Commons (creativecommons.org) e identifique qual licença está associada a uma ferramenta que você já utiliza
 - Baixe o Business Model Canvas na Strategizer e verifique os ícones de licença na parte inferior do arquivo
-- Explore o site da IDEO U e identifique ao menos um curso gratuito de Design Thinking disponível
+- Explore o site da IDEO U e identifique ao menos uma trilha gratuito de Design Thinking disponível

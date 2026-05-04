@@ -40,7 +40,7 @@ Para personas fictícias, o ponto de partida não é um vídeo, é uma imagem. R
 
 Ruan explica o que existe além da versão gratuita: AI Tools para geração de roteiro com IA dentro da própria plataforma, Motion Director para adicionar gestos ao avatar como levantar os braços ou dar um joinha, Media para upload de arquivos, remoção e troca de fundo, adição de textos animados, músicas e legendas, além de gravação de tela.
 
-O recurso Layout permite montar videoaulas com o avatar em um canto da tela e a apresentação no restante, funcionando como o formato de curso que a maioria das plataformas de educação utiliza. Existem templates prontos para diferentes contextos, incluindo educação.
+O recurso Layout permite montar videoaulas com o avatar em um canto da tela e a apresentação no restante, funcionando como o formato de trilha que a maioria das plataformas de educação utiliza. Existem templates prontos para diferentes contextos, incluindo educação.
 
 O Brand System dentro do HeyGen, equivalente a um guia de estilos, permite ajustar cores e tipografia para manter coerência visual entre os vídeos.
 

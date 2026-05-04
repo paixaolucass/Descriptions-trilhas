@@ -35,9 +35,9 @@ A resposta para "como alguém que não trabalha na área consegue fazer coisas t
 
 ## A demonstração antes da teoria
 
-Para contextualizar o que é possível e reduzir a ansiedade de quem quer ver resultado prático antes de entrar nos fundamentos, o instrutor faz uma demonstração de criações que produziu com o Suno, uma das ferramentas que serão exploradas ao longo da trilha. O convite é direto: se você quiser, já pode criar uma conta agora e começar a explorar enquanto o curso avança.
+Para contextualizar o que é possível e reduzir a ansiedade de quem quer ver resultado prático antes de entrar nos fundamentos, o instrutor faz uma demonstração de criações que produziu com o Suno, uma das ferramentas que serão exploradas ao longo da trilha. O convite é direto: se você quiser, já pode criar uma conta agora e começar a explorar enquanto a trilha avança.
 
-Essa demonstração serve como ponto de ancoragem. O aluno vê para onde o curso está indo antes de percorrer o caminho. Mas o instrutor deixa claro que essa parte não é o foco. O que realmente importa vem depois.
+Essa demonstração serve como ponto de ancoragem. O aluno vê para onde a trilha está indo antes de percorrer o caminho. Mas o instrutor deixa claro que essa parte não é o foco. O que realmente importa vem depois.
 
 ## O diferencial que vai te separar dos outros
 

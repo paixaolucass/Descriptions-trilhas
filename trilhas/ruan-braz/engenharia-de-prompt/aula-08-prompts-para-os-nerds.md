@@ -10,11 +10,11 @@ Ao final desta aula, você será capaz de:
 - Aplicar o método de meta-prompt para usar a própria IA como instrumento de pesquisa sobre engenharia de prompt
 - Distinguir as técnicas avançadas do Prompting Guide - de RAG a Automatic Prompt Engineer - e reconhecer em quais contextos cada uma se aplica
 - Reconhecer o papel da curadoria e da auditoria como habilidades mais importantes do que o acúmulo de informação bruta
-- Estruturar uma abordagem de pesquisa contínua e autônoma para acompanhar o campo de engenharia de prompt sem depender de um único curso ou instrutor
+- Estruturar uma abordagem de pesquisa contínua e autônoma para acompanhar o campo de engenharia de prompt sem depender de um único trilha ou instrutor
 - Executar o processo de leitura de papers acadêmicos com o suporte de ferramentas como o NotebookLM, eliminando a barreira do idioma e da densidade técnica
 ## Para quem é essa aula - e para quem não é
 
-Ruan Ruan começa com uma advertência que é ao mesmo tempo um critério de seleção e um convite. Essa aula não é para iniciantes. É para quem já passou pelas aulas anteriores do curso e assimilou o vocabulário central: zero shot, few shot, chain of thought, tree of thought, jailbreaking, prompt injection, storytelling, roleplay, a metáfora da biblioteca e do guardião das ideias, a importância do vocabulário como interface com o modelo.
+Ruan Ruan começa com uma advertência que é ao mesmo tempo um critério de seleção e um convite. Essa aula não é para iniciantes. É para quem já passou pelas aulas anteriores da trilha e assimilou o vocabulário central: zero shot, few shot, chain of thought, tree of thought, jailbreaking, prompt injection, storytelling, roleplay, a metáfora da biblioteca e do guardião das ideias, a importância do vocabulário como interface com o modelo.
 
 Se você ainda não sabe o que são esses conceitos, Ruan recomenda que veja as aulas anteriores primeiro. Não como pré-requisito burocrático, mas porque o que vem a seguir pressupõe que esse chão já está firme.
 
@@ -23,11 +23,11 @@ Para quem está pronto: essa é a pílula vermelha. A toca do coelho. O mergulho
 O aviso sobre a densidade do conteúdo também é explícito. Isso não é o "vomitinho" - o conteúdo mastigado e digerido que a maioria dos cursos entrega. É a pedra bruta. A referência que vai exigir que você mastige por conta própria. E Ruan celebra isso. Ele pira nesse assunto e quer que você pire junto.
 ## A bíblia da engenharia de prompt: Prompting Guide
 
-O ponto de partida da aula é um site chamado Prompting Guide (promptingguide.ai). Ruan o descreve como a maior e mais organizada referência pública sobre engenharia de prompt disponível na internet - e confirma que foi ali que ele aprendeu boa parte do que ensina no curso.
+O ponto de partida da aula é um site chamado Prompting Guide (promptingguide.ai). Ruan o descreve como a maior e mais organizada referência pública sobre engenharia de prompt disponível na internet - e confirma que foi ali que ele aprendeu boa parte do que ensina na trilha.
 
 A versão em português do site existe, mas tem menos conteúdo do que a versão em inglês. A recomendação é acessar em inglês e usar o navegador para traduzir quando necessário. A versão em inglês inclui vídeos explicativos em algumas seções, e isso faz diferença.
 
-O site organiza o conteúdo em camadas de complexidade crescente. As técnicas que já foram apresentadas nas aulas anteriores do curso estão documentadas ali com exemplos, referências e, em alguns casos, código para implementação via API. Mas o Prompting Guide vai além.
+O site organiza o conteúdo em camadas de complexidade crescente. As técnicas que já foram apresentadas nas aulas anteriores da trilha estão documentadas ali com exemplos, referências e, em alguns casos, código para implementação via API. Mas o Prompting Guide vai além.
 
 **As técnicas que o site cobre além do básico:**
 
@@ -72,7 +72,7 @@ A ideia: usar a própria IA, com as técnicas que você já domina, para descobr
 
 O prompt que Ruan construiu e rodou antes da aula para demonstrar o método:
 
-"Quero criar a aula mais completa que já vi sobre engenharia de prompt, dividida em tópicos que vão se tornar aulas separadas para um curso. Preciso da sua ajuda para buscar na internet, no mundo inteiro, os melhores manuais de engenharia de prompt, as melhores aulas e os principais tipos de prompt, além de zero shot, few shot, chain of thought e tree of thought. Me conte quais são os principais segredos sobre engenharia de prompt. Faça a pesquisa em inglês para encontrar resultados mais sólidos. O curso é do básico ao avançado, mas vai durar apenas duas horas e meia. Quero cobrir as principais técnicas, os principais fundamentos, os principais conceitos, mas não quero ficar no raso. Quero que busque para mim as pérolas. Vamos focar em LLMs e na lógica de engenharia de prompt. Pode trazer papers acadêmicos, artigos e também guias práticos com exemplos práticos, curiosos e até divertidos do que é possível fazer hoje com LLMs. Pode trazer os repositórios e comunidades populares e underground também."
+"Quero criar a aula mais completa que já vi sobre engenharia de prompt, dividida em tópicos que vão se tornar aulas separadas para uma trilha. Preciso da sua ajuda para buscar na internet, no mundo inteiro, os melhores manuais de engenharia de prompt, as melhores aulas e os principais tipos de prompt, além de zero shot, few shot, chain of thought e tree of thought. Me conte quais são os principais segredos sobre engenharia de prompt. Faça a pesquisa em inglês para encontrar resultados mais sólidos. A trilha é do básico ao avançado, mas vai durar apenas duas horas e meia. Quero cobrir as principais técnicas, os principais fundamentos, os principais conceitos, mas não quero ficar no raso. Quero que busque para mim as pérolas. Vamos focar em LLMs e na lógica de engenharia de prompt. Pode trazer papers acadêmicos, artigos e também guias práticos com exemplos práticos, curiosos e até divertidos do que é possível fazer hoje com LLMs. Pode trazer os repositórios e comunidades populares e underground também."
 
 Esse prompt foi rodado com o modo de pesquisa profunda ativado. No ChatGPT, o investigar ficou pensando por 14 minutos. No Grok, na primeira tentativa, ficou pensando por 60 minutos e travou. Na segunda tentativa, pensou por 1 minuto e 57 segundos e entregou 105 fontes.
 
@@ -125,7 +125,7 @@ Essa é a habilidade de auditoria: avaliação rápida do que vale e do que não
 E junto com ela vem a curadoria: depois de auditar, selecionar o que vai entrar no seu repertório ativo. Quais técnicas você vai incorporar ao seu fluxo de trabalho? Quais papers você vai ler agora, quais você vai deixar no NotebookLM para consultar quando precisar?
 
 A diferença entre alguém que está sobrecarregado de informação e alguém que está crescendo de forma consistente está nessa combinação. Não na quantidade de material consumido, mas na qualidade das escolhas feitas sobre o que consumir.
-## Independência intelectual: o objetivo real do curso
+## Independência intelectual: o objetivo real da trilha
 
 Ruan coloca essa aula em perspectiva com uma declaração que resume o espírito de toda a trilha de engenharia de prompt.
 
@@ -140,7 +140,7 @@ Isso é o que ele chama de independência intelectual. Não depender de que algu
 A Overlens, como ele descreve, é uma escola para designers nexialistas. Nexialista é aquele que sabe estabelecer conexões entre disciplinas, que não fica preso em silos de conhecimento, que vê o nexo entre a engenharia de prompt, o design de produto, a estratégia criativa e a construção de marca. Essa aula é um convite para operar nesse nível.
 ## O campo está em movimento: você precisa acompanhar
 
-Uma das mensagens mais importantes da aula é uma que nenhum curso pode resolver sozinho: o campo de engenharia de prompt está mudando o tempo inteiro.
+Uma das mensagens mais importantes da aula é uma que nenhum trilha pode resolver sozinho: o campo de engenharia de prompt está mudando o tempo inteiro.
 
 A IA é uma caixa preta. Ninguém - nem as empresas que criaram os modelos - sabe exatamente o que acontece dentro deles. Pesquisas novas surgem toda semana. Técnicas que funcionavam antes deixam de funcionar. Filtros que bloqueavam certas abordagens são atualizados. Novas arquiteturas mudam o comportamento dos modelos de formas inesperadas.
 

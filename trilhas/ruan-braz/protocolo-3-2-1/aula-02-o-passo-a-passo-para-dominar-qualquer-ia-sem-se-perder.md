@@ -19,7 +19,7 @@ Ruan compartilha que, com mais de 6 anos de experiência em docência, a habilid
 
 ## O problema de aprender ferramentas em vez de fundamentos
 
-A maioria das pessoas comporta-se como um peixe tentando navegar em um ambiente escuro e fechado: aprende dentro do próprio limite de visão, sem saber o que está fora do alcance. O resultado disso é gastar tempo e dinheiro aprendendo ferramentas que são atualizadas toda semana. Um curso comprado hoje pode se tornar obsoleto no mês seguinte, quando a ferramenta ficou mais simples.
+A maioria das pessoas comporta-se como um peixe tentando navegar em um ambiente escuro e fechado: aprende dentro do próprio limite de visão, sem saber o que está fora do alcance. O resultado disso é gastar tempo e dinheiro aprendendo ferramentas que são atualizadas toda semana. Uma trilha comprado hoje pode se tornar obsoleto no mês seguinte, quando a ferramenta ficou mais simples.
 
 Um exemplo que Ruan usa é o do profissional que passou anos dominando o Photoshop: aprendeu a recortar cabelos, trocar iluminação, operar cada botão. Essa pessoa ficou boa em uma tarefa operacional. Quando a IA chegou e passou a entregar o mesmo resultado com palavras escritas, esse conhecimento perdeu valor. Em um mundo onde o "como" fica cada dia mais fácil e acessível, o mais importante passa a ser o "por que" e o "para que": por que você vai aprender isso e o que vai fazer com isso no final.
 

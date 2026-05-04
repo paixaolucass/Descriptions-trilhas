@@ -55,7 +55,7 @@ Se a pessoa não tem clientes antigos, pode pedir para alguém com quem trabalho
 
 Além dos depoimentos, Mateus mostra a área de certificações. O aluno pode adicionar certificados oficiais da lista ou certificados customizados.
 
-Ele cita como exemplo adicionar um certificado de curso, como um curso da Overlens, preenchendo nome, instituição, descrição e outras informações.
+Ele cita como exemplo adicionar um certificado de trilha, como uma trilha da Overlens, preenchendo nome, instituição, descrição e outras informações.
 
 A recomendação é usar palavras-chave também nessa área, porque elas ajudam a reforçar o posicionamento.
 

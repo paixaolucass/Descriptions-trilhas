@@ -13,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## O marco zero: tudo começa em você
 
-Ruan abre a aula com uma declaração direta: se você não olhar com a devida atenção para o que será apresentado aqui, todo o restante do curso poderá ser comprometido. Ele avisa que o conteúdo pode ser facilmente enquadrado como autoajuda ou papo de coach, mas pede que o aluno coloque esses rótulos de lado. O que está em jogo é prático: identidade e autoconhecimento determinam o tipo de resultado que você tem como designer.
+Ruan abre a aula com uma declaração direta: se você não olhar com a devida atenção para o que será apresentado aqui, todo o restante da trilha poderá ser comprometido. Ele avisa que o conteúdo pode ser facilmente enquadrado como autoajuda ou papo de coach, mas pede que o aluno coloque esses rótulos de lado. O que está em jogo é prático: identidade e autoconhecimento determinam o tipo de resultado que você tem como designer.
 
 O primeiro conceito é o marco zero. Tudo começa em você. Ruan adapta a frase popular: não acredita que ninguém colhe só o que planta. Você colhe o que ninguém arrancou, o que os pássaros não comeram, o que o tempo não destruiu. Existem adversidades reais, o mundo é imprevisível e muitas vezes injusto. Isso não muda o fato de que a única coisa que você controla é você mesmo: a maneira como você reage ao que acontece, as escolhas que faz, os hábitos que constrói.
 

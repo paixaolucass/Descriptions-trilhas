@@ -40,7 +40,7 @@ Isso não é coincidência. É o modelo de linguagem por trás do personagem res
 
 ## Ética e limites de uso
 
-Ruan é direto sobre os limites éticos. Personas sintéticas com voz e, mais adiante no curso, com vídeo, podem ser usadas para criar deepfakes, que são representações falsas de pessoas reais sem autorização. Ferramentas sérias como o HeyGen, apresentado na próxima aula, exigem autenticação em vídeo para criar avatares de pessoas reais, pedindo que o usuário grave a si mesmo falando um código específico para comprovar identidade.
+Ruan é direto sobre os limites éticos. Personas sintéticas com voz e, mais adiante na trilha, com vídeo, podem ser usadas para criar deepfakes, que são representações falsas de pessoas reais sem autorização. Ferramentas sérias como o HeyGen, apresentado na próxima aula, exigem autenticação em vídeo para criar avatares de pessoas reais, pedindo que o usuário grave a si mesmo falando um código específico para comprovar identidade.
 
 O uso ético de personas sintéticas fica dentro dos limites de: criar personagens fictícios para fins de validação, teste e educação, ou criar representações de si mesmo com consentimento explícito. Usar a tecnologia para se passar por outra pessoa sem autorização é crime.
 

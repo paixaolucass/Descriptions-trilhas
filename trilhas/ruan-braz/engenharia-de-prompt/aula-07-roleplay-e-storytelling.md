@@ -21,16 +21,16 @@ Quando você delega as decisões para a IA, ela decide por você. E cada vez mai
 O que essa aula ensina é o oposto. É sair das grades. É aprender a entrar em portas da biblioteca que a maioria dos usuários nem sabe que existem. E a primeira ferramenta para fazer isso se chama roleplay, ou, em um contexto mais amplo, storytelling.
 ## O que é roleplay no contexto de engenharia de prompt
 
-Roleplay, no vocabulário de engenharia de prompt, é a técnica de instruir a IA a assumir um personagem, uma identidade ou uma situação fictícia antes de receber o pedido real. O exemplo mais simples que o curso apresenta: "imagine que você é um pirata e explique como navegar pelas estrelas." Esse prompt parece inocente, mas já usa a lógica central da técnica - ao colocar a IA dentro de um personagem, o usuário muda o ponto de partida do processamento.
+Roleplay, no vocabulário de engenharia de prompt, é a técnica de instruir a IA a assumir um personagem, uma identidade ou uma situação fictícia antes de receber o pedido real. O exemplo mais simples que a trilha apresenta: "imagine que você é um pirata e explique como navegar pelas estrelas." Esse prompt parece inocente, mas já usa a lógica central da técnica - ao colocar a IA dentro de um personagem, o usuário muda o ponto de partida do processamento.
 
 A IA não processa a informação de um ponto neutro. Ela processa a partir do contexto que você criou. Quando você coloca um personagem na conversa, você está redirecionando qual parte do modelo vai ser ativada para gerar a resposta. É como dizer para um ator: "agora você é esse personagem, e esse personagem sabe essas coisas." O ator muda de postura, de voz, de repertório.
 
-Existe uma versão básica de roleplay que já foi apresentada em aulas anteriores do curso: pedir para a IA simular uma conversa em um time de naming usando um pouco de tree of thoughts. Isso já é roleplay. Mas a aula sete vai fundo em versões mais estratégicas da técnica, incluindo seu uso para contornar limitações que os modelos impõem por questões de política ou treinamento.
+Existe uma versão básica de roleplay que já foi apresentada em aulas anteriores da trilha: pedir para a IA simular uma conversa em um time de naming usando um pouco de tree of thoughts. Isso já é roleplay. Mas a aula sete vai fundo em versões mais estratégicas da técnica, incluindo seu uso para contornar limitações que os modelos impõem por questões de política ou treinamento.
 ## Por que a IA trava - e por que sempre sobram portas abertas
 
-Antes de mostrar como o roleplay funciona como ferramenta de desbloqueio, o curso explica por que os bloqueios existem e, mais importante, por que eles nunca conseguem ser completos.
+Antes de mostrar como o roleplay funciona como ferramenta de desbloqueio, a trilha explica por que os bloqueios existem e, mais importante, por que eles nunca conseguem ser completos.
 
-Os modelos de linguagem de grande escala são treinados com bilhões de documentos humanos. O conhecimento que eles carregam é imenso e multidimensional. Para tentar limitar comportamentos indesejados, as empresas aplicam filtros, regras de fine-tuning e alinhamento por reforço humano. Isso trava um conjunto de portas. Mas a analogia que o curso apresenta é a melhor forma de visualizar o problema: imagine uma biblioteca com um milhão de portas. Os desenvolvedores conseguem travar cem mil delas. Ficam novecentas mil portas abertas.
+Os modelos de linguagem de grande escala são treinados com bilhões de documentos humanos. O conhecimento que eles carregam é imenso e multidimensional. Para tentar limitar comportamentos indesejados, as empresas aplicam filtros, regras de fine-tuning e alinhamento por reforço humano. Isso trava um conjunto de portas. Mas a analogia que a trilha apresenta é a melhor forma de visualizar o problema: imagine uma biblioteca com um milhão de portas. Os desenvolvedores conseguem travar cem mil delas. Ficam novecentas mil portas abertas.
 
 O roleplay é uma dessas portas que nunca fecha completamente. Porque quando você cria uma situação narrativa, você não está fazendo o mesmo pedido - você está fazendo um pedido diferente que leva à mesma resposta. E o modelo, ao processar o novo contexto, muitas vezes não ativa os mesmos filtros que ativaria no pedido direto.
 
@@ -69,7 +69,7 @@ Mas, assim como o roleplay, a prompt injection também tem uso legítimo. Quando
 
 O termo jailbreak - literalmente "fuga da prisão" - aparece na aula como o nome genérico para qualquer técnica que quebre as limitações impostas por um modelo. Tanto o roleplay quanto a prompt injection podem ser usados para jailbreak, e existem muitos outros métodos.
 
-O curso é explícito sobre dois pontos que precisam coexistir quando se fala nesse tema.
+Ruan é explícito sobre dois pontos que precisam coexistir quando se fala nesse tema.
 
 O primeiro: o jailbreak existe, funciona e precisa ser estudado por qualquer pessoa que trabalhe profissionalmente com IA. Fingir que ele não existe não protege ninguém. Não saber que ele existe deixa você vulnerável - seja como usuário que não sabe o que outras pessoas podem fazer com os sistemas que você usa, seja como criador de produtos que não está protegendo os dados dos seus clientes.
 

@@ -15,13 +15,13 @@ Ao final desta aula, você será capaz de:
 
 O ciclo de atualização das ferramentas de IA de vídeo em 2026 é de semanas, não de meses. Uma ferramenta nova aparece, outra é atualizada e um novo modelo sobe no ranking em questão de dias. Isso significa que qualquer lista estática de ferramentas, incluindo as de cursos, fica desatualizada rapidamente. Aprender a pescar informação fresca vale muito mais do que receber uma lista pronta.
 
-Cursos demoram para atualizar. Um curso gravado há seis meses pode não refletir o que é melhor hoje. Isso vale inclusive para este curso. Ruan é explícito nesse ponto: ao invés de entregar uma lista que pode estar velha, ele ensina como encontrar o estado da arte por conta própria. Saber pesquisar é mais valioso do que qualquer lista.
+Cursos demoram para atualizar. Uma trilha gravada há seis meses pode não refletir o que é melhor hoje. Isso vale inclusive para esta trilha. Ruan é explícito nesse ponto: ao invés de entregar uma lista que pode estar velha, ele ensina como encontrar o estado da arte por conta própria. Saber pesquisar é mais valioso do que qualquer lista.
 
 ## A hierarquia das fontes
 
 A ordem correta de consulta é: Reddit antes dos blogs, blogs antes dos cursos. Essa hierarquia existe porque cada nível tem um ritmo diferente de atualização e um tipo diferente de conteúdo.
 
-O Reddit (especialmente r/generativeAI e r/AIUGCMarketing) é onde profissionais compartilham testes reais, resultados, descobertas e comparações antes que qualquer blog ou curso pegue o assunto. O ritmo é diário, e a qualidade da informação é alta porque vem de quem está usando no dia a dia. Você pode pedir à sua IA para fazer pesquisa no Reddit usando Deep Research, e ela vai buscar lá também.
+O Reddit (especialmente r/generativeAI e r/AIUGCMarketing) é onde profissionais compartilham testes reais, resultados, descobertas e comparações antes que qualquer blog ou trilha pegue o assunto. O ritmo é diário, e a qualidade da informação é alta porque vem de quem está usando no dia a dia. Você pode pedir à sua IA para fazer pesquisa no Reddit usando Deep Research, e ela vai buscar lá também.
 
 Os blogs de ferramentas específicas, como o LTX Studio Blog e o Fall.ai, têm publicações técnicas de alto nível. São leituras mensais que aprofundam o que você já viu no Reddit. O blog da LTX Studio, especificamente, é descrito como "brabo": alto nível técnico, muito conteúdo útil sobre como usar a ferramenta de forma avançada.
 
@@ -65,7 +65,7 @@ Essa é uma sugestão, não uma obrigação. Ruan deixa claro que as fontes pode
 
 Uma das recomendações mais práticas da aula é usar o Deep Research das IAs (Google Gemini ou ChatGPT) para vasculhar o estado da arte por conta própria. Você pede para a IA pesquisar 200 ou 300 fontes e trazer as melhores ferramentas disponíveis no momento. Ela vai buscar no Reddit, em blogs, em fóruns e em artigos técnicos, entregando um panorama atualizado.
 
-Isso é especialmente útil quando você quer comparar ferramentas para um projeto específico ou quando quer saber o que está sendo mais usado por profissionais no momento. É mais eficiente do que depender de uma lista de qualquer curso ou newsletter.
+Isso é especialmente útil quando você quer comparar ferramentas para um projeto específico ou quando quer saber o que está sendo mais usado por profissionais no momento. É mais eficiente do que depender de uma lista de qualquer trilha ou newsletter.
 
 ## Coloque em prática
 

@@ -29,7 +29,7 @@ Os modelos de geração de imagem são a categoria principal quando o foco é cr
 
 **Image-to-image:** O input é uma imagem existente e o output é uma nova imagem gerada a partir dela. O modelo transforma, recria ou expande a imagem de entrada. Muito usado para estilização, variação de estilo, ou geração de imagens coerentes com uma referência visual.
 
-**Híbrido:** Combina texto e imagem como input. O usuário envia uma imagem de referência junto com um prompt de texto, e o modelo usa os dois para gerar o output. O Nanobanana foi mencionado como exemplo de modelo com essa capacidade combinada, demonstrada em aulas anteriores do curso.
+**Híbrido:** Combina texto e imagem como input. O usuário envia uma imagem de referência junto com um prompt de texto, e o modelo usa os dois para gerar o output. O Nanobanana foi mencionado como exemplo de modelo com essa capacidade combinada, demonstrada em aulas anteriores da trilha.
 
 ### Tipo 2: Modelos Multimodais
 
@@ -64,7 +64,7 @@ O quarto tipo engloba ferramentas focadas em capacidades específicas de ediçã
 - Expandir uma imagem para além das bordas originais (outpainting)
 - Remover fundos, elementos ou objetos
 - Adicionar movimento a imagens estáticas (animação)
-- Ferramentas específicas de vídeo e animação (tratadas em curso específico de vídeo)
+- Ferramentas específicas de vídeo e animação (tratadas em trilha específico de vídeo)
 
 ## Recomendações de Março de 2026: O Pack do Professor
 
@@ -240,4 +240,4 @@ Monte o seu pack pessoal de ferramentas com base nas suas necessidades específi
 
 4. **Acesse um leaderboard esta semana:** Entre no leaderboard de geração de imagens do Hugging Face ou no Arena AI. Vote em pelo menos 10 pares de imagens. Observe qual modelo é revelado como vencedor nos pares que você votou. Isso ajuda a calibrar sua percepção de qualidade em relação à comunidade.
 
-5. **Registre as recomendações:** Elas foram dadas em março de 2026 e serão atualizadas ao longo do curso. O mercado muda rápido. O que está no topo hoje pode mudar em semanas. O método de acompanhamento (leaderboards + testes pessoais) não muda.
+5. **Registre as recomendações:** Elas foram dadas em março de 2026 e serão atualizadas ao longo da trilha. O mercado muda rápido. O que está no topo hoje pode mudar em semanas. O método de acompanhamento (leaderboards + testes pessoais) não muda.

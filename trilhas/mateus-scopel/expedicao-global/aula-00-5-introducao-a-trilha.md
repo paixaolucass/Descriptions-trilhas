@@ -13,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## A proposta da Expedição Global
 
-Mateus Scopel apresenta a trilha Expedição Global como um curso prático sobre projetos internacionais. Ele se apresenta como professor de projetos internacionais na Overlens e vice-presidente de design da Collateral Partners, uma empresa americana.
+Mateus Scopel apresenta a trilha Expedição Global como uma trilha prática sobre projetos internacionais. Ele se apresenta como professor de projetos internacionais na Overlens e vice-presidente de design da Collateral Partners, uma empresa americana.
 
 A trilha é construída em torno das estratégias que ele usou para conquistar seus primeiros projetos em dólar pela Upwork. O foco não é apenas apresentar a plataforma, mas mostrar o caminho prático que levou a projetos, depoimentos, clientes recorrentes e oportunidades de trabalho internacional.
 
@@ -21,7 +21,7 @@ A trilha é construída em torno das estratégias que ele usou para conquistar s
 
 Mateus recomenda que o aluno também assista à trilha Explorer, caso ainda não tenha feito isso. Na Explorer, ele apresenta um conteúdo mais introdutório sobre mercado internacional, barreiras de entrada e sua própria história.
 
-Na Expedição Global, o objetivo muda: a abordagem deixa de ser panorâmica e passa a ser mais prática. O curso aprofunda a Upwork e mostra como aplicar estratégias para conseguir projetos dentro da plataforma.
+Na Expedição Global, o objetivo muda: a abordagem deixa de ser panorâmica e passa a ser mais prática. A trilha aprofunda a Upwork e mostra como aplicar estratégias para conseguir projetos dentro da plataforma.
 
 ## Estratégias aplicadas por alunos
 
