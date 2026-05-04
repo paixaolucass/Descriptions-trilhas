@@ -6,7 +6,7 @@
 
 Ao final desta aula, você será capaz de:
 
-- identificar o objetivo central do curso de Posicionamento e Conquista
+- identificar o objetivo central da trilha de Posicionamento e Conquista
 - reconhecer a diferença entre construir uma marca e apenas buscar clientes isolados
 - distinguir os três pilares da trilha: persona, demanda e ambiente
 - aplicar a filosofia de ser boa notícia no dia das pessoas
@@ -19,7 +19,7 @@ A metáfora da transformação aparece logo no início: sair do amadorismo de im
 
 ## A raiz antes dos galhos
 
-a trilha usa a imagem da árvore para explicar a ordem da construção. Antes de falar das folhas, dos galhos ou do tronco, é preciso cuidar da raiz que sustenta o negócio. Por isso, a trilha passa por temas que parecem administrativos, como CNPJ, mas que fazem parte da base profissional.
+A trilha usa a imagem da árvore para explicar a ordem da construção. Antes de falar das folhas, dos galhos ou do tronco, é preciso cuidar da raiz que sustenta o negócio. Por isso, a trilha passa por temas que parecem administrativos, como CNPJ, mas que fazem parte da base profissional.
 
 Essa infraestrutura inclui mentalidade, autopercepção, posicionamento, pontos de contato e estrutura de entrega. A escolha da palavra marca, e não apenas negócio, mostra que o foco é criar uma presença capaz de sustentar uma estratégia comercial e conquistar melhores clientes.
 
