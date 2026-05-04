@@ -123,7 +123,7 @@ Quando se definem as virtudes e as sombras, o resultado é uma ferramenta que gu
 
 ### Etapa 3: arquétipos da marca
 
-Os arquétipos são conteúdos do inconsciente que ajudam a interpretar o mundo intuitivamente. São um inconsciente coletivo que conecta todos os seres humanos: a maneira de contar histórias, de estereotipar as coisas, de criar expectativas sobre personagens. Ruan já tratou dos 12 arquétipos de personalidade do Jung em aulas anteriores dos módulos de Fundamentos da Mensagem.
+Os arquétipos são conteúdos do inconsciente que ajudam a interpretar o mundo intuitivamente. São conteúdos de um inconsciente coletivo que conecta todos os seres humanos: a maneira de contar histórias, de estereotipar as coisas, de criar expectativas sobre personagens. Ruan já tratou dos 12 arquétipos de personalidade de Jung em aulas anteriores dos módulos de Fundamentos da Mensagem.
 
 Uma marca pode ter arquétipo primário, secundário e até terciário, cada um ativado em contextos e situações distintas. O objetivo é criar marcas que não são puramente racionais, mas emocionais, que as pessoas reconheçam de forma quase intuitiva: "Eu já ouvi essa história antes. Isso está conectado com quem eu sou, com as dificuldades que passo no meu dia a dia." As marcas arquetípicas criam um gap expressivo em relação às marcas não arquetípicas, que são muito mais racionais e não conseguem despertar a atenção das pessoas.
 

@@ -59,7 +59,7 @@ Ruan organiza as qualidades em três categorias:
 
 **Qualidade de estado:** é aquilo que muda. Um objeto pode estar quente ou frio. É um estado temporário, não é repetido.
 
-**Qualidade de propriedade:** é inerente. A girafa tem pescoço grande, isso é uma propriedade. O leão tem rugido, é uma qualidade proprietária sonora. O límão é azedo, isso faz parte da identidade do límão. Exemplificando a distinção com o leão de juba rosa: se a tinta sai com chuva, era um estado. Se for tinta permanente, torna-se propriedade, porque aquilo passará a se repetir.
+**Qualidade de propriedade:** é inerente. A girafa tem pescoço grande, isso é uma propriedade. O leão tem rugido, é uma qualidade proprietária sonora. O limão é azedo, isso faz parte da identidade do limão. Exemplificando a distinção com o leão de juba rosa: se a tinta sai com chuva, era um estado. Se for tinta permanente, torna-se propriedade, porque aquilo passará a se repetir.
 
 **Qualidade de percepção:** depende da lente do observador. O exemplo dado é o famoso vestido viral que algumas pessoas viam branco e outras viam dourado ou roxo. Bonito, feio, elegante, moderno, são qualidades de percepção, subjetivas por natureza.
 
@@ -83,7 +83,7 @@ Ruan recomenda também listar sinônimos e antônimos de cada atributo. Para "pe
 
 Ruan introduz o conceito de virtude como um passo além dos atributos. Atributos são relativos e difíceis de calibrar: como saber se a marca está sendo 10% perspicaz ou 100% perspicaz? As virtudes resolvem esse problema porque definem um ponto de equilíbrio, não uma métrica.
 
-A definição de virtude vem do Aristóteles: "A virtude consiste em encontrar o meio-termo entre dois extremos." Virtude é uma qualidade moral, uma capacidade exclusivamente humana que instrui a tomada de decisão. René Descartes complementa: "A virtude consiste no raciocínio correto que deve guiar nossas ações." A diferença prática entre atributo e virtude é que o atributo descreve, enquanto a virtude instrui.
+A definição de virtude vem de Aristóteles: "A virtude consiste em encontrar o meio-termo entre dois extremos." Virtude é uma qualidade moral, uma capacidade exclusivamente humana que instrui a tomada de decisão. René Descartes complementa: "A virtude consiste no raciocínio correto que deve guiar nossas ações." A diferença prática entre atributo e virtude é que o atributo descreve, enquanto a virtude instrui.
 
 Ruan apresenta oito virtudes aristotélicas com seus respectivos extremos:
 
@@ -101,7 +101,7 @@ Ruan acrescenta um ponto importante: a virtude não possui antônimo. O que poss
 
 ## As sombras e o continuum das virtudes
 
-As sombras, conceito oriundo do Jung, são as características negativas de uma personalidade, aquelas que ficam no excesso ou na falta de cada virtude. O Jung afirma que um ser humano não consegue alcançar a plenitude se não conhece suas próprias sombras: sem conhecer o lado sombrio, nunca haverá controle pleno sobre si mesmo.
+As sombras, conceito oriundo de Jung, são as características negativas de uma personalidade, aquelas que ficam no excesso ou na falta de cada virtude. Jung afirma que um ser humano não consegue alcançar a plenitude se não conhece suas próprias sombras: sem conhecer o lado sombrio, nunca haverá controle pleno sobre si mesmo.
 
 Aplicado à marca: definir os dois extremos negativos de cada virtude ajuda a medir se a marca está na direção certa. As sombras mostram o que deve ser evitado para que a marca continue sendo repetidamente quem ela é. Ruan chama o conjunto completo de "continuum das virtudes da marca": a virtude no centro, a sombra do excesso de um lado e a sombra da deficiência do outro.
 
