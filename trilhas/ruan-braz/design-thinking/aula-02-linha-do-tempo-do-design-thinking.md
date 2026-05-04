@@ -37,7 +37,7 @@ A Bauhaus surge para criar uma metodologia de design. É o primeiro esforço sis
 
 Na década de 60, começam a surgir os primeiros livros sobre criatividade. William Gordon e Alex Osborne são citados como pioneiros. Em 1962, acontece em Londres a Conferência sobre Métodos Sistemáticos e Intuitivos em Engenharia, Design Industrial, Arquitetura e Comunicações.
 
-Ruan faz questão de marcar a geográfica: Londres como polo inicial desse movimento, e esse polo volta a aparecer décadas mais tarde. A referência à conferência de 1962 serve para mostrar que o campo já buscava sistematizar o processo criativo de forma acadêmica e multidisciplinar bem antes da virada do século.
+Ruan faz questão de marcar a dimensão geográfica: Londres como polo inicial desse movimento, e esse polo volta a aparecer décadas mais tarde. A referência à conferência de 1962 serve para mostrar que o campo já buscava sistematizar o processo criativo de forma acadêmica e multidisciplinar bem antes da virada do século.
 
 ## Década de 70: Koberg, Bagnall e os problemas perversos
 
@@ -47,7 +47,7 @@ Um desses conceitos é o de "problema perverso" (ou problema complexo), em oposi
 
 ## Década de 80: design centrado no ser humano
 
-Na década de 80 surge formalmente o termo "design centrado no ser humano", e Ruan para para explorar o paradoxo embutido nessa expressão. Hoje parece redundante: o design sempre foi feito para humanos, então por que precisaria de uma qualificação? A resposta é que, historicamente, o design era centrado na funcionalidade, não nas pessoas.
+Na década de 80 surge formalmente o termo "design centrado no ser humano", e Ruan para explorar o paradoxo embutido nessa expressão. Hoje parece redundante: o design sempre foi feito para humanos, então por que precisaria de uma qualificação? A resposta é que, historicamente, o design era centrado na funcionalidade, não nas pessoas.
 
 O design industrial era focado em fazer o objeto funcionar, não em fazer o objeto funcionar para um ser humano específico. A diferença é sutil mas fundamental. Um produto ergonômico considera o corpo, mas um produto centrado no ser humano considera a experiência, a relação, o significado. Ruan usa a metáfora da cadeira como interface: uma cadeira não é só um assento, é um objeto de interação humana, e como tal precisa ser observada pela lente de quem a usa.
 

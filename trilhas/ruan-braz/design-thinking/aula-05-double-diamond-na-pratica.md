@@ -65,7 +65,7 @@ Ruan detalha o processo que levou ao nome Overlens. O primeiro nome encontrado d
 
 O problema surgiu nos critérios da etapa de Definição: Degree é uma palavra amplamente usada no contexto de formação acadêmica (primeiro grau, segundo grau, terceiro grau) e, como a Overlens é uma escola, registrar esse termo no INPI seria inviável. O conceito de Lens, porém, era inegociável para a equipe.
 
-A partir daí, o desenvolvimento continuou até chegar em Overlens. O processo completo envolveu Ruan Ruan, Rafael e Larissa trabalhando por três meses. A equipe reconhecia que, quando o processo é bem conduzido, a ideia certa aparece; a questão é entender o prazo disponível e continuar iterando até encontrá-la.
+A partir daí, o desenvolvimento continuou até chegar em Overlens. O processo completo envolveu Ruan, Rafael e Larissa trabalhando por três meses. A equipe reconhecia que, quando o processo é bem conduzido, a ideia certa aparece; a questão é entender o prazo disponível e continuar iterando até encontrá-la.
 
 ## Entrega: lapidação e validação
 

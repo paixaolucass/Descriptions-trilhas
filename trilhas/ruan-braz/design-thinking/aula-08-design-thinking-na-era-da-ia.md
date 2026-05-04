@@ -59,7 +59,7 @@ Ruan apresenta quatro tendências que já estão em movimento. A primeira é a c
 
 A segunda é a personalização em massa: a IA vai conseguir personalizar produtos e serviços de acordo com cada pessoa individualmente. Ruan conecta isso ao "como", ou seja, à camada de execução que a IA assume enquanto o designer foca no "porquê" e no "o quê".
 
-As outras duas tendências são o Design Thinking vivo, articulado junto ao conceito de marcas vivas que percorre toda a trilha, e a educação com IA como ferramenta. Neste último ponto, Ruan destaca que designers em formação já estão sendo expostos à IA como parte da sua caixa de ferramentas, e que essa transição está em trilha no âmbito educacional.
+As outras duas tendências são o Design Thinking vivo, articulado junto ao conceito de marcas vivas que percorre toda a trilha, e a educação com IA como ferramenta. Neste último ponto, Ruan destaca que designers em formação já estão sendo expostos à IA como parte da sua caixa de ferramentas, e que essa transição está em andamento no âmbito educacional.
 
 ## Conclusão: nem negar, nem confiar cegamente
 
