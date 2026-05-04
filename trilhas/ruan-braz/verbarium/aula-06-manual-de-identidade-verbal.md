@@ -85,7 +85,7 @@ O formato deve facilitar acesso. Um manual só funciona se as pessoas conseguire
 
 ## Demonstração do Zeroheight
 
-Ruan mostra uma guia de estilo antiga da Lance, antes da Overlens, dentro do Zeroheight. A ferramenta funciona de modo parecido com o Notion, mas é voltada a design systems e guias de marca.
+Ruan mostra um guia de estilo antigo da Lance, antes da Overlens, dentro do Zeroheight. A ferramenta funciona de modo parecido com o Notion, mas é voltada a design systems e guias de marca.
 
 Ele mostra cards, páginas, compartilhamento por link, introdução, mensagem, persona, valores, entonação, diretrizes de uso, variações e versionamento. O exemplo ajuda a visualizar como um manual pode ficar organizado.
 
