@@ -13,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## O problema dos princípios soltos
 
-A literatura de design apresenta dezenas de princípios diferentes, cada livro com sua lista própria. Ursus Wöng lista forma, repetição, estrutura, similaridade, gradação, radiação, anomalia, contraste, concentração, textura, espaço e outros. Rudolf Arnheim tem seu próprio conjunto em Arte e Percepção Visual. Adrian Frutiger traz mais princípios em Sinais e Símbolos, com uma abordagem distinta. Geometria do design, Sintaxe da linguagem visual, Sistema de retículas, Curso de Design Gráfico: todos apresentam listas diferentes, com nomes diferentes para conceitos parecidos.
+A literatura de design apresenta dezenas de princípios diferentes, cada livro com sua lista própria. Ursus Wehrli lista forma, repetição, estrutura, similaridade, gradação, radiação, anomalia, contraste, concentração, textura, espaço e outros. Rudolf Arnheim tem seu próprio conjunto em Arte e Percepção Visual. Adrian Frutiger traz mais princípios em Sinais e Símbolos, com uma abordagem distinta. Geometria do design, Sintaxe da linguagem visual, Sistema de retículas, Curso de Design Gráfico: todos apresentam listas diferentes, com nomes diferentes para conceitos parecidos.
 
 Ruan percebeu esse problema ao tentar preparar suas primeiras aulas. Precisava passar princípios importantes, mas eles não tinham uma linha que os conectasse. A pergunta que o orientou foi: esses princípios têm algo em comum que permita reuni-los em uma estrutura única?
 
