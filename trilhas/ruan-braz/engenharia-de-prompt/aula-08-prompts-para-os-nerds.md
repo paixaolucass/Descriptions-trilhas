@@ -14,7 +14,7 @@ Ao final desta aula, você será capaz de:
 - Executar o processo de leitura de papers acadêmicos com o suporte de ferramentas como o NotebookLM, eliminando a barreira do idioma e da densidade técnica
 ## Para quem é essa aula - e para quem não é
 
-Ruan Ruan começa com uma advertência que é ao mesmo tempo um critério de seleção e um convite. Essa aula não é para iniciantes. É para quem já passou pelas aulas anteriores da trilha e assimilou o vocabulário central: zero shot, few shot, chain of thought, tree of thought, jailbreaking, prompt injection, storytelling, roleplay, a metáfora da biblioteca e do guardião das ideias, a importância do vocabulário como interface com o modelo.
+Ruan começa com uma advertência que é ao mesmo tempo um critério de seleção e um convite. Essa aula não é para iniciantes. É para quem já passou pelas aulas anteriores da trilha e assimilou o vocabulário central: zero shot, few shot, chain of thought, tree of thought, jailbreaking, prompt injection, storytelling, roleplay, a metáfora da biblioteca e do guardião das ideias, a importância do vocabulário como interface com o modelo.
 
 Se você ainda não sabe o que são esses conceitos, Ruan recomenda que veja as aulas anteriores primeiro. Não como pré-requisito burocrático, mas porque o que vem a seguir pressupõe que esse chão já está firme.
 
@@ -140,7 +140,7 @@ Isso é o que ele chama de independência intelectual. Não depender de que algu
 A Overlens, como ele descreve, é uma escola para designers nexialistas. Nexialista é aquele que sabe estabelecer conexões entre disciplinas, que não fica preso em silos de conhecimento, que vê o nexo entre a engenharia de prompt, o design de produto, a estratégia criativa e a construção de marca. Essa aula é um convite para operar nesse nível.
 ## O campo está em movimento: você precisa acompanhar
 
-Uma das mensagens mais importantes da aula é uma que nenhum trilha pode resolver sozinho: o campo de engenharia de prompt está mudando o tempo inteiro.
+Uma das mensagens mais importantes da aula é uma que nenhuma trilha pode resolver sozinho: o campo de engenharia de prompt está mudando o tempo inteiro.
 
 A IA é uma caixa preta. Ninguém - nem as empresas que criaram os modelos - sabe exatamente o que acontece dentro deles. Pesquisas novas surgem toda semana. Técnicas que funcionavam antes deixam de funcionar. Filtros que bloqueavam certas abordagens são atualizados. Novas arquiteturas mudam o comportamento dos modelos de formas inesperadas.
 

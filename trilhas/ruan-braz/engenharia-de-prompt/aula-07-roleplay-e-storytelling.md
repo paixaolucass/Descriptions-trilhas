@@ -16,7 +16,7 @@ Ao final desta aula, você será capaz de:
 
 Os modelos de linguagem estão ficando cada vez mais fáceis de usar. Recursos como pesquisa profunda, deep research e modos de raciocínio já vêm embutidos nas plataformas, e o usuário que simplesmente digita um pedido simples recebe uma resposta que, muitas vezes, é muito melhor do que a maioria das pessoas conseguiria montar com prompts elaborados. Esse avanço é real e é valioso. Mas há um custo embutido que poucos percebem.
 
-Quando você delega as decisões para a IA, ela decide por você. E cada vez mais ela está muito boa em fazer exatamente isso. Você ganha eficiência e perde controle. Ruan Ruan usa uma imagem precisa para descrever esse fenômeno: as grades de um condomínio. Elas existem para proteger, mas quando você está do lado de dentro sem perceber, elas funcionam como uma prisão. Quem depende exclusivamente dos modos automáticos das plataformas vive dentro dessas grades.
+Quando você delega as decisões para a IA, ela decide por você. E cada vez mais ela está muito boa em fazer exatamente isso. Você ganha eficiência e perde controle. Ruan usa uma imagem precisa para descrever esse fenômeno: as grades de um condomínio. Elas existem para proteger, mas quando você está do lado de dentro sem perceber, elas funcionam como uma prisão. Quem depende exclusivamente dos modos automáticos das plataformas vive dentro dessas grades.
 
 O que essa aula ensina é o oposto. É sair das grades. É aprender a entrar em portas da biblioteca que a maioria dos usuários nem sabe que existem. E a primeira ferramenta para fazer isso se chama roleplay, ou, em um contexto mais amplo, storytelling.
 ## O que é roleplay no contexto de engenharia de prompt
