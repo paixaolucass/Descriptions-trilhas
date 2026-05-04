@@ -68,7 +68,7 @@ A estrutura de prompt que a Overlens usa divide o prompt em áreas: contexto ini
 
 Quando um prompt não traz o resultado esperado, existe uma tentação de apagar tudo e escrever um prompt completamente novo. Isso é ineficiente porque você não sabe qual parte do prompt estava errada. O que funciona melhor é isolar variáveis: identifica qual elemento está errado (o sujeito? a iluminação? o enquadramento? o ambiente?) e altera só esse elemento, mantendo o resto fixo.
 
-Isso é metodologia científica aplicada à geração de imagens. Ao alterar uma variável por vez, você aprende o que cada elemento do prompt contribui para o resultado. Com o tempo, você constrói um mapa de pesos por palavra-chave que nenhum trilha pode te dar pronto, porque depende da ferramenta e do momento.
+Isso é metodologia científica aplicada à geração de imagens. Ao alterar uma variável por vez, você aprende o que cada elemento do prompt contribui para o resultado. Com o tempo, você constrói um mapa de pesos por palavra-chave que nenhuma trilha pode te dar pronto, porque depende da ferramenta e do momento.
 
 O segundo erro desta categoria é avaliar a imagem fora do contexto real de uso. A imagem parece ótima na ferramenta, mas quando você coloca no feed, no site ou no material impresso, percebe que não funciona. A avaliação precisa acontecer sempre no contexto: simula onde a imagem vai aparecer antes de aprovar.
 

@@ -64,7 +64,7 @@ O quarto tipo engloba ferramentas focadas em capacidades específicas de ediçã
 - Expandir uma imagem para além das bordas originais (outpainting)
 - Remover fundos, elementos ou objetos
 - Adicionar movimento a imagens estáticas (animação)
-- Ferramentas específicas de vídeo e animação (tratadas em trilha específico de vídeo)
+- Ferramentas específicas de vídeo e animação (tratadas em trilha específica de vídeo)
 
 ## Recomendações de Março de 2026: O Pack do Professor
 

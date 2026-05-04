@@ -47,7 +47,7 @@ Isso é relevante porque baixa a barreira de entrada. Diferente de contratar uma
 
 ## O case de Ruan Carlos: três semanas versus seis meses
 
-A pesquisa traz um case que Ruan usa para ilustrar o impacto da IA no mercado de educação. Um professor chamado Carlos levou três semanas para lançar uma trilha completa usando IA. O mesmo trilha, com produção convencional de vídeo, levaria em média seis meses.
+A pesquisa traz um case que Ruan usa para ilustrar o impacto da IA no mercado de educação. Um professor chamado Carlos levou três semanas para lançar uma trilha completa usando IA. A mesma trilha, com produção convencional de vídeo, levaria em média seis meses.
 
 Ruan comenta que três semanas já é um prazo conservador. Dependendo do nível de automação do processo, é possível fazer em ainda menos tempo. O ponto central não é a velocidade em si, mas o que ela representa: a barreira entre ter uma ideia e colocar um produto no mercado diminuiu radicalmente.
 

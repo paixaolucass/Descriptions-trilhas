@@ -12,7 +12,7 @@ Ao final desta aula, você será capaz de:
 
 ## A abordagem prática desta trilha
 
-Ruan Ruan Braz deixa claro, desde o início desta aula, que não irá mergulhar na teoria profunda das inteligências artificiais. Outras trilhas dentro da plataforma Overlens já cobrem o funcionamento das LLMs e dos modelos de difusão com profundidade, e quem é assinante pode acessá-las. Aqui, a direção é prática: o objetivo é que você aprenda a usar essas ferramentas com inteligência, sem depender de trilhas indefinidamente.
+Ruan Braz deixa claro, desde o início desta aula, que não irá mergulhar na teoria profunda das inteligências artificiais. Outras trilhas dentro da plataforma Overlens já cobrem o funcionamento das LLMs e dos modelos de difusão com profundidade, e quem é assinante pode acessá-las. Aqui, a direção é prática: o objetivo é que você aprenda a usar essas ferramentas com inteligência, sem depender de trilhas indefinidamente.
 
 O material de acompanhamento desta aula foi elaborado pela Thais, colaboradora da Overlens, utilizando ela mesma inteligência artificial como parte do processo. O conteúdo foi gerado com base em todas as aulas, treinamentos e materiais que Ruan já produziu sobre geração de imagens. Isso em si já demonstra a lógica da trilha: IA dentro de IA, processo dentro de processo.
 

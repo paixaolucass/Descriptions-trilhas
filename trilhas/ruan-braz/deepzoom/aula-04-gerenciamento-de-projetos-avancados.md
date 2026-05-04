@@ -195,7 +195,7 @@ As apresentações devem ser conversas conduzidas. Elas são mais envolventes e 
 
 Também é necessário estabelecer quem precisa estar presente em cada reunião. Quem toma decisões deve estar nas apresentações decisivas, mas nem toda reunião exige as mesmas pessoas. Entrevistas, por exemplo, podem ser individuais e envolver diretor de marketing, diretor comercial, secretária ou pessoas do operacional.
 
-Ruan valoriza conversar com o operacional porque essas pessoas muitas vezes explicam coisas complexas de forma simples. Perguntas como como você vê a empresa, qual valor ela gera, qual sua missão e qual diferença você acredita que faz ajudam a captar visões internas.
+Ruan valoriza conversar com o operacional porque essas pessoas muitas vezes explicam coisas complexas de forma simples. Perguntas como você vê a empresa, qual valor ela gera, qual sua missão e qual diferença você acredita que faz ajudam a captar visões internas.
 
 Outro ponto central é obter aprovação antes de seguir adiante. O protocolo deve deixar claro que uma etapa precisa ser aprovada antes da próxima começar. Isso protege o designer porque impede que o projeto avance sobre bases não validadas.
 

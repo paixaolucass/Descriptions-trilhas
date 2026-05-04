@@ -133,7 +133,7 @@ Ruan analisa Abstract, série da Netflix sobre designers e criativos consagrados
 
 Na análise, ele observa que o benchmark do Abstract vai além da fotografia. A mensagem passada nos episódios e nos trailers pode servir de estrutura para comunicação. O trailer é especialmente importante porque tenta vender a série: é o momento mais persuasivo, feito para encantar e convencer a pessoa a assistir.
 
-Ruan anota frases do trailer, como o que importa é a história, a mensagem, o sentimento, a conexão, é design. Também registra perguntas e ideias como como vou resolver esse problema e afetar o maior número de pessoas possível. Essas frases dão insights sobre como conversar com designers, porque tocam em problema, impacto, conexão e sentido.
+Ruan anota frases do trailer, como o que importa é a história, a mensagem, o sentimento, a conexão, é design. Também registra perguntas e ideias como vou resolver esse problema e afetar o maior número de pessoas possível. Essas frases dão insights sobre como conversar com designers, porque tocam em problema, impacto, conexão e sentido.
 
 A Apple entra como uma das marcas mais amadas por designers. Mais do que performance, o que encanta esse público é o próprio design e a preocupação da marca com seus produtos. O comercial Think Different é tratado como manifesto e exemplo clássico para modelar, porque conversa bem com designers. No site, a análise observa simplicidade, pouco texto, ausência de dois parágrafos juntos, imagens intrigantes, minimalismo e a busca por exclusividade.
 
