@@ -81,7 +81,7 @@ O erro mais comum ao tentar gerar uma ideia é sentar diante de uma folha em bra
 
 Toda ideia tem duas fraquezas principais. A primeira é o tempo. Muitas ideias que existiram ao longo da história se perderam simplesmente porque não foram registradas. A filosofia de Platão, escrita há mais de 2.400 anos, sobreviveu porque foi registrada. As histórias transmitidas oralmente ao redor de fogueiras desapareceram com as pessoas que as carregavam.
 
-A segunda fraqueza é a atenção. Uma ideia que não consegue a atenção das pessoas perde força progressivamente e acaba morrendo. A atenção é a vulnerabilidade que o tempo usa para matar uma ideia. Não basta existir: a ideia precisa ser notada, compartilhada e cultivada. O registro é o escudo contra o tempo: das pinturas em cavernas ao barro dos sumérios, dos papiros aos livros de Gutenberg, da biblioteca ao Google, cada tecnologia de registro ampliou a capacidade das ideias de sobreviverrem.
+A segunda fraqueza é a atenção. Uma ideia que não consegue a atenção das pessoas perde força progressivamente e acaba morrendo. A atenção é a vulnerabilidade que o tempo usa para matar uma ideia. Não basta existir: a ideia precisa ser notada, compartilhada e cultivada. O registro é o escudo contra o tempo: das pinturas em cavernas ao barro dos sumérios, dos papiros aos livros de Gutenberg, da biblioteca ao Google, cada tecnologia de registro ampliou a capacidade das ideias de sobreviverem.
 
 ## O perigo de guardar ideias e a força de compartilhá-las
 

@@ -41,7 +41,7 @@ Duas pessoas podem olhar para a mesma pintura e enxergar coisas completamente di
 
 Ruan conta que aos 14 anos entrou no que chamou de "limbo do YouTube", assistindo a vídeos sobre as coisas mais sinistras e bizarras do mundo, o que eventualmente o levou a explorar a dark web por curiosidade. Nenhum evento grave aconteceu, mas algo mais sutil se instalou: ele foi se tornando gradualmente mais medroso, acanhado e ansioso em situações cotidianas.
 
-Ele começou a ter medo do escuro, de cemitérios, de casas abandonadas, sem entender de onde vinham esses medos. Sua mãe, nessa época, alertou: "filho, cuidado com o que você coloca dentro da sua cabeça, porque isso vai te acompanhar para o resto da vida." Ele não deu atenção no momento, mas o processo de transformação já estava em trilha.
+Ele começou a ter medo do escuro, de cemitérios, de casas abandonadas, sem entender de onde vinham esses medos. Sua mãe, nessa época, alertou: "filho, cuidado com o que você coloca dentro da sua cabeça, porque isso vai te acompanhar para o resto da vida." Ele não deu atenção no momento, mas o processo de transformação já estava em andamento.
 
 Depois de parar de consumir esse tipo de conteúdo, os medos foram desaparecendo. Olhando para trás, Ruan reconhece que o que absorvia retroalimentava diretamente a forma como enxergava o mundo: a percepção que ele tinha do ambiente ao redor era moldada pelo que ele escolhia consumir. O processo funciona nos dois sentidos, tanto com conteúdo sombrio quanto com conteúdo romântico, aspiracional ou focado em negócios.
 

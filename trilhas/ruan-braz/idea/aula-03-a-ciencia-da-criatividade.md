@@ -41,7 +41,7 @@ A escultura mais antiga já encontrada tem aproximadamente 32 mil anos e é o Ho
 
 Esse é o argumento central da aula: o maior diferencial dos seres humanos é a capacidade de inventar, criar e imaginar coisas que não existem. Outras evidências históricas reforçam o mesmo ponto. Os assírios criaram o boi alado humano, corpo de boi com tronco humano e asas. Os gregos criaram o minotauro. Os astecas criaram o calendário com o Deus do Sol, personificando o sol com características humanas, atribuindo rosto a um astro. Em todos os casos, a lógica é a mesma: pegar elementos do mundo real e combiná-los de formas que não existem na natureza.
 
-A criatividade é, portanto, o dom dos seres humanos perante todos os outros animais. Não é uma habilidade rara de poucos indivíduos, é uma característica biológica da espécie. Quem acredita não ser criativo não está errado em reconhecer que algumas pessoas desenvolvem mais esse potencial, mas está errado em acreditar que não tem acesso a ele. A criatividade está na biologia de todo ser humano, pois é o que torna o ser humano humano.
+A criatividade é, portanto, o dom dos seres humanos perante todos os outros animais. Não é uma habilidade rara de poucos indivíduos, é uma característica biológica da espécie. Quem acredita não ser criativo não está errado em reconhecer que algumas pessoas desenvolvem mais esse potencial, mas está errado em acreditar que não tem acesso a ele. A criatividade está na biologia de todo ser humano, pois é o que torna o ser humano.
 
 ## Do concreto ao abstrato: como a imaginação foi se expandindo
 

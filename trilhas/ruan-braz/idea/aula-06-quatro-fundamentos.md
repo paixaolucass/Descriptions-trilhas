@@ -21,7 +21,7 @@ Ruan percebeu esse problema ao tentar preparar suas primeiras aulas. Precisava p
 
 O ponto de partida da reflexão foi uma frase ouvida no terceiro período da faculdade, em 2016: "form follows function", do arquiteto americano Louis Sullivan. Essa frase dominou o design modernista, junto com "menos é mais" (Mies van der Rohe) e "o bom design é o design invisível". O resultado foi décadas de valorização quase exclusiva da funcionalidade, onde a forma de um objeto deveria se limitar a acompanhar sua função prática.
 
-O problema apareceu quando Ruan tentou aplicar a frase ao design gráfico. Uma cadeira de prisão e um trono de rei têm a mesma função: servem para alguém sentar. Mas o significado por trás de cada uma muda completamente. Se a forma segue apenas a função, como explicar essa diferença? E no design gráfico, onde o visual é a própria função, qual forma a forma deveria ter?
+O problema apareceu quando Ruan tentou aplicar a frase ao design gráfico. Uma cadeira de prisão e um trono de rei têm a mesma função: servem para alguém sentar. Mas o significado por trás de cada uma muda completamente. Se a forma segue apenas a função, como explicar essa diferença? E no design gráfico, onde o visual é a própria função, qual forma deveria ter?
 
 ## A insuficiência da beleza como critério
 
