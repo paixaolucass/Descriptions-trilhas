@@ -15,7 +15,7 @@ Ao final desta aula, você será capaz de:
 
 ## Escopo da aula: foco no Suno, foco no processo
 
-Ruan começa com clareza sobre o que esta aula é e o que não é. Este não é um curso profissionalizante de produção musical. Não há abertura de DAW, não há plugins avançados, não há configurações técnicas complexas. O foco é o Suno e o processo de criar músicas com qualidade usando boas práticas de prompt que qualquer pessoa pode aplicar desde o primeiro uso.
+Ruan começa com clareza sobre o que esta aula é e o que não é. Este não é uma trilha profissionalizante de produção musical. Não há abertura de DAW, não há plugins avançados, não há configurações técnicas complexas. O foco é o Suno e o processo de criar músicas com qualidade usando boas práticas de prompt que qualquer pessoa pode aplicar desde o primeiro uso.
 
 O Suno é recomendado porque funciona bem para iniciantes, serve igualmente bem para intermediários e avançados, e permite exportar o arquivo MIDI para quem quiser continuar a produção em ambiente profissional com uma DAW. É uma ferramenta que cresce junto com o produtor. Ruan também apresenta o documento chamado "Método Maestro", que é um guia de engenharia de prompt para composição musical com IA que ele desenvolveu e que está disponível na descrição da aula para consulta.
 

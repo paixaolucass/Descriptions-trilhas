@@ -26,7 +26,7 @@ Não são hubs: Gemini, ChatGPT, Seedream, Wan. Esses são modelos. Hubs usam v�
 
 Quando você usa um hub, você está pagando por conveniência. O Freepik, por exemplo, construiu uma plataforma e dentro dela conectou NanoBanana, Seedream e outros modelos via API. Para fazer isso, o Freepik paga para essas empresas pelo uso da API. E para cobrir esse custo e ainda ter lucro, coloca uma margem em cima do preço por token. Você paga mais do que pagaria se fosse direto na API, mas em troca tem uma interface pronta, sem configuração.
 
-A API direta é o nível mais avançado com o melhor custo-benefício de todos. Quando você conecta o modelo diretamente ao seu software, sem intermediário, o custo por geração cai significativamente. Mas isso exige um nível técnico mais avançado: saber configurar conexões de API, gerenciar tokens, criar seus próprios fluxos. Quem quiser se aprofundar nesse caminho vai encontrar mais conteúdo sobre isso em outros eventos e materiais da Overlens, com foco nas semanas mais técnicas do calendário de cursos.
+A API direta é o nível mais avançado com o melhor custo-benefício de todos. Quando você conecta o modelo diretamente ao seu software, sem intermediário, o custo por geração cai significativamente. Mas isso exige um nível técnico mais avançado: saber configurar conexões de API, gerenciar tokens, criar seus próprios fluxos. Quem quiser se aprofundar nesse caminho vai encontrar mais conteúdo sobre isso em outros eventos e materiais da Overlens, com foco nas semanas mais técnicas do calendário de trilhas.
 
 Para quem não está pronto para API ainda, os hubs são a forma mais acessível e ainda muito vantajosa de trabalhar. Mesmo pagando um pouco mais por token, o custo é baixo e o custo-benefício é muito bom.
 

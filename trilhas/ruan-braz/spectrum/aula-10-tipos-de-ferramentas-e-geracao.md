@@ -126,7 +126,7 @@ O Seedream 4.5 é descrito como absurdo em qualidade. Dentro dos testes realizad
 
 Isso significa que para usar o Seedream, você o encontra dentro de hubs como o Freepik. A GetAPI (get.c-dream.ai) permite conectar o modelo em sistemas próprios via API, com pagamento conforme uso. Para uso agentico ou via código, conectar a API do Seedream é uma opção poderosa.
 
-O C-Dance é o modelo de geração de vídeo da ByteDance, irmão do C-Dream para imagem. Será abordado na parte do curso dedicada a vídeo.
+O C-Dance é o modelo de geração de vídeo da ByteDance, irmão do C-Dream para imagem. Será abordado na parte da trilha dedicada a vídeo.
 
 O site do Seedream por si só já é uma referência visual: as imagens que eles mostram têm contraste e iluminação muito característicos, que Ruan aprecia especialmente. É uma boa fonte de referência estética mesmo para quem não vai usar o modelo diretamente.
 

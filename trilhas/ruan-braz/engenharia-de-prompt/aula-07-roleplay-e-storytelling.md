@@ -89,7 +89,7 @@ O DeepSeek, por sua vez, tem limitações específicas que são resultado de cen
 O modo privado das plataformas, quando disponível, é recomendado para testes sensíveis. Ele não salva as conversas e as deleta depois, reduzindo o rastro deixado durante experimentos.
 ## Aplicações criativas e legítimas do roleplay
 
-O curso deixa claro que toda essa demonstração serve para mostrar possibilidades que devem ser usadas em cenários construtivos. Então, quais são esses cenários?
+A trilha deixa claro que toda essa demonstração serve para mostrar possibilidades que devem ser usadas em cenários construtivos. Então, quais são esses cenários?
 
 **Naming e criação de produtos:** Simular uma conversa em um time de especialistas usando tree of thoughts dentro de um contexto de roleplay. Em vez de pedir diretamente sugestões de nome, você pede à IA que assuma o papel de cinco profissionais de naming diferentes, cada um com uma perspectiva e critério distintos, e que simulem uma discussão interna. O resultado é mais rico, mais diversificado e mais próximo do que uma equipe real entregaria.
 
