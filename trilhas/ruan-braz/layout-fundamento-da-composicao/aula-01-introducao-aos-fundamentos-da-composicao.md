@@ -45,7 +45,7 @@ Ruan usa o exemplo de livros: uma diagramação confusa afasta a leitura, enquan
 
 ## Os cinco pilares da Gestalt
 
-A aula revisita a Gestalt das formas, ligada a Max Wertheimer, Kurt Koffka e Wolfgang Kohler. O foco não é terapia Gestalt, mas a psicologia das formas e como elas influenciam a percepção.
+A aula revisita a Gestalt das formas, ligada a Max Wertheimer, Kurt Koffka e Wolfgang Köhler. O foco não é terapia Gestalt, mas a psicologia das formas e como elas influenciam a percepção.
 
 Os cinco pilares retomados são tendência à estruturação, pregnância da forma, constância perceptiva, transponibilidade e supersoma. A tendência à estruturação indica que o cérebro tenta organizar estímulos. A pregnância mostra que formas simples, regulares e equilibradas são mais fáceis de perceber.
 
