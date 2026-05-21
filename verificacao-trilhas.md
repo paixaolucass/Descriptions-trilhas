@@ -9,6 +9,8 @@ Objetivo: criar uma planilha CSV por trilha com a sequência completa e correta 
 | Trilha | Planilha criada | Exercícios confirmados | Exercícios inferidos |
 |--------|----------------|----------------------|----------------------|
 | Arquivo Legado | `planilha-arquivo-legado.csv` | 4 | 6 |
+| CHROME (Fundamento das Cores) | `planilha-chrome-fundamento-das-cores.csv` | 0 | 5 |
+| DeepZoom | `planilha-deepzoom.csv` | 0 | 5 |
 | Demais trilhas | pendente | — | — |
 
 ---
