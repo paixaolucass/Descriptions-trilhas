@@ -1,4 +1,4 @@
-# Boas-vindas à Personas Sintéticas
+# Boas vindas a Synthetic
 
 **Tempo estimado de leitura:** 4 minutos
 
