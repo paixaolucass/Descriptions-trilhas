@@ -1,0 +1,1416 @@
+1
+00:00:00,000 --> 00:00:02,840
+Lembra que a gente precisa de uma conta no Supabase?
+
+2
+00:00:04,508 --> 00:00:05,708
+A gente precisa de uma conta aqui.
+
+3
+00:00:06,168 --> 00:00:09,168
+Nós vamos lá criar a nossa conta então.
+
+4
+00:00:09,708 --> 00:00:10,148
+Beleza?
+
+5
+00:00:10,308 --> 00:00:11,948
+Juan, peraí, deixa eu fazer aqui primeiro.
+
+6
+00:00:12,008 --> 00:00:16,168
+Olha, agora já são 10h30 e eu quero muito conseguir fazer com vocês.
+
+7
+00:00:16,308 --> 00:00:18,728
+Então, anota enquanto você estava me assistindo.
+
+8
+00:00:19,008 --> 00:00:21,448
+Daqui a pouco você vai poder fazer, você vai ter tempo para fazer.
+
+9
+00:00:21,928 --> 00:00:24,328
+E agora vem comigo aqui para essa parte importante.
+
+10
+00:00:24,768 --> 00:00:27,488
+Nós vamos criar nossa conta no Supabase.
+
+11
+00:00:27,688 --> 00:00:32,268
+Então, eu vou vir aqui no navegador e vou digitar no Google Supabase.
+
+12
+00:00:32,848 --> 00:00:33,428
+Digitem aí.
+
+13
+00:00:33,428 --> 00:00:38,808
+Eu já estou logado numa conta, eu vou deslogar dessa minha conta e vou criar outra para fazer junto com vocês.
+
+14
+00:00:38,988 --> 00:00:43,728
+Então, eu vou clicar nesse botão verde aqui, começar seu projeto.
+
+15
+00:00:44,608 --> 00:00:51,968
+Aqui você pode conectar com o GitHub, mas como eu não expliquei para vocês o que é Git, o que é GitHub, isso é muito importante.
+
+16
+00:00:52,228 --> 00:00:58,448
+É outro assunto que a gente ensina dentro da vanguarda, mas não vai dar para ensinar isso para vocês aqui agora.
+
+17
+00:00:58,608 --> 00:01:02,368
+Isso aqui é para versionar o projeto, deixar ele mais seguro, é para o seu projeto também.
+
+18
+00:01:02,368 --> 00:01:04,508
+se você perde, imagina que a IA foi lá e apagou
+
+19
+00:01:04,508 --> 00:01:06,748
+o que você já construiu, cometeu um erro e fez isso
+
+20
+00:01:06,748 --> 00:01:08,248
+se você tem o git certinho
+
+21
+00:01:08,248 --> 00:01:10,268
+versionado, ele vai conseguir
+
+22
+00:01:10,268 --> 00:01:12,228
+recuperar pra você, então tem algumas
+
+23
+00:01:12,228 --> 00:01:14,248
+questões de segurança também, mas não vai dar pra
+
+24
+00:01:14,248 --> 00:01:15,688
+ensinar isso pra vocês em dois dias, tá?
+
+25
+00:01:16,108 --> 00:01:18,108
+então o que a gente vai fazer aqui, ó, a gente vai
+
+26
+00:01:18,108 --> 00:01:20,048
+criar uma conta com o nosso e-mail mesmo
+
+27
+00:01:20,048 --> 00:01:22,448
+então eu vou pegar aqui o meu e-mail, deixa eu pensar
+
+28
+00:01:22,448 --> 00:01:24,408
+acho que esse e-mail aqui eu não criei ainda
+
+29
+00:01:24,928 --> 00:01:26,068
+vou pegar aqui um gmail
+
+30
+00:01:26,068 --> 00:01:28,388
+vou criar uma senha
+
+31
+00:01:28,388 --> 00:01:30,008
+aqui pra mim e vou
+
+32
+00:01:30,008 --> 00:01:31,148
+fazer o sign up
+
+33
+00:01:31,148 --> 00:01:31,368
+E aí
+
+34
+00:01:32,604 --> 00:01:33,944
+Falhou porque esse e-mail já existe.
+
+35
+00:01:34,124 --> 00:01:35,644
+Então deixa eu colocar um outro e-mail aqui.
+
+36
+00:01:35,704 --> 00:01:36,924
+Acho que esse e-mail aqui...
+
+37
+00:01:36,924 --> 00:01:37,924
+Ah, mas esse aqui eu não vou conseguir.
+
+38
+00:01:39,100 --> 00:01:41,040
+Deixa eu pensar um que eu vou conseguir acessar aqui.
+
+39
+00:01:41,740 --> 00:01:45,760
+Acho que o acesso já tem, o Home Bras já tem, o Overlens já tem.
+
+40
+00:01:47,644 --> 00:01:50,044
+Lens Degree, esse aqui eu acho que não tem não.
+
+41
+00:01:51,260 --> 00:01:52,020
+Então eu vou criar aqui.
+
+42
+00:01:55,484 --> 00:02:00,624
+Beleza, agora eu vou checar essa informação no meu e-mail, então eu venho aqui, gmail.
+
+43
+00:02:03,452 --> 00:02:09,932
+Entro no Gmail aqui, venho nesse e-mail de confirmação e clico em confirmar endereço.
+
+44
+00:02:11,292 --> 00:02:15,672
+Prontinho. Agora eu vou fazer meu login com a senha que eu coloquei ali. Então vamos lá.
+
+45
+00:02:17,564 --> 00:02:19,784
+é lancedegree.com
+
+46
+00:02:22,364 --> 00:02:23,244
+a minha senha.
+
+47
+00:02:26,396 --> 00:02:27,896
+Pronto, ele vai logar.
+
+48
+00:02:29,340 --> 00:02:33,220
+E aí, é ambiente novo, talvez vocês vão falar, é muito botão, é muita coisa,
+
+49
+00:02:33,420 --> 00:02:36,340
+só presta atenção em mim e vai anotando aqui, tira print também,
+
+50
+00:02:37,220 --> 00:02:40,320
+para você fazer depois, se você não estiver conseguindo fazer junto, tá?
+
+51
+00:02:40,880 --> 00:02:43,340
+Aqui primeiro, é o nome da minha organização.
+
+52
+00:02:43,660 --> 00:02:46,080
+Ele está colocando o meu e-mail, eu vou colocar só assim, ó, Lance.
+
+53
+00:02:47,964 --> 00:02:50,804
+Pronto, você coloca o nome da sua empresa ou o seu próprio nome aí.
+
+54
+00:02:51,204 --> 00:02:53,904
+Aqui em Type, a gente pode deixar personal mesmo,
+
+55
+00:02:53,984 --> 00:02:56,664
+e nós vamos usar aqui o plano gratuito, beleza?
+
+56
+00:02:56,804 --> 00:03:01,504
+Plano gratuito aqui para a gente vai funcionar na maioria dos projetos que vocês criam.
+
+57
+00:03:01,564 --> 00:03:05,124
+Se forem projetos para empresas grandes, que tem muitos arquivos e muitos dados,
+
+58
+00:03:05,344 --> 00:03:09,444
+aí vocês vão precisar assinar, mas aí eventualmente também você pode usar outros,
+
+59
+00:03:09,544 --> 00:03:12,144
+como a Neon, que é um que a gente usa aqui também.
+
+60
+00:03:12,324 --> 00:03:15,244
+Só que aí o Neon não tem autenticação, ele é banco de dados.
+
+61
+00:03:15,824 --> 00:03:17,324
+aqui ó, neon serverless
+
+62
+00:03:17,324 --> 00:03:19,044
+postgres, é um
+
+63
+00:03:19,044 --> 00:03:20,024
+é só, tá vendo?
+
+64
+00:03:20,964 --> 00:03:23,444
+às vezes coloca um ou dois, mas é um só
+
+65
+00:03:23,444 --> 00:03:25,364
+então você consegue conectar
+
+66
+00:03:25,364 --> 00:03:26,924
+aqui, e ele vai te dar mais
+
+67
+00:03:27,764 --> 00:03:28,764
+acessos e tal, mas aqui
+
+68
+00:03:28,764 --> 00:03:31,544
+pro que a gente vai fazer hoje, o gratuito vai funcionar
+
+69
+00:03:31,544 --> 00:03:33,324
+tranquilo, então eu clico
+
+70
+00:03:33,324 --> 00:03:35,204
+aqui em criar organização, tira print aí
+
+71
+00:03:35,204 --> 00:03:36,964
+3, 2
+
+72
+00:03:39,260 --> 00:03:39,700
+Beleza.
+
+73
+00:03:40,828 --> 00:03:44,428
+que aí depois vocês podem ir acompanhando aí, fazer no tempo de vocês.
+
+74
+00:03:44,708 --> 00:03:46,768
+Então, ele vai criar a organização para mim.
+
+75
+00:03:47,408 --> 00:03:51,268
+Dentro de uma organização, eu consigo ter dois projetos gratuitos, tá?
+
+76
+00:03:51,708 --> 00:03:54,388
+Aqui, a gente vai configurar o primeiro projeto com ele.
+
+77
+00:03:54,688 --> 00:03:58,228
+Tem muita coisa aqui, mas nós vamos fazer a configuração básica,
+
+78
+00:03:58,228 --> 00:03:59,068
+que já vai ser suficiente.
+
+79
+00:03:59,508 --> 00:04:02,108
+Então, eu vou deixar a organização lá em Cdgri aqui,
+
+80
+00:04:02,268 --> 00:04:04,648
+não vou conectar o GitHub nesse caso.
+
+81
+00:04:05,028 --> 00:04:08,228
+Aqui no nome do projeto, eu vou chamar isso aqui de Brand System,
+
+82
+00:04:08,788 --> 00:04:10,668
+que é o Brand System que a gente está criando.
+
+83
+00:04:10,828 --> 00:04:12,648
+Beleza? Essa parte aqui
+
+84
+00:04:12,648 --> 00:04:14,248
+presta muita atenção.
+
+85
+00:04:14,548 --> 00:04:16,648
+Você vai precisar criar uma senha aqui
+
+86
+00:04:16,648 --> 00:04:18,708
+e guardar essa senha. Se você
+
+87
+00:04:18,708 --> 00:04:20,848
+perder, você vai ter que entrar nas configurações,
+
+88
+00:04:20,928 --> 00:04:22,888
+trocar a senha, vai perder tempo aqui
+
+89
+00:04:22,888 --> 00:04:24,968
+e é chatinho, tá? As primeiras
+
+90
+00:04:24,968 --> 00:04:26,848
+vezes que você vai fazer, você vai se perder dentro da
+
+91
+00:04:26,848 --> 00:04:29,028
+ferramenta. Então, coloca uma senha
+
+92
+00:04:29,028 --> 00:04:30,748
+que você vai guardar depois. Não
+
+93
+00:04:30,748 --> 00:04:32,988
+recomendo colocar senhas fáceis
+
+94
+00:04:32,988 --> 00:04:34,908
+porque se for vazar dado, vai vazar
+
+95
+00:04:34,908 --> 00:04:36,748
+daqui. E aí você precisa de uma senha forte.
+
+96
+00:04:36,948 --> 00:04:38,688
+Eu geralmente gero a senha aqui,
+
+97
+00:04:39,368 --> 00:04:41,808
+copio ela, venho na minha área de trabalho
+
+98
+00:04:41,808 --> 00:04:43,988
+ou dentro do projeto mesmo
+
+99
+00:04:43,988 --> 00:04:45,948
+e eu crio uma pastinha nova
+
+100
+00:04:45,948 --> 00:04:47,668
+só que isso aqui abre brecha de segurança
+
+101
+00:04:47,668 --> 00:04:49,528
+porque a IA vai poder ler essa pastinha
+
+102
+00:04:49,528 --> 00:04:51,408
+eu vou falar disso mais tarde, tá?
+
+103
+00:04:51,528 --> 00:04:54,168
+pra vocês, mas por enquanto eu vou fazer o que?
+
+104
+00:04:54,208 --> 00:04:55,748
+na minha área de trabalho eu vou criar aqui
+
+105
+00:04:55,748 --> 00:04:57,248
+vou chamar de Supabase
+
+106
+00:04:57,248 --> 00:05:00,108
+e vou salvar a minha senha aqui dentro
+
+107
+00:05:00,108 --> 00:05:02,468
+pra vocês não... no caso pode ver essa senha aqui
+
+108
+00:05:02,468 --> 00:05:04,108
+não tem problema, ele criou essa senha pra mim
+
+109
+00:05:04,108 --> 00:05:06,508
+porque depois eu vou apagar, não vai ter nada de mais ali
+
+110
+00:05:06,508 --> 00:05:08,948
+mas vocês sabem que essa senha não pode
+
+111
+00:05:08,948 --> 00:05:10,828
+vazar, né? Então eu salvo a senha
+
+112
+00:05:10,828 --> 00:05:12,668
+aqui no TXT e volto lá
+
+113
+00:05:12,668 --> 00:05:14,608
+para o Supabase
+
+114
+00:05:14,608 --> 00:05:16,708
+então vamos voltar aqui, beleza
+
+115
+00:05:16,708 --> 00:05:18,868
+ele está com a senha aqui, está guardada
+
+116
+00:05:18,868 --> 00:05:20,708
+pode deixar a região aqui América
+
+117
+00:05:20,708 --> 00:05:22,848
+pode deixar esse habilitado e esse
+
+118
+00:05:22,848 --> 00:05:24,948
+também, não habilita esse aqui, beleza?
+
+119
+00:05:25,108 --> 00:05:26,708
+Senão vai dar trabalho para vocês depois
+
+120
+00:05:26,708 --> 00:05:28,848
+feito isso, tem configurações
+
+121
+00:05:28,848 --> 00:05:30,988
+avançadas aqui, não precisa mexer
+
+122
+00:05:30,988 --> 00:05:32,888
+nelas, você vai clicar no botão verde
+
+123
+00:05:32,888 --> 00:05:34,228
+então, tira o print aí
+
+124
+00:05:34,228 --> 00:05:37,888
+3, 2, 1...
+
+125
+00:05:39,260 --> 00:05:39,720
+Beleza.
+
+126
+00:05:41,436 --> 00:05:42,216
+Avanço aqui agora.
+
+127
+00:05:44,252 --> 00:05:45,672
+E ele vai criar o projeto para a gente.
+
+128
+00:05:49,468 --> 00:05:52,148
+O Rafael falou ali, o melhor caminho é usar uma vault de senhas.
+
+129
+00:05:52,268 --> 00:05:53,488
+A gente vai falar disso mais tarde.
+
+130
+00:05:53,988 --> 00:05:56,028
+Prontinho, olha, ele criou o projeto para a gente.
+
+131
+00:05:56,108 --> 00:06:00,708
+Só que agora, a gente precisa configurar a nossa autenticação,
+
+132
+00:06:00,968 --> 00:06:03,248
+o nosso banco de dados e o nosso storage.
+
+133
+00:06:03,448 --> 00:06:07,308
+Você poderia configurar por aqui, tem as tabelas de autenticação,
+
+134
+00:06:07,808 --> 00:06:11,068
+tem aqui os databases, tem aqui o editor de tabelas.
+
+135
+00:06:11,168 --> 00:06:13,848
+Dá para fazer tudo manualmente sem gastar token.
+
+136
+00:06:14,268 --> 00:06:17,888
+Só que isso aqui daria um curso só para eu explicar isso para vocês.
+
+137
+00:06:17,888 --> 00:06:22,468
+Então o que a gente vai fazer? Nós vamos pedir o Cloud para configurar para a gente.
+
+138
+00:06:22,968 --> 00:06:27,108
+Para isso, a gente precisa conectar o Cloud aqui dentro do sistema.
+
+139
+00:06:27,368 --> 00:06:30,408
+E aí a gente vai usar um protocolo chamado MCP.
+
+140
+00:06:30,628 --> 00:06:32,748
+Eu não falei de MCP aqui com vocês.
+
+141
+00:06:32,988 --> 00:06:36,988
+MCP é um outro assunto que eu discuto com mais profundidade dentro da vanguarda, tá?
+
+142
+00:06:37,408 --> 00:06:39,248
+Mas eu vou colocar aqui, ó, MCP.
+
+143
+00:06:40,252 --> 00:06:41,492
+Model Context Protocol.
+
+144
+00:06:42,412 --> 00:06:46,052
+Então, isso aqui é a conexão que a gente vai fazer.
+
+145
+00:06:46,132 --> 00:06:48,512
+Então, basicamente, você tem o Cloud aqui bonitinho,
+
+146
+00:06:49,052 --> 00:06:51,532
+e aí nós queremos conectar o nosso Cloud aqui
+
+147
+00:06:51,532 --> 00:06:53,652
+no sistema do Supabase.
+
+148
+00:06:54,332 --> 00:06:57,172
+E aí nós vamos usar MCP para fazer isso.
+
+149
+00:06:57,692 --> 00:07:00,292
+Dá para a gente utilizar, configurar um MCP
+
+150
+00:07:00,292 --> 00:07:01,652
+direto aqui no Antigravity.
+
+151
+00:07:01,752 --> 00:07:04,112
+Só que eu vou ensinar para vocês de um jeito mais simples.
+
+152
+00:07:04,232 --> 00:07:06,472
+Ele está trabalhando aqui, porque aquela tela é maior,
+
+153
+00:07:06,572 --> 00:07:09,672
+ela tem mais detalhes, a tela de Assets leva mais tempo.
+
+154
+00:07:09,672 --> 00:07:12,932
+Por isso que eu estou deixando ele fazer aqui, enquanto a gente vai configurar ali.
+
+155
+00:07:13,772 --> 00:07:15,572
+Então, como que a gente vai fazer isso?
+
+156
+00:07:15,712 --> 00:07:19,892
+Vou vir para a minha área de trabalho e eu vou abrir o Cloud aplicativo.
+
+157
+00:07:20,452 --> 00:07:22,692
+Juan, eu não baixei o Cloud aplicativo.
+
+158
+00:07:23,092 --> 00:07:24,332
+Recomendo que você baixe.
+
+159
+00:07:24,372 --> 00:07:28,012
+Tem coisas que fazer pelo Cloud aplicativo vai ser mais fácil para vocês.
+
+160
+00:07:28,592 --> 00:07:28,992
+Beleza?
+
+161
+00:07:29,252 --> 00:07:30,652
+Então, como que baixa?
+
+162
+00:07:30,712 --> 00:07:32,192
+Digita assim, download Cloud.
+
+163
+00:07:32,552 --> 00:07:35,672
+Aí você baixa ele, você vai fazer login na sua conta aqui.
+
+164
+00:07:35,792 --> 00:07:36,812
+Estou na minha conta aqui.
+
+165
+00:07:36,812 --> 00:07:38,672
+aqui ó, a galera tava fazendo gracinha ontem
+
+166
+00:07:38,672 --> 00:07:40,692
+falando que eu tô esnobando o meu plano max aqui
+
+167
+00:07:40,692 --> 00:07:42,652
+ó, e não é qualquer max não
+
+168
+00:07:42,652 --> 00:07:43,872
+é o max 20x
+
+169
+00:07:44,972 --> 00:07:46,732
+brincadeiras à parte, o que que eu vou
+
+170
+00:07:46,732 --> 00:07:48,612
+fazer? Tô conectado aqui no aplicativo
+
+171
+00:07:48,612 --> 00:07:50,612
+eu vou vir aqui em chat mesmo
+
+172
+00:07:52,060 --> 00:07:56,300
+Então beleza, vou vir aqui em chat e vou vir nessa opção aqui, Customize.
+
+173
+00:07:56,640 --> 00:07:59,500
+Tira um print aí, 3, 2...
+
+174
+00:08:01,340 --> 00:08:01,920
+Clico aqui agora.
+
+175
+00:08:02,640 --> 00:08:05,540
+Aqui em Customize, eu vou vir em Conectores.
+
+176
+00:08:05,640 --> 00:08:06,800
+Tira o outro print aí agora.
+
+177
+00:08:07,980 --> 00:08:08,740
+Três, dois...
+
+178
+00:08:10,524 --> 00:08:11,084
+Beleza.
+
+179
+00:08:11,244 --> 00:08:15,444
+Em conectores, vocês estão vendo que o meu já tem o Supabase aqui.
+
+180
+00:08:15,584 --> 00:08:17,224
+Eu vou desvincular ele.
+
+181
+00:08:17,864 --> 00:08:21,884
+No de vocês não vai aparecer aqui e também não vai aparecer aqui embaixo.
+
+182
+00:08:22,124 --> 00:08:22,964
+O que vocês vão fazer?
+
+183
+00:08:23,084 --> 00:08:24,284
+Vocês vão clicar nesse mais aqui.
+
+184
+00:08:24,684 --> 00:08:28,564
+Quando vocês clicarem nesse mais, vocês vão clicar em navegar conectores.
+
+185
+00:08:28,884 --> 00:08:29,484
+Olha o print aí.
+
+186
+00:08:29,924 --> 00:08:32,244
+3, 2, 1.
+
+187
+00:08:33,024 --> 00:08:33,524
+Beleza.
+
+188
+00:08:34,184 --> 00:08:38,424
+Entrando aqui dentro, vocês vão digitar aqui na pesquisa Supabase.
+
+189
+00:08:38,544 --> 00:08:40,024
+Opa, Supabase.
+
+190
+00:08:40,024 --> 00:08:42,324
+esse aqui, ó. Aí vocês vão clicar
+
+191
+00:08:42,324 --> 00:08:44,404
+nesse maisinho aqui. Clicou no maisinho,
+
+192
+00:08:45,044 --> 00:08:46,244
+ele vai conectar, é
+
+193
+00:08:46,244 --> 00:08:48,184
+importante que você esteja logado
+
+194
+00:08:48,184 --> 00:08:50,324
+no Supabase, no navegador, e ele
+
+195
+00:08:50,324 --> 00:08:51,444
+vai pedir para eu autorizar.
+
+196
+00:08:51,904 --> 00:08:54,644
+Eu venho aqui, seleciono a organização
+
+197
+00:08:54,644 --> 00:08:56,164
+que eu acabei de criar e
+
+198
+00:08:56,744 --> 00:08:57,424
+autorizo o Cloud.
+
+199
+00:08:59,772 --> 00:09:03,592
+Agora eu conectei o meu Cloud direto no meu Supabase.
+
+200
+00:09:03,932 --> 00:09:04,332
+Beleza?
+
+201
+00:09:04,392 --> 00:09:05,812
+Então está tudo certo aqui agora.
+
+202
+00:09:06,412 --> 00:09:09,152
+Fez a conexão, Supabase configurado.
+
+203
+00:09:09,352 --> 00:09:12,252
+Se você quiser, você pode gerenciar as permissões.
+
+204
+00:09:12,252 --> 00:09:13,232
+Ele vai carregar, está vendo?
+
+205
+00:09:13,372 --> 00:09:16,312
+Então eu posso gerenciar o que ele pode e o que ele não pode fazer.
+
+206
+00:09:17,012 --> 00:09:18,992
+O que o Cloud pode e não pode fazer.
+
+207
+00:09:19,112 --> 00:09:22,312
+Eu vou deixar desse jeito aqui, que ele pede autorização para fazer.
+
+208
+00:09:22,692 --> 00:09:24,292
+E agora eu vou fechar isso aqui.
+
+209
+00:09:24,372 --> 00:09:26,452
+Posso fechar aqui então, tranquilinho.
+
+210
+00:09:27,092 --> 00:09:27,492
+Maravilha.
+
+211
+00:09:27,532 --> 00:09:28,852
+E agora o que nós temos?
+
+212
+00:09:28,852 --> 00:09:34,372
+Nós temos aqui o Cloud conectado via MCP com o nosso Supabase.
+
+213
+00:09:35,012 --> 00:09:35,492
+Beleza?
+
+214
+00:09:36,212 --> 00:09:37,732
+E aí, o que a gente vai fazer?
+
+215
+00:09:37,772 --> 00:09:41,152
+Adivinha só, a gente vai pedir para o Cloud configurar
+
+216
+00:09:41,152 --> 00:09:45,052
+nossa autenticação, banco de dados e nosso storage.
+
+217
+00:09:45,992 --> 00:09:46,972
+Beleza? A gente vai pedir.
+
+218
+00:09:47,092 --> 00:09:49,552
+Tem alguns detalhes aqui, em alguns momentos,
+
+219
+00:09:49,812 --> 00:09:51,652
+agora a gente vai começar a trabalhar,
+
+220
+00:09:51,812 --> 00:09:53,872
+isso aqui eu preciso colocar uma luz com vocês,
+
+221
+00:09:54,172 --> 00:09:56,732
+a gente vai começar a trabalhar com variáveis de ambiente.
+
+222
+00:09:56,732 --> 00:09:58,832
+O que são variáveis de ambiente?
+
+223
+00:09:59,152 --> 00:10:05,432
+Isso aqui é um dos maiores riscos de segurança que as pessoas não sabem que existe e eu quero trazer para vocês.
+
+224
+00:10:06,212 --> 00:10:10,712
+Variáveis de ambiente, eu vou fazer uma piada aqui, mas isso vai fixar na cabeça de vocês,
+
+225
+00:10:10,912 --> 00:10:14,952
+são variáveis que mudam de acordo com o ambiente.
+
+226
+00:10:15,312 --> 00:10:17,212
+O que isso significa na prática?
+
+227
+00:10:18,332 --> 00:10:21,992
+Pense nas suas senhas, pense nas suas chaves API,
+
+228
+00:10:22,592 --> 00:10:24,512
+chaves de API, que eu vou explicar o que é.
+
+229
+00:10:24,952 --> 00:10:28,192
+Pense também em dados sensíveis.
+
+230
+00:10:30,620 --> 00:10:34,540
+Esses dados, geralmente, a gente não sobe para nenhum servidor
+
+231
+00:10:34,540 --> 00:10:37,100
+e nem sobe para o repositório.
+
+232
+00:10:37,280 --> 00:10:40,220
+Na verdade, em servidor, a gente sobe,
+
+233
+00:10:40,240 --> 00:10:42,620
+mas a gente não sobe para nenhum repositório.
+
+234
+00:10:42,760 --> 00:10:44,960
+Repositório é o lugar onde ficam todos os seus arquivos.
+
+235
+00:10:45,800 --> 00:10:47,240
+Principalmente, se você vai trabalhar com GitHub
+
+236
+00:10:47,240 --> 00:10:49,380
+e vai subir os arquivos lá para versionar,
+
+237
+00:10:49,460 --> 00:10:52,600
+a gente tem um arquivinho chamado .env.
+
+238
+00:10:53,020 --> 00:10:56,160
+Esse arquivo chamado .env não foi criado aqui ainda.
+
+239
+00:10:56,220 --> 00:10:57,800
+Eu posso procurar e não vou achar ele,
+
+240
+00:10:57,860 --> 00:11:00,200
+porque a gente ainda não trabalhou variáveis de ambiente.
+
+241
+00:11:00,620 --> 00:11:03,980
+Mas, vamos parar para pensar aqui um pouquinho.
+
+242
+00:11:04,260 --> 00:11:06,220
+Nós já vamos conectar aqui agora o Supabase.
+
+243
+00:11:06,400 --> 00:11:08,460
+O Supabase tem as senhas dele.
+
+244
+00:11:08,640 --> 00:11:11,520
+Ele tem senhas, ele tem além de senhas também,
+
+245
+00:11:11,700 --> 00:11:16,680
+ele tem variáveis de caminhos também, de acesso de tabelas.
+
+246
+00:11:17,540 --> 00:11:19,820
+Então, isso aqui já são dados sensíveis,
+
+247
+00:11:19,880 --> 00:11:22,720
+que geralmente a gente salva isso nessa pastinha aqui.
+
+248
+00:11:23,120 --> 00:11:24,680
+Só que não é só o Supabase.
+
+249
+00:11:24,880 --> 00:11:27,600
+Nós também não queremos conectar uma IA no nosso sistema?
+
+250
+00:11:28,180 --> 00:11:30,920
+Vamos supor que você quer conectar o chat GPT no seu sistema.
+
+251
+00:11:31,280 --> 00:11:35,040
+Quando você for conectar o chat GPT, você vai usar uma chave API.
+
+252
+00:11:35,580 --> 00:11:41,480
+Essa chave API é a sua chave de acesso para gastar o seu dinheiro do chat GPT.
+
+253
+00:11:41,840 --> 00:11:45,680
+Então vamos supor que eu coloquei o meu cartão de crédito aqui no chat GPT
+
+254
+00:11:45,680 --> 00:11:48,760
+e falei para ele, você pode usar meu cartão de crédito aqui
+
+255
+00:11:49,300 --> 00:11:50,900
+para poder gastar os tokens.
+
+256
+00:11:51,260 --> 00:11:53,300
+E aí ele gera para mim uma chave API.
+
+257
+00:11:53,600 --> 00:11:56,080
+Geralmente uma chave API se parece mais ou menos com isso aqui.
+
+258
+00:11:56,080 --> 00:11:57,940
+um monte de coisinha assim
+
+259
+00:11:58,600 --> 00:11:59,960
+parece com isso, chat
+
+260
+00:12:00,840 --> 00:12:02,100
+GPT, então vem uma
+
+261
+00:12:02,560 --> 00:12:04,420
+chave API com um monte de coisinha assim
+
+262
+00:12:04,420 --> 00:12:06,320
+um monte de número, e isso aqui
+
+263
+00:12:06,320 --> 00:12:08,180
+você tem que guardar, porque é sua
+
+264
+00:12:08,180 --> 00:12:10,320
+senha de acesso, beleza?
+
+265
+00:12:11,100 --> 00:12:12,180
+só que aí o que acontece?
+
+266
+00:12:12,420 --> 00:12:14,020
+você salva essa senha de acesso
+
+267
+00:12:14,020 --> 00:12:16,420
+nesse arquivo env, você precisa salvar
+
+268
+00:12:16,420 --> 00:12:18,240
+no sistema, porque o sistema
+
+269
+00:12:18,240 --> 00:12:20,040
+vai usar o GPT, não vai?
+
+270
+00:12:20,180 --> 00:12:22,060
+na sua conta, então ele precisa
+
+271
+00:12:22,060 --> 00:12:23,100
+da senha de acesso
+
+272
+00:12:23,100 --> 00:12:28,640
+Só que você colocou isso no .env e você deixou vazar o seu .env.
+
+273
+00:12:28,820 --> 00:12:36,180
+Alguém pode pegar sua chave API, conectar num outro sistema e usar o seu dinheiro.
+
+274
+00:12:37,260 --> 00:12:43,320
+Aí pode acontecer de chegar lá uma fatura, você está lá, vou ver aqui quanto eu gastei no chat GPT esse mês.
+
+275
+00:12:43,520 --> 00:12:46,020
+Aí aparece lá para você, 5 mil dólares.
+
+276
+00:12:50,332 --> 00:12:58,172
+Você não colocou nenhum limite, você deixou sua chave API vazar e aí você tem um boletim de 20 mil reais para pagar.
+
+277
+00:12:59,388 --> 00:13:01,188
+e fica devendo ao PNI, porque
+
+278
+00:13:01,188 --> 00:13:03,228
+vazou sua chave API e alguém
+
+279
+00:13:03,228 --> 00:13:04,788
+pegou aquilo e usou isso
+
+280
+00:13:04,788 --> 00:13:07,248
+em outros projetos. Você não pode
+
+281
+00:13:07,248 --> 00:13:08,748
+fazer nada, foi falha sua.
+
+282
+00:13:09,668 --> 00:13:10,868
+Então, isso é um risco.
+
+283
+00:13:11,008 --> 00:13:13,068
+Para isso, tem alguns caminhos de segurança
+
+284
+00:13:13,068 --> 00:13:14,788
+que eu vou falar hoje mais tarde.
+
+285
+00:13:15,208 --> 00:13:17,368
+Aqui nesse projeto, a gente não vai usar a chave
+
+286
+00:13:17,368 --> 00:13:19,448
+API em ferramentas
+
+287
+00:13:19,908 --> 00:13:21,388
+pagas. Então, o que
+
+288
+00:13:21,388 --> 00:13:23,188
+a gente vai fazer? A gente vai usar a chave API
+
+289
+00:13:23,188 --> 00:13:24,408
+aqui do GEMA.
+
+290
+00:13:25,428 --> 00:13:27,108
+GEMA do Google.
+
+291
+00:13:28,412 --> 00:13:29,832
+que é um modelo gratuito.
+
+292
+00:13:30,272 --> 00:13:32,432
+Mesmo assim, você vai usar uma chave API
+
+293
+00:13:32,432 --> 00:13:35,212
+que vai estar conectada no AI Studio do Google.
+
+294
+00:13:35,712 --> 00:13:36,372
+E o que acontece?
+
+295
+00:13:36,992 --> 00:13:40,032
+Se alguém pega essa chave API aqui também e usa,
+
+296
+00:13:40,732 --> 00:13:43,772
+de maneira indevida, sua conta pode ser banida.
+
+297
+00:13:43,992 --> 00:13:46,492
+Então, mesmo que você está usando uma conta gratuita,
+
+298
+00:13:46,512 --> 00:13:47,912
+ainda tem riscos.
+
+299
+00:13:48,172 --> 00:13:50,452
+Talvez não é financeiro, mas às vezes você perde uma conta.
+
+300
+00:13:50,692 --> 00:13:52,592
+Então, tem que tomar cuidado do mesmo jeito.
+
+301
+00:13:53,172 --> 00:13:56,052
+Geralmente, a gente trabalha com outras ferramentas.
+
+302
+00:13:56,052 --> 00:13:57,612
+Tem uma que chama InPhysical.
+
+303
+00:13:58,412 --> 00:14:00,832
+Esse é o tipo de coisa que a gente ensina com profundidade
+
+304
+00:14:00,832 --> 00:14:02,752
+dentro da vanguarda também, beleza?
+
+305
+00:14:03,352 --> 00:14:04,952
+Mas geralmente a gente usa uma ferramenta
+
+306
+00:14:04,952 --> 00:14:07,372
+que gerencia as variáveis de ambiente para a gente,
+
+307
+00:14:07,372 --> 00:14:08,652
+elas ficam sempre seguras,
+
+308
+00:14:08,752 --> 00:14:11,372
+elas não ficam direto no projeto.
+
+309
+00:14:12,172 --> 00:14:14,532
+Porque se a IA consegue ler isso aqui também,
+
+310
+00:14:14,712 --> 00:14:16,492
+isso pode ser salvo no banco de dados,
+
+311
+00:14:16,632 --> 00:14:18,772
+pode não, isso vai ser salvo no banco de dados
+
+312
+00:14:18,772 --> 00:14:20,272
+da IA que você está usando.
+
+313
+00:14:20,492 --> 00:14:23,112
+Não do modelo de IA, mas da empresa da IA.
+
+314
+00:14:23,192 --> 00:14:25,792
+Então se eu uso o Cloud, vai ser salvo no banco de dados da Anthropic.
+
+315
+00:14:25,792 --> 00:14:28,672
+se eu uso o chat GPT vai ser salvo no banco de dados da OpenAI
+
+316
+00:14:28,672 --> 00:14:32,232
+e aí sua chave de API pode ser usada para treinar modelo
+
+317
+00:14:32,232 --> 00:14:35,192
+e isso pode acabar vazando de outras maneiras também
+
+318
+00:14:35,192 --> 00:14:36,512
+então tem falhas de segurança
+
+319
+00:14:36,512 --> 00:14:38,412
+para evitar isso aqui
+
+320
+00:14:39,172 --> 00:14:42,672
+é importante que você estude sobre essa parte de segurança
+
+321
+00:14:42,672 --> 00:14:44,552
+eu vou falar mais sobre isso mais tarde
+
+322
+00:14:44,552 --> 00:14:47,472
+aqui agora o que você precisa saber é que isso existe
+
+323
+00:14:47,472 --> 00:14:49,612
+e que é um dos cuidados que a gente tem que tomar
+
+324
+00:14:49,612 --> 00:14:53,912
+no caso aqui a gente vai conectar via ENV mesmo
+
+325
+00:14:53,912 --> 00:14:55,732
+mesmo, aí vão ter dois arquivos, tem o
+
+326
+00:14:55,732 --> 00:14:57,672
+env e o env example.
+
+327
+00:14:58,432 --> 00:14:59,892
+A IA, a não ser
+
+328
+00:14:59,892 --> 00:15:01,752
+que você peça, a IA nunca
+
+329
+00:15:01,752 --> 00:15:03,812
+vai ler esse arquivo aqui, a não ser que você
+
+330
+00:15:03,812 --> 00:15:05,672
+peça pra ela.
+
+331
+00:15:05,772 --> 00:15:07,652
+E aí pode ser que às vezes nas entrelinhas
+
+332
+00:15:07,652 --> 00:15:09,752
+você pediu e nem percebeu que pediu, então tem
+
+333
+00:15:09,752 --> 00:15:11,692
+que tomar cuidado. Mas ela lê esse
+
+334
+00:15:11,692 --> 00:15:13,752
+arquivo aqui. Esse arquivo, ele
+
+335
+00:15:13,752 --> 00:15:15,332
+é uma cópia exata desse
+
+336
+00:15:15,332 --> 00:15:17,492
+com exceção das variáveis.
+
+337
+00:15:17,732 --> 00:15:19,812
+Então vocês vão ver ali que tem lá o arquivo, por exemplo,
+
+338
+00:15:19,972 --> 00:15:21,652
+api tal, aí tá lá api
+
+339
+00:15:21,652 --> 00:15:23,752
+igual, aí vem a senha dela aqui.
+
+340
+00:15:24,192 --> 00:15:25,412
+aí vem aqui depois, sei lá,
+
+341
+00:15:26,272 --> 00:15:27,072
+Supabase API,
+
+342
+00:15:27,532 --> 00:15:30,132
+aí vem igual e vem a senha dele aqui no arquivo.
+
+343
+00:15:30,512 --> 00:15:32,332
+Ele vai copiar a estrutura,
+
+344
+00:15:32,332 --> 00:15:34,272
+justamente para a IA saber a estrutura,
+
+345
+00:15:34,292 --> 00:15:35,952
+e aí a IA vai criar um script
+
+346
+00:15:35,952 --> 00:15:37,792
+que lê o arquivo no lugar dela,
+
+347
+00:15:37,932 --> 00:15:38,652
+aí não vaza.
+
+348
+00:15:38,792 --> 00:15:40,252
+Esse é um dos jeitos de fazer,
+
+349
+00:15:40,392 --> 00:15:41,552
+e é o que a gente vai seguir aqui.
+
+350
+00:15:42,012 --> 00:15:42,412
+Beleza?
+
+351
+00:15:42,472 --> 00:15:43,572
+É só uma explicação,
+
+352
+00:15:43,652 --> 00:15:45,332
+talvez é muita coisa nova para agora,
+
+353
+00:15:45,592 --> 00:15:47,352
+vocês não precisam masterizar isso aqui agora,
+
+354
+00:15:47,432 --> 00:15:49,292
+mas eu queria que vocês soubessem que isso existe.
+

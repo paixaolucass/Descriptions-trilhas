@@ -1,0 +1,1552 @@
+1
+00:00:00,028 --> 00:00:00,568
+Muito massa.
+
+2
+00:00:00,888 --> 00:00:03,668
+Jorge falou, poxa, dá o caminho da parte do banco vetorial.
+
+3
+00:00:04,488 --> 00:00:07,348
+Por que eu não vou falar do banco vetorial, tá?
+
+4
+00:00:07,808 --> 00:00:10,108
+Eu pensei até em nem comentar disso com vocês,
+
+5
+00:00:10,268 --> 00:00:13,888
+mas o banco vetorial, ele exige um conhecimento técnico maior
+
+6
+00:00:14,308 --> 00:00:17,528
+e ele exige que eu passe algumas etapas com vocês anterior.
+
+7
+00:00:17,788 --> 00:00:19,248
+Eu tenho que explicar o que é embedding,
+
+8
+00:00:19,268 --> 00:00:22,988
+como que você quebra arquivo e texto em vetores.
+
+9
+00:00:23,228 --> 00:00:25,268
+Depois eu tenho que explicar o que é um banco vetorial,
+
+10
+00:00:25,468 --> 00:00:27,308
+tenho que explicar para vocês como que conecta.
+
+11
+00:00:27,308 --> 00:00:29,748
+depois eu tenho que explicar pra vocês como fazer isso com segurança
+
+12
+00:00:29,748 --> 00:00:31,848
+pra que ele não bugue, não dê erro
+
+13
+00:00:31,848 --> 00:00:33,768
+como se certificar de que ele realmente
+
+14
+00:00:33,768 --> 00:00:35,768
+está aprendendo com tudo que você quebrou ali
+
+15
+00:00:35,768 --> 00:00:37,708
+de vetor, é mais
+
+16
+00:00:37,708 --> 00:00:39,688
+avançado, né, o Bruno falou
+
+17
+00:00:39,688 --> 00:00:41,928
+ele já deu o caminho, o nome, banco vetorial
+
+18
+00:00:41,928 --> 00:00:42,848
+agora tu corre a...
+
+19
+00:00:43,608 --> 00:00:45,728
+não, depois eu vou dar caminhos melhores ainda
+
+20
+00:00:45,728 --> 00:00:47,808
+pra vocês, quem quiser continuar aprendendo com a gente
+
+21
+00:00:47,808 --> 00:00:49,748
+eu vou mostrar, mas não tem como eu
+
+22
+00:00:49,748 --> 00:00:51,508
+ensinar tudo isso pra vocês em dois dias
+
+23
+00:00:51,508 --> 00:00:53,468
+de qualquer maneira vocês vão ficar
+
+24
+00:00:53,468 --> 00:00:55,808
+de queixo caído com tudo que vocês vão fazer
+
+25
+00:00:55,808 --> 00:00:57,748
+aqui. Amanhã, vocês vão terminar
+
+26
+00:00:57,748 --> 00:00:59,628
+falando, eu não acredito que eu estou com isso aqui publicado
+
+27
+00:00:59,628 --> 00:01:01,688
+no ar funcionando. Vocês vão gostar
+
+28
+00:01:01,688 --> 00:01:03,128
+muito, tá? Então confia em mim,
+
+29
+00:01:03,168 --> 00:01:05,488
+que eu preparei algo especial para vocês aqui.
+
+30
+00:01:05,668 --> 00:01:07,748
+Juan, eu tenho visto um movimento crescente nas comunidades
+
+31
+00:01:07,748 --> 00:01:09,568
+e soluções de agentes, harners.
+
+32
+00:01:10,488 --> 00:01:11,708
+Sim, para gastar menos
+
+33
+00:01:11,708 --> 00:01:13,208
+tokens, está certo, é isso mesmo.
+
+34
+00:01:14,684 --> 00:01:16,904
+De substituição de subagentes especializados
+
+35
+00:01:16,904 --> 00:01:18,584
+por agentes mais genéricos, mas com skills
+
+36
+00:01:18,584 --> 00:01:20,884
+especializados. Até aqui eu tenho sempre usado
+
+37
+00:01:20,884 --> 00:01:22,824
+subagentes especializados, mas estou considerando
+
+38
+00:01:22,824 --> 00:01:24,924
+virar os fluxos dos meus projetos. Você está
+
+39
+00:01:24,924 --> 00:01:26,704
+em qual dos times? Eu gosto
+
+40
+00:01:26,704 --> 00:01:28,864
+muito de projetos hardness. O que é
+
+41
+00:01:28,864 --> 00:01:30,424
+um projeto hardness? Para a galera que
+
+42
+00:01:30,984 --> 00:01:32,984
+nunca ouviu falar disso. Você pode
+
+43
+00:01:32,984 --> 00:01:34,864
+pedir para a sua IA fazer tudo por você,
+
+44
+00:01:34,964 --> 00:01:36,944
+mas aí você tem que ter bala na agulha
+
+45
+00:01:36,944 --> 00:01:39,124
+e ir pagando token, ela vai fazer tudo para você.
+
+46
+00:01:39,504 --> 00:01:40,924
+Agora, se você quiser economizar
+
+47
+00:01:40,924 --> 00:01:43,224
+tokens ou até criar um projeto mais inteligente,
+
+48
+00:01:43,224 --> 00:01:45,004
+você trabalha criando scripts
+
+49
+00:01:45,484 --> 00:01:47,684
+sabe aquelas tarefas que são repetitivas
+
+50
+00:01:47,684 --> 00:01:50,224
+ao invés de colocar IA para fazer tarefa repetitiva
+
+51
+00:01:50,224 --> 00:01:51,944
+você pede para IA escrever um script
+
+52
+00:01:51,944 --> 00:01:53,864
+para você e esse script o seu
+
+53
+00:01:53,864 --> 00:01:55,664
+computador vai rodar ele, sem IA
+
+54
+00:01:55,664 --> 00:01:57,884
+então é um passo a passo, é um roteirinho
+
+55
+00:01:57,884 --> 00:01:59,144
+mesmo para o seu computador seguir
+
+56
+00:01:59,144 --> 00:02:01,984
+e aí quando ele segue nesse roteiro ele aprende sobre
+
+57
+00:02:01,984 --> 00:02:04,084
+ele entende o passo a passo
+
+58
+00:02:04,084 --> 00:02:06,064
+segue exatamente como você determinou
+
+59
+00:02:06,064 --> 00:02:07,264
+ali e entrega o resultado
+
+60
+00:02:07,264 --> 00:02:10,224
+isso não gasta token, scripts são do computador
+
+61
+00:02:10,224 --> 00:02:11,424
+mesmo executando comandos
+
+62
+00:02:11,424 --> 00:02:13,884
+e aí isso é uma das coisas
+
+63
+00:02:13,884 --> 00:02:15,904
+da estrutura hardness, que é quando você coloca
+
+64
+00:02:15,904 --> 00:02:17,924
+a sua infraestrutura para criar
+
+65
+00:02:17,924 --> 00:02:20,024
+e projetar e não ficar tudo na mão
+
+66
+00:02:20,024 --> 00:02:21,664
+da inteligência artificial, isso é bom
+
+67
+00:02:21,664 --> 00:02:24,004
+só que tem uma barreira de entrada maior, você tem que saber
+
+68
+00:02:24,004 --> 00:02:25,824
+o que você está fazendo, tem que estudar mais
+
+69
+00:02:25,824 --> 00:02:27,584
+para entender como construir isso do jeito certo
+
+70
+00:02:27,584 --> 00:02:29,304
+mas é inteligente, tá?
+
+71
+00:02:29,364 --> 00:02:32,104
+é inteligente. Juan, eu consigo usar esse mesmo
+
+72
+00:02:32,104 --> 00:02:33,944
+storybook em outros projetos para aproveitar os
+
+73
+00:02:33,944 --> 00:02:35,984
+componentes? Exatamente, essa é a vantagem
+
+74
+00:02:35,984 --> 00:02:37,924
+de criar seu design system, só que o que eu
+
+75
+00:02:37,924 --> 00:02:39,944
+recomendo se você for fazer assim, você vai criar
+
+76
+00:02:39,944 --> 00:02:41,804
+uma nova pasta fora do seu
+
+77
+00:02:41,804 --> 00:02:43,584
+brand system, você vai
+
+78
+00:02:43,584 --> 00:02:45,724
+configurar essa pasta como seu design system,
+
+79
+00:02:45,964 --> 00:02:47,584
+só isso. E aí você vai instalar
+
+80
+00:02:47,584 --> 00:02:49,904
+o storybook lá, instala os componentes
+
+81
+00:02:49,904 --> 00:02:51,744
+e cria o design system só nessa pasta.
+
+82
+00:02:52,184 --> 00:02:53,784
+Depois, sempre que você criar um
+
+83
+00:02:53,784 --> 00:02:55,904
+arquivo novo, você vai puxar essa pasta
+
+84
+00:02:55,904 --> 00:02:57,544
+aqui para o chat e vai falar, para o
+
+85
+00:02:57,544 --> 00:02:59,924
+cloud vai falar, eu quero que você use os componentes
+
+86
+00:02:59,924 --> 00:03:01,764
+desse design system, aí ele vai extrair
+
+87
+00:03:01,764 --> 00:03:04,024
+de lá. Se você fizer isso em cima
+
+88
+00:03:04,024 --> 00:03:05,784
+aqui, pode ser que ele
+
+89
+00:03:05,784 --> 00:03:07,844
+puxe coisas do brand system ao invés
+
+90
+00:03:07,844 --> 00:03:09,884
+do Design System, entendeu? Então é melhor
+
+91
+00:03:09,884 --> 00:03:11,924
+fazer separado. Então vamos lá, vou explicar
+
+92
+00:03:11,924 --> 00:03:13,084
+aqui a primeira dúvida do Ricardo.
+
+93
+00:03:13,764 --> 00:03:15,404
+É barra, skill e o que mais?
+
+94
+00:03:16,424 --> 00:03:17,464
+Não é barra, skill.
+
+95
+00:03:17,764 --> 00:03:19,764
+Você fala para ativar a skill, você coloca
+
+96
+00:03:19,764 --> 00:03:21,804
+barra e o nome da skill. Se não aparecer
+
+97
+00:03:21,804 --> 00:03:23,764
+ela ali, provavelmente é porque o nome da
+
+98
+00:03:23,764 --> 00:03:25,464
+pasta está agents ao invés de cloud.
+
+99
+00:03:25,644 --> 00:03:26,884
+Aí tem que trocar, beleza?
+
+100
+00:03:31,644 --> 00:03:32,864
+Como instalar os agent skills.
+
+101
+00:03:33,184 --> 00:03:36,484
+Eu vou dar aqui para vocês um caminho que vocês podem seguir depois, tá?
+
+102
+00:03:37,164 --> 00:03:38,204
+Vocês vão acessar o YouTube.
+
+103
+00:03:39,044 --> 00:03:42,264
+E quando vocês acessarem o YouTube, vocês vão digitar aqui, Juan Brás.
+
+104
+00:03:42,884 --> 00:03:46,044
+Aí vocês vão ver no meu canal e vão assistir essa aula aqui, ó.
+
+105
+00:03:46,104 --> 00:03:47,684
+Já vai bater 6 mil visualizações.
+
+106
+00:03:47,704 --> 00:03:49,024
+Eu gravei ela há quatro dias.
+
+107
+00:03:49,484 --> 00:03:51,064
+Inclusive, eu gravei ela para vocês.
+
+108
+00:03:51,084 --> 00:03:54,804
+A gente colocou nos documentos lá para vocês acessarem o nosso YouTube.
+
+109
+00:03:55,184 --> 00:03:59,944
+Mas essa aula aqui, eu apresento algumas das skills que eu mais gosto de usar.
+
+110
+00:04:01,104 --> 00:04:02,564
+inclusive, deixa eu pular aqui
+
+111
+00:04:04,476 --> 00:04:07,676
+Inclusive, eu mostro aqui o Supabase também.
+
+112
+00:04:07,916 --> 00:04:13,176
+Eu mostro aqui, está falando sete skills, mas eu acho que são oito ou dez skills que eu mostro aqui.
+
+113
+00:04:13,276 --> 00:04:15,596
+E eu explico como instalar ela, beleza?
+
+114
+00:04:15,916 --> 00:04:18,736
+Aí vocês vão poder ver com calma lá no YouTube depois dessa aulinha aqui
+
+115
+00:04:18,736 --> 00:04:21,216
+e conseguem instalar qualquer skill, tá bom?
+
+116
+00:04:21,296 --> 00:04:23,036
+Bem tranquilo, vocês não precisam se preocupar não.
+
+117
+00:04:23,776 --> 00:04:25,756
+Inclusive, essa Supabase, olha aqui, ó.
+
+118
+00:04:26,336 --> 00:04:30,836
+Assim no app.tx, agent browser, deixa eu ver aqui, ó.
+
+119
+00:04:31,056 --> 00:04:33,656
+Supabase, tá vendo? Supabase Postgres Best Presses.
+
+120
+00:04:33,656 --> 00:04:35,316
+eu falo dela aqui também no vídeo
+
+121
+00:04:35,316 --> 00:04:37,096
+então aqui vocês já tem o caminho
+
+122
+00:04:37,096 --> 00:04:38,196
+não vão perder mais
+
+123
+00:04:38,756 --> 00:04:41,336
+tem trilha de desenvolvimento no Overpass ou só na
+
+124
+00:04:41,336 --> 00:04:42,496
+vanguarda? Fabiano falou
+
+125
+00:04:43,476 --> 00:04:45,716
+desenvolvimento focado assim é só na vanguarda
+
+126
+00:04:45,716 --> 00:04:47,676
+nesse nível de profundidade só na vanguarda
+
+127
+00:04:47,676 --> 00:04:49,436
+mas no Overpass você consegue aprender
+
+128
+00:04:49,436 --> 00:04:51,576
+sobre IAs, a história das IAs
+
+129
+00:04:51,576 --> 00:04:53,356
+como usar IA para geração de imagens
+
+130
+00:04:53,356 --> 00:04:55,196
+geração de vídeos, geração de música
+
+131
+00:04:55,196 --> 00:04:57,276
+como escrever
+
+132
+00:04:57,276 --> 00:04:59,796
+promptos melhores, agora desenvolvimento
+
+133
+00:04:59,796 --> 00:05:01,616
+nesse nível aqui, você tem
+
+134
+00:05:01,616 --> 00:05:03,536
+ir no Atlas, igual eu tô mostrando aqui pra vocês,
+
+135
+00:05:03,656 --> 00:05:05,696
+e aí quem assina o Overpass tem acesso à gravação
+
+136
+00:05:05,696 --> 00:05:06,776
+do Atlas, ou
+
+137
+00:05:07,276 --> 00:05:09,236
+se você quiser ir mais avançado mesmo,
+
+138
+00:05:09,436 --> 00:05:11,456
+que vai ficar muito bom, igual eu falei, em menos
+
+139
+00:05:11,456 --> 00:05:13,536
+de um mês, vocês já sentem que
+
+140
+00:05:13,536 --> 00:05:15,656
+são outra pessoa. Cara, eu nem acredito
+
+141
+00:05:15,656 --> 00:05:17,416
+que eu dou conta de fazer o que eu tô fazendo, na
+
+142
+00:05:17,416 --> 00:05:19,376
+vanguarda, tá? É o nosso melhor
+
+143
+00:05:19,376 --> 00:05:20,016
+programa hoje.
+
+144
+00:05:21,436 --> 00:05:21,816
+Então, beleza.
+
+145
+00:05:23,164 --> 00:05:27,404
+Na parte de skill eu já expliquei aqui para vocês também, sem problema nenhum.
+
+146
+00:05:29,596 --> 00:05:31,876
+Blanche falou, eu quero ficar muito boa nisso, sério.
+
+147
+00:05:31,896 --> 00:05:34,236
+E você consegue, Blanche, confia, eu estou te falando sério.
+
+148
+00:05:34,416 --> 00:05:39,136
+Eu só não entendi ali na parte que você renomeou a pasta agentes para a skill funcionar.
+
+149
+00:05:39,156 --> 00:05:40,336
+É porque o que acontece, tá?
+
+150
+00:05:40,416 --> 00:05:40,956
+É o caminho.
+
+151
+00:05:41,496 --> 00:05:49,136
+O Cloud, para o Cloud funcionar, ele sempre vai buscar a skill dentro de uma pasta .cloud.
+
+152
+00:05:51,004 --> 00:05:53,444
+tem que ter essa pasta com esse nomezinho aqui, ó, .cloud.
+
+153
+00:05:53,924 --> 00:05:55,464
+Dentro dela fica as skills, tá vendo?
+
+154
+00:05:55,684 --> 00:05:58,044
+Aí eu tenho aqui a única skill que eu instalei, que foi o superbase.
+
+155
+00:05:58,344 --> 00:06:01,384
+Se essa pasta tem outro nome, por exemplo, agents,
+
+156
+00:06:01,924 --> 00:06:03,464
+o cloud não acha a skill.
+
+157
+00:06:03,664 --> 00:06:05,964
+Ele não consegue rodar a skill adequadamente.
+
+158
+00:06:06,744 --> 00:06:08,844
+Ele até acha, mas ele não vai rodar como skill.
+
+159
+00:06:09,964 --> 00:06:11,744
+Então, quando a gente vai fazer a instalação,
+
+160
+00:06:11,764 --> 00:06:14,644
+isso é um bug ali do sistema da Vercel, que é o skill.sh,
+
+161
+00:06:14,744 --> 00:06:16,644
+que mesmo quando você marca cloud,
+
+162
+00:06:16,864 --> 00:06:19,624
+ele não cria a pasta cloud, ele cria a pasta agents.
+
+163
+00:06:19,624 --> 00:06:21,884
+Agents. Aí a gente tem que vir aqui e renomear
+
+164
+00:06:21,884 --> 00:06:23,584
+a pasta Agents para Cloud.
+
+165
+00:06:23,964 --> 00:06:26,024
+Se você estiver usando o Gemini
+
+166
+00:06:26,024 --> 00:06:27,644
+ou estiver usando o
+
+167
+00:06:27,644 --> 00:06:30,004
+Codex, eles não usam a pasta
+
+168
+00:06:30,004 --> 00:06:31,724
+Cloud. Eles usam a pasta
+
+169
+00:06:32,744 --> 00:06:33,864
+.Agents. E aí
+
+170
+00:06:33,864 --> 00:06:35,744
+nesse caso, você não precisa fazer
+
+171
+00:06:35,744 --> 00:06:37,624
+nada. Eles vão conseguir carregar a skill
+
+172
+00:06:37,624 --> 00:06:39,824
+normalmente. Entendeu? Então isso aqui
+
+173
+00:06:39,824 --> 00:06:41,024
+é um ajuste para quem usa Cloud.
+
+174
+00:06:42,652 --> 00:06:45,312
+Juan, e nas hospedagens normais do mercado, como que faz?
+
+175
+00:06:45,652 --> 00:06:48,832
+Marcelo, aí vai depender da documentação de cada hospedagem.
+
+176
+00:06:49,032 --> 00:06:53,612
+O da Aversell é muito fácil, porque a Aversell preparou isso com o IA.
+
+177
+00:06:53,812 --> 00:06:56,392
+Mas dependendo da hospedagem que você escolher,
+
+178
+00:06:56,492 --> 00:07:01,992
+se ela não tiver preparado o ambiente dela para conectar a IA desse jeito,
+
+179
+00:07:02,172 --> 00:07:05,772
+aí você tem que pegar DNS, tem que fazer a configuração toda,
+
+180
+00:07:05,812 --> 00:07:08,152
+uma parte dessa configuração é manual.
+
+181
+00:07:08,632 --> 00:07:10,192
+Aí é um pouquinho chato.
+
+182
+00:07:11,420 --> 00:07:14,480
+Aí, se você não quiser ter trabalho, faz na Vercel aqui, que é muito bom.
+
+183
+00:07:14,640 --> 00:07:16,660
+Henrique está perguntando, é melhor fazer pelo GitHub?
+
+184
+00:07:16,980 --> 00:07:18,340
+GitHub é outra coisa.
+
+185
+00:07:18,520 --> 00:07:20,540
+Para publicar, a gente não publica no GitHub.
+
+186
+00:07:20,740 --> 00:07:24,400
+Até dá para publicar lá, mas não é tão bom quanto na Vercel, tá?
+
+187
+00:07:24,700 --> 00:07:26,560
+Não posso usar a Vercel. Qual que eu uso?
+
+188
+00:07:27,080 --> 00:07:27,460
+Netlify.
+
+189
+00:07:28,000 --> 00:07:29,540
+Dá para usar a Netlify também.
+
+190
+00:07:29,720 --> 00:07:30,480
+Presta atenção aqui.
+
+191
+00:07:31,708 --> 00:07:36,048
+Funciona assim, você tem o Git, você instala o Git no seu computador,
+
+192
+00:07:36,168 --> 00:07:39,188
+você tem que instalar ele para instalar o Cloud, não tem como,
+
+193
+00:07:39,308 --> 00:07:40,548
+então vocês já tem ele instalado aí.
+
+194
+00:07:41,548 --> 00:07:41,948
+Beleza.
+
+195
+00:07:42,148 --> 00:07:44,628
+O Git serve para versionar seu projeto.
+
+196
+00:07:45,168 --> 00:07:47,908
+Versão 1, versão 2, versão 3.
+
+197
+00:07:48,168 --> 00:07:50,928
+Ele vai trabalhar num padrão global de três números,
+
+198
+00:07:51,068 --> 00:07:52,988
+que é a versão aqui, aí tem a versão...
+
+199
+00:07:54,652 --> 00:07:58,272
+que são basicamente, isso aqui é basicamente uma hierarquia de mudanças.
+
+200
+00:07:58,292 --> 00:08:01,852
+Esse número muda quando você tem uma nova versão do sistema.
+
+201
+00:08:02,092 --> 00:08:04,472
+Esse número muda quando lançou alguma feature.
+
+202
+00:08:04,712 --> 00:08:08,472
+E esse número muda quando você corrigiu algum bug ou coisa pequena.
+
+203
+00:08:08,912 --> 00:08:10,412
+Certo? Então isso é um versionamento.
+
+204
+00:08:11,868 --> 00:08:13,508
+O Git vai versionando para você.
+
+205
+00:08:13,648 --> 00:08:15,248
+E como ele vai versionando isso?
+
+206
+00:08:15,408 --> 00:08:20,328
+Ele vai guardando isso à medida que você faz o que a gente chama de commit.
+
+207
+00:08:21,756 --> 00:08:25,456
+O commit é um histórico das mudanças que você fez.
+
+208
+00:08:27,356 --> 00:08:31,056
+Então, adicionei login, aí você faz um commit de adicionar login.
+
+209
+00:08:31,516 --> 00:08:34,316
+Adicionei uma página de A, commit de adicionar página de A.
+
+210
+00:08:34,416 --> 00:08:37,096
+Cada feature nova que vocês lançam, vocês fazem um commit.
+
+211
+00:08:37,336 --> 00:08:40,716
+Esse é o jeito certo de trabalhar com o desenvolvimento do software.
+
+212
+00:08:41,176 --> 00:08:44,216
+Depois que você faz o commit, você vai fazer também um push.
+
+213
+00:08:44,516 --> 00:08:47,656
+Se você trabalha sozinho, você vai fazendo push tudo direto
+
+214
+00:08:47,656 --> 00:08:50,296
+no que a gente chama de main branch.
+
+215
+00:08:52,028 --> 00:08:53,668
+que basicamente é...
+
+216
+00:08:55,740 --> 00:08:59,420
+O local dentro do GitHub, por exemplo,
+
+217
+00:08:59,580 --> 00:09:02,500
+onde você salva a versão principal do seu projeto.
+
+218
+00:09:02,740 --> 00:09:04,360
+Quando você trabalha com equipes,
+
+219
+00:09:04,360 --> 00:09:06,100
+você pode abrir o que a gente chama de branches,
+
+220
+00:09:06,260 --> 00:09:07,080
+que são galhos,
+
+221
+00:09:07,740 --> 00:09:09,120
+e paralelizar o seu projeto
+
+222
+00:09:09,120 --> 00:09:11,140
+para que outras pessoas trabalhem nele.
+
+223
+00:09:12,348 --> 00:09:17,668
+junto com você depois vocês tem aqui a avenida principal digamos assim a via principal
+
+224
+00:09:19,228 --> 00:09:22,008
+E aí, vamos supor que o Joãozinho aqui e a Maria
+
+225
+00:09:22,008 --> 00:09:23,708
+fizeram alterações no projeto.
+
+226
+00:09:23,948 --> 00:09:26,708
+Eles vão solicitar um PR, que a gente fala aqui,
+
+227
+00:09:27,468 --> 00:09:28,728
+e quando eles solicitam esse PR,
+
+228
+00:09:28,888 --> 00:09:30,948
+você pode decidir se vai fazer um merge,
+
+229
+00:09:31,208 --> 00:09:34,688
+que é juntar o que eles alteraram
+
+230
+00:09:34,688 --> 00:09:36,368
+com o que você tem no projeto original.
+
+231
+00:09:36,688 --> 00:09:38,168
+Isso tudo aqui na vanguarda,
+
+232
+00:09:38,168 --> 00:09:39,828
+eu explico com mais calma para vocês, tá?
+
+233
+00:09:41,084 --> 00:09:44,944
+E aí, dentro desse processo aqui, você vai versionando e cuidando
+
+234
+00:09:44,944 --> 00:09:47,764
+para que o projeto seja bem documentado, beleza?
+
+235
+00:09:49,372 --> 00:09:50,852
+À medida que você vai fazendo isso aqui,
+
+236
+00:09:51,632 --> 00:09:53,852
+isso aqui é todo um processo de gestão do projeto.
+
+237
+00:09:54,072 --> 00:09:57,472
+Cada feature nova, você vai fazer commit e vai fazer push,
+
+238
+00:09:57,692 --> 00:09:59,632
+se você estiver sozinho, no mínimo.
+
+239
+00:10:00,052 --> 00:10:03,932
+Fez tudo isso aqui, o GitHub vai armazenar para você
+
+240
+00:10:03,932 --> 00:10:07,192
+todas essas alterações, todo esse histórico.
+
+241
+00:10:07,292 --> 00:10:09,892
+Vai armazenar para você, inclusive, o seu repositório
+
+242
+00:10:09,892 --> 00:10:11,192
+com todos os seus arquivos.
+
+243
+00:10:11,352 --> 00:10:13,052
+Ele armazena tudo mesmo? Não.
+
+244
+00:10:13,192 --> 00:10:15,412
+Tem arquivo que a gente chama, dentro de uma pastinha,
+
+245
+00:10:15,472 --> 00:10:16,972
+chamada de Git Ignore.
+
+246
+00:10:16,972 --> 00:10:19,732
+O Git ignore, literalmente ignora.
+
+247
+00:10:20,860 --> 00:10:22,460
+ele fala quais são os arquivos
+
+248
+00:10:22,460 --> 00:10:24,900
+que devem ser ignorados na hora de fazer o push
+
+249
+00:10:24,900 --> 00:10:28,200
+e subir aqui o push para o GitHub, tá?
+
+250
+00:10:28,320 --> 00:10:30,180
+Subir os arquivos para o repositório online.
+
+251
+00:10:31,900 --> 00:10:33,960
+Isso aqui é uma gestão interna.
+
+252
+00:10:34,060 --> 00:10:37,320
+Você pode compartilhar o seu repositório com outras pessoas.
+
+253
+00:10:37,640 --> 00:10:39,680
+A gente chama isso de open source.
+
+254
+00:10:39,980 --> 00:10:43,160
+Ou, às vezes, também não é só um open source, depende da licença,
+
+255
+00:10:43,300 --> 00:10:45,160
+mas, no geral, é um pouco sobre isso.
+
+256
+00:10:45,820 --> 00:10:47,160
+Qual que é o processo, então?
+
+257
+00:10:47,860 --> 00:10:49,100
+Você faz commit?
+
+258
+00:10:49,960 --> 00:10:50,980
+Não, você tem a fit.
+
+259
+00:10:51,040 --> 00:10:54,620
+Na verdade, se eu fosse falar o processo todo correto, bem feito,
+
+260
+00:10:54,820 --> 00:10:57,660
+vai lá desde trás, metodologia ágil,
+
+261
+00:10:57,700 --> 00:10:59,780
+você pode usar aqui um sprint, por exemplo, scrum,
+
+262
+00:10:59,780 --> 00:11:01,640
+e aí você vai ter ali os stories,
+
+263
+00:11:01,860 --> 00:11:05,820
+divide os stories dentro de especificações técnicas aqui,
+
+264
+00:11:06,520 --> 00:11:08,380
+e entregas, aí você tem um backlog
+
+265
+00:11:08,380 --> 00:11:10,800
+de entregas para fazer do seu sistema,
+
+266
+00:11:10,840 --> 00:11:12,320
+tudo que ele precisa atualizar.
+
+267
+00:11:12,800 --> 00:11:14,500
+Você vai ter também os bugs, né,
+
+268
+00:11:14,560 --> 00:11:17,260
+para fazer bug fix, correção de bugs.
+
+269
+00:11:17,660 --> 00:11:19,820
+E tem uma série de processos aqui,
+
+270
+00:11:19,860 --> 00:11:21,500
+se você for trabalhar com isso num nível
+
+271
+00:11:21,500 --> 00:11:23,260
+pro mesmo, pra...
+
+272
+00:11:24,668 --> 00:11:28,308
+Mas aí você tem ali o seu backlog e sua fila de tarefas.
+
+273
+00:11:28,308 --> 00:11:30,248
+Aí você realizou uma feature, que a gente fala.
+
+274
+00:11:31,108 --> 00:11:32,808
+Essa feature que você realizou
+
+275
+00:11:33,848 --> 00:11:35,668
+adicionou um recurso novo na sua plataforma.
+
+276
+00:11:35,768 --> 00:11:36,988
+Agora eu tenho...
+
+277
+00:11:38,428 --> 00:11:41,588
+Agora o meu brand system tem geração de imagem.
+
+278
+00:11:42,068 --> 00:11:44,288
+É uma feature nova que você adicionou nele.
+
+279
+00:11:44,868 --> 00:11:46,748
+Trabalha na feature e faz o processo todo.
+
+280
+00:11:46,928 --> 00:11:48,268
+Terminou, você vai fazer o commit.
+
+281
+00:11:49,852 --> 00:11:51,552
+Aí você versiona essa feature.
+
+282
+00:11:51,612 --> 00:11:53,412
+Vai falar, olha, atualização X,
+
+283
+00:11:54,132 --> 00:11:56,552
+o que eu fiz aqui foi isso, isso, isso, isso.
+
+284
+00:11:56,672 --> 00:11:57,792
+Aí amonta isso aqui para você.
+
+285
+00:11:58,072 --> 00:12:00,152
+Antigamente, os devs tinham que ficar escrevendo.
+
+286
+00:12:00,252 --> 00:12:01,612
+E todo mundo, todo mundo não,
+
+287
+00:12:01,652 --> 00:12:03,812
+mas a maioria das pessoas, os devs preguiçosos,
+
+288
+00:12:03,812 --> 00:12:05,532
+faziam commit tudo porco
+
+289
+00:12:05,532 --> 00:12:08,152
+e não escrevia aqui o que eles estavam atualizando.
+
+290
+00:12:08,292 --> 00:12:09,212
+Quem aí se identificou?
+
+291
+00:12:09,232 --> 00:12:11,112
+Fala aí, deve ter alguém aí
+
+292
+00:12:11,492 --> 00:12:12,892
+que já fez commit mal feito.
+
+293
+00:12:12,992 --> 00:12:15,012
+Fala aí, admite, manda no chat aí.
+
+294
+00:12:15,192 --> 00:12:16,972
+Hoje em dia os commits é tudo bonitinho,
+
+295
+00:12:16,992 --> 00:12:18,492
+porque aí é a que faz, não é ser humano mais.
+
+296
+00:12:18,492 --> 00:12:20,392
+então você faz, olha lá
+
+297
+00:12:21,032 --> 00:12:22,952
+o Bruno falou, confesca
+
+298
+00:12:22,952 --> 00:12:25,412
+é, vocês acham
+
+299
+00:12:25,412 --> 00:12:26,212
+que eu não sei, mas enfim
+
+300
+00:12:26,212 --> 00:12:29,232
+faz o commit, depois do commit você faz o punch
+
+301
+00:12:29,232 --> 00:12:30,652
+o que é o punch? Você sobe
+
+302
+00:12:30,652 --> 00:12:33,152
+essa versão nova lá pro GitHub
+
+303
+00:12:33,792 --> 00:12:35,192
+subiu, fez isso aqui, tá tudo
+
+304
+00:12:35,192 --> 00:12:37,192
+certinho, se o seu GitHub está
+
+305
+00:12:37,192 --> 00:12:38,372
+conectado na Vercel
+
+306
+00:12:39,472 --> 00:12:41,352
+automaticamente vai iniciar o processo
+
+307
+00:12:41,352 --> 00:12:43,092
+de deploy, se
+
+308
+00:12:43,092 --> 00:12:45,092
+ele não tá conectado, seu GitHub na
+
+309
+00:12:45,092 --> 00:12:47,152
+Vercel, você vai chegar pra IA
+
+310
+00:12:47,152 --> 00:12:48,992
+e vai falar para a IA, IA, faz o deploy.
+
+311
+00:12:49,252 --> 00:12:51,312
+Ou então, a GrossMod vai chegar e falar,
+
+312
+00:12:51,392 --> 00:12:53,152
+IA, publica o projeto para nós.
+
+313
+00:12:53,372 --> 00:12:54,992
+Aí ela vai publicar o projeto para vocês.
+
+314
+00:12:55,852 --> 00:12:58,612
+Beleza, tem o projeto ali funcionando, tudo certo.
+
+315
+00:12:58,992 --> 00:13:00,112
+O que vai acontecer agora?
+
+316
+00:13:00,852 --> 00:13:03,332
+Trabalhei em uma nova feature, estou trabalhando nela aqui,
+
+317
+00:13:03,452 --> 00:13:04,692
+só que eu não fiz deploy.
+
+318
+00:13:05,052 --> 00:13:07,492
+Você vai ver ela aqui no seu dev server.
+
+319
+00:13:07,972 --> 00:13:09,952
+Então, você vai carregar ela com o quê?
+
+320
+00:13:10,792 --> 00:13:12,352
+npm run dev.
+
+321
+00:13:13,292 --> 00:13:13,732
+Lembra?
+
+322
+00:13:14,692 --> 00:13:16,772
+npm run dev.
+
+323
+00:13:17,152 --> 00:13:19,892
+Você vai rodar assim, aí você vai ver localmente.
+
+324
+00:13:19,892 --> 00:13:22,292
+Sabe aquele arquivinho lá, aquele caminho?
+
+325
+00:13:22,372 --> 00:13:24,332
+Local, host, 3000.
+
+326
+00:13:25,732 --> 00:13:27,072
+Só você consegue ver.
+
+327
+00:13:27,192 --> 00:13:30,792
+Inclusive tem um meme aí rodando na internet do cara todo empolgado no WhatsApp falando
+
+328
+00:13:30,792 --> 00:13:34,652
+Mano, agora eu crio meus próprios sistemas, dá uma olhada no que eu fiz.
+
+329
+00:13:34,872 --> 00:13:37,952
+Aí ele manda o link do local host lá para o amigo dele.
+
+330
+00:13:39,900 --> 00:13:42,600
+o amigo dele não vai conseguir ler o localhost
+
+331
+00:13:42,600 --> 00:13:44,680
+porque ele não tem o repositório
+
+332
+00:13:44,680 --> 00:13:46,560
+ele não vai conseguir rodar o projeto
+
+333
+00:13:46,560 --> 00:13:47,800
+ele não tem os arquivos
+
+334
+00:13:47,800 --> 00:13:50,040
+por isso que a gente publica, entendeu?
+
+335
+00:13:50,780 --> 00:13:52,740
+ó o Vitor, eu fiz isso ontem
+
+336
+00:13:55,452 --> 00:13:57,912
+Sempre tem, Vitor. Tá tudo bem, cara.
+
+337
+00:13:59,352 --> 00:13:59,832
+Acontece.
+
+338
+00:14:00,992 --> 00:14:02,172
+Sempre tem, cara.
+
+339
+00:14:02,232 --> 00:14:04,092
+Sempre tem, faz parte do jogo,
+
+340
+00:14:04,112 --> 00:14:04,672
+é isso aí.
+
+341
+00:14:08,444 --> 00:14:10,664
+Mas enfim, tem que explicar a piada, né?
+
+342
+00:14:10,724 --> 00:14:12,564
+Senão só algumas pessoas iam rir.
+
+343
+00:14:12,604 --> 00:14:15,724
+Mas enfim, então você roda DevServer.
+
+344
+00:14:15,944 --> 00:14:18,384
+Se você quer ser mais robusto ainda,
+
+345
+00:14:18,524 --> 00:14:20,664
+você vai ter duas linhas de montagem, digamos aqui.
+
+346
+00:14:20,924 --> 00:14:22,304
+Você vai ter o que a gente chama de Stage
+
+347
+00:14:22,924 --> 00:14:24,824
+e você vai ter o que a gente chama de Prod.
+
+348
+00:14:26,044 --> 00:14:28,224
+stage, você publica
+
+349
+00:14:28,224 --> 00:14:30,104
+o projeto, você faz deploy dele, só que você faz
+
+350
+00:14:30,104 --> 00:14:32,004
+deploy num link que
+
+351
+00:14:32,004 --> 00:14:33,964
+só internamente, só pessoas que são
+
+352
+00:14:33,964 --> 00:14:36,184
+beta testers, pessoas que estão experimentando
+
+353
+00:14:36,184 --> 00:14:37,984
+vão ter acesso a esse link. Então é um
+
+354
+00:14:37,984 --> 00:14:39,824
+clone da plataforma, às vezes com um
+
+355
+00:14:39,824 --> 00:14:41,284
+banco de dados clonado também
+
+356
+00:14:41,284 --> 00:14:43,684
+pra você fazer testes
+
+357
+00:14:43,684 --> 00:14:45,564
+antes de lançar a versão oficial,
+
+358
+00:14:45,664 --> 00:14:47,844
+sair do beta e lançar pra outras
+
+359
+00:14:47,844 --> 00:14:49,744
+pessoas. Aí você lança em prod, que é a produção,
+
+360
+00:14:50,004 --> 00:14:51,584
+que aqui é a linha de todo mundo.
+
+361
+00:14:51,804 --> 00:14:53,964
+Ou seja, né, aqui
+
+362
+00:14:53,964 --> 00:14:55,084
+você pode ir
+
+363
+00:14:55,084 --> 00:14:55,204
+E...
+
+364
+00:14:56,828 --> 00:14:58,588
+sofisticando o processo cada vez mais.
+
+365
+00:14:58,668 --> 00:15:01,028
+Eu estou ensinando para vocês a base, por isso que eu falei.
+
+366
+00:15:01,128 --> 00:15:04,508
+Vocês estão aprendendo aqui a base, mas tem muita coisa aqui que vocês podem aprender
+
+367
+00:15:04,508 --> 00:15:06,348
+e que vai ser muito legal vocês aprenderem.
+
+368
+00:15:07,148 --> 00:15:09,688
+No jeito mais básico, Juan, que eu posso trabalhar,
+
+369
+00:15:09,808 --> 00:15:11,408
+é trabalhar em uma linha só.
+
+370
+00:15:12,248 --> 00:15:14,568
+Trabalhou na feature, testa ela em servidor local,
+
+371
+00:15:14,768 --> 00:15:19,128
+deu tudo certo, você tem que fazer o deploy para as pessoas verem no link que você postou.
+
+372
+00:15:19,188 --> 00:15:20,428
+Tem que publicar lá na Vercel.
+
+373
+00:15:20,788 --> 00:15:24,168
+Publicou na Vercel, as outras pessoas vão conseguir ver o que você fez.
+
+374
+00:15:24,348 --> 00:15:26,648
+Se você não publicar, elas não vão ver.
+
+375
+00:15:26,648 --> 00:15:28,628
+e aí você vai ficar, que droga, aqui no meu computador
+
+376
+00:15:28,628 --> 00:15:30,188
+funciona, por que não está funcionando aí no seu?
+
+377
+00:15:30,388 --> 00:15:32,068
+Aí você vai ver, você não publicou o projeto.
+
+378
+00:15:32,348 --> 00:15:34,168
+Tá bom? Então tem que publicar ele.
+
+379
+00:15:35,148 --> 00:15:36,028
+Certo? Então
+
+380
+00:15:36,728 --> 00:15:38,508
+isso aqui é o
+
+381
+00:15:38,508 --> 00:15:40,008
+caminho, usando o GitHub,
+
+382
+00:15:40,848 --> 00:15:42,408
+sofisticando o processo, para
+
+383
+00:15:42,408 --> 00:15:44,628
+desenvolver software. Tem, igual eu falei,
+
+384
+00:15:44,708 --> 00:15:46,748
+tem bug fix, que é a parte de correção
+
+385
+00:15:46,748 --> 00:15:48,428
+de bugs, tem várias
+
+386
+00:15:48,428 --> 00:15:50,628
+camadas aqui que você pode ir conectando
+
+387
+00:15:50,628 --> 00:15:52,508
+a inteligência artificial para ela ir aprimorando
+
+388
+00:15:52,508 --> 00:15:54,588
+o projeto com você. Tá bom?
+

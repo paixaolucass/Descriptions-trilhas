@@ -1,0 +1,1228 @@
+1
+00:00:00,124 --> 00:00:07,964
+Sejam muito bem-vindos e bem-vindas para a segunda parte do primeiro dia do nosso querido Atlas Brand System.
+
+2
+00:00:08,744 --> 00:00:13,804
+Chegou a hora de a gente colocar a mão na massa. Antes a gente vai ter um checkpoint aqui.
+
+3
+00:00:14,164 --> 00:00:15,424
+Vou atualizar vocês.
+
+4
+00:00:16,324 --> 00:00:19,604
+Estava dando uma lida ali no chat também do nosso grupo de networking.
+
+5
+00:00:20,284 --> 00:00:23,344
+Galera se ajudando ali para poder fazer as instalações.
+
+6
+00:00:23,564 --> 00:00:27,544
+Vi que surgiram algumas dúvidas lá, inclusive. Vou tirar essas dúvidas aqui junto com vocês.
+
+7
+00:00:28,304 --> 00:00:36,344
+Então, nesses primeiros 10 minutos aqui, é uma recapitulação e também é um momento para eu tirar dúvidas de vocês antes de a gente ir para a prática.
+
+8
+00:00:36,484 --> 00:00:39,284
+Tem uma dúvida que eu já quero tirar aqui de cara que tem a ver com isso, né?
+
+9
+00:00:40,700 --> 00:00:42,960
+que algumas pessoas perguntaram assim,
+
+10
+00:00:43,560 --> 00:00:45,860
+como assim instalar o Cloud?
+
+11
+00:00:46,480 --> 00:00:48,720
+Não é só usar o Cloud no navegador?
+
+12
+00:00:48,880 --> 00:00:50,860
+Não entendi essa de instalar o Cloud.
+
+13
+00:00:51,380 --> 00:00:53,520
+Lá no checklist eu explico,
+
+14
+00:00:53,520 --> 00:00:54,740
+nos vídeos do checklist,
+
+15
+00:00:55,120 --> 00:00:57,080
+eu explico quais são as diferenças.
+
+16
+00:00:57,260 --> 00:00:59,220
+Mas eu quero reforçar isso aqui para vocês.
+
+17
+00:00:59,860 --> 00:01:01,640
+Isso, inclusive, é uma coisa
+
+18
+00:01:01,640 --> 00:01:02,940
+que a maioria das pessoas não sabem.
+
+19
+00:01:03,200 --> 00:01:05,080
+Você utiliza a sua inteligência artificial
+
+20
+00:01:05,080 --> 00:01:07,220
+e paga, muitas vezes as pessoas pagam
+
+21
+00:01:07,220 --> 00:01:09,760
+para usá-las e usa só o aplicativo
+
+22
+00:01:09,760 --> 00:01:12,160
+do telefone, usa só no navegador.
+
+23
+00:01:12,400 --> 00:01:13,740
+Vocês não estão usando nada
+
+24
+00:01:13,740 --> 00:01:15,560
+do potencial dessas IAs. Nada.
+
+25
+00:01:15,740 --> 00:01:17,760
+Vocês estão gastando dinheiro ali e esse mesmo valor
+
+26
+00:01:17,760 --> 00:01:19,740
+sem precisar atualizar, vocês
+
+27
+00:01:19,740 --> 00:01:21,860
+poderiam estar utilizando muito mais do potencial
+
+28
+00:01:21,860 --> 00:01:23,540
+delas. Isso porque o
+
+29
+00:01:23,540 --> 00:01:25,380
+aplicativo e o
+
+30
+00:01:25,380 --> 00:01:27,860
+a versão na web são muito
+
+31
+00:01:27,860 --> 00:01:29,780
+limitados em questão de acesso
+
+32
+00:01:29,780 --> 00:01:31,540
+do que a IA pode fazer por você.
+
+33
+00:01:31,780 --> 00:01:33,660
+Para isso a gente precisa instalar o
+
+34
+00:01:33,660 --> 00:01:35,820
+Cloud Code, que é
+
+35
+00:01:35,820 --> 00:01:37,800
+diferente usar o Cloud Code de usar o
+
+36
+00:01:37,800 --> 00:01:38,180
+Claude.
+
+37
+00:01:39,388 --> 00:01:43,968
+O Cloud AI é um produto que usa a LLM, o modelo de IA Cloud,
+
+38
+00:01:44,208 --> 00:01:48,428
+mas o Cloud Code também usa o mesmo modelo, só que são produtos diferentes.
+
+39
+00:01:50,588 --> 00:01:52,028
+Então, a gente precisa entender isso.
+
+40
+00:01:52,388 --> 00:01:53,228
+Como que é?
+
+41
+00:01:53,488 --> 00:01:56,308
+Na aula eu expliquei como fazer isso para vocês,
+
+42
+00:01:56,448 --> 00:01:57,768
+mas eu vou compartilhar minha tela aqui,
+
+43
+00:01:57,848 --> 00:01:58,728
+o pessoal está chegando.
+
+44
+00:01:58,868 --> 00:02:00,368
+Mas olha só, se você digita Cloud
+
+45
+00:02:00,368 --> 00:02:03,368
+e utiliza o Cloud aqui no navegador,
+
+46
+00:02:03,468 --> 00:02:05,448
+você está usando o Cloud dentro de um servidor,
+
+47
+00:02:05,528 --> 00:02:07,108
+num computador diferente.
+
+48
+00:02:07,508 --> 00:02:09,188
+Ele não tem acesso aos seus arquivos,
+
+49
+00:02:09,248 --> 00:02:10,728
+ele não tem acesso ao seu computador
+
+50
+00:02:10,728 --> 00:02:13,408
+e ele também não tem acesso ao System Prompt
+
+51
+00:02:14,028 --> 00:02:15,888
+do Cloud Code agêntico.
+
+52
+00:02:16,088 --> 00:02:16,968
+O que isso significa?
+
+53
+00:02:16,968 --> 00:02:18,128
+significa? É o Cloud
+
+54
+00:02:18,128 --> 00:02:20,428
+que consegue construir
+
+55
+00:02:20,428 --> 00:02:22,608
+e agir por você. Ele até faz umas
+
+56
+00:02:22,608 --> 00:02:24,708
+páginas aqui, mas depois você fica
+
+57
+00:02:24,708 --> 00:02:26,428
+limitado, não consegue salvar em um arquivo,
+
+58
+00:02:26,428 --> 00:02:28,468
+conectar com outras IAs. Então,
+
+59
+00:02:28,508 --> 00:02:30,668
+isso aqui é legal só pra
+
+60
+00:02:30,668 --> 00:02:32,608
+conversa. Conversar, mandar
+
+61
+00:02:32,608 --> 00:02:34,768
+alguma coisinha rápida, ou no telefone
+
+62
+00:02:34,768 --> 00:02:36,808
+também. A mesma coisa com o chat GPT,
+
+63
+00:02:36,868 --> 00:02:38,728
+tá? Ah, uso o chat GPT aqui.
+
+64
+00:02:39,368 --> 00:02:40,588
+Beleza, você tá usando ele aqui.
+
+65
+00:02:40,708 --> 00:02:42,668
+Isso aqui é pra conversa, que é
+
+66
+00:02:42,668 --> 00:02:44,628
+bom. Estudar, conversar com a IA,
+
+67
+00:02:45,348 --> 00:02:46,668
+expandir suas possibilidades.
+
+68
+00:02:46,968 --> 00:02:49,228
+Mas para criar, esquece isso aqui.
+
+69
+00:02:49,828 --> 00:02:50,148
+Esquece.
+
+70
+00:02:50,508 --> 00:02:50,828
+Beleza?
+
+71
+00:02:51,188 --> 00:02:52,668
+Isso é bom deixar claro para vocês.
+
+72
+00:02:52,688 --> 00:02:55,208
+Só para a gente forrar o terreno aqui, é legal falar isso.
+
+73
+00:02:55,848 --> 00:02:56,168
+Então...
+
+74
+00:02:57,532 --> 00:02:58,572
+Nós não vamos usar aqui.
+
+75
+00:02:58,812 --> 00:03:02,372
+Só que quando você vem aqui, olha, vou puxar para cá, tem esse ícone,
+
+76
+00:03:02,472 --> 00:03:04,712
+obter apps e extensões, está vendo?
+
+77
+00:03:04,892 --> 00:03:07,052
+Se você clica aqui, tem outros recursos.
+
+78
+00:03:07,712 --> 00:03:12,692
+Aí tem aqui Microsoft Office, para você conectar o Cloud no Microsoft Office.
+
+79
+00:03:12,932 --> 00:03:16,772
+Tem aqui também Cloud Code, e aí você tem tanto a versão do Cloud de desktop,
+
+80
+00:03:17,292 --> 00:03:19,652
+quanto aqui Cloud Code para terminal, está vendo?
+
+81
+00:03:19,792 --> 00:03:24,952
+Terminal, VS Code, aplicativo desktop, JetBrains, Slack, por aí vai.
+
+82
+00:03:24,952 --> 00:03:29,272
+E tem aqui também para baixar para o telefone ou a extensão para o seu navegador.
+
+83
+00:03:29,932 --> 00:03:31,892
+Cada um desses é um recurso diferente.
+
+84
+00:03:32,192 --> 00:03:33,932
+O que nós queremos é isso aqui, terminal.
+
+85
+00:03:34,532 --> 00:03:36,932
+Por que nós queremos utilizar o Cloud no terminal?
+
+86
+00:03:37,132 --> 00:03:41,512
+Porque aí você, a grosso modo, você acorda o Cloud dentro do seu computador.
+
+87
+00:03:41,712 --> 00:03:46,492
+Aí ele pode instalar coisas para você, rodar comandos por você, criar arquivos por você.
+
+88
+00:03:46,972 --> 00:03:49,172
+É possível utilizar o Cloud Desktop.
+
+89
+00:03:49,592 --> 00:03:51,152
+Vou abrir ele aqui para vocês verem.
+
+90
+00:03:51,532 --> 00:03:52,792
+Já é uma evolução.
+
+91
+00:03:52,792 --> 00:03:55,452
+Quando você sai do Cloud aqui no navegador
+
+92
+00:03:55,452 --> 00:03:57,312
+e entra no Cloud aqui em Desktop,
+
+93
+00:03:57,812 --> 00:03:59,732
+já é uma baita de uma evolução.
+
+94
+00:04:00,032 --> 00:04:02,552
+Só para você ver, olha o tanto de recurso novo que eu tenho.
+
+95
+00:04:02,592 --> 00:04:03,492
+Eu tenho o Call Work aqui,
+
+96
+00:04:03,692 --> 00:04:05,512
+eu tenho o Cloud Code aqui também,
+
+97
+00:04:05,632 --> 00:04:08,392
+que eu posso utilizar dentro do Desktop.
+
+98
+00:04:09,112 --> 00:04:10,932
+Só que, isso aqui é poderoso, tá?
+
+99
+00:04:11,032 --> 00:04:12,612
+Só isso aqui já é muito bom.
+
+100
+00:04:12,732 --> 00:04:15,252
+Aqui você já consegue selecionar a pasta para trabalhar,
+
+101
+00:04:15,352 --> 00:04:18,172
+já consegue colocar o Cloud para criar por você.
+
+102
+00:04:18,512 --> 00:04:20,552
+Mas ainda assim, inclusive, a própria Anthrop
+
+103
+00:04:20,552 --> 00:04:22,272
+que já falou isso nas documentações,
+
+104
+00:04:23,072 --> 00:04:24,952
+tudo chega primeiro no terminal.
+
+105
+00:04:25,172 --> 00:04:28,112
+Tudo que a Anthropic cria, a Anthropic é a dona do Cloud, tá?
+
+106
+00:04:28,552 --> 00:04:32,292
+Primeiro eles levam para o terminal e depois atualizam nos produtos.
+
+107
+00:04:32,352 --> 00:04:33,692
+Por quê? É abstração.
+
+108
+00:04:34,312 --> 00:04:37,312
+Quando você lança um modelo e uma capacidade para o modelo,
+
+109
+00:04:37,492 --> 00:04:40,832
+no terminal eles conseguem imediatamente liberar esse recurso para você.
+
+110
+00:04:41,472 --> 00:04:44,592
+Quando a gente vai para a camada de desktop aqui,
+
+111
+00:04:44,692 --> 00:04:46,792
+eles precisam configurar isso no aplicativo deles,
+
+112
+00:04:46,872 --> 00:04:48,832
+fazer testes, ver que está funcionando certinho.
+
+113
+00:04:49,512 --> 00:04:51,792
+então vai adicionando mais trabalho
+
+114
+00:04:51,792 --> 00:04:53,692
+mais tempo da equipe executando
+
+115
+00:04:53,692 --> 00:04:55,092
+antes de enviar isso para as pessoas, então
+
+116
+00:04:55,092 --> 00:04:57,092
+o terminal tem atualizações primeiro
+
+117
+00:04:57,092 --> 00:04:59,332
+mas o terminal não tem só isso, ele tem mais
+
+118
+00:04:59,332 --> 00:05:01,652
+recursos também que você não
+
+119
+00:05:01,652 --> 00:05:03,172
+teria aqui no aplicativo
+
+120
+00:05:03,172 --> 00:05:05,152
+e mais do que isso você consegue
+
+121
+00:05:05,152 --> 00:05:07,652
+abrir o terminal direto em uma
+
+122
+00:05:07,652 --> 00:05:09,652
+IDE, que é um ambiente de desenvolvimento
+
+123
+00:05:09,652 --> 00:05:11,812
+integrado, no caso é o anti-gravity
+
+124
+00:05:11,812 --> 00:05:13,232
+que a gente vai utilizar aqui
+
+125
+00:05:13,232 --> 00:05:15,612
+então, teoricamente, dá para eu usar
+
+126
+00:05:15,612 --> 00:05:17,432
+só aqui, dá para eu montar todo o
+
+127
+00:05:17,432 --> 00:05:19,372
+o Brand System só usando o Cloud Code daqui,
+
+128
+00:05:19,572 --> 00:05:21,472
+dá. Dá pra
+
+129
+00:05:21,472 --> 00:05:23,492
+usar. Principalmente quem não
+
+130
+00:05:23,492 --> 00:05:25,372
+conseguiu instalar, vocês vão fazer isso, vocês vão
+
+131
+00:05:25,372 --> 00:05:27,272
+baixar o Cloud aqui e vai usar ele.
+
+132
+00:05:27,412 --> 00:05:29,532
+Se você tiver GPT, você vai
+
+133
+00:05:29,532 --> 00:05:31,412
+baixar o Codex. Eu tenho o Codex aqui
+
+134
+00:05:31,412 --> 00:05:33,092
+também, olha, vou abrir ele pra vocês verem.
+
+135
+00:05:34,908 --> 00:05:37,148
+E você vai conseguir criar pelo Codex também.
+
+136
+00:05:37,708 --> 00:05:39,868
+Aqui, você vai ter que...
+
+137
+00:05:39,868 --> 00:05:41,488
+Já está no 5.0, beleza?
+
+138
+00:05:41,748 --> 00:05:44,688
+Você vai ter que escolher em qual pasta você vai trabalhar aqui.
+
+139
+00:05:44,868 --> 00:05:47,968
+E aí você pode ir pedindo ele para fazer, direto aqui no Codex.
+
+140
+00:05:48,028 --> 00:05:53,268
+O Codex é o aplicativo de código da OpenAI, dona do ChatGPT.
+
+141
+00:05:53,728 --> 00:05:54,248
+Beleza?
+
+142
+00:05:54,968 --> 00:05:58,268
+Aqui tem outros recursos também para vocês explorarem depois.
+
+143
+00:05:58,368 --> 00:06:03,328
+Tanto o Codex quanto o Cloud aqui, rotinas, customização, skills.
+
+144
+00:06:03,328 --> 00:06:05,408
+skills, e aí eu recomendo o que pra você?
+
+145
+00:06:05,488 --> 00:06:07,268
+Se você ainda não me segue no
+
+146
+00:06:07,268 --> 00:06:09,288
+YouTube, você vai entrar no seu
+
+147
+00:06:09,288 --> 00:06:10,808
+YouTube, vai digitar aí Juan Brás
+
+148
+00:06:12,092 --> 00:06:13,452
+E você vai seguir esse canal aqui, ó.
+
+149
+00:06:14,780 --> 00:06:16,300
+tá? Segue esse canal, o Home Bras Oficial.
+
+150
+00:06:16,400 --> 00:06:18,460
+É um canal novinho, tem um mês que a gente criou ele,
+
+151
+00:06:18,900 --> 00:06:20,360
+só que já tem aqui vários
+
+152
+00:06:20,360 --> 00:06:22,380
+conteúdos e eu vou continuar postando depois, então
+
+153
+00:06:22,380 --> 00:06:23,880
+já aproveita e segue aí agora, ó.
+
+154
+00:06:24,060 --> 00:06:26,440
+Tem um mês que eu postei e olha como é que os vídeos já estão
+
+155
+00:06:26,440 --> 00:06:28,140
+alcançando muita gente, ó, 11 mil,
+
+156
+00:06:28,320 --> 00:06:29,900
+8 mil, 7 mil,
+
+157
+00:06:30,140 --> 00:06:32,280
+5 mil, a galera tá compartilhando
+
+158
+00:06:32,280 --> 00:06:33,560
+muito, porque é conteúdo de valor.
+
+159
+00:06:34,000 --> 00:06:36,080
+E aqui eu te explico como que utiliza essas
+
+160
+00:06:36,080 --> 00:06:38,120
+ferramentas, tá? Mas não vai ser o nosso
+
+161
+00:06:38,120 --> 00:06:40,020
+foco aqui agora, nosso foco no Atlas é
+
+162
+00:06:40,020 --> 00:06:41,520
+construir o Brand System.
+
+163
+00:06:41,880 --> 00:06:44,060
+Então já vou deixar aqui pra vocês, se não
+
+164
+00:06:44,060 --> 00:06:45,920
+está seguindo, é hora de seguir agora. Já entra
+
+165
+00:06:45,920 --> 00:06:47,720
+aí e já começa a seguir a gente.
+
+166
+00:06:47,960 --> 00:06:49,900
+Beleza? Então, agora
+
+167
+00:06:49,900 --> 00:06:51,080
+vocês vão sempre se lembrar,
+
+168
+00:06:51,820 --> 00:06:53,880
+a IA no navegador é
+
+169
+00:06:53,880 --> 00:06:55,920
+fraquinha comparado com a IA dentro do seu
+
+170
+00:06:55,920 --> 00:06:57,860
+PC. E é ela que a gente vai utilizar.
+
+171
+00:06:58,400 --> 00:07:00,000
+Só que eu não vou
+
+172
+00:07:00,000 --> 00:07:01,760
+utilizar o aplicativo.
+
+173
+00:07:02,020 --> 00:07:03,820
+Eu vou utilizar o Cloud no
+
+174
+00:07:03,820 --> 00:07:05,640
+terminal. O que é terminal?
+
+175
+00:07:05,840 --> 00:07:07,200
+Terminal é essa tela preta aqui.
+
+176
+00:07:07,820 --> 00:07:09,920
+Está vendo essa telinha preta? Eu posso
+
+177
+00:07:09,920 --> 00:07:11,400
+acordar o Cloud aqui dentro dela.
+
+178
+00:07:11,400 --> 00:07:13,200
+ela, tá vendo? Aí ele acorda o bichinho
+
+179
+00:07:13,200 --> 00:07:15,420
+e eu converso com ele. Pode acordar
+
+180
+00:07:15,420 --> 00:07:16,720
+o Codex também, olha aqui, ó.
+
+181
+00:07:17,000 --> 00:07:19,280
+Tem o Codex instalado, aí você tem que buscar pelo
+
+182
+00:07:19,280 --> 00:07:21,340
+Codex CLI, igual eu falei na parte da
+
+183
+00:07:21,340 --> 00:07:23,340
+manhã, mas eu posso ativar ele aqui,
+
+184
+00:07:23,400 --> 00:07:25,240
+ó, ele vai carregar pra gente. Pronto.
+
+185
+00:07:25,320 --> 00:07:27,500
+Tá usando o GPT-5, tá vendo? Posso conversar
+
+186
+00:07:27,500 --> 00:07:29,340
+com ele aqui, posso conversar com o Gemini
+
+187
+00:07:29,340 --> 00:07:30,780
+também, olha, eu tenho o Gemini aqui.
+
+188
+00:07:31,660 --> 00:07:33,300
+Eu carrego aqui, converso com o Gemini,
+
+189
+00:07:33,440 --> 00:07:35,240
+tudo direto aqui no terminal
+
+190
+00:07:35,240 --> 00:07:37,420
+do meu computador. Isso aqui pode ser assustador,
+
+191
+00:07:37,500 --> 00:07:39,480
+não sei quem que viu aí a história do Matheus Gouveia
+
+192
+00:07:39,480 --> 00:07:41,560
+da Thaís. Quem viu aí? Manda aí, deixa eu saber
+
+193
+00:07:41,560 --> 00:07:43,260
+no chat. O Matheus
+
+194
+00:07:43,260 --> 00:07:45,580
+falou lá no vídeo que ele achava estranho,
+
+195
+00:07:45,580 --> 00:07:45,900
+era...
+
+196
+00:07:47,780 --> 00:07:49,660
+dava arrepio, né? Só de olhar pra tela preta.
+
+197
+00:07:50,812 --> 00:07:52,192
+E é essa tela aqui que ele estava falando.
+
+198
+00:07:52,632 --> 00:07:55,012
+Só que é questão de costume, tá?
+
+199
+00:07:55,152 --> 00:07:55,912
+É questão de costume.
+
+200
+00:07:55,952 --> 00:07:57,632
+Vocês vão até se sentir meio hackers
+
+201
+00:07:57,632 --> 00:07:59,492
+depois do Atlas aqui, tá?
+
+202
+00:07:59,552 --> 00:08:00,452
+Vai ser interessante.
+
+203
+00:08:02,052 --> 00:08:03,432
+Então, aqui no caso,
+
+204
+00:08:03,452 --> 00:08:05,432
+você pode conectar qualquer um desses.
+
+205
+00:08:05,752 --> 00:08:08,352
+Se você tem Gemini, você conecta Gemini CLI.
+
+206
+00:08:08,352 --> 00:08:11,052
+Se você tem o ChatGPT, você vai conectar o Codex.
+
+207
+00:08:11,112 --> 00:08:13,292
+Se você tem Cloud, você vai conectar o Cloud Code.
+
+208
+00:08:13,472 --> 00:08:15,872
+Eu vou usar aqui durante todo o workshop o Cloud.
+
+209
+00:08:16,272 --> 00:08:16,712
+Beleza?
+
+210
+00:08:17,072 --> 00:08:18,372
+Então, está definido aí.
+
+211
+00:08:18,552 --> 00:08:20,192
+Só que eu não vou usar o terminal
+
+212
+00:08:20,192 --> 00:08:26,932
+o terminal aqui nessa janela. Nós vamos utilizar o terminal no anti-gravity. Então, vou abrir o
+
+213
+00:08:26,932 --> 00:08:32,032
+anti-gravity aqui. Como eu disse para vocês, o anti-gravity é um ambiente de desenvolvimento
+
+214
+00:08:32,032 --> 00:08:37,792
+integrado. O que isso significa, Roman? Significa que ele é um ambiente para desenvolver, beleza?
+
+215
+00:08:38,112 --> 00:08:45,692
+Só que ele é integrado. O que isso significa? Significa que ele integra, conecta, dispõe várias
+
+216
+00:08:45,692 --> 00:08:47,472
+Várias ferramentas em um único lugar.
+
+217
+00:08:47,692 --> 00:08:50,612
+Então a gente pode ficar olhando para essa tela aqui mais tempo
+
+218
+00:08:50,612 --> 00:08:55,452
+e ter mais produtividade, mais controle de tudo que a gente está fazendo em tempo real.
+
+219
+00:08:55,912 --> 00:08:56,392
+Beleza?
+
+220
+00:08:56,892 --> 00:09:00,452
+Quando você instala o anti-gravity, ele vai aparecer desse jeito aqui para você.
+
+221
+00:09:00,672 --> 00:09:02,372
+A primeira coisa que você tem que fazer é
+
+222
+00:09:02,912 --> 00:09:04,332
+clicar aqui e fazer o login.
+
+223
+00:09:05,212 --> 00:09:05,692
+Beleza?
+
+224
+00:09:05,752 --> 00:09:07,092
+Na sua conta do Google.
+
+225
+00:09:07,752 --> 00:09:10,372
+Quando você faz o seu login na conta do Google aqui,
+
+226
+00:09:10,492 --> 00:09:13,352
+você pode utilizar a IA nesse painel aqui.
+
+227
+00:09:13,352 --> 00:09:15,092
+aqui. Aí você vai poder utilizar
+
+228
+00:09:15,092 --> 00:09:16,992
+o Gemini aqui. Beleza?
+
+229
+00:09:16,992 --> 00:09:19,012
+Ele vai ter acesso a todos os arquivos, vai
+
+230
+00:09:19,012 --> 00:09:20,992
+funcionar super bem. Se você está
+
+231
+00:09:20,992 --> 00:09:23,132
+usando o Google, tem assinatura do Google, você vai fazer
+
+232
+00:09:23,132 --> 00:09:25,012
+só isso. E aí você vai trabalhar nessa
+
+233
+00:09:25,012 --> 00:09:27,192
+daqui. Só que eu não vou usar
+
+234
+00:09:27,192 --> 00:09:28,512
+a minha assinatura do Google.
+
+235
+00:09:28,732 --> 00:09:31,152
+Eu vou usar o Cloud aqui dentro.
+
+236
+00:09:31,792 --> 00:09:33,032
+Então, o que eu vou fazer aqui?
+
+237
+00:09:33,212 --> 00:09:35,052
+Presta muita atenção. Eu vou fechar essa
+
+238
+00:09:35,052 --> 00:09:36,932
+janela. Se quiser, pode usar.
+
+239
+00:09:37,052 --> 00:09:38,992
+Quem quiser usar, ela pode. Quem quiser usar, é o
+
+240
+00:09:38,992 --> 00:09:41,192
+Gemini. Eu vou usar o Cloud e recomendo
+
+241
+00:09:41,192 --> 00:09:42,972
+ele aqui, tá? Então, eu vou fechar essa janela.
+
+242
+00:09:43,352 --> 00:09:45,972
+E agora, qual que é a primeira coisa que a gente vai fazer?
+
+243
+00:09:46,152 --> 00:09:49,332
+Eu vou abrir a pasta onde o meu projeto vai acontecer.
+
+244
+00:09:49,852 --> 00:09:54,192
+Só que antes de começar tudo aqui, só para vocês visualizarem,
+
+245
+00:09:54,312 --> 00:09:59,092
+esse painel aqui é o do Brand System que vocês acessaram aí.
+
+246
+00:09:59,152 --> 00:10:01,912
+Todos esses arquivos, está vendo esse tanto de código que assusta?
+
+247
+00:10:02,572 --> 00:10:05,212
+Fica na paz, vocês fizeram até o meme lá,
+
+248
+00:10:05,252 --> 00:10:10,312
+fica na paz que vocês vão entender a lógica daqui, beleza?
+
+249
+00:10:10,432 --> 00:10:12,392
+Mas o que é legal de entender disso aqui?
+
+250
+00:10:12,392 --> 00:10:13,772
+O que eu quero que vocês vejam?
+
+251
+00:10:13,772 --> 00:10:17,152
+Até deixa limpinho assim, para chamar a atenção de vocês para cá.
+
+252
+00:10:19,100 --> 00:10:19,480
+Beleza.
+
+253
+00:10:20,260 --> 00:10:22,420
+Estou aqui no anti-gravity, não tem nada.
+
+254
+00:10:22,960 --> 00:10:23,960
+O que eu vou fazer?
+
+255
+00:10:24,060 --> 00:10:25,980
+Está vendo aqui em cima que tem esses ícones?
+
+256
+00:10:26,100 --> 00:10:29,360
+Tem um ícone que é um toggle panel, está vendo?
+
+257
+00:10:29,820 --> 00:10:32,140
+Só que esse toggle é na parte de baixo.
+
+258
+00:10:32,280 --> 00:10:33,760
+Tem o da esquerda, que abre aqui.
+
+259
+00:10:33,960 --> 00:10:35,700
+Tem o da direita, que abre esse aqui.
+
+260
+00:10:35,840 --> 00:10:38,160
+E tem o do meio, que abre essa parte toda aqui.
+
+261
+00:10:38,360 --> 00:10:40,820
+Só que o de vocês não vai abrir esse tanto de código aqui não.
+
+262
+00:10:40,920 --> 00:10:41,840
+O de vocês vai abrir assim.
+
+263
+00:10:42,560 --> 00:10:43,840
+Vou fechar aqui para vocês verem.
+
+264
+00:10:43,880 --> 00:10:44,460
+Ele vai abrir isso aqui.
+
+265
+00:10:45,340 --> 00:10:46,400
+Um código aqui.
+
+266
+00:10:46,400 --> 00:10:48,240
+aqui, que basicamente
+
+267
+00:10:48,240 --> 00:10:50,460
+o que está escrito aqui? O caminho da pasta
+
+268
+00:10:50,460 --> 00:10:52,180
+que você está trabalhando. Só isso.
+
+269
+00:10:52,400 --> 00:10:54,140
+Aqui, ó. Foi lá no usuário,
+
+270
+00:10:54,180 --> 00:10:56,240
+no usuário pegou o usuário overl,
+
+271
+00:10:56,340 --> 00:10:58,100
+dentro da pasta overl
+
+272
+00:10:58,100 --> 00:11:00,580
+entrou na pasta documentos, dentro da pasta documentos
+
+273
+00:11:00,580 --> 00:11:02,380
+entrou na pasta github, e dentro
+
+274
+00:11:02,380 --> 00:11:03,820
+da pasta github entrou na pasta
+
+275
+00:11:03,820 --> 00:11:06,280
+overlens.os. É basicamente isso que está
+
+276
+00:11:06,280 --> 00:11:07,940
+falando ali. É o caminho para chegar na pasta.
+
+277
+00:11:08,280 --> 00:11:10,220
+Beleza? Mas, eu
+
+278
+00:11:10,220 --> 00:11:11,820
+posso ativar o cloud aqui.
+
+279
+00:11:12,000 --> 00:11:14,100
+É um terminal, tá vendo? Vou ativar o cloud aqui.
+
+280
+00:11:14,100 --> 00:11:15,940
+aqui, pronto. Agora eu consigo
+
+281
+00:11:15,940 --> 00:11:17,840
+em um só lugar, ter tudo
+
+282
+00:11:17,840 --> 00:11:19,920
+que eu preciso. Eu tenho o Cloud para conversar aqui,
+
+283
+00:11:20,460 --> 00:11:21,420
+eu tenho aqui
+
+284
+00:11:21,420 --> 00:11:23,760
+minha pasta com todos os arquivos,
+
+285
+00:11:23,900 --> 00:11:25,680
+aí eu vou gerenciando isso, tá vendo?
+
+286
+00:11:25,860 --> 00:11:27,120
+Aqui embaixo fica o Cloud,
+
+287
+00:11:27,300 --> 00:11:28,920
+deu um bug, isso aqui acontece, tá?
+
+288
+00:11:29,480 --> 00:11:31,140
+É bug do anti-gravity.
+
+289
+00:11:31,240 --> 00:11:33,700
+Não foi o Cloud não, foi o anti-gravity aqui
+
+290
+00:11:33,700 --> 00:11:35,920
+bugando todo. Mas tá tudo certinho,
+
+291
+00:11:35,920 --> 00:11:37,680
+tá o Cloud aqui, e eu tenho
+
+292
+00:11:37,680 --> 00:11:39,700
+minhas pastas. E se eu clico em
+
+293
+00:11:39,700 --> 00:11:41,820
+um arquivo daqui, vamos pegar o CloudMD,
+
+294
+00:11:41,960 --> 00:11:43,720
+eu consigo ler o que está dentro
+
+295
+00:11:43,720 --> 00:11:46,420
+dentro do arquivo. Tudo em um único lugar.
+
+296
+00:11:47,868 --> 00:11:50,228
+Ah, Rua, mas está cheio de cor aqui, isso é ruim.
+
+297
+00:11:50,368 --> 00:11:52,128
+Na verdade, no início é estranho.
+
+298
+00:11:52,188 --> 00:11:56,468
+Só que, na verdade, isso é uma hierarquia para te ajudar a encontrar as coisas mais fáceis.
+
+299
+00:11:56,608 --> 00:11:58,788
+Porque se fosse assim, olha, vamos deixar assim.
+
+300
+00:11:59,368 --> 00:12:01,988
+Legal, ficou bonitinho, só tem texto para você ler,
+
+301
+00:12:02,128 --> 00:12:04,848
+mas as coisas estão todas com a mesma importância.
+
+302
+00:12:05,248 --> 00:12:07,788
+Então, nós temos um visualizador de texto aqui
+
+303
+00:12:07,788 --> 00:12:10,188
+que destaca para você o que é importante.
+
+304
+00:12:10,888 --> 00:12:12,808
+A gente vai falar mais disso aqui, tá?
+
+305
+00:12:13,188 --> 00:12:15,328
+Eu falei que vocês vão se sentir hackers aqui,
+
+306
+00:12:15,428 --> 00:12:17,728
+porque vocês vão entender, vocês vão entender o que está acontecendo aqui.
+
+307
+00:12:17,728 --> 00:12:18,788
+que eu prometo para vocês, tá?
+

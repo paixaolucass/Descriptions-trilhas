@@ -1,0 +1,6032 @@
+1
+00:00:00,028 --> 00:00:03,228
+O anti-gravity não serve só para desenvolver sistemas.
+
+2
+00:00:03,828 --> 00:00:06,168
+Isso é um jeito diferente de usar a ferramenta.
+
+3
+00:00:06,388 --> 00:00:08,388
+Nem devs, muitos devs não usam assim.
+
+4
+00:00:08,568 --> 00:00:11,208
+Eu comecei a usar assim porque como eu não sou desenvolvedor,
+
+5
+00:00:11,228 --> 00:00:14,788
+o Rafael é desenvolvedor, o Eduardo é desenvolvedor,
+
+6
+00:00:14,808 --> 00:00:15,968
+fazem parte aqui da equipe.
+
+7
+00:00:16,048 --> 00:00:18,268
+Eles já usam IDE muito para desenvolver.
+
+8
+00:00:18,648 --> 00:00:20,948
+Só que há muito tempo atrás, lá em 2024,
+
+9
+00:00:21,208 --> 00:00:22,508
+quando o Rafael me apresentou,
+
+10
+00:00:22,528 --> 00:00:24,628
+a primeira ideia que o Rafael me apresentou foi o cursor.
+
+11
+00:00:24,928 --> 00:00:29,428
+Eu já usava outras IDEs antes, VS Code e Sublime Text,
+
+12
+00:00:29,428 --> 00:00:31,648
+Lá em 2016 eu usava a Sublime Text.
+
+13
+00:00:31,828 --> 00:00:33,008
+Quem aí já usou a Sublime Text?
+
+14
+00:00:33,268 --> 00:00:34,728
+Bem simples, né, o Sublime.
+
+15
+00:00:34,988 --> 00:00:37,348
+Mas eu usava IDS também, mas não tanto.
+
+16
+00:00:37,648 --> 00:00:38,988
+Quando o Rafael me mostrou o cursor,
+
+17
+00:00:39,128 --> 00:00:41,788
+que foi a primeira IDE que eu usei conectada com o IA,
+
+18
+00:00:41,908 --> 00:00:45,848
+eu não usei ela para criar sistemas, código.
+
+19
+00:00:46,148 --> 00:00:48,988
+Eu usei ela para criar os meus documentos.
+
+20
+00:00:49,488 --> 00:00:52,348
+Porque você consegue ler qualquer tipo de documento aqui.
+
+21
+00:00:52,548 --> 00:00:54,988
+E é exatamente isso que a gente vai fazer
+
+22
+00:00:54,988 --> 00:00:58,948
+para poder construir os documentos da nossa marca.
+
+23
+00:00:59,628 --> 00:01:06,348
+Lembra que eu falei com vocês que a gente precisa definir auditorias, posicionamento, núcleo da marca, universo verbal, universo visual?
+
+24
+00:01:06,568 --> 00:01:08,748
+A gente vai fazer isso agora à tarde aqui antes do COF.
+
+25
+00:01:09,148 --> 00:01:14,628
+Para fazer isso aqui antes do COF, a gente precisa criar os documentos com as diretrizes da nossa marca.
+
+26
+00:01:15,068 --> 00:01:21,308
+E aí eu vou pedir que você preste muita atenção aqui, porque a gente vai construindo à medida que eu vou explicando.
+
+27
+00:01:21,788 --> 00:01:22,188
+Beleza?
+
+28
+00:01:23,188 --> 00:01:24,288
+Então, abre o seu
+
+29
+00:01:24,288 --> 00:01:25,648
+anti-gravity aí agora.
+
+30
+00:01:26,068 --> 00:01:28,268
+E a primeira coisa que nós vamos fazer é criar uma
+
+31
+00:01:28,268 --> 00:01:29,628
+pasta do nosso projeto.
+
+32
+00:01:30,048 --> 00:01:32,248
+Então, eu posso minimizar aqui, estou na área de trabalho,
+
+33
+00:01:32,348 --> 00:01:34,128
+vou clicar com o direito e vou criar minha pasta.
+
+34
+00:01:34,448 --> 00:01:36,108
+Vou chamar essa pasta aqui de
+
+35
+00:01:36,108 --> 00:01:37,948
+Atlas Brand System.
+
+36
+00:01:38,088 --> 00:01:40,128
+Você pode chamar com o nome da sua marca, por exemplo.
+
+37
+00:01:40,388 --> 00:01:41,388
+Posso colocar aqui, BS
+
+38
+00:01:42,308 --> 00:01:43,708
+Overlens. Vou colocar desse jeito.
+
+39
+00:01:44,608 --> 00:01:46,308
+Nome aqui, Brand System da Overlens.
+
+40
+00:01:47,048 --> 00:01:48,288
+O que é que eu vou fazer agora?
+
+41
+00:01:48,528 --> 00:01:50,268
+Eu vou vir aqui no anti-gravity
+
+42
+00:01:50,268 --> 00:01:52,568
+e vou clicar nesse botão azul, abrir pasta,
+
+43
+00:01:52,868 --> 00:01:55,148
+e vou abrir a pasta que eu acabei de criar,
+
+44
+00:01:55,508 --> 00:01:56,668
+essa BS Overlens.
+
+45
+00:01:57,768 --> 00:01:58,648
+Selecionar, prontinho.
+
+46
+00:01:59,448 --> 00:02:02,708
+Agora aqui eu estou dentro da pasta
+
+47
+00:02:02,708 --> 00:02:05,428
+e eu só vou trabalhar dentro dessa pasta.
+
+48
+00:02:05,948 --> 00:02:07,868
+Isso já é uma coisa interessante de fazer,
+
+49
+00:02:07,928 --> 00:02:10,568
+porque se você utiliza o Cloud só lá no terminal,
+
+50
+00:02:10,688 --> 00:02:12,868
+você tem que se certificar de que você está na pasta certa.
+
+51
+00:02:13,088 --> 00:02:15,048
+Aqui nós estamos, olha aqui, como que eu sei?
+
+52
+00:02:15,208 --> 00:02:17,168
+Se estiver desativado aqui para você,
+
+53
+00:02:17,268 --> 00:02:19,988
+você vai clicar nesses dois papéis aqui na esquerda,
+
+54
+00:02:19,988 --> 00:02:22,108
+no canto superior, e aí ele vai mostrar
+
+55
+00:02:22,108 --> 00:02:24,148
+o Explorer pra você. No Explorer
+
+56
+00:02:24,148 --> 00:02:25,948
+você tem o nome da sua pasta que você tá
+
+57
+00:02:25,948 --> 00:02:27,788
+trabalhando, tá vendo? Eu tô na BS Overlays
+
+58
+00:02:27,788 --> 00:02:30,068
+que eu acabei de criar. Agora eu posso
+
+59
+00:02:30,068 --> 00:02:32,248
+criar novas pastas e novos arquivos
+
+60
+00:02:32,248 --> 00:02:34,228
+dentro dessa pasta. E quando eu faço
+
+61
+00:02:34,228 --> 00:02:35,948
+isso, o programa cria
+
+62
+00:02:35,948 --> 00:02:38,128
+arquivos e pastas no meu computador, lá
+
+63
+00:02:38,128 --> 00:02:40,148
+dentro dessa pasta. Vou dar um exemplo, olha
+
+64
+00:02:40,148 --> 00:02:41,968
+nesse ícone aqui ó, New Folder
+
+65
+00:02:41,968 --> 00:02:44,068
+eu clico nele e coloco aqui ó, Test
+
+66
+00:02:44,688 --> 00:02:46,108
+Se eu vier na minha
+
+67
+00:02:46,108 --> 00:02:48,188
+pastinha aqui agora, olha só o que eu tenho nela
+
+68
+00:02:48,188 --> 00:02:49,988
+ela aqui, ó. Criou uma pasta
+
+69
+00:02:49,988 --> 00:02:52,028
+teste, tá vendo? Se eu
+
+70
+00:02:52,028 --> 00:02:53,668
+volto aqui e crio agora
+
+71
+00:02:54,048 --> 00:02:55,948
+dentro dessa pasta teste ou fora um
+
+72
+00:02:55,948 --> 00:02:58,148
+arquivo, olha, eu vou criar um arquivo aqui, eu vou chamar esse arquivo
+
+73
+00:02:58,148 --> 00:03:00,208
+de intro.markdown.
+
+74
+00:03:01,268 --> 00:03:02,068
+Já vou explicar
+
+75
+00:03:02,068 --> 00:03:03,968
+pra vocês o que é markdown. E aí eu posso
+
+76
+00:03:03,968 --> 00:03:05,788
+escrever aqui dentro, olá mundo.
+
+77
+00:03:06,568 --> 00:03:07,808
+E dar um ctrl s.
+
+78
+00:03:07,968 --> 00:03:09,928
+Quando fica com essa bolinha aqui, ó, é porque não
+
+79
+00:03:09,928 --> 00:03:12,048
+salvou ainda e ele não vai adicionar
+
+80
+00:03:12,048 --> 00:03:14,468
+as alterações no arquivo. Aí eu dou um ctrl s,
+
+81
+00:03:14,888 --> 00:03:15,948
+salvou pra mim. Agora,
+
+82
+00:03:15,988 --> 00:03:17,888
+se eu vou lá na minha pasta, olha, vamos dar uma olhada.
+
+83
+00:03:17,888 --> 00:03:20,008
+eu estou na pasta, já criou o arquivo aqui, está vendo?
+
+84
+00:03:20,228 --> 00:03:23,188
+E se eu clicar para visualizar esse arquivo no bloco de notas,
+
+85
+00:03:23,888 --> 00:03:26,588
+está aqui, olha, Olá Mundo, o que eu escrevi aqui dentro.
+
+86
+00:03:26,908 --> 00:03:30,428
+Ou seja, o anti-gravity é um sistema de gestão do projeto.
+
+87
+00:03:30,728 --> 00:03:33,468
+Ele serve para eu gerir todos os arquivos e pastas
+
+88
+00:03:33,468 --> 00:03:36,288
+que eu estou criando aqui dentro dessa pasta em específico.
+
+89
+00:03:36,508 --> 00:03:39,028
+Então, nós vamos criar o nosso Brand System primeiro,
+
+90
+00:03:40,068 --> 00:03:42,128
+localmente, dentro do nosso computador.
+
+91
+00:03:42,428 --> 00:03:44,168
+Isso significa que, no primeiro momento,
+
+92
+00:03:44,268 --> 00:03:47,268
+você não vai conseguir enviar o seu Brand System para outras pessoas.
+
+93
+00:03:47,268 --> 00:03:49,548
+a não ser que você zipe a pasta
+
+94
+00:03:49,548 --> 00:03:51,268
+e mande a pasta pra outra pessoa.
+
+95
+00:03:51,428 --> 00:03:53,508
+Só que até amanhã eu vou ensinar pra vocês
+
+96
+00:03:53,508 --> 00:03:55,228
+como publicar também, com login
+
+97
+00:03:55,228 --> 00:03:56,308
+e tudo isso certinho.
+
+98
+00:03:58,300 --> 00:03:59,800
+Vou excluir essas pastas aqui.
+
+99
+00:04:00,240 --> 00:04:02,280
+Olha só, quando eu excluo daqui, o que acontece?
+
+100
+00:04:02,760 --> 00:04:03,920
+Ele exclui da pasta também.
+
+101
+00:04:04,220 --> 00:04:06,900
+O bloco de notas já não existe, vou fechar isso tudo aqui
+
+102
+00:04:06,900 --> 00:04:08,260
+e vou vir na pasta.
+
+103
+00:04:08,340 --> 00:04:09,240
+Olha, a pasta está vazia.
+
+104
+00:04:09,940 --> 00:04:11,540
+Não tem nenhum arquivo nela.
+
+105
+00:04:12,180 --> 00:04:14,460
+Aí vamos para a próxima camada, olha que interessante.
+
+106
+00:04:15,040 --> 00:04:18,680
+Eu posso tanto usar esse chat aqui do próprio Antigravity
+
+107
+00:04:18,680 --> 00:04:20,460
+para pedir a IA para trabalhar por mim,
+
+108
+00:04:20,520 --> 00:04:23,580
+e aí se eu clicar aqui, eu escolho o modelo que eu quero atuar, está vendo?
+
+109
+00:04:23,820 --> 00:04:27,660
+Só que tem um detalhe, você tem uns créditos gratuitos
+
+110
+00:04:27,660 --> 00:04:30,000
+que você pode utilizar, mas acaba muito rápido.
+
+111
+00:04:30,180 --> 00:04:33,420
+E aí depois ele começa a usar os seus créditos da assinatura do Google.
+
+112
+00:04:33,620 --> 00:04:36,300
+Se você não assina o Google, você está no gratuito,
+
+113
+00:04:36,380 --> 00:04:38,780
+você vai gastar os créditos bem rápido e aí vai acabar.
+
+114
+00:04:39,100 --> 00:04:42,180
+Só que olha que interessante, eu posso clicar aqui nesse maisinho
+
+115
+00:04:42,180 --> 00:04:45,540
+e posso tanto fazer um plano, carregar uma mídia,
+
+116
+00:04:45,600 --> 00:04:47,620
+mencionar um IA ou construir um workflow.
+
+117
+00:04:47,940 --> 00:04:51,040
+Mas eu posso também pedir para ele criar arquivos para mim.
+
+118
+00:04:51,160 --> 00:04:52,080
+Então olha que interessante.
+
+119
+00:04:52,480 --> 00:04:56,220
+Crie um arquivo com um poema na nossa pasta.
+
+120
+00:04:56,600 --> 00:05:00,340
+Então eu pedi ele para criar, ele vai gerar aqui e vocês vão ver que vai aparecer aqui
+
+121
+00:05:00,340 --> 00:05:01,080
+do lado o arquivo.
+
+122
+00:05:01,200 --> 00:05:04,100
+E ao mesmo tempo vai aparecer aqui na nossa pasta também.
+
+123
+00:05:04,380 --> 00:05:05,860
+Ó, já criou o poema, tá vendo?
+
+124
+00:05:06,040 --> 00:05:07,620
+Opa, criou o poema aí.
+
+125
+00:05:07,700 --> 00:05:10,780
+Eu vou abrir a pasta para vocês aqui, um minutinho.
+
+126
+00:05:11,900 --> 00:05:13,260
+Ele criou o poema na pasta, tá vendo?
+
+127
+00:05:13,740 --> 00:05:16,600
+Então o poema tá mostrando aqui e tá aqui na nossa pasta.
+
+128
+00:05:16,720 --> 00:05:19,020
+Eu posso abrir ele no meu bloco de notas e posso ver.
+
+129
+00:05:19,380 --> 00:05:20,940
+Aí ó, o código e a poesia.
+
+130
+00:05:21,060 --> 00:05:23,100
+Em linhas de texto a mente viaja.
+
+131
+00:05:23,640 --> 00:05:25,560
+Lógica e arte em uma só dança.
+
+132
+00:05:25,660 --> 00:05:27,720
+Onde o silício e a alma se encaixam.
+
+133
+00:05:28,000 --> 00:05:29,720
+Criando o futuro com esperança.
+
+134
+00:05:30,700 --> 00:05:32,960
+Tá aí o textinho do Gemini pra gente.
+
+135
+00:05:33,280 --> 00:05:35,180
+Mas ele criou então esse arquivo.
+
+136
+00:05:35,300 --> 00:05:37,260
+Ou seja, o que você tem que entender de cara?
+
+137
+00:05:37,260 --> 00:05:42,260
+Cara, isso aqui é uma ferramenta que te permite construir arquivos inteiros aqui dentro.
+
+138
+00:05:42,620 --> 00:05:45,720
+Tanto arquivos em linguagem natural, olha, ele escreveu em linguagem natural.
+
+139
+00:05:45,960 --> 00:05:49,360
+O arquivo usado aqui foi o MD, que eu já vou falar dele, ele é muito importante.
+
+140
+00:05:49,600 --> 00:05:51,680
+Mas ele escreveu de um jeito que você consegue ler.
+
+141
+00:05:51,980 --> 00:05:53,340
+Tão simples quanto, entendeu?
+
+142
+00:05:53,780 --> 00:05:55,920
+Eu posso agora aceitar essa mudança.
+
+143
+00:05:56,000 --> 00:05:58,720
+Quando eu aceito ela, ele crava isso no arquivo.
+
+144
+00:05:58,740 --> 00:06:00,680
+E agora ele fica salvo na pasta também.
+
+145
+00:06:00,800 --> 00:06:01,980
+Toda hora eu estou fechando a pasta.
+
+146
+00:06:02,380 --> 00:06:05,280
+Tem que lembrar só de minimizar para vocês verem aqui certinho.
+
+147
+00:06:06,844 --> 00:06:08,644
+Então está aí a pasta com o poema, beleza?
+
+148
+00:06:10,012 --> 00:06:12,092
+Volta pra cá, vou excluir esse poema agora.
+
+149
+00:06:12,352 --> 00:06:14,332
+Só que eu não vou trabalhar...
+
+150
+00:06:15,452 --> 00:06:20,572
+Essa IA aqui, você pode continuar conversando e ir construindo tudo aqui.
+
+151
+00:06:20,692 --> 00:06:25,372
+Os mesmos prompts que eu vou mandar no Cloud, se você não tem o Cloud, você pode enviar aqui.
+
+152
+00:06:25,832 --> 00:06:30,252
+Algumas coisas vão acabar sendo um pouquinho diferentes, mas é só para dar mais uma opção para vocês.
+
+153
+00:06:30,512 --> 00:06:32,092
+Beleza? A conversa vai fluindo aqui.
+
+154
+00:06:32,312 --> 00:06:34,872
+No caso, como eu não vou usar aqui, eu vou fechar.
+
+155
+00:06:35,592 --> 00:06:40,132
+E agora eu vou carregar aqui, cliquei nesse ícone aqui em cima, está vendo?
+
+156
+00:06:41,436 --> 00:06:44,836
+Ou eu posso vir aqui em Terminal e clicar aqui em New Terminal.
+
+157
+00:06:45,376 --> 00:06:49,156
+Ele vai abrir para a gente esse bloco aqui de baixo.
+
+158
+00:06:49,396 --> 00:06:52,376
+Você pode deixar ele pequeno se você quiser, pode deixar ele grande.
+
+159
+00:06:53,016 --> 00:06:54,596
+Geralmente a gente deixa ele mais ou menos aqui.
+
+160
+00:06:55,236 --> 00:06:57,996
+Aqui do lado ele carregou duas vezes, porque já tinha um só.
+
+161
+00:06:58,116 --> 00:06:59,036
+Agora tem um só, tá vendo?
+
+162
+00:06:59,276 --> 00:07:01,636
+Mas eu posso abrir quantos terminais eu quiser, olha.
+
+163
+00:07:03,036 --> 00:07:05,016
+estão vendo aí, ó, abri mais um, abri outro
+
+164
+00:07:05,016 --> 00:07:05,636
+abri outro
+
+165
+00:07:06,596 --> 00:07:08,636
+na gravação tá a minha
+
+166
+00:07:09,596 --> 00:07:11,036
+vou puxar aqui só pra mostrar
+
+167
+00:07:11,036 --> 00:07:11,496
+tá vendo, ó
+
+168
+00:07:12,988 --> 00:07:14,368
+Porque senão na gravação não vai aparecer.
+
+169
+00:07:14,588 --> 00:07:15,628
+Aí, certinho.
+
+170
+00:07:16,188 --> 00:07:17,648
+Então deixa eu voltar para cá.
+
+171
+00:07:18,348 --> 00:07:20,548
+Então a gente pode abrir quantos terminais a gente quiser.
+
+172
+00:07:20,728 --> 00:07:23,268
+No caso, a gente vai trabalhar com um só aqui, bem tranquilo.
+
+173
+00:07:23,448 --> 00:07:24,608
+O que é que eu vou fazer agora?
+
+174
+00:07:24,888 --> 00:07:28,128
+Se você instalou o Cloud Code corretamente no seu terminal,
+
+175
+00:07:28,328 --> 00:07:31,408
+você vai junto comigo digitar Cloud aqui para acordar ele.
+
+176
+00:07:31,728 --> 00:07:34,108
+Se ele aparecer assim para você, funcionou.
+
+177
+00:07:34,268 --> 00:07:37,808
+Se ele não aparecer assim para você, é porque ele não está instalado corretamente.
+
+178
+00:07:37,928 --> 00:07:39,628
+Tem o vídeo explicando, você pode assistir.
+
+179
+00:07:39,628 --> 00:07:42,108
+se você não quiser perder a aula aqui também,
+
+180
+00:07:42,208 --> 00:07:45,708
+eu recomendo você ir trabalhando nesse lateral aqui então, beleza?
+
+181
+00:07:46,368 --> 00:07:48,248
+Então a gente ativou o Cloud Code aqui,
+
+182
+00:07:48,328 --> 00:07:51,208
+esse bug aqui é um bug do anti-gravity mesmo,
+
+183
+00:07:51,368 --> 00:07:53,288
+pode ser que aconteça com vocês, pode ser que não.
+
+184
+00:07:54,492 --> 00:07:55,812
+Ele tá quebrando aqui, tá vendo?
+
+185
+00:07:56,852 --> 00:07:57,732
+Acontece comigo algumas vezes.
+
+186
+00:07:57,752 --> 00:07:58,972
+Depende do computador também.
+
+187
+00:07:59,492 --> 00:08:01,592
+Mas não tem problema, a gente vai trabalhar com ele aqui, ó.
+
+188
+00:08:02,684 --> 00:08:04,444
+Quando eu coloco aqui, eu posso conversar com ele.
+
+189
+00:08:04,484 --> 00:08:06,344
+Então, olha só. Olá, Claude. Tudo bem?
+
+190
+00:08:08,380 --> 00:08:09,160
+Em linguagem natural.
+
+191
+00:08:09,640 --> 00:08:11,520
+Não preciso fazer comando nem nada.
+
+192
+00:08:11,600 --> 00:08:13,740
+Eu vou conversar com ele igual eu converso com qualquer ser humano.
+
+193
+00:08:13,980 --> 00:08:15,340
+E ele me respondeu, olha aqui.
+
+194
+00:08:15,600 --> 00:08:17,560
+Olá, tudo bem sim. E com você?
+
+195
+00:08:17,800 --> 00:08:19,300
+Em que posso te ajudar hoje?
+
+196
+00:08:19,860 --> 00:08:21,160
+Estou no diretório
+
+197
+00:08:22,220 --> 00:08:23,020
+BS Overlens.
+
+198
+00:08:23,660 --> 00:08:25,080
+Que está vazio no momento.
+
+199
+00:08:25,580 --> 00:08:27,240
+Pronto para começar algo novo se quiser.
+
+200
+00:08:27,420 --> 00:08:29,260
+Ou seja, ele acabou de mostrar para a gente aqui
+
+201
+00:08:29,260 --> 00:08:32,020
+que ele está ciente de tudo que tem dentro da nossa pasta.
+
+202
+00:08:32,220 --> 00:08:33,720
+E é exatamente isso que a gente quer.
+
+203
+00:08:33,880 --> 00:08:35,780
+Porque ele vai trabalhar nessa pasta
+
+204
+00:08:35,780 --> 00:08:37,480
+junto com a gente agora. Beleza?
+
+205
+00:08:38,060 --> 00:08:40,280
+Então, o que a gente vai começar fazendo aqui,
+
+206
+00:08:40,360 --> 00:08:42,360
+agora que a coisa vai começar a ficar boa?
+
+207
+00:08:42,660 --> 00:08:44,560
+O que a gente vai começar a fazer aqui?
+
+208
+00:08:44,580 --> 00:08:46,920
+Já falaram aí, que divertido, muito massa, né?
+
+209
+00:08:47,300 --> 00:08:49,160
+Vocês vão se sentir hackers aqui hoje.
+
+210
+00:08:49,680 --> 00:08:54,880
+Nós vamos começar trabalhando as diretrizes de marca.
+
+211
+00:08:55,120 --> 00:08:57,120
+Então, antes de criar qualquer código,
+
+212
+00:08:57,540 --> 00:08:59,620
+nós vamos criar as diretrizes da nossa marca.
+
+213
+00:08:59,880 --> 00:09:02,860
+E a primeira coisa que a gente precisa explicar para o Cloud aqui
+
+214
+00:09:02,860 --> 00:09:05,520
+é que tipo de projeto nós vamos criar aqui
+
+215
+00:09:05,520 --> 00:09:07,040
+e quais são as nossas diretrizes.
+
+216
+00:09:07,620 --> 00:09:10,860
+Eu vou criar pastas separadas para fazer isso.
+
+217
+00:09:10,980 --> 00:09:12,180
+Então, o que eu vou fazer aqui?
+
+218
+00:09:12,480 --> 00:09:14,380
+Eu vou deixar essa BS por enquanto.
+
+219
+00:09:16,764 --> 00:09:18,824
+eu vou deixar isso aqui por enquanto e eu vou abrir
+
+220
+00:09:18,824 --> 00:09:20,904
+outro anti-gravity, então eu vou clicar aqui
+
+221
+00:09:21,344 --> 00:09:22,924
+você pode dar um windows aí pra ele
+
+222
+00:09:22,924 --> 00:09:24,444
+abrir um outro anti-gravity pra você
+
+223
+00:09:24,444 --> 00:09:27,064
+vou abrir um aqui diferente, eu sei que é um pouco
+
+224
+00:09:27,064 --> 00:09:28,644
+confuso, mas vocês vão entender, tá?
+
+225
+00:09:29,324 --> 00:09:31,024
+e eu vou criar uma outra pasta
+
+226
+00:09:31,024 --> 00:09:32,884
+aqui, pra ficar mais fácil pra vocês
+
+227
+00:09:32,884 --> 00:09:34,664
+vou chamar essa pasta de
+
+228
+00:09:34,664 --> 00:09:35,424
+diretrizes
+
+229
+00:09:36,504 --> 00:09:38,824
+eu tô pensando aqui a maneira que vai ficar mais
+
+230
+00:09:38,824 --> 00:09:39,544
+simples pra vocês
+
+231
+00:09:40,544 --> 00:09:42,184
+vamos fazer o seguinte, tá?
+
+232
+00:09:42,524 --> 00:09:45,064
+eu vou colocar essa pasta diretrizes aqui dentro
+
+233
+00:09:45,064 --> 00:09:49,364
+por dentro. Crie ela aqui dentro. Você pode criar ela por dentro também, se você quiser, ou você
+
+234
+00:09:49,364 --> 00:09:55,184
+também pode criar ela direto aqui mesmo, clicando com o botão direito. Diretrizes. Eu vou trabalhar
+
+235
+00:09:55,184 --> 00:09:59,524
+assim que vai ser mais fácil do que ficar abrindo vários anti-grevers. Eu estava fazendo da maneira
+
+236
+00:09:59,524 --> 00:10:04,384
+que eu costumo trabalhar, mas não tem necessidade para ficar mais simples. Então, crie a pasta
+
+237
+00:10:05,044 --> 00:10:09,664
+diretrizes aqui dentro. Você pode tanto clicar aqui, ou pode também vir aqui na pasta e criar
+
+238
+00:10:09,664 --> 00:10:11,484
+ela, tá? Deixa eu dar uma atualizada
+
+239
+00:10:11,484 --> 00:10:12,704
+nesse aqui, pronto, tá aqui.
+
+240
+00:10:13,064 --> 00:10:15,684
+Juan, eu posso pedir para o Cloud criar a pasta por mim?
+
+241
+00:10:15,744 --> 00:10:17,564
+Pode, só que o que acontece? Você vai começar
+
+242
+00:10:17,564 --> 00:10:19,504
+a gastar token à toa. Se você
+
+243
+00:10:19,504 --> 00:10:21,644
+está no plano Pro, seus tokens
+
+244
+00:10:21,644 --> 00:10:23,364
+precisam ser bem cuidados,
+
+245
+00:10:23,444 --> 00:10:25,624
+bem tratados, porque imagina
+
+246
+00:10:25,624 --> 00:10:27,544
+que no meio da tarde acabou seus tokens, você vai
+
+247
+00:10:27,544 --> 00:10:29,464
+ficar triste, você vai falar, pô, acabou tudo que eu estava
+
+248
+00:10:29,464 --> 00:10:31,064
+fazendo aqui e não vou poder fazer mais.
+
+249
+00:10:31,624 --> 00:10:33,684
+Então, eu vou ajudar vocês a cuidar
+
+250
+00:10:33,684 --> 00:10:35,144
+dos tokens de vocês com muito amor.
+
+251
+00:10:35,544 --> 00:10:37,324
+Quem está num plano igual o meu, aqui ó,
+
+252
+00:10:37,324 --> 00:10:38,084
+Eu estou no Cloud Max.
+
+253
+00:10:38,844 --> 00:10:42,164
+Esse plano aqui tem o Max 5X e o Max 20X.
+
+254
+00:10:42,324 --> 00:10:44,204
+Eu estou usando o Max 20X aqui.
+
+255
+00:10:44,324 --> 00:10:47,824
+Ele é um pouco mais caro, custa mil reais por mês para acessar ele.
+
+256
+00:10:47,924 --> 00:10:50,224
+É para quando você já realmente está muito avançado,
+
+257
+00:10:50,224 --> 00:10:52,424
+criando vários sistemas, igual a gente cria aqui na Overlens,
+
+258
+00:10:52,464 --> 00:10:53,664
+a gente cria muita coisa aqui.
+
+259
+00:10:53,904 --> 00:10:55,964
+Então, eu pago o Max aqui e a gente usa muito.
+
+260
+00:10:56,084 --> 00:10:58,564
+O Rafael usa o Max também, o Eduardo usa o Max.
+
+261
+00:10:58,584 --> 00:11:02,324
+Aqui na equipe tem várias pessoas com o Max e outras pessoas com o Pro.
+
+262
+00:11:03,548 --> 00:11:05,188
+E aí a gente acaba tendo mais créditos.
+
+263
+00:11:05,268 --> 00:11:08,968
+Eu vou poder usar aqui e abusar dos créditos o quanto eu quiser.
+
+264
+00:11:09,068 --> 00:11:11,108
+É muito difícil dos meus créditos acabarem.
+
+265
+00:11:11,288 --> 00:11:14,928
+Mas eu vou avisando para vocês na hora que vocês estejam usando os créditos também,
+
+266
+00:11:15,868 --> 00:11:18,008
+porque senão vocês vão ficar tristes que o crédito acabou,
+
+267
+00:11:18,188 --> 00:11:19,728
+não sabem o que fazer e por aí vai, tá bom?
+
+268
+00:11:20,768 --> 00:11:24,048
+Então, cria a pasta aqui, vem cá e cria você mesmo diretrizes
+
+269
+00:11:24,048 --> 00:11:26,188
+para você não gastar seus créditos, beleza?
+
+270
+00:11:26,548 --> 00:11:29,648
+Mas daria, daria para você pedir para o Cloud criar a pasta para você.
+
+271
+00:11:30,408 --> 00:11:31,868
+Agora, o que a gente vai fazer?
+
+272
+00:11:31,868 --> 00:11:33,868
+Essa parte é importante de eu passar aqui.
+
+273
+00:11:35,132 --> 00:11:39,512
+Dentro aqui dos materiais, eu preparei um material diferente,
+
+274
+00:11:39,592 --> 00:11:43,032
+que esse aqui, eu não vou compartilhar ele com vocês.
+
+275
+00:11:43,212 --> 00:11:44,932
+Vocês vão falar, porra, mas você não vai compartilhar?
+
+276
+00:11:44,992 --> 00:11:46,832
+Não, eu vou compartilhar o prompt com vocês,
+
+277
+00:11:47,032 --> 00:11:49,352
+mas eu quero mostrar de onde vem esse prompt,
+
+278
+00:11:49,552 --> 00:11:53,232
+que é um material aqui de quem assina a nossa plataforma.
+
+279
+00:11:53,692 --> 00:11:57,252
+E aí, eu preciso ser justo com quem está pagando para ter acesso a isso.
+
+280
+00:11:57,332 --> 00:11:59,572
+Não posso dar de graça o que outras pessoas compraram.
+
+281
+00:11:59,852 --> 00:12:01,352
+Mas o que é esse documento aqui?
+
+282
+00:12:01,352 --> 00:12:03,152
+isso aqui é toda a metodologia
+
+283
+00:12:04,572 --> 00:12:05,612
+de construção
+
+284
+00:12:05,612 --> 00:12:06,652
+de marca da Overlance.
+
+285
+00:12:06,852 --> 00:12:09,052
+Toda ela aqui documentada,
+
+286
+00:12:09,092 --> 00:12:11,292
+passo a passo, tá vendo? Então vai
+
+287
+00:12:11,292 --> 00:12:13,232
+desde aqui a auditoria de mercado, auditoria
+
+288
+00:12:13,232 --> 00:12:15,792
+de público, auditoria de negócio, benchmarking,
+
+289
+00:12:15,812 --> 00:12:17,632
+posicionamento, círculo dourado,
+
+290
+00:12:17,652 --> 00:12:19,492
+plano de mídia, buyer persona,
+
+291
+00:12:19,812 --> 00:12:21,412
+núcleo da marca, roteiro da marca,
+
+292
+00:12:21,672 --> 00:12:22,832
+virtudes da marca,
+
+293
+00:12:23,012 --> 00:12:25,012
+e aí tem as imagens aqui também
+
+294
+00:12:25,012 --> 00:12:26,372
+explicando como que funciona,
+
+295
+00:12:27,072 --> 00:12:28,452
+arquétipos da marca aqui também,
+
+296
+00:12:29,092 --> 00:12:31,092
+brand persona, tom
+
+297
+00:12:31,092 --> 00:12:40,692
+Som de voz, naming, vocabulário, manifesto, manual verbal, identidade visual, mood board, símbolo e logotipo,
+
+298
+00:12:40,752 --> 00:12:43,092
+com todo o processo aqui, tudo explicadinho.
+
+299
+00:12:43,272 --> 00:12:45,592
+Isso aqui é uma aula de diretrizes, tá?
+
+300
+00:12:45,812 --> 00:12:49,572
+Mas eu não vou compartilhar igual eu disse, porém isso não vai prejudicar vocês.
+
+301
+00:12:49,772 --> 00:12:50,192
+Por quê?
+
+302
+00:12:51,412 --> 00:12:54,112
+Esse aqui é o processo de criação da marca da Overlands, tá?
+
+303
+00:12:54,292 --> 00:12:58,952
+Mas isso não vai prejudicar vocês porque eu vou entregar para vocês os prompts que nós vamos utilizar aqui.
+
+304
+00:12:58,952 --> 00:13:03,872
+O prompt é derivado desse material, eu vou fazer isso ao vivo aqui para vocês verem,
+
+305
+00:13:03,972 --> 00:13:06,092
+mas ele não é o material em si.
+
+306
+00:13:06,852 --> 00:13:09,392
+E aí se vocês quiserem ter acesso a esse material depois,
+
+307
+00:13:09,692 --> 00:13:13,412
+vocês vão poder considerar, ir ou não, participar da Overlens, participar da Vanguarda
+
+308
+00:13:13,412 --> 00:13:15,972
+e ter acesso a esses e muitos outros conteúdos.
+
+309
+00:13:16,032 --> 00:13:22,012
+Mas vem tudo aqui, direção de imagem, manual visual, aplicações, lançamento da marca também,
+
+310
+00:13:22,272 --> 00:13:23,952
+tem toda a documentação aqui.
+
+311
+00:13:24,232 --> 00:13:25,672
+O que nós vamos fazer?
+
+312
+00:13:25,672 --> 00:13:27,592
+eu vou pegando essa documentação
+
+313
+00:13:27,592 --> 00:13:29,832
+e vou transformando ela em prompt
+
+314
+00:13:29,832 --> 00:13:31,252
+para vocês, beleza?
+
+315
+00:13:31,512 --> 00:13:33,752
+E aí a gente vai começar a construir isso aqui.
+
+316
+00:13:35,012 --> 00:13:35,492
+Idealmente,
+
+317
+00:13:35,492 --> 00:13:37,572
+quando a gente começa um projeto aqui no
+
+318
+00:13:37,572 --> 00:13:39,712
+Cloud, ele dá uma mensagem
+
+319
+00:13:39,712 --> 00:13:41,632
+aqui para que você instale
+
+320
+00:13:41,632 --> 00:13:43,652
+o barra init. Eu vou fazer
+
+321
+00:13:43,652 --> 00:13:45,632
+isso aqui, vou abrir um terminal novo só para mostrar
+
+322
+00:13:45,632 --> 00:13:47,132
+para vocês, não precisa abrir outro aí não.
+
+323
+00:13:47,292 --> 00:13:49,432
+Olha só, rod barra init
+
+324
+00:13:49,432 --> 00:13:51,572
+para criar o arquivo cloud.md
+
+325
+00:13:51,572 --> 00:13:53,552
+que basicamente era só eu dar um barra init
+
+326
+00:13:53,552 --> 00:13:55,412
+aqui. Só que você precisa de
+
+327
+00:13:55,412 --> 00:13:56,812
+informação para o Cloud ler.
+
+328
+00:13:57,192 --> 00:13:59,372
+Enquanto o projeto não tem nada, não faz sentido
+
+329
+00:13:59,372 --> 00:14:01,492
+a gente rodar isso aqui. Então, primeiro a gente vai
+
+330
+00:14:01,492 --> 00:14:03,052
+criar toda a documentação aqui,
+
+331
+00:14:03,172 --> 00:14:04,992
+e depois que a gente criar a documentação,
+
+332
+00:14:05,212 --> 00:14:07,312
+aí nós vamos rodar o barra init para
+
+333
+00:14:07,312 --> 00:14:08,652
+começar a construir o sistema.
+
+334
+00:14:09,372 --> 00:14:11,372
+E aí, como que vai funcionar? Nós temos a
+
+335
+00:14:11,372 --> 00:14:12,912
+pasta aqui de diretrizes,
+
+336
+00:14:13,352 --> 00:14:15,312
+e nós vamos seguir aquela metodologia
+
+337
+00:14:15,312 --> 00:14:17,072
+da Overlays. Qual que é?
+
+338
+00:14:17,172 --> 00:14:19,212
+Para vocês se organizarem, eu vou
+
+339
+00:14:19,212 --> 00:14:21,172
+usando aqui o nosso Figma.
+
+340
+00:14:21,692 --> 00:14:23,372
+E aí a gente vai passar por cada uma
+
+341
+00:14:23,372 --> 00:14:25,352
+das etapas, mas qual que é o processo que a gente
+
+342
+00:14:25,352 --> 00:14:27,432
+segue aqui na Overlens? Nós temos primeiro
+
+343
+00:14:27,432 --> 00:14:28,552
+a investigação,
+
+344
+00:14:30,132 --> 00:14:30,492
+investigação,
+
+345
+00:14:32,348 --> 00:14:34,968
+Vou deixar aqui sem o cedilha mesmo, para ir mais rápido, mas está aí, ó.
+
+346
+00:14:36,368 --> 00:14:38,548
+Investigação, que é onde a gente faz as auditorias,
+
+347
+00:14:39,008 --> 00:14:41,488
+auditoria de negócio, auditoria de mercado, auditoria de público.
+
+348
+00:14:41,808 --> 00:14:45,008
+O Cloud vai fazer essas auditorias para a gente, mas isso gasta token.
+
+349
+00:14:45,248 --> 00:14:46,948
+Aí eu vou dar caminhos para vocês, tá bom?
+
+350
+00:14:47,208 --> 00:14:48,648
+Mas aqui a gente tem a investigação.
+
+351
+00:14:48,928 --> 00:14:51,208
+Depois da investigação, a gente tem a estratégia de marca.
+
+352
+00:14:51,408 --> 00:14:53,428
+Deixa eu trocar aqui para eu conseguir colocar o assento.
+
+353
+00:14:54,188 --> 00:14:57,088
+Depois da estratégia de marca, a gente tem o núcleo da marca.
+
+354
+00:14:58,428 --> 00:15:00,448
+E depois a gente tem universo verbal.
+
+355
+00:15:03,900 --> 00:15:04,900
+e o universo visual.
+
+356
+00:15:05,260 --> 00:15:07,800
+Essa é a metodologia da Overlens, de construção de marca, tá?
+
+357
+00:15:09,116 --> 00:15:14,116
+E aí, dentro disso aqui, nós precisamos preparar as diretrizes de cada uma dessas etapas.
+
+358
+00:15:14,196 --> 00:15:17,936
+E aí, para isso, nós vamos utilizar os prompts derivados da metodologia da Overlens.
+
+359
+00:15:18,156 --> 00:15:19,856
+Mas o que a gente precisa aqui, então?
+
+360
+00:15:20,196 --> 00:15:22,936
+Então, eu vou colocar aqui para criar uma hierarquia.
+
+361
+00:15:22,976 --> 00:15:24,036
+A gente vai precisar...
+
+362
+00:15:25,372 --> 00:15:26,752
+auditoria de mercado,
+
+363
+00:15:28,316 --> 00:15:29,596
+Auditoria de público.
+
+364
+00:15:31,836 --> 00:15:33,456
+e auditoria de negócio.
+
+365
+00:15:36,156 --> 00:15:38,336
+Além disso, a gente vai também precisar de um benchmark.
+
+366
+00:15:38,716 --> 00:15:39,096
+Bench.
+
+367
+00:15:42,204 --> 00:15:44,184
+que é uma análise de melhores práticas do mercado.
+
+368
+00:15:44,584 --> 00:15:48,384
+Isso aqui serve para você investigar o cenário da sua empresa e do seu negócio
+
+369
+00:15:48,384 --> 00:15:50,564
+antes de tomar decisões estratégicas.
+
+370
+00:15:50,924 --> 00:15:56,584
+Depois que a gente tomar as principais decisões aqui de coletar as principais informações aqui de auditoria,
+
+371
+00:15:57,164 --> 00:15:59,364
+nós vamos definir aí a plataforma de marca.
+
+372
+00:16:00,732 --> 00:16:04,352
+principalmente definindo aqui quais são os diferenciais.
+
+373
+00:16:05,980 --> 00:16:08,040
+do negócio, definindo
+
+374
+00:16:08,040 --> 00:16:09,720
+também uma metodologia que chama
+
+375
+00:16:09,720 --> 00:16:11,740
+Golden Circle, do Simon Sinek,
+
+376
+00:16:11,900 --> 00:16:13,480
+alguns aqui já devem conhecer,
+
+377
+00:16:13,700 --> 00:16:15,500
+e definindo também a
+
+378
+00:16:15,500 --> 00:16:17,960
+Buyer Persona. Vocês já estão
+
+379
+00:16:17,960 --> 00:16:20,080
+olhando isso aqui pensando, meu Deus, a gente vai conseguir
+
+380
+00:16:20,080 --> 00:16:21,480
+fazer isso tudo com o IA,
+
+381
+00:16:22,840 --> 00:16:23,800
+o tempo
+
+382
+00:16:23,800 --> 00:16:26,260
+é diferente, as coisas acontecem
+
+383
+00:16:26,260 --> 00:16:28,080
+em um ritmo diferente, vocês vão perceber isso aqui.
+
+384
+00:16:28,340 --> 00:16:30,320
+Eu vou mostrar de um jeito acelerado,
+
+385
+00:16:30,360 --> 00:16:32,040
+mas não vai ser acelerado pra vocês,
+
+386
+00:16:32,180 --> 00:16:34,140
+mas eu quero dizer assim, na hora que você vai construir um negócio,
+
+387
+00:16:34,140 --> 00:16:39,360
+negócio, você não toma essas decisões num único dia, você vai tomando essas decisões ao longo do
+
+388
+00:16:39,360 --> 00:16:44,580
+tempo, lendo os documentos, decidindo, mudando o que não faz sentido, beleza? A Overlance a gente
+
+389
+00:16:44,580 --> 00:16:49,360
+tá construindo ela desde 2021, então todas essas decisões já estão tomadas, mas eu vou fazer o
+
+390
+00:16:49,360 --> 00:16:53,660
+processo aqui junto com vocês para vocês verem, de um jeito mais rápido para a gente focar na
+
+391
+00:16:53,660 --> 00:16:55,340
+construção do Brand System, beleza?
+
+392
+00:16:57,948 --> 00:17:02,088
+Depois que a gente definir essa parte estratégica, nós vamos definir o núcleo da marca
+
+393
+00:17:02,088 --> 00:17:06,108
+e aqui no núcleo da marca a gente vai definir então o roteiro da marca,
+
+394
+00:17:06,228 --> 00:17:09,368
+então qual é a narrativa, a história que a marca conta sobre ela mesma.
+
+395
+00:17:09,688 --> 00:17:16,508
+Nós vamos definir as virtudes da marca, que são os atributos baseados em um conceito filosófico
+
+396
+00:17:16,508 --> 00:17:22,008
+chamado de continuum das virtudes do Aristóteles, aplicado na construção de marcas.
+
+397
+00:17:22,008 --> 00:17:28,048
+Vamos também aqui definir os arquétipos da marca e vamos definir aqui também...
+
+398
+00:17:29,148 --> 00:17:33,428
+Brand Persona, porque tem diferença de buyer para Brand Persona.
+
+399
+00:17:34,460 --> 00:17:37,020
+Feito isso, isso aqui tudo é agora à tarde, tá?
+
+400
+00:17:37,100 --> 00:17:38,660
+O que a gente vai fazer, então presta muita atenção.
+
+401
+00:17:39,280 --> 00:17:41,340
+Feito isso, a gente vai para o universo verbal.
+
+402
+00:17:41,660 --> 00:17:44,960
+Aqui, baseado em todas essas informações que nós geramos,
+
+403
+00:17:45,020 --> 00:17:49,920
+nós vamos gerar aqui também o tom de voz da marca,
+
+404
+00:17:50,080 --> 00:17:53,800
+nós vamos gerar aqui o vocabulário,
+
+405
+00:17:55,080 --> 00:17:56,480
+vocabulário, território de palavras.
+
+406
+00:17:59,292 --> 00:18:03,132
+da marca, porque se a IA ou sua equipe for falar em nome da sua marca,
+
+407
+00:18:04,508 --> 00:18:06,088
+Eles precisam saber como fazer isso.
+
+408
+00:18:06,268 --> 00:18:07,408
+A gente define isso.
+
+409
+00:18:07,888 --> 00:18:08,868
+Clichês da marca.
+
+410
+00:18:09,428 --> 00:18:13,168
+Então, isso aqui define frases que são usadas com muita frequência,
+
+411
+00:18:13,228 --> 00:18:14,748
+repetidas ali com muita frequência.
+
+412
+00:18:15,428 --> 00:18:18,268
+Eventualmente, vocês poderão criar manifesto da marca também.
+
+413
+00:18:18,708 --> 00:18:20,368
+Poderão trabalhar a parte de naming.
+
+414
+00:18:20,988 --> 00:18:24,308
+Nomes tanto da marca quanto dos produtos, dos métodos e por aí vai.
+
+415
+00:18:24,428 --> 00:18:26,688
+Tem toda uma arquitetura de marca ali que dá para trabalhar.
+
+416
+00:18:27,328 --> 00:18:28,888
+E aí tem o universo visual.
+
+417
+00:18:29,308 --> 00:18:33,428
+No universo visual, a gente começa com o de borde.
+
+418
+00:18:33,428 --> 00:18:35,468
+isso aqui a gente não vai fazer hoje, tá?
+
+419
+00:18:35,948 --> 00:18:37,528
+A gente não vai trabalhar aqui no Atlas.
+
+420
+00:18:37,748 --> 00:18:40,328
+Eu vou usar elementos que eu já tenho prontos da minha marca.
+
+421
+00:18:40,708 --> 00:18:42,708
+Mas você pode trabalhar isso tanto com o IA,
+
+422
+00:18:42,848 --> 00:18:44,308
+ou pode trabalhar isso depois também.
+
+423
+00:18:44,348 --> 00:18:46,388
+Se você já tem sua marca, você vai poder usar ela.
+
+424
+00:18:46,488 --> 00:18:49,748
+Se não, eu vou recomendar você criar uma marca só com o nome, por enquanto.
+
+425
+00:18:49,928 --> 00:18:51,668
+Você vai conseguir acompanhar do mesmo jeito.
+
+426
+00:18:51,788 --> 00:18:53,668
+E depois você trabalha isso aqui, que é o quê?
+
+427
+00:18:54,608 --> 00:18:57,448
+Os símbolos e logotipos da marca.
+
+428
+00:18:58,288 --> 00:18:59,128
+Paleta de cores.
+
+429
+00:18:59,628 --> 00:19:01,908
+Algumas coisas a gente ainda vai definir aqui juntos, tá?
+
+430
+00:19:01,908 --> 00:19:05,328
+Paleta de cores, conjunto tipográfico.
+
+431
+00:19:07,388 --> 00:19:10,028
+que são as letras que vão compor sua marca.
+
+432
+00:19:10,208 --> 00:19:13,388
+Esses detalhes parecem bobos, mas isso aqui é muito importante.
+
+433
+00:19:13,908 --> 00:19:17,588
+Você quer que as pessoas reconheçam a sua marca em milissegundos.
+
+434
+00:19:17,768 --> 00:19:20,728
+Você quer que as pessoas reconheçam a sua marca inconscientemente.
+
+435
+00:19:20,908 --> 00:19:22,988
+Então, isso aqui que vai te permitir fazer isso.
+
+436
+00:19:24,048 --> 00:19:27,408
+Conjunto tipográfico, aí aqui dá para trabalhar grafismos,
+
+437
+00:19:28,208 --> 00:19:30,568
+aqui dá para trabalhar também direção fotográfica.
+
+438
+00:19:32,572 --> 00:19:33,652
+Para que eu preciso disso tudo?
+
+439
+00:19:33,752 --> 00:19:36,092
+Imagina que a IA vai criar seus posts por você.
+
+440
+00:19:36,272 --> 00:19:39,372
+Imagina que a IA vai criar os materiais por você.
+
+441
+00:19:39,532 --> 00:19:40,932
+Ela precisa de diretrizes.
+
+442
+00:19:41,192 --> 00:19:46,012
+Ela precisa saber que tipo de imagem a sua marca geralmente trabalha.
+
+443
+00:19:46,052 --> 00:19:48,692
+Como que a sua marca quer ser vista visualmente também.
+
+444
+00:19:48,932 --> 00:19:50,092
+Então isso é importante, tá?
+
+445
+00:19:50,392 --> 00:19:52,052
+Essa é a metodologia da Overlens.
+
+446
+00:19:52,292 --> 00:19:55,872
+Então, só para reforçar, antes de eu começar a criar aqui com vocês.
+
+447
+00:19:56,092 --> 00:20:00,252
+Nós vamos passar por esse processo usando prompts que eu vou compartilhar com vocês.
+
+448
+00:20:00,512 --> 00:20:02,332
+Vocês vão conseguir avançar aqui.
+
+449
+00:20:03,292 --> 00:20:04,852
+mas, se vocês quiserem
+
+450
+00:20:04,852 --> 00:20:06,712
+mergulhar nesse universo todo
+
+451
+00:20:06,712 --> 00:20:08,912
+isso aqui não é o tipo de coisa que você faz
+
+452
+00:20:08,912 --> 00:20:10,572
+em um ou dois dias, em uma tarde
+
+453
+00:20:10,572 --> 00:20:12,792
+existe um esforço pra desenvolver
+
+454
+00:20:12,792 --> 00:20:14,552
+esse repertório aqui, aprender
+
+455
+00:20:14,552 --> 00:20:16,892
+sobre essas coisas, vale a pena
+
+456
+00:20:16,892 --> 00:20:18,792
+colocar energia e aprender isso? Vale muito
+
+457
+00:20:18,792 --> 00:20:20,772
+a pena, o futuro pro qual nós estamos
+
+458
+00:20:20,772 --> 00:20:22,512
+indo está muito ligado com isso aqui
+
+459
+00:20:22,512 --> 00:20:24,832
+e dentro da Uberlândia a gente ensina de um jeito
+
+460
+00:20:24,832 --> 00:20:26,492
+que vocês não encontram em nenhum outro lugar
+
+461
+00:20:26,492 --> 00:20:28,532
+só pra deixar claro aqui, por que Juan?
+
+462
+00:20:28,692 --> 00:20:30,312
+porque aqui a gente tem uma abordagem
+
+463
+00:20:30,312 --> 00:20:32,312
+nexialista e sistêmica. Sabe aquela
+
+464
+00:20:32,312 --> 00:20:33,672
+aula que eu dei no início pra vocês?
+
+465
+00:20:34,752 --> 00:20:36,312
+Filosófica, profunda. A gente
+
+466
+00:20:36,312 --> 00:20:37,872
+faz isso com a maioria dos temas.
+
+467
+00:20:38,172 --> 00:20:40,212
+Uma reflexão mais profunda sobre eles,
+
+468
+00:20:40,252 --> 00:20:42,372
+pra que você não só associe
+
+469
+00:20:42,372 --> 00:20:44,332
+isso e aprenda de fato, mas também
+
+470
+00:20:44,332 --> 00:20:46,272
+pra que você enxergue mais longe. E não
+
+471
+00:20:46,272 --> 00:20:47,992
+só ficar criando coisas rasas ali,
+
+472
+00:20:48,052 --> 00:20:50,272
+focando muito só na casca
+
+473
+00:20:50,272 --> 00:20:51,532
+e esquecendo do conteúdo.
+
+474
+00:20:52,232 --> 00:20:54,452
+Beleza? Então agora a gente vai construir
+
+475
+00:20:54,452 --> 00:20:56,092
+isso aqui, usando
+
+476
+00:20:56,092 --> 00:20:58,332
+IA. E é aí que a coisa começa
+
+477
+00:20:58,332 --> 00:21:02,532
+começa a ficar boa. Começando então pela investigação. Vamos fazer isso aqui acontecer.
+
+478
+00:21:02,852 --> 00:21:07,072
+O que é que eu vou fazer? Eu vou vir aqui no meu antepreve na pasta diretrizes e nós vamos
+
+479
+00:21:07,072 --> 00:21:11,952
+trabalhar aqui dentro da investigação. Então, dentro da pasta diretrizes, eu vou clicar aqui
+
+480
+00:21:11,952 --> 00:21:16,932
+para selecionar, eu vou criar uma outra pasta chamada investigação. Ou você pode chamar também
+
+481
+00:21:16,932 --> 00:21:23,692
+de research em inglês. Research significa pesquisa, né? Então, criei a pasta research aqui. Ele ficou
+
+482
+00:21:23,692 --> 00:21:25,792
+Desse jeito porque só tem uma pasta aqui dentro
+
+483
+00:21:25,792 --> 00:21:26,972
+Então ele otimiza a visualização
+
+484
+00:21:27,952 --> 00:21:29,752
+Só que se eu clico aqui e crio outra
+
+485
+00:21:29,752 --> 00:21:32,052
+Pasta, por exemplo, estratégia
+
+486
+00:21:32,052 --> 00:21:33,432
+Engraçado, né? Eu comecei
+
+487
+00:21:34,132 --> 00:21:35,992
+Em inglês, depois já virou português
+
+488
+00:21:35,992 --> 00:21:37,532
+Depois virou inglês de novo, enfim
+
+489
+00:21:37,532 --> 00:21:39,672
+Vamos seguindo assim. Então agora ele
+
+490
+00:21:39,672 --> 00:21:41,492
+Mostra as duas pastas que eu tenho aqui dentro
+
+491
+00:21:41,952 --> 00:21:43,352
+Hierarquia de pastas simples aí
+
+492
+00:21:43,352 --> 00:21:45,752
+Então a gente vai começar aqui dentro de research
+
+493
+00:21:45,752 --> 00:21:47,332
+O que eu vou fazer? Olha que legal
+
+494
+00:21:47,332 --> 00:21:49,772
+Eu vou puxar essa pastinha e vou soltá-la no meu
+
+495
+00:21:49,772 --> 00:21:51,332
+Cloud, pra ele pegar o caminho
+
+496
+00:21:51,332 --> 00:21:53,012
+mim. E agora a gente vai criar
+
+497
+00:21:53,012 --> 00:21:55,132
+aqui dentro a nossa pesquisa de
+
+498
+00:21:55,132 --> 00:21:57,172
+mercado. Para começar isso
+
+499
+00:21:57,172 --> 00:21:59,072
+então, eu vou explicar para o
+
+500
+00:21:59,072 --> 00:22:01,152
+Cloude o que nós vamos construir aqui. Então eu vou falar
+
+501
+00:22:01,152 --> 00:22:03,532
+para ele o seguinte, olha. Estou construindo
+
+502
+00:22:04,988 --> 00:22:08,608
+um brand system para a minha plataforma.
+
+503
+00:22:11,548 --> 00:22:13,188
+de criação mixialista.
+
+504
+00:22:13,288 --> 00:22:15,428
+Esse prompt aqui eu não vou compartilhar com vocês
+
+505
+00:22:15,428 --> 00:22:17,448
+porque eu quero que vocês falem sobre a empresa
+
+506
+00:22:17,448 --> 00:22:19,288
+de vocês aí. Vocês vão escrever
+
+507
+00:22:19,288 --> 00:22:21,708
+igual eu estou escrevendo da Overlens, ao invés de fazer
+
+508
+00:22:21,708 --> 00:22:23,688
+da Overlens, vocês vão fazer o de vocês.
+
+509
+00:22:23,768 --> 00:22:25,428
+Não faz sentido nenhum vocês pegarem meu prompt
+
+510
+00:22:25,428 --> 00:22:26,868
+da Overlens e usarem aí, tá? Então,
+
+511
+00:22:27,488 --> 00:22:29,488
+vocês vão puxar esse ponto de research
+
+512
+00:22:29,948 --> 00:22:31,468
+e vocês vão colocar isso aqui,
+
+513
+00:22:31,508 --> 00:22:33,108
+estou construindo um brand system para,
+
+514
+00:22:33,308 --> 00:22:35,688
+aí você coloca sua empresa, minha plataforma de criação
+
+515
+00:22:36,288 --> 00:22:37,688
+mixialista. O nome dela
+
+516
+00:22:39,196 --> 00:22:39,896
+Overlens.
+
+517
+00:22:40,376 --> 00:22:42,996
+Vou colocar uma decisão que eu tomei de negócio aqui,
+
+518
+00:22:43,116 --> 00:22:43,976
+que é o seguinte,
+
+519
+00:22:44,736 --> 00:22:45,956
+nossa abordagem...
+
+520
+00:22:47,612 --> 00:22:50,992
+baseada em Project Based Learning.
+
+521
+00:22:51,972 --> 00:22:52,652
+Ensinamos...
+
+522
+00:22:54,172 --> 00:22:55,032
+É baseado...
+
+523
+00:22:56,284 --> 00:23:01,164
+Ensinamos baseado na prática, com projetos reais.
+
+524
+00:23:01,984 --> 00:23:04,484
+Aqui eu estou falando sobre a minha, falem sobre a de vocês.
+
+525
+00:23:04,644 --> 00:23:14,124
+Então, vou colocar, olha, temos diversos conteúdos, materiais, livros, referências,
+
+526
+00:23:14,204 --> 00:23:22,984
+mais de 400 horas de conteúdo e somos conhecidos por apresentar um conteúdo profundo.
+
+527
+00:23:25,244 --> 00:23:27,984
+abrangente, opa, abrangente é com N,
+
+528
+00:23:28,844 --> 00:23:31,824
+abrangente, focado nas pessoas criadoras
+
+529
+00:23:32,604 --> 00:23:36,224
+que querem se preparar para o futuro.
+
+530
+00:23:36,704 --> 00:23:39,864
+Olha só que interessante, como que é fácil para mim falar da minha empresa,
+
+531
+00:23:39,964 --> 00:23:41,424
+porque eu já fiz isso muitas vezes antes.
+
+532
+00:23:41,684 --> 00:23:44,224
+Se tiver difícil de você falar sobre a sua própria empresa,
+
+533
+00:23:44,404 --> 00:23:46,704
+é porque você ainda não se acostumou a falar sobre ela,
+
+534
+00:23:46,744 --> 00:23:49,224
+e isso por si só já é um grande exercício aqui, tá?
+
+535
+00:23:49,844 --> 00:23:52,364
+Então eu estou falando, eu posso ir trazendo mais coisas aqui,
+
+536
+00:23:52,524 --> 00:23:54,564
+aí vai depender de vocês, quanto mais contexto, melhor.
+
+537
+00:23:54,564 --> 00:23:56,244
+melhor, tá bom? Vou deixar
+
+538
+00:23:56,244 --> 00:23:58,524
+só aqui, vou colocar só um ponto importante,
+
+539
+00:23:59,404 --> 00:23:59,584
+é...
+
+540
+00:24:00,284 --> 00:24:02,004
+chamamos os criadores
+
+541
+00:24:02,004 --> 00:24:03,524
+da nossa plataforma.
+
+542
+00:24:05,692 --> 00:24:07,372
+de nexialistas. Pronto.
+
+543
+00:24:07,752 --> 00:24:09,612
+Coloquei um pouquinho de contexto aqui pra ele.
+
+544
+00:24:09,672 --> 00:24:11,372
+E vocês vão colocar aí o contexto
+
+545
+00:24:11,372 --> 00:24:13,532
+pra vocês. Beleza?
+
+546
+00:24:13,792 --> 00:24:15,592
+Ah, não tô
+
+547
+00:24:15,592 --> 00:24:17,192
+conseguindo usar aqui. Usa aqui, ó.
+
+548
+00:24:18,396 --> 00:24:19,336
+Você vai fazer a mesma coisa.
+
+549
+00:24:19,436 --> 00:24:20,776
+Eu vou criar um arquivo novo.
+
+550
+00:24:21,516 --> 00:24:22,256
+Aí o que eu vou fazer?
+
+551
+00:24:22,316 --> 00:24:23,076
+Eu vou copiar isso aqui.
+
+552
+00:24:24,444 --> 00:24:25,344
+Poderia colar aqui, ó.
+
+553
+00:24:25,864 --> 00:24:26,764
+Opa, tira isso aqui agora.
+
+554
+00:24:28,092 --> 00:24:29,872
+Estou escrevendo o prompt aqui dentro, está vendo?
+
+555
+00:24:30,052 --> 00:24:32,192
+E depois vocês vão dar Enter, mas não dá Enter ainda não.
+
+556
+00:24:32,272 --> 00:24:32,572
+Espera aí.
+
+557
+00:24:32,932 --> 00:24:36,332
+Você também pode puxar aqui a pasta para cá, está vendo?
+
+558
+00:24:36,472 --> 00:24:37,512
+Dá para usar do mesmo jeito.
+
+559
+00:24:37,692 --> 00:24:40,072
+Só que aqui, provavelmente se você estiver no gratuito,
+
+560
+00:24:40,072 --> 00:24:41,752
+os créditos vão acabar muito rápido.
+
+561
+00:24:44,668 --> 00:24:45,088
+Então, é isso.
+
+562
+00:24:45,648 --> 00:24:47,608
+Criar pasta, pessoal, é jogo rápido.
+
+563
+00:24:47,808 --> 00:24:49,348
+Clicou aqui, criou a pasta, deu o nome.
+
+564
+00:24:49,408 --> 00:24:49,728
+Só isso.
+
+565
+00:24:50,388 --> 00:24:50,708
+Beleza?
+
+566
+00:24:51,488 --> 00:24:52,888
+Eu não estou tão rápido assim, não.
+
+567
+00:24:54,588 --> 00:25:00,648
+Então, escrevi aqui sobre a minha empresa e agora vem uma parte importante.
+
+568
+00:25:01,128 --> 00:25:06,708
+Eu dei esse contexto para ele, puxei aqui o arquivo e isso aqui eu vou compartilhar com vocês.
+
+569
+00:25:07,008 --> 00:25:10,908
+Então, agora que eu coloquei isso aqui, eu vou escrever um prompt que eu vou compartilhar com vocês.
+
+570
+00:25:11,628 --> 00:25:15,368
+O primeiro passo, presta atenção no prompt, mas eu vou compartilhar ele.
+
+571
+00:25:15,448 --> 00:25:16,688
+O primeiro passo...
+
+572
+00:25:17,756 --> 00:25:18,856
+que quero seguir aqui.
+
+573
+00:25:20,988 --> 00:25:25,048
+definir as diretrizes de marca junto com você.
+
+574
+00:25:25,448 --> 00:25:29,588
+Vamos começar com a etapa de research,
+
+575
+00:25:29,928 --> 00:25:31,488
+que é a auditoria que a gente viu ali.
+
+576
+00:25:31,848 --> 00:25:33,848
+Fazendo auditoria.
+
+577
+00:25:35,228 --> 00:25:38,948
+Mercado, negócio e público.
+
+578
+00:25:40,444 --> 00:25:41,484
+Vou te entregar.
+
+579
+00:25:43,260 --> 00:25:44,180
+passo a passo.
+
+580
+00:25:45,532 --> 00:25:46,812
+de como...
+
+581
+00:25:48,348 --> 00:25:50,928
+executar essas auditorias.
+
+582
+00:25:51,488 --> 00:25:53,508
+Preciso que você...
+
+583
+00:25:54,780 --> 00:26:00,480
+Execute-as e crie um arquivo para cada dentro da pasta.
+
+584
+00:26:01,884 --> 00:26:04,284
+Tá bom? Tão simples assim, ó, vou mandar esse link aqui pra vocês.
+
+585
+00:26:05,064 --> 00:26:06,344
+Vou mandar isso aqui pra vocês.
+
+586
+00:26:06,564 --> 00:26:09,564
+Eu vou só, na verdade, eu vou entregar pra ele o prompt primeiro, né?
+
+587
+00:26:10,004 --> 00:26:11,144
+Então, o que que eu vou fazer agora?
+
+588
+00:26:11,404 --> 00:26:13,464
+Eu vou pegar aqui o método da Overlens.
+
+589
+00:26:14,164 --> 00:26:15,564
+Tá aqui, ó, auditoria de mercado.
+
+590
+00:26:16,064 --> 00:26:17,644
+Tá vendo? Ó, todo o método aqui.
+
+591
+00:26:18,184 --> 00:26:19,004
+Vou copiar ele.
+
+592
+00:26:20,284 --> 00:26:23,084
+Isso aqui vocês não vão conseguir fazer porque vocês não estão com o método aí ainda.
+
+593
+00:26:23,184 --> 00:26:24,264
+Então só acompanha aqui, ó.
+
+594
+00:26:24,564 --> 00:26:26,884
+Vou chamar isso aqui de mercado.umd.
+
+595
+00:26:27,164 --> 00:26:28,884
+Vou colar ele aqui, beleza?
+
+596
+00:26:29,184 --> 00:26:29,864
+Colei ele aqui.
+
+597
+00:26:30,624 --> 00:26:34,044
+Vou criar um outro arquivo chamado público.umd.
+
+598
+00:26:35,356 --> 00:26:38,396
+E aí eu vou colocar aqui a metodologia da Overlance de auditoria de público,
+
+599
+00:26:38,596 --> 00:26:39,756
+copiar e colar ela aqui,
+
+600
+00:26:40,176 --> 00:26:44,216
+e vou criar aqui também um de negócio, .md.
+
+601
+00:26:44,596 --> 00:26:46,256
+Isso é o que vocês não precisam fazer, tá?
+
+602
+00:26:46,436 --> 00:26:50,376
+Estou fazendo aqui para poder criar os prompts.
+
+603
+00:26:51,336 --> 00:26:52,656
+Agora, o que eu vou fazer aqui?
+
+604
+00:26:52,736 --> 00:26:54,056
+Vocês não precisam fazer.
+
+605
+00:26:54,256 --> 00:26:55,976
+É só para eu criar o prompt para vocês.
+
+606
+00:26:56,236 --> 00:26:58,456
+Eu vou abrir um outro Cloud aqui do lado.
+
+607
+00:27:00,444 --> 00:27:02,804
+E vou pedir, inclusive, deixa eu ver uma coisa.
+
+608
+00:27:05,084 --> 00:27:06,944
+abrir um outro cloud aqui do lado,
+
+609
+00:27:07,084 --> 00:27:09,964
+e eu vou fazer o seguinte, eu vou puxar esses três arquivos,
+
+610
+00:27:10,004 --> 00:27:10,944
+na verdade eu vou fazer assim,
+
+611
+00:27:11,044 --> 00:27:13,484
+vou puxar um por um aqui, mais fácil.
+
+612
+00:27:13,624 --> 00:27:13,964
+Esse.
+
+613
+00:27:16,188 --> 00:27:18,108
+esse e esse.
+
+614
+00:27:18,788 --> 00:27:19,868
+E vou falar pra ele o seguinte,
+
+615
+00:27:19,928 --> 00:27:21,068
+vocês não precisam fazer isso aqui, tá?
+
+616
+00:27:22,108 --> 00:27:23,088
+Crie um prompt.
+
+617
+00:27:25,180 --> 00:27:29,380
+eficiente para cada um desses arquivos.
+
+618
+00:27:29,720 --> 00:27:31,900
+O prompt deve ser...
+
+619
+00:27:31,900 --> 00:27:33,700
+Eu poderia criar um prompt ou um skill.
+
+620
+00:27:33,920 --> 00:27:36,020
+Eu vou criar o prompt porque vai ser mais fácil para vocês agora
+
+621
+00:27:36,020 --> 00:27:37,460
+do que eu explicar skill nesse momento.
+
+622
+00:27:37,800 --> 00:27:46,740
+O prompt deve ser uma instrução de como executar as auditorias.
+
+623
+00:27:48,316 --> 00:27:51,016
+Preciso de um arquivo para cada.
+
+624
+00:27:52,380 --> 00:27:52,800
+o prompt.
+
+625
+00:27:54,780 --> 00:28:00,380
+Otimize o prompt para não consumir muitos tokens.
+
+626
+00:28:01,300 --> 00:28:03,480
+Então, vou colocar aqui desse jeito, vou dar um Enter.
+
+627
+00:28:03,800 --> 00:28:04,860
+O que ele vai fazer?
+
+628
+00:28:04,880 --> 00:28:08,940
+Ele vai criar aqui para mim três arquivos de prompt baseado na metodologia.
+
+629
+00:28:09,020 --> 00:28:11,420
+E aí eu vou mandar esse prompt para vocês, tá bom?
+
+630
+00:28:16,252 --> 00:28:19,232
+Juan, a lógica é, a partir da documentação, você cria uma skill?
+
+631
+00:28:19,652 --> 00:28:23,072
+A gente pode fazer dessa maneira, mas eu não vou criar skill aqui agora.
+
+632
+00:28:23,292 --> 00:28:24,652
+Depois a gente pode falar de skill.
+
+633
+00:28:24,692 --> 00:28:27,112
+Eu vou deixar do jeito mais simples possível nesse começo, tá?
+
+634
+00:28:27,712 --> 00:28:30,712
+Então, eu vou mandar para vocês esses três arquivos aqui.
+
+635
+00:28:31,232 --> 00:28:32,652
+E aí, vocês vão fazer o quê?
+
+636
+00:28:33,012 --> 00:28:35,932
+Vocês vão rodar esse prompt, vocês vão copiar isso aqui,
+
+637
+00:28:35,972 --> 00:28:41,592
+colar no cloud de vocês, e o cloud de vocês vai executar as auditorias, tá bom?
+
+638
+00:28:42,032 --> 00:28:44,012
+Ele já fez o prompt de mercado, tá vendo?
+
+639
+00:28:44,012 --> 00:28:46,172
+Ele está criando aqui, o prompt de mercado já está pronto.
+
+640
+00:28:47,580 --> 00:28:49,240
+Ele fez um prompt de negócio também.
+
+641
+00:28:49,740 --> 00:28:51,840
+E ele vai me entregar um prompt de público também.
+
+642
+00:28:52,160 --> 00:28:53,340
+Então ele está terminado.
+
+643
+00:28:53,700 --> 00:28:55,760
+Bem rapidinho, entregou o de público também.
+
+644
+00:28:56,160 --> 00:28:56,620
+Legal?
+
+645
+00:28:56,940 --> 00:29:00,640
+Eu vou mandar para vocês agora os três prompts.
+
+646
+00:29:01,520 --> 00:29:03,800
+Prompt de mercado, negócio e público.
+
+647
+00:29:06,588 --> 00:29:07,688
+Mandei no chat para vocês.
+
+648
+00:29:08,088 --> 00:29:08,928
+Olhem aí no chat.
+
+649
+00:29:09,388 --> 00:29:12,128
+Eu vou pedir para o Rafael travar o chat só um instante.
+
+650
+00:29:12,128 --> 00:29:12,988
+Ah, eu consigo travar aqui.
+
+651
+00:29:13,228 --> 00:29:13,628
+Pronto.
+
+652
+00:29:13,808 --> 00:29:15,648
+Ó, travei o chat aí só um pouquinho.
+
+653
+00:29:16,428 --> 00:29:18,988
+Baixem esses três prompts aí para o computador de vocês.
+
+654
+00:29:19,228 --> 00:29:20,148
+Esses três aqui, ó.
+
+655
+00:29:20,588 --> 00:29:21,768
+São eles que a gente vai usar.
+
+656
+00:29:23,388 --> 00:29:29,388
+Vocês vão baixar eles e vão colar dentro dessa pasta aqui, que é a pasta de pesquisa.
+
+657
+00:29:29,548 --> 00:29:32,428
+Eu criei aqui, cola o prompt dentro dela.
+
+658
+00:29:34,812 --> 00:29:36,292
+Beleza? Só baixar aí e colocar.
+
+659
+00:29:42,172 --> 00:29:46,552
+Aí eu posso fechar isso aqui agora, vou voltar para o nosso prompt que a gente está trabalhando nele aqui.
+
+660
+00:29:49,148 --> 00:29:51,688
+Tô dando só um tempinho, tá? Pra vocês colarem aí os próprios.
+
+661
+00:29:58,076 --> 00:29:59,056
+O que é importante aqui?
+
+662
+00:30:00,284 --> 00:30:02,524
+Onde você escreveu sobre a sua empresa?
+
+663
+00:30:04,924 --> 00:30:08,324
+você vai falar para ele que você vai mandar o prompt.
+
+664
+00:30:08,524 --> 00:30:11,644
+Nós vamos fazer um por um para ficar bem fácil aqui para vocês.
+
+665
+00:30:12,284 --> 00:30:14,144
+Então, o que eu vou fazer aqui?
+
+666
+00:30:15,344 --> 00:30:17,304
+Eu coloquei essa frasezinha aqui.
+
+667
+00:30:17,924 --> 00:30:20,204
+Vamos começar com a etapa de research,
+
+668
+00:30:20,484 --> 00:30:23,204
+fazendo auditoria de mercado, negócio e público.
+
+669
+00:30:23,484 --> 00:30:26,804
+Vou te entregar um passo a passo de como executar essas auditorias.
+
+670
+00:30:27,084 --> 00:30:32,324
+Preciso que você execute-as e crie um arquivo para cada dentro da pasta.
+
+671
+00:30:32,324 --> 00:30:34,904
+Então vou copiar, mandar isso aqui para vocês.
+
+672
+00:30:36,316 --> 00:30:37,436
+Só copiar isso aí agora.
+
+673
+00:30:38,056 --> 00:30:39,476
+E aí vem o próximo passo.
+
+674
+00:30:39,716 --> 00:30:40,636
+O que eu vou fazer aqui?
+
+675
+00:30:41,256 --> 00:30:46,776
+Eu vou agora falar com ele, não faça nada ainda.
+
+676
+00:30:47,156 --> 00:30:54,276
+Vou te enviar um prompt de cada vez e você executa a cada prompt.
+
+677
+00:30:55,136 --> 00:30:56,536
+E aí eu vou dar um enter.
+
+678
+00:30:56,956 --> 00:30:58,876
+Só para ele confirmar para mim.
+
+679
+00:31:00,188 --> 00:31:00,768
+Que está tudo certo.
+
+680
+00:31:01,948 --> 00:31:02,268
+Beleza?
+
+681
+00:31:02,468 --> 00:31:07,048
+É muito importante que vocês coloquem aqui
+
+682
+00:31:07,048 --> 00:31:10,968
+a descrição do negócio de vocês.
+
+683
+00:31:11,048 --> 00:31:12,748
+Vocês precisam colocar a descrição do negócio,
+
+684
+00:31:12,988 --> 00:31:15,408
+porque senão ele vai fazer auditoria de mercado de quê?
+
+685
+00:31:16,796 --> 00:31:17,836
+Ele vai pesquisar aqui público.
+
+686
+00:31:18,636 --> 00:31:19,036
+Entende?
+
+687
+00:31:19,156 --> 00:31:20,516
+Então você coloca uma descrição ali.
+
+688
+00:31:20,616 --> 00:31:23,056
+Tem que ser uma descrição extensa, muita coisa?
+
+689
+00:31:23,376 --> 00:31:24,156
+Não precisa.
+
+690
+00:31:24,456 --> 00:31:27,296
+Pode ser uma descrição curta nesse primeiro momento,
+
+691
+00:31:27,456 --> 00:31:29,656
+porque a IA vai expandir isso para vocês.
+
+692
+00:31:29,996 --> 00:31:34,036
+Ela vai levar isso aqui para mais conteúdo, mais diretrizes.
+
+693
+00:31:34,136 --> 00:31:35,356
+A gente quer que ela construa.
+
+694
+00:31:35,476 --> 00:31:35,996
+Tá bom?
+
+695
+00:31:36,936 --> 00:31:39,756
+Então eu vou habilitar o chat de novo agora aqui para vocês se ajudarem.
+
+696
+00:31:39,916 --> 00:31:40,876
+Vou habilitar ele aqui.
+
+697
+00:31:41,456 --> 00:31:41,856
+Beleza.
+
+698
+00:31:42,156 --> 00:31:42,936
+E aí vamos lá.
+
+699
+00:31:42,976 --> 00:31:44,176
+Olha só o que ela me respondeu.
+
+700
+00:31:44,596 --> 00:31:44,996
+Entendido.
+
+701
+00:31:44,996 --> 00:31:47,876
+Vou aguardar você enviar o primeiro prompt de auditoria.
+
+702
+00:31:47,896 --> 00:31:50,836
+Quando enviar, executa a auditoria correspondente
+
+703
+00:31:50,836 --> 00:31:53,396
+e crie o arquivo dela dentro da pasta Research.
+
+704
+00:31:54,816 --> 00:31:56,716
+Confirmações rápidas antes de começarmos.
+
+705
+00:31:56,956 --> 00:32:00,456
+Idioma dos arquivos, português, formato, Markdown
+
+706
+00:32:00,456 --> 00:32:02,576
+e vou responder e escrever em português.
+
+707
+00:32:02,676 --> 00:32:03,616
+Pode mandar o primeiro.
+
+708
+00:32:04,016 --> 00:32:06,476
+Está tudo certo, a gente realmente quer que ela crie em Markdown,
+
+709
+00:32:06,636 --> 00:32:10,076
+a gente realmente quer que ela fale em português.
+
+710
+00:32:10,576 --> 00:32:14,016
+Para organizar aqui, eu vou tirar essas descrições daqui,
+
+711
+00:32:14,016 --> 00:32:15,936
+aqui, olha, é porque vocês não têm acesso a elas,
+
+712
+00:32:16,036 --> 00:32:17,996
+né? Então, onde vocês devem estar mais ou menos
+
+713
+00:32:17,996 --> 00:32:19,976
+assim, ó, pesquisa. E aí tem
+
+714
+00:32:19,976 --> 00:32:21,436
+esses três arquivinhos aqui dentro.
+
+715
+00:32:21,696 --> 00:32:23,996
+Então, agora ele vai começar a fazer auditoria pra gente
+
+716
+00:32:23,996 --> 00:32:25,396
+baseado nesses arquivos.
+
+717
+00:32:25,676 --> 00:32:27,896
+Olha o que eu vou fazer agora. Geralmente
+
+718
+00:32:27,896 --> 00:32:29,696
+a gente começa pela auditoria de mercado,
+
+719
+00:32:30,196 --> 00:32:31,776
+porque aí a gente consegue
+
+720
+00:32:31,776 --> 00:32:33,696
+do mercado extrair o público e depois
+
+721
+00:32:33,696 --> 00:32:35,736
+definir o negócio. Beleza?
+
+722
+00:32:35,836 --> 00:32:37,836
+Então, o que eu vou fazer? Vou puxar isso
+
+723
+00:32:37,836 --> 00:32:39,756
+aqui, aqui pro
+
+724
+00:32:39,756 --> 00:32:41,836
+meu chat, e agora eu vou
+
+725
+00:32:41,836 --> 00:32:43,636
+falar. Pode executar.
+
+726
+00:32:45,020 --> 00:32:47,000
+A auditoria de mercado.
+
+727
+00:32:49,884 --> 00:32:52,544
+A gente fez uma auditoria aqui, deixa eu mostrar o arquivo para vocês.
+
+728
+00:32:52,744 --> 00:32:56,464
+Esse aqui é o prompt que vocês receberam aí, dá para ler qual é a instrução.
+
+729
+00:32:56,664 --> 00:32:59,784
+Então, colocou aqui, estrategista de marca conduzindo a auditoria de mercado
+
+730
+00:32:59,784 --> 00:33:01,664
+para tornar a concorrência irrelevante.
+
+731
+00:33:01,924 --> 00:33:05,744
+Mapear o ecossistema, identificar padrões e expor brechas de diferenciação.
+
+732
+00:33:06,064 --> 00:33:10,244
+Inputs necessários, nome do cliente, segmento, região de atuação, site, rede social.
+
+733
+00:33:10,464 --> 00:33:12,824
+Se tiver, ele vai tentar buscar isso.
+
+734
+00:33:13,404 --> 00:33:18,364
+Execute em ordem, primeiro paradigmas, depois benchmark, depois padrões do mercado.
+
+735
+00:33:18,924 --> 00:33:20,524
+Responda a essas perguntas.
+
+736
+00:33:20,564 --> 00:33:22,204
+Então, está tudo prontinho aí para vocês.
+
+737
+00:33:22,744 --> 00:33:26,044
+Análise SWOT, quais são as forças e fraquezas dentro desse mercado?
+
+738
+00:33:26,384 --> 00:33:29,484
+Pontos de paridade e pontos diferenciais e potenciais,
+
+739
+00:33:29,504 --> 00:33:30,684
+separar claramente.
+
+740
+00:33:31,064 --> 00:33:34,344
+O que ele não souber, ele vai perguntando para a gente também, tá?
+
+741
+00:33:34,804 --> 00:33:36,884
+No final, olha só, saída, output,
+
+742
+00:33:37,124 --> 00:33:39,724
+um documento estruturado nas cinco seções acima,
+
+743
+00:33:39,764 --> 00:33:43,824
+mais lista priorizada das três maiores oportunidades de diferenciação.
+
+744
+00:33:44,024 --> 00:33:45,284
+Então, eu estou pedindo a IA,
+
+745
+00:33:45,424 --> 00:33:47,824
+a IA agora vai pesquisar na internet
+
+746
+00:33:48,464 --> 00:33:50,364
+olha só, websearch, tá vendo?
+
+747
+00:33:50,564 --> 00:33:52,424
+websearch, websearch, websearch
+
+748
+00:33:52,424 --> 00:33:54,524
+ela tá pegando aqui vários
+
+749
+00:33:54,524 --> 00:33:56,484
+conceitos, várias ideias
+
+750
+00:33:56,484 --> 00:33:58,864
+vários dados, e ela vai salvar
+
+751
+00:33:58,864 --> 00:34:00,604
+isso em um arquivo dentro da nossa pasta
+
+752
+00:34:01,852 --> 00:34:06,232
+Esse arquivo nós vamos usar depois para construir todos os outros ativos de marca aqui também.
+
+753
+00:34:06,732 --> 00:34:07,172
+Beleza?
+
+754
+00:34:08,412 --> 00:34:09,612
+Então, ela já começou a fazer.
+
+755
+00:34:10,412 --> 00:34:12,892
+Enquanto isso, a gente pode fazer também
+
+756
+00:34:13,332 --> 00:34:17,492
+a nossa auditoria de negócio e de público.
+
+757
+00:34:17,932 --> 00:34:19,112
+Como que a gente faz isso?
+
+758
+00:34:19,232 --> 00:34:21,052
+Eu clico para ele abrir um novo terminal.
+
+759
+00:34:22,460 --> 00:34:24,140
+Beleza? Enquanto ele está trabalhando ali,
+
+760
+00:34:24,300 --> 00:34:26,100
+eu só vou pedir ele para fazer.
+
+761
+00:34:26,920 --> 00:34:28,700
+Basicamente, olha, eu ativo o Cloud aqui,
+
+762
+00:34:28,780 --> 00:34:29,940
+sem dificuldade nenhuma,
+
+763
+00:34:30,140 --> 00:34:33,800
+e eu puxo aqui o prompt e falo,
+
+764
+00:34:33,800 --> 00:34:35,180
+faça auditoria.
+
+765
+00:34:37,020 --> 00:34:37,600
+Negócio.
+
+766
+00:34:39,548 --> 00:34:41,448
+Pronto, ele vai começar a fazer essa.
+
+767
+00:34:43,068 --> 00:34:44,248
+Abro um outro Cloud aqui.
+
+768
+00:34:44,968 --> 00:34:45,468
+Cloud.
+
+769
+00:34:47,164 --> 00:34:51,044
+Puxo para cá, público, faça a auditoria.
+
+770
+00:34:52,220 --> 00:34:54,500
+público. E aí ele vai fazer a auditoria
+
+771
+00:34:54,500 --> 00:34:56,140
+de público pra mim. Basicamente, depois
+
+772
+00:34:56,140 --> 00:34:58,200
+que eu mandei o prompt pra ele, eu usei aqui no
+
+773
+00:34:58,200 --> 00:35:00,120
+Cloud, né? Lembra? Como é que eu fiz
+
+774
+00:35:00,120 --> 00:35:01,660
+abrir isso aqui? Cliquei aqui em cima, ó.
+
+775
+00:35:02,908 --> 00:35:03,628
+Só cliquei lá em cima.
+
+776
+00:35:04,988 --> 00:35:07,728
+Então, ele já gerou para a gente aqui os documentos que a gente precisa.
+
+777
+00:35:08,408 --> 00:35:10,688
+Faltou um que ele está me fazendo perguntas, olha aqui.
+
+778
+00:35:12,412 --> 00:35:14,072
+Quando você responder, eu atualizo.
+
+779
+00:35:14,132 --> 00:35:16,052
+Então, ele está querendo saber mix de receita,
+
+780
+00:35:17,092 --> 00:35:19,872
+dependência operacional e perfil dominante por aluno.
+
+781
+00:35:20,072 --> 00:35:21,592
+Se eu não sei responder isso, Juan,
+
+782
+00:35:21,652 --> 00:35:23,572
+você pode falar com ele, eu não sei te responder isso agora.
+
+783
+00:35:24,192 --> 00:35:25,192
+Inclusive, eu vou fazer isso, olha.
+
+784
+00:35:25,512 --> 00:35:28,752
+Não sei te responder isso agora.
+
+785
+00:35:31,036 --> 00:35:31,876
+Foque no seguinte.
+
+786
+00:35:32,576 --> 00:35:34,536
+Vou pegar a minha descrição.
+
+787
+00:35:34,636 --> 00:35:36,736
+Vocês vão criar a descrição de vocês, lembra?
+
+788
+00:35:37,156 --> 00:35:39,016
+Vocês vão criar a descrição de vocês aí.
+
+789
+00:35:39,056 --> 00:35:40,616
+Eu criei a minha descrição da Overlence aqui.
+
+790
+00:35:41,076 --> 00:35:42,196
+Vou só puxar ela.
+
+791
+00:35:42,976 --> 00:35:44,516
+Estou construindo uma plataforma.
+
+792
+00:35:47,228 --> 00:35:48,188
+Só vou copiar isso aqui.
+
+793
+00:35:48,648 --> 00:35:50,468
+Vocês têm aí o escrito de vocês.
+
+794
+00:35:51,108 --> 00:35:52,428
+E vou colar aqui agora.
+
+795
+00:35:55,164 --> 00:35:57,524
+É só uma explicação aqui do meu negócio.
+
+796
+00:35:57,884 --> 00:36:01,124
+Se ele perguntar, vocês explicam para ele o que é o negócio e vai fluir bem.
+
+797
+00:36:01,344 --> 00:36:01,664
+Beleza?
+
+798
+00:36:01,824 --> 00:36:02,844
+Então, a gente tem aqui...
+
+799
+00:36:02,844 --> 00:36:05,044
+Lembra desse documento que eu falei que tem tudo aqui?
+
+800
+00:36:05,224 --> 00:36:05,944
+O que eu vou fazer?
+
+801
+00:36:05,964 --> 00:36:06,284
+Olha só.
+
+802
+00:36:06,744 --> 00:36:08,024
+Eu vou baixar isso aqui.
+
+803
+00:36:08,184 --> 00:36:09,364
+Vocês não vão precisar fazer isso, tá?
+
+804
+00:36:09,484 --> 00:36:10,244
+Mas olha que legal.
+
+805
+00:36:10,364 --> 00:36:13,164
+Eu vou transformar isso tudo em prompt de uma vez só usando o Cloud para vocês.
+
+806
+00:36:13,484 --> 00:36:15,064
+Eu vou pedir para ele baixar isso aqui.
+
+807
+00:36:15,404 --> 00:36:17,324
+Pode ser tanto em Markdown quanto TXT.
+
+808
+00:36:17,544 --> 00:36:20,364
+Eu acho que o TXT vai baixar mais rápido,
+
+809
+00:36:20,704 --> 00:36:22,224
+porque ele não vai ter que fazer inserção.
+
+810
+00:36:22,684 --> 00:36:24,044
+Então, deixa ele baixar aqui para mim.
+
+811
+00:36:24,044 --> 00:36:26,404
+ele vai baixar todos os
+
+812
+00:36:26,404 --> 00:36:28,524
+todos os documentos aqui
+
+813
+00:36:30,844 --> 00:36:32,104
+Um TXT gigante.
+
+814
+00:36:33,624 --> 00:36:35,764
+O dock faz isso, às vezes ele demora.
+
+815
+00:36:35,844 --> 00:36:36,544
+Abaixou, pronto.
+
+816
+00:36:37,004 --> 00:36:40,364
+Agora eu vou pegar esse TXT aqui e vou colar na pasta.
+
+817
+00:36:40,884 --> 00:36:43,184
+Reforço, presta atenção em mim, e reforço.
+
+818
+00:36:43,264 --> 00:36:44,584
+Vocês não vão precisar fazer isso aqui.
+
+819
+00:36:44,924 --> 00:36:47,404
+Eu estou fazendo porque agora eu vou dar um...
+
+820
+00:36:47,404 --> 00:36:50,044
+Vou pegar um atalho aqui para a gente conseguir, tá?
+
+821
+00:36:50,104 --> 00:36:51,824
+Dar conta de fazer tudo em tempo.
+
+822
+00:36:51,924 --> 00:36:54,584
+Por conta do tempo que a gente investiu aqui agora é para acalmar vocês.
+
+823
+00:36:54,984 --> 00:36:57,384
+Então eu vou vir aqui em Research e vou colar esse TXT.
+
+824
+00:36:57,384 --> 00:37:02,264
+Agora eu vou voltar aqui para o anti-gravity e olha que legal o que eu vou fazer.
+
+825
+00:37:02,404 --> 00:37:07,684
+Eu vou inclusive fechar tudo para vocês se sentirem mais em paz aqui com a tela limpa.
+
+826
+00:37:08,064 --> 00:37:09,084
+Vou até abrir.
+
+827
+00:37:10,428 --> 00:37:13,748
+Uma coisa que a gente faz aqui na Overlens, que outros lugares as pessoas não fazem,
+
+828
+00:37:13,908 --> 00:37:16,748
+é justamente não subestimar a inteligência de vocês.
+
+829
+00:37:16,868 --> 00:37:19,448
+Eu sei que vocês conseguem, só que tem uma barreira para ser quebrada.
+
+830
+00:37:19,788 --> 00:37:21,988
+Porém, isso aqui coloca vocês no 1%.
+
+831
+00:37:21,988 --> 00:37:26,368
+As pessoas que realmente estão usando IA num nível que é inalcançável
+
+832
+00:37:26,368 --> 00:37:28,208
+para todas as outras pessoas que não fazem assim.
+
+833
+00:37:28,728 --> 00:37:29,088
+Beleza?
+
+834
+00:37:29,228 --> 00:37:30,448
+Então, eu vou entrar no Cloud aqui.
+
+835
+00:37:30,728 --> 00:37:31,088
+Entrei.
+
+836
+00:37:31,388 --> 00:37:32,728
+Olha o que eu vou fazer aqui agora.
+
+837
+00:37:33,128 --> 00:37:34,908
+Eu vou puxar o TXT para cá.
+
+838
+00:37:35,548 --> 00:37:37,088
+Simplesmente pegar o TXT e puxar.
+
+839
+00:37:37,088 --> 00:37:40,728
+E eu vou criar uma pastinha aqui fora chamada prompts.
+
+840
+00:37:42,620 --> 00:37:43,420
+O que eu vou fazer agora?
+
+841
+00:37:43,780 --> 00:37:45,260
+Eu vou falar para o Claude assim, olha.
+
+842
+00:37:46,120 --> 00:37:47,940
+Preciso que você separe...
+
+843
+00:37:49,276 --> 00:37:52,756
+um prompt para cada página do txt.
+
+844
+00:37:53,016 --> 00:37:55,456
+Ele já salvou o txt ali quebrando as páginas,
+
+845
+00:37:55,476 --> 00:37:57,236
+na verdade eu acho que eu vou ter até que fazer diferente.
+
+846
+00:37:59,292 --> 00:38:00,332
+Eu vou pegar em Markdown.
+
+847
+00:38:01,172 --> 00:38:02,372
+Deixa eu ver como que tá o TXT.
+
+848
+00:38:02,572 --> 00:38:03,872
+Deixa eu ver como que ele organizou.
+
+849
+00:38:09,308 --> 00:38:10,968
+Nossa, ele ficou ruim aqui.
+
+850
+00:38:11,028 --> 00:38:11,988
+Vai ter que ser Markdown mesmo.
+
+851
+00:38:12,268 --> 00:38:14,228
+O Markdown a IA consegue ler melhor.
+
+852
+00:38:14,308 --> 00:38:15,248
+Por isso que eu vou usar ele.
+
+853
+00:38:15,688 --> 00:38:17,388
+Que eu vou clicar aqui em baixar.
+
+854
+00:38:18,088 --> 00:38:19,468
+Markdown. Demora um pouquinho mais.
+
+855
+00:38:20,048 --> 00:38:21,208
+Nem é tanto assim também.
+
+856
+00:38:21,908 --> 00:38:25,288
+Mas ele é mais interessante aqui para o que a gente vai fazer.
+
+857
+00:38:25,968 --> 00:38:27,308
+Porque o que o Markdown faz?
+
+858
+00:38:27,428 --> 00:38:31,748
+Ele salva cada arquivo desse como uma única página.
+
+859
+00:38:32,088 --> 00:38:34,308
+Então a gente ganha velocidade aqui na hora de criar.
+
+860
+00:38:35,048 --> 00:38:36,508
+Demorou um pouquinho, mas nem foi tanto.
+
+861
+00:38:36,668 --> 00:38:37,428
+Já baixou.
+
+862
+00:38:38,780 --> 00:38:40,960
+Aí eu copio aqui o Markdown, vou colar lá na pasta.
+
+863
+00:38:43,484 --> 00:38:46,024
+Eu vou colar até na pasta prompts aqui, ó, pra ficar mais fácil.
+
+864
+00:38:46,404 --> 00:38:46,724
+Prontinho.
+
+865
+00:38:47,524 --> 00:38:48,624
+Tá, agora eu vou...
+
+866
+00:38:50,300 --> 00:38:52,440
+Só tirar essa parte aqui do TXT.
+
+867
+00:38:54,556 --> 00:38:58,276
+Preciso que você separe um prompt para cada página do TXT.
+
+868
+00:38:59,976 --> 00:39:03,156
+Cada prompt em um arquivo único.
+
+869
+00:39:03,476 --> 00:39:05,516
+Eu vou falar para ele o quê aqui? O que eu quero fazer?
+
+870
+00:39:05,676 --> 00:39:08,756
+Eu quero que ele quebre toda aquela metodologia em todos os prompts.
+
+871
+00:39:08,916 --> 00:39:11,476
+Eu já vou entregar todos os prompts para vocês de uma vez aqui.
+
+872
+00:39:11,876 --> 00:39:13,556
+Só que eu vou fazer isso no modo turbo.
+
+873
+00:39:13,776 --> 00:39:14,876
+Olha o que eu vou fazer aqui agora.
+
+874
+00:39:17,192 --> 00:39:19,032
+Preciso, isso aqui é avançado, tá?
+
+875
+00:39:19,152 --> 00:39:21,032
+Vocês não precisam fazer isso agora não, mas eu quero que vocês vejam.
+
+876
+00:39:21,832 --> 00:39:23,412
+Preciso que você trabalhe...
+
+877
+00:39:24,668 --> 00:39:29,148
+Trabalhe em paralelização com múltiplos agentes.
+
+878
+00:39:29,408 --> 00:39:31,808
+Um agente para cada página.
+
+879
+00:39:33,228 --> 00:39:40,708
+Totalizando, vou pegar aqui, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17.
+
+880
+00:39:41,688 --> 00:39:43,368
+Totalizando 17 agentes.
+
+881
+00:39:43,668 --> 00:39:50,088
+Cada um cria um prompt de cada uma das etapas.
+
+882
+00:39:50,408 --> 00:39:53,148
+Eu vou fazer algo ainda melhor aqui que vocês vão gostar muito, tá?
+
+883
+00:39:53,148 --> 00:39:54,608
+Vou fazer um negócio louco aqui.
+
+884
+00:39:54,888 --> 00:39:56,848
+Eu não vou pedir para ele economizar nos tokens,
+
+885
+00:39:57,028 --> 00:39:58,748
+mas, calma, eu quero que economize.
+
+886
+00:39:58,828 --> 00:40:00,008
+Não, eu vou entregar um prompt.
+
+887
+00:40:01,788 --> 00:40:04,308
+Um prompt brabo, digamos assim.
+
+888
+00:40:04,428 --> 00:40:05,908
+Vocês vão poder estudar ele depois
+
+889
+00:40:05,908 --> 00:40:08,508
+e construir cada etapa dessa com calma na casa de vocês
+
+890
+00:40:08,508 --> 00:40:12,068
+ou participando da mentoria da vanguarda,
+
+891
+00:40:12,068 --> 00:40:13,388
+participando do Overpass,
+
+892
+00:40:13,668 --> 00:40:15,208
+onde vocês vão poder aprender, assistir,
+
+893
+00:40:15,608 --> 00:40:17,568
+eu tirando suas dúvidas,
+
+894
+00:40:17,568 --> 00:40:19,188
+ter encontros semanais.
+
+895
+00:40:19,288 --> 00:40:20,448
+Aí você vai poder ir com calma.
+
+896
+00:40:20,448 --> 00:40:22,548
+Mas eu vou te entregar já o melhor aqui também.
+
+897
+00:40:22,728 --> 00:40:23,168
+Beleza?
+
+898
+00:40:23,308 --> 00:40:24,328
+Então eu vou falar para ele o seguinte.
+
+899
+00:40:24,508 --> 00:40:25,068
+Crie prompts.
+
+900
+00:40:26,588 --> 00:40:27,768
+Avançado seguindo.
+
+901
+00:40:29,052 --> 00:40:30,272
+Melhores práticas.
+
+902
+00:40:31,512 --> 00:40:32,832
+Baseado nas informações...
+
+903
+00:40:32,832 --> 00:40:34,392
+Ah, não. Aqui, ó. Antes de criar o prompt...
+
+904
+00:40:34,732 --> 00:40:36,072
+Deixa eu ver totalizando...
+
+905
+00:40:37,724 --> 00:40:39,204
+Vamos seguir em etapa, vou fazer aqui, ó.
+
+906
+00:40:39,424 --> 00:40:40,124
+Vamos seguir em...
+
+907
+00:40:41,884 --> 00:40:46,624
+Primeiro, separe cada documento, cada etapa.
+
+908
+00:40:47,804 --> 00:40:49,984
+do documento em um arquivo
+
+909
+00:40:49,984 --> 00:40:51,704
+Markdown, um
+
+910
+00:40:51,704 --> 00:40:53,744
+para cada, totalizando
+
+911
+00:40:53,744 --> 00:40:54,124
+17.
+
+912
+00:40:55,708 --> 00:40:59,408
+2. Após fazer isso, cada agente vai...
+
+913
+00:41:02,024 --> 00:41:03,224
+criar um prompt
+
+914
+00:41:04,004 --> 00:41:04,404
+profissional
+
+915
+00:41:05,724 --> 00:41:07,404
+baseado na documentação
+
+916
+00:41:08,064 --> 00:41:08,864
+em que está
+
+917
+00:41:09,704 --> 00:41:10,904
+trabalhando. Basicamente aqui eu estou
+
+918
+00:41:11,804 --> 00:41:13,244
+orquestrando múltiplos agentes, vocês vão ver
+
+919
+00:41:13,244 --> 00:41:15,324
+que loucura que vai acontecer aqui agora. Isso aqui gasta
+
+920
+00:41:15,324 --> 00:41:17,144
+token, mas eu tenho muito token aqui
+
+921
+00:41:17,144 --> 00:41:17,784
+e vai dar de boa.
+
+922
+00:41:19,100 --> 00:41:23,300
+Vou falar para ele o seguinte, você não executa, você delega.
+
+923
+00:41:24,400 --> 00:41:26,880
+Preserve sua janela de contexto.
+
+924
+00:41:27,360 --> 00:41:28,440
+O que vai acontecer aqui agora?
+
+925
+00:41:28,760 --> 00:41:30,340
+Agora o bicho vai pegar aqui.
+
+926
+00:41:30,980 --> 00:41:34,800
+Eu tenho um Cloud Hey, só para vocês visualizarem aqui o que aconteceu.
+
+927
+00:41:35,240 --> 00:41:36,980
+Isso aqui é um pouco mais avançado, mas é legal.
+
+928
+00:41:37,060 --> 00:41:38,580
+E vocês vão poder fazer isso também.
+
+929
+00:41:38,880 --> 00:41:40,400
+Então eu tenho um Cloudzinho aqui.
+
+930
+00:41:41,756 --> 00:41:43,936
+Vou aumentar aqui a espessura enquanto ele está trabalhando lá.
+
+931
+00:41:45,500 --> 00:41:47,800
+Eu tenho um cloudezinho aqui, coloco ele bonitinho aí.
+
+932
+00:41:48,500 --> 00:41:50,920
+E esse cloudezinho aqui, ele é o líder.
+
+933
+00:41:51,460 --> 00:41:55,740
+E aí ele vai chamar 17 deles, 17 outros cloudes.
+
+934
+00:41:55,740 --> 00:41:56,260
+Então pensa aí, ó.
+
+935
+00:41:56,900 --> 00:42:00,440
+4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17.
+
+936
+00:42:00,900 --> 00:42:02,820
+Ele vai chamar 17 cloudes aqui.
+
+937
+00:42:04,380 --> 00:42:05,880
+E cada um desses aqui...
+
+938
+00:42:07,068 --> 00:42:08,268
+vai trabalhar em um prompt.
+
+939
+00:42:10,012 --> 00:42:11,172
+Tudo isso ao mesmo tempo, tá?
+
+940
+00:42:11,312 --> 00:42:12,692
+Eu vou mostrar ali para vocês acontecendo.
+
+941
+00:42:13,232 --> 00:42:15,272
+Cada um vai trabalhar no seu próprio prompt.
+
+942
+00:42:15,512 --> 00:42:17,532
+E aí isso preserva a janela de contexto
+
+943
+00:42:17,532 --> 00:42:19,572
+e eles conseguem trabalhar com foco total.
+
+944
+00:42:20,032 --> 00:42:21,032
+Olha o que está acontecendo.
+
+945
+00:42:21,252 --> 00:42:22,732
+Primeiro ele está pesquisando o padrão,
+
+946
+00:42:22,852 --> 00:42:25,012
+aí ele vai entender o documento,
+
+947
+00:42:25,012 --> 00:42:26,472
+eu mandei o link do documento para ele,
+
+948
+00:42:26,532 --> 00:42:28,832
+e depois que ele entender esse documento,
+
+949
+00:42:28,832 --> 00:42:30,252
+aí ele vai começar a delegar.
+
+950
+00:42:30,312 --> 00:42:31,652
+Vocês vão ver ele delegando aqui.
+
+951
+00:42:31,752 --> 00:42:34,312
+Ele vai falar agente 1 ativado, agente 2 ativado,
+
+952
+00:42:34,372 --> 00:42:36,492
+agente 3 ativado, agente 4 ativado,
+
+953
+00:42:36,552 --> 00:42:37,952
+agente 5 ativado, e vai.
+
+954
+00:42:39,804 --> 00:42:41,164
+Vocês vão ver, o negócio vai ficar louco aqui.
+
+955
+00:42:41,904 --> 00:42:43,524
+Juan, são os sub-agents, né?
+
+956
+00:42:43,884 --> 00:42:45,324
+Galera, assistam as aulas dele.
+
+957
+00:42:45,484 --> 00:42:47,304
+Eu não sabia nada até ontem.
+
+958
+00:42:47,304 --> 00:42:48,584
+Hoje estou sabendo 5%.
+
+959
+00:42:49,504 --> 00:42:50,804
+Boa, isso aí, muito bom.
+
+960
+00:42:51,324 --> 00:42:53,804
+Juan está extraindo os prompts dos arquivos dele.
+
+961
+00:42:53,944 --> 00:42:54,244
+Isso.
+
+962
+00:42:54,704 --> 00:42:56,244
+Aqui, galera, vocês não precisam fazer nada.
+
+963
+00:42:56,644 --> 00:42:59,404
+Eu estou hackeando aqui o nosso tempo, né?
+
+964
+00:42:59,404 --> 00:43:02,264
+Digamos assim, eu estou pegando um atalho
+
+965
+00:43:02,264 --> 00:43:04,424
+para dar tempo de a gente fazer tudo, beleza?
+
+966
+00:43:04,984 --> 00:43:06,524
+Porque aí eu vou entregar para vocês,
+
+967
+00:43:06,604 --> 00:43:09,024
+vocês vão poder fazer essa etapa com calma depois.
+
+968
+00:43:09,804 --> 00:43:11,384
+mas eu vou explicar como que faz.
+
+969
+00:43:12,084 --> 00:43:15,024
+Aí vocês vão se sentir aqui tranquilinhos,
+
+970
+00:43:15,104 --> 00:43:17,364
+a gente vai conseguir avançar e as coisas vão dar certo.
+
+971
+00:43:18,748 --> 00:43:19,048
+Então, beleza.
+
+972
+00:43:19,508 --> 00:43:21,888
+Ó, encontrei uma discrepância importante.
+
+973
+00:43:22,008 --> 00:43:24,488
+O documento tem 28 etapas distintas, não 17.
+
+974
+00:43:24,928 --> 00:43:26,888
+Cada uma com seu próprio bloco de hash.
+
+975
+00:43:27,688 --> 00:43:31,108
+Vou prosseguir baseado no que o documento contém.
+
+976
+00:43:31,148 --> 00:43:32,888
+E te aviso no final.
+
+977
+00:43:33,588 --> 00:43:37,408
+Iniciando a etapa 1, vou delegar a um agente a tarefa de ler o arquivo grande
+
+978
+00:43:37,408 --> 00:43:39,608
+e dividir o arquivo em markdown individuais.
+
+979
+00:43:39,788 --> 00:43:41,648
+Assim, preservo minha janela de contexto.
+
+980
+00:43:42,048 --> 00:43:44,808
+Então, agora ele pediu aqui, ó, o agente está trabalhando.
+
+981
+00:43:44,948 --> 00:43:47,728
+Ele pediu para um agente ler o documento inteiro para ele.
+
+982
+00:43:47,728 --> 00:43:49,148
+então o líder aqui
+
+983
+00:43:49,148 --> 00:43:51,048
+para vocês entenderem
+
+984
+00:43:51,048 --> 00:43:53,808
+o líder aqui, vou colocar de outra cor
+
+985
+00:43:54,408 --> 00:43:55,788
+ele pegou um deles aqui
+
+986
+00:43:55,788 --> 00:43:56,448
+e falou para eles assim
+
+987
+00:43:57,208 --> 00:43:59,808
+você aqui, lê o documento
+
+988
+00:43:59,808 --> 00:44:01,568
+todo aí para a gente, aí esse cara
+
+989
+00:44:01,568 --> 00:44:02,788
+aqui vai ler o documento todo
+
+990
+00:44:03,288 --> 00:44:05,288
+e vai trazer para ele a definição
+
+991
+00:44:06,460 --> 00:44:08,580
+colocar de outra cor, vai trazer para ele a definição, vai falar aqui,
+
+992
+00:44:08,640 --> 00:44:13,000
+tudo certo, tudo lido aqui, agora a gente pode avançar.
+
+993
+00:44:13,060 --> 00:44:14,880
+Então deixa ele ler aqui o documento para a gente.
+
+994
+00:44:16,188 --> 00:44:17,668
+Enquanto isso, a gente...
+
+995
+00:44:19,676 --> 00:44:20,996
+A gente pode ir conversando aqui.
+
+996
+00:44:21,696 --> 00:44:23,516
+Então deixa ele ler o documento todo aqui.
+
+997
+00:44:23,876 --> 00:44:27,036
+Leva um tempinho, provavelmente vai levar uns 5 minutos para ler.
+
+998
+00:44:27,076 --> 00:44:28,136
+Aqui embaixo a gente consegue ver.
+
+999
+00:44:28,296 --> 00:44:30,676
+Ele gastou 10 mil tokens nessa parte.
+
+1000
+00:44:30,736 --> 00:44:32,696
+Ele já gastou muito mais aqui em outras partes também.
+
+1001
+00:44:36,092 --> 00:44:37,052
+Deixei ele carregando aqui.
+
+1002
+00:44:37,172 --> 00:44:38,152
+Enquanto isso, vocês vão vendo.
+
+1003
+00:44:38,272 --> 00:44:39,952
+A Juliana falou muito maneiro.
+
+1004
+00:44:41,276 --> 00:44:43,116
+Viram? Até a IA tem chefão, tá vendo?
+
+1005
+00:44:43,856 --> 00:44:45,976
+Caraca, o bicho conversando, que bonitinho.
+
+1006
+00:44:46,036 --> 00:44:46,916
+É, vocês não têm ideia.
+
+1007
+00:44:47,456 --> 00:44:50,036
+Trabalhar com IA, na verdade, exige que sejamos gestores.
+
+1008
+00:44:50,036 --> 00:44:50,456
+É isso aí.
+
+1009
+00:44:50,856 --> 00:44:53,296
+Pior que eu gostei desse rascunho de robozinho do Juan.
+
+1010
+00:44:55,004 --> 00:44:56,024
+Boa, adorei, muito legal.
+
+1011
+00:44:56,144 --> 00:44:58,204
+Como que faz para visualizar quantos tokens eu tenho?
+
+1012
+00:44:58,424 --> 00:45:00,304
+Você pode digitar barra, aqui, ó.
+
+1013
+00:45:00,384 --> 00:45:01,264
+Agora ele está aqui, ó.
+
+1014
+00:45:01,284 --> 00:45:03,664
+Aqui embaixo, isso aqui é um recurso novo, chama Agent View.
+
+1015
+00:45:04,104 --> 00:45:06,544
+Você consegue entrar na conversa do outro agente.
+
+1016
+00:45:06,544 --> 00:45:07,524
+Ele está trabalhando aqui, ó.
+
+1017
+00:45:07,664 --> 00:45:09,364
+Então eu tenho o main, está vendo aqui embaixo?
+
+1018
+00:45:09,524 --> 00:45:09,704
+Main.
+
+1019
+00:45:09,904 --> 00:45:11,324
+Main é o principal, é o chefão.
+
+1020
+00:45:11,604 --> 00:45:13,544
+Se eu dou Enter, eu vejo a conversa do chefão.
+
+1021
+00:45:13,864 --> 00:45:16,764
+Agora eu tenho aqui o General Purpose, para uso geral.
+
+1022
+00:45:16,964 --> 00:45:20,004
+É um agente de uso geral, que pesquisou ali o arquivo.
+
+1023
+00:45:20,004 --> 00:45:21,384
+Ele terminou, ficou verdinho, pronto.
+
+1024
+00:45:21,784 --> 00:45:24,664
+Ele já pesquisou o arquivo, gastou 60 mil tokens,
+
+1025
+00:45:24,664 --> 00:45:26,084
+levou dois minutos para ele fazer.
+
+1026
+00:45:26,644 --> 00:45:29,424
+Agora que vai começar a delegar para um monte de agentes.
+
+1027
+00:45:29,824 --> 00:45:31,164
+Vocês vão ver acontecendo aqui.
+
+1028
+00:45:31,264 --> 00:45:33,224
+Depois que ele terminar, ele vai começar a delegar.
+
+1029
+00:45:34,460 --> 00:45:36,240
+O negócio vai ficar intenso aqui, ó.
+
+1030
+00:45:36,580 --> 00:45:39,200
+Etapa 1 concluída, 28 arquivos criados.
+
+1031
+00:45:39,340 --> 00:45:41,940
+Agora vou disparar 28 agentes em paralelo.
+
+1032
+00:45:41,960 --> 00:45:45,320
+28, eu falei 17, ele vai fazer 28 aqui para vocês.
+
+1033
+00:45:45,860 --> 00:45:47,760
+Para gerar os prompts profissionais.
+
+1034
+00:45:47,800 --> 00:45:51,160
+Cada agente lê seu arquivo, analisa a metodologia documentada
+
+1035
+00:45:51,160 --> 00:45:52,560
+e produz um prompt operacional.
+
+1036
+00:45:52,740 --> 00:45:55,520
+Cada agente vai produzir um prompt de uma etapa, tá?
+
+1037
+00:45:56,160 --> 00:45:58,000
+Então agora ele vai começar a acionar, ó.
+
+1038
+00:45:58,060 --> 00:45:58,640
+Acionou 1.
+
+1039
+00:46:00,156 --> 00:46:01,256
+Beleza? Ó, um tá adicionado.
+
+1040
+00:46:01,256 --> 00:46:03,476
+Esse aqui tá cuidando da auditoria de mercado, tá vendo aqui embaixo?
+
+1041
+00:46:04,096 --> 00:46:05,476
+Aí ele vai adicionar outro, ó.
+
+1042
+00:46:05,996 --> 00:46:07,896
+Acionou dois, cuidando da auditoria de público.
+
+1043
+00:46:09,724 --> 00:46:11,124
+Isso aqui torra token, tá?
+
+1044
+00:46:11,204 --> 00:46:14,024
+Se você não tem token, isso aqui vai torrar seus tokens.
+
+1045
+00:46:14,124 --> 00:46:14,804
+Tem que tomar cuidado.
+
+1046
+00:46:15,084 --> 00:46:17,664
+Aqui, acionou o Auditoria de Negócio.
+
+1047
+00:46:19,868 --> 00:46:21,588
+acionou o benchmarking, cada um
+
+1048
+00:46:21,588 --> 00:46:23,448
+desse vai ser um prompt, hein? Pra vocês
+
+1049
+00:46:23,448 --> 00:46:25,508
+verem o poder. Como é que você compete com
+
+1050
+00:46:25,508 --> 00:46:26,868
+alguém que trabalha nesse nível aqui?
+
+1051
+00:46:27,268 --> 00:46:28,948
+E eu monto é tudo assim, tá, galera?
+
+1052
+00:46:29,428 --> 00:46:31,468
+Outro dia uma cliente minha pediu cartão de visita.
+
+1053
+00:46:31,688 --> 00:46:33,448
+Eu não vou abrir Illustrator pra fazer
+
+1054
+00:46:33,448 --> 00:46:35,328
+o cartão de visitas. Eu pedi o Cloud
+
+1055
+00:46:35,328 --> 00:46:37,508
+pra fazer. E aí ela me mandou uma tabelinha
+
+1056
+00:46:37,508 --> 00:46:39,488
+com o nome de todos os clientes, né? Nome,
+
+1057
+00:46:39,548 --> 00:46:41,608
+e-mail, telefone, de todos os colaboradores
+
+1058
+00:46:41,608 --> 00:46:43,448
+pra criar o arquivo de cartão
+
+1059
+00:46:43,448 --> 00:46:45,528
+de todos. Eu só joguei a tabela no Cloud e falei
+
+1060
+00:46:45,528 --> 00:46:47,828
+cria o PDF pronto pra gráfica
+
+1061
+00:46:47,828 --> 00:46:49,348
+já pra mim. Ele criou tudo, mandei pra ela,
+
+1062
+00:46:49,348 --> 00:46:50,988
+deu tudo certo. Então aqui, ó, já
+
+1063
+00:46:51,468 --> 00:46:52,548
+acionou vários, ó. Tem um,
+
+1064
+00:46:53,508 --> 00:46:55,068
+dois, três, quatro, cinco, seis,
+
+1065
+00:46:55,448 --> 00:46:57,308
+sete. E tem uns que já estão acabando
+
+1066
+00:46:57,308 --> 00:46:59,248
+e entregando, ó. Tem uns que estão
+
+1067
+00:46:59,248 --> 00:47:00,988
+acabando e entregando. E ele tá acionando mais.
+
+1068
+00:47:01,928 --> 00:47:03,408
+Então o negócio do bicho tá pegando
+
+1069
+00:47:03,408 --> 00:47:05,348
+aqui, ó. Então o que eu vou fazer aqui com ele agora?
+
+1070
+00:47:05,948 --> 00:47:06,628
+Que ele deu erro?
+
+1071
+00:47:07,964 --> 00:47:09,224
+Eu vou só falar pra ele o seguinte, ó,
+
+1072
+00:47:09,524 --> 00:47:09,804
+Cloud...
+
+1073
+00:47:11,132 --> 00:47:11,652
+Vamos lá para ele, olha.
+
+1074
+00:47:13,612 --> 00:47:20,332
+Precisamos criar um prompt para cada um dos arquivos disponíveis nesta pasta.
+
+1075
+00:47:20,752 --> 00:47:23,172
+Então ele já criou os arquivos aqui, é só eu puxar ele para cá.
+
+1076
+00:47:23,952 --> 00:47:24,892
+Opa, ele colou aqui.
+
+1077
+00:47:25,052 --> 00:47:26,912
+Deixa eu tirar para ele aqui para facilitar.
+
+1078
+00:47:29,692 --> 00:47:34,732
+Coloque agentes em paralelização para criarem estes próprios.
+
+1079
+00:47:37,660 --> 00:47:40,080
+Beleza, vamos ver se agora ele vai funcionar
+
+1080
+00:47:40,080 --> 00:47:41,480
+ou se ele vai dar erro de API de novo.
+
+1081
+00:47:45,796 --> 00:47:47,616
+nossa, olha aí, tá dando erro de API
+
+1082
+00:47:47,616 --> 00:47:49,056
+agora, API
+
+1083
+00:47:49,576 --> 00:47:51,656
+erro 500, vou ter que resolver
+
+1084
+00:47:51,656 --> 00:47:53,476
+esse aqui, ó, esse
+
+1085
+00:47:53,476 --> 00:47:55,476
+servidor está temporariamente
+
+1086
+00:47:56,856 --> 00:47:57,916
+ousado, espera um momento
+
+1087
+00:47:57,916 --> 00:47:59,396
+se persistir, cheque aqui
+
+1088
+00:47:59,396 --> 00:48:01,456
+vamos ver, pode ser algum problema com o servidor do
+
+1089
+00:48:01,456 --> 00:48:03,636
+Cloud também, não sei se é porque
+
+1090
+00:48:03,636 --> 00:48:05,396
+eu rodei muita requisição pra ele aqui
+
+1091
+00:48:05,396 --> 00:48:06,756
+mas deixa eu mostrar pra vocês, ó
+
+1092
+00:48:06,756 --> 00:48:09,236
+você roda essa pagininha aqui, você consegue ver, ó
+
+1093
+00:48:09,236 --> 00:48:10,936
+tem alguns que não tá funcionando, tá vendo?
+
+1094
+00:48:12,412 --> 00:48:13,832
+Se acontece isso aqui, o que eu faço?
+
+1095
+00:48:14,032 --> 00:48:14,792
+Porque eu não sou bobo.
+
+1096
+00:48:15,332 --> 00:48:18,832
+Como eu estou no modo hard aqui, não está funcionando o cloud,
+
+1097
+00:48:19,652 --> 00:48:21,972
+então eu vou usar outro, vou usar o Gemini aqui, vamos lá.
+
+1098
+00:48:23,612 --> 00:48:25,392
+Se um não funciona, a gente vai para o outro.
+
+1099
+00:48:25,532 --> 00:48:27,932
+Gemini também vai funcionar muito bem para essa tarefa aqui.
+
+1100
+00:48:28,192 --> 00:48:30,032
+A gente espera para ver se ele volta depois,
+
+1101
+00:48:30,672 --> 00:48:32,012
+porque eu quero avançar com vocês.
+
+1102
+00:48:32,412 --> 00:48:33,972
+Então, carregou ele aqui, o que eu vou fazer?
+
+1103
+00:48:35,964 --> 00:48:38,784
+O lance só, vamos testar?
+
+1104
+00:48:39,144 --> 00:48:45,184
+Preciso que você crie um prompt para cada arquivo desta pasta.
+
+1105
+00:48:46,684 --> 00:48:50,544
+Rode agentes em paralelização para não consumir.
+
+1106
+00:48:51,836 --> 00:48:53,076
+Isso é janela de contexto.
+
+1107
+00:48:53,316 --> 00:48:55,656
+Isso aqui, no Cloud, eu sei que funciona muito bem,
+
+1108
+00:48:55,696 --> 00:48:56,836
+no Codex também dá.
+
+1109
+00:48:56,936 --> 00:49:01,016
+Se não der no Gemini, a gente vai lá para o Codex.
+
+1110
+00:49:01,216 --> 00:49:03,736
+Mas eu nunca experimentei, curiosamente, para trazer para vocês,
+
+1111
+00:49:03,816 --> 00:49:06,136
+eu nunca experimentei paralelização no Gemini.
+
+1112
+00:49:06,256 --> 00:49:06,976
+Foi a primeira vez.
+
+1113
+00:49:07,056 --> 00:49:08,376
+Vamos ver se ele vai dar conta aqui do processo.
+
+1114
+00:49:10,236 --> 00:49:12,636
+Então deixa eu rodar aqui, vou rodar aqui o Gemini 3 Flash.
+
+1115
+00:49:13,616 --> 00:49:16,596
+Ele começou a trabalhar aqui de duas uma,
+
+1116
+00:49:16,676 --> 00:49:19,196
+ou ele vai fazer um por um, ou ele vai paralelizar.
+
+1117
+00:49:19,636 --> 00:49:22,856
+Só que aqui, sub-agents, geração usando sub-agents.
+
+1118
+00:49:23,256 --> 00:49:24,596
+Aparentemente ele vai paralelizar.
+
+1119
+00:49:26,460 --> 00:49:29,520
+Pensando aqui, leu a pasta, leu o arquivo.
+
+1120
+00:49:33,596 --> 00:49:34,396
+Pensando, pensando.
+
+1121
+00:49:37,788 --> 00:49:41,188
+Gostou dessa margem? Paralelização para não consumir sua janela de contexto?
+
+1122
+00:49:43,772 --> 00:49:48,052
+Então ele trouxe aqui, não distribui cópias, ele foi disponibilizado para uso pessoal,
+
+1123
+00:49:48,332 --> 00:49:51,352
+a revelação da nova identidade de marca é uma oportunidade emocional.
+
+1124
+00:49:51,392 --> 00:49:53,032
+Beleza, ele está começando a ler os arquivos aqui.
+
+1125
+00:49:54,556 --> 00:49:59,296
+Analisando a estrutura de arquivos, otimizando a execução de tarefas, pensando...
+
+1126
+00:50:01,180 --> 00:50:02,300
+Ó, começou a colocar, ó.
+
+1127
+00:50:02,760 --> 00:50:03,940
+Quatro agentes rodando.
+
+1128
+00:50:04,380 --> 00:50:07,600
+É, funcionou aí. Funcionou no Gemini também.
+
+1129
+00:50:08,360 --> 00:50:10,580
+Por enquanto, fiquei na paz aqui, enquanto...
+
+1130
+00:50:11,900 --> 00:50:14,480
+Enquanto a gente espera o Cloud voltar com o servidor dele.
+
+1131
+00:50:15,804 --> 00:50:17,124
+A gente consegue fazer aqui.
+
+1132
+00:50:17,684 --> 00:50:19,744
+Turma, estou usando o GPT para criar meu documento.
+
+1133
+00:50:19,744 --> 00:50:21,564
+Tem como também, tem como usar o GPT também.
+
+1134
+00:50:21,684 --> 00:50:23,984
+Mas eu vou entregar para vocês os prompts prontos já,
+
+1135
+00:50:24,064 --> 00:50:26,464
+e aí fica de presente para vocês aqui do evento,
+
+1136
+00:50:26,604 --> 00:50:27,924
+e vocês conseguem avançar junto comigo.
+
+1137
+00:50:28,544 --> 00:50:29,944
+Claudinho comeu muita feijoada.
+
+1138
+00:50:31,420 --> 00:50:33,400
+fala não né, poxa vida
+
+1139
+00:50:34,200 --> 00:50:36,420
+tinha tantos dias pra ele ficar fora do ar
+
+1140
+00:50:36,420 --> 00:50:37,840
+tinha que ser no dia do Atlas né
+
+1141
+00:50:37,840 --> 00:50:40,020
+mas geralmente ele volta assim, não fica muito tempo não
+
+1142
+00:50:41,628 --> 00:50:42,928
+A galera está mandando aí o erro geral.
+
+1143
+00:50:43,088 --> 00:50:44,128
+É, é erro geral.
+
+1144
+00:50:44,148 --> 00:50:46,108
+Eu consultei o status aqui com vocês,
+
+1145
+00:50:46,228 --> 00:50:47,448
+ele deu um emocionado.
+
+1146
+00:50:48,028 --> 00:50:48,828
+Justo hoje, né?
+
+1147
+00:50:48,908 --> 00:50:49,408
+Mas vai voltar.
+
+1148
+00:50:49,768 --> 00:50:50,648
+Geralmente volta rápido.
+
+1149
+00:50:51,028 --> 00:50:53,948
+Juan, então posso usar Cloud, Gemini, GPT
+
+1150
+00:50:53,948 --> 00:50:55,268
+para essas análises?
+
+1151
+00:50:55,368 --> 00:50:56,248
+Alguma preferência?
+
+1152
+00:50:56,248 --> 00:50:57,908
+Qualquer um dos três vai funcionar muito bem aqui.
+
+1153
+00:50:57,968 --> 00:50:59,488
+Para essa parte aqui em si,
+
+1154
+00:50:59,868 --> 00:51:01,628
+vocês vão ver que não vai ter problema, não.
+
+1155
+00:51:04,572 --> 00:51:05,552
+Bugamos o Claude.
+
+1156
+00:51:05,552 --> 00:51:06,592
+Não, nem foi a gente, não.
+
+1157
+00:51:07,472 --> 00:51:08,452
+Servidor global, né, pô.
+
+1158
+00:51:09,724 --> 00:51:10,704
+Já pensou, foi a gente?
+
+1159
+00:51:11,164 --> 00:51:12,324
+Ia ser engraçado, né?
+
+1160
+00:51:12,404 --> 00:51:15,484
+Mas, pô, se ele não dá conta de 700 pessoas...
+
+1161
+00:51:16,956 --> 00:51:18,636
+Aí tá fraco. Aqui ele tá me pedindo
+
+1162
+00:51:18,636 --> 00:51:20,356
+permissão pra escrever os arquivos agora.
+
+1163
+00:51:20,536 --> 00:51:22,336
+Eu vou falar aqui, ó, sempre permitir nessa seção.
+
+1164
+00:51:22,556 --> 00:51:24,616
+Pra não ter que ficar permitindo toda hora, né?
+
+1165
+00:51:25,076 --> 00:51:26,676
+Senão vai ser chato. Ih, vou ter que permitir
+
+1166
+00:51:26,676 --> 00:51:27,176
+vários aqui.
+
+1167
+00:51:28,636 --> 00:51:30,296
+Ele vai bugar, eu estou no 6 de 11.
+
+1168
+00:51:33,404 --> 00:51:34,024
+Permitir.
+
+1169
+00:51:36,412 --> 00:51:37,052
+Apply Tint.
+
+1170
+00:51:38,940 --> 00:51:40,060
+Eu vou ter que aprovar aqui, ó.
+
+1171
+00:51:41,000 --> 00:51:43,280
+Ele tá usando o próprio anti-gravity pra eu aprovar.
+
+1172
+00:51:45,852 --> 00:51:49,032
+Tá certo, tá certo, tá certo, tá certo, tá certo, tá certo.
+
+1173
+00:51:50,716 --> 00:51:57,136
+Ó, o bicho tá doido, ó, tá, tá, tá, se você deixa ele assim, você vê o quanto que ele tá aqui, ó, ó, ó, tá pulsante.
+
+1174
+00:51:58,356 --> 00:51:59,096
+Brincadeira, isso aqui é bug.
+
+1175
+00:52:00,036 --> 00:52:01,916
+Deixa ele carregando aí agora, tá pensando.
+
+1176
+00:52:02,276 --> 00:52:06,236
+Ele tá indo de 4 em 4, ó, já começou a criar os prompts pra gente aqui embaixo, tá vendo?
+
+1177
+00:52:11,132 --> 00:52:11,692
+Então deixa aí.
+
+1178
+00:52:12,352 --> 00:52:14,472
+Mythos tá hackeando o code depois do Mac OS.
+
+1179
+00:52:18,088 --> 00:52:21,948
+Galera, deixa eu ver o seguinte, depois que eu comecei a fazer isso aqui, vocês deram uma acalmada?
+
+1180
+00:52:22,068 --> 00:52:22,988
+Vocês estão tranquilos?
+
+1181
+00:52:25,052 --> 00:52:26,132
+Quero saber se vocês estão bem aí.
+
+1182
+00:52:26,292 --> 00:52:29,832
+Para mim é importante a experiência de vocês ser boa.
+
+1183
+00:52:31,900 --> 00:52:33,180
+Deixa eu fazer aqui, ó.
+
+1184
+00:52:34,908 --> 00:52:35,628
+Experiência.
+
+1185
+00:52:39,036 --> 00:52:40,296
+Como está a sua experiência?
+
+1186
+00:52:44,444 --> 00:52:45,664
+No Atlas Brand System.
+
+1187
+00:52:49,468 --> 00:52:49,828
+Over.
+
+1188
+00:52:54,108 --> 00:52:54,788
+Mediana.
+
+1189
+00:52:56,220 --> 00:52:59,720
+ruim. Colocar essas três opções. Podem ser sinceros, tá? Não vou ficar triste, não.
+
+1190
+00:53:00,860 --> 00:53:05,380
+Para mim está tudo bem, porque se estiver ruim eu vou ver o que a gente pode fazer aqui para melhorar com vocês.
+
+1191
+00:53:08,828 --> 00:53:10,288
+Tá carregando aqui, vou rodar aí, ó.
+
+1192
+00:53:10,388 --> 00:53:12,308
+Me falem aí, deixa eu ver a opinião de vocês aqui,
+
+1193
+00:53:12,388 --> 00:53:14,068
+enquanto o Claude tá trabalhando ali pra gente.
+
+1194
+00:53:19,676 --> 00:53:20,976
+Ah, tá bom pra caramba.
+
+1195
+00:53:22,268 --> 00:53:27,728
+73% over, 20% mediana, 4% ruim.
+
+1196
+00:53:28,368 --> 00:53:30,168
+Estamos bem, o negócio está dando certo.
+
+1197
+00:53:31,836 --> 00:53:33,336
+Ou versíssimo, aí sim.
+
+1198
+00:53:33,576 --> 00:53:34,176
+Bom demais.
+
+1199
+00:53:36,124 --> 00:53:38,604
+Maravilha, para quem está no mediano, eu entendo a experiência,
+
+1200
+00:53:38,924 --> 00:53:43,004
+para quem está no ruim também, eu entendo, às vezes chegou aqui de um momento diferente.
+
+1201
+00:53:44,732 --> 00:53:45,172
+Né, então...
+
+1202
+00:53:46,844 --> 00:53:51,484
+Aí é da experiência de cada um, mas eu gostei aqui do resultado, estou satisfeito, a gente pode ir avançando.
+
+1203
+00:53:52,892 --> 00:53:54,912
+Ó, o Gemini tá trabalhando pra gente enquanto isso.
+
+1204
+00:53:58,940 --> 00:54:03,760
+Enquanto o Cloud não volta, eu já estou seguindo um atalho aqui para vocês.
+
+1205
+00:54:03,880 --> 00:54:05,240
+Qual vai ser o processo?
+
+1206
+00:54:05,460 --> 00:54:07,620
+Vou explicar aqui para vocês enquanto ele trabalha ali.
+
+1207
+00:54:07,940 --> 00:54:09,740
+Eu vou entregar para vocês uma pasta.
+
+1208
+00:54:11,228 --> 00:54:12,608
+Presta atenção aqui, isso é importante.
+
+1209
+00:54:13,188 --> 00:54:14,608
+Vou entregar para vocês uma pasta.
+
+1210
+00:54:15,028 --> 00:54:18,748
+Dentro dessa pasta, vocês vão ter ali 20 arquivos MD.
+
+1211
+00:54:20,476 --> 00:54:21,676
+Vinte arquivos desses.
+
+1212
+00:54:21,936 --> 00:54:23,216
+Então pega aí, é muito
+
+1213
+00:54:24,636 --> 00:54:25,236
+arquivo desse.
+
+1214
+00:54:25,796 --> 00:54:28,016
+O que vocês vão fazer? Vocês vão pegar
+
+1215
+00:54:28,016 --> 00:54:30,176
+esses arquivos aqui e vocês vão colar
+
+1216
+00:54:30,176 --> 00:54:31,996
+dentro da pasta do projeto de vocês.
+
+1217
+00:54:32,816 --> 00:54:34,016
+Colou lá dentro, cada
+
+1218
+00:54:34,016 --> 00:54:36,376
+arquivo desse é uma auditoria ou uma etapa
+
+1219
+00:54:36,376 --> 00:54:37,276
+de construção da marca.
+
+1220
+00:54:38,684 --> 00:54:40,484
+Beleza? Cada arquivo desse.
+
+1221
+00:54:41,044 --> 00:54:44,004
+E aí tem de negócio, de mercado, de público, benchmark, posicionamento,
+
+1222
+00:54:44,044 --> 00:54:45,624
+tem tudo, tudo, tudo, tudo, tudo aqui.
+
+1223
+00:54:46,284 --> 00:54:47,704
+O que vocês vão ter que fazer?
+
+1224
+00:54:47,884 --> 00:54:52,164
+E aí eu vou seguir nesse atalho para vocês ficarem menos ansiosos.
+
+1225
+00:54:52,704 --> 00:54:56,144
+Vocês vão poder fazer isso aqui com calma, beleza?
+
+1226
+00:54:56,384 --> 00:54:57,764
+Vocês vão poder fazer isso aqui com calma.
+
+1227
+00:54:57,824 --> 00:55:01,984
+No coffee, hoje à noite, vocês vão poder trabalhar nesses arquivos aqui.
+
+1228
+00:55:02,684 --> 00:55:06,204
+Porque eu já vou entregar o prompt de todos eles de uma vez para vocês.
+
+1229
+00:55:06,204 --> 00:55:10,444
+Isso aqui vai ajudar você a construir as diretrizes da sua marca.
+
+1230
+00:55:11,868 --> 00:55:16,048
+Você poderia fazer essas diretrizes aqui igual a moda antiga,
+
+1231
+00:55:16,068 --> 00:55:17,808
+que foi o jeito que a gente fez da Overlens.
+
+1232
+00:55:17,908 --> 00:55:18,548
+Olha que legal.
+
+1233
+00:55:18,688 --> 00:55:22,488
+Se eu digito aqui, overview da Overlens,
+
+1234
+00:55:23,248 --> 00:55:25,688
+ele carrega um arquivo, deixa eu ver se no overview vai aparecer aqui.
+
+1235
+00:55:26,168 --> 00:55:29,708
+Ele carrega um arquivo que isso aqui foi escrito à mão.
+
+1236
+00:55:29,788 --> 00:55:31,608
+Isso aqui foi ser humano escrevendo.
+
+1237
+00:55:31,628 --> 00:55:33,648
+Muitos desses textos, inclusive, fui eu escrevendo.
+
+1238
+00:55:35,740 --> 00:55:37,400
+Nós definimos nossas diretrizes assim.
+
+1239
+00:55:38,060 --> 00:55:40,940
+Esse é um jeito de fazer marca muito mais avançado.
+
+1240
+00:55:41,260 --> 00:55:46,100
+Inclusive, eu vou falar disso aqui com vocês um pouquinho mais para frente, hoje ainda.
+
+1241
+00:55:47,860 --> 00:55:48,840
+Sobre diretrizes, né?
+
+1242
+00:55:48,920 --> 00:55:52,080
+O que a gente pensa na hora de construir uma marca, o melhor caminho para seguir.
+
+1243
+00:55:52,560 --> 00:55:53,660
+Mas eu fiz isso à mão.
+
+1244
+00:55:53,820 --> 00:55:57,400
+Se você já tem isso aqui definido, maravilha.
+
+1245
+00:55:57,440 --> 00:56:02,140
+Se você ainda não tem, você vai utilizar os prompts.
+
+1246
+00:56:06,204 --> 00:56:06,564
+Beleza?
+
+1247
+00:56:07,740 --> 00:56:09,280
+Aí vocês vão utilizar esses prompts aqui.
+
+1248
+00:56:09,380 --> 00:56:11,260
+Aí vocês vão conseguir rodar esses prompts aqui.
+
+1249
+00:56:12,604 --> 00:56:16,724
+E vão conseguir definir as diretrizes da marca.
+
+1250
+00:56:16,884 --> 00:56:19,264
+Se vocês não quiserem gastar os tokens de vocês,
+
+1251
+00:56:19,364 --> 00:56:22,424
+uma dica que eu posso dar é usar o GPT gratuito,
+
+1252
+00:56:22,444 --> 00:56:23,724
+ou o Gemini gratuito,
+
+1253
+00:56:23,724 --> 00:56:26,304
+e fazer isso lá no aplicativo na web mesmo também.
+
+1254
+00:56:26,864 --> 00:56:28,144
+Cola o prompt lá e fala,
+
+1255
+00:56:28,224 --> 00:56:29,264
+me ajuda na auditoria de negócio,
+
+1256
+00:56:29,504 --> 00:56:30,604
+me ajuda na auditoria de mercado.
+
+1257
+00:56:30,964 --> 00:56:33,304
+E aí vocês têm que montar uma documentação,
+
+1258
+00:56:33,824 --> 00:56:34,884
+baseado nesses prompts, tá?
+
+1259
+00:56:35,324 --> 00:56:36,624
+É um jeito de fazer também.
+
+1260
+00:56:38,492 --> 00:56:41,072
+E é o que eu estou fazendo aqui para a gente conseguir avançar.
+
+1261
+00:56:41,612 --> 00:56:41,932
+Beleza?
+
+1262
+00:56:42,292 --> 00:56:43,492
+Olha, ele está trabalhando aqui.
+
+1263
+00:56:43,972 --> 00:56:44,952
+Está quase acabando.
+
+1264
+00:56:44,972 --> 00:56:46,172
+Olha o tanto de prompt que ele fez.
+
+1265
+00:56:46,332 --> 00:56:47,572
+Vocês vão receber isso aqui tudo.
+
+1266
+00:56:47,652 --> 00:56:48,612
+Cara, isso aqui é presente.
+
+1267
+00:56:49,512 --> 00:56:50,132
+Isso aqui.
+
+1268
+00:56:51,484 --> 00:56:53,504
+Isso aqui é presentão pra vocês, tá?
+
+1269
+00:56:54,264 --> 00:56:57,924
+Todos os prompts com a metodologia da Overlens pra vocês usarem aí.
+
+1270
+00:56:59,068 --> 00:57:02,068
+Tem gente que diria que eu nem devia compartilhar isso aqui.
+
+1271
+00:57:02,828 --> 00:57:03,848
+Mas eu vou mandar pra vocês.
+
+1272
+00:57:05,532 --> 00:57:07,592
+Ele está quase acabando, falta um só aparentemente.
+
+1273
+00:57:10,396 --> 00:57:13,476
+Aí vocês podem fazer com calma, da maneira que achar melhor,
+
+1274
+00:57:13,536 --> 00:57:15,776
+e a gente vai avançar aqui para o Brand System, tá?
+
+1275
+00:57:17,340 --> 00:57:23,100
+Não seria melhor usar o chat GPT para criar multi-agentes por conta dos tokens?
+
+1276
+00:57:23,680 --> 00:57:26,340
+Se você usar multi-agentes, você vai gastar mais tokens.
+
+1277
+00:57:26,700 --> 00:57:28,380
+Não é que você gasta mais tokens, né?
+
+1278
+00:57:28,420 --> 00:57:31,380
+Você só acelera ali a produção dele.
+
+1279
+00:57:31,500 --> 00:57:32,220
+Só que...
+
+1280
+00:57:34,268 --> 00:57:36,008
+Pra vocês não usarem token, vocês podem usar
+
+1281
+00:57:36,008 --> 00:57:37,568
+a gratuita, um Google,
+
+1282
+00:57:37,908 --> 00:57:39,988
+um GPT e ir mandando os prompts
+
+1283
+00:57:39,988 --> 00:57:41,988
+lá. Vocês não necessariamente precisam usar aqui no
+
+1284
+00:57:41,988 --> 00:57:44,168
+anti-gravity. Só que aí depois vocês vão salvar
+
+1285
+00:57:44,168 --> 00:57:45,968
+isso e vão colar aqui
+
+1286
+00:57:45,968 --> 00:57:47,408
+dentro do anti-gravity pra gente, tá?
+
+1287
+00:57:50,460 --> 00:57:53,080
+Então, beleza. Overgift, isso aí.
+
+1288
+00:57:55,100 --> 00:57:57,240
+Então tá bom. Então a gente fez aqui no Gemini.
+
+1289
+00:57:57,820 --> 00:57:58,520
+Gemini já
+
+1290
+00:57:59,460 --> 00:58:01,180
+tá finalizando, ó. Terminou
+
+1291
+00:58:01,180 --> 00:58:01,840
+tudo certinho.
+
+1292
+00:58:03,292 --> 00:58:05,712
+E o que eu vou fazer? Eu vou zipar esse arquivo e mandar para vocês.
+
+1293
+00:58:07,292 --> 00:58:09,572
+E aí o Rafael vai subir lá no grupo também para vocês.
+
+1294
+00:58:11,100 --> 00:58:11,880
+Isso aqui é ouro demais.
+
+1295
+00:58:13,060 --> 00:58:13,720
+Meu Deus.
+
+1296
+00:58:16,284 --> 00:58:19,144
+Tá vendo? Tem hora que mesmo não funcionando, dá certo.
+
+1297
+00:58:21,084 --> 00:58:22,604
+A gente sempre encontra um novo jeito de fazer.
+
+1298
+00:58:22,864 --> 00:58:23,284
+Prontinho, ó.
+
+1299
+00:58:23,744 --> 00:58:25,444
+Fez todos os prompts pra gente.
+
+1300
+00:58:25,664 --> 00:58:27,984
+E eu vou explicar isso aqui pra vocês.
+
+1301
+00:58:28,104 --> 00:58:28,464
+Então...
+
+1302
+00:58:29,660 --> 00:58:31,920
+Vocês têm que prestar atenção para dar certo depois, beleza?
+
+1303
+00:58:32,180 --> 00:58:34,720
+Mas vocês vão conseguir construir marcas e planejamentos,
+
+1304
+00:58:34,780 --> 00:58:37,180
+gestão de marcas inteiras com isso.
+
+1305
+00:58:37,360 --> 00:58:38,920
+Aí eu vou mostrar a lógica da Overlens.
+
+1306
+00:58:39,360 --> 00:58:42,260
+Antes de mostrar, eu vou vir aqui na minha pasta.
+
+1307
+00:58:42,680 --> 00:58:44,940
+Olha o tanto de coisa que já tem nessa pasta, hein?
+
+1308
+00:58:45,440 --> 00:58:45,800
+Prompts.
+
+1309
+00:58:46,720 --> 00:58:48,240
+Dentro da pasta Prompts, eu tenho aqui, ó,
+
+1310
+00:58:48,260 --> 00:58:50,400
+Prompts gerados, todos os arquivos.
+
+1311
+00:58:50,800 --> 00:58:52,160
+Eu vou zipar isso aqui.
+
+1312
+00:58:53,916 --> 00:58:55,336
+Então aqui ó, compactar zip.
+
+1313
+00:58:56,892 --> 00:58:57,732
+E vou mandar pra vocês.
+
+1314
+00:58:57,912 --> 00:58:59,512
+O que vocês têm que levar em consideração, tá?
+
+1315
+00:58:59,612 --> 00:59:00,752
+Isso aqui é um arquivo Markdown.
+
+1316
+00:59:01,092 --> 00:59:03,872
+Dá pra subir isso aqui no GPT mesmo, de graça ali.
+
+1317
+00:59:04,232 --> 00:59:06,532
+Você sobe isso aqui, ó, só pra mostrar um pra vocês.
+
+1318
+00:59:06,692 --> 00:59:08,132
+Quem não quiser gastar token aí, ó.
+
+1319
+00:59:08,612 --> 00:59:12,532
+Não, eu não quero gastar token, quero fazer depois todo o processo.
+
+1320
+00:59:12,692 --> 00:59:16,772
+Você vai vir aqui no GPT e você vai puxar esse arquivo pra cá, ó.
+
+1321
+00:59:19,644 --> 00:59:21,124
+Entendeu? Pegou o efeito sonoro aí?
+
+1322
+00:59:21,884 --> 00:59:23,264
+Prontinho. Puxou o arquivo pra cá,
+
+1323
+00:59:23,364 --> 00:59:25,184
+você vai explicar seu negócio pra ele.
+
+1324
+00:59:25,204 --> 00:59:27,224
+Tem que explicar. Meu negócio é sobre XYZ,
+
+1325
+00:59:27,304 --> 00:59:28,464
+blá, blá, blá, blá, blá, blá, blá.
+
+1326
+00:59:28,824 --> 00:59:30,624
+E aí você vai dar Enter. Você vai falar, olha,
+
+1327
+00:59:31,944 --> 00:59:32,584
+execute essa
+
+1328
+00:59:33,964 --> 00:59:34,804
+auditoria de mercado
+
+1329
+00:59:35,504 --> 00:59:36,684
+e salve em um
+
+1330
+00:59:37,124 --> 00:59:38,724
+arquivo MD para eu baixar.
+
+1331
+00:59:40,636 --> 00:59:45,436
+Aí ele vai fazer aqui, ó, eu tô no GPT de graça, ó, memória cheia, tudo errado aqui, ó, GPT de graça.
+
+1332
+00:59:46,056 --> 00:59:50,016
+Mas ainda assim vai funcionar, ele vai analisar o prompt e vai fazer aqui no GPT.
+
+1333
+00:59:50,416 --> 00:59:55,336
+Aí você não precisa fazer lá no Cloud, só que depois você tem que baixar isso aqui e subir lá na pasta.
+
+1334
+00:59:55,756 --> 01:00:00,836
+Quem tá com crédito, quem fala, pô, tô com token, tô igual você, Juan, tô cheio de crédito aqui, tô nem aí.
+
+1335
+01:00:01,016 --> 01:00:02,356
+Vou fazer acelerado.
+
+1336
+01:00:02,456 --> 01:00:06,676
+Você pode, inclusive, rodar todos de uma vez no seu terminal aí e falar,
+
+1337
+01:00:06,676 --> 01:00:09,296
+Coloque um agente para executar cada um desses promptos
+
+1338
+01:00:09,296 --> 01:00:11,056
+e montar toda a estrutura da minha marca.
+
+1339
+01:00:11,156 --> 01:00:12,336
+Vocês vão ficar pirados.
+
+1340
+01:00:12,556 --> 01:00:13,636
+Só que tem um detalhe.
+
+1341
+01:00:14,812 --> 01:00:16,832
+Isso aqui não é uma coisa que você faz uma vez e está pronto.
+
+1342
+01:00:17,072 --> 01:00:18,692
+Você tem que ler, tem que tomar decisão.
+
+1343
+01:00:18,692 --> 01:00:22,072
+Então, é algo que vocês vão levar daqui para frente na vida de vocês.
+
+1344
+01:00:22,272 --> 01:00:24,832
+Por isso que eu estou falando que isso aqui é presentão.
+
+1345
+01:00:25,472 --> 01:00:26,452
+Vocês não têm ideia.
+
+1346
+01:00:27,752 --> 01:00:29,092
+É a metodologia da Valência.
+
+1347
+01:00:29,552 --> 01:00:33,732
+Já está aqui para eu fazer download da auditoria de mercado que ele gerou.
+
+1348
+01:00:33,812 --> 01:00:35,392
+Só que eu estou desconfiado, vamos ver.
+
+1349
+01:00:37,084 --> 01:00:41,344
+Quando ele não escreve nada aqui, ó, eu já fico desconfiado desse GPT já.
+
+1350
+01:00:41,384 --> 01:00:42,924
+Deixa eu ver aqui, bloco de notas.
+
+1351
+01:00:45,788 --> 01:00:47,448
+Abrir arquivo
+
+1352
+01:00:49,596 --> 01:00:50,016
+Continuar.
+
+1353
+01:00:52,124 --> 01:00:54,284
+Ó, ele fez mesmo, pô, ele fez, ele fez.
+
+1354
+01:00:55,064 --> 01:00:56,084
+Aí tem que ler, né?
+
+1355
+01:00:56,124 --> 01:00:58,384
+Você pode ler direto ali no WhatGravity se quiser,
+
+1356
+01:00:58,824 --> 01:01:00,144
+mas ele chegou a fazer aqui, ó.
+
+1357
+01:01:00,224 --> 01:01:02,484
+Aí você vai pegar esse arquivo e vai salvar na sua pasta.
+
+1358
+01:01:03,676 --> 01:01:06,136
+Beleza? Estamos aqui então no Brand System.
+
+1359
+01:01:07,612 --> 01:01:09,092
+E aí, de cara, vocês vão ver isso aqui.
+
+1360
+01:01:09,212 --> 01:01:11,692
+Tem a introdução que eu tinha mostrado e tem a definição.
+
+1361
+01:01:12,352 --> 01:01:14,092
+A definição a gente não faz agora.
+
+1362
+01:01:14,392 --> 01:01:18,112
+Basicamente, é um arquivo que você explica o que é o Brand System
+
+1363
+01:01:18,112 --> 01:01:20,212
+e como que ele funciona.
+
+1364
+01:01:20,532 --> 01:01:23,812
+Essa definição, a gente vai trabalhar ela no final.
+
+1365
+01:01:23,992 --> 01:01:24,972
+Ele é tipo um índice.
+
+1366
+01:01:25,132 --> 01:01:27,752
+É tipo explicando o que é o Brand System, como que funciona,
+
+1367
+01:01:28,172 --> 01:01:29,472
+qual que é o nosso propósito de marca.
+
+1368
+01:01:29,992 --> 01:01:30,992
+São essas questões.
+
+1369
+01:01:31,332 --> 01:01:32,752
+O jogo mesmo começa aqui.
+
+1370
+01:01:33,212 --> 01:01:34,132
+Overview da Overlens.
+
+1371
+01:01:34,232 --> 01:01:34,752
+Visão geral.
+
+1372
+01:01:34,752 --> 01:01:38,092
+Qual que é o primeiro documento que vocês precisam ter aí?
+
+1373
+01:01:38,292 --> 01:01:40,032
+Anota que vai ser dever de casa, hein?
+
+1374
+01:01:40,112 --> 01:01:41,532
+Vai ser dever de casa, anota.
+
+1375
+01:01:41,712 --> 01:01:44,512
+Vocês vão fazer isso com o IA, mas vocês têm que preparar esses documentos.
+
+1376
+01:01:44,572 --> 01:01:47,332
+Pode fazer no Google Docs se quiser também, está tudo bem.
+
+1377
+01:01:47,412 --> 01:01:48,852
+Mas vocês vão preparar os documentos.
+
+1378
+01:01:49,152 --> 01:01:51,112
+E aí eu vou explicar para vocês como funciona.
+
+1379
+01:01:51,872 --> 01:01:52,532
+Visão geral.
+
+1380
+01:01:52,652 --> 01:01:53,672
+O que é seu negócio?
+
+1381
+01:01:54,732 --> 01:01:55,652
+Sobre o que ele é?
+
+1382
+01:01:55,832 --> 01:01:56,792
+Como que ele funciona?
+
+1383
+01:01:57,172 --> 01:01:58,452
+Quem são seus clientes?
+
+1384
+01:01:58,732 --> 01:02:01,572
+Aqui a gente tem algumas perguntas como por que a Overlens existe?
+
+1385
+01:02:02,112 --> 01:02:03,492
+Para quem é a Overlens?
+
+1386
+01:02:03,492 --> 01:02:06,692
+pra quem não é Overlens, qual que é a abordagem
+
+1387
+01:02:06,692 --> 01:02:08,472
+da Overlens, então a gente responde algumas
+
+1388
+01:02:08,472 --> 01:02:10,312
+perguntas, repara, resposta
+
+1389
+01:02:10,312 --> 01:02:11,872
+curta aqui mesmo, não precisa
+
+1390
+01:02:12,752 --> 01:02:14,292
+extrapolar também um monte de texto
+
+1391
+01:02:14,292 --> 01:02:16,612
+é legal, é recomendado que vocês leiam
+
+1392
+01:02:16,612 --> 01:02:18,532
+os textos também, pra vocês irem
+
+1393
+01:02:18,532 --> 01:02:19,612
+definindo ali, porém
+
+1394
+01:02:19,612 --> 01:02:22,452
+pro fim de semana, sejam sucintos
+
+1395
+01:02:22,452 --> 01:02:24,472
+depois vocês vão aprimorando, pra vocês
+
+1396
+01:02:24,472 --> 01:02:26,412
+conseguirem montar o Brand System de vocês
+
+1397
+01:02:26,412 --> 01:02:26,692
+beleza?
+
+1398
+01:02:28,828 --> 01:02:30,988
+Então, primeiro ponto é esse, visão geral.
+
+1399
+01:02:31,348 --> 01:02:33,608
+Essas perguntas aqui, olha, por que a Overlance existe,
+
+1400
+01:02:34,588 --> 01:02:39,108
+cuidados e risco, nossa postura, o preço que pagamos,
+
+1401
+01:02:39,928 --> 01:02:42,228
+princípios da Overlance, até aqui, até o preço que pagamos,
+
+1402
+01:02:42,308 --> 01:02:44,668
+não precisa fazer para agora, para o Atlas.
+
+1403
+01:02:44,868 --> 01:02:47,988
+Tem decisões muito importantes de negócio aqui
+
+1404
+01:02:47,988 --> 01:02:51,068
+que não são tão simples de responder, você não responde isso em um dia.
+
+1405
+01:02:51,128 --> 01:02:53,748
+Lembra que eu falei que a gente está construindo a marca da Overlance desde 2021?
+
+1406
+01:02:54,528 --> 01:02:56,508
+Então a gente já pensa sobre isso há bastante tempo.
+
+1407
+01:02:56,508 --> 01:02:59,808
+mas é legal vocês darem uma estudada no conteúdo que a gente tem aqui,
+
+1408
+01:02:59,928 --> 01:03:02,548
+que isso já vai ajudar vocês a entender a ideia.
+
+1409
+01:03:02,968 --> 01:03:03,368
+Beleza?
+
+1410
+01:03:03,988 --> 01:03:05,148
+Então, não precisa desses.
+
+1411
+01:03:05,508 --> 01:03:07,868
+Só que quando a gente entra em princípios da Overlens,
+
+1412
+01:03:08,268 --> 01:03:11,148
+eu acho legal vocês definirem os princípios de vocês.
+
+1413
+01:03:11,428 --> 01:03:13,288
+E quais são os princípios aqui, tá?
+
+1414
+01:03:13,588 --> 01:03:18,328
+Vocês vão definir quais são os princípios que regem a maneira como vocês fazem as coisas,
+
+1415
+01:03:18,488 --> 01:03:19,828
+como o negócio de vocês funciona.
+
+1416
+01:03:20,208 --> 01:03:22,148
+Então, pelo que vocês prezam?
+
+1417
+01:03:22,328 --> 01:03:24,828
+Um exemplo, aqui na Overlens, quais são nossos princípios?
+
+1418
+01:03:24,828 --> 01:03:26,268
+princípio do julgamento
+
+1419
+01:03:26,268 --> 01:03:28,828
+você ser capaz de entender
+
+1420
+01:03:28,828 --> 01:03:31,128
+para onde você está indo, tomar boas decisões
+
+1421
+01:03:31,808 --> 01:03:33,088
+princípio da realização
+
+1422
+01:03:33,088 --> 01:03:34,808
+realizar é melhor do que só
+
+1423
+01:03:34,808 --> 01:03:36,688
+imaginar, imaginar é importante
+
+1424
+01:03:36,688 --> 01:03:38,808
+mas realizar é onde a vida acontece
+
+1425
+01:03:38,808 --> 01:03:40,288
+então isso é importante para a gente
+
+1426
+01:03:40,788 --> 01:03:42,888
+princípio da parcimônia, é o princípio
+
+1427
+01:03:42,888 --> 01:03:44,908
+da simplicidade e o princípio da
+
+1428
+01:03:44,908 --> 01:03:46,748
+unidade, comunicar é tornar as coisas
+
+1429
+01:03:46,748 --> 01:03:48,688
+comuns, isso é como a gente funciona
+
+1430
+01:03:48,688 --> 01:03:50,888
+aqui na Overlens, por que eu estou escrevendo
+
+1431
+01:03:50,888 --> 01:03:52,148
+isso? Porque depois
+
+1432
+01:03:52,148 --> 01:03:54,948
+Depois, quando a gente conectar uma IA no nosso Brand System,
+
+1433
+01:03:55,188 --> 01:03:57,728
+ela vai puxar toda essa informação aqui do negócio.
+
+1434
+01:03:58,568 --> 01:03:59,368
+Entenderam a lógica?
+
+1435
+01:03:59,448 --> 01:04:04,508
+Ela vai puxar isso aqui tudo para conversar com você e com a sua equipe.
+
+1436
+01:04:04,588 --> 01:04:06,908
+Então, vocês precisam definir esse documento aqui também.
+
+1437
+01:04:07,148 --> 01:04:10,628
+A minha ideia inicial era ir fazendo isso junto aqui com vocês,
+
+1438
+01:04:10,828 --> 01:04:13,068
+mas eu vi que ia ficar confuso e eu mudei.
+
+1439
+01:04:13,088 --> 01:04:15,588
+Então, eu estou dando isso aqui para vocês agora com os prompts.
+
+1440
+01:04:15,928 --> 01:04:17,928
+Vocês vão conseguir fazer isso aqui com os prompts também
+
+1441
+01:04:17,928 --> 01:04:19,208
+e já vai ficar interessante.
+
+1442
+01:04:20,796 --> 01:04:21,756
+Aí vem a linha do tempo.
+
+1443
+01:04:21,956 --> 01:04:24,236
+Aqui tem a linha do tempo da história da Overlanes.
+
+1444
+01:04:24,236 --> 01:04:26,496
+Vocês podem entrar aqui e ler a nossa linha do tempo,
+
+1445
+01:04:26,656 --> 01:04:29,216
+mas vocês podem escrever, não precisa ser tão longo assim.
+
+1446
+01:04:29,516 --> 01:04:32,096
+Isso aqui a gente vem escrevendo há bastante tempo também.
+
+1447
+01:04:32,236 --> 01:04:34,056
+Mas você pode colocar ali um pouquinho,
+
+1448
+01:04:34,896 --> 01:04:36,516
+como que seu negócio começou,
+
+1449
+01:04:36,796 --> 01:04:38,236
+qual que foi a ideia inicial,
+
+1450
+01:04:38,576 --> 01:04:40,796
+para onde vocês estavam olhando, beleza?
+
+1451
+01:04:41,376 --> 01:04:42,796
+Escrever isso aí, do negócio.
+
+1452
+01:04:43,296 --> 01:04:44,936
+Isso é o que a gente chama de overview,
+
+1453
+01:04:45,276 --> 01:04:46,516
+a visão geral do negócio.
+
+1454
+01:04:46,836 --> 01:04:47,876
+Primeira parte é essa.
+
+1455
+01:04:48,456 --> 01:04:49,676
+Depois que define isso,
+
+1456
+01:04:49,676 --> 01:04:51,356
+Isso. Aí vem o núcleo da marca.
+
+1457
+01:04:51,516 --> 01:04:52,936
+Ou seja, dentro do overview,
+
+1458
+01:04:53,136 --> 01:04:55,236
+vocês vão utilizar principalmente os
+
+1459
+01:04:55,236 --> 01:04:57,296
+prompts de auditoria, pra pegar
+
+1460
+01:04:57,296 --> 01:04:59,316
+informações relevantes ali, posicionar
+
+1461
+01:04:59,316 --> 01:05:00,656
+vocês dentro do mercado.
+
+1462
+01:05:01,216 --> 01:05:03,036
+E junto com esses prompts
+
+1463
+01:05:03,036 --> 01:05:05,256
+de auditoria, vocês também vão usar os prompts
+
+1464
+01:05:05,256 --> 01:05:06,976
+de estratégia, golden circle,
+
+1465
+01:05:07,316 --> 01:05:09,336
+tem tudo ali certinho. Tá na sequência já pra
+
+1466
+01:05:09,336 --> 01:05:11,556
+vocês, tá? É só utilizar na sequência.
+
+1467
+01:05:11,756 --> 01:05:13,236
+Quem já tem pronto, maravilha,
+
+1468
+01:05:13,236 --> 01:05:14,456
+vocês vão usar o que vocês têm pronto.
+
+1469
+01:05:14,796 --> 01:05:16,836
+Quem já tem pronto, prepara tudo isso
+
+1470
+01:05:16,836 --> 01:05:18,356
+em um Google Docs, assim, olha.
+
+1471
+01:05:18,356 --> 01:05:20,576
+Ou em arquivos Markdown.
+
+1472
+01:05:20,636 --> 01:05:22,296
+Melhor ainda se for arquivo Markdown.
+
+1473
+01:05:22,436 --> 01:05:23,936
+Já deixa tudo em texto.
+
+1474
+01:05:24,776 --> 01:05:25,396
+Aí vai ser interessante.
+
+1475
+01:05:27,036 --> 01:05:28,696
+Então, depois disso vem o núcleo da marca.
+
+1476
+01:05:28,896 --> 01:05:31,296
+É aqui que a gente define posicionamento da marca.
+
+1477
+01:05:31,456 --> 01:05:32,836
+Então, como que ela se posiciona no mercado?
+
+1478
+01:05:33,036 --> 01:05:35,916
+A Overlens, por exemplo, se posiciona como científica,
+
+1479
+01:05:35,916 --> 01:05:38,596
+profunda, provocativa e inspiradora.
+
+1480
+01:05:38,976 --> 01:05:42,076
+E aí eu tenho um pequeno parágrafo explicando o que isso significa para a gente.
+
+1481
+01:05:42,296 --> 01:05:44,776
+Vocês vão definir isso do negócio de vocês também.
+
+1482
+01:05:44,996 --> 01:05:47,436
+Tem o prompt de posicionamento, eu passei para vocês.
+
+1483
+01:05:47,636 --> 01:05:48,696
+Não sei como fazer.
+
+1484
+01:05:48,816 --> 01:05:52,456
+Use o prompt, depois leia o resultado e vai adaptando, tomando decisões.
+
+1485
+01:05:52,676 --> 01:05:54,856
+Vocês vão ver que os prompts são poderosos, tá?
+
+1486
+01:05:54,856 --> 01:05:57,596
+aí tem aqui visão e propósito do negócio,
+
+1487
+01:05:57,796 --> 01:05:59,756
+aqui você pode usar o prompt Golden Circle,
+
+1488
+01:05:59,996 --> 01:06:01,916
+já vai ajudar vocês, vai ser interessante,
+
+1489
+01:06:02,256 --> 01:06:03,676
+e a gente tem o Story Brand,
+
+1490
+01:06:04,156 --> 01:06:06,116
+Story Brand é a narrativa da marca,
+
+1491
+01:06:06,336 --> 01:06:09,676
+nessa etapa aqui vocês podem utilizar o prompt Roteiro da Marca,
+
+1492
+01:06:09,816 --> 01:06:13,096
+vocês vão conseguir definir aqui todo o roteiro da marca também,
+
+1493
+01:06:13,316 --> 01:06:16,036
+vai ser poderoso, eu quero até ver como vocês vão chegar depois,
+
+1494
+01:06:16,196 --> 01:06:18,596
+com isso tudo aqui, quero até ver como vocês vão chegar,
+
+1495
+01:06:19,056 --> 01:06:20,836
+mas então você define o roteiro da marca,
+
+1496
+01:06:20,916 --> 01:06:22,356
+precisa ser gigante igual o seu, não,
+
+1497
+01:06:22,356 --> 01:06:24,956
+Não, lembra, isso aqui eu não fiz de um dia para a noite,
+
+1498
+01:06:25,676 --> 01:06:28,516
+mas vocês vão começar aqui com a gente, no Atlas.
+
+1499
+01:06:28,676 --> 01:06:32,296
+Então, faz algo sucinto, mas vocês já vão conseguir criar o sistema de vocês,
+
+1500
+01:06:32,436 --> 01:06:33,476
+essa vai ser a parte legal.
+
+1501
+01:06:34,856 --> 01:06:37,556
+Virtudes, vocês têm o prompt aí de criação de virtudes,
+
+1502
+01:06:37,556 --> 01:06:40,436
+baseado no continuum de virtudes do Aristóteles.
+
+1503
+01:06:40,816 --> 01:06:44,296
+Então, aqui é o continuum, aí vem, quais são as virtudes da Uberlândia?
+
+1504
+01:06:44,376 --> 01:06:48,696
+De novo, científica, profunda, provocativa e inspiradora.
+
+1505
+01:06:49,156 --> 01:06:50,856
+Essas são as nossas principais virtudes.
+
+1506
+01:06:50,856 --> 01:06:52,776
+Tem aqui também a virtude adaptável.
+
+1507
+01:06:53,016 --> 01:06:56,616
+E tem também aqui as nossas virtudes de caráter.
+
+1508
+01:06:56,896 --> 01:07:00,996
+Isso aqui no prompt, ele vai ajudar vocês a fazer, mas não precisa ser tão longo assim não.
+

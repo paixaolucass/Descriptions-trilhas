@@ -1,0 +1,1192 @@
+1
+00:00:00,000 --> 00:00:02,220
+Então, a primeira coisa que vocês precisam entender aqui,
+
+2
+00:00:02,340 --> 00:00:05,840
+as ferramentas que nós vamos utilizar e para que elas vão servir.
+
+3
+00:00:06,340 --> 00:00:08,040
+Nós vamos utilizar o Cloud Code,
+
+4
+00:00:08,260 --> 00:00:12,100
+mas se você assina o chat GPT ou se você assina o Gemini,
+
+5
+00:00:12,160 --> 00:00:17,280
+você pode fazer com o Codex do GPT ou com o Gemini CLI.
+
+6
+00:00:17,700 --> 00:00:20,980
+Para fazer com esses dois aqui, você vai precisar prestar atenção, tá?
+
+7
+00:00:21,240 --> 00:00:22,740
+Você vai ter que fazer a instalação.
+
+8
+00:00:22,860 --> 00:00:25,000
+Eu vou mostrar aqui não a instalação agora,
+
+9
+00:00:25,120 --> 00:00:27,800
+porque não vai dar tempo de mostrar ela aqui agora,
+
+10
+00:00:28,040 --> 00:00:29,420
+mas eu vou te mostrar o caminho.
+
+11
+00:00:29,420 --> 00:00:32,820
+e aí você vai pedir para a IA te instruir passo a passo, beleza?
+
+12
+00:00:33,100 --> 00:00:34,000
+Você vai fazer o seguinte,
+
+13
+00:00:34,140 --> 00:00:36,760
+Juan, eu já assino GPT, o que eu faço então?
+
+14
+00:00:36,860 --> 00:00:38,120
+Presta muita atenção na minha tela,
+
+15
+00:00:38,180 --> 00:00:42,840
+você vai digitar Codex CLI, Codex CLI, beleza?
+
+16
+00:00:43,360 --> 00:00:46,380
+Clica aqui no Codex CLI e aí você vai descer aqui,
+
+17
+00:00:46,440 --> 00:00:48,800
+se você estiver no Windows, você vai deixar em NPM,
+
+18
+00:00:49,080 --> 00:00:52,420
+se você estiver no Mac, você vai usar Homebrew, beleza?
+
+19
+00:00:52,900 --> 00:00:56,260
+Você vai clicar nesse primeiro comando aqui, copiar ele,
+
+20
+00:00:56,260 --> 00:00:58,720
+se você estiver no Windows, você vai
+
+21
+00:00:58,720 --> 00:01:00,640
+apertar a janelinha do Windows aqui
+
+22
+00:01:00,640 --> 00:01:02,760
+para ele abrir ela, ou você vai
+
+23
+00:01:02,760 --> 00:01:05,060
+dar Windows R para ele abrir e se executar
+
+24
+00:01:05,060 --> 00:01:06,740
+aqui, aí você vai digitar aqui
+
+25
+00:01:06,740 --> 00:01:08,720
+CMD, para ele
+
+26
+00:01:08,720 --> 00:01:10,060
+abrir aqui o prompt de comando
+
+27
+00:01:10,060 --> 00:01:12,980
+você vai colar isso aqui no CMD
+
+28
+00:01:12,980 --> 00:01:14,500
+e vai dar Enter para ele
+
+29
+00:01:14,500 --> 00:01:16,200
+instalar o Codex para você
+
+30
+00:01:16,200 --> 00:01:18,780
+pode ser que na instalação dê algum erro
+
+31
+00:01:18,780 --> 00:01:20,920
+se der algum erro, você vai printar
+
+32
+00:01:20,920 --> 00:01:22,860
+e jogar na IA, e vai falar, me ensina passo a passo
+
+33
+00:01:22,860 --> 00:01:24,280
+a fazer isso, beleza?
+
+34
+00:01:24,280 --> 00:01:25,900
+Beleza? E aí você instala o
+
+35
+00:01:25,900 --> 00:01:27,820
+Codex. Com certeza vocês conseguem encontrar
+
+36
+00:01:27,820 --> 00:01:29,960
+vídeo na internet também, como instalar o Codex
+
+37
+00:01:29,960 --> 00:01:32,140
+CLI. Vocês podem fazer isso no horário do almoço.
+
+38
+00:01:32,200 --> 00:01:33,860
+Não precisa fazer agora. Se você
+
+39
+00:01:33,860 --> 00:01:35,560
+assina o Gemini,
+
+40
+00:01:35,680 --> 00:01:38,040
+você vai digitar Gemini CLI.
+
+41
+00:01:38,260 --> 00:01:39,900
+Vai entrar nesse link aqui
+
+42
+00:01:39,900 --> 00:01:41,780
+e você vai copiar esse
+
+43
+00:01:41,780 --> 00:01:43,920
+código aqui e vai colar no
+
+44
+00:01:43,920 --> 00:01:45,800
+seu terminal. Se você estiver no
+
+45
+00:01:45,800 --> 00:01:48,160
+Mac, você vai apertar Command Espaço
+
+46
+00:01:48,160 --> 00:01:49,360
+para abrir o terminal.
+
+47
+00:01:49,540 --> 00:01:51,800
+Para abrir a barra de pesquisa. Aí você vai
+
+48
+00:01:51,800 --> 00:01:53,520
+digitar lá assim, Terminal, no Mac.
+
+49
+00:01:53,520 --> 00:01:56,320
+no Windows, dá Windows R e aperta
+
+50
+00:01:56,320 --> 00:01:58,120
+CMD aqui, aí ele abre o
+
+51
+00:01:58,120 --> 00:02:00,320
+terminal, você pode também ir na barra de pesquisa
+
+52
+00:02:00,320 --> 00:02:01,980
+do Windows e digitar lá assim, terminal
+
+53
+00:02:01,980 --> 00:02:04,420
+aí ele mostra também, aí você vai colar
+
+54
+00:02:04,420 --> 00:02:06,360
+esse código do Gemini e vai dar um enter
+
+55
+00:02:06,360 --> 00:02:08,040
+ele vai instalar o Gemini
+
+56
+00:02:08,040 --> 00:02:10,500
+pra você, tem vídeo também ensinando
+
+57
+00:02:10,500 --> 00:02:12,220
+o que você precisa saber é isso aqui, Gemini
+
+58
+00:02:12,220 --> 00:02:13,720
+CLI, ou
+
+59
+00:02:14,980 --> 00:02:15,940
+Codex CLI
+
+60
+00:02:15,940 --> 00:02:18,400
+Juan, não consegui instalar, não vou
+
+61
+00:02:18,400 --> 00:02:20,380
+conseguir acompanhar? Vai, porque
+
+62
+00:02:20,380 --> 00:02:22,360
+aí tem o jeito mais simples, ele é um
+
+63
+00:02:22,360 --> 00:02:24,360
+um pouco mais limitado, mas você vai conseguir fazer tudo
+
+64
+00:02:24,360 --> 00:02:26,540
+nele. Que é o quê? Se você usa
+
+65
+00:02:26,540 --> 00:02:28,320
+o GPT, você vai
+
+66
+00:02:28,320 --> 00:02:30,380
+baixar o Codex, ó. Você vai vir
+
+67
+00:02:30,380 --> 00:02:32,320
+aqui, Codex, e vai baixar ele,
+
+68
+00:02:32,380 --> 00:02:34,100
+ó. Pra Windows, se tiver pra Mac, vai baixar.
+
+69
+00:02:34,180 --> 00:02:36,240
+Aí é um programa que você vai construir
+
+70
+00:02:36,240 --> 00:02:38,340
+dentro dele. Vai ser diferente, um pouco
+
+71
+00:02:38,340 --> 00:02:40,360
+limitado. Por isso que eu recomendei. Usa
+
+72
+00:02:40,360 --> 00:02:42,080
+Cloud. Eu recomendei pra vocês, eu tô
+
+73
+00:02:42,080 --> 00:02:44,280
+vários dias falando isso. Mas ainda assim,
+
+74
+00:02:44,360 --> 00:02:46,300
+dá pra fazer assim se você quiser.
+
+75
+00:02:46,660 --> 00:02:48,300
+Tá? Aí é com vocês.
+
+76
+00:02:48,660 --> 00:02:50,480
+Pode instalar os dois? Pode, se quiser.
+
+77
+00:02:50,480 --> 00:02:55,860
+quiser pode instalar os dois eu tenho os três aqui GPT Gemini e o Cloud mas eu vou usar durante o
+
+78
+00:02:55,860 --> 00:03:01,280
+workshop inteiro o Cloud beleza não vou poder ficar voltando explicando nos três não dá tempo
+
+79
+00:03:03,740 --> 00:03:05,840
+Aí você consegue usar aqui o GPT.
+
+80
+00:03:06,140 --> 00:03:06,840
+Tá certo?
+
+81
+00:03:07,280 --> 00:03:08,560
+Pesquisem um pouco mais sobre isso,
+
+82
+00:03:08,680 --> 00:03:10,660
+peçam ajuda também no grupo de networking
+
+83
+00:03:10,660 --> 00:03:12,660
+que a gente vai abrir no horário do almoço para vocês,
+
+84
+00:03:12,820 --> 00:03:13,980
+e aí vai dar certo.
+
+85
+00:03:15,292 --> 00:03:16,472
+Dito isso, vamos lá então.
+
+86
+00:03:16,612 --> 00:03:21,252
+A gente vai utilizar aqui o Cloud como o nosso agente de código.
+
+87
+00:03:21,972 --> 00:03:24,552
+Então ele que vai escrever o código para a gente.
+
+88
+00:03:24,612 --> 00:03:26,052
+Ele é o nosso agente de código.
+
+89
+00:03:26,732 --> 00:03:28,972
+Ele que escreve, ele é o nosso colaborador aqui.
+
+90
+00:03:29,032 --> 00:03:30,432
+A gente vai pedir para ele e ele vai fazer.
+
+91
+00:03:31,172 --> 00:03:34,672
+Nós vamos utilizar junto aqui também o anti-gravity.
+
+92
+00:03:34,812 --> 00:03:36,612
+O anti-gravity é uma IDE.
+
+93
+00:03:37,432 --> 00:03:38,332
+O que é uma IDE?
+
+94
+00:03:38,512 --> 00:03:40,612
+É um ambiente integrado de desenvolvimento.
+
+95
+00:03:40,612 --> 00:03:42,332
+Meu Deus, Juan, que título é esse?
+
+96
+00:03:42,412 --> 00:03:43,532
+Eu já estou ficando com medo.
+
+97
+00:03:43,712 --> 00:03:44,792
+Não fica com medo.
+
+98
+00:03:44,792 --> 00:03:46,872
+vai dar tudo certo, mas a gente precisa
+
+99
+00:03:46,872 --> 00:03:48,872
+de um ambiente desse, para que a gente
+
+100
+00:03:48,872 --> 00:03:50,832
+consiga ver todas as pastas, todos os
+
+101
+00:03:50,832 --> 00:03:52,812
+arquivos, e ter uma visão geral
+
+102
+00:03:52,812 --> 00:03:54,732
+dos arquivos que nós estamos criando, isso
+
+103
+00:03:54,732 --> 00:03:56,872
+aqui é o anti-gravity, vou fechar as
+
+104
+00:03:56,872 --> 00:03:58,992
+abas para vocês verem, aqui do lado
+
+105
+00:03:58,992 --> 00:04:00,832
+eu tenho todas as pastas, eu tenho todos
+
+106
+00:04:00,832 --> 00:04:03,272
+os arquivos, então eu consigo gerenciar
+
+107
+00:04:03,272 --> 00:04:04,912
+meu projeto, por isso é
+
+108
+00:04:04,912 --> 00:04:06,732
+mais fácil de ver, porque um outro
+
+109
+00:04:06,732 --> 00:04:08,812
+jeito de fazer, mais difícil, é
+
+110
+00:04:08,812 --> 00:04:10,432
+se a gente fizesse direto no terminal
+
+111
+00:04:10,432 --> 00:04:12,312
+como que é direto no terminal?
+
+112
+00:04:12,312 --> 00:04:17,892
+no terminal. Direto no terminal é assim, ó, eu abro o CMD aqui e eu abro o Cloud aqui dentro, ó, Cloud.
+
+113
+00:04:21,052 --> 00:04:22,592
+Pronto, aí eu converso aqui dentro.
+
+114
+00:04:22,752 --> 00:04:26,732
+Só que eu não consigo ver a pasta, eu preciso ficar abrindo um monte de janela.
+
+115
+00:04:27,212 --> 00:04:29,372
+Manda um oi para todo mundo, Claude.
+
+116
+00:04:32,220 --> 00:04:34,240
+O Claude vai mandar um oi para vocês em português.
+
+117
+00:04:34,540 --> 00:04:35,560
+Oi para todo mundo.
+
+118
+00:04:35,900 --> 00:04:36,340
+Está vendo?
+
+119
+00:04:36,420 --> 00:04:37,680
+Só que aí você conversa por aqui.
+
+120
+00:04:37,840 --> 00:04:40,680
+Isso aqui vai fazer vocês se perderem um pouco mais.
+
+121
+00:04:41,620 --> 00:04:43,080
+Então, no caso aqui,
+
+122
+00:04:43,660 --> 00:04:45,520
+nós não vamos ficar fazendo no terminal.
+
+123
+00:04:45,700 --> 00:04:48,260
+A gente vai usar o anti-gravity para isso.
+
+124
+00:04:48,380 --> 00:04:49,620
+Isso faz parte da metodologia.
+
+125
+00:04:49,760 --> 00:04:50,860
+Para que serve isso aqui?
+
+126
+00:04:51,680 --> 00:04:52,600
+Gerenciar o projeto.
+
+127
+00:04:54,268 --> 00:04:55,808
+Então a gente gerencia o projeto por aqui.
+
+128
+00:04:56,188 --> 00:05:00,188
+Essas são as duas ferramentas fundamentais que nós vamos utilizar aqui
+
+129
+00:05:00,188 --> 00:05:01,968
+para construir esse projeto.
+
+130
+00:05:02,308 --> 00:05:05,848
+Só que elas não são as únicas, nós vamos utilizar outras ferramentas também.
+
+131
+00:05:06,248 --> 00:05:11,768
+Para poder criar o nosso Brand System, nós vamos precisar de um banco de dados.
+
+132
+00:05:12,108 --> 00:05:13,508
+Para que serve o banco de dados?
+
+133
+00:05:13,668 --> 00:05:16,608
+Para você armazenar as informações do seu Brand System.
+
+134
+00:05:16,928 --> 00:05:21,188
+E imagina que você quer colocar ali pessoas para acessar o Brand System
+
+135
+00:05:21,188 --> 00:05:22,488
+e subir mais informação.
+
+136
+00:05:22,488 --> 00:05:25,808
+Então, você criou para uma equipe, eles vão poder colocar novas diretrizes,
+
+137
+00:05:25,828 --> 00:05:29,908
+subir logo, imagem, PDF, se é que eles subam informações ali.
+
+138
+00:05:30,208 --> 00:05:32,488
+Nós precisamos dividir isso em duas partes.
+
+139
+00:05:32,828 --> 00:05:36,568
+Nós temos os dados, que em essência são textos,
+
+140
+00:05:36,588 --> 00:05:39,508
+e nós temos também o storage, que cuida de arquivos.
+
+141
+00:05:39,668 --> 00:05:42,728
+Então, nós vamos precisar de um lugar para armazenar dados
+
+142
+00:05:42,728 --> 00:05:45,908
+e vamos precisar de um lugar para armazenar arquivos.
+
+143
+00:05:46,028 --> 00:05:51,248
+Vamos supor que você subiu os arquivos de logo, PDF, cor, tipografia, imagens,
+
+144
+00:05:51,248 --> 00:05:53,968
+materiais para download dentro da sua plataforma.
+
+145
+00:05:54,268 --> 00:05:57,708
+Aí você vai usar aqui para armazenamento de arquivo.
+
+146
+00:05:57,928 --> 00:05:58,448
+Beleza?
+
+147
+00:05:58,508 --> 00:06:00,028
+Para isso a gente vai precisar de um storage.
+
+148
+00:06:00,528 --> 00:06:02,748
+Além disso, a gente vai precisar também
+
+149
+00:06:02,748 --> 00:06:05,988
+de um sistema de login e senha
+
+150
+00:06:05,988 --> 00:06:08,788
+para você autenticar os usuários que podem ter acesso.
+
+151
+00:06:09,108 --> 00:06:10,568
+A gente chama isso de autenticação.
+
+152
+00:06:10,908 --> 00:06:12,408
+A autenticação...
+
+153
+00:06:12,968 --> 00:06:16,388
+Opa, espera aí que o meu teclado está sem cedilha.
+
+154
+00:06:16,448 --> 00:06:17,228
+Vai sem cedilha mesmo.
+
+155
+00:06:17,408 --> 00:06:20,508
+A autenticação serve para você definir
+
+156
+00:06:20,508 --> 00:06:22,388
+quais são as permissões
+
+157
+00:06:22,388 --> 00:06:24,448
+que cada usuário tem. Então, imagina que você
+
+158
+00:06:24,448 --> 00:06:26,448
+tem um usuário admin, você tem um
+
+159
+00:06:26,448 --> 00:06:28,608
+usuário de staff, você tem
+
+160
+00:06:28,608 --> 00:06:31,028
+um usuário de gratuito,
+
+161
+00:06:31,728 --> 00:06:32,528
+cliente, né, sei lá.
+
+162
+00:06:33,248 --> 00:06:34,888
+E aí você quer dar permissão.
+
+163
+00:06:34,928 --> 00:06:36,568
+Esse aqui pode mexer em tudo,
+
+164
+00:06:36,668 --> 00:06:38,488
+ele tem todo o acesso aqui. Esse
+
+165
+00:06:38,488 --> 00:06:40,608
+aqui pode mexer na parte de arquivos.
+
+166
+00:06:40,728 --> 00:06:42,588
+Esse aqui só pode visualizar.
+
+167
+00:06:42,888 --> 00:06:44,388
+Você precisa autenticar
+
+168
+00:06:44,388 --> 00:06:46,088
+o tipo, o nível de
+
+169
+00:06:46,088 --> 00:06:48,508
+acesso do usuário. Para isso, a gente
+
+170
+00:06:48,508 --> 00:06:50,668
+a gente utiliza um sistema também de autenticação.
+
+171
+00:06:50,868 --> 00:06:53,908
+O sistema de autenticação, ele serve aqui, então,
+
+172
+00:06:54,048 --> 00:06:58,388
+para você autenticar os usuários e as permissões.
+
+173
+00:07:00,732 --> 00:07:02,112
+Quem pode, não pode ver o quê?
+
+174
+00:07:02,192 --> 00:07:04,832
+E também quem pode, não pode editar as coisas.
+
+175
+00:07:05,392 --> 00:07:08,232
+Aí é aqui que a gente coloca a tela de login, beleza?
+
+176
+00:07:08,792 --> 00:07:11,432
+Isso faz parte da nossa metodologia também.
+
+177
+00:07:11,532 --> 00:07:13,532
+Nós vamos precisar dessas ferramentas.
+
+178
+00:07:13,692 --> 00:07:16,892
+Nós vamos cuidar dessa parte só mais para frente,
+
+179
+00:07:16,992 --> 00:07:19,312
+no segundo dia, a gente vai cuidar disso aqui.
+
+180
+00:07:19,592 --> 00:07:22,392
+Para hoje, a gente vai focar principalmente em criar
+
+181
+00:07:22,392 --> 00:07:26,112
+a interface do sistema e o conteúdo que vai dentro dele, beleza?
+
+182
+00:07:26,352 --> 00:07:28,192
+Isso é a parte mais importante para hoje.
+
+183
+00:07:28,372 --> 00:07:29,992
+Mas isso aqui faz parte do ecossistema,
+
+184
+00:07:29,992 --> 00:07:31,052
+eu preciso passar para vocês.
+
+185
+00:07:31,312 --> 00:07:33,532
+Além disso, a gente vai precisar também
+
+186
+00:07:33,532 --> 00:07:36,132
+de um servidor de hospedagem.
+
+187
+00:07:36,572 --> 00:07:38,412
+Esse servidor de hospedagem
+
+188
+00:07:38,412 --> 00:07:41,512
+serve para nós colocarmos os arquivos do projeto.
+
+189
+00:07:42,052 --> 00:07:43,132
+Arquivos do projeto.
+
+190
+00:07:43,372 --> 00:07:45,912
+Só que diferente desses arquivos aqui,
+
+191
+00:07:46,172 --> 00:07:49,852
+esses são os arquivos para o funcionamento do projeto.
+
+192
+00:07:49,992 --> 00:07:51,592
+Eu vou chamar assim uma linguagem simples.
+
+193
+00:07:52,052 --> 00:07:53,952
+São os arquivos executáveis,
+
+194
+00:07:54,012 --> 00:07:56,312
+os arquivos de código, de interface.
+
+195
+00:07:56,732 --> 00:07:59,212
+A gente chama de arquivos de front e back-end.
+
+196
+00:07:59,212 --> 00:08:01,032
+de toda a stack do projeto,
+
+197
+00:08:01,292 --> 00:08:03,012
+que é o que faz o projeto rodar.
+
+198
+00:08:03,072 --> 00:08:05,352
+Isso tem que ficar dentro de um servidor de hospedagem,
+
+199
+00:08:05,452 --> 00:08:06,932
+porque nós queremos que isso rode
+
+200
+00:08:06,932 --> 00:08:08,512
+sete dias por semana,
+
+201
+00:08:08,672 --> 00:08:10,912
+24 horas por dia,
+
+202
+00:08:10,992 --> 00:08:13,232
+24 barra 7. Então, a gente precisa
+
+203
+00:08:13,232 --> 00:08:15,272
+de um servidor para colocar isso.
+
+204
+00:08:15,592 --> 00:08:17,172
+Tudo isso aqui, nós vamos
+
+205
+00:08:17,172 --> 00:08:18,852
+fazer hoje, nessa
+
+206
+00:08:19,492 --> 00:08:20,872
+trilha toda aqui do Atlas,
+
+207
+00:08:21,012 --> 00:08:22,292
+nós vamos fazer isso aqui
+
+208
+00:08:22,292 --> 00:08:24,412
+usando ferramentas
+
+209
+00:08:25,532 --> 00:08:27,012
+gratuitas. Então, você não vai
+
+210
+00:08:27,012 --> 00:08:28,872
+precisar pagar nada disso para começar.
+
+211
+00:08:29,332 --> 00:08:32,032
+Depois, à medida que o negócio vai evoluindo,
+
+212
+00:08:32,152 --> 00:08:36,412
+vocês vão precisar, às vezes, de uma assinatura com o seu cliente.
+
+213
+00:08:36,412 --> 00:08:39,052
+Eu vou falar mais sobre isso, principalmente amanhã,
+
+214
+00:08:39,052 --> 00:08:40,452
+que é quando a gente vai fazer essa parte.
+
+215
+00:08:40,752 --> 00:08:41,192
+Beleza?
+
+216
+00:08:41,492 --> 00:08:43,372
+Mas isso faz parte da metodologia.
+
+217
+00:08:44,332 --> 00:08:44,772
+Legal.
+
+218
+00:08:45,132 --> 00:08:47,692
+Nós temos aqui, então, as camadas tecnológicas.
+
+219
+00:08:47,752 --> 00:08:49,412
+Tem outras questões que eu vou falar depois,
+
+220
+00:08:49,612 --> 00:08:54,352
+de ShadCN, Storybook, Next,
+
+221
+00:08:54,952 --> 00:08:57,452
+que são coisas legais que vocês vão aprender aqui.
+
+222
+00:08:57,452 --> 00:09:00,292
+vocês vão precisar de paciência com vocês mesmos, tá?
+
+223
+00:09:00,432 --> 00:09:02,032
+Sejam pacientes com vocês mesmos.
+
+224
+00:09:02,092 --> 00:09:04,972
+Vocês estão entrando em um universo novo e está tudo bem.
+
+225
+00:09:05,172 --> 00:09:08,172
+Vamos com calma, vocês vão absorvendo isso aos poucos, tá bom?
+
+226
+00:09:08,592 --> 00:09:10,912
+Só que tem outra camada que eu preciso passar aqui,
+
+227
+00:09:10,952 --> 00:09:11,972
+que é a camada do conteúdo.
+
+228
+00:09:12,272 --> 00:09:14,872
+Isso também faz parte da metodologia que nós vamos seguir aqui.
+
+229
+00:09:15,172 --> 00:09:16,892
+O conteúdo que eu vou mostrar para vocês,
+
+230
+00:09:16,972 --> 00:09:19,852
+ele já foi validado ao longo dos últimos seis anos.
+
+231
+00:09:20,132 --> 00:09:23,172
+E eu quero que vocês prestem muita atenção nisso agora, tá?
+
+232
+00:09:23,492 --> 00:09:26,692
+Tem seis anos que eu dou aula de branding e design de marcas,
+
+233
+00:09:26,692 --> 00:09:29,072
+junto com outras coisas e outras tecnologias.
+
+234
+00:09:29,232 --> 00:09:32,372
+E ao longo desses seis anos, nós criamos uma metodologia própria,
+
+235
+00:09:33,052 --> 00:09:34,072
+que eu vou mostrar aqui para vocês.
+
+236
+00:09:34,372 --> 00:09:37,072
+Essa metodologia está dentro da nossa plataforma,
+
+237
+00:09:37,152 --> 00:09:39,872
+inclusive tem um curso que eu ensino ela em detalhes.
+
+238
+00:09:40,292 --> 00:09:41,972
+Aí você vem aqui em trilhas, olha só.
+
+239
+00:09:42,172 --> 00:09:45,032
+Eu tenho toda a metodologia aqui, Deep Zoom, Standout.
+
+240
+00:09:45,452 --> 00:09:49,572
+Isso aqui sou eu te ensinando como fazer design de marca.
+
+241
+00:09:49,772 --> 00:09:52,712
+E não só design de marca, mas gestão da marca também.
+
+242
+00:09:52,712 --> 00:09:57,892
+Bem, dentro desse processo aqui, tem uma metodologia passo a passo
+
+243
+00:09:57,892 --> 00:10:00,112
+para construir cada uma dessas camadas aqui.
+
+244
+00:10:00,172 --> 00:10:02,572
+Que são quais camadas? Para vocês entenderem.
+
+245
+00:10:02,612 --> 00:10:08,272
+A gente tem a camada de investigação do negócio, mercado e público.
+
+246
+00:10:08,692 --> 00:10:13,772
+A gente tem a camada de estratégia de marca, que é posicionamento.
+
+247
+00:10:16,132 --> 00:10:19,952
+Posicionamento, personas, diferenciais estratégicos.
+
+248
+00:10:22,396 --> 00:10:24,516
+e outras questões mais, mas a estratégia da marca.
+
+249
+00:10:24,656 --> 00:10:26,596
+A gente tem a parte de núcleo da marca,
+
+250
+00:10:26,696 --> 00:10:27,816
+que é o DNA da marca,
+
+251
+00:10:27,916 --> 00:10:30,016
+é aqui que entram as virtudes,
+
+252
+00:10:31,116 --> 00:10:32,216
+atributos, arquétipos de marca.
+
+253
+00:10:32,516 --> 00:10:34,276
+Sem nada disso, Juan, fica na paz,
+
+254
+00:10:34,376 --> 00:10:35,256
+não tem problema, tá?
+
+255
+00:10:35,416 --> 00:10:36,636
+Vou aumentar um pouquinho aqui.
+
+256
+00:10:41,628 --> 00:10:42,248
+Tá funcionando, não?
+
+257
+00:10:46,556 --> 00:10:47,716
+Ou eu estou aumentando errado, né?
+
+258
+00:10:49,020 --> 00:10:50,600
+Não vai ter aqui...
+
+259
+00:10:51,868 --> 00:10:56,928
+Então eu ia aumentar a entrelinha aqui, mas ele não aumentou.
+
+260
+00:10:57,028 --> 00:10:57,768
+Então vamos seguir.
+
+261
+00:10:57,848 --> 00:11:00,668
+Tem o núcleo da marca, depois a gente tem o universo verbal,
+
+262
+00:11:00,968 --> 00:11:03,068
+que eu vou explicar para vocês, e o universo visual.
+
+263
+00:11:03,668 --> 00:11:09,308
+Essa parte toda aqui é quando a gente prepara o conteúdo do nosso Design System.
+
+264
+00:11:09,868 --> 00:11:13,208
+Principalmente aqui, o que a gente chama de diretrizes da marca.
+
+265
+00:11:14,748 --> 00:11:17,148
+Eu vou mostrar isso no nosso Brand System para vocês, tá?
+
+266
+00:11:17,268 --> 00:11:18,748
+A gente vai mostrar aqui certinho.
+
+267
+00:11:19,148 --> 00:11:21,168
+Então, são as diretrizes da marca aqui.
+
+268
+00:11:21,588 --> 00:11:24,768
+Isso aqui nós vamos fazer logo na sequência aqui.
+
+269
+00:11:24,828 --> 00:11:26,828
+Na parte da tarde, eu vou mostrar para vocês
+
+270
+00:11:26,828 --> 00:11:29,468
+como que a gente define todas essas diretrizes.
+
+271
+00:11:29,888 --> 00:11:30,608
+Tá certo?
+
+272
+00:11:30,948 --> 00:11:33,708
+Então, hoje eu vou entregar para vocês
+
+273
+00:11:33,708 --> 00:11:36,168
+um passo a passo para fazer isso com o IA.
+
+274
+00:11:36,288 --> 00:11:38,768
+Mas se você quiser ter um entendimento disso,
+
+275
+00:11:39,068 --> 00:11:41,288
+eu quero só que você entenda de onde vem,
+
+276
+00:11:41,388 --> 00:11:42,448
+qual que é a procedência.
+
+277
+00:11:42,448 --> 00:11:45,688
+Isso já vem ao longo de seis anos ensinando isso aqui, tá?
+
+278
+00:11:45,788 --> 00:11:48,188
+Seis anos ensinando como construir marca.
+
+279
+00:11:48,408 --> 00:11:49,288
+E vai além, tá?
+
+280
+00:11:49,328 --> 00:11:52,248
+Tem aqui também a parte leal de cor, semiótica, enfim.
+
+281
+00:11:52,388 --> 00:11:53,508
+Tem muita coisa legal aqui.
+
+282
+00:11:53,608 --> 00:11:56,588
+Eu não vou entrar nesse tópico agora para vocês.
+
+283
+00:11:56,648 --> 00:11:58,888
+Depois a gente pode falar disso, mas é bem legal.
+
+284
+00:11:59,488 --> 00:11:59,888
+Guidelines.
+
+285
+00:12:00,008 --> 00:12:02,088
+Eu vou explorar isso aqui junto com vocês hoje, tá?
+
+286
+00:12:02,228 --> 00:12:04,968
+A gente vai falar disso em cada uma dessas camadas aqui.
+
+287
+00:12:05,168 --> 00:12:08,468
+Às vezes você não tem símbolo, logo, não definiu cor, não definiu tipografia.
+
+288
+00:12:08,548 --> 00:12:10,008
+Eu vou te dar um caminho poderoso aqui.
+
+289
+00:12:10,488 --> 00:12:12,708
+E a gente vai definir isso hoje de tarde.
+
+290
+00:12:13,348 --> 00:12:17,128
+Então, isso também faz parte da nossa metodologia.
+
+291
+00:12:17,768 --> 00:12:20,728
+Ou seja, qual é a visão geral do que a gente vai construir aqui?
+
+292
+00:12:20,988 --> 00:12:25,128
+A gente vai construir aqui, isso aqui é a parte de construção.
+
+293
+00:12:27,260 --> 00:12:29,080
+Isso aqui é a parte de infraestrutura.
+
+294
+00:12:32,124 --> 00:12:33,264
+Infraestrutura.
+
+295
+00:12:34,364 --> 00:12:36,524
+E isso aqui é a parte de diretrizes e conteúdo.
+
+296
+00:12:40,092 --> 00:12:44,752
+São essas três camadas que nós vamos trabalhar aqui ao longo de toda essa trilha.
+
+297
+00:12:45,172 --> 00:12:45,652
+Beleza?
+
+298
+00:12:45,672 --> 00:12:47,612
+É isso que a gente vai construir aqui juntos.
+

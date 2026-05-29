@@ -1,0 +1,2812 @@
+1
+00:00:00,000 --> 00:00:03,380
+Bom, galera, enquanto ele está fazendo aqui, eu vou contar para vocês sobre segurança, tá?
+
+2
+00:00:03,480 --> 00:00:04,760
+Então, presta muita atenção aqui.
+
+3
+00:00:07,068 --> 00:00:11,148
+Os maiores problemas, a primeira coisa que vocês têm que saber em relação à segurança, tá?
+
+4
+00:00:11,208 --> 00:00:13,108
+Isso eu aprendi com o Rafael.
+
+5
+00:00:14,492 --> 00:00:15,072
+É que...
+
+6
+00:00:16,540 --> 00:00:21,940
+O seu nível de segurança está ligado ao seu nível de liberdade.
+
+7
+00:00:23,676 --> 00:00:25,076
+Quanto mais seguro...
+
+8
+00:00:26,460 --> 00:00:27,600
+Você deixa um cofre?
+
+9
+00:00:29,084 --> 00:00:32,824
+Ele fica seguro tanto para quem está do lado de dentro, quanto para quem está do lado de fora.
+
+10
+00:00:33,624 --> 00:00:36,764
+Então, se você protege ele demais também, pode ser ruim.
+
+11
+00:00:37,404 --> 00:00:38,684
+Pode ser muito...
+
+12
+00:00:40,092 --> 00:00:40,632
+Moroso.
+
+13
+00:00:42,108 --> 00:00:45,508
+É igual quando você vai criar uma conta em rede social.
+
+14
+00:00:45,888 --> 00:00:48,948
+Aí não tem autenticação de dois fatores?
+
+15
+00:00:49,308 --> 00:00:50,628
+A maioria não ativa.
+
+16
+00:00:50,668 --> 00:00:52,088
+Eu recomendo que você ative.
+
+17
+00:00:52,468 --> 00:00:53,748
+Eu já vou explicar por quê.
+
+18
+00:00:54,488 --> 00:00:56,148
+Mas fica mais chato, né?
+
+19
+00:00:56,408 --> 00:00:59,008
+Você tem que logar, colocar senha,
+
+20
+00:00:59,048 --> 00:01:01,168
+depois pegar o código de autenticação,
+
+21
+00:01:01,708 --> 00:01:03,108
+colar lá, ficou mais chato.
+
+22
+00:01:03,208 --> 00:01:04,248
+Mas ficou mais seguro.
+
+23
+00:01:06,044 --> 00:01:10,724
+Acontece que, à medida que a tecnologia evolui, ela começa a ficar muito boa.
+
+24
+00:01:12,092 --> 00:01:12,992
+para poder quebrar.
+
+25
+00:01:14,236 --> 00:01:18,096
+senhas e travas. Por isso que a primeira dica que eu quero dar pra vocês
+
+26
+00:01:18,096 --> 00:01:20,976
+é a dica de criar um vaunt de senhas.
+
+27
+00:01:21,796 --> 00:01:25,536
+Isso aqui é pra vida, é pra vocês pessoalmente. Escutem esse meu conselho
+
+28
+00:01:25,536 --> 00:01:30,116
+porque as coisas vão ficar cada vez mais sérias em relação à segurança e eu vou mostrar
+
+29
+00:01:30,116 --> 00:01:31,036
+pra vocês o porquê.
+
+30
+00:01:32,284 --> 00:01:33,884
+Você usa a mesma senha para tudo?
+
+31
+00:01:36,508 --> 00:01:37,748
+tá aqui seu primeiro grande erro.
+
+32
+00:01:37,868 --> 00:01:38,588
+Já troca.
+
+33
+00:01:38,828 --> 00:01:40,568
+Cada serviço tem que ter uma senha.
+
+34
+00:01:40,788 --> 00:01:44,628
+E a sua senha tem que ser XY3, sei lá o quê, sei lá o quê.
+
+35
+00:01:44,648 --> 00:01:45,608
+Tem que ser senha difícil,
+
+36
+00:01:45,988 --> 00:01:47,728
+que você vai guardar na sua vault.
+
+37
+00:01:48,248 --> 00:01:49,508
+Tem que ser assim com tudo.
+
+38
+00:01:51,260 --> 00:01:54,320
+Só com as coisas que realmente são importantes.
+
+39
+00:01:54,540 --> 00:01:58,940
+Vamos supor que eu criei minha conta em um sistema,
+
+40
+00:02:00,080 --> 00:02:02,300
+um joguinho ou alguma coisa boba ali.
+
+41
+00:02:02,520 --> 00:02:05,420
+Eu boto uma senha fraca, porque vocês têm que sempre pensar
+
+42
+00:02:05,420 --> 00:02:06,620
+o que eu vou perder aqui dentro.
+
+43
+00:02:08,124 --> 00:02:09,184
+O que eu estou protegendo?
+
+44
+00:02:09,724 --> 00:02:13,564
+Pensa comigo, faz sentido você gastar 10 milhões de reais, imagine aí.
+
+45
+00:02:13,884 --> 00:02:15,724
+Só para vocês, eu vou exagerar aqui.
+
+46
+00:02:15,824 --> 00:02:18,844
+Para proteger uma coisa de 1 milhão de reais, faz sentido?
+
+47
+00:02:20,380 --> 00:02:23,680
+Eu vou gastar 10 milhões para proteger algo de 1 milhão.
+
+48
+00:02:23,720 --> 00:02:24,180
+Faz sentido?
+
+49
+00:02:25,852 --> 00:02:27,532
+Não, né? Não faz muito sentido.
+
+50
+00:02:29,116 --> 00:02:33,636
+Porque eu vou gastar mais para proteger do que se alguém me roubar ali e eu perder só um milhão.
+
+51
+00:02:34,276 --> 00:02:35,536
+O que significa, então?
+
+52
+00:02:35,656 --> 00:02:36,816
+A mesma coisa é aqui.
+
+53
+00:02:37,176 --> 00:02:39,616
+O que eu posso perder? O que eu estou protegendo?
+
+54
+00:02:39,776 --> 00:02:44,036
+Não precisa ficar na neura também, porque quando a gente fala de segurança,
+
+55
+00:02:44,116 --> 00:02:48,716
+vocês vão ver que segurança é uma casa de portas infinitas.
+
+56
+00:02:48,716 --> 00:02:49,756
+É isso que vocês têm que pensar.
+
+57
+00:02:49,956 --> 00:02:53,436
+Então, imagina que você está em uma casa com portas infinitas.
+
+58
+00:02:54,716 --> 00:02:55,716
+Tem muitas portas.
+
+59
+00:02:55,856 --> 00:02:59,876
+E essas portas levam para outros cômodos com mais portas.
+
+60
+00:02:59,896 --> 00:03:01,916
+Então imagina uma casa de portas infinitas aí.
+
+61
+00:03:02,056 --> 00:03:02,456
+Imagina.
+
+62
+00:03:03,016 --> 00:03:04,696
+Muitas portas e muitas portas.
+
+63
+00:03:05,136 --> 00:03:06,156
+Tá? Então tá isso.
+
+64
+00:03:06,196 --> 00:03:07,336
+A casa de portas infinitas.
+
+65
+00:03:07,556 --> 00:03:08,776
+O que significa isso?
+
+66
+00:03:09,376 --> 00:03:10,296
+Cada vez mais.
+
+67
+00:03:10,596 --> 00:03:13,536
+Você fecha uma porta, mas tem outras que você não fechou.
+
+68
+00:03:14,296 --> 00:03:14,896
+Muitas outras.
+
+69
+00:03:15,736 --> 00:03:17,736
+Se o cara é hacker mesmo, o cara for bom,
+
+70
+00:03:18,296 --> 00:03:21,476
+é muita porta que você tem que fechar para esse cara não conseguir entrar na sua casa.
+
+71
+00:03:21,756 --> 00:03:24,216
+Não é pouco? É muita, muita porta.
+
+72
+00:03:26,044 --> 00:03:29,784
+É igual, por exemplo, você tem sua casa aí, aí você coloca a câmera de segurança.
+
+73
+00:03:30,584 --> 00:03:32,564
+Beleza, isso é um nível de segurança da sua casa.
+
+74
+00:03:32,884 --> 00:03:35,524
+Colocou alarme, beleza, é outro nível de segurança.
+
+75
+00:03:36,224 --> 00:03:40,744
+Colocou um guarda para vigiar a sua casa, é outro nível de segurança.
+
+76
+00:03:40,964 --> 00:03:46,104
+Colocou um guarda para vigiar a sua casa com um fuzil, é outro nível de segurança.
+
+77
+00:03:46,744 --> 00:03:47,544
+Está entendendo?
+
+78
+00:03:50,748 --> 00:03:51,948
+Depende do que tem ali dentro.
+
+79
+00:03:52,088 --> 00:03:54,508
+Quanto mais protegido, mais valioso é o que tem dentro.
+
+80
+00:03:55,288 --> 00:03:55,608
+Concorda?
+
+81
+00:03:57,372 --> 00:03:58,912
+Então, leve isso em consideração.
+
+82
+00:03:59,512 --> 00:04:01,712
+Que desenho bonito, Juan, ele é um artista.
+
+83
+00:04:01,772 --> 00:04:02,392
+E no mouse.
+
+84
+00:04:05,340 --> 00:04:07,340
+Tudo fora de proporção aqui, quebrado.
+
+85
+00:04:09,244 --> 00:04:13,424
+Mas enfim, só para vocês terem uma ideia de segurança.
+
+86
+00:04:13,544 --> 00:04:14,984
+A mesma coisa é digitalmente.
+
+87
+00:04:15,304 --> 00:04:16,704
+Vocês vão trabalhar aqui.
+
+88
+00:04:17,524 --> 00:04:19,004
+Fecha uma porta, fecha outra, fecha outra.
+
+89
+00:04:19,224 --> 00:04:20,864
+Quanto mais vocês vão protegendo...
+
+90
+00:04:22,108 --> 00:04:23,348
+Tem que ter algo de valor ali dentro.
+
+91
+00:04:23,448 --> 00:04:24,788
+Então, vocês têm que fazer esse julgamento.
+
+92
+00:04:25,108 --> 00:04:26,888
+Mas, peguem então, senha de banco,
+
+93
+00:04:27,048 --> 00:04:28,308
+coloque uma senha segura.
+
+94
+00:04:28,708 --> 00:04:29,688
+Senha de rede social,
+
+95
+00:04:30,448 --> 00:04:31,868
+coloque uma senha segura.
+
+96
+00:04:31,928 --> 00:04:34,128
+E vai salvando essas senhas em uma VAUNT.
+
+97
+00:04:34,808 --> 00:04:36,108
+Vou recomendar aqui para vocês,
+
+98
+00:04:36,208 --> 00:04:36,888
+tem várias VAUNTS.
+
+99
+00:04:36,968 --> 00:04:38,488
+Vocês podem digitar assim no Google,
+
+100
+00:04:38,568 --> 00:04:39,568
+VAUNT é cofre, tá?
+
+101
+00:04:39,588 --> 00:04:40,288
+Cofre de senha.
+
+102
+00:04:40,368 --> 00:04:41,028
+Então, você digita aqui, ó,
+
+103
+00:04:41,848 --> 00:04:42,568
+Password VAUNT.
+
+104
+00:04:42,828 --> 00:04:44,248
+Vocês vão encontrar vários aqui.
+
+105
+00:04:44,368 --> 00:04:45,568
+Tem aqui, ó, One Password,
+
+106
+00:04:46,148 --> 00:04:46,508
+Proton.
+
+107
+00:04:47,048 --> 00:04:48,188
+Aqui tem Top 10.
+
+108
+00:04:48,568 --> 00:04:49,948
+E aí vão aparecer vários aqui.
+
+109
+00:04:50,188 --> 00:04:51,348
+Ó, Bitwarden.
+
+110
+00:04:51,348 --> 00:04:53,988
+tem vários aqui diferentes, qual que a gente usa
+
+111
+00:04:53,988 --> 00:04:55,508
+aqui na Overlens, tá até roxinho
+
+112
+00:04:55,508 --> 00:04:58,188
+Zorro Vault, Zorro é um sistema
+
+113
+00:04:59,228 --> 00:04:59,668
+indiano
+
+114
+00:04:59,668 --> 00:05:01,848
+é o Google da Índia, a Zorro
+
+115
+00:05:03,068 --> 00:05:04,308
+E nem é brincadeira não, tá?
+
+116
+00:05:04,388 --> 00:05:05,648
+Zorro é o Google da Índia.
+
+117
+00:05:06,028 --> 00:05:08,048
+E a gente usa algumas soluções da Zorro,
+
+118
+00:05:08,128 --> 00:05:10,268
+e aqui a gente usa o Zorro Vault.
+
+119
+00:05:10,608 --> 00:05:11,848
+Mas você pode baixar,
+
+120
+00:05:11,848 --> 00:05:13,928
+você conecta ele no seu telefone também,
+
+121
+00:05:14,068 --> 00:05:15,688
+tem vários, tem o do Google,
+
+122
+00:05:15,928 --> 00:05:17,508
+enfim, você salva suas senhas aí.
+
+123
+00:05:18,684 --> 00:05:20,644
+Beleza? Isso, tipo o Google Passwords.
+
+124
+00:05:21,044 --> 00:05:21,524
+Exatamente.
+
+125
+00:05:22,064 --> 00:05:24,584
+E aí, você guarda suas senhas lá.
+
+126
+00:05:24,804 --> 00:05:26,144
+Sua senha mestre,
+
+127
+00:05:26,844 --> 00:05:28,644
+que é a senha que abre esse cofre de senhas,
+
+128
+00:05:29,344 --> 00:05:31,444
+você não deixa ela no seu computador ali.
+
+129
+00:05:31,684 --> 00:05:34,184
+Ah, vou deixar um TXT aqui na minha área de trabalho.
+
+130
+00:05:34,564 --> 00:05:37,284
+Se alguém hackear, a pessoa tem a chave
+
+131
+00:05:37,284 --> 00:05:39,644
+que abre todas as portas.
+
+132
+00:05:39,664 --> 00:05:42,124
+Que é a chave que dá acesso a todas as chaves.
+
+133
+00:05:42,664 --> 00:05:43,624
+Vocês estão entendendo?
+
+134
+00:05:44,184 --> 00:05:45,264
+Então, é um risco.
+
+135
+00:05:45,324 --> 00:05:47,384
+Essa senha, geralmente, ela fica fora.
+
+136
+00:05:47,384 --> 00:05:49,084
+Ah, vou anotar num caderninho.
+
+137
+00:05:49,124 --> 00:05:51,224
+Tem um risco também, alguém pode ler seu caderno.
+
+138
+00:05:51,404 --> 00:05:54,244
+Mas pelo menos é alguém no mundo real, não no mundo digital.
+
+139
+00:05:54,964 --> 00:05:58,364
+Ou então você pode fazer uma senha que é difícil, mas você sempre lembra.
+
+140
+00:05:58,424 --> 00:05:59,784
+Que fica só na sua cabeça.
+
+141
+00:06:00,084 --> 00:06:03,524
+Aí você tem que guardar uma senha, ela é difícil, mas você tem que guardar ela.
+
+142
+00:06:03,724 --> 00:06:05,404
+E todas as outras ficam na Vault.
+
+143
+00:06:06,124 --> 00:06:09,204
+Precisou, você abre a Vault, copia a senha e cola na hora de logar.
+
+144
+00:06:09,604 --> 00:06:09,984
+Pronto.
+
+145
+00:06:10,604 --> 00:06:11,564
+Zorro é gratuito.
+
+146
+00:06:12,828 --> 00:06:14,988
+Esse é o primeiro conselho que eu tenho para vocês.
+
+147
+00:06:16,892 --> 00:06:18,332
+Simples, né? Mas importante.
+
+148
+00:06:18,772 --> 00:06:21,372
+Eu já vou mostrar o que está acontecendo no mundo.
+
+149
+00:06:21,832 --> 00:06:24,852
+E tem duas coisas que vocês precisam se preocupar
+
+150
+00:06:24,852 --> 00:06:25,772
+quando a gente fala de segurança.
+
+151
+00:06:26,092 --> 00:06:26,832
+E há...
+
+152
+00:06:30,044 --> 00:06:30,984
+Computação quântica.
+
+153
+00:06:33,116 --> 00:06:34,856
+São as duas coisas que vocês precisam se preocupar.
+
+154
+00:06:34,956 --> 00:06:37,156
+Estão aqui na fronteira da tecnologia, as duas.
+
+155
+00:06:37,976 --> 00:06:40,996
+E se novas inovações forem chegando,
+
+156
+00:06:41,076 --> 00:06:43,636
+isso aqui significa uma grande mudança
+
+157
+00:06:43,636 --> 00:06:46,396
+na forma como a gente trata dados e cuida de segurança.
+
+158
+00:06:46,936 --> 00:06:48,436
+Eu vou mostrar isso aqui na prática,
+
+159
+00:06:48,476 --> 00:06:52,276
+inclusive um anúncio que a Anthropic fez,
+
+160
+00:06:53,916 --> 00:06:55,436
+do Claude Mythos,
+
+161
+00:06:55,516 --> 00:06:57,656
+e criou um projeto chamado Glasswing,
+
+162
+00:06:57,836 --> 00:06:58,776
+asas de vidro,
+
+163
+00:06:58,776 --> 00:07:02,976
+que ela se conectou com grandes empresas do mundo todo
+
+164
+00:07:02,976 --> 00:07:05,016
+para poder criar...
+
+165
+00:07:06,620 --> 00:07:08,400
+protocolos e sistemas
+
+166
+00:07:08,400 --> 00:07:10,560
+mais seguros. Porque a nova
+
+167
+00:07:10,560 --> 00:07:12,300
+IADA Antropic que eles não lançaram,
+
+168
+00:07:12,360 --> 00:07:13,560
+que é o Cloud Mythos,
+
+169
+00:07:14,540 --> 00:07:16,940
+conseguiu encontrar falhas e erros gravíssimos
+
+170
+00:07:16,940 --> 00:07:18,520
+que às vezes não eram encontrados há mais de
+
+171
+00:07:18,520 --> 00:07:20,560
+20 anos por seres humanos. Erros
+
+172
+00:07:20,560 --> 00:07:22,560
+que a gente chama de Zero Day. É um erro que
+
+173
+00:07:22,560 --> 00:07:24,040
+ninguém havia
+
+174
+00:07:24,860 --> 00:07:26,520
+descoberto esse erro antes. O dia
+
+175
+00:07:26,520 --> 00:07:27,640
+zero foi quando
+
+176
+00:07:27,640 --> 00:07:30,720
+o Cloud Mythos identificou
+
+177
+00:07:30,720 --> 00:07:30,840
+ele.
+
+178
+00:07:32,668 --> 00:07:34,368
+Então, olha só.
+
+179
+00:07:35,996 --> 00:07:36,796
+Esse primeiro passo.
+
+180
+00:07:37,016 --> 00:07:38,596
+Só que a gente pode ir além, porque agora
+
+181
+00:07:39,396 --> 00:07:40,736
+vocês estão entrando
+
+182
+00:07:40,736 --> 00:07:42,416
+num terreno
+
+183
+00:07:42,416 --> 00:07:43,756
+mais aberto.
+
+184
+00:07:44,796 --> 00:07:47,756
+Vocês estão saindo aqui da piscininha aqui, ó.
+
+185
+00:07:48,736 --> 00:07:52,296
+Tô aqui na minha piscininha aqui dentro de casa e vocês estão entrando no oceano.
+
+186
+00:07:54,428 --> 00:07:56,148
+Tem a parte boa e a parte ruim disso.
+
+187
+00:07:56,328 --> 00:07:57,808
+Vocês estão em liberdade.
+
+188
+00:07:59,484 --> 00:08:01,244
+Tá aqui, ó, tô aqui com o meu barquinho bonitinho.
+
+189
+00:08:01,244 --> 00:08:02,404
+Nossa, esse barquinho ficou grande.
+
+190
+00:08:02,604 --> 00:08:03,844
+Tô aqui com o meu barquinho bonitinho.
+
+191
+00:08:05,436 --> 00:08:08,436
+navegando aqui, só que eu estou no oceano, eu não estou mais na piscininha.
+
+192
+00:08:09,136 --> 00:08:12,496
+A piscininha é segura, o oceano é cheio de perigos,
+
+193
+00:08:12,536 --> 00:08:14,236
+só que o oceano te dá a liberdade.
+
+194
+00:08:15,676 --> 00:08:19,096
+Quando eu falo que você pode fazer qualquer coisa com o Cloud aqui no Antigravity,
+
+195
+00:08:19,116 --> 00:08:23,036
+é que você pode qualquer coisa que um computador é conectado,
+
+196
+00:08:23,056 --> 00:08:25,316
+você pode usar o Cloud para te ajudar nisso.
+
+197
+00:08:25,656 --> 00:08:26,416
+Qualquer coisa.
+
+198
+00:08:27,612 --> 00:08:30,112
+Mas isso significa também que você está à solta.
+
+199
+00:08:30,432 --> 00:08:32,132
+Você não está mais ali nos limites.
+
+200
+00:08:32,712 --> 00:08:34,952
+Então você não tem o que a gente chama de guardrails.
+
+201
+00:08:35,952 --> 00:08:41,792
+Ainda tem os guardrails do anti-gravity, guardrails da antropic, mas ainda assim é menos.
+
+202
+00:08:42,052 --> 00:08:43,672
+Que são as travas de segurança.
+
+203
+00:08:44,312 --> 00:08:46,692
+Você não tem aqui a rodinha da bicicleta.
+
+204
+00:08:48,828 --> 00:08:49,768
+Você está navegando em alto mar.
+
+205
+00:08:50,408 --> 00:08:54,048
+Isso significa que as suas atitudes podem te colocar em risco ou não.
+
+206
+00:08:54,428 --> 00:09:00,848
+Por exemplo, se você pega o arquivo Envy e sobe ele para o GitHub,
+
+207
+00:09:02,588 --> 00:09:04,268
+Já era, você tem que recomeçar o projeto.
+
+208
+00:09:04,488 --> 00:09:07,428
+Pelo menos, você tem que recomeçar o repositório no GitHub.
+
+209
+00:09:08,168 --> 00:09:09,708
+Porque ele versionou isso aqui.
+
+210
+00:09:09,908 --> 00:09:11,148
+Ah, mas eu já tirei de lá.
+
+211
+00:09:11,248 --> 00:09:13,028
+Não importa, você fez commit disso.
+
+212
+00:09:13,448 --> 00:09:15,748
+Está lá, está versionado lá no commit.
+
+213
+00:09:16,168 --> 00:09:18,208
+O momento que o Envy foi disponibilizado.
+
+214
+00:09:18,548 --> 00:09:23,148
+Aí aqui estão lá, suas chaves API, estão lá suas senhas.
+
+215
+00:09:24,108 --> 00:09:24,548
+Vacilo.
+
+216
+00:09:24,988 --> 00:09:27,288
+Qual que é o melhor jeito de trabalhar variável de ambiente?
+
+217
+00:09:27,688 --> 00:09:29,488
+Melhor jeito de trabalhar com variável de ambiente
+
+218
+00:09:29,488 --> 00:09:33,028
+é trabalhar com sistemas como o InPhysical.
+
+219
+00:09:33,568 --> 00:09:36,028
+Não vai dar para eu ensinar vocês InPhysical agora,
+
+220
+00:09:36,088 --> 00:09:38,608
+quem entrou na vanguarda já tem aula lá de InPhysical,
+
+221
+00:09:38,608 --> 00:09:40,448
+que vocês vão poder assistir quando vocês quiserem,
+
+222
+00:09:40,528 --> 00:09:43,708
+mas basicamente, quando você cria uma conta na InPhysical,
+
+223
+00:09:43,708 --> 00:09:45,828
+você conecta a InPhysical na CLI,
+
+224
+00:09:45,848 --> 00:09:47,928
+vocês podem pedir a IA para explicar para vocês também,
+
+225
+00:09:48,008 --> 00:09:48,708
+e ela explica, tá?
+
+226
+00:09:50,268 --> 00:09:51,408
+Honey Tokens.
+
+227
+00:09:52,708 --> 00:09:54,368
+Interessante. Gostei da imagem, inclusive.
+
+228
+00:09:54,428 --> 00:09:55,908
+Vou até tirar um print aqui que eu gostei.
+
+229
+00:09:56,448 --> 00:09:58,388
+Olha só, eu tenho dois projetos aqui
+
+230
+00:09:58,388 --> 00:10:00,328
+no meu Inphysical. Quando você
+
+231
+00:10:00,328 --> 00:10:02,348
+cria um novo projeto aqui, vamos lá, vamos supor
+
+232
+00:10:02,348 --> 00:10:03,888
+que eu estivesse criando o projeto do Brand System.
+
+233
+00:10:05,436 --> 00:10:07,316
+E aí ele aqui é para gerenciar segredos.
+
+234
+00:10:07,336 --> 00:10:09,936
+Você vai subir todas as suas chaves de API aqui.
+
+235
+00:10:10,516 --> 00:10:13,196
+Então você clica aqui, olha, adicionar segredo,
+
+236
+00:10:13,196 --> 00:10:14,776
+e você vai colar a chave aqui.
+
+237
+00:10:15,296 --> 00:10:16,996
+Nome da chave e o valor da chave.
+
+238
+00:10:17,056 --> 00:10:18,136
+Então você vai colocar aqui, por exemplo,
+
+239
+00:10:20,216 --> 00:10:20,976
+OpenAI, API.
+
+240
+00:10:22,716 --> 00:10:24,896
+Esse é o nome da chave. E aqui você vai colocar o valor.
+
+241
+00:10:24,976 --> 00:10:26,676
+É como se fosse isso aqui, lembra que tem aqui
+
+242
+00:10:26,676 --> 00:10:28,916
+o env local? Aí eu tenho aqui
+
+243
+00:10:29,376 --> 00:10:30,536
+super base service
+
+244
+00:10:30,536 --> 00:10:32,796
+holy key. Eu vou copiar isso aqui,
+
+245
+00:10:32,896 --> 00:10:34,716
+vou colar, que tem que ser do mesmo jeito.
+
+246
+00:10:35,416 --> 00:10:37,056
+E vou pegar aqui o valor
+
+247
+00:10:37,056 --> 00:10:38,936
+e vou colar em valor.
+
+248
+00:10:39,176 --> 00:10:40,856
+E vou salvar essa chave aqui.
+
+249
+00:10:41,776 --> 00:10:42,936
+Pronto, ela está salva.
+
+250
+00:10:43,036 --> 00:10:45,196
+Vou fazer isso com todas as minhas chaves.
+
+251
+00:10:45,296 --> 00:10:46,956
+E depois eu conecto em physical
+
+252
+00:10:46,956 --> 00:10:47,956
+no meu projeto.
+
+253
+00:10:48,656 --> 00:10:49,596
+Vantagem de fazer isso.
+
+254
+00:10:50,940 --> 00:10:52,640
+você protege suas variáveis de ambiente.
+
+255
+00:10:53,120 --> 00:10:55,140
+Dois, se você mudar de um dispositivo
+
+256
+00:10:55,140 --> 00:10:56,540
+para o outro, você não precisa
+
+257
+00:10:56,960 --> 00:10:58,780
+reconectar as chaves de ambientes tudo de novo.
+
+258
+00:10:58,900 --> 00:11:00,140
+É só você fazer login
+
+259
+00:11:00,980 --> 00:11:02,440
+no fazer o terminal
+
+260
+00:11:02,440 --> 00:11:04,800
+logar no seu InPhysical. Ele puxa
+
+261
+00:11:04,800 --> 00:11:06,880
+as variáveis de lá. O seu projeto puxa
+
+262
+00:11:06,880 --> 00:11:08,600
+as variáveis de lá. Entendeu?
+
+263
+00:11:09,980 --> 00:11:12,300
+Então, esse aqui é um processo seguro.
+
+264
+00:11:12,860 --> 00:11:16,240
+E aí eu já mostrei um pouquinho aqui como vocês podem fazer com a Zenviva.
+
+265
+00:11:16,340 --> 00:11:17,720
+Que já ajuda vocês.
+
+266
+00:11:18,140 --> 00:11:20,100
+Só que vocês têm que tomar cuidado em dobro.
+
+267
+00:11:20,340 --> 00:11:23,320
+Porque se esse projeto, se o arquivo tiver sido criado aqui,
+
+268
+00:11:23,440 --> 00:11:26,780
+e ele tiver sido exposto a IA, pode acontecer de vazar mesmo assim.
+
+269
+00:11:28,060 --> 00:11:31,260
+Então, existem processos que você pode utilizar
+
+270
+00:11:31,260 --> 00:11:36,200
+para poder fazer varredura de falhas de segurança.
+
+271
+00:11:36,660 --> 00:11:38,780
+Inclusive, vocês podem começar desse jeito aqui, olha.
+
+272
+00:11:39,080 --> 00:11:42,760
+Como fazer varredura de falhas de segurança
+
+273
+00:11:43,400 --> 00:11:46,640
+no meu repositório usando o Cloud.
+
+274
+00:11:47,380 --> 00:11:49,360
+Tem skills que fazem isso para vocês
+
+275
+00:11:49,360 --> 00:11:51,680
+e tem programas que fazem isso por vocês também.
+
+276
+00:11:52,460 --> 00:11:55,300
+Aqui ele tem, olha, use o comando Security Review.
+
+277
+00:11:55,560 --> 00:11:57,260
+Então, o Cloud já vem com esse comando,
+
+278
+00:11:57,260 --> 00:11:59,180
+você pode rodar ele, é um primeiro passo
+
+279
+00:11:59,180 --> 00:12:00,960
+bom, fazer uma varredura no projeto
+
+280
+00:12:00,960 --> 00:12:02,400
+além disso também
+
+281
+00:12:02,400 --> 00:12:04,740
+você pode utilizar aqui, olha
+
+282
+00:12:04,740 --> 00:12:06,060
+GitHub Actions
+
+283
+00:12:06,060 --> 00:12:09,020
+pra automatizar esse processo, sempre que você vai
+
+284
+00:12:09,020 --> 00:12:10,560
+trabalhando ali com versionamentos
+
+285
+00:12:10,560 --> 00:12:12,960
+mais do que isso também, tem outros
+
+286
+00:12:12,960 --> 00:12:14,880
+tem o, eu não lembro se é
+
+287
+00:12:14,880 --> 00:12:16,640
+Truff ou se é Trust
+
+288
+00:12:16,640 --> 00:12:17,460
+Hog
+
+289
+00:12:22,844 --> 00:12:23,624
+Ou truffle, né?
+
+290
+00:12:23,884 --> 00:12:24,864
+Truffle, truffle, acho.
+
+291
+00:12:25,024 --> 00:12:25,284
+Truffle.
+
+292
+00:12:27,196 --> 00:12:30,156
+Truffle, truff, como é que escreve truffle?
+
+293
+00:12:30,336 --> 00:12:31,516
+Truffle Hog.
+
+294
+00:12:34,012 --> 00:12:35,272
+Aí, Truffle Security.
+
+295
+00:12:35,752 --> 00:12:37,792
+Então, tem esse repositório aqui, Truffle Hog,
+
+296
+00:12:37,972 --> 00:12:41,192
+que você também consegue rodar aqui no projeto,
+
+297
+00:12:41,352 --> 00:12:43,272
+para ele escanear, só que esse é mais chatinho de fazer.
+
+298
+00:12:43,712 --> 00:12:45,992
+Mas ele escaneia tudo, inclusive os commits,
+
+299
+00:12:46,632 --> 00:12:48,152
+para ver se tem problemas lá.
+
+300
+00:12:48,572 --> 00:12:49,952
+Não vou passar isso aqui agora.
+
+301
+00:12:50,412 --> 00:12:51,412
+Não tem nem como.
+
+302
+00:12:51,552 --> 00:12:53,852
+Nem se a gente sonhasse, a gente acabaria isso aqui hoje.
+
+303
+00:12:55,172 --> 00:12:57,492
+Então, é outro ponto importante para vocês.
+
+304
+00:12:57,632 --> 00:12:58,992
+O Rafael mandou o link aí já para vocês.
+
+305
+00:12:59,092 --> 00:12:59,892
+Truffle Security.
+
+306
+00:13:00,872 --> 00:13:01,552
+Truffle Hog.
+
+307
+00:13:01,552 --> 00:13:04,252
+Então, esse é um outro cuidado que vocês precisam ter.
+
+308
+00:13:05,072 --> 00:13:09,432
+Mais do que isso também, não conte vantagens porque você faz vibe coding.
+
+309
+00:13:09,972 --> 00:13:13,532
+Porque é como se você fosse uma gazelinha na savana.
+
+310
+00:13:14,844 --> 00:13:18,124
+Aí você tá lá na Salvana, todo saltitante, fofinho lá, ó.
+
+311
+00:13:19,324 --> 00:13:21,464
+eu sou vibecoder, eu tô feliz
+
+312
+00:13:21,464 --> 00:13:23,624
+aqui, e aí os hackers
+
+313
+00:13:23,624 --> 00:13:24,864
+leões ali, ó
+
+314
+00:13:25,344 --> 00:13:26,384
+eles tão de olho
+
+315
+00:13:27,740 --> 00:13:28,720
+prontos pra poder
+
+316
+00:13:29,260 --> 00:13:31,360
+pegar as gazelinhas indefesas
+
+317
+00:13:31,360 --> 00:13:33,400
+que ficam contando vantagem.
+
+318
+00:13:33,500 --> 00:13:34,500
+Inclusive isso aconteceu.
+
+319
+00:13:35,460 --> 00:13:37,040
+Teve um cara que falou assim,
+
+320
+00:13:37,560 --> 00:13:38,660
+mais ou menos assim,
+
+321
+00:13:38,800 --> 00:13:41,080
+acabou pros devs, terminei
+
+322
+00:13:41,080 --> 00:13:43,160
+meu projeto todo aqui e nem sou
+
+323
+00:13:43,680 --> 00:13:45,120
+desenvolvedor. E contou
+
+324
+00:13:45,120 --> 00:13:47,280
+vantagem lá. Os devs se juntaram
+
+325
+00:13:47,280 --> 00:13:49,100
+no post desse cara. Alguém tem
+
+326
+00:13:49,100 --> 00:13:50,660
+esse link aí? Esse link é bom pra caramba.
+
+327
+00:13:50,960 --> 00:13:53,060
+Esse link é bom. Os devs
+
+328
+00:13:53,060 --> 00:13:54,200
+se juntaram no post do cara.
+
+329
+00:13:54,420 --> 00:13:56,460
+Um dos primeiros comentários
+
+330
+00:13:56,460 --> 00:13:58,400
+lá o cara já fala, acabei de ver
+
+331
+00:13:58,400 --> 00:14:00,420
+que você vazou sua envy, tem acesso
+
+332
+00:14:00,420 --> 00:14:02,040
+aqui a todas as suas variáveis e tal
+
+333
+00:14:02,040 --> 00:14:04,380
+aí começou a galera a trazer um monte de erro, um monte
+
+334
+00:14:04,380 --> 00:14:06,120
+de falha ali, infinito
+
+335
+00:14:06,120 --> 00:14:07,940
+em cima do cara, né
+
+336
+00:14:07,940 --> 00:14:10,260
+deixar o cara quietinho, falar, fala que não precisa
+
+337
+00:14:10,260 --> 00:14:12,300
+de dev mais aí, toma aí seu remédio
+
+338
+00:14:13,436 --> 00:14:15,176
+Então tem que tomar cuidado.
+
+339
+00:14:16,572 --> 00:14:17,472
+Tem que tomar cuidado também.
+
+340
+00:14:17,692 --> 00:14:19,552
+À medida que o projeto cresce mais,
+
+341
+00:14:19,812 --> 00:14:21,792
+vocês vão precisar tomar cuidado também com...
+
+342
+00:14:23,004 --> 00:14:23,404
+A lei.
+
+343
+00:14:26,844 --> 00:14:29,524
+Lei, galera. Lei geral de propriedade de dados.
+
+344
+00:14:30,084 --> 00:14:35,084
+Você está todo feliz ali, pegando e-mail de cliente, senha de cliente, CPF.
+
+345
+00:14:35,184 --> 00:14:38,044
+Ah, já que eu estou pegando os dados, eu vou pegar tudo.
+
+346
+00:14:38,484 --> 00:14:44,484
+Não, pega tudo. Eu quero endereço, eu quero cartão de crédito.
+
+347
+00:14:44,504 --> 00:14:46,424
+Não, cartão de crédito as pessoas têm mais medo, né?
+
+348
+00:14:46,424 --> 00:14:51,364
+Mas pega lá e-mail, senha, CPF. Vai pegando tudo aqui do cliente.
+
+349
+00:14:51,544 --> 00:14:52,164
+O que acontece?
+
+350
+00:14:53,948 --> 00:14:54,848
+Seu projeto vaza.
+
+351
+00:14:54,928 --> 00:14:57,528
+Hum, projeto vazou.
+
+352
+00:14:58,876 --> 00:15:01,296
+Quando o projeto vazou, vazou os dados do seu cliente.
+
+353
+00:15:04,316 --> 00:15:06,056
+Quem é responsável por isso? Você.
+
+354
+00:15:08,604 --> 00:15:10,224
+Ah, mas é só se o projeto vazar, né?
+
+355
+00:15:10,304 --> 00:15:10,544
+Não.
+
+356
+00:15:11,204 --> 00:15:12,504
+Imagina que você tem um concorrente...
+
+357
+00:15:14,908 --> 00:15:16,028
+E o seu concorrente...
+
+358
+00:15:17,436 --> 00:15:19,656
+vai competir com você de maneira maliciosa.
+
+359
+00:15:20,416 --> 00:15:21,736
+E ele te denuncia.
+
+360
+00:15:26,044 --> 00:15:31,084
+E a denúncia dele fala, esse projeto não está conforme a Lei Geral de Propriedade de Dados.
+
+361
+00:15:31,184 --> 00:15:33,184
+Aí tu recebe multa.
+
+362
+00:15:34,184 --> 00:15:34,664
+Multa.
+
+363
+00:15:35,836 --> 00:15:36,556
+Recebe a multa.
+
+364
+00:15:38,748 --> 00:15:40,408
+que pode chegar em valores bem altos, inclusive.
+
+365
+00:15:42,172 --> 00:15:44,732
+Porque você não seguiu a Lei Geral de Propriedade de Dados.
+
+366
+00:15:45,312 --> 00:15:46,372
+Dica para vocês aqui.
+
+367
+00:15:46,532 --> 00:15:47,972
+Primeiro, lei da parcimônia.
+
+368
+00:15:49,276 --> 00:15:51,516
+Você só pega o que você precisa naquele momento.
+
+369
+00:15:51,776 --> 00:15:53,656
+Não precisa de outros dados? Não pega.
+
+370
+00:15:54,236 --> 00:15:56,096
+Precisa de CPF agora? Não precisa agora.
+
+371
+00:15:56,176 --> 00:15:56,796
+Então não pega agora.
+
+372
+00:15:57,036 --> 00:15:58,136
+Precisa de endereço agora? Não precisa agora.
+
+373
+00:15:58,176 --> 00:15:58,676
+Então não pega agora.
+
+374
+00:16:00,156 --> 00:16:01,776
+Precisa de telefone agora? Não precisa agora.
+
+375
+00:16:01,816 --> 00:16:02,596
+Então não pega agora.
+
+376
+00:16:03,676 --> 00:16:06,596
+Gerencia os acessos e o que você precisa em cada momento.
+
+377
+00:16:07,416 --> 00:16:09,496
+Quanto mais dados você tem que gerenciar,
+
+378
+00:16:09,536 --> 00:16:13,056
+mais sensível é se vazarem esses dados
+
+379
+00:16:13,056 --> 00:16:14,096
+e você perder o que está fazendo.
+
+380
+00:16:17,244 --> 00:16:17,644
+Beleza?
+
+381
+00:16:18,972 --> 00:16:20,392
+Eu falei propriedade intelectual?
+
+382
+00:16:22,268 --> 00:16:23,948
+Se eu falei, eu queria falar propriedade de dados, tá?
+
+383
+00:16:23,988 --> 00:16:25,148
+Não tem nada a ver uma coisa com a outra.
+
+384
+00:16:25,788 --> 00:16:27,428
+Não sei, eu vi no comentário aí, eu falei, né?
+
+385
+00:16:27,668 --> 00:16:29,528
+Será que eu falei? Às vezes é o cérebro bugando aqui.
+
+386
+00:16:30,428 --> 00:16:33,228
+Mas, então, tem que tomar cuidado com a lei geral de propriedade de dados.
+
+387
+00:16:34,492 --> 00:16:36,192
+com os dados que vocês pegam dos clientes.
+
+388
+00:16:38,172 --> 00:16:40,992
+Para fechar, mais uma dica para vocês de segurança.
+
+389
+00:16:41,032 --> 00:16:42,892
+Isso tudo aqui dá para aprofundar, tá galera?
+
+390
+00:16:43,092 --> 00:16:44,392
+Mas a gente não vai fazer isso aqui agora.
+
+391
+00:16:45,092 --> 00:16:47,252
+Eu quero que vocês pensem sobre...
+
+392
+00:16:48,832 --> 00:16:49,632
+Sobre terceirização.
+
+393
+00:16:52,852 --> 00:16:53,812
+terceirização de...
+
+394
+00:16:53,812 --> 00:16:55,192
+Eu vou chamar mais de seguro.
+
+395
+00:16:55,972 --> 00:16:57,052
+Seguro de serviço.
+
+396
+00:16:57,472 --> 00:16:59,252
+Não é exatamente esse o termo,
+
+397
+00:16:59,252 --> 00:17:00,892
+mas eu quero que vocês pensem assim.
+
+398
+00:17:02,332 --> 00:17:06,472
+Você pode delegar a responsabilidade.
+
+399
+00:17:07,676 --> 00:17:11,216
+dos dados e de processos para outras empresas.
+
+400
+00:17:11,536 --> 00:17:13,656
+Então vamos supor que você criou sua empresa aqui,
+
+401
+00:17:14,656 --> 00:17:15,116
+seu sistema,
+
+402
+00:17:15,296 --> 00:17:17,456
+e aí você quer adicionar um meio de pagamento.
+
+403
+00:17:17,896 --> 00:17:18,896
+Coloca a Stripe.
+
+404
+00:17:19,536 --> 00:17:23,036
+Todos os dados do cliente vão ser geridos dentro da Stripe.
+
+405
+00:17:23,076 --> 00:17:26,496
+Se acontecer algum vazamento, algum erro na Stripe,
+
+406
+00:17:26,516 --> 00:17:30,556
+quem é responsável por esse vazamento é a Stripe.
+
+407
+00:17:31,964 --> 00:17:33,244
+Vai trabalhar com o Supabase.
+
+408
+00:17:33,244 --> 00:17:35,224
+Se o vazamento que aconteceu no Supabase
+
+409
+00:17:35,224 --> 00:17:36,764
+for culpa do Supabase,
+
+410
+00:17:37,484 --> 00:17:38,404
+a responsabilidade é dele.
+
+411
+00:17:38,644 --> 00:17:40,504
+Agora, se o vazamento foi culpa sua,
+
+412
+00:17:40,704 --> 00:17:41,904
+a responsabilidade é sua.
+
+413
+00:17:42,764 --> 00:17:44,284
+Tem que levar isso em consideração.
+
+414
+00:17:44,604 --> 00:17:47,744
+Então, você pode também buscar esses seguros.
+
+415
+00:17:48,044 --> 00:17:50,604
+Então, eu não quero cuidar desses dados dos clientes.
+
+416
+00:17:50,604 --> 00:17:53,524
+Eu vou deixar essa responsabilidade com outra empresa.
+
+417
+00:17:54,104 --> 00:17:55,444
+E aí, eu só conecto aqui.
+
+418
+00:17:56,732 --> 00:18:01,292
+Então, isso é uma outra prática comum, principalmente com meios de pagamento, cartão de crédito,
+
+419
+00:18:01,912 --> 00:18:04,372
+geralmente existem camadas de abstração nisso aqui.
+
+420
+00:18:05,884 --> 00:18:06,284
+Beleza?
+
+421
+00:18:09,308 --> 00:18:11,428
+Então, pessoal, tem que tomar cuidado.
+
+422
+00:18:11,948 --> 00:18:13,868
+É muito bom, é divertido.
+
+423
+00:18:14,768 --> 00:18:16,088
+Pensem que é um martelo, tá?
+
+424
+00:18:16,248 --> 00:18:19,688
+Eu trouxe aqui, ó, para criar uma memória visual para vocês.
+
+425
+00:18:21,980 --> 00:18:24,540
+Um martelo pode ser utilizado para construir.
+
+426
+00:18:26,524 --> 00:18:26,844
+Ou...
+
+427
+00:18:28,252 --> 00:18:28,672
+Para matar.
+
+428
+00:18:29,532 --> 00:18:30,632
+É uma ferramenta.
+
+429
+00:18:31,432 --> 00:18:32,112
+É poderosa.
+
+430
+00:18:32,912 --> 00:18:33,852
+Imagina uma faca.
+
+431
+00:18:34,092 --> 00:18:37,072
+Pode ser usada para cortar ou para matar, para machucar.
+
+432
+00:18:37,092 --> 00:18:40,172
+Um carro para se locomover, mas também pode ser usado como arma.
+
+433
+00:18:41,052 --> 00:18:42,692
+A Iá também é uma ferramenta.
+
+434
+00:18:42,712 --> 00:18:43,952
+Pode ser usada para o bem ou para o mal.
+
+435
+00:18:44,232 --> 00:18:47,972
+E aí, para poder trazer aqui o último ponto para você, do nada, né Lucas?
+
+436
+00:18:48,092 --> 00:18:48,452
+Do nada.
+
+437
+00:18:48,632 --> 00:18:51,452
+É porque, na verdade, esse martelo já está aqui na minha mesa tem um tempão.
+
+438
+00:18:51,572 --> 00:18:53,512
+Porque eu estava colocando aquele quadro ali atrás.
+
+439
+00:18:54,552 --> 00:18:55,492
+E aí ficou aqui.
+
+440
+00:18:55,632 --> 00:18:57,192
+Aí eu pegando de referência para vocês.
+
+441
+00:18:58,252 --> 00:19:00,632
+Do nada o bicho pega o martelo e fala que vai matar, né?
+
+442
+00:19:00,872 --> 00:19:02,392
+Já faz o meme aí, ó.
+
+443
+00:19:04,124 --> 00:19:04,544
+hahaha
+
+444
+00:19:06,812 --> 00:19:12,412
+Então, o ponto é que agora eu quero mostrar para vocês a base disso,
+
+445
+00:19:12,612 --> 00:19:15,292
+para vocês realmente ficarem atentos.
+
+446
+00:19:15,872 --> 00:19:20,452
+A Anthropic lançou, há algumas semanas atrás, o Project Glasswing.
+
+447
+00:19:20,632 --> 00:19:23,652
+Então, vamos pesquisar aqui, Project Glasswing.
+
+448
+00:19:24,392 --> 00:19:25,572
+Opa, é com G.
+
+449
+00:19:26,252 --> 00:19:28,732
+E eu vou entrar aqui no link.
+
+450
+00:19:29,012 --> 00:19:30,072
+Vou entrar no link aqui.
+
+451
+00:19:31,452 --> 00:19:32,592
+e vou mandar o link para vocês.
+
+452
+00:19:33,592 --> 00:19:35,232
+Será que ele terminou aqui o nosso projeto?
+
+453
+00:19:35,452 --> 00:19:36,232
+Parece que sim, hein?
+
+454
+00:19:36,752 --> 00:19:38,992
+Depois a gente vai ver, mas vamos só fechar o raciocínio.
+
+455
+00:19:39,672 --> 00:19:40,812
+Toma aqui o link para vocês,
+
+456
+00:19:42,012 --> 00:19:43,712
+guardem esse link aí para vocês acessarem,
+
+457
+00:19:44,172 --> 00:19:45,772
+eu vou até travar o chat um pouquinho.
+
+458
+00:19:46,432 --> 00:19:47,392
+Guardem esse link aqui,
+
+459
+00:19:47,492 --> 00:19:49,292
+e vocês vão guardar esse aqui também, ó,
+
+460
+00:19:49,392 --> 00:19:51,372
+AI 2027.
+
+461
+00:19:54,908 --> 00:19:57,948
+Leia isso aqui num dia que vocês estiverem de boa, pra ansiedade não atacar, tá?
+
+462
+00:19:58,088 --> 00:19:58,848
+Tô falando sério.
+
+463
+00:20:00,700 --> 00:20:02,740
+Esse aqui é diferenciado.
+
+464
+00:20:03,180 --> 00:20:08,900
+Isso aqui é uma pesquisa que mostra, é especulativo, totalmente especulativo,
+
+465
+00:20:09,460 --> 00:20:11,980
+mas baseado em dados e em extrapolação de dados.
+
+466
+00:20:12,340 --> 00:20:15,540
+Então mostra o quanto que a IA vai evoluir, principalmente aqui em hacking,
+
+467
+00:20:15,760 --> 00:20:19,840
+armas biológicas, código, robótica, política e pesquisa.
+
+468
+00:20:20,600 --> 00:20:21,680
+Então mostra aqui.
+
+469
+00:20:21,880 --> 00:20:26,940
+E aí tem a tese aqui que fala que até o meio do ano que vem,
+
+470
+00:20:26,940 --> 00:20:28,880
+a IA vai alcançar aqui
+
+471
+00:20:29,580 --> 00:20:31,020
+até o final do ano que vem na verdade
+
+472
+00:20:31,020 --> 00:20:32,980
+a IA vai alcançar nível sobre
+
+473
+00:20:32,980 --> 00:20:33,400
+humano
+
+474
+00:20:35,784 --> 00:20:39,204
+exponencial, segundo esse relatório aqui, no final do ano que vem.
+
+475
+00:20:41,500 --> 00:20:42,780
+Vai ser exatamente assim, Juan?
+
+476
+00:20:43,100 --> 00:20:46,240
+Não sei, eu não prevejo futuro, a gente não tem bola de cristal.
+
+477
+00:20:46,380 --> 00:20:48,600
+Mas essa pesquisa rodou o mundo todo,
+
+478
+00:20:49,160 --> 00:20:51,780
+ela tem sim seus pontos fortes e seus pontos fracos,
+
+479
+00:20:51,840 --> 00:20:54,900
+mas ela é baseada em dados aqui,
+
+480
+00:20:54,980 --> 00:20:58,500
+em metodologia científica de forecast e previsão.
+
+481
+00:20:59,772 --> 00:21:01,432
+Então, guarda aí para vocês verem depois, tá?
+
+482
+00:21:01,652 --> 00:21:03,032
+Mas vamos ver aqui o Glasswing.
+
+483
+00:21:03,412 --> 00:21:04,652
+Dá só uma olhada nisso aqui.
+
+484
+00:21:05,732 --> 00:21:06,472
+Traduzir para vocês.
+
+485
+00:21:09,212 --> 00:21:12,652
+Hoje estamos anunciando o projeto GlassWing, a asa de vidro.
+
+486
+00:21:12,892 --> 00:21:17,912
+Uma nova iniciativa que reúne Amazon, Web Services, que é a AWS,
+
+487
+00:21:18,732 --> 00:21:22,272
+é uma das empresas de infraestrutura, uma das maiores do mundo de cloud,
+
+488
+00:21:22,392 --> 00:21:26,712
+eu acho que é a maior do mundo de cloud, acho que ela tem mais de 30%, é um monopólio.
+
+489
+00:21:27,292 --> 00:21:33,532
+Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JP Morgan, Linux Foundation,
+
+490
+00:21:33,972 --> 00:21:37,092
+Microsoft, NVIDIA e Palo Alto Networks.
+
+491
+00:21:37,092 --> 00:21:38,652
+isso aqui foi quando eles anunciaram
+
+492
+00:21:38,652 --> 00:21:40,932
+várias empresas entraram nessa iniciativa
+
+493
+00:21:40,932 --> 00:21:42,772
+aqui também, empresas gigantes, bancos
+
+494
+00:21:43,492 --> 00:21:44,412
+JP Morgan
+
+495
+00:21:44,412 --> 00:21:45,672
+um dos maiores bancos do mundo
+
+496
+00:21:46,780 --> 00:21:51,940
+Galera, quando empresas desse tamanho falam, não, peraí, a gente tem que trabalhar junto, senão vai dar merda.
+
+497
+00:21:53,564 --> 00:21:54,524
+já é para prestar atenção,
+
+498
+00:21:54,704 --> 00:21:58,104
+em um esforço para proteger os softwares mais críticos do mundo.
+
+499
+00:21:59,356 --> 00:21:59,836
+Presta atenção.
+
+500
+00:22:00,416 --> 00:22:04,416
+Criamos o projeto Aço de Vidro devido às capacidades que observamos
+
+501
+00:22:04,416 --> 00:22:06,796
+em um novo modelo de vanguarda treinado pela Anthropic,
+
+502
+00:22:06,936 --> 00:22:10,116
+que acreditamos ter o potencial de remodelar a cibersegurança.
+
+503
+00:22:10,456 --> 00:22:15,036
+O Cloud Mythos Preview é um modelo de vanguarda de propósito geral,
+
+504
+00:22:15,176 --> 00:22:16,756
+ainda não lançado.
+
+505
+00:22:16,816 --> 00:22:19,936
+Ele já foi lançado, só que ele só foi lançado para algumas empresas,
+
+506
+00:22:20,036 --> 00:22:21,016
+não foi lançado para o público.
+
+507
+00:22:21,236 --> 00:22:23,536
+Que revela um fato incontestável.
+
+508
+00:22:23,696 --> 00:22:27,596
+Os modelos de A atingiram um nível de capacidade de programação
+
+509
+00:22:27,596 --> 00:22:30,976
+que lhes permite superar quase todos os humanos,
+
+510
+00:22:31,196 --> 00:22:33,336
+exceto os mais habilidosos,
+
+511
+00:22:33,336 --> 00:22:36,996
+na detecção e exploração de vulnerabilidades de software.
+
+512
+00:22:39,420 --> 00:22:43,640
+Isso aqui, olha, não é o Opus, é outro modelo, é o Mythos, tá?
+
+513
+00:22:44,360 --> 00:22:45,240
+Olha o nome dele.
+
+514
+00:22:45,260 --> 00:22:50,380
+A galera até fala assim, ó, é Claude falando do Mythos e colocou aquele vilão lá do...
+
+515
+00:22:52,636 --> 00:22:54,296
+Como é que é o vilão do... Esqueci o nome dele.
+
+516
+00:22:54,856 --> 00:22:55,496
+Shen... Shen...
+
+517
+00:22:56,636 --> 00:22:57,756
+Elan do Kung Fu Panda
+
+518
+00:23:01,148 --> 00:23:04,948
+Só que tem a cena que ele tá preso com a pena.
+
+519
+00:23:05,708 --> 00:23:07,668
+Aí fala, Anthropic falando do Claude.
+
+520
+00:23:07,688 --> 00:23:08,488
+A galera zoando, né?
+
+521
+00:23:08,548 --> 00:23:09,848
+Falando, ah, não deve ser tudo isso.
+
+522
+00:23:11,036 --> 00:23:11,416
+Mas é.
+
+523
+00:23:11,996 --> 00:23:16,876
+O Cloud Mythos Preview já encontrou milhares de vulnerabilidades de alta gravidade,
+
+524
+00:23:16,876 --> 00:23:20,636
+incluindo algumas em todos os principais sistemas operacionais e navegadores da web.
+
+525
+00:23:20,816 --> 00:23:24,896
+Tem um detalhe aqui, porque ele foi colocado no ambiente certo,
+
+526
+00:23:24,956 --> 00:23:27,436
+não foi jogado de qualquer jeito, foi bem instruído.
+
+527
+00:23:27,596 --> 00:23:30,576
+Tem uma série de questões aqui que eu não vou entrar a fundo agora,
+
+528
+00:23:30,816 --> 00:23:33,296
+mas ainda assim não tira relevância disso aqui.
+
+529
+00:23:35,164 --> 00:23:40,644
+Dado o ritmo acelerado de progresso da IA, não demorará muito para que tais capacidades se proliferem,
+
+530
+00:23:40,744 --> 00:23:45,524
+potencialmente além do alcance de agentes comprometidos com sua implementação segura.
+
+531
+00:23:45,604 --> 00:23:52,644
+As consequências para as economias, a segurança pública e a segurança nacional podem ser graves.
+
+532
+00:23:54,748 --> 00:23:55,928
+Deixa eu beber sua mágoa aqui.
+
+533
+00:24:05,756 --> 00:24:13,136
+O projeto Glasswing é uma tentativa urgente de colocar essas capacidades a serviço de fins defensivos.
+
+534
+00:24:15,100 --> 00:24:18,780
+Como parte do projeto Glasswing, os parceiros de lançamento listados acima
+
+535
+00:24:18,780 --> 00:24:21,680
+usarão o Mythos Preview em seus trabalhos de segurança.
+
+536
+00:24:22,100 --> 00:24:27,000
+A Ancropic compartilhará o que aprendemos para que todo o setor possa se beneficiar.
+
+537
+00:24:27,180 --> 00:24:30,840
+Também ampliamos o acesso a um grupo de mais de 40 organizações adicionais
+
+538
+00:24:30,840 --> 00:24:33,300
+que desenvolvem ou mantêm infraestrutura.
+
+539
+00:24:34,460 --> 00:24:39,860
+A Anthropic está comprometendo 100 milhões em crédito de uso para o Mythos Preview nesses esforços,
+
+540
+00:24:39,880 --> 00:24:44,440
+além de 4 milhões de doações diretas para organizações de segurança de código aberto.
+
+541
+00:24:47,132 --> 00:24:52,552
+Beleza, é o ponto de partida, nenhuma organização sozinha consegue, mas eu quero mostrar aqui o que ele já encontrou, tá?
+
+542
+00:24:54,876 --> 00:24:59,836
+Já vimos graves consequências de ciberataques para importantes redes corporativas, sistemas de saúde,
+
+543
+00:24:59,996 --> 00:25:05,916
+infraestrutura energética, centros de transporte e segurança da informação de agências governamentais em todo o mundo.
+
+544
+00:25:06,156 --> 00:25:08,036
+Lembra também do governo dos Estados Unidos?
+
+545
+00:25:08,796 --> 00:25:13,036
+Bravo, porque a Antropoc não queria que o cloud fosse usado para fins de guerra.
+
+546
+00:25:13,316 --> 00:25:14,836
+E foi usado mesmo assim.
+
+547
+00:25:15,096 --> 00:25:19,476
+No cenário global, ataques patrocinados por estados como China, Irã, Coreia e Rússia
+
+548
+00:25:19,476 --> 00:25:23,976
+ameaçam comprometer a infraestrutura que sustenta tanto a vida civil quanto a prontidão militar.
+
+549
+00:25:23,976 --> 00:25:34,216
+muitas falhas passam despercebidas por anos, porque encontrá-las e explorá-las exigia conhecimento especializado detidos apenas por alguns poucos especialistas em segurança.
+
+550
+00:25:35,772 --> 00:25:40,172
+Os mais recentes modelos de A de ponta, o custo, o esforço e o nível de especialização
+
+551
+00:25:40,172 --> 00:25:44,812
+necessários para encontrar e explorar vulnerabilidades de software diminuíram drasticamente.
+
+552
+00:25:45,092 --> 00:25:50,752
+Ao longo do último ano, os modelos de A se tornaram mais eficazes na leitura e no raciocínio
+
+553
+00:25:50,752 --> 00:25:51,312
+sobre código.
+
+554
+00:25:51,412 --> 00:25:57,392
+Em particular, demonstram uma capacidade impressionante de identificar vulnerabilidades e descobrir
+
+555
+00:25:57,392 --> 00:25:58,812
+maneiras de explorá-las.
+
+556
+00:25:59,032 --> 00:26:02,592
+O Claude Mythos demonstra um salto nessas habilidades cibernéticas.
+
+557
+00:26:02,592 --> 00:26:11,252
+As vulnerabilidades que ele identificou, em alguns casos, sobreviveram a décadas de revisão humana e milhões de testes de segurança automatizados.
+
+558
+00:26:11,332 --> 00:26:15,332
+E os exploits que ele desenvolve são cada vez mais sofisticados.
+
+559
+00:26:15,972 --> 00:26:16,852
+Olha isso aqui.
+
+560
+00:26:17,512 --> 00:26:26,492
+Dez anos após o primeiro desafio cibernético do DARPA, os modelos de ad ponto estão se tornando competitivos com os melhores humanos na detecção e exploração de vulnerabilidades.
+
+561
+00:26:26,492 --> 00:26:35,372
+Sem as salvaguardas necessárias, essas poderosas capacidades cibernéticas poderão ser usadas para explorar as inúmeras falhas existentes em softwares mais importantes do mundo.
+
+562
+00:26:35,632 --> 00:26:37,652
+Aí aqui vem os problemas, olha isso aqui ó.
+
+563
+00:26:41,028 --> 00:26:41,868
+deixa eu aqui
+
+564
+00:26:41,868 --> 00:26:44,548
+o Mythos descobriu uma vulnerabilidade
+
+565
+00:26:44,548 --> 00:26:46,768
+de 27 anos no OpenBSD
+
+566
+00:26:46,768 --> 00:26:48,748
+que tem a reputação de ser
+
+567
+00:26:48,748 --> 00:26:50,728
+um dos sistemas operacionais mais robustos
+
+568
+00:26:50,728 --> 00:26:51,848
+do mundo em termos de segurança
+
+569
+00:26:51,848 --> 00:26:54,808
+e é usado para executar firewalls e infraestruturas
+
+570
+00:26:54,808 --> 00:26:55,288
+críticas
+
+571
+00:26:56,796 --> 00:27:01,436
+A ferramenta também descobriu uma vulnerabilidade de 16 anos no FFmpeg.
+
+572
+00:27:02,136 --> 00:27:05,536
+Muitos de vocês devem usar FFmpeg nos projetos que vocês criam.
+
+573
+00:27:05,576 --> 00:27:06,536
+A gente usa aqui no Overhands.
+
+574
+00:27:06,976 --> 00:27:10,576
+Usado por inúmeros softwares para codificar e decodificar vídeo.
+
+575
+00:27:10,816 --> 00:27:13,816
+Em uma linha de código que as ferramentas de testes automatizados
+
+576
+00:27:13,816 --> 00:27:16,856
+haviam testado 5 milhões de vezes sem nunca detectar problema.
+
+577
+00:27:17,156 --> 00:27:21,956
+O modelo encontrou e conectou autonomamente diversas vulnerabilidades no kernel do Linux.
+
+578
+00:27:22,256 --> 00:27:24,816
+O kernel é a proteção abaixo do terminal.
+
+579
+00:27:24,816 --> 00:27:26,856
+A proteção do seu sistema.
+
+580
+00:27:28,348 --> 00:27:28,828
+Ou seja,
+
+581
+00:27:30,556 --> 00:27:33,776
+As IAs estão ficando muito boas, tanto para poder criar sistemas,
+
+582
+00:27:33,996 --> 00:27:36,296
+quanto para poder encontrar vulnerabilidades em sistemas.
+
+583
+00:27:38,876 --> 00:27:42,696
+Também é a mesma coisa para servidor, também é a mesma coisa para bancos de dados.
+
+584
+00:27:43,876 --> 00:27:47,376
+Então, o que a gente tem que prestar atenção para fechar esse raciocínio aqui agora?
+
+585
+00:27:48,956 --> 00:27:51,336
+Ao mesmo tempo, é isso aqui que é crítico, tá?
+
+586
+00:27:52,732 --> 00:27:53,192
+Pega aqui, ó.
+
+587
+00:27:53,832 --> 00:27:54,672
+Ao mesmo tempo.
+
+588
+00:27:56,092 --> 00:27:56,812
+As IAs estão.
+
+589
+00:27:58,396 --> 00:28:00,136
+Aumentando a capacidade delas aqui.
+
+590
+00:28:03,464 --> 00:28:04,544
+Capacidade das IAs.
+
+591
+00:28:05,204 --> 00:28:07,644
+Ao mesmo tempo que a capacidade das IAs está subindo,
+
+592
+00:28:08,404 --> 00:28:10,604
+tem um outro gráfico que a gente tem que cruzar com esse.
+
+593
+00:28:11,004 --> 00:28:11,904
+Deixa eu maior aqui.
+
+594
+00:28:14,396 --> 00:28:17,756
+que é o gráfico de quantidade de pessoas
+
+595
+00:28:17,756 --> 00:28:19,696
+que começaram a criar seus próprios sistemas.
+
+596
+00:28:20,696 --> 00:28:21,496
+Nós vamos colocar aqui.
+
+597
+00:28:22,196 --> 00:28:26,616
+Novos sistemas vulneráveis entrando no mercado.
+
+598
+00:28:27,096 --> 00:28:28,436
+O que isso aqui significa?
+
+599
+00:28:39,516 --> 00:28:40,956
+Do mal, né? Porque tem hackers do bem.
+
+600
+00:28:43,452 --> 00:28:46,952
+Ou seja, ao mesmo tempo que a IA está ficando mais poderosa,
+
+601
+00:28:47,412 --> 00:28:50,512
+tem mais pessoas lançando sistemas vulneráveis no mercado.
+
+602
+00:28:51,012 --> 00:28:54,012
+Porque agora, cada vez mais, a galera está usando lovable,
+
+603
+00:28:54,252 --> 00:28:55,872
+está usando bolts, está usando essas coisas,
+
+604
+00:28:55,912 --> 00:28:57,652
+criando seus próprios sistemas ali do jeito errado.
+
+605
+00:28:58,012 --> 00:28:59,552
+Isso aqui é um prato cheio.
+
+606
+00:29:00,924 --> 00:29:01,724
+Não à toa.
+
+607
+00:29:03,324 --> 00:29:06,064
+Uma tendência crescente é a de cyber-ataques.
+
+608
+00:29:08,144 --> 00:29:10,584
+Recentemente, houveram ciberataques, inclusive em grandes empresas.
+
+609
+00:29:10,684 --> 00:29:12,064
+Se eu não me engano, me ajuda aqui, Rafael,
+
+610
+00:29:12,204 --> 00:29:14,604
+eu vou liberar o chat aqui de novo, para vocês agora.
+
+611
+00:29:14,964 --> 00:29:18,204
+Mas a gente teve Vercel, né, recentemente.
+
+612
+00:29:20,028 --> 00:29:22,128
+Qual que é aquele site que a gente consegue ver...
+
+613
+00:29:23,516 --> 00:29:24,796
+É legal passar isso pra galera também.
+
+614
+00:29:25,256 --> 00:29:27,136
+Teve a Lovable também, que teve ataque.
+
+615
+00:29:27,656 --> 00:29:29,536
+Mas tem um site que a gente até
+
+616
+00:29:29,536 --> 00:29:31,676
+mandou pra vocês, eu só não tô lembrando o nome dele agora.
+
+617
+00:29:32,396 --> 00:29:33,656
+Tem um site que a gente consegue
+
+618
+00:29:33,656 --> 00:29:35,756
+ver as últimas falhas
+
+619
+00:29:35,756 --> 00:29:37,236
+de segurança pra gente acompanhar.
+
+620
+00:29:38,684 --> 00:29:39,464
+Tem que pesquisar aqui.
+
+621
+00:29:39,764 --> 00:29:42,384
+Site para ver falhas de...
+
+622
+00:29:42,384 --> 00:29:43,864
+Ver e acompanhar.
+
+623
+00:29:43,964 --> 00:29:47,724
+Site para ver e acompanhar falhas de segurança.
+
+624
+00:29:49,340 --> 00:29:50,060
+Orjetos.
+
+625
+00:29:51,644 --> 00:29:52,104
+globais.
+
+626
+00:29:54,844 --> 00:29:55,704
+Deixa eu ver aqui se...
+
+627
+00:29:57,340 --> 00:29:58,000
+Ah, esse aqui mesmo.
+
+628
+00:29:58,660 --> 00:29:59,320
+Esse aqui mesmo.
+
+629
+00:30:00,764 --> 00:30:02,424
+Olha, ele é NIST também. Interessante.
+
+630
+00:30:04,028 --> 00:30:14,108
+Esse site aqui, ele é bem feinho, mas ele comunica também atualizações, olha, atualizações recentes, 2026, de falhas de segurança.
+
+631
+00:30:14,428 --> 00:30:18,448
+Então vocês podem se atualizar por ele, pedir para a IAS atualizar a partir dele também.
+
+632
+00:30:20,124 --> 00:30:22,204
+Beleza? Vou mandar aí pra vocês.
+
+633
+00:30:22,424 --> 00:30:22,804
+Nist.
+
+634
+00:30:25,916 --> 00:30:27,836
+Deixa eu ver aqui, ele está trazendo outro CVE.
+
+635
+00:30:29,564 --> 00:30:32,044
+Esse aqui é outro também, que identifica vulnerabilidades,
+
+636
+00:30:32,404 --> 00:30:33,724
+que dá para acompanhar também.
+
+637
+00:30:34,164 --> 00:30:37,044
+Às vezes um programa que você usa, uma ferramenta que você usa.
+
+638
+00:30:37,164 --> 00:30:39,724
+Tem também como verificar se o seu e-mail foi vazado.
+
+639
+00:30:40,164 --> 00:30:41,564
+Só que tem que tomar cuidado, tá?
+
+640
+00:30:43,196 --> 00:30:44,936
+que a galera é muito safada.
+
+641
+00:30:47,612 --> 00:30:53,672
+Como verificar se tenho dados meus vazados em algum e-mail?
+
+642
+00:30:53,892 --> 00:30:55,052
+Porque o que a galera faz?
+
+643
+00:30:55,152 --> 00:30:57,912
+Eu crio um site que fala, eu vou identificar se o seu dado foi vazado.
+
+644
+00:30:57,912 --> 00:30:58,752
+Coloca o seu e-mail aqui.
+
+645
+00:30:58,872 --> 00:31:03,132
+Aí você coloca o seu e-mail e aí ele foi vazado.
+
+646
+00:31:03,812 --> 00:31:04,172
+Ali.
+
+647
+00:31:05,132 --> 00:31:06,352
+Na hora que você colocou.
+
+648
+00:31:06,452 --> 00:31:08,852
+Na hora de ver se ele foi vazado, ele foi vazado.
+
+649
+00:31:09,152 --> 00:31:09,512
+Entendeu?
+
+650
+00:31:09,872 --> 00:31:11,512
+Mas eu vou pegar esse aqui, Have I Been.
+
+651
+00:31:12,332 --> 00:31:13,452
+Nunca consegui ler isso aqui direito.
+
+652
+00:31:15,452 --> 00:31:17,252
+Mas esse site é legal, vou mandar aí para vocês também.
+
+653
+00:31:20,796 --> 00:31:23,756
+E aí vocês podem checar aqui, né, se o e-mail de vocês foi vazado.
+
+654
+00:31:23,756 --> 00:31:25,236
+Vou pegar um e-mail lixo meu aqui.
+
+655
+00:31:27,516 --> 00:31:28,196
+Acho que nem é isso.
+
+656
+00:31:29,884 --> 00:31:31,944
+Aí denunciou a idade, né?
+
+657
+00:31:32,024 --> 00:31:33,104
+Ó, 7.
+
+658
+00:31:33,684 --> 00:31:35,404
+Sem meio aqui, meio antigo meu.
+
+659
+00:31:35,524 --> 00:31:36,324
+Mas olha que interessante.
+
+660
+00:31:37,244 --> 00:31:38,144
+Abril de 2025.
+
+661
+00:31:39,740 --> 00:31:40,580
+Novembro de 2020
+
+662
+00:31:42,876 --> 00:31:43,856
+Outubro de 2020
+
+663
+00:31:46,556 --> 00:31:52,296
+Dezembro de 2018, olha aí, Armor Games, cara, isso aqui vazou, eu lembro desse vazamento nessa época, cara.
+
+664
+00:31:54,236 --> 00:31:58,676
+Nessa época aqui, quando vazou a Armor Games, eu comecei a receber um tanto de e-mail de hacker.
+
+665
+00:32:00,732 --> 00:32:02,672
+D20, rodando D20 aqui.
+
+666
+00:32:02,732 --> 00:32:04,372
+Geralmente esses de jogo aqui, pô.
+
+667
+00:32:06,140 --> 00:32:10,340
+500 pixels, ó, quantas vezes vazou dados meus e senha, tá, ó?
+
+668
+00:32:10,620 --> 00:32:12,200
+Dados comprometidos, e-mail sem.
+
+669
+00:32:12,480 --> 00:32:16,920
+Vocês podem colocar aí do e-mail de vocês também, mandei aí o link pra vocês.
+
+670
+00:32:21,276 --> 00:32:22,536
+Está com vaga na mesa aí, Ed?
+
+671
+00:32:24,676 --> 00:32:27,476
+Então olha quantos dados vazados nesse meu e-mail aqui.
+
+672
+00:32:31,644 --> 00:32:33,684
+Nem vou colocar que vai me dar um nervoso.
+
+673
+00:32:36,188 --> 00:32:36,368
+Obrigado.
+
+674
+00:32:37,756 --> 00:32:39,636
+ai galera, mas é isso aí né
+
+675
+00:32:40,156 --> 00:32:41,756
+dito isso, tem que ficar atento
+
+676
+00:32:41,756 --> 00:32:43,276
+não é só sair fazendo as coisas
+
+677
+00:32:43,716 --> 00:32:45,576
+não é só sair falando
+
+678
+00:32:45,576 --> 00:32:47,836
+ah, tô felizinho, agora eu faço o que eu quiser
+
+679
+00:32:48,576 --> 00:32:49,696
+uhul, vou ser feliz
+
+680
+00:32:50,776 --> 00:32:51,676
+tem que ficar de olho
+
+681
+00:32:51,676 --> 00:32:53,676
+a gente tá entrando em mais uma
+
+682
+00:32:53,676 --> 00:32:54,996
+era aí de muito cyber ataque
+
+683
+00:32:55,536 --> 00:32:57,516
+e eu gosto, eu me sinto responsável
+
+684
+00:32:57,516 --> 00:32:59,616
+por trazer isso pra vocês, poucas pessoas
+
+685
+00:32:59,616 --> 00:33:01,636
+falam disso, tá, você vai ver a galera falando
+
+686
+00:33:01,636 --> 00:33:04,036
+aí de vibe coding, tentando te vender um sonho
+
+687
+00:33:04,036 --> 00:33:05,336
+falando, fique rico agora
+
+688
+00:33:05,336 --> 00:33:07,256
+você vai ficar milionário, cria o seu SaaS
+
+689
+00:33:07,256 --> 00:33:09,336
+vai dar tudo certo, fazendo aí
+
+690
+00:33:09,336 --> 00:33:11,576
+20 mil por mês em uma semana
+
+691
+00:33:11,576 --> 00:33:13,456
+cria o seu GPT-6
+
+692
+00:33:13,456 --> 00:33:15,656
+né, o Cloude lá, cria o GPT-6
+
+693
+00:33:15,656 --> 00:33:16,676
+pra mim, sem erros
+
+694
+00:33:16,676 --> 00:33:18,816
+galera tá só no papinho bom
+
+695
+00:33:18,816 --> 00:33:21,016
+mas eu não vejo a galera falar aqui sobre segurança
+
+696
+00:33:21,016 --> 00:33:23,536
+e é uma coisa que, pelo menos a base
+
+697
+00:33:23,536 --> 00:33:25,276
+eu tenho que dar pra vocês e com
+
+698
+00:33:25,276 --> 00:33:27,076
+mais tempo eu quero trazer mais desse conteúdo
+
+699
+00:33:27,076 --> 00:33:29,236
+pra vocês também, então prestem muita
+
+700
+00:33:29,236 --> 00:33:31,576
+atenção nesses detalhes
+
+701
+00:33:31,576 --> 00:33:33,216
+é bom, é poderoso
+
+702
+00:33:33,216 --> 00:33:35,256
+pode mudar a vida de vocês, mas não é
+
+703
+00:33:35,256 --> 00:33:36,096
+brincadeira, beleza?
+

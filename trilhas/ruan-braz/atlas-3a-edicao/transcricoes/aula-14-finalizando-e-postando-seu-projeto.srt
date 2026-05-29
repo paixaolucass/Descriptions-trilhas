@@ -1,0 +1,1880 @@
+1
+00:00:00,000 --> 00:00:01,340
+Vamos publicar isso aqui então.
+
+2
+00:00:03,004 --> 00:00:03,324
+Vamos lá!
+
+3
+00:00:05,116 --> 00:00:07,436
+que a publicação é mais engraçada ainda.
+
+4
+00:00:07,536 --> 00:00:08,876
+Vocês vão falar assim, eu não acredito.
+
+5
+00:00:10,812 --> 00:00:13,472
+Eu não acredito que é tão simples, mas tem cuidados, tá?
+
+6
+00:00:13,592 --> 00:00:16,572
+Tô brincando aqui com vocês, eu vou falar dos cuidados já já.
+
+7
+00:00:16,652 --> 00:00:18,412
+Mas primeiro, vamos publicar essa daqui?
+
+8
+00:00:18,672 --> 00:00:22,412
+Eu vou publicar e vocês vão conseguir criar conta aqui e usar.
+
+9
+00:00:23,772 --> 00:00:25,672
+Legal, né? Vamos publicar?
+
+10
+00:00:26,876 --> 00:00:27,236
+Então vamos lá.
+
+11
+00:00:28,732 --> 00:00:30,132
+O que a gente vai fazer para publicar?
+
+12
+00:00:30,292 --> 00:00:34,692
+Nós não vamos publicar o nosso sistema no Supabase,
+
+13
+00:00:35,352 --> 00:00:36,692
+porque o Supabase não é para isso.
+
+14
+00:00:36,812 --> 00:00:39,192
+Nós vamos publicar em um servidor de hospedagem
+
+15
+00:00:39,192 --> 00:00:41,112
+para colocar projetos em produção.
+
+16
+00:00:41,632 --> 00:00:43,092
+Você pode colocar em vários,
+
+17
+00:00:43,232 --> 00:00:46,252
+você pode colocar nos tradicionais,
+
+18
+00:00:46,252 --> 00:00:48,032
+como HostGate ou Hostinger,
+
+19
+00:00:48,112 --> 00:00:50,932
+pode colocar em LocalWeb,
+
+20
+00:00:51,612 --> 00:00:52,972
+pode colocar nos clássicos,
+
+21
+00:00:52,972 --> 00:00:55,592
+que geralmente era como era feito na era da IA.
+
+22
+00:00:55,592 --> 00:00:58,232
+existem alguns desses que estão se atualizando
+
+23
+00:00:58,232 --> 00:01:00,132
+e evoluindo, outros estão ficando pra trás
+
+24
+00:01:00,132 --> 00:01:02,192
+também, mas aqui no caso hoje
+
+25
+00:01:02,192 --> 00:01:04,012
+a gente vai publicar do jeito mais simples
+
+26
+00:01:04,012 --> 00:01:06,052
+como empresa global, que é
+
+27
+00:01:06,052 --> 00:01:07,872
+a Vercel. A Vercel
+
+28
+00:01:07,872 --> 00:01:10,252
+o envolvimento
+
+29
+00:01:10,252 --> 00:01:12,292
+da Vercel no mundo das IAs
+
+30
+00:01:12,292 --> 00:01:14,232
+é muito grande
+
+31
+00:01:14,232 --> 00:01:15,452
+vocês não tem ideia
+
+32
+00:01:15,452 --> 00:01:18,192
+eu vou abrir aqui numa outra aba pra mostrar
+
+33
+00:01:18,192 --> 00:01:19,912
+a página da Vercel, tá? A Vercel
+
+34
+00:01:19,912 --> 00:01:21,592
+ela é um ecossistema também
+
+35
+00:01:21,592 --> 00:01:24,192
+aqui é focada em Build e Deploy, tá vendo?
+
+36
+00:01:24,192 --> 00:01:27,032
+olha, build e deploy numa AI Cloud.
+
+37
+00:01:28,476 --> 00:01:30,236
+E build-deploy, o que é build-deploy?
+
+38
+00:01:30,296 --> 00:01:31,176
+Só para explicar para vocês.
+
+39
+00:01:31,296 --> 00:01:32,856
+Build, buildar um projeto,
+
+40
+00:01:33,156 --> 00:01:36,176
+é como se fosse o processo de empacotar ele
+
+41
+00:01:36,176 --> 00:01:38,616
+e deixar ele todo pronto para ir para a produção.
+
+42
+00:01:39,036 --> 00:01:41,116
+A gente fala que um projeto vai para a produção
+
+43
+00:01:41,116 --> 00:01:44,656
+quando a gente quer publicar ele para as pessoas utilizarem.
+
+44
+00:01:44,856 --> 00:01:47,536
+Antes disso, o seu projeto pode estar em desenvolvimento,
+
+45
+00:01:47,536 --> 00:01:49,256
+ele pode estar em stage.
+
+46
+00:01:49,576 --> 00:01:51,976
+E aí a gente tem stage, tem produção e por aí vai.
+
+47
+00:01:52,496 --> 00:01:54,236
+Quando você vai fazer o build,
+
+48
+00:01:54,396 --> 00:01:57,236
+é o processo de empacotar o projeto
+
+49
+00:01:57,236 --> 00:01:58,736
+para poder publicar.
+
+50
+00:01:58,796 --> 00:02:00,436
+E o processo de deploy
+
+51
+00:02:00,436 --> 00:02:03,176
+é o processo de enviar o projeto
+
+52
+00:02:03,176 --> 00:02:05,016
+para a produção, deixar ele público para as outras
+
+53
+00:02:05,016 --> 00:02:07,196
+pessoas. Então, esse é o foco
+
+54
+00:02:07,196 --> 00:02:08,816
+aqui da Vercel, só que
+
+55
+00:02:08,816 --> 00:02:10,556
+só para vocês terem uma noção
+
+56
+00:02:10,556 --> 00:02:12,716
+do envolvimento da Vercel.
+
+57
+00:02:13,356 --> 00:02:14,876
+Vocês ficam falando aí do
+
+58
+00:02:14,876 --> 00:02:16,676
+Lovable, história do Lovable.
+
+59
+00:02:16,796 --> 00:02:19,096
+Ali em 2024, Lovable
+
+60
+00:02:19,096 --> 00:02:20,336
+recebe um aporte
+
+61
+00:02:21,236 --> 00:02:22,876
+milionário para eles desenvolverem
+
+62
+00:02:22,876 --> 00:02:24,716
+e de fato se tornou a principal
+
+63
+00:02:24,716 --> 00:02:26,836
+ferramenta aqui. Mas e se eu falar
+
+64
+00:02:26,836 --> 00:02:28,656
+falar pra vocês que antes do
+
+65
+00:02:28,656 --> 00:02:30,756
+Lovable estourar, antes disso
+
+66
+00:02:30,756 --> 00:02:32,896
+tudo aqui, a Vercel lançou
+
+67
+00:02:32,896 --> 00:02:34,716
+o V0. E o
+
+68
+00:02:34,716 --> 00:02:36,176
+V0 é o que o
+
+69
+00:02:36,776 --> 00:02:38,836
+Lovable faz. Só que o que
+
+70
+00:02:38,836 --> 00:02:40,856
+que a Vercel fez? Vai vendo aqui,
+
+71
+00:02:40,956 --> 00:02:43,176
+ó. A Vercel fez uma parceria
+
+72
+00:02:43,176 --> 00:02:44,216
+com um carinha aí,
+
+73
+00:02:44,836 --> 00:02:46,016
+chamada, adivinha o nome do cara?
+
+74
+00:02:46,636 --> 00:02:48,756
+Não sei o nome dele, mas todo mundo chama ele
+
+75
+00:02:48,756 --> 00:02:50,176
+na internet de Shad Sien.
+
+76
+00:02:51,644 --> 00:02:54,024
+Porque o Shad Sien, o que ele fez aqui?
+
+77
+00:02:54,164 --> 00:02:55,944
+O Shad, vamos chamar ele de Shad.
+
+78
+00:02:56,184 --> 00:02:59,444
+O Shad organizou, de um jeito simples e fácil,
+
+79
+00:03:00,004 --> 00:03:03,284
+a lógica do Tailwind, que é uma biblioteca de...
+
+80
+00:03:03,284 --> 00:03:08,784
+Não só uma biblioteca, mas é um conjunto de decisões tomadas em cima de CSS.
+
+81
+00:03:09,324 --> 00:03:11,244
+E eu não vou entrar muito nisso aqui agora,
+
+82
+00:03:11,384 --> 00:03:16,164
+mas é um processo de trabalhar o CSS direto no HTML, com classes e aí vai.
+
+83
+00:03:16,444 --> 00:03:18,884
+E o Shad lá, o tal do Shad,
+
+84
+00:03:19,564 --> 00:03:20,924
+pegou o Tailwind
+
+85
+00:03:20,924 --> 00:03:23,384
+e construiu em cima do Tailwind
+
+86
+00:03:23,384 --> 00:03:24,904
+toda a lógica de tokens
+
+87
+00:03:24,904 --> 00:03:27,504
+e de micro-components
+
+88
+00:03:27,504 --> 00:03:29,324
+e disponibilizou
+
+89
+00:03:29,324 --> 00:03:31,104
+não só a biblioteca dele
+
+90
+00:03:31,104 --> 00:03:33,024
+que na época ele nem chamava de Foundation
+
+91
+00:03:33,024 --> 00:03:35,124
+for Design System, era só a
+
+92
+00:03:35,124 --> 00:03:37,204
+biblioteca ShadCN, era só isso
+
+93
+00:03:37,204 --> 00:03:39,324
+e junto da biblioteca ShadCN
+
+94
+00:03:39,324 --> 00:03:41,064
+vinham os templates do ShadCN
+
+95
+00:03:41,064 --> 00:03:43,164
+e aí você podia assinar
+
+96
+00:03:43,164 --> 00:03:45,084
+a biblioteca dele, nós aqui no
+
+97
+00:03:45,084 --> 00:03:46,944
+Overlance assinamos o ShadCN e antes dele
+
+98
+00:03:46,944 --> 00:03:48,884
+ele bombar com a IA, porque a gente já ficava de olho,
+
+99
+00:03:49,004 --> 00:03:50,824
+o Rafael conhece, fica sempre de olho também,
+
+100
+00:03:51,144 --> 00:03:52,504
+ele que me apresentou o primeiro,
+
+101
+00:03:52,924 --> 00:03:54,624
+tá vendo aqui, ó, construído por
+
+102
+00:03:54,624 --> 00:03:56,164
+Chet Ciene e Vercel.
+
+103
+00:03:57,916 --> 00:03:58,996
+Mas isso aqui chamou a atenção.
+
+104
+00:03:59,276 --> 00:04:01,956
+A Vercel fez uma parceria com o Chet Sena e falou,
+
+105
+00:04:02,256 --> 00:04:05,256
+e se a gente pega todos esses componentes e treina uma IA
+
+106
+00:04:05,256 --> 00:04:09,216
+que consegue criar sistemas inteiros com os seus próprios componentes?
+
+107
+00:04:09,236 --> 00:04:10,376
+E lançaram o V0.
+
+108
+00:04:10,636 --> 00:04:13,656
+Aí junto com o V0, um pouquinho depois vem Lovable,
+
+109
+00:04:13,856 --> 00:04:16,236
+aí vem Bolt e vem essa galera toda,
+
+110
+00:04:16,416 --> 00:04:18,336
+criando um sistema de criar sistemas.
+
+111
+00:04:18,836 --> 00:04:20,416
+Só que qual que é o lance deles?
+
+112
+00:04:20,676 --> 00:04:23,336
+É que a era deles também foi acabando.
+
+113
+00:04:23,336 --> 00:04:27,476
+A não ser que eles evoluam para se tornarem CLI First,
+
+114
+00:04:28,176 --> 00:04:30,336
+direto no terminal, a não ser que eles
+
+115
+00:04:30,336 --> 00:04:32,456
+evoluam para isso, vai continuar
+
+116
+00:04:32,456 --> 00:04:34,516
+sendo muito valioso para usuários iniciantes
+
+117
+00:04:34,516 --> 00:04:36,376
+mas é imbatível
+
+118
+00:04:36,376 --> 00:04:38,296
+com quem sabe fazer o que eu estou ensinando
+
+119
+00:04:38,296 --> 00:04:40,456
+aqui para vocês, que é usar direto
+
+120
+00:04:40,456 --> 00:04:42,456
+ali numa IDE, conectado
+
+121
+00:04:42,456 --> 00:04:43,496
+com o
+
+122
+00:04:44,236 --> 00:04:45,756
+modelo de A via terminal
+
+123
+00:04:45,756 --> 00:04:47,656
+então é outro nível, né?
+
+124
+00:04:47,816 --> 00:04:50,156
+Porque quando você usa lovable, bolt
+
+125
+00:04:50,156 --> 00:04:52,316
+v0, você está gastando
+
+126
+00:04:52,316 --> 00:04:54,076
+aqui o token do cloud
+
+127
+00:04:54,076 --> 00:04:55,976
+porque eles usam, a maioria deles usam cloud
+
+128
+00:04:55,976 --> 00:05:00,616
+você está gastando o token do Cloud, mais a gordurinha deles,
+
+129
+00:05:00,836 --> 00:05:02,056
+porque eles têm que ganhar dinheiro também.
+
+130
+00:05:02,276 --> 00:05:05,176
+Então, se no Cloud o token custa, vou supor, um real,
+
+131
+00:05:05,956 --> 00:05:07,936
+você vem aqui no Lovable e vai pagar dois reais,
+
+132
+00:05:08,196 --> 00:05:09,796
+porque tem a gordurinha do Lovable aqui.
+
+133
+00:05:09,936 --> 00:05:14,616
+Então, as pessoas gastam mais dinheiro aqui também nessas ferramentas.
+
+134
+00:05:14,656 --> 00:05:18,656
+Mas elas revolucionaram, tiveram pessoas que criaram sistemas inteiros
+
+135
+00:05:18,656 --> 00:05:21,636
+em cima dessas ferramentas aqui. Maravilha!
+
+136
+00:05:22,780 --> 00:05:24,640
+Mas isso aqui é só para vocês entenderem um pouquinho
+
+137
+00:05:24,640 --> 00:05:26,080
+dentro dessa história toda da IA,
+
+138
+00:05:26,120 --> 00:05:28,120
+o impacto da Vercel no mundo das IAs, tá?
+
+139
+00:05:28,400 --> 00:05:30,000
+E o que a gente vai fazer aqui agora?
+
+140
+00:05:30,080 --> 00:05:32,240
+Vocês vão criar uma conta na Vercel.
+
+141
+00:05:32,560 --> 00:05:34,440
+Então nós vamos clicar aqui em Sign Up
+
+142
+00:05:34,440 --> 00:05:36,800
+e vamos criar a nossa conta, beleza?
+
+143
+00:05:36,940 --> 00:05:40,160
+Eu vou criar minha conta aqui com o Lens Degree,
+
+144
+00:05:40,320 --> 00:05:42,640
+que é o de teste que a gente está usando aqui juntos,
+
+145
+00:05:42,780 --> 00:05:45,200
+e vocês podem criar a conta de vocês aí.
+
+146
+00:05:45,920 --> 00:05:47,700
+Então vamos lá, vou colocar minha senha aqui.
+
+147
+00:05:51,132 --> 00:05:52,412
+Hum, eu tenho que colocar a senha...
+
+148
+00:05:52,872 --> 00:05:53,772
+Vixe, será que eu lembro?
+
+149
+00:05:55,484 --> 00:05:58,424
+Ah, lembrei, bom demais.
+
+150
+00:05:59,084 --> 00:06:04,284
+Então criem a conta de vocês na Vercel, vai pedir aqui o código de verificação.
+
+151
+00:06:05,304 --> 00:06:09,084
+Puts, esse telefone está desligado, ele está aqui, mas ele está desligado.
+
+152
+00:06:11,100 --> 00:06:13,080
+Aí me quebra. O que eu vou fazer? Eu vou criar a conta
+
+153
+00:06:14,260 --> 00:06:15,240
+direto aqui no Lens Degri.
+
+154
+00:06:15,740 --> 00:06:17,000
+Que aí eu não vou precisar verificar.
+
+155
+00:06:17,160 --> 00:06:18,100
+Então eu vou vir na Vercel.
+
+156
+00:06:21,276 --> 00:06:25,336
+Beleza, sign up, continuar com o Google, lance degree.
+
+157
+00:06:28,124 --> 00:06:29,244
+Maravilha. Continuar.
+
+158
+00:06:34,492 --> 00:06:40,672
+autenticando, aí está perguntando aqui se o nosso projeto é para uso comercial ou para uso pessoal,
+
+159
+00:06:40,812 --> 00:06:43,532
+pode deixar em uso pessoal aqui, não tem problema não.
+
+160
+00:06:46,364 --> 00:06:48,624
+Aqui a gente vai publicar o site sem gastar nada, tá?
+
+161
+00:06:48,704 --> 00:06:49,564
+Então, beleza.
+
+162
+00:06:49,964 --> 00:06:53,164
+Aqui, no caso, tem alguns templates, né?
+
+163
+00:06:53,184 --> 00:06:57,404
+Eles têm aqui plataforma de Vibe Coding, Gateway Demo,
+
+164
+00:06:57,404 --> 00:06:59,284
+mas a gente não vai usar nada disso aqui, tá?
+
+165
+00:06:59,344 --> 00:07:01,344
+Você pode conectar com o seu GitHub aqui também,
+
+166
+00:07:01,384 --> 00:07:02,464
+mas nós não vamos usar isso.
+
+167
+00:07:02,544 --> 00:07:03,284
+Nós vamos clicar aqui.
+
+168
+00:07:05,500 --> 00:07:07,580
+Voltou para cá, a gente está nessa interface agora,
+
+169
+00:07:08,220 --> 00:07:12,420
+você vai clicar aqui em adicionar novo projeto, beleza?
+
+170
+00:07:13,280 --> 00:07:15,880
+E aí, voltou para cá, é o que a gente ia fazer, né?
+
+171
+00:07:16,060 --> 00:07:18,740
+Você vai clicar aqui para criar o projeto vazio,
+
+172
+00:07:18,760 --> 00:07:21,200
+create empty project, beleza?
+
+173
+00:07:21,400 --> 00:07:21,920
+Clica aqui.
+
+174
+00:07:23,356 --> 00:07:26,656
+Beleza! Deixa eu só ver aqui, logo com um usuário diferente.
+
+175
+00:07:28,348 --> 00:07:29,668
+Deixa eu ver o erro que aconteceu aqui.
+
+176
+00:07:32,700 --> 00:07:34,060
+Se não der para criar o projeto aqui,
+
+177
+00:07:34,180 --> 00:07:35,340
+a Criorga, projeto
+
+178
+00:07:36,620 --> 00:07:37,060
+DeepSe6.
+
+179
+00:07:39,740 --> 00:07:41,740
+Eu posso vir aqui em Settings, mudar o nome dele,
+
+180
+00:07:41,820 --> 00:07:44,340
+vou chamar aqui de Brand System mesmo, salvar.
+
+181
+00:07:46,204 --> 00:07:50,944
+Aqui tem o Project ID, que a gente vai pegar aqui, então copia esse Project ID aqui,
+
+182
+00:07:51,024 --> 00:07:52,904
+e nós vamos lá no nosso projeto.
+
+183
+00:07:53,104 --> 00:07:53,624
+Olha agora.
+
+184
+00:07:55,772 --> 00:07:57,892
+A graça, vou fechar tudo aqui para a gente também,
+
+185
+00:07:58,012 --> 00:08:00,952
+vou deixar só esse processo aqui do NPM rodando,
+
+186
+00:08:00,952 --> 00:08:02,232
+do Dev Server, por enquanto.
+
+187
+00:08:02,972 --> 00:08:05,572
+Vou abrir aqui agora um novo Cloud.
+
+188
+00:08:07,132 --> 00:08:09,332
+geralmente, num processo correto,
+
+189
+00:08:09,332 --> 00:08:10,752
+como que você faria isso aqui, tá?
+
+190
+00:08:10,972 --> 00:08:13,312
+Você já teria esse projeto conectado no GitHub,
+
+191
+00:08:13,712 --> 00:08:16,872
+aí você faria um processo que a gente chama de commit e push.
+
+192
+00:08:17,132 --> 00:08:18,752
+Commit é você versionar o projeto,
+
+193
+00:08:18,892 --> 00:08:22,272
+e push é você empurrar o projeto para o diretório do GitHub.
+
+194
+00:08:23,332 --> 00:08:25,452
+Isso é o jeito certo de fazer, tá?
+
+195
+00:08:25,552 --> 00:08:27,832
+Com mais segurança, porque aí você versiona.
+
+196
+00:08:27,892 --> 00:08:29,172
+Vou falar um pouco mais disso já já.
+
+197
+00:08:29,312 --> 00:08:31,512
+Mas aqui, no caso, a gente não trabalhou com Git,
+
+198
+00:08:31,612 --> 00:08:33,772
+porque iria deixar abstrato demais para vocês.
+
+199
+00:08:34,172 --> 00:08:36,912
+Então, a gente vai publicar ele desse jeito mesmo.
+
+200
+00:08:37,132 --> 00:08:39,532
+Para fazer isso, galera, é muito fácil.
+
+201
+00:08:39,852 --> 00:08:41,852
+A gente basicamente vai fazer o seguinte.
+
+202
+00:08:42,592 --> 00:08:46,592
+Claude, chegou a hora de publicar nosso projeto.
+
+203
+00:08:47,472 --> 00:08:50,532
+Já criei minha conta na Vercel.
+
+204
+00:08:53,756 --> 00:08:54,856
+No navegador...
+
+205
+00:08:55,932 --> 00:08:58,212
+É porque eu estou com vários navegadores abertos,
+
+206
+00:08:58,232 --> 00:09:01,272
+eu estou com medo de ele vir nesse meu aqui,
+
+207
+00:09:01,352 --> 00:09:02,752
+que eu estou logado na Vercel aqui também.
+
+208
+00:09:02,832 --> 00:09:03,912
+Estou cheio de projetos aqui.
+
+209
+00:09:04,572 --> 00:09:06,812
+E aí eu não quero que ele venha nesse daqui.
+
+210
+00:09:07,712 --> 00:09:09,212
+Eu quero que ele venha nesse aqui.
+
+211
+00:09:09,332 --> 00:09:11,332
+Só que como ele está aberto, vamos fazer o teste.
+
+212
+00:09:11,472 --> 00:09:13,012
+Vamos ver se ele vai funcionar aqui de cara.
+
+213
+00:09:14,844 --> 00:09:16,644
+Já criei a conta na Vercel.
+
+214
+00:09:16,864 --> 00:09:20,644
+Minha conta, LensDegri, vou deixar aqui para ele,
+
+215
+00:09:21,304 --> 00:09:23,104
+arroba gmail.com.
+
+216
+00:09:24,004 --> 00:09:26,024
+Também já criei o projeto.
+
+217
+00:09:26,904 --> 00:09:28,844
+Aqui está o Project ID.
+
+218
+00:09:29,364 --> 00:09:31,324
+Aí vem uma parte importante aqui.
+
+219
+00:09:31,404 --> 00:09:33,024
+Se você está fazendo isso a primeira vez,
+
+220
+00:09:33,284 --> 00:09:34,844
+você vai ter que fazer isso aqui, ó.
+
+221
+00:09:35,524 --> 00:09:38,084
+Instale o Vercel CLI
+
+222
+00:09:38,084 --> 00:09:41,064
+e depois conecte a Vercel
+
+223
+00:09:41,064 --> 00:09:41,084
+Tchau, tchau.
+
+224
+00:09:43,260 --> 00:09:51,020
+Publique nosso projeto, publique nosso Brand System no projeto Brand System.
+
+225
+00:09:52,348 --> 00:09:54,568
+com id, e eu vou colar id aqui.
+
+226
+00:09:54,788 --> 00:09:56,388
+Vocês têm que fazer isso com o id de vocês.
+
+227
+00:09:57,048 --> 00:09:58,928
+Tem um jeito mais fácil ainda de fazer isso?
+
+228
+00:09:59,008 --> 00:09:59,208
+Tem.
+
+229
+00:09:59,528 --> 00:10:02,108
+Você pode simplesmente chegar aqui e falar com o Cloud assim, ó.
+
+230
+00:10:03,580 --> 00:10:07,480
+Claude, publica o projeto para a gente na Vercel.
+
+231
+00:10:08,140 --> 00:10:08,860
+Vai funcionar.
+
+232
+00:10:09,780 --> 00:10:10,380
+Também funciona.
+
+233
+00:10:10,860 --> 00:10:14,040
+Se você já estiver logado na Vercel, ele mesmo vai fazer todo o caminho ali.
+
+234
+00:10:14,580 --> 00:10:17,420
+Aqui eu estou fazendo desse jeito, só para dar mais informação para ele,
+
+235
+00:10:17,460 --> 00:10:19,840
+ele já ir direto ao ponto, gasta menos token e funciona melhor.
+
+236
+00:10:21,404 --> 00:10:21,784
+Beleza?
+
+237
+00:10:22,464 --> 00:10:25,504
+Então, só para trazer esse detalhe aqui para vocês também.
+
+238
+00:10:26,304 --> 00:10:27,844
+Então, eu vou fazer desse jeito aqui,
+
+239
+00:10:27,964 --> 00:10:29,704
+mas você poderia só falar para ele,
+
+240
+00:10:29,724 --> 00:10:31,504
+publica para mim na Vercel, ele publicaria.
+
+241
+00:10:32,924 --> 00:10:33,964
+Então vou dar um Enter aqui agora.
+
+242
+00:10:35,676 --> 00:10:36,456
+Deixar ele carregar.
+
+243
+00:10:36,536 --> 00:10:38,096
+Então aqui, ele já buscou lá.
+
+244
+00:10:39,964 --> 00:10:41,164
+Buscou o comando Vercel.
+
+245
+00:10:43,196 --> 00:10:44,496
+Ele está agora usando esse comando aqui,
+
+246
+00:10:44,536 --> 00:10:45,236
+ver se é o who,
+
+247
+00:10:46,136 --> 00:10:47,856
+who am I, quem sou eu.
+
+248
+00:10:50,460 --> 00:10:51,920
+Ele achou o acesso Overlens, tá vendo?
+
+249
+00:10:52,020 --> 00:10:53,380
+Ele tá entrando no outro...
+
+250
+00:10:54,300 --> 00:10:56,020
+Na minha outra conta da Versel.
+
+251
+00:10:56,520 --> 00:10:57,780
+Ele tá entrando nessa aqui, ó.
+
+252
+00:10:59,772 --> 00:11:00,552
+Nesse navegador.
+
+253
+00:11:00,812 --> 00:11:02,012
+Vamos ver aqui até onde ele vai.
+
+254
+00:11:02,892 --> 00:11:04,792
+Se ele vai falar para mim que não encontrou o meu.
+
+255
+00:11:06,012 --> 00:11:08,332
+O CLI da Vercel já está instalado no meu.
+
+256
+00:11:08,692 --> 00:11:10,532
+Aí vocês têm que ver e instalar no seu.
+
+257
+00:11:10,652 --> 00:11:12,812
+Ele falou que eu estou logado em acesso Overlancer.
+
+258
+00:11:12,832 --> 00:11:13,852
+Ele não está logado no outro.
+
+259
+00:11:14,252 --> 00:11:16,112
+No caso aqui, como ele não está logado no outro,
+
+260
+00:11:16,152 --> 00:11:18,632
+é bem provável que ele vai criar um projeto e vai publicar aqui.
+
+261
+00:11:19,232 --> 00:11:20,312
+Mas não tem problema, não.
+
+262
+00:11:20,372 --> 00:11:23,272
+No caso aí, o que vocês vão fazer aí do lado de vocês?
+
+263
+00:11:23,712 --> 00:11:27,652
+Vocês vão logar na conta de vocês, vão seguir esse mesmo processo.
+
+264
+00:11:28,052 --> 00:11:32,932
+Quando você pedir para o Cloud, deixa aberto a Vercel de vocês assim.
+
+265
+00:11:33,892 --> 00:11:35,192
+Deixa eu voltar para a Dash aqui.
+
+266
+00:11:36,012 --> 00:11:38,852
+Deixa ele aberto aqui e aí pede para o Cloud.
+
+267
+00:11:38,992 --> 00:11:40,872
+O Cloud vai fazer a conexão para você.
+
+268
+00:11:41,092 --> 00:11:48,332
+Às vezes, tem momentos que o Cloud fica esperando você pegar a chave de verificação do navegador.
+
+269
+00:11:48,732 --> 00:11:51,412
+Vai aparecer aqui para você alguns dígitos.
+
+270
+00:11:51,492 --> 00:11:53,872
+Você copia esses dígitos e cola no Cloud.
+
+271
+00:11:54,032 --> 00:11:57,312
+Ele geralmente te instrui de como fazer isso.
+
+272
+00:11:57,492 --> 00:12:01,192
+No meu caso, ele não está fazendo isso porque...
+
+273
+00:12:01,832 --> 00:12:02,792
+Nossa, espera aí.
+
+274
+00:12:04,732 --> 00:12:08,252
+Deixa eu ver se ele encontrou no certo, porque tem um projeto Brand System no outro também.
+
+275
+00:12:09,884 --> 00:12:12,144
+Surgiu uma divergência, ainda bem que ele mesmo percebeu.
+
+276
+00:12:12,464 --> 00:12:13,524
+Deixa eu cancelar aqui.
+
+277
+00:12:13,664 --> 00:12:17,844
+É porque já tem um projeto Brand System na minha conta da Vercel aqui, ó.
+
+278
+00:12:19,836 --> 00:12:21,416
+Já tem um Brand System aqui, quer ver?
+
+279
+00:12:21,576 --> 00:12:22,416
+Deixa eu ver se eu acho ele.
+
+280
+00:12:23,096 --> 00:12:24,876
+É esse aqui, ó, o da Overlens.
+
+281
+00:12:25,696 --> 00:12:28,456
+Então eu não quero ter conflito com ele.
+
+282
+00:12:28,516 --> 00:12:29,056
+O que eu vou fazer?
+
+283
+00:12:29,676 --> 00:12:31,356
+Primeiro de tudo, eu vou deslogar aqui.
+
+284
+00:12:32,236 --> 00:12:32,556
+Logout.
+
+285
+00:12:33,980 --> 00:12:37,420
+Pronto, já para facilitar, eu vou explicar para ele.
+
+286
+00:12:37,500 --> 00:12:42,220
+É porque você logou na minha outra conta da Vercel.
+
+287
+00:12:43,040 --> 00:12:50,440
+Logue na conta que está aberta no meu navegador agora, a conta Lance Degree.
+
+288
+00:12:51,804 --> 00:12:56,364
+Já desconectei da outra conta para não termos problema.
+
+289
+00:12:57,544 --> 00:12:59,404
+Desconecte aqui no CLI.
+
+290
+00:13:01,116 --> 00:13:04,936
+Faça e faça uma nova conexão.
+
+291
+00:13:04,976 --> 00:13:06,176
+Vocês não precisam fazer isso aqui, tá?
+
+292
+00:13:06,256 --> 00:13:07,436
+Porque vocês estão conectando a primeira vez.
+
+293
+00:13:07,536 --> 00:13:10,136
+Faça uma nova conexão neste lance.
+
+294
+00:13:11,836 --> 00:13:13,096
+Deixa ele encontrar aqui agora.
+
+295
+00:13:13,276 --> 00:13:16,616
+Então ele vai desconectar a CLI e ele vai pedir para eu fazer esse comando aqui,
+
+296
+00:13:16,676 --> 00:13:17,496
+vercel login.
+
+297
+00:13:17,676 --> 00:13:18,796
+Vocês vão precisar fazer aí também.
+
+298
+00:13:19,396 --> 00:13:23,496
+Ele até está falando para eu fazer aqui, vercel login lense degree, com o e-mail já.
+
+299
+00:13:23,896 --> 00:13:27,476
+Eu posso tanto usar a exclamação aqui, ou eu posso abrir aqui um novo,
+
+300
+00:13:28,036 --> 00:13:29,756
+colar aqui e pedir para ele fazer.
+
+301
+00:13:31,708 --> 00:13:34,508
+Então, beleza, ele está pesquisando, ele vai pedir para eu logar aqui,
+
+302
+00:13:34,608 --> 00:13:37,408
+porque ele está insistindo nesse navegador ao invés de insistir no outro.
+
+303
+00:13:38,388 --> 00:13:39,028
+Que droga!
+
+304
+00:13:39,588 --> 00:13:42,808
+Eu não queria ter que fechar esse navegador aqui não, a gente está com tudo aberto aqui.
+
+305
+00:13:43,188 --> 00:13:44,588
+Só que eu vou ter que logar nele.
+
+306
+00:13:45,724 --> 00:13:46,664
+Deixa eu ver se eu consigo...
+
+307
+00:13:48,604 --> 00:13:52,064
+Aqui, ó, eu vou copiar isso aqui e vou colar aqui.
+
+308
+00:13:52,164 --> 00:13:53,704
+Vocês não vão precisar fazer desse jeito não, tá?
+
+309
+00:13:53,804 --> 00:13:55,484
+É só porque eu tô com dois navegadores, tá vendo, ó?
+
+310
+00:13:56,184 --> 00:13:58,104
+Apareceu aqui o código, eu vou permitir agora.
+
+311
+00:14:00,836 --> 00:14:02,436
+verificando, e aí eu vou fazer o login aqui.
+
+312
+00:14:04,444 --> 00:14:07,304
+Pronto. Autorizou. Concluído.
+
+313
+00:14:08,024 --> 00:14:10,444
+Congratulations, you are now signed in.
+
+314
+00:14:11,708 --> 00:14:16,508
+Volto para cá agora, para esse Cloud aqui, e falo para ele, pronto, já fiz.
+
+315
+00:14:17,388 --> 00:14:19,208
+Agora pode fazer o deploy.
+
+316
+00:14:20,796 --> 00:14:22,356
+no projeto que existe lá.
+
+317
+00:14:23,548 --> 00:14:25,168
+Pronto, agora ele vai fazer o resto para a gente.
+
+318
+00:14:25,368 --> 00:14:26,568
+Ele está me perguntando.
+
+319
+00:14:26,968 --> 00:14:29,248
+As duas primeiras variáveis do Supabase
+
+320
+00:14:29,248 --> 00:14:31,308
+foram salvas com barra N, no fim
+
+321
+00:14:31,308 --> 00:14:33,028
+por culpa do pipe do PowerShell.
+
+322
+00:14:33,108 --> 00:14:35,168
+Isso vai quebrar a conexão com o Supabase.
+
+323
+00:14:35,648 --> 00:14:37,368
+Aí ele falou, você tem dois caminhos,
+
+324
+00:14:37,368 --> 00:14:39,428
+vou seguir como preferir. Aprovar
+
+325
+00:14:39,428 --> 00:14:41,328
+o RM no CLI, você roda dois
+
+326
+00:14:41,328 --> 00:14:43,648
+comandos no prompt para remover
+
+327
+00:14:43,648 --> 00:14:45,388
+o Vercel Public e o Vercel Next
+
+328
+00:14:45,388 --> 00:14:47,328
+Public Supabase. Em seguida, eu
+
+329
+00:14:47,328 --> 00:14:47,788
+reenvio.
+
+330
+00:14:49,596 --> 00:14:50,996
+apago manualmente no dashboard.
+
+331
+00:14:51,276 --> 00:14:53,216
+Você abre a Vercel.com,
+
+332
+00:14:53,296 --> 00:14:54,976
+projeto Brand System, Settings,
+
+333
+00:14:55,976 --> 00:14:57,776
+variáveis de ambiente e apaga as duas.
+
+334
+00:14:58,076 --> 00:15:00,036
+Quando terminar, me avisa que eu reenvio.
+
+335
+00:15:00,256 --> 00:15:01,656
+Então, ele deu dois caminhos aqui.
+
+336
+00:15:01,756 --> 00:15:03,756
+Tem o caminho que a gente faz no terminal
+
+337
+00:15:03,756 --> 00:15:05,076
+e o caminho na Vercel.
+
+338
+00:15:05,156 --> 00:15:06,436
+Ele está recomendando essa daqui,
+
+339
+00:15:06,616 --> 00:15:08,216
+então a gente vai fazer essa daqui.
+
+340
+00:15:08,336 --> 00:15:09,176
+Vou dar um Enter aqui.
+
+341
+00:15:11,580 --> 00:15:12,780
+Dei um Enter para ele aqui agora.
+
+342
+00:15:13,720 --> 00:15:14,620
+E ele está falando.
+
+343
+00:15:14,740 --> 00:15:15,320
+Então, vamos lá.
+
+344
+00:15:15,880 --> 00:15:16,660
+Roda no prompt.
+
+345
+00:15:18,460 --> 00:15:19,800
+a exclamação antes.
+
+346
+00:15:19,880 --> 00:15:21,100
+Então, vou dar a exclamação aqui.
+
+347
+00:15:22,588 --> 00:15:23,348
+Vou clicar aqui.
+
+348
+00:15:24,700 --> 00:15:25,980
+E vou rodar, igual ele me pediu.
+
+349
+00:15:26,740 --> 00:15:28,860
+Então ele vai rodar aqui para a gente o comando.
+
+350
+00:15:31,196 --> 00:15:36,036
+Deixa ele carregar certinho, vamos ver se ele vai conseguir se virar sozinho ou se eu vou ter que cancelar aqui o processo.
+
+351
+00:15:39,868 --> 00:15:41,108
+Era para pedir sim e não.
+
+352
+00:15:41,748 --> 00:15:43,068
+E foi para eu responder com sim.
+
+353
+00:15:43,168 --> 00:15:44,108
+Aqui não funcionou.
+
+354
+00:15:44,148 --> 00:15:44,888
+Então o que eu vou fazer?
+
+355
+00:15:45,488 --> 00:15:46,568
+Eu vou direto aqui.
+
+356
+00:15:47,368 --> 00:15:48,408
+Vamos ver se vai funcionar.
+
+357
+00:15:50,588 --> 00:15:52,388
+Aqui funcionou. Aí ele está perguntando
+
+358
+00:15:52,388 --> 00:15:53,888
+quer remover? Eu vou dar um Y
+
+359
+00:15:55,248 --> 00:15:55,968
+Enter. Removeu.
+
+360
+00:15:56,348 --> 00:15:58,228
+Agora eu volto para cá, para o Cloud
+
+361
+00:15:58,228 --> 00:16:00,068
+e vou rodar a segunda que ele me pediu aqui.
+
+362
+00:16:01,500 --> 00:16:01,940
+Copio.
+
+363
+00:16:04,220 --> 00:16:04,580
+Vem aqui.
+
+364
+00:16:06,140 --> 00:16:08,560
+enter, ele vai perguntar se eu quero remover,
+
+365
+00:16:08,640 --> 00:16:10,120
+y, remover.
+
+366
+00:16:11,356 --> 00:16:12,696
+Agora eu volto nele e falo para ele.
+
+367
+00:16:15,676 --> 00:16:17,256
+E aí ele vai disparar o deploy de novo.
+
+368
+00:16:17,436 --> 00:16:20,536
+Beleza, ele falou que agora a CLI exige IS para confirmar.
+
+369
+00:16:20,616 --> 00:16:21,396
+Roda assim.
+
+370
+00:16:21,976 --> 00:16:23,116
+Então, vou rodar de novo.
+
+371
+00:16:23,296 --> 00:16:24,596
+Ele me pediu para eu rodar de novo.
+
+372
+00:16:31,964 --> 00:16:33,504
+Deu erro aqui. Eu vou falar pra ele o seguinte.
+
+373
+00:16:34,144 --> 00:16:35,324
+Já fiz isso
+
+374
+00:16:36,044 --> 00:16:37,364
+em outro terminal.
+
+375
+00:16:38,304 --> 00:16:39,984
+Vamos ver nosso projeto no ar aqui.
+
+376
+00:16:40,124 --> 00:16:42,204
+Ele já me mandou os links todos certinhos
+
+377
+00:16:42,204 --> 00:16:43,564
+aqui. Tá em produção.
+
+378
+00:16:44,204 --> 00:16:45,644
+Cara, qual o link que ele criou aqui?
+
+379
+00:16:45,764 --> 00:16:48,284
+Ele tem esse alias aqui. Vamos ver se ele vai funcionar.
+
+380
+00:16:49,064 --> 00:16:49,944
+Não funcionou, então.
+
+381
+00:16:50,004 --> 00:16:51,804
+Deixa eu ver se o principal vai funcionar.
+
+382
+00:16:52,704 --> 00:16:54,424
+Tamanho do nome do link que ele fez, cara.
+
+383
+00:16:55,996 --> 00:16:57,776
+Hum, ele tá pedindo autenticação também.
+
+384
+00:16:58,696 --> 00:16:59,736
+Por algum motivo...
+
+385
+00:17:01,660 --> 00:17:06,820
+Por algum motivo, ele fez um deploy aqui que pede autenticação.
+
+386
+00:17:07,340 --> 00:17:10,120
+Vai levar um pouquinho mais de tempo, inclusive, nessa parte aqui.
+
+387
+00:17:10,700 --> 00:17:13,700
+Mas eu já vou deixar ele fazendo enquanto a gente vai para a parte boa, né?
+
+388
+00:17:14,040 --> 00:17:17,080
+Galera, vocês já mandaram de vocês funcionando? Melhor ainda.
+
+389
+00:17:18,268 --> 00:17:19,548
+Tentei acessar...
+
+390
+00:17:21,980 --> 00:17:26,080
+configurar domínio, não quero testar login, tentei acessar e não consegui
+
+391
+00:17:27,196 --> 00:17:28,176
+Crie um projeto novo.
+
+392
+00:17:29,660 --> 00:17:31,820
+na Aversel e publica para mim.
+
+393
+00:17:35,260 --> 00:17:35,860
+pública pra mim.
+
+394
+00:17:37,148 --> 00:17:39,448
+Quero apenas o link para acessar.
+
+395
+00:17:40,764 --> 00:17:43,024
+com a galera aqui no workshop.
+
+396
+00:17:45,148 --> 00:17:46,408
+Cuidado também, uma dica.
+
+397
+00:17:46,408 --> 00:17:48,308
+Quando começa a não funcionar assim,
+
+398
+00:17:48,348 --> 00:17:49,668
+tem que tomar cuidado. Por quê?
+
+399
+00:17:50,288 --> 00:17:52,588
+Você vai dando a missão para ir várias vezes
+
+400
+00:17:52,588 --> 00:17:54,308
+e fala, não funcionou, resolve.
+
+401
+00:17:54,648 --> 00:17:55,688
+Dá um jeito de resolver.
+
+402
+00:17:55,968 --> 00:17:58,388
+Às vezes não está funcionando porque ela não quer...
+
+403
+00:17:59,708 --> 00:18:01,188
+ultrapassar um limite de segurança.
+
+404
+00:18:02,556 --> 00:18:07,356
+E ela está tentando te falar, igual aqui, olha, ela está tentando falar das variáveis de ambiente.
+
+405
+00:18:07,956 --> 00:18:12,896
+E eu estou ignorando aqui por enquanto, quero só postar com vocês aqui agora, porque está tudo bem nesse momento.
+
+406
+00:18:14,236 --> 00:18:15,156
+Só que está dando errado.
+
+407
+00:18:15,236 --> 00:18:18,056
+Aí você fala, eu não quero nem saber, resolve para mim.
+
+408
+00:18:18,176 --> 00:18:18,836
+Ela vai resolver.
+
+409
+00:18:19,196 --> 00:18:21,876
+Mas às vezes o jeito dela de resolver é inseguro.
+
+410
+00:18:21,996 --> 00:18:25,176
+Ela vaza uma chave API, ela vaza seu ENV.
+
+411
+00:18:25,456 --> 00:18:26,696
+E aí as coisas dão errado.
+
+412
+00:18:26,916 --> 00:18:28,396
+Então tem que tomar esse cuidado também, tá?
+
+413
+00:18:29,660 --> 00:18:34,140
+Mas enquanto ele está publicando aqui para a gente, o que eu vou fazer agora?
+
+414
+00:18:35,452 --> 00:18:40,692
+Ó, achei um problema, é uma correção de 10 segundos na dashboard, sem precisar recriar o projeto.
+
+415
+00:18:41,072 --> 00:18:42,972
+A Vercel ativou o Deployment Protection.
+
+416
+00:18:43,952 --> 00:18:46,412
+Authentication por Pradão e ele bloqueou acesso ao público.
+
+417
+00:18:46,492 --> 00:18:48,292
+O deploy está ok, é só desligar a proteção.
+
+418
+00:18:48,332 --> 00:18:49,652
+Vamos tentar fazer aqui igual ele falou.
+
+419
+00:18:51,452 --> 00:18:52,472
+Isso aqui que é o chato.
+
+420
+00:18:52,892 --> 00:18:54,872
+Esse problema só tá acontecendo comigo
+
+421
+00:18:55,912 --> 00:18:56,792
+principalmente pelo
+
+422
+00:18:56,792 --> 00:18:58,812
+super bass, né? E também
+
+423
+00:18:58,812 --> 00:19:01,212
+pelo fato de eu estar em duas...
+
+424
+00:19:02,524 --> 00:19:04,164
+Eu tô logado em duas contas aqui, né?
+
+425
+00:19:04,264 --> 00:19:05,384
+Então eu tenho que ir na conta certa.
+
+426
+00:19:05,544 --> 00:19:06,804
+Senão ele tenta fazer e não consegue.
+
+427
+00:19:07,664 --> 00:19:08,104
+Aqui, ó.
+
+428
+00:19:08,164 --> 00:19:09,824
+Essa proteção que ele adicionou aqui,
+
+429
+00:19:10,524 --> 00:19:12,344
+eu posso tirar ela.
+
+430
+00:19:12,564 --> 00:19:13,564
+Ver se ela tem indicação.
+
+431
+00:19:15,132 --> 00:19:17,892
+Aí ele pergunta aqui se eu tenho certeza, eu falo que tenho certeza.
+
+432
+00:19:19,740 --> 00:19:21,440
+Beleza? Vamos ver se agora eu vou conseguir logar.
+
+433
+00:19:21,860 --> 00:19:25,960
+Aê! Mas olha, ele não carregou aqui o Markdown do...
+
+434
+00:19:26,420 --> 00:19:28,420
+Tá vendo? Ele achou o jeito dele de resolver.
+
+435
+00:19:29,100 --> 00:19:31,980
+Como ele não conseguiu resolver, isso aqui é lá do Supabase, tá?
+
+436
+00:19:32,060 --> 00:19:32,980
+Foi um erro do Supabase.
+
+437
+00:19:33,300 --> 00:19:34,780
+Ele acabou não carregando aqui.
+
+438
+00:19:35,560 --> 00:19:38,140
+E também não carregou o logotipo que a gente tinha subido.
+
+439
+00:19:38,140 --> 00:19:40,340
+Ou seja, ele teve problema com o Supabase.
+
+440
+00:19:41,692 --> 00:19:43,592
+Basicamente a gente tem que conectar certinho.
+
+441
+00:19:44,112 --> 00:19:46,432
+É só pedir para ele explicar que o erro deu aqui.
+
+442
+00:19:46,812 --> 00:19:48,432
+Mas como o objetivo aqui é finalizar,
+
+443
+00:19:48,552 --> 00:19:50,732
+a gente tem várias pessoas que conseguirão fechar também.
+
+444
+00:19:51,212 --> 00:19:52,712
+Isso aqui é um erro bem específico,
+
+445
+00:19:52,712 --> 00:19:55,412
+que basicamente para resolver ele, o que eu faria?
+
+446
+00:19:55,732 --> 00:19:58,092
+Eu tiraria print aqui, mandaria para ele,
+
+447
+00:19:58,112 --> 00:20:01,152
+falaria, olha, você não puxou aqui o Markdown lá do Supabase,
+
+448
+00:20:01,192 --> 00:20:02,432
+preciso que puxe ele agora.
+
+449
+00:20:02,872 --> 00:20:04,412
+Você também não puxou os Assets,
+
+450
+00:20:04,532 --> 00:20:07,532
+então não está configurado direito o Storage nem a Autenticação.
+
+451
+00:20:08,072 --> 00:20:10,212
+Resolve isso, Autenticação não, nem Banco de Dados,
+
+452
+00:20:10,212 --> 00:20:11,032
+resolve isso para mim.
+
+453
+00:20:11,032 --> 00:20:13,192
+ele vai ficar mais uma rodada dessa aqui
+
+454
+00:20:13,192 --> 00:20:14,452
+trabalhando pra gente
+
+455
+00:20:15,692 --> 00:20:17,392
+e aí eventualmente ele vai
+
+456
+00:20:17,392 --> 00:20:19,232
+corrigir, como isso aqui é um evento ao vivo
+
+457
+00:20:19,232 --> 00:20:21,332
+você que está assistindo a gravação
+
+458
+00:20:21,332 --> 00:20:22,992
+aí, esse é um evento
+
+459
+00:20:22,992 --> 00:20:25,332
+ao vivo com gravação em formato de aulas
+
+460
+00:20:25,332 --> 00:20:27,032
+mas como é um evento ao vivo
+
+461
+00:20:27,032 --> 00:20:29,072
+a gente está chegando ao fim dele aqui, a gente conseguiu
+
+462
+00:20:29,072 --> 00:20:30,932
+concluir, provavelmente você conseguiu
+
+463
+00:20:30,932 --> 00:20:33,592
+concluir aí também, é um problema bem específico
+
+464
+00:20:33,592 --> 00:20:35,112
+eu vou fechar essa nossa
+
+465
+00:20:35,112 --> 00:20:36,932
+trilha por aqui, é claro que vai ter muitas
+
+466
+00:20:36,932 --> 00:20:38,632
+outras trilhas pra você assistir depois
+
+467
+00:20:38,632 --> 00:20:40,072
+depois, mas eu espero
+
+468
+00:20:40,072 --> 00:20:42,632
+que você entenda este ponto aqui, pode comentar
+
+469
+00:20:42,632 --> 00:20:44,272
+ali também, eventualmente a gente ajuda
+
+470
+00:20:44,272 --> 00:20:45,432
+vocês, tá bom?
+
