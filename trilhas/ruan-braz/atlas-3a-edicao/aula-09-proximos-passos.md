@@ -1,6 +1,6 @@
 # Próximos passos
 
-**Tempo estimado de leitura:** 2 minutos
+**Tempo estimado de leitura:** 1 minuto
 
 ## Objetivos de aprendizado
 
