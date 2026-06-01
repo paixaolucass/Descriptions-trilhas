@@ -90,3 +90,14 @@ Faça três ajustes visuais no seu Brand System usando prints: uma mudança de t
 Depois, crie as telas de login e gestão de ativos antes de conectar banco de dados, autenticação e storage.
 
 Esta descrição cobre os principais conteúdos da aula. Alguns detalhes complementares estão disponíveis apenas no vídeo.
+
+## PROMPT 1 - Tela de gestão de ativos (00:27:24)
+
+Preciso que você crie uma tela de gestão de ativos da marca. Essa tela vai apresentar Cards que eu posso fazer upload de arquivos como logotipo, cores, tipografia, imagens, vídeos, PDFs, etc. Eu preciso que essa página tenha um sidebar próprio. Cada item do sidebar será um tipo de asset diferente. Teremos: logotipos, cores, tipografia, imagens, vídeos, áudios. Quero que em cada página tenha um banner no topo com título, subtítulo e background gradiente com animation. Abaixo do banner, quero uma barra de pesquisa. Na direita da barra, um botão de Upload. Você não executa. Você apenas delega. Coloque agentes em paralelização para realizarem o trabalho por você.
+
+## PROMPT 2 - Configurar Supabase (auth + banco + storage) (00:37:26)
+
+Aqui vamos precisar trabalhar em várias etapas diferentes. Preciso que você orquestre um conjunto de agentes em paralelização. Cada um responsável por uma etapa. Precisamos configurar: autenticação, banco de dados e storage. Já temos a página de login e criar conta. Precisamos definir dois tipos de usuários:
+- admin: permissão bypass total (editar, excluir arquivos, ativos e usuários)
+- staff: usuário padrão quando alguém cria conta
+Na tela de configurações, uma seção para gerenciar membros e definir níveis de acesso [admin ou staff]. Além disso, precisamos criar as tabelas dos MDXs. E o storage para armazenar os ativos da marca. Tanto admins quanto staff podem fazer upload na página de Ativos da Marca. Antes de começar, quero que você crie um plano de execução. Na sequência, delegue para os agentes a execução do projeto.
