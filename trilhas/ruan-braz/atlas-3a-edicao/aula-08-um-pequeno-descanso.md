@@ -12,7 +12,7 @@ Ao final desta aula, você será capaz de:
 
 ## O choque de perspectiva do primeiro dia
 
-A aula faz uma pausa para retomar a sensação do início do encontro. O professor lembra que a manhã começou em clima de empolgação, mas agora os alunos já viram possibilidades mais amplas sobre IA, sistemas e mercado.
+A aula faz uma pausa para retomar a sensação do início do encontro. O Ruan lembra que a manhã começou em clima de empolgação, mas agora os alunos já viram possibilidades mais amplas sobre IA, sistemas e mercado.
 
 A primeira coisa que ele quer que os alunos guardem é que o Atlas abriu uma perspectiva sobre para onde o mercado está indo. A aula não entrega apenas técnicas, mas uma forma diferente de enxergar a relação entre criação, marca, ferramenta e infraestrutura.
 
@@ -20,7 +20,7 @@ Depois que essa visão aparece, fica difícil voltar a olhar para o trabalho cri
 
 ## Da era da peça para a era sistêmica
 
-O professor reforça que o mercado está saindo de uma era centrada em gerar peças isoladas para uma era sistêmica. O contraste é entre fazer tudo manualmente, clicando, arrastando e repetindo tarefas, e trabalhar com dezenas ou centenas de agentes executando partes do processo.
+O Ruan reforça que o mercado está saindo de uma era centrada em gerar peças isoladas para uma era sistêmica. O contraste é entre fazer tudo manualmente, clicando, arrastando e repetindo tarefas, e trabalhar com dezenas ou centenas de agentes executando partes do processo.
 
 A pergunta central é competitiva: como alguém que faz tudo na mão compete com quem consegue colocar agentes para trabalhar ao mesmo tempo? A diferença não está apenas em velocidade, mas em arquitetura de trabalho.
 
@@ -28,7 +28,7 @@ Quem aprende a criar suas próprias ferramentas passa a operar em outro nível. 
 
 ## A raridade do uso avançado de IA
 
-O professor cita uma pesquisa segundo a qual apenas 0,04% das pessoas usam IA no nível demonstrado no Atlas. Esse dado é usado para mostrar que os alunos estão começando a enxergar uma prática ainda rara.
+O Ruan cita uma pesquisa segundo a qual apenas 0,04% das pessoas usam IA no nível demonstrado no Atlas. Esse dado é usado para mostrar que os alunos estão começando a enxergar uma prática ainda rara.
 
 O uso avançado é novo, diferente e pode parecer difícil no começo, mas não é impossível. A maior parte das barreiras é formada por erros, instalações, configurações e falta de familiaridade inicial com ferramentas novas.
 

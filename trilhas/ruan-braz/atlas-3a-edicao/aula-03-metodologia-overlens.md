@@ -13,11 +13,11 @@ Ao final desta aula, você será capaz de:
 
 ## Ferramentas de agente de código
 
-A aula apresenta as ferramentas que serão usadas para construir o Brand System. O foco do professor é o Claude Code, mas ele explica que alunos que assinam ChatGPT ou Gemini podem trabalhar com Codex CLI ou Gemini CLI.
+A aula apresenta as ferramentas que serão usadas para construir o Brand System. O foco do Ruan é o Claude Code, mas ele explica que alunos que assinam ChatGPT ou Gemini podem trabalhar com Codex CLI ou Gemini CLI.
 
 Quem usar Codex CLI ou Gemini CLI precisa fazer instalação via terminal. No Windows, o caminho passa por comandos NPM no prompt de comando. No Mac, pode passar por Homebrew ou pelo terminal. Se ocorrer erro, a orientação é tirar print, jogar na IA e pedir instrução passo a passo.
 
-O professor também apresenta alternativas mais simples, como aplicativos de desktop do Codex ou do Claude, mas reforça que elas são um pouco mais limitadas. A recomendação principal da trilha é usar Claude Code no terminal dentro de uma IDE.
+O Ruan também apresenta alternativas mais simples, como aplicativos de desktop do Codex ou do Claude, mas reforça que elas são um pouco mais limitadas. A recomendação principal da trilha é usar Claude Code no terminal dentro de uma IDE.
 
 ## Antigravity como ambiente integrado de desenvolvimento
 
@@ -29,7 +29,7 @@ Essa combinação entre Claude Code e Antigravity é parte da metodologia porque
 
 ## Banco de dados, storage e autenticação
 
-Para criar um Brand System, será necessário armazenar informações. O professor separa isso em duas partes: dados e arquivos. Os dados são informações textuais, diretrizes e registros que precisam ficar organizados. Os arquivos ficam no storage, como logos, PDFs, imagens, tipografias e materiais para download.
+Para criar um Brand System, será necessário armazenar informações. O Ruan separa isso em duas partes: dados e arquivos. Os dados são informações textuais, diretrizes e registros que precisam ficar organizados. Os arquivos ficam no storage, como logos, PDFs, imagens, tipografias e materiais para download.
 
 Além disso, o sistema precisa de autenticação. A autenticação define quem pode acessar, visualizar ou editar partes do sistema. Um usuário admin pode ter acesso amplo, enquanto um usuário de staff pode editar apenas algumas áreas e um usuário cliente pode somente visualizar.
 
@@ -39,7 +39,7 @@ Essa camada será trabalhada com mais profundidade no segundo dia, mas a aula j�
 
 O sistema também precisará de um servidor de hospedagem. A hospedagem guarda os arquivos de código, interface e funcionamento do projeto para que o Brand System possa rodar todos os dias, 24 horas por dia.
 
-O professor explica essa camada com linguagem simples: os arquivos executáveis, de front-end, back-end e stack do projeto precisam estar em algum lugar para que outras pessoas possam acessar o sistema pela internet.
+O Ruan explica essa camada com linguagem simples: os arquivos executáveis, de front-end, back-end e stack do projeto precisam estar em algum lugar para que outras pessoas possam acessar o sistema pela internet.
 
 Na trilha, a proposta é começar com ferramentas gratuitas. Mais adiante, conforme o projeto ou o cliente evoluem, pode ser necessário pagar por assinaturas, armazenamento, uso de servidor ou outros recursos.
 
@@ -55,7 +55,7 @@ A metodologia também inclui universo verbal e universo visual. O universo verba
 
 A aula sintetiza o projeto em três camadas principais: construção, infraestrutura e diretrizes de conteúdo. A construção envolve o sistema em si, a interface e os arquivos de código. A infraestrutura inclui banco de dados, storage, autenticação e hospedagem. As diretrizes reúnem a metodologia de marca que alimentará o Brand System.
 
-O professor reforça que os alunos precisarão de paciência, porque muitos termos serão novos. A proposta não é dominar tudo de imediato, mas entender a lógica e construir o sistema passo a passo com ajuda da IA.
+O Ruan reforça que os alunos precisarão de paciência, porque muitos termos serão novos. A proposta não é dominar tudo de imediato, mas entender a lógica e construir o sistema passo a passo com ajuda da IA.
 
 O Brand System será criado como um projeto prático que conecta tecnologia e marca. A IA não entra apenas como ferramenta de execução, mas como colaboradora que ajudará a organizar, gerar e operar os documentos e a interface do sistema.
 

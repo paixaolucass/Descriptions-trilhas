@@ -16,7 +16,7 @@ A aula encerra a primeira parte prática afirmando que a base do sistema foi con
 
 Essa base inclui a estrutura inicial do Brand System, a interface e a lógica para começar a transformar documentos de marca em uma experiência navegável. O foco, até esse momento, foi fazer o projeto existir localmente e mostrar como a IA consegue acelerar a criação.
 
-O professor reforça que a aparência ainda não está finalizada. Ele pretende tratar o design antes da próxima aula, mostrando que a criação com IA é iterativa: primeiro se constrói a estrutura, depois se refina visual, fluxo e detalhes.
+O Ruan reforça que a aparência ainda não está finalizada. Ele pretende tratar o design antes da próxima aula, mostrando que a criação com IA é iterativa: primeiro se constrói a estrutura, depois se refina visual, fluxo e detalhes.
 
 ## Próximas camadas do Brand System
 

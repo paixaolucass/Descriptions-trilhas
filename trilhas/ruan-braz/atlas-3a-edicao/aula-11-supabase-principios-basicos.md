@@ -13,23 +13,23 @@ Ao final desta aula, você será capaz de:
 
 ## Criação da conta no Supabase
 
-A aula começa orientando a criação de uma conta no Supabase. O professor recomenda acompanhar com atenção e anotar, porque o fluxo tem várias telas e detalhes.
+A aula começa orientando a criação de uma conta no Supabase. O Ruan recomenda acompanhar com atenção e anotar, porque o fluxo tem várias telas e detalhes.
 
-O primeiro passo é acessar o site do Supabase e criar conta com e-mail. Também é possível conectar pelo GitHub, mas o professor evita esse caminho porque Git e GitHub não foram explicados ainda na trilha.
+O primeiro passo é acessar o site do Supabase e criar conta com e-mail. Também é possível conectar pelo GitHub, mas o Ruan evita esse caminho porque Git e GitHub não foram explicados ainda na trilha.
 
 Depois de criar a conta, o aluno confirma o e-mail e faz login. A partir daí, precisa criar uma organização, que pode ter o nome da empresa, do projeto ou do próprio usuário.
 
 ## Organização e projeto no plano gratuito
 
-Na criação da organização, o tipo pode ficar como pessoal, e o plano gratuito é suficiente para a maioria dos projetos iniciais da trilha. O professor explica que projetos maiores, com muitos arquivos e dados, podem exigir plano pago ou outras ferramentas.
+Na criação da organização, o tipo pode ficar como pessoal, e o plano gratuito é suficiente para a maioria dos projetos iniciais da trilha. O Ruan explica que projetos maiores, com muitos arquivos e dados, podem exigir plano pago ou outras ferramentas.
 
 Dentro da organização, o aluno cria um projeto. No exemplo, o nome usado é Brand System. O Supabase permite ter projetos gratuitos dentro de uma organização, o que é adequado para o exercício.
 
-O professor também menciona ferramentas como Neon para banco de dados, mas mantém o Supabase porque ele reúne banco de dados, autenticação e storage no mesmo lugar.
+O Ruan também menciona ferramentas como Neon para banco de dados, mas mantém o Supabase porque ele reúne banco de dados, autenticação e storage no mesmo lugar.
 
 ## Senha do banco e configurações iniciais
 
-Durante a criação do projeto, o Supabase gera ou solicita uma senha. O professor reforça que essa senha precisa ser guardada, porque será necessária para acessar e configurar o projeto.
+Durante a criação do projeto, o Supabase gera ou solicita uma senha. O Ruan reforça que essa senha precisa ser guardada, porque será necessária para acessar e configurar o projeto.
 
 Ele recomenda usar senha forte, não senha fácil, pois esse é um ponto sensível do sistema. Se a senha se perder, será necessário trocar nas configurações e isso pode gerar retrabalho.
 
@@ -45,7 +45,7 @@ O MCP é apresentado como a conexão entre Claude e Supabase. Ele permite que o 
 
 ## Conectando Claude ao Supabase via MCP
 
-O professor abre o aplicativo desktop do Claude, acessa personalização, conectores e procura o conector Supabase. Depois, autoriza o Claude a acessar a organização criada no Supabase.
+O Ruan abre o aplicativo desktop do Claude, acessa personalização, conectores e procura o conector Supabase. Depois, autoriza o Claude a acessar a organização criada no Supabase.
 
 Na autorização, o usuário seleciona a organização correta. Se houver mais de uma conta ou organização, é importante conectar a certa, porque o agente só conseguirá enxergar o projeto associado àquele acesso.
 
@@ -57,13 +57,13 @@ A aula introduz variáveis de ambiente como dados sensíveis que mudam de acordo
 
 Essas informações geralmente ficam em arquivos `.env`, enquanto um arquivo `.env.example` mostra a estrutura sem expor os valores reais. O `.env.example` ajuda a IA e outros desenvolvedores a entenderem quais variáveis existem sem revelar segredos.
 
-O professor alerta que chaves de API conectadas a serviços pagos podem gerar prejuízo se vazarem. Alguém poderia usar a chave em outro sistema e gastar o dinheiro da conta. Mesmo em modelos gratuitos, uma chave vazada pode causar bloqueio ou abuso da conta.
+O Ruan alerta que chaves de API conectadas a serviços pagos podem gerar prejuízo se vazarem. Alguém poderia usar a chave em outro sistema e gastar o dinheiro da conta. Mesmo em modelos gratuitos, uma chave vazada pode causar bloqueio ou abuso da conta.
 
 ## Segurança básica ao lidar com segredos
 
 Variáveis de ambiente não devem ser expostas em repositórios, mensagens ou arquivos que a IA leia sem necessidade. Se um `.env` for enviado ao GitHub, mesmo que depois seja apagado, ele pode permanecer no histórico de commits.
 
-A aula antecipa que ferramentas mais seguras podem gerenciar variáveis de ambiente sem deixá-las soltas no projeto. Ainda assim, para a trilha, o professor apresenta a base conceitual que o aluno precisa saber antes de conectar Supabase e outros serviços.
+A aula antecipa que ferramentas mais seguras podem gerenciar variáveis de ambiente sem deixá-las soltas no projeto. Ainda assim, para a trilha, o Ruan apresenta a base conceitual que o aluno precisa saber antes de conectar Supabase e outros serviços.
 
 A regra prática é tratar senhas, chaves de API e tokens como segredos. A IA pode ajudar a configurar, mas o aluno precisa saber o que está sendo compartilhado e onde aquilo ficará armazenado.
 

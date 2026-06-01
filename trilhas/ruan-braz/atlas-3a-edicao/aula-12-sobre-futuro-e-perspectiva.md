@@ -13,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## A sensação de não estar preparado
 
-A aula começa acolhendo a sensação de muitos alunos: achar que aquilo talvez não seja para eles, que precisam voltar um passo ou que ainda não estão preparados. O professor compara esse começo com aprender a andar de bicicleta ou uma criança começando a andar.
+A aula começa acolhendo a sensação de muitos alunos: achar que aquilo talvez não seja para eles, que precisam voltar um passo ou que ainda não estão preparados. O Ruan compara esse começo com aprender a andar de bicicleta ou uma criança começando a andar.
 
 O objetivo não é exigir que o aluno saia correndo logo no início. Existem níveis. A dificuldade inicial é parte do processo de entrar em um ambiente novo, com ferramentas, conceitos e práticas que não são familiares.
 
@@ -21,9 +21,9 @@ O Atlas tem três objetivos declarados: dar um choque de realidade, colocar pode
 
 ## Quem enxerga mais decide melhor
 
-O professor apresenta uma tese central: quem decide melhor não é quem pensa mais, nem quem se esforça mais, mas quem enxerga mais. Essa ideia orienta a aula inteira.
+O Ruan apresenta uma tese central: quem decide melhor não é quem pensa mais, nem quem se esforça mais, mas quem enxerga mais. Essa ideia orienta a aula inteira.
 
-Enxergar mais significa perceber mudanças, ler dados, antecipar tendências e entender o ambiente antes de tomar decisões. O professor defende que esse tipo de aula é importante porque amplia o campo de visão do aluno.
+Enxergar mais significa perceber mudanças, ler dados, antecipar tendências e entender o ambiente antes de tomar decisões. O Ruan defende que esse tipo de aula é importante porque amplia o campo de visão do aluno.
 
 Pensar demais sem perspectiva pode gerar overthinking e fazer a pessoa cavar no lugar errado. Esforço sem direção não garante avanço.
 
@@ -33,11 +33,11 @@ A aula usa dados sobre a China para mostrar a velocidade da transformação. Uni
 
 Entre as trilhas acadêmicas mais afetadas aparecem gestão da informação, sistemas de informação, gestão de assuntos públicos, design de vestuário, design de moda, design de produto e ciência da informação. O ponto não é que essas áreas deixaram de importar, mas que estão se transformando em novas profissões.
 
-O professor conecta isso à insegurança de entrar hoje em uma faculdade de quatro anos para áreas criativas, tecnologia, desenvolvimento, produto ou negócios. Em um mundo que muda rapidamente, instituições tradicionais podem demorar para se adaptar.
+O Ruan conecta isso à insegurança de entrar hoje em uma faculdade de quatro anos para áreas criativas, tecnologia, desenvolvimento, produto ou negócios. Em um mundo que muda rapidamente, instituições tradicionais podem demorar para se adaptar.
 
 ## Universidades como navios lentos
 
-O professor retoma uma frase de sua coordenadora de faculdade: universidades são como navios gigantes e lentos, enquanto o mercado é formado por lanchas com motores de última geração.
+O Ruan retoma uma frase de sua coordenadora de faculdade: universidades são como navios gigantes e lentos, enquanto o mercado é formado por lanchas com motores de última geração.
 
 Essa metáfora explica por que instituições tradicionais demoram para mudar quando o mercado muda de direção. A aula não afirma que universidades vão acabar, mas que estão passando por uma transformação profunda.
 
@@ -47,7 +47,7 @@ O risco apresentado é contrair dívidas estudantis ou investir anos em formaç�
 
 A aula apresenta dados sobre uso de IA. A maior parte das pessoas nunca usou IA intencionalmente ou usa apenas chatbots gratuitos. Uma parcela muito pequena assina ferramentas, e uma parcela menor ainda usa coding scaffold e agentes de código.
 
-O coding scaffold é descrito como usar IA para estruturar código, sistemas e ferramentas enquanto o humano atua como arquiteto. O professor afirma que os alunos estão entrando em um nível que a maioria das pessoas ainda nem sabe que existe.
+O coding scaffold é descrito como usar IA para estruturar código, sistemas e ferramentas enquanto o humano atua como arquiteto. O Ruan afirma que os alunos estão entrando em um nível que a maioria das pessoas ainda nem sabe que existe.
 
 O papel da Overlens e da Vanguarda é formar mais pessoas para esse uso avançado, desenvolvendo habilidades que preparem para a nova era.
 
@@ -55,7 +55,7 @@ O papel da Overlens e da Vanguarda é formar mais pessoas para esse uso avançad
 
 A aula cita o relatório Future of Jobs, do Fórum Econômico Mundial, para listar habilidades centrais para 2030. Entre elas aparecem IA e Big Data, alfabetização tecnológica, pensamento criativo, resiliência, flexibilidade, agilidade, pensamento analítico, liderança, curiosidade, aprendizado contínuo, gestão de talentos, pensamento sistêmico, empatia e escuta ativa.
 
-O professor afirma que o Atlas, a Vanguarda e a Overlens trabalham justamente essas habilidades. A proposta não é ensinar apenas a clicar em botões ou escrever prompts melhores.
+O Ruan afirma que o Atlas, a Vanguarda e a Overlens trabalham justamente essas habilidades. A proposta não é ensinar apenas a clicar em botões ou escrever prompts melhores.
 
 O foco é formar pessoas capazes de pensar em sistemas, criar infraestrutura, usar IA com discernimento e tomar decisões em ambientes de alta mudança.
 
@@ -69,7 +69,7 @@ A IA pode tornar pessoas muito eficientes em uma direção ruim. Por isso, coloc
 
 ## Aprendizado cumulativo em IA
 
-O professor alerta que o aprendizado em IA é cumulativo e composto. Quem começou em 2020 ou 2022 aprendeu fundamentos, modelos, tokens, janela de contexto, primeiros prompts e erros que formam intuição.
+O Ruan alerta que o aprendizado em IA é cumulativo e composto. Quem começou em 2020 ou 2022 aprendeu fundamentos, modelos, tokens, janela de contexto, primeiros prompts e erros que formam intuição.
 
 De 2023 a 2025, a complexidade avançou para engenharia de agentes, orquestração, paralelização e memória persistente. De 2026 em diante, a direção envolve arquitetura de sistemas, infraestrutura cognitiva e pipelines mentais externalizados.
 
@@ -79,7 +79,7 @@ Quanto mais a pessoa espera para começar, mais difícil fica alcançar quem já
 
 A aula afirma que o poder mudou de endereço. O futuro não pertence apenas a quem tem dinheiro, mas a quem tem infraestrutura, dados e capacidade de coordenação.
 
-Dinheiro é tratado como ferramenta de controle, e o professor menciona mudanças como smart money e dinheiro programável. Nesse contexto, desenvolver infraestrutura própria pode ser mais importante do que apenas juntar dinheiro.
+Dinheiro é tratado como ferramenta de controle, e o Ruan menciona mudanças como smart money e dinheiro programável. Nesse contexto, desenvolver infraestrutura própria pode ser mais importante do que apenas juntar dinheiro.
 
 A pergunta final não é qual arranjo de poder vencerá, mas como cada pessoa pode aumentar sua soberania e sua infraestrutura pessoal. O foco deve estar em melhorar a própria vida, ajudar quem for possível e não terceirizar completamente a própria agência.
 

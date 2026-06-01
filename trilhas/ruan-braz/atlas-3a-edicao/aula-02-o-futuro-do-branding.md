@@ -21,7 +21,7 @@ Por isso, marca pessoal e marca empresarial são construídas o tempo todo. A ro
 
 ## Brand System como sistema de gestão da marca
 
-Quando a aula fala em Brand System, ela está tratando de um sistema para gerir a construção da marca. O professor reforça que boa parte do mercado ainda está presa no nível mais raso, tratando branding como visual, quando a questão real envolve comportamento, estratégia e visão sistêmica.
+Quando a aula fala em Brand System, ela está tratando de um sistema para gerir a construção da marca. O Ruan reforça que boa parte do mercado ainda está presa no nível mais raso, tratando branding como visual, quando a questão real envolve comportamento, estratégia e visão sistêmica.
 
 O Brand System aparece como uma resposta ao problema de operar marca por manuais estáticos, PDFs e pastas espalhadas em Google Drive. Esses formatos dificultam atualização, versionamento, acesso da equipe e consistência nas decisões.
 
@@ -47,7 +47,7 @@ Com feudalismo, patronos, burguesia, brasões e famílias, a marca ganha dimens�
 
 A aula reforça que seres humanos morrem, mas marcas, instituições e mitos podem permanecer no imaginário por milhares de anos. Zeus, Prometeu, mitologias antigas, religiões e instituições mostram que ideias abstratas podem se tornar duradouras quando continuam vivas na memória coletiva.
 
-Esse raciocínio prepara a visão de marcas vivas. Uma marca pode deixar de ser uma identidade estática e passar a funcionar como uma entidade com memória, comportamento e capacidade de responder. O professor reconhece que isso soa como ficção científica, mas defende que muitas ideias desse tipo acabam se tornando realidade.
+Esse raciocínio prepara a visão de marcas vivas. Uma marca pode deixar de ser uma identidade estática e passar a funcionar como uma entidade com memória, comportamento e capacidade de responder. O Ruan reconhece que isso soa como ficção científica, mas defende que muitas ideias desse tipo acabam se tornando realidade.
 
 O objetivo não é afirmar uma verdade religiosa, política ou metafísica. O ponto é observar como o comportamento humano constrói futuros possíveis e como marcas e instituições participam dessa construção.
 
@@ -69,7 +69,7 @@ A IA deve adaptar a expressão da marca, nunca sua essência. Diretrizes de marc
 
 ## O novo papel do designer
 
-O professor afirma que o design não morreu, mas está evoluindo. Designers que se limitam a desenhar, escolher cor ou tipografia ficam presos à base do processo. Esses elementos continuam importantes, mas deixam de ser o centro do valor.
+O Ruan afirma que o design não morreu, mas está evoluindo. Designers que se limitam a desenhar, escolher cor ou tipografia ficam presos à base do processo. Esses elementos continuam importantes, mas deixam de ser o centro do valor.
 
 O valor passa a subir em estratégia, sistemas e curadoria. Em um mundo com conteúdo abundante, torna-se mais raro saber escolher, dirigir percepção e construir a realidade simbólica que a marca apresenta ao público.
 

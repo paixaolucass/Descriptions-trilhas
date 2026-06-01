@@ -13,7 +13,7 @@ Ao final desta aula, você será capaz de:
 
 ## Banco vetorial como tema avançado
 
-A aula bônus começa com uma pergunta sobre banco vetorial. O professor explica que não aprofundou esse tema porque ele exige uma sequência técnica anterior.
+A aula bônus começa com uma pergunta sobre banco vetorial. O Ruan explica que não aprofundou esse tema porque ele exige uma sequência técnica anterior.
 
 Antes de ensinar banco vetorial, seria necessário explicar embeddings, divisão de textos e arquivos em vetores, conexão do banco, segurança e validação de que o sistema realmente está recuperando e aprendendo a partir dos vetores corretos.
 
@@ -21,7 +21,7 @@ Por isso, o banco vetorial é tratado como uma etapa posterior. O Atlas foca pri
 
 ## Projetos harness e economia de tokens
 
-Uma pergunta aborda a substituição de subagentes especializados por agentes genéricos com skills especializadas. O professor responde falando de projetos harness.
+Uma pergunta aborda a substituição de subagentes especializados por agentes genéricos com skills especializadas. O Ruan responde falando de projetos harness.
 
 Um projeto harness usa infraestrutura própria para reduzir dependência direta da IA em tarefas repetitivas. Em vez de gastar tokens toda vez, o aluno pode pedir para a IA escrever scripts que o computador executa sozinho.
 
@@ -29,7 +29,7 @@ Scripts são roteiros de comandos executados localmente. Eles não gastam tokens
 
 ## Storybook e Design System reutilizável
 
-O professor confirma que é possível usar o mesmo Storybook em outros projetos para aproveitar componentes. Essa é justamente a vantagem de construir um Design System.
+O Ruan confirma que é possível usar o mesmo Storybook em outros projetos para aproveitar componentes. Essa é justamente a vantagem de construir um Design System.
 
 A recomendação é criar uma pasta separada apenas para o Design System, fora do Brand System específico. Nessa pasta, o aluno instala o Storybook, organiza componentes e cria a biblioteca visual.
 
@@ -41,11 +41,11 @@ A aula esclarece que não se usa `/skill` de forma genérica. Para ativar uma sk
 
 No Claude, a pasta esperada é `.claude`. Se uma ferramenta instala as skills em `.agents`, o Claude pode não encontrá-las corretamente. Nesse caso, é preciso renomear a pasta para `.claude`.
 
-Já Codex e Gemini usam a pasta `.agents`, então não precisam da mesma alteração. O professor indica um vídeo no canal Juan Brás que mostra skills úteis e explica a instalação.
+Já Codex e Gemini usam a pasta `.agents`, então não precisam da mesma alteração. O Ruan indica um vídeo no canal Ruan Braz que mostra skills úteis e explica a instalação.
 
 ## Desenvolvimento na Vanguarda e Overpass
 
-O professor diferencia os programas. O Overpass oferece conteúdos sobre IA, história das IAs, geração de imagem, vídeo, música e prompts melhores, além do acesso às gravações do Atlas para assinantes.
+O Ruan diferencia os programas. O Overpass oferece conteúdos sobre IA, história das IAs, geração de imagem, vídeo, música e prompts melhores, além do acesso às gravações do Atlas para assinantes.
 
 Desenvolvimento em profundidade, com acompanhamento mais próximo e formação acelerada em criação de sistemas com IA, fica concentrado na Vanguarda.
 
@@ -65,11 +65,11 @@ Quando alguém trabalha sozinho, pode fazer commit e push direto na branch princ
 
 Depois, essas pessoas abrem um PR, pull request, solicitando que as mudanças sejam revisadas e unidas ao projeto principal. O merge junta as alterações aprovadas à branch principal.
 
-Em um fluxo mais robusto, antes disso ainda há backlog, stories, sprints, correções de bugs e organização ágil. O professor menciona essas camadas para mostrar que existe um processo profissional por trás do desenvolvimento de software.
+Em um fluxo mais robusto, antes disso ainda há backlog, stories, sprints, correções de bugs e organização ágil. O Ruan menciona essas camadas para mostrar que existe um processo profissional por trás do desenvolvimento de software.
 
 ## Localhost, stage e produção
 
-O professor explica a diferença entre rodar localmente e publicar. `npm run dev` abre o projeto em `localhost`, que só funciona no computador de quem está rodando.
+O Ruan explica a diferença entre rodar localmente e publicar. `npm run dev` abre o projeto em `localhost`, que só funciona no computador de quem está rodando.
 
 Enviar um link `localhost` para outra pessoa não funciona porque ela não tem o repositório nem os arquivos locais. Para outras pessoas acessarem, é preciso fazer deploy em um ambiente público, como Vercel.
 

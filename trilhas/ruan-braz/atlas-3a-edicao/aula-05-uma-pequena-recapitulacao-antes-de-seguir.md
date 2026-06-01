@@ -13,13 +13,13 @@ Ao final desta aula, você será capaz de:
 
 ## Checkpoint antes da prática
 
-A aula abre a segunda parte do primeiro dia com um checkpoint. O professor retoma dúvidas surgidas no grupo de networking, principalmente sobre instalação de ferramentas e diferença entre usar a IA no navegador e usar a IA dentro do computador.
+A aula abre a segunda parte do primeiro dia com um checkpoint. O Ruan retoma dúvidas surgidas no grupo de networking, principalmente sobre instalação de ferramentas e diferença entre usar a IA no navegador e usar a IA dentro do computador.
 
 Esse momento serve para alinhar os alunos antes da prática. A proposta é reduzir a ansiedade de quem ainda estava configurando ambiente, reforçar conceitos importantes e preparar o terreno para abrir o Antigravity e trabalhar com Claude Code no terminal.
 
 ## Por que o navegador é limitado
 
-O professor explica que muitas pessoas pagam por ferramentas como Claude, ChatGPT ou Gemini, mas usam apenas o aplicativo ou o navegador. Essa forma é útil para conversa, estudo, perguntas rápidas e expansão de ideias, mas não aproveita o potencial completo da IA para criar sistemas.
+O Ruan explica que muitas pessoas pagam por ferramentas como Claude, ChatGPT ou Gemini, mas usam apenas o aplicativo ou o navegador. Essa forma é útil para conversa, estudo, perguntas rápidas e expansão de ideias, mas não aproveita o potencial completo da IA para criar sistemas.
 
 No navegador, a IA roda em um servidor externo e não tem acesso direto aos arquivos do computador. Ela não consegue agir no projeto local, instalar dependências, criar arquivos persistentes ou operar com a mesma autonomia de um agente de código.
 
@@ -27,7 +27,7 @@ Por isso, a aula diferencia Claude no navegador de Claude Code. Ambos podem usar
 
 ## Aplicativo desktop, terminal e atualizações
 
-O aplicativo desktop do Claude é apresentado como uma evolução em relação ao navegador, porque permite selecionar pastas e trabalhar com mais recursos. Ainda assim, o professor reforça que o terminal recebe novidades primeiro e oferece mais liberdade.
+O aplicativo desktop do Claude é apresentado como uma evolução em relação ao navegador, porque permite selecionar pastas e trabalhar com mais recursos. Ainda assim, o Ruan reforça que o terminal recebe novidades primeiro e oferece mais liberdade.
 
 A razão é a abstração. Quando a Anthropic cria uma nova capacidade para o modelo, ela consegue liberar mais rapidamente no terminal. Para transformar o recurso em interface de aplicativo, precisa adaptar, testar e embalar a funcionalidade no produto visual.
 
@@ -37,15 +37,15 @@ Por isso, o terminal é recomendado para o Atlas. Ele pode assustar no início, 
 
 Quem usa ChatGPT pode trabalhar com Codex. Quem usa Google pode trabalhar com Gemini CLI ou com o painel de IA do próprio Antigravity. A aula mostra que é possível acordar diferentes agentes no terminal, como Claude, Codex e Gemini.
 
-O professor também recomenda conteúdos complementares no canal Juan Brás para quem quiser entender melhor rotinas, customizações, skills e uso dessas ferramentas. O foco do Atlas, porém, continua sendo construir o Brand System.
+O Ruan também recomenda conteúdos complementares no canal Ruan Braz para quem quiser entender melhor rotinas, customizações, skills e uso dessas ferramentas. O foco do Atlas, porém, continua sendo construir o Brand System.
 
-A decisão prática da trilha é usar Claude Code no terminal dentro do Antigravity. As outras opções são válidas, mas o professor escolhe uma ferramenta principal para não precisar explicar três fluxos diferentes ao mesmo tempo.
+A decisão prática da trilha é usar Claude Code no terminal dentro do Antigravity. As outras opções são válidas, mas o Ruan escolhe uma ferramenta principal para não precisar explicar três fluxos diferentes ao mesmo tempo.
 
 ## Antigravity como ambiente de trabalho
 
 Ao abrir o Antigravity, o aluno encontra uma IDE com painéis, pastas, arquivos e terminal integrados. A primeira orientação é fazer login, se desejar usar a IA do próprio Antigravity, mas o fluxo principal será usar Claude no terminal.
 
-O professor mostra que a IDE exibe o caminho da pasta atual e permite abrir painéis laterais, inferiores e arquivos. O terminal dentro do Antigravity evita que o aluno precise alternar entre várias janelas.
+O Ruan mostra que a IDE exibe o caminho da pasta atual e permite abrir painéis laterais, inferiores e arquivos. O terminal dentro do Antigravity evita que o aluno precise alternar entre várias janelas.
 
 Quando Claude é carregado dentro do terminal da IDE, o aluno passa a ter, em um único lugar, a conversa com o agente, a estrutura de pastas e a visualização dos arquivos. Esse é o ponto central da metodologia prática da aula.
 
