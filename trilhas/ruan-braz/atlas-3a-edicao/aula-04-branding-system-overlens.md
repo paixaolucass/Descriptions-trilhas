@@ -13,13 +13,13 @@ Ao final desta aula, você será capaz de:
 
 ## Apresentação do Brand System modelo
 
-A aula mostra o Brand System criado como modelo a partir dos dados da Overlens. Ele funciona como referência para o que os alunos poderão construir, mas o professor deixa claro que cada pessoa pode adaptar estilo, visual, estrutura e conteúdo para sua própria marca ou para a marca de um cliente.
+A aula mostra o Brand System criado como modelo a partir dos dados da Overlens. Ele funciona como referência para o que os alunos poderão construir, mas o Ruan deixa claro que cada pessoa pode adaptar estilo, visual, estrutura e conteúdo para sua própria marca ou para a marca de um cliente.
 
 O design exibido segue o Design System da Overlens, por isso tem linguagem visual própria. A intenção não é obrigar os alunos a replicarem esse visual, mas mostrar o tipo de sistema que pode ser criado quando as diretrizes da marca deixam de ficar soltas e passam a viver em uma interface centralizada.
 
 ## Chat integrado às diretrizes da marca
 
-O professor demonstra um chat conectado às diretrizes da Overlens usando o modelo Gemma, do Google DeepMind. Ele explica que o Gemma é um modelo gratuito, pequeno e mais lento que modelos como Claude ou GPT, mas capaz de entregar boas respostas quando está conectado ao conteúdo correto.
+Ruan demonstra um chat conectado às diretrizes da Overlens usando o modelo Gemma, do Google DeepMind. Ele explica que o Gemma é um modelo gratuito, pequeno e mais lento que modelos como Claude ou GPT, mas capaz de entregar boas respostas quando está conectado ao conteúdo correto.
 
 Ao pedir que o sistema explique o que é a Overlens, a resposta não vem como um chatbot genérico. A IA usa as diretrizes da marca para falar sobre designers nexialistas, fragmentação do conhecimento, integração entre design, filosofia, tecnologia e arte, e a ideia de lentes como perspectivas para enxergar a realidade de forma mais profunda.
 
@@ -27,15 +27,15 @@ Esse exemplo mostra o poder de conectar uma IA ao universo da marca. A resposta 
 
 ## Conversa com documentos específicos
 
-A aula também mostra que o chat pode usar documentos específicos como fonte. O professor conecta a linha do tempo da Overlens e pergunta em que momento Ruan e Rafael perceberam que precisavam ser nexialistas.
+A aula também mostra que o chat pode usar documentos específicos como fonte. O Ruan conecta a linha do tempo da Overlens e pergunta em que momento Ruan e Rafael perceberam que precisavam ser nexialistas.
 
-A IA consulta a história da marca e responde relacionando incômodo com a educação tradicional, choque com o mercado, fragilidade criativa diante das IAs generativas e busca por um eixo orientador mais sólido. O professor nota um ponto de imprecisão na resposta e explica que esse tipo de erro pode ser questionado e corrigido para a IA aprender melhor.
+A IA consulta a história da marca e responde relacionando incômodo com a educação tradicional, choque com o mercado, fragilidade criativa diante das IAs generativas e busca por um eixo orientador mais sólido. O Ruan nota um ponto de imprecisão na resposta e explica que esse tipo de erro pode ser questionado e corrigido para a IA aprender melhor.
 
 O ponto central da demonstração é que a história da empresa, dos fundadores e das decisões estratégicas pode ficar disponível para a IA. Com isso, ela passa a responder de modo mais contextual, alinhado e útil para a equipe.
 
 ## Diretrizes do núcleo, linguagem e visual
 
-O Brand System reúne documentos sobre por que a Overlens existe, cuidados para falar em nome da marca, riscos, postura e preço pago por fazer parte da organização. Esses documentos servem para o professor, a equipe e a IA operarem a partir de uma mesma visão.
+O Brand System reúne documentos sobre por que a Overlens existe, cuidados para falar em nome da marca, riscos, postura e preço pago por fazer parte da organização. Esses documentos servem para o Ruan, a equipe e a IA operarem a partir de uma mesma visão.
 
 No núcleo da marca, aparecem virtudes como científica, profunda, provocativa e inspiradora. Também há arquétipos como mago, criador e sábio, além de diretrizes de identidade verbal, vocabulário e tom de voz.
 
@@ -51,7 +51,7 @@ Para designers, isso abre uma oportunidade de serviço: além de construir a mar
 
 ## Sistemas internos além do Brand System
 
-O professor explica que o Brand System é apenas uma das camadas da Overlens. A empresa também tem um Growth System, com personas, growth loops e funis de marketing, e um Content System, usado para organizar e gerar conteúdo.
+O Ruan explica que o Brand System é apenas uma das camadas da Overlens. A empresa também tem um Growth System, com personas, growth loops e funis de marketing, e um Content System, usado para organizar e gerar conteúdo.
 
 Esses sistemas mostram que a lógica pode ser ampliada para diferentes áreas do negócio. No Atlas, o foco será o Brand System porque não há tempo para ensinar todas as camadas, mas o mesmo princípio pode ser aplicado a marketing, conteúdo, operação e inteligência interna.
 
