@@ -100,4 +100,5 @@ Preciso que você crie uma tela de gestão de ativos da marca. Essa tela vai apr
 Aqui vamos precisar trabalhar em várias etapas diferentes. Preciso que você orquestre um conjunto de agentes em paralelização. Cada um responsável por uma etapa. Precisamos configurar: autenticação, banco de dados e storage. Já temos a página de login e criar conta. Precisamos definir dois tipos de usuários:
 - admin: permissão bypass total (editar, excluir arquivos, ativos e usuários)
 - staff: usuário padrão quando alguém cria conta
+
 Na tela de configurações, uma seção para gerenciar membros e definir níveis de acesso [admin ou staff]. Além disso, precisamos criar as tabelas dos MDXs. E o storage para armazenar os ativos da marca. Tanto admins quanto staff podem fazer upload na página de Ativos da Marca. Antes de começar, quero que você crie um plano de execução. Na sequência, delegue para os agentes a execução do projeto.
