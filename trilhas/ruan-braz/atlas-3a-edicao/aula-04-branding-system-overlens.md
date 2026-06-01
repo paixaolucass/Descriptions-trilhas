@@ -27,7 +27,7 @@ Esse exemplo mostra o poder de conectar uma IA ao universo da marca. A resposta 
 
 ## Conversa com documentos específicos
 
-A aula também mostra que o chat pode usar documentos específicos como fonte. O professor conecta a linha do tempo da Overlens e pergunta em que momento Juan e Rafael perceberam que precisavam ser nexialistas.
+A aula também mostra que o chat pode usar documentos específicos como fonte. O professor conecta a linha do tempo da Overlens e pergunta em que momento Ruan e Rafael perceberam que precisavam ser nexialistas.
 
 A IA consulta a história da marca e responde relacionando incômodo com a educação tradicional, choque com o mercado, fragilidade criativa diante das IAs generativas e busca por um eixo orientador mais sólido. O professor nota um ponto de imprecisão na resposta e explica que esse tipo de erro pode ser questionado e corrigido para a IA aprender melhor.
 
