@@ -2,7 +2,7 @@ Cálculo interno: [18 blocos] / [64 parágrafos totais] / [2122 palavras estimad
 
 # Rodando o sistema e melhorando a interface
 
-**Tempo estimado de leitura:** 11 minutos
+**Tempo estimado de leitura:** 7 minutos
 
 ## Objetivos de aprendizado
 
