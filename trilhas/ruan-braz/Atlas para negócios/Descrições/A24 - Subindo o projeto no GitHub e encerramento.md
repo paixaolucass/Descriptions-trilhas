@@ -2,7 +2,7 @@ Cálculo interno: [8 blocos] / [29 parágrafos totais] / [836 palavras estimadas
 
 # Subindo o projeto no GitHub e encerramento
 
-**Tempo estimado de leitura:** 5 minutos
+**Tempo estimado de leitura:** 2 minutos
 
 ## Objetivos de aprendizado
 
