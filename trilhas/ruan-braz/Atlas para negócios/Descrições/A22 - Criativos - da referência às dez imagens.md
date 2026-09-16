@@ -2,7 +2,7 @@ Cálculo interno: [22 blocos] / [74 parágrafos totais] / [1928 palavras estimad
 
 # Criativos - da referência às dez imagens
 
-**Tempo estimado de leitura:** 10 minutos
+**Tempo estimado de leitura:** 6 minutos
 
 ## Objetivos de aprendizado
 
