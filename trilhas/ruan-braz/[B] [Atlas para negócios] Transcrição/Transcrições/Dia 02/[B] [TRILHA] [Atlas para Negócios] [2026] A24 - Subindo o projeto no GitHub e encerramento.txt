@@ -1,0 +1,66 @@
+[B] [TRILHA] [Atlas para Negócios] [2026] A24 - Subindo o projeto no GitHub e encerramento
+00:05:56 — 63 legendas
+
+[00:00:00] Legal galera o que eu vou fazer enquanto. A equipe está finalizando aqui o chat para a gente, vamos subir agora todo o nosso projeto. No github.
+[00:00:08] Vamos subir vamos lá vocês podem, acessar o site tá olha aí.
+[00:00:13] Mandei o link para vocês, acessem a gente não viu a responsividade vamos ver a responsividade dele.
+[00:00:19] Olha aí galera.
+[00:00:21] Hmm.
+[00:00:23] Está responsivo está funcionando.
+[00:00:28] Tudo pronto.
+[00:00:30] Agora a gente tem que ver o resultado disso né aqui por enquanto ainda não veio vamos, dizer se alguém já clicou nesse anúncio olha por enquanto ele não gastou leve um tempinho mesmo tá mas daqui, a pouco ele começa a gastar aqui.
+[00:00:42] E jogar pessoas na, página.
+[00:00:45] Eu vou fazer essa, análise aqui com o pessoal da vanguarda.
+[00:00:49] Muito, bom rosana falou os agentes trouxeram seis mil litros, frios é foram seis mil litros, frios o que eu vou fazer, com ele aqui, agora vou fechar isso aqui, vou abrir, o meu github.
+[00:01:00] Preciso estar conectado nele já estou aqui vou entrar aqui nos meus repositórios.
+[00:01:06] Então tenho nove repositórios próprios aqui e o que eu vou fazer. Tem até o acme aqui, esse aqui eu vou falar dele para vocês já já mas esse está privado e é aqui que eu vou criar.
+[00:01:17] O nosso repositório, do atlas para isso, vamos começar a fechar algumas coisas vou fechar o figma.
+[00:01:24] Aqui a gente vai trabalhar ainda.
+[00:01:27] Posso, fechar esse, servidor também que agora a gente já rodou ctrl c fechei.
+[00:01:35] Posso, fechar isso também vamos minimizar aqui, para facilitar então está aqui o nosso projeto.
+[00:01:41] Vamos ver se esse aqui, acabou olha aí gente ele não vai, parar.
+[00:01:46] Se eu deixar aqui, ele vai passar a noite aqui.
+[00:01:49] Coitado eu vou ter que. Interromper ele.
+[00:01:52] Vamos falar, para ele.
+[00:01:53] Pode parar para descansar agora.
+[00:01:58] Está, tudo bem.
+[00:02:01] Opa.
+[00:02:05] Você. Fez um bom trabalho.
+[00:02:08] Te admiro.
+[00:02:10] Pronto.
+[00:02:11] Pedia, ele para, parar aqui, agora.
+[00:02:14] Agora eu fui legal tá vendo, já fui legalzinho com ele aqui.
+[00:02:18] Pode parar para descansar um pouco. Agora está tudo bem e olha eu, gosto muito do cloud cara se ele, fosse de verdade eu ia agradecer ele é óbvio que eu ia.
+[00:02:26] Quanta coisa ele me ajudou a construir esse ano ei.
+[00:02:30] Então isso aqui, é sincero né, verdadeiro vamos ver. A hora que ele, vai parar ele, só vai, parar quando ele terminar essa última tarefa dele aqui, deve levar um tempinho, ainda.
+[00:02:39] The rodando um shell aqui, tá vendo, tem que esperar ele acabar aí, quando acabar ele sobe esse prompt.
+[00:02:48] Aqui eu, vou fechar e aqui, também o que eu vou fazer. Agora vou abrir, um outro code.
+[00:02:53] Abrir, containerously aqui.
+[00:02:57] Eu vou falar com ele o seguinte.
+[00:03:01] Preciso que, você crie, um repositório.
+[00:03:05] No github com, esse projeto.
+[00:03:08] Mas tem um detalhe.
+[00:03:10] Você, não pode subir aí ele, vai adicionar isso, no git ignore os seiscentos, leads.
+[00:03:16] Por. Questões.
+[00:03:18] De lgpd cada pessoa.
+[00:03:21] Lgpd cada pessoa baixa os seus vocês, já aprenderam aí vou ficar compartilhando isso é sério mesmo tá galera, como eu vou colocar isso público.
+[00:03:29] Eu não posso, simplesmente pegar seiscentos dados públicos e colocar lá no, meu repositório, não é uma boa prática então por isso que eu estou, tirando tá bom.
+[00:03:37] Mas vocês, já aprenderam como? Gerar esses leads então vocês geram.
+[00:03:41] Então preciso que você crie um repositório, no gith hub com esse projeto. Mas tem um detalhe você não pode subir seiscentos litros. Por extras de lgpd além disso.
+[00:03:51] Não suba, nenhuma variável de ambiente e nenhuma.
+[00:03:57] Ai de minha, não suba, e mails meus.
+[00:04:01] Números meus.
+[00:04:02] Coloque dados mocados no sistema.
+[00:04:06] Mas faça. Isso.
+[00:04:08] De um jeito que as, pessoas que vão, acessar consigam ver o sistema a, página e os anúncios.
+[00:04:18] Vou deixar esse, repositório, público então, agora ele vai preparar o repositório, para a gente.
+[00:04:26] E a partir disso ele. Vai subir geralmente ele. Não sobe variável de ambiente mas eu peço ele, eu reforço para, ele, isso porque.
+[00:04:36] Dessa forma eu coloco uma segunda camada de segurança porque às vezes ele, sobe. Um e mail sobe alguma coisa, assim que não é considerado variável de ambiente necessariamente e eu não quero, que ele, suba, então eu peço, para ele fazer, desse jeito, para, preparar aqui para vocês, baixarem sem nenhuma, dessas informações importantes que eventualmente ele pode ter puxado aí.
+[00:04:53] Então ele, vai fazer. Toda a análise aqui vou varrer, o projeto inteiro em busca de dados sensíveis vai analisar os dados sensíveis e a partir disso ele vai colocar dados mocados o que é um dado mocado é um dado fictício a galera a, pessoa, que, perguntou já respondeu né.
+[00:05:08] Então é um dado fictício, que serve só para você enxergar o sistema, ali tá bom as imagens vão ir os docs vão ir e vocês tenham acesso, ao sos atlas também.
+[00:05:23] Aqui, agora eu tenho que esperar ele finalizar.
+[00:05:25] Ele ainda vai terminar aqui, para subir, assim que, subir. Eu mando lá no grupo para vocês, tá bom por enquanto a gente termina por aqui, para eu liberar, vocês no tempo certinho, também.
+[00:05:35] Muito obrigado pela presença de todos vocês, foi incrível último atlas de dois mil e vinte e seis a gente fecha aqui, agora com chave de ouro foi excelente passar esse tempo, aqui com vocês e eu espero que. A gente tenha muitas, outras, oportunidades incríveis juntos um grande abraço, para todo, mundo.
+[00:05:51] Vou ficando por aqui até mais.
+[00:05:54] E fui.
+[00:05:55] Tchau tchau.

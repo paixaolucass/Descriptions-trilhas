@@ -1,0 +1,108 @@
+[B] [TRILHA] [Atlas para Negócios] [2026] A13 - Rodando o sistema e melhorando a interface
+00:11:03 — 105 legendas
+
+[00:00:00] Então beleza vamos lá o que. A gente vai fazer, agora primeiro de tudo nós precisamos, rodar, o nosso sistema de novo então eu vou fechar todos esses terminais aqui e vou abrir, um novo com o cloud na verdade eu nem precisava abrir com o cloud não deixa esse cloud aí.
+[00:00:12] E eu vou fazer, aqui o seguinte. Isso aqui é importante eu só explicar, para vocês.
+[00:00:16] Dependendo, da.
+[00:00:18] Do conjunto de tecnologias que você escolhe para construir o seu sistema você tem maneiras, diferentes de dar o start nele essa ignição para que ele rode no seu sistema se for um html ou, um ccs básico que são linguagens de marcação que, qualquer navegador lê.
+[00:00:33] Basta, você dar dois cliques no arquivo e ele abre funciona, normal agora se você está trabalhando com linguagens que são? Mais avançadas está trabalhando com linguagens de programação como um javascript. Por. Exemplo você precisa rodar o servidor para que você veja o seu sistema.
+[00:00:48] Aqui no caso como eu utilizei next e javascript a gente, vai rodar usando esse comando aqui olha npm, que é um npm, é um gestor de pacotes não vou mergulhar, nisso, aqui agora não precisa saber isso também para rodar mas basicamente eu estou rodando aqui npm, run.
+[00:01:05] Deve esse run significa rodar e deve significa que eu vou rodar um servidor de desenvolvimento porque eu quero que ele.
+[00:01:14] Que localmente para, que eu consiga, visualizar, meu sistema então vou dar, um enter aqui.
+[00:01:18] Ele, deu erro se, isso aqui, acontecer com vocês, é comum, e tem um motivo aqui no, meu, caso, para, isso, acontecer.
+[00:01:25] Se vocês olharem eu estou dentro da pasta, maravilha só que essa pasta, não é, a pasta, do sistema ela é uma pasta aberta eu tenho aqui dentro, três pastas dentro da pasta maravilha nós precisamos rodar esse npm run dev dentro da pasta onde o sistema está que é essa pasta app aqui.
+[00:01:41] Para isso. A gente tem que entrar nessa pasta pelo terminal e como que funciona a gente, já vai apertar aqui, cd espaços e aí a gente vai explicar colocar aqui o nome, da pasta.
+[00:01:52] Então vou colocar aqui app só beber uma água aqui.
+[00:01:57] Sino de vocês funcionou é porque.
+[00:02:00] O aplicativo de vocês está na pasta raiz aí vai funcionar normalmente então cd app para entrar na pasta do aplicativo.
+[00:02:08] E aí aqui eu vou dar um enter para aí, que eu apertei cliquei com, o botão direito, aqui.
+[00:02:13] Cdeep agora ele entrou dentro dessa pasta está vendo o caminho aqui barra app aqui está só, maravilha não tem barra, app agora aqui, tem barra app e aqui, eu vou rodar de novo, agora ele rodou certinho tá vendo turbo pack local.
+[00:02:28] E ele mostra aqui pra gente dentro do anti gravity eu não gosto da visualização aqui, então eu já fecho aqui, direto inclusive vou fechar todas essas também para ficar limpinho, já é coisa demais para a gente gerenciar.
+[00:02:39] E agora o que eu, vou fazer eu, vou copiar esse link aqui.
+[00:02:42] Copiei ele venho aqui no, meu navegador.
+[00:02:46] Opa é, um outro.
+[00:02:48] E cola o link aqui.
+[00:02:51] Só tem um detalhe está vendo, que está escrito aqui local host, significa que ele, está, hospedando isso localmente na nossa máquina.
+[00:03:00] Se você manda esse link para outra pessoa que, não está no seu computador, ela não consegue, acessar tá bom.
+[00:03:05] Ela não vai acessar o seu, site para isso você, precisa publicar esse sistema, em um servidor que, fica ligado vinte e quatro horas por dia beleza aí eu vou explicar, para vocês também como que. A gente faz isso.
+[00:03:18] Aqui então nós, temos o nosso sistema mas a gente precisa ajustar melhor ele vocês concordam comigo melhorar, a tipografia melhorar um, pouco as hierarquias então o que eu vou fazer olha.
+[00:03:29] É bem simples na verdade eu vou.
+[00:03:33] Printar essa minha tela principal.
+[00:03:36] E uma vez, que eu printei ela eu vou voltar aqui no, nosso, cursor venho, aqui no cloud eu vou explicar pra, ele.
+[00:03:42] Precisamos, melhorar a experiência, de uso. Do nosso.
+[00:03:47] Sistema em aí, eu vou colocar aqui para ele barra app que é o sistema que a gente está agora.
+[00:03:54] Vou mandar o print para ele também.
+[00:03:57] Aí eu apertei out v e eu vou falar para ele, o seguinte.
+[00:04:03] Primeiro quero, que você, mude, a tipografia para inter.
+[00:04:10] Em todos os textos então estou mudando a, letra aqui.
+[00:04:13] Para ele deixar uma letra mais, visualmente mais fácil de lidar.
+[00:04:18] E vai funcionar bem aqui.
+[00:04:21] Tá bom então vamos seguir.
+[00:04:23] Essas recomendações de ferramentas eu vou recomendar não fazer, isso agora tá bom, porque como eu não tenho como verificar. Os links, se vocês, ficarem mandando links, e alguém clicar e tiver algum link malicioso eu sei que não é o caso aqui mas eu já preciso avisar vocês tá bom pode acontecer.
+[00:04:39] E aí como eu não verifiquei vocês, vão clicar, e vão cair, num link malicioso e vai dar problema então recomendo, não indicarem, assim.
+[00:04:47] Ferramentas, agora depois a gente, vai ter um tempo para, falar sobre, isso e aí, vai ser, mais seguro para todo, mundo, tá não estou falando que é, o seu caso beleza adriano eu sei que você está fazendo. Isso com a melhor intenção querendo ajudar todo, mundo.
+[00:04:58] E mas eu estou avisando só para evitar que, isso aconteça com outras, pessoas tá bom.
+[00:05:04] Ou, quanto mais, complexa a tela.
+[00:05:05] Mais, cuidado tem que ter tá bom. Por exemplo ela que tem imagem o cloud não vai gerar imagens. Aqui agora você tem que gerar imagens com outras, ias de imagem o gpt gera, tá o chat gpt gera imagens e coloca pra gente o cloud não.
+[00:05:18] Então você tem que trabalhar esse processo.
+[00:05:21] Primeiro trabalhar, a interface, depois traz, as imagens, também.
+[00:05:24] Essa daqui. Também parece interessante eu quero só, que ela carregue, para a gente ver melhor não sei porque que está.
+[00:05:30] Demorando para carregar aqui.
+[00:05:34] Olha carregou tá bonitinha essa gostei dela.
+[00:05:38] É até outras, telas dela aqui que dá pra gente.
+[00:05:41] Pegar de referência vou abrir essa aqui, também.
+[00:05:45] Abrir, imagem nova, guia abrir, imagem nova, guia.
+[00:05:50] Então legal vou.
+[00:05:52] Vou, pegar essa, imagem aqui no caso, eu vou só. Tirar, um print mesmo vai ser suficiente.
+[00:05:57] Então tira, um print, aqui.
+[00:06:00] E quer saber eu vou fazer, isso aqui no.
+[00:06:04] Fazendo gpt eu tenho trabalhado muito no cloud com vocês.
+[00:06:08] Estamos nele aqui parece que ele está dando uns, bugzinhos deixa, eu ver está dando uns buggzinhos está no astra high.
+[00:06:09] Vou seguir aqui no astra high então vou mandar aqui algumas imagens para ele.
+[00:06:13] São, aquelas que a gente já estava trabalhando.
+[00:06:15] Essa, aqui e essa, aqui.
+[00:06:23] E agora eu vou mandar aquele prompt que a gente estava escrevendo aqui para copiar, é só clicar com o botão direito e ele copiar está vendo, ele até copiou já de uma vez aqui.
+[00:06:38] Todos os textos.
+[00:06:41] Só copiar isso aqui e colar aqui.
+[00:06:43] Precisamos, melhorar aí, eu tenho que. Tirar essa imagem, um aqui também.
+[00:06:47] Não está fazendo. Sentido.
+[00:06:50] Que a gente, já colocou outro.
+[00:06:52] Nossa, esse negócio piscando ali tá.
+[00:06:55] Estranho se esse efeito é proposital.
+[00:06:59] Muito ruim. Mas então aqui em todos os textos vou mandar como que o nosso sistema está agora para ele entender também.
+[00:07:09] Eu falar no, momento estamos assim lá no, terceira imagem.
+[00:07:15] Quero, deixar como as imagens.
+[00:07:18] E já te mandei.
+[00:07:19] No início do.
+[00:07:21] Pronto.
+[00:07:23] Beleza.
+[00:07:27] Deixa, eu pensar se tem mais alguma coisa, que eu falaria para ele.
+[00:07:31] Trabalhe também.
+[00:07:33] A responsividade responsividade é o quanto que uma, tela se ajusta, a telas, menores ou maiores entendeu.
+[00:07:41] Vou deixar dessa forma aqui, também dou um enter para ele.
+[00:07:48] Vou deixar ele pegar.
+[00:07:55] Vai. Aplicar a inteira aqui também vamos ver. Como que esse astra rai vai trabalhar aqui, agora e se ele vai acabar com os meus créditos ou não.
+[00:08:02] Enquanto isso.
+[00:08:05] Vamos conversar aqui sobre, os próximos passos.
+[00:08:09] Então voltando aqui para o sistema.
+[00:08:11] Eu peguei uma imagem qualquer aqui mesmo que vai ficar bacaninha para a gente poder trabalhar.
+[00:08:16] E ele, vai ajustar, isso para a gente, loc.
+[00:08:18] Quando a gente vai trabalhar de uma maneira mais profissional criando um sistema. Eu vou até abrir o figma aqui para explicar para vocês.
+[00:08:26] Geralmente o processo ideal é você construir, um design system porque aí qualquer página nova que for ser construída ela é construída em cima desse design system.
+[00:08:36] Aqui estava manhã dia um mas no final. Eu escrevi o dia um todo aqui nesse quadro então eu vou apagar ele aqui.
+[00:08:43] E vou criar o dia dois.
+[00:08:46] Pronto então geralmente o que a gente faz a gente cria o que é chamado de design system.
+[00:08:52] E, esse design system trabalha com instâncias o que é uma, instância você cria, um botão, mestre.
+[00:08:57] Ela tem um botão que a gente chama de matriz.
+[00:09:00] E esse botão ele cria instâncias dele pela página então toda vez que eu vou usar esse botão eu uso, uma cópia, vinculada é o que a gente chama, de instância então, tem um botão na página, tal depois tem outro, botão na outra página, mas é sempre o mesmo, botão.
+[00:09:16] Por, que isso aqui, é, importante porque se, depois eu precisar mudar todos esses botões na, página, eu venho só no botão matriz mudo ele e, todos mudam automaticamente porque eles são? Instâncias entendeu e aí essas instâncias vão estar sempre vinculadas com a matriz.
+[00:09:32] Então esse já é um? Ponto interessante do design system.
+[00:09:36] O design system ele é um tipo de sistema que.
+[00:09:39] Você pode construir, ele de diversas, formas, designers geralmente usam até o figma para construir lá e depois traduzir para ia aqui na Overlens a gente trabalha com algumas ferramentas como storybook.
+[00:09:50] A gente usa o shad, cn para criar toda, a base dos, componentes, e com esses, dois com essas, duas ferramentas aqui junto com a ia a gente consegue, criar todos os componentes, e gerenciar eles pelo storybook.
+[00:10:02] O objetivo aqui não é criar esse design system, agora essa é, a lógica de construção quem quiser se aprofundar nisso, a gente, precisa de mais tempo e dentro da vanguarda a gente, fala bastante, sobre isso aqui, tá bom além disso aqui, então a gente já tem essa parte do design system o jeito mais simples de fazer.
+[00:10:20] É o que nós estamos, fazendo aqui, agora você fala para exatamente como você, quer ela ajusta tudo ali e constrói as telas para você funciona bem, também principalmente quando é um projeto interno igual, esse que nós estamos fazendo dentro de um projeto interno não tem tanto problema esses vínculos todos quando o projeto começa a escalar você começa a ter tipos de usuários diferentes.
+[00:10:38] Aí, sim você precisa prestar mais, atenção nesses detalhes.
+[00:10:42] Vamos voltar, aqui para o sistema de novo, e eu quero relembrar com vocês então, tudo o que nós temos aqui então basicamente esse é um painel olha ele já? Começou a mudar tá vendo.
+[00:10:53] Ele já começou a fazer, algumas mudanças aqui, depois a gente, vai pedir para ele ajustar tudo que ficou pendente mas, já tem algumas mudanças, ocorrendo aqui na tela.
+[00:11:03] Então nós temos aqui uma hipótese seis hipóteses no caso então. São, essas seis hipóteses diferentes e nós vamos trabalhando em cima delas junto com a ia nós podemos adicionar nota a ia também pode adicionar aqui com a gente por enquanto nós estamos entendendo se essa entrega é economicamente viável.

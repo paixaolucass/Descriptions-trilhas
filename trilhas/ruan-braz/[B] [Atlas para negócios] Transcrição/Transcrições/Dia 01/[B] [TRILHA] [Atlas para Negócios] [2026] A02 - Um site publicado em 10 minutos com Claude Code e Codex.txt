@@ -1,0 +1,210 @@
+[B] [TRILHA] [Atlas para Negócios] [2026] A02 - Um site publicado em 10 minutos com Claude Code e Codex
+00:22:29 — 207 legendas
+
+[00:00:00] O compromisso, de vocês aqui comigo para a gente aprender tá bom então vamos fazer, isso acontecer vou, compartilhar minha tela aqui, de novo e o primeiro tópico, é criando e postando publicando um site, em menos de, dez, minutos vamos lá.
+[00:00:00] Compartilhei aqui com vocês estou na minha área, de trabalho e o que eu vou fazer, aqui eu vou começar abrindo o cloud.
+[00:00:07] Mas. Eu também posso, abrir, o códex então você vai escolher qual, ia você mais usa aí se você usa o gemini tudo bem aí você pode abrir o anti gravity ali também sem problema então estou com o cloud code aberto aqui e eu vou abrir o codex também Ruan eu não tenho.
+[00:00:24] O cloud code eu não tenho códex não tenho gpt instalado no meu pc você vai clicar, ali no google e vai digitar download ou download chat gpt ou download anti gravity que é o do gemini e aí você vai baixar esses programas aqui.
+[00:00:39] Uma vez que você baixar o programa aí é muito mais tranquilo só você abrir ele e logar na sua conta tá bom então eu estou com o chat gpt aqui na minha esquerda e estou com o cloud code aqui na minha direita e eu, não vou fazer, um site para vocês.
+[00:00:56] Eu vou fazer dois sites para vocês em menos de dez minutos um com outro com o chat gpt aqui ele está pedindo só, para eu logar novamente vou fazer, meu login aqui, de novo puxar isso para cá rapidinho por um tempo.
+[00:01:10] E aí, vocês podem fazer, o login aí também.
+[00:01:10] Deixa, eu mostrar para, vocês acho que, eu vou ter que, abrir um pouco mais, a tela.
+[00:01:17] A não ser que ele trocou deixa, eu ver.
+[00:01:20] Clos muda com frequência no meu aqui ele já está no? Ah tá aqui ó ele já está no? Aqui em cima. Agora nessa janelinha pequena na janela, eles mudaram para lá então beleza.
+[00:01:32] Eles mudam com muita frequência. A interface tá mas eu vou explicar, aqui para vocês nessa nova se você clica aqui nesse balãozinho você está no cloud para conversa, e o cloud, para assistente.
+[00:01:42] Então você tem, que clicar, nesse íconezinho aqui, de code para ele abrir para você ah Ruan mas o meu não dá para eu usar é porque você vai precisar instalar o git e o node na nossa plataforma a gente, deixou para vocês várias, aulas ensinando como fazer, isso para, vocês, se anteciparem.
+[00:01:57] Mas caso vocês não consigam aí, vocês vão fazer o seguinte vocês vão vir aqui, na conversa trocar para o cowork ok troca para o cowork vão digitar, assim instale o cloud code para mim.
+[00:02:09] Só, isso.
+[00:02:10] Tem que ser o cloud code aí ele vai instalar todas as dependências.
+[00:02:15] Vai instalar o node vai instalar o git você pode até falar. Isso para ele, instala o node instala o git e aí. Depois que ele instalar tudo você fecha e abre o cloud de novo e aí você vai poder acessar essa. Versão aqui, de código, a gente vai precisar trabalhar nela aqui, para ele construir o nosso site.
+[00:02:31] Tudo bem então isso aqui no caso. Do cloud code se você, estiver, no seu chat gpt, você, vai ter, que clicar aqui opa cliquei do lado errado você vai ter que clicar aqui e trocar talvez o seu esteja, em chatgpt, você precisa colocar aqui no.
+[00:02:48] Codeex, ok.
+[00:02:50] Que. São? Isso são? Agentes que conseguem construir.
+[00:02:55] Para vocês dentro do, computador, eles têm acesso a várias, ferramentas e aí eles conseguem. Acionar cada ferramenta, para construir isso para a gente, tá bom eu vou falar mais sobre, isso com calma aqui, agora a gente, só está fazendo, um experimento inicial para vocês entenderem a ideia se tiver muito confuso para acompanhar junto só me assiste fazendo aqui para você ver como que na verdade é mais simples do, que parece.
+[00:03:16] E aí depois disso, a gente vai com mais calma passando por esse processo então agora o que que eu vou fazer está vendo, que eu tenho essa pastinha local aqui.
+[00:03:26] Se estiver na nuvem pode ser que esteja, assim base cloud vocês vão, trocar aqui, para local trocou para local vem nessa segunda pasta e, eu vou selecionar aqui na minha área, de trabalho.
+[00:03:36] Vou criar uma nova pasta aqui chamada atlas.
+[00:03:40] Para negócios.
+[00:03:42] E dentro dessa atlas para negócio eu vou, criar uma pasta chamada code e vou criar uma pasta chamada codex porque eu vou dar acesso para cada agente apenas a, sua pasta então agora eu estou na pasta cloud aqui no cloud e eu vou vir aqui onde tem esse astras e vou.
+[00:03:59] Escolher um projeto, então novo projeto, clico aqui para ele abrir, a pasta, venho aqui em atlas para negócio e escolho códx prontinho vou dar o nome aqui de atlas.
+[00:04:11] Criar, pronto o que eu fiz aqui foi conectar esses dois agentes para, eles trabalharem no ambiente deles tá bom então aqui no caso, eles estão trabalhando dentro de cada um da sua pasta e, agora.
+[00:04:23] Agora sim eu vou começar a, contar eu vou pedir para cada, um fazer, um site, em menos de, cinco minutos, e publicar esse site para mim na versel.
+[00:04:32] Ok eu vou ver aqui só se eu estou, logado na versão é importante eu fazer, isso.
+[00:04:37] Ok.
+[00:04:39] Por um tim tô, logado na, versel agora eu posso, deixar essa pasta, aqui do lado porque eu preciso que ele esteja logado para ele publicar o site, tá bom dito isso agora olha como vai ser simples eu vou falar com ele o seguinte, quero que, você.
+[00:04:53] Construa um site para mim, em menos de cinco minutos.
+[00:04:59] O conteúdo deste site é sobre.
+[00:05:04] Como.
+[00:05:06] Criar uma empresa.
+[00:05:09] Future proof, a prova de, futuro em dois mil e vinte e seis, pensando na evolução, das ias acelerada e pensando em como.
+[00:05:22] Colocar a energia no lugar, certo.
+[00:05:26] Esta é uma, empresa de consultoria.
+[00:05:31] Assessoria empresarial.
+[00:05:35] Nela.
+[00:05:37] Prestamos, serviços.
+[00:05:40] Que não vou colocar aqui, ó nela nossa, solução é.
+[00:05:46] Aqui eu estou já criando um fictício, tá mas. A gente, vai construir um negócio todo em cima disso nossa solução vou colocar assim.
+[00:05:54] Empresarial nossa solução é ajudar empresas a modelar negócios.
+[00:06:02] Preparados preparados para essa, nova era.
+[00:06:08] Conectados com ia vou colocar só, assim quero que você crie, um site minimalista seguindo aí aqui eu vou pegar. Um site de referência, para ele, tá a identidade.
+[00:06:23] Do, site da apple.
+[00:06:28] Analise.
+[00:06:31] Todo. O site e crie, o nosso baseado nele quero big, numbers e.
+[00:06:39] Big words.
+[00:06:42] Headlines.
+[00:06:45] Persuasivas.
+[00:06:46] Esta será uma landing page, landing page de validação do negócio então coloque um forme, de qualificação.
+[00:06:56] De, leads.
+[00:06:58] Para, mim.
+[00:07:00] Quero.
+[00:07:02] O site responsivo.
+[00:07:04] Minimalista, design by apple.
+[00:07:09] No final publique ele, para mim na, versel no link aí, eu já vou dar o link para ele aqui, vou chamar esse aqui de https dois pontos barra barra cloudatlas.
+[00:07:23] Overlens vers app agora eu vou copiar esse prompt, aqui.
+[00:07:29] Vou colar ele do lado de cá só que aqui, eu vou trocar o nome dele para codex codex.
+[00:07:36] Deixar aqui.
+[00:07:40] Codeex atlas Overlens então, os dois vão trabalhar, aqui, em menos de, cinco minutos vão criar o conteúdo eu tinha, que ter falado o nome da empresa né.
+[00:07:49] A empresa se chama eu pensei num nome diferente para esse evento vai se, chamar maravilha maravilha pronto.
+[00:08:00] A gente vai usar esse nome aqui para criar essa estrutura dessa empresa aqui vocês podem fazer com a empresa de, vocês tá bom.
+[00:08:07] E, agora eu vou dar enter enter prontinho.
+[00:08:11] A partir de, agora a gente pode contar cinco, minutos olha nove e, cinquenta e eles vão construir aqui em cinco minutos.
+[00:08:18] Um site e publicar esse site, para a gente lá na versão eu vou inclusive pegar, os links e mandar no, chat, para vocês, vocês, podem, inclusive entrar nesse link aí agora quem está ao vivo aqui vocês vão ver. Que esses links, não existem olha vou entrar neles aqui.
+[00:08:34] Abrir app abrir no google.
+[00:08:37] Olha só não encontrado está vendo.
+[00:08:41] Claude atlas não existe no momento, em que a gente está fazendo. Isso nove, cinquenta e um está construindo ainda não existe aqui, ele perguntou qual e, mail deve receber os leads, ele, já fez uma pergunta para a gente eu vou colocar aqui, que eu quero no Ruan braz arroba Overlens com br.
+[00:08:57] Ele, pediu uma informação já? Entreguei para, ele.
+[00:09:01] E se vocês verem também o códex.
+[00:09:05] Não existe também olha só esse site não existe no momento então agora eles vão trabalhar em cima desses, dois links para a gente.
+[00:09:14] Bom que a gente vai até fazer uma comparação.
+[00:09:17] Do novo gpt, seis? Astra com o opus que eu devia ter colocado o fable né vai ficar uma comparação injusta aqui mas o opus é bom ele vai construir um site legal pra gente também vocês vão ver isso funcionando tá bom.
+[00:09:30] A partir disso aqui agora.
+[00:09:33] Eu quero que vocês coloquem isso aqui em perspectiva.
+[00:09:37] Eu quero, que vocês avaliem enquanto eu estou falando aqui nós temos dois computadores trabalhando por, mim.
+[00:09:44] Eles estão trabalhando aqui, e enquanto a gente, conversa eles vão estruturar, um site inteiro em menos de cinco minutos o que isso significa, para quem tem um negócio significa várias coisas. Mas, vamos ranquear, algumas delas aqui, para vocês entenderem, deixa, eu só ver uma coisa aqui aí beleza.
+[00:09:59] Vamos ranquear, algumas delas aqui, para vocês, entenderem primeiro, de tudo.
+[00:10:04] Se você cria, um site em cinco minutos.
+[00:10:07] O quanto que. Isso afeta.
+[00:10:09] O seu processo de validação de ofertas e de negócio como assim a gente vai falar mais disso ao longo do atlas aqui, mas, agora você pode testar ofertas de produtos muito mais rápido porque você cria um site em dez minutos cria uma, campanha de anúncios também muito rápido e você.
+[00:10:24] Coloca pessoas acessando essa página, para ver, se alguém demonstra interesse para ver se alguém está interessado nessa oferta que você está fazendo. Dá para rodar dezenas e por que não centenas, de ofertas.
+[00:10:37] Por dia, por semana e validar aquelas que têm mais, interesse você valida mercado muito mais rápido do que você validava, antes esse é o motivo segundo motivo o quanto que, isso aqui impacta, a sua equipe que, antes construía sites para você.
+[00:10:52] Te pedia, três quatro cinco, dias para fazer. Um site e agora a sua equipe pode, montar um site para você. Eu vou colocar aqui, nem dez minutos porque existe toda uma camada que eu quero, explicar aqui, de consideração raciocínio pensamento, tomada de decisão na hora de fazer essas ofertas você não vai só sair. Jogando tudo, na mão da ian.
+[00:11:13] Mas o quão rápido seu, time consegue também construir esse material para, validação.
+[00:11:18] A gente vai falar muito de validação aqui no. Atlas.
+[00:11:21] Então levem isso em consideração o impacto para o seu time.
+[00:11:24] Só que do mesmo jeito, vocês vão ver eu vou fazer esse site em menos de cinco minutos vocês vão aprender a fazer, em menos de cinco minutos qualquer outra pessoa vai aprender a fazer em menos de cinco, minutos ou seja.
+[00:11:35] Isso aqui não é diferencial mais e tem muita gente, colocando.
+[00:11:40] Expectativa, supervalorizada nisso, achando que agora o segredo é, criar um negócio em cima disso aqui, não é.
+[00:11:48] Isso é, frágil.
+[00:11:50] Qualquer um vai poder construir um site simplesmente.
+[00:11:54] Mandando para a ia assim ó, monta um site para, mim.
+[00:11:58] Simples assim e tem um site pronto e publicado.
+[00:12:02] Já podendo rodar ele.
+[00:12:04] Isso muda muita coisa a gente vai falar disso aqui, também ou seja isso aqui, não é diferencial mais não.
+[00:12:12] E vocês vão ver que. Vão ser sites decentes tá ah mas o site tem cara de ah principalmente na fase de validação não tem problema se o site ter cara de ar.
+[00:12:22] Porque você quer ver. Se as pessoas estão interessadas no que você quer vender ali.
+[00:12:27] Então está tudo bem você pode até, colocar um nome fictício, não coloca o nome da sua empresa por questão de reputação está tudo bem.
+[00:12:35] Olha só ele falou que o site está pronto aqui no cloud.
+[00:12:39] Então o set já está pronto.
+[00:12:41] E, agora ele vai checar a conta da versão.
+[00:12:44] Tudo aqui, já definiu a direção verstelp de autenticação ah, esse aqui está me, esperando, vou autenticar, aqui, para ele.
+[00:12:52] Porque o có, no códex eu não autentiquei então, permiti o acesso também talvez, ele demore um ou dois minutos a mais por conta disso o cloud já estava conectado.
+[00:13:00] Aí tem, que dar essa colher de chá.
+[00:13:02] Então olha que legal mesmo assim enquanto enquanto eu, estou conectando aqui, ele, está trabalhando para mim ele, não, parou não.
+[00:13:10] Deixa, ele só terminar aqui pra gente, olha só isso aqui já gastou seis? Minutos o site está, pronto ficou pronto em cinco mas ele teve algum problema com a versel aqui está resolvendo ou está esperando né deixa eu ver se ainda tem aqui, está esperando o meu acesso também ele só não terminaram em cinco minutos por falha minha né.
+[00:13:26] Eu tinha que autorizar para eles continuarem a, página, está pronta qualificação em duas etapas a primeira autenticação esbarrou na permissão de acessar essa, permissão já foi liberada então ele continuou trabalhando aqui.
+[00:13:38] Foi só a parte de publicação aqui que ele demorou um pouco mais.
+[00:13:42] Porque ele estava.
+[00:13:44] Autenticando tá só pra mostrar pra vocês olha aqui.
+[00:13:48] Ele está fazendo, deploy aqui e o do chat gpt ainda está trabalhando vamos dar uma olhada aqui, maravilha, consultoria assessoria empresarial aí você vai falar. Ruan já achei feio como ficou o texto eu também achei tá.
+[00:14:02] Mas, vocês vão ver que a gente vai poder editar isso aqui e deixar. Do jeito que a gente quiser bem rápido então empresas future proof não preveem o futuro elas cabem nele não gostei da frase também eu posso, mexer eu posso, falar por exemplo elas criam ele, vai ficar muito mais forte aqui.
+[00:14:16] Tirar os travessões. Também tudo isso vem depois mas olha só em menos de cinco minutos vamos dar uma, olhada aqui no, site noventa dias de diagnóstico quatro frentes tudo isso aqui, dá para, melhorar o texto também deixar o design melhor mas já existe um site aqui em menos de cinco minutos.
+[00:14:31] A maioria está instalando iá em cima, de um modelo que a ia torna obsoleta aí tem aqui a copyzinha que o cloud fez que a gente vai poder trabalhar nela depois então.
+[00:14:41] Os cards olha só energia no lugar, certo modelo decisão operação.
+[00:14:46] E aqui, um formezinho já tá vendo para qualificar o lead.
+[00:14:50] A gente vai trabalhar mais em cima disso, mas coloque em perspectiva galera.
+[00:14:55] Foi cinco minutos para montar esse site vamos ver se o do códex ficou pronto olha do códex já ficou? Mais interessante né já ficou melhor ainda dá pra melhorar mas ficou melhor então o futuro muda sua empresa evolui o próximo, capítulo do seu negócio começa com direção olha só clica no botão ele já funciona veio para o formuláriozinho.
+[00:15:12] I'm dar uma olhada aqui no do códex.
+[00:15:15] Future ready preparado para o futuro dois mil e vinte e seis as regras mudaram, a pergunta, deixou de ser qual ya, usá agora é que empresa queremos construir.
+[00:15:24] Legal bem, melhor o, códex. Né não colocou travessão em nada tirou os travessões menos edição menos ruído mais direção.
+[00:15:34] Clareza para, decidir foco para transformar ritmo para evoluir beleza olha eu tenho, um site aqui eu já poderia jogar tráfego aqui e, ver se eu consigo, leads.
+[00:15:43] Vocês estão entendendo.
+[00:15:44] Foi, feita em cinco minutos.
+[00:15:46] Aí se eu quiser editar.
+[00:15:48] Como que funciona se eu quiser editar vamos fazer. Um teste vou pegar esse aqui que a gente não gostou eu vou printar a, tela aqui.
+[00:15:54] Printi a tela beleza ó, capturar vou vir aqui no cloud.
+[00:15:59] Colar o meu print e vou falar com ele não gostei dessa.
+[00:16:05] Desse, cabeçalho ou desse líder.
+[00:16:07] Que é, cabeçalha em inglês né header não gostei desse, header.
+[00:16:12] Quero, que faça, um ajuste no texto.
+[00:16:17] Ele ainda estava mexendo deixa eu atualizar não.
+[00:16:23] Espera aí, que eu tô no.
+[00:16:24] Eu estou no cloud.
+[00:16:26] Agora ele me.
+[00:16:30] Ele me confundiu aqui deixa, eu ver talvez é porque alguém já tinha feito nesse link né.
+[00:16:35] Deixa, eu ver se ele, escolheu outro.
+[00:16:42] Ah aqui ó, isso aqui foi algum de vocês, que criou provavelmente deve, ter sido num, sonnet.
+[00:16:47] Então beleza entendemos um pouco porque o design ficou assim vamos ver o final no, final ele publicou onde aqui deixa, eu fechar essa aba, esse aqui.
+[00:16:57] Esse foi o meu.
+[00:16:59] Esse filme ainda tem erro de botão aqui mas. Já achei? Melhor né dois mil e vinte e seis não premia quem trabalha mais, já? Gostei bem mais poxa do texto ainda dá pra melhorar mas olha aí já ficou bem mais, organizado não é.
+[00:17:10] Esse aqui que, foi o meu oficial os meus dois oficiais aqui eles ainda estavam, trabalhando provavelmente o que. Aconteceu vocês pegaram o meu prompt, mandaram nele e pegaram, aquele link primeiro lá na versão entendeu e aí deve ter sido alguém que usou o sonnet o sonnet tem uma, capacidade menor do que o opus.
+[00:17:26] O opus já conseguiu entregar aqui, um resultado mais, interessante e aí eu quero relembrar vocês foi feito, em cinco minutos.
+[00:17:37] Beleza.
+[00:17:39] Com isso aqui.
+[00:17:41] Vocês já entenderam, a dinâmica, qual que é a, dinâmica, você pede e aí a, faz.
+[00:17:48] Você, pede ela faz posso, pedir para ela mudar aqui agora.
+[00:17:52] Vou falar para ela o seguinte.
+[00:17:54] Não gostei desse botão aqui eu quero ele centralizado então vou printar. Isso aqui e vou mandar lá no cloud vou falar para ele o seguinte.
+[00:18:04] Centralize corretamente os buttons e deixe o reader em dark mode.
+[00:18:12] Pronto só, isso.
+[00:18:14] Então eu estou pedindo para ele, agora deixar o fundo escuro e centralizar o botão simples assim eu só printi e pedi para ele, melhorar.
+[00:18:22] É isso, que eu estou, fazendo aqui.
+[00:18:24] E tão simples quanto ele, vai corrigir para, mim e depois que ele, corrigir ele vai publicar.
+[00:18:31] Olha só já centralizou o botão ele ainda, não publicou tá tanto que está aqui. Desse jeito esse. Que ele está, mostrando aqui, é o local tá vendo que ele está aqui ó user Overlens depois que ele vai fazer o deploy para a gente subir lá na versel para vocês conseguirem ver.
+[00:18:47] Até o final do atlas a gente, vai aprender a colocar domínio próprio editar esse site deixar ele.
+[00:18:53] Funcional ali mesmo com o negócio que a gente vai construir ok o que eu quero é que vocês.
+[00:19:00] Avaliem esse cenário.
+[00:19:04] Entendam o que está, acontecendo aqui.
+[00:19:07] O quão fácil foi de fazer, isso.
+[00:19:09] E do mesmo, jeito, que é, fácil para, vocês.
+[00:19:12] Vai chegar, um momento que vai ser fácil para todo, mundo.
+[00:19:15] Muitas vezes até, tão fácil quanto pegar o telefone e mandar um áudio e ter seu site pronto e publicado.
+[00:19:22] Basta usar.
+[00:19:24] Já? É possível fazer, isso usando só, o seu. Telefone.
+[00:19:26] Ele falou que já está funcional ele centralizou. Mas ele não deixou dark mode está vendo.
+[00:19:31] Ele só centralizou aqui, funcionou a centralização. Mas. Não funcionou dark mode.
+[00:19:37] Aí eu posso falar com ele né, não.
+[00:19:40] Está dark, mode.
+[00:19:42] Ainda confira e corrija.
+[00:19:46] Só para a gente fechar esse tópico corretamente.
+[00:19:48] E entrar no próximo.
+[00:19:48] Galera falando que o códex tá massa realmente ele, está muito bom.
+[00:19:53] Principalmente ali no astra só, que aí, vocês têm que colocar para competir certo né, galera tem que fazer uma comparação correta se a gente abre, os dois aqui vocês vão ver o seguinte. Olha.
+[00:20:04] O meu o meu cloud está trabalhando no opus.
+[00:20:07] Fechar aqui.
+[00:20:09] Olha só opus e o meu códex está trabalhando no astra.
+[00:20:15] E o astra é um modelo da openey, que compete com o fable o modelo fable.
+[00:20:22] Antrópico então se você quiser comparar. Do, jeito certo você tem que colocar astra conf.
+[00:20:27] Aí você. Pode colocar sol, com óbicos pode colocar o modelo, terra com sonnet pode colocar o modelo lua com o raiko.
+[00:20:36] Beleza essa é a, comparação justa.
+[00:20:40] Agora ele falou ó você tem razão.
+[00:20:44] Agora ele, vai corrigir, para a gente ele, ah é porque ele, colocou só o reader.
+[00:20:49] Em dark, mode.
+[00:20:52] Aí estava correto ele, estava, assumindo que ele. Fez o trabalho dele aí, eu mandei o print total e falei para ele aí ele, entendeu que eu quero, tudo em dark mode ele, vai fazer o ajuste aqui.
+[00:21:02] E a gente, vai fechar essa.
+[00:21:05] Essa, etapa.
+[00:21:07] Aí toda essa discussão galera de, ah vou usar versel netflixify clot fair flare.
+[00:21:14] Toda essa parte técnica a gente vai ver ao longo do atlas aqui.
+[00:21:20] Só que, trabalhando isso no negócio de vocês.
+[00:21:24] Então a gente não vai começar na parte técnica a gente vai começar onde importa que é no negócio e aí a partir do negócio a gente vai trabalhando.
+[00:21:34] Os materiais que a gente, precisa para validar esse negócio ok deixa, eu atualizar aqui, deixa eu ver se ele, já.
+[00:21:40] Você já atualizou prontinho está vendo. Então.
+[00:21:42] Você já atualizou prontinho está vendo. Então.
+[00:21:44] Eu tiro print peço, a mudança ele, faz ah eu queria colocar uma imagem no fundo manda, a imagem para ele fala coloca essa imagem no fundo ele coloca eu queria um efeito de vídeo pede pra ele ele faz.
+[00:21:57] Ficou muito fácil e isso aqui não é só com site é com produção de, conteúdo.
+[00:22:04] É com pesquisa.
+[00:22:06] A gente vai ver, isso aqui o nosso objetivo é construir o site inteiro.
+[00:22:12] Com base em definições de um modelo, de negócio.
+[00:22:16] Fazer, os anúncios.
+[00:22:19] Publicar esse, anúncio deixar rodar.
+[00:22:22] E já deixa tudo pronto na segunda para vocês começarem a validar o negócio de vocês em busca de novos clientes.
+[00:22:28] Okay estão comigo nessa.

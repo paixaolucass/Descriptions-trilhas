@@ -1,0 +1,69 @@
+[B] [TRILHA] [Atlas para Negócios] [2026] A12 - Fundamentos, anatomia do prompt e o peso do início
+00:08:10 — 66 legendas
+
+[00:00:00] Dia um ao vivo sos atlas chama, o samu deus nos, acuda limpa, a lixeira, também haja limpeza que vocês estavam falando enquanto eu estava ali eu estou bem atrasado de vocês né.
+[00:00:01] O léo falou você, acredita que essa estrutura, que temos, que arquitetar todo, o framework vai virar obsoleto algum dia pergunto por, que esse avanço está cada vez rápido e mais inteligente talvez tenhamos inclusive gi tenho preocupação de abrir um business focado nisso, e logo mais olha só. Que interessante vamos lá separar duas coisas essa estrutura que a gente está montando aqui.
+[00:00:18] Eu vou montar ele, em vinte e cinco minutos então para você, montar outra depois melhor você vai gastar pouco tempo também então não foca no, sistema que eu estou criando ele é uma, ferramenta para ajudar a gente a tomar decisões melhores ponto final depois ele vai ficar melhor com certeza as eras vão evoluir e poder fazer.
+[00:00:33] Sistemas cada vez melhores para a gente porém o.
+[00:00:37] Ponto que eu quero, que você entenda é, que quando a gente, fala de mercado quando a gente fala de negócio nós estamos falando de alguns, conceitos sistêmicos difíceis, de mudar pode ser que mude talvez mas é muito difícil de mudar então quando, eu falo teoria dos jogos quando eu falo de oferta e demanda quando eu falo dessas.
+[00:00:55] Desses axiomas e regras de mercado é difícil que, isso mude então, o que eu estou ensinando aqui, para vocês são, fundamentos que vão continuar com vocês por muito tempo quais fundamentos são esses validar o negócio trabalhar o negócio com metodologia científica então você define bem a, direção valida rápido se não deu certo volta atrás muda a direção rápido.
+[00:01:15] Antes de colocar energia. Fazendo um produto perfeito, ou, alguma coisa, do tipo valida primeiro, depois coloca energia total porque aí, você, já validou o negócio isso que eu estou, ensinando para vocês.
+[00:01:26] A ia pode evoluir no limite pode virar um gênio da lâmpada que faz o que você quiser isso continua sendo útil imagina comigo que faz, só o exercício eu tenho o gênio da lâmpada e eu posso pedir, para ele o que eu quiser.
+[00:01:38] Qual é a primeira coisa, mais importante na hora, de utilizar esse poder.
+[00:01:42] Ter clareza.
+[00:01:44] Do. Que você realmente quer de qual caminho você quer viver de qual, vida você, quer ter com essa clareza aí sim você consegue.
+[00:01:53] Fazer pedidos melhores.
+[00:01:56] Então, continua do mesmo jeito aqui tá bom.
+[00:01:59] Sobre a gente, ter chegado em agi cara.
+[00:02:03] Não, sei.
+[00:02:05] Não sei depende do que a gente chama de ageí né.
+[00:02:09] Adriano, se você, comprou a gravação você pode ver da gravação na segunda se você não comprou você pode entrar na vanguarda e aí, dentro da vanguarda você vai ter, acesso a tudo isso.
+[00:02:09] Você consegue categorizar o seu prompt em blocos.
+[00:02:12] Para eu entender boas práticas, exemplos.
+[00:02:15] Consigo vamos lá.
+[00:02:18] Tem uma trilha inclusive, dentro dos, nossos conteúdos, que é, sobre estrutura, de prompt e aí lá eu explico, tudo isso em.
+[00:02:27] Em detalhes mas o ideal hoje em dia as geas evoluíram bastante e você viu que eu só estou mandando áudio ali e ela está fazendo, isso, é para mostrar, para, vocês que, dá, para fazer, coisas incríveis.
+[00:02:38] Desde que você tenha, clareza do, que você está construindo mais do que estrutura, de prompt engenheiro de prompt engenharia de prompt é muito importante quando você vai criar um sistema, que precisa rodar sozinho sem você, ficar verificando então ele tem, que funcionar ali dentro das diretrizes então, isso vai ser importante.
+[00:02:54] Engenharia de prompt também é importante quando o resultado não vem você não está, conseguindo fazer aí, você muda o prompt e ajusta e quando você quer meio que hackear a ia ali no sentido de fazer ela não seguir o caminho óbvio e trazer para você resultados, inusitados diferentes, também é muito bom.
+[00:03:10] Dos, a engenharia de prompts tem, outros cenários também estou resumindo aqui bem, mas só para vocês entenderem a, ideia na hora de construir um projeto.
+[00:03:18] É um pouco, diferente, o jeito de trabalhar.
+[00:03:20] Você, cria um um workflow cria um passo, a passo, ali coloca para trabalhar nesse passo, a passo, e você vai construindo falando com ela onde você quer que ela ajuste e se eu quiser, que ela crie um sistema, para mim de alto aprimoramento que ela vai fazendo. Isso.
+[00:03:35] Aí, você precisa de uma estrutura de prompt mais bem construída então depende muito de contexto também para esse caso, aqui, vocês vão ver que como eu estou didaticamente ensinando para vocês, aqui passo a, passo, vocês vão ver que.
+[00:03:47] No final ele vai entregar um sistema para a gente ah mas. O design não ficou bom posso, mexer nisso, depois pode você pode, ir pedindo alterações para ele.
+[00:03:57] Dito isso como que eu estruturei esse prompt, aqui primeiro, eu falei meu objetivo o que eu quero, quero, construir, um sistema que seja. Assim assim assim depois que eu falei como que eu quero, o sistema detalhei o máximo que eu pude ali que eu queria sair de bar.
+[00:04:12] Eu desenhei mentalmente para ele, com palavras como imaginava o sistema. Mas eu poderia mandar desenhos mandar prints podia mandar tudo isso de referência, para ele, eu que quis fazer, só com texto tá bom mas uma, vez então.
+[00:04:25] Que eu expliquei para ele o que eu queria como objetivo aí, eu entro no, como ele vai, realizar isso.
+[00:04:32] Aí. Eu especifiquei para ele falei olha você vai criar, um briefing vai criar, um prd vai criar, um spec vai criar um workflow eu quero que você faça nessa ordem.
+[00:04:40] Depois que você fazer esses documentos, de preparação e planejamento do projeto você pode iniciar o projeto, aí, eu falo para ele, como ele, vai construir então eu quero que você use javascript eu quero que você utilize chat cn quero que você utilize next.
+[00:04:55] Trago toda. A stake para ele ali trouxe a stack para ele aí vem considerações finais que eu acabo colocando ali. Por, exemplo eu gosto sempre de colocar no, final o jeito, que ele vai, trabalhar então paralisação delegando para outros agentes e por, aí vai às, vezes eu até especifico cada um dos agentes.
+[00:05:12] E ele trabalha dessa dessa forma, para mim. Porém quando eu estou fazendo trabalho sério mesmo boné para trás aqui focado modo caverna.
+[00:05:21] Eu vou com mais calma eu leio, os documentos porque o momento onde você mais, fácil pode errar é no início.
+[00:05:29] Não é depois se você investe, tempo no início, lá na frente você vai ganhar, muito mais, imagina em algo parecido com isso aqui olha.
+[00:05:37] Então sei lá imagina, que você está navegando aqui.
+[00:05:40] Tem a américa, aqui aí tem a américa, do sul aqui.
+[00:05:46] Comi um pedação da américa. Do sul aqui né.
+[00:05:48] Beleza aí tem.
+[00:05:50] Vou fazer menor aqui para ficar mais, fácil vocês verem.
+[00:05:54] Então imagina essa metáfora aqui.
+[00:05:59] Estou fazendo só.
+[00:06:01] De um jeito qualquer aqui a áfrica do lado de cá a europa aqui a ásia aqui a oceania aqui beleza tá bom.
+[00:06:10] Temos aqui o, mundo, tá imagina aí o nosso mundo, aqui aí eu quero. Que você pense o seguinte.
+[00:06:16] Imagina, que você está aqui você está com, um barquinho.
+[00:06:19] Está com um barquinho aqui.
+[00:06:23] Certo.
+[00:06:24] Aí, você vai decidir. A direção que você vai seguir, com o barquinho se você traça uma, reta para cá.
+[00:06:30] Ou uma reta aqui ó, poucos, graus de diferença.
+[00:06:36] Aqui você vai sair. Espírito, santo bahia.
+[00:06:40] Mais perto do espírito santo aqui você está lá na pontinha do, rio.
+[00:06:47] Na pontinha do rio você, saiu em dois lugares completamente diferentes quando você decidiu traçar essa linha aqui.
+[00:06:54] Poucos graus te fizeram chegar, num lugar completamente diferente agora imagine isso aqui com a ia tá só, fazer que isso aqui é, um barquinho assim.
+[00:07:02] O início é aquele, momento, que a gente define igual a gente fez ali modelo do negócio a gente fez o briefing do que a gente, vai construir nós definimos ali também o prd o spec workflow.
+[00:07:15] Fizemos também aqui antes do briefing do modelo, de negócio a gente também fez um mapa de mercado.
+[00:07:23] Aí você. Tem tudo isso aqui cara pensa comigo. Você tem tudo isso aqui.
+[00:07:28] Só que você não lê.
+[00:07:30] Tem um monte de arquivo legal um monte de decisão e você não lê aí no, meio dessas decisões tem uma direção que. São? Aqueles cinco graus para baixo você queria mais para cima.
+[00:07:42] Isso muda completamente o sistema que você vai ter no final aí você perdeu um tempão que você botou a ia para construir, ali para você, porque você, não leu.
+[00:07:49] Os arquivos que, ela te passou você tem que ler e falar olha, é isso aqui mesmo, não é isso aqui a gente vai. Nessa direção tratar esses dados que você tem para ter mais, precisão com a, inteligência artificial.
+[00:08:00] Entendeu então.
+[00:08:03] Esse é o, ponto importante que a gente tem que levar em consideração o início. Do projeto.
+[00:08:08] É a parte mais importante mais negligenciada.

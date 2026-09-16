@@ -1,0 +1,96 @@
+[B] [TRILHA] [Atlas para Negócios] [2026] A07 - Por que validar e o prompt de pesquisa profunda
+00:12:13 — 93 legendas
+
+[00:00:00] Só, conferindo aqui, certinho.
+[00:00:00] Agora o que a gente, definiu o modelo, de negócio.
+[00:00:04] Que nós estamos construindo fizemos o business model, canvas dele a, gente precisa começar a, validar essas informações nós não podemos ficar apenas com.
+[00:00:13] A nossa, opinião ou com uma resposta do chatgpt, nós precisamos, validar no mercado ver se nós alcançamos, dados e provas mais concretas de que a nossa hipótese é forte de que, faz sentido continuar seguindo nessa direção e é aqui que, a gente vai dividir, isso em duas etap.
+[00:00:30] Que eu já tinha falado com você que são? As pesquisas qualitativas e pesquisas quantitativas o ideal se você quiser ter sinais fortes para continuar colocando energia em um negócio.
+[00:00:42] É que você, converse com outras pessoas esse, é o melhor jeito, possível, de validar uma hipótese então marcar entrevistas, com potenciais clientes com ex colegas às vezes de trabalho ou, pessoas que possam ser o seu, perfil de cliente.
+[00:00:57] Com, empresas também da sua cidade ou do brasil, você pode marcar, via linkedin via, google maps que seja liga para as pessoas, e começa a perguntar para elas se elas possuem o problema, que você acha que elas têm.
+[00:01:12] Para que você, saia da sua, cabeça e veja, se o mundo real corresponde ao que você está planejando.
+[00:01:18] E o nosso objetivo aqui, agora então é começar, a validar isso porém, como nós temos dois dias.
+[00:01:25] E vocês não querem. Me ver ficar pegando o telefone ligar para as pessoas para fazer pesquisa nós, vamos seguir com um tipo de pesquisa diferente, que é utilizando a própria, inteligência artificial para buscar dados, fortes e sólidos que comprovem, partes da nossa tese.
+[00:01:40] Então eu vou voltar aqui compartilhar minha tela, com vocês.
+[00:01:43] Então eu vou voltar aqui compartilhar minha tela, com vocês.
+[00:01:44] Nós voltamos aqui então para o nosso códex quero lembrar vocês também o que nós temos aqui nós, já temos o nosso v um do business model, canvas e agora a gente, quer validar principalmente segmento, de cliente e proposta de valor.
+[00:01:59] A gente não precisa validar todos os quadrantes agora a gente precisa validar apenas esses dois.
+[00:02:05] E para isso, nós vamos fazer uma pesquisa, de mercado.
+[00:02:09] Agora o que a gente, já começou a se acostumar mais.
+[00:02:13] Eu vou começar a trabalhar dentro do nosso idec.
+[00:02:18] Então vou até diminuir um pouquinho beleza então eu estou aqui no cursor aqui, dentro do cursor eu consigo ver meus arquivos na lateral aqui em cima eu consigo entrar no arquivo para poder estudar ele então vou fechar aqui por enquanto e na parte de, baixo, eu tenho.
+[00:02:33] O terminal e aqui, dentro do terminal eu consigo então solicitar para ele.
+[00:02:40] Comandos o lado bom do terminal é a produtividade igual eu falei para vocês olha, eu posso, abrir. O cloud o códex se eu quiser eu abro aqui também então. Eu vou abrindo cada um dos modelos que eu tenho aqui instalados, como cli no, meu computador.
+[00:02:56] E eu posso, colocar eles para trabalhar, acabou o crédito em um coloco no, outro acabou no, outro coloco no, outro ou que, eu faço muito, também principalmente eu faço aqui com o claude é fazer isso aqui ó, abro um cloud.
+[00:03:09] Abrocloud.
+[00:03:12] Abro outro cloud então à medida que os clothes vão trabalhando aqui eu tenho vários outros aqui que podem trabalhar para, mim em outras camadas entendeu então isso aqui também traz, muita produtividade é rápido e fácil eu não saio da tela tenho, controle de tudo que eu estou fazendo aqui.
+[00:03:27] Mas se você não conseguiu configurar aqui, tudo, que, eu mandar aqui, dentro, desse cloud ou, do chat gpt, você, vai mandar aqui dentro do aplicativo, tá bom você vai continuar trabalhando no aplicativo. Porém.
+[00:03:43] Eu preciso usar aqui na ide para demonstrar para você, para você ver que. Realmente a gente aumenta muito a nossa produtividade quando a gente começa a trabalhar na idr se não eu não tinha, nem apresentado ela aqui para vocês, tá bom então vou voltar aqui para a ide agora.
+[00:03:58] E nós temos aqui o nosso cloud aberto eu estou no cloud max vinte, x então eu tenho token.
+[00:04:05] Muito token não vou falar que é infinito, que é mentira que eu já consegui bater o limite de tokens aqui principalmente com fable mas eu tenho bastante token aqui para a gente conversar.
+[00:04:15] O que muda, é que lá no, aplicativo você, troca de modelo, muito mais fácil olha. Vou dar um exemplo aqui, para vocês.
+[00:04:22] Bem prático, tá.
+[00:04:24] Estou aqui no, cloud se, eu clico, aqui em opus eu posso trocar para o fable para o sonnet para o haiko que. São? Os modelos que eu expliquei para vocês.
+[00:04:32] Beleza já aqui para mudar. É um pouco diferente eu tenho que dar por exemplo vim aqui apertar barra model enter e aí aparecem, os modelos para, mim.
+[00:04:42] Certo outra coisa, também vamos lá coloquei o fable aqui se eu venho aqui eu consigo colocar também a força então olha vou colocar no ultra code max que isso aqui aumenta o esforço, e o raciocínio dele ele fica mais tempo pensando naquela taref.
+[00:04:58] É bem interessante aqui já é diferente aqui, eu tenho que, dar barra e fort então são? Vários atalhos aí, eu coloco, ultracode tá vendo são? Vários atalhos que, você precisa aprender para utilizar no terminal.
+[00:05:13] Porém o terminal é, hoje o lugar mais avançado para você utilizar agentes de, ar as atualizações chegam primeiro aqui sem contar que ele está conectado direto no shell que shell é, concha né pega essa referência para lembrar sempre disso imagina, uma, concha, que, protege o seu, computador.
+[00:05:30] É uma, espécie de kernel é uma, concha que protege o computador, para você.
+[00:05:35] Esse shell conecta a sua parte de software com a sua parte de hardware ele é a camada intermediária dos dois ali quando, você trabalha no nível aqui. Do terminal você tem o, ponto mais curto ali para conversar com o seu computador.
+[00:05:51] Então às. Vezes se ele precisa rodar, algum comando costuma funcionar melhor aqui do que no, app o app também vai funcionar dá para trabalhar tudo direto do app também se vocês preferirem mas, eu recomendo no início é estranho mas. Depois vocês vão se, acostumar vocês vão ver que a gente vai começar a criar muita coisa aqui.
+[00:06:07] E vai começar a ficar, inviável, para. Quem usa, só o aplicativo, vocês vão, querer, ter um sistema desse, aqui para gerenciar todos, os arquivos tá bom.
+[00:06:16] Então vamos lá, eu vou clicar, aqui em pasta e, vou criar uma pasta chamada docs vou selecionar esses, três aqui e colocar dentro dessa pasta isso é, para a gente, manter a organização aqui. Do nosso projeto tá bom agora que, nós já temos. Isso eu vou começar a trabalhar com ele, eu só vou trocar o modelo aqui vou deixar no, opus mesmo.
+[00:06:34] A gente, não precisa de.
+[00:06:36] De.
+[00:06:38] Tanta violência vou deixar no, x high aqui caso seja necessário depois a gente utilizar um modelo mais pesado a gente utiliza mas no momento.
+[00:06:46] Não precisa tanto então. Agora a gente vai trabalhar a primeira coisa, que eu vou fazer, é dar um barra clear, para, ele limpar, tudo aqui, tá ótimo agora que, ele limpou tudo.
+[00:06:54] Então vamos começar aqui a, trabalhar.
+[00:06:54] O que a gente vai fazer aqui, agora tá.
+[00:06:56] Nós vamos iniciar um processo de pesquisa de mercado então eu posso inclusive.
+[00:07:03] Digitar aqui, voice.
+[00:07:06] Quando. Eu digito voz no terminal ele habilita para, eu mandar, um áudio para ele e eu vou, fazer mais um prompt daqui então vou dar um voice aqui.
+[00:07:15] Espaço, para gravar então vou apertar aqui e vou falar.
+[00:07:19] Precisamos.
+[00:07:24] Realizar uma pesquisa de mercado.
+[00:07:27] Com base no, briefing que já? Estruturamos, e com base no, nosso business model canvas.
+[00:07:35] A ideia é validar as nossas hipóteses.
+[00:07:39] Quero, fazer uma pesquisa de mercado que me permita encontrar sinais fortes de que nós estamos na direção certa.
+[00:07:48] No futuro eu vou trabalhar também com dados qualitativos e entrevistas, mas no momento eu não posso, trabalhar com essas informações então eu preciso encontrar dados e informações relevantes e recentes.
+[00:08:02] Que, me ajudem, a entender, se eu estou, na direção certa ou, não para isso quero que, você, faça uma, análise do mercado dentro do brasil vou trabalhar com a internet mas eu preciso ser extremamente realista e até, conservador.
+[00:08:18] Porque eu preciso de uma, validação.
+[00:08:23] Mas.
+[00:08:24] Refinada.
+[00:08:26] Para, isso eu quero que, você analise, o nosso primeiro business model canvas que posteriormente nós vamos atualizar e melhorar, e também analise o nosso briefing.
+[00:08:38] Para que você entenda a direção.
+[00:08:41] E com isso faço uma, pesquisa de mercado eu quero. Entender o tan sanson.
+[00:08:47] Porém eu estou mais interessado no som e eu quero um som extremamente realista e até conservador com dados reais que me mostrem.
+[00:08:58] Como inclusive eu posso, entrar dentro desse mercado não vou fazer, um go to market exatamente agora mas eu já quero que você me traga sinais fortes.
+[00:09:10] De que essa é uma, boa direção.
+[00:09:11] Para, realizar essa tarefa.
+[00:09:14] Quero que. Você trabalhe em paralisação com múltiplos agentes trabalhando junto com você, você não executa você delega e no final rode um agente especializado em revisão que tenha foco em mercado e consiga, apontar.
+[00:09:31] Pontos, cegos.
+[00:09:34] E analisar as, informações.
+[00:09:36] Precisão suficiente para me dizer.
+[00:09:40] Qual é o grau de certeza e, confiança que eu posso, ter em cada um dos dados.
+[00:09:45] Ufa, mandei o prompt. Hein.
+[00:09:50] Agora que eu tenho mega brain, agora que eu tenho prompt, aqui o que eu vou fazer.
+[00:09:54] Dar enter mas antes disso eu vou explicar para vocês algumas coisas por exemplo.
+[00:09:58] Quando, isso aqui acontece muito no cloud, tá muito.
+[00:09:58] O cloud ele tem uma transcrição pior do que o chat gpt eu gosto muito mais da transcrição. Do chatgpt então eu falei para ele que eu quero entender o tan sanson ele chamou de tan sansung aqui nada a ver então eu vou apagar isso aqui e vou colocar o termo certo olha que é tams.
+[00:10:14] Som então vamos ver realizar pesquisa base no, briefing isso aqui, está tudo certo.
+[00:10:15] Eu quero, um som vou colocar aqui, também.
+[00:10:15] Extremamente realista, conservador aí, aqui para realizar, essa, tarefa quero que você trabalhe em paralisação com múltiplos agentes, isso aqui é uma, das coisas, mais legais de, trabalhar com agentes, hoje em dia, só que você tem que ter crédito.
+[00:10:30] Você tem que ter crédito tem que ter token aqui então se você está no, plano.
+[00:10:36] Se você está no. Plano.
+[00:10:37] Plus do chatgpt ou está no, plano pró do cloud que é aquele inicial.
+[00:10:44] Seus créditos vão acabar antes da tarefa, ser concluída, então, não recomendo, que você mande o prompt desse jeito, com essa, parte final senão você vai ficar. Triste você vai falar poxa o meu, parou na metade porque não, aguentou porque basicamente o que, é isso aqui, tá só pra vocês visualizarem.
+[00:10:59] Imagine, que eu tenho, um cloud isso aqui, para quem nunca viu nunca participou de um atlas é importante explicar.
+[00:11:05] Então imagina, que eu tenho o cloud aqui, meu robozinho bonitinho tá aí, felizinho.
+[00:11:10] Aí, eu pego o cloud e falo com ele eu quero que você orquestre, múltiplos agentes o que ele faz ele começa a invocar um monte de, agente diferente.
+[00:11:18] Eu falei invocar, para ficar, mais agressivo mesmo mais radical então ele invoca um monte de agentes e fala para cada um deles você, faz isso você, faz isso você, faz isso você, faz isso você, faz isso você, faz isso você, faz isso aí eles começam a trabalhar.
+[00:11:33] Só que você tem que entender que quando você. Faz isso é como se você, estivesse abrindo vários, outros clothes para trabalharem para você você vai, mais rápido só, que.
+[00:11:41] Tchau tchau token se você tem um plano aí mais baixo, esse não é um jeito de utilizar agora você já é um usuário mais heavy user aí que.
+[00:11:51] Tem crédito, bastante aí, cara isso, aqui, é festa, tá porque é assim que você, começa a fazer.
+[00:11:58] Num tempo absurdo também.
+[00:12:01] Tá bom.
+[00:12:02] Sob essa, parte de mercado o, que é tendo sanson quais são esses termos fiquem tranquilos que eu vou explicar para vocês eu vou explicar, isso enquanto ele, trabalha para a gente eu só vou dar um enter aqui, então.

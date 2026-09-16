@@ -1,0 +1,174 @@
+[B] [TRILHA] [Atlas para Negócios] [2026] A11 - Construindo e abrindo o sistema de gestão
+00:23:05 — 171 legendas
+
+[00:00:00] Então, a gente tem uma hora aqui para preparar, algumas coisas para amanhã o que, nós temos que. Preparar aqui, primeiro de tudo, a gente, vai pegar toda essa nossa pesquisa de mercado e traduzir isso em um sistema de acompanhamento, de metas então a gente, vai transformar, isso em sistema de acompanhamento.
+[00:00:09] Além disso a gente vai colocar também dentro desse sistema todas as nossas diretrizes de hipótese do negócio também que a gente, precisa validar com esse sistema pronto é, ali que nós vamos colocar nossos, agentes é, ali que nós vamos colocar todo, o início. Do, negócio se você já tem um negócio há mais tempo.
+[00:00:25] Você pode separar os sistemas é o que a gente costuma fazer aqui amanhã inclusive eu vou mostrar para vocês vários sistemas que nós criamos, e eu vou dar um deles de presente para quem está aqui no atlas ou, seja a gente, não só, vai construir coisas juntas juntos.
+[00:00:40] E juntas mas, eu vou dar um dos sistemas que a gente criou de presente para vocês vocês vão poder baixar ele e usar ele aí no sistema no computador de vocês ok então vamos lá.
+[00:00:50] Aqui, agora nós vamos traduzir tudo isso dentro de, um sistema, que nos permita gerenciar todas as, nossas hipóteses nossos próximos passos e ali também que a gente, já vai buscar os primeiros leads também para entrar em contato e entender as ações que nós, já temos à nossa? Disposição.
+[00:01:06] Então vou voltar aqui para a nossa tela.
+[00:01:10] Ali a gente vai poder colocar também.
+[00:01:15] O nosso business model, canvas toda pesquisa que a gente fez vocês vão ver que agora o negócio começa a ficar interessante.
+[00:01:20] Então.
+[00:01:22] Vamos agora aqui para a construção do nosso sistema.
+[00:01:24] Vamos agora aqui para a construção do nosso sistema.
+[00:01:26] Qual que é a ideia, depois que nós, conseguimos toda essa pesquisa agora nós precisamos.
+[00:01:31] Colocar isso em, um ambiente de gestão, desse projeto que nós começamos, aqui, dessa hipótese que nós vamos desenvolver então nós já temos alguns, documentos eles já estão todos na pasta docs que é o recomendado e o que eu vou fazer, aqui agora é o seguinte, até para.
+[00:01:47] Resetar a mente vocês ficarem tranquilos e falarem ufa vamos resetar então o processo o que que eu vou fazer eu vou fechar essas, janelas aqui então tem toda a gestão do projeto, e eu vou abrir um novo terminal se você estiver utilizando usar aqui no dangerously.
+[00:02:02] Isso aqui, é o tipo de coisa que, não dá para fazer. No app né.
+[00:02:06] Se você estiver utilizando aqui no. Aplicativo tanto. Do.
+[00:02:10] O minimizar aqui nossos, nossos, trabalhos se você estiver utilizando o aplicativo tanto do cloud quanto do.
+[00:02:17] Do códex aqui para poder trabalhar. Não tem problema tudo que eu vou mandar ali no terminal você pode mandar aqui, no prompt tá bom é bem mais tranquilo e dá pra gente trabalhar então vamos lá.
+[00:02:29] E aí, enquanto a ia trabalho, eu vou respondendo, algumas dúvidas aqui do chat também mas antes a gente precisa colocar ela para trabalhar e aí, nós vamos seguir uma, metodologia, de construção de. Sistemas e produtos que a gente ensina dentro da vanguarda que é uma metodologia baseada em quatro passos o primeiro passo é o briefing.
+[00:02:46] O segundo passo, é o prd terceiro passo, é a spec e o último passo. São, os workflows com isso aqui a gente constrói um sistema inteiro.
+[00:02:55] Como nosso objetivo aqui é fazer a, primeira fase desse produto desse sistema então a gente vai trabalhar com os quatro passos, mas numa versão simplificada.
+[00:03:05] Depois se você quiser você pode se aprofundar em cada um deles só para você, entender cada um briefing é o resumo do projeto que a gente vai criar aqui agora prd é o que a gente chama de product.
+[00:03:17] Requirement requirement.
+[00:03:19] De poxa fugiu a palavra em português requerimentos mas. É de requisitos é um documento de requisitos de produto a gente vai falar tudo que o nosso produto, aqui precisa, ter nosso sistema no caso.
+[00:03:28] Spec é um documento de especificação técnica de tecnologia que vai ser utilizada.
+[00:03:34] E nós temos também os workflows que aí aqui tem toda. A engenharia dos, agentes quando que cada agente chama, cada agente como que eles se invocam, ali faz acontecer, tá bom então esse aqui, é o fluxo e vocês vão ver ele acontecendo aqui na hora como o objetivo. É ser prático.
+[00:03:50] Então eu, vou trazer isso tudo, aqui, no mesmo prompt, para vocês, e aí, depois a gente coloca ele, para trabalhar, o prompt vai ficar, um pouco grande.
+[00:03:59] Mas enquanto ele trabalha aqui, eu vou explicando para vocês então vamos lá vou segurar espaço aqui e vou começar a falar.
+[00:04:06] Agora que nós temos a documentação da nossa, hipótese de negócio temos o briefing o business model, canvas e toda a parte de pesquisa, também validação do negócio eu quero construir, um sistema de gestão desse projeto, a minha ideia, é que esse sistema de gestão tenha tudo o que nós já construímos aqui e me permita editar o que for necessário ali dentro criando uma espécie de versionamento.
+[00:04:28] Das minhas hipóteses então, eu quero numa sessão principal, colocar primeiro.
+[00:04:34] O que a gente já tem, de métricas e objetivos então quais hipóteses nós precisamos, validar quais são, nossas, metas, e objetivos quanto tempo a gente tem para cada meta quero deixar isso tudo claro na deste principal depois eu quero, também num menor sidebar menor sidebar.
+[00:04:49] Aquele menu lateral, eu quero uma aba em que eu possa, acessar o business model canvas a gente tem uma versão dele em html agora a gente, precisa adaptar ela para uma versão.
+[00:05:00] Content dentro de um sistema e aí inclusive tem aquele botão de adicionar nota, transforma, ele em um ícone do lado do ícone de aumentar o quadrante também vai ficar legal.
+[00:05:10] E aí ali, eu consigo gerenciar, o business, model, canvas e consigo também, criar abas porque eu quero criar, a versão um versão dois versão três e ir adaptando esse bmc à medida que as minhas hipóteses vão evoluindo eu quero, um outro campo também onde a gente tem toda a pesquisa de mercado mas de um jeito, que me permita.
+[00:05:28] Modelar essas pesquisas trazer novos dados ajustar a informação que nós temos ali quero, também uma área onde a gente tem o nosso plano de faturamento, inicial do primeiro mês primeiro seis meses primeiros doze meses.
+[00:05:42] Só que a gente, precisa de uma etapa, anterior que é a etapa de validação onde a gente vai focar mais em diagnóstico, tem alguns documentos que falam disso dentro da nossa documentação mas basicamente eu imagino uma tela em que nós vamos ter ali todas as informações, principais do cenário.
+[00:05:58] Conservador o cenário base e o cenário agressivo e eu vou conseguir ajustar isso com.
+[00:06:05] Números e porcentagens eu quero conseguir analisar ali cada um dos indicadores e até ajustar eles para, ver como que. Eu consigo, chegar no meu resultado ou, não é uma, espécie de calculadora de viabilidade financeira barra econômica, do negócio.
+[00:06:21] Além dessa tela, eu também quero uma tela do funil onde eu consigo ver claramente com design bem legal minimalista o funil e qual que é a métrica, de mercado atual então eu quero nesse funil metade dele com a métrica, de mercado e na outra metade, para eu poder.
+[00:06:38] Preencher com as minhas próprias métricas, porque é ali que eu vou colocar o tipo de resultado que eu estou conseguindo então eu quero funil pegando os dados de mercado que dentro da pesquisa já foram apresentados também e aí ali eu vou colocar por, exemplo com quantos, leads, eu entrei em, contato quantos que, me responderam quantos, que eu marquei reunião quantos, que.
+[00:06:55] Participaram, da reunião quantos que fecharam, a proposta comigo, então quero fazer essa gestão, dentro desse funil além dessa página, de, funil eu também quero uma, página de, leads porque nesse, início de projeto, eu vou deixar o meu crm, dentro do meu sistema operacional também que vai ficar muito mais, fácil de eu gerenciar.
+[00:07:11] Para fechar eu quero também uma página chamada meu negócio nessa página você tem ali toda a definição do que é o negócio no sentido.
+[00:07:21] Mas resumido da história eu quero colocar ali o que é o negócio o que a gente oferece quais. São, os nossos serviços principais é como se fosse uma, página de apresentação. Mas. Que me permite editar também num, formato de cards.
+[00:07:38] Para trabalharmos aqui a parte de design infraestrutura a gente pode utilizar javascript.
+[00:07:43] E aí, eu quero utilizar o chat cien para a parte de design.
+[00:07:48] Shed.
+[00:07:51] Cien ih, vou ter que reescrever tudo, bem então, eu vou usar, o chat cn, que tentei o wind também.
+[00:07:58] E.
+[00:08:00] Você, pode utilizar. Next.
+[00:08:03] Para essa. Aplicação não precisa se preocupar com o banco de dados, agora todas as informações pode deixar em markdown ou direto mesmo no sistema porque eu vou utilizar ele local então não tem tanto problema eu preciso que você tome decisões para construir esse sistema de um jeito.
+[00:08:18] Rápido, que você, não gaste mais do que vinte e cinco minutos para fazer, tudo isso e eu conseguir, depois iterar tudo o que você construiu para fazer, isso acontecer, eu, preciso que primeiro, você siga uma, etapa de definir, o briefing do nosso sistema seguido do prd seguido do spec.
+[00:08:34] E seguido do workflow onde você vai, colocar todos os agentes qual agente trabalha em qual página qual especialidade ele, precisa ter como, ele precisa construir, essa página esses documentos podem ficar dentro da pasta docs também.
+[00:08:47] Porque são? Documentos de estruturação do sistema uma vez que se tiver esses documentos você já tem autonomia para começar a construir o sistema, para mim tudo que você precisa fazer, é, agir como gerente você não executa você delega pode colocar múltiplos agentes em paralisação para executarem tudo isso por você.
+[00:09:03] Coloque quantos forem necessários desde, que você, consiga fazer, tudo isso em aproximadamente vinte e cinco minutos se precisar de vinte agentes coloque se precisar de quinze agentes pode colocar também.
+[00:09:14] O, único, ajuste que eu, vou, ter que fazer aqui.
+[00:09:18] É no chat cien.
+[00:09:25] Então gosto de estar aqui que. O claude não pegou.
+[00:09:29] Então jeffre quero utilizar.
+[00:09:32] Para a partir de design system.
+[00:09:35] O shed, cien aí prontinho vou mandar o prompt olha o tamanho do bicho falando é fácil né aí vocês veem o que eu falo pra caramba printer aí agora.
+[00:09:45] Para vocês, pegarem o prompt inteiro.
+[00:09:49] E aí vocês conseguem utilizar também.
+[00:09:52] Agora enquanto ele vai trabalhar aqui. Para a gente, porque vai levar uns vinte e cinco minutos para ele, concluir isso aqui eu quero.
+[00:10:01] Tirar dúvidas de vocês.
+[00:10:03] Beleza.
+[00:10:05] Então vamos para as dúvidas eu deixei, ele rodando aqui no, opus e ele está rodando no opus x ri vai ser suficiente para começar se eu colocasse no ultra code ele extrapolar o tempo dele e nesse momento, a gente só precisa de uma primeira casca para depois continuar trabalhando nela.
+[00:10:21] Tá bom vamos ver aqui então a primeira dúvida é Ruan saindo do adapta qual ia você sugere assinar no momento eu sugiro o gpt você, vai conseguir construir, muito mais com menos créditos e ele está muito, poderoso então assina o gpt e vai fundo que. Vai dar tudo certo aí você baixa o códex.
+[00:10:37] Gpt codex para o seu computador, ele vai ter esse modo agêntico aqui igual estou fazendo. Do cloud.
+[00:10:43] E aí fica excelente tá bom o jami nai está em. Terceiro lugar ali você vai ter mais dor de cabeça com ele mas se você não quiser gastar dinheiro usar só ele tem como também dá pra fazer muita coisa com o geminai.
+[00:10:56] E outro, dia ele, estava lá comentando num post que eu fiz no, instagram inclusive hoje eu quero pedir para vocês me marcarem lá no instagram, vai ser bem legal.
+[00:10:57] Deixa eu ver, aqui.
+[00:10:59] Já me perdi, na linha do, raciocínio basicamente eu pedi para ele construir para a gente.
+[00:11:08] O sistema de gestão do, nosso projeto quando ficar pronto, você vai olhar e vai falar, pô bom demais mas no geral para vocês entenderem o raciocínio é assim ele, cria um briefing resumindo tudo que tem que ter no, sistema.
+[00:11:18] Depois que ele tem o briefing ele, pega esse, briefing e constrói esse, briefing e constrói o prd o prd é um outro documento que ele explica o que a gente, chama de histórias, de, usuário imagina que você tem pessoas falando tudo o que, elas queriam que o sistema, tivesse aí você salva isso como us, user story e aí você coloca ali gostaria que, o sistema tivesse uma, página, x gostaria que o sistema tivesse uma, funcionalidade y gostaria que o sistema tivesse isso.
+[00:11:42] Aí, você coloca todos os user stores dentro desse prd e aí, a ia consegue, saber, tudo, que o sistema precisa ter ela constrói isso da melhor maneira possível com mais precisão depois que ela termina, o prd aí, ela vai especificar qual, tecnologia, ela precisa para, cumprir, cada um dos requisitos. Do produto.
+[00:12:00] Aí. Ela escreve todo o spec em, um outro documento que chama, spec todas as tecnologias que serão necessárias você viu ali que eu falei de chat cien falei ali também.
+[00:12:10] Do.
+[00:12:11] Next falei de, javascript isso são? Tecnologias, são? Ferramentas e recursos, que o sistema, precisa para funcionar.
+[00:12:22] E aí, ela especifica. Tudo isso dentro do spec ali depois que ela, definiu isso tudo no, spec dentro dessa metodologia essa, aqui é uma metodologia nossa tá tem várias outras tem tdd que é test drive development que dá para seguir também essa, aqui, é uma enxuta que a gente criou dentro da vanguarda, e funciona muito bem para a gente.
+[00:12:39] Depois que fez o spec a gente cria um workflow aí o que é esse workflow é um arquivo, que ele cria, um diagrama e nesse diagrama é como se fosse, um organograma então tem, lá o agente líder depois o agente de cada página qual que é a especialidade dele.
+[00:12:55] Como que ele, precisa ser construído aí, ela monta, esse, workflow inteiro desse, jeito ela sabe como, delegar as tarefas para cada tipo de agente o jeito que a gente está fazendo aqui agora é o que eu chamo de modo express ele funciona setenta bem mas dá para ser muito melhor se você fizer, um documento de cada vez, e especificar isso com a ia depois pedir para ela criar cada um dos, sub agents cada uma das skills.
+[00:13:18] Fica muito mais preciso é outra história, completamente, diferente só que pelo tempo que a gente tem aqui são? Dois dias se eu ficasse ali eu ia, ficar só nisso, o tempo todo então eu fiz dessa maneira resumida, que vai funcionar perfeitamente bem porque a gente, está fazendo, aqui aí vocês falam eu queria focar em cada um entender detalhinho por detalhinho o que é isso o que é stake o que é tecnologia como que elas funcionam.
+[00:13:33] Já foram tenho í também Ruan vai traumatizar o claude.
+[00:13:34] Spec não pegou como assim não pegou você está falando aqui.
+[00:13:39] Aqui.
+[00:13:40] Ele já está trabalhando em vários documentos olha só.
+[00:13:43] Sistema o spec não pegou mesmo.
+[00:13:48] Você viu a, mensagem aqui né eu não estava olhando para a tela não.
+[00:13:53] Tá vamos ver o workflow quando você.
+[00:13:57] Quando você.
+[00:13:59] Ah será que ele não pegou porque ele transcreveu errado deve ser né.
+[00:14:04] Achando que foi isso mas tá tudo bem, vai dar certo aqui, de qualquer maneira.
+[00:14:08] Mas, deixa eu só confirmar.
+[00:14:11] É aqui seguindo do e seguindo do flow ele não pegou o spec aqui no, meu mas está. Tudo bem.
+[00:14:21] Como eu especifiquei um pouquinho, da tecnologia ele vai trabalhar em cima dela então vamos dar uma, olhada no workflow porque esse é um dos documentos mais legais de ver aqui.
+[00:14:29] I.
+[00:14:30] Ele fez um workflow mais básico aqui ele não chegou a fazer o diagrama não tá vendo.
+[00:14:36] Ele, só colocou aqui, para poder bater o, tempo o quanto que, cada um vai trabalhar quando você coloca tempo também às, vezes alguma coisa outra fica quebrada tá.
+[00:14:44] Se você, quer que ele, faça bonitinho depois de, criar tudo deixa, ele, trabalhar ali.
+[00:14:49] Teve isso que ele vai ficar quatro horas trabalhando duas horas se, tiver crédito.
+[00:14:53] E vai. Mandar ver mesmo assim ele fez o workflow aqui maravilha os.
+[00:14:58] E colocou aqui o que cada gente vai construir.
+[00:15:02] Mas o agente q um de curador de conteúdo as páginas que precisam ser construídas aí ele colocou agentes criando essas páginas simultaneamente.
+[00:15:10] As regras, de contrato para eles não mexerem no que o outro está mexendo, ali e, depois integração.
+[00:15:17] Aí ele vai, trabalhar nisso, aqui para terminar em vinte.
+[00:15:21] Em vinte em menos de vinte e cinco minutos vamos ver se ele, dá conta.
+[00:15:26] Another falou não está mais não aparece somente a opção, na plataforma ah então parece que está mas não está.
+[00:15:27] Enquanto ele está fazendo, isso aqui o que eu vou fazer, tá.
+[00:15:30] Nós temos todas, essas abas abertas eu vou digitar aqui.
+[00:15:35] Primeiro de tudo eu preciso acessar a pasta, certa então, vou colocar cd app pronto aí, eu entrei dentro da pasta app beleza agora eu vou clicar aqui npm run dev.
+[00:15:46] Vamos ver se o sisteminha já está funcionando olha ele aí? Já está funcionando.
+[00:15:50] O design dele está, ruim a gente vai, trabalhar mais nisso. Depois mas a gente, já pode.
+[00:15:57] Visualizar ele aqui, vamos ver, como que ele ficou.
+[00:16:01] Não gostei da tipografia está muito, pequeno mas, isso aí, a gente vai trabalhar depois vamos dar uma, olhada na estrutura. Do, sistema como um todo o que a gente tem.
+[00:16:10] Então ele colocou renda mensal projetada versus meta então está projetando dois mil mas a gente, tem que chegar em doze então tem, que mudar o cenário receita projetada, cinquenta e cinco mil.
+[00:16:21] Clientes projetados, cinco a seis clientes no primeiro ano, está colocando pouco cliente aqui.
+[00:16:27] Estou achando ele muito mole.
+[00:16:29] Hipótese, em teste de revisão índice seis.
+[00:16:33] Aí tem todas as hipóteses aqui ele está colocando o que a gente já começou a fazer, da hipótese ele até falou ó enfraquecida a entrega é economicamente viável essa hipótese foi enfraquecida a gente, tem, que revisar.
+[00:16:45] Mas tem detalhes aqui de por que ela foi enfraquecida e a gente vai poder adicionar também né eu quero adicionar alguns detalhes dessa hipótese aqui, porque a gente vai ter que, mudar os preços também ali ver como isso vai funcionar.
+[00:16:58] I tem o problema, é relevante para um segmento aí está aqui, para revisar, existe comprador, com urgência, não testado ainda todas as hipóteses que a gente, definiu de manhã elas estão aqui, às seis, é isso aqui, que a gente quer completar para falar minha hipótese está validada ou, não.
+[00:17:14] Ele até deixou para a gente editar que à medida que a gente avança.
+[00:17:17] Ele colocou os objetivos também trinta dias noventa dias seis, meses doze meses treze e seid, meses.
+[00:17:23] Tá, feinho.
+[00:17:25] A gente vai, deixar melhor.
+[00:17:28] Eu vou mostrar pra vocês como fazer. Isso mas, já funciona já conseguimos? Usar aqui o.
+[00:17:34] O sistema vamos ver os outros detalhes nosso business está aqui, business model canvas ele já criou precisa melhorar a hierarquia contraste a parte de design toda está ruim não estou gostando tá.
+[00:17:47] Mas a gente vai melhorar ela também.
+[00:17:49] E ele já fez uma versão dois editando alguns conceitos aqui interessante a gente vai criando sempre novas versões à medida que a gente valida aqui o nosso.
+[00:17:58] O nosso negócio pesquisa de mercado.
+[00:18:01] Então tem todos, os achados dele catalogados aqui.
+[00:18:05] De pesquisa de mercado. Cinquenta e nove grau a tem vinte e dois sinais versos, contra sinais tem oito a oito hoje.
+[00:18:12] Oito a favor e oito contra e lacunas em aberto tem cinco aí a gente consegue filtrar aqui somente sinais contra sinais números lacunas proibidos.
+[00:18:22] Então o que a gente não pode utilizar, em material externo.
+[00:18:26] Olha que. Interessante.
+[00:18:30] Categoria a b c ou, d de confiança e também categoria em questão, de mercado demografia adoção concorrência preços demanda lacuna números proibidos eu quero que vocês lembrem.
+[00:18:42] Que a gente. Fez isso com um prompt cara.
+[00:18:45] Uh.
+[00:18:47] O sistema.
+[00:18:48] Se a gente for olhar foram três prompts né primeiro prompt, do modelo segundo do mercado e esse do sistema agora a gente, vai começar a melhorar, isso aqui para virar algo real amanhã a gente vai transformar esse landing page e depois de transformar em landing page a gente, ainda vai.
+[00:19:02] Criar, os anúncios e eu vou deixar pronto para vocês, validarem isso esse, é, o objetivo desse, atlas, para, negócio tá bom.
+[00:19:09] Então ele colocou aqui, também nossa validação econômica.
+[00:19:12] Então tem um cenário conservador cenário base e o cenário agressivo no agressivo a gente alcança dezenove zero aqui de meta, por mês.
+[00:19:21] Mas tem todo o cenário a gente vai destrinchar isso melhor amanhã tá que aí a gente vai voltar com a cabeça mais fresca e vamos destrinchar juntos aqui, esse negócio que a gente está construindo.
+[00:19:31] Comparativo dos cenários aqui também onde que, compensa o que a gente precisa mudar.
+[00:19:35] Plano de faturamento, ao longo dos meses mês um mês dois mês três mês, quatro mês cinco mês seis, mês sete mês oito então tem uma meta, de faturamento aqui, ele está, colocando meta, anual de cento e oitenta mil.
+[00:19:47] Abaixo da meta que a gente, precisa.
+[00:19:49] A gente cria quinze mil por, mês.
+[00:19:52] Aí, tem toda a tabela aqui, diagnóstico projeto assessoria qual serviço, a gente vendeu receita bruta custos a gente, vai analisar, isso aqui tudo junto.
+[00:20:02] E eu vi a dúvida ali a thais falou o meu ficou bem diferente é normal ele ficar diferente, tá.
+[00:20:08] Principalmente porque você tem os seus próprios dados, você tem o seu próprio contexto de negócio e até, esse sisteminha que ele criou, aqui, pode ser que ele, crie diferente se você usou, sonnet se você usou opus mas dá para ir, ajustando.
+[00:20:20] Tá bom.
+[00:20:23] Então tem, aqui funil ele fez uma espécie de funil aqui, de quantos clientes que a gente precisa entrar em, contato e quantos que a gente de fato entrou né então a gente pode colocar aqui. Por exemplo sei lá quinhentos.
+[00:20:34] Aí. Ele já colocou ali os quinhentos tem como melhorar o design, igual estou falando de todas as vezes eu tô, achando feinho a gente vai fazer, isso amanhã vocês vão ver como é que vai ficar legal.
+[00:20:43] Mas já está aqui funcional leads, então ele criou um pipeline aqui, para a gente, poder trabalhar um mini crm está meio bugado está. Vendo olha cortando ali em cima tudo isso aqui a gente, pode ajustar.
+[00:20:55] Aqui, também ele.
+[00:20:57] Passou ao invés de fazer isso só no pipeline ele, passou a página inteira aqui, dentro desse, scroll aí, tem que arrumar depois mas tem cambán tem, a tabela dos, leads também isso aqui, é lead mocado tá exemplo. Exemplo exemplo. Exemplo? Depois a gente vai popular isso aqui, com lead real amanhã. Também tudo isso dentro do atlas tá tô falando para vocês.
+[00:21:16] Próximos passos o que a gente, vai fazer então a gente vai colocar a gente para buscar leads para vocês vamos formatar esse sisteminha, para ficar mais fácil de, usar isso aqui que a gente está criando nesse sistema vocês vão poder utilizar depois para.
+[00:21:29] Vocês vão poder utilizar depois para construir outros sistemas crms rps eu vou dar um sistema de presente para vocês amanhã também então tem tudo isso e no meu negócio a gente tem aqui o que é atualmente negócio e a gente pode editar está vendo então tem o que é.
+[00:21:45] Duas frentes que, se conectam para quem que, é qual que, é o diferencial o que, nós não, fazemos isso aqui é meio que a pré cop os serviços que a gente oferece olha tres quinhentos dezoito.
+[00:21:55] É uma, pré cópia.
+[00:21:57] Que a gente pode ajustar para depois fazer a, página.
+[00:22:00] Okay então aqui a gente tem, a fase um do nosso sistema construída em vamos colocar trinta, minutos né construída em trinta minutos aqui e a partir disso agora a gente vai poder melhorar o design.
+[00:22:13] E aí na hora de melhorar o design eu vou, ensinar, para vocês algumas técnicas, tem vários caminhos diferentes.
+[00:22:18] Depois de melhorar o design validar os dados aqui.
+[00:22:22] Puxar leads verdadeiros métricas.
+[00:22:25] Precisas, também.
+[00:22:28] Construir. A landing pages criativos isso tudo a gente, vai fazer, amanhã então vocês já sabem qual é o conselho principal né.
+[00:22:32] Os detalhes dela também e o caminho para vocês continuarem aprendendo, isso junto com a gente também tá bom então quero agradecer a cada um de vocês poderíamos ter usado skills para melhorar o design no prompt pode pode usar skill também, tá mas ali se você faz um único prompt você tem que ou detalhar ele bem.
+[00:22:44] Ou, é melhor você começar e, depois ir melhorando entendeu tem toda a parte de tecnologia que se você for fazer, um sistema real mesmo, para publicar no mercado e vender que aí você tem que fazer, um planejamento, muito mais.
+[00:22:55] É preciso aqui no caso como é um sistema próprio de gestão nossa nós criamos uma ferramenta para nós mesmos, utilizarmos está muito mais tranquilo de gerenciar tá bom então pessoal eu quero, agradecer a cada um de vocês pela presença hoje amanhã tem, muito mais.
