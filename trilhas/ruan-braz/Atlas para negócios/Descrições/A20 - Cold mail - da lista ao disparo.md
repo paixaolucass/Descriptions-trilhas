@@ -2,7 +2,7 @@ Cálculo interno: [13 blocos] / [46 parágrafos totais] / [1405 palavras estimad
 
 # Cold mail - da lista ao disparo
 
-**Tempo estimado de leitura:** 8 minutos
+**Tempo estimado de leitura:** 5 minutos
 
 ## Objetivos de aprendizado
 
