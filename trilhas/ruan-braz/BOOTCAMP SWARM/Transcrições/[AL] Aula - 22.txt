@@ -1,0 +1,2547 @@
+1
+00:00:00,000 --> 00:00:05,339
+Então, vamos lá. Vamos lá porque hoje tem muita coisa aqui para mostrar para vocês.
+
+2
+00:00:06,339 --> 00:00:15,640
+Eu tenho certeza que vocês vão gostar muito porque toda aula eu abro um novo universo na cabeça de vocês.
+
+3
+00:00:15,779 --> 00:00:21,760
+E hoje não vai ser diferente. Hoje eu vou abrir outro universo na cabeça de vocês.
+
+4
+00:00:22,579 --> 00:00:25,640
+Então, vou compartilhar minha tela aqui.
+
+5
+00:00:25,640 --> 00:00:29,660
+( SILÊNCIO 4s )
+
+6
+00:00:29,660 --> 00:00:31,699
+Beleza, tela compartilhada.
+
+7
+00:00:35,000 --> 00:00:36,399
+E vamos lá.
+
+8
+00:00:37,920 --> 00:00:39,920
+Recapitulação agora mais rápida ainda.
+
+9
+00:00:39,920 --> 00:00:41,920
+Todas as aulas eu fiz uma recapitulação,
+
+10
+00:00:42,659 --> 00:00:44,240
+então dá para assistir a aula lá.
+
+11
+00:00:44,780 --> 00:00:47,259
+Mas no primeiro encontro a gente entendeu fundamentos
+
+12
+00:00:47,259 --> 00:00:48,700
+para construir uma automação.
+
+13
+00:00:49,460 --> 00:00:52,899
+Quebramos a automação em várias etapas, em várias partes.
+
+14
+00:00:53,500 --> 00:00:55,280
+Entendemos o objetivo de cada parte
+
+15
+00:00:55,280 --> 00:00:58,820
+e a importância de fazer isso de maneira organizada
+
+16
+00:00:58,820 --> 00:01:03,799
+e construindo via módulos, que são os clusters.
+
+17
+00:01:04,219 --> 00:01:05,420
+A gente falou sobre isso.
+
+18
+00:01:06,260 --> 00:01:09,680
+Também falei sobre a importância de entender cada uma das entidades,
+
+19
+00:01:10,140 --> 00:01:11,659
+quando que você tem uma tarefa para humano,
+
+20
+00:01:12,079 --> 00:01:13,400
+quando que você tem uma tarefa para IA
+
+21
+00:01:13,400 --> 00:01:15,760
+e quando você tem uma tarefa para scripts.
+
+22
+00:01:16,159 --> 00:01:20,180
+Isso vai poupar não só tokens, mas também erros.
+
+23
+00:01:20,959 --> 00:01:22,760
+Ontem surgiu uma dúvida lá na vanguarda
+
+24
+00:01:22,760 --> 00:01:24,099
+que tinha tudo a ver com isso aqui.
+
+25
+00:01:25,000 --> 00:01:28,219
+Então, tinha uma pessoa que estava usando a IA
+
+26
+00:01:28,219 --> 00:01:31,620
+para tentar resumir todos os dados.
+
+27
+00:01:32,420 --> 00:01:33,879
+Eu estou falando de um jeito que,
+
+28
+00:01:34,340 --> 00:01:35,700
+se essa pessoa estiver aqui agora ouvindo,
+
+29
+00:01:35,739 --> 00:01:36,180
+eu acho que está,
+
+30
+00:01:36,980 --> 00:01:38,819
+ela vai falar, não, não é exatamente isso,
+
+31
+00:01:38,859 --> 00:01:40,480
+mas eu vou falar desse jeito que vai ficar mais simples.
+
+32
+00:01:40,599 --> 00:01:42,680
+Queria resumir uma grande quantidade de dados
+
+33
+00:01:42,680 --> 00:01:44,599
+dentro de uma inteligência de IA,
+
+34
+00:01:45,060 --> 00:01:46,700
+e a IA começou a alucinar,
+
+35
+00:01:46,859 --> 00:01:47,980
+trazer dados falsos,
+
+36
+00:01:48,459 --> 00:01:50,659
+preencher lacunas de maneira equivocada.
+
+37
+00:01:51,219 --> 00:01:53,879
+E aí eu falei que o melhor jeito de resolver isso
+
+38
+00:01:53,879 --> 00:01:55,519
+era dividindo aqui
+
+39
+00:01:55,519 --> 00:01:59,280
+para que trabalhasse com scripts,
+
+40
+00:01:59,599 --> 00:02:01,319
+porque os scripts são determinísticos.
+
+41
+00:02:01,920 --> 00:02:04,680
+Então, sempre que você precisa de um dado em um determinado lugar,
+
+42
+00:02:04,799 --> 00:02:07,379
+você consegue rodar um script para colocar aquele dado lá.
+
+43
+00:02:07,760 --> 00:02:10,719
+E aí entra como uma camada de interpretação
+
+44
+00:02:10,719 --> 00:02:15,520
+desse dado que o script populou ali dentro do sistema.
+
+45
+00:02:16,400 --> 00:02:19,719
+Então, saber separar isso aqui também é muito importante
+
+46
+00:02:19,719 --> 00:02:23,419
+para colocar cada entidade na sua melhor posição.
+
+47
+00:02:24,340 --> 00:02:29,379
+Então, você não quer colocar um humano para fazer uma tarefa que um script faz.
+
+48
+00:02:29,379 --> 00:02:33,000
+E nem vai conseguir colocar um script para fazer uma tarefa que um humano faz.
+
+49
+00:02:33,080 --> 00:02:34,719
+A mesma coisa com o IAI, por aí vai.
+
+50
+00:02:35,060 --> 00:02:36,379
+A gente falou sobre isso bastante.
+
+51
+00:02:37,099 --> 00:02:40,379
+Falamos também aqui sobre a lógica de construção,
+
+52
+00:02:41,659 --> 00:02:44,819
+que o ideal é você pensar em qual é o seu objetivo primário
+
+53
+00:02:44,819 --> 00:02:48,699
+e a partir dele construir pensando em degraus,
+
+54
+00:02:49,020 --> 00:02:52,960
+mais do que pensando em um penhasco gigante, né?
+
+55
+00:02:54,060 --> 00:02:57,500
+Pensando num grande degrau, pense em degraus menores,
+
+56
+00:02:57,960 --> 00:03:01,520
+e com esses degraus aqui, você já começa a ter resultados desde o dia 1.
+
+57
+00:03:02,039 --> 00:03:04,319
+E foi esse o exercício que eu passei para vocês, inclusive.
+
+58
+00:03:04,539 --> 00:03:08,219
+A gente listou todas as tarefas, e depois de listar todas as tarefas,
+
+59
+00:03:08,280 --> 00:03:13,020
+eu falei para vocês observarem quais tarefas os agentes de vocês conseguem executar.
+
+60
+00:03:13,020 --> 00:03:16,259
+E já colocaram eles para executar, mesmo que não tenha nenhuma automação,
+
+61
+00:03:16,419 --> 00:03:18,039
+mesmo que não tenha nenhum sistema rodando,
+
+62
+00:03:18,479 --> 00:03:21,120
+simplesmente pedir para o Cloud trabalhar,
+
+63
+00:03:21,300 --> 00:03:23,860
+entregar as ferramentas para ele, permitir que ele trabalhe,
+
+64
+00:03:24,060 --> 00:03:28,780
+Isso já gera resultado, não necessariamente precisa criar sistemas complexos.
+
+65
+00:03:29,319 --> 00:03:33,319
+Falamos muito sobre gargalho-alavanca em todas as aulas, falamos sobre isso.
+
+66
+00:03:33,919 --> 00:03:36,240
+Hoje a gente vai falar sobre isso também, não tem como.
+
+67
+00:03:37,340 --> 00:03:39,500
+E basicamente na primeira aula foi isso.
+
+68
+00:03:39,500 --> 00:03:46,780
+Falei do Open Router, que é um sistema de, é um provider, um provedor de LLMs,
+
+69
+00:03:47,419 --> 00:03:51,060
+que você conecta várias LLMs nele e precisa só de uma chave API aqui.
+
+70
+00:03:51,659 --> 00:03:54,780
+E aí, com isso, você conecta uma única chave dentro do seu sistema
+
+71
+00:03:54,780 --> 00:03:58,259
+e consegue logar várias APIs diferentes lá.
+
+72
+00:03:59,039 --> 00:04:00,099
+A gente falou sobre isso aqui.
+
+73
+00:04:00,659 --> 00:04:04,620
+Já no segundo dia, nós realmente desenhamos automações,
+
+74
+00:04:05,360 --> 00:04:09,139
+entendendo a lógica de modularizar, criar partes separadas
+
+75
+00:04:09,139 --> 00:04:13,879
+e depois conectar essas partes num sistema de clusters.
+
+76
+00:04:15,000 --> 00:04:18,019
+Inclusive, criamos esse sistema aqui.
+
+77
+00:04:18,600 --> 00:04:23,180
+Isso foi feito em uma aula e já era um sistema que pesquisava automaticamente para a gente
+
+78
+00:04:23,180 --> 00:04:27,939
+e um sistema que também já escrevia a cópia automaticamente para a gente.
+
+79
+00:04:28,480 --> 00:04:31,180
+Depois disso, eu falei com vocês que a lógica era basicamente a mesma,
+
+80
+00:04:31,180 --> 00:04:32,980
+para construir as outras etapas.
+
+81
+00:04:33,360 --> 00:04:37,860
+E isso depende do objetivo de cada pessoa, do que cada um está construindo.
+
+82
+00:04:38,259 --> 00:04:43,480
+Mas o céu é o limite aqui, não tem como limitar as possibilidades.
+
+83
+00:04:44,339 --> 00:04:48,579
+Então, nós passamos um bom tempo aqui desenhando isso e implementando.
+
+84
+00:04:48,779 --> 00:04:50,560
+Inclusive, nós estamos com ele aqui na aula.
+
+85
+00:04:50,740 --> 00:04:53,000
+Vamos abrir o Research aqui.
+
+86
+00:04:53,720 --> 00:04:55,779
+Vou abrir a Dash para a gente ver.
+
+87
+00:04:57,100 --> 00:04:58,100
+Ok, aqui.
+
+88
+00:04:59,379 --> 00:05:02,500
+Então, já tem aqui o Canva dele, já tem as fontes aqui também,
+
+89
+00:05:02,800 --> 00:05:05,279
+memória, o System Prompt.
+
+90
+00:05:05,779 --> 00:05:10,319
+A gente também organizou aqui cada etapa com a sua própria tela,
+
+91
+00:05:10,800 --> 00:05:12,899
+para a gente ir configurando etapa por etapa.
+
+92
+00:05:13,360 --> 00:05:16,959
+E aí aqui a gente pode ir adicionando parte de design, parte de publicação,
+
+93
+00:05:17,180 --> 00:05:19,759
+e aí depende do projeto de cada um.
+
+94
+00:05:20,319 --> 00:05:23,240
+O que ficou pendente disso aqui, que é o que nós vamos ver hoje,
+
+95
+00:05:23,819 --> 00:05:28,040
+é como nós podemos transferir esse projeto inteiro
+
+96
+00:05:28,040 --> 00:05:30,740
+para um outro ambiente que não desliga nunca.
+
+97
+00:05:30,740 --> 00:05:33,699
+Porque aí a gente consegue configurar os crons diários
+
+98
+00:05:33,699 --> 00:05:37,480
+para acontecer independente do nosso computador estar ligado aqui.
+
+99
+00:05:37,959 --> 00:05:40,480
+É exatamente o que nós vamos fazer aqui hoje.
+
+100
+00:05:41,779 --> 00:05:49,560
+Então, no dia 2, nós desenhamos e construímos essa automação aqui, né?
+
+101
+00:05:49,560 --> 00:05:56,699
+Construímos ela juntos, para que no dia 3 eu ensinasse para vocês a lógica das APIs.
+
+102
+00:05:57,680 --> 00:06:01,740
+Então, nós entendemos que é possível conectar APIs em várias etapas do processo,
+
+103
+00:06:02,000 --> 00:06:07,639
+existem muitas APIs gratuitas e pagas, e essas APIs por si só abrem um mundo
+
+104
+00:06:07,639 --> 00:06:09,839
+de possibilidades pros nossos projetos
+
+105
+00:06:09,839 --> 00:06:11,660
+porque não só
+
+106
+00:06:11,660 --> 00:06:13,199
+nos permitem trazer dados
+
+107
+00:06:13,199 --> 00:06:15,779
+que já existem na internet, sem necessariamente
+
+108
+00:06:15,779 --> 00:06:17,399
+pedir pro Cloud ficar
+
+109
+00:06:17,399 --> 00:06:19,500
+pesquisando na internet, então nós
+
+110
+00:06:19,500 --> 00:06:21,740
+conseguimos trazer uma grande quantidade de dados
+
+111
+00:06:21,740 --> 00:06:23,720
+de um jeito muito simples, mas
+
+112
+00:06:23,720 --> 00:06:25,459
+mais do que isso também, podemos conectar
+
+113
+00:06:25,459 --> 00:06:27,339
+APIs como ferramentas dentro
+
+114
+00:06:27,339 --> 00:06:28,540
+da nossa automação.
+
+115
+00:06:29,720 --> 00:06:31,480
+Então, resumindo bem
+
+116
+00:06:31,480 --> 00:06:32,600
+resumidamente aqui,
+
+117
+00:06:33,519 --> 00:06:35,699
+nove horas de conteúdo, que é o que
+
+118
+00:06:35,699 --> 00:06:37,740
+a gente teve até agora, foi isso.
+
+119
+00:06:38,019 --> 00:06:39,860
+Nós tivemos também um período de
+
+120
+00:06:39,860 --> 00:06:41,699
+dúvidas, hoje nós vamos ter um espaço
+
+121
+00:06:41,699 --> 00:06:42,660
+para dúvidas aqui também.
+
+122
+00:06:44,100 --> 00:06:45,379
+E com isso, chegamos
+
+123
+00:06:45,379 --> 00:06:47,060
+no quarto encontro.
+
+124
+00:06:47,519 --> 00:06:49,620
+Aqui já tem dois desenhos que eu vou falar mais
+
+125
+00:06:49,620 --> 00:06:51,720
+sobre eles, mais para o final.
+
+126
+00:06:52,720 --> 00:06:53,579
+E o nosso objetivo
+
+127
+00:06:53,579 --> 00:06:55,259
+aqui agora é falar sobre
+
+128
+00:06:55,259 --> 00:06:56,500
+ambiente.
+
+129
+00:06:57,879 --> 00:06:59,860
+Então, nós vamos entender melhor
+
+130
+00:06:59,860 --> 00:07:01,899
+a lógica dos ambientes,
+
+131
+00:07:01,899 --> 00:07:03,779
+como transferir coisas de um
+
+132
+00:07:03,779 --> 00:07:05,879
+ambiente para outro? Como que o ambiente
+
+133
+00:07:05,879 --> 00:07:07,540
+interfere no seu projeto?
+
+134
+00:07:08,560 --> 00:07:09,720
+E aí, isso envolve
+
+135
+00:07:09,720 --> 00:07:11,920
+tanto o VPS, que é
+
+136
+00:07:11,920 --> 00:07:13,980
+um servidor privado virtual,
+
+137
+00:07:14,720 --> 00:07:15,839
+envolve também como
+
+138
+00:07:15,839 --> 00:07:17,560
+conectar o seu agente
+
+139
+00:07:17,560 --> 00:07:19,920
+em outros sistemas, como por exemplo
+
+140
+00:07:19,920 --> 00:07:22,060
+o Telegram, que é o que a gente vai ver aqui hoje.
+
+141
+00:07:23,220 --> 00:07:23,920
+O WhatsApp,
+
+142
+00:07:24,120 --> 00:07:25,939
+eu passei para vocês também, né? Inclusive
+
+143
+00:07:25,939 --> 00:07:28,139
+tiveram algumas pessoas que não conseguiram
+
+144
+00:07:28,139 --> 00:07:29,920
+pegar. Eu vou mandar hoje
+
+145
+00:07:29,920 --> 00:07:31,839
+aqui de novo. A gente tem essa página
+
+146
+00:07:31,839 --> 00:07:33,779
+aqui que eu vou mandar para vocês daqui a pouco
+
+147
+00:07:33,779 --> 00:07:35,639
+quando a gente entrar no assunto e tem
+
+148
+00:07:35,639 --> 00:07:37,560
+essa aqui que é
+
+149
+00:07:37,560 --> 00:07:39,779
+o tutorial completo aqui
+
+150
+00:07:39,779 --> 00:07:41,139
+do Meta Business Setup
+
+151
+00:07:41,139 --> 00:07:43,500
+que eu expliquei para vocês que é mais
+
+152
+00:07:43,500 --> 00:07:45,680
+burocrático e chatinho porque
+
+153
+00:07:45,680 --> 00:07:47,620
+envolve criar aqui
+
+154
+00:07:47,620 --> 00:07:49,779
+um portfólio na Meta, conectar
+
+155
+00:07:49,779 --> 00:07:51,759
+seu CNPJ, criar página
+
+156
+00:07:51,759 --> 00:07:53,740
+criar no Instagram e se a gente
+
+157
+00:07:53,740 --> 00:07:55,600
+fosse fazer isso passo a passo seria um
+
+158
+00:07:55,600 --> 00:07:57,019
+workshop de Meta só
+
+159
+00:07:57,019 --> 00:07:59,959
+a gente teria várias aulas só para ficar conectando
+
+160
+00:07:59,959 --> 00:08:01,560
+isso aqui, clicando nos botões
+
+161
+00:08:01,560 --> 00:08:19,779
+Então, eu preparei o checklist todo aqui para vocês, vocês podem inclusive rodar esse site aqui no Cloud Code e pedir para o Cloud Code ir orientando vocês, compartilhando o link onde vocês precisam ir, onde precisa clicar, e aí com isso vocês vão conseguir conectar Instagram, WhatsApp, Facebook.
+
+162
+00:08:19,779 --> 00:08:37,379
+São três ferramentas aí muito importantes, e principalmente o WhatsApp, que hoje talvez seja o principal canal de vendas de muita empresa, da maioria das empresas no Brasil, então eu sei da relevância de conectar um agente no WhatsApp, mas existem dois motivos para o WhatsApp estar dificultando as coisas.
+
+163
+00:08:37,379 --> 00:09:05,100
+O motivo número um é que o WhatsApp também é o principal canal de golpe no Brasil, então é por uma questão de segurança, por natureza, quanto mais você deixa algo seguro, mais burocrático fica, é a mesma coisa de vocês pensarem uma porta que tem 30 trancas, ficou bem mais seguro, só que agora você tem que ir abrindo uma tranca de cada vez até abrir as 30, então é mais ou menos a mesma coisa aqui, quanto mais seguro fica, mais burocrático, mais demorado.
+
+164
+00:09:05,340 --> 00:09:08,980
+Então esse é um primeiro motivo do WhatsApp ser chatinho de conectar.
+
+165
+00:09:09,620 --> 00:09:14,120
+E o segundo motivo é porque a meta está investindo nos agentes próprios dela
+
+166
+00:09:14,120 --> 00:09:17,720
+e ela quer que as pessoas utilizem os agentes dentro do próprio WhatsApp
+
+167
+00:09:17,720 --> 00:09:21,519
+ao invés de ficar conectando de fora com ferramentas de terceiros.
+
+168
+00:09:22,299 --> 00:09:26,379
+Então são dois grandes motivos aqui para a meta estar dificultando as coisas.
+
+169
+00:09:27,120 --> 00:09:31,539
+Mas eu falei na última aula que é possível conectar com API não oficial.
+
+170
+00:09:31,539 --> 00:09:35,620
+O lance da Pay Não Oficial é que você pode acabar perdendo muitos números aí.
+
+171
+00:09:35,980 --> 00:09:38,299
+E aí a galera acaba fazendo muitas estratégias, né?
+
+172
+00:09:38,299 --> 00:09:40,440
+Ah, vou comprar 10, 30 números de uma vez,
+
+173
+00:09:40,840 --> 00:09:43,779
+e aí eu fico rotacionando os números para não ser bloqueado,
+
+174
+00:09:43,820 --> 00:09:45,399
+mas se eu for bloqueado em um, eu tenho outro.
+
+175
+00:09:45,980 --> 00:09:50,299
+Eu não gosto muito dessa prática pensando na experiência de marca,
+
+176
+00:09:50,440 --> 00:09:53,519
+porque imagina, você está conversando com alguém, aí seu número é bloqueado.
+
+177
+00:09:53,940 --> 00:09:55,159
+Aí você tem que chegar de outro número.
+
+178
+00:09:55,259 --> 00:09:57,200
+Daqui a pouco, eu odeio isso, tá?
+
+179
+00:09:57,200 --> 00:10:00,360
+Quando o meu WhatsApp começa a ficar cheio da mesma pessoa
+
+180
+00:10:00,360 --> 00:10:01,539
+com um monte de número diferente.
+
+181
+00:10:01,659 --> 00:10:03,759
+Então, a mesma empresa tem cinco números, seis números.
+
+182
+00:10:03,860 --> 00:10:07,220
+Poxa, está lotando aqui o meu WhatsApp, está ficando chato para caramba.
+
+183
+00:10:07,919 --> 00:10:08,460
+E eu não gosto.
+
+184
+00:10:08,539 --> 00:10:11,679
+Eu começo a denunciar, começo a bloquear, porque fica chato.
+
+185
+00:10:11,980 --> 00:10:15,200
+E aí, no final, o que era para ser um canal que conecta a empresa com o cliente,
+
+186
+00:10:16,039 --> 00:10:19,080
+vira um canal que impede a empresa de conectar com o cliente.
+
+187
+00:10:19,159 --> 00:10:20,820
+Porque a empresa vai tentar e o cliente vai bloquear.
+
+188
+00:10:21,019 --> 00:10:23,179
+E, no final, é pior do que se não tivesse mandado nada.
+
+189
+00:10:24,039 --> 00:10:26,840
+Então, tem como, tem jeito para usar a API não oficial.
+
+190
+00:10:26,840 --> 00:10:33,899
+Tem como, tem maneiras de fazer isso, porém tem que ser bem feito, porque senão é pior do que não usar.
+
+191
+00:10:34,100 --> 00:10:44,100
+Aí é melhor usar um ManyChat, paga ali o disparo mesmo, ou usa o próprio API oficial, faz toda essa configuração aqui e o WhatsApp vai funcionar para vocês.
+
+192
+00:10:44,639 --> 00:10:51,220
+Por conta de toda essa burocracia, nós vamos fazer uma conexão aqui com o Telegram.
+
+193
+00:10:51,220 --> 00:10:54,779
+Então, eu quero conectar aqui o meu...
+
+194
+00:10:54,779 --> 00:10:55,759
+Ele está até abertinho aqui.
+
+195
+00:10:55,879 --> 00:10:59,179
+Quero conectar aqui o meu cloud com o Telegram.
+
+196
+00:10:59,740 --> 00:11:01,700
+Ou quero conectar um Hermes com o Telegram,
+
+197
+00:11:01,779 --> 00:11:02,899
+um Open Cloud com o Telegram.
+
+198
+00:11:03,320 --> 00:11:04,440
+Como que eu faço isso?
+
+199
+00:11:04,980 --> 00:11:06,399
+É o que a gente vai ver aqui também.
+
+200
+00:11:06,820 --> 00:11:09,500
+E aí, dessa forma, você consegue conversar com o seu agente,
+
+201
+00:11:09,600 --> 00:11:11,320
+pedir para ele executar tarefas por você,
+
+202
+00:11:11,700 --> 00:11:13,080
+mesmo que você esteja longe.
+
+203
+00:11:13,779 --> 00:11:15,480
+E o interessante é que tem como fazer isso,
+
+204
+00:11:15,559 --> 00:11:16,500
+tanto localmente,
+
+205
+00:11:16,700 --> 00:11:19,340
+só que aí você precisa deixar o seu PC ligado,
+
+206
+00:11:19,580 --> 00:11:25,159
+quanto também dentro de uma VPS, que aí a VPS fica 100% ligada o tempo inteiro,
+
+207
+00:11:25,620 --> 00:11:30,879
+e aí é como se você, é como se não, é exatamente você tendo um assistente robô
+
+208
+00:11:30,879 --> 00:11:34,779
+que você pode conversar no Telegram, como se estivesse falando com a sua equipe,
+
+209
+00:11:35,120 --> 00:11:42,039
+mandar áudio, escrever texto, e ele vai executando tarefas para você dentro do seu VPS, tá bom?
+
+210
+00:11:42,740 --> 00:11:48,860
+Só que para chegar nesse ponto aqui, primeiro a gente precisa entender esse tal de VPS,
+
+211
+00:11:48,860 --> 00:12:06,980
+E a partir disso, entender a importância dele, como configurar ele, porque aí você vai ter o seu computador de trabalho pessoal, que ele é seu, e vai ter também seus servidores privados ali para deixar suas automações, que é a melhor prática possível aqui, mas precisa ser feita com segurança.
+
+212
+00:12:06,980 --> 00:12:09,259
+E eu vou explicar por que aqui, tá bom?
+
+213
+00:12:09,980 --> 00:12:13,000
+Tudo certo, então? Manda um hashtag over se vocês estão comigo.
+
+214
+00:12:14,340 --> 00:12:15,960
+E bora começar esse conteúdo aqui.
+
+215
+00:12:18,620 --> 00:12:20,879
+Aê! Maravilha.
+
+216
+00:12:21,480 --> 00:12:22,059
+Então, vamos lá.
+
+217
+00:12:22,679 --> 00:12:25,659
+Esse link aqui, eu vou mandar para vocês já de uma vez.
+
+218
+00:12:26,159 --> 00:12:27,500
+Então, tá aí o index.
+
+219
+00:12:28,460 --> 00:12:30,159
+Vou mandar aqui, prontinho.
+
+220
+00:12:31,779 --> 00:12:32,980
+Eu vou até...
+
+221
+00:12:33,519 --> 00:12:34,980
+Ah, tá certo. Então, esse é o index.
+
+222
+00:12:34,980 --> 00:12:38,639
+E agora eu vou mandar para vocês o VPSSH.
+
+223
+00:12:39,419 --> 00:12:45,000
+Já baixem aí, porque vai ser o material para vocês acompanharem tudo que eu vou ensinar aqui agora.
+
+224
+00:12:45,700 --> 00:12:46,000
+Beleza?
+
+225
+00:12:46,399 --> 00:12:48,860
+Eu decidi criar esse material aqui para vocês também,
+
+226
+00:12:49,799 --> 00:12:54,559
+porque mesmo que acabe aqui a aula depois, vocês conseguem seguir aqui um passo a passo.
+
+227
+00:12:54,740 --> 00:12:55,980
+Isso aqui sempre fica com vocês.
+
+228
+00:12:56,419 --> 00:12:59,539
+Tem o checklist lá no final também para fazer tudo certinho.
+
+229
+00:12:59,539 --> 00:13:09,580
+E como tem muito comando aqui diferente, é chato ter que ficar voltando na aula para assistir qual foi a hora que o Juan falou aquele comando específico.
+
+230
+00:13:09,820 --> 00:13:16,120
+Então tem todos os comandos aqui, passo a passo para vocês, para agilizar a vida de vocês depois no dia a dia, beleza?
+
+231
+00:13:16,960 --> 00:13:24,299
+E aí aqui hoje eu vou explicar para vocês como funciona, a partir disso depois vocês estão livres para fazer da maneira que acharem melhor.
+
+232
+00:13:25,259 --> 00:13:47,440
+Então, vamos lá, bom mesmo é o SOS da Nanda, o SOS da Nanda é diferenciado, mas vamos lá então, primeira coisa que a gente precisa entender, vou vir aqui para o nosso quadro branco, a gente precisa entender a lógica do ambiente, o ambiente ele tem uma importância muito grande na hora que a gente vai desenvolver qualquer tipo de solução digital,
+
+233
+00:13:47,440 --> 00:14:03,679
+Então, não importa se você está criando um app, se você está criando um programa de desktop, se você está criando um web app, tudo isso aqui vai ser influenciado pelo ambiente.
+
+234
+00:14:03,860 --> 00:14:08,879
+Pode ser também uma automação ou até mesmo um agente.
+
+235
+00:14:08,879 --> 00:14:14,139
+( SILÊNCIO 5s )
+
+236
+00:14:14,139 --> 00:14:16,639
+Tudo isso aqui é influenciado por um ambiente.
+
+237
+00:14:16,639 --> 00:14:21,799
+O que a gente já aprendeu ali de ambiente foi a lógica do cloud,
+
+238
+00:14:23,019 --> 00:14:26,940
+em que você pode colocar ali o cloud code, que é um agente,
+
+239
+00:14:27,080 --> 00:14:30,740
+então vamos por parte aqui, a gente pode colocar um cloud code
+
+240
+00:14:30,740 --> 00:14:37,539
+para poder trabalhar dentro do nosso computador pelo desktop, pelo terminal.
+
+241
+00:14:40,120 --> 00:14:43,779
+E quando a gente instala o cloud code ali como agente, o que a gente precisa?
+
+242
+00:14:43,779 --> 00:14:45,440
+A gente precisa preparar o ambiente.
+
+243
+00:14:45,899 --> 00:14:47,340
+O que significava preparar o ambiente?
+
+244
+00:14:47,559 --> 00:14:50,539
+Tem que instalar o Git, tem que instalar o Node.
+
+245
+00:14:51,820 --> 00:14:54,659
+E aí isso cria um ambiente que permite o nosso Cloud Code
+
+246
+00:14:54,659 --> 00:14:57,559
+trabalhar ali dentro do terminal,
+
+247
+00:14:58,240 --> 00:15:01,960
+executar ferramentas e fazer tudo o que ele precisa.
+
+248
+00:15:02,200 --> 00:15:04,120
+Pode ser o Cloud Code, Codex, Gemini.
+
+249
+00:15:04,700 --> 00:15:07,200
+Isso aqui já é uma configuração de ambiente.
+
+250
+00:15:08,299 --> 00:15:11,360
+Tudo que a gente fez aqui foi configurar um ambiente local
+
+251
+00:15:11,360 --> 00:15:19,799
+ou você também pode trocar dentro do Cloud para Cloud, que é na nuvem.
+
+252
+00:15:20,600 --> 00:15:26,320
+Então, Cloud e Cloud são coisas diferentes.
+
+253
+00:15:26,659 --> 00:15:29,120
+Então, Cloud é trabalhar na nuvem.
+
+254
+00:15:29,580 --> 00:15:35,120
+Quando a gente trabalha na nuvem, basicamente a gente está trabalhando em um servidor próprio da empresa.
+
+255
+00:15:35,120 --> 00:15:42,200
+Então, se eu trabalho na nuvem do cloud, eu estou trabalhando na nuvem da Anthropic.
+
+256
+00:15:42,480 --> 00:15:45,820
+Se eu trabalho na nuvem do Codex, eu estou trabalhando na nuvem da OpenAI.
+
+257
+00:15:45,879 --> 00:15:48,559
+Então, são servidores específicos dessas empresas.
+
+258
+00:15:49,120 --> 00:15:54,220
+Esses servidores possuem pastas, mas você não consegue configurar o servidor.
+
+259
+00:15:55,059 --> 00:16:00,240
+Então, é limitado o que você pode fazer ali dentro daquele ambiente na nuvem
+
+260
+00:16:00,240 --> 00:16:03,539
+que essas empresas disponibilizam.
+
+261
+00:16:03,539 --> 00:16:24,600
+Por isso, inclusive, que a gente sempre recomenda não ficar só preso dentro do navegador, aquela pessoa que usa o Cloud Code só dentro do navegador, ela está limitada a esse ambiente de nuvem, que já tem suas próprias configurações e suas próprias travas, justamente por uma questão de segurança.
+
+262
+00:16:24,799 --> 00:16:30,720
+Então, se você está trabalhando na casa do Cloud aqui, por exemplo, na casa da Anthropic, na casa da OpenAI,
+
+263
+00:16:31,179 --> 00:16:36,299
+você vai ter várias travas e limites de segurança que vão te impedir, às vezes, de criar os projetos que você quer.
+
+264
+00:16:36,879 --> 00:16:42,179
+Já quando a gente trabalha localmente, nós trabalhamos dentro de uma pasta no nosso computador,
+
+265
+00:16:42,620 --> 00:16:46,200
+e aí nós podemos configurar o ambiente do jeito que nós quisermos.
+
+266
+00:16:46,940 --> 00:16:50,840
+Isso abre uma série de possibilidades, mas ainda tem limites também.
+
+267
+00:16:50,840 --> 00:16:54,840
+E qual que é o principal limite? É o limite de disponibilidade.
+
+268
+00:16:55,460 --> 00:17:03,960
+Você precisa deixar o seu PC ligado para que você tenha ali as automações e os agentes trabalhando.
+
+269
+00:17:04,700 --> 00:17:06,859
+Então, o PC precisa ficar ligado.
+
+270
+00:17:06,980 --> 00:17:09,400
+Mas mais do que isso, ele precisa ficar disponível.
+
+271
+00:17:09,799 --> 00:17:16,039
+Porque se você está utilizando o seu PC ao mesmo tempo que a IA está utilizando para fazer as automações dela,
+
+272
+00:17:16,900 --> 00:17:19,119
+começa, né, cada um começa a roubar parte
+
+273
+00:17:19,119 --> 00:17:20,720
+ali do poder computacional
+
+274
+00:17:20,720 --> 00:17:22,880
+e aí pode acontecer do seu PC ficar lento,
+
+275
+00:17:23,240 --> 00:17:24,980
+pode acontecer de travar alguma coisa, pode
+
+276
+00:17:24,980 --> 00:17:26,960
+acontecer de um agente que está fazendo uma
+
+277
+00:17:26,960 --> 00:17:28,980
+coisa atrapalhar outro agente que está
+
+278
+00:17:28,980 --> 00:17:30,660
+fazendo outra coisa em uma pasta parecida
+
+279
+00:17:30,660 --> 00:17:33,440
+e aí isso acaba criando uma limitação
+
+280
+00:17:33,440 --> 00:17:34,859
+também de ambiente.
+
+281
+00:17:35,440 --> 00:17:37,119
+Trabalhar local é muito bom porque
+
+282
+00:17:37,119 --> 00:17:38,779
+é versátil, é rápido, é fácil,
+
+283
+00:17:39,180 --> 00:17:41,079
+está no seu computador, está tudo na sua frente, você tem
+
+284
+00:17:41,079 --> 00:17:43,119
+controle de tudo, é bem mais tranquilo.
+
+285
+00:17:43,519 --> 00:17:45,259
+Porém, tem essas limitações
+
+286
+00:17:45,259 --> 00:17:46,920
+também que a gente tem que levar em consideração.
+
+287
+00:17:47,519 --> 00:17:49,079
+Além disso, quando você
+
+288
+00:17:49,079 --> 00:17:51,079
+trabalha local, você está
+
+289
+00:17:51,079 --> 00:17:52,680
+limitado ao seu hardware.
+
+290
+00:17:53,660 --> 00:17:55,240
+Quando, na verdade, você pode
+
+291
+00:17:55,240 --> 00:17:56,140
+alugar
+
+292
+00:17:56,140 --> 00:17:59,400
+um hardware de outro servidor
+
+293
+00:17:59,400 --> 00:18:01,279
+para rodar os seus processos lá.
+
+294
+00:18:01,900 --> 00:18:03,259
+Então, vamos pensar aqui.
+
+295
+00:18:03,259 --> 00:18:05,339
+Quando a gente começa a trabalhar
+
+296
+00:18:05,339 --> 00:18:07,420
+com um servidor
+
+297
+00:18:07,420 --> 00:18:08,960
+privado virtual,
+
+298
+00:18:09,880 --> 00:18:11,579
+nós estamos trabalhando
+
+299
+00:18:11,579 --> 00:18:13,380
+com um computador que não está
+
+300
+00:18:13,380 --> 00:18:14,759
+perto de nós fisicamente,
+
+301
+00:18:15,259 --> 00:18:19,099
+mas que nos fornece todo o poder computacional que a gente precisa
+
+302
+00:18:19,099 --> 00:18:20,500
+para rodar nossas aplicações.
+
+303
+00:18:21,140 --> 00:18:25,720
+E isso traz uma série de vantagens, porque de maneira virtual,
+
+304
+00:18:26,099 --> 00:18:28,180
+ou seja, à distância do nosso computador,
+
+305
+00:18:28,579 --> 00:18:32,019
+a gente consegue trabalhar em computadores muito mais potentes.
+
+306
+00:18:32,680 --> 00:18:34,039
+Então, pensa comigo o seguinte,
+
+307
+00:18:34,680 --> 00:18:38,500
+é claro que você pode conectar uma automação ali dentro desse VPS,
+
+308
+00:18:38,500 --> 00:18:42,839
+você pode conectar um agente para ficar o tempo todo trabalhando para você,
+
+309
+00:18:43,180 --> 00:18:44,099
+isso tudo é muito legal.
+
+310
+00:18:44,440 --> 00:18:46,700
+Mas existem outras camadas disso também.
+
+311
+00:18:47,240 --> 00:18:48,339
+E que camada é essa?
+
+312
+00:18:48,660 --> 00:18:53,980
+Por exemplo, vocês já devem ter ouvido falar de LLMs locais.
+
+313
+00:18:54,180 --> 00:18:59,880
+Então, eu consigo baixar um modelo de IA para não ter que pagar tokens mais.
+
+314
+00:19:00,380 --> 00:19:02,859
+Só que qual é o problema de fazer isso local?
+
+315
+00:19:03,059 --> 00:19:05,680
+Você precisa de um computador muito potente.
+
+316
+00:19:05,680 --> 00:19:10,740
+É claro que estão surgindo modelos, inclusive, que são SLMs,
+
+317
+00:19:10,920 --> 00:19:15,019
+Small Language Models, que são modelos de linguagem pequenos
+
+318
+00:19:15,019 --> 00:19:17,500
+que cabem até em um smartphone.
+
+319
+00:19:17,859 --> 00:19:21,500
+Teve um teste, se eu não me engano, foi da Apple no iPhone 7,
+
+320
+00:19:22,039 --> 00:19:24,400
+rodando uma IA interna dentro dele.
+
+321
+00:19:24,799 --> 00:19:26,839
+Inclusive, isso aqui é uma grande aposta, tá?
+
+322
+00:19:27,000 --> 00:19:30,259
+Se vocês quiserem já uma antecipação,
+
+323
+00:19:31,119 --> 00:19:32,519
+muita gente fica me perguntando isso.
+
+324
+00:19:32,519 --> 00:19:35,579
+Qual que é a próxima onda do mercado?
+
+325
+00:19:35,720 --> 00:19:37,240
+Para onde que a tecnologia está indo?
+
+326
+00:19:37,859 --> 00:19:38,400
+É aqui, ó.
+
+327
+00:19:39,279 --> 00:19:43,680
+SLMs e modelos gratuitos, open source ou open rate, que é pesos abertos.
+
+328
+00:19:44,400 --> 00:19:47,559
+Porque dessa forma aqui você não precisa ficar pagando token.
+
+329
+00:19:48,259 --> 00:19:51,299
+Você tem o modelo instalado dentro do seu computador
+
+330
+00:19:51,299 --> 00:19:54,680
+e aí com isso você consegue usar ele ali para o que você quiser
+
+331
+00:19:54,680 --> 00:19:57,380
+sem ter que pagar pelos tokens.
+
+332
+00:19:57,960 --> 00:20:01,460
+Porém, os modelos que são bons, essas baleionas aqui,
+
+333
+00:20:02,240 --> 00:20:05,700
+elas precisam de um computador muito mais potente.
+
+334
+00:20:05,700 --> 00:20:10,640
+E às vezes vai sair caro para você montar um PC desse inteiro.
+
+335
+00:20:11,000 --> 00:20:14,200
+Tem gente que usa o Mac Mini, então compra um Mac Mini ali,
+
+336
+00:20:14,839 --> 00:20:18,400
+e aí é um bloquinho pequenininho que dá para carregar na mochila,
+
+337
+00:20:18,700 --> 00:20:23,539
+e monta um servidor pessoal, local, que serve justamente para isso.
+
+338
+00:20:23,960 --> 00:20:30,500
+E aí dá para instalar não só LLMs e SLMs americanas, mas também chinesas.
+
+339
+00:20:30,500 --> 00:20:35,599
+Tem várias ferramentas e inteligências artificiais que vocês conseguem utilizar aqui.
+
+340
+00:20:35,700 --> 00:20:46,039
+E isso também é uma grande vantagem, porque não tem limite mais, você pode simplesmente alugar um computador mais potente do que o seu para poder rodar esse tipo de aplicação ali dentro.
+
+341
+00:20:46,359 --> 00:20:58,619
+Aí é claro que sempre tem as contas para fazer, para ver se compensa mais assinar o servidor, e aí você tem ali o modelo para você, ou se vale mais a pena você assinar o modelo.
+
+342
+00:20:58,900 --> 00:21:06,039
+Uma outra grande vantagem de assinar o servidor é que você pode trabalhar com uma LLM local
+
+343
+00:21:06,039 --> 00:21:09,259
+que vai manter todos os seus dados ali dentro.
+
+344
+00:21:09,880 --> 00:21:14,980
+Então, pensa o seguinte, eu vou trabalhar com um cliente que é uma empresa gigante
+
+345
+00:21:14,980 --> 00:21:20,759
+e que os dados não podem sair daqui, os dados não podem ir para nenhum outro servidor.
+
+346
+00:21:20,880 --> 00:21:23,240
+A gente falou disso já em outras aulas.
+
+347
+00:21:23,240 --> 00:21:27,460
+Eu tenho ali, estou usando o Cloud, aí eu jogo no Cloud um monte de dados meus
+
+348
+00:21:27,460 --> 00:21:29,559
+e aí eu falo, ah, mas eu coloquei no anônimo
+
+349
+00:21:29,559 --> 00:21:31,559
+ou o Cloud falou que não vai usar
+
+350
+00:21:31,559 --> 00:21:33,440
+esses dados para treinamento. E aí eu falei
+
+351
+00:21:33,440 --> 00:21:35,380
+com vocês, não usar os dados para
+
+352
+00:21:35,380 --> 00:21:37,359
+treinamento não é a mesma
+
+353
+00:21:37,359 --> 00:21:39,619
+coisa que guardar os dados em um servidor
+
+354
+00:21:39,619 --> 00:21:41,519
+para consulta. Eles guardam.
+
+355
+00:21:41,940 --> 00:21:43,359
+Independente, inclusive se você coloca
+
+356
+00:21:43,359 --> 00:21:45,380
+como anônimo, eles vão só anonimizar, mas o
+
+357
+00:21:45,380 --> 00:21:47,400
+dado fica guardado lá. E aí
+
+358
+00:21:47,400 --> 00:21:49,200
+se acontece qualquer falha de segurança,
+
+359
+00:21:49,440 --> 00:21:51,400
+esse dado vaza, tá, e seus
+
+360
+00:21:51,400 --> 00:21:53,180
+dados vazados também. Então,
+
+361
+00:21:53,559 --> 00:21:55,539
+quando você trabalha com
+
+362
+00:21:55,539 --> 00:21:57,359
+um LLM, e aí não
+
+363
+00:21:57,359 --> 00:21:58,920
+pode ser, por exemplo, se você
+
+364
+00:21:58,920 --> 00:22:01,259
+pega um servidor, uma VPS, e
+
+365
+00:22:01,259 --> 00:22:03,480
+conecta o Cloud lá. Não fez diferença
+
+366
+00:22:03,480 --> 00:22:05,000
+nenhuma. Agora, por exemplo,
+
+367
+00:22:05,400 --> 00:22:07,500
+você tem um VPS
+
+368
+00:22:07,500 --> 00:22:09,259
+e aí você instala uma
+
+369
+00:22:09,259 --> 00:22:11,259
+LLM lá. Tem como instalar o Cloud
+
+370
+00:22:11,259 --> 00:22:13,160
+assim? Não. O Cloud
+
+371
+00:22:13,160 --> 00:22:15,119
+não disponibiliza os
+
+372
+00:22:15,119 --> 00:22:17,140
+pesos dele open source. Tem como
+
+373
+00:22:17,140 --> 00:22:18,279
+trabalhar assim com
+
+374
+00:22:18,279 --> 00:22:21,039
+chat GPT? Até certa medida, sim.
+
+375
+00:22:21,119 --> 00:22:23,339
+O chat GPT, ele tem modelos
+
+376
+00:22:23,339 --> 00:22:25,220
+open weight, que são pesos abertos.
+
+377
+00:22:25,900 --> 00:22:27,180
+E existem modelos que são
+
+378
+00:22:27,180 --> 00:22:29,119
+open source, como, por exemplo, os modelos
+
+379
+00:22:29,119 --> 00:22:31,140
+da Meta ou os modelos
+
+380
+00:22:31,140 --> 00:22:33,099
+chineses, que aí os modelos chineses
+
+381
+00:22:33,099 --> 00:22:34,759
+open source estão muito poderosos
+
+382
+00:22:34,759 --> 00:22:37,119
+e você consegue instalar ele direto na sua
+
+383
+00:22:37,119 --> 00:22:38,960
+máquina. Quando você instala
+
+384
+00:22:38,960 --> 00:22:40,460
+a IA direto na máquina,
+
+385
+00:22:41,000 --> 00:22:42,660
+no VPS, no caso aqui,
+
+386
+00:22:42,940 --> 00:22:45,240
+você não envia para outro servidor
+
+387
+00:22:45,240 --> 00:22:46,960
+porque ela está trabalhando dentro
+
+388
+00:22:46,960 --> 00:22:48,400
+do servidor que você instalou ela.
+
+389
+00:22:48,920 --> 00:22:50,940
+E aí precisa ser uma LLM específica para
+
+390
+00:22:50,940 --> 00:22:52,119
+fazer isso, mas
+
+391
+00:22:52,119 --> 00:22:55,140
+ela não vai enviar nada para nenhum outro servidor.
+
+392
+00:22:55,279 --> 00:22:56,940
+Ela vai ficar ali dentro, junto
+
+393
+00:22:56,940 --> 00:22:58,220
+com você, entendeu?
+
+394
+00:22:58,700 --> 00:23:00,880
+E aí você tem um controle maior,
+
+395
+00:23:01,119 --> 00:23:02,839
+uma precisão maior e uma confiança
+
+396
+00:23:02,839 --> 00:23:04,700
+maior também de que aqueles dados
+
+397
+00:23:04,700 --> 00:23:06,740
+estão somente dentro da sua VPS
+
+398
+00:23:06,740 --> 00:23:08,839
+porque você instalou o modelo
+
+399
+00:23:08,839 --> 00:23:10,799
+ali não como
+
+400
+00:23:10,799 --> 00:23:13,180
+um serviço
+
+401
+00:23:13,180 --> 00:23:15,099
+de terminal, mas de fato
+
+402
+00:23:15,099 --> 00:23:16,920
+ali a inteligência artificial
+
+403
+00:23:16,920 --> 00:23:18,799
+instalada dentro daquele computador
+
+404
+00:23:18,799 --> 00:23:19,880
+trabalhando ali, beleza?
+
+405
+00:23:20,680 --> 00:23:23,339
+Então, esse que é o ponto interessante
+
+406
+00:23:23,339 --> 00:23:25,019
+aqui de trabalhar
+
+407
+00:23:25,019 --> 00:23:26,740
+com VPS.
+
+408
+00:23:26,940 --> 00:23:31,299
+Aqui está em português, né, SVP, mas o correto é VPS,
+
+409
+00:23:31,440 --> 00:23:33,599
+o termo em inglês, Virtual Private Server.
+
+410
+00:23:35,180 --> 00:23:39,460
+E aí agora eu quero explicar para vocês como que a gente pode fazer essa conexão,
+
+411
+00:23:40,279 --> 00:23:44,160
+e por mais que pareça complicado, é mais simples do que parece,
+
+412
+00:23:44,160 --> 00:23:48,839
+e vocês vão sair daqui hoje mais poderosos e poderosas, tá?
+
+413
+00:23:49,700 --> 00:23:53,220
+A primeira coisa do VPS é que ele te permite, por ser virtual,
+
+414
+00:23:54,019 --> 00:23:58,559
+ele te permite conectar um ambiente em outro.
+
+415
+00:23:58,900 --> 00:24:01,319
+Então, imagina que você está aqui no seu computador,
+
+416
+00:24:01,480 --> 00:24:04,980
+vou pegar um notebook agora, estou desenhando só desktop,
+
+417
+00:24:05,259 --> 00:24:06,180
+você está aqui no seu computador,
+
+418
+00:24:06,619 --> 00:24:10,779
+você consegue conectar esse seu computador lá no servidor.
+
+419
+00:24:11,539 --> 00:24:14,079
+E aí, a partir do seu computador aqui,
+
+420
+00:24:14,079 --> 00:24:19,319
+você consegue mexer no seu servidor.
+
+421
+00:24:19,500 --> 00:24:23,160
+Geralmente, aqui você trabalha com prompt de comando,
+
+422
+00:24:23,440 --> 00:24:25,140
+Não tem uma interface.
+
+423
+00:24:25,660 --> 00:24:31,579
+E você faz essa conexão usando o que a gente chama de SSH, que é Security Shell.
+
+424
+00:24:32,000 --> 00:24:33,740
+Eu vou falar mais sobre isso para vocês.
+
+425
+00:24:34,019 --> 00:24:36,200
+Mas basicamente é um terminal.
+
+426
+00:24:36,900 --> 00:24:39,819
+E nesse terminal aqui você consegue, direto aqui do seu computador,
+
+427
+00:24:40,240 --> 00:24:42,920
+usando o seu terminal mesmo.
+
+428
+00:24:43,359 --> 00:24:46,180
+Eu consigo usar o meu próprio terminal aqui.
+
+429
+00:24:47,420 --> 00:24:49,660
+E aí eu vou mostrar para vocês como faz isso.
+
+430
+00:24:49,660 --> 00:24:51,960
+A gente faz uma conexão aqui.
+
+431
+00:24:52,579 --> 00:24:56,319
+E aí, a partir dessa conexão, a gente vai colocar um IP aqui
+
+432
+00:24:56,319 --> 00:25:04,599
+e, com isso, a gente consegue acessar um VPS direto do nosso computador.
+
+433
+00:25:05,019 --> 00:25:07,660
+Isso significa que a sensação que vai te dar
+
+434
+00:25:07,660 --> 00:25:09,980
+é como se você estivesse trabalhando dentro do seu computador,
+
+435
+00:25:10,619 --> 00:25:13,420
+só que, na verdade, você está conectado num outro servidor,
+
+436
+00:25:13,420 --> 00:25:17,339
+em outro lugar do mundo, e conseguindo fazer seus projetos por ele.
+
+437
+00:25:17,640 --> 00:25:21,839
+O lado ruim disso é que existe um ritualzinho inicial aqui,
+
+438
+00:25:22,019 --> 00:25:25,200
+esses comandos que eu vou passar para vocês,
+
+439
+00:25:25,680 --> 00:25:27,960
+mas igual tudo na vida, né, gente?
+
+440
+00:25:28,339 --> 00:25:30,160
+Vocês aprenderam a usar Cloud no terminal,
+
+441
+00:25:30,440 --> 00:25:32,059
+foi difícil de utilizar,
+
+442
+00:25:32,599 --> 00:25:34,720
+depois vocês aprenderam e começou a ficar mais simples.
+
+443
+00:25:35,119 --> 00:25:36,339
+Aprendizado é repetição.
+
+444
+00:25:36,500 --> 00:25:38,660
+Quanto mais a gente repete, mais fácil fica.
+
+445
+00:25:39,160 --> 00:25:40,960
+E eu sei que qualquer pessoa aqui dentro hoje
+
+446
+00:25:40,960 --> 00:25:42,680
+tem condição de aprender isso aqui,
+
+447
+00:25:42,680 --> 00:25:44,440
+desde que insista, repita até,
+
+448
+00:25:44,900 --> 00:25:47,799
+isso se tornar algo natural, tá bom?
+
+449
+00:25:48,259 --> 00:25:50,720
+Mas esse é o processo que eu quero trazer aqui para vocês.
+
+450
+00:25:51,220 --> 00:25:55,940
+Antes só de trazer esse processo, eu preciso falar exatamente disso aqui.
+
+451
+00:25:56,660 --> 00:25:59,660
+A gente pode trabalhar com automação, pode trabalhar com agentes,
+
+452
+00:25:59,779 --> 00:26:04,539
+pode trabalhar com aplicativo, e aí a gente tem iOS, a gente tem Android,
+
+453
+00:26:05,640 --> 00:26:10,079
+a gente pode trabalhar com programas desktop, aí tem Windows, tem iOS de novo,
+
+454
+00:26:10,539 --> 00:26:16,279
+tem Linux, a gente pode trabalhar com web app, aí é um mais versátil,
+
+455
+00:26:16,279 --> 00:26:18,259
+mas funciona dentro do ambiente do browser.
+
+456
+00:26:18,920 --> 00:26:23,079
+Cada ambiente desse possui suas próprias regras e dependências.
+
+457
+00:26:23,700 --> 00:26:25,779
+E entender isso aqui é muito importante
+
+458
+00:26:25,779 --> 00:26:28,960
+para que vocês consigam configurar o ambiente corretamente.
+
+459
+00:26:29,559 --> 00:26:33,859
+Porque, por exemplo, quando você vai trabalhar aqui um aplicativo,
+
+460
+00:26:34,299 --> 00:26:35,799
+você vai precisar de uma stack,
+
+461
+00:26:35,960 --> 00:26:39,079
+de um conjunto de tecnologias diferentes de criar um web app.
+
+462
+00:26:39,079 --> 00:26:41,480
+Vai usar linguagem de programação diferente,
+
+463
+00:26:41,920 --> 00:26:43,259
+ferramentas diferentes,
+
+464
+00:26:43,660 --> 00:26:45,759
+as dependências do ambiente é diferente também.
+
+465
+00:26:46,680 --> 00:26:48,960
+E isso tudo aqui vai adicionando complexidade.
+
+466
+00:26:50,000 --> 00:26:54,680
+Antigamente, era necessário você aprender não só a arquitetura,
+
+467
+00:26:55,000 --> 00:26:58,859
+mas também a linguagem de programação para poder conversar dentro daquele ambiente.
+
+468
+00:26:59,359 --> 00:27:02,400
+É por isso que tinha muita oportunidade para programadores,
+
+469
+00:27:02,819 --> 00:27:07,180
+porque você poderia ser um programador especializado em um ambiente específico.
+
+470
+00:27:07,180 --> 00:27:11,819
+Então, às vezes, eu não sei nada sobre web app, mas eu sou especializado em iOS.
+
+471
+00:27:12,180 --> 00:27:13,319
+Eu trabalho só com iOS.
+
+472
+00:27:13,799 --> 00:27:17,980
+Então, eu dominei aquela linguagem e eu consigo conversar com aquele ambiente
+
+473
+00:27:17,980 --> 00:27:19,680
+e programar ali dentro.
+
+474
+00:27:20,240 --> 00:27:22,299
+Só que a gente está passando por uma mudança de paradigma
+
+475
+00:27:22,299 --> 00:27:26,440
+e programar, estudar programação, tem feito cada vez menos sentido.
+
+476
+00:27:26,799 --> 00:27:29,319
+O que tem feito mais sentido é estudar sobre arquitetura,
+
+477
+00:27:29,440 --> 00:27:31,740
+inteligência artificial, banco de dados, segurança,
+
+478
+00:27:32,279 --> 00:27:35,539
+porque a linguagem em si, a IA vai traduzir para a gente.
+
+479
+00:27:36,119 --> 00:27:38,200
+E aí o nosso papel aqui é orquestrar.
+
+480
+00:27:38,839 --> 00:27:42,140
+Na hora que você entende isso, o que é mais importante?
+
+481
+00:27:42,759 --> 00:27:45,380
+mais do que saber a linguagem de cada ambiente,
+
+482
+00:27:45,819 --> 00:27:47,980
+é saber que esses ambientes existem
+
+483
+00:27:47,980 --> 00:27:50,339
+e que eles têm dependências diferentes.
+
+484
+00:27:51,339 --> 00:27:53,660
+Aí entra mais uma questão aqui importante,
+
+485
+00:27:53,819 --> 00:27:54,299
+que é a seguinte.
+
+486
+00:27:54,839 --> 00:27:57,119
+Imagina que você está trabalhando em vários projetos.
+
+487
+00:27:57,420 --> 00:27:59,839
+Por exemplo, criei um sistema pessoal meu.
+
+488
+00:28:00,359 --> 00:28:03,220
+E aí, o primeiro ambiente que eu escolhi foi o Web App,
+
+489
+00:28:03,220 --> 00:28:05,839
+que é o que geralmente a gente recomenda para vocês,
+
+490
+00:28:06,220 --> 00:28:07,339
+quem trabalha com Vibe Code.
+
+491
+00:28:07,700 --> 00:28:08,039
+Por quê?
+
+492
+00:28:08,240 --> 00:28:11,920
+Trabalhar com Web App é um aplicativo que roda no navegador
+
+493
+00:28:11,920 --> 00:28:17,960
+E aí, trabalhando a responsividade dele, para ele funcionar no mobile, no tablet, no desktop,
+
+494
+00:28:18,380 --> 00:28:20,940
+ele vai funcionar em qualquer tipo de dispositivo.
+
+495
+00:28:21,420 --> 00:28:25,440
+Então, eu consigo acessar ele do meu telefone e consigo acessar ele do meu computador.
+
+496
+00:28:25,839 --> 00:28:30,019
+Então, ele é bem versátil e eu consigo fazer isso usando o mesmo ambiente.
+
+497
+00:28:30,579 --> 00:28:35,140
+Só que aí, vamos supor que em determinado momento, pensa aqui, por exemplo, no Cloud.
+
+498
+00:28:35,880 --> 00:28:37,859
+Imagina que a gente vai criar um Cloud nosso.
+
+499
+00:28:38,680 --> 00:28:41,039
+E aí, beleza, você tem o Cloud Web App.
+
+500
+00:28:41,039 --> 00:28:43,079
+Esse aqui é o Clodio Web App.
+
+501
+00:28:43,359 --> 00:28:45,259
+Está rodando aqui no meu navegador.
+
+502
+00:28:45,619 --> 00:28:47,400
+Só que em determinado momento eu percebo o seguinte,
+
+503
+00:28:47,880 --> 00:28:50,759
+se eu estivesse no ambiente local do usuário,
+
+504
+00:28:50,859 --> 00:28:52,940
+eu conseguiria entregar muito mais valor para ele.
+
+505
+00:28:53,259 --> 00:28:55,759
+Então, eu vou criar um programa
+
+506
+00:28:55,759 --> 00:28:58,319
+e esse programa vai ser um programa desktop,
+
+507
+00:28:58,619 --> 00:29:02,079
+que roda direto, localmente, no computador da pessoa.
+
+508
+00:29:02,660 --> 00:29:05,859
+Isso aqui exige um ambiente,
+
+509
+00:29:06,099 --> 00:29:08,160
+isso aqui é um ambiente completamente diferente
+
+510
+00:29:08,160 --> 00:29:10,660
+e vai exigir tecnologias diferentes também.
+
+511
+00:29:11,039 --> 00:29:17,119
+Então, eu preciso traduzir algo que é web app para se tornar um programa de desktop.
+
+512
+00:29:17,660 --> 00:29:22,940
+Mas mais do que isso, eu penso, se eu tivesse um aplicativo no telefone,
+
+513
+00:29:23,079 --> 00:29:26,140
+as pessoas poderiam usar no dia a dia mais fácil e eu estaria no dia delas.
+
+514
+00:29:26,519 --> 00:29:30,920
+Então, eu vou criar um app aqui do Cloud para as pessoas utilizarem,
+
+515
+00:29:31,380 --> 00:29:32,380
+só que aí entra um detalhe.
+
+516
+00:29:32,799 --> 00:29:36,740
+Eu tenho a versão desse app para iPhone, eu tenho a versão desse app para Android.
+
+517
+00:29:37,140 --> 00:29:39,140
+E aí são dois ambientes diferentes.
+
+518
+00:29:39,140 --> 00:29:40,759
+Aí eu preciso trabalhar isso.
+
+519
+00:29:41,039 --> 00:29:46,779
+A vantagem é que hoje existem tecnologias em que você consegue trabalhar aqui no meio termo
+
+520
+00:29:46,779 --> 00:29:52,579
+e depois derivar isso para as duas, então não é como se você fosse ter o dobro de trabalho,
+
+521
+00:29:52,579 --> 00:29:58,660
+é como se você fosse ter 110, 120% de trabalho ao invés de 100%,
+
+522
+00:29:58,660 --> 00:30:01,480
+vai aumentar 20% do esforço para ter nos dois ambientes.
+
+523
+00:30:02,059 --> 00:30:03,920
+Só que são dois ambientes diferentes.
+
+524
+00:30:04,420 --> 00:30:09,740
+É por isso, inclusive, que o aplicativo no Android é diferente do aplicativo no iOS,
+
+525
+00:30:09,880 --> 00:30:11,859
+tem diferenças ali. Cada ambiente
+
+526
+00:30:11,859 --> 00:30:13,880
+tem suas regras. No iOS tem que
+
+527
+00:30:13,880 --> 00:30:15,720
+utilizar ali os SDKs
+
+528
+00:30:15,720 --> 00:30:17,940
+da Apple,
+
+529
+00:30:18,140 --> 00:30:20,019
+do iPhone. No Android
+
+530
+00:30:20,019 --> 00:30:21,519
+tem que usar os SDKs do Google.
+
+531
+00:30:22,420 --> 00:30:23,980
+E aí tem que seguir as regras do Google
+
+532
+00:30:23,980 --> 00:30:25,140
+para a Play Store.
+
+533
+00:30:25,940 --> 00:30:27,579
+No iOS tem que seguir as regras
+
+534
+00:30:27,579 --> 00:30:28,960
+da Apple Store.
+
+535
+00:30:31,259 --> 00:30:31,700
+E...
+
+536
+00:30:31,700 --> 00:30:32,900
+É Apple Store mesmo?
+
+537
+00:30:34,680 --> 00:30:35,359
+Falei o nome,
+
+538
+00:30:35,460 --> 00:30:37,119
+eu falei, sou estranho, não. App Store.
+
+539
+00:30:37,759 --> 00:30:38,700
+Não é Apple Store.
+
+540
+00:30:39,099 --> 00:30:41,160
+da App Store. Então, vão ter regras lá.
+
+541
+00:30:41,480 --> 00:30:43,119
+Ou seja, são vários ambientes
+
+542
+00:30:43,119 --> 00:30:44,500
+diferentes para trabalhar.
+
+543
+00:30:45,000 --> 00:30:46,619
+E aí, imagina se você tivesse
+
+544
+00:30:46,619 --> 00:30:48,339
+que ter um computador
+
+545
+00:30:48,339 --> 00:30:50,859
+para cada ambiente. Então, eu tenho
+
+546
+00:30:50,859 --> 00:30:52,680
+que ter um computador só para fazer
+
+547
+00:30:52,680 --> 00:30:54,559
+iOS, eu tenho que ter um computador
+
+548
+00:30:54,559 --> 00:30:56,740
+só para fazer... Inclusive, isso ainda
+
+549
+00:30:56,740 --> 00:30:58,500
+é uma prática comum. Então, por exemplo,
+
+550
+00:30:58,599 --> 00:30:59,960
+eu tenho que ter um MacBook
+
+551
+00:30:59,960 --> 00:31:02,480
+para trabalhar iOS, tenho que ter
+
+552
+00:31:02,480 --> 00:31:04,539
+um notebook com
+
+553
+00:31:04,539 --> 00:31:06,440
+Windows, tenho que ter um notebook com
+
+554
+00:31:06,440 --> 00:31:08,299
+Linux, tenho que ter
+
+555
+00:31:08,299 --> 00:31:10,299
+um telefone pequeno,
+
+556
+00:31:10,740 --> 00:31:12,480
+um iPhone, tem que ter também um Android
+
+557
+00:31:12,480 --> 00:31:14,140
+pequeno para testar a responsividade.
+
+558
+00:31:14,579 --> 00:31:16,359
+Imagina, como que você trabalha assim?
+
+559
+00:31:16,460 --> 00:31:18,640
+Você precisa de todos os dispositivos para testar
+
+560
+00:31:18,640 --> 00:31:20,500
+todos esses sistemas. Não
+
+561
+00:31:20,500 --> 00:31:22,359
+funciona. Vai ser muito
+
+562
+00:31:22,359 --> 00:31:24,400
+trabalhoso e caro
+
+563
+00:31:24,400 --> 00:31:25,339
+para fazer isso.
+
+564
+00:31:26,079 --> 00:31:28,259
+Quem pode fazer isso? Muitas empresas
+
+565
+00:31:28,259 --> 00:31:30,500
+fazem, inclusive, existe teste direto
+
+566
+00:31:30,500 --> 00:31:32,259
+no dispositivo, que é uma boa
+
+567
+00:31:32,259 --> 00:31:34,480
+prática, mas não é a realidade da maioria
+
+568
+00:31:34,480 --> 00:31:36,480
+das pessoas que trabalham. Nesse
+
+569
+00:31:36,480 --> 00:31:38,299
+momento, a gente precisa
+
+570
+00:31:38,299 --> 00:31:40,539
+criar o que a gente
+
+571
+00:31:40,539 --> 00:31:41,700
+chama de containers,
+
+572
+00:31:42,279 --> 00:31:44,579
+que é um grande pacote de regras
+
+573
+00:31:44,579 --> 00:31:46,500
+de um ambiente que você leva com você
+
+574
+00:31:46,500 --> 00:31:48,059
+para onde for. Então,
+
+575
+00:31:48,299 --> 00:31:50,759
+imagina a lógica
+
+576
+00:31:50,759 --> 00:31:51,859
+de um container mesmo,
+
+577
+00:31:52,599 --> 00:31:54,420
+e aí esse container carrega
+
+578
+00:31:54,420 --> 00:31:56,299
+regras. Então, tem um container que carrega
+
+579
+00:31:56,299 --> 00:31:58,400
+regras de Android, outro que carrega
+
+580
+00:31:58,400 --> 00:32:00,339
+regras de OS, outro que é só
+
+581
+00:32:00,339 --> 00:32:02,480
+para Web App, outro
+
+582
+00:32:02,480 --> 00:32:04,039
+que é só para Desktop Linux,
+
+583
+00:32:04,359 --> 00:32:06,359
+outro que é para Desktop Windows, outro que é para
+
+584
+00:32:06,359 --> 00:32:08,359
+desktop iOS, então eu tenho vários
+
+585
+00:32:08,359 --> 00:32:09,680
+containers diferentes,
+
+586
+00:32:10,400 --> 00:32:12,519
+com sistemas operacionais diferentes. Mas nem
+
+587
+00:32:12,519 --> 00:32:14,740
+só isso, eu posso ter também containers
+
+588
+00:32:14,740 --> 00:32:16,359
+pensando numa lógica
+
+589
+00:32:16,359 --> 00:32:18,339
+de que em um eu coloco
+
+590
+00:32:18,339 --> 00:32:20,519
+algumas dependências, eu coloco ali um
+
+591
+00:32:20,519 --> 00:32:22,119
+Git, um Node específico,
+
+592
+00:32:22,799 --> 00:32:24,200
+em outro eu já coloco
+
+593
+00:32:24,200 --> 00:32:26,480
+outras dependências, eu quero trabalhar com
+
+594
+00:32:26,480 --> 00:32:28,339
+tecnologias completamente diferentes.
+
+595
+00:32:28,740 --> 00:32:30,299
+E eu posso guardar esses
+
+596
+00:32:30,299 --> 00:32:32,440
+containers aqui comigo em arquivos
+
+597
+00:32:32,440 --> 00:32:34,700
+para que sempre que eu for trabalhar
+
+598
+00:32:34,700 --> 00:32:36,559
+em dispositivos diferentes,
+
+599
+00:32:36,900 --> 00:32:38,839
+eu só preciso rodar esse container
+
+600
+00:32:38,839 --> 00:32:40,759
+e ele já vem todo configurado
+
+601
+00:32:40,759 --> 00:32:42,799
+para eu trabalhar dentro daquele projeto ali.
+
+602
+00:32:43,460 --> 00:32:44,980
+Existem várias ferramentas
+
+603
+00:32:44,980 --> 00:32:47,000
+que fazem isso, mas a mais famosa
+
+604
+00:32:47,000 --> 00:32:48,160
+se chama Docker.
+
+605
+00:32:49,220 --> 00:32:50,579
+E ela é muito importante
+
+606
+00:32:50,579 --> 00:32:52,980
+porque a partir dessa ferramenta
+
+607
+00:32:52,980 --> 00:32:54,680
+aqui, nós conseguimos criar
+
+608
+00:32:54,680 --> 00:32:56,440
+containers diferentes e
+
+609
+00:32:56,440 --> 00:32:58,720
+ela vai rodar esses containers
+
+610
+00:32:58,720 --> 00:33:00,619
+para a gente. Então é como se, por exemplo,
+
+611
+00:33:00,720 --> 00:33:02,420
+eu tenho um computador aqui
+
+612
+00:33:02,420 --> 00:33:04,380
+e ele é um computador Windows.
+
+613
+00:33:04,700 --> 00:33:06,819
+Só que eu preciso fazer teste em OS.
+
+614
+00:33:07,200 --> 00:33:10,240
+Então, eu rodo esse container dentro do meu Windows
+
+615
+00:33:10,240 --> 00:33:14,420
+e eu simulo ali todo o ambiente de OS
+
+616
+00:33:14,420 --> 00:33:17,200
+para eu poder trabalhar ali e ver se está funcionando também.
+
+617
+00:33:17,460 --> 00:33:19,880
+Grosso modo, é isso que acontece.
+
+618
+00:33:20,339 --> 00:33:23,680
+Ou seja, como que a gente resolve esse tanto de ambiente diferente?
+
+619
+00:33:23,940 --> 00:33:25,480
+Trabalhando com Docker.
+
+620
+00:33:26,579 --> 00:33:29,539
+E aí, isso aqui é importante para a gente,
+
+621
+00:33:29,920 --> 00:33:32,680
+porque quando nós vamos trabalhar em uma VPS,
+
+622
+00:33:32,680 --> 00:33:37,400
+nós podemos escolher qual vai ser o ambiente dessa VPS.
+
+623
+00:33:38,359 --> 00:33:43,119
+Muita gente instala o ambiente direto na VPS,
+
+624
+00:33:43,480 --> 00:33:44,960
+só que quando você faz isso,
+
+625
+00:33:45,279 --> 00:33:48,460
+se você precisa migrar de um lugar para outro, é mais chato.
+
+626
+00:33:48,920 --> 00:33:53,660
+Quando você já trabalha com o Docker e já cria esse container,
+
+627
+00:33:54,339 --> 00:33:56,799
+se você precisar sair de uma VPS para outra
+
+628
+00:33:56,799 --> 00:34:00,099
+ou precisar refazer uma configuração inteira de dependências,
+
+629
+00:34:00,099 --> 00:34:02,519
+você tem um arquivo com todas essas regras.
+
+630
+00:34:02,680 --> 00:34:08,159
+Você carrega esse arquivo e ele já traz todo o ambiente que você precisa para trabalhar.
+
+631
+00:34:08,760 --> 00:34:12,019
+Isso aqui tudo é a teoria de como funcionam essas ferramentas.
+
+632
+00:34:12,019 --> 00:34:18,579
+É mais coisa para a gente aprender, mas é muito importante porque isso é sobre a arquitetura dos projetos que nós vamos criar.
+
+633
+00:34:18,980 --> 00:34:23,619
+E entender isso aqui é o que vai abrir agora um novo mundo para vocês.
+
+634
+00:34:23,900 --> 00:34:27,480
+Porque agora você não depende do hardware do seu computador mais.
+
+635
+00:34:27,820 --> 00:34:33,739
+Você pode utilizar hardwares diferentes, assinar, alugar computadores ao redor do mundo diferentes,
+
+636
+00:34:33,840 --> 00:34:40,460
+com diferentes capacidades e com isso trabalhar direto do seu computador usando aqui o terminal,
+
+637
+00:34:41,219 --> 00:34:43,820
+que é o que a gente vai fazer aqui agora, tá bom?

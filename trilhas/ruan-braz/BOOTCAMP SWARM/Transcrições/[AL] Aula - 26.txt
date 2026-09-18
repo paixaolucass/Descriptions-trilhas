@@ -1,0 +1,2147 @@
+1
+00:00:00,000 --> 00:00:02,100
+E para fechar isso aqui com chave de ouro,
+
+2
+00:00:02,879 --> 00:00:03,839
+trazendo a lógica do
+
+3
+00:00:03,839 --> 00:00:05,360
+shorn, o enxame,
+
+4
+00:00:06,160 --> 00:00:07,320
+eu quero trazer aqui
+
+5
+00:00:07,320 --> 00:00:09,919
+uma ferramenta que
+
+6
+00:00:09,919 --> 00:00:12,019
+ela é muito simples. Ela é
+
+7
+00:00:12,019 --> 00:00:13,539
+tão simples que vocês vão rir,
+
+8
+00:00:14,500 --> 00:00:15,839
+porque vocês vão falar, cara, com
+
+9
+00:00:15,839 --> 00:00:16,679
+isso, então,
+
+10
+00:00:17,820 --> 00:00:19,140
+eu nem preciso,
+
+11
+00:00:20,559 --> 00:00:21,219
+dependendo do
+
+12
+00:00:21,219 --> 00:00:23,179
+caso de uma VPS, eu vou trabalhar com
+
+13
+00:00:23,179 --> 00:00:25,179
+o meu time dentro dessa ferramenta,
+
+14
+00:00:26,800 --> 00:00:27,219
+que é
+
+15
+00:00:27,219 --> 00:00:29,079
+o
+
+16
+00:00:29,079 --> 00:00:31,120
+Buzz. Então,
+
+17
+00:00:31,379 --> 00:00:33,340
+vou trazer o Buzz aqui pra vocês, vocês vão gostar.
+
+18
+00:00:33,399 --> 00:00:35,140
+Ele é muito fácil, tá? Eu sei que vocês estão já
+
+19
+00:00:35,140 --> 00:00:37,219
+sobrecarregados de
+
+20
+00:00:37,219 --> 00:00:38,060
+informação hoje,
+
+21
+00:00:39,200 --> 00:00:41,079
+mas vai valer a pena. Ele não
+
+22
+00:00:41,079 --> 00:00:43,000
+precisa de VPS, mas é só pra eu
+
+23
+00:00:43,000 --> 00:00:44,880
+contextualizar, ele não precisa de VPS
+
+24
+00:00:44,880 --> 00:00:47,039
+se tudo que você precisa são de agentes
+
+25
+00:00:47,039 --> 00:00:48,979
+trabalhando por você e pelo seu time
+
+26
+00:00:48,979 --> 00:00:50,960
+e deixar isso conectado
+
+27
+00:00:50,960 --> 00:00:52,880
+pra todo mundo. VPS
+
+28
+00:00:52,880 --> 00:00:55,100
+continua sendo muito útil pra muitos casos.
+
+29
+00:00:55,500 --> 00:00:57,320
+É como se fosse assim, eu ensinei pra vocês
+
+30
+00:00:57,320 --> 00:00:59,000
+o jeito
+
+31
+00:00:59,000 --> 00:01:01,039
+mais raiz possível de vocês
+
+32
+00:01:01,039 --> 00:01:02,719
+configurarem as automações de vocês.
+
+33
+00:01:03,920 --> 00:01:04,400
+Agora
+
+34
+00:01:04,400 --> 00:01:06,640
+a gente vai ter um
+
+35
+00:01:06,640 --> 00:01:09,180
+um deleitezinho, porque é divertido.
+
+36
+00:01:09,459 --> 00:01:10,579
+Vocês vão ver, é muito divertido.
+
+37
+00:01:11,099 --> 00:01:13,040
+A gente vai ter um deleite de enxames de agentes
+
+38
+00:01:13,040 --> 00:01:15,480
+aqui trabalhando com a gente, localmente.
+
+39
+00:01:16,219 --> 00:01:17,060
+Então vamos fazer isso
+
+40
+00:01:17,060 --> 00:01:18,920
+aqui agora, deixa eu puxar aqui
+
+41
+00:01:18,920 --> 00:01:20,659
+para vocês. Nós vamos digitar
+
+42
+00:01:20,659 --> 00:01:22,579
+bus.xyz
+
+43
+00:01:22,579 --> 00:01:24,840
+Vocês vão cair nessa
+
+44
+00:01:24,840 --> 00:01:27,079
+página aqui, aí já dá um respiro
+
+45
+00:01:27,079 --> 00:01:28,799
+vocês falam, ufa, uma tela
+
+46
+00:01:28,799 --> 00:01:30,879
+com design, nada
+
+47
+00:01:30,879 --> 00:01:31,959
+de CLI,
+
+48
+00:01:32,680 --> 00:01:34,819
+uma tela que foi projetada, que coisa
+
+49
+00:01:34,819 --> 00:01:36,500
+boa, né? Então,
+
+50
+00:01:36,760 --> 00:01:39,019
+vocês vão vir aqui em cima em Get the App
+
+51
+00:01:39,019 --> 00:01:40,359
+e vão clicar aqui.
+
+52
+00:01:42,359 --> 00:01:42,939
+Aí vocês vão
+
+53
+00:01:42,939 --> 00:01:44,939
+baixar e vão clicar pra fazer
+
+54
+00:01:44,939 --> 00:01:45,840
+o setup.
+
+55
+00:01:48,019 --> 00:01:48,900
+Vai aparecer
+
+56
+00:01:48,900 --> 00:01:50,519
+essa janelinha aqui pra vocês.
+
+57
+00:01:53,079 --> 00:01:54,400
+Vai aparecer uma janelinha,
+
+58
+00:01:55,000 --> 00:01:56,680
+clico em Next, Next,
+
+59
+00:01:58,159 --> 00:01:59,140
+Instalando pra gente.
+
+60
+00:01:59,140 --> 00:02:05,060
+( SILÊNCIO 6s )
+
+61
+00:02:05,060 --> 00:02:05,540
+Next.
+
+62
+00:02:06,120 --> 00:02:07,060
+E roda pra gente.
+
+63
+00:02:07,180 --> 00:02:10,099
+Aí ele vai rodar o bus pra gente aqui.
+
+64
+00:02:12,800 --> 00:02:14,099
+Então aqui está o bus.
+
+65
+00:02:14,539 --> 00:02:15,719
+Posso fechar ali, inclusive.
+
+66
+00:02:17,060 --> 00:02:17,539
+E vamos lá.
+
+67
+00:02:17,659 --> 00:02:20,060
+Primeira coisa legal pra vocês repararem aqui, tá?
+
+68
+00:02:20,479 --> 00:02:21,960
+Tem um monte de abelhinha, né?
+
+69
+00:02:22,840 --> 00:02:25,120
+E essas abelhinhas é pra lembrar o quê?
+
+70
+00:02:25,860 --> 00:02:26,340
+Enxame.
+
+71
+00:02:26,680 --> 00:02:27,960
+Enxame de agentes, tá?
+
+72
+00:02:28,159 --> 00:02:29,620
+Então, legal, interessante isso aqui.
+
+73
+00:02:30,460 --> 00:02:34,900
+Aí ele vem aqui para você criar a sua nova chave de identidade.
+
+74
+00:02:36,719 --> 00:02:37,479
+Clica aqui.
+
+75
+00:02:39,159 --> 00:02:40,939
+Ele vai gerar uma chave aqui para você.
+
+76
+00:02:41,379 --> 00:02:43,500
+Você pode depois também trocar, se quiser.
+
+77
+00:02:43,699 --> 00:02:44,819
+Ela vai ficar salva, olha aqui.
+
+78
+00:02:44,819 --> 00:02:52,639
+O Buzz mantém sua chave de identidade no seu sistema de cadeia de chaves.
+
+79
+00:02:53,120 --> 00:02:57,240
+Você pode continuar agora ou revisar nas opções de backup.
+
+80
+00:02:57,800 --> 00:02:59,500
+para caminhos de restaurar sua conta.
+
+81
+00:03:00,060 --> 00:03:02,020
+Aí ele gera uma chave aqui, não vou mostrar a minha chave,
+
+82
+00:03:02,219 --> 00:03:03,360
+mas vou dar um next.
+
+83
+00:03:04,719 --> 00:03:06,539
+Aí ele está procurando por provedores,
+
+84
+00:03:07,020 --> 00:03:08,400
+ele vai encontrar aqui o Cloud Code,
+
+85
+00:03:08,500 --> 00:03:12,979
+ele encontrou o Codex, o Cloud, e tem esse Goose.
+
+86
+00:03:12,979 --> 00:03:17,180
+Esse Goose aqui é bom para você que quer instalar LLMs locais.
+
+87
+00:03:17,740 --> 00:03:19,439
+Mas no caso aqui a gente já está com o Cloud Code,
+
+88
+00:03:19,539 --> 00:03:20,879
+então vou instalar ele aqui.
+
+89
+00:03:22,439 --> 00:03:24,439
+Se tiver o Codex, pode instalar também.
+
+90
+00:03:25,439 --> 00:03:27,199
+Eu vou instalar só o Cloud aqui para a gente,
+
+91
+00:03:27,300 --> 00:03:28,259
+já vai ser suficiente.
+
+92
+00:03:30,819 --> 00:03:31,680
+Aí, o que ele está fazendo?
+
+93
+00:03:31,780 --> 00:03:34,240
+Ele está conectando o cloud...
+
+94
+00:03:34,240 --> 00:03:35,199
+Olha, como foi.
+
+95
+00:03:38,199 --> 00:03:39,580
+Ele está conectando o cloud...
+
+96
+00:03:39,580 --> 00:03:39,919
+Aí, foi.
+
+97
+00:03:40,120 --> 00:03:41,699
+Ele está conectando o cloud no bus.
+
+98
+00:03:42,319 --> 00:03:42,680
+Beleza?
+
+99
+00:03:43,099 --> 00:03:44,000
+Vou dar um next agora.
+
+100
+00:03:45,120 --> 00:03:46,900
+Aí, ele está falando aqui qual vai ser o harners
+
+101
+00:03:46,900 --> 00:03:48,020
+que nós vamos usar aqui,
+
+102
+00:03:48,520 --> 00:03:50,419
+o próprio bus ou o cloud code.
+
+103
+00:03:50,500 --> 00:03:51,620
+Vou deixar cloud code mesmo.
+
+104
+00:03:53,300 --> 00:03:54,780
+Aí, ele fala para entrar na comunidade
+
+105
+00:03:54,780 --> 00:03:56,080
+ou criar uma comunidade.
+
+106
+00:03:57,300 --> 00:03:59,060
+ou se você já tem uma comunidade,
+
+107
+00:03:59,139 --> 00:04:01,060
+porque você cria uma comunidade
+
+108
+00:04:01,060 --> 00:04:03,080
+para convidar as pessoas para ela, tá?
+
+109
+00:04:03,159 --> 00:04:04,860
+Então, no caso aqui, eu vou criar uma comunidade.
+
+110
+00:04:06,120 --> 00:04:07,360
+Aí ele vai pedir para eu fazer login.
+
+111
+00:04:09,379 --> 00:04:10,080
+Dela de login.
+
+112
+00:04:10,900 --> 00:04:11,699
+Coloco meus dados.
+
+113
+00:04:11,939 --> 00:04:15,080
+Juan, por favor, eu instalo ele simples
+
+114
+00:04:15,080 --> 00:04:16,439
+ou instalo no VPS?
+
+115
+00:04:18,279 --> 00:04:20,259
+Não, local, no seu computador, tá?
+
+116
+00:04:20,740 --> 00:04:21,459
+Ah, ok.
+
+117
+00:04:22,420 --> 00:04:23,279
+Seu computador.
+
+118
+00:04:24,500 --> 00:04:25,759
+Vou criar uma conta aqui.
+
+119
+00:04:27,300 --> 00:04:30,240
+Criar conta
+
+120
+00:04:30,240 --> 00:04:33,139
+Ixi, sua senha é muito fraca
+
+121
+00:04:33,139 --> 00:04:34,519
+Vou fazer outra senha
+
+122
+00:04:34,519 --> 00:04:39,180
+Peraí que eu nem lembro mais a senha que eu fiz aqui
+
+123
+00:04:39,180 --> 00:04:43,600
+Bota
+
+124
+00:04:43,600 --> 00:04:48,600
+( SILÊNCIO 5s )
+
+125
+00:04:48,600 --> 00:04:49,000
+Legal
+
+126
+00:04:49,000 --> 00:04:50,759
+Aí ele pede para verificar o e-mail
+
+127
+00:04:50,759 --> 00:04:53,740
+Verificar ele aqui
+
+128
+00:04:57,300 --> 00:05:00,720
+Prontinho
+
+129
+00:05:00,720 --> 00:05:02,079
+Quando verificar vai ficar assim
+
+130
+00:05:02,079 --> 00:05:04,519
+Aí eu volto pro app
+
+131
+00:05:04,519 --> 00:05:08,420
+Aí ele entrou pelo
+
+132
+00:05:08,420 --> 00:05:10,319
+Navegador
+
+133
+00:05:10,319 --> 00:05:11,360
+Só que eu quero entrar aqui
+
+134
+00:05:11,360 --> 00:05:13,180
+Colo o código
+
+135
+00:05:13,180 --> 00:05:17,480
+Peraí que eu acho que ele colou
+
+136
+00:05:17,480 --> 00:05:18,759
+Errado
+
+137
+00:05:18,759 --> 00:05:22,519
+313
+
+138
+00:05:22,519 --> 00:05:23,860
+941
+
+139
+00:05:23,860 --> 00:05:28,000
+313
+
+140
+00:05:28,000 --> 00:05:30,160
+941, pronto
+
+141
+00:05:30,160 --> 00:05:37,480
+vamos ver se ele vai sozinho
+
+142
+00:05:37,480 --> 00:05:39,560
+tentar novamente
+
+143
+00:05:39,560 --> 00:05:42,120
+ah, é porque eu tô logado em vários
+
+144
+00:05:42,120 --> 00:05:43,300
+peraí, fecha
+
+145
+00:05:43,300 --> 00:05:44,420
+fecha
+
+146
+00:05:44,420 --> 00:05:50,060
+aí, agora eu faço meu login
+
+147
+00:05:53,860 --> 00:05:57,639
+Ah, dei mole agora
+
+148
+00:05:57,639 --> 00:05:59,040
+Peraí
+
+149
+00:05:59,040 --> 00:06:00,160
+Recente
+
+150
+00:06:00,160 --> 00:06:04,899
+Só pegar minha chavezinha aqui
+
+151
+00:06:04,899 --> 00:06:06,740
+Porque tinham duas chaves e aí
+
+152
+00:06:06,740 --> 00:06:09,459
+Eu achei que era uma, mas era outra
+
+153
+00:06:09,459 --> 00:06:13,379
+Aí, tá vendo? Tem um monte de chave aqui agora
+
+154
+00:06:13,379 --> 00:06:20,060
+( SILÊNCIO 7s )
+
+155
+00:06:20,060 --> 00:06:21,860
+Tem que ver qual que é a verdadeira
+
+156
+00:06:21,860 --> 00:06:22,959
+Aí
+
+157
+00:06:22,959 --> 00:06:27,060
+Aí eu coloco o meu nome aqui
+
+158
+00:06:27,060 --> 00:06:28,959
+Vou criar uma comunidade Juan Brás
+
+159
+00:06:28,959 --> 00:06:30,579
+Avançar
+
+160
+00:06:30,579 --> 00:06:33,139
+Inclusive vocês podem entrar na minha comunidade
+
+161
+00:06:33,139 --> 00:06:33,680
+Se quiserem
+
+162
+00:06:33,680 --> 00:06:36,540
+Vamos fazer um teste? Eu nunca fiz esse teste não
+
+163
+00:06:36,540 --> 00:06:41,500
+Mas antes aqui, esses são os primeiros agentes
+
+164
+00:06:41,500 --> 00:06:43,319
+Olha que bonitinho, legal demais
+
+165
+00:06:43,319 --> 00:06:45,160
+Então tem o Fizz
+
+166
+00:06:45,160 --> 00:06:46,720
+O Honey e o Bumble
+
+167
+00:06:46,720 --> 00:06:49,600
+São os três agentes que começam com a gente aqui
+
+168
+00:06:49,600 --> 00:06:51,060
+Aí eu coloco aqui
+
+169
+00:06:51,060 --> 00:06:51,939
+Take me to bus
+
+170
+00:06:51,939 --> 00:06:56,959
+e vocês vão ver que é uma interface
+
+171
+00:06:56,959 --> 00:06:59,019
+parecida com um Slack
+
+172
+00:06:59,019 --> 00:07:01,000
+então eu estou aqui, eles vão me dar
+
+173
+00:07:01,000 --> 00:07:02,660
+as boas-vindas, quer ver? Vamos ver se eles vão me dar
+
+174
+00:07:02,660 --> 00:07:03,639
+as boas-vindas aqui
+
+175
+00:07:03,639 --> 00:07:07,259
+configurando o seu time de boas-vindas
+
+176
+00:07:07,259 --> 00:07:09,420
+quero ver
+
+177
+00:07:09,420 --> 00:07:12,800
+Juan, dá para ter os dois?
+
+178
+00:07:12,920 --> 00:07:14,399
+Cloud e Codex no Buzz? Dá sim
+
+179
+00:07:14,399 --> 00:07:18,759
+Juan, eu já
+
+180
+00:07:18,759 --> 00:07:20,939
+comecei a criar meus agentes no Paperclip
+
+181
+00:07:20,939 --> 00:07:22,160
+que vale a pena ligar para o Buzz,
+
+182
+00:07:22,620 --> 00:07:24,079
+você vai ver que são diferentes, tá?
+
+183
+00:07:24,220 --> 00:07:26,300
+O jeito que eles funcionam são bem diferentes.
+
+184
+00:07:26,800 --> 00:07:28,860
+Aqui é como se fosse um time,
+
+185
+00:07:28,980 --> 00:07:30,600
+não sei se vocês já usaram Slack, né?
+
+186
+00:07:30,680 --> 00:07:31,680
+Muita gente conhece.
+
+187
+00:07:32,160 --> 00:07:35,779
+O Slack, ele é uma ferramenta de comunicação com o time,
+
+188
+00:07:36,220 --> 00:07:37,519
+que você tem aqui os chats,
+
+189
+00:07:37,600 --> 00:07:39,579
+você pode solicitar tarefas para o time,
+
+190
+00:07:39,579 --> 00:07:41,720
+o time vai executando e vai abrindo threads, né?
+
+191
+00:07:42,199 --> 00:07:43,779
+E aí você vai continuando a conversa.
+
+192
+00:07:44,699 --> 00:07:48,920
+O Buzz, ele é como se fosse um Slack com agentes.
+
+193
+00:07:49,579 --> 00:07:51,779
+Então, olha só, eles já me deram as boas-vindas aqui.
+
+194
+00:07:51,879 --> 00:07:52,879
+Eu posso chamar ele, quer ver?
+
+195
+00:07:53,459 --> 00:07:55,060
+Olá, Fiz.
+
+196
+00:07:57,180 --> 00:07:57,980
+Tudo bem?
+
+197
+00:08:00,560 --> 00:08:03,879
+Chame seus amigos para a conversa.
+
+198
+00:08:04,620 --> 00:08:07,300
+Vamos falar sobre o futuro.
+
+199
+00:08:08,399 --> 00:08:09,160
+Então, eu chamei o Fiz.
+
+200
+00:08:09,240 --> 00:08:09,860
+O Fiz já viu.
+
+201
+00:08:10,560 --> 00:08:11,680
+Já reagiu já, tá vendo?
+
+202
+00:08:12,079 --> 00:08:13,459
+Aí ele vai me responder, quer ver?
+
+203
+00:08:13,459 --> 00:08:17,459
+( SILÊNCIO 4s )
+
+204
+00:08:17,459 --> 00:08:22,680
+Ó, vai me ver a atividade, ele vai me responder aqui embaixo, como se fosse uma pessoa me respondendo.
+
+205
+00:08:22,680 --> 00:08:28,279
+( SILÊNCIO 6s )
+
+206
+00:08:28,279 --> 00:08:35,039
+E a vantagem, tá, que quando você tem os agentes ali, eles ficam na mesma conversa que seres humanos.
+
+207
+00:08:35,600 --> 00:08:40,220
+Então, o que eu peço pra gente fazer, ele vai lá e faz, devolve pra cá, meu time consegue ver também.
+
+208
+00:08:41,200 --> 00:08:44,779
+Entende? Então, essa aqui é a proposta dele, inclusive.
+
+209
+00:08:44,779 --> 00:08:47,220
+Quero ver aqui. Ele fez que ia me responder
+
+210
+00:08:47,220 --> 00:08:48,539
+e não respondeu. Tenho que ver aqui.
+
+211
+00:08:49,960 --> 00:08:51,039
+Por quê? Danado.
+
+212
+00:08:52,340 --> 00:08:53,000
+Inclusive, olha,
+
+213
+00:08:53,159 --> 00:08:54,679
+ele me deu as boas-vindas e pediu
+
+214
+00:08:54,679 --> 00:08:56,940
+para os outros agentes aqui se apresentarem.
+
+215
+00:08:57,419 --> 00:08:58,559
+Apresentem a si próprios
+
+216
+00:08:58,559 --> 00:09:01,080
+em uma sentença ou duas.
+
+217
+00:09:03,879 --> 00:09:04,419
+Deixa eu ver.
+
+218
+00:09:04,759 --> 00:09:07,080
+Você falou que a diferença
+
+219
+00:09:07,080 --> 00:09:08,740
+para o Hermes
+
+220
+00:09:08,740 --> 00:09:11,100
+é que aqui no bus,
+
+221
+00:09:11,879 --> 00:09:12,840
+quando tiver um número
+
+222
+00:09:12,840 --> 00:09:14,220
+maior de...
+
+223
+00:09:14,779 --> 00:09:16,740
+integrantes da equipe seria mais
+
+224
+00:09:16,740 --> 00:09:18,659
+vantajoso. Mas no caso de
+
+225
+00:09:18,659 --> 00:09:20,700
+trabalhar rotinas como assistente
+
+226
+00:09:20,700 --> 00:09:23,019
+pessoal, você recomendaria o Hermes?
+
+227
+00:09:24,659 --> 00:09:25,840
+Sim, o Hermes é muito bom.
+
+228
+00:09:26,259 --> 00:09:28,360
+O Hermes é muito bom, é um assistente bem legal.
+
+229
+00:09:29,139 --> 00:09:30,700
+Mesmo com essas travas que você
+
+230
+00:09:30,700 --> 00:09:31,379
+pontuou?
+
+231
+00:09:32,480 --> 00:09:34,399
+Sim, porque na VPS
+
+232
+00:09:34,399 --> 00:09:36,740
+você tem um ambiente
+
+233
+00:09:36,740 --> 00:09:38,700
+controlado, então você sabe o que você vai
+
+234
+00:09:38,700 --> 00:09:39,659
+pedir ali dentro, entendeu?
+
+235
+00:09:40,340 --> 00:09:42,840
+E aí você controla o tipo de pedido que você faz
+
+236
+00:09:42,840 --> 00:09:46,820
+Se acontecer alguma coisa, você rebuilda a VPS e segue a vida.
+
+237
+00:09:47,659 --> 00:09:47,960
+Entendeu?
+
+238
+00:09:48,399 --> 00:09:51,759
+Aí por isso que às vezes eu falo, localmente, toma cuidado ao usar ele,
+
+239
+00:09:51,840 --> 00:09:56,019
+porque localmente você deve ter um monte de arquivos e pastas e informações suas ali
+
+240
+00:09:56,019 --> 00:10:00,759
+que você não quer que ele tenha acesso.
+
+241
+00:10:01,539 --> 00:10:03,100
+Aí você não coloca ele localmente.
+
+242
+00:10:04,019 --> 00:10:04,299
+Entendeu?
+
+243
+00:10:05,080 --> 00:10:07,519
+Ah, eu vou trabalhar com dados da empresa sensíveis?
+
+244
+00:10:07,799 --> 00:10:11,279
+Cria uma automação, trabalha com scripts, não coloca tudo na IA.
+
+245
+00:10:11,700 --> 00:10:13,980
+Essas são as seguranças que a gente vai tomando.
+
+246
+00:10:13,980 --> 00:10:18,179
+( SILÊNCIO 4s )
+
+247
+00:10:18,179 --> 00:10:18,580
+Boa.
+
+248
+00:10:20,460 --> 00:10:22,039
+Aqui ele respondeu só a primeira.
+
+249
+00:10:25,419 --> 00:10:26,840
+Ele está respondendo em inglês ainda,
+
+250
+00:10:26,899 --> 00:10:27,879
+mesmo falando em português.
+
+251
+00:10:29,039 --> 00:10:31,019
+E isso aqui é uma coisa legal de comentar,
+
+252
+00:10:31,100 --> 00:10:33,460
+que eu tive três experiências já com buzz.
+
+253
+00:10:33,500 --> 00:10:34,399
+Essa aqui é a terceira.
+
+254
+00:10:35,500 --> 00:10:36,940
+Eu tenho ele em outro PC lá
+
+255
+00:10:36,940 --> 00:10:38,240
+que eu estou usando para fazer teste.
+
+256
+00:10:39,120 --> 00:10:40,399
+E lá fluiu muito bem.
+
+257
+00:10:40,759 --> 00:10:42,940
+Então, ele respondia na hora, estava respondendo rápido.
+
+258
+00:10:43,519 --> 00:10:46,620
+Depois eu fui mostrar, acho que fui mostrar na vanguarda.
+
+259
+00:10:47,220 --> 00:10:48,679
+E ele demorou para responder também.
+
+260
+00:10:49,120 --> 00:10:51,320
+E agora eu estou mostrando aqui, ele está demorando para responder.
+
+261
+00:10:51,980 --> 00:10:53,139
+E eu não sei porquê, né?
+
+262
+00:10:53,139 --> 00:10:55,600
+Eu estou perguntando para ele aqui, eles não estão me respondendo.
+
+263
+00:10:55,960 --> 00:10:57,320
+Ele respondeu só a ele mesmo.
+
+264
+00:10:58,200 --> 00:11:00,919
+Mas, pelo menos, a lógica aqui eu consigo mostrar para vocês.
+
+265
+00:11:01,139 --> 00:11:03,720
+Esse que é o interessante aqui.
+
+266
+00:11:03,720 --> 00:11:05,100
+Pode ser também
+
+267
+00:11:05,100 --> 00:11:06,980
+Pelo
+
+268
+00:11:06,980 --> 00:11:12,899
+Pelo provedor que eu estou usando aqui
+
+269
+00:11:12,899 --> 00:11:15,320
+Vamos ver se eu trocar ele para
+
+270
+00:11:15,320 --> 00:11:21,580
+Ele já está com o Hermes aqui também
+
+271
+00:11:21,580 --> 00:11:23,240
+Porque nesse PC tem o Hermes instalado
+
+272
+00:11:23,240 --> 00:11:25,039
+Isso aqui
+
+273
+00:11:25,039 --> 00:11:27,580
+Eu vi na semana passada
+
+274
+00:11:27,580 --> 00:11:28,940
+Acho que foi semana passada
+
+275
+00:11:28,940 --> 00:11:32,700
+Que eu vi o lançamento dele e comecei a experimentar
+
+276
+00:11:33,720 --> 00:11:41,620
+Tá pronto aqui, mas ele não tá claro onde que eu...
+
+277
+00:11:41,620 --> 00:11:47,840
+( SILÊNCIO 6s )
+
+278
+00:11:47,840 --> 00:11:48,899
+Defino isso melhor.
+
+279
+00:11:52,080 --> 00:11:55,259
+Comigo em português, vamos ver se eles vão...
+
+280
+00:11:55,259 --> 00:11:56,460
+Eles estão reagindo, olha.
+
+281
+00:11:56,919 --> 00:11:58,539
+Eles reagem aqui na conversa.
+
+282
+00:11:58,940 --> 00:12:00,240
+Inicia aqui a atividade.
+
+283
+00:12:01,519 --> 00:12:03,899
+a mensagem deles já existe.
+
+284
+00:12:05,480 --> 00:12:06,899
+Aqui, continua bloqueado
+
+285
+00:12:06,899 --> 00:12:08,519
+o modo de permissão atual
+
+286
+00:12:08,519 --> 00:12:10,620
+don't ask, impede
+
+287
+00:12:10,620 --> 00:12:12,200
+qualquer execução do shell.
+
+288
+00:12:15,279 --> 00:12:16,940
+Mas onde que eu vou trocar isso?
+
+289
+00:12:17,100 --> 00:12:18,340
+Será que é porque é na welcome?
+
+290
+00:12:20,899 --> 00:12:22,679
+Por favor, ele disse assim, o comportamento
+
+291
+00:12:22,679 --> 00:12:24,559
+de Slack, responder no thread não
+
+292
+00:12:24,559 --> 00:12:26,840
+aparece no canal, para falar com o Fizz no canal
+
+293
+00:12:26,840 --> 00:12:28,779
+mencionar arroba Fizz
+
+294
+00:12:28,779 --> 00:12:30,500
+direto na caixa de baixo do
+
+295
+00:12:30,500 --> 00:12:31,080
+welcome.
+
+296
+00:12:33,440 --> 00:12:34,399
+É, eu fiz isso.
+
+297
+00:12:37,320 --> 00:12:38,899
+Vamos comigo em português.
+
+298
+00:12:39,000 --> 00:12:40,840
+Talvez é o canal ali. Deixa eu ver aqui.
+
+299
+00:12:42,799 --> 00:12:44,279
+Se eles vão responder aqui.
+
+300
+00:12:46,139 --> 00:12:46,340
+Ó.
+
+301
+00:12:47,980 --> 00:12:49,039
+Os três estão
+
+302
+00:12:49,039 --> 00:12:49,559
+em atividade.
+
+303
+00:12:51,220 --> 00:12:52,899
+Porque não tem aqui, né?
+
+304
+00:12:52,960 --> 00:12:54,940
+Igual o cloud, ele te
+
+305
+00:12:54,940 --> 00:12:56,379
+permite trocar a permissão aqui.
+
+306
+00:12:57,179 --> 00:12:58,539
+Nesse não está intuitivo ainda.
+
+307
+00:12:58,700 --> 00:12:59,840
+Onde que eu troco a permissão?
+
+308
+00:13:00,500 --> 00:13:04,399
+Parece que deu o mesmo erro. Vou ter que dar uma lida aqui.
+
+309
+00:13:06,240 --> 00:13:08,240
+O Claudio falou que a conversa foi para outra sala.
+
+310
+00:13:08,240 --> 00:13:15,600
+( SILÊNCIO 7s )
+
+311
+00:13:15,600 --> 00:13:22,799
+Tentei publicar no canal, mas as duas ferramentas da Shell, Bash e PowerShell, estão bloqueadas no modo permissão atual.
+
+312
+00:13:23,440 --> 00:13:24,879
+Don't ask mode.
+
+313
+00:13:24,980 --> 00:13:29,019
+Ou seja, não consigo postar nada no Buzz agora. Essa mensagem está chegando só por aqui.
+
+314
+00:13:29,480 --> 00:13:32,539
+Se quiser que eu responda direto no canal, eu preciso liberar a permissão, tá?
+
+315
+00:13:35,259 --> 00:13:37,980
+Podia ter como eu conversar com ele aqui, né, pra facilitar.
+
+316
+00:13:37,980 --> 00:13:43,620
+( SILÊNCIO 6s )
+
+317
+00:13:43,620 --> 00:13:46,700
+Como eu libero a permissão pra vocês?
+
+318
+00:13:50,039 --> 00:13:51,820
+Ó, isso aqui é uma outra coisa.
+
+319
+00:13:51,919 --> 00:13:54,860
+Se você não cita eles, né, e é uma coisa importante mesmo.
+
+320
+00:13:54,940 --> 00:13:57,740
+Se você não cita eles, eles não respondem.
+
+321
+00:13:58,080 --> 00:13:59,059
+Mas por que isso é importante?
+
+322
+00:13:59,200 --> 00:14:00,659
+Imagina que você tem 20 agentes.
+
+323
+00:14:01,080 --> 00:14:03,019
+Aí você fala e todos vão te responder, entendeu?
+
+324
+00:14:06,139 --> 00:14:06,740
+Aqui, ó.
+
+325
+00:14:07,860 --> 00:14:09,860
+A partir de agora, eu falo com você sempre em português.
+
+326
+00:14:09,919 --> 00:14:10,799
+Uma observação importante.
+
+327
+00:14:10,919 --> 00:14:12,080
+Tentei publicar, não consegui.
+
+328
+00:14:12,179 --> 00:14:14,779
+Se quiser que eu responda direto ao canal,
+
+329
+00:14:14,940 --> 00:14:16,000
+é preciso liberar a permissão.
+
+330
+00:14:16,080 --> 00:14:16,559
+Isso eu entendi.
+
+331
+00:14:20,259 --> 00:14:22,059
+Não consigo nem ler arquivos.
+
+332
+00:14:24,580 --> 00:14:25,279
+Mais rápido.
+
+333
+00:14:25,279 --> 00:14:26,299
+No Cloud Code.
+
+334
+00:14:27,919 --> 00:14:29,700
+Shift, Tab, Alterna, é.
+
+335
+00:14:31,899 --> 00:14:34,100
+Ah, coloca o Buzz na Hello List.
+
+336
+00:14:34,799 --> 00:14:36,220
+Melhor caminho de longo prazo.
+
+337
+00:14:39,440 --> 00:14:40,379
+É porque na hora...
+
+338
+00:14:40,379 --> 00:14:41,179
+Agora eu lembrei.
+
+339
+00:14:42,039 --> 00:14:42,980
+Por que aconteceu isso?
+
+340
+00:14:43,639 --> 00:14:46,200
+Na hora que eu coloquei ali o Harness,
+
+341
+00:14:46,500 --> 00:14:47,639
+eu coloquei Cloud Code.
+
+342
+00:14:48,500 --> 00:14:51,019
+Se vocês quiserem fazer isso de um jeito mais simples,
+
+343
+00:14:51,139 --> 00:14:52,360
+coloca o Buzz.
+
+344
+00:14:52,639 --> 00:14:54,460
+Aí o Buzz vai usar o Provider do Cloud,
+
+345
+00:14:54,580 --> 00:14:56,919
+mas ele vai usar o Harness do próprio Buzz.
+
+346
+00:14:57,139 --> 00:14:58,399
+Aí não vai ter esse erro.
+
+347
+00:14:58,799 --> 00:15:00,340
+Só que o que eu tô achando ruim,
+
+348
+00:15:01,240 --> 00:15:02,580
+que eu tentei procurar aqui
+
+349
+00:15:02,580 --> 00:15:04,899
+e não achei como trocar esse harness.
+
+350
+00:15:07,720 --> 00:15:09,279
+Shortcut, custom emoji,
+
+351
+00:15:10,019 --> 00:15:10,580
+local,
+
+352
+00:15:11,120 --> 00:15:11,539
+channel.
+
+353
+00:15:12,679 --> 00:15:13,779
+Tinha que ser tipo aqui, ó.
+
+354
+00:15:15,860 --> 00:15:17,100
+Mas isso aqui são só os run times.
+
+355
+00:15:17,159 --> 00:15:17,539
+Aqui, ó.
+
+356
+00:15:18,720 --> 00:15:19,659
+Buzz agents.
+
+357
+00:15:20,720 --> 00:15:21,200
+Provider.
+
+358
+00:15:22,679 --> 00:15:23,120
+Anthropic.
+
+359
+00:15:25,659 --> 00:15:28,419
+Mas assim ele só vai deixar com API, né?
+
+360
+00:15:29,740 --> 00:15:31,600
+Então beleza, não é isso mesmo.
+
+361
+00:15:32,379 --> 00:15:34,419
+Vamos só pedir para o Cloud liberar aqui.
+
+362
+00:15:35,299 --> 00:15:37,759
+Vou colar isso aqui no Code.
+
+363
+00:15:39,659 --> 00:15:41,120
+Numa nova conversa.
+
+364
+00:15:43,539 --> 00:15:49,120
+Libera para os meus agentes falarem aí.
+
+365
+00:15:49,120 --> 00:15:53,539
+( SILÊNCIO 4s )
+
+366
+00:15:53,539 --> 00:15:55,519
+O Buzz não ficaria dentro da VPS?
+
+367
+00:15:55,659 --> 00:15:58,379
+depende, agora, a partir de agora
+
+368
+00:15:58,379 --> 00:15:59,759
+vocês vão ter que começar a
+
+369
+00:15:59,759 --> 00:16:02,279
+fazer essa pergunta pra vocês
+
+370
+00:16:02,279 --> 00:16:04,299
+mesmos, e como que vocês respondem ela
+
+371
+00:16:04,299 --> 00:16:06,240
+o que que vai pro VPS e o que que fica
+
+372
+00:16:06,240 --> 00:16:07,919
+local, VPS
+
+373
+00:16:07,919 --> 00:16:09,240
+eu quero
+
+374
+00:16:09,240 --> 00:16:12,059
+eu quero agentes que ficam trabalhando
+
+375
+00:16:12,059 --> 00:16:13,759
+24 barra 7 ali pra mim
+
+376
+00:16:13,759 --> 00:16:16,419
+fazendo tarefas específicas pra mim
+
+377
+00:16:16,419 --> 00:16:18,179
+uma VPS vai ser mais
+
+378
+00:16:18,179 --> 00:16:20,139
+interessante que local, aí
+
+379
+00:16:20,139 --> 00:16:21,740
+eu quero criar um
+
+380
+00:16:21,740 --> 00:16:24,039
+um bus com uma
+
+381
+00:16:24,039 --> 00:16:26,179
+comunidade minha, que minha equipe também vai usar
+
+382
+00:16:26,179 --> 00:16:28,279
+e que fica sempre disponível pra eu ir ali
+
+383
+00:16:28,279 --> 00:16:30,179
+pedir pros agentes trabalhar e pra minha equipe também.
+
+384
+00:16:30,840 --> 00:16:32,139
+É bom colocar numa VPS.
+
+385
+00:16:32,679 --> 00:16:34,179
+Ah, eu tô fazendo o teste, igual a gente tá
+
+386
+00:16:34,179 --> 00:16:35,919
+fazendo aqui. Eu quero mostrar a ferramenta.
+
+387
+00:16:36,899 --> 00:16:38,220
+Vai ser uma coisa tranquila. Eu não vou
+
+388
+00:16:38,220 --> 00:16:40,179
+criar nenhuma automação. É mais pro dia a dia,
+
+389
+00:16:40,299 --> 00:16:42,240
+rápido. Coloco ele local. Você pode
+
+390
+00:16:42,240 --> 00:16:43,980
+inclusive ter nos dois locais, entendeu?
+
+391
+00:16:44,080 --> 00:16:45,399
+No VPS local. Não tem
+
+392
+00:16:45,399 --> 00:16:47,299
+problema. Nos dois ambientes.
+
+393
+00:16:48,980 --> 00:16:50,419
+Pronto. Diz ele que fez.
+
+394
+00:16:52,580 --> 00:16:53,240
+Tá, vamos ver.
+
+395
+00:16:54,039 --> 00:16:57,620
+Falem comigo, meus amigos.
+
+396
+00:16:58,179 --> 00:17:00,399
+Vocês estão livres?
+
+397
+00:17:01,980 --> 00:17:03,919
+Vou chamar os três aqui já, então.
+
+398
+00:17:03,919 --> 00:17:09,500
+( SILÊNCIO 6s )
+
+399
+00:17:09,500 --> 00:17:10,160
+Vamos ver.
+
+400
+00:17:11,900 --> 00:17:14,279
+Se eles vão falar, se eles forem falar, vai aparecer aqui.
+
+401
+00:17:14,279 --> 00:17:18,380
+( SILÊNCIO 4s )
+
+402
+00:17:18,380 --> 00:17:19,720
+Aí, o que é legal também?
+
+403
+00:17:20,160 --> 00:17:20,920
+Agora eles falaram.
+
+404
+00:17:21,500 --> 00:17:23,000
+Você pode criar mais agentes.
+
+405
+00:17:23,819 --> 00:17:25,440
+Aí, ó. Voltei a conseguir
+
+406
+00:17:25,440 --> 00:17:27,380
+falar por aqui, Juan, na sua mensagem anterior
+
+407
+00:17:27,380 --> 00:17:28,720
+o Shell estava bloqueado.
+
+408
+00:17:29,299 --> 00:17:31,400
+Agora sim, cheguei. Isso também é muito
+
+409
+00:17:31,400 --> 00:17:33,380
+legal, porque cria um senso de comunidade com esses
+
+410
+00:17:33,380 --> 00:17:35,319
+agentes. Português daqui pra frente,
+
+411
+00:17:35,400 --> 00:17:37,400
+combinado. Sobre o que eu faço? Sou pesquisador da
+
+412
+00:17:37,400 --> 00:17:39,460
+Colmeia. Me joga uma pergunta
+
+413
+00:17:39,460 --> 00:17:41,140
+que preciso de investigação de verdade.
+
+414
+00:17:41,720 --> 00:17:43,579
+Aí eu fiz. Agora sim, cheguei. Português
+
+415
+00:17:43,579 --> 00:17:45,359
+travado daqui em diante. Sou o Fiz.
+
+416
+00:17:45,819 --> 00:17:47,200
+Pego uma ideia solta e transformo
+
+417
+00:17:47,200 --> 00:17:48,779
+em coisa entregue.
+
+418
+00:17:49,380 --> 00:17:51,319
+Funcionou, Juan. Estou de volta ao canal e falando
+
+419
+00:17:51,319 --> 00:17:53,319
+português. O bloqueio era o modo de
+
+420
+00:17:53,319 --> 00:17:55,440
+permissão. Me chama quando precisar.
+
+421
+00:17:56,119 --> 00:17:57,339
+Aí agora eu vou falar. Aqui nas
+
+422
+00:17:57,339 --> 00:17:57,880
+boas-vindas
+
+423
+00:17:57,880 --> 00:18:01,160
+eles poderiam se apresentar também. Enfim,
+
+424
+00:18:01,220 --> 00:18:02,539
+aí eu posso criar canais aqui.
+
+425
+00:18:03,599 --> 00:18:04,299
+É um novo canal.
+
+426
+00:18:05,220 --> 00:18:06,579
+Hashtag Off Topic.
+
+427
+00:18:07,819 --> 00:18:08,640
+Criar o canal.
+
+428
+00:18:08,640 --> 00:18:10,640
+E vou chamar eles aqui.
+
+429
+00:18:13,460 --> 00:18:14,539
+Galera,
+
+430
+00:18:17,319 --> 00:18:18,740
+esse, este
+
+431
+00:18:18,740 --> 00:18:20,660
+será nosso canal
+
+432
+00:18:20,660 --> 00:18:21,880
+Off Topic.
+
+433
+00:18:22,539 --> 00:18:27,880
+O que vocês têm de recomendação para essa semana?
+
+434
+00:18:29,200 --> 00:18:34,359
+Vou ver Netflix com a minha esposa hoje à noite.
+
+435
+00:18:34,359 --> 00:18:37,839
+Eu estou fazendo isso aqui de propósito só para vocês começarem a visualizar
+
+436
+00:18:37,839 --> 00:18:39,980
+que a sensação de usar é diferente.
+
+437
+00:18:40,819 --> 00:18:43,880
+Você tem uma sensação muito maior de que tem uma comunidade aqui,
+
+438
+00:18:44,740 --> 00:18:50,299
+de que é quase como se fossem seres ali que têm personalidade própria
+
+439
+00:18:50,299 --> 00:18:51,319
+e vão conversar também.
+
+440
+00:18:51,839 --> 00:18:56,480
+Continua sendo Cloud Code, só que é um Cloud Code com um System Prompt diferente.
+
+441
+00:18:57,259 --> 00:19:01,420
+E aí ele consegue assumir esses papéis e trazer para a conversa.
+
+442
+00:19:04,099 --> 00:19:05,779
+Então, vem, o Fizz já começou.
+
+443
+00:19:05,960 --> 00:19:07,900
+Boa, canal off-topic aprovado.
+
+444
+00:19:08,039 --> 00:19:09,859
+Recomendação da sessão casal para hoje.
+
+445
+00:19:10,579 --> 00:19:11,680
+Escolhe pelo humor de vocês.
+
+446
+00:19:11,799 --> 00:19:14,000
+Se quiserem rir sem pensar...
+
+447
+00:19:14,000 --> 00:19:15,339
+Aí ele trouxe aqui para mim.
+
+448
+00:19:15,480 --> 00:19:17,200
+Os outros estão pensando ainda.
+
+449
+00:19:18,700 --> 00:19:20,039
+Opa, estão pensando ainda.
+
+450
+00:19:20,880 --> 00:19:27,240
+Aí vamos supor, por exemplo, que a gente quer uma resposta mais rápida, não quero nada demorado.
+
+451
+00:19:28,259 --> 00:19:31,059
+Eu posso abrir os três e pedir eles para conversarem entre si.
+
+452
+00:19:31,059 --> 00:19:36,779
+Vamos conversar aqui sobre o futuro do mercado.
+
+453
+00:19:37,559 --> 00:19:42,200
+Eu quero iniciar uma conversa fluida, sem textão.
+
+454
+00:19:43,380 --> 00:19:49,759
+Um manda, o outro responde e vamos ver onde isso vai dar.
+
+455
+00:19:50,880 --> 00:19:54,500
+Aí aqui vai ser diferente, os três já viram, aí eles vão começar a responder.
+
+456
+00:19:56,539 --> 00:19:57,380
+Estão em atividade.
+
+457
+00:19:58,420 --> 00:19:59,819
+Aí gera um outro tipo de conversa.
+
+458
+00:19:59,940 --> 00:20:01,039
+E aí o que pode acontecer também?
+
+459
+00:20:01,160 --> 00:20:04,140
+Eu tenho meu time, meu time também vai ver essas conversas aqui
+
+460
+00:20:04,140 --> 00:20:07,019
+e vai poder vir aqui e entrar na conversa também.
+
+461
+00:20:07,460 --> 00:20:08,559
+Então bora, minha primeira aposta.
+
+462
+00:20:08,660 --> 00:20:11,700
+O gargalo do mercado deixou de ser construível ou decidir o que construir.
+
+463
+00:20:11,819 --> 00:20:14,480
+Quando qualquer um faz um produto num fim de semana,
+
+464
+00:20:14,599 --> 00:20:17,980
+o diferencial migra para a distribuição e para ter opinião forte sobre o problema.
+
+465
+00:20:18,720 --> 00:20:21,359
+Ou seja, engenheiro que só executa vira commodity.
+
+466
+00:20:21,500 --> 00:20:23,119
+Quem entende o cliente vira caro.
+
+467
+00:20:23,420 --> 00:20:24,940
+Concordo ou acha que é hype, Bumble?
+
+468
+00:20:25,380 --> 00:20:27,079
+Aí o Bumble vai tentar trazer.
+
+469
+00:20:27,220 --> 00:20:29,539
+O Bumble tentou pesquisar na internet e não conseguiu.
+
+470
+00:20:30,440 --> 00:20:31,579
+Por que isso está acontecendo?
+
+471
+00:20:31,720 --> 00:20:34,299
+Porque eu tenho que liberar as permissões do Cloud, tá?
+
+472
+00:20:34,359 --> 00:20:37,599
+É o Cloud que está barrando aqui, eles de responderem.
+
+473
+00:20:38,059 --> 00:20:42,000
+Mas aí é só liberar no Cloud ali, o Cloud deixa tudo destravado,
+
+474
+00:20:42,480 --> 00:20:45,539
+e aí começa a ter essa experiência aqui, de um conversando com o outro.
+
+475
+00:20:45,539 --> 00:20:48,960
+Se você vem aqui em agentes, tem os três básicos
+
+476
+00:20:48,960 --> 00:20:51,539
+e você pode criar novos agentes aqui
+
+477
+00:20:51,539 --> 00:20:55,460
+ou descobrir novos agentes também da comunidade.
+
+478
+00:20:55,579 --> 00:20:56,960
+Só que aqui no caso não tem nenhum.
+
+479
+00:20:57,579 --> 00:20:58,140
+Deixa eu só ver.
+
+480
+00:21:00,460 --> 00:21:02,900
+É, isso aqui é quando a gente começar a compartilhar.
+
+481
+00:21:04,660 --> 00:21:06,420
+Aí aqui você pode colocar a instrução,
+
+482
+00:21:06,599 --> 00:21:09,059
+qual o harness que ele vai utilizar, se vai usar um harness diferente.
+
+483
+00:21:09,180 --> 00:21:11,799
+Por exemplo, eu quero um agente no Hermes, está vendo?
+
+484
+00:21:12,259 --> 00:21:14,680
+Um agente no Hermes, um agente no Cloud,
+
+485
+00:21:14,680 --> 00:21:18,119
+um agente no Codex, um agente do Paperclip,
+
+486
+00:21:18,599 --> 00:21:19,920
+um agente do...
+
+487
+00:21:19,920 --> 00:21:22,500
+De cada canto, vocês podem colocar um agente diferente
+
+488
+00:21:22,500 --> 00:21:25,000
+e conectar todos eles aqui no bus.
+
+489
+00:21:25,599 --> 00:21:29,160
+Aí é uma central para trabalhar com vários agentes diferentes.
+
+490
+00:21:29,460 --> 00:21:31,539
+Essa é a diferença deles aqui.
+
+491
+00:21:32,599 --> 00:21:32,900
+Tá bom?
+
+492
+00:21:33,420 --> 00:21:34,579
+Só para trazer para vocês.
+
+493
+00:21:35,400 --> 00:21:36,680
+Quando tentei instalar o bus...
+
+494
+00:21:37,480 --> 00:21:40,859
+Ainda mostra na tela vermelha, né?
+
+495
+00:21:40,960 --> 00:21:43,059
+Meu Deus, vai explodir meu computador.
+
+496
+00:21:43,619 --> 00:21:46,480
+Isso aqui acontece, vai acontecer com a maioria dos agentes,
+
+497
+00:21:46,619 --> 00:21:49,440
+porque isso dá permissões para a gente mexer no computador.
+
+498
+00:21:49,900 --> 00:21:53,680
+Se você clicar ali em mais informações, vai aparecer o outro botão para você instalar.
+
+499
+00:21:54,599 --> 00:21:56,980
+Aí entra toda essa questão de segurança que eu falo com vocês.
+
+500
+00:21:57,759 --> 00:22:03,240
+Geralmente a gente trabalha com VPS para evitar isso de acontecer.
+
+501
+00:22:04,279 --> 00:22:07,259
+E aí para trabalhar com VPS, eu já mostrei para vocês o processo,
+
+502
+00:22:07,400 --> 00:22:10,079
+como que funciona aqui, pode pedir o Cloud e ele instala para vocês.
+
+503
+00:22:11,539 --> 00:22:12,220
+Certo, galera?
+
+504
+00:22:12,220 --> 00:22:14,200
+O Juan, eu consegui
+
+505
+00:22:14,200 --> 00:22:16,000
+instalar o Buzz, mas na hora de criar a
+
+506
+00:22:16,000 --> 00:22:17,759
+comunidade, ele deu erro. Aí o Claude
+
+507
+00:22:17,759 --> 00:22:19,539
+disse que é um problema
+
+508
+00:22:19,539 --> 00:22:21,859
+do próprio sistema dele.
+
+509
+00:22:22,380 --> 00:22:23,900
+Pediu para recarregar a página e deu
+
+510
+00:22:23,900 --> 00:22:24,779
+o mesmo problema.
+
+511
+00:22:25,799 --> 00:22:27,900
+Tem que ver qual o problema que é.
+
+512
+00:22:27,900 --> 00:22:28,440
+Isso é comum?
+
+513
+00:22:29,599 --> 00:22:30,920
+Não, primeira vez.
+
+514
+00:22:31,680 --> 00:22:32,099
+Ah, ok.
+
+515
+00:22:33,980 --> 00:22:35,720
+Eu falo assim, é porque o Buzz,
+
+516
+00:22:36,000 --> 00:22:37,019
+reforçando aqui,
+
+517
+00:22:38,059 --> 00:22:39,859
+eu comecei a testar ele semana
+
+518
+00:22:39,859 --> 00:22:41,859
+passada. Ele é novo, é um
+
+519
+00:22:41,859 --> 00:22:43,960
+programa novo, é uma proposta nova que chegou
+
+520
+00:22:43,960 --> 00:22:45,759
+no mercado. Então,
+
+521
+00:22:46,119 --> 00:22:47,900
+eu nem gravei vídeo sobre isso, ainda
+
+522
+00:22:47,900 --> 00:22:49,599
+não dei aulas sobre isso também,
+
+523
+00:22:49,880 --> 00:22:51,680
+eu estou fazendo meus próprios testes aqui,
+
+524
+00:22:52,180 --> 00:22:54,059
+aí o que eu estou mostrando para vocês é uma proposta
+
+525
+00:22:54,059 --> 00:22:56,019
+mesmo, falar, olha, galera, tem essa ferramenta,
+
+526
+00:22:56,079 --> 00:22:58,000
+ela é legal, quis trazer aqui
+
+527
+00:22:58,000 --> 00:22:59,940
+para vocês conhecerem, talvez ela
+
+528
+00:22:59,940 --> 00:23:01,720
+se torne algo grande no mercado
+
+529
+00:23:01,720 --> 00:23:03,599
+e relevante, talvez não,
+
+530
+00:23:04,099 --> 00:23:06,160
+aí o seu tempo vai dizer, e por isso
+
+531
+00:23:06,160 --> 00:23:08,220
+eu ainda não tenho um acervo
+
+532
+00:23:08,220 --> 00:23:10,039
+de problemas possíveis que pode dar.
+
+533
+00:23:10,660 --> 00:23:12,339
+Aí tem que ver cada caso mesmo, tá?
+
+534
+00:23:12,480 --> 00:23:14,579
+Mas por isso que eu tô falando, comigo não aconteceu
+
+535
+00:23:14,579 --> 00:23:16,519
+isso, comigo fluiu. Você viu aqui, inclusive
+
+536
+00:23:16,519 --> 00:23:18,359
+eu instalando, funcionou normalmente, né?
+
+537
+00:23:18,839 --> 00:23:20,119
+Aí tem que ver o que pode ser.

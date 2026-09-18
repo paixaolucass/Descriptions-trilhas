@@ -1,0 +1,2755 @@
+1
+00:00:00,000 --> 00:00:23,820
+Pensem o seguinte, isso já vai tirar muitas dúvidas de vocês, a VPS é um computador, então o que você consegue fazer no seu computador local, você consegue fazer em uma VPS, ela é um computador, você consegue instalar as coisas ali dentro e utilizar, você só vai precisar muitas vezes de uma interface, por exemplo, eu quero instalar um Age of Empires na minha VPS para poder jogar, tem como? Tem como,
+
+2
+00:00:23,820 --> 00:00:29,739
+Só que você vai precisar de uma interface para visualizar essa tela do jogo rodando ali para você rodar.
+
+3
+00:00:29,899 --> 00:00:33,719
+Não é o melhor uso de uma VPS para jogar jogos.
+
+4
+00:00:34,560 --> 00:00:41,259
+Mas para aplicações, vocês vão ver que basicamente é um computador que você instala programas nele,
+
+5
+00:00:41,799 --> 00:00:43,700
+roda automações nele e ele trabalha para você.
+
+6
+00:00:44,259 --> 00:00:44,820
+Simples assim.
+
+7
+00:00:45,320 --> 00:00:46,280
+Qual que é a diferença?
+
+8
+00:00:46,759 --> 00:00:52,700
+Essa VPS, esse sistema operacional que tem dentro da VPS, ele funciona via CLI,
+
+9
+00:00:52,700 --> 00:00:54,679
+que é Command Line Interface
+
+10
+00:00:54,679 --> 00:00:56,079
+uma interface de linha de comando
+
+11
+00:00:56,079 --> 00:00:58,799
+e essa interface de linha de comando que a gente
+
+12
+00:00:58,799 --> 00:01:00,579
+vai usar vai ser via SSH
+
+13
+00:01:00,579 --> 00:01:02,780
+aí é exatamente isso que a gente vai fazer agora
+
+14
+00:01:02,780 --> 00:01:04,840
+e na prática vai ficar mais fácil
+
+15
+00:01:04,840 --> 00:01:05,719
+pra vocês, tá bom?
+
+16
+00:01:06,379 --> 00:01:08,180
+lembrem-se que é um túnel
+
+17
+00:01:08,180 --> 00:01:10,260
+SSH é um túnel
+
+18
+00:01:10,260 --> 00:01:12,719
+Security Shell
+
+19
+00:01:12,719 --> 00:01:18,819
+beleza, isso aqui é um túnel
+
+20
+00:01:18,819 --> 00:01:20,500
+e esse túnel aqui
+
+21
+00:01:20,500 --> 00:01:22,680
+é o que permite o seu computador aí
+
+22
+00:01:22,680 --> 00:01:23,840
+que você está logado agora,
+
+23
+00:01:23,980 --> 00:01:26,359
+meu PCzinho aqui, meu PC tem tela,
+
+24
+00:01:26,819 --> 00:01:28,500
+meu PC tem tecladinho,
+
+25
+00:01:28,859 --> 00:01:30,599
+meu PC tem mouse, beleza.
+
+26
+00:01:30,900 --> 00:01:31,900
+Meu PC tem tudo isso.
+
+27
+00:01:32,359 --> 00:01:34,219
+Agora, e o VPS? O VPS, não.
+
+28
+00:01:34,719 --> 00:01:36,500
+O VPS, ele está
+
+29
+00:01:36,500 --> 00:01:38,680
+num, provavelmente ele está numa torre
+
+30
+00:01:38,680 --> 00:01:39,840
+de
+
+31
+00:01:39,840 --> 00:01:42,260
+servidor
+
+32
+00:01:42,260 --> 00:01:44,700
+com um monte de outros PCs junto dele
+
+33
+00:01:44,700 --> 00:01:45,579
+ali naquela torre.
+
+34
+00:01:46,340 --> 00:01:48,159
+Aí, em um desses PCs aqui
+
+35
+00:01:48,159 --> 00:01:50,959
+está o seu servidor privado
+
+36
+00:01:50,959 --> 00:01:52,959
+virtual. E aí, como que você
+
+37
+00:01:52,959 --> 00:01:54,879
+conversa por ele? Você
+
+38
+00:01:54,879 --> 00:01:56,719
+conversa a partir de linha
+
+39
+00:01:56,719 --> 00:01:58,739
+de comando. Então, você tem aqui
+
+40
+00:01:58,739 --> 00:02:00,379
+um terminal.
+
+41
+00:02:00,939 --> 00:02:02,700
+E como que você faz para conversar com ele?
+
+42
+00:02:02,780 --> 00:02:04,620
+Você pode usar tanto um console,
+
+43
+00:02:05,280 --> 00:02:06,799
+e aí o console é direto
+
+44
+00:02:06,799 --> 00:02:07,280
+no
+
+45
+00:02:07,280 --> 00:02:10,860
+navegador, tá? Então, vamos dar uma olhada aqui, ó.
+
+46
+00:02:14,219 --> 00:02:15,039
+Isso aqui eu posso
+
+47
+00:02:15,039 --> 00:02:15,479
+fechar.
+
+48
+00:02:17,240 --> 00:02:18,520
+Esse aqui também eu vou fechar.
+
+49
+00:02:19,360 --> 00:02:20,219
+Vai facilitar.
+
+50
+00:02:20,460 --> 00:02:20,659
+Opa.
+
+51
+00:02:21,439 --> 00:02:21,960
+Nossa vida.
+
+52
+00:02:22,379 --> 00:02:22,960
+Então, olha só.
+
+53
+00:02:23,099 --> 00:02:25,300
+Quando eu entro aqui, vou escolher qualquer um desses, né?
+
+54
+00:02:25,400 --> 00:02:26,360
+Então, vou entrar nesse aqui.
+
+55
+00:02:26,960 --> 00:02:30,240
+Quando eu entro nele, vocês vão ver que...
+
+56
+00:02:30,240 --> 00:02:31,139
+Deixa ele carregar.
+
+57
+00:02:31,340 --> 00:02:31,419
+Aí.
+
+58
+00:02:31,599 --> 00:02:32,719
+Vocês vão ver que tem esse botão aqui, ó.
+
+59
+00:02:32,860 --> 00:02:33,780
+Abrir o console.
+
+60
+00:02:33,900 --> 00:02:36,900
+Quando eu clico aqui, ele vai abrir um terminal para mim.
+
+61
+00:02:37,180 --> 00:02:41,120
+Só que é um terminal dentro do meu navegador.
+
+62
+00:02:41,580 --> 00:02:44,000
+E aí, nesse terminal aqui, eu vou fazer o login na VPS.
+
+63
+00:02:44,479 --> 00:02:46,479
+Só que isso aqui é para quebrar um galho.
+
+64
+00:02:46,479 --> 00:02:51,879
+Isso aqui não é o melhor lugar de usar, é chato, é ruim, trava, é lento, eu não gosto, tá?
+
+65
+00:02:51,960 --> 00:02:56,960
+É só, tipo, precisei, tô longe de casa, tô longe do meu PC, eu preciso de uma coisa rápida ali,
+
+66
+00:02:57,259 --> 00:03:00,039
+entra no console e aí você faz o login aqui e utiliza.
+
+67
+00:03:00,400 --> 00:03:01,719
+Como que faz esse login?
+
+68
+00:03:02,120 --> 00:03:05,639
+Você faz esse login, eu vou mostrar pra vocês ali, só que a gente não vai fazer aqui no console,
+
+69
+00:03:05,780 --> 00:03:08,039
+a gente vai fazer no terminal, mas a lógica é a mesma, tá?
+
+70
+00:03:08,580 --> 00:03:09,800
+Então, como que a gente vai fazer?
+
+71
+00:03:10,300 --> 00:03:14,439
+Aqui tem tudo que a gente precisa pra poder acessar o nosso SSH.
+
+72
+00:03:15,060 --> 00:03:17,919
+Essa senha aqui vai chegar por e-mail para vocês.
+
+73
+00:03:18,259 --> 00:03:23,419
+Caso vocês não identificarem o e-mail, vocês vão clicar em alterar senha e vão escrever a senha nova.
+
+74
+00:03:23,599 --> 00:03:27,740
+Inclusive, já pode fazer isso aí que a gente vai precisar dela agora, tá bom?
+
+75
+00:03:28,479 --> 00:03:31,780
+Então, já pode gerar uma senha nova aí.
+
+76
+00:03:31,840 --> 00:03:36,240
+Vou gerar uma aqui também para fazer o caminho junto com vocês.
+
+77
+00:03:36,419 --> 00:03:39,240
+Então, coloca a senha nova aqui e salvar a senha.
+
+78
+00:03:40,280 --> 00:03:41,599
+Prontinho, salvou a minha senha.
+
+79
+00:03:41,599 --> 00:03:44,020
+Guarda aí na cabeça qual senha que é a sua.
+
+80
+00:03:44,759 --> 00:03:45,860
+E agora vamos seguir aqui.
+
+81
+00:03:46,599 --> 00:03:48,719
+Como que a gente vai fazer essa conexão?
+
+82
+00:03:49,120 --> 00:03:50,379
+A gente vai abrir o nosso terminal.
+
+83
+00:03:50,620 --> 00:03:55,280
+Então, se você estiver no Windows, você vai dar Windows R aí para poder executar como administrador
+
+84
+00:03:55,280 --> 00:03:58,159
+e vai digitar ou PowerShell ou CMD.
+
+85
+00:03:58,599 --> 00:04:01,060
+Eu vou de PowerShell aqui, então me acompanha aí.
+
+86
+00:04:01,740 --> 00:04:07,060
+Quem estiver no Mac vai e vai digitar lá, terminal.
+
+87
+00:04:07,060 --> 00:04:11,479
+Você vai abrir o terminal e nós vamos estar mais ou menos nessa mesma página aqui.
+
+88
+00:04:12,319 --> 00:04:16,759
+Quando vocês entrarem aqui, aí vocês vão rodar o seguinte comando.
+
+89
+00:04:17,980 --> 00:04:19,699
+S, S, H.
+
+90
+00:04:21,160 --> 00:04:24,160
+Aí vocês vão colocar o nome de usuário, que está aqui, root.
+
+91
+00:04:26,160 --> 00:04:26,759
+Arroba.
+
+92
+00:04:27,779 --> 00:04:31,540
+Vão copiar o IP, colar o IP aqui.
+
+93
+00:04:31,540 --> 00:04:37,660
+E a porta, se não for porta 22, que é o padrão, eu vou refazer, tá?
+
+94
+00:04:37,759 --> 00:04:40,000
+Só assiste aqui primeiro e eu vou refazer.
+
+95
+00:04:40,120 --> 00:04:41,540
+Senão vocês não vão conseguir acompanhar.
+
+96
+00:04:41,680 --> 00:04:43,980
+Só me assiste fazendo, depois eu passo de novo.
+
+97
+00:04:44,699 --> 00:04:49,100
+Se a sua porta aqui for 22, só isso aqui vai funcionar.
+
+98
+00:04:49,680 --> 00:04:52,699
+Se a sua porta for personalizada, igual essa, que é 22022,
+
+99
+00:04:52,699 --> 00:05:00,120
+você precisa vir aqui, dar um espaço, traço, P, espaço, 22022,
+
+100
+00:05:00,379 --> 00:05:01,279
+que é a porta que está aqui.
+
+101
+00:05:02,459 --> 00:05:04,860
+Quando eu fizer isso, deixa eu fazer, só assiste aqui,
+
+102
+00:05:05,199 --> 00:05:07,779
+depois eu vou parar e faço de novo com calma, só assiste.
+
+103
+00:05:08,000 --> 00:05:08,540
+Vou dar Enter.
+
+104
+00:05:09,279 --> 00:05:16,160
+Agora que eu dei enter, ele está falando aqui que identificou, ele está falando...
+
+105
+00:05:16,160 --> 00:05:17,540
+Beleza, vou dar um yes aqui.
+
+106
+00:05:19,680 --> 00:05:20,240
+Yes.
+
+107
+00:05:21,459 --> 00:05:21,759
+Ok.
+
+108
+00:05:22,439 --> 00:05:28,439
+Agora ele adicionou esse IP e essa porta aqui no meu local e ele pediu a senha.
+
+109
+00:05:28,839 --> 00:05:35,819
+Nessa parte aqui, muita gente confunde, porque todo mundo espera que vai sair um asterisco aqui quando a gente digita, mas não sai.
+
+110
+00:05:36,360 --> 00:05:38,459
+Então, olha só, eu vou colocar minha senha aqui.
+
+111
+00:05:38,779 --> 00:05:41,639
+Estou digitando e não está acontecendo nada.
+
+112
+00:05:42,040 --> 00:05:43,480
+É normal, é assim mesmo.
+
+113
+00:05:43,899 --> 00:05:45,199
+Depois que eu digitei, eu vou dar Enter.
+
+114
+00:05:45,319 --> 00:05:45,639
+Olha só.
+
+115
+00:05:46,540 --> 00:05:46,920
+Pronto.
+
+116
+00:05:47,579 --> 00:05:47,939
+Beleza?
+
+117
+00:05:48,480 --> 00:05:53,040
+Então, agora eu estou dentro do VPS.
+
+118
+00:05:53,300 --> 00:05:55,100
+Agora eu posso trabalhar dentro da VPS aqui.
+
+119
+00:05:56,199 --> 00:05:57,379
+Nossa, Roma, mas que estranho,
+
+120
+00:05:57,459 --> 00:06:01,199
+porque é um monte de texto que sem graça.
+
+121
+00:06:01,519 --> 00:06:03,579
+Entrei e agora eu estou conectado
+
+122
+00:06:03,579 --> 00:06:05,639
+num servidor de outro lugar e é isso?
+
+123
+00:06:06,100 --> 00:06:06,300
+É.
+
+124
+00:06:06,300 --> 00:06:09,300
+Mas calma, que isso vai começar a ficar interessante.
+
+125
+00:06:09,740 --> 00:06:13,079
+Só que vocês vão precisar abstrair isso aqui junto comigo.
+
+126
+00:06:13,439 --> 00:06:16,500
+Por isso que eu vou fazer de novo, eu vou fazer com calma, tá tudo certo.
+
+127
+00:06:16,660 --> 00:06:17,540
+Mas vamos dar uma olhada?
+
+128
+00:06:17,699 --> 00:06:21,139
+Olha só, ele me trouxe a documentação do Ubuntu, tá certo?
+
+129
+00:06:21,199 --> 00:06:22,160
+A gente escolheu o Ubuntu.
+
+130
+00:06:22,540 --> 00:06:27,199
+Ele trouxe aqui também o link de gerenciamento e o link de suporte do Ubuntu.
+
+131
+00:06:27,600 --> 00:06:29,100
+Não é da VPS, beleza?
+
+132
+00:06:29,560 --> 00:06:31,660
+Aqui ele tem informações do nosso sistema.
+
+133
+00:06:32,079 --> 00:06:34,680
+Então ele tá falando aqui que usou 11% da memória.
+
+134
+00:06:34,920 --> 00:06:38,839
+Ele também está falando aqui qual é o nosso IP e o processo.
+
+135
+00:06:39,899 --> 00:06:40,800
+Tudo certo até aqui.
+
+136
+00:06:41,319 --> 00:06:45,100
+Agora, olha só, aqui que eu vou digitar e a gente vai começar a configurar.
+
+137
+00:06:45,240 --> 00:06:48,519
+A gente vai fazer a instalação do ambiente, vai instalar o Cloud Code.
+
+138
+00:06:48,899 --> 00:06:52,100
+Depois que a gente instalar o Cloud Code, a gente vai poder rodar o Cloud Code
+
+139
+00:06:52,100 --> 00:06:53,740
+direto dentro desse ambiente aqui.
+
+140
+00:06:54,160 --> 00:06:55,300
+Vai dar tudo certo, tá bom?
+
+141
+00:06:55,879 --> 00:06:59,560
+O que a gente precisa aqui agora é refazer o processo
+
+142
+00:06:59,560 --> 00:07:01,819
+e eu vou lembrar vocês que vocês têm um guia.
+
+143
+00:07:02,339 --> 00:07:03,279
+Então, o que eu vou fazer agora?
+
+144
+00:07:03,279 --> 00:07:09,540
+Vou digitar exit, prontinho, desconectou para mim e eu fecho, beleza?
+
+145
+00:07:11,439 --> 00:07:16,300
+Então, agora que vocês assistiram, eu vou lembrar vocês do quê?
+
+146
+00:07:16,680 --> 00:07:20,839
+Eu acabei de mandar para vocês o link do passo a passo.
+
+147
+00:07:21,600 --> 00:07:24,920
+Estão comigo? Manda um ok aí. Ok, estou vendo essa página aqui.
+
+148
+00:07:25,220 --> 00:07:28,620
+Vocês estão comigo? Ok, ok, ok, tá bom.
+
+149
+00:07:29,379 --> 00:07:32,899
+Aqui vocês vão vir e começar pela fase zero.
+
+150
+00:07:33,279 --> 00:07:34,720
+Entra na fase zero
+
+151
+00:07:34,720 --> 00:07:37,480
+E aí vem toda a explicação que eu fiz
+
+152
+00:07:37,480 --> 00:07:39,120
+Inclusive, o que é um VPS?
+
+153
+00:07:39,620 --> 00:07:40,879
+Três coisas que você vai precisar
+
+154
+00:07:40,879 --> 00:07:43,139
+O IP, o administrador e a credencial
+
+155
+00:07:43,139 --> 00:07:44,420
+Que a gente acabou de ver ali
+
+156
+00:07:44,420 --> 00:07:47,720
+O que não tem incluso, não tem interface gráfica
+
+157
+00:07:47,720 --> 00:07:49,680
+Não tem servidor, não tem banco de dados
+
+158
+00:07:49,680 --> 00:07:52,279
+Não tem painel de controle, não tem backup automático
+
+159
+00:07:52,279 --> 00:07:53,240
+A gente tem
+
+160
+00:07:53,240 --> 00:07:54,579
+Um CLI
+
+161
+00:07:54,579 --> 00:07:57,680
+Terceiro, escolhe o sistema
+
+162
+00:07:57,680 --> 00:07:59,860
+A gente já escolheu, no caso a gente escolheu o Ubuntu
+
+163
+00:07:59,860 --> 00:08:01,579
+Aqui tem algumas diferenças também
+
+164
+00:08:01,579 --> 00:08:03,480
+do que cada um tem.
+
+165
+00:08:04,480 --> 00:08:05,740
+Aí depois, terreno vazio
+
+166
+00:08:05,740 --> 00:08:07,579
+ou casa pronta? Expliquei para vocês também.
+
+167
+00:08:07,759 --> 00:08:09,360
+A gente está seguindo com o terreno vazio.
+
+168
+00:08:10,160 --> 00:08:11,819
+A gente não está com a casa construída, não.
+
+169
+00:08:13,399 --> 00:08:13,800
+Depois,
+
+170
+00:08:14,240 --> 00:08:15,660
+escolha o seu caso. Então, está
+
+171
+00:08:15,660 --> 00:08:17,959
+aprendendo como o servidor funciona? Vai de Ubuntu.
+
+172
+00:08:18,079 --> 00:08:19,800
+Precisa de um site no ar hoje e não vai
+
+173
+00:08:19,800 --> 00:08:21,660
+administrar nada? Vai com
+
+174
+00:08:21,660 --> 00:08:23,819
+WordPress. Precisa rodar uma aplicação
+
+175
+00:08:23,819 --> 00:08:25,740
+sua? Vai com Ubuntu mais Docker.
+
+176
+00:08:26,079 --> 00:08:27,019
+Enfim, tem
+
+177
+00:08:27,019 --> 00:08:29,819
+dicas ali. Isso tudo aqui está ensinando.
+
+178
+00:08:30,019 --> 00:08:33,740
+Aqui que começa, o que é o SSH, sem metáfora e com metáfora.
+
+179
+00:08:33,980 --> 00:08:38,820
+Aí explica, já falei para vocês, eu falei security, mas é security, security shell.
+
+180
+00:08:39,679 --> 00:08:44,779
+Então security shell, ele explica o que é, com metáfora é um túnel blindado até a sua máquina.
+
+181
+00:08:44,779 --> 00:08:48,620
+Você digita um comando no seu terminal e a partir daí a tela muda de identidade.
+
+182
+00:08:49,019 --> 00:08:52,279
+Tudo que você escrever vai rodar no seu servidor e não mais no seu PC.
+
+183
+00:08:53,019 --> 00:08:55,940
+Era onde a gente estava ali, e aí eu vou refazer de novo, tá bom?
+
+184
+00:08:56,620 --> 00:08:58,120
+Três mal entendidos comuns.
+
+185
+00:08:58,440 --> 00:09:02,519
+SSH não é um programa que você instala para a aplicação funcionar.
+
+186
+00:09:02,960 --> 00:09:05,240
+Ele é o túnel, ele é o caminho de entrada.
+
+187
+00:09:05,779 --> 00:09:09,419
+SSH não tem interface gráfica, SLI, texto.
+
+188
+00:09:09,919 --> 00:09:14,720
+SSH não copia arquivos por si só, mas carrega ferramentas que fazem isso pelo mesmo túnel.
+
+189
+00:09:15,080 --> 00:09:17,539
+Então, basicamente, a gente tem um controle remoto.
+
+190
+00:09:17,539 --> 00:09:22,320
+A gente tem um terminal que a gente envia coisas lá para o servidor e o servidor executa para a gente.
+
+191
+00:09:23,519 --> 00:09:23,779
+Tá bom?
+
+192
+00:09:24,740 --> 00:09:25,519
+Até aqui tudo bem?
+
+193
+00:09:26,620 --> 00:09:29,940
+dá um ok aí
+
+194
+00:09:29,940 --> 00:09:32,639
+aí entra aqui ó, passo a passo
+
+195
+00:09:32,639 --> 00:09:34,580
+simples, anatomia do comando
+
+196
+00:09:34,580 --> 00:09:36,740
+ele já colocou ssh, root
+
+197
+00:09:36,740 --> 00:09:38,440
+arroba, e aí ele colocou um
+
+198
+00:09:38,440 --> 00:09:40,139
+exemplo aqui de ip
+
+199
+00:09:40,139 --> 00:09:42,740
+vocês precisam pegar o ip de vocês
+
+200
+00:09:42,740 --> 00:09:44,600
+beleza? tem que ser
+
+201
+00:09:44,600 --> 00:09:45,600
+o ip de vocês aqui
+
+202
+00:09:45,600 --> 00:09:48,559
+de novo, eu gosto sempre de reforçar por uma
+
+203
+00:09:48,559 --> 00:09:50,159
+questão didática, eu sei
+
+204
+00:09:50,159 --> 00:09:52,519
+eu sei que vocês estão vendo isso tudo, tá falando, meu Deus
+
+205
+00:09:52,519 --> 00:09:54,840
+tô me sentindo hacker de novo
+
+206
+00:09:54,840 --> 00:09:56,659
+será que vai dar certo
+
+207
+00:09:56,659 --> 00:09:59,320
+repetição, quanto mais vocês repetirem
+
+208
+00:09:59,320 --> 00:10:01,120
+mais fácil fica, mais o cérebro
+
+209
+00:10:01,120 --> 00:10:03,320
+se acostuma, é normal no início
+
+210
+00:10:03,320 --> 00:10:04,700
+a gente gastar mais glicose
+
+211
+00:10:04,700 --> 00:10:06,980
+esforço cognitivo
+
+212
+00:10:06,980 --> 00:10:08,720
+pra poder fazer isso funcionar
+
+213
+00:10:08,720 --> 00:10:11,279
+mas depois vai ficando mais tranquilo
+
+214
+00:10:11,279 --> 00:10:12,980
+vocês vão ver, é normal
+
+215
+00:10:12,980 --> 00:10:14,779
+é normal, vai ser normal
+
+216
+00:10:14,779 --> 00:10:16,740
+vou fazer aqui rapidão uma vez agora
+
+217
+00:10:16,740 --> 00:10:18,039
+como que eu faço? Eu entro aqui
+
+218
+00:10:18,039 --> 00:10:20,299
+ssh
+
+219
+00:10:20,299 --> 00:10:22,700
+root, arroba
+
+220
+00:10:22,700 --> 00:10:24,879
+Tem como até criar comandos
+
+221
+00:10:24,879 --> 00:10:26,220
+Pra ele fazer isso automático
+
+222
+00:10:26,220 --> 00:10:28,340
+Ele já loga automático pra você com o cloud
+
+223
+00:10:28,340 --> 00:10:30,120
+Só que a gente vai, daqui a pouco
+
+224
+00:10:30,120 --> 00:10:32,000
+P22022
+
+225
+00:10:32,000 --> 00:10:34,179
+Pronto, me fala a senha
+
+226
+00:10:34,179 --> 00:10:36,179
+Digito a senha, pronto
+
+227
+00:10:36,179 --> 00:10:38,759
+Tô dentro do VPS, só isso
+
+228
+00:10:38,759 --> 00:10:41,440
+Só parece muito difícil
+
+229
+00:10:41,440 --> 00:10:43,139
+Porque é novo
+
+230
+00:10:43,139 --> 00:10:44,899
+Mas não é, tá bom?
+
+231
+00:10:45,779 --> 00:10:46,960
+Então, dito isso
+
+232
+00:10:46,960 --> 00:10:49,220
+Vamos lá, teve gente que falou aí
+
+233
+00:10:49,220 --> 00:10:51,200
+Que ainda não terminou o build de vocês
+
+234
+00:10:51,200 --> 00:10:53,779
+dá uma atualizada aí e vê se terminou agora
+
+235
+00:10:53,779 --> 00:10:59,940
+a gente vai ficar todo mundo na mesma página
+
+236
+00:10:59,940 --> 00:11:04,059
+agora terminou, boa
+
+237
+00:11:04,059 --> 00:11:06,519
+o Grazi falou, eu me perdi, onde abre o terminal?
+
+238
+00:11:07,200 --> 00:11:08,399
+do mesmo jeito que a gente abre
+
+239
+00:11:08,399 --> 00:11:09,840
+para o Cloud Code, gente
+
+240
+00:11:09,840 --> 00:11:11,480
+vocês já viram as aulas de Cloud Code
+
+241
+00:11:11,480 --> 00:11:13,700
+inclusive a Grazi, a Grazi sabe fazer isso
+
+242
+00:11:13,700 --> 00:11:16,019
+como que você abre o terminal geralmente
+
+243
+00:11:16,019 --> 00:11:16,980
+para o Cloud Code?
+
+244
+00:11:17,379 --> 00:11:19,720
+se você não vai abrir ele na IDE
+
+245
+00:11:19,720 --> 00:11:21,879
+e nem no desktop. Você pode digitar
+
+246
+00:11:21,879 --> 00:11:23,779
+comando espaço e digitar
+
+247
+00:11:23,779 --> 00:11:25,460
+terminal, se tiver no Mac. Mas é o mesmo
+
+248
+00:11:25,460 --> 00:11:27,820
+terminal, então? É o mesmo, é o mesmo.
+
+249
+00:11:27,840 --> 00:11:29,679
+Ah, tá, eu tava achando que... Ai, desculpa,
+
+250
+00:11:29,740 --> 00:11:31,700
+eu tava achando que era um terminal dentro
+
+251
+00:11:31,700 --> 00:11:33,820
+do... Não, é o mesmo.
+
+252
+00:11:34,059 --> 00:11:35,019
+Você tá dentro do seu PC.
+
+253
+00:11:35,600 --> 00:11:37,139
+Eu vou até fazer uma coisa, ó.
+
+254
+00:11:38,139 --> 00:11:38,759
+Ó, vamos lá.
+
+255
+00:11:39,480 --> 00:11:41,120
+É, mas o Mac é um computador também, pô.
+
+256
+00:11:41,559 --> 00:11:43,639
+A gente fica fazendo graça
+
+257
+00:11:43,639 --> 00:11:45,500
+na vanguarda do time Mac e o time
+
+258
+00:11:45,500 --> 00:11:47,720
+Windows, né? E aí eu sou time Windows
+
+259
+00:11:47,720 --> 00:11:48,980
+e eu fico fazendo graça com eles.
+
+260
+00:11:49,720 --> 00:11:51,360
+Mas olha aqui
+
+261
+00:11:51,360 --> 00:11:54,120
+Tô na área de trabalho do meu PC aqui
+
+262
+00:11:54,120 --> 00:11:56,320
+Eu posso inclusive clicar aqui e abrir o terminal
+
+263
+00:11:56,320 --> 00:11:58,799
+Mas eu gosto de dar Windows R
+
+264
+00:11:58,799 --> 00:12:00,340
+Pra abrir essa janelinha
+
+265
+00:12:00,340 --> 00:12:02,539
+Porque eu executo com o administrador já
+
+266
+00:12:02,539 --> 00:12:04,059
+É mais fácil pra mim, tá bom?
+
+267
+00:12:04,299 --> 00:12:05,299
+Porque senão ele fica pedindo permissão
+
+268
+00:12:05,299 --> 00:12:07,019
+Ah, você tem que executar como administrador
+
+269
+00:12:07,019 --> 00:12:08,720
+E eu já faço assim, beleza?
+
+270
+00:12:09,539 --> 00:12:11,059
+Ó, Rachel, pronto
+
+271
+00:12:11,059 --> 00:12:13,259
+É isso aqui
+
+272
+00:12:13,259 --> 00:12:16,019
+Terminal do próprio computador
+
+273
+00:12:16,019 --> 00:12:17,360
+Certo?
+
+274
+00:12:18,120 --> 00:12:18,639
+É isso
+
+275
+00:12:18,639 --> 00:12:21,299
+aí o que vocês vão fazer? Vocês vão identificar
+
+276
+00:12:21,299 --> 00:12:23,320
+no sistema onde está a VPS
+
+277
+00:12:23,320 --> 00:12:25,460
+de vocês, as credenciais
+
+278
+00:12:25,460 --> 00:12:27,059
+então as minhas estão aqui
+
+279
+00:12:27,059 --> 00:12:29,279
+vocês vão ver a de vocês, e agora eu quero
+
+280
+00:12:29,279 --> 00:12:30,720
+que vocês façam junto comigo, vamos lá
+
+281
+00:12:30,720 --> 00:12:32,860
+ssh
+
+282
+00:12:32,860 --> 00:12:34,659
+espaço
+
+283
+00:12:34,659 --> 00:12:36,200
+root
+
+284
+00:12:36,200 --> 00:12:39,360
+arroba, verifica se o de vocês
+
+285
+00:12:39,360 --> 00:12:41,200
+está root, tá? Porque se o usuário aqui tiver
+
+286
+00:12:41,200 --> 00:12:43,039
+com outro nome, você vai ter que colocar
+
+287
+00:12:43,039 --> 00:12:45,220
+esse outro nome aqui, ó, usuário
+
+288
+00:12:45,220 --> 00:12:47,259
+beleza? No nosso caso
+
+289
+00:12:47,259 --> 00:12:47,779
+aqui está root.
+
+290
+00:12:49,620 --> 00:12:51,240
+Esse arroba, ele funciona como
+
+291
+00:12:51,240 --> 00:12:53,039
+um conector, como se fosse assim,
+
+292
+00:12:53,460 --> 00:12:55,360
+root em IP.
+
+293
+00:12:56,100 --> 00:12:57,259
+Estou falando, este usuário
+
+294
+00:12:57,259 --> 00:12:58,440
+neste IP.
+
+295
+00:12:59,320 --> 00:13:00,539
+Aí nós vamos pegar o IP aqui,
+
+296
+00:13:01,139 --> 00:13:03,039
+que é como se fosse, como que a gente loga
+
+297
+00:13:03,039 --> 00:13:06,919
+num site? www.overlens.com.br
+
+298
+00:13:06,919 --> 00:13:08,539
+Isso é um caminho, não é? O IP
+
+299
+00:13:08,539 --> 00:13:11,059
+é um caminho. É o caminho
+
+300
+00:13:11,059 --> 00:13:12,279
+de onde está o seu servidor.
+
+301
+00:13:12,879 --> 00:13:14,799
+Beleza? Então, copia o caminho,
+
+302
+00:13:15,679 --> 00:13:16,940
+cola aqui, sem espaço
+
+303
+00:13:16,940 --> 00:13:26,580
+nenhum. Mais um espaço, menos P. Mais um espaço, copia a porta. Então pensa que isso
+
+304
+00:13:26,580 --> 00:13:31,860
+aqui é a rua, é o nome da rua, isso aqui é o número da casa, tá bom? Então clica
+
+305
+00:13:31,860 --> 00:13:41,779
+aqui, cola aqui. Pronto. Enter. Vai pedir a senha. Aí vocês digitam a senha, não
+
+306
+00:13:41,779 --> 00:13:46,639
+lembra a senha, clica em alterar e troca a senha. Digita ela aqui, não vai aparecer
+
+307
+00:13:46,639 --> 00:13:48,799
+nada, tá vendo, ó, não apareceu nada
+
+308
+00:13:48,799 --> 00:13:50,700
+é ruim, a experiência de usuário é ruim
+
+309
+00:13:50,700 --> 00:13:52,740
+mesmo, CLI foi
+
+310
+00:13:52,740 --> 00:13:54,600
+a primeira interface
+
+311
+00:13:54,600 --> 00:13:56,500
+do mundo dos computadores
+
+312
+00:13:56,500 --> 00:13:58,559
+parece que a gente tá lá em 1960, né
+
+313
+00:13:58,559 --> 00:14:00,820
+vou dar um enter aqui e pronto
+
+314
+00:14:00,820 --> 00:14:05,139
+beleza? Oi Juan, bom dia
+
+315
+00:14:05,139 --> 00:14:06,600
+bom dia pessoal, tudo bem?
+
+316
+00:14:07,419 --> 00:14:08,639
+faz uma gentileza pra mim
+
+317
+00:14:08,639 --> 00:14:10,639
+só repete, ó, eu tô no ssh
+
+318
+00:14:10,639 --> 00:14:12,860
+espaço, roots, arroba
+
+319
+00:14:12,860 --> 00:14:14,779
+ip, só repete isso pra mim
+
+320
+00:14:14,779 --> 00:14:16,779
+por favor, tá difícil pegar
+
+321
+00:14:16,779 --> 00:14:18,500
+um tranco aqui hoje, hein? Obrigada.
+
+322
+00:14:18,500 --> 00:14:20,299
+Não tem problema não, tá tranquilo.
+
+323
+00:14:20,639 --> 00:14:22,679
+O que eu recomendo pra vocês? Esse link que eu
+
+324
+00:14:22,679 --> 00:14:25,039
+passei, ele já vem com o
+
+325
+00:14:25,039 --> 00:14:26,899
+ele já vem aqui pra vocês
+
+326
+00:14:26,899 --> 00:14:28,679
+copiarem o comando, aí vocês
+
+327
+00:14:28,679 --> 00:14:30,899
+podem trocar aí pros números de vocês
+
+328
+00:14:30,899 --> 00:14:32,240
+se vocês se perderem
+
+329
+00:14:32,240 --> 00:14:34,500
+a única coisa que eu tô vendo aqui, deixa eu ver
+
+330
+00:14:34,500 --> 00:14:36,460
+é, ele não mostrou, foi esse
+
+331
+00:14:36,460 --> 00:14:38,539
+"-p", isso é uma coisa que acontece
+
+332
+00:14:38,539 --> 00:14:40,620
+quando a porta aqui
+
+333
+00:14:40,620 --> 00:14:42,600
+é personalizada, se for 22
+
+334
+00:14:42,600 --> 00:14:44,500
+não precisa colocar o "-p", se for
+
+335
+00:14:44,500 --> 00:14:46,519
+tem que colocar, né, menos P, esse menos P
+
+336
+00:14:46,519 --> 00:14:48,200
+é de porto mesmo. Graças a Deus, o meu já é 22,
+
+337
+00:14:48,340 --> 00:14:50,740
+uma coisa a menos. Pronto, então é isso.
+
+338
+00:14:51,240 --> 00:14:52,580
+Aí dá Enter, eu vi
+
+339
+00:14:52,580 --> 00:14:54,360
+que no de algumas pessoas vai começar a aparecer ali,
+
+340
+00:14:54,419 --> 00:14:56,200
+vai aparecer Warning Identity File
+
+341
+00:14:56,200 --> 00:14:58,440
+P, aí ele tá falando
+
+342
+00:14:58,440 --> 00:15:00,860
+a identidade dessa porta não está acessível.
+
+343
+00:15:02,620 --> 00:15:03,019
+Connecting
+
+344
+00:15:03,019 --> 00:15:04,080
+Host Porta 22.
+
+345
+00:15:04,639 --> 00:15:06,539
+Aí, ó, pra quem colocou
+
+346
+00:15:06,539 --> 00:15:08,340
+a
+
+347
+00:15:08,340 --> 00:15:10,440
+pessoa que digitou aí, que mandou
+
+348
+00:15:10,440 --> 00:15:12,519
+esse print, colocou menos IP, não é
+
+349
+00:15:12,519 --> 00:15:14,480
+menos IP, é menos P, menos
+
+350
+00:15:14,480 --> 00:15:16,399
+P, 22, 0, 22, tá?
+
+351
+00:15:18,960 --> 00:15:20,580
+Pra digitar 100 é só digitar.
+
+352
+00:15:20,799 --> 00:15:22,500
+Aí ele não vai digitar nada, mas depois
+
+353
+00:15:22,500 --> 00:15:24,299
+você dá Enter e vai funcionar. Essa parte
+
+354
+00:15:24,299 --> 00:15:26,559
+ela é estranha mesmo, mas é assim, tá?
+
+355
+00:15:26,659 --> 00:15:28,399
+Você digita 100 e dá Enter.
+
+356
+00:15:29,019 --> 00:15:30,440
+Ah, mas digitei errado.
+
+357
+00:15:30,559 --> 00:15:31,600
+Digita de novo e dá Enter.
+
+358
+00:15:32,220 --> 00:15:33,919
+Ele vai falar que a senha tá errada, você digita de novo.
+
+359
+00:15:34,980 --> 00:15:36,779
+Dá a sensação de que não está avançando
+
+360
+00:15:36,779 --> 00:15:38,019
+porque a senha não apareceu. Isso.
+
+361
+00:15:39,500 --> 00:15:40,220
+Aí vocês me perguntam,
+
+362
+00:15:40,220 --> 00:15:42,000
+por que que é assim? E eu respondo,
+
+363
+00:15:43,259 --> 00:15:43,860
+eu não sei.
+
+364
+00:15:44,480 --> 00:15:51,700
+Eu não sei porque é legado, porque era assim lá atrás e continua assim até hoje.
+
+365
+00:15:53,740 --> 00:15:55,059
+Dá até uma pergunta, né?
+
+366
+00:15:55,120 --> 00:15:57,179
+Não é a senha do Hermes, é a senha do VPS.
+
+367
+00:15:57,259 --> 00:15:59,080
+A gente não tem Hermes nenhum instalado aqui, lembra?
+
+368
+00:15:59,639 --> 00:16:01,419
+Falei para vocês conectarem sem Hermes.
+
+369
+00:16:03,240 --> 00:16:04,779
+O Claude disse que é por segurança.
+
+370
+00:16:05,240 --> 00:16:05,980
+Droga nenhuma.
+
+371
+00:16:06,620 --> 00:16:09,600
+Era só colocar ali pelo menos um feedbackzinho para a gente, né?
+
+372
+00:16:09,600 --> 00:16:12,059
+Bota um tracinho, um asterisco, qualquer coisa serve.
+
+373
+00:16:14,480 --> 00:16:19,259
+É assim porque o Linux tenta economizar
+
+374
+00:16:19,259 --> 00:16:20,419
+Em todos os tipos de recursos
+
+375
+00:16:20,419 --> 00:16:22,740
+Não, mas isso não é só Linux não, Christian
+
+376
+00:16:22,740 --> 00:16:24,120
+É aí que está
+
+377
+00:16:24,120 --> 00:16:25,419
+Isso não é só Linux não
+
+378
+00:16:25,419 --> 00:16:27,379
+Isso aí é CLI mesmo
+
+379
+00:16:27,379 --> 00:16:29,600
+Isso inclusive é do PowerShell aqui
+
+380
+00:16:29,600 --> 00:16:31,080
+PowerShell do Windows
+
+381
+00:16:31,080 --> 00:16:36,919
+Pessoal, a Raquel falou
+
+382
+00:16:36,919 --> 00:16:37,700
+Olha, o meu está dando erro
+
+383
+00:16:37,700 --> 00:16:38,299
+Não é erro
+
+384
+00:16:38,299 --> 00:16:41,460
+O da Raquel é só digitar yes
+
+385
+00:16:41,460 --> 00:16:43,840
+e
+
+386
+00:16:43,840 --> 00:16:46,019
+uma dica
+
+387
+00:16:46,019 --> 00:16:47,940
+quando vocês forem trabalhar aqui, porque é um ambiente
+
+388
+00:16:47,940 --> 00:16:49,820
+novo, dê uma mensagem
+
+389
+00:16:49,820 --> 00:16:51,539
+ai, ai, ai, agora o que eu faço?
+
+390
+00:16:51,700 --> 00:16:53,879
+dica pra vocês, nem sempre
+
+391
+00:16:53,879 --> 00:16:55,879
+eu vou estar aqui pra tirar dúvida, nem sempre o chat
+
+392
+00:16:55,879 --> 00:16:57,480
+vai estar aqui pra tirar dúvida, tá tudo bem
+
+393
+00:16:57,480 --> 00:16:59,299
+o que vocês vão desenvolver?
+
+394
+00:16:59,860 --> 00:17:01,960
+independência intelectual, o que é independência
+
+395
+00:17:01,960 --> 00:17:03,639
+intelectual? deu erro
+
+396
+00:17:03,639 --> 00:17:06,299
+vixe, não sei ler inglês, não sei o que aconteceu
+
+397
+00:17:06,299 --> 00:17:07,960
+printa e joga
+
+398
+00:17:07,960 --> 00:17:10,059
+no cloud, me explica isso aqui
+
+399
+00:17:10,059 --> 00:17:11,079
+o que eu faço agora?
+
+400
+00:17:11,460 --> 00:17:12,779
+E o Claude vai ajudar vocês.
+
+401
+00:17:13,839 --> 00:17:15,660
+Tá bom? Vai ser mais fácil assim.
+
+402
+00:17:16,339 --> 00:17:17,599
+É importante eu falar também,
+
+403
+00:17:17,960 --> 00:17:19,819
+essa é uma parte que ela é chata,
+
+404
+00:17:20,259 --> 00:17:22,140
+mas ela é importante eu apontar.
+
+405
+00:17:23,299 --> 00:17:24,720
+Nós estamos aqui com quantas pessoas?
+
+406
+00:17:24,940 --> 00:17:26,039
+73 pessoas.
+
+407
+00:17:26,460 --> 00:17:29,859
+São 73 chances de dar errado diferente.
+
+408
+00:17:31,359 --> 00:17:33,519
+E pode ser que aconteça erros diferentes,
+
+409
+00:17:33,680 --> 00:17:36,359
+porque às vezes o sistema operacional que a pessoa usa é outro.
+
+410
+00:17:36,359 --> 00:17:38,380
+Ah, eu estou no Windows 10, eu estou no Windows 8.
+
+411
+00:17:38,880 --> 00:17:40,960
+Aí do nada tem alguém com Windows XP aqui.
+
+412
+00:17:41,460 --> 00:17:43,500
+Ou estou no Mac, estou no Linux.
+
+413
+00:17:43,720 --> 00:17:46,000
+Ah, eu estou com o ambiente configurado de outro jeito.
+
+414
+00:17:46,099 --> 00:17:48,079
+Tem muitos pontos diferentes.
+
+415
+00:17:48,480 --> 00:17:49,619
+Isso aí, Denise, o seu deu certo.
+
+416
+00:17:49,720 --> 00:17:51,259
+Você está dentro do seu VPS agora, tá?
+
+417
+00:17:51,339 --> 00:17:53,319
+Pode deixar paradinho aí que a gente vai começar a trabalhar.
+
+418
+00:17:54,579 --> 00:17:55,480
+O seu já está rodando.
+
+419
+00:17:56,700 --> 00:18:02,380
+Mas essa sensação de, poxa, eu queria que você me ajudasse,
+
+420
+00:18:02,480 --> 00:18:05,579
+pegasse na minha mão aqui para a gente fazer isso, eu sei.
+
+421
+00:18:05,579 --> 00:18:09,380
+Só que não tem como fazer isso com cada um.
+
+422
+00:18:09,819 --> 00:18:11,039
+Então, o que eu gosto de ensinar?
+
+423
+00:18:11,119 --> 00:18:15,440
+Eu gosto de ensinar vocês a desenvolverem a habilidade que eu desenvolvi para aprender isso.
+
+424
+00:18:16,180 --> 00:18:17,200
+Eu quero lembrar para vocês.
+
+425
+00:18:17,680 --> 00:18:19,660
+Minha formação não é em ciência da computação.
+
+426
+00:18:20,140 --> 00:18:21,200
+Eu não sou desenvolvedor.
+
+427
+00:18:22,319 --> 00:18:23,619
+Minha formação é como designer.
+
+428
+00:18:24,119 --> 00:18:25,160
+E hoje eu sou empreendedor.
+
+429
+00:18:25,279 --> 00:18:26,480
+Eu sou empresário.
+
+430
+00:18:26,559 --> 00:18:27,059
+Eu tenho uma empresa.
+
+431
+00:18:27,160 --> 00:18:27,640
+Eu sou professor.
+
+432
+00:18:28,480 --> 00:18:29,859
+Mas minha formação não veio dali.
+
+433
+00:18:30,259 --> 00:18:34,259
+Só que eu desenvolvi algumas habilidades que me ajudam a aprender tudo o que eu quero.
+
+434
+00:18:34,819 --> 00:18:36,539
+Eu chamo isso de independência intelectual.
+
+435
+00:18:36,539 --> 00:18:39,839
+É você ser capaz de encontrar uma resposta.
+
+436
+00:18:40,160 --> 00:18:42,339
+Não tem problema você não saber, mas você vai encontrar
+
+437
+00:18:42,339 --> 00:18:44,420
+uma resposta. Você não vai ser dependente
+
+438
+00:18:44,420 --> 00:18:46,440
+intelectualmente. E eu gosto
+
+439
+00:18:46,440 --> 00:18:47,759
+muito de ensinar isso pra vocês. Então,
+
+440
+00:18:48,680 --> 00:18:49,980
+deu algum erro, alguma coisa,
+
+441
+00:18:50,220 --> 00:18:52,480
+printa a tela e joga no cloud. É o melhor jeito de aprender
+
+442
+00:18:52,480 --> 00:18:53,940
+e ele vai guiar vocês.
+
+443
+00:18:54,660 --> 00:18:56,259
+Enquanto isso, eu vou ensinando o processo
+
+444
+00:18:56,259 --> 00:18:58,220
+natural aqui. Vocês vão poder reassistir essa aula
+
+445
+00:18:58,220 --> 00:19:00,099
+aqui, quantas vezes vocês quiserem, depois também.
+
+446
+00:19:00,900 --> 00:19:02,319
+Tá bom? A Bila falou ali,
+
+447
+00:19:02,380 --> 00:19:04,240
+ó, venham pra vanguarda. A gente sai com a mente
+
+448
+00:19:04,240 --> 00:19:06,279
+fritando e querendo abrir uma sala virtual pra nos
+
+449
+00:19:06,279 --> 00:19:08,059
+ajudarmos. Inclusive, a gente faz isso, né?
+
+450
+00:19:08,380 --> 00:19:09,599
+Dentro da vanguarda, a gente tem
+
+451
+00:19:09,599 --> 00:19:11,420
+hot seats, que aí
+
+452
+00:19:11,420 --> 00:19:13,920
+quem faz parte da vanguarda se ajuda também.
+
+453
+00:19:14,079 --> 00:19:16,039
+Tem o grupo no WhatsApp, tem os
+
+454
+00:19:16,039 --> 00:19:17,839
+encontros toda semana, né? Tem ambientes
+
+455
+00:19:17,839 --> 00:19:19,759
+diferentes. Mas vamos lá.
+
+456
+00:19:19,940 --> 00:19:21,859
+A Mônica ainda não conseguiu acertar a senha.
+
+457
+00:19:21,980 --> 00:19:24,000
+Pois é, Mônica, olha que raio, né? Faz o
+
+458
+00:19:24,000 --> 00:19:25,920
+seguinte, vem aqui em alterar senha e troca
+
+459
+00:19:25,920 --> 00:19:28,019
+por uma senha mais simples e refaz o processo.
+
+460
+00:19:28,740 --> 00:19:29,960
+Vai te ajudar, porque isso ali é
+
+461
+00:19:29,960 --> 00:19:30,599
+chatinho mesmo.
+
+462
+00:19:32,339 --> 00:19:33,319
+Boa. Beleza, então.
+
+463
+00:19:33,339 --> 00:19:35,740
+Boa, Michele.
+
+464
+00:19:36,579 --> 00:19:37,400
+Claro, fala aí.
+
+465
+00:19:38,380 --> 00:19:40,119
+Para falar o que você está dizendo,
+
+466
+00:19:40,279 --> 00:19:42,500
+autonomia. Eu já tinha um pouco
+
+467
+00:19:42,500 --> 00:19:44,339
+de autonomia, mas eu aprendi muito
+
+468
+00:19:44,339 --> 00:19:46,940
+mais com os seus
+
+469
+00:19:46,940 --> 00:19:48,619
+ensinamentos. Então, isso é possível,
+
+470
+00:19:48,839 --> 00:19:50,220
+sim. Eu fiz o meu VPS
+
+471
+00:19:50,220 --> 00:19:53,140
+sozinha, perguntando
+
+472
+00:19:53,140 --> 00:19:54,400
+ao Cláudio, assistindo
+
+473
+00:19:54,400 --> 00:19:56,579
+as aulas que vocês têm lá no portal.
+
+474
+00:19:56,720 --> 00:19:58,460
+Então, é possível. No início,
+
+475
+00:19:58,579 --> 00:20:00,380
+realmente dá toda aquela sensação de que a gente
+
+476
+00:20:00,380 --> 00:20:02,240
+não vai conseguir, mas com
+
+477
+00:20:02,240 --> 00:20:04,440
+autonomia nós conseguimos. Por exemplo,
+
+478
+00:20:04,440 --> 00:20:06,640
+eu estou com o Cláudio aqui aberto e ele está me perguntando
+
+479
+00:20:06,640 --> 00:20:11,079
+Você quer que eu te explique como configurar uma chave SSH no seu Mac
+
+480
+00:20:11,079 --> 00:20:14,299
+sem você precisar digitar a senha toda vez?
+
+481
+00:20:14,660 --> 00:20:17,460
+É uma pergunta até que ele está me recomendando,
+
+482
+00:20:17,579 --> 00:20:20,779
+mas eu queria ouvir de você, já que eu estou aqui com essa oportunidade.
+
+483
+00:20:21,359 --> 00:20:22,359
+É um caminho?
+
+484
+00:20:23,740 --> 00:20:26,980
+É um caminho, é uma possibilidade que facilita a vida depois.
+
+485
+00:20:27,180 --> 00:20:28,319
+Ele vai te dar uma chave.
+
+486
+00:20:28,720 --> 00:20:31,480
+Isso, na verdade, não é nem só facilita a vida, é mais seguro.
+
+487
+00:20:32,059 --> 00:20:34,960
+E se vocês acessarem essa página aqui, lá na frente,
+
+488
+00:20:34,960 --> 00:20:36,539
+Instalar chave de servidor
+
+489
+00:20:36,539 --> 00:20:39,720
+Aqui ensina como deixar seu VPS ainda mais seguro
+
+490
+00:20:39,720 --> 00:20:41,220
+É só seguir esse passo a passo aqui
+
+491
+00:20:41,220 --> 00:20:43,059
+Só que eu vou ensinar uma coisa
+
+492
+00:20:43,059 --> 00:20:44,380
+Pra quem tá triste aí agora
+
+493
+00:20:44,380 --> 00:20:46,400
+Eu vou ensinar mais uma coisa pra vocês
+
+494
+00:20:46,400 --> 00:20:48,819
+Que vai facilitar a vida de vocês e vocês vão falar
+
+495
+00:20:48,819 --> 00:20:51,779
+Ainda bem que existe inteligência artificial na minha vida
+
+496
+00:20:51,779 --> 00:20:54,720
+Então vem comigo
+
+497
+00:20:54,720 --> 00:20:56,480
+Que eu vou recapitular agora
+
+498
+00:20:56,480 --> 00:20:58,740
+Eu gosto de ensinar pra vocês como funciona
+
+499
+00:20:58,740 --> 00:21:00,420
+Porque aí vocês sabem fazer manualmente
+
+500
+00:21:00,420 --> 00:21:02,940
+Mas quem disse que vocês precisam fazer tudo manualmente?
+
+501
+00:21:03,400 --> 00:21:08,059
+Então, calma o coração e vamos lá, que agora a gente vai facilitar a vida.
+
+502
+00:21:08,259 --> 00:21:10,220
+Vou recapitular aqui e a gente vai seguir.
+
+503
+00:21:10,460 --> 00:21:13,940
+Quem está nessa tela aqui, nessa tela aqui,
+
+504
+00:21:14,420 --> 00:21:16,380
+então está mostrando as informações do sistema,
+
+505
+00:21:16,700 --> 00:21:18,319
+quem está aqui está logado, beleza?
+
+506
+00:21:18,500 --> 00:21:22,920
+Vocês já estão na VPS, é só deixar aqui por enquanto, beleza?
+
+507
+00:21:23,180 --> 00:21:24,539
+Quem está aqui, está aqui, ótimo.
+
+508
+00:21:25,119 --> 00:21:27,660
+Agora eu vou fazer mais uma vez, presta muita atenção,
+
+509
+00:21:28,079 --> 00:21:31,779
+não tenta fazer enquanto eu faço, assiste eu fazendo e depois faça, tá bom?
+
+510
+00:21:31,779 --> 00:21:54,819
+Então vamos lá, vou dar um exit aqui de novo, pronto, estou aqui na tela, a gente não vai usar console, chato, ruim, dá para usar ele, ruim, não gosto, só quebra galho depois de vez em quando, a gente vai usar o terminal do nosso próprio computador, o mesmo terminal onde a gente vai lá e acorda o cloud, mesmo, a gente vai usar o nosso PC para acessar a VPS, é isso que a gente quer.
+
+511
+00:21:55,079 --> 00:22:01,019
+Para isso, então, o primeiro passo é, coloca uma senha aqui, se não chegou a senha por e-mail, coloca a senha aqui.
+
+512
+00:22:01,259 --> 00:22:05,640
+Uma dica, inclusive, é o quê? Vem cá, coloca a senha, aí vamos supor que a sua senha é tipo assim, ó,
+
+513
+00:22:06,019 --> 00:22:12,740
+Google, da, da, dois, três, dois, um, a, b, um.
+
+514
+00:22:13,460 --> 00:22:20,759
+Aí eu vou dar uma dica para vocês. Escreve a senha, dá um Ctrl C nela, vem cá, cola a senha aqui,
+
+515
+00:22:20,759 --> 00:22:22,700
+aí tem que bater, né, os caracteres,
+
+516
+00:22:23,000 --> 00:22:24,819
+cria a senha, e aí
+
+517
+00:22:24,819 --> 00:22:26,740
+com ela copiada, quando aparecer
+
+518
+00:22:26,740 --> 00:22:28,680
+a senha, você dá Ctrl V e Enter. Vai
+
+519
+00:22:28,680 --> 00:22:30,799
+funcionar. Tá bom? Já vai
+
+520
+00:22:30,799 --> 00:22:32,740
+ajudar vocês. Mas vamos lá no processo
+
+521
+00:22:32,740 --> 00:22:34,660
+então. O que que eu vou fazer, ó? Tô no meu
+
+522
+00:22:34,660 --> 00:22:36,619
+computador, vou abrir o terminal, vou
+
+523
+00:22:36,619 --> 00:22:37,960
+abrir aqui, ó, mais fácil.
+
+524
+00:22:38,680 --> 00:22:40,740
+Abri o terminal, e
+
+525
+00:22:40,740 --> 00:22:42,539
+aí que vem. O que que a gente vai
+
+526
+00:22:42,539 --> 00:22:44,619
+digitar aqui? SSH,
+
+527
+00:22:44,779 --> 00:22:46,900
+o que que é SSH? Secure Shell.
+
+528
+00:22:47,339 --> 00:22:48,640
+Isso aqui é o protocolo, que
+
+529
+00:22:48,640 --> 00:22:50,819
+é o túnel que conecta o nosso computador
+
+530
+00:22:50,819 --> 00:22:52,559
+lá no VPS. Ótimo.
+
+531
+00:22:52,960 --> 00:22:54,559
+Para conectar, eu preciso
+
+532
+00:22:54,559 --> 00:22:56,500
+do número da rua, eu preciso
+
+533
+00:22:56,500 --> 00:22:58,740
+do nome da rua e do número. E preciso
+
+534
+00:22:58,740 --> 00:23:00,400
+da credencial, como se fosse um crachazinho.
+
+535
+00:23:00,799 --> 00:23:02,640
+Quem que pode entrar nesse servidor, nesse
+
+536
+00:23:02,640 --> 00:23:04,660
+VPS? Aí eu coloco. O usuário se
+
+537
+00:23:04,660 --> 00:23:06,480
+chama Ruth e ele está entrando
+
+538
+00:23:06,480 --> 00:23:08,539
+em, aí a gente coloca o nome da rua.
+
+539
+00:23:08,660 --> 00:23:10,259
+Qual que é o nome da rua que ele tem que procurar?
+
+540
+00:23:11,019 --> 00:23:12,380
+Esse IP aqui que vai aparecer,
+
+541
+00:23:12,599 --> 00:23:14,619
+não o meu, o de vocês, cada um é
+
+542
+00:23:14,619 --> 00:23:16,000
+único. Então coloca aqui,
+
+543
+00:23:16,940 --> 00:23:18,779
+Volta. Cada um é único
+
+544
+00:23:18,779 --> 00:23:20,319
+não, né? Pode ser parecidos, mas
+
+545
+00:23:20,319 --> 00:23:22,259
+peguem o de vocês, senão não funciona.
+
+546
+00:23:22,720 --> 00:23:24,420
+Cola aqui. Colocou aqui.
+
+547
+00:23:24,839 --> 00:23:26,559
+Agora a gente já tem o usuário.
+
+548
+00:23:26,839 --> 00:23:28,680
+Que usuário é o que tá aqui, ó. Usuário.
+
+549
+00:23:29,039 --> 00:23:30,799
+A gente já tem o IP. A gente precisa da porta.
+
+550
+00:23:31,200 --> 00:23:32,559
+A minha aqui é 22022.
+
+551
+00:23:32,940 --> 00:23:34,319
+Provavelmente a de vocês vai ser também.
+
+552
+00:23:34,720 --> 00:23:36,480
+Então eu vou digitar aqui espaço, menos P
+
+553
+00:23:36,480 --> 00:23:37,700
+da porta.
+
+554
+00:23:38,900 --> 00:23:40,880
+E aí eu vou digitar espaço de novo.
+
+555
+00:23:41,700 --> 00:23:42,180
+22022.
+
+556
+00:23:43,160 --> 00:23:44,980
+Pronto. Depois disso eu vou dar enter.
+
+557
+00:23:45,500 --> 00:23:48,140
+Pode ser que o de vocês não vai aparecer essa mesma mensagem que o meu,
+
+558
+00:23:48,220 --> 00:23:49,519
+porque eu já loguei uma vez.
+
+559
+00:23:49,839 --> 00:23:53,119
+Aí o de vocês vai aparecer uma mensagem falando para você escrever ali, yes.
+
+560
+00:23:53,720 --> 00:23:55,240
+Digite yes e dá enter.
+
+561
+00:23:56,220 --> 00:23:56,579
+Pronto.
+
+562
+00:23:57,220 --> 00:23:58,039
+Vai pedir a senha.
+
+563
+00:23:58,440 --> 00:23:59,920
+Aí vocês vão dar um ctrl v.
+
+564
+00:24:00,160 --> 00:24:01,099
+Eu dei ctrl v aqui.
+
+565
+00:24:01,359 --> 00:24:02,220
+Não dá para ver nada.
+
+566
+00:24:02,740 --> 00:24:04,140
+A senha que eu dei ctrl v está errada.
+
+567
+00:24:04,240 --> 00:24:05,660
+Olha o que vai acontecer quando a senha está errada.
+
+568
+00:24:06,839 --> 00:24:07,200
+Parou.
+
+569
+00:24:08,220 --> 00:24:08,640
+Não deu.
+
+570
+00:24:09,500 --> 00:24:10,319
+Permissão negada.
+
+571
+00:24:10,440 --> 00:24:11,240
+Tente novamente.
+
+572
+00:24:11,599 --> 00:24:12,440
+Aí o que eu vou fazer agora?
+
+573
+00:24:12,500 --> 00:24:13,599
+Eu vou digitar minha senha certa.
+
+574
+00:24:14,380 --> 00:24:17,400
+Digita a senha certa e dá Enter.
+
+575
+00:24:17,640 --> 00:24:19,720
+Eu digitei já, tá vendo? Olha, eu já digitei.
+
+576
+00:24:20,079 --> 00:24:23,359
+Mas eu não tenho feedback nenhum, não tá falando pra mim, mas eu já digitei.
+
+577
+00:24:24,039 --> 00:24:25,599
+Aí eu vou dar Enter. Pronto.
+
+578
+00:24:26,299 --> 00:24:29,039
+Vocês vão cair nessa informação toda que vai falar aqui pra vocês.
+
+579
+00:24:29,519 --> 00:24:33,559
+Qual que é? Então, bem-vindo ao Ubuntu 22.04 LTS.
+
+580
+00:24:34,000 --> 00:24:37,079
+Tá aqui a documentação, tá aqui as informações do sistema.
+
+581
+00:24:38,079 --> 00:24:40,519
+Beleza? Isso aqui significa que vocês estão logados.
+
+582
+00:24:42,259 --> 00:24:43,680
+Agora vamos fazer o seguinte.
+
+583
+00:24:44,380 --> 00:24:50,380
+Juan, está muito difícil para mim, está muito difícil, cara, me ajuda.
+
+584
+00:24:51,039 --> 00:24:52,220
+Tá bom, eu vou te ajudar.
+
+585
+00:24:52,839 --> 00:24:53,799
+Qual que é o outro jeito?
+
+586
+00:24:54,180 --> 00:24:57,079
+Esse jeito, ele abre uma brecha de segurança, é importante eu falar,
+
+587
+00:24:57,480 --> 00:24:58,559
+ele abre uma brecha de segurança.
+
+588
+00:24:59,039 --> 00:25:02,079
+Então, eu recomendo que você coloque uma senha que você pode trocar depois.
+
+589
+00:25:02,700 --> 00:25:04,359
+Mas, se tiver difícil, você vai fazer o quê?
+
+590
+00:25:04,400 --> 00:25:08,359
+Você vai abrir o seu Cloud, vai vir aqui no Cloud Code,
+
+591
+00:25:09,759 --> 00:25:10,819
+abriu o Cloud Code?
+
+592
+00:25:11,420 --> 00:25:12,920
+Beleza, estou dentro do Cloud Code.
+
+593
+00:25:13,000 --> 00:25:14,680
+Você vai vir aqui, printar isso aqui.
+
+594
+00:25:15,200 --> 00:25:16,640
+Você pode tanto printar quanto copiar.
+
+595
+00:25:17,240 --> 00:25:18,519
+Vai colar aqui para ele.
+
+596
+00:25:19,380 --> 00:25:20,299
+Colei aqui para ele.
+
+597
+00:25:20,839 --> 00:25:21,740
+E vai falar para ele.
+
+598
+00:25:23,119 --> 00:25:29,000
+Preciso da sua ajuda para me conectar no meu VPS.
+
+599
+00:25:29,900 --> 00:25:32,079
+Minha senha é...
+
+600
+00:25:32,079 --> 00:25:33,140
+E aí você coloca sua senha aqui.
+
+601
+00:25:34,400 --> 00:25:36,180
+Por que isso aqui abre uma brecha de segurança?
+
+602
+00:25:36,299 --> 00:25:37,720
+Porque você está entregando uma senha para ir lá.
+
+603
+00:25:38,400 --> 00:25:39,460
+Ela vai fazer tudo para você?
+
+604
+00:25:39,960 --> 00:25:40,259
+Vai.
+
+605
+00:25:41,000 --> 00:25:45,700
+Só que a senha que você coloca aqui, se você for fazer desse jeito, coloca uma temporária.
+
+606
+00:25:46,119 --> 00:25:50,099
+Então, coloca uma senha que depois que fizer o processo aqui todo, você vem cá e troca.
+
+607
+00:25:50,859 --> 00:25:51,140
+Tá bom?
+
+608
+00:25:52,220 --> 00:25:53,400
+E aí, o que ele vai fazer agora?
+
+609
+00:25:53,839 --> 00:25:54,819
+Vou fazer um exemplo.
+
+610
+00:25:54,900 --> 00:25:55,920
+Vou colocar uma senha aqui.
+
+611
+00:25:55,920 --> 00:26:01,519
+( SILÊNCIO 6s )
+
+612
+00:26:01,519 --> 00:26:01,920
+Pronto.
+
+613
+00:26:02,119 --> 00:26:03,339
+Copia, cola.
+
+614
+00:26:03,779 --> 00:26:04,619
+Ih, vou ter que escrever de novo.
+
+615
+00:26:08,259 --> 00:26:08,660
+Aí.
+
+616
+00:26:11,000 --> 00:26:12,779
+A senha que eu coloquei foi essa aqui, ó.
+
+617
+00:26:13,740 --> 00:26:16,859
+Google Dadá, um, dois, três, três, dois, um, exclamação.
+
+618
+00:26:17,059 --> 00:26:18,160
+Pronto, Google Dadá.
+
+619
+00:26:18,740 --> 00:26:20,900
+Coloquei a senha para ele, olha só, vou dar Enter.
+
+620
+00:26:23,539 --> 00:26:25,420
+Vocês podem, inclusive, falar para o Cloud assim,
+
+621
+00:26:26,500 --> 00:26:30,220
+à medida que você for fazendo, vai me explicando o que você está fazendo,
+
+622
+00:26:30,299 --> 00:26:32,839
+que aí isso é uma oportunidade de aprendizado também, tá bom?
+
+623
+00:26:33,160 --> 00:26:36,240
+Então ele está vendo aqui, ó, vou verificar se você tem disponível no Windows
+
+624
+00:26:36,240 --> 00:26:39,720
+para conexão SSH, ele está vendo se eu tenho Open SSH Client.
+
+625
+00:26:40,119 --> 00:26:42,279
+Se não tiver, ele mesmo instala também, ele corrige.
+
+626
+00:26:42,740 --> 00:26:47,839
+Testando aqui a conectividade nas portas que a gente indicou para ele.
+
+627
+00:26:47,839 --> 00:26:57,039
+( SILÊNCIO 9s )
+
+628
+00:26:57,039 --> 00:26:59,099
+Pera aí, a Denise mandou o link local.
+
+629
+00:26:59,240 --> 00:27:02,319
+Calma aí, é porque esse é um arquivo, não tem como mandar o link não.
+
+630
+00:27:03,660 --> 00:27:05,980
+Sempre tem, por isso que tem a piada disso aí.
+
+631
+00:27:06,460 --> 00:27:07,920
+Eu vou mandar para vocês aqui de novo.
+
+632
+00:27:10,119 --> 00:27:10,960
+Aqui, ó.
+
+633
+00:27:14,680 --> 00:27:15,319
+Pronto.
+
+634
+00:27:17,480 --> 00:27:20,220
+É a piada do localhost 3000, né?
+
+635
+00:27:22,259 --> 00:27:23,140
+Olha só.
+
+636
+00:27:23,619 --> 00:27:26,539
+O servidor está acessível, a porta 22 respondeu
+
+637
+00:27:26,539 --> 00:27:29,299
+e o cliente SSH já está instalado no seu Windows.
+
+638
+00:27:29,720 --> 00:27:31,480
+Eu não digito senhas em seu nome,
+
+639
+00:27:31,799 --> 00:27:33,940
+então a conexão em si você mesmo executa.
+
+640
+00:27:34,180 --> 00:27:37,079
+Ele ainda foi gentil aqui.
+
+641
+00:27:37,759 --> 00:27:39,279
+Falou, não vou fazer isso para você.
+
+642
+00:27:39,579 --> 00:27:43,599
+Só que olha só, ele tá falando, ó, sua senha ficou exposta nesse chat, recomendo trocar.
+
+643
+00:27:44,019 --> 00:27:47,460
+Vou falar pra ele, pode digitar a senha pra mim.
+
+644
+00:27:48,099 --> 00:27:50,920
+Está tudo bem, estou autorizando.
+
+645
+00:27:53,720 --> 00:27:56,180
+Vamos ver se ele vai ter alguma trava e vai me impedir mesmo.
+
+646
+00:27:58,779 --> 00:28:00,500
+Ah, ele não faz mesmo.
+
+647
+00:28:01,960 --> 00:28:04,880
+É uma linha que eu não cruzo, mesmo com a sua autorização.
+
+648
+00:28:06,559 --> 00:28:09,039
+Tá, então, ele já copiou aqui, ó.
+
+649
+00:28:09,200 --> 00:28:10,400
+Ele já copiou, ele só está falando.
+
+650
+00:28:10,759 --> 00:28:12,299
+Cole isso aqui lá e cola a sua senha.
+
+651
+00:28:12,900 --> 00:28:14,539
+Pelo menos por isso vocês vão ter que passar.
+
+652
+00:28:14,700 --> 00:28:19,880
+Vão ter que digitar a senha naquele bloquinho lá, né?
+
+653
+00:28:19,940 --> 00:28:20,619
+Não vai ter jeito.
+
+654
+00:28:21,019 --> 00:28:21,980
+O que eu vou fazer aqui, né?
+
+655
+00:28:21,980 --> 00:28:23,940
+Já que vazou a senha, vou trocar a senha de novo.
+
+656
+00:28:23,940 --> 00:28:33,700
+( SILÊNCIO 10s )
+
+657
+00:28:33,700 --> 00:28:34,099
+Prontinho.
+
+658
+00:28:35,559 --> 00:28:36,819
+Só seguir a instrução dele.
+
+659
+00:28:36,859 --> 00:28:38,180
+Ele já até colou aqui para mim, ó.
+
+660
+00:28:38,660 --> 00:28:39,819
+O que é que eu tenho que colar lá.
+
+661
+00:28:40,039 --> 00:28:43,880
+Então, vou repetir pela quarta vez e vai ficar fácil, ó.
+
+662
+00:28:43,980 --> 00:28:44,380
+Terminal.
+
+663
+00:28:45,940 --> 00:28:48,380
+Aí agora, se quiserem, né, se estiverem trabalhando com o Cloud,
+
+664
+00:28:48,500 --> 00:28:51,000
+copia aqui, cola aqui, ó.
+
+665
+00:28:51,299 --> 00:28:51,640
+Pronto.
+
+666
+00:28:52,119 --> 00:28:53,339
+Colou, digita a senha.
+
+667
+00:28:54,880 --> 00:28:56,599
+Eu sei que vocês dão conta, beleza?
+
+668
+00:28:57,900 --> 00:28:58,799
+Acredito em vocês.
+
+669
+00:28:59,460 --> 00:29:00,099
+Deixa ele logar.
+
+670
+00:29:00,319 --> 00:29:01,400
+Ah, ainda digitei a senha errada.
+
+671
+00:29:01,740 --> 00:29:02,740
+Deixa eu ver se tá certo agora.
+
+672
+00:29:03,960 --> 00:29:05,460
+Senão eu vou ter que gerar ela de novo.
+
+673
+00:29:05,940 --> 00:29:06,720
+Tá errada de novo.
+
+674
+00:29:08,140 --> 00:29:09,059
+Deixa eu ver...
+
+675
+00:29:09,059 --> 00:29:09,660
+Aí, tá errado.
+
+676
+00:29:09,799 --> 00:29:10,640
+Então, deixa eu trocar aqui.
+
+677
+00:29:10,920 --> 00:29:12,059
+Devo ter digitado ela errada.
+
+678
+00:29:15,700 --> 00:29:16,480
+Alterar a senha.
+
+679
+00:29:16,480 --> 00:29:26,259
+( SILÊNCIO 10s )
+
+680
+00:29:26,259 --> 00:29:28,019
+Inclusive, essa senha, se ela vaza,
+
+681
+00:29:28,240 --> 00:29:30,420
+uma pessoa pode entrar nesse seu computador
+
+682
+00:29:30,420 --> 00:29:32,420
+e pode instalar o que ela quiser lá,
+
+683
+00:29:32,579 --> 00:29:34,259
+inclusive vírus e outras coisas.
+
+684
+00:29:37,420 --> 00:29:37,900
+Malwares.
+
+685
+00:29:38,140 --> 00:29:42,559
+Vamos ver se eu vou ter que fazer de novo ou se eu consigo só logar daqui, vamos ver.
+
+686
+00:29:43,220 --> 00:29:46,079
+Aí, pronto, loguei, tá bom?
+
+687
+00:29:46,079 --> 00:29:53,960
+( SILÊNCIO 8s )
+
+688
+00:29:53,960 --> 00:29:58,319
+Rebuild, come bola no OS, pode ser Ubuntu ou Alma Linux, tá de boa.
+
+689
+00:29:58,859 --> 00:30:02,240
+Agora que a gente tá aqui, pessoal, vamos avançar, a gente precisa avançar, né?

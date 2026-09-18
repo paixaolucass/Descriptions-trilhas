@@ -1,0 +1,4207 @@
+1
+00:00:00,000 --> 00:00:03,540
+Agora que a gente chegou nesse ponto, como que a gente vai fazer?
+
+2
+00:00:03,700 --> 00:00:05,339
+Aqui vem a parte boa.
+
+3
+00:00:05,860 --> 00:00:07,679
+Aqui agora vem a diversão.
+
+4
+00:00:08,300 --> 00:00:08,640
+Por quê?
+
+5
+00:00:09,240 --> 00:00:10,839
+Eu vou começar fazendo um teste aqui.
+
+6
+00:00:11,119 --> 00:00:12,619
+Desse jeito eu nunca fiz, tá?
+
+7
+00:00:12,779 --> 00:00:15,140
+Mas eu quero fazer para ver se funciona.
+
+8
+00:00:15,720 --> 00:00:16,920
+Pronto, loguei.
+
+9
+00:00:17,620 --> 00:00:20,359
+Você consegue acessar junto comigo?
+
+10
+00:00:21,620 --> 00:00:25,679
+Quero sua ajuda para instalar todo o ambiente.
+
+11
+00:00:26,780 --> 00:00:27,760
+Me fale se consegue.
+
+12
+00:00:28,179 --> 00:00:30,219
+Se ele não conseguir por aqui, eu vou do jeito tradicional.
+
+13
+00:00:30,460 --> 00:00:31,480
+Vamos ver se ele vai conseguir.
+
+14
+00:00:31,859 --> 00:00:33,820
+Se ele conseguir, vai facilitar para vocês.
+
+15
+00:00:34,259 --> 00:00:36,520
+Se tiver alguma trava, a gente vai do jeito tradicional mesmo.
+
+16
+00:00:36,520 --> 00:00:40,579
+( SILÊNCIO 4s )
+
+17
+00:00:40,579 --> 00:00:42,100
+Consigo, mas não dentro da sua sessão.
+
+18
+00:00:42,200 --> 00:00:43,020
+Aquele terminal é seu.
+
+19
+00:00:43,259 --> 00:00:44,380
+Não tenho como digitar nele.
+
+20
+00:00:44,439 --> 00:00:46,119
+O que eu faço é abrir meu próprio canal
+
+21
+00:00:46,119 --> 00:00:48,280
+para o mesmo servidor com chave SSH.
+
+22
+00:00:48,280 --> 00:00:49,140
+Aí roda os comandos.
+
+23
+00:00:49,899 --> 00:00:52,100
+Ah, é porque isso aqui a gente ia gerar aqui.
+
+24
+00:00:53,079 --> 00:00:54,060
+Chave de servidor.
+
+25
+00:00:54,460 --> 00:00:56,060
+Só que ele mesmo já está fazendo, está vendo?
+
+26
+00:00:56,200 --> 00:00:58,380
+Então, esse é um jeito simples.
+
+27
+00:00:59,159 --> 00:01:00,600
+Você perde um pouco de controle,
+
+28
+00:01:00,740 --> 00:01:02,340
+por isso que é sempre bom pedir para a IAT
+
+29
+00:01:02,340 --> 00:01:04,040
+explicar o que ela está fazendo, beleza?
+
+30
+00:01:04,219 --> 00:01:05,079
+Sempre importante.
+
+31
+00:01:05,780 --> 00:01:09,019
+Porém, você tem a ajuda dela
+
+32
+00:01:09,019 --> 00:01:10,799
+para ela mesma configurar por você.
+
+33
+00:01:11,599 --> 00:01:12,319
+Então, ele falou aqui,
+
+34
+00:01:12,500 --> 00:01:13,780
+agora eu configuro o atalho,
+
+35
+00:01:14,219 --> 00:01:15,340
+está tudo pronto do meu lado.
+
+36
+00:01:15,439 --> 00:01:17,780
+Agora, falta só autorizar minha chave no servidor.
+
+37
+00:01:18,219 --> 00:01:20,719
+Cole este comando na sua sessão que já está logada.
+
+38
+00:01:20,719 --> 00:01:22,060
+Olha, ele está facilitando.
+
+39
+00:01:22,159 --> 00:01:24,019
+Imagina, você ter que mandar esse comando todo.
+
+40
+00:01:24,159 --> 00:01:24,680
+É o que está aqui.
+
+41
+00:01:25,459 --> 00:01:27,620
+Se vocês descerem aqui pra instalar a chave
+
+42
+00:01:27,620 --> 00:01:29,780
+no servidor. SSH, copy, ID.
+
+43
+00:01:30,500 --> 00:01:32,019
+Depois, MKDIR,
+
+44
+00:01:32,180 --> 00:01:33,859
+menos P, tem que ir colando isso aqui.
+
+45
+00:01:33,980 --> 00:01:35,640
+Passo a passo. O jeito manual é esse.
+
+46
+00:01:36,120 --> 00:01:37,719
+Com o Cloud, ele mesmo
+
+47
+00:01:37,719 --> 00:01:39,620
+gera pra gente. Então, eu vou copiar isso aqui
+
+48
+00:01:39,620 --> 00:01:42,000
+pra ele gerar a chave dele.
+
+49
+00:01:43,980 --> 00:01:45,239
+Vou vir aqui e vou colar.
+
+50
+00:01:45,980 --> 00:01:46,260
+Enter.
+
+51
+00:01:48,120 --> 00:01:49,700
+Pronto. Agora eu volto nele aqui.
+
+52
+00:01:49,840 --> 00:01:51,219
+Quando aparecer OK, me avisa.
+
+53
+00:01:51,540 --> 00:01:53,239
+Apareceu OK, tá vendo? OK.
+
+54
+00:01:55,040 --> 00:01:56,079
+Apareceu, ok.
+
+55
+00:01:56,079 --> 00:02:01,120
+( SILÊNCIO 5s )
+
+56
+00:02:01,120 --> 00:02:03,400
+Agora ele está testando a chave que ele gerou.
+
+57
+00:02:03,400 --> 00:02:07,400
+( SILÊNCIO 4s )
+
+58
+00:02:07,400 --> 00:02:08,060
+Deu o erro.
+
+59
+00:02:08,780 --> 00:02:09,759
+Conectado, o erro foi meu.
+
+60
+00:02:09,860 --> 00:02:12,599
+Misturei a sintaxe do PowerShell dentro do Shell remoto.
+
+61
+00:02:13,060 --> 00:02:14,539
+Vou levantar o estado atual do servidor.
+
+62
+00:02:14,800 --> 00:02:15,740
+Ele vai procurar aqui.
+
+63
+00:02:16,539 --> 00:02:18,580
+Pode acontecer, vamos supor que acontece.
+
+64
+00:02:18,719 --> 00:02:21,539
+Às vezes é normal, principalmente quando você está começando.
+
+65
+00:02:22,280 --> 00:02:24,780
+Às vezes você roda um comando, o Cloud pede um comando para você
+
+66
+00:02:24,780 --> 00:02:26,180
+que estraga o servidor inteiro,
+
+67
+00:02:26,620 --> 00:02:28,900
+aí o que vocês fazem se isso acontecer e ele não conseguir
+
+68
+00:02:28,900 --> 00:02:30,979
+resolver? Vocês fazem o rebuild.
+
+69
+00:02:31,800 --> 00:02:32,699
+Então vocês vêm aqui,
+
+70
+00:02:33,379 --> 00:02:34,620
+desce, aí vai ter aqui
+
+71
+00:02:34,620 --> 00:02:36,860
+SO aplicações, alterar.
+
+72
+00:02:37,259 --> 00:02:38,740
+Clica aqui, clica aqui
+
+73
+00:02:38,740 --> 00:02:40,620
+e faz o rebuild de novo, alterar sistema.
+
+74
+00:02:40,740 --> 00:02:42,860
+Pode colocar o mesmo e pede pra fazer o
+
+75
+00:02:42,860 --> 00:02:44,740
+rebuild. Tá bom? Na verdade nem precisa
+
+76
+00:02:44,740 --> 00:02:46,460
+selecionar aqui, pode só clicar aqui embaixo.
+
+77
+00:02:47,740 --> 00:02:48,780
+Caso quebre alguma
+
+78
+00:02:48,780 --> 00:02:50,719
+coisa e não funcione. Tá bom? Mas aqui eu acho
+
+79
+00:02:50,719 --> 00:02:51,659
+que ele mesmo vai
+
+80
+00:02:51,659 --> 00:02:53,520
+corrigir.
+
+81
+00:02:54,780 --> 00:02:57,680
+aí, beleza, pra quem se perdeu
+
+82
+00:02:57,680 --> 00:02:59,180
+esse jeito que eu tô fazendo aqui
+
+83
+00:02:59,180 --> 00:03:00,960
+com o Cloud, você não precisa
+
+84
+00:03:00,960 --> 00:03:02,580
+desse passo a passo
+
+85
+00:03:02,580 --> 00:03:05,479
+é só você pedir pro Cloud e ele vai gerando
+
+86
+00:03:05,479 --> 00:03:07,199
+pra você, tá vendo? Depois que você
+
+87
+00:03:07,199 --> 00:03:09,280
+logar, então eu loguei aqui, não loguei
+
+88
+00:03:09,280 --> 00:03:11,219
+tô no VPS, eu falei com o Cloud
+
+89
+00:03:11,219 --> 00:03:13,479
+estou logado no meu VPS, preciso
+
+90
+00:03:13,479 --> 00:03:15,800
+da sua ajuda agora pra configurar o ambiente
+
+91
+00:03:15,800 --> 00:03:17,500
+você consegue se conectar
+
+92
+00:03:17,500 --> 00:03:19,139
+comigo? Aí ele vai falar
+
+93
+00:03:19,139 --> 00:03:21,580
+consigo, vou gerar aqui uma chave de servidor
+
+94
+00:03:21,580 --> 00:03:23,020
+aí ele vai te enviar
+
+95
+00:03:23,020 --> 00:03:25,099
+um comando, parecido com esse aqui, ó,
+
+96
+00:03:25,199 --> 00:03:26,699
+mkdir, blá blá blá blá blá blá,
+
+97
+00:03:27,060 --> 00:03:28,740
+você vai pegar, isso aqui, inclusive, ó,
+
+98
+00:03:29,300 --> 00:03:30,400
+não pode vazar, tá?
+
+99
+00:03:31,300 --> 00:03:32,560
+O meu tá vazando aqui,
+
+100
+00:03:33,080 --> 00:03:35,039
+porque eu tô mostrando pra vocês, mas
+
+101
+00:03:35,039 --> 00:03:36,900
+isso aqui é uma chave, como se fosse uma chave
+
+102
+00:03:36,900 --> 00:03:39,180
+de API, é uma chave, é uma chave
+
+103
+00:03:39,180 --> 00:03:41,099
+que permite o cloud entrar
+
+104
+00:03:41,099 --> 00:03:43,039
+via SSH no
+
+105
+00:03:43,039 --> 00:03:44,979
+servidor, tá? Então,
+
+106
+00:03:45,080 --> 00:03:47,080
+depois eu vou fechar isso tudo aqui e resetar
+
+107
+00:03:47,080 --> 00:03:49,219
+o VPS pra vocês, aqui é porque tá tranquilo,
+
+108
+00:03:49,300 --> 00:03:51,000
+eu tô explicando, então é importante
+
+109
+00:03:51,000 --> 00:03:52,240
+pra vocês verem o processo.
+
+110
+00:03:53,020 --> 00:03:58,439
+Então, ele mesmo está detectando aqui as ferramentas instaladas e de segurança.
+
+111
+00:03:58,620 --> 00:04:06,659
+Ele vai ver que está com o básico aqui só do Ubuntu.
+
+112
+00:04:07,139 --> 00:04:09,060
+Ele tem que retornar isso para a gente aqui também.
+
+113
+00:04:10,139 --> 00:04:11,020
+Deixa ele trabalhando aí.
+
+114
+00:04:11,860 --> 00:04:15,099
+Agora, para que serve isso aqui, que foi a dúvida?
+
+115
+00:04:15,919 --> 00:04:17,540
+Para que serve esse guia todo?
+
+116
+00:04:18,759 --> 00:04:22,899
+Você pode, inclusive, se quiser, copiar esse link e jogar no cloud.
+
+117
+00:04:23,000 --> 00:04:27,339
+Falar, eu quero que você siga o passo a passo que tem nessa documentação aqui
+
+118
+00:04:27,339 --> 00:04:28,879
+e configure o VPS para mim.
+
+119
+00:04:29,040 --> 00:04:31,300
+Ele vai configurar tudo que está aqui para vocês.
+
+120
+00:04:31,879 --> 00:04:32,399
+Esse é um jeito.
+
+121
+00:04:32,800 --> 00:04:35,360
+Ou vocês podem seguir aqui, passo a passo.
+
+122
+00:04:35,519 --> 00:04:36,620
+Um, o que é VPS?
+
+123
+00:04:37,019 --> 00:04:37,899
+Como escolher o sistema?
+
+124
+00:04:38,480 --> 00:04:39,300
+O que é o SSH?
+
+125
+00:04:39,800 --> 00:04:40,920
+Primeiro acesso.
+
+126
+00:04:41,459 --> 00:04:43,399
+Chave SSH e o arquivo config.
+
+127
+00:04:44,240 --> 00:04:45,519
+Instalar a chave.
+
+128
+00:04:46,000 --> 00:04:46,899
+Trancar a porta.
+
+129
+00:04:47,300 --> 00:04:48,379
+Camada por camada.
+
+130
+00:04:48,560 --> 00:04:49,720
+como colocar o Docker,
+
+131
+00:04:50,399 --> 00:04:51,819
+como subir suas aplicações,
+
+132
+00:04:52,439 --> 00:04:54,100
+Nginx e HTTPS,
+
+133
+00:04:54,720 --> 00:04:55,699
+como manter no ar,
+
+134
+00:04:56,420 --> 00:04:58,420
+solução de problemas, checklist final.
+
+135
+00:04:59,139 --> 00:05:00,379
+Aqui tem todo
+
+136
+00:05:00,379 --> 00:05:02,300
+o guia que você pode jogar para o
+
+137
+00:05:02,300 --> 00:05:04,399
+Cloud fazer para você. Então eu preparei
+
+138
+00:05:04,399 --> 00:05:05,660
+ali para ajudar.
+
+139
+00:05:06,879 --> 00:05:08,339
+Aí ele está falando aqui, ó, achei algo
+
+140
+00:05:08,339 --> 00:05:10,199
+que precisa da sua atenção antes de instalarmos
+
+141
+00:05:10,199 --> 00:05:11,740
+qualquer coisa, vou investigar.
+
+142
+00:05:12,019 --> 00:05:13,339
+Isso não é normal, vou ver
+
+143
+00:05:13,339 --> 00:05:15,759
+aqui, vou manter a extensão.
+
+144
+00:05:16,540 --> 00:05:17,379
+Falha no scan,
+
+145
+00:05:18,120 --> 00:05:21,699
+Vai usar um script para evitar o inferno de aspas do PowerShell.
+
+146
+00:05:23,480 --> 00:05:26,899
+Até o Cloud fica sem paciência com o terminal, tá vendo?
+
+147
+00:05:28,879 --> 00:05:32,920
+Então, aqui no caso, ele está começando a entender o ambiente,
+
+148
+00:05:33,259 --> 00:05:37,480
+ele está começando a entender aqui o que a gente tem dentro dessa VPS, tá bom?
+
+149
+00:05:37,879 --> 00:05:39,680
+E por que eu estou ensinando para vocês desse jeito?
+
+150
+00:05:39,779 --> 00:05:41,420
+Porque aí não vai ter dor de cabeça depois.
+
+151
+00:05:41,420 --> 00:05:44,720
+Uma vez que a gente conecta o VPS, conecta o Cloud ali dentro,
+
+152
+00:05:45,120 --> 00:05:47,459
+vocês vão ver que o processo é divertido.
+
+153
+00:05:47,959 --> 00:05:49,980
+Qual que é o processo? Depois que o cloud estiver
+
+154
+00:05:49,980 --> 00:05:51,579
+dentro do VPS com tudo certinho,
+
+155
+00:05:52,199 --> 00:05:53,199
+você vai fazer isso aqui, ó.
+
+156
+00:05:54,240 --> 00:05:55,939
+Puxa a pasta, joga lá e fala,
+
+157
+00:05:55,980 --> 00:05:58,000
+olha só, esse aqui é a minha
+
+158
+00:05:58,000 --> 00:06:00,500
+automação, ela tá funcionando localmente
+
+159
+00:06:00,500 --> 00:06:01,579
+e eu quero
+
+160
+00:06:01,579 --> 00:06:04,100
+migrar ela pro meu VPS.
+
+161
+00:06:04,420 --> 00:06:05,800
+Pra ela funcionar dentro do meu VPS.
+
+162
+00:06:06,160 --> 00:06:07,759
+Faz toda a configuração pra mim,
+
+163
+00:06:08,220 --> 00:06:10,319
+deixa tudo pronto. O cloud vai trabalhar.
+
+164
+00:06:11,160 --> 00:06:12,079
+No que ele precisar
+
+165
+00:06:12,079 --> 00:06:14,360
+de vocês, ele vai pedindo
+
+166
+00:06:14,360 --> 00:06:15,740
+e vocês vão entregando.
+
+167
+00:06:16,279 --> 00:06:18,480
+Às vezes é um comando que você tem que mandar no terminal.
+
+168
+00:06:20,180 --> 00:06:21,420
+Então, vamos desenhar?
+
+169
+00:06:24,360 --> 00:06:26,000
+Estou lá no meu sistema operacional.
+
+170
+00:06:27,060 --> 00:06:28,779
+Abri o terminal no meu sistema operacional.
+
+171
+00:06:29,879 --> 00:06:32,579
+Nesse terminal, eu loguei via SSH.
+
+172
+00:06:33,139 --> 00:06:37,920
+SSH, porta, arroba, IP, menos P, porta.
+
+173
+00:06:38,560 --> 00:06:39,519
+A gente logou nele.
+
+174
+00:06:39,879 --> 00:06:40,720
+Colocamos a senha.
+
+175
+00:06:43,720 --> 00:06:44,920
+E ótimo.
+
+176
+00:06:45,199 --> 00:06:47,399
+Lá no final ele coloca que a gente está logado.
+
+177
+00:06:48,120 --> 00:06:48,579
+Então pronto.
+
+178
+00:06:48,899 --> 00:06:50,220
+Agora a gente pode começar a digitar.
+
+179
+00:06:50,959 --> 00:06:52,339
+Isso aqui a gente deixa no cantinho.
+
+180
+00:06:53,000 --> 00:06:53,800
+E aí o que a gente faz?
+
+181
+00:06:54,240 --> 00:06:55,300
+No nosso PC ainda.
+
+182
+00:06:55,899 --> 00:06:56,439
+Abre o Cloud.
+
+183
+00:06:57,439 --> 00:06:58,339
+Fala com o Cloud agora.
+
+184
+00:06:59,680 --> 00:07:00,980
+Cloud, meu querido.
+
+185
+00:07:02,300 --> 00:07:03,279
+Finge que você é o Cloud.
+
+186
+00:07:04,019 --> 00:07:04,519
+Fala com ele aí.
+
+187
+00:07:06,959 --> 00:07:08,720
+Estou conectado no meu SSH.
+
+188
+00:07:08,720 --> 00:07:11,240
+Vou facilitar para vocês.
+
+189
+00:07:12,139 --> 00:07:13,240
+Aí vocês podem printar.
+
+190
+00:07:15,199 --> 00:07:22,480
+Estou conectado no meu VPS via SSH
+
+191
+00:07:22,480 --> 00:07:28,160
+Quero que você se conecte para trabalhar no VPS
+
+192
+00:07:28,160 --> 00:07:31,480
+Junto comigo
+
+193
+00:07:31,480 --> 00:07:34,920
+Utilize uma chave
+
+194
+00:07:34,920 --> 00:07:37,300
+Pronto
+
+195
+00:07:40,300 --> 00:07:41,139
+Passo 1
+
+196
+00:07:41,139 --> 00:07:45,040
+Conectar no VPS via SSH
+
+197
+00:07:45,800 --> 00:07:46,800
+Então tá aí, ó, passo a passo.
+
+198
+00:07:48,199 --> 00:07:48,600
+Conectou?
+
+199
+00:07:49,259 --> 00:07:49,800
+Esse é o um.
+
+200
+00:07:51,360 --> 00:07:52,120
+Passo dois.
+
+201
+00:07:52,839 --> 00:07:54,180
+Falar pro Claude que tá conectado.
+
+202
+00:07:55,180 --> 00:07:56,000
+Passo três.
+
+203
+00:07:58,199 --> 00:08:00,339
+O Claude, nosso querido amigo Claude,
+
+204
+00:08:01,240 --> 00:08:02,259
+vai enviar pra gente
+
+205
+00:08:02,259 --> 00:08:04,060
+a voz do Temer aí, ó.
+
+206
+00:08:06,800 --> 00:08:07,699
+Eu fico zoando.
+
+207
+00:08:08,759 --> 00:08:11,000
+Aquele discurso que ele vai fazer, que parece que ele é o Drácula.
+
+208
+00:08:11,000 --> 00:08:11,660
+Vocês já viram esse?
+
+209
+00:08:12,839 --> 00:08:15,240
+Mas aí aqui, coloco aqui o seguinte.
+
+210
+00:08:16,420 --> 00:08:21,819
+A IA vai entregar um MKG, acho que é MKG, deixa eu ver aqui.
+
+211
+00:08:23,139 --> 00:08:23,620
+Isso.
+
+212
+00:08:24,399 --> 00:08:31,019
+Ela vai entregar um MKG, MKG, menos P, três pontinhos.
+
+213
+00:08:33,320 --> 00:08:37,200
+Copiar e colar no terminal do SSH.
+
+214
+00:08:39,279 --> 00:08:41,120
+Mas vai pegar e vai colar lá.
+
+215
+00:08:42,840 --> 00:08:44,259
+Com isso, ela vai gerar a chave dela.
+
+216
+00:08:44,779 --> 00:08:47,120
+E com a chave dela, você vai ter o seu Cloud bonitinho.
+
+217
+00:08:47,120 --> 00:08:49,340
+Um, dois, três, quatro.
+
+218
+00:08:53,080 --> 00:08:58,279
+Cloud conectado no VPS e a chave.
+
+219
+00:08:58,279 --> 00:09:02,940
+( SILÊNCIO 5s )
+
+220
+00:09:02,940 --> 00:09:03,580
+Beleza?
+
+221
+00:09:05,820 --> 00:09:10,679
+A título de curiosidade é o mesmo processo se for com o cursor ou com o Gemini?
+
+222
+00:09:12,000 --> 00:09:33,620
+É, é, ao invés do cloud aqui, esse é o processo, só que tem um outro jeito que eu quero ensinar para vocês também, para a gente ter de conexão aqui, isso Miguel, isso mesmo, se vocês pegarem o arquivo que eu enviei para vocês e mandar no cloud, o cloud vai dar passo a passo para vocês e ele até executa tudo que ele pode,
+
+223
+00:09:33,620 --> 00:09:36,279
+vou mandar de novo o arquivo
+
+224
+00:09:36,279 --> 00:09:38,440
+e a gente vai mandar no grupo também
+
+225
+00:09:38,440 --> 00:09:40,379
+tá aqui ó, páginas
+
+226
+00:09:40,379 --> 00:09:41,740
+vps ssh
+
+227
+00:09:41,740 --> 00:09:44,419
+mandei no chat de novo o arquivo, ó o Miguel já mandou
+
+228
+00:09:44,419 --> 00:09:46,019
+vocês estão rápidos, isso aí
+
+229
+00:09:46,019 --> 00:09:47,840
+tá aí
+
+230
+00:09:47,840 --> 00:09:49,519
+o arquivo pra vocês
+
+231
+00:09:49,519 --> 00:09:52,600
+só que tem um outro jeito, deixa eu ver aqui se o meu acabou
+
+232
+00:09:52,600 --> 00:09:54,740
+aqui ó, beleza, olha que interessante
+
+233
+00:09:54,740 --> 00:09:55,639
+depois que ele acabar
+
+234
+00:09:55,639 --> 00:09:58,639
+usou o script, preciso confirmar
+
+235
+00:09:58,639 --> 00:10:00,379
+a origem disso, diagnóstico fechado
+
+236
+00:10:00,379 --> 00:10:02,460
+consegui sim, e ainda bem que eu li
+
+237
+00:10:02,460 --> 00:10:04,379
+antes de instalar qualquer coisa, porque
+
+238
+00:10:04,379 --> 00:10:06,399
+o servidor estava com três binários de
+
+239
+00:10:06,399 --> 00:10:08,480
+sistema quebrados. O que estava acontecendo?
+
+240
+00:10:08,639 --> 00:10:10,720
+Ele trouxe Git, UFW, FailBan,
+
+241
+00:10:11,100 --> 00:10:12,440
+tinham sido substituídos
+
+242
+00:10:12,440 --> 00:10:14,500
+por arquivos de texto de 6 a 18 bytes,
+
+243
+00:10:14,820 --> 00:10:16,100
+cada um contendo o próprio nome.
+
+244
+00:10:17,080 --> 00:10:17,500
+Como o Bash
+
+245
+00:10:17,500 --> 00:10:20,120
+interpretava isso como script, executava Git,
+
+246
+00:10:20,200 --> 00:10:22,320
+chamava Git, chamava Git, até o kernel
+
+247
+00:10:22,320 --> 00:10:23,960
+matar o processo por falta de memória.
+
+248
+00:10:24,259 --> 00:10:26,120
+Foi o que travou meus primeiros comandos. Então ele já até
+
+249
+00:10:26,120 --> 00:10:27,919
+identificou um erro de configuração
+
+250
+00:10:27,919 --> 00:10:30,120
+no VPS.
+
+251
+00:10:30,799 --> 00:10:32,440
+Não foi invasão. Verifiquei
+
+252
+00:10:32,440 --> 00:10:34,740
+antes de concluir. Os três arquivos foram alterados
+
+253
+00:10:34,740 --> 00:10:36,340
+no mesmo segundo de hoje,
+
+254
+00:10:36,440 --> 00:10:38,519
+10h55. Aí ele está
+
+255
+00:10:38,519 --> 00:10:40,320
+colocando aqui, nenhum processo estranho,
+
+256
+00:10:40,419 --> 00:10:42,179
+tá bom. Reinstalei os três pacotes.
+
+257
+00:10:42,340 --> 00:10:44,340
+Está tudo funcional de novo. Git,
+
+258
+00:10:44,700 --> 00:10:46,179
+o FW, fail to ban.
+
+259
+00:10:46,620 --> 00:10:48,539
+Vale abrir um chamado na HostGator
+
+260
+00:10:48,539 --> 00:10:50,519
+relatando isso. A automação deles
+
+261
+00:10:50,519 --> 00:10:52,399
+pode rodar de novo e repetir
+
+262
+00:10:52,399 --> 00:10:54,379
+o estrago. Ou seja, ele identificou um erro
+
+263
+00:10:54,379 --> 00:10:56,399
+aqui na automação
+
+264
+00:10:56,399 --> 00:10:58,360
+da HostGator. Aí vem aqui,
+
+265
+00:10:58,539 --> 00:11:00,639
+estado atual do servidor, sistema operacional,
+
+266
+00:11:00,799 --> 00:11:02,360
+Ubuntu, recurso, CPU,
+
+267
+00:11:02,440 --> 00:11:03,899
+1, igual a gente viu lá,
+
+268
+00:11:04,259 --> 00:11:06,299
+1.9 de giga de RAM, que é igual a gente viu,
+
+269
+00:11:06,419 --> 00:11:08,139
+arredondado para 2, 49
+
+270
+00:11:08,139 --> 00:11:10,480
+giga de disco, porque são 50, mas
+
+271
+00:11:10,480 --> 00:11:12,460
+4 gigas já estão sendo usados.
+
+272
+00:11:12,899 --> 00:11:14,019
+Firewall, não tem.
+
+273
+00:11:14,539 --> 00:11:15,840
+SSH, porta 22.
+
+274
+00:11:16,419 --> 00:11:18,399
+Failban, ativo, mas já com
+
+275
+00:11:18,399 --> 00:11:20,460
+as JLs padrões, é por segurança
+
+276
+00:11:20,460 --> 00:11:22,460
+também. E o que tem instalado?
+
+277
+00:11:22,820 --> 00:11:24,480
+Praticamente nada. Servidor
+
+278
+00:11:24,480 --> 00:11:26,379
+limpo. Três pontos de segurança
+
+279
+00:11:26,379 --> 00:11:28,440
+que eu recomendo tratar antes de seguir
+
+280
+00:11:28,440 --> 00:11:30,220
+a aplicação. Ativar o firewall,
+
+281
+00:11:30,220 --> 00:11:32,080
+criar um usuário
+
+282
+00:11:32,080 --> 00:11:34,379
+não root com sudo e desativar
+
+283
+00:11:34,379 --> 00:11:36,320
+login por senha, depois que a chave
+
+284
+00:11:36,320 --> 00:11:38,279
+do seu usuário estiver instalada, se não
+
+285
+00:11:38,279 --> 00:11:40,179
+você se tranca do lado de fora
+
+286
+00:11:40,179 --> 00:11:42,379
+nenhum desses eu mexo sem o seu aval
+
+287
+00:11:42,379 --> 00:11:44,259
+então ele está dando alguns conselhos
+
+288
+00:11:44,259 --> 00:11:46,360
+de segurança aqui, a gente pode pedir
+
+289
+00:11:46,360 --> 00:11:48,179
+para ele como fazer isso
+
+290
+00:11:48,179 --> 00:11:50,179
+porém, o meu objetivo
+
+291
+00:11:50,179 --> 00:11:52,220
+aqui hoje, mais do que fazer
+
+292
+00:11:52,220 --> 00:11:53,919
+as configurações de segurança
+
+293
+00:11:53,919 --> 00:11:56,159
+é colocar o sistema
+
+294
+00:11:56,159 --> 00:11:57,860
+funcionando no VPS com vocês
+
+295
+00:11:57,860 --> 00:12:00,600
+e colocar pelo menos um assistente
+
+296
+00:12:00,600 --> 00:12:02,000
+ali, a gente vai colocar para vocês
+
+297
+00:12:02,000 --> 00:12:04,320
+o Cloud Code, tá bom?
+
+298
+00:12:04,820 --> 00:12:06,240
+Pra isso, galera,
+
+299
+00:12:07,039 --> 00:12:08,220
+vem a parte importante agora.
+
+300
+00:12:08,299 --> 00:12:10,240
+Tem dois caminhos. Tem o caminho fácil
+
+301
+00:12:10,240 --> 00:12:11,779
+e tem o caminho manual.
+
+302
+00:12:12,879 --> 00:12:13,820
+O caminho manual,
+
+303
+00:12:14,320 --> 00:12:16,419
+ele não é difícil, ele é simples.
+
+304
+00:12:17,700 --> 00:12:18,179
+Basicamente,
+
+305
+00:12:18,879 --> 00:12:20,240
+uma vez que a gente tá aqui dentro do
+
+306
+00:12:20,240 --> 00:12:22,179
+sistema, a gente pode rodar o
+
+307
+00:12:22,179 --> 00:12:23,340
+comando que a gente quiser.
+
+308
+00:12:24,220 --> 00:12:26,080
+Então, eu quero que vocês pensem o seguinte. Respira
+
+309
+00:12:26,080 --> 00:12:27,100
+fundo e peça o seguinte.
+
+310
+00:12:27,700 --> 00:12:30,000
+Como que faz se eu quiser instalar o Cloud
+
+311
+00:12:30,000 --> 00:12:31,759
+aqui? Se eu quiser
+
+312
+00:12:31,759 --> 00:12:33,360
+instalar o Hermes aqui,
+
+313
+00:12:34,059 --> 00:12:34,980
+como que faz para instalar?
+
+314
+00:12:35,740 --> 00:12:37,580
+Do mesmo jeito que você
+
+315
+00:12:37,580 --> 00:12:39,879
+instalaria se estivesse no seu computador
+
+316
+00:12:39,879 --> 00:12:42,000
+local. Como que a gente instala?
+
+317
+00:12:42,820 --> 00:12:44,179
+A gente vai lá na documentação
+
+318
+00:12:44,179 --> 00:12:45,820
+e pega um código e roda
+
+319
+00:12:45,820 --> 00:12:46,940
+esse código no terminal.
+
+320
+00:12:48,259 --> 00:12:49,879
+Lembram disso? Então,
+
+321
+00:12:50,220 --> 00:12:51,000
+eu venho aqui,
+
+322
+00:12:53,700 --> 00:12:54,179
+quero instalar
+
+323
+00:12:54,179 --> 00:12:55,960
+Cloud Code. O que que tem
+
+324
+00:12:55,960 --> 00:12:58,019
+o Cloud Code? Qual que é a primeira coisa
+
+325
+00:12:58,019 --> 00:12:59,679
+que ele entrega? Olha aqui,
+
+326
+00:13:00,000 --> 00:13:01,559
+Instalação nativa
+
+327
+00:13:01,559 --> 00:13:04,519
+Linux, a gente está usando Ubuntu
+
+328
+00:13:04,519 --> 00:13:06,620
+Você vai copiar isso aqui
+
+329
+00:13:06,620 --> 00:13:07,980
+E vai colar
+
+330
+00:13:07,980 --> 00:13:10,139
+Copia aqui e cola aqui
+
+331
+00:13:10,139 --> 00:13:11,940
+Só que qual que é o problema?
+
+332
+00:13:12,120 --> 00:13:13,919
+Se eu mandar aqui vai dar problema, por quê?
+
+333
+00:13:14,740 --> 00:13:16,840
+O que a gente precisa para instalar o Cloud?
+
+334
+00:13:17,460 --> 00:13:19,519
+Git e Node
+
+335
+00:13:19,519 --> 00:13:21,440
+Então, qual que é o processo?
+
+336
+00:13:21,559 --> 00:13:23,860
+Que eu inclusive ensinei para vocês, tem um vídeo lá no YouTube
+
+337
+00:13:23,860 --> 00:13:26,820
+Você começa pelo Node
+
+338
+00:13:26,820 --> 00:13:28,000
+Ou pelo Git
+
+339
+00:13:28,000 --> 00:13:29,320
+Abre o Node aqui
+
+340
+00:13:29,320 --> 00:13:44,200
+O que o Node tem? Ele tem isso para baixar, mas ele também tem via comando, se você não quiser fazer baixando assim, que é o Node via CLI, aí você vai copiar o Node CLI, você pode até colocar, né, Node CLI Installed.
+
+341
+00:13:44,200 --> 00:13:49,279
+Cadê
+
+342
+00:13:49,279 --> 00:13:52,379
+Esse é o binário
+
+343
+00:13:52,379 --> 00:13:52,980
+Aqui, ó
+
+344
+00:13:52,980 --> 00:13:58,019
+Isso mesmo, aqui, ó
+
+345
+00:13:58,019 --> 00:13:59,000
+A gente vai copiar
+
+346
+00:13:59,000 --> 00:14:00,480
+Aqui, na verdade, ele tá pra PowerShell
+
+347
+00:14:00,480 --> 00:14:03,899
+Eu preciso dele pra Linux
+
+348
+00:14:03,899 --> 00:14:05,039
+Beleza? Aqui, ó
+
+349
+00:14:05,039 --> 00:14:05,759
+Tem um importante
+
+350
+00:14:05,759 --> 00:14:07,659
+Aqui vai ser usando o Docker
+
+351
+00:14:07,659 --> 00:14:09,580
+Aí ele tem algumas opções
+
+352
+00:14:09,580 --> 00:14:13,480
+Docker, Vue, NVM, FNM
+
+353
+00:14:13,480 --> 00:14:16,159
+são as recomendadas e as de
+
+354
+00:14:16,159 --> 00:14:16,799
+comunidade.
+
+355
+00:14:18,240 --> 00:14:19,960
+Posso deixar Docker com NPM,
+
+356
+00:14:20,340 --> 00:14:21,960
+só que tem uns detalhes aqui que, na verdade,
+
+357
+00:14:23,480 --> 00:14:24,059
+eu acho que vai
+
+358
+00:14:24,059 --> 00:14:25,799
+complicar para vocês se fizer desse jeito.
+
+359
+00:14:25,860 --> 00:14:28,080
+Eu só vou explicar para vocês entenderem
+
+360
+00:14:28,080 --> 00:14:28,899
+a lógica, tá?
+
+361
+00:14:30,179 --> 00:14:31,960
+Basicamente, aqui, a gente
+
+362
+00:14:31,960 --> 00:14:34,279
+escolhe um instalador,
+
+363
+00:14:34,500 --> 00:14:36,100
+aí tem aqui esses que baixam o pacote,
+
+364
+00:14:36,820 --> 00:14:37,659
+só que tem um detalhe.
+
+365
+00:14:38,580 --> 00:14:39,940
+Para fazer isso aqui, você tem
+
+366
+00:14:39,940 --> 00:14:41,779
+sempre uma camada anterior, entendeu?
+
+367
+00:14:41,799 --> 00:14:43,720
+a gente quer instalar o Cloud, mas antes tem que ter
+
+368
+00:14:43,720 --> 00:14:45,120
+o Node, antes tem que ter o Git.
+
+369
+00:14:45,600 --> 00:14:47,679
+E esse jeito aqui, manual, se você não
+
+370
+00:14:47,679 --> 00:14:49,679
+entende o que está fazendo, ah, mas eu nem sei direito o que é
+
+371
+00:14:49,679 --> 00:14:51,620
+NPM ainda, será que é NPM
+
+372
+00:14:51,620 --> 00:14:53,700
+Yarn, PNPM, será que
+
+373
+00:14:53,700 --> 00:14:55,500
+é Docker, será que eu uso outro?
+
+374
+00:14:56,139 --> 00:14:57,580
+Aqui a gente já sabe que é Linux.
+
+375
+00:14:57,980 --> 00:14:59,700
+Como que eu configuro o jeito certo? Porque, olha,
+
+376
+00:14:59,740 --> 00:15:01,740
+se vocês repararem, cada um que eu coloco muda o
+
+377
+00:15:01,740 --> 00:15:03,759
+código. É um código diferente.
+
+378
+00:15:04,299 --> 00:15:05,940
+E se você não tiver a dependência
+
+379
+00:15:05,940 --> 00:15:07,700
+instalada, o sistema que você vai
+
+380
+00:15:07,700 --> 00:15:08,899
+usar instalado, não funciona.
+
+381
+00:15:10,120 --> 00:15:16,720
+Ou seja, esse jeito manual não é recomendado para vocês que não entendem essa parte técnica.
+
+382
+00:15:17,120 --> 00:15:17,860
+Mas tem como.
+
+383
+00:15:18,419 --> 00:15:20,299
+Só para vocês entenderem a lógica, como que seria?
+
+384
+00:15:20,820 --> 00:15:23,440
+Pega esse código, instala ele aqui.
+
+385
+00:15:23,899 --> 00:15:25,960
+Aí, por exemplo, começa instalando o Docker.
+
+386
+00:15:26,220 --> 00:15:27,759
+Então, vem cá, Docker CLI.
+
+387
+00:15:28,820 --> 00:15:29,620
+Aí, beleza.
+
+388
+00:15:29,740 --> 00:15:33,220
+Você consegue instalar o Docker CLI seguindo a documentação.
+
+389
+00:15:33,360 --> 00:15:34,019
+Deixa eu pegar aqui.
+
+390
+00:15:34,019 --> 00:15:39,279
+( SILÊNCIO 5s )
+
+391
+00:15:39,279 --> 00:15:41,659
+Não, não quero dar host editor, não.
+
+392
+00:15:42,039 --> 00:15:43,360
+Até que poderia ser também, né?
+
+393
+00:15:43,360 --> 00:15:56,799
+( SILÊNCIO 13s )
+
+394
+00:15:56,799 --> 00:16:02,519
+Ó, Linux, Ubuntu, aí ó.
+
+395
+00:16:03,879 --> 00:16:07,360
+Então, copia isso aqui, cola lá, instala o Docker,
+
+396
+00:16:07,460 --> 00:16:09,000
+depois do Docker, instala o Node,
+
+397
+00:16:09,100 --> 00:16:10,980
+depois instala o Git, depois que você instalou
+
+398
+00:16:10,980 --> 00:16:12,820
+esses, você instala o Cloud, o Hermes,
+
+399
+00:16:12,840 --> 00:16:15,000
+ou o que você quiser. Mas olha quantas etapas.
+
+400
+00:16:15,279 --> 00:16:16,100
+Vocês vão ficar doidos.
+
+401
+00:16:17,080 --> 00:16:18,659
+Tem como fazer, mas vocês vão ficar doidos.
+
+402
+00:16:19,159 --> 00:16:21,100
+Qual que é o jeito maravilhoso e simples de fazer isso?
+
+403
+00:16:21,559 --> 00:16:22,940
+Usando o Cloud Code que está no seu
+
+404
+00:16:22,940 --> 00:16:25,100
+computador. Então, a gente já
+
+405
+00:16:25,100 --> 00:16:26,460
+conectou o Cloud Code aqui.
+
+406
+00:16:27,019 --> 00:16:28,820
+Ao invés de usar o terminal, isso aqui eu só deixo aqui,
+
+407
+00:16:28,820 --> 00:16:30,559
+deixa no cantinho. Pronto, estou logado.
+
+408
+00:16:31,000 --> 00:16:32,860
+Volto aqui no Cloud Code e eu vou
+
+409
+00:16:32,860 --> 00:16:34,279
+falar para ele o que eu quero que ele instale.
+
+410
+00:16:34,759 --> 00:16:36,779
+E ele vai instalar tudo para a gente que a gente precisa
+
+411
+00:16:36,779 --> 00:16:38,440
+aqui. Muito mais fácil.
+
+412
+00:16:39,679 --> 00:16:40,960
+Então, o que a gente pode fazer?
+
+413
+00:16:41,120 --> 00:16:42,779
+Um dos caminhos é vocês seguirem com
+
+414
+00:16:42,779 --> 00:16:44,580
+segurança aqui. Falar, não, vou seguir aqui
+
+415
+00:16:44,580 --> 00:16:46,419
+a segurança. O VPS,
+
+416
+00:16:46,679 --> 00:16:48,779
+ele é seguro dentro do que é
+
+417
+00:16:48,779 --> 00:16:50,700
+possível ser seguro no servidor.
+
+418
+00:16:51,899 --> 00:16:52,820
+E aí, por isso que quando a gente
+
+419
+00:16:52,820 --> 00:16:54,559
+fala de segurança, eu falo muito isso na vanguarda.
+
+420
+00:16:54,860 --> 00:16:56,600
+Segurança começa com termos de uso
+
+421
+00:16:56,600 --> 00:16:58,779
+bem escritos, política de privacidade bem escrita,
+
+422
+00:16:58,860 --> 00:17:00,740
+para os seus clientes entenderem como você trabalha.
+
+423
+00:17:01,559 --> 00:17:02,600
+Aí você abstrai
+
+424
+00:17:02,600 --> 00:17:04,940
+quais são as responsabilidades de cada um.
+
+425
+00:17:05,619 --> 00:17:09,220
+Então tem a sua responsabilidade, mas tem a responsabilidade da HostGator também,
+
+426
+00:17:09,759 --> 00:17:13,440
+do servidor onde você está hospedando, e por aí vai, tem vários níveis, tá bom?
+
+427
+00:17:14,440 --> 00:17:17,319
+Mas é assim que funciona, é assim que trabalha,
+
+428
+00:17:17,319 --> 00:17:21,140
+se você quiser fazer com segurança, você configura uma segurança ainda melhor aqui dentro,
+
+429
+00:17:21,220 --> 00:17:23,960
+tem como trabalhar tudo isso, pode pedir o Cloud, ele vai ajudar vocês.
+
+430
+00:17:24,500 --> 00:17:30,279
+Aqui, eu não vou, por enquanto, fazer uma camada de chave com segurança,
+
+431
+00:17:30,539 --> 00:17:33,319
+igual ele fez ali, vocês podem seguir, mas eu vou ensinar para vocês,
+
+432
+00:17:33,380 --> 00:17:34,660
+que é o mais importante aqui para agora,
+
+433
+00:17:35,200 --> 00:17:36,740
+como instalar o Cloud ali dentro,
+
+434
+00:17:37,200 --> 00:17:39,759
+como instalar, aí quem quiser instalar o Hermes instala,
+
+435
+00:17:39,880 --> 00:17:42,480
+quem quiser instalar o sistema que achar melhor instala,
+
+436
+00:17:43,079 --> 00:17:46,420
+mas eu quero principalmente colocar a automação ali dentro.
+
+437
+00:17:47,420 --> 00:17:49,380
+E aí vocês vão ver aqui como funciona.
+
+438
+00:17:49,599 --> 00:17:50,460
+O que eu vou falar para ele?
+
+439
+00:17:51,460 --> 00:17:56,660
+Quero fazer a migração de uma automação
+
+440
+00:17:56,660 --> 00:17:58,839
+que tenho aqui localmente.
+
+441
+00:17:58,839 --> 00:18:01,059
+Aí eu posso puxar ela para cá.
+
+442
+00:18:03,380 --> 00:18:06,900
+anexei a pasta
+
+443
+00:18:06,900 --> 00:18:10,319
+mas para isso
+
+444
+00:18:10,319 --> 00:18:12,599
+preciso que
+
+445
+00:18:12,599 --> 00:18:14,200
+você configure
+
+446
+00:18:14,200 --> 00:18:16,180
+o ambiente da
+
+447
+00:18:16,180 --> 00:18:17,240
+VPS
+
+448
+00:18:17,240 --> 00:18:20,960
+além da automação
+
+449
+00:18:20,960 --> 00:18:24,480
+quero rodando
+
+450
+00:18:24,480 --> 00:18:26,200
+na VPS um
+
+451
+00:18:26,200 --> 00:18:28,200
+cloud code
+
+452
+00:18:28,200 --> 00:18:30,599
+então preciso
+
+453
+00:18:30,599 --> 00:18:32,079
+da sua ajuda para
+
+454
+00:18:32,079 --> 00:18:33,420
+configurar
+
+455
+00:18:33,420 --> 00:18:36,140
+o ambiente.
+
+456
+00:18:38,180 --> 00:18:38,700
+Git
+
+457
+00:18:38,700 --> 00:18:39,559
+Node.
+
+458
+00:18:41,619 --> 00:18:42,140
+Antes,
+
+459
+00:18:42,380 --> 00:18:45,700
+antes de instalar
+
+460
+00:18:45,700 --> 00:18:46,660
+o Cloud.
+
+461
+00:18:47,240 --> 00:18:49,240
+Para Hermes, precisa de Git e de Node
+
+462
+00:18:49,240 --> 00:18:51,099
+também. Para Open Cloud,
+
+463
+00:18:51,240 --> 00:18:52,640
+precisa de Git e Node também.
+
+464
+00:18:53,220 --> 00:18:55,259
+Para Buzz, precisa de Git e Node
+
+465
+00:18:55,259 --> 00:18:57,359
+também. Para o Paperclip, precisa
+
+466
+00:18:57,359 --> 00:18:59,259
+de Git e Node também. Então, por isso que eu estou falando
+
+467
+00:18:59,259 --> 00:19:00,940
+para ele já instalar Git e Node aqui para a gente, tá?
+
+468
+00:19:01,799 --> 00:19:03,279
+Antes de instalar o Cloud.
+
+469
+00:19:03,900 --> 00:19:11,200
+Por enquanto, não precisa subir a automação inteira para lá.
+
+470
+00:19:11,200 --> 00:19:15,559
+Vamos primeiro preparar o ambiente básico.
+
+471
+00:19:16,200 --> 00:19:19,299
+Git, Node e Docker.
+
+472
+00:19:20,359 --> 00:19:21,500
+Faz isso para mim.
+
+473
+00:19:22,980 --> 00:19:25,759
+Aí está aí, vocês podem tirar print dessa tela também, se quiser.
+
+474
+00:19:25,759 --> 00:19:31,799
+( SILÊNCIO 6s )
+
+475
+00:19:31,799 --> 00:19:33,059
+dê Enter.
+
+476
+00:19:34,319 --> 00:19:34,920
+No final,
+
+477
+00:19:35,980 --> 00:19:38,079
+o jeito mais simples de trabalhar com isso
+
+478
+00:19:38,079 --> 00:19:40,200
+é deixando o Cloud Code ajudar vocês.
+
+479
+00:19:40,319 --> 00:19:41,740
+Ou o Codex, ou o Gemini,
+
+480
+00:19:41,920 --> 00:19:42,720
+que vocês acharem melhor.
+
+481
+00:19:43,259 --> 00:19:45,339
+Mas o mais difícil vocês já fizeram.
+
+482
+00:19:45,420 --> 00:19:47,559
+Eu quero que vocês se sintam felizes por isso.
+
+483
+00:19:47,940 --> 00:19:50,059
+Vocês têm um computador pessoal seus
+
+484
+00:19:50,059 --> 00:19:51,900
+conectado numa VPS.
+
+485
+00:19:52,759 --> 00:19:53,960
+Isso já coloca vocês
+
+486
+00:19:53,960 --> 00:19:55,019
+num outro patamar agora.
+
+487
+00:19:55,579 --> 00:19:57,740
+Vocês já sabem que podem escolher VPS
+
+488
+00:19:57,740 --> 00:19:59,779
+diferentes, com poder computacional diferente.
+
+489
+00:20:00,180 --> 00:20:01,779
+Vocês entenderam como que a lógica
+
+490
+00:20:01,779 --> 00:20:03,759
+funciona? É mais simples do que
+
+491
+00:20:03,759 --> 00:20:05,480
+parece? É um monte de termo difícil?
+
+492
+00:20:05,940 --> 00:20:07,140
+É, mas é simples.
+
+493
+00:20:07,519 --> 00:20:09,539
+É um túnel que você abre do seu PC local
+
+494
+00:20:09,539 --> 00:20:10,920
+pra um PC virtual.
+
+495
+00:20:11,900 --> 00:20:13,759
+E aí esse túnel se chama SSH.
+
+496
+00:20:14,160 --> 00:20:15,940
+Você conecta ali, já expliquei
+
+497
+00:20:15,940 --> 00:20:17,619
+pra vocês, muito fácil, dá pra seguir
+
+498
+00:20:17,619 --> 00:20:19,680
+o vídeo depois e pronto. Você já tá
+
+499
+00:20:19,680 --> 00:20:21,720
+dentro do seu VPS. Agora é só
+
+500
+00:20:21,720 --> 00:20:23,640
+uma questão de configurar
+
+501
+00:20:23,640 --> 00:20:25,740
+esse VPS do jeito que é melhor pro seu
+
+502
+00:20:25,740 --> 00:20:27,380
+projeto. É só isso.
+
+503
+00:20:28,059 --> 00:20:29,559
+Só isso que a gente tá fazendo aqui agora.
+
+504
+00:20:29,880 --> 00:20:32,819
+Então, tudo isso que eu estou configurando aqui depende de cada projeto,
+
+505
+00:20:33,119 --> 00:20:37,140
+mas está tudo bem, porque vocês têm o Cloud para ajudar vocês a configurar.
+
+506
+00:20:37,460 --> 00:20:40,660
+Se vocês tivessem que configurar manualmente, seria mais difícil.
+
+507
+00:20:41,000 --> 00:20:43,740
+Só que com o Cloud conectado no sistema junto com vocês,
+
+508
+00:20:44,059 --> 00:20:46,220
+agora você pode ir pedindo orientação para ele.
+
+509
+00:20:47,000 --> 00:20:49,779
+Até aqui, isso é o mais importante que eu preciso trazer a vocês.
+
+510
+00:20:50,039 --> 00:20:53,599
+Essa é a porta que eu estou abrindo para vocês passarem agora junto com o Cloud.
+
+511
+00:20:54,059 --> 00:20:55,079
+Isso é o mais importante.
+
+512
+00:20:56,359 --> 00:20:58,779
+Daqui para frente, o que vocês têm que ficar de olho?
+
+513
+00:20:59,539 --> 00:21:01,619
+primeiro, pede para o Cloud te explicar
+
+514
+00:21:01,619 --> 00:21:03,400
+o que ele está fazendo. Ah, mas a carga
+
+515
+00:21:03,400 --> 00:21:05,500
+cognitiva é muito alta. Pede para ele te explicar
+
+516
+00:21:05,500 --> 00:21:06,420
+de um jeito simples.
+
+517
+00:21:07,500 --> 00:21:09,019
+Sem termo técnico, ele explica.
+
+518
+00:21:09,359 --> 00:21:11,059
+Olha só, ele está instalando aqui para mim.
+
+519
+00:21:11,240 --> 00:21:13,319
+Instalando o Git, instalando o Node, instalando o Docker.
+
+520
+00:21:13,680 --> 00:21:15,319
+Ele mesmo está configurando o
+
+521
+00:21:15,319 --> 00:21:16,440
+VPS para mim agora.
+
+522
+00:21:17,279 --> 00:21:18,579
+É isso que vocês tinham que entender.
+
+523
+00:21:19,700 --> 00:21:21,680
+Se vocês saírem daqui entendendo isso,
+
+524
+00:21:21,900 --> 00:21:23,480
+pronto, a porta já está
+
+525
+00:21:23,480 --> 00:21:25,660
+aberta e vocês estão num novo mundo.
+
+526
+00:21:26,319 --> 00:21:27,740
+Nessa porta aberta agora,
+
+527
+00:21:28,319 --> 00:21:31,579
+junto com o Cloud, do mesmo jeito que vocês começaram a ficar empolgados, lembra?
+
+528
+00:21:31,859 --> 00:21:32,799
+Vocês ficaram empolgados assim,
+
+529
+00:21:33,240 --> 00:21:36,259
+cara, eu posso agora pedir para o Cloud trabalhar dentro do meu computador.
+
+530
+00:21:36,259 --> 00:21:37,740
+Agora vocês estão...
+
+531
+00:21:37,740 --> 00:21:40,700
+Eu posso colocar aqui, sem dado nenhum,
+
+532
+00:21:40,779 --> 00:21:44,599
+mas a minoria da minoria das pessoas
+
+533
+00:21:44,599 --> 00:21:47,019
+sabem fazer o que vocês acabaram de aprender aqui.
+
+534
+00:21:47,599 --> 00:21:49,720
+Isso é coisa que quem é desenvolvedor sabe.
+
+535
+00:21:50,339 --> 00:21:51,960
+Quem não é desenvolvedor, não sabe.
+
+536
+00:21:52,440 --> 00:21:55,359
+Mas eu estou fazendo aqui, com toda a minha insolência,
+
+537
+00:21:55,880 --> 00:21:57,799
+Eu estou ensinando conhecimentos
+
+538
+00:21:57,799 --> 00:21:59,720
+ocultos dos desenvolvedores
+
+539
+00:21:59,720 --> 00:22:01,740
+para não desenvolvedores, porque
+
+540
+00:22:01,740 --> 00:22:03,680
+é um poder muito grande que vocês podem ter
+
+541
+00:22:03,680 --> 00:22:05,240
+nas mãos agora. Entendeu?
+
+542
+00:22:06,640 --> 00:22:07,819
+Assim como eu não sou desenvolvedor,
+
+543
+00:22:07,900 --> 00:22:09,859
+vocês também não são. E aí, eu sempre
+
+544
+00:22:09,859 --> 00:22:11,640
+reforço também. Com grandes poderes, vem
+
+545
+00:22:11,640 --> 00:22:13,440
+grandes responsabilidades. É verdade.
+
+546
+00:22:14,299 --> 00:22:15,940
+Mas isso aqui é um diferencial muito
+
+547
+00:22:15,940 --> 00:22:17,240
+grande que vocês têm nas mãos.
+
+548
+00:22:18,019 --> 00:22:19,460
+E podem trabalhar com o Claude agora.
+
+549
+00:22:20,279 --> 00:22:22,119
+Tá bom? Enquanto ele está aqui trabalhando,
+
+550
+00:22:22,220 --> 00:22:23,200
+deixa eu só ver se ele terminou.
+
+551
+00:22:24,220 --> 00:22:27,420
+Deixa eu só confirmar aqui, a gente vai para algumas dúvidas também.
+
+552
+00:22:29,539 --> 00:22:31,940
+E aí eu quero falar com vocês de outros pontos.
+
+553
+00:22:33,759 --> 00:22:38,579
+Perfeito, vi que a automação é um bot de Telegram com Grammy mais AntropQI,
+
+554
+00:22:38,740 --> 00:22:43,240
+Cloud Agente SDK e o Start usa Node, que exige Node 20.
+
+555
+00:22:43,420 --> 00:22:44,680
+Vou instalar o Node 22.
+
+556
+00:22:45,299 --> 00:22:46,420
+Antes de tudo, uma observação.
+
+557
+00:22:46,500 --> 00:22:51,140
+O servidor tem 2 GB de RAM e zero swap, NPM install, com módulos nativos Docker.
+
+558
+00:22:51,140 --> 00:22:53,259
+Build nessa faixa costuma estourar memória.
+
+559
+00:22:53,660 --> 00:22:55,519
+vou criar 2 gigas de swap junto.
+
+560
+00:22:55,779 --> 00:22:57,380
+Aqui, na verdade, é porque o Docker,
+
+561
+00:22:57,380 --> 00:22:58,960
+ele cria o container e o container,
+
+562
+00:22:59,500 --> 00:23:01,140
+ele simula um ambiente.
+
+563
+00:23:01,420 --> 00:23:02,640
+E quando ele simula um ambiente,
+
+564
+00:23:02,779 --> 00:23:04,440
+esse ambiente tem uma dependência.
+
+565
+00:23:05,359 --> 00:23:07,859
+Esse ambiente tem uma dependência de hardware,
+
+566
+00:23:08,500 --> 00:23:10,319
+de poder computacional.
+
+567
+00:23:10,980 --> 00:23:11,920
+Aí ele está só avisando aqui,
+
+568
+00:23:12,019 --> 00:23:13,859
+talvez 2 gigas, dependendo do ambiente
+
+569
+00:23:13,859 --> 00:23:15,500
+que você for construir, é pouco.
+
+570
+00:23:16,160 --> 00:23:16,980
+Aí tem dois caminhos.
+
+571
+00:23:17,059 --> 00:23:18,680
+A gente pode fazer um upgrade
+
+572
+00:23:18,680 --> 00:23:20,400
+e aí aumenta os gigas,
+
+573
+00:23:20,599 --> 00:23:25,119
+ou a gente pode criar um container mais básico,
+
+574
+00:23:25,519 --> 00:23:26,420
+que é o que ele vai fazer aqui.
+
+575
+00:23:26,960 --> 00:23:29,440
+Então, ele já falou aqui, node instalado,
+
+576
+00:23:30,160 --> 00:23:33,759
+npm, que é o pacote de node, para baixar pacotes, instalado também,
+
+577
+00:23:34,220 --> 00:23:38,240
+docker instalado, docker-compose instalado, swap criado.
+
+578
+00:23:38,240 --> 00:23:41,720
+E o git já existiu, reparado e configurado.
+
+579
+00:23:41,980 --> 00:23:42,319
+Pronto.
+
+580
+00:23:42,759 --> 00:23:47,819
+Com isso aqui, a gente vai instalar o Git...
+
+581
+00:23:47,819 --> 00:23:51,160
+Git Hold, eu juntei tudo.
+
+582
+00:23:51,359 --> 00:23:53,859
+A gente vai instalar o Cloud Code, que eu queria ter falado,
+
+583
+00:23:54,480 --> 00:23:56,200
+dentro do nosso...
+
+584
+00:23:56,200 --> 00:24:00,099
+do nosso VPS.
+
+585
+00:24:00,740 --> 00:24:03,460
+Por que a gente vai instalar o Cloud Code dentro do nosso VPS?
+
+586
+00:24:03,799 --> 00:24:06,640
+Porque aí vocês não precisam nem da chave aqui.
+
+587
+00:24:07,640 --> 00:24:10,460
+A gente não roda o Cloud Code aqui no computador?
+
+588
+00:24:10,660 --> 00:24:11,160
+Pensa comigo.
+
+589
+00:24:11,559 --> 00:24:15,740
+Eu não posso simplesmente abrir um terminal aqui e rodar um cloud?
+
+590
+00:24:17,359 --> 00:24:18,619
+Eu não posso fazer isso aqui?
+
+591
+00:24:20,619 --> 00:24:25,500
+Então, a gente vai fazer a mesma coisa, só que dentro do nosso VPS.
+
+592
+00:24:25,500 --> 00:24:27,220
+E é muito fácil.
+
+593
+00:24:27,539 --> 00:24:29,539
+Agora que ele já tem o Git e o Node instalados,
+
+594
+00:24:30,640 --> 00:24:36,779
+a gente vai lá na página do cloud e vamos rodar o comando, que é esse aqui.
+
+595
+00:24:38,039 --> 00:24:39,220
+macOS Linux, curl.
+
+596
+00:24:40,119 --> 00:24:40,519
+Copia.
+
+597
+00:24:41,559 --> 00:24:43,859
+Vem aqui no sistema e cola.
+
+598
+00:24:46,400 --> 00:24:47,839
+Aqui é onde está o VPS, lembra?
+
+599
+00:24:47,920 --> 00:24:48,940
+A gente logou no VPS, ó.
+
+600
+00:24:49,220 --> 00:24:50,619
+Instalando o Cloud Code nativo.
+
+601
+00:24:51,559 --> 00:24:52,380
+Agora ele vai instalar.
+
+602
+00:24:52,880 --> 00:24:54,420
+Aí ele vai passar por todo o processo
+
+603
+00:24:54,420 --> 00:24:55,640
+que a gente já está acostumado, ó.
+
+604
+00:24:55,640 --> 00:24:56,700
+Cloud Code instalado.
+
+605
+00:24:57,099 --> 00:24:58,880
+Agora, quando a gente rodar o Cloud Code,
+
+606
+00:24:59,200 --> 00:25:00,859
+a gente precisa logar nele, lembra?
+
+607
+00:25:01,039 --> 00:25:01,759
+Então, Cloud.
+
+608
+00:25:03,279 --> 00:25:04,400
+Comando não é válido ainda.
+
+609
+00:25:04,779 --> 00:25:06,579
+Hum, tem uma questão que pode ser do path.
+
+610
+00:25:06,579 --> 00:25:10,039
+Eu não sei se no Linux dá esse erro de path também.
+
+611
+00:25:10,500 --> 00:25:11,059
+O que eu faço?
+
+612
+00:25:11,279 --> 00:25:12,980
+deu erro, lembra?
+
+613
+00:25:14,299 --> 00:25:14,940
+printa
+
+614
+00:25:14,940 --> 00:25:17,640
+joga lá
+
+615
+00:25:17,640 --> 00:25:19,440
+no nosso cloud de suporte
+
+616
+00:25:19,440 --> 00:25:20,779
+aqui, vou jogar para ele e vou falar
+
+617
+00:25:20,779 --> 00:25:22,759
+instalei
+
+618
+00:25:22,759 --> 00:25:24,380
+cloud code
+
+619
+00:25:24,380 --> 00:25:27,440
+mas quando fui rodar
+
+620
+00:25:27,440 --> 00:25:29,000
+ele não funcionou
+
+621
+00:25:29,000 --> 00:25:30,240
+ajude
+
+622
+00:25:30,240 --> 00:25:33,460
+pode ser por causa da porta
+
+623
+00:25:33,460 --> 00:25:35,500
+pode ser porque eu tenho que fechar e abrir
+
+624
+00:25:35,500 --> 00:25:36,940
+de novo, vamos ver o que ele vai falar aqui
+
+625
+00:25:36,940 --> 00:25:41,279
+( SILÊNCIO 4s )
+
+626
+00:25:41,279 --> 00:25:45,460
+exatamente Giza
+
+627
+00:25:45,460 --> 00:25:47,319
+a Giza falou ali, o processo
+
+628
+00:25:47,319 --> 00:25:49,299
+pede paciência, mas quem poderia imaginar
+
+629
+00:25:49,299 --> 00:25:51,240
+que faríamos isso sem nunca ter escrito
+
+630
+00:25:51,240 --> 00:25:53,180
+uma linha de código num computador
+
+631
+00:25:53,180 --> 00:25:54,660
+pois é né
+
+632
+00:25:54,660 --> 00:25:56,819
+é o caminho, tá vendo, path
+
+633
+00:25:56,819 --> 00:25:58,279
+o mesmo erro que dá no Windows
+
+634
+00:25:58,279 --> 00:26:01,079
+parece que deu aqui também, aí ele vai executar
+
+635
+00:26:01,079 --> 00:26:02,740
+um comando pra corrigir esse caminho aqui
+
+636
+00:26:02,740 --> 00:26:04,240
+que é esse local bin aqui
+
+637
+00:26:04,240 --> 00:26:06,420
+e aí depois a gente vai conseguir
+
+638
+00:26:06,420 --> 00:26:08,420
+Juan, por favor
+
+639
+00:26:08,420 --> 00:26:11,259
+Eu já tinha instalado o Node
+
+640
+00:26:11,259 --> 00:26:13,920
+E ele
+
+641
+00:26:13,920 --> 00:26:15,859
+Assim, como é que eu faço
+
+642
+00:26:15,859 --> 00:26:16,460
+Para saber?
+
+643
+00:26:16,700 --> 00:26:19,259
+Eu já tinha meu checklist aqui
+
+644
+00:26:19,259 --> 00:26:20,599
+Eu já tinha tudo instalado
+
+645
+00:26:20,599 --> 00:26:23,299
+Aí eu peguei o comando
+
+646
+00:26:23,299 --> 00:26:25,480
+Ele não consegue
+
+647
+00:26:25,480 --> 00:26:27,480
+O Cloud Code não consegue identificar
+
+648
+00:26:27,480 --> 00:26:28,480
+Que eu já tenho isso
+
+649
+00:26:28,480 --> 00:26:30,039
+Ou eu tenho sempre que acionar
+
+650
+00:26:30,039 --> 00:26:32,059
+Ele consegue identificar
+
+651
+00:26:32,059 --> 00:26:33,519
+É só perguntar para ele e ele vai te falar
+
+652
+00:26:33,519 --> 00:26:34,759
+Você já tem isso, isso e isso
+
+653
+00:26:34,759 --> 00:26:36,680
+Tudo que tem no sistema ele identifica para você
+
+654
+00:26:36,680 --> 00:26:39,380
+É isso, mas eu digo assim
+
+655
+00:26:39,380 --> 00:26:41,079
+Agora eu dei o comando de novo
+
+656
+00:26:41,079 --> 00:26:43,140
+Só que no meu checklist eu já tinha instalado
+
+657
+00:26:43,140 --> 00:26:45,019
+Então se eu tenho certeza que eu instalei
+
+658
+00:26:45,019 --> 00:26:46,839
+Eu vou poder usar com segurança
+
+659
+00:26:46,839 --> 00:26:48,599
+Não vou precisar instalar
+
+660
+00:26:48,599 --> 00:26:50,039
+Se você tem certeza, sim
+
+661
+00:26:50,039 --> 00:26:52,480
+Se você não tem certeza, pede para ele e ele confirma para você
+
+662
+00:26:52,480 --> 00:26:55,099
+Não tem problema
+
+663
+00:26:55,099 --> 00:26:56,019
+Ele vai olhar para você
+
+664
+00:26:56,019 --> 00:26:58,339
+Inclusive ele verifica se a versão atual
+
+665
+00:26:58,339 --> 00:26:59,740
+É a mais recente
+
+666
+00:26:59,740 --> 00:27:02,519
+Pode deixar que ele configura isso para você
+
+667
+00:27:02,519 --> 00:27:04,059
+Mas a minha pergunta é
+
+668
+00:27:04,059 --> 00:27:06,019
+Se toda vez que eu for executar um comando
+
+669
+00:27:06,019 --> 00:27:08,440
+Eu tenho que checar se tem essas atualizações
+
+670
+00:27:08,440 --> 00:27:10,099
+Ou ele mesmo identifica
+
+671
+00:27:10,099 --> 00:27:11,660
+A gente já instalou, a gente já sabe
+
+672
+00:27:11,660 --> 00:27:13,779
+É igual no seu computador, você teve que instalar
+
+673
+00:27:13,779 --> 00:27:16,180
+O Git e o Node no seu PC local para rodar o Cloud
+
+674
+00:27:16,180 --> 00:27:17,779
+Agora se você sabe que está instalado
+
+675
+00:27:17,779 --> 00:27:19,079
+Não tem que ficar checando toda hora
+
+676
+00:27:19,079 --> 00:27:23,119
+Aí olha só
+
+677
+00:27:23,119 --> 00:27:25,400
+Ele consertou o caminho
+
+678
+00:27:25,400 --> 00:27:27,099
+O PF aqui que estava errado
+
+679
+00:27:27,099 --> 00:27:29,500
+E agora ele só pediu para eu rodar isso
+
+680
+00:27:29,500 --> 00:27:31,940
+Na seção que está aberta, roda isso aqui para ele só atualizar
+
+681
+00:27:31,940 --> 00:27:33,420
+Porque ele ainda está no PF antigo
+
+682
+00:27:33,420 --> 00:27:35,759
+Então vou voltar aqui, roda o comando
+
+683
+00:27:35,759 --> 00:27:37,599
+que ele me pediu, prontinho
+
+684
+00:27:37,599 --> 00:27:39,740
+quando acontece isso aqui, é porque não
+
+685
+00:27:39,740 --> 00:27:42,039
+deu erro nenhum, deu certo, funcionou
+
+686
+00:27:42,039 --> 00:27:43,839
+e agora vamos ver de novo
+
+687
+00:27:43,839 --> 00:27:45,819
+cloud, pronto
+
+688
+00:27:45,819 --> 00:27:47,039
+olha que coisa linda
+
+689
+00:27:47,039 --> 00:27:49,720
+eu estou rodando o cloud no meu PC
+
+690
+00:27:49,720 --> 00:27:51,779
+local, mas esse cloud na verdade
+
+691
+00:27:51,779 --> 00:27:54,039
+está sendo rodado lá no VPS
+
+692
+00:27:54,039 --> 00:27:55,799
+só que eu estou conectado
+
+693
+00:27:55,799 --> 00:27:57,799
+via SSH, então agora eu vou fazer
+
+694
+00:27:57,799 --> 00:27:59,859
+toda a configuração que a gente está acostumado
+
+695
+00:27:59,859 --> 00:28:01,839
+dark mode, então beleza
+
+696
+00:28:01,839 --> 00:28:03,220
+cloud com
+
+697
+00:28:03,220 --> 00:28:05,079
+minha conta
+
+698
+00:28:05,079 --> 00:28:07,500
+aí ele pede para eu poder rodar
+
+699
+00:28:07,500 --> 00:28:09,400
+isso aqui no navegador
+
+700
+00:28:09,400 --> 00:28:11,559
+roda aqui normalmente
+
+701
+00:28:11,559 --> 00:28:12,519
+autorizo
+
+702
+00:28:12,519 --> 00:28:15,559
+entre novamente
+
+703
+00:28:15,559 --> 00:28:17,259
+para conectar
+
+704
+00:28:17,259 --> 00:28:22,339
+faz o login
+
+705
+00:28:22,339 --> 00:28:24,900
+aí ele vai gerar um código para mim
+
+706
+00:28:24,900 --> 00:28:26,400
+autorizar
+
+707
+00:28:26,400 --> 00:28:29,059
+copio esse código
+
+708
+00:28:29,059 --> 00:28:31,200
+colo aqui, dou um enter
+
+709
+00:28:31,200 --> 00:28:33,359
+pronto
+
+710
+00:28:33,359 --> 00:28:34,900
+enter para continuar
+
+711
+00:28:34,900 --> 00:28:36,759
+enter pra continuar
+
+712
+00:28:36,759 --> 00:28:39,740
+confio nessa pasta, ele tá na pasta raiz
+
+713
+00:28:39,740 --> 00:28:41,359
+do VPS, tá
+
+714
+00:28:41,359 --> 00:28:42,599
+dou um enter
+
+715
+00:28:42,599 --> 00:28:44,700
+beleza
+
+716
+00:28:44,700 --> 00:28:51,559
+e pronto, agora eu tenho um cloud
+
+717
+00:28:51,559 --> 00:28:53,420
+dentro do meu VPS
+
+718
+00:28:53,420 --> 00:28:56,819
+legal, né
+
+719
+00:28:56,819 --> 00:28:59,680
+ah, como é que faz agora
+
+720
+00:28:59,680 --> 00:29:01,539
+pra eu poder sair, porque eu
+
+721
+00:29:01,539 --> 00:29:03,160
+loguei nesse aqui, e agora?
+
+722
+00:29:04,200 --> 00:29:05,819
+Agora você tem alguns jeitos de sair.
+
+723
+00:29:05,920 --> 00:29:08,099
+Você pode dar um barra exit aqui.
+
+724
+00:29:09,299 --> 00:29:11,319
+Aí ele vai sair aqui do cloud.
+
+725
+00:29:11,799 --> 00:29:14,279
+Mas ele vai continuar no seu VPS.
+
+726
+00:29:14,799 --> 00:29:16,920
+Ou às vezes você, por exemplo, eu estou nesse cloud aqui.
+
+727
+00:29:17,720 --> 00:29:19,160
+E eu quero abrir outro.
+
+728
+00:29:19,420 --> 00:29:20,180
+Abrir outro terminal.
+
+729
+00:29:20,940 --> 00:29:23,539
+E agora, galera, tudo que vocês já aprenderam escala.
+
+730
+00:29:23,539 --> 00:29:27,960
+Então vamos supor que eu já uso anti-gravity.
+
+731
+00:29:28,940 --> 00:29:30,960
+Você pode simplesmente abrir o anti-gravity.
+
+732
+00:29:31,759 --> 00:29:33,420
+No seu anti-gravity você abre o terminal.
+
+733
+00:29:33,759 --> 00:29:35,680
+e no terminal você conecta no seu VPS.
+
+734
+00:29:36,059 --> 00:29:37,420
+Então, no mesmo ambiente aqui,
+
+735
+00:29:37,839 --> 00:29:38,900
+eu sei que agora eu avancei,
+
+736
+00:29:39,059 --> 00:29:41,579
+eu sei que eu estou avançando um pouco,
+
+737
+00:29:42,079 --> 00:29:44,359
+mas é só para lembrar vocês que isso é possível, tá?
+
+738
+00:29:44,460 --> 00:29:45,900
+Para quem já está mais avançado também.
+
+739
+00:29:46,319 --> 00:29:47,059
+Eu estou aqui, olha,
+
+740
+00:29:47,059 --> 00:29:50,480
+eu posso vir cá, sshroot, arroba,
+
+741
+00:29:50,900 --> 00:29:52,119
+pego lá o meu IP,
+
+742
+00:29:55,000 --> 00:29:55,759
+copio o meu IP,
+
+743
+00:29:56,460 --> 00:29:56,920
+colo aqui,
+
+744
+00:29:57,359 --> 00:29:59,059
+menos p22, é 22,
+
+745
+00:30:00,380 --> 00:30:02,940
+coloco minha senha,
+
+746
+00:30:03,759 --> 00:30:05,279
+Pronto
+
+747
+00:30:05,279 --> 00:30:07,920
+Eu tô no anti-gravity conectado
+
+748
+00:30:07,920 --> 00:30:09,099
+No meu VPS
+
+749
+00:30:09,099 --> 00:30:11,319
+Aí, Cloud
+
+750
+00:30:11,319 --> 00:30:13,500
+Abri o Cloud
+
+751
+00:30:13,500 --> 00:30:15,900
+Só que esse Cloud, aqui ó, SSH
+
+752
+00:30:15,900 --> 00:30:17,819
+Tá vendo aqui no cantinho? Pra você não esquecer
+
+753
+00:30:17,819 --> 00:30:19,599
+Que você tá conectado em outra máquina
+
+754
+00:30:19,599 --> 00:30:21,180
+Esse Cloud aqui
+
+755
+00:30:21,180 --> 00:30:23,480
+Tá conectado lá no meu VPS
+
+756
+00:30:23,480 --> 00:30:25,799
+Pegaram a ideia?
+
+757
+00:30:26,940 --> 00:30:27,640
+Esse é o processo
+
+758
+00:30:27,640 --> 00:30:29,319
+Agora você conecta fácil aqui
+
+759
+00:30:29,319 --> 00:30:31,440
+Pro Codex, mesma coisa
+
+760
+00:30:31,440 --> 00:30:34,079
+Vamos lá, só para vocês relembrarem
+
+761
+00:30:34,079 --> 00:30:35,980
+Eu não vou fazer todos, mas eu vou mostrar o caminho
+
+762
+00:30:35,980 --> 00:30:37,920
+Codec CLI
+
+763
+00:30:37,920 --> 00:30:39,720
+Você vai vir aqui no Codec
+
+764
+00:30:39,720 --> 00:30:42,180
+Depois que você tem o Node e o Git instalado
+
+765
+00:30:42,180 --> 00:30:43,660
+Aí é festa, você instala o que quiser
+
+766
+00:30:43,660 --> 00:30:45,539
+Só lembra que quanto mais coisas você instala
+
+767
+00:30:45,539 --> 00:30:46,619
+Mais enche o seu VPS
+
+768
+00:30:46,619 --> 00:30:48,339
+Tem que lembrar disso
+
+769
+00:30:48,339 --> 00:30:50,180
+Mas está aqui, Linux
+
+770
+00:30:50,180 --> 00:30:52,099
+Você vai copiar isso aqui
+
+771
+00:30:52,099 --> 00:30:54,779
+Vai lá no seu
+
+772
+00:30:54,779 --> 00:30:58,700
+No seu SSH
+
+773
+00:30:58,700 --> 00:31:02,119
+Deixa eu sair de um que vai ser mais fácil
+
+774
+00:31:02,119 --> 00:31:03,680
+Pode ser esse daqui mesmo
+
+775
+00:31:03,680 --> 00:31:05,319
+Barra, Reset
+
+776
+00:31:05,319 --> 00:31:08,099
+Pronto, eu vou vir aqui e vou colar isso aqui
+
+777
+00:31:08,099 --> 00:31:09,180
+Colei
+
+778
+00:31:09,180 --> 00:31:11,420
+Instalando o Codex
+
+779
+00:31:11,420 --> 00:31:12,119
+Instalando
+
+780
+00:31:12,119 --> 00:31:15,500
+Beleza, dou um Y
+
+781
+00:31:15,500 --> 00:31:17,519
+Rodando o Codex
+
+782
+00:31:17,519 --> 00:31:19,619
+Aí ele vai rodar
+
+783
+00:31:19,619 --> 00:31:20,579
+Pedir para eu fazer login
+
+784
+00:31:20,579 --> 00:31:24,579
+Deixa eu ver
+
+785
+00:31:24,579 --> 00:31:26,539
+Se ele já foi
+
+786
+00:31:26,539 --> 00:31:28,839
+aí ó, já foi, faz login
+
+787
+00:31:28,839 --> 00:31:31,259
+pronto, é muito simples
+
+788
+00:31:31,259 --> 00:31:32,920
+ah, eu quero instalar o
+
+789
+00:31:32,920 --> 00:31:33,460
+Hermes
+
+790
+00:31:33,460 --> 00:31:36,700
+lembrando só, você precisa
+
+791
+00:31:36,700 --> 00:31:38,559
+ter Git Node instalado
+
+792
+00:31:38,559 --> 00:31:40,680
+pede o Cloud pra instalar na VPS, depois que tem
+
+793
+00:31:40,680 --> 00:31:42,640
+Git Node instalado, e é bom ter o
+
+794
+00:31:42,640 --> 00:31:44,339
+Docker também, é só vir aqui
+
+795
+00:31:44,339 --> 00:31:46,700
+ele tá pegando o Windows, eu tenho que vir aqui
+
+796
+00:31:46,700 --> 00:31:48,619
+ó, Linux, copia aqui
+
+797
+00:31:48,619 --> 00:31:50,579
+Linux, copiei, dá um
+
+798
+00:31:50,579 --> 00:31:52,619
+ESC aqui, barresite, deixa eu ver se eu consigo
+
+799
+00:31:52,619 --> 00:31:57,859
+Hum, eu vou ter que logar para terminar aqui
+
+800
+00:31:57,859 --> 00:32:00,099
+Vamos lá, vou logar então
+
+801
+00:32:00,099 --> 00:32:04,660
+Vamos terminar a instalação do código aqui nesse VPS
+
+802
+00:32:04,660 --> 00:32:08,480
+Cola aqui
+
+803
+00:32:08,480 --> 00:32:11,099
+Vou logar na minha conta
+
+804
+00:32:11,099 --> 00:32:12,660
+Qual que eu logo? Vou logar nessa mesmo
+
+805
+00:32:12,660 --> 00:32:14,319
+Continuar
+
+806
+00:32:14,319 --> 00:32:22,339
+Então volta
+
+807
+00:32:22,339 --> 00:32:23,420
+Volta
+
+808
+00:32:23,420 --> 00:32:28,000
+Pegar de novo
+
+809
+00:32:28,000 --> 00:32:31,599
+Copia
+
+810
+00:32:31,599 --> 00:32:34,259
+Cola
+
+811
+00:32:34,259 --> 00:32:36,579
+Logar nesse
+
+812
+00:32:36,579 --> 00:32:38,779
+Continua
+
+813
+00:32:38,779 --> 00:32:43,599
+( SILÊNCIO 5s )
+
+814
+00:32:43,599 --> 00:32:47,359
+Eu estou com a internet, né? Já pensou? Desconectei? Não, estou com a internet.
+
+815
+00:32:49,460 --> 00:32:51,240
+Tá, então vou tentar pelo outro jeito aqui.
+
+816
+00:32:51,240 --> 00:33:13,599
+( SILÊNCIO 22s )
+
+817
+00:33:13,599 --> 00:33:17,700
+Ah, por isso que não tá deixando
+
+818
+00:33:17,700 --> 00:33:20,359
+Tá, vou desconectar então do Codex
+
+819
+00:33:20,359 --> 00:33:22,839
+Mas vocês vão conseguir conectar, tá?
+
+820
+00:33:22,839 --> 00:33:24,440
+É só porque eu tô querendo ir mais rápido
+
+821
+00:33:24,440 --> 00:33:25,859
+Mostrar os outros processos
+
+822
+00:33:25,859 --> 00:33:27,839
+É só um...
+
+823
+00:33:27,839 --> 00:33:30,779
+Uma trava de login meu aqui
+
+824
+00:33:30,779 --> 00:33:33,160
+Mas basicamente vocês pegam o código
+
+825
+00:33:33,160 --> 00:33:34,440
+Colam lá e vai logar
+
+826
+00:33:34,440 --> 00:33:36,220
+Dá pra fazer até pelo telefone, tá?
+
+827
+00:33:36,579 --> 00:33:38,779
+No Codex, é o processo de instalação do Codex mesmo
+
+828
+00:33:38,779 --> 00:33:40,079
+De eminar, é o mesmo processo
+
+829
+00:33:40,079 --> 00:33:42,359
+Como eu quero mostrar os outros aqui
+
+830
+00:33:42,359 --> 00:34:04,900
+Eu vou simplificar. Então, de novo, SSH, coloco aqui, pega lá a porta, cola a porta, pega o IP e a porta, cola, opa, digitei alguma coisa errada, faltou o P ali, peraí, copiar mais fácil.
+
+831
+00:34:04,900 --> 00:34:12,360
+( SILÊNCIO 7s )
+
+832
+00:34:12,360 --> 00:34:16,219
+Loguei na VPS
+
+833
+00:34:16,219 --> 00:34:18,760
+Aí vamos lá, quero instalar o Hermes
+
+834
+00:34:18,760 --> 00:34:22,159
+Hermes aí gente, coloca Linux
+
+835
+00:34:22,159 --> 00:34:24,579
+Copia, cola aqui
+
+836
+00:34:24,579 --> 00:34:26,519
+Vamos instalar o Hermes
+
+837
+00:34:26,519 --> 00:34:28,619
+Ó, instalando ele
+
+838
+00:34:28,619 --> 00:34:30,599
+Fazendo todo o processo de instalação
+
+839
+00:34:30,599 --> 00:34:34,059
+O progresso dele
+
+840
+00:34:34,059 --> 00:34:36,460
+No final ele vai ter instalado
+
+841
+00:34:36,460 --> 00:34:38,659
+Eu só configuro qual que é o provedor
+
+842
+00:34:38,659 --> 00:34:40,639
+Que eu quero, a instalação básica do Hermes mesmo
+
+843
+00:34:40,639 --> 00:34:41,519
+Tem o vídeo no YouTube
+
+844
+00:34:41,519 --> 00:34:43,219
+A única diferença é que antes
+
+845
+00:34:43,219 --> 00:34:45,320
+vocês vão rodar o SSH pra entrar
+
+846
+00:34:45,320 --> 00:34:46,280
+no VPS de vocês.
+
+847
+00:34:46,840 --> 00:34:49,400
+Vocês entenderam esse ponto? Ficou claro isso?
+
+848
+00:34:51,800 --> 00:34:53,199
+Que é isso que vocês precisam entender.
+
+849
+00:34:53,320 --> 00:34:55,639
+Isso é o mais importante. O restante agora é diversão.
+
+850
+00:34:57,159 --> 00:34:59,019
+Sim, sim. Que bom.
+
+851
+00:34:59,019 --> 00:35:05,219
+( SILÊNCIO 6s )
+
+852
+00:35:05,219 --> 00:35:06,480
+Juan, você vai mostrar
+
+853
+00:35:06,480 --> 00:35:08,320
+para nós o bus?
+
+854
+00:35:09,559 --> 00:35:10,039
+Vou.
+
+855
+00:35:11,519 --> 00:35:13,440
+Vou mostrar agora.
+
+856
+00:35:13,519 --> 00:35:16,480
+Eu vou fechar essa construção, essa lógica toda de ambiente.
+
+857
+00:35:17,340 --> 00:35:18,539
+Aí a gente vai para as novidades de hoje.
+
+858
+00:35:21,099 --> 00:35:22,579
+Aí ele vai instalar tudo aqui.
+
+859
+00:35:24,380 --> 00:35:27,980
+No final, aí tem Hermes, aí tem Paperclip e tudo.
+
+860
+00:35:28,139 --> 00:35:33,800
+Todos esses, vocês vão ver que eles têm um comando.
+
+861
+00:35:34,840 --> 00:35:35,280
+Seli.
+
+862
+00:35:36,800 --> 00:35:37,400
+Aqui, ó.
+
+863
+00:35:38,659 --> 00:35:38,900
+Tá vendo?
+
+864
+00:35:39,179 --> 00:35:39,820
+Todos eles têm.
+
+865
+00:35:40,820 --> 00:35:42,719
+Vou desacaviar NPM, copia,
+
+866
+00:35:43,380 --> 00:35:44,840
+cola lá, instala o paperclip.
+
+867
+00:35:45,280 --> 00:35:46,480
+Ah, eu quero o Open Cloud.
+
+868
+00:35:48,420 --> 00:35:49,320
+Não, não, não é isso não.
+
+869
+00:35:50,239 --> 00:35:51,000
+Aqui, ó, Open Cloud.
+
+870
+00:35:51,960 --> 00:35:53,119
+Assistente, como começar?
+
+871
+00:35:53,360 --> 00:35:54,719
+Tá aqui também, install.
+
+872
+00:35:55,139 --> 00:35:57,239
+Pode colocar NPM,
+
+873
+00:35:58,059 --> 00:35:59,460
+que vai funcionar melhor aqui
+
+874
+00:35:59,460 --> 00:36:00,340
+pra quando não é Windows.
+
+875
+00:36:00,639 --> 00:36:01,260
+Pera aí, aqui, ó.
+
+876
+00:36:03,920 --> 00:36:04,760
+Tá, isso.
+
+877
+00:36:05,360 --> 00:36:06,380
+Copia isso aqui, cola lá,
+
+878
+00:36:06,539 --> 00:36:07,860
+ou pode ser o OneLiner também,
+
+879
+00:36:07,980 --> 00:36:09,519
+mas o OneLiner tá usando PowerShell.
+
+880
+00:36:10,219 --> 00:36:10,559
+Aqui, ó.
+
+881
+00:36:10,820 --> 00:36:13,139
+pronto, aí copia isso aqui
+
+882
+00:36:13,139 --> 00:36:14,639
+cola lá e instala o opencloud também
+
+883
+00:36:14,639 --> 00:36:16,820
+mesma lógica, beleza
+
+884
+00:36:16,820 --> 00:36:19,119
+e aí o buzzer, eu vou falar
+
+885
+00:36:19,119 --> 00:36:20,420
+a parte aqui, já vou falar dele
+
+886
+00:36:20,420 --> 00:36:23,219
+vamos fechar isso aqui, no final galera
+
+887
+00:36:23,219 --> 00:36:25,099
+deu tudo
+
+888
+00:36:25,099 --> 00:36:25,559
+errado
+
+889
+00:36:25,559 --> 00:36:28,679
+estragou tudo, vazou senha
+
+890
+00:36:28,679 --> 00:36:31,079
+tá preocupado, vem aqui
+
+891
+00:36:31,079 --> 00:36:32,739
+clica em alterar
+
+892
+00:36:32,739 --> 00:36:34,179
+fazer rebuild
+
+893
+00:36:34,179 --> 00:36:36,539
+ele zera o VPS inteiro
+
+894
+00:36:36,539 --> 00:36:38,099
+você faz o processo de novo
+
+895
+00:36:38,099 --> 00:36:39,880
+tá bom
+
+896
+00:36:39,880 --> 00:36:42,619
+E já fica conectado
+
+897
+00:36:42,619 --> 00:36:44,800
+Esse barulho de WhatsApp é do PC do Juan?
+
+898
+00:36:45,119 --> 00:36:45,719
+Não é possível
+
+899
+00:36:45,719 --> 00:36:48,179
+Não estou com nenhum WhatsApp aberto aqui
+
+900
+00:36:48,179 --> 00:36:50,579
+Se for, vai ser sacanagem, vai ficar na gravação
+
+901
+00:36:50,579 --> 00:36:56,699
+Só volta na parte que a gente pega o código
+
+902
+00:36:56,699 --> 00:36:57,719
+Para instalar o Cloud
+
+903
+00:36:57,719 --> 00:36:59,380
+Lá no Cloud Documentation
+
+904
+00:36:59,380 --> 00:37:00,980
+É só digitar Cloud Doc
+
+905
+00:37:00,980 --> 00:37:02,420
+Cloud Code Doc
+
+906
+00:37:02,420 --> 00:37:05,739
+Pronto
+
+907
+00:37:05,739 --> 00:37:07,639
+Desce aqui, comece agora
+
+908
+00:37:07,639 --> 00:37:09,760
+Aí você vai vir aqui, Linux
+
+909
+00:37:09,760 --> 00:37:11,519
+e vai pegar o de Linux, tá bom?
+
+910
+00:37:12,239 --> 00:37:13,500
+Os bots do HostGator
+
+911
+00:37:13,500 --> 00:37:15,739
+entraram em greve bem na minha vez do rebuild.
+
+912
+00:37:17,079 --> 00:37:17,719
+O bom é que
+
+913
+00:37:17,719 --> 00:37:19,280
+vocês vão ter gravação depois
+
+914
+00:37:19,280 --> 00:37:21,179
+e vão poder fazer isso aqui.
+
+915
+00:37:23,059 --> 00:37:24,059
+Com isso, galera,
+
+916
+00:37:24,159 --> 00:37:25,739
+vamos fazer um recap aqui, porque
+
+917
+00:37:25,739 --> 00:37:27,760
+é muita coisa, e eu quero mostrar
+
+918
+00:37:27,760 --> 00:37:29,820
+pra vocês tudo que a gente passou aqui.
+
+919
+00:37:29,880 --> 00:37:31,760
+Agora ele entrou na configuração
+
+920
+00:37:31,760 --> 00:37:32,500
+do Hermes, tá vendo?
+
+921
+00:37:33,800 --> 00:37:35,880
+E aí eu poderia fazer a configuração, não vou fazer
+
+922
+00:37:35,880 --> 00:37:37,679
+porque tem vídeo disso, vocês podem seguir
+
+923
+00:37:37,679 --> 00:37:39,739
+cada configuração ali, tá tudo bem
+
+924
+00:37:39,739 --> 00:37:41,519
+o mais importante é isso aqui
+
+925
+00:37:41,519 --> 00:37:43,980
+vocês entendem agora como fazer
+
+926
+00:37:43,980 --> 00:37:46,139
+uma conexão SSH com o VPS
+
+927
+00:37:46,139 --> 00:37:47,760
+e isso é tudo que vocês precisam
+
+928
+00:37:47,760 --> 00:37:50,099
+pra configurar o VPS do jeito que vocês quiserem
+
+929
+00:37:50,099 --> 00:37:51,639
+trabalhando ali junto com
+
+930
+00:37:51,639 --> 00:37:53,320
+o Cloud, principalmente
+
+931
+00:37:53,320 --> 00:37:55,900
+tá bom? Isso é o mais importante
+
+932
+00:37:55,900 --> 00:37:58,079
+então, depois disso tudo
+
+933
+00:37:58,079 --> 00:37:58,760
+aqui, né
+
+934
+00:37:58,760 --> 00:38:01,800
+olha que loucura, quatro encontros
+
+935
+00:38:01,800 --> 00:38:03,679
+o processo
+
+936
+00:38:03,679 --> 00:38:05,900
+pra conectar essa automação
+
+937
+00:38:05,900 --> 00:38:08,099
+dentro de uma VPS
+
+938
+00:38:08,099 --> 00:38:09,840
+ele
+
+939
+00:38:09,840 --> 00:38:11,739
+é tão simples quanto
+
+940
+00:38:11,739 --> 00:38:13,360
+puxar a pasta para cá
+
+941
+00:38:13,360 --> 00:38:16,000
+e pedir para o cloud seguir
+
+942
+00:38:16,000 --> 00:38:17,139
+passo a passo com você
+
+943
+00:38:17,139 --> 00:38:19,539
+migrando o que está local
+
+944
+00:38:19,539 --> 00:38:22,099
+para um VPS que nunca desliga
+
+945
+00:38:22,099 --> 00:38:24,199
+detalhe
+
+946
+00:38:24,199 --> 00:38:24,880
+importante
+
+947
+00:38:24,880 --> 00:38:27,340
+quando eu estou cheio de rotinas
+
+948
+00:38:27,340 --> 00:38:29,820
+minhas rotinas estão rodando aqui
+
+949
+00:38:29,820 --> 00:38:31,239
+no meu cloud
+
+950
+00:38:31,239 --> 00:38:34,039
+e eu tenho que desligar
+
+951
+00:38:34,039 --> 00:38:36,039
+meu PC, eu quero que as minhas rotinas rodem
+
+952
+00:38:36,039 --> 00:38:37,500
+lá no outro Cloud. O que vocês vão fazer?
+
+953
+00:38:38,699 --> 00:38:40,000
+Responde aí mentalmente na sua cabeça.
+
+954
+00:38:40,059 --> 00:38:42,039
+O que você vai fazer? Você vai
+
+955
+00:38:42,039 --> 00:38:43,300
+ter o Cloud instalado
+
+956
+00:38:43,300 --> 00:38:45,239
+lá no seu VPS.
+
+957
+00:38:45,860 --> 00:38:47,820
+Com o Cloud instalado no seu VPS
+
+958
+00:38:47,820 --> 00:38:49,960
+é só diversão, porque
+
+959
+00:38:49,960 --> 00:38:51,619
+aí você pode configurar as rotinas
+
+960
+00:38:51,619 --> 00:38:53,840
+direto lá. Tem como até
+
+961
+00:38:53,840 --> 00:38:54,860
+gerar um prompt, tá?
+
+962
+00:38:55,619 --> 00:38:57,860
+Pode gerar um prompt com o... Ah, eu fechei
+
+963
+00:38:57,860 --> 00:38:59,820
+aqui o meu HostGator sem querer.
+
+964
+00:39:00,519 --> 00:39:01,480
+Vou abrir ele aqui de novo.
+
+965
+00:39:02,719 --> 00:39:03,119
+Login.
+
+966
+00:39:04,039 --> 00:39:05,619
+Tomara que ele esteja logado
+
+967
+00:39:05,619 --> 00:39:06,900
+Que aí eu tenho que ficar fazendo login
+
+968
+00:39:06,900 --> 00:39:07,800
+Já está logado
+
+969
+00:39:07,800 --> 00:39:09,139
+VPS
+
+970
+00:39:09,139 --> 00:39:16,800
+One year later
+
+971
+00:39:16,800 --> 00:39:19,420
+Beleza, venho gerenciar
+
+972
+00:39:19,420 --> 00:39:21,699
+Só para pegar aqui
+
+973
+00:39:21,699 --> 00:39:22,599
+O nosso IP
+
+974
+00:39:22,599 --> 00:39:28,039
+Pronto
+
+975
+00:39:28,039 --> 00:39:33,119
+Pronto
+
+976
+00:39:33,119 --> 00:39:35,559
+Aqui eu consigo carregar o Cloud, não consigo?
+
+977
+00:39:35,679 --> 00:39:37,900
+Porque eu instalei ele, pronto, carreguei o Cloud
+
+978
+00:39:37,900 --> 00:39:39,179
+O que eu vou fazer aqui?
+
+979
+00:39:39,380 --> 00:39:40,579
+Barra Routines
+
+980
+00:39:40,579 --> 00:39:43,519
+Shadow, Routines
+
+981
+00:39:43,519 --> 00:39:45,880
+Criar, atualizar, listar ou rodar
+
+982
+00:39:45,880 --> 00:39:46,659
+Suas rotinas
+
+983
+00:39:46,659 --> 00:39:49,260
+E aí eu consigo configurar uma rotina aqui
+
+984
+00:39:49,260 --> 00:39:51,539
+Direto lá na VPS
+
+985
+00:39:51,539 --> 00:39:53,760
+Ah Juan, mas e se eu quiser
+
+986
+00:39:53,760 --> 00:39:55,619
+Que ele faça rotina
+
+987
+00:39:55,619 --> 00:39:56,800
+Mas eu quero ter um app
+
+988
+00:39:56,800 --> 00:39:59,340
+para eu visualizar as notícias, por exemplo,
+
+989
+00:39:59,699 --> 00:40:01,099
+sem ter que ficar vendo nessa tela,
+
+990
+00:40:01,179 --> 00:40:02,400
+eu não quero ter que entrar nisso aqui,
+
+991
+00:40:02,719 --> 00:40:06,440
+eu quero colocar um site, www.minhasnoticias.com.
+
+992
+00:40:07,340 --> 00:40:09,340
+Você vai configurar esse site aqui junto com ele,
+
+993
+00:40:09,420 --> 00:40:12,480
+ele até te dá um jeito de fazer isso com Nginx,
+
+994
+00:40:12,820 --> 00:40:14,639
+mas se você quiser, você pode conectar na Vercel,
+
+995
+00:40:15,440 --> 00:40:17,139
+aí você conecta o seu sistema na Vercel,
+
+996
+00:40:17,500 --> 00:40:20,159
+aí ele vai ficar conectado tanto na VPS quanto na Vercel,
+
+997
+00:40:20,579 --> 00:40:21,400
+com os crons ali,
+
+998
+00:40:21,800 --> 00:40:23,300
+e você acessa o seu site ali,
+
+999
+00:40:23,300 --> 00:40:24,300
+o seu site XYZ,
+
+1000
+00:40:25,340 --> 00:40:28,199
+E aí todo dia ele traz a notícia para você no seu site,
+
+1001
+00:40:28,360 --> 00:40:30,539
+todo dia ele atualiza, todo dia ele faz uma cópia,
+
+1002
+00:40:30,659 --> 00:40:36,380
+tudo o que você quiser agora sem parar 24 horas barra 7 trabalhando com rotinas.
+
+1003
+00:40:36,820 --> 00:40:40,519
+Ah, eu quero evoluir, sair de rotinas, quero trazer minha automação.
+
+1004
+00:40:41,059 --> 00:40:44,260
+Primeiro, cria a automação local, é mais fácil, menos trabalho.
+
+1005
+00:40:44,719 --> 00:40:46,460
+Depois que você criou ela toda localmente,
+
+1006
+00:40:46,880 --> 00:40:50,340
+você vai pedir para o seu cloud migrar para a sua VPS.
+
+1007
+00:40:50,340 --> 00:40:54,079
+Ele vai migrar para lá e aí é a felicidade,
+
+1008
+00:40:54,239 --> 00:40:56,139
+porque vai ficar rodando 24 barra 7.
+
+1009
+00:40:56,639 --> 00:40:56,880
+Tá bom?
+
+1010
+00:40:58,179 --> 00:41:01,039
+Os arquivos da automação vão ficar hospedados na VPS?
+
+1011
+00:41:01,239 --> 00:41:02,440
+Não dá para trabalhar com GitHub?
+
+1012
+00:41:02,880 --> 00:41:04,840
+O ideal é trabalhar com GitHub.
+
+1013
+00:41:05,460 --> 00:41:06,860
+O ideal é que...
+
+1014
+00:41:06,860 --> 00:41:08,760
+E quando você trabalha com GitHub e clona,
+
+1015
+00:41:08,760 --> 00:41:11,559
+os arquivos ficam tanto na VPS quanto no GitHub.
+
+1016
+00:41:11,940 --> 00:41:14,460
+Tem até como não precisar ficar na VPS,
+
+1017
+00:41:15,139 --> 00:41:16,099
+é uma opção também,
+
+1018
+00:41:16,519 --> 00:41:21,159
+mas o natural é que você clone o repositório do GitHub,
+
+1019
+00:41:21,760 --> 00:41:23,239
+e aí com ele clonado do GitHub,
+
+1020
+00:41:23,659 --> 00:41:27,519
+você consegue puxar os arquivos para a VPS
+
+1021
+00:41:27,519 --> 00:41:29,519
+e ela vai trabalhando ali para você também, tá bom?
+
+1022
+00:41:30,019 --> 00:41:33,159
+Mas o ideal é sim ter o GitHub,
+
+1023
+00:41:33,440 --> 00:41:35,920
+porque aí você centraliza tudo em uma única fonte de verdade
+
+1024
+00:41:35,920 --> 00:41:38,619
+e tanto localmente quanto lá no sistema,
+
+1025
+00:41:38,739 --> 00:41:41,139
+você acessa do mesmo lugar, tá bom?
+
+1026
+00:41:42,039 --> 00:41:44,900
+Esse arquivo que o Juan está usando agora, onde fica?
+
+1027
+00:41:47,840 --> 00:41:49,699
+Ah, esse arquivo aqui é o que a gente criou
+
+1028
+00:41:49,699 --> 00:41:53,039
+no nosso computador mesmo, nos nossos últimos encontros.
+
+1029
+00:41:53,639 --> 00:41:56,280
+Lembra que a gente criou aqui, ó, eu tenho a dash,
+
+1030
+00:41:57,280 --> 00:42:00,800
+e aí aqui na dash eu tenho pesquisa, copywriting.
+
+1031
+00:42:01,340 --> 00:42:02,500
+Lembra que a gente construiu isso aqui?
+
+1032
+00:42:03,159 --> 00:42:04,440
+Isso tudo está no meu PC local.
+
+1033
+00:42:05,000 --> 00:42:08,019
+Eu quero transferir isso aqui agora lá para a VPS,
+
+1034
+00:42:08,019 --> 00:42:12,079
+porque aí eu deixo uma automação rodando 24 barra 7 para mim.
+
+1035
+00:42:13,940 --> 00:42:14,199
+Tá bom?
+
+1036
+00:42:16,760 --> 00:42:20,039
+Com isso, a gente encerra aqui, então,
+
+1037
+00:42:21,380 --> 00:42:25,320
+todo o processo de ponta a ponta do que vocês precisam saber
+
+1038
+00:42:25,320 --> 00:42:28,820
+para poder construir uma automação completa.
+
+1039
+00:42:29,739 --> 00:42:32,420
+Juan, eu aprendi tudo o que eu posso aprender sobre o assunto?
+
+1040
+00:42:32,699 --> 00:42:32,940
+Não.
+
+1041
+00:42:33,719 --> 00:42:40,639
+Não tem nem como a gente tentar zerar uma área inteira em quatro aulas.
+
+1042
+00:42:40,880 --> 00:42:43,139
+Não tem nem como zerar uma área inteira em quatro aulas.
+
+1043
+00:42:43,840 --> 00:42:46,699
+Mas em quatro aulas, o jeito que eu desenhei esse programa
+
+1044
+00:42:46,699 --> 00:42:49,960
+foi para trazer todos os fundamentos e ferramentas
+
+1045
+00:42:49,960 --> 00:42:51,539
+que vocês precisam para fazer isso.
+
+1046
+00:42:51,960 --> 00:42:55,679
+Se vocês voltarem em qualquer uma das aulas e reassistirem,
+
+1047
+00:42:55,679 --> 00:42:58,579
+vocês vão ver que nelas tem tudo o que vocês precisam
+
+1048
+00:42:58,579 --> 00:43:01,619
+para construir uma automação completa
+
+1049
+00:43:01,619 --> 00:43:03,699
+e colocar ela em um ambiente que nunca desliga.
+
+1050
+00:43:04,300 --> 00:43:04,960
+Passo a passo.
+
+1051
+00:43:05,519 --> 00:43:08,019
+E com isso, inclusive, colocar múltiplos agentes,
+
+1052
+00:43:08,159 --> 00:43:12,400
+quantos agentes vocês quiserem para trabalharem ali por vocês.
